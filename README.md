@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I created a framework with JSX components on generators*, a fast mobx-like state management and an exclusive cssx styling system](https://dev.to/iminside/i-created-a-framework-with-jsx-components-on-generators-a-fast-mobx-like-state-management-and-an-exclusive-cssx-styling-system-4mln)
+- [Lifehacker] [How to Survive Sleeping in the Heat With No Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-with-no-air-conditi-1849338591)
 - [Lifehacker] [What to Cook When You Have Too Much Zucchini](https://lifehacker.com/what-to-cook-when-you-have-too-much-zucchini-1849338829)
 - [Lifehacker] [Total Voice Control, and Other Mac Accessibility Features Anyone Can Use](https://lifehacker.com/total-voice-control-and-other-mac-accessibility-featur-1849337914)
 - [Dev.to/JS] [Introduction to Next.js - a personal opinion](https://dev.to/rukshanjs/introduction-to-nextjs-a-personal-opinion-emn)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [So you want to implement a visitor/viewer count without crashing your server?](https://dev.to/britneycodes/so-you-want-to-implement-a-visitorviewer-count-without-crashing-your-server-396p)
 - [Lifehacker] [The Best Apps to Plan an Outdoor Adventure](https://lifehacker.com/the-best-apps-to-plan-an-outdoor-adventure-1849336541)
 - [Dev.to/JS] [tsParticles React and Vue packages are changing!](https://dev.to/matteobruni/tsparticles-react-and-vue-packages-are-changing-i1n)
-- [Dev.to/JS] [Bouncing Shapes Background With Canvas](https://dev.to/maurerkrisztian/bouncing-shapes-background-with-canvas-30pf)
 - [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
 - [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
 - [Lifehacker] [How to Network When You Have Social Anxiety](https://lifehacker.com/how-to-network-when-you-have-social-anxiety-1849335852)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Okay, Which MacBook Should You Buy?](https://lifehacker.com/okay-which-macbook-should-you-buy-1849330413)
 - [Lifehacker] [The Five Unbreakable Rules of Driving Etiquette](https://lifehacker.com/the-five-unbreakable-rules-of-driving-etiquette-1849333282)
 - [Lifehacker] [How to Make Flying on a Low-Cost Airline Less Soul-Killing](https://lifehacker.com/how-to-make-flying-on-a-low-cost-airline-less-soul-kill-1849331060)
-- [Lifehacker] [12 Essential Podcasts for Gamers](https://lifehacker.com/12-of-the-best-video-game-podcasts-1849333059)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
