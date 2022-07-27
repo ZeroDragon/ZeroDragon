@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Are the Most Underrated Fast Food Menu Items?](https://lifehacker.com/what-are-the-most-underrated-fast-food-menu-items-1849332459)
+- [Dev.to/JS] [Prevent spam and detect bots with ReCAPTCHA](https://dev.to/asayerio_techblog/prevent-spam-and-detect-bots-with-recaptcha-6l0)
+- [Dev.to/JS] [Improving code quality in Typescript with compiler options - Part 2](https://dev.to/asayerio_techblog/improving-code-quality-in-typescript-with-compiler-options-part-2-4fk2)
+- [Dev.to/JS] [Cookies, I hardy knew ye.](https://dev.to/brunnock/cookies-i-hardy-knew-ye-2pjp)
 - [Dev.to/JS] [Useful tools, libraries and resources for developer to speed up the development](https://dev.to/devsimc/useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development-3eb1)
 - [Dev.to/JS] [Operadores Lógicos - parte 2](https://dev.to/h4ck3rtr4d3r/operadores-logicos-parte-2-4ach)
 - [Dev.to/JS] [10 Best Data Scientist Employers for This Recession - [2022 UPDATE]](https://dev.to/datascientist987/10-best-data-scientist-employers-for-this-recession-2022-update-26dd)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My First Post....](https://dev.to/anzaladar/my-first-post-3d59)
 - [Dev.to/JS] [Via Keto Gummies - Price, Pros, Cons, Benefits &amp; Results?](https://dev.to/viaketobuys/via-keto-gummies-price-pros-cons-benefits-results-45da)
 - [Dev.to/JS] [Who Is Buzzing About the Arctos Portable AC?](https://dev.to/cookspault/who-is-buzzing-about-the-arctos-portable-ac-566k)
-- [Dev.to/JS] [The most dominant tools for NodeJS developers.](https://dev.to/meetthakkar/the-most-dominant-tools-for-nodejs-developers-l22)
-- [Dev.to/JS] [Construyendo un Workflow Designer basado en plugins con Angular y Module Federation](https://dev.to/ngcontent/construyendo-un-workflow-designer-basado-en-plugins-con-angular-y-module-federation-2oae)
-- [Dev.to/JS] [How You Can Expand Your Content Skills to Get Closer to Tech](https://dev.to/how-to-dev/how-you-can-expand-your-content-skills-to-get-closer-to-tech-4h1f)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
 - [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
-- [Lifehacker] [So You Forgot to Reserve Some Pasta Water](https://lifehacker.com/so-you-forgot-to-reserve-some-pasta-water-1849327454)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
