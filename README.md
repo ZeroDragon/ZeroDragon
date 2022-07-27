@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Vite on an existing React project](https://dev.to/asapconet/using-vite-on-an-existing-react-project-208p)
+- [Dev.to/JS] [Dialogs in 2022](https://dev.to/jmalvarez/dialogs-in-2022-4glm)
 - [Dev.to/JS] [A Powerful Story AboutThe Eagle. 🦅](https://dev.to/dreamyplayer/a-powerful-story-aboutthe-eagle-56gi)
 - [Dev.to/JS] [My First Post....](https://dev.to/anzaladar/my-first-post-3d59)
 - [Dev.to/JS] [Via Keto Gummies - Price, Pros, Cons, Benefits &amp; Results?](https://dev.to/viaketobuys/via-keto-gummies-price-pros-cons-benefits-results-45da)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Module Federation Dinámico con Angular](https://dev.to/ngcontent/module-federation-dinamico-con-angular-4go1)
 - [Dev.to/JS] [La Revolución del Micro Frontend: Module Federation en Webpack 5](https://dev.to/ngcontent/la-revolucion-del-micro-frontend-module-federation-en-webpack-5-1jl5)
 - [Dev.to/JS] [Por qué y cómo postular a la JSConf Chile](https://dev.to/jsconfcl/por-que-y-como-postular-a-la-jsconf-chile-1meb)
-- [Dev.to/JS] [Building a Fantasy Basketball App](https://dev.to/lucvankerkvoort/building-a-fantasy-basketball-app-4i24)
-- [Dev.to/JS] [Airtable: a low-code solution for building modern apps](https://dev.to/asayerio_techblog/airtable-a-low-code-solution-for-building-modern-apps-217a)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
