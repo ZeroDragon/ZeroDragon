@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do I use JSON formatter extension in Chrome?](https://dev.to/professionalw0/how-do-i-use-json-formatter-extension-in-chrome-4iac)
+- [Dev.to/JS] [Print to console - console.log&lpar;&rpar; and more](https://dev.to/tonmoydev/print-to-console-consolelog-and-more-4eca)
 - [Dev.to/JS] [Let’s do fabform…](https://dev.to/nitinreddy3/lets-do-fabform-51bo)
 - [Dev.to/JS] [JavaScript Higher Order Functions with functional Programing](https://dev.to/arunnithish/javascript-higher-order-functions-with-functional-programing-93k)
 - [Dev.to/JS] [7 Daily Hacks For Programmers To Make Coding Skills Faster](https://dev.to/devsimc/7-daily-hacks-for-programmers-to-make-coding-skills-faster-a68)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🧠 Symbol.match and Friends](https://dev.to/jcbhmr/symbolmatch-and-friends-3nmb)
 - [Dev.to/JS] [An Exercise with Debugging and Promises](https://dev.to/msoup/an-exercise-with-debugging-and-promises-2m0p)
 - [Dev.to/JS] [Chat React](https://dev.to/jesusalbarca/chat-react-10hm)
-- [Dev.to/JS] [HostListener + Output = 🤔](https://dev.to/mmuscat/hostlistener-output--2dhe)
-- [Dev.to/JS] [Algunos métodos más allá del console.log en Javascript](https://dev.to/khriztianmoreno/algunos-metodos-mas-alla-del-consolelog-en-javascript-48e2)
 - [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
 - [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
