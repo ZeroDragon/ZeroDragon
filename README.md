@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Is Monkeypox a Sexually Transmitted Disease?](https://lifehacker.com/is-monkeypox-a-sexually-transmitted-disease-1849343210)
+- [Dev.to/JS] [Flatiron Phase 1 Blogpost - Codewars](https://dev.to/nicolaigorden/flatiron-phase-1-blogpost-codewars-b8)
+- [Dev.to/JS] [E-commerce mobile app Figma UI Design](https://dev.to/mahamud751/e-commerce-mobile-app-figma-ui-design-187k)
+- [Dev.to/JS] [Build a Resilient Application Using Redis Offering.](https://dev.to/apoorvtomar/build-a-resilient-application-using-redis-offering-1p6g)
+- [Dev.to/JS] [The Complete Web Developer in 2022: Zero to Mastery](https://dev.to/aswin2001barath/the-complete-web-developer-in-2022-zero-to-mastery-5dm1)
+- [Dev.to/JS] [Junior to Senior Developer Roadmap](https://dev.to/aswin2001barath/junior-to-senior-developer-roadmap-477p)
+- [Lifehacker] [The Best Free &lpar;or Cheap&rpar; Financial Courses for Beginners](https://lifehacker.com/the-best-free-or-cheap-financial-courses-for-beginner-1849342702)
 - [Lifehacker] [What&#39;s New on Paramount+ in August 2022](https://lifehacker.com/whats-new-on-paramount-in-august-2022-1849342507)
 - [Dev.to/JS] [Creative Coding with p5.JS: An inclusive javascript library](https://dev.to/devsatasurion/creative-coding-with-p5js-an-inclusive-javascript-library-4e55)
 - [Lifehacker] [Make Yourself a Stroopwafel ‘Choco Taco’](https://lifehacker.com/make-yourself-a-stroopwafel-choco-taco-1849342317)
@@ -34,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Sharing using Services in Angular](https://dev.to/shaikhkamran/data-sharing-using-services-in-angular-3l88)
 - [Dev.to/JS] [Migrating your React App to React Router v6](https://dev.to/damkols/migrating-your-react-app-to-react-router-v6-4p26)
 - [Lifehacker] [Here’s What to Do If You Win the Mega Millions Lottery on Friday](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)
-- [Dev.to/JS] [3D Drawing on 2D Canvas](https://dev.to/brookesb91/3d-drawing-on-2d-canvas-3e51)
-- [Dev.to/JS] [Simple to-do list made with sveltekit and tailwind !](https://dev.to/kodah/simple-to-do-list-made-with-sveltekit-and-tailwind--39nk)
-- [Dev.to/JS] [How do you verify an email for sign-up ?](https://dev.to/bacloud22/how-do-you-verify-an-email-for-sign-up--34k3)
 - [Lifehacker] [Twerk, OMG, Tricked Out, and 8 Other Slang Terms That Are a Lot Older Than You Think](https://lifehacker.com/twerk-omg-tricked-out-and-8-other-slang-terms-that-a-1849341103)
-- [Dev.to/JS] [As a Interviewer what question you ask a dev while taking interview for react.js?](https://dev.to/rajeshroyal/as-a-interviewer-what-question-you-ask-a-dev-while-taking-interview-for-reactjs-40kh)
-- [Dev.to/JS] [What is an API?](https://dev.to/gurram_charan3/what-is-an-api-3h62)
 - [Lifehacker] [This Is the Difference Between a Generator and a Backup Battery for Your Home](https://lifehacker.com/this-is-the-difference-between-a-generator-and-a-backup-1849341165)
 - [Lifehacker] [You Should Bring This Pickle Salad to Your Next Picnic](https://lifehacker.com/you-should-bring-this-pickle-salad-to-your-next-picnic-1849339997)
 - [Lifehacker] [How to Make Instagram Less of a Shitshow](https://lifehacker.com/how-to-make-instagram-less-of-a-shitshow-1849339324)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
 - [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
 - [Lifehacker] [How to Network When You Have Social Anxiety](https://lifehacker.com/how-to-network-when-you-have-social-anxiety-1849335852)
-- [Lifehacker] [How to Keep Your Kids Safe During a Heat Wave](https://lifehacker.com/how-to-keep-your-kids-safe-during-a-heat-wave-1849334729)
-- [Lifehacker] [You Can Make Your Smartphone Read Out Loud to You](https://lifehacker.com/you-can-make-your-smartphone-read-out-loud-to-you-1849333216)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
