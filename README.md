@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add Prettier code formatter to your project?](https://dev.to/dobron/how-to-add-prettier-code-formatter-to-your-project-5coh)
+- [Dev.to/JS] [Mouse over leaflet problem](https://dev.to/sarahch29/mouse-over-leaflet-problem-346g)
+- [Dev.to/JS] [React Tutorial Part - 3 -&gt; Getting real](https://dev.to/ishanpro/react-tutorial-part-3-getting-real-336j)
+- [Lifehacker] [How to Play PS5 in 1440p](https://lifehacker.com/how-to-play-ps5-in-1440p-1849342187)
+- [Dev.to/JS] [Getting Started with Artillery](https://dev.to/qainsights/getting-started-with-artillery-4o8b)
+- [Dev.to/JS] [Data Sharing using Services in Angular](https://dev.to/shaikhkamran/data-sharing-using-services-in-angular-3l88)
+- [Dev.to/JS] [Migrating your React App to React Router v6](https://dev.to/damkols/migrating-your-react-app-to-react-router-v6-4p26)
+- [Lifehacker] [Here’s What to Do If You Win the Mega Millions Lottery on Friday](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)
 - [Dev.to/JS] [3D Drawing on 2D Canvas](https://dev.to/brookesb91/3d-drawing-on-2d-canvas-3e51)
 - [Dev.to/JS] [Simple to-do list made with sveltekit and tailwind !](https://dev.to/kodah/simple-to-do-list-made-with-sveltekit-and-tailwind--39nk)
 - [Dev.to/JS] [How do you verify an email for sign-up ?](https://dev.to/bacloud22/how-do-you-verify-an-email-for-sign-up--34k3)
@@ -30,14 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [As a Interviewer what question you ask a dev while taking interview for react.js?](https://dev.to/rajeshroyal/as-a-interviewer-what-question-you-ask-a-dev-while-taking-interview-for-reactjs-40kh)
 - [Dev.to/JS] [What is an API?](https://dev.to/gurram_charan3/what-is-an-api-3h62)
 - [Dev.to/JS] [3D web - Three.js &lpar;fiber &amp; drei&rpar; - web3 serie](https://dev.to/uigla/chapter-2-3d-website-using-threejs-fiber-react-web3-and-vite-as-bundler-using-more-packages-4p02)
-- [Dev.to/JS] [Top 7 Java Development Companies for Enterprise Applications](https://dev.to/botreetechnologies/top-7-java-development-companies-for-enterprise-applications-3fo6)
 - [Lifehacker] [This Is the Difference Between a Generator and a Backup Battery for Your Home](https://lifehacker.com/this-is-the-difference-between-a-generator-and-a-backup-1849341165)
-- [Dev.to/JS] [How to Build Crypto Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-crypto-website-using-html-css-javascript-4o7g)
-- [Dev.to/JS] [JavaScript #1 - &lt;Script&gt;](https://dev.to/mrmobin/javascript-1--3mp3)
-- [Dev.to/JS] [Operadores Lógicos - parte 3](https://dev.to/h4ck3rtr4d3r/operadores-logicos-parte-3-3912)
 - [Lifehacker] [You Should Bring This Pickle Salad to Your Next Picnic](https://lifehacker.com/you-should-bring-this-pickle-salad-to-your-next-picnic-1849339997)
-- [Dev.to/JS] [Clean Architecture: A Toy Node Prototype](https://dev.to/flachica/clean-architecture-a-toy-node-prototype-2kp3)
-- [Dev.to/JS] [JavaScript - Start The Journey](https://dev.to/mrmobin/javascript-start-the-journey-4m6)
 - [Lifehacker] [How to Make Instagram Less of a Shitshow](https://lifehacker.com/how-to-make-instagram-less-of-a-shitshow-1849339324)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Your Smartphone Read Out Loud to You](https://lifehacker.com/you-can-make-your-smartphone-read-out-loud-to-you-1849333216)
 - [Lifehacker] [What to Do With Your Kids This Summer When You’ve Run Out of Ideas](https://lifehacker.com/what-to-do-with-your-kids-this-summer-when-you-ve-run-o-1849332390)
 - [Lifehacker] [Barbra Streisand&#39;s Retro Ice Cream Hack Is Pretty Incredible](https://lifehacker.com/barbra-streisands-retro-ice-cream-hack-is-pretty-incred-1849335394)
-- [Lifehacker] [What Are the Most Underrated Fast Food Menu Items?](https://lifehacker.com/what-are-the-most-underrated-fast-food-menu-items-1849332459)
-- [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
