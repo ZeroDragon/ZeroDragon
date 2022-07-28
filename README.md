@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🧠 Symbol.match and Friends](https://dev.to/jcbhmr/symbolmatch-and-friends-3nmb)
+- [Dev.to/JS] [An Exercise with Debugging and Promises](https://dev.to/msoup/an-exercise-with-debugging-and-promises-2m0p)
 - [Dev.to/JS] [Chat React](https://dev.to/jesusalbarca/chat-react-10hm)
 - [Dev.to/JS] [HostListener + Output = 🤔](https://dev.to/mmuscat/hostlistener-output--2dhe)
 - [Dev.to/JS] [Algunos métodos más allá del console.log en Javascript](https://dev.to/khriztianmoreno/algunos-metodos-mas-alla-del-consolelog-en-javascript-48e2)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My first project done with React-JS!](https://dev.to/igorbrizack/my-first-project-done-with-react-js-4i21)
 - [Lifehacker] [This Malware Was Installed 10 Million Times on Android](https://lifehacker.com/this-malware-was-installed-10-million-times-on-android-1849337396)
 - [Dev.to/JS] [5 Flutter Dart Tips.](https://dev.to/dreamyplayer/5-flutter-dart-tips-28pn)
-- [Dev.to/JS] [EXPO vs CLI, Which is preferrable for building ReactNative Mobile Apps](https://dev.to/andaeiii/expo-vs-cli-which-is-preferrable-for-building-reactnative-mobile-apps-2flb)
 - [Lifehacker] [6 of the Best Countries for Americans to Retire in &lpar;That Aren&#39;t America Because LOL&rpar;](https://lifehacker.com/6-of-the-best-countries-for-americans-to-retire-in-tha-1849337427)
-- [Dev.to/JS] [HOW TO USE SCROLL TO ELEMENT IN REACTJS](https://dev.to/rahul__/how-to-use-scroll-to-element-in-reactjs-41jc)
 - [Lifehacker] [The Best Apps to Plan an Outdoor Adventure](https://lifehacker.com/the-best-apps-to-plan-an-outdoor-adventure-1849336541)
 - [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
 - [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
