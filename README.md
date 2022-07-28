@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Instagram Less of a Shitshow](https://lifehacker.com/how-to-make-instagram-less-of-a-shitshow-1849339324)
+- [Dev.to/JS] [Project Documentation; Day 2](https://dev.to/momokid/project-documentation-day-2-1d78)
+- [Dev.to/JS] [Magento alternative: How it compares with Medusa, a JavaScript-based ecommerce platform](https://dev.to/medusajs/magento-alternative-how-it-compares-with-medusa-a-javascript-based-ecommerce-platform-4m4j)
+- [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Dev.to/JS] [JavaScript News and Updates of July 2022](https://dev.to/plazarev/javascript-news-and-updates-of-july-2022-3f35)
 - [Dev.to/JS] [Coffee Talk](https://dev.to/yehezkielgunawan/coffee-talk-429g)
 - [Dev.to/JS] [𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬 𝐯𝐬. 𝐀𝐫𝐠𝐮𝐦𝐞𝐧𝐭𝐬?](https://dev.to/edrisso/--1340)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get Free images in 2022](https://dev.to/lodstare/how-to-get-free-images-in-2022-1l7o)
 - [Dev.to/JS] [From development to real users: How to create a performance story](https://dev.to/viniciusdallacqua/from-development-to-real-users-how-to-create-a-performance-story-5ade)
 - [Dev.to/JS] [Part 2 : Rendering Github Issues from Markdown to HTML on my blog](https://dev.to/ivanleomk/part-2-rendering-github-issues-from-markdown-to-html-on-my-blog-5hme)
-- [Dev.to/JS] [Create a JavaScript 3D Box Chart with Rounded Edges](https://dev.to/lightningchart/create-a-javascript-3d-box-chart-with-rounded-edges-a42)
-- [Dev.to/JS] [Junior to Senior Developer Roadmap](https://dev.to/aswin2001barath/junior-to-senior-developer-roadmap-477p)
 - [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
 - [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
@@ -59,10 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
 - [Lifehacker] [When to Purge All Those Mementos From Your Last Relationship](https://lifehacker.com/when-to-purge-all-those-mementos-from-your-last-relatio-1849200671)
-- [Lifehacker] [Make Any Vegetable More Enticing With the Caesar Salad Treatment](https://lifehacker.com/make-any-vegetable-more-enticing-with-the-caesar-salad-1849332871)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
-- [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
-- [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
