@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Basic Search Filter](https://dev.to/franciscomendes10866/react-basic-search-filter-1fkh)
+- [Lifehacker] [How to Know If a Monthly Car Payment Is Actually a Good Deal](https://lifehacker.com/how-to-know-if-a-monthly-car-payment-is-actually-a-good-1849343679)
+- [Dev.to/JS] [Create a Cryptocurrency finder with React](https://dev.to/bekbrace/create-a-cryptocurrency-finder-with-react-3850)
+- [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
 - [Lifehacker] [Is Monkeypox a Sexually Transmitted Disease?](https://lifehacker.com/is-monkeypox-a-sexually-transmitted-disease-1849343210)
 - [Dev.to/JS] [Flatiron Phase 1 Blogpost - Codewars](https://dev.to/nicolaigorden/flatiron-phase-1-blogpost-codewars-b8)
 - [Dev.to/JS] [E-commerce mobile app Figma UI Design](https://dev.to/mahamud751/e-commerce-mobile-app-figma-ui-design-187k)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Tutorial Part - 3 -&gt; Getting real](https://dev.to/ishanpro/react-tutorial-part-3-getting-real-336j)
 - [Lifehacker] [How to Play PS5 in 1440p](https://lifehacker.com/how-to-play-ps5-in-1440p-1849342187)
 - [Dev.to/JS] [Getting Started with Artillery](https://dev.to/qainsights/getting-started-with-artillery-4o8b)
-- [Dev.to/JS] [Data Sharing using Services in Angular](https://dev.to/shaikhkamran/data-sharing-using-services-in-angular-3l88)
-- [Dev.to/JS] [Migrating your React App to React Router v6](https://dev.to/damkols/migrating-your-react-app-to-react-router-v6-4p26)
 - [Lifehacker] [Here’s What to Do If You Win the Mega Millions Lottery on Friday](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)
 - [Lifehacker] [Twerk, OMG, Tricked Out, and 8 Other Slang Terms That Are a Lot Older Than You Think](https://lifehacker.com/twerk-omg-tricked-out-and-8-other-slang-terms-that-a-1849341103)
 - [Lifehacker] [This Is the Difference Between a Generator and a Backup Battery for Your Home](https://lifehacker.com/this-is-the-difference-between-a-generator-and-a-backup-1849341165)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 of the Best Countries for Americans to Retire in &lpar;That Aren&#39;t America Because LOL&rpar;](https://lifehacker.com/6-of-the-best-countries-for-americans-to-retire-in-tha-1849337427)
 - [Lifehacker] [The Best Apps to Plan an Outdoor Adventure](https://lifehacker.com/the-best-apps-to-plan-an-outdoor-adventure-1849336541)
 - [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
-- [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
-- [Lifehacker] [How to Network When You Have Social Anxiety](https://lifehacker.com/how-to-network-when-you-have-social-anxiety-1849335852)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
