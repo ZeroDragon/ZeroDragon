@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s create youtube clone with Nextjs and tailwind-css &lpar;Part 2&rpar;](https://dev.to/sadeedpv/lets-create-youtube-clone-with-nextjs-and-tailwind-css-part-2-5blc)
 - [Dev.to/JS] [Top 3 Ways to Center a DIV with CSS 🚀](https://dev.to/iarchitsharma/top-3-ways-to-center-a-div-with-css-2ch3)
 - [Dev.to/JS] [How to Help College Students Avoid Phone Scams](https://dev.to/hmscore/how-to-help-college-students-avoid-phone-scams-1n5l)
 - [Dev.to/JS] [tsParticles 2.1.4 Released](https://dev.to/matteobruni/tsparticles-214-released-4g2g)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The problem with maintaining code quality in a large technology company; and the solution.](https://dev.to/tzachbon/the-problem-with-maintaining-code-quality-in-a-large-technology-company-and-the-solution-1h85)
 - [Dev.to/JS] [How do I use JSON formatter extension in Chrome?](https://dev.to/professionalw0/how-do-i-use-json-formatter-extension-in-chrome-4iac)
 - [Dev.to/JS] [Print to console - console.log&lpar;&rpar; and more](https://dev.to/tonmoydev/print-to-console-consolelog-and-more-4eca)
-- [Dev.to/JS] [Let’s do fabform…](https://dev.to/nitinreddy3/lets-do-fabform-51bo)
 - [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
 - [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
