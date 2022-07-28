@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode Problem Solving](https://dev.to/mahamud751/leetcode-problem-solving-d4e)
 - [Dev.to/JS] [How to create a custom image uploader with preview](https://dev.to/jaymeeu/how-to-create-a-custom-image-uploader-with-image-preview-36lb)
 - [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Staircase](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-staircase-3k66)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Cryptocurrency finder with React](https://dev.to/bekbrace/create-a-cryptocurrency-finder-with-react-3850)
 - [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
 - [Lifehacker] [Is Monkeypox a Sexually Transmitted Disease?](https://lifehacker.com/is-monkeypox-a-sexually-transmitted-disease-1849343210)
-- [Dev.to/JS] [Flatiron Phase 1 Blogpost - Codewars](https://dev.to/nicolaigorden/flatiron-phase-1-blogpost-codewars-b8)
 - [Lifehacker] [The Best Free &lpar;or Cheap&rpar; Financial Courses for Beginners](https://lifehacker.com/the-best-free-or-cheap-financial-courses-for-beginner-1849342702)
 - [Lifehacker] [What&#39;s New on Paramount+ in August 2022](https://lifehacker.com/whats-new-on-paramount-in-august-2022-1849342507)
 - [Lifehacker] [Make Yourself a Stroopwafel ‘Choco Taco’](https://lifehacker.com/make-yourself-a-stroopwafel-choco-taco-1849342317)
