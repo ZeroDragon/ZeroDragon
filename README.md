@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let’s do fabform…](https://dev.to/nitinreddy3/lets-do-fabform-51bo)
+- [Dev.to/JS] [JavaScript Higher Order Functions with functional Programing](https://dev.to/arunnithish/javascript-higher-order-functions-with-functional-programing-93k)
+- [Dev.to/JS] [7 Daily Hacks For Programmers To Make Coding Skills Faster](https://dev.to/devsimc/7-daily-hacks-for-programmers-to-make-coding-skills-faster-a68)
 - [Dev.to/JS] [Skincell Advanced - Skin Care Review, Price, Results And Ingredients?](https://dev.to/skincellfact1/skincell-advanced-skin-care-review-price-results-and-ingredients-11h4)
 - [Dev.to/JS] [How to execute Cypress Test Case in Docker Container](https://dev.to/kailashpathak7/how-to-execute-cypress-test-case-in-docker-container-156i)
 - [Dev.to/JS] [HTML Input: add plus and minus buttons with JavaScript &lpar;or jQuery&rpar;](https://dev.to/viktormorales/html-input-add-plus-and-minus-buttons-with-javascript-or-jquery-h2c)
@@ -32,16 +35,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chat React](https://dev.to/jesusalbarca/chat-react-10hm)
 - [Dev.to/JS] [HostListener + Output = 🤔](https://dev.to/mmuscat/hostlistener-output--2dhe)
 - [Dev.to/JS] [Algunos métodos más allá del console.log en Javascript](https://dev.to/khriztianmoreno/algunos-metodos-mas-alla-del-consolelog-en-javascript-48e2)
-- [Dev.to/JS] [How to Match a Phone Number with Regex and JavaScript](https://dev.to/apmfree78/how-to-match-a-phone-number-with-regex-and-javascript-od0)
 - [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
 - [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
-- [Dev.to/JS] [I created a framework with JSX components on generators*, a fast mobx-like state management and an exclusive cssx styling system](https://dev.to/iminside/i-created-a-framework-with-jsx-components-on-generators-a-fast-mobx-like-state-management-and-an-exclusive-cssx-styling-system-4mln)
 - [Lifehacker] [How to Survive Sleeping in the Heat With No Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-with-no-air-conditi-1849338591)
 - [Lifehacker] [What to Cook When You Have Too Much Zucchini](https://lifehacker.com/what-to-cook-when-you-have-too-much-zucchini-1849338829)
 - [Lifehacker] [Total Voice Control, and Other Mac Accessibility Features Anyone Can Use](https://lifehacker.com/total-voice-control-and-other-mac-accessibility-featur-1849337914)
-- [Dev.to/JS] [Introduction to Next.js - a personal opinion](https://dev.to/rukshanjs/introduction-to-nextjs-a-personal-opinion-emn)
 - [Lifehacker] [Can This TikTok Hack Make Your Cinnamon Rolls Taste Like Cinnabon?](https://lifehacker.com/can-this-tiktok-hack-make-your-cinnamon-rolls-taste-lik-1849338141)
 - [Lifehacker] [What to Do If You Have COVID Symptoms but Your At-Home Test Is Negative](https://lifehacker.com/what-to-do-if-you-have-covid-symptoms-but-your-at-home-1849338479)
 - [Lifehacker] [This Malware Was Installed 10 Million Times on Android](https://lifehacker.com/this-malware-was-installed-10-million-times-on-android-1849337396)
