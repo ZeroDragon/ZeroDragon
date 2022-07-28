@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Skincell Advanced - Skin Care Review, Price, Results And Ingredients?](https://dev.to/skincellfact1/skincell-advanced-skin-care-review-price-results-and-ingredients-11h4)
 - [Dev.to/JS] [How to execute Cypress Test Case in Docker Container](https://dev.to/kailashpathak7/how-to-execute-cypress-test-case-in-docker-container-156i)
 - [Dev.to/JS] [HTML Input: add plus and minus buttons with JavaScript &lpar;or jQuery&rpar;](https://dev.to/viktormorales/html-input-add-plus-and-minus-buttons-with-javascript-or-jquery-h2c)
 - [Dev.to/JS] [A basic comparison between Python and Javascript - part 1](https://dev.to/caromarks/a-basic-comparison-between-python-and-javascript-part-1-27m7)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Cook When You Have Too Much Zucchini](https://lifehacker.com/what-to-cook-when-you-have-too-much-zucchini-1849338829)
 - [Lifehacker] [Total Voice Control, and Other Mac Accessibility Features Anyone Can Use](https://lifehacker.com/total-voice-control-and-other-mac-accessibility-featur-1849337914)
 - [Dev.to/JS] [Introduction to Next.js - a personal opinion](https://dev.to/rukshanjs/introduction-to-nextjs-a-personal-opinion-emn)
-- [Dev.to/JS] [Paracetamol.js💊| #178: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-178-explica-este-codigo-javascript-381i)
 - [Lifehacker] [Can This TikTok Hack Make Your Cinnamon Rolls Taste Like Cinnabon?](https://lifehacker.com/can-this-tiktok-hack-make-your-cinnamon-rolls-taste-lik-1849338141)
 - [Lifehacker] [What to Do If You Have COVID Symptoms but Your At-Home Test Is Negative](https://lifehacker.com/what-to-do-if-you-have-covid-symptoms-but-your-at-home-1849338479)
 - [Lifehacker] [This Malware Was Installed 10 Million Times on Android](https://lifehacker.com/this-malware-was-installed-10-million-times-on-android-1849337396)
