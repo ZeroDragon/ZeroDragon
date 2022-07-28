@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
+- [Dev.to/JS] [How is really like to be a self-taught dev &lpar;harsh truth&rpar;](https://dev.to/mariolemus/how-is-really-like-to-be-a-self-taught-dev-131l)
+- [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
+- [Dev.to/JS] [Sabi JavaScript if else for Pidgin English](https://dev.to/deejaydev/sabi-javascript-if-else-for-pidgin-english-4ab9)
+- [Dev.to/JS] [Using Mantine NavigationProgress with Remix](https://dev.to/donocode/using-mantine-navigationprogress-with-remix-41i7)
+- [Lifehacker] [What a Recession Is, Exactly, and Other Economic Terms You Should Know](https://lifehacker.com/what-a-recession-is-exactly-and-other-economic-terms-1849343863)
+- [Dev.to/JS] [Bubble and Selection Sort Algorithms using JavaScript](https://dev.to/anasnmu/bubble-and-selection-sort-algorithms-using-javascript-295d)
 - [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-482b)
 - [Lifehacker] [Turn Watermelon Rinds Into a Fancy Cocktail Cordial](https://lifehacker.com/turn-watermelon-rinds-into-a-fancy-cocktail-cordial-1849343995)
 - [Dev.to/JS] [Finding tech jobs can be exhausting! Are you looking for a quality remote developer job?](https://dev.to/toddchavez88/finding-tech-jobs-can-be-exhausting-are-you-looking-for-a-quality-remote-developer-job-50j)
@@ -34,14 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
 - [Lifehacker] [Is Monkeypox a Sexually Transmitted Disease?](https://lifehacker.com/is-monkeypox-a-sexually-transmitted-disease-1849343210)
 - [Dev.to/JS] [Flatiron Phase 1 Blogpost - Codewars](https://dev.to/nicolaigorden/flatiron-phase-1-blogpost-codewars-b8)
-- [Dev.to/JS] [&lt; &lt; &lt; IF E ELSE &gt; &gt; &gt;](https://dev.to/medeiroscode/-if-e-else--3fja)
 - [Dev.to/JS] [E-commerce mobile app Figma UI Design](https://dev.to/mahamud751/e-commerce-mobile-app-figma-ui-design-187k)
 - [Dev.to/JS] [Build a Resilient Application Using Redis Offering.](https://dev.to/apoorvtomar/build-a-resilient-application-using-redis-offering-1p6g)
-- [Dev.to/JS] [The Complete Web Developer in 2022: Zero to Mastery](https://dev.to/aswin2001barath/the-complete-web-developer-in-2022-zero-to-mastery-5dm1)
-- [Dev.to/JS] [Junior to Senior Developer Roadmap](https://dev.to/aswin2001barath/junior-to-senior-developer-roadmap-477p)
 - [Lifehacker] [The Best Free &lpar;or Cheap&rpar; Financial Courses for Beginners](https://lifehacker.com/the-best-free-or-cheap-financial-courses-for-beginner-1849342702)
 - [Lifehacker] [What&#39;s New on Paramount+ in August 2022](https://lifehacker.com/whats-new-on-paramount-in-august-2022-1849342507)
-- [Dev.to/JS] [Creative Coding with p5.JS: An inclusive javascript library](https://dev.to/devsatasurion/creative-coding-with-p5js-an-inclusive-javascript-library-4e55)
 - [Lifehacker] [Make Yourself a Stroopwafel ‘Choco Taco’](https://lifehacker.com/make-yourself-a-stroopwafel-choco-taco-1849342317)
 - [Lifehacker] [How to Play PS5 in 1440p](https://lifehacker.com/how-to-play-ps5-in-1440p-1849342187)
 - [Lifehacker] [Here’s What to Do If You Win the Mega Millions Lottery on Friday](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Cook When You Have Too Much Zucchini](https://lifehacker.com/what-to-cook-when-you-have-too-much-zucchini-1849338829)
 - [Lifehacker] [Total Voice Control, and Other Mac Accessibility Features Anyone Can Use](https://lifehacker.com/total-voice-control-and-other-mac-accessibility-featur-1849337914)
 - [Lifehacker] [Can This TikTok Hack Make Your Cinnamon Rolls Taste Like Cinnabon?](https://lifehacker.com/can-this-tiktok-hack-make-your-cinnamon-rolls-taste-lik-1849338141)
-- [Lifehacker] [What to Do If You Have COVID Symptoms but Your At-Home Test Is Negative](https://lifehacker.com/what-to-do-if-you-have-covid-symptoms-but-your-at-home-1849338479)
-- [Lifehacker] [This Malware Was Installed 10 Million Times on Android](https://lifehacker.com/this-malware-was-installed-10-million-times-on-android-1849337396)
-- [Lifehacker] [6 of the Best Countries for Americans to Retire in &lpar;That Aren&#39;t America Because LOL&rpar;](https://lifehacker.com/6-of-the-best-countries-for-americans-to-retire-in-tha-1849337427)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
