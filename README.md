@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a custom image uploader with preview](https://dev.to/jaymeeu/how-to-create-a-custom-image-uploader-with-image-preview-36lb)
+- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Staircase](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-staircase-3k66)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
 - [Dev.to/JS] [How is really like to be a self-taught dev &lpar;harsh truth&rpar;](https://dev.to/mariolemus/how-is-really-like-to-be-a-self-taught-dev-131l)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
 - [Lifehacker] [Is Monkeypox a Sexually Transmitted Disease?](https://lifehacker.com/is-monkeypox-a-sexually-transmitted-disease-1849343210)
 - [Dev.to/JS] [Flatiron Phase 1 Blogpost - Codewars](https://dev.to/nicolaigorden/flatiron-phase-1-blogpost-codewars-b8)
-- [Dev.to/JS] [E-commerce mobile app Figma UI Design](https://dev.to/mahamud751/e-commerce-mobile-app-figma-ui-design-187k)
-- [Dev.to/JS] [Build a Resilient Application Using Redis Offering.](https://dev.to/apoorvtomar/build-a-resilient-application-using-redis-offering-1p6g)
 - [Lifehacker] [The Best Free &lpar;or Cheap&rpar; Financial Courses for Beginners](https://lifehacker.com/the-best-free-or-cheap-financial-courses-for-beginner-1849342702)
 - [Lifehacker] [What&#39;s New on Paramount+ in August 2022](https://lifehacker.com/whats-new-on-paramount-in-august-2022-1849342507)
 - [Lifehacker] [Make Yourself a Stroopwafel ‘Choco Taco’](https://lifehacker.com/make-yourself-a-stroopwafel-choco-taco-1849342317)
