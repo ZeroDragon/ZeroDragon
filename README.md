@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Paramount+ in August 2022](https://lifehacker.com/whats-new-on-paramount-in-august-2022-1849342507)
+- [Dev.to/JS] [Creative Coding with p5.JS: An inclusive javascript library](https://dev.to/devsatasurion/creative-coding-with-p5js-an-inclusive-javascript-library-4e55)
+- [Lifehacker] [Make Yourself a Stroopwafel ‘Choco Taco’](https://lifehacker.com/make-yourself-a-stroopwafel-choco-taco-1849342317)
 - [Dev.to/JS] [How to add Prettier code formatter to your project?](https://dev.to/dobron/how-to-add-prettier-code-formatter-to-your-project-5coh)
 - [Dev.to/JS] [Mouse over leaflet problem](https://dev.to/sarahch29/mouse-over-leaflet-problem-346g)
 - [Dev.to/JS] [React Tutorial Part - 3 -&gt; Getting real](https://dev.to/ishanpro/react-tutorial-part-3-getting-real-336j)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Twerk, OMG, Tricked Out, and 8 Other Slang Terms That Are a Lot Older Than You Think](https://lifehacker.com/twerk-omg-tricked-out-and-8-other-slang-terms-that-a-1849341103)
 - [Dev.to/JS] [As a Interviewer what question you ask a dev while taking interview for react.js?](https://dev.to/rajeshroyal/as-a-interviewer-what-question-you-ask-a-dev-while-taking-interview-for-reactjs-40kh)
 - [Dev.to/JS] [What is an API?](https://dev.to/gurram_charan3/what-is-an-api-3h62)
-- [Dev.to/JS] [3D web - Three.js &lpar;fiber &amp; drei&rpar; - web3 serie](https://dev.to/uigla/chapter-2-3d-website-using-threejs-fiber-react-web3-and-vite-as-bundler-using-more-packages-4p02)
 - [Lifehacker] [This Is the Difference Between a Generator and a Backup Battery for Your Home](https://lifehacker.com/this-is-the-difference-between-a-generator-and-a-backup-1849341165)
 - [Lifehacker] [You Should Bring This Pickle Salad to Your Next Picnic](https://lifehacker.com/you-should-bring-this-pickle-salad-to-your-next-picnic-1849339997)
 - [Lifehacker] [How to Make Instagram Less of a Shitshow](https://lifehacker.com/how-to-make-instagram-less-of-a-shitshow-1849339324)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Network When You Have Social Anxiety](https://lifehacker.com/how-to-network-when-you-have-social-anxiety-1849335852)
 - [Lifehacker] [How to Keep Your Kids Safe During a Heat Wave](https://lifehacker.com/how-to-keep-your-kids-safe-during-a-heat-wave-1849334729)
 - [Lifehacker] [You Can Make Your Smartphone Read Out Loud to You](https://lifehacker.com/you-can-make-your-smartphone-read-out-loud-to-you-1849333216)
-- [Lifehacker] [What to Do With Your Kids This Summer When You’ve Run Out of Ideas](https://lifehacker.com/what-to-do-with-your-kids-this-summer-when-you-ve-run-o-1849332390)
-- [Lifehacker] [Barbra Streisand&#39;s Retro Ice Cream Hack Is Pretty Incredible](https://lifehacker.com/barbra-streisands-retro-ice-cream-hack-is-pretty-incred-1849335394)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
