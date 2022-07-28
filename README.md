@@ -23,12 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [React Basic Search Filter](https://dev.to/franciscomendes10866/react-basic-search-filter-1fkh)
+- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-482b)
+- [Lifehacker] [Turn Watermelon Rinds Into a Fancy Cocktail Cordial](https://lifehacker.com/turn-watermelon-rinds-into-a-fancy-cocktail-cordial-1849343995)
+- [Dev.to/JS] [Finding tech jobs can be exhausting! Are you looking for a quality remote developer job?](https://dev.to/toddchavez88/finding-tech-jobs-can-be-exhausting-are-you-looking-for-a-quality-remote-developer-job-50j)
+- [Dev.to/JS] [Tech recruitment is exhausting! I am looking to assemble a quality remote developer team urgently? Any leads?](https://dev.to/toddchavez88/tech-recruitment-is-exhausting-i-am-looking-to-assemble-a-quality-remote-developer-team-urgently-any-leads-265k)
+- [Dev.to/JS] [How to Create a React Basic Search Filter](https://dev.to/franciscomendes10866/react-basic-search-filter-1fkh)
+- [Lifehacker] [Three of the Most Underrated States Worth Visiting](https://lifehacker.com/three-of-the-most-underrated-states-worth-visiting-1849343869)
 - [Lifehacker] [How to Know If a Monthly Car Payment Is Actually a Good Deal](https://lifehacker.com/how-to-know-if-a-monthly-car-payment-is-actually-a-good-1849343679)
 - [Dev.to/JS] [Create a Cryptocurrency finder with React](https://dev.to/bekbrace/create-a-cryptocurrency-finder-with-react-3850)
 - [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
 - [Lifehacker] [Is Monkeypox a Sexually Transmitted Disease?](https://lifehacker.com/is-monkeypox-a-sexually-transmitted-disease-1849343210)
 - [Dev.to/JS] [Flatiron Phase 1 Blogpost - Codewars](https://dev.to/nicolaigorden/flatiron-phase-1-blogpost-codewars-b8)
+- [Dev.to/JS] [&lt; &lt; &lt; IF E ELSE &gt; &gt; &gt;](https://dev.to/medeiroscode/-if-e-else--3fja)
 - [Dev.to/JS] [E-commerce mobile app Figma UI Design](https://dev.to/mahamud751/e-commerce-mobile-app-figma-ui-design-187k)
 - [Dev.to/JS] [Build a Resilient Application Using Redis Offering.](https://dev.to/apoorvtomar/build-a-resilient-application-using-redis-offering-1p6g)
 - [Dev.to/JS] [The Complete Web Developer in 2022: Zero to Mastery](https://dev.to/aswin2001barath/the-complete-web-developer-in-2022-zero-to-mastery-5dm1)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in August 2022](https://lifehacker.com/whats-new-on-paramount-in-august-2022-1849342507)
 - [Dev.to/JS] [Creative Coding with p5.JS: An inclusive javascript library](https://dev.to/devsatasurion/creative-coding-with-p5js-an-inclusive-javascript-library-4e55)
 - [Lifehacker] [Make Yourself a Stroopwafel ‘Choco Taco’](https://lifehacker.com/make-yourself-a-stroopwafel-choco-taco-1849342317)
-- [Dev.to/JS] [How to add Prettier code formatter to your project?](https://dev.to/dobron/how-to-add-prettier-code-formatter-to-your-project-5coh)
-- [Dev.to/JS] [Mouse over leaflet problem](https://dev.to/sarahch29/mouse-over-leaflet-problem-346g)
-- [Dev.to/JS] [React Tutorial Part - 3 -&gt; Getting real](https://dev.to/ishanpro/react-tutorial-part-3-getting-real-336j)
 - [Lifehacker] [How to Play PS5 in 1440p](https://lifehacker.com/how-to-play-ps5-in-1440p-1849342187)
-- [Dev.to/JS] [Getting Started with Artillery](https://dev.to/qainsights/getting-started-with-artillery-4o8b)
 - [Lifehacker] [Here’s What to Do If You Win the Mega Millions Lottery on Friday](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)
 - [Lifehacker] [Twerk, OMG, Tricked Out, and 8 Other Slang Terms That Are a Lot Older Than You Think](https://lifehacker.com/twerk-omg-tricked-out-and-8-other-slang-terms-that-a-1849341103)
 - [Lifehacker] [This Is the Difference Between a Generator and a Backup Battery for Your Home](https://lifehacker.com/this-is-the-difference-between-a-generator-and-a-backup-1849341165)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Have COVID Symptoms but Your At-Home Test Is Negative](https://lifehacker.com/what-to-do-if-you-have-covid-symptoms-but-your-at-home-1849338479)
 - [Lifehacker] [This Malware Was Installed 10 Million Times on Android](https://lifehacker.com/this-malware-was-installed-10-million-times-on-android-1849337396)
 - [Lifehacker] [6 of the Best Countries for Americans to Retire in &lpar;That Aren&#39;t America Because LOL&rpar;](https://lifehacker.com/6-of-the-best-countries-for-americans-to-retire-in-tha-1849337427)
-- [Lifehacker] [The Best Apps to Plan an Outdoor Adventure](https://lifehacker.com/the-best-apps-to-plan-an-outdoor-adventure-1849336541)
-- [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
