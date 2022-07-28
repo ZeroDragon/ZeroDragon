@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3D Drawing on 2D Canvas](https://dev.to/brookesb91/3d-drawing-on-2d-canvas-3e51)
+- [Dev.to/JS] [Simple to-do list made with sveltekit and tailwind !](https://dev.to/kodah/simple-to-do-list-made-with-sveltekit-and-tailwind--39nk)
+- [Dev.to/JS] [How do you verify an email for sign-up ?](https://dev.to/bacloud22/how-do-you-verify-an-email-for-sign-up--34k3)
+- [Lifehacker] [Twerk, OMG, Tricked Out, and 8 Other Slang Terms That Are a Lot Older Than You Think](https://lifehacker.com/twerk-omg-tricked-out-and-8-other-slang-terms-that-a-1849341103)
+- [Dev.to/JS] [As a Interviewer what question you ask a dev while taking interview for react.js?](https://dev.to/rajeshroyal/as-a-interviewer-what-question-you-ask-a-dev-while-taking-interview-for-reactjs-40kh)
+- [Dev.to/JS] [What is an API?](https://dev.to/gurram_charan3/what-is-an-api-3h62)
+- [Dev.to/JS] [3D web - Three.js &lpar;fiber &amp; drei&rpar; - web3 serie](https://dev.to/uigla/chapter-2-3d-website-using-threejs-fiber-react-web3-and-vite-as-bundler-using-more-packages-4p02)
 - [Dev.to/JS] [Top 7 Java Development Companies for Enterprise Applications](https://dev.to/botreetechnologies/top-7-java-development-companies-for-enterprise-applications-3fo6)
 - [Lifehacker] [This Is the Difference Between a Generator and a Backup Battery for Your Home](https://lifehacker.com/this-is-the-difference-between-a-generator-and-a-backup-1849341165)
 - [Dev.to/JS] [How to Build Crypto Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-crypto-website-using-html-css-javascript-4o7g)
@@ -32,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clean Architecture: A Toy Node Prototype](https://dev.to/flachica/clean-architecture-a-toy-node-prototype-2kp3)
 - [Dev.to/JS] [JavaScript - Start The Journey](https://dev.to/mrmobin/javascript-start-the-journey-4m6)
 - [Lifehacker] [How to Make Instagram Less of a Shitshow](https://lifehacker.com/how-to-make-instagram-less-of-a-shitshow-1849339324)
-- [Dev.to/JS] [Currying in javascript&lpar;🔖&rpar;](https://dev.to/aishanipach/currying-in-javascript-4d4i)
-- [Dev.to/JS] [The useEffect hook in ReactJS](https://dev.to/kuvambhardwaj/the-useeffect-hook-in-reactjs-2dna)
-- [Dev.to/JS] [Project Documentation; Day 2](https://dev.to/momokid/project-documentation-day-2-1d78)
-- [Dev.to/JS] [Magento alternative: How it compares with Medusa, a JavaScript-based ecommerce platform](https://dev.to/medusajs/magento-alternative-how-it-compares-with-medusa-a-javascript-based-ecommerce-platform-4m4j)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
-- [Dev.to/JS] [JavaScript News and Updates of July 2022](https://dev.to/plazarev/javascript-news-and-updates-of-july-2022-3f35)
-- [Dev.to/JS] [Coffee Talk](https://dev.to/yehezkielgunawan/coffee-talk-429g)
 - [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
 - [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Barbra Streisand&#39;s Retro Ice Cream Hack Is Pretty Incredible](https://lifehacker.com/barbra-streisands-retro-ice-cream-hack-is-pretty-incred-1849335394)
 - [Lifehacker] [What Are the Most Underrated Fast Food Menu Items?](https://lifehacker.com/what-are-the-most-underrated-fast-food-menu-items-1849332459)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
-- [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
