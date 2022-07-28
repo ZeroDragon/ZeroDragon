@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to execute Cypress Test Case in Docker Container](https://dev.to/kailashpathak7/how-to-execute-cypress-test-case-in-docker-container-156i)
+- [Dev.to/JS] [HTML Input: add plus and minus buttons with JavaScript &lpar;or jQuery&rpar;](https://dev.to/viktormorales/html-input-add-plus-and-minus-buttons-with-javascript-or-jquery-h2c)
+- [Dev.to/JS] [A basic comparison between Python and Javascript - part 1](https://dev.to/caromarks/a-basic-comparison-between-python-and-javascript-part-1-27m7)
 - [Dev.to/JS] [🧠 Symbol.match and Friends](https://dev.to/jcbhmr/symbolmatch-and-friends-3nmb)
 - [Dev.to/JS] [An Exercise with Debugging and Promises](https://dev.to/msoup/an-exercise-with-debugging-and-promises-2m0p)
 - [Dev.to/JS] [Chat React](https://dev.to/jesusalbarca/chat-react-10hm)
@@ -41,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #178: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-178-explica-este-codigo-javascript-381i)
 - [Lifehacker] [Can This TikTok Hack Make Your Cinnamon Rolls Taste Like Cinnabon?](https://lifehacker.com/can-this-tiktok-hack-make-your-cinnamon-rolls-taste-lik-1849338141)
 - [Lifehacker] [What to Do If You Have COVID Symptoms but Your At-Home Test Is Negative](https://lifehacker.com/what-to-do-if-you-have-covid-symptoms-but-your-at-home-1849338479)
-- [Dev.to/JS] [How to Start Working with CSS Grid](https://dev.to/devsatasurion/how-to-start-working-with-css-grid-4h7k)
-- [Dev.to/JS] [My first project done with React-JS!](https://dev.to/igorbrizack/my-first-project-done-with-react-js-4i21)
 - [Lifehacker] [This Malware Was Installed 10 Million Times on Android](https://lifehacker.com/this-malware-was-installed-10-million-times-on-android-1849337396)
-- [Dev.to/JS] [5 Flutter Dart Tips.](https://dev.to/dreamyplayer/5-flutter-dart-tips-28pn)
 - [Lifehacker] [6 of the Best Countries for Americans to Retire in &lpar;That Aren&#39;t America Because LOL&rpar;](https://lifehacker.com/6-of-the-best-countries-for-americans-to-retire-in-tha-1849337427)
 - [Lifehacker] [The Best Apps to Plan an Outdoor Adventure](https://lifehacker.com/the-best-apps-to-plan-an-outdoor-adventure-1849336541)
 - [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
