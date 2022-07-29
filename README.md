@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Get Current Date And Time In Node.js](https://dev.to/techsolutionstuff/how-to-get-current-date-and-time-in-nodejs-4jm)
 - [Dev.to/JS] [Database Plus’s Embracing the Cloud: ShardingSphere-on-Cloud Solution Released](https://dev.to/apache_shardingsphere/database-pluss-embracing-the-cloud-shardingsphere-on-cloud-solution-released-28o1)
 - [Dev.to/JS] [Operators in Depth](https://dev.to/saoud/operators-in-depth-3cgo)
 - [Dev.to/JS] [Implement the New AWS CloudScape Design System into NextJS](https://dev.to/ajstacy/implement-the-new-aws-cloudscape-design-system-into-nextjs-2k50)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How is really like to be a self-taught dev &lpar;harsh truth&rpar;](https://dev.to/mariolemus/how-is-really-like-to-be-a-self-taught-dev-131l)
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
 - [Dev.to/JS] [Sabi JavaScript if else for Pidgin English](https://dev.to/deejaydev/sabi-javascript-if-else-for-pidgin-english-4ab9)
-- [Dev.to/JS] [Using Mantine NavigationProgress with Remix](https://dev.to/donocode/using-mantine-navigationprogress-with-remix-41i7)
 - [Lifehacker] [What a Recession Is, Exactly, and Other Economic Terms You Should Know](https://lifehacker.com/what-a-recession-is-exactly-and-other-economic-terms-1849343863)
 - [Lifehacker] [Turn Watermelon Rinds Into a Fancy Cocktail Cordial](https://lifehacker.com/turn-watermelon-rinds-into-a-fancy-cocktail-cordial-1849343995)
 - [Lifehacker] [Three of the Most Underrated States Worth Visiting](https://lifehacker.com/three-of-the-most-underrated-states-worth-visiting-1849343869)
