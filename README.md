@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript WTFs explained - Number type and floating point](https://dev.to/tchaflich/javascript-wtfs-explained-number-type-and-floating-point-2130)
+- [Dev.to/JS] [JavaScript WTFs explained - Type coercion](https://dev.to/tchaflich/javascript-wtfs-explained-type-coercion-4i8o)
 - [Dev.to/JS] [LeetCode Problem Solving](https://dev.to/mahamud751/leetcode-problem-solving-d4e)
 - [Dev.to/JS] [How to create a custom image uploader with preview](https://dev.to/jaymeeu/how-to-create-a-custom-image-uploader-with-image-preview-36lb)
 - [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Staircase](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-staircase-3k66)
@@ -38,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Watermelon Rinds Into a Fancy Cocktail Cordial](https://lifehacker.com/turn-watermelon-rinds-into-a-fancy-cocktail-cordial-1849343995)
 - [Dev.to/JS] [Finding tech jobs can be exhausting! Are you looking for a quality remote developer job?](https://dev.to/toddchavez88/finding-tech-jobs-can-be-exhausting-are-you-looking-for-a-quality-remote-developer-job-50j)
 - [Dev.to/JS] [Tech recruitment is exhausting! I am looking to assemble a quality remote developer team urgently? Any leads?](https://dev.to/toddchavez88/tech-recruitment-is-exhausting-i-am-looking-to-assemble-a-quality-remote-developer-team-urgently-any-leads-265k)
-- [Dev.to/JS] [How to Create a React Basic Search Filter](https://dev.to/franciscomendes10866/react-basic-search-filter-1fkh)
 - [Lifehacker] [Three of the Most Underrated States Worth Visiting](https://lifehacker.com/three-of-the-most-underrated-states-worth-visiting-1849343869)
 - [Lifehacker] [How to Know If a Monthly Car Payment Is Actually a Good Deal](https://lifehacker.com/how-to-know-if-a-monthly-car-payment-is-actually-a-good-1849343679)
-- [Dev.to/JS] [Create a Cryptocurrency finder with React](https://dev.to/bekbrace/create-a-cryptocurrency-finder-with-react-3850)
 - [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
 - [Lifehacker] [Is Monkeypox a Sexually Transmitted Disease?](https://lifehacker.com/is-monkeypox-a-sexually-transmitted-disease-1849343210)
 - [Lifehacker] [The Best Free &lpar;or Cheap&rpar; Financial Courses for Beginners](https://lifehacker.com/the-best-free-or-cheap-financial-courses-for-beginner-1849342702)
