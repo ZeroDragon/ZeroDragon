@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Amazing CSS transition tips and details](https://dev.to/chokcoco/amazing-css-transition-tips-and-details-3l6a)
+- [Dev.to/JS] [Create a modal with the HTML dialog element, Tailwind and Stimulus](https://dev.to/thomasvanholder/create-a-modal-with-the-html-dialog-element-tailwind-and-stimulus-573b)
+- [Dev.to/JS] [send nextjs app to production without vercel](https://dev.to/fredoantonio/send-nextjs-app-to-production-without-vercel-5812)
+- [Dev.to/JS] [The Evolution of SAS Software Suite](https://dev.to/barathmanikand1/the-evolution-of-sas-software-suite-10f3)
 - [Dev.to/JS] [how to Define belongsTo relation between the tables of different databases using Sequelize ORM](https://dev.to/taqiarzoo/how-to-define-belongsto-relation-between-the-tables-of-different-databases-using-sequelize-orm-4b7)
 - [Dev.to/JS] [API](https://dev.to/dantechnologics/api-3f4m)
 - [Dev.to/JS] [Angular URL State management with Query Params or Route Params](https://dev.to/pavankjadda/angular-url-state-management-with-query-params-or-route-params-3mcb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 Must Have Browser Extensions for Developers](https://dev.to/devsimc/12-must-have-browser-extensions-for-developers-163d)
 - [Dev.to/JS] [Let’s deploy a Next.Js app with firebase](https://dev.to/pruthvidarji1993/lets-deploy-a-nextjs-app-with-firebase-1g0d)
 - [Dev.to/JS] [How To Get Current Date And Time In Node.js](https://dev.to/techsolutionstuff/how-to-get-current-date-and-time-in-nodejs-4jm)
-- [Dev.to/JS] [Database Plus’s Embracing the Cloud: ShardingSphere-on-Cloud Solution Released](https://dev.to/apache_shardingsphere/database-pluss-embracing-the-cloud-shardingsphere-on-cloud-solution-released-28o1)
-- [Dev.to/JS] [Operators in Depth](https://dev.to/saoud/operators-in-depth-3cgo)
-- [Dev.to/JS] [Implement the New AWS CloudScape Design System into NextJS](https://dev.to/ajstacy/implement-the-new-aws-cloudscape-design-system-into-nextjs-2k50)
-- [Dev.to/JS] [NodeJS on the go](https://dev.to/retr0ville/nodejs-on-the-go-291l)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
