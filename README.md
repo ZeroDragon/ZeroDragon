@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction of Facade Pattern in Javascript](https://dev.to/yohanesss/introduction-of-facade-pattern-in-javascript-2gmo)
+- [Dev.to/JS] [Mastering JavaScript 🧑‍💻: How the js engine works](https://dev.to/saverio683/mastering-javascript-how-the-js-engine-works-5a2p)
 - [Dev.to/JS] [Advantages Of Investing in Making Engaging Responsive Design](https://dev.to/storykiker/advantages-of-investing-in-making-engaging-responsive-design-2f1e)
 - [Dev.to/JS] [How to Use a JavaScript Reporting Tool in Your Rust Web Application](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-in-your-rust-web-application-387e)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use prevState of React.useState&lpar;&rpar;](https://dev.to/gabrieldneto/how-to-use-prevstate-of-reactusestate-lp)
 - [Dev.to/JS] [Callback Function](https://dev.to/jana009/callback-function-3dml)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
-- [Dev.to/JS] [Check Out the Pay-as-you-Go Pricing for Directus Standard Cloud](https://dev.to/michelleemadd/check-out-the-pay-as-you-go-pricing-for-directus-standard-cloud-3j90)
-- [Dev.to/JS] [How to Add Google Fonts to a Tailwind Project](https://dev.to/elvisduru/how-to-add-google-fonts-to-a-tailwind-project-3n0h)
 - [Lifehacker] [Three Things You Should Never Do on a Work Computer](https://lifehacker.com/three-things-you-should-never-do-on-a-work-computer-1849349028)
 - [Lifehacker] [Three Fresh Ways to Mix Up Your Margarita](https://lifehacker.com/three-fresh-ways-to-mix-up-your-margarita-1849348885)
 - [Lifehacker] [The Best Ways to Clean Your Weed Gear](https://lifehacker.com/the-best-ways-to-clean-your-weed-gear-1849348978)
