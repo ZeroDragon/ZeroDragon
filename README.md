@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Accessibility Check #1](https://dev.to/yuridevat/accessibility-check-1-3c38)
+- [Dev.to/JS] [my first javascript app: a retrospective](https://dev.to/monlir/my-first-javascript-app-a-retrospective-2p3h)
+- [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
+- [Dev.to/JS] [How to use prevState of React.useState&lpar;&rpar;](https://dev.to/gabrieldneto/how-to-use-prevstate-of-reactusestate-lp)
+- [Dev.to/JS] [Callback Function](https://dev.to/jana009/callback-function-3dml)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
 - [Dev.to/JS] [Check Out the Pay-as-you-Go Pricing for Directus Standard Cloud](https://dev.to/michelleemadd/check-out-the-pay-as-you-go-pricing-for-directus-standard-cloud-3j90)
 - [Dev.to/JS] [How to Add Google Fonts to a Tailwind Project](https://dev.to/elvisduru/how-to-add-google-fonts-to-a-tailwind-project-3n0h)
@@ -37,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How does the garbage collection algorithm &lpar;Mark-Sweep&rpar; work? 🗑️🧹](https://dev.to/adhamniazy/how-does-the-garbage-collection-algorithm-mark-sweep-work-2j7m)
 - [Lifehacker] [Five Easy Ways to Improve Your Sex Life](https://lifehacker.com/five-easy-ways-to-improve-your-sex-life-1849348307)
 - [Lifehacker] [26 Movies Lifehackers Readers Saw at Way Too Young an Age](https://lifehacker.com/26-movies-lifehackers-readers-saw-at-way-too-young-an-a-1849348364)
-- [Dev.to/JS] [My barebones React component snippet](https://dev.to/receter/my-barebones-react-component-snippet-4f15)
-- [Dev.to/JS] [Working With JSON](https://dev.to/prakharnagore/working-with-json-25hn)
-- [Dev.to/JS] [Code Smell 153 - Too Long Names](https://dev.to/mcsee/code-smell-153-too-long-names-381f)
-- [Dev.to/JS] [Bun: The JavaScript runtime taking on Node.js and Deno](https://dev.to/logrocket/bun-the-javascript-runtime-taking-on-nodejs-and-deno-abl)
 - [Lifehacker] [These Are the Best Rideshare Apps to Use When Traveling Internationally](https://lifehacker.com/these-are-the-best-rideshare-apps-to-use-when-traveling-1849347343)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Are Vabbing and Mucus Fishing?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-are-1849346193)
 - [Lifehacker] [How to Tell When a Bear Market Is Over](https://lifehacker.com/how-to-tell-when-a-bear-market-is-over-1849340869)
@@ -57,12 +58,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
 - [Lifehacker] [Is Monkeypox a Sexually Transmitted Disease?](https://lifehacker.com/is-monkeypox-a-sexually-transmitted-disease-1849343210)
 - [Lifehacker] [The Best Free &lpar;or Cheap&rpar; Financial Courses for Beginners](https://lifehacker.com/the-best-free-or-cheap-financial-courses-for-beginner-1849342702)
-- [Lifehacker] [What&#39;s New on Paramount+ in August 2022](https://lifehacker.com/whats-new-on-paramount-in-august-2022-1849342507)
-- [Lifehacker] [Make Yourself a Stroopwafel ‘Choco Taco’](https://lifehacker.com/make-yourself-a-stroopwafel-choco-taco-1849342317)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
-- [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
+- [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
 
 ---
 
