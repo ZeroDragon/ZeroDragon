@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [API](https://dev.to/dantechnologics/api-3f4m)
+- [Dev.to/JS] [Angular URL State management with Query Params or Route Params](https://dev.to/pavankjadda/angular-url-state-management-with-query-params-or-route-params-3mcb)
+- [Dev.to/JS] [What is difference between Firebase and Google Analytics?](https://dev.to/professionalw0/what-is-difference-between-firebase-and-google-analytics-2fl5)
+- [Dev.to/JS] [How Much Does It Cost to Develop a React Native Mobile App](https://dev.to/ameliawenham/how-much-does-it-cost-to-develop-a-react-native-mobile-app-5fcn)
 - [Dev.to/JS] [12 Must Have Browser Extensions for Developers](https://dev.to/devsimc/12-must-have-browser-extensions-for-developers-163d)
 - [Dev.to/JS] [Let’s deploy a Next.Js app with firebase](https://dev.to/pruthvidarji1993/lets-deploy-a-nextjs-app-with-firebase-1g0d)
 - [Dev.to/JS] [How To Get Current Date And Time In Node.js](https://dev.to/techsolutionstuff/how-to-get-current-date-and-time-in-nodejs-4jm)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implement the New AWS CloudScape Design System into NextJS](https://dev.to/ajstacy/implement-the-new-aws-cloudscape-design-system-into-nextjs-2k50)
 - [Dev.to/JS] [NodeJS on the go](https://dev.to/retr0ville/nodejs-on-the-go-291l)
 - [Dev.to/JS] [JavaScript WTFs explained - Number type and floating point](https://dev.to/tchaflich/javascript-wtfs-explained-number-type-and-floating-point-2130)
-- [Dev.to/JS] [JavaScript WTFs explained - Type coercion](https://dev.to/tchaflich/javascript-wtfs-explained-type-coercion-4i8o)
-- [Dev.to/JS] [LeetCode Problem Solving](https://dev.to/mahamud751/leetcode-problem-solving-d4e)
-- [Dev.to/JS] [How to create a custom image uploader with preview](https://dev.to/jaymeeu/how-to-create-a-custom-image-uploader-with-image-preview-36lb)
-- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Staircase](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-staircase-3k66)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
