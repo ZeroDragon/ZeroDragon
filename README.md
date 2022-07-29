@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use a JavaScript Reporting Tool in Your Rust Web Application](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-in-your-rust-web-application-387e)
+- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
+- [Dev.to/JS] [Array Methods](https://dev.to/irwinramirez/array-methods-41d4)
+- [Dev.to/JS] [How to Import and Export Excel XLSX Using Angular](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-angular-531j)
+- [Dev.to/JS] [What a media placeholder is and how to implement it?](https://dev.to/kamilocean/what-a-media-placeholder-is-and-how-to-implement-it-18pj)
+- [Dev.to/JS] [Hello World](https://dev.to/engel00/hello-world-2min)
 - [Dev.to/JS] [Accessibility Check #1](https://dev.to/yuridevat/accessibility-check-1-3c38)
 - [Dev.to/JS] [my first javascript app: a retrospective](https://dev.to/monlir/my-first-javascript-app-a-retrospective-2p3h)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
@@ -34,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Things You Should Never Do on a Work Computer](https://lifehacker.com/three-things-you-should-never-do-on-a-work-computer-1849349028)
 - [Lifehacker] [Three Fresh Ways to Mix Up Your Margarita](https://lifehacker.com/three-fresh-ways-to-mix-up-your-margarita-1849348885)
 - [Dev.to/JS] [Apple Keto Gummies - Weight Loss Results, Price, Uses &amp; Side Effects?](https://dev.to/appleketobuys/apple-keto-gummies-weight-loss-results-price-uses-side-effects-2lm6)
-- [Dev.to/JS] [Ultimate CSS3 Animations Series: Rotate&lpar;&rpar;](https://dev.to/codewithshahan/ultimate-css3-animations-series-rotate-3dkj)
-- [Dev.to/JS] [Learn JavaScript - Java Certification Training Course](https://dev.to/aakhilk/learn-javascript-java-certification-training-course-23c1)
 - [Lifehacker] [The Best Ways to Clean Your Weed Gear](https://lifehacker.com/the-best-ways-to-clean-your-weed-gear-1849348978)
-- [Dev.to/JS] [😲10 JavaScript Concepts Every Developer Should Know](https://dev.to/prateek951/10-javascript-concepts-every-developer-should-know-44d2)
-- [Dev.to/JS] [New Partnership Opportunity. Help Needed](https://dev.to/tatonka21/new-partnership-opportunity-help-needed-4n4o)
-- [Dev.to/JS] [How does the garbage collection algorithm &lpar;Mark-Sweep&rpar; work? 🗑️🧹](https://dev.to/adhamniazy/how-does-the-garbage-collection-algorithm-mark-sweep-work-2j7m)
 - [Lifehacker] [Five Easy Ways to Improve Your Sex Life](https://lifehacker.com/five-easy-ways-to-improve-your-sex-life-1849348307)
 - [Lifehacker] [26 Movies Lifehackers Readers Saw at Way Too Young an Age](https://lifehacker.com/26-movies-lifehackers-readers-saw-at-way-too-young-an-a-1849348364)
 - [Lifehacker] [These Are the Best Rideshare Apps to Use When Traveling Internationally](https://lifehacker.com/these-are-the-best-rideshare-apps-to-use-when-traveling-1849347343)
@@ -57,7 +58,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know If a Monthly Car Payment Is Actually a Good Deal](https://lifehacker.com/how-to-know-if-a-monthly-car-payment-is-actually-a-good-1849343679)
 - [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
 - [Lifehacker] [Is Monkeypox a Sexually Transmitted Disease?](https://lifehacker.com/is-monkeypox-a-sexually-transmitted-disease-1849343210)
-- [Lifehacker] [The Best Free &lpar;or Cheap&rpar; Financial Courses for Beginners](https://lifehacker.com/the-best-free-or-cheap-financial-courses-for-beginner-1849342702)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
