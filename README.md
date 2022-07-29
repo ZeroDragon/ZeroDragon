@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build 3D visuals in Vue with Lunchbox.js](https://dev.to/logrocket/build-3d-visuals-in-vue-with-lunchboxjs-19i2)
+- [Dev.to/JS] [My struggles with TypeScript](https://dev.to/alexpaper/my-struggles-with-typescript-13g6)
+- [Lifehacker] [These Are the Best Rideshare Apps to Use When Traveling Internationally](https://lifehacker.com/these-are-the-best-rideshare-apps-to-use-when-traveling-1849347343)
+- [Dev.to/JS] [Is it a good decision to outsource engineers? Is it more or less efficient? Are companies like Remotebase any good?](https://dev.to/sharuq_malik_ee6ef2677882/is-it-a-good-decision-to-outsource-engineers-is-it-more-or-less-efficient-are-companies-like-remotebase-any-good-3mog)
+- [Dev.to/JS] [Leetcode - Binary Search &lpar; Using Javascript &rpar;](https://dev.to/rupeshthakur11/leetcode-binary-search-using-javascript--1lhh)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Are Vabbing and Mucus Fishing?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-are-1849346193)
 - [Dev.to/JS] [I broke Dave Gray&#39;s code](https://dev.to/masterifeanyi/i-broke-dave-grays-code-3045)
 - [Dev.to/JS] [One line copy button for the web](https://dev.to/nickymeuleman/one-line-copy-button-for-the-web-in1)
 - [Lifehacker] [How to Tell When a Bear Market Is Over](https://lifehacker.com/how-to-tell-when-a-bear-market-is-over-1849340869)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SSH - A web developer should know...](https://dev.to/tonmoydev/ssh-a-web-developer-should-know-2oeh)
 - [Dev.to/JS] [Momentum](https://dev.to/webs95/momentum-dev-2pii)
 - [Lifehacker] [What Does a Grand Jury Do, Anyway?](https://lifehacker.com/what-does-a-grand-jury-do-anyway-1849344870)
-- [Dev.to/JS] [Electron— A Complete Guide for building windows executable](https://dev.to/canopassoftware/electron-a-complete-guide-for-building-windows-executable-5fbn)
-- [Dev.to/JS] [Redux toolkit query](https://dev.to/masterifeanyi/redux-toolkit-query-k0k)
-- [Dev.to/JS] [JavaScript DOM](https://dev.to/aniksaha12/javascript-dom-399j)
 - [Lifehacker] [What&#39;s the Best Way to Watch TV for Free?](https://lifehacker.com/whats-the-best-way-to-watch-tv-for-free-1849336634)
-- [Dev.to/JS] [Basic Curry Functions in JavaScript](https://dev.to/anewman15/basic-curry-functions-in-javascript-2pf)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Instagram Less of a Shitshow](https://lifehacker.com/how-to-make-instagram-less-of-a-shitshow-1849339324)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
-- [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
-- [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
