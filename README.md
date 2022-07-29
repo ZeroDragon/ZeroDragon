@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basic Curry Functions in JavaScript](https://dev.to/anewman15/basic-curry-functions-in-javascript-2pf)
+- [Dev.to/JS] [Top 10 trending github repos of the week👠.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-1aj5)
+- [Dev.to/JS] [A Better Approach to Translating JS Apps](https://dev.to/lassegit/a-better-approach-to-translating-js-apps-chg)
+- [Dev.to/JS] [Curry Functions in JavaScript](https://dev.to/anewman15/curry-functions-in-javascript-4jpa)
+- [Dev.to/JS] [Using the native payment request JavaScript API](https://dev.to/asayerio_techblog/using-the-native-payment-request-javascript-api-575h)
 - [Dev.to/JS] [Improving image rendering speed](https://dev.to/asayerio_techblog/improving-image-rendering-speed-4gjd)
 - [Dev.to/JS] [# Day 2 | How to resolve it?](https://dev.to/weijuer/-day-2-how-to-resolve-it-5b2g)
 - [Dev.to/JS] [Authentication with JWT for your website](https://dev.to/asayerio_techblog/authentication-with-jwt-for-your-website-pal)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Resolver: A core tutorial for beginners](https://dev.to/arohiadhyaru/angular-resolver-a-core-tutorial-for-beginners-3a02)
 - [Dev.to/JS] [getElementById&lpar;&rpar; and innerHTML in JavaScript | JavaScript Tutorial #1](https://dev.to/kavyagreatrgb/getelementbyid-and-innerhtml-in-javascript-javascript-tutorial-1-2jh4)
 - [Dev.to/JS] [Introducing Westernal: A social media based on songs](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-1pa9)
-- [Dev.to/JS] [Top 7 Useless NPM Packages You Won&#39;t Believe Exist 💀💀💀](https://dev.to/hr21don/top-7-useless-npm-packages-you-wont-believe-exist-31gm)
-- [Dev.to/JS] [Amazing CSS transition tips and details](https://dev.to/chokcoco/amazing-css-transition-tips-and-details-3l6a)
-- [Dev.to/JS] [Create a modal with the HTML dialog element, Tailwind and Stimulus](https://dev.to/thomasvanholder/create-a-modal-with-the-html-dialog-element-tailwind-and-stimulus-573b)
-- [Dev.to/JS] [send nextjs app to production without vercel](https://dev.to/fredoantonio/send-nextjs-app-to-production-without-vercel-5812)
-- [Dev.to/JS] [The Evolution of SAS Software Suite](https://dev.to/barathmanikand1/the-evolution-of-sas-software-suite-10f3)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
