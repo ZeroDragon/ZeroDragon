@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
+- [Dev.to/JS] [Check Out the Pay-as-you-Go Pricing for Directus Standard Cloud](https://dev.to/michelleemadd/check-out-the-pay-as-you-go-pricing-for-directus-standard-cloud-3j90)
+- [Dev.to/JS] [How to Add Google Fonts to a Tailwind Project](https://dev.to/elvisduru/how-to-add-google-fonts-to-a-tailwind-project-3n0h)
+- [Lifehacker] [Three Things You Should Never Do on a Work Computer](https://lifehacker.com/three-things-you-should-never-do-on-a-work-computer-1849349028)
+- [Lifehacker] [Three Fresh Ways to Mix Up Your Margarita](https://lifehacker.com/three-fresh-ways-to-mix-up-your-margarita-1849348885)
 - [Dev.to/JS] [Apple Keto Gummies - Weight Loss Results, Price, Uses &amp; Side Effects?](https://dev.to/appleketobuys/apple-keto-gummies-weight-loss-results-price-uses-side-effects-2lm6)
 - [Dev.to/JS] [Ultimate CSS3 Animations Series: Rotate&lpar;&rpar;](https://dev.to/codewithshahan/ultimate-css3-animations-series-rotate-3dkj)
 - [Dev.to/JS] [Learn JavaScript - Java Certification Training Course](https://dev.to/aakhilk/learn-javascript-java-certification-training-course-23c1)
@@ -36,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working With JSON](https://dev.to/prakharnagore/working-with-json-25hn)
 - [Dev.to/JS] [Code Smell 153 - Too Long Names](https://dev.to/mcsee/code-smell-153-too-long-names-381f)
 - [Dev.to/JS] [Bun: The JavaScript runtime taking on Node.js and Deno](https://dev.to/logrocket/bun-the-javascript-runtime-taking-on-nodejs-and-deno-abl)
-- [Dev.to/JS] [Hash routing in Remix!](https://dev.to/devrayat000/hash-routing-in-remix-e2p)
-- [Dev.to/JS] [Utility to mock REST endpoints in real-time](https://dev.to/neeldev96/utility-to-mock-rest-endpoints-in-real-time-2m5j)
 - [Lifehacker] [These Are the Best Rideshare Apps to Use When Traveling Internationally](https://lifehacker.com/these-are-the-best-rideshare-apps-to-use-when-traveling-1849347343)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Are Vabbing and Mucus Fishing?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-are-1849346193)
 - [Lifehacker] [How to Tell When a Bear Market Is Over](https://lifehacker.com/how-to-tell-when-a-bear-market-is-over-1849340869)
@@ -56,9 +59,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free &lpar;or Cheap&rpar; Financial Courses for Beginners](https://lifehacker.com/the-best-free-or-cheap-financial-courses-for-beginner-1849342702)
 - [Lifehacker] [What&#39;s New on Paramount+ in August 2022](https://lifehacker.com/whats-new-on-paramount-in-august-2022-1849342507)
 - [Lifehacker] [Make Yourself a Stroopwafel ‘Choco Taco’](https://lifehacker.com/make-yourself-a-stroopwafel-choco-taco-1849342317)
-- [Lifehacker] [How to Play PS5 in 1440p](https://lifehacker.com/how-to-play-ps5-in-1440p-1849342187)
-- [Lifehacker] [Here’s What to Do If You Win the Mega Millions Lottery on Friday](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)
-- [Lifehacker] [Twerk, OMG, Tricked Out, and 8 Other Slang Terms That Are a Lot Older Than You Think](https://lifehacker.com/twerk-omg-tricked-out-and-8-other-slang-terms-that-a-1849341103)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
