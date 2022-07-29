@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Westernal: A social media based on songs](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-1pa9)
+- [Dev.to/JS] [Top 7 Useless NPM Packages You Won&#39;t Believe Exist 💀💀💀](https://dev.to/hr21don/top-7-useless-npm-packages-you-wont-believe-exist-31gm)
 - [Dev.to/JS] [Amazing CSS transition tips and details](https://dev.to/chokcoco/amazing-css-transition-tips-and-details-3l6a)
 - [Dev.to/JS] [Create a modal with the HTML dialog element, Tailwind and Stimulus](https://dev.to/thomasvanholder/create-a-modal-with-the-html-dialog-element-tailwind-and-stimulus-573b)
 - [Dev.to/JS] [send nextjs app to production without vercel](https://dev.to/fredoantonio/send-nextjs-app-to-production-without-vercel-5812)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is difference between Firebase and Google Analytics?](https://dev.to/professionalw0/what-is-difference-between-firebase-and-google-analytics-2fl5)
 - [Dev.to/JS] [How Much Does It Cost to Develop a React Native Mobile App](https://dev.to/ameliawenham/how-much-does-it-cost-to-develop-a-react-native-mobile-app-5fcn)
 - [Dev.to/JS] [12 Must Have Browser Extensions for Developers](https://dev.to/devsimc/12-must-have-browser-extensions-for-developers-163d)
-- [Dev.to/JS] [Let’s deploy a Next.Js app with firebase](https://dev.to/pruthvidarji1993/lets-deploy-a-nextjs-app-with-firebase-1g0d)
-- [Dev.to/JS] [How To Get Current Date And Time In Node.js](https://dev.to/techsolutionstuff/how-to-get-current-date-and-time-in-nodejs-4jm)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
