@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Database Plus’s Embracing the Cloud: ShardingSphere-on-Cloud Solution Released](https://dev.to/apache_shardingsphere/database-pluss-embracing-the-cloud-shardingsphere-on-cloud-solution-released-28o1)
+- [Dev.to/JS] [Operators in Depth](https://dev.to/saoud/operators-in-depth-3cgo)
+- [Dev.to/JS] [Implement the New AWS CloudScape Design System into NextJS](https://dev.to/ajstacy/implement-the-new-aws-cloudscape-design-system-into-nextjs-2k50)
 - [Dev.to/JS] [NodeJS on the go](https://dev.to/retr0ville/nodejs-on-the-go-291l)
 - [Dev.to/JS] [JavaScript WTFs explained - Number type and floating point](https://dev.to/tchaflich/javascript-wtfs-explained-number-type-and-floating-point-2130)
 - [Dev.to/JS] [JavaScript WTFs explained - Type coercion](https://dev.to/tchaflich/javascript-wtfs-explained-type-coercion-4i8o)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sabi JavaScript if else for Pidgin English](https://dev.to/deejaydev/sabi-javascript-if-else-for-pidgin-english-4ab9)
 - [Dev.to/JS] [Using Mantine NavigationProgress with Remix](https://dev.to/donocode/using-mantine-navigationprogress-with-remix-41i7)
 - [Lifehacker] [What a Recession Is, Exactly, and Other Economic Terms You Should Know](https://lifehacker.com/what-a-recession-is-exactly-and-other-economic-terms-1849343863)
-- [Dev.to/JS] [Bubble and Selection Sort Algorithms using JavaScript](https://dev.to/anasnmu/bubble-and-selection-sort-algorithms-using-javascript-295d)
-- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-482b)
 - [Lifehacker] [Turn Watermelon Rinds Into a Fancy Cocktail Cordial](https://lifehacker.com/turn-watermelon-rinds-into-a-fancy-cocktail-cordial-1849343995)
-- [Dev.to/JS] [Finding tech jobs can be exhausting! Are you looking for a quality remote developer job?](https://dev.to/toddchavez88/finding-tech-jobs-can-be-exhausting-are-you-looking-for-a-quality-remote-developer-job-50j)
 - [Lifehacker] [Three of the Most Underrated States Worth Visiting](https://lifehacker.com/three-of-the-most-underrated-states-worth-visiting-1849343869)
 - [Lifehacker] [How to Know If a Monthly Car Payment Is Actually a Good Deal](https://lifehacker.com/how-to-know-if-a-monthly-car-payment-is-actually-a-good-1849343679)
 - [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
