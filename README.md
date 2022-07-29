@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Long Does It Take to Learn JavaScript?](https://dev.to/lokeshjoshi/how-long-does-it-take-to-learn-javascript-2h55)
+- [Dev.to/JS] [A simpler and smaller Angular starter with ngLite](https://dev.to/angular/a-simpler-and-smaller-angular-starter-with-nglite-1ooh)
+- [Lifehacker] [Make These Oat Pancakes for a Hearty Breakfast](https://lifehacker.com/make-these-oat-pancakes-for-a-hearty-breakfast-1849345513)
+- [Dev.to/JS] [SSH - A web developer should know...](https://dev.to/tonmoydev/ssh-a-web-developer-should-know-2oeh)
+- [Dev.to/JS] [Momentum](https://dev.to/webs95/momentum-dev-2pii)
+- [Lifehacker] [What Does a Grand Jury Do, Anyway?](https://lifehacker.com/what-does-a-grand-jury-do-anyway-1849344870)
+- [Dev.to/JS] [Electron— A Complete Guide for building windows executable](https://dev.to/canopassoftware/electron-a-complete-guide-for-building-windows-executable-5fbn)
+- [Dev.to/JS] [Redux toolkit query](https://dev.to/masterifeanyi/redux-toolkit-query-k0k)
+- [Dev.to/JS] [JavaScript DOM](https://dev.to/aniksaha12/javascript-dom-399j)
+- [Lifehacker] [What&#39;s the Best Way to Watch TV for Free?](https://lifehacker.com/whats-the-best-way-to-watch-tv-for-free-1849336634)
 - [Dev.to/JS] [Basic Curry Functions in JavaScript](https://dev.to/anewman15/basic-curry-functions-in-javascript-2pf)
 - [Dev.to/JS] [Top 10 trending github repos of the week👠.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-1aj5)
 - [Dev.to/JS] [A Better Approach to Translating JS Apps](https://dev.to/lassegit/a-better-approach-to-translating-js-apps-chg)
 - [Dev.to/JS] [Curry Functions in JavaScript](https://dev.to/anewman15/curry-functions-in-javascript-4jpa)
 - [Dev.to/JS] [Using the native payment request JavaScript API](https://dev.to/asayerio_techblog/using-the-native-payment-request-javascript-api-575h)
-- [Dev.to/JS] [Improving image rendering speed](https://dev.to/asayerio_techblog/improving-image-rendering-speed-4gjd)
-- [Dev.to/JS] [# Day 2 | How to resolve it?](https://dev.to/weijuer/-day-2-how-to-resolve-it-5b2g)
-- [Dev.to/JS] [Authentication with JWT for your website](https://dev.to/asayerio_techblog/authentication-with-jwt-for-your-website-pal)
-- [Dev.to/JS] [Generating barcodes with Vue](https://dev.to/asayerio_techblog/generating-barcodes-with-vue-2746)
-- [Dev.to/JS] [Angular Resolver: A core tutorial for beginners](https://dev.to/arohiadhyaru/angular-resolver-a-core-tutorial-for-beginners-3a02)
-- [Dev.to/JS] [getElementById&lpar;&rpar; and innerHTML in JavaScript | JavaScript Tutorial #1](https://dev.to/kavyagreatrgb/getelementbyid-and-innerhtml-in-javascript-javascript-tutorial-1-2jh4)
-- [Dev.to/JS] [Introducing Westernal: A social media based on songs](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-1pa9)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
-- [Lifehacker] [How to Survive Sleeping in the Heat With No Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-with-no-air-conditi-1849338591)
-- [Lifehacker] [What to Cook When You Have Too Much Zucchini](https://lifehacker.com/what-to-cook-when-you-have-too-much-zucchini-1849338829)
-- [Lifehacker] [Total Voice Control, and Other Mac Accessibility Features Anyone Can Use](https://lifehacker.com/total-voice-control-and-other-mac-accessibility-featur-1849337914)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
