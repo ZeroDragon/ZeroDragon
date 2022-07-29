@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How does the garbage collection algorithm &lpar;Mark-Sweep&rpar; work? 🗑️🧹](https://dev.to/adhamniazy/how-does-the-garbage-collection-algorithm-mark-sweep-work-2j7m)
+- [Lifehacker] [Five Easy Ways to Improve Your Sex Life](https://lifehacker.com/five-easy-ways-to-improve-your-sex-life-1849348307)
+- [Lifehacker] [26 Movies Lifehackers Readers Saw at Way Too Young an Age](https://lifehacker.com/26-movies-lifehackers-readers-saw-at-way-too-young-an-a-1849348364)
+- [Dev.to/JS] [My barebones React component snippet](https://dev.to/receter/my-barebones-react-component-snippet-4f15)
+- [Dev.to/JS] [Working With JSON](https://dev.to/prakharnagore/working-with-json-25hn)
+- [Dev.to/JS] [Code Smell 153 - Too Long Names](https://dev.to/mcsee/code-smell-153-too-long-names-381f)
 - [Dev.to/JS] [Bun: The JavaScript runtime taking on Node.js and Deno](https://dev.to/logrocket/bun-the-javascript-runtime-taking-on-nodejs-and-deno-abl)
 - [Dev.to/JS] [Hash routing in Remix!](https://dev.to/devrayat000/hash-routing-in-remix-e2p)
 - [Dev.to/JS] [Utility to mock REST endpoints in real-time](https://dev.to/neeldev96/utility-to-mock-rest-endpoints-in-real-time-2m5j)
@@ -33,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode - Binary Search &lpar; Using Javascript &rpar;](https://dev.to/rupeshthakur11/leetcode-binary-search-using-javascript--1lhh)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Are Vabbing and Mucus Fishing?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-are-1849346193)
 - [Dev.to/JS] [I broke Dave Gray&#39;s code](https://dev.to/masterifeanyi/i-broke-dave-grays-code-3045)
-- [Dev.to/JS] [One line copy button for the web](https://dev.to/nickymeuleman/one-line-copy-button-for-the-web-in1)
 - [Lifehacker] [How to Tell When a Bear Market Is Over](https://lifehacker.com/how-to-tell-when-a-bear-market-is-over-1849340869)
-- [Dev.to/JS] [Using pure ESM npm packages in serverless-webpack bundles](https://dev.to/joostschuur/using-pure-esm-npm-packages-in-serverless-webpack-bundles-apd)
-- [Dev.to/JS] [Framework vs. library?](https://dev.to/edrisso/framework-vs-library-45f1)
-- [Dev.to/JS] [How Long Does It Take to Learn JavaScript?](https://dev.to/lokeshjoshi/how-long-does-it-take-to-learn-javascript-2h55)
 - [Lifehacker] [Make These Oat Pancakes for a Hearty Breakfast](https://lifehacker.com/make-these-oat-pancakes-for-a-hearty-breakfast-1849345513)
 - [Lifehacker] [What Does a Grand Jury Do, Anyway?](https://lifehacker.com/what-does-a-grand-jury-do-anyway-1849344870)
 - [Lifehacker] [What&#39;s the Best Way to Watch TV for Free?](https://lifehacker.com/whats-the-best-way-to-watch-tv-for-free-1849336634)
@@ -57,8 +59,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s What to Do If You Win the Mega Millions Lottery on Friday](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)
 - [Lifehacker] [Twerk, OMG, Tricked Out, and 8 Other Slang Terms That Are a Lot Older Than You Think](https://lifehacker.com/twerk-omg-tricked-out-and-8-other-slang-terms-that-a-1849341103)
 - [Lifehacker] [This Is the Difference Between a Generator and a Backup Battery for Your Home](https://lifehacker.com/this-is-the-difference-between-a-generator-and-a-backup-1849341165)
-- [Lifehacker] [You Should Bring This Pickle Salad to Your Next Picnic](https://lifehacker.com/you-should-bring-this-pickle-salad-to-your-next-picnic-1849339997)
-- [Lifehacker] [How to Make Instagram Less of a Shitshow](https://lifehacker.com/how-to-make-instagram-less-of-a-shitshow-1849339324)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
