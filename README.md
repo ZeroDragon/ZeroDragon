@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I broke Dave Gray&#39;s code](https://dev.to/masterifeanyi/i-broke-dave-grays-code-3045)
+- [Dev.to/JS] [One line copy button for the web](https://dev.to/nickymeuleman/one-line-copy-button-for-the-web-in1)
+- [Lifehacker] [How to Tell When a Bear Market Is Over](https://lifehacker.com/how-to-tell-when-a-bear-market-is-over-1849340869)
+- [Dev.to/JS] [Using pure ESM npm packages in serverless-webpack bundles](https://dev.to/joostschuur/using-pure-esm-npm-packages-in-serverless-webpack-bundles-apd)
+- [Dev.to/JS] [Framework vs. library?](https://dev.to/edrisso/framework-vs-library-45f1)
 - [Dev.to/JS] [How Long Does It Take to Learn JavaScript?](https://dev.to/lokeshjoshi/how-long-does-it-take-to-learn-javascript-2h55)
 - [Dev.to/JS] [A simpler and smaller Angular starter with ngLite](https://dev.to/angular/a-simpler-and-smaller-angular-starter-with-nglite-1ooh)
 - [Lifehacker] [Make These Oat Pancakes for a Hearty Breakfast](https://lifehacker.com/make-these-oat-pancakes-for-a-hearty-breakfast-1849345513)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript DOM](https://dev.to/aniksaha12/javascript-dom-399j)
 - [Lifehacker] [What&#39;s the Best Way to Watch TV for Free?](https://lifehacker.com/whats-the-best-way-to-watch-tv-for-free-1849336634)
 - [Dev.to/JS] [Basic Curry Functions in JavaScript](https://dev.to/anewman15/basic-curry-functions-in-javascript-2pf)
-- [Dev.to/JS] [Top 10 trending github repos of the week👠.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-1aj5)
-- [Dev.to/JS] [A Better Approach to Translating JS Apps](https://dev.to/lassegit/a-better-approach-to-translating-js-apps-chg)
-- [Dev.to/JS] [Curry Functions in JavaScript](https://dev.to/anewman15/curry-functions-in-javascript-4jpa)
-- [Dev.to/JS] [Using the native payment request JavaScript API](https://dev.to/asayerio_techblog/using-the-native-payment-request-javascript-api-575h)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
 - [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
-- [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
 
