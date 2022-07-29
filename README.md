@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bun: The JavaScript runtime taking on Node.js and Deno](https://dev.to/logrocket/bun-the-javascript-runtime-taking-on-nodejs-and-deno-abl)
+- [Dev.to/JS] [Hash routing in Remix!](https://dev.to/devrayat000/hash-routing-in-remix-e2p)
+- [Dev.to/JS] [Utility to mock REST endpoints in real-time](https://dev.to/neeldev96/utility-to-mock-rest-endpoints-in-real-time-2m5j)
 - [Dev.to/JS] [Build 3D visuals in Vue with Lunchbox.js](https://dev.to/logrocket/build-3d-visuals-in-vue-with-lunchboxjs-19i2)
 - [Dev.to/JS] [My struggles with TypeScript](https://dev.to/alexpaper/my-struggles-with-typescript-13g6)
 - [Lifehacker] [These Are the Best Rideshare Apps to Use When Traveling Internationally](https://lifehacker.com/these-are-the-best-rideshare-apps-to-use-when-traveling-1849347343)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using pure ESM npm packages in serverless-webpack bundles](https://dev.to/joostschuur/using-pure-esm-npm-packages-in-serverless-webpack-bundles-apd)
 - [Dev.to/JS] [Framework vs. library?](https://dev.to/edrisso/framework-vs-library-45f1)
 - [Dev.to/JS] [How Long Does It Take to Learn JavaScript?](https://dev.to/lokeshjoshi/how-long-does-it-take-to-learn-javascript-2h55)
-- [Dev.to/JS] [A simpler and smaller Angular starter with ngLite](https://dev.to/angular/a-simpler-and-smaller-angular-starter-with-nglite-1ooh)
 - [Lifehacker] [Make These Oat Pancakes for a Hearty Breakfast](https://lifehacker.com/make-these-oat-pancakes-for-a-hearty-breakfast-1849345513)
-- [Dev.to/JS] [SSH - A web developer should know...](https://dev.to/tonmoydev/ssh-a-web-developer-should-know-2oeh)
-- [Dev.to/JS] [Momentum](https://dev.to/webs95/momentum-dev-2pii)
 - [Lifehacker] [What Does a Grand Jury Do, Anyway?](https://lifehacker.com/what-does-a-grand-jury-do-anyway-1849344870)
 - [Lifehacker] [What&#39;s the Best Way to Watch TV for Free?](https://lifehacker.com/whats-the-best-way-to-watch-tv-for-free-1849336634)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
@@ -60,9 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Bring This Pickle Salad to Your Next Picnic](https://lifehacker.com/you-should-bring-this-pickle-salad-to-your-next-picnic-1849339997)
 - [Lifehacker] [How to Make Instagram Less of a Shitshow](https://lifehacker.com/how-to-make-instagram-less-of-a-shitshow-1849339324)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
-- [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
-- [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
+- [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
