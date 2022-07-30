@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [22 stats that answer, why you should learn Node.js](https://dev.to/smitterhane/22-stats-that-answer-why-you-should-learn-nodejs-4k62)
+- [Dev.to/JS] [5 Best practices for a React Project.](https://dev.to/easyvipin/5-things-to-keep-in-mind-while-building-a-react-project-1pji)
+- [Dev.to/JS] [Debouncing in javascript✨](https://dev.to/aishanipach/debouncing-in-javascript-2k9b)
+- [Dev.to/JS] [Flutter Create User API](https://dev.to/adeleyeayodeji/flutter-create-user-api-2ll7)
 - [Dev.to/JS] [JS Program to Remove Duplicates From Array](https://dev.to/hannaha88/js-program-to-remove-duplicates-from-array-56hi)
 - [Dev.to/JS] [How to Build Responsive car rental website using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-responsive-car-rental-website-using-html-css-javascript-2bhc)
 - [Dev.to/JS] [Class basic syntax](https://dev.to/hannaha88/class-basic-syntax-39aj)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cypress and Page Object Pattern - Good practice for EndToEnd testing](https://dev.to/snakepy/cypress-and-page-object-pattern-good-practice-for-endtoend-testing-16cm)
 - [Dev.to/JS] [How to select the Node.js Version?](https://dev.to/chris1993/how-to-select-the-nodejs-version-2m08)
 - [Dev.to/JS] [Find min length string in given array](https://dev.to/urstrulyvishwak/find-min-length-string-in-given-array-1fdi)
-- [Dev.to/JS] [Building the perfect language learning app for geeks using TV shows and JavaScript](https://dev.to/youssefimlyhen/building-the-perfect-language-learning-app-for-geeks-using-tv-shows-and-javascript-2l2b)
-- [Dev.to/JS] [Customized payment UPI QR code generation](https://dev.to/jeevankishore/upi-qr-code-generation-4k8a)
-- [Dev.to/JS] [Who Is Buzzing About the Prodentim?](https://dev.to/shurlbuts/who-is-buzzing-about-the-prodentim-563l)
-- [Dev.to/JS] [7 Best Tips For Web Developers](https://dev.to/devsimc/7-best-tips-for-web-developers-636)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
