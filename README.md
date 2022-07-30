@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
+- [Dev.to/JS] [Should you use separate external javascript files in web development?](https://dev.to/staticsave/should-you-use-separate-external-javascript-files-in-web-development-3pkf)
+- [Dev.to/JS] [How to reduce cognitive complexity of a function?](https://dev.to/hardiquedasore/how-to-reduce-cognitive-complexity-of-a-function-33jl)
 - [Dev.to/JS] [I Made a Web App to Showcase all your GitHub Projects 😍✨](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-github-projects-le3)
 - [Dev.to/JS] [What is Pikashow APK?](https://dev.to/sabhindimai/what-is-pikashow-apk-l88)
 - [Dev.to/JS] [Server language](https://dev.to/stephenbrooks220413/server-language-35dk)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flutter Create User API](https://dev.to/adeleyeayodeji/flutter-create-user-api-2ll7)
 - [Dev.to/JS] [JS Program to Remove Duplicates From Array](https://dev.to/hannaha88/js-program-to-remove-duplicates-from-array-56hi)
 - [Dev.to/JS] [How to Build Responsive car rental website using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-responsive-car-rental-website-using-html-css-javascript-2bhc)
-- [Dev.to/JS] [Class basic syntax](https://dev.to/hannaha88/class-basic-syntax-39aj)
-- [Dev.to/JS] [Deep Learning Projects For Final Year](https://dev.to/arunprakash142/deep-learning-projects-for-final-year-2d0e)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
@@ -57,7 +58,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Watermelon Rinds Into a Fancy Cocktail Cordial](https://lifehacker.com/turn-watermelon-rinds-into-a-fancy-cocktail-cordial-1849343995)
 - [Lifehacker] [Three of the Most Underrated States Worth Visiting](https://lifehacker.com/three-of-the-most-underrated-states-worth-visiting-1849343869)
 - [Lifehacker] [How to Know If a Monthly Car Payment Is Actually a Good Deal](https://lifehacker.com/how-to-know-if-a-monthly-car-payment-is-actually-a-good-1849343679)
-- [Lifehacker] [You Should Be Adding Cheese to Your Cocktails](https://lifehacker.com/you-should-be-adding-cheese-to-your-cocktails-1849343675)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
