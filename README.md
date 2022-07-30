@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meet The Tech Bro](https://dev.to/ukaypromise/meet-the-tech-bro-21cb)
+- [Dev.to/JS] [CarX Street Mod APK 1.75.4 Download &lpar;Unlimited Money&rpar;](https://dev.to/sajidhuasin/carx-street-mod-apk-1754-download-unlimited-money-52pp)
+- [Dev.to/JS] [Tipos em Typescript](https://dev.to/joaosc17/tipos-em-typescript-363)
 - [Dev.to/JS] [Statements in Programming](https://dev.to/graciousdev/statements-in-programming-3m33)
 - [Dev.to/JS] [useEffect firing twice in React 18](https://dev.to/shivamjjha/useeffect-firing-twice-in-react-18-16cg)
 - [Dev.to/JS] [Create Markdown blog posts automatically](https://dev.to/angelod1as/create-markdown-blog-posts-automatically-2npm)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 3 Ways to Center a DIV with CSS 🚀](https://dev.to/robsonmuniz16/top-3-ways-to-center-a-div-with-css-15k5)
 - [Dev.to/JS] [5 Beautiful CSS illustrations worth checking 😍](https://dev.to/prateek951/5-beautiful-css-illustrations-worth-checking-cj6)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
-- [Dev.to/JS] [Should you use separate external javascript files in web development?](https://dev.to/staticsave/should-you-use-separate-external-javascript-files-in-web-development-3pkf)
-- [Dev.to/JS] [How to reduce cognitive complexity of a function?](https://dev.to/hardiquedasore/how-to-reduce-cognitive-complexity-of-a-function-33jl)
-- [Dev.to/JS] [I Made a Web App to Showcase all your GitHub Projects 😍✨](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-github-projects-le3)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
