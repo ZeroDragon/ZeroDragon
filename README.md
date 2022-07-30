@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 3 Ways to Center a DIV with CSS 🚀](https://dev.to/robsonmuniz16/top-3-ways-to-center-a-div-with-css-15k5)
+- [Dev.to/JS] [5 Beautiful CSS illustrations worth checking 😍](https://dev.to/prateek951/5-beautiful-css-illustrations-worth-checking-cj6)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Dev.to/JS] [Should you use separate external javascript files in web development?](https://dev.to/staticsave/should-you-use-separate-external-javascript-files-in-web-development-3pkf)
 - [Dev.to/JS] [How to reduce cognitive complexity of a function?](https://dev.to/hardiquedasore/how-to-reduce-cognitive-complexity-of-a-function-33jl)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Best practices for a React Project.](https://dev.to/easyvipin/5-things-to-keep-in-mind-while-building-a-react-project-1pji)
 - [Dev.to/JS] [Debouncing in javascript✨](https://dev.to/aishanipach/debouncing-in-javascript-2k9b)
 - [Dev.to/JS] [Flutter Create User API](https://dev.to/adeleyeayodeji/flutter-create-user-api-2ll7)
-- [Dev.to/JS] [JS Program to Remove Duplicates From Array](https://dev.to/hannaha88/js-program-to-remove-duplicates-from-array-56hi)
-- [Dev.to/JS] [How to Build Responsive car rental website using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-responsive-car-rental-website-using-html-css-javascript-2bhc)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
