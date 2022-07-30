@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Statements in Programming](https://dev.to/graciousdev/statements-in-programming-3m33)
+- [Dev.to/JS] [useEffect firing twice in React 18](https://dev.to/shivamjjha/useeffect-firing-twice-in-react-18-16cg)
+- [Dev.to/JS] [Create Markdown blog posts automatically](https://dev.to/angelod1as/create-markdown-blog-posts-automatically-2npm)
+- [Dev.to/JS] [Object and Array Destructuring in JavaScript ES6](https://dev.to/anasnmu/object-and-array-destructuring-in-javascript-es6-7lh)
 - [Dev.to/JS] [Proxy Pattern trong Javascript](https://dev.to/dylanvo28/proxy-pattern-trong-javascript-135l)
 - [Dev.to/JS] [Routings in React JS](https://dev.to/shubhamtiwari909/routings-in-react-js-12h1)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Should you use separate external javascript files in web development?](https://dev.to/staticsave/should-you-use-separate-external-javascript-files-in-web-development-3pkf)
 - [Dev.to/JS] [How to reduce cognitive complexity of a function?](https://dev.to/hardiquedasore/how-to-reduce-cognitive-complexity-of-a-function-33jl)
 - [Dev.to/JS] [I Made a Web App to Showcase all your GitHub Projects 😍✨](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-github-projects-le3)
-- [Dev.to/JS] [What is Pikashow APK?](https://dev.to/sabhindimai/what-is-pikashow-apk-l88)
-- [Dev.to/JS] [Server language](https://dev.to/stephenbrooks220413/server-language-35dk)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
-- [Dev.to/JS] [What&#39;s new in Vue.js 2.7.8](https://dev.to/shshank/whats-new-in-vuejs-278-c48)
-- [Dev.to/JS] [22 stats that answer, why you should learn Node.js](https://dev.to/smitterhane/22-stats-that-answer-why-you-should-learn-nodejs-4k62)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
