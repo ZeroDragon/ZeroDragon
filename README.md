@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript .slice&lpar;&rpar; and .splice&lpar;&rpar; cheat sheet](https://dev.to/babib/javascript-slice-and-splice-cheat-sheet-3hoi)
 - [Dev.to/JS] [Validator in js](https://dev.to/tikashi/validator-in-js-4amj)
-- [Dev.to/JS] [SvelteKit with SocketIO and NodeJs](https://dev.to/theether0/sveltekit-with-socketio-and-nodejs-285h)
+- [Dev.to/JS] [SvelteKit with SocketIO in Production](https://dev.to/theether0/sveltekit-with-socketio-and-nodejs-285h)
 - [Dev.to/JS] [Let&#39;s Talk About Hooks - Part 3 &lpar;useCallback and useRef&rpar;](https://dev.to/alserembani/lets-talk-about-hooks-part-3-usecallback-and-useref-2b0d)
 - [Dev.to/JS] [Hello Dev.to!](https://dev.to/amcaricola/hello-devto-4i7d)
 - [Dev.to/JS] [Conhecendo o structuredClone](https://dev.to/dbiazioli/conhecendo-o-structuredclone-2k16)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use a JavaScript Reporting Tool in Your Rust Web Application](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-in-your-rust-web-application-387e)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Dev.to/JS] [Array Methods](https://dev.to/irwinramirez/array-methods-41d4)
-- [Dev.to/JS] [How to Import and Export Excel XLSX Using Angular](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-angular-531j)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
 - [Lifehacker] [Three Things You Should Never Do on a Work Computer](https://lifehacker.com/three-things-you-should-never-do-on-a-work-computer-1849349028)
