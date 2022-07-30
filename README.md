@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Program to Remove Duplicates From Array](https://dev.to/hannaha88/js-program-to-remove-duplicates-from-array-56hi)
+- [Dev.to/JS] [How to Build Responsive car rental website using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-responsive-car-rental-website-using-html-css-javascript-2bhc)
+- [Dev.to/JS] [Class basic syntax](https://dev.to/hannaha88/class-basic-syntax-39aj)
+- [Dev.to/JS] [Deep Learning Projects For Final Year](https://dev.to/arunprakash142/deep-learning-projects-for-final-year-2d0e)
 - [Dev.to/JS] [How multi crypto payment gateway development be benefits for merchants?](https://dev.to/thecryptoapeo/how-multi-crypto-payment-gateway-development-be-benefits-for-merchants-183e)
 - [Dev.to/JS] [Cypress and Page Object Pattern - Good practice for EndToEnd testing](https://dev.to/snakepy/cypress-and-page-object-pattern-good-practice-for-endtoend-testing-16cm)
 - [Dev.to/JS] [How to select the Node.js Version?](https://dev.to/chris1993/how-to-select-the-nodejs-version-2m08)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Customized payment UPI QR code generation](https://dev.to/jeevankishore/upi-qr-code-generation-4k8a)
 - [Dev.to/JS] [Who Is Buzzing About the Prodentim?](https://dev.to/shurlbuts/who-is-buzzing-about-the-prodentim-563l)
 - [Dev.to/JS] [7 Best Tips For Web Developers](https://dev.to/devsimc/7-best-tips-for-web-developers-636)
-- [Dev.to/JS] [Javascript cheat sheet: .slice&lpar;&rpar; and .splice&lpar;&rpar;](https://dev.to/babib/javascript-slice-and-splice-cheat-sheet-3hoi)
-- [Dev.to/JS] [Validator in js](https://dev.to/tikashi/validator-in-js-4amj)
-- [Dev.to/JS] [SvelteKit with SocketIO in Production](https://dev.to/theether0/sveltekit-with-socketio-and-nodejs-285h)
-- [Dev.to/JS] [Let&#39;s Talk About Hooks - Part 3 &lpar;useCallback and useRef&rpar;](https://dev.to/alserembani/lets-talk-about-hooks-part-3-usecallback-and-useref-2b0d)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
