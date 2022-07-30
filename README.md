@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello Dev.to!](https://dev.to/amcaricola/hello-devto-4i7d)
+- [Dev.to/JS] [Conhecendo o structuredClone](https://dev.to/dbiazioli/conhecendo-o-structuredclone-2k16)
 - [Dev.to/JS] [Reactive Vue!... How does it work?](https://dev.to/sem1colons/reactive-vue-how-does-it-work-4flb)
 - [Dev.to/JS] [Introduction of Facade Pattern in Javascript](https://dev.to/yohanesss/introduction-of-facade-pattern-in-javascript-2gmo)
 - [Dev.to/JS] [Mastering JavaScript 🧑‍💻: How the js engine works](https://dev.to/saverio683/mastering-javascript-how-the-js-engine-works-5a2p)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What a media placeholder is and how to implement it?](https://dev.to/kamilocean/what-a-media-placeholder-is-and-how-to-implement-it-18pj)
 - [Dev.to/JS] [Hello World](https://dev.to/engel00/hello-world-2min)
 - [Dev.to/JS] [Accessibility Check #1](https://dev.to/yuridevat/accessibility-check-1-3c38)
-- [Dev.to/JS] [my first javascript app: a retrospective](https://dev.to/monlir/my-first-javascript-app-a-retrospective-2p3h)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
-- [Dev.to/JS] [How to use prevState of React.useState&lpar;&rpar;](https://dev.to/gabrieldneto/how-to-use-prevstate-of-reactusestate-lp)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
 - [Lifehacker] [Three Things You Should Never Do on a Work Computer](https://lifehacker.com/three-things-you-should-never-do-on-a-work-computer-1849349028)
 - [Lifehacker] [Three Fresh Ways to Mix Up Your Margarita](https://lifehacker.com/three-fresh-ways-to-mix-up-your-margarita-1849348885)
