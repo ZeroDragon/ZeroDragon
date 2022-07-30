@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Made a Web App to Showcase all your GitHub Projects 😍✨](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-github-projects-le3)
+- [Dev.to/JS] [What is Pikashow APK?](https://dev.to/sabhindimai/what-is-pikashow-apk-l88)
+- [Dev.to/JS] [Server language](https://dev.to/stephenbrooks220413/server-language-35dk)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
 - [Dev.to/JS] [What&#39;s new in Vue.js 2.7.8](https://dev.to/shshank/whats-new-in-vuejs-278-c48)
 - [Dev.to/JS] [22 stats that answer, why you should learn Node.js](https://dev.to/smitterhane/22-stats-that-answer-why-you-should-learn-nodejs-4k62)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build Responsive car rental website using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-responsive-car-rental-website-using-html-css-javascript-2bhc)
 - [Dev.to/JS] [Class basic syntax](https://dev.to/hannaha88/class-basic-syntax-39aj)
 - [Dev.to/JS] [Deep Learning Projects For Final Year](https://dev.to/arunprakash142/deep-learning-projects-for-final-year-2d0e)
-- [Dev.to/JS] [How multi crypto payment gateway development be benefits for merchants?](https://dev.to/thecryptoapeo/how-multi-crypto-payment-gateway-development-be-benefits-for-merchants-183e)
-- [Dev.to/JS] [Cypress and Page Object Pattern - Good practice for EndToEnd testing](https://dev.to/snakepy/cypress-and-page-object-pattern-good-practice-for-endtoend-testing-16cm)
-- [Dev.to/JS] [How to select the Node.js Version?](https://dev.to/chris1993/how-to-select-the-nodejs-version-2m08)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
