@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
+- [Dev.to/JS] [Singleton Pattern trong Javascript](https://dev.to/dylanvo28/singleton-pattern-1kba)
 - [Dev.to/JS] [Top 3 Ways to Center a DIV with CSS 🚀](https://dev.to/robsonmuniz16/top-3-ways-to-center-a-div-with-css-15k5)
 - [Dev.to/JS] [5 Beautiful CSS illustrations worth checking 😍](https://dev.to/prateek951/5-beautiful-css-illustrations-worth-checking-cj6)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [22 stats that answer, why you should learn Node.js](https://dev.to/smitterhane/22-stats-that-answer-why-you-should-learn-nodejs-4k62)
 - [Dev.to/JS] [5 Best practices for a React Project.](https://dev.to/easyvipin/5-things-to-keep-in-mind-while-building-a-react-project-1pji)
 - [Dev.to/JS] [Debouncing in javascript✨](https://dev.to/aishanipach/debouncing-in-javascript-2k9b)
-- [Dev.to/JS] [Flutter Create User API](https://dev.to/adeleyeayodeji/flutter-create-user-api-2ll7)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
@@ -57,7 +58,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What a Recession Is, Exactly, and Other Economic Terms You Should Know](https://lifehacker.com/what-a-recession-is-exactly-and-other-economic-terms-1849343863)
 - [Lifehacker] [Turn Watermelon Rinds Into a Fancy Cocktail Cordial](https://lifehacker.com/turn-watermelon-rinds-into-a-fancy-cocktail-cordial-1849343995)
 - [Lifehacker] [Three of the Most Underrated States Worth Visiting](https://lifehacker.com/three-of-the-most-underrated-states-worth-visiting-1849343869)
-- [Lifehacker] [How to Know If a Monthly Car Payment Is Actually a Good Deal](https://lifehacker.com/how-to-know-if-a-monthly-car-payment-is-actually-a-good-1849343679)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
