@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Proxy Pattern trong Javascript](https://dev.to/dylanvo28/proxy-pattern-trong-javascript-135l)
+- [Dev.to/JS] [Routings in React JS](https://dev.to/shubhamtiwari909/routings-in-react-js-12h1)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Dev.to/JS] [Singleton Pattern trong Javascript](https://dev.to/dylanvo28/singleton-pattern-1kba)
 - [Dev.to/JS] [Top 3 Ways to Center a DIV with CSS 🚀](https://dev.to/robsonmuniz16/top-3-ways-to-center-a-div-with-css-15k5)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
 - [Dev.to/JS] [What&#39;s new in Vue.js 2.7.8](https://dev.to/shshank/whats-new-in-vuejs-278-c48)
 - [Dev.to/JS] [22 stats that answer, why you should learn Node.js](https://dev.to/smitterhane/22-stats-that-answer-why-you-should-learn-nodejs-4k62)
-- [Dev.to/JS] [5 Best practices for a React Project.](https://dev.to/easyvipin/5-things-to-keep-in-mind-while-building-a-react-project-1pji)
-- [Dev.to/JS] [Debouncing in javascript✨](https://dev.to/aishanipach/debouncing-in-javascript-2k9b)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
