@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [F1 Keto ACV Gummies Review – Do F1 ACV Keto Gummies Uses or Benefits?](https://dev.to/f1ketoinfo/f1-keto-acv-gummies-review-do-f1-acv-keto-gummies-uses-or-benefits-47g5)
+- [Dev.to/JS] [Building Headless Data Visualizations with D3.js](https://dev.to/insidiae/building-headless-data-visualizations-with-d3js-cj8)
 - [Dev.to/JS] [6 tips to make your JS/TS repository more new-joiners friendly](https://dev.to/this-is-learning/6-tips-to-make-your-jsts-repository-more-new-joiners-friendly-50oo)
 - [Dev.to/JS] [Still working hard on projects.](https://dev.to/albuhrrito/still-working-hard-on-projects-2fpi)
 - [Dev.to/JS] [Chauhan@123456789](https://dev.to/ankit3131/chauhan123456789-46e9)
@@ -30,12 +32,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how a mid level front end web developer resume looks like???](https://dev.to/shahrozahmd/how-a-mid-level-front-end-web-developer-resume-looks-like-18hd)
 - [Dev.to/JS] [Part 3 : Adding a Table Of Contents to blog article](https://dev.to/ivanleomk/part-3-adding-a-table-of-contents-to-blog-article-9eh)
 - [Dev.to/JS] [Debugging a Wordle Bug](https://dev.to/codenameone/debugging-a-wordle-bug-4n0a)
-- [Dev.to/JS] [6 Steps Approach to Solve Any Coding Problem](https://dev.to/johongirr/6-steps-approach-to-solve-any-coding-problem-4h76)
+- [Dev.to/JS] [How to Solve Programming Problems like a Programmer](https://dev.to/johongirr/6-steps-approach-to-solve-any-coding-problem-4h76)
 - [Dev.to/JS] [Advanced Node.js Topics: Caching.](https://dev.to/osam1010/advanced-nodejs-topics-caching-46a1)
 - [Dev.to/JS] [Easy to customise frontend UI library](https://dev.to/shreyvijayvargiya/easy-to-customise-frontend-ui-library-1i74)
-- [Dev.to/JS] [React project one must do!](https://dev.to/ishaan010/react-project-one-must-do-41n1)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
-- [Dev.to/JS] [What is the difference between Statically and Dynamically Typed Languages](https://dev.to/nibodhdaware/what-is-the-difference-between-statically-and-dynamically-typed-languages-ma2)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
