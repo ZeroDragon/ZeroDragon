@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js: Event Listeners Made Easy](https://dev.to/victorhaynes/reactjs-event-listeners-made-easy-2h9c)
+- [Dev.to/JS] [Easy Start Guide: TypeScript](https://dev.to/vkton115/easy-start-guide-typescript-3ip4)
+- [Dev.to/JS] [Example: Using Java + SpringBoot + Hibernate and IRIS Database to create REST API](https://dev.to/intersystems/example-using-java-springboot-hibernate-and-iris-database-to-create-rest-api-2fol)
 - [Dev.to/JS] [Question about the Electron.js Framework](https://dev.to/jelugbadebo/question-about-the-electronjs-framework-1coc)
 - [Dev.to/JS] [Extract Metadata Information From URL | JavaScript](https://dev.to/stackblogger/extract-metadata-information-from-url-javascript-1p2o)
 - [Dev.to/JS] [LeetCode - Combination Sum](https://dev.to/_alkesh26/leetcode-combination-sum-2338)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is an invisible character?](https://dev.to/phperrorcode/what-is-an-invisible-character-5ag1)
 - [Dev.to/JS] [Promise and async await](https://dev.to/gohomewho/promise-and-async-await-931)
 - [Dev.to/JS] [Creating a Blog Post editor from scratch. Part 1: the bare minimum](https://dev.to/theplebdev/creating-a-blog-post-editor-from-scratch-part-1-the-bare-minimum-26cg)
-- [Dev.to/JS] [Responsive Image Gallery like Shutterstock, Pixabay and Adobe Stock using HTML CSS &amp; JavaScript](https://dev.to/krishnasoni007/responsive-image-gallery-like-shutterstock-pixabay-and-adobe-stock-using-html-css-javascript-2dk0)
-- [Dev.to/JS] [VS Code Ext of the Week: The RapidAPI Client Extension](https://dev.to/ahmadawais/vs-code-ext-of-the-week-the-rapidapi-client-extension-11bi)
-- [Dev.to/JS] [Different ways of writing styles in React](https://dev.to/akirautio/different-ways-of-writing-styles-in-react-1633)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
