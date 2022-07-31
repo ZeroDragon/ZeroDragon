@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error boundary causes React Router links to stop working](https://dev.to/tylerlwsmith/error-boundary-causes-react-router-links-to-stop-working-50gb)
+- [Dev.to/JS] [Currying Existing Functions with JavaScript](https://dev.to/anewman15/currying-existing-functions-with-javascript-4nnc)
+- [Dev.to/JS] [7 Tips to Transition from a Beginner to an Intermediate Frontend Developer 🤓 👨‍💻](https://dev.to/ruppysuppy/7-tips-to-transition-from-a-beginner-to-an-intermediate-frontend-developer-lec)
 - [Dev.to/JS] [Chrome Extensions of the Month - July 2022](https://dev.to/j471n/chrome-extensions-of-the-month-july-2022-5alc)
 - [Dev.to/JS] [Introductory to useState](https://dev.to/yarixar/introductory-to-usestate-172)
 - [Dev.to/JS] [Singleton Pattern trong Javascript](https://dev.to/dylanvo28/singleton-pattern-1kba)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Tidbit: A neat trick to compose arrays with conditional items using filter&lpar;Boolean&rpar;](https://dev.to/arnelenero/js-tidbit-a-neat-trick-to-compose-arrays-with-conditional-items-using-filterboolean-2chn)
 - [Dev.to/JS] [Meet The Tech Bro](https://dev.to/ukaypromise/meet-the-tech-bro-21cb)
 - [Dev.to/JS] [CarX Street Mod APK 1.75.4 Download &lpar;Unlimited Money&rpar;](https://dev.to/sajidhuasin/carx-street-mod-apk-1754-download-unlimited-money-52pp)
-- [Dev.to/JS] [Tipos em Typescript](https://dev.to/joaosc17/tipos-em-typescript-363)
-- [Dev.to/JS] [Statements in Programming](https://dev.to/graciousdev/statements-in-programming-3m33)
-- [Dev.to/JS] [useEffect firing twice in React 18](https://dev.to/shivamjjha/useeffect-firing-twice-in-react-18-16cg)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
