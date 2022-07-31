@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Map Method to Render Data in React](https://dev.to/kellduran/the-map-method-to-render-data-in-react-od2)
+- [Dev.to/JS] [JS Tidbit: A neat trick to compose arrays with conditional items using filter&lpar;Boolean&rpar;](https://dev.to/arnelenero/js-tidbit-a-neat-trick-to-compose-arrays-with-conditional-items-using-filterboolean-2chn)
 - [Dev.to/JS] [Meet The Tech Bro](https://dev.to/ukaypromise/meet-the-tech-bro-21cb)
 - [Dev.to/JS] [CarX Street Mod APK 1.75.4 Download &lpar;Unlimited Money&rpar;](https://dev.to/sajidhuasin/carx-street-mod-apk-1754-download-unlimited-money-52pp)
 - [Dev.to/JS] [Tipos em Typescript](https://dev.to/joaosc17/tipos-em-typescript-363)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Routings in React JS](https://dev.to/shubhamtiwari909/routings-in-react-js-12h1)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Dev.to/JS] [Singleton Pattern trong Javascript](https://dev.to/dylanvo28/singleton-pattern-1kba)
-- [Dev.to/JS] [Top 3 Ways to Center a DIV with CSS 🚀](https://dev.to/robsonmuniz16/top-3-ways-to-center-a-div-with-css-15k5)
-- [Dev.to/JS] [5 Beautiful CSS illustrations worth checking 😍](https://dev.to/prateek951/5-beautiful-css-illustrations-worth-checking-cj6)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
