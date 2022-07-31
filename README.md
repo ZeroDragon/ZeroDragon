@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
+- [Dev.to/JS] [What is the difference between Statically and Dynamically Typed Languages](https://dev.to/nibodhdaware/what-is-the-difference-between-statically-and-dynamically-typed-languages-ma2)
+- [Dev.to/JS] [React Native TypeScript Boilerplate &lpar; 2022 &rpar;](https://dev.to/handipriyono/react-native-typescript-boilerplate-49gk)
 - [Dev.to/JS] [Error boundary causes React Router links to stop working](https://dev.to/tylerlwsmith/error-boundary-causes-react-router-links-to-stop-working-50gb)
 - [Dev.to/JS] [Currying Existing Functions with JavaScript](https://dev.to/anewman15/currying-existing-functions-with-javascript-4nnc)
 - [Dev.to/JS] [7 Tips to Transition from a Beginner to an Intermediate Frontend Developer 🤓 👨‍💻](https://dev.to/ruppysuppy/7-tips-to-transition-from-a-beginner-to-an-intermediate-frontend-developer-lec)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplificando seu código React usando closures](https://dev.to/marcoshsc/simplificando-seu-codigo-react-usando-closures-48gp)
 - [Dev.to/JS] [The Map Method to Render Data in React](https://dev.to/kellduran/the-map-method-to-render-data-in-react-od2)
 - [Dev.to/JS] [JS Tidbit: A neat trick to compose arrays with conditional items using filter&lpar;Boolean&rpar;](https://dev.to/arnelenero/js-tidbit-a-neat-trick-to-compose-arrays-with-conditional-items-using-filterboolean-2chn)
-- [Dev.to/JS] [Meet The Tech Bro](https://dev.to/ukaypromise/meet-the-tech-bro-21cb)
-- [Dev.to/JS] [CarX Street Mod APK 1.75.4 Download &lpar;Unlimited Money&rpar;](https://dev.to/sajidhuasin/carx-street-mod-apk-1754-download-unlimited-money-52pp)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
-- [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
-- [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
