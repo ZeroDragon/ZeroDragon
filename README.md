@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing cleaner react code](https://dev.to/kachiic/writing-cleaner-react-code-42de)
+- [Dev.to/JS] [Calender in react js](https://dev.to/rishikesh00760/calender-in-react-js-kjb)
+- [Dev.to/JS] [Basic terms and JavaScript syntax](https://dev.to/hannaha88/basic-terms-and-javascript-syntax-1m0j)
+- [Dev.to/JS] [Password generator in javascript](https://dev.to/rishikesh00760/password-generator-in-javascript-38nc)
+- [Dev.to/JS] [How to use Teleport in Vue to Move Parts of Templates](https://dev.to/smpnjn/how-to-use-teleport-in-vue-to-move-parts-of-templates-i6d)
 - [Dev.to/JS] [Loops and conditions](https://dev.to/hannaha88/loops-and-conditions-2i79)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
 - [Dev.to/JS] [How to set default inject/provide values in Vue](https://dev.to/smpnjn/how-to-set-default-injectprovide-values-in-vue-4gc1)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [F1 Keto ACV Gummies Review – Do F1 ACV Keto Gummies Uses or Benefits?](https://dev.to/f1ketoinfo/f1-keto-acv-gummies-review-do-f1-acv-keto-gummies-uses-or-benefits-47g5)
 - [Dev.to/JS] [Building Headless Data Visualizations with D3.js](https://dev.to/insidiae/building-headless-data-visualizations-with-d3js-cj8)
 - [Dev.to/JS] [6 tips to make your JS/TS repository more new-joiners friendly](https://dev.to/this-is-learning/6-tips-to-make-your-jsts-repository-more-new-joiners-friendly-50oo)
-- [Dev.to/JS] [Still working hard on projects.](https://dev.to/albuhrrito/still-working-hard-on-projects-2fpi)
-- [Dev.to/JS] [Chauhan@123456789](https://dev.to/ankit3131/chauhan123456789-46e9)
-- [Dev.to/JS] [How to Deal with Exceptions in Java](https://dev.to/lenson_mutembei_28a6fa87e/how-to-deal-with-exceptions-in-java-2b53)
-- [Dev.to/JS] [how a mid level front end web developer resume looks like???](https://dev.to/shahrozahmd/how-a-mid-level-front-end-web-developer-resume-looks-like-18hd)
-- [Dev.to/JS] [Part 3 : Adding a Table Of Contents to blog article](https://dev.to/ivanleomk/part-3-adding-a-table-of-contents-to-blog-article-9eh)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
