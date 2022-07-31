@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript behind the scenes: Worth learning?](https://dev.to/engel00/javascript-behind-the-scenes-worth-learning-13hb)
+- [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Dev.to/JS] [Rest Parameter in JS](https://dev.to/shubhamtiwari909/rest-parameter-in-js-4jdn)
 - [Dev.to/JS] [Writing cleaner react code](https://dev.to/kachiic/writing-cleaner-react-code-42de)
 - [Dev.to/JS] [Calender in react js](https://dev.to/rishikesh00760/calender-in-react-js-kjb)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bun command not found on Linux](https://dev.to/vanwildemeerschbrent/bun-command-not-found-on-linux-4n16)
 - [Dev.to/JS] [How to add jQuery DataTables to NuxtJS 2](https://dev.to/febryars33/how-to-add-jquery-datatables-to-nuxtjs-2-5c1h)
 - [Dev.to/JS] [F1 Keto ACV Gummies Review – Do F1 ACV Keto Gummies Uses or Benefits?](https://dev.to/f1ketoinfo/f1-keto-acv-gummies-review-do-f1-acv-keto-gummies-uses-or-benefits-47g5)
-- [Dev.to/JS] [Building Headless Data Visualizations with D3.js](https://dev.to/insidiae/building-headless-data-visualizations-with-d3js-cj8)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
@@ -58,7 +59,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
 - [Lifehacker] [What a Recession Is, Exactly, and Other Economic Terms You Should Know](https://lifehacker.com/what-a-recession-is-exactly-and-other-economic-terms-1849343863)
-- [Lifehacker] [Turn Watermelon Rinds Into a Fancy Cocktail Cordial](https://lifehacker.com/turn-watermelon-rinds-into-a-fancy-cocktail-cordial-1849343995)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
