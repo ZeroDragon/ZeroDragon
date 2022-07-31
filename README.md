@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Loops and conditions](https://dev.to/hannaha88/loops-and-conditions-2i79)
+- [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
+- [Dev.to/JS] [How to set default inject/provide values in Vue](https://dev.to/smpnjn/how-to-set-default-injectprovide-values-in-vue-4gc1)
+- [Dev.to/JS] [Bun command not found on Linux](https://dev.to/vanwildemeerschbrent/bun-command-not-found-on-linux-4n16)
+- [Dev.to/JS] [How to add jQuery DataTables to NuxtJS 2](https://dev.to/febryars33/how-to-add-jquery-datatables-to-nuxtjs-2-5c1h)
 - [Dev.to/JS] [F1 Keto ACV Gummies Review – Do F1 ACV Keto Gummies Uses or Benefits?](https://dev.to/f1ketoinfo/f1-keto-acv-gummies-review-do-f1-acv-keto-gummies-uses-or-benefits-47g5)
 - [Dev.to/JS] [Building Headless Data Visualizations with D3.js](https://dev.to/insidiae/building-headless-data-visualizations-with-d3js-cj8)
 - [Dev.to/JS] [6 tips to make your JS/TS repository more new-joiners friendly](https://dev.to/this-is-learning/6-tips-to-make-your-jsts-repository-more-new-joiners-friendly-50oo)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Deal with Exceptions in Java](https://dev.to/lenson_mutembei_28a6fa87e/how-to-deal-with-exceptions-in-java-2b53)
 - [Dev.to/JS] [how a mid level front end web developer resume looks like???](https://dev.to/shahrozahmd/how-a-mid-level-front-end-web-developer-resume-looks-like-18hd)
 - [Dev.to/JS] [Part 3 : Adding a Table Of Contents to blog article](https://dev.to/ivanleomk/part-3-adding-a-table-of-contents-to-blog-article-9eh)
-- [Dev.to/JS] [Debugging a Wordle Bug](https://dev.to/codenameone/debugging-a-wordle-bug-4n0a)
-- [Dev.to/JS] [How to Solve Programming Problems like a Programmer](https://dev.to/johongirr/6-steps-approach-to-solve-any-coding-problem-4h76)
-- [Dev.to/JS] [Advanced Node.js Topics: Caching.](https://dev.to/osam1010/advanced-nodejs-topics-caching-46a1)
-- [Dev.to/JS] [Easy to customise frontend UI library](https://dev.to/shreyvijayvargiya/easy-to-customise-frontend-ui-library-1i74)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
@@ -58,7 +59,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
 - [Lifehacker] [What a Recession Is, Exactly, and Other Economic Terms You Should Know](https://lifehacker.com/what-a-recession-is-exactly-and-other-economic-terms-1849343863)
 - [Lifehacker] [Turn Watermelon Rinds Into a Fancy Cocktail Cordial](https://lifehacker.com/turn-watermelon-rinds-into-a-fancy-cocktail-cordial-1849343995)
-- [Lifehacker] [Three of the Most Underrated States Worth Visiting](https://lifehacker.com/three-of-the-most-underrated-states-worth-visiting-1849343869)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
