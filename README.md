@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introductory to useState](https://dev.to/yarixar/introductory-to-usestate-172)
 - [Dev.to/JS] [Singleton Pattern trong Javascript](https://dev.to/dylanvo28/singleton-pattern-1kba)
 - [Dev.to/JS] [Learn React Concept and Create your first app with React](https://dev.to/desmondowusudev/learn-react-concept-and-create-your-first-app-with-react-27g)
 - [Dev.to/JS] [Simplificando seu código React usando closures](https://dev.to/marcoshsc/simplificando-seu-codigo-react-usando-closures-48gp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Statements in Programming](https://dev.to/graciousdev/statements-in-programming-3m33)
 - [Dev.to/JS] [useEffect firing twice in React 18](https://dev.to/shivamjjha/useeffect-firing-twice-in-react-18-16cg)
 - [Dev.to/JS] [Create Markdown blog posts automatically](https://dev.to/angelod1as/create-markdown-blog-posts-automatically-2npm)
-- [Dev.to/JS] [Object and Array Destructuring in JavaScript ES6](https://dev.to/anasnmu/object-and-array-destructuring-in-javascript-es6-7lh)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
