@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Question about the Electron.js Framework](https://dev.to/jelugbadebo/question-about-the-electronjs-framework-1coc)
+- [Dev.to/JS] [Extract Metadata Information From URL | JavaScript](https://dev.to/stackblogger/extract-metadata-information-from-url-javascript-1p2o)
 - [Dev.to/JS] [LeetCode - Combination Sum](https://dev.to/_alkesh26/leetcode-combination-sum-2338)
 - [Dev.to/JS] [A beginner guide switching from javasctipt to typescript.](https://dev.to/princewhyte2/a-beginner-guide-switching-from-javasctipt-to-typescript-2471)
 - [Dev.to/JS] [Hi guys need small help with svelte kit](https://dev.to/asfer3031/hi-guys-need-small-help-with-svelte-kit-41kn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive Image Gallery like Shutterstock, Pixabay and Adobe Stock using HTML CSS &amp; JavaScript](https://dev.to/krishnasoni007/responsive-image-gallery-like-shutterstock-pixabay-and-adobe-stock-using-html-css-javascript-2dk0)
 - [Dev.to/JS] [VS Code Ext of the Week: The RapidAPI Client Extension](https://dev.to/ahmadawais/vs-code-ext-of-the-week-the-rapidapi-client-extension-11bi)
 - [Dev.to/JS] [Different ways of writing styles in React](https://dev.to/akirautio/different-ways-of-writing-styles-in-react-1633)
-- [Dev.to/JS] [Weekly Digest 30/2022](https://dev.to/marcobiedermann/weekly-digest-302022-ofa)
-- [Dev.to/JS] [The Chrome Dev Tool you are missing : FEAT Recorder](https://dev.to/shrihari/the-chrome-dev-tool-you-are-missing-feat-recorder-4ao5)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
