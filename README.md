@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Chrome Dev Tool you are missing : FEAT Recorder](https://dev.to/shrihari/the-chrome-dev-tool-you-are-missing-feat-recorder-4ao5)
+- [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
+- [Dev.to/JS] [Difference between Lodash Concat and Javascript Native Concat](https://dev.to/harithzainudin/difference-between-lodash-concat-and-javascript-native-concat-3n1f)
+- [Dev.to/JS] [What are the real world benefits to computer gaming?](https://dev.to/hr21don/what-are-the-real-world-benefits-to-computer-gaming-193o)
+- [Dev.to/JS] [Beginner’s guide to JavaScript DOM](https://dev.to/kamaldeenlawal/beginners-guide-to-javascript-dom-25gh)
+- [Dev.to/JS] [How to access private s3 files using URI](https://dev.to/bugsanalyze/how-to-access-private-s3-files-using-uri-2i43)
 - [Dev.to/JS] [JavaScript behind the scenes: Worth learning?](https://dev.to/engel00/javascript-behind-the-scenes-worth-learning-13hb)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Dev.to/JS] [Rest Parameter in JS](https://dev.to/shubhamtiwari909/rest-parameter-in-js-4jdn)
@@ -31,13 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Basic terms and JavaScript syntax](https://dev.to/hannaha88/basic-terms-and-javascript-syntax-1m0j)
 - [Dev.to/JS] [Password generator in javascript](https://dev.to/rishikesh00760/password-generator-in-javascript-38nc)
 - [Dev.to/JS] [How to use Teleport in Vue to Move Parts of Templates](https://dev.to/smpnjn/how-to-use-teleport-in-vue-to-move-parts-of-templates-i6d)
-- [Dev.to/JS] [Loops and conditions](https://dev.to/hannaha88/loops-and-conditions-2i79)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
-- [Dev.to/JS] [How to set default inject/provide values in Vue](https://dev.to/smpnjn/how-to-set-default-injectprovide-values-in-vue-4gc1)
-- [Dev.to/JS] [Bun command not found on Linux](https://dev.to/vanwildemeerschbrent/bun-command-not-found-on-linux-4n16)
-- [Dev.to/JS] [How to add jQuery DataTables to NuxtJS 2](https://dev.to/febryars33/how-to-add-jquery-datatables-to-nuxtjs-2-5c1h)
-- [Dev.to/JS] [F1 Keto ACV Gummies Review – Do F1 ACV Keto Gummies Uses or Benefits?](https://dev.to/f1ketoinfo/f1-keto-acv-gummies-review-do-f1-acv-keto-gummies-uses-or-benefits-47g5)
-- [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
@@ -57,12 +57,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s the Best Way to Watch TV for Free?](https://lifehacker.com/whats-the-best-way-to-watch-tv-for-free-1849336634)
 - [Lifehacker] [Five Unbreakable Rules of Parking Lot Etiquette](https://lifehacker.com/five-unbreakable-rules-of-parking-lot-etiquette-1849344786)
 - [Lifehacker] [Why You Really Shouldn’t Take in a Wild Bird](https://lifehacker.com/why-you-really-shouldn-t-take-in-a-wild-bird-1849344186)
-- [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)
-- [Lifehacker] [What a Recession Is, Exactly, and Other Economic Terms You Should Know](https://lifehacker.com/what-a-recession-is-exactly-and-other-economic-terms-1849343863)
-- [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
-- [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
-- [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
-- [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You May Already Be Eligible for Free DoorDash, Grubhub+, or Uber Eats Deliveries](https://lifehacker.com/you-may-already-be-eligible-for-free-doordash-grubhub-1849344178)<!-- TECH-POSTS:END -->
 
 ---
 
