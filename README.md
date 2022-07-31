@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rest Parameter in JS](https://dev.to/shubhamtiwari909/rest-parameter-in-js-4jdn)
 - [Dev.to/JS] [Writing cleaner react code](https://dev.to/kachiic/writing-cleaner-react-code-42de)
 - [Dev.to/JS] [Calender in react js](https://dev.to/rishikesh00760/calender-in-react-js-kjb)
 - [Dev.to/JS] [Basic terms and JavaScript syntax](https://dev.to/hannaha88/basic-terms-and-javascript-syntax-1m0j)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add jQuery DataTables to NuxtJS 2](https://dev.to/febryars33/how-to-add-jquery-datatables-to-nuxtjs-2-5c1h)
 - [Dev.to/JS] [F1 Keto ACV Gummies Review – Do F1 ACV Keto Gummies Uses or Benefits?](https://dev.to/f1ketoinfo/f1-keto-acv-gummies-review-do-f1-acv-keto-gummies-uses-or-benefits-47g5)
 - [Dev.to/JS] [Building Headless Data Visualizations with D3.js](https://dev.to/insidiae/building-headless-data-visualizations-with-d3js-cj8)
-- [Dev.to/JS] [6 tips to make your JS/TS repository more new-joiners friendly](https://dev.to/this-is-learning/6-tips-to-make-your-jsts-repository-more-new-joiners-friendly-50oo)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
