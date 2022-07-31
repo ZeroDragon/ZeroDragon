@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Deal with Exceptions in Java](https://dev.to/lenson_mutembei_28a6fa87e/how-to-deal-with-exceptions-in-java-2b53)
+- [Dev.to/JS] [Part 3 : Adding a Table Of Contents to blog article](https://dev.to/ivanleomk/part-3-adding-a-table-of-contents-to-blog-article-9eh)
+- [Dev.to/JS] [Debugging a Wordle Bug](https://dev.to/codenameone/debugging-a-wordle-bug-4n0a)
 - [Dev.to/JS] [6 Steps Approach to Solve Any Coding Problem](https://dev.to/johongirr/6-steps-approach-to-solve-any-coding-problem-4h76)
 - [Dev.to/JS] [Advanced Node.js Topics: Caching.](https://dev.to/osam1010/advanced-nodejs-topics-caching-46a1)
 - [Dev.to/JS] [Easy to customise frontend UI library](https://dev.to/shreyvijayvargiya/easy-to-customise-frontend-ui-library-1i74)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Error boundary causes React Router links to stop working](https://dev.to/tylerlwsmith/error-boundary-causes-react-router-links-to-stop-working-50gb)
 - [Dev.to/JS] [Currying Existing Functions with JavaScript](https://dev.to/anewman15/currying-existing-functions-with-javascript-4nnc)
 - [Dev.to/JS] [7 Tips to Transition from a Beginner to an Intermediate Frontend Developer 🤓 👨‍💻](https://dev.to/ruppysuppy/7-tips-to-transition-from-a-beginner-to-an-intermediate-frontend-developer-lec)
-- [Dev.to/JS] [Chrome Extensions of the Month - July 2022](https://dev.to/j471n/chrome-extensions-of-the-month-july-2022-5alc)
-- [Dev.to/JS] [Introductory to useState](https://dev.to/yarixar/introductory-to-usestate-172)
-- [Dev.to/JS] [Learn React Concept and Create your first app with React](https://dev.to/desmondowusudev/learn-react-concept-and-create-your-first-app-with-react-27g)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
