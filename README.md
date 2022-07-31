@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - Combination Sum](https://dev.to/_alkesh26/leetcode-combination-sum-2338)
+- [Dev.to/JS] [A beginner guide switching from javasctipt to typescript.](https://dev.to/princewhyte2/a-beginner-guide-switching-from-javasctipt-to-typescript-2471)
 - [Dev.to/JS] [Hi guys need small help with svelte kit](https://dev.to/asfer3031/hi-guys-need-small-help-with-svelte-kit-41kn)
 - [Dev.to/JS] [Did you know you can test the front end without seeing the code?](https://dev.to/noriller/did-you-know-you-can-test-the-front-end-without-seeing-the-code-44ld)
 - [Dev.to/JS] [What is an invisible character?](https://dev.to/phperrorcode/what-is-an-invisible-character-5ag1)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly Digest 30/2022](https://dev.to/marcobiedermann/weekly-digest-302022-ofa)
 - [Dev.to/JS] [The Chrome Dev Tool you are missing : FEAT Recorder](https://dev.to/shrihari/the-chrome-dev-tool-you-are-missing-feat-recorder-4ao5)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
-- [Dev.to/JS] [Difference between Lodash Concat and Javascript Native Concat](https://dev.to/harithzainudin/difference-between-lodash-concat-and-javascript-native-concat-3n1f)
-- [Dev.to/JS] [What are the real world benefits to computer gaming?](https://dev.to/hr21don/what-are-the-real-world-benefits-to-computer-gaming-193o)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
