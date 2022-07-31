@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced Node.js Topics: Caching.](https://dev.to/osam1010/advanced-nodejs-topics-caching-46a1)
+- [Dev.to/JS] [Easy to customise frontend UI library](https://dev.to/shreyvijayvargiya/easy-to-customise-frontend-ui-library-1i74)
+- [Dev.to/JS] [React project one must do!](https://dev.to/ishaan010/react-project-one-must-do-41n1)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Dev.to/JS] [What is the difference between Statically and Dynamically Typed Languages](https://dev.to/nibodhdaware/what-is-the-difference-between-statically-and-dynamically-typed-languages-ma2)
 - [Dev.to/JS] [React Native TypeScript Boilerplate &lpar; 2022 &rpar;](https://dev.to/handipriyono/react-native-typescript-boilerplate-49gk)
@@ -31,11 +34,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Tips to Transition from a Beginner to an Intermediate Frontend Developer 🤓 👨‍💻](https://dev.to/ruppysuppy/7-tips-to-transition-from-a-beginner-to-an-intermediate-frontend-developer-lec)
 - [Dev.to/JS] [Chrome Extensions of the Month - July 2022](https://dev.to/j471n/chrome-extensions-of-the-month-july-2022-5alc)
 - [Dev.to/JS] [Introductory to useState](https://dev.to/yarixar/introductory-to-usestate-172)
-- [Dev.to/JS] [Singleton Pattern trong Javascript](https://dev.to/dylanvo28/singleton-pattern-1kba)
 - [Dev.to/JS] [Learn React Concept and Create your first app with React](https://dev.to/desmondowusudev/learn-react-concept-and-create-your-first-app-with-react-27g)
 - [Dev.to/JS] [Simplificando seu código React usando closures](https://dev.to/marcoshsc/simplificando-seu-codigo-react-usando-closures-48gp)
-- [Dev.to/JS] [The Map Method to Render Data in React](https://dev.to/kellduran/the-map-method-to-render-data-in-react-od2)
-- [Dev.to/JS] [JS Tidbit: A neat trick to compose arrays with conditional items using filter&lpar;Boolean&rpar;](https://dev.to/arnelenero/js-tidbit-a-neat-trick-to-compose-arrays-with-conditional-items-using-filterboolean-2chn)
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
