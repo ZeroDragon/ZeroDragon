@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a Search Bar with React](https://dev.to/xauvk/making-a-search-bar-with-react-28b8)
+- [Dev.to/JS] [Fixing baseURL error in Nextjs-auth0](https://dev.to/isreal/fixing-baseurl-error-in-nextjs-auth0-58n4)
 - [Dev.to/JS] [Implementing RequestJs in Ruby on Rails](https://dev.to/timnans/implementing-requestjs-in-ruby-on-rails-mmi)
 - [Dev.to/JS] [Build a Global Event System With TypeScript](https://dev.to/nicksettler/build-a-global-event-system-with-typescript-4f2h)
 - [Dev.to/JS] [Code Smell 154 - Too Many Variables](https://dev.to/mcsee/code-smell-154-too-many-variables-4h6h)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Extract Metadata Information From URL | JavaScript](https://dev.to/stackblogger/extract-metadata-information-from-url-javascript-1p2o)
 - [Dev.to/JS] [LeetCode - Combination Sum](https://dev.to/_alkesh26/leetcode-combination-sum-2338)
 - [Dev.to/JS] [A beginner guide switching from javasctipt to typescript.](https://dev.to/princewhyte2/a-beginner-guide-switching-from-javasctipt-to-typescript-2471)
-- [Dev.to/JS] [Hi guys need small help with svelte kit](https://dev.to/asfer3031/hi-guys-need-small-help-with-svelte-kit-41kn)
-- [Dev.to/JS] [Did you know you can test the front end without seeing the code?](https://dev.to/noriller/did-you-know-you-can-test-the-front-end-without-seeing-the-code-44ld)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
