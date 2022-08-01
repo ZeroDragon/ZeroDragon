@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help me getting the solution](https://dev.to/dantechnologics/help-me-getting-the-solution-4d15)
+- [Lifehacker] [How to Tell If You Have Water Poisoning](https://lifehacker.com/how-to-tell-if-you-have-water-poisoning-1849355825)
+- [Dev.to/JS] [⛑ JSON serialization should never fail.](https://dev.to/ehmicky/json-serialization-should-never-fail-a1a)
+- [Dev.to/JS] [Writing a 2x2 inverse matrix function in JavaScript](https://dev.to/jtlavs/writing-a-2x2-inverse-matrix-function-in-javascript-1kj7)
+- [Lifehacker] [The True Costs of Deferred Home Maintenance](https://lifehacker.com/the-true-costs-of-deferred-home-maintenance-1849355574)
 - [Dev.to/JS] [How to Upload a file to GraphQL with VanillaJS](https://dev.to/rexthony/how-to-upload-a-file-to-graphql-with-vanillajs-3dg7)
 - [Dev.to/JS] [Throw error on missing arguments](https://dev.to/artydev/throw-error-on-missing-arguments-een)
 - [Lifehacker] [Your Veggies Can Take a Tip From Steak](https://lifehacker.com/your-veggies-can-take-a-tip-from-steak-1849355472)
@@ -38,12 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Much Money You Can Make by Renting Out Your Pool](https://lifehacker.com/heres-how-much-money-you-can-make-by-renting-out-your-p-1849353370)
 - [Dev.to/JS] [JavaScript&#39;s true and false: Truthy and Falsy](https://dev.to/talenttinaapi/javascripts-true-and-false-truthy-and-falsy-2chd)
 - [Dev.to/JS] [Do you really understand JS functions? &lpar;part 1&rpar;](https://dev.to/jrmatanda/do-you-really-understand-js-functions-part-1-4g0k)
-- [Dev.to/JS] [How to actually use ESLint + Prettier](https://dev.to/jvzaniolo/how-to-actually-use-eslint-prettier-3fm8)
 - [Lifehacker] [How to Start a Casual Sex Relationship](https://lifehacker.com/how-to-start-a-casual-sex-relationship-1849350310)
-- [Dev.to/JS] [Javascript image manipulation](https://dev.to/rishikesh00760/javascript-image-manipulation-4k1)
 - [Lifehacker] [15 of the Best New Things to Stream in August 2022](https://lifehacker.com/15-of-the-best-new-things-to-stream-in-august-2022-1849344796)
 - [Lifehacker] [How to Instantly Customize Lock Screen Notifications in iOS 16](https://lifehacker.com/how-to-instantly-customize-lock-screen-notifications-in-1849354253)
-- [Dev.to/JS] [Simplifying Closures in JavaScript](https://dev.to/iayeshasahar/simplifying-closures-in-javascript-bjl)
 - [Lifehacker] [The 7 Deadly Sins of Going to Therapy](https://lifehacker.com/the-7-deadly-sins-of-going-to-therapy-1849349193)
 - [Lifehacker] [Elevate the Humble Boiled Egg With Flavorful Dips](https://lifehacker.com/elevate-the-humble-boiled-egg-with-flavorful-dips-1849348798)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
 - [Lifehacker] [Three Things You Should Never Do on a Work Computer](https://lifehacker.com/three-things-you-should-never-do-on-a-work-computer-1849349028)
 - [Lifehacker] [Three Fresh Ways to Mix Up Your Margarita](https://lifehacker.com/three-fresh-ways-to-mix-up-your-margarita-1849348885)
-- [Lifehacker] [The Best Ways to Clean Your Weed Gear](https://lifehacker.com/the-best-ways-to-clean-your-weed-gear-1849348978)
-- [Lifehacker] [Five Easy Ways to Improve Your Sex Life](https://lifehacker.com/five-easy-ways-to-improve-your-sex-life-1849348307)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
