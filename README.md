@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Upload a file to GraphQL with VanillaJS](https://dev.to/rexthony/how-to-upload-a-file-to-graphql-with-vanillajs-3dg7)
+- [Dev.to/JS] [Throw error on missing arguments](https://dev.to/artydev/throw-error-on-missing-arguments-een)
+- [Lifehacker] [Your Veggies Can Take a Tip From Steak](https://lifehacker.com/your-veggies-can-take-a-tip-from-steak-1849355472)
+- [Dev.to/JS] [You have been using React Native modals wrong.](https://dev.to/gabrieltaveira/you-have-been-using-react-native-modals-wrong-7hd)
 - [Dev.to/JS] [Navigation menu animation](https://dev.to/_eduard26/navigation-menu-animation-1)
-- [Lifehacker] [How to Avoid Getting Hit By an Exploding Manhole Cover](https://lifehacker.com/how-to-avoid-getting-hit-by-an-exploding-manhole-cover-1849355210)
+- [Lifehacker] [How to Avoid Getting Hit by an Exploding Manhole Cover](https://lifehacker.com/how-to-avoid-getting-hit-by-an-exploding-manhole-cover-1849355210)
 - [Lifehacker] [How to &lpar;Productively&rpar; Tell Your Co-Worker They Screwed Up](https://lifehacker.com/how-to-productively-tell-your-co-worker-they-screwed-1849355358)
 - [Dev.to/JS] [Accessing DOM Elements Tutorial](https://dev.to/rembertdesigns/accessing-dom-elements-tutorial-4i98)
 - [Lifehacker] [The iPhone&#39;s &#39;Focus Filters&#39; Can Help You Ignore Distractions Even Better](https://lifehacker.com/the-iphones-focus-filters-can-help-you-ignore-distracti-1849354328)
@@ -40,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best New Things to Stream in August 2022](https://lifehacker.com/15-of-the-best-new-things-to-stream-in-august-2022-1849344796)
 - [Lifehacker] [How to Instantly Customize Lock Screen Notifications in iOS 16](https://lifehacker.com/how-to-instantly-customize-lock-screen-notifications-in-1849354253)
 - [Dev.to/JS] [Simplifying Closures in JavaScript](https://dev.to/iayeshasahar/simplifying-closures-in-javascript-bjl)
-- [Dev.to/JS] [Añade fuentes de forma dinámica a tu web usando Javascript y FontFace](https://dev.to/matiasfha/anade-fuentes-de-forma-dinamica-a-tu-web-usando-javascript-y-fontface-113m)
-- [Dev.to/JS] [Build on Flow | Learn FCL - 14. How to Mutate Chain State by Signing Transactions with a Private Key](https://dev.to/onflow/build-on-flow-learn-fcl-14-how-to-mutate-chain-state-by-signing-transactions-with-a-private-key-5c4p)
-- [Dev.to/JS] [How to Build a Fitness Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-fitness-website-using-html-css-javascript-576n)
 - [Lifehacker] [The 7 Deadly Sins of Going to Therapy](https://lifehacker.com/the-7-deadly-sins-of-going-to-therapy-1849349193)
 - [Lifehacker] [Elevate the Humble Boiled Egg With Flavorful Dips](https://lifehacker.com/elevate-the-humble-boiled-egg-with-flavorful-dips-1849348798)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Fresh Ways to Mix Up Your Margarita](https://lifehacker.com/three-fresh-ways-to-mix-up-your-margarita-1849348885)
 - [Lifehacker] [The Best Ways to Clean Your Weed Gear](https://lifehacker.com/the-best-ways-to-clean-your-weed-gear-1849348978)
 - [Lifehacker] [Five Easy Ways to Improve Your Sex Life](https://lifehacker.com/five-easy-ways-to-improve-your-sex-life-1849348307)
-- [Lifehacker] [26 Movies Lifehackers Readers Saw at Way Too Young an Age](https://lifehacker.com/26-movies-lifehackers-readers-saw-at-way-too-young-an-a-1849348364)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
