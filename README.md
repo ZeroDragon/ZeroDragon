@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The iPhone&#39;s &#39;Focus Filters&#39; Can Help You Ignore Distractions Even Better](https://lifehacker.com/the-iphones-focus-filters-can-help-you-ignore-distracti-1849354328)
+- [Dev.to/JS] [The Issue of Halfway Committing To Typescript as a Team](https://dev.to/delightfulengineering/the-issue-of-halfway-committing-to-typescript-as-a-team-22f2)
+- [Lifehacker] [10 Cheap Ways to Fence in Your Yard](https://lifehacker.com/10-cheap-ways-to-fence-in-your-yard-1849354922)
+- [Dev.to/JS] [How to migrate a JavaScript project to pnpm &lpar;package manager&rpar;](https://dev.to/robole/how-to-migrate-a-javascript-project-to-pnpm-package-manager-2hfa)
 - [Lifehacker] [Here&#39;s How Much Money You Can Make by Renting Out Your Pool](https://lifehacker.com/heres-how-much-money-you-can-make-by-renting-out-your-p-1849353370)
 - [Dev.to/JS] [JavaScript&#39;s true and false: Truthy and Falsy](https://dev.to/talenttinaapi/javascripts-true-and-false-truthy-and-falsy-2chd)
 - [Dev.to/JS] [Do you really understand JS functions? &lpar;part 1&rpar;](https://dev.to/jrmatanda/do-you-really-understand-js-functions-part-1-4g0k)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I love PHP and Javascript](https://dev.to/wesen/why-i-love-php-and-javascript-2li2)
 - [Dev.to/JS] [Destructuring Props in React.](https://dev.to/rvillar/destructuring-props-in-react-4ibd)
 - [Lifehacker] [The 7 Deadly Sins of Going to Therapy](https://lifehacker.com/the-7-deadly-sins-of-going-to-therapy-1849349193)
-- [Dev.to/JS] [Using Contentful with Next.js &lpar;Part 1&rpar;](https://dev.to/jussinevavuori/using-contentful-with-nextjs-part-1-2i0a)
-- [Dev.to/JS] [Project to fight DDoS with proof of work](https://dev.to/ruisiang/project-to-fight-ddos-with-proof-of-work-191m)
 - [Lifehacker] [Elevate the Humble Boiled Egg With Flavorful Dips](https://lifehacker.com/elevate-the-humble-boiled-egg-with-flavorful-dips-1849348798)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
@@ -57,8 +59,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Easy Ways to Improve Your Sex Life](https://lifehacker.com/five-easy-ways-to-improve-your-sex-life-1849348307)
 - [Lifehacker] [26 Movies Lifehackers Readers Saw at Way Too Young an Age](https://lifehacker.com/26-movies-lifehackers-readers-saw-at-way-too-young-an-a-1849348364)
 - [Lifehacker] [These Are the Best Rideshare Apps to Use When Traveling Internationally](https://lifehacker.com/these-are-the-best-rideshare-apps-to-use-when-traveling-1849347343)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Are Vabbing and Mucus Fishing?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-are-1849346193)
-- [Lifehacker] [How to Tell When a Bear Market Is Over](https://lifehacker.com/how-to-tell-when-a-bear-market-is-over-1849340869)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
