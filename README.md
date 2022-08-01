@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cypress 10+ &amp; Cucumber](https://dev.to/joanesquivel/cypress-10-cucumber-14ig)
+- [Dev.to/JS] [Cypress 10+ &amp; Mochawesome Reporter](https://dev.to/joanesquivel/cypress-10-mochawesome-reporter-19d6)
+- [Dev.to/JS] [101 series: Promises #1: how promises work](https://dev.to/xnimorz/101-series-promises-1-how-promises-work-1k1i)
 - [Dev.to/JS] [When to use React.useCallback Hook](https://dev.to/rakshit/when-to-use-reactusecallback-hook-4kji)
 - [Dev.to/JS] [Prima Weight Loss -Weight Loss Benefits, Ingredients, Legit or Scam?](https://dev.to/primaweightbuys/prima-weight-loss-weight-loss-benefits-ingredients-legit-or-scam-2ef7)
 - [Dev.to/JS] [Code signing in React Native](https://dev.to/aynurkarimov/code-signing-in-react-native-5451)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HOW TO Read JSON](https://dev.to/sathish_80/json-5856)
 - [Dev.to/JS] [Build Custom Structural Directives in Angular like a hero 😎](https://dev.to/deekshithrajbasa/build-custom-structural-directives-in-angular-like-a-hero-2nk6)
 - [Dev.to/JS] [5 Tips on How To Create The Perfect Freelancer Profile](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-4ali)
-- [Dev.to/JS] [Making a Search Bar with React](https://dev.to/xauvk/making-a-search-bar-with-react-28b8)
-- [Dev.to/JS] [Fixing baseURL error in Nextjs-auth0](https://dev.to/isreal/fixing-baseurl-error-in-nextjs-auth0-58n4)
-- [Dev.to/JS] [Implementing RequestJs in Ruby on Rails](https://dev.to/timnans/implementing-requestjs-in-ruby-on-rails-mmi)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
