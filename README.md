@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript if shorthand without the else](https://dev.to/dailydevtips1/javascript-if-shorthand-without-the-else-13ch)
 - [Dev.to/JS] [Free Projects for React Beginners](https://dev.to/martinageradams/free-projects-for-react-beginners-11l9)
 - [Dev.to/JS] [HOW TO Read JSON](https://dev.to/sathish_80/json-5856)
 - [Dev.to/JS] [Build Custom Structural Directives in Angular like a hero 😎](https://dev.to/deekshithrajbasa/build-custom-structural-directives-in-angular-like-a-hero-2nk6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 154 - Too Many Variables](https://dev.to/mcsee/code-smell-154-too-many-variables-4h6h)
 - [Dev.to/JS] [React.js: Event Listeners Made Easy](https://dev.to/victorhaynes/reactjs-event-listeners-made-easy-2h9c)
 - [Dev.to/JS] [Easy Start Guide: TypeScript](https://dev.to/vkton115/easy-start-guide-typescript-3ip4)
-- [Dev.to/JS] [Example: Using Java + SpringBoot + Hibernate and IRIS Database to create REST API](https://dev.to/intersystems/example-using-java-springboot-hibernate-and-iris-database-to-create-rest-api-2fol)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
