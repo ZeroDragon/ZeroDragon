@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An introduction to Fresh](https://dev.to/asayerio_techblog/an-introduction-to-fresh-jai)
+- [Dev.to/JS] [Styling React components with Stitches](https://dev.to/asayerio_techblog/styling-react-components-with-stitches-2all)
 - [Dev.to/JS] [WatchDog - new must have Tool for GitHub/GitLab](https://dev.to/alexwhitecorp/watchdog-new-must-have-tool-for-githubgitlab-fg7)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
 - [Dev.to/JS] [My Secret ArcGIS Identity](https://dev.to/odoenet/my-secret-arcgis-identity-20dp)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Upload a file to GraphQL with VanillaJS](https://dev.to/rexthony/how-to-upload-a-file-to-graphql-with-vanillajs-3dg7)
 - [Dev.to/JS] [Throw error on missing arguments](https://dev.to/artydev/throw-error-on-missing-arguments-een)
 - [Lifehacker] [Your Veggies Can Take a Tip From Steak](https://lifehacker.com/your-veggies-can-take-a-tip-from-steak-1849355472)
-- [Dev.to/JS] [You have been using React Native modals wrong.](https://dev.to/gabrieltaveira/you-have-been-using-react-native-modals-wrong-7hd)
-- [Dev.to/JS] [Navigation menu animation](https://dev.to/_eduard26/navigation-menu-animation-1)
 - [Lifehacker] [How to Avoid Getting Hit by an Exploding Manhole Cover](https://lifehacker.com/how-to-avoid-getting-hit-by-an-exploding-manhole-cover-1849355210)
 - [Lifehacker] [How to &lpar;Productively&rpar; Tell Your Co-Worker They Screwed Up](https://lifehacker.com/how-to-productively-tell-your-co-worker-they-screwed-1849355358)
 - [Lifehacker] [The iPhone&#39;s &#39;Focus Filters&#39; Can Help You Ignore Distractions Even Better](https://lifehacker.com/the-iphones-focus-filters-can-help-you-ignore-distracti-1849354328)
