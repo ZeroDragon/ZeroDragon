@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating HTML &lt;a&gt; Anchor &lt;/a&gt; Tag With JAVASCRIPT](https://dev.to/aakritigoyal12458/creating-html-anchor-tag-with-javascript-5aa3)
+- [Dev.to/JS] [Cómo ver los valores dentro de un FormData](https://dev.to/victorjordan95/como-ver-los-valores-dentro-de-un-formdata-516o)
+- [Lifehacker] [How to Brunch During a Heat Wave](https://lifehacker.com/how-to-brunch-during-a-heat-wave-1849356507)
 - [Dev.to/JS] [Help me getting the solution](https://dev.to/dantechnologics/help-me-getting-the-solution-4d15)
 - [Lifehacker] [How to Tell If You Have Water Poisoning](https://lifehacker.com/how-to-tell-if-you-have-water-poisoning-1849355825)
 - [Dev.to/JS] [⛑ JSON serialization should never fail.](https://dev.to/ehmicky/json-serialization-should-never-fail-a1a)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Cheap Ways to Fence in Your Yard](https://lifehacker.com/10-cheap-ways-to-fence-in-your-yard-1849354922)
 - [Dev.to/JS] [How to migrate a JavaScript project to pnpm &lpar;package manager&rpar;](https://dev.to/robole/how-to-migrate-a-javascript-project-to-pnpm-package-manager-2hfa)
 - [Lifehacker] [Here&#39;s How Much Money You Can Make by Renting Out Your Pool](https://lifehacker.com/heres-how-much-money-you-can-make-by-renting-out-your-p-1849353370)
-- [Dev.to/JS] [JavaScript&#39;s true and false: Truthy and Falsy](https://dev.to/talenttinaapi/javascripts-true-and-false-truthy-and-falsy-2chd)
-- [Dev.to/JS] [Do you really understand JS functions? &lpar;part 1&rpar;](https://dev.to/jrmatanda/do-you-really-understand-js-functions-part-1-4g0k)
 - [Lifehacker] [How to Start a Casual Sex Relationship](https://lifehacker.com/how-to-start-a-casual-sex-relationship-1849350310)
 - [Lifehacker] [15 of the Best New Things to Stream in August 2022](https://lifehacker.com/15-of-the-best-new-things-to-stream-in-august-2022-1849344796)
 - [Lifehacker] [How to Instantly Customize Lock Screen Notifications in iOS 16](https://lifehacker.com/how-to-instantly-customize-lock-screen-notifications-in-1849354253)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
 - [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
 - [Lifehacker] [Three Things You Should Never Do on a Work Computer](https://lifehacker.com/three-things-you-should-never-do-on-a-work-computer-1849349028)
-- [Lifehacker] [Three Fresh Ways to Mix Up Your Margarita](https://lifehacker.com/three-fresh-ways-to-mix-up-your-margarita-1849348885)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
