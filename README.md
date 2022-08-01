@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing RequestJs in Ruby on Rails](https://dev.to/timnans/implementing-requestjs-in-ruby-on-rails-mmi)
+- [Dev.to/JS] [Build a Global Event System With TypeScript](https://dev.to/nicksettler/build-a-global-event-system-with-typescript-4f2h)
 - [Dev.to/JS] [Code Smell 154 - Too Many Variables](https://dev.to/mcsee/code-smell-154-too-many-variables-4h6h)
 - [Dev.to/JS] [React.js: Event Listeners Made Easy](https://dev.to/victorhaynes/reactjs-event-listeners-made-easy-2h9c)
 - [Dev.to/JS] [Easy Start Guide: TypeScript](https://dev.to/vkton115/easy-start-guide-typescript-3ip4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A beginner guide switching from javasctipt to typescript.](https://dev.to/princewhyte2/a-beginner-guide-switching-from-javasctipt-to-typescript-2471)
 - [Dev.to/JS] [Hi guys need small help with svelte kit](https://dev.to/asfer3031/hi-guys-need-small-help-with-svelte-kit-41kn)
 - [Dev.to/JS] [Did you know you can test the front end without seeing the code?](https://dev.to/noriller/did-you-know-you-can-test-the-front-end-without-seeing-the-code-44ld)
-- [Dev.to/JS] [What is an invisible character?](https://dev.to/phperrorcode/what-is-an-invisible-character-5ag1)
-- [Dev.to/JS] [Promise and async await](https://dev.to/gohomewho/promise-and-async-await-931)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
