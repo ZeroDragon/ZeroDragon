@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert Github Repos To A Portfolio Website](https://dev.to/iamarupmandal/convert-github-repos-to-a-portfolio-website-5g2h)
+- [Dev.to/JS] [Javascript Roadmap for Beginners in 2022.](https://dev.to/mdjunaidap/javascript-roadmap-for-beginners-in-2022-4i6j)
+- [Dev.to/JS] [React Query: How to organize your keys](https://dev.to/syeo66/react-query-how-to-organize-your-keys-4mg4)
+- [Dev.to/JS] [Why does the action swap in array when clicking after typing in javascript?](https://dev.to/demodev/why-does-the-action-swap-in-array-when-clicking-after-typing-in-javascript-kli)
 - [Dev.to/JS] [Cypress 10+ &amp; Cucumber](https://dev.to/joanesquivel/cypress-10-cucumber-14ig)
 - [Dev.to/JS] [Cypress 10+ &amp; Mochawesome Reporter](https://dev.to/joanesquivel/cypress-10-mochawesome-reporter-19d6)
 - [Dev.to/JS] [101 series: Promises #1: how promises work](https://dev.to/xnimorz/101-series-promises-1-how-promises-work-1k1i)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code signing in React Native](https://dev.to/aynurkarimov/code-signing-in-react-native-5451)
 - [Dev.to/JS] [How to quickly Add Dark Mode to your web app in just 3 steps](https://dev.to/waahab/how-to-quickly-add-dark-mode-to-your-web-app-in-just-3-steps-3i0i)
 - [Dev.to/JS] [JavaScript if shorthand without the else](https://dev.to/dailydevtips1/javascript-if-shorthand-without-the-else-13ch)
-- [Dev.to/JS] [Free Projects for React Beginners](https://dev.to/martinageradams/free-projects-for-react-beginners-11l9)
-- [Dev.to/JS] [HOW TO Read JSON](https://dev.to/sathish_80/json-5856)
-- [Dev.to/JS] [Build Custom Structural Directives in Angular like a hero 😎](https://dev.to/deekshithrajbasa/build-custom-structural-directives-in-angular-like-a-hero-2nk6)
-- [Dev.to/JS] [5 Tips on How To Create The Perfect Freelancer Profile](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-4ali)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
