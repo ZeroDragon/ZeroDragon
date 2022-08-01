@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scheduling and Running Recurring Cron Jobs in Node.JS](https://dev.to/smpnjn/scheduling-and-runnning-recurring-cron-jobs-in-nodejs-p86)
+- [Lifehacker] [These States Are Having a Tax-Free Back-to-School Shopping Weekend This Month](https://lifehacker.com/these-states-are-having-a-tax-free-back-to-school-shopp-1849356915)
+- [Lifehacker] [A Bunch of Cool Stuff Is Happening in Space in August](https://lifehacker.com/a-bunch-of-cool-shit-is-happening-in-space-in-august-1849356656)
 - [Dev.to/JS] [Creating HTML &lt;a&gt; Anchor &lt;/a&gt; Tag With JAVASCRIPT](https://dev.to/aakritigoyal12458/creating-html-anchor-tag-with-javascript-5aa3)
 - [Dev.to/JS] [Cómo ver los valores dentro de un FormData](https://dev.to/victorjordan95/como-ver-los-valores-dentro-de-un-formdata-516o)
 - [Lifehacker] [How to Brunch During a Heat Wave](https://lifehacker.com/how-to-brunch-during-a-heat-wave-1849356507)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The iPhone&#39;s &#39;Focus Filters&#39; Can Help You Ignore Distractions Even Better](https://lifehacker.com/the-iphones-focus-filters-can-help-you-ignore-distracti-1849354328)
 - [Dev.to/JS] [The Issue of Halfway Committing To Typescript as a Team](https://dev.to/delightfulengineering/the-issue-of-halfway-committing-to-typescript-as-a-team-22f2)
 - [Lifehacker] [10 Cheap Ways to Fence in Your Yard](https://lifehacker.com/10-cheap-ways-to-fence-in-your-yard-1849354922)
-- [Dev.to/JS] [How to migrate a JavaScript project to pnpm &lpar;package manager&rpar;](https://dev.to/robole/how-to-migrate-a-javascript-project-to-pnpm-package-manager-2hfa)
 - [Lifehacker] [Here&#39;s How Much Money You Can Make by Renting Out Your Pool](https://lifehacker.com/heres-how-much-money-you-can-make-by-renting-out-your-p-1849353370)
 - [Lifehacker] [How to Start a Casual Sex Relationship](https://lifehacker.com/how-to-start-a-casual-sex-relationship-1849350310)
 - [Lifehacker] [15 of the Best New Things to Stream in August 2022](https://lifehacker.com/15-of-the-best-new-things-to-stream-in-august-2022-1849344796)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Lifehacker] [What Is a &#39;Feeling Memory&#39; &lpar;and How Do You Know You&#39;re Having One&rpar;?](https://lifehacker.com/what-is-a-feeling-memory-and-how-do-you-know-youre-hav-1849349258)
-- [Lifehacker] [These Retailers Offer the Best Birthday Freebies](https://lifehacker.com/these-retailers-offer-the-best-birthday-freebies-1849349210)
-- [Lifehacker] [Three Things You Should Never Do on a Work Computer](https://lifehacker.com/three-things-you-should-never-do-on-a-work-computer-1849349028)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)<!-- TECH-POSTS:END -->
