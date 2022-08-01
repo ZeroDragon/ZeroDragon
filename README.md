@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 154 - Too Many Variables](https://dev.to/mcsee/code-smell-154-too-many-variables-4h6h)
 - [Dev.to/JS] [React.js: Event Listeners Made Easy](https://dev.to/victorhaynes/reactjs-event-listeners-made-easy-2h9c)
 - [Dev.to/JS] [Easy Start Guide: TypeScript](https://dev.to/vkton115/easy-start-guide-typescript-3ip4)
 - [Dev.to/JS] [Example: Using Java + SpringBoot + Hibernate and IRIS Database to create REST API](https://dev.to/intersystems/example-using-java-springboot-hibernate-and-iris-database-to-create-rest-api-2fol)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Did you know you can test the front end without seeing the code?](https://dev.to/noriller/did-you-know-you-can-test-the-front-end-without-seeing-the-code-44ld)
 - [Dev.to/JS] [What is an invisible character?](https://dev.to/phperrorcode/what-is-an-invisible-character-5ag1)
 - [Dev.to/JS] [Promise and async await](https://dev.to/gohomewho/promise-and-async-await-931)
-- [Dev.to/JS] [Creating a Blog Post editor from scratch. Part 1: the bare minimum](https://dev.to/theplebdev/creating-a-blog-post-editor-from-scratch-part-1-the-bare-minimum-26cg)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
