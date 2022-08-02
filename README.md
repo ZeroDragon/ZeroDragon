@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Virtual Coffee&#39;s July Monthly Challenge: Live Demo of the Progress Toward my Row Counter App](https://dev.to/rek990/virtual-coffees-july-monthly-challenge-live-demo-of-the-progress-toward-my-row-counter-app-3jd7)
+- [Lifehacker] [How to Make Canned Vegetables Taste Luxurious](https://lifehacker.com/how-to-make-canned-vegetables-taste-luxurious-1849361325)
+- [Dev.to/JS] [Custom ReactJS UI Components in Backendless UI Builder](https://dev.to/backendless/custom-reactjs-ui-components-in-backendless-ui-builder-4p4e)
+- [Lifehacker] [What Pandemic Purchase Do You Now Hate the Most?](https://lifehacker.com/what-pandemic-purchase-do-you-now-hate-the-most-1849359879)
 - [Dev.to/JS] [CRUD with Nucleoid &lpar;Low-code Backend&rpar;](https://dev.to/nucleoid/crud-with-nucleoid-low-code-backend-53c5)
 - [Dev.to/JS] [Moving MyUnisoft Node.js back to TypeORM](https://dev.to/fraxken/moving-myunisoft-nodejs-back-to-typeorm-3fok)
 - [Lifehacker] [What If You Made Oatmeal in Your Rice Cooker?](https://lifehacker.com/what-if-you-made-oatmeal-in-your-rice-cooker-1849360455)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Symbols &amp; enumerations in JavaScript](https://dev.to/aminnairi/symbols-enumerations-in-javascript-aoe)
 - [Lifehacker] [12 of the Most Underrated Fast Food Menu Items, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-underrated-fast-food-menu-items-accordi-1849357360)
 - [Dev.to/JS] [Understanding the .map&lpar;&rpar;, .filter&lpar;&rpar; and .reduce&lpar;&rpar; array methods in Javascript.](https://dev.to/samjarvis244/understanding-the-map-filter-and-reduce-array-methods-in-javascript-3k4a)
-- [Dev.to/JS] [Keto Blast Gummies - Fat Loss Benefits, Read Reviews &amp; Ingredients?](https://dev.to/ketoblastbuys/keto-blast-gummies-fat-loss-benefits-read-reviews-ingredients-3mic)
-- [Dev.to/JS] [How to create a dockerized Nuxt 3 development environment](https://dev.to/nklsw/how-to-create-a-dockerized-nuxt-3-development-environment-1p0a)
 - [Lifehacker] [Give Your Franks the &#39;Dirty Water Dog&#39; Treatment](https://lifehacker.com/give-your-franks-the-dirty-water-dog-treatment-1849357413)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849357008)
 - [Lifehacker] [How to Improve Your Spatial Awareness &lpar;and Stop Bumping Into Stuff&rpar;](https://lifehacker.com/how-to-improve-your-spatial-awareness-and-stop-bumping-1849354731)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The True Costs of Deferred Home Maintenance](https://lifehacker.com/the-true-costs-of-deferred-home-maintenance-1849355574)
 - [Lifehacker] [Your Veggies Can Take a Tip From Steak](https://lifehacker.com/your-veggies-can-take-a-tip-from-steak-1849355472)
 - [Lifehacker] [How to Avoid Getting Hit by an Exploding Manhole Cover](https://lifehacker.com/how-to-avoid-getting-hit-by-an-exploding-manhole-cover-1849355210)
-- [Lifehacker] [How to &lpar;Productively&rpar; Tell Your Co-Worker They Screwed Up](https://lifehacker.com/how-to-productively-tell-your-co-worker-they-screwed-1849355358)
-- [Lifehacker] [The iPhone&#39;s &#39;Focus Filters&#39; Can Help You Ignore Distractions Even Better](https://lifehacker.com/the-iphones-focus-filters-can-help-you-ignore-distracti-1849354328)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
