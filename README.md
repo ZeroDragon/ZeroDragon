@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why NodeJS in Front Ends?](https://dev.to/kemystra/why-nodejs-in-front-ends-297h)
+- [Lifehacker] [Three Things You Should Never Do at a Nude Beach](https://lifehacker.com/three-things-you-should-never-do-at-a-nude-beach-1849359678)
+- [Dev.to/JS] [Markdown as document, by casual-markdown-doc.js](https://dev.to/casualwriter/markdown-as-document-by-casual-markdown-docjs-2nle)
+- [Dev.to/JS] [What&#39;s new with Fluent UI React v9?](https://dev.to/paulgildea/whats-new-with-fluent-ui-react-v9-5h2d)
+- [Lifehacker] [The Fastest Ways to Shake Jetlag](https://lifehacker.com/the-fastest-ways-to-shake-jetlag-1849359211)
 - [Dev.to/JS] [domstat - A Puppeteer based CLI tool to check web performance](https://dev.to/meetdave3/domstat-a-puppeteer-based-cli-tool-to-check-web-performance-37bf)
 - [Lifehacker] [These Budget-Friendly Date Ideas Will Help Your Romance Survive the Recession](https://lifehacker.com/these-budget-friendly-date-ideas-will-help-your-romance-1849357597)
 - [Dev.to/JS] [Australian Rules Football Betting](https://dev.to/curticehugginson/australian-rules-football-betting-24ap)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Give Your Franks the &#39;Dirty Water Dog&#39; Treatment](https://lifehacker.com/give-your-franks-the-dirty-water-dog-treatment-1849357413)
 - [Dev.to/JS] [How to use SuperTokens&#39; pre built UI with VueJS](https://dev.to/supertokens/how-to-use-supertokens-pre-built-ui-with-vuejs-3cdd)
 - [Dev.to/JS] [2 Hours 10 JavaScript Projects ! Let&#39;s build :&rpar;](https://dev.to/prateek951/2-hours-10-javascript-projects-lets-build--6eh)
-- [Dev.to/JS] [My Northcoders application](https://dev.to/cluff3rs/my-northcoders-application-2bi1)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849357008)
-- [Dev.to/JS] [This Week I Learned - 2022 #Week 31](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-31-3jbm)
-- [Dev.to/JS] [Use class to write setup, and support vue2 and vue3](https://dev.to/lzxb/use-class-to-write-setup-and-support-vue2-and-vue3-11i5)
 - [Lifehacker] [How to Improve Your Spatial Awareness &lpar;and Stop Bumping Into Stuff&rpar;](https://lifehacker.com/how-to-improve-your-spatial-awareness-and-stop-bumping-1849354731)
 - [Lifehacker] [This Italian Semolina Cheesecake Is Shockingly Low Maintenance](https://lifehacker.com/this-italian-semolina-cheesecake-is-shockingly-low-main-1849356883)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best New Things to Stream in August 2022](https://lifehacker.com/15-of-the-best-new-things-to-stream-in-august-2022-1849344796)
 - [Lifehacker] [How to Instantly Customize Lock Screen Notifications in iOS 16](https://lifehacker.com/how-to-instantly-customize-lock-screen-notifications-in-1849354253)
 - [Lifehacker] [The 7 Deadly Sins of Going to Therapy](https://lifehacker.com/the-7-deadly-sins-of-going-to-therapy-1849349193)
-- [Lifehacker] [Elevate the Humble Boiled Egg With Flavorful Dips](https://lifehacker.com/elevate-the-humble-boiled-egg-with-flavorful-dips-1849348798)
-- [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
