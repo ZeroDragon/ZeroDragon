@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Produce videos in React with Remotion](https://dev.to/asayerio_techblog/produce-videos-in-react-with-remotion-4g9b)
+- [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
+- [Dev.to/JS] [10+ Unique Chrome Extensions For Web Developers](https://dev.to/mojodev/10-unique-chrome-extensions-for-web-developers-2n6g)
+- [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
 - [Dev.to/JS] [Javascript Hoisting](https://dev.to/vasconevesxd/javascript-hoisting-4lod)
 - [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
 - [Dev.to/JS] [React Native&#39;s New Renderer: Fabric](https://dev.to/theadultnoble_6/react-natives-new-renderer-fabric-5898)
@@ -44,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why NodeJS in Front Ends?](https://dev.to/kemystra/why-nodejs-in-front-ends-297h)
 - [Lifehacker] [Three Things You Should Never Do at a Nude Beach](https://lifehacker.com/three-things-you-should-never-do-at-a-nude-beach-1849359678)
 - [Dev.to/JS] [Markdown as document, by casual-markdown-doc.js](https://dev.to/casualwriter/markdown-as-document-by-casual-markdown-docjs-2nle)
-- [Dev.to/JS] [What&#39;s new with Fluent UI React v9?](https://dev.to/paulgildea/whats-new-with-fluent-ui-react-v9-5h2d)
 - [Lifehacker] [The Fastest Ways to Shake Jetlag](https://lifehacker.com/the-fastest-ways-to-shake-jetlag-1849359211)
-- [Dev.to/JS] [domstat - A Puppeteer based CLI tool to check web performance](https://dev.to/meetdave3/domstat-a-puppeteer-based-cli-tool-to-check-web-performance-37bf)
 - [Lifehacker] [These Budget-Friendly Date Ideas Will Help Your Romance Survive the Recession](https://lifehacker.com/these-budget-friendly-date-ideas-will-help-your-romance-1849357597)
 - [Lifehacker] [12 of the Most Underrated Fast Food Menu Items, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-underrated-fast-food-menu-items-accordi-1849357360)
 - [Lifehacker] [Give Your Franks the &#39;Dirty Water Dog&#39; Treatment](https://lifehacker.com/give-your-franks-the-dirty-water-dog-treatment-1849357413)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These States Are Having a Tax-Free Back-to-School Shopping Weekend This Month](https://lifehacker.com/these-states-are-having-a-tax-free-back-to-school-shopp-1849356915)
 - [Lifehacker] [A Bunch of Cool Stuff Is Happening in Space in August](https://lifehacker.com/a-bunch-of-cool-shit-is-happening-in-space-in-august-1849356656)
 - [Lifehacker] [How to Brunch During a Heat Wave](https://lifehacker.com/how-to-brunch-during-a-heat-wave-1849356507)
-- [Lifehacker] [How to Tell If You Have Water Poisoning](https://lifehacker.com/how-to-tell-if-you-have-water-poisoning-1849355825)
-- [Lifehacker] [The True Costs of Deferred Home Maintenance](https://lifehacker.com/the-true-costs-of-deferred-home-maintenance-1849355574)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
