@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [domstat - A Puppeteer based CLI tool to check web performance](https://dev.to/meetdave3/domstat-a-puppeteer-based-cli-tool-to-check-web-performance-37bf)
+- [Lifehacker] [These Budget-Friendly Date Ideas Will Help Your Romance Survive the Recession](https://lifehacker.com/these-budget-friendly-date-ideas-will-help-your-romance-1849357597)
+- [Dev.to/JS] [Australian Rules Football Betting](https://dev.to/curticehugginson/australian-rules-football-betting-24ap)
+- [Dev.to/JS] [Symbols &amp; enumerations in JavaScript](https://dev.to/aminnairi/symbols-enumerations-in-javascript-aoe)
 - [Lifehacker] [12 of the Most Underrated Fast Food Menu Items, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-underrated-fast-food-menu-items-accordi-1849357360)
 - [Dev.to/JS] [Understanding the .map&lpar;&rpar;, .filter&lpar;&rpar; and .reduce&lpar;&rpar; array methods in Javascript.](https://dev.to/samjarvis244/understanding-the-map-filter-and-reduce-array-methods-in-javascript-3k4a)
 - [Dev.to/JS] [Keto Blast Gummies - Fat Loss Benefits, Read Reviews &amp; Ingredients?](https://dev.to/ketoblastbuys/keto-blast-gummies-fat-loss-benefits-read-reviews-ingredients-3mic)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849357008)
 - [Dev.to/JS] [This Week I Learned - 2022 #Week 31](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-31-3jbm)
 - [Dev.to/JS] [Use class to write setup, and support vue2 and vue3](https://dev.to/lzxb/use-class-to-write-setup-and-support-vue2-and-vue3-11i5)
-- [Dev.to/JS] [What is the Reason Why P2P is the Best Way to Buy Cryptos in Your Own Currency?](https://dev.to/thecryptoapeo/what-is-the-reason-why-p2p-is-the-best-way-to-buy-cryptos-in-your-own-currency-380f)
-- [Dev.to/JS] [Wrap a function transparently](https://dev.to/smlka/wrap-a-function-transparently-1845)
-- [Dev.to/JS] [Link: Management Maturity Model for Performance](https://dev.to/jesterxl/link-management-maturity-model-for-performance-2f52)
 - [Lifehacker] [How to Improve Your Spatial Awareness &lpar;and Stop Bumping Into Stuff&rpar;](https://lifehacker.com/how-to-improve-your-spatial-awareness-and-stop-bumping-1849354731)
 - [Lifehacker] [This Italian Semolina Cheesecake Is Shockingly Low Maintenance](https://lifehacker.com/this-italian-semolina-cheesecake-is-shockingly-low-main-1849356883)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Going to Therapy](https://lifehacker.com/the-7-deadly-sins-of-going-to-therapy-1849349193)
 - [Lifehacker] [Elevate the Humble Boiled Egg With Flavorful Dips](https://lifehacker.com/elevate-the-humble-boiled-egg-with-flavorful-dips-1849348798)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
-- [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
