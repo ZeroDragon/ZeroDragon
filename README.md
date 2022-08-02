@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Minha jornada criando 30 sites em 30 dias](https://dev.to/gonkristiano/minha-jornada-criando-30-sites-em-30-dias-opo)
+- [Dev.to/JS] [Traversing the DOM Tutorial](https://dev.to/rembertdesigns/traversing-the-dom-tutorial-2dld)
+- [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/24/22 - 7/30/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-72422-73022-4gdl)
+- [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide](https://dev.to/munenemuriukim/javascript-101-ultimate-javascript-guide-17id)
 - [Dev.to/JS] [An introduction to Fresh](https://dev.to/asayerio_techblog/an-introduction-to-fresh-jai)
 - [Dev.to/JS] [Styling React components with Stitches](https://dev.to/asayerio_techblog/styling-react-components-with-stitches-2all)
 - [Dev.to/JS] [WatchDog - new must have Tool for GitHub/GitLab](https://dev.to/alexwhitecorp/watchdog-new-must-have-tool-for-githubgitlab-fg7)
@@ -37,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Brunch During a Heat Wave](https://lifehacker.com/how-to-brunch-during-a-heat-wave-1849356507)
 - [Dev.to/JS] [Help me getting the solution](https://dev.to/dantechnologics/help-me-getting-the-solution-4d15)
 - [Lifehacker] [How to Tell If You Have Water Poisoning](https://lifehacker.com/how-to-tell-if-you-have-water-poisoning-1849355825)
-- [Dev.to/JS] [⛑ JSON serialization should never fail.](https://dev.to/ehmicky/json-serialization-should-never-fail-a1a)
-- [Dev.to/JS] [Writing a 2x2 inverse matrix function in JavaScript](https://dev.to/jtlavs/writing-a-2x2-inverse-matrix-function-in-javascript-1kj7)
 - [Lifehacker] [The True Costs of Deferred Home Maintenance](https://lifehacker.com/the-true-costs-of-deferred-home-maintenance-1849355574)
-- [Dev.to/JS] [How to Upload a file to GraphQL with VanillaJS](https://dev.to/rexthony/how-to-upload-a-file-to-graphql-with-vanillajs-3dg7)
-- [Dev.to/JS] [Throw error on missing arguments](https://dev.to/artydev/throw-error-on-missing-arguments-een)
 - [Lifehacker] [Your Veggies Can Take a Tip From Steak](https://lifehacker.com/your-veggies-can-take-a-tip-from-steak-1849355472)
 - [Lifehacker] [How to Avoid Getting Hit by an Exploding Manhole Cover](https://lifehacker.com/how-to-avoid-getting-hit-by-an-exploding-manhole-cover-1849355210)
 - [Lifehacker] [How to &lpar;Productively&rpar; Tell Your Co-Worker They Screwed Up](https://lifehacker.com/how-to-productively-tell-your-co-worker-they-screwed-1849355358)
