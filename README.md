@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A new &quot;Fresh&quot; web framework is out 🍋](https://dev.to/omher/a-new-fresh-web-framework-is-out-4a4o)
 - [Dev.to/JS] [Web Native Payment API with SvelteKit](https://dev.to/theether0/web-native-payment-api-with-sveltekit-57oh)
 - [Dev.to/JS] [Auto-currying in JavaScript](https://dev.to/anewman15/auto-currying-in-javascript-17il)
 - [Dev.to/JS] [How Is the Product Safe &amp; Effective?](https://dev.to/eholstont/how-is-the-product-safe-effective-j97)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use CSS Variable in JS](https://dev.to/exiluz/use-css-variable-in-js-5cjf)
 - [Dev.to/JS] [Minha jornada criando 30 sites em 30 dias](https://dev.to/gonkristiano/minha-jornada-criando-30-sites-em-30-dias-opo)
 - [Dev.to/JS] [Traversing the DOM Tutorial](https://dev.to/rembertdesigns/traversing-the-dom-tutorial-2dld)
-- [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/24/22 - 7/30/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-72422-73022-4gdl)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
 - [Lifehacker] [13 of the Best Exercises You Can Do With a Cable Machine](https://lifehacker.com/13-of-the-best-exercises-you-can-do-with-a-cable-machin-1849356941)
 - [Lifehacker] [These States Are Having a Tax-Free Back-to-School Shopping Weekend This Month](https://lifehacker.com/these-states-are-having-a-tax-free-back-to-school-shopp-1849356915)
