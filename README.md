@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Decentralized Twitter in 50 minutes using the Subsocial SDK](https://dev.to/tusharojha/building-a-decentralized-twitter-in-50-minutes-using-the-subsocial-sdk-86l)
 - [Dev.to/JS] [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-o4g)
 - [Dev.to/JS] [Looking for Reporting tools in React Application.](https://dev.to/sohrab09/looking-for-reporting-tools-in-react-application-1ddk)
 - [Dev.to/JS] [Javascript，XML 轉 JSON](https://dev.to/letswrite/javascriptxml-zhuan-json-3a41)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Styling React components with Stitches](https://dev.to/asayerio_techblog/styling-react-components-with-stitches-2all)
 - [Dev.to/JS] [WatchDog - new must have Tool for GitHub/GitLab](https://dev.to/alexwhitecorp/watchdog-new-must-have-tool-for-githubgitlab-fg7)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
-- [Dev.to/JS] [My Secret ArcGIS Identity](https://dev.to/odoenet/my-secret-arcgis-identity-20dp)
 - [Lifehacker] [13 of the Best Exercises You Can Do With a Cable Machine](https://lifehacker.com/13-of-the-best-exercises-you-can-do-with-a-cable-machin-1849356941)
 - [Lifehacker] [These States Are Having a Tax-Free Back-to-School Shopping Weekend This Month](https://lifehacker.com/these-states-are-having-a-tax-free-back-to-school-shopp-1849356915)
 - [Lifehacker] [A Bunch of Cool Stuff Is Happening in Space in August](https://lifehacker.com/a-bunch-of-cool-shit-is-happening-in-space-in-august-1849356656)
