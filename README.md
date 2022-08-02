@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Let Your Dog Swim in Green Water](https://lifehacker.com/dont-let-your-dog-swim-in-green-water-1849359850)
+- [Dev.to/JS] [The new simple and powerful state management framework for Javascript](https://dev.to/haneenmahdin/the-new-simple-and-powerful-state-management-framework-for-javascript-2jki)
+- [Lifehacker] [10 Wince-Inducing Sex-Related Injuries &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/10-wince-inducing-sex-related-injuries-and-how-to-avoi-1849358333)
+- [Lifehacker] [How to Repair Water Damage in Your Home &lpar;and When to Panic About It&rpar;](https://lifehacker.com/how-to-repair-water-damage-in-your-home-and-when-to-pa-1849359633)
 - [Dev.to/JS] [Why NodeJS in Front Ends?](https://dev.to/kemystra/why-nodejs-in-front-ends-297h)
 - [Lifehacker] [Three Things You Should Never Do at a Nude Beach](https://lifehacker.com/three-things-you-should-never-do-at-a-nude-beach-1849359678)
 - [Dev.to/JS] [Markdown as document, by casual-markdown-doc.js](https://dev.to/casualwriter/markdown-as-document-by-casual-markdown-docjs-2nle)
@@ -39,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Essential Web3 Tools and Technologies Developers Must Know](https://dev.to/thawkin3/the-essential-web3-tools-and-technologies-developers-must-know-1d8g)
 - [Lifehacker] [Give Your Franks the &#39;Dirty Water Dog&#39; Treatment](https://lifehacker.com/give-your-franks-the-dirty-water-dog-treatment-1849357413)
 - [Dev.to/JS] [How to use SuperTokens&#39; pre built UI with VueJS](https://dev.to/supertokens/how-to-use-supertokens-pre-built-ui-with-vuejs-3cdd)
-- [Dev.to/JS] [2 Hours 10 JavaScript Projects ! Let&#39;s build :&rpar;](https://dev.to/prateek951/2-hours-10-javascript-projects-lets-build--6eh)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849357008)
 - [Lifehacker] [How to Improve Your Spatial Awareness &lpar;and Stop Bumping Into Stuff&rpar;](https://lifehacker.com/how-to-improve-your-spatial-awareness-and-stop-bumping-1849354731)
 - [Lifehacker] [This Italian Semolina Cheesecake Is Shockingly Low Maintenance](https://lifehacker.com/this-italian-semolina-cheesecake-is-shockingly-low-main-1849356883)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Cheap Ways to Fence in Your Yard](https://lifehacker.com/10-cheap-ways-to-fence-in-your-yard-1849354922)
 - [Lifehacker] [Here&#39;s How Much Money You Can Make by Renting Out Your Pool](https://lifehacker.com/heres-how-much-money-you-can-make-by-renting-out-your-p-1849353370)
 - [Lifehacker] [How to Start a Casual Sex Relationship](https://lifehacker.com/how-to-start-a-casual-sex-relationship-1849350310)
-- [Lifehacker] [15 of the Best New Things to Stream in August 2022](https://lifehacker.com/15-of-the-best-new-things-to-stream-in-august-2022-1849344796)
-- [Lifehacker] [How to Instantly Customize Lock Screen Notifications in iOS 16](https://lifehacker.com/how-to-instantly-customize-lock-screen-notifications-in-1849354253)
-- [Lifehacker] [The 7 Deadly Sins of Going to Therapy](https://lifehacker.com/the-7-deadly-sins-of-going-to-therapy-1849349193)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
