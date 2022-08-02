@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Semantic Tokens in Chakra UI⚛](https://dev.to/paripsky/semantic-tokens-in-chakra-ui-4k1b)
 - [Dev.to/JS] [Produce videos in React with Remotion](https://dev.to/asayerio_techblog/produce-videos-in-react-with-remotion-4g9b)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
 - [Dev.to/JS] [10+ Unique Chrome Extensions For Web Developers](https://dev.to/mojodev/10-unique-chrome-extensions-for-web-developers-2n6g)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Repair Water Damage in Your Home &lpar;and When to Panic About It&rpar;](https://lifehacker.com/how-to-repair-water-damage-in-your-home-and-when-to-pa-1849359633)
 - [Dev.to/JS] [Why NodeJS in Front Ends?](https://dev.to/kemystra/why-nodejs-in-front-ends-297h)
 - [Lifehacker] [Three Things You Should Never Do at a Nude Beach](https://lifehacker.com/three-things-you-should-never-do-at-a-nude-beach-1849359678)
-- [Dev.to/JS] [Markdown as document, by casual-markdown-doc.js](https://dev.to/casualwriter/markdown-as-document-by-casual-markdown-docjs-2nle)
 - [Lifehacker] [The Fastest Ways to Shake Jetlag](https://lifehacker.com/the-fastest-ways-to-shake-jetlag-1849359211)
 - [Lifehacker] [These Budget-Friendly Date Ideas Will Help Your Romance Survive the Recession](https://lifehacker.com/these-budget-friendly-date-ideas-will-help-your-romance-1849357597)
 - [Lifehacker] [12 of the Most Underrated Fast Food Menu Items, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-underrated-fast-food-menu-items-accordi-1849357360)
