@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Hoisting](https://dev.to/vasconevesxd/javascript-hoisting-4lod)
+- [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
+- [Dev.to/JS] [React Native&#39;s New Renderer: Fabric](https://dev.to/theadultnoble_6/react-natives-new-renderer-fabric-5898)
+- [Dev.to/JS] [A Document Revisions System in JavaScript](https://dev.to/kornatzky/a-document-revisions-system-in-javascript-1o3h)
+- [Lifehacker] [How to Get a Free or Cheap Laptop for College](https://lifehacker.com/how-to-get-a-free-or-cheap-laptop-for-college-1849361096)
 - [Dev.to/JS] [Virtual Coffee&#39;s July Monthly Challenge: Live Demo of the Progress Toward my Row Counter App](https://dev.to/rek990/virtual-coffees-july-monthly-challenge-live-demo-of-the-progress-toward-my-row-counter-app-3jd7)
 - [Lifehacker] [How to Make Canned Vegetables Taste Luxurious](https://lifehacker.com/how-to-make-canned-vegetables-taste-luxurious-1849361325)
 - [Dev.to/JS] [Custom ReactJS UI Components in Backendless UI Builder](https://dev.to/backendless/custom-reactjs-ui-components-in-backendless-ui-builder-4p4e)
@@ -43,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Ways to Shake Jetlag](https://lifehacker.com/the-fastest-ways-to-shake-jetlag-1849359211)
 - [Dev.to/JS] [domstat - A Puppeteer based CLI tool to check web performance](https://dev.to/meetdave3/domstat-a-puppeteer-based-cli-tool-to-check-web-performance-37bf)
 - [Lifehacker] [These Budget-Friendly Date Ideas Will Help Your Romance Survive the Recession](https://lifehacker.com/these-budget-friendly-date-ideas-will-help-your-romance-1849357597)
-- [Dev.to/JS] [Australian Rules Football Betting](https://dev.to/curticehugginson/australian-rules-football-betting-24ap)
-- [Dev.to/JS] [Symbols &amp; enumerations in JavaScript](https://dev.to/aminnairi/symbols-enumerations-in-javascript-aoe)
 - [Lifehacker] [12 of the Most Underrated Fast Food Menu Items, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-underrated-fast-food-menu-items-accordi-1849357360)
-- [Dev.to/JS] [Understanding the .map&lpar;&rpar;, .filter&lpar;&rpar; and .reduce&lpar;&rpar; array methods in Javascript.](https://dev.to/samjarvis244/understanding-the-map-filter-and-reduce-array-methods-in-javascript-3k4a)
 - [Lifehacker] [Give Your Franks the &#39;Dirty Water Dog&#39; Treatment](https://lifehacker.com/give-your-franks-the-dirty-water-dog-treatment-1849357413)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849357008)
 - [Lifehacker] [How to Improve Your Spatial Awareness &lpar;and Stop Bumping Into Stuff&rpar;](https://lifehacker.com/how-to-improve-your-spatial-awareness-and-stop-bumping-1849354731)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Brunch During a Heat Wave](https://lifehacker.com/how-to-brunch-during-a-heat-wave-1849356507)
 - [Lifehacker] [How to Tell If You Have Water Poisoning](https://lifehacker.com/how-to-tell-if-you-have-water-poisoning-1849355825)
 - [Lifehacker] [The True Costs of Deferred Home Maintenance](https://lifehacker.com/the-true-costs-of-deferred-home-maintenance-1849355574)
-- [Lifehacker] [Your Veggies Can Take a Tip From Steak](https://lifehacker.com/your-veggies-can-take-a-tip-from-steak-1849355472)
-- [Lifehacker] [How to Avoid Getting Hit by an Exploding Manhole Cover](https://lifehacker.com/how-to-avoid-getting-hit-by-an-exploding-manhole-cover-1849355210)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
