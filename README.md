@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 of the Most Underrated Fast Food Menu Items, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-underrated-fast-food-menu-items-accordi-1849357360)
+- [Dev.to/JS] [Understanding the .map&lpar;&rpar;, .filter&lpar;&rpar; and .reduce&lpar;&rpar; array methods in Javascript.](https://dev.to/samjarvis244/understanding-the-map-filter-and-reduce-array-methods-in-javascript-3k4a)
+- [Dev.to/JS] [Keto Blast Gummies - Fat Loss Benefits, Read Reviews &amp; Ingredients?](https://dev.to/ketoblastbuys/keto-blast-gummies-fat-loss-benefits-read-reviews-ingredients-3mic)
+- [Dev.to/JS] [How to create a dockerized Nuxt 3 development environment](https://dev.to/nklsw/how-to-create-a-dockerized-nuxt-3-development-environment-1p0a)
+- [Dev.to/JS] [The Essential Web3 Tools and Technologies Developers Must Know](https://dev.to/thawkin3/the-essential-web3-tools-and-technologies-developers-must-know-1d8g)
+- [Lifehacker] [Give Your Franks the &#39;Dirty Water Dog&#39; Treatment](https://lifehacker.com/give-your-franks-the-dirty-water-dog-treatment-1849357413)
+- [Dev.to/JS] [How to use SuperTokens&#39; pre built UI with VueJS](https://dev.to/supertokens/how-to-use-supertokens-pre-built-ui-with-vuejs-3cdd)
+- [Dev.to/JS] [2 Hours 10 JavaScript Projects ! Let&#39;s build :&rpar;](https://dev.to/prateek951/2-hours-10-javascript-projects-lets-build--6eh)
 - [Dev.to/JS] [My Northcoders application](https://dev.to/cluff3rs/my-northcoders-application-2bi1)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849357008)
 - [Dev.to/JS] [This Week I Learned - 2022 #Week 31](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-31-3jbm)
@@ -30,14 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the Reason Why P2P is the Best Way to Buy Cryptos in Your Own Currency?](https://dev.to/thecryptoapeo/what-is-the-reason-why-p2p-is-the-best-way-to-buy-cryptos-in-your-own-currency-380f)
 - [Dev.to/JS] [Wrap a function transparently](https://dev.to/smlka/wrap-a-function-transparently-1845)
 - [Dev.to/JS] [Link: Management Maturity Model for Performance](https://dev.to/jesterxl/link-management-maturity-model-for-performance-2f52)
-- [Dev.to/JS] [What does javascript engine do?👩‍💻](https://dev.to/aishanipach/what-does-javascript-engine-do-3hid)
-- [Dev.to/JS] [Escape The 9 to 5 using these 3 questions](https://dev.to/calvin087/escape-the-9-to-5-using-these-3-questions-lh7)
 - [Lifehacker] [How to Improve Your Spatial Awareness &lpar;and Stop Bumping Into Stuff&rpar;](https://lifehacker.com/how-to-improve-your-spatial-awareness-and-stop-bumping-1849354731)
-- [Dev.to/JS] [Is React Native Still Relevant In 2022?](https://dev.to/geekkamal/is-react-native-still-relevant-in-2022-2328)
-- [Dev.to/JS] [How to Extend and Build Custom Resolvers with Strapi v4](https://dev.to/strapi/how-to-extend-and-build-custom-resolvers-with-strapi-v4-3mnl)
 - [Lifehacker] [This Italian Semolina Cheesecake Is Shockingly Low Maintenance](https://lifehacker.com/this-italian-semolina-cheesecake-is-shockingly-low-main-1849356883)
-- [Dev.to/JS] [We Released a New Next.js Ecommerce Storefront with Ready Integrations to PayPal, MeiliSearch, Stripe, and more!](https://dev.to/medusajs/we-released-a-new-nextjs-ecommerce-storefront-with-ready-integrations-to-paypal-meilisearch-stripe-and-more-34jl)
-- [Dev.to/JS] [Top React Admin Dashboard Templates](https://dev.to/flatlogic/top-react-admin-dashboard-templates-1d01)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
 - [Lifehacker] [13 of the Best Exercises You Can Do With a Cable Machine](https://lifehacker.com/13-of-the-best-exercises-you-can-do-with-a-cable-machin-1849356941)
 - [Lifehacker] [These States Are Having a Tax-Free Back-to-School Shopping Weekend This Month](https://lifehacker.com/these-states-are-having-a-tax-free-back-to-school-shopp-1849356915)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Elevate the Humble Boiled Egg With Flavorful Dips](https://lifehacker.com/elevate-the-humble-boiled-egg-with-flavorful-dips-1849348798)
 - [Lifehacker] [How to Get Rid of Scratches on Your Oven Door](https://lifehacker.com/how-to-get-rid-of-scratches-on-your-oven-door-1849347870)
 - [Lifehacker] [Where to Get Free N95 Masks](https://lifehacker.com/where-to-get-free-n95-masks-1849347887)
-- [Lifehacker] [Is It Cheaper to Take a Shower or a Bath?](https://lifehacker.com/is-it-cheaper-to-take-a-shower-or-a-bath-1849347915)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
-- [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
 
