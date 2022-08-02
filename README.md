@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Looking for Reporting tools in React Application.](https://dev.to/sohrab09/looking-for-reporting-tools-in-react-application-1ddk)
+- [Dev.to/JS] [Javascript，XML 轉 JSON](https://dev.to/letswrite/javascriptxml-zhuan-json-3a41)
+- [Dev.to/JS] [Use CSS Variable in JS](https://dev.to/exiluz/use-css-variable-in-js-5cjf)
 - [Dev.to/JS] [Minha jornada criando 30 sites em 30 dias](https://dev.to/gonkristiano/minha-jornada-criando-30-sites-em-30-dias-opo)
 - [Dev.to/JS] [Traversing the DOM Tutorial](https://dev.to/rembertdesigns/traversing-the-dom-tutorial-2dld)
 - [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/24/22 - 7/30/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-72422-73022-4gdl)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scheduling and Running Recurring Cron Jobs in Node.JS](https://dev.to/smpnjn/scheduling-and-runnning-recurring-cron-jobs-in-nodejs-p86)
 - [Lifehacker] [These States Are Having a Tax-Free Back-to-School Shopping Weekend This Month](https://lifehacker.com/these-states-are-having-a-tax-free-back-to-school-shopp-1849356915)
 - [Lifehacker] [A Bunch of Cool Stuff Is Happening in Space in August](https://lifehacker.com/a-bunch-of-cool-shit-is-happening-in-space-in-august-1849356656)
-- [Dev.to/JS] [Creating HTML &lt;a&gt; Anchor &lt;/a&gt; Tag With JAVASCRIPT](https://dev.to/aakritigoyal12458/creating-html-anchor-tag-with-javascript-5aa3)
-- [Dev.to/JS] [Cómo ver los valores dentro de un FormData](https://dev.to/victorjordan95/como-ver-los-valores-dentro-de-un-formdata-516o)
 - [Lifehacker] [How to Brunch During a Heat Wave](https://lifehacker.com/how-to-brunch-during-a-heat-wave-1849356507)
-- [Dev.to/JS] [Help me getting the solution](https://dev.to/dantechnologics/help-me-getting-the-solution-4d15)
 - [Lifehacker] [How to Tell If You Have Water Poisoning](https://lifehacker.com/how-to-tell-if-you-have-water-poisoning-1849355825)
 - [Lifehacker] [The True Costs of Deferred Home Maintenance](https://lifehacker.com/the-true-costs-of-deferred-home-maintenance-1849355574)
 - [Lifehacker] [Your Veggies Can Take a Tip From Steak](https://lifehacker.com/your-veggies-can-take-a-tip-from-steak-1849355472)
