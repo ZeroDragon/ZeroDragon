@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Is the Product Safe &amp; Effective?](https://dev.to/eholstont/how-is-the-product-safe-effective-j97)
+- [Dev.to/JS] [6 Interesting JavaScript Questions You Should Know](https://dev.to/chris1993/6-interesting-javascript-questions-you-should-know-2p52)
 - [Dev.to/JS] [Building a Decentralized Twitter in 50 minutes using the Subsocial SDK](https://dev.to/tusharojha/building-a-decentralized-twitter-in-50-minutes-using-the-subsocial-sdk-86l)
 - [Dev.to/JS] [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-o4g)
 - [Dev.to/JS] [Looking for Reporting tools in React Application.](https://dev.to/sohrab09/looking-for-reporting-tools-in-react-application-1ddk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/24/22 - 7/30/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-72422-73022-4gdl)
 - [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide](https://dev.to/munenemuriukim/javascript-101-ultimate-javascript-guide-17id)
 - [Dev.to/JS] [An introduction to Fresh](https://dev.to/asayerio_techblog/an-introduction-to-fresh-jai)
-- [Dev.to/JS] [Styling React components with Stitches](https://dev.to/asayerio_techblog/styling-react-components-with-stitches-2all)
-- [Dev.to/JS] [WatchDog - new must have Tool for GitHub/GitLab](https://dev.to/alexwhitecorp/watchdog-new-must-have-tool-for-githubgitlab-fg7)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
 - [Lifehacker] [13 of the Best Exercises You Can Do With a Cable Machine](https://lifehacker.com/13-of-the-best-exercises-you-can-do-with-a-cable-machin-1849356941)
 - [Lifehacker] [These States Are Having a Tax-Free Back-to-School Shopping Weekend This Month](https://lifehacker.com/these-states-are-having-a-tax-free-back-to-school-shopp-1849356915)
