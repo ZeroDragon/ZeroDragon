@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Italian Semolina Cheesecake Is Shockingly Low Maintenance](https://lifehacker.com/this-italian-semolina-cheesecake-is-shockingly-low-main-1849356883)
+- [Dev.to/JS] [We Released a New Next.js Ecommerce Storefront with Ready Integrations to PayPal, MeiliSearch, Stripe, and more!](https://dev.to/medusajs/we-released-a-new-nextjs-ecommerce-storefront-with-ready-integrations-to-paypal-meilisearch-stripe-and-more-34jl)
+- [Dev.to/JS] [Top React Admin Dashboard Templates](https://dev.to/flatlogic/top-react-admin-dashboard-templates-1d01)
+- [Dev.to/JS] [How to detect scroll up and scroll down in Nuxt/Vue](https://dev.to/siumhossain/how-to-detect-scroll-up-and-scroll-down-in-nuxtvue-4a3m)
 - [Dev.to/JS] [Unbelievable! CSS MASK implements video figure mask](https://dev.to/chokcoco/unbelievable-css-mask-implements-video-figure-mask-29p2)
 - [Dev.to/JS] [One step towards the revolution of APIs usage](https://dev.to/mathieu_r/one-step-towards-the-revolution-of-apis-usage-18i7)
 - [Dev.to/JS] [Jamstack, the rescuer of small businesses](https://dev.to/monsieur_riz/jamstack-the-rescuer-of-small-businesses-2gd1)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Native Payment API with SvelteKit](https://dev.to/theether0/web-native-payment-api-with-sveltekit-57oh)
 - [Dev.to/JS] [Auto-currying in JavaScript](https://dev.to/anewman15/auto-currying-in-javascript-17il)
 - [Dev.to/JS] [How Is the Product Safe &amp; Effective?](https://dev.to/eholstont/how-is-the-product-safe-effective-j97)
-- [Dev.to/JS] [6 Interesting JavaScript Questions You Should Know](https://dev.to/chris1993/6-interesting-javascript-questions-you-should-know-2p52)
-- [Dev.to/JS] [Building a Decentralized Twitter in 50 minutes using the Subsocial SDK](https://dev.to/tusharojha/building-a-decentralized-twitter-in-50-minutes-using-the-subsocial-sdk-86l)
-- [Dev.to/JS] [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-o4g)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
 - [Lifehacker] [13 of the Best Exercises You Can Do With a Cable Machine](https://lifehacker.com/13-of-the-best-exercises-you-can-do-with-a-cable-machin-1849356941)
 - [Lifehacker] [These States Are Having a Tax-Free Back-to-School Shopping Weekend This Month](https://lifehacker.com/these-states-are-having-a-tax-free-back-to-school-shopp-1849356915)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Campfire Smoke Smell Out of Your Clothes and Hair](https://lifehacker.com/how-to-get-campfire-smoke-smell-out-of-your-clothes-and-1849348474)
 - [Lifehacker] [How to Fix a Broken Ice Maker](https://lifehacker.com/how-to-fix-a-broken-ice-maker-1849348495)
 - [Lifehacker] [The Difference Between Wood Putty and Wood Filler &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-difference-between-wood-putty-and-wood-filler-and-1849348502)
-- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Gamepass in August 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-gamepass-1849349745)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
 
