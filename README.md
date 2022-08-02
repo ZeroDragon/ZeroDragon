@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unbelievable! CSS MASK implements video figure mask](https://dev.to/chokcoco/unbelievable-css-mask-implements-video-figure-mask-29p2)
+- [Dev.to/JS] [One step towards the revolution of APIs usage](https://dev.to/mathieu_r/one-step-towards-the-revolution-of-apis-usage-18i7)
 - [Dev.to/JS] [Jamstack, the rescuer of small businesses](https://dev.to/monsieur_riz/jamstack-the-rescuer-of-small-businesses-2gd1)
 - [Dev.to/JS] [5 Essential Skills Sets For Data Scientists [Non-Technical Skills]](https://dev.to/rohitrohi12/5-essential-skills-sets-for-data-scientists-non-technical-skills-19p6)
 - [Dev.to/JS] [How to Display a Loading Spinner while DOM is rendering in ReactJS](https://dev.to/heyylateef/how-to-display-a-loading-spinner-while-dom-is-rendering-in-reactjs-nlg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 Interesting JavaScript Questions You Should Know](https://dev.to/chris1993/6-interesting-javascript-questions-you-should-know-2p52)
 - [Dev.to/JS] [Building a Decentralized Twitter in 50 minutes using the Subsocial SDK](https://dev.to/tusharojha/building-a-decentralized-twitter-in-50-minutes-using-the-subsocial-sdk-86l)
 - [Dev.to/JS] [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-o4g)
-- [Dev.to/JS] [Looking for Reporting tools in React Application.](https://dev.to/sohrab09/looking-for-reporting-tools-in-react-application-1ddk)
-- [Dev.to/JS] [Javascript，XML 轉 JSON](https://dev.to/letswrite/javascriptxml-zhuan-json-3a41)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
 - [Lifehacker] [13 of the Best Exercises You Can Do With a Cable Machine](https://lifehacker.com/13-of-the-best-exercises-you-can-do-with-a-cable-machin-1849356941)
 - [Lifehacker] [These States Are Having a Tax-Free Back-to-School Shopping Weekend This Month](https://lifehacker.com/these-states-are-having-a-tax-free-back-to-school-shopp-1849356915)
