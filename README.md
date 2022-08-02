@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A Bunch of Oat Milks and Coffee Drinks Are Part of a Major Recall](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
+- [Lifehacker] [You Can Now Fix Your Samsung Phone Yourself](https://lifehacker.com/you-can-now-fix-your-samsung-phone-yourself-1849359753)
 - [Lifehacker] [Don&#39;t Let Your Dog Swim in Green Water](https://lifehacker.com/dont-let-your-dog-swim-in-green-water-1849359850)
 - [Dev.to/JS] [The new simple and powerful state management framework for Javascript](https://dev.to/haneenmahdin/the-new-simple-and-powerful-state-management-framework-for-javascript-2jki)
 - [Lifehacker] [10 Wince-Inducing Sex-Related Injuries &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/10-wince-inducing-sex-related-injuries-and-how-to-avoi-1849358333)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to &lpar;Productively&rpar; Tell Your Co-Worker They Screwed Up](https://lifehacker.com/how-to-productively-tell-your-co-worker-they-screwed-1849355358)
 - [Lifehacker] [The iPhone&#39;s &#39;Focus Filters&#39; Can Help You Ignore Distractions Even Better](https://lifehacker.com/the-iphones-focus-filters-can-help-you-ignore-distracti-1849354328)
 - [Lifehacker] [10 Cheap Ways to Fence in Your Yard](https://lifehacker.com/10-cheap-ways-to-fence-in-your-yard-1849354922)
-- [Lifehacker] [Here&#39;s How Much Money You Can Make by Renting Out Your Pool](https://lifehacker.com/heres-how-much-money-you-can-make-by-renting-out-your-p-1849353370)
-- [Lifehacker] [How to Start a Casual Sex Relationship](https://lifehacker.com/how-to-start-a-casual-sex-relationship-1849350310)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
