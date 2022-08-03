@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a shopping cart in React with Redux Toolkit and Redux Persist](https://dev.to/asayerio_techblog/building-a-shopping-cart-in-react-with-redux-toolkit-and-redux-persist-1gm2)
 - [Dev.to/JS] [How to Solve Palindrome Problem with 1 Line of JavaScript](https://dev.to/apmfree78/how-to-solve-palindrome-problem-with-1-line-of-javascript-4066)
 - [Dev.to/JS] [Understanding How to Access Google APIs](https://dev.to/ekqt/understanding-how-to-access-google-apis-1593)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Best React Form Library &lpar;2022&rpar;](https://dev.to/sbmsr/the-best-react-form-library-2022-4621)
 - [Dev.to/JS] [Relax, JS `this` is damn easy.](https://dev.to/urstrulyvishwak/relax-js-this-is-damn-easy-2jml)
 - [Lifehacker] [How to Estimate Distance Using Just Your Thumb](https://lifehacker.com/how-to-estimate-distance-using-just-your-thumb-1849365952)
-- [Dev.to/JS] [💚CapsCode Anniversary💜](https://dev.to/capscode/capscode-anniversary-1ngh)
 - [Lifehacker] [Three Great Alternatives to Airbnb](https://lifehacker.com/three-great-alternatives-to-airbnb-1849365576)
 - [Lifehacker] [How to Keep a Bear Out of Your House &lpar;and What to Do If One Gets In&rpar;](https://lifehacker.com/how-to-keep-a-bear-out-of-your-house-and-what-to-do-if-1849365939)
 - [Lifehacker] [How to Prepare Your Kid to Fly Alone for the First Time](https://lifehacker.com/how-to-prepare-your-kid-to-fly-alone-for-the-first-time-1849365899)
