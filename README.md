@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vissentials Max BHB - Weight Loss Benefits, Results, Uses &amp; Price?](https://dev.to/vissentialsinfo_33/vissentials-max-bhb-weight-loss-benefits-results-uses-price-1if8)
+- [Dev.to/JS] [Super Mario](https://dev.to/pradeepradyumna/super-mario-1367)
+- [Dev.to/JS] [Using Magic To Manipulate The Systems We Live In](https://dev.to/calvin087/using-magic-to-manipulate-the-systems-we-live-in-1dng)
 - [Dev.to/JS] [Creating a business card for the terminal](https://dev.to/dailydevtips1/creating-a-business-card-for-the-terminal-3hel)
 - [Dev.to/JS] [5 Rules for Every Code Review](https://dev.to/devsimc/5-rules-for-every-code-review-4o7a)
 - [Dev.to/JS] [Learn Web Dev FREE !](https://dev.to/abbhiishek/learn-web-dev-free--2pl9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Firebase Authentication tutorial](https://dev.to/mshahryiar/react-firebase-authentication-tutorial-1eag)
 - [Dev.to/JS] [PHP Access Modifiers Example](https://dev.to/techsolutionstuff/php-access-modifiers-example-3ejl)
 - [Dev.to/JS] [React Functional vs Class Components - Beginners Guide.](https://dev.to/abbhiishek/react-functional-vs-class-components-beginners-guide-4ca3)
-- [Dev.to/JS] [How to make an npm package with an automated workflow](https://dev.to/xylocone/how-to-make-an-npm-package-with-an-automated-workflow-19j0)
-- [Dev.to/JS] [How to secure sensitive endpoints using JWT in Node.js](https://dev.to/joaolima/how-to-secure-sensitive-endpoints-using-jwt-in-nodejs-468k)
-- [Dev.to/JS] [Listen Up! To Clicks and Submit](https://dev.to/sheenasany/listen-up-to-clicks-and-submit-50hc)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
 - [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
 - [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
