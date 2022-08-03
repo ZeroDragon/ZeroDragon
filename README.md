@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Search Bar Functionality Using State In React](https://dev.to/andreaesparza13/search-bar-functionality-using-state-in-react-25kj)
+- [Dev.to/JS] [React 18 - Uma nova maneira de usar o useState &lpar;Processamento em lote&rpar;](https://dev.to/tiagodanin/react-18-uma-nova-maneira-de-usar-o-usestate-processamento-em-lote-1ee9)
+- [Dev.to/JS] [Projeto 1 - Calculadora de média](https://dev.to/yasmindematos/projeto-1-calculadora-de-media-34op)
+- [Dev.to/JS] [Common React Errors and how to Troubleshoot them](https://dev.to/kdliving14/common-react-errors-and-how-to-troubleshoot-them-57f5)
 - [Dev.to/JS] [How to create an animation to open a menu with Tailwind in 5 steps](https://dev.to/maysab/how-to-create-an-animation-to-open-a-menu-with-tailwind-in-5-steps-1llj)
 - [Dev.to/JS] [Semantic Tokens in Chakra UI⚛](https://dev.to/paripsky/semantic-tokens-in-chakra-ui-4k1b)
 - [Dev.to/JS] [Produce videos in React with Remotion](https://dev.to/asayerio_techblog/produce-videos-in-react-with-remotion-4g9b)
@@ -36,15 +40,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Free or Cheap Laptop for College](https://lifehacker.com/how-to-get-a-free-or-cheap-laptop-for-college-1849361096)
 - [Dev.to/JS] [Virtual Coffee&#39;s July Monthly Challenge: Live Demo of the Progress Toward my Row Counter App](https://dev.to/rek990/virtual-coffees-july-monthly-challenge-live-demo-of-the-progress-toward-my-row-counter-app-3jd7)
 - [Lifehacker] [How to Make Canned Vegetables Taste Luxurious](https://lifehacker.com/how-to-make-canned-vegetables-taste-luxurious-1849361325)
-- [Dev.to/JS] [Custom ReactJS UI Components in Backendless UI Builder](https://dev.to/backendless/custom-reactjs-ui-components-in-backendless-ui-builder-4p4e)
 - [Lifehacker] [What Pandemic Purchase Do You Now Hate the Most?](https://lifehacker.com/what-pandemic-purchase-do-you-now-hate-the-most-1849359879)
-- [Dev.to/JS] [CRUD with Nucleoid &lpar;Low-code Backend&rpar;](https://dev.to/nucleoid/crud-with-nucleoid-low-code-backend-53c5)
-- [Dev.to/JS] [Moving MyUnisoft Node.js back to TypeORM](https://dev.to/fraxken/moving-myunisoft-nodejs-back-to-typeorm-3fok)
 - [Lifehacker] [What If You Made Oatmeal in Your Rice Cooker?](https://lifehacker.com/what-if-you-made-oatmeal-in-your-rice-cooker-1849360455)
 - [Lifehacker] [A Bunch of Oat Milks and Coffee Drinks Are Part of a Major Recall](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 - [Lifehacker] [You Can Now Fix Your Samsung Phone Yourself](https://lifehacker.com/you-can-now-fix-your-samsung-phone-yourself-1849359753)
 - [Lifehacker] [Don&#39;t Let Your Dog Swim in Green Water](https://lifehacker.com/dont-let-your-dog-swim-in-green-water-1849359850)
-- [Dev.to/JS] [The new simple and powerful state management framework for Javascript](https://dev.to/haneenmahdin/the-new-simple-and-powerful-state-management-framework-for-javascript-2jki)
 - [Lifehacker] [10 Wince-Inducing Sex-Related Injuries &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/10-wince-inducing-sex-related-injuries-and-how-to-avoi-1849358333)
 - [Lifehacker] [How to Repair Water Damage in Your Home &lpar;and When to Panic About It&rpar;](https://lifehacker.com/how-to-repair-water-damage-in-your-home-and-when-to-pa-1849359633)
 - [Lifehacker] [Three Things You Should Never Do at a Nude Beach](https://lifehacker.com/three-things-you-should-never-do-at-a-nude-beach-1849359678)
