@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;VipsGames&quot; are now open for games and gamers !](https://dev.to/vipsprojects/vipsgames-are-now-open-for-games-and-gamers--2fc)
+- [Dev.to/JS] [Objects in JavaScript For beginners](https://dev.to/ericawanja/objects-in-javascript-for-beginners-38l2)
+- [Dev.to/JS] [Maps in JavaScript](https://dev.to/ericawanja/maps-in-javascript-3ng2)
+- [Dev.to/JS] [Cypress End to End Testing Tutorial: A Detailed Guide](https://dev.to/kailashpathak7/cypress-end-to-end-testing-tutorial-a-detailed-guide-5h92)
 - [Dev.to/JS] [Rose expression](https://dev.to/osamakhan9/rose-expression-242o)
 - [Dev.to/JS] [Web3 js in practical &lpar;Part-I&rpar;](https://dev.to/billypentester/web3-js-in-practical-part-i-5b8h)
 - [Dev.to/JS] [React exercise with canvas &amp; 2-D array: background with triangles](https://dev.to/elsyng/react-exercise-with-canvas-2-d-array-background-with-triangles-3nm)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Examples of How Data Science Is Being Used in Retail Operations](https://dev.to/vinodchavan05/examples-of-how-data-science-is-being-used-in-retail-operations-138g)
 - [Dev.to/JS] [Top 10 Real-World Examples of Data Science in Pharma](https://dev.to/rohitrohi12/top-10-real-world-examples-of-data-science-in-pharma-nil)
 - [Dev.to/JS] [Svelte Charts: Quick Charts in SvelteKit with Chart.js](https://dev.to/askrodney/svelte-charts-quick-charts-in-sveltekit-with-chartjs-m4h)
-- [Dev.to/JS] [React Sound sampler - need help](https://dev.to/michalzareba0001/react-sound-sampler-need-help-5d32)
-- [Dev.to/JS] [Top 7 Java Frameworks for Building Custom Web Applications](https://dev.to/botreetechnologies/top-7-java-frameworks-for-building-custom-web-applications-2jef)
-- [Dev.to/JS] [Build my JAMstack Blog with Nextjs &lpar;on Vercel&rpar; + Ghost &lpar;on Render&rpar;](https://dev.to/adela_bytebase/build-my-jamstack-blog-with-nextjs-on-vercel-ghost-on-render-47jh)
-- [Dev.to/JS] [Return in Functions!🔥](https://dev.to/willkirkmanm/return-in-functions-2nkm)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
 - [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
 - [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
