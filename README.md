@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a business card for the terminal](https://dev.to/dailydevtips1/creating-a-business-card-for-the-terminal-3hel)
+- [Dev.to/JS] [5 Rules for Every Code Review](https://dev.to/devsimc/5-rules-for-every-code-review-4o7a)
 - [Dev.to/JS] [Learn Web Dev FREE !](https://dev.to/abbhiishek/learn-web-dev-free--2pl9)
 - [Dev.to/JS] [Why is it time to move on to ReactJS ?](https://dev.to/abbhiishek/why-is-it-time-to-move-on-to-reactjs--4na1)
+- [Dev.to/JS] [The Simplest Case for Unit Tests: Pure Functions](https://dev.to/how-to-dev/the-simplest-case-for-unit-tests-pure-functions-k3l)
 - [Dev.to/JS] [NX for React](https://dev.to/diamonddarrell/nx-for-react-450k)
 - [Dev.to/JS] [React Firebase Authentication tutorial](https://dev.to/mshahryiar/react-firebase-authentication-tutorial-1eag)
 - [Dev.to/JS] [PHP Access Modifiers Example](https://dev.to/techsolutionstuff/php-access-modifiers-example-3ejl)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make an npm package with an automated workflow](https://dev.to/xylocone/how-to-make-an-npm-package-with-an-automated-workflow-19j0)
 - [Dev.to/JS] [How to secure sensitive endpoints using JWT in Node.js](https://dev.to/joaolima/how-to-secure-sensitive-endpoints-using-jwt-in-nodejs-468k)
 - [Dev.to/JS] [Listen Up! To Clicks and Submit](https://dev.to/sheenasany/listen-up-to-clicks-and-submit-50hc)
-- [Dev.to/JS] [Search Bar Functionality Using State In React](https://dev.to/andreaesparza13/search-bar-functionality-using-state-in-react-25kj)
-- [Dev.to/JS] [React 18 - Uma nova maneira de usar o useState &lpar;Processamento em lote&rpar;](https://dev.to/tiagodanin/react-18-uma-nova-maneira-de-usar-o-usestate-processamento-em-lote-1ee9)
-- [Dev.to/JS] [Projeto 1 - Calculadora de média](https://dev.to/yasmindematos/projeto-1-calculadora-de-media-34op)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
 - [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
 - [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
