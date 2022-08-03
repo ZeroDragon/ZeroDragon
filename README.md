@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Eat This Ultra-Creamy Baba Ganoush Dip With Everything](https://lifehacker.com/eat-this-ultra-creamy-baba-ganoush-dip-with-everything-1849366325)
+- [Lifehacker] [You Can Actually Do Something About Broken Toes](https://lifehacker.com/you-can-actually-do-something-about-broken-toes-1849366052)
+- [Dev.to/JS] [The Best React Form Library &lpar;2022&rpar;](https://dev.to/sbmsr/the-best-react-form-library-2022-4621)
+- [Dev.to/JS] [Relax, JS `this` is damn easy.](https://dev.to/urstrulyvishwak/relax-js-this-is-damn-easy-2jml)
 - [Lifehacker] [How to Estimate Distance Using Just Your Thumb](https://lifehacker.com/how-to-estimate-distance-using-just-your-thumb-1849365952)
 - [Dev.to/JS] [💚CapsCode Anniversary💜](https://dev.to/capscode/capscode-anniversary-1ngh)
 - [Lifehacker] [Three Great Alternatives to Airbnb](https://lifehacker.com/three-great-alternatives-to-airbnb-1849365576)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FirstBlog](https://dev.to/ljfm/firstblog-12ig)
 - [Dev.to/JS] [Add Localstorage to Reduxtoolkit](https://dev.to/blu3fire89/add-localstorage-to-reduxtoolkit-3de9)
 - [Dev.to/JS] [Login Authentication](https://dev.to/blu3fire89/login-authentication-3in)
-- [Dev.to/JS] [Login / Register authentication](https://dev.to/blu3fire89/login-register-authentication-5gg5)
-- [Dev.to/JS] [Node v17.0.1 bug](https://dev.to/blu3fire89/node-v1701-bug-146o)
 - [Lifehacker] [12 Once Normal Baby Names That Pop Culture Basically Ruined](https://lifehacker.com/12-once-normal-baby-names-that-pop-culture-basically-ru-1849363378)
 - [Lifehacker] [Make Dirty Eggs With Olive Juice](https://lifehacker.com/make-dirty-eggs-with-olive-juice-1849362078)
 - [Lifehacker] [How to Teach Your Kids the Difference Between Wants and Needs](https://lifehacker.com/how-to-teach-your-kids-the-difference-between-wants-and-1849360263)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Let Your Dog Swim in Green Water](https://lifehacker.com/dont-let-your-dog-swim-in-green-water-1849359850)
 - [Lifehacker] [10 Wince-Inducing Sex-Related Injuries &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/10-wince-inducing-sex-related-injuries-and-how-to-avoi-1849358333)
 - [Lifehacker] [How to Repair Water Damage in Your Home &lpar;and When to Panic About It&rpar;](https://lifehacker.com/how-to-repair-water-damage-in-your-home-and-when-to-pa-1849359633)
-- [Lifehacker] [Three Things You Should Never Do at a Nude Beach](https://lifehacker.com/three-things-you-should-never-do-at-a-nude-beach-1849359678)
-- [Lifehacker] [The Fastest Ways to Shake Jetlag](https://lifehacker.com/the-fastest-ways-to-shake-jetlag-1849359211)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
