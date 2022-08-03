@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [53. Maximum Subarray 🚀](https://dev.to/samuelhinchliffe/53-maximum-subarray-25df)
+- [Lifehacker] [22 Dreamy Thrillers to Watch After &#39;The Sandman&#39;](https://lifehacker.com/22-dreamy-thrillers-to-watch-after-the-sandman-1849343848)
+- [Dev.to/JS] [FirstBlog](https://dev.to/ljfm/firstblog-12ig)
 - [Dev.to/JS] [Add Localstorage to Reduxtoolkit](https://dev.to/blu3fire89/add-localstorage-to-reduxtoolkit-3de9)
 - [Dev.to/JS] [Login Authentication](https://dev.to/blu3fire89/login-authentication-3in)
 - [Dev.to/JS] [Login / Register authentication](https://dev.to/blu3fire89/login-register-authentication-5gg5)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Largest no. in Array using Recursion](https://dev.to/shubhamtiwari909/largest-no-in-array-using-recursion-gbk)
 - [Dev.to/JS] [Simplify Redis for noobs like myself](https://dev.to/amaboh/simplify-redis-for-noobs-like-myself-3amc)
 - [Lifehacker] [How to Teach Your Kids the Difference Between Wants and Needs](https://lifehacker.com/how-to-teach-your-kids-the-difference-between-wants-and-1849360263)
-- [Dev.to/JS] [console.log alternatives you didn&#39;t know 😮](https://dev.to/posandu/consolelog-alternatives-you-didnt-know-52ia)
-- [Dev.to/JS] [JavaScript : Mixins](https://dev.to/deogadkarravina/javascript-mixins-16k)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
 - [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
 - [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Improve Your Spatial Awareness &lpar;and Stop Bumping Into Stuff&rpar;](https://lifehacker.com/how-to-improve-your-spatial-awareness-and-stop-bumping-1849354731)
 - [Lifehacker] [This Italian Semolina Cheesecake Is Shockingly Low Maintenance](https://lifehacker.com/this-italian-semolina-cheesecake-is-shockingly-low-main-1849356883)
 - [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
-- [Lifehacker] [13 of the Best Exercises You Can Do With a Cable Machine](https://lifehacker.com/13-of-the-best-exercises-you-can-do-with-a-cable-machin-1849356941)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
