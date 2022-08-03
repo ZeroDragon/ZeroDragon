@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Firebase Authentication tutorial](https://dev.to/mshahryiar/react-firebase-authentication-tutorial-1eag)
 - [Dev.to/JS] [PHP Access Modifiers Example](https://dev.to/techsolutionstuff/php-access-modifiers-example-3ejl)
 - [Dev.to/JS] [React Functional vs Class Components - Beginners Guide.](https://dev.to/abbhiishek/react-functional-vs-class-components-beginners-guide-4ca3)
 - [Dev.to/JS] [How to make an npm package with an automated workflow](https://dev.to/xylocone/how-to-make-an-npm-package-with-an-automated-workflow-19j0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common React Errors and how to Troubleshoot them](https://dev.to/kdliving14/common-react-errors-and-how-to-troubleshoot-them-57f5)
 - [Dev.to/JS] [How to create an animation to open a menu with Tailwind in 5 steps](https://dev.to/maysab/how-to-create-an-animation-to-open-a-menu-with-tailwind-in-5-steps-1llj)
 - [Dev.to/JS] [Semantic Tokens in Chakra UI⚛](https://dev.to/paripsky/semantic-tokens-in-chakra-ui-4k1b)
-- [Dev.to/JS] [Produce videos in React with Remotion](https://dev.to/asayerio_techblog/produce-videos-in-react-with-remotion-4g9b)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
 - [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
 - [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
