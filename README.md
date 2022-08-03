@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PHP Access Modifiers Example](https://dev.to/techsolutionstuff/php-access-modifiers-example-3ejl)
+- [Dev.to/JS] [React Functional vs Class Components - Beginners Guide.](https://dev.to/abbhiishek/react-functional-vs-class-components-beginners-guide-4ca3)
+- [Dev.to/JS] [How to make an npm package with an automated workflow](https://dev.to/xylocone/how-to-make-an-npm-package-with-an-automated-workflow-19j0)
+- [Dev.to/JS] [How to secure sensitive endpoints using JWT in Node.js](https://dev.to/joaolima/how-to-secure-sensitive-endpoints-using-jwt-in-nodejs-468k)
 - [Dev.to/JS] [Listen Up! To Clicks and Submit](https://dev.to/sheenasany/listen-up-to-clicks-and-submit-50hc)
 - [Dev.to/JS] [Search Bar Functionality Using State In React](https://dev.to/andreaesparza13/search-bar-functionality-using-state-in-react-25kj)
 - [Dev.to/JS] [React 18 - Uma nova maneira de usar o useState &lpar;Processamento em lote&rpar;](https://dev.to/tiagodanin/react-18-uma-nova-maneira-de-usar-o-usestate-processamento-em-lote-1ee9)
@@ -32,12 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Semantic Tokens in Chakra UI⚛](https://dev.to/paripsky/semantic-tokens-in-chakra-ui-4k1b)
 - [Dev.to/JS] [Produce videos in React with Remotion](https://dev.to/asayerio_techblog/produce-videos-in-react-with-remotion-4g9b)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
-- [Dev.to/JS] [10+ Unique Chrome Extensions For Web Developers](https://dev.to/mojodev/10-unique-chrome-extensions-for-web-developers-2n6g)
 - [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
-- [Dev.to/JS] [Javascript Hoisting](https://dev.to/vasconevesxd/javascript-hoisting-4lod)
 - [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
-- [Dev.to/JS] [React Native&#39;s New Renderer: Fabric](https://dev.to/theadultnoble_6/react-natives-new-renderer-fabric-5898)
-- [Dev.to/JS] [A Document Revisions System in JavaScript](https://dev.to/kornatzky/a-document-revisions-system-in-javascript-1o3h)
 - [Lifehacker] [How to Get a Free or Cheap Laptop for College](https://lifehacker.com/how-to-get-a-free-or-cheap-laptop-for-college-1849361096)
 - [Lifehacker] [How to Make Canned Vegetables Taste Luxurious](https://lifehacker.com/how-to-make-canned-vegetables-taste-luxurious-1849361325)
 - [Lifehacker] [What Pandemic Purchase Do You Now Hate the Most?](https://lifehacker.com/what-pandemic-purchase-do-you-now-hate-the-most-1849359879)
