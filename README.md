@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rose expression](https://dev.to/osamakhan9/rose-expression-242o)
+- [Dev.to/JS] [Web3 js in practical &lpar;Part-I&rpar;](https://dev.to/billypentester/web3-js-in-practical-part-i-5b8h)
+- [Dev.to/JS] [React exercise with canvas &amp; 2-D array: background with triangles](https://dev.to/elsyng/react-exercise-with-canvas-2-d-array-background-with-triangles-3nm)
+- [Dev.to/JS] [How to hide the source code of an HTML web page?](https://dev.to/billypentester/how-to-hide-the-source-code-of-an-html-web-page-12n5)
+- [Dev.to/JS] [A Comprehensive Guide to Regular Expressions](https://dev.to/ianmcbull/a-comprehensive-guide-to-regular-expressions-31ao)
 - [Dev.to/JS] [Examples of How Data Science Is Being Used in Retail Operations](https://dev.to/vinodchavan05/examples-of-how-data-science-is-being-used-in-retail-operations-138g)
 - [Dev.to/JS] [Top 10 Real-World Examples of Data Science in Pharma](https://dev.to/rohitrohi12/top-10-real-world-examples-of-data-science-in-pharma-nil)
 - [Dev.to/JS] [Svelte Charts: Quick Charts in SvelteKit with Chart.js](https://dev.to/askrodney/svelte-charts-quick-charts-in-sveltekit-with-chartjs-m4h)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 7 Java Frameworks for Building Custom Web Applications](https://dev.to/botreetechnologies/top-7-java-frameworks-for-building-custom-web-applications-2jef)
 - [Dev.to/JS] [Build my JAMstack Blog with Nextjs &lpar;on Vercel&rpar; + Ghost &lpar;on Render&rpar;](https://dev.to/adela_bytebase/build-my-jamstack-blog-with-nextjs-on-vercel-ghost-on-render-47jh)
 - [Dev.to/JS] [Return in Functions!🔥](https://dev.to/willkirkmanm/return-in-functions-2nkm)
-- [Dev.to/JS] [Vissentials Max BHB - Weight Loss Benefits, Results, Uses &amp; Price?](https://dev.to/vissentialsinfo_33/vissentials-max-bhb-weight-loss-benefits-results-uses-price-1if8)
-- [Dev.to/JS] [Super Mario](https://dev.to/pradeepradyumna/super-mario-1367)
-- [Dev.to/JS] [Using Magic To Manipulate The Systems We Live In](https://dev.to/calvin087/using-magic-to-manipulate-the-systems-we-live-in-1dng)
-- [Dev.to/JS] [Creating a business card for the terminal](https://dev.to/dailydevtips1/creating-a-business-card-for-the-terminal-3hel)
-- [Dev.to/JS] [5 Rules for Every Code Review](https://dev.to/devsimc/5-rules-for-every-code-review-4o7a)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
 - [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
 - [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
