@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create an animation to open a menu with Tailwind in 5 steps](https://dev.to/maysab/how-to-create-an-animation-to-open-a-menu-with-tailwind-in-5-steps-1llj)
 - [Dev.to/JS] [Semantic Tokens in Chakra UI⚛](https://dev.to/paripsky/semantic-tokens-in-chakra-ui-4k1b)
 - [Dev.to/JS] [Produce videos in React with Remotion](https://dev.to/asayerio_techblog/produce-videos-in-react-with-remotion-4g9b)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The new simple and powerful state management framework for Javascript](https://dev.to/haneenmahdin/the-new-simple-and-powerful-state-management-framework-for-javascript-2jki)
 - [Lifehacker] [10 Wince-Inducing Sex-Related Injuries &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/10-wince-inducing-sex-related-injuries-and-how-to-avoi-1849358333)
 - [Lifehacker] [How to Repair Water Damage in Your Home &lpar;and When to Panic About It&rpar;](https://lifehacker.com/how-to-repair-water-damage-in-your-home-and-when-to-pa-1849359633)
-- [Dev.to/JS] [Why NodeJS in Front Ends?](https://dev.to/kemystra/why-nodejs-in-front-ends-297h)
 - [Lifehacker] [Three Things You Should Never Do at a Nude Beach](https://lifehacker.com/three-things-you-should-never-do-at-a-nude-beach-1849359678)
 - [Lifehacker] [The Fastest Ways to Shake Jetlag](https://lifehacker.com/the-fastest-ways-to-shake-jetlag-1849359211)
 - [Lifehacker] [These Budget-Friendly Date Ideas Will Help Your Romance Survive the Recession](https://lifehacker.com/these-budget-friendly-date-ideas-will-help-your-romance-1849357597)
