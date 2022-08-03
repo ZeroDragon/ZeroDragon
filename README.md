@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Estimate Distance Using Just Your Thumb](https://lifehacker.com/how-to-estimate-distance-using-just-your-thumb-1849365952)
+- [Dev.to/JS] [💚CapsCode Anniversary💜](https://dev.to/capscode/capscode-anniversary-1ngh)
+- [Lifehacker] [Three Great Alternatives to Airbnb](https://lifehacker.com/three-great-alternatives-to-airbnb-1849365576)
+- [Dev.to/JS] [The KonMari method of JS: variables.](https://dev.to/btdavis300/the-konmari-method-of-js-variables-3cff)
 - [Lifehacker] [How to Keep a Bear Out of Your House &lpar;and What to Do If One Gets In&rpar;](https://lifehacker.com/how-to-keep-a-bear-out-of-your-house-and-what-to-do-if-1849365939)
 - [Dev.to/JS] [Docusaurus 2.0: Meta&#39;s static site generator to build beautiful documentation websites](https://dev.to/sebastienlorber/docusaurus-20-metas-static-site-generator-to-build-beautiful-documentation-websites-4534)
 - [Lifehacker] [How to Prepare Your Kid to Fly Alone for the First Time](https://lifehacker.com/how-to-prepare-your-kid-to-fly-alone-for-the-first-time-1849365899)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Login Authentication](https://dev.to/blu3fire89/login-authentication-3in)
 - [Dev.to/JS] [Login / Register authentication](https://dev.to/blu3fire89/login-register-authentication-5gg5)
 - [Dev.to/JS] [Node v17.0.1 bug](https://dev.to/blu3fire89/node-v1701-bug-146o)
-- [Dev.to/JS] [Bootstrap Progress Bar Percentage Using Jquery](https://dev.to/w3hubs/bootstrap-progress-bar-percentage-using-jquery-5f11)
-- [Dev.to/JS] [Regular Expressions&lpar;RegEx&rpar; Basics](https://dev.to/brojenuel/regular-expressionsregex-basics-5gcj)
 - [Lifehacker] [12 Once Normal Baby Names That Pop Culture Basically Ruined](https://lifehacker.com/12-once-normal-baby-names-that-pop-culture-basically-ru-1849363378)
 - [Lifehacker] [Make Dirty Eggs With Olive Juice](https://lifehacker.com/make-dirty-eggs-with-olive-juice-1849362078)
 - [Lifehacker] [How to Teach Your Kids the Difference Between Wants and Needs](https://lifehacker.com/how-to-teach-your-kids-the-difference-between-wants-and-1849360263)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Repair Water Damage in Your Home &lpar;and When to Panic About It&rpar;](https://lifehacker.com/how-to-repair-water-damage-in-your-home-and-when-to-pa-1849359633)
 - [Lifehacker] [Three Things You Should Never Do at a Nude Beach](https://lifehacker.com/three-things-you-should-never-do-at-a-nude-beach-1849359678)
 - [Lifehacker] [The Fastest Ways to Shake Jetlag](https://lifehacker.com/the-fastest-ways-to-shake-jetlag-1849359211)
-- [Lifehacker] [These Budget-Friendly Date Ideas Will Help Your Romance Survive the Recession](https://lifehacker.com/these-budget-friendly-date-ideas-will-help-your-romance-1849357597)
-- [Lifehacker] [12 of the Most Underrated Fast Food Menu Items, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-underrated-fast-food-menu-items-accordi-1849357360)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
