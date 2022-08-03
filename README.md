@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript can speak! Using the Speech Synthesis API](https://dev.to/nicozerpa/javascript-can-speak-using-the-speech-synthesis-api-5bo6)
+- [Lifehacker] [Does Supplemental Oxygen Really Help You Recover From a Workout Faster?](https://lifehacker.com/does-supplemental-oxygen-really-help-you-recover-from-a-1849364885)
+- [Dev.to/JS] [6 You Should Understand the ref and reactive Questions in Vue3✨🛀](https://dev.to/chris1993/6-you-should-understand-the-ref-and-reactive-questions-in-vue3-10ij)
+- [Dev.to/JS] [Redux toolkit, easier than Redux!](https://dev.to/samaghapour/redux-toolkit-easier-than-redux-4bje)
+- [Lifehacker] [How to Know When Apple Arcade Is Dropping Games](https://lifehacker.com/how-to-know-when-apple-arcade-is-dropping-games-1849364783)
+- [Lifehacker] [How Much Fighting Is Too Much Fighting in a Relationship?](https://lifehacker.com/how-much-fighting-is-too-much-fighting-in-a-relationshi-1849364671)
 - [Dev.to/JS] [53. Maximum Subarray 🚀](https://dev.to/samuelhinchliffe/53-maximum-subarray-25df)
 - [Lifehacker] [22 Dreamy Thrillers to Watch After &#39;The Sandman&#39;](https://lifehacker.com/22-dreamy-thrillers-to-watch-after-the-sandman-1849343848)
 - [Dev.to/JS] [FirstBlog](https://dev.to/ljfm/firstblog-12ig)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cách sử dụng useMemo&lpar;&rpar;](https://dev.to/dylanvo28/cach-su-dung-usememo-276l)
 - [Lifehacker] [12 Once Normal Baby Names That Pop Culture Basically Ruined](https://lifehacker.com/12-once-normal-baby-names-that-pop-culture-basically-ru-1849363378)
 - [Lifehacker] [Make Dirty Eggs With Olive Juice](https://lifehacker.com/make-dirty-eggs-with-olive-juice-1849362078)
-- [Dev.to/JS] [Top 10 Node.js security best practices](https://dev.to/devarshishimpi/top-10-nodejs-security-best-practices-3bi9)
-- [Dev.to/JS] [Largest no. in Array using Recursion](https://dev.to/shubhamtiwari909/largest-no-in-array-using-recursion-gbk)
-- [Dev.to/JS] [Simplify Redis for noobs like myself](https://dev.to/amaboh/simplify-redis-for-noobs-like-myself-3amc)
 - [Lifehacker] [How to Teach Your Kids the Difference Between Wants and Needs](https://lifehacker.com/how-to-teach-your-kids-the-difference-between-wants-and-1849360263)
 - [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
 - [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Most Underrated Fast Food Menu Items, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-underrated-fast-food-menu-items-accordi-1849357360)
 - [Lifehacker] [Give Your Franks the &#39;Dirty Water Dog&#39; Treatment](https://lifehacker.com/give-your-franks-the-dirty-water-dog-treatment-1849357413)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849357008)
-- [Lifehacker] [How to Improve Your Spatial Awareness &lpar;and Stop Bumping Into Stuff&rpar;](https://lifehacker.com/how-to-improve-your-spatial-awareness-and-stop-bumping-1849354731)
-- [Lifehacker] [This Italian Semolina Cheesecake Is Shockingly Low Maintenance](https://lifehacker.com/this-italian-semolina-cheesecake-is-shockingly-low-main-1849356883)
-- [Lifehacker] [Now You Can Hang Up an iPhone Call Using Siri](https://lifehacker.com/now-you-can-hang-up-an-iphone-call-using-siri-1849181769)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
