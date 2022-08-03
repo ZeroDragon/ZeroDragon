@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Solve Palindrome Problem with 1 Line of JavaScript](https://dev.to/apmfree78/how-to-solve-palindrome-problem-with-1-line-of-javascript-4066)
+- [Dev.to/JS] [Understanding How to Access Google APIs](https://dev.to/ekqt/understanding-how-to-access-google-apis-1593)
+- [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Dev.to/JS] [Secure Open Source Code &amp; Create SBOMs for free in minutes with CodeSec](https://dev.to/codesec/secure-open-source-code-create-sboms-for-free-in-minutes-with-codesec-4og9)
 - [Dev.to/JS] [Grouping rows in Vuetify](https://dev.to/dima2306/grouping-rows-in-vuetify-js-3ia8)
@@ -41,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Estimate Distance Using Just Your Thumb](https://lifehacker.com/how-to-estimate-distance-using-just-your-thumb-1849365952)
 - [Dev.to/JS] [💚CapsCode Anniversary💜](https://dev.to/capscode/capscode-anniversary-1ngh)
 - [Lifehacker] [Three Great Alternatives to Airbnb](https://lifehacker.com/three-great-alternatives-to-airbnb-1849365576)
-- [Dev.to/JS] [The KonMari method of JS: variables.](https://dev.to/btdavis300/the-konmari-method-of-js-variables-3cff)
 - [Lifehacker] [How to Keep a Bear Out of Your House &lpar;and What to Do If One Gets In&rpar;](https://lifehacker.com/how-to-keep-a-bear-out-of-your-house-and-what-to-do-if-1849365939)
-- [Dev.to/JS] [Docusaurus 2.0: Meta&#39;s static site generator to build beautiful documentation websites](https://dev.to/sebastienlorber/docusaurus-20-metas-static-site-generator-to-build-beautiful-documentation-websites-4534)
 - [Lifehacker] [How to Prepare Your Kid to Fly Alone for the First Time](https://lifehacker.com/how-to-prepare-your-kid-to-fly-alone-for-the-first-time-1849365899)
 - [Lifehacker] [Does Supplemental Oxygen Really Help You Recover From a Workout Faster?](https://lifehacker.com/does-supplemental-oxygen-really-help-you-recover-from-a-1849364885)
 - [Lifehacker] [How to Know When Apple Arcade Is Dropping Games](https://lifehacker.com/how-to-know-when-apple-arcade-is-dropping-games-1849364783)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Canned Vegetables Taste Luxurious](https://lifehacker.com/how-to-make-canned-vegetables-taste-luxurious-1849361325)
 - [Lifehacker] [What Pandemic Purchase Do You Now Hate the Most?](https://lifehacker.com/what-pandemic-purchase-do-you-now-hate-the-most-1849359879)
 - [Lifehacker] [What If You Made Oatmeal in Your Rice Cooker?](https://lifehacker.com/what-if-you-made-oatmeal-in-your-rice-cooker-1849360455)
-- [Lifehacker] [A Bunch of Oat Milks and Coffee Drinks Are Part of a Major Recall](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
