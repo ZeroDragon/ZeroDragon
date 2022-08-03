@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Listen Up! To Clicks and Submit](https://dev.to/sheenasany/listen-up-to-clicks-and-submit-50hc)
 - [Dev.to/JS] [Search Bar Functionality Using State In React](https://dev.to/andreaesparza13/search-bar-functionality-using-state-in-react-25kj)
 - [Dev.to/JS] [React 18 - Uma nova maneira de usar o useState &lpar;Processamento em lote&rpar;](https://dev.to/tiagodanin/react-18-uma-nova-maneira-de-usar-o-usestate-processamento-em-lote-1ee9)
 - [Dev.to/JS] [Projeto 1 - Calculadora de média](https://dev.to/yasmindematos/projeto-1-calculadora-de-media-34op)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native&#39;s New Renderer: Fabric](https://dev.to/theadultnoble_6/react-natives-new-renderer-fabric-5898)
 - [Dev.to/JS] [A Document Revisions System in JavaScript](https://dev.to/kornatzky/a-document-revisions-system-in-javascript-1o3h)
 - [Lifehacker] [How to Get a Free or Cheap Laptop for College](https://lifehacker.com/how-to-get-a-free-or-cheap-laptop-for-college-1849361096)
-- [Dev.to/JS] [Virtual Coffee&#39;s July Monthly Challenge: Live Demo of the Progress Toward my Row Counter App](https://dev.to/rek990/virtual-coffees-july-monthly-challenge-live-demo-of-the-progress-toward-my-row-counter-app-3jd7)
 - [Lifehacker] [How to Make Canned Vegetables Taste Luxurious](https://lifehacker.com/how-to-make-canned-vegetables-taste-luxurious-1849361325)
 - [Lifehacker] [What Pandemic Purchase Do You Now Hate the Most?](https://lifehacker.com/what-pandemic-purchase-do-you-now-hate-the-most-1849359879)
 - [Lifehacker] [What If You Made Oatmeal in Your Rice Cooker?](https://lifehacker.com/what-if-you-made-oatmeal-in-your-rice-cooker-1849360455)
