@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 3 Awesome Projects Using HTML CSS JavaScript](https://dev.to/codewithsadee/top-3-awesome-projects-using-html-css-javascript-4ebp)
+- [Dev.to/JS] [Run JavaScript In VSCode](https://dev.to/codesomething/run-javascript-in-vscode-gpp)
+- [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
+- [Dev.to/JS] [Javascript CLI demystified](https://dev.to/romaintrotard/javascript-cli-demystified-4930)
+- [Dev.to/JS] [Make videos with JavaScript 3](https://dev.to/kadeesterline/make-videos-with-javascript-3-4kii)
+- [Dev.to/JS] [Add your personal website here.](https://dev.to/fadhilsaheer/add-your-personal-website-here-3k6l)
+- [Lifehacker] [Unexpected Places You Should Bring Earplugs](https://lifehacker.com/unexpected-places-you-should-bring-earplugs-1849372699)
+- [Lifehacker] [These Online Resources Will Help You Find Free College Textbooks](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
 - [Dev.to/JS] [How to make Your Own Hook](https://dev.to/developerioweb/how-to-make-your-own-hook-24co)
 - [Dev.to/JS] [How to build simple todo list with Vue.js - Part 1](https://dev.to/jakhongir/how-to-build-simple-todo-list-with-vuejs-part-1-2o6l)
 - [Lifehacker] [Why Can&#39;t I Get a Monkeypox Vaccine?](https://lifehacker.com/why-cant-i-get-a-monkeypox-vaccine-1849371721)
@@ -34,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get an Actually Good Match on a Dating App](https://lifehacker.com/how-to-get-an-actually-good-match-on-a-dating-app-1849371032)
 - [Dev.to/JS] [Javascript Tagalog - Ternary Operator](https://dev.to/mmvergara/javascript-tagalog-ternary-operator-2c0g)
 - [Dev.to/JS] [How to Make Timeline Chart &lpar;in JS&rpar;](https://dev.to/andreykh1985/how-to-make-timeline-chart-in-js-4023)
-- [Dev.to/JS] [Basics of Local Storage](https://dev.to/jtfinley/basics-of-local-storage-4l87)
-- [Dev.to/JS] [Ultimate Guide to Backend Developer Career Paths](https://dev.to/vectorly/ultimate-guide-to-backend-developer-career-paths-4o6a)
-- [Dev.to/JS] [props and state](https://dev.to/fikredeyas/props-and-state-5anl)
-- [Dev.to/JS] [Loop For a While: For and While Loops in JavaScript](https://dev.to/qsissler/loop-for-a-while-for-and-while-loops-in-javascript-2a30)
-- [Dev.to/JS] [Props for Beginners &lpar;react&rpar;](https://dev.to/adenaddis/props-for-beginners-react-o3c)
 - [Lifehacker] [16 Subtle Signs Something More Serious May Be Wrong With Your Health](https://lifehacker.com/16-subtle-signs-something-more-serious-may-be-wrong-wit-1849370802)
 - [Lifehacker] [Everything New in Chrome 104](https://lifehacker.com/everything-new-in-chrome-104-1849370921)
 - [Lifehacker] [Who Should Consider a Spousal IRA, According to a Financial Planner](https://lifehacker.com/who-should-consider-a-spousal-ira-according-to-a-finan-1849367523)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Actually Do Something About Broken Toes](https://lifehacker.com/you-can-actually-do-something-about-broken-toes-1849366052)
 - [Lifehacker] [How to Estimate Distance Using Just Your Thumb](https://lifehacker.com/how-to-estimate-distance-using-just-your-thumb-1849365952)
 - [Lifehacker] [Three Great Alternatives to Airbnb](https://lifehacker.com/three-great-alternatives-to-airbnb-1849365576)
-- [Lifehacker] [How to Keep a Bear Out of Your House &lpar;and What to Do If One Gets In&rpar;](https://lifehacker.com/how-to-keep-a-bear-out-of-your-house-and-what-to-do-if-1849365939)
-- [Lifehacker] [How to Prepare Your Kid to Fly Alone for the First Time](https://lifehacker.com/how-to-prepare-your-kid-to-fly-alone-for-the-first-time-1849365899)
-- [Lifehacker] [Does Supplemental Oxygen Really Help You Recover From a Workout Faster?](https://lifehacker.com/does-supplemental-oxygen-really-help-you-recover-from-a-1849364885)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
