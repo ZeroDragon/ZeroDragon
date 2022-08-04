@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [sdfsdf](https://dev.to/deathmarcus/sdfsdf-co2)
 - [Dev.to/JS] [Pass By Reference Vs Pass By Value](https://dev.to/yohanesss/pass-by-reference-vs-pass-by-value-2b81)
 - [Dev.to/JS] [Event Listeners, The Submit Event, Grabbing and Creating Elements to Manipulate the DOM](https://dev.to/bear2927/event-listeners-grabbing-and-creating-elements-to-manipulate-the-dom-b8o)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make Your Own Hook](https://dev.to/developerioweb/how-to-make-your-own-hook-24co)
 - [Dev.to/JS] [How to build simple todo list with Vue.js - Part 1](https://dev.to/jakhongir/how-to-build-simple-todo-list-with-vuejs-part-1-2o6l)
 - [Lifehacker] [Why Can&#39;t I Get a Monkeypox Vaccine?](https://lifehacker.com/why-cant-i-get-a-monkeypox-vaccine-1849371721)
-- [Dev.to/JS] [Are You Struggling with Web Development ?](https://dev.to/chemwenochelsea/are-you-struggling-with-web-development--og1)
 - [Lifehacker] [Cereal Milk Pie Has Entered the Chat](https://lifehacker.com/feed-your-inner-child-this-cereal-milk-cream-pie-1849372049)
 - [Lifehacker] [The Most Important Phrases You Should Learn Before Traveling Abroad](https://lifehacker.com/the-most-important-phrases-you-should-learn-before-trav-1849372016)
 - [Lifehacker] [How to Get an Actually Good Match on a Dating App](https://lifehacker.com/how-to-get-an-actually-good-match-on-a-dating-app-1849371032)
