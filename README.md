@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[dagger-demo] Confetti Button &lpar;inline&rpar;](https://dev.to/dagger8224/dagger-demo-confetti-button-inline-2b2f)
+- [Dev.to/JS] [[dagger-demo] to do list](https://dev.to/dagger8224/dagger-demo-to-do-list-325c)
+- [Dev.to/JS] [Code Smell 155 - Multiple Promises](https://dev.to/mcsee/code-smell-155-multiple-promises-5ed4)
 - [Dev.to/JS] [Building a shopping cart in React with Redux Toolkit and Redux Persist](https://dev.to/asayerio_techblog/building-a-shopping-cart-in-react-with-redux-toolkit-and-redux-persist-1gm2)
 - [Dev.to/JS] [How to Solve Palindrome Problem with 1 Line of JavaScript](https://dev.to/apmfree78/how-to-solve-palindrome-problem-with-1-line-of-javascript-4066)
 - [Dev.to/JS] [Understanding How to Access Google APIs](https://dev.to/ekqt/understanding-how-to-access-google-apis-1593)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build an automated ecommerce app with WhatsApp Cloud API and Node.js](https://dev.to/logrocket/build-an-automated-ecommerce-app-with-whatsapp-cloud-api-and-nodejs-5g3a)
 - [Lifehacker] [You Should Slather Your Chicken in Lemon Curd](https://lifehacker.com/you-should-slather-your-chicken-in-lemon-curd-1849366360)
 - [Dev.to/JS] [Creating a Word Wheel in CSS](https://dev.to/madsstoumann/word-wheel-in-css-426n)
-- [Dev.to/JS] [Amazon EventBridge Intro | Serverless](https://dev.to/aws-builders/amazon-eventbridge-intro-serverless-m02)
 - [Lifehacker] [Eat This Ultra-Creamy Baba Ganoush Dip With Everything](https://lifehacker.com/eat-this-ultra-creamy-baba-ganoush-dip-with-everything-1849366325)
 - [Lifehacker] [You Can Actually Do Something About Broken Toes](https://lifehacker.com/you-can-actually-do-something-about-broken-toes-1849366052)
-- [Dev.to/JS] [The Best React Form Library &lpar;2022&rpar;](https://dev.to/sbmsr/the-best-react-form-library-2022-4621)
-- [Dev.to/JS] [Relax, JS `this` is damn easy.](https://dev.to/urstrulyvishwak/relax-js-this-is-damn-easy-2jml)
 - [Lifehacker] [How to Estimate Distance Using Just Your Thumb](https://lifehacker.com/how-to-estimate-distance-using-just-your-thumb-1849365952)
 - [Lifehacker] [Three Great Alternatives to Airbnb](https://lifehacker.com/three-great-alternatives-to-airbnb-1849365576)
 - [Lifehacker] [How to Keep a Bear Out of Your House &lpar;and What to Do If One Gets In&rpar;](https://lifehacker.com/how-to-keep-a-bear-out-of-your-house-and-what-to-do-if-1849365939)
