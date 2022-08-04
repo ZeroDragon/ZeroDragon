@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React JSX – JSX in React](https://dev.to/reactjsguru/react-jsx-jsx-in-react-3jp1)
+- [Dev.to/JS] [Javascript Tagalog - Temporal Dead Zone &lpar;TDZ&rpar;](https://dev.to/mmvergara/javascript-tagalog-temporal-dead-zone-tdz-3344)
 - [Dev.to/JS] [Knowing Which approach to take to Complete a Task...Keeping track of Similar Functionality](https://dev.to/tlstechtrekker/knowing-which-approach-to-take-to-complete-a-taskkeeping-track-of-similar-functionality-16oh)
 - [Dev.to/JS] [[dagger-demo] the empty entry page](https://dev.to/dagger8224/dagger-demo-the-empty-entry-page-1ga4)
 - [Dev.to/JS] [A Complete Guide to VS Code Extension Testing](https://dev.to/sourishkrout/a-complete-guide-to-vs-code-extension-testing-268p)
@@ -33,10 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 155 - Multiple Promises](https://dev.to/mcsee/code-smell-155-multiple-promises-5ed4)
 - [Dev.to/JS] [Building a shopping cart in React with Redux Toolkit and Redux Persist](https://dev.to/asayerio_techblog/building-a-shopping-cart-in-react-with-redux-toolkit-and-redux-persist-1gm2)
 - [Dev.to/JS] [How to Solve Palindrome Problem with 1 Line of JavaScript](https://dev.to/apmfree78/how-to-solve-palindrome-problem-with-1-line-of-javascript-4066)
-- [Dev.to/JS] [Understanding How to Access Google APIs](https://dev.to/ekqt/understanding-how-to-access-google-apis-1593)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
-- [Dev.to/JS] [Secure Open Source Code &amp; Create SBOMs for free in minutes with CodeSec](https://dev.to/codesec/secure-open-source-code-create-sboms-for-free-in-minutes-with-codesec-4og9)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
 - [Lifehacker] [How to Convey Sarcasm in Written Messages](https://lifehacker.com/how-to-convey-sarcasm-in-written-messages-1849366850)
 - [Lifehacker] [You Should Slather Your Chicken in Lemon Curd](https://lifehacker.com/you-should-slather-your-chicken-in-lemon-curd-1849366360)
