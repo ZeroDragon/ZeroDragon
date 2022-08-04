@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Taking a Look at Conditional Statements](https://dev.to/grantours/taking-a-look-at-conditional-statements-1ajb)
 - [Dev.to/JS] [[dagger-demo] Confetti Button &lpar;inline&rpar;](https://dev.to/dagger8224/dagger-demo-confetti-button-inline-2b2f)
 - [Dev.to/JS] [[dagger-demo] to do list](https://dev.to/dagger8224/dagger-demo-to-do-list-325c)
 - [Dev.to/JS] [Code Smell 155 - Multiple Promises](https://dev.to/mcsee/code-smell-155-multiple-promises-5ed4)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to debug Node JS Errors](https://dev.to/developerioweb/how-to-debug-node-js-errors-3j9i)
 - [Dev.to/JS] [Build an automated ecommerce app with WhatsApp Cloud API and Node.js](https://dev.to/logrocket/build-an-automated-ecommerce-app-with-whatsapp-cloud-api-and-nodejs-5g3a)
 - [Lifehacker] [You Should Slather Your Chicken in Lemon Curd](https://lifehacker.com/you-should-slather-your-chicken-in-lemon-curd-1849366360)
-- [Dev.to/JS] [Creating a Word Wheel in CSS](https://dev.to/madsstoumann/word-wheel-in-css-426n)
 - [Lifehacker] [Eat This Ultra-Creamy Baba Ganoush Dip With Everything](https://lifehacker.com/eat-this-ultra-creamy-baba-ganoush-dip-with-everything-1849366325)
 - [Lifehacker] [You Can Actually Do Something About Broken Toes](https://lifehacker.com/you-can-actually-do-something-about-broken-toes-1849366052)
 - [Lifehacker] [How to Estimate Distance Using Just Your Thumb](https://lifehacker.com/how-to-estimate-distance-using-just-your-thumb-1849365952)
