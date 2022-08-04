@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Knowing Which approach to take to Complete a Task...Keeping track of Similar Functionality](https://dev.to/tlstechtrekker/knowing-which-approach-to-take-to-complete-a-taskkeeping-track-of-similar-functionality-16oh)
 - [Dev.to/JS] [[dagger-demo] the empty entry page](https://dev.to/dagger8224/dagger-demo-the-empty-entry-page-1ga4)
 - [Dev.to/JS] [A Complete Guide to VS Code Extension Testing](https://dev.to/sourishkrout/a-complete-guide-to-vs-code-extension-testing-268p)
 - [Dev.to/JS] [Javascript Tagalog - Arrays](https://dev.to/mmvergara/javascript-tagalog-arrays-4haj)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Dev.to/JS] [Secure Open Source Code &amp; Create SBOMs for free in minutes with CodeSec](https://dev.to/codesec/secure-open-source-code-create-sboms-for-free-in-minutes-with-codesec-4og9)
-- [Dev.to/JS] [Grouping rows in Vuetify](https://dev.to/dima2306/grouping-rows-in-vuetify-js-3ia8)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
 - [Lifehacker] [How to Convey Sarcasm in Written Messages](https://lifehacker.com/how-to-convey-sarcasm-in-written-messages-1849366850)
 - [Lifehacker] [You Should Slather Your Chicken in Lemon Curd](https://lifehacker.com/you-should-slather-your-chicken-in-lemon-curd-1849366360)
