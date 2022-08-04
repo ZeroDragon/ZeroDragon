@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[dagger-demo] the empty entry page](https://dev.to/dagger8224/dagger-demo-the-empty-entry-page-1ga4)
+- [Dev.to/JS] [A Complete Guide to VS Code Extension Testing](https://dev.to/sourishkrout/a-complete-guide-to-vs-code-extension-testing-268p)
+- [Dev.to/JS] [Javascript Tagalog - Arrays](https://dev.to/mmvergara/javascript-tagalog-arrays-4haj)
 - [Dev.to/JS] [Taking a Look at Conditional Statements](https://dev.to/grantours/taking-a-look-at-conditional-statements-1ajb)
 - [Dev.to/JS] [[dagger-demo] Confetti Button &lpar;inline&rpar;](https://dev.to/dagger8224/dagger-demo-confetti-button-inline-2b2f)
 - [Dev.to/JS] [[dagger-demo] to do list](https://dev.to/dagger8224/dagger-demo-to-do-list-325c)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Secure Open Source Code &amp; Create SBOMs for free in minutes with CodeSec](https://dev.to/codesec/secure-open-source-code-create-sboms-for-free-in-minutes-with-codesec-4og9)
 - [Dev.to/JS] [Grouping rows in Vuetify](https://dev.to/dima2306/grouping-rows-in-vuetify-js-3ia8)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
-- [Dev.to/JS] [Even if the early bird tickets are out, you can still join us at DevoxxMa!](https://dev.to/essaydyoumayma/even-if-the-early-bird-tickets-are-out-you-can-still-join-us-at-devoxxma-2kp2)
 - [Lifehacker] [How to Convey Sarcasm in Written Messages](https://lifehacker.com/how-to-convey-sarcasm-in-written-messages-1849366850)
-- [Dev.to/JS] [How to debug Node JS Errors](https://dev.to/developerioweb/how-to-debug-node-js-errors-3j9i)
-- [Dev.to/JS] [Build an automated ecommerce app with WhatsApp Cloud API and Node.js](https://dev.to/logrocket/build-an-automated-ecommerce-app-with-whatsapp-cloud-api-and-nodejs-5g3a)
 - [Lifehacker] [You Should Slather Your Chicken in Lemon Curd](https://lifehacker.com/you-should-slather-your-chicken-in-lemon-curd-1849366360)
 - [Lifehacker] [Eat This Ultra-Creamy Baba Ganoush Dip With Everything](https://lifehacker.com/eat-this-ultra-creamy-baba-ganoush-dip-with-everything-1849366325)
 - [Lifehacker] [You Can Actually Do Something About Broken Toes](https://lifehacker.com/you-can-actually-do-something-about-broken-toes-1849366052)
