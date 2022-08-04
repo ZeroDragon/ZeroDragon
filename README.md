@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5️⃣ Awesome Remote Job Website For Developers 🔰 A Thread 🧵](https://dev.to/kshitij9896/5-awesome-remote-job-website-for-developers-a-thread-3pg0)
+- [Dev.to/JS] [Full Stack Project Ideas for Beginner 🔰 A Thread 🧵](https://dev.to/kshitij9896/full-stack-project-ideas-forbeginner-a-thread-2pdh)
+- [Dev.to/JS] [Best Utility libraries You Must Know 👨‍💻 A Thread 🧵](https://dev.to/kshitij9896/best-utility-libraries-you-must-know-a-thread-8jc)
+- [Dev.to/JS] [Building a To-Do List Application with Strapi and ReactJS](https://dev.to/strapi/building-a-to-do-list-application-with-strapi-and-reactjs-4aj4)
+- [Dev.to/JS] [Next.js + Playwright + GitHub Actions Boilerplate](https://dev.to/kantarci/nextjs-playwright-github-actions-boilerplate-497d)
 - [Dev.to/JS] [Build a tab component using Alpine.js](https://dev.to/michaelburrows/build-a-tab-component-using-alpinejs-5fed)
 - [Dev.to/JS] [React detect div reach top and bottom](https://dev.to/amin_deraiya/react-detect-div-reach-top-and-bottom-1fjp)
 - [Dev.to/JS] [Fluxactive complete {Canada 2022 Reviews}: No.1 Prostate Health Support Formula!](https://dev.to/fluxactiveget/fluxactive-complete-canada-2022-reviews-no1-prostate-health-support-formula-4jo1)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Change your old methods for writing a JavaScript Code - Shorthand&#39;s for JavaScript Code](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-3poa)
 - [Dev.to/JS] [How to install React?](https://dev.to/mshahryiar/how-to-install-react-15a9)
 - [Dev.to/JS] [React JSX – JSX in React](https://dev.to/reactjsguru/react-jsx-jsx-in-react-3jp1)
-- [Dev.to/JS] [Javascript Tagalog - Temporal Dead Zone &lpar;TDZ&rpar;](https://dev.to/mmvergara/javascript-tagalog-temporal-dead-zone-tdz-3344)
-- [Dev.to/JS] [Knowing Which approach to take to Complete a Task...Keeping track of Similar Functionality](https://dev.to/tlstechtrekker/knowing-which-approach-to-take-to-complete-a-taskkeeping-track-of-similar-functionality-16oh)
-- [Dev.to/JS] [[dagger-demo] the empty entry page](https://dev.to/dagger8224/dagger-demo-the-empty-entry-page-1ga4)
-- [Dev.to/JS] [A Complete Guide to VS Code Extension Testing](https://dev.to/sourishkrout/a-complete-guide-to-vs-code-extension-testing-268p)
-- [Dev.to/JS] [Javascript Tagalog - Arrays](https://dev.to/mmvergara/javascript-tagalog-arrays-4haj)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
