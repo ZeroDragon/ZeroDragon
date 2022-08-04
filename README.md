@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [.](https://dev.to/kkumargcc/-1bn0)
+- [Dev.to/JS] [How We Test Semi Design React Component](https://dev.to/semidesign/how-we-test-semi-design-react-component-55a0)
+- [Dev.to/JS] [Top 10 Software House in Faisalabad](https://dev.to/ahmadasghar/top-10-software-house-in-faisalabad-ak0)
+- [Dev.to/JS] [IEEE Projects For ECE In Embedded Systems](https://dev.to/arunprakash142/ieee-projects-for-ece-in-embedded-systems-5918)
 - [Dev.to/JS] [Build these projects to be an Advanced Web Developer 🚀](https://dev.to/coditdoc/build-these-projects-to-be-an-advanced-web-developer-5fl5)
 - [Dev.to/JS] [How we build AFFiNE with Typescript/React/Rust](https://dev.to/yipei/how-we-build-affine-with-typescriptreactrust-5dcg)
 - [Dev.to/JS] [How to get cross-origin iframe details through a chrome extension?](https://dev.to/demodev/how-to-get-cross-origin-iframe-details-through-a-chrome-extension-2p0a)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Truly Keto Gummies - Fat Loss Supplement, Price, Uses &amp; Results?](https://dev.to/trulyketoprice/truly-keto-gummies-fat-loss-supplement-price-uses-results-27bn)
 - [Dev.to/JS] [Advanced Typescript Series: Generics](https://dev.to/ritikbanger/advanced-typescript-series-generics-2444)
 - [Dev.to/JS] [Tidying Up the Final Product](https://dev.to/ivanleomk/tidying-up-the-final-product-334m)
-- [Dev.to/JS] [5️⃣ Awesome Remote Job Website For Developers 🔰 A Thread 🧵](https://dev.to/kshitij9896/5-awesome-remote-job-website-for-developers-a-thread-3pg0)
-- [Dev.to/JS] [Full Stack Project Ideas for Beginner 🔰 A Thread 🧵](https://dev.to/kshitij9896/full-stack-project-ideas-forbeginner-a-thread-2pdh)
-- [Dev.to/JS] [Best Utility libraries You Must Know 👨‍💻 A Thread 🧵](https://dev.to/kshitij9896/best-utility-libraries-you-must-know-a-thread-8jc)
-- [Dev.to/JS] [Building a To-Do List Application with Strapi and ReactJS](https://dev.to/strapi/building-a-to-do-list-application-with-strapi-and-reactjs-4aj4)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
