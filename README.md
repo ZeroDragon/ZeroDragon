@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Issues with useEffect](https://dev.to/rajanlagah/issues-with-useeffect-499n)
+- [Lifehacker] [The Most Important Phrases You Should Learn Before Traveling Abroad](https://lifehacker.com/the-most-important-phrases-you-should-learn-before-trav-1849372016)
 - [Lifehacker] [How to Get an Actually Good Match on a Dating App](https://lifehacker.com/how-to-get-an-actually-good-match-on-a-dating-app-1849371032)
 - [Dev.to/JS] [Javascript Tagalog - Ternary Operator](https://dev.to/mmvergara/javascript-tagalog-ternary-operator-2c0g)
 - [Dev.to/JS] [How to Make Timeline Chart &lpar;in JS&rpar;](https://dev.to/andreykh1985/how-to-make-timeline-chart-in-js-4023)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elegant VS Code Extensions [part 2]](https://dev.to/ayoub3bidi/elegant-vs-code-extensions-part-2-4iaa)
 - [Dev.to/JS] [Some deep diving in JS concepts](https://dev.to/zabdeldjallil/some-deep-diving-in-js-concepts-12nl)
 - [Lifehacker] [Who Should Consider a Spousal IRA, According to a Financial Planner](https://lifehacker.com/who-should-consider-a-spousal-ira-according-to-a-finan-1849367523)
-- [Dev.to/JS] [Modular Frontends with Component Driven Design](https://dev.to/thetombomb/modular-frontends-with-component-driven-design-5e84)
 - [Lifehacker] [8 Short Podcasts to Start Your Day Off Right](https://lifehacker.com/8-short-podcasts-to-start-your-day-off-right-1849370734)
 - [Lifehacker] [It&#39;s Past Time to Normalize Naps](https://lifehacker.com/its-past-time-to-normalize-naps-1849369088)
 - [Lifehacker] [A Countertop Dishwasher Is Absolutely Worth It](https://lifehacker.com/a-countertop-dishwasher-is-absolutely-worth-it-1849368569)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Does Supplemental Oxygen Really Help You Recover From a Workout Faster?](https://lifehacker.com/does-supplemental-oxygen-really-help-you-recover-from-a-1849364885)
 - [Lifehacker] [How to Know When Apple Arcade Is Dropping Games](https://lifehacker.com/how-to-know-when-apple-arcade-is-dropping-games-1849364783)
 - [Lifehacker] [How Much Fighting Is Too Much Fighting in a Relationship?](https://lifehacker.com/how-much-fighting-is-too-much-fighting-in-a-relationshi-1849364671)
-- [Lifehacker] [22 Dreamy Thrillers to Watch After &#39;The Sandman&#39;](https://lifehacker.com/22-dreamy-thrillers-to-watch-after-the-sandman-1849343848)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
