@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Next Hot Dog Deserves a Bánh Mì Treatment](https://lifehacker.com/your-next-hot-dog-deserves-a-banh-mi-treatment-1849367306)
+- [Dev.to/JS] [Top Resources To Learn Web3/Blockchain Dev 👨‍💻](https://dev.to/kshitij9896/top-resources-to-learnweb3blockchain-dev-g4m)
+- [Dev.to/JS] [Array Rotation in JS](https://dev.to/shubhamtiwari909/array-rotation-in-js-8jc)
+- [Dev.to/JS] [Create button using Javascript](https://dev.to/abdurrehman01994/create-button-using-javascript-3dj3)
+- [Dev.to/JS] [Meteor backend toolbox for better code and fast results](https://dev.to/jankapunkt/meteor-backend-toolbox-for-better-code-and-fast-results-3nng)
+- [Dev.to/JS] [Extending Global Event System with Typescript Generics](https://dev.to/nicksettler/extending-global-event-system-with-typescript-generics-14f0)
 - [Dev.to/JS] [.](https://dev.to/kkumargcc/-1bn0)
 - [Dev.to/JS] [How We Test Semi Design React Component](https://dev.to/semidesign/how-we-test-semi-design-react-component-55a0)
 - [Dev.to/JS] [Top 10 Software House in Faisalabad](https://dev.to/ahmadasghar/top-10-software-house-in-faisalabad-ak0)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build these projects to be an Advanced Web Developer 🚀](https://dev.to/coditdoc/build-these-projects-to-be-an-advanced-web-developer-5fl5)
 - [Dev.to/JS] [How we build AFFiNE with Typescript/React/Rust](https://dev.to/yipei/how-we-build-affine-with-typescriptreactrust-5dcg)
 - [Dev.to/JS] [How to get cross-origin iframe details through a chrome extension?](https://dev.to/demodev/how-to-get-cross-origin-iframe-details-through-a-chrome-extension-2p0a)
-- [Dev.to/JS] [What Are Source Maps and How to Properly Use Them](https://dev.to/inspector/what-are-source-maps-and-how-to-properly-use-them-18h4)
-- [Dev.to/JS] [7 Key Features To Build On-Demand Medicine Delivery App:](https://dev.to/jonarya10/7-key-features-to-build-on-demand-medicine-delivery-app-568p)
-- [Dev.to/JS] [Truly Keto Gummies - Fat Loss Supplement, Price, Uses &amp; Results?](https://dev.to/trulyketoprice/truly-keto-gummies-fat-loss-supplement-price-uses-results-27bn)
-- [Dev.to/JS] [Advanced Typescript Series: Generics](https://dev.to/ritikbanger/advanced-typescript-series-generics-2444)
-- [Dev.to/JS] [Tidying Up the Final Product](https://dev.to/ivanleomk/tidying-up-the-final-product-334m)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Free or Cheap Laptop for College](https://lifehacker.com/how-to-get-a-free-or-cheap-laptop-for-college-1849361096)
 - [Lifehacker] [How to Make Canned Vegetables Taste Luxurious](https://lifehacker.com/how-to-make-canned-vegetables-taste-luxurious-1849361325)
 - [Lifehacker] [What Pandemic Purchase Do You Now Hate the Most?](https://lifehacker.com/what-pandemic-purchase-do-you-now-hate-the-most-1849359879)
-- [Lifehacker] [What If You Made Oatmeal in Your Rice Cooker?](https://lifehacker.com/what-if-you-made-oatmeal-in-your-rice-cooker-1849360455)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
