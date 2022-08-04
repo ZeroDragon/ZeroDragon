@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Planning to list the fastest frameworks &lpar;JS&rpar; for web development.](https://dev.to/jigar_online/planning-to-list-the-fastest-frameworks-js-for-web-development-3f4k)
+- [Dev.to/JS] [Change your old methods for writing a JavaScript Code - Shorthand&#39;s for JavaScript Code](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-3poa)
+- [Dev.to/JS] [How to install React?](https://dev.to/mshahryiar/how-to-install-react-15a9)
 - [Dev.to/JS] [React JSX – JSX in React](https://dev.to/reactjsguru/react-jsx-jsx-in-react-3jp1)
 - [Dev.to/JS] [Javascript Tagalog - Temporal Dead Zone &lpar;TDZ&rpar;](https://dev.to/mmvergara/javascript-tagalog-temporal-dead-zone-tdz-3344)
 - [Dev.to/JS] [Knowing Which approach to take to Complete a Task...Keeping track of Similar Functionality](https://dev.to/tlstechtrekker/knowing-which-approach-to-take-to-complete-a-taskkeeping-track-of-similar-functionality-16oh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Taking a Look at Conditional Statements](https://dev.to/grantours/taking-a-look-at-conditional-statements-1ajb)
 - [Dev.to/JS] [[dagger-demo] Confetti Button &lpar;inline&rpar;](https://dev.to/dagger8224/dagger-demo-confetti-button-inline-2b2f)
 - [Dev.to/JS] [[dagger-demo] to do list](https://dev.to/dagger8224/dagger-demo-to-do-list-325c)
-- [Dev.to/JS] [Code Smell 155 - Multiple Promises](https://dev.to/mcsee/code-smell-155-multiple-promises-5ed4)
-- [Dev.to/JS] [Building a shopping cart in React with Redux Toolkit and Redux Persist](https://dev.to/asayerio_techblog/building-a-shopping-cart-in-react-with-redux-toolkit-and-redux-persist-1gm2)
-- [Dev.to/JS] [How to Solve Palindrome Problem with 1 Line of JavaScript](https://dev.to/apmfree78/how-to-solve-palindrome-problem-with-1-line-of-javascript-4066)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
