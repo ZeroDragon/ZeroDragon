@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
+- [Dev.to/JS] [Compression for AWS HTTP APIs](https://dev.to/mxro/compression-for-aws-http-apis-3alm)
+- [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
+- [Dev.to/JS] [AWS API Gateway Input/Output Mapping | Part 1](https://dev.to/shakeel0581/aws-api-gateway-inputoutput-mapping-part-1-4m7m)
 - [Dev.to/JS] [Top 3 Awesome Projects Using HTML CSS JavaScript](https://dev.to/codewithsadee/top-3-awesome-projects-using-html-css-javascript-4ebp)
 - [Dev.to/JS] [Run JavaScript In VSCode](https://dev.to/codesomething/run-javascript-in-vscode-gpp)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Issues with useEffect](https://dev.to/rajanlagah/issues-with-useeffect-499n)
 - [Lifehacker] [The Most Important Phrases You Should Learn Before Traveling Abroad](https://lifehacker.com/the-most-important-phrases-you-should-learn-before-trav-1849372016)
 - [Lifehacker] [How to Get an Actually Good Match on a Dating App](https://lifehacker.com/how-to-get-an-actually-good-match-on-a-dating-app-1849371032)
-- [Dev.to/JS] [Javascript Tagalog - Ternary Operator](https://dev.to/mmvergara/javascript-tagalog-ternary-operator-2c0g)
-- [Dev.to/JS] [How to Make Timeline Chart &lpar;in JS&rpar;](https://dev.to/andreykh1985/how-to-make-timeline-chart-in-js-4023)
 - [Lifehacker] [16 Subtle Signs Something More Serious May Be Wrong With Your Health](https://lifehacker.com/16-subtle-signs-something-more-serious-may-be-wrong-wit-1849370802)
 - [Lifehacker] [Everything New in Chrome 104](https://lifehacker.com/everything-new-in-chrome-104-1849370921)
 - [Lifehacker] [Who Should Consider a Spousal IRA, According to a Financial Planner](https://lifehacker.com/who-should-consider-a-spousal-ira-according-to-a-finan-1849367523)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Slather Your Chicken in Lemon Curd](https://lifehacker.com/you-should-slather-your-chicken-in-lemon-curd-1849366360)
 - [Lifehacker] [Eat This Ultra-Creamy Baba Ganoush Dip With Everything](https://lifehacker.com/eat-this-ultra-creamy-baba-ganoush-dip-with-everything-1849366325)
 - [Lifehacker] [You Can Actually Do Something About Broken Toes](https://lifehacker.com/you-can-actually-do-something-about-broken-toes-1849366052)
-- [Lifehacker] [How to Estimate Distance Using Just Your Thumb](https://lifehacker.com/how-to-estimate-distance-using-just-your-thumb-1849365952)
-- [Lifehacker] [Three Great Alternatives to Airbnb](https://lifehacker.com/three-great-alternatives-to-airbnb-1849365576)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
