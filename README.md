@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Who Should Consider a Spousal IRA, According to a Financial Planner](https://lifehacker.com/who-should-consider-a-spousal-ira-according-to-a-finan-1849367523)
+- [Dev.to/JS] [Thoughts on the software supply chain](https://dev.to/volker_schukai/thoughts-on-the-software-supply-chain-3kj3)
+- [Dev.to/JS] [Get exactly object typeof in JavaScript/JS](https://dev.to/raselmahmud22/get-exactly-object-typeof-in-javascriptjs-469p)
+- [Dev.to/JS] [Configuring Gofiber API to access session or cookies from JavaScript Side](https://dev.to/ksckaan1/configuring-gofiber-api-to-access-session-or-cookies-from-javascript-side-16jk)
+- [Lifehacker] [8 Short Podcasts to Start Your Day Off Right](https://lifehacker.com/8-short-podcasts-to-start-your-day-off-right-1849370734)
+- [Lifehacker] [It&#39;s Past Time to Normalize Naps](https://lifehacker.com/its-past-time-to-normalize-naps-1849369088)
+- [Dev.to/JS] [How to create a custom cursor with React and Framer-motion](https://dev.to/damkols/how-to-create-a-custom-cursor-with-react-and-framer-motion-1i08)
 - [Dev.to/JS] [Getting and setting headers in Node.js HTTP server](https://dev.to/nonunicorn/getting-and-setting-headers-in-nodejs-http-server-3nl7)
 - [Dev.to/JS] [I created a web server 👨‍💻](https://dev.to/jessecrypted/i-created-a-web-server-4dc0)
 - [Dev.to/JS] [3 code pieces to work with file path in Node.js](https://dev.to/nonunicorn/3-code-pieces-to-work-with-file-path-in-nodejs-376o)
@@ -33,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by in](https://dev.to/kkumargcc/there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-in-2jmk)
 - [Dev.to/JS] [A Quick Introduction to JavaScript Prototypal Inheritance](https://dev.to/nazifbara/a-quick-introduction-to-javascript-prototypal-inheritance-3d4i)
 - [Dev.to/JS] [How to Build a Responsive App Landing Page Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-responsive-app-landing-page-using-html-css-javascript-19fg)
-- [Dev.to/JS] [Promises and Events: Some Pitfalls and Workarounds](https://dev.to/somedood/promises-and-events-some-pitfalls-and-workarounds-elp)
-- [Dev.to/JS] [I hate API development &quot;as an indie dev&quot;](https://dev.to/developerbishwas/i-hate-api-development-as-an-indie-dev-1463)
-- [Dev.to/JS] [Medusa v1.3.5: Introducing the Sales Channel API](https://dev.to/medusajs/medusa-v135-introducing-the-sales-channel-api-28o4)
 - [Lifehacker] [These Apps Will Lull You Right to Sleep](https://lifehacker.com/these-apps-will-lull-you-right-to-sleep-1849366962)
-- [Dev.to/JS] [20 GitHub Repositories to Become a React Master](https://dev.to/martinageradams/20-github-repositories-to-become-a-react-master-opl)
 - [Lifehacker] [Your Next Hot Dog Deserves a Bánh Mì Treatment](https://lifehacker.com/your-next-hot-dog-deserves-a-banh-mi-treatment-1849367306)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Once Normal Baby Names That Pop Culture Basically Ruined](https://lifehacker.com/12-once-normal-baby-names-that-pop-culture-basically-ru-1849363378)
 - [Lifehacker] [Make Dirty Eggs With Olive Juice](https://lifehacker.com/make-dirty-eggs-with-olive-juice-1849362078)
 - [Lifehacker] [How to Teach Your Kids the Difference Between Wants and Needs](https://lifehacker.com/how-to-teach-your-kids-the-difference-between-wants-and-1849360263)
-- [Lifehacker] [How to Apologize When You&#39;re Not Sorry](https://lifehacker.com/how-to-apologize-when-youre-not-sorry-1849361709)
-- [Lifehacker] [You Should Play &#39;Xenoblade Chronicles 3&#39; in First-Person](https://lifehacker.com/you-should-play-xenoblade-chronicles-3-in-first-person-1849361742)
-- [Lifehacker] [How Easy Is It to Catch Monkeypox?](https://lifehacker.com/how-easy-is-it-to-catch-monkeypox-1849361585)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
