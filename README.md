@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a tab component using Alpine.js](https://dev.to/michaelburrows/build-a-tab-component-using-alpinejs-5fed)
+- [Dev.to/JS] [React detect div reach top and bottom](https://dev.to/amin_deraiya/react-detect-div-reach-top-and-bottom-1fjp)
 - [Dev.to/JS] [Fluxactive complete {Canada 2022 Reviews}: No.1 Prostate Health Support Formula!](https://dev.to/fluxactiveget/fluxactive-complete-canada-2022-reviews-no1-prostate-health-support-formula-4jo1)
 - [Dev.to/JS] [Planning to list the fastest frameworks &lpar;JS&rpar; for web development.](https://dev.to/jigar_online/planning-to-list-the-fastest-frameworks-js-for-web-development-3f4k)
 - [Dev.to/JS] [Change your old methods for writing a JavaScript Code - Shorthand&#39;s for JavaScript Code](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-3poa)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[dagger-demo] the empty entry page](https://dev.to/dagger8224/dagger-demo-the-empty-entry-page-1ga4)
 - [Dev.to/JS] [A Complete Guide to VS Code Extension Testing](https://dev.to/sourishkrout/a-complete-guide-to-vs-code-extension-testing-268p)
 - [Dev.to/JS] [Javascript Tagalog - Arrays](https://dev.to/mmvergara/javascript-tagalog-arrays-4haj)
-- [Dev.to/JS] [Taking a Look at Conditional Statements](https://dev.to/grantours/taking-a-look-at-conditional-statements-1ajb)
-- [Dev.to/JS] [[dagger-demo] Confetti Button &lpar;inline&rpar;](https://dev.to/dagger8224/dagger-demo-confetti-button-inline-2b2f)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
