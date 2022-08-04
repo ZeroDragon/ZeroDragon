@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript vs. JavaScript](https://dev.to/iarchitsharma/typescript-vs-javascript-3i8d)
+- [Dev.to/JS] [Search and filter data using React Hooks and a headless CMS](https://dev.to/naira_gezhoyan/search-and-filter-data-using-react-hooks-and-a-headless-cms-310o)
+- [Lifehacker] [Everything New in Chrome 104](https://lifehacker.com/everything-new-in-chrome-104-1849370921)
+- [Dev.to/JS] [Elegant VS Code Extensions [part 2]](https://dev.to/ayoub3bidi/elegant-vs-code-extensions-part-2-4iaa)
+- [Dev.to/JS] [Some deep diving in JS concepts](https://dev.to/zabdeldjallil/some-deep-diving-in-js-concepts-12nl)
 - [Lifehacker] [Who Should Consider a Spousal IRA, According to a Financial Planner](https://lifehacker.com/who-should-consider-a-spousal-ira-according-to-a-finan-1849367523)
+- [Dev.to/JS] [Modular Frontends with Component Driven Design](https://dev.to/thetombomb/modular-frontends-with-component-driven-design-5e84)
 - [Dev.to/JS] [Thoughts on the software supply chain](https://dev.to/volker_schukai/thoughts-on-the-software-supply-chain-3kj3)
 - [Dev.to/JS] [Get exactly object typeof in JavaScript/JS](https://dev.to/raselmahmud22/get-exactly-object-typeof-in-javascriptjs-469p)
 - [Dev.to/JS] [Configuring Gofiber API to access session or cookies from JavaScript Side](https://dev.to/ksckaan1/configuring-gofiber-api-to-access-session-or-cookies-from-javascript-side-16jk)
@@ -34,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created a web server 👨‍💻](https://dev.to/jessecrypted/i-created-a-web-server-4dc0)
 - [Dev.to/JS] [3 code pieces to work with file path in Node.js](https://dev.to/nonunicorn/3-code-pieces-to-work-with-file-path-in-nodejs-376o)
 - [Lifehacker] [A Countertop Dishwasher Is Absolutely Worth It](https://lifehacker.com/a-countertop-dishwasher-is-absolutely-worth-it-1849368569)
-- [Dev.to/JS] [MEAN Stack Implementation on an AWS EC2 instance](https://dev.to/mannyuncharted/mean-stack-implementation-on-an-aws-ec2-instance-4gec)
-- [Dev.to/JS] [Azure Text To Speech with Javascript](https://dev.to/nuduja/azure-text-to-speech-with-javascript-259)
 - [Lifehacker] [What People in the World&#39;s Hottest Countries Do to Stay Cool](https://lifehacker.com/what-people-in-the-worlds-hottest-countries-do-to-stay-1849367441)
-- [Dev.to/JS] [There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by in](https://dev.to/kkumargcc/there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-in-2jmk)
-- [Dev.to/JS] [A Quick Introduction to JavaScript Prototypal Inheritance](https://dev.to/nazifbara/a-quick-introduction-to-javascript-prototypal-inheritance-3d4i)
-- [Dev.to/JS] [How to Build a Responsive App Landing Page Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-responsive-app-landing-page-using-html-css-javascript-19fg)
 - [Lifehacker] [These Apps Will Lull You Right to Sleep](https://lifehacker.com/these-apps-will-lull-you-right-to-sleep-1849366962)
 - [Lifehacker] [Your Next Hot Dog Deserves a Bánh Mì Treatment](https://lifehacker.com/your-next-hot-dog-deserves-a-banh-mi-treatment-1849367306)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [22 Dreamy Thrillers to Watch After &#39;The Sandman&#39;](https://lifehacker.com/22-dreamy-thrillers-to-watch-after-the-sandman-1849343848)
 - [Lifehacker] [12 Once Normal Baby Names That Pop Culture Basically Ruined](https://lifehacker.com/12-once-normal-baby-names-that-pop-culture-basically-ru-1849363378)
 - [Lifehacker] [Make Dirty Eggs With Olive Juice](https://lifehacker.com/make-dirty-eggs-with-olive-juice-1849362078)
-- [Lifehacker] [How to Teach Your Kids the Difference Between Wants and Needs](https://lifehacker.com/how-to-teach-your-kids-the-difference-between-wants-and-1849360263)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
