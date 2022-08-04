@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fluxactive complete {Canada 2022 Reviews}: No.1 Prostate Health Support Formula!](https://dev.to/fluxactiveget/fluxactive-complete-canada-2022-reviews-no1-prostate-health-support-formula-4jo1)
 - [Dev.to/JS] [Planning to list the fastest frameworks &lpar;JS&rpar; for web development.](https://dev.to/jigar_online/planning-to-list-the-fastest-frameworks-js-for-web-development-3f4k)
 - [Dev.to/JS] [Change your old methods for writing a JavaScript Code - Shorthand&#39;s for JavaScript Code](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-3poa)
 - [Dev.to/JS] [How to install React?](https://dev.to/mshahryiar/how-to-install-react-15a9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Tagalog - Arrays](https://dev.to/mmvergara/javascript-tagalog-arrays-4haj)
 - [Dev.to/JS] [Taking a Look at Conditional Statements](https://dev.to/grantours/taking-a-look-at-conditional-statements-1ajb)
 - [Dev.to/JS] [[dagger-demo] Confetti Button &lpar;inline&rpar;](https://dev.to/dagger8224/dagger-demo-confetti-button-inline-2b2f)
-- [Dev.to/JS] [[dagger-demo] to do list](https://dev.to/dagger8224/dagger-demo-to-do-list-325c)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
