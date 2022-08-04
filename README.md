@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build these projects to be an Advanced Web Developer 🚀](https://dev.to/coditdoc/build-these-projects-to-be-an-advanced-web-developer-5fl5)
+- [Dev.to/JS] [How we build AFFiNE with Typescript/React/Rust](https://dev.to/yipei/how-we-build-affine-with-typescriptreactrust-5dcg)
 - [Dev.to/JS] [How to get cross-origin iframe details through a chrome extension?](https://dev.to/demodev/how-to-get-cross-origin-iframe-details-through-a-chrome-extension-2p0a)
 - [Dev.to/JS] [What Are Source Maps and How to Properly Use Them](https://dev.to/inspector/what-are-source-maps-and-how-to-properly-use-them-18h4)
 - [Dev.to/JS] [7 Key Features To Build On-Demand Medicine Delivery App:](https://dev.to/jonarya10/7-key-features-to-build-on-demand-medicine-delivery-app-568p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full Stack Project Ideas for Beginner 🔰 A Thread 🧵](https://dev.to/kshitij9896/full-stack-project-ideas-forbeginner-a-thread-2pdh)
 - [Dev.to/JS] [Best Utility libraries You Must Know 👨‍💻 A Thread 🧵](https://dev.to/kshitij9896/best-utility-libraries-you-must-know-a-thread-8jc)
 - [Dev.to/JS] [Building a To-Do List Application with Strapi and ReactJS](https://dev.to/strapi/building-a-to-do-list-application-with-strapi-and-reactjs-4aj4)
-- [Dev.to/JS] [Next.js + Playwright + GitHub Actions Boilerplate](https://dev.to/kantarci/nextjs-playwright-github-actions-boilerplate-497d)
-- [Dev.to/JS] [Build a tab component using Alpine.js](https://dev.to/michaelburrows/build-a-tab-component-using-alpinejs-5fed)
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
