@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Tagalog - &quot;Const&quot; Variable Declaration](https://dev.to/mmvergara/javascript-tagalog-const-variable-declaration-218m)
+- [Dev.to/JS] [Javascript Tagalog - &quot; Let &quot; Variable Declaration](https://dev.to/mmvergara/javascript-tagalog-let-variable-declaration-2l5)
 - [Dev.to/JS] [DEV-To Clone](https://dev.to/palmerosdev/dev-to-clone-574i)
 - [Dev.to/JS] [What I wish I knew about submit and click events.](https://dev.to/lizrhodesss/what-i-wish-i-knew-about-submit-and-click-events-59dp)
 - [Dev.to/JS] [Adding Shimmer Effects to React Native apps](https://dev.to/asayerio_techblog/adding-shimmer-effects-to-react-native-apps-4f8)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Dev.to/JS] [AWS API Gateway Input/Output Mapping | Part 1](https://dev.to/shakeel0581/aws-api-gateway-inputoutput-mapping-part-1-4m7m)
 - [Dev.to/JS] [Top 3 Awesome Projects Using HTML CSS JavaScript](https://dev.to/codewithsadee/top-3-awesome-projects-using-html-css-javascript-4ebp)
-- [Dev.to/JS] [Run JavaScript In VSCode](https://dev.to/codesomething/run-javascript-in-vscode-gpp)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
-- [Dev.to/JS] [Javascript CLI demystified](https://dev.to/romaintrotard/javascript-cli-demystified-4930)
 - [Lifehacker] [Unexpected Places You Should Bring Earplugs](https://lifehacker.com/unexpected-places-you-should-bring-earplugs-1849372699)
 - [Lifehacker] [These Online Resources Will Help You Find Free College Textbooks](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
 - [Lifehacker] [Why Can&#39;t I Get a Monkeypox Vaccine?](https://lifehacker.com/why-cant-i-get-a-monkeypox-vaccine-1849371721)
