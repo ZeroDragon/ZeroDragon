@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy SvelteKit with node adapter on linux sever.](https://dev.to/theether0/deploy-sveltekit-with-node-adapter-on-linux-sever-n)
+- [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
+- [Lifehacker] [How to Order a Drink at a Bar Without Sounding Like an Idiot](https://lifehacker.com/how-to-order-a-drink-at-a-bar-without-sounding-like-an-1849377231)
 - [Dev.to/JS] [Understanding Array Methods will improve your Code](https://dev.to/zfarrell0507/understanding-array-methods-will-improve-your-code-1ahp)
 - [Dev.to/JS] [Toggle Button](https://dev.to/jakedapper/toggle-button-5ge1)
 - [Dev.to/JS] [How to Use Javascript to Add Review Stars](https://dev.to/chrisbaum89/how-to-use-javascript-to-add-review-stars-39hg)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Thai Chicken Skewers Ever](https://lifehacker.com/the-easiest-thai-chicken-skewers-ever-1849376133)
 - [Dev.to/JS] [Building a dark-mode theme with CSS variables](https://dev.to/pfernandom/building-a-dark-mode-theme-with-css-variables-ein)
 - [Lifehacker] [How to Navigate Baggage Claim Like a Pro](https://lifehacker.com/how-to-navigate-baggage-claim-like-a-pro-1849376710)
-- [Dev.to/JS] [How to prevent nvm from slowing down your shell](https://dev.to/mazharzandsalimi/how-to-prevent-nvm-from-slowing-down-your-shell-5ba)
 - [Lifehacker] [These Are the Pandemic Purchases Lifehacker Readers Regret the Most](https://lifehacker.com/these-are-the-pandemic-purchases-lifehacker-readers-reg-1849372997)
 - [Lifehacker] [The Best Budgeting Apps Based on What Kind of Spender You Are](https://lifehacker.com/the-best-budgeting-apps-based-on-what-kind-of-spender-y-1849375309)
 - [Lifehacker] [What to Do When Your Child Is More Than Just a ‘Picky’ Eater](https://lifehacker.com/what-to-do-when-your-child-is-more-than-just-a-picky-1849374352)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 Subtle Signs Something More Serious May Be Wrong With Your Health](https://lifehacker.com/16-subtle-signs-something-more-serious-may-be-wrong-wit-1849370802)
 - [Lifehacker] [Everything New in Chrome 104](https://lifehacker.com/everything-new-in-chrome-104-1849370921)
 - [Lifehacker] [Who Should Consider a Spousal IRA, According to a Financial Planner](https://lifehacker.com/who-should-consider-a-spousal-ira-according-to-a-finan-1849367523)
-- [Lifehacker] [8 Short Podcasts to Start Your Day Off Right](https://lifehacker.com/8-short-podcasts-to-start-your-day-off-right-1849370734)
-- [Lifehacker] [It&#39;s Past Time to Normalize Naps](https://lifehacker.com/its-past-time-to-normalize-naps-1849369088)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
