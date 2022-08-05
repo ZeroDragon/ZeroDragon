@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why People Love React?](https://dev.to/olaoyesunday/why-people-love-react-2gel)
+- [Dev.to/JS] [📚Angular Interview Questions Part 2](https://dev.to/stacksjar/angular-interview-questions-part-2-10bn)
+- [Dev.to/JS] [📚Angular Interview Questions Part 3](https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h)
+- [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Dev.to/JS] [Add Angular Input Form Mask &amp; Validation Features to Your Web App](https://dev.to/grapecity/add-angular-input-form-mask-validation-features-to-your-web-app-3g7h)
 - [Dev.to/JS] [101 series: Promises #2: how to get current promise status and build your own promise queue?](https://dev.to/xnimorz/101-series-promises-2-how-to-get-current-promise-status-and-build-your-own-promise-queue-18j8)
 - [Dev.to/JS] [A Guide to Angular 14 Release Features and Updates](https://dev.to/grapecity/a-guide-to-angular-14-release-features-and-updates-442f)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploy SvelteKit with node adapter on linux sever.](https://dev.to/theether0/deploy-sveltekit-with-node-adapter-on-linux-sever-n)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
 - [Lifehacker] [How to Order a Drink at a Bar Without Sounding Like an Idiot](https://lifehacker.com/how-to-order-a-drink-at-a-bar-without-sounding-like-an-1849377231)
-- [Dev.to/JS] [Understanding Array Methods will improve your Code](https://dev.to/zfarrell0507/understanding-array-methods-will-improve-your-code-1ahp)
-- [Dev.to/JS] [Toggle Button](https://dev.to/jakedapper/toggle-button-5ge1)
-- [Dev.to/JS] [How to Use Javascript to Add Review Stars](https://dev.to/chrisbaum89/how-to-use-javascript-to-add-review-stars-39hg)
 - [Lifehacker] [How to Make Your Own Ranch Water](https://lifehacker.com/how-to-make-your-own-ranch-water-1849377458)
 - [Lifehacker] [How to Prepare Now for a Recession](https://lifehacker.com/how-to-prepare-now-for-a-recession-1849377526)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s in the Johnny Depp Documents?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-in-1849377293)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Important Phrases You Should Learn Before Traveling Abroad](https://lifehacker.com/the-most-important-phrases-you-should-learn-before-trav-1849372016)
 - [Lifehacker] [How to Get an Actually Good Match on a Dating App](https://lifehacker.com/how-to-get-an-actually-good-match-on-a-dating-app-1849371032)
 - [Lifehacker] [16 Subtle Signs Something More Serious May Be Wrong With Your Health](https://lifehacker.com/16-subtle-signs-something-more-serious-may-be-wrong-wit-1849370802)
-- [Lifehacker] [Everything New in Chrome 104](https://lifehacker.com/everything-new-in-chrome-104-1849370921)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
