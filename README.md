@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When Your Child Is More Than Just a ‘Picky’ Eater](https://lifehacker.com/what-to-do-when-your-child-is-more-than-just-a-picky-1849374352)
+- [Lifehacker] [Batgirl, and 12 Other Fully Finished Movies That Will Probably Never Come Out](https://lifehacker.com/batgirl-and-12-other-fully-finished-movies-that-will-p-1849373827)
+- [Dev.to/JS] [Creating an infinite scroll with React JS! ♾️](https://dev.to/franklin030601/creating-an-infinite-scroll-with-react-js-4in5)
+- [Dev.to/JS] [Creando un scroll infinito con React JS! ♾️](https://dev.to/franklin030601/creando-un-scroll-infinito-con-react-js-27gf)
 - [Lifehacker] [How to Start Having Sex Again With Your Spouse After a Long Dry Spell](https://lifehacker.com/how-to-start-having-sex-again-with-your-spouse-after-a-1849373681)
 - [Dev.to/JS] [web development](https://dev.to/versatile153/web-development-2jl7)
 - [Dev.to/JS] [My JS Tests..](https://dev.to/andaeiii/my-js-tests-4h08)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Npm](https://dev.to/gkumarpandey/what-is-npm-2ifh)
 - [Dev.to/JS] [Rest vs spread in javascript](https://dev.to/nkomorfaruk/rest-vs-spread-in-javascript-4d7m)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;30-07-2022&rpar; - Mid-week special: Fat ankle](https://dev.to/mjgs/this-weeks-newsletter-is-out-30-07-2022-mid-week-special-fat-ankle-35ak)
-- [Dev.to/JS] [#1.React and ReactDOM](https://dev.to/nazmulislam007/react-and-reactdom-5hhp)
-- [Dev.to/JS] [Request All Permissions Android React Native](https://dev.to/deri_kurniawan/request-all-permissions-android-react-native-4cmk)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
 - [Lifehacker] [How to Convey Sarcasm in Written Messages](https://lifehacker.com/how-to-convey-sarcasm-in-written-messages-1849366850)
-- [Lifehacker] [You Should Slather Your Chicken in Lemon Curd](https://lifehacker.com/you-should-slather-your-chicken-in-lemon-curd-1849366360)
-- [Lifehacker] [Eat This Ultra-Creamy Baba Ganoush Dip With Everything](https://lifehacker.com/eat-this-ultra-creamy-baba-ganoush-dip-with-everything-1849366325)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
