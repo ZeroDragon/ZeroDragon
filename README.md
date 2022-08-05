@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimize Dockerfile images for NextJS](https://dev.to/ductnn/optimize-dockerfile-images-for-nextjs-23b7)
+- [Dev.to/JS] [Logging Like You&#39;re a Lumberjack](https://dev.to/johnroy71/logging-like-youre-a-lumberjack-ckl)
+- [Dev.to/JS] [Javascript Tagalog - Arrow Function](https://dev.to/mmvergara/javascript-tagalog-arrow-function-1gc9)
+- [Dev.to/JS] [NextJS vs ReactJS: Which Framework is Better for your Frontend?](https://dev.to/sendhyrama/nextjs-vs-reactjs-which-framework-is-better-for-your-frontend-3e6e)
 - [Dev.to/JS] [Javascript Tagalog - &quot;Const&quot; Variable Declaration](https://dev.to/mmvergara/javascript-tagalog-const-variable-declaration-218m)
 - [Dev.to/JS] [Javascript Tagalog - &quot; Let &quot; Variable Declaration](https://dev.to/mmvergara/javascript-tagalog-let-variable-declaration-2l5)
 - [Dev.to/JS] [DEV-To Clone](https://dev.to/palmerosdev/dev-to-clone-574i)
@@ -31,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a FAQ section with React and Headless UI](https://dev.to/asayerio_techblog/build-a-faq-section-with-react-and-headless-ui-4idn)
 - [Dev.to/JS] [sdfsdf](https://dev.to/deathmarcus/sdfsdf-co2)
 - [Dev.to/JS] [Pass By Reference Vs Pass By Value](https://dev.to/yohanesss/pass-by-reference-vs-pass-by-value-2b81)
-- [Dev.to/JS] [Event Listeners, The Submit Event, Grabbing and Creating Elements to Manipulate the DOM](https://dev.to/bear2927/event-listeners-grabbing-and-creating-elements-to-manipulate-the-dom-b8o)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
-- [Dev.to/JS] [Compression for AWS HTTP APIs](https://dev.to/mxro/compression-for-aws-http-apis-3alm)
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
-- [Dev.to/JS] [AWS API Gateway Input/Output Mapping | Part 1](https://dev.to/shakeel0581/aws-api-gateway-inputoutput-mapping-part-1-4m7m)
-- [Dev.to/JS] [Top 3 Awesome Projects Using HTML CSS JavaScript](https://dev.to/codewithsadee/top-3-awesome-projects-using-html-css-javascript-4ebp)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
 - [Lifehacker] [Unexpected Places You Should Bring Earplugs](https://lifehacker.com/unexpected-places-you-should-bring-earplugs-1849372699)
 - [Lifehacker] [These Online Resources Will Help You Find Free College Textbooks](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
