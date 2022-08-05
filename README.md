@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PHP HTML FORM ON SUBMIT DOES NOT PERFORM THE JAVASCRIPT ACTIONS FOR VALIDATION](https://dev.to/4michael/php-html-form-on-submit-does-not-perform-the-javascript-actions-for-validation-1oom)
+- [Dev.to/JS] [NodeJS PostgreSQL &lpar;Bahasa Indonesia&rpar; Bagian 2](https://dev.to/jutionck/nodejs-postgresql-bahasa-indonesia-bagian-2-5gfd)
+- [Lifehacker] [The Best Budgeting Apps Based on What Kind of Spender You Are](https://lifehacker.com/the-best-budgeting-apps-based-on-what-kind-of-spender-y-1849375309)
+- [Dev.to/JS] [6 rules I follow to get simple and stable tests](https://dev.to/ondrejsevcik/6-rules-i-follow-to-get-simple-and-stable-tests-229)
+- [Dev.to/JS] [20 Awesome Website You Didn&#39;t Know About](https://dev.to/hr21don/20-awesome-website-you-didnt-know-about-97d)
 - [Lifehacker] [What to Do When Your Child Is More Than Just a ‘Picky’ Eater](https://lifehacker.com/what-to-do-when-your-child-is-more-than-just-a-picky-1849374352)
 - [Lifehacker] [Batgirl, and 12 Other Fully Finished Movies That Will Probably Never Come Out](https://lifehacker.com/batgirl-and-12-other-fully-finished-movies-that-will-p-1849373827)
 - [Dev.to/JS] [Creating an infinite scroll with React JS! ♾️](https://dev.to/franklin030601/creating-an-infinite-scroll-with-react-js-4in5)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native Custom Hooks - Part 1](https://dev.to/anasnmu/react-native-custom-hooks-part-1-2lm6)
 - [Dev.to/JS] [SvelteKit Content Security Policy: CSP for XSS Protection](https://dev.to/askrodney/sveltekit-content-security-policy-csp-for-xss-protection-589k)
 - [Dev.to/JS] [Sending validation errors through a Formik form](https://dev.to/buaiscia/sending-validation-errors-through-a-formik-form-18lb)
-- [Dev.to/JS] [Top 10 Online Business Ideas For 2022](https://dev.to/johnmaths/top-10-online-business-ideas-for-2022-2k36)
-- [Dev.to/JS] [What is Npm](https://dev.to/gkumarpandey/what-is-npm-2ifh)
-- [Dev.to/JS] [Rest vs spread in javascript](https://dev.to/nkomorfaruk/rest-vs-spread-in-javascript-4d7m)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;30-07-2022&rpar; - Mid-week special: Fat ankle](https://dev.to/mjgs/this-weeks-newsletter-is-out-30-07-2022-mid-week-special-fat-ankle-35ak)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Lifehacker] [Sauté Underwhelming Tomatoes in Butter](https://lifehacker.com/saute-underwhelming-tomatoes-in-butter-1849367749)
 - [Lifehacker] [The Fitness ‘Rules’ That Are Okay to Break](https://lifehacker.com/the-fitness-rules-that-are-okay-to-break-1849367244)
-- [Lifehacker] [How to Convey Sarcasm in Written Messages](https://lifehacker.com/how-to-convey-sarcasm-in-written-messages-1849366850)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
