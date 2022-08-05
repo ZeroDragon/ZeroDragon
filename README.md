@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SvelteKit Content Security Policy: CSP for XSS Protection](https://dev.to/askrodney/sveltekit-content-security-policy-csp-for-xss-protection-589k)
+- [Dev.to/JS] [Sending validation errors through a Formik form](https://dev.to/buaiscia/sending-validation-errors-through-a-formik-form-18lb)
+- [Dev.to/JS] [Top 10 Online Business Ideas For 2022](https://dev.to/johnmaths/top-10-online-business-ideas-for-2022-2k36)
+- [Dev.to/JS] [What is Npm](https://dev.to/gkumarpandey/what-is-npm-2ifh)
 - [Dev.to/JS] [Rest vs spread in javascript](https://dev.to/nkomorfaruk/rest-vs-spread-in-javascript-4d7m)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;30-07-2022&rpar; - Mid-week special: Fat ankle](https://dev.to/mjgs/this-weeks-newsletter-is-out-30-07-2022-mid-week-special-fat-ankle-35ak)
 - [Dev.to/JS] [#1.React and ReactDOM](https://dev.to/nazmulislam007/react-and-reactdom-5hhp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implement NodeJS Logging like a Pro!](https://dev.to/mohammadfaisal/implement-nodejs-logging-like-a-pro-3c43)
 - [Dev.to/JS] [App Shortcuts in React Native : Never let your app shortcuts open any random app 😂](https://dev.to/this-is-learning/app-shortcuts-in-react-native-never-let-your-app-shortcuts-open-any-random-app-4h0f)
 - [Dev.to/JS] [Poll: Would you publish your package in a closed registry &lpar;e.g., not npmjs.com&rpar; to monetize your open-source library?](https://dev.to/joergrech/poll-would-you-publish-your-package-in-a-closed-registry-eg-not-npmjscom-to-monetize-your-open-source-library-2kjp)
-- [Dev.to/JS] [11 Open Source projects for you to contribute👨‍💻](https://dev.to/coditdoc/11-open-source-projects-for-you-to-contribute-2pfm)
-- [Dev.to/JS] [NodeJS PostgreSQL &lpar;Bahasa Indonesia&rpar; Bagian 1](https://dev.to/jutionck/nodejs-postgresql-bahasa-indonesia-bagian-1-5bgi)
-- [Dev.to/JS] [Delete unused node_modules in a second and enjoy some free space!](https://dev.to/this-is-learning/delete-unused-nodemodules-in-a-second-and-enjoy-some-free-space-f3p)
-- [Dev.to/JS] [Quill Forms | New open source Typeform alternative based on React JS and Typescript](https://dev.to/mdmag/quill-forms-new-open-source-typeform-alternative-based-on-react-js-and-typescript-3a8i)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
