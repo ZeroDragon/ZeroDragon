@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [11 Open Source projects for you to contribute👨‍💻](https://dev.to/coditdoc/11-open-source-projects-for-you-to-contribute-2pfm)
+- [Dev.to/JS] [NodeJS PostgreSQL &lpar;Bahasa Indonesia&rpar; Bagian 1](https://dev.to/jutionck/nodejs-postgresql-bahasa-indonesia-bagian-1-5bgi)
+- [Dev.to/JS] [Delete unused node_modules in a second and enjoy some free space!](https://dev.to/this-is-learning/delete-unused-nodemodules-in-a-second-and-enjoy-some-free-space-f3p)
 - [Dev.to/JS] [Quill Forms | New open source Typeform alternative based on React JS and Typescript](https://dev.to/mdmag/quill-forms-new-open-source-typeform-alternative-based-on-react-js-and-typescript-3a8i)
 - [Dev.to/JS] [5️⃣ Free VS Code Extension You Must Know 👨‍💻](https://dev.to/kshitij9896/5-free-vs-code-extensionyou-must-know-5h0f)
 - [Dev.to/JS] [Build a JavaScript library with multiple entry points using Vite3](https://dev.to/raulfdm/build-a-javascript-library-with-multiple-entry-points-using-vite3-46e1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [REST Countries API challenge solved with Chakra UI and React.](https://dev.to/femi_dev/rest-countries-api-challenge-solved-with-chakra-ui-and-react-2f8e)
 - [Dev.to/JS] [6 Ways To Make Money With Your Code](https://dev.to/devsimc/6-ways-to-make-money-with-your-code-3j48)
 - [Dev.to/JS] [Optimize Dockerfile images for NextJS](https://dev.to/ductnn/optimize-dockerfile-images-for-nextjs-23b7)
-- [Dev.to/JS] [Logging Like You&#39;re a Lumberjack](https://dev.to/johnroy71/logging-like-youre-a-lumberjack-ckl)
-- [Dev.to/JS] [Javascript Tagalog - Arrow Function](https://dev.to/mmvergara/javascript-tagalog-arrow-function-1gc9)
-- [Dev.to/JS] [NextJS vs ReactJS: Which Framework is Better for your Frontend?](https://dev.to/sendhyrama/nextjs-vs-reactjs-which-framework-is-better-for-your-frontend-3e6e)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
