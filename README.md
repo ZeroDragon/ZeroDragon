@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DEV-To Clone](https://dev.to/palmerosdev/dev-to-clone-574i)
+- [Dev.to/JS] [What I wish I knew about submit and click events.](https://dev.to/lizrhodesss/what-i-wish-i-knew-about-submit-and-click-events-59dp)
 - [Dev.to/JS] [Adding Shimmer Effects to React Native apps](https://dev.to/asayerio_techblog/adding-shimmer-effects-to-react-native-apps-4f8)
 - [Dev.to/JS] [Build a FAQ section with React and Headless UI](https://dev.to/asayerio_techblog/build-a-faq-section-with-react-and-headless-ui-4idn)
 - [Dev.to/JS] [sdfsdf](https://dev.to/deathmarcus/sdfsdf-co2)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Run JavaScript In VSCode](https://dev.to/codesomething/run-javascript-in-vscode-gpp)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
 - [Dev.to/JS] [Javascript CLI demystified](https://dev.to/romaintrotard/javascript-cli-demystified-4930)
-- [Dev.to/JS] [Make videos with JavaScript 3](https://dev.to/kadeesterline/make-videos-with-javascript-3-4kii)
-- [Dev.to/JS] [Add your personal website here.](https://dev.to/fadhilsaheer/add-your-personal-website-here-3k6l)
 - [Lifehacker] [Unexpected Places You Should Bring Earplugs](https://lifehacker.com/unexpected-places-you-should-bring-earplugs-1849372699)
 - [Lifehacker] [These Online Resources Will Help You Find Free College Textbooks](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
 - [Lifehacker] [Why Can&#39;t I Get a Monkeypox Vaccine?](https://lifehacker.com/why-cant-i-get-a-monkeypox-vaccine-1849371721)
