@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Start Having Sex Again With Your Spouse After a Long Dry Spell](https://lifehacker.com/how-to-start-having-sex-again-with-your-spouse-after-a-1849373681)
+- [Dev.to/JS] [web development](https://dev.to/versatile153/web-development-2jl7)
+- [Dev.to/JS] [My JS Tests..](https://dev.to/andaeiii/my-js-tests-4h08)
+- [Dev.to/JS] [Diving Deep into Smart Contracts](https://dev.to/johnjvester/diving-deep-into-smart-contracts-57eg)
+- [Dev.to/JS] [React Native Custom Hooks - Part 1](https://dev.to/anasnmu/react-native-custom-hooks-part-1-2lm6)
 - [Dev.to/JS] [SvelteKit Content Security Policy: CSP for XSS Protection](https://dev.to/askrodney/sveltekit-content-security-policy-csp-for-xss-protection-589k)
 - [Dev.to/JS] [Sending validation errors through a Formik form](https://dev.to/buaiscia/sending-validation-errors-through-a-formik-form-18lb)
 - [Dev.to/JS] [Top 10 Online Business Ideas For 2022](https://dev.to/johnmaths/top-10-online-business-ideas-for-2022-2k36)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;30-07-2022&rpar; - Mid-week special: Fat ankle](https://dev.to/mjgs/this-weeks-newsletter-is-out-30-07-2022-mid-week-special-fat-ankle-35ak)
 - [Dev.to/JS] [#1.React and ReactDOM](https://dev.to/nazmulislam007/react-and-reactdom-5hhp)
 - [Dev.to/JS] [Request All Permissions Android React Native](https://dev.to/deri_kurniawan/request-all-permissions-android-react-native-4cmk)
-- [Dev.to/JS] [What is Blogging? How Can You Earn Money From It](https://dev.to/techknowmug/what-is-blogging-how-can-you-earn-money-from-it-b1e)
-- [Dev.to/JS] [Implement NodeJS Logging like a Pro!](https://dev.to/mohammadfaisal/implement-nodejs-logging-like-a-pro-3c43)
-- [Dev.to/JS] [App Shortcuts in React Native : Never let your app shortcuts open any random app 😂](https://dev.to/this-is-learning/app-shortcuts-in-react-native-never-let-your-app-shortcuts-open-any-random-app-4h0f)
-- [Dev.to/JS] [Poll: Would you publish your package in a closed registry &lpar;e.g., not npmjs.com&rpar; to monetize your open-source library?](https://dev.to/joergrech/poll-would-you-publish-your-package-in-a-closed-registry-eg-not-npmjscom-to-monetize-your-open-source-library-2kjp)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Convey Sarcasm in Written Messages](https://lifehacker.com/how-to-convey-sarcasm-in-written-messages-1849366850)
 - [Lifehacker] [You Should Slather Your Chicken in Lemon Curd](https://lifehacker.com/you-should-slather-your-chicken-in-lemon-curd-1849366360)
 - [Lifehacker] [Eat This Ultra-Creamy Baba Ganoush Dip With Everything](https://lifehacker.com/eat-this-ultra-creamy-baba-ganoush-dip-with-everything-1849366325)
-- [Lifehacker] [You Can Actually Do Something About Broken Toes](https://lifehacker.com/you-can-actually-do-something-about-broken-toes-1849366052)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
