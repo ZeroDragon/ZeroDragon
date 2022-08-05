@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quill Forms | New open source Typeform alternative based on React JS and Typescript](https://dev.to/mdmag/quill-forms-new-open-source-typeform-alternative-based-on-react-js-and-typescript-3a8i)
+- [Dev.to/JS] [5️⃣ Free VS Code Extension You Must Know 👨‍💻](https://dev.to/kshitij9896/5-free-vs-code-extensionyou-must-know-5h0f)
+- [Dev.to/JS] [Build a JavaScript library with multiple entry points using Vite3](https://dev.to/raulfdm/build-a-javascript-library-with-multiple-entry-points-using-vite3-46e1)
+- [Dev.to/JS] [JavaScript Ternary Operator](https://dev.to/asanchez20/javascript-ternary-operator-d7e)
+- [Dev.to/JS] [Fluxactive Complete - &lpar;Legit or Scam&rpar; Uses And Health Benefits?](https://dev.to/fluxactivefacts/fluxactive-complete-legit-or-scam-uses-and-health-benefits-52ik)
 - [Dev.to/JS] [3 open source tools to build your apps fast](https://dev.to/shreyvijayvargiya/3-open-source-tools-to-build-your-apps-fast-3c1i)
 - [Dev.to/JS] [REST Countries API challenge solved with Chakra UI and React.](https://dev.to/femi_dev/rest-countries-api-challenge-solved-with-chakra-ui-and-react-2f8e)
 - [Dev.to/JS] [6 Ways To Make Money With Your Code](https://dev.to/devsimc/6-ways-to-make-money-with-your-code-3j48)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Logging Like You&#39;re a Lumberjack](https://dev.to/johnroy71/logging-like-youre-a-lumberjack-ckl)
 - [Dev.to/JS] [Javascript Tagalog - Arrow Function](https://dev.to/mmvergara/javascript-tagalog-arrow-function-1gc9)
 - [Dev.to/JS] [NextJS vs ReactJS: Which Framework is Better for your Frontend?](https://dev.to/sendhyrama/nextjs-vs-reactjs-which-framework-is-better-for-your-frontend-3e6e)
-- [Dev.to/JS] [Javascript Tagalog - &quot;Const&quot; Variable Declaration](https://dev.to/mmvergara/javascript-tagalog-const-variable-declaration-218m)
-- [Dev.to/JS] [Javascript Tagalog - &quot; Let &quot; Variable Declaration](https://dev.to/mmvergara/javascript-tagalog-let-variable-declaration-2l5)
-- [Dev.to/JS] [DEV-To Clone](https://dev.to/palmerosdev/dev-to-clone-574i)
-- [Dev.to/JS] [What I wish I knew about submit and click events.](https://dev.to/lizrhodesss/what-i-wish-i-knew-about-submit-and-click-events-59dp)
-- [Dev.to/JS] [Adding Shimmer Effects to React Native apps](https://dev.to/asayerio_techblog/adding-shimmer-effects-to-react-native-apps-4f8)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
