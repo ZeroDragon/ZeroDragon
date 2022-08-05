@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Are JavaScript Events?](https://dev.to/kirthinandi/what-are-javascript-events-4dci)
+- [Lifehacker] [Use This Terminal Command to Force Eject a Stubborn Disk From Your Mac](https://lifehacker.com/use-this-terminal-command-to-force-eject-a-stubborn-dis-1849376498)
+- [Dev.to/JS] [Six Reasons why you should use NestJS](https://dev.to/kalashin1/six-reasons-why-you-should-use-nestjs-3k8b)
+- [Dev.to/JS] [What’s the deal with Bun?](https://dev.to/herbievine/whats-the-deal-with-bun-129l)
+- [Lifehacker] [The Easiest Thai Chicken Skewers Ever](https://lifehacker.com/the-easiest-thai-chicken-skewers-ever-1849376133)
 - [Dev.to/JS] [Building a dark-mode theme with CSS variables](https://dev.to/pfernandom/building-a-dark-mode-theme-with-css-variables-ein)
 - [Lifehacker] [How to Navigate Baggage Claim Like a Pro](https://lifehacker.com/how-to-navigate-baggage-claim-like-a-pro-1849376710)
 - [Dev.to/JS] [How to prevent nvm from slowing down your shell](https://dev.to/mazharzandsalimi/how-to-prevent-nvm-from-slowing-down-your-shell-5ba)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [20 Awesome Website You Didn&#39;t Know About](https://dev.to/hr21don/20-awesome-website-you-didnt-know-about-97d)
 - [Lifehacker] [What to Do When Your Child Is More Than Just a ‘Picky’ Eater](https://lifehacker.com/what-to-do-when-your-child-is-more-than-just-a-picky-1849374352)
 - [Lifehacker] [&#39;Batgirl,&#39; and 12 Other Nearly Finished Movies That Will Probably Never Come Out](https://lifehacker.com/batgirl-and-12-other-fully-finished-movies-that-will-p-1849373827)
-- [Dev.to/JS] [Creating an infinite scroll with React JS! ♾️](https://dev.to/franklin030601/creating-an-infinite-scroll-with-react-js-4in5)
-- [Dev.to/JS] [Creando un scroll infinito con React JS! ♾️](https://dev.to/franklin030601/creando-un-scroll-infinito-con-react-js-27gf)
 - [Lifehacker] [How to Start Having Sex Again With Your Spouse After a Long Dry Spell](https://lifehacker.com/how-to-start-having-sex-again-with-your-spouse-after-a-1849373681)
-- [Dev.to/JS] [web development](https://dev.to/versatile153/web-development-2jl7)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Countertop Dishwasher Is Absolutely Worth It](https://lifehacker.com/a-countertop-dishwasher-is-absolutely-worth-it-1849368569)
 - [Lifehacker] [What People in the World&#39;s Hottest Countries Do to Stay Cool](https://lifehacker.com/what-people-in-the-worlds-hottest-countries-do-to-stay-1849367441)
 - [Lifehacker] [These Apps Will Lull You Right to Sleep](https://lifehacker.com/these-apps-will-lull-you-right-to-sleep-1849366962)
-- [Lifehacker] [Your Next Hot Dog Deserves a Bánh Mì Treatment](https://lifehacker.com/your-next-hot-dog-deserves-a-banh-mi-treatment-1849367306)
-- [Lifehacker] [The Hidden Way to Monitor Your Mac&#39;s Temperature for Free](https://lifehacker.com/the-hidden-way-to-monitor-your-macs-temperature-for-fre-1849367127)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
