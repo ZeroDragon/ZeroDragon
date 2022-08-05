@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Array Methods will improve your Code](https://dev.to/zfarrell0507/understanding-array-methods-will-improve-your-code-1ahp)
+- [Dev.to/JS] [Toggle Button](https://dev.to/jakedapper/toggle-button-5ge1)
+- [Dev.to/JS] [How to Use Javascript to Add Review Stars](https://dev.to/chrisbaum89/how-to-use-javascript-to-add-review-stars-39hg)
+- [Lifehacker] [How to Make Your Own Ranch Water](https://lifehacker.com/how-to-make-your-own-ranch-water-1849377458)
+- [Dev.to/JS] [How to Loop through nested JSON object in JavaScript recursively](https://dev.to/slimpython/how-to-loop-through-nested-json-object-in-javascript-recursively-5h2b)
 - [Lifehacker] [How to Prepare Now for a Recession](https://lifehacker.com/how-to-prepare-now-for-a-recession-1849377526)
 - [Dev.to/JS] [First blog post...ever.](https://dev.to/akimsahn/first-blog-postever-20p1)
 - [Dev.to/JS] [🔥 If you are a developer, you must know how CORS works 🔥](https://dev.to/kelchospense/if-you-are-a-developer-you-must-know-how-cors-works-3fmo)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a dark-mode theme with CSS variables](https://dev.to/pfernandom/building-a-dark-mode-theme-with-css-variables-ein)
 - [Lifehacker] [How to Navigate Baggage Claim Like a Pro](https://lifehacker.com/how-to-navigate-baggage-claim-like-a-pro-1849376710)
 - [Dev.to/JS] [How to prevent nvm from slowing down your shell](https://dev.to/mazharzandsalimi/how-to-prevent-nvm-from-slowing-down-your-shell-5ba)
-- [Dev.to/JS] [Learning Resources &lpar;JS and more&rpar;](https://dev.to/codeteasleep/learning-resources-js-and-more-20ld)
-- [Dev.to/JS] [Writing recommendation system #0](https://dev.to/meatboy/writing-recommendation-system-0-2lhh)
-- [Dev.to/JS] [Http request with Axios for beginners](https://dev.to/srishtikprasad/http-request-with-axios-for-beginners-277m)
 - [Lifehacker] [These Are the Pandemic Purchases Lifehacker Readers Regret the Most](https://lifehacker.com/these-are-the-pandemic-purchases-lifehacker-readers-reg-1849372997)
-- [Dev.to/JS] [PHP HTML FORM ON SUBMIT DOES NOT PERFORM THE JAVASCRIPT ACTIONS FOR VALIDATION](https://dev.to/4michael/php-html-form-on-submit-does-not-perform-the-javascript-actions-for-validation-1oom)
 - [Lifehacker] [The Best Budgeting Apps Based on What Kind of Spender You Are](https://lifehacker.com/the-best-budgeting-apps-based-on-what-kind-of-spender-y-1849375309)
 - [Lifehacker] [What to Do When Your Child Is More Than Just a ‘Picky’ Eater](https://lifehacker.com/what-to-do-when-your-child-is-more-than-just-a-picky-1849374352)
 - [Lifehacker] [&#39;Batgirl,&#39; and 12 Other Nearly Finished Movies That Will Probably Never Come Out](https://lifehacker.com/batgirl-and-12-other-fully-finished-movies-that-will-p-1849373827)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Who Should Consider a Spousal IRA, According to a Financial Planner](https://lifehacker.com/who-should-consider-a-spousal-ira-according-to-a-finan-1849367523)
 - [Lifehacker] [8 Short Podcasts to Start Your Day Off Right](https://lifehacker.com/8-short-podcasts-to-start-your-day-off-right-1849370734)
 - [Lifehacker] [It&#39;s Past Time to Normalize Naps](https://lifehacker.com/its-past-time-to-normalize-naps-1849369088)
-- [Lifehacker] [A Countertop Dishwasher Is Absolutely Worth It](https://lifehacker.com/a-countertop-dishwasher-is-absolutely-worth-it-1849368569)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
