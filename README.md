@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 open source tools to build your apps fast](https://dev.to/shreyvijayvargiya/3-open-source-tools-to-build-your-apps-fast-3c1i)
+- [Dev.to/JS] [REST Countries API challenge solved with Chakra UI and React.](https://dev.to/femi_dev/rest-countries-api-challenge-solved-with-chakra-ui-and-react-2f8e)
 - [Dev.to/JS] [6 Ways To Make Money With Your Code](https://dev.to/devsimc/6-ways-to-make-money-with-your-code-3j48)
 - [Dev.to/JS] [Optimize Dockerfile images for NextJS](https://dev.to/ductnn/optimize-dockerfile-images-for-nextjs-23b7)
 - [Dev.to/JS] [Logging Like You&#39;re a Lumberjack](https://dev.to/johnroy71/logging-like-youre-a-lumberjack-ckl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DEV-To Clone](https://dev.to/palmerosdev/dev-to-clone-574i)
 - [Dev.to/JS] [What I wish I knew about submit and click events.](https://dev.to/lizrhodesss/what-i-wish-i-knew-about-submit-and-click-events-59dp)
 - [Dev.to/JS] [Adding Shimmer Effects to React Native apps](https://dev.to/asayerio_techblog/adding-shimmer-effects-to-react-native-apps-4f8)
-- [Dev.to/JS] [Build a FAQ section with React and Headless UI](https://dev.to/asayerio_techblog/build-a-faq-section-with-react-and-headless-ui-4idn)
-- [Dev.to/JS] [sdfsdf](https://dev.to/deathmarcus/sdfsdf-co2)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1849372887)
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
