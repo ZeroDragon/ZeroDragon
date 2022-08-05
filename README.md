@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Shimmer Effects to React Native apps](https://dev.to/asayerio_techblog/adding-shimmer-effects-to-react-native-apps-4f8)
+- [Dev.to/JS] [Build a FAQ section with React and Headless UI](https://dev.to/asayerio_techblog/build-a-faq-section-with-react-and-headless-ui-4idn)
 - [Dev.to/JS] [sdfsdf](https://dev.to/deathmarcus/sdfsdf-co2)
 - [Dev.to/JS] [Pass By Reference Vs Pass By Value](https://dev.to/yohanesss/pass-by-reference-vs-pass-by-value-2b81)
 - [Dev.to/JS] [Event Listeners, The Submit Event, Grabbing and Creating Elements to Manipulate the DOM](https://dev.to/bear2927/event-listeners-grabbing-and-creating-elements-to-manipulate-the-dom-b8o)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add your personal website here.](https://dev.to/fadhilsaheer/add-your-personal-website-here-3k6l)
 - [Lifehacker] [Unexpected Places You Should Bring Earplugs](https://lifehacker.com/unexpected-places-you-should-bring-earplugs-1849372699)
 - [Lifehacker] [These Online Resources Will Help You Find Free College Textbooks](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
-- [Dev.to/JS] [How to make Your Own Hook](https://dev.to/developerioweb/how-to-make-your-own-hook-24co)
-- [Dev.to/JS] [How to build simple todo list with Vue.js - Part 1](https://dev.to/jakhongir/how-to-build-simple-todo-list-with-vuejs-part-1-2o6l)
 - [Lifehacker] [Why Can&#39;t I Get a Monkeypox Vaccine?](https://lifehacker.com/why-cant-i-get-a-monkeypox-vaccine-1849371721)
 - [Lifehacker] [Cereal Milk Pie Has Entered the Chat](https://lifehacker.com/feed-your-inner-child-this-cereal-milk-cream-pie-1849372049)
 - [Lifehacker] [The Most Important Phrases You Should Learn Before Traveling Abroad](https://lifehacker.com/the-most-important-phrases-you-should-learn-before-trav-1849372016)
