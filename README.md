@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Recursions](https://dev.to/hnicolus/recursions-1f8)
 - [Dev.to/JS] [Web workers, Service Worker and PWA](https://dev.to/saksh/web-workers-service-worker-and-pwa-5gbm)
 - [Dev.to/JS] [Memory Reallocation](https://dev.to/rmion/memory-reallocation-2ago)
 - [Dev.to/JS] [Updating from @sveltejs/kit@1.0.0-next.350 to @sveltejs/kit@1.0.0-next.403](https://dev.to/andrewusher/updating-from-sveltejskit100-next350-to-sveltejskit100-next403-36b0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A helpful dashboard with tools, resources and more, for developers.](https://dev.to/dechamp/a-helpful-dashboard-with-tools-resources-and-more-for-developers-1cji)
 - [Dev.to/JS] [Pruebas Estáticas vs Unitarias vs Integración vs E2E para Aplicaciones Frontend](https://dev.to/johanaltro/pruebas-estaticas-vs-unitarias-vs-integracion-vs-e2e-para-aplicaciones-frontend-4i84)
 - [Dev.to/JS] [This Week In React #115: Astro, Radix, Remix, Next.js, MDX, Storybook, Expo 46, Skia, TanStack, TC39, Docusaurus...](https://dev.to/sebastienlorber/this-week-in-react-115-astro-radix-remix-nextjs-mdx-storybook-expo-46-skia-tanstack-tc39-docusaurus-1nee)
-- [Dev.to/JS] [An Introduction to FACEIO; User Web Authentication Made Easy](https://dev.to/shenzati/an-introduction-to-faceio-user-web-authentication-made-easy-2ji6)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
