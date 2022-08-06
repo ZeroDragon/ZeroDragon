@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
+- [Dev.to/JS] [Animating HTML Elements Using FLIP](https://dev.to/syeo66/animating-html-elements-using-flip-ngd)
+- [Dev.to/JS] [Event Bubbling and Capturing in JavaScript](https://dev.to/jeetsdev/event-bubbling-and-capturing-in-javascript-3ifd)
+- [Dev.to/JS] [The Choice: Python or JavaScript](https://dev.to/chryzcode/the-choice-python-or-javascript-1o8a)
+- [Dev.to/JS] [useCallback the Hook](https://dev.to/sonu_sharma/usecallback-the-hook-5b3b)
+- [Dev.to/JS] [Getting started with Astro](https://dev.to/codewithsnowbit/getting-started-with-astro-3oje)
 - [Dev.to/JS] [Multinode cluster setup using kubeadm](https://dev.to/shankarsurya035/multinode-cluster-setup-using-kubeadm-103g)
 - [Dev.to/JS] [javascript - Uncaught TypeError: Cannot read property &#39;msie&#39; of undefined - jQuery tools](https://dev.to/ztologame/javascript-uncaught-typeerror-cannot-read-property-msie-of-undefined-jquery-tools-3od3)
 - [Dev.to/JS] [How to use JavaScript Promise.all with realtime code example [Axios GET Calls]](https://dev.to/imranmind/how-to-use-javascript-promiseall-with-realtime-code-example-axios-get-calls-1hnk)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mordern Javascript: Utilizing The Async-Await Feature.](https://dev.to/mr_walkr/mordern-javascript-utilizing-the-async-await-feature-92l)
 - [Dev.to/JS] [Int Object is Not Iterable – Python Error [Solved]](https://dev.to/professionalw0/int-object-is-not-iterable-python-error-solved-2f75)
 - [Dev.to/JS] [Javascript Tagalog - Nullish Coalescing Operator](https://dev.to/mmvergara/javascript-tagalog-nullish-coalescing-operator-1gkl)
-- [Dev.to/JS] [Tik Tok Clone using next js.](https://dev.to/prajyu/tik-tok-clone-using-next-js-3617)
-- [Dev.to/JS] [Firestore error: Error: Value for argument &quot;data&quot; is not a valid Firestore document. Input is not a plain JavaScript object.](https://dev.to/tikashi/firestore-error-error-value-for-argument-data-is-not-a-valid-firestore-document-input-is-not-a-plain-javascript-object-5458)
-- [Dev.to/JS] [The Most Common Mistakes People Make with SAS Learning](https://dev.to/barathmanikand1/the-most-common-mistakes-people-make-with-sas-learning-29i8)
-- [Dev.to/JS] [How to Setup Tailwind CSS in Vue 3](https://dev.to/martinsonuoha/how-to-setup-tailwind-css-in-vue-3-4i0l)
-- [Dev.to/JS] [Reasons Why Technology Startups Fail](https://dev.to/techmaniacc/reasons-why-technology-startups-fail-5ebf)
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cereal Milk Pie Has Entered the Chat](https://lifehacker.com/feed-your-inner-child-this-cereal-milk-cream-pie-1849372049)
 - [Lifehacker] [The Most Important Phrases You Should Learn Before Traveling Abroad](https://lifehacker.com/the-most-important-phrases-you-should-learn-before-trav-1849372016)
 - [Lifehacker] [How to Get an Actually Good Match on a Dating App](https://lifehacker.com/how-to-get-an-actually-good-match-on-a-dating-app-1849371032)
-- [Lifehacker] [16 Subtle Signs Something More Serious May Be Wrong With Your Health](https://lifehacker.com/16-subtle-signs-something-more-serious-may-be-wrong-wit-1849370802)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
