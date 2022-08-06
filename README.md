@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Updating from @sveltejs/kit@1.0.0-next.350 to @sveltejs/kit@1.0.0-next.403](https://dev.to/andrewusher/updating-from-sveltejskit100-next350-to-sveltejskit100-next403-36b0)
+- [Dev.to/JS] [Create a Client-Side File Download – JavaScript Tutorial](https://dev.to/jimmywilliams/create-a-client-side-file-download-javascript-tutorial-2cf7)
+- [Dev.to/JS] [Create QR Codes in JavaScript with QRCodes.js](https://dev.to/jimmywilliams/create-qr-codes-in-javascript-with-qrcodesjs-3eop)
+- [Dev.to/JS] [Frontend pagination with JavaScript](https://dev.to/jimmywilliams/frontend-pagination-with-javascript-43f5)
+- [Dev.to/JS] [174! &lpar;My first computer website I made on my personal home computer&rpar;](https://dev.to/elliotmangini/174-my-first-computer-website-i-made-on-my-personal-home-computer-1947)
 - [Dev.to/JS] [Code Smell 156 - Implicit Else](https://dev.to/mcsee/code-smell-156-implicit-else-1ko3)
 - [Dev.to/JS] [A helpful dashboard with tools, resources and more, for developers.](https://dev.to/dechamp/a-helpful-dashboard-with-tools-resources-and-more-for-developers-1cji)
 - [Dev.to/JS] [Pruebas Estáticas vs Unitarias vs Integración vs E2E para Aplicaciones Frontend](https://dev.to/johanaltro/pruebas-estaticas-vs-unitarias-vs-integracion-vs-e2e-para-aplicaciones-frontend-4i84)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Dev.to/JS] [Undeclared, undefined and null in Javascript](https://dev.to/jtlavs/undeclared-undefined-and-null-in-javascript-2pc)
 - [Dev.to/JS] [Detecting dark mode on every request 🌓](https://dev.to/bryce/detecting-dark-mode-on-every-request-4o97)
-- [Dev.to/JS] [Array print&lpar;&rpar;](https://dev.to/edwinwong90/array-print-301f)
-- [Dev.to/JS] [Non Slip Floor Solutions](https://dev.to/jaygana4/non-slip-floor-solutions-2b2h)
-- [Dev.to/JS] [What is a promise in JavaScript ?](https://dev.to/sambit20/what-is-a-promise-in-javascript--1nkm)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
-- [Dev.to/JS] [10 websites That web developers should know](https://dev.to/mojodev/10-websites-that-web-developers-should-know-3n4p)
-- [Dev.to/JS] [How to sort an array of objects using the JS Sort Method](https://dev.to/jaymeeu/how-to-sort-an-array-of-object-using-the-js-sort-method-43dn)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
