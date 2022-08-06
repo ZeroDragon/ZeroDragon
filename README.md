@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reasons Why Technology Startups Fail](https://dev.to/techmaniacc/reasons-why-technology-startups-fail-5ebf)
 - [Dev.to/JS] [Paracetamol.js💊| #179: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-179-explica-este-codigo-javascript-gg0)
 - [Dev.to/JS] [Arbitrary Styles With Tailwind JIT](https://dev.to/martinsonuoha/arbitrary-styles-with-tailwind-jit-4fce)
 - [Dev.to/JS] [How I built a SaaS in 10 days using SaasRock&#39;s codebase](https://dev.to/alexandromtzg/how-i-built-a-saas-in-10-days-using-saasrocks-codebase-5alh)
@@ -31,11 +32,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Node JS Resize Image Before Upload using Sharp Multer](https://dev.to/ranjan/simple-node-js-resize-image-before-upload-using-sharp-multer-p8c)
 - [Dev.to/JS] [Ditch the DOM with SolidJS and Skia CanvasKit](https://dev.to/whoisryosuke/ditch-the-dom-with-solidjs-and-skia-canvaskit-78n)
 - [Dev.to/JS] [Why People Love React?](https://dev.to/olaoyesunday/why-people-love-react-2gel)
-- [Dev.to/JS] [📚Angular Interview Questions Part 2](https://dev.to/stacksjar/angular-interview-questions-part-2-10bn)
 - [Dev.to/JS] [📚Angular Interview Questions Part 3](https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h)
+- [Dev.to/JS] [📚Angular Interview Questions Part 2](https://dev.to/stacksjar/angular-interview-questions-part-2-10bn)
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Dev.to/JS] [Add Angular Input Form Mask &amp; Validation Features to Your Web App](https://dev.to/grapecity/add-angular-input-form-mask-validation-features-to-your-web-app-3g7h)
-- [Dev.to/JS] [101 series: Promises #2: how to get current promise status and build your own promise queue?](https://dev.to/xnimorz/101-series-promises-2-how-to-get-current-promise-status-and-build-your-own-promise-queue-18j8)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
 - [Lifehacker] [How to Order a Drink at a Bar Without Sounding Like an Idiot](https://lifehacker.com/how-to-order-a-drink-at-a-bar-without-sounding-like-an-1849377231)
