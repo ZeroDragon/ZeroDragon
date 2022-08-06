@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mordern Javascript: Utilizing The Async-Await Feature.](https://dev.to/mr_walkr/mordern-javascript-utilizing-the-async-await-feature-92l)
+- [Dev.to/JS] [Int Object is Not Iterable – Python Error [Solved]](https://dev.to/professionalw0/int-object-is-not-iterable-python-error-solved-2f75)
+- [Dev.to/JS] [Javascript Tagalog - Nullish Coalescing Operator](https://dev.to/mmvergara/javascript-tagalog-nullish-coalescing-operator-1gkl)
 - [Dev.to/JS] [Tik Tok Clone using next js.](https://dev.to/prajyu/tik-tok-clone-using-next-js-3617)
 - [Dev.to/JS] [Firestore error: Error: Value for argument &quot;data&quot; is not a valid Firestore document. Input is not a plain JavaScript object.](https://dev.to/tikashi/firestore-error-error-value-for-argument-data-is-not-a-valid-firestore-document-input-is-not-a-plain-javascript-object-5458)
 - [Dev.to/JS] [The Most Common Mistakes People Make with SAS Learning](https://dev.to/barathmanikand1/the-most-common-mistakes-people-make-with-sas-learning-29i8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arbitrary Styles With Tailwind JIT](https://dev.to/martinsonuoha/arbitrary-styles-with-tailwind-jit-4fce)
 - [Dev.to/JS] [How I built a SaaS in 10 days using SaasRock&#39;s codebase](https://dev.to/alexandromtzg/how-i-built-a-saas-in-10-days-using-saasrocks-codebase-5alh)
 - [Dev.to/JS] [Let&#39;s practice Insert Sort &lpar;Javascript&rpar;](https://dev.to/re4388/lets-practice-insert-sort-javascript-5790)
-- [Dev.to/JS] [⚡ When Faster Isn&#39;t Better](https://dev.to/mistval/when-faster-isnt-better-4f19)
-- [Dev.to/JS] [Simple Node JS Resize Image Before Upload using Sharp Multer](https://dev.to/ranjan/simple-node-js-resize-image-before-upload-using-sharp-multer-p8c)
-- [Dev.to/JS] [Ditch the DOM with SolidJS and Skia CanvasKit](https://dev.to/whoisryosuke/ditch-the-dom-with-solidjs-and-skia-canvaskit-78n)
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
