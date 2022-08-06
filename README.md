@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 156 - Implicit Else](https://dev.to/mcsee/code-smell-156-implicit-else-1ko3)
+- [Dev.to/JS] [A helpful dashboard with tools, resources and more, for developers.](https://dev.to/dechamp/a-helpful-dashboard-with-tools-resources-and-more-for-developers-1cji)
+- [Dev.to/JS] [Pruebas Estáticas vs Unitarias vs Integración vs E2E para Aplicaciones Frontend](https://dev.to/johanaltro/pruebas-estaticas-vs-unitarias-vs-integracion-vs-e2e-para-aplicaciones-frontend-4i84)
+- [Dev.to/JS] [This Week In React #115: Astro, Radix, Remix, Next.js, MDX, Storybook, Expo 46, Skia, TanStack, TC39, Docusaurus...](https://dev.to/sebastienlorber/this-week-in-react-115-astro-radix-remix-nextjs-mdx-storybook-expo-46-skia-tanstack-tc39-docusaurus-1nee)
+- [Dev.to/JS] [An Introduction to FACEIO; User Web Authentication Made Easy](https://dev.to/eddy_wanza_c9a1011152cb99/an-introduction-to-faceio-user-web-authentication-made-easy-2ji6)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Dev.to/JS] [Undeclared, undefined and null in Javascript](https://dev.to/jtlavs/undeclared-undefined-and-null-in-javascript-2pc)
 - [Dev.to/JS] [Detecting dark mode on every request 🌓](https://dev.to/bryce/detecting-dark-mode-on-every-request-4o97)
@@ -32,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Dev.to/JS] [10 websites That web developers should know](https://dev.to/mojodev/10-websites-that-web-developers-should-know-3n4p)
 - [Dev.to/JS] [How to sort an array of objects using the JS Sort Method](https://dev.to/jaymeeu/how-to-sort-an-array-of-object-using-the-js-sort-method-43dn)
-- [Dev.to/JS] [How to Make a Responsive Admin Dashboard Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-responsive-admin-dashboard-using-html-css-javascript-47ah)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
-- [Dev.to/JS] [Animating HTML Elements Using FLIP](https://dev.to/syeo66/animating-html-elements-using-flip-ngd)
-- [Dev.to/JS] [Event Bubbling and Capturing in JavaScript](https://dev.to/jeetsdev/event-bubbling-and-capturing-in-javascript-3ifd)
-- [Dev.to/JS] [The Choice: Python or JavaScript](https://dev.to/chryzcode/the-choice-python-or-javascript-1o8a)
-- [Dev.to/JS] [useCallback the Hook](https://dev.to/sonu_sharma/usecallback-the-hook-5b3b)
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
