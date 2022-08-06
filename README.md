@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Non Slip Floor Solutions](https://dev.to/jaygana4/non-slip-floor-solutions-2b2h)
+- [Dev.to/JS] [What is a promise in JavaScript ?](https://dev.to/sambit20/what-is-a-promise-in-javascript--1nkm)
+- [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Dev.to/JS] [10 websites That web developers should know](https://dev.to/mojodev/10-websites-that-web-developers-should-know-3n4p)
 - [Dev.to/JS] [How to sort an array of objects using the JS Sort Method](https://dev.to/jaymeeu/how-to-sort-an-array-of-object-using-the-js-sort-method-43dn)
-- [Dev.to/JS] [Condor CBD Gummies -100% Pain Relief Results? Benefits &amp; Side Effects?](https://dev.to/condorcbdprice1/condor-cbd-gummies-100-pain-relief-results-benefits-side-effects-465o)
 - [Dev.to/JS] [How to Make a Responsive Admin Dashboard Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-responsive-admin-dashboard-using-html-css-javascript-47ah)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
 - [Dev.to/JS] [Animating HTML Elements Using FLIP](https://dev.to/syeo66/animating-html-elements-using-flip-ngd)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with Astro](https://dev.to/codewithsnowbit/getting-started-with-astro-3oje)
 - [Dev.to/JS] [Multinode cluster setup using kubeadm](https://dev.to/shankarsurya035/multinode-cluster-setup-using-kubeadm-103g)
 - [Dev.to/JS] [javascript - Uncaught TypeError: Cannot read property &#39;msie&#39; of undefined - jQuery tools](https://dev.to/ztologame/javascript-uncaught-typeerror-cannot-read-property-msie-of-undefined-jquery-tools-3od3)
-- [Dev.to/JS] [How to use JavaScript Promise.all with realtime code example [Axios GET Calls]](https://dev.to/imranmind/how-to-use-javascript-promiseall-with-realtime-code-example-axios-get-calls-1hnk)
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Can&#39;t I Get a Monkeypox Vaccine?](https://lifehacker.com/why-cant-i-get-a-monkeypox-vaccine-1849371721)
 - [Lifehacker] [Cereal Milk Pie Has Entered the Chat](https://lifehacker.com/feed-your-inner-child-this-cereal-milk-cream-pie-1849372049)
 - [Lifehacker] [The Most Important Phrases You Should Learn Before Traveling Abroad](https://lifehacker.com/the-most-important-phrases-you-should-learn-before-trav-1849372016)
-- [Lifehacker] [How to Get an Actually Good Match on a Dating App](https://lifehacker.com/how-to-get-an-actually-good-match-on-a-dating-app-1849371032)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
