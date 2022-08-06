@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
+- [Dev.to/JS] [Undeclared, undefined and null in Javascript](https://dev.to/jtlavs/undeclared-undefined-and-null-in-javascript-2pc)
+- [Dev.to/JS] [Detecting dark mode on every request 🌓](https://dev.to/bryce/detecting-dark-mode-on-every-request-4o97)
+- [Dev.to/JS] [Array print&lpar;&rpar;](https://dev.to/edwinwong90/array-print-301f)
 - [Dev.to/JS] [Non Slip Floor Solutions](https://dev.to/jaygana4/non-slip-floor-solutions-2b2h)
 - [Dev.to/JS] [What is a promise in JavaScript ?](https://dev.to/sambit20/what-is-a-promise-in-javascript--1nkm)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event Bubbling and Capturing in JavaScript](https://dev.to/jeetsdev/event-bubbling-and-capturing-in-javascript-3ifd)
 - [Dev.to/JS] [The Choice: Python or JavaScript](https://dev.to/chryzcode/the-choice-python-or-javascript-1o8a)
 - [Dev.to/JS] [useCallback the Hook](https://dev.to/sonu_sharma/usecallback-the-hook-5b3b)
-- [Dev.to/JS] [Getting started with Astro](https://dev.to/codewithsnowbit/getting-started-with-astro-3oje)
-- [Dev.to/JS] [Multinode cluster setup using kubeadm](https://dev.to/shankarsurya035/multinode-cluster-setup-using-kubeadm-103g)
-- [Dev.to/JS] [javascript - Uncaught TypeError: Cannot read property &#39;msie&#39; of undefined - jQuery tools](https://dev.to/ztologame/javascript-uncaught-typeerror-cannot-read-property-msie-of-undefined-jquery-tools-3od3)
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Online Resources Will Help You Find Free College Textbooks](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
 - [Lifehacker] [Why Can&#39;t I Get a Monkeypox Vaccine?](https://lifehacker.com/why-cant-i-get-a-monkeypox-vaccine-1849371721)
 - [Lifehacker] [Cereal Milk Pie Has Entered the Chat](https://lifehacker.com/feed-your-inner-child-this-cereal-milk-cream-pie-1849372049)
-- [Lifehacker] [The Most Important Phrases You Should Learn Before Traveling Abroad](https://lifehacker.com/the-most-important-phrases-you-should-learn-before-trav-1849372016)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
