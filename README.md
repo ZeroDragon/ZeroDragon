@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #179: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-179-explica-este-codigo-javascript-gg0)
+- [Dev.to/JS] [Arbitrary Styles With Tailwind JIT](https://dev.to/martinsonuoha/arbitrary-styles-with-tailwind-jit-4fce)
 - [Dev.to/JS] [How I built a SaaS in 10 days using SaasRock&#39;s codebase](https://dev.to/alexandromtzg/how-i-built-a-saas-in-10-days-using-saasrocks-codebase-5alh)
 - [Dev.to/JS] [Let&#39;s practice Insert Sort &lpar;Javascript&rpar;](https://dev.to/re4388/lets-practice-insert-sort-javascript-5790)
 - [Dev.to/JS] [⚡ When Faster Isn&#39;t Better](https://dev.to/mistval/when-faster-isnt-better-4f19)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Dev.to/JS] [Add Angular Input Form Mask &amp; Validation Features to Your Web App](https://dev.to/grapecity/add-angular-input-form-mask-validation-features-to-your-web-app-3g7h)
 - [Dev.to/JS] [101 series: Promises #2: how to get current promise status and build your own promise queue?](https://dev.to/xnimorz/101-series-promises-2-how-to-get-current-promise-status-and-build-your-own-promise-queue-18j8)
-- [Dev.to/JS] [A Guide to Angular 14 Release Features and Updates](https://dev.to/grapecity/a-guide-to-angular-14-release-features-and-updates-442f)
-- [Dev.to/JS] [Generating CMS from Prisma Schema](https://dev.to/0916dhkim/generating-cms-from-prisma-schema-63p)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
 - [Lifehacker] [How to Order a Drink at a Bar Without Sounding Like an Idiot](https://lifehacker.com/how-to-order-a-drink-at-a-bar-without-sounding-like-an-1849377231)
