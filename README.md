@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [javascript - Uncaught TypeError: Cannot read property &#39;msie&#39; of undefined - jQuery tools](https://dev.to/ztologame/javascript-uncaught-typeerror-cannot-read-property-msie-of-undefined-jquery-tools-3od3)
 - [Dev.to/JS] [How to use JavaScript Promise.all with realtime code example [Axios GET Calls]](https://dev.to/imranmind/how-to-use-javascript-promiseall-with-realtime-code-example-axios-get-calls-1hnk)
 - [Dev.to/JS] [Save scroll state in React when visiting another page](https://dev.to/renegadedev/save-scroll-state-in-react-when-visiting-another-page-155k)
 - [Dev.to/JS] [Mordern Javascript: Utilizing The Async-Await Feature.](https://dev.to/mr_walkr/mordern-javascript-utilizing-the-async-await-feature-92l)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Setup Tailwind CSS in Vue 3](https://dev.to/martinsonuoha/how-to-setup-tailwind-css-in-vue-3-4i0l)
 - [Dev.to/JS] [Reasons Why Technology Startups Fail](https://dev.to/techmaniacc/reasons-why-technology-startups-fail-5ebf)
 - [Dev.to/JS] [Paracetamol.js💊| #179: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-179-explica-este-codigo-javascript-gg0)
-- [Dev.to/JS] [Arbitrary Styles With Tailwind JIT](https://dev.to/martinsonuoha/arbitrary-styles-with-tailwind-jit-4fce)
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
