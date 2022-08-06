@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web workers, Service Worker and PWA](https://dev.to/saksh/web-workers-service-worker-and-pwa-5gbm)
 - [Dev.to/JS] [Memory Reallocation](https://dev.to/rmion/memory-reallocation-2ago)
 - [Dev.to/JS] [Updating from @sveltejs/kit@1.0.0-next.350 to @sveltejs/kit@1.0.0-next.403](https://dev.to/andrewusher/updating-from-sveltejskit100-next350-to-sveltejskit100-next403-36b0)
 - [Dev.to/JS] [Create a Client-Side File Download – JavaScript Tutorial](https://dev.to/jimmywilliams/create-a-client-side-file-download-javascript-tutorial-2cf7)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This Week In React #115: Astro, Radix, Remix, Next.js, MDX, Storybook, Expo 46, Skia, TanStack, TC39, Docusaurus...](https://dev.to/sebastienlorber/this-week-in-react-115-astro-radix-remix-nextjs-mdx-storybook-expo-46-skia-tanstack-tc39-docusaurus-1nee)
 - [Dev.to/JS] [An Introduction to FACEIO; User Web Authentication Made Easy](https://dev.to/shenzati/an-introduction-to-faceio-user-web-authentication-made-easy-2ji6)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
-- [Dev.to/JS] [Undeclared, undefined and null in Javascript](https://dev.to/jtlavs/undeclared-undefined-and-null-in-javascript-2pc)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
