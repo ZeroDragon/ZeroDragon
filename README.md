@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Node JS Resize Image Before Upload using Sharp Multer](https://dev.to/ranjan/simple-node-js-resize-image-before-upload-using-sharp-multer-p8c)
+- [Dev.to/JS] [Ditch the DOM with SolidJS and Skia CanvasKit](https://dev.to/whoisryosuke/ditch-the-dom-with-solidjs-and-skia-canvaskit-78n)
 - [Dev.to/JS] [Why People Love React?](https://dev.to/olaoyesunday/why-people-love-react-2gel)
 - [Dev.to/JS] [📚Angular Interview Questions Part 2](https://dev.to/stacksjar/angular-interview-questions-part-2-10bn)
 - [Dev.to/JS] [📚Angular Interview Questions Part 3](https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Import and Export Excel XLSX Using Vue](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-vue-4bg6)
 - [Dev.to/JS] [Singly Linked List in JavaScript](https://dev.to/anasnmu/singly-linked-list-in-javascript-3m2c)
 - [Dev.to/JS] [Do you know about Layout thrashing?](https://dev.to/hugaidas/do-you-know-about-layout-thrashing-44fc)
-- [Dev.to/JS] [Reduct Storage Client SDK for JavaScript 0.6.0 was released](https://dev.to/reduct-storage/reduct-storage-client-sdk-for-javascript-060-released-1bdp)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
-- [Dev.to/JS] [Deploy SvelteKit with node adapter on linux sever.](https://dev.to/theether0/deploy-sveltekit-with-node-adapter-on-linux-sever-n)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
 - [Lifehacker] [How to Order a Drink at a Bar Without Sounding Like an Idiot](https://lifehacker.com/how-to-order-a-drink-at-a-bar-without-sounding-like-an-1849377231)
 - [Lifehacker] [How to Make Your Own Ranch Water](https://lifehacker.com/how-to-make-your-own-ranch-water-1849377458)
