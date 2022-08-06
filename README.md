@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I built a SaaS in 10 days using SaasRock&#39;s codebase](https://dev.to/alexandromtzg/how-i-built-a-saas-in-10-days-using-saasrocks-codebase-5alh)
+- [Dev.to/JS] [Let&#39;s practice Insert Sort &lpar;Javascript&rpar;](https://dev.to/re4388/lets-practice-insert-sort-javascript-5790)
+- [Dev.to/JS] [⚡ When Faster Isn&#39;t Better](https://dev.to/mistval/when-faster-isnt-better-4f19)
 - [Dev.to/JS] [Simple Node JS Resize Image Before Upload using Sharp Multer](https://dev.to/ranjan/simple-node-js-resize-image-before-upload-using-sharp-multer-p8c)
 - [Dev.to/JS] [Ditch the DOM with SolidJS and Skia CanvasKit](https://dev.to/whoisryosuke/ditch-the-dom-with-solidjs-and-skia-canvaskit-78n)
 - [Dev.to/JS] [Why People Love React?](https://dev.to/olaoyesunday/why-people-love-react-2gel)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [101 series: Promises #2: how to get current promise status and build your own promise queue?](https://dev.to/xnimorz/101-series-promises-2-how-to-get-current-promise-status-and-build-your-own-promise-queue-18j8)
 - [Dev.to/JS] [A Guide to Angular 14 Release Features and Updates](https://dev.to/grapecity/a-guide-to-angular-14-release-features-and-updates-442f)
 - [Dev.to/JS] [Generating CMS from Prisma Schema](https://dev.to/0916dhkim/generating-cms-from-prisma-schema-63p)
-- [Dev.to/JS] [How to Import and Export Excel XLSX Using Vue](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-vue-4bg6)
-- [Dev.to/JS] [Singly Linked List in JavaScript](https://dev.to/anasnmu/singly-linked-list-in-javascript-3m2c)
-- [Dev.to/JS] [Do you know about Layout thrashing?](https://dev.to/hugaidas/do-you-know-about-layout-thrashing-44fc)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
 - [Lifehacker] [How to Order a Drink at a Bar Without Sounding Like an Idiot](https://lifehacker.com/how-to-order-a-drink-at-a-bar-without-sounding-like-an-1849377231)
