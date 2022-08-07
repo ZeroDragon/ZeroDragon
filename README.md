@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Internationalization in React with &lpar;React-intl &rpar;](https://dev.to/easyvipin/internationalization-in-react-with-react-intl--1k)
+- [Dev.to/JS] [Copy to clipboard URL in Next JS](https://dev.to/amanp30/copy-to-clipboard-url-in-next-js-3bo)
 - [Dev.to/JS] [Protetox - &lpar;USA&rpar; Shocking Results, Pros, Cons, Scam Or Legit?](https://dev.to/protetoxinfo/protetox-usa-shocking-results-pros-cons-scam-or-legit-3ic)
 - [Dev.to/JS] [5 Good practices to scale your React projects easily](https://dev.to/jeffreythecoder/5-good-practices-to-scale-your-react-projects-3jnb)
 - [Dev.to/JS] [What is really partial update [React Hook] look like?](https://dev.to/hillliu/react-usepartialrender-hook-3m0n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Directives in Angular JS](https://dev.to/shaikhkamran/directives-in-angular-js-1e22)
 - [Dev.to/JS] [A Maze of Twisty Trampolines, All Alike](https://dev.to/rmion/a-maze-of-twisty-trampolines-all-alike-2hdp)
 - [Dev.to/JS] [How we used module federation to implement micro frontends](https://dev.to/kerryconvery/module-federation-learnings-37oi)
-- [Dev.to/JS] [How to apply a mask into a portrait with canvas](https://dev.to/arnosolo/how-to-apply-a-mask-into-a-portrait-with-canvas-2o5g)
-- [Dev.to/JS] [Debugging Vue Jest tests in a browser](https://dev.to/thejaredwilcurt/debugging-vue-jest-tests-in-a-browser-1m25)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
