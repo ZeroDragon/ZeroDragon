@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Protetox - &lpar;USA&rpar; Shocking Results, Pros, Cons, Scam Or Legit?](https://dev.to/protetoxinfo/protetox-usa-shocking-results-pros-cons-scam-or-legit-3ic)
+- [Dev.to/JS] [5 Good practices to scale your React projects easily](https://dev.to/jeffreythecoder/5-good-practices-to-scale-your-react-projects-3jnb)
 - [Dev.to/JS] [What is really partial update [React Hook] look like?](https://dev.to/hillliu/react-usepartialrender-hook-3m0n)
 - [Dev.to/JS] [Learning Regular Expressions](https://dev.to/virgomoon/learning-regular-expressions-45p3)
 - [Dev.to/JS] [Reflection! Cool Effects with -webkit-box-reflect](https://dev.to/chokcoco/reflection-cool-effects-with-webkit-box-reflect-dpl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How we used module federation to implement micro frontends](https://dev.to/kerryconvery/module-federation-learnings-37oi)
 - [Dev.to/JS] [How to apply a mask into a portrait with canvas](https://dev.to/arnosolo/how-to-apply-a-mask-into-a-portrait-with-canvas-2o5g)
 - [Dev.to/JS] [Debugging Vue Jest tests in a browser](https://dev.to/thejaredwilcurt/debugging-vue-jest-tests-in-a-browser-1m25)
-- [Dev.to/JS] [Como é trabalhar com comunidade](https://dev.to/grubba/como-e-trabalhar-com-comunidade-2fef)
-- [Dev.to/JS] [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
