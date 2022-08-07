@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useNavigate,Navigate and useLocation in React Router v6](https://dev.to/cjreads665/usenavigatenavigate-and-uselocation-in-react-router-v6-lip)
+- [Dev.to/JS] [3 Useful Node.js Version Managers](https://dev.to/chris1993/3-useful-nodejs-version-managers-5akg)
+- [Dev.to/JS] [A Complete Guide to Debugging JavaScript in Chrome](https://dev.to/dboatengx/a-complete-guide-to-debugging-javascript-in-chrome-1a4m)
+- [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Dev.to/JS] [Creating a React Modal with React custom Hooks and Typescript](https://dev.to/theashishmaurya/creating-a-react-modal-with-react-custom-hooks-and-typescript-55ma)
 - [Dev.to/JS] [Fingerprint authentication in expo](https://dev.to/chinmaymhatre/fingerprint-authentication-in-expo-hc3)
 - [Dev.to/JS] [11 Authentication Mistakes and how to fix them](https://dev.to/asayerio_techblog/11-authentication-mistakes-and-how-to-fix-them-2hm1)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
 - [Dev.to/JS] [How to Build a Gym Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-gym-website-using-html-css-javascript-669)
 - [Dev.to/JS] [Bootstrap your micro front-end in 5 minutes](https://dev.to/rahulranjanme/bootstrap-your-micro-front-end-in-5-minutes-f78)
-- [Dev.to/JS] [How to install nvm, the Node Version Manager](https://dev.to/smpnjn/how-to-install-nvm-the-node-version-manager-50ga)
-- [Dev.to/JS] [Explain Javascript as a Single Threaded Non-blocking Asynchronous Programming Language Like I&#39;m Five](https://dev.to/mohamadharith/explain-javascript-as-a-single-threaded-non-blocking-asynchronous-programming-language-like-im-five-hep)
-- [Dev.to/JS] [Utilities I use for web development. 🗿](https://dev.to/shrihari/utilities-i-use-for-web-development-3ajn)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
 - [Lifehacker] [Unexpected Places You Should Bring Earplugs](https://lifehacker.com/unexpected-places-you-should-bring-earplugs-1849372699)
 - [Lifehacker] [These Online Resources Will Help You Find Free College Textbooks](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
-- [Lifehacker] [Why Can&#39;t I Get a Monkeypox Vaccine?](https://lifehacker.com/why-cant-i-get-a-monkeypox-vaccine-1849371721)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
