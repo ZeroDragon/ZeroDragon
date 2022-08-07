@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How we used module federation to implement micro frontends](https://dev.to/kerryconvery/module-federation-learnings-37oi)
+- [Dev.to/JS] [How to apply a mask into a portrait with canvas](https://dev.to/arnosolo/how-to-apply-a-mask-into-a-portrait-with-canvas-2o5g)
+- [Dev.to/JS] [Debugging Vue Jest tests in a browser](https://dev.to/thejaredwilcurt/debugging-vue-jest-tests-in-a-browser-1m25)
+- [Dev.to/JS] [Como é trabalhar com comunidade](https://dev.to/grubba/como-e-trabalhar-com-comunidade-2fef)
+- [Dev.to/JS] [React Versiyon Düşürme](https://dev.to/gulsenkeskin/react-versiyon-dusurme-54j1)
 - [Dev.to/JS] [RDT mobile wrapper using React Context](https://dev.to/agusrdz/rdt-mobile-wrapper-using-react-context-2jkd)
 - [Dev.to/JS] [Recursions](https://dev.to/hnicolus/recursions-1f8)
 - [Dev.to/JS] [Web workers, Service Worker and PWA](https://dev.to/saksh/web-workers-service-worker-and-pwa-5gbm)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Updating from @sveltejs/kit@1.0.0-next.350 to @sveltejs/kit@1.0.0-next.403](https://dev.to/andrewusher/updating-from-sveltejskit100-next350-to-sveltejskit100-next403-36b0)
 - [Dev.to/JS] [Create a Client-Side File Download – JavaScript Tutorial](https://dev.to/jimmywilliams/create-a-client-side-file-download-javascript-tutorial-2cf7)
 - [Dev.to/JS] [Create QR Codes in JavaScript with QRCodes.js](https://dev.to/jimmywilliams/create-qr-codes-in-javascript-with-qrcodesjs-3eop)
-- [Dev.to/JS] [Frontend pagination with JavaScript](https://dev.to/jimmywilliams/frontend-pagination-with-javascript-43f5)
-- [Dev.to/JS] [174! &lpar;My first computer website I made on my personal home computer&rpar;](https://dev.to/elliotmangini/174-my-first-computer-website-i-made-on-my-personal-home-computer-1947)
-- [Dev.to/JS] [Code Smell 156 - Implicit Else](https://dev.to/mcsee/code-smell-156-implicit-else-1ko3)
-- [Dev.to/JS] [A helpful dashboard with tools, resources and more, for developers.](https://dev.to/dechamp/a-helpful-dashboard-with-tools-resources-and-more-for-developers-1cji)
-- [Dev.to/JS] [Pruebas Estáticas vs Unitarias vs Integración vs E2E para Aplicaciones Frontend](https://dev.to/johanaltro/pruebas-estaticas-vs-unitarias-vs-integracion-vs-e2e-para-aplicaciones-frontend-4i84)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
