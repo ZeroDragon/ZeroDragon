@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HOW TO RESOLVE MERGE CONFLICT IN GIT ?](https://dev.to/folacode22/how-to-resolve-merge-conflict-in-git--mko)
 - [Dev.to/JS] [Meteor toolbox for your next hackathon or project start](https://dev.to/jankapunkt/meteor-toolbox-for-your-next-hackathon-or-project-start-1ino)
 - [Dev.to/JS] [React - Fetching promises from the state???](https://dev.to/noriller/react-fetching-promises-from-the-state-1g54)
 - [Dev.to/JS] [What is the quickest way to release a web app with auth?](https://dev.to/horosin/what-is-the-quickest-way-to-release-a-web-app-with-auth-372m)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Plan to use coding as a tool to save my future](https://dev.to/vitomedlej/how-i-plan-to-use-coding-as-a-tool-to-save-my-future-3d8f)
 - [Dev.to/JS] [Open Telemetry in NestJs &lpar;and React&rpar;](https://dev.to/darraghor/open-telemetry-in-nestjs-and-react-j3b)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
-- [Dev.to/JS] [Weekly Digest 31/2022](https://dev.to/marcobiedermann/weekly-digest-312022-3cg7)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
