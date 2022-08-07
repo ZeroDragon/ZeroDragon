@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilities I use for web development. 🗿](https://dev.to/shrihari/utilities-i-use-for-web-development-3ajn)
+- [Dev.to/JS] [LeetCode - Combination Sum II](https://dev.to/_alkesh26/leetcode-combination-sum-ii-1499)
+- [Dev.to/JS] [An e-commerce website](https://dev.to/muubaraq/an-e-commerce-website-141h)
+- [Dev.to/JS] [🔥 JS Challenge &lpar;x20&rpar;](https://dev.to/noto8/js-challenge-x20-4ng5)
+- [Dev.to/JS] [How to keep the HTTP cache fresh](https://dev.to/shmilyes/how-to-keep-the-http-cache-fresh-22i9)
 - [Dev.to/JS] [Got To Start Somewhere...](https://dev.to/jorgecasta0207/got-to-start-somewhere-jfc)
 - [Dev.to/JS] [Getting Started With PayStack API](https://dev.to/taiworoqeeb/getting-started-with-paystack-api-1ebm)
 - [Dev.to/JS] [Internationalization in React with &lpar;React-intl &rpar;](https://dev.to/easyvipin/internationalization-in-react-with-react-intl--1k)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Protetox - &lpar;USA&rpar; Shocking Results, Pros, Cons, Scam Or Legit?](https://dev.to/protetoxinfo/protetox-usa-shocking-results-pros-cons-scam-or-legit-3ic)
 - [Dev.to/JS] [5 Good practices to scale your React projects easily](https://dev.to/jeffreythecoder/5-good-practices-to-scale-your-react-projects-3jnb)
 - [Dev.to/JS] [What is really partial update [React Hook] look like?](https://dev.to/hillliu/react-usepartialrender-hook-3m0n)
-- [Dev.to/JS] [Learning Regular Expressions](https://dev.to/virgomoon/learning-regular-expressions-45p3)
-- [Dev.to/JS] [Reflection! Cool Effects with -webkit-box-reflect](https://dev.to/chokcoco/reflection-cool-effects-with-webkit-box-reflect-dpl)
-- [Dev.to/JS] [NPM downloads decrease every day](https://dev.to/610470416/npm-downloads-decrease-every-day-226m)
-- [Dev.to/JS] [Save scroll state in React when visiting an other page with a custom hook](https://dev.to/renegadedev/save-scroll-state-in-react-when-visiting-other-page-with-a-custom-hook-57nk)
-- [Dev.to/JS] [Directives in Angular JS](https://dev.to/shaikhkamran/directives-in-angular-js-1e22)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
