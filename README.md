@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Directives in Angular JS](https://dev.to/shaikhkamran/directives-in-angular-js-1e22)
 - [Dev.to/JS] [A Maze of Twisty Trampolines, All Alike](https://dev.to/rmion/a-maze-of-twisty-trampolines-all-alike-2hdp)
 - [Dev.to/JS] [How we used module federation to implement micro frontends](https://dev.to/kerryconvery/module-federation-learnings-37oi)
 - [Dev.to/JS] [How to apply a mask into a portrait with canvas](https://dev.to/arnosolo/how-to-apply-a-mask-into-a-portrait-with-canvas-2o5g)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web workers, Service Worker and PWA](https://dev.to/saksh/web-workers-service-worker-and-pwa-5gbm)
 - [Dev.to/JS] [Memory Reallocation](https://dev.to/rmion/memory-reallocation-2ago)
 - [Dev.to/JS] [Updating from @sveltejs/kit@1.0.0-next.350 to @sveltejs/kit@1.0.0-next.403](https://dev.to/andrewusher/updating-from-sveltejskit100-next350-to-sveltejskit100-next403-36b0)
-- [Dev.to/JS] [Create a Client-Side File Download – JavaScript Tutorial](https://dev.to/jimmywilliams/create-a-client-side-file-download-javascript-tutorial-2cf7)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
