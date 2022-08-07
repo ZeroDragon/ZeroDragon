@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly Digest 31/2022](https://dev.to/marcobiedermann/weekly-digest-312022-3cg7)
+- [Dev.to/JS] [An Introduction to Conditional Types in TypeScript](https://dev.to/smpnjn/an-introduction-to-conditional-types-in-typescript-26pj)
+- [Dev.to/JS] [Label you Emails with Google App script](https://dev.to/abdeladim101basraoui/label-you-emails-with-google-app-script-5766)
+- [Dev.to/JS] [⏱️ Stopwatch in React](https://dev.to/noto8/stopwatch-in-react-1l2j)
 - [Dev.to/JS] [useNavigate,Navigate and useLocation in React Router v6](https://dev.to/cjreads665/usenavigatenavigate-and-uselocation-in-react-router-v6-lip)
 - [Dev.to/JS] [3 Useful Node.js Version Managers](https://dev.to/chris1993/3-useful-nodejs-version-managers-5akg)
 - [Dev.to/JS] [A Complete Guide to Debugging JavaScript in Chrome](https://dev.to/dboatengx/a-complete-guide-to-debugging-javascript-in-chrome-1a4m)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [11 Authentication Mistakes and how to fix them](https://dev.to/asayerio_techblog/11-authentication-mistakes-and-how-to-fix-them-2hm1)
 - [Dev.to/JS] [Validating Forms with Vue Formulate](https://dev.to/asayerio_techblog/validating-forms-with-vue-formulate-5fdi)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 7 and 8 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-7-and-8-report-2a71)
-- [Dev.to/JS] [How to fix &#39;Uncaught SyntaxError: Cannot use import statement outside a module&#39;](https://dev.to/smpnjn/how-to-fix-uncaught-syntaxerror-cannot-use-import-statement-outside-a-module-3gc3)
-- [Dev.to/JS] [How to check if localStorage item exists](https://dev.to/webdeecoder/how-to-check-if-localstorage-item-exists-5a0m)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
-- [Dev.to/JS] [How to Build a Gym Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-gym-website-using-html-css-javascript-669)
-- [Dev.to/JS] [Bootstrap your micro front-end in 5 minutes](https://dev.to/rahulranjanme/bootstrap-your-micro-front-end-in-5-minutes-f78)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
