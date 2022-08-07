@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Plan to use coding as a tool to save my future](https://dev.to/vitomedlej/how-i-plan-to-use-coding-as-a-tool-to-save-my-future-3d8f)
+- [Dev.to/JS] [Open Telemetry in NestJs &lpar;and React&rpar;](https://dev.to/darraghor/open-telemetry-in-nestjs-and-react-j3b)
+- [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Dev.to/JS] [Weekly Digest 31/2022](https://dev.to/marcobiedermann/weekly-digest-312022-3cg7)
 - [Dev.to/JS] [An Introduction to Conditional Types in TypeScript](https://dev.to/smpnjn/an-introduction-to-conditional-types-in-typescript-26pj)
 - [Dev.to/JS] [Label you Emails with Google App script](https://dev.to/abdeladim101basraoui/label-you-emails-with-google-app-script-5766)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a React Modal with React custom Hooks and Typescript](https://dev.to/theashishmaurya/creating-a-react-modal-with-react-custom-hooks-and-typescript-55ma)
 - [Dev.to/JS] [Fingerprint authentication in expo](https://dev.to/chinmaymhatre/fingerprint-authentication-in-expo-hc3)
 - [Dev.to/JS] [11 Authentication Mistakes and how to fix them](https://dev.to/asayerio_techblog/11-authentication-mistakes-and-how-to-fix-them-2hm1)
-- [Dev.to/JS] [Validating Forms with Vue Formulate](https://dev.to/asayerio_techblog/validating-forms-with-vue-formulate-5fdi)
-- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 7 and 8 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-7-and-8-report-2a71)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When a Screenshot of an E-Ticket Will Work &lpar;and When It Won’t&rpar;](https://lifehacker.com/when-a-screenshot-of-an-e-ticket-will-work-and-when-it-1849372189)
 - [Lifehacker] [Stop Soaking Your Wood Chips Already](https://lifehacker.com/stop-soaking-your-wood-chips-already-1849372495)
 - [Lifehacker] [Unexpected Places You Should Bring Earplugs](https://lifehacker.com/unexpected-places-you-should-bring-earplugs-1849372699)
-- [Lifehacker] [These Online Resources Will Help You Find Free College Textbooks](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
