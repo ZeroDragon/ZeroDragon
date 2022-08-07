@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prepare React Native app for release](https://dev.to/aynurkarimov/prepare-react-native-app-for-release-j1n)
+- [Dev.to/JS] [5 ways to check if a key exists in an object in JavaScript](https://dev.to/amitavmishra99/5-ways-to-check-if-a-key-exists-in-an-object-in-javascript-22e9)
+- [Dev.to/JS] [How to get current year in Next JS](https://dev.to/amanp30/how-to-get-current-year-in-next-js-5cci)
+- [Dev.to/JS] [Arrays?](https://dev.to/zoej/arrays-2e5j)
+- [Dev.to/JS] [The Odin Project Update: Part I](https://dev.to/taepal467/the-odin-project-update-part-i-5hdg)
 - [Dev.to/JS] [How I Plan to use coding as a tool to save my future](https://dev.to/vitomedlej/how-i-plan-to-use-coding-as-a-tool-to-save-my-future-3d8f)
 - [Dev.to/JS] [Open Telemetry in NestJs &lpar;and React&rpar;](https://dev.to/darraghor/open-telemetry-in-nestjs-and-react-j3b)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Label you Emails with Google App script](https://dev.to/abdeladim101basraoui/label-you-emails-with-google-app-script-5766)
 - [Dev.to/JS] [⏱️ Stopwatch in React](https://dev.to/noto8/stopwatch-in-react-1l2j)
 - [Dev.to/JS] [useNavigate,Navigate and useLocation in React Router v6](https://dev.to/cjreads665/usenavigatenavigate-and-uselocation-in-react-router-v6-lip)
-- [Dev.to/JS] [3 Useful Node.js Version Managers](https://dev.to/chris1993/3-useful-nodejs-version-managers-5akg)
-- [Dev.to/JS] [A Complete Guide to Debugging JavaScript in Chrome](https://dev.to/dboatengx/a-complete-guide-to-debugging-javascript-in-chrome-1a4m)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
-- [Dev.to/JS] [Creating a React Modal with React custom Hooks and Typescript](https://dev.to/theashishmaurya/creating-a-react-modal-with-react-custom-hooks-and-typescript-55ma)
-- [Dev.to/JS] [Fingerprint authentication in expo](https://dev.to/chinmaymhatre/fingerprint-authentication-in-expo-hc3)
-- [Dev.to/JS] [11 Authentication Mistakes and how to fix them](https://dev.to/asayerio_techblog/11-authentication-mistakes-and-how-to-fix-them-2hm1)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
