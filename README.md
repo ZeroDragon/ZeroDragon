@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Usando o shepherdjs para fazer tours em uma aplicação nuxt &lpar;vue.js&rpar; &lpar;Parte 2&rpar;](https://dev.to/cesarbhering/usando-o-shepherdjs-para-fazer-tours-em-uma-aplicacao-nuxt-vuejs-parte-2-1d22)
+- [Dev.to/JS] [Guia de Promises do JavaScript](https://dev.to/wkrueger/guia-de-promises-do-javascript-4hn6)
 - [Dev.to/JS] [HOW TO RESOLVE MERGE CONFLICT IN GIT ?](https://dev.to/folacode22/how-to-resolve-merge-conflict-in-git--mko)
 - [Dev.to/JS] [Meteor toolbox for your next hackathon or project start](https://dev.to/jankapunkt/meteor-toolbox-for-your-next-hackathon-or-project-start-1ino)
 - [Dev.to/JS] [React - Fetching promises from the state???](https://dev.to/noriller/react-fetching-promises-from-the-state-1g54)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get current year in Next JS](https://dev.to/amanp30/how-to-get-current-year-in-next-js-5cci)
 - [Dev.to/JS] [Arrays?](https://dev.to/zoej/arrays-2e5j)
 - [Dev.to/JS] [The Odin Project Update: Part I](https://dev.to/taepal467/the-odin-project-update-part-i-5hdg)
-- [Dev.to/JS] [How I Plan to use coding as a tool to save my future](https://dev.to/vitomedlej/how-i-plan-to-use-coding-as-a-tool-to-save-my-future-3d8f)
-- [Dev.to/JS] [Open Telemetry in NestJs &lpar;and React&rpar;](https://dev.to/darraghor/open-telemetry-in-nestjs-and-react-j3b)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
