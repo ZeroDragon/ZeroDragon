@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a React Modal with React custom Hooks and Typescript](https://dev.to/theashishmaurya/creating-a-react-modal-with-react-custom-hooks-and-typescript-55ma)
+- [Dev.to/JS] [Fingerprint authentication in expo](https://dev.to/chinmaymhatre/fingerprint-authentication-in-expo-hc3)
 - [Dev.to/JS] [11 Authentication Mistakes and how to fix them](https://dev.to/asayerio_techblog/11-authentication-mistakes-and-how-to-fix-them-2hm1)
 - [Dev.to/JS] [Validating Forms with Vue Formulate](https://dev.to/asayerio_techblog/validating-forms-with-vue-formulate-5fdi)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 7 and 8 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-7-and-8-report-2a71)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to install nvm, the Node Version Manager](https://dev.to/smpnjn/how-to-install-nvm-the-node-version-manager-50ga)
 - [Dev.to/JS] [Explain Javascript as a Single Threaded Non-blocking Asynchronous Programming Language Like I&#39;m Five](https://dev.to/mohamadharith/explain-javascript-as-a-single-threaded-non-blocking-asynchronous-programming-language-like-im-five-hep)
 - [Dev.to/JS] [Utilities I use for web development. 🗿](https://dev.to/shrihari/utilities-i-use-for-web-development-3ajn)
-- [Dev.to/JS] [LeetCode - Combination Sum II](https://dev.to/_alkesh26/leetcode-combination-sum-ii-1499)
-- [Dev.to/JS] [An e-commerce website](https://dev.to/muubaraq/an-e-commerce-website-141h)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
