@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [11 Authentication Mistakes and how to fix them](https://dev.to/asayerio_techblog/11-authentication-mistakes-and-how-to-fix-them-2hm1)
+- [Dev.to/JS] [Validating Forms with Vue Formulate](https://dev.to/asayerio_techblog/validating-forms-with-vue-formulate-5fdi)
+- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 7 and 8 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-7-and-8-report-2a71)
+- [Dev.to/JS] [How to fix &#39;Uncaught SyntaxError: Cannot use import statement outside a module&#39;](https://dev.to/smpnjn/how-to-fix-uncaught-syntaxerror-cannot-use-import-statement-outside-a-module-3gc3)
+- [Dev.to/JS] [How to check if localStorage item exists](https://dev.to/webdeecoder/how-to-check-if-localstorage-item-exists-5a0m)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
 - [Dev.to/JS] [How to Build a Gym Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-gym-website-using-html-css-javascript-669)
 - [Dev.to/JS] [Bootstrap your micro front-end in 5 minutes](https://dev.to/rahulranjanme/bootstrap-your-micro-front-end-in-5-minutes-f78)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Utilities I use for web development. 🗿](https://dev.to/shrihari/utilities-i-use-for-web-development-3ajn)
 - [Dev.to/JS] [LeetCode - Combination Sum II](https://dev.to/_alkesh26/leetcode-combination-sum-ii-1499)
 - [Dev.to/JS] [An e-commerce website](https://dev.to/muubaraq/an-e-commerce-website-141h)
-- [Dev.to/JS] [🔥 JS Challenge &lpar;x20&rpar;](https://dev.to/noto8/js-challenge-x20-4ng5)
-- [Dev.to/JS] [How to keep the HTTP cache fresh](https://dev.to/shmilyes/how-to-keep-the-http-cache-fresh-22i9)
-- [Dev.to/JS] [Got To Start Somewhere...](https://dev.to/jorgecasta0207/got-to-start-somewhere-jfc)
-- [Dev.to/JS] [Getting Started With PayStack API](https://dev.to/taiworoqeeb/getting-started-with-paystack-api-1ebm)
-- [Dev.to/JS] [Internationalization in React with &lpar;React-intl &rpar;](https://dev.to/easyvipin/internationalization-in-react-with-react-intl--1k)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
 - [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
