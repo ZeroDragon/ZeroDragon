@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PETS EATABLE APP](https://dev.to/mike96261/pets-eatable-app-5h5i)
+- [Dev.to/JS] [innerHTML v. innerText](https://dev.to/emmacohanim/innerhtml-v-innertext-1047)
 - [Dev.to/JS] [Scrollable and draggable carousel](https://dev.to/woto/scrollable-and-draggable-carousel-5a7f)
 - [Dev.to/JS] [Linked List Cycles](https://dev.to/webdev122/linked-list-cycles-35ml)
 - [Dev.to/JS] [5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://dev.to/qbentil/5-javascript-console-methods-that-will-improve-your-debugging-skills-147b)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I can&#39;t decide how to convert a string into a number in JS](https://dev.to/mariolemus/why-i-cant-decide-how-to-convert-a-string-into-a-number-in-js-43fi)
 - [Dev.to/JS] [Usando o shepherdjs para fazer tours em uma aplicação nuxt &lpar;vue.js&rpar; &lpar;Parte 2&rpar;](https://dev.to/cesarbhering/usando-o-shepherdjs-para-fazer-tours-em-uma-aplicacao-nuxt-vuejs-parte-2-1d22)
 - [Dev.to/JS] [Guia de Promises do JavaScript](https://dev.to/wkrueger/guia-de-promises-do-javascript-4hn6)
-- [Dev.to/JS] [HOW TO RESOLVE MERGE CONFLICT IN GIT ?](https://dev.to/folacode22/how-to-resolve-merge-conflict-in-git--mko)
-- [Dev.to/JS] [Meteor toolbox for your next hackathon or project start](https://dev.to/jankapunkt/meteor-toolbox-for-your-next-hackathon-or-project-start-1ino)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
