@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Algorithms: Depth-First Search &lpar;JavaScript&rpar;](https://dev.to/seantansey/algorithms-depth-first-search-javascript-37oj)
+- [Dev.to/JS] [How to get canada hosting wordpress?](https://dev.to/hostulta/how-to-get-canada-hosting-wordpress-46he)
+- [Dev.to/JS] [A Simple Introduction to Arrays In JavaScript](https://dev.to/princenwaonicha/a-simple-introduction-to-arrays-in-javascript-46no)
+- [Dev.to/JS] [Tools and Integrations to Significantly Improve Code Review in GitHub](https://dev.to/thawkin3/tools-and-integrations-to-significantly-improve-code-review-in-github-emf)
+- [Dev.to/JS] [What to expect from HTML/CSS Bootcamps !?](https://dev.to/keshavgbpecdel/what-to-expect-from-htmlcss-bootcamps--2225)
 - [Dev.to/JS] [How to Secure Nodejs Application.](https://dev.to/olukinni029/how-to-secure-nodejs-application-95e)
 - [Dev.to/JS] [Debugging with VS Code](https://dev.to/codingmustache/debugging-with-vs-code-2n89)
 - [Dev.to/JS] [Let&#39;s learn Angular](https://dev.to/prateek951/lets-learn-angular-5b2p)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Animations API - A Compelling Case](https://dev.to/loganward/web-animations-api-a-compelling-case-1neo)
 - [Dev.to/JS] [Let&#39;s build this Big React Project !](https://dev.to/prateek951/lets-build-this-big-react-project--k7b)
 - [Dev.to/JS] [Which JS loop is fast?](https://dev.to/shubhamtiwari909/which-js-loop-is-fast-3k00)
-- [Dev.to/JS] [Tabbing Tactfully](https://dev.to/abbeyperini/tabbing-tactfully-2dpc)
 - [Lifehacker] [Cook Veggies Faster With a Pinch of This](https://lifehacker.com/cook-veggies-faster-with-a-pinch-of-this-1849378285)
-- [Dev.to/JS] [Movie Ticket Service Web app - D1](https://dev.to/lexpeee/movie-ticket-service-web-app-12gk)
 - [Lifehacker] [Welcome Back to &#39;Will It Casserole?&#39;](https://lifehacker.com/welcome-back-to-will-it-casserole-1849378059)
-- [Dev.to/JS] [Why Should You want to Start A Crypto Exchange Like Binance?](https://dev.to/thecryptoapeo/why-should-you-want-to-start-a-crypto-exchange-like-binance-58ld)
-- [Dev.to/JS] [How can I limit an object size before it is looped in vue/nuxt?](https://dev.to/siumhossain/how-can-i-limit-an-object-size-before-it-is-looped-14fj)
-- [Dev.to/JS] [5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://dev.to/waleedhcoder/5-javascript-console-methods-that-will-improve-your-debugging-skills-5clj)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
