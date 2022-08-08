@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
+- [Dev.to/JS] [Deploy and Verify a Smart Contract to Testnet using Hardhat](https://dev.to/rtagliavia/deploy-and-verify-a-smart-contract-to-testnet-using-hardhat-9fp)
+- [Dev.to/JS] [Deep dive into JavaScript&#39;s Iterators, Iterables and Generators](https://dev.to/asayerio_techblog/deep-dive-into-javascripts-iterators-iterables-and-generators-gl6)
+- [Dev.to/JS] [Web Dev Tips I learned from build the Tinder of finding a Restaurant](https://dev.to/jordantwells42/web-dev-tips-i-learned-from-build-the-tinder-of-finding-a-restaurant-4dll)
+- [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
 - [Dev.to/JS] [Paracetamol.js💊| #180: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-180-explica-este-codigo-javascript-ch0)
 - [Dev.to/JS] [Twilio Conversations client resilient setup](https://dev.to/fr0gs/twilio-conversations-client-resilient-setup-1hal)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Easiest, Fastest Way to Portion Your Homemade Meatballs](https://lifehacker.com/this-is-the-easiest-fastest-way-to-portion-your-homema-1849385658)
 - [Dev.to/JS] [I wonder 🤷‍♂️ -A funny joke🥴 will just get alot of likes and attention than a tutorial. What do you think 🤔 is the reason 🤔](https://dev.to/turinumugisha_s/i-wonder-a-funny-joke-will-just-get-alot-of-likes-and-attention-that-a-tutorial-what-do-you-think-is-the-reason-oda)
 - [Dev.to/JS] [Real Estate](https://dev.to/gerber23/real-estate-48db)
-- [Dev.to/JS] [How to build simple todo list with Vue.js - Part 2](https://dev.to/jakhongir/how-to-build-simple-todo-list-with-vuejs-part-2-42na)
-- [Dev.to/JS] [How To Create a Screen Sharing Application With JavaScript](https://dev.to/anthonys1760/how-to-create-a-screen-sharing-application-with-javascript-4h6j)
-- [Dev.to/JS] [How to maintain your code/work quality under pressure](https://dev.to/quteboy/how-to-maintain-your-codework-quality-under-pressure-1cbn)
 - [Lifehacker] [The Most Annoying Microsoft Edge Features Everyone Should Disable](https://lifehacker.com/the-most-annoying-microsoft-edge-features-everyone-shou-1849385048)
 - [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)
 - [Lifehacker] [Do You Need Locket, the Latest Trendy Photo-Sharing App?](https://lifehacker.com/do-you-need-locket-the-latest-trendy-photo-sharing-app-1849385068)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
 - [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
-- [Lifehacker] [How to Order a Drink at a Bar Without Sounding Like an Idiot](https://lifehacker.com/how-to-order-a-drink-at-a-bar-without-sounding-like-an-1849377231)
-- [Lifehacker] [How to Make Your Own Ranch Water](https://lifehacker.com/how-to-make-your-own-ranch-water-1849377458)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
