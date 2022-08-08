@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Migrate From Strapi v3 to v4 Walkthrough](https://dev.to/strapi/how-to-migrate-from-strapi-v3-to-v4-walkthrough-959)
+- [Dev.to/JS] [Let’s get data-rich with Next.js visualizations ✨](https://dev.to/kulkarniankita9/lets-get-data-rich-with-nextjs-visualizations-2no0)
+- [Lifehacker] [What to Do If You Win the Lottery](https://lifehacker.com/what-to-do-if-you-win-the-lottery-1849384886)
+- [Lifehacker] [Change Your Mac&#39;s Caps Lock Key Into Something Useful](https://lifehacker.com/change-your-macs-caps-lock-key-into-something-useful-1849384768)
 - [Lifehacker] [How to Use Resistance Bands Without Hurting Your Hands](https://lifehacker.com/how-to-use-resistance-bands-without-hurting-your-hands-1849384771)
 - [Dev.to/JS] [The JavaScript Paradox](https://dev.to/this-is-learning/the-javascript-paradox-2njj)
 - [Lifehacker] [How to Rent an Apartment When Your Credit Is in the Toilet](https://lifehacker.com/how-to-rent-an-apartment-when-your-credit-is-in-the-toi-1849384315)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Secure Nodejs Application.](https://dev.to/olukinni029/how-to-secure-nodejs-application-95e)
 - [Dev.to/JS] [Debugging with VS Code](https://dev.to/codingmustache/debugging-with-vs-code-2n89)
 - [Dev.to/JS] [Let&#39;s learn Angular](https://dev.to/prateek951/lets-learn-angular-5b2p)
-- [Dev.to/JS] [Detecting dark mode on every request 🌓](https://dev.to/bryce/detecting-dark-mode-on-every-request-21b2)
-- [Dev.to/JS] [Web Animations API - A Compelling Case](https://dev.to/loganward/web-animations-api-a-compelling-case-1neo)
 - [Lifehacker] [Cook Veggies Faster With a Pinch of This](https://lifehacker.com/cook-veggies-faster-with-a-pinch-of-this-1849378285)
 - [Lifehacker] [Welcome Back to &#39;Will It Casserole?&#39;](https://lifehacker.com/welcome-back-to-will-it-casserole-1849378059)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Navigate Baggage Claim Like a Pro](https://lifehacker.com/how-to-navigate-baggage-claim-like-a-pro-1849376710)
 - [Lifehacker] [These Are the Pandemic Purchases Lifehacker Readers Regret the Most](https://lifehacker.com/these-are-the-pandemic-purchases-lifehacker-readers-reg-1849372997)
 - [Lifehacker] [The Best Budgeting Apps Based on What Kind of Spender You Are](https://lifehacker.com/the-best-budgeting-apps-based-on-what-kind-of-spender-y-1849375309)
-- [Lifehacker] [What to Do When Your Child Is More Than Just a ‘Picky’ Eater](https://lifehacker.com/what-to-do-when-your-child-is-more-than-just-a-picky-1849374352)
-- [Lifehacker] [&#39;Batgirl,&#39; and 12 Other Nearly Finished Movies That Will Probably Never Come Out](https://lifehacker.com/batgirl-and-12-other-fully-finished-movies-that-will-p-1849373827)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
