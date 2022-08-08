@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React - Manage state using context API with useState or useReducer hooks](https://dev.to/clickpesa/react-manage-state-using-context-api-with-usestate-or-usereducer-hooks-d5l)
+- [Dev.to/JS] [The Journey of building Print-On-Demand Editor](https://dev.to/othman2001/the-journey-of-building-print-on-demand-editor-51jl)
+- [Dev.to/JS] [Corruption Checksum](https://dev.to/rmion/corruption-checksum-3070)
+- [Dev.to/JS] [fixing external source image display in related posts](https://dev.to/amir32/fixing-external-source-image-display-in-related-posts-41ic)
+- [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)
+- [Dev.to/JS] [Javascript to know for Reactjs](https://dev.to/okeken/javascript-to-know-for-reactjs-5e34)
+- [Lifehacker] [Do You Need Locket, the Latest Trendy Photo-Sharing App?](https://lifehacker.com/do-you-need-locket-the-latest-trendy-photo-sharing-app-1849385068)
 - [Dev.to/JS] [How To Migrate From Strapi v3 to v4 Walkthrough](https://dev.to/strapi/how-to-migrate-from-strapi-v3-to-v4-walkthrough-959)
 - [Dev.to/JS] [Let’s get data-rich with Next.js visualizations ✨](https://dev.to/kulkarniankita9/lets-get-data-rich-with-nextjs-visualizations-2no0)
 - [Lifehacker] [What to Do If You Win the Lottery](https://lifehacker.com/what-to-do-if-you-win-the-lottery-1849384886)
@@ -35,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get canada hosting wordpress?](https://dev.to/hostulta/how-to-get-canada-hosting-wordpress-46he)
 - [Dev.to/JS] [A Simple Introduction to Arrays In JavaScript](https://dev.to/princenwaonicha/a-simple-introduction-to-arrays-in-javascript-46no)
 - [Lifehacker] [What Is CBN, and Will It Really Help You Sleep?](https://lifehacker.com/what-is-cbn-and-will-it-really-help-you-sleep-1849384486)
-- [Dev.to/JS] [Tools and Integrations to Significantly Improve Code Review in GitHub](https://dev.to/thawkin3/tools-and-integrations-to-significantly-improve-code-review-in-github-emf)
-- [Dev.to/JS] [What to expect from HTML/CSS Bootcamps !?](https://dev.to/keshavgbpecdel/what-to-expect-from-htmlcss-bootcamps--2225)
-- [Dev.to/JS] [How to Secure Nodejs Application.](https://dev.to/olukinni029/how-to-secure-nodejs-application-95e)
-- [Dev.to/JS] [Debugging with VS Code](https://dev.to/codingmustache/debugging-with-vs-code-2n89)
-- [Dev.to/JS] [Let&#39;s learn Angular](https://dev.to/prateek951/lets-learn-angular-5b2p)
 - [Lifehacker] [Cook Veggies Faster With a Pinch of This](https://lifehacker.com/cook-veggies-faster-with-a-pinch-of-this-1849378285)
 - [Lifehacker] [Welcome Back to &#39;Will It Casserole?&#39;](https://lifehacker.com/welcome-back-to-will-it-casserole-1849378059)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Terminal Command to Force Eject a Stubborn Disk From Your Mac](https://lifehacker.com/use-this-terminal-command-to-force-eject-a-stubborn-dis-1849376498)
 - [Lifehacker] [The Easiest Thai Chicken Skewers Ever](https://lifehacker.com/the-easiest-thai-chicken-skewers-ever-1849376133)
 - [Lifehacker] [How to Navigate Baggage Claim Like a Pro](https://lifehacker.com/how-to-navigate-baggage-claim-like-a-pro-1849376710)
-- [Lifehacker] [These Are the Pandemic Purchases Lifehacker Readers Regret the Most](https://lifehacker.com/these-are-the-pandemic-purchases-lifehacker-readers-reg-1849372997)
-- [Lifehacker] [The Best Budgeting Apps Based on What Kind of Spender You Are](https://lifehacker.com/the-best-budgeting-apps-based-on-what-kind-of-spender-y-1849375309)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
