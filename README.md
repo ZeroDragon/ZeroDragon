@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lit: how to use it](https://dev.to/eleonorarocchi/bootstrap-5-grid-systemm-5bfo)
+- [Dev.to/JS] [Inverse Captcha](https://dev.to/rmion/inverse-captcha-2g93)
+- [Lifehacker] [This iPhone App Might Actually Help You Break Your Social Media Addiction](https://lifehacker.com/this-iphone-app-might-actually-help-you-break-your-soci-1849385952)
+- [Lifehacker] [How to Get the Stink Out of Musty-Smelling Clothes](https://lifehacker.com/how-to-get-the-stink-out-of-musty-smelling-clothes-1849385890)
+- [Dev.to/JS] [Pass Data from children Component to Parent Component in ReactJs](https://dev.to/thatfemicode/pass-data-from-children-component-to-parent-component-in-reactjs-559n)
 - [Dev.to/JS] [How to Easily Add and Remove Any Elements from a JavaScript Array](https://dev.to/apmfree78/how-to-easily-add-and-remove-any-elements-from-a-javascript-array-5796)
 - [Dev.to/JS] [A useful array method in Javascript](https://dev.to/zabdeldjallil/a-useful-array-method-in-javascript-4j9f)
 - [Lifehacker] [This Is the Easiest, Fastest Way to Portion Your Homemade Meatballs](https://lifehacker.com/this-is-the-easiest-fastest-way-to-portion-your-homema-1849385658)
@@ -34,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Annoying Microsoft Edge Features Everyone Should Disable](https://lifehacker.com/the-most-annoying-microsoft-edge-features-everyone-shou-1849385048)
 - [Dev.to/JS] [React - Manage state using context API with useState or useReducer hooks](https://dev.to/clickpesa/react-manage-state-using-context-api-with-usestate-or-usereducer-hooks-d5l)
 - [Dev.to/JS] [The Journey of building Print-On-Demand Editor](https://dev.to/othman2001/the-journey-of-building-print-on-demand-editor-51jl)
-- [Dev.to/JS] [Corruption Checksum](https://dev.to/rmion/corruption-checksum-3070)
-- [Dev.to/JS] [fixing external source image display in related posts](https://dev.to/amir32/fixing-external-source-image-display-in-related-posts-41ic)
 - [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)
-- [Dev.to/JS] [11ty Second 11ty: Global Data files &lpar;JS and JSON&rpar;](https://dev.to/brob/11ty-second-11ty-global-data-files-js-and-json-566o)
 - [Lifehacker] [Do You Need Locket, the Latest Trendy Photo-Sharing App?](https://lifehacker.com/do-you-need-locket-the-latest-trendy-photo-sharing-app-1849385068)
 - [Lifehacker] [What to Do If You Win the Lottery](https://lifehacker.com/what-to-do-if-you-win-the-lottery-1849384886)
 - [Lifehacker] [Change Your Mac&#39;s Caps Lock Key Into Something Useful](https://lifehacker.com/change-your-macs-caps-lock-key-into-something-useful-1849384768)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Order a Drink at a Bar Without Sounding Like an Idiot](https://lifehacker.com/how-to-order-a-drink-at-a-bar-without-sounding-like-an-1849377231)
 - [Lifehacker] [How to Make Your Own Ranch Water](https://lifehacker.com/how-to-make-your-own-ranch-water-1849377458)
 - [Lifehacker] [How to Prepare Now for a Recession](https://lifehacker.com/how-to-prepare-now-for-a-recession-1849377526)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s in the Johnny Depp Documents?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-in-1849377293)
-- [Lifehacker] [Use This Terminal Command to Force Eject a Stubborn Disk From Your Mac](https://lifehacker.com/use-this-terminal-command-to-force-eject-a-stubborn-dis-1849376498)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
