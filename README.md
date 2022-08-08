@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to detect Log4j vulnerabilities in Java projects for free with CodeSec](https://dev.to/codesec/how-to-detect-log4j-vulnerabilities-in-java-projects-for-free-with-codesec-3mjm)
+- [Dev.to/JS] [Debugging with VS Code](https://dev.to/codingmustache/debugging-with-vs-code-2n89)
+- [Dev.to/JS] [JavaScript: Array](https://dev.to/rosiequ/javascript-array-3n05)
 - [Dev.to/JS] [JavaScript: for loop vs for...of loop](https://dev.to/rosiequ/javascript-for-loop-vs-forof-loop-59h6)
 - [Dev.to/JS] [How to Write Google Apps Script Code Locally In Your Favorite IDE?](https://dev.to/kcl/how-to-write-google-apps-script-code-locally-in-your-favorite-ide-ha0)
 - [Dev.to/JS] [PETS EATABLE APP](https://dev.to/mike96261/pets-eatable-app-5h5i)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://dev.to/qbentil/5-javascript-console-methods-that-will-improve-your-debugging-skills-147b)
 - [Dev.to/JS] [Learning Iteration: A love story &lpar;or the opposite, really&rpar;](https://dev.to/toygrr/learning-iteration-a-love-story-or-the-opposite-really-4f0p)
 - [Dev.to/JS] [Svelte Component Testing with Cypress + Vite](https://dev.to/thisdotmedia/svelte-component-testing-with-cypress-vite-50k2)
-- [Dev.to/JS] [TypeScript: Standard Built-in Types](https://dev.to/vkton115/typescript-standard-built-in-types-485c)
-- [Dev.to/JS] [High-Entropy Passphrases](https://dev.to/rmion/high-entropy-passphrases-3pma)
-- [Dev.to/JS] [Why I can&#39;t decide how to convert a string into a number in JS](https://dev.to/mariolemus/why-i-cant-decide-how-to-convert-a-string-into-a-number-in-js-43fi)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
