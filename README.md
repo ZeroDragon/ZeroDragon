@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s build a Youtube clone with Nextjs and Tailwindcss 🎉&lpar;Part 3&rpar;](https://dev.to/sadeedpv/lets-build-a-youtube-clone-with-nextjs-and-tailwindcss-part-3-4pbm)
+- [Dev.to/JS] [Carbon: A New Programming Language from Google &lpar;Will it Replace C++&rpar;](https://dev.to/quokkalabs/carbon-a-new-programming-language-from-google-will-it-replace-c-5205)
 - [Dev.to/JS] [👨‍💻 Best keyboard for programming in 2022 — Will change your mind. 👨‍💻](https://dev.to/devsimc/best-keyboard-for-programming-in-2022-will-change-your-mind-4205)
 - [Dev.to/JS] [Rosenblatts Perceptron &lpar;in javascript&rpar;](https://dev.to/aneshodza/rosenblatts-perceptron-in-javascript-4cag)
 - [Dev.to/JS] [Tool to migrate Notion to Confluence](https://dev.to/laurel555/tool-to-migrate-notion-to-confluence-4in9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pre-generating multiple index files using Angular Builders and Gulp tasks to serve a multilingual Angular app](https://dev.to/ayyash/pre-generating-multiple-index-files-using-angular-builders-and-gulp-tasks-to-serve-a-multilingual-angular-app-323)
 - [Dev.to/JS] [My First Project...](https://dev.to/jorgecasta0207/my-first-project-ob2)
 - [Dev.to/JS] [ES12 in ServiceNow scoped apps](https://dev.to/23thom/es12-in-servicenow-scoped-apps-50le)
-- [Dev.to/JS] [My Minimal Web Development Setup](https://dev.to/itsjzt/my-minimal-web-development-setup-31j0)
-- [Dev.to/JS] [New features alert on twitter circle](https://dev.to/thisisarchit/new-features-alert-on-twitter-circle-4obp)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
