@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: for loop vs for...of loop](https://dev.to/rosiequ/javascript-for-loop-vs-forof-loop-59h6)
 - [Dev.to/JS] [How to Write Google Apps Script Code Locally In Your Favorite IDE?](https://dev.to/kcl/how-to-write-google-apps-script-code-locally-in-your-favorite-ide-ha0)
 - [Dev.to/JS] [PETS EATABLE APP](https://dev.to/mike96261/pets-eatable-app-5h5i)
 - [Dev.to/JS] [innerHTML v. innerText](https://dev.to/emmacohanim/innerhtml-v-innertext-1047)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript: Standard Built-in Types](https://dev.to/vkton115/typescript-standard-built-in-types-485c)
 - [Dev.to/JS] [High-Entropy Passphrases](https://dev.to/rmion/high-entropy-passphrases-3pma)
 - [Dev.to/JS] [Why I can&#39;t decide how to convert a string into a number in JS](https://dev.to/mariolemus/why-i-cant-decide-how-to-convert-a-string-into-a-number-in-js-43fi)
-- [Dev.to/JS] [Usando o shepherdjs para fazer tours em uma aplicação nuxt &lpar;vue.js&rpar; &lpar;Parte 2&rpar;](https://dev.to/cesarbhering/usando-o-shepherdjs-para-fazer-tours-em-uma-aplicacao-nuxt-vuejs-parte-2-1d22)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
