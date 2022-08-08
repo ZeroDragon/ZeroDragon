@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
+- [Dev.to/JS] [Paracetamol.js💊| #180: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-180-explica-este-codigo-javascript-ch0)
+- [Dev.to/JS] [Twilio Conversations client resilient setup](https://dev.to/fr0gs/twilio-conversations-client-resilient-setup-1hal)
 - [Dev.to/JS] [Lit: how to use it](https://dev.to/eleonorarocchi/bootstrap-5-grid-systemm-5bfo)
 - [Dev.to/JS] [Inverse Captcha](https://dev.to/rmion/inverse-captcha-2g93)
 - [Lifehacker] [This iPhone App Might Actually Help You Break Your Social Media Addiction](https://lifehacker.com/this-iphone-app-might-actually-help-you-break-your-soci-1849385952)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Create a Screen Sharing Application With JavaScript](https://dev.to/anthonys1760/how-to-create-a-screen-sharing-application-with-javascript-4h6j)
 - [Dev.to/JS] [How to maintain your code/work quality under pressure](https://dev.to/quteboy/how-to-maintain-your-codework-quality-under-pressure-1cbn)
 - [Lifehacker] [The Most Annoying Microsoft Edge Features Everyone Should Disable](https://lifehacker.com/the-most-annoying-microsoft-edge-features-everyone-shou-1849385048)
-- [Dev.to/JS] [React - Manage state using context API with useState or useReducer hooks](https://dev.to/clickpesa/react-manage-state-using-context-api-with-usestate-or-usereducer-hooks-d5l)
-- [Dev.to/JS] [The Journey of building Print-On-Demand Editor](https://dev.to/othman2001/the-journey-of-building-print-on-demand-editor-51jl)
 - [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)
 - [Lifehacker] [Do You Need Locket, the Latest Trendy Photo-Sharing App?](https://lifehacker.com/do-you-need-locket-the-latest-trendy-photo-sharing-app-1849385068)
 - [Lifehacker] [What to Do If You Win the Lottery](https://lifehacker.com/what-to-do-if-you-win-the-lottery-1849384886)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Know About Lyme Disease, Because It&#39;s on the Rise](https://lifehacker.com/what-to-know-about-lyme-disease-because-its-on-the-ris-1849377916)
 - [Lifehacker] [How to Order a Drink at a Bar Without Sounding Like an Idiot](https://lifehacker.com/how-to-order-a-drink-at-a-bar-without-sounding-like-an-1849377231)
 - [Lifehacker] [How to Make Your Own Ranch Water](https://lifehacker.com/how-to-make-your-own-ranch-water-1849377458)
-- [Lifehacker] [How to Prepare Now for a Recession](https://lifehacker.com/how-to-prepare-now-for-a-recession-1849377526)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
