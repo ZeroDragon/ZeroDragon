@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Secure Nodejs Application.](https://dev.to/olukinni029/how-to-secure-nodejs-application-95e)
+- [Dev.to/JS] [Debugging with VS Code](https://dev.to/codingmustache/debugging-with-vs-code-2n89)
 - [Dev.to/JS] [Let&#39;s learn Angular](https://dev.to/prateek951/lets-learn-angular-5b2p)
 - [Dev.to/JS] [Detecting dark mode on every request 🌓](https://dev.to/bryce/detecting-dark-mode-on-every-request-21b2)
 - [Dev.to/JS] [Web Animations API - A Compelling Case](https://dev.to/loganward/web-animations-api-a-compelling-case-1neo)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Should You want to Start A Crypto Exchange Like Binance?](https://dev.to/thecryptoapeo/why-should-you-want-to-start-a-crypto-exchange-like-binance-58ld)
 - [Dev.to/JS] [How can I limit an object size before it is looped in vue/nuxt?](https://dev.to/siumhossain/how-can-i-limit-an-object-size-before-it-is-looped-14fj)
 - [Dev.to/JS] [5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://dev.to/waleedhcoder/5-javascript-console-methods-that-will-improve-your-debugging-skills-5clj)
-- [Dev.to/JS] [I will build a responsive custom website and portfolio website](https://dev.to/adhnanshereef/i-will-build-a-responsive-custom-website-and-portfolio-website-2gn1)
-- [Dev.to/JS] [Top Podcasts For Developer&#39;s You Must Know](https://dev.to/kshitij9896/top-podcasts-for-developersyou-must-know-5b7j)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
