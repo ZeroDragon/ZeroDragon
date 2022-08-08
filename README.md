@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to Calcite with Svelte](https://dev.to/odoenet/intro-to-calcite-with-svelte-4p92)
+- [Dev.to/JS] [Type Checking Styled Components](https://dev.to/calebdre/type-checking-styled-components-20nn)
+- [Dev.to/JS] [Regex basics](https://dev.to/nottrobin/regex-basics-3224)
+- [Dev.to/JS] [Don&#39;t catch errors without a reason](https://dev.to/nottrobin/dont-catch-errors-without-a-reason-71j)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Dev.to/JS] [Deploy and Verify a Smart Contract to Testnet using Hardhat](https://dev.to/rtagliavia/deploy-and-verify-a-smart-contract-to-testnet-using-hardhat-9fp)
 - [Dev.to/JS] [Deep dive into JavaScript&#39;s Iterators, Iterables and Generators](https://dev.to/asayerio_techblog/deep-dive-into-javascripts-iterators-iterables-and-generators-gl6)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This iPhone App Might Actually Help You Break Your Social Media Addiction](https://lifehacker.com/this-iphone-app-might-actually-help-you-break-your-soci-1849385952)
 - [Lifehacker] [How to Get the Stink Out of Musty-Smelling Clothes](https://lifehacker.com/how-to-get-the-stink-out-of-musty-smelling-clothes-1849385890)
 - [Dev.to/JS] [Pass Data from children Component to Parent Component in ReactJs](https://dev.to/thatfemicode/pass-data-from-children-component-to-parent-component-in-reactjs-559n)
-- [Dev.to/JS] [How to Easily Add and Remove Any Elements from a JavaScript Array](https://dev.to/apmfree78/how-to-easily-add-and-remove-any-elements-from-a-javascript-array-5796)
-- [Dev.to/JS] [A useful array method in Javascript](https://dev.to/zabdeldjallil/a-useful-array-method-in-javascript-4j9f)
 - [Lifehacker] [This Is the Easiest, Fastest Way to Portion Your Homemade Meatballs](https://lifehacker.com/this-is-the-easiest-fastest-way-to-portion-your-homema-1849385658)
-- [Dev.to/JS] [I wonder 🤷‍♂️ -A funny joke🥴 will just get alot of likes and attention than a tutorial. What do you think 🤔 is the reason 🤔](https://dev.to/turinumugisha_s/i-wonder-a-funny-joke-will-just-get-alot-of-likes-and-attention-that-a-tutorial-what-do-you-think-is-the-reason-oda)
-- [Dev.to/JS] [Real Estate](https://dev.to/gerber23/real-estate-48db)
 - [Lifehacker] [The Most Annoying Microsoft Edge Features Everyone Should Disable](https://lifehacker.com/the-most-annoying-microsoft-edge-features-everyone-shou-1849385048)
 - [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)
 - [Lifehacker] [Do You Need Locket, the Latest Trendy Photo-Sharing App?](https://lifehacker.com/do-you-need-locket-the-latest-trendy-photo-sharing-app-1849385068)
