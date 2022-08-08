@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scrollable and draggable carousel](https://dev.to/woto/scrollable-and-draggable-carousel-5a7f)
+- [Dev.to/JS] [Linked List Cycles](https://dev.to/webdev122/linked-list-cycles-35ml)
 - [Dev.to/JS] [5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://dev.to/qbentil/5-javascript-console-methods-that-will-improve-your-debugging-skills-147b)
 - [Dev.to/JS] [Learning Iteration: A love story &lpar;or the opposite, really&rpar;](https://dev.to/toygrr/learning-iteration-a-love-story-or-the-opposite-really-4f0p)
 - [Dev.to/JS] [Svelte Component Testing with Cypress + Vite](https://dev.to/thisdotmedia/svelte-component-testing-with-cypress-vite-50k2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guia de Promises do JavaScript](https://dev.to/wkrueger/guia-de-promises-do-javascript-4hn6)
 - [Dev.to/JS] [HOW TO RESOLVE MERGE CONFLICT IN GIT ?](https://dev.to/folacode22/how-to-resolve-merge-conflict-in-git--mko)
 - [Dev.to/JS] [Meteor toolbox for your next hackathon or project start](https://dev.to/jankapunkt/meteor-toolbox-for-your-next-hackathon-or-project-start-1ino)
-- [Dev.to/JS] [React - Fetching promises from the state???](https://dev.to/noriller/react-fetching-promises-from-the-state-1g54)
-- [Dev.to/JS] [What is the quickest way to release a web app with auth?](https://dev.to/horosin/what-is-the-quickest-way-to-release-a-web-app-with-auth-372m)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
