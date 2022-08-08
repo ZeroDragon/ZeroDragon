@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Movie Ticket Service Web app - D1](https://dev.to/lexpeee/movie-ticket-service-web-app-12gk)
+- [Dev.to/JS] [Why Should You want to Start A Crypto Exchange Like Binance?](https://dev.to/thecryptoapeo/why-should-you-want-to-start-a-crypto-exchange-like-binance-58ld)
+- [Dev.to/JS] [How can I limit an object size before it is looped in vue/nuxt?](https://dev.to/siumhossain/how-can-i-limit-an-object-size-before-it-is-looped-14fj)
+- [Dev.to/JS] [5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://dev.to/waleedhcoder/5-javascript-console-methods-that-will-improve-your-debugging-skills-5clj)
 - [Dev.to/JS] [I will build a responsive custom website and portfolio website](https://dev.to/adhnanshereef/i-will-build-a-responsive-custom-website-and-portfolio-website-2gn1)
 - [Dev.to/JS] [Top Podcasts For Developer&#39;s You Must Know](https://dev.to/kshitij9896/top-podcasts-for-developersyou-must-know-5b7j)
 - [Dev.to/JS] [How do i use multer&#39;s upload.array&lpar;fieldname[, maxCount]&rpar; for a nested object inside a mongoose subdocument](https://dev.to/joseph_muvevi/how-do-i-use-multers-uploadarrayfieldname-maxcount-for-a-nested-object-inside-a-mongoose-subdocument-2ab6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Everyone Is Obsessed With Career Path In Software Developments: Expectations vs. Reality](https://dev.to/khansa/why-everyone-is-obsessed-with-career-path-in-software-developments-expectations-vs-reality-26jf)
 - [Dev.to/JS] [↗️ Draggable &amp; Resizable Window on your Website](https://dev.to/noto8/-draggable-resizable-window-on-your-website-3b7i)
 - [Dev.to/JS] [Answer to every question](https://dev.to/pantsuitassessment/answer-to-every-question-14pc)
-- [Dev.to/JS] [React re-renders guide: why React components re-render](https://dev.to/adevnadia/react-re-renders-guide-why-components-re-render-4ml)
-- [Dev.to/JS] [Build a real-time todos app with Auth and DB in minutes⏰](https://dev.to/kaushik94/build-a-real-time-todos-app-with-auth-and-db-in-minutes-5eoh)
-- [Dev.to/JS] [How Factorial Works In Code &amp; Real Life Example](https://dev.to/developedbyjk/how-factorial-works-in-code-real-life-example-1epf)
-- [Dev.to/JS] [Temporal API Duration: Working with Time Periods](https://dev.to/askrodney/temporal-api-duration-working-with-time-periods-19bd)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
 - [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
