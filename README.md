@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
 - [Dev.to/JS] [A Comparison of Node.js Environment Managers](https://dev.to/honeybadger/a-comparison-of-nodejs-environment-managers-boh)
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do You Need Locket, the Latest Trendy Photo-Sharing App?](https://lifehacker.com/do-you-need-locket-the-latest-trendy-photo-sharing-app-1849385068)
 - [Lifehacker] [What to Do If You Win the Lottery](https://lifehacker.com/what-to-do-if-you-win-the-lottery-1849384886)
 - [Lifehacker] [Change Your Mac&#39;s Caps Lock Key Into Something Useful](https://lifehacker.com/change-your-macs-caps-lock-key-into-something-useful-1849384768)
-- [Lifehacker] [How to Use Resistance Bands Without Hurting Your Hands](https://lifehacker.com/how-to-use-resistance-bands-without-hurting-your-hands-1849384771)
-- [Lifehacker] [How to Rent an Apartment When Your Credit Is in the Toilet](https://lifehacker.com/how-to-rent-an-apartment-when-your-credit-is-in-the-toi-1849384315)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Resistance Bands Without Hurting Your Hands](https://lifehacker.com/how-to-use-resistance-bands-without-hurting-your-hands-1849384771)<!-- TECH-POSTS:END -->
 
 ---
 
