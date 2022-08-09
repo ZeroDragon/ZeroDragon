@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Real JavaScript Interview questions](https://dev.to/theacevedoc/real-javascript-interview-questions-4433)
+- [Dev.to/JS] [How to create an AI powered chatbot using NextJS &amp; OpenAI API ?](https://dev.to/yacinemessaadi/how-to-create-an-ai-powered-chatbot-using-nextjs-openai-api--icn)
 - [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
 - [Dev.to/JS] [A Comparison of Node.js Environment Managers](https://dev.to/honeybadger/a-comparison-of-nodejs-environment-managers-boh)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hide Your API Keys with an API Proxy Server](https://dev.to/ptheodosiou/hide-your-api-keys-with-an-api-proxy-server-2ofo)
 - [Dev.to/JS] [JavaScript 8 Tips and Tricks To write less JavaScript 🙂](https://dev.to/shubhamathawane/javascript-8-tips-and-tricks-to-write-less-javascript-26p9)
 - [Dev.to/JS] [How to build a web app. A complete guide](https://dev.to/flatlogic/how-to-build-a-web-app-a-complete-guide-1k5d)
-- [Dev.to/JS] [How to use Code Splitting in ReactJS](https://dev.to/rahul72925/how-to-use-code-splitting-in-reactjs-2djj)
 - [Lifehacker] [How to Get Started on the &#39;Among Us VR&#39; Beta](https://lifehacker.com/how-to-get-started-on-the-among-us-vr-beta-1849389883)
-- [Dev.to/JS] [Slick Slider for fast creation of a responsive slider of any complexity on a website](https://dev.to/hannaha88/slick-slider-for-fast-creation-of-a-responsive-slider-of-any-complexity-on-a-website-27po)
 - [Lifehacker] [Keep These Things Updated on Your Pet&#39;s Microchip &lpar;and How to Do It&rpar;](https://lifehacker.com/keep-these-things-updated-on-your-pets-microchip-and-h-1849389885)
 - [Lifehacker] [15 of the Easiest Plants to Propagate](https://lifehacker.com/15-of-the-easiest-plants-to-propagate-1849389726)
 - [Lifehacker] [Are You Ready for Skin Contact White Wine?](https://lifehacker.com/are-you-ready-for-skin-contact-white-wine-1849389579)
