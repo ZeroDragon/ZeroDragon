@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Decide How Long You Should Stay at Your Job](https://lifehacker.com/how-to-decide-how-long-you-should-stay-at-your-job-1849391579)
+- [Dev.to/JS] [It All Comes Back Around to the for Loop](https://dev.to/katebennert/it-all-comes-back-around-to-the-for-loop-11bm)
+- [Dev.to/JS] [Create an Enum representation in JavaScript using Proxy object.](https://dev.to/ahamed_/create-an-enum-representation-in-javascript-using-proxy-object-42o5)
+- [Lifehacker] [When and How to Strain Your Dishes](https://lifehacker.com/when-and-how-to-strain-your-dishes-1849391098)
 - [Lifehacker] [What to Do If the Police Raid Your House](https://lifehacker.com/what-to-do-if-the-police-raid-your-house-1849390605)
 - [Lifehacker] [When to Drop Out of a Race Due to Heat](https://lifehacker.com/when-to-drop-out-of-a-race-due-to-heat-1849390394)
 - [Dev.to/JS] [Top 10 APIs to Consider For Your Next Web Development Project](https://dev.to/spaboi/top-10-apis-to-consider-for-your-next-web-development-project-31al)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Callbacks Explained in 5 Minutes](https://dev.to/jamesqquick/javascript-callbacks-explained-in-5-minutes-4d4m)
 - [Lifehacker] [Are You Ready for Skin Contact White Wine?](https://lifehacker.com/are-you-ready-for-skin-contact-white-wine-1849389579)
 - [Dev.to/JS] [🔍 How stick element to bottom of viewport on mobile](https://dev.to/vladimirschneider/how-stick-element-to-bottom-of-viewport-on-mobile-1pg6)
-- [Dev.to/JS] [Announcing the official Payload Cloud Storage Plugin](https://dev.to/payloadcms/announcing-the-official-payload-cloud-storage-plugin-381o)
 - [Lifehacker] [How to See Your iPhone&#39;s Battery Percentage All the Time Again](https://lifehacker.com/how-to-see-your-iphones-battery-percentage-all-the-time-1849389459)
-- [Dev.to/JS] [How to create your own Angular Tooltip Directive - a short tutorial](https://dev.to/accesto/how-to-create-your-own-angular-tooltip-directive-a-short-tutorial-k3i)
 - [Lifehacker] [How to Grind Your Way to a Better Cup of Coffee](https://lifehacker.com/how-to-grind-your-way-to-a-better-cup-of-coffee-1849389359)
 - [Lifehacker] [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Rent an Apartment When Your Credit Is in the Toilet](https://lifehacker.com/how-to-rent-an-apartment-when-your-credit-is-in-the-toi-1849384315)
 - [Lifehacker] [What Is CBN, and Will It Really Help You Sleep?](https://lifehacker.com/what-is-cbn-and-will-it-really-help-you-sleep-1849384486)
 - [Lifehacker] [Cook Veggies Faster With a Pinch of This](https://lifehacker.com/cook-veggies-faster-with-a-pinch-of-this-1849378285)
-- [Lifehacker] [Welcome Back to &#39;Will It Casserole?&#39;](https://lifehacker.com/welcome-back-to-will-it-casserole-1849378059)
-- [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
-- [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Welcome Back to &#39;Will It Casserole?&#39;](https://lifehacker.com/welcome-back-to-will-it-casserole-1849378059)<!-- TECH-POSTS:END -->
 
 ---
 
