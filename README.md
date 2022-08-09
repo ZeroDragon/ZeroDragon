@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [rm -rf in Nodejs?](https://dev.to/omardulaimi/rm-rf-in-nodejs-28n7)
 - [Dev.to/JS] [The Noble Foodie](https://dev.to/ventur2/the-noble-foodie-29k6)
 - [Dev.to/JS] [Scraping LinkedIn Data With Proxycurl Jobs API](https://dev.to/heymich/scraping-linkedin-data-with-proxycurl-jobs-api-2jgb)
 - [Dev.to/JS] [Intro to Calcite with Svelte](https://dev.to/odoenet/intro-to-calcite-with-svelte-4p92)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
 - [Dev.to/JS] [Paracetamol.js💊| #180: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-180-explica-este-codigo-javascript-ch0)
 - [Dev.to/JS] [Twilio Conversations client resilient setup](https://dev.to/fr0gs/twilio-conversations-client-resilient-setup-1hal)
-- [Dev.to/JS] [Lit: how to use it](https://dev.to/eleonorarocchi/bootstrap-5-grid-systemm-5bfo)
 - [Lifehacker] [This iPhone App Might Actually Help You Break Your Social Media Addiction](https://lifehacker.com/this-iphone-app-might-actually-help-you-break-your-soci-1849385952)
 - [Lifehacker] [How to Get the Stink Out of Musty-Smelling Clothes](https://lifehacker.com/how-to-get-the-stink-out-of-musty-smelling-clothes-1849385890)
 - [Lifehacker] [This Is the Easiest, Fastest Way to Portion Your Homemade Meatballs](https://lifehacker.com/this-is-the-easiest-fastest-way-to-portion-your-homema-1849385658)
