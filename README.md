@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Customize Medusa and Gatsby to Implement Wishlist Functionality](https://dev.to/medusajs/customize-medusa-and-gatsby-to-implement-wishlist-functionality-f69)
+- [Dev.to/JS] [1 year of learning full-stack development 💻](https://dev.to/youssefmic/1-year-of-learning-full-stack-development-i09)
+- [Dev.to/JS] [Responsive Navbar Tutorial – React JS Project](https://dev.to/fahimulkabir/responsive-navbar-tutorial-react-js-project-3d7f)
+- [Dev.to/JS] [Top 46 Learning Sites for You 💖](https://dev.to/keshavgbpecdel/top-46-learning-sites-for-you-1nkh)
 - [Dev.to/JS] [Blog Engine with Fresh: Edit/Delete Post Item](https://dev.to/sokhavuth/blog-engine-with-fresh-editdelete-post-item-27hn)
 - [Dev.to/JS] [My First Quiz App](https://dev.to/q1ngqode/my-first-quiz-app-2oho)
 - [Dev.to/JS] [Getting Started With TypeScript](https://dev.to/chinmaymhatre/getting-started-with-typescript-cnh)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create blog using NextJS?](https://dev.to/likayeltsova/how-to-create-blog-using-nextjs-3n6)
 - [Dev.to/JS] [VMware vSphere HA Configuration: A Step-by-Step Guide](https://dev.to/alextraytech/vmware-vsphere-ha-configuration-a-step-by-step-guide-gk6)
 - [Dev.to/JS] [Getting ready for my first website: Choosing the right platform](https://dev.to/annabaker/getting-ready-for-my-first-website-choosing-the-right-platform-779)
-- [Dev.to/JS] [The story of x, my Redux pure JS all killer no filler](https://dev.to/ccimpoi/the-story-of-x-my-redux-pure-js-all-killer-no-filler-4je9)
-- [Dev.to/JS] [Blog Engine with Fresh: Creating Post Item](https://dev.to/sokhavuth/blog-engine-with-fresh-creating-post-item-3njj)
-- [Dev.to/JS] [How to build a real-time Auction system - Connecting Socket.io With React 🔥 &lpar;Part 2&rpar;](https://dev.to/novu/how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh)
-- [Dev.to/JS] [Does JS function&#39;s &#39;this&#39; have a default value?](https://dev.to/smlka/global-object-is-just-a-default-value-of-js-functions-this-14hp)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
