@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Drop Out of a Race Due to Heat](https://lifehacker.com/when-to-drop-out-of-a-race-due-to-heat-1849390394)
+- [Dev.to/JS] [Top 10 APIs to Consider For Your Next Web Development Project](https://dev.to/spaboi/top-10-apis-to-consider-for-your-next-web-development-project-31al)
+- [Dev.to/JS] [OMG we are trending 🤯](https://dev.to/nevodavid/omg-we-are-trending-2dpn)
+- [Lifehacker] [When Buying Points and Miles Is a Good Idea &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-buying-points-and-miles-is-a-good-idea-and-when-i-1849389765)
+- [Dev.to/JS] [Hide Your API Keys with an API Proxy Server](https://dev.to/ptheodosiou/hide-your-api-keys-with-an-api-proxy-server-2ofo)
 - [Dev.to/JS] [JavaScript 8 Tips and Tricks To write less JavaScript 🙂](https://dev.to/shubhamathawane/javascript-8-tips-and-tricks-to-write-less-javascript-26p9)
 - [Dev.to/JS] [How to build a web app. A complete guide](https://dev.to/flatlogic/how-to-build-a-web-app-a-complete-guide-1k5d)
 - [Dev.to/JS] [How to use Code Splitting in ReactJS](https://dev.to/rahul72925/how-to-use-code-splitting-in-reactjs-2djj)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create your own Angular Tooltip Directive - a short tutorial](https://dev.to/accesto/how-to-create-your-own-angular-tooltip-directive-a-short-tutorial-k3i)
 - [Lifehacker] [How to Grind Your Way to a Better Cup of Coffee](https://lifehacker.com/how-to-grind-your-way-to-a-better-cup-of-coffee-1849389359)
 - [Dev.to/JS] [Top Programming Languages for 2023](https://dev.to/conectandonet/top-programming-languages-for-2023-20nl)
-- [Dev.to/JS] [MERN stack project for beginners](https://dev.to/shaifarfan08/mern-stack-project-for-beginners-59jf)
-- [Dev.to/JS] [What is the !! &lpar;not not&rpar; operator in JavaScript?](https://dev.to/collegewap/what-is-the-not-not-operator-in-javascript-27c7)
-- [Dev.to/JS] [How the hell are you supposed to make forms?](https://dev.to/hr21don/how-the-hell-are-you-supposed-to-make-forms-15ec)
 - [Lifehacker] [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is CBN, and Will It Really Help You Sleep?](https://lifehacker.com/what-is-cbn-and-will-it-really-help-you-sleep-1849384486)
 - [Lifehacker] [Cook Veggies Faster With a Pinch of This](https://lifehacker.com/cook-veggies-faster-with-a-pinch-of-this-1849378285)
 - [Lifehacker] [Welcome Back to &#39;Will It Casserole?&#39;](https://lifehacker.com/welcome-back-to-will-it-casserole-1849378059)
-- [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
-- [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
