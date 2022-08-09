@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python Flask Frontend workflow setup](https://dev.to/muhammadsaim/python-flask-frontend-workflow-setup-59hd)
+- [Dev.to/JS] [What to expect from HTML/CSS Bootcamps ?](https://dev.to/rohitmore07/what-to-expect-from-htmlcss-bootcamps--41i6)
+- [Dev.to/JS] [Angular: Binding end to end](https://dev.to/urstrulyvishwak/binding-in-angular-32kd)
 - [Dev.to/JS] [Sportswear Manufacturer](https://dev.to/belboasports/sportswear-manufacturer-26l7)
 - [Dev.to/JS] [Blog Engine with Fresh: Authenticating User](https://dev.to/sokhavuth/blog-engine-with-fresh-authenticating-user-4gia)
 - [Dev.to/JS] [Blog Engine with Fresh: Creating Superuser](https://dev.to/sokhavuth/blog-engine-with-fresh-creating-superuser-ojf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Minify JavaScript Using Terser](https://dev.to/murtuzaalisurti/minify-javascript-using-terser-1ao2)
 - [Dev.to/JS] [Blog Engine with Fresh: Environment Variable &amp; Database](https://dev.to/sokhavuth/blog-engine-with-fresh-environment-variable-database-49ci)
 - [Dev.to/JS] [Simple auth system using JWT](https://dev.to/khusyasy/simple-auth-system-using-jwt-59e5)
-- [Dev.to/JS] [Blog Engine with Fresh: Boilerplate Code](https://dev.to/sokhavuth/boilerplate-code-5gc3)
-- [Dev.to/JS] [rm -rf in Nodejs?](https://dev.to/omardulaimi/rm-rf-in-nodejs-28n7)
-- [Dev.to/JS] [The Noble Foodie](https://dev.to/ventur2/the-noble-foodie-29k6)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
