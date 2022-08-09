@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How the hell are you supposed to make forms?](https://dev.to/hr21don/how-the-hell-are-you-supposed-to-make-forms-15ec)
+- [Dev.to/JS] [6 VSCode Extensions Necessary for Vue3 Development🔥](https://dev.to/chris1993/6-vscode-extensions-necessary-for-vue3-development-e6e)
 - [Dev.to/JS] [Best internationalization for Gatsby](https://dev.to/adrai/best-internationalization-for-gatsby-mkf)
 - [Dev.to/JS] [Greetings! Remini - Effective state management in React 🌴](https://dev.to/betula/greetings-remini-effective-state-management-in-react-3hja)
 - [Lifehacker] [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Firebase V9 Firestore UPDATE Document Data Using updateDoc&lpar;&rpar;](https://dev.to/hirajatamil/firebase-v9-firestore-update-document-data-using-updatedoc-1min)
 - [Dev.to/JS] [Build a Custom Search Engine](https://dev.to/techbrewers/custom-search-engine-3o1f)
 - [Dev.to/JS] [Customize Medusa and Gatsby to Implement Wishlist Functionality](https://dev.to/medusajs/customize-medusa-and-gatsby-to-implement-wishlist-functionality-f69)
-- [Dev.to/JS] [1 year of learning full-stack development 💻](https://dev.to/youssefmic/1-year-of-learning-full-stack-development-i09)
-- [Dev.to/JS] [Responsive Navbar Tutorial – React JS Project](https://dev.to/fahimulkabir/responsive-navbar-tutorial-react-js-project-3d7f)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
