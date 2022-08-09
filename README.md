@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The &lpar;Second&rpar; Start of My Journey to Become a FullStack Dev](https://dev.to/kdleonard93/the-second-start-of-my-journey-to-become-a-fullstack-dev-15dj)
+- [Lifehacker] [Are You Ready for Skin Contact White Wine?](https://lifehacker.com/are-you-ready-for-skin-contact-white-wine-1849389579)
+- [Dev.to/JS] [🔍 How stick element to bottom of viewport on mobile](https://dev.to/vladimirschneider/how-stick-element-to-bottom-of-viewport-on-mobile-1pg6)
+- [Dev.to/JS] [Announcing the official Payload Cloud Storage Plugin](https://dev.to/payloadcms/announcing-the-official-payload-cloud-storage-plugin-381o)
+- [Lifehacker] [How to See Your iPhone&#39;s Battery Percentage All the Time Again](https://lifehacker.com/how-to-see-your-iphones-battery-percentage-all-the-time-1849389459)
 - [Dev.to/JS] [How to create your own Angular Tooltip Directive - a short tutorial](https://dev.to/accesto/how-to-create-your-own-angular-tooltip-directive-a-short-tutorial-k3i)
 - [Dev.to/JS] [Top Programming Languages for 2023](https://dev.to/conectandonet/top-programming-languages-for-2023-20nl)
 - [Dev.to/JS] [MERN stack project for beginners](https://dev.to/shaifarfan08/mern-stack-project-for-beginners-59jf)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Greetings! Remini - Effective state management in React 🌴](https://dev.to/betula/greetings-remini-effective-state-management-in-react-3hja)
 - [Lifehacker] [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)
 - [Dev.to/JS] [Comparing Static and Dynamic Websites](https://dev.to/strapi/comparing-static-and-dynamic-websites-4c79)
-- [Dev.to/JS] [Simple navigation drawer with React and CSS](https://dev.to/zhizhan/simple-navigation-drawer-with-react-and-css-3f7i)
-- [Dev.to/JS] [Custom double range slider](https://dev.to/sarmunbustillo/custom-double-range-slider-3h8a)
-- [Dev.to/JS] [How to create a container components](https://dev.to/marvelcodes/how-to-create-a-container-components-ah)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
@@ -50,6 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Resistance Bands Without Hurting Your Hands](https://lifehacker.com/how-to-use-resistance-bands-without-hurting-your-hands-1849384771)
 - [Lifehacker] [How to Rent an Apartment When Your Credit Is in the Toilet](https://lifehacker.com/how-to-rent-an-apartment-when-your-credit-is-in-the-toi-1849384315)
 - [Lifehacker] [What Is CBN, and Will It Really Help You Sleep?](https://lifehacker.com/what-is-cbn-and-will-it-really-help-you-sleep-1849384486)
+- [Lifehacker] [How to Grind Your Way to a Better Cup of Coffee](https://lifehacker.com/how-to-grind-your-way-to-a-better-cup-of-coffee-1849389359)
 - [Lifehacker] [Cook Veggies Faster With a Pinch of This](https://lifehacker.com/cook-veggies-faster-with-a-pinch-of-this-1849378285)
 - [Lifehacker] [Welcome Back to &#39;Will It Casserole?&#39;](https://lifehacker.com/welcome-back-to-will-it-casserole-1849378059)
 - [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cities Where Home Prices Are Dropping the Most](https://lifehacker.com/cities-where-home-prices-are-dropping-the-most-1849379863)
 - [Lifehacker] [How to Clean Your Gross Backpacks, Canvas Bags, and Totes Without Ruining Them](https://lifehacker.com/how-to-clean-your-gross-backpacks-canvas-bags-and-tot-1849379778)
 - [Lifehacker] [The Difference Between Linoleum and Vinyl Flooring](https://lifehacker.com/the-difference-between-linoleum-and-vinyl-flooring-1849379646)
-- [Lifehacker] [The Best and Worst Days to Fly for the Holidays This Year](https://lifehacker.com/the-best-and-worst-days-to-fly-for-the-holidays-this-ye-1849379429)
-- [Lifehacker] [It&#39;s Time to Embrace Physical Media Again](https://lifehacker.com/its-time-to-embrace-physical-media-again-1849378610)
-- [Lifehacker] [8 Zoo Animals That Might Escape One Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/8-zoo-animals-that-might-escape-one-day-and-how-to-pro-1849377974)
 - [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
 - [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
