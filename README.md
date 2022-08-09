@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do If the Police Raid Your House](https://lifehacker.com/what-to-do-if-the-police-raid-your-house-1849390605)
 - [Lifehacker] [When to Drop Out of a Race Due to Heat](https://lifehacker.com/when-to-drop-out-of-a-race-due-to-heat-1849390394)
 - [Dev.to/JS] [Top 10 APIs to Consider For Your Next Web Development Project](https://dev.to/spaboi/top-10-apis-to-consider-for-your-next-web-development-project-31al)
 - [Dev.to/JS] [OMG we are trending 🤯](https://dev.to/nevodavid/omg-we-are-trending-2dpn)
@@ -36,13 +37,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Keep These Things Updated on Your Pet&#39;s Microchip &lpar;and How to Do It&rpar;](https://lifehacker.com/keep-these-things-updated-on-your-pets-microchip-and-h-1849389885)
 - [Lifehacker] [15 of the Easiest Plants to Propagate](https://lifehacker.com/15-of-the-easiest-plants-to-propagate-1849389726)
 - [Dev.to/JS] [The &lpar;Second&rpar; Start of My Journey to Become a FullStack Dev](https://dev.to/kdleonard93/the-second-start-of-my-journey-to-become-a-fullstack-dev-15dj)
+- [Dev.to/JS] [JavaScript Callbacks Explained in 5 Minutes](https://dev.to/jamesqquick/javascript-callbacks-explained-in-5-minutes-4d4m)
 - [Lifehacker] [Are You Ready for Skin Contact White Wine?](https://lifehacker.com/are-you-ready-for-skin-contact-white-wine-1849389579)
 - [Dev.to/JS] [🔍 How stick element to bottom of viewport on mobile](https://dev.to/vladimirschneider/how-stick-element-to-bottom-of-viewport-on-mobile-1pg6)
 - [Dev.to/JS] [Announcing the official Payload Cloud Storage Plugin](https://dev.to/payloadcms/announcing-the-official-payload-cloud-storage-plugin-381o)
 - [Lifehacker] [How to See Your iPhone&#39;s Battery Percentage All the Time Again](https://lifehacker.com/how-to-see-your-iphones-battery-percentage-all-the-time-1849389459)
 - [Dev.to/JS] [How to create your own Angular Tooltip Directive - a short tutorial](https://dev.to/accesto/how-to-create-your-own-angular-tooltip-directive-a-short-tutorial-k3i)
 - [Lifehacker] [How to Grind Your Way to a Better Cup of Coffee](https://lifehacker.com/how-to-grind-your-way-to-a-better-cup-of-coffee-1849389359)
-- [Dev.to/JS] [Top Programming Languages for 2023](https://dev.to/conectandonet/top-programming-languages-for-2023-20nl)
 - [Lifehacker] [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
@@ -60,9 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is CBN, and Will It Really Help You Sleep?](https://lifehacker.com/what-is-cbn-and-will-it-really-help-you-sleep-1849384486)
 - [Lifehacker] [Cook Veggies Faster With a Pinch of This](https://lifehacker.com/cook-veggies-faster-with-a-pinch-of-this-1849378285)
 - [Lifehacker] [Welcome Back to &#39;Will It Casserole?&#39;](https://lifehacker.com/welcome-back-to-will-it-casserole-1849378059)
-- [Crazy Programmer] [Top 10 Computer Science Universities in Canada 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-canada.html)
-- [Crazy Programmer] [How to Pass CompTIA SY0-601 Exam 2022? – Best Security+ Dumps Guide Material](https://www.thecrazyprogrammer.com/2022/07/how-to-pass-comptia-sy0-601-exam-2022.html)
-- [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make a Crevice Garden](https://lifehacker.com/how-to-make-a-crevice-garden-1849379857)
+- [Lifehacker] [How to Paint a Straight Edge Without Even Needing Tape](https://lifehacker.com/how-to-paint-a-straight-edge-without-even-needing-tape-1849379860)<!-- TECH-POSTS:END -->
 
 ---
 
