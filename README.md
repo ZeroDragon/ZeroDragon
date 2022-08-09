@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Noble Foodie](https://dev.to/ventur2/the-noble-foodie-29k6)
+- [Dev.to/JS] [Scraping LinkedIn Data With Proxycurl Jobs API](https://dev.to/heymich/scraping-linkedin-data-with-proxycurl-jobs-api-2jgb)
 - [Dev.to/JS] [Intro to Calcite with Svelte](https://dev.to/odoenet/intro-to-calcite-with-svelte-4p92)
 - [Dev.to/JS] [Type Checking Styled Components](https://dev.to/calebdre/type-checking-styled-components-20nn)
 - [Dev.to/JS] [Regex basics](https://dev.to/nottrobin/regex-basics-3224)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #180: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-180-explica-este-codigo-javascript-ch0)
 - [Dev.to/JS] [Twilio Conversations client resilient setup](https://dev.to/fr0gs/twilio-conversations-client-resilient-setup-1hal)
 - [Dev.to/JS] [Lit: how to use it](https://dev.to/eleonorarocchi/bootstrap-5-grid-systemm-5bfo)
-- [Dev.to/JS] [Inverse Captcha](https://dev.to/rmion/inverse-captcha-2g93)
 - [Lifehacker] [This iPhone App Might Actually Help You Break Your Social Media Addiction](https://lifehacker.com/this-iphone-app-might-actually-help-you-break-your-soci-1849385952)
 - [Lifehacker] [How to Get the Stink Out of Musty-Smelling Clothes](https://lifehacker.com/how-to-get-the-stink-out-of-musty-smelling-clothes-1849385890)
-- [Dev.to/JS] [Pass Data from children Component to Parent Component in ReactJs](https://dev.to/thatfemicode/pass-data-from-children-component-to-parent-component-in-reactjs-559n)
 - [Lifehacker] [This Is the Easiest, Fastest Way to Portion Your Homemade Meatballs](https://lifehacker.com/this-is-the-easiest-fastest-way-to-portion-your-homema-1849385658)
 - [Lifehacker] [The Most Annoying Microsoft Edge Features Everyone Should Disable](https://lifehacker.com/the-most-annoying-microsoft-edge-features-everyone-shou-1849385048)
 - [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)
