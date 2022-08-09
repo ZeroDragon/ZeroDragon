@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create your own Angular Tooltip Directive - a short tutorial](https://dev.to/accesto/how-to-create-your-own-angular-tooltip-directive-a-short-tutorial-k3i)
+- [Dev.to/JS] [Top Programming Languages for 2023](https://dev.to/conectandonet/top-programming-languages-for-2023-20nl)
+- [Dev.to/JS] [MERN stack project for beginners](https://dev.to/shaifarfan08/mern-stack-project-for-beginners-59jf)
+- [Dev.to/JS] [What is the !! &lpar;not not&rpar; operator in JavaScript?](https://dev.to/collegewap/what-is-the-not-not-operator-in-javascript-27c7)
 - [Dev.to/JS] [How the hell are you supposed to make forms?](https://dev.to/hr21don/how-the-hell-are-you-supposed-to-make-forms-15ec)
 - [Dev.to/JS] [6 VSCode Extensions Necessary for Vue3 Development🔥](https://dev.to/chris1993/6-vscode-extensions-necessary-for-vue3-development-e6e)
 - [Dev.to/JS] [Best internationalization for Gatsby](https://dev.to/adrai/best-internationalization-for-gatsby-mkf)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple navigation drawer with React and CSS](https://dev.to/zhizhan/simple-navigation-drawer-with-react-and-css-3f7i)
 - [Dev.to/JS] [Custom double range slider](https://dev.to/sarmunbustillo/custom-double-range-slider-3h8a)
 - [Dev.to/JS] [How to create a container components](https://dev.to/marvelcodes/how-to-create-a-container-components-ah)
-- [Dev.to/JS] [Implementing “Tail -f” in Node JS](https://dev.to/shaikhkamran/implementing-tail-f-in-node-js-59g2)
-- [Dev.to/JS] [Firebase V9 Firestore UPDATE Document Data Using updateDoc&lpar;&rpar;](https://dev.to/hirajatamil/firebase-v9-firestore-update-document-data-using-updatedoc-1min)
-- [Dev.to/JS] [Build a Custom Search Engine](https://dev.to/techbrewers/custom-search-engine-3o1f)
-- [Dev.to/JS] [Customize Medusa and Gatsby to Implement Wishlist Functionality](https://dev.to/medusajs/customize-medusa-and-gatsby-to-implement-wishlist-functionality-f69)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
