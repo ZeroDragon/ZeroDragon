@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The story of x, my Redux pure JS all killer no filler](https://dev.to/ccimpoi/the-story-of-x-my-redux-pure-js-all-killer-no-filler-4je9)
+- [Dev.to/JS] [How to build a real-time Auction system - Connecting Socket.io With React 🔥](https://dev.to/novu/how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh)
+- [Dev.to/JS] [Blog Engine with Fresh: Creating Post Item](https://dev.to/sokhavuth/blog-engine-with-fresh-creating-post-item-3njj)
+- [Dev.to/JS] [Does JS function&#39;s &#39;this&#39; have a default value?](https://dev.to/smlka/global-object-is-just-a-default-value-of-js-functions-this-14hp)
 - [Dev.to/JS] [Blog Engine with Fresh: Logout functionality](https://dev.to/sokhavuth/blog-engine-with-fresh-logout-functionality-17k7)
 - [Dev.to/JS] [Blog Engine with Fresh: Building Post Page](https://dev.to/sokhavuth/blog-engine-with-fresh-building-post-page-1imp)
 - [Dev.to/JS] [Python Flask Frontend workflow setup](https://dev.to/muhammadsaim/python-flask-frontend-workflow-setup-59hd)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sportswear Manufacturer](https://dev.to/belboasports/sportswear-manufacturer-26l7)
 - [Dev.to/JS] [Blog Engine with Fresh: Authenticating User](https://dev.to/sokhavuth/blog-engine-with-fresh-authenticating-user-4gia)
 - [Dev.to/JS] [Blog Engine with Fresh: Creating Superuser](https://dev.to/sokhavuth/blog-engine-with-fresh-creating-superuser-ojf)
-- [Dev.to/JS] [Easy Steps To Add Money To Cash App Card](https://dev.to/kingfinger987/easy-steps-to-add-money-to-cash-app-card-13pd)
-- [Dev.to/JS] [Online Tool: sql schema to entity](https://dev.to/aldora/online-tool-sql-schema-to-entity-218m)
-- [Dev.to/JS] [Blog Engine with Fresh: Building Login Page](https://dev.to/sokhavuth/blog-engine-with-fresh-building-login-page-4j6k)
-- [Dev.to/JS] [Minify JavaScript Using Terser](https://dev.to/murtuzaalisurti/minify-javascript-using-terser-1ao2)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
