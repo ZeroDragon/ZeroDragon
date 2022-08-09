@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
+- [Dev.to/JS] [A Comparison of Node.js Environment Managers](https://dev.to/honeybadger/a-comparison-of-nodejs-environment-managers-boh)
+- [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
+- [Dev.to/JS] [Interesting way to inverse number in JavaScript](https://dev.to/ytskk/interesting-way-to-inverse-number-in-javascript-1cc7)
+- [Lifehacker] [The Best Way to Add Protein to Your Next Bowl](https://lifehacker.com/the-best-way-to-add-protein-to-your-next-bowl-1849391111)
+- [Dev.to/JS] [Function to check for an empty string in one line of Javascript 😎](https://dev.to/richclarke0/function-to-check-for-an-empty-string-in-one-line-of-javascript-17bi)
 - [Lifehacker] [How to Decide How Long You Should Stay at Your Job](https://lifehacker.com/how-to-decide-how-long-you-should-stay-at-your-job-1849391579)
 - [Dev.to/JS] [It All Comes Back Around to the for Loop](https://dev.to/katebennert/it-all-comes-back-around-to-the-for-loop-11bm)
 - [Dev.to/JS] [Create an Enum representation in JavaScript using Proxy object.](https://dev.to/ahamed_/create-an-enum-representation-in-javascript-using-proxy-object-42o5)
@@ -40,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Slick Slider for fast creation of a responsive slider of any complexity on a website](https://dev.to/hannaha88/slick-slider-for-fast-creation-of-a-responsive-slider-of-any-complexity-on-a-website-27po)
 - [Lifehacker] [Keep These Things Updated on Your Pet&#39;s Microchip &lpar;and How to Do It&rpar;](https://lifehacker.com/keep-these-things-updated-on-your-pets-microchip-and-h-1849389885)
 - [Lifehacker] [15 of the Easiest Plants to Propagate](https://lifehacker.com/15-of-the-easiest-plants-to-propagate-1849389726)
-- [Dev.to/JS] [The &lpar;Second&rpar; Start of My Journey to Become a FullStack Dev](https://dev.to/kdleonard93/the-second-start-of-my-journey-to-become-a-fullstack-dev-15dj)
-- [Dev.to/JS] [JavaScript Callbacks Explained in 5 Minutes](https://dev.to/jamesqquick/javascript-callbacks-explained-in-5-minutes-4d4m)
 - [Lifehacker] [Are You Ready for Skin Contact White Wine?](https://lifehacker.com/are-you-ready-for-skin-contact-white-wine-1849389579)
-- [Dev.to/JS] [🔍 How stick element to bottom of viewport on mobile](https://dev.to/vladimirschneider/how-stick-element-to-bottom-of-viewport-on-mobile-1pg6)
 - [Lifehacker] [How to See Your iPhone&#39;s Battery Percentage All the Time Again](https://lifehacker.com/how-to-see-your-iphones-battery-percentage-all-the-time-1849389459)
 - [Lifehacker] [How to Grind Your Way to a Better Cup of Coffee](https://lifehacker.com/how-to-grind-your-way-to-a-better-cup-of-coffee-1849389359)
 - [Lifehacker] [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Win the Lottery](https://lifehacker.com/what-to-do-if-you-win-the-lottery-1849384886)
 - [Lifehacker] [Change Your Mac&#39;s Caps Lock Key Into Something Useful](https://lifehacker.com/change-your-macs-caps-lock-key-into-something-useful-1849384768)
 - [Lifehacker] [How to Use Resistance Bands Without Hurting Your Hands](https://lifehacker.com/how-to-use-resistance-bands-without-hurting-your-hands-1849384771)
-- [Lifehacker] [How to Rent an Apartment When Your Credit Is in the Toilet](https://lifehacker.com/how-to-rent-an-apartment-when-your-credit-is-in-the-toi-1849384315)
-- [Lifehacker] [What Is CBN, and Will It Really Help You Sleep?](https://lifehacker.com/what-is-cbn-and-will-it-really-help-you-sleep-1849384486)
-- [Lifehacker] [Cook Veggies Faster With a Pinch of This](https://lifehacker.com/cook-veggies-faster-with-a-pinch-of-this-1849378285)
-- [Lifehacker] [Welcome Back to &#39;Will It Casserole?&#39;](https://lifehacker.com/welcome-back-to-will-it-casserole-1849378059)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Rent an Apartment When Your Credit Is in the Toilet](https://lifehacker.com/how-to-rent-an-apartment-when-your-credit-is-in-the-toi-1849384315)<!-- TECH-POSTS:END -->
 
 ---
 
