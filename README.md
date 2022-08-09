@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sportswear Manufacturer](https://dev.to/belboasports/sportswear-manufacturer-26l7)
 - [Dev.to/JS] [Blog Engine with Fresh: Authenticating User](https://dev.to/sokhavuth/blog-engine-with-fresh-authenticating-user-4gia)
 - [Dev.to/JS] [Blog Engine with Fresh: Creating Superuser](https://dev.to/sokhavuth/blog-engine-with-fresh-creating-superuser-ojf)
 - [Dev.to/JS] [Easy Steps To Add Money To Cash App Card](https://dev.to/kingfinger987/easy-steps-to-add-money-to-cash-app-card-13pd)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blog Engine with Fresh: Boilerplate Code](https://dev.to/sokhavuth/boilerplate-code-5gc3)
 - [Dev.to/JS] [rm -rf in Nodejs?](https://dev.to/omardulaimi/rm-rf-in-nodejs-28n7)
 - [Dev.to/JS] [The Noble Foodie](https://dev.to/ventur2/the-noble-foodie-29k6)
-- [Dev.to/JS] [Scraping LinkedIn Data With Proxycurl Jobs API](https://dev.to/heymich/scraping-linkedin-data-with-proxycurl-jobs-api-2jgb)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
