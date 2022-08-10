@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue JS](https://dev.to/isaachatilima/vue-js-1lcd)
+- [Dev.to/JS] [Simple input autocomplete with React and CSS](https://dev.to/zhizhan/simple-input-autocomplete-with-react-and-css-1j44)
 - [Dev.to/JS] [How to improve your technical interview? Start livestreaming!](https://dev.to/elpol/how-to-improve-your-technical-interview-start-livestreaming-6ed)
 - [Dev.to/JS] [7 javascript/typescript playground](https://dev.to/0xkoji/7-javascripttypescript-playground-446l)
 - [Dev.to/JS] [JavaScript: Objects](https://dev.to/rosiequ/javascript-objects-3lop)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async Data Fetching with React-Select](https://dev.to/asayerio_techblog/async-data-fetching-with-react-select-55jp)
 - [Dev.to/JS] [JAW-DROPPING FUNDAMENTALS OF THE &#39;this&#39; KEYWORD IN JAVASCRIPT.](https://dev.to/aahil13/jaw-dropping-fundamentals-of-the-this-keyword-in-javascript-5326)
 - [Dev.to/JS] [Writing Well-Structured Unit Test in TypeScript](https://dev.to/arifintahu/writing-well-structured-unit-test-in-typescript-2hal)
-- [Dev.to/JS] [Check user&#39;s permissions on file/dir in Nodejs](https://dev.to/omardulaimi/check-users-permissions-on-filedir-in-nodejs-4b28)
-- [Dev.to/JS] [Real JavaScript Interview questions](https://dev.to/theacevedoc/real-javascript-interview-questions-4433)
 - [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
