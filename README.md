@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Html templates as Ruby code](https://dev.to/andrzejkrzywda/html-templates-as-ruby-code-3m9o)
+- [Dev.to/JS] [Four top Front End Monitoring Tools for your Website](https://dev.to/asayerio_techblog/four-top-front-end-monitoring-tools-for-your-website-1592)
+- [Dev.to/JS] [Async Data Fetching with React-Select](https://dev.to/asayerio_techblog/async-data-fetching-with-react-select-55jp)
+- [Dev.to/JS] [JAW-DROPPING FUNDAMENTALS OF THE &#39;this&#39; KEYWORD IN JAVASCRIPT.](https://dev.to/aahil13/jaw-dropping-fundamentals-of-the-this-keyword-in-javascript-5326)
 - [Dev.to/JS] [Writing Well-Structured Unit Test in TypeScript](https://dev.to/arifintahu/writing-well-structured-unit-test-in-typescript-2hal)
 - [Dev.to/JS] [Check user&#39;s permissions on file/dir in Nodejs](https://dev.to/omardulaimi/check-users-permissions-on-filedir-in-nodejs-4b28)
 - [Dev.to/JS] [Real JavaScript Interview questions](https://dev.to/theacevedoc/real-javascript-interview-questions-4433)
@@ -36,14 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Function to check for an empty string in one line of Javascript 😎](https://dev.to/richclarke0/function-to-check-for-an-empty-string-in-one-line-of-javascript-17bi)
 - [Lifehacker] [How to Decide How Long You Should Stay at Your Job](https://lifehacker.com/how-to-decide-how-long-you-should-stay-at-your-job-1849391579)
 - [Dev.to/JS] [It All Comes Back Around to the for Loop](https://dev.to/katebennert/it-all-comes-back-around-to-the-for-loop-11bm)
-- [Dev.to/JS] [Create an Enum representation in JavaScript using Proxy object.](https://dev.to/ahamed_/create-an-enum-representation-in-javascript-using-proxy-object-42o5)
 - [Lifehacker] [When and How to Strain Your Dishes](https://lifehacker.com/when-and-how-to-strain-your-dishes-1849391098)
 - [Lifehacker] [What to Do If the Police Raid Your House](https://lifehacker.com/what-to-do-if-the-police-raid-your-house-1849390605)
 - [Lifehacker] [When to Drop Out of a Race Due to Heat](https://lifehacker.com/when-to-drop-out-of-a-race-due-to-heat-1849390394)
-- [Dev.to/JS] [Top 10 APIs to Consider For Your Next Web Development Project](https://dev.to/spaboi/top-10-apis-to-consider-for-your-next-web-development-project-31al)
-- [Dev.to/JS] [OMG we are trending 🤯](https://dev.to/nevodavid/omg-we-are-trending-2dpn)
 - [Lifehacker] [When Buying Points and Miles Is a Good Idea &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-buying-points-and-miles-is-a-good-idea-and-when-i-1849389765)
-- [Dev.to/JS] [Hide Your API Keys with an API Proxy Server](https://dev.to/ptheodosiou/hide-your-api-keys-with-an-api-proxy-server-2ofo)
 - [Lifehacker] [How to Get Started on the &#39;Among Us VR&#39; Beta](https://lifehacker.com/how-to-get-started-on-the-among-us-vr-beta-1849389883)
 - [Lifehacker] [Keep These Things Updated on Your Pet&#39;s Microchip &lpar;and How to Do It&rpar;](https://lifehacker.com/keep-these-things-updated-on-your-pets-microchip-and-h-1849389885)
 - [Lifehacker] [15 of the Easiest Plants to Propagate](https://lifehacker.com/15-of-the-easiest-plants-to-propagate-1849389726)
