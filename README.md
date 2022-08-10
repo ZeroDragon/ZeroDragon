@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 javascript/typescript playground](https://dev.to/0xkoji/7-javascripttypescript-playground-446l)
+- [Dev.to/JS] [JavaScript: objects](https://dev.to/rosiequ/javascript-objects-3lop)
 - [Dev.to/JS] [برمجة موقع ملاحظات كانوا نحضر اكل](https://dev.to/omar_dev/brmj-mwq-mlhzt-knw-nhdr-kl-2afh)
 - [Dev.to/JS] [Next.js Introduction](https://dev.to/willp11/nextjs-introduction-21l5)
 - [Dev.to/JS] [Html templates as Ruby code](https://dev.to/andrzejkrzywda/html-templates-as-ruby-code-3m9o)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create an AI powered chatbot using NextJS &amp; OpenAI API ?](https://dev.to/yacinemessaadi/how-to-create-an-ai-powered-chatbot-using-nextjs-openai-api--icn)
 - [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
-- [Dev.to/JS] [A Comparison of Node.js Environment Managers](https://dev.to/honeybadger/a-comparison-of-nodejs-environment-managers-boh)
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
-- [Dev.to/JS] [Interesting way to inverse number in JavaScript](https://dev.to/ytskk/interesting-way-to-inverse-number-in-javascript-1cc7)
 - [Lifehacker] [The Best Way to Add Protein to Your Next Bowl](https://lifehacker.com/the-best-way-to-add-protein-to-your-next-bowl-1849391111)
 - [Lifehacker] [How to Decide How Long You Should Stay at Your Job](https://lifehacker.com/how-to-decide-how-long-you-should-stay-at-your-job-1849391579)
 - [Lifehacker] [When and How to Strain Your Dishes](https://lifehacker.com/when-and-how-to-strain-your-dishes-1849391098)
