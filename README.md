@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
+- [Dev.to/JS] [HTML Head and Metadata](https://dev.to/anubhav823/html-head-and-metadata-2fk9)
+- [Dev.to/JS] [Getting Started With Babel - Transpiling Javascript](https://dev.to/davidigheose/getting-started-with-babel-transpiling-javascript-3d03)
+- [Dev.to/JS] [Understanding the ` This` Keyword in Javascript](https://dev.to/davidigheose/understanding-the-this-keyword-in-javascript-2dnl)
+- [Lifehacker] [Where to Sell Your Worst Pandemic Buys &lpar;and How to Get the Most Money for Them&rpar;](https://lifehacker.com/where-to-sell-your-worst-pandemic-buys-and-how-to-get-1849392038)
 - [Lifehacker] [What to Do When You Think Your Teenager Is in an Unhealthy Relationship](https://lifehacker.com/what-to-do-when-you-think-your-teenager-is-in-an-unheal-1849390619)
 - [Dev.to/JS] [How to raise funds for an open-source company 💵](https://dev.to/novu/how-to-get-funds-for-an-open-source-company-1996)
 - [Lifehacker] [How to Use Your Salad Spinner to Build Better Salads](https://lifehacker.com/how-to-use-your-salad-spinner-to-build-better-salads-1849391077)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Wrote A Lo-Fi Player, Loofi with Typescript](https://dev.to/stanleyowen/i-wrote-a-lo-fi-player-loofi-26oh)
 - [Dev.to/JS] [Learn to build a Hexagonal Architecture Micro Service](https://dev.to/timhub/learn-to-build-a-hexagonal-architecture-micro-service-l1h)
 - [Dev.to/JS] [Handling Concurrent Requests with JavaScript Callbacks](https://dev.to/syncfusion/handling-concurrent-requests-with-javascript-callbacks-lhc)
-- [Dev.to/JS] [Send email using OAuth2, NodeJs the right way](https://dev.to/drsimplegraffiti/send-email-using-oauth2-nodejs-the-right-way-5h32)
-- [Dev.to/JS] [Top 4 Web Scraping Use Cases in Data Science](https://dev.to/rohitrohi12/top-4-web-scraping-use-cases-in-data-science-nbn)
-- [Dev.to/JS] [Svelte Shy Header: Peekaboo Sticky Header with CSS](https://dev.to/askrodney/svelte-shy-header-peekaboo-sticky-header-with-css-21o8)
 - [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get the Stink Out of Musty-Smelling Clothes](https://lifehacker.com/how-to-get-the-stink-out-of-musty-smelling-clothes-1849385890)
 - [Lifehacker] [This Is the Easiest, Fastest Way to Portion Your Homemade Meatballs](https://lifehacker.com/this-is-the-easiest-fastest-way-to-portion-your-homema-1849385658)
 - [Lifehacker] [The Most Annoying Microsoft Edge Features Everyone Should Disable](https://lifehacker.com/the-most-annoying-microsoft-edge-features-everyone-shou-1849385048)
-- [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)
-- [Lifehacker] [Do You Need Locket, the Latest Trendy Photo-Sharing App?](https://lifehacker.com/do-you-need-locket-the-latest-trendy-photo-sharing-app-1849385068)
-- [Lifehacker] [What to Do If You Win the Lottery](https://lifehacker.com/what-to-do-if-you-win-the-lottery-1849384886)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)<!-- TECH-POSTS:END -->
 
 ---
 
