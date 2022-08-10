@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
+- [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)
+- [Lifehacker] [This Is the Best Marinade for Chicken Breasts](https://lifehacker.com/this-is-the-best-marinade-for-chicken-breasts-1849392667)
 - [Lifehacker] [How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
 - [Dev.to/JS] [HTML Head and Metadata](https://dev.to/anubhav823/html-head-and-metadata-2fk9)
 - [Dev.to/JS] [Getting Started With Babel - Transpiling Javascript](https://dev.to/davidigheose/getting-started-with-babel-transpiling-javascript-3d03)
@@ -33,12 +36,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Your Salad Spinner to Build Better Salads](https://lifehacker.com/how-to-use-your-salad-spinner-to-build-better-salads-1849391077)
 - [Dev.to/JS] [Yet another post about Prototype vs. Class](https://dev.to/manuartero/yet-another-post-about-prototype-vs-class-5g4a)
 - [Dev.to/JS] [Creative Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/creative-personal-portfolio-website-using-html-css-javascript-152l)
+- [Dev.to/JS] [Blog Engine with Fresh: Building Single Post Page](https://dev.to/sokhavuth/blog-engine-with-fresh-building-single-post-page-5cfh)
 - [Dev.to/JS] [Cannot read properties of undefined &lpar;reading &#39;length&#39;&rpar;](https://dev.to/ankit3131/cannot-read-properties-of-undefined-reading-length-3o3b)
 - [Dev.to/JS] [Answering some fundamental questions about the React Ecosystem, aka feeling closer to React](https://dev.to/zyabxwcd/answering-some-fundamental-questions-about-the-react-ecosystem-aka-feeling-closer-to-react-4ign)
 - [Dev.to/JS] [Easy HTML Forms in SvelteKit with Netlify Forms](https://dev.to/brittneypostma/easy-html-forms-in-sveltekit-with-netlify-forms-1m21)
 - [Dev.to/JS] [I Wrote A Lo-Fi Player, Loofi with Typescript](https://dev.to/stanleyowen/i-wrote-a-lo-fi-player-loofi-26oh)
 - [Dev.to/JS] [Learn to build a Hexagonal Architecture Micro Service](https://dev.to/timhub/learn-to-build-a-hexagonal-architecture-micro-service-l1h)
-- [Dev.to/JS] [Handling Concurrent Requests with JavaScript Callbacks](https://dev.to/syncfusion/handling-concurrent-requests-with-javascript-callbacks-lhc)
 - [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
 - [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
 - [Lifehacker] [This iPhone App Might Actually Help You Break Your Social Media Addiction](https://lifehacker.com/this-iphone-app-might-actually-help-you-break-your-soci-1849385952)
-- [Lifehacker] [How to Get the Stink Out of Musty-Smelling Clothes](https://lifehacker.com/how-to-get-the-stink-out-of-musty-smelling-clothes-1849385890)
-- [Lifehacker] [This Is the Easiest, Fastest Way to Portion Your Homemade Meatballs](https://lifehacker.com/this-is-the-easiest-fastest-way-to-portion-your-homema-1849385658)
-- [Lifehacker] [The Most Annoying Microsoft Edge Features Everyone Should Disable](https://lifehacker.com/the-most-annoying-microsoft-edge-features-everyone-shou-1849385048)
-- [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get the Stink Out of Musty-Smelling Clothes](https://lifehacker.com/how-to-get-the-stink-out-of-musty-smelling-clothes-1849385890)<!-- TECH-POSTS:END -->
 
 ---
 
