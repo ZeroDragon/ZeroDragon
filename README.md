@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
+- [Dev.to/JS] [Simple Validation Form In React Using UseHooks And LocalStorage With Some Tailwind🥳🎉](https://dev.to/tefa/simple-validation-form-in-react-using-usehooks-and-localstorage-with-some-tailwind-4d2c)
+- [Lifehacker] [Exercises &#39;for Women&#39; Are Garbage](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
+- [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
+- [Dev.to/JS] [What are Events in JavaScript and How to Handle Them?](https://dev.to/shahednasser/what-are-events-in-javascript-and-how-to-handle-them-3f3g)
 - [Lifehacker] [What Was Your First Ever Smartphone App?](https://lifehacker.com/what-was-your-first-ever-smartphone-app-1849396125)
 - [Lifehacker] [How to Squat Without the Bar Hurting Your Neck](https://lifehacker.com/how-to-squat-without-the-bar-hurting-your-neck-1849396183)
 - [Lifehacker] [10 Fancy Foods Everyone Used to Think Were Gross](https://lifehacker.com/10-fancy-foods-everyone-used-to-think-were-gross-1849395805)
@@ -41,11 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Benefits OF FACEIO - A Facial Authentication Widget for Websites](https://dev.to/ravikantp3/benefits-of-faceio-a-facial-authentication-widget-for-websites-132f)
 - [Dev.to/JS] [How i manage my react redux](https://dev.to/kimsean/how-i-manage-my-react-redux-8df)
 - [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
-- [Dev.to/JS] [pinia + vuex-orm = pinia-orm](https://dev.to/codedredd/pinia-vuex-orm-pinia-orm-3e9p)
 - [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)
 - [Lifehacker] [This Is the Best Marinade for Chicken Breasts](https://lifehacker.com/this-is-the-best-marinade-for-chicken-breasts-1849392667)
 - [Lifehacker] [How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
-- [Dev.to/JS] [HTML Head and Metadata](https://dev.to/anubhav823/html-head-and-metadata-2fk9)
 - [Lifehacker] [Where to Sell Your Worst Pandemic Buys &lpar;and How to Get the Most Money for Them&rpar;](https://lifehacker.com/where-to-sell-your-worst-pandemic-buys-and-how-to-get-1849392038)
 - [Lifehacker] [What to Do When You Think Your Teenager Is in an Unhealthy Relationship](https://lifehacker.com/what-to-do-when-you-think-your-teenager-is-in-an-unheal-1849390619)
 - [Lifehacker] [How to Use Your Salad Spinner to Build Better Salads](https://lifehacker.com/how-to-use-your-salad-spinner-to-build-better-salads-1849391077)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Drop Out of a Race Due to Heat](https://lifehacker.com/when-to-drop-out-of-a-race-due-to-heat-1849390394)
 - [Lifehacker] [When Buying Points and Miles Is a Good Idea &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-buying-points-and-miles-is-a-good-idea-and-when-i-1849389765)
 - [Lifehacker] [How to Get Started on the &#39;Among Us VR&#39; Beta](https://lifehacker.com/how-to-get-started-on-the-among-us-vr-beta-1849389883)
-- [Lifehacker] [Keep These Things Updated on Your Pet&#39;s Microchip &lpar;and How to Do It&rpar;](https://lifehacker.com/keep-these-things-updated-on-your-pets-microchip-and-h-1849389885)
-- [Lifehacker] [15 of the Easiest Plants to Propagate](https://lifehacker.com/15-of-the-easiest-plants-to-propagate-1849389726)
-- [Lifehacker] [Are You Ready for Skin Contact White Wine?](https://lifehacker.com/are-you-ready-for-skin-contact-white-wine-1849389579)
-- [Lifehacker] [How to See Your iPhone&#39;s Battery Percentage All the Time Again](https://lifehacker.com/how-to-see-your-iphones-battery-percentage-all-the-time-1849389459)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Keep These Things Updated on Your Pet&#39;s Microchip &lpar;and How to Do It&rpar;](https://lifehacker.com/keep-these-things-updated-on-your-pets-microchip-and-h-1849389885)<!-- TECH-POSTS:END -->
 
 ---
 
