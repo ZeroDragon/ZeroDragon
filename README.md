@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 4 Web Scraping Use Cases in Data Science](https://dev.to/rohitrohi12/top-4-web-scraping-use-cases-in-data-science-nbn)
+- [Dev.to/JS] [Svelte Shy Header: Peekaboo Sticky Header with CSS](https://dev.to/askrodney/svelte-shy-header-peekaboo-sticky-header-with-css-21o8)
+- [Dev.to/JS] [Write a express like api using bunjs](https://dev.to/lau1944/write-a-express-like-api-using-bunjs-3obh)
 - [Dev.to/JS] [Introduction to JavaScript](https://dev.to/mrdanishsaleem/introduction-to-javascript-48jn)
 - [Dev.to/JS] [https://www.facebook.com/SmilzCBDGummiesReviewsOfficials/](https://dev.to/smilzcbdgummi/httpswwwfacebookcomsmilzcbdgummiesreviewsofficials-39m7)
 - [Dev.to/JS] [multiple Themeswitch in Svelte with Tailwind](https://dev.to/kolja/multiple-themeswitch-in-svelte-with-tailwind-4j1c)
@@ -30,11 +33,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MicroFrontEnds - An approach toward scalable Frontends ⚡](https://dev.to/meerhamzadev/microfrontends-an-approach-toward-scalable-frontends-33p4)
 - [Dev.to/JS] [🔥JSON Web Token &lpar;JWT&rpar; is quite popular and used for Authentication🔥](https://dev.to/kelchospense/json-web-token-jwt-is-quite-popular-and-used-for-authentication-1k0f)
 - [Dev.to/JS] [Chat app](https://dev.to/talenttinaapi/chat-app-5abe)
+- [Dev.to/JS] [Creating your next custom boilerplate easily with Simple-Scaffold](https://dev.to/casraf/boilerplating-all-your-next-apps-easily-with-simple-scaffold-4a8)
 - [Dev.to/JS] [How To Check Types In Typescript](https://dev.to/danywalls/how-to-check-types-in-typescript-o5n)
-- [Dev.to/JS] [NestJS: Work with configuration](https://dev.to/ilyary/nestjs-work-with-configuration-5fd6)
-- [Dev.to/JS] [How To Migrate From Strapi v3 to v4 Walkthrough](https://dev.to/strapi/how-to-migrate-from-strapi-v3-to-v4-walkthrough-4dh5)
-- [Dev.to/JS] [Typescript in React](https://dev.to/jarethtan/typescript-in-react-j8h)
-- [Dev.to/JS] [Vue JS](https://dev.to/isaachatilima/vue-js-1lcd)
 - [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
