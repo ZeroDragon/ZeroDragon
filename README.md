@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [برمجة موقع ملاحظات كانوا نحضر اكل](https://dev.to/omar_dev/brmj-mwq-mlhzt-knw-nhdr-kl-2afh)
+- [Dev.to/JS] [Next.js Introduction](https://dev.to/willp11/nextjs-introduction-21l5)
 - [Dev.to/JS] [Html templates as Ruby code](https://dev.to/andrzejkrzywda/html-templates-as-ruby-code-3m9o)
 - [Dev.to/JS] [Four top Front End Monitoring Tools for your Website](https://dev.to/asayerio_techblog/four-top-front-end-monitoring-tools-for-your-website-1592)
 - [Dev.to/JS] [Async Data Fetching with React-Select](https://dev.to/asayerio_techblog/async-data-fetching-with-react-select-55jp)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
 - [Dev.to/JS] [Interesting way to inverse number in JavaScript](https://dev.to/ytskk/interesting-way-to-inverse-number-in-javascript-1cc7)
 - [Lifehacker] [The Best Way to Add Protein to Your Next Bowl](https://lifehacker.com/the-best-way-to-add-protein-to-your-next-bowl-1849391111)
-- [Dev.to/JS] [Function to check for an empty string in one line of Javascript 😎](https://dev.to/richclarke0/function-to-check-for-an-empty-string-in-one-line-of-javascript-17bi)
 - [Lifehacker] [How to Decide How Long You Should Stay at Your Job](https://lifehacker.com/how-to-decide-how-long-you-should-stay-at-your-job-1849391579)
-- [Dev.to/JS] [It All Comes Back Around to the for Loop](https://dev.to/katebennert/it-all-comes-back-around-to-the-for-loop-11bm)
 - [Lifehacker] [When and How to Strain Your Dishes](https://lifehacker.com/when-and-how-to-strain-your-dishes-1849391098)
 - [Lifehacker] [What to Do If the Police Raid Your House](https://lifehacker.com/what-to-do-if-the-police-raid-your-house-1849390605)
 - [Lifehacker] [When to Drop Out of a Race Due to Heat](https://lifehacker.com/when-to-drop-out-of-a-race-due-to-heat-1849390394)
