@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating and Consuming Custom Events](https://dev.to/hbarnesau/creating-and-consuming-custom-events-4ced)
 - [Dev.to/JS] [Cocktail Library {vanilla JS}](https://dev.to/akimsahn/cocktail-library-vanilla-js-5469)
 - [Dev.to/JS] [How to properly handle UTF-8 BOM files in Nodejs?](https://dev.to/omardulaimi/how-to-properly-handle-utf-8-bom-files-in-nodejs-1nmj)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do we really need Flux, Vuex, Pinia, MobX and all the other Statemanagement Frameworks?](https://dev.to/decker67/do-we-really-need-flux-vuex-pinia-mobx-and-all-the-other-statemanagement-frameworks-4p37)
 - [Dev.to/JS] [Testing a easy method with Mocha and Javascript](https://dev.to/crisoncode/testing-a-easy-method-with-mocha-and-javascript-2j3k)
 - [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)
-- [Dev.to/JS] [What happens when you reach the max score in chrome dino game? 🤔](https://dev.to/maurerkrisztian/what-happens-when-you-reach-the-max-score-in-chrome-dino-game-53kl)
 - [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
 - [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)
 - [Lifehacker] [This Is the Best Marinade for Chicken Breasts](https://lifehacker.com/this-is-the-best-marinade-for-chicken-breasts-1849392667)
