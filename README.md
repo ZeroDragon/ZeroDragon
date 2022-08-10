@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Check Types In Typescript](https://dev.to/danywalls/how-to-check-types-in-typescript-o5n)
+- [Dev.to/JS] [NestJS: Work with configuration](https://dev.to/ilyary/nestjs-work-with-configuration-5fd6)
+- [Dev.to/JS] [How To Migrate From Strapi v3 to v4 Walkthrough](https://dev.to/strapi/how-to-migrate-from-strapi-v3-to-v4-walkthrough-4dh5)
+- [Dev.to/JS] [Typescript in React](https://dev.to/jarethtan/typescript-in-react-j8h)
 - [Dev.to/JS] [Vue JS](https://dev.to/isaachatilima/vue-js-1lcd)
 - [Dev.to/JS] [Simple input autocomplete with React and CSS](https://dev.to/zhizhan/simple-input-autocomplete-with-react-and-css-1j44)
 - [Dev.to/JS] [How to improve your technical interview? Start livestreaming!](https://dev.to/elpol/how-to-improve-your-technical-interview-start-livestreaming-6ed)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [برمجة موقع ملاحظات كانوا نحضر اكل](https://dev.to/omar_dev/brmj-mwq-mlhzt-knw-nhdr-kl-2afh)
 - [Dev.to/JS] [Next.js Introduction](https://dev.to/willp11/nextjs-introduction-21l5)
 - [Dev.to/JS] [Html templates as Ruby code](https://dev.to/andrzejkrzywda/html-templates-as-ruby-code-3m9o)
-- [Dev.to/JS] [Four top Front End Monitoring Tools for your Website](https://dev.to/asayerio_techblog/four-top-front-end-monitoring-tools-for-your-website-1592)
-- [Dev.to/JS] [Async Data Fetching with React-Select](https://dev.to/asayerio_techblog/async-data-fetching-with-react-select-55jp)
-- [Dev.to/JS] [JAW-DROPPING FUNDAMENTALS OF THE &#39;this&#39; KEYWORD IN JAVASCRIPT.](https://dev.to/aahil13/jaw-dropping-fundamentals-of-the-this-keyword-in-javascript-5326)
-- [Dev.to/JS] [Writing Well-Structured Unit Test in TypeScript](https://dev.to/arifintahu/writing-well-structured-unit-test-in-typescript-2hal)
 - [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
