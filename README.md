@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When You Think Your Teenager Is in an Unhealthy Relationship](https://lifehacker.com/what-to-do-when-you-think-your-teenager-is-in-an-unheal-1849390619)
+- [Dev.to/JS] [How to raise funds for an open-source company 💵](https://dev.to/novu/how-to-get-funds-for-an-open-source-company-1996)
 - [Lifehacker] [How to Use Your Salad Spinner to Build Better Salads](https://lifehacker.com/how-to-use-your-salad-spinner-to-build-better-salads-1849391077)
 - [Dev.to/JS] [Yet another post about Prototype vs. Class](https://dev.to/manuartero/yet-another-post-about-prototype-vs-class-5g4a)
 - [Dev.to/JS] [Creative Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/creative-personal-portfolio-website-using-html-css-javascript-152l)
@@ -31,11 +33,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy HTML Forms in SvelteKit with Netlify Forms](https://dev.to/brittneypostma/easy-html-forms-in-sveltekit-with-netlify-forms-1m21)
 - [Dev.to/JS] [I Wrote A Lo-Fi Player, Loofi with Typescript](https://dev.to/stanleyowen/i-wrote-a-lo-fi-player-loofi-26oh)
 - [Dev.to/JS] [Learn to build a Hexagonal Architecture Micro Service](https://dev.to/timhub/learn-to-build-a-hexagonal-architecture-micro-service-l1h)
+- [Dev.to/JS] [Handling Concurrent Requests with JavaScript Callbacks](https://dev.to/syncfusion/handling-concurrent-requests-with-javascript-callbacks-lhc)
 - [Dev.to/JS] [Send email using OAuth2, NodeJs the right way](https://dev.to/drsimplegraffiti/send-email-using-oauth2-nodejs-the-right-way-5h32)
 - [Dev.to/JS] [Top 4 Web Scraping Use Cases in Data Science](https://dev.to/rohitrohi12/top-4-web-scraping-use-cases-in-data-science-nbn)
 - [Dev.to/JS] [Svelte Shy Header: Peekaboo Sticky Header with CSS](https://dev.to/askrodney/svelte-shy-header-peekaboo-sticky-header-with-css-21o8)
-- [Dev.to/JS] [Write a express like api using bunjs](https://dev.to/lau1944/write-a-express-like-api-using-bunjs-3obh)
-- [Dev.to/JS] [Introduction to JavaScript](https://dev.to/mrdanishsaleem/introduction-to-javascript-48jn)
 - [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Annoying Microsoft Edge Features Everyone Should Disable](https://lifehacker.com/the-most-annoying-microsoft-edge-features-everyone-shou-1849385048)
 - [Lifehacker] [Your Tacos Need Structural Support](https://lifehacker.com/your-tacos-need-structural-support-1849385179)
 - [Lifehacker] [Do You Need Locket, the Latest Trendy Photo-Sharing App?](https://lifehacker.com/do-you-need-locket-the-latest-trendy-photo-sharing-app-1849385068)
-- [Lifehacker] [What to Do If You Win the Lottery](https://lifehacker.com/what-to-do-if-you-win-the-lottery-1849384886)
-- [Lifehacker] [Change Your Mac&#39;s Caps Lock Key Into Something Useful](https://lifehacker.com/change-your-macs-caps-lock-key-into-something-useful-1849384768)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do If You Win the Lottery](https://lifehacker.com/what-to-do-if-you-win-the-lottery-1849384886)<!-- TECH-POSTS:END -->
 
 ---
 
