@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cocktail Library {vanilla JS}](https://dev.to/akimsahn/cocktail-library-vanilla-js-5469)
+- [Dev.to/JS] [How to properly handle UTF-8 BOM files in Nodejs?](https://dev.to/omardulaimi/how-to-properly-handle-utf-8-bom-files-in-nodejs-1nmj)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
 - [Dev.to/JS] [Simple Validation Form In React Using UseHooks And LocalStorage With Some Tailwind🥳🎉](https://dev.to/tefa/simple-validation-form-in-react-using-usehooks-and-localstorage-with-some-tailwind-4d2c)
 - [Lifehacker] [Exercises &#39;for Women&#39; Are Garbage](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing a easy method with Mocha and Javascript](https://dev.to/crisoncode/testing-a-easy-method-with-mocha-and-javascript-2j3k)
 - [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)
 - [Dev.to/JS] [What happens when you reach the max score in chrome dino game? 🤔](https://dev.to/maurerkrisztian/what-happens-when-you-reach-the-max-score-in-chrome-dino-game-53kl)
-- [Dev.to/JS] [Benefits OF FACEIO - A Facial Authentication Widget for Websites](https://dev.to/ravikantp3/benefits-of-faceio-a-facial-authentication-widget-for-websites-132f)
-- [Dev.to/JS] [How i manage my react redux](https://dev.to/kimsean/how-i-manage-my-react-redux-8df)
 - [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
 - [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)
 - [Lifehacker] [This Is the Best Marinade for Chicken Breasts](https://lifehacker.com/this-is-the-best-marinade-for-chicken-breasts-1849392667)
