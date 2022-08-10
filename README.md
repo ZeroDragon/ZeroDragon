@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Fancy Foods Everyone Used to Think Were Gross](https://lifehacker.com/10-fancy-foods-everyone-used-to-think-were-gross-1849395805)
+- [Dev.to/JS] [Should you create new constants for tests](https://dev.to/ethancarlsson/should-you-create-new-constants-for-tests-2a4k)
+- [Lifehacker] [Everything Worth Knowing About WhatsApp&#39;s Big Privacy Update](https://lifehacker.com/everything-worth-knowing-about-whatsapps-big-privacy-up-1849395469)
 - [Dev.to/JS] [Finding unpaired number](https://dev.to/ytskk/finding-unpaired-nu-nac)
 - [Dev.to/JS] [Marker not showing in Next/React App | REACT Google Map API](https://dev.to/vatana7/marker-not-showing-in-nextreact-app-react-google-map-api-koe)
 - [Lifehacker] [What Do You Do About Instagram After a Breakup?](https://lifehacker.com/what-do-you-do-about-instagram-after-a-breakup-1849394777)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Marinade for Chicken Breasts](https://lifehacker.com/this-is-the-best-marinade-for-chicken-breasts-1849392667)
 - [Lifehacker] [How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
 - [Dev.to/JS] [HTML Head and Metadata](https://dev.to/anubhav823/html-head-and-metadata-2fk9)
-- [Dev.to/JS] [Getting Started With Babel - Transpiling Javascript](https://dev.to/davidigheose/getting-started-with-babel-transpiling-javascript-3d03)
 - [Lifehacker] [Where to Sell Your Worst Pandemic Buys &lpar;and How to Get the Most Money for Them&rpar;](https://lifehacker.com/where-to-sell-your-worst-pandemic-buys-and-how-to-get-1849392038)
 - [Lifehacker] [What to Do When You Think Your Teenager Is in an Unhealthy Relationship](https://lifehacker.com/what-to-do-when-you-think-your-teenager-is-in-an-unheal-1849390619)
 - [Lifehacker] [How to Use Your Salad Spinner to Build Better Salads](https://lifehacker.com/how-to-use-your-salad-spinner-to-build-better-salads-1849391077)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are You Ready for Skin Contact White Wine?](https://lifehacker.com/are-you-ready-for-skin-contact-white-wine-1849389579)
 - [Lifehacker] [How to See Your iPhone&#39;s Battery Percentage All the Time Again](https://lifehacker.com/how-to-see-your-iphones-battery-percentage-all-the-time-1849389459)
 - [Lifehacker] [How to Grind Your Way to a Better Cup of Coffee](https://lifehacker.com/how-to-grind-your-way-to-a-better-cup-of-coffee-1849389359)
-- [Lifehacker] [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)
-- [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
-- [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)<!-- TECH-POSTS:END -->
 
 ---
 
