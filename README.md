@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Not Get Killed by a Bison](https://lifehacker.com/how-to-not-get-killed-by-a-bison-1849395229)
+- [Dev.to/JS] [Do we really need Flux, Vuex, Pinia, MobX and all the other Statemanagement Frameworks?](https://dev.to/decker67/do-we-really-need-flux-vuex-pinia-mobx-and-all-the-other-statemanagement-frameworks-4p37)
+- [Dev.to/JS] [Testing a easy method with Mocha and Javascript](https://dev.to/crisoncode/testing-a-easy-method-with-mocha-and-javascript-2j3k)
+- [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)
+- [Dev.to/JS] [What happens when you reach the max score in chrome dino game? 🤔](https://dev.to/maurerkrisztian/what-happens-when-you-reach-the-max-score-in-chrome-dino-game-53kl)
+- [Dev.to/JS] [How i manage my react redux](https://dev.to/kimsean/how-i-manage-my-react-redux-8df)
 - [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
 - [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)
 - [Lifehacker] [This Is the Best Marinade for Chicken Breasts](https://lifehacker.com/this-is-the-best-marinade-for-chicken-breasts-1849392667)
@@ -38,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creative Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/creative-personal-portfolio-website-using-html-css-javascript-152l)
 - [Dev.to/JS] [Blog Engine with Fresh: Building Single Post Page](https://dev.to/sokhavuth/blog-engine-with-fresh-building-single-post-page-5cfh)
 - [Dev.to/JS] [Cannot read properties of undefined &lpar;reading &#39;length&#39;&rpar;](https://dev.to/ankit3131/cannot-read-properties-of-undefined-reading-length-3o3b)
-- [Dev.to/JS] [Answering some fundamental questions about the React Ecosystem, aka feeling closer to React](https://dev.to/zyabxwcd/answering-some-fundamental-questions-about-the-react-ecosystem-aka-feeling-closer-to-react-4ign)
-- [Dev.to/JS] [Easy HTML Forms in SvelteKit with Netlify Forms](https://dev.to/brittneypostma/easy-html-forms-in-sveltekit-with-netlify-forms-1m21)
-- [Dev.to/JS] [I Wrote A Lo-Fi Player, Loofi with Typescript](https://dev.to/stanleyowen/i-wrote-a-lo-fi-player-loofi-26oh)
-- [Dev.to/JS] [Learn to build a Hexagonal Architecture Micro Service](https://dev.to/timhub/learn-to-build-a-hexagonal-architecture-micro-service-l1h)
 - [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
 - [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Add Horseradish to Your Blue Cheese Dressing](https://lifehacker.com/why-you-should-add-horseradish-to-your-blue-cheese-dres-1849386777)
 - [Lifehacker] [Great, Now the Apple App Store Has Malware Too](https://lifehacker.com/great-now-the-apple-app-store-has-malware-too-1849386738)
 - [Lifehacker] [9 of the Cheapest, Healthiest Make-Ahead Breakfasts, According to Reddit](https://lifehacker.com/9-of-the-cheapest-healthiest-make-ahead-breakfasts-ac-1849386449)
-- [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)
-- [Lifehacker] [This iPhone App Might Actually Help You Break Your Social Media Addiction](https://lifehacker.com/this-iphone-app-might-actually-help-you-break-your-soci-1849385952)
-- [Lifehacker] [How to Get the Stink Out of Musty-Smelling Clothes](https://lifehacker.com/how-to-get-the-stink-out-of-musty-smelling-clothes-1849385890)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Things You Can Do Now to Help Prevent Dementia Later](https://lifehacker.com/11-things-you-can-do-now-to-help-prevent-dementia-later-1849386505)<!-- TECH-POSTS:END -->
 
 ---
 
