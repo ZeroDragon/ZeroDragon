@@ -24,7 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [7 javascript/typescript playground](https://dev.to/0xkoji/7-javascripttypescript-playground-446l)
-- [Dev.to/JS] [JavaScript: objects](https://dev.to/rosiequ/javascript-objects-3lop)
+- [Dev.to/JS] [JavaScript: Objects](https://dev.to/rosiequ/javascript-objects-3lop)
 - [Dev.to/JS] [برمجة موقع ملاحظات كانوا نحضر اكل](https://dev.to/omar_dev/brmj-mwq-mlhzt-knw-nhdr-kl-2afh)
 - [Dev.to/JS] [Next.js Introduction](https://dev.to/willp11/nextjs-introduction-21l5)
 - [Dev.to/JS] [Html templates as Ruby code](https://dev.to/andrzejkrzywda/html-templates-as-ruby-code-3m9o)
