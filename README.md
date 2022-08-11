@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
+- [Dev.to/JS] [Paracetamol.js💊| #181: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-181-explica-este-codigo-javascript-3d38)
+- [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
+- [Dev.to/JS] [AI in javascript](https://dev.to/krillinkills/ai-in-javascript-2bi9)
+- [Dev.to/JS] [A new Typescript primitive🔮](https://dev.to/paolimi/a-new-typescript-primitive-23ac)
+- [Dev.to/JS] [How to Detect Browser in JavaScript](https://dev.to/ombhusal/how-to-detect-browser-in-javascript-5fe)
+- [Dev.to/JS] [Acessando o &quot;compartilhar&quot; nativo, vulgo Web-Share, em VanillaJS e Vue](https://dev.to/jonyhayama/acessando-o-compartilhar-nativo-vulgo-web-share-em-vanillajs-e-vue-1n1i)
+- [Dev.to/JS] [Lightweight Forms Validation in React](https://dev.to/jnv/lightweight-forms-validation-in-react-35og)
+- [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)
 - [Dev.to/JS] [What are Multi-line Programs in JavaScript](https://dev.to/mrdanishsaleem/what-are-multi-line-programs-in-javascript-105c)
 - [Lifehacker] [Should You Stretch Before or After Your Workout?](https://lifehacker.com/should-you-stretch-before-or-after-your-workout-1849401371)
@@ -35,15 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 examples of reading, writing and pipelining streams in NodeJS](https://dev.to/nonunicorn/5-examples-of-reading-writing-and-pipelining-streams-in-nodejs-3f6n)
 - [Lifehacker] [A Bunch More Oat Milks and Coffee Drinks Are Now Part of a Major Recall [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 - [Dev.to/JS] [Leonardo&#39;s Monorail](https://dev.to/rmion/leonardos-monorail-187l)
-- [Dev.to/JS] [Here we go again](https://dev.to/arpitpannu/here-we-go-again-k4e)
 - [Lifehacker] [How to Reconnect After a Friendship Breakup](https://lifehacker.com/how-to-reconnect-after-a-friendship-breakup-1849398461)
-- [Dev.to/JS] [Tagging and Feature Flags](https://dev.to/alcazes/tagging-and-feature-flags-nf0)
-- [Dev.to/JS] [Ideas on improving array element access and making web apps performant](https://dev.to/montai/ideas-on-improving-array-element-access-and-making-web-apps-performant-554f)
-- [Dev.to/JS] [Handle Javascript errors like in Go](https://dev.to/ivanalejandro0/handle-javascript-errors-like-in-go-ofd)
 - [Lifehacker] [There&#39;s a &#39;Shrew Virus&#39; Now?](https://lifehacker.com/theres-a-shrew-virus-now-1849398571)
-- [Dev.to/JS] [Working With Multiple Projects In Angular](https://dev.to/danywalls/working-with-multiple-projects-in-angular-54nd)
 - [Lifehacker] [12 of the Best Podcasts for Foodies Who Love Food and Food Culture](https://lifehacker.com/12-of-the-best-podcasts-for-foodies-who-love-food-and-f-1849399019)
-- [Dev.to/JS] [Typing React Components: React.FC or JSX.Element?](https://dev.to/benhurmartins/typing-react-components-reactfc-or-jsxelement-p31)
 - [Lifehacker] [How to Respond to an Unexpected Meeting With Your Boss](https://lifehacker.com/how-to-respond-to-an-unexpected-meeting-with-your-boss-1849397793)
 - [Lifehacker] [The Cleverest Way to Measure a Sauce While It&#39;s Reducing](https://lifehacker.com/the-cleverest-way-to-measure-a-sauce-while-its-reducing-1849396377)
 - [Lifehacker] [Why You Should Try Half and Half in Your Protein Shakes](https://lifehacker.com/why-you-should-try-half-and-half-in-your-protein-shakes-1849396916)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Not Get Killed by a Bison](https://lifehacker.com/how-to-not-get-killed-by-a-bison-1849395229)
 - [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)
 - [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
-- [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)
-- [Lifehacker] [This Is the Best Marinade for Chicken Breasts](https://lifehacker.com/this-is-the-best-marinade-for-chicken-breasts-1849392667)
-- [Lifehacker] [How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
-- [Lifehacker] [Where to Sell Your Worst Pandemic Buys &lpar;and How to Get the Most Money for Them&rpar;](https://lifehacker.com/where-to-sell-your-worst-pandemic-buys-and-how-to-get-1849392038)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)<!-- TECH-POSTS:END -->
 
 ---
 
