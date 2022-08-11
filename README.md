@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do we need Axios having the fetch API everywhere?](https://dev.to/decker67/do-we-need-axios-having-the-fetch-api-everywhere-24ej)
+- [Dev.to/JS] [Migrating a nodejs, webpack project from JavaScript to TypeScript](https://dev.to/jokatty/migrating-a-nodejs-webpack-project-from-javascript-to-typescript-2ckm)
+- [Lifehacker] [The Cleverest Way to Measure a Sauce While It&#39;s Reducing](https://lifehacker.com/the-cleverest-way-to-measure-a-sauce-while-its-reducing-1849396377)
+- [Dev.to/JS] [JavaScript Primitive &amp; Non Primitive Data Type](https://dev.to/omaradelattia/javascript-primitive-non-primitive-data-type-556f)
+- [Dev.to/JS] [6.3 Polishing your Firebase webapp - indexing and SEO &lpar;Search Engine Optimisation&rpar;](https://dev.to/mjoycemilburn/63-polishing-your-firebase-webapp-indexing-and-seo-search-engine-optimisation-59k3)
+- [Dev.to/JS] [6.4 Polishing your Firebase webapp - Next.js and CDN &lpar;Content Distribution Networks&rpar;](https://dev.to/mjoycemilburn/64-polishing-your-firebase-webapp-nextjs-and-cdn-content-distribution-networks-2b85)
+- [Lifehacker] [Why You Should Try Half and Half in Your Protein Shakes](https://lifehacker.com/why-you-should-try-half-and-half-in-your-protein-shakes-1849396916)
 - [Dev.to/JS] [Clean Architecture implementation written in NodeJS](https://dev.to/luisfrasnelli/clean-architecture-implementation-written-in-nodejs-3k59)
 - [Dev.to/JS] [Build a SSR App with React, React Router and Vite](https://dev.to/franciscomendes10866/build-a-ssr-app-with-react-react-router-and-vite-1c6l)
 - [Dev.to/JS] [Job Announcement Website: Application Session](https://dev.to/sokhavuth/job-announcement-website-application-session-4epb)
@@ -30,19 +37,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: Executando um programa](https://dev.to/h4ck3rtr4d3r/javascript-executando-um-programa-2e8c)
 - [Dev.to/JS] [React fetch data guide](https://dev.to/flatlogic/react-fetch-data-guide-gh0)
 - [Dev.to/JS] [go fetch&lpar;&rpar;](https://dev.to/jmayheww/go-fetch-i0o)
-- [Dev.to/JS] [Development Guides of Localbitcoins clone script](https://dev.to/thecryptoapeo/development-guides-of-localbitcoins-clone-script-282k)
-- [Dev.to/JS] [How to setup Redux tool kit for RTK query](https://dev.to/masterifeanyi/how-to-setup-redux-tool-kit-for-rtk-query-2o69)
-- [Dev.to/JS] [Easily Copy Text Within Devices With This Solution](https://dev.to/adeleyeayodeji/easily-copy-text-within-devices-with-this-solution-167d)
-- [Dev.to/JS] [Cypress vs. Playwright: Which One is Better for You?](https://dev.to/testrigtech/cypress-vs-playwright-which-one-is-better-for-you-65b)
-- [Dev.to/JS] [Embed Video Call on Website with Prebuilt SDK](https://dev.to/zegocloud/embed-video-call-on-website-with-prebuilt-sdk-29ei)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
-- [Lifehacker] [Exercises &#39;for Women&#39; Are Garbage](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
+- [Lifehacker] [Exercises &#39;for Women&#39; Are Sandbagging You](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
 - [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
 - [Lifehacker] [What Was Your First Ever Smartphone App?](https://lifehacker.com/what-was-your-first-ever-smartphone-app-1849396125)
 - [Lifehacker] [How to Squat Without the Bar Hurting Your Neck](https://lifehacker.com/how-to-squat-without-the-bar-hurting-your-neck-1849396183)
 - [Lifehacker] [10 Fancy Foods Everyone Used to Think Were Gross](https://lifehacker.com/10-fancy-foods-everyone-used-to-think-were-gross-1849395805)
 - [Lifehacker] [Everything Worth Knowing About WhatsApp&#39;s Big Privacy Update](https://lifehacker.com/everything-worth-knowing-about-whatsapps-big-privacy-up-1849395469)
-- [Lifehacker] [What Do You Do About Instagram After a Breakup?](https://lifehacker.com/what-do-you-do-about-instagram-after-a-breakup-1849394777)
+- [Lifehacker] [How Do You Navigate Social Media After a Breakup?](https://lifehacker.com/what-do-you-do-about-instagram-after-a-breakup-1849394777)
 - [Lifehacker] [How to Not Get Killed by a Bison](https://lifehacker.com/how-to-not-get-killed-by-a-bison-1849395229)
 - [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)
 - [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When and How to Strain Your Dishes](https://lifehacker.com/when-and-how-to-strain-your-dishes-1849391098)
 - [Lifehacker] [What to Do If the Police Raid Your House](https://lifehacker.com/what-to-do-if-the-police-raid-your-house-1849390605)
 - [Lifehacker] [When to Drop Out of a Race Due to Heat](https://lifehacker.com/when-to-drop-out-of-a-race-due-to-heat-1849390394)
-- [Lifehacker] [When Buying Points and Miles Is a Good Idea &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-buying-points-and-miles-is-a-good-idea-and-when-i-1849389765)
-- [Lifehacker] [How to Get Started on the &#39;Among Us VR&#39; Beta](https://lifehacker.com/how-to-get-started-on-the-among-us-vr-beta-1849389883)
-- [Lifehacker] [Keep These Things Updated on Your Pet&#39;s Microchip &lpar;and How to Do It&rpar;](https://lifehacker.com/keep-these-things-updated-on-your-pets-microchip-and-h-1849389885)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When Buying Points and Miles Is a Good Idea &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-buying-points-and-miles-is-a-good-idea-and-when-i-1849389765)<!-- TECH-POSTS:END -->
 
 ---
 
