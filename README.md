@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should You Stretch Before or After Your Workout?](https://lifehacker.com/should-you-stretch-before-or-after-your-workout-1849401371)
 - [Lifehacker] [Are You Sexting Enough?](https://lifehacker.com/are-you-sexting-enough-1849400783)
 - [Dev.to/JS] [Nyan Cat or Giga Cat Epic Game](https://dev.to/seek4samurai/nyan-cat-or-giga-cat-epic-game-1970)
 - [Lifehacker] [11 Things You Didn&#39;t Know Your Grocery Store&#39;s Bakery Can Do for You](https://lifehacker.com/11-ways-to-make-the-most-of-your-grocery-stores-bakery-1849397948)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Marinade for Chicken Breasts](https://lifehacker.com/this-is-the-best-marinade-for-chicken-breasts-1849392667)
 - [Lifehacker] [How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
 - [Lifehacker] [Where to Sell Your Worst Pandemic Buys &lpar;and How to Get the Most Money for Them&rpar;](https://lifehacker.com/where-to-sell-your-worst-pandemic-buys-and-how-to-get-1849392038)
-- [Lifehacker] [What to Do When You Think Your Teenager Is in an Unhealthy Relationship](https://lifehacker.com/what-to-do-when-you-think-your-teenager-is-in-an-unheal-1849390619)
-- [Lifehacker] [How to Use Your Salad Spinner to Build Better Salads](https://lifehacker.com/how-to-use-your-salad-spinner-to-build-better-salads-1849391077)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When You Think Your Teenager Is in an Unhealthy Relationship](https://lifehacker.com/what-to-do-when-you-think-your-teenager-is-in-an-unheal-1849390619)<!-- TECH-POSTS:END -->
 
 ---
 
