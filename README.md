@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TIDBIT: Array of Key-Value pairs from FormData](https://dev.to/charlesloder/tidbit-array-of-key-value-pairs-from-formdata-34pb)
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Dev.to/JS] [How to build frontend on Flask view directly](https://dev.to/kyle12jung/how-to-build-frontend-on-flask-view-directly-2fcj)
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zero Based getMonth&lpar;&rpar; Lesson](https://dev.to/chrisbenjamin/zero-based-getmonth-lesson-1hjo)
 - [Dev.to/JS] [Make Videos with JavaScript 4](https://dev.to/kadeesterline/make-videos-with-javascript-4-1c13)
 - [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
-- [Dev.to/JS] [Paracetamol.js💊| #181: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-181-explica-este-codigo-javascript-3d38)
 - [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
 - [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)
