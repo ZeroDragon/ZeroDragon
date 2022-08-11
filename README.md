@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [flat&lpar;&rpar; vs flatMap&lpar;&rpar;](https://dev.to/shshank/flat-vs-flatmap-3p73)
+- [Dev.to/JS] [Browser extensions - our first extension](https://dev.to/dailydevtips1/browser-extensions-our-first-extension-66m)
+- [Dev.to/JS] [Improve on choosing the better data structures](https://dev.to/montai/improve-on-choosing-the-better-data-structures-imk)
+- [Dev.to/JS] [Elm: a good frontend language?](https://dev.to/olus2000/elm-a-good-frontend-language-19bk)
+- [Dev.to/JS] [7 Most Suitable AngularJS Frameworks for Web Applications](https://dev.to/himadripatelace/7-most-suitable-angularjs-frameworks-for-web-applications-1h1j)
 - [Dev.to/JS] [ERROR: System limit for number of file watchers reached in Nuxt](https://dev.to/siumhossain/error-system-limit-for-number-of-file-watchers-reached-in-nuxt-5g2d)
 - [Dev.to/JS] [Radon Linked With Cancer: How to Ensure Your Home is Radon-Free](https://dev.to/onlineservices/radon-linked-with-cancer-how-to-ensure-your-home-is-radon-free-458n)
 - [Dev.to/JS] [-CSS-JS-formValidate](https://dev.to/soyhipst/-css-js-formvalidate-2laa)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 1: Python Object and Data Structure Basics](https://dev.to/kdleonard93/day-1-python-object-and-data-structure-basics-2ghc)
 - [Dev.to/JS] [Job Announcement Website: Boilerplate Code](https://dev.to/sokhavuth/boilerplate-code-2pb)
 - [Dev.to/JS] [Multiples mode using same as dark mode class by Tailwindcss](https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4)
-- [Dev.to/JS] [JavaScript &#39;let&#39; vrs &#39;var&#39; vrs &#39;const&#39;](https://dev.to/qbentil/javascript-let-vrs-var-vrs-const-pn5)
-- [Dev.to/JS] [Would You Use Vanilla JavaScript &lpar;No Framework&rpar; On a Project?](https://dev.to/mikhailkaran/would-you-use-vanilla-javascript-no-framework-on-a-project-25gf)
-- [Dev.to/JS] [How to upload files to ardrive manually and with ardrive CLI?](https://dev.to/rtagliavia/how-to-upload-files-to-ardrive-manually-and-with-ardrive-cli-1ggc)
-- [Dev.to/JS] [Creating and Consuming Custom Events](https://dev.to/hbarnesau/creating-and-consuming-custom-events-4ced)
-- [Dev.to/JS] [Cocktail Library {vanilla JS}](https://dev.to/akimsahn/cocktail-library-vanilla-js-5469)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
 - [Lifehacker] [Exercises &#39;for Women&#39; Are Garbage](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
 - [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
