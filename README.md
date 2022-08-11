@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using the Web Share API in React](https://dev.to/cbrannen9a/using-the-web-share-api-in-react-5gha)
+- [Dev.to/JS] [Let&#39;s Talk About Framework-Specific UI Component Libraries](https://dev.to/endigo9740/lets-talk-about-framework-specific-ui-component-libraries-non)
 - [Dev.to/JS] [flat&lpar;&rpar; vs flatMap&lpar;&rpar;](https://dev.to/shshank/flat-vs-flatmap-3p73)
 - [Dev.to/JS] [Browser extensions - our first extension](https://dev.to/dailydevtips1/browser-extensions-our-first-extension-66m)
 - [Dev.to/JS] [Improve on choosing the better data structures](https://dev.to/montai/improve-on-choosing-the-better-data-structures-imk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [-CSS-JS-formValidate](https://dev.to/soyhipst/-css-js-formvalidate-2laa)
 - [Dev.to/JS] [Day 2: Python Object and Data Structure Basics &lpar;Part 2&rpar;](https://dev.to/kdleonard93/day-2-python-object-and-data-structure-basics-part-2-f24)
 - [Dev.to/JS] [Day 1: Python Object and Data Structure Basics](https://dev.to/kdleonard93/day-1-python-object-and-data-structure-basics-2ghc)
-- [Dev.to/JS] [Job Announcement Website: Boilerplate Code](https://dev.to/sokhavuth/boilerplate-code-2pb)
-- [Dev.to/JS] [Multiples mode using same as dark mode class by Tailwindcss](https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
 - [Lifehacker] [Exercises &#39;for Women&#39; Are Garbage](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
 - [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
