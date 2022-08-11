@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
+- [Dev.to/JS] [HelloSign Integration with React and Ruby on Rails](https://dev.to/diebarral/hellosign-integration-with-react-and-ruby-on-rails-44ee)
+- [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)
+- [Dev.to/JS] [Custom v-model with Vue.js: Update](https://dev.to/valentinprgnd/custom-v-model-with-vuejs-update-3han)
+- [Dev.to/JS] [Confused with ?? &amp; || in JS](https://dev.to/sakethkowtha/confused-with-in-js-c6e)
+- [Dev.to/JS] [Store Landing-Page Leads without a Backend Server in Nuxt](https://dev.to/hackmamba/store-landing-page-leads-without-a-backend-server-in-nuxt-18e6)
+- [Dev.to/JS] [Typescript: It&#39;s not actually validating your types.](https://dev.to/syeo66/typescript-its-not-actually-validating-your-types-1mn3)
+- [Dev.to/JS] [Zero Based getMonth&lpar;&rpar; Lesson](https://dev.to/chrisbenjamin/zero-based-getmonth-lesson-1hjo)
+- [Dev.to/JS] [Make Videos with JavaScript 4](https://dev.to/kadeesterline/make-videos-with-javascript-4-1c13)
 - [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
 - [Dev.to/JS] [Paracetamol.js💊| #181: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-181-explica-este-codigo-javascript-3d38)
 - [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
@@ -30,20 +39,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A new Typescript primitive🔮](https://dev.to/paolimi/a-new-typescript-primitive-23ac)
 - [Dev.to/JS] [How to Detect Browser in JavaScript](https://dev.to/ombhusal/how-to-detect-browser-in-javascript-5fe)
 - [Dev.to/JS] [Acessando o &quot;compartilhar&quot; nativo, vulgo Web-Share, em VanillaJS e Vue](https://dev.to/jonyhayama/acessando-o-compartilhar-nativo-vulgo-web-share-em-vanillajs-e-vue-1n1i)
-- [Dev.to/JS] [Lightweight Forms Validation in React](https://dev.to/jnv/lightweight-forms-validation-in-react-35og)
 - [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)
-- [Dev.to/JS] [What are Multi-line Programs in JavaScript](https://dev.to/mrdanishsaleem/what-are-multi-line-programs-in-javascript-105c)
 - [Lifehacker] [Should You Stretch Before or After Your Workout?](https://lifehacker.com/should-you-stretch-before-or-after-your-workout-1849401371)
 - [Lifehacker] [Are You Sexting Enough?](https://lifehacker.com/are-you-sexting-enough-1849400783)
-- [Dev.to/JS] [Nyan Cat or Giga Cat Epic Game](https://dev.to/seek4samurai/nyan-cat-or-giga-cat-epic-game-1970)
 - [Lifehacker] [11 Things You Didn&#39;t Know Your Grocery Store&#39;s Bakery Can Do for You](https://lifehacker.com/11-ways-to-make-the-most-of-your-grocery-stores-bakery-1849397948)
 - [Lifehacker] [How to Install an App When Your Mac Can&#39;t Verify the Developer](https://lifehacker.com/how-to-install-an-app-when-your-mac-cant-verify-the-dev-1849399263)
-- [Dev.to/JS] [Reading and writing files in NodeJS](https://dev.to/nonunicorn/reading-and-writing-files-in-nodejs-16g6)
-- [Dev.to/JS] [File Upload in React](https://dev.to/sharathmohan007/file-upload-in-react-1j2k)
-- [Dev.to/JS] [5 examples of reading, writing and pipelining streams in NodeJS](https://dev.to/nonunicorn/5-examples-of-reading-writing-and-pipelining-streams-in-nodejs-3f6n)
 - [Lifehacker] [A Bunch More Oat Milks and Coffee Drinks Are Now Part of a Major Recall [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
-- [Dev.to/JS] [Leonardo&#39;s Monorail](https://dev.to/rmion/leonardos-monorail-187l)
 - [Lifehacker] [How to Reconnect After a Friendship Breakup](https://lifehacker.com/how-to-reconnect-after-a-friendship-breakup-1849398461)
 - [Lifehacker] [There&#39;s a &#39;Shrew Virus&#39; Now?](https://lifehacker.com/theres-a-shrew-virus-now-1849398571)
 - [Lifehacker] [12 of the Best Podcasts for Foodies Who Love Food and Food Culture](https://lifehacker.com/12-of-the-best-podcasts-for-foodies-who-love-food-and-f-1849399019)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Do You Navigate Social Media After a Breakup?](https://lifehacker.com/what-do-you-do-about-instagram-after-a-breakup-1849394777)
 - [Lifehacker] [Here&#39;s How Much Trees Can Increase Your Home&#39;s Value](https://lifehacker.com/heres-how-much-trees-can-increase-your-homes-value-1849397142)
 - [Lifehacker] [How to Not Get Killed by a Bison](https://lifehacker.com/how-to-not-get-killed-by-a-bison-1849395229)
-- [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)
-- [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
-- [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)<!-- TECH-POSTS:END -->
 
 ---
 
