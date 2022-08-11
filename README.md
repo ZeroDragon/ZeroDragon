@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to upload files to ardrive manually and with ardrive CLI?](https://dev.to/rtagliavia/how-to-upload-files-to-ardrive-manually-and-with-ardrive-cli-1ggc)
 - [Dev.to/JS] [Creating and Consuming Custom Events](https://dev.to/hbarnesau/creating-and-consuming-custom-events-4ced)
 - [Dev.to/JS] [Cocktail Library {vanilla JS}](https://dev.to/akimsahn/cocktail-library-vanilla-js-5469)
 - [Dev.to/JS] [How to properly handle UTF-8 BOM files in Nodejs?](https://dev.to/omardulaimi/how-to-properly-handle-utf-8-bom-files-in-nodejs-1nmj)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner Dev Distills &quot;AHA&quot; Moments](https://dev.to/elliotmangini/beginner-dev-distills-aha-moments-53n3)
 - [Lifehacker] [How to Not Get Killed by a Bison](https://lifehacker.com/how-to-not-get-killed-by-a-bison-1849395229)
 - [Dev.to/JS] [Do we really need Flux, Vuex, Pinia, MobX and all the other Statemanagement Frameworks?](https://dev.to/decker67/do-we-really-need-flux-vuex-pinia-mobx-and-all-the-other-statemanagement-frameworks-4p37)
-- [Dev.to/JS] [Testing a easy method with Mocha and Javascript](https://dev.to/crisoncode/testing-a-easy-method-with-mocha-and-javascript-2j3k)
 - [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)
 - [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
 - [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)
