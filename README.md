@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 2: Python Object and Data Structure Basics &lpar;Part 2&rpar;](https://dev.to/kdleonard93/day-2-python-object-and-data-structure-basics-part-2-f24)
+- [Dev.to/JS] [Day 1: Python Object and Data Structure Basics](https://dev.to/kdleonard93/day-1-python-object-and-data-structure-basics-2ghc)
+- [Dev.to/JS] [Multiples mode using same as dark mode class by Tailwindcss](https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4)
 - [Dev.to/JS] [JavaScript &#39;let&#39; vrs &#39;var&#39; vrs &#39;const&#39;](https://dev.to/qbentil/javascript-let-vrs-var-vrs-const-pn5)
 - [Dev.to/JS] [Would You Use Vanilla JavaScript &lpar;No Framework&rpar; On a Project?](https://dev.to/mikhailkaran/would-you-use-vanilla-javascript-no-framework-on-a-project-25gf)
 - [Dev.to/JS] [How to upload files to ardrive manually and with ardrive CLI?](https://dev.to/rtagliavia/how-to-upload-files-to-ardrive-manually-and-with-ardrive-cli-1ggc)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Fancy Foods Everyone Used to Think Were Gross](https://lifehacker.com/10-fancy-foods-everyone-used-to-think-were-gross-1849395805)
 - [Dev.to/JS] [Should you create new constants for tests](https://dev.to/ethancarlsson/should-you-create-new-constants-for-tests-2a4k)
 - [Lifehacker] [Everything Worth Knowing About WhatsApp&#39;s Big Privacy Update](https://lifehacker.com/everything-worth-knowing-about-whatsapps-big-privacy-up-1849395469)
-- [Dev.to/JS] [Finding unpaired number](https://dev.to/ytskk/finding-unpaired-nu-nac)
-- [Dev.to/JS] [Marker not showing in Next/React App | @react-google-maps/api](https://dev.to/vatana7/marker-not-showing-in-nextreact-app-react-google-map-api-koe)
 - [Lifehacker] [What Do You Do About Instagram After a Breakup?](https://lifehacker.com/what-do-you-do-about-instagram-after-a-breakup-1849394777)
-- [Dev.to/JS] [Integração do NextJS com OneTrust](https://dev.to/ezdevs/integracao-do-nextjs-com-onetrust-4khi)
 - [Lifehacker] [How to Not Get Killed by a Bison](https://lifehacker.com/how-to-not-get-killed-by-a-bison-1849395229)
 - [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)
 - [Lifehacker] [The Best Way to Make AI-Generated Digital Art for Free](https://lifehacker.com/the-best-way-to-make-ai-generated-digital-art-for-free-1849393069)
