@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working With Multiple Projects In Angular](https://dev.to/danywalls/working-with-multiple-projects-in-angular-54nd)
+- [Lifehacker] [12 of the Best Podcasts for Foodies Who Love Food and Food Culture](https://lifehacker.com/12-of-the-best-podcasts-for-foodies-who-love-food-and-f-1849399019)
+- [Dev.to/JS] [Typing React Components: React.FC or JSX.Element?](https://dev.to/benhurmartins/typing-react-components-reactfc-or-jsxelement-p31)
+- [Dev.to/JS] [JavaScript vs Python](https://dev.to/youssefmic/why-javascript-is-better-than-python-22k4)
+- [Lifehacker] [How to Respond to an Unexpected Meeting With Your Boss](https://lifehacker.com/how-to-respond-to-an-unexpected-meeting-with-your-boss-1849397793)
 - [Dev.to/JS] [Do we need Axios having the fetch API everywhere?](https://dev.to/decker67/do-we-need-axios-having-the-fetch-api-everywhere-24ej)
 - [Dev.to/JS] [Migrating a nodejs, webpack project from JavaScript to TypeScript](https://dev.to/jokatty/migrating-a-nodejs-webpack-project-from-javascript-to-typescript-2ckm)
 - [Lifehacker] [The Cleverest Way to Measure a Sauce While It&#39;s Reducing](https://lifehacker.com/the-cleverest-way-to-measure-a-sauce-while-its-reducing-1849396377)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a SSR App with React, React Router and Vite](https://dev.to/franciscomendes10866/build-a-ssr-app-with-react-react-router-and-vite-1c6l)
 - [Dev.to/JS] [Job Announcement Website: Application Session](https://dev.to/sokhavuth/job-announcement-website-application-session-4epb)
 - [Dev.to/JS] [How to create multilingual static pages](https://dev.to/fanmixco/how-to-create-multilingual-static-pages-2ei4)
-- [Dev.to/JS] [JavaScript: Executando um programa](https://dev.to/h4ck3rtr4d3r/javascript-executando-um-programa-2e8c)
-- [Dev.to/JS] [React fetch data guide](https://dev.to/flatlogic/react-fetch-data-guide-gh0)
-- [Dev.to/JS] [go fetch&lpar;&rpar;](https://dev.to/jmayheww/go-fetch-i0o)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
 - [Lifehacker] [Exercises &#39;for Women&#39; Are Sandbagging You](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
 - [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Add Protein to Your Next Bowl](https://lifehacker.com/the-best-way-to-add-protein-to-your-next-bowl-1849391111)
 - [Lifehacker] [How to Decide How Long You Should Stay at Your Job](https://lifehacker.com/how-to-decide-how-long-you-should-stay-at-your-job-1849391579)
 - [Lifehacker] [When and How to Strain Your Dishes](https://lifehacker.com/when-and-how-to-strain-your-dishes-1849391098)
-- [Lifehacker] [What to Do If the Police Raid Your House](https://lifehacker.com/what-to-do-if-the-police-raid-your-house-1849390605)
-- [Lifehacker] [When to Drop Out of a Race Due to Heat](https://lifehacker.com/when-to-drop-out-of-a-race-due-to-heat-1849390394)
-- [Lifehacker] [When Buying Points and Miles Is a Good Idea &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-buying-points-and-miles-is-a-good-idea-and-when-i-1849389765)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do If the Police Raid Your House](https://lifehacker.com/what-to-do-if-the-police-raid-your-house-1849390605)<!-- TECH-POSTS:END -->
 
 ---
 
