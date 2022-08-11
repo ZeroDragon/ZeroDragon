@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Are You Sexting Enough?](https://lifehacker.com/are-you-sexting-enough-1849400783)
+- [Dev.to/JS] [Nyan Cat or Giga Cat Epic Game](https://dev.to/seek4samurai/nyan-cat-or-giga-cat-epic-game-1970)
+- [Lifehacker] [11 Things You Didn&#39;t Know Your Grocery Store&#39;s Bakery Can Do for You](https://lifehacker.com/11-ways-to-make-the-most-of-your-grocery-stores-bakery-1849397948)
+- [Lifehacker] [How to Install an App When Your Mac Can&#39;t Verify the Developer](https://lifehacker.com/how-to-install-an-app-when-your-mac-cant-verify-the-dev-1849399263)
+- [Dev.to/JS] [Reading and writing files in NodeJS](https://dev.to/nonunicorn/reading-and-writing-files-in-nodejs-16g6)
 - [Dev.to/JS] [File Upload in React](https://dev.to/sharathmohan007/file-upload-in-react-1j2k)
 - [Dev.to/JS] [5 examples of reading, writing and pipelining streams in NodeJS](https://dev.to/nonunicorn/5-examples-of-reading-writing-and-pipelining-streams-in-nodejs-3f6n)
+- [Lifehacker] [A Bunch More Oat Milks and Coffee Drinks Are Now Part of a Major Recall [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 - [Dev.to/JS] [Leonardo&#39;s Monorail](https://dev.to/rmion/leonardos-monorail-187l)
 - [Dev.to/JS] [Here we go again](https://dev.to/arpitpannu/here-we-go-again-k4e)
 - [Lifehacker] [How to Reconnect After a Friendship Breakup](https://lifehacker.com/how-to-reconnect-after-a-friendship-breakup-1849398461)
@@ -37,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typing React Components: React.FC or JSX.Element?](https://dev.to/benhurmartins/typing-react-components-reactfc-or-jsxelement-p31)
 - [Dev.to/JS] [JavaScript vs Python 👨‍💻](https://dev.to/youssefmic/why-javascript-is-better-than-python-22k4)
 - [Lifehacker] [How to Respond to an Unexpected Meeting With Your Boss](https://lifehacker.com/how-to-respond-to-an-unexpected-meeting-with-your-boss-1849397793)
-- [Dev.to/JS] [Do we need Axios having the fetch API everywhere?](https://dev.to/decker67/do-we-need-axios-having-the-fetch-api-everywhere-24ej)
-- [Dev.to/JS] [Migrating a nodejs, webpack project from JavaScript to TypeScript](https://dev.to/jokatty/migrating-a-nodejs-webpack-project-from-javascript-to-typescript-2ckm)
 - [Lifehacker] [The Cleverest Way to Measure a Sauce While It&#39;s Reducing](https://lifehacker.com/the-cleverest-way-to-measure-a-sauce-while-its-reducing-1849396377)
 - [Lifehacker] [Why You Should Try Half and Half in Your Protein Shakes](https://lifehacker.com/why-you-should-try-half-and-half-in-your-protein-shakes-1849396916)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
 - [Lifehacker] [Where to Sell Your Worst Pandemic Buys &lpar;and How to Get the Most Money for Them&rpar;](https://lifehacker.com/where-to-sell-your-worst-pandemic-buys-and-how-to-get-1849392038)
 - [Lifehacker] [What to Do When You Think Your Teenager Is in an Unhealthy Relationship](https://lifehacker.com/what-to-do-when-you-think-your-teenager-is-in-an-unheal-1849390619)
-- [Lifehacker] [How to Use Your Salad Spinner to Build Better Salads](https://lifehacker.com/how-to-use-your-salad-spinner-to-build-better-salads-1849391077)
-- [Lifehacker] [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
-- [Lifehacker] [Huh, Netflix Has Mobile Games, and They&#39;re Actually Good](https://lifehacker.com/huh-netflix-has-mobile-games-and-theyre-actually-good-1849391272)
-- [Lifehacker] [How to Spot a Good Hotel Gym &lpar;and Avoid the Bad Ones&rpar;](https://lifehacker.com/how-to-spot-a-good-hotel-gym-1849390154)
-- [Lifehacker] [The Best Way to Add Protein to Your Next Bowl](https://lifehacker.com/the-best-way-to-add-protein-to-your-next-bowl-1849391111)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Your Salad Spinner to Build Better Salads](https://lifehacker.com/how-to-use-your-salad-spinner-to-build-better-salads-1849391077)<!-- TECH-POSTS:END -->
 
 ---
 
