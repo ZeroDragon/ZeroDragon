@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)
+- [Dev.to/JS] [What are Multi-line Programs in JavaScript](https://dev.to/mrdanishsaleem/what-are-multi-line-programs-in-javascript-105c)
 - [Lifehacker] [Should You Stretch Before or After Your Workout?](https://lifehacker.com/should-you-stretch-before-or-after-your-workout-1849401371)
 - [Lifehacker] [Are You Sexting Enough?](https://lifehacker.com/are-you-sexting-enough-1849400783)
 - [Dev.to/JS] [Nyan Cat or Giga Cat Epic Game](https://dev.to/seek4samurai/nyan-cat-or-giga-cat-epic-game-1970)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working With Multiple Projects In Angular](https://dev.to/danywalls/working-with-multiple-projects-in-angular-54nd)
 - [Lifehacker] [12 of the Best Podcasts for Foodies Who Love Food and Food Culture](https://lifehacker.com/12-of-the-best-podcasts-for-foodies-who-love-food-and-f-1849399019)
 - [Dev.to/JS] [Typing React Components: React.FC or JSX.Element?](https://dev.to/benhurmartins/typing-react-components-reactfc-or-jsxelement-p31)
-- [Dev.to/JS] [JavaScript vs Python 👨‍💻](https://dev.to/youssefmic/why-javascript-is-better-than-python-22k4)
 - [Lifehacker] [How to Respond to an Unexpected Meeting With Your Boss](https://lifehacker.com/how-to-respond-to-an-unexpected-meeting-with-your-boss-1849397793)
 - [Lifehacker] [The Cleverest Way to Measure a Sauce While It&#39;s Reducing](https://lifehacker.com/the-cleverest-way-to-measure-a-sauce-while-its-reducing-1849396377)
 - [Lifehacker] [Why You Should Try Half and Half in Your Protein Shakes](https://lifehacker.com/why-you-should-try-half-and-half-in-your-protein-shakes-1849396916)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Basic Loan Terms Everyone Needs to Know Before Borrowing Money](https://lifehacker.com/the-basic-loan-terms-everyone-needs-to-know-before-borr-1849392188)
 - [Lifehacker] [This Is the Best Marinade for Chicken Breasts](https://lifehacker.com/this-is-the-best-marinade-for-chicken-breasts-1849392667)
 - [Lifehacker] [How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
-- [Lifehacker] [Where to Sell Your Worst Pandemic Buys &lpar;and How to Get the Most Money for Them&rpar;](https://lifehacker.com/where-to-sell-your-worst-pandemic-buys-and-how-to-get-1849392038)
-- [Lifehacker] [What to Do When You Think Your Teenager Is in an Unhealthy Relationship](https://lifehacker.com/what-to-do-when-you-think-your-teenager-is-in-an-unheal-1849390619)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Sell Your Worst Pandemic Buys &lpar;and How to Get the Most Money for Them&rpar;](https://lifehacker.com/where-to-sell-your-worst-pandemic-buys-and-how-to-get-1849392038)<!-- TECH-POSTS:END -->
 
 ---
 
