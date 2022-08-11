@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Using the Web Share API in React](https://dev.to/cbrannen9a/using-the-web-share-api-in-react-5gha)
+- [Dev.to/JS] [Are you a Javascript Developer if you don&#39;t have these VS Code Extensions?](https://dev.to/glowreeyah/are-you-a-javascript-developer-if-you-dont-have-these-vs-code-extensions-2fbh)
+- [Dev.to/JS] [Using Frameworks to Make Less Mistakes](https://dev.to/calvin087/using-frameworks-to-make-less-mistakes-2mon)
+- [Dev.to/JS] [Job Announcement Website: Environment Variable &amp; Database](https://dev.to/sokhavuth/job-announcement-website-environment-variable-database-2jg1)
+- [Dev.to/JS] [Using the Web Share API in React](https://dev.to/brannendev/using-the-web-share-api-in-react-5gha)
 - [Dev.to/JS] [Let&#39;s Talk About Framework-Specific UI Component Libraries](https://dev.to/endigo9740/lets-talk-about-framework-specific-ui-component-libraries-non)
 - [Dev.to/JS] [flat&lpar;&rpar; vs flatMap&lpar;&rpar;](https://dev.to/shshank/flat-vs-flatmap-3p73)
 - [Dev.to/JS] [Browser extensions - our first extension](https://dev.to/dailydevtips1/browser-extensions-our-first-extension-66m)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Most Suitable AngularJS Frameworks for Web Applications](https://dev.to/himadripatelace/7-most-suitable-angularjs-frameworks-for-web-applications-1h1j)
 - [Dev.to/JS] [ERROR: System limit for number of file watchers reached in Nuxt](https://dev.to/siumhossain/error-system-limit-for-number-of-file-watchers-reached-in-nuxt-5g2d)
 - [Dev.to/JS] [Radon Linked With Cancer: How to Ensure Your Home is Radon-Free](https://dev.to/onlineservices/radon-linked-with-cancer-how-to-ensure-your-home-is-radon-free-458n)
-- [Dev.to/JS] [-CSS-JS-formValidate](https://dev.to/soyhipst/-css-js-formvalidate-2laa)
-- [Dev.to/JS] [Day 2: Python Object and Data Structure Basics &lpar;Part 2&rpar;](https://dev.to/kdleonard93/day-2-python-object-and-data-structure-basics-part-2-f24)
-- [Dev.to/JS] [Day 1: Python Object and Data Structure Basics](https://dev.to/kdleonard93/day-1-python-object-and-data-structure-basics-2ghc)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
 - [Lifehacker] [Exercises &#39;for Women&#39; Are Garbage](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
 - [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
