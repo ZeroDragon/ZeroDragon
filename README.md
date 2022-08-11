@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clean Architecture implementation written in NodeJS](https://dev.to/luisfrasnelli/clean-architecture-implementation-written-in-nodejs-3k59)
+- [Dev.to/JS] [Build a SSR App with React, React Router and Vite](https://dev.to/franciscomendes10866/build-a-ssr-app-with-react-react-router-and-vite-1c6l)
+- [Dev.to/JS] [Job Announcement Website: Application Session](https://dev.to/sokhavuth/job-announcement-website-application-session-4epb)
+- [Dev.to/JS] [How to create multilingual static pages](https://dev.to/fanmixco/how-to-create-multilingual-static-pages-2ei4)
+- [Dev.to/JS] [JavaScript: Executando um programa](https://dev.to/h4ck3rtr4d3r/javascript-executando-um-programa-2e8c)
 - [Dev.to/JS] [React fetch data guide](https://dev.to/flatlogic/react-fetch-data-guide-gh0)
 - [Dev.to/JS] [go fetch&lpar;&rpar;](https://dev.to/jmayheww/go-fetch-i0o)
 - [Dev.to/JS] [Development Guides of Localbitcoins clone script](https://dev.to/thecryptoapeo/development-guides-of-localbitcoins-clone-script-282k)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easily Copy Text Within Devices With This Solution](https://dev.to/adeleyeayodeji/easily-copy-text-within-devices-with-this-solution-167d)
 - [Dev.to/JS] [Cypress vs. Playwright: Which One is Better for You?](https://dev.to/testrigtech/cypress-vs-playwright-which-one-is-better-for-you-65b)
 - [Dev.to/JS] [Embed Video Call on Website with Prebuilt SDK](https://dev.to/zegocloud/embed-video-call-on-website-with-prebuilt-sdk-29ei)
-- [Dev.to/JS] [8 Awesome Developer Tools You Didn&#39;t Know About](https://dev.to/hr21don/8-awesome-developer-tools-you-didnt-know-about-4nhn)
-- [Dev.to/JS] [tsParticles 2.2.0 Released](https://dev.to/matteobruni/tsparticles-220-released-28mm)
-- [Dev.to/JS] [Setting up ESLint &amp; Prettier in ViteJS](https://dev.to/cathalmacdonnacha/setting-up-eslint-prettier-in-vitejs-5gig)
-- [Dev.to/JS] [Every javascript developer should learn Typescript 🔥🔥and here is why](https://dev.to/turinumugisha_s/every-javascript-developer-should-learn-typescript-and-here-is-why-2dhm)
-- [Dev.to/JS] [How to use React memoization hooks for increased performance](https://dev.to/casraf/how-to-use-react-memoization-hooks-for-increased-performance-4dho)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
 - [Lifehacker] [Exercises &#39;for Women&#39; Are Garbage](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
 - [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
