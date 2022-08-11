@@ -40,7 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Should you create new constants for tests](https://dev.to/ethancarlsson/should-you-create-new-constants-for-tests-2a4k)
 - [Lifehacker] [Everything Worth Knowing About WhatsApp&#39;s Big Privacy Update](https://lifehacker.com/everything-worth-knowing-about-whatsapps-big-privacy-up-1849395469)
 - [Dev.to/JS] [Finding unpaired number](https://dev.to/ytskk/finding-unpaired-nu-nac)
-- [Dev.to/JS] [Marker not showing in Next/React App | REACT Google Map API](https://dev.to/vatana7/marker-not-showing-in-nextreact-app-react-google-map-api-koe)
+- [Dev.to/JS] [Marker not showing in Next/React App | @react-google-maps/api](https://dev.to/vatana7/marker-not-showing-in-nextreact-app-react-google-map-api-koe)
 - [Lifehacker] [What Do You Do About Instagram After a Breakup?](https://lifehacker.com/what-do-you-do-about-instagram-after-a-breakup-1849394777)
 - [Dev.to/JS] [Integração do NextJS com OneTrust](https://dev.to/ezdevs/integracao-do-nextjs-com-onetrust-4khi)
 - [Lifehacker] [How to Not Get Killed by a Bison](https://lifehacker.com/how-to-not-get-killed-by-a-bison-1849395229)
