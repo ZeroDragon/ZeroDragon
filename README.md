@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embed Video Call on Website with Prebuilt SDK](https://dev.to/zegocloud/embed-video-call-on-website-with-prebuilt-sdk-29ei)
+- [Dev.to/JS] [8 Awesome Developer Tools You Didn&#39;t Know About](https://dev.to/hr21don/8-awesome-developer-tools-you-didnt-know-about-4nhn)
+- [Dev.to/JS] [tsParticles 2.2.0 Released](https://dev.to/matteobruni/tsparticles-220-released-28mm)
 - [Dev.to/JS] [Setting up ESLint &amp; Prettier in ViteJS](https://dev.to/cathalmacdonnacha/setting-up-eslint-prettier-in-vitejs-5gig)
 - [Dev.to/JS] [Every javascript developer should learn Typescript 🔥🔥and here is why](https://dev.to/turinumugisha_s/every-javascript-developer-should-learn-typescript-and-here-is-why-2dhm)
 - [Dev.to/JS] [How to use React memoization hooks for increased performance](https://dev.to/casraf/how-to-use-react-memoization-hooks-for-increased-performance-4dho)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Job Announcement Website: Environment Variable &amp; Database](https://dev.to/sokhavuth/job-announcement-website-environment-variable-database-2jg1)
 - [Dev.to/JS] [Using the Web Share API in React](https://dev.to/brannendev/using-the-web-share-api-in-react-5gha)
 - [Dev.to/JS] [Let&#39;s Talk About Framework-Specific UI Component Libraries](https://dev.to/endigo9740/lets-talk-about-framework-specific-ui-component-libraries-non)
-- [Dev.to/JS] [flat&lpar;&rpar; vs flatMap&lpar;&rpar;](https://dev.to/shshank/flat-vs-flatmap-3p73)
-- [Dev.to/JS] [Browser extensions - our first extension](https://dev.to/dailydevtips1/browser-extensions-our-first-extension-66m)
-- [Dev.to/JS] [Improve on choosing the better data structures](https://dev.to/montai/improve-on-choosing-the-better-data-structures-imk)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
 - [Lifehacker] [Exercises &#39;for Women&#39; Are Garbage](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
 - [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
