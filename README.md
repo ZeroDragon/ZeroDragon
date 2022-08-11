@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
+- [Dev.to/JS] [How to build frontend on Flask view directly](https://dev.to/kyle12jung/how-to-build-frontend-on-flask-view-directly-2fcj)
+- [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
+- [Dev.to/JS] [Top Javascript Frameworks 2022](https://dev.to/stacksjar/top-javascript-frameworks-2021-43e3)
+- [Dev.to/JS] [Javascript Proxy and Partial Function Application](https://dev.to/mellen/javascript-proxy-and-partial-function-application-4m9m)
+- [Dev.to/JS] [Lab Tips - Flatiron School](https://dev.to/arbarrington/window-arrangement-flatiron-school-labs-49pc)
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
 - [Dev.to/JS] [HelloSign Integration with React and Ruby on Rails](https://dev.to/diebarral/hellosign-integration-with-react-and-ruby-on-rails-44ee)
 - [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
 - [Dev.to/JS] [Paracetamol.js💊| #181: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-181-explica-este-codigo-javascript-3d38)
 - [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
-- [Dev.to/JS] [AI in javascript](https://dev.to/krillinkills/ai-in-javascript-2bi9)
-- [Dev.to/JS] [A new Typescript primitive🔮](https://dev.to/paolimi/a-new-typescript-primitive-23ac)
-- [Dev.to/JS] [How to Detect Browser in JavaScript](https://dev.to/ombhusal/how-to-detect-browser-in-javascript-5fe)
-- [Dev.to/JS] [Acessando o &quot;compartilhar&quot; nativo, vulgo Web-Share, em VanillaJS e Vue](https://dev.to/jonyhayama/acessando-o-compartilhar-nativo-vulgo-web-share-em-vanillajs-e-vue-1n1i)
 - [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)
 - [Lifehacker] [Should You Stretch Before or After Your Workout?](https://lifehacker.com/should-you-stretch-before-or-after-your-workout-1849401371)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Fancy Foods Everyone Used to Think Were Gross](https://lifehacker.com/10-fancy-foods-everyone-used-to-think-were-gross-1849395805)
 - [Lifehacker] [Everything Worth Knowing About WhatsApp&#39;s Big Privacy Update](https://lifehacker.com/everything-worth-knowing-about-whatsapps-big-privacy-up-1849395469)
 - [Lifehacker] [How Do You Navigate Social Media After a Breakup?](https://lifehacker.com/what-do-you-do-about-instagram-after-a-breakup-1849394777)
-- [Lifehacker] [Here&#39;s How Much Trees Can Increase Your Home&#39;s Value](https://lifehacker.com/heres-how-much-trees-can-increase-your-homes-value-1849397142)
-- [Lifehacker] [How to Not Get Killed by a Bison](https://lifehacker.com/how-to-not-get-killed-by-a-bison-1849395229)
-- [Lifehacker] [Pudding for One Is the Solution to the Problem of Leftover Coconut Milk](https://lifehacker.com/pudding-for-one-is-the-solution-to-the-problem-of-lefto-1849394760)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Much Trees Can Increase Your Home&#39;s Value](https://lifehacker.com/heres-how-much-trees-can-increase-your-homes-value-1849397142)<!-- TECH-POSTS:END -->
 
 ---
 
