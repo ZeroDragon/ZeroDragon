@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Did Ezra Miller Do?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1849406030)
+- [Dev.to/JS] [Dynamic translations in Angular made possible](https://dev.to/gin_mitch/dynamic-translations-in-angular-made-possible-525n)
+- [Dev.to/JS] [100 days of JavaScript](https://dev.to/alejmedinajr/100-days-of-javascript-41n3)
+- [Lifehacker] [How Humidity Increases Your Risk of Heat Stroke](https://lifehacker.com/how-humidity-increases-your-risk-of-heat-stroke-1849405268)
 - [Lifehacker] [How to Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)
+- [Dev.to/JS] [My NeoVim setup for JavaScript&lpar;Front-End&rpar; development](https://dev.to/2nthony/my-neovim-setup-for-javascriptfront-end-development-160g)
+- [Dev.to/JS] [React project one must do!](https://dev.to/rohitmore07/react-project-one-must-do-2hd)
 - [Lifehacker] [How to Move Without Taking Roaches &lpar;and Other Pests&rpar; With You](https://lifehacker.com/how-to-move-without-taking-roaches-and-other-pests-wi-1849405257)
 - [Dev.to/JS] [The Ultimate Guide To JavaScript Dom Manipulation With Practice Project](https://dev.to/itsfz1/the-ultimate-guide-to-javascript-dom-manipulation-with-practice-project-jhh)
 - [Dev.to/JS] [🔴 Live - Learning How to Create an NPM Package](https://dev.to/clarkio/live-learning-how-to-create-an-npm-package-17kf)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2 arrays of Same value are not equal in JS.](https://dev.to/shubhamtiwari909/2-arrays-of-same-value-are-not-equal-in-js-518c)
 - [Dev.to/JS] [Maximum Update Depth Exceeded axios](https://dev.to/andreaborg217/maximum-update-depth-exceeded-axios-pai)
 - [Lifehacker] [&#39;The Rehearsal,&#39; and 13 Other Movies and Shows That Bend Reality](https://lifehacker.com/the-rehearsal-and-13-other-movies-and-shows-that-bend-1849403508)
-- [Dev.to/JS] [How To Future-Proof Your React File Uploader](https://dev.to/ideradevtools/how-to-future-proof-your-react-file-uploader-4c1k)
 - [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)
-- [Dev.to/JS] [How to optimise and customise your Contentful images with TypeScript](https://dev.to/jussinevavuori/how-to-optimise-and-customise-your-contentful-images-with-typescript-8me)
-- [Dev.to/JS] [How to answer programming challenges](https://dev.to/codeteasleep/how-to-answer-programming-challenges-3ac8)
-- [Dev.to/JS] [tsParticles 2.2.1 Released](https://dev.to/matteobruni/tsparticles-221-released-31ge)
 - [Lifehacker] [How to Fire Someone Without Being a Total Dick](https://lifehacker.com/how-to-fire-someone-without-being-a-total-dick-1849402722)
 - [Lifehacker] [How to Recognize &#39;Rejection Sensitive Dysphoria&#39; in Your Child](https://lifehacker.com/how-to-recognize-rejection-sensitive-dysphoria-in-your-1849398688)
 - [Lifehacker] [What Really Happens When You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-when-you-cant-pay-your-restaurant-b-1849401721)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install an App When Your Mac Can&#39;t Verify the Developer](https://lifehacker.com/how-to-install-an-app-when-your-mac-cant-verify-the-dev-1849399263)
 - [Lifehacker] [A Bunch More Oat Milks and Coffee Drinks Are Now Part of a Major Recall [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 - [Lifehacker] [How to Reconnect After a Friendship Breakup](https://lifehacker.com/how-to-reconnect-after-a-friendship-breakup-1849398461)
-- [Lifehacker] [There&#39;s a &#39;Shrew Virus&#39; Now?](https://lifehacker.com/theres-a-shrew-virus-now-1849398571)
-- [Lifehacker] [12 of the Best Podcasts for Foodies Who Love Food and Food Culture](https://lifehacker.com/12-of-the-best-podcasts-for-foodies-who-love-food-and-f-1849399019)
-- [Lifehacker] [How to Respond to an Unexpected Meeting With Your Boss](https://lifehacker.com/how-to-respond-to-an-unexpected-meeting-with-your-boss-1849397793)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There&#39;s a &#39;Shrew Virus&#39; Now?](https://lifehacker.com/theres-a-shrew-virus-now-1849398571)<!-- TECH-POSTS:END -->
 
 ---
 
