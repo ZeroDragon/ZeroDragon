@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React JS - Create ReactJS App](https://dev.to/adeleyeayodeji/react-js-create-reactjs-app-3dek)
+- [Dev.to/JS] [Golang perk series : structs – pass_by_reference #7 | &lpar;pointers-again&rpar;](https://dev.to/projektorius96/golang-perk-series-structs-passbyreference-7-pointers-again-1d8d)
+- [Dev.to/JS] [Golang perk series : structs #6](https://dev.to/projektorius96/golang-perk-series-structs-6-9o)
 - [Dev.to/JS] [Golang perk series : *pointers in Go – basics #5](https://dev.to/projektorius96/golang-perk-series-pointers-in-go-basics-5-40co)
 - [Dev.to/JS] [Golang perk series : simple read-line &lpar;CLI&rpar; in Golang vs. Node.js #4](https://dev.to/projektorius96/simple-readline-cli-in-golang-vs-nodejs-4jl0)
 - [Dev.to/JS] [Golang perk series : &lpar;typed&rpar; arrays – JS vs. GO #3](https://dev.to/projektorius96/golang-perk-series-typed-arrays-js-vs-go-3-4ip8)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript tutorial: Get started with Canvas animations](https://dev.to/educative/javascript-tutorial-get-started-with-canvas-animations-5cio)
 - [Dev.to/JS] [MEAN Stack Alternative: More Power with Less Stack](https://dev.to/harperdb/mean-stack-alternative-more-power-with-less-stack-2bo6)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
-- [Dev.to/JS] [Bootcamp Grad Applies for Jobs](https://dev.to/nandolofi/bootcamp-grad-applies-for-jobs-5gob)
-- [Dev.to/JS] [How to automate API tests with Postman](https://dev.to/logrocket/how-to-automate-api-tests-with-postman-520f)
 - [Lifehacker] [How to Change Careers, According to Former NFL Receiver Nate Burleson](https://lifehacker.com/how-to-change-careers-according-to-former-nfl-receiver-1849406998)
 - [Lifehacker] [How to Really Tell If Your Headphone Volume Is Destroying Your Ears](https://lifehacker.com/how-to-really-tell-if-your-headphone-volume-is-destroyi-1849406930)
-- [Dev.to/JS] [Add personalization to static HTML with Netlify Edge Functions — no browser JavaScript required](https://dev.to/whitep4nth3r/add-personalization-to-static-html-with-netlify-edge-functions-no-browser-javascript-required-2fc7)
 - [Lifehacker] [How to Do Kettlebell Exercises Without Hurting Your Wrists](https://lifehacker.com/how-to-do-kettlebell-exercises-without-hurting-your-wri-1849406782)
 - [Lifehacker] [What Is Inheritance Theft &lpar;and How Can You Protect Your Money&rpar;?](https://lifehacker.com/what-is-inheritance-theft-and-how-can-you-protect-your-1849405396)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Did Ezra Miller Do?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1849406030)
