@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Future-Proof Your React File Uploader](https://dev.to/ideradevtools/how-to-future-proof-your-react-file-uploader-4c1k)
+- [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)
+- [Dev.to/JS] [How to optimise and customise your Contentful images with TypeScript](https://dev.to/jussinevavuori/how-to-optimise-and-customise-your-contentful-images-with-typescript-8me)
+- [Dev.to/JS] [How to answer programming challenges](https://dev.to/codeteasleep/how-to-answer-programming-challenges-3ac8)
+- [Dev.to/JS] [tsParticles 2.2.1 Released](https://dev.to/matteobruni/tsparticles-221-released-31ge)
+- [Lifehacker] [How to Fire Someone Without Being a Total Dick](https://lifehacker.com/how-to-fire-someone-without-being-a-total-dick-1849402722)
 - [Dev.to/JS] [Mobilo.design: MERN with SSR from scratch - Project Challenges](https://dev.to/butalin/mobilodesign-mern-with-ssr-from-scratch-project-challenges-1c20)
 - [Dev.to/JS] [Guess Number - Simple Vue Game!](https://dev.to/realsamy/guess-number-simple-vue-game-4pje)
 - [Dev.to/JS] [React.js - Interview Question - duplicate hashtag remover.](https://dev.to/rajeshroyal/reactjs-interview-question-duplicate-hashtag-remover-47c2)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A First Look at Bun: Will It Take Node’s Crown?](https://dev.to/semaphore/a-first-look-at-bun-will-it-take-nodes-crown-4hpd)
 - [Lifehacker] [Can You Live 100% Off the Grid in a City or Suburb?](https://lifehacker.com/can-you-live-100-off-the-grid-in-a-city-or-suburb-1849400251)
 - [Dev.to/JS] [Collect Realtime Stack Traces from NodeJS Applications](https://dev.to/boroskoyo/collect-realtime-stack-traces-from-nodejs-applications-4da5)
-- [Dev.to/JS] [A GitHub Trending Client that Lives in your Menubar](https://dev.to/jiajunyan/raise-is-a-github-trending-client-that-lives-in-your-menubar-3b5i)
-- [Dev.to/JS] [Experienced Programmers Struggle As Well: Ease Your Imposter Syndrome As A Junior Developer](https://dev.to/profydev/experienced-programmers-struggle-as-well-ease-your-imposter-syndrome-as-a-junior-developer-36ad)
 - [Lifehacker] [This Vintage Martha Stewart Recipe Makes Perfectly Easy Candied Fruit](https://lifehacker.com/this-vintage-martha-stewart-recipe-makes-perfectly-easy-1849403168)
-- [Dev.to/JS] [IEEE VLSI Projects](https://dev.to/rishitharamesh1/ieee-vlsi-projects-4npk)
-- [Dev.to/JS] [Fetch and display video directly from google drive with url in 4 easy steps](https://dev.to/davemarong/fetch-and-display-video-directly-from-google-drive-with-url-in-4-easy-steps-4aba)
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Try Half and Half in Your Protein Shakes](https://lifehacker.com/why-you-should-try-half-and-half-in-your-protein-shakes-1849396916)
 - [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
 - [Lifehacker] [Exercises &#39;for Women&#39; Are Sandbagging You](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
-- [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)
-- [Lifehacker] [What Was Your First Ever Smartphone App?](https://lifehacker.com/what-was-your-first-ever-smartphone-app-1849396125)
-- [Lifehacker] [How to Squat Without the Bar Hurting Your Neck](https://lifehacker.com/how-to-squat-without-the-bar-hurting-your-neck-1849396183)<!-- TECH-POSTS:END -->
+- [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)<!-- TECH-POSTS:END -->
 
 ---
 
