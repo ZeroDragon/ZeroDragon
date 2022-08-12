@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)
+- [Lifehacker] [How to Move Without Taking Roaches &lpar;and Other Pests&rpar; With You](https://lifehacker.com/how-to-move-without-taking-roaches-and-other-pests-wi-1849405257)
+- [Dev.to/JS] [The Ultimate Guide To JavaScript Dom Manipulation With Practice Project](https://dev.to/itsfz1/the-ultimate-guide-to-javascript-dom-manipulation-with-practice-project-jhh)
 - [Dev.to/JS] [🔴 Live - Learning How to Create an NPM Package](https://dev.to/clarkio/live-learning-how-to-create-an-npm-package-17kf)
+- [Lifehacker] [Social Media Is Lying to You About Antidepressants](https://lifehacker.com/social-media-is-lying-to-you-about-antidepressants-1849404119)
 - [Dev.to/JS] [Safe Cracking](https://dev.to/rmion/safe-cracking-3l9o)
 - [Dev.to/JS] [Give your users the power of JavaScript functions with Kubernetes and Fission.io](https://dev.to/savoir/give-your-users-the-power-of-javascript-functions-with-kubernetes-and-fissionio-1ejh)
 - [Dev.to/JS] [Tunisia Flag](https://dev.to/samah2022/tunisia-flag-2dej)
@@ -38,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to answer programming challenges](https://dev.to/codeteasleep/how-to-answer-programming-challenges-3ac8)
 - [Dev.to/JS] [tsParticles 2.2.1 Released](https://dev.to/matteobruni/tsparticles-221-released-31ge)
 - [Lifehacker] [How to Fire Someone Without Being a Total Dick](https://lifehacker.com/how-to-fire-someone-without-being-a-total-dick-1849402722)
-- [Dev.to/JS] [Mobilo.design: MERN with SSR from scratch - Project Challenges](https://dev.to/butalin/mobilodesign-mern-with-ssr-from-scratch-project-challenges-1c20)
 - [Lifehacker] [How to Recognize &#39;Rejection Sensitive Dysphoria&#39; in Your Child](https://lifehacker.com/how-to-recognize-rejection-sensitive-dysphoria-in-your-1849398688)
 - [Lifehacker] [What Really Happens When You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-when-you-cant-pay-your-restaurant-b-1849401721)
 - [Lifehacker] [Can You Live 100% Off the Grid in a City or Suburb?](https://lifehacker.com/can-you-live-100-off-the-grid-in-a-city-or-suburb-1849400251)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Reconnect After a Friendship Breakup](https://lifehacker.com/how-to-reconnect-after-a-friendship-breakup-1849398461)
 - [Lifehacker] [There&#39;s a &#39;Shrew Virus&#39; Now?](https://lifehacker.com/theres-a-shrew-virus-now-1849398571)
 - [Lifehacker] [12 of the Best Podcasts for Foodies Who Love Food and Food Culture](https://lifehacker.com/12-of-the-best-podcasts-for-foodies-who-love-food-and-f-1849399019)
-- [Lifehacker] [How to Respond to an Unexpected Meeting With Your Boss](https://lifehacker.com/how-to-respond-to-an-unexpected-meeting-with-your-boss-1849397793)
-- [Lifehacker] [The Cleverest Way to Measure a Sauce While It&#39;s Reducing](https://lifehacker.com/the-cleverest-way-to-measure-a-sauce-while-its-reducing-1849396377)
-- [Lifehacker] [Why You Should Try Half and Half in Your Protein Shakes](https://lifehacker.com/why-you-should-try-half-and-half-in-your-protein-shakes-1849396916)
-- [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Respond to an Unexpected Meeting With Your Boss](https://lifehacker.com/how-to-respond-to-an-unexpected-meeting-with-your-boss-1849397793)<!-- TECH-POSTS:END -->
 
 ---
 
