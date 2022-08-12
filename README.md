@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is Inheritance Theft &lpar;and How Can You Protect Your Money&rpar;?](https://lifehacker.com/what-is-inheritance-theft-and-how-can-you-protect-your-1849405396)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Did Ezra Miller Do?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1849406030)
 - [Dev.to/JS] [Dynamic translations in Angular made possible](https://dev.to/gin_mitch/dynamic-translations-in-angular-made-possible-525n)
 - [Dev.to/JS] [100 days of JavaScript](https://dev.to/alejmedinajr/100-days-of-javascript-41n3)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Things You Didn&#39;t Know Your Grocery Store&#39;s Bakery Can Do for You](https://lifehacker.com/11-ways-to-make-the-most-of-your-grocery-stores-bakery-1849397948)
 - [Lifehacker] [How to Install an App When Your Mac Can&#39;t Verify the Developer](https://lifehacker.com/how-to-install-an-app-when-your-mac-cant-verify-the-dev-1849399263)
 - [Lifehacker] [A Bunch More Oat Milks and Coffee Drinks Are Now Part of a Major Recall [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
-- [Lifehacker] [How to Reconnect After a Friendship Breakup](https://lifehacker.com/how-to-reconnect-after-a-friendship-breakup-1849398461)
-- [Lifehacker] [There&#39;s a &#39;Shrew Virus&#39; Now?](https://lifehacker.com/theres-a-shrew-virus-now-1849398571)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Reconnect After a Friendship Breakup](https://lifehacker.com/how-to-reconnect-after-a-friendship-breakup-1849398461)<!-- TECH-POSTS:END -->
 
 ---
 
