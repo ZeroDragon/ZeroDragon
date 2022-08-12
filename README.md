@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js vs NuxtJS: a comparison of two powerhouses](https://dev.to/asayerio_techblog/nextjs-vs-nuxtjs-a-comparison-of-two-powerhouses-43mm)
+- [Dev.to/JS] [Foundation Framework for building responsive sites](https://dev.to/asayerio_techblog/foundation-framework-for-building-responsive-sites-4f6b)
+- [Dev.to/JS] [tinwayJs 0.1 example Web page telegram bot](https://dev.to/tinway/tinwayjs-01-example-web-page-telegram-bot-3464)
+- [Dev.to/JS] [Infinite Scrolling in Angular](https://dev.to/asayerio_techblog/infinite-scrolling-in-angular-1nna)
+- [Dev.to/JS] [Best Gatsby CMS in 2022](https://dev.to/maxikius/best-gatsby-cms-in-2022-59d8)
+- [Dev.to/JS] [Gatsby Development 101](https://dev.to/maxikius/gatsby-development-101-3b33)
 - [Dev.to/JS] [TIDBIT: Array of Key-Value pairs from FormData](https://dev.to/charlesloder/tidbit-array-of-key-value-pairs-from-formdata-34pb)
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Dev.to/JS] [How to build frontend on Flask view directly](https://dev.to/kyle12jung/how-to-build-frontend-on-flask-view-directly-2fcj)
@@ -33,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
 - [Dev.to/JS] [HelloSign Integration with React and Ruby on Rails](https://dev.to/diebarral/hellosign-integration-with-react-and-ruby-on-rails-44ee)
 - [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)
-- [Dev.to/JS] [Custom v-model with Vue.js: Update](https://dev.to/valentinprgnd/custom-v-model-with-vuejs-update-3han)
-- [Dev.to/JS] [Confused with ?? &amp; || in JS](https://dev.to/sakethkowtha/confused-with-in-js-c6e)
-- [Dev.to/JS] [Store Landing-Page Leads without a Backend Server in Nuxt](https://dev.to/hackmamba/store-landing-page-leads-without-a-backend-server-in-nuxt-18e6)
-- [Dev.to/JS] [Typescript: It&#39;s not actually validating your types.](https://dev.to/syeo66/typescript-its-not-actually-validating-your-types-1mn3)
-- [Dev.to/JS] [Zero Based getMonth&lpar;&rpar; Lesson](https://dev.to/chrisbenjamin/zero-based-getmonth-lesson-1hjo)
-- [Dev.to/JS] [Make Videos with JavaScript 4](https://dev.to/kadeesterline/make-videos-with-javascript-4-1c13)
 - [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
 - [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
 - [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)
