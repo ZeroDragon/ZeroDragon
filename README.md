@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Cheatsheet 2022](https://dev.to/gulsenkeskin/react-cheatsheet-2022-317m)
 - [Dev.to/JS] [Why Is Data Science Required? - Understanding Its Importance](https://dev.to/rohitrohi12/why-is-data-science-required-understanding-its-importance-kej)
 - [Dev.to/JS] [Tips for Getting Your First Developer Job](https://dev.to/jeffchavez_dev/tips-for-getting-your-first-developer-job-37nn)
 - [Dev.to/JS] [SyntaxError: The requested module &#39;react&#39; is expected to be of type CommonJS](https://dev.to/devdeclan/syntaxerror-the-requested-module-react-is-expected-to-be-of-type-commonjs-215a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js vs NuxtJS: a comparison of two powerhouses](https://dev.to/asayerio_techblog/nextjs-vs-nuxtjs-a-comparison-of-two-powerhouses-43mm)
 - [Dev.to/JS] [Foundation Framework for building responsive sites](https://dev.to/asayerio_techblog/foundation-framework-for-building-responsive-sites-4f6b)
 - [Dev.to/JS] [tinwayJs 0.1 example Web page telegram bot](https://dev.to/tinway/tinwayjs-01-example-web-page-telegram-bot-3464)
-- [Dev.to/JS] [Infinite Scrolling in Angular](https://dev.to/asayerio_techblog/infinite-scrolling-in-angular-1nna)
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
