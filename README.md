@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to host a static site built in Hugo or Next.js on GitHub Pages](https://dev.to/github/how-to-host-a-static-nextjs-site-on-github-pages-4pe0)
+- [Dev.to/JS] [Set up an Express Server in Three &lpar;3&rpar; Easy Steps 🔥](https://dev.to/ksowah/set-up-an-express-server-in-three-3-easy-steps-1gdp)
+- [Dev.to/JS] [Test article!](https://dev.to/nick/test-article-3d30)
+- [Dev.to/JS] [Change file/directory permissions in Nodejs](https://dev.to/omardulaimi/change-filedirectory-permissions-in-nodejs-fac)
 - [Dev.to/JS] [Next.js vs NuxtJS: a comparison of two powerhouses](https://dev.to/asayerio_techblog/nextjs-vs-nuxtjs-a-comparison-of-two-powerhouses-43mm)
 - [Dev.to/JS] [Foundation Framework for building responsive sites](https://dev.to/asayerio_techblog/foundation-framework-for-building-responsive-sites-4f6b)
 - [Dev.to/JS] [tinwayJs 0.1 example Web page telegram bot](https://dev.to/tinway/tinwayjs-01-example-web-page-telegram-bot-3464)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Dev.to/JS] [How to build frontend on Flask view directly](https://dev.to/kyle12jung/how-to-build-frontend-on-flask-view-directly-2fcj)
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
-- [Dev.to/JS] [Top Javascript Frameworks 2022](https://dev.to/stacksjar/top-javascript-frameworks-2021-43e3)
-- [Dev.to/JS] [Javascript Proxy and Partial Function Application](https://dev.to/mellen/javascript-proxy-and-partial-function-application-4m9m)
-- [Dev.to/JS] [Lab Tips - Flatiron School](https://dev.to/arbarrington/window-arrangement-flatiron-school-labs-49pc)
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
-- [Dev.to/JS] [HelloSign Integration with React and Ruby on Rails](https://dev.to/diebarral/hellosign-integration-with-react-and-ruby-on-rails-44ee)
 - [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)
 - [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
 - [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
