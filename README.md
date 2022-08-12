@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔴 Live - Learning How to Create an NPM Package](https://dev.to/clarkio/live-learning-how-to-create-an-npm-package-17kf)
+- [Dev.to/JS] [Safe Cracking](https://dev.to/rmion/safe-cracking-3l9o)
+- [Dev.to/JS] [Give your users the power of JavaScript functions with Kubernetes and Fission.io](https://dev.to/savoir/give-your-users-the-power-of-javascript-functions-with-kubernetes-and-fissionio-1ejh)
+- [Dev.to/JS] [Tunisia Flag](https://dev.to/samah2022/tunisia-flag-2dej)
+- [Lifehacker] [How to Choose Between Paying for a Flight With Cash or Miles](https://lifehacker.com/how-to-choose-between-paying-for-a-flight-with-cash-or-1849404623)
+- [Dev.to/JS] [Guide to learn React.js](https://dev.to/abhidadhaniya23/guide-to-learn-reactjs-2697)
+- [Dev.to/JS] [2 arrays of Same value are not equal in JS.](https://dev.to/shubhamtiwari909/2-arrays-of-same-value-are-not-equal-in-js-518c)
+- [Dev.to/JS] [Maximum Update Depth Exceeded axios](https://dev.to/andreaborg217/maximum-update-depth-exceeded-axios-pai)
+- [Lifehacker] [&#39;The Rehearsal,&#39; and 13 Other Movies and Shows That Bend Reality](https://lifehacker.com/the-rehearsal-and-13-other-movies-and-shows-that-bend-1849403508)
 - [Dev.to/JS] [How To Future-Proof Your React File Uploader](https://dev.to/ideradevtools/how-to-future-proof-your-react-file-uploader-4c1k)
 - [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)
 - [Dev.to/JS] [How to optimise and customise your Contentful images with TypeScript](https://dev.to/jussinevavuori/how-to-optimise-and-customise-your-contentful-images-with-typescript-8me)
@@ -30,16 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 2.2.1 Released](https://dev.to/matteobruni/tsparticles-221-released-31ge)
 - [Lifehacker] [How to Fire Someone Without Being a Total Dick](https://lifehacker.com/how-to-fire-someone-without-being-a-total-dick-1849402722)
 - [Dev.to/JS] [Mobilo.design: MERN with SSR from scratch - Project Challenges](https://dev.to/butalin/mobilodesign-mern-with-ssr-from-scratch-project-challenges-1c20)
-- [Dev.to/JS] [Guess Number - Simple Vue Game!](https://dev.to/realsamy/guess-number-simple-vue-game-4pje)
-- [Dev.to/JS] [React.js - Interview Question - duplicate hashtag remover.](https://dev.to/rajeshroyal/reactjs-interview-question-duplicate-hashtag-remover-47c2)
-- [Dev.to/JS] [Getting Started with Compliance as Code](https://dev.to/ismiletechnology/getting-started-with-compliance-as-code-3dhg)
 - [Lifehacker] [How to Recognize &#39;Rejection Sensitive Dysphoria&#39; in Your Child](https://lifehacker.com/how-to-recognize-rejection-sensitive-dysphoria-in-your-1849398688)
-- [Dev.to/JS] [How to Catch Errors During Rendering in React](https://dev.to/davidigheose/how-to-catch-errors-during-rendering-in-react-39j)
 - [Lifehacker] [What Really Happens When You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-when-you-cant-pay-your-restaurant-b-1849401721)
-- [Dev.to/JS] [We are trending on Github, This is how we did it 🤯](https://dev.to/novu/we-are-trending-on-github-this-is-how-we-did-it-kab)
-- [Dev.to/JS] [A First Look at Bun: Will It Take Node’s Crown?](https://dev.to/semaphore/a-first-look-at-bun-will-it-take-nodes-crown-4hpd)
 - [Lifehacker] [Can You Live 100% Off the Grid in a City or Suburb?](https://lifehacker.com/can-you-live-100-off-the-grid-in-a-city-or-suburb-1849400251)
-- [Dev.to/JS] [Collect Realtime Stack Traces from NodeJS Applications](https://dev.to/boroskoyo/collect-realtime-stack-traces-from-nodejs-applications-4da5)
 - [Lifehacker] [This Vintage Martha Stewart Recipe Makes Perfectly Easy Candied Fruit](https://lifehacker.com/this-vintage-martha-stewart-recipe-makes-perfectly-easy-1849403168)
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Respond to an Unexpected Meeting With Your Boss](https://lifehacker.com/how-to-respond-to-an-unexpected-meeting-with-your-boss-1849397793)
 - [Lifehacker] [The Cleverest Way to Measure a Sauce While It&#39;s Reducing](https://lifehacker.com/the-cleverest-way-to-measure-a-sauce-while-its-reducing-1849396377)
 - [Lifehacker] [Why You Should Try Half and Half in Your Protein Shakes](https://lifehacker.com/why-you-should-try-half-and-half-in-your-protein-shakes-1849396916)
-- [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)
-- [Lifehacker] [Exercises &#39;for Women&#39; Are Sandbagging You](https://lifehacker.com/exercises-for-women-are-horseshit-1849396836)
-- [Lifehacker] [No, You Don’t Have an ‘Addictive Personality’](https://lifehacker.com/no-you-don-t-have-an-addictive-personality-1849396519)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Nintendo Really Wants You to Download the &#39;Splatoon 3&#39; Demo](https://lifehacker.com/nintendo-really-wants-you-to-download-the-splatoon-3-de-1849396932)<!-- TECH-POSTS:END -->
 
 ---
 
