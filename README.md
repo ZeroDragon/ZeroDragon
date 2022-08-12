@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Change Careers, According to Former NFL Receiver Nate Burleson](https://lifehacker.com/how-to-change-careers-according-to-former-nfl-receiver-1849406998)
+- [Lifehacker] [How to Really Tell If Your Headphone Volume Is Destroying Your Ears](https://lifehacker.com/how-to-really-tell-if-your-headphone-volume-is-destroyi-1849406930)
+- [Dev.to/JS] [Add personalization to static HTML with Netlify Edge Functions — no browser JavaScript required](https://dev.to/whitep4nth3r/add-personalization-to-static-html-with-netlify-edge-functions-no-browser-javascript-required-2fc7)
+- [Lifehacker] [How to Do Kettlebell Exercises Without Hurting Your Wrists](https://lifehacker.com/how-to-do-kettlebell-exercises-without-hurting-your-wri-1849406782)
+- [Dev.to/JS] [Ultimate Guide To Array In JavaScript.](https://dev.to/kamaldeenlawal/ultimate-guide-to-array-in-javascript-2803)
 - [Lifehacker] [What Is Inheritance Theft &lpar;and How Can You Protect Your Money&rpar;?](https://lifehacker.com/what-is-inheritance-theft-and-how-can-you-protect-your-1849405396)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Did Ezra Miller Do?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1849406030)
 - [Dev.to/JS] [Dynamic translations in Angular made possible](https://dev.to/gin_mitch/dynamic-translations-in-angular-made-possible-525n)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tunisia Flag](https://dev.to/samah2022/tunisia-flag-2dej)
 - [Lifehacker] [How to Choose Between Paying for a Flight With Cash or Miles](https://lifehacker.com/how-to-choose-between-paying-for-a-flight-with-cash-or-1849404623)
 - [Dev.to/JS] [Guide to learn React.js](https://dev.to/abhidadhaniya23/guide-to-learn-reactjs-2697)
-- [Dev.to/JS] [2 arrays of Same value are not equal in JS.](https://dev.to/shubhamtiwari909/2-arrays-of-same-value-are-not-equal-in-js-518c)
-- [Dev.to/JS] [Maximum Update Depth Exceeded axios](https://dev.to/andreaborg217/maximum-update-depth-exceeded-axios-pai)
 - [Lifehacker] [&#39;The Rehearsal,&#39; and 13 Other Movies and Shows That Bend Reality](https://lifehacker.com/the-rehearsal-and-13-other-movies-and-shows-that-bend-1849403508)
 - [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)
 - [Lifehacker] [How to Fire Someone Without Being a Total Dick](https://lifehacker.com/how-to-fire-someone-without-being-a-total-dick-1849402722)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)
 - [Lifehacker] [Should You Stretch Before or After Your Workout?](https://lifehacker.com/should-you-stretch-before-or-after-your-workout-1849401371)
 - [Lifehacker] [Are You Sexting Enough?](https://lifehacker.com/are-you-sexting-enough-1849400783)
-- [Lifehacker] [11 Things You Didn&#39;t Know Your Grocery Store&#39;s Bakery Can Do for You](https://lifehacker.com/11-ways-to-make-the-most-of-your-grocery-stores-bakery-1849397948)
-- [Lifehacker] [How to Install an App When Your Mac Can&#39;t Verify the Developer](https://lifehacker.com/how-to-install-an-app-when-your-mac-cant-verify-the-dev-1849399263)
-- [Lifehacker] [A Bunch More Oat Milks and Coffee Drinks Are Now Part of a Major Recall [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
-- [Lifehacker] [How to Reconnect After a Friendship Breakup](https://lifehacker.com/how-to-reconnect-after-a-friendship-breakup-1849398461)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Things You Didn&#39;t Know Your Grocery Store&#39;s Bakery Can Do for You](https://lifehacker.com/11-ways-to-make-the-most-of-your-grocery-stores-bakery-1849397948)<!-- TECH-POSTS:END -->
 
 ---
 
