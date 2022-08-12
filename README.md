@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
+- [Dev.to/JS] [MEAN Stack Alternative: More Power with Less Stack](https://dev.to/harperdb/mean-stack-alternative-more-power-with-less-stack-2bo6)
+- [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
+- [Dev.to/JS] [Bootcamp Grad Applies for Jobs](https://dev.to/nandolofi/bootcamp-grad-applies-for-jobs-5gob)
+- [Dev.to/JS] [How to automate API tests with Postman](https://dev.to/logrocket/how-to-automate-api-tests-with-postman-520f)
 - [Lifehacker] [How to Change Careers, According to Former NFL Receiver Nate Burleson](https://lifehacker.com/how-to-change-careers-according-to-former-nfl-receiver-1849406998)
 - [Lifehacker] [How to Really Tell If Your Headphone Volume Is Destroying Your Ears](https://lifehacker.com/how-to-really-tell-if-your-headphone-volume-is-destroyi-1849406930)
 - [Dev.to/JS] [Add personalization to static HTML with Netlify Edge Functions — no browser JavaScript required](https://dev.to/whitep4nth3r/add-personalization-to-static-html-with-netlify-edge-functions-no-browser-javascript-required-2fc7)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🔴 Live - Learning How to Create an NPM Package](https://dev.to/clarkio/live-learning-how-to-create-an-npm-package-17kf)
 - [Lifehacker] [Social Media Is Lying to You About Antidepressants](https://lifehacker.com/social-media-is-lying-to-you-about-antidepressants-1849404119)
 - [Dev.to/JS] [Safe Cracking](https://dev.to/rmion/safe-cracking-3l9o)
-- [Dev.to/JS] [Give your users the power of JavaScript functions with Kubernetes and Fission.io](https://dev.to/savoir/give-your-users-the-power-of-javascript-functions-with-kubernetes-and-fissionio-1ejh)
-- [Dev.to/JS] [Tunisia Flag](https://dev.to/samah2022/tunisia-flag-2dej)
 - [Lifehacker] [How to Choose Between Paying for a Flight With Cash or Miles](https://lifehacker.com/how-to-choose-between-paying-for-a-flight-with-cash-or-1849404623)
-- [Dev.to/JS] [Guide to learn React.js](https://dev.to/abhidadhaniya23/guide-to-learn-reactjs-2697)
 - [Lifehacker] [&#39;The Rehearsal,&#39; and 13 Other Movies and Shows That Bend Reality](https://lifehacker.com/the-rehearsal-and-13-other-movies-and-shows-that-bend-1849403508)
 - [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)
 - [Lifehacker] [How to Fire Someone Without Being a Total Dick](https://lifehacker.com/how-to-fire-someone-without-being-a-total-dick-1849402722)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
 - [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)
-- [Lifehacker] [Should You Stretch Before or After Your Workout?](https://lifehacker.com/should-you-stretch-before-or-after-your-workout-1849401371)
-- [Lifehacker] [Are You Sexting Enough?](https://lifehacker.com/are-you-sexting-enough-1849400783)
-- [Lifehacker] [11 Things You Didn&#39;t Know Your Grocery Store&#39;s Bakery Can Do for You](https://lifehacker.com/11-ways-to-make-the-most-of-your-grocery-stores-bakery-1849397948)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Should You Stretch Before or After Your Workout?](https://lifehacker.com/should-you-stretch-before-or-after-your-workout-1849401371)<!-- TECH-POSTS:END -->
 
 ---
 
