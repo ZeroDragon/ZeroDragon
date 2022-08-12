@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Importance of not mutating state in redux/react](https://dev.to/jwwnz/importance-of-not-mutating-state-in-reduxreact-2k4)
+- [Dev.to/JS] [Job Announcement Website: Creating Superuser](https://dev.to/sokhavuth/job-announcement-website-creating-superuser-4fj8)
+- [Dev.to/JS] [Stop Bugging Me!!- A TraXpense Story.](https://dev.to/mayhoral8/stop-bugging-me-a-traxpense-story-17c0)
 - [Dev.to/JS] [How can use input value in innerHTML in react-js?](https://dev.to/ankit3131/how-can-use-input-value-in-innerhtml-in-react-js-4m1b)
 - [Dev.to/JS] [Job Announcement Website: Building Login Page](https://dev.to/sokhavuth/job-announcement-website-building-login-page-3780)
 - [Dev.to/JS] [7 SUPERRR AngularJS Frameworks to Build Modern Web Apps](https://dev.to/karanrawal/7-superrr-angularjs-frameworks-to-build-modern-web-apps-3idd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular: Content Projection end to end](https://dev.to/urstrulyvishwak/angular-content-projection-end-to-end-2mid)
 - [Dev.to/JS] [keto blast gummies - Fat Loss Reviews, Price, Results And Ingredients?](https://dev.to/ketoblastpills/keto-blast-gummies-fat-loss-reviews-price-results-and-ingredients-45ob)
 - [Dev.to/JS] [How does online JavaScript Compiler work?](https://dev.to/akshays81992169/how-does-online-javascript-compiler-work-46fa)
-- [Dev.to/JS] [How to use Environment Variable &lpar;.env&rpar; in NextJS?](https://dev.to/surajondev/how-to-environment-variable-env-in-nextjs-33io)
-- [Dev.to/JS] [React Cheatsheet](https://dev.to/gulsenkeskin/react-cheatsheet-2022-317m)
-- [Dev.to/JS] [Why Is Data Science Required? - Understanding Its Importance](https://dev.to/rohitrohi12/why-is-data-science-required-understanding-its-importance-kej)
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
