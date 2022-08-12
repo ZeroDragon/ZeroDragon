@@ -23,7 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Golang perk series : *pointers in Go – basics #5](https://dev.to/projektorius96/golang-perk-series-pointers-in-go-basics-5-40co)
+- [Dev.to/JS] [Golang perk series : simple read-line &lpar;CLI&rpar; in Golang vs. Node.js #4](https://dev.to/projektorius96/simple-readline-cli-in-golang-vs-nodejs-4jl0)
+- [Dev.to/JS] [Golang perk series : &lpar;typed&rpar; arrays – JS vs. GO #3](https://dev.to/projektorius96/golang-perk-series-typed-arrays-js-vs-go-3-4ip8)
+- [Dev.to/JS] [Golang perk series : prefix-less functions #2](https://dev.to/projektorius96/golang-perk-series-prefix-less-functions-2-pdg)
+- [Dev.to/JS] [Golang perk series : intro #1](https://dev.to/projektorius96/golang-perk-series-intro-1-51im)
+- [Dev.to/JS] [Clock Signal](https://dev.to/rmion/clock-signal-511p)
+- [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
+- [Dev.to/JS] [I finally have a personal site, mostly  😂](https://dev.to/dechamp/i-finally-have-a-personal-site-mostly-1l7j)
+- [Dev.to/JS] [JavaScript tutorial: Get started with Canvas animations](https://dev.to/educative/javascript-tutorial-get-started-with-canvas-animations-5cio)
 - [Dev.to/JS] [MEAN Stack Alternative: More Power with Less Stack](https://dev.to/harperdb/mean-stack-alternative-more-power-with-less-stack-2bo6)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
 - [Dev.to/JS] [Bootcamp Grad Applies for Jobs](https://dev.to/nandolofi/bootcamp-grad-applies-for-jobs-5gob)
@@ -32,20 +41,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Really Tell If Your Headphone Volume Is Destroying Your Ears](https://lifehacker.com/how-to-really-tell-if-your-headphone-volume-is-destroyi-1849406930)
 - [Dev.to/JS] [Add personalization to static HTML with Netlify Edge Functions — no browser JavaScript required](https://dev.to/whitep4nth3r/add-personalization-to-static-html-with-netlify-edge-functions-no-browser-javascript-required-2fc7)
 - [Lifehacker] [How to Do Kettlebell Exercises Without Hurting Your Wrists](https://lifehacker.com/how-to-do-kettlebell-exercises-without-hurting-your-wri-1849406782)
-- [Dev.to/JS] [Ultimate Guide To Array In JavaScript.](https://dev.to/kamaldeenlawal/ultimate-guide-to-array-in-javascript-2803)
 - [Lifehacker] [What Is Inheritance Theft &lpar;and How Can You Protect Your Money&rpar;?](https://lifehacker.com/what-is-inheritance-theft-and-how-can-you-protect-your-1849405396)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Did Ezra Miller Do?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1849406030)
-- [Dev.to/JS] [Dynamic translations in Angular made possible](https://dev.to/gin_mitch/dynamic-translations-in-angular-made-possible-525n)
-- [Dev.to/JS] [100 days of JavaScript](https://dev.to/alejmedinajr/100-days-of-javascript-41n3)
 - [Lifehacker] [How Humidity Increases Your Risk of Heat Stroke](https://lifehacker.com/how-humidity-increases-your-risk-of-heat-stroke-1849405268)
 - [Lifehacker] [How to Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)
-- [Dev.to/JS] [My NeoVim setup for JavaScript&lpar;Front-End&rpar; development](https://dev.to/2nthony/my-neovim-setup-for-javascriptfront-end-development-160g)
-- [Dev.to/JS] [React project one must do!](https://dev.to/rohitmore07/react-project-one-must-do-2hd)
 - [Lifehacker] [How to Move Without Taking Roaches &lpar;and Other Pests&rpar; With You](https://lifehacker.com/how-to-move-without-taking-roaches-and-other-pests-wi-1849405257)
-- [Dev.to/JS] [The Ultimate Guide To JavaScript Dom Manipulation With Practice Project](https://dev.to/itsfz1/the-ultimate-guide-to-javascript-dom-manipulation-with-practice-project-jhh)
-- [Dev.to/JS] [🔴 Live - Learning How to Create an NPM Package](https://dev.to/clarkio/live-learning-how-to-create-an-npm-package-17kf)
 - [Lifehacker] [Social Media Is Lying to You About Antidepressants](https://lifehacker.com/social-media-is-lying-to-you-about-antidepressants-1849404119)
-- [Dev.to/JS] [Safe Cracking](https://dev.to/rmion/safe-cracking-3l9o)
 - [Lifehacker] [How to Choose Between Paying for a Flight With Cash or Miles](https://lifehacker.com/how-to-choose-between-paying-for-a-flight-with-cash-or-1849404623)
 - [Lifehacker] [&#39;The Rehearsal,&#39; and 13 Other Movies and Shows That Bend Reality](https://lifehacker.com/the-rehearsal-and-13-other-movies-and-shows-that-bend-1849403508)
 - [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
 - [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
 - [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)
-- [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)
-- [Lifehacker] [Should You Stretch Before or After Your Workout?](https://lifehacker.com/should-you-stretch-before-or-after-your-workout-1849401371)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)<!-- TECH-POSTS:END -->
 
 ---
 
