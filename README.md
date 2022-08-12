@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Vintage Martha Stewart Recipe Makes Perfectly Easy Candied Fruit](https://lifehacker.com/this-vintage-martha-stewart-recipe-makes-perfectly-easy-1849403168)
+- [Dev.to/JS] [IEEE VLSI Projects](https://dev.to/rishitharamesh1/ieee-vlsi-projects-4npk)
+- [Dev.to/JS] [Fetch and display video directly from google drive with url in 4 easy steps](https://dev.to/davemarong/fetch-and-display-video-directly-from-google-drive-with-url-in-4-easy-steps-4aba)
+- [Dev.to/JS] [Visualize your commits in realtime with Ably and GitHub webhooks](https://dev.to/thisisjofrank/visualize-your-commits-in-realtime-with-ably-and-github-webhooks-2pf2)
 - [Dev.to/JS] [Importance of not mutating state in redux/react](https://dev.to/jwwnz/importance-of-not-mutating-state-in-reduxreact-2k4)
 - [Dev.to/JS] [Job Announcement Website: Creating Superuser](https://dev.to/sokhavuth/job-announcement-website-creating-superuser-4fj8)
 - [Dev.to/JS] [Stop Bugging Me!!- A TraXpense Story.](https://dev.to/mayhoral8/stop-bugging-me-a-traxpense-story-17c0)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Would you use Laravel for enterprise applications ?](https://dev.to/britzdylan/would-you-use-laravel-for-enterprise-applications--5ajo)
 - [Dev.to/JS] [How to Make Your Code Prettier](https://dev.to/how-to-dev/how-to-make-your-code-prettier-4gb0)
 - [Dev.to/JS] [Job Announcement Website: Route to Login Page](https://dev.to/sokhavuth/job-announcement-website-route-to-login-page-17p4)
-- [Dev.to/JS] [Angular: Content Projection end to end](https://dev.to/urstrulyvishwak/angular-content-projection-end-to-end-2mid)
-- [Dev.to/JS] [keto blast gummies - Fat Loss Reviews, Price, Results And Ingredients?](https://dev.to/ketoblastpills/keto-blast-gummies-fat-loss-reviews-price-results-and-ingredients-45ob)
-- [Dev.to/JS] [How does online JavaScript Compiler work?](https://dev.to/akshays81992169/how-does-online-javascript-compiler-work-46fa)
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Squat Without the Bar Hurting Your Neck](https://lifehacker.com/how-to-squat-without-the-bar-hurting-your-neck-1849396183)
 - [Lifehacker] [10 Fancy Foods Everyone Used to Think Were Gross](https://lifehacker.com/10-fancy-foods-everyone-used-to-think-were-gross-1849395805)
 - [Lifehacker] [Everything Worth Knowing About WhatsApp&#39;s Big Privacy Update](https://lifehacker.com/everything-worth-knowing-about-whatsapps-big-privacy-up-1849395469)
-- [Lifehacker] [How Do You Navigate Social Media After a Breakup?](https://lifehacker.com/what-do-you-do-about-instagram-after-a-breakup-1849394777)
-- [Lifehacker] [Here&#39;s How Much Trees Can Increase Your Home&#39;s Value](https://lifehacker.com/heres-how-much-trees-can-increase-your-homes-value-1849397142)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Do You Navigate Social Media After a Breakup?](https://lifehacker.com/what-do-you-do-about-instagram-after-a-breakup-1849394777)<!-- TECH-POSTS:END -->
 
 ---
 
