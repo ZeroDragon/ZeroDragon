@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Google SERP extension in Google Sheets &lpar;Apps Script + RapidAPI&rpar; 📈](https://dev.to/microworlds/building-a-google-serp-extension-in-google-sheets-apps-script-rapidapi-4ddh)
+- [Dev.to/JS] [Call Girls in Dubai 0589930402 Dubai Call Girls Service](https://dev.to/ujjwalranit/call-girls-in-dubai-0589930402-dubai-call-girls-service-1477)
+- [Dev.to/JS] [Dubai Call Girls O505721407 Call Girls in Dubai](https://dev.to/ujjwalranit/dubai-call-girls-o505721407-call-girls-in-dubai-3h3p)
 - [Dev.to/JS] [Building TVFlixx](https://dev.to/benneee_/building-tvflixx-15oo)
 - [Dev.to/JS] [A JavaScript monolith ready to scale](https://dev.to/joelbonetr/a-javascript-monolith-ready-to-scale-25o1)
 - [Dev.to/JS] [Converting Binary to Decimal with parseInt&#39;s Base Feature](https://dev.to/smpnjn/converting-binary-to-decimal-with-parseints-base-feature-5d3c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction To JavaScript](https://dev.to/kavyagreatrgb/introduction-to-javascript-5f4)
 - [Dev.to/JS] [طراحی لوگو چیست ؟](https://dev.to/arsesweb/trhy-lwgw-chyst--47ip)
 - [Dev.to/JS] [Vip Facebook Account 2023](https://dev.to/health0410/vip-facebook-account-2023-1ajn)
-- [Dev.to/JS] [Browser extensions - new tab extension](https://dev.to/dailydevtips1/browser-extensions-new-tab-extension-3i6a)
-- [Dev.to/JS] [What is Java? Definition, Meaning &amp; Features](https://dev.to/techknowmug/what-is-java-definition-meaning-features-mhf)
-- [Dev.to/JS] [Trip Collaborator #1: Finalising Location Made Easy &lpar;Problem Statement&rpar;.](https://dev.to/apoorvtomar/trip-collaborator-1-finalising-location-made-easy-problem-statement-143h)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
