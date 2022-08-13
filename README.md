@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding free Cursive&lpar;Italic&rpar; font to visual studio code](https://dev.to/jalpeshvadgama/adding-free-cursiveitalic-font-to-visual-studio-code-fl1)
+- [Dev.to/JS] [Condor CBD Gummies - Natural Results, Price, Benefits, Legit or Fake?](https://dev.to/condorcbdbuys1/condor-cbd-gummies-natural-results-price-benefits-legit-or-fake-1fel)
+- [Dev.to/JS] [How to timeout fetch requests in JavaScript](https://dev.to/collegewap/how-to-timeout-fetch-requests-in-javascript-24b1)
 - [Dev.to/JS] [Future Scope and Demand for R Programmer](https://dev.to/barathmanikand1/future-scope-and-demand-for-r-programmer-3ff0)
 - [Dev.to/JS] [Javascript Tagalog - Break Statement](https://dev.to/mmvergara/javascript-tagalog-break-statement-1ghc)
 - [Dev.to/JS] [Job Announcement Website: Authenticate User](https://dev.to/sokhavuth/job-announcement-website-authenticate-user-4lkp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [free crack software Download](https://dev.to/shanijani/free-crack-software-download-1420)
 - [Dev.to/JS] [Full ES2022 Cheatsheet!](https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l)
 - [Dev.to/JS] [I Made a Web App to Showcase all your Profiles 🔮✨](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-internet-profiles-4m3e)
-- [Dev.to/JS] [Como consumir API com JS Puro e Axios. &lpar;em 3 passos&rpar;](https://dev.to/julianafelix/como-consumir-api-com-js-puro-e-axios-em-3-passos-3jnf)
-- [Dev.to/JS] [How to upload images to IPFS using &lpar;Infura.io&rpar; `Dedicated` Gateways ⛓️](https://dev.to/adhamniazy/how-to-upload-images-to-ipfs-using-infuraio-dedicated-gateways-11c6)
-- [Dev.to/JS] [How to change ownership of a file in Nodejs?](https://dev.to/omardulaimi/how-to-change-ownership-of-a-file-in-nodejs-1fke)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
