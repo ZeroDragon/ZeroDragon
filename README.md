@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to upload images to IPFS using &lpar;Infura.io&rpar; `Dedicated` Gateways ⛓️](https://dev.to/adhamniazy/how-to-upload-images-to-ipfs-using-infuraio-dedicated-gateways-11c6)
+- [Dev.to/JS] [How to change ownership of a file in Nodejs?](https://dev.to/omardulaimi/how-to-change-ownership-of-a-file-in-nodejs-1fke)
+- [Dev.to/JS] [How to secure pages with HTTP Basic Auth using SvelteKit](https://dev.to/danawoodman/how-to-secure-pages-with-http-basic-auth-using-sveltekit-1iod)
+- [Dev.to/JS] [Efficiently read files in a directory with Node.js opendir](https://dev.to/danawoodman/efficiently-read-files-in-a-directory-with-nodejs-opendir-41b0)
 - [Dev.to/JS] [React JS - Create ReactJS App](https://dev.to/adeleyeayodeji/react-js-create-reactjs-app-3dek)
 - [Dev.to/JS] [Golang perk series : structs – pass_by_reference #7 | &lpar;pointers-again&rpar;](https://dev.to/projektorius96/golang-perk-series-structs-passbyreference-7-pointers-again-1d8d)
 - [Dev.to/JS] [Golang perk series : structs #6](https://dev.to/projektorius96/golang-perk-series-structs-6-9o)
@@ -31,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Golang perk series : &lpar;typed&rpar; arrays – JS vs. GO #3](https://dev.to/projektorius96/golang-perk-series-typed-arrays-js-vs-go-3-4ip8)
 - [Dev.to/JS] [Golang perk series : prefix-less functions #2](https://dev.to/projektorius96/golang-perk-series-prefix-less-functions-2-pdg)
 - [Dev.to/JS] [Golang perk series : intro #1](https://dev.to/projektorius96/golang-perk-series-intro-1-51im)
-- [Dev.to/JS] [Clock Signal](https://dev.to/rmion/clock-signal-511p)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
-- [Dev.to/JS] [I finally have a personal site, mostly  😂](https://dev.to/dechamp/i-finally-have-a-personal-site-mostly-1l7j)
-- [Dev.to/JS] [JavaScript tutorial: Get started with Canvas animations](https://dev.to/educative/javascript-tutorial-get-started-with-canvas-animations-5cio)
-- [Dev.to/JS] [MEAN Stack Alternative: More Power with Less Stack](https://dev.to/harperdb/mean-stack-alternative-more-power-with-less-stack-2bo6)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
 - [Lifehacker] [How to Change Careers, According to Former NFL Receiver Nate Burleson](https://lifehacker.com/how-to-change-careers-according-to-former-nfl-receiver-1849406998)
 - [Lifehacker] [How to Really Tell If Your Headphone Volume Is Destroying Your Ears](https://lifehacker.com/how-to-really-tell-if-your-headphone-volume-is-destroyi-1849406930)
