@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Go for Go to Build Server-side Applications](https://dev.to/um_pande/why-go-for-go-to-build-server-side-applications-3ajo)
+- [Dev.to/JS] [Object Equality in JavaScript](https://dev.to/raz_chiriac_b5dbbe8de7932/object-equality-in-javascript-2k96)
+- [Dev.to/JS] [Make Errors User-Friendly with React Error Boundaries](https://dev.to/thisurathenuka/make-errors-user-friendly-with-react-error-boundaries-9e7)
 - [Dev.to/JS] [Static Site Generators&lpar;SSG&rpar;, what are they and why I&#39;m using one.](https://dev.to/techthatconnect/static-site-generatorsssg-what-are-they-and-why-im-using-one-2i8h)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Dev.to/JS] [Recognizing Speech with vanilla JavaScript](https://dev.to/asayerio_techblog/recognizing-speech-with-vanilla-javascript-2p56)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Commnets in JavaScript](https://dev.to/mrdanishsaleem/commnets-in-javascript-166m)
 - [Dev.to/JS] [How to check if a number is a power of two for O&lpar;1&rpar;](https://dev.to/ytskk/how-to-check-if-a-number-is-a-power-of-two-for-o1-58o1)
 - [Dev.to/JS] [Testing components with a request for rtk-query using msw and react-testing-library](https://dev.to/masterifeanyi/-testing-components-with-a-request-for-rtk-query-using-msw-and-react-testing-library-5a8n)
-- [Dev.to/JS] [Creating a Next-like layout system in Vue](https://dev.to/mythie/creating-a-next-like-layout-system-in-vue-3iib)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
-- [Dev.to/JS] [Job Announcement Website: Building Index Page](https://dev.to/sokhavuth/job-announcement-website-building-index-page-e5a)
-- [Dev.to/JS] [HTTP Methods &quot;GET&quot;, &quot;POST&quot;, &quot;PUT&quot;, &quot;PATCH&quot;, &quot;DELETE&quot;](https://dev.to/qbentil/http-methods-get-post-put-patch-delete-1fhi)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
