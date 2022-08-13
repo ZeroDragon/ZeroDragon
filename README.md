@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to scrape Google Maps Reviews?](https://dev.to/darshan0_1/how-to-scrape-google-maps-reviews-26ob)
+- [Dev.to/JS] [A guide for technical writers on JavaScript Testing Libraries](https://dev.to/ismailobadimu/a-guide-for-technical-writers-on-javascript-testing-libraries-5c1k)
+- [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Dev.to/JS] [Front end developer](https://dev.to/timiajeojo/front-end-developer-22g1)
 - [Dev.to/JS] [Best Resources for Svelte and SvelteKit](https://dev.to/theether0/best-resources-for-svelte-and-sveltekit-24n)
 - [Dev.to/JS] [How to Create a FullStack Dapp using Next JS, Tailwind CSS and The graph. &lpar;Part 1&rpar;](https://dev.to/oleanji/how-to-create-a-fullstack-dapp-using-next-js-tailwind-css-and-the-graph-part-1-2e77)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recognizing Speech with vanilla JavaScript](https://dev.to/asayerio_techblog/recognizing-speech-with-vanilla-javascript-2p56)
 - [Dev.to/JS] [How to sort an array by date in Javascript](https://dev.to/smpnjn/how-to-sort-an-array-by-date-in-javascript-2pd6)
 - [Dev.to/JS] [My Google Summer of Code 2022 – Google Blockly Workspace MultiSelect Plugin](https://dev.to/hollowman6/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin-bn7)
-- [Dev.to/JS] [DON&#39;T USE `in-app-webview`](https://dev.to/chandramarch18/dont-use-in-app-webview-33a8)
-- [Dev.to/JS] [DAO](https://dev.to/chandramarch18/dao-2h8j)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
 - [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)
-- [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
-- [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)<!-- TECH-POSTS:END -->
 
 ---
 
