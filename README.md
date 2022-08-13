@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building TVFlixx](https://dev.to/benneee_/building-tvflixx-15oo)
+- [Dev.to/JS] [A JavaScript monolith ready to scale](https://dev.to/joelbonetr/a-javascript-monolith-ready-to-scale-25o1)
+- [Dev.to/JS] [Converting Binary to Decimal with parseInt&#39;s Base Feature](https://dev.to/smpnjn/converting-binary-to-decimal-with-parseints-base-feature-5d3c)
 - [Dev.to/JS] [Job Announcement Website: Route to Post Page](https://dev.to/sokhavuth/job-announcement-website-route-to-post-page-34e0)
 - [Dev.to/JS] [The Choice: Python or JavaScript](https://dev.to/rohitmore07/the-choice-python-or-javascript-4oa6)
 - [Dev.to/JS] [JavaScript Example](https://dev.to/kavyagreatrgb/javascript-example-185e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Browser extensions - new tab extension](https://dev.to/dailydevtips1/browser-extensions-new-tab-extension-3i6a)
 - [Dev.to/JS] [What is Java? Definition, Meaning &amp; Features](https://dev.to/techknowmug/what-is-java-definition-meaning-features-mhf)
 - [Dev.to/JS] [Trip Collaborator #1: Finalising Location Made Easy &lpar;Problem Statement&rpar;.](https://dev.to/apoorvtomar/trip-collaborator-1-finalising-location-made-easy-problem-statement-143h)
-- [Dev.to/JS] [Svelte - Making front-end better](https://dev.to/coldn00dles/svelte-the-fan-favorite-framework-1dph)
-- [Dev.to/JS] [Sparse Arrays - HackerRank](https://dev.to/zeeshanali0704/sparse-arrays-hackerrank-1e6p)
-- [Dev.to/JS] [Single Number - Unique one](https://dev.to/zeeshanali0704/single-number-unique-one-5bg7)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
