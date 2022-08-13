@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Next-like layout system in Vue](https://dev.to/mythie/creating-a-next-like-layout-system-in-vue-3iib)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
 - [Dev.to/JS] [Job Announcement Website: Building Index Page](https://dev.to/sokhavuth/job-announcement-website-building-index-page-e5a)
 - [Dev.to/JS] [HTTP Methods &quot;GET&quot;, &quot;POST&quot;, &quot;PUT&quot;, &quot;PATCH&quot;, &quot;DELETE&quot;](https://dev.to/qbentil/http-methods-get-post-put-patch-delete-1fhi)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Complete JavaScript Tutorials](https://dev.to/ministryofjavascript/complete-javascript-tutorials-4la3)
 - [Dev.to/JS] [Passky Password Manager](https://dev.to/rabbitcompany/passky-password-manager-1mi4)
 - [Dev.to/JS] [Building a Google SERP extension in Google Sheets &lpar;Apps Script + RapidAPI&rpar; 📈](https://dev.to/microworlds/building-a-google-serp-extension-in-google-sheets-apps-script-rapidapi-4ddh)
-- [Dev.to/JS] [Call Girls in Dubai 0589930402 Dubai Call Girls Service](https://dev.to/ujjwalranit/call-girls-in-dubai-0589930402-dubai-call-girls-service-1477)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
