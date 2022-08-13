@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Choice: Python or JavaScript](https://dev.to/rohitmore07/the-choice-python-or-javascript-4oa6)
+- [Dev.to/JS] [JavaScript Example](https://dev.to/kavyagreatrgb/javascript-example-185e)
+- [Dev.to/JS] [Introduction To JavaScript](https://dev.to/kavyagreatrgb/introduction-to-javascript-5f4)
 - [Dev.to/JS] [طراحی لوگو چیست ؟](https://dev.to/arsesweb/trhy-lwgw-chyst--47ip)
 - [Dev.to/JS] [Vip Facebook Account 2023](https://dev.to/health0410/vip-facebook-account-2023-1ajn)
 - [Dev.to/JS] [Browser extensions - new tab extension](https://dev.to/dailydevtips1/browser-extensions-new-tab-extension-3i6a)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sparse Arrays - HackerRank](https://dev.to/zeeshanali0704/sparse-arrays-hackerrank-1e6p)
 - [Dev.to/JS] [Single Number - Unique one](https://dev.to/zeeshanali0704/single-number-unique-one-5bg7)
 - [Dev.to/JS] [Array Manipulation - HackerRank](https://dev.to/zeeshanali0704/array-manipulation-hackerrank-31p5)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;13-08-2022&rpar; - De-escalating Infiniti](https://dev.to/mjgs/this-weeks-newsletter-is-out-13-08-2022-de-escalating-infiniti-4gc9)
-- [Dev.to/JS] [Left Rotation - HackerRank](https://dev.to/zeeshanali0704/left-rotation-hackerrank-1526)
-- [Dev.to/JS] [Dynamic Array - HackerRank](https://dev.to/zeeshanali0704/dynamic-array-hackerrank-45g1)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
