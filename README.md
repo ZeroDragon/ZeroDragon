@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ministry of JavaScript](https://dev.to/ministryofjavascript/ministry-of-javascript-1pfh)
+- [Dev.to/JS] [Introduction to JSX 🚀](https://dev.to/vaishakhnambiar/introduction-to-jsx-1f2p)
 - [Dev.to/JS] [Let’s understand Chrome V8 — Chapter 3: Compilation pipeline, Scanner](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-3-compilation-pipeline-scanner-2bjg)
 - [Dev.to/JS] [free crack software Download](https://dev.to/shanijani/free-crack-software-download-1420)
 - [Dev.to/JS] [Full ES2022 Cheatsheet!](https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to secure pages with HTTP Basic Auth using SvelteKit](https://dev.to/danawoodman/how-to-secure-pages-with-http-basic-auth-using-sveltekit-1iod)
 - [Dev.to/JS] [Efficiently read files in a directory with Node.js opendir](https://dev.to/danawoodman/efficiently-read-files-in-a-directory-with-nodejs-opendir-41b0)
 - [Dev.to/JS] [React JS - Create ReactJS App](https://dev.to/adeleyeayodeji/react-js-create-reactjs-app-3dek)
-- [Dev.to/JS] [Golang perk series : structs – pass_by_reference #7 | &lpar;pointers-again&rpar;](https://dev.to/projektorius96/golang-perk-series-structs-passbyreference-7-pointers-again-1d8d)
-- [Dev.to/JS] [Golang perk series : structs #6](https://dev.to/projektorius96/golang-perk-series-structs-6-9o)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
