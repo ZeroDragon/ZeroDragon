@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [[Question]: JavaScript being weird or is there some logic behind this?](https://dev.to/ceoshikhar/question-javascript-being-weird-or-is-there-some-logic-behind-this-4l84)
+- [Dev.to/JS] [Javascript Tagalog - Undefined](https://dev.to/mmvergara/javascript-tagalog-undefined-44ic)
 - [Dev.to/JS] [Building A File Sharing Web App](https://dev.to/langford_dev/building-a-file-sharing-web-app-1o8h)
 - [Dev.to/JS] [How to create unique temporary directories in Nodejs?](https://dev.to/omardulaimi/how-to-create-unique-temporary-directories-in-nodejs-1n69)
 - [Dev.to/JS] [How useful is Twitter for businesses?](https://dev.to/tmindset_/how-useful-is-twitter-for-businesses-51m3)
