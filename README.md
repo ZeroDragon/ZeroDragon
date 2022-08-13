@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Job Announcement Website: Authenticate User](https://dev.to/sokhavuth/job-announcement-website-authenticate-user-4lkp)
+- [Dev.to/JS] [JavaScript: Method](https://dev.to/rosiequ/javascript-method-5en4)
 - [Dev.to/JS] [Ministry of JavaScript](https://dev.to/ministryofjavascript/ministry-of-javascript-1pfh)
 - [Dev.to/JS] [Introduction to JSX 🚀](https://dev.to/vaishakhnambiar/introduction-to-jsx-1f2p)
 - [Dev.to/JS] [Let’s understand Chrome V8 — Chapter 3: Compilation pipeline, Scanner](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-3-compilation-pipeline-scanner-2bjg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to upload images to IPFS using &lpar;Infura.io&rpar; `Dedicated` Gateways ⛓️](https://dev.to/adhamniazy/how-to-upload-images-to-ipfs-using-infuraio-dedicated-gateways-11c6)
 - [Dev.to/JS] [How to change ownership of a file in Nodejs?](https://dev.to/omardulaimi/how-to-change-ownership-of-a-file-in-nodejs-1fke)
 - [Dev.to/JS] [How to secure pages with HTTP Basic Auth using SvelteKit](https://dev.to/danawoodman/how-to-secure-pages-with-http-basic-auth-using-sveltekit-1iod)
-- [Dev.to/JS] [Efficiently read files in a directory with Node.js opendir](https://dev.to/danawoodman/efficiently-read-files-in-a-directory-with-nodejs-opendir-41b0)
-- [Dev.to/JS] [React JS - Create ReactJS App](https://dev.to/adeleyeayodeji/react-js-create-reactjs-app-3dek)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
