@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [free crack software Download](https://dev.to/shanijani/free-crack-software-download-1420)
 - [Dev.to/JS] [Full ES2022 Cheatsheet!](https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l)
 - [Dev.to/JS] [I Made a Web App to Showcase all your Profiles 🔮✨](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-internet-profiles-4m3e)
 - [Dev.to/JS] [Como consumir API com JS Puro e Axios. &lpar;em 3 passos&rpar;](https://dev.to/julianafelix/como-consumir-api-com-js-puro-e-axios-em-3-passos-3jnf)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Golang perk series : structs – pass_by_reference #7 | &lpar;pointers-again&rpar;](https://dev.to/projektorius96/golang-perk-series-structs-passbyreference-7-pointers-again-1d8d)
 - [Dev.to/JS] [Golang perk series : structs #6](https://dev.to/projektorius96/golang-perk-series-structs-6-9o)
 - [Dev.to/JS] [Golang perk series : *pointers in Go – basics #5](https://dev.to/projektorius96/golang-perk-series-pointers-in-go-basics-5-40co)
-- [Dev.to/JS] [Golang perk series : simple read-line &lpar;CLI&rpar; in Golang vs. Node.js #4](https://dev.to/projektorius96/simple-readline-cli-in-golang-vs-nodejs-4jl0)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
