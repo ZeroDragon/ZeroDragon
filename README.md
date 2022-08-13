@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Life](https://dev.to/tmindset_/life-42a)
+- [Dev.to/JS] [useState bugs part I: Unexpected state update.](https://dev.to/hallcoder/you-should-use-functional-updating-with-usestate-here-is-why-usestate-bugs-part-i-76a)
+- [Dev.to/JS] [Nextjs getServerSideProps Method](https://dev.to/dgnydn/nextjs-getserversideprops-method-1ke0)
+- [Dev.to/JS] [Binary Search Algorithm](https://dev.to/anasnmu/binary-search-algorithm-3f2j)
 - [Dev.to/JS] [How to scrape Google Maps Reviews?](https://dev.to/darshan0_1/how-to-scrape-google-maps-reviews-26ob)
 - [Dev.to/JS] [A guide for technical writers on JavaScript Testing Libraries](https://dev.to/ismailobadimu/a-guide-for-technical-writers-on-javascript-testing-libraries-5c1k)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Go for Go to Build Server-side Applications](https://dev.to/um_pande/why-go-for-go-to-build-server-side-applications-3ajo)
 - [Dev.to/JS] [Object Equality in JavaScript](https://dev.to/raz_chiriac_b5dbbe8de7932/object-equality-in-javascript-2k96)
 - [Dev.to/JS] [Make Errors User-Friendly with React Error Boundaries](https://dev.to/thisurathenuka/make-errors-user-friendly-with-react-error-boundaries-9e7)
-- [Dev.to/JS] [Static Site Generators&lpar;SSG&rpar;, what are they and why I&#39;m using one.](https://dev.to/techthatconnect/static-site-generatorsssg-what-are-they-and-why-im-using-one-2i8h)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
-- [Dev.to/JS] [Recognizing Speech with vanilla JavaScript](https://dev.to/asayerio_techblog/recognizing-speech-with-vanilla-javascript-2p56)
-- [Dev.to/JS] [How to sort an array by date in Javascript](https://dev.to/smpnjn/how-to-sort-an-array-by-date-in-javascript-2pd6)
-- [Dev.to/JS] [My Google Summer of Code 2022 – Google Blockly Workspace MultiSelect Plugin](https://dev.to/hollowman6/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin-bn7)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
