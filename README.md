@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Static Site Generators&lpar;SSG&rpar;, what are they and why I&#39;m using one.](https://dev.to/techthatconnect/static-site-generatorsssg-what-are-they-and-why-im-using-one-2i8h)
+- [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Dev.to/JS] [Recognizing Speech with vanilla JavaScript](https://dev.to/asayerio_techblog/recognizing-speech-with-vanilla-javascript-2p56)
 - [Dev.to/JS] [How to sort an array by date in Javascript](https://dev.to/smpnjn/how-to-sort-an-array-by-date-in-javascript-2pd6)
 - [Dev.to/JS] [My Google Summer of Code 2022 – Google Blockly Workspace MultiSelect Plugin](https://dev.to/hollowman6/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin-bn7)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
 - [Dev.to/JS] [Job Announcement Website: Building Index Page](https://dev.to/sokhavuth/job-announcement-website-building-index-page-e5a)
 - [Dev.to/JS] [HTTP Methods &quot;GET&quot;, &quot;POST&quot;, &quot;PUT&quot;, &quot;PATCH&quot;, &quot;DELETE&quot;](https://dev.to/qbentil/http-methods-get-post-put-patch-delete-1fhi)
-- [Dev.to/JS] [How to Build Creative eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-creative-ecommerce-website-using-html-css-javascript-1mn3)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
 - [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)
 - [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
-- [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
-- [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)<!-- TECH-POSTS:END -->
 
 ---
 
