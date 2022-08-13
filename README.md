@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Front end developer](https://dev.to/timiajeojo/front-end-developer-22g1)
+- [Dev.to/JS] [Best Resources for Svelte and SvelteKit](https://dev.to/theether0/best-resources-for-svelte-and-sveltekit-24n)
+- [Dev.to/JS] [How to Create a FullStack Dapp using Next JS, Tailwind CSS and The graph. &lpar;Part 1&rpar;](https://dev.to/oleanji/how-to-create-a-fullstack-dapp-using-next-js-tailwind-css-and-the-graph-part-1-2e77)
 - [Dev.to/JS] [Why Go for Go to Build Server-side Applications](https://dev.to/um_pande/why-go-for-go-to-build-server-side-applications-3ajo)
 - [Dev.to/JS] [Object Equality in JavaScript](https://dev.to/raz_chiriac_b5dbbe8de7932/object-equality-in-javascript-2k96)
 - [Dev.to/JS] [Make Errors User-Friendly with React Error Boundaries](https://dev.to/thisurathenuka/make-errors-user-friendly-with-react-error-boundaries-9e7)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Google Summer of Code 2022 – Google Blockly Workspace MultiSelect Plugin](https://dev.to/hollowman6/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin-bn7)
 - [Dev.to/JS] [DON&#39;T USE `in-app-webview`](https://dev.to/chandramarch18/dont-use-in-app-webview-33a8)
 - [Dev.to/JS] [DAO](https://dev.to/chandramarch18/dao-2h8j)
-- [Dev.to/JS] [Commnets in JavaScript](https://dev.to/mrdanishsaleem/commnets-in-javascript-166m)
-- [Dev.to/JS] [How to check if a number is a power of two for O&lpar;1&rpar;](https://dev.to/ytskk/how-to-check-if-a-number-is-a-power-of-two-for-o1-58o1)
-- [Dev.to/JS] [Testing components with a request for rtk-query using msw and react-testing-library](https://dev.to/masterifeanyi/-testing-components-with-a-request-for-rtk-query-using-msw-and-react-testing-library-5a8n)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
