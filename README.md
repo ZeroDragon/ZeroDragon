@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
+- [Dev.to/JS] [Job Announcement Website: Building Index Page](https://dev.to/sokhavuth/job-announcement-website-building-index-page-e5a)
+- [Dev.to/JS] [HTTP Methods &quot;GET&quot;, &quot;POST&quot;, &quot;PUT&quot;, &quot;PATCH&quot;, &quot;DELETE&quot;](https://dev.to/qbentil/http-methods-get-post-put-patch-delete-1fhi)
+- [Dev.to/JS] [How to Build Creative eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-creative-ecommerce-website-using-html-css-javascript-1mn3)
+- [Dev.to/JS] [React:Suspense for data fetching &lpar;part 2&rpar;](https://dev.to/derick1530/reactsuspense-for-data-fetching-part-2-19ep)
+- [Dev.to/JS] [Which p2p cryptocurrency exchange is best for business](https://dev.to/thecryptoapeo/which-p2p-cryptocurrency-exchange-is-best-for-business-54g5)
+- [Dev.to/JS] [LEARN CONTEXT API BY BUILDING A MINI FINACIAL APP](https://dev.to/afikode_emma/learn-context-api-by-building-a-mini-finacial-app-10jj)
+- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 4: Scanner, Token generation](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-4-scanner-token-generation-2d71)
+- [Dev.to/JS] [Maximum Subarray: LeetCode](https://dev.to/zeeshanali0704/maximum-subarray-leetcode-35fp)
+- [Dev.to/JS] [Complete JavaScript Tutorials](https://dev.to/ministryofjavascript/complete-javascript-tutorials-4la3)
+- [Dev.to/JS] [Passky Password Manager](https://dev.to/rabbitcompany/passky-password-manager-1mi4)
 - [Dev.to/JS] [Building a Google SERP extension in Google Sheets &lpar;Apps Script + RapidAPI&rpar; 📈](https://dev.to/microworlds/building-a-google-serp-extension-in-google-sheets-apps-script-rapidapi-4ddh)
 - [Dev.to/JS] [Call Girls in Dubai 0589930402 Dubai Call Girls Service](https://dev.to/ujjwalranit/call-girls-in-dubai-0589930402-dubai-call-girls-service-1477)
-- [Dev.to/JS] [Dubai Call Girls O505721407 Call Girls in Dubai](https://dev.to/ujjwalranit/dubai-call-girls-o505721407-call-girls-in-dubai-3h3p)
-- [Dev.to/JS] [Building TVFlixx](https://dev.to/benneee_/building-tvflixx-15oo)
-- [Dev.to/JS] [A JavaScript monolith ready to scale](https://dev.to/joelbonetr/a-javascript-monolith-ready-to-scale-25o1)
-- [Dev.to/JS] [Converting Binary to Decimal with parseInt&#39;s Base Feature](https://dev.to/smpnjn/converting-binary-to-decimal-with-parseints-base-feature-5d3c)
-- [Dev.to/JS] [Job Announcement Website: Route to Post Page](https://dev.to/sokhavuth/job-announcement-website-route-to-post-page-34e0)
-- [Dev.to/JS] [The Choice: Python or JavaScript](https://dev.to/rohitmore07/the-choice-python-or-javascript-4oa6)
-- [Dev.to/JS] [JavaScript Example](https://dev.to/kavyagreatrgb/javascript-example-185e)
-- [Dev.to/JS] [Introduction To JavaScript](https://dev.to/kavyagreatrgb/introduction-to-javascript-5f4)
-- [Dev.to/JS] [طراحی لوگو چیست ؟](https://dev.to/arsesweb/trhy-lwgw-chyst--47ip)
-- [Dev.to/JS] [Vip Facebook Account 2023](https://dev.to/health0410/vip-facebook-account-2023-1ajn)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)
 - [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)
 - [Lifehacker] [The Fastest Ways to Convert Those Annoying WebP Images](https://lifehacker.com/the-fastest-ways-to-convert-those-annoying-webp-images-1849399291)
-- [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)
-- [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Talk to The Police, According to a Trial Lawyer](https://lifehacker.com/when-you-should-and-shouldn-t-talk-to-the-police-acc-1849398161)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everyone Should Be Using iOS 16&#39;s Safety Check Feature](https://lifehacker.com/everyone-should-be-using-ios-16s-safety-check-feature-1849399508)<!-- TECH-POSTS:END -->
 
 ---
 
