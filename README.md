@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Question]: JavaScript being weird or is there some logic behind this?](https://dev.to/ceoshikhar/question-javascript-being-weird-or-is-there-some-logic-behind-this-4l84)
+- [Dev.to/JS] [Building A File Sharing Web App](https://dev.to/langford_dev/building-a-file-sharing-web-app-1o8h)
+- [Dev.to/JS] [How to create unique temporary directories in Nodejs?](https://dev.to/omardulaimi/how-to-create-unique-temporary-directories-in-nodejs-1n69)
+- [Dev.to/JS] [How useful is Twitter for businesses?](https://dev.to/tmindset_/how-useful-is-twitter-for-businesses-51m3)
+- [Dev.to/JS] [Asynchronous code](https://dev.to/rosiequ/asynchronous-code-22dh)
 - [Dev.to/JS] [Life](https://dev.to/tmindset_/life-42a)
 - [Dev.to/JS] [useState bugs part I: Unexpected state update.](https://dev.to/hallcoder/you-should-use-functional-updating-with-usestate-here-is-why-usestate-bugs-part-i-76a)
 - [Dev.to/JS] [Nextjs getServerSideProps Method](https://dev.to/dgnydn/nextjs-getserversideprops-method-1ke0)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A guide for technical writers on JavaScript Testing Libraries](https://dev.to/ismailobadimu/a-guide-for-technical-writers-on-javascript-testing-libraries-5c1k)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Dev.to/JS] [Front end developer](https://dev.to/timiajeojo/front-end-developer-22g1)
-- [Dev.to/JS] [Best Resources for Svelte and SvelteKit](https://dev.to/theether0/best-resources-for-svelte-and-sveltekit-24n)
-- [Dev.to/JS] [How to Create a FullStack Dapp using Next JS, Tailwind CSS and The graph. &lpar;Part 1&rpar;](https://dev.to/oleanji/how-to-create-a-fullstack-dapp-using-next-js-tailwind-css-and-the-graph-part-1-2e77)
-- [Dev.to/JS] [Why Go for Go to Build Server-side Applications](https://dev.to/um_pande/why-go-for-go-to-build-server-side-applications-3ajo)
-- [Dev.to/JS] [Object Equality in JavaScript](https://dev.to/raz_chiriac_b5dbbe8de7932/object-equality-in-javascript-2k96)
-- [Dev.to/JS] [Make Errors User-Friendly with React Error Boundaries](https://dev.to/thisurathenuka/make-errors-user-friendly-with-react-error-boundaries-9e7)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
