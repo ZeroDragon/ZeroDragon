@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Tagalog - Null](https://dev.to/mmvergara/javascript-tagalog-null-4mo3)
+- [Dev.to/JS] [What&#39;s with All the Runtimes for JavaScript?](https://dev.to/yaodingyd/whats-with-all-the-runtimes-for-javascript-3odp)
+- [Dev.to/JS] [We always had pseudo-interface in vanilla JavaScript](https://dev.to/projektorius96/we-always-had-pseudo-interface-in-vanilla-javascript-29d4)
+- [Dev.to/JS] [First Ever Blog Post!!!](https://dev.to/zoro/first-ever-blog-post-gdf)
+- [Dev.to/JS] [How to serve *any* website from your own domain &lpar;for free!&rpar;](https://dev.to/just_moh_it/how-to-serve-any-website-from-your-own-domain-for-free-44l9)
 - [Dev.to/JS] [Javascript Tagalog - Undefined](https://dev.to/mmvergara/javascript-tagalog-undefined-44ic)
 - [Dev.to/JS] [Building A File Sharing Web App](https://dev.to/langford_dev/building-a-file-sharing-web-app-1o8h)
 - [Dev.to/JS] [How to create unique temporary directories in Nodejs?](https://dev.to/omardulaimi/how-to-create-unique-temporary-directories-in-nodejs-1n69)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asynchronous code](https://dev.to/rosiequ/asynchronous-code-22dh)
 - [Dev.to/JS] [Life](https://dev.to/tmindset_/life-42a)
 - [Dev.to/JS] [useState bugs part I: Unexpected state update.](https://dev.to/hallcoder/you-should-use-functional-updating-with-usestate-here-is-why-usestate-bugs-part-i-76a)
-- [Dev.to/JS] [Nextjs getServerSideProps Method](https://dev.to/dgnydn/nextjs-getserversideprops-method-1ke0)
-- [Dev.to/JS] [Binary Search Algorithm](https://dev.to/anasnmu/binary-search-algorithm-3f2j)
-- [Dev.to/JS] [How to scrape Google Maps Reviews?](https://dev.to/darshan0_1/how-to-scrape-google-maps-reviews-26ob)
-- [Dev.to/JS] [A guide for technical writers on JavaScript Testing Libraries](https://dev.to/ismailobadimu/a-guide-for-technical-writers-on-javascript-testing-libraries-5c1k)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
-- [Dev.to/JS] [Front end developer](https://dev.to/timiajeojo/front-end-developer-22g1)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
