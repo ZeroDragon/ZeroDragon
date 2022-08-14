@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy NextJs to Netlify](https://dev.to/guillaumeduhan/deploy-nextjs-to-netlify-5gjb)
+- [Dev.to/JS] [[Performance] Drawing 300 stacked series with 60 000 points in Highcharts’s Highstock charts](https://dev.to/kaerub/performance-drawing-300-stacked-series-with-60-000-points-in-highchartss-highstock-charts-22ja)
+- [Dev.to/JS] [Simple search vs Binary search Algorithms.](https://dev.to/olatisunkanmi/simple-search-vs-binary-search-algorithms-4jm3)
+- [Dev.to/JS] [JavaScript type conversions explained](https://dev.to/asayerio_techblog/javascript-type-conversions-explained-1goc)
+- [Dev.to/JS] [Is Gatsby worth using?](https://dev.to/asayerio_techblog/is-gatsby-worth-using-3omn)
 - [Dev.to/JS] [Don&#39;t Put Your Data In React](https://dev.to/marais/dont-put-your-data-in-react-3dco)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
 - [Dev.to/JS] [Validating input field when it losses focus](https://dev.to/hat52/validating-input-field-when-it-losses-focus-2co4)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I have created a new npm package to take OTP Inputs, here is the why and how?](https://dev.to/ritikbanger/i-have-created-a-new-package-to-take-otp-inputs-here-is-the-why-and-how-eo8)
 - [Dev.to/JS] [Understanding Constructor Functions in JavaScript](https://dev.to/dboatengx/understanding-constructor-functions-in-javascript-1pf6)
 - [Dev.to/JS] [JavaScript addEventListener&lpar;&rpar; Silly Mistake To Avoid](https://dev.to/itsfz1/javascript-addeventlistener-silly-mistake-to-avoid-1d)
-- [Dev.to/JS] [How to send multiple requests parallelly in fetch hook - Nuxt](https://dev.to/siumhossain/how-to-send-multiple-requests-parallelly-in-fetch-hook-nuxt-2pdg)
-- [Dev.to/JS] [How to setup Gulp with ES6](https://dev.to/ashishmangla0/how-to-setup-gulp-with-es6-2i7d)
-- [Dev.to/JS] [LeetCode - Combination Sum III](https://dev.to/_alkesh26/leetcode-combination-sum-iii-5gnk)
-- [Dev.to/JS] [Did You Know JSON.stringify&lpar;&rpar; Eat This Specific Value](https://dev.to/itsfz1/did-you-know-jsonstringify-eat-this-specific-value-4oo2)
-- [Dev.to/JS] [How to use Facial Recognition to Enhance user Experience ?](https://dev.to/sonu_sharma/how-to-use-facial-recognition-to-enhance-user-experience--5c5n)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
