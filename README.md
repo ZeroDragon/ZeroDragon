@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [External JavaScript](https://dev.to/kavyagreatrgb/external-javascript-53ad)
+- [Dev.to/JS] [How To Make compose&lpar;&rpar; and pipe&lpar;&rpar; In Javascript](https://dev.to/itsfz1/how-to-make-compose-and-pipe-in-javascript-3lf8)
+- [Dev.to/JS] [How to quickly get dev.to post on your site](https://dev.to/dechamp/how-to-quickly-get-devto-post-on-your-site-5cgo)
+- [Dev.to/JS] [How to Send Google Forms Responses in an Email Automatically?](https://dev.to/kcl/how-to-send-google-forms-responses-in-an-email-automatically-5526)
 - [Dev.to/JS] [Check - isSubsequence](https://dev.to/zeeshanali0704/check-issubsequence-13b6)
 - [Dev.to/JS] [Using Tailwind CSS in React Native](https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k)
+- [Dev.to/JS] [Dark and Light Theme Toggler + YT Channel](https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh)
 - [Dev.to/JS] [Easiest Way to get Browser and Device Info Using JavaScript](https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472)
 - [Dev.to/JS] [Day 3: Conditional Statements, Logical Operators, Code Block and Scope](https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh)
 - [Dev.to/JS] [Build a Multi-Language Countdown Component](https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j)
 - [Dev.to/JS] [Job Announcement Website: Building Post Page](https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k)
 - [Dev.to/JS] [Vertical-text Scrolling animation using HTML/CSS](https://dev.to/uidesign09/vertical-text-scrolling-animation-using-htmlcss-579p)
-- [Dev.to/JS] [MongoDB Installation](https://dev.to/dasaradhanimmala/mongodb-installation-2e6h)
-- [Dev.to/JS] [The Regular Expression &lpar;RegEx&rpar; Cheat Sheet you always wanted](https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h)
-- [Dev.to/JS] [The Knuth-Morris-Pratt &lpar;KMP&rpar;Algorithm - Implement strStr&lpar;&rpar;](https://dev.to/zeeshanali0704/the-knuth-morris-pratt-kmpalgorithm-implement-strstr-a8b)
-- [Dev.to/JS] [Can&#39;t set state React](https://dev.to/lemenio/cant-set-state-react-mnp)
-- [Dev.to/JS] [Vue 3 Tip / Detect outside click](https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
