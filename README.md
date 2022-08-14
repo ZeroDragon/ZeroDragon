@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a simple TikTok scraping API 🤖](https://dev.to/bryce/building-a-simple-tiktok-scraping-api-4mcl)
+- [Dev.to/JS] [Top 6 Github Repos for JavaScript Developers...](https://dev.to/keshavgbpecdel/top-6-github-repos-for-javascript-developers-2d1)
 - [Dev.to/JS] [TypeScript: Typing React useRef hook](https://dev.to/clarity89/typescript-typing-react-useref-hook-3knh)
 - [Dev.to/JS] [React - Closure that dependency!](https://dev.to/noriller/react-closure-that-dependency-a50)
 - [Dev.to/JS] [Integration Vee validate with i18n Nuxt 3](https://dev.to/mohammadali0120/integration-vee-validate-with-i18n-nuxt-3-5687)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hooks: useThrottledValue and useThrottledFunction](https://dev.to/perssondennis/react-hooks-usethrottledvalue-and-usethrottledfunction-1j2n)
 - [Dev.to/JS] [Vue + Tailwindcss config](https://dev.to/guillaumeduhan/vue-tailwindcss-config-f8l)
 - [Dev.to/JS] [Hoisting in Javascript](https://dev.to/shubhamtiwari909/hoisting-in-javascript-19eo)
-- [Dev.to/JS] [Deploy NextJs to Netlify](https://dev.to/guillaumeduhan/deploy-nextjs-to-netlify-5gjb)
-- [Dev.to/JS] [[Performance] Drawing 300 stacked series with 60 000 points in Highcharts’s Highstock charts](https://dev.to/kaerub/performance-drawing-300-stacked-series-with-60-000-points-in-highchartss-highstock-charts-22ja)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
