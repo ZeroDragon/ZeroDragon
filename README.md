@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Master async await in JavaScript](https://dev.to/ministryofjavascript/master-async-await-in-javascript-54pa)
+- [Dev.to/JS] [What is optional chaining &lpar;?.&rpar; in JavaScript](https://dev.to/ministryofjavascript/what-is-optional-chaining-in-javascript-16io)
+- [Dev.to/JS] [Master factory functions in JavaScript](https://dev.to/ministryofjavascript/master-factory-functions-in-javascript-e8o)
+- [Dev.to/JS] [Master dynamic import in JavaScript](https://dev.to/ministryofjavascript/master-dynamic-import-in-javascript-4d00)
+- [Dev.to/JS] [Why useState hook returns array and not object? Let&#39;s create a custom hook to see](https://dev.to/rem0nfawzi/why-usestate-hook-returns-array-and-not-object-lets-create-a-custom-hook-to-see-514n)
 - [Dev.to/JS] [Node.js TypeScript monorepo via NPM workspaces](https://dev.to/davidszabo97/nodejs-typescript-monorepo-via-npm-workspaces-4fi3)
 - [Dev.to/JS] [How to Self Host your own Website Analytics With Umami](https://dev.to/sachinchaurasiya/how-to-self-host-your-own-website-analytics-with-umami-co9)
 - [Dev.to/JS] [Avoiding useEffect with callback refs](https://dev.to/tkdodo/avoiding-useeffect-with-callback-refs-2462)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a simple TikTok scraping API 🤖](https://dev.to/bryce/building-a-simple-tiktok-scraping-api-4mcl)
 - [Dev.to/JS] [Top 6 Github Repos for JavaScript Developers...](https://dev.to/keshavgbpecdel/top-6-github-repos-for-javascript-developers-2d1)
 - [Dev.to/JS] [TypeScript: Typing React useRef hook](https://dev.to/clarity89/typescript-typing-react-useref-hook-3knh)
-- [Dev.to/JS] [React - Closure that dependency!](https://dev.to/noriller/react-closure-that-dependency-a50)
-- [Dev.to/JS] [Integration Vee validate with i18n Nuxt 3](https://dev.to/mohammadali0120/integration-vee-validate-with-i18n-nuxt-3-5687)
-- [Dev.to/JS] [Weekly Digest 32/2022](https://dev.to/marcobiedermann/weekly-digest-322022-1987)
-- [Dev.to/JS] [Console Wrangling](https://dev.to/raz_chiriac_b5dbbe8de7932/console-wrangling-2k2p)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
-- [Dev.to/JS] [Async Task inside Loop in Javascript](https://dev.to/bijishjs/async-task-inside-loop-in-javascript-30io)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
