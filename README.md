@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React - Closure that dependency!](https://dev.to/noriller/react-closure-that-dependency-a50)
+- [Dev.to/JS] [Integration Vee validate with i18n Nuxt 3](https://dev.to/mohammadali0120/integration-vee-validate-with-i18n-nuxt-3-5687)
+- [Dev.to/JS] [Weekly Digest 32/2022](https://dev.to/marcobiedermann/weekly-digest-322022-1987)
+- [Dev.to/JS] [Console Wrangling](https://dev.to/raz_chiriac_b5dbbe8de7932/console-wrangling-2k2p)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Dev.to/JS] [Async Task inside Loop in Javascript](https://dev.to/bijishjs/async-task-inside-loop-in-javascript-30io)
 - [Dev.to/JS] [Advent of Code 2018 Day 2 Part 1 - Solution and Explanation](https://dev.to/benboorstein/advent-of-code-2018-day-2-part-1-solution-and-explanation-294m)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploy NextJs to Netlify](https://dev.to/guillaumeduhan/deploy-nextjs-to-netlify-5gjb)
 - [Dev.to/JS] [[Performance] Drawing 300 stacked series with 60 000 points in Highcharts’s Highstock charts](https://dev.to/kaerub/performance-drawing-300-stacked-series-with-60-000-points-in-highchartss-highstock-charts-22ja)
 - [Dev.to/JS] [Simple search vs Binary search Algorithms.](https://dev.to/olatisunkanmi/simple-search-vs-binary-search-algorithms-4jm3)
-- [Dev.to/JS] [JavaScript type conversions explained](https://dev.to/asayerio_techblog/javascript-type-conversions-explained-1goc)
-- [Dev.to/JS] [Is Gatsby worth using?](https://dev.to/asayerio_techblog/is-gatsby-worth-using-3omn)
-- [Dev.to/JS] [Don&#39;t Put Your Data In React](https://dev.to/marais/dont-put-your-data-in-react-3dco)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
-- [Dev.to/JS] [Validating input field when it losses focus](https://dev.to/hat52/validating-input-field-when-it-losses-focus-2co4)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
