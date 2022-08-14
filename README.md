@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async Task inside Loop in Javascript](https://dev.to/bijishjs/async-task-inside-loop-in-javascript-30io)
+- [Dev.to/JS] [Advent of Code 2018 Day 2 Part 1 - Solution and Explanation](https://dev.to/benboorstein/advent-of-code-2018-day-2-part-1-solution-and-explanation-294m)
+- [Dev.to/JS] [React Hooks: useThrottledValue and useThrottledFunction](https://dev.to/perssondennis/react-hooks-usethrottledvalue-and-usethrottledfunction-1j2n)
+- [Dev.to/JS] [Vue + Tailwindcss config](https://dev.to/guillaumeduhan/vue-tailwindcss-config-f8l)
+- [Dev.to/JS] [Hoisting in Javascript](https://dev.to/shubhamtiwari909/hoisting-in-javascript-19eo)
 - [Dev.to/JS] [Deploy NextJs to Netlify](https://dev.to/guillaumeduhan/deploy-nextjs-to-netlify-5gjb)
 - [Dev.to/JS] [[Performance] Drawing 300 stacked series with 60 000 points in Highcharts’s Highstock charts](https://dev.to/kaerub/performance-drawing-300-stacked-series-with-60-000-points-in-highchartss-highstock-charts-22ja)
 - [Dev.to/JS] [Simple search vs Binary search Algorithms.](https://dev.to/olatisunkanmi/simple-search-vs-binary-search-algorithms-4jm3)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don&#39;t Put Your Data In React](https://dev.to/marais/dont-put-your-data-in-react-3dco)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
 - [Dev.to/JS] [Validating input field when it losses focus](https://dev.to/hat52/validating-input-field-when-it-losses-focus-2co4)
-- [Dev.to/JS] [Master number formatting in JavaScript using Intl.NumberFormat&lpar;&rpar;](https://dev.to/ministryofjavascript/master-number-formatting-using-intlnumberformat-1kk1)
-- [Dev.to/JS] [Simple Ecommerce Web App using Reactjs](https://dev.to/rajamanickam/simple-ecommerce-web-app-using-reactjs-104f)
-- [Dev.to/JS] [I have created a new npm package to take OTP Inputs, here is the why and how?](https://dev.to/ritikbanger/i-have-created-a-new-package-to-take-otp-inputs-here-is-the-why-and-how-eo8)
-- [Dev.to/JS] [Understanding Constructor Functions in JavaScript](https://dev.to/dboatengx/understanding-constructor-functions-in-javascript-1pf6)
-- [Dev.to/JS] [JavaScript addEventListener&lpar;&rpar; Silly Mistake To Avoid](https://dev.to/itsfz1/javascript-addeventlistener-silly-mistake-to-avoid-1d)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
