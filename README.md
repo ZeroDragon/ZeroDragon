@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Knuth-Morris-Pratt &lpar;KMP&rpar;Algorithm - Implement strStr&lpar;&rpar;](https://dev.to/zeeshanali0704/the-knuth-morris-pratt-kmpalgorithm-implement-strstr-a8b)
+- [Dev.to/JS] [Can&#39;t set state React](https://dev.to/lemenio/cant-set-state-react-mnp)
 - [Dev.to/JS] [Vue 3 Tip / Detect outside click](https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k)
 - [Dev.to/JS] [JS MODULE LOADERS; or, a brief journey through hell](https://dev.to/tythos/js-module-loaders-or-a-brief-journey-through-hell-2d2n)
 - [Dev.to/JS] [Use Absolute path in importing components - React || Next](https://dev.to/mrpaulishaili/use-absolute-path-in-importing-components-react-next-3dl8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Tagalog - Null](https://dev.to/mmvergara/javascript-tagalog-null-4mo3)
 - [Dev.to/JS] [What&#39;s with All the Runtimes for JavaScript?](https://dev.to/yaodingyd/whats-with-all-the-runtimes-for-javascript-3odp)
 - [Dev.to/JS] [We always had pseudo-interface in vanilla JavaScript](https://dev.to/projektorius96/we-always-had-pseudo-interface-in-vanilla-javascript-29d4)
-- [Dev.to/JS] [First Ever Blog Post!!!](https://dev.to/zoro/first-ever-blog-post-gdf)
-- [Dev.to/JS] [How to serve *any* website from your own domain &lpar;for free!&rpar;](https://dev.to/just_moh_it/how-to-serve-any-website-from-your-own-domain-for-free-44l9)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
