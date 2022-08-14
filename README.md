@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Left Most Repeating Character](https://dev.to/zeeshanali0704/left-most-repeating-character-3mm)
 - [Dev.to/JS] [External JavaScript](https://dev.to/kavyagreatrgb/external-javascript-53ad)
 - [Dev.to/JS] [How To Make compose&lpar;&rpar; and pipe&lpar;&rpar; In Javascript](https://dev.to/itsfz1/how-to-make-compose-and-pipe-in-javascript-3lf8)
 - [Dev.to/JS] [How to quickly get dev.to post on your site](https://dev.to/dechamp/how-to-quickly-get-devto-post-on-your-site-5cgo)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 3: Conditional Statements, Logical Operators, Code Block and Scope](https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh)
 - [Dev.to/JS] [Build a Multi-Language Countdown Component](https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j)
 - [Dev.to/JS] [Job Announcement Website: Building Post Page](https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k)
-- [Dev.to/JS] [Vertical-text Scrolling animation using HTML/CSS](https://dev.to/uidesign09/vertical-text-scrolling-animation-using-htmlcss-579p)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
