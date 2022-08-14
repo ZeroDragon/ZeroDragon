@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rabin-Karp in JavaScript](https://dev.to/zeeshanali0704/rabin-karp-in-javascript-2jee)
+- [Dev.to/JS] [Hello world](https://dev.to/oj217/hello-world-563g)
+- [Dev.to/JS] [Job Announcement Website: Creating Post Item](https://dev.to/sokhavuth/job-announcement-website-creating-post-item-3cdl)
+- [Dev.to/JS] [Mean value calculator](https://dev.to/yuvraj101/mean-value-calculator-3ik2)
+- [Dev.to/JS] [0 to 1 — Asynchronous JavaScript](https://dev.to/idrazhar/0-to-1-asynchronous-javascript-4iil)
 - [Dev.to/JS] [Sync height between elements in React](https://dev.to/9zemian5/sync-height-between-elements-in-react-1fg0)
 - [Dev.to/JS] [6 Tricks in JavaScript That Will Make You Feel Like a Pro](https://dev.to/metamark/6-tricks-in-javascript-that-will-make-you-feel-like-a-pro-585o)
 - [Dev.to/JS] [Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?](https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [External JavaScript](https://dev.to/kavyagreatrgb/external-javascript-53ad)
 - [Dev.to/JS] [How To Make compose&lpar;&rpar; and pipe&lpar;&rpar; In Javascript](https://dev.to/itsfz1/how-to-make-compose-and-pipe-in-javascript-3lf8)
 - [Dev.to/JS] [How to quickly get dev.to post on your site](https://dev.to/dechamp/how-to-quickly-get-devto-post-on-your-site-5cgo)
-- [Dev.to/JS] [How to Send Google Forms Responses in an Email Automatically?](https://dev.to/kcl/how-to-send-google-forms-responses-in-an-email-automatically-5526)
-- [Dev.to/JS] [Check - isSubsequence](https://dev.to/zeeshanali0704/check-issubsequence-13b6)
-- [Dev.to/JS] [Using Tailwind CSS in React Native](https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k)
-- [Dev.to/JS] [Dark and Light Theme Toggler + YT Channel](https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh)
-- [Dev.to/JS] [Easiest Way to get Browser and Device Info Using JavaScript](https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
