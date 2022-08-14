@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t Put Your Data In React](https://dev.to/marais/dont-put-your-data-in-react-3dco)
+- [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
+- [Dev.to/JS] [Validating input field when it losses focus](https://dev.to/hat52/validating-input-field-when-it-losses-focus-2co4)
 - [Dev.to/JS] [Master number formatting in JavaScript using Intl.NumberFormat&lpar;&rpar;](https://dev.to/ministryofjavascript/master-number-formatting-using-intlnumberformat-1kk1)
 - [Dev.to/JS] [Simple Ecommerce Web App using Reactjs](https://dev.to/rajamanickam/simple-ecommerce-web-app-using-reactjs-104f)
 - [Dev.to/JS] [I have created a new npm package to take OTP Inputs, here is the why and how?](https://dev.to/ritikbanger/i-have-created-a-new-package-to-take-otp-inputs-here-is-the-why-and-how-eo8)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Combination Sum III](https://dev.to/_alkesh26/leetcode-combination-sum-iii-5gnk)
 - [Dev.to/JS] [Did You Know JSON.stringify&lpar;&rpar; Eat This Specific Value](https://dev.to/itsfz1/did-you-know-jsonstringify-eat-this-specific-value-4oo2)
 - [Dev.to/JS] [How to use Facial Recognition to Enhance user Experience ?](https://dev.to/sonu_sharma/how-to-use-facial-recognition-to-enhance-user-experience--5c5n)
-- [Dev.to/JS] [JavaScript function initialization Shortcut](https://dev.to/johnsaita/javascript-function-shortcut-36kh)
-- [Dev.to/JS] [Rabin-Karp in JavaScript](https://dev.to/zeeshanali0704/rabin-karp-in-javascript-2jee)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
 - [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
-- [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)
-- [Lifehacker] [How to Tell If a Credit Card Annual Fee Will Pay for Itself](https://lifehacker.com/how-to-tell-if-a-credit-card-annual-fee-will-pay-for-it-1849400181)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)<!-- TECH-POSTS:END -->
 
 ---
 
