@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Dev.to/JS] [Async Task inside Loop in Javascript](https://dev.to/bijishjs/async-task-inside-loop-in-javascript-30io)
 - [Dev.to/JS] [Advent of Code 2018 Day 2 Part 1 - Solution and Explanation](https://dev.to/benboorstein/advent-of-code-2018-day-2-part-1-solution-and-explanation-294m)
 - [Dev.to/JS] [React Hooks: useThrottledValue and useThrottledFunction](https://dev.to/perssondennis/react-hooks-usethrottledvalue-and-usethrottledfunction-1j2n)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Vintage Martha Stewart Recipe Makes Perfectly Easy Candied Fruit](https://lifehacker.com/this-vintage-martha-stewart-recipe-makes-perfectly-easy-1849403168)
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
 - [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
-- [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)
-- [Lifehacker] [How to Borrow Money From a Friend Without Ruining the Relationship](https://lifehacker.com/how-to-borrow-money-from-a-friend-without-ruining-the-r-1849397579)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)<!-- TECH-POSTS:END -->
 
 ---
 
