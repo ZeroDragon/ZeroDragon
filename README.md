@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Run Postman Mock Servers on Localhost](https://dev.to/jordanwalsh23/run-postman-mock-servers-on-localhost-4101)
+- [Dev.to/JS] [#46 - Sum of a sequence - Codewars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c)
+- [Dev.to/JS] [Javascript Tagalog - Strings](https://dev.to/mmvergara/javascript-tagalog-strings-2ee0)
+- [Dev.to/JS] [Javascript Tagalog - Boolean](https://dev.to/mmvergara/javascript-tagalog-boolean-4i5k)
 - [Dev.to/JS] [Javascript Tagalog - Null](https://dev.to/mmvergara/javascript-tagalog-null-4mo3)
 - [Dev.to/JS] [What&#39;s with All the Runtimes for JavaScript?](https://dev.to/yaodingyd/whats-with-all-the-runtimes-for-javascript-3odp)
 - [Dev.to/JS] [We always had pseudo-interface in vanilla JavaScript](https://dev.to/projektorius96/we-always-had-pseudo-interface-in-vanilla-javascript-29d4)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Tagalog - Undefined](https://dev.to/mmvergara/javascript-tagalog-undefined-44ic)
 - [Dev.to/JS] [Building A File Sharing Web App](https://dev.to/langford_dev/building-a-file-sharing-web-app-1o8h)
 - [Dev.to/JS] [How to create unique temporary directories in Nodejs?](https://dev.to/omardulaimi/how-to-create-unique-temporary-directories-in-nodejs-1n69)
-- [Dev.to/JS] [How useful is Twitter for businesses?](https://dev.to/tmindset_/how-useful-is-twitter-for-businesses-51m3)
-- [Dev.to/JS] [Asynchronous code](https://dev.to/rosiequ/asynchronous-code-22dh)
-- [Dev.to/JS] [Life](https://dev.to/tmindset_/life-42a)
-- [Dev.to/JS] [useState bugs part I: Unexpected state update.](https://dev.to/hallcoder/you-should-use-functional-updating-with-usestate-here-is-why-usestate-bugs-part-i-76a)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
