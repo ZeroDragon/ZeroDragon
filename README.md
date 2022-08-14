@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js TypeScript monorepo via NPM workspaces](https://dev.to/davidszabo97/nodejs-typescript-monorepo-via-npm-workspaces-4fi3)
 - [Dev.to/JS] [How to Self Host your own Website Analytics With Umami](https://dev.to/sachinchaurasiya/how-to-self-host-your-own-website-analytics-with-umami-co9)
 - [Dev.to/JS] [Avoiding useEffect with callback refs](https://dev.to/tkdodo/avoiding-useeffect-with-callback-refs-2462)
 - [Dev.to/JS] [What is the best way to read directories in Nodejs?](https://dev.to/omardulaimi/what-is-the-best-way-to-read-directories-in-nodejs-3le2)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Console Wrangling](https://dev.to/raz_chiriac_b5dbbe8de7932/console-wrangling-2k2p)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Dev.to/JS] [Async Task inside Loop in Javascript](https://dev.to/bijishjs/async-task-inside-loop-in-javascript-30io)
-- [Dev.to/JS] [Advent of Code 2018 Day 2 Part 1 - Solution and Explanation](https://dev.to/benboorstein/advent-of-code-2018-day-2-part-1-solution-and-explanation-294m)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
