@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sync height between elements in React](https://dev.to/9zemian5/sync-height-between-elements-in-react-1fg0)
+- [Dev.to/JS] [6 Tricks in JavaScript That Will Make You Feel Like a Pro](https://dev.to/metamark/6-tricks-in-javascript-that-will-make-you-feel-like-a-pro-585o)
+- [Dev.to/JS] [Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?](https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90)
 - [Dev.to/JS] [Left Most Repeating Character](https://dev.to/zeeshanali0704/left-most-repeating-character-3mm)
 - [Dev.to/JS] [External JavaScript](https://dev.to/kavyagreatrgb/external-javascript-53ad)
 - [Dev.to/JS] [How To Make compose&lpar;&rpar; and pipe&lpar;&rpar; In Javascript](https://dev.to/itsfz1/how-to-make-compose-and-pipe-in-javascript-3lf8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Tailwind CSS in React Native](https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k)
 - [Dev.to/JS] [Dark and Light Theme Toggler + YT Channel](https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh)
 - [Dev.to/JS] [Easiest Way to get Browser and Device Info Using JavaScript](https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472)
-- [Dev.to/JS] [Day 3: Conditional Statements, Logical Operators, Code Block and Scope](https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh)
-- [Dev.to/JS] [Build a Multi-Language Countdown Component](https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j)
-- [Dev.to/JS] [Job Announcement Website: Building Post Page](https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
