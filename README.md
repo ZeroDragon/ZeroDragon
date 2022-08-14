@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Regular Expression &lpar;RegEx&rpar; Cheat Sheet you always wanted](https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h)
 - [Dev.to/JS] [The Knuth-Morris-Pratt &lpar;KMP&rpar;Algorithm - Implement strStr&lpar;&rpar;](https://dev.to/zeeshanali0704/the-knuth-morris-pratt-kmpalgorithm-implement-strstr-a8b)
 - [Dev.to/JS] [Can&#39;t set state React](https://dev.to/lemenio/cant-set-state-react-mnp)
 - [Dev.to/JS] [Vue 3 Tip / Detect outside click](https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Tagalog - Boolean](https://dev.to/mmvergara/javascript-tagalog-boolean-4i5k)
 - [Dev.to/JS] [Javascript Tagalog - Null](https://dev.to/mmvergara/javascript-tagalog-null-4mo3)
 - [Dev.to/JS] [What&#39;s with All the Runtimes for JavaScript?](https://dev.to/yaodingyd/whats-with-all-the-runtimes-for-javascript-3odp)
-- [Dev.to/JS] [We always had pseudo-interface in vanilla JavaScript](https://dev.to/projektorius96/we-always-had-pseudo-interface-in-vanilla-javascript-29d4)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
