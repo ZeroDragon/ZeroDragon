@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Avoiding useEffect with callback refs](https://dev.to/tkdodo/avoiding-useeffect-with-callback-refs-2462)
+- [Dev.to/JS] [What is the best way to read directories in Nodejs?](https://dev.to/omardulaimi/what-is-the-best-way-to-read-directories-in-nodejs-3le2)
+- [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Dev.to/JS] [Building a simple TikTok scraping API 🤖](https://dev.to/bryce/building-a-simple-tiktok-scraping-api-4mcl)
 - [Dev.to/JS] [Top 6 Github Repos for JavaScript Developers...](https://dev.to/keshavgbpecdel/top-6-github-repos-for-javascript-developers-2d1)
 - [Dev.to/JS] [TypeScript: Typing React useRef hook](https://dev.to/clarity89/typescript-typing-react-useref-hook-3knh)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async Task inside Loop in Javascript](https://dev.to/bijishjs/async-task-inside-loop-in-javascript-30io)
 - [Dev.to/JS] [Advent of Code 2018 Day 2 Part 1 - Solution and Explanation](https://dev.to/benboorstein/advent-of-code-2018-day-2-part-1-solution-and-explanation-294m)
 - [Dev.to/JS] [React Hooks: useThrottledValue and useThrottledFunction](https://dev.to/perssondennis/react-hooks-usethrottledvalue-and-usethrottledfunction-1j2n)
-- [Dev.to/JS] [Vue + Tailwindcss config](https://dev.to/guillaumeduhan/vue-tailwindcss-config-f8l)
-- [Dev.to/JS] [Hoisting in Javascript](https://dev.to/shubhamtiwari909/hoisting-in-javascript-19eo)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Live 100% Off the Grid in a City or Suburb?](https://lifehacker.com/can-you-live-100-off-the-grid-in-a-city-or-suburb-1849400251)
 - [Lifehacker] [This Vintage Martha Stewart Recipe Makes Perfectly Easy Candied Fruit](https://lifehacker.com/this-vintage-martha-stewart-recipe-makes-perfectly-easy-1849403168)
 - [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
-- [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)
-- [Lifehacker] [Do These Workouts Next Time You&#39;re Stuck in a Hotel Gym](https://lifehacker.com/do-these-workouts-next-time-youre-stuck-in-a-hotel-gym-1849402427)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)<!-- TECH-POSTS:END -->
 
 ---
 
