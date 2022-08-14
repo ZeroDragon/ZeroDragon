@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue 3 Tip / Detect outside click](https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k)
+- [Dev.to/JS] [JS MODULE LOADERS; or, a brief journey through hell](https://dev.to/tythos/js-module-loaders-or-a-brief-journey-through-hell-2d2n)
+- [Dev.to/JS] [Use Absolute path in importing components - React || Next](https://dev.to/mrpaulishaili/use-absolute-path-in-importing-components-react-next-3dl8)
 - [Dev.to/JS] [Run Postman Mock Servers on Localhost](https://dev.to/jordanwalsh23/run-postman-mock-servers-on-localhost-4101)
 - [Dev.to/JS] [#46 - Sum of a sequence - Codewars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c)
 - [Dev.to/JS] [Javascript Tagalog - Strings](https://dev.to/mmvergara/javascript-tagalog-strings-2ee0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We always had pseudo-interface in vanilla JavaScript](https://dev.to/projektorius96/we-always-had-pseudo-interface-in-vanilla-javascript-29d4)
 - [Dev.to/JS] [First Ever Blog Post!!!](https://dev.to/zoro/first-ever-blog-post-gdf)
 - [Dev.to/JS] [How to serve *any* website from your own domain &lpar;for free!&rpar;](https://dev.to/just_moh_it/how-to-serve-any-website-from-your-own-domain-for-free-44l9)
-- [Dev.to/JS] [Javascript Tagalog - Undefined](https://dev.to/mmvergara/javascript-tagalog-undefined-44ic)
-- [Dev.to/JS] [Building A File Sharing Web App](https://dev.to/langford_dev/building-a-file-sharing-web-app-1o8h)
-- [Dev.to/JS] [How to create unique temporary directories in Nodejs?](https://dev.to/omardulaimi/how-to-create-unique-temporary-directories-in-nodejs-1n69)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
