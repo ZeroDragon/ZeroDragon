@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)
+- [Dev.to/JS] [Open-source for beginners](https://dev.to/sadeedpv/open-source-for-beginners-2326)
+- [Dev.to/JS] [javaScript?.Fundamentals](https://dev.to/acobbina717/javascript-fundamentals-4p8h)
+- [Dev.to/JS] [Introducing Authorizer 1.0](https://dev.to/lakhansamani/introducing-authorizer-10-j3)
+- [Lifehacker] [Finally Silence Your Squeaky Bed](https://lifehacker.com/finally-silence-your-squeaky-bed-1849407166)
+- [Dev.to/JS] [Javascript Callback functions &amp; Promises](https://dev.to/rizways/javascript-callback-functions-promises-17lp)
+- [Lifehacker] [Do These Things to Ease Your Kid&#39;s First-Day-of-School Jitters](https://lifehacker.com/do-these-things-to-ease-your-kids-first-day-of-school-j-1849411161)
 - [Dev.to/JS] [Version 2.10 of Foal is out!](https://dev.to/loicpoullain/version-210-of-foal-is-out-3g6p)
 - [Dev.to/JS] [JavaScript Basics - Intro](https://dev.to/zoro/javascript-basics-intro-mon)
 - [Dev.to/JS] [How to append contents to a file in Nodejs?](https://dev.to/omardulaimi/how-to-append-contents-to-a-file-in-nodejs-2fk6)
@@ -32,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Basics](https://dev.to/dil2010/redis-hackathon-submission-post-placeholder-title-2j)
 - [Dev.to/JS] [Good &lpar;quick&rpar; Resources to Become a Better Developer](https://dev.to/amabdev/good-quick-resources-to-be-a-better-developer-288n)
 - [Dev.to/JS] [Naive Pattern Search Method](https://dev.to/zeeshanali0704/naive-pattern-search-method-5aj7)
-- [Dev.to/JS] [Can you help me?or listen to the self-report of an ordinary junior high school student](https://dev.to/sheepbox8646/can-you-help-meor-listen-to-the-self-report-of-an-ordinary-junior-high-school-student-29oa)
 - [Lifehacker] [20 of Horniest Erotic Thrillers Ever Made](https://lifehacker.com/20-of-horniest-erotic-thrillers-ever-made-1849400981)
-- [Dev.to/JS] [Web3 Application Wallet Authentication and npm Package Solution](https://dev.to/okhai/web3-application-wallet-authentication-and-npm-package-solution-40)
-- [Dev.to/JS] [How my Frontend skills helped me pass my sailing test](https://dev.to/mihneasim/how-my-frontend-skills-helped-me-pass-my-sailing-test-39dn)
 - [Lifehacker] [7 Back-to-School Mistakes Every Parent Should Avoid](https://lifehacker.com/7-back-to-school-mistakes-every-parent-should-avoid-1849407342)
-- [Dev.to/JS] [High Pressure Delivery](https://dev.to/mrispoli24/high-pressure-delivery-423)
 - [Lifehacker] [Use More White Balsamic Vinegar](https://lifehacker.com/use-more-white-balsamic-vinegar-1849406097)
 - [Lifehacker] [Don&#39;t Use In-App Browsers for Anything Important](https://lifehacker.com/dont-use-in-app-browsers-for-anything-important-1849401900)
 - [Lifehacker] [You Should Change These Settings on Your New Windows PC](https://lifehacker.com/you-should-change-settings-on-your-new-windows-pc-1849404907)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Humidity Increases Your Risk of Heat Stroke](https://lifehacker.com/how-humidity-increases-your-risk-of-heat-stroke-1849405268)
 - [Lifehacker] [How to Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)
 - [Lifehacker] [How to Move Without Taking Roaches &lpar;and Other Pests&rpar; With You](https://lifehacker.com/how-to-move-without-taking-roaches-and-other-pests-wi-1849405257)
-- [Lifehacker] [Social Media Is Lying to You About Antidepressants](https://lifehacker.com/social-media-is-lying-to-you-about-antidepressants-1849404119)
-- [Lifehacker] [How to Choose Between Paying for a Flight With Cash or Miles](https://lifehacker.com/how-to-choose-between-paying-for-a-flight-with-cash-or-1849404623)
-- [Lifehacker] [&#39;The Rehearsal,&#39; and 13 Other Movies and Shows That Bend Reality](https://lifehacker.com/the-rehearsal-and-13-other-movies-and-shows-that-bend-1849403508)
-- [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Social Media Is Lying to You About Antidepressants](https://lifehacker.com/social-media-is-lying-to-you-about-antidepressants-1849404119)<!-- TECH-POSTS:END -->
 
 ---
 
