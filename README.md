@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Button Component in React-js &lpar;All in one&rpar;](https://dev.to/uidesign09/button-component-in-react-js-all-in-one-2odd)
+- [Dev.to/JS] [llaala](https://dev.to/diwinters/llaala-4omn)
+- [Dev.to/JS] [MySQL](https://dev.to/jimenezfede/mysql-4fgf)
+- [Dev.to/JS] [How To Generate QR Code In Node.js](https://dev.to/techsolutionstuff/how-to-generate-qr-code-in-nodejs-583m)
+- [Dev.to/JS] [Lexicographical Rank of String-Naive Approach](https://dev.to/zeeshanali0704/lexicographical-rank-of-string-4bbc)
 - [Dev.to/JS] [Learn Redis In 15 Minutes with Real life example](https://dev.to/developerarif55/learn-redis-in-15-minutes-with-real-life-example-46il)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 6: Bytecode Generation](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-6-bytecode-generation-4ejh)
 - [Dev.to/JS] [On the Virtues of RegExp in JS](https://dev.to/sberdup/on-the-virtues-of-regexp-in-js-31gg)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A new way to ship Codemods](https://dev.to/danieldelcore/a-new-way-to-ship-codemods-4h11)
 - [Dev.to/JS] [Adding data to array list](https://dev.to/rcrack/adding-data-to-array-list-19j1)
 - [Dev.to/JS] [Top level await in JavaScript](https://dev.to/ministryofjavascript/top-level-await-in-javascript-53bj)
-- [Dev.to/JS] [TypeScript: Advanced Types](https://dev.to/vkton115/typescript-advanced-types-2lpn)
-- [Dev.to/JS] [Javascript Tagalog - Equality &amp; Strict Equality](https://dev.to/mmvergara/javascript-tagalog-equality-strict-equality-2med)
-- [Dev.to/JS] [JavaScript - How to create beautiful fireworks effects with tsParticles](https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali)
-- [Dev.to/JS] [Svelte Explained...](https://dev.to/codingmustache/svelte-explained-4e7b)
-- [Dev.to/JS] [Javascript Tagalog - For of Loop](https://dev.to/mmvergara/javascript-tagalog-for-of-loop-1898)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
