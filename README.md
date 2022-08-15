@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s the Difference Between Ales and Lagers](https://lifehacker.com/heres-the-difference-between-ales-and-lagers-1849412907)
+- [Dev.to/JS] [Default Exports vs Named Exports](https://dev.to/vladimirvovk/default-exports-vs-named-exports-2jm0)
+- [Dev.to/JS] [Different methods for handling errors in Express](https://dev.to/mazenr/different-methods-for-handling-errors-in-express-2ld)
+- [Lifehacker] [These Are the Stupidest Fees You Should Never Pay](https://lifehacker.com/these-are-the-stupidest-fees-you-should-never-pay-1849412351)
 - [Dev.to/JS] [Basic Games in JavaScript](https://dev.to/f53/basic-games-in-javascript-36b0)
 - [Lifehacker] [Make Jalapeño Popper Charcuterie Bites With Pizza Dough](https://lifehacker.com/make-jalapeno-popper-charcuterie-bites-with-pizza-dough-1849412863)
 - [Dev.to/JS] [Curious about NEXT.JS](https://dev.to/developerspruha/curious-about-nextjs-3ghb)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Things to Ease Your Kid&#39;s First-Day-of-School Jitters](https://lifehacker.com/do-these-things-to-ease-your-kids-first-day-of-school-j-1849411161)
 - [Dev.to/JS] [Version 2.10 of Foal is out!](https://dev.to/loicpoullain/version-210-of-foal-is-out-3g6p)
 - [Dev.to/JS] [JavaScript Basics - Intro](https://dev.to/zoro/javascript-basics-intro-mon)
-- [Dev.to/JS] [How to append contents to a file in Nodejs?](https://dev.to/omardulaimi/how-to-append-contents-to-a-file-in-nodejs-2fk6)
-- [Dev.to/JS] [Awesome tools for Web Developer - Part 1](https://dev.to/surajondev/awesome-tools-for-web-developer-part-1-26l9)
 - [Lifehacker] [What to Know About Recurring Headaches After COVID](https://lifehacker.com/what-to-know-about-recurring-headaches-after-covid-1849409448)
 - [Lifehacker] [20 of Horniest Erotic Thrillers Ever Made](https://lifehacker.com/20-of-horniest-erotic-thrillers-ever-made-1849400981)
 - [Lifehacker] [7 Back-to-School Mistakes Every Parent Should Avoid](https://lifehacker.com/7-back-to-school-mistakes-every-parent-should-avoid-1849407342)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Do Kettlebell Exercises Without Hurting Your Wrists](https://lifehacker.com/how-to-do-kettlebell-exercises-without-hurting-your-wri-1849406782)
 - [Lifehacker] [What Is Inheritance Theft &lpar;and How Can You Protect Your Money&rpar;?](https://lifehacker.com/what-is-inheritance-theft-and-how-can-you-protect-your-1849405396)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Did Ezra Miller Do?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1849406030)
-- [Lifehacker] [How Humidity Increases Your Risk of Heat Stroke](https://lifehacker.com/how-humidity-increases-your-risk-of-heat-stroke-1849405268)
-- [Lifehacker] [How to Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)
-- [Lifehacker] [How to Move Without Taking Roaches &lpar;and Other Pests&rpar; With You](https://lifehacker.com/how-to-move-without-taking-roaches-and-other-pests-wi-1849405257)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Humidity Increases Your Risk of Heat Stroke](https://lifehacker.com/how-humidity-increases-your-risk-of-heat-stroke-1849405268)<!-- TECH-POSTS:END -->
 
 ---
 
