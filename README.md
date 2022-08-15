@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Falsy&lpar;False&rpar; and Truthy&lpar;True&rpar; values explanation with example](https://dev.to/muhammadazfaraslam/falsyfalse-and-truthytrue-values-explanation-with-example-4470)
+- [Lifehacker] [You Should Change These Settings on Your New Windows PC](https://lifehacker.com/you-should-change-settings-on-your-new-windows-pc-1849404907)
+- [Dev.to/JS] [Let&#39;s build a modern time-on-site counter for your website with timeonsite.js and JS Beacons](https://dev.to/saleemkce/lets-build-a-modern-time-on-site-counter-for-your-website-with-timeonsitejs-and-js-beacons-2hag)
+- [Dev.to/JS] [Create a Amazing Movie Website Using HTML CSS Javascript](https://dev.to/codewithsadee/create-a-amazing-movie-website-using-html-css-javascript-28c9)
+- [Dev.to/JS] [Astro JS Mux Video: using Custom Elements](https://dev.to/askrodney/astro-js-mux-video-using-custom-elements-1gji)
+- [Dev.to/JS] [length of Longest Substring](https://dev.to/zeeshanali0704/length-of-longest-substring-51pj)
+- [Dev.to/JS] [12 Things EVERY JavaScript Developer Should Know 🕛](https://dev.to/dcodeyt/12-things-every-javascript-developer-should-know-4dk3)
 - [Dev.to/JS] [🔥Top 11 Mistakes to Avoid When Using React In 2022](https://dev.to/chris1993/top-11-mistakes-to-avoid-when-using-react-in-2022-2ca6)
 - [Dev.to/JS] [JavaScript: O Console](https://dev.to/h4ck3rtr4d3r/javascript-o-console-3l0k)
 - [Dev.to/JS] [Must-Know e.target in JavaScript Explained](https://dev.to/hirajatamil/must-know-etarget-in-javascript-explained-4e74)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍸.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-bhk)
 - [Dev.to/JS] [Implement Google OAuth in NestJS using Passport](https://dev.to/chukwutosin_/implement-google-oauth-in-nestjs-using-passport-1j3k)
 - [Dev.to/JS] [Role-based Authentication in Node Js](https://dev.to/vtechguys/role-based-authentication-in-node-js-42d7)
-- [Dev.to/JS] [Multithreading In JavaScript using Web Workers](https://dev.to/theashishmaurya/multithreading-in-javascript-using-web-workers-1fh3)
 - [Crazy Programmer] [Solve Uncaught SyntaxError: Unexpected end of JSON input](https://www.thecrazyprogrammer.com/2022/08/unexpected-end-of-json-input.html)
-- [Dev.to/JS] [12+ Best Node.js Frameworks for Web App Development in 2022](https://dev.to/flatlogic/12-best-nodejs-frameworks-for-web-app-development-in-2022-48db)
-- [Dev.to/JS] [Pushing the limits of TypeScript](https://dev.to/herbievine/pushing-the-limits-of-typescript-3916)
-- [Dev.to/JS] [Expo Barcode Scanner](https://dev.to/vtechguys/expo-barcode-scanner-7i0)
-- [Dev.to/JS] [Methods of primitive](https://dev.to/vtechguys/methods-of-primitive-1ocd)
-- [Dev.to/JS] [Loadables - a simple way to load data in React](https://dev.to/vtechguys/loadables-a-simple-way-to-load-data-in-react-15ff)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recognize &#39;Rejection Sensitive Dysphoria&#39; in Your Child](https://lifehacker.com/how-to-recognize-rejection-sensitive-dysphoria-in-your-1849398688)
 - [Lifehacker] [What Really Happens When You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-when-you-cant-pay-your-restaurant-b-1849401721)
 - [Lifehacker] [Can You Live 100% Off the Grid in a City or Suburb?](https://lifehacker.com/can-you-live-100-off-the-grid-in-a-city-or-suburb-1849400251)
-- [Lifehacker] [This Vintage Martha Stewart Recipe Makes Perfectly Easy Candied Fruit](https://lifehacker.com/this-vintage-martha-stewart-recipe-makes-perfectly-easy-1849403168)
-- [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Vintage Martha Stewart Recipe Makes Perfectly Easy Candied Fruit](https://lifehacker.com/this-vintage-martha-stewart-recipe-makes-perfectly-easy-1849403168)<!-- TECH-POSTS:END -->
 
 ---
 
