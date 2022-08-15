@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Version 2.10 of Foal is out!](https://dev.to/loicpoullain/version-210-of-foal-is-out-3g6p)
+- [Dev.to/JS] [JavaScript Basics - Intro](https://dev.to/zoro/javascript-basics-intro-mon)
+- [Dev.to/JS] [How to append contents to a file in Nodejs?](https://dev.to/omardulaimi/how-to-append-contents-to-a-file-in-nodejs-2fk6)
+- [Dev.to/JS] [Awesome tools for Web Developer - Part 1](https://dev.to/surajondev/awesome-tools-for-web-developer-part-1-26l9)
+- [Dev.to/JS] [Master JavaScript Promises - Complete Series](https://dev.to/ministryofjavascript/master-javascript-promises-complete-series-25ok)
+- [Lifehacker] [What to Know About Recurring Headaches After COVID](https://lifehacker.com/what-to-know-about-recurring-headaches-after-covid-1849409448)
+- [Dev.to/JS] [React Basics](https://dev.to/dil2010/redis-hackathon-submission-post-placeholder-title-2j)
+- [Dev.to/JS] [Good &lpar;quick&rpar; Resources to Become a Better Developer](https://dev.to/amabdev/good-quick-resources-to-be-a-better-developer-288n)
+- [Dev.to/JS] [Naive Pattern Search Method](https://dev.to/zeeshanali0704/naive-pattern-search-method-5aj7)
 - [Dev.to/JS] [Can you help me?or listen to the self-report of an ordinary junior high school student](https://dev.to/sheepbox8646/can-you-help-meor-listen-to-the-self-report-of-an-ordinary-junior-high-school-student-29oa)
+- [Lifehacker] [20 of Horniest Erotic Thrillers Ever Made](https://lifehacker.com/20-of-horniest-erotic-thrillers-ever-made-1849400981)
 - [Dev.to/JS] [Web3 Application Wallet Authentication and npm Package Solution](https://dev.to/okhai/web3-application-wallet-authentication-and-npm-package-solution-40)
 - [Dev.to/JS] [How my Frontend skills helped me pass my sailing test](https://dev.to/mihneasim/how-my-frontend-skills-helped-me-pass-my-sailing-test-39dn)
 - [Lifehacker] [7 Back-to-School Mistakes Every Parent Should Avoid](https://lifehacker.com/7-back-to-school-mistakes-every-parent-should-avoid-1849407342)
 - [Dev.to/JS] [High Pressure Delivery](https://dev.to/mrispoli24/high-pressure-delivery-423)
-- [Dev.to/JS] [I Create World-class Webflow sites for Ambitious Companies.](https://dev.to/dyacinedev/i-create-world-class-webflow-sites-for-ambitious-companies-524h)
-- [Dev.to/JS] [Building a chat app with Socket.io and React 🚀](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-2edj)
-- [Dev.to/JS] [The Power of Reduce](https://dev.to/seanniehus/the-powers-of-reduce-12cf)
 - [Lifehacker] [Use More White Balsamic Vinegar](https://lifehacker.com/use-more-white-balsamic-vinegar-1849406097)
-- [Dev.to/JS] [Popup Questioner /?](https://dev.to/sameerahmed123/popup-questioner--gh6)
 - [Lifehacker] [Don&#39;t Use In-App Browsers for Anything Important](https://lifehacker.com/dont-use-in-app-browsers-for-anything-important-1849401900)
-- [Dev.to/JS] [Scroll Animation | JavaScript](https://dev.to/robsonmuniz16/scroll-animation-javascript-10k2)
-- [Dev.to/JS] [How i setup neovim for speed up React, Js, Ts, etc](https://dev.to/rennarufuij/how-i-setup-neovim-for-speed-up-react-js-ts-etc-3d9b)
-- [Dev.to/JS] [Let&#39;s talk about Typescript](https://dev.to/ianmcbull/lets-talk-about-typescript-451f)
-- [Dev.to/JS] [Falsy&lpar;False&rpar; and Truthy&lpar;True&rpar; values explanation with example](https://dev.to/muhammadazfaraslam/falsyfalse-and-truthytrue-values-explanation-with-example-4470)
 - [Lifehacker] [You Should Change These Settings on Your New Windows PC](https://lifehacker.com/you-should-change-settings-on-your-new-windows-pc-1849404907)
 - [Crazy Programmer] [Solve Uncaught SyntaxError: Unexpected end of JSON input](https://www.thecrazyprogrammer.com/2022/08/unexpected-end-of-json-input.html)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Social Media Is Lying to You About Antidepressants](https://lifehacker.com/social-media-is-lying-to-you-about-antidepressants-1849404119)
 - [Lifehacker] [How to Choose Between Paying for a Flight With Cash or Miles](https://lifehacker.com/how-to-choose-between-paying-for-a-flight-with-cash-or-1849404623)
 - [Lifehacker] [&#39;The Rehearsal,&#39; and 13 Other Movies and Shows That Bend Reality](https://lifehacker.com/the-rehearsal-and-13-other-movies-and-shows-that-bend-1849403508)
-- [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)
-- [Lifehacker] [How to Fire Someone Without Being a Total Dick](https://lifehacker.com/how-to-fire-someone-without-being-a-total-dick-1849402722)
-- [Lifehacker] [How to Recognize &#39;Rejection Sensitive Dysphoria&#39; in Your Child](https://lifehacker.com/how-to-recognize-rejection-sensitive-dysphoria-in-your-1849398688)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)<!-- TECH-POSTS:END -->
 
 ---
 
