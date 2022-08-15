@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to React Hooks 🪝](https://dev.to/ksowah/introduction-to-react-hooks-5bg4)
+- [Dev.to/JS] [Palindrome Checker FCC Solution](https://dev.to/michaelx/palindrome-checker-fcc-solution-4j2)
 - [Dev.to/JS] [Best Programming Languages to Learn for Beginners](https://dev.to/tmchuynh/best-programming-languages-to-learn-for-beginners-40ki)
 - [Dev.to/JS] [foreach vs map in JavaScript](https://dev.to/ministryofjavascript/foreach-vs-map-in-javascript-3kej)
 - [Dev.to/JS] [Copy to clipboard in JavaScript](https://dev.to/ministryofjavascript/copy-to-clipboard-in-javascript-17f8)
@@ -31,7 +33,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
 - [Lifehacker] [How to Coach Your References to Help You Land a Job, According to an HR Expert](https://lifehacker.com/how-to-coach-your-references-to-help-you-land-a-job-1849413722)
-- [Dev.to/JS] [How to Create a Todo List App](https://dev.to/anthonys1760/create-a-todo-list-app-1gd5)
 - [Dev.to/JS] [Javascript Snake Game](https://dev.to/rembertdesigns/javascript-snake-game-247g)
 - [Lifehacker] [What Is Dependent Personality Disorder &lpar;and Can It Ruin Your Relationship&rpar;?](https://lifehacker.com/what-is-dependent-personality-disorder-and-can-it-ruin-1849413537)
 - [Lifehacker] [Here&#39;s the Difference Between Ales and Lagers](https://lifehacker.com/heres-the-difference-between-ales-and-lagers-1849412907)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Jalapeño Popper Charcuterie Bites With Pizza Dough](https://lifehacker.com/make-jalapeno-popper-charcuterie-bites-with-pizza-dough-1849412863)
 - [Dev.to/JS] [Curious about NEXT.JS](https://dev.to/developerspruha/curious-about-nextjs-3ghb)
 - [Dev.to/JS] [🚀 Just launched a new scalable cloud graph database! Any feedback/users/testers appreciated!](https://dev.to/jaimemh/just-launched-a-new-scalable-cloud-graph-database-any-feedbackuserstesters-appreciated-2ce1)
-- [Dev.to/JS] [Build a Flashcard quiz with React](https://dev.to/gbadeboife/build-a-flashcard-quiz-with-react-49gi)
 - [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)
 - [Lifehacker] [Finally Silence Your Squeaky Bed](https://lifehacker.com/finally-silence-your-squeaky-bed-1849407166)
 - [Lifehacker] [Do These Things to Ease Your Kid&#39;s First-Day-of-School Jitters](https://lifehacker.com/do-these-things-to-ease-your-kids-first-day-of-school-j-1849411161)
