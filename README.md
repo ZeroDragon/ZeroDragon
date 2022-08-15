@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I built my own Front-end Library/Language, you should too..](https://dev.to/sfundomhlungu/i-built-my-own-front-end-librarylanguage-you-should-too-3lh8)
+- [Dev.to/JS] [Reflections: Take care when adding dependencies](https://dev.to/jwwnz/reflections-take-care-when-adding-dependencies-3c0b)
+- [Dev.to/JS] [Writing integration tests for Next.js, next-auth, Prisma using Playwright and msw](https://dev.to/kuroski/writing-integration-tests-for-nextjs-next-auth-prisma-using-playwright-and-msw-388m)
+- [Dev.to/JS] [React: Smoothly move the seconds hand of the analog clock](https://dev.to/syeo66/react-smoothly-move-the-seconds-hand-of-the-analog-click-hji)
 - [Dev.to/JS] [Job Announcement Website: Reading Post Items](https://dev.to/sokhavuth/job-announcement-website-reading-post-items-1iko)
 - [Dev.to/JS] [Typescript Series - Pick Utility Type](https://dev.to/sarmunbustillo/typescript-series-pick-utility-type-46c0)
 - [Dev.to/JS] [Dynamic remotes with ModuleFederation](https://dev.to/w3nda/dynamic-remotes-with-modulefederation-67f)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Eliminate Circular Dependencies With Layered Modular Architecture](https://dev.to/ashkanmohammadi/eliminate-circular-dependencies-with-layered-modular-architecture-32gn)
 - [Dev.to/JS] [Holding values into memory.!](https://dev.to/sedrickparker1/holding-values-into-memory-3i60)
 - [Dev.to/JS] [Why we CODE?](https://dev.to/devvsakib/why-we-code-522h)
-- [Dev.to/JS] [Sort array of JSON object by key value easily with JavaScript](https://dev.to/slimpython/sort-array-of-json-object-by-key-value-easily-with-javascript-3hke)
-- [Dev.to/JS] [Meta-Frameworks Roll Out](https://dev.to/mihar22/meta-frameworks-roll-out-4jng)
-- [Dev.to/JS] [Button Component in React-js &lpar;All in one&rpar;](https://dev.to/uidesign09/button-component-in-react-js-all-in-one-2odd)
-- [Dev.to/JS] [llaala](https://dev.to/diwinters/llaala-4omn)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
