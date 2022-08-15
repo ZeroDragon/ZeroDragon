@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can you help me?or listen to the self-report of an ordinary junior high school student](https://dev.to/sheepbox8646/can-you-help-meor-listen-to-the-self-report-of-an-ordinary-junior-high-school-student-29oa)
+- [Dev.to/JS] [Web3 Application Wallet Authentication and npm Package Solution](https://dev.to/okhai/web3-application-wallet-authentication-and-npm-package-solution-40)
+- [Dev.to/JS] [How my Frontend skills helped me pass my sailing test](https://dev.to/mihneasim/how-my-frontend-skills-helped-me-pass-my-sailing-test-39dn)
+- [Lifehacker] [7 Back-to-School Mistakes Every Parent Should Avoid](https://lifehacker.com/7-back-to-school-mistakes-every-parent-should-avoid-1849407342)
+- [Dev.to/JS] [High Pressure Delivery](https://dev.to/mrispoli24/high-pressure-delivery-423)
+- [Dev.to/JS] [I Create World-class Webflow sites for Ambitious Companies.](https://dev.to/dyacinedev/i-create-world-class-webflow-sites-for-ambitious-companies-524h)
+- [Dev.to/JS] [Building a chat app with Socket.io and React 🚀](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-2edj)
+- [Dev.to/JS] [The Power of Reduce](https://dev.to/seanniehus/the-powers-of-reduce-12cf)
 - [Lifehacker] [Use More White Balsamic Vinegar](https://lifehacker.com/use-more-white-balsamic-vinegar-1849406097)
 - [Dev.to/JS] [Popup Questioner /?](https://dev.to/sameerahmed123/popup-questioner--gh6)
 - [Lifehacker] [Don&#39;t Use In-App Browsers for Anything Important](https://lifehacker.com/dont-use-in-app-browsers-for-anything-important-1849401900)
@@ -31,13 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s talk about Typescript](https://dev.to/ianmcbull/lets-talk-about-typescript-451f)
 - [Dev.to/JS] [Falsy&lpar;False&rpar; and Truthy&lpar;True&rpar; values explanation with example](https://dev.to/muhammadazfaraslam/falsyfalse-and-truthytrue-values-explanation-with-example-4470)
 - [Lifehacker] [You Should Change These Settings on Your New Windows PC](https://lifehacker.com/you-should-change-settings-on-your-new-windows-pc-1849404907)
-- [Dev.to/JS] [Let&#39;s build a modern time-on-site counter for your website with timeonsite.js and JS Beacons](https://dev.to/saleemkce/lets-build-a-modern-time-on-site-counter-for-your-website-with-timeonsitejs-and-js-beacons-2hag)
-- [Dev.to/JS] [Create a Amazing Movie Website Using HTML CSS Javascript](https://dev.to/codewithsadee/create-a-amazing-movie-website-using-html-css-javascript-28c9)
-- [Dev.to/JS] [Astro JS Mux Video: using Custom Elements](https://dev.to/askrodney/astro-js-mux-video-using-custom-elements-1gji)
-- [Dev.to/JS] [length of Longest Substring](https://dev.to/zeeshanali0704/length-of-longest-substring-51pj)
-- [Dev.to/JS] [12 Things EVERY JavaScript Developer Should Know 🕛](https://dev.to/dcodeyt/12-things-every-javascript-developer-should-know-4dk3)
-- [Dev.to/JS] [🔥Top 11 Mistakes to Avoid When Using React In 2022](https://dev.to/chris1993/top-11-mistakes-to-avoid-when-using-react-in-2022-2ca6)
-- [Dev.to/JS] [JavaScript: O Console](https://dev.to/h4ck3rtr4d3r/javascript-o-console-3l0k)
 - [Crazy Programmer] [Solve Uncaught SyntaxError: Unexpected end of JSON input](https://www.thecrazyprogrammer.com/2022/08/unexpected-end-of-json-input.html)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;The Rehearsal,&#39; and 13 Other Movies and Shows That Bend Reality](https://lifehacker.com/the-rehearsal-and-13-other-movies-and-shows-that-bend-1849403508)
 - [Lifehacker] [Why You Should Freeze Your Water Bottles at an Angle](https://lifehacker.com/why-you-should-freeze-your-water-bottles-at-an-angle-1849400398)
 - [Lifehacker] [How to Fire Someone Without Being a Total Dick](https://lifehacker.com/how-to-fire-someone-without-being-a-total-dick-1849402722)
-- [Lifehacker] [How to Recognize &#39;Rejection Sensitive Dysphoria&#39; in Your Child](https://lifehacker.com/how-to-recognize-rejection-sensitive-dysphoria-in-your-1849398688)
-- [Lifehacker] [What Really Happens When You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-when-you-cant-pay-your-restaurant-b-1849401721)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Recognize &#39;Rejection Sensitive Dysphoria&#39; in Your Child](https://lifehacker.com/how-to-recognize-rejection-sensitive-dysphoria-in-your-1849398688)<!-- TECH-POSTS:END -->
 
 ---
 
