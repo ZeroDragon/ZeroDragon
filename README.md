@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Programming Languages to Learn for Beginners](https://dev.to/tmchuynh/best-programming-languages-to-learn-for-beginners-40ki)
+- [Dev.to/JS] [foreach vs map in JavaScript](https://dev.to/ministryofjavascript/foreach-vs-map-in-javascript-3kej)
+- [Dev.to/JS] [Copy to clipboard in JavaScript](https://dev.to/ministryofjavascript/copy-to-clipboard-in-javascript-17f8)
+- [Dev.to/JS] [NFTs explained:](https://dev.to/oneknucklehead/nfts-explained-3n4o)
+- [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
 - [Lifehacker] [How to Coach Your References to Help You Land a Job, According to an HR Expert](https://lifehacker.com/how-to-coach-your-references-to-help-you-land-a-job-1849413722)
@@ -39,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Just launched a new scalable cloud graph database! Any feedback/users/testers appreciated!](https://dev.to/jaimemh/just-launched-a-new-scalable-cloud-graph-database-any-feedbackuserstesters-appreciated-2ce1)
 - [Dev.to/JS] [Build a Flashcard quiz with React](https://dev.to/gbadeboife/build-a-flashcard-quiz-with-react-49gi)
 - [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)
-- [Dev.to/JS] [Open-source for beginners](https://dev.to/sadeedpv/open-source-for-beginners-2326)
-- [Dev.to/JS] [javaScript?.Fundamentals](https://dev.to/acobbina717/javascript-fundamentals-4p8h)
-- [Dev.to/JS] [Introducing Authorizer 1.0](https://dev.to/lakhansamani/introducing-authorizer-10-j3)
 - [Lifehacker] [Finally Silence Your Squeaky Bed](https://lifehacker.com/finally-silence-your-squeaky-bed-1849407166)
-- [Dev.to/JS] [Javascript Callback functions &amp; Promises](https://dev.to/rizways/javascript-callback-functions-promises-17lp)
 - [Lifehacker] [Do These Things to Ease Your Kid&#39;s First-Day-of-School Jitters](https://lifehacker.com/do-these-things-to-ease-your-kids-first-day-of-school-j-1849411161)
 - [Lifehacker] [What to Know About Recurring Headaches After COVID](https://lifehacker.com/what-to-know-about-recurring-headaches-after-covid-1849409448)
 - [Lifehacker] [20 of Horniest Erotic Thrillers Ever Made](https://lifehacker.com/20-of-horniest-erotic-thrillers-ever-made-1849400981)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
-- [Lifehacker] [How to Change Careers, According to Former NFL Receiver Nate Burleson](https://lifehacker.com/how-to-change-careers-according-to-former-nfl-receiver-1849406998)
-- [Lifehacker] [How to Really Tell If Your Headphone Volume Is Destroying Your Ears](https://lifehacker.com/how-to-really-tell-if-your-headphone-volume-is-destroyi-1849406930)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Change Careers, According to Former NFL Receiver Nate Burleson](https://lifehacker.com/how-to-change-careers-according-to-former-nfl-receiver-1849406998)<!-- TECH-POSTS:END -->
 
 ---
 
