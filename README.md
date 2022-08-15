@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔥Top 11 Mistakes to Avoid When Using React In 2022](https://dev.to/chris1993/top-11-mistakes-to-avoid-when-using-react-in-2022-2ca6)
+- [Dev.to/JS] [JavaScript: O Console](https://dev.to/h4ck3rtr4d3r/javascript-o-console-3l0k)
+- [Dev.to/JS] [Must-Know e.target in JavaScript Explained](https://dev.to/hirajatamil/must-know-etarget-in-javascript-explained-4e74)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍸.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-bhk)
+- [Dev.to/JS] [Implement Google OAuth in NestJS using Passport](https://dev.to/chukwutosin_/implement-google-oauth-in-nestjs-using-passport-1j3k)
+- [Dev.to/JS] [Role-based Authentication in Node Js](https://dev.to/vtechguys/role-based-authentication-in-node-js-42d7)
 - [Dev.to/JS] [Multithreading In JavaScript using Web Workers](https://dev.to/theashishmaurya/multithreading-in-javascript-using-web-workers-1fh3)
 - [Crazy Programmer] [Solve Uncaught SyntaxError: Unexpected end of JSON input](https://www.thecrazyprogrammer.com/2022/08/unexpected-end-of-json-input.html)
 - [Dev.to/JS] [12+ Best Node.js Frameworks for Web App Development in 2022](https://dev.to/flatlogic/12-best-nodejs-frameworks-for-web-app-development-in-2022-48db)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Expo Barcode Scanner](https://dev.to/vtechguys/expo-barcode-scanner-7i0)
 - [Dev.to/JS] [Methods of primitive](https://dev.to/vtechguys/methods-of-primitive-1ocd)
 - [Dev.to/JS] [Loadables - a simple way to load data in React](https://dev.to/vtechguys/loadables-a-simple-way-to-load-data-in-react-15ff)
-- [Dev.to/JS] [Javascript: Array Methods | Mutating vs Non-Mutating](https://dev.to/vtechguys/javascript-array-methods-mutating-vs-non-mutating-1n2p)
-- [Dev.to/JS] [CSS: Isolation vs Abstraction](https://dev.to/vtechguys/css-isolation-vs-abstraction-4543)
-- [Dev.to/JS] [Why CSS-in-JS?](https://dev.to/vtechguys/why-css-in-js-4e2o)
-- [Dev.to/JS] [Build your own emotion like CSS-in-JS library.](https://dev.to/vtechguys/build-your-own-emotion-like-css-in-js-library-1529)
-- [Dev.to/JS] [Image Search 🔍](https://dev.to/mahich123/image-search-aka)
-- [Dev.to/JS] [I built my own Front-end Library/Language, you should too..](https://dev.to/sfundomhlungu/i-built-my-own-front-end-librarylanguage-you-should-too-3lh8)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
