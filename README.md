@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multithreading In JavaScript using Web Workers](https://dev.to/theashishmaurya/multithreading-in-javascript-using-web-workers-1fh3)
+- [Crazy Programmer] [Solve Uncaught SyntaxError: Unexpected end of JSON input](https://www.thecrazyprogrammer.com/2022/08/unexpected-end-of-json-input.html)
+- [Dev.to/JS] [12+ Best Node.js Frameworks for Web App Development in 2022](https://dev.to/flatlogic/12-best-nodejs-frameworks-for-web-app-development-in-2022-48db)
 - [Dev.to/JS] [Pushing the limits of TypeScript](https://dev.to/herbievine/pushing-the-limits-of-typescript-3916)
 - [Dev.to/JS] [Expo Barcode Scanner](https://dev.to/vtechguys/expo-barcode-scanner-7i0)
 - [Dev.to/JS] [Methods of primitive](https://dev.to/vtechguys/methods-of-primitive-1ocd)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build your own emotion like CSS-in-JS library.](https://dev.to/vtechguys/build-your-own-emotion-like-css-in-js-library-1529)
 - [Dev.to/JS] [Image Search 🔍](https://dev.to/mahich123/image-search-aka)
 - [Dev.to/JS] [I built my own Front-end Library/Language, you should too..](https://dev.to/sfundomhlungu/i-built-my-own-front-end-librarylanguage-you-should-too-3lh8)
-- [Dev.to/JS] [Reflections: Take care when adding dependencies](https://dev.to/jwwnz/reflections-take-care-when-adding-dependencies-3c0b)
-- [Dev.to/JS] [Writing tests for Next.js, next-auth, Prisma using Playwright and msw](https://dev.to/kuroski/writing-integration-tests-for-nextjs-next-auth-prisma-using-playwright-and-msw-388m)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Really Happens When You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-when-you-cant-pay-your-restaurant-b-1849401721)
 - [Lifehacker] [Can You Live 100% Off the Grid in a City or Suburb?](https://lifehacker.com/can-you-live-100-off-the-grid-in-a-city-or-suburb-1849400251)
 - [Lifehacker] [This Vintage Martha Stewart Recipe Makes Perfectly Easy Candied Fruit](https://lifehacker.com/this-vintage-martha-stewart-recipe-makes-perfectly-easy-1849403168)
-- [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)
-- [Lifehacker] [Nearly 1.4 Million of These Power Tools Are Part of a Massive Recall](https://lifehacker.com/nearly-1-4-million-of-these-power-tools-are-part-of-a-m-1849401340)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Mac Tips Make Everyday Tasks Faster](https://lifehacker.com/these-mac-tips-make-everyday-tasks-faster-1849386855)<!-- TECH-POSTS:END -->
 
 ---
 
