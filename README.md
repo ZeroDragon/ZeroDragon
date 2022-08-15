@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Coach Your References to Help You Land a Job, According to an HR Expert](https://lifehacker.com/how-to-coach-your-references-to-help-you-land-a-job-1849413722)
+- [Dev.to/JS] [How to Create a Todo List App](https://dev.to/anthonys1760/create-a-todo-list-app-1gd5)
+- [Dev.to/JS] [Javascript Snake Game](https://dev.to/rembertdesigns/javascript-snake-game-247g)
+- [Lifehacker] [What Is Dependent Personality Disorder &lpar;and Can It Ruin Your Relationship&rpar;?](https://lifehacker.com/what-is-dependent-personality-disorder-and-can-it-ruin-1849413537)
 - [Lifehacker] [Here&#39;s the Difference Between Ales and Lagers](https://lifehacker.com/heres-the-difference-between-ales-and-lagers-1849412907)
 - [Dev.to/JS] [Default Exports vs Named Exports](https://dev.to/vladimirvovk/default-exports-vs-named-exports-2jm0)
 - [Dev.to/JS] [Different methods for handling errors in Express](https://dev.to/mazenr/different-methods-for-handling-errors-in-express-2ld)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Finally Silence Your Squeaky Bed](https://lifehacker.com/finally-silence-your-squeaky-bed-1849407166)
 - [Dev.to/JS] [Javascript Callback functions &amp; Promises](https://dev.to/rizways/javascript-callback-functions-promises-17lp)
 - [Lifehacker] [Do These Things to Ease Your Kid&#39;s First-Day-of-School Jitters](https://lifehacker.com/do-these-things-to-ease-your-kids-first-day-of-school-j-1849411161)
-- [Dev.to/JS] [Version 2.10 of Foal is out!](https://dev.to/loicpoullain/version-210-of-foal-is-out-3g6p)
-- [Dev.to/JS] [JavaScript Basics - Intro](https://dev.to/zoro/javascript-basics-intro-mon)
 - [Lifehacker] [What to Know About Recurring Headaches After COVID](https://lifehacker.com/what-to-know-about-recurring-headaches-after-covid-1849409448)
 - [Lifehacker] [20 of Horniest Erotic Thrillers Ever Made](https://lifehacker.com/20-of-horniest-erotic-thrillers-ever-made-1849400981)
 - [Lifehacker] [7 Back-to-School Mistakes Every Parent Should Avoid](https://lifehacker.com/7-back-to-school-mistakes-every-parent-should-avoid-1849407342)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Change Careers, According to Former NFL Receiver Nate Burleson](https://lifehacker.com/how-to-change-careers-according-to-former-nfl-receiver-1849406998)
 - [Lifehacker] [How to Really Tell If Your Headphone Volume Is Destroying Your Ears](https://lifehacker.com/how-to-really-tell-if-your-headphone-volume-is-destroyi-1849406930)
 - [Lifehacker] [How to Do Kettlebell Exercises Without Hurting Your Wrists](https://lifehacker.com/how-to-do-kettlebell-exercises-without-hurting-your-wri-1849406782)
-- [Lifehacker] [What Is Inheritance Theft &lpar;and How Can You Protect Your Money&rpar;?](https://lifehacker.com/what-is-inheritance-theft-and-how-can-you-protect-your-1849405396)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Did Ezra Miller Do?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1849406030)
-- [Lifehacker] [How Humidity Increases Your Risk of Heat Stroke](https://lifehacker.com/how-humidity-increases-your-risk-of-heat-stroke-1849405268)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is Inheritance Theft &lpar;and How Can You Protect Your Money&rpar;?](https://lifehacker.com/what-is-inheritance-theft-and-how-can-you-protect-your-1849405396)<!-- TECH-POSTS:END -->
 
 ---
 
