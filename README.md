@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding data to array list](https://dev.to/rcrack/adding-data-to-array-list-19j1)
+- [Dev.to/JS] [Top level await in JavaScript](https://dev.to/ministryofjavascript/top-level-await-in-javascript-53bj)
+- [Dev.to/JS] [TypeScript: Advanced Types](https://dev.to/vkton115/typescript-advanced-types-2lpn)
+- [Dev.to/JS] [Javascript Tagalog - Equality &amp; Strict Equality](https://dev.to/mmvergara/javascript-tagalog-equality-strict-equality-2med)
+- [Dev.to/JS] [JavaScript - How to create beautiful fireworks effects with tsParticles](https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali)
 - [Dev.to/JS] [Svelte Explained...](https://dev.to/codingmustache/svelte-explained-4e7b)
 - [Dev.to/JS] [Javascript Tagalog - For of Loop](https://dev.to/mmvergara/javascript-tagalog-for-of-loop-1898)
 - [Dev.to/JS] [Protected Symbol Fields](https://dev.to/jcbhmr/symbols-for-protected-fields-2jj2)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Master async await in JavaScript](https://dev.to/ministryofjavascript/master-async-await-in-javascript-54pa)
 - [Dev.to/JS] [What is optional chaining &lpar;?.&rpar; in JavaScript](https://dev.to/ministryofjavascript/what-is-optional-chaining-in-javascript-16io)
 - [Dev.to/JS] [Master factory functions in JavaScript](https://dev.to/ministryofjavascript/master-factory-functions-in-javascript-e8o)
-- [Dev.to/JS] [Master dynamic import in JavaScript](https://dev.to/ministryofjavascript/master-dynamic-import-in-javascript-4d00)
-- [Dev.to/JS] [Why useState hook returns array and not object? Let&#39;s create a custom hook to see](https://dev.to/rem0nfawzi/why-usestate-hook-returns-array-and-not-object-lets-create-a-custom-hook-to-see-514n)
-- [Dev.to/JS] [Node.js TypeScript monorepo via NPM workspaces](https://dev.to/davidszabo97/nodejs-typescript-monorepo-via-npm-workspaces-4fi3)
-- [Dev.to/JS] [How to Self Host your own Website Analytics With Umami](https://dev.to/sachinchaurasiya/how-to-self-host-your-own-website-analytics-with-umami-co9)
-- [Dev.to/JS] [Avoiding useEffect with callback refs](https://dev.to/tkdodo/avoiding-useeffect-with-callback-refs-2462)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
