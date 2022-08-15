@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte Explained...](https://dev.to/codingmustache/svelte-explained-4e7b)
+- [Dev.to/JS] [Javascript Tagalog - For of Loop](https://dev.to/mmvergara/javascript-tagalog-for-of-loop-1898)
+- [Dev.to/JS] [Protected Symbol Fields](https://dev.to/jcbhmr/symbols-for-protected-fields-2jj2)
+- [Dev.to/JS] [Javascript Tagalog - Alert](https://dev.to/mmvergara/javascript-tagalog-alert-5a98)
 - [Dev.to/JS] [Master async await in JavaScript](https://dev.to/ministryofjavascript/master-async-await-in-javascript-54pa)
 - [Dev.to/JS] [What is optional chaining &lpar;?.&rpar; in JavaScript](https://dev.to/ministryofjavascript/what-is-optional-chaining-in-javascript-16io)
 - [Dev.to/JS] [Master factory functions in JavaScript](https://dev.to/ministryofjavascript/master-factory-functions-in-javascript-e8o)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js TypeScript monorepo via NPM workspaces](https://dev.to/davidszabo97/nodejs-typescript-monorepo-via-npm-workspaces-4fi3)
 - [Dev.to/JS] [How to Self Host your own Website Analytics With Umami](https://dev.to/sachinchaurasiya/how-to-self-host-your-own-website-analytics-with-umami-co9)
 - [Dev.to/JS] [Avoiding useEffect with callback refs](https://dev.to/tkdodo/avoiding-useeffect-with-callback-refs-2462)
-- [Dev.to/JS] [What is the best way to read directories in Nodejs?](https://dev.to/omardulaimi/what-is-the-best-way-to-read-directories-in-nodejs-3le2)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
-- [Dev.to/JS] [Building a simple TikTok scraping API 🤖](https://dev.to/bryce/building-a-simple-tiktok-scraping-api-4mcl)
-- [Dev.to/JS] [Top 6 Github Repos for JavaScript Developers...](https://dev.to/keshavgbpecdel/top-6-github-repos-for-javascript-developers-2d1)
-- [Dev.to/JS] [TypeScript: Typing React useRef hook](https://dev.to/clarity89/typescript-typing-react-useref-hook-3knh)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
