@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
+- [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
 - [Lifehacker] [How to Coach Your References to Help You Land a Job, According to an HR Expert](https://lifehacker.com/how-to-coach-your-references-to-help-you-land-a-job-1849413722)
 - [Dev.to/JS] [How to Create a Todo List App](https://dev.to/anthonys1760/create-a-todo-list-app-1gd5)
 - [Dev.to/JS] [Javascript Snake Game](https://dev.to/rembertdesigns/javascript-snake-game-247g)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
 - [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)
 - [Lifehacker] [How to Change Careers, According to Former NFL Receiver Nate Burleson](https://lifehacker.com/how-to-change-careers-according-to-former-nfl-receiver-1849406998)
-- [Lifehacker] [How to Really Tell If Your Headphone Volume Is Destroying Your Ears](https://lifehacker.com/how-to-really-tell-if-your-headphone-volume-is-destroyi-1849406930)
-- [Lifehacker] [How to Do Kettlebell Exercises Without Hurting Your Wrists](https://lifehacker.com/how-to-do-kettlebell-exercises-without-hurting-your-wri-1849406782)
-- [Lifehacker] [What Is Inheritance Theft &lpar;and How Can You Protect Your Money&rpar;?](https://lifehacker.com/what-is-inheritance-theft-and-how-can-you-protect-your-1849405396)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Really Tell If Your Headphone Volume Is Destroying Your Ears](https://lifehacker.com/how-to-really-tell-if-your-headphone-volume-is-destroyi-1849406930)<!-- TECH-POSTS:END -->
 
 ---
 
