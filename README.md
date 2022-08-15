@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basic Games in JavaScript](https://dev.to/f53/basic-games-in-javascript-36b0)
+- [Lifehacker] [Make Jalapeño Popper Charcuterie Bites With Pizza Dough](https://lifehacker.com/make-jalapeno-popper-charcuterie-bites-with-pizza-dough-1849412863)
+- [Dev.to/JS] [Curious about NEXT.JS](https://dev.to/developerspruha/curious-about-nextjs-3ghb)
+- [Dev.to/JS] [🚀 Just launched a new scalable cloud graph database! Any feedback/users/testers appreciated!](https://dev.to/jaimemh/just-launched-a-new-scalable-cloud-graph-database-any-feedbackuserstesters-appreciated-2ce1)
+- [Dev.to/JS] [Build a Flashcard quiz with React](https://dev.to/gbadeboife/build-a-flashcard-quiz-with-react-49gi)
 - [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)
 - [Dev.to/JS] [Open-source for beginners](https://dev.to/sadeedpv/open-source-for-beginners-2326)
 - [Dev.to/JS] [javaScript?.Fundamentals](https://dev.to/acobbina717/javascript-fundamentals-4p8h)
@@ -34,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Basics - Intro](https://dev.to/zoro/javascript-basics-intro-mon)
 - [Dev.to/JS] [How to append contents to a file in Nodejs?](https://dev.to/omardulaimi/how-to-append-contents-to-a-file-in-nodejs-2fk6)
 - [Dev.to/JS] [Awesome tools for Web Developer - Part 1](https://dev.to/surajondev/awesome-tools-for-web-developer-part-1-26l9)
-- [Dev.to/JS] [Master JavaScript Promises - Complete Series](https://dev.to/ministryofjavascript/master-javascript-promises-complete-series-25ok)
 - [Lifehacker] [What to Know About Recurring Headaches After COVID](https://lifehacker.com/what-to-know-about-recurring-headaches-after-covid-1849409448)
-- [Dev.to/JS] [React Basics](https://dev.to/dil2010/redis-hackathon-submission-post-placeholder-title-2j)
-- [Dev.to/JS] [Good &lpar;quick&rpar; Resources to Become a Better Developer](https://dev.to/amabdev/good-quick-resources-to-be-a-better-developer-288n)
-- [Dev.to/JS] [Naive Pattern Search Method](https://dev.to/zeeshanali0704/naive-pattern-search-method-5aj7)
 - [Lifehacker] [20 of Horniest Erotic Thrillers Ever Made](https://lifehacker.com/20-of-horniest-erotic-thrillers-ever-made-1849400981)
 - [Lifehacker] [7 Back-to-School Mistakes Every Parent Should Avoid](https://lifehacker.com/7-back-to-school-mistakes-every-parent-should-avoid-1849407342)
 - [Lifehacker] [Use More White Balsamic Vinegar](https://lifehacker.com/use-more-white-balsamic-vinegar-1849406097)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Did Ezra Miller Do?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1849406030)
 - [Lifehacker] [How Humidity Increases Your Risk of Heat Stroke](https://lifehacker.com/how-humidity-increases-your-risk-of-heat-stroke-1849405268)
 - [Lifehacker] [How to Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)
-- [Lifehacker] [How to Move Without Taking Roaches &lpar;and Other Pests&rpar; With You](https://lifehacker.com/how-to-move-without-taking-roaches-and-other-pests-wi-1849405257)
-- [Lifehacker] [Social Media Is Lying to You About Antidepressants](https://lifehacker.com/social-media-is-lying-to-you-about-antidepressants-1849404119)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Move Without Taking Roaches &lpar;and Other Pests&rpar; With You](https://lifehacker.com/how-to-move-without-taking-roaches-and-other-pests-wi-1849405257)<!-- TECH-POSTS:END -->
 
 ---
 
