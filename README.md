@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why we CODE?](https://dev.to/devvsakib/why-we-code-522h)
 - [Dev.to/JS] [Sort array of JSON object by key value easily with JavaScript](https://dev.to/slimpython/sort-array-of-json-object-by-key-value-easily-with-javascript-3hke)
 - [Dev.to/JS] [Meta-Frameworks Roll Out](https://dev.to/mihar22/meta-frameworks-roll-out-4jng)
 - [Dev.to/JS] [Button Component in React-js &lpar;All in one&rpar;](https://dev.to/uidesign09/button-component-in-react-js-all-in-one-2odd)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 6: Bytecode Generation](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-6-bytecode-generation-4ejh)
 - [Dev.to/JS] [On the Virtues of RegExp in JS](https://dev.to/sberdup/on-the-virtues-of-regexp-in-js-31gg)
 - [Dev.to/JS] [A light react table package](https://dev.to/barzin144/a-light-react-table-package-1888)
-- [Dev.to/JS] [A new way to ship Codemods](https://dev.to/danieldelcore/a-new-way-to-ship-codemods-4h11)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
