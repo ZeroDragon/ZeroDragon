@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A light react table package](https://dev.to/barzin144/a-light-react-table-package-1888)
+- [Dev.to/JS] [A new way to ship Codemods](https://dev.to/danieldelcore/a-new-way-to-ship-codemods-4h11)
 - [Dev.to/JS] [Adding data to array list](https://dev.to/rcrack/adding-data-to-array-list-19j1)
 - [Dev.to/JS] [Top level await in JavaScript](https://dev.to/ministryofjavascript/top-level-await-in-javascript-53bj)
 - [Dev.to/JS] [TypeScript: Advanced Types](https://dev.to/vkton115/typescript-advanced-types-2lpn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Protected Symbol Fields](https://dev.to/jcbhmr/symbols-for-protected-fields-2jj2)
 - [Dev.to/JS] [Javascript Tagalog - Alert](https://dev.to/mmvergara/javascript-tagalog-alert-5a98)
 - [Dev.to/JS] [Master async await in JavaScript](https://dev.to/ministryofjavascript/master-async-await-in-javascript-54pa)
-- [Dev.to/JS] [What is optional chaining &lpar;?.&rpar; in JavaScript](https://dev.to/ministryofjavascript/what-is-optional-chaining-in-javascript-16io)
-- [Dev.to/JS] [Master factory functions in JavaScript](https://dev.to/ministryofjavascript/master-factory-functions-in-javascript-e8o)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
