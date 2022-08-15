@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Job Announcement Website: Reading Post Items](https://dev.to/sokhavuth/job-announcement-website-reading-post-items-1iko)
 - [Dev.to/JS] [Typescript Series - Pick Utility Type](https://dev.to/sarmunbustillo/typescript-series-pick-utility-type-46c0)
 - [Dev.to/JS] [Dynamic remotes with ModuleFederation](https://dev.to/w3nda/dynamic-remotes-with-modulefederation-67f)
 - [Dev.to/JS] [Lexicographical Rank of String- Efficient Approach](https://dev.to/zeeshanali0704/lexicographical-rank-of-string-efficient-approach-305i)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meta-Frameworks Roll Out](https://dev.to/mihar22/meta-frameworks-roll-out-4jng)
 - [Dev.to/JS] [Button Component in React-js &lpar;All in one&rpar;](https://dev.to/uidesign09/button-component-in-react-js-all-in-one-2odd)
 - [Dev.to/JS] [llaala](https://dev.to/diwinters/llaala-4omn)
-- [Dev.to/JS] [MySQL](https://dev.to/jimenezfede/mysql-4fgf)
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
