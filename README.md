@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using a mock server with Cypress](https://dev.to/javierbrea/using-a-mock-server-with-cypress-4dch)
+- [Dev.to/JS] [Switching my career to React...](https://dev.to/wyarejali/switching-my-career-to-react-2hmd)
 - [Dev.to/JS] [Gif Widget : &quot;Text Watermark&quot;](https://dev.to/egfx/gif-widget-text-watermark-5020)
 - [Dev.to/JS] [3 ways to find second largest number in array JavaScript](https://dev.to/slimpython/3-ways-to-find-second-largest-number-in-array-javascript-24l9)
 - [Dev.to/JS] [How to create a NodeJS FAQ Chatbot](https://dev.to/arnaldobadin/how-to-create-a-nodejs-faq-chatbot-5fg8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Big O](https://dev.to/emansaeed/big-o-21p6)
 - [Dev.to/JS] [How to Create a Todo List App](https://dev.to/anthonys1760/how-to-create-a-todo-list-app-37lj)
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/mrdanishsaleem/variables-in-javascript-2lde)
-- [Dev.to/JS] [JavaScript and DOM](https://dev.to/rosiequ/javascript-and-dom-1a69)
-- [Dev.to/JS] [Introduction to React Hooks 🪝](https://dev.to/ksowah/introduction-to-react-hooks-5bg4)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
