@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Big O](https://dev.to/emansaeed/big-o-21p6)
 - [Dev.to/JS] [How to Create a Todo List App](https://dev.to/anthonys1760/how-to-create-a-todo-list-app-37lj)
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/mrdanishsaleem/variables-in-javascript-2lde)
 - [Dev.to/JS] [JavaScript and DOM](https://dev.to/rosiequ/javascript-and-dom-1a69)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Snake Game](https://dev.to/rembertdesigns/javascript-snake-game-247g)
 - [Lifehacker] [What Is Dependent Personality Disorder &lpar;and Can It Ruin Your Relationship&rpar;?](https://lifehacker.com/what-is-dependent-personality-disorder-and-can-it-ruin-1849413537)
 - [Lifehacker] [Here&#39;s the Difference Between Ales and Lagers](https://lifehacker.com/heres-the-difference-between-ales-and-lagers-1849412907)
-- [Dev.to/JS] [Default Exports vs Named Exports](https://dev.to/vladimirvovk/default-exports-vs-named-exports-2jm0)
 - [Lifehacker] [These Are the Stupidest Fees You Should Never Pay](https://lifehacker.com/these-are-the-stupidest-fees-you-should-never-pay-1849412351)
 - [Lifehacker] [Make Jalapeño Popper Charcuterie Bites With Pizza Dough](https://lifehacker.com/make-jalapeno-popper-charcuterie-bites-with-pizza-dough-1849412863)
 - [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)
