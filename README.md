@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Tagalog - Function Expression](https://dev.to/mmvergara/javascript-tagalog-function-expression-4969)
+- [Dev.to/JS] [Javascript Tagalog - Function Declaration](https://dev.to/mmvergara/javascript-tagalog-function-declaration-43ng)
+- [Dev.to/JS] [Master Notification in JavaScript](https://dev.to/ministryofjavascript/master-notification-in-javascript-1n0o)
+- [Dev.to/JS] [What is JAMstack?](https://dev.to/ahmedmansoor012/what-is-jamstack-47gp)
+- [Dev.to/JS] [Top 10 Angular Component Libraries](https://dev.to/asayerio_techblog/top-10-angular-component-libraries-56c2)
 - [Dev.to/JS] [Component Framework Concepts in Vue vs React](https://dev.to/asayerio_techblog/component-framework-concepts-in-vue-vs-react-3ngc)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using .env Environment Variables in Vue](https://dev.to/smpnjn/using-env-environment-variables-in-vue-1jdm)
 - [Dev.to/JS] [Introducing Angular Component Testing](https://dev.to/cypress/introducing-angular-component-testing-43ja)
 - [Lifehacker] [This Is the Best Way to Drink Diet Coke](https://lifehacker.com/this-is-the-best-way-to-drink-diet-coke-1849418295)
-- [Dev.to/JS] [Are you using Composition API the right way?](https://dev.to/the_one/are-you-using-composition-api-the-right-way-4jmm)
-- [Dev.to/JS] [JWT &lpar;JSON Web Token&rpar;](https://dev.to/shubhamyadav/jwt-json-web-token-1j19)
-- [Dev.to/JS] [Get Started With Node.Js](https://dev.to/divuzki/get-started-with-nodejs-server-480j)
-- [Dev.to/JS] [Gif Widget : &quot;Paint it Black&quot;](https://dev.to/egfx/paint-it-black-gif-tool-5542)
-- [Dev.to/JS] [Benchmark: Prisma VS TypeORM](https://dev.to/josethz00/benchmark-prisma-vs-typeorm-3873)
 - [Lifehacker] [Here&#39;s How CBS Mornings Co-Host Nate Burleson Travels Like a Pro](https://lifehacker.com/heres-how-cbs-mornings-co-host-nate-burleson-travels-li-1849418764)
 - [Lifehacker] [Roast Some Pineapple to Make This Luxurious Salad](https://lifehacker.com/roast-some-pineapple-to-make-this-luxurious-salad-1849418537)
 - [Lifehacker] [The Best Android 13 Features Worth Knowing About](https://lifehacker.com/the-best-android-13-features-worth-knowing-about-1849417266)
