@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Secure a Website? Quick Tips](https://dev.to/ammohitchaprana/how-to-secure-a-website-quick-tips-ko5)
+- [Dev.to/JS] [How to synchronize your API calls with your component lifecycle in react with a custom hook](https://dev.to/mr_mornin_star/how-to-synchronize-your-api-calls-with-your-component-lifecycle-in-react-with-a-custom-hook-82d)
+- [Dev.to/JS] [How can use two file commponents?](https://dev.to/ankit3131/how-can-access-two-file-commponents-448g)
 - [Dev.to/JS] [Using a mock server with Cypress](https://dev.to/javierbrea/using-a-mock-server-with-cypress-4dch)
 - [Dev.to/JS] [Switching my career to React...](https://dev.to/wyarejali/switching-my-career-to-react-2hmd)
 - [Dev.to/JS] [Gif Widget : &quot;Text Watermark&quot;](https://dev.to/egfx/gif-widget-text-watermark-5020)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript program to reverse an array using recursion](https://dev.to/slimpython/javascript-program-to-reverse-an-array-using-recursion-4mff)
 - [Dev.to/JS] [React + Redux the perfect combo](https://dev.to/anamdiazs/react-redux-the-perfect-combo-b8b)
 - [Dev.to/JS] [isIsomorphic](https://dev.to/zeeshanali0704/isisomorphic-62)
-- [Dev.to/JS] [Big O](https://dev.to/emansaeed/big-o-21p6)
-- [Dev.to/JS] [How to Create a Todo List App](https://dev.to/anthonys1760/how-to-create-a-todo-list-app-37lj)
-- [Dev.to/JS] [Variables in JavaScript](https://dev.to/mrdanishsaleem/variables-in-javascript-2lde)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
