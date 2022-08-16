@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gif Widget : &quot;Text Watermark&quot;](https://dev.to/egfx/gif-widget-text-watermark-5020)
+- [Dev.to/JS] [3 ways to find second largest number in array JavaScript](https://dev.to/slimpython/3-ways-to-find-second-largest-number-in-array-javascript-24l9)
+- [Dev.to/JS] [How to create a NodeJS FAQ Chatbot](https://dev.to/arnaldobadin/how-to-create-a-nodejs-faq-chatbot-5fg8)
+- [Dev.to/JS] [First Unique Character in a String](https://dev.to/zeeshanali0704/first-unique-character-in-a-string-mf5)
 - [Dev.to/JS] [JavaScript program to reverse an array using recursion](https://dev.to/slimpython/javascript-program-to-reverse-an-array-using-recursion-4mff)
 - [Dev.to/JS] [React + Redux the perfect combo](https://dev.to/anamdiazs/react-redux-the-perfect-combo-b8b)
 - [Dev.to/JS] [isIsomorphic](https://dev.to/zeeshanali0704/isisomorphic-62)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/mrdanishsaleem/variables-in-javascript-2lde)
 - [Dev.to/JS] [JavaScript and DOM](https://dev.to/rosiequ/javascript-and-dom-1a69)
 - [Dev.to/JS] [Introduction to React Hooks 🪝](https://dev.to/ksowah/introduction-to-react-hooks-5bg4)
-- [Dev.to/JS] [Palindrome Checker FCC Solution](https://dev.to/michaelx/palindrome-checker-fcc-solution-4j2)
-- [Dev.to/JS] [Best Programming Languages to Learn for Beginners](https://dev.to/tmchuynh/best-programming-languages-to-learn-for-beginners-40ki)
-- [Dev.to/JS] [foreach vs map in JavaScript](https://dev.to/ministryofjavascript/foreach-vs-map-in-javascript-3kej)
-- [Dev.to/JS] [Copy to clipboard in JavaScript](https://dev.to/ministryofjavascript/copy-to-clipboard-in-javascript-17f8)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
