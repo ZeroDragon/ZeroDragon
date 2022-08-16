@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Spend Your Uber Rewards Soon](https://lifehacker.com/why-you-should-spend-your-uber-rewards-soon-1849413050)
+- [Dev.to/JS] [11ty my SSG of choice and how use it in my blog](https://dev.to/techthatconnect/11ty-my-ssg-of-choice-and-how-use-it-in-my-blog-2f43)
+- [Dev.to/JS] [How to Create a Mosaic Plot in JS](https://dev.to/andreykh1985/how-to-create-a-mosaic-plot-in-js-4kkb)
+- [Dev.to/JS] [JSON Schema Validation in Node.js using Ajv](https://dev.to/franciscomendes10866/json-schema-validation-in-nodejs-using-ajv-53jd)
+- [Lifehacker] [It&#39;s a Bad Time to Buy an iPhone](https://lifehacker.com/its-a-bad-time-to-buy-an-iphone-1849414202)
+- [Dev.to/JS] [How to copy a file in Nodejs?](https://dev.to/omardulaimi/how-to-copy-a-file-in-nodejs-52pl)
+- [Dev.to/JS] [7 JavaScript Project Ideas to Build Your Skills 💪📈](https://dev.to/dcodeyt/7-javascript-project-ideas-to-build-your-skills-306a)
+- [Dev.to/JS] [Day 4: Randomization and Python Lists](https://dev.to/kdleonard93/day-4-randomization-and-python-lists-24fl)
+- [Dev.to/JS] [tsParticles 2.2.2 Released](https://dev.to/tsparticles/tsparticles-222-released-22ga)
+- [Dev.to/JS] [“Look ma, no config file!” Introducing OneSDK 2.0](https://dev.to/superface/look-ma-no-config-file-introducing-onesdk-20-40on)
+- [Dev.to/JS] [Digital Agency Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/digital-agency-website-using-html-css-javascript-1b2a)
 - [Lifehacker] [Don’t Be a Defensive Listener, and Other Ways to Fight ‘Better’ With Your Partner](https://lifehacker.com/don-t-be-a-defensive-listener-and-other-ways-to-fight-1849414126)
 - [Dev.to/JS] [I need help](https://dev.to/jenique22/i-need-help-226p)
 - [Dev.to/JS] [IP Visualizer - Redis Hackathon submission](https://dev.to/zoppatorsk/ip-visualizer-redis-hackathon-submission-1516)
 - [Dev.to/JS] [JavaScript: Comentários](https://dev.to/h4ck3rtr4d3r/javascript-comentarios-aj4)
-- [Dev.to/JS] [What Is Mobile Marketing &amp; Why Does it Matter So Much?](https://dev.to/loki_digital/what-is-mobile-marketing-why-does-it-matter-so-much-48cn)
-- [Dev.to/JS] [Callbacks in JavaScript](https://dev.to/kavitagupta972/callbacks-in-javascript-39n6)
-- [Dev.to/JS] [What are the obstacles to using DevOps?](https://dev.to/singlakanish/what-are-the-obstacles-to-using-devops-1oid)
-- [Dev.to/JS] [JavaScript Sorting Multidimensional Array](https://dev.to/prakash1245/javascript-sorting-multidimensional-array-5g23)
-- [Dev.to/JS] [Javascript reverse&lpar;&rpar; method](https://dev.to/shubhamtiwari909/javascript-reverse-method-4aa7)
-- [Dev.to/JS] [I discovered that the text-editor Atom was built with Electron but no protons](https://dev.to/mojodev/i-discovered-that-the-text-editor-atom-was-built-with-electron-but-no-protons-10c5)
-- [Dev.to/JS] [https://www.facebook.com/GoKetoGummiesReviewsOfficial/](https://dev.to/goketommies/httpswwwfacebookcomgoketogummiesreviewsofficial-1hhg)
-- [Dev.to/JS] [Typescript Series - Readonly Utility Type](https://dev.to/sarmunbustillo/typescript-series-readonly-utility-type-mla)
-- [Dev.to/JS] [TIL: Template Strings used with a function](https://dev.to/jwwnz/til-template-strings-used-with-a-function-12ob)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
 - [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
 - [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)
-- [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)
-- [Lifehacker] [Three of the Most Common Cooking Myths &lpar;and What to Do Instead&rpar;](https://lifehacker.com/three-of-the-most-common-cooking-myths-and-what-to-do-1849407442)
-- [Lifehacker] [The Choice Between Indica and Sativa Is Increasingly Meaningless &lpar;and How to Pick Your Weed&rpar;](https://lifehacker.com/the-choice-between-indica-and-sativa-is-increasingly-me-1849405819)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Donate Your Organs &lpar;or Your Whole Body&rpar; When You Die](https://lifehacker.com/how-to-donate-your-organs-or-your-whole-body-when-you-1849407201)<!-- TECH-POSTS:END -->
 
 ---
 
