@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating A Bubble Chart With NodeJS](https://dev.to/lightningchart/creating-a-bubble-chart-with-nodejs-lk7)
+- [Dev.to/JS] [Welcome to MaanavaN Learn Code](https://dev.to/maanavanlearncode/welcome-to-maanavan-learn-code-4e3l)
+- [Dev.to/JS] [Set the format of date.](https://dev.to/sadiqshah786/set-the-format-of-date-30lh)
+- [Dev.to/JS] [How to get started as a web developer in 2022](https://dev.to/rhythmsaha/how-to-get-started-as-a-web-developer-in-2022-83n)
 - [Dev.to/JS] [How to Secure a Website? Quick Tips](https://dev.to/ammohitchaprana/how-to-secure-a-website-quick-tips-ko5)
 - [Dev.to/JS] [How to synchronize your API calls with your component lifecycle in react with a custom hook](https://dev.to/mr_mornin_star/how-to-synchronize-your-api-calls-with-your-component-lifecycle-in-react-with-a-custom-hook-82d)
 - [Dev.to/JS] [How can use two file commponents?](https://dev.to/ankit3131/how-can-access-two-file-commponents-448g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gif Widget : &quot;Text Watermark&quot;](https://dev.to/egfx/gif-widget-text-watermark-5020)
 - [Dev.to/JS] [3 ways to find second largest number in array JavaScript](https://dev.to/slimpython/3-ways-to-find-second-largest-number-in-array-javascript-24l9)
 - [Dev.to/JS] [How to create a NodeJS FAQ Chatbot](https://dev.to/arnaldobadin/how-to-create-a-nodejs-faq-chatbot-5fg8)
-- [Dev.to/JS] [First Unique Character in a String](https://dev.to/zeeshanali0704/first-unique-character-in-a-string-mf5)
-- [Dev.to/JS] [JavaScript program to reverse an array using recursion](https://dev.to/slimpython/javascript-program-to-reverse-an-array-using-recursion-4mff)
-- [Dev.to/JS] [React + Redux the perfect combo](https://dev.to/anamdiazs/react-redux-the-perfect-combo-b8b)
-- [Dev.to/JS] [isIsomorphic](https://dev.to/zeeshanali0704/isisomorphic-62)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
