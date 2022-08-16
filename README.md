@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Series - Readonly Utility Type](https://dev.to/sarmunbustillo/typescript-series-readonly-utility-type-mla)
+- [Dev.to/JS] [TIL: Template Strings used with a function](https://dev.to/jwwnz/til-template-strings-used-with-a-function-12ob)
 - [Dev.to/JS] [Learn from the best Career Acceleration Programming and Latest Technologies Courses in Tamil](https://dev.to/maanavanlearncode/learn-from-the-best-career-acceleration-programming-and-latest-technologies-courses-in-tamil-a44)
 - [Dev.to/JS] [Install Tailwind Plugins + Vite + Typescript + Tailwind CSS 3](https://dev.to/larainfo/install-tailwind-plugins-vite-typescript-tailwind-css-3-1igc)
 - [Dev.to/JS] [Next.js vs React: Which One to Choose for Your App?](https://dev.to/flatlogic/nextjs-vs-react-which-one-to-choose-for-your-app-290d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Date Time Object In javaScript](https://dev.to/sadiqshah786/set-the-format-of-date-30lh)
 - [Dev.to/JS] [How to get started as a web developer in 2022](https://dev.to/rhythmsaha/how-to-get-started-as-a-web-developer-in-2022-83n)
 - [Dev.to/JS] [How to Secure a Website? Quick Tips](https://dev.to/ammohitchaprana/how-to-secure-a-website-quick-tips-ko5)
-- [Dev.to/JS] [How to synchronize your API calls with your component lifecycle in react with a custom hook](https://dev.to/mr_mornin_star/how-to-synchronize-your-api-calls-with-your-component-lifecycle-in-react-with-a-custom-hook-82d)
-- [Dev.to/JS] [How can use two file commponents?](https://dev.to/ankit3131/how-can-access-two-file-commponents-448g)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
