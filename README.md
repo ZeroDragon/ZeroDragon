@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
+- [Dev.to/JS] [Next.js and Tumblr as a CMS Part 4: Open Graph Images](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-part-4-open-graph-images-3i4e)
+- [Dev.to/JS] [JavaScript String Padding - very useful [Advanced]](https://dev.to/ministryofjavascript/javascript-string-padding-very-useful-advanced-33nm)
+- [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
+- [Dev.to/JS] [Master JavaScript Objects](https://dev.to/ministryofjavascript/master-javascript-objects-1eo4)
+- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Circular Queue &lpar;Ring Buffer&rpar;](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-circular-queue-ring-buffer-gml)
+- [Lifehacker] [How to Get Early Check-In at Your Hotel &lpar;and What to Do If You Can&#39;t&rpar;](https://lifehacker.com/how-to-get-early-check-in-at-your-hotel-and-what-to-do-1849417854)
 - [Dev.to/JS] [Using .env Environment Variables in Vue](https://dev.to/smpnjn/using-env-environment-variables-in-vue-1jdm)
 - [Dev.to/JS] [Introducing Angular Component Testing](https://dev.to/cypress/introducing-angular-component-testing-43ja)
 - [Lifehacker] [This Is the Best Way to Drink Diet Coke](https://lifehacker.com/this-is-the-best-way-to-drink-diet-coke-1849418295)
@@ -34,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deep cloning of an object in JavaScript...](https://dev.to/nitinreddy3/deep-cloning-of-an-object-in-javascript-480k)
 - [Lifehacker] [Here&#39;s How CBS Mornings Co-Host Nate Burleson Travels Like a Pro](https://lifehacker.com/heres-how-cbs-mornings-co-host-nate-burleson-travels-li-1849418764)
 - [Lifehacker] [Roast Some Pineapple to Make This Luxurious Salad](https://lifehacker.com/roast-some-pineapple-to-make-this-luxurious-salad-1849418537)
-- [Dev.to/JS] [forEach&lpar;&rpar; in JavaScript](https://dev.to/losetom/foreach-in-javascript-3clb)
-- [Dev.to/JS] [Angular: Design Pop Over](https://dev.to/urstrulyvishwak/angular-design-pop-over-150d)
-- [Dev.to/JS] [React or Django?](https://dev.to/fabiodev30/react-or-django-547p)
 - [Lifehacker] [The Best Android 13 Features Worth Knowing About](https://lifehacker.com/the-best-android-13-features-worth-knowing-about-1849417266)
-- [Dev.to/JS] [RenderATL 2023, Loaded](https://dev.to/thugdebugger/renderatl-2023-loaded-557c)
 - [Lifehacker] [11 of TikTok&#39;s Silliest &#39;Gut Health&#39; Trends](https://lifehacker.com/11-of-tiktoks-silliest-gut-health-trends-1849414231)
 - [Lifehacker] [Here’s How Single Men Can Rise to Women’s Higher Standards](https://lifehacker.com/here-s-how-single-men-can-rise-to-women-s-higher-standa-1849417921)
 - [Lifehacker] [The Best Ways to Maintain Your Pavers](https://lifehacker.com/the-best-ways-to-maintain-your-pavers-1849417153)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)
 - [Lifehacker] [Finally Silence Your Squeaky Bed](https://lifehacker.com/finally-silence-your-squeaky-bed-1849407166)
 - [Lifehacker] [Do These Things to Ease Your Kid&#39;s First-Day-of-School Jitters](https://lifehacker.com/do-these-things-to-ease-your-kids-first-day-of-school-j-1849411161)
-- [Lifehacker] [What to Know About Recurring Headaches After COVID](https://lifehacker.com/what-to-know-about-recurring-headaches-after-covid-1849409448)
-- [Lifehacker] [20 of Horniest Erotic Thrillers Ever Made](https://lifehacker.com/20-of-horniest-erotic-thrillers-ever-made-1849400981)
-- [Lifehacker] [7 Back-to-School Mistakes Every Parent Should Avoid](https://lifehacker.com/7-back-to-school-mistakes-every-parent-should-avoid-1849407342)
-- [Lifehacker] [Use More White Balsamic Vinegar](https://lifehacker.com/use-more-white-balsamic-vinegar-1849406097)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Know About Recurring Headaches After COVID](https://lifehacker.com/what-to-know-about-recurring-headaches-after-covid-1849409448)<!-- TECH-POSTS:END -->
 
 ---
 
