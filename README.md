@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React or Django?](https://dev.to/fabiodev30/react-or-django-547p)
+- [Lifehacker] [The Best Android 13 Features Worth Knowing About](https://lifehacker.com/the-best-android-13-features-worth-knowing-about-1849417266)
+- [Dev.to/JS] [RenderATL 2023, Loaded](https://dev.to/thugdebugger/renderatl-2023-loaded-557c)
+- [Dev.to/JS] [Express Js File Uploading Using express-fileupload](https://dev.to/divuzki/express-js-file-uploading-using-express-fileupload-42bh)
 - [Dev.to/JS] [How to setup Node.js environment variables using dotenv](https://dev.to/divuzki/how-to-setup-nodejs-environment-variables-using-dotenv-54gc)
 - [Lifehacker] [11 of TikTok&#39;s Silliest &#39;Gut Health&#39; Trends](https://lifehacker.com/11-of-tiktoks-silliest-gut-health-trends-1849414231)
 - [Dev.to/JS] [Gif Widget : &quot;Paint it Black&quot;](https://dev.to/egfx/paint-it-black-gif-tool-5542)
@@ -36,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a realistic E-commerce store in two days at Vue.js Forge Episode 2 🔥](https://dev.to/anaamarijaa/build-a-realistic-e-commerce-store-in-two-days-at-vuejs-forge-episode-2-21pb)
 - [Dev.to/JS] [Create A Custom Mouse Pointer in HTML, CSS and JavaScript](https://dev.to/langford_dev/create-a-custom-mouse-pointer-in-html-css-and-javascript-491l)
 - [Dev.to/JS] [Mocking API calls in React Tests with Nock](https://dev.to/pankod/mocking-api-calls-in-react-tests-with-nock-41if)
-- [Dev.to/JS] [How Pro-Testers Use CSS Selectors In Selenium Automation Scripts?](https://dev.to/lambdatest/how-pro-testers-use-css-selectors-in-selenium-automation-scripts-2g6g)
 - [Lifehacker] [Why You Should Know Your Finishing Oils](https://lifehacker.com/why-you-should-know-your-finishing-oils-1849417143)
-- [Dev.to/JS] [What&#39;s a framework? All about software frameworks](https://dev.to/contentful/whats-a-framework-all-about-software-frameworks-33l6)
 - [Lifehacker] [Are Free Companion Tickets Worth the Credit Card Fee?](https://lifehacker.com/are-free-companion-tickets-worth-the-credit-card-fee-1849416028)
-- [Dev.to/JS] [revisiting functions &lpar;not prototypes&rpar; 🤥](https://dev.to/rounakcodes/revisiting-functions-not-prototypes-253i)
 - [Lifehacker] [Why You Should Spend Your Uber Rewards Soon](https://lifehacker.com/why-you-should-spend-your-uber-rewards-soon-1849413050)
 - [Lifehacker] [It&#39;s a Bad Time to Buy an iPhone](https://lifehacker.com/its-a-bad-time-to-buy-an-iphone-1849414202)
 - [Lifehacker] [Don’t Be a Defensive Listener, and Other Ways to Fight ‘Better’ With Your Partner](https://lifehacker.com/don-t-be-a-defensive-listener-and-other-ways-to-fight-1849414126)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use More White Balsamic Vinegar](https://lifehacker.com/use-more-white-balsamic-vinegar-1849406097)
 - [Lifehacker] [Don&#39;t Use In-App Browsers for Anything Important](https://lifehacker.com/dont-use-in-app-browsers-for-anything-important-1849401900)
 - [Lifehacker] [You Should Change These Settings on Your New Windows PC](https://lifehacker.com/you-should-change-settings-on-your-new-windows-pc-1849404907)
-- [Crazy Programmer] [Solve Uncaught SyntaxError: Unexpected end of JSON input](https://www.thecrazyprogrammer.com/2022/08/unexpected-end-of-json-input.html)
-- [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Solve Uncaught SyntaxError: Unexpected end of JSON input](https://www.thecrazyprogrammer.com/2022/08/unexpected-end-of-json-input.html)<!-- TECH-POSTS:END -->
 
 ---
 
