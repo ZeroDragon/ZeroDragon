@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create an Android App with SignUp And SignIn using Firebase](https://dev.to/varshithvhegde/create-an-android-app-with-signup-and-signin-using-firebase-1on1)
+- [Dev.to/JS] [I made an app to index my liked TikTok recipes 👨‍🍳](https://dev.to/bryce/i-made-an-app-to-index-my-liked-tiktok-recipes-366a)
+- [Lifehacker] [25 of the Most Badass Movie Squads of All Time](https://lifehacker.com/25-of-the-most-badass-movie-squads-of-all-time-1849412057)
+- [Dev.to/JS] [Build a realistic E-commerce store in two days at Vue.js Forge Episode 2 🔥](https://dev.to/anaamarijaa/build-a-realistic-e-commerce-store-in-two-days-at-vuejs-forge-episode-2-21pb)
+- [Dev.to/JS] [Create A Custom Mouse Pointer in HTML, CSS and JavaScript](https://dev.to/langford_dev/create-a-custom-mouse-pointer-in-html-css-and-javascript-491l)
+- [Dev.to/JS] [Mocking API calls in React Tests with Nock](https://dev.to/pankod/mocking-api-calls-in-react-tests-with-nock-41if)
+- [Dev.to/JS] [How Pro-Testers Use CSS Selectors In Selenium Automation Scripts?](https://dev.to/lambdatest/how-pro-testers-use-css-selectors-in-selenium-automation-scripts-2g6g)
+- [Lifehacker] [Why You Should Know Your Finishing Oils](https://lifehacker.com/why-you-should-know-your-finishing-oils-1849417143)
 - [Dev.to/JS] [What&#39;s a framework? All about software frameworks](https://dev.to/contentful/whats-a-framework-all-about-software-frameworks-33l6)
 - [Lifehacker] [Are Free Companion Tickets Worth the Credit Card Fee?](https://lifehacker.com/are-free-companion-tickets-worth-the-credit-card-fee-1849416028)
 - [Dev.to/JS] [revisiting functions &lpar;not prototypes&rpar; 🤥](https://dev.to/rounakcodes/revisiting-functions-not-prototypes-253i)
 - [Dev.to/JS] [Clustering in Node.JS](https://dev.to/tawseef/clustering-in-nodejs-4pgn)
-- [Dev.to/JS] [Going Deep in Array Sort&lpar;&rpar; JS](https://dev.to/shubhamtiwari909/going-deep-in-array-sort-js-2n90)
+- [Dev.to/JS] [Array sort&lpar;&rpar; JS](https://dev.to/shubhamtiwari909/going-deep-in-array-sort-js-2n90)
 - [Dev.to/JS] [Scrambled Letters and Hash](https://dev.to/rmion/scrambled-letters-and-hash-3l8b)
 - [Lifehacker] [Why You Should Spend Your Uber Rewards Soon](https://lifehacker.com/why-you-should-spend-your-uber-rewards-soon-1849413050)
 - [Dev.to/JS] [11ty my SSG of choice and how use it in my blog](https://dev.to/techthatconnect/11ty-my-ssg-of-choice-and-how-use-it-in-my-blog-2f43)
-- [Dev.to/JS] [How to Create a Mosaic Plot in JS](https://dev.to/andreykh1985/how-to-create-a-mosaic-plot-in-js-4kkb)
-- [Dev.to/JS] [JSON Schema Validation in Node.js using Ajv](https://dev.to/franciscomendes10866/json-schema-validation-in-nodejs-using-ajv-53jd)
 - [Lifehacker] [It&#39;s a Bad Time to Buy an iPhone](https://lifehacker.com/its-a-bad-time-to-buy-an-iphone-1849414202)
-- [Dev.to/JS] [How to copy a file in Nodejs?](https://dev.to/omardulaimi/how-to-copy-a-file-in-nodejs-52pl)
-- [Dev.to/JS] [7 JavaScript Project Ideas to Build Your Skills 💪📈](https://dev.to/dcodeyt/7-javascript-project-ideas-to-build-your-skills-306a)
-- [Dev.to/JS] [Day 4: Randomization and Python Lists](https://dev.to/kdleonard93/day-4-randomization-and-python-lists-24fl)
-- [Dev.to/JS] [tsParticles 2.2.2 Released](https://dev.to/tsparticles/tsparticles-222-released-22ga)
 - [Lifehacker] [Don’t Be a Defensive Listener, and Other Ways to Fight ‘Better’ With Your Partner](https://lifehacker.com/don-t-be-a-defensive-listener-and-other-ways-to-fight-1849414126)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
 - [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
 - [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
-- [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)
-- [Lifehacker] [These U.S. Airports Have Had the Most Cancellations So Far This Summer](https://lifehacker.com/these-u-s-airports-have-had-the-most-cancellations-so-1849407278)
-- [Lifehacker] [How to Properly Dispose of Your Leftover Home Renovation Materials](https://lifehacker.com/how-to-properly-dispose-of-your-leftover-home-renovatio-1849407754)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)<!-- TECH-POSTS:END -->
 
 ---
 
