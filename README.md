@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Todo List App](https://dev.to/anthonys1760/how-to-create-a-todo-list-app-37lj)
+- [Dev.to/JS] [Variables in JavaScript](https://dev.to/mrdanishsaleem/variables-in-javascript-2lde)
+- [Dev.to/JS] [JavaScript and DOM](https://dev.to/rosiequ/javascript-and-dom-1a69)
 - [Dev.to/JS] [Introduction to React Hooks 🪝](https://dev.to/ksowah/introduction-to-react-hooks-5bg4)
 - [Dev.to/JS] [Palindrome Checker FCC Solution](https://dev.to/michaelx/palindrome-checker-fcc-solution-4j2)
 - [Dev.to/JS] [Best Programming Languages to Learn for Beginners](https://dev.to/tmchuynh/best-programming-languages-to-learn-for-beginners-40ki)
@@ -38,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Dependent Personality Disorder &lpar;and Can It Ruin Your Relationship&rpar;?](https://lifehacker.com/what-is-dependent-personality-disorder-and-can-it-ruin-1849413537)
 - [Lifehacker] [Here&#39;s the Difference Between Ales and Lagers](https://lifehacker.com/heres-the-difference-between-ales-and-lagers-1849412907)
 - [Dev.to/JS] [Default Exports vs Named Exports](https://dev.to/vladimirvovk/default-exports-vs-named-exports-2jm0)
-- [Dev.to/JS] [Different methods for handling errors in Express](https://dev.to/mazenr/different-methods-for-handling-errors-in-express-2ld)
 - [Lifehacker] [These Are the Stupidest Fees You Should Never Pay](https://lifehacker.com/these-are-the-stupidest-fees-you-should-never-pay-1849412351)
-- [Dev.to/JS] [Basic Games in JavaScript](https://dev.to/f53/basic-games-in-javascript-36b0)
 - [Lifehacker] [Make Jalapeño Popper Charcuterie Bites With Pizza Dough](https://lifehacker.com/make-jalapeno-popper-charcuterie-bites-with-pizza-dough-1849412863)
-- [Dev.to/JS] [Curious about NEXT.JS](https://dev.to/developerspruha/curious-about-nextjs-3ghb)
 - [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)
 - [Lifehacker] [Finally Silence Your Squeaky Bed](https://lifehacker.com/finally-silence-your-squeaky-bed-1849407166)
 - [Lifehacker] [Do These Things to Ease Your Kid&#39;s First-Day-of-School Jitters](https://lifehacker.com/do-these-things-to-ease-your-kids-first-day-of-school-j-1849411161)
