@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to setup Node.js environment variables using dotenv](https://dev.to/divuzki/how-to-setup-nodejs-environment-variables-using-dotenv-54gc)
+- [Lifehacker] [11 of TikTok&#39;s Silliest &#39;Gut Health&#39; Trends](https://lifehacker.com/11-of-tiktoks-silliest-gut-health-trends-1849414231)
+- [Dev.to/JS] [Gif Widget : &quot;Paint it Black&quot;](https://dev.to/egfx/paint-it-black-gif-tool-5542)
+- [Dev.to/JS] [7 Useful Javascript utility liabraries should learn](https://dev.to/krillinkills/7-useful-javascript-utility-liabraries-should-learn-35hf)
+- [Lifehacker] [Here’s How Single Men Can Rise to Women’s Higher Standards](https://lifehacker.com/here-s-how-single-men-can-rise-to-women-s-higher-standa-1849417921)
+- [Dev.to/JS] [Complete guide in implementation of stack in Javascript](https://dev.to/brunoblaise/complete-guide-in-implementation-of-stack-in-javascript-2m4)
 - [Dev.to/JS] [Create an Android App with SignUp And SignIn using Firebase](https://dev.to/varshithvhegde/create-an-android-app-with-signup-and-signin-using-firebase-1on1)
+- [Lifehacker] [The Best Ways to Maintain Your Pavers](https://lifehacker.com/the-best-ways-to-maintain-your-pavers-1849417153)
 - [Dev.to/JS] [I made an app to index my liked TikTok recipes 👨‍🍳](https://dev.to/bryce/i-made-an-app-to-index-my-liked-tiktok-recipes-366a)
 - [Lifehacker] [25 of the Most Badass Movie Squads of All Time](https://lifehacker.com/25-of-the-most-badass-movie-squads-of-all-time-1849412057)
 - [Dev.to/JS] [Build a realistic E-commerce store in two days at Vue.js Forge Episode 2 🔥](https://dev.to/anaamarijaa/build-a-realistic-e-commerce-store-in-two-days-at-vuejs-forge-episode-2-21pb)
@@ -34,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s a framework? All about software frameworks](https://dev.to/contentful/whats-a-framework-all-about-software-frameworks-33l6)
 - [Lifehacker] [Are Free Companion Tickets Worth the Credit Card Fee?](https://lifehacker.com/are-free-companion-tickets-worth-the-credit-card-fee-1849416028)
 - [Dev.to/JS] [revisiting functions &lpar;not prototypes&rpar; 🤥](https://dev.to/rounakcodes/revisiting-functions-not-prototypes-253i)
-- [Dev.to/JS] [Clustering in Node.JS](https://dev.to/tawseef/clustering-in-nodejs-4pgn)
-- [Dev.to/JS] [Array sort&lpar;&rpar; JS](https://dev.to/shubhamtiwari909/going-deep-in-array-sort-js-2n90)
-- [Dev.to/JS] [Scrambled Letters and Hash](https://dev.to/rmion/scrambled-letters-and-hash-3l8b)
 - [Lifehacker] [Why You Should Spend Your Uber Rewards Soon](https://lifehacker.com/why-you-should-spend-your-uber-rewards-soon-1849413050)
-- [Dev.to/JS] [11ty my SSG of choice and how use it in my blog](https://dev.to/techthatconnect/11ty-my-ssg-of-choice-and-how-use-it-in-my-blog-2f43)
 - [Lifehacker] [It&#39;s a Bad Time to Buy an iPhone](https://lifehacker.com/its-a-bad-time-to-buy-an-iphone-1849414202)
 - [Lifehacker] [Don’t Be a Defensive Listener, and Other Ways to Fight ‘Better’ With Your Partner](https://lifehacker.com/don-t-be-a-defensive-listener-and-other-ways-to-fight-1849414126)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Use In-App Browsers for Anything Important](https://lifehacker.com/dont-use-in-app-browsers-for-anything-important-1849401900)
 - [Lifehacker] [You Should Change These Settings on Your New Windows PC](https://lifehacker.com/you-should-change-settings-on-your-new-windows-pc-1849404907)
 - [Crazy Programmer] [Solve Uncaught SyntaxError: Unexpected end of JSON input](https://www.thecrazyprogrammer.com/2022/08/unexpected-end-of-json-input.html)
-- [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)
-- [Lifehacker] [Did You Know You Could Name a Planet?](https://lifehacker.com/did-you-know-you-could-name-a-planet-1849409658)
-- [Lifehacker] [How to Stain Brick](https://lifehacker.com/how-to-stain-brick-1849407328)
-- [Lifehacker] [How to Stop Cogongrass Weeds From Taking Over Your Yard, Too](https://lifehacker.com/how-to-stop-cogongrass-weeds-from-taking-over-your-yard-1849407766)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Buy Land Bank Property](https://lifehacker.com/how-to-buy-land-bank-property-1849407301)<!-- TECH-POSTS:END -->
 
 ---
 
