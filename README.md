@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Component Framework Concepts in Vue vs React](https://dev.to/asayerio_techblog/component-framework-concepts-in-vue-vs-react-3ngc)
+- [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
 - [Dev.to/JS] [Next.js and Tumblr as a CMS Part 4: Open Graph Images](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-part-4-open-graph-images-3i4e)
 - [Dev.to/JS] [JavaScript String Padding - very useful [Advanced]](https://dev.to/ministryofjavascript/javascript-string-padding-very-useful-advanced-33nm)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Started With Node.Js](https://dev.to/divuzki/get-started-with-nodejs-server-480j)
 - [Dev.to/JS] [Gif Widget : &quot;Paint it Black&quot;](https://dev.to/egfx/paint-it-black-gif-tool-5542)
 - [Dev.to/JS] [Benchmark: Prisma VS TypeORM](https://dev.to/josethz00/benchmark-prisma-vs-typeorm-3873)
-- [Dev.to/JS] [Deep cloning of an object in JavaScript...](https://dev.to/nitinreddy3/deep-cloning-of-an-object-in-javascript-480k)
 - [Lifehacker] [Here&#39;s How CBS Mornings Co-Host Nate Burleson Travels Like a Pro](https://lifehacker.com/heres-how-cbs-mornings-co-host-nate-burleson-travels-li-1849418764)
 - [Lifehacker] [Roast Some Pineapple to Make This Luxurious Salad](https://lifehacker.com/roast-some-pineapple-to-make-this-luxurious-salad-1849418537)
 - [Lifehacker] [The Best Android 13 Features Worth Knowing About](https://lifehacker.com/the-best-android-13-features-worth-knowing-about-1849417266)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Jalapeño Popper Charcuterie Bites With Pizza Dough](https://lifehacker.com/make-jalapeno-popper-charcuterie-bites-with-pizza-dough-1849412863)
 - [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)
 - [Lifehacker] [Finally Silence Your Squeaky Bed](https://lifehacker.com/finally-silence-your-squeaky-bed-1849407166)
-- [Lifehacker] [Do These Things to Ease Your Kid&#39;s First-Day-of-School Jitters](https://lifehacker.com/do-these-things-to-ease-your-kids-first-day-of-school-j-1849411161)
-- [Lifehacker] [What to Know About Recurring Headaches After COVID](https://lifehacker.com/what-to-know-about-recurring-headaches-after-covid-1849409448)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do These Things to Ease Your Kid&#39;s First-Day-of-School Jitters](https://lifehacker.com/do-these-things-to-ease-your-kids-first-day-of-school-j-1849411161)<!-- TECH-POSTS:END -->
 
 ---
 
