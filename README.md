@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript program to reverse an array using recursion](https://dev.to/slimpython/javascript-program-to-reverse-an-array-using-recursion-4mff)
 - [Dev.to/JS] [React + Redux the perfect combo](https://dev.to/anamdiazs/react-redux-the-perfect-combo-b8b)
 - [Dev.to/JS] [isIsomorphic](https://dev.to/zeeshanali0704/isisomorphic-62)
 - [Dev.to/JS] [Big O](https://dev.to/emansaeed/big-o-21p6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Programming Languages to Learn for Beginners](https://dev.to/tmchuynh/best-programming-languages-to-learn-for-beginners-40ki)
 - [Dev.to/JS] [foreach vs map in JavaScript](https://dev.to/ministryofjavascript/foreach-vs-map-in-javascript-3kej)
 - [Dev.to/JS] [Copy to clipboard in JavaScript](https://dev.to/ministryofjavascript/copy-to-clipboard-in-javascript-17f8)
-- [Dev.to/JS] [They&#39;re a 10 but they use Redis as their primary database - They&#39;re still a 10!](https://dev.to/jordantwells42/theyre-a-10-but-they-use-redis-as-their-primary-database-theyre-still-a-10-17op)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
