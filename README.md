@@ -23,13 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep cloning of an object in JavaScript...](https://dev.to/nitinreddy3/deep-cloning-of-an-object-in-javascript-480k)
+- [Lifehacker] [Here&#39;s How CBS Mornings Co-Host Nate Burleson Travels Like a Pro](https://lifehacker.com/heres-how-cbs-mornings-co-host-nate-burleson-travels-li-1849418764)
+- [Lifehacker] [Roast Some Pineapple to Make This Luxurious Salad](https://lifehacker.com/roast-some-pineapple-to-make-this-luxurious-salad-1849418537)
+- [Dev.to/JS] [forEach&lpar;&rpar; in JavaScript](https://dev.to/losetom/foreach-in-javascript-3clb)
+- [Dev.to/JS] [Angular: Design Pop Over](https://dev.to/urstrulyvishwak/angular-design-pop-over-150d)
 - [Dev.to/JS] [React or Django?](https://dev.to/fabiodev30/react-or-django-547p)
 - [Lifehacker] [The Best Android 13 Features Worth Knowing About](https://lifehacker.com/the-best-android-13-features-worth-knowing-about-1849417266)
 - [Dev.to/JS] [RenderATL 2023, Loaded](https://dev.to/thugdebugger/renderatl-2023-loaded-557c)
 - [Dev.to/JS] [Express Js File Uploading Using express-fileupload](https://dev.to/divuzki/express-js-file-uploading-using-express-fileupload-42bh)
 - [Dev.to/JS] [How to setup Node.js environment variables using dotenv](https://dev.to/divuzki/how-to-setup-nodejs-environment-variables-using-dotenv-54gc)
 - [Lifehacker] [11 of TikTok&#39;s Silliest &#39;Gut Health&#39; Trends](https://lifehacker.com/11-of-tiktoks-silliest-gut-health-trends-1849414231)
-- [Dev.to/JS] [Gif Widget : &quot;Paint it Black&quot;](https://dev.to/egfx/paint-it-black-gif-tool-5542)
 - [Dev.to/JS] [7 Useful Javascript utility liabraries should learn](https://dev.to/krillinkills/7-useful-javascript-utility-liabraries-should-learn-35hf)
 - [Lifehacker] [Here’s How Single Men Can Rise to Women’s Higher Standards](https://lifehacker.com/here-s-how-single-men-can-rise-to-women-s-higher-standa-1849417921)
 - [Dev.to/JS] [Complete guide in implementation of stack in Javascript](https://dev.to/brunoblaise/complete-guide-in-implementation-of-stack-in-javascript-2m4)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made an app to index my liked TikTok recipes 👨‍🍳](https://dev.to/bryce/i-made-an-app-to-index-my-liked-tiktok-recipes-366a)
 - [Lifehacker] [25 of the Most Badass Movie Squads of All Time](https://lifehacker.com/25-of-the-most-badass-movie-squads-of-all-time-1849412057)
 - [Dev.to/JS] [Build a realistic E-commerce store in two days at Vue.js Forge Episode 2 🔥](https://dev.to/anaamarijaa/build-a-realistic-e-commerce-store-in-two-days-at-vuejs-forge-episode-2-21pb)
-- [Dev.to/JS] [Create A Custom Mouse Pointer in HTML, CSS and JavaScript](https://dev.to/langford_dev/create-a-custom-mouse-pointer-in-html-css-and-javascript-491l)
-- [Dev.to/JS] [Mocking API calls in React Tests with Nock](https://dev.to/pankod/mocking-api-calls-in-react-tests-with-nock-41if)
 - [Lifehacker] [Why You Should Know Your Finishing Oils](https://lifehacker.com/why-you-should-know-your-finishing-oils-1849417143)
 - [Lifehacker] [Are Free Companion Tickets Worth the Credit Card Fee?](https://lifehacker.com/are-free-companion-tickets-worth-the-credit-card-fee-1849416028)
 - [Lifehacker] [Why You Should Spend Your Uber Rewards Soon](https://lifehacker.com/why-you-should-spend-your-uber-rewards-soon-1849413050)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of Horniest Erotic Thrillers Ever Made](https://lifehacker.com/20-of-horniest-erotic-thrillers-ever-made-1849400981)
 - [Lifehacker] [7 Back-to-School Mistakes Every Parent Should Avoid](https://lifehacker.com/7-back-to-school-mistakes-every-parent-should-avoid-1849407342)
 - [Lifehacker] [Use More White Balsamic Vinegar](https://lifehacker.com/use-more-white-balsamic-vinegar-1849406097)
-- [Lifehacker] [Don&#39;t Use In-App Browsers for Anything Important](https://lifehacker.com/dont-use-in-app-browsers-for-anything-important-1849401900)
-- [Lifehacker] [You Should Change These Settings on Your New Windows PC](https://lifehacker.com/you-should-change-settings-on-your-new-windows-pc-1849404907)
-- [Crazy Programmer] [Solve Uncaught SyntaxError: Unexpected end of JSON input](https://www.thecrazyprogrammer.com/2022/08/unexpected-end-of-json-input.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Use In-App Browsers for Anything Important](https://lifehacker.com/dont-use-in-app-browsers-for-anything-important-1849401900)<!-- TECH-POSTS:END -->
 
 ---
 
