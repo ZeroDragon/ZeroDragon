@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Never Message Strangers on PlayStation Network](https://lifehacker.com/why-you-should-never-message-strangers-on-playstation-n-1849423132)
+- [Dev.to/JS] [Join&lpar;&rpar; in javascript](https://dev.to/shubhamtiwari909/join-in-javascript-4050)
+- [Dev.to/JS] [Beginner guide to GIT and mastering the Terminal](https://dev.to/avinashvagh/git-useful-command-and-mastering-the-terminal-27p6)
+- [Dev.to/JS] [Random Joke Generator using JavaScript](https://dev.to/piyushpatil1243/random-joke-generator-using-javascript-4ig2)
+- [Dev.to/JS] [Single Responsibility Principle in TypeScript](https://dev.to/jmalvarez/single-responsibility-principle-in-typescript-859)
+- [Dev.to/JS] [14 Killer Web Applications to Boost Your Productivity 🚀💯](https://dev.to/madza/14-killer-web-applications-to-boost-your-productivity-5ah1)
+- [Dev.to/JS] [What Are JavaScript Data Types?](https://dev.to/graciousdev/what-is-javascript-data-types-nfl)
+- [Dev.to/JS] [Want to make a JavaScript Object read only? learn how](https://dev.to/ministryofjavascript/want-to-make-a-javascript-object-read-only-learn-how-5g2n)
+- [Lifehacker] [Your Android Home Screen Needs More Shortcuts](https://lifehacker.com/your-android-home-screen-needs-more-shortcuts-1849421923)
 - [Dev.to/JS] [Persist Data With Vue 3](https://dev.to/grahammorby/persist-data-with-vue-3-38pc)
 - [Lifehacker] [How to Save Money by &#39;Churning&#39; Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
 - [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)
@@ -31,13 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [i18n management made easy](https://dev.to/tails128/i18n-management-made-easy-2pe)
 - [Dev.to/JS] [Introducing Gradientify](https://dev.to/nitinsingh/introducing-gradientify-2b96)
 - [Dev.to/JS] [My note on JS Timezone, Firebase Cloud Functions and Luxon](https://dev.to/gie3d/my-note-on-js-timezone-firebase-cloud-functions-and-luxon-4cnc)
-- [Dev.to/JS] [Reactivity?](https://dev.to/mellen/reactivity-1h2e)
-- [Dev.to/JS] [Guida Semplice ScrollReveal.js](https://dev.to/giandomenicopagliara/guida-semplice-scrollrevealjs-1c28)
-- [Dev.to/JS] [my npm is not installing any package please help](https://dev.to/riteshx0/my-npm-is-not-installing-any-package-please-help-1iie)
-- [Dev.to/JS] [Modules in Node JS](https://dev.to/shaikhkamran/modules-in-node-js-34ce)
-- [Dev.to/JS] [How to Create And Use GitHub Repository Templates](https://dev.to/dev_neil_a/how-to-create-and-use-github-repository-templates-4l06)
-- [Dev.to/JS] [⚡️JavaScript Optional Chaining &lpar;?.&rpar;](https://dev.to/ahmedgmurtaza/javascript-optional-chaining--2cn1)
-- [Dev.to/JS] [⚡ Announcing the Capacitor NFC Plugin](https://dev.to/capawesome/announcing-the-capacitor-nfc-plugin-1550)
 - [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
 - [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
 - [Lifehacker] [How to Coach Your References to Help You Land a Job, According to an HR Expert](https://lifehacker.com/how-to-coach-your-references-to-help-you-land-a-job-1849413722)
-- [Lifehacker] [What Is Dependent Personality Disorder &lpar;and Can It Ruin Your Relationship&rpar;?](https://lifehacker.com/what-is-dependent-personality-disorder-and-can-it-ruin-1849413537)
-- [Lifehacker] [Here&#39;s the Difference Between Ales and Lagers](https://lifehacker.com/heres-the-difference-between-ales-and-lagers-1849412907)
-- [Lifehacker] [These Are the Stupidest Fees You Should Never Pay](https://lifehacker.com/these-are-the-stupidest-fees-you-should-never-pay-1849412351)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is Dependent Personality Disorder &lpar;and Can It Ruin Your Relationship&rpar;?](https://lifehacker.com/what-is-dependent-personality-disorder-and-can-it-ruin-1849413537)<!-- TECH-POSTS:END -->
 
 ---
 
