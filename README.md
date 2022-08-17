@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Firewall Rules](https://dev.to/rmion/firewall-rules-3ohb)
+- [Dev.to/JS] [Roman Numeral Converter FCC Solution](https://dev.to/michaelx/roman-numeral-converter-fcc-solution-1ag4)
+- [Dev.to/JS] [Importing and Exporting Modules in JavaScript](https://dev.to/anasnmu/importing-and-exporting-modules-in-javascript-17d0)
 - [Dev.to/JS] [Javascript Tagalog - Function Expression](https://dev.to/mmvergara/javascript-tagalog-function-expression-4969)
 - [Dev.to/JS] [Javascript Tagalog - Function Declaration](https://dev.to/mmvergara/javascript-tagalog-function-declaration-43ng)
 - [Dev.to/JS] [Master Notification in JavaScript](https://dev.to/ministryofjavascript/master-notification-in-javascript-1n0o)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript String Padding - very useful [Advanced]](https://dev.to/ministryofjavascript/javascript-string-padding-very-useful-advanced-33nm)
 - [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
 - [Dev.to/JS] [Master JavaScript Objects](https://dev.to/ministryofjavascript/master-javascript-objects-1eo4)
-- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Circular Queue &lpar;Ring Buffer&rpar;](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-circular-queue-ring-buffer-gml)
 - [Lifehacker] [How to Get Early Check-In at Your Hotel &lpar;and What to Do If You Can&#39;t&rpar;](https://lifehacker.com/how-to-get-early-check-in-at-your-hotel-and-what-to-do-1849417854)
-- [Dev.to/JS] [Using .env Environment Variables in Vue](https://dev.to/smpnjn/using-env-environment-variables-in-vue-1jdm)
-- [Dev.to/JS] [Introducing Angular Component Testing](https://dev.to/cypress/introducing-angular-component-testing-43ja)
 - [Lifehacker] [This Is the Best Way to Drink Diet Coke](https://lifehacker.com/this-is-the-best-way-to-drink-diet-coke-1849418295)
 - [Lifehacker] [Here&#39;s How CBS Mornings Co-Host Nate Burleson Travels Like a Pro](https://lifehacker.com/heres-how-cbs-mornings-co-host-nate-burleson-travels-li-1849418764)
 - [Lifehacker] [Roast Some Pineapple to Make This Luxurious Salad](https://lifehacker.com/roast-some-pineapple-to-make-this-luxurious-salad-1849418537)
