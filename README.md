@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
+- [Dev.to/JS] [Replace empty string to undefined value in Object &lpar;JS&rpar;](https://dev.to/phatsss/replace-empty-string-to-undefined-value-in-object-js-3mc5)
+- [Dev.to/JS] [Why should you consider adding Rust to your stack?](https://dev.to/leonardbonetti/why-should-you-consider-adding-rust-to-your-stack-4hil)
+- [Dev.to/JS] [Typescript Series - Tuple to Object](https://dev.to/sarmunbustillo/typescript-series-tuple-to-object-1dl6)
+- [Dev.to/JS] [Votação na Urna Eletrônica Brasileira](https://dev.to/thiagocanudo/votacao-na-urna-eletronica-brasileira-215d)
+- [Dev.to/JS] [Por que você deveria considerar adicionar Rust a sua stack?](https://dev.to/leonardbonetti/por-que-voce-deveria-considerar-adicionar-rust-a-sua-stack-15jg)
+- [Lifehacker] [How to Watch the End Credits on Every Major Streaming Service](https://lifehacker.com/how-to-watch-the-end-credits-on-every-major-streaming-s-1849423717)
 - [Lifehacker] [How to Make Pâte à Choux &lpar;the Stuff Éclairs Are Made of&rpar;](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
 - [Lifehacker] [That Oat Milk Recall Keeps Getting Bigger [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 - [Lifehacker] [How to Be the ‘Personality Hire’ at Your Next Job](https://lifehacker.com/how-to-be-the-personality-hire-at-your-next-job-1849404854)
@@ -34,15 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Single Responsibility Principle in TypeScript](https://dev.to/jmalvarez/single-responsibility-principle-in-typescript-859)
 - [Dev.to/JS] [14 Killer Web Applications to Boost Your Productivity 🚀💯](https://dev.to/madza/14-killer-web-applications-to-boost-your-productivity-5ah1)
 - [Dev.to/JS] [What Are JavaScript Data Types?](https://dev.to/graciousdev/what-is-javascript-data-types-nfl)
-- [Dev.to/JS] [Want to make a JavaScript Object read only? learn how](https://dev.to/ministryofjavascript/want-to-make-a-javascript-object-read-only-learn-how-5g2n)
 - [Lifehacker] [Your Android Home Screen Needs More Shortcuts](https://lifehacker.com/your-android-home-screen-needs-more-shortcuts-1849421923)
-- [Dev.to/JS] [Persist Data With Vue 3](https://dev.to/grahammorby/persist-data-with-vue-3-38pc)
 - [Lifehacker] [How to Save Money by &#39;Churning&#39; Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
 - [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)
-- [Dev.to/JS] [Running next.js in cluster mode &lpar;dead simple&rpar;](https://dev.to/jabher/running-nextjs-in-cluster-mode-dead-simple-2f72)
 - [Lifehacker] [This Is the Perfect French Fry Dip](https://lifehacker.com/this-is-the-perfect-french-fry-dip-1849420066)
-- [Dev.to/JS] [i18n management made easy](https://dev.to/tails128/i18n-management-made-easy-2pe)
-- [Dev.to/JS] [Introducing Gradientify](https://dev.to/nitinsingh/introducing-gradientify-2b96)
 - [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are Free Companion Tickets Worth the Credit Card Fee?](https://lifehacker.com/are-free-companion-tickets-worth-the-credit-card-fee-1849416028)
 - [Lifehacker] [Why You Should Spend Your Uber Rewards Soon](https://lifehacker.com/why-you-should-spend-your-uber-rewards-soon-1849413050)
 - [Lifehacker] [It&#39;s a Bad Time to Buy an iPhone](https://lifehacker.com/its-a-bad-time-to-buy-an-iphone-1849414202)
-- [Lifehacker] [Don’t Be a Defensive Listener, and Other Ways to Fight ‘Better’ With Your Partner](https://lifehacker.com/don-t-be-a-defensive-listener-and-other-ways-to-fight-1849414126)
-- [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
-- [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Be a Defensive Listener, and Other Ways to Fight ‘Better’ With Your Partner](https://lifehacker.com/don-t-be-a-defensive-listener-and-other-ways-to-fight-1849414126)<!-- TECH-POSTS:END -->
 
 ---
 
