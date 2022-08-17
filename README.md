@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running next.js in cluster mode &lpar;dead simple&rpar;](https://dev.to/jabher/running-nextjs-in-cluster-mode-dead-simple-2f72)
+- [Lifehacker] [This Is the Perfect French Fry Dip](https://lifehacker.com/this-is-the-perfect-french-fry-dip-1849420066)
+- [Dev.to/JS] [i18n management made easy](https://dev.to/tails128/i18n-management-made-easy-2pe)
+- [Dev.to/JS] [Introducing Gradientify](https://dev.to/nitinsingh/introducing-gradientify-2b96)
+- [Dev.to/JS] [My note on JS Timezone, Firebase Cloud Functions and Luxon](https://dev.to/gie3d/my-note-on-js-timezone-firebase-cloud-functions-and-luxon-4cnc)
+- [Dev.to/JS] [Reactivity?](https://dev.to/mellen/reactivity-1h2e)
+- [Dev.to/JS] [Guida Semplice ScrollReveal.js](https://dev.to/giandomenicopagliara/guida-semplice-scrollrevealjs-1c28)
+- [Dev.to/JS] [my npm is not installing any package please help](https://dev.to/riteshx0/my-npm-is-not-installing-any-package-please-help-1iie)
+- [Dev.to/JS] [Modules in Node JS](https://dev.to/shaikhkamran/modules-in-node-js-34ce)
 - [Dev.to/JS] [How to Create And Use GitHub Repository Templates](https://dev.to/dev_neil_a/how-to-create-and-use-github-repository-templates-4l06)
 - [Dev.to/JS] [⚡️JavaScript Optional Chaining &lpar;?.&rpar;](https://dev.to/ahmedgmurtaza/javascript-optional-chaining--2cn1)
 - [Dev.to/JS] [⚡ Announcing the Capacitor NFC Plugin](https://dev.to/capawesome/announcing-the-capacitor-nfc-plugin-1550)
 - [Dev.to/JS] [React re-renders guide: preventing unnecessary re-renders](https://dev.to/adevnadia/react-re-renders-guide-preventing-unnecessary-re-renders-21dm)
-- [Dev.to/JS] [VLSI Projects for ECE](https://dev.to/arunprakash142/vlsi-projects-for-ece-1anl)
-- [Dev.to/JS] [Astro JS Location Map: using Leaflet &amp; Svelte](https://dev.to/askrodney/astro-js-location-map-using-leaflet-svelte-4g7g)
-- [Dev.to/JS] [How to implement Lazy Loading in REACT | code splitting](https://dev.to/nyanyiwast/how-to-implement-lazy-loading-in-react-code-splitting-1je6)
-- [Dev.to/JS] [JavaScript &lpar;ES6&rpar; data Type](https://dev.to/aniksaha12/javascript-es6-data-type-13ee)
-- [Dev.to/JS] [Understanding Excess Property Checking in Typescript](https://dev.to/this-is-learning/understanding-excess-property-checking-in-typescript-ook)
-- [Dev.to/JS] [Implementing Strapi v4 Authentication with Remix](https://dev.to/strapi/implementing-strapi-v4-authentication-with-remix-464c)
 - [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
-- [Dev.to/JS] [Protetox – Benefits, Working, Price, Reviews And Results?](https://dev.to/protetoxresults/protetox-benefits-working-price-reviews-and-results-2n5k)
-- [Dev.to/JS] [Explore the lexical Environment &amp; Environment Record in Javascript 2021](https://dev.to/codescoop/what-has-changed-in-lexical-environment-as-per-ecmascript-2021-2bjb)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
 - [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s the Difference Between Ales and Lagers](https://lifehacker.com/heres-the-difference-between-ales-and-lagers-1849412907)
 - [Lifehacker] [These Are the Stupidest Fees You Should Never Pay](https://lifehacker.com/these-are-the-stupidest-fees-you-should-never-pay-1849412351)
 - [Lifehacker] [Make Jalapeño Popper Charcuterie Bites With Pizza Dough](https://lifehacker.com/make-jalapeno-popper-charcuterie-bites-with-pizza-dough-1849412863)
-- [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)
-- [Lifehacker] [Finally Silence Your Squeaky Bed](https://lifehacker.com/finally-silence-your-squeaky-bed-1849407166)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)<!-- TECH-POSTS:END -->
 
 ---
 
