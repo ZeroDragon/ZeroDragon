@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advice Generator App using Tailwind CSS and JS](https://dev.to/devrohit0/advice-generator-app-using-tailwind-css-and-js-2730)
+- [Dev.to/JS] [Markdown as web page / site](https://dev.to/casualwriter/markdown-as-web-page-site-4c26)
+- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 7: Stack Frame](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-7-stack-frame-9kb)
 - [Dev.to/JS] [Not Ready for NEW Netlify Pro?](https://dev.to/mikeritter/not-ready-for-new-netlify-pro-1jkb)
 - [Dev.to/JS] [What is Bun, and does it live up to the hype?](https://dev.to/asyncbanana/what-is-bun-and-does-it-live-up-to-the-hype-4k3a)
 - [Dev.to/JS] [Dev For Coins](https://dev.to/tatonka21/dev-for-coins-2593)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Tagalog - Function Expression](https://dev.to/mmvergara/javascript-tagalog-function-expression-4969)
 - [Dev.to/JS] [Javascript Tagalog - Function Declaration](https://dev.to/mmvergara/javascript-tagalog-function-declaration-43ng)
 - [Dev.to/JS] [Master Notification in JavaScript](https://dev.to/ministryofjavascript/master-notification-in-javascript-1n0o)
-- [Dev.to/JS] [What is JAMstack?](https://dev.to/ahmedmansoor012/what-is-jamstack-47gp)
-- [Dev.to/JS] [Top 10 Angular Component Libraries](https://dev.to/asayerio_techblog/top-10-angular-component-libraries-56c2)
-- [Dev.to/JS] [Component Framework Concepts in Vue vs React](https://dev.to/asayerio_techblog/component-framework-concepts-in-vue-vs-react-3ngc)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
 - [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
