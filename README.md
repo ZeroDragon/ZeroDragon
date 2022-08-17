@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Save Money by &#39;Churning&#39; Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
+- [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)
 - [Dev.to/JS] [Running next.js in cluster mode &lpar;dead simple&rpar;](https://dev.to/jabher/running-nextjs-in-cluster-mode-dead-simple-2f72)
 - [Lifehacker] [This Is the Perfect French Fry Dip](https://lifehacker.com/this-is-the-perfect-french-fry-dip-1849420066)
 - [Dev.to/JS] [i18n management made easy](https://dev.to/tails128/i18n-management-made-easy-2pe)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Coach Your References to Help You Land a Job, According to an HR Expert](https://lifehacker.com/how-to-coach-your-references-to-help-you-land-a-job-1849413722)
 - [Lifehacker] [What Is Dependent Personality Disorder &lpar;and Can It Ruin Your Relationship&rpar;?](https://lifehacker.com/what-is-dependent-personality-disorder-and-can-it-ruin-1849413537)
 - [Lifehacker] [Here&#39;s the Difference Between Ales and Lagers](https://lifehacker.com/heres-the-difference-between-ales-and-lagers-1849412907)
-- [Lifehacker] [These Are the Stupidest Fees You Should Never Pay](https://lifehacker.com/these-are-the-stupidest-fees-you-should-never-pay-1849412351)
-- [Lifehacker] [Make Jalapeño Popper Charcuterie Bites With Pizza Dough](https://lifehacker.com/make-jalapeno-popper-charcuterie-bites-with-pizza-dough-1849412863)
-- [Lifehacker] [You Need to Update Zoom on Your Mac Right Now](https://lifehacker.com/you-need-to-update-zoom-on-your-mac-right-now-1849412591)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Stupidest Fees You Should Never Pay](https://lifehacker.com/these-are-the-stupidest-fees-you-should-never-pay-1849412351)<!-- TECH-POSTS:END -->
 
 ---
 
