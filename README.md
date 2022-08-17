@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explore the lexical Environment &amp; Environment Record in Javascript 2021](https://dev.to/codescoop/explore-the-lexical-environment-environment-record-in-javascript-2021-208)
 - [Dev.to/JS] [Generate Random ChatRoom id for your next chat app](https://dev.to/amin_deraiya/generate-random-chatroom-id-for-your-next-chat-app-1f3m)
 - [Dev.to/JS] [How to Start Unit Testing with Jasmine](https://dev.to/how-to-dev/how-to-start-unit-testing-with-jasmine-474p)
 - [Dev.to/JS] [Advice Generator App using Tailwind CSS and JS](https://dev.to/devrohit0/advice-generator-app-using-tailwind-css-and-js-2730)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Firewall Rules](https://dev.to/rmion/firewall-rules-3ohb)
 - [Dev.to/JS] [Roman Numeral Converter FCC Solution](https://dev.to/michaelx/roman-numeral-converter-fcc-solution-1ag4)
 - [Dev.to/JS] [Importing and Exporting Modules in JavaScript](https://dev.to/anasnmu/importing-and-exporting-modules-in-javascript-17d0)
-- [Dev.to/JS] [Javascript Tagalog - Function Expression](https://dev.to/mmvergara/javascript-tagalog-function-expression-4969)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
 - [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
