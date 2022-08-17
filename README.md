@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Bun, and does it live up to the hype?](https://dev.to/asyncbanana/what-is-bun-and-does-it-live-up-to-the-hype-4k3a)
+- [Dev.to/JS] [Dev For Coins](https://dev.to/tatonka21/dev-for-coins-2593)
 - [Dev.to/JS] [Firewall Rules](https://dev.to/rmion/firewall-rules-3ohb)
 - [Dev.to/JS] [Roman Numeral Converter FCC Solution](https://dev.to/michaelx/roman-numeral-converter-fcc-solution-1ag4)
 - [Dev.to/JS] [Importing and Exporting Modules in JavaScript](https://dev.to/anasnmu/importing-and-exporting-modules-in-javascript-17d0)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
 - [Dev.to/JS] [Next.js and Tumblr as a CMS Part 4: Open Graph Images](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-part-4-open-graph-images-3i4e)
-- [Dev.to/JS] [JavaScript String Padding - very useful [Advanced]](https://dev.to/ministryofjavascript/javascript-string-padding-very-useful-advanced-33nm)
 - [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
-- [Dev.to/JS] [Master JavaScript Objects](https://dev.to/ministryofjavascript/master-javascript-objects-1eo4)
 - [Lifehacker] [How to Get Early Check-In at Your Hotel &lpar;and What to Do If You Can&#39;t&rpar;](https://lifehacker.com/how-to-get-early-check-in-at-your-hotel-and-what-to-do-1849417854)
 - [Lifehacker] [This Is the Best Way to Drink Diet Coke](https://lifehacker.com/this-is-the-best-way-to-drink-diet-coke-1849418295)
 - [Lifehacker] [Here&#39;s How CBS Mornings Co-Host Nate Burleson Travels Like a Pro](https://lifehacker.com/heres-how-cbs-mornings-co-host-nate-burleson-travels-li-1849418764)
