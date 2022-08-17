@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Specify a Node Version in Repl.it](https://dev.to/saranshk/how-to-specify-a-node-version-in-replit-6bg)
+- [Dev.to/JS] [Javascript Map Function Explained with Code](https://dev.to/ayush_shines/javascript-map-function-on-array-explained-with-code-56m1)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Dev.to/JS] [Best way to implement a queue in javascript](https://dev.to/brunoblaise/best-way-to-implement-a-queue-in-javascript-28o2)
 - [Dev.to/JS] [Local Notifications in React native](https://dev.to/ahmedhalbas/local-notifications-in-react-native-1b7i)
@@ -42,11 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Series - Tuple to Object](https://dev.to/sarmunbustillo/typescript-series-tuple-to-object-1dl6)
 - [Dev.to/JS] [Votação na Urna Eletrônica Brasileira](https://dev.to/thiagocanudo/votacao-na-urna-eletronica-brasileira-215d)
 - [Lifehacker] [How to Make Pâte à Choux &lpar;the Stuff Éclairs Are Made of&rpar;](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
-- [Dev.to/JS] [Por que você deveria considerar adicionar Rust a sua stack?](https://dev.to/leonardbonetti/por-que-voce-deveria-considerar-adicionar-rust-a-sua-stack-15jg)
 - [Lifehacker] [How to Watch the End Credits on Every Major Streaming Service](https://lifehacker.com/how-to-watch-the-end-credits-on-every-major-streaming-s-1849423717)
 - [Lifehacker] [That Oat Milk Recall Keeps Getting Bigger [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 - [Lifehacker] [How to Be the ‘Personality Hire’ at Your Next Job](https://lifehacker.com/how-to-be-the-personality-hire-at-your-next-job-1849404854)
-- [Dev.to/JS] [I created a javascript library to create product tours / walkthroughs](https://dev.to/bhusalnaresh/i-created-a-javascript-library-to-create-product-tours-walkthroughs-2g28)
 - [Lifehacker] [Why You Should Never Message Strangers on PlayStation Network](https://lifehacker.com/why-you-should-never-message-strangers-on-playstation-n-1849423132)
 - [Lifehacker] [Your Android Home Screen Needs More Shortcuts](https://lifehacker.com/your-android-home-screen-needs-more-shortcuts-1849421923)
 - [Lifehacker] [How to Save Money by &#39;Churning&#39; Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
