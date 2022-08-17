@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[React] Real time updates data using Apexcharts - JSON API](https://dev.to/derick1530/chart-real-time-data-using-apexcharts-json-api-12id)
+- [Dev.to/JS] [Single Page Site Navigation](https://dev.to/dovineowuor_13/single-page-site-navigation-1hl6)
+- [Lifehacker] [You Can Make Money by Letting Dogs Play in Your Yard](https://lifehacker.com/you-can-make-money-by-letting-dogs-play-in-your-yard-1849424385)
+- [Lifehacker] [How to Improve Your Balance &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-improve-your-balance-and-why-it-matters-1849424599)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
 - [Dev.to/JS] [Replace empty string to undefined value in Object &lpar;JS&rpar;](https://dev.to/phatsss/replace-empty-string-to-undefined-value-in-object-js-3mc5)
 - [Dev.to/JS] [Why should you consider adding Rust to your stack?](https://dev.to/leonardbonetti/why-should-you-consider-adding-rust-to-your-stack-4hil)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner guide to GIT and mastering the Terminal](https://dev.to/avinashvagh/git-useful-command-and-mastering-the-terminal-27p6)
 - [Dev.to/JS] [Random Joke Generator using JavaScript](https://dev.to/piyushpatil1243/random-joke-generator-using-javascript-4ig2)
 - [Dev.to/JS] [Single Responsibility Principle in TypeScript](https://dev.to/jmalvarez/single-responsibility-principle-in-typescript-859)
-- [Dev.to/JS] [14 Killer Web Applications to Boost Your Productivity 🚀💯](https://dev.to/madza/14-killer-web-applications-to-boost-your-productivity-5ah1)
-- [Dev.to/JS] [What Are JavaScript Data Types?](https://dev.to/graciousdev/what-is-javascript-data-types-nfl)
 - [Lifehacker] [Your Android Home Screen Needs More Shortcuts](https://lifehacker.com/your-android-home-screen-needs-more-shortcuts-1849421923)
 - [Lifehacker] [How to Save Money by &#39;Churning&#39; Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
 - [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Most Badass Movie Squads of All Time](https://lifehacker.com/25-of-the-most-badass-movie-squads-of-all-time-1849412057)
 - [Lifehacker] [Why You Should Know Your Finishing Oils](https://lifehacker.com/why-you-should-know-your-finishing-oils-1849417143)
 - [Lifehacker] [Are Free Companion Tickets Worth the Credit Card Fee?](https://lifehacker.com/are-free-companion-tickets-worth-the-credit-card-fee-1849416028)
-- [Lifehacker] [Why You Should Spend Your Uber Rewards Soon](https://lifehacker.com/why-you-should-spend-your-uber-rewards-soon-1849413050)
-- [Lifehacker] [It&#39;s a Bad Time to Buy an iPhone](https://lifehacker.com/its-a-bad-time-to-buy-an-iphone-1849414202)
-- [Lifehacker] [Don’t Be a Defensive Listener, and Other Ways to Fight ‘Better’ With Your Partner](https://lifehacker.com/don-t-be-a-defensive-listener-and-other-ways-to-fight-1849414126)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Spend Your Uber Rewards Soon](https://lifehacker.com/why-you-should-spend-your-uber-rewards-soon-1849413050)<!-- TECH-POSTS:END -->
 
 ---
 
