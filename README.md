@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 JavaScript Events You NEED To Know 🌏](https://dev.to/dcodeyt/5-javascript-events-you-need-to-know-1jjl)
+- [Dev.to/JS] [18th August&#39; 2022!](https://dev.to/zoro/18th-august-2022-14pb)
+- [Dev.to/JS] [Morphing portal](https://dev.to/headsink/morphing-portal-4o9g)
 - [Dev.to/JS] [How to Specify a Node Version in Repl.it](https://dev.to/saranshk/how-to-specify-a-node-version-in-replit-6bg)
 - [Dev.to/JS] [Javascript Map Function Explained with Code](https://dev.to/ayush_shines/javascript-map-function-on-array-explained-with-code-56m1)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Improve Your Balance &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-improve-your-balance-and-why-it-matters-1849424599)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
 - [Dev.to/JS] [Replace empty string to undefined value in Object &lpar;JS&rpar;](https://dev.to/phatsss/replace-empty-string-to-undefined-value-in-object-js-3mc5)
-- [Dev.to/JS] [Why should you consider adding Rust to your stack?](https://dev.to/leonardbonetti/why-should-you-consider-adding-rust-to-your-stack-4hil)
-- [Dev.to/JS] [Typescript Series - Tuple to Object](https://dev.to/sarmunbustillo/typescript-series-tuple-to-object-1dl6)
-- [Dev.to/JS] [Votação na Urna Eletrônica Brasileira](https://dev.to/thiagocanudo/votacao-na-urna-eletronica-brasileira-215d)
 - [Lifehacker] [How to Make Pâte à Choux &lpar;the Stuff Éclairs Are Made of&rpar;](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
 - [Lifehacker] [How to Watch the End Credits on Every Major Streaming Service](https://lifehacker.com/how-to-watch-the-end-credits-on-every-major-streaming-s-1849423717)
 - [Lifehacker] [That Oat Milk Recall Keeps Getting Bigger [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
