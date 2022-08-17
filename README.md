@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Not Ready for NEW Netlify Pro?](https://dev.to/mikeritter/not-ready-for-new-netlify-pro-1jkb)
 - [Dev.to/JS] [What is Bun, and does it live up to the hype?](https://dev.to/asyncbanana/what-is-bun-and-does-it-live-up-to-the-hype-4k3a)
 - [Dev.to/JS] [Dev For Coins](https://dev.to/tatonka21/dev-for-coins-2593)
 - [Dev.to/JS] [Firewall Rules](https://dev.to/rmion/firewall-rules-3ohb)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Component Framework Concepts in Vue vs React](https://dev.to/asayerio_techblog/component-framework-concepts-in-vue-vs-react-3ngc)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
-- [Dev.to/JS] [Next.js and Tumblr as a CMS Part 4: Open Graph Images](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-part-4-open-graph-images-3i4e)
 - [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
 - [Lifehacker] [How to Get Early Check-In at Your Hotel &lpar;and What to Do If You Can&#39;t&rpar;](https://lifehacker.com/how-to-get-early-check-in-at-your-hotel-and-what-to-do-1849417854)
 - [Lifehacker] [This Is the Best Way to Drink Diet Coke](https://lifehacker.com/this-is-the-best-way-to-drink-diet-coke-1849418295)
