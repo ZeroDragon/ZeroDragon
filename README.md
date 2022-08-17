@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Astro JS Location Map: using Leaflet &amp; Svelte](https://dev.to/askrodney/astro-js-location-map-using-leaflet-svelte-4g7g)
+- [Dev.to/JS] [How to implement Lazy Loading in REACT | code splitting - by Sedrick](https://dev.to/nyanyiwast/how-to-implement-lazy-loading-in-react-code-splitting-1je6)
+- [Dev.to/JS] [JavaScript &lpar;ES6&rpar; data Type](https://dev.to/aniksaha12/javascript-es6-data-type-13ee)
+- [Dev.to/JS] [Understanding Excess Property Checking in Typescript](https://dev.to/this-is-learning/understanding-excess-property-checking-in-typescript-ook)
+- [Dev.to/JS] [Implementing Strapi v4 Authentication with Remix](https://dev.to/strapi/implementing-strapi-v4-authentication-with-remix-464c)
 - [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
 - [Dev.to/JS] [Protetox – Benefits, Working, Price, Reviews And Results?](https://dev.to/protetoxresults/protetox-benefits-working-price-reviews-and-results-2n5k)
 - [Dev.to/JS] [Explore the lexical Environment &amp; Environment Record in Javascript 2021](https://dev.to/codescoop/what-has-changed-in-lexical-environment-as-per-ecmascript-2021-2bjb)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advice Generator App using Tailwind CSS and JS](https://dev.to/devrohit0/advice-generator-app-using-tailwind-css-and-js-2730)
 - [Dev.to/JS] [Markdown as web page / site](https://dev.to/casualwriter/markdown-as-web-page-site-4c26)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 7: Stack Frame](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-7-stack-frame-9kb)
-- [Dev.to/JS] [Not Ready for NEW Netlify Pro?](https://dev.to/mikeritter/not-ready-for-new-netlify-pro-1jkb)
-- [Dev.to/JS] [What is Bun, and does it live up to the hype?](https://dev.to/asyncbanana/what-is-bun-and-does-it-live-up-to-the-hype-4k3a)
-- [Dev.to/JS] [Dev For Coins](https://dev.to/tatonka21/dev-for-coins-2593)
-- [Dev.to/JS] [Firewall Rules](https://dev.to/rmion/firewall-rules-3ohb)
-- [Dev.to/JS] [Roman Numeral Converter FCC Solution](https://dev.to/michaelx/roman-numeral-converter-fcc-solution-1ag4)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
 - [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
