@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Need to Update Chrome Again](https://lifehacker.com/you-need-to-update-chrome-again-1849424239)
+- [Lifehacker] [Why Is Everyone Suddenly Putting Olives in Their Spritzes?](https://lifehacker.com/why-is-everyone-suddenly-putting-olives-in-their-spritz-1849423933)
 - [Dev.to/JS] [[React] Real time updates data using Apexcharts - JSON API](https://dev.to/derick1530/chart-real-time-data-using-apexcharts-json-api-12id)
 - [Dev.to/JS] [Single Page Site Navigation](https://dev.to/dovineowuor_13/single-page-site-navigation-1hl6)
 - [Lifehacker] [You Can Make Money by Letting Dogs Play in Your Yard](https://lifehacker.com/you-can-make-money-by-letting-dogs-play-in-your-yard-1849424385)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Single Men Can Rise to Women’s Higher Standards](https://lifehacker.com/here-s-how-single-men-can-rise-to-women-s-higher-standa-1849417921)
 - [Lifehacker] [The Best Ways to Maintain Your Pavers](https://lifehacker.com/the-best-ways-to-maintain-your-pavers-1849417153)
 - [Lifehacker] [25 of the Most Badass Movie Squads of All Time](https://lifehacker.com/25-of-the-most-badass-movie-squads-of-all-time-1849412057)
-- [Lifehacker] [Why You Should Know Your Finishing Oils](https://lifehacker.com/why-you-should-know-your-finishing-oils-1849417143)
-- [Lifehacker] [Are Free Companion Tickets Worth the Credit Card Fee?](https://lifehacker.com/are-free-companion-tickets-worth-the-credit-card-fee-1849416028)
-- [Lifehacker] [Why You Should Spend Your Uber Rewards Soon](https://lifehacker.com/why-you-should-spend-your-uber-rewards-soon-1849413050)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Know Your Finishing Oils](https://lifehacker.com/why-you-should-know-your-finishing-oils-1849417143)<!-- TECH-POSTS:END -->
 
 ---
 
