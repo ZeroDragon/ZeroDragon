@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create And Use GitHub Repository Templates](https://dev.to/dev_neil_a/how-to-create-and-use-github-repository-templates-4l06)
+- [Dev.to/JS] [⚡️JavaScript Optional Chaining &lpar;?.&rpar;](https://dev.to/ahmedgmurtaza/javascript-optional-chaining--2cn1)
 - [Dev.to/JS] [⚡ Announcing the Capacitor NFC Plugin](https://dev.to/capawesome/announcing-the-capacitor-nfc-plugin-1550)
 - [Dev.to/JS] [React re-renders guide: preventing unnecessary re-renders](https://dev.to/adevnadia/react-re-renders-guide-preventing-unnecessary-re-renders-21dm)
 - [Dev.to/JS] [VLSI Projects for ECE](https://dev.to/arunprakash142/vlsi-projects-for-ece-1anl)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
 - [Dev.to/JS] [Protetox – Benefits, Working, Price, Reviews And Results?](https://dev.to/protetoxresults/protetox-benefits-working-price-reviews-and-results-2n5k)
 - [Dev.to/JS] [Explore the lexical Environment &amp; Environment Record in Javascript 2021](https://dev.to/codescoop/what-has-changed-in-lexical-environment-as-per-ecmascript-2021-2bjb)
-- [Dev.to/JS] [Generate Random ChatRoom id for your next chat app](https://dev.to/amin_deraiya/generate-random-chatroom-id-for-your-next-chat-app-1f3m)
-- [Dev.to/JS] [How to Start Unit Testing with Jasmine](https://dev.to/how-to-dev/how-to-start-unit-testing-with-jasmine-474p)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
 - [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
