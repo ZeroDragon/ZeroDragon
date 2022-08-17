@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [⚡ Announcing the Capacitor NFC Plugin](https://dev.to/capawesome/announcing-the-capacitor-nfc-plugin-1550)
+- [Dev.to/JS] [React re-renders guide: preventing unnecessary re-renders](https://dev.to/adevnadia/react-re-renders-guide-preventing-unnecessary-re-renders-21dm)
+- [Dev.to/JS] [VLSI Projects for ECE](https://dev.to/arunprakash142/vlsi-projects-for-ece-1anl)
 - [Dev.to/JS] [Astro JS Location Map: using Leaflet &amp; Svelte](https://dev.to/askrodney/astro-js-location-map-using-leaflet-svelte-4g7g)
-- [Dev.to/JS] [How to implement Lazy Loading in REACT | code splitting - by Sedrick](https://dev.to/nyanyiwast/how-to-implement-lazy-loading-in-react-code-splitting-1je6)
+- [Dev.to/JS] [How to implement Lazy Loading in REACT | code splitting](https://dev.to/nyanyiwast/how-to-implement-lazy-loading-in-react-code-splitting-1je6)
 - [Dev.to/JS] [JavaScript &lpar;ES6&rpar; data Type](https://dev.to/aniksaha12/javascript-es6-data-type-13ee)
 - [Dev.to/JS] [Understanding Excess Property Checking in Typescript](https://dev.to/this-is-learning/understanding-excess-property-checking-in-typescript-ook)
 - [Dev.to/JS] [Implementing Strapi v4 Authentication with Remix](https://dev.to/strapi/implementing-strapi-v4-authentication-with-remix-464c)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explore the lexical Environment &amp; Environment Record in Javascript 2021](https://dev.to/codescoop/what-has-changed-in-lexical-environment-as-per-ecmascript-2021-2bjb)
 - [Dev.to/JS] [Generate Random ChatRoom id for your next chat app](https://dev.to/amin_deraiya/generate-random-chatroom-id-for-your-next-chat-app-1f3m)
 - [Dev.to/JS] [How to Start Unit Testing with Jasmine](https://dev.to/how-to-dev/how-to-start-unit-testing-with-jasmine-474p)
-- [Dev.to/JS] [Advice Generator App using Tailwind CSS and JS](https://dev.to/devrohit0/advice-generator-app-using-tailwind-css-and-js-2730)
-- [Dev.to/JS] [Markdown as web page / site](https://dev.to/casualwriter/markdown-as-web-page-site-4c26)
-- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 7: Stack Frame](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-7-stack-frame-9kb)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
 - [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
