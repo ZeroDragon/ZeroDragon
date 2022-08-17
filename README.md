@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Persist Data With Vue 3](https://dev.to/grahammorby/persist-data-with-vue-3-38pc)
 - [Lifehacker] [How to Save Money by &#39;Churning&#39; Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
 - [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)
 - [Dev.to/JS] [Running next.js in cluster mode &lpar;dead simple&rpar;](https://dev.to/jabher/running-nextjs-in-cluster-mode-dead-simple-2f72)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create And Use GitHub Repository Templates](https://dev.to/dev_neil_a/how-to-create-and-use-github-repository-templates-4l06)
 - [Dev.to/JS] [⚡️JavaScript Optional Chaining &lpar;?.&rpar;](https://dev.to/ahmedgmurtaza/javascript-optional-chaining--2cn1)
 - [Dev.to/JS] [⚡ Announcing the Capacitor NFC Plugin](https://dev.to/capawesome/announcing-the-capacitor-nfc-plugin-1550)
-- [Dev.to/JS] [React re-renders guide: preventing unnecessary re-renders](https://dev.to/adevnadia/react-re-renders-guide-preventing-unnecessary-re-renders-21dm)
 - [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
