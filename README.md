@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Pâte à Choux &lpar;the Stuff Éclairs Are Made of&rpar;](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
+- [Lifehacker] [That Oat Milk Recall Keeps Getting Bigger [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
+- [Lifehacker] [How to Be the ‘Personality Hire’ at Your Next Job](https://lifehacker.com/how-to-be-the-personality-hire-at-your-next-job-1849404854)
+- [Dev.to/JS] [I created a javascript library to create product tours / walkthroughs](https://dev.to/bhusalnaresh/i-created-a-javascript-library-to-create-product-tours-walkthroughs-2g28)
 - [Lifehacker] [Why You Should Never Message Strangers on PlayStation Network](https://lifehacker.com/why-you-should-never-message-strangers-on-playstation-n-1849423132)
-- [Dev.to/JS] [Join&lpar;&rpar; in javascript](https://dev.to/shubhamtiwari909/join-in-javascript-4050)
+- [Dev.to/JS] [Join method in javascript](https://dev.to/shubhamtiwari909/join-in-javascript-4050)
 - [Dev.to/JS] [Beginner guide to GIT and mastering the Terminal](https://dev.to/avinashvagh/git-useful-command-and-mastering-the-terminal-27p6)
 - [Dev.to/JS] [Random Joke Generator using JavaScript](https://dev.to/piyushpatil1243/random-joke-generator-using-javascript-4ig2)
 - [Dev.to/JS] [Single Responsibility Principle in TypeScript](https://dev.to/jmalvarez/single-responsibility-principle-in-typescript-859)
@@ -39,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Perfect French Fry Dip](https://lifehacker.com/this-is-the-perfect-french-fry-dip-1849420066)
 - [Dev.to/JS] [i18n management made easy](https://dev.to/tails128/i18n-management-made-easy-2pe)
 - [Dev.to/JS] [Introducing Gradientify](https://dev.to/nitinsingh/introducing-gradientify-2b96)
-- [Dev.to/JS] [My note on JS Timezone, Firebase Cloud Functions and Luxon](https://dev.to/gie3d/my-note-on-js-timezone-firebase-cloud-functions-and-luxon-4cnc)
 - [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s a Bad Time to Buy an iPhone](https://lifehacker.com/its-a-bad-time-to-buy-an-iphone-1849414202)
 - [Lifehacker] [Don’t Be a Defensive Listener, and Other Ways to Fight ‘Better’ With Your Partner](https://lifehacker.com/don-t-be-a-defensive-listener-and-other-ways-to-fight-1849414126)
 - [Lifehacker] [Five Things You Should Never Do in the Kitchen](https://lifehacker.com/five-things-you-should-never-do-in-the-kitchen-1849414389)
-- [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)
-- [Lifehacker] [How to Play As Master Hand in Smash Bros. Melee](https://lifehacker.com/how-to-play-as-master-hand-in-smash-bros-melee-1849413909)
-- [Lifehacker] [How to Coach Your References to Help You Land a Job, According to an HR Expert](https://lifehacker.com/how-to-coach-your-references-to-help-you-land-a-job-1849413722)
-- [Lifehacker] [What Is Dependent Personality Disorder &lpar;and Can It Ruin Your Relationship&rpar;?](https://lifehacker.com/what-is-dependent-personality-disorder-and-can-it-ruin-1849413537)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Worrying About Whether Fitness Influencers Are on Steroids](https://lifehacker.com/stop-worrying-about-whether-fitness-influencers-are-on-1849412704)<!-- TECH-POSTS:END -->
 
 ---
 
