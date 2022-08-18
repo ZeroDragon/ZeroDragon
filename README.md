@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Need to Take a ‘Suburbs Day’](https://lifehacker.com/you-need-to-take-a-suburbs-day-1849424304)
+- [Dev.to/JS] [Finally!! A Blockchain For Any Programming Language &lpar;Video&rpar;](https://dev.to/johnjardincodes/finally-a-blockchain-for-any-programming-language-video-37e4)
+- [Dev.to/JS] [Calculator in React](https://dev.to/markuswedler/calculator-in-react-5a6n)
+- [Dev.to/JS] [Environment variables in Nuxt 3](https://dev.to/amitgurbani/environment-variables-in-nuxt-3-9p6)
+- [Dev.to/JS] [Animate emoji](https://dev.to/claude_bekombo/animate-emoji-1060)
+- [Lifehacker] [Don&#39;t Drink the Recalled Capri Sun That Might Have Cleaning Solution in It](https://lifehacker.com/dont-drink-the-recalled-capri-sun-that-might-have-clean-1849425451)
+- [Dev.to/JS] [Using the EventTarget interface](https://dev.to/cloudx/using-the-eventtarget-interface-5f0f)
+- [Dev.to/JS] [How to create your own React Components library](https://dev.to/pavlov/how-to-create-your-own-react-components-library-2764)
+- [Dev.to/JS] [Property &#39;name&#39; comes from an index signature, so it must be accessed with [&#39;name&#39;].](https://dev.to/mvlhomme/property-name-comes-from-an-index-signature-so-it-must-be-accessed-with-name-3b51)
 - [Dev.to/JS] [Becoming an Expert is Simple](https://dev.to/calvin087/becoming-an-expert-is-simple-42o1)
-- [Dev.to/JS] [Life as a Software Development Student.](https://dev.to/malvinocreator/life-as-a-software-development-student-4mb1)
+- [Dev.to/JS] [My life as a Software Development Student.](https://dev.to/malvinocreator/life-as-a-software-development-student-4mb1)
 - [Dev.to/JS] [What do React vs. Next.js projects look like?](https://dev.to/nermineslimane/what-do-react-vs-nextjs-projects-look-like-2cbd)
 - [Dev.to/JS] [How I Created a One-Page Swag Store in 15 minutes](https://dev.to/medusajs/how-i-created-a-one-page-swag-store-in-15-minutes-8oh)
 - [Dev.to/JS] [Weighted 🏋️ Random generator in Typescript &lpar;with Test Driven Development 🧪&rpar;](https://dev.to/this-is-learning/weighted-random-generator-in-typescript-with-test-driven-development--hlb)
-- [Dev.to/JS] [DO NOT trust your frontend validators](https://dev.to/polterguy/do-not-trust-your-frontend-validators-4glb)
-- [Dev.to/JS] [Text to CSV using Javascript &lpar;JS&rpar;](https://dev.to/ks1912/text-to-csv-using-javascript-js-om4)
-- [Dev.to/JS] [How to Use BlockChain Technology in Web Development](https://dev.to/ameliawenham/how-to-use-blockchain-technology-in-web-development-1k21)
-- [Dev.to/JS] [5 enhancements that will boost your Node.js app](https://dev.to/chegerose/5-enhancements-that-will-boost-your-nodejs-app-3pj5)
-- [Dev.to/JS] [Getting started with a whole new CSS language —— Master CSS](https://dev.to/aron/getting-started-with-a-whole-new-css-language-master-css-12l0)
-- [Dev.to/JS] [How I created a custom time-frame for my client&#39;s website, using Date-fns.](https://dev.to/galnaim/how-i-created-a-custom-time-frame-for-my-clients-website-using-date-fns-45jo)
-- [Dev.to/JS] [Creating a progress bar using JavaScript](https://dev.to/rohitmore07/creating-a-progress-bar-using-javascript-4njp)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Way to Drink Diet Coke](https://lifehacker.com/this-is-the-best-way-to-drink-diet-coke-1849418295)
 - [Lifehacker] [Here&#39;s How CBS Mornings Co-Host Nate Burleson Travels Like a Pro](https://lifehacker.com/heres-how-cbs-mornings-co-host-nate-burleson-travels-li-1849418764)
 - [Lifehacker] [Roast Some Pineapple to Make This Luxurious Salad](https://lifehacker.com/roast-some-pineapple-to-make-this-luxurious-salad-1849418537)
-- [Lifehacker] [The Best Android 13 Features Worth Knowing About](https://lifehacker.com/the-best-android-13-features-worth-knowing-about-1849417266)
-- [Lifehacker] [11 of TikTok&#39;s Silliest &#39;Gut Health&#39; Trends](https://lifehacker.com/11-of-tiktoks-silliest-gut-health-trends-1849414231)
-- [Lifehacker] [Here’s How Single Men Can Rise to Women’s Higher Standards](https://lifehacker.com/here-s-how-single-men-can-rise-to-women-s-higher-standa-1849417921)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Android 13 Features Worth Knowing About](https://lifehacker.com/the-best-android-13-features-worth-knowing-about-1849417266)<!-- TECH-POSTS:END -->
 
 ---
 
