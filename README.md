@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
+- [Dev.to/JS] [Cheat sheet for React Part I &lpar;Updated August 2022&rpar;](https://dev.to/khansa/cheat-sheet-for-react-part-i-updated-august-2022-am4)
+- [Dev.to/JS] [The Concept](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
 - [Dev.to/JS] [Use Expose in Vue 3 Composition API](https://dev.to/joseprest/use-expose-in-vue-3-composition-api-12b4)
 - [Dev.to/JS] [Manipulating the DOM using Javascript - traversing the DOM&lpar;part 2&rpar; 👨🏼‍🔬🎯](https://dev.to/arikaturika/manipulating-the-dom-using-javascript-traversing-the-dompart-2-1711)
 - [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Salt-Roast Your Raw Nuts](https://lifehacker.com/you-should-salt-roast-your-raw-nuts-1849428165)
 - [Lifehacker] [What Is ‘Quiet Quitting’ &lpar;and Should You Really Do It&rpar;?](https://lifehacker.com/what-is-quiet-quitting-and-should-you-really-do-it-1849426004)
 - [Lifehacker] [Fly These Airlines to Add a Free or Cheap Stopover to Your Vacation](https://lifehacker.com/fly-these-airlines-to-add-a-free-or-cheap-stopover-to-y-1849427646)
-- [Dev.to/JS] [Create Accordion Component with React Hooks](https://dev.to/nabillatrisnani/create-accordion-component-with-react-hooks-3mjp)
-- [Dev.to/JS] [Top 10 Best Login Form | CSS &amp; JavaScript](https://dev.to/robsonmuniz16/top-10-best-login-form-css-javascript-4en1)
 - [Lifehacker] [Stuff Your Quesadilla With Fried Chicken](https://lifehacker.com/stuff-your-quesadilla-with-fried-chicken-1849426275)
 - [Lifehacker] [You Need to Take a ‘Suburbs Day’](https://lifehacker.com/you-need-to-take-a-suburbs-day-1849424304)
 - [Lifehacker] [Don&#39;t Drink the Recalled Capri Sun That Might Have Cleaning Solution in It](https://lifehacker.com/dont-drink-the-recalled-capri-sun-that-might-have-clean-1849425451)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Save Money by &#39;Churning&#39; Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
 - [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)
 - [Lifehacker] [This Is the Perfect French Fry Dip](https://lifehacker.com/this-is-the-perfect-french-fry-dip-1849420066)
-- [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
-- [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
