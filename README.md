@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 GitHub repositories to Become a React Master 👨‍💻💯](https://dev.to/langford_dev/10-github-repositories-to-become-a-react-master-pd1)
 - [Dev.to/JS] [5 JavaScript Events You NEED To Know 🌏](https://dev.to/dcodeyt/5-javascript-events-you-need-to-know-1jjl)
 - [Dev.to/JS] [18th August&#39; 2022!](https://dev.to/zoro/18th-august-2022-14pb)
 - [Dev.to/JS] [Morphing portal](https://dev.to/headsink/morphing-portal-4o9g)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Money by Letting Dogs Play in Your Yard](https://lifehacker.com/you-can-make-money-by-letting-dogs-play-in-your-yard-1849424385)
 - [Lifehacker] [How to Improve Your Balance &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-improve-your-balance-and-why-it-matters-1849424599)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
-- [Dev.to/JS] [Replace empty string to undefined value in Object &lpar;JS&rpar;](https://dev.to/phatsss/replace-empty-string-to-undefined-value-in-object-js-3mc5)
 - [Lifehacker] [How to Make Pâte à Choux &lpar;the Stuff Éclairs Are Made of&rpar;](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
 - [Lifehacker] [How to Watch the End Credits on Every Major Streaming Service](https://lifehacker.com/how-to-watch-the-end-credits-on-every-major-streaming-s-1849423717)
 - [Lifehacker] [That Oat Milk Recall Keeps Getting Bigger [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
