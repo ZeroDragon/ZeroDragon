@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)
+- [Dev.to/JS] [Helping the Environment by Saving Two Centuries of Compute time](https://dev.to/nx/helping-the-environment-by-saving-two-centuries-of-compute-time-4nep)
+- [Dev.to/JS] [A hands-on tutorial for using Contentful with Vue](https://dev.to/contentful/a-hands-on-tutorial-for-using-contentful-with-vue-1en7)
+- [Lifehacker] [You Should Salt-Roast Your Raw Nuts](https://lifehacker.com/you-should-salt-roast-your-raw-nuts-1849428165)
+- [Lifehacker] [What Is ‘Quiet Quitting’ &lpar;and Should You Really Do It&rpar;?](https://lifehacker.com/what-is-quiet-quitting-and-should-you-really-do-it-1849426004)
+- [Lifehacker] [Fly These Airlines to Add a Free or Cheap Stopover to Your Vacation](https://lifehacker.com/fly-these-airlines-to-add-a-free-or-cheap-stopover-to-y-1849427646)
+- [Dev.to/JS] [Create Accordion Component with React Hooks](https://dev.to/nabillatrisnani/create-accordion-component-with-react-hooks-3mjp)
+- [Dev.to/JS] [Top 10 Best Login Form | CSS &amp; JavaScript](https://dev.to/robsonmuniz16/top-10-best-login-form-css-javascript-4en1)
 - [Dev.to/JS] [Flip](https://dev.to/lakshyachitransh/flip-5f2i)
 - [Dev.to/JS] [Typescript Series - First and Last of Array Type](https://dev.to/sarmunbustillo/typescript-series-first-and-last-of-array-type-5dmb)
 - [Lifehacker] [Stuff Your Quesadilla With Fried Chicken](https://lifehacker.com/stuff-your-quesadilla-with-fried-chicken-1849426275)
@@ -34,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animate emoji](https://dev.to/claude_bekombo/animate-emoji-1060)
 - [Lifehacker] [Don&#39;t Drink the Recalled Capri Sun That Might Have Cleaning Solution in It](https://lifehacker.com/dont-drink-the-recalled-capri-sun-that-might-have-clean-1849425451)
 - [Dev.to/JS] [Using the EventTarget interface](https://dev.to/cloudx/using-the-eventtarget-interface-5f0f)
-- [Dev.to/JS] [How to create your own React Components library](https://dev.to/pavlov/how-to-create-your-own-react-components-library-2764)
-- [Dev.to/JS] [Property &#39;name&#39; comes from an index signature, so it must be accessed with [&#39;name&#39;].](https://dev.to/mvlhomme/property-name-comes-from-an-index-signature-so-it-must-be-accessed-with-name-3b51)
-- [Dev.to/JS] [Becoming an Expert is Simple](https://dev.to/calvin087/becoming-an-expert-is-simple-42o1)
-- [Dev.to/JS] [My life as a Software Development Student.](https://dev.to/malvinocreator/life-as-a-software-development-student-4mb1)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
 - [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
 - [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
-- [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)
-- [Lifehacker] [How to Get Early Check-In at Your Hotel &lpar;and What to Do If You Can&#39;t&rpar;](https://lifehacker.com/how-to-get-early-check-in-at-your-hotel-and-what-to-do-1849417854)
-- [Lifehacker] [This Is the Best Way to Drink Diet Coke](https://lifehacker.com/this-is-the-best-way-to-drink-diet-coke-1849418295)
-- [Lifehacker] [Here&#39;s How CBS Mornings Co-Host Nate Burleson Travels Like a Pro](https://lifehacker.com/heres-how-cbs-mornings-co-host-nate-burleson-travels-li-1849418764)
-- [Lifehacker] [Roast Some Pineapple to Make This Luxurious Salad](https://lifehacker.com/roast-some-pineapple-to-make-this-luxurious-salad-1849418537)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)<!-- TECH-POSTS:END -->
 
 ---
 
