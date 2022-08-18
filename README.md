@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Do You Ever Have to Tell Your Boss About Your Second Job?](https://lifehacker.com/do-you-ever-have-to-tell-your-boss-about-your-second-jo-1849424698)
+- [Lifehacker] [How to Recover a Microsoft Office File You Forgot to Save](https://lifehacker.com/how-to-recover-a-microsoft-office-file-you-forgot-to-sa-1849429735)
+- [Dev.to/JS] [SvelteKit Breaking Changes Explanation](https://dev.to/theether0/sveltekit-breaking-changes-explaination-18im)
+- [Dev.to/JS] [User Authentication with FACEIO](https://dev.to/ahmedqureshi54/user-authentication-with-faceio-dja)
+- [Dev.to/JS] [HAX: everything everywhere all at once](https://dev.to/btopro/hax-everything-everywhere-all-at-once-59gl)
+- [Dev.to/JS] [toString&lpar;&rpar; in JS](https://dev.to/shubhamtiwari909/tostring-in-js-27b)
 - [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
 - [Dev.to/JS] [Cheat sheet for React Part I &lpar;Updated August 2022&rpar;](https://dev.to/khansa/cheat-sheet-for-react-part-i-updated-august-2022-am4)
 - [Dev.to/JS] [The Concept](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working with v-model in Vue 3](https://dev.to/caio2k/working-with-v-model-in-vue-3-3791)
 - [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)
 - [Dev.to/JS] [User Authentication with Web3](https://dev.to/anggapur/user-authentication-with-web3-4he8)
-- [Dev.to/JS] [The only JavaScript &quot;String&quot; Guide you will Ever Need.](https://dev.to/envoy_/the-only-javascript-string-guide-you-will-ever-need-5f8h)
-- [Dev.to/JS] [Creating Websocket servers and clients in Nodejs](https://dev.to/nonunicorn/creating-websocket-servers-and-clients-in-nodejs-57m2)
 - [Lifehacker] [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)
-- [Dev.to/JS] [Helping the Environment by Saving Two Centuries of Compute time](https://dev.to/nx/helping-the-environment-by-saving-two-centuries-of-compute-time-4nep)
-- [Dev.to/JS] [A hands-on tutorial for using Contentful with Vue](https://dev.to/contentful/a-hands-on-tutorial-for-using-contentful-with-vue-1en7)
 - [Lifehacker] [You Should Salt-Roast Your Raw Nuts](https://lifehacker.com/you-should-salt-roast-your-raw-nuts-1849428165)
 - [Lifehacker] [What Is ‘Quiet Quitting’ &lpar;and Should You Really Do It&rpar;?](https://lifehacker.com/what-is-quiet-quitting-and-should-you-really-do-it-1849426004)
 - [Lifehacker] [Fly These Airlines to Add a Free or Cheap Stopover to Your Vacation](https://lifehacker.com/fly-these-airlines-to-add-a-free-or-cheap-stopover-to-y-1849427646)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Message Strangers on PlayStation Network](https://lifehacker.com/why-you-should-never-message-strangers-on-playstation-n-1849423132)
 - [Lifehacker] [Your Android Home Screen Needs More Shortcuts](https://lifehacker.com/your-android-home-screen-needs-more-shortcuts-1849421923)
 - [Lifehacker] [How to Save Money by &#39;Churning&#39; Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
-- [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)
-- [Lifehacker] [This Is the Perfect French Fry Dip](https://lifehacker.com/this-is-the-perfect-french-fry-dip-1849420066)
-- [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)<!-- TECH-POSTS:END -->
 
 ---
 
