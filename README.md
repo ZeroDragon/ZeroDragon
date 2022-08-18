@@ -23,23 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
+- [Dev.to/JS] [Are you ready for a Promotion? &lpar;Updated&rpar;](https://dev.to/intesar/are-you-ready-for-a-promotion-updated-84o)
+- [Dev.to/JS] [Arquitetura Limpa - Como foi aplicar em um projeto real](https://dev.to/paulohsilvavieira/arquitetura-limpa-como-foi-aplicar-em-um-projeto-real-12go)
+- [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
+- [Dev.to/JS] [Day 1 of getting back into Solidity Course](https://dev.to/detwiler_amy/day-1-of-getting-back-into-solidity-course-d1d)
+- [Dev.to/JS] [Amazon Leadership Principle - Think Big and Bias for action](https://dev.to/upskillie/amazon-leadership-principle-think-big-and-bias-for-action-3o1j)
+- [Dev.to/JS] [Amazon leadership Principles - Frugality and Earn Trust](https://dev.to/upskillie/amazon-leadership-principles-frugality-and-earn-trust-p3a)
+- [Dev.to/JS] [10 ways to speed up JavaScript loading](https://dev.to/asyncbanana/10-ways-to-speed-up-javascript-loading-3lob)
 - [Lifehacker] [Do You Ever Have to Tell Your Boss About Your Second Job?](https://lifehacker.com/do-you-ever-have-to-tell-your-boss-about-your-second-jo-1849424698)
 - [Lifehacker] [How to Recover a Microsoft Office File You Forgot to Save](https://lifehacker.com/how-to-recover-a-microsoft-office-file-you-forgot-to-sa-1849429735)
 - [Dev.to/JS] [SvelteKit Breaking Changes Explanation](https://dev.to/theether0/sveltekit-breaking-changes-explaination-18im)
 - [Dev.to/JS] [User Authentication with FACEIO](https://dev.to/ahmedqureshi54/user-authentication-with-faceio-dja)
 - [Dev.to/JS] [HAX: everything everywhere all at once](https://dev.to/btopro/hax-everything-everywhere-all-at-once-59gl)
-- [Dev.to/JS] [toString&lpar;&rpar; in JS](https://dev.to/shubhamtiwari909/tostring-in-js-27b)
+- [Dev.to/JS] [Array.prototype.toString&lpar;&rpar; in JS](https://dev.to/shubhamtiwari909/tostring-in-js-27b)
 - [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
 - [Dev.to/JS] [Cheat sheet for React Part I &lpar;Updated August 2022&rpar;](https://dev.to/khansa/cheat-sheet-for-react-part-i-updated-august-2022-am4)
 - [Dev.to/JS] [The Concept](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
-- [Dev.to/JS] [Use Expose in Vue 3 Composition API](https://dev.to/joseprest/use-expose-in-vue-3-composition-api-12b4)
-- [Dev.to/JS] [Manipulating the DOM using Javascript - traversing the DOM&lpar;part 2&rpar; 👨🏼‍🔬🎯](https://dev.to/arikaturika/manipulating-the-dom-using-javascript-traversing-the-dompart-2-1711)
 - [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)
-- [Dev.to/JS] [Remove Vietnamese characters form string in JS](https://dev.to/vyquocvu/remove-vietnamese-characters-form-string-in-js-39h)
-- [Dev.to/JS] [Absolute Beginner&#39;s Guide to Learn JavaScript, Part-1](https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-1-39kb)
-- [Dev.to/JS] [Working with v-model in Vue 3](https://dev.to/caio2k/working-with-v-model-in-vue-3-3791)
 - [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)
-- [Dev.to/JS] [User Authentication with Web3](https://dev.to/anggapur/user-authentication-with-web3-4he8)
 - [Lifehacker] [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)
 - [Lifehacker] [You Should Salt-Roast Your Raw Nuts](https://lifehacker.com/you-should-salt-roast-your-raw-nuts-1849428165)
 - [Lifehacker] [What Is ‘Quiet Quitting’ &lpar;and Should You Really Do It&rpar;?](https://lifehacker.com/what-is-quiet-quitting-and-should-you-really-do-it-1849426004)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [That Oat Milk Recall Keeps Getting Bigger [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 - [Lifehacker] [How to Be the ‘Personality Hire’ at Your Next Job](https://lifehacker.com/how-to-be-the-personality-hire-at-your-next-job-1849404854)
 - [Lifehacker] [Why You Should Never Message Strangers on PlayStation Network](https://lifehacker.com/why-you-should-never-message-strangers-on-playstation-n-1849423132)
-- [Lifehacker] [Your Android Home Screen Needs More Shortcuts](https://lifehacker.com/your-android-home-screen-needs-more-shortcuts-1849421923)
-- [Lifehacker] [How to Save Money by &#39;Churning&#39; Your Streaming Services](https://lifehacker.com/how-to-save-money-by-churning-your-streaming-services-1849402028)
-- [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Android Home Screen Needs More Shortcuts](https://lifehacker.com/your-android-home-screen-needs-more-shortcuts-1849421923)<!-- TECH-POSTS:END -->
 
 ---
 
