@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React A JavaScript library for building user interfaces](https://dev.to/stvantran/react-a-javascript-library-for-building-user-interfaces-4jn9)
 - [Dev.to/JS] [Separate the Numbers](https://dev.to/zeeshanali0704/separate-the-numbers-55p4)
 - [Dev.to/JS] [Some beautiful HTML, CSS, and Javascript interfaces &lpar;part 1&rpar;](https://dev.to/fullstackhacker/some-beautiful-html-css-and-javascript-interfaces-4l59)
 - [Dev.to/JS] [Typescript boilerplate test configuration with mocha, chai and sinon](https://dev.to/luizcalaca/typescript-boilerplate-test-configuration-with-mocha-chai-and-sinon-1mml)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [18th August&#39; 2022!](https://dev.to/zoro/18th-august-2022-14pb)
 - [Dev.to/JS] [Morphing portal](https://dev.to/headsink/morphing-portal-4o9g)
 - [Dev.to/JS] [How to Specify a Node Version in Repl.it](https://dev.to/saranshk/how-to-specify-a-node-version-in-replit-6bg)
-- [Dev.to/JS] [Javascript Map Function Explained with Code](https://dev.to/ayush_shines/javascript-map-function-on-array-explained-with-code-56m1)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
