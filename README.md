@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flip](https://dev.to/lakshyachitransh/flip-5f2i)
+- [Dev.to/JS] [Typescript Series - First and Last of Array Type](https://dev.to/sarmunbustillo/typescript-series-first-and-last-of-array-type-5dmb)
+- [Lifehacker] [Stuff Your Quesadilla With Fried Chicken](https://lifehacker.com/stuff-your-quesadilla-with-fried-chicken-1849426275)
+- [Dev.to/JS] [Convert Array to String in JavaScript.](https://dev.to/ministryofjavascript/convert-array-to-string-in-javascript-2odi)
 - [Lifehacker] [You Need to Take a ‘Suburbs Day’](https://lifehacker.com/you-need-to-take-a-suburbs-day-1849424304)
 - [Dev.to/JS] [Finally!! A Blockchain For Any Programming Language &lpar;Video&rpar;](https://dev.to/johnjardincodes/finally-a-blockchain-for-any-programming-language-video-37e4)
 - [Dev.to/JS] [Calculator in React](https://dev.to/markuswedler/calculator-in-react-5a6n)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Property &#39;name&#39; comes from an index signature, so it must be accessed with [&#39;name&#39;].](https://dev.to/mvlhomme/property-name-comes-from-an-index-signature-so-it-must-be-accessed-with-name-3b51)
 - [Dev.to/JS] [Becoming an Expert is Simple](https://dev.to/calvin087/becoming-an-expert-is-simple-42o1)
 - [Dev.to/JS] [My life as a Software Development Student.](https://dev.to/malvinocreator/life-as-a-software-development-student-4mb1)
-- [Dev.to/JS] [What do React vs. Next.js projects look like?](https://dev.to/nermineslimane/what-do-react-vs-nextjs-projects-look-like-2cbd)
-- [Dev.to/JS] [How I Created a One-Page Swag Store in 15 minutes](https://dev.to/medusajs/how-i-created-a-one-page-swag-store-in-15-minutes-8oh)
-- [Dev.to/JS] [Weighted 🏋️ Random generator in Typescript &lpar;with Test Driven Development 🧪&rpar;](https://dev.to/this-is-learning/weighted-random-generator-in-typescript-with-test-driven-development--hlb)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Early Check-In at Your Hotel &lpar;and What to Do If You Can&#39;t&rpar;](https://lifehacker.com/how-to-get-early-check-in-at-your-hotel-and-what-to-do-1849417854)
 - [Lifehacker] [This Is the Best Way to Drink Diet Coke](https://lifehacker.com/this-is-the-best-way-to-drink-diet-coke-1849418295)
 - [Lifehacker] [Here&#39;s How CBS Mornings Co-Host Nate Burleson Travels Like a Pro](https://lifehacker.com/heres-how-cbs-mornings-co-host-nate-burleson-travels-li-1849418764)
-- [Lifehacker] [Roast Some Pineapple to Make This Luxurious Salad](https://lifehacker.com/roast-some-pineapple-to-make-this-luxurious-salad-1849418537)
-- [Lifehacker] [The Best Android 13 Features Worth Knowing About](https://lifehacker.com/the-best-android-13-features-worth-knowing-about-1849417266)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Roast Some Pineapple to Make This Luxurious Salad](https://lifehacker.com/roast-some-pineapple-to-make-this-luxurious-salad-1849418537)<!-- TECH-POSTS:END -->
 
 ---
 
