@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why everyone is talking about Astro and island Architecture](https://dev.to/foxy17/why-everyone-is-talking-about-astro-and-island-architecture-1762)
+- [Dev.to/JS] [The Strapi Config Sync Plugin](https://dev.to/strapi/the-strapi-config-sync-plugin-4ade)
+- [Dev.to/JS] [Enrich your Javascript with simple functional programming techniques](https://dev.to/this-is-learning/enrich-your-javascript-with-simple-functional-programming-techniques-13aa)
+- [Dev.to/JS] [Performance Metrics - WebPerf#0](https://dev.to/swapnadeepmohapatra/performance-metrics-webperf0-57hc)
 - [Dev.to/JS] [Is React a Framework? Software Engineer Answering](https://dev.to/flatlogic/is-react-a-framework-software-engineer-answering-kh7)
 - [Dev.to/JS] [Phaser vs PixiJS for making 2D games](https://dev.to/ritza/phaser-vs-pixijs-for-making-2d-games-2j8c)
 - [Dev.to/JS] [Navigation API: la navigation côté client la plus moderne](https://dev.to/this-is-learning/navigation-api-la-navigation-cote-client-la-plus-moderne-33po)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gauge Framework — How to Perform Test Automation](https://dev.to/lambdatest/gauge-framework-how-to-perform-test-automation-2d91)
 - [Dev.to/JS] [13. Refactoring and data filling](https://dev.to/apayrus/keyboard-learning-app-13-refactoring-and-data-filling-4co5)
 - [Dev.to/JS] [12. Playing audio 2. Keyboard layout global and local parts](https://dev.to/apayrus/keyboard-learning-app-12-playing-audio-2-keyboard-layout-global-and-local-parts-l27)
-- [Dev.to/JS] [11. Playing audio](https://dev.to/apayrus/keyboard-learning-app-11-playing-audio-156)
-- [Dev.to/JS] [10. CSS animation](https://dev.to/apayrus/keyboard-learning-app-10-css-animation-2af1)
-- [Dev.to/JS] [9. Interactivity 3. Set `activeKey` by click. `shiftKey` app state](https://dev.to/apayrus/keyboard-learning-app-9-interactivity-3-set-activekey-by-click-shiftkey-app-state-38fb)
-- [Dev.to/JS] [8. Interactivity 2. `Keydown` event handling. Active key state](https://dev.to/apayrus/keyboard-learning-app-8-interactivity-2-keydown-event-handling-active-key-state-l7e)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
