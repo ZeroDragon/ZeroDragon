@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useAsync hook with cache](https://dev.to/devsmitra/useasync-hook-with-cache-5817)
+- [Dev.to/JS] [Tips To Help You Become A Better Developer](https://dev.to/wisdomtek/tips-to-become-a-better-developer-2p0c)
 - [Dev.to/JS] [Introducing : Pie Chart Maker](https://dev.to/atharvtathe/introducing-pie-chart-maker-5bl2)
 - [Dev.to/JS] [Netflix Clone](https://dev.to/yashkapure06/netflix-clone-516f)
 - [Dev.to/JS] [Sherlock and the Valid String](https://dev.to/zeeshanali0704/sherlock-and-the-valid-string-5e0f)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a password generator with Vanilla JS, Html and css](https://dev.to/jasonoboti/create-a-password-generator-with-vanilla-js-html-and-css-1oc1)
 - [Dev.to/JS] [How To Make Tooltips.](https://dev.to/f53/how-to-make-tooltips-2oio)
 - [Dev.to/JS] [Build accessible components with React Aria](https://dev.to/asayerio_techblog/build-accessible-components-with-react-aria-45cd)
-- [Dev.to/JS] [10 GitHub repositories to Become a React Master 👨‍💻💯](https://dev.to/langford_dev/10-github-repositories-to-become-a-react-master-pd1)
-- [Dev.to/JS] [5 JavaScript Events You NEED To Know 🌏](https://dev.to/dcodeyt/5-javascript-events-you-need-to-know-1jjl)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
