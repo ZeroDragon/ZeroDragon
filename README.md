@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with a whole new CSS language —— Master CSS](https://dev.to/aron/getting-started-with-a-whole-new-css-language-master-css-12l0)
+- [Dev.to/JS] [How I created a custom time-frame for my client&#39;s website, using Date-fns.](https://dev.to/galnaim/how-i-created-a-custom-time-frame-for-my-clients-website-using-date-fns-45jo)
+- [Dev.to/JS] [Creating a progress bar using JavaScript](https://dev.to/rohitmore07/creating-a-progress-bar-using-javascript-4njp)
+- [Dev.to/JS] [How would you refactor this code? &lpar;tennis-3-modern&rpar;](https://dev.to/lgrammel/how-would-you-refactor-this-code-tennis-3-modern-40h7)
+- [Dev.to/JS] [Rich text and images with Contentful, Next.js and Zod](https://dev.to/jussinevavuori/rich-text-and-images-with-contentful-nextjs-and-zod-5684)
 - [Dev.to/JS] [Why everyone is talking about Astro and island Architecture](https://dev.to/foxy17/why-everyone-is-talking-about-astro-and-island-architecture-1762)
 - [Dev.to/JS] [The Strapi Config Sync Plugin](https://dev.to/strapi/the-strapi-config-sync-plugin-4ade)
 - [Dev.to/JS] [Enrich your Javascript with simple functional programming techniques](https://dev.to/this-is-learning/enrich-your-javascript-with-simple-functional-programming-techniques-13aa)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is React a Framework? Software Engineer Answering](https://dev.to/flatlogic/is-react-a-framework-software-engineer-answering-kh7)
 - [Dev.to/JS] [Phaser vs PixiJS for making 2D games](https://dev.to/ritza/phaser-vs-pixijs-for-making-2d-games-2j8c)
 - [Dev.to/JS] [Navigation API: la navigation côté client la plus moderne](https://dev.to/this-is-learning/navigation-api-la-navigation-cote-client-la-plus-moderne-33po)
-- [Dev.to/JS] [14. Styling](https://dev.to/apayrus/14-styling-3bd9)
-- [Dev.to/JS] [Top 7 Cities Indians Are Moving To For Good Data Science Jobs](https://dev.to/datascientist987/top-7-cities-indians-are-moving-to-for-good-data-science-jobs-39a)
-- [Dev.to/JS] [Gauge Framework — How to Perform Test Automation](https://dev.to/lambdatest/gauge-framework-how-to-perform-test-automation-2d91)
-- [Dev.to/JS] [13. Refactoring and data filling](https://dev.to/apayrus/keyboard-learning-app-13-refactoring-and-data-filling-4co5)
-- [Dev.to/JS] [12. Playing audio 2. Keyboard layout global and local parts](https://dev.to/apayrus/keyboard-learning-app-12-playing-audio-2-keyboard-layout-global-and-local-parts-l27)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
