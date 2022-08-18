@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Becoming an Expert is Simple](https://dev.to/calvin087/becoming-an-expert-is-simple-42o1)
+- [Dev.to/JS] [Life as a Software Development Student.](https://dev.to/malvinocreator/life-as-a-software-development-student-4mb1)
 - [Dev.to/JS] [What do React vs. Next.js projects look like?](https://dev.to/nermineslimane/what-do-react-vs-nextjs-projects-look-like-2cbd)
 - [Dev.to/JS] [How I Created a One-Page Swag Store in 15 minutes](https://dev.to/medusajs/how-i-created-a-one-page-swag-store-in-15-minutes-8oh)
 - [Dev.to/JS] [Weighted 🏋️ Random generator in Typescript &lpar;with Test Driven Development 🧪&rpar;](https://dev.to/this-is-learning/weighted-random-generator-in-typescript-with-test-driven-development--hlb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with a whole new CSS language —— Master CSS](https://dev.to/aron/getting-started-with-a-whole-new-css-language-master-css-12l0)
 - [Dev.to/JS] [How I created a custom time-frame for my client&#39;s website, using Date-fns.](https://dev.to/galnaim/how-i-created-a-custom-time-frame-for-my-clients-website-using-date-fns-45jo)
 - [Dev.to/JS] [Creating a progress bar using JavaScript](https://dev.to/rohitmore07/creating-a-progress-bar-using-javascript-4njp)
-- [Dev.to/JS] [How would you refactor this code? &lpar;tennis-3-modern&rpar;](https://dev.to/lgrammel/how-would-you-refactor-this-code-tennis-3-modern-40h7)
-- [Dev.to/JS] [Rich text and images with Contentful, Next.js and Zod](https://dev.to/jussinevavuori/rich-text-and-images-with-contentful-nextjs-and-zod-5684)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
