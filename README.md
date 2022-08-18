@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing : Pie Chart Maker](https://dev.to/atharvtathe/introducing-pie-chart-maker-5bl2)
+- [Dev.to/JS] [Netflix Clone](https://dev.to/yashkapure06/netflix-clone-516f)
+- [Dev.to/JS] [Sherlock and the Valid String](https://dev.to/zeeshanali0704/sherlock-and-the-valid-string-5e0f)
 - [Dev.to/JS] [React A JavaScript library for building user interfaces](https://dev.to/stvantran/react-a-javascript-library-for-building-user-interfaces-4jn9)
 - [Dev.to/JS] [Separate the Numbers](https://dev.to/zeeshanali0704/separate-the-numbers-55p4)
 - [Dev.to/JS] [Some beautiful HTML, CSS, and Javascript interfaces &lpar;part 1&rpar;](https://dev.to/fullstackhacker/some-beautiful-html-css-and-javascript-interfaces-4l59)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build accessible components with React Aria](https://dev.to/asayerio_techblog/build-accessible-components-with-react-aria-45cd)
 - [Dev.to/JS] [10 GitHub repositories to Become a React Master 👨‍💻💯](https://dev.to/langford_dev/10-github-repositories-to-become-a-react-master-pd1)
 - [Dev.to/JS] [5 JavaScript Events You NEED To Know 🌏](https://dev.to/dcodeyt/5-javascript-events-you-need-to-know-1jjl)
-- [Dev.to/JS] [18th August&#39; 2022!](https://dev.to/zoro/18th-august-2022-14pb)
-- [Dev.to/JS] [Morphing portal](https://dev.to/headsink/morphing-portal-4o9g)
-- [Dev.to/JS] [How to Specify a Node Version in Repl.it](https://dev.to/saranshk/how-to-specify-a-node-version-in-replit-6bg)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
