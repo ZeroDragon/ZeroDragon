@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use Expose in Vue 3 Composition API](https://dev.to/joseprest/use-expose-in-vue-3-composition-api-12b4)
+- [Dev.to/JS] [Manipulating the DOM using Javascript - traversing the DOM&lpar;part 2&rpar; 👨🏼‍🔬🎯](https://dev.to/arikaturika/manipulating-the-dom-using-javascript-traversing-the-dompart-2-1711)
+- [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)
+- [Dev.to/JS] [Remove Vietnamese characters form string in JS](https://dev.to/vyquocvu/remove-vietnamese-characters-form-string-in-js-39h)
+- [Dev.to/JS] [Absolute Beginner&#39;s Guide to Learn JavaScript, Part-1](https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-1-39kb)
+- [Dev.to/JS] [Working with v-model in Vue 3](https://dev.to/caio2k/working-with-v-model-in-vue-3-3791)
+- [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)
+- [Dev.to/JS] [User Authentication with Web3](https://dev.to/anggapur/user-authentication-with-web3-4he8)
+- [Dev.to/JS] [The only JavaScript &quot;String&quot; Guide you will Ever Need.](https://dev.to/envoy_/the-only-javascript-string-guide-you-will-ever-need-5f8h)
+- [Dev.to/JS] [Creating Websocket servers and clients in Nodejs](https://dev.to/nonunicorn/creating-websocket-servers-and-clients-in-nodejs-57m2)
 - [Lifehacker] [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)
 - [Dev.to/JS] [Helping the Environment by Saving Two Centuries of Compute time](https://dev.to/nx/helping-the-environment-by-saving-two-centuries-of-compute-time-4nep)
 - [Dev.to/JS] [A hands-on tutorial for using Contentful with Vue](https://dev.to/contentful/a-hands-on-tutorial-for-using-contentful-with-vue-1en7)
@@ -31,17 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fly These Airlines to Add a Free or Cheap Stopover to Your Vacation](https://lifehacker.com/fly-these-airlines-to-add-a-free-or-cheap-stopover-to-y-1849427646)
 - [Dev.to/JS] [Create Accordion Component with React Hooks](https://dev.to/nabillatrisnani/create-accordion-component-with-react-hooks-3mjp)
 - [Dev.to/JS] [Top 10 Best Login Form | CSS &amp; JavaScript](https://dev.to/robsonmuniz16/top-10-best-login-form-css-javascript-4en1)
-- [Dev.to/JS] [Flip](https://dev.to/lakshyachitransh/flip-5f2i)
-- [Dev.to/JS] [Typescript Series - First and Last of Array Type](https://dev.to/sarmunbustillo/typescript-series-first-and-last-of-array-type-5dmb)
 - [Lifehacker] [Stuff Your Quesadilla With Fried Chicken](https://lifehacker.com/stuff-your-quesadilla-with-fried-chicken-1849426275)
-- [Dev.to/JS] [Convert Array to String in JavaScript.](https://dev.to/ministryofjavascript/convert-array-to-string-in-javascript-2odi)
 - [Lifehacker] [You Need to Take a ‘Suburbs Day’](https://lifehacker.com/you-need-to-take-a-suburbs-day-1849424304)
-- [Dev.to/JS] [Finally!! A Blockchain For Any Programming Language &lpar;Video&rpar;](https://dev.to/johnjardincodes/finally-a-blockchain-for-any-programming-language-video-37e4)
-- [Dev.to/JS] [Calculator in React](https://dev.to/markuswedler/calculator-in-react-5a6n)
-- [Dev.to/JS] [Environment variables in Nuxt 3](https://dev.to/amitgurbani/environment-variables-in-nuxt-3-9p6)
-- [Dev.to/JS] [Animate emoji](https://dev.to/claude_bekombo/animate-emoji-1060)
 - [Lifehacker] [Don&#39;t Drink the Recalled Capri Sun That Might Have Cleaning Solution in It](https://lifehacker.com/dont-drink-the-recalled-capri-sun-that-might-have-clean-1849425451)
-- [Dev.to/JS] [Using the EventTarget interface](https://dev.to/cloudx/using-the-eventtarget-interface-5f0f)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Dodge Charger and Challenger, and 10 More Iconic Cars That Are No Longer Made](https://lifehacker.com/10-iconic-cars-that-are-no-longer-made-1849419256)
 - [Lifehacker] [This Is the Perfect French Fry Dip](https://lifehacker.com/this-is-the-perfect-french-fry-dip-1849420066)
 - [Crazy Programmer] [Brian Kernighan Biography](https://www.thecrazyprogrammer.com/2022/08/brian-kernighan-biography.html)
-- [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)
-- [Lifehacker] [How to Stop Your Important Emails From Going to Someone&#39;s Spam Folder](https://lifehacker.com/how-to-stop-your-important-emails-from-going-to-someone-1849419780)
-- [Lifehacker] [How Do I Know If I Was Vaccinated Against Polio?](https://lifehacker.com/how-do-i-know-if-i-was-vaccinated-against-polio-1849419706)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All of Your Smart Devices Are Spying on You](https://lifehacker.com/all-of-your-smart-devices-are-spying-on-you-1849419669)<!-- TECH-POSTS:END -->
 
 ---
 
