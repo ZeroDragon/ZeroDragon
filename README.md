@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Progress Bar Indicator for Next.js](https://dev.to/asayerio_techblog/how-to-build-a-progress-bar-indicator-for-nextjs-hn4)
+- [Dev.to/JS] [Proxy Objects in JavaScript](https://dev.to/kadeesterline/proxy-objects-in-javascript-1ajo)
+- [Dev.to/JS] [Using Switch Selectors in React Native](https://dev.to/asayerio_techblog/using-switch-selectors-in-react-native-3p7d)
+- [Dev.to/JS] [Navigator share API - Can we track in which application, user has choosen to share? eg: facebook, whatsapp](https://dev.to/arockiahelans/navigator-share-api-can-we-track-in-which-application-user-has-choosen-to-share-eg-facebook-whatsapp-1ikc)
+- [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 - [Dev.to/JS] [LeetCode - Combination Sum IV](https://dev.to/_alkesh26/leetcode-combination-sum-iv-3gpg)
 - [Dev.to/JS] [Understanding the React useState Hook](https://dev.to/shubhamku044/understanding-the-react-usestate-hook-4n50)
 - [Dev.to/JS] [Express.js Error Handling 101](https://dev.to/jakelumetta/expressjs-error-handling-101-2d5d)
@@ -33,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 1 of getting back into Solidity Course](https://dev.to/detwiler_amy/day-1-of-getting-back-into-solidity-course-d1d)
 - [Dev.to/JS] [Amazon Leadership Principle - Think Big and Bias for action](https://dev.to/upskillie/amazon-leadership-principle-think-big-and-bias-for-action-3o1j)
 - [Dev.to/JS] [Amazon leadership Principles - Frugality and Earn Trust](https://dev.to/upskillie/amazon-leadership-principles-frugality-and-earn-trust-p3a)
-- [Dev.to/JS] [10 ways to speed up JavaScript loading](https://dev.to/asyncbanana/10-ways-to-speed-up-javascript-loading-3lob)
 - [Lifehacker] [Do You Ever Have to Tell Your Boss About Your Second Job?](https://lifehacker.com/do-you-ever-have-to-tell-your-boss-about-your-second-jo-1849424698)
 - [Lifehacker] [How to Recover a Microsoft Office File You Forgot to Save](https://lifehacker.com/how-to-recover-a-microsoft-office-file-you-forgot-to-sa-1849429735)
-- [Dev.to/JS] [SvelteKit Breaking Changes Explanation](https://dev.to/theether0/sveltekit-breaking-changes-explaination-18im)
-- [Dev.to/JS] [User Authentication with FACEIO](https://dev.to/ahmedqureshi54/user-authentication-with-faceio-dja)
-- [Dev.to/JS] [HAX: everything everywhere all at once](https://dev.to/btopro/hax-everything-everywhere-all-at-once-59gl)
 - [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
 - [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)
 - [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch the End Credits on Every Major Streaming Service](https://lifehacker.com/how-to-watch-the-end-credits-on-every-major-streaming-s-1849423717)
 - [Lifehacker] [That Oat Milk Recall Keeps Getting Bigger [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
 - [Lifehacker] [How to Be the ‘Personality Hire’ at Your Next Job](https://lifehacker.com/how-to-be-the-personality-hire-at-your-next-job-1849404854)
-- [Lifehacker] [Why You Should Never Message Strangers on PlayStation Network](https://lifehacker.com/why-you-should-never-message-strangers-on-playstation-n-1849423132)
-- [Lifehacker] [Your Android Home Screen Needs More Shortcuts](https://lifehacker.com/your-android-home-screen-needs-more-shortcuts-1849421923)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Message Strangers on PlayStation Network](https://lifehacker.com/why-you-should-never-message-strangers-on-playstation-n-1849423132)<!-- TECH-POSTS:END -->
 
 ---
 
