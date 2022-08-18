@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - Combination Sum IV](https://dev.to/_alkesh26/leetcode-combination-sum-iv-3gpg)
+- [Dev.to/JS] [Understanding the React useState Hook](https://dev.to/shubhamku044/understanding-the-react-usestate-hook-4n50)
+- [Dev.to/JS] [Express.js Error Handling 101](https://dev.to/jakelumetta/expressjs-error-handling-101-2d5d)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 - [Dev.to/JS] [Are you ready for a Promotion? &lpar;Updated&rpar;](https://dev.to/intesar/are-you-ready-for-a-promotion-updated-84o)
 - [Dev.to/JS] [Arquitetura Limpa - Como foi aplicar em um projeto real](https://dev.to/paulohsilvavieira/arquitetura-limpa-como-foi-aplicar-em-um-projeto-real-12go)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SvelteKit Breaking Changes Explanation](https://dev.to/theether0/sveltekit-breaking-changes-explaination-18im)
 - [Dev.to/JS] [User Authentication with FACEIO](https://dev.to/ahmedqureshi54/user-authentication-with-faceio-dja)
 - [Dev.to/JS] [HAX: everything everywhere all at once](https://dev.to/btopro/hax-everything-everywhere-all-at-once-59gl)
-- [Dev.to/JS] [Array.prototype.toString&lpar;&rpar; in JS](https://dev.to/shubhamtiwari909/tostring-in-js-27b)
 - [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
-- [Dev.to/JS] [Cheat sheet for React Part I &lpar;Updated August 2022&rpar;](https://dev.to/khansa/cheat-sheet-for-react-part-i-updated-august-2022-am4)
-- [Dev.to/JS] [The Concept](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
 - [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)
 - [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)
 - [Lifehacker] [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)
