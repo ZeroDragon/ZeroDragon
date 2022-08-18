@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is React a Framework? Software Engineer Answering](https://dev.to/flatlogic/is-react-a-framework-software-engineer-answering-kh7)
+- [Dev.to/JS] [Phaser vs PixiJS for making 2D games](https://dev.to/ritza/phaser-vs-pixijs-for-making-2d-games-2j8c)
+- [Dev.to/JS] [Navigation API: la navigation côté client la plus moderne](https://dev.to/this-is-learning/navigation-api-la-navigation-cote-client-la-plus-moderne-33po)
 - [Dev.to/JS] [14. Styling](https://dev.to/apayrus/14-styling-3bd9)
 - [Dev.to/JS] [Top 7 Cities Indians Are Moving To For Good Data Science Jobs](https://dev.to/datascientist987/top-7-cities-indians-are-moving-to-for-good-data-science-jobs-39a)
 - [Dev.to/JS] [Gauge Framework — How to Perform Test Automation](https://dev.to/lambdatest/gauge-framework-how-to-perform-test-automation-2d91)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10. CSS animation](https://dev.to/apayrus/keyboard-learning-app-10-css-animation-2af1)
 - [Dev.to/JS] [9. Interactivity 3. Set `activeKey` by click. `shiftKey` app state](https://dev.to/apayrus/keyboard-learning-app-9-interactivity-3-set-activekey-by-click-shiftkey-app-state-38fb)
 - [Dev.to/JS] [8. Interactivity 2. `Keydown` event handling. Active key state](https://dev.to/apayrus/keyboard-learning-app-8-interactivity-2-keydown-event-handling-active-key-state-l7e)
-- [Dev.to/JS] [7. Interactivity 1. Switching keyboards](https://dev.to/apayrus/keyboard-learning-app-7-interactivity-1-switching-keyboards-59f6)
-- [Dev.to/JS] [6. Modularity 3. Loop in a template &lpar;v-for&rpar;. Dynamic import. LangSwitcher](https://dev.to/apayrus/keyboard-learning-app-6-modularity-3-loop-in-a-template-v-for-dynamic-import-langswitcher-5920)
-- [Dev.to/JS] [5. Modularity 2. Passing props. Computed template variables](https://dev.to/apayrus/keyboard-learning-app-5-modularity-2-passing-props-computed-template-variables-3ba9)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
