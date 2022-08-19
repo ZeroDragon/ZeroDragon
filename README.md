@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👾Javascript — Sair de um loop for em JavaScript](https://dev.to/cleytonlang/javascript-sair-de-um-loop-for-em-javascript-ci6)
+- [Lifehacker] [Do You Have Antisocial Personality Disorder?](https://lifehacker.com/do-you-have-antisocial-personality-disorder-1849434758)
+- [Lifehacker] [The Easiest Ways to Make Your Home More Wheelchair-Accessible](https://lifehacker.com/the-easiest-ways-to-make-your-home-more-wheelchair-acce-1849434466)
 - [Dev.to/JS] [map, filter and reduce in javascript - the easy way](https://dev.to/tejash023/map-filter-and-reduce-in-javascript-the-easy-way-3cja)
 - [Dev.to/JS] [Building infrastructure for an open-source programmable zapier](https://dev.to/tonyhb/building-infrastructure-for-an-open-source-programmable-zapier-36cf)
 - [Lifehacker] [11 of the Best Life Advice Podcasts to Answer All Your Tough Questions](https://lifehacker.com/11-of-the-best-life-advice-podcasts-to-answer-all-your-1849434919)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GLITCH TEXT EFFECT](https://dev.to/zastixx/glitch-text-effect-3hla)
 - [Dev.to/JS] [Modular frontends are functional for freaky fast web dev](https://dev.to/richkurtzman/modular-frontends-are-functional-for-freaky-fast-web-dev-bcg)
 - [Dev.to/JS] [The minimum TypeScript you need for React](https://dev.to/enteio/the-minimum-typescript-you-need-for-react-2hj0)
-- [Dev.to/JS] [🔴 Live - Creating a Modern NPM Package](https://dev.to/clarkio/live-creating-a-modern-npm-package-2n1b)
 - [Lifehacker] [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s Behind the &#39;Girl Bro&#39; Meme?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-beh-1849432598)
 - [Lifehacker] [How to Improve Your Hand Dexterity &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-improve-your-hand-dexterity-and-why-its-importa-1849432227)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is ‘Quiet Quitting’ &lpar;and Should You Really Do It&rpar;?](https://lifehacker.com/what-is-quiet-quitting-and-should-you-really-do-it-1849426004)
 - [Lifehacker] [Fly These Airlines to Add a Free or Cheap Stopover to Your Vacation](https://lifehacker.com/fly-these-airlines-to-add-a-free-or-cheap-stopover-to-y-1849427646)
 - [Lifehacker] [Stuff Your Quesadilla With Fried Chicken](https://lifehacker.com/stuff-your-quesadilla-with-fried-chicken-1849426275)
-- [Lifehacker] [You Need to Take a ‘Suburbs Day’](https://lifehacker.com/you-need-to-take-a-suburbs-day-1849424304)
-- [Lifehacker] [Don&#39;t Drink the Recalled Capri Sun That Might Have Cleaning Solution in It](https://lifehacker.com/dont-drink-the-recalled-capri-sun-that-might-have-clean-1849425451)
-- [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Take a ‘Suburbs Day’](https://lifehacker.com/you-need-to-take-a-suburbs-day-1849424304)<!-- TECH-POSTS:END -->
 
 ---
 
