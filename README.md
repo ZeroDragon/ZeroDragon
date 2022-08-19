@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React 18 Suspense fetch data from a headless CMS](https://dev.to/naira_gezhoyan/react-18-suspense-fetch-data-from-a-headless-cms-1mko)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s Behind the &#39;Girl Bro&#39; Meme?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-beh-1849432598)
+- [Dev.to/JS] [Low-Code Development Vs Traditional Development: Things To Know](https://dev.to/ashukalbande/low-code-development-vs-traditional-development-things-to-know-30a5)
+- [Dev.to/JS] [Chat App with WebSocket: Building Chat Page](https://dev.to/sokhavuth/chat-app-with-websocket-building-chat-page-3hhk)
+- [Dev.to/JS] [Node TypeScript JSON Schema validation using TypeBox](https://dev.to/franciscomendes10866/node-typescript-json-schema-validation-using-typebox-2oee)
+- [Lifehacker] [How to Improve Your Hand Dexterity &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-improve-your-hand-dexterity-and-why-its-importa-1849432227)
 - [Dev.to/JS] [Profile Card Animation](https://dev.to/uidesign09/profile-card-animation-5e8h)
 - [Dev.to/JS] [What I learned from Developing a MEAN Stack Project!](https://dev.to/abdurrkhalid333/what-i-learned-from-developing-a-mean-stack-project-405j)
 - [Lifehacker] [The Best Ways to Spend Your Vacation ‘Buffer Day’](https://lifehacker.com/the-best-ways-to-spend-your-vacation-buffer-day-1849433148)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Creative Agency Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/build-a-creative-agency-website-using-html-css-javascript-25nm)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849430424)
 - [Dev.to/JS] [Writing a roman numeral function in Javascript](https://dev.to/jtlavs/writing-a-roman-numeral-function-in-javascript-4hno)
-- [Dev.to/JS] [PRIMARY PROGRAMMING LANGUAGES TO LEARN IN 2023](https://dev.to/kiranve00977518/primary-programming-languages-to-learn-in-2023-5a8h)
-- [Dev.to/JS] [CoDe SmElL 159 - mIxEd_cASe](https://dev.to/mcsee/code-smell-159-mixedcase-nc)
-- [Dev.to/JS] [Database: Design Normal Forms](https://dev.to/midnqp/database-design-normal-forms-3i49)
-- [Dev.to/JS] [Benchmarking Bun &amp; Next against Deno and Fresh](https://dev.to/herbievine/benchmarking-bun-next-against-deno-and-fresh-3hel)
 - [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
 - [Lifehacker] [You Need to Update Chrome Again](https://lifehacker.com/you-need-to-update-chrome-again-1849424239)
 - [Lifehacker] [Why Is Everyone Suddenly Putting Olives in Their Spritzes?](https://lifehacker.com/why-is-everyone-suddenly-putting-olives-in-their-spritz-1849423933)
-- [Lifehacker] [You Can Make Money by Letting Dogs Play in Your Yard](https://lifehacker.com/you-can-make-money-by-letting-dogs-play-in-your-yard-1849424385)
-- [Lifehacker] [How to Improve Your Balance &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-improve-your-balance-and-why-it-matters-1849424599)
-- [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Money by Letting Dogs Play in Your Yard](https://lifehacker.com/you-can-make-money-by-letting-dogs-play-in-your-yard-1849424385)<!-- TECH-POSTS:END -->
 
 ---
 
