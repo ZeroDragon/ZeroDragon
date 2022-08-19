@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Profile Card Animation](https://dev.to/uidesign09/profile-card-animation-5e8h)
+- [Dev.to/JS] [What I learned from Developing a MEAN Stack Project!](https://dev.to/abdurrkhalid333/what-i-learned-from-developing-a-mean-stack-project-405j)
+- [Lifehacker] [The Best Ways to Spend Your Vacation ‘Buffer Day’](https://lifehacker.com/the-best-ways-to-spend-your-vacation-buffer-day-1849433148)
+- [Dev.to/JS] [JS push and pop with Arrays](https://dev.to/shubhamtiwari909/js-push-and-pop-with-arrays-33a2)
 - [Lifehacker] [8 of the World&#39;s Most Amazing Real-Life Prison Escapes &lpar;and What to Learn From Them&rpar;](https://lifehacker.com/8-of-the-worlds-most-amazing-real-life-prison-escapes-1849427379)
 - [Lifehacker] [How to Get a Free Stove From the Government &lpar;and Help Save the Planet&rpar;](https://lifehacker.com/how-to-get-a-free-stove-from-the-government-and-help-s-1849431130)
 - [Dev.to/JS] [What is this keyword in javascript?](https://dev.to/abu/what-is-this-keyword-in-javascript-3hja)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CoDe SmElL 159 - mIxEd_cASe](https://dev.to/mcsee/code-smell-159-mixedcase-nc)
 - [Dev.to/JS] [Database: Design Normal Forms](https://dev.to/midnqp/database-design-normal-forms-3i49)
 - [Dev.to/JS] [Benchmarking Bun &amp; Next against Deno and Fresh](https://dev.to/herbievine/benchmarking-bun-next-against-deno-and-fresh-3hel)
-- [Dev.to/JS] [Push Notifications with React JS and Firebase](https://dev.to/nasreenkhalid/push-notifications-with-react-js-and-firebase-502m)
-- [Dev.to/JS] [VS Code Extension to Pick Relevant Emojis for Git Commit Messages 🐛](https://dev.to/babakks/vs-code-extension-to-pick-relevant-emojis-for-git-commit-messages-201c)
-- [Dev.to/JS] [You don&#39;t know JavaScript reduce&lpar;&rpar; method](https://dev.to/trillionclues/you-dont-know-javascript-reduce-method-1nh2)
 - [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Is Everyone Suddenly Putting Olives in Their Spritzes?](https://lifehacker.com/why-is-everyone-suddenly-putting-olives-in-their-spritz-1849423933)
 - [Lifehacker] [You Can Make Money by Letting Dogs Play in Your Yard](https://lifehacker.com/you-can-make-money-by-letting-dogs-play-in-your-yard-1849424385)
 - [Lifehacker] [How to Improve Your Balance &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-improve-your-balance-and-why-it-matters-1849424599)
-- [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
-- [Lifehacker] [How to Make Pâte à Choux &lpar;the Stuff Éclairs Are Made of&rpar;](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)<!-- TECH-POSTS:END -->
 
 ---
 
