@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Tagalog - String endsWith Method](https://dev.to/mmvergara/javascript-tagalog-string-endswith-method-4eel)
+- [Dev.to/JS] [5 Essential Benefits That Tell How Important A Singapore Custom web design Is](https://dev.to/shaunmike/5-essential-benefits-that-tell-how-important-a-singapore-custom-web-design-is-chg)
+- [Dev.to/JS] [Javascript Tagalog - String startsWith Method](https://dev.to/mmvergara/javascript-tagalog-string-startswith-method-1ipj)
+- [Dev.to/JS] [The JS Promise Errand](https://dev.to/jhhornn/the-js-promise-errand-m73)
+- [Dev.to/JS] [Absolute Beginner&#39;s Guide to learn JavaScript, Part-2](https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-2-1cam)
 - [Dev.to/JS] [How to Implement Dynamic Data Binding With ActiveReportsJS](https://dev.to/grapecity/how-to-implement-dynamic-data-binding-with-activereportsjs-kic)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Dev.to/JS] [Add Vue Input Form Mask &amp; Validation Features to Your Web App](https://dev.to/grapecity/add-vue-input-form-mask-validation-features-to-your-web-app-2j8p)
@@ -36,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do You Have Antisocial Personality Disorder?](https://lifehacker.com/do-you-have-antisocial-personality-disorder-1849434758)
 - [Lifehacker] [The Easiest Ways to Make Your Home More Wheelchair-Accessible](https://lifehacker.com/the-easiest-ways-to-make-your-home-more-wheelchair-acce-1849434466)
 - [Dev.to/JS] [map, filter and reduce in javascript - the easy way](https://dev.to/tejash023/map-filter-and-reduce-in-javascript-the-easy-way-3cja)
-- [Dev.to/JS] [Building infrastructure for an open-source programmable zapier](https://dev.to/tonyhb/building-infrastructure-for-an-open-source-programmable-zapier-36cf)
 - [Lifehacker] [11 of the Best Life Advice Podcasts to Answer All Your Tough Questions](https://lifehacker.com/11-of-the-best-life-advice-podcasts-to-answer-all-your-1849434919)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
-- [Dev.to/JS] [3 Tips to Make Your UI Better - Tables](https://dev.to/kaerub/3-tips-to-make-your-ui-better-tables-5d85)
-- [Dev.to/JS] [Want to learn frontend development? Read this!](https://dev.to/msaaddev/want-to-learn-frontend-development-read-this-1k69)
-- [Dev.to/JS] [Like a Rogue](https://dev.to/rmion/like-a-rogue-2bje)
 - [Lifehacker] [12 of Anne Heche’s Best Performances](https://lifehacker.com/12-of-anne-heche-s-best-performances-1849428022)
-- [Dev.to/JS] [Liskov Substitution Principle in TypeScript](https://dev.to/jmalvarez/liskov-substitution-principle-in-typescript-3i87)
 - [Lifehacker] [There&#39;s a New Way to Find Out If You&#39;re Getting Enough Exercise](https://lifehacker.com/theres-a-new-way-to-find-out-if-youre-getting-enough-ex-1849433948)
 - [Lifehacker] [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s Behind the &#39;Girl Bro&#39; Meme?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-beh-1849432598)
