@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a new React app with Vite](https://dev.to/asheeshh/create-a-new-react-app-with-vite-2eja)
 - [Dev.to/JS] [Master API integration in JavaScript](https://dev.to/ministryofjavascript/master-api-integration-in-javascript-4ool)
 - [Dev.to/JS] [How to Build a Progress Bar Indicator for Next.js](https://dev.to/asayerio_techblog/how-to-build-a-progress-bar-indicator-for-nextjs-hn4)
 - [Dev.to/JS] [Proxy Objects in JavaScript](https://dev.to/kadeesterline/proxy-objects-in-javascript-1ajo)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arquitetura Limpa - Como foi aplicar em um projeto real](https://dev.to/paulohsilvavieira/arquitetura-limpa-como-foi-aplicar-em-um-projeto-real-12go)
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
 - [Dev.to/JS] [Day 1 of getting back into Solidity Course](https://dev.to/detwiler_amy/day-1-of-getting-back-into-solidity-course-d1d)
-- [Dev.to/JS] [Amazon Leadership Principle - Think Big and Bias for action](https://dev.to/upskillie/amazon-leadership-principle-think-big-and-bias-for-action-3o1j)
 - [Lifehacker] [Do You Ever Have to Tell Your Boss About Your Second Job?](https://lifehacker.com/do-you-ever-have-to-tell-your-boss-about-your-second-jo-1849424698)
 - [Lifehacker] [How to Recover a Microsoft Office File You Forgot to Save](https://lifehacker.com/how-to-recover-a-microsoft-office-file-you-forgot-to-sa-1849429735)
 - [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
