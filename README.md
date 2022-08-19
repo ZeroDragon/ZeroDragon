@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Push Notifications with React JS and Firebase](https://dev.to/nasreenkhalid/push-notifications-with-react-js-and-firebase-502m)
+- [Dev.to/JS] [VS Code Extension to Pick Relevant Emojis for Git Commit Messages 🐛](https://dev.to/babakks/vs-code-extension-to-pick-relevant-emojis-for-git-commit-messages-201c)
 - [Dev.to/JS] [You don&#39;t know JavaScript reduce&lpar;&rpar; method](https://dev.to/trillionclues/you-dont-know-javascript-reduce-method-1nh2)
 - [Dev.to/JS] [JavaScript Function Definitions 函式定義種類](https://dev.to/yubo0826/javascript-function-definitions-han-shi-ding-yi-zhong-lei-41id)
 - [Dev.to/JS] [X++ &amp; ++X 差別與其中的涵義](https://dev.to/yubo0826/x-x-chai-bie-yu-qi-zhong-de-han-yi-3e21)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chat App with WebSocket: Boilerplate Code](https://dev.to/sokhavuth/chat-app-with-websocket-boilerplate-code-f19)
 - [Dev.to/JS] [What do you usually say when approve Pull Request?](https://dev.to/pavelkeyzik/what-do-you-usually-say-when-approve-pull-request-5851)
 - [Dev.to/JS] [Improved way of Implementing of Priority Queue in Javascript](https://dev.to/brunoblaise/improved-way-of-implementing-of-priority-queue-in-javascript-11pk)
-- [Dev.to/JS] [HTTP codes cheatsheet](https://dev.to/dionisuliu/http-codes-cheatsheet-1k89)
-- [Dev.to/JS] [Deploy Tailwindcss, nextjs app on cpanel](https://dev.to/techfortified/deploy-tailwindcss-nextjs-app-on-cpanel-18he)
 - [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
