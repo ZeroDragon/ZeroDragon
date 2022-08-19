@@ -30,7 +30,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [X++ &amp; ++X 差別與其中的涵義](https://dev.to/yubo0826/x-x-chai-bie-yu-qi-zhong-de-han-yi-3e21)
 - [Dev.to/JS] [JS | 使用事件keypress遇到的問題](https://dev.to/yubo0826/js-shi-yong-shi-jian-keypressyu-dao-de-wen-ti-4jh2)
 - [Dev.to/JS] [JS | 整理無關鍵字、let、var的不同](https://dev.to/yubo0826/js-zheng-li-wu-guan-jian-zi-let-varde-bu-tong-4b1d)
-- [Dev.to/JS] [Temporal API - A new approach to managing Date and Time in JS](https://dev.to/pankod/temporal-api-a-new-approach-to-managing-date-and-time-in-js-1fn1)
+- [Dev.to/JS] [Temporal API - A new approach to managing Date and Time in JS](https://dev.to/refine/temporal-api-a-new-approach-to-managing-date-and-time-in-js-1fn1)
 - [Dev.to/JS] [Build &amp; deploy tailwindcss, nextjs &amp; nodejs app on cpanel](https://dev.to/techfortified/build-deploy-tailwindcss-nextjs-nodejs-app-on-cpanel-1953)
 - [Dev.to/JS] [Chat App with WebSocket: Boilerplate Code](https://dev.to/sokhavuth/chat-app-with-websocket-boilerplate-code-f19)
 - [Dev.to/JS] [What do you usually say when approve Pull Request?](https://dev.to/pavelkeyzik/what-do-you-usually-say-when-approve-pull-request-5851)
