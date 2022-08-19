@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Implement Dynamic Data Binding With ActiveReportsJS](https://dev.to/grapecity/how-to-implement-dynamic-data-binding-with-activereportsjs-kic)
+- [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
+- [Dev.to/JS] [Add Vue Input Form Mask &amp; Validation Features to Your Web App](https://dev.to/grapecity/add-vue-input-form-mask-validation-features-to-your-web-app-2j8p)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Dev.to/JS] [Introducing an Ultimate Web/Mobile Dev Roadmap](https://dev.to/elijahtrillionz/introducing-an-ultimate-webmobile-dev-roadmap-1jeo)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of Anne Heche’s Best Performances](https://lifehacker.com/12-of-anne-heche-s-best-performances-1849428022)
 - [Dev.to/JS] [Liskov Substitution Principle in TypeScript](https://dev.to/jmalvarez/liskov-substitution-principle-in-typescript-3i87)
 - [Lifehacker] [There&#39;s a New Way to Find Out If You&#39;re Getting Enough Exercise](https://lifehacker.com/theres-a-new-way-to-find-out-if-youre-getting-enough-ex-1849433948)
-- [Dev.to/JS] [Where do I start](https://dev.to/otumianempire/where-do-i-start-370m)
-- [Dev.to/JS] [Website Designing Technologies That Will Help Your Business Grow](https://dev.to/a_shreejit/website-designing-technologies-that-will-help-your-business-grow-49j1)
 - [Lifehacker] [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s Behind the &#39;Girl Bro&#39; Meme?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-beh-1849432598)
 - [Lifehacker] [How to Improve Your Hand Dexterity &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-improve-your-hand-dexterity-and-why-its-importa-1849432227)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)
 - [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)
 - [Lifehacker] [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)
-- [Lifehacker] [You Should Salt-Roast Your Raw Nuts](https://lifehacker.com/you-should-salt-roast-your-raw-nuts-1849428165)
-- [Lifehacker] [What Is ‘Quiet Quitting’ &lpar;and Should You Really Do It&rpar;?](https://lifehacker.com/what-is-quiet-quitting-and-should-you-really-do-it-1849426004)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Salt-Roast Your Raw Nuts](https://lifehacker.com/you-should-salt-roast-your-raw-nuts-1849428165)<!-- TECH-POSTS:END -->
 
 ---
 
