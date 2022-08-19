@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Creative Agency Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/build-a-creative-agency-website-using-html-css-javascript-25nm)
+- [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849430424)
+- [Dev.to/JS] [Writing a roman numeral function in Javascript](https://dev.to/jtlavs/writing-a-roman-numeral-function-in-javascript-4hno)
+- [Dev.to/JS] [PRIMARY PROGRAMMING LANGUAGES TO LEARN IN 2023](https://dev.to/kiranve00977518/primary-programming-languages-to-learn-in-2023-5a8h)
+- [Dev.to/JS] [CoDe SmElL 159 - mIxEd_cASe](https://dev.to/mcsee/code-smell-159-mixedcase-nc)
+- [Dev.to/JS] [Database: Design Normal Forms](https://dev.to/midnqp/database-design-normal-forms-3i49)
+- [Dev.to/JS] [Benchmarking Bun &amp; Next against Deno and Fresh](https://dev.to/herbievine/benchmarking-bun-next-against-deno-and-fresh-3hel)
 - [Dev.to/JS] [Push Notifications with React JS and Firebase](https://dev.to/nasreenkhalid/push-notifications-with-react-js-and-firebase-502m)
 - [Dev.to/JS] [VS Code Extension to Pick Relevant Emojis for Git Commit Messages 🐛](https://dev.to/babakks/vs-code-extension-to-pick-relevant-emojis-for-git-commit-messages-201c)
 - [Dev.to/JS] [You don&#39;t know JavaScript reduce&lpar;&rpar; method](https://dev.to/trillionclues/you-dont-know-javascript-reduce-method-1nh2)
 - [Dev.to/JS] [JavaScript Function Definitions 函式定義種類](https://dev.to/yubo0826/javascript-function-definitions-han-shi-ding-yi-zhong-lei-41id)
 - [Dev.to/JS] [X++ &amp; ++X 差別與其中的涵義](https://dev.to/yubo0826/x-x-chai-bie-yu-qi-zhong-de-han-yi-3e21)
 - [Dev.to/JS] [JS | 使用事件keypress遇到的問題](https://dev.to/yubo0826/js-shi-yong-shi-jian-keypressyu-dao-de-wen-ti-4jh2)
-- [Dev.to/JS] [JS | 整理無關鍵字、let、var的不同](https://dev.to/yubo0826/js-zheng-li-wu-guan-jian-zi-let-varde-bu-tong-4b1d)
-- [Dev.to/JS] [Temporal API - A new approach to managing Date and Time in JS](https://dev.to/refine/temporal-api-a-new-approach-to-managing-date-and-time-in-js-1fn1)
-- [Dev.to/JS] [Build &amp; deploy tailwindcss, nextjs &amp; nodejs app on cpanel](https://dev.to/techfortified/build-deploy-tailwindcss-nextjs-nodejs-app-on-cpanel-1953)
-- [Dev.to/JS] [Chat App with WebSocket: Boilerplate Code](https://dev.to/sokhavuth/chat-app-with-websocket-boilerplate-code-f19)
-- [Dev.to/JS] [What do you usually say when approve Pull Request?](https://dev.to/pavelkeyzik/what-do-you-usually-say-when-approve-pull-request-5851)
-- [Dev.to/JS] [Improved way of Implementing of Priority Queue in Javascript](https://dev.to/brunoblaise/improved-way-of-implementing-of-priority-queue-in-javascript-11pk)
 - [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Pâte à Choux &lpar;the Stuff Éclairs Are Made of&rpar;](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
 - [Lifehacker] [How to Watch the End Credits on Every Major Streaming Service](https://lifehacker.com/how-to-watch-the-end-credits-on-every-major-streaming-s-1849423717)
 - [Lifehacker] [That Oat Milk Recall Keeps Getting Bigger [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
-- [Lifehacker] [How to Be the ‘Personality Hire’ at Your Next Job](https://lifehacker.com/how-to-be-the-personality-hire-at-your-next-job-1849404854)
-- [Lifehacker] [Why You Should Never Message Strangers on PlayStation Network](https://lifehacker.com/why-you-should-never-message-strangers-on-playstation-n-1849423132)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Be the ‘Personality Hire’ at Your Next Job](https://lifehacker.com/how-to-be-the-personality-hire-at-your-next-job-1849404854)<!-- TECH-POSTS:END -->
 
 ---
 
