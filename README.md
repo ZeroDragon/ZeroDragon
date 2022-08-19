@@ -23,25 +23,28 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Like a Rogue](https://dev.to/rmion/like-a-rogue-2bje)
+- [Lifehacker] [12 of Anne Heche’s Best Performances](https://lifehacker.com/12-of-anne-heche-s-best-performances-1849428022)
+- [Dev.to/JS] [Liskov Substitution Principle in TypeScript](https://dev.to/jmalvarez/liskov-substitution-principle-in-typescript-3i87)
+- [Lifehacker] [There&#39;s a New Way to Find Out If You&#39;re Getting Enough Exercise](https://lifehacker.com/theres-a-new-way-to-find-out-if-youre-getting-enough-ex-1849433948)
+- [Dev.to/JS] [Where do I start](https://dev.to/otumianempire/where-do-i-start-370m)
+- [Dev.to/JS] [Website Designing Technologies That Will Help Your Business Grow](https://dev.to/a_shreejit/website-designing-technologies-that-will-help-your-business-grow-49j1)
+- [Dev.to/JS] [GLITCH TEXT EFFECT](https://dev.to/zastixx/glitch-text-effect-3hla)
+- [Dev.to/JS] [Modular frontends are functional for freaky fast web dev](https://dev.to/richkurtzman/modular-frontends-are-functional-for-freaky-fast-web-dev-bcg)
+- [Dev.to/JS] [The minimum TypeScript you need for React](https://dev.to/enteio/the-minimum-typescript-you-need-for-react-2hj0)
+- [Dev.to/JS] [🔴 Live - Creating a Modern NPM Package](https://dev.to/clarkio/live-creating-a-modern-npm-package-2n1b)
+- [Lifehacker] [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)
 - [Dev.to/JS] [React 18 Suspense fetch data from a headless CMS](https://dev.to/naira_gezhoyan/react-18-suspense-fetch-data-from-a-headless-cms-1mko)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s Behind the &#39;Girl Bro&#39; Meme?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-beh-1849432598)
 - [Dev.to/JS] [Low-Code Development Vs Traditional Development: Things To Know](https://dev.to/ashukalbande/low-code-development-vs-traditional-development-things-to-know-30a5)
 - [Dev.to/JS] [Chat App with WebSocket: Building Chat Page](https://dev.to/sokhavuth/chat-app-with-websocket-building-chat-page-3hhk)
 - [Dev.to/JS] [Node TypeScript JSON Schema validation using TypeBox](https://dev.to/franciscomendes10866/node-typescript-json-schema-validation-using-typebox-2oee)
 - [Lifehacker] [How to Improve Your Hand Dexterity &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-improve-your-hand-dexterity-and-why-its-importa-1849432227)
-- [Dev.to/JS] [Profile Card Animation](https://dev.to/uidesign09/profile-card-animation-5e8h)
-- [Dev.to/JS] [What I learned from Developing a MEAN Stack Project!](https://dev.to/abdurrkhalid333/what-i-learned-from-developing-a-mean-stack-project-405j)
 - [Lifehacker] [The Best Ways to Spend Your Vacation ‘Buffer Day’](https://lifehacker.com/the-best-ways-to-spend-your-vacation-buffer-day-1849433148)
-- [Dev.to/JS] [JS push and pop with Arrays](https://dev.to/shubhamtiwari909/js-push-and-pop-with-arrays-33a2)
 - [Lifehacker] [8 of the World&#39;s Most Amazing Real-Life Prison Escapes &lpar;and What to Learn From Them&rpar;](https://lifehacker.com/8-of-the-worlds-most-amazing-real-life-prison-escapes-1849427379)
 - [Lifehacker] [How to Get a Free Stove From the Government &lpar;and Help Save the Planet&rpar;](https://lifehacker.com/how-to-get-a-free-stove-from-the-government-and-help-s-1849431130)
-- [Dev.to/JS] [What is this keyword in javascript?](https://dev.to/abu/what-is-this-keyword-in-javascript-3hja)
-- [Dev.to/JS] [Pharmacy Meds Online](https://dev.to/finchloe121/pharmacy-meds-online-57gn)
 - [Lifehacker] [You Can Make a Daiquiri &lpar;or any Sour&rpar; Without Simple Syrup](https://lifehacker.com/you-can-make-a-daiquiri-or-any-sour-without-simple-sy-1849431540)
-- [Dev.to/JS] [Open/Closed Principle in TypeScript](https://dev.to/jmalvarez/openclosed-principle-in-typescript-749)
-- [Dev.to/JS] [Build a Creative Agency Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/build-a-creative-agency-website-using-html-css-javascript-25nm)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849430424)
-- [Dev.to/JS] [Writing a roman numeral function in Javascript](https://dev.to/jtlavs/writing-a-roman-numeral-function-in-javascript-4hno)
 - [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Drink the Recalled Capri Sun That Might Have Cleaning Solution in It](https://lifehacker.com/dont-drink-the-recalled-capri-sun-that-might-have-clean-1849425451)
 - [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
 - [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
-- [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)
-- [Lifehacker] [You Need to Update Chrome Again](https://lifehacker.com/you-need-to-update-chrome-again-1849424239)
-- [Lifehacker] [Why Is Everyone Suddenly Putting Olives in Their Spritzes?](https://lifehacker.com/why-is-everyone-suddenly-putting-olives-in-their-spritz-1849423933)
-- [Lifehacker] [You Can Make Money by Letting Dogs Play in Your Yard](https://lifehacker.com/you-can-make-money-by-letting-dogs-play-in-your-yard-1849424385)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)<!-- TECH-POSTS:END -->
 
 ---
 
