@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to deploy th NextJS site to Vercel](https://dev.to/surajondev/how-to-deploy-nextjs-site-to-vercel-1o37)
+- [Dev.to/JS] [React Hooks](https://dev.to/willp11/react-hooks-5c1e)
 - [Dev.to/JS] [Create a new React app with Vite](https://dev.to/asheeshh/create-a-new-react-app-with-vite-2eja)
 - [Dev.to/JS] [Master API integration in JavaScript](https://dev.to/ministryofjavascript/master-api-integration-in-javascript-4ool)
 - [Dev.to/JS] [How to Build a Progress Bar Indicator for Next.js](https://dev.to/asayerio_techblog/how-to-build-a-progress-bar-indicator-for-nextjs-hn4)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Express.js Error Handling 101](https://dev.to/jakelumetta/expressjs-error-handling-101-2d5d)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 - [Dev.to/JS] [Are you ready for a Promotion? &lpar;Updated&rpar;](https://dev.to/intesar/are-you-ready-for-a-promotion-updated-84o)
-- [Dev.to/JS] [Arquitetura Limpa - Como foi aplicar em um projeto real](https://dev.to/paulohsilvavieira/arquitetura-limpa-como-foi-aplicar-em-um-projeto-real-12go)
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
-- [Dev.to/JS] [Day 1 of getting back into Solidity Course](https://dev.to/detwiler_amy/day-1-of-getting-back-into-solidity-course-d1d)
 - [Lifehacker] [Do You Ever Have to Tell Your Boss About Your Second Job?](https://lifehacker.com/do-you-ever-have-to-tell-your-boss-about-your-second-jo-1849424698)
 - [Lifehacker] [How to Recover a Microsoft Office File You Forgot to Save](https://lifehacker.com/how-to-recover-a-microsoft-office-file-you-forgot-to-sa-1849429735)
 - [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
