@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 of the World&#39;s Most Amazing Real-Life Prison Escapes &lpar;and What to Learn From Them&rpar;](https://lifehacker.com/8-of-the-worlds-most-amazing-real-life-prison-escapes-1849427379)
+- [Lifehacker] [How to Get a Free Stove From the Government &lpar;and Help Save the Planet&rpar;](https://lifehacker.com/how-to-get-a-free-stove-from-the-government-and-help-s-1849431130)
+- [Dev.to/JS] [What is this keyword in javascript?](https://dev.to/abu/what-is-this-keyword-in-javascript-3hja)
+- [Dev.to/JS] [Pharmacy Meds Online](https://dev.to/finchloe121/pharmacy-meds-online-57gn)
+- [Lifehacker] [You Can Make a Daiquiri &lpar;or any Sour&rpar; Without Simple Syrup](https://lifehacker.com/you-can-make-a-daiquiri-or-any-sour-without-simple-sy-1849431540)
+- [Dev.to/JS] [Open/Closed Principle in TypeScript](https://dev.to/jmalvarez/openclosed-principle-in-typescript-749)
 - [Dev.to/JS] [Build a Creative Agency Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/build-a-creative-agency-website-using-html-css-javascript-25nm)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849430424)
 - [Dev.to/JS] [Writing a roman numeral function in Javascript](https://dev.to/jtlavs/writing-a-roman-numeral-function-in-javascript-4hno)
@@ -33,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Push Notifications with React JS and Firebase](https://dev.to/nasreenkhalid/push-notifications-with-react-js-and-firebase-502m)
 - [Dev.to/JS] [VS Code Extension to Pick Relevant Emojis for Git Commit Messages 🐛](https://dev.to/babakks/vs-code-extension-to-pick-relevant-emojis-for-git-commit-messages-201c)
 - [Dev.to/JS] [You don&#39;t know JavaScript reduce&lpar;&rpar; method](https://dev.to/trillionclues/you-dont-know-javascript-reduce-method-1nh2)
-- [Dev.to/JS] [JavaScript Function Definitions 函式定義種類](https://dev.to/yubo0826/javascript-function-definitions-han-shi-ding-yi-zhong-lei-41id)
-- [Dev.to/JS] [X++ &amp; ++X 差別與其中的涵義](https://dev.to/yubo0826/x-x-chai-bie-yu-qi-zhong-de-han-yi-3e21)
-- [Dev.to/JS] [JS | 使用事件keypress遇到的問題](https://dev.to/yubo0826/js-shi-yong-shi-jian-keypressyu-dao-de-wen-ti-4jh2)
 - [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Money by Letting Dogs Play in Your Yard](https://lifehacker.com/you-can-make-money-by-letting-dogs-play-in-your-yard-1849424385)
 - [Lifehacker] [How to Improve Your Balance &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-improve-your-balance-and-why-it-matters-1849424599)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
-- [Lifehacker] [How to Make Pâte à Choux &lpar;the Stuff Éclairs Are Made of&rpar;](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
-- [Lifehacker] [How to Watch the End Credits on Every Major Streaming Service](https://lifehacker.com/how-to-watch-the-end-credits-on-every-major-streaming-s-1849423717)
-- [Lifehacker] [That Oat Milk Recall Keeps Getting Bigger [Updated]](https://lifehacker.com/a-bunch-of-oat-milks-and-coffee-drinks-are-part-of-a-ma-1849360156)
-- [Lifehacker] [How to Be the ‘Personality Hire’ at Your Next Job](https://lifehacker.com/how-to-be-the-personality-hire-at-your-next-job-1849404854)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Pâte à Choux &lpar;the Stuff Éclairs Are Made of&rpar;](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)<!-- TECH-POSTS:END -->
 
 ---
 
