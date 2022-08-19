@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All You Need to Know About SAS](https://dev.to/barathmanikand1/all-you-need-to-know-about-sas-57g8)
+- [Dev.to/JS] [Via Keto Gummies &lpar;Au&rpar; - Reviews, Pros, Cons, Benefits &amp; Side Effects?](https://dev.to/viaketofacts/via-keto-gummies-au-reviews-pros-cons-benefits-side-effects-216n)
+- [Dev.to/JS] [Using Regex in JavaScript to Validate Email](https://dev.to/jte0711/using-regex-in-javascript-to-validate-email-md)
+- [Dev.to/JS] [FCC JavaScript Algorithms and Data Structures: Basic JavaScript](https://dev.to/tkanabay/fcc-javascript-algorithms-and-data-structures-basic-javascript-19ck)
 - [Dev.to/JS] [Async, await and generators](https://dev.to/princekizhthara/async-await-and-generators-d5h)
 - [Dev.to/JS] [Javascript Tagalog - Array Concat Method](https://dev.to/mmvergara/javascript-tagalog-concat-array-method-1m49)
 - [Dev.to/JS] [Javascript Tagalog - Array Unshift Method](https://dev.to/mmvergara/javascript-tagalog-array-unshift-method-3ogg)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 8: V8 Interpreter Ignition](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-8-v8-interpreter-ignition-cn5)
 - [Dev.to/JS] [Javascript Tagalog - Array Pop Method](https://dev.to/mmvergara/javascript-tagalog-array-pop-method-16bh)
 - [Dev.to/JS] [Manipulating the DOM using Javascript - traversing the DOM&lpar;part 2&rpar;✂️🕹](https://dev.to/arikaturika/manipulating-the-dom-using-javascript-traversing-the-dompart-2-o7)
-- [Dev.to/JS] [Javascript: How much do you debug](https://dev.to/urstrulyvishwak/javascript-how-much-do-you-debug-41h)
-- [Dev.to/JS] [Javascript Tagalog - Array Push Method](https://dev.to/mmvergara/javascript-tagalog-array-push-method-296)
-- [Dev.to/JS] [How to deploy the NextJS site to Vercel](https://dev.to/surajondev/how-to-deploy-nextjs-site-to-vercel-1o37)
-- [Dev.to/JS] [React Hooks](https://dev.to/willp11/react-hooks-5c1e)
 - [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
