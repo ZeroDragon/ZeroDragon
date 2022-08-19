@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [map, filter and reduce in javascript - the easy way](https://dev.to/tejash023/map-filter-and-reduce-in-javascript-the-easy-way-3cja)
+- [Dev.to/JS] [Building infrastructure for an open-source programmable zapier](https://dev.to/tonyhb/building-infrastructure-for-an-open-source-programmable-zapier-36cf)
+- [Lifehacker] [11 of the Best Life Advice Podcasts to Answer All Your Tough Questions](https://lifehacker.com/11-of-the-best-life-advice-podcasts-to-answer-all-your-1849434919)
+- [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Dev.to/JS] [3 Tips to Make Your UI Better - Tables](https://dev.to/kaerub/3-tips-to-make-your-ui-better-tables-5d85)
 - [Dev.to/JS] [Want to learn frontend development? Read this!](https://dev.to/msaaddev/want-to-learn-frontend-development-read-this-1k69)
 - [Dev.to/JS] [Like a Rogue](https://dev.to/rmion/like-a-rogue-2bje)
@@ -36,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The minimum TypeScript you need for React](https://dev.to/enteio/the-minimum-typescript-you-need-for-react-2hj0)
 - [Dev.to/JS] [🔴 Live - Creating a Modern NPM Package](https://dev.to/clarkio/live-creating-a-modern-npm-package-2n1b)
 - [Lifehacker] [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)
-- [Dev.to/JS] [React 18 Suspense fetch data from a headless CMS](https://dev.to/naira_gezhoyan/react-18-suspense-fetch-data-from-a-headless-cms-1mko)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s Behind the &#39;Girl Bro&#39; Meme?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-beh-1849432598)
-- [Dev.to/JS] [Low-Code Development Vs Traditional Development: Things To Know](https://dev.to/ashukalbande/low-code-development-vs-traditional-development-things-to-know-30a5)
 - [Lifehacker] [How to Improve Your Hand Dexterity &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-improve-your-hand-dexterity-and-why-its-importa-1849432227)
 - [Lifehacker] [The Best Ways to Spend Your Vacation ‘Buffer Day’](https://lifehacker.com/the-best-ways-to-spend-your-vacation-buffer-day-1849433148)
 - [Lifehacker] [8 of the World&#39;s Most Amazing Real-Life Prison Escapes &lpar;and What to Learn From Them&rpar;](https://lifehacker.com/8-of-the-worlds-most-amazing-real-life-prison-escapes-1849427379)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stuff Your Quesadilla With Fried Chicken](https://lifehacker.com/stuff-your-quesadilla-with-fried-chicken-1849426275)
 - [Lifehacker] [You Need to Take a ‘Suburbs Day’](https://lifehacker.com/you-need-to-take-a-suburbs-day-1849424304)
 - [Lifehacker] [Don&#39;t Drink the Recalled Capri Sun That Might Have Cleaning Solution in It](https://lifehacker.com/dont-drink-the-recalled-capri-sun-that-might-have-clean-1849425451)
-- [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)
-- [Lifehacker] [Why Not Grate an Apple Into Your Overnight Oats?](https://lifehacker.com/why-not-grate-an-apple-into-your-overnight-oats-1849425580)
-- [Lifehacker] [Your Crudité Platter Is Boring and Wrong](https://lifehacker.com/your-crudite-platter-is-boring-and-wrong-1849424444)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Does It Really Help to Masturbate Before Texting Your Ex?](https://lifehacker.com/does-it-really-help-to-masturbate-before-texting-your-e-1849425648)<!-- TECH-POSTS:END -->
 
 ---
 
