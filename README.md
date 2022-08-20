@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to translate HTML for free using google translate.](https://dev.to/jakovglavac/how-to-translate-html-for-free-using-google-translate-2nf)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;20-08-2022&rpar; - Actual empty list](https://dev.to/mjgs/this-weeks-newsletter-is-out-20-08-2022-actual-empty-list-11n1)
 - [Dev.to/JS] [Browser extensions - Adding browser notifications](https://dev.to/dailydevtips1/browser-extensions-adding-browser-notifications-57dk)
 - [Dev.to/JS] [Day 1 - Web Dev Journey](https://dev.to/reason2020/day-1-web-dev-journey-90f)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to integrate Feature Flags in NestJS](https://dev.to/codedbychavez/how-to-integrate-feature-flags-in-nestjs-39j3)
 - [Dev.to/JS] [Node Vs Element, know the difference](https://dev.to/dechamp/node-vs-element-know-the-difference-1eej)
 - [Dev.to/JS] [Chat App with WebSocket: Message to Server](https://dev.to/sokhavuth/chat-app-with-websocket-message-to-socket-server-4gj3)
-- [Dev.to/JS] [HTML Form Validation with PristineJS](https://dev.to/asayerio_techblog/html-form-validation-with-pristinejs-313k)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
