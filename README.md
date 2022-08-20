@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn how to converts an array into a string in JavaScript?](https://dev.to/ministryofjavascript/learn-how-to-converts-an-array-into-a-string-in-javascript-21ig)
+- [Dev.to/JS] [Day 8 : 100DaysOfSwift🚀](https://dev.to/100rabhcsmc/day-8-100daysofswift-489k)
+- [Dev.to/JS] [3 Dev hacks of JS ...spread Operator for Arrays](https://dev.to/himanshu_007/3-dev-hacks-of-js-spread-operator-for-arrays-2oi3)
+- [Dev.to/JS] [How this website background is designed ?](https://dev.to/faisalamin001/how-this-website-background-is-designed--c77)
 - [Dev.to/JS] [Typescript Series - Length of a Tuple](https://dev.to/sarmunbustillo/typescript-series-length-of-a-tuple-4d8m)
 - [Dev.to/JS] [Adding a button inside a clickable element](https://dev.to/andydziabo/adding-a-button-inside-a-clickable-element-47gj)
 - [Dev.to/JS] [OSM + Leaflet 學習筆記 3：定位、全螢幕、小地圖、列印、客製選單](https://dev.to/letswrite/osm-leaflet-xue-xi-bi-ji-3ding-wei-quan-ying-mu-xiao-di-tu-lie-yin-ke-zhi-xuan-dan-149g)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
 - [Dev.to/JS] [Cannot recall event listener after removing it.](https://dev.to/rahanjudes/cannot-recall-event-listener-after-removing-it-4k3o)
 - [Dev.to/JS] [This Week I Learned - 2022 #Week 33](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-33-2d78)
-- [Dev.to/JS] [Add Redux to your React app in 6 Simple Steps](https://dev.to/thisurathenuka/add-redux-to-your-react-app-in-6-simple-steps-43bb)
-- [Dev.to/JS] [Knight Tour - NXN](https://dev.to/zeeshanali0704/knight-tour-nxn-4gnj)
-- [Dev.to/JS] [Knight Probability - out of borad](https://dev.to/zeeshanali0704/knight-probability-out-of-borad-3kh)
-- [Dev.to/JS] [📦 Bundle Node.js into single executable binary](https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
