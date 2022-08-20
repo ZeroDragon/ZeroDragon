@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interface Segregation Principle in TypeScript](https://dev.to/jmalvarez/interface-segregation-principle-in-typescript-4dgb)
 - [Dev.to/JS] [Deploy MERN App On Heroku](https://dev.to/devarshishimpi/deploy-mern-app-on-heroku-1p00)
 - [Dev.to/JS] [I made a virus](https://dev.to/virejdasani/i-made-a-virus-2p2f)
 - [Dev.to/JS] [How I discovered an ideal stack for mastering HTML and CSS - Vue without build](https://dev.to/apayrus/how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Three Ways to Remove Console Statements From Production Build](https://dev.to/clumsycoder/three-ways-to-remove-console-statements-from-production-build-2949)
 - [Dev.to/JS] [I&#39;m here to tell you that I&#39;m developing something that car geeks will love!](https://dev.to/sandilemoremedi/im-here-to-tell-you-that-im-developing-something-that-car-geeks-will-love-3160)
 - [Dev.to/JS] [Chat App with WebSocket: Broadcasting Message](https://dev.to/sokhavuth/chat-app-with-websocket-broadcasting-message-hnb)
-- [Dev.to/JS] [Rat in a Maze](https://dev.to/zeeshanali0704/rat-in-a-maze-4e78)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
