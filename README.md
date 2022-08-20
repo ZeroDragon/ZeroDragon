@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reduct Storage Web Console v0.4.0 has been released](https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk)
 - [Dev.to/JS] [How to run Google Maps API in React 18 ?](https://dev.to/renekutter/how-to-run-google-maps-api-in-react-18--2nhj)
 - [Dev.to/JS] [How to write Custom Error Handler Middleware in Express.js using JavaScript 👩‍💻](https://dev.to/qbentil/how-to-write-custom-error-handler-middleware-in-expressjs-using-javascript-29j1)
 - [Dev.to/JS] [Gunther&#39;s Garden Planner](https://dev.to/gxnther/gunthers-garden-planner-32b9)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Dev.to/JS] [The State of Compartmentalizing](https://dev.to/minjoon/the-state-of-compartmentalizing-56m7)
 - [Dev.to/JS] [Valid Paranthesis](https://dev.to/zeeshanali0704/valid-paranthesis-2ml)
-- [Dev.to/JS] [Rat In a Maze - Get All Possible Paths](https://dev.to/zeeshanali0704/rat-in-a-maze-get-all-possible-paths-4ch)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
