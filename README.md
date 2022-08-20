@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to write Custom Error Handler Middleware in Express.js using JavaScript 👩‍💻](https://dev.to/qbentil/how-to-write-custom-error-handler-middleware-in-expressjs-using-javascript-29j1)
+- [Dev.to/JS] [Gunther&#39;s Garden Planner](https://dev.to/gxnther/gunthers-garden-planner-32b9)
+- [Dev.to/JS] [Melhore a sua habilidade em escrever front-end em até 10x](https://dev.to/davecosta/melhore-a-sua-habilidade-em-escrever-front-end-em-ate-10x-mmp)
 - [Dev.to/JS] [PROJECT - Random Color Generator](https://dev.to/grahamfleming/project-random-color-generator-5hl0)
 - [Dev.to/JS] [Let&#39;s build a multiplayer movie trivia/quiz game with socket.io, svelte and node. devlog #5](https://dev.to/zoppatorsk/lets-build-a-multiplayer-movie-triviaquiz-game-with-socketio-svelte-and-node-devlog-5-11h2)
 - [Dev.to/JS] [How to call an API with fetch&lpar;&rpar;](https://dev.to/grahamfleming/how-to-call-an-api-with-fetch-nk6)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rat In a Maze - Get All Possible Paths](https://dev.to/zeeshanali0704/rat-in-a-maze-get-all-possible-paths-4ch)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
 - [Dev.to/JS] [Singeltons in JavaScript not needed?](https://dev.to/decker67/singeltons-in-javascript-not-needed-21i9)
-- [Dev.to/JS] [Learn how to converts an array into a string in JavaScript?](https://dev.to/ministryofjavascript/learn-how-to-converts-an-array-into-a-string-in-javascript-21ig)
-- [Dev.to/JS] [Day 8 : 100DaysOfSwift🚀](https://dev.to/100rabhcsmc/day-8-100daysofswift-489k)
-- [Dev.to/JS] [3 Dev hacks of JS ...spread Operator for Arrays](https://dev.to/himanshu_007/3-dev-hacks-of-js-spread-operator-for-arrays-2oi3)
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
