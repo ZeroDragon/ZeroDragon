@@ -23,20 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PROJECT - Random Color Generator](https://dev.to/grahamfleming/project-random-color-generator-5hl0)
+- [Dev.to/JS] [Let&#39;s build a multiplayer movie trivia/quiz game with socket.io, svelte and node. devlog #5](https://dev.to/zoppatorsk/lets-build-a-multiplayer-movie-triviaquiz-game-with-socketio-svelte-and-node-devlog-5-11h2)
+- [Dev.to/JS] [How to call an API with fetch&lpar;&rpar;](https://dev.to/grahamfleming/how-to-call-an-api-with-fetch-nk6)
+- [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
+- [Dev.to/JS] [Scrimba Free JavaScript course](https://dev.to/sanjay431/scrimba-free-javascript-course-1k7e)
 - [Dev.to/JS] [Flood Fill -using Recursion -Backtracking](https://dev.to/zeeshanali0704/flood-fill-using-recursion-backtracking-2gc7)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Dev.to/JS] [The State of Compartmentalizing](https://dev.to/minjoon/the-state-of-compartmentalizing-56m7)
 - [Dev.to/JS] [Valid Paranthesis](https://dev.to/zeeshanali0704/valid-paranthesis-2ml)
 - [Dev.to/JS] [Rat In a Maze - Get All Possible Paths](https://dev.to/zeeshanali0704/rat-in-a-maze-get-all-possible-paths-4ch)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
+- [Dev.to/JS] [Singeltons in JavaScript not needed?](https://dev.to/decker67/singeltons-in-javascript-not-needed-21i9)
 - [Dev.to/JS] [Learn how to converts an array into a string in JavaScript?](https://dev.to/ministryofjavascript/learn-how-to-converts-an-array-into-a-string-in-javascript-21ig)
 - [Dev.to/JS] [Day 8 : 100DaysOfSwift🚀](https://dev.to/100rabhcsmc/day-8-100daysofswift-489k)
 - [Dev.to/JS] [3 Dev hacks of JS ...spread Operator for Arrays](https://dev.to/himanshu_007/3-dev-hacks-of-js-spread-operator-for-arrays-2oi3)
-- [Dev.to/JS] [How this website background is designed ?](https://dev.to/faisalamin001/how-this-website-background-is-designed--c77)
-- [Dev.to/JS] [Typescript Series - Length of a Tuple](https://dev.to/sarmunbustillo/typescript-series-length-of-a-tuple-4d8m)
-- [Dev.to/JS] [Adding a button inside a clickable element](https://dev.to/andydziabo/adding-a-button-inside-a-clickable-element-47gj)
-- [Dev.to/JS] [OSM + Leaflet 學習筆記 3：定位、全螢幕、小地圖、列印、客製選單](https://dev.to/letswrite/osm-leaflet-xue-xi-bi-ji-3ding-wei-quan-ying-mu-xiao-di-tu-lie-yin-ke-zhi-xuan-dan-149g)
-- [Dev.to/JS] [Can JavaScript change your life?](https://dev.to/ministryofjavascript/javascript-can-change-your-life-3035)
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
 - [Lifehacker] [Do You Ever Have to Tell Your Boss About Your Second Job?](https://lifehacker.com/do-you-ever-have-to-tell-your-boss-about-your-second-jo-1849424698)
 - [Lifehacker] [How to Recover a Microsoft Office File You Forgot to Save](https://lifehacker.com/how-to-recover-a-microsoft-office-file-you-forgot-to-sa-1849429735)
-- [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
-- [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)<!-- TECH-POSTS:END -->
 
 ---
 
