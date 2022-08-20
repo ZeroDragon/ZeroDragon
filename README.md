@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m here to tell you that I&#39;m developing something that car geeks will love!](https://dev.to/sandilemoremedi/im-here-to-tell-you-that-im-developing-something-that-car-geeks-will-love-3160)
 - [Dev.to/JS] [Chat App with WebSocket: Broadcasting Message](https://dev.to/sokhavuth/chat-app-with-websocket-broadcasting-message-hnb)
 - [Dev.to/JS] [Rat in a Maze](https://dev.to/zeeshanali0704/rat-in-a-maze-4e78)
 - [Dev.to/JS] [How to integrate Feature Flags in NestJS](https://dev.to/codedbychavez/how-to-integrate-feature-flags-in-nestjs-39j3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chat App with WebSocket: Socket Connection](https://dev.to/sokhavuth/chat-app-with-websocket-socket-connection-2iii)
 - [Dev.to/JS] [How to read copied text from Clipboard using JavaScript?](https://dev.to/melvin2016/how-to-read-copied-text-from-clipboard-using-javascript-3he4)
 - [Dev.to/JS] [SaasRock v0.5.0 - Cookie consent and built-in Analytics](https://dev.to/alexandromtzg/saasrock-v050-cookie-consent-and-built-in-analytics-45d9)
-- [Dev.to/JS] [Javascript Tagalog - String padEnd Method](https://dev.to/mmvergara/javascript-tagalog-string-padend-method-4ki4)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
