@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
+- [Dev.to/JS] [Cannot recall event listener after removing it.](https://dev.to/rahanjudes/cannot-recall-event-listener-after-removing-it-4k3o)
+- [Dev.to/JS] [This Week I Learned - 2022 #Week 33](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-33-2d78)
+- [Dev.to/JS] [Add Redux to your React app in 6 Simple Steps](https://dev.to/thisurathenuka/add-redux-to-your-react-app-in-6-simple-steps-43bb)
+- [Dev.to/JS] [Knight Tour - NXN](https://dev.to/zeeshanali0704/knight-tour-nxn-4gnj)
+- [Dev.to/JS] [Knight Probability - out of borad](https://dev.to/zeeshanali0704/knight-probability-out-of-borad-3kh)
+- [Dev.to/JS] [📦 Bundle Node.js into single executable binary](https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g)
 - [Dev.to/JS] [Chat App with WebSocket: Adding New User](https://dev.to/sokhavuth/chat-app-with-websocket-adding-new-user-1em4)
 - [Dev.to/JS] [Cannot understand &quot; read &quot; is Middleware or not?](https://dev.to/srinja333/cannot-understand-read-is-middleware-or-not-2j1)
 - [Dev.to/JS] [Interface Segregation Principle in TypeScript](https://dev.to/jmalvarez/interface-segregation-principle-in-typescript-4dgb)
 - [Dev.to/JS] [Deploy MERN App On Heroku](https://dev.to/devarshishimpi/deploy-mern-app-on-heroku-1p00)
 - [Dev.to/JS] [I made a virus](https://dev.to/virejdasani/i-made-a-virus-2p2f)
 - [Dev.to/JS] [How I discovered an ideal stack for mastering HTML and CSS - Vue without build](https://dev.to/apayrus/how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46)
-- [Dev.to/JS] [How to translate HTML for free using google translate.](https://dev.to/jakovglavac/how-to-translate-html-for-free-using-google-translate-2nf)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;20-08-2022&rpar; - Actual empty list](https://dev.to/mjgs/this-weeks-newsletter-is-out-20-08-2022-actual-empty-list-11n1)
-- [Dev.to/JS] [Browser extensions - Adding browser notifications](https://dev.to/dailydevtips1/browser-extensions-adding-browser-notifications-57dk)
-- [Dev.to/JS] [Day 1 - Web Dev Journey](https://dev.to/reason2020/day-1-web-dev-journey-90f)
-- [Dev.to/JS] [Build library using JavaScript, Webpack and Workspaces](https://dev.to/srele96/build-library-using-javascript-webpack-and-workspaces-mb9)
-- [Dev.to/JS] [Three Ways to Remove Console Statements From Production Build](https://dev.to/clumsycoder/three-ways-to-remove-console-statements-from-production-build-2949)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
 - [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)
 - [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)
-- [Lifehacker] [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)
-- [Lifehacker] [You Should Salt-Roast Your Raw Nuts](https://lifehacker.com/you-should-salt-roast-your-raw-nuts-1849428165)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)<!-- TECH-POSTS:END -->
 
 ---
 
