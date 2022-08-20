@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chat App with WebSocket: Message to Socket Server](https://dev.to/sokhavuth/chat-app-with-websocket-message-to-socket-server-4gj3)
+- [Dev.to/JS] [HTML Form Validation with PristineJS](https://dev.to/asayerio_techblog/html-form-validation-with-pristinejs-313k)
+- [Dev.to/JS] [I Built Bitly Clone with Redis, Express Svelte and Node &lpar; RESN&rpar;](https://dev.to/lohanidamodar/i-built-bitly-clone-with-redis-express-svelte-and-node-resn-4c71)
+- [Dev.to/JS] [Introducing Pic Placeholder](https://dev.to/arndom/introducing-pic-placeholder-4cn1)
 - [Dev.to/JS] [Chat App with WebSocket: Socket Connection](https://dev.to/sokhavuth/chat-app-with-websocket-socket-connection-2iii)
 - [Dev.to/JS] [How to read copied text from Clipboard using JavaScript?](https://dev.to/melvin2016/how-to-read-copied-text-from-clipboard-using-javascript-3he4)
 - [Dev.to/JS] [SaasRock v0.5.0 - Cookie consent and built-in Analytics](https://dev.to/alexandromtzg/saasrock-v050-cookie-consent-and-built-in-analytics-45d9)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Tagalog - String endsWith Method](https://dev.to/mmvergara/javascript-tagalog-string-endswith-method-4eel)
 - [Dev.to/JS] [5 Essential Benefits That Tell How Important A Singapore Custom web design Is](https://dev.to/shaunmike/5-essential-benefits-that-tell-how-important-a-singapore-custom-web-design-is-chg)
 - [Dev.to/JS] [Javascript Tagalog - String startsWith Method](https://dev.to/mmvergara/javascript-tagalog-string-startswith-method-1ipj)
-- [Dev.to/JS] [The JS Promise Errand](https://dev.to/jhhornn/the-js-promise-errand-m73)
-- [Dev.to/JS] [Absolute Beginner&#39;s Guide to learn JavaScript, Part-2](https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-2-1cam)
-- [Dev.to/JS] [How to Implement Dynamic Data Binding With ActiveReportsJS](https://dev.to/grapecity/how-to-implement-dynamic-data-binding-with-activereportsjs-kic)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
-- [Dev.to/JS] [Add Vue Input Form Mask &amp; Validation Features to Your Web App](https://dev.to/grapecity/add-vue-input-form-mask-validation-features-to-your-web-app-2j8p)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
 - [Lifehacker] [How to Assess Your Home’s Risk From Climate Change](https://lifehacker.com/how-to-assess-your-home-s-risk-from-climate-change-1849428527)
