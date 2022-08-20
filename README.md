@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chat App with WebSocket: Socket Connection](https://dev.to/sokhavuth/chat-app-with-websocket-socket-connection-2iii)
+- [Dev.to/JS] [How to read copied text from Clipboard using JavaScript?](https://dev.to/melvin2016/how-to-read-copied-text-from-clipboard-using-javascript-3he4)
+- [Dev.to/JS] [SaasRock v0.5.0 - Cookie consent and built-in Analytics](https://dev.to/alexandromtzg/saasrock-v050-cookie-consent-and-built-in-analytics-45d9)
+- [Dev.to/JS] [Javascript Tagalog - String padEnd Method](https://dev.to/mmvergara/javascript-tagalog-string-padend-method-4ki4)
+- [Dev.to/JS] [Javascript Tagalog - String padStart Method](https://dev.to/mmvergara/javascript-tagalog-string-padstart-method-jpn)
 - [Dev.to/JS] [Javascript Tagalog - String endsWith Method](https://dev.to/mmvergara/javascript-tagalog-string-endswith-method-4eel)
 - [Dev.to/JS] [5 Essential Benefits That Tell How Important A Singapore Custom web design Is](https://dev.to/shaunmike/5-essential-benefits-that-tell-how-important-a-singapore-custom-web-design-is-chg)
 - [Dev.to/JS] [Javascript Tagalog - String startsWith Method](https://dev.to/mmvergara/javascript-tagalog-string-startswith-method-1ipj)
@@ -32,15 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Dev.to/JS] [Add Vue Input Form Mask &amp; Validation Features to Your Web App](https://dev.to/grapecity/add-vue-input-form-mask-validation-features-to-your-web-app-2j8p)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
-- [Dev.to/JS] [Introducing an Ultimate Web/Mobile Dev Roadmap](https://dev.to/elijahtrillionz/introducing-an-ultimate-webmobile-dev-roadmap-1jeo)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
-- [Dev.to/JS] [Fixing Firebase Firestore Queries with firestore-db for web and react-native-firebase](https://dev.to/ranjan/fixing-firebase-firestore-queries-with-firestore-db-for-web-and-react-native-firebase-1m5a)
-- [Dev.to/JS] [Typescript Series - Exclude Utility Type](https://dev.to/sarmunbustillo/typescript-series-exclude-utility-type-5de6)
 - [Lifehacker] [How to Assess Your Home’s Risk From Climate Change](https://lifehacker.com/how-to-assess-your-home-s-risk-from-climate-change-1849428527)
-- [Dev.to/JS] [Javascript — Sair de um loop for em JavaScript](https://dev.to/cleytonlang/javascript-sair-de-um-loop-for-em-javascript-ci6)
 - [Lifehacker] [Do You Have Antisocial Personality Disorder?](https://lifehacker.com/do-you-have-antisocial-personality-disorder-1849434758)
 - [Lifehacker] [The Easiest Ways to Make Your Home More Wheelchair-Accessible](https://lifehacker.com/the-easiest-ways-to-make-your-home-more-wheelchair-acce-1849434466)
-- [Dev.to/JS] [map, filter and reduce in javascript - the easy way](https://dev.to/tejash023/map-filter-and-reduce-in-javascript-the-easy-way-3cja)
 - [Lifehacker] [11 of the Best Life Advice Podcasts to Answer All Your Tough Questions](https://lifehacker.com/11-of-the-best-life-advice-podcasts-to-answer-all-your-1849434919)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [12 of Anne Heche’s Best Performances](https://lifehacker.com/12-of-anne-heche-s-best-performances-1849428022)
