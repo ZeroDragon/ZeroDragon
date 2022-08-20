@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Series - Length of a Tuple](https://dev.to/sarmunbustillo/typescript-series-length-of-a-tuple-4d8m)
+- [Dev.to/JS] [Adding a button inside a clickable element](https://dev.to/andydziabo/adding-a-button-inside-a-clickable-element-47gj)
+- [Dev.to/JS] [OSM + Leaflet 學習筆記 3：定位、全螢幕、小地圖、列印、客製選單](https://dev.to/letswrite/osm-leaflet-xue-xi-bi-ji-3ding-wei-quan-ying-mu-xiao-di-tu-lie-yin-ke-zhi-xuan-dan-149g)
 - [Dev.to/JS] [Can JavaScript change your life?](https://dev.to/ministryofjavascript/javascript-can-change-your-life-3035)
 - [Dev.to/JS] [LeetCode - Remove Duplicates from Sorted List II](https://dev.to/_alkesh26/leetcode-remove-duplicates-from-sorted-list-ii-19lg)
 - [Dev.to/JS] [How to scrape Google Shopping results?](https://dev.to/darshan0_1/how-to-scrape-google-shopping-results-2mmb)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Knight Tour - NXN](https://dev.to/zeeshanali0704/knight-tour-nxn-4gnj)
 - [Dev.to/JS] [Knight Probability - out of borad](https://dev.to/zeeshanali0704/knight-probability-out-of-borad-3kh)
 - [Dev.to/JS] [📦 Bundle Node.js into single executable binary](https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g)
-- [Dev.to/JS] [Chat App with WebSocket: Adding New User](https://dev.to/sokhavuth/chat-app-with-websocket-adding-new-user-1em4)
-- [Dev.to/JS] [Cannot understand &quot; read &quot; is Middleware or not?](https://dev.to/srinja333/cannot-understand-read-is-middleware-or-not-2j1)
-- [Dev.to/JS] [Interface Segregation Principle in TypeScript](https://dev.to/jmalvarez/interface-segregation-principle-in-typescript-4dgb)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
