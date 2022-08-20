@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to run Google Maps API in React 18 ?](https://dev.to/renekutter/how-to-run-google-maps-api-in-react-18--2nhj)
 - [Dev.to/JS] [How to write Custom Error Handler Middleware in Express.js using JavaScript 👩‍💻](https://dev.to/qbentil/how-to-write-custom-error-handler-middleware-in-expressjs-using-javascript-29j1)
 - [Dev.to/JS] [Gunther&#39;s Garden Planner](https://dev.to/gxnther/gunthers-garden-planner-32b9)
 - [Dev.to/JS] [Melhore a sua habilidade em escrever front-end em até 10x](https://dev.to/davecosta/melhore-a-sua-habilidade-em-escrever-front-end-em-ate-10x-mmp)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Valid Paranthesis](https://dev.to/zeeshanali0704/valid-paranthesis-2ml)
 - [Dev.to/JS] [Rat In a Maze - Get All Possible Paths](https://dev.to/zeeshanali0704/rat-in-a-maze-get-all-possible-paths-4ch)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
-- [Dev.to/JS] [Singeltons in JavaScript not needed?](https://dev.to/decker67/singeltons-in-javascript-not-needed-21i9)
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
