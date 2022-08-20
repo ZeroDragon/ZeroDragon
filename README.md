@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can JavaScript change your life?](https://dev.to/ministryofjavascript/javascript-can-change-your-life-3035)
+- [Dev.to/JS] [LeetCode - Remove Duplicates from Sorted List II](https://dev.to/_alkesh26/leetcode-remove-duplicates-from-sorted-list-ii-19lg)
+- [Dev.to/JS] [How to scrape Google Shopping results?](https://dev.to/darshan0_1/how-to-scrape-google-shopping-results-2mmb)
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
 - [Dev.to/JS] [Cannot recall event listener after removing it.](https://dev.to/rahanjudes/cannot-recall-event-listener-after-removing-it-4k3o)
 - [Dev.to/JS] [This Week I Learned - 2022 #Week 33](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-33-2d78)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chat App with WebSocket: Adding New User](https://dev.to/sokhavuth/chat-app-with-websocket-adding-new-user-1em4)
 - [Dev.to/JS] [Cannot understand &quot; read &quot; is Middleware or not?](https://dev.to/srinja333/cannot-understand-read-is-middleware-or-not-2j1)
 - [Dev.to/JS] [Interface Segregation Principle in TypeScript](https://dev.to/jmalvarez/interface-segregation-principle-in-typescript-4dgb)
-- [Dev.to/JS] [Deploy MERN App On Heroku](https://dev.to/devarshishimpi/deploy-mern-app-on-heroku-1p00)
-- [Dev.to/JS] [I made a virus](https://dev.to/virejdasani/i-made-a-virus-2p2f)
-- [Dev.to/JS] [How I discovered an ideal stack for mastering HTML and CSS - Vue without build](https://dev.to/apayrus/how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
