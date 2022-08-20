@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The State of Compartmentalizing](https://dev.to/minjoon/the-state-of-compartmentalizing-56m7)
+- [Dev.to/JS] [Valid Paranthesis](https://dev.to/zeeshanali0704/valid-paranthesis-2ml)
+- [Dev.to/JS] [Rat In a Maze - Get All Possible Paths](https://dev.to/zeeshanali0704/rat-in-a-maze-get-all-possible-paths-4ch)
+- [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
 - [Dev.to/JS] [Learn how to converts an array into a string in JavaScript?](https://dev.to/ministryofjavascript/learn-how-to-converts-an-array-into-a-string-in-javascript-21ig)
 - [Dev.to/JS] [Day 8 : 100DaysOfSwift🚀](https://dev.to/100rabhcsmc/day-8-100daysofswift-489k)
 - [Dev.to/JS] [3 Dev hacks of JS ...spread Operator for Arrays](https://dev.to/himanshu_007/3-dev-hacks-of-js-spread-operator-for-arrays-2oi3)
@@ -32,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OSM + Leaflet 學習筆記 3：定位、全螢幕、小地圖、列印、客製選單](https://dev.to/letswrite/osm-leaflet-xue-xi-bi-ji-3ding-wei-quan-ying-mu-xiao-di-tu-lie-yin-ke-zhi-xuan-dan-149g)
 - [Dev.to/JS] [Can JavaScript change your life?](https://dev.to/ministryofjavascript/javascript-can-change-your-life-3035)
 - [Dev.to/JS] [LeetCode - Remove Duplicates from Sorted List II](https://dev.to/_alkesh26/leetcode-remove-duplicates-from-sorted-list-ii-19lg)
-- [Dev.to/JS] [How to scrape Google Shopping results?](https://dev.to/darshan0_1/how-to-scrape-google-shopping-results-2mmb)
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
-- [Dev.to/JS] [Cannot recall event listener after removing it.](https://dev.to/rahanjudes/cannot-recall-event-listener-after-removing-it-4k3o)
-- [Dev.to/JS] [This Week I Learned - 2022 #Week 33](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-33-2d78)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recover a Microsoft Office File You Forgot to Save](https://lifehacker.com/how-to-recover-a-microsoft-office-file-you-forgot-to-sa-1849429735)
 - [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
 - [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)
-- [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)
-- [Lifehacker] [Delete These 35 Malware Apps on Your Android](https://lifehacker.com/delete-these-35-malware-apps-on-your-android-1849428626)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)<!-- TECH-POSTS:END -->
 
 ---
 
