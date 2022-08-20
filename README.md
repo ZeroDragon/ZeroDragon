@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy MERN App On Heroku](https://dev.to/devarshishimpi/deploy-mern-app-on-heroku-1p00)
+- [Dev.to/JS] [I made a virus](https://dev.to/virejdasani/i-made-a-virus-2p2f)
 - [Dev.to/JS] [How I discovered an ideal stack for mastering HTML and CSS - Vue without build](https://dev.to/apayrus/how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46)
 - [Dev.to/JS] [How to translate HTML for free using google translate.](https://dev.to/jakovglavac/how-to-translate-html-for-free-using-google-translate-2nf)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;20-08-2022&rpar; - Actual empty list](https://dev.to/mjgs/this-weeks-newsletter-is-out-20-08-2022-actual-empty-list-11n1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I&#39;m here to tell you that I&#39;m developing something that car geeks will love!](https://dev.to/sandilemoremedi/im-here-to-tell-you-that-im-developing-something-that-car-geeks-will-love-3160)
 - [Dev.to/JS] [Chat App with WebSocket: Broadcasting Message](https://dev.to/sokhavuth/chat-app-with-websocket-broadcasting-message-hnb)
 - [Dev.to/JS] [Rat in a Maze](https://dev.to/zeeshanali0704/rat-in-a-maze-4e78)
-- [Dev.to/JS] [How to integrate Feature Flags in NestJS](https://dev.to/codedbychavez/how-to-integrate-feature-flags-in-nestjs-39j3)
-- [Dev.to/JS] [Node Vs Element, know the difference](https://dev.to/dechamp/node-vs-element-know-the-difference-1eej)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
