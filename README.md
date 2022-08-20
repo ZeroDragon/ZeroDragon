@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flood Fill -using Recursion -Backtracking](https://dev.to/zeeshanali0704/flood-fill-using-recursion-backtracking-2gc7)
+- [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Dev.to/JS] [The State of Compartmentalizing](https://dev.to/minjoon/the-state-of-compartmentalizing-56m7)
 - [Dev.to/JS] [Valid Paranthesis](https://dev.to/zeeshanali0704/valid-paranthesis-2ml)
 - [Dev.to/JS] [Rat In a Maze - Get All Possible Paths](https://dev.to/zeeshanali0704/rat-in-a-maze-get-all-possible-paths-4ch)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding a button inside a clickable element](https://dev.to/andydziabo/adding-a-button-inside-a-clickable-element-47gj)
 - [Dev.to/JS] [OSM + Leaflet 學習筆記 3：定位、全螢幕、小地圖、列印、客製選單](https://dev.to/letswrite/osm-leaflet-xue-xi-bi-ji-3ding-wei-quan-ying-mu-xiao-di-tu-lie-yin-ke-zhi-xuan-dan-149g)
 - [Dev.to/JS] [Can JavaScript change your life?](https://dev.to/ministryofjavascript/javascript-can-change-your-life-3035)
-- [Dev.to/JS] [LeetCode - Remove Duplicates from Sorted List II](https://dev.to/_alkesh26/leetcode-remove-duplicates-from-sorted-list-ii-19lg)
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do You Ever Have to Tell Your Boss About Your Second Job?](https://lifehacker.com/do-you-ever-have-to-tell-your-boss-about-your-second-jo-1849424698)
 - [Lifehacker] [How to Recover a Microsoft Office File You Forgot to Save](https://lifehacker.com/how-to-recover-a-microsoft-office-file-you-forgot-to-sa-1849429735)
 - [Lifehacker] [How to Actually Get Through Airport Security Faster](https://lifehacker.com/how-to-actually-get-through-airport-security-faster-1849429214)
-- [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)
-- [Lifehacker] [These Are the First Changes You Should Make on Any New MacBook](https://lifehacker.com/these-are-the-first-changes-you-should-make-on-any-new-1849428528)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Maybe You Need a Portable Washing Machine](https://lifehacker.com/maybe-you-need-a-portable-washing-machine-1849429431)<!-- TECH-POSTS:END -->
 
 ---
 
