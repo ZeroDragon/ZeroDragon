@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;20-08-2022&rpar; - Actual empty list](https://dev.to/mjgs/this-weeks-newsletter-is-out-20-08-2022-actual-empty-list-11n1)
+- [Dev.to/JS] [Browser extensions - Adding browser notifications](https://dev.to/dailydevtips1/browser-extensions-adding-browser-notifications-57dk)
+- [Dev.to/JS] [Day 1 - Web Dev Journey](https://dev.to/reason2020/day-1-web-dev-journey-90f)
+- [Dev.to/JS] [Build library using JavaScript, Webpack and Workspaces](https://dev.to/srele96/build-library-using-javascript-webpack-and-workspaces-mb9)
 - [Dev.to/JS] [Three Ways to Remove Console Statements From Production Build](https://dev.to/clumsycoder/three-ways-to-remove-console-statements-from-production-build-2949)
 - [Dev.to/JS] [I&#39;m here to tell you that I&#39;m developing something that car geeks will love!](https://dev.to/sandilemoremedi/im-here-to-tell-you-that-im-developing-something-that-car-geeks-will-love-3160)
 - [Dev.to/JS] [Chat App with WebSocket: Broadcasting Message](https://dev.to/sokhavuth/chat-app-with-websocket-broadcasting-message-hnb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node Vs Element, know the difference](https://dev.to/dechamp/node-vs-element-know-the-difference-1eej)
 - [Dev.to/JS] [Chat App with WebSocket: Message to Server](https://dev.to/sokhavuth/chat-app-with-websocket-message-to-socket-server-4gj3)
 - [Dev.to/JS] [HTML Form Validation with PristineJS](https://dev.to/asayerio_techblog/html-form-validation-with-pristinejs-313k)
-- [Dev.to/JS] [I Built Bitly Clone with Redis, Express Svelte and Node &lpar; RESN&rpar;](https://dev.to/lohanidamodar/i-built-bitly-clone-with-redis-express-svelte-and-node-resn-4c71)
-- [Dev.to/JS] [Introducing Pic Placeholder](https://dev.to/arndom/introducing-pic-placeholder-4cn1)
-- [Dev.to/JS] [Chat App with WebSocket: Socket Connection](https://dev.to/sokhavuth/chat-app-with-websocket-socket-connection-2iii)
-- [Dev.to/JS] [How to read copied text from Clipboard using JavaScript?](https://dev.to/melvin2016/how-to-read-copied-text-from-clipboard-using-javascript-3he4)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
