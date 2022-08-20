@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Chat App with WebSocket: Message to Socket Server](https://dev.to/sokhavuth/chat-app-with-websocket-message-to-socket-server-4gj3)
+- [Dev.to/JS] [Rat in a Maze](https://dev.to/zeeshanali0704/rat-in-a-maze-4e78)
+- [Dev.to/JS] [How to integrate Feature Flags in NestJS](https://dev.to/codedbychavez/how-to-integrate-feature-flags-in-nestjs-39j3)
+- [Dev.to/JS] [Node Vs Element, know the difference](https://dev.to/dechamp/node-vs-element-know-the-difference-1eej)
+- [Dev.to/JS] [Chat App with WebSocket: Message to Server](https://dev.to/sokhavuth/chat-app-with-websocket-message-to-socket-server-4gj3)
 - [Dev.to/JS] [HTML Form Validation with PristineJS](https://dev.to/asayerio_techblog/html-form-validation-with-pristinejs-313k)
 - [Dev.to/JS] [I Built Bitly Clone with Redis, Express Svelte and Node &lpar; RESN&rpar;](https://dev.to/lohanidamodar/i-built-bitly-clone-with-redis-express-svelte-and-node-resn-4c71)
 - [Dev.to/JS] [Introducing Pic Placeholder](https://dev.to/arndom/introducing-pic-placeholder-4cn1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SaasRock v0.5.0 - Cookie consent and built-in Analytics](https://dev.to/alexandromtzg/saasrock-v050-cookie-consent-and-built-in-analytics-45d9)
 - [Dev.to/JS] [Javascript Tagalog - String padEnd Method](https://dev.to/mmvergara/javascript-tagalog-string-padend-method-4ki4)
 - [Dev.to/JS] [Javascript Tagalog - String padStart Method](https://dev.to/mmvergara/javascript-tagalog-string-padstart-method-jpn)
-- [Dev.to/JS] [Javascript Tagalog - String endsWith Method](https://dev.to/mmvergara/javascript-tagalog-string-endswith-method-4eel)
-- [Dev.to/JS] [5 Essential Benefits That Tell How Important A Singapore Custom web design Is](https://dev.to/shaunmike/5-essential-benefits-that-tell-how-important-a-singapore-custom-web-design-is-chg)
-- [Dev.to/JS] [Javascript Tagalog - String startsWith Method](https://dev.to/mmvergara/javascript-tagalog-string-startswith-method-1ipj)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
