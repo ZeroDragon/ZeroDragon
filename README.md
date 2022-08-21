@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Tagalog - String charAt Method](https://dev.to/mmvergara/javascript-tagalog-string-charat-method-5367)
+- [Dev.to/JS] [React Journey - My First Project &lpar;pt. 1&rpar;](https://dev.to/brockcaldwell/react-journey-my-first-project-pt-1-12ln)
 - [Dev.to/JS] [Absolute Beginner&#39;s Guide to Learn JavaScript, Part-3](https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-3-2681)
 - [Dev.to/JS] [How Javascript TransformStream transform strings](https://dev.to/mahmoudjbor/how-javascript-transformstream-transform-strings-15c7)
 - [Dev.to/JS] [22 August&#39; 2022.](https://dev.to/zoro/22-august-2022-2h4f)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pure HTML streaming with Qwik](https://dev.to/mehdi1/pure-html-streaming-with-qwik-28me)
 - [Dev.to/JS] [How much do you need to know before starting?](https://dev.to/noriller/how-much-do-you-need-to-know-before-starting-4o8o)
 - [Dev.to/JS] [Styling React App - Stylify vs Styled Components](https://dev.to/machy8/styling-react-app-stylify-vs-styled-components-5bd5)
-- [Dev.to/JS] [Making a Morphing 3D Sphere in Javascript with Three.js](https://dev.to/smpnjn/making-a-morphing-3d-sphere-in-javascript-with-threejs-13oi)
-- [Dev.to/JS] [JavaScript memory management 101: Strong and Weak refs, FinalizationRegistry](https://dev.to/xnimorz/javascript-memory-management-101-strong-and-weak-refs-finalizationregistry-1281)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
