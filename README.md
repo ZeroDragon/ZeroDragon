@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Our current frameworks are O&lpar;n&rpar;; we need O&lpar;1&rpar;](https://dev.to/mehdi1/our-current-frameworks-are-on-we-need-o1-3a4d)
+- [Dev.to/JS] [Testing events attached to HTML Document](https://dev.to/andrewmiroshnichenko/testing-events-attached-to-html-document-4o9o)
+- [Dev.to/JS] [How TypeScript Default Parameters Work](https://dev.to/smpnjn/how-typescript-default-parameters-work-2173)
 - [Dev.to/JS] [looking for a tools/course to learn more in webdev.](https://dev.to/titweety/looking-for-a-toolscourse-to-learn-more-in-webdev-jpg)
 - [Dev.to/JS] [LeetCode - Pascal&#39;s Triangle II](https://dev.to/_alkesh26/leetcode-pascals-triangle-ii-1d85)
 - [Dev.to/JS] [Rat In A Maze - With Multiple Hops](https://dev.to/zeeshanali0704/rat-in-a-maze-with-multiple-hops-2hmh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dependency Inversion Principle in TypeScript](https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0)
 - [Dev.to/JS] [Optimizing React Apps with React.memo, useMemo and useCallback](https://dev.to/willp11/optimizing-react-apps-with-reactmemo-usememo-and-usecallback-12ig)
 - [Dev.to/JS] [WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread](https://dev.to/mehdi1/wwc22-qwik-partytown-how-to-remove-99-of-javascript-from-main-thread-2k3b)
-- [Dev.to/JS] [The Todo App](https://dev.to/amanp30/the-todo-app-43jf)
-- [Dev.to/JS] [Javascript Tagalog - String indexOf Method](https://dev.to/mmvergara/javascript-tagalog-string-indexof-method-5elp)
-- [Dev.to/JS] [Protetox - Is it a Scam or Legit Benefits And Uses?](https://dev.to/prodentim17/protetox-is-it-a-scam-or-legit-benefits-and-uses-4nnp)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
