@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My understanding of learning vanilla JS](https://dev.to/dilshad0404/my-understanding-of-learning-vanilla-js-19cm)
+- [Dev.to/JS] [Javascript counter | HTML, CSS, JS](https://dev.to/danish0929x/javascript-counter-html-css-js-18eg)
+- [Dev.to/JS] [Chat App with WebSocket: Deleting User](https://dev.to/sokhavuth/chat-app-with-websocket-deleting-user-3ndj)
 - [Dev.to/JS] [Browser extensions - Repeating notifications](https://dev.to/dailydevtips1/browser-extensions-repeating-notifications-2161)
 - [Dev.to/JS] [Master Regex in JavaScript in just 20 minutes.](https://dev.to/ministryofjavascript/master-regex-in-javascript-in-just-20-minutes-1p3p)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 9: Builtin](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-9-builtin-3opl)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to run Google Maps API in React 18 ?](https://dev.to/renekutter/how-to-run-google-maps-api-in-react-18--2nhj)
 - [Dev.to/JS] [How to write Custom Error Handler Middleware in Express.js using JavaScript 👩‍💻](https://dev.to/qbentil/how-to-write-custom-error-handler-middleware-in-expressjs-using-javascript-29j1)
 - [Dev.to/JS] [Gunther&#39;s Garden Planner](https://dev.to/gxnther/gunthers-garden-planner-32b9)
-- [Dev.to/JS] [Melhore a sua habilidade em escrever front-end em até 10x](https://dev.to/davecosta/melhore-a-sua-habilidade-em-escrever-front-end-em-ate-10x-mmp)
-- [Dev.to/JS] [PROJECT - Random Color Generator](https://dev.to/grahamfleming/project-random-color-generator-5hl0)
-- [Dev.to/JS] [Let&#39;s build a multiplayer movie trivia/quiz game with socket.io, svelte and node. devlog #5](https://dev.to/zoppatorsk/lets-build-a-multiplayer-movie-triviaquiz-game-with-socketio-svelte-and-node-devlog-5-11h2)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
