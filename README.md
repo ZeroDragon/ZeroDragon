@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Tagalog - String indexOf Method](https://dev.to/mmvergara/javascript-tagalog-string-indexof-method-5elp)
+- [Dev.to/JS] [Protetox - Is it a Scam or Legit Benefits And Uses?](https://dev.to/prodentim17/protetox-is-it-a-scam-or-legit-benefits-and-uses-4nnp)
+- [Dev.to/JS] [Javascript Tagalog - String includes Method](https://dev.to/mmvergara/javascript-tagalog-string-includes-method-4lb6)
+- [Dev.to/JS] [N-Queen - All Possible Placements](https://dev.to/zeeshanali0704/n-queen-all-possible-placements-3bji)
 - [Dev.to/JS] [My understanding of learning vanilla JS](https://dev.to/dilshad0404/my-understanding-of-learning-vanilla-js-19cm)
 - [Dev.to/JS] [Javascript counter | HTML, CSS, JS](https://dev.to/danish0929x/javascript-counter-html-css-js-18eg)
 - [Dev.to/JS] [Chat App with WebSocket: Deleting User](https://dev.to/sokhavuth/chat-app-with-websocket-deleting-user-3ndj)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 9: Builtin](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-9-builtin-3opl)
 - [Dev.to/JS] [Useful Array Methods In Javascript](https://dev.to/ksowah/usefull-array-methods-in-javascript-4oaf)
 - [Dev.to/JS] [Dealing with CORS in ReactJS](https://dev.to/naveenkolambage/dealing-with-cors-in-reactjs-3m6d)
-- [Dev.to/JS] [Reduct Storage Web Console v0.4.0 has been released](https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk)
-- [Dev.to/JS] [How to run Google Maps API in React 18 ?](https://dev.to/renekutter/how-to-run-google-maps-api-in-react-18--2nhj)
-- [Dev.to/JS] [How to write Custom Error Handler Middleware in Express.js using JavaScript 👩‍💻](https://dev.to/qbentil/how-to-write-custom-error-handler-middleware-in-expressjs-using-javascript-29j1)
-- [Dev.to/JS] [Gunther&#39;s Garden Planner](https://dev.to/gxnther/gunthers-garden-planner-32b9)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
