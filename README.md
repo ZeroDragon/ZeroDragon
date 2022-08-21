@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Install your chrome extensions or firefox add-ons to the browser with playwright](https://dev.to/ueokande/install-your-chrome-extensions-or-firefox-add-ons-to-the-browser-with-playwright-1lpl)
+- [Dev.to/JS] [Sending login notifications to users using Auth0 Actions](https://dev.to/anshuman_bhardwaj/sending-login-notifications-to-users-using-auth0-actions-153e)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 9 and 10 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-9-and-10-report-3e4p)
 - [Dev.to/JS] [Formik ve Yup ile React Form Validasyonu](https://dev.to/berkanyldrim/formik-ve-yup-ile-react-form-validasyonu-206o)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The top five challenges I faced and the top five helpful sites I used while working on my Project.](https://dev.to/jordankeen20/the-top-five-challenges-i-faced-and-the-top-five-helpful-sites-i-used-while-working-on-my-project-52ki)
 - [Dev.to/JS] [Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 1](https://dev.to/ranjan/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-1-4841)
 - [Dev.to/JS] [Our current frameworks are O&lpar;n&rpar;; we need O&lpar;1&rpar;](https://dev.to/mehdi1/our-current-frameworks-are-on-we-need-o1-3a4d)
-- [Dev.to/JS] [Testing events attached to HTML Document](https://dev.to/andrewmiroshnichenko/testing-events-attached-to-html-document-4o9o)
-- [Dev.to/JS] [How TypeScript Default Parameters Work](https://dev.to/smpnjn/how-typescript-default-parameters-work-2173)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
