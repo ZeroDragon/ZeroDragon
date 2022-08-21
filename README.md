@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Styling React App - Stylify vs Styled Components](https://dev.to/machy8/styling-react-app-stylify-vs-styled-components-5bd5)
+- [Dev.to/JS] [Making a Morphing 3D Sphere in Javascript with Three.js](https://dev.to/smpnjn/making-a-morphing-3d-sphere-in-javascript-with-threejs-13oi)
+- [Dev.to/JS] [JavaScript memory management 101: Strong and Weak refs, FinalizationRegistry](https://dev.to/xnimorz/javascript-memory-management-101-strong-and-weak-refs-finalizationregistry-1281)
+- [Dev.to/JS] [Hand-on coding practice for frontend](https://dev.to/rohitmore07/hand-on-coding-practice-for-frontend-2da9)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Dev.to/JS] [Fluxactive Complete - Is It Naturally Benefits &amp; Price, Side Effects?](https://dev.to/fluxactivecomp4/fluxactive-complete-is-it-naturally-benefits-price-side-effects-4lg3)
 - [Dev.to/JS] [Suspense in React 18](https://dev.to/heyitsarpit/suspense-in-react-18-4ca0)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This is why your React state might not be updating!](https://dev.to/k4l4p/this-is-why-your-react-state-might-not-be-updating-5fe3)
 - [Dev.to/JS] [Typescript Series - Awaited Type](https://dev.to/sarmunbustillo/typescript-series-awaited-type-29l7)
 - [Dev.to/JS] [Install your chrome extensions or firefox add-ons to the browser with playwright](https://dev.to/ueokande/install-your-chrome-extensions-or-firefox-add-ons-to-the-browser-with-playwright-1lpl)
-- [Dev.to/JS] [Sending login notifications to users using Auth0 Actions](https://dev.to/anshuman_bhardwaj/sending-login-notifications-to-users-using-auth0-actions-153e)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
-- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 9 and 10 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-9-and-10-report-3e4p)
-- [Dev.to/JS] [Formik ve Yup ile React Form Validasyonu](https://dev.to/berkanyldrim/formik-ve-yup-ile-react-form-validasyonu-206o)
-- [Dev.to/JS] [Create Web Components in Lit, publish on npm &amp; use in Angular 14, React 18 and Vanilla JS Projects &lpar;free video course&rpar;](https://dev.to/fabiobiondi/create-web-components-in-lit-publish-on-npm-use-in-angular-14-react-18-and-vanilla-js-projects-free-video-course-54h6)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
