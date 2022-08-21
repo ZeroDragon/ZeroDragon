@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
+- [Dev.to/JS] [Fluxactive Complete - Is It Naturally Benefits &amp; Price, Side Effects?](https://dev.to/fluxactivecomp4/fluxactive-complete-is-it-naturally-benefits-price-side-effects-4lg3)
 - [Dev.to/JS] [Suspense in React 18](https://dev.to/heyitsarpit/suspense-in-react-18-4ca0)
 - [Dev.to/JS] [How I Improved Lighthouse Performance by Adding an Image](https://dev.to/perssondennis/how-i-improved-lighthouse-performance-by-adding-an-image-5ef2)
 - [Dev.to/JS] [Decentralized... Backend? Building An Angular dApp With OrbitDB And IPFS](https://dev.to/cppshane/decentralized-backend-building-an-angular-dapp-with-orbitdb-and-ipfs-1b9i)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 9 and 10 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-9-and-10-report-3e4p)
 - [Dev.to/JS] [Formik ve Yup ile React Form Validasyonu](https://dev.to/berkanyldrim/formik-ve-yup-ile-react-form-validasyonu-206o)
 - [Dev.to/JS] [Create Web Components in Lit, publish on npm &amp; use in Angular 14, React 18 and Vanilla JS Projects &lpar;free video course&rpar;](https://dev.to/fabiobiondi/create-web-components-in-lit-publish-on-npm-use-in-angular-14-react-18-and-vanilla-js-projects-free-video-course-54h6)
-- [Dev.to/JS] [Dark mode/Light mode toggle switch : How I fixed the flicker of incorrect theme problem](https://dev.to/tusharshahi/react-nextjs-dark-mode-theme-switcher-how-i-fixed-my-flicker-problem-5b54)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849430424)
 - [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
 - [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
-- [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
-- [Lifehacker] [Do You Ever Have to Tell Your Boss About Your Second Job?](https://lifehacker.com/do-you-ever-have-to-tell-your-boss-about-your-second-jo-1849424698)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)<!-- TECH-POSTS:END -->
 
 ---
 
