@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 Awesome React Hooks Libraries](https://dev.to/ravics1721/top-10-awesome-react-hooks-libraries-1924)
+- [Dev.to/JS] [Weekly Digest 33/2022](https://dev.to/marcobiedermann/weekly-digest-332022-38bj)
+- [Dev.to/JS] [Pure HTML streaming with Qwik](https://dev.to/mehdi1/pure-html-streaming-with-qwik-28me)
+- [Dev.to/JS] [How much do you need to know before starting?](https://dev.to/noriller/how-much-do-you-need-to-know-before-starting-4o8o)
 - [Dev.to/JS] [Styling React App - Stylify vs Styled Components](https://dev.to/machy8/styling-react-app-stylify-vs-styled-components-5bd5)
 - [Dev.to/JS] [Making a Morphing 3D Sphere in Javascript with Three.js](https://dev.to/smpnjn/making-a-morphing-3d-sphere-in-javascript-with-threejs-13oi)
 - [Dev.to/JS] [JavaScript memory management 101: Strong and Weak refs, FinalizationRegistry](https://dev.to/xnimorz/javascript-memory-management-101-strong-and-weak-refs-finalizationregistry-1281)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Suspense in React 18](https://dev.to/heyitsarpit/suspense-in-react-18-4ca0)
 - [Dev.to/JS] [How I Improved Lighthouse Performance by Adding an Image](https://dev.to/perssondennis/how-i-improved-lighthouse-performance-by-adding-an-image-5ef2)
 - [Dev.to/JS] [Decentralized... Backend? Building An Angular dApp With OrbitDB And IPFS](https://dev.to/cppshane/decentralized-backend-building-an-angular-dapp-with-orbitdb-and-ipfs-1b9i)
-- [Dev.to/JS] [React.js task list with cool annimations](https://dev.to/veewebcode/reactjs-task-list-with-cool-annimations-1b76)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
-- [Dev.to/JS] [This is why your React state might not be updating!](https://dev.to/k4l4p/this-is-why-your-react-state-might-not-be-updating-5fe3)
-- [Dev.to/JS] [Typescript Series - Awaited Type](https://dev.to/sarmunbustillo/typescript-series-awaited-type-29l7)
-- [Dev.to/JS] [Install your chrome extensions or firefox add-ons to the browser with playwright](https://dev.to/ueokande/install-your-chrome-extensions-or-firefox-add-ons-to-the-browser-with-playwright-1lpl)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
