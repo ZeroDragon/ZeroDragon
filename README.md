@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Absolute Beginner&#39;s Guide to Learn JavaScript, Part-3](https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-3-2681)
+- [Dev.to/JS] [How Javascript TransformStream transform strings](https://dev.to/mahmoudjbor/how-javascript-transformstream-transform-strings-15c7)
 - [Dev.to/JS] [22 August&#39; 2022.](https://dev.to/zoro/22-august-2022-2h4f)
 - [Dev.to/JS] [Full JavaScript Internationalization CheatSheet!](https://dev.to/omardulaimi/full-javascript-internationalization-cheatsheet-3fo)
 - [Dev.to/JS] [Why should you attend the Meteor Hackathon 2022 in September](https://dev.to/jankapunkt/why-should-you-attend-the-meteor-hackathon-2022-in-september-1pki)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Styling React App - Stylify vs Styled Components](https://dev.to/machy8/styling-react-app-stylify-vs-styled-components-5bd5)
 - [Dev.to/JS] [Making a Morphing 3D Sphere in Javascript with Three.js](https://dev.to/smpnjn/making-a-morphing-3d-sphere-in-javascript-with-threejs-13oi)
 - [Dev.to/JS] [JavaScript memory management 101: Strong and Weak refs, FinalizationRegistry](https://dev.to/xnimorz/javascript-memory-management-101-strong-and-weak-refs-finalizationregistry-1281)
-- [Dev.to/JS] [Hand-on coding practice for frontend](https://dev.to/rohitmore07/hand-on-coding-practice-for-frontend-2da9)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
-- [Dev.to/JS] [Fluxactive Complete - Is It Naturally Benefits &amp; Price, Side Effects?](https://dev.to/fluxactivecomp4/fluxactive-complete-is-it-naturally-benefits-price-side-effects-4lg3)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
