@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 9: Builtin](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-9-builtin-3opl)
 - [Dev.to/JS] [Useful Array Methods In Javascript](https://dev.to/ksowah/usefull-array-methods-in-javascript-4oaf)
 - [Dev.to/JS] [Dealing with CORS in ReactJS](https://dev.to/naveenkolambage/dealing-with-cors-in-reactjs-3m6d)
 - [Dev.to/JS] [Reduct Storage Web Console v0.4.0 has been released](https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to call an API with fetch&lpar;&rpar;](https://dev.to/grahamfleming/how-to-call-an-api-with-fetch-nk6)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Dev.to/JS] [Scrimba Free JavaScript course](https://dev.to/sanjay431/scrimba-free-javascript-course-1k7e)
-- [Dev.to/JS] [Flood Fill -using Recursion -Backtracking](https://dev.to/zeeshanali0704/flood-fill-using-recursion-backtracking-2gc7)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
