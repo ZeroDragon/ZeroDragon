@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [looking for a tools/course to learn more in webdev.](https://dev.to/titweety/looking-for-a-toolscourse-to-learn-more-in-webdev-jpg)
+- [Dev.to/JS] [LeetCode - Pascal&#39;s Triangle II](https://dev.to/_alkesh26/leetcode-pascals-triangle-ii-1d85)
+- [Dev.to/JS] [Rat In A Maze - With Multiple Hops](https://dev.to/zeeshanali0704/rat-in-a-maze-with-multiple-hops-2hmh)
 - [Dev.to/JS] [My way and journey into tech 😊](https://dev.to/evansifyke/my-way-and-journey-into-tech-25m1)
 - [Dev.to/JS] [React &amp; Redux Multifunctionality Todo app with fullyresponsive and attractive UI !!!](https://dev.to/anandpothraj/react-redux-multifunctionality-todo-app-with-fullyresponsive-and-attractive-ui--3i2)
 - [Dev.to/JS] [N-Queen : Check if possible to place in NxN](https://dev.to/zeeshanali0704/n-queen-check-if-possible-to-place-in-nxn-98c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Todo App](https://dev.to/amanp30/the-todo-app-43jf)
 - [Dev.to/JS] [Javascript Tagalog - String indexOf Method](https://dev.to/mmvergara/javascript-tagalog-string-indexof-method-5elp)
 - [Dev.to/JS] [Protetox - Is it a Scam or Legit Benefits And Uses?](https://dev.to/prodentim17/protetox-is-it-a-scam-or-legit-benefits-and-uses-4nnp)
-- [Dev.to/JS] [Javascript Tagalog - String includes Method](https://dev.to/mmvergara/javascript-tagalog-string-includes-method-4lb6)
-- [Dev.to/JS] [N-Queen - All Possible Placements](https://dev.to/zeeshanali0704/n-queen-all-possible-placements-3bji)
-- [Dev.to/JS] [My understanding of learning vanilla JS](https://dev.to/dilshad0404/my-understanding-of-learning-vanilla-js-19cm)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
