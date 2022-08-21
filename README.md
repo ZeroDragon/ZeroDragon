@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My way and journey into tech 😊](https://dev.to/evansifyke/my-way-and-journey-into-tech-25m1)
 - [Dev.to/JS] [React &amp; Redux Multifunctionality Todo app with fullyresponsive and attractive UI !!!](https://dev.to/anandpothraj/react-redux-multifunctionality-todo-app-with-fullyresponsive-and-attractive-ui--3i2)
 - [Dev.to/JS] [N-Queen : Check if possible to place in NxN](https://dev.to/zeeshanali0704/n-queen-check-if-possible-to-place-in-nxn-98c)
 - [Dev.to/JS] [Dependency Inversion Principle in TypeScript](https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Tagalog - String includes Method](https://dev.to/mmvergara/javascript-tagalog-string-includes-method-4lb6)
 - [Dev.to/JS] [N-Queen - All Possible Placements](https://dev.to/zeeshanali0704/n-queen-all-possible-placements-3bji)
 - [Dev.to/JS] [My understanding of learning vanilla JS](https://dev.to/dilshad0404/my-understanding-of-learning-vanilla-js-19cm)
-- [Dev.to/JS] [Javascript counter | HTML, CSS, JS](https://dev.to/danish0929x/javascript-counter-html-css-js-18eg)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
