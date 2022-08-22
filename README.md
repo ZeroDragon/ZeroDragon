@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jump Game - I](https://dev.to/zeeshanali0704/jump-game--3lfe)
+- [Dev.to/JS] [Docker](https://dev.to/jimenezfede/docker-ekm)
+- [Dev.to/JS] [JavaScript : Array Literals](https://dev.to/deogadkarravina/javascript-array-literals-3991)
 - [Dev.to/JS] [How To Download Youtube Video Using jQuery](https://dev.to/techsolutionstuff/how-to-download-youtube-video-using-jquery-2n22)
 - [Dev.to/JS] [Fixing Keyboard Avoiding in React Native](https://dev.to/iway1/fixing-keyboard-avoiding-in-react-native-1k5i)
 - [Dev.to/JS] [Grafana k6 - usando JS para testes de carga](https://dev.to/mrmorales/grafana-k6-usando-js-para-testes-de-carga-lle)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Absolute Beginner&#39;s Guide to Learn JavaScript, Part-3](https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-3-2681)
 - [Dev.to/JS] [How Javascript TransformStream transform strings](https://dev.to/mahmoudjbor/how-javascript-transformstream-transform-strings-15c7)
 - [Dev.to/JS] [22 August&#39; 2022.](https://dev.to/zoro/22-august-2022-2h4f)
-- [Dev.to/JS] [JavaScript Internationalization CheatSheet!](https://dev.to/omardulaimi/full-javascript-internationalization-cheatsheet-3fo)
-- [Dev.to/JS] [Why should you attend the Meteor Hackathon 2022 in September](https://dev.to/jankapunkt/why-should-you-attend-the-meteor-hackathon-2022-in-september-1pki)
-- [Dev.to/JS] [Top 10 Awesome React Hooks Libraries](https://dev.to/ravics1721/top-10-awesome-react-hooks-libraries-1924)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
