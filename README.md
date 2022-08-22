@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js delete File example](https://dev.to/tienbku/nodejs-delete-file-example-4km4)
+- [Dev.to/JS] [How to test your own React Components library](https://dev.to/pavlov/how-to-test-your-own-react-components-library-3ob4)
 - [Dev.to/JS] [tsParticles 2.2.3 Released](https://dev.to/tsparticles/tsparticles-223-released-2bb1)
 - [Dev.to/JS] [Ones and Zeros](https://dev.to/hu_os_ma/ones-and-zeros-iei)
 - [Dev.to/JS] [Svelte Logic Blocks](https://dev.to/codingmustache/svelte-logic-blocks-18ec)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript : Array Literals](https://dev.to/deogadkarravina/javascript-array-literals-3991)
 - [Dev.to/JS] [How To Download Youtube Video Using jQuery](https://dev.to/techsolutionstuff/how-to-download-youtube-video-using-jquery-2n22)
 - [Dev.to/JS] [Fixing Keyboard Avoiding in React Native](https://dev.to/iway1/fixing-keyboard-avoiding-in-react-native-1k5i)
-- [Dev.to/JS] [Grafana k6 - usando JS para testes de carga](https://dev.to/mrmorales/grafana-k6-usando-js-para-testes-de-carga-lle)
-- [Dev.to/JS] [How to setup prettier, lint-staged and husky script](https://dev.to/majorreact/how-to-setup-prettier-lint-staged-and-husky-script-4jhj)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
