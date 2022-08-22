@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Troubleshooting Tabbing](https://dev.to/abbeyperini/troubleshooting-tabbing-3mja)
+- [Dev.to/JS] [Recursion vs. Loops in JavaScript](https://dev.to/thawkin3/recursion-vs-loops-in-javascript-14em)
+- [Lifehacker] [How to Keep Your Nuts Fresh](https://lifehacker.com/how-to-keep-your-nuts-fresh-1849434560)
+- [Dev.to/JS] [How to make Checkbox Filter with Vue JS](https://dev.to/sammybammy52/how-to-make-checkbox-filter-with-vue-js-be1)
+- [Dev.to/JS] [Progressing As A Junior Developer.](https://dev.to/blakcoder/progressing-as-a-junior-developer-bio)
+- [Dev.to/JS] [From in Formik unable to properly validate inputs](https://dev.to/anthonynassif/from-in-formik-unable-to-properly-validate-inputs-252d)
+- [Lifehacker] [23 Hot Dogs From Around the World That You Need to Try](https://lifehacker.com/23-hot-dogs-from-around-the-world-that-you-need-to-try-1849434231)
+- [Dev.to/JS] [The Evolution of JavaScript](https://dev.to/ianmcbull/the-evolution-of-javascript-2bca)
+- [Dev.to/JS] [JavaScript Full-Stack](https://dev.to/waylandi/javascript-full-stack-12gg)
 - [Dev.to/JS] [Make Pop-Up Modal Window In Vanilla JavaScript](https://dev.to/hirajatamil/make-pop-up-modal-window-in-vanilla-javascript-4dd2)
 - [Dev.to/JS] [Tauri VS. Electron - Real world application](https://dev.to/levminer/tauri-vs-electron-real-world-application-eah)
 - [Dev.to/JS] [I created an App to help you get/change jobs as a Dev](https://dev.to/juniorklawa/i-created-an-app-to-help-you-getchange-jobs-as-a-dev-a5a)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍎.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-15id)
-- [Dev.to/JS] [Can we develop a website for only KPOP fans](https://dev.to/combicosoul/can-we-develop-a-website-for-only-kpop-fans-3n42)
-- [Dev.to/JS] [Render content based on viewport size](https://dev.to/ajuni880/render-content-based-on-viewport-size-1440)
-- [Dev.to/JS] [thermaloil](https://dev.to/zaenala83019226/thermaloil-4m55)
-- [Dev.to/JS] [What is FFmpeg?](https://dev.to/hamitdemir/what-is-ffmpeg-50f4)
-- [Dev.to/JS] [Combination Sum- I](https://dev.to/zeeshanali0704/combination-sum-i-39h4)
-- [Dev.to/JS] [How To Build NFT Website With Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-nft-website-with-html-css-javascript-l9k)
-- [Dev.to/JS] [Migrating from Create React App &lpar;CRA&rpar; to Vite](https://dev.to/cathalmacdonnacha/migrating-from-create-react-app-cra-to-vite-5416)
-- [Dev.to/JS] [Github Copilot vs Tabnine? – Choose the Best AI Assistant for You](https://dev.to/tyaga001/github-copilot-vs-tabnine-choose-the-best-ai-assistant-for-you-c7e)
+- [Dev.to/JS] [11 Console Methods in JavaScript for Effective Debugging](https://dev.to/syncfusion/11-console-methods-in-javascript-for-effective-debugging-41e8)
 - [Crazy Programmer] [Anders Hejlsberg Biography](https://www.thecrazyprogrammer.com/2022/08/anders-hejlsberg-biography.html)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the World&#39;s Most Amazing Real-Life Prison Escapes &lpar;and What to Learn From Them&rpar;](https://lifehacker.com/8-of-the-worlds-most-amazing-real-life-prison-escapes-1849427379)
 - [Lifehacker] [How to Get a Free Stove From the Government &lpar;and Help Save the Planet&rpar;](https://lifehacker.com/how-to-get-a-free-stove-from-the-government-and-help-s-1849431130)
 - [Lifehacker] [You Can Make a Daiquiri &lpar;or any Sour&rpar; Without Simple Syrup](https://lifehacker.com/you-can-make-a-daiquiri-or-any-sour-without-simple-sy-1849431540)
-- [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849430424)
-- [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
-- [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849430424)<!-- TECH-POSTS:END -->
 
 ---
 
