@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Enhance JavaScript File Upload In Your Web App](https://dev.to/ideradevtools/how-to-enhance-javascript-file-upload-in-your-web-app-lon)
+- [Dev.to/JS] [How to learn ReactJS on a low spec PC](https://dev.to/shoa1bdev/how-to-learn-reactjs-on-a-low-spec-pc-3kii)
+- [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
+- [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Dev.to/JS] [How To Implement Custom Error Responses in Express](https://dev.to/robertinoc_dev/how-to-implement-custom-error-responses-in-express-38p4)
 - [Dev.to/JS] [Loading Modal in React Native with Activity Indicator](https://dev.to/suyashvash/loading-modal-in-react-native-with-activity-indicator-23ka)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Qwik](https://dev.to/mehdi1/qwik-296k)
 - [Lifehacker] [You Don&#39;t Need a Lemon to Clean Your Microwave](https://lifehacker.com/you-dont-need-a-lemon-to-clean-your-microwave-1849441501)
 - [Dev.to/JS] [Awesome tools for Web Developer - Part 2](https://dev.to/surajondev/awesome-tools-for-web-developer-part-2-4j9k)
-- [Dev.to/JS] [Panagrams](https://dev.to/zeeshanali0704/panagrams-emh)
-- [Dev.to/JS] [Python vs Javascript: Dealing with the quirks of async/await](https://dev.to/joyceo/python-vs-javascript-dealing-with-the-quirks-of-asyncawait-55kd)
 - [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
 - [Lifehacker] [Two Ways to Read a Snapchat Without Sending a Read Receipt](https://lifehacker.com/two-ways-to-read-a-snapchat-without-sending-a-read-rece-1849440845)
 - [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
-- [Lifehacker] [How to Assess Your Home’s Risk From Climate Change](https://lifehacker.com/how-to-assess-your-home-s-risk-from-climate-change-1849428527)
-- [Lifehacker] [Do You Have Antisocial Personality Disorder?](https://lifehacker.com/do-you-have-antisocial-personality-disorder-1849434758)
-- [Lifehacker] [The Easiest Ways to Make Your Home More Wheelchair-Accessible](https://lifehacker.com/the-easiest-ways-to-make-your-home-more-wheelchair-acce-1849434466)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Assess Your Home’s Risk From Climate Change](https://lifehacker.com/how-to-assess-your-home-s-risk-from-climate-change-1849428527)<!-- TECH-POSTS:END -->
 
 ---
 
