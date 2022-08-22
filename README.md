@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flutter: Our Platform of Choice](https://dev.to/twinsun/flutter-our-platform-of-choice-37e3)
+- [Dev.to/JS] [Build on Flow | Learn FCL - 15. How to Add and Revoke Public Keys](https://dev.to/onflow/build-on-flow-learn-fcl-15-how-to-add-and-revoke-public-keys-4k8c)
+- [Dev.to/JS] [What Should We Consider While Selecting A Low-Code App Platform?](https://dev.to/ashukalbande/what-should-we-consider-while-selecting-a-low-code-app-platform-323n)
+- [Lifehacker] [Five Things Holding You Back From Becoming a Better Home Chef](https://lifehacker.com/five-things-holding-you-back-from-becoming-a-better-hom-1849441599)
+- [Dev.to/JS] [Qwik](https://dev.to/mehdi1/qwik-296k)
+- [Lifehacker] [You Don&#39;t Need a Lemon to Clean Your Microwave](https://lifehacker.com/you-dont-need-a-lemon-to-clean-your-microwave-1849441501)
 - [Dev.to/JS] [Awesome tools for Web Developer - Part 2](https://dev.to/surajondev/awesome-tools-for-web-developer-part-2-4j9k)
 - [Dev.to/JS] [Panagrams](https://dev.to/zeeshanali0704/panagrams-emh)
 - [Dev.to/JS] [Python vs Javascript: Dealing with the quirks of async/await](https://dev.to/joyceo/python-vs-javascript-dealing-with-the-quirks-of-asyncawait-55kd)
@@ -32,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build on Flow | FCL in Russian Создаем на Flow | FCL на Русском языке](https://dev.to/egormajj/sozdaiem-na-flow-fcl-na-russkom-iazykie-lga)
 - [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
 - [Dev.to/JS] [Создаем на Flow | Изучение FCL 1 — Введение](https://dev.to/egormajj/sozdaiem-na-flow-izuchieniie-fcl-vviedieniie-436o)
-- [Dev.to/JS] [How to improve serverless deployment times with just 4 lines of code.](https://dev.to/cesaraugp/how-to-improve-serverless-deployment-times-with-just-4-lines-of-code-4cej)
 - [Lifehacker] [Two Ways to Read a Snapchat Without Sending a Read Receipt](https://lifehacker.com/two-ways-to-read-a-snapchat-without-sending-a-read-rece-1849440845)
-- [Dev.to/JS] [Profiling &amp; Optimizing a React Application with DevTools](https://dev.to/teekay/profiling-optimizing-a-react-application-with-devtools-34cj)
-- [Dev.to/JS] [Filestack And Other OCR APIs](https://dev.to/ideradevtools/filestack-and-other-ocr-apis-1ffi)
-- [Dev.to/JS] [Typescript Series - If Type Util](https://dev.to/sarmunbustillo/typescript-series-if-type-util-3lho)
 - [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)
 - [Lifehacker] [Everyday Activities That &#39;Count&#39; As Exercise](https://lifehacker.com/everyday-activities-that-count-as-exercise-1849440537)
 - [Lifehacker] [Some of Those Google Ads Are Actually Hackers](https://lifehacker.com/some-of-those-google-ads-are-actually-hackers-1849440607)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Make Your Home More Wheelchair-Accessible](https://lifehacker.com/the-easiest-ways-to-make-your-home-more-wheelchair-acce-1849434466)
 - [Lifehacker] [11 of the Best Life Advice Podcasts to Answer All Your Tough Questions](https://lifehacker.com/11-of-the-best-life-advice-podcasts-to-answer-all-your-1849434919)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
-- [Lifehacker] [12 of Anne Heche’s Best Performances](https://lifehacker.com/12-of-anne-heche-s-best-performances-1849428022)
-- [Lifehacker] [There&#39;s a New Way to Find Out If You&#39;re Getting Enough Exercise](https://lifehacker.com/theres-a-new-way-to-find-out-if-youre-getting-enough-ex-1849433948)
-- [Lifehacker] [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 of Anne Heche’s Best Performances](https://lifehacker.com/12-of-anne-heche-s-best-performances-1849428022)<!-- TECH-POSTS:END -->
 
 ---
 
