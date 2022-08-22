@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Electron JS Windows setup](https://dev.to/loganvoisin/electron-js-windows-setup-41d8)
+- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 10: Ignition Execution Unit](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-10-ignition-execution-unit-2gkh)
+- [Dev.to/JS] [Tic Tac Toe](https://dev.to/samthatcode/tic-tac-toe-26ij)
+- [Lifehacker] [How to Not Spend a Fortune on School Supplies](https://lifehacker.com/how-to-not-spend-a-fortune-on-school-supplies-1849435835)
+- [Dev.to/JS] [Let’s Investigate the Latest Release of Laravel](https://dev.to/kuldeepthakur/lets-investigate-the-latest-release-of-laravel-4f7n)
+- [Dev.to/JS] [Code Review: Necessary Evil in Codebase and Open Source](https://dev.to/tuasegun/code-review-necessary-evil-in-codebase-and-open-source-5cei)
 - [Dev.to/JS] [Troubleshooting Tabbing](https://dev.to/abbeyperini/troubleshooting-tabbing-3mja)
 - [Dev.to/JS] [Recursion vs. Loops in JavaScript](https://dev.to/thawkin3/recursion-vs-loops-in-javascript-14em)
 - [Lifehacker] [How to Keep Your Nuts Fresh](https://lifehacker.com/how-to-keep-your-nuts-fresh-1849434560)
@@ -32,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [23 Hot Dogs From Around the World That You Need to Try](https://lifehacker.com/23-hot-dogs-from-around-the-world-that-you-need-to-try-1849434231)
 - [Dev.to/JS] [The Evolution of JavaScript](https://dev.to/ianmcbull/the-evolution-of-javascript-2bca)
 - [Dev.to/JS] [JavaScript Full-Stack](https://dev.to/waylandi/javascript-full-stack-12gg)
-- [Dev.to/JS] [Make Pop-Up Modal Window In Vanilla JavaScript](https://dev.to/hirajatamil/make-pop-up-modal-window-in-vanilla-javascript-4dd2)
-- [Dev.to/JS] [Tauri VS. Electron - Real world application](https://dev.to/levminer/tauri-vs-electron-real-world-application-eah)
-- [Dev.to/JS] [I created an App to help you get/change jobs as a Dev](https://dev.to/juniorklawa/i-created-an-app-to-help-you-getchange-jobs-as-a-dev-a5a)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍎.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-15id)
-- [Dev.to/JS] [11 Console Methods in JavaScript for Effective Debugging](https://dev.to/syncfusion/11-console-methods-in-javascript-for-effective-debugging-41e8)
 - [Crazy Programmer] [Anders Hejlsberg Biography](https://www.thecrazyprogrammer.com/2022/08/anders-hejlsberg-biography.html)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Spend Your Vacation ‘Buffer Day’](https://lifehacker.com/the-best-ways-to-spend-your-vacation-buffer-day-1849433148)
 - [Lifehacker] [8 of the World&#39;s Most Amazing Real-Life Prison Escapes &lpar;and What to Learn From Them&rpar;](https://lifehacker.com/8-of-the-worlds-most-amazing-real-life-prison-escapes-1849427379)
 - [Lifehacker] [How to Get a Free Stove From the Government &lpar;and Help Save the Planet&rpar;](https://lifehacker.com/how-to-get-a-free-stove-from-the-government-and-help-s-1849431130)
-- [Lifehacker] [You Can Make a Daiquiri &lpar;or any Sour&rpar; Without Simple Syrup](https://lifehacker.com/you-can-make-a-daiquiri-or-any-sour-without-simple-sy-1849431540)
-- [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849430424)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make a Daiquiri &lpar;or any Sour&rpar; Without Simple Syrup](https://lifehacker.com/you-can-make-a-daiquiri-or-any-sour-without-simple-sy-1849431540)<!-- TECH-POSTS:END -->
 
 ---
 
