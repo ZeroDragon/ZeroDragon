@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [thermaloil](https://dev.to/zaenala83019226/thermaloil-4m55)
+- [Dev.to/JS] [What is FFmpeg?](https://dev.to/hamitdemir/what-is-ffmpeg-50f4)
+- [Dev.to/JS] [Combination Sum- I](https://dev.to/zeeshanali0704/combination-sum-i-39h4)
 - [Dev.to/JS] [How To Build NFT Website With Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-nft-website-with-html-css-javascript-l9k)
 - [Dev.to/JS] [Migrating from Create React App &lpar;CRA&rpar; to Vite](https://dev.to/cathalmacdonnacha/migrating-from-create-react-app-cra-to-vite-5416)
 - [Dev.to/JS] [Github Copilot vs Tabnine? – Choose the Best AI Assistant for You](https://dev.to/tyaga001/github-copilot-vs-tabnine-choose-the-best-ai-assistant-for-you-c7e)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 8 Tips To Overcome Data Science Imposter Syndrome](https://dev.to/datascientist987/top-8-tips-to-overcome-data-science-imposter-syndrome-bj4)
 - [Dev.to/JS] [Three Plugins to Power up Your Strapi Blog](https://dev.to/strapi/three-plugins-to-power-up-your-strapi-blog-16i7)
 - [Crazy Programmer] [Anders Hejlsberg Biography](https://www.thecrazyprogrammer.com/2022/08/anders-hejlsberg-biography.html)
-- [Dev.to/JS] [Node.js delete File example](https://dev.to/tienbku/nodejs-delete-file-example-4km4)
-- [Dev.to/JS] [How to test your own React Components library](https://dev.to/pavlov/how-to-test-your-own-react-components-library-3ob4)
-- [Dev.to/JS] [tsParticles 2.2.3 Released](https://dev.to/tsparticles/tsparticles-223-released-2bb1)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
