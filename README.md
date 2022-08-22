@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)
+- [Dev.to/JS] [Recommend A react Library which make you elegant and quickly to create dark mode on react.js](https://dev.to/lesliesie/recommend-a-react-library-which-make-you-elegant-and-quickly-to-create-dark-mode-on-reactjs-2k1g)
+- [Dev.to/JS] [How to keep undefined values in JSON.stringify](https://dev.to/petermekhaeil/how-to-keep-undefined-values-in-jsonstringify-3kip)
+- [Dev.to/JS] [Dragon Checksum](https://dev.to/rmion/dragon-checksum-2kmb)
+- [Lifehacker] [Everyday Activities That &#39;Count&#39; As Exercise](https://lifehacker.com/everyday-activities-that-count-as-exercise-1849440537)
+- [Dev.to/JS] [Top Tools every Software Developer should know in 2022](https://dev.to/flatlogic/top-tools-every-software-developer-should-know-in-2022-3664)
+- [Dev.to/JS] [Building a chat - Browser Notifications with React, Websockets and Web-Push 🤯](https://dev.to/novu/building-a-chat-browser-notifications-with-react-websockets-and-web-push-1h1j)
 - [Lifehacker] [Some of Those Google Ads Are Actually Hackers](https://lifehacker.com/some-of-those-google-ads-are-actually-hackers-1849440607)
-- [Dev.to/JS] [5 Tools I add to every new web project for SEO and analytics](https://dev.to/irreverentmike/5-tools-i-add-to-every-new-web-project-for-seo-and-analytics-58f2)
+- [Dev.to/JS] [SEO tools I used to grow my sites to 20k+ visitors/month](https://dev.to/irreverentmike/5-tools-i-add-to-every-new-web-project-for-seo-and-analytics-58f2)
 - [Dev.to/JS] [Disambiguating Jamstack and MACH](https://dev.to/aowen/disambiguating-jamstack-and-mach-3e87)
 - [Dev.to/JS] [Why I Decided to be a Software Developer](https://dev.to/d_dawudsky/why-i-decided-to-be-a-software-developer-3pg8)
 - [Dev.to/JS] [Lessons from my first serious react project](https://dev.to/divyanshchahar/lessons-from-my-first-serious-react-project-51b4)
 - [Dev.to/JS] [Event bubbling en JavaScript 🍂](https://dev.to/duxtech/event-bubbling-en-javascript-4ogm)
 - [Dev.to/JS] [Detailed Overview of GraphQL Frameworks in Java](https://dev.to/rahulsharmadev/detailed-overview-of-graphql-frameworks-in-java-6e2)
 - [Dev.to/JS] [How to Make Changes to the DOM Tutorial](https://dev.to/rembertdesigns/how-to-make-changes-to-the-dom-tutorial-1ad8)
-- [Dev.to/JS] [Difference Between Strapi v3 and v4, what changed, and why?](https://dev.to/strapi/difference-between-strapi-v3-and-v4-what-changed-and-why-3cbg)
 - [Lifehacker] [The 7 Deadly Sins of Getting Back in Shape](https://lifehacker.com/the-7-deadly-sins-of-getting-back-in-shape-1849436069)
-- [Dev.to/JS] [Electron JS Windows setup](https://dev.to/loganvoisin/electron-js-windows-setup-41d8)
-- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 10: Ignition Execution Unit](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-10-ignition-execution-unit-2gkh)
-- [Dev.to/JS] [Tic Tac Toe](https://dev.to/samthatcode/tic-tac-toe-26ij)
 - [Lifehacker] [How to Not Spend a Fortune on School Supplies](https://lifehacker.com/how-to-not-spend-a-fortune-on-school-supplies-1849435835)
-- [Dev.to/JS] [Let’s Investigate the Latest Release of Laravel](https://dev.to/kuldeepthakur/lets-investigate-the-latest-release-of-laravel-4f7n)
 - [Lifehacker] [How to Keep Your Nuts Fresh](https://lifehacker.com/how-to-keep-your-nuts-fresh-1849434560)
 - [Lifehacker] [23 Hot Dogs From Around the World That You Need to Try](https://lifehacker.com/23-hot-dogs-from-around-the-world-that-you-need-to-try-1849434231)
 - [Crazy Programmer] [Anders Hejlsberg Biography](https://www.thecrazyprogrammer.com/2022/08/anders-hejlsberg-biography.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a New Way to Find Out If You&#39;re Getting Enough Exercise](https://lifehacker.com/theres-a-new-way-to-find-out-if-youre-getting-enough-ex-1849433948)
 - [Lifehacker] [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s Behind the &#39;Girl Bro&#39; Meme?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-beh-1849432598)
-- [Lifehacker] [How to Improve Your Hand Dexterity &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-improve-your-hand-dexterity-and-why-its-importa-1849432227)
-- [Lifehacker] [The Best Ways to Spend Your Vacation ‘Buffer Day’](https://lifehacker.com/the-best-ways-to-spend-your-vacation-buffer-day-1849433148)
-- [Lifehacker] [8 of the World&#39;s Most Amazing Real-Life Prison Escapes &lpar;and What to Learn From Them&rpar;](https://lifehacker.com/8-of-the-worlds-most-amazing-real-life-prison-escapes-1849427379)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Improve Your Hand Dexterity &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-improve-your-hand-dexterity-and-why-its-importa-1849432227)<!-- TECH-POSTS:END -->
 
 ---
 
