@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Implement Custom Error Responses in Express](https://dev.to/robertinoc_dev/how-to-implement-custom-error-responses-in-express-38p4)
+- [Dev.to/JS] [Loading Modal in React Native with Activity Indicator](https://dev.to/suyashvash/loading-modal-in-react-native-with-activity-indicator-23ka)
+- [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
+- [Dev.to/JS] [Top 12 Javascript books to read in 2022](https://dev.to/justin_graysen/top-12-javascript-books-to-read-in-2022-3ii5)
 - [Lifehacker] [20 of the Most Beloved Types of Pizza From Across the US](https://lifehacker.com/20-of-the-most-beloved-types-of-pizza-from-across-the-u-1849441438)
 - [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)
+- [Dev.to/JS] [Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 2](https://dev.to/ranjan/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-2-f48)
 - [Dev.to/JS] [Magic of window.open in browsers](https://dev.to/urstrulyvishwak/magic-of-windowopen-in-browsers-3ioc)
 - [Dev.to/JS] [Flutter: Our Platform of Choice](https://dev.to/twinsun/flutter-our-platform-of-choice-37e3)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 15. How to Add and Revoke Public Keys](https://dev.to/onflow/build-on-flow-learn-fcl-15-how-to-add-and-revoke-public-keys-4k8c)
@@ -35,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Awesome tools for Web Developer - Part 2](https://dev.to/surajondev/awesome-tools-for-web-developer-part-2-4j9k)
 - [Dev.to/JS] [Panagrams](https://dev.to/zeeshanali0704/panagrams-emh)
 - [Dev.to/JS] [Python vs Javascript: Dealing with the quirks of async/await](https://dev.to/joyceo/python-vs-javascript-dealing-with-the-quirks-of-asyncawait-55kd)
-- [Dev.to/JS] [HackerRank in a String!](https://dev.to/zeeshanali0704/hackerrank-in-a-string-2g5n)
-- [Dev.to/JS] [Unique-Subset-Array](https://dev.to/zeeshanali0704/unique-subset-array-i-2kll)
-- [Dev.to/JS] [Beginner&#39;s Guide to Array Methods in JavaScript](https://dev.to/meganmoulos/beginners-guide-to-array-methods-in-javascript-25ph)
-- [Dev.to/JS] [Build on Flow | FCL in Russian Создаем на Flow | FCL на Русском языке](https://dev.to/egormajj/sozdaiem-na-flow-fcl-na-russkom-iazykie-lga)
 - [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
 - [Lifehacker] [Two Ways to Read a Snapchat Without Sending a Read Receipt](https://lifehacker.com/two-ways-to-read-a-snapchat-without-sending-a-read-rece-1849440845)
 - [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
 - [Lifehacker] [How to Assess Your Home’s Risk From Climate Change](https://lifehacker.com/how-to-assess-your-home-s-risk-from-climate-change-1849428527)
 - [Lifehacker] [Do You Have Antisocial Personality Disorder?](https://lifehacker.com/do-you-have-antisocial-personality-disorder-1849434758)
-- [Lifehacker] [The Easiest Ways to Make Your Home More Wheelchair-Accessible](https://lifehacker.com/the-easiest-ways-to-make-your-home-more-wheelchair-acce-1849434466)
-- [Lifehacker] [11 of the Best Life Advice Podcasts to Answer All Your Tough Questions](https://lifehacker.com/11-of-the-best-life-advice-podcasts-to-answer-all-your-1849434919)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Make Your Home More Wheelchair-Accessible](https://lifehacker.com/the-easiest-ways-to-make-your-home-more-wheelchair-acce-1849434466)<!-- TECH-POSTS:END -->
 
 ---
 
