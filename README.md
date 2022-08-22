@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte Logic Blocks](https://dev.to/codingmustache/svelte-logic-blocks-18ec)
+- [Dev.to/JS] [Browser extensions - Using storage](https://dev.to/dailydevtips1/browser-extensions-using-storage-m7e)
+- [Dev.to/JS] [A Practical Guide to Brain.js](https://dev.to/patilganesh1010/a-practical-guide-to-brainjs-nfk)
 - [Dev.to/JS] [Jump Game - I](https://dev.to/zeeshanali0704/jump-game--3lfe)
 - [Dev.to/JS] [Docker](https://dev.to/jimenezfede/docker-ekm)
 - [Dev.to/JS] [JavaScript : Array Literals](https://dev.to/deogadkarravina/javascript-array-literals-3991)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to setup prettier, lint-staged and husky script](https://dev.to/majorreact/how-to-setup-prettier-lint-staged-and-husky-script-4jhj)
 - [Dev.to/JS] [Javascript Tagalog - String charAt Method](https://dev.to/mmvergara/javascript-tagalog-string-charat-method-5367)
 - [Dev.to/JS] [React Journey - My First Project &lpar;pt. 1&rpar;](https://dev.to/brockcaldwell/react-journey-my-first-project-pt-1-12ln)
-- [Dev.to/JS] [Absolute Beginner&#39;s Guide to Learn JavaScript, Part-3](https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-3-2681)
-- [Dev.to/JS] [How Javascript TransformStream transform strings](https://dev.to/mahmoudjbor/how-javascript-transformstream-transform-strings-15c7)
-- [Dev.to/JS] [22 August&#39; 2022.](https://dev.to/zoro/22-august-2022-2h4f)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
