@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I have an error when I want to save to the redux state. A non-serializable value.](https://dev.to/ivkemilioner/i-have-an-error-when-i-want-to-save-to-the-redux-state-a-non-serializable-value-4dli)
+- [Dev.to/JS] [Advent of Code 2018 Day 2 Part 2 - Solution and Explanation](https://dev.to/benboorstein/advent-of-code-2018-day-2-part-2-solution-and-explanation-1j9e)
+- [Dev.to/JS] [How to Create a Multiple Files Uploader for Your PHP Application](https://dev.to/ideradevtools/how-to-create-a-multiple-files-uploader-for-your-php-application-3a05)
+- [Dev.to/JS] [10+ digital skills in 2022 to get you a job](https://dev.to/mojodev/10-digital-skills-in-2022-to-get-you-a-job-45f6)
+- [Dev.to/JS] [Caesar Cipher and JavaScript](https://dev.to/anasnmu/caesar-cipher-and-javascript-1kl1)
 - [Dev.to/JS] [How To Enhance JavaScript File Upload In Your Web App](https://dev.to/ideradevtools/how-to-enhance-javascript-file-upload-in-your-web-app-lon)
 - [Dev.to/JS] [How to learn ReactJS on a low spec PC](https://dev.to/shoa1bdev/how-to-learn-reactjs-on-a-low-spec-pc-3kii)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
@@ -35,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)
 - [Dev.to/JS] [Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 2](https://dev.to/ranjan/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-2-f48)
 - [Dev.to/JS] [Magic of window.open in browsers](https://dev.to/urstrulyvishwak/magic-of-windowopen-in-browsers-3ioc)
-- [Dev.to/JS] [Flutter: Our Platform of Choice](https://dev.to/twinsun/flutter-our-platform-of-choice-37e3)
-- [Dev.to/JS] [Build on Flow | Learn FCL - 15. How to Add and Revoke Public Keys](https://dev.to/onflow/build-on-flow-learn-fcl-15-how-to-add-and-revoke-public-keys-4k8c)
-- [Dev.to/JS] [What Should We Consider While Selecting A Low-Code App Platform?](https://dev.to/ashukalbande/what-should-we-consider-while-selecting-a-low-code-app-platform-323n)
 - [Lifehacker] [Five Things Holding You Back From Becoming a Better Home Chef](https://lifehacker.com/five-things-holding-you-back-from-becoming-a-better-hom-1849441599)
-- [Dev.to/JS] [Qwik](https://dev.to/mehdi1/qwik-296k)
 - [Lifehacker] [You Don&#39;t Need a Lemon to Clean Your Microwave](https://lifehacker.com/you-dont-need-a-lemon-to-clean-your-microwave-1849441501)
-- [Dev.to/JS] [Awesome tools for Web Developer - Part 2](https://dev.to/surajondev/awesome-tools-for-web-developer-part-2-4j9k)
 - [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
 - [Lifehacker] [Two Ways to Read a Snapchat Without Sending a Read Receipt](https://lifehacker.com/two-ways-to-read-a-snapchat-without-sending-a-read-rece-1849440845)
 - [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)
