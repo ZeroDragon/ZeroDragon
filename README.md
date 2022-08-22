@@ -29,7 +29,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Absolute Beginner&#39;s Guide to Learn JavaScript, Part-3](https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-3-2681)
 - [Dev.to/JS] [How Javascript TransformStream transform strings](https://dev.to/mahmoudjbor/how-javascript-transformstream-transform-strings-15c7)
 - [Dev.to/JS] [22 August&#39; 2022.](https://dev.to/zoro/22-august-2022-2h4f)
-- [Dev.to/JS] [Full JavaScript Internationalization CheatSheet!](https://dev.to/omardulaimi/full-javascript-internationalization-cheatsheet-3fo)
+- [Dev.to/JS] [JavaScript Internationalization CheatSheet!](https://dev.to/omardulaimi/full-javascript-internationalization-cheatsheet-3fo)
 - [Dev.to/JS] [Why should you attend the Meteor Hackathon 2022 in September](https://dev.to/jankapunkt/why-should-you-attend-the-meteor-hackathon-2022-in-september-1pki)
 - [Dev.to/JS] [Top 10 Awesome React Hooks Libraries](https://dev.to/ravics1721/top-10-awesome-react-hooks-libraries-1924)
 - [Dev.to/JS] [Weekly Digest 33/2022](https://dev.to/marcobiedermann/weekly-digest-332022-38bj)
