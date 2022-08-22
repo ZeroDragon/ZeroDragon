@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Some of Those Google Ads Are Actually Hackers](https://lifehacker.com/some-of-those-google-ads-are-actually-hackers-1849440607)
+- [Dev.to/JS] [5 Tools I add to every new web project for SEO and analytics](https://dev.to/irreverentmike/5-tools-i-add-to-every-new-web-project-for-seo-and-analytics-58f2)
+- [Dev.to/JS] [Disambiguating Jamstack and MACH](https://dev.to/aowen/disambiguating-jamstack-and-mach-3e87)
+- [Dev.to/JS] [Why I Decided to be a Software Developer](https://dev.to/d_dawudsky/why-i-decided-to-be-a-software-developer-3pg8)
+- [Dev.to/JS] [Lessons from my first serious react project](https://dev.to/divyanshchahar/lessons-from-my-first-serious-react-project-51b4)
+- [Dev.to/JS] [Event bubbling en JavaScript 🍂](https://dev.to/duxtech/event-bubbling-en-javascript-4ogm)
+- [Dev.to/JS] [Detailed Overview of GraphQL Frameworks in Java](https://dev.to/rahulsharmadev/detailed-overview-of-graphql-frameworks-in-java-6e2)
+- [Dev.to/JS] [How to Make Changes to the DOM Tutorial](https://dev.to/rembertdesigns/how-to-make-changes-to-the-dom-tutorial-1ad8)
+- [Dev.to/JS] [Difference Between Strapi v3 and v4, what changed, and why?](https://dev.to/strapi/difference-between-strapi-v3-and-v4-what-changed-and-why-3cbg)
+- [Lifehacker] [The 7 Deadly Sins of Getting Back in Shape](https://lifehacker.com/the-7-deadly-sins-of-getting-back-in-shape-1849436069)
 - [Dev.to/JS] [Electron JS Windows setup](https://dev.to/loganvoisin/electron-js-windows-setup-41d8)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 10: Ignition Execution Unit](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-10-ignition-execution-unit-2gkh)
 - [Dev.to/JS] [Tic Tac Toe](https://dev.to/samthatcode/tic-tac-toe-26ij)
 - [Lifehacker] [How to Not Spend a Fortune on School Supplies](https://lifehacker.com/how-to-not-spend-a-fortune-on-school-supplies-1849435835)
 - [Dev.to/JS] [Let’s Investigate the Latest Release of Laravel](https://dev.to/kuldeepthakur/lets-investigate-the-latest-release-of-laravel-4f7n)
-- [Dev.to/JS] [Code Review: Necessary Evil in Codebase and Open Source](https://dev.to/tuasegun/code-review-necessary-evil-in-codebase-and-open-source-5cei)
-- [Dev.to/JS] [Troubleshooting Tabbing](https://dev.to/abbeyperini/troubleshooting-tabbing-3mja)
-- [Dev.to/JS] [Recursion vs. Loops in JavaScript](https://dev.to/thawkin3/recursion-vs-loops-in-javascript-14em)
 - [Lifehacker] [How to Keep Your Nuts Fresh](https://lifehacker.com/how-to-keep-your-nuts-fresh-1849434560)
-- [Dev.to/JS] [How to make Checkbox Filter with Vue JS](https://dev.to/sammybammy52/how-to-make-checkbox-filter-with-vue-js-be1)
-- [Dev.to/JS] [Progressing As A Junior Developer.](https://dev.to/blakcoder/progressing-as-a-junior-developer-bio)
-- [Dev.to/JS] [From in Formik unable to properly validate inputs](https://dev.to/anthonynassif/from-in-formik-unable-to-properly-validate-inputs-252d)
 - [Lifehacker] [23 Hot Dogs From Around the World That You Need to Try](https://lifehacker.com/23-hot-dogs-from-around-the-world-that-you-need-to-try-1849434231)
-- [Dev.to/JS] [The Evolution of JavaScript](https://dev.to/ianmcbull/the-evolution-of-javascript-2bca)
-- [Dev.to/JS] [JavaScript Full-Stack](https://dev.to/waylandi/javascript-full-stack-12gg)
 - [Crazy Programmer] [Anders Hejlsberg Biography](https://www.thecrazyprogrammer.com/2022/08/anders-hejlsberg-biography.html)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s Behind the &#39;Girl Bro&#39; Meme?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-beh-1849432598)
 - [Lifehacker] [How to Improve Your Hand Dexterity &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-improve-your-hand-dexterity-and-why-its-importa-1849432227)
 - [Lifehacker] [The Best Ways to Spend Your Vacation ‘Buffer Day’](https://lifehacker.com/the-best-ways-to-spend-your-vacation-buffer-day-1849433148)
-- [Lifehacker] [8 of the World&#39;s Most Amazing Real-Life Prison Escapes &lpar;and What to Learn From Them&rpar;](https://lifehacker.com/8-of-the-worlds-most-amazing-real-life-prison-escapes-1849427379)
-- [Lifehacker] [How to Get a Free Stove From the Government &lpar;and Help Save the Planet&rpar;](https://lifehacker.com/how-to-get-a-free-stove-from-the-government-and-help-s-1849431130)
-- [Lifehacker] [You Can Make a Daiquiri &lpar;or any Sour&rpar; Without Simple Syrup](https://lifehacker.com/you-can-make-a-daiquiri-or-any-sour-without-simple-sy-1849431540)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 of the World&#39;s Most Amazing Real-Life Prison Escapes &lpar;and What to Learn From Them&rpar;](https://lifehacker.com/8-of-the-worlds-most-amazing-real-life-prison-escapes-1849427379)<!-- TECH-POSTS:END -->
 
 ---
 
