@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
+- [Dev.to/JS] [Создаем на Flow | Изучение FCL 1 — Введение](https://dev.to/egormajj/sozdaiem-na-flow-izuchieniie-fcl-vviedieniie-436o)
+- [Dev.to/JS] [How to improve serverless deployment times with just 4 lines of code.](https://dev.to/cesaraugp/how-to-improve-serverless-deployment-times-with-just-4-lines-of-code-4cej)
+- [Lifehacker] [Two Ways to Read a Snapchat Without Sending a Read Receipt](https://lifehacker.com/two-ways-to-read-a-snapchat-without-sending-a-read-rece-1849440845)
+- [Dev.to/JS] [Profiling &amp; Optimizing a React Application with DevTools](https://dev.to/teekay/profiling-optimizing-a-react-application-with-devtools-34cj)
+- [Dev.to/JS] [Filestack And Other OCR APIs](https://dev.to/ideradevtools/filestack-and-other-ocr-apis-1ffi)
+- [Dev.to/JS] [Typescript Series - If Type Util](https://dev.to/sarmunbustillo/typescript-series-if-type-util-3lho)
 - [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)
 - [Dev.to/JS] [Recommend A react Library which make you elegant and quickly to create dark mode on react.js](https://dev.to/lesliesie/recommend-a-react-library-which-make-you-elegant-and-quickly-to-create-dark-mode-on-reactjs-2k1g)
 - [Dev.to/JS] [How to keep undefined values in JSON.stringify](https://dev.to/petermekhaeil/how-to-keep-undefined-values-in-jsonstringify-3kip)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Some of Those Google Ads Are Actually Hackers](https://lifehacker.com/some-of-those-google-ads-are-actually-hackers-1849440607)
 - [Dev.to/JS] [SEO tools I used to grow my sites to 20k+ visitors/month](https://dev.to/irreverentmike/5-tools-i-add-to-every-new-web-project-for-seo-and-analytics-58f2)
 - [Dev.to/JS] [Disambiguating Jamstack and MACH](https://dev.to/aowen/disambiguating-jamstack-and-mach-3e87)
-- [Dev.to/JS] [Why I Decided to be a Software Developer](https://dev.to/d_dawudsky/why-i-decided-to-be-a-software-developer-3pg8)
-- [Dev.to/JS] [Lessons from my first serious react project](https://dev.to/divyanshchahar/lessons-from-my-first-serious-react-project-51b4)
-- [Dev.to/JS] [Event bubbling en JavaScript 🍂](https://dev.to/duxtech/event-bubbling-en-javascript-4ogm)
-- [Dev.to/JS] [Detailed Overview of GraphQL Frameworks in Java](https://dev.to/rahulsharmadev/detailed-overview-of-graphql-frameworks-in-java-6e2)
-- [Dev.to/JS] [How to Make Changes to the DOM Tutorial](https://dev.to/rembertdesigns/how-to-make-changes-to-the-dom-tutorial-1ad8)
 - [Lifehacker] [The 7 Deadly Sins of Getting Back in Shape](https://lifehacker.com/the-7-deadly-sins-of-getting-back-in-shape-1849436069)
 - [Lifehacker] [How to Not Spend a Fortune on School Supplies](https://lifehacker.com/how-to-not-spend-a-fortune-on-school-supplies-1849435835)
 - [Lifehacker] [How to Keep Your Nuts Fresh](https://lifehacker.com/how-to-keep-your-nuts-fresh-1849434560)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [12 of Anne Heche’s Best Performances](https://lifehacker.com/12-of-anne-heche-s-best-performances-1849428022)
 - [Lifehacker] [There&#39;s a New Way to Find Out If You&#39;re Getting Enough Exercise](https://lifehacker.com/theres-a-new-way-to-find-out-if-youre-getting-enough-ex-1849433948)
-- [Lifehacker] [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What&#39;s Behind the &#39;Girl Bro&#39; Meme?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-beh-1849432598)
-- [Lifehacker] [How to Improve Your Hand Dexterity &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-improve-your-hand-dexterity-and-why-its-importa-1849432227)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 of the Best Man-Versus-Animal Movies of All Time](https://lifehacker.com/20-of-the-best-man-versus-animal-movies-of-all-time-1849416999)<!-- TECH-POSTS:END -->
 
 ---
 
