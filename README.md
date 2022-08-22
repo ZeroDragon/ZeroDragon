@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 8 Tips To Overcome Data Science Imposter Syndrome](https://dev.to/datascientist987/top-8-tips-to-overcome-data-science-imposter-syndrome-bj4)
+- [Dev.to/JS] [Three Plugins to Power up Your Strapi Blog](https://dev.to/strapi/three-plugins-to-power-up-your-strapi-blog-16i7)
+- [Crazy Programmer] [Anders Hejlsberg Biography](https://www.thecrazyprogrammer.com/2022/08/anders-hejlsberg-biography.html)
 - [Dev.to/JS] [Node.js delete File example](https://dev.to/tienbku/nodejs-delete-file-example-4km4)
 - [Dev.to/JS] [How to test your own React Components library](https://dev.to/pavlov/how-to-test-your-own-react-components-library-3ob4)
 - [Dev.to/JS] [tsParticles 2.2.3 Released](https://dev.to/tsparticles/tsparticles-223-released-2bb1)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jump Game - I](https://dev.to/zeeshanali0704/jump-game--3lfe)
 - [Dev.to/JS] [Docker](https://dev.to/jimenezfede/docker-ekm)
 - [Dev.to/JS] [JavaScript : Array Literals](https://dev.to/deogadkarravina/javascript-array-literals-3991)
-- [Dev.to/JS] [How To Download Youtube Video Using jQuery](https://dev.to/techsolutionstuff/how-to-download-youtube-video-using-jquery-2n22)
-- [Dev.to/JS] [Fixing Keyboard Avoiding in React Native](https://dev.to/iway1/fixing-keyboard-avoiding-in-react-native-1k5i)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make a Daiquiri &lpar;or any Sour&rpar; Without Simple Syrup](https://lifehacker.com/you-can-make-a-daiquiri-or-any-sour-without-simple-sy-1849431540)
 - [Lifehacker] [What Is a Narcissistic Collapse?](https://lifehacker.com/what-is-a-narcissistic-collapse-1849430424)
 - [Lifehacker] [Is West Nile Virus Getting Bad Again?](https://lifehacker.com/is-west-nile-virus-getting-bad-again-1849430973)
-- [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)
-- [Lifehacker] [What’s the Most Basic Equipment You Need to Work Out at Home?](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Chemists Rinse Their Glassware Three Times &lpar;and Why You Should, Too&rpar;](https://lifehacker.com/why-chemists-rinse-their-glassware-three-times-and-why-1849430516)<!-- TECH-POSTS:END -->
 
 ---
 
