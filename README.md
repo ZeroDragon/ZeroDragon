@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [20 of the Most Beloved Types of Pizza From Across the US](https://lifehacker.com/20-of-the-most-beloved-types-of-pizza-from-across-the-u-1849441438)
+- [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)
+- [Dev.to/JS] [Magic of window.open in browsers](https://dev.to/urstrulyvishwak/magic-of-windowopen-in-browsers-3ioc)
 - [Dev.to/JS] [Flutter: Our Platform of Choice](https://dev.to/twinsun/flutter-our-platform-of-choice-37e3)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 15. How to Add and Revoke Public Keys](https://dev.to/onflow/build-on-flow-learn-fcl-15-how-to-add-and-revoke-public-keys-4k8c)
 - [Dev.to/JS] [What Should We Consider While Selecting A Low-Code App Platform?](https://dev.to/ashukalbande/what-should-we-consider-while-selecting-a-low-code-app-platform-323n)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner&#39;s Guide to Array Methods in JavaScript](https://dev.to/meganmoulos/beginners-guide-to-array-methods-in-javascript-25ph)
 - [Dev.to/JS] [Build on Flow | FCL in Russian Создаем на Flow | FCL на Русском языке](https://dev.to/egormajj/sozdaiem-na-flow-fcl-na-russkom-iazykie-lga)
 - [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
-- [Dev.to/JS] [Создаем на Flow | Изучение FCL 1 — Введение](https://dev.to/egormajj/sozdaiem-na-flow-izuchieniie-fcl-vviedieniie-436o)
 - [Lifehacker] [Two Ways to Read a Snapchat Without Sending a Read Receipt](https://lifehacker.com/two-ways-to-read-a-snapchat-without-sending-a-read-rece-1849440845)
 - [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)
 - [Lifehacker] [Everyday Activities That &#39;Count&#39; As Exercise](https://lifehacker.com/everyday-activities-that-count-as-exercise-1849440537)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Assess Your Home’s Risk From Climate Change](https://lifehacker.com/how-to-assess-your-home-s-risk-from-climate-change-1849428527)
 - [Lifehacker] [Do You Have Antisocial Personality Disorder?](https://lifehacker.com/do-you-have-antisocial-personality-disorder-1849434758)
 - [Lifehacker] [The Easiest Ways to Make Your Home More Wheelchair-Accessible](https://lifehacker.com/the-easiest-ways-to-make-your-home-more-wheelchair-acce-1849434466)
-- [Lifehacker] [11 of the Best Life Advice Podcasts to Answer All Your Tough Questions](https://lifehacker.com/11-of-the-best-life-advice-podcasts-to-answer-all-your-1849434919)
-- [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
-- [Lifehacker] [12 of Anne Heche’s Best Performances](https://lifehacker.com/12-of-anne-heche-s-best-performances-1849428022)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 of the Best Life Advice Podcasts to Answer All Your Tough Questions](https://lifehacker.com/11-of-the-best-life-advice-podcasts-to-answer-all-your-1849434919)<!-- TECH-POSTS:END -->
 
 ---
 
