@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
+- [Dev.to/JS] [Interviewing for a front-end internship - my experience](https://dev.to/fahadimran/interviewing-for-a-front-end-internship-my-experience-4hj0)
+- [Dev.to/JS] [Ng-News: Episode 22/33](https://dev.to/rainerhahnekamp/ng-news-episode-2233-h5d)
+- [Lifehacker] [These Foods Are Safe to Eat Well Past Their &#39;Expiration Dates&#39;](https://lifehacker.com/these-foods-are-safe-to-eat-well-past-their-expiration-1849446847)
+- [Dev.to/JS] [Resumability, WTF?](https://dev.to/this-is-learning/resumability-wtf-2gcm)
+- [Dev.to/JS] [Targeting CSS Shadow Parts via URL search params](https://dev.to/btopro/targetting-css-shadow-parts-via-url-search-parameters-2m9)
+- [Lifehacker] [These Ten U.S. Cities Are Safest From Natural Disasters](https://lifehacker.com/these-ten-u-s-cities-are-safest-from-natural-disasters-1849446131)
 - [Dev.to/JS] [How to send data from a child component to a parent component in react?](https://dev.to/jafetmeza/how-to-send-data-from-a-child-component-to-a-parent-component-in-react-23h)
 - [Lifehacker] [What Do I Need to Know About Monkeypox?](https://lifehacker.com/what-do-i-need-to-know-about-monkeypox-1849446836)
 - [Dev.to/JS] [React and Webpack with Phoenix 1.6](https://dev.to/taytestokes/react-and-webpack-with-phoenix-16-3le6)
@@ -35,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Stuffed Tomato Cups With Your Extra Tomatoes](https://lifehacker.com/make-stuffed-tomato-cups-with-your-extra-tomatoes-1849446081)
 - [Dev.to/JS] [Alternating Characters](https://dev.to/zeeshanali0704/alternating-characters-4774)
 - [Dev.to/JS] [useRef, how to make it dynamic?](https://dev.to/jafetmeza/useref-how-to-make-it-dynamic-18i6)
-- [Dev.to/JS] [2.7 - Building Design Systems with Backlight.dev](https://dev.to/codingcatdev/27-building-design-systems-with-backlightdev-nad)
-- [Dev.to/JS] [Who jumped into Svelte recently from other frameworks ?](https://dev.to/pulimoodan/who-jumped-into-svelte-recently-from-other-frameworks--4iha)
 - [Lifehacker] [23 of the Greatest College Movies of All Time](https://lifehacker.com/23-of-the-greatest-college-movies-of-all-time-1849440953)
-- [Dev.to/JS] [How to Create a Pop-Up Modal in React](https://dev.to/nicvazquez/how-to-create-a-pop-up-modal-in-react-j3f)
-- [Dev.to/JS] [Reverse - Vowels](https://dev.to/zeeshanali0704/reverse-vowels-1n0b)
 - [Lifehacker] [Your Mac Has Secret Reset ‘Buttons’](https://lifehacker.com/your-mac-has-secret-reset-buttons-1849445974)
 - [Lifehacker] [The Difference Between an Economic Recession and a Depression](https://lifehacker.com/the-difference-between-an-economic-recession-and-a-depr-1849445905)
 - [Lifehacker] [How to See Your Wifi Passwords on Mac and PC](https://lifehacker.com/how-to-see-your-wifi-passwords-on-mac-and-pc-1849445651)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Two Ways to Read a Snapchat Without Sending a Read Receipt](https://lifehacker.com/two-ways-to-read-a-snapchat-without-sending-a-read-rece-1849440845)
 - [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)
 - [Lifehacker] [Everyday Activities That &#39;Count&#39; As Exercise](https://lifehacker.com/everyday-activities-that-count-as-exercise-1849440537)
-- [Lifehacker] [Some of Those Google Ads Are Actually Hackers](https://lifehacker.com/some-of-those-google-ads-are-actually-hackers-1849440607)
-- [Lifehacker] [The 7 Deadly Sins of Getting Back in Shape](https://lifehacker.com/the-7-deadly-sins-of-getting-back-in-shape-1849436069)
-- [Lifehacker] [How to Not Spend a Fortune on School Supplies](https://lifehacker.com/how-to-not-spend-a-fortune-on-school-supplies-1849435835)
-- [Lifehacker] [How to Keep Your Nuts Fresh](https://lifehacker.com/how-to-keep-your-nuts-fresh-1849434560)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Some of Those Google Ads Are Actually Hackers](https://lifehacker.com/some-of-those-google-ads-are-actually-hackers-1849440607)<!-- TECH-POSTS:END -->
 
 ---
 
