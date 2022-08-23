@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploying Remix apps on Kubernetes](https://dev.to/brunoa19/deploying-remix-apps-on-kubernetes-2gd1)
+- [Lifehacker] [Your Mac Has Secret Reset ‘Buttons’](https://lifehacker.com/your-mac-has-secret-reset-buttons-1849445974)
+- [Dev.to/JS] [Roadmap to Master Web Development](https://dev.to/rohitmore07/roadmap-to-master-web-development-ko4)
+- [Lifehacker] [The Difference Between an Economic Recession and a Depression](https://lifehacker.com/the-difference-between-an-economic-recession-and-a-depr-1849445905)
+- [Dev.to/JS] [Create Simple No-Code App with Workflow Designer](https://dev.to/b4rtaz/create-simple-no-code-app-with-workflow-designer-jl1)
+- [Dev.to/JS] [Markdown Editor with JavaScript](https://dev.to/joelbonetr/markdown-editor-with-javascript-2jb7)
+- [Dev.to/JS] [Welcome to The Spicy Web YouTube Channel](https://dev.to/jaredcwhite/welcome-to-the-spicy-web-youtube-channel-3880)
+- [Dev.to/JS] [2.6 - Open Props - an Open Source CSS Props Library](https://dev.to/codercatdev/26-open-props-an-open-source-css-props-library-1nl9)
+- [Dev.to/JS] [2.5 - Scaling Transactional Data Globally with Fauna](https://dev.to/codercatdev/25-scaling-transactional-data-globally-with-fauna-dk3)
+- [Dev.to/JS] [2.4 - The Other Side of Tech: A Documentarian Perspective](https://dev.to/codingcatdev/the-other-side-of-tech-a-documentarian-perspective-37p1)
+- [Dev.to/JS] [0.9 - Fireship.io](https://dev.to/codingcatdev/09-fireshipio-1icm)
 - [Lifehacker] [How to See Your Wifi Passwords on Mac and PC](https://lifehacker.com/how-to-see-your-wifi-passwords-on-mac-and-pc-1849445651)
 - [Dev.to/JS] [Best 4 IDEs for Javascript to use in 2022: pros and cons](https://dev.to/justin_graysen/best-4-ides-for-javascript-to-use-in-2022-pros-and-cons-20d6)
 - [Dev.to/JS] [axios HTTP request](https://dev.to/yamenad4/axios-http-request-d3n)
 - [Lifehacker] [What&#39;s New on Hulu in September 2022](https://lifehacker.com/whats-new-on-hulu-in-september-2022-1849445727)
 - [Dev.to/JS] [How I built a simple healthcare Dapp using Solidity &amp; React](https://dev.to/jeffreythecoder/how-i-built-a-simple-healthcare-dapp-using-solidity-react-6o7)
-- [Dev.to/JS] [Adding Event Listeners and Understanding the DOM](https://dev.to/pjparham/adding-event-listeners-and-understanding-the-dom-2jeo)
-- [Dev.to/JS] [Fizz-Buzz](https://dev.to/zeeshanali0704/fizz-buzz-4481)
-- [Dev.to/JS] [Handling authentication in NextJS on Payload CMS](https://dev.to/payloadcms/handling-authentication-in-nextjs-on-payload-cms-4mep)
-- [Dev.to/JS] [The Ultimate Guide to JavaScript Localization](https://dev.to/georgek/the-ultimate-guide-to-javascript-localization-38pf)
-- [Dev.to/JS] [Lessons I learned as a Jest and React Testing Library beginner](https://dev.to/peterlidee/lessons-i-learned-as-a-jest-and-react-testing-library-beginner-1ek7)
-- [Dev.to/JS] [JavaScript GET Requests - Unlocking Using APIs](https://dev.to/loganlampton/javascript-get-requests-unlocking-using-apis-40d)
-- [Dev.to/JS] [How to Target and Style the Active Link in Next.Js &lpar;With Typescript&rpar;](https://dev.to/mayooear/how-to-target-and-style-the-active-link-in-nextjs-with-typescript-2hh0)
-- [Dev.to/JS] [Polyfills : Create Promise.five](https://dev.to/tusharshahi/polyfills-create-promisefive-mbh)
 - [Lifehacker] [How to Get ‘Status’ at a Hotel &lpar;and Use It at Other Chains&rpar;](https://lifehacker.com/how-to-get-status-at-a-hotel-and-use-it-at-other-cha-1849444833)
-- [Dev.to/JS] [UI5 Web Components &amp;&amp; SolidJS](https://dev.to/decker67/ui5-web-components-solidjs-1mpb)
 - [Lifehacker] [How to Cope With End-of-Summer Blues](https://lifehacker.com/how-to-cope-with-end-of-summer-blues-1849444331)
 - [Lifehacker] [Add Fresh Corn to Your Pancakes Before It&#39;s Too Late](https://lifehacker.com/add-fresh-corn-to-your-pancakes-before-its-too-late-1849443591)
 - [Lifehacker] [You Should Make This Protein-Packed Kai Yad Sai](https://lifehacker.com/you-should-make-this-protein-packed-kai-yad-sai-1849442771)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Anders Hejlsberg Biography](https://www.thecrazyprogrammer.com/2022/08/anders-hejlsberg-biography.html)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
-- [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
-- [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
-- [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)<!-- TECH-POSTS:END -->
 
 ---
 
