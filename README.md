@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#Bootstrap - list-style-image - hidden](https://dev.to/ajaxstardust/list-style-image-hidden-1m53)
+- [Dev.to/JS] [SASS IT! The Beginner&#39;s Guide to SASS](https://dev.to/codewithtee/sass-it-the-beginners-guide-to-sass-4k12)
+- [Dev.to/JS] [There and Back Again - An Ecommerce Tale](https://dev.to/ryanseanbadger/there-and-back-again-an-ecommerce-tale-585j)
 - [Dev.to/JS] [The empirical value of unit tests](https://dev.to/kedzierskidawid/the-empirical-value-of-unit-tests-1l30)
 - [Dev.to/JS] [Will Carbon Replace C++?](https://dev.to/ijsucceed/will-carbon-replace-c-3gj3)
 - [Dev.to/JS] [https://www.facebook.com/KetoSuperBurnReviewsOfficial/](https://dev.to/burnketosuper/httpswwwfacebookcomketosuperburnreviewsofficial-2jk9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Super Reduced String](https://dev.to/zeeshanali0704/super-reduced-string-1g32)
 - [Dev.to/JS] [Please give me some feedback about my npm package](https://dev.to/h_sifat/please-give-me-some-feedback-about-my-npm-package-3m5h)
 - [Dev.to/JS] [Blogpost What I learned during August 15-19 Week](https://dev.to/anamdiazs/blogpost-what-i-learned-during-august-15-19-week-25m)
-- [Dev.to/JS] [Highest Value Palindrome](https://dev.to/zeeshanali0704/highest-value-palindrome-47g4)
-- [Dev.to/JS] [Longest Palindrome](https://dev.to/zeeshanali0704/longest-palindrome-1f04)
-- [Dev.to/JS] [Check if Palindrome - String](https://dev.to/zeeshanali0704/check-if-palindrome-string-4418)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
