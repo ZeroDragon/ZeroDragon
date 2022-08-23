@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Highest Value Palindrome](https://dev.to/zeeshanali0704/highest-value-palindrome-47g4)
+- [Dev.to/JS] [Longest Palindrome](https://dev.to/zeeshanali0704/longest-palindrome-1f04)
+- [Dev.to/JS] [Check if Palindrome - String](https://dev.to/zeeshanali0704/check-if-palindrome-string-4418)
 - [Dev.to/JS] [My Web Dev Journey # 1](https://dev.to/jeffchavez_dev/my-web-dev-journey-1-1hjl)
 - [Dev.to/JS] [Admitting something Embarrassing](https://dev.to/jpucci26/admitting-something-embarrassing-4pgo)
 - [Dev.to/JS] [Beginning a new Journey](https://dev.to/jacksondynamics/beginning-a-new-journey-3p48)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advent of Code 2018 Day 2 Part 2 - Solution and Explanation](https://dev.to/benboorstein/advent-of-code-2018-day-2-part-2-solution-and-explanation-1j9e)
 - [Dev.to/JS] [How to Create a Multiple Files Uploader for Your PHP Application](https://dev.to/ideradevtools/how-to-create-a-multiple-files-uploader-for-your-php-application-3a05)
 - [Dev.to/JS] [10+ digital skills in 2022 to get you a job](https://dev.to/mojodev/10-digital-skills-in-2022-to-get-you-a-job-45f6)
-- [Dev.to/JS] [Caesar Cipher and JavaScript](https://dev.to/anasnmu/caesar-cipher-and-javascript-1kl1)
-- [Dev.to/JS] [How To Enhance JavaScript File Upload In Your Web App](https://dev.to/ideradevtools/how-to-enhance-javascript-file-upload-in-your-web-app-lon)
-- [Dev.to/JS] [How to learn ReactJS on a low spec PC](https://dev.to/shoa1bdev/how-to-learn-reactjs-on-a-low-spec-pc-3kii)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
