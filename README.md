@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript GET Requests - Unlocking Using APIs](https://dev.to/loganlampton/javascript-get-requests-unlocking-using-apis-40d)
+- [Dev.to/JS] [How to Target and Style the Active Link in Next.Js &lpar;With Typescript&rpar;](https://dev.to/mayooear/how-to-target-and-style-the-active-link-in-nextjs-with-typescript-2hh0)
+- [Dev.to/JS] [Polyfills : Create Promise.five](https://dev.to/tusharshahi/polyfills-create-promisefive-mbh)
+- [Lifehacker] [How to Get ‘Status’ at a Hotel &lpar;and Use It at Other Chains&rpar;](https://lifehacker.com/how-to-get-status-at-a-hotel-and-use-it-at-other-cha-1849444833)
+- [Dev.to/JS] [UI5 Web Components &amp;&amp; SolidJS](https://dev.to/decker67/ui5-web-components-solidjs-1mpb)
 - [Lifehacker] [How to Cope With End-of-Summer Blues](https://lifehacker.com/how-to-cope-with-end-of-summer-blues-1849444331)
 - [Dev.to/JS] [Typescript Series - Array Concat Type](https://dev.to/sarmunbustillo/typescript-series-array-concat-type-4j22)
 - [Dev.to/JS] [How to Create a Custom Source for File Upload With Angular](https://dev.to/ideradevtools/how-to-create-a-custom-source-for-file-upload-with-angular-3ebf)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [REACT HOOKS - useMemo&lpar;&rpar;](https://dev.to/kirtymeena/react-hooks-usememo-37pn)
 - [Dev.to/JS] [Hire React JS developers](https://dev.to/jwilsonsrk/hire-react-js-developers-3ldp)
 - [Dev.to/JS] [Responsive E-Book Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-e-book-website-using-html-css-javascript-5aj3)
-- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 11: Bytecode Dispatch](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-11-bytecode-dispatch-2jga)
-- [Dev.to/JS] [Hard limits of low-code/no-code and what is an alternative solution. The Flatlogic thesis](https://dev.to/flatlogic/hard-limits-of-low-codeno-code-and-what-is-an-alternative-solution-the-flatlogic-thesis-1fff)
-- [Dev.to/JS] [The Array Way to Swap Variable - js,py and etc. i think.](https://dev.to/mmvergara/the-array-way-to-swap-variable-jspy-and-etc-i-think-4m6m)
-- [Dev.to/JS] [Rapidly create reusable React components.](https://dev.to/aron/rapidly-create-reusable-react-components-59fd)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
-- [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
-- [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)<!-- TECH-POSTS:END -->
 
 ---
 
