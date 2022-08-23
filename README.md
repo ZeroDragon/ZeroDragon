@@ -23,22 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to See Your Wifi Passwords on Mac and PC](https://lifehacker.com/how-to-see-your-wifi-passwords-on-mac-and-pc-1849445651)
+- [Dev.to/JS] [Best 4 IDEs for Javascript to use in 2022: pros and cons](https://dev.to/justin_graysen/best-4-ides-for-javascript-to-use-in-2022-pros-and-cons-20d6)
+- [Dev.to/JS] [axios HTTP request](https://dev.to/yamenad4/axios-http-request-d3n)
+- [Lifehacker] [What&#39;s New on Hulu in September 2022](https://lifehacker.com/whats-new-on-hulu-in-september-2022-1849445727)
+- [Dev.to/JS] [How I built a simple healthcare Dapp using Solidity &amp; React](https://dev.to/jeffreythecoder/how-i-built-a-simple-healthcare-dapp-using-solidity-react-6o7)
+- [Dev.to/JS] [Adding Event Listeners and Understanding the DOM](https://dev.to/pjparham/adding-event-listeners-and-understanding-the-dom-2jeo)
+- [Dev.to/JS] [Fizz-Buzz](https://dev.to/zeeshanali0704/fizz-buzz-4481)
+- [Dev.to/JS] [Handling authentication in NextJS on Payload CMS](https://dev.to/payloadcms/handling-authentication-in-nextjs-on-payload-cms-4mep)
+- [Dev.to/JS] [The Ultimate Guide to JavaScript Localization](https://dev.to/georgek/the-ultimate-guide-to-javascript-localization-38pf)
+- [Dev.to/JS] [Lessons I learned as a Jest and React Testing Library beginner](https://dev.to/peterlidee/lessons-i-learned-as-a-jest-and-react-testing-library-beginner-1ek7)
 - [Dev.to/JS] [JavaScript GET Requests - Unlocking Using APIs](https://dev.to/loganlampton/javascript-get-requests-unlocking-using-apis-40d)
 - [Dev.to/JS] [How to Target and Style the Active Link in Next.Js &lpar;With Typescript&rpar;](https://dev.to/mayooear/how-to-target-and-style-the-active-link-in-nextjs-with-typescript-2hh0)
 - [Dev.to/JS] [Polyfills : Create Promise.five](https://dev.to/tusharshahi/polyfills-create-promisefive-mbh)
 - [Lifehacker] [How to Get ‘Status’ at a Hotel &lpar;and Use It at Other Chains&rpar;](https://lifehacker.com/how-to-get-status-at-a-hotel-and-use-it-at-other-cha-1849444833)
 - [Dev.to/JS] [UI5 Web Components &amp;&amp; SolidJS](https://dev.to/decker67/ui5-web-components-solidjs-1mpb)
 - [Lifehacker] [How to Cope With End-of-Summer Blues](https://lifehacker.com/how-to-cope-with-end-of-summer-blues-1849444331)
-- [Dev.to/JS] [Typescript Series - Array Concat Type](https://dev.to/sarmunbustillo/typescript-series-array-concat-type-4j22)
-- [Dev.to/JS] [How to Create a Custom Source for File Upload With Angular](https://dev.to/ideradevtools/how-to-create-a-custom-source-for-file-upload-with-angular-3ebf)
 - [Lifehacker] [Add Fresh Corn to Your Pancakes Before It&#39;s Too Late](https://lifehacker.com/add-fresh-corn-to-your-pancakes-before-its-too-late-1849443591)
-- [Dev.to/JS] [Updating your SvelteKit &amp; Storyblok project &lpar;after the latest changes&rpar;](https://dev.to/storyblok/updating-your-sveltekit-storyblok-project-after-the-latest-changes-3818)
 - [Lifehacker] [You Should Make This Protein-Packed Kai Yad Sai](https://lifehacker.com/you-should-make-this-protein-packed-kai-yad-sai-1849442771)
-- [Dev.to/JS] [How Could Jamstack Hold the Key to Core Web Vitals?](https://dev.to/tezjs/how-could-jamstack-hold-the-key-to-core-web-vitals-743)
-- [Dev.to/JS] [Array Method in JS - shift and unshift](https://dev.to/shubhamtiwari909/array-method-in-js-shift-and-unshift-48bn)
-- [Dev.to/JS] [REACT HOOKS - useMemo&lpar;&rpar;](https://dev.to/kirtymeena/react-hooks-usememo-37pn)
-- [Dev.to/JS] [Hire React JS developers](https://dev.to/jwilsonsrk/hire-react-js-developers-3ldp)
-- [Dev.to/JS] [Responsive E-Book Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-e-book-website-using-html-css-javascript-5aj3)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
 - [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)
 - [Crazy Programmer] [Pass Object As Function Arguments in C++](https://www.thecrazyprogrammer.com/2022/08/object-as-function-arguments-in-c.html)
-- [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
-- [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
-- [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)<!-- TECH-POSTS:END -->
 
 ---
 
