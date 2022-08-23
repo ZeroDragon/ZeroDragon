@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamic Multi-step Forms with Formik](https://dev.to/asayerio_techblog/dynamic-multi-step-forms-with-formik-1pg7)
 - [Dev.to/JS] [I have an error when I want to save to the redux state. A non-serializable value.](https://dev.to/ivkemilioner/i-have-an-error-when-i-want-to-save-to-the-redux-state-a-non-serializable-value-4dli)
 - [Dev.to/JS] [Advent of Code 2018 Day 2 Part 2 - Solution and Explanation](https://dev.to/benboorstein/advent-of-code-2018-day-2-part-2-solution-and-explanation-1j9e)
 - [Dev.to/JS] [How to Create a Multiple Files Uploader for Your PHP Application](https://dev.to/ideradevtools/how-to-create-a-multiple-files-uploader-for-your-php-application-3a05)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of the Most Beloved Types of Pizza From Across the US](https://lifehacker.com/20-of-the-most-beloved-types-of-pizza-from-across-the-u-1849441438)
 - [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)
 - [Dev.to/JS] [Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 2](https://dev.to/ranjan/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-2-f48)
-- [Dev.to/JS] [Magic of window.open in browsers](https://dev.to/urstrulyvishwak/magic-of-windowopen-in-browsers-3ioc)
 - [Lifehacker] [Five Things Holding You Back From Becoming a Better Home Chef](https://lifehacker.com/five-things-holding-you-back-from-becoming-a-better-hom-1849441599)
 - [Lifehacker] [You Don&#39;t Need a Lemon to Clean Your Microwave](https://lifehacker.com/you-dont-need-a-lemon-to-clean-your-microwave-1849441501)
 - [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
