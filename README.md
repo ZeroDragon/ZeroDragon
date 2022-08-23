@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The empirical value of unit tests](https://dev.to/kedzierskidawid/the-empirical-value-of-unit-tests-1l30)
+- [Dev.to/JS] [Will Carbon Replace C++?](https://dev.to/ijsucceed/will-carbon-replace-c-3gj3)
+- [Dev.to/JS] [https://www.facebook.com/KetoSuperBurnReviewsOfficial/](https://dev.to/burnketosuper/httpswwwfacebookcomketosuperburnreviewsofficial-2jk9)
 - [Dev.to/JS] [Browser extensions - Hooking into installs](https://dev.to/dailydevtips1/browser-extensions-hooking-into-installs-125i)
 - [Dev.to/JS] [An Introduction to Google&#39;s Alloy Database](https://dev.to/quokkalabs/an-introduction-to-googles-alloy-database-2k09)
 - [Dev.to/JS] [Arrays in JavaScript](https://dev.to/hermitex/arrays-in-javascript-5gpb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Highest Value Palindrome](https://dev.to/zeeshanali0704/highest-value-palindrome-47g4)
 - [Dev.to/JS] [Longest Palindrome](https://dev.to/zeeshanali0704/longest-palindrome-1f04)
 - [Dev.to/JS] [Check if Palindrome - String](https://dev.to/zeeshanali0704/check-if-palindrome-string-4418)
-- [Dev.to/JS] [My Web Dev Journey # 1](https://dev.to/jeffchavez_dev/my-web-dev-journey-1-1hjl)
-- [Dev.to/JS] [Admitting something Embarrassing](https://dev.to/jpucci26/admitting-something-embarrassing-4pgo)
-- [Dev.to/JS] [Beginning a new Journey](https://dev.to/jacksondynamics/beginning-a-new-journey-3p48)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
