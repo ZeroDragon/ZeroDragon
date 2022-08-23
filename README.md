@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Web Dev Journey # 1](https://dev.to/jeffchavez_dev/my-web-dev-journey-1-1hjl)
+- [Dev.to/JS] [Admitting something Embarrassing](https://dev.to/jpucci26/admitting-something-embarrassing-4pgo)
+- [Dev.to/JS] [Beginning a new Journey](https://dev.to/jacksondynamics/beginning-a-new-journey-3p48)
+- [Dev.to/JS] [learning the basics of DEV](https://dev.to/jpucci26/learning-the-basics-of-dev-3gcb)
 - [Dev.to/JS] [Dynamic Multi-step Forms with Formik](https://dev.to/asayerio_techblog/dynamic-multi-step-forms-with-formik-1pg7)
 - [Dev.to/JS] [I have an error when I want to save to the redux state. A non-serializable value.](https://dev.to/ivkemilioner/i-have-an-error-when-i-want-to-save-to-the-redux-state-a-non-serializable-value-4dli)
 - [Dev.to/JS] [Advent of Code 2018 Day 2 Part 2 - Solution and Explanation](https://dev.to/benboorstein/advent-of-code-2018-day-2-part-2-solution-and-explanation-1j9e)
@@ -33,13 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to learn ReactJS on a low spec PC](https://dev.to/shoa1bdev/how-to-learn-reactjs-on-a-low-spec-pc-3kii)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
-- [Dev.to/JS] [How To Implement Custom Error Responses in Express](https://dev.to/robertinoc_dev/how-to-implement-custom-error-responses-in-express-38p4)
-- [Dev.to/JS] [Loading Modal in React Native with Activity Indicator](https://dev.to/suyashvash/loading-modal-in-react-native-with-activity-indicator-23ka)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
-- [Dev.to/JS] [Top 12 Javascript books to read in 2022](https://dev.to/justin_graysen/top-12-javascript-books-to-read-in-2022-3ii5)
 - [Lifehacker] [20 of the Most Beloved Types of Pizza From Across the US](https://lifehacker.com/20-of-the-most-beloved-types-of-pizza-from-across-the-u-1849441438)
 - [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)
-- [Dev.to/JS] [Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 2](https://dev.to/ranjan/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-2-f48)
 - [Lifehacker] [Five Things Holding You Back From Becoming a Better Home Chef](https://lifehacker.com/five-things-holding-you-back-from-becoming-a-better-hom-1849441599)
 - [Lifehacker] [You Don&#39;t Need a Lemon to Clean Your Microwave](https://lifehacker.com/you-dont-need-a-lemon-to-clean-your-microwave-1849441501)
 - [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
