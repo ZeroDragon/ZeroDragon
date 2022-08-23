@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Cope With End-of-Summer Blues](https://lifehacker.com/how-to-cope-with-end-of-summer-blues-1849444331)
+- [Dev.to/JS] [Typescript Series - Array Concat Type](https://dev.to/sarmunbustillo/typescript-series-array-concat-type-4j22)
+- [Dev.to/JS] [How to Create a Custom Source for File Upload With Angular](https://dev.to/ideradevtools/how-to-create-a-custom-source-for-file-upload-with-angular-3ebf)
+- [Lifehacker] [Add Fresh Corn to Your Pancakes Before It&#39;s Too Late](https://lifehacker.com/add-fresh-corn-to-your-pancakes-before-its-too-late-1849443591)
+- [Dev.to/JS] [Updating your SvelteKit &amp; Storyblok project &lpar;after the latest changes&rpar;](https://dev.to/storyblok/updating-your-sveltekit-storyblok-project-after-the-latest-changes-3818)
 - [Lifehacker] [You Should Make This Protein-Packed Kai Yad Sai](https://lifehacker.com/you-should-make-this-protein-packed-kai-yad-sai-1849442771)
 - [Dev.to/JS] [How Could Jamstack Hold the Key to Core Web Vitals?](https://dev.to/tezjs/how-could-jamstack-hold-the-key-to-core-web-vitals-743)
 - [Dev.to/JS] [Array Method in JS - shift and unshift](https://dev.to/shubhamtiwari909/array-method-in-js-shift-and-unshift-48bn)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hard limits of low-code/no-code and what is an alternative solution. The Flatlogic thesis](https://dev.to/flatlogic/hard-limits-of-low-codeno-code-and-what-is-an-alternative-solution-the-flatlogic-thesis-1fff)
 - [Dev.to/JS] [The Array Way to Swap Variable - js,py and etc. i think.](https://dev.to/mmvergara/the-array-way-to-swap-variable-jspy-and-etc-i-think-4m6m)
 - [Dev.to/JS] [Rapidly create reusable React components.](https://dev.to/aron/rapidly-create-reusable-react-components-59fd)
-- [Dev.to/JS] [Building multi-architecture Docker images](https://dev.to/cvitaa11/building-multi-architecture-docker-images-2e9k)
-- [Dev.to/JS] [How To Create An Accordion Using HTML And CSS](https://dev.to/elinabey/how-to-create-an-accordion-using-html-and-css-2nn7)
-- [Dev.to/JS] [Launching Crawlee, the web scraping and browser automation library for Node.js](https://dev.to/mnmkng/launching-crawlee-the-web-scraping-and-browser-automation-library-for-nodejs-e1o)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is When It’s Supposed to Get Cold This Fall &lpar;It’s Earlier Than You Think&rpar;](https://lifehacker.com/this-is-when-it-s-supposed-to-get-cold-this-fall-it-s-1849429647)
 - [Lifehacker] [You&#39;re Probably Vacuuming Way Too Fast](https://lifehacker.com/youre-probably-vacuuming-way-too-fast-1849429518)
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
-- [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
-- [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
-- [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)<!-- TECH-POSTS:END -->
 
 ---
 
