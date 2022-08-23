@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive E-Book Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-e-book-website-using-html-css-javascript-5aj3)
+- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 11: Bytecode Dispatch](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-11-bytecode-dispatch-2jga)
+- [Dev.to/JS] [Hard limits of low-code/no-code and what is an alternative solution. The Flatlogic thesis](https://dev.to/flatlogic/hard-limits-of-low-codeno-code-and-what-is-an-alternative-solution-the-flatlogic-thesis-1fff)
+- [Dev.to/JS] [The Array Way to Swap Variable - js,py and etc. i think.](https://dev.to/mmvergara/the-array-way-to-swap-variable-jspy-and-etc-i-think-4m6m)
+- [Dev.to/JS] [Rapidly create reusable React components.](https://dev.to/aron/rapidly-create-reusable-react-components-59fd)
 - [Dev.to/JS] [Building multi-architecture Docker images](https://dev.to/cvitaa11/building-multi-architecture-docker-images-2e9k)
 - [Dev.to/JS] [How To Create An Accordion Using HTML And CSS](https://dev.to/elinabey/how-to-create-an-accordion-using-html-and-css-2nn7)
 - [Dev.to/JS] [Launching Crawlee, the web scraping and browser automation library for Node.js](https://dev.to/mnmkng/launching-crawlee-the-web-scraping-and-browser-automation-library-for-nodejs-e1o)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Tagalog - String trimEnd Method](https://dev.to/mmvergara/javascript-tagalog-string-trimend-method-bln)
 - [Dev.to/JS] [Javascript Tagalog - String trim Method](https://dev.to/mmvergara/javascript-tagalog-string-trim-method-pe)
 - [Dev.to/JS] [Binary Search](https://dev.to/niemet0502/binary-search-2b9)
-- [Dev.to/JS] [All in favor of Typescript ?](https://dev.to/abhay07/all-in-favor-of-typescript--ha3)
-- [Dev.to/JS] [Releasing complete React course from Basic to Advanced for free on Youtube.](https://dev.to/ministryofjavascript/releasing-complete-react-course-from-basic-to-advanced-for-free-on-youtube-4mf)
-- [Dev.to/JS] [Managing Google Drive with Google Apps Script](https://dev.to/kcl/managing-google-drive-with-google-apps-script-4h6i)
-- [Dev.to/JS] [Top 20 Best React Website Templates for React Developers [Free and Premium]](https://dev.to/flatlogic/top-20-best-react-website-templates-for-react-developers-free-and-premium-3ohf)
-- [Dev.to/JS] [#Bootstrap - list-style-image - hidden](https://dev.to/ajaxstardust/list-style-image-hidden-1m53)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
