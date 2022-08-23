@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building multi-architecture Docker images](https://dev.to/cvitaa11/building-multi-architecture-docker-images-2e9k)
+- [Dev.to/JS] [How To Create An Accordion Using HTML And CSS](https://dev.to/elinabey/how-to-create-an-accordion-using-html-and-css-2nn7)
+- [Dev.to/JS] [Launching Crawlee, the web scraping and browser automation library for Node.js](https://dev.to/mnmkng/launching-crawlee-the-web-scraping-and-browser-automation-library-for-nodejs-e1o)
 - [Dev.to/JS] [Javascript Tagalog - String trimStart Method](https://dev.to/mmvergara/javascript-tagalog-string-trimstart-method-272f)
 - [Dev.to/JS] [Javascript Tagalog - String trimEnd Method](https://dev.to/mmvergara/javascript-tagalog-string-trimend-method-bln)
 - [Dev.to/JS] [Javascript Tagalog - String trim Method](https://dev.to/mmvergara/javascript-tagalog-string-trim-method-pe)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Managing Google Drive with Google Apps Script](https://dev.to/kcl/managing-google-drive-with-google-apps-script-4h6i)
 - [Dev.to/JS] [Top 20 Best React Website Templates for React Developers [Free and Premium]](https://dev.to/flatlogic/top-20-best-react-website-templates-for-react-developers-free-and-premium-3ohf)
 - [Dev.to/JS] [#Bootstrap - list-style-image - hidden](https://dev.to/ajaxstardust/list-style-image-hidden-1m53)
-- [Dev.to/JS] [SASS IT! The Beginner&#39;s Guide to SASS](https://dev.to/codewithtee/sass-it-the-beginners-guide-to-sass-4k12)
-- [Dev.to/JS] [There and Back Again - An Ecommerce Tale](https://dev.to/ryanseanbadger/there-and-back-again-an-ecommerce-tale-585j)
-- [Dev.to/JS] [The empirical value of unit tests](https://dev.to/kedzierskidawid/the-empirical-value-of-unit-tests-1l30)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
