@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Whitening &#39;Hacks&#39; You Shouldn&#39;t Do](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
+- [Dev.to/JS] [Vue.js Computed Properties in Depth](https://dev.to/xinnks/vuejs-computed-properties-in-depth-hbc)
+- [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
 - [Dev.to/JS] [Interviewing for a front-end internship - my experience](https://dev.to/fahadimran/interviewing-for-a-front-end-internship-my-experience-4hj0)
 - [Dev.to/JS] [Ng-News: Episode 22/33](https://dev.to/rainerhahnekamp/ng-news-episode-2233-h5d)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Web Dev Journey Begins...](https://dev.to/imfaithdevs/my-web-dev-journey-begins-422b)
 - [Lifehacker] [Make Stuffed Tomato Cups With Your Extra Tomatoes](https://lifehacker.com/make-stuffed-tomato-cups-with-your-extra-tomatoes-1849446081)
 - [Dev.to/JS] [Alternating Characters](https://dev.to/zeeshanali0704/alternating-characters-4774)
-- [Dev.to/JS] [useRef, how to make it dynamic?](https://dev.to/jafetmeza/useref-how-to-make-it-dynamic-18i6)
 - [Lifehacker] [23 of the Greatest College Movies of All Time](https://lifehacker.com/23-of-the-greatest-college-movies-of-all-time-1849440953)
 - [Lifehacker] [Your Mac Has Secret Reset ‘Buttons’](https://lifehacker.com/your-mac-has-secret-reset-buttons-1849445974)
 - [Lifehacker] [The Difference Between an Economic Recession and a Depression](https://lifehacker.com/the-difference-between-an-economic-recession-and-a-depr-1849445905)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Need a Lemon to Clean Your Microwave](https://lifehacker.com/you-dont-need-a-lemon-to-clean-your-microwave-1849441501)
 - [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
 - [Lifehacker] [Two Ways to Read a Snapchat Without Sending a Read Receipt](https://lifehacker.com/two-ways-to-read-a-snapchat-without-sending-a-read-rece-1849440845)
-- [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)
-- [Lifehacker] [Everyday Activities That &#39;Count&#39; As Exercise](https://lifehacker.com/everyday-activities-that-count-as-exercise-1849440537)
-- [Lifehacker] [Some of Those Google Ads Are Actually Hackers](https://lifehacker.com/some-of-those-google-ads-are-actually-hackers-1849440607)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)<!-- TECH-POSTS:END -->
 
 ---
 
