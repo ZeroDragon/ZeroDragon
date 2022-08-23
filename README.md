@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Make This Protein-Packed Kai Yad Sai](https://lifehacker.com/you-should-make-this-protein-packed-kai-yad-sai-1849442771)
+- [Dev.to/JS] [How Could Jamstack Hold the Key to Core Web Vitals?](https://dev.to/tezjs/how-could-jamstack-hold-the-key-to-core-web-vitals-743)
+- [Dev.to/JS] [Array Method in JS - shift and unshift](https://dev.to/shubhamtiwari909/array-method-in-js-shift-and-unshift-48bn)
+- [Dev.to/JS] [REACT HOOKS - useMemo&lpar;&rpar;](https://dev.to/kirtymeena/react-hooks-usememo-37pn)
+- [Dev.to/JS] [Hire React JS developers](https://dev.to/jwilsonsrk/hire-react-js-developers-3ldp)
 - [Dev.to/JS] [Responsive E-Book Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-e-book-website-using-html-css-javascript-5aj3)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 11: Bytecode Dispatch](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-11-bytecode-dispatch-2jga)
 - [Dev.to/JS] [Hard limits of low-code/no-code and what is an alternative solution. The Flatlogic thesis](https://dev.to/flatlogic/hard-limits-of-low-codeno-code-and-what-is-an-alternative-solution-the-flatlogic-thesis-1fff)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building multi-architecture Docker images](https://dev.to/cvitaa11/building-multi-architecture-docker-images-2e9k)
 - [Dev.to/JS] [How To Create An Accordion Using HTML And CSS](https://dev.to/elinabey/how-to-create-an-accordion-using-html-and-css-2nn7)
 - [Dev.to/JS] [Launching Crawlee, the web scraping and browser automation library for Node.js](https://dev.to/mnmkng/launching-crawlee-the-web-scraping-and-browser-automation-library-for-nodejs-e1o)
-- [Dev.to/JS] [Javascript Tagalog - String trimStart Method](https://dev.to/mmvergara/javascript-tagalog-string-trimstart-method-272f)
-- [Dev.to/JS] [Javascript Tagalog - String trimEnd Method](https://dev.to/mmvergara/javascript-tagalog-string-trimend-method-bln)
-- [Dev.to/JS] [Javascript Tagalog - String trim Method](https://dev.to/mmvergara/javascript-tagalog-string-trim-method-pe)
-- [Dev.to/JS] [Binary Search](https://dev.to/niemet0502/binary-search-2b9)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Stink Bugs Out of Your Home This Fall](https://lifehacker.com/how-to-keep-stink-bugs-out-of-your-home-this-fall-1849429731)
 - [Lifehacker] [Why You Should Take Pictures of Your Physical Media Collection](https://lifehacker.com/why-you-should-take-pictures-of-your-physical-media-col-1849435922)
 - [Lifehacker] [How to Legally Ensure You Get Your Security Deposit Back](https://lifehacker.com/how-to-legally-ensure-you-get-your-security-deposit-bac-1849435017)
-- [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)
-- [Lifehacker] [How to Assess Your Home’s Risk From Climate Change](https://lifehacker.com/how-to-assess-your-home-s-risk-from-climate-change-1849428527)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Free Utility Makes Your Ancient MacBook Battery Last Longer](https://lifehacker.com/this-free-utility-makes-your-ancient-macbook-battery-la-1849434686)<!-- TECH-POSTS:END -->
 
 ---
 
