@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to send data from a child component to a parent component in react?](https://dev.to/jafetmeza/how-to-send-data-from-a-child-component-to-a-parent-component-in-react-23h)
+- [Lifehacker] [What Do I Need to Know About Monkeypox?](https://lifehacker.com/what-do-i-need-to-know-about-monkeypox-1849446836)
+- [Dev.to/JS] [React and Webpack with Phoenix 1.6](https://dev.to/taytestokes/react-and-webpack-with-phoenix-16-3le6)
 - [Lifehacker] [How to Use a Squat Rack Without Hurting Yourself](https://lifehacker.com/how-to-use-a-squat-rack-without-hurting-yourself-1849446997)
 - [Dev.to/JS] [Brief explanation about let, const and var](https://dev.to/viviurbano/brief-explanation-about-let-const-and-var-4adh)
 - [Dev.to/JS] [Two Sum - I](https://dev.to/zeeshanali0704/two-sum-i-57mb)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [23 of the Greatest College Movies of All Time](https://lifehacker.com/23-of-the-greatest-college-movies-of-all-time-1849440953)
 - [Dev.to/JS] [How to Create a Pop-Up Modal in React](https://dev.to/nicvazquez/how-to-create-a-pop-up-modal-in-react-j3f)
 - [Dev.to/JS] [Reverse - Vowels](https://dev.to/zeeshanali0704/reverse-vowels-1n0b)
-- [Dev.to/JS] [Keyboard Row -](https://dev.to/zeeshanali0704/keyboard-row--4njg)
-- [Dev.to/JS] [Deploying Remix apps on Kubernetes](https://dev.to/brunoa19/deploying-remix-apps-on-kubernetes-2gd1)
 - [Lifehacker] [Your Mac Has Secret Reset ‘Buttons’](https://lifehacker.com/your-mac-has-secret-reset-buttons-1849445974)
 - [Lifehacker] [The Difference Between an Economic Recession and a Depression](https://lifehacker.com/the-difference-between-an-economic-recession-and-a-depr-1849445905)
 - [Lifehacker] [How to See Your Wifi Passwords on Mac and PC](https://lifehacker.com/how-to-see-your-wifi-passwords-on-mac-and-pc-1849445651)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Some of Those Google Ads Are Actually Hackers](https://lifehacker.com/some-of-those-google-ads-are-actually-hackers-1849440607)
 - [Lifehacker] [The 7 Deadly Sins of Getting Back in Shape](https://lifehacker.com/the-7-deadly-sins-of-getting-back-in-shape-1849436069)
 - [Lifehacker] [How to Not Spend a Fortune on School Supplies](https://lifehacker.com/how-to-not-spend-a-fortune-on-school-supplies-1849435835)
-- [Lifehacker] [How to Keep Your Nuts Fresh](https://lifehacker.com/how-to-keep-your-nuts-fresh-1849434560)
-- [Lifehacker] [23 Hot Dogs From Around the World That You Need to Try](https://lifehacker.com/23-hot-dogs-from-around-the-world-that-you-need-to-try-1849434231)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Keep Your Nuts Fresh](https://lifehacker.com/how-to-keep-your-nuts-fresh-1849434560)<!-- TECH-POSTS:END -->
 
 ---
 
