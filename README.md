@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use a Squat Rack Without Hurting Yourself](https://lifehacker.com/how-to-use-a-squat-rack-without-hurting-yourself-1849446997)
+- [Dev.to/JS] [Brief explanation about let, const and var](https://dev.to/viviurbano/brief-explanation-about-let-const-and-var-4adh)
+- [Dev.to/JS] [Two Sum - I](https://dev.to/zeeshanali0704/two-sum-i-57mb)
+- [Dev.to/JS] [Understanding Slice Method In Javascript](https://dev.to/swasdev4511/understanding-slice-method-in-javascript-24di)
+- [Lifehacker] [This Is the Easiest Way to Fix a Runny Pan Sauce](https://lifehacker.com/this-is-the-easiest-way-to-fix-a-runny-pan-sauce-1849446978)
+- [Dev.to/JS] [My Web Dev Journey Begins...](https://dev.to/imfaithdevs/my-web-dev-journey-begins-422b)
+- [Lifehacker] [Make Stuffed Tomato Cups With Your Extra Tomatoes](https://lifehacker.com/make-stuffed-tomato-cups-with-your-extra-tomatoes-1849446081)
 - [Dev.to/JS] [Alternating Characters](https://dev.to/zeeshanali0704/alternating-characters-4774)
 - [Dev.to/JS] [useRef, how to make it dynamic?](https://dev.to/jafetmeza/useref-how-to-make-it-dynamic-18i6)
 - [Dev.to/JS] [2.7 - Building Design Systems with Backlight.dev](https://dev.to/codingcatdev/27-building-design-systems-with-backlightdev-nad)
@@ -33,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Keyboard Row -](https://dev.to/zeeshanali0704/keyboard-row--4njg)
 - [Dev.to/JS] [Deploying Remix apps on Kubernetes](https://dev.to/brunoa19/deploying-remix-apps-on-kubernetes-2gd1)
 - [Lifehacker] [Your Mac Has Secret Reset ‘Buttons’](https://lifehacker.com/your-mac-has-secret-reset-buttons-1849445974)
-- [Dev.to/JS] [Roadmap to Master Web Development](https://dev.to/rohitmore07/roadmap-to-master-web-development-ko4)
 - [Lifehacker] [The Difference Between an Economic Recession and a Depression](https://lifehacker.com/the-difference-between-an-economic-recession-and-a-depr-1849445905)
-- [Dev.to/JS] [Create Simple No-Code App with Workflow Designer](https://dev.to/b4rtaz/create-simple-no-code-app-with-workflow-designer-jl1)
-- [Dev.to/JS] [Markdown Editor with JavaScript](https://dev.to/joelbonetr/markdown-editor-with-javascript-2jb7)
-- [Dev.to/JS] [Welcome to The Spicy Web YouTube Channel](https://dev.to/jaredcwhite/welcome-to-the-spicy-web-youtube-channel-3880)
 - [Lifehacker] [How to See Your Wifi Passwords on Mac and PC](https://lifehacker.com/how-to-see-your-wifi-passwords-on-mac-and-pc-1849445651)
 - [Lifehacker] [What&#39;s New on Hulu in September 2022](https://lifehacker.com/whats-new-on-hulu-in-september-2022-1849445727)
 - [Lifehacker] [How to Get ‘Status’ at a Hotel &lpar;and Use It at Other Chains&rpar;](https://lifehacker.com/how-to-get-status-at-a-hotel-and-use-it-at-other-cha-1849444833)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Getting Back in Shape](https://lifehacker.com/the-7-deadly-sins-of-getting-back-in-shape-1849436069)
 - [Lifehacker] [How to Not Spend a Fortune on School Supplies](https://lifehacker.com/how-to-not-spend-a-fortune-on-school-supplies-1849435835)
 - [Lifehacker] [How to Keep Your Nuts Fresh](https://lifehacker.com/how-to-keep-your-nuts-fresh-1849434560)
-- [Lifehacker] [23 Hot Dogs From Around the World That You Need to Try](https://lifehacker.com/23-hot-dogs-from-around-the-world-that-you-need-to-try-1849434231)
-- [Crazy Programmer] [Anders Hejlsberg Biography](https://www.thecrazyprogrammer.com/2022/08/anders-hejlsberg-biography.html)
-- [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
-- [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)<!-- TECH-POSTS:END -->
+- [Lifehacker] [23 Hot Dogs From Around the World That You Need to Try](https://lifehacker.com/23-hot-dogs-from-around-the-world-that-you-need-to-try-1849434231)<!-- TECH-POSTS:END -->
 
 ---
 
