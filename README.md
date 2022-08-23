@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alternating Characters](https://dev.to/zeeshanali0704/alternating-characters-4774)
+- [Dev.to/JS] [useRef, how to make it dynamic?](https://dev.to/jafetmeza/useref-how-to-make-it-dynamic-18i6)
+- [Dev.to/JS] [2.7 - Building Design Systems with Backlight.dev](https://dev.to/codingcatdev/27-building-design-systems-with-backlightdev-nad)
+- [Dev.to/JS] [Who jumped into Svelte recently from other frameworks ?](https://dev.to/pulimoodan/who-jumped-into-svelte-recently-from-other-frameworks--4iha)
+- [Lifehacker] [23 of the Greatest College Movies of All Time](https://lifehacker.com/23-of-the-greatest-college-movies-of-all-time-1849440953)
+- [Dev.to/JS] [How to Create a Pop-Up Modal in React](https://dev.to/nicvazquez/how-to-create-a-pop-up-modal-in-react-j3f)
+- [Dev.to/JS] [Reverse - Vowels](https://dev.to/zeeshanali0704/reverse-vowels-1n0b)
+- [Dev.to/JS] [Keyboard Row -](https://dev.to/zeeshanali0704/keyboard-row--4njg)
 - [Dev.to/JS] [Deploying Remix apps on Kubernetes](https://dev.to/brunoa19/deploying-remix-apps-on-kubernetes-2gd1)
 - [Lifehacker] [Your Mac Has Secret Reset ‘Buttons’](https://lifehacker.com/your-mac-has-secret-reset-buttons-1849445974)
 - [Dev.to/JS] [Roadmap to Master Web Development](https://dev.to/rohitmore07/roadmap-to-master-web-development-ko4)
@@ -30,15 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Simple No-Code App with Workflow Designer](https://dev.to/b4rtaz/create-simple-no-code-app-with-workflow-designer-jl1)
 - [Dev.to/JS] [Markdown Editor with JavaScript](https://dev.to/joelbonetr/markdown-editor-with-javascript-2jb7)
 - [Dev.to/JS] [Welcome to The Spicy Web YouTube Channel](https://dev.to/jaredcwhite/welcome-to-the-spicy-web-youtube-channel-3880)
-- [Dev.to/JS] [2.6 - Open Props - an Open Source CSS Props Library](https://dev.to/codercatdev/26-open-props-an-open-source-css-props-library-1nl9)
-- [Dev.to/JS] [2.5 - Scaling Transactional Data Globally with Fauna](https://dev.to/codercatdev/25-scaling-transactional-data-globally-with-fauna-dk3)
-- [Dev.to/JS] [2.4 - The Other Side of Tech: A Documentarian Perspective](https://dev.to/codingcatdev/the-other-side-of-tech-a-documentarian-perspective-37p1)
-- [Dev.to/JS] [0.9 - Fireship.io](https://dev.to/codingcatdev/09-fireshipio-1icm)
 - [Lifehacker] [How to See Your Wifi Passwords on Mac and PC](https://lifehacker.com/how-to-see-your-wifi-passwords-on-mac-and-pc-1849445651)
-- [Dev.to/JS] [Best 4 IDEs for Javascript to use in 2022: pros and cons](https://dev.to/justin_graysen/best-4-ides-for-javascript-to-use-in-2022-pros-and-cons-20d6)
-- [Dev.to/JS] [axios HTTP request](https://dev.to/yamenad4/axios-http-request-d3n)
 - [Lifehacker] [What&#39;s New on Hulu in September 2022](https://lifehacker.com/whats-new-on-hulu-in-september-2022-1849445727)
-- [Dev.to/JS] [How I built a simple healthcare Dapp using Solidity &amp; React](https://dev.to/jeffreythecoder/how-i-built-a-simple-healthcare-dapp-using-solidity-react-6o7)
 - [Lifehacker] [How to Get ‘Status’ at a Hotel &lpar;and Use It at Other Chains&rpar;](https://lifehacker.com/how-to-get-status-at-a-hotel-and-use-it-at-other-cha-1849444833)
 - [Lifehacker] [How to Cope With End-of-Summer Blues](https://lifehacker.com/how-to-cope-with-end-of-summer-blues-1849444331)
 - [Lifehacker] [Add Fresh Corn to Your Pancakes Before It&#39;s Too Late](https://lifehacker.com/add-fresh-corn-to-your-pancakes-before-its-too-late-1849443591)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [23 Hot Dogs From Around the World That You Need to Try](https://lifehacker.com/23-hot-dogs-from-around-the-world-that-you-need-to-try-1849434231)
 - [Crazy Programmer] [Anders Hejlsberg Biography](https://www.thecrazyprogrammer.com/2022/08/anders-hejlsberg-biography.html)
 - [Lifehacker] [How to Make a Bed With &#39;Hospital Corners&#39;](https://lifehacker.com/how-to-make-a-bed-with-hospital-corners-1849429531)
-- [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)
-- [Lifehacker] [Don’t Book Vacations Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/don-t-book-vacations-rentals-with-these-red-flag-words-1849429494)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If There’s Mold in Your Air Conditioner, &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-there-s-mold-in-your-air-conditioner-a-1849429683)<!-- TECH-POSTS:END -->
 
 ---
 
