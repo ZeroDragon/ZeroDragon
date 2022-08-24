@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 steps to render HTML file in React](https://dev.to/shreyvijayvargiya/4-steps-to-render-html-file-in-react-38h)
+- [Dev.to/JS] [Animations — Hate &amp; Love story #Shorts](https://dev.to/shreyvijayvargiya/animations-hate-love-story-shorts-26kn)
+- [Dev.to/JS] [Creating mock server using MSW &lpar;Mock Service Worker&rpar;](https://dev.to/brunohgv/create-mock-server-using-msw-mock-service-worker-lm)
+- [Dev.to/JS] [Importance of removing Dead codes](https://dev.to/drsimplegraffiti/importance-of-removing-dead-codes-49mi)
+- [Dev.to/JS] [i18n Implementation and Best Practices in Strapi](https://dev.to/strapi/i18n-implementation-and-best-practices-in-strapi-2l24)
 - [Dev.to/JS] [How I Built A Web Development Challenges Website With $0 &lpar;And You Can Too!&rpar;](https://dev.to/thefierycoder/how-i-built-a-web-development-challenges-website-with-0-1alk)
 - [Dev.to/JS] [Digital Marketing Agency at pixel studios](https://dev.to/pixelstudios83/digital-marketing-agency-at-pixel-studios-59jp)
 - [Dev.to/JS] [Extending our CSS-in-JS to support style-component syntax](https://dev.to/vtechguys/extending-our-css-in-js-to-support-style-component-syntax-26e9)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Match a CSS Class in Cypress](https://dev.to/olaj/match-a-css-class-in-cypress-4dhe)
 - [Dev.to/JS] [lobal Mass Flow Controller Market Size Forecast : MKS Instruments , Sierra Instruments , Alicat Sci](https://dev.to/kalpanarathi6/lobal-mass-flow-controller-market-size-forecast-mks-instruments-sierra-instruments-alicat-sci-2mla)
 - [Dev.to/JS] [Decode String - I](https://dev.to/zeeshanali0704/decode-string-i-46lp)
-- [Dev.to/JS] [Browser extensions - Custom options page](https://dev.to/dailydevtips1/browser-extensions-custom-options-page-5b3)
-- [Dev.to/JS] [Google is the evil](https://dev.to/610470416/google-is-the-evil-3k69)
-- [Dev.to/JS] [isPowerOfThree](https://dev.to/zeeshanali0704/ispowerofthree-bf6)
-- [Dev.to/JS] [VSCode Secret Hidden Feature](https://dev.to/codingwithadam/vscode-secret-hidden-feature-4hc3)
-- [Dev.to/JS] [Custom Dynamic Circle Range Slider With Label ui](https://dev.to/juztinlazaro/custom-dynamic-circle-range-slider-with-label-ui-ma)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
