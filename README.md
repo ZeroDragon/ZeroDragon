@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VSCode Secret Hidden Feature](https://dev.to/codingwithadam/vscode-secret-hidden-feature-4hc3)
+- [Dev.to/JS] [Custom Dynamic Circle Range Slider With Label ui](https://dev.to/juztinlazaro/custom-dynamic-circle-range-slider-with-label-ui-ma)
+- [Dev.to/JS] [5 Fresh Project Ideas for Web Developers](https://dev.to/wadecodez/5-fresh-project-ideas-for-web-developers-15l2)
 - [Dev.to/JS] [Getting Started With Freelance Writing](https://dev.to/ubahthebuilder/getting-started-with-freelance-writing-2a7k)
 - [Dev.to/JS] [2.21 - Linking your Microservices with Workflows](https://dev.to/codingcatdev/221-linking-your-microservices-with-workflows-5d5)
 - [Dev.to/JS] [2.20 - Regaining JavaScript Performance in your Website](https://dev.to/codingcatdev/220-regaining-javascript-performance-in-your-website-5005)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2.16 - Optimize your Media Experience](https://dev.to/codingcatdev/216-optimize-your-media-experience-41ib)
 - [Dev.to/JS] [2.15 - Stacks on Stacks on Stacks with codeSTACKr](https://dev.to/codingcatdev/215-stacks-on-stacks-on-stacks-with-codestackr-3c58)
 - [Dev.to/JS] [2.14 - Building up Better Communities](https://dev.to/codingcatdev/214-building-up-better-communities-29m7)
-- [Dev.to/JS] [2.13 - Managing Multiple Data Sources in GraphQL](https://dev.to/codingcatdev/213-managing-multiple-data-sources-in-graphql-42dg)
-- [Dev.to/JS] [2.12 - Empower your Content with Prismic](https://dev.to/codingcatdev/212-empower-your-content-with-prismic-3io)
-- [Dev.to/JS] [2.11 - Build faster websites with Astro](https://dev.to/codingcatdev/211-build-faster-websites-with-astro-k7f)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
