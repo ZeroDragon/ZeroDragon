@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Native APP That will run on TFlite Model](https://dev.to/geekyoda/react-native-app-that-will-run-on-tflite-model-4lj8)
+- [Lifehacker] [How to Learn to Speak High Valyrian From &#39;Game of Thrones&#39;](https://lifehacker.com/how-to-learn-to-speak-high-valyrian-from-game-of-throne-1849448456)
+- [Dev.to/JS] [2.35 - Podcasters Unite](https://dev.to/codingcatdev/235-podcasters-unite-3ad6)
+- [Dev.to/JS] [2.34 - WPEngine and FaustJS](https://dev.to/codingcatdev/234-wpengine-and-faustjs-5fke)
+- [Dev.to/JS] [2.33 - Managing DataOps with Meltano](https://dev.to/codingcatdev/233-managing-dataops-with-meltano-2p48)
+- [Dev.to/JS] [2.32 - Ionic 6](https://dev.to/codingcatdev/232-ionic-6-2pe9)
+- [Dev.to/JS] [2.31 - Creating a Standardized Design System for the Web](https://dev.to/codingcatdev/231-creating-a-standardized-design-system-for-the-web-2b57)
+- [Dev.to/JS] [2.30 - QuickNode Builds Infrastructure for the Future](https://dev.to/codingcatdev/230-quicknode-builds-infrastructure-for-the-future-4e7k)
+- [Lifehacker] [Your BLT Needs This Stealth Bacon](https://lifehacker.com/your-blt-needs-this-stealth-bacon-1849448203)
+- [Dev.to/JS] [2.29 - Women of Jamstack](https://dev.to/codingcatdev/229-women-of-jamstack-foj)
+- [Dev.to/JS] [2.28 - Next.js Script with Partytown Web Workers](https://dev.to/codingcatdev/228-nextjs-script-with-partytown-web-workers-1ll6)
+- [Dev.to/JS] [5 Must Know JavaScript DOM Methods 🔀](https://dev.to/dcodeyt/5-must-know-javascript-dom-methods-3e33)
+- [Dev.to/JS] [2.27 - Automating Infrastructure with Digger.dev](https://dev.to/codingcatdev/227-automating-infrastructure-with-diggerdev-47l2)
+- [Dev.to/JS] [2.26 - Open Sourcing Your Database with Appwrite](https://dev.to/codingcatdev/226-open-sourcing-your-database-with-appwrite-5cll)
 - [Lifehacker] [What Is the Worst Parenting Mistake You&#39;ve Ever Made?](https://lifehacker.com/what-is-the-worst-parenting-mistake-youve-ever-made-1849445581)
-- [Dev.to/JS] [2.23 - Routes for Svelte with Routify](https://dev.to/codingcatdev/223-routes-for-svelte-with-routify-4dcg)
-- [Dev.to/JS] [2.22 - Building Connections for the Underrepresented](https://dev.to/codingcatdev/222-building-connections-for-the-underrepresented-5hk)
-- [Dev.to/JS] [How to use the for loop method to create a drop down or a FAQ section.](https://dev.to/wonuola_w/how-to-use-the-for-loop-method-to-create-a-drop-down-or-a-faq-section-5060)
 - [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
-- [Dev.to/JS] [Lts Angular Updates](https://dev.to/patilganesh1010/lts-angular-updates-30dp)
-- [Dev.to/JS] [Build a visual Serverless CRUD API with MongoDB by stealing my workflow](https://dev.to/ilsilfverskiold/build-a-visual-serverless-crud-api-with-mongodb-by-stealing-my-workflow-1eg6)
-- [Dev.to/JS] [Discover Symfony UX. UI with Stimulus = fewer JS headaches for you](https://dev.to/reubenwalker64/discover-symfony-ux-ui-with-stimulus-fewer-js-headaches-for-you-4ihb)
-- [Dev.to/JS] [Creating an Accordion using vanilla Javascript](https://dev.to/akshaykhot07/creating-an-accordion-using-vanilla-javascript-3o55)
-- [Dev.to/JS] [Flutter vs React Native: Side-by-Side Comparison and When To Choose?](https://dev.to/arianamaurya/flutter-vs-react-native-side-by-side-comparison-and-when-to-choose-408f)
-- [Dev.to/JS] [Build A Responsive Sidebar with React and Styled Components](https://dev.to/jealousgx/build-a-responsive-sidebar-with-react-and-styled-components-4e9e)
-- [Dev.to/JS] [Test](https://dev.to/farid_aditya/test-578c)
-- [Dev.to/JS] [How to implement a 404 redirect in react router v6](https://dev.to/vladwulf/how-to-implement-a-404-redirect-in-react-router-v6-27kf)
-- [Dev.to/JS] [DeclarationError: Identifier not found or not unique. --&gt; contracts/uj.sol:16:23:](https://dev.to/adanali/declarationerror-identifier-not-found-or-not-unique-contractsujsol1623-om2)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
 - [Lifehacker] [20 of the Most Beloved Types of Pizza From Across the US](https://lifehacker.com/20-of-the-most-beloved-types-of-pizza-from-across-the-u-1849441438)
 - [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)
-- [Lifehacker] [Five Things Holding You Back From Becoming a Better Home Chef](https://lifehacker.com/five-things-holding-you-back-from-becoming-a-better-hom-1849441599)
-- [Lifehacker] [You Don&#39;t Need a Lemon to Clean Your Microwave](https://lifehacker.com/you-dont-need-a-lemon-to-clean-your-microwave-1849441501)
-- [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Things Holding You Back From Becoming a Better Home Chef](https://lifehacker.com/five-things-holding-you-back-from-becoming-a-better-hom-1849441599)<!-- TECH-POSTS:END -->
 
 ---
 
