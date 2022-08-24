@@ -23,12 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Why the change](https://dev.to/kiranphillips/why-the-change-2fn7)
+- [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
-- [Dev.to/JS] [Node Api Backend](https://dev.to/addipaul/node-api-backend-1abe)
-- [Dev.to/JS] [React Hooks with RxJS and Axios](https://dev.to/blove/react-hooks-with-rxjs-and-axios-d0a)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
-- [Dev.to/JS] [Making a toast component in svelte and sveltekit](https://dev.to/theether0/making-a-toast-component-in-svelte-and-sveltekit-4gpj)
 - [Lifehacker] [These Hyundai and Kia SUVs Are Being Recalled Because They Might Catch on Fire](https://lifehacker.com/these-hyundai-and-kia-suvs-are-being-recalled-because-t-1849452684)
 - [Lifehacker] [Time to Watch Another iPhone Commercial](https://lifehacker.com/time-to-watch-another-iphone-commercial-1849452112)
 - [Lifehacker] [What Should I Do With My Old Phone?](https://lifehacker.com/what-should-i-do-with-my-old-phone-1849451799)
@@ -37,17 +34,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How Much It&#39;ll Cost to Fix Your Own MacBook](https://lifehacker.com/this-is-how-much-itll-cost-to-fix-your-own-macbook-1849450931)
 - [Lifehacker] [How to Calculate the Real Unemployment Rate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-calculate-the-real-unemployment-rate-and-why-it-1849447911)
 - [Lifehacker] [Pakodas Are the Best Way to Use Up Summer Zucchini](https://lifehacker.com/pakodas-are-the-best-way-to-use-up-summer-zucchini-1849451153)
-- [Dev.to/JS] [JSON](https://dev.to/nikhilgautam090696/json-3c4e)
 - [Lifehacker] [Financial Lessons From the Great Depression We Can All Use Today](https://lifehacker.com/financial-lessons-from-the-great-depression-we-can-all-1849450829)
-- [Dev.to/JS] [Creating a simple Chrome extension using React-Js](https://dev.to/karthik_n/create-a-chrome-extensions-using-react-js-eib)
-- [Dev.to/JS] [Undoing Things with Git.](https://dev.to/naseemkhan7021/undoing-things-with-git-4a7i)
-- [Dev.to/JS] [UI with one input field that accepts only numbers in Javascript](https://dev.to/geekyoda/ui-with-one-input-field-that-accepts-only-numbers-in-javascript-1maa)
 - [Lifehacker] [You Can Make Many Pasta Shapes From Just One](https://lifehacker.com/you-can-make-many-pasta-shapes-from-just-one-1849448829)
-- [Dev.to/JS] [Closing My Bootcamp&#39;s First Phase.](https://dev.to/jpucci26/closing-my-bootcamps-first-phase-401o)
-- [Dev.to/JS] [Using PHP with Node.js in Windows](https://dev.to/digfish/using-php-with-nodejs-in-windows-54na)
 - [Lifehacker] [Never Ignore These Types of Back Pain](https://lifehacker.com/never-ignore-these-types-of-back-pain-1849447675)
-- [Dev.to/JS] [Browserslist: building modern web apps for diverse global audience](https://dev.to/cubejs/browserslist-building-modern-web-apps-for-diverse-global-audience-5g9h)
-- [Dev.to/JS] [Building scalable solutions with Apollo Federation and Fauna](https://dev.to/fauna/building-scalable-solutions-with-apollo-federation-2b0j)
 - [Lifehacker] [What&#39;s New on Netflix in September 2022](https://lifehacker.com/whats-new-on-netflix-in-september-2022-1849451291)
 - [Lifehacker] [Calculate Your Car&#39;s &#39;Miles Per Dollar&#39; Instead of Miles Per Gallon](https://lifehacker.com/calculate-your-cars-miles-per-dollar-instead-of-miles-p-1849450845)
 - [Lifehacker] [How to Learn to Speak High Valyrian From &#39;Game of Thrones&#39;](https://lifehacker.com/how-to-learn-to-speak-high-valyrian-from-game-of-throne-1849448456)
@@ -62,7 +51,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Do I Need to Know About Monkeypox?](https://lifehacker.com/what-do-i-need-to-know-about-monkeypox-1849446836)
 - [Lifehacker] [How to Use a Squat Rack Without Hurting Yourself](https://lifehacker.com/how-to-use-a-squat-rack-without-hurting-yourself-1849446997)
 - [Lifehacker] [This Is the Easiest Way to Fix a Runny Pan Sauce](https://lifehacker.com/this-is-the-easiest-way-to-fix-a-runny-pan-sauce-1849446978)
-- [Lifehacker] [Make Stuffed Tomato Cups With Your Extra Tomatoes](https://lifehacker.com/make-stuffed-tomato-cups-with-your-extra-tomatoes-1849446081)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Stuffed Tomato Cups With Your Extra Tomatoes](https://lifehacker.com/make-stuffed-tomato-cups-with-your-extra-tomatoes-1849446081)
+- [Lifehacker] [23 of the Greatest College Movies of All Time](https://lifehacker.com/23-of-the-greatest-college-movies-of-all-time-1849440953)
+- [Lifehacker] [Your Mac Has Secret Reset ‘Buttons’](https://lifehacker.com/your-mac-has-secret-reset-buttons-1849445974)
+- [Lifehacker] [The Difference Between an Economic Recession and a Depression](https://lifehacker.com/the-difference-between-an-economic-recession-and-a-depr-1849445905)
+- [Lifehacker] [How to See Your Wifi Passwords on Mac and PC](https://lifehacker.com/how-to-see-your-wifi-passwords-on-mac-and-pc-1849445651)
+- [Lifehacker] [What&#39;s New on Hulu in September 2022](https://lifehacker.com/whats-new-on-hulu-in-september-2022-1849445727)
+- [Lifehacker] [How to Get ‘Status’ at a Hotel &lpar;and Use It at Other Chains&rpar;](https://lifehacker.com/how-to-get-status-at-a-hotel-and-use-it-at-other-cha-1849444833)
+- [Lifehacker] [How to Cope With End-of-Summer Blues](https://lifehacker.com/how-to-cope-with-end-of-summer-blues-1849444331)
+- [Lifehacker] [Add Fresh Corn to Your Pancakes Before It&#39;s Too Late](https://lifehacker.com/add-fresh-corn-to-your-pancakes-before-its-too-late-1849443591)
+- [Lifehacker] [You Should Make This Protein-Packed Kai Yad Sai](https://lifehacker.com/you-should-make-this-protein-packed-kai-yad-sai-1849442771)
+- [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
+- [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)<!-- TECH-POSTS:END -->
 
 ---
 
