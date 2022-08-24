@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lts Angular Updates](https://dev.to/patilganesh1010/lts-angular-updates-30dp)
+- [Dev.to/JS] [Build a visual Serverless CRUD API with MongoDB by stealing my workflow](https://dev.to/ilsilfverskiold/build-a-visual-serverless-crud-api-with-mongodb-by-stealing-my-workflow-1eg6)
+- [Dev.to/JS] [Discover Symfony UX. UI with Stimulus = fewer JS headaches for you](https://dev.to/reubenwalker64/discover-symfony-ux-ui-with-stimulus-fewer-js-headaches-for-you-4ihb)
 - [Dev.to/JS] [Creating an Accordion using vanilla Javascript](https://dev.to/akshaykhot07/creating-an-accordion-using-vanilla-javascript-3o55)
 - [Dev.to/JS] [Flutter vs React Native: Side-by-Side Comparison and When To Choose?](https://dev.to/arianamaurya/flutter-vs-react-native-side-by-side-comparison-and-when-to-choose-408f)
 - [Dev.to/JS] [Build A Responsive Sidebar with React and Styled Components](https://dev.to/jealousgx/build-a-responsive-sidebar-with-react-and-styled-components-4e9e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why and How to Hire Remote Software Developers](https://dev.to/jessmann1/why-and-how-to-hire-remote-software-developers-5f58)
 - [Dev.to/JS] [How to costume Chain Id with Ethereum Node](https://dev.to/avenbreaks/how-to-costume-chain-id-with-ethereum-node-1lab)
 - [Dev.to/JS] [WebPack 5: Using named exports from JSON modules](https://dev.to/mohi/webpack-5-using-named-exports-from-json-modules-21a8)
-- [Dev.to/JS] [12 Frameworks for Hybrid Mobile Apps](https://dev.to/jscrambler/12-frameworks-for-hybrid-mobile-apps-546d)
-- [Dev.to/JS] [Easily record microphone on all devices](https://dev.to/greggcbs/easily-record-microphone-on-all-devices-3bi6)
-- [Dev.to/JS] [Watch Pinoy Tv Show Online](https://dev.to/pinoyta71488201/watch-pinoy-tv-show-online-12af)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
