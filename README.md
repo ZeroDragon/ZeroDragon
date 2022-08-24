@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Browser extensions - Custom options page](https://dev.to/dailydevtips1/browser-extensions-custom-options-page-5b3)
 - [Dev.to/JS] [Google is the evil](https://dev.to/610470416/google-is-the-evil-3k69)
 - [Dev.to/JS] [isPowerOfThree](https://dev.to/zeeshanali0704/ispowerofthree-bf6)
 - [Dev.to/JS] [VSCode Secret Hidden Feature](https://dev.to/codingwithadam/vscode-secret-hidden-feature-4hc3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2.19 - Enterprise Databases that Scale](https://dev.to/codingcatdev/219-enterprise-databases-that-scale-5036)
 - [Dev.to/JS] [2.18 - Making the Web Easier to Build](https://dev.to/codingcatdev/218-making-the-web-easier-to-build-i3h)
 - [Dev.to/JS] [2.17 - Building the Future of Svelte at Vercel](https://dev.to/codingcatdev/217-building-the-future-of-svelte-at-vercel-53ok)
-- [Dev.to/JS] [2.16 - Optimize your Media Experience](https://dev.to/codingcatdev/216-optimize-your-media-experience-41ib)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
