@@ -23,21 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Make Many Pasta Shapes From Just One](https://lifehacker.com/you-can-make-many-pasta-shapes-from-just-one-1849448829)
+- [Dev.to/JS] [Closing My Bootcamp&#39;s First Phase.](https://dev.to/jpucci26/closing-my-bootcamps-first-phase-401o)
+- [Dev.to/JS] [Using PHP with Node.js in Windows](https://dev.to/digfish/using-php-with-nodejs-in-windows-54na)
+- [Lifehacker] [Never Ignore These Types of Back Pain](https://lifehacker.com/never-ignore-these-types-of-back-pain-1849447675)
+- [Dev.to/JS] [Browserslist: building modern web apps for diverse global audience](https://dev.to/cubejs/browserslist-building-modern-web-apps-for-diverse-global-audience-5g9h)
+- [Dev.to/JS] [Building scalable solutions with Apollo Federation](https://dev.to/fauna/building-scalable-solutions-with-apollo-federation-2b0j)
+- [Dev.to/JS] [Javascript: My way to learn javascript](https://dev.to/urstrulyvishwak/javascript-my-way-to-learn-javascript-10hd)
+- [Dev.to/JS] [TypeScript: Ultimate guide for beginners](https://dev.to/mteheran/typescript-ultimate-guide-for-beginners-1dlo)
+- [Dev.to/JS] [🎉 Introducing @akalli/navigation react-native navigation made easy](https://dev.to/danilosilvadev/introducing-akallinavigation-react-native-navigation-made-easy-52n1)
+- [Dev.to/JS] [Why Shallow Tests?](https://dev.to/c6z3h/part-2-shallow-tests-d57)
+- [Lifehacker] [What&#39;s New on Netflix in September 2022](https://lifehacker.com/whats-new-on-netflix-in-september-2022-1849451291)
 - [Dev.to/JS] [One-Time Pad](https://dev.to/rmion/one-time-pad-40kl)
 - [Dev.to/JS] [web3 - 3D Web3 serie](https://dev.to/uigla/3d-web-react-web3-44e7)
 - [Lifehacker] [Calculate Your Car&#39;s &#39;Miles Per Dollar&#39; Instead of Miles Per Gallon](https://lifehacker.com/calculate-your-cars-miles-per-dollar-instead-of-miles-p-1849450845)
 - [Dev.to/JS] [React Native APP That will run on TFlite Model](https://dev.to/geekyoda/react-native-app-that-will-run-on-tflite-model-4lj8)
 - [Lifehacker] [How to Learn to Speak High Valyrian From &#39;Game of Thrones&#39;](https://lifehacker.com/how-to-learn-to-speak-high-valyrian-from-game-of-throne-1849448456)
 - [Dev.to/JS] [2.35 - Podcasters Unite](https://dev.to/codingcatdev/235-podcasters-unite-3ad6)
-- [Dev.to/JS] [2.34 - WPEngine and FaustJS](https://dev.to/codingcatdev/234-wpengine-and-faustjs-5fke)
-- [Dev.to/JS] [2.33 - Managing DataOps with Meltano](https://dev.to/codingcatdev/233-managing-dataops-with-meltano-2p48)
-- [Dev.to/JS] [2.32 - Ionic 6](https://dev.to/codingcatdev/232-ionic-6-2pe9)
-- [Dev.to/JS] [2.31 - Creating a Standardized Design System for the Web](https://dev.to/codingcatdev/231-creating-a-standardized-design-system-for-the-web-2b57)
-- [Dev.to/JS] [2.30 - QuickNode Builds Infrastructure for the Future](https://dev.to/codingcatdev/230-quicknode-builds-infrastructure-for-the-future-4e7k)
 - [Lifehacker] [Your BLT Needs This Stealth Bacon](https://lifehacker.com/your-blt-needs-this-stealth-bacon-1849448203)
-- [Dev.to/JS] [2.29 - Women of Jamstack](https://dev.to/codingcatdev/229-women-of-jamstack-foj)
-- [Dev.to/JS] [2.28 - Next.js Script with Partytown Web Workers](https://dev.to/codingcatdev/228-nextjs-script-with-partytown-web-workers-1ll6)
-- [Dev.to/JS] [5 Must Know JavaScript DOM Methods 🔀](https://dev.to/dcodeyt/5-must-know-javascript-dom-methods-3e33)
 - [Lifehacker] [What Is the Worst Parenting Mistake You&#39;ve Ever Made?](https://lifehacker.com/what-is-the-worst-parenting-mistake-youve-ever-made-1849445581)
 - [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add Fresh Corn to Your Pancakes Before It&#39;s Too Late](https://lifehacker.com/add-fresh-corn-to-your-pancakes-before-its-too-late-1849443591)
 - [Lifehacker] [You Should Make This Protein-Packed Kai Yad Sai](https://lifehacker.com/you-should-make-this-protein-packed-kai-yad-sai-1849442771)
 - [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
-- [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
-- [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
-- [Lifehacker] [20 of the Most Beloved Types of Pizza From Across the US](https://lifehacker.com/20-of-the-most-beloved-types-of-pizza-from-across-the-u-1849441438)
-- [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)<!-- TECH-POSTS:END -->
 
 ---
 
