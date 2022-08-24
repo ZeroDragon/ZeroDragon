@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a toast component in svelte and sveltekit](https://dev.to/theether0/making-a-toast-component-in-svelte-and-sveltekit-4gpj)
+- [Lifehacker] [These Hyundai and Kia SUVs Are Being Recalled Because They Might Catch on Fire](https://lifehacker.com/these-hyundai-and-kia-suvs-are-being-recalled-because-t-1849452684)
+- [Lifehacker] [Time to Watch Another iPhone Commercial](https://lifehacker.com/time-to-watch-another-iphone-commercial-1849452112)
+- [Lifehacker] [What Should I Do With My Old Phone?](https://lifehacker.com/what-should-i-do-with-my-old-phone-1849451799)
 - [Lifehacker] [Your Meat Spreads Need a Tangy Jam](https://lifehacker.com/your-meat-spreads-need-a-tangy-jam-1849452540)
 - [Lifehacker] [What&#39;s New on Paramount+ in September 2022](https://lifehacker.com/whats-new-on-paramount-in-september-2022-1849451918)
 - [Lifehacker] [This Is How Much It&#39;ll Cost to Fix Your Own MacBook](https://lifehacker.com/this-is-how-much-itll-cost-to-fix-your-own-macbook-1849450931)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript: My way to learn javascript](https://dev.to/urstrulyvishwak/javascript-my-way-to-learn-javascript-10hd)
 - [Dev.to/JS] [TypeScript: Ultimate guide for beginners](https://dev.to/mteheran/typescript-ultimate-guide-for-beginners-1dlo)
 - [Dev.to/JS] [🎉 Introducing @akalli/navigation react-native navigation made easy](https://dev.to/danilosilvadev/introducing-akallinavigation-react-native-navigation-made-easy-52n1)
-- [Dev.to/JS] [Why Shallow Tests?](https://dev.to/c6z3h/part-2-shallow-tests-d57)
 - [Lifehacker] [What&#39;s New on Netflix in September 2022](https://lifehacker.com/whats-new-on-netflix-in-september-2022-1849451291)
 - [Lifehacker] [Calculate Your Car&#39;s &#39;Miles Per Dollar&#39; Instead of Miles Per Gallon](https://lifehacker.com/calculate-your-cars-miles-per-dollar-instead-of-miles-p-1849450845)
 - [Lifehacker] [How to Learn to Speak High Valyrian From &#39;Game of Thrones&#39;](https://lifehacker.com/how-to-learn-to-speak-high-valyrian-from-game-of-throne-1849448456)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Easiest Way to Fix a Runny Pan Sauce](https://lifehacker.com/this-is-the-easiest-way-to-fix-a-runny-pan-sauce-1849446978)
 - [Lifehacker] [Make Stuffed Tomato Cups With Your Extra Tomatoes](https://lifehacker.com/make-stuffed-tomato-cups-with-your-extra-tomatoes-1849446081)
 - [Lifehacker] [23 of the Greatest College Movies of All Time](https://lifehacker.com/23-of-the-greatest-college-movies-of-all-time-1849440953)
-- [Lifehacker] [Your Mac Has Secret Reset ‘Buttons’](https://lifehacker.com/your-mac-has-secret-reset-buttons-1849445974)
-- [Lifehacker] [The Difference Between an Economic Recession and a Depression](https://lifehacker.com/the-difference-between-an-economic-recession-and-a-depr-1849445905)
-- [Lifehacker] [How to See Your Wifi Passwords on Mac and PC](https://lifehacker.com/how-to-see-your-wifi-passwords-on-mac-and-pc-1849445651)
-- [Lifehacker] [What&#39;s New on Hulu in September 2022](https://lifehacker.com/whats-new-on-hulu-in-september-2022-1849445727)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Mac Has Secret Reset ‘Buttons’](https://lifehacker.com/your-mac-has-secret-reset-buttons-1849445974)<!-- TECH-POSTS:END -->
 
 ---
 
