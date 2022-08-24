@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One-Time Pad](https://dev.to/rmion/one-time-pad-40kl)
+- [Dev.to/JS] [web3 - 3D Web3 serie](https://dev.to/uigla/3d-web-react-web3-44e7)
+- [Lifehacker] [Calculate Your Car&#39;s &#39;Miles Per Dollar&#39; Instead of Miles Per Gallon](https://lifehacker.com/calculate-your-cars-miles-per-dollar-instead-of-miles-p-1849450845)
 - [Dev.to/JS] [React Native APP That will run on TFlite Model](https://dev.to/geekyoda/react-native-app-that-will-run-on-tflite-model-4lj8)
 - [Lifehacker] [How to Learn to Speak High Valyrian From &#39;Game of Thrones&#39;](https://lifehacker.com/how-to-learn-to-speak-high-valyrian-from-game-of-throne-1849448456)
 - [Dev.to/JS] [2.35 - Podcasters Unite](https://dev.to/codingcatdev/235-podcasters-unite-3ad6)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2.29 - Women of Jamstack](https://dev.to/codingcatdev/229-women-of-jamstack-foj)
 - [Dev.to/JS] [2.28 - Next.js Script with Partytown Web Workers](https://dev.to/codingcatdev/228-nextjs-script-with-partytown-web-workers-1ll6)
 - [Dev.to/JS] [5 Must Know JavaScript DOM Methods 🔀](https://dev.to/dcodeyt/5-must-know-javascript-dom-methods-3e33)
-- [Dev.to/JS] [2.27 - Automating Infrastructure with Digger.dev](https://dev.to/codingcatdev/227-automating-infrastructure-with-diggerdev-47l2)
-- [Dev.to/JS] [2.26 - Open Sourcing Your Database with Appwrite](https://dev.to/codingcatdev/226-open-sourcing-your-database-with-appwrite-5cll)
 - [Lifehacker] [What Is the Worst Parenting Mistake You&#39;ve Ever Made?](https://lifehacker.com/what-is-the-worst-parenting-mistake-youve-ever-made-1849445581)
 - [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)
 - [Lifehacker] [9 of the Best Exercises to Do With the Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
 - [Lifehacker] [20 of the Most Beloved Types of Pizza From Across the US](https://lifehacker.com/20-of-the-most-beloved-types-of-pizza-from-across-the-u-1849441438)
-- [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)
-- [Lifehacker] [Five Things Holding You Back From Becoming a Better Home Chef](https://lifehacker.com/five-things-holding-you-back-from-becoming-a-better-hom-1849441599)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)<!-- TECH-POSTS:END -->
 
 ---
 
