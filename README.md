@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create A Simple Word Unscrambler With JavaScript](https://dev.to/ugorji_simon/how-to-create-a-simple-word-unscrambler-with-javascript-j25)
+- [Dev.to/JS] [Match a CSS Class in Cypress](https://dev.to/olaj/match-a-css-class-in-cypress-4dhe)
+- [Dev.to/JS] [lobal Mass Flow Controller Market Size Forecast : MKS Instruments , Sierra Instruments , Alicat Sci](https://dev.to/kalpanarathi6/lobal-mass-flow-controller-market-size-forecast-mks-instruments-sierra-instruments-alicat-sci-2mla)
+- [Dev.to/JS] [Decode String - I](https://dev.to/zeeshanali0704/decode-string-i-46lp)
 - [Dev.to/JS] [Browser extensions - Custom options page](https://dev.to/dailydevtips1/browser-extensions-custom-options-page-5b3)
 - [Dev.to/JS] [Google is the evil](https://dev.to/610470416/google-is-the-evil-3k69)
 - [Dev.to/JS] [isPowerOfThree](https://dev.to/zeeshanali0704/ispowerofthree-bf6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Fresh Project Ideas for Web Developers](https://dev.to/wadecodez/5-fresh-project-ideas-for-web-developers-15l2)
 - [Dev.to/JS] [Getting Started With Freelance Writing](https://dev.to/ubahthebuilder/getting-started-with-freelance-writing-2a7k)
 - [Dev.to/JS] [2.21 - Linking your Microservices with Workflows](https://dev.to/codingcatdev/221-linking-your-microservices-with-workflows-5d5)
-- [Dev.to/JS] [2.20 - Regaining JavaScript Performance in your Website](https://dev.to/codingcatdev/220-regaining-javascript-performance-in-your-website-5005)
-- [Dev.to/JS] [2.19 - Enterprise Databases that Scale](https://dev.to/codingcatdev/219-enterprise-databases-that-scale-5036)
-- [Dev.to/JS] [2.18 - Making the Web Easier to Build](https://dev.to/codingcatdev/218-making-the-web-easier-to-build-i3h)
-- [Dev.to/JS] [2.17 - Building the Future of Svelte at Vercel](https://dev.to/codingcatdev/217-building-the-future-of-svelte-at-vercel-53ok)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
