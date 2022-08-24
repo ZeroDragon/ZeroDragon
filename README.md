@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is the Worst Parenting Mistake You&#39;ve Ever Made?](https://lifehacker.com/what-is-the-worst-parenting-mistake-youve-ever-made-1849445581)
+- [Dev.to/JS] [2.23 - Routes for Svelte with Routify](https://dev.to/codingcatdev/223-routes-for-svelte-with-routify-4dcg)
+- [Dev.to/JS] [2.22 - Building Connections for the Underrepresented](https://dev.to/codingcatdev/222-building-connections-for-the-underrepresented-5hk)
+- [Dev.to/JS] [How to use the for loop method to create a drop down or a FAQ section.](https://dev.to/wonuola_w/how-to-use-the-for-loop-method-to-create-a-drop-down-or-a-faq-section-5060)
+- [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
 - [Dev.to/JS] [Lts Angular Updates](https://dev.to/patilganesh1010/lts-angular-updates-30dp)
 - [Dev.to/JS] [Build a visual Serverless CRUD API with MongoDB by stealing my workflow](https://dev.to/ilsilfverskiold/build-a-visual-serverless-crud-api-with-mongodb-by-stealing-my-workflow-1eg6)
 - [Dev.to/JS] [Discover Symfony UX. UI with Stimulus = fewer JS headaches for you](https://dev.to/reubenwalker64/discover-symfony-ux-ui-with-stimulus-fewer-js-headaches-for-you-4ihb)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Test](https://dev.to/farid_aditya/test-578c)
 - [Dev.to/JS] [How to implement a 404 redirect in react router v6](https://dev.to/vladwulf/how-to-implement-a-404-redirect-in-react-router-v6-27kf)
 - [Dev.to/JS] [DeclarationError: Identifier not found or not unique. --&gt; contracts/uj.sol:16:23:](https://dev.to/adanali/declarationerror-identifier-not-found-or-not-unique-contractsujsol1623-om2)
-- [Dev.to/JS] [Why and How to Hire Remote Software Developers](https://dev.to/jessmann1/why-and-how-to-hire-remote-software-developers-5f58)
-- [Dev.to/JS] [How to costume Chain Id with Ethereum Node](https://dev.to/avenbreaks/how-to-costume-chain-id-with-ethereum-node-1lab)
-- [Dev.to/JS] [WebPack 5: Using named exports from JSON modules](https://dev.to/mohi/webpack-5-using-named-exports-from-json-modules-21a8)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the Full Harvest Moon Shine in September](https://lifehacker.com/when-to-see-the-full-harvest-moon-shine-in-september-1849442040)
 - [Lifehacker] [Five Things Holding You Back From Becoming a Better Home Chef](https://lifehacker.com/five-things-holding-you-back-from-becoming-a-better-hom-1849441599)
 - [Lifehacker] [You Don&#39;t Need a Lemon to Clean Your Microwave](https://lifehacker.com/you-dont-need-a-lemon-to-clean-your-microwave-1849441501)
-- [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)
-- [Lifehacker] [Two Ways to Read a Snapchat Without Sending a Read Receipt](https://lifehacker.com/two-ways-to-read-a-snapchat-without-sending-a-read-rece-1849440845)
-- [Lifehacker] [The One Thing You Should Always Serve With Charcuterie Platters](https://lifehacker.com/the-one-thing-you-should-always-serve-with-charcuterie-1849440911)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Never Flush These Things Down the Toilet](https://lifehacker.com/never-flush-these-things-down-the-toilet-1849440926)<!-- TECH-POSTS:END -->
 
 ---
 
