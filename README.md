@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Accordion using vanilla Javascript](https://dev.to/akshaykhot07/creating-an-accordion-using-vanilla-javascript-3o55)
+- [Dev.to/JS] [Flutter vs React Native: Side-by-Side Comparison and When To Choose?](https://dev.to/arianamaurya/flutter-vs-react-native-side-by-side-comparison-and-when-to-choose-408f)
+- [Dev.to/JS] [Build A Responsive Sidebar with React and Styled Components](https://dev.to/jealousgx/build-a-responsive-sidebar-with-react-and-styled-components-4e9e)
+- [Dev.to/JS] [Test](https://dev.to/farid_aditya/test-578c)
 - [Dev.to/JS] [How to implement a 404 redirect in react router v6](https://dev.to/vladwulf/how-to-implement-a-404-redirect-in-react-router-v6-27kf)
 - [Dev.to/JS] [DeclarationError: Identifier not found or not unique. --&gt; contracts/uj.sol:16:23:](https://dev.to/adanali/declarationerror-identifier-not-found-or-not-unique-contractsujsol1623-om2)
 - [Dev.to/JS] [Why and How to Hire Remote Software Developers](https://dev.to/jessmann1/why-and-how-to-hire-remote-software-developers-5f58)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 Frameworks for Hybrid Mobile Apps](https://dev.to/jscrambler/12-frameworks-for-hybrid-mobile-apps-546d)
 - [Dev.to/JS] [Easily record microphone on all devices](https://dev.to/greggcbs/easily-record-microphone-on-all-devices-3bi6)
 - [Dev.to/JS] [Watch Pinoy Tv Show Online](https://dev.to/pinoyta71488201/watch-pinoy-tv-show-online-12af)
-- [Dev.to/JS] [Form Validation a breeze with Yup and React Hook form](https://dev.to/laribright/form-validation-a-breeze-with-yup-and-react-hook-form-3pde)
-- [Dev.to/JS] [Top 10 Github Repositories to Learn JavaScript.](https://dev.to/areedev/top-10-github-repositories-to-learn-javascript-3mlo)
-- [Dev.to/JS] [4 steps to render HTML file in React](https://dev.to/shreyvijayvargiya/4-steps-to-render-html-file-in-react-38h)
-- [Dev.to/JS] [Animations — Hate &amp; Love story #Shorts](https://dev.to/shreyvijayvargiya/animations-hate-love-story-shorts-26kn)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
