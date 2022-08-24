@@ -23,23 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Pakodas Are the Best Way to Use Up Summer Zucchini](https://lifehacker.com/pakodas-are-the-best-way-to-use-up-summer-zucchini-1849451153)
+- [Dev.to/JS] [JSON](https://dev.to/nikhilgautam090696/json-3c4e)
+- [Lifehacker] [Financial Lessons From the Great Depression We Can All Use Today](https://lifehacker.com/financial-lessons-from-the-great-depression-we-can-all-1849450829)
+- [Dev.to/JS] [Creating a simple Chrome extension using React-Js](https://dev.to/karthik_n/create-a-chrome-extensions-using-react-js-eib)
+- [Dev.to/JS] [Undoing Things with Git.](https://dev.to/naseemkhan7021/undoing-things-with-git-4a7i)
+- [Dev.to/JS] [UI with one input field that accepts only numbers in Javascript](https://dev.to/geekyoda/ui-with-one-input-field-that-accepts-only-numbers-in-javascript-1maa)
 - [Lifehacker] [You Can Make Many Pasta Shapes From Just One](https://lifehacker.com/you-can-make-many-pasta-shapes-from-just-one-1849448829)
 - [Dev.to/JS] [Closing My Bootcamp&#39;s First Phase.](https://dev.to/jpucci26/closing-my-bootcamps-first-phase-401o)
 - [Dev.to/JS] [Using PHP with Node.js in Windows](https://dev.to/digfish/using-php-with-nodejs-in-windows-54na)
 - [Lifehacker] [Never Ignore These Types of Back Pain](https://lifehacker.com/never-ignore-these-types-of-back-pain-1849447675)
 - [Dev.to/JS] [Browserslist: building modern web apps for diverse global audience](https://dev.to/cubejs/browserslist-building-modern-web-apps-for-diverse-global-audience-5g9h)
-- [Dev.to/JS] [Building scalable solutions with Apollo Federation](https://dev.to/fauna/building-scalable-solutions-with-apollo-federation-2b0j)
+- [Dev.to/JS] [Building scalable solutions with Apollo Federation and Fauna](https://dev.to/fauna/building-scalable-solutions-with-apollo-federation-2b0j)
 - [Dev.to/JS] [Javascript: My way to learn javascript](https://dev.to/urstrulyvishwak/javascript-my-way-to-learn-javascript-10hd)
 - [Dev.to/JS] [TypeScript: Ultimate guide for beginners](https://dev.to/mteheran/typescript-ultimate-guide-for-beginners-1dlo)
 - [Dev.to/JS] [🎉 Introducing @akalli/navigation react-native navigation made easy](https://dev.to/danilosilvadev/introducing-akallinavigation-react-native-navigation-made-easy-52n1)
 - [Dev.to/JS] [Why Shallow Tests?](https://dev.to/c6z3h/part-2-shallow-tests-d57)
 - [Lifehacker] [What&#39;s New on Netflix in September 2022](https://lifehacker.com/whats-new-on-netflix-in-september-2022-1849451291)
-- [Dev.to/JS] [One-Time Pad](https://dev.to/rmion/one-time-pad-40kl)
-- [Dev.to/JS] [web3 - 3D Web3 serie](https://dev.to/uigla/3d-web-react-web3-44e7)
 - [Lifehacker] [Calculate Your Car&#39;s &#39;Miles Per Dollar&#39; Instead of Miles Per Gallon](https://lifehacker.com/calculate-your-cars-miles-per-dollar-instead-of-miles-p-1849450845)
-- [Dev.to/JS] [React Native APP That will run on TFlite Model](https://dev.to/geekyoda/react-native-app-that-will-run-on-tflite-model-4lj8)
 - [Lifehacker] [How to Learn to Speak High Valyrian From &#39;Game of Thrones&#39;](https://lifehacker.com/how-to-learn-to-speak-high-valyrian-from-game-of-throne-1849448456)
-- [Dev.to/JS] [2.35 - Podcasters Unite](https://dev.to/codingcatdev/235-podcasters-unite-3ad6)
 - [Lifehacker] [Your BLT Needs This Stealth Bacon](https://lifehacker.com/your-blt-needs-this-stealth-bacon-1849448203)
 - [Lifehacker] [What Is the Worst Parenting Mistake You&#39;ve Ever Made?](https://lifehacker.com/what-is-the-worst-parenting-mistake-youve-ever-made-1849445581)
 - [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get ‘Status’ at a Hotel &lpar;and Use It at Other Chains&rpar;](https://lifehacker.com/how-to-get-status-at-a-hotel-and-use-it-at-other-cha-1849444833)
 - [Lifehacker] [How to Cope With End-of-Summer Blues](https://lifehacker.com/how-to-cope-with-end-of-summer-blues-1849444331)
 - [Lifehacker] [Add Fresh Corn to Your Pancakes Before It&#39;s Too Late](https://lifehacker.com/add-fresh-corn-to-your-pancakes-before-its-too-late-1849443591)
-- [Lifehacker] [You Should Make This Protein-Packed Kai Yad Sai](https://lifehacker.com/you-should-make-this-protein-packed-kai-yad-sai-1849442771)
-- [Lifehacker] [This Tool Checks If In-App Browsers Are Tracking You](https://lifehacker.com/this-tool-checks-if-in-app-browsers-are-tracking-you-1849443044)
-- [Lifehacker] [What&#39;s New on Disney+ in September 2022](https://lifehacker.com/whats-new-on-disney-in-september-2022-1849443047)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Make This Protein-Packed Kai Yad Sai](https://lifehacker.com/you-should-make-this-protein-packed-kai-yad-sai-1849442771)<!-- TECH-POSTS:END -->
 
 ---
 
