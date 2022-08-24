@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started With Freelance Writing](https://dev.to/ubahthebuilder/getting-started-with-freelance-writing-2a7k)
+- [Dev.to/JS] [2.21 - Linking your Microservices with Workflows](https://dev.to/codingcatdev/221-linking-your-microservices-with-workflows-5d5)
+- [Dev.to/JS] [2.20 - Regaining JavaScript Performance in your Website](https://dev.to/codingcatdev/220-regaining-javascript-performance-in-your-website-5005)
+- [Dev.to/JS] [2.19 - Enterprise Databases that Scale](https://dev.to/codingcatdev/219-enterprise-databases-that-scale-5036)
+- [Dev.to/JS] [2.18 - Making the Web Easier to Build](https://dev.to/codingcatdev/218-making-the-web-easier-to-build-i3h)
 - [Dev.to/JS] [2.17 - Building the Future of Svelte at Vercel](https://dev.to/codingcatdev/217-building-the-future-of-svelte-at-vercel-53ok)
 - [Dev.to/JS] [2.16 - Optimize your Media Experience](https://dev.to/codingcatdev/216-optimize-your-media-experience-41ib)
 - [Dev.to/JS] [2.15 - Stacks on Stacks on Stacks with codeSTACKr](https://dev.to/codingcatdev/215-stacks-on-stacks-on-stacks-with-codestackr-3c58)
@@ -30,14 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2.13 - Managing Multiple Data Sources in GraphQL](https://dev.to/codingcatdev/213-managing-multiple-data-sources-in-graphql-42dg)
 - [Dev.to/JS] [2.12 - Empower your Content with Prismic](https://dev.to/codingcatdev/212-empower-your-content-with-prismic-3io)
 - [Dev.to/JS] [2.11 - Build faster websites with Astro](https://dev.to/codingcatdev/211-build-faster-websites-with-astro-k7f)
-- [Dev.to/JS] [2.10 - Creative Coding to Boost your Skills](https://dev.to/codingcatdev/210-creative-coding-to-boost-your-skills-15nc)
-- [Dev.to/JS] [2.9 - Getting GraphiQL with WordPress](https://dev.to/codingcatdev/29-getting-graphiql-with-wordpress-41a9)
-- [Dev.to/JS] [2.8 - Powering up with Gatsby 4 and GatsbyConf](https://dev.to/codingcatdev/28-powering-up-with-gatsby-4-and-gatsbyconf-5735)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
-- [Dev.to/JS] [Vue.js Computed Properties in Depth](https://dev.to/xinnks/vuejs-computed-properties-in-depth-hbc)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
-- [Dev.to/JS] [Interviewing for a front-end internship - my experience](https://dev.to/fahadimran/interviewing-for-a-front-end-internship-my-experience-4hj0)
 - [Lifehacker] [These Foods Are Safe to Eat Well Past Their &#39;Expiration Dates&#39;](https://lifehacker.com/these-foods-are-safe-to-eat-well-past-their-expiration-1849446847)
 - [Lifehacker] [These Ten U.S. Cities Are Safest From Natural Disasters](https://lifehacker.com/these-ten-u-s-cities-are-safest-from-natural-disasters-1849446131)
 - [Lifehacker] [What Do I Need to Know About Monkeypox?](https://lifehacker.com/what-do-i-need-to-know-about-monkeypox-1849446836)
