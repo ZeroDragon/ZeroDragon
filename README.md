@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement a 404 redirect in react router v6](https://dev.to/vladwulf/how-to-implement-a-404-redirect-in-react-router-v6-27kf)
+- [Dev.to/JS] [DeclarationError: Identifier not found or not unique. --&gt; contracts/uj.sol:16:23:](https://dev.to/adanali/declarationerror-identifier-not-found-or-not-unique-contractsujsol1623-om2)
+- [Dev.to/JS] [Why and How to Hire Remote Software Developers](https://dev.to/jessmann1/why-and-how-to-hire-remote-software-developers-5f58)
+- [Dev.to/JS] [How to costume Chain Id with Ethereum Node](https://dev.to/avenbreaks/how-to-costume-chain-id-with-ethereum-node-1lab)
 - [Dev.to/JS] [WebPack 5: Using named exports from JSON modules](https://dev.to/mohi/webpack-5-using-named-exports-from-json-modules-21a8)
 - [Dev.to/JS] [12 Frameworks for Hybrid Mobile Apps](https://dev.to/jscrambler/12-frameworks-for-hybrid-mobile-apps-546d)
 - [Dev.to/JS] [Easily record microphone on all devices](https://dev.to/greggcbs/easily-record-microphone-on-all-devices-3bi6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 Github Repositories to Learn JavaScript.](https://dev.to/areedev/top-10-github-repositories-to-learn-javascript-3mlo)
 - [Dev.to/JS] [4 steps to render HTML file in React](https://dev.to/shreyvijayvargiya/4-steps-to-render-html-file-in-react-38h)
 - [Dev.to/JS] [Animations — Hate &amp; Love story #Shorts](https://dev.to/shreyvijayvargiya/animations-hate-love-story-shorts-26kn)
-- [Dev.to/JS] [Creating mock server using MSW &lpar;Mock Service Worker&rpar;](https://dev.to/brunohgv/create-mock-server-using-msw-mock-service-worker-lm)
-- [Dev.to/JS] [Importance of removing Dead codes](https://dev.to/drsimplegraffiti/importance-of-removing-dead-codes-49mi)
-- [Dev.to/JS] [i18n Implementation and Best Practices in Strapi](https://dev.to/strapi/i18n-implementation-and-best-practices-in-strapi-2l24)
-- [Dev.to/JS] [How I Built A Web Development Challenges Website With $0 &lpar;And You Can Too!&rpar;](https://dev.to/thefierycoder/how-i-built-a-web-development-challenges-website-with-0-1alk)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
