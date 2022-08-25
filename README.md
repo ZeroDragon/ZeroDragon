@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Tolkien Elvish, Na&#39;Vi, and 10 Other Fictional Languages You Can Learn for Some Reason](https://lifehacker.com/tolkien-elvish-navi-and-10-other-fictional-languages-1849453429)
+- [Lifehacker] [Make a Time Capsule With Radical Honesty](https://lifehacker.com/make-a-time-capsule-with-radical-honesty-1849454951)
 - [Dev.to/JS] [A Maze of Twisty Little Cubicles](https://dev.to/rmion/a-maze-of-twisty-little-cubicles-47n4)
 - [Dev.to/JS] [Core JavaScript: Primitive vs. Non-primitive Data Types](https://dev.to/ioanat94/core-javascript-primitive-vs-non-primitive-data-types-m3m)
 - [Lifehacker] [This Free App Alerts You Whenever Google Collects Your Browsing Data](https://lifehacker.com/this-free-app-alerts-you-whenever-google-collects-your-1849453277)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
 - [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
-- [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
-- [Lifehacker] [These Foods Are Safe to Eat Well Past Their &#39;Expiration Dates&#39;](https://lifehacker.com/these-foods-are-safe-to-eat-well-past-their-expiration-1849446847)
-- [Lifehacker] [These Ten U.S. Cities Are Safest From Natural Disasters](https://lifehacker.com/these-ten-u-s-cities-are-safest-from-natural-disasters-1849446131)<!-- TECH-POSTS:END -->
+- [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)<!-- TECH-POSTS:END -->
 
 ---
 
