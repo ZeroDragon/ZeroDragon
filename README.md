@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)
+- [Dev.to/JS] [Low-Code Platforms- Have Complete Clarity](https://dev.to/ashukalbande/low-code-platforms-have-complete-clarity-1665)
+- [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)
+- [Dev.to/JS] [The Top Three Reasons to Eat Raw Sunflower Seeds Now](https://dev.to/addisonparker234/the-top-three-reasons-to-eat-raw-sunflower-seeds-now-pgp)
+- [Dev.to/JS] [Typescript Series - Array Push Type](https://dev.to/sarmunbustillo/typescript-series-array-includes-type-3pl4)
+- [Dev.to/JS] [Interacting with form data using Next.js and Hygraph](https://dev.to/asayerio_techblog/interacting-with-form-data-using-nextjs-and-hygraph-3bph)
 - [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)
 - [Dev.to/JS] [Experiments &amp;&amp; Progress](https://dev.to/nessakodo/experiments-progress-4i6g)
 - [Dev.to/JS] [Get All Substrings](https://dev.to/zeeshanali0704/get-all-substrings-5c9h)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best &lpar;and Easiest&rpar; Alternatives to the Aperol Spritz](https://lifehacker.com/the-best-and-easiest-alternatives-to-the-aperol-sprit-1849449968)
 - [Dev.to/JS] [Color Thief 找出圖片裡的顏色](https://dev.to/letswrite/color-thief-zhao-chu-tu-pian-li-de-yan-se-6j4)
 - [Lifehacker] [How to Improve Communication in Your Relationship](https://lifehacker.com/how-to-improve-communication-in-your-relationship-1849453668)
-- [Dev.to/JS] [How we automated storybook documentation for our web components](https://dev.to/btopro/how-we-automated-storybook-documentation-for-our-web-components-52cb)
-- [Dev.to/JS] [Exceptions in Selenium: Complete Tutorial](https://dev.to/saravanandevaraj7/exceptions-in-selenium-complete-tutorial-26ei)
-- [Dev.to/JS] [concat arrays in javascript](https://dev.to/shubhamtiwari909/concat-arrays-in-javascript-32e8)
 - [Lifehacker] [11 of the Best Things You Can Plant in Your Garden This September](https://lifehacker.com/11-of-the-best-things-you-can-plant-in-your-garden-this-1849453269)
-- [Dev.to/JS] [Beginner&#39;s Guide to String Methods in JavaScript](https://dev.to/meganmoulos/beginners-guide-to-string-methods-in-javascript-4am4)
 - [Lifehacker] [Tolkien Elvish, Na&#39;Vi, and 10 Other Fictional Languages You Can Learn for Some Reason](https://lifehacker.com/tolkien-elvish-navi-and-10-other-fictional-languages-1849453429)
 - [Lifehacker] [Make a Time Capsule With Radical Honesty](https://lifehacker.com/make-a-time-capsule-with-radical-honesty-1849454951)
 - [Lifehacker] [This Free App Alerts You Whenever Google Collects Your Browsing Data](https://lifehacker.com/this-free-app-alerts-you-whenever-google-collects-your-1849453277)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Financial Lessons From the Great Depression We Can All Use Today](https://lifehacker.com/financial-lessons-from-the-great-depression-we-can-all-1849450829)
 - [Lifehacker] [You Can Make Many Pasta Shapes From Just One](https://lifehacker.com/you-can-make-many-pasta-shapes-from-just-one-1849448829)
 - [Lifehacker] [Never Ignore These Types of Back Pain](https://lifehacker.com/never-ignore-these-types-of-back-pain-1849447675)
-- [Lifehacker] [What&#39;s New on Netflix in September 2022](https://lifehacker.com/whats-new-on-netflix-in-september-2022-1849451291)
-- [Lifehacker] [Calculate Your Car&#39;s &#39;Miles Per Dollar&#39; Instead of Miles Per Gallon](https://lifehacker.com/calculate-your-cars-miles-per-dollar-instead-of-miles-p-1849450845)
-- [Lifehacker] [How to Learn to Speak High Valyrian From &#39;Game of Thrones&#39;](https://lifehacker.com/how-to-learn-to-speak-high-valyrian-from-game-of-throne-1849448456)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in September 2022](https://lifehacker.com/whats-new-on-netflix-in-september-2022-1849451291)<!-- TECH-POSTS:END -->
 
 ---
 
