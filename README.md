@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bases de datos: operar con la base de datos - parte 2](https://dev.to/anfibiacreativa/bases-de-datos-operar-con-la-base-de-datos-parte-2-13b0)
+- [Dev.to/JS] [What Is The Best Way To Outsource Software Development?](https://dev.to/jay_b_/what-is-the-best-way-to-outsource-software-development-3l11)
+- [Dev.to/JS] [How I Created an Ecommerce App with Medusa and Ionic](https://dev.to/medusajs/how-i-created-an-ecommerce-app-with-medusa-and-ionic-2lkg)
 - [Dev.to/JS] [How to Create a Simple Strapi Plugin](https://dev.to/strapi/how-to-create-a-simple-strapi-plugin-3ane)
 - [Dev.to/JS] [Deno &amp; Hasura for app development](https://dev.to/adamrrudolf/deno-hasura-for-app-development-3ofc)
 - [Dev.to/JS] [Different JavaScript Frameworks to Learn !!! — A Complete Manual.](https://dev.to/areedev/different-javascript-frameworks-to-learn-a-complete-manual-4glc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to put data from RTK query into state slice in Redux toolkit](https://dev.to/neildegrassetyson/how-to-put-data-from-rtk-query-into-state-slice-in-redux-toolkit-2ihm)
 - [Dev.to/JS] [The Butterfly Effect - How we gave the linter a 100x boost](https://dev.to/nx/the-butterfly-effect-how-we-gave-the-linter-a-100x-boost-4nl9)
 - [Dev.to/JS] [Get Help in your Math Exam](https://dev.to/hannahshah/get-help-in-your-math-exam-235g)
-- [Dev.to/JS] [Episode 6 Direct Uploads in Ruby on Rails](https://dev.to/timnans/episode-6-direct-uploads-in-ruby-on-rails-22e6)
-- [Dev.to/JS] [Think Like a Coder](https://dev.to/ericahashert/think-like-a-coder-36h9)
-- [Dev.to/JS] [Methods as props reactjs](https://dev.to/krishna_kriss/methods-as-props-reactjs-2908)
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
