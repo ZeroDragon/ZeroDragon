@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Built-In Iterator Methods and Their Advantages in React and Javascript](https://dev.to/bear2927/iterator-methods-and-their-advantages-in-react-and-javascript-535d)
+- [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
 - [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
 - [Lifehacker] [Put Some Chili Peppers in Your Crappy Pink Wine](https://lifehacker.com/put-some-chili-peppers-in-your-shitty-pink-wine-1849458441)
-- [Dev.to/JS] [JavaScript: Regular Expressions](https://dev.to/rosiequ/javascript-regular-expressions-bda)
+- [Dev.to/JS] [JavaScript: String Method](https://dev.to/rosiequ/javascript-regular-expressions-bda)
 - [Dev.to/JS] [React Draggable List - Without any library - Using Drag events](https://dev.to/veewebcode/react-draggable-list-without-any-library-using-drag-events-4pdc)
 - [Lifehacker] [How Much Your Plants Will Really Cost You Over Time](https://lifehacker.com/how-much-your-plants-will-really-cost-you-over-time-1849457189)
 - [Lifehacker] [What’s the Difference Between a Recession and a Depression?](https://lifehacker.com/what-s-the-difference-between-a-recession-and-a-depress-1849458251)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get All Substrings](https://dev.to/zeeshanali0704/get-all-substrings-5c9h)
 - [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)
 - [Dev.to/JS] [Callback Functions 📞 : Here to help](https://dev.to/rachelmullen/callback-functions-here-to-help-2h04)
-- [Dev.to/JS] [Tech Notes](https://dev.to/harshitpaneri/tech-notes-4dp5)
 - [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)
 - [Lifehacker] [The Best &lpar;and Easiest&rpar; Alternatives to the Aperol Spritz](https://lifehacker.com/the-best-and-easiest-alternatives-to-the-aperol-sprit-1849449968)
 - [Lifehacker] [How to Improve Communication in Your Relationship](https://lifehacker.com/how-to-improve-communication-in-your-relationship-1849453668)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Should I Do With My Old Phone?](https://lifehacker.com/what-should-i-do-with-my-old-phone-1849451799)
 - [Lifehacker] [Your Meat Spreads Need a Tangy Jam](https://lifehacker.com/your-meat-spreads-need-a-tangy-jam-1849452540)
 - [Lifehacker] [What&#39;s New on Paramount+ in September 2022](https://lifehacker.com/whats-new-on-paramount-in-september-2022-1849451918)
-- [Lifehacker] [This Is How Much It&#39;ll Cost to Fix Your Own MacBook](https://lifehacker.com/this-is-how-much-itll-cost-to-fix-your-own-macbook-1849450931)
-- [Lifehacker] [How to Calculate the Real Unemployment Rate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-calculate-the-real-unemployment-rate-and-why-it-1849447911)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is How Much It&#39;ll Cost to Fix Your Own MacBook](https://lifehacker.com/this-is-how-much-itll-cost-to-fix-your-own-macbook-1849450931)<!-- TECH-POSTS:END -->
 
 ---
 
