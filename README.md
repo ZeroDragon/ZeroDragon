@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Maze of Twisty Little Cubicles](https://dev.to/rmion/a-maze-of-twisty-little-cubicles-47n4)
+- [Dev.to/JS] [Core JavaScript: Primitive vs. Non-primitive Data Types](https://dev.to/ioanat94/core-javascript-primitive-vs-non-primitive-data-types-m3m)
+- [Lifehacker] [This Free App Alerts You Whenever Google Collects Your Browsing Data](https://lifehacker.com/this-free-app-alerts-you-whenever-google-collects-your-1849453277)
+- [Dev.to/JS] [Guide To Effective JavaScript Debugging](https://dev.to/essomia/guide-to-effective-javascript-debugging-354h)
+- [Lifehacker] [Why Over-the-Counter Hearing Aids Are Such a Big Deal](https://lifehacker.com/why-over-the-counter-hearing-aids-are-such-a-big-deal-1849452915)
+- [Lifehacker] [You Should Air Fry Your Peaches](https://lifehacker.com/you-should-air-fry-your-peaches-1849454679)
 - [Dev.to/JS] [Bases de datos: operar con la base de datos - parte 2](https://dev.to/anfibiacreativa/bases-de-datos-operar-con-la-base-de-datos-parte-2-13b0)
+- [Dev.to/JS] [Making cross browser compatible Vue.Js Apps and the challenges involved](https://dev.to/subhamsaxena/twitterlinkedinmaking-cross-browser-compatible-vuejs-apps-and-the-challenges-involved-5da7)
 - [Dev.to/JS] [What Is The Best Way To Outsource Software Development?](https://dev.to/jay_b_/what-is-the-best-way-to-outsource-software-development-3l11)
 - [Dev.to/JS] [How I Created an Ecommerce App with Medusa and Ionic](https://dev.to/medusajs/how-i-created-an-ecommerce-app-with-medusa-and-ionic-2lkg)
 - [Dev.to/JS] [How to Create a Simple Strapi Plugin](https://dev.to/strapi/how-to-create-a-simple-strapi-plugin-3ane)
@@ -31,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Different JavaScript Frameworks to Learn !!! — A Complete Manual.](https://dev.to/areedev/different-javascript-frameworks-to-learn-a-complete-manual-4glc)
 - [Dev.to/JS] [Setup Jasmine testing Framework in Node JS | a step by step guide](https://dev.to/ivadyhabimana/setup-jasmine-testing-framework-in-node-js-a-step-by-step-guide-50kg)
 - [Dev.to/JS] [Usando variáveis de ambiente em Node.js &lpar;.env &rpar;](https://dev.to/pauloricardoz/usando-variaveis-de-ambiente-em-nodejs-env--4ioi)
-- [Dev.to/JS] [LeetCode - Permutations](https://dev.to/_alkesh26/leetcode-permutations-3cnj)
-- [Dev.to/JS] [How to put data from RTK query into state slice in Redux toolkit](https://dev.to/neildegrassetyson/how-to-put-data-from-rtk-query-into-state-slice-in-redux-toolkit-2ihm)
-- [Dev.to/JS] [The Butterfly Effect - How we gave the linter a 100x boost](https://dev.to/nx/the-butterfly-effect-how-we-gave-the-linter-a-100x-boost-4nl9)
-- [Dev.to/JS] [Get Help in your Math Exam](https://dev.to/hannahshah/get-help-in-your-math-exam-235g)
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Often Should You Wash Your Pillows, Cushions, and Comforters?](https://lifehacker.com/how-often-should-you-wash-your-pillows-cushions-and-c-1849447049)
 - [Lifehacker] [MoviePass Is Ready for Its Closeup Again](https://lifehacker.com/moviepass-is-ready-for-its-closeup-again-1849447124)
 - [Lifehacker] [These Foods Are Safe to Eat Well Past Their &#39;Expiration Dates&#39;](https://lifehacker.com/these-foods-are-safe-to-eat-well-past-their-expiration-1849446847)
-- [Lifehacker] [These Ten U.S. Cities Are Safest From Natural Disasters](https://lifehacker.com/these-ten-u-s-cities-are-safest-from-natural-disasters-1849446131)
-- [Lifehacker] [What Do I Need to Know About Monkeypox?](https://lifehacker.com/what-do-i-need-to-know-about-monkeypox-1849446836)
-- [Lifehacker] [How to Use a Squat Rack Without Hurting Yourself](https://lifehacker.com/how-to-use-a-squat-rack-without-hurting-yourself-1849446997)
-- [Lifehacker] [This Is the Easiest Way to Fix a Runny Pan Sauce](https://lifehacker.com/this-is-the-easiest-way-to-fix-a-runny-pan-sauce-1849446978)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Ten U.S. Cities Are Safest From Natural Disasters](https://lifehacker.com/these-ten-u-s-cities-are-safest-from-natural-disasters-1849446131)<!-- TECH-POSTS:END -->
 
 ---
 
