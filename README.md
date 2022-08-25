@@ -23,10 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
+- [Lifehacker] [Put Some Chili Peppers in Your Crappy Pink Wine](https://lifehacker.com/put-some-chili-peppers-in-your-shitty-pink-wine-1849458441)
+- [Dev.to/JS] [JavaScript: Regular Expressions](https://dev.to/rosiequ/javascript-regular-expressions-bda)
+- [Dev.to/JS] [React Draggable List - Without any library - Using Drag events](https://dev.to/veewebcode/react-draggable-list-without-any-library-using-drag-events-4pdc)
 - [Lifehacker] [How Much Your Plants Will Really Cost You Over Time](https://lifehacker.com/how-much-your-plants-will-really-cost-you-over-time-1849457189)
 - [Lifehacker] [What’s the Difference Between a Recession and a Depression?](https://lifehacker.com/what-s-the-difference-between-a-recession-and-a-depress-1849458251)
 - [Dev.to/JS] [ReMaking Twitter - Part 1](https://dev.to/codesomething/remaking-twitter-part-1-50pj)
-- [Dev.to/JS] [How to make an event website with Eui](https://dev.to/britt_joiner/how-to-make-an-event-website-with-eui-30jc)
+- [Dev.to/JS] [How to make an event website with Eui and React](https://dev.to/britt_joiner/how-to-make-an-event-website-with-eui-30jc)
 - [Lifehacker] [Enable These Instagram Privacy Settings Right Now](https://lifehacker.com/enable-these-instagram-privacy-settings-right-now-1849456072)
 - [Dev.to/JS] [9 most effective methods for learning JavaScript &lpar;or any other language&rpar;](https://dev.to/aviyel/9-most-effective-methods-for-learning-javascript-or-any-other-language-1l)
 - [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)
 - [Dev.to/JS] [Callback Functions 📞 : Here to help](https://dev.to/rachelmullen/callback-functions-here-to-help-2h04)
 - [Dev.to/JS] [Tech Notes](https://dev.to/harshitpaneri/tech-notes-4dp5)
-- [Dev.to/JS] [Adding a Custom CSS menu to Slack](https://dev.to/f53/adding-a-custom-css-menu-to-slack-1090)
 - [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)
-- [Dev.to/JS] [Sending &lpar;form-&rpar;mails from static websites with Go](https://dev.to/wneessen/sending-form-mails-from-static-websites-with-go-2425)
 - [Lifehacker] [The Best &lpar;and Easiest&rpar; Alternatives to the Aperol Spritz](https://lifehacker.com/the-best-and-easiest-alternatives-to-the-aperol-sprit-1849449968)
 - [Lifehacker] [How to Improve Communication in Your Relationship](https://lifehacker.com/how-to-improve-communication-in-your-relationship-1849453668)
 - [Lifehacker] [11 of the Best Things You Can Plant in Your Garden This September](https://lifehacker.com/11-of-the-best-things-you-can-plant-in-your-garden-this-1849453269)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Meat Spreads Need a Tangy Jam](https://lifehacker.com/your-meat-spreads-need-a-tangy-jam-1849452540)
 - [Lifehacker] [What&#39;s New on Paramount+ in September 2022](https://lifehacker.com/whats-new-on-paramount-in-september-2022-1849451918)
 - [Lifehacker] [This Is How Much It&#39;ll Cost to Fix Your Own MacBook](https://lifehacker.com/this-is-how-much-itll-cost-to-fix-your-own-macbook-1849450931)
-- [Lifehacker] [How to Calculate the Real Unemployment Rate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-calculate-the-real-unemployment-rate-and-why-it-1849447911)
-- [Lifehacker] [Pakodas Are the Best Way to Use Up Summer Zucchini](https://lifehacker.com/pakodas-are-the-best-way-to-use-up-summer-zucchini-1849451153)
-- [Lifehacker] [Financial Lessons From the Great Depression We Can All Use Today](https://lifehacker.com/financial-lessons-from-the-great-depression-we-can-all-1849450829)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Calculate the Real Unemployment Rate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-calculate-the-real-unemployment-rate-and-why-it-1849447911)<!-- TECH-POSTS:END -->
 
 ---
 
