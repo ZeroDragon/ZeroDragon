@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js Tutorial - Sending Secret Messages with the Courier API](https://dev.to/shreythecray/nodejs-tutorial-sending-secret-messages-with-the-courier-api-n64)
 - [Dev.to/JS] [Creating Pop-Ups](https://dev.to/konstantinstanmeyer/creating-pop-ups-11om)
 - [Dev.to/JS] [Generate Paranthesis - I](https://dev.to/zeeshanali0704/generate-paranthesis-i-2ijo)
 - [Dev.to/JS] [JavaScript: Arrow functions](https://dev.to/cclintris/javascript-arrow-functions-2jgm)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An ultimate guide to the Vue 3 Composition API](https://dev.to/asayerio_techblog/an-ultimate-guide-to-the-vue-3-composition-api-5hlm)
 - [Dev.to/JS] [Introducing v-memo a new directive to improve your Vue 3 app performance](https://dev.to/zelig880/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance-i1n)
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
-- [Dev.to/JS] [Why the change](https://dev.to/kiranphillips/why-the-change-2fn7)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
 - [Lifehacker] [These Hyundai and Kia SUVs Are Being Recalled Because They Might Catch on Fire](https://lifehacker.com/these-hyundai-and-kia-suvs-are-being-recalled-because-t-1849452684)
