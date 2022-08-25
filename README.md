@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add Bootstrap 5 to Rails 6](https://dev.to/geyokoyama/add-bootstrap-5-to-rails-6-28p)
 - [Dev.to/JS] [Comprendiendo la recursividad](https://dev.to/marselit/comprendiendo-la-recursividad-3n1b)
 - [Dev.to/JS] [THE REAL DOM AND VIRTUAL DOM](https://dev.to/timmydee/the-real-dom-and-virtual-dom-4c50)
 - [Dev.to/JS] [How to send data from a child component to a parent component in react with rxjs?](https://dev.to/jafetmeza/how-to-send-data-from-a-child-component-to-a-parent-component-in-react-with-rxjs-3fc)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pakodas Are the Best Way to Use Up Summer Zucchini](https://lifehacker.com/pakodas-are-the-best-way-to-use-up-summer-zucchini-1849451153)
 - [Dev.to/JS] [JSON](https://dev.to/nikhilgautam090696/json-3c4e)
 - [Lifehacker] [Financial Lessons From the Great Depression We Can All Use Today](https://lifehacker.com/financial-lessons-from-the-great-depression-we-can-all-1849450829)
-- [Dev.to/JS] [Creating a simple Chrome extension using React-Js](https://dev.to/karthik_n/create-a-chrome-extensions-using-react-js-eib)
 - [Lifehacker] [You Can Make Many Pasta Shapes From Just One](https://lifehacker.com/you-can-make-many-pasta-shapes-from-just-one-1849448829)
 - [Lifehacker] [Never Ignore These Types of Back Pain](https://lifehacker.com/never-ignore-these-types-of-back-pain-1849447675)
 - [Lifehacker] [What&#39;s New on Netflix in September 2022](https://lifehacker.com/whats-new-on-netflix-in-september-2022-1849451291)
