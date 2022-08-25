@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Pop-Ups](https://dev.to/konstantinstanmeyer/creating-pop-ups-11om)
+- [Dev.to/JS] [Generate Paranthesis - I](https://dev.to/zeeshanali0704/generate-paranthesis-i-2ijo)
+- [Dev.to/JS] [JavaScript: Arrow functions](https://dev.to/cclintris/javascript-arrow-functions-2jgm)
+- [Dev.to/JS] [JavaScript: Event Loop](https://dev.to/cclintris/javascript-event-loop-4ha7)
 - [Dev.to/JS] [Add Bootstrap 5 to Rails 6](https://dev.to/geyokoyama/add-bootstrap-5-to-rails-6-28p)
 - [Dev.to/JS] [Comprendiendo la recursividad](https://dev.to/marselit/comprendiendo-la-recursividad-3n1b)
 - [Dev.to/JS] [THE REAL DOM AND VIRTUAL DOM](https://dev.to/timmydee/the-real-dom-and-virtual-dom-4c50)
@@ -33,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Dev.to/JS] [Why the change](https://dev.to/kiranphillips/why-the-change-2fn7)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
-- [Dev.to/JS] [Node Api Backend](https://dev.to/addipaul/node-api-backend-1abe)
-- [Dev.to/JS] [React Hooks with RxJS and Axios](https://dev.to/blove/react-hooks-with-rxjs-and-axios-d0a)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
-- [Dev.to/JS] [Making a toast component in svelte and sveltekit](https://dev.to/theether0/making-a-toast-component-in-svelte-and-sveltekit-4gpj)
 - [Lifehacker] [These Hyundai and Kia SUVs Are Being Recalled Because They Might Catch on Fire](https://lifehacker.com/these-hyundai-and-kia-suvs-are-being-recalled-because-t-1849452684)
 - [Lifehacker] [Time to Watch Another iPhone Commercial](https://lifehacker.com/time-to-watch-another-iphone-commercial-1849452112)
 - [Lifehacker] [What Should I Do With My Old Phone?](https://lifehacker.com/what-should-i-do-with-my-old-phone-1849451799)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How Much It&#39;ll Cost to Fix Your Own MacBook](https://lifehacker.com/this-is-how-much-itll-cost-to-fix-your-own-macbook-1849450931)
 - [Lifehacker] [How to Calculate the Real Unemployment Rate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-calculate-the-real-unemployment-rate-and-why-it-1849447911)
 - [Lifehacker] [Pakodas Are the Best Way to Use Up Summer Zucchini](https://lifehacker.com/pakodas-are-the-best-way-to-use-up-summer-zucchini-1849451153)
-- [Dev.to/JS] [JSON](https://dev.to/nikhilgautam090696/json-3c4e)
 - [Lifehacker] [Financial Lessons From the Great Depression We Can All Use Today](https://lifehacker.com/financial-lessons-from-the-great-depression-we-can-all-1849450829)
 - [Lifehacker] [You Can Make Many Pasta Shapes From Just One](https://lifehacker.com/you-can-make-many-pasta-shapes-from-just-one-1849448829)
 - [Lifehacker] [Never Ignore These Types of Back Pain](https://lifehacker.com/never-ignore-these-types-of-back-pain-1849447675)
