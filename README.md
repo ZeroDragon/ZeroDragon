@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animate Loading Indicator on Button With Vanilla Javascript](https://dev.to/momokid/animate-loading-indicator-on-button-with-vanilla-javascript-2k95)
+- [Dev.to/JS] [Golang perk series : underlying type #8](https://dev.to/projektorius96/golang-perk-series-underlying-type-8-5b76)
 - [Dev.to/JS] [Built-In Iterator Methods and Their Advantages in React and Javascript](https://dev.to/bear2927/iterator-methods-and-their-advantages-in-react-and-javascript-535d)
 - [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
 - [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interacting with form data using Next.js and Hygraph](https://dev.to/asayerio_techblog/interacting-with-form-data-using-nextjs-and-hygraph-3bph)
 - [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)
 - [Dev.to/JS] [Experiments &amp;&amp; Progress](https://dev.to/nessakodo/experiments-progress-4i6g)
-- [Dev.to/JS] [Get All Substrings](https://dev.to/zeeshanali0704/get-all-substrings-5c9h)
 - [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)
-- [Dev.to/JS] [Callback Functions 📞 : Here to help](https://dev.to/rachelmullen/callback-functions-here-to-help-2h04)
 - [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)
 - [Lifehacker] [The Best &lpar;and Easiest&rpar; Alternatives to the Aperol Spritz](https://lifehacker.com/the-best-and-easiest-alternatives-to-the-aperol-sprit-1849449968)
 - [Lifehacker] [How to Improve Communication in Your Relationship](https://lifehacker.com/how-to-improve-communication-in-your-relationship-1849453668)
