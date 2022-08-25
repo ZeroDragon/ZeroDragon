@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Think Like a Coder](https://dev.to/ericahashert/think-like-a-coder-36h9)
+- [Dev.to/JS] [Methods as props reactjs](https://dev.to/krishna_kriss/methods-as-props-reactjs-2908)
+- [Dev.to/JS] [How do I find good math exam help sites?](https://dev.to/abbybanks1/how-do-i-find-good-math-exam-help-sites-1gg6)
+- [Dev.to/JS] [Browser extensions - Icon action](https://dev.to/dailydevtips1/browser-extensions-icon-action-3cd5)
 - [Dev.to/JS] [A simple explanation of useEffect](https://dev.to/himanshupal0001/a-simple-explanation-of-useeffect-1pe1)
 - [Dev.to/JS] [Can Construct](https://dev.to/zeeshanali0704/can-construct-1g86)
 - [Dev.to/JS] [Node.js Tutorial - Sending Secret Messages with the Courier API](https://dev.to/shreythecray/nodejs-tutorial-sending-secret-messages-with-the-courier-api-n64)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: Arrow functions](https://dev.to/cclintris/javascript-arrow-functions-2jgm)
 - [Dev.to/JS] [JavaScript: Event Loop](https://dev.to/cclintris/javascript-event-loop-4ha7)
 - [Dev.to/JS] [Add Bootstrap 5 to Rails 6](https://dev.to/geyokoyama/add-bootstrap-5-to-rails-6-28p)
-- [Dev.to/JS] [Comprendiendo la recursividad](https://dev.to/marselit/comprendiendo-la-recursividad-3n1b)
-- [Dev.to/JS] [THE REAL DOM AND VIRTUAL DOM](https://dev.to/timmydee/the-real-dom-and-virtual-dom-4c50)
-- [Dev.to/JS] [How to send data from a child component to a parent component in react with rxjs?](https://dev.to/jafetmeza/how-to-send-data-from-a-child-component-to-a-parent-component-in-react-with-rxjs-3fc)
-- [Dev.to/JS] [Translate Subtitles using the LibreTranslate API](https://dev.to/asayerio_techblog/translate-subtitles-using-the-libretranslate-api-j0b)
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
