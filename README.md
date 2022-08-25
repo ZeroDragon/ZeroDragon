@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)
+- [Dev.to/JS] [Sending &lpar;form-&rpar;mails from static websites with Go](https://dev.to/wneessen/sending-form-mails-from-static-websites-with-go-2425)
+- [Lifehacker] [The Best &lpar;and Easiest&rpar; Alternatives to the Aperol Spritz](https://lifehacker.com/the-best-and-easiest-alternatives-to-the-aperol-sprit-1849449968)
+- [Dev.to/JS] [Color Thief 找出圖片裡的顏色](https://dev.to/letswrite/color-thief-zhao-chu-tu-pian-li-de-yan-se-6j4)
 - [Lifehacker] [How to Improve Communication in Your Relationship](https://lifehacker.com/how-to-improve-communication-in-your-relationship-1849453668)
 - [Dev.to/JS] [How we automated storybook documentation for our web components](https://dev.to/btopro/how-we-automated-storybook-documentation-for-our-web-components-52cb)
 - [Dev.to/JS] [Exceptions in Selenium: Complete Tutorial](https://dev.to/saravanandevaraj7/exceptions-in-selenium-complete-tutorial-26ei)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Air Fry Your Peaches](https://lifehacker.com/you-should-air-fry-your-peaches-1849454679)
 - [Dev.to/JS] [Bases de datos: operar con la base de datos - parte 2](https://dev.to/anfibiacreativa/bases-de-datos-operar-con-la-base-de-datos-parte-2-13b0)
 - [Dev.to/JS] [Making cross browser compatible Vue.Js Apps and the challenges involved](https://dev.to/subhamsaxena/twitterlinkedinmaking-cross-browser-compatible-vuejs-apps-and-the-challenges-involved-5da7)
-- [Dev.to/JS] [What Is The Best Way To Outsource Software Development?](https://dev.to/jay_b_/what-is-the-best-way-to-outsource-software-development-3l11)
-- [Dev.to/JS] [How I Created an Ecommerce App with Medusa and Ionic](https://dev.to/medusajs/how-i-created-an-ecommerce-app-with-medusa-and-ionic-2lkg)
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Calculate Your Car&#39;s &#39;Miles Per Dollar&#39; Instead of Miles Per Gallon](https://lifehacker.com/calculate-your-cars-miles-per-dollar-instead-of-miles-p-1849450845)
 - [Lifehacker] [How to Learn to Speak High Valyrian From &#39;Game of Thrones&#39;](https://lifehacker.com/how-to-learn-to-speak-high-valyrian-from-game-of-throne-1849448456)
 - [Lifehacker] [Your BLT Needs This Stealth Bacon](https://lifehacker.com/your-blt-needs-this-stealth-bacon-1849448203)
-- [Lifehacker] [What Is the Worst Parenting Mistake You&#39;ve Ever Made?](https://lifehacker.com/what-is-the-worst-parenting-mistake-youve-ever-made-1849445581)
-- [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
-- [Lifehacker] [Rubbing Oranges on Your Teeth, and Other Harmful Whitening ‘Hacks’](https://lifehacker.com/rubbing-oranges-on-your-teeth-and-other-whitening-hack-1849448087)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is the Worst Parenting Mistake You&#39;ve Ever Made?](https://lifehacker.com/what-is-the-worst-parenting-mistake-youve-ever-made-1849445581)<!-- TECH-POSTS:END -->
 
 ---
 
