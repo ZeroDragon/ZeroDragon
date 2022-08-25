@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Setup Jasmine testing Framework in Node JS | a step by step guide](https://dev.to/yvad60/setup-jasmine-testing-framework-in-node-js-a-step-by-step-guide-50kg)
+- [Dev.to/JS] [How to Create a Simple Strapi Plugin](https://dev.to/strapi/how-to-create-a-simple-strapi-plugin-3ane)
+- [Dev.to/JS] [Deno &amp; Hasura for app development](https://dev.to/adamrrudolf/deno-hasura-for-app-development-3ofc)
+- [Dev.to/JS] [Different JavaScript Frameworks to Learn !!! — A Complete Manual.](https://dev.to/areedev/different-javascript-frameworks-to-learn-a-complete-manual-4glc)
+- [Dev.to/JS] [Setup Jasmine testing Framework in Node JS | a step by step guide](https://dev.to/ivadyhabimana/setup-jasmine-testing-framework-in-node-js-a-step-by-step-guide-50kg)
 - [Dev.to/JS] [Usando variáveis de ambiente em Node.js &lpar;.env &rpar;](https://dev.to/pauloricardoz/usando-variaveis-de-ambiente-em-nodejs-env--4ioi)
 - [Dev.to/JS] [LeetCode - Permutations](https://dev.to/_alkesh26/leetcode-permutations-3cnj)
 - [Dev.to/JS] [How to put data from RTK query into state slice in Redux toolkit](https://dev.to/neildegrassetyson/how-to-put-data-from-rtk-query-into-state-slice-in-redux-toolkit-2ihm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Episode 6 Direct Uploads in Ruby on Rails](https://dev.to/timnans/episode-6-direct-uploads-in-ruby-on-rails-22e6)
 - [Dev.to/JS] [Think Like a Coder](https://dev.to/ericahashert/think-like-a-coder-36h9)
 - [Dev.to/JS] [Methods as props reactjs](https://dev.to/krishna_kriss/methods-as-props-reactjs-2908)
-- [Dev.to/JS] [How do I find good math exam help sites?](https://dev.to/abbybanks1/how-do-i-find-good-math-exam-help-sites-1gg6)
-- [Dev.to/JS] [Browser extensions - Icon action](https://dev.to/dailydevtips1/browser-extensions-icon-action-3cd5)
-- [Dev.to/JS] [A simple explanation of useEffect](https://dev.to/himanshupal0001/a-simple-explanation-of-useeffect-1pe1)
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
