@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to put data from RTK query into state slice in Redux toolkit](https://dev.to/neildegrassetyson/how-to-put-data-from-rtk-query-into-state-slice-in-redux-toolkit-2ihm)
+- [Dev.to/JS] [The Butterfly Effect - How we gave the linter a 100x boost](https://dev.to/nx/the-butterfly-effect-how-we-gave-the-linter-a-100x-boost-4nl9)
 - [Dev.to/JS] [Get Help in your Math Exam](https://dev.to/hannahshah/get-help-in-your-math-exam-235g)
 - [Dev.to/JS] [Episode 6 Direct Uploads in Ruby on Rails](https://dev.to/timnans/episode-6-direct-uploads-in-ruby-on-rails-22e6)
 - [Dev.to/JS] [Think Like a Coder](https://dev.to/ericahashert/think-like-a-coder-36h9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Can Construct](https://dev.to/zeeshanali0704/can-construct-1g86)
 - [Dev.to/JS] [Node.js Tutorial - Sending Secret Messages with the Courier API](https://dev.to/shreythecray/nodejs-tutorial-sending-secret-messages-with-the-courier-api-n64)
 - [Dev.to/JS] [Creating Pop-Ups](https://dev.to/konstantinstanmeyer/creating-pop-ups-11om)
-- [Dev.to/JS] [Generate Paranthesis - I](https://dev.to/zeeshanali0704/generate-paranthesis-i-2ijo)
-- [Dev.to/JS] [JavaScript: Arrow functions](https://dev.to/cclintris/javascript-arrow-functions-2jgm)
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
