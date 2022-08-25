@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get Help in your Math Exam](https://dev.to/hannahshah/get-help-in-your-math-exam-235g)
+- [Dev.to/JS] [Episode 6 Direct Uploads in Ruby on Rails](https://dev.to/timnans/episode-6-direct-uploads-in-ruby-on-rails-22e6)
 - [Dev.to/JS] [Think Like a Coder](https://dev.to/ericahashert/think-like-a-coder-36h9)
 - [Dev.to/JS] [Methods as props reactjs](https://dev.to/krishna_kriss/methods-as-props-reactjs-2908)
 - [Dev.to/JS] [How do I find good math exam help sites?](https://dev.to/abbybanks1/how-do-i-find-good-math-exam-help-sites-1gg6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Pop-Ups](https://dev.to/konstantinstanmeyer/creating-pop-ups-11om)
 - [Dev.to/JS] [Generate Paranthesis - I](https://dev.to/zeeshanali0704/generate-paranthesis-i-2ijo)
 - [Dev.to/JS] [JavaScript: Arrow functions](https://dev.to/cclintris/javascript-arrow-functions-2jgm)
-- [Dev.to/JS] [JavaScript: Event Loop](https://dev.to/cclintris/javascript-event-loop-4ha7)
-- [Dev.to/JS] [Add Bootstrap 5 to Rails 6](https://dev.to/geyokoyama/add-bootstrap-5-to-rails-6-28p)
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
