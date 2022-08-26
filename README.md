@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom React Hooks. What are they and how are they helpful?](https://dev.to/napoleon039/custom-react-hooks-what-are-they-and-how-are-they-helpful-p6h)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &lpar;Are?&rpar; Blackpink?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-a-1849460418)
+- [Dev.to/JS] [Usando Zustand con React JS! 🚀](https://dev.to/franklin030601/usando-zustand-con-react-js-33le)
+- [Dev.to/JS] [Using Zustand with React JS! 🚀](https://dev.to/franklin030601/using-zustand-with-react-js-9di)
+- [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)
 - [Dev.to/JS] [Building in CodeSandbox with Adewale &quot;Ace&quot; Abati](https://dev.to/codingcatdev/building-in-codesandbox-with-adewale-ace-abati-5a1p)
 - [Dev.to/JS] [Best way to implement linkedList in javascript](https://dev.to/brunoblaise/best-way-to-implement-linkedlist-in-javascript-2ojk)
 - [Dev.to/JS] [Qu’est-ce que le Big Data ?](https://dev.to/euro_tech_conseil_france/quest-ce-que-le-big-data--3d06)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 2.2.4 Released](https://dev.to/tsparticles/tsparticles-224-released-3dof)
 - [Dev.to/JS] [Creating a React search bar and content filtering components](https://dev.to/refine/creating-a-react-search-bar-and-content-filtering-components-2b1g)
 - [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)
-- [Dev.to/JS] [learn sliding window algorithm easily in Hindi | maximum sum subarray of size k with sliding window](https://dev.to/slimpython/learn-sliding-window-algorithm-easily-in-hindi-maximum-sum-subarray-of-size-k-with-sliding-window-7fd)
-- [Dev.to/JS] [Refactoring 008 - Convert Variables to Constant](https://dev.to/mcsee/refactoring-008-convert-variables-to-constant-4ahj)
-- [Dev.to/JS] [RustDesk is migrated from Sciter to Flutter](https://dev.to/rustdesk/rustdesk-is-migrated-from-sciter-to-flutter-279m)
 - [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
 - [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
 - [Lifehacker] [Put Some Chili Peppers in Your Crappy Pink Wine](https://lifehacker.com/put-some-chili-peppers-in-your-shitty-pink-wine-1849458441)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
 - [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
-- [Lifehacker] [These Hyundai and Kia SUVs Are Being Recalled Because They Might Catch on Fire](https://lifehacker.com/these-hyundai-and-kia-suvs-are-being-recalled-because-t-1849452684)
-- [Lifehacker] [Time to Watch Another iPhone Commercial](https://lifehacker.com/time-to-watch-another-iphone-commercial-1849452112)
-- [Lifehacker] [What Should I Do With My Old Phone?](https://lifehacker.com/what-should-i-do-with-my-old-phone-1849451799)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Hyundai and Kia SUVs Are Being Recalled Because They Might Catch on Fire](https://lifehacker.com/these-hyundai-and-kia-suvs-are-being-recalled-because-t-1849452684)<!-- TECH-POSTS:END -->
 
 ---
 
