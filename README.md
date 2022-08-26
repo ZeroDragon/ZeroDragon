@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Splice method in javascript](https://dev.to/shubhamtiwari909/splice-method-in-javascript-5e9p)
+- [Dev.to/JS] [Paracetamol.js💊| #184: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-184-explica-este-codigo-javascript-30nf)
+- [Dev.to/JS] [Balance Bots](https://dev.to/rmion/balance-bots-1nld)
+- [Lifehacker] [How to Start Having Sex Again](https://lifehacker.com/how-to-start-having-sex-again-1849457199)
+- [Dev.to/JS] [Game of Life](https://dev.to/thiagocolen/game-of-life-3emh)
 - [Dev.to/JS] [Custom React Hooks. What are they and how are they helpful?](https://dev.to/napoleon039/custom-react-hooks-what-are-they-and-how-are-they-helpful-p6h)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &lpar;Are?&rpar; Blackpink?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-a-1849460418)
 - [Dev.to/JS] [Usando Zustand con React JS! 🚀](https://dev.to/franklin030601/usando-zustand-con-react-js-33le)
@@ -34,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Precise Location Is Giving Your Coordinates Away to Apps](https://lifehacker.com/precise-location-is-giving-your-coordinates-away-to-app-1849458216)
 - [Dev.to/JS] [Get started with React Hook Form](https://dev.to/asayerio_techblog/get-started-with-react-hook-form-i2c)
 - [Dev.to/JS] [Integrating Bootstrap page templates into our React websites](https://dev.to/asayerio_techblog/integrating-bootstrap-page-templates-into-our-react-websites-31e7)
-- [Dev.to/JS] [Build an Awesome Barber Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/build-an-awesome-barber-website-using-html-css-javascript-pbl)
-- [Dev.to/JS] [𝗡𝗼𝗱𝗲 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 for macOS](https://dev.to/imhamad/for-macos-fhc)
 - [Lifehacker] [Why You Need a &#39;Digital Executor&#39;](https://lifehacker.com/why-you-need-a-digital-executor-1849458459)
-- [Dev.to/JS] [tsParticles 2.2.4 Released](https://dev.to/tsparticles/tsparticles-224-released-3dof)
-- [Dev.to/JS] [Creating a React search bar and content filtering components](https://dev.to/refine/creating-a-react-search-bar-and-content-filtering-components-2b1g)
 - [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)
 - [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
 - [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Air Fry Your Peaches](https://lifehacker.com/you-should-air-fry-your-peaches-1849454679)
 - [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
 - [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
-- [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)
-- [Lifehacker] [These Hyundai and Kia SUVs Are Being Recalled Because They Might Catch on Fire](https://lifehacker.com/these-hyundai-and-kia-suvs-are-being-recalled-because-t-1849452684)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)<!-- TECH-POSTS:END -->
 
 ---
 
