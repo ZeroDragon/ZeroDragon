@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Where did my data go? {React Router}](https://dev.to/allisonkim/where-did-my-data-go-react-router-4p59)
+- [Dev.to/JS] [How to use MapboxGL in Vue more elegantly](https://dev.to/chinesejar/how-to-use-mapboxgl-in-vue-more-elegantly-15ec)
 - [Dev.to/JS] [React- modularity and information flow](https://dev.to/lizrhodesss/react-modularity-and-information-flow-15g1)
 - [Dev.to/JS] [Breakdown of Declarative vs. Imperative programming](https://dev.to/chrispavla/breakdown-of-declarative-vs-imperative-programming-463d)
 - [Dev.to/JS] [Paracetamol.js💊| #183: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-183-explica-este-codigo-javascript-55j1)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReMaking Twitter - Part 1](https://dev.to/codesomething/remaking-twitter-part-1-50pj)
 - [Dev.to/JS] [How to make an event website with Eui and React](https://dev.to/britt_joiner/how-to-make-an-event-website-with-eui-30jc)
 - [Lifehacker] [Enable These Instagram Privacy Settings Right Now](https://lifehacker.com/enable-these-instagram-privacy-settings-right-now-1849456072)
-- [Dev.to/JS] [9 most effective methods for learning JavaScript &lpar;or any other language&rpar;](https://dev.to/aviyel/9-most-effective-methods-for-learning-javascript-or-any-other-language-1l)
 - [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)
-- [Dev.to/JS] [Low-Code Platforms- Have Complete Clarity](https://dev.to/ashukalbande/low-code-platforms-have-complete-clarity-1665)
 - [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)
 - [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)
 - [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)
