@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
+- [Lifehacker] [Five of the Most Underrated Fast Food Menu Items](https://lifehacker.com/five-of-the-most-underrated-fast-food-menu-items-1849462125)
+- [Dev.to/JS] [when do we actually use useEffect in react apps?](https://dev.to/erff_on/when-do-we-actually-use-useeffect-in-react-apps-5c50)
 - [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
 - [Dev.to/JS] [How to show the retrieved values from local storage in javascript when the browser window of the form is duplicated?](https://dev.to/bilalahmedts/how-to-show-the-retrieved-values-from-local-storage-in-javascript-when-the-browser-window-of-the-form-is-duplicated-p6m)
 - [Lifehacker] [The Best Ways to Spend &lpar;or Invest&rpar; That $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Game of Life](https://dev.to/thiagocolen/game-of-life-3emh)
 - [Dev.to/JS] [Custom React Hooks. What are they and how are they helpful?](https://dev.to/napoleon039/custom-react-hooks-what-are-they-and-how-are-they-helpful-p6h)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &lpar;Are?&rpar; Blackpink?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-a-1849460418)
-- [Dev.to/JS] [Usando Zustand con React JS! 🚀](https://dev.to/franklin030601/usando-zustand-con-react-js-33le)
 - [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)
 - [Lifehacker] [Precise Location Is Giving Your Coordinates Away to Apps](https://lifehacker.com/precise-location-is-giving-your-coordinates-away-to-app-1849458216)
 - [Lifehacker] [Why You Need a &#39;Digital Executor&#39;](https://lifehacker.com/why-you-need-a-digital-executor-1849458459)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)
 - [Lifehacker] [The Best &lpar;and Easiest&rpar; Alternatives to the Aperol Spritz](https://lifehacker.com/the-best-and-easiest-alternatives-to-the-aperol-sprit-1849449968)
 - [Lifehacker] [How to Improve Communication in Your Relationship](https://lifehacker.com/how-to-improve-communication-in-your-relationship-1849453668)
-- [Lifehacker] [11 of the Best Things You Can Plant in Your Garden This September](https://lifehacker.com/11-of-the-best-things-you-can-plant-in-your-garden-this-1849453269)
-- [Lifehacker] [Tolkien Elvish, Na&#39;Vi, and 10 Other Fictional Languages You Can Learn for Some Reason](https://lifehacker.com/tolkien-elvish-navi-and-10-other-fictional-languages-1849453429)
-- [Lifehacker] [Make a Time Capsule With Radical Honesty](https://lifehacker.com/make-a-time-capsule-with-radical-honesty-1849454951)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 of the Best Things You Can Plant in Your Garden This September](https://lifehacker.com/11-of-the-best-things-you-can-plant-in-your-garden-this-1849453269)<!-- TECH-POSTS:END -->
 
 ---
 
