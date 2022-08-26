@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I always use backticks for strings](https://dev.to/kaxmoglan/why-i-always-use-backticks-for-strings-3fbj)
 - [Dev.to/JS] [How to Create a Search Bar in React](https://dev.to/nicvazquez/how-to-create-a-search-bar-in-react-5h0g)
 - [Dev.to/JS] [Frontend developer roadmap for beginners](https://dev.to/maurerkrisztian/frontend-developer-roadmap-for-beginners-15c4)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how can i fix this issue](https://dev.to/ayoubelsvg/how-can-i-fix-this-issue-2l25)
 - [Lifehacker] [How to Build an Altoids Tin Survival Kit](https://lifehacker.com/how-to-build-an-altoids-tin-survival-kit-1849461946)
 - [Crazy Programmer] [Dynamic Initialization of Objects in C++](https://www.thecrazyprogrammer.com/2022/08/dynamic-initialization-of-objects-in-c.html)
-- [Dev.to/JS] [How to Deploy NextJS App on a VPS](https://dev.to/ranjan/how-to-deploy-nextjs-app-on-a-vps-13ji)
 - [Lifehacker] [What&#39;s New on HBO Max in September 2022](https://lifehacker.com/whats-new-on-hbo-max-in-september-2022-1849458808)
 - [Lifehacker] [DuckDuckGo Can Now Block Your Emails From Being Tracked](https://lifehacker.com/duckduckgo-can-now-block-your-emails-from-being-tracked-1849461485)
 - [Lifehacker] [How to Start Having Sex Again](https://lifehacker.com/how-to-start-having-sex-again-1849457199)
