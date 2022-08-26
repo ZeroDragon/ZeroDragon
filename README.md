@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
+- [Dev.to/JS] [How to show the retrieved values from local storage in javascript when the browser window of the form is duplicated?](https://dev.to/bilalahmedts/how-to-show-the-retrieved-values-from-local-storage-in-javascript-when-the-browser-window-of-the-form-is-duplicated-p6m)
+- [Lifehacker] [The Best Ways to Spend &lpar;or Invest&rpar; That $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
+- [Dev.to/JS] [how can i fix this issue](https://dev.to/ayoubelsvg/how-can-i-fix-this-issue-2l25)
 - [Lifehacker] [How to Build an Altoids Tin Survival Kit](https://lifehacker.com/how-to-build-an-altoids-tin-survival-kit-1849461946)
 - [Crazy Programmer] [Dynamic Initialization of Objects in C++](https://www.thecrazyprogrammer.com/2022/08/dynamic-initialization-of-objects-in-c.html)
 - [Dev.to/JS] [How to Deploy NextJS App on a VPS](https://dev.to/ranjan/how-to-deploy-nextjs-app-on-a-vps-13ji)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom React Hooks. What are they and how are they helpful?](https://dev.to/napoleon039/custom-react-hooks-what-are-they-and-how-are-they-helpful-p6h)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &lpar;Are?&rpar; Blackpink?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-a-1849460418)
 - [Dev.to/JS] [Usando Zustand con React JS! 🚀](https://dev.to/franklin030601/usando-zustand-con-react-js-33le)
-- [Dev.to/JS] [Using Zustand with React JS! 🚀](https://dev.to/franklin030601/using-zustand-with-react-js-9di)
 - [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)
-- [Dev.to/JS] [Building in CodeSandbox with Adewale &quot;Ace&quot; Abati](https://dev.to/codingcatdev/building-in-codesandbox-with-adewale-ace-abati-5a1p)
 - [Lifehacker] [Precise Location Is Giving Your Coordinates Away to Apps](https://lifehacker.com/precise-location-is-giving-your-coordinates-away-to-app-1849458216)
 - [Lifehacker] [Why You Need a &#39;Digital Executor&#39;](https://lifehacker.com/why-you-need-a-digital-executor-1849458459)
 - [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Improve Communication in Your Relationship](https://lifehacker.com/how-to-improve-communication-in-your-relationship-1849453668)
 - [Lifehacker] [11 of the Best Things You Can Plant in Your Garden This September](https://lifehacker.com/11-of-the-best-things-you-can-plant-in-your-garden-this-1849453269)
 - [Lifehacker] [Tolkien Elvish, Na&#39;Vi, and 10 Other Fictional Languages You Can Learn for Some Reason](https://lifehacker.com/tolkien-elvish-navi-and-10-other-fictional-languages-1849453429)
-- [Lifehacker] [Make a Time Capsule With Radical Honesty](https://lifehacker.com/make-a-time-capsule-with-radical-honesty-1849454951)
-- [Lifehacker] [This Free App Alerts You Whenever Google Collects Your Browsing Data](https://lifehacker.com/this-free-app-alerts-you-whenever-google-collects-your-1849453277)
-- [Lifehacker] [Why Over-the-Counter Hearing Aids Are Such a Big Deal](https://lifehacker.com/why-over-the-counter-hearing-aids-are-such-a-big-deal-1849452915)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Time Capsule With Radical Honesty](https://lifehacker.com/make-a-time-capsule-with-radical-honesty-1849454951)<!-- TECH-POSTS:END -->
 
 ---
 
