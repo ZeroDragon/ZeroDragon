@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Browser extensions - Popup page modifications](https://dev.to/dailydevtips1/browser-extensions-popup-page-modifications-2ji6)
+- [Dev.to/JS] [Understand Merkle Tree by making an NFT minting whitelist](https://dev.to/peterblockman/understand-merkle-tree-by-making-a-nft-minting-whitelist-1148)
 - [Dev.to/JS] [Returning Booleans](https://dev.to/jinchoo/returning-booleans-5ah8)
 - [Dev.to/JS] [Why JavaScript Promises are awesome](https://dev.to/methmi/why-javascript-promises-are-awesome-4obk)
 - [Dev.to/JS] [Where did my data go? {React Router}](https://dev.to/allisonkim/where-did-my-data-go-react-router-4p59)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
 - [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
 - [Lifehacker] [Put Some Chili Peppers in Your Crappy Pink Wine](https://lifehacker.com/put-some-chili-peppers-in-your-shitty-pink-wine-1849458441)
-- [Dev.to/JS] [JavaScript: String Method](https://dev.to/rosiequ/javascript-regular-expressions-bda)
-- [Dev.to/JS] [React Draggable List - Without any library - Using Drag events](https://dev.to/veewebcode/react-draggable-list-without-any-library-using-drag-events-4pdc)
 - [Lifehacker] [How Much Your Plants Will Really Cost You Over Time](https://lifehacker.com/how-much-your-plants-will-really-cost-you-over-time-1849457189)
 - [Lifehacker] [What’s the Difference Between a Recession and a Depression?](https://lifehacker.com/what-s-the-difference-between-a-recession-and-a-depress-1849458251)
 - [Lifehacker] [Enable These Instagram Privacy Settings Right Now](https://lifehacker.com/enable-these-instagram-privacy-settings-right-now-1849456072)
