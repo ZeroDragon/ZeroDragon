@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Returning Booleans](https://dev.to/jinchoo/returning-booleans-5ah8)
+- [Dev.to/JS] [Why JavaScript Promises are awesome](https://dev.to/methmi/why-javascript-promises-are-awesome-4obk)
 - [Dev.to/JS] [Where did my data go? {React Router}](https://dev.to/allisonkim/where-did-my-data-go-react-router-4p59)
 - [Dev.to/JS] [How to use MapboxGL in Vue more elegantly](https://dev.to/chinesejar/how-to-use-mapboxgl-in-vue-more-elegantly-15ec)
 - [Dev.to/JS] [React- modularity and information flow](https://dev.to/lizrhodesss/react-modularity-and-information-flow-15g1)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Draggable List - Without any library - Using Drag events](https://dev.to/veewebcode/react-draggable-list-without-any-library-using-drag-events-4pdc)
 - [Lifehacker] [How Much Your Plants Will Really Cost You Over Time](https://lifehacker.com/how-much-your-plants-will-really-cost-you-over-time-1849457189)
 - [Lifehacker] [What’s the Difference Between a Recession and a Depression?](https://lifehacker.com/what-s-the-difference-between-a-recession-and-a-depress-1849458251)
-- [Dev.to/JS] [ReMaking Twitter - Part 1](https://dev.to/codesomething/remaking-twitter-part-1-50pj)
-- [Dev.to/JS] [How to make an event website with Eui and React](https://dev.to/britt_joiner/how-to-make-an-event-website-with-eui-30jc)
 - [Lifehacker] [Enable These Instagram Privacy Settings Right Now](https://lifehacker.com/enable-these-instagram-privacy-settings-right-now-1849456072)
 - [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)
 - [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)
