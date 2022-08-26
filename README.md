@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React- modularity and information flow](https://dev.to/lizrhodesss/react-modularity-and-information-flow-15g1)
+- [Dev.to/JS] [Breakdown of Declarative vs. Imperative programming](https://dev.to/chrispavla/breakdown-of-declarative-vs-imperative-programming-463d)
 - [Dev.to/JS] [Paracetamol.js💊| #183: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-183-explica-este-codigo-javascript-55j1)
 - [Dev.to/JS] [Animate Loading Indicator on Button With Vanilla Javascript](https://dev.to/momokid/animate-loading-indicator-on-button-with-vanilla-javascript-2k95)
 - [Dev.to/JS] [Golang perk series : underlying type #8](https://dev.to/projektorius96/golang-perk-series-underlying-type-8-5b76)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)
 - [Dev.to/JS] [Low-Code Platforms- Have Complete Clarity](https://dev.to/ashukalbande/low-code-platforms-have-complete-clarity-1665)
 - [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)
-- [Dev.to/JS] [Typescript Series - Array Push Type](https://dev.to/sarmunbustillo/typescript-series-array-includes-type-3pl4)
-- [Dev.to/JS] [Interacting with form data using Next.js and Hygraph](https://dev.to/asayerio_techblog/interacting-with-form-data-using-nextjs-and-hygraph-3bph)
 - [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)
 - [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)
 - [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)
