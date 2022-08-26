@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build an Awesome Barber Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/build-an-awesome-barber-website-using-html-css-javascript-pbl)
+- [Dev.to/JS] [𝗡𝗼𝗱𝗲 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 for macOS](https://dev.to/imhamad/for-macos-fhc)
+- [Lifehacker] [Why You Need a &#39;Digital Executor&#39;](https://lifehacker.com/why-you-need-a-digital-executor-1849458459)
+- [Dev.to/JS] [tsParticles 2.2.4 Released](https://dev.to/tsparticles/tsparticles-224-released-3dof)
+- [Dev.to/JS] [Creating a React search bar and content filtering components](https://dev.to/refine/creating-a-react-search-bar-and-content-filtering-components-2b1g)
+- [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)
+- [Dev.to/JS] [learn sliding window algorithm easily in Hindi | maximum sum subarray of size k with sliding window](https://dev.to/slimpython/learn-sliding-window-algorithm-easily-in-hindi-maximum-sum-subarray-of-size-k-with-sliding-window-7fd)
+- [Dev.to/JS] [Refactoring 008 - Convert Variables to Constant](https://dev.to/mcsee/refactoring-008-convert-variables-to-constant-4ahj)
 - [Dev.to/JS] [RustDesk is migrated from Sciter to Flutter](https://dev.to/rustdesk/rustdesk-is-migrated-from-sciter-to-flutter-279m)
 - [Dev.to/JS] [Amazing JavaScript Games | Play Now](https://dev.to/herryjobn/amazing-javascript-games-play-now-3n73)
 - [Dev.to/JS] [How i write my resume as front end developer???](https://dev.to/ahmed_onour/how-i-write-my-resume-as-front-end-developer-13h6)
 - [Dev.to/JS] [Smtp services provider](https://dev.to/elaonharpher85/smtp-services-provider-1d9a)
 - [Dev.to/JS] [5 Ways Learning Data Science &amp; AI Can Help You Succeed In Your Career](https://dev.to/datascientist987/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career-12bn)
 - [Dev.to/JS] [YT channel recommondation for Redux toolkit](https://dev.to/himanshupal0001/yt-channel-recommondation-for-redux-toolkit-2ifo)
-- [Dev.to/JS] [JavaScript Loops](https://dev.to/aniksaha12/javascript-loops-4gdg)
-- [Dev.to/JS] [How to create image slider in React js/How to create Auto image slider in React js](https://dev.to/radhe65gupta/how-to-create-image-slider-in-react-jshow-to-create-auto-image-slider-in-react-js-5b4i)
-- [Dev.to/JS] [Browser extensions - Popup page modifications](https://dev.to/dailydevtips1/browser-extensions-popup-page-modifications-2ji6)
-- [Dev.to/JS] [Understand Merkle tree by making an NFT minting whitelist](https://dev.to/peterblockman/understand-merkle-tree-by-making-a-nft-minting-whitelist-1148)
-- [Dev.to/JS] [Returning Booleans](https://dev.to/jinchoo/returning-booleans-5ah8)
-- [Dev.to/JS] [Why JavaScript Promises are awesome](https://dev.to/methmi/why-javascript-promises-are-awesome-4obk)
 - [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
 - [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
 - [Lifehacker] [Put Some Chili Peppers in Your Crappy Pink Wine](https://lifehacker.com/put-some-chili-peppers-in-your-shitty-pink-wine-1849458441)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Hyundai and Kia SUVs Are Being Recalled Because They Might Catch on Fire](https://lifehacker.com/these-hyundai-and-kia-suvs-are-being-recalled-because-t-1849452684)
 - [Lifehacker] [Time to Watch Another iPhone Commercial](https://lifehacker.com/time-to-watch-another-iphone-commercial-1849452112)
 - [Lifehacker] [What Should I Do With My Old Phone?](https://lifehacker.com/what-should-i-do-with-my-old-phone-1849451799)
-- [Lifehacker] [Your Meat Spreads Need a Tangy Jam](https://lifehacker.com/your-meat-spreads-need-a-tangy-jam-1849452540)
-- [Lifehacker] [What&#39;s New on Paramount+ in September 2022](https://lifehacker.com/whats-new-on-paramount-in-september-2022-1849451918)
-- [Lifehacker] [This Is How Much It&#39;ll Cost to Fix Your Own MacBook](https://lifehacker.com/this-is-how-much-itll-cost-to-fix-your-own-macbook-1849450931)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Meat Spreads Need a Tangy Jam](https://lifehacker.com/your-meat-spreads-need-a-tangy-jam-1849452540)<!-- TECH-POSTS:END -->
 
 ---
 
