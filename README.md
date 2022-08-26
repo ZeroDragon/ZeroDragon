@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend developer roadmap for beginners](https://dev.to/maurerkrisztian/frontend-developer-roadmap-for-beginners-15c4)
+- [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
+- [Dev.to/JS] [Add React Input Form Mask &amp; Validation Features to Your Web App](https://dev.to/grapecity/add-react-input-form-mask-validation-features-to-your-web-app-48l6)
+- [Dev.to/JS] [Do &quot;Future you&quot; a favour and setup your &quot;indie project boilerplate&quot;](https://dev.to/jamespohalloran/do-future-you-a-favour-and-setup-your-indie-project-boilerplate-16j1)
+- [Dev.to/JS] [Using MongoDB with Node.js.](https://dev.to/backendbro/using-mongodb-with-nodejs-175l)
+- [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Dev.to/JS] [A first look at Bun: is it really 3x faster than Node.js and Deno?](https://dev.to/builderio/a-first-look-at-bun-is-it-really-3x-faster-than-nodejs-and-deno-45od)
 - [Dev.to/JS] [Github Timeline](https://dev.to/semanteo/github-timeline-26mb)
 - [Dev.to/JS] [Event Loop](https://dev.to/anandbiniya/event-loop-39a8)
@@ -37,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Dynamic Initialization of Objects in C++](https://www.thecrazyprogrammer.com/2022/08/dynamic-initialization-of-objects-in-c.html)
 - [Dev.to/JS] [How to Deploy NextJS App on a VPS](https://dev.to/ranjan/how-to-deploy-nextjs-app-on-a-vps-13ji)
 - [Dev.to/JS] [Typescript Series - Array Unshift Type](https://dev.to/sarmunbustillo/typescript-series-array-unshift-type-5c5e)
-- [Dev.to/JS] [How Many Fonts You Got?](https://dev.to/jakedapper/how-many-fonts-you-got-5824)
 - [Lifehacker] [What&#39;s New on HBO Max in September 2022](https://lifehacker.com/whats-new-on-hbo-max-in-september-2022-1849458808)
-- [Dev.to/JS] [📌 Live - Creating a Modern NPM Package](https://dev.to/clarkio/live-creating-a-modern-npm-package-1hj7)
 - [Lifehacker] [DuckDuckGo Can Now Block Your Emails From Being Tracked](https://lifehacker.com/duckduckgo-can-now-block-your-emails-from-being-tracked-1849461485)
-- [Dev.to/JS] [Splice method in javascript](https://dev.to/shubhamtiwari909/splice-method-in-javascript-5e9p)
-- [Dev.to/JS] [Paracetamol.js💊| #184: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-184-explica-este-codigo-javascript-30nf)
 - [Lifehacker] [How to Start Having Sex Again](https://lifehacker.com/how-to-start-having-sex-again-1849457199)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &lpar;Are?&rpar; Blackpink?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-a-1849460418)
 - [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)
 - [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)
 - [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)
-- [Lifehacker] [The Best &lpar;and Easiest&rpar; Alternatives to the Aperol Spritz](https://lifehacker.com/the-best-and-easiest-alternatives-to-the-aperol-sprit-1849449968)
-- [Lifehacker] [How to Improve Communication in Your Relationship](https://lifehacker.com/how-to-improve-communication-in-your-relationship-1849453668)
-- [Lifehacker] [11 of the Best Things You Can Plant in Your Garden This September](https://lifehacker.com/11-of-the-best-things-you-can-plant-in-your-garden-this-1849453269)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best &lpar;and Easiest&rpar; Alternatives to the Aperol Spritz](https://lifehacker.com/the-best-and-easiest-alternatives-to-the-aperol-sprit-1849449968)<!-- TECH-POSTS:END -->
 
 ---
 
