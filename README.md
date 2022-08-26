@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A first look at Bun: is it really 3x faster than Node.js and Deno?](https://dev.to/builderio/a-first-look-at-bun-is-it-really-3x-faster-than-nodejs-and-deno-45od)
+- [Dev.to/JS] [Github Timeline](https://dev.to/semanteo/github-timeline-26mb)
+- [Dev.to/JS] [Event Loop](https://dev.to/anandbiniya/event-loop-39a8)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
 - [Lifehacker] [Five of the Most Underrated Fast Food Menu Items](https://lifehacker.com/five-of-the-most-underrated-fast-food-menu-items-1849462125)
 - [Dev.to/JS] [when do we actually use useEffect in react apps?](https://dev.to/erff_on/when-do-we-actually-use-useeffect-in-react-apps-5c50)
@@ -40,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [DuckDuckGo Can Now Block Your Emails From Being Tracked](https://lifehacker.com/duckduckgo-can-now-block-your-emails-from-being-tracked-1849461485)
 - [Dev.to/JS] [Splice method in javascript](https://dev.to/shubhamtiwari909/splice-method-in-javascript-5e9p)
 - [Dev.to/JS] [Paracetamol.js💊| #184: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-184-explica-este-codigo-javascript-30nf)
-- [Dev.to/JS] [Balance Bots](https://dev.to/rmion/balance-bots-1nld)
 - [Lifehacker] [How to Start Having Sex Again](https://lifehacker.com/how-to-start-having-sex-again-1849457199)
-- [Dev.to/JS] [Game of Life](https://dev.to/thiagocolen/game-of-life-3emh)
-- [Dev.to/JS] [Custom React Hooks. What are they and how are they helpful?](https://dev.to/napoleon039/custom-react-hooks-what-are-they-and-how-are-they-helpful-p6h)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &lpar;Are?&rpar; Blackpink?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-a-1849460418)
 - [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)
 - [Lifehacker] [Precise Location Is Giving Your Coordinates Away to Apps](https://lifehacker.com/precise-location-is-giving-your-coordinates-away-to-app-1849458216)
