@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Build an Altoids Tin Survival Kit](https://lifehacker.com/how-to-build-an-altoids-tin-survival-kit-1849461946)
+- [Crazy Programmer] [Dynamic Initialization of Objects in C++](https://www.thecrazyprogrammer.com/2022/08/dynamic-initialization-of-objects-in-c.html)
+- [Dev.to/JS] [How to Deploy NextJS App on a VPS](https://dev.to/ranjan/how-to-deploy-nextjs-app-on-a-vps-13ji)
+- [Dev.to/JS] [Typescript Series - Array Unshift Type](https://dev.to/sarmunbustillo/typescript-series-array-unshift-type-5c5e)
+- [Dev.to/JS] [How Many Fonts You Got?](https://dev.to/jakedapper/how-many-fonts-you-got-5824)
+- [Lifehacker] [What&#39;s New on HBO Max in September 2022](https://lifehacker.com/whats-new-on-hbo-max-in-september-2022-1849458808)
+- [Dev.to/JS] [📌 Live - Creating a Modern NPM Package](https://dev.to/clarkio/live-creating-a-modern-npm-package-1hj7)
+- [Lifehacker] [DuckDuckGo Can Now Block Your Emails From Being Tracked](https://lifehacker.com/duckduckgo-can-now-block-your-emails-from-being-tracked-1849461485)
 - [Dev.to/JS] [Splice method in javascript](https://dev.to/shubhamtiwari909/splice-method-in-javascript-5e9p)
 - [Dev.to/JS] [Paracetamol.js💊| #184: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-184-explica-este-codigo-javascript-30nf)
 - [Dev.to/JS] [Balance Bots](https://dev.to/rmion/balance-bots-1nld)
@@ -34,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Zustand with React JS! 🚀](https://dev.to/franklin030601/using-zustand-with-react-js-9di)
 - [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)
 - [Dev.to/JS] [Building in CodeSandbox with Adewale &quot;Ace&quot; Abati](https://dev.to/codingcatdev/building-in-codesandbox-with-adewale-ace-abati-5a1p)
-- [Dev.to/JS] [Best way to implement linkedList in javascript](https://dev.to/brunoblaise/best-way-to-implement-linkedlist-in-javascript-2ojk)
-- [Dev.to/JS] [Qu’est-ce que le Big Data ?](https://dev.to/euro_tech_conseil_france/quest-ce-que-le-big-data--3d06)
 - [Lifehacker] [Precise Location Is Giving Your Coordinates Away to Apps](https://lifehacker.com/precise-location-is-giving-your-coordinates-away-to-app-1849458216)
-- [Dev.to/JS] [Get started with React Hook Form](https://dev.to/asayerio_techblog/get-started-with-react-hook-form-i2c)
-- [Dev.to/JS] [Integrating Bootstrap page templates into our React websites](https://dev.to/asayerio_techblog/integrating-bootstrap-page-templates-into-our-react-websites-31e7)
 - [Lifehacker] [Why You Need a &#39;Digital Executor&#39;](https://lifehacker.com/why-you-need-a-digital-executor-1849458459)
 - [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)
 - [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tolkien Elvish, Na&#39;Vi, and 10 Other Fictional Languages You Can Learn for Some Reason](https://lifehacker.com/tolkien-elvish-navi-and-10-other-fictional-languages-1849453429)
 - [Lifehacker] [Make a Time Capsule With Radical Honesty](https://lifehacker.com/make-a-time-capsule-with-radical-honesty-1849454951)
 - [Lifehacker] [This Free App Alerts You Whenever Google Collects Your Browsing Data](https://lifehacker.com/this-free-app-alerts-you-whenever-google-collects-your-1849453277)
-- [Lifehacker] [Why Over-the-Counter Hearing Aids Are Such a Big Deal](https://lifehacker.com/why-over-the-counter-hearing-aids-are-such-a-big-deal-1849452915)
-- [Lifehacker] [You Should Air Fry Your Peaches](https://lifehacker.com/you-should-air-fry-your-peaches-1849454679)
-- [Lifehacker] [The Easiest Ways to Learn All the Best Keyboard Shortcuts](https://lifehacker.com/the-easiest-ways-to-learn-all-the-best-keyboard-shortcu-1849450327)
-- [Lifehacker] [Here&#39;s All the Reddit Jargon Everyone Should Know](https://lifehacker.com/heres-all-the-reddit-jargon-everyone-should-know-1849451715)
-- [Lifehacker] [How to Find Out If You Have a Pell Grant](https://lifehacker.com/how-to-find-out-if-you-have-a-pell-grant-1849453465)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Over-the-Counter Hearing Aids Are Such a Big Deal](https://lifehacker.com/why-over-the-counter-hearing-aids-are-such-a-big-deal-1849452915)<!-- TECH-POSTS:END -->
 
 ---
 
