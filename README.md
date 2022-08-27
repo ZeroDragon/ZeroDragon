@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ah yes...React and it&#39;s Redux minions](https://dev.to/nandolofi/ah-yesreact-and-its-redux-minions-2go0)
+- [Dev.to/JS] [7 different ways of Looping in JavaScript with example.](https://dev.to/arman_aru/7-different-ways-of-looping-in-javascript-with-example-1g50)
 - [Dev.to/JS] [Quiz app in Next JS and Redis](https://dev.to/vingitonga/quiz-app-in-next-js-and-redis-4a63)
 - [Dev.to/JS] [Wondering Why should you use Next Js? Read This!](https://dev.to/devgrammer/wondering-why-should-you-use-next-js-read-this-2jb8)
 - [Dev.to/JS] [Disable website debugger and right click context menu using the unreadable code.](https://dev.to/neeswebservices/disable-website-debugger-and-right-click-context-menu-using-the-unreadable-code-3l1k)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shahinadev](https://dev.to/codewithshahin/shahinadev-4kl6)
 - [Dev.to/JS] [Prisma Data Platform Back-End Engineer](https://dev.to/remotecamphq/prisma-data-platform-back-end-engineer-4g0l)
 - [Dev.to/JS] [DON&#39;T TELL ME YOU DON&#39;T KNOW ABOUT THESE ONLINE TOOLS SELF DEVELOPERS USE!](https://dev.to/chizobaonorh/dont-tell-me-you-dont-know-about-these-tools-self-developers-use-38mg)
-- [Dev.to/JS] [React Native Latest Version Updates - 2022](https://dev.to/monicaacha2103/react-native-latest-version-updates-2022-2ach)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
-- [Dev.to/JS] [Things you should handle while making a web application as a Developer](https://dev.to/kalpesh1999/things-you-should-handle-while-making-a-web-application-as-a-developer-5fpe)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
