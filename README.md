@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Should be Your First Programming Language?](https://dev.to/imabhishekrao/what-should-be-your-first-programming-language-86g)
+- [Dev.to/JS] [Prima Weight Loss Capsules - Uses, Pros, Cons, Ingredients &amp; Price?](https://dev.to/primawe64451469/prima-weight-loss-capsules-uses-pros-cons-ingredients-price-3lb3)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;27-08-2022&rpar; - Actual red come cruelty](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-08-2022-actual-red-come-cruelty-59fm)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;27-08-2022&rpar; - Actual red come cruelty](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-08-2022-actual-red-come-cruelty-5dcb)
+- [Dev.to/JS] [What are Arrays? - Part I](https://dev.to/jinchoo/what-are-arrays-part-i-4346)
 - [Dev.to/JS] [The Modern Refresher to React Development in 2022](https://dev.to/eludadev/the-modern-refresher-to-react-development-in-2022-8ai)
 - [Dev.to/JS] [Hardware Projects for Engineering Students](https://dev.to/arunprakash142/hardware-projects-for-engineering-students-46ol)
 - [Dev.to/JS] [🚀𝗧𝗵𝗲 𝘀𝗶𝗺𝗽𝗹𝗲𝘀𝘁 𝘄𝗮𝘆 𝘁𝗼 𝗴𝗲𝘁 𝗹𝗲𝗻𝗴𝘁𝗵/𝘀𝗶𝘇𝗲 𝗼𝗳 𝗮𝗻 𝗼𝗯𝗷𝗲𝗰𝘁 𝗶𝗻 J𝗮𝘃𝗮S𝗰𝗿𝗶𝗽𝘁.](https://dev.to/areedev/-js-3klh)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The memory froth pillow also comes with a cooling](https://dev.to/donnas_trujillo/the-memory-froth-pillow-also-comes-with-a-cooling-5a6i)
 - [Dev.to/JS] [Random Meal Generator - #001 of #100Days100Projects](https://dev.to/darshanghorpade/random-meal-generator-001-of-100days100projects-3eo1)
 - [Dev.to/JS] [How to call a method or trigger a function from one component to another in Nuxt](https://dev.to/siumhossain/how-to-call-method-or-trigger-a-function-from-one-component-to-another-in-nuxt-26hh)
-- [Dev.to/JS] [What are Arrays? - Part I](https://dev.to/jinchoo/what-is-arrays-part-i-5o4)
-- [Dev.to/JS] [Browser extensions - Messaging](https://dev.to/dailydevtips1/browser-extensions-messaging-ha2)
-- [Dev.to/JS] [I&#39;ll code a TikTok video scrapper, so let me tell you why](https://dev.to/mariolemus/ill-code-a-tiktok-video-scrapper-so-let-me-tell-you-why-1mn8)
-- [Dev.to/JS] [Building GamifyMe - Redis x Dev Hackathon [Update - 0]](https://dev.to/devanm21/update-0-530c)
-- [Dev.to/JS] [Javascript Tagalog - Math.trunc](https://dev.to/mmvergara/javascript-tagalog-mathtrunc-nib)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
