@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
+- [Dev.to/JS] [Slicing Array in Javascript](https://dev.to/shubhamtiwari909/slicing-array-in-javascript-4lne)
+- [Dev.to/JS] [Strive for a minimum required state in a React component](https://dev.to/smlka/strive-for-a-minimum-required-state-in-a-react-component-mk2)
+- [Dev.to/JS] [Why do startups pursue ICOs? The part of economic drivers and social identity on funding choice](https://dev.to/thecryptoapeo/why-do-startups-pursue-icos-the-part-of-economic-drivers-and-social-identity-on-funding-choice-2l55)
 - [Dev.to/JS] [Symbols in JavaScript](https://dev.to/divyanshchahar/symbols-in-javascript-4omm)
 - [Dev.to/JS] [Data Types in JavaScript](https://dev.to/divyanshchahar/data-types-in-javascript-1fk1)
 - [Dev.to/JS] [Sitemaps - An Untold Story #shorts](https://dev.to/shreyvijayvargiya/sitemaps-an-untold-story-shorts-5b22)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Should be Your First Programming Language?](https://dev.to/imabhishekrao/what-should-be-your-first-programming-language-86g)
 - [Dev.to/JS] [Prima Weight Loss Capsules - Uses, Pros, Cons, Ingredients &amp; Price?](https://dev.to/primawe64451469/prima-weight-loss-capsules-uses-pros-cons-ingredients-price-3lb3)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;27-08-2022&rpar; - Actual red come cruelty](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-08-2022-actual-red-come-cruelty-59fm)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;27-08-2022&rpar; - Actual red come cruelty](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-08-2022-actual-red-come-cruelty-5dcb)
-- [Dev.to/JS] [What are Arrays? - Part I](https://dev.to/jinchoo/what-are-arrays-part-i-4346)
-- [Dev.to/JS] [Hardware Projects for Engineering Students](https://dev.to/arunprakash142/hardware-projects-for-engineering-students-46ol)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)
 - [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)
 - [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)
-- [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)
-- [Lifehacker] [The Best &lpar;and Easiest&rpar; Alternatives to the Aperol Spritz](https://lifehacker.com/the-best-and-easiest-alternatives-to-the-aperol-sprit-1849449968)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)<!-- TECH-POSTS:END -->
 
 ---
 
