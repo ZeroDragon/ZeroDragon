@@ -24,7 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
-- [Dev.to/JS] [Slicing Array in Javascript](https://dev.to/shubhamtiwari909/slicing-array-in-javascript-4lne)
+- [Dev.to/JS] [Slicing in Javascript](https://dev.to/shubhamtiwari909/slicing-array-in-javascript-4lne)
 - [Dev.to/JS] [Strive for a minimum required state in a React component](https://dev.to/smlka/strive-for-a-minimum-required-state-in-a-react-component-mk2)
 - [Dev.to/JS] [Why do startups pursue ICOs? The part of economic drivers and social identity on funding choice](https://dev.to/thecryptoapeo/why-do-startups-pursue-icos-the-part-of-economic-drivers-and-social-identity-on-funding-choice-2l55)
 - [Dev.to/JS] [Symbols in JavaScript](https://dev.to/divyanshchahar/symbols-in-javascript-4omm)
