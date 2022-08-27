@@ -25,6 +25,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [ELI5ing LeetCode : Minimum Size Subarray Sum](https://dev.to/jamesmawalker/eli5ing-leetcode-minimum-size-subarray-sum-403h)
 - [Dev.to/JS] [Display Current Time Using HTML,CSS And JavaScript](https://dev.to/w3hubs/display-current-time-using-htmlcss-and-javascript-5b66)
+- [Dev.to/JS] [Real-time Poll app built using Redis, Node and WebSocket](https://dev.to/ashiqsultan/real-time-poll-app-built-using-redis-node-and-websocket-md4)
 - [Dev.to/JS] [Hey! Welcome ME](https://dev.to/charumehta0215/hey-welcome-me-m0h)
 - [Dev.to/JS] [Shahinadev](https://dev.to/codewithshahin/shahinadev-4kl6)
 - [Dev.to/JS] [Prisma Data Platform Back-End Engineer](https://dev.to/remotecamphq/prisma-data-platform-back-end-engineer-4g0l)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducción a los archivos .env](https://dev.to/khriztianmoreno/introduccion-a-los-archivos-env-3e2f)
 - [Dev.to/JS] [What I Learned From 1 Year as a Software Developer](https://dev.to/emmanuilsb/what-i-learned-from-1-year-as-a-software-developer-3f6g)
 - [Dev.to/JS] [Numeric Separator In JavaScript](https://dev.to/capscode/numeric-separator-in-javascript-3ejn)
-- [Dev.to/JS] [GitHub adds more security enhancements to npm](https://dev.to/shshank/github-adds-more-security-enhancements-to-npm-439b)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
