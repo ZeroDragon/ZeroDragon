@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building GamifyMe - Redis x Dev Hackathon [Update - 0]](https://dev.to/devanm21/update-0-530c)
 - [Dev.to/JS] [Javascript Tagalog - Math.trunc](https://dev.to/mmvergara/javascript-tagalog-mathtrunc-nib)
 - [Dev.to/JS] [Javascript Tagalog - Math.ceil](https://dev.to/mmvergara/javascript-tagalog-mathceil-38i4)
 - [Dev.to/JS] [Javascript Tagalog - Math.max](https://dev.to/mmvergara/javascript-tagalog-mathmax-53ak)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do &quot;Future you&quot; a favour and setup your &quot;indie project boilerplate&quot;](https://dev.to/jamespohalloran/do-future-you-a-favour-and-setup-your-indie-project-boilerplate-16j1)
 - [Dev.to/JS] [Using MongoDB with Node.js.](https://dev.to/backendbro/using-mongodb-with-nodejs-175l)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
-- [Dev.to/JS] [A first look at Bun: is it really 3x faster than Node.js and Deno?](https://dev.to/builderio/a-first-look-at-bun-is-it-really-3x-faster-than-nodejs-and-deno-45od)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
 - [Lifehacker] [Five of the Most Underrated Fast Food Menu Items](https://lifehacker.com/five-of-the-most-underrated-fast-food-menu-items-1849462125)
 - [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
