@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Symbols in JavaScript](https://dev.to/divyanshchahar/symbols-in-javascript-4omm)
+- [Dev.to/JS] [Data Types in JavaScript](https://dev.to/divyanshchahar/data-types-in-javascript-1fk1)
 - [Dev.to/JS] [Sitemaps - An Untold Story #shorts](https://dev.to/shreyvijayvargiya/sitemaps-an-untold-story-shorts-5b22)
 - [Dev.to/JS] [About Me in a nutshell](https://dev.to/arman_aru/about-me-in-a-nutshell-jka)
 - [Dev.to/JS] [Quick look at Supabase, best Firebase&#39;s alternative](https://dev.to/guillaumeduhan/quick-look-at-supabase-best-firebases-alternative-5gki)
@@ -32,9 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;27-08-2022&rpar; - Actual red come cruelty](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-08-2022-actual-red-come-cruelty-59fm)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;27-08-2022&rpar; - Actual red come cruelty](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-08-2022-actual-red-come-cruelty-5dcb)
 - [Dev.to/JS] [What are Arrays? - Part I](https://dev.to/jinchoo/what-are-arrays-part-i-4346)
-- [Dev.to/JS] [The Modern Refresher to React Development in 2022](https://dev.to/eludadev/the-modern-refresher-to-react-development-in-2022-8ai)
 - [Dev.to/JS] [Hardware Projects for Engineering Students](https://dev.to/arunprakash142/hardware-projects-for-engineering-students-46ol)
-- [Dev.to/JS] [🚀𝗧𝗵𝗲 𝘀𝗶𝗺𝗽𝗹𝗲𝘀𝘁 𝘄𝗮𝘆 𝘁𝗼 𝗴𝗲𝘁 𝗹𝗲𝗻𝗴𝘁𝗵/𝘀𝗶𝘇𝗲 𝗼𝗳 𝗮𝗻 𝗼𝗯𝗷𝗲𝗰𝘁 𝗶𝗻 J𝗮𝘃𝗮S𝗰𝗿𝗶𝗽𝘁.](https://dev.to/areedev/-js-3klh)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
