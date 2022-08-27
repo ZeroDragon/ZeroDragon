@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub adds more security enhancements to npm](https://dev.to/shshank/github-adds-more-security-enhancements-to-npm-439b)
+- [Dev.to/JS] [Mapear e Filtrar dados de uma API com ReactJS e Java Script!](https://dev.to/guillerbr/mapear-e-filtrar-dados-de-uma-api-com-reactjs-e-java-script-11m4)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Dev.to/JS] [Explosives in Cyberspace](https://dev.to/rmion/explosives-in-cyberspace-mph)
 - [Dev.to/JS] [Angular Material, Everything That it Has to Offer](https://dev.to/omerko96/angular-material-everything-that-it-has-to-offer-27dh)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Types in JavaScript](https://dev.to/divyanshchahar/data-types-in-javascript-1fk1)
 - [Dev.to/JS] [Sitemaps - An Untold Story #shorts](https://dev.to/shreyvijayvargiya/sitemaps-an-untold-story-shorts-5b22)
 - [Dev.to/JS] [About Me in a nutshell](https://dev.to/arman_aru/about-me-in-a-nutshell-jka)
-- [Dev.to/JS] [Quick look at Supabase, best Firebase&#39;s alternative](https://dev.to/guillaumeduhan/quick-look-at-supabase-best-firebases-alternative-5gki)
-- [Dev.to/JS] [[Redis Hackathon] Koochikok &lpar;URL Shortener&rpar;](https://dev.to/mhmda83/redis-hackathon-koochikok-url-shortener-33h1)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
