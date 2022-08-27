@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Arrays? - Part I](https://dev.to/jinchoo/what-is-arrays-part-i-5o4)
+- [Dev.to/JS] [Browser extensions - Messaging](https://dev.to/dailydevtips1/browser-extensions-messaging-ha2)
 - [Dev.to/JS] [I&#39;ll code a TikTok video scrapper, so let me tell you why](https://dev.to/mariolemus/ill-code-a-tiktok-video-scrapper-so-let-me-tell-you-why-1mn8)
 - [Dev.to/JS] [Building GamifyMe - Redis x Dev Hackathon [Update - 0]](https://dev.to/devanm21/update-0-530c)
 - [Dev.to/JS] [Javascript Tagalog - Math.trunc](https://dev.to/mmvergara/javascript-tagalog-mathtrunc-nib)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a Search Bar in React](https://dev.to/nicvazquez/how-to-create-a-search-bar-in-react-5h0g)
 - [Dev.to/JS] [Frontend developer roadmap for beginners](https://dev.to/maurerkrisztian/frontend-developer-roadmap-for-beginners-15c4)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
-- [Dev.to/JS] [Add React Input Form Mask &amp; Validation Features to Your Web App](https://dev.to/grapecity/add-react-input-form-mask-validation-features-to-your-web-app-48l6)
-- [Dev.to/JS] [Do &quot;Future you&quot; a favour and setup your &quot;indie project boilerplate&quot;](https://dev.to/jamespohalloran/do-future-you-a-favour-and-setup-your-indie-project-boilerplate-16j1)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
 - [Lifehacker] [Five of the Most Underrated Fast Food Menu Items](https://lifehacker.com/five-of-the-most-underrated-fast-food-menu-items-1849462125)
