@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
+- [Dev.to/JS] [Explosives in Cyberspace](https://dev.to/rmion/explosives-in-cyberspace-mph)
+- [Dev.to/JS] [Angular Material, Everything That it Has to Offer](https://dev.to/omerko96/angular-material-everything-that-it-has-to-offer-27dh)
+- [Dev.to/JS] [Ecommerce Website Builder](https://dev.to/mushfikanahian/ecommerce-website-builder-1edp)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
 - [Dev.to/JS] [Slicing in Javascript](https://dev.to/shubhamtiwari909/slicing-array-in-javascript-4lne)
 - [Dev.to/JS] [Strive for a minimum required state in a React component](https://dev.to/smlka/strive-for-a-minimum-required-state-in-a-react-component-mk2)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [About Me in a nutshell](https://dev.to/arman_aru/about-me-in-a-nutshell-jka)
 - [Dev.to/JS] [Quick look at Supabase, best Firebase&#39;s alternative](https://dev.to/guillaumeduhan/quick-look-at-supabase-best-firebases-alternative-5gki)
 - [Dev.to/JS] [[Redis Hackathon] Koochikok &lpar;URL Shortener&rpar;](https://dev.to/mhmda83/redis-hackathon-koochikok-url-shortener-33h1)
-- [Dev.to/JS] [What Should be Your First Programming Language?](https://dev.to/imabhishekrao/what-should-be-your-first-programming-language-86g)
-- [Dev.to/JS] [Prima Weight Loss Capsules - Uses, Pros, Cons, Ingredients &amp; Price?](https://dev.to/primawe64451469/prima-weight-loss-capsules-uses-pros-cons-ingredients-price-3lb3)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;27-08-2022&rpar; - Actual red come cruelty](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-08-2022-actual-red-come-cruelty-59fm)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)
 - [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)
 - [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)
-- [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)
-- [Lifehacker] [The Best Over-the-Counter Remedy For Scromiting](https://lifehacker.com/the-best-over-the-counter-remedy-for-scromiting-1849455510)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)<!-- TECH-POSTS:END -->
 
 ---
 
