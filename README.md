@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ELI5ing LeetCode : Minimum Size Subarray Sum](https://dev.to/jamesmawalker/eli5ing-leetcode-minimum-size-subarray-sum-403h)
+- [Dev.to/JS] [Display Current Time Using HTML,CSS And JavaScript](https://dev.to/w3hubs/display-current-time-using-htmlcss-and-javascript-5b66)
+- [Dev.to/JS] [Hey! Welcome ME](https://dev.to/charumehta0215/hey-welcome-me-m0h)
+- [Dev.to/JS] [Shahinadev](https://dev.to/codewithshahin/shahinadev-4kl6)
+- [Dev.to/JS] [Prisma Data Platform Back-End Engineer](https://dev.to/remotecamphq/prisma-data-platform-back-end-engineer-4g0l)
 - [Dev.to/JS] [DON&#39;T TELL ME YOU DON&#39;T KNOW ABOUT THESE ONLINE TOOLS SELF DEVELOPERS USE!](https://dev.to/chizobaonorh/dont-tell-me-you-dont-know-about-these-tools-self-developers-use-38mg)
 - [Dev.to/JS] [React Native Latest Version Updates - 2022](https://dev.to/monicaacha2103/react-native-latest-version-updates-2022-2ach)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
@@ -31,13 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What I Learned From 1 Year as a Software Developer](https://dev.to/emmanuilsb/what-i-learned-from-1-year-as-a-software-developer-3f6g)
 - [Dev.to/JS] [Numeric Separator In JavaScript](https://dev.to/capscode/numeric-separator-in-javascript-3ejn)
 - [Dev.to/JS] [GitHub adds more security enhancements to npm](https://dev.to/shshank/github-adds-more-security-enhancements-to-npm-439b)
-- [Dev.to/JS] [Mapear e Filtrar dados de uma API com ReactJS e Java Script!](https://dev.to/guillerbr/mapear-e-filtrar-dados-de-uma-api-com-reactjs-e-java-script-11m4)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
-- [Dev.to/JS] [Explosives in Cyberspace](https://dev.to/rmion/explosives-in-cyberspace-mph)
-- [Dev.to/JS] [Angular Material, Everything That it Has to Offer](https://dev.to/omerko96/angular-material-everything-that-it-has-to-offer-27dh)
-- [Dev.to/JS] [Ecommerce Website Builder](https://dev.to/mushfikanahian/ecommerce-website-builder-1edp)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
-- [Dev.to/JS] [Slicing in Javascript](https://dev.to/shubhamtiwari909/slicing-array-in-javascript-4lne)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
