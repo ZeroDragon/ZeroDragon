@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Disable website debugger and right click context menu using the unreadable code.](https://dev.to/neeswebservices/disable-website-debugger-and-right-click-context-menu-using-the-unreadable-code-3l1k)
 - [Dev.to/JS] [ELI5ing LeetCode : Minimum Size Subarray Sum](https://dev.to/jamesmawalker/eli5ing-leetcode-minimum-size-subarray-sum-403h)
 - [Dev.to/JS] [Display Current Time Using HTML,CSS And JavaScript](https://dev.to/w3hubs/display-current-time-using-htmlcss-and-javascript-5b66)
 - [Dev.to/JS] [Real-time Poll app built using Redis, Node and WebSocket](https://dev.to/ashiqsultan/real-time-poll-app-built-using-redis-node-and-websocket-md4)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Things you should handle while making a web application as a Developer](https://dev.to/kalpesh1999/things-you-should-handle-while-making-a-web-application-as-a-developer-5fpe)
 - [Dev.to/JS] [Introducción a los archivos .env](https://dev.to/khriztianmoreno/introduccion-a-los-archivos-env-3e2f)
 - [Dev.to/JS] [What I Learned From 1 Year as a Software Developer](https://dev.to/emmanuilsb/what-i-learned-from-1-year-as-a-software-developer-3f6g)
-- [Dev.to/JS] [Numeric Separator In JavaScript](https://dev.to/capscode/numeric-separator-in-javascript-3ejn)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
