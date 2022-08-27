@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Tagalog - Math.trunc](https://dev.to/mmvergara/javascript-tagalog-mathtrunc-nib)
+- [Dev.to/JS] [Javascript Tagalog - Math.ceil](https://dev.to/mmvergara/javascript-tagalog-mathceil-38i4)
+- [Dev.to/JS] [Javascript Tagalog - Math.max](https://dev.to/mmvergara/javascript-tagalog-mathmax-53ak)
+- [Dev.to/JS] [Javascript Tagalog - Math.min](https://dev.to/mmvergara/javascript-tagalog-mathmin-23a0)
+- [Dev.to/JS] [Javascript Tagalog - Math.Pi](https://dev.to/mmvergara/javascript-tagalog-mathpi-13gc)
 - [Dev.to/JS] [Why I always use backticks for strings](https://dev.to/kaxmoglan/why-i-always-use-backticks-for-strings-3fbj)
 - [Dev.to/JS] [How to Create a Search Bar in React](https://dev.to/nicvazquez/how-to-create-a-search-bar-in-react-5h0g)
 - [Dev.to/JS] [Frontend developer roadmap for beginners](https://dev.to/maurerkrisztian/frontend-developer-roadmap-for-beginners-15c4)
@@ -32,15 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using MongoDB with Node.js.](https://dev.to/backendbro/using-mongodb-with-nodejs-175l)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Dev.to/JS] [A first look at Bun: is it really 3x faster than Node.js and Deno?](https://dev.to/builderio/a-first-look-at-bun-is-it-really-3x-faster-than-nodejs-and-deno-45od)
-- [Dev.to/JS] [Github Timeline](https://dev.to/semanteo/github-timeline-26mb)
-- [Dev.to/JS] [Event Loop](https://dev.to/anandbiniya/event-loop-39a8)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
 - [Lifehacker] [Five of the Most Underrated Fast Food Menu Items](https://lifehacker.com/five-of-the-most-underrated-fast-food-menu-items-1849462125)
-- [Dev.to/JS] [when do we actually use useEffect in react apps?](https://dev.to/erff_on/when-do-we-actually-use-useeffect-in-react-apps-5c50)
 - [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
-- [Dev.to/JS] [How to show the retrieved values from local storage in javascript when the browser window of the form is duplicated?](https://dev.to/bilalahmedts/how-to-show-the-retrieved-values-from-local-storage-in-javascript-when-the-browser-window-of-the-form-is-duplicated-p6m)
 - [Lifehacker] [The Best Ways to Spend &lpar;or Invest&rpar; That $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
-- [Dev.to/JS] [how can i fix this issue](https://dev.to/ayoubelsvg/how-can-i-fix-this-issue-2l25)
 - [Lifehacker] [How to Build an Altoids Tin Survival Kit](https://lifehacker.com/how-to-build-an-altoids-tin-survival-kit-1849461946)
 - [Crazy Programmer] [Dynamic Initialization of Objects in C++](https://www.thecrazyprogrammer.com/2022/08/dynamic-initialization-of-objects-in-c.html)
 - [Lifehacker] [What&#39;s New on HBO Max in September 2022](https://lifehacker.com/whats-new-on-hbo-max-in-september-2022-1849458808)
