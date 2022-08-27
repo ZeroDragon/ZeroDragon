@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DON&#39;T TELL ME YOU DON&#39;T KNOW ABOUT THESE ONLINE TOOLS SELF DEVELOPERS USE!](https://dev.to/chizobaonorh/dont-tell-me-you-dont-know-about-these-tools-self-developers-use-38mg)
+- [Dev.to/JS] [React Native Latest Version Updates - 2022](https://dev.to/monicaacha2103/react-native-latest-version-updates-2022-2ach)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Dev.to/JS] [Things you should handle while making a web application as a Developer](https://dev.to/kalpesh1999/things-you-should-handle-while-making-a-web-application-as-a-developer-5fpe)
 - [Dev.to/JS] [Introducción a los archivos .env](https://dev.to/khriztianmoreno/introduccion-a-los-archivos-env-3e2f)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ecommerce Website Builder](https://dev.to/mushfikanahian/ecommerce-website-builder-1edp)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
 - [Dev.to/JS] [Slicing in Javascript](https://dev.to/shubhamtiwari909/slicing-array-in-javascript-4lne)
-- [Dev.to/JS] [Strive for a minimum required state in a React component](https://dev.to/smlka/strive-for-a-minimum-required-state-in-a-react-component-mk2)
-- [Dev.to/JS] [Why do startups pursue ICOs? The part of economic drivers and social identity on funding choice](https://dev.to/thecryptoapeo/why-do-startups-pursue-icos-the-part-of-economic-drivers-and-social-identity-on-funding-choice-2l55)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
