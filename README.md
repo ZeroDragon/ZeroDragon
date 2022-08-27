@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
+- [Dev.to/JS] [Things you should handle while making a web application as a Developer](https://dev.to/kalpesh1999/things-you-should-handle-while-making-a-web-application-as-a-developer-5fpe)
+- [Dev.to/JS] [Introducción a los archivos .env](https://dev.to/khriztianmoreno/introduccion-a-los-archivos-env-3e2f)
+- [Dev.to/JS] [What I Learned From 1 Year as a Software Developer](https://dev.to/emmanuilsb/what-i-learned-from-1-year-as-a-software-developer-3f6g)
+- [Dev.to/JS] [Numeric Separator In JavaScript](https://dev.to/capscode/numeric-separator-in-javascript-3ejn)
 - [Dev.to/JS] [GitHub adds more security enhancements to npm](https://dev.to/shshank/github-adds-more-security-enhancements-to-npm-439b)
 - [Dev.to/JS] [Mapear e Filtrar dados de uma API com ReactJS e Java Script!](https://dev.to/guillerbr/mapear-e-filtrar-dados-de-uma-api-com-reactjs-e-java-script-11m4)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Slicing in Javascript](https://dev.to/shubhamtiwari909/slicing-array-in-javascript-4lne)
 - [Dev.to/JS] [Strive for a minimum required state in a React component](https://dev.to/smlka/strive-for-a-minimum-required-state-in-a-react-component-mk2)
 - [Dev.to/JS] [Why do startups pursue ICOs? The part of economic drivers and social identity on funding choice](https://dev.to/thecryptoapeo/why-do-startups-pursue-icos-the-part-of-economic-drivers-and-social-identity-on-funding-choice-2l55)
-- [Dev.to/JS] [Symbols in JavaScript](https://dev.to/divyanshchahar/symbols-in-javascript-4omm)
-- [Dev.to/JS] [Data Types in JavaScript](https://dev.to/divyanshchahar/data-types-in-javascript-1fk1)
-- [Dev.to/JS] [Sitemaps - An Untold Story #shorts](https://dev.to/shreyvijayvargiya/sitemaps-an-untold-story-shorts-5b22)
-- [Dev.to/JS] [About Me in a nutshell](https://dev.to/arman_aru/about-me-in-a-nutshell-jka)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Enable These Instagram Privacy Settings Right Now](https://lifehacker.com/enable-these-instagram-privacy-settings-right-now-1849456072)
 - [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)
 - [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)
-- [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)
-- [Lifehacker] [How Parents Can Support Their Child&#39;s Therapy, According to a Child Psychologist](https://lifehacker.com/how-parents-can-support-their-childs-therapy-according-1849448221)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)<!-- TECH-POSTS:END -->
 
 ---
 
