@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 neat tricks for JS that you probably did not know](https://dev.to/ruppysuppy/7-neat-tricks-for-js-that-you-probably-did-not-know-358d)
+- [Dev.to/JS] [07 Type of Loops in JavaScript](https://dev.to/mursalfk/07-type-of-loops-in-javascript-51h)
 - [Dev.to/JS] [Improving your JavaScript with Enums](https://dev.to/prof3ssorst3v3/improving-your-javascript-with-enums-5ck4)
 - [Dev.to/JS] [Synchronous vs. Asynchronous programming in Javascript.](https://dev.to/chucks1093/synchronous-vs-asynchronous-programming-in-javascript-9d3)
 - [Dev.to/JS] [What are Arrays? - Part II](https://dev.to/jinchoo/what-are-arrays-part-ii-34ii)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quiz app in Next JS and Redis](https://dev.to/vingitonga/quiz-app-in-next-js-and-redis-4a63)
 - [Dev.to/JS] [Wondering Why should you use Next Js? Read This!](https://dev.to/devgrammer/wondering-why-should-you-use-next-js-read-this-2jb8)
 - [Dev.to/JS] [Disable website debugger and right click context menu using the unreadable code.](https://dev.to/neeswebservices/disable-website-debugger-and-right-click-context-menu-using-the-unreadable-code-3l1k)
-- [Dev.to/JS] [ELI5ing LeetCode : Minimum Size Subarray Sum](https://dev.to/jamesmawalker/eli5ing-leetcode-minimum-size-subarray-sum-403h)
-- [Dev.to/JS] [Display Current Time Using HTML,CSS And JavaScript](https://dev.to/w3hubs/display-current-time-using-htmlcss-and-javascript-5b66)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
