@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Processing Point Cloud data with PCL in the browser](https://dev.to/luoxuhai/processing-point-cloud-data-with-pcl-in-the-browser-337o)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
 - [Dev.to/JS] [Teaching coding to kids](https://dev.to/danielelkington/teaching-coding-to-kids-1fj7)
 - [Dev.to/JS] [5 daily NPM packages are used in every React project](https://dev.to/shreyvijayvargiya/5-daily-npm-packages-are-used-in-every-react-project-3a2n)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive ToDo App Using Redis As Main Database](https://dev.to/201b153/responsive-todo-app-using-redis-as-main-database-4021)
 - [Dev.to/JS] [Quick introduction to WebSockets with Node.js](https://dev.to/bobbyiliev/quick-introduction-to-websockets-with-nodejs-2klh)
 - [Dev.to/JS] [React down slider &lpar;dynamic height&rpar;](https://dev.to/elsyng/react-down-slider-dynamic-3loj)
-- [Dev.to/JS] [Wondering Why you need to use Next Js? Read This!](https://dev.to/devgrammer/wondering-why-you-need-to-use-next-js-read-this-5c2n)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
