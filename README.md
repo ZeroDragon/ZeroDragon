@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick introduction to WebSockets with Node.js](https://dev.to/bobbyiliev/quick-introduction-to-websockets-with-nodejs-2klh)
+- [Dev.to/JS] [React down slider &lpar;dynamic height&rpar;](https://dev.to/elsyng/react-down-slider-dynamic-3loj)
+- [Dev.to/JS] [Wondering Why you need to use Next Js? Read This!](https://dev.to/devgrammer/wondering-why-you-need-to-use-next-js-read-this-5c2n)
 - [Dev.to/JS] [Writing recommendation system #2 - Redis &amp; Node Architecture](https://dev.to/meatboy/writing-recommendation-system-2-redis-node-architecture-kje)
 - [Dev.to/JS] [Format Date with Locale in JavaScript | without a Library](https://dev.to/egotr/format-date-with-locale-in-javascript-without-a-library-2gpk)
 - [Dev.to/JS] [Variadic Currying in JavaScript](https://dev.to/refine/variadic-currying-in-javascript-nj9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Encryption and Decryption in Node Js with Express and mongoose.](https://dev.to/saranbarua/encryption-and-decryption-in-node-js-with-express-and-mongoose-4l06)
 - [Dev.to/JS] [One minute tip to all freelancers #shorts](https://dev.to/shreyvijayvargiya/one-minute-tip-to-all-freelancers-shorts-km9)
 - [Dev.to/JS] [RedFeed: Faster RESTful Serverless API with Redis](https://dev.to/p2pteamz/redfeed-3fkh)
-- [Dev.to/JS] [How to add opacity to a Pressable component in React Native](https://dev.to/amanhimself/how-to-add-opacity-to-a-pressable-component-in-react-native-20g5)
-- [Dev.to/JS] [API FETCH](https://dev.to/alexbyd94/api-fetch-19ad)
-- [Dev.to/JS] [Browser extensions - Modify images on the page](https://dev.to/dailydevtips1/browser-extensions-modify-images-on-the-page-51a4)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
