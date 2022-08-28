@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Series - Parameters Utility Type](https://dev.to/sarmunbustillo/typescript-series-parameters-utility-type-26ib)
+- [Dev.to/JS] [How to use stub with Cypress](https://dev.to/dawsoncodes/how-to-use-stub-with-cypress-24he)
 - [Dev.to/JS] [Finally a time to code by myself](https://dev.to/alencardotpy/finally-a-time-to-code-by-myself-4p72)
 - [Dev.to/JS] [How to use Redis as a Database with Node.js and Redis OM](https://dev.to/franciscomendes10866/how-to-use-redis-as-a-database-using-nodejs-25ao)
 - [Dev.to/JS] [why i get response before request status in command prompt, although i have got right output in postman?](https://dev.to/srinja333/why-i-get-response-before-request-status-in-command-prompt-although-i-have-got-right-output-in-postman-2p9j)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Processing Point Cloud data with PCL in the browser](https://dev.to/luoxuhai/processing-point-cloud-data-with-pcl-in-the-browser-337o)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
 - [Dev.to/JS] [Teaching coding to kids](https://dev.to/danielelkington/teaching-coding-to-kids-1fj7)
-- [Dev.to/JS] [5 daily NPM packages are used in every React project](https://dev.to/shreyvijayvargiya/5-daily-npm-packages-are-used-in-every-react-project-3a2n)
-- [Dev.to/JS] [test post , not span](https://dev.to/zwelhtetyan/test-post-not-span-1jg0)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
