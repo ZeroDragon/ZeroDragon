@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get hired as a front-end developer - Part 1](https://dev.to/syedumairali2000/how-to-get-hired-as-a-front-end-developer-part-1-39mo)
+- [Dev.to/JS] [Learn CSS selectors using picture&lpar;Direct child selector&rpar;](https://dev.to/shahidnsu/learn-css-selectors-using-picturedirect-child-selector-2bgj)
+- [Dev.to/JS] [CSS selector explained using a picture&lpar;Descendant selectors&rpar;](https://dev.to/shahidnsu/css-selector-explained-using-a-picturedescendant-selectors-10d8)
 - [Dev.to/JS] [Most used DevTools shortcuts](https://dev.to/hshoja/devtools-shortcuts-55m8)
 - [Dev.to/JS] [Cara Install VueJS 3](https://dev.to/awan/cara-install-vuejs-3-hof)
 - [Dev.to/JS] [Responsive ToDo App Using Redis As Main Database](https://dev.to/201b153/responsive-todo-app-using-redis-as-main-database-4021)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing recommendation system #2 - Redis &amp; Node Architecture](https://dev.to/meatboy/writing-recommendation-system-2-redis-node-architecture-kje)
 - [Dev.to/JS] [Format Date with Locale in JavaScript | without a Library](https://dev.to/egotr/format-date-with-locale-in-javascript-without-a-library-2gpk)
 - [Dev.to/JS] [Variadic Currying in JavaScript](https://dev.to/refine/variadic-currying-in-javascript-nj9)
-- [Dev.to/JS] [Build a simple search engine &lpar;Gwoogl :p&rpar; for a multilingual website](https://dev.to/bacloud22/build-a-simple-search-engine-for-a-multilingual-website-4jfl)
-- [Dev.to/JS] [Apple Keto Gummies &lpar;AU&rpar; - Price, Benefits, Uses, Reviews And Results?](https://dev.to/appleketogumm15/apple-keto-gummies-au-price-benefits-uses-reviews-and-results-59ea)
-- [Dev.to/JS] [isPalindrome?](https://dev.to/mallchel/ispalindrome-3438)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
