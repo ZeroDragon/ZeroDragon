@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Redis as a Database with Node.js and Redis OM](https://dev.to/franciscomendes10866/how-to-use-redis-as-a-database-using-nodejs-25ao)
+- [Dev.to/JS] [why i get response before request status in command prompt, although i have got right output in postman?](https://dev.to/srinja333/why-i-get-response-before-request-status-in-command-prompt-although-i-have-got-right-output-in-postman-2p9j)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Dev.to/JS] [🖼️ Pic-Placeholder: categorised image placeholders](https://dev.to/arndom/pic-placeholder-categorised-image-placeholders-8kj)
 - [Dev.to/JS] [LeetCode - Minimum Path Sum](https://dev.to/_alkesh26/leetcode-minimum-path-sum-495j)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 daily NPM packages are used in every React project](https://dev.to/shreyvijayvargiya/5-daily-npm-packages-are-used-in-every-react-project-3a2n)
 - [Dev.to/JS] [test post , not span](https://dev.to/zwelhtetyan/test-post-not-span-1jg0)
 - [Dev.to/JS] [How to get hired as a front-end developer - Part 1](https://dev.to/syedumaircodes/how-to-get-hired-as-a-front-end-developer-part-1-39mo)
-- [Dev.to/JS] [Learn CSS selectors using picture&lpar;Direct child selector&rpar;](https://dev.to/shahidnsu/learn-css-selectors-using-picturedirect-child-selector-2bgj)
-- [Dev.to/JS] [CSS selector explained using a picture&lpar;Descendant selectors&rpar;](https://dev.to/shahidnsu/css-selector-explained-using-a-picturedescendant-selectors-10d8)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
