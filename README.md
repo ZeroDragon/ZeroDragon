@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to get hired as a front-end developer - Part 1](https://dev.to/syedumairali2000/how-to-get-hired-as-a-front-end-developer-part-1-39mo)
+- [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
+- [Dev.to/JS] [Teaching coding to kids](https://dev.to/danielelkington/teaching-coding-to-kids-1fj7)
+- [Dev.to/JS] [5 daily NPM packages are used in every React project](https://dev.to/shreyvijayvargiya/5-daily-npm-packages-are-used-in-every-react-project-3a2n)
+- [Dev.to/JS] [test post , not span](https://dev.to/zwelhtetyan/test-post-not-span-1jg0)
+- [Dev.to/JS] [How to get hired as a front-end developer - Part 1](https://dev.to/syedumaircodes/how-to-get-hired-as-a-front-end-developer-part-1-39mo)
 - [Dev.to/JS] [Learn CSS selectors using picture&lpar;Direct child selector&rpar;](https://dev.to/shahidnsu/learn-css-selectors-using-picturedirect-child-selector-2bgj)
 - [Dev.to/JS] [CSS selector explained using a picture&lpar;Descendant selectors&rpar;](https://dev.to/shahidnsu/css-selector-explained-using-a-picturedescendant-selectors-10d8)
 - [Dev.to/JS] [Most used DevTools shortcuts](https://dev.to/hshoja/devtools-shortcuts-55m8)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quick introduction to WebSockets with Node.js](https://dev.to/bobbyiliev/quick-introduction-to-websockets-with-nodejs-2klh)
 - [Dev.to/JS] [React down slider &lpar;dynamic height&rpar;](https://dev.to/elsyng/react-down-slider-dynamic-3loj)
 - [Dev.to/JS] [Wondering Why you need to use Next Js? Read This!](https://dev.to/devgrammer/wondering-why-you-need-to-use-next-js-read-this-5c2n)
-- [Dev.to/JS] [Writing recommendation system #2 - Redis &amp; Node Architecture](https://dev.to/meatboy/writing-recommendation-system-2-redis-node-architecture-kje)
-- [Dev.to/JS] [Format Date with Locale in JavaScript | without a Library](https://dev.to/egotr/format-date-with-locale-in-javascript-without-a-library-2gpk)
-- [Dev.to/JS] [Variadic Currying in JavaScript](https://dev.to/refine/variadic-currying-in-javascript-nj9)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What’s the Difference Between a Recession and a Depression?](https://lifehacker.com/what-s-the-difference-between-a-recession-and-a-depress-1849458251)
 - [Lifehacker] [Enable These Instagram Privacy Settings Right Now](https://lifehacker.com/enable-these-instagram-privacy-settings-right-now-1849456072)
 - [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)
-- [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)
-- [Lifehacker] [You Can Use a Laptop Without a Battery](https://lifehacker.com/you-can-use-a-laptop-without-a-battery-1849456604)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)<!-- TECH-POSTS:END -->
 
 ---
 
