@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple WordPress Delete User API](https://dev.to/adeleyeayodeji/simple-wordpress-delete-user-api-n14)
+- [Dev.to/JS] [My introduction to react: fun, dynamic webpages](https://dev.to/toygrr/my-introduction-to-react-fun-dynamic-webpages-1pof)
+- [Dev.to/JS] [SmartHome - your home data in real time!](https://dev.to/marcobertelli/smarthome-your-home-data-in-real-time-2jjd)
 - [Dev.to/JS] [A Vue dropdown menu with Floating Vue &amp; Tailwind](https://dev.to/kouts/a-vue-dropdown-menu-with-floating-vue-tailwind-5gg4)
 - [Dev.to/JS] [Typescript Series - Parameters Utility Type](https://dev.to/sarmunbustillo/typescript-series-parameters-utility-type-26ib)
 - [Dev.to/JS] [How to use stub with Cypress](https://dev.to/dawsoncodes/how-to-use-stub-with-cypress-24he)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🖼️ Pic Placeholder: categorised image placeholders](https://dev.to/arndom/pic-placeholder-categorised-image-placeholders-8kj)
 - [Dev.to/JS] [LeetCode - Minimum Path Sum](https://dev.to/_alkesh26/leetcode-minimum-path-sum-495j)
 - [Dev.to/JS] [Multiprocessing in NodeJs](https://dev.to/dhanushnehru/multiprocessing-in-nodejs-531a)
-- [Dev.to/JS] [LeetCode - Two Sum II - Input Array Is Sorted](https://dev.to/_alkesh26/leetcode-two-sum-ii-input-array-is-sorted-2pg0)
-- [Dev.to/JS] [Two-Factor Authentication](https://dev.to/rmion/two-factor-authentication-3p04)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
-- [Dev.to/JS] [Processing Point Cloud data with PCL in the browser](https://dev.to/luoxuhai/processing-point-cloud-data-with-pcl-in-the-browser-337o)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
