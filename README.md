@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multiprocessing in NodeJs](https://dev.to/dhanushnehru/multiprocessing-in-nodejs-531a)
+- [Dev.to/JS] [LeetCode - Two Sum II - Input Array Is Sorted](https://dev.to/_alkesh26/leetcode-two-sum-ii-input-array-is-sorted-2pg0)
+- [Dev.to/JS] [Two-Factor Authentication](https://dev.to/rmion/two-factor-authentication-3p04)
+- [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Dev.to/JS] [Processing Point Cloud data with PCL in the browser](https://dev.to/luoxuhai/processing-point-cloud-data-with-pcl-in-the-browser-337o)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
 - [Dev.to/JS] [Teaching coding to kids](https://dev.to/danielelkington/teaching-coding-to-kids-1fj7)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CSS selector explained using a picture&lpar;Descendant selectors&rpar;](https://dev.to/shahidnsu/css-selector-explained-using-a-picturedescendant-selectors-10d8)
 - [Dev.to/JS] [Most used DevTools shortcuts](https://dev.to/hshoja/devtools-shortcuts-55m8)
 - [Dev.to/JS] [Cara Install VueJS 3](https://dev.to/awan/cara-install-vuejs-3-hof)
-- [Dev.to/JS] [Responsive ToDo App Using Redis As Main Database](https://dev.to/201b153/responsive-todo-app-using-redis-as-main-database-4021)
-- [Dev.to/JS] [Quick introduction to WebSockets with Node.js](https://dev.to/bobbyiliev/quick-introduction-to-websockets-with-nodejs-2klh)
-- [Dev.to/JS] [React down slider &lpar;dynamic height&rpar;](https://dev.to/elsyng/react-down-slider-dynamic-3loj)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Your Plants Will Really Cost You Over Time](https://lifehacker.com/how-much-your-plants-will-really-cost-you-over-time-1849457189)
 - [Lifehacker] [What’s the Difference Between a Recession and a Depression?](https://lifehacker.com/what-s-the-difference-between-a-recession-and-a-depress-1849458251)
 - [Lifehacker] [Enable These Instagram Privacy Settings Right Now](https://lifehacker.com/enable-these-instagram-privacy-settings-right-now-1849456072)
-- [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)
-- [Lifehacker] [The USPS ‘Holiday Season’ Just Got Longer and More Expensive](https://lifehacker.com/the-usps-holiday-season-just-got-longer-and-more-expe-1849456901)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Alternatives to MyFitnessPal](https://lifehacker.com/the-best-alternatives-to-myfitnesspal-1849456879)<!-- TECH-POSTS:END -->
 
 ---
 
