@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Synchronous vs. Asynchronous programming in Javascript.](https://dev.to/chucks1093/synchronous-vs-asynchronous-programming-in-javascript-9d3)
+- [Dev.to/JS] [What are Arrays? - Part II](https://dev.to/jinchoo/what-are-arrays-part-ii-34ii)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 12: What is JSFunction?](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-12-what-is-jsfunction-2ih4)
 - [Dev.to/JS] [Select unique elements from a Array using: lastIndexOf&lpar;&rpar; &amp; indexOf&lpar;&rpar;](https://dev.to/felistus/select-unique-elements-from-a-array-using-lastindexof-indexof-5dnh)
 - [Dev.to/JS] [Ah yes...React and it&#39;s Redux minions](https://dev.to/nandolofi/ah-yesreact-and-its-redux-minions-2go0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ELI5ing LeetCode : Minimum Size Subarray Sum](https://dev.to/jamesmawalker/eli5ing-leetcode-minimum-size-subarray-sum-403h)
 - [Dev.to/JS] [Display Current Time Using HTML,CSS And JavaScript](https://dev.to/w3hubs/display-current-time-using-htmlcss-and-javascript-5b66)
 - [Dev.to/JS] [Real-time Poll app built using Redis, Node and WebSocket](https://dev.to/ashiqsultan/real-time-poll-app-built-using-redis-node-and-websocket-md4)
-- [Dev.to/JS] [Hey! Welcome ME](https://dev.to/charumehta0215/hey-welcome-me-m0h)
-- [Dev.to/JS] [Shahinadev](https://dev.to/codewithshahin/shahinadev-4kl6)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
