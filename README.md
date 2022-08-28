@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add opacity to a Pressable component in React Native](https://dev.to/amanhimself/how-to-add-opacity-to-a-pressable-component-in-react-native-20g5)
+- [Dev.to/JS] [API FETCH](https://dev.to/alexbyd94/api-fetch-19ad)
+- [Dev.to/JS] [Browser extensions - Modify images on the page](https://dev.to/dailydevtips1/browser-extensions-modify-images-on-the-page-51a4)
 - [Dev.to/JS] [7 neat tricks for JS that you probably did not know](https://dev.to/ruppysuppy/7-neat-tricks-for-js-that-you-probably-did-not-know-358d)
 - [Dev.to/JS] [07 Type of Loops in JavaScript](https://dev.to/mursalfk/07-type-of-loops-in-javascript-51h)
 - [Dev.to/JS] [Improving your JavaScript with Enums](https://dev.to/prof3ssorst3v3/improving-your-javascript-with-enums-5ck4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Select unique elements from an Array using: lastIndexOf&lpar;&rpar; &amp; indexOf&lpar;&rpar;](https://dev.to/felistus/select-unique-elements-from-a-array-using-lastindexof-indexof-5dnh)
 - [Dev.to/JS] [Ah yes...React and it&#39;s Redux minions](https://dev.to/nandolofi/ah-yesreact-and-its-redux-minions-2go0)
 - [Dev.to/JS] [7 different ways of Looping in JavaScript with example.](https://dev.to/arman_aru/7-different-ways-of-looping-in-javascript-with-example-1g50)
-- [Dev.to/JS] [Quiz app in Next JS and Redis](https://dev.to/vingitonga/quiz-app-in-next-js-and-redis-4a63)
-- [Dev.to/JS] [Wondering Why should you use Next Js? Read This!](https://dev.to/devgrammer/wondering-why-should-you-use-next-js-read-this-2jb8)
-- [Dev.to/JS] [Disable website debugger and right click context menu using the unreadable code.](https://dev.to/neeswebservices/disable-website-debugger-and-right-click-context-menu-using-the-unreadable-code-3l1k)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
