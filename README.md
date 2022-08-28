@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Most used DevTools shortcuts](https://dev.to/hshoja/devtools-shortcuts-55m8)
+- [Dev.to/JS] [Cara Install VueJS 3](https://dev.to/awan/cara-install-vuejs-3-hof)
+- [Dev.to/JS] [Responsive ToDo App Using Redis As Main Database](https://dev.to/201b153/responsive-todo-app-using-redis-as-main-database-4021)
 - [Dev.to/JS] [Quick introduction to WebSockets with Node.js](https://dev.to/bobbyiliev/quick-introduction-to-websockets-with-nodejs-2klh)
 - [Dev.to/JS] [React down slider &lpar;dynamic height&rpar;](https://dev.to/elsyng/react-down-slider-dynamic-3loj)
 - [Dev.to/JS] [Wondering Why you need to use Next Js? Read This!](https://dev.to/devgrammer/wondering-why-you-need-to-use-next-js-read-this-5c2n)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a simple search engine &lpar;Gwoogl :p&rpar; for a multilingual website](https://dev.to/bacloud22/build-a-simple-search-engine-for-a-multilingual-website-4jfl)
 - [Dev.to/JS] [Apple Keto Gummies &lpar;AU&rpar; - Price, Benefits, Uses, Reviews And Results?](https://dev.to/appleketogumm15/apple-keto-gummies-au-price-benefits-uses-reviews-and-results-59ea)
 - [Dev.to/JS] [isPalindrome?](https://dev.to/mallchel/ispalindrome-3438)
-- [Dev.to/JS] [Encryption and Decryption in Node Js with Express and mongoose.](https://dev.to/saranbarua/encryption-and-decryption-in-node-js-with-express-and-mongoose-4l06)
-- [Dev.to/JS] [One minute tip to all freelancers #shorts](https://dev.to/shreyvijayvargiya/one-minute-tip-to-all-freelancers-shorts-km9)
-- [Dev.to/JS] [RedFeed: Faster RESTful Serverless API with Redis](https://dev.to/p2pteamz/redfeed-3fkh)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
 - [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
