@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Push Array Element In Node.js](https://dev.to/techsolutionstuff/how-to-push-array-element-in-nodejs-1h5)
+- [Dev.to/JS] [Data Types in Java](https://dev.to/nipunsanjula/data-types-in-java-op9)
 - [Dev.to/JS] [Array Partition - I](https://dev.to/zeeshanali0704/array-partition-i-c1)
 - [Dev.to/JS] [Reverse String - without reverse function](https://dev.to/zeeshanali0704/reverse-string-without-reverse-function-4cfo)
 - [Dev.to/JS] [Authorization In Node.js, All You Need To Know](https://dev.to/fredabod/authorization-in-nodejs-all-you-need-to-know-3fga)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Built an Online Collaborative Canvas using Redis as my Primary Database 🎨](https://dev.to/eludadev/i-built-an-online-collaborative-canvas-using-redis-as-my-primary-database-2001)
 - [Dev.to/JS] [How to enable donations on any website using the Elrond blockchain and EGLD tokens](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
 - [Dev.to/JS] [Cara Install VueJS 3 menggunakan Vue CLI](https://dev.to/awan/cara-install-vuejs-3-menggunakan-vue-cli-5eb8)
-- [Dev.to/JS] [Simple WordPress Delete User API](https://dev.to/adeleyeayodeji/simple-wordpress-delete-user-api-n14)
-- [Dev.to/JS] [My introduction to react: fun, dynamic webpages](https://dev.to/toygrr/my-introduction-to-react-fun-dynamic-webpages-1pof)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
