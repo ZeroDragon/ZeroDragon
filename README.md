@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Built an Online Collaborative Canvas using Redis as my Primary Database 🎨](https://dev.to/eludadev/i-built-an-online-collaborative-canvas-using-redis-as-my-primary-database-2001)
+- [Dev.to/JS] [How to enable donations on any website using the Elrond blockchain and EGLD tokens](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
+- [Dev.to/JS] [Cara Install VueJS 3 menggunakan Vue CLI](https://dev.to/awan/cara-install-vuejs-3-menggunakan-vue-cli-5eb8)
 - [Dev.to/JS] [Simple WordPress Delete User API](https://dev.to/adeleyeayodeji/simple-wordpress-delete-user-api-n14)
 - [Dev.to/JS] [My introduction to react: fun, dynamic webpages](https://dev.to/toygrr/my-introduction-to-react-fun-dynamic-webpages-1pof)
 - [Dev.to/JS] [SmartHome - your home data in real time!](https://dev.to/marcobertelli/smarthome-your-home-data-in-real-time-2jjd)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Redis as a Database with Node.js and Redis OM](https://dev.to/franciscomendes10866/how-to-use-redis-as-a-database-using-nodejs-25ao)
 - [Dev.to/JS] [why i get response before request status in command prompt, although i have got right output in postman?](https://dev.to/srinja333/why-i-get-response-before-request-status-in-command-prompt-although-i-have-got-right-output-in-postman-2p9j)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
-- [Dev.to/JS] [🖼️ Pic Placeholder: categorised image placeholders](https://dev.to/arndom/pic-placeholder-categorised-image-placeholders-8kj)
-- [Dev.to/JS] [LeetCode - Minimum Path Sum](https://dev.to/_alkesh26/leetcode-minimum-path-sum-495j)
-- [Dev.to/JS] [Multiprocessing in NodeJs](https://dev.to/dhanushnehru/multiprocessing-in-nodejs-531a)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
 - [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
