@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 Tips to Speed Up Your Data Science Workflow, Using Observable](https://dev.to/datascibae/4-tips-to-speed-up-your-data-science-workflow-using-observable-3a32)
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Dev.to/JS] [Create and publish personal portfolio in seconds 🚀](https://dev.to/sahirskd/create-and-publish-personal-portfolio-in-seconds-3k12)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Refreshing Project Ideas - Planning Skills](https://dev.to/wadecodez/5-refreshing-project-ideas-test-planning-skills-44b7)
 - [Dev.to/JS] [I built a REST API with Redis](https://dev.to/2kabhishek/i-built-a-rest-api-with-redis-34dm)
 - [Dev.to/JS] [Tips on becoming a self-taught developer](https://dev.to/clarity89/tips-on-becoming-a-self-taught-developer-45j1)
-- [Dev.to/JS] [Track your test duration](https://dev.to/romaintrotard/track-your-test-duration-39fb)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [How to Pick Out the Best Produce](https://lifehacker.com/how-to-pick-out-the-best-produce-1849469475)
 - [Lifehacker] [10 Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/10-renovations-that-can-actually-decrease-the-value-of-1849468967)
