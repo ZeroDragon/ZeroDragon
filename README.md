@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reacting to Big Div Energy](https://dev.to/emmacohanim/reacting-to-big-div-energy-41hf)
+- [Dev.to/JS] [QR-Code Generator in React](https://dev.to/reactjsguru/qr-code-generator-in-react-23p)
+- [Dev.to/JS] [Conclusion and final enhancements](https://dev.to/ayyash/conclusion-and-final-enhancements-3f2c)
+- [Dev.to/JS] [Simple Calendar Design](https://dev.to/mrepol742/simple-calendar-design-3mkg)
+- [Dev.to/JS] [Custom Hooks in React](https://dev.to/reactjsguru/custom-hooks-in-react-4kfi)
 - [Dev.to/JS] [Minimum Size Subarray Sum](https://dev.to/zeeshanali0704/minimum-size-subarray-sum-809)
-- [Dev.to/JS] [Polymorphic Components: Authoring flexible and reusable components.](https://dev.to/paul_emechebe/polymorphic-components-authoring-flexible-and-reusable-components-1efo)
 - [Dev.to/JS] [How To Push Array Element In Node.js](https://dev.to/techsolutionstuff/how-to-push-array-element-in-nodejs-1h5)
 - [Dev.to/JS] [Data Types in Java](https://dev.to/nipunsanjula/data-types-in-java-op9)
 - [Dev.to/JS] [Array Partition - I](https://dev.to/zeeshanali0704/array-partition-i-c1)
 - [Dev.to/JS] [Reverse String - without reverse function](https://dev.to/zeeshanali0704/reverse-string-without-reverse-function-4cfo)
 - [Dev.to/JS] [Authorization In Node.js, All You Need To Know](https://dev.to/fredabod/authorization-in-nodejs-all-you-need-to-know-3fga)
 - [Dev.to/JS] [AFFiNE Local User Guide: Keep Your Data In Your Hands](https://dev.to/yipei/affine-local-user-guide-keep-your-data-in-your-hands-pbh)
-- [Dev.to/JS] [Use v-model to Custom Components in Vue 3](https://dev.to/joseprest/use-v-model-to-custom-components-in-vue-3-325i)
-- [Dev.to/JS] [React: A beginner-friendly Introduction](https://dev.to/brandonbawe/react-a-beginner-friendly-introduction-51c7)
-- [Dev.to/JS] [Install TailwindCSS di Vue 3](https://dev.to/awan/install-tailwindcss-di-vue-3-1pf9)
-- [Dev.to/JS] [I Built an Online Collaborative Canvas using Redis as my Primary Database 🎨](https://dev.to/eludadev/i-built-an-online-collaborative-canvas-using-redis-as-my-primary-database-2001)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
