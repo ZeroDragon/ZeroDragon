@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use v-model to Custom Components in Vue 3](https://dev.to/joseprest/use-v-model-to-custom-components-in-vue-3-325i)
+- [Dev.to/JS] [React: A beginner-friendly Introduction](https://dev.to/brandonbawe/react-a-beginner-friendly-introduction-51c7)
+- [Dev.to/JS] [Install TailwindCSS di Vue 3](https://dev.to/awan/install-tailwindcss-di-vue-3-1pf9)
 - [Dev.to/JS] [I Built an Online Collaborative Canvas using Redis as my Primary Database 🎨](https://dev.to/eludadev/i-built-an-online-collaborative-canvas-using-redis-as-my-primary-database-2001)
 - [Dev.to/JS] [How to enable donations on any website using the Elrond blockchain and EGLD tokens](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
 - [Dev.to/JS] [Cara Install VueJS 3 menggunakan Vue CLI](https://dev.to/awan/cara-install-vuejs-3-menggunakan-vue-cli-5eb8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Vue dropdown menu with Floating Vue &amp; Tailwind](https://dev.to/kouts/a-vue-dropdown-menu-with-floating-vue-tailwind-5gg4)
 - [Dev.to/JS] [Typescript Series - Parameters Utility Type](https://dev.to/sarmunbustillo/typescript-series-parameters-utility-type-26ib)
 - [Dev.to/JS] [How to use stub with Cypress](https://dev.to/dawsoncodes/how-to-use-stub-with-cypress-24he)
-- [Dev.to/JS] [Finally a time to code by myself](https://dev.to/alencardotpy/finally-a-time-to-code-by-myself-4p72)
-- [Dev.to/JS] [How to use Redis as a Database with Node.js and Redis OM](https://dev.to/franciscomendes10866/how-to-use-redis-as-a-database-using-nodejs-25ao)
-- [Dev.to/JS] [why i get response before request status in command prompt, although i have got right output in postman?](https://dev.to/srinja333/why-i-get-response-before-request-status-in-command-prompt-although-i-have-got-right-output-in-postman-2p9j)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
