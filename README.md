@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Dev.to/JS] [Create and publish personal portfolio in seconds 🚀](https://dev.to/sahirskd/create-and-publish-personal-portfolio-in-seconds-3k12)
+- [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
 - [Dev.to/JS] [Make Public Speaking A Useful Skill You Can Use](https://dev.to/servicestranslations/make-public-speaking-a-useful-skill-you-can-use-1ggj)
 - [Dev.to/JS] [Blogs for web devs and UI/UX designers](https://dev.to/gzamann/blogs-for-web-devs-and-uiux-designers-130m)
 - [Dev.to/JS] [React is great...but you should try Lit.](https://dev.to/devsatasurion/react-is-greatbut-you-should-try-lit-3aeb)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Spend &lpar;or Invest&rpar; That $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
 - [Lifehacker] [How to Build an Altoids Tin Survival Kit](https://lifehacker.com/how-to-build-an-altoids-tin-survival-kit-1849461946)
 - [Crazy Programmer] [Dynamic Initialization of Objects in C++](https://www.thecrazyprogrammer.com/2022/08/dynamic-initialization-of-objects-in-c.html)
-- [Lifehacker] [What&#39;s New on HBO Max in September 2022](https://lifehacker.com/whats-new-on-hbo-max-in-september-2022-1849458808)
-- [Lifehacker] [DuckDuckGo Can Now Block Your Emails From Being Tracked](https://lifehacker.com/duckduckgo-can-now-block-your-emails-from-being-tracked-1849461485)
-- [Lifehacker] [How to Start Having Sex Again](https://lifehacker.com/how-to-start-having-sex-again-1849457199)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on HBO Max in September 2022](https://lifehacker.com/whats-new-on-hbo-max-in-september-2022-1849458808)<!-- TECH-POSTS:END -->
 
 ---
 
