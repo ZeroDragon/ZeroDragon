@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Event Delegation? And why would we need it?!](https://dev.to/edrisso/what-is-event-delegation-and-why-would-we-need-it-59le)
+- [Dev.to/JS] [Weekly dev insights](https://dev.to/smetankajakub/weekly-dev-insights-41i8)
+- [Dev.to/JS] [How to persist react state even after refresh!!!](https://dev.to/himanshupal0001/how-to-persist-react-state-even-after-refresh-ej5)
 - [Dev.to/JS] [Creating the TurboReader browser extension](https://dev.to/dailydevtips1/creating-the-turboreader-browser-extension-42p4)
 - [Dev.to/JS] [fluxactive complete - Reviews, Pros, Cons, Results &amp; Uses?](https://dev.to/fluxactivecomp6/fluxactive-complete-reviews-pros-cons-results-uses-32ko)
 - [Dev.to/JS] [JavaScript: Demystify Hoisting in JS](https://dev.to/cclintris/javascript-demystify-hoisting-in-js-306b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Calendar Design](https://dev.to/mrepol742/simple-calendar-design-3mkg)
 - [Dev.to/JS] [Custom Hooks in React](https://dev.to/reactjsguru/custom-hooks-in-react-4kfi)
 - [Dev.to/JS] [Minimum Size Subarray Sum](https://dev.to/zeeshanali0704/minimum-size-subarray-sum-809)
-- [Dev.to/JS] [How To Push Array Element In Node.js](https://dev.to/techsolutionstuff/how-to-push-array-element-in-nodejs-1h5)
-- [Dev.to/JS] [Data Types in Java](https://dev.to/nipunsanjula/data-types-in-java-op9)
-- [Dev.to/JS] [Array Partition - I](https://dev.to/zeeshanali0704/array-partition-i-c1)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
