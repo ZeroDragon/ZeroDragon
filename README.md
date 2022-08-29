@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Refreshing Project Ideas - Planning Skills](https://dev.to/wadecodez/5-refreshing-project-ideas-test-planning-skills-44b7)
+- [Dev.to/JS] [I built a REST API with Redis](https://dev.to/2kabhishek/i-built-a-rest-api-with-redis-34dm)
+- [Dev.to/JS] [Tips on becoming a self-taught developer](https://dev.to/clarity89/tips-on-becoming-a-self-taught-developer-45j1)
+- [Dev.to/JS] [Track your test duration](https://dev.to/romaintrotard/track-your-test-duration-39fb)
+- [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Dev.to/JS] [What is array.reduce&lpar;&rpar; in JavaScript ?](https://dev.to/itsnoa04/what-is-arrayreduce-in-javascript--5d93)
 - [Lifehacker] [How to Pick Out the Best Produce](https://lifehacker.com/how-to-pick-out-the-best-produce-1849469475)
 - [Dev.to/JS] [Getting started with Website Test Automation](https://dev.to/tyry327/getting-started-with-website-test-automation-1633)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing juhu - an open source search engine](https://dev.to/aashishpanthi/introducing-juhu-an-open-source-search-engine-268i)
 - [Dev.to/JS] [What&#39;s new in `svelte-kit, 1.0.0-next.445`: &lpar;group&rpar; layout](https://dev.to/parables/whats-new-in-svelte-kit-100-next445-group-layout-1ld5)
 - [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/merjashourov/javascript-fundamentals-260b)
-- [Dev.to/JS] [Fast and Secure Frontend Serving with AWS CloudFront CDN](https://dev.to/aws-builders/fast-and-secure-frontend-serving-with-aws-cloudfront-cdn-183d)
-- [Dev.to/JS] [Master Higher Order Component in React](https://dev.to/ministryofjavascript/master-higher-order-component-in-react-4e5)
-- [Dev.to/JS] [Terraform code to Create Github Repository](https://dev.to/shankarsurya035/terraform-code-to-create-github-repository-4698)
-- [Dev.to/JS] [Easiest way to edit, customize &amp; deploy static Landing Pages on Netlify for free without Github](https://dev.to/jranandj/easiest-way-to-edit-customize-deploy-static-landing-pages-on-netlify-without-github-da5)
 - [Lifehacker] [Raw Eggs Aren&#39;t the Only Reason You Shouldn&#39;t Eat Cookie Dough](https://lifehacker.com/raw-eggs-arent-the-only-reason-you-shouldnt-eat-cookie-1849468636)
 - [Crazy Programmer] [7 Best Online Compilers 2022 – C, C++, Java, Python](https://www.thecrazyprogrammer.com/2022/08/best-online-compilers.html)
 - [Lifehacker] [Free COVID Tests Are Going Away](https://lifehacker.com/free-covid-tests-are-going-away-1849467960)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [DuckDuckGo Can Now Block Your Emails From Being Tracked](https://lifehacker.com/duckduckgo-can-now-block-your-emails-from-being-tracked-1849461485)
 - [Lifehacker] [How to Start Having Sex Again](https://lifehacker.com/how-to-start-having-sex-again-1849457199)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &lpar;Are?&rpar; Blackpink?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-a-1849460418)
-- [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)
-- [Lifehacker] [Precise Location Is Giving Your Coordinates Away to Apps](https://lifehacker.com/precise-location-is-giving-your-coordinates-away-to-app-1849458216)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)<!-- TECH-POSTS:END -->
 
 ---
 
