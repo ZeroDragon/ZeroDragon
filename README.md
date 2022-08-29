@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s new in `svelte-kit, 1.0.0-next.445`: &lpar;group&rpar; layout](https://dev.to/parables/whats-new-in-svelte-kit-100-next445-group-layout-1ld5)
+- [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/merjashourov/javascript-fundamentals-260b)
+- [Dev.to/JS] [Fast and Secure Frontend Serving with AWS CloudFront CDN](https://dev.to/aws-builders/fast-and-secure-frontend-serving-with-aws-cloudfront-cdn-183d)
+- [Dev.to/JS] [Master Higher Order Component in React](https://dev.to/ministryofjavascript/master-higher-order-component-in-react-4e5)
+- [Dev.to/JS] [Easiest way to edit, customize &amp; deploy static Landing Pages on Netlify for free without Github](https://dev.to/jranandj/easiest-way-to-edit-customize-deploy-static-landing-pages-on-netlify-without-github-da5)
+- [Dev.to/JS] [Terraform code to Create Github Repository](https://dev.to/shankarsurya035/terraform-code-to-create-github-repository-4698)
 - [Dev.to/JS] [Building an aircraft radar system in JavaScript](https://dev.to/devdevcharlie/building-an-aircraft-radar-system-in-javascript-4ml8)
 - [Lifehacker] [Raw Eggs Aren&#39;t the Only Reason You Shouldn&#39;t Eat Cookie Dough](https://lifehacker.com/raw-eggs-arent-the-only-reason-you-shouldnt-eat-cookie-1849468636)
 - [Crazy Programmer] [7 Best Online Compilers 2022 – C, C++, Java, Python](https://www.thecrazyprogrammer.com/2022/08/best-online-compilers.html)
@@ -32,14 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rotate Array - I](https://dev.to/zeeshanali0704/rotate-array-i-3mkn)
 - [Dev.to/JS] [Building A Beautiful Link Preview With Web Components](https://dev.to/mariusbongarts/building-a-beautiful-link-preview-with-web-components-4bon)
 - [Lifehacker] [Free COVID Tests Are Going Away](https://lifehacker.com/free-covid-tests-are-going-away-1849467960)
-- [Dev.to/JS] [NodeJS OAuth2.0](https://dev.to/fernandoamz/nodejs-oauth20-hc5)
 - [Lifehacker] [How Parents Can Encourage Their Child&#39;s Joy](https://lifehacker.com/how-parents-can-encourage-their-childs-joy-1849465562)
-- [Dev.to/JS] [7 Useful Articles Every New Developer Should Bookmark 👍💯](https://dev.to/ijsucceed/7-useful-articles-every-new-developer-should-bookmark-bpg)
-- [Dev.to/JS] [Why 0.1+0.2==0.3 False?](https://dev.to/shubhamtiwari909/why-010203-false-ifd)
-- [Dev.to/JS] [WebView Callback response in Flutter](https://dev.to/deveshojha/webview-callback-response-in-flutter-43c0)
 - [Lifehacker] [The 7 Deadly Sins of Asking for a Raise](https://lifehacker.com/the-7-deadly-sins-of-asking-for-a-raise-1849463919)
-- [Dev.to/JS] [CSS Gradients Tool](https://dev.to/baraa/css-gradients-tool-ndp)
-- [Dev.to/JS] [10 Best Jamstack-ready eCommerce Platforms](https://dev.to/dsalinasgardon/10-best-jamstack-ready-ecommerce-platforms-59m8)
 - [Lifehacker] [Life Is Better With These Cinnamon Corn Cookies](https://lifehacker.com/life-is-better-with-these-cinnamon-corn-cookies-1849452346)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
