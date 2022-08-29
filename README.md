@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Demystify Hoisting in JS](https://dev.to/cclintris/javascript-demystify-hoisting-in-js-306b)
 - [Dev.to/JS] [Reacting to Big Div Energy](https://dev.to/emmacohanim/reacting-to-big-div-energy-41hf)
 - [Dev.to/JS] [QR-Code Generator in React](https://dev.to/reactjsguru/qr-code-generator-in-react-23p)
 - [Dev.to/JS] [Conclusion and final enhancements](https://dev.to/ayyash/conclusion-and-final-enhancements-3f2c)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array Partition - I](https://dev.to/zeeshanali0704/array-partition-i-c1)
 - [Dev.to/JS] [Reverse String - without reverse function](https://dev.to/zeeshanali0704/reverse-string-without-reverse-function-4cfo)
 - [Dev.to/JS] [Authorization In Node.js, All You Need To Know](https://dev.to/fredabod/authorization-in-nodejs-all-you-need-to-know-3fga)
-- [Dev.to/JS] [AFFiNE Local User Guide: Keep Your Data In Your Hands](https://dev.to/yipei/affine-local-user-guide-keep-your-data-in-your-hands-pbh)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
