@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Launch an Amazon Linux EC2 Instance Using Terraform](https://dev.to/shankarsurya035/how-to-launch-an-amazon-linux-ec2-instance-using-terraform-2ccc)
+- [Dev.to/JS] [Framework Wars Have Reached Runtimes: NodeJS, Bun, Deno](https://dev.to/adityatripathi/framework-wars-have-reached-runtimes-nodejs-bun-deno-3di0)
+- [Dev.to/JS] [How to build a real-time movie voting system using React.js 🤯](https://dev.to/rocketgraph/how-to-build-a-real-time-movie-voting-system-using-reactjs-45kl)
+- [Dev.to/JS] [Delete all XING Messages](https://dev.to/dawosch/delete-all-xing-messages-30jc)
+- [Dev.to/JS] [Top 10 JavaScript Frameworks to Use in 2022](https://dev.to/flatlogic/top-10-javascript-frameworks-to-use-in-2022-12dh)
 - [Dev.to/JS] [What is Event Delegation? And why would we need it?!](https://dev.to/edrisso/what-is-event-delegation-and-why-would-we-need-it-59le)
 - [Dev.to/JS] [Weekly dev insights](https://dev.to/smetankajakub/weekly-dev-insights-41i8)
 - [Dev.to/JS] [How to persist react state even after refresh!!!](https://dev.to/himanshupal0001/how-to-persist-react-state-even-after-refresh-ej5)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [fluxactive complete - Reviews, Pros, Cons, Results &amp; Uses?](https://dev.to/fluxactivecomp6/fluxactive-complete-reviews-pros-cons-results-uses-32ko)
 - [Dev.to/JS] [JavaScript: Demystify Hoisting in JS](https://dev.to/cclintris/javascript-demystify-hoisting-in-js-306b)
 - [Dev.to/JS] [Reacting to Big Div Energy](https://dev.to/emmacohanim/reacting-to-big-div-energy-41hf)
-- [Dev.to/JS] [QR-Code Generator in React](https://dev.to/reactjsguru/qr-code-generator-in-react-23p)
-- [Dev.to/JS] [Conclusion and final enhancements](https://dev.to/ayyash/conclusion-and-final-enhancements-3f2c)
-- [Dev.to/JS] [Simple Calendar Design](https://dev.to/mrepol742/simple-calendar-design-3mkg)
-- [Dev.to/JS] [Custom Hooks in React](https://dev.to/reactjsguru/custom-hooks-in-react-4kfi)
-- [Dev.to/JS] [Minimum Size Subarray Sum](https://dev.to/zeeshanali0704/minimum-size-subarray-sum-809)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
