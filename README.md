@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I implemented the Dev Community Notification Center with React, Novu and Websockets 🔥](https://dev.to/novu/i-implemented-the-dev-community-notification-center-with-react-novu-and-websockets-7fk)
+- [Dev.to/JS] [Move Zeroes](https://dev.to/zeeshanali0704/move-zeroes-54dm)
+- [Dev.to/JS] [Reverse Words in a String III](https://dev.to/zeeshanali0704/reverse-words-in-a-string-iii-2g6e)
+- [Dev.to/JS] [Rotate Array - I](https://dev.to/zeeshanali0704/rotate-array-i-3mkn)
+- [Dev.to/JS] [Building A Beautiful Link Preview With Web Components](https://dev.to/mariusbongarts/building-a-beautiful-link-preview-with-web-components-4bon)
+- [Lifehacker] [Free COVID Tests Are Going Away](https://lifehacker.com/free-covid-tests-are-going-away-1849467960)
+- [Dev.to/JS] [NodeJS OAuth2.0](https://dev.to/fernandoamz/nodejs-oauth20-hc5)
 - [Lifehacker] [How Parents Can Encourage Their Child&#39;s Joy](https://lifehacker.com/how-parents-can-encourage-their-childs-joy-1849465562)
 - [Dev.to/JS] [7 Useful Articles Every New Developer Should Bookmark 👍💯](https://dev.to/ijsucceed/7-useful-articles-every-new-developer-should-bookmark-bpg)
 - [Dev.to/JS] [Why 0.1+0.2==0.3 False?](https://dev.to/shubhamtiwari909/why-010203-false-ifd)
@@ -32,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Best Jamstack-ready eCommerce Platforms](https://dev.to/dsalinasgardon/10-best-jamstack-ready-ecommerce-platforms-59m8)
 - [Lifehacker] [Life Is Better With These Cinnamon Corn Cookies](https://lifehacker.com/life-is-better-with-these-cinnamon-corn-cookies-1849452346)
 - [Dev.to/JS] [Solana DEV #01: Fetching onchain data in a right way](https://dev.to/chungquantin/solana-dev-01-fetching-onchain-data-in-a-right-way-23da)
-- [Dev.to/JS] [How to execute delete statements with jpa query](https://dev.to/codever/how-to-execute-delete-statements-with-jpa-query-3lp4)
-- [Dev.to/JS] [Hanji v0.0.1](https://dev.to/_alexblokh/hanji-v001-4ago)
-- [Dev.to/JS] [How To Clear A Stuck GitHub Push](https://dev.to/dev_neil_a/how-to-clear-a-stuck-github-push-h57)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💪.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-574n)
-- [Dev.to/JS] [Basic Next.js app - blog post page [Building Personal Blog Website Part 3]](https://dev.to/hawelkam/basic-nextjs-app-blog-post-page-building-personal-blog-website-part-3-llf)
-- [Dev.to/JS] [7 Functional Programming Techniques for JavaScript Developers](https://dev.to/syncfusion/7-functional-programming-techniques-for-javascript-developers-19nj)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need a &#39;Digital Executor&#39;](https://lifehacker.com/why-you-need-a-digital-executor-1849458459)
 - [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)
 - [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
-- [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
-- [Lifehacker] [Put Some Chili Peppers in Your Crappy Pink Wine](https://lifehacker.com/put-some-chili-peppers-in-your-shitty-pink-wine-1849458441)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)<!-- TECH-POSTS:END -->
 
 ---
 
