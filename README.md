@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [I implemented the Dev Community Notification Center with React, Novu and Websockets 🔥](https://dev.to/novu/i-implemented-the-dev-community-notification-center-with-react-novu-and-websockets-7fk)
+- [Dev.to/JS] [Building an aircraft radar system in JavaScript](https://dev.to/devdevcharlie/building-an-aircraft-radar-system-in-javascript-4ml8)
+- [Lifehacker] [Raw Eggs Aren&#39;t the Only Reason You Shouldn&#39;t Eat Cookie Dough](https://lifehacker.com/raw-eggs-arent-the-only-reason-you-shouldnt-eat-cookie-1849468636)
+- [Crazy Programmer] [7 Best Online Compilers 2022 – C, C++, Java, Python](https://www.thecrazyprogrammer.com/2022/08/best-online-compilers.html)
+- [Dev.to/JS] [I implemented the DEV Community Notification Center with React, Novu and Websockets 🔥](https://dev.to/novu/i-implemented-the-dev-community-notification-center-with-react-novu-and-websockets-7fk)
 - [Dev.to/JS] [Move Zeroes](https://dev.to/zeeshanali0704/move-zeroes-54dm)
 - [Dev.to/JS] [Reverse Words in a String III](https://dev.to/zeeshanali0704/reverse-words-in-a-string-iii-2g6e)
 - [Dev.to/JS] [Rotate Array - I](https://dev.to/zeeshanali0704/rotate-array-i-3mkn)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CSS Gradients Tool](https://dev.to/baraa/css-gradients-tool-ndp)
 - [Dev.to/JS] [10 Best Jamstack-ready eCommerce Platforms](https://dev.to/dsalinasgardon/10-best-jamstack-ready-ecommerce-platforms-59m8)
 - [Lifehacker] [Life Is Better With These Cinnamon Corn Cookies](https://lifehacker.com/life-is-better-with-these-cinnamon-corn-cookies-1849452346)
-- [Dev.to/JS] [Solana DEV #01: Fetching onchain data in a right way](https://dev.to/chungquantin/solana-dev-01-fetching-onchain-data-in-a-right-way-23da)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)
 - [Lifehacker] [Precise Location Is Giving Your Coordinates Away to Apps](https://lifehacker.com/precise-location-is-giving-your-coordinates-away-to-app-1849458216)
 - [Lifehacker] [Why You Need a &#39;Digital Executor&#39;](https://lifehacker.com/why-you-need-a-digital-executor-1849458459)
-- [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)
-- [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
-- [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)<!-- TECH-POSTS:END -->
 
 ---
 
