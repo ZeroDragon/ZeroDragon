@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create and publish personal portfolio in seconds 🚀](https://dev.to/sahirskd/create-and-publish-personal-portfolio-in-seconds-3k12)
+- [Dev.to/JS] [Make Public Speaking A Useful Skill You Can Use](https://dev.to/servicestranslations/make-public-speaking-a-useful-skill-you-can-use-1ggj)
+- [Dev.to/JS] [Blogs for web devs and UI/UX designers](https://dev.to/gzamann/blogs-for-web-devs-and-uiux-designers-130m)
+- [Dev.to/JS] [React is great...but you should try Lit.](https://dev.to/devsatasurion/react-is-greatbut-you-should-try-lit-3aeb)
+- [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
+- [Dev.to/JS] [Hello there how are u :&rpar;](https://dev.to/sasindu_kavinda_d6c9e6e52/hello-there-how-are-u--2gmm)
+- [Dev.to/JS] [Why is React so popular?](https://dev.to/ragnarcodes/why-is-react-so-popular-2gdg)
+- [Dev.to/JS] [Serverless Node-Mongo API with DigitalOcean Functions](https://dev.to/arpan45/serverless-node-mongo-api-with-digitalocean-functions-5a3i)
+- [Dev.to/JS] [JavaScript Engine, a true story &lpar;Part 1&rpar;](https://dev.to/alirezahamid/javascript-engine-a-true-story-part-1-1hp1)
+- [Lifehacker] [The Easiest Way to Fix Bluetooth Issues on Your Mac](https://lifehacker.com/the-easiest-way-to-fix-bluetooth-issues-on-your-mac-1849469105)
 - [Dev.to/JS] [5 Refreshing Project Ideas - Planning Skills](https://dev.to/wadecodez/5-refreshing-project-ideas-test-planning-skills-44b7)
 - [Dev.to/JS] [I built a REST API with Redis](https://dev.to/2kabhishek/i-built-a-rest-api-with-redis-34dm)
 - [Dev.to/JS] [Tips on becoming a self-taught developer](https://dev.to/clarity89/tips-on-becoming-a-self-taught-developer-45j1)
 - [Dev.to/JS] [Track your test duration](https://dev.to/romaintrotard/track-your-test-duration-39fb)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
-- [Dev.to/JS] [What is array.reduce&lpar;&rpar; in JavaScript ?](https://dev.to/itsnoa04/what-is-arrayreduce-in-javascript--5d93)
 - [Lifehacker] [How to Pick Out the Best Produce](https://lifehacker.com/how-to-pick-out-the-best-produce-1849469475)
-- [Dev.to/JS] [Getting started with Website Test Automation](https://dev.to/tyry327/getting-started-with-website-test-automation-1633)
-- [Dev.to/JS] [Podcast | Fathym on Views on Vue](https://dev.to/richkurtzman/podcast-fathym-on-views-on-vue-14ac)
-- [Dev.to/JS] [Lazy Initialization and Storing functions with React useState hook](https://dev.to/msshanmukh/lazy-initialization-and-storing-functions-with-react-usestate-hook-1ahj)
 - [Lifehacker] [10 Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/10-renovations-that-can-actually-decrease-the-value-of-1849468967)
-- [Dev.to/JS] [Toy Tips And Ideas That Anyone Can Use](https://dev.to/clicksoft12/toy-tips-and-ideas-that-anyone-can-use-2m0m)
-- [Dev.to/JS] [Introducing juhu - an open source search engine](https://dev.to/aashishpanthi/introducing-juhu-an-open-source-search-engine-268i)
-- [Dev.to/JS] [What&#39;s new in `svelte-kit, 1.0.0-next.445`: &lpar;group&rpar; layout](https://dev.to/parables/whats-new-in-svelte-kit-100-next445-group-layout-1ld5)
-- [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/merjashourov/javascript-fundamentals-260b)
 - [Lifehacker] [Raw Eggs Aren&#39;t the Only Reason You Shouldn&#39;t Eat Cookie Dough](https://lifehacker.com/raw-eggs-arent-the-only-reason-you-shouldnt-eat-cookie-1849468636)
 - [Crazy Programmer] [7 Best Online Compilers 2022 – C, C++, Java, Python](https://www.thecrazyprogrammer.com/2022/08/best-online-compilers.html)
 - [Lifehacker] [Free COVID Tests Are Going Away](https://lifehacker.com/free-covid-tests-are-going-away-1849467960)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Dynamic Initialization of Objects in C++](https://www.thecrazyprogrammer.com/2022/08/dynamic-initialization-of-objects-in-c.html)
 - [Lifehacker] [What&#39;s New on HBO Max in September 2022](https://lifehacker.com/whats-new-on-hbo-max-in-september-2022-1849458808)
 - [Lifehacker] [DuckDuckGo Can Now Block Your Emails From Being Tracked](https://lifehacker.com/duckduckgo-can-now-block-your-emails-from-being-tracked-1849461485)
-- [Lifehacker] [How to Start Having Sex Again](https://lifehacker.com/how-to-start-having-sex-again-1849457199)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &lpar;Are?&rpar; Blackpink?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-a-1849460418)
-- [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Start Having Sex Again](https://lifehacker.com/how-to-start-having-sex-again-1849457199)<!-- TECH-POSTS:END -->
 
 ---
 
