@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is array.reduce&lpar;&rpar; in JavaScript ?](https://dev.to/itsnoa04/what-is-arrayreduce-in-javascript--5d93)
+- [Lifehacker] [How to Pick Out the Best Produce](https://lifehacker.com/how-to-pick-out-the-best-produce-1849469475)
+- [Dev.to/JS] [Getting started with Website Test Automation](https://dev.to/tyry327/getting-started-with-website-test-automation-1633)
+- [Dev.to/JS] [Podcast | Fathym on Views on Vue](https://dev.to/richkurtzman/podcast-fathym-on-views-on-vue-14ac)
+- [Dev.to/JS] [Lazy Initialization and Storing functions with React useState hook](https://dev.to/msshanmukh/lazy-initialization-and-storing-functions-with-react-usestate-hook-1ahj)
+- [Lifehacker] [10 Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/10-renovations-that-can-actually-decrease-the-value-of-1849468967)
+- [Dev.to/JS] [Toy Tips And Ideas That Anyone Can Use](https://dev.to/clicksoft12/toy-tips-and-ideas-that-anyone-can-use-2m0m)
+- [Dev.to/JS] [Introducing juhu - an open source search engine](https://dev.to/aashishpanthi/introducing-juhu-an-open-source-search-engine-268i)
 - [Dev.to/JS] [What&#39;s new in `svelte-kit, 1.0.0-next.445`: &lpar;group&rpar; layout](https://dev.to/parables/whats-new-in-svelte-kit-100-next445-group-layout-1ld5)
 - [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/merjashourov/javascript-fundamentals-260b)
 - [Dev.to/JS] [Fast and Secure Frontend Serving with AWS CloudFront CDN](https://dev.to/aws-builders/fast-and-secure-frontend-serving-with-aws-cloudfront-cdn-183d)
 - [Dev.to/JS] [Master Higher Order Component in React](https://dev.to/ministryofjavascript/master-higher-order-component-in-react-4e5)
-- [Dev.to/JS] [Easiest way to edit, customize &amp; deploy static Landing Pages on Netlify for free without Github](https://dev.to/jranandj/easiest-way-to-edit-customize-deploy-static-landing-pages-on-netlify-without-github-da5)
 - [Dev.to/JS] [Terraform code to Create Github Repository](https://dev.to/shankarsurya035/terraform-code-to-create-github-repository-4698)
-- [Dev.to/JS] [Building an aircraft radar system in JavaScript](https://dev.to/devdevcharlie/building-an-aircraft-radar-system-in-javascript-4ml8)
+- [Dev.to/JS] [Easiest way to edit, customize &amp; deploy static Landing Pages on Netlify for free without Github](https://dev.to/jranandj/easiest-way-to-edit-customize-deploy-static-landing-pages-on-netlify-without-github-da5)
 - [Lifehacker] [Raw Eggs Aren&#39;t the Only Reason You Shouldn&#39;t Eat Cookie Dough](https://lifehacker.com/raw-eggs-arent-the-only-reason-you-shouldnt-eat-cookie-1849468636)
 - [Crazy Programmer] [7 Best Online Compilers 2022 – C, C++, Java, Python](https://www.thecrazyprogrammer.com/2022/08/best-online-compilers.html)
-- [Dev.to/JS] [I implemented the DEV Community Notification Center with React, Novu and Websockets 🔥](https://dev.to/novu/i-implemented-the-dev-community-notification-center-with-react-novu-and-websockets-7fk)
-- [Dev.to/JS] [Move Zeroes](https://dev.to/zeeshanali0704/move-zeroes-54dm)
-- [Dev.to/JS] [Reverse Words in a String III](https://dev.to/zeeshanali0704/reverse-words-in-a-string-iii-2g6e)
-- [Dev.to/JS] [Rotate Array - I](https://dev.to/zeeshanali0704/rotate-array-i-3mkn)
-- [Dev.to/JS] [Building A Beautiful Link Preview With Web Components](https://dev.to/mariusbongarts/building-a-beautiful-link-preview-with-web-components-4bon)
 - [Lifehacker] [Free COVID Tests Are Going Away](https://lifehacker.com/free-covid-tests-are-going-away-1849467960)
 - [Lifehacker] [How Parents Can Encourage Their Child&#39;s Joy](https://lifehacker.com/how-parents-can-encourage-their-childs-joy-1849465562)
 - [Lifehacker] [The 7 Deadly Sins of Asking for a Raise](https://lifehacker.com/the-7-deadly-sins-of-asking-for-a-raise-1849463919)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Start Having Sex Again](https://lifehacker.com/how-to-start-having-sex-again-1849457199)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &lpar;Are?&rpar; Blackpink?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-a-1849460418)
 - [Lifehacker] [Clever Ways to Make a Long-Distance Relationship Suck Less](https://lifehacker.com/clever-ways-to-make-a-long-distance-relationship-suck-l-1849459435)
-- [Lifehacker] [Precise Location Is Giving Your Coordinates Away to Apps](https://lifehacker.com/precise-location-is-giving-your-coordinates-away-to-app-1849458216)
-- [Lifehacker] [Why You Need a &#39;Digital Executor&#39;](https://lifehacker.com/why-you-need-a-digital-executor-1849458459)
-- [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Precise Location Is Giving Your Coordinates Away to Apps](https://lifehacker.com/precise-location-is-giving-your-coordinates-away-to-app-1849458216)<!-- TECH-POSTS:END -->
 
 ---
 
