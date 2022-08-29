@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS Gradients Tool](https://dev.to/baraa/css-gradients-tool-ndp)
+- [Dev.to/JS] [10 Best Jamstack-ready eCommerce Platforms](https://dev.to/dsalinasgardon/10-best-jamstack-ready-ecommerce-platforms-59m8)
+- [Lifehacker] [Life Is Better With These Cinnamon Corn Cookies](https://lifehacker.com/life-is-better-with-these-cinnamon-corn-cookies-1849452346)
+- [Dev.to/JS] [Solana DEV #01: Fetching onchain data in a right way](https://dev.to/chungquantin/solana-dev-01-fetching-onchain-data-in-a-right-way-23da)
+- [Dev.to/JS] [How to execute delete statements with jpa query](https://dev.to/codever/how-to-execute-delete-statements-with-jpa-query-3lp4)
+- [Dev.to/JS] [Hanji v0.0.1](https://dev.to/_alexblokh/hanji-v001-4ago)
+- [Dev.to/JS] [How To Clear A Stuck GitHub Push](https://dev.to/dev_neil_a/how-to-clear-a-stuck-github-push-h57)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💪.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-574n)
 - [Dev.to/JS] [Basic Next.js app - blog post page [Building Personal Blog Website Part 3]](https://dev.to/hawelkam/basic-nextjs-app-blog-post-page-building-personal-blog-website-part-3-llf)
+- [Dev.to/JS] [7 Functional Programming Techniques for JavaScript Developers](https://dev.to/syncfusion/7-functional-programming-techniques-for-javascript-developers-19nj)
 - [Dev.to/JS] [I am speed, I can be Javascript](https://dev.to/vipertechofficial/i-am-speed-i-can-be-javascript-3b31)
 - [Dev.to/JS] [How to protect a JS array against truncation](https://dev.to/smlka/how-to-protect-a-js-array-against-truncation-1lfk)
 - [Dev.to/JS] [Functional core, imperative shell](https://dev.to/betterways/functional-core-imperative-shell-4fde)
-- [Dev.to/JS] [How JSON web token works in NodeJS for Authentication with a Project](https://dev.to/surajondev/how-json-web-token-works-in-nodejs-for-authentication-with-a-project-6cl)
-- [Dev.to/JS] [Ng-News: Episode 22/34](https://dev.to/rainerhahnekamp/ng-news-episode-2234-2mf2)
-- [Dev.to/JS] [Phase - 1 Recap](https://dev.to/philmtz14/phase-1-recap-338k)
-- [Dev.to/JS] [Migrating your app from Webpack to Vite](https://dev.to/stormkit/migrating-stormkit-from-webpack-to-vite-5429)
-- [Dev.to/JS] [Complete Free React JS Tutorials From Beginner to Advanced](https://dev.to/ministryofjavascript/complete-free-react-js-tutorials-from-beginner-to-advanced-3cn2)
-- [Dev.to/JS] [The NGROK tunnel could not be started](https://dev.to/elango13/the-ngrok-tunnel-could-not-be-started-4j3a)
-- [Dev.to/JS] [𝟰 𝗺𝗮𝗶𝗻 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗺𝗲𝘁𝗵𝗼𝗱𝘀 𝘁𝗼 𝗿𝗲𝗺𝗼𝘃𝗲 𝗲𝗹𝗲𝗺𝗲𝗻𝘁𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗮𝗿𝗿𝗮𝘆,🚀](https://dev.to/areedev/-1f8l)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
 - [Lifehacker] [Put Some Chili Peppers in Your Crappy Pink Wine](https://lifehacker.com/put-some-chili-peppers-in-your-shitty-pink-wine-1849458441)
 - [Lifehacker] [How Much Your Plants Will Really Cost You Over Time](https://lifehacker.com/how-much-your-plants-will-really-cost-you-over-time-1849457189)
-- [Lifehacker] [What’s the Difference Between a Recession and a Depression?](https://lifehacker.com/what-s-the-difference-between-a-recession-and-a-depress-1849458251)
-- [Lifehacker] [Enable These Instagram Privacy Settings Right Now](https://lifehacker.com/enable-these-instagram-privacy-settings-right-now-1849456072)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What’s the Difference Between a Recession and a Depression?](https://lifehacker.com/what-s-the-difference-between-a-recession-and-a-depress-1849458251)<!-- TECH-POSTS:END -->
 
 ---
 
