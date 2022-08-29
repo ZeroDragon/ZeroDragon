@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Parents Can Encourage Their Child&#39;s Joy](https://lifehacker.com/how-parents-can-encourage-their-childs-joy-1849465562)
+- [Dev.to/JS] [7 Useful Articles Every New Developer Should Bookmark 👍💯](https://dev.to/ijsucceed/7-useful-articles-every-new-developer-should-bookmark-bpg)
+- [Dev.to/JS] [Why 0.1+0.2==0.3 False?](https://dev.to/shubhamtiwari909/why-010203-false-ifd)
+- [Dev.to/JS] [WebView Callback response in Flutter](https://dev.to/deveshojha/webview-callback-response-in-flutter-43c0)
+- [Lifehacker] [The 7 Deadly Sins of Asking for a Raise](https://lifehacker.com/the-7-deadly-sins-of-asking-for-a-raise-1849463919)
 - [Dev.to/JS] [CSS Gradients Tool](https://dev.to/baraa/css-gradients-tool-ndp)
 - [Dev.to/JS] [10 Best Jamstack-ready eCommerce Platforms](https://dev.to/dsalinasgardon/10-best-jamstack-ready-ecommerce-platforms-59m8)
 - [Lifehacker] [Life Is Better With These Cinnamon Corn Cookies](https://lifehacker.com/life-is-better-with-these-cinnamon-corn-cookies-1849452346)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💪.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-574n)
 - [Dev.to/JS] [Basic Next.js app - blog post page [Building Personal Blog Website Part 3]](https://dev.to/hawelkam/basic-nextjs-app-blog-post-page-building-personal-blog-website-part-3-llf)
 - [Dev.to/JS] [7 Functional Programming Techniques for JavaScript Developers](https://dev.to/syncfusion/7-functional-programming-techniques-for-javascript-developers-19nj)
-- [Dev.to/JS] [I am speed, I can be Javascript](https://dev.to/vipertechofficial/i-am-speed-i-can-be-javascript-3b31)
-- [Dev.to/JS] [How to protect a JS array against truncation](https://dev.to/smlka/how-to-protect-a-js-array-against-truncation-1lfk)
-- [Dev.to/JS] [Functional core, imperative shell](https://dev.to/betterways/functional-core-imperative-shell-4fde)
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There’s Something Better Than ‘Quiet Quitting’](https://lifehacker.com/there-s-something-better-than-quiet-quitting-1849457662)
 - [Lifehacker] [Why You&#39;re Overthinking Your Running Shoes, According to Science](https://lifehacker.com/why-youre-overthinking-your-running-shoes-according-to-1849458897)
 - [Lifehacker] [How to Tell If You&#39;re Eligible for Student Loan Forgiveness](https://lifehacker.com/how-to-tell-if-youre-eligible-for-student-loan-forgiven-1849458572)
-- [Lifehacker] [Put Some Chili Peppers in Your Crappy Pink Wine](https://lifehacker.com/put-some-chili-peppers-in-your-shitty-pink-wine-1849458441)
-- [Lifehacker] [How Much Your Plants Will Really Cost You Over Time](https://lifehacker.com/how-much-your-plants-will-really-cost-you-over-time-1849457189)
-- [Lifehacker] [What’s the Difference Between a Recession and a Depression?](https://lifehacker.com/what-s-the-difference-between-a-recession-and-a-depress-1849458251)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Put Some Chili Peppers in Your Crappy Pink Wine](https://lifehacker.com/put-some-chili-peppers-in-your-shitty-pink-wine-1849458441)<!-- TECH-POSTS:END -->
 
 ---
 
