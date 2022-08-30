@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Dev.to/JS] [Stages and Environment Variables in Svelte &lpar;SvelteKit&rpar;](https://dev.to/willkre/stages-and-environment-variables-in-svelte-sveltekit-mdj)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Pick Out the Best Produce](https://lifehacker.com/how-to-pick-out-the-best-produce-1849469475)
 - [Lifehacker] [10 Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/10-renovations-that-can-actually-decrease-the-value-of-1849468967)
 - [Lifehacker] [Raw Eggs Aren&#39;t the Only Reason You Shouldn&#39;t Eat Cookie Dough](https://lifehacker.com/raw-eggs-arent-the-only-reason-you-shouldnt-eat-cookie-1849468636)
-- [Crazy Programmer] [7 Best Online Compilers 2022 – C, C++, Java, Python](https://www.thecrazyprogrammer.com/2022/08/best-online-compilers.html)
-- [Lifehacker] [Free COVID Tests Are Going Away](https://lifehacker.com/free-covid-tests-are-going-away-1849467960)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [7 Best Online Compilers 2022 – C, C++, Java, Python](https://www.thecrazyprogrammer.com/2022/08/best-online-compilers.html)<!-- TECH-POSTS:END -->
 
 ---
 
