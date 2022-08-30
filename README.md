@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
+- [Lifehacker] [Are You Streaming in the Best Quality Possible?](https://lifehacker.com/are-you-streaming-in-the-best-quality-possible-1849474701)
+- [Dev.to/JS] [Testing implementation details](https://dev.to/jmalvarez/testing-implementation-details-gkg)
+- [Dev.to/JS] [How to select the right HOF&#39;s to use](https://dev.to/maysab/how-to-select-the-right-hofs-to-use-49lj)
+- [Dev.to/JS] [Code list items with &quot;show more/less&quot; functionality in React](https://dev.to/muratcanyuksel/code-list-items-with-show-moreless-functionality-in-react-22k0)
+- [Lifehacker] [How to Watch NASA Crash a Spaceship Into an Asteroid](https://lifehacker.com/how-to-watch-nasa-crash-a-spaceship-into-an-asteroid-1849475013)
 - [Dev.to/JS] [RxFire in Svelte 3 using Firebase Firestore and Authentication](https://dev.to/codingcatdev/rxfire-in-svelte-3-using-firebase-firestore-and-authentication-2clk)
 - [Dev.to/JS] [RxFire in ReactJS using Firebase Firestore and Authentication](https://dev.to/codingcatdev/rxfire-in-reactjs-using-firebase-firestore-and-authentication-3ao)
 - [Dev.to/JS] [Angular PWA to Google Play store, using Trusted Web Activity](https://dev.to/codingcatdev/angular-pwa-to-google-play-store-using-trusted-web-activity-5en4)
@@ -33,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Finding a Company with Great Values](https://dev.to/codingcatdev/finding-a-company-with-great-values-3927)
 - [Dev.to/JS] [Next.js 11 Features](https://dev.to/codingcatdev/nextjs-11-features-1e6f)
 - [Dev.to/JS] [AJonP Hugo Ionic Template](https://dev.to/codingcatdev/ajonp-hugo-ionic-template-agg)
-- [Dev.to/JS] [NPM Tips and Tricks](https://dev.to/codingcatdev/npm-tips-and-tricks-2n18)
-- [Dev.to/JS] [AWS Amplify vs. AWS CDK What is the most powerful AWS IaC in 2020?](https://dev.to/codingcatdev/aws-amplify-vs-aws-cdk-what-is-the-most-powerful-aws-iac-in-2020-1e1a)
-- [Dev.to/JS] [Google Cloud Reference](https://dev.to/codingcatdev/google-cloud-reference-lhm)
 - [Lifehacker] [Why the Gym Won&#39;t Fix Your Body Issues](https://lifehacker.com/why-the-gym-wont-fix-your-body-issues-1849474639)
 - [Lifehacker] [12 Impressive Pen Tricks to Learn for When You&#39;re Nervous or Bored](https://lifehacker.com/12-impressive-pen-tricks-to-learn-for-when-youre-nervou-1849474299)
 - [Lifehacker] [How to Get the Best Possible Seat on a Flight for Free](https://lifehacker.com/how-to-get-the-best-possible-seat-on-a-flight-for-free-1849474031)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Raw Eggs Aren&#39;t the Only Reason You Shouldn&#39;t Eat Cookie Dough](https://lifehacker.com/raw-eggs-arent-the-only-reason-you-shouldnt-eat-cookie-1849468636)
 - [Crazy Programmer] [7 Best Online Compilers 2022 – C, C++, Java, Python](https://www.thecrazyprogrammer.com/2022/08/best-online-compilers.html)
 - [Lifehacker] [Free COVID Tests Are Going Away](https://lifehacker.com/free-covid-tests-are-going-away-1849467960)
-- [Lifehacker] [How Parents Can Encourage Their Child&#39;s Joy](https://lifehacker.com/how-parents-can-encourage-their-childs-joy-1849465562)
-- [Lifehacker] [The 7 Deadly Sins of Asking for a Raise](https://lifehacker.com/the-7-deadly-sins-of-asking-for-a-raise-1849463919)
-- [Lifehacker] [Life Is Better With These Cinnamon Corn Cookies](https://lifehacker.com/life-is-better-with-these-cinnamon-corn-cookies-1849452346)
-- [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Parents Can Encourage Their Child&#39;s Joy](https://lifehacker.com/how-parents-can-encourage-their-childs-joy-1849465562)<!-- TECH-POSTS:END -->
 
 ---
 
