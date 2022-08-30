@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Implement Delayed Messages with RabbitMQ? Code Examples](https://dev.to/forasoft/how-to-implement-delayed-messages-with-rabbitmq-code-examples-3ao0)
+- [Dev.to/JS] [Nuxtjs on Heroku](https://dev.to/vilce/nuxtjs-on-heroku-18pp)
+- [Dev.to/JS] [Adding typescript to the existing react project](https://dev.to/filchevigor/adding-typescript-to-the-existing-react-project-19hn)
 - [Dev.to/JS] [Top WebStorm Plugins To Level Up Your Productivity](https://dev.to/jamieswift90/top-webstorm-plugins-to-level-up-your-productivity-4439)
 - [Dev.to/JS] [I lost a lot of customers because of a single button.](https://dev.to/midgekim/i-lost-a-lot-of-customers-because-of-a-single-button-2761)
 - [Dev.to/JS] [Fast IP 🚀 | IP infos, nothing else.](https://dev.to/mberger75/fast-ip-ip-infos-nothing-else-2h5n)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Issues with :hover, visibility and clicks in Cypress](https://dev.to/olaj/issues-with-hover-visibility-and-clicks-in-cypress-55il)
 - [Dev.to/JS] [Duplicate Zeros - I](https://dev.to/zeeshanali0704/duplicate-zeros-i-1on4)
 - [Dev.to/JS] [React: What is composition, and why is it important](https://dev.to/brense/react-what-is-composition-and-why-is-it-important-3809)
-- [Dev.to/JS] [Event Timer](https://dev.to/jeffchavez_dev/event-timer-o64)
-- [Dev.to/JS] [Recursive Digit Sum - I](https://dev.to/zeeshanali0704/recursive-digit-sum-i-5an3)
-- [Dev.to/JS] [Astro Framework](https://dev.to/bryan93m/astro-framework-1750)
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
 - [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
