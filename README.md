@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get the Best Possible Seat on a Flight for Free](https://lifehacker.com/how-to-get-the-best-possible-seat-on-a-flight-for-free-1849474031)
+- [Dev.to/JS] [Ionic Icons](https://dev.to/codingcatdev/ionic-icons-1e07)
+- [Dev.to/JS] [The FARR Stack Manifesto.](https://dev.to/wiseai/the-farr-stack-manifesto-mcd)
+- [Dev.to/JS] [Haramnya Main Slot](https://dev.to/onixsgaming/haramnya-main-slot-33i2)
+- [Lifehacker] [Three Surprising Ways to Reuse Coffee Grounds](https://lifehacker.com/three-surprising-ways-to-reuse-coffee-grounds-1849474107)
+- [Dev.to/JS] [How to build water website with flying bubbles](https://dev.to/awcode0x/how-to-build-water-website-with-flying-bubbles-2gjm)
+- [Dev.to/JS] [How to Create a Responsive Navbar with Toggler Button Animation Using Flexbox?](https://dev.to/shameerchagani/how-to-create-a-responsive-navbar-with-toggler-button-animation-using-flexbox-2ik2)
+- [Dev.to/JS] [I Went Way Too FAR By Building a Real Time Chat App Using The FARR &lpar;Fastapi, React, Redis&rpar; Stack.](https://dev.to/wiseai/i-went-way-too-far-by-building-a-real-time-chat-app-using-the-farr-fastapi-react-redis-stack-29a2)
+- [Dev.to/JS] [16+ JavaScript snippets to save your time](https://dev.to/posandu/16-javascript-snippets-to-save-your-time-5hmc)
 - [Lifehacker] [How to Recover From a Moral Injury](https://lifehacker.com/how-to-recover-from-a-moral-injury-1849473757)
 - [Dev.to/JS] [How to build an end-to-end encrypted chat app in Next.js: Messages and encryption](https://dev.to/hackmamba/how-to-build-an-end-to-end-encrypted-chat-app-in-nextjs-messages-and-encryption-317f)
 - [Dev.to/JS] [Reliable Web Apps 2022](https://dev.to/mocapitan/reliable-web-apps-2022-2ngl)
@@ -32,14 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Any good OS isomorphic CRM or ERP?](https://dev.to/joelbonetr/any-good-os-isomorphic-crm-or-erp-pb9)
 - [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
 - [Dev.to/JS] [Understanding Async/Await in JavaScript](https://dev.to/archyscript/understanding-asyncawait-in-javascript-561d)
-- [Dev.to/JS] [How About a Nice Game of Chess?](https://dev.to/rmion/how-about-a-nice-game-of-chess-564f)
-- [Dev.to/JS] [Component-level data fetching in Sitecore JSS with Next.js](https://dev.to/sitecore/component-level-data-fetching-in-sitecore-jss-with-nextjs-50d9)
-- [Dev.to/JS] [Meteor.js blast from the past: mobile package examples](https://dev.to/storytellercz/meteorjs-blast-from-the-past-mobile-package-examples-17jl)
-- [Dev.to/JS] [useNavigate Hook in React JS](https://dev.to/keeganmcroberts/usenavigate-hook-5h0c)
 - [Lifehacker] [How to Ease the Physical Symptoms of Grief](https://lifehacker.com/how-to-ease-the-physical-symptoms-of-grief-1849471505)
-- [Dev.to/JS] [Announcing Vituum - Template engines and more in Vite](https://dev.to/lubomirblazekcz/announcing-vituum-template-engines-and-more-in-vite-377k)
-- [Dev.to/JS] [Js Cheatsheet](https://dev.to/anshulsoni2010/js-cheatsheet-365l)
-- [Dev.to/JS] [What is the difference between SSR, ISR, CSR, SSG](https://dev.to/mojodev/what-is-the-difference-between-ssr-isr-csr-ssg-2g9p)
 - [Lifehacker] [You Should Memorize These Ways to Reset Your Cell Service](https://lifehacker.com/you-should-memorize-these-ways-to-reset-your-cell-servi-1849472226)
 - [Lifehacker] [How to Revive Dead Soil](https://lifehacker.com/how-to-revive-dead-soil-1849471252)
 - [Lifehacker] [How to Get 100% of Your Student Loans Forgiven Through the Borrower Defense Program](https://lifehacker.com/how-to-get-100-of-your-student-loans-forgiven-through-1849468656)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Your Vacuum](https://lifehacker.com/how-to-clean-your-vacuum-1849461697)
 - [Lifehacker] [How to Tell If Your At-Home COVID Test Really Expired](https://lifehacker.com/how-to-tell-if-your-at-home-covid-test-really-expired-1849461686)
 - [Lifehacker] [The Meanings Behind Common Real Estate Terms](https://lifehacker.com/the-meanings-behind-common-real-estate-terms-1849461675)
-- [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)
-- [Lifehacker] [How to Avoid Social Exhaustion and Still Be a Good Friend](https://lifehacker.com/how-to-avoid-social-exhaustion-and-still-be-a-good-frie-1849462162)
-- [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Remove a Broken Light Bulb From a Socket](https://lifehacker.com/how-to-remove-a-broken-light-bulb-from-a-socket-1849462176)<!-- TECH-POSTS:END -->
 
 ---
 
