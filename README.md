@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add authentication to your React apps in minutes](https://dev.to/bhagatpratik07/add-authentication-to-your-react-apps-in-minutes-5g0)
+- [Dev.to/JS] [A brief guide for CSS Grid and Flexbox](https://dev.to/refine/a-brief-guide-for-css-grid-and-flexbox-3ild)
+- [Dev.to/JS] [I Made website for me. Check it](https://dev.to/awcode0x/i-made-website-for-me-check-it-4mdd)
+- [Dev.to/JS] [Making Nuxt.js clone with Vue 3 and Vite &lpar;Vue Server Side Rendering&rpar;](https://dev.to/fyapy/making-nuxtjs-clone-with-vue-3-and-vite-vue-server-side-rendering-8e5)
 - [Dev.to/JS] [How to Implement Delayed Messages with RabbitMQ? Code Examples](https://dev.to/forasoft/how-to-implement-delayed-messages-with-rabbitmq-code-examples-3ao0)
 - [Dev.to/JS] [Nuxtjs on Heroku](https://dev.to/vilce/nuxtjs-on-heroku-18pp)
 - [Dev.to/JS] [Adding typescript to the existing react project](https://dev.to/filchevigor/adding-typescript-to-the-existing-react-project-19hn)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fast IP 🚀 | IP infos, nothing else.](https://dev.to/mberger75/fast-ip-ip-infos-nothing-else-2h5n)
 - [Dev.to/JS] [Protetox - Price, Results, Pros, Cons, Scam Or Legit?](https://dev.to/protetoxfact/protetox-price-results-pros-cons-scam-or-legit-2513)
 - [Dev.to/JS] [How to Handle Previews in a Headless Architecture](https://dev.to/strapi/how-to-handle-previews-in-a-headless-architecture-3789)
-- [Dev.to/JS] [Publishing a Chrome browser extension](https://dev.to/dailydevtips1/publishing-a-chrome-browser-extension-2j91)
-- [Dev.to/JS] [Issues with :hover, visibility and clicks in Cypress](https://dev.to/olaj/issues-with-hover-visibility-and-clicks-in-cypress-55il)
-- [Dev.to/JS] [Duplicate Zeros - I](https://dev.to/zeeshanali0704/duplicate-zeros-i-1on4)
-- [Dev.to/JS] [React: What is composition, and why is it important](https://dev.to/brense/react-what-is-composition-and-why-is-it-important-3809)
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
 - [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
