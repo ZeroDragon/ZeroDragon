@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [OneSocial - The ultimate social app](https://dev.to/subhamx/onesocial-the-ultimate-social-app-51d0)
+- [Dev.to/JS] [Week&#39;s readings](https://dev.to/thaisavieira/weeks-readings-3133)
+- [Dev.to/JS] [OneSocial - The ultimate app](https://dev.to/subhamx/onesocial-the-ultimate-social-app-51d0)
 - [Dev.to/JS] [Signals and Noise](https://dev.to/rmion/signals-and-noise-2ch0)
 - [Dev.to/JS] [How know I learning good practices for programming?](https://dev.to/julimuz/how-know-i-learning-good-practices-for-programming-4fdi)
 - [Dev.to/JS] [4 Tips to Speed Up Your Data Science Workflow, Using Observable](https://dev.to/datascibae/4-tips-to-speed-up-your-data-science-workflow-using-observable-3a32)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello there how are u :&rpar;](https://dev.to/sasindu_kavinda_d6c9e6e52/hello-there-how-are-u--2gmm)
 - [Dev.to/JS] [Why is React so popular?](https://dev.to/ragnarcodes/why-is-react-so-popular-2gdg)
 - [Dev.to/JS] [Serverless Node-Mongo API with DigitalOcean Functions](https://dev.to/arpan45/serverless-node-mongo-api-with-digitalocean-functions-5a3i)
-- [Dev.to/JS] [JavaScript Engine, a true story &lpar;Part 1&rpar;](https://dev.to/alirezahamid/javascript-engine-a-true-story-part-1-1hp1)
 - [Lifehacker] [The Easiest Way to Fix Bluetooth Issues on Your Mac](https://lifehacker.com/the-easiest-way-to-fix-bluetooth-issues-on-your-mac-1849469105)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [How to Pick Out the Best Produce](https://lifehacker.com/how-to-pick-out-the-best-produce-1849469475)
