@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event Timer](https://dev.to/jeffchavez_dev/event-timer-o64)
 - [Dev.to/JS] [Recursive Digit Sum - I](https://dev.to/zeeshanali0704/recursive-digit-sum-i-5an3)
 - [Dev.to/JS] [Astro Framework](https://dev.to/bryan93m/astro-framework-1750)
 - [Dev.to/JS] [What is an Object? - Part I](https://dev.to/jinchoo/what-is-object-part-i-2ib1)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Dev.to/JS] [Create and publish personal portfolio in seconds 🚀](https://dev.to/sahirskd/create-and-publish-personal-portfolio-in-seconds-3k12)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
-- [Dev.to/JS] [Make Public Speaking A Useful Skill You Can Use](https://dev.to/servicestranslations/make-public-speaking-a-useful-skill-you-can-use-1ggj)
 - [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
 - [Lifehacker] [The Easiest Way to Fix Bluetooth Issues on Your Mac](https://lifehacker.com/the-easiest-way-to-fix-bluetooth-issues-on-your-mac-1849469105)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
