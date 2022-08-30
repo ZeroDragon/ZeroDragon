@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Issues with :hover, visibility and clicks in Cypress](https://dev.to/olaj/issues-with-hover-visibility-and-clicks-in-cypress-55il)
+- [Dev.to/JS] [Duplicate Zeros - I](https://dev.to/zeeshanali0704/duplicate-zeros-i-1on4)
 - [Dev.to/JS] [React: What is composition, and why is it important](https://dev.to/brense/react-what-is-composition-and-why-is-it-important-3809)
 - [Dev.to/JS] [Event Timer](https://dev.to/jeffchavez_dev/event-timer-o64)
 - [Dev.to/JS] [Recursive Digit Sum - I](https://dev.to/zeeshanali0704/recursive-digit-sum-i-5an3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Week&#39;s readings](https://dev.to/thaisavieira/weeks-readings-3133)
 - [Dev.to/JS] [OneSocial - The ultimate app](https://dev.to/subhamx/onesocial-the-ultimate-social-app-51d0)
 - [Dev.to/JS] [Signals and Noise](https://dev.to/rmion/signals-and-noise-2ch0)
-- [Dev.to/JS] [How know I learning good practices for programming?](https://dev.to/julimuz/how-know-i-learning-good-practices-for-programming-4fdi)
-- [Dev.to/JS] [4 Tips to Speed Up Your Data Science Workflow, Using Observable](https://dev.to/datascibae/4-tips-to-speed-up-your-data-science-workflow-using-observable-3a32)
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
 - [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
