@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top WebStorm Plugins To Level Up Your Productivity](https://dev.to/jamieswift90/top-webstorm-plugins-to-level-up-your-productivity-4439)
+- [Dev.to/JS] [I lost a lot of customers because of a single button.](https://dev.to/midgekim/i-lost-a-lot-of-customers-because-of-a-single-button-2761)
+- [Dev.to/JS] [Fast IP 🚀 | IP infos, nothing else.](https://dev.to/mberger75/fast-ip-ip-infos-nothing-else-2h5n)
+- [Dev.to/JS] [Protetox - Price, Results, Pros, Cons, Scam Or Legit?](https://dev.to/protetoxfact/protetox-price-results-pros-cons-scam-or-legit-2513)
 - [Dev.to/JS] [How to Handle Previews in a Headless Architecture](https://dev.to/strapi/how-to-handle-previews-in-a-headless-architecture-3789)
 - [Dev.to/JS] [Publishing a Chrome browser extension](https://dev.to/dailydevtips1/publishing-a-chrome-browser-extension-2j91)
 - [Dev.to/JS] [Issues with :hover, visibility and clicks in Cypress](https://dev.to/olaj/issues-with-hover-visibility-and-clicks-in-cypress-55il)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event Timer](https://dev.to/jeffchavez_dev/event-timer-o64)
 - [Dev.to/JS] [Recursive Digit Sum - I](https://dev.to/zeeshanali0704/recursive-digit-sum-i-5an3)
 - [Dev.to/JS] [Astro Framework](https://dev.to/bryan93m/astro-framework-1750)
-- [Dev.to/JS] [What is an Object? - Part I](https://dev.to/jinchoo/what-is-object-part-i-2ib1)
-- [Dev.to/JS] [Question](https://dev.to/devgm1/question-1c63)
-- [Dev.to/JS] [First steps into Learning React](https://dev.to/jacksondynamics/the-beginning-stages-of-learning-react-1gp9)
-- [Dev.to/JS] [Week&#39;s readings](https://dev.to/thaisavieira/weeks-readings-3133)
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
 - [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
