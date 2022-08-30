@@ -23,20 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Ease the Physical Symptoms of Grief](https://lifehacker.com/how-to-ease-the-physical-symptoms-of-grief-1849471505)
+- [Dev.to/JS] [Announcing Vituum - Template engines and more in Vite](https://dev.to/lubomirblazekcz/announcing-vituum-template-engines-and-more-in-vite-377k)
+- [Dev.to/JS] [Js Cheatsheet](https://dev.to/anshulsoni2010/js-cheatsheet-365l)
+- [Dev.to/JS] [What is the difference between SSR, ISR, CSR, SSG](https://dev.to/mojodev/what-is-the-difference-between-ssr-isr-csr-ssg-2g9p)
+- [Lifehacker] [You Should Memorize These Ways to Reset Your Cell Service](https://lifehacker.com/you-should-memorize-these-ways-to-reset-your-cell-servi-1849472226)
+- [Dev.to/JS] [Creating a Micro Frontend App with Angular Module Federation](https://dev.to/henriquecustodia/creating-a-micro-frontend-app-with-angular-module-federation-ah9)
+- [Dev.to/JS] [Kafka topic naming conventions - 5 recommendations with examples](https://dev.to/kadeck/kafka-topic-naming-conventions-5-recommendations-with-examples-46h4)
+- [Lifehacker] [How to Revive Dead Soil](https://lifehacker.com/how-to-revive-dead-soil-1849471252)
 - [Dev.to/JS] [Passing content to child&#39;s child](https://dev.to/murkuruku/passing-content-to-childs-child-5666)
 - [Lifehacker] [How to Get 100% of Your Student Loans Forgiven Through the Borrower Defense Program](https://lifehacker.com/how-to-get-100-of-your-student-loans-forgiven-through-1849468656)
 - [Dev.to/JS] [Responsive Furniture eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-furniture-ecommerce-website-using-html-css-javascript-52a4)
-- [Dev.to/JS] [CSS-Flexbox](https://dev.to/prerna0202/css-flexbox-3cd6)
 - [Lifehacker] [Grate a Tomato on Your Breakfast Sandwich](https://lifehacker.com/grate-a-tomato-on-your-breakfast-sandwich-1849470643)
 - [Dev.to/JS] [Make A Selected/Clicked Button Active In JavaScript](https://dev.to/hirajatamil/make-a-selectedclicked-button-active-in-javascript-1hl5)
 - [Dev.to/JS] [[NEED HELP] Screen orientation lock for a website JS/CSS](https://dev.to/eixi/need-help-screen-orientation-lock-for-a-website-jscss-20b7)
 - [Dev.to/JS] [Set Environment Variables Programmatically in Postman](https://dev.to/drsimplegraffiti/set-environment-variables-programmatically-in-postman-kij)
 - [Dev.to/JS] [Master API Integration in React](https://dev.to/ministryofjavascript/master-api-integration-in-react-2ki)
 - [Dev.to/JS] [How to find pathname of any URL - Javascript](https://dev.to/devbajwa/how-to-find-pathname-of-any-url-javascript-2bcl)
-- [Dev.to/JS] [Implementing TimetableJs in Ruby On Rails](https://dev.to/timnans/implementing-timetablejs-in-ruby-on-rails-17ia)
-- [Dev.to/JS] [Testing tools: Launchers and Structure Providers](https://dev.to/asayerio_techblog/testing-tools-launchers-and-structure-providers-5gga)
-- [Dev.to/JS] [Forever Functional: A Treasury of Tips, Tricks and Techniques for JavaScript](https://dev.to/asayerio_techblog/forever-functional-a-treasury-of-tips-tricks-and-techniques-for-javascript-224c)
-- [Dev.to/JS] [Test Post](https://dev.to/adeelijah/test-post-3i9h)
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
 - [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
 - [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
-- [Lifehacker] [Five of the Most Underrated Fast Food Menu Items](https://lifehacker.com/five-of-the-most-underrated-fast-food-menu-items-1849462125)
-- [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
-- [Lifehacker] [The Best Ways to Spend &lpar;or Invest&rpar; That $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
-- [Lifehacker] [How to Build an Altoids Tin Survival Kit](https://lifehacker.com/how-to-build-an-altoids-tin-survival-kit-1849461946)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five of the Most Underrated Fast Food Menu Items](https://lifehacker.com/five-of-the-most-underrated-fast-food-menu-items-1849462125)<!-- TECH-POSTS:END -->
 
 ---
 
