@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Any good OS isomorphic CRM or ERP?](https://dev.to/joelbonetr/any-good-os-isomorphic-crm-or-erp-pb9)
+- [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
+- [Dev.to/JS] [Understanding Async/Await in JavaScript](https://dev.to/archyscript/understanding-asyncawait-in-javascript-561d)
+- [Dev.to/JS] [How About a Nice Game of Chess?](https://dev.to/rmion/how-about-a-nice-game-of-chess-564f)
+- [Dev.to/JS] [Component-level data fetching in Sitecore JSS with Next.js](https://dev.to/sitecore/component-level-data-fetching-in-sitecore-jss-with-nextjs-50d9)
+- [Dev.to/JS] [Meteor.js blast from the past: mobile package examples](https://dev.to/storytellercz/meteorjs-blast-from-the-past-mobile-package-examples-17jl)
 - [Lifehacker] [How to Ease the Physical Symptoms of Grief](https://lifehacker.com/how-to-ease-the-physical-symptoms-of-grief-1849471505)
 - [Dev.to/JS] [Announcing Vituum - Template engines and more in Vite](https://dev.to/lubomirblazekcz/announcing-vituum-template-engines-and-more-in-vite-377k)
 - [Dev.to/JS] [Js Cheatsheet](https://dev.to/anshulsoni2010/js-cheatsheet-365l)
@@ -35,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get 100% of Your Student Loans Forgiven Through the Borrower Defense Program](https://lifehacker.com/how-to-get-100-of-your-student-loans-forgiven-through-1849468656)
 - [Dev.to/JS] [Responsive Furniture eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-furniture-ecommerce-website-using-html-css-javascript-52a4)
 - [Lifehacker] [Grate a Tomato on Your Breakfast Sandwich](https://lifehacker.com/grate-a-tomato-on-your-breakfast-sandwich-1849470643)
-- [Dev.to/JS] [Make A Selected/Clicked Button Active In JavaScript](https://dev.to/hirajatamil/make-a-selectedclicked-button-active-in-javascript-1hl5)
-- [Dev.to/JS] [[NEED HELP] Screen orientation lock for a website JS/CSS](https://dev.to/eixi/need-help-screen-orientation-lock-for-a-website-jscss-20b7)
-- [Dev.to/JS] [Set Environment Variables Programmatically in Postman](https://dev.to/drsimplegraffiti/set-environment-variables-programmatically-in-postman-kij)
-- [Dev.to/JS] [Master API Integration in React](https://dev.to/ministryofjavascript/master-api-integration-in-react-2ki)
-- [Dev.to/JS] [How to find pathname of any URL - Javascript](https://dev.to/devbajwa/how-to-find-pathname-of-any-url-javascript-2bcl)
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
 - [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Get Free &lpar;and Cheap&rpar; Food on Labor Day Weekend](https://lifehacker.com/where-to-get-free-and-cheap-food-on-labor-day-weekend-1849462153)
 - [Lifehacker] [What Is Dependent Personality Disorder?](https://lifehacker.com/what-is-dependent-personality-disorder-1849462574)
 - [Lifehacker] [Have a Lazy Hot Girl Summer With a Watermelon Margarita](https://lifehacker.com/have-a-lazy-hot-girl-summer-with-a-watermelon-margarita-1849462237)
-- [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)
-- [Lifehacker] [Five of the Most Underrated Fast Food Menu Items](https://lifehacker.com/five-of-the-most-underrated-fast-food-menu-items-1849462125)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Prime Video in September 2022](https://lifehacker.com/whats-new-on-prime-video-in-september-2022-1849462518)<!-- TECH-POSTS:END -->
 
 ---
 
