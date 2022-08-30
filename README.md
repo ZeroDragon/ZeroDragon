@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS-Flexbox](https://dev.to/prerna0202/css-flexbox-3cd6)
+- [Lifehacker] [Grate a Tomato on Your Breakfast Sandwich](https://lifehacker.com/grate-a-tomato-on-your-breakfast-sandwich-1849470643)
+- [Dev.to/JS] [Make A Selected/Clicked Button Active In JavaScript](https://dev.to/hirajatamil/make-a-selectedclicked-button-active-in-javascript-1hl5)
+- [Dev.to/JS] [[NEED HELP] Screen orientation lock for a website JS/CSS](https://dev.to/eixi/need-help-screen-orientation-lock-for-a-website-jscss-20b7)
+- [Dev.to/JS] [Set Environment Variables Programmatically in Postman](https://dev.to/drsimplegraffiti/set-environment-variables-programmatically-in-postman-kij)
+- [Dev.to/JS] [Master API Integration in React](https://dev.to/ministryofjavascript/master-api-integration-in-react-2ki)
+- [Dev.to/JS] [How to find pathname of any URL - Javascript](https://dev.to/devbajwa/how-to-find-pathname-of-any-url-javascript-2bcl)
+- [Dev.to/JS] [Implementing TimetableJs in Ruby On Rails](https://dev.to/timnans/implementing-timetablejs-in-ruby-on-rails-17ia)
 - [Dev.to/JS] [Testing tools: Launchers and Structure Providers](https://dev.to/asayerio_techblog/testing-tools-launchers-and-structure-providers-5gga)
 - [Dev.to/JS] [Forever Functional: A Treasury of Tips, Tricks and Techniques for JavaScript](https://dev.to/asayerio_techblog/forever-functional-a-treasury-of-tips-tricks-and-techniques-for-javascript-224c)
 - [Dev.to/JS] [Test Post](https://dev.to/adeelijah/test-post-3i9h)
 - [Dev.to/JS] [Top 10 trending github repos for Java developers in this week🙏.](https://dev.to/ksengine/top-10-trending-github-repos-for-java-developers-in-this-week-34m9)
 - [Dev.to/JS] [Composable vs. Monolitch architecture: Uncovering recent composable hype](https://dev.to/medusajs/composable-vs-monolitch-architecture-uncovering-recent-composable-hype-5d06)
-- [Dev.to/JS] [What is String.raw&lpar;&rpar; in JavaScript?](https://dev.to/codecupdev/what-is-stringraw-in-javascript-3jb7)
-- [Dev.to/JS] [5 Must Know JavaScript Object Functions 🧑‍💻✍️](https://dev.to/dcodeyt/5-must-know-javascript-object-functions-5hec)
-- [Dev.to/JS] [Koala Engine Update #2](https://dev.to/lorenzo774/koala-engine-update-2-3000)
-- [Dev.to/JS] [Add authentication to your React apps in minutes](https://dev.to/bhagatpratik07/add-authentication-to-your-react-apps-in-minutes-5g0)
-- [Dev.to/JS] [A brief guide for CSS Grid and Flexbox](https://dev.to/refine/a-brief-guide-for-css-grid-and-flexbox-3ild)
-- [Dev.to/JS] [I Made website for me. Check it](https://dev.to/awcode0x/i-made-website-for-me-check-it-4mdd)
-- [Dev.to/JS] [Making Nuxt.js clone with Vue 3 and Vite &lpar;Vue Server Side Rendering&rpar;](https://dev.to/fyapy/making-nuxtjs-clone-with-vue-3-and-vite-vue-server-side-rendering-8e5)
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
 - [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
 - [Lifehacker] [The Best Ways to Spend &lpar;or Invest&rpar; That $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
 - [Lifehacker] [How to Build an Altoids Tin Survival Kit](https://lifehacker.com/how-to-build-an-altoids-tin-survival-kit-1849461946)
-- [Crazy Programmer] [Dynamic Initialization of Objects in C++](https://www.thecrazyprogrammer.com/2022/08/dynamic-initialization-of-objects-in-c.html)
-- [Lifehacker] [What&#39;s New on HBO Max in September 2022](https://lifehacker.com/whats-new-on-hbo-max-in-september-2022-1849458808)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Dynamic Initialization of Objects in C++](https://www.thecrazyprogrammer.com/2022/08/dynamic-initialization-of-objects-in-c.html)<!-- TECH-POSTS:END -->
 
 ---
 
