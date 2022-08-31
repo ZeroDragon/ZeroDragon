@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Browser extensions - DevTools extension](https://dev.to/dailydevtips1/browser-extensions-devtools-extension-47cm)
+- [Dev.to/JS] [Error code: error itms-90096](https://dev.to/junguo52122/error-code-error-itms-90096-5flc)
+- [Dev.to/JS] [Deploy de uma aplicação React no AWS Amplify](https://dev.to/diegocravo/deploy-de-uma-aplicacao-react-no-aws-amplify-1h30)
 - [Dev.to/JS] [How to Make Image Slider In React](https://dev.to/reactjsguru/how-to-make-image-slider-in-react-ap5)
 - [Dev.to/JS] [&quot;No-Build Required&quot; Reeact Framework](https://dev.to/renhiyama/no-build-required-reeact-framework-38m)
 - [Dev.to/JS] [Capped Collection MongoDB](https://dev.to/eliasfernandescout/capped-collection-mongodb-1oag)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
 - [Lifehacker] [Are You Streaming in the Best Quality Possible?](https://lifehacker.com/are-you-streaming-in-the-best-quality-possible-1849474701)
 - [Dev.to/JS] [Testing implementation details](https://dev.to/jmalvarez/testing-implementation-details-gkg)
-- [Dev.to/JS] [How to select the right HOF&#39;s to use](https://dev.to/maysab/how-to-select-the-right-hofs-to-use-49lj)
-- [Dev.to/JS] [Code list items with &quot;show more/less&quot; functionality in React](https://dev.to/muratcanyuksel/code-list-items-with-show-moreless-functionality-in-react-22k0)
 - [Lifehacker] [How to Watch NASA Crash a Spaceship Into an Asteroid](https://lifehacker.com/how-to-watch-nasa-crash-a-spaceship-into-an-asteroid-1849475013)
-- [Dev.to/JS] [RxFire in Svelte 3 using Firebase Firestore and Authentication](https://dev.to/codingcatdev/rxfire-in-svelte-3-using-firebase-firestore-and-authentication-2clk)
 - [Lifehacker] [Don’t Fall Prey to a Student Loan Forgiveness Scam](https://lifehacker.com/don-t-fall-prey-to-a-student-loan-forgiveness-scam-1849474707)
 - [Lifehacker] [Why the Gym Won&#39;t Fix Your Body Issues](https://lifehacker.com/why-the-gym-wont-fix-your-body-issues-1849474639)
 - [Lifehacker] [12 Impressive Pen Tricks to Learn for When You&#39;re Nervous or Bored](https://lifehacker.com/12-impressive-pen-tricks-to-learn-for-when-youre-nervou-1849474299)
