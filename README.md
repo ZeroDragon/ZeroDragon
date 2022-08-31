@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LIFE CYCLE OF ANGULAR COMPONENTS](https://dev.to/deepachaurasia1/life-cycle-of-angular-components-3445)
+- [Dev.to/JS] [Ben 10 Watch](https://dev.to/praveenkumarpanchadarla/ben-10-watch-1dik)
+- [Lifehacker] [How to Use Mulch to Keep Your Garden Alive in a Drought](https://lifehacker.com/how-to-use-mulch-to-keep-your-garden-alive-in-a-drought-1849476890)
+- [Dev.to/JS] [SEED AND HASH PASSWORD IN MONGODB BASED APPLICATION](https://dev.to/drsimplegraffiti/seed-and-hash-password-in-mongodb-based-application-17h7)
+- [Dev.to/JS] [Meteor Community survey 2022](https://dev.to/storytellercz/meteor-community-survey-2022-2dnm)
+- [Dev.to/JS] [Using Google Lighthouse to improve app performance](https://dev.to/refine/using-google-lighthouse-to-improve-app-performance-2bfn)
+- [Dev.to/JS] [Some Post](https://dev.to/dimittal/some-post-5dm9)
 - [Dev.to/JS] [Documenting Angular projects](https://dev.to/this-is-angular/documenting-angular-projects-5ob)
 - [Dev.to/JS] [Uncino 🪝 Fast, tiny and solid hooks system for Javascript and NodeJS](https://dev.to/riktar/uncino-fast-tiny-and-solid-hooks-system-for-javascript-and-nodejs-613)
 - [Dev.to/JS] [Generative art, flow fields, and books](https://dev.to/spectacularsloth/generative-art-flow-fields-and-books-1fb3)
 - [Dev.to/JS] [What is Imperative vs. Declarative programming?](https://dev.to/teejaydixon/what-is-imperative-vs-declarative-programming-2pb8)
 - [Dev.to/JS] [Learn to Create a Dashboard Multi-Direction in TypeScript](https://dev.to/lightningchart/learn-to-create-a-dashboard-multi-direction-in-typescript-3b5d)
 - [Dev.to/JS] [Testing localStorage exceptions with Cypress](https://dev.to/javierbrea/testing-localstorage-exceptions-with-cypress-93n)
-- [Dev.to/JS] [A useful tool for uploading IPA on Windows](https://dev.to/junguo52122/a-useful-tool-for-uploading-ipa-on-windows-4a5i)
-- [Dev.to/JS] [Minimal theme for Youtube](https://dev.to/rafi993/minimal-theme-for-youtube-56b4)
-- [Dev.to/JS] [How I code?](https://dev.to/rahulrajrd/how-i-code-5c2d)
-- [Dev.to/JS] [Chrome Extensions of the Month - August 2022](https://dev.to/j471n/chrome-extensions-of-the-month-august-2022-5d8l)
-- [Dev.to/JS] [Master Axios in ReactJS](https://dev.to/ministryofjavascript/master-axios-in-reactjs-2690)
-- [Dev.to/JS] [Top 10 VS CODE Extensions You Need In 2022!!!](https://dev.to/devarshishimpi/top-10-vs-code-extensions-you-need-in-2022-6bg)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [How to Pick Out the Best Produce](https://lifehacker.com/how-to-pick-out-the-best-produce-1849469475)
 - [Lifehacker] [10 Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/10-renovations-that-can-actually-decrease-the-value-of-1849468967)
-- [Lifehacker] [Raw Eggs Aren&#39;t the Only Reason You Shouldn&#39;t Eat Cookie Dough](https://lifehacker.com/raw-eggs-arent-the-only-reason-you-shouldnt-eat-cookie-1849468636)
-- [Crazy Programmer] [7 Best Online Compilers 2022 – C, C++, Java, Python](https://www.thecrazyprogrammer.com/2022/08/best-online-compilers.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Raw Eggs Aren&#39;t the Only Reason You Shouldn&#39;t Eat Cookie Dough](https://lifehacker.com/raw-eggs-arent-the-only-reason-you-shouldnt-eat-cookie-1849468636)<!-- TECH-POSTS:END -->
 
 ---
 
