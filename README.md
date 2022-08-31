@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You ain&#39;t a beginner developer no more!](https://dev.to/shrihari/you-aint-a-beginner-developer-no-more-3c1g)
+- [Dev.to/JS] [MEAN Stack vs MERN Stack: What’s the Difference?](https://dev.to/techstrot/mean-stack-vs-mern-stack-whats-the-difference-3pif)
+- [Lifehacker] [‘Netflix Party’ and Four Other Chrome Extensions That Are Actually Malware](https://lifehacker.com/netflix-party-and-four-other-chrome-extensions-that-a-1849479234)
+- [Dev.to/JS] [jest.clearAllMocks vs jest.resetAllMocks vs jest.restoreAllMocks explained](https://dev.to/edwinwong90/jestclearallmocks-vs-jestresetallmocks-vs-jestrestoreallmocks-explained-5aal)
 - [Lifehacker] [10 of the Best Dating Shows That Actually Teach You Something About Love](https://lifehacker.com/10-of-the-best-dating-shows-that-actually-teach-you-som-1849474319)
 - [Dev.to/JS] [NEARCON HACKATHON - $140K+ in Prizes](https://dev.to/ctrlaltf/nearcon-hackathon-140k-in-prizes-5ep3)
 - [Dev.to/JS] [Cors Policy](https://dev.to/hamza__yameen/cors-policy-2n7k)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ben 10 - Omnitrix](https://dev.to/praveenkumarpanchadarla/ben-10-watch-1dik)
 - [Lifehacker] [How to Use Mulch to Keep Your Garden Alive in a Drought](https://lifehacker.com/how-to-use-mulch-to-keep-your-garden-alive-in-a-drought-1849476890)
 - [Dev.to/JS] [SEED AND HASH PASSWORD IN MONGODB BASED APPLICATION](https://dev.to/drsimplegraffiti/seed-and-hash-password-in-mongodb-based-application-17h7)
-- [Dev.to/JS] [Create Your Own Live Web Editor using HTML, CSS, and JavaScript](https://dev.to/varshithvhegde/create-your-own-live-web-editor-using-html-css-and-javascript-3j73)
-- [Dev.to/JS] [Meteor Community survey 2022](https://dev.to/storytellercz/meteor-community-survey-2022-2dnm)
-- [Dev.to/JS] [Using Google Lighthouse to improve app performance](https://dev.to/refine/using-google-lighthouse-to-improve-app-performance-2bfn)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Grate a Tomato on Your Breakfast Sandwich](https://lifehacker.com/grate-a-tomato-on-your-breakfast-sandwich-1849470643)
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
-- [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
-- [Lifehacker] [The Easiest Way to Fix Bluetooth Issues on Your Mac](https://lifehacker.com/the-easiest-way-to-fix-bluetooth-issues-on-your-mac-1849469105)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)<!-- TECH-POSTS:END -->
 
 ---
 
