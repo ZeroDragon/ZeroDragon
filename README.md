@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Method for Increasing App Engagement and User Retention](https://dev.to/niti998/best-method-for-increasing-app-engagement-and-user-retention-2m9p)
+- [Dev.to/JS] [A R Program Success Story You’ll Never Believe](https://dev.to/winston787/a-r-program-success-story-youll-never-believe-5hap)
 - [Dev.to/JS] [Browser extensions - DevTools extension](https://dev.to/dailydevtips1/browser-extensions-devtools-extension-47cm)
 - [Dev.to/JS] [Error code: error itms-90096](https://dev.to/junguo52122/error-code-error-itms-90096-5flc)
 - [Dev.to/JS] [Deploy de uma aplicação React no AWS Amplify](https://dev.to/diegocravo/deploy-de-uma-aplicacao-react-no-aws-amplify-1h30)
@@ -34,11 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Negotiate Your Apple Job Offer](https://dev.to/thesalarynegotiator/how-to-negotiate-your-apple-job-offer-24nc)
 - [Dev.to/JS] [React vs Svelte: Which is better in 2022?](https://dev.to/asyncbanana/react-vs-svelte-which-is-better-in-2022-4291)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
-- [Dev.to/JS] [Stages and Environment Variables in Svelte &lpar;SvelteKit&rpar;](https://dev.to/willkre/stages-and-environment-variables-in-svelte-sveltekit-mdj)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
 - [Lifehacker] [Are You Streaming in the Best Quality Possible?](https://lifehacker.com/are-you-streaming-in-the-best-quality-possible-1849474701)
-- [Dev.to/JS] [Testing implementation details](https://dev.to/jmalvarez/testing-implementation-details-gkg)
 - [Lifehacker] [How to Watch NASA Crash a Spaceship Into an Asteroid](https://lifehacker.com/how-to-watch-nasa-crash-a-spaceship-into-an-asteroid-1849475013)
 - [Lifehacker] [Don’t Fall Prey to a Student Loan Forgiveness Scam](https://lifehacker.com/don-t-fall-prey-to-a-student-loan-forgiveness-scam-1849474707)
 - [Lifehacker] [Why the Gym Won&#39;t Fix Your Body Issues](https://lifehacker.com/why-the-gym-wont-fix-your-body-issues-1849474639)
