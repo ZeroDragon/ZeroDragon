@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Documenting Angular projects](https://dev.to/this-is-angular/documenting-angular-projects-5ob)
 - [Dev.to/JS] [Uncino 🪝 Fast, tiny and solid hooks system for Javascript and NodeJS](https://dev.to/riktar/uncino-fast-tiny-and-solid-hooks-system-for-javascript-and-nodejs-613)
 - [Dev.to/JS] [Generative art, flow fields, and books](https://dev.to/spectacularsloth/generative-art-flow-fields-and-books-1fb3)
 - [Dev.to/JS] [What is Imperative vs. Declarative programming?](https://dev.to/teejaydixon/what-is-imperative-vs-declarative-programming-2pb8)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chrome Extensions of the Month - August 2022](https://dev.to/j471n/chrome-extensions-of-the-month-august-2022-5d8l)
 - [Dev.to/JS] [Master Axios in ReactJS](https://dev.to/ministryofjavascript/master-axios-in-reactjs-2690)
 - [Dev.to/JS] [Top 10 VS CODE Extensions You Need In 2022!!!](https://dev.to/devarshishimpi/top-10-vs-code-extensions-you-need-in-2022-6bg)
-- [Dev.to/JS] [Question for EsLint lovers](https://dev.to/edgaras98/question-for-eslint-geeks-3-4oh4)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
