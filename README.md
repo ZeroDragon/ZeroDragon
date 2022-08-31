@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gatsby SSR](https://dev.to/klyngen/gatsby-ssr-431o)
+- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
+- [Dev.to/JS] [3 newer frameworks and 1 runtime devs should know](https://dev.to/richkurtzman/3-newer-frameworks-and-1-runtime-devs-should-know-o26)
+- [Dev.to/JS] [Opinionated Docker development workflow for Node.js projects - Part 2](https://dev.to/edgarroman/opinionated-docker-development-workflow-for-nodejs-projects-part-2-21ao)
+- [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
 - [Dev.to/JS] [Using Github Issues as a CMS](https://dev.to/itsagift/using-github-issues-as-a-cms-4n37)
 - [Dev.to/JS] [2.37 - Developer Events and Community on CFE.dev](https://dev.to/codingcatdev/237-developer-events-and-community-on-cfedev-4hp8)
 - [Dev.to/JS] [Tutorial : Create a Gif Toolbar Widget](https://dev.to/egfx/create-a-gif-toolbar-widget-5cl7)
@@ -33,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
 - [Dev.to/JS] [Opinionated Docker development workflow for Node.js projects - Part 1](https://dev.to/edgarroman/opinionated-docker-development-workflow-for-nodejs-projects-part-1-26c0)
 - [Dev.to/JS] [The Modern Guide to Packaging Your JavaScript Library](https://dev.to/frehner/the-modern-guide-to-packaging-your-javascript-library-4gc2)
-- [Dev.to/JS] [Getting started with Takeout using Node.js](https://dev.to/takeout/getting-started-with-takeout-using-nodejs-5407)
-- [Dev.to/JS] [Sort an array by boolean value](https://dev.to/indrakantm23/sort-an-array-by-boolean-value-1j9d)
 - [Lifehacker] [10 of the Best Cheap and Healthy Lunchbox Ideas, According to Reddit](https://lifehacker.com/10-of-the-best-cheap-and-healthy-lunchbox-ideas-accord-1849479916)
 - [Lifehacker] [Which Web Browser Is the Safest?](https://lifehacker.com/which-web-browser-is-the-safest-1849479922)
-- [Dev.to/JS] [Confused about app.vue &amp; index.vue when using nuxt](https://dev.to/sem1colons/confused-about-appvue-indexvue-when-using-nuxt-3k05)
 - [Lifehacker] [Combine Your Love of Art and Fat and Make a Butter Terrine](https://lifehacker.com/combine-your-love-of-art-and-fat-and-make-a-butter-terr-1849479918)
 - [Lifehacker] [Should You Lift With Barbells or Dumbbells?](https://lifehacker.com/should-you-lift-with-barbells-or-dumbbells-1849479494)
 - [Lifehacker] [‘Netflix Party’ and Four Other Chrome Extensions That Are Actually Malware](https://lifehacker.com/netflix-party-and-four-other-chrome-extensions-that-a-1849479234)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Did You Find Cute When Dating but Irritating in a Relationship?](https://lifehacker.com/what-did-you-find-cute-when-dating-but-irritating-in-a-1849473654)
 - [Lifehacker] [Google Docs Now Has an Emoji Shortcut](https://lifehacker.com/google-docs-now-has-an-emoji-shortcut-1849473592)
 - [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
-- [Lifehacker] [How to Ease the Physical Symptoms of Grief](https://lifehacker.com/how-to-ease-the-physical-symptoms-of-grief-1849471505)
-- [Lifehacker] [You Should Memorize These Ways to Reset Your Cell Service](https://lifehacker.com/you-should-memorize-these-ways-to-reset-your-cell-servi-1849472226)
-- [Lifehacker] [How to Revive Dead Soil](https://lifehacker.com/how-to-revive-dead-soil-1849471252)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Ease the Physical Symptoms of Grief](https://lifehacker.com/how-to-ease-the-physical-symptoms-of-grief-1849471505)<!-- TECH-POSTS:END -->
 
 ---
 
