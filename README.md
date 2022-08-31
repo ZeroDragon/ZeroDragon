@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Image Slider In React](https://dev.to/reactjsguru/how-to-make-image-slider-in-react-ap5)
 - [Dev.to/JS] [&quot;No-Build Required&quot; Reeact Framework](https://dev.to/renhiyama/no-build-required-reeact-framework-38m)
 - [Dev.to/JS] [Capped Collection MongoDB](https://dev.to/eliasfernandescout/capped-collection-mongodb-1oag)
 - [Dev.to/JS] [What is Currying in javascript](https://dev.to/artemismars/what-is-currying-in-javascript-3fe3)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code list items with &quot;show more/less&quot; functionality in React](https://dev.to/muratcanyuksel/code-list-items-with-show-moreless-functionality-in-react-22k0)
 - [Lifehacker] [How to Watch NASA Crash a Spaceship Into an Asteroid](https://lifehacker.com/how-to-watch-nasa-crash-a-spaceship-into-an-asteroid-1849475013)
 - [Dev.to/JS] [RxFire in Svelte 3 using Firebase Firestore and Authentication](https://dev.to/codingcatdev/rxfire-in-svelte-3-using-firebase-firestore-and-authentication-2clk)
-- [Dev.to/JS] [RxFire in ReactJS using Firebase Firestore and Authentication](https://dev.to/codingcatdev/rxfire-in-reactjs-using-firebase-firestore-and-authentication-3ao)
 - [Lifehacker] [Don’t Fall Prey to a Student Loan Forgiveness Scam](https://lifehacker.com/don-t-fall-prey-to-a-student-loan-forgiveness-scam-1849474707)
 - [Lifehacker] [Why the Gym Won&#39;t Fix Your Body Issues](https://lifehacker.com/why-the-gym-wont-fix-your-body-issues-1849474639)
 - [Lifehacker] [12 Impressive Pen Tricks to Learn for When You&#39;re Nervous or Bored](https://lifehacker.com/12-impressive-pen-tricks-to-learn-for-when-youre-nervou-1849474299)
