@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#ThisMonthInSWA - The August Issue!](https://dev.to/azure/thismonthinswa-the-august-issue-54g)
 - [Dev.to/JS] [Getting out of the junior level comfort zone ...](https://dev.to/kevin074/getting-out-of-the-junior-level-comfort-zone--4o5p)
 - [Dev.to/JS] [Gatsby SSR](https://dev.to/klyngen/gatsby-ssr-431o)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 6: Python Functions &amp; Karel](https://dev.to/kdleonard93/day-6-python-functions-karel-3773)
 - [Dev.to/JS] [Day 5: Python Loops](https://dev.to/kdleonard93/day-5-python-loops-fpl)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
-- [Dev.to/JS] [Opinionated Docker development workflow for Node.js projects - Part 1](https://dev.to/edgarroman/opinionated-docker-development-workflow-for-nodejs-projects-part-1-26c0)
 - [Lifehacker] [10 of the Best Cheap and Healthy Lunchbox Ideas, According to Reddit](https://lifehacker.com/10-of-the-best-cheap-and-healthy-lunchbox-ideas-accord-1849479916)
 - [Lifehacker] [Which Web Browser Is the Safest?](https://lifehacker.com/which-web-browser-is-the-safest-1849479922)
 - [Lifehacker] [Combine Your Love of Art and Fat and Make a Butter Terrine](https://lifehacker.com/combine-your-love-of-art-and-fat-and-make-a-butter-terr-1849479918)
