@@ -23,26 +23,28 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Github Issues as a CMS](https://dev.to/itsagift/using-github-issues-as-a-cms-4n37)
+- [Dev.to/JS] [2.37 - Developer Events and Community on CFE.dev](https://dev.to/codingcatdev/237-developer-events-and-community-on-cfedev-4hp8)
+- [Dev.to/JS] [Tutorial : Create a Gif Toolbar Widget](https://dev.to/egfx/create-a-gif-toolbar-widget-5cl7)
+- [Dev.to/JS] [Building a contact form with Next.js and Nodemailer](https://dev.to/wpickeral/building-a-contact-form-with-nextjs-and-nodemailer-4emp)
+- [Dev.to/JS] [Day 7: Hangman Game](https://dev.to/kdleonard93/day-7-hangman-game-4d6)
+- [Dev.to/JS] [Day 6: Python Functions &amp; Karel](https://dev.to/kdleonard93/day-6-python-functions-karel-3773)
+- [Dev.to/JS] [Day 5: Python Loops](https://dev.to/kdleonard93/day-5-python-loops-fpl)
+- [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
+- [Dev.to/JS] [Opinionated Docker development workflow for Node.js projects - Part 1](https://dev.to/edgarroman/opinionated-docker-development-workflow-for-nodejs-projects-part-1-26c0)
+- [Dev.to/JS] [The Modern Guide to Packaging Your JavaScript Library](https://dev.to/frehner/the-modern-guide-to-packaging-your-javascript-library-4gc2)
+- [Dev.to/JS] [Getting started with Takeout using Node.js](https://dev.to/takeout/getting-started-with-takeout-using-nodejs-5407)
+- [Dev.to/JS] [Sort an array by boolean value](https://dev.to/indrakantm23/sort-an-array-by-boolean-value-1j9d)
+- [Lifehacker] [10 of the Best Cheap and Healthy Lunchbox Ideas, According to Reddit](https://lifehacker.com/10-of-the-best-cheap-and-healthy-lunchbox-ideas-accord-1849479916)
 - [Lifehacker] [Which Web Browser Is the Safest?](https://lifehacker.com/which-web-browser-is-the-safest-1849479922)
 - [Dev.to/JS] [Confused about app.vue &amp; index.vue when using nuxt](https://dev.to/sem1colons/confused-about-appvue-indexvue-when-using-nuxt-3k05)
-- [Dev.to/JS] [Accessibility in Front-end](https://dev.to/abdelrahman/accessibility-in-front-end-4mbf)
 - [Lifehacker] [Combine Your Love of Art and Fat and Make a Butter Terrine](https://lifehacker.com/combine-your-love-of-art-and-fat-and-make-a-butter-terr-1849479918)
 - [Lifehacker] [Should You Lift With Barbells or Dumbbells?](https://lifehacker.com/should-you-lift-with-barbells-or-dumbbells-1849479494)
-- [Dev.to/JS] [You ain&#39;t a beginner developer no more!](https://dev.to/shrihari/you-aint-a-beginner-developer-no-more-3c1g)
-- [Dev.to/JS] [MEAN Stack vs MERN Stack: What’s the Difference?](https://dev.to/techstrot/mean-stack-vs-mern-stack-whats-the-difference-3pif)
 - [Lifehacker] [‘Netflix Party’ and Four Other Chrome Extensions That Are Actually Malware](https://lifehacker.com/netflix-party-and-four-other-chrome-extensions-that-a-1849479234)
-- [Dev.to/JS] [jest.clearAllMocks vs jest.resetAllMocks vs jest.restoreAllMocks explained](https://dev.to/edwinwong90/jestclearallmocks-vs-jestresetallmocks-vs-jestrestoreallmocks-explained-5aal)
 - [Lifehacker] [10 of the Best Dating Shows That Actually Teach You Something About Love](https://lifehacker.com/10-of-the-best-dating-shows-that-actually-teach-you-som-1849474319)
-- [Dev.to/JS] [NEARCON HACKATHON - $140K+ in Prizes](https://dev.to/ctrlaltf/nearcon-hackathon-140k-in-prizes-5ep3)
-- [Dev.to/JS] [Cors Policy](https://dev.to/hamza__yameen/cors-policy-2n7k)
-- [Dev.to/JS] [Top 5 App Developers&#39; Tools that Save You Time:](https://dev.to/midgekim/top-5-app-developers-tools-that-save-you-time-23jd)
 - [Lifehacker] [Everything New in Chrome 105](https://lifehacker.com/everything-new-in-chrome-105-1849478347)
-- [Dev.to/JS] [How to Convert Images to Base64 Data URLs in JavaScript](https://dev.to/dcodeyt/how-to-convert-images-to-base64-data-urls-in-javascript-2n3i)
 - [Lifehacker] [12 of the Best New Things to Stream in September 2022](https://lifehacker.com/12-of-the-best-new-things-to-stream-in-september-2022-1849476519)
-- [Dev.to/JS] [Promise.all&lpar;&rpar; e Promise.allSettled&lpar;&rpar;](https://dev.to/alexcastrodev/promiseall-e-promiseallsettled-3eia)
 - [Lifehacker] [How to Train Your Dog to Like the Vet](https://lifehacker.com/how-to-train-your-dog-to-like-the-vet-1849476165)
-- [Dev.to/JS] [Web Security - Recon](https://dev.to/gersonec/web-security-recon-1bfn)
-- [Dev.to/JS] [LIFE CYCLE OF ANGULAR COMPONENTS](https://dev.to/deepachaurasia1/life-cycle-of-angular-components-3445)
 - [Lifehacker] [How to Use Mulch to Keep Your Garden Alive in a Drought](https://lifehacker.com/how-to-use-mulch-to-keep-your-garden-alive-in-a-drought-1849476890)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
 - [Lifehacker] [How to Ease the Physical Symptoms of Grief](https://lifehacker.com/how-to-ease-the-physical-symptoms-of-grief-1849471505)
 - [Lifehacker] [You Should Memorize These Ways to Reset Your Cell Service](https://lifehacker.com/you-should-memorize-these-ways-to-reset-your-cell-servi-1849472226)
-- [Lifehacker] [How to Revive Dead Soil](https://lifehacker.com/how-to-revive-dead-soil-1849471252)
-- [Lifehacker] [How to Get 100% of Your Student Loans Forgiven Through the Borrower Defense Program](https://lifehacker.com/how-to-get-100-of-your-student-loans-forgiven-through-1849468656)
-- [Lifehacker] [Grate a Tomato on Your Breakfast Sandwich](https://lifehacker.com/grate-a-tomato-on-your-breakfast-sandwich-1849470643)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Revive Dead Soil](https://lifehacker.com/how-to-revive-dead-soil-1849471252)<!-- TECH-POSTS:END -->
 
 ---
 
