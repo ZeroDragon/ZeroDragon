@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Convert Images to Base64 Data URLs in JavaScript](https://dev.to/dcodeyt/how-to-convert-images-to-base64-data-urls-in-javascript-2n3i)
 - [Lifehacker] [12 of the Best New Things to Stream in September 2022](https://lifehacker.com/12-of-the-best-new-things-to-stream-in-september-2022-1849476519)
 - [Dev.to/JS] [Promise.all&lpar;&rpar; e Promise.allSettled&lpar;&rpar;](https://dev.to/alexcastrodev/promiseall-e-promiseallsettled-3eia)
 - [Lifehacker] [How to Train Your Dog to Like the Vet](https://lifehacker.com/how-to-train-your-dog-to-like-the-vet-1849476165)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Some Post](https://dev.to/dimittal/some-post-5dm9)
 - [Dev.to/JS] [Documenting Angular projects](https://dev.to/this-is-angular/documenting-angular-projects-5ob)
 - [Dev.to/JS] [Uncino 🪝 Fast, tiny and solid hooks system for Javascript and NodeJS](https://dev.to/riktar/uncino-fast-tiny-and-solid-hooks-system-for-javascript-and-nodejs-613)
-- [Dev.to/JS] [Generative art, flow fields, and books](https://dev.to/spectacularsloth/generative-art-flow-fields-and-books-1fb3)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
