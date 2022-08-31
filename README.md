@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;No-Build Required&quot; Reeact Framework](https://dev.to/renhiyama/no-build-required-reeact-framework-38m)
+- [Dev.to/JS] [Capped Collection MongoDB](https://dev.to/eliasfernandescout/capped-collection-mongodb-1oag)
+- [Dev.to/JS] [What is Currying in javascript](https://dev.to/artemismars/what-is-currying-in-javascript-3fe3)
+- [Dev.to/JS] [What is an Arrow Function?](https://dev.to/jinchoo/what-is-an-arrow-function-4j15)
+- [Dev.to/JS] [How To Negotiate Your Apple Job Offer](https://dev.to/thesalarynegotiator/how-to-negotiate-your-apple-job-offer-24nc)
 - [Dev.to/JS] [React vs Svelte: Which is better in 2022?](https://dev.to/asyncbanana/react-vs-svelte-which-is-better-in-2022-4291)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Dev.to/JS] [Stages and Environment Variables in Svelte &lpar;SvelteKit&rpar;](https://dev.to/willkre/stages-and-environment-variables-in-svelte-sveltekit-mdj)
@@ -35,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch NASA Crash a Spaceship Into an Asteroid](https://lifehacker.com/how-to-watch-nasa-crash-a-spaceship-into-an-asteroid-1849475013)
 - [Dev.to/JS] [RxFire in Svelte 3 using Firebase Firestore and Authentication](https://dev.to/codingcatdev/rxfire-in-svelte-3-using-firebase-firestore-and-authentication-2clk)
 - [Dev.to/JS] [RxFire in ReactJS using Firebase Firestore and Authentication](https://dev.to/codingcatdev/rxfire-in-reactjs-using-firebase-firestore-and-authentication-3ao)
-- [Dev.to/JS] [Angular PWA to Google Play store, using Trusted Web Activity](https://dev.to/codingcatdev/angular-pwa-to-google-play-store-using-trusted-web-activity-5en4)
 - [Lifehacker] [Don’t Fall Prey to a Student Loan Forgiveness Scam](https://lifehacker.com/don-t-fall-prey-to-a-student-loan-forgiveness-scam-1849474707)
-- [Dev.to/JS] [Use Firestore to Build Hugo Conten](https://dev.to/codingcatdev/use-firestore-to-build-hugo-conten-1o99)
-- [Dev.to/JS] [Firebase Multisite Hosting](https://dev.to/codingcatdev/firebase-multisite-hosting-37d)
-- [Dev.to/JS] [Hugo Ionic Template](https://dev.to/codingcatdev/hugo-ionic-template-5e09)
-- [Dev.to/JS] [Finding a Company with Great Values](https://dev.to/codingcatdev/finding-a-company-with-great-values-3927)
 - [Lifehacker] [Why the Gym Won&#39;t Fix Your Body Issues](https://lifehacker.com/why-the-gym-wont-fix-your-body-issues-1849474639)
 - [Lifehacker] [12 Impressive Pen Tricks to Learn for When You&#39;re Nervous or Bored](https://lifehacker.com/12-impressive-pen-tricks-to-learn-for-when-youre-nervou-1849474299)
 - [Lifehacker] [How to Get the Best Possible Seat on a Flight for Free](https://lifehacker.com/how-to-get-the-best-possible-seat-on-a-flight-for-free-1849474031)
