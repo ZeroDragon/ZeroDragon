@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Entire Help guide to Reasonably priced Reports](https://dev.to/dvorniks/the-entire-help-guide-to-reasonably-priced-reports-1e1e)
 - [Dev.to/JS] [Best Method for Increasing App Engagement and User Retention](https://dev.to/niti998/best-method-for-increasing-app-engagement-and-user-retention-2m9p)
 - [Dev.to/JS] [A R Program Success Story You’ll Never Believe](https://dev.to/winston787/a-r-program-success-story-youll-never-believe-5hap)
 - [Dev.to/JS] [Browser extensions - DevTools extension](https://dev.to/dailydevtips1/browser-extensions-devtools-extension-47cm)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Currying in javascript](https://dev.to/artemismars/what-is-currying-in-javascript-3fe3)
 - [Dev.to/JS] [What is an Arrow Function?](https://dev.to/jinchoo/what-is-an-arrow-function-4j15)
 - [Dev.to/JS] [How To Negotiate Your Apple Job Offer](https://dev.to/thesalarynegotiator/how-to-negotiate-your-apple-job-offer-24nc)
-- [Dev.to/JS] [React vs Svelte: Which is better in 2022?](https://dev.to/asyncbanana/react-vs-svelte-which-is-better-in-2022-4291)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
