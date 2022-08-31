@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Which Web Browser Is the Safest?](https://lifehacker.com/which-web-browser-is-the-safest-1849479922)
+- [Dev.to/JS] [Confused about app.vue &amp; index.vue when using nuxt](https://dev.to/sem1colons/confused-about-appvue-indexvue-when-using-nuxt-3k05)
+- [Dev.to/JS] [Accessibility in Front-end](https://dev.to/abdelrahman/accessibility-in-front-end-4mbf)
+- [Lifehacker] [Combine Your Love of Art and Fat and Make a Butter Terrine](https://lifehacker.com/combine-your-love-of-art-and-fat-and-make-a-butter-terr-1849479918)
 - [Lifehacker] [Should You Lift With Barbells or Dumbbells?](https://lifehacker.com/should-you-lift-with-barbells-or-dumbbells-1849479494)
 - [Dev.to/JS] [You ain&#39;t a beginner developer no more!](https://dev.to/shrihari/you-aint-a-beginner-developer-no-more-3c1g)
 - [Dev.to/JS] [MEAN Stack vs MERN Stack: What’s the Difference?](https://dev.to/techstrot/mean-stack-vs-mern-stack-whats-the-difference-3pif)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Train Your Dog to Like the Vet](https://lifehacker.com/how-to-train-your-dog-to-like-the-vet-1849476165)
 - [Dev.to/JS] [Web Security - Recon](https://dev.to/gersonec/web-security-recon-1bfn)
 - [Dev.to/JS] [LIFE CYCLE OF ANGULAR COMPONENTS](https://dev.to/deepachaurasia1/life-cycle-of-angular-components-3445)
-- [Dev.to/JS] [Ben 10 - Omnitrix](https://dev.to/praveenkumarpanchadarla/ben-10-watch-1dik)
 - [Lifehacker] [How to Use Mulch to Keep Your Garden Alive in a Drought](https://lifehacker.com/how-to-use-mulch-to-keep-your-garden-alive-in-a-drought-1849476890)
-- [Dev.to/JS] [SEED AND HASH PASSWORD IN MONGODB BASED APPLICATION](https://dev.to/drsimplegraffiti/seed-and-hash-password-in-mongodb-based-application-17h7)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Memorize These Ways to Reset Your Cell Service](https://lifehacker.com/you-should-memorize-these-ways-to-reset-your-cell-servi-1849472226)
 - [Lifehacker] [How to Revive Dead Soil](https://lifehacker.com/how-to-revive-dead-soil-1849471252)
 - [Lifehacker] [How to Get 100% of Your Student Loans Forgiven Through the Borrower Defense Program](https://lifehacker.com/how-to-get-100-of-your-student-loans-forgiven-through-1849468656)
-- [Lifehacker] [Grate a Tomato on Your Breakfast Sandwich](https://lifehacker.com/grate-a-tomato-on-your-breakfast-sandwich-1849470643)
-- [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
-- [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Grate a Tomato on Your Breakfast Sandwich](https://lifehacker.com/grate-a-tomato-on-your-breakfast-sandwich-1849470643)<!-- TECH-POSTS:END -->
 
 ---
 
