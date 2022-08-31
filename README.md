@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 of the Best Dating Shows That Actually Teach You Something About Love](https://lifehacker.com/10-of-the-best-dating-shows-that-actually-teach-you-som-1849474319)
+- [Dev.to/JS] [NEARCON HACKATHON - $140K+ in Prizes](https://dev.to/ctrlaltf/nearcon-hackathon-140k-in-prizes-5ep3)
+- [Dev.to/JS] [Cors Policy](https://dev.to/hamza__yameen/cors-policy-2n7k)
+- [Dev.to/JS] [Top 5 App Developers&#39; Tools that Save You Time:](https://dev.to/midgekim/top-5-app-developers-tools-that-save-you-time-23jd)
+- [Lifehacker] [Everything New in Chrome 105](https://lifehacker.com/everything-new-in-chrome-105-1849478347)
 - [Dev.to/JS] [How to Convert Images to Base64 Data URLs in JavaScript](https://dev.to/dcodeyt/how-to-convert-images-to-base64-data-urls-in-javascript-2n3i)
 - [Lifehacker] [12 of the Best New Things to Stream in September 2022](https://lifehacker.com/12-of-the-best-new-things-to-stream-in-september-2022-1849476519)
 - [Dev.to/JS] [Promise.all&lpar;&rpar; e Promise.allSettled&lpar;&rpar;](https://dev.to/alexcastrodev/promiseall-e-promiseallsettled-3eia)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Your Own Live Web Editor using HTML, CSS, and JavaScript](https://dev.to/varshithvhegde/create-your-own-live-web-editor-using-html-css-and-javascript-3j73)
 - [Dev.to/JS] [Meteor Community survey 2022](https://dev.to/storytellercz/meteor-community-survey-2022-2dnm)
 - [Dev.to/JS] [Using Google Lighthouse to improve app performance](https://dev.to/refine/using-google-lighthouse-to-improve-app-performance-2bfn)
-- [Dev.to/JS] [Some Post](https://dev.to/dimittal/some-post-5dm9)
-- [Dev.to/JS] [Documenting Angular projects](https://dev.to/this-is-angular/documenting-angular-projects-5ob)
-- [Dev.to/JS] [Uncino 🪝 Fast, tiny and solid hooks system for Javascript and NodeJS](https://dev.to/riktar/uncino-fast-tiny-and-solid-hooks-system-for-javascript-and-nodejs-613)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Two Things You Should Always Keep by Your Cutting Board While You Cook](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
 - [Lifehacker] [How to End an Annoying Conversation Without Being Rude](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
-- [Lifehacker] [The Easiest Way to Fix Bluetooth Issues on Your Mac](https://lifehacker.com/the-easiest-way-to-fix-bluetooth-issues-on-your-mac-1849469105)
-- [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
-- [Lifehacker] [How to Pick Out the Best Produce](https://lifehacker.com/how-to-pick-out-the-best-produce-1849469475)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Fix Bluetooth Issues on Your Mac](https://lifehacker.com/the-easiest-way-to-fix-bluetooth-issues-on-your-mac-1849469105)<!-- TECH-POSTS:END -->
 
 ---
 
