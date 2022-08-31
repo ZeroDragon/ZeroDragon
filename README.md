@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A useful tool for uploading IPA on Windows](https://dev.to/junguo52122/a-useful-tool-for-uploading-ipa-on-windows-4a5i)
+- [Dev.to/JS] [Minimal theme for Youtube](https://dev.to/rafi993/minimal-theme-for-youtube-56b4)
+- [Dev.to/JS] [How I code?](https://dev.to/rahulrajrd/how-i-code-5c2d)
+- [Dev.to/JS] [Chrome Extensions of the Month - August 2022](https://dev.to/j471n/chrome-extensions-of-the-month-august-2022-5d8l)
+- [Dev.to/JS] [Master Axios in ReactJS](https://dev.to/ministryofjavascript/master-axios-in-reactjs-2690)
 - [Dev.to/JS] [TOP 10 VS CODE EXTENSIONS YOU NEED IN 2022](https://dev.to/devarshishimpi/top-10-vs-code-extensions-you-need-in-2022-6bg)
 - [Dev.to/JS] [Question for EsLint lovers](https://dev.to/edgaras98/question-for-eslint-geeks-3-4oh4)
 - [Dev.to/JS] [Building a Blog App with Remix and Strapi CMS](https://dev.to/strapi/building-a-blog-app-with-remix-and-strapi-cms-21e8)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Method for Increasing App Engagement and User Retention](https://dev.to/niti998/best-method-for-increasing-app-engagement-and-user-retention-2m9p)
 - [Dev.to/JS] [A R Program Success Story You’ll Never Believe](https://dev.to/winston787/a-r-program-success-story-youll-never-believe-5hap)
 - [Dev.to/JS] [Browser extensions - DevTools extension](https://dev.to/dailydevtips1/browser-extensions-devtools-extension-47cm)
-- [Dev.to/JS] [Error code: error itms-90096](https://dev.to/junguo52122/error-code-error-itms-90096-5flc)
-- [Dev.to/JS] [Deploy de uma aplicação React no AWS Amplify](https://dev.to/diegocravo/deploy-de-uma-aplicacao-react-no-aws-amplify-1h30)
-- [Dev.to/JS] [How to Implement a Basic JavaScript Application](https://dev.to/how-to-dev/how-to-implement-a-basic-javascript-application-p95)
-- [Dev.to/JS] [How to Make Image Slider In React](https://dev.to/reactjsguru/how-to-make-image-slider-in-react-ap5)
-- [Dev.to/JS] [&quot;No-Build Required&quot; Reeact Framework](https://dev.to/renhiyama/no-build-required-reeact-framework-38m)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
 - [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)
