@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React vs Svelte: Which is better in 2022?](https://dev.to/asyncbanana/react-vs-svelte-which-is-better-in-2022-4291)
 - [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
 - [Dev.to/JS] [Stages and Environment Variables in Svelte &lpar;SvelteKit&rpar;](https://dev.to/willkre/stages-and-environment-variables-in-svelte-sveltekit-mdj)
 - [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Firebase Multisite Hosting](https://dev.to/codingcatdev/firebase-multisite-hosting-37d)
 - [Dev.to/JS] [Hugo Ionic Template](https://dev.to/codingcatdev/hugo-ionic-template-5e09)
 - [Dev.to/JS] [Finding a Company with Great Values](https://dev.to/codingcatdev/finding-a-company-with-great-values-3927)
-- [Dev.to/JS] [Next.js 11 Features](https://dev.to/codingcatdev/nextjs-11-features-1e6f)
 - [Lifehacker] [Why the Gym Won&#39;t Fix Your Body Issues](https://lifehacker.com/why-the-gym-wont-fix-your-body-issues-1849474639)
 - [Lifehacker] [12 Impressive Pen Tricks to Learn for When You&#39;re Nervous or Bored](https://lifehacker.com/12-impressive-pen-tricks-to-learn-for-when-youre-nervou-1849474299)
 - [Lifehacker] [How to Get the Best Possible Seat on a Flight for Free](https://lifehacker.com/how-to-get-the-best-possible-seat-on-a-flight-for-free-1849474031)
