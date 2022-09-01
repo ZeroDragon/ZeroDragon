@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Built Skillbit: Linktree, but for Your Skills](https://dev.to/marplex/how-i-built-skillbit-linktree-but-for-your-skills-2fd9)
+- [Dev.to/JS] [Type Conversion and Coercion in Javascript💫.](https://dev.to/bagfaceasadkhan/type-conversion-and-coercion-in-javascript-12al)
+- [Dev.to/JS] [Adding a Soul into a React-Redux Project](https://dev.to/simprl/adding-a-soul-into-a-react-redux-project-524b)
+- [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
+- [Dev.to/JS] [Squares With Three Sides](https://dev.to/rmion/squares-with-three-sides-4hi0)
+- [Lifehacker] [How to Finally Edit Your Tweets](https://lifehacker.com/how-to-finally-edit-your-tweets-1849484269)
 - [Dev.to/JS] [Convert Markdown format files to PDF files &lpar;mermaid/emoji/toc compatible&rpar;](https://dev.to/bmf_san/convert-markdown-format-files-to-pdf-files-mermaidemojitoc-compatible-5ekh)
 - [Dev.to/JS] [Find your way in GraphQL applications - Paths explained](https://dev.to/escape/find-your-way-in-graphql-applications-paths-explained-1g24)
 - [Dev.to/JS] [Why we need backend and forntend?](https://dev.to/maurerkrisztian/why-we-need-backend-and-forntend-454k)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Muy breve introducción al testing](https://dev.to/iagolast/muy-breve-introduccion-al-testing-4e81)
 - [Lifehacker] [The True History of Credit Scores](https://lifehacker.com/the-true-history-of-credit-scores-1849482730)
 - [Lifehacker] [You&#39;re Underestimating Kindness](https://lifehacker.com/youre-underestimating-kindness-1849482186)
-- [Dev.to/JS] [Leetcode diary: Merge Sorted Array](https://dev.to/kevin074/leetcode-diary-merge-sorted-array-205j)
-- [Dev.to/JS] [Binance clone Script Is Essential For Your Success Startup Business. Read This To Find Out Why](https://dev.to/thecryptoapeo/binance-clone-script-is-essential-for-your-success-startup-business-read-this-to-find-out-why-28de)
-- [Dev.to/JS] [Effectively Visualize a Large Number of Markers Using JavaScript Maps](https://dev.to/syncfusion/effectively-visualize-a-large-number-of-markers-using-javascript-maps-1387)
-- [Dev.to/JS] [How to Create a FullStack Dapp using Next JS, Tailwind CSS and The graph. &lpar;Part 2&rpar;](https://dev.to/oleanji/how-to-create-a-fullstack-dapp-using-next-js-tailwind-css-and-the-graph-part-2-lob)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Fall Prey to a Student Loan Forgiveness Scam](https://lifehacker.com/don-t-fall-prey-to-a-student-loan-forgiveness-scam-1849474707)
 - [Lifehacker] [Why the Gym Won&#39;t Fix Your Body Issues](https://lifehacker.com/why-the-gym-wont-fix-your-body-issues-1849474639)
 - [Lifehacker] [12 Impressive Pen Tricks to Learn for When You&#39;re Nervous or Bored](https://lifehacker.com/12-impressive-pen-tricks-to-learn-for-when-youre-nervou-1849474299)
-- [Lifehacker] [How to Get the Best Possible Seat on a Flight for Free](https://lifehacker.com/how-to-get-the-best-possible-seat-on-a-flight-for-free-1849474031)
-- [Lifehacker] [Three Surprising Ways to Reuse Coffee Grounds](https://lifehacker.com/three-surprising-ways-to-reuse-coffee-grounds-1849474107)
-- [Lifehacker] [How to Recover From a Moral Injury](https://lifehacker.com/how-to-recover-from-a-moral-injury-1849473757)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get the Best Possible Seat on a Flight for Free](https://lifehacker.com/how-to-get-the-best-possible-seat-on-a-flight-for-free-1849474031)<!-- TECH-POSTS:END -->
 
 ---
 
