@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Your Page Load Faster](https://dev.to/tahazsh/how-to-make-your-page-load-faster-17h1)
 - [Dev.to/JS] [How Javascript Works Behind The Scenes part 1](https://dev.to/dev_dave/how-javascript-works-behind-the-scenes-part-1-206f)
 - [Dev.to/JS] [Hackerrank coding challenge](https://dev.to/kavitagupta972/hackerrank-coding-challenge-3p5j)
 - [Dev.to/JS] [LeetCode - Unique Path II](https://dev.to/_alkesh26/leetcode-unique-path-ii-2755)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Browser extensions - recap and status](https://dev.to/dailydevtips1/browser-extensions-recap-and-status-2of6)
 - [Dev.to/JS] [I have created Fullstacco; now what?](https://dev.to/ivanlori/i-have-created-fullstacco-now-what-118)
 - [Dev.to/JS] [What exactly is DevOps? What makes DevOps differs from the traditional IT?](https://dev.to/postwell45/what-exactly-is-devops-what-makes-devops-differs-from-the-traditional-it-ad4)
-- [Dev.to/JS] [Build the theme toggle button with Astrojs and tailwindCSS](https://dev.to/summerbud/build-the-theme-toggle-button-with-astrojs-and-tailwindcss-mmp)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
