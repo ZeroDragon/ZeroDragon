@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Javascript Works Behind The Scenes part 1](https://dev.to/dev_dave/how-javascript-works-behind-the-scenes-part-1-206f)
+- [Dev.to/JS] [Hackerrank coding challenge](https://dev.to/kavitagupta972/hackerrank-coding-challenge-3p5j)
+- [Dev.to/JS] [LeetCode - Unique Path II](https://dev.to/_alkesh26/leetcode-unique-path-ii-2755)
+- [Dev.to/JS] [10 Proven Ways to Increase Website Traffic &lpar;Part 1/2&rpar; 👇](https://dev.to/areedev/10-proven-ways-to-increase-website-traffic-part-12-2ic2)
 - [Dev.to/JS] [How to Create a React-Native App with Strapi as the Backend](https://dev.to/strapi/how-to-create-a-react-native-app-with-strapi-as-the-backend-pj2)
 - [Dev.to/JS] [Creating real-time experiences in e-commerce with Fauna and Ably](https://dev.to/ably/creating-real-time-experiences-in-e-commerce-with-fauna-and-ably-42b6)
 - [Dev.to/JS] [How to Build a Quasar QR Code Scanner with Capacitor](https://dev.to/xulihang/how-to-build-a-quasar-qr-code-scanner-with-capacitor-2k51)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I have created Fullstacco; now what?](https://dev.to/ivanlori/i-have-created-fullstacco-now-what-118)
 - [Dev.to/JS] [What exactly is DevOps? What makes DevOps differs from the traditional IT?](https://dev.to/postwell45/what-exactly-is-devops-what-makes-devops-differs-from-the-traditional-it-ad4)
 - [Dev.to/JS] [Build the theme toggle button with Astrojs and tailwindCSS](https://dev.to/summerbud/build-the-theme-toggle-button-with-astrojs-and-tailwindcss-mmp)
-- [Dev.to/JS] [Krestianstvo SDK 4 | Implementing Croquet and Recursive Portals on Solid JS](https://dev.to/nikolaysuslov/krestianstvo-sdk-4-implementing-croquet-and-recursive-portals-on-solid-js-54ai)
-- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 14: What in V8 is the JS Dynamically Type?](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-14-what-in-v8-is-the-js-dynamically-type-101p)
-- [Dev.to/JS] [Javascript Tagalog - Math.sqrt](https://dev.to/mmvergara/javascript-tagalog-mathsqrt-59mk)
-- [Dev.to/JS] [Your VS Code extension on your favorite IDE’s homescreen](https://dev.to/sourishkrout/your-vs-code-extension-on-your-favorite-ides-homescreen-2m9a)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
