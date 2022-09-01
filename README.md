@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Javascript primitive types](https://dev.to/henoktsegaye/understanding-javascript-primitive-types-p8a)
+- [Dev.to/JS] [Vue.js Basics Part 3 | Computed Property](https://dev.to/ahmetmeliksah/vuejs-basics-part-3-computed-property-3hmo)
+- [Dev.to/JS] [React.Children.map returns null when I have children &lpar;jsx&rpar;](https://dev.to/dechamp/reactchildrenmap-returns-null-when-i-have-children-jsx-2757)
+- [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
+- [Dev.to/JS] [Bathroom Security](https://dev.to/rmion/bathroom-security-4cac)
+- [Dev.to/JS] [How to Create a Countdown Timer In ReactJS](https://dev.to/jaymeeu/how-to-create-a-countdown-timer-in-reactjs-2khj)
+- [Dev.to/JS] [How to Create a Countdown Timer With Javascript](https://dev.to/jaymeeu/how-to-create-a-countdown-timer-with-javascript-191m)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Dev.to/JS] [JavaScript Const re-assignment in Array with full Concepts](https://dev.to/sayyedasad786/javascript-const-re-assignment-in-array-with-full-concepts-no1)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
@@ -37,14 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner’s Guide to Shopping for Solar Panels](https://lifehacker.com/a-beginner-s-guide-to-shopping-for-solar-panels-1849484992)
 - [Lifehacker] [What to Do When You Can&#39;t Even Run Slowly](https://lifehacker.com/what-to-do-when-you-cant-even-run-slowly-1849485075)
 - [Dev.to/JS] [How I Built Skillbit: Linktree, but for Your Skills](https://dev.to/marplex/how-i-built-skillbit-linktree-but-for-your-skills-2fd9)
-- [Dev.to/JS] [Type Conversion and Coercion in Javascript💫.](https://dev.to/bagfaceasadkhan/type-conversion-and-coercion-in-javascript-12al)
-- [Dev.to/JS] [Adding a Soul into a React-Redux Project](https://dev.to/simprl/adding-a-soul-into-a-react-redux-project-524b)
 - [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
-- [Dev.to/JS] [Squares With Three Sides](https://dev.to/rmion/squares-with-three-sides-4hi0)
 - [Lifehacker] [How to Finally Edit Your Tweets](https://lifehacker.com/how-to-finally-edit-your-tweets-1849484269)
-- [Dev.to/JS] [Convert Markdown format files to PDF files &lpar;mermaid/emoji/toc compatible&rpar;](https://dev.to/bmf_san/convert-markdown-format-files-to-pdf-files-mermaidemojitoc-compatible-5ekh)
-- [Dev.to/JS] [Find your way in GraphQL applications - Paths explained](https://dev.to/escape/find-your-way-in-graphql-applications-paths-explained-1g24)
-- [Dev.to/JS] [Why we need backend and forntend?](https://dev.to/maurerkrisztian/why-we-need-backend-and-forntend-454k)
 - [Lifehacker] [Use the ‘Junebug’ Cleaning Method When the Mess Gets Overwhelming](https://lifehacker.com/use-the-junebug-cleaning-method-when-the-mess-gets-ov-1849481011)
 - [Lifehacker] [11 Essential Fall Home Maintenance Tasks Everyone Should Tackle](https://lifehacker.com/11-essential-fall-home-maintenance-tasks-everyone-shoul-1849480075)
 - [Lifehacker] [The True History of Credit Scores](https://lifehacker.com/the-true-history-of-credit-scores-1849482730)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything New in Chrome 105](https://lifehacker.com/everything-new-in-chrome-105-1849478347)
 - [Lifehacker] [12 of the Best New Things to Stream in September 2022](https://lifehacker.com/12-of-the-best-new-things-to-stream-in-september-2022-1849476519)
 - [Lifehacker] [How to Train Your Dog to Like the Vet](https://lifehacker.com/how-to-train-your-dog-to-like-the-vet-1849476165)
-- [Lifehacker] [How to Use Mulch to Keep Your Garden Alive in a Drought](https://lifehacker.com/how-to-use-mulch-to-keep-your-garden-alive-in-a-drought-1849476890)
-- [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Mulch to Keep Your Garden Alive in a Drought](https://lifehacker.com/how-to-use-mulch-to-keep-your-garden-alive-in-a-drought-1849476890)<!-- TECH-POSTS:END -->
 
 ---
 
