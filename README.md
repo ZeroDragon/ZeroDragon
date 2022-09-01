@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Understanding Javascript primitive types](https://dev.to/henoktsegaye/understanding-javascript-primitive-types-p8a)
+- [Dev.to/JS] [Solidity Complete Fundamentals Cheat Sheet](https://dev.to/luislucena16/solidity-complete-fundamentals-cheat-sheet-26a6)
 - [Dev.to/JS] [Vue.js Basics Part 3 | Computed Property](https://dev.to/ahmetmeliksah/vuejs-basics-part-3-computed-property-3hmo)
 - [Dev.to/JS] [React.Children.map returns null when I have children &lpar;jsx&rpar;](https://dev.to/dechamp/reactchildrenmap-returns-null-when-i-have-children-jsx-2757)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
