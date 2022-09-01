@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a React-Native App with Strapi as the Backend](https://dev.to/strapi/how-to-create-a-react-native-app-with-strapi-as-the-backend-pj2)
+- [Dev.to/JS] [Creating real-time experiences in e-commerce with Fauna and Ably](https://dev.to/ably/creating-real-time-experiences-in-e-commerce-with-fauna-and-ably-42b6)
+- [Dev.to/JS] [How to Build a Quasar QR Code Scanner with Capacitor](https://dev.to/xulihang/how-to-build-a-quasar-qr-code-scanner-with-capacitor-2k51)
+- [Dev.to/JS] [Ree-Imagine the REEST Server for Ree.js!](https://dev.to/renhiyama/ree-imagine-the-reest-server-for-reejs-1abe)
 - [Dev.to/JS] [Browser extensions - recap and status](https://dev.to/dailydevtips1/browser-extensions-recap-and-status-2of6)
 - [Dev.to/JS] [I have created Fullstacco; now what?](https://dev.to/ivanlori/i-have-created-fullstacco-now-what-118)
 - [Dev.to/JS] [What exactly is DevOps? What makes DevOps differs from the traditional IT?](https://dev.to/postwell45/what-exactly-is-devops-what-makes-devops-differs-from-the-traditional-it-ad4)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 14: What in V8 is the JS Dynamically Type?](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-14-what-in-v8-is-the-js-dynamically-type-101p)
 - [Dev.to/JS] [Javascript Tagalog - Math.sqrt](https://dev.to/mmvergara/javascript-tagalog-mathsqrt-59mk)
 - [Dev.to/JS] [Your VS Code extension on your favorite IDE’s homescreen](https://dev.to/sourishkrout/your-vs-code-extension-on-your-favorite-ides-homescreen-2m9a)
-- [Dev.to/JS] [Cooking something up!!](https://dev.to/samcodestack/cooking-something-up-45i7)
-- [Dev.to/JS] [Security Through Obscurity](https://dev.to/rmion/security-through-obscurity-11la)
-- [Dev.to/JS] [Batch Updating in React](https://dev.to/sidanand67/batch-updating-in-react-2o23)
-- [Dev.to/JS] [What is an Arrow Function? -Part 2](https://dev.to/jinchoo/what-is-an-arrow-function-part-2-5jm)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
