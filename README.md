@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You&#39;re Underestimating Kindness](https://lifehacker.com/youre-underestimating-kindness-1849482186)
+- [Dev.to/JS] [Leetcode diary: Merge Sorted Array](https://dev.to/kevin074/leetcode-diary-merge-sorted-array-205j)
+- [Dev.to/JS] [Binance clone Script Is Essential For Your Success Startup Business. Read This To Find Out Why](https://dev.to/thecryptoapeo/binance-clone-script-is-essential-for-your-success-startup-business-read-this-to-find-out-why-28de)
 - [Dev.to/JS] [How to Create a FullStack Dapp using Next JS, Tailwind CSS and The graph. &lpar;Part 2&rpar;](https://dev.to/oleanji/how-to-create-a-fullstack-dapp-using-next-js-tailwind-css-and-the-graph-part-2-lob)
 - [Dev.to/JS] [Awesome GitHub Repositories for Web Developer - Part 2](https://dev.to/surajondev/awesome-github-repositories-for-web-developer-part-2-1h8b)
 - [Dev.to/JS] [Turkish Airlines Dallas office](https://dev.to/angelahung987/turkish-airlines-dallas-office-45ah)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is TypeScript and why should you use it?](https://dev.to/contentful/what-is-typescript-and-why-should-you-use-it-3bj1)
 - [Dev.to/JS] [How to Make Your Page Load Faster](https://dev.to/tahazsh/how-to-make-your-page-load-faster-17h1)
 - [Dev.to/JS] [How Javascript Works Behind The Scenes part 1](https://dev.to/dev_dave/how-javascript-works-behind-the-scenes-part-1-206f)
-- [Dev.to/JS] [Hackerrank coding challenge](https://dev.to/kavitagupta972/hackerrank-coding-challenge-3p5j)
-- [Dev.to/JS] [LeetCode - Unique Path II](https://dev.to/_alkesh26/leetcode-unique-path-ii-2755)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recover From a Moral Injury](https://lifehacker.com/how-to-recover-from-a-moral-injury-1849473757)
 - [Lifehacker] [What Did You Find Cute When Dating but Irritating in a Relationship?](https://lifehacker.com/what-did-you-find-cute-when-dating-but-irritating-in-a-1849473654)
 - [Lifehacker] [Google Docs Now Has an Emoji Shortcut](https://lifehacker.com/google-docs-now-has-an-emoji-shortcut-1849473592)
-- [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
-- [Lifehacker] [How to Ease the Physical Symptoms of Grief](https://lifehacker.com/how-to-ease-the-physical-symptoms-of-grief-1849471505)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)<!-- TECH-POSTS:END -->
 
 ---
 
