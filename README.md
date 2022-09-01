@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
+- [Dev.to/JS] [JavaScript Const re-assignment in Array with full Concepts](https://dev.to/sayyedasad786/javascript-const-re-assignment-in-array-with-full-concepts-no1)
+- [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
 - [Lifehacker] [May I Present These Tofu Puff Pizza Rolls](https://lifehacker.com/may-i-present-these-tofu-puff-pizza-rolls-1849486137)
 - [Dev.to/JS] [Hacks para un desarrollo Fullstack efectivo con React y Node](https://dev.to/khriztianmoreno/hacks-para-un-desarrollo-fullstack-efectivo-con-react-y-node-2mgi)
 - [Lifehacker] [Four Alternatives to Gas-Powered Leaf Blowers &lpar;That Aren&#39;t a Rake&rpar;](https://lifehacker.com/four-alternatives-to-gas-powered-leaf-blowers-that-are-1849485628)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Find your way in GraphQL applications - Paths explained](https://dev.to/escape/find-your-way-in-graphql-applications-paths-explained-1g24)
 - [Dev.to/JS] [Why we need backend and forntend?](https://dev.to/maurerkrisztian/why-we-need-backend-and-forntend-454k)
 - [Lifehacker] [Use the ‘Junebug’ Cleaning Method When the Mess Gets Overwhelming](https://lifehacker.com/use-the-junebug-cleaning-method-when-the-mess-gets-ov-1849481011)
-- [Dev.to/JS] [Versioning Web Components](https://dev.to/florianrappl/versioning-web-components-3bda)
 - [Lifehacker] [11 Essential Fall Home Maintenance Tasks Everyone Should Tackle](https://lifehacker.com/11-essential-fall-home-maintenance-tasks-everyone-shoul-1849480075)
 - [Lifehacker] [The True History of Credit Scores](https://lifehacker.com/the-true-history-of-credit-scores-1849482730)
 - [Lifehacker] [You&#39;re Underestimating Kindness](https://lifehacker.com/youre-underestimating-kindness-1849482186)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best New Things to Stream in September 2022](https://lifehacker.com/12-of-the-best-new-things-to-stream-in-september-2022-1849476519)
 - [Lifehacker] [How to Train Your Dog to Like the Vet](https://lifehacker.com/how-to-train-your-dog-to-like-the-vet-1849476165)
 - [Lifehacker] [How to Use Mulch to Keep Your Garden Alive in a Drought](https://lifehacker.com/how-to-use-mulch-to-keep-your-garden-alive-in-a-drought-1849476890)
-- [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)
-- [Lifehacker] [Statins Don&#39;t Cause All the Muscle Pain They&#39;re Blamed For](https://lifehacker.com/statins-dont-cause-all-the-muscle-pain-theyre-blamed-fo-1849475989)
-- [Lifehacker] [Your Next Gathering Needs a Deconstructed Cheeseball](https://lifehacker.com/your-next-gathering-needs-a-deconstructed-cheeseball-1849475875)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Extra Cash by Renting Out Your Car](https://lifehacker.com/how-to-make-extra-cash-by-renting-out-your-car-1849474025)<!-- TECH-POSTS:END -->
 
 ---
 
