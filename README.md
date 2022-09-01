@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 14: What in V8 is the JS Dynamically Type?](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-14-what-in-v8-is-the-js-dynamically-type-101p)
+- [Dev.to/JS] [Javascript Tagalog - Math.sqrt](https://dev.to/mmvergara/javascript-tagalog-mathsqrt-59mk)
+- [Dev.to/JS] [Your VS Code extension on your favorite IDE’s homescreen](https://dev.to/sourishkrout/your-vs-code-extension-on-your-favorite-ides-homescreen-2m9a)
+- [Dev.to/JS] [Cooking something up!!](https://dev.to/samcodestack/cooking-something-up-45i7)
 - [Dev.to/JS] [Security Through Obscurity](https://dev.to/rmion/security-through-obscurity-11la)
 - [Dev.to/JS] [Batch Updating in React](https://dev.to/sidanand67/batch-updating-in-react-2o23)
 - [Dev.to/JS] [What is an Arrow Function? -Part 2](https://dev.to/jinchoo/what-is-an-arrow-function-part-2-5jm)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gatsby SSR](https://dev.to/klyngen/gatsby-ssr-431o)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
 - [Dev.to/JS] [3 newer frameworks and 1 runtime devs should know](https://dev.to/richkurtzman/3-newer-frameworks-and-1-runtime-devs-should-know-o26)
-- [Dev.to/JS] [Opinionated Docker development workflow for Node.js projects - Part 2](https://dev.to/edgarroman/opinionated-docker-development-workflow-for-nodejs-projects-part-2-21ao)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
-- [Dev.to/JS] [Using Github Issues as a CMS](https://dev.to/itsagift/using-github-issues-as-a-cms-4n37)
-- [Dev.to/JS] [2.37 - Developer Events and Community on CFE.dev](https://dev.to/codingcatdev/237-developer-events-and-community-on-cfedev-4hp8)
-- [Dev.to/JS] [Tutorial : Create a Gif Toolbar Widget](https://dev.to/egfx/create-a-gif-toolbar-widget-5cl7)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
 - [Lifehacker] [10 of the Best Cheap and Healthy Lunchbox Ideas, According to Reddit](https://lifehacker.com/10-of-the-best-cheap-and-healthy-lunchbox-ideas-accord-1849479916)
 - [Lifehacker] [Which Web Browser Is the Safest?](https://lifehacker.com/which-web-browser-is-the-safest-1849479922)
