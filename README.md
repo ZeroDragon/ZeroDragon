@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build the theme toggle button with Astrojs and tailwindCSS](https://dev.to/summerbud/build-the-theme-toggle-button-with-astrojs-and-tailwindcss-mmp)
+- [Dev.to/JS] [Krestianstvo SDK 4 | Implementing Croquet and Recursive Portals on Solid JS](https://dev.to/nikolaysuslov/krestianstvo-sdk-4-implementing-croquet-and-recursive-portals-on-solid-js-54ai)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 14: What in V8 is the JS Dynamically Type?](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-14-what-in-v8-is-the-js-dynamically-type-101p)
 - [Dev.to/JS] [Javascript Tagalog - Math.sqrt](https://dev.to/mmvergara/javascript-tagalog-mathsqrt-59mk)
 - [Dev.to/JS] [Your VS Code extension on your favorite IDE’s homescreen](https://dev.to/sourishkrout/your-vs-code-extension-on-your-favorite-ides-homescreen-2m9a)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Go Web Scraper Step-by-Step: The Beginners Guide to Colly](https://dev.to/scraperapi/building-a-go-web-scraper-step-by-step-the-beginners-guide-to-colly-206j)
 - [Dev.to/JS] [#ThisMonthInSWA - The August Issue!](https://dev.to/azure/thismonthinswa-the-august-issue-54g)
 - [Dev.to/JS] [Getting out of the junior level comfort zone ...](https://dev.to/kevin074/getting-out-of-the-junior-level-comfort-zone--4o5p)
-- [Dev.to/JS] [Gatsby SSR](https://dev.to/klyngen/gatsby-ssr-431o)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
-- [Dev.to/JS] [3 newer frameworks and 1 runtime devs should know](https://dev.to/richkurtzman/3-newer-frameworks-and-1-runtime-devs-should-know-o26)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
 - [Lifehacker] [10 of the Best Cheap and Healthy Lunchbox Ideas, According to Reddit](https://lifehacker.com/10-of-the-best-cheap-and-healthy-lunchbox-ideas-accord-1849479916)
