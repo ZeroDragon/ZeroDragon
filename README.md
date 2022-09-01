@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A Beginner’s Guide to Shopping for Solar Panels](https://lifehacker.com/a-beginner-s-guide-to-shopping-for-solar-panels-1849484992)
+- [Lifehacker] [What to Do When You Can&#39;t Even Run Slowly](https://lifehacker.com/what-to-do-when-you-cant-even-run-slowly-1849485075)
 - [Dev.to/JS] [How I Built Skillbit: Linktree, but for Your Skills](https://dev.to/marplex/how-i-built-skillbit-linktree-but-for-your-skills-2fd9)
 - [Dev.to/JS] [Type Conversion and Coercion in Javascript💫.](https://dev.to/bagfaceasadkhan/type-conversion-and-coercion-in-javascript-12al)
 - [Dev.to/JS] [Adding a Soul into a React-Redux Project](https://dev.to/simprl/adding-a-soul-into-a-react-redux-project-524b)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are You Streaming in the Best Quality Possible?](https://lifehacker.com/are-you-streaming-in-the-best-quality-possible-1849474701)
 - [Lifehacker] [How to Watch NASA Crash a Spaceship Into an Asteroid](https://lifehacker.com/how-to-watch-nasa-crash-a-spaceship-into-an-asteroid-1849475013)
 - [Lifehacker] [Don’t Fall Prey to a Student Loan Forgiveness Scam](https://lifehacker.com/don-t-fall-prey-to-a-student-loan-forgiveness-scam-1849474707)
-- [Lifehacker] [Why the Gym Won&#39;t Fix Your Body Issues](https://lifehacker.com/why-the-gym-wont-fix-your-body-issues-1849474639)
-- [Lifehacker] [12 Impressive Pen Tricks to Learn for When You&#39;re Nervous or Bored](https://lifehacker.com/12-impressive-pen-tricks-to-learn-for-when-youre-nervou-1849474299)
-- [Lifehacker] [How to Get the Best Possible Seat on a Flight for Free](https://lifehacker.com/how-to-get-the-best-possible-seat-on-a-flight-for-free-1849474031)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why the Gym Won&#39;t Fix Your Body Issues](https://lifehacker.com/why-the-gym-wont-fix-your-body-issues-1849474639)<!-- TECH-POSTS:END -->
 
 ---
 
