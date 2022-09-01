@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Security Through Obscurity](https://dev.to/rmion/security-through-obscurity-11la)
+- [Dev.to/JS] [Batch Updating in React](https://dev.to/sidanand67/batch-updating-in-react-2o23)
+- [Dev.to/JS] [What is an Arrow Function? -Part 2](https://dev.to/jinchoo/what-is-an-arrow-function-part-2-5jm)
+- [Dev.to/JS] [Building a Go Web Scraper Step-by-Step: The Beginners Guide to Colly](https://dev.to/scraperapi/building-a-go-web-scraper-step-by-step-the-beginners-guide-to-colly-206j)
 - [Dev.to/JS] [#ThisMonthInSWA - The August Issue!](https://dev.to/azure/thismonthinswa-the-august-issue-54g)
 - [Dev.to/JS] [Getting out of the junior level comfort zone ...](https://dev.to/kevin074/getting-out-of-the-junior-level-comfort-zone--4o5p)
 - [Dev.to/JS] [Gatsby SSR](https://dev.to/klyngen/gatsby-ssr-431o)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Github Issues as a CMS](https://dev.to/itsagift/using-github-issues-as-a-cms-4n37)
 - [Dev.to/JS] [2.37 - Developer Events and Community on CFE.dev](https://dev.to/codingcatdev/237-developer-events-and-community-on-cfedev-4hp8)
 - [Dev.to/JS] [Tutorial : Create a Gif Toolbar Widget](https://dev.to/egfx/create-a-gif-toolbar-widget-5cl7)
-- [Dev.to/JS] [Building a contact form with Next.js and Nodemailer](https://dev.to/wpickeral/building-a-contact-form-with-nextjs-and-nodemailer-4emp)
-- [Dev.to/JS] [Day 7: Hangman Game](https://dev.to/kdleonard93/day-7-hangman-game-4d6)
-- [Dev.to/JS] [Day 6: Python Functions &amp; Karel](https://dev.to/kdleonard93/day-6-python-functions-karel-3773)
-- [Dev.to/JS] [Day 5: Python Loops](https://dev.to/kdleonard93/day-5-python-loops-fpl)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
 - [Lifehacker] [10 of the Best Cheap and Healthy Lunchbox Ideas, According to Reddit](https://lifehacker.com/10-of-the-best-cheap-and-healthy-lunchbox-ideas-accord-1849479916)
 - [Lifehacker] [Which Web Browser Is the Safest?](https://lifehacker.com/which-web-browser-is-the-safest-1849479922)
