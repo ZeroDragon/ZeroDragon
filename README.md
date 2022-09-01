@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Browser extensions - recap and status](https://dev.to/dailydevtips1/browser-extensions-recap-and-status-2of6)
+- [Dev.to/JS] [I have created Fullstacco; now what?](https://dev.to/ivanlori/i-have-created-fullstacco-now-what-118)
+- [Dev.to/JS] [What exactly is DevOps? What makes DevOps differs from the traditional IT?](https://dev.to/postwell45/what-exactly-is-devops-what-makes-devops-differs-from-the-traditional-it-ad4)
 - [Dev.to/JS] [Build the theme toggle button with Astrojs and tailwindCSS](https://dev.to/summerbud/build-the-theme-toggle-button-with-astrojs-and-tailwindcss-mmp)
 - [Dev.to/JS] [Krestianstvo SDK 4 | Implementing Croquet and Recursive Portals on Solid JS](https://dev.to/nikolaysuslov/krestianstvo-sdk-4-implementing-croquet-and-recursive-portals-on-solid-js-54ai)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 14: What in V8 is the JS Dynamically Type?](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-14-what-in-v8-is-the-js-dynamically-type-101p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Security Through Obscurity](https://dev.to/rmion/security-through-obscurity-11la)
 - [Dev.to/JS] [Batch Updating in React](https://dev.to/sidanand67/batch-updating-in-react-2o23)
 - [Dev.to/JS] [What is an Arrow Function? -Part 2](https://dev.to/jinchoo/what-is-an-arrow-function-part-2-5jm)
-- [Dev.to/JS] [Building a Go Web Scraper Step-by-Step: The Beginners Guide to Colly](https://dev.to/scraperapi/building-a-go-web-scraper-step-by-step-the-beginners-guide-to-colly-206j)
-- [Dev.to/JS] [#ThisMonthInSWA - The August Issue!](https://dev.to/azure/thismonthinswa-the-august-issue-54g)
-- [Dev.to/JS] [Getting out of the junior level comfort zone ...](https://dev.to/kevin074/getting-out-of-the-junior-level-comfort-zone--4o5p)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
