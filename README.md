@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert Markdown format files to PDF files &lpar;mermaid/emoji/toc compatible&rpar;](https://dev.to/bmf_san/convert-markdown-format-files-to-pdf-files-mermaidemojitoc-compatible-5ekh)
+- [Dev.to/JS] [Find your way in GraphQL applications - Paths explained](https://dev.to/escape/find-your-way-in-graphql-applications-paths-explained-1g24)
+- [Dev.to/JS] [Why we need backend and forntend?](https://dev.to/maurerkrisztian/why-we-need-backend-and-forntend-454k)
+- [Lifehacker] [Use the ‘Junebug’ Cleaning Method When the Mess Gets Overwhelming](https://lifehacker.com/use-the-junebug-cleaning-method-when-the-mess-gets-ov-1849481011)
+- [Dev.to/JS] [Versioning Web Components](https://dev.to/florianrappl/versioning-web-components-3bda)
 - [Dev.to/JS] [Be human-friendly](https://dev.to/object_required/be-human-friendly-30fh)
+- [Lifehacker] [11 Essential Fall Home Maintenance Tasks Everyone Should Tackle](https://lifehacker.com/11-essential-fall-home-maintenance-tasks-everyone-shoul-1849480075)
 - [Dev.to/JS] [Awesome google search using js](https://dev.to/systemrobin/awesome-google-search-using-js-22cb)
 - [Dev.to/JS] [How to Authenticate a Nuxt.js App with GitHub](https://dev.to/hackmamba/how-to-authenticate-a-nuxtjs-app-with-github-3118)
 - [Dev.to/JS] [Muy breve introducción al testing](https://dev.to/iagolast/muy-breve-introduccion-al-testing-4e81)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Binance clone Script Is Essential For Your Success Startup Business. Read This To Find Out Why](https://dev.to/thecryptoapeo/binance-clone-script-is-essential-for-your-success-startup-business-read-this-to-find-out-why-28de)
 - [Dev.to/JS] [Effectively Visualize a Large Number of Markers Using JavaScript Maps](https://dev.to/syncfusion/effectively-visualize-a-large-number-of-markers-using-javascript-maps-1387)
 - [Dev.to/JS] [How to Create a FullStack Dapp using Next JS, Tailwind CSS and The graph. &lpar;Part 2&rpar;](https://dev.to/oleanji/how-to-create-a-fullstack-dapp-using-next-js-tailwind-css-and-the-graph-part-2-lob)
-- [Dev.to/JS] [Awesome GitHub Repositories for Web Developer - Part 2](https://dev.to/surajondev/awesome-github-repositories-for-web-developer-part-2-1h8b)
-- [Dev.to/JS] [Freelance Digital Marketing Services in Chennai](https://dev.to/vsjayan/freelance-digital-marketing-services-in-chennai-57b9)
-- [Dev.to/JS] [Switch Dark/Light Mode Using CSS &amp; JavaScript](https://dev.to/dcodemania/switch-darklight-mode-using-css-javascript-1in3)
-- [Dev.to/JS] [Underscore.js... Makes Your sorting Life unimaginably Easy](https://dev.to/weevil/underscorejs-makes-your-sorting-life-unimaginably-easy-456i)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Impressive Pen Tricks to Learn for When You&#39;re Nervous or Bored](https://lifehacker.com/12-impressive-pen-tricks-to-learn-for-when-youre-nervou-1849474299)
 - [Lifehacker] [How to Get the Best Possible Seat on a Flight for Free](https://lifehacker.com/how-to-get-the-best-possible-seat-on-a-flight-for-free-1849474031)
 - [Lifehacker] [Three Surprising Ways to Reuse Coffee Grounds](https://lifehacker.com/three-surprising-ways-to-reuse-coffee-grounds-1849474107)
-- [Lifehacker] [How to Recover From a Moral Injury](https://lifehacker.com/how-to-recover-from-a-moral-injury-1849473757)
-- [Lifehacker] [What Did You Find Cute When Dating but Irritating in a Relationship?](https://lifehacker.com/what-did-you-find-cute-when-dating-but-irritating-in-a-1849473654)
-- [Lifehacker] [Google Docs Now Has an Emoji Shortcut](https://lifehacker.com/google-docs-now-has-an-emoji-shortcut-1849473592)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Recover From a Moral Injury](https://lifehacker.com/how-to-recover-from-a-moral-injury-1849473757)<!-- TECH-POSTS:END -->
 
 ---
 
