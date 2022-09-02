@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No Time for a Taxicab](https://dev.to/rmion/no-time-for-a-taxicab-1i7i)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Corn Kid?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-co-1849488927)
+- [Dev.to/JS] [Sitemaps in Headless WordPress with Faust.js](https://dev.to/franadev/sitemaps-in-headless-wordpress-with-faustjs-2e6n)
 - [Lifehacker] [Five Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/five-cheap-ways-to-make-your-house-look-more-expensive-1849487827)
 - [Lifehacker] [How to Hot-Wire an Old Car &lpar;and Steal a Modern One&rpar;](https://lifehacker.com/how-to-hot-wire-an-old-car-and-steal-a-modern-one-1849486498)
 - [Lifehacker] [How to Parent With ‘Connected Consequences’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-parent-with-connected-consequences-and-why-yo-1849470945)
@@ -34,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Visualize active fires around the world with Javascript](https://dev.to/alagrede/visualize-active-fires-around-the-world-with-javascript-3heh)
 - [Dev.to/JS] [How to add TypeScript types to useReducer](https://dev.to/akoskm/how-to-add-typescript-types-to-usereducer-4mhm)
 - [Dev.to/JS] [Detect Non-Inclusive Language with Retext and Node.js](https://dev.to/deepgram/detect-non-inclusive-language-with-retext-and-nodejs-b46)
+- [Dev.to/JS] [10+ Plugins That Will Boost Your Productivity With Intellij Idea](https://dev.to/devarshishimpi/10-plugins-that-will-boost-your-productivity-with-intellij-idea-32p9)
 - [Dev.to/JS] [Wrangling financial inclusion data with JavaScript, D3 and Markdown](https://dev.to/dextersjab/wrangling-financial-inclusion-data-with-javascript-d3-and-markdown-4h3n)
-- [Dev.to/JS] [How to create a CRUD app with SvelteKit](https://dev.to/refine/how-to-create-a-crud-app-with-sveltekit-49cb)
-- [Dev.to/JS] [Can we Animate Opacity in React Native?](https://dev.to/paulayo93/can-we-animate-opacity-in-react-native-2i16)
-- [Dev.to/JS] [Discover A New Framework: SolidJS 🧑‍💻](https://dev.to/dmnchzl/discover-a-new-framework-solidjs-1nco)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Combine Your Love of Art and Fat and Make a Butter Terrine](https://lifehacker.com/combine-your-love-of-art-and-fat-and-make-a-butter-terr-1849479918)
 - [Lifehacker] [Should You Lift With Barbells or Dumbbells?](https://lifehacker.com/should-you-lift-with-barbells-or-dumbbells-1849479494)
 - [Lifehacker] [‘Netflix Party’ and Four Other Chrome Extensions That Are Actually Malware](https://lifehacker.com/netflix-party-and-four-other-chrome-extensions-that-a-1849479234)
-- [Lifehacker] [10 of the Best Dating Shows That Actually Teach You Something About Love](https://lifehacker.com/10-of-the-best-dating-shows-that-actually-teach-you-som-1849474319)
-- [Lifehacker] [Everything New in Chrome 105](https://lifehacker.com/everything-new-in-chrome-105-1849478347)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Best Dating Shows That Actually Teach You Something About Love](https://lifehacker.com/10-of-the-best-dating-shows-that-actually-teach-you-som-1849474319)<!-- TECH-POSTS:END -->
 
 ---
 
