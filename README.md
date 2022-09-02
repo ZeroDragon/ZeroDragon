@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [There’s a New COVID Booster You Should Probably Get This Fall](https://lifehacker.com/there-s-a-new-covid-booster-you-should-probably-get-thi-1849490154)
+- [Lifehacker] [21 of the Best Movies About Capitalism and American Labor](https://lifehacker.com/21-of-the-best-movies-about-capitalism-and-american-lab-1849484326)
+- [Lifehacker] [This Will Make Your Boxed Cake Taste Better Every Time](https://lifehacker.com/this-will-make-your-boxed-cake-taste-better-every-time-1849487421)
 - [Dev.to/JS] [No Time for a Taxicab](https://dev.to/rmion/no-time-for-a-taxicab-1i7i)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Corn Kid?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-co-1849488927)
 - [Dev.to/JS] [Sitemaps in Headless WordPress with Faust.js](https://dev.to/franadev/sitemaps-in-headless-wordpress-with-faustjs-2e6n)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
 - [Lifehacker] [10 of the Best Cheap and Healthy Lunchbox Ideas, According to Reddit](https://lifehacker.com/10-of-the-best-cheap-and-healthy-lunchbox-ideas-accord-1849479916)
 - [Lifehacker] [Which Web Browser Is the Safest?](https://lifehacker.com/which-web-browser-is-the-safest-1849479922)
-- [Lifehacker] [Combine Your Love of Art and Fat and Make a Butter Terrine](https://lifehacker.com/combine-your-love-of-art-and-fat-and-make-a-butter-terr-1849479918)
-- [Lifehacker] [Should You Lift With Barbells or Dumbbells?](https://lifehacker.com/should-you-lift-with-barbells-or-dumbbells-1849479494)
-- [Lifehacker] [‘Netflix Party’ and Four Other Chrome Extensions That Are Actually Malware](https://lifehacker.com/netflix-party-and-four-other-chrome-extensions-that-a-1849479234)
-- [Lifehacker] [10 of the Best Dating Shows That Actually Teach You Something About Love](https://lifehacker.com/10-of-the-best-dating-shows-that-actually-teach-you-som-1849474319)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Combine Your Love of Art and Fat and Make a Butter Terrine](https://lifehacker.com/combine-your-love-of-art-and-fat-and-make-a-butter-terr-1849479918)<!-- TECH-POSTS:END -->
 
 ---
 
