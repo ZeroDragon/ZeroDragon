@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning new programming language](https://dev.to/adeola541/learning-new-programming-language-3bma)
+- [Dev.to/JS] [My js image editor](https://dev.to/jlopcun/my-js-image-editor-3h3b)
+- [Dev.to/JS] [Conditional check of presence of an element with chaining](https://dev.to/sachinmdev/conditional-check-of-presence-of-an-element-with-chaining-3l2c)
 - [Dev.to/JS] [Build, Test, and Publish an NPM package](https://dev.to/baabouj/build-test-and-publish-an-npm-package-4i2e)
 - [Dev.to/JS] [Java i18n &lpar;Internationalization&rpar; and Localization Tutorial](https://dev.to/juliaherasymchuk/java-i18n-internationalization-and-localization-tutorial-17bi)
 - [Dev.to/JS] [Build blog site by markdown files and single index.html](https://dev.to/casualwriter/build-blog-site-by-markdown-files-and-single-indexhtml-1bg2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Social-graphcis-library](https://dev.to/josunlp/social-graphcis-library-3del)
 - [Dev.to/JS] [It&#39;s been a while...](https://dev.to/jaythoven/its-been-a-while-4hih)
 - [Dev.to/JS] [How to Recognize MRZ from Passport and ID Card with Node.js](https://dev.to/yushulx/how-to-recognize-mrz-from-passport-and-id-card-with-nodejs-4i0p)
-- [Dev.to/JS] [type coercion](https://dev.to/blegbleg/type-coercion-3pfm)
-- [Dev.to/JS] [Electrical Engineering Projects for Final Year](https://dev.to/arunprakash142/electrical-engineering-projects-for-final-year-1oa4)
-- [Dev.to/JS] [How Fast Is Bun.sh After All?](https://dev.to/devarshishimpi/how-fast-is-bunsh-after-all-4iec)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
