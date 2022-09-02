@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create and deploy your Telegram bot HERE entirely free!](https://dev.to/kevinc/create-and-deploy-your-telegram-bot-here-entirely-free-4cgc)
+- [Dev.to/JS] [MY CODING JOURNEY STARTS HERE!](https://dev.to/mercymuasya/my-coding-journey-starts-here-1bkm)
+- [Dev.to/JS] [Social-graphcis-library](https://dev.to/josunlp/social-graphcis-library-3del)
 - [Dev.to/JS] [Blog App](https://dev.to/hrb11182/blog-app-30ok)
 - [Dev.to/JS] [It&#39;s been a while...](https://dev.to/jaythoven/its-been-a-while-4hih)
 - [Dev.to/JS] [How to Recognize MRZ from Passport and ID Card with Node.js](https://dev.to/yushulx/how-to-recognize-mrz-from-passport-and-id-card-with-nodejs-4i0p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which language/skills/frameworks are worth investing your time and energy right now?](https://dev.to/prahladyeri/which-languageskillsframeworks-are-worth-investing-your-time-and-energy-right-now-139b)
 - [Dev.to/JS] [Replace Elements with Greatest Element on Right Side](https://dev.to/zeeshanali0704/replace-elements-with-greatest-element-on-right-side-3o17)
 - [Dev.to/JS] [4 hacks for writing frontend tests 10x faster &lpar;probably!&rpar;](https://dev.to/johnfolder/4-hacks-for-writing-frontend-tests-10x-faster-probably-ioo)
-- [Dev.to/JS] [How to solve: TailwindCSS intelligence can&#39;t pick up your custom utility classname](https://dev.to/summerbud/how-to-solve-tailwindcss-intelligence-cant-pick-up-your-custom-utility-classname-1h1j)
-- [Dev.to/JS] [Valid Mountain Array](https://dev.to/zeeshanali0704/valid-mountain-array-4429)
-- [Dev.to/JS] [Custom Image Carousel that Manipulates Data w/ Angular Low-Level Directives, Lifecycle Methods, and Execution Workflow](https://dev.to/riapacheco/reusable-image-carousel-component-with-angular-low-level-directives-21jf)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
