@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make responsive agency website using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-agency-website-using-html-css-javascript-1ioh)
+- [Dev.to/JS] [How to Add Google Analytics to a React-Next.js Application 📈⚛️](https://dev.to/edwinnv/how-to-add-google-analytics-to-a-react-nextjs-application-boc)
+- [Lifehacker] [Don&#39;t Fall for This Instagram Verification Scam](https://lifehacker.com/dont-fall-for-this-instagram-verification-scam-1849490064)
+- [Dev.to/JS] [The Rising Coder - Bootcamp Precourse](https://dev.to/clam119/the-rising-coder-bootcamp-precourse-1ic7)
+- [Dev.to/JS] [No UI Design](https://dev.to/flames/no-ui-design-3in8)
+- [Dev.to/JS] [How to use 1Password to share local secrets](https://dev.to/theaccordance/how-to-use-1password-to-share-local-secrets-434d)
 - [Lifehacker] [How to Coach a Sport You&#39;ve Never Played](https://lifehacker.com/how-to-coach-a-sport-youve-never-played-1849479459)
 - [Lifehacker] [The Do&#39;s and Don&#39;ts of Managing Up, According to an HR Expert](https://lifehacker.com/the-dos-and-donts-of-managing-up-according-to-an-hr-ex-1849488606)
 - [Lifehacker] [There’s a New COVID Booster You Should Probably Get This Fall](https://lifehacker.com/there-s-a-new-covid-booster-you-should-probably-get-thi-1849490154)
@@ -39,11 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Minor Project For Electrical Engineering](https://dev.to/arunprakash142/minor-project-for-electrical-engineering-31g6)
 - [Dev.to/JS] [Unpacking JavaScript 02: OOJS part 4 - Design Patterns](https://dev.to/sfundomhlungu/unpacking-javascript-02-oojs-part-4-design-patterns-8pg)
 - [Dev.to/JS] [Var, Let, and Const](https://dev.to/rkshaw20/var-let-and-const-odn)
-- [Dev.to/JS] [Visualize active fires around the world with Javascript](https://dev.to/alagrede/visualize-active-fires-around-the-world-with-javascript-3heh)
-- [Dev.to/JS] [How to add TypeScript types to useReducer](https://dev.to/akoskm/how-to-add-typescript-types-to-usereducer-4mhm)
-- [Dev.to/JS] [Detect Non-Inclusive Language with Retext and Node.js](https://dev.to/deepgram/detect-non-inclusive-language-with-retext-and-nodejs-b46)
-- [Dev.to/JS] [10+ Plugins That Will Boost Your Productivity With Intellij Idea](https://dev.to/devarshishimpi/10-plugins-that-will-boost-your-productivity-with-intellij-idea-32p9)
-- [Dev.to/JS] [Wrangling financial inclusion data with JavaScript, D3 and Markdown](https://dev.to/dextersjab/wrangling-financial-inclusion-data-with-javascript-d3-and-markdown-4h3n)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Underestimating Kindness](https://lifehacker.com/youre-underestimating-kindness-1849482186)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
 - [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
-- [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)
-- [Lifehacker] [10 of the Best Cheap and Healthy Lunchbox Ideas, According to Reddit](https://lifehacker.com/10-of-the-best-cheap-and-healthy-lunchbox-ideas-accord-1849479916)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)<!-- TECH-POSTS:END -->
 
 ---
 
