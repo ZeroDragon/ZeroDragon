@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 hacks for writing frontend tests 10x faster &lpar;probably!&rpar;](https://dev.to/johnfolder/4-hacks-for-writing-frontend-tests-10x-faster-probably-ioo)
+- [Dev.to/JS] [How to solve: TailwindCSS intelligence can&#39;t pick up your custom utility classname](https://dev.to/summerbud/how-to-solve-tailwindcss-intelligence-cant-pick-up-your-custom-utility-classname-1h1j)
+- [Dev.to/JS] [Valid Mountain Array](https://dev.to/zeeshanali0704/valid-mountain-array-4429)
+- [Dev.to/JS] [Reusable Image Carousel Component with Angular Low-Level Directives](https://dev.to/riapacheco/reusable-image-carousel-component-with-angular-low-level-directives-21jf)
 - [Dev.to/JS] [Conditional Component Rendering Tips](https://dev.to/ryohlan/conditional-component-rendering-tips-1am)
 - [Dev.to/JS] [Top Ten Times JavaScript is Mentioned in Moby Dick](https://dev.to/blegbleg/top-ten-times-javascript-is-mentioned-in-moby-dick-1dm8)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 15: How can we debug V8 more easily](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-15-how-can-we-debug-v8-more-easily-2lnk)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are Arrays? - Part IV](https://dev.to/jinchoo/what-are-arrays-part-iv-32hf)
 - [Dev.to/JS] [Node.js &#39;__dirname&#39; vrs &#39;process.cwd&lpar;&rpar;&#39;](https://dev.to/qbentil/nodejs-dirname-vrs-processcwd-3k88)
 - [Dev.to/JS] [Wrapping arrays in ReactJS](https://dev.to/muratcanyuksel/wrapping-arrays-in-reactjs-3ipi)
-- [Dev.to/JS] [Dos formas de crear un proyecto con React JS](https://dev.to/joshuacba08/dos-formas-de-crear-un-proyecto-con-react-js-4oi)
-- [Dev.to/JS] [React JS &amp; Tailwindcss - 01-Instalación](https://dev.to/joshuacba08/react-js-tailwindcss-01-instalacion-3k8l)
-- [Dev.to/JS] [Solidity Complete Fundamentals Cheat Sheet](https://dev.to/luislucena16/solidity-complete-fundamentals-cheat-sheet-26a6)
-- [Dev.to/JS] [Vue.js Basics Part 3 | Computed Property](https://dev.to/ahmetmeliksah/vuejs-basics-part-3-computed-property-3hmo)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
