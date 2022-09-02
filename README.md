@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced React - Abort API Request on Unmounting](https://dev.to/ministryofjavascript/advanced-react-abort-api-request-on-unmounting-213)
+- [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Dev.to/JS] [Angular crash on iOS devices toLocaleDateString&lpar;&rpar;](https://dev.to/mitsoe/angular-crash-on-ios-devices-tolocaledatestring-1boc)
 - [Dev.to/JS] [Get the latest currency data with our currency list API](https://dev.to/shubham2022/get-the-latest-currency-data-with-our-currency-list-api-1ljl)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hot-Wire an Old Car &lpar;and Steal a Modern One&rpar;](https://lifehacker.com/how-to-hot-wire-an-old-car-and-steal-a-modern-one-1849486498)
 - [Lifehacker] [How to Parent With ‘Connected Consequences’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-parent-with-connected-consequences-and-why-yo-1849470945)
 - [Dev.to/JS] [Calculator](https://dev.to/abdurrehman01994/calculator-klp)
-- [Dev.to/JS] [Real-World React Coding Challenges For Your Interview Preparation](https://dev.to/profydev/real-world-react-coding-challenges-for-your-interview-preparation-22pm)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Finally Edit Your Tweets](https://lifehacker.com/how-to-finally-edit-your-tweets-1849484269)
 - [Lifehacker] [Use the ‘Junebug’ Cleaning Method When the Mess Gets Overwhelming](https://lifehacker.com/use-the-junebug-cleaning-method-when-the-mess-gets-ov-1849481011)
 - [Lifehacker] [11 Essential Fall Home Maintenance Tasks Everyone Should Tackle](https://lifehacker.com/11-essential-fall-home-maintenance-tasks-everyone-shoul-1849480075)
-- [Lifehacker] [The True History of Credit Scores](https://lifehacker.com/the-true-history-of-credit-scores-1849482730)
-- [Lifehacker] [You&#39;re Underestimating Kindness](https://lifehacker.com/youre-underestimating-kindness-1849482186)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The True History of Credit Scores](https://lifehacker.com/the-true-history-of-credit-scores-1849482730)<!-- TECH-POSTS:END -->
 
 ---
 
