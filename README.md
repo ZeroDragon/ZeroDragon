@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which language/skills/frameworks are worth investing your time and energy right now?](https://dev.to/prahladyeri/which-languageskillsframeworks-are-worth-investing-your-time-and-energy-right-now-139b)
 - [Dev.to/JS] [Replace Elements with Greatest Element on Right Side](https://dev.to/zeeshanali0704/replace-elements-with-greatest-element-on-right-side-3o17)
 - [Dev.to/JS] [4 hacks for writing frontend tests 10x faster &lpar;probably!&rpar;](https://dev.to/johnfolder/4-hacks-for-writing-frontend-tests-10x-faster-probably-ioo)
 - [Dev.to/JS] [How to solve: TailwindCSS intelligence can&#39;t pick up your custom utility classname](https://dev.to/summerbud/how-to-solve-tailwindcss-intelligence-cant-pick-up-your-custom-utility-classname-1h1j)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VueJS - Día 01](https://dev.to/joshuacba08/vuejs-dia-01-15jb)
 - [Dev.to/JS] [Adding a background image to a text.](https://dev.to/dev_steve/adding-a-background-image-to-a-text-5076)
 - [Dev.to/JS] [What are Arrays? - Part IV](https://dev.to/jinchoo/what-are-arrays-part-iv-32hf)
-- [Dev.to/JS] [Node.js &#39;__dirname&#39; vrs &#39;process.cwd&lpar;&rpar;&#39;](https://dev.to/qbentil/nodejs-dirname-vrs-processcwd-3k88)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
