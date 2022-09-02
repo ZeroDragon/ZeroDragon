@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VueJS - Día 01](https://dev.to/joshuacba08/vuejs-dia-01-15jb)
 - [Dev.to/JS] [Adding a background image to a text.](https://dev.to/dev_steve/adding-a-background-image-to-a-text-5076)
 - [Dev.to/JS] [What are Arrays? - Part IV](https://dev.to/jinchoo/what-are-arrays-part-iv-32hf)
 - [Dev.to/JS] [Node.js &#39;__dirname&#39; vrs &#39;process.cwd&lpar;&rpar;&#39;](https://dev.to/qbentil/nodejs-dirname-vrs-processcwd-3k88)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Dev.to/JS] [Bathroom Security](https://dev.to/rmion/bathroom-security-4cac)
 - [Dev.to/JS] [How to Create a Countdown Timer In ReactJS](https://dev.to/jaymeeu/how-to-create-a-countdown-timer-in-reactjs-2khj)
-- [Dev.to/JS] [How to Create a Countdown Timer With Javascript](https://dev.to/jaymeeu/how-to-create-a-countdown-timer-with-javascript-191m)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
 - [Lifehacker] [May I Present These Tofu Puff Pizza Rolls](https://lifehacker.com/may-i-present-these-tofu-puff-pizza-rolls-1849486137)
