@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Parent With ‘Connected Consequences’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-parent-with-connected-consequences-and-why-yo-1849470945)
+- [Dev.to/JS] [Calculator](https://dev.to/abdurrehman01994/calculator-klp)
+- [Dev.to/JS] [Real-World React Coding Challenges For Your Interview Preparation](https://dev.to/profydev/real-world-react-coding-challenges-for-your-interview-preparation-22pm)
+- [Dev.to/JS] [Minor Project For Electrical Engineering](https://dev.to/arunprakash142/minor-project-for-electrical-engineering-31g6)
+- [Dev.to/JS] [Unpacking JavaScript 02: OOJS part 4 - Design Patterns](https://dev.to/sfundomhlungu/unpacking-javascript-02-oojs-part-4-design-patterns-8pg)
+- [Dev.to/JS] [Var, Let, and Const](https://dev.to/rkshaw20/var-let-and-const-odn)
 - [Dev.to/JS] [Visualize active fires around the world with Javascript](https://dev.to/alagrede/visualize-active-fires-around-the-world-with-javascript-3heh)
 - [Dev.to/JS] [How to add TypeScript types to useReducer](https://dev.to/akoskm/how-to-add-typescript-types-to-usereducer-4mhm)
 - [Dev.to/JS] [Detect Non-Inclusive Language with Retext and Node.js](https://dev.to/deepgram/detect-non-inclusive-language-with-retext-and-nodejs-b46)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a CRUD app with SvelteKit](https://dev.to/refine/how-to-create-a-crud-app-with-sveltekit-49cb)
 - [Dev.to/JS] [Can we Animate Opacity in React Native?](https://dev.to/paulayo93/can-we-animate-opacity-in-react-native-2i16)
 - [Dev.to/JS] [Discover A New Framework: SolidJS 🧑‍💻](https://dev.to/dmnchzl/discover-a-new-framework-solidjs-1nco)
-- [Dev.to/JS] [react native](https://dev.to/vicky435435/react-native-23j0)
-- [Dev.to/JS] [helo world](https://dev.to/artistryinnovation/helo-world-19le)
-- [Dev.to/JS] [How we clone a running VM in 2 seconds](https://dev.to/codesandboxio/how-we-clone-a-running-vm-in-2-seconds-39m3)
-- [Dev.to/JS] [Why variables can be accessed before declaration in Javascript?](https://dev.to/justin_graysen/why-variables-can-be-accessed-before-declaration-in-javascript-7bl)
-- [Dev.to/JS] [Wrighter &lpar;β&rpar; - A Powerful Markdown Blogger &amp; A Writing Companion ⚡](https://dev.to/tkvishal/introducing-wrighter-a-powerful-markdown-blogger-a-writing-companion-26gl)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Dating Shows That Actually Teach You Something About Love](https://lifehacker.com/10-of-the-best-dating-shows-that-actually-teach-you-som-1849474319)
 - [Lifehacker] [Everything New in Chrome 105](https://lifehacker.com/everything-new-in-chrome-105-1849478347)
 - [Lifehacker] [12 of the Best New Things to Stream in September 2022](https://lifehacker.com/12-of-the-best-new-things-to-stream-in-september-2022-1849476519)
-- [Lifehacker] [How to Train Your Dog to Like the Vet](https://lifehacker.com/how-to-train-your-dog-to-like-the-vet-1849476165)
-- [Lifehacker] [How to Use Mulch to Keep Your Garden Alive in a Drought](https://lifehacker.com/how-to-use-mulch-to-keep-your-garden-alive-in-a-drought-1849476890)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Train Your Dog to Like the Vet](https://lifehacker.com/how-to-train-your-dog-to-like-the-vet-1849476165)<!-- TECH-POSTS:END -->
 
 ---
 
