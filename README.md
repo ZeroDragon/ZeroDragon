@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/five-cheap-ways-to-make-your-house-look-more-expensive-1849487827)
+- [Lifehacker] [How to Hot-Wire an Old Car &lpar;and Steal a Modern One&rpar;](https://lifehacker.com/how-to-hot-wire-an-old-car-and-steal-a-modern-one-1849486498)
 - [Lifehacker] [How to Parent With ‘Connected Consequences’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-parent-with-connected-consequences-and-why-yo-1849470945)
 - [Dev.to/JS] [Calculator](https://dev.to/abdurrehman01994/calculator-klp)
 - [Dev.to/JS] [Real-World React Coding Challenges For Your Interview Preparation](https://dev.to/profydev/real-world-react-coding-challenges-for-your-interview-preparation-22pm)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Lift With Barbells or Dumbbells?](https://lifehacker.com/should-you-lift-with-barbells-or-dumbbells-1849479494)
 - [Lifehacker] [‘Netflix Party’ and Four Other Chrome Extensions That Are Actually Malware](https://lifehacker.com/netflix-party-and-four-other-chrome-extensions-that-a-1849479234)
 - [Lifehacker] [10 of the Best Dating Shows That Actually Teach You Something About Love](https://lifehacker.com/10-of-the-best-dating-shows-that-actually-teach-you-som-1849474319)
-- [Lifehacker] [Everything New in Chrome 105](https://lifehacker.com/everything-new-in-chrome-105-1849478347)
-- [Lifehacker] [12 of the Best New Things to Stream in September 2022](https://lifehacker.com/12-of-the-best-new-things-to-stream-in-september-2022-1849476519)
-- [Lifehacker] [How to Train Your Dog to Like the Vet](https://lifehacker.com/how-to-train-your-dog-to-like-the-vet-1849476165)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything New in Chrome 105](https://lifehacker.com/everything-new-in-chrome-105-1849478347)<!-- TECH-POSTS:END -->
 
 ---
 
