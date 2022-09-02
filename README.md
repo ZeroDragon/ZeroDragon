@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner&#39;s Guide To UseEffect Cleanup: How and When To Use It](https://dev.to/hr21don/a-beginners-guide-to-useeffect-cleanup-how-and-when-to-use-it-5a4g)
 - [Dev.to/JS] [Advanced React - Abort API Request on Unmounting](https://dev.to/ministryofjavascript/advanced-react-abort-api-request-on-unmounting-213)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/five-cheap-ways-to-make-your-house-look-more-expensive-1849487827)
 - [Lifehacker] [How to Hot-Wire an Old Car &lpar;and Steal a Modern One&rpar;](https://lifehacker.com/how-to-hot-wire-an-old-car-and-steal-a-modern-one-1849486498)
 - [Lifehacker] [How to Parent With ‘Connected Consequences’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-parent-with-connected-consequences-and-why-yo-1849470945)
-- [Dev.to/JS] [Calculator](https://dev.to/abdurrehman01994/calculator-klp)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
