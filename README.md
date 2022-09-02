@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get the latest currency data with our currency list API](https://dev.to/shubham2022/get-the-latest-currency-data-with-our-currency-list-api-1ljl)
+- [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
+- [Dev.to/JS] [The Rising Coder - Week 1/13 &lpar;Introduction Week&rpar;](https://dev.to/clam119/the-rising-coder-week-113-introduction-week-2lpa)
+- [Lifehacker] [12 of the Best Houseplants With Obscenely Large Leaves](https://lifehacker.com/12-of-the-best-houseplants-with-obscenely-large-leaves-1849490559)
 - [Dev.to/JS] [How to make responsive agency website using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-agency-website-using-html-css-javascript-1ioh)
 - [Dev.to/JS] [How to Add Google Analytics to a React-Next.js Application 📈⚛️](https://dev.to/edwinnv/how-to-add-google-analytics-to-a-react-nextjs-application-boc)
 - [Lifehacker] [Don&#39;t Fall for This Instagram Verification Scam](https://lifehacker.com/dont-fall-for-this-instagram-verification-scam-1849490064)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Calculator](https://dev.to/abdurrehman01994/calculator-klp)
 - [Dev.to/JS] [Real-World React Coding Challenges For Your Interview Preparation](https://dev.to/profydev/real-world-react-coding-challenges-for-your-interview-preparation-22pm)
 - [Dev.to/JS] [Minor Project For Electrical Engineering](https://dev.to/arunprakash142/minor-project-for-electrical-engineering-31g6)
-- [Dev.to/JS] [Unpacking JavaScript 02: OOJS part 4 - Design Patterns](https://dev.to/sfundomhlungu/unpacking-javascript-02-oojs-part-4-design-patterns-8pg)
-- [Dev.to/JS] [Var, Let, and Const](https://dev.to/rkshaw20/var-let-and-const-odn)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Essential Fall Home Maintenance Tasks Everyone Should Tackle](https://lifehacker.com/11-essential-fall-home-maintenance-tasks-everyone-shoul-1849480075)
 - [Lifehacker] [The True History of Credit Scores](https://lifehacker.com/the-true-history-of-credit-scores-1849482730)
 - [Lifehacker] [You&#39;re Underestimating Kindness](https://lifehacker.com/youre-underestimating-kindness-1849482186)
-- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)
-- [Lifehacker] [These Are the Three Best Vegetarian Broths](https://lifehacker.com/these-are-the-three-best-vegetarian-broths-1849480778)
-- [Lifehacker] [The Differences Between Just Overeating and a Binge Eating Disorder](https://lifehacker.com/the-differences-between-just-overeating-and-a-binge-eat-1849480214)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in September 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849480744)<!-- TECH-POSTS:END -->
 
 ---
 
