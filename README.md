@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hey I just created my first website](https://dev.to/kaarthikrishna/hey-i-just-created-my-first-website-3ae7)
+- [Dev.to/JS] [How can I build a time that changes every second on React.js?!](https://dev.to/almuhannad1/how-can-build-time-to-update-every-second-in-reactjs-m87)
 - [Dev.to/JS] [Variable Hoisting in JavaScript](https://dev.to/chaharsumit/variable-hoisting-in-javascript-1h9i)
 - [Dev.to/JS] [Advantages of using Bootstrap over designing websites from scratch using HTML/CSS/JS?](https://dev.to/fahimulkabir/advantages-of-using-bootstrap-over-designing-websites-from-scratch-using-htmlcssjs-4gi9)
 - [Dev.to/JS] [Create A Slideshow in HTML , CSS and JS](https://dev.to/herryjobn/create-a-slideshow-in-html-css-and-js-3omj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;03-09-2022&rpar; - The Gorbachev Short](https://dev.to/mjgs/this-weeks-newsletter-is-out-03-09-2022-the-gorbachev-short-436k)
 - [Dev.to/JS] [LeetCode - Path Sum](https://dev.to/_alkesh26/leetcode-path-sum-o9h)
 - [Dev.to/JS] [Why I prefer Vite over Create-React-App for React Projects](https://dev.to/knirmalkumar/why-i-prefer-vite-over-create-react-app-for-react-project-2lil)
-- [Dev.to/JS] [RxJS Of and From in Angular](https://dev.to/bipon68/rxjs-of-and-from-in-angular-4n8p)
-- [Dev.to/JS] [ES6 Arrow functions quick notes](https://dev.to/ajaybaraiya6/es6-arrow-functions-quick-notes-2m0h)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
