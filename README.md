@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement login in React](https://dev.to/pooja/how-to-implement-login-system-in-react-project-2pkk)
 - [Dev.to/JS] [What I learned from 100 Days of Code Challenge](https://dev.to/hikari7/what-i-learned-from-100-days-of-code-challenge-39lf)
 - [Dev.to/JS] [Let It Snow](https://dev.to/rmion/let-it-snow-15d0)
 - [Dev.to/JS] [First Big Project / Learning How To Use JSON server](https://dev.to/ldakanno/first-big-project-learning-how-to-use-json-server-1b5)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add Google Analytics to a React-Next.js Application 📈⚛️](https://dev.to/edwinnv/how-to-add-google-analytics-to-a-react-nextjs-application-boc)
 - [Lifehacker] [Don&#39;t Fall for This Instagram Verification Scam](https://lifehacker.com/dont-fall-for-this-instagram-verification-scam-1849490064)
 - [Dev.to/JS] [The Rising Coder - Bootcamp Precourse](https://dev.to/clam119/the-rising-coder-bootcamp-precourse-1ic7)
-- [Dev.to/JS] [No UI Design](https://dev.to/flames/no-ui-design-3in8)
 - [Lifehacker] [How to Coach a Sport You&#39;ve Never Played](https://lifehacker.com/how-to-coach-a-sport-youve-never-played-1849479459)
 - [Lifehacker] [The Do&#39;s and Don&#39;ts of Managing Up, According to an HR Expert](https://lifehacker.com/the-dos-and-donts-of-managing-up-according-to-an-hr-ex-1849488606)
 - [Lifehacker] [There’s a New COVID Booster You Should Probably Get This Fall](https://lifehacker.com/there-s-a-new-covid-booster-you-should-probably-get-thi-1849490154)
