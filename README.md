@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [incremental static site generation &lpar;ISR&rpar; remix](https://dev.to/chandramarch18/isr-remix-4fc9)
+- [Dev.to/JS] [PAYTM CUSTOMER CARE NUMBER 0829-3426-754,](https://dev.to/mohit_saini_14c6c2a10053c/paytm-customer-care-number-0829-3426-754-52p3)
+- [Dev.to/JS] [Why Localbitcoins Clone Scripts Is Friend of Small Business](https://dev.to/thecryptoapeo/why-localbitcoins-clone-scripts-is-friend-of-small-business-1d4j)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
 - [Dev.to/JS] [Nice tool to moderate bad posts on a Forem](https://dev.to/thomasbnt/nice-tool-to-moderate-bad-posts-on-a-forem-4381)
 - [Dev.to/JS] [RxJS Map, Tap and Take in Angular](https://dev.to/bipon68/rxjs-map-tap-and-take-in-angular-lh9)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create A Slideshow in HTML , CSS and JS](https://dev.to/herryjobn/create-a-slideshow-in-html-css-and-js-3omj)
 - [Dev.to/JS] [I made an outdoor adventure game to motivate me to go outside more](https://dev.to/sebastianstamm/i-made-an-outdoor-adventure-game-to-motivate-me-to-go-outside-more-1c8g)
 - [Dev.to/JS] [Crunch App](https://dev.to/annastaciadev/crunch-app-1f85)
-- [Dev.to/JS] [A !simple Todo App in react -Intro](https://dev.to/himanshupal0001/a-simple-todo-app-in-react-intro-38k)
-- [Dev.to/JS] [GlucoTrust - Blood Sugar Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/glucotrust7/glucotrust-blood-sugar-reviews-pros-cons-scam-or-legit-4do1)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;03-09-2022&rpar; - The Gorbachev Short](https://dev.to/mjgs/this-weeks-newsletter-is-out-03-09-2022-the-gorbachev-short-436k)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
