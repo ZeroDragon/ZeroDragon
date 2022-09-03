@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Function Definition Methods](https://dev.to/drprime01/javascript-function-definition-methods-d8a)
+- [Dev.to/JS] [Learn what is CSRF attack by hacking an online Casino](https://dev.to/ludobzor/learn-what-is-csrf-attack-by-hacking-an-online-casino-3mkm)
 - [Dev.to/JS] [How to develop under the TON using Javascript](https://dev.to/chakzefir/how-to-develop-under-the-ton-using-javascript-2a3p)
 - [Dev.to/JS] [Javascript: Var vs Const vs Let 👍💯](https://dev.to/w6/javascript-var-vs-const-vs-let-37m9)
 - [Dev.to/JS] [How to extend WordPress Media Library [Updated Version 2022]](https://dev.to/adeleyeayodeji/how-to-extend-wordpress-media-library-updated-version-2022-3ake)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Notesnook is now open source!](https://dev.to/thecodrr/notesnook-is-now-open-source-2i93)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Dev.to/JS] [How to use ESM on the web and in Node.js](https://dev.to/asyncbanana/how-to-use-esm-on-the-web-and-in-nodejs-3k04)
-- [Dev.to/JS] [How to create a simple NodeJS HTTP server?](https://dev.to/israromar/how-to-create-a-simple-nodejs-http-server-4ea8)
-- [Dev.to/JS] [Concurrency Model in JavaScript Runtime Environments](https://dev.to/ionra/concurrency-model-in-javascript-runtime-environments-34dc)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
