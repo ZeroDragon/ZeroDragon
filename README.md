@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I prefer Vite over Create-React-App for React Projects](https://dev.to/knirmalkumar/why-i-prefer-vite-over-create-react-app-for-react-project-2lil)
+- [Dev.to/JS] [RxJS Of and From in Angular](https://dev.to/bipon68/rxjs-of-and-from-in-angular-4n8p)
 - [Dev.to/JS] [ES6 Arrow functions quick notes](https://dev.to/ajaybaraiya6/es6-arrow-functions-quick-notes-2m0h)
 - [Dev.to/JS] [Javascript var, let, const difference](https://dev.to/ajaybaraiya6/javascript-var-let-const-difference-23ab)
 - [Dev.to/JS] [Spotify-clone](https://dev.to/flocodes/spotify-clone-4bak)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ECMAScript o JavaScript?](https://dev.to/julio_santacruz/ecmascript-o-javascript-272g)
 - [Dev.to/JS] [Subset vs Substring](https://dev.to/zeeshanali0704/subset-vs-substring-42fm)
 - [Dev.to/JS] [How to implement login in React](https://dev.to/pooja/how-to-implement-login-system-in-react-project-2pkk)
-- [Dev.to/JS] [What I learned during the 100 Days of Code Challenge](https://dev.to/hikari7/what-i-learned-from-100-days-of-code-challenge-39lf)
-- [Dev.to/JS] [Let It Snow](https://dev.to/rmion/let-it-snow-15d0)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
