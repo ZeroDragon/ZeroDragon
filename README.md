@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Subset vs Substring](https://dev.to/zeeshanali0704/subset-vs-substring-42fm)
 - [Dev.to/JS] [How to implement login in React](https://dev.to/pooja/how-to-implement-login-system-in-react-project-2pkk)
-- [Dev.to/JS] [What I learned from 100 Days of Code Challenge](https://dev.to/hikari7/what-i-learned-from-100-days-of-code-challenge-39lf)
+- [Dev.to/JS] [What I learned during the 100 Days of Code Challenge](https://dev.to/hikari7/what-i-learned-from-100-days-of-code-challenge-39lf)
 - [Dev.to/JS] [Let It Snow](https://dev.to/rmion/let-it-snow-15d0)
 - [Dev.to/JS] [First Big Project / Learning How To Use JSON server](https://dev.to/ldakanno/first-big-project-learning-how-to-use-json-server-1b5)
 - [Dev.to/JS] [A Beginner&#39;s Guide To UseEffect Cleanup: How and When To Use It](https://dev.to/hr21don/a-beginners-guide-to-useeffect-cleanup-how-and-when-to-use-it-5a4g)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make responsive agency website using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-agency-website-using-html-css-javascript-1ioh)
 - [Dev.to/JS] [How to Add Google Analytics to a React-Next.js Application 📈⚛️](https://dev.to/edwinnv/how-to-add-google-analytics-to-a-react-nextjs-application-boc)
 - [Lifehacker] [Don&#39;t Fall for This Instagram Verification Scam](https://lifehacker.com/dont-fall-for-this-instagram-verification-scam-1849490064)
-- [Dev.to/JS] [The Rising Coder - Bootcamp Precourse](https://dev.to/clam119/the-rising-coder-bootcamp-precourse-1ic7)
 - [Lifehacker] [How to Coach a Sport You&#39;ve Never Played](https://lifehacker.com/how-to-coach-a-sport-youve-never-played-1849479459)
 - [Lifehacker] [The Do&#39;s and Don&#39;ts of Managing Up, According to an HR Expert](https://lifehacker.com/the-dos-and-donts-of-managing-up-according-to-an-hr-ex-1849488606)
 - [Lifehacker] [There’s a New COVID Booster You Should Probably Get This Fall](https://lifehacker.com/there-s-a-new-covid-booster-you-should-probably-get-thi-1849490154)
