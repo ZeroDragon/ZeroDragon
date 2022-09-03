@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ES6 Arrow functions quick notes](https://dev.to/ajaybaraiya6/es6-arrow-functions-quick-notes-2m0h)
 - [Dev.to/JS] [Javascript var, let, const difference](https://dev.to/ajaybaraiya6/javascript-var-let-const-difference-23ab)
 - [Dev.to/JS] [Spotify-clone](https://dev.to/flocodes/spotify-clone-4bak)
 - [Dev.to/JS] [Vue.js Basics Part 4 | Lifecycle and Template Refs](https://dev.to/ahmetmeliksah/vuejs-basics-part-4-lifecycle-and-template-refs-4hlk)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to implement login in React](https://dev.to/pooja/how-to-implement-login-system-in-react-project-2pkk)
 - [Dev.to/JS] [What I learned during the 100 Days of Code Challenge](https://dev.to/hikari7/what-i-learned-from-100-days-of-code-challenge-39lf)
 - [Dev.to/JS] [Let It Snow](https://dev.to/rmion/let-it-snow-15d0)
-- [Dev.to/JS] [First Big Project / Learning How To Use JSON server](https://dev.to/ldakanno/first-big-project-learning-how-to-use-json-server-1b5)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
