@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Variable Hoisting in JavaScript](https://dev.to/chaharsumit/variable-hoisting-in-javascript-1h9i)
+- [Dev.to/JS] [Advantages of using Bootstrap over designing websites from scratch using HTML/CSS/JS?](https://dev.to/fahimulkabir/advantages-of-using-bootstrap-over-designing-websites-from-scratch-using-htmlcssjs-4gi9)
 - [Dev.to/JS] [Create A Slideshow in HTML , CSS and JS](https://dev.to/herryjobn/create-a-slideshow-in-html-css-and-js-3omj)
 - [Dev.to/JS] [I made an outdoor adventure game to motivate me to go outside more](https://dev.to/sebastianstamm/i-made-an-outdoor-adventure-game-to-motivate-me-to-go-outside-more-1c8g)
 - [Dev.to/JS] [Crunch App](https://dev.to/annastaciadev/crunch-app-1f85)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I prefer Vite over Create-React-App for React Projects](https://dev.to/knirmalkumar/why-i-prefer-vite-over-create-react-app-for-react-project-2lil)
 - [Dev.to/JS] [RxJS Of and From in Angular](https://dev.to/bipon68/rxjs-of-and-from-in-angular-4n8p)
 - [Dev.to/JS] [ES6 Arrow functions quick notes](https://dev.to/ajaybaraiya6/es6-arrow-functions-quick-notes-2m0h)
-- [Dev.to/JS] [Javascript var, let, const difference](https://dev.to/ajaybaraiya6/javascript-var-let-const-difference-23ab)
-- [Dev.to/JS] [Spotify-clone](https://dev.to/flocodes/spotify-clone-4bak)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
