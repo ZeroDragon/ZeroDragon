@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React MultiStep Form](https://dev.to/nitesh_shukla/react-multistep-form-4m93)
 - [Dev.to/JS] [incremental static site generation &lpar;ISR&rpar; remix](https://dev.to/chandramarch18/isr-remix-4fc9)
 - [Dev.to/JS] [PAYTM CUSTOMER CARE NUMBER 0829-3426-754,](https://dev.to/mohit_saini_14c6c2a10053c/paytm-customer-care-number-0829-3426-754-52p3)
 - [Dev.to/JS] [Why Localbitcoins Clone Scripts Is Friend of Small Business](https://dev.to/thecryptoapeo/why-localbitcoins-clone-scripts-is-friend-of-small-business-1d4j)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advantages of using Bootstrap over designing websites from scratch using HTML/CSS/JS?](https://dev.to/fahimulkabir/advantages-of-using-bootstrap-over-designing-websites-from-scratch-using-htmlcssjs-4gi9)
 - [Dev.to/JS] [Create A Slideshow in HTML , CSS and JS](https://dev.to/herryjobn/create-a-slideshow-in-html-css-and-js-3omj)
 - [Dev.to/JS] [I made an outdoor adventure game to motivate me to go outside more](https://dev.to/sebastianstamm/i-made-an-outdoor-adventure-game-to-motivate-me-to-go-outside-more-1c8g)
-- [Dev.to/JS] [Crunch App](https://dev.to/annastaciadev/crunch-app-1f85)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
