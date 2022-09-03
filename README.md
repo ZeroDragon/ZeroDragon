@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to develop under the TON using Javascript](https://dev.to/chakzefir/how-to-develop-under-the-ton-using-javascript-2a3p)
 - [Dev.to/JS] [Javascript: Var vs Const vs Let 👍💯](https://dev.to/w6/javascript-var-vs-const-vs-let-37m9)
 - [Dev.to/JS] [How to extend WordPress Media Library [Updated Version 2022]](https://dev.to/adeleyeayodeji/how-to-extend-wordpress-media-library-updated-version-2022-3ake)
 - [Dev.to/JS] [Setting up TypeScript with NodeJS](https://dev.to/rashwanlazkani/setting-up-typescript-with-nodejs-3fjo)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use ESM on the web and in Node.js](https://dev.to/asyncbanana/how-to-use-esm-on-the-web-and-in-nodejs-3k04)
 - [Dev.to/JS] [How to create a simple NodeJS HTTP server?](https://dev.to/israromar/how-to-create-a-simple-nodejs-http-server-4ea8)
 - [Dev.to/JS] [Concurrency Model in JavaScript Runtime Environments](https://dev.to/ionra/concurrency-model-in-javascript-runtime-environments-34dc)
-- [Dev.to/JS] [Awesome Web Projects Ideas You Can put them on your Resume](https://dev.to/varshithvhegde/awesome-web-projects-ideas-you-can-put-them-on-your-resume-7j9)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
