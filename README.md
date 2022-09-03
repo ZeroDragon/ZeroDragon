@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing The FAR3 Stack: A Versatile Toolkit For Web Development.](https://dev.to/wiseai/introducing-the-far3-stack-a-versatile-toolkit-for-web-development-2o00)
+- [Dev.to/JS] [Setting Background Color of Body Dynamically in React](https://dev.to/murtuzaalisurti/setting-background-color-of-body-dynamically-in-react-38k5)
+- [Dev.to/JS] [Creating Beautiful Pictures of Your Code! 🎨](https://dev.to/w6/creating-beautiful-pictures-of-your-code-76l)
+- [Dev.to/JS] [Notesnook is now open source!](https://dev.to/thecodrr/notesnook-is-now-open-source-2i93)
+- [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Dev.to/JS] [How to use ESM on the web and in Node.js](https://dev.to/asyncbanana/how-to-use-esm-on-the-web-and-in-nodejs-3k04)
 - [Dev.to/JS] [How to create a simple NodeJS HTTP server?](https://dev.to/israromar/how-to-create-a-simple-nodejs-http-server-4ea8)
 - [Dev.to/JS] [Concurrency Model in JavaScript Runtime Environments](https://dev.to/ionra/concurrency-model-in-javascript-runtime-environments-34dc)
@@ -32,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React MultiStep Form](https://dev.to/nitesh_shukla/react-multistep-form-4m93)
 - [Dev.to/JS] [incremental static site generation &lpar;ISR&rpar; remix](https://dev.to/chandramarch18/isr-remix-4fc9)
 - [Dev.to/JS] [PAYTM CUSTOMER CARE NUMBER 0829-3426-754,](https://dev.to/mohit_saini_14c6c2a10053c/paytm-customer-care-number-0829-3426-754-52p3)
-- [Dev.to/JS] [Why Localbitcoins Clone Scripts Is Friend of Small Business](https://dev.to/thecryptoapeo/why-localbitcoins-clone-scripts-is-friend-of-small-business-1d4j)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
-- [Dev.to/JS] [Nice tool to moderate bad posts on a Forem](https://dev.to/thomasbnt/nice-tool-to-moderate-bad-posts-on-a-forem-4381)
-- [Dev.to/JS] [RxJS Map, Tap and Take in Angular](https://dev.to/bipon68/rxjs-map-tap-and-take-in-angular-lh9)
-- [Dev.to/JS] [Hey I just created my first website](https://dev.to/kaarthikrishna/hey-i-just-created-my-first-website-3ae7)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner’s Guide to Shopping for Solar Panels](https://lifehacker.com/a-beginner-s-guide-to-shopping-for-solar-panels-1849484992)
 - [Lifehacker] [What to Do When You Can&#39;t Even Run Slowly](https://lifehacker.com/what-to-do-when-you-cant-even-run-slowly-1849485075)
 - [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
-- [Lifehacker] [How to Finally Edit Your Tweets](https://lifehacker.com/how-to-finally-edit-your-tweets-1849484269)
-- [Lifehacker] [Use the ‘Junebug’ Cleaning Method When the Mess Gets Overwhelming](https://lifehacker.com/use-the-junebug-cleaning-method-when-the-mess-gets-ov-1849481011)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Finally Edit Your Tweets](https://lifehacker.com/how-to-finally-edit-your-tweets-1849484269)<!-- TECH-POSTS:END -->
 
 ---
 
