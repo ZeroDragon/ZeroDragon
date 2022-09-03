@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue.js Basics Part 4 | Lifecycle and Template Refs](https://dev.to/ahmetmeliksah/vuejs-basics-part-4-lifecycle-and-template-refs-4hlk)
+- [Dev.to/JS] [Simple MongoDB Database Setup for Discord.JS &lpar;Replit&rpar;](https://dev.to/w6/simple-mongodb-database-for-discordjs-replit-3i2k)
+- [Dev.to/JS] [Monorepos - best practice for scaling a JAM stack](https://dev.to/elliotalexander/monorepos-best-practice-for-scaling-a-jam-stack-dl)
+- [Dev.to/JS] [Skill Up! - &lpar;Re&rpar;acting!](https://dev.to/charleebrown/skill-up-reacting-512e)
+- [Dev.to/JS] [ECMAScript o JavaScript?](https://dev.to/julio_santacruz/ecmascript-o-javascript-272g)
 - [Dev.to/JS] [Subset vs Substring](https://dev.to/zeeshanali0704/subset-vs-substring-42fm)
 - [Dev.to/JS] [How to implement login in React](https://dev.to/pooja/how-to-implement-login-system-in-react-project-2pkk)
 - [Dev.to/JS] [What I learned during the 100 Days of Code Challenge](https://dev.to/hikari7/what-i-learned-from-100-days-of-code-challenge-39lf)
@@ -32,13 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced React - Abort API Request on Unmounting](https://dev.to/ministryofjavascript/advanced-react-abort-api-request-on-unmounting-213)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
-- [Dev.to/JS] [Angular crash on iOS devices toLocaleDateString&lpar;&rpar;](https://dev.to/mitsoe/angular-crash-on-ios-devices-tolocaledatestring-1boc)
-- [Dev.to/JS] [Get the latest currency data with our currency list API](https://dev.to/shubham2022/get-the-latest-currency-data-with-our-currency-list-api-1ljl)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
-- [Dev.to/JS] [The Rising Coder - Week 1/13 &lpar;Introduction Week&rpar;](https://dev.to/clam119/the-rising-coder-week-113-introduction-week-2lpa)
 - [Lifehacker] [12 of the Best Houseplants With Obscenely Large Leaves](https://lifehacker.com/12-of-the-best-houseplants-with-obscenely-large-leaves-1849490559)
-- [Dev.to/JS] [How to make responsive agency website using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-agency-website-using-html-css-javascript-1ioh)
-- [Dev.to/JS] [How to Add Google Analytics to a React-Next.js Application 📈⚛️](https://dev.to/edwinnv/how-to-add-google-analytics-to-a-react-nextjs-application-boc)
 - [Lifehacker] [Don&#39;t Fall for This Instagram Verification Scam](https://lifehacker.com/dont-fall-for-this-instagram-verification-scam-1849490064)
 - [Lifehacker] [How to Coach a Sport You&#39;ve Never Played](https://lifehacker.com/how-to-coach-a-sport-youve-never-played-1849479459)
 - [Lifehacker] [The Do&#39;s and Don&#39;ts of Managing Up, According to an HR Expert](https://lifehacker.com/the-dos-and-donts-of-managing-up-according-to-an-hr-ex-1849488606)
