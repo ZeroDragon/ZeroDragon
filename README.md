@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What I learned from 100 Days of Code Challenge](https://dev.to/hikari7/what-i-learned-from-100-days-of-code-challenge-39lf)
+- [Dev.to/JS] [Let It Snow](https://dev.to/rmion/let-it-snow-15d0)
+- [Dev.to/JS] [First Big Project / Learning How To Use JSON server](https://dev.to/ldakanno/first-big-project-learning-how-to-use-json-server-1b5)
 - [Dev.to/JS] [A Beginner&#39;s Guide To UseEffect Cleanup: How and When To Use It](https://dev.to/hr21don/a-beginners-guide-to-useeffect-cleanup-how-and-when-to-use-it-5a4g)
 - [Dev.to/JS] [Advanced React - Abort API Request on Unmounting](https://dev.to/ministryofjavascript/advanced-react-abort-api-request-on-unmounting-213)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
@@ -37,15 +40,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Fall for This Instagram Verification Scam](https://lifehacker.com/dont-fall-for-this-instagram-verification-scam-1849490064)
 - [Dev.to/JS] [The Rising Coder - Bootcamp Precourse](https://dev.to/clam119/the-rising-coder-bootcamp-precourse-1ic7)
 - [Dev.to/JS] [No UI Design](https://dev.to/flames/no-ui-design-3in8)
-- [Dev.to/JS] [How to use 1Password to share local secrets](https://dev.to/theaccordance/how-to-use-1password-to-share-local-secrets-434d)
 - [Lifehacker] [How to Coach a Sport You&#39;ve Never Played](https://lifehacker.com/how-to-coach-a-sport-youve-never-played-1849479459)
 - [Lifehacker] [The Do&#39;s and Don&#39;ts of Managing Up, According to an HR Expert](https://lifehacker.com/the-dos-and-donts-of-managing-up-according-to-an-hr-ex-1849488606)
 - [Lifehacker] [There’s a New COVID Booster You Should Probably Get This Fall](https://lifehacker.com/there-s-a-new-covid-booster-you-should-probably-get-thi-1849490154)
 - [Lifehacker] [21 of the Best Movies About Capitalism and American Labor](https://lifehacker.com/21-of-the-best-movies-about-capitalism-and-american-lab-1849484326)
 - [Lifehacker] [This Will Make Your Boxed Cake Taste Better Every Time](https://lifehacker.com/this-will-make-your-boxed-cake-taste-better-every-time-1849487421)
-- [Dev.to/JS] [No Time for a Taxicab](https://dev.to/rmion/no-time-for-a-taxicab-1i7i)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Corn Kid?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-co-1849488927)
-- [Dev.to/JS] [Sitemaps in Headless WordPress with Faust.js](https://dev.to/franadev/sitemaps-in-headless-wordpress-with-faustjs-2e6n)
 - [Lifehacker] [Five Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/five-cheap-ways-to-make-your-house-look-more-expensive-1849487827)
 - [Lifehacker] [How to Hot-Wire an Old Car &lpar;and Steal a Modern One&rpar;](https://lifehacker.com/how-to-hot-wire-an-old-car-and-steal-a-modern-one-1849486498)
 - [Lifehacker] [How to Parent With ‘Connected Consequences’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-parent-with-connected-consequences-and-why-yo-1849470945)
