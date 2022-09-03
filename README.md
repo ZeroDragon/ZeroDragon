@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
+- [Dev.to/JS] [Nice tool to moderate bad posts on a Forem](https://dev.to/thomasbnt/nice-tool-to-moderate-bad-posts-on-a-forem-4381)
+- [Dev.to/JS] [RxJS Map, Tap and Take in Angular](https://dev.to/bipon68/rxjs-map-tap-and-take-in-angular-lh9)
 - [Dev.to/JS] [Hey I just created my first website](https://dev.to/kaarthikrishna/hey-i-just-created-my-first-website-3ae7)
 - [Dev.to/JS] [How can I build a time that changes every second on React.js?!](https://dev.to/almuhannad1/how-can-build-time-to-update-every-second-in-reactjs-m87)
 - [Dev.to/JS] [Variable Hoisting in JavaScript](https://dev.to/chaharsumit/variable-hoisting-in-javascript-1h9i)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A !simple Todo App in react -Intro](https://dev.to/himanshupal0001/a-simple-todo-app-in-react-intro-38k)
 - [Dev.to/JS] [GlucoTrust - Blood Sugar Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/glucotrust7/glucotrust-blood-sugar-reviews-pros-cons-scam-or-legit-4do1)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;03-09-2022&rpar; - The Gorbachev Short](https://dev.to/mjgs/this-weeks-newsletter-is-out-03-09-2022-the-gorbachev-short-436k)
-- [Dev.to/JS] [LeetCode - Path Sum](https://dev.to/_alkesh26/leetcode-path-sum-o9h)
-- [Dev.to/JS] [Why I prefer Vite over Create-React-App for React Projects](https://dev.to/knirmalkumar/why-i-prefer-vite-over-create-react-app-for-react-project-2lil)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
 - [Lifehacker] [How to Finally Edit Your Tweets](https://lifehacker.com/how-to-finally-edit-your-tweets-1849484269)
 - [Lifehacker] [Use the ‘Junebug’ Cleaning Method When the Mess Gets Overwhelming](https://lifehacker.com/use-the-junebug-cleaning-method-when-the-mess-gets-ov-1849481011)
-- [Lifehacker] [11 Essential Fall Home Maintenance Tasks Everyone Should Tackle](https://lifehacker.com/11-essential-fall-home-maintenance-tasks-everyone-shoul-1849480075)
-- [Lifehacker] [The True History of Credit Scores](https://lifehacker.com/the-true-history-of-credit-scores-1849482730)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Essential Fall Home Maintenance Tasks Everyone Should Tackle](https://lifehacker.com/11-essential-fall-home-maintenance-tasks-everyone-shoul-1849480075)<!-- TECH-POSTS:END -->
 
 ---
 
