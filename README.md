@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the three dots &lpar;...&rpar; or spread operator in Javascript?](https://dev.to/smpnjn/what-are-the-three-dots-or-spread-operator-in-javascript-54a7)
+- [Dev.to/JS] [Plus Minus problem](https://dev.to/s_vibhor/plus-minus-problem-3n6d)
+- [Dev.to/JS] [15+ Array Methods in Javascript](https://dev.to/codewithtee/15-array-methods-in-javascript-1p1m)
 - [Dev.to/JS] [Keyup and Keydown Event Handlers in Vue 3](https://dev.to/bootdotdev/keyup-and-keydown-event-handlers-in-vue-3-2jn8)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Dev.to/JS] [Do tests without seeing the code!](https://dev.to/noriller/do-tests-without-seeing-the-code-1500)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make responsive portfolio website. Easy code with HTML, CSS and JS](https://dev.to/kunaal438/how-to-make-responsive-portfolio-website-easy-code-with-html-css-and-js-3a72)
 - [Dev.to/JS] [How To Create a Certificate Generator Website in JavaScript](https://dev.to/patelrohan750/how-to-create-a-certificate-generator-website-in-javascript-1eg5)
 - [Dev.to/JS] [JS Declarative vs Imperative programming style](https://dev.to/urstrulyvishwak/js-declarative-vs-imperative-programming-style-5g57)
-- [Dev.to/JS] [So I built a Kahoot style web app, but with coding minigames...](https://dev.to/tazdecoder/so-i-built-a-kahoot-style-coding-web-app-44d7)
-- [Dev.to/JS] [Responsive Petshop eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-petshop-ecommerce-website-using-html-css-javascript-48jl)
-- [Dev.to/JS] [Inversion of Control - Improve your abstractions](https://dev.to/soumavabanerjee/inversion-of-control-improve-your-abstractions-2lh0)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
