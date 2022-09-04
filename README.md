@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures #React Qucik Notes.](https://dev.to/ajaybaraiya6/closures-react-qucik-notes-doi)
+- [Dev.to/JS] [Scrape Google Scholar Results](https://dev.to/darshan0_1/scrape-google-scholar-results-ehm)
 - [Dev.to/JS] [Promise in Javascript #Node Quick Notes.](https://dev.to/ajaybaraiya6/promise-in-javascript-node-quick-notes-4m11)
 - [Dev.to/JS] [Boilerplate for Node-Express with sequelize ORM](https://dev.to/aoyan107/boilerplate-for-node-express-with-sequelize-orm-a6n)
 - [Dev.to/JS] [Javascript Timers #React Qucik Notes.](https://dev.to/ajaybaraiya6/javascript-timers-react-qucik-notes-fal)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Deploy Your Node.js Application for Free with Render - Alternative To Heroku](https://dev.to/myogeshchavan97/how-to-deploy-your-nodejs-application-for-free-with-render-alternative-to-heroku-52o7)
 - [Dev.to/JS] [Thoughts on Expo Config Plugins](https://dev.to/osamaqarem/thoughts-on-expo-config-plugins-3di6)
 - [Dev.to/JS] [Apple Keto Gummies - Weight Loss Benefits, Pros, Cons &amp; Ingredients?](https://dev.to/appleketogumm17/apple-keto-gummies-weight-loss-benefits-pros-cons-ingredients-39ha)
-- [Dev.to/JS] [What is #Node.js? Basic meaning. #Node Quick notes](https://dev.to/ajaybaraiya6/what-is-nodejs-basic-meaning-node-quick-notes-1dhd)
-- [Dev.to/JS] [Google Identity Services with React.js](https://dev.to/veewebcode/google-identity-services-with-reactjs-24e1)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
