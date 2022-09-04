@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React native Netinfo: Detecting Internet connectivity in react native.](https://dev.to/senderouzz/react-native-netinfo-detecting-internet-connectivity-in-react-native-1f4f)
+- [Dev.to/JS] [How to make responsive portfolio website. Easy code with HTML, CSS and JS](https://dev.to/kunaal438/how-to-make-responsive-portfolio-website-easy-code-with-html-css-and-js-3a72)
+- [Dev.to/JS] [How To Create a Certificate Generator Website in JavaScript](https://dev.to/patelrohan750/how-to-create-a-certificate-generator-website-in-javascript-1eg5)
 - [Dev.to/JS] [JS Declarative vs Imperative programming style](https://dev.to/urstrulyvishwak/js-declarative-vs-imperative-programming-style-5g57)
-- [Dev.to/JS] [So I built a Kahoot style coding web app...](https://dev.to/tazdecoder/so-i-built-a-kahoot-style-coding-web-app-44d7)
+- [Dev.to/JS] [So I built a Kahoot style web app, but with coding minigames...](https://dev.to/tazdecoder/so-i-built-a-kahoot-style-coding-web-app-44d7)
 - [Dev.to/JS] [Responsive Petshop eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-petshop-ecommerce-website-using-html-css-javascript-48jl)
 - [Dev.to/JS] [Inversion of Control - Improve your abstractions](https://dev.to/soumavabanerjee/inversion-of-control-improve-your-abstractions-2lh0)
 - [Dev.to/JS] [Display Dummy API JSON data to a table in React JS](https://dev.to/roshan_100kar/display-dummy-api-json-data-to-a-table-in-react-js-3702)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tab Layout](https://dev.to/sanketbodake/tab-layout-1db7)
 - [Dev.to/JS] [Introduction to Jotai. Derived atoms. Data validation](https://dev.to/fricze/introduction-to-jotai-derived-atoms-data-validation-mdb)
 - [Dev.to/JS] [lume land code highlight setting](https://dev.to/kbaba1001/lume-land-code-highlight-setting-2gbh)
-- [Dev.to/JS] [Use URL Imports in Nodejs v16 without experimental hacks!](https://dev.to/renhiyama/use-url-imports-in-nodejs-v16-without-experimental-hacks-4h0)
-- [Dev.to/JS] [Vue Tips: Optimize your Vue Apps with v-once and v-memo](https://dev.to/smpnjn/vue-tips-optimize-your-vue-apps-with-v-once-and-v-memo-52j2)
-- [Dev.to/JS] [Call Stack?!](https://dev.to/edrisso/call-stack-2j0b)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
