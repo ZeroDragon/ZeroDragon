@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keyup and Keydown Event Handlers in Vue 3](https://dev.to/bootdotdev/keyup-and-keydown-event-handlers-in-vue-3-2jn8)
+- [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Dev.to/JS] [Do tests without seeing the code!](https://dev.to/noriller/do-tests-without-seeing-the-code-1500)
 - [Dev.to/JS] [Hoverboard](https://dev.to/jagadeeshkj/hoverboard-1j08)
 - [Dev.to/JS] [Finished The JavaScript Free Course at Scrimba](https://dev.to/shaysframe/finished-the-javascript-free-course-at-scrimba-43l8)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [So I built a Kahoot style web app, but with coding minigames...](https://dev.to/tazdecoder/so-i-built-a-kahoot-style-coding-web-app-44d7)
 - [Dev.to/JS] [Responsive Petshop eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-petshop-ecommerce-website-using-html-css-javascript-48jl)
 - [Dev.to/JS] [Inversion of Control - Improve your abstractions](https://dev.to/soumavabanerjee/inversion-of-control-improve-your-abstractions-2lh0)
-- [Dev.to/JS] [Display Dummy API JSON data to a table in React JS](https://dev.to/roshan_100kar/display-dummy-api-json-data-to-a-table-in-react-js-3702)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Alternatives to Gas-Powered Leaf Blowers &lpar;That Aren&#39;t a Rake&rpar;](https://lifehacker.com/four-alternatives-to-gas-powered-leaf-blowers-that-are-1849485628)
 - [Lifehacker] [How to Install Unsupported Apps on Older iPhones](https://lifehacker.com/how-to-install-unsupported-apps-on-older-iphones-1849485024)
 - [Lifehacker] [Impress Yourself With This Easy, Four-Ingredient Thai Dish](https://lifehacker.com/impress-yourself-with-this-easy-four-ingredient-thai-d-1849485119)
-- [Lifehacker] [A Beginner’s Guide to Shopping for Solar Panels](https://lifehacker.com/a-beginner-s-guide-to-shopping-for-solar-panels-1849484992)
-- [Lifehacker] [What to Do When You Can&#39;t Even Run Slowly](https://lifehacker.com/what-to-do-when-you-cant-even-run-slowly-1849485075)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Beginner’s Guide to Shopping for Solar Panels](https://lifehacker.com/a-beginner-s-guide-to-shopping-for-solar-panels-1849484992)<!-- TECH-POSTS:END -->
 
 ---
 
