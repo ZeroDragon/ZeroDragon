@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoverboard](https://dev.to/jagadeeshkj/hoverboard-1j08)
+- [Dev.to/JS] [Finished The JavaScript Free Course at Scrimba](https://dev.to/shaysframe/finished-the-javascript-free-course-at-scrimba-43l8)
+- [Dev.to/JS] [How to Manage the XState&#39;s State Scope in React.JS](https://dev.to/jasonching/how-to-manage-the-xstates-state-scope-in-reactjs-2gab)
+- [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
 - [Dev.to/JS] [React native Netinfo: Detecting Internet connectivity in react native.](https://dev.to/senderouzz/react-native-netinfo-detecting-internet-connectivity-in-react-native-1f4f)
 - [Dev.to/JS] [How to make responsive portfolio website. Easy code with HTML, CSS and JS](https://dev.to/kunaal438/how-to-make-responsive-portfolio-website-easy-code-with-html-css-and-js-3a72)
 - [Dev.to/JS] [How To Create a Certificate Generator Website in JavaScript](https://dev.to/patelrohan750/how-to-create-a-certificate-generator-website-in-javascript-1eg5)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Display Dummy API JSON data to a table in React JS](https://dev.to/roshan_100kar/display-dummy-api-json-data-to-a-table-in-react-js-3702)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
 - [Dev.to/JS] [Introduction to ReactJS](https://dev.to/mursalfk/introduction-to-reactjs-2l8g)
-- [Dev.to/JS] [Tab Layout](https://dev.to/sanketbodake/tab-layout-1db7)
-- [Dev.to/JS] [Introduction to Jotai. Derived atoms. Data validation](https://dev.to/fricze/introduction-to-jotai-derived-atoms-data-validation-mdb)
-- [Dev.to/JS] [lume land code highlight setting](https://dev.to/kbaba1001/lume-land-code-highlight-setting-2gbh)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install Unsupported Apps on Older iPhones](https://lifehacker.com/how-to-install-unsupported-apps-on-older-iphones-1849485024)
 - [Lifehacker] [Impress Yourself With This Easy, Four-Ingredient Thai Dish](https://lifehacker.com/impress-yourself-with-this-easy-four-ingredient-thai-d-1849485119)
 - [Lifehacker] [A Beginner’s Guide to Shopping for Solar Panels](https://lifehacker.com/a-beginner-s-guide-to-shopping-for-solar-panels-1849484992)
-- [Lifehacker] [What to Do When You Can&#39;t Even Run Slowly](https://lifehacker.com/what-to-do-when-you-cant-even-run-slowly-1849485075)
-- [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When You Can&#39;t Even Run Slowly](https://lifehacker.com/what-to-do-when-you-cant-even-run-slowly-1849485075)<!-- TECH-POSTS:END -->
 
 ---
 
