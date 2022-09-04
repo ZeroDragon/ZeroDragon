@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Promise in Javascript #Node Quick Notes.](https://dev.to/ajaybaraiya6/promise-in-javascript-node-quick-notes-4m11)
+- [Dev.to/JS] [Boilerplate for Node-Express with sequelize ORM](https://dev.to/aoyan107/boilerplate-for-node-express-with-sequelize-orm-a6n)
+- [Dev.to/JS] [Javascript Timers #React Qucik Notes.](https://dev.to/ajaybaraiya6/javascript-timers-react-qucik-notes-fal)
 - [Dev.to/JS] [Tailwind css App Landing page template - [free]](https://dev.to/britzdylan/tailwind-css-app-landing-page-template-free-2oki)
 - [Dev.to/JS] [Coming soon page using JavaScript](https://dev.to/divinector/coming-soon-page-using-javascript-2775)
 - [Dev.to/JS] [LeetCode - Path Sum II](https://dev.to/_alkesh26/leetcode-path-sum-ii-218g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Apple Keto Gummies - Weight Loss Benefits, Pros, Cons &amp; Ingredients?](https://dev.to/appleketogumm17/apple-keto-gummies-weight-loss-benefits-pros-cons-ingredients-39ha)
 - [Dev.to/JS] [What is #Node.js? Basic meaning. #Node Quick notes](https://dev.to/ajaybaraiya6/what-is-nodejs-basic-meaning-node-quick-notes-1dhd)
 - [Dev.to/JS] [Google Identity Services with React.js](https://dev.to/veewebcode/google-identity-services-with-reactjs-24e1)
-- [Dev.to/JS] [Lets Start JavaScript With Me.](https://dev.to/zubairgujjar997/lets-start-javascript-with-me-185i)
-- [Dev.to/JS] [React Advanced - useTransition Hook in React](https://dev.to/ministryofjavascript/react-advanced-usetransition-hook-in-react-jlf)
-- [Dev.to/JS] [Build A Hello World API With Node.js And Express.Js + Postman](https://dev.to/ahsanjutt01/build-a-hello-world-api-with-nodejs-and-expressjs-postman-4com)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
