@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Display Dummy API JSON data to a table in React JS](https://dev.to/roshan_100kar/display-dummy-api-json-data-to-a-table-in-react-js-3702)
+- [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
+- [Dev.to/JS] [Introduction to ReactJS](https://dev.to/mursalfk/introduction-to-reactjs-2l8g)
+- [Dev.to/JS] [Tab Layout](https://dev.to/sanketbodake/tab-layout-1db7)
+- [Dev.to/JS] [Introduction to Jotai. Derived atoms. Data validation](https://dev.to/fricze/introduction-to-jotai-derived-atoms-data-validation-mdb)
+- [Dev.to/JS] [Use URL Imports in Nodejs v16 without experimental hacks!](https://dev.to/renhiyama/use-url-imports-in-nodejs-v16-without-experimental-hacks-4h0)
+- [Dev.to/JS] [Vue Tips: Optimize your Vue Apps with v-once and v-memo](https://dev.to/smpnjn/vue-tips-optimize-your-vue-apps-with-v-once-and-v-memo-52j2)
 - [Dev.to/JS] [Call Stack?!](https://dev.to/edrisso/call-stack-2j0b)
 - [Dev.to/JS] [Vue Tips: Dynamic CSS with Vue Reactive Variables](https://dev.to/smpnjn/vue-tips-dynamic-css-with-vue-reactive-variables-3n6e)
 - [Dev.to/JS] [Here is how you can create an animated SVG blob!!](https://dev.to/kaarthikrishna/here-is-how-you-can-create-an-animated-svg-blob-17ao)
 - [Dev.to/JS] [How to create and publish npm package.](https://dev.to/hat52/how-to-create-and-publish-npm-package-53dc)
 - [Dev.to/JS] [Doubly Linked List](https://dev.to/zeeshanali0704/doubly-linked-list-35gl)
 - [Dev.to/JS] [Ether.js Library !](https://dev.to/aayush_giri/etherjs-library--2542)
-- [Dev.to/JS] [Linked List](https://dev.to/zeeshanali0704/linked-list-39a)
-- [Dev.to/JS] [Walk with an Eleventy site, before you can run.](https://dev.to/ayyash/walk-with-an-eleventy-site-before-you-can-run-372e)
-- [Dev.to/JS] [Consoles in JavaScript](https://dev.to/mursalfk/consoles-in-javascript-3c3d)
-- [Dev.to/JS] [How to Build a Custom Calendar Component in React](https://dev.to/franciscomendes10866/how-to-build-a-custom-calendar-component-in-react-26kj)
-- [Dev.to/JS] [Closures #React Qucik Notes.](https://dev.to/ajaybaraiya6/closures-react-qucik-notes-doi)
-- [Dev.to/JS] [Scrape Google Scholar Results](https://dev.to/darshan0_1/scrape-google-scholar-results-ehm)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Impress Yourself With This Easy, Four-Ingredient Thai Dish](https://lifehacker.com/impress-yourself-with-this-easy-four-ingredient-thai-d-1849485119)
 - [Lifehacker] [A Beginner’s Guide to Shopping for Solar Panels](https://lifehacker.com/a-beginner-s-guide-to-shopping-for-solar-panels-1849484992)
 - [Lifehacker] [What to Do When You Can&#39;t Even Run Slowly](https://lifehacker.com/what-to-do-when-you-cant-even-run-slowly-1849485075)
-- [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)
-- [Lifehacker] [How to Finally Edit Your Tweets](https://lifehacker.com/how-to-finally-edit-your-tweets-1849484269)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Watch the Artemis I Moon Launch](https://lifehacker.com/how-to-watch-the-artemis-i-moon-launch-1849446335)<!-- TECH-POSTS:END -->
 
 ---
 
