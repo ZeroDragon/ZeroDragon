@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Thoughts on Expo Config Plugins](https://dev.to/osamaqarem/thoughts-on-expo-config-plugins-3di6)
+- [Dev.to/JS] [Apple Keto Gummies - Weight Loss Benefits, Pros, Cons &amp; Ingredients?](https://dev.to/appleketogumm17/apple-keto-gummies-weight-loss-benefits-pros-cons-ingredients-39ha)
 - [Dev.to/JS] [What is #Node.js? Basic meaning. #Node Quick notes](https://dev.to/ajaybaraiya6/what-is-nodejs-basic-meaning-node-quick-notes-1dhd)
 - [Dev.to/JS] [Google Identity Services with React.js](https://dev.to/veewebcode/google-identity-services-with-reactjs-24e1)
 - [Dev.to/JS] [Lets Start JavaScript With Me.](https://dev.to/zubairgujjar997/lets-start-javascript-with-me-185i)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Function Definition Methods](https://dev.to/drprime01/javascript-function-definition-methods-d8a)
 - [Dev.to/JS] [Learn what is CSRF attack by hacking an online Casino](https://dev.to/ludobzor/learn-what-is-csrf-attack-by-hacking-an-online-casino-3mkm)
 - [Dev.to/JS] [How to develop under the TON using Javascript](https://dev.to/chakzefir/how-to-develop-under-the-ton-using-javascript-2a3p)
-- [Dev.to/JS] [Javascript: Var vs Const vs Let 👍💯](https://dev.to/w6/javascript-var-vs-const-vs-let-37m9)
-- [Dev.to/JS] [How to extend WordPress Media Library [Updated Version 2022]](https://dev.to/adeleyeayodeji/how-to-extend-wordpress-media-library-updated-version-2022-3ake)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
