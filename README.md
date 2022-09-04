@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do tests without seeing the code!](https://dev.to/noriller/do-tests-without-seeing-the-code-1500)
 - [Dev.to/JS] [Hoverboard](https://dev.to/jagadeeshkj/hoverboard-1j08)
 - [Dev.to/JS] [Finished The JavaScript Free Course at Scrimba](https://dev.to/shaysframe/finished-the-javascript-free-course-at-scrimba-43l8)
 - [Dev.to/JS] [How to Manage the XState&#39;s State Scope in React.JS](https://dev.to/jasonching/how-to-manage-the-xstates-state-scope-in-reactjs-2gab)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Inversion of Control - Improve your abstractions](https://dev.to/soumavabanerjee/inversion-of-control-improve-your-abstractions-2lh0)
 - [Dev.to/JS] [Display Dummy API JSON data to a table in React JS](https://dev.to/roshan_100kar/display-dummy-api-json-data-to-a-table-in-react-js-3702)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
-- [Dev.to/JS] [Introduction to ReactJS](https://dev.to/mursalfk/introduction-to-reactjs-2l8g)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
