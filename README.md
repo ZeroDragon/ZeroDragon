@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is #Node.js? Basic meaning. #Node Quick notes](https://dev.to/ajaybaraiya6/what-is-nodejs-basic-meaning-node-quick-notes-1dhd)
+- [Dev.to/JS] [Google Identity Services with React.js](https://dev.to/veewebcode/google-identity-services-with-reactjs-24e1)
 - [Dev.to/JS] [Lets Start JavaScript With Me.](https://dev.to/zubairgujjar997/lets-start-javascript-with-me-185i)
 - [Dev.to/JS] [React Advanced - useTransition Hook in React](https://dev.to/ministryofjavascript/react-advanced-usetransition-hook-in-react-jlf)
 - [Dev.to/JS] [Build A Hello World API With Node.js And Express.Js + Postman](https://dev.to/ahsanjutt01/build-a-hello-world-api-with-nodejs-and-expressjs-postman-4com)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to develop under the TON using Javascript](https://dev.to/chakzefir/how-to-develop-under-the-ton-using-javascript-2a3p)
 - [Dev.to/JS] [Javascript: Var vs Const vs Let 👍💯](https://dev.to/w6/javascript-var-vs-const-vs-let-37m9)
 - [Dev.to/JS] [How to extend WordPress Media Library [Updated Version 2022]](https://dev.to/adeleyeayodeji/how-to-extend-wordpress-media-library-updated-version-2022-3ake)
-- [Dev.to/JS] [Setting up TypeScript with NodeJS](https://dev.to/rashwanlazkani/setting-up-typescript-with-nodejs-3fjo)
-- [Dev.to/JS] [Path Aliases in TypeScript and why you should use them](https://dev.to/naubit/path-aliases-in-typescript-and-why-you-should-use-them-2odf)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
