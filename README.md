@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Advanced - useTransition Hook in React](https://dev.to/ministryofjavascript/react-advanced-usetransition-hook-in-react-jlf)
 - [Dev.to/JS] [Build A Hello World API With Node.js And Express.Js + Postman](https://dev.to/ahsanjutt01/build-a-hello-world-api-with-nodejs-and-expressjs-postman-4com)
 - [Dev.to/JS] [Create A Responsive Grid In CSS](https://dev.to/herryjobn/create-a-responsive-grid-in-css-fon)
 - [Dev.to/JS] [Angular Child To Parent Communication - Simplified](https://dev.to/juliegladden/angular-child-to-parent-communication-simplified-17c9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting up TypeScript with NodeJS](https://dev.to/rashwanlazkani/setting-up-typescript-with-nodejs-3fjo)
 - [Dev.to/JS] [Path Aliases in TypeScript and why you should use them](https://dev.to/naubit/path-aliases-in-typescript-and-why-you-should-use-them-2odf)
 - [Dev.to/JS] [Introducing The FAR3 Stack: A Versatile Toolkit For Web Development.](https://dev.to/wiseai/introducing-the-far3-stack-a-versatile-toolkit-for-web-development-2o00)
-- [Dev.to/JS] [Setting Background Color of Body Dynamically in React](https://dev.to/murtuzaalisurti/setting-background-color-of-body-dynamically-in-react-38k5)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
