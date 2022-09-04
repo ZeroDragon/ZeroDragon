@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build A Hello World API With Node.js And Express.Js + Postman](https://dev.to/ahsanjutt01/build-a-hello-world-api-with-nodejs-and-expressjs-postman-4com)
 - [Dev.to/JS] [Create A Responsive Grid In CSS](https://dev.to/herryjobn/create-a-responsive-grid-in-css-fon)
 - [Dev.to/JS] [Angular Child To Parent Communication - Simplified](https://dev.to/juliegladden/angular-child-to-parent-communication-simplified-17c9)
 - [Dev.to/JS] [JavaScript Function Definition Methods](https://dev.to/drprime01/javascript-function-definition-methods-d8a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Path Aliases in TypeScript and why you should use them](https://dev.to/naubit/path-aliases-in-typescript-and-why-you-should-use-them-2odf)
 - [Dev.to/JS] [Introducing The FAR3 Stack: A Versatile Toolkit For Web Development.](https://dev.to/wiseai/introducing-the-far3-stack-a-versatile-toolkit-for-web-development-2o00)
 - [Dev.to/JS] [Setting Background Color of Body Dynamically in React](https://dev.to/murtuzaalisurti/setting-background-color-of-body-dynamically-in-react-38k5)
-- [Dev.to/JS] [Creating Beautiful Pictures of Your Code! 🎨](https://dev.to/w6/creating-beautiful-pictures-of-your-code-76l)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
