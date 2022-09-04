@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Call Stack?!](https://dev.to/edrisso/call-stack-2j0b)
+- [Dev.to/JS] [Vue Tips: Dynamic CSS with Vue Reactive Variables](https://dev.to/smpnjn/vue-tips-dynamic-css-with-vue-reactive-variables-3n6e)
+- [Dev.to/JS] [Here is how you can create an animated SVG blob!!](https://dev.to/kaarthikrishna/here-is-how-you-can-create-an-animated-svg-blob-17ao)
 - [Dev.to/JS] [How to create and publish npm package.](https://dev.to/hat52/how-to-create-and-publish-npm-package-53dc)
 - [Dev.to/JS] [Doubly Linked List](https://dev.to/zeeshanali0704/doubly-linked-list-35gl)
 - [Dev.to/JS] [Ether.js Library !](https://dev.to/aayush_giri/etherjs-library--2542)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Custom Calendar Component in React](https://dev.to/franciscomendes10866/how-to-build-a-custom-calendar-component-in-react-26kj)
 - [Dev.to/JS] [Closures #React Qucik Notes.](https://dev.to/ajaybaraiya6/closures-react-qucik-notes-doi)
 - [Dev.to/JS] [Scrape Google Scholar Results](https://dev.to/darshan0_1/scrape-google-scholar-results-ehm)
-- [Dev.to/JS] [Promise in Javascript #Node Quick Notes.](https://dev.to/ajaybaraiya6/promise-in-javascript-node-quick-notes-4m11)
-- [Dev.to/JS] [Boilerplate for Node-Express with sequelize ORM](https://dev.to/aoyan107/boilerplate-for-node-express-with-sequelize-orm-a6n)
-- [Dev.to/JS] [Javascript Timers #React Qucik Notes.](https://dev.to/ajaybaraiya6/javascript-timers-react-qucik-notes-fal)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
