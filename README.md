@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create and publish npm package.](https://dev.to/hat52/how-to-create-and-publish-npm-package-53dc)
+- [Dev.to/JS] [Doubly Linked List](https://dev.to/zeeshanali0704/doubly-linked-list-35gl)
+- [Dev.to/JS] [Ether.js Library !](https://dev.to/aayush_giri/etherjs-library--2542)
+- [Dev.to/JS] [Linked List](https://dev.to/zeeshanali0704/linked-list-39a)
+- [Dev.to/JS] [Walk with an Eleventy site, before you can run.](https://dev.to/ayyash/walk-with-an-eleventy-site-before-you-can-run-372e)
 - [Dev.to/JS] [Consoles in JavaScript](https://dev.to/mursalfk/consoles-in-javascript-3c3d)
 - [Dev.to/JS] [How to Build a Custom Calendar Component in React](https://dev.to/franciscomendes10866/how-to-build-a-custom-calendar-component-in-react-26kj)
 - [Dev.to/JS] [Closures #React Qucik Notes.](https://dev.to/ajaybaraiya6/closures-react-qucik-notes-doi)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promise in Javascript #Node Quick Notes.](https://dev.to/ajaybaraiya6/promise-in-javascript-node-quick-notes-4m11)
 - [Dev.to/JS] [Boilerplate for Node-Express with sequelize ORM](https://dev.to/aoyan107/boilerplate-for-node-express-with-sequelize-orm-a6n)
 - [Dev.to/JS] [Javascript Timers #React Qucik Notes.](https://dev.to/ajaybaraiya6/javascript-timers-react-qucik-notes-fal)
-- [Dev.to/JS] [Tailwind css App Landing page template - [free]](https://dev.to/britzdylan/tailwind-css-app-landing-page-template-free-2oki)
-- [Dev.to/JS] [Coming soon page using JavaScript](https://dev.to/divinector/coming-soon-page-using-javascript-2775)
-- [Dev.to/JS] [LeetCode - Path Sum II](https://dev.to/_alkesh26/leetcode-path-sum-ii-218g)
-- [Dev.to/JS] [6 must-have Chrome Extensions for Web Developers 🚀🌐](https://dev.to/ruppysuppy/6-must-have-chrome-extensions-for-web-developers-1ma2)
-- [Dev.to/JS] [How to Deploy Your Node.js Application for Free with Render - Alternative To Heroku](https://dev.to/myogeshchavan97/how-to-deploy-your-nodejs-application-for-free-with-render-alternative-to-heroku-52o7)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
