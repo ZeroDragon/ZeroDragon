@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s the DevOps Journey: Continuous Mindset Begins with Cultural Change](https://dev.to/postwell45/its-the-devops-journey-continuous-mindset-begins-with-cultural-change-40ff)
+- [Dev.to/JS] [Create a custom hook to mutate your React state &lpar;Proxy design pattern, immutability, referential equality &rpar;](https://dev.to/mr_mornin_star/create-a-custom-hook-to-mutate-your-react-state-proxy-design-pattern-immutability-referential-equality--4fhb)
+- [Dev.to/JS] [We measured the SSR performance of 6 JS frameworks - here&#39;s what we found](https://dev.to/kaspera/we-measured-the-ssr-performance-of-6-js-frameworks-heres-what-we-found-1ck0)
+- [Dev.to/JS] [What actually is JavaScript?](https://dev.to/iarchitsharma/what-actually-is-javascript-2ckn)
+- [Dev.to/JS] [Astro Nano Stores maps](https://dev.to/dailydevtips1/astro-nano-stores-maps-b81)
 - [Dev.to/JS] [Python - JavaScript Training](https://dev.to/killallnano/python-javascript-training-3073)
 - [Dev.to/JS] [Node.js vs. React.js Comparison: Which to Choose for your JavaScript App Development?](https://dev.to/ijackseifert/nodejs-vs-reactjs-comparison-which-to-choose-for-your-javascript-app-development-1j79)
 - [Dev.to/JS] [Event Loop #Node.js Quick Notes.](https://dev.to/ajaybaraiya6/event-loop-nodejs-quick-notes-b37)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build markdown blog site by casual-markdown-blog](https://dev.to/casualwriter/build-markdown-blog-site-by-casual-markdown-blog-2i0o)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 16: What is Runtime? Why is it important?](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-16-what-is-runtime-why-is-it-important-4k40)
 - [Dev.to/JS] [Reverse Singly Linked List](https://dev.to/zeeshanali0704/reverse-singly-linked-list-53am)
-- [Dev.to/JS] [Factorial for the Real World: How to Find Factorial of Numbers in JavaScript.](https://dev.to/codingnninja/factorial-for-the-real-world-how-to-find-factorial-of-numbers-in-javascript-43g2)
-- [Dev.to/JS] [Make Testing Easier with Test Fixture Generators](https://dev.to/jcteague/make-testing-easier-with-test-fixture-generators-5485)
-- [Dev.to/JS] [Calculating Text Width at Server-Side](https://dev.to/evgenus/calculating-text-width-at-server-side-bmd)
-- [Dev.to/JS] [How to implement login in React](https://dev.to/logify/how-to-implement-login-in-react-10gm)
-- [Dev.to/JS] [Leetcode Diary: Unique Email Addresses](https://dev.to/kevin074/leetcode-diary-unique-email-addresses-4kc5)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
