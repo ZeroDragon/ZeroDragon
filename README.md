@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WSN: Serve Angular App on Local Network for Responsive Device Previews](https://dev.to/riapacheco/wsn-serve-angular-app-on-local-network-for-responsive-device-previews-42ie)
+- [Dev.to/JS] [populate convas.js multi series spline chart with data from database?](https://dev.to/sanghamitra1994/populate-convasjs-multi-series-spline-chart-with-data-from-database-phj)
+- [Dev.to/JS] [Demystifying Conditional Rendering in ReactJS](https://dev.to/mursalfk/demystifying-conditional-rendering-in-reactjs-40if)
+- [Dev.to/JS] [JavaScript Event Loop: Everything You Need To Know Explained In Simple Terms](https://dev.to/tdo95/javascript-event-loop-everything-you-need-to-know-explained-in-simple-terms-fg0)
 - [Dev.to/JS] [We all know JavaScript](https://dev.to/darleneri/we-all-know-javascript-3a2c)
 - [Dev.to/JS] [Flipping Bits Problem](https://dev.to/s_vibhor/flipping-bits-problem-524n)
 - [Dev.to/JS] [Keep Your Apps Accessible and Your e2e Tests Stable With WebdriverIOs New Accessibility Selector](https://dev.to/christian_bromann/keep-your-apps-accessible-and-your-e2e-tests-stable-with-webdriverios-new-accessibility-selector-4fkf)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Var VS Let VS Const in JavaScript](https://dev.to/zubairgujjar997/var-vs-let-vs-const-in-javascript-329d)
 - [Dev.to/JS] [Reverse Doubly Linked List](https://dev.to/zeeshanali0704/reverse-doubly-linked-list-432b)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
-- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-238p)
-- [Dev.to/JS] [Building a live-event alert system with React, Socket.io, and Push Notifications 🚀](https://dev.to/novu/building-a-live-event-alert-system-with-react-socketio-and-push-notifications-2jg5)
-- [Dev.to/JS] [React HTML Editor: It’s Not as Difficult as You Think](https://dev.to/ideradevtools/react-html-editor-its-not-as-difficult-as-you-think-550d)
-- [Dev.to/JS] [Is Tech Making HTML Editors Better Or Worse?](https://dev.to/ideradevtools/is-tech-making-html-editors-better-or-worse-pc2)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
 - [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
