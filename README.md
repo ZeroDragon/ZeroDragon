@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build an npx starter template](https://dev.to/petermekhaeil/how-to-build-an-npx-starter-template-2ibh)
+- [Dev.to/JS] [API Project Template V2.0.0](https://dev.to/arifintahu/api-project-template-v200-58hm)
+- [Dev.to/JS] [Resizing &amp; adding watermark on images with Nodejs and sharp-multer](https://dev.to/ranjan/resizing-adding-watermark-on-images-with-nodejs-and-sharp-multer-4khp)
+- [Dev.to/JS] [Deploying Nuxt 3 app to Vercel 🚀](https://dev.to/jacobandrewsky/deploying-nuxt-3-app-to-vercel-54dc)
 - [Dev.to/JS] [Responsive Navbar in CSS](https://dev.to/shubhamtiwari909/responsive-navbar-in-css-2158)
 - [Dev.to/JS] [Multi-Language website using Django JS, facing error on Search filter error](https://dev.to/kalidasraja/multi-language-website-using-django-js-facing-error-on-search-filter-error-l22)
 - [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a custom RequireJS](https://dev.to/rohanbagchi/building-a-custom-requirejs-1b3c)
 - [Dev.to/JS] [Countdown timer with React](https://dev.to/rohanbagchi/countdown-timer-with-react-1lb9)
 - [Dev.to/JS] [How to Set up Amazon S3 Upload Provider Plugin for Your Strapi App](https://dev.to/strapi/how-to-set-up-amazon-s3-upload-provider-plugin-for-your-strapi-app-3a8p)
-- [Dev.to/JS] [Using React.memo](https://dev.to/rohanbagchi/using-reactmemo-2lnl)
-- [Dev.to/JS] [How to write a VanillaJS Router](https://dev.to/rohanbagchi/how-to-write-a-vanillajs-router-hk3)
-- [Dev.to/JS] [Create Working Forms for HTML, React, Vue - No Coding/Server Required!](https://dev.to/form/website-forms-4p4o)
-- [Dev.to/JS] [RSM: A super practical multi-scenario request management solution](https://dev.to/coderhu/rsm-a-super-practical-multi-scenario-request-management-solution-e69)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
