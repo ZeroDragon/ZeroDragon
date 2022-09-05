@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React TS: How I manage modal components &lpar;Custom Modals Hook&rpar;](https://dev.to/lico/react-ts-how-i-manage-modal-components-custom-modals-hook-4nmg)
+- [Dev.to/JS] [Var VS Let VS Const in JavaScript](https://dev.to/zubairgujjar997/var-vs-let-vs-const-in-javascript-329d)
+- [Dev.to/JS] [Reverse Doubly Linked List](https://dev.to/zeeshanali0704/reverse-doubly-linked-list-432b)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-238p)
 - [Dev.to/JS] [Building a live-event alert system with React, Socket.io, and Push Notifications 🚀](https://dev.to/novu/building-a-live-event-alert-system-with-react-socketio-and-push-notifications-2jg5)
@@ -31,12 +34,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript: Functional Composition](https://dev.to/urstrulyvishwak/js-functional-composition-15dc)
 - [Dev.to/JS] [Build a Serverless WebSocket Application in 5 minutes with Lolo](https://dev.to/lolo_code/build-a-serverless-websocket-application-in-5-minutes-with-lolo-4bo5)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
-- [Dev.to/JS] [Building a draggable menu in React](https://dev.to/prabhuignoto/building-a-draggable-menu-in-react-5he0)
+- [Dev.to/JS] [Building a draggable menu with react-float-menu](https://dev.to/prabhuignoto/building-a-draggable-menu-in-react-5he0)
 - [Dev.to/JS] [Change navbar color on mouse scroll in React](https://dev.to/muratcanyuksel/change-navbar-color-on-scroll-in-react-31kh)
 - [Dev.to/JS] [Unpacking JavaScript 3: Async Code - Method Chaining](https://dev.to/sfundomhlungu/unpacking-javascript-3-async-code-method-chaining-370c)
-- [Dev.to/JS] [How to Get the Most Out of Your Bootstrap Designs](https://dev.to/ideradevtools/how-to-get-the-most-out-of-your-bootstrap-designs-3pmi)
-- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 11 and 12 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-11-and-12-report-4n41)
-- [Dev.to/JS] [Rich Text Editor: How To Choose](https://dev.to/ideradevtools/rich-text-editor-how-to-choose-1dpg)
 - [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
