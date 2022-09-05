@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive Navbar in CSS](https://dev.to/shubhamtiwari909/responsive-navbar-in-css-2158)
+- [Dev.to/JS] [Multi-Language website using Django JS, facing error on Search filter error](https://dev.to/kalidasraja/multi-language-website-using-django-js-facing-error-on-search-filter-error-l22)
+- [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
+- [Dev.to/JS] [Deventials | Developer Essentials](https://dev.to/neopavan/deventials-developer-essentials-53cb)
 - [Dev.to/JS] [PreshtaShop Hacks: Pt.1](https://dev.to/vnchbt/preshtashop-hacks-pt1-4c0j)
 - [Dev.to/JS] [Scope in JavaScript &lpar;Block Scope and Function Scope&rpar;](https://dev.to/coderpink/scope-in-javascript-block-scope-and-function-scope-eg7)
 - [Dev.to/JS] [Building a custom RequireJS](https://dev.to/rohanbagchi/building-a-custom-requirejs-1b3c)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to write a VanillaJS Router](https://dev.to/rohanbagchi/how-to-write-a-vanillajs-router-hk3)
 - [Dev.to/JS] [Create Working Forms for HTML, React, Vue - No Coding/Server Required!](https://dev.to/form/website-forms-4p4o)
 - [Dev.to/JS] [RSM: A super practical multi-scenario request management solution](https://dev.to/coderhu/rsm-a-super-practical-multi-scenario-request-management-solution-e69)
-- [Dev.to/JS] [unglitch - Ultra-Simple State Management for React](https://dev.to/activenode/unglitch-ultra-simple-state-management-for-react-4j92)
-- [Dev.to/JS] [Returning HTML Fragment from String](https://dev.to/artydev/returning-html-fragment-from-string-4d8n)
-- [Dev.to/JS] [It&#39;s the DevOps Journey: Continuous Mindset Begins with Cultural Change](https://dev.to/postwell45/its-the-devops-journey-continuous-mindset-begins-with-cultural-change-40ff)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [May I Present These Tofu Puff Pizza Rolls](https://lifehacker.com/may-i-present-these-tofu-puff-pizza-rolls-1849486137)
 - [Lifehacker] [Four Alternatives to Gas-Powered Leaf Blowers &lpar;That Aren&#39;t a Rake&rpar;](https://lifehacker.com/four-alternatives-to-gas-powered-leaf-blowers-that-are-1849485628)
 - [Lifehacker] [How to Install Unsupported Apps on Older iPhones](https://lifehacker.com/how-to-install-unsupported-apps-on-older-iphones-1849485024)
-- [Lifehacker] [Impress Yourself With This Easy, Four-Ingredient Thai Dish](https://lifehacker.com/impress-yourself-with-this-easy-four-ingredient-thai-d-1849485119)
-- [Lifehacker] [A Beginner’s Guide to Shopping for Solar Panels](https://lifehacker.com/a-beginner-s-guide-to-shopping-for-solar-panels-1849484992)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Impress Yourself With This Easy, Four-Ingredient Thai Dish](https://lifehacker.com/impress-yourself-with-this-easy-four-ingredient-thai-d-1849485119)<!-- TECH-POSTS:END -->
 
 ---
 
