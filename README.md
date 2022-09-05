@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-238p)
+- [Dev.to/JS] [Building a live-event alert system with React, Socket.io, and Push Notifications 🚀](https://dev.to/novu/building-a-live-event-alert-system-with-react-socketio-and-push-notifications-2jg5)
+- [Dev.to/JS] [React HTML Editor: It’s Not as Difficult as You Think](https://dev.to/ideradevtools/react-html-editor-its-not-as-difficult-as-you-think-550d)
+- [Dev.to/JS] [Is Tech Making HTML Editors Better Or Worse?](https://dev.to/ideradevtools/is-tech-making-html-editors-better-or-worse-pc2)
+- [Dev.to/JS] [Javascript: Functional Composition](https://dev.to/urstrulyvishwak/js-functional-composition-15dc)
+- [Dev.to/JS] [Build a Serverless WebSocket Application in 5 minutes with Lolo](https://dev.to/lolo_code/build-a-serverless-websocket-application-in-5-minutes-with-lolo-4bo5)
+- [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
 - [Dev.to/JS] [Building a draggable menu in React](https://dev.to/prabhuignoto/building-a-draggable-menu-in-react-5he0)
 - [Dev.to/JS] [Change navbar color on mouse scroll in React](https://dev.to/muratcanyuksel/change-navbar-color-on-scroll-in-react-31kh)
 - [Dev.to/JS] [Unpacking JavaScript 3: Async Code - Method Chaining](https://dev.to/sfundomhlungu/unpacking-javascript-3-async-code-method-chaining-370c)
 - [Dev.to/JS] [How to Get the Most Out of Your Bootstrap Designs](https://dev.to/ideradevtools/how-to-get-the-most-out-of-your-bootstrap-designs-3pmi)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 11 and 12 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-11-and-12-report-4n41)
 - [Dev.to/JS] [Rich Text Editor: How To Choose](https://dev.to/ideradevtools/rich-text-editor-how-to-choose-1dpg)
-- [Dev.to/JS] [The Anatomy Of A Great Rich Text Editor](https://dev.to/ideradevtools/the-anatomy-of-a-great-rich-text-editor-3866)
-- [Dev.to/JS] [Deploying Next.js app on Netlify [Building Personal Blog Website Part 4]](https://dev.to/hawelkam/deploying-nextjs-app-on-netlify-building-personal-blog-website-part-4-8m6)
-- [Dev.to/JS] [GSoC: Final Evaluation](https://dev.to/yashkandalkar/gsoc-final-evaluation-25m9)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🔫.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1k11)
-- [Dev.to/JS] [I WANT TO BUILD A RAPE PREVENTION SOFTWARE](https://dev.to/chizobaonorh/i-want-to-build-a-rape-prevention-software-1mlg)
-- [Dev.to/JS] [React: change css variable with useEffect?](https://dev.to/fredster/react-change-css-variable-with-useeffect-29ic)
 - [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
 - [Lifehacker] [May I Present These Tofu Puff Pizza Rolls](https://lifehacker.com/may-i-present-these-tofu-puff-pizza-rolls-1849486137)
 - [Lifehacker] [Four Alternatives to Gas-Powered Leaf Blowers &lpar;That Aren&#39;t a Rake&rpar;](https://lifehacker.com/four-alternatives-to-gas-powered-leaf-blowers-that-are-1849485628)
-- [Lifehacker] [How to Install Unsupported Apps on Older iPhones](https://lifehacker.com/how-to-install-unsupported-apps-on-older-iphones-1849485024)
-- [Lifehacker] [Impress Yourself With This Easy, Four-Ingredient Thai Dish](https://lifehacker.com/impress-yourself-with-this-easy-four-ingredient-thai-d-1849485119)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Install Unsupported Apps on Older iPhones](https://lifehacker.com/how-to-install-unsupported-apps-on-older-iphones-1849485024)<!-- TECH-POSTS:END -->
 
 ---
 
