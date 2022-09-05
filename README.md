@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode Diary: Unique Email Addresses](https://dev.to/kevin074/leetcode-diary-unique-email-addresses-4kc5)
 - [Dev.to/JS] [A importância da Clean Architecture](https://dev.to/amad3eu/a-importancia-da-clean-architecture-2i94)
 - [Dev.to/JS] [How to fix the Content Security Policy directive with Strapi v4 and upload on AWS S3](https://dev.to/darkmavis1980/how-to-fix-the-content-security-policy-directive-with-strapi-v4-and-upload-on-aws-s3-3bp2)
 - [Dev.to/JS] [&quot;😭 Escape from crazy boy friend!&quot; explain Dependency Injection so easily](https://dev.to/kaziusan/-escape-from-crazy-boy-friend-explain-dependency-injection-so-easily-32fe)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do tests without seeing the code!](https://dev.to/noriller/do-tests-without-seeing-the-code-1500)
 - [Dev.to/JS] [Hoverboard](https://dev.to/jagadeeshkj/hoverboard-1j08)
 - [Dev.to/JS] [Finished The JavaScript Free Course at Scrimba](https://dev.to/shaysframe/finished-the-javascript-free-course-at-scrimba-43l8)
-- [Dev.to/JS] [How to Manage the XState&#39;s State Scope in React.JS](https://dev.to/jasonching/how-to-manage-the-xstates-state-scope-in-reactjs-2gab)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
