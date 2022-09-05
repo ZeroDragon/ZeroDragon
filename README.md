@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make Testing Easier with Test Fixture Generators](https://dev.to/jcteague/make-testing-easier-with-test-fixture-generators-5485)
+- [Dev.to/JS] [Calculating Text Width at Server-Side](https://dev.to/evgenus/calculating-text-width-at-server-side-bmd)
+- [Dev.to/JS] [How to implement login in React](https://dev.to/logify/how-to-implement-login-in-react-10gm)
 - [Dev.to/JS] [Leetcode Diary: Unique Email Addresses](https://dev.to/kevin074/leetcode-diary-unique-email-addresses-4kc5)
 - [Dev.to/JS] [A importância da Clean Architecture](https://dev.to/amad3eu/a-importancia-da-clean-architecture-2i94)
 - [Dev.to/JS] [How to fix the Content Security Policy directive with Strapi v4 and upload on AWS S3](https://dev.to/darkmavis1980/how-to-fix-the-content-security-policy-directive-with-strapi-v4-and-upload-on-aws-s3-3bp2)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [15+ Array Methods in Javascript](https://dev.to/codewithtee/15-array-methods-in-javascript-1p1m)
 - [Dev.to/JS] [Keyup and Keydown Event Handlers in Vue 3](https://dev.to/bootdotdev/keyup-and-keydown-event-handlers-in-vue-3-2jn8)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
-- [Dev.to/JS] [Do tests without seeing the code!](https://dev.to/noriller/do-tests-without-seeing-the-code-1500)
-- [Dev.to/JS] [Hoverboard](https://dev.to/jagadeeshkj/hoverboard-1j08)
-- [Dev.to/JS] [Finished The JavaScript Free Course at Scrimba](https://dev.to/shaysframe/finished-the-javascript-free-course-at-scrimba-43l8)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
