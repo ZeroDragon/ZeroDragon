@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [React TS: How I manage modal components &lpar;Custom Modals Hook&rpar;](https://dev.to/lico/react-ts-how-i-manage-modal-components-custom-modals-hook-4nmg)
+- [Dev.to/JS] [We all know JavaScript](https://dev.to/darleneri/we-all-know-javascript-3a2c)
+- [Dev.to/JS] [Flipping Bits Problem](https://dev.to/s_vibhor/flipping-bits-problem-524n)
+- [Dev.to/JS] [Keep Your Apps Accessible and Your e2e Tests Stable With WebdriverIOs New Accessibility Selector](https://dev.to/christian_bromann/keep-your-apps-accessible-and-your-e2e-tests-stable-with-webdriverios-new-accessibility-selector-4fkf)
+- [Dev.to/JS] [OPTIMIZING images for the web - what you really must know in 2022](https://dev.to/blazity/optimizing-images-for-the-web-what-you-really-must-know-in-2022-41j3)
+- [Dev.to/JS] [Frequently asked Questions about JavaScript frameworks.](https://dev.to/areedev/frequently-asked-questions-about-javascript-frameworks-2fcb)
+- [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
+- [Dev.to/JS] [React TS: How I manage modal components &lpar;Custom Modal Hook&rpar;](https://dev.to/lico/react-ts-how-i-manage-modal-components-custom-modals-hook-4nmg)
 - [Dev.to/JS] [Var VS Let VS Const in JavaScript](https://dev.to/zubairgujjar997/var-vs-let-vs-const-in-javascript-329d)
 - [Dev.to/JS] [Reverse Doubly Linked List](https://dev.to/zeeshanali0704/reverse-doubly-linked-list-432b)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
@@ -31,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a live-event alert system with React, Socket.io, and Push Notifications 🚀](https://dev.to/novu/building-a-live-event-alert-system-with-react-socketio-and-push-notifications-2jg5)
 - [Dev.to/JS] [React HTML Editor: It’s Not as Difficult as You Think](https://dev.to/ideradevtools/react-html-editor-its-not-as-difficult-as-you-think-550d)
 - [Dev.to/JS] [Is Tech Making HTML Editors Better Or Worse?](https://dev.to/ideradevtools/is-tech-making-html-editors-better-or-worse-pc2)
-- [Dev.to/JS] [Javascript: Functional Composition](https://dev.to/urstrulyvishwak/js-functional-composition-15dc)
-- [Dev.to/JS] [Build a Serverless WebSocket Application in 5 minutes with Lolo](https://dev.to/lolo_code/build-a-serverless-websocket-application-in-5-minutes-with-lolo-4bo5)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
-- [Dev.to/JS] [Building a draggable menu with react-float-menu](https://dev.to/prabhuignoto/building-a-draggable-menu-in-react-5he0)
-- [Dev.to/JS] [Change navbar color on mouse scroll in React](https://dev.to/muratcanyuksel/change-navbar-color-on-scroll-in-react-31kh)
-- [Dev.to/JS] [Unpacking JavaScript 3: Async Code - Method Chaining](https://dev.to/sfundomhlungu/unpacking-javascript-3-async-code-method-chaining-370c)
 - [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
-- [Lifehacker] [May I Present These Tofu Puff Pizza Rolls](https://lifehacker.com/may-i-present-these-tofu-puff-pizza-rolls-1849486137)
-- [Lifehacker] [Four Alternatives to Gas-Powered Leaf Blowers &lpar;That Aren&#39;t a Rake&rpar;](https://lifehacker.com/four-alternatives-to-gas-powered-leaf-blowers-that-are-1849485628)<!-- TECH-POSTS:END -->
+- [Lifehacker] [May I Present These Tofu Puff Pizza Rolls](https://lifehacker.com/may-i-present-these-tofu-puff-pizza-rolls-1849486137)<!-- TECH-POSTS:END -->
 
 ---
 
