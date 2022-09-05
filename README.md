@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a draggable menu in React](https://dev.to/prabhuignoto/building-a-draggable-menu-in-react-5he0)
 - [Dev.to/JS] [Change navbar color on mouse scroll in React](https://dev.to/muratcanyuksel/change-navbar-color-on-scroll-in-react-31kh)
 - [Dev.to/JS] [Unpacking JavaScript 3: Async Code - Method Chaining](https://dev.to/sfundomhlungu/unpacking-javascript-3-async-code-method-chaining-370c)
 - [Dev.to/JS] [How to Get the Most Out of Your Bootstrap Designs](https://dev.to/ideradevtools/how-to-get-the-most-out-of-your-bootstrap-designs-3pmi)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🔫.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1k11)
 - [Dev.to/JS] [I WANT TO BUILD A RAPE PREVENTION SOFTWARE](https://dev.to/chizobaonorh/i-want-to-build-a-rape-prevention-software-1mlg)
 - [Dev.to/JS] [React: change css variable with useEffect?](https://dev.to/fredster/react-change-css-variable-with-useeffect-29ic)
-- [Dev.to/JS] [FE React CC](https://dev.to/hidaytrahman/fe-react-cc-4ad2)
 - [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
