@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python - JavaScript Training](https://dev.to/killallnano/python-javascript-training-3073)
+- [Dev.to/JS] [Node.js vs. React.js Comparison: Which to Choose for your JavaScript App Development?](https://dev.to/ijackseifert/nodejs-vs-reactjs-comparison-which-to-choose-for-your-javascript-app-development-1j79)
+- [Dev.to/JS] [Event Loop #Node.js Quick Notes.](https://dev.to/ajaybaraiya6/event-loop-nodejs-quick-notes-b37)
 - [Dev.to/JS] [Tour and Travels](https://dev.to/picklu/tour-and-travels-3108)
 - [Dev.to/JS] [Build markdown blog site by casual-markdown-blog](https://dev.to/casualwriter/build-markdown-blog-site-by-casual-markdown-blog-2i0o)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 16: What is Runtime? Why is it important?](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-16-what-is-runtime-why-is-it-important-4k40)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Calculating Text Width at Server-Side](https://dev.to/evgenus/calculating-text-width-at-server-side-bmd)
 - [Dev.to/JS] [How to implement login in React](https://dev.to/logify/how-to-implement-login-in-react-10gm)
 - [Dev.to/JS] [Leetcode Diary: Unique Email Addresses](https://dev.to/kevin074/leetcode-diary-unique-email-addresses-4kc5)
-- [Dev.to/JS] [A importância da Clean Architecture](https://dev.to/amad3eu/a-importancia-da-clean-architecture-2i94)
-- [Dev.to/JS] [How to fix the Content Security Policy directive with Strapi v4 and upload on AWS S3](https://dev.to/darkmavis1980/how-to-fix-the-content-security-policy-directive-with-strapi-v4-and-upload-on-aws-s3-3bp2)
-- [Dev.to/JS] [&quot;😭 Escape from crazy boy friend!&quot; explain Dependency Injection so easily](https://dev.to/kaziusan/-escape-from-crazy-boy-friend-explain-dependency-injection-so-easily-32fe)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
