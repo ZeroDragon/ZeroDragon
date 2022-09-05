@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build markdown blog site by casual-markdown-blog](https://dev.to/casualwriter/build-markdown-blog-site-by-casual-markdown-blog-2i0o)
 - [Dev.to/JS] [Let’s Understand Chrome V8 — Chapter 16: What is Runtime? Why is it important?](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-16-what-is-runtime-why-is-it-important-4k40)
 - [Dev.to/JS] [Reverse Singly Linked List](https://dev.to/zeeshanali0704/reverse-singly-linked-list-53am)
 - [Dev.to/JS] [Factorial for the Real World: How to Find Factorial of Numbers in JavaScript.](https://dev.to/codingnninja/factorial-for-the-real-world-how-to-find-factorial-of-numbers-in-javascript-43g2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to fix the Content Security Policy directive with Strapi v4 and upload on AWS S3](https://dev.to/darkmavis1980/how-to-fix-the-content-security-policy-directive-with-strapi-v4-and-upload-on-aws-s3-3bp2)
 - [Dev.to/JS] [&quot;😭 Escape from crazy boy friend!&quot; explain Dependency Injection so easily](https://dev.to/kaziusan/-escape-from-crazy-boy-friend-explain-dependency-injection-so-easily-32fe)
 - [Dev.to/JS] [Big O Notation](https://dev.to/thiagocolen/big-o-notation-1n86)
-- [Dev.to/JS] [What are the three dots &lpar;...&rpar; or spread operator in Javascript?](https://dev.to/smpnjn/what-are-the-three-dots-or-spread-operator-in-javascript-54a7)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
