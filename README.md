@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-238p)
 - [Dev.to/JS] [Building a live-event alert system with React, Socket.io, and Push Notifications 🚀](https://dev.to/novu/building-a-live-event-alert-system-with-react-socketio-and-push-notifications-2jg5)
 - [Dev.to/JS] [React HTML Editor: It’s Not as Difficult as You Think](https://dev.to/ideradevtools/react-html-editor-its-not-as-difficult-as-you-think-550d)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
 - [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
 - [Lifehacker] [May I Present These Tofu Puff Pizza Rolls](https://lifehacker.com/may-i-present-these-tofu-puff-pizza-rolls-1849486137)
-- [Lifehacker] [Four Alternatives to Gas-Powered Leaf Blowers &lpar;That Aren&#39;t a Rake&rpar;](https://lifehacker.com/four-alternatives-to-gas-powered-leaf-blowers-that-are-1849485628)
-- [Lifehacker] [How to Install Unsupported Apps on Older iPhones](https://lifehacker.com/how-to-install-unsupported-apps-on-older-iphones-1849485024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four Alternatives to Gas-Powered Leaf Blowers &lpar;That Aren&#39;t a Rake&rpar;](https://lifehacker.com/four-alternatives-to-gas-powered-leaf-blowers-that-are-1849485628)<!-- TECH-POSTS:END -->
 
 ---
 
