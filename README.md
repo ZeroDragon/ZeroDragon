@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use nodejs libs in react native?](https://dev.to/penghuili/how-to-use-nodejs-libs-in-react-native-314a)
+- [Dev.to/JS] [Create a Notes app with React and javascript Localstorage.](https://dev.to/gbadeboife/create-a-notes-app-with-react-and-javascript-localstorage-21h9)
+- [Dev.to/JS] [Is this the end of localhost? VS Code Server Preview](https://dev.to/pacholoamit/is-this-the-end-of-localhost-vs-code-server-preview-36ln)
 - [Dev.to/JS] [How to get last element of an array or string using JS ES13 Feature](https://dev.to/nandhakumar/how-to-get-last-element-of-an-array-or-string-using-js-es13-feature-2342)
 - [Dev.to/JS] [Decouple Application Components using Amazon SQS | Serverless](https://dev.to/aws-builders/decouple-application-components-using-amazon-sqs-serverless-4loj)
 - [Dev.to/JS] [Vue.js Basics Part 5 | Watch Property](https://dev.to/ahmetmeliksah/vuejs-basics-part-5-watch-property-5fdj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Event Loop: Everything You Need To Know Explained In Simple Terms](https://dev.to/tdo95/javascript-event-loop-everything-you-need-to-know-explained-in-simple-terms-fg0)
 - [Dev.to/JS] [We all know JavaScript](https://dev.to/darleneri/we-all-know-javascript-3a2c)
 - [Dev.to/JS] [Flipping Bits Problem](https://dev.to/s_vibhor/flipping-bits-problem-524n)
-- [Dev.to/JS] [Keep Your Apps Accessible and Your e2e Tests Stable With WebdriverIOs New Accessibility Selector](https://dev.to/christian_bromann/keep-your-apps-accessible-and-your-e2e-tests-stable-with-webdriverios-new-accessibility-selector-4fkf)
-- [Dev.to/JS] [OPTIMIZING images for the web - what you really must know in 2022](https://dev.to/blazity/optimizing-images-for-the-web-what-you-really-must-know-in-2022-41j3)
-- [Dev.to/JS] [Frequently asked Questions about JavaScript frameworks.](https://dev.to/areedev/frequently-asked-questions-about-javascript-frameworks-2fcb)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
