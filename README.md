@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The curious case of HTML forms](https://dev.to/ishar19/the-curious-case-of-html-forms-3iak)
 - [Dev.to/JS] [How to use nodejs libs in react native?](https://dev.to/penghuili/how-to-use-nodejs-libs-in-react-native-314a)
 - [Dev.to/JS] [Create a Notes app with React and javascript Localstorage.](https://dev.to/gbadeboife/create-a-notes-app-with-react-and-javascript-localstorage-21h9)
 - [Dev.to/JS] [Is this the end of localhost? VS Code Server Preview](https://dev.to/pacholoamit/is-this-the-end-of-localhost-vs-code-server-preview-36ln)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying Conditional Rendering in ReactJS](https://dev.to/mursalfk/demystifying-conditional-rendering-in-reactjs-40if)
 - [Dev.to/JS] [JavaScript Event Loop: Everything You Need To Know Explained In Simple Terms](https://dev.to/tdo95/javascript-event-loop-everything-you-need-to-know-explained-in-simple-terms-fg0)
 - [Dev.to/JS] [We all know JavaScript](https://dev.to/darleneri/we-all-know-javascript-3a2c)
-- [Dev.to/JS] [Flipping Bits Problem](https://dev.to/s_vibhor/flipping-bits-problem-524n)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
