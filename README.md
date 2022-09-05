@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get last element of an array or string using JS ES13 Feature](https://dev.to/nandhakumar/how-to-get-last-element-of-an-array-or-string-using-js-es13-feature-2342)
+- [Dev.to/JS] [Decouple Application Components using Amazon SQS | Serverless](https://dev.to/aws-builders/decouple-application-components-using-amazon-sqs-serverless-4loj)
+- [Dev.to/JS] [Vue.js Basics Part 5 | Watch Property](https://dev.to/ahmetmeliksah/vuejs-basics-part-5-watch-property-5fdj)
 - [Dev.to/JS] [WSN: Serve Angular App on Local Network for Responsive Device Previews](https://dev.to/riapacheco/wsn-serve-angular-app-on-local-network-for-responsive-device-previews-42ie)
 - [Dev.to/JS] [populate convas.js multi series spline chart with data from database?](https://dev.to/sanghamitra1994/populate-convasjs-multi-series-spline-chart-with-data-from-database-phj)
 - [Dev.to/JS] [Demystifying Conditional Rendering in ReactJS](https://dev.to/mursalfk/demystifying-conditional-rendering-in-reactjs-40if)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OPTIMIZING images for the web - what you really must know in 2022](https://dev.to/blazity/optimizing-images-for-the-web-what-you-really-must-know-in-2022-41j3)
 - [Dev.to/JS] [Frequently asked Questions about JavaScript frameworks.](https://dev.to/areedev/frequently-asked-questions-about-javascript-frameworks-2fcb)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
-- [Dev.to/JS] [React TS: How I manage modal components &lpar;Custom Modal Hook&rpar;](https://dev.to/lico/react-ts-how-i-manage-modal-components-custom-modals-hook-4nmg)
-- [Dev.to/JS] [Var VS Let VS Const in JavaScript](https://dev.to/zubairgujjar997/var-vs-let-vs-const-in-javascript-329d)
-- [Dev.to/JS] [Reverse Doubly Linked List](https://dev.to/zeeshanali0704/reverse-doubly-linked-list-432b)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
 - [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
