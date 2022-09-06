@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Surprising Ways to Use Q-tips That Don&#39;t Involve Your Ears](https://lifehacker.com/10-surprising-ways-to-use-q-tips-that-dont-involve-your-1849500647)
+- [Dev.to/JS] [Javascript: Reduce](https://dev.to/urstrulyvishwak/javascript-reduce-2b6d)
+- [Lifehacker] [This Treatment Protects Immunocompromised People From COVID](https://lifehacker.com/this-treatment-protects-immunocompromised-people-from-c-1849500894)
+- [Dev.to/JS] [BillSplita](https://dev.to/capscode/billsplita-5aam)
+- [Dev.to/JS] [Observing Life Through Code](https://dev.to/nessakodo/observing-life-through-code-49p4)
 - [Lifehacker] [Cool Off With a Late-Summer Nimbu Pani](https://lifehacker.com/cool-off-with-a-late-summer-nimbu-pani-1849500663)
 - [Dev.to/JS] [Using pipes in Next.js getServerSideProps](https://dev.to/vborodulin/using-pipes-in-nextjs-getserversideprops-3jn1)
 - [Dev.to/JS] [Why Arrow Function is Preferred over Simple Function ?](https://dev.to/zubairgujjar997/why-arrow-function-is-preferred-over-simple-function--22go)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All useful Array Methods - Explained in Videos](https://dev.to/ministryofjavascript/all-useful-array-methods-explained-in-videos-1jjk)
 - [Lifehacker] [The 7 Deadly Sins of Breaking Up With Someone](https://lifehacker.com/the-7-deadly-sins-of-breaking-up-with-someone-1849491290)
 - [Dev.to/JS] [Reactivity In Actions](https://dev.to/mmuscat/reactivity-in-actions-3j2p)
-- [Dev.to/JS] [Protetox - Does It Really Work or Scam? Reviews &amp; Benefits?](https://dev.to/protetox9/protetox-does-it-really-work-or-scam-reviews-benefits-1g3i)
-- [Dev.to/JS] [The Most Hidden Feature of JavaScript ✍️](https://dev.to/dcodeyt/the-most-hidden-feature-of-javascript-443b)
-- [Dev.to/JS] [let &amp; const | JavaScript ES6.](https://dev.to/sujithvsuresh/let-const-javascript-es6-250k)
 - [Lifehacker] [The Easiest Ways to Entertain a Baby](https://lifehacker.com/the-easiest-ways-to-entertain-a-baby-1849492637)
 - [Lifehacker] [How to Keep Carpets From Polluting Your Indoor Air](https://lifehacker.com/how-to-keep-carpets-from-polluting-your-indoor-air-1849497372)
 - [Lifehacker] [You Should Eat Cilantro Roots](https://lifehacker.com/you-should-eat-cilantro-roots-1849491217)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Fall for This Instagram Verification Scam](https://lifehacker.com/dont-fall-for-this-instagram-verification-scam-1849490064)
 - [Lifehacker] [How to Coach a Sport You&#39;ve Never Played](https://lifehacker.com/how-to-coach-a-sport-youve-never-played-1849479459)
 - [Lifehacker] [The Do&#39;s and Don&#39;ts of Managing Up, According to an HR Expert](https://lifehacker.com/the-dos-and-donts-of-managing-up-according-to-an-hr-ex-1849488606)
-- [Lifehacker] [There’s a New COVID Booster You Should Probably Get This Fall](https://lifehacker.com/there-s-a-new-covid-booster-you-should-probably-get-thi-1849490154)
-- [Lifehacker] [21 of the Best Movies About Capitalism and American Labor](https://lifehacker.com/21-of-the-best-movies-about-capitalism-and-american-lab-1849484326)
-- [Lifehacker] [This Will Make Your Boxed Cake Taste Better Every Time](https://lifehacker.com/this-will-make-your-boxed-cake-taste-better-every-time-1849487421)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There’s a New COVID Booster You Should Probably Get This Fall](https://lifehacker.com/there-s-a-new-covid-booster-you-should-probably-get-thi-1849490154)<!-- TECH-POSTS:END -->
 
 ---
 
