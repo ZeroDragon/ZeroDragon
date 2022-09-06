@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DIGITAL CLOCK with JavaScript](https://dev.to/mbahvictor16/digital-clock-with-javascript-59m1)
+- [Dev.to/JS] [Static tweets — the better way to embed Twitter](https://dev.to/ikartik/static-tweets-the-better-way-to-embed-twitter-58g7)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Dev.to/JS] [Estrutura de dados parte 1: Vetores e Matrizes.](https://dev.to/igoroliveira98/estrutura-de-dados-parte-1-vetores-e-matrizes-2i0f)
 - [Dev.to/JS] [Sync/Async using the fs module in Node JS](https://dev.to/nkj/syncasync-using-the-fs-module-in-node-js-mcj)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Progressive Web Apps: Let’s Make Something Installable](https://dev.to/mojodev/progressive-web-apps-lets-make-something-installable-2p9m)
 - [Lifehacker] [This Site Reviews Products After They Break](https://lifehacker.com/this-site-reviews-products-after-they-break-1849500233)
 - [Lifehacker] [Ten Surprising Ways to Use Q-tips That Don&#39;t Involve Your Ears](https://lifehacker.com/10-surprising-ways-to-use-q-tips-that-dont-involve-your-1849500647)
-- [Dev.to/JS] [Javascript: Reduce](https://dev.to/urstrulyvishwak/javascript-reduce-2b6d)
 - [Lifehacker] [This Treatment Protects Immunocompromised People From COVID](https://lifehacker.com/this-treatment-protects-immunocompromised-people-from-c-1849500894)
-- [Dev.to/JS] [BillSplita](https://dev.to/capscode/billsplita-5aam)
 - [Lifehacker] [Cool Off With a Late-Summer Nimbu Pani](https://lifehacker.com/cool-off-with-a-late-summer-nimbu-pani-1849500663)
 - [Lifehacker] [How to Recognize a Male Yeast Infection](https://lifehacker.com/how-to-recognize-a-male-yeast-infection-1849500010)
 - [Lifehacker] [Update Google Chrome ASAP to Patch This Security Flaw](https://lifehacker.com/update-google-chrome-asap-to-patch-this-security-flaw-1849499843)
