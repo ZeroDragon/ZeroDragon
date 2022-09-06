@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Select Multiple Checkboxes In Selenium WebDriver Using Java?](https://dev.to/lambdatest/how-to-select-multiple-checkboxes-in-selenium-webdriver-using-java-mi0)
 - [Dev.to/JS] [Boolean flags are sad little enums](https://dev.to/latobibor/boolean-flags-are-sad-little-enums-1h94)
 - [Dev.to/JS] [Ben 10- Omnitrix](https://dev.to/thisissherlock1/ben-10-omnitrix-fkb)
 - [Dev.to/JS] [Mongez Localization, The simplest way to translate your website regardless your favorite framework](https://dev.to/hassanzohdy/mongez-localization-the-simplest-way-to-translate-your-website-regardless-your-favorite-framework-4gi3)
-- [Dev.to/JS] [Data Recovery](https://dev.to/qasimaligondal2/data-recovery-1np6)
 - [Dev.to/JS] [All about Jamstack](https://dev.to/shreyazz/all-about-jamstack-4065)
 - [Dev.to/JS] [Artificial Intelligence Projects For Students](https://dev.to/arunprakash142/artificial-intelligence-projects-for-students-2fa7)
 - [Dev.to/JS] [My Latest Project Inspires Creativity](https://dev.to/andrewbaisden/my-latest-project-inspires-creativity-154j)
 - [Dev.to/JS] [Side Nav React.js - Tutorial](https://dev.to/youngmamba/side-nav-reactjs-tutorial-59ih)
-- [Dev.to/JS] [Should Fixing Dlinkrouter.local read these easy Steps?](https://dev.to/aaron_finch_009/should-fixing-dlinkrouterlocal-read-these-easy-steps-4a8c)
-- [Dev.to/JS] [9 Facts Everyone Should Know About Wifi.wavlink.com](https://dev.to/aaron_finch_009/9-facts-everyone-should-know-about-wifiwavlinkcom-3740)
-- [Dev.to/JS] [Apply These 5 Secret Techniques To Improve Routerlogin.net](https://dev.to/aaron_finch_009/apply-these-5-secret-techniques-to-improve-routerloginnet-1a0e)
-- [Dev.to/JS] [The 8 Biggest Linksyssmartwifi.com Mistakes You Can Easily Avoid](https://dev.to/aaron_finch_009/the-8-biggest-linksyssmartwificom-mistakes-you-can-easily-avoid-mpj)
+- [Dev.to/JS] [How to become a modern Node.js developer?](https://dev.to/refine/how-to-become-a-modern-nodejs-developercomponent-4dca)
+- [Dev.to/JS] [What is Javascript?](https://dev.to/sunnynk19/what-is-javascript-38m9)
+- [Dev.to/JS] [Why student need academic service to students](https://dev.to/rogercroberts/why-student-need-academic-service-to-students-3a42)
+- [Dev.to/JS] [Building a Job Board with Next.js, Tailwind CSS, and Strapi](https://dev.to/strapi/building-a-job-board-with-nextjs-tailwind-css-and-strapi-1n6l)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
