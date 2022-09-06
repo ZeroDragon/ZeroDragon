@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Mobile Application Maintenance Guide in 2022](https://dev.to/pankajdas0909/a-mobile-application-maintenance-guide-in-2022-1p12)
+- [Dev.to/JS] [Things all JavaScript beginners should know](https://dev.to/julio_santacruz/things-all-javascript-beginners-should-know-1o7o)
+- [Dev.to/JS] [What I&#39;ve learned during August 22-26 Week and 29-02 September Week](https://dev.to/anamdiazs/what-ive-learned-during-august-22-26-week-and-29-02-september-week-4laa)
+- [Dev.to/JS] [Microservices Architecture - Tech meetup in Madurai](https://dev.to/optisolbusiness/microservices-architecture-tech-meetup-in-madurai-4fm9)
 - [Dev.to/JS] [Digital Business Card](https://dev.to/jacksondynamics/digital-business-card-1md5)
 - [Dev.to/JS] [Don’t over emphasize the importance of the react folder structure, focus on the philosophies beyond the folder structure](https://dev.to/summerbud/dont-over-emphasize-the-importance-of-the-react-folder-structure-focus-on-the-philosophies-beyond-the-folder-structure-o48)
 - [Dev.to/JS] [Efate Test Generator Series: Extending the library](https://dev.to/jcteague/efate-test-generator-series-extending-the-library-5fb4)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Antecedentes y razones para aprender JavaScript](https://dev.to/humbertoa6/antecedentes-y-razones-para-aprender-javascript-4jj4)
 - [Dev.to/JS] [How to configure path aliases w/Vite + Vue/React](https://dev.to/koha/how-to-configure-path-aliases-wvite-vuereact-3po9)
 - [Dev.to/JS] [Opening the Turing Lock](https://dev.to/rmion/opening-the-turing-lock-25a)
-- [Dev.to/JS] [Running process from a web page](https://dev.to/rleddy/running-process-from-a-web-page-a0f)
-- [Dev.to/JS] [CRA vs Parcel](https://dev.to/ayc0/cra-vs-parcel-d08)
-- [Dev.to/JS] [Ng-News: Episode 22/35](https://dev.to/rainerhahnekamp/ng-news-episode-2235-53c8)
-- [Dev.to/JS] [LeetCode -[Roman to Integer] JS variations](https://dev.to/codeonjim/leetcode-roman-to-integer-js-variations-30fa)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
