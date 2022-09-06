@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a custom React autocomplete search component](https://dev.to/michaelburrows/build-a-custom-react-autocomplete-search-component-2hcd)
+- [Dev.to/JS] [MERN Stack Login System with JWT and Google OAuth #1](https://dev.to/veewebcode/mern-stack-login-system-with-jwt-and-google-oauth-1-425m)
 - [Dev.to/JS] [Computed Nano Stores](https://dev.to/dailydevtips1/computed-nano-stores-552g)
 - [Dev.to/JS] [Factors to be considered while hiring ReactJS developers](https://dev.to/ritesh_patil/factors-to-be-considered-while-hiring-reactjs-developers-p0h)
 - [Dev.to/JS] [A Mobile Application Maintenance Guide in 2022](https://dev.to/pankajdas0909/a-mobile-application-maintenance-guide-in-2022-1p12)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don’t over emphasize the importance of the react folder structure, focus on the philosophies beyond the folder structure](https://dev.to/summerbud/dont-over-emphasize-the-importance-of-the-react-folder-structure-focus-on-the-philosophies-beyond-the-folder-structure-o48)
 - [Dev.to/JS] [Efate Test Generator Series: Extending the library](https://dev.to/jcteague/efate-test-generator-series-extending-the-library-5fb4)
 - [Dev.to/JS] [Published Chrome extension for streamlined React development🎉](https://dev.to/handdot/published-chrome-extension-for-streamlined-react-development-23b)
-- [Dev.to/JS] [Criando e publicando um pacote NPM global para executar com CLI](https://dev.to/mugarate12/criando-e-publicando-um-pacote-npm-global-para-executar-com-cli-4k0n)
-- [Dev.to/JS] [Antecedentes y razones para aprender JavaScript](https://dev.to/humbertoa6/antecedentes-y-razones-para-aprender-javascript-4jj4)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
