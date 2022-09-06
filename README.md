@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Parents Need to Know About &#39;Digital Self-Harm&#39;](https://lifehacker.com/what-parents-need-to-know-about-digital-self-harm-1849497518)
+- [Dev.to/JS] [ON/OFF Toggle button — step-by-step guide](https://dev.to/designyff/onoff-toggle-button-step-by-step-guide-3lal)
+- [Dev.to/JS] [All useful Array Methods - Explained in Videos](https://dev.to/ministryofjavascript/all-useful-array-methods-explained-in-videos-1jjk)
+- [Lifehacker] [The 7 Deadly Sins of Breaking Up With Someone](https://lifehacker.com/the-7-deadly-sins-of-breaking-up-with-someone-1849491290)
+- [Dev.to/JS] [Reactivity In Actions](https://dev.to/mmuscat/reactivity-in-actions-3j2p)
+- [Dev.to/JS] [Protetox - Does It Really Work or Scam? Reviews &amp; Benefits?](https://dev.to/protetox9/protetox-does-it-really-work-or-scam-reviews-benefits-1g3i)
+- [Dev.to/JS] [The Most Hidden Feature of JavaScript ✍️](https://dev.to/dcodeyt/the-most-hidden-feature-of-javascript-443b)
+- [Dev.to/JS] [let &amp; const | JavaScript ES6.](https://dev.to/sujithvsuresh/let-const-javascript-es6-250k)
 - [Lifehacker] [The Easiest Ways to Entertain a Baby](https://lifehacker.com/the-easiest-ways-to-entertain-a-baby-1849492637)
 - [Dev.to/JS] [Why you will see the error &quot;Loading chunk \d+ failed&quot;](https://dev.to/cbillowes/why-you-will-see-the-error-loading-chunk-d-failed-1ne4)
 - [Dev.to/JS] [Odd Even List - I](https://dev.to/zeeshanali0704/odd-even-list-i-21in)
@@ -32,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Odd Even List - Naive Approach](https://dev.to/zeeshanali0704/odd-even-list-naive-approach-2mlp)
 - [Dev.to/JS] [How to set HTML lang attribute in Next.js](https://dev.to/dawsoncodes/how-to-set-html-lang-attribute-in-nextjs-39bg)
 - [Dev.to/JS] [Video call app using webrtc](https://dev.to/tejendrasrajawat/video-call-app-using-webrtc-1p40)
-- [Dev.to/JS] [Playwright - Complete Beginner Course](https://dev.to/automationbro/playwright-complete-beginner-course-3f1c)
-- [Dev.to/JS] [What Does it mean to be a WordPress Developer?](https://dev.to/ebukaval99/what-does-it-mean-to-be-a-wordpress-developer-2gic)
-- [Dev.to/JS] [Automating Tests using CodeceptJS and Testomat.io: First Steps](https://dev.to/ingosteinke/automating-tests-using-codeceptjs-and-testomatio-first-steps-3b2e)
-- [Dev.to/JS] [🐱‍🚀 What is Astro.js 🐱‍🚀](https://dev.to/omher/what-is-astrojs-500c)
-- [Dev.to/JS] [Best YouTube Channels for Front-end Developers in 2022](https://dev.to/adam/best-youtube-channels-for-front-end-developers-in-2022-1n20)
-- [Dev.to/JS] [How To Select Multiple Checkboxes In Selenium WebDriver Using Java?](https://dev.to/lambdatest/how-to-select-multiple-checkboxes-in-selenium-webdriver-using-java-mi0)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Will Make Your Boxed Cake Taste Better Every Time](https://lifehacker.com/this-will-make-your-boxed-cake-taste-better-every-time-1849487421)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Corn Kid?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-co-1849488927)
 - [Lifehacker] [Five Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/five-cheap-ways-to-make-your-house-look-more-expensive-1849487827)
-- [Lifehacker] [How to Hot-Wire an Old Car &lpar;and Steal a Modern One&rpar;](https://lifehacker.com/how-to-hot-wire-an-old-car-and-steal-a-modern-one-1849486498)
-- [Lifehacker] [How to Parent With ‘Connected Consequences’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-parent-with-connected-consequences-and-why-yo-1849470945)
-- [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Hot-Wire an Old Car &lpar;and Steal a Modern One&rpar;](https://lifehacker.com/how-to-hot-wire-an-old-car-and-steal-a-modern-one-1849486498)<!-- TECH-POSTS:END -->
 
 ---
 
