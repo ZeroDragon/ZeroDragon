@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Published Chrome extension for streamlined React development🎉](https://dev.to/handdot/published-chrome-extension-for-streamlined-react-development-23b)
+- [Dev.to/JS] [Criando e publicando um pacote NPM global para executar com CLI](https://dev.to/mugarate12/criando-e-publicando-um-pacote-npm-global-para-executar-com-cli-4k0n)
+- [Dev.to/JS] [Antecedentes y razones para aprender JavaScript](https://dev.to/humbertoa6/antecedentes-y-razones-para-aprender-javascript-4jj4)
 - [Dev.to/JS] [How to configure path aliases w/Vite + Vue/React](https://dev.to/koha/how-to-configure-path-aliases-wvite-vuereact-3po9)
 - [Dev.to/JS] [Opening the Turing Lock](https://dev.to/rmion/opening-the-turing-lock-25a)
 - [Dev.to/JS] [Running process from a web page](https://dev.to/rleddy/running-process-from-a-web-page-a0f)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pokedex: Update Laravel from 8.x to 9.x](https://dev.to/krsrk/pokedex-update-laravel-from-8x-to-9x-4018)
 - [Dev.to/JS] [The curious case of HTML forms](https://dev.to/ishar19/the-curious-case-of-html-forms-3iak)
 - [Dev.to/JS] [How to use nodejs libs in react native?](https://dev.to/penghuili/how-to-use-nodejs-libs-in-react-native-314a)
-- [Dev.to/JS] [Create a Notes app with React and javascript Localstorage.](https://dev.to/gbadeboife/create-a-notes-app-with-react-and-javascript-localstorage-21h9)
-- [Dev.to/JS] [Is this the end of localhost? VS Code Server Preview](https://dev.to/pacholoamit/is-this-the-end-of-localhost-vs-code-server-preview-36ln)
-- [Dev.to/JS] [How to get last element of an array or string using JS ES13 Feature](https://dev.to/nandhakumar/how-to-get-last-element-of-an-array-or-string-using-js-es13-feature-2342)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
