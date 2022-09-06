@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Aprenda a explorar o potencial escondido do console em JS](https://dev.to/castrore/aprenda-a-explorar-o-potencial-escondido-do-console-em-js-3j88)
+- [Lifehacker] [You Should Eat Cilantro Roots](https://lifehacker.com/you-should-eat-cilantro-roots-1849491217)
+- [Dev.to/JS] [Odd Even List - Naive Approach](https://dev.to/zeeshanali0704/odd-even-list-naive-approach-2mlp)
+- [Dev.to/JS] [How to set HTML lang attribute in Next.js](https://dev.to/dawsoncodes/how-to-set-html-lang-attribute-in-nextjs-39bg)
+- [Dev.to/JS] [Video call app using webrtc](https://dev.to/tejendrasrajawat/video-call-app-using-webrtc-1p40)
+- [Dev.to/JS] [Playwright - Complete Beginner Course](https://dev.to/automationbro/playwright-complete-beginner-course-3f1c)
 - [Dev.to/JS] [What Does it mean to be a WordPress Developer?](https://dev.to/ebukaval99/what-does-it-mean-to-be-a-wordpress-developer-2gic)
 - [Dev.to/JS] [Automating Tests using CodeceptJS and Testomat.io: First Steps](https://dev.to/ingosteinke/automating-tests-using-codeceptjs-and-testomatio-first-steps-3b2e)
 - [Dev.to/JS] [🐱‍🚀 What is Astro.js 🐱‍🚀](https://dev.to/omher/what-is-astrojs-500c)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Select Multiple Checkboxes In Selenium WebDriver Using Java?](https://dev.to/lambdatest/how-to-select-multiple-checkboxes-in-selenium-webdriver-using-java-mi0)
 - [Dev.to/JS] [Boolean flags are sad little enums](https://dev.to/latobibor/boolean-flags-are-sad-little-enums-1h94)
 - [Dev.to/JS] [Ben 10- Omnitrix](https://dev.to/thisissherlock1/ben-10-omnitrix-fkb)
-- [Dev.to/JS] [Mongez Localization, The simplest way to translate your website regardless your favorite framework](https://dev.to/hassanzohdy/mongez-localization-the-simplest-way-to-translate-your-website-regardless-your-favorite-framework-4gi3)
-- [Dev.to/JS] [All about Jamstack](https://dev.to/shreyazz/all-about-jamstack-4065)
-- [Dev.to/JS] [Artificial Intelligence Projects For Students](https://dev.to/arunprakash142/artificial-intelligence-projects-for-students-2fa7)
-- [Dev.to/JS] [My Latest Project Inspires Creativity](https://dev.to/andrewbaisden/my-latest-project-inspires-creativity-154j)
-- [Dev.to/JS] [Side Nav React.js - Tutorial](https://dev.to/youngmamba/side-nav-reactjs-tutorial-59ih)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Parent With ‘Connected Consequences’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-parent-with-connected-consequences-and-why-yo-1849470945)
 - [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
 - [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
-- [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)
-- [Lifehacker] [May I Present These Tofu Puff Pizza Rolls](https://lifehacker.com/may-i-present-these-tofu-puff-pizza-rolls-1849486137)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)<!-- TECH-POSTS:END -->
 
 ---
 
