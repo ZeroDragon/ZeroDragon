@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Cool Off With a Late-Summer Nimbu Pani](https://lifehacker.com/cool-off-with-a-late-summer-nimbu-pani-1849500663)
+- [Dev.to/JS] [Using pipes in Next.js getServerSideProps](https://dev.to/vborodulin/using-pipes-in-nextjs-getserversideprops-3jn1)
+- [Dev.to/JS] [Why Arrow Function is Preferred over Simple Function ?](https://dev.to/zubairgujjar997/why-arrow-function-is-preferred-over-simple-function--22go)
 - [Lifehacker] [How to Recognize a Male Yeast Infection](https://lifehacker.com/how-to-recognize-a-male-yeast-infection-1849500010)
+- [Dev.to/JS] [Why Migrate from WordPress to Jamstack?](https://dev.to/maxikius/why-migrate-from-wordpress-to-jamstack-34hl)
+- [Dev.to/JS] [How to Create a Full Autocomplete Search Application with Elasticsearch and NestJS - Part 1](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-1-27k4)
+- [Dev.to/JS] [Event handlers and frameworks](https://dev.to/mellen/event-handlers-and-frameworks-2ghk)
 - [Lifehacker] [Update Google Chrome ASAP to Patch This Security Flaw](https://lifehacker.com/update-google-chrome-asap-to-patch-this-security-flaw-1849499843)
 - [Dev.to/JS] [Default Exports Are Horrible](https://dev.to/xmarkclx/default-exports-are-horrible-1bdj)
 - [Lifehacker] [What Parents Need to Know About &#39;Digital Self-Harm&#39;](https://lifehacker.com/what-parents-need-to-know-about-digital-self-harm-1849497518)
@@ -35,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Most Hidden Feature of JavaScript ✍️](https://dev.to/dcodeyt/the-most-hidden-feature-of-javascript-443b)
 - [Dev.to/JS] [let &amp; const | JavaScript ES6.](https://dev.to/sujithvsuresh/let-const-javascript-es6-250k)
 - [Lifehacker] [The Easiest Ways to Entertain a Baby](https://lifehacker.com/the-easiest-ways-to-entertain-a-baby-1849492637)
-- [Dev.to/JS] [Why you will see the error &quot;Loading chunk \d+ failed&quot;](https://dev.to/cbillowes/why-you-will-see-the-error-loading-chunk-d-failed-1ne4)
-- [Dev.to/JS] [Odd Even List - I](https://dev.to/zeeshanali0704/odd-even-list-i-21in)
 - [Lifehacker] [How to Keep Carpets From Polluting Your Indoor Air](https://lifehacker.com/how-to-keep-carpets-from-polluting-your-indoor-air-1849497372)
-- [Dev.to/JS] [Aprenda a explorar o potencial escondido do console em JS](https://dev.to/castrore/aprenda-a-explorar-o-potencial-escondido-do-console-em-js-3j88)
 - [Lifehacker] [You Should Eat Cilantro Roots](https://lifehacker.com/you-should-eat-cilantro-roots-1849491217)
-- [Dev.to/JS] [Odd Even List - Naive Approach](https://dev.to/zeeshanali0704/odd-even-list-naive-approach-2mlp)
-- [Dev.to/JS] [How to set HTML lang attribute in Next.js](https://dev.to/dawsoncodes/how-to-set-html-lang-attribute-in-nextjs-39bg)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Do&#39;s and Don&#39;ts of Managing Up, According to an HR Expert](https://lifehacker.com/the-dos-and-donts-of-managing-up-according-to-an-hr-ex-1849488606)
 - [Lifehacker] [There’s a New COVID Booster You Should Probably Get This Fall](https://lifehacker.com/there-s-a-new-covid-booster-you-should-probably-get-thi-1849490154)
 - [Lifehacker] [21 of the Best Movies About Capitalism and American Labor](https://lifehacker.com/21-of-the-best-movies-about-capitalism-and-american-lab-1849484326)
-- [Lifehacker] [This Will Make Your Boxed Cake Taste Better Every Time](https://lifehacker.com/this-will-make-your-boxed-cake-taste-better-every-time-1849487421)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Corn Kid?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-co-1849488927)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Will Make Your Boxed Cake Taste Better Every Time](https://lifehacker.com/this-will-make-your-boxed-cake-taste-better-every-time-1849487421)<!-- TECH-POSTS:END -->
 
 ---
 
