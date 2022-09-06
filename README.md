@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
+- [Dev.to/JS] [Understanding Variable Scope](https://dev.to/phoenixmomof2/understanding-variable-scope-n2o)
+- [Dev.to/JS] [The Road to Frontend Developer Day 1](https://dev.to/hookkl21/the-road-to-frontend-developer-day-1-30n7)
+- [Dev.to/JS] [You Can&#39;t Learn TypeScript without JavaScript!!!](https://dev.to/tmchuynh/you-cant-learn-typescript-without-javascript-5fa5)
+- [Lifehacker] [How to Promote Your Work Without Sounding Like a Total Jerk](https://lifehacker.com/how-to-promote-your-work-online-without-sounding-like-a-1849501266)
+- [Dev.to/JS] [Vue.js Basics Part 6 | Components](https://dev.to/ahmetmeliksah/vuejs-basics-part-6-components-4864)
+- [Dev.to/JS] [SVG, Geometry — and a dash of JavaScript](https://dev.to/madsstoumann/svg-geometry-and-a-dash-of-javascript-3f9l)
 - [Lifehacker] [How to Kill at Karaoke Even If You Can’t Sing](https://lifehacker.com/how-to-kill-at-karaoke-even-if-you-can-t-sing-1849501417)
 - [Dev.to/JS] [JavaScript: promise](https://dev.to/rosiequ/javascript-promise-3109)
 - [Dev.to/JS] [5 JS Concepts you should know before Learning React](https://dev.to/mojodev/5-js-concepts-you-should-know-before-learning-react-1318)
@@ -35,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Observing Life Through Code](https://dev.to/nessakodo/observing-life-through-code-49p4)
 - [Lifehacker] [Cool Off With a Late-Summer Nimbu Pani](https://lifehacker.com/cool-off-with-a-late-summer-nimbu-pani-1849500663)
 - [Dev.to/JS] [Using pipes in Next.js getServerSideProps](https://dev.to/vborodulin/using-pipes-in-nextjs-getserversideprops-3jn1)
-- [Dev.to/JS] [Why Arrow Function is Preferred over Simple Function ?](https://dev.to/zubairgujjar997/why-arrow-function-is-preferred-over-simple-function--22go)
 - [Lifehacker] [How to Recognize a Male Yeast Infection](https://lifehacker.com/how-to-recognize-a-male-yeast-infection-1849500010)
-- [Dev.to/JS] [Why Migrate from WordPress to Jamstack?](https://dev.to/maxikius/why-migrate-from-wordpress-to-jamstack-34hl)
-- [Dev.to/JS] [How to Create a Full Autocomplete Search Application with Elasticsearch and NestJS - Part 1](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-1-27k4)
-- [Dev.to/JS] [Event handlers and frameworks](https://dev.to/mellen/event-handlers-and-frameworks-2ghk)
 - [Lifehacker] [Update Google Chrome ASAP to Patch This Security Flaw](https://lifehacker.com/update-google-chrome-asap-to-patch-this-security-flaw-1849499843)
-- [Dev.to/JS] [Default Exports Are Horrible](https://dev.to/xmarkclx/default-exports-are-horrible-1bdj)
 - [Lifehacker] [What Parents Need to Know About &#39;Digital Self-Harm&#39;](https://lifehacker.com/what-parents-need-to-know-about-digital-self-harm-1849497518)
 - [Lifehacker] [The 7 Deadly Sins of Breaking Up With Someone](https://lifehacker.com/the-7-deadly-sins-of-breaking-up-with-someone-1849491290)
 - [Lifehacker] [The Easiest Ways to Entertain a Baby](https://lifehacker.com/the-easiest-ways-to-entertain-a-baby-1849492637)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
 - [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
 - [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
-- [Lifehacker] [12 of the Best Houseplants With Obscenely Large Leaves](https://lifehacker.com/12-of-the-best-houseplants-with-obscenely-large-leaves-1849490559)
-- [Lifehacker] [Don&#39;t Fall for This Instagram Verification Scam](https://lifehacker.com/dont-fall-for-this-instagram-verification-scam-1849490064)
-- [Lifehacker] [How to Coach a Sport You&#39;ve Never Played](https://lifehacker.com/how-to-coach-a-sport-youve-never-played-1849479459)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 of the Best Houseplants With Obscenely Large Leaves](https://lifehacker.com/12-of-the-best-houseplants-with-obscenely-large-leaves-1849490559)<!-- TECH-POSTS:END -->
 
 ---
 
