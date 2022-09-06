@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Does it mean to be a WordPress Developer?](https://dev.to/ebukaval99/what-does-it-mean-to-be-a-wordpress-developer-2gic)
+- [Dev.to/JS] [Automating Tests using CodeceptJS and Testomat.io: First Steps](https://dev.to/ingosteinke/automating-tests-using-codeceptjs-and-testomatio-first-steps-3b2e)
+- [Dev.to/JS] [🐱‍🚀 What is Astro.js 🐱‍🚀](https://dev.to/omher/what-is-astrojs-500c)
+- [Dev.to/JS] [Best YouTube Channels for Front-end Developers in 2022](https://dev.to/adam/best-youtube-channels-for-front-end-developers-in-2022-1n20)
 - [Dev.to/JS] [How To Select Multiple Checkboxes In Selenium WebDriver Using Java?](https://dev.to/lambdatest/how-to-select-multiple-checkboxes-in-selenium-webdriver-using-java-mi0)
 - [Dev.to/JS] [Boolean flags are sad little enums](https://dev.to/latobibor/boolean-flags-are-sad-little-enums-1h94)
 - [Dev.to/JS] [Ben 10- Omnitrix](https://dev.to/thisissherlock1/ben-10-omnitrix-fkb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Artificial Intelligence Projects For Students](https://dev.to/arunprakash142/artificial-intelligence-projects-for-students-2fa7)
 - [Dev.to/JS] [My Latest Project Inspires Creativity](https://dev.to/andrewbaisden/my-latest-project-inspires-creativity-154j)
 - [Dev.to/JS] [Side Nav React.js - Tutorial](https://dev.to/youngmamba/side-nav-reactjs-tutorial-59ih)
-- [Dev.to/JS] [How to become a modern Node.js developer?](https://dev.to/refine/how-to-become-a-modern-nodejs-developercomponent-4dca)
-- [Dev.to/JS] [What is Javascript?](https://dev.to/sunnynk19/what-is-javascript-38m9)
-- [Dev.to/JS] [Why student need academic service to students](https://dev.to/rogercroberts/why-student-need-academic-service-to-students-3a42)
-- [Dev.to/JS] [Building a Job Board with Next.js, Tailwind CSS, and Strapi](https://dev.to/strapi/building-a-job-board-with-nextjs-tailwind-css-and-strapi-1n6l)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
