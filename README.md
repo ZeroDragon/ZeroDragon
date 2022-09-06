@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Ways to Entertain a Baby](https://lifehacker.com/the-easiest-ways-to-entertain-a-baby-1849492637)
+- [Dev.to/JS] [Why you will see the error &quot;Loading chunk \d+ failed&quot;](https://dev.to/cbillowes/why-you-will-see-the-error-loading-chunk-d-failed-1ne4)
+- [Dev.to/JS] [Odd Even List - I](https://dev.to/zeeshanali0704/odd-even-list-i-21in)
+- [Lifehacker] [How to Keep Carpets From Polluting Your Indoor Air](https://lifehacker.com/how-to-keep-carpets-from-polluting-your-indoor-air-1849497372)
 - [Dev.to/JS] [Aprenda a explorar o potencial escondido do console em JS](https://dev.to/castrore/aprenda-a-explorar-o-potencial-escondido-do-console-em-js-3j88)
 - [Lifehacker] [You Should Eat Cilantro Roots](https://lifehacker.com/you-should-eat-cilantro-roots-1849491217)
 - [Dev.to/JS] [Odd Even List - Naive Approach](https://dev.to/zeeshanali0704/odd-even-list-naive-approach-2mlp)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🐱‍🚀 What is Astro.js 🐱‍🚀](https://dev.to/omher/what-is-astrojs-500c)
 - [Dev.to/JS] [Best YouTube Channels for Front-end Developers in 2022](https://dev.to/adam/best-youtube-channels-for-front-end-developers-in-2022-1n20)
 - [Dev.to/JS] [How To Select Multiple Checkboxes In Selenium WebDriver Using Java?](https://dev.to/lambdatest/how-to-select-multiple-checkboxes-in-selenium-webdriver-using-java-mi0)
-- [Dev.to/JS] [Boolean flags are sad little enums](https://dev.to/latobibor/boolean-flags-are-sad-little-enums-1h94)
-- [Dev.to/JS] [Ben 10- Omnitrix](https://dev.to/thisissherlock1/ben-10-omnitrix-fkb)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/five-cheap-ways-to-make-your-house-look-more-expensive-1849487827)
 - [Lifehacker] [How to Hot-Wire an Old Car &lpar;and Steal a Modern One&rpar;](https://lifehacker.com/how-to-hot-wire-an-old-car-and-steal-a-modern-one-1849486498)
 - [Lifehacker] [How to Parent With ‘Connected Consequences’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-parent-with-connected-consequences-and-why-yo-1849470945)
-- [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)
-- [Lifehacker] [All the Stuff You Should Clean on the First of the Month](https://lifehacker.com/all-the-stuff-you-should-clean-on-the-first-of-the-mont-1849485773)
-- [Lifehacker] [Five Items You Should Never Go Camping Without](https://lifehacker.com/five-items-you-should-never-go-camping-without-1849486550)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Try This Viral Dishwasher ‘Hack’](https://lifehacker.com/don-t-try-this-viral-dishwasher-hack-1849486687)<!-- TECH-POSTS:END -->
 
 ---
 
