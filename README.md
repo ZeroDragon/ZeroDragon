@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to configure path aliases w/Vite + Vue/React](https://dev.to/koha/how-to-configure-path-aliases-wvite-vuereact-3po9)
+- [Dev.to/JS] [Opening the Turing Lock](https://dev.to/rmion/opening-the-turing-lock-25a)
+- [Dev.to/JS] [Running process from a web page](https://dev.to/rleddy/running-process-from-a-web-page-a0f)
+- [Dev.to/JS] [CRA vs Parcel](https://dev.to/ayc0/cra-vs-parcel-d08)
+- [Dev.to/JS] [Ng-News: Episode 22/35](https://dev.to/rainerhahnekamp/ng-news-episode-2235-53c8)
 - [Dev.to/JS] [LeetCode -[Roman to Integer] JS variations](https://dev.to/codeonjim/leetcode-roman-to-integer-js-variations-30fa)
 - [Dev.to/JS] [Pokedex: Update Laravel from 8.x to 9.x](https://dev.to/krsrk/pokedex-update-laravel-from-8x-to-9x-4018)
 - [Dev.to/JS] [The curious case of HTML forms](https://dev.to/ishar19/the-curious-case-of-html-forms-3iak)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Notes app with React and javascript Localstorage.](https://dev.to/gbadeboife/create-a-notes-app-with-react-and-javascript-localstorage-21h9)
 - [Dev.to/JS] [Is this the end of localhost? VS Code Server Preview](https://dev.to/pacholoamit/is-this-the-end-of-localhost-vs-code-server-preview-36ln)
 - [Dev.to/JS] [How to get last element of an array or string using JS ES13 Feature](https://dev.to/nandhakumar/how-to-get-last-element-of-an-array-or-string-using-js-es13-feature-2342)
-- [Dev.to/JS] [Decouple Application Components using Amazon SQS | Serverless](https://dev.to/aws-builders/decouple-application-components-using-amazon-sqs-serverless-4loj)
-- [Dev.to/JS] [Vue.js Basics Part 5 | Watch Property](https://dev.to/ahmetmeliksah/vuejs-basics-part-5-watch-property-5fdj)
-- [Dev.to/JS] [WSN: Serve Angular App on Local Network for Responsive Device Previews](https://dev.to/riapacheco/wsn-serve-angular-app-on-local-network-for-responsive-device-previews-42ie)
-- [Dev.to/JS] [populate convas.js multi series spline chart with data from database?](https://dev.to/sanghamitra1994/populate-convasjs-multi-series-spline-chart-with-data-from-database-phj)
-- [Dev.to/JS] [Demystifying Conditional Rendering in ReactJS](https://dev.to/mursalfk/demystifying-conditional-rendering-in-reactjs-40if)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
