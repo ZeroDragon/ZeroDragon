@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Computed Nano Stores](https://dev.to/dailydevtips1/computed-nano-stores-552g)
+- [Dev.to/JS] [Factors to be considered while hiring ReactJS developers](https://dev.to/ritesh_patil/factors-to-be-considered-while-hiring-reactjs-developers-p0h)
 - [Dev.to/JS] [A Mobile Application Maintenance Guide in 2022](https://dev.to/pankajdas0909/a-mobile-application-maintenance-guide-in-2022-1p12)
 - [Dev.to/JS] [Things all JavaScript beginners should know](https://dev.to/julio_santacruz/things-all-javascript-beginners-should-know-1o7o)
 - [Dev.to/JS] [What I&#39;ve learned during August 22-26 Week and 29-02 September Week](https://dev.to/anamdiazs/what-ive-learned-during-august-22-26-week-and-29-02-september-week-4laa)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Published Chrome extension for streamlined React development🎉](https://dev.to/handdot/published-chrome-extension-for-streamlined-react-development-23b)
 - [Dev.to/JS] [Criando e publicando um pacote NPM global para executar com CLI](https://dev.to/mugarate12/criando-e-publicando-um-pacote-npm-global-para-executar-com-cli-4k0n)
 - [Dev.to/JS] [Antecedentes y razones para aprender JavaScript](https://dev.to/humbertoa6/antecedentes-y-razones-para-aprender-javascript-4jj4)
-- [Dev.to/JS] [How to configure path aliases w/Vite + Vue/React](https://dev.to/koha/how-to-configure-path-aliases-wvite-vuereact-3po9)
-- [Dev.to/JS] [Opening the Turing Lock](https://dev.to/rmion/opening-the-turing-lock-25a)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
