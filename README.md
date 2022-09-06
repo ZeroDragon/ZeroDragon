@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Digital Business Card](https://dev.to/jacksondynamics/digital-business-card-1md5)
 - [Dev.to/JS] [Don’t over emphasize the importance of the react folder structure, focus on the philosophies beyond the folder structure](https://dev.to/summerbud/dont-over-emphasize-the-importance-of-the-react-folder-structure-focus-on-the-philosophies-beyond-the-folder-structure-o48)
 - [Dev.to/JS] [Efate Test Generator Series: Extending the library](https://dev.to/jcteague/efate-test-generator-series-extending-the-library-5fb4)
 - [Dev.to/JS] [Published Chrome extension for streamlined React development🎉](https://dev.to/handdot/published-chrome-extension-for-streamlined-react-development-23b)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CRA vs Parcel](https://dev.to/ayc0/cra-vs-parcel-d08)
 - [Dev.to/JS] [Ng-News: Episode 22/35](https://dev.to/rainerhahnekamp/ng-news-episode-2235-53c8)
 - [Dev.to/JS] [LeetCode -[Roman to Integer] JS variations](https://dev.to/codeonjim/leetcode-roman-to-integer-js-variations-30fa)
-- [Dev.to/JS] [Pokedex: Update Laravel from 8.x to 9.x](https://dev.to/krsrk/pokedex-update-laravel-from-8x-to-9x-4018)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
