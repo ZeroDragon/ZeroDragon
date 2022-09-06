@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
+- [Dev.to/JS] [Estrutura de dados parte 1: Vetores e Matrizes.](https://dev.to/igoroliveira98/estrutura-de-dados-parte-1-vetores-e-matrizes-2i0f)
+- [Dev.to/JS] [Sync/Async using the fs module in Node JS](https://dev.to/nkj/syncasync-using-the-fs-module-in-node-js-mcj)
+- [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
 - [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
 - [Dev.to/JS] [Understanding Variable Scope](https://dev.to/phoenixmomof2/understanding-variable-scope-n2o)
 - [Dev.to/JS] [The Road to Frontend Developer Day 1](https://dev.to/hookkl21/the-road-to-frontend-developer-day-1-30n7)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript: Reduce](https://dev.to/urstrulyvishwak/javascript-reduce-2b6d)
 - [Lifehacker] [This Treatment Protects Immunocompromised People From COVID](https://lifehacker.com/this-treatment-protects-immunocompromised-people-from-c-1849500894)
 - [Dev.to/JS] [BillSplita](https://dev.to/capscode/billsplita-5aam)
-- [Dev.to/JS] [Observing Life Through Code](https://dev.to/nessakodo/observing-life-through-code-49p4)
 - [Lifehacker] [Cool Off With a Late-Summer Nimbu Pani](https://lifehacker.com/cool-off-with-a-late-summer-nimbu-pani-1849500663)
-- [Dev.to/JS] [Using pipes in Next.js getServerSideProps](https://dev.to/vborodulin/using-pipes-in-nextjs-getserversideprops-3jn1)
 - [Lifehacker] [How to Recognize a Male Yeast Infection](https://lifehacker.com/how-to-recognize-a-male-yeast-infection-1849500010)
 - [Lifehacker] [Update Google Chrome ASAP to Patch This Security Flaw](https://lifehacker.com/update-google-chrome-asap-to-patch-this-security-flaw-1849499843)
 - [Lifehacker] [What Parents Need to Know About &#39;Digital Self-Harm&#39;](https://lifehacker.com/what-parents-need-to-know-about-digital-self-harm-1849497518)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
 - [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
-- [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)
-- [Lifehacker] [When to Use Bar Charts Instead of Pie Charts](https://lifehacker.com/when-to-use-bar-charts-instead-of-pie-charts-1849488600)
-- [Lifehacker] [12 of the Best Houseplants With Obscenely Large Leaves](https://lifehacker.com/12-of-the-best-houseplants-with-obscenely-large-leaves-1849490559)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)<!-- TECH-POSTS:END -->
 
 ---
 
