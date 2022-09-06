@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Take Advantage Of Orbi Login - Read These 7 Tips](https://dev.to/anderson_james_091/take-advantage-of-orbi-login-read-these-7-tips-o3m)
+- [Dev.to/JS] [Want To Step Up Your Dlinkrouter.local? You Need To Read This First](https://dev.to/anderson_james_091/want-to-step-up-your-dlinkrouterlocal-you-need-to-read-this-first-2cga)
+- [Dev.to/JS] [How to become a modern Node.js developer?](https://dev.to/refine/how-to-become-a-modern-nodejs-developercomponent-4dca)
+- [Dev.to/JS] [What is Javascript?](https://dev.to/sunnynk19/what-is-javascript-38m9)
+- [Dev.to/JS] [Why student need academic service to students](https://dev.to/rogercroberts/why-student-need-academic-service-to-students-3a42)
 - [Dev.to/JS] [6 Key Tactics The Pros Use For Re.rockspace.local](https://dev.to/anderson_james_091/6-key-tactics-the-pros-use-for-rerockspacelocal-5al1)
 - [Dev.to/JS] [5 Questions You Need To Ask About Myrouter.local](https://dev.to/anderson_james_091/5-questions-you-need-to-ask-about-myrouterlocal-2g74)
 - [Dev.to/JS] [Building a Job Board with Next.js, Tailwind CSS, and Strapi](https://dev.to/strapi/building-a-job-board-with-nextjs-tailwind-css-and-strapi-1n6l)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beautiful Developer Portfolio 👌🔥](https://dev.to/shahreecoder/beautiful-developer-portfolio-24d7)
 - [Dev.to/JS] [Build a custom React autocomplete search component](https://dev.to/michaelburrows/build-a-custom-react-autocomplete-search-component-2hcd)
 - [Dev.to/JS] [MERN Stack Login System with JWT and Google OAuth #1](https://dev.to/veewebcode/mern-stack-login-system-with-jwt-and-google-oauth-1-425m)
-- [Dev.to/JS] [Computed Nano Stores](https://dev.to/dailydevtips1/computed-nano-stores-552g)
-- [Dev.to/JS] [Factors to be considered while hiring ReactJS developers](https://dev.to/ritesh_patil/factors-to-be-considered-while-hiring-reactjs-developers-p0h)
-- [Dev.to/JS] [A Mobile Application Maintenance Guide in 2022](https://dev.to/pankajdas0909/a-mobile-application-maintenance-guide-in-2022-1p12)
-- [Dev.to/JS] [Things all JavaScript beginners should know](https://dev.to/julio_santacruz/things-all-javascript-beginners-should-know-1o7o)
-- [Dev.to/JS] [What I&#39;ve learned during August 22-26 Week and 29-02 September Week](https://dev.to/anamdiazs/what-ive-learned-during-august-22-26-week-and-29-02-september-week-4laa)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
