@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Copy Text to Clipboard using JavaScript?](https://dev.to/shameerchagani/how-to-copy-text-to-clipboard-using-javascript-4k40)
+- [Lifehacker] [6 Ways to Know If You&#39;re the Toxic One in a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
+- [Dev.to/JS] [Road to Front-end Developer Day2](https://dev.to/hookkl21/road-to-front-end-developer-day2-31n9)
+- [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)
+- [Dev.to/JS] [Migrating from Cypress to Playwright using GPT3](https://dev.to/gajus/migrating-from-cypress-to-playwright-using-gpt3-4mha)
 - [Lifehacker] [Should I Do High Reps or Low Reps?](https://lifehacker.com/should-i-do-high-reps-or-low-reps-1849506311)
 - [Dev.to/JS] [Binary Tree Algorithms](https://dev.to/thiagocolen/binary-tree-algorithms-1cfp)
 - [Dev.to/JS] [Does Samsung Printer Services offer good customer service?](https://dev.to/jackaddy8/does-samsung-printer-services-offer-good-customer-service-4ocm)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)
 - [Dev.to/JS] [Learning and Understanding &lpar;sue-doe-code&rpar;](https://dev.to/2alphasierra/learning-and-understanding-sue-doe-code-1d0h)
 - [Dev.to/JS] [What i learnt from my first software development project...](https://dev.to/jacklinekariuki/what-i-learnt-from-my-first-software-development-project-jea)
-- [Dev.to/JS] [Online delivery website](https://dev.to/ruthwekesa/online-delivery-website-431o)
-- [Dev.to/JS] [Responsive Dashboard Chart Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-dashboard-chart-using-html-css-javascript-273n)
-- [Dev.to/JS] [Create a blog with Vue 3 + Tailwindcss + Supabase](https://dev.to/guillaumeduhan/create-a-blog-with-vue-3-tailwindcss-supabase-1f02)
 - [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
 - [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
 - [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Update Google Chrome ASAP to Patch This Security Flaw](https://lifehacker.com/update-google-chrome-asap-to-patch-this-security-flaw-1849499843)
 - [Lifehacker] [What Parents Need to Know About &#39;Digital Self-Harm&#39;](https://lifehacker.com/what-parents-need-to-know-about-digital-self-harm-1849497518)
 - [Lifehacker] [The 7 Deadly Sins of Breaking Up With Someone](https://lifehacker.com/the-7-deadly-sins-of-breaking-up-with-someone-1849491290)
-- [Lifehacker] [The Easiest Ways to Entertain a Baby](https://lifehacker.com/the-easiest-ways-to-entertain-a-baby-1849492637)
-- [Lifehacker] [How to Keep Carpets From Polluting Your Indoor Air](https://lifehacker.com/how-to-keep-carpets-from-polluting-your-indoor-air-1849497372)
-- [Lifehacker] [You Should Eat Cilantro Roots](https://lifehacker.com/you-should-eat-cilantro-roots-1849491217)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Entertain a Baby](https://lifehacker.com/the-easiest-ways-to-entertain-a-baby-1849492637)<!-- TECH-POSTS:END -->
 
 ---
 
