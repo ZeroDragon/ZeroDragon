@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)
+- [Dev.to/JS] [Top 5 Angular tools and libraries 2022](https://dev.to/midgekim/top-5-angular-tools-and-libraries-2022-43im)
+- [Dev.to/JS] [Build a Web Paint Application](https://dev.to/anshika_gautam_/build-a-web-paint-application-5f55)
+- [Dev.to/JS] [I&#39;ve looked at 14,000,605 scenarios and Max wins every time](https://dev.to/tracinginsights/ive-looked-at-14000605-scenarios-and-max-wins-every-time-4hmh)
+- [Dev.to/JS] [Thunder Fox: I recreated the first game I played in JavaScript](https://dev.to/livramatheus/thunder-fox-i-recreated-the-first-game-i-played-in-javascript-a68)
+- [Dev.to/JS] [The ultimate guide to State Management with React](https://dev.to/jvzaniolo/the-ultimate-guide-to-state-management-with-react-3p6n)
+- [Dev.to/JS] [SEO Deep Dive in Next.js](https://dev.to/kulkarniankita9/seo-deep-dive-in-nextjs-2f8g)
+- [Lifehacker] [You Should Experiment With a Little Hing](https://lifehacker.com/you-should-experiment-with-a-little-hing-1849505075)
+- [Dev.to/JS] [My blog](https://dev.to/ruthwekesa/my-blog-51ep)
 - [Dev.to/JS] [RPG Simulator 20XX](https://dev.to/rmion/rpg-simulator-20xx-m9n)
 - [Lifehacker] [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)
 - [Dev.to/JS] [Parse HTML Strings with DOMParser in JavaScript](https://dev.to/dcodeyt/parse-html-strings-with-domparser-in-javascript-3bl6)
 - [Dev.to/JS] [Traefik middleware - Basic authentication](https://dev.to/lenra/traefik-middleware-basic-authentication-4147)
 - [Dev.to/JS] [How I Build ERP Software With Django](https://dev.to/hossainchisty/how-i-build-erp-software-with-django-2p23)
 - [Dev.to/JS] [looking for privy front-end projects that could be developed into full stack projects](https://dev.to/sahilind/looking-for-privy-front-end-projects-that-could-be-developed-into-full-stack-projects-4b44)
-- [Dev.to/JS] [Beautiful CSS pagination and how it&#39;s done](https://dev.to/designyff/beautiful-css-pagination-and-how-its-done-7np)
-- [Dev.to/JS] [Using Zustand to Manage State in React App](https://dev.to/teyim/using-zustand-to-manage-state-in-react-app-2iia)
 - [Lifehacker] [Eight of the Best Places to Celebrate Oktoberfest in the US](https://lifehacker.com/eight-of-the-best-places-to-celebrate-oktoberfest-in-th-1849484369)
-- [Dev.to/JS] [⚡️⚡️⚡️New React/Vue/Angular CRUD app codebase generator. Need your brutally honest feedback!](https://dev.to/stepnov/new-reactvueangular-crud-app-codebase-generator-3d80)
-- [Dev.to/JS] [Ultimate 10 Stages to Master Backend Development](https://dev.to/billypentester/ultimate-10-stages-to-master-backend-development-o83)
-- [Dev.to/JS] [Let this script type instead of you when you record a video of your browser ⌨](https://dev.to/tolgee_i18n/let-this-script-type-instead-of-you-when-you-record-a-video-of-your-browser-25il)
-- [Dev.to/JS] [Variables in Javascript](https://dev.to/sunnynk19/variables-in-javascript-3b6e)
-- [Dev.to/JS] [&#39;use strict&#39; in Javascript](https://dev.to/sunnynk19/use-strict-in-javascript-3618)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
 - [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
-- [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
-- [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
-- [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)<!-- TECH-POSTS:END -->
 
 ---
 
