@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
 - [Dev.to/JS] [5 great tools for React developers in 2022](https://dev.to/danilovilhena/5-great-tools-for-react-developers-in-2022-1k93)
 - [Dev.to/JS] [Rainbow Scroll](https://dev.to/kolja/rainbow-scroll-3o7)
@@ -37,13 +38,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Migrating from Cypress to Playwright using GPT3](https://dev.to/gajus/migrating-from-cypress-to-playwright-using-gpt3-4mha)
 - [Lifehacker] [Should I Do High Reps or Low Reps?](https://lifehacker.com/should-i-do-high-reps-or-low-reps-1849506311)
 - [Dev.to/JS] [Binary Tree Algorithms](https://dev.to/thiagocolen/binary-tree-algorithms-1cfp)
-- [Dev.to/JS] [Does Samsung Printer Services offer good customer service?](https://dev.to/jackaddy8/does-samsung-printer-services-offer-good-customer-service-4ocm)
 - [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)
 - [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)
 - [Dev.to/JS] [int32 to IPv4](https://dev.to/s_vibhor/int32-to-ipv4-46ia)
-- [Dev.to/JS] [GoGoAnime](https://dev.to/gogoanimelat/gogoanime-2aig)
 - [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
+- [Dev.to/JS] [Micro-frontend Pratical guide - Part 1](https://dev.to/rv90904/micro-frontend-pratical-guide-part-1-42k8)
 - [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)
+- [Dev.to/JS] [Epic Todo ✅](https://dev.to/webzth/epic-todo-2l3)
 - [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)
 - [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
 - [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Treatment Protects Immunocompromised People From COVID](https://lifehacker.com/this-treatment-protects-immunocompromised-people-from-c-1849500894)
 - [Lifehacker] [Cool Off With a Late-Summer Nimbu Pani](https://lifehacker.com/cool-off-with-a-late-summer-nimbu-pani-1849500663)
 - [Lifehacker] [How to Recognize a Male Yeast Infection](https://lifehacker.com/how-to-recognize-a-male-yeast-infection-1849500010)
-- [Lifehacker] [Update Google Chrome ASAP to Patch This Security Flaw](https://lifehacker.com/update-google-chrome-asap-to-patch-this-security-flaw-1849499843)
-- [Lifehacker] [What Parents Need to Know About &#39;Digital Self-Harm&#39;](https://lifehacker.com/what-parents-need-to-know-about-digital-self-harm-1849497518)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Update Google Chrome ASAP to Patch This Security Flaw](https://lifehacker.com/update-google-chrome-asap-to-patch-this-security-flaw-1849499843)<!-- TECH-POSTS:END -->
 
 ---
 
