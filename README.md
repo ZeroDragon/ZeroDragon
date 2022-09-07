@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Coding Challenge Wednesday - Build A Pixel-Perfect Header &lpar;Incl Screencast&rpar;](https://dev.to/profydev/react-coding-challenge-wednesday-build-a-pixel-perfect-header-incl-screencast-4oe5)
 - [Dev.to/JS] [Browser Compatibility](https://dev.to/sunnynk19/browser-compatibility-4589)
 - [Dev.to/JS] [React Js Youtube Clone](https://dev.to/soulsaw1/react-js-youtube-clone-379j)
 - [Dev.to/JS] [Key Benefits of DevOps to boost business growth](https://dev.to/postwell45/key-benefits-of-devops-to-boost-business-growth-1ddi)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created my portfolio web in react js⚛️](https://dev.to/sripadhs/i-created-my-portfolio-web-in-react-js-5a70)
 - [Dev.to/JS] [React Hooks in Angular?! Share Lifecycle Methods Between Components in Angular](https://dev.to/this-is-angular/react-hooks-in-angular-share-lifecycle-methods-between-components-in-angular-5152)
 - [Dev.to/JS] [Transfer @handler &amp; Hashtags in text into clickable links - JavaScript](https://dev.to/humaidanhamad/transfer-handler-hashtags-in-text-into-clickable-links-javascript-57al)
-- [Dev.to/JS] [How To Set Up .gitignore for Your JavaScript Project](https://dev.to/how-to-dev/how-to-set-up-gitignore-for-your-javascript-project-4dgd)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
 - [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
