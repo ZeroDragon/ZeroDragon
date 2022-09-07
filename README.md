@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
+- [Dev.to/JS] [5 great tools for React developers in 2022](https://dev.to/danilovilhena/5-great-tools-for-react-developers-in-2022-1k93)
+- [Dev.to/JS] [Rainbow Scroll](https://dev.to/kolja/rainbow-scroll-3o7)
+- [Dev.to/JS] [Dive into the Open Source](https://dev.to/rudychung/dive-into-the-open-source-gb5)
+- [Dev.to/JS] [Separation of Concerns and Single Source of Truth — writing cleaner code.](https://dev.to/jaguilar89/separation-of-concerns-and-single-source-of-truth-writing-cleaner-code-oo6)
+- [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
+- [Dev.to/JS] [Explaining composable frontends simply](https://dev.to/richkurtzman/explaining-composable-frontends-simply-1na1)
 - [Dev.to/JS] [How to Copy Text to Clipboard using JavaScript?](https://dev.to/shameerchagani/how-to-copy-text-to-clipboard-using-javascript-4k40)
 - [Lifehacker] [6 Ways to Know If You&#39;re the Toxic One in a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
 - [Dev.to/JS] [Road to Front-end Developer Day2](https://dev.to/hookkl21/road-to-front-end-developer-day2-31n9)
@@ -36,13 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [int32 to IPv4](https://dev.to/s_vibhor/int32-to-ipv4-46ia)
 - [Dev.to/JS] [GoGoAnime](https://dev.to/gogoanimelat/gogoanime-2aig)
 - [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
-- [Dev.to/JS] [Micro-frontend Pratical guide - Part 1](https://dev.to/rv90904/micro-frontend-pratical-guide-part-1-42k8)
 - [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)
-- [Dev.to/JS] [Epic Todo ✅](https://dev.to/webzth/epic-todo-2l3)
-- [Dev.to/JS] [Real-time chat app using Firebase, React, TailwindCSS, MongoDB, Express, and Socket.io](https://dev.to/earthcomfy/real-time-chat-app-using-firebase-react-tailwindcss-mongodb-nodeexpress-and-socketio-26n1)
 - [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)
-- [Dev.to/JS] [Learning and Understanding &lpar;sue-doe-code&rpar;](https://dev.to/2alphasierra/learning-and-understanding-sue-doe-code-1d0h)
-- [Dev.to/JS] [What i learnt from my first software development project...](https://dev.to/jacklinekariuki/what-i-learnt-from-my-first-software-development-project-jea)
 - [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
 - [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
 - [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cool Off With a Late-Summer Nimbu Pani](https://lifehacker.com/cool-off-with-a-late-summer-nimbu-pani-1849500663)
 - [Lifehacker] [How to Recognize a Male Yeast Infection](https://lifehacker.com/how-to-recognize-a-male-yeast-infection-1849500010)
 - [Lifehacker] [Update Google Chrome ASAP to Patch This Security Flaw](https://lifehacker.com/update-google-chrome-asap-to-patch-this-security-flaw-1849499843)
-- [Lifehacker] [What Parents Need to Know About &#39;Digital Self-Harm&#39;](https://lifehacker.com/what-parents-need-to-know-about-digital-self-harm-1849497518)
-- [Lifehacker] [The 7 Deadly Sins of Breaking Up With Someone](https://lifehacker.com/the-7-deadly-sins-of-breaking-up-with-someone-1849491290)
-- [Lifehacker] [The Easiest Ways to Entertain a Baby](https://lifehacker.com/the-easiest-ways-to-entertain-a-baby-1849492637)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Parents Need to Know About &#39;Digital Self-Harm&#39;](https://lifehacker.com/what-parents-need-to-know-about-digital-self-harm-1849497518)<!-- TECH-POSTS:END -->
 
 ---
 
