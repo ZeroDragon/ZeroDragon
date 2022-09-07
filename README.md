@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
+- [Dev.to/JS] [Part 9: Set up the Node.js server to handle Elasticsearch requests](https://dev.to/lisahjung/part-9-set-up-the-nodejs-server-to-handle-elasticsearch-requests-5206)
+- [Dev.to/JS] [Part 7 : Set up the Node.js server to retrieve API data and send the data to Elasticsearch](https://dev.to/lisahjung/part-7-set-up-the-nodejs-server-to-retrieve-api-data-and-send-the-data-to-elasticsearch-50fm)
 - [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)
 - [Dev.to/JS] [Top 5 Angular tools and libraries 2022](https://dev.to/midgekim/top-5-angular-tools-and-libraries-2022-43im)
 - [Dev.to/JS] [Build a Web Paint Application](https://dev.to/anshika_gautam_/build-a-web-paint-application-5f55)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)
 - [Dev.to/JS] [Parse HTML Strings with DOMParser in JavaScript](https://dev.to/dcodeyt/parse-html-strings-with-domparser-in-javascript-3bl6)
 - [Dev.to/JS] [Traefik middleware - Basic authentication](https://dev.to/lenra/traefik-middleware-basic-authentication-4147)
-- [Dev.to/JS] [How I Build ERP Software With Django](https://dev.to/hossainchisty/how-i-build-erp-software-with-django-2p23)
-- [Dev.to/JS] [looking for privy front-end projects that could be developed into full stack projects](https://dev.to/sahilind/looking-for-privy-front-end-projects-that-could-be-developed-into-full-stack-projects-4b44)
 - [Lifehacker] [Eight of the Best Places to Celebrate Oktoberfest in the US](https://lifehacker.com/eight-of-the-best-places-to-celebrate-oktoberfest-in-th-1849484369)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
 - [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
 - [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
-- [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
-- [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)<!-- TECH-POSTS:END -->
 
 ---
 
