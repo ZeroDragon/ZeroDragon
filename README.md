@@ -23,10 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s up with rfd!?](https://dev.to/100terres/whats-up-with-rfd-578a)
 - [Dev.to/JS] [Detect When Users Switch Tabs using JavaScript](https://dev.to/j471n/detect-when-users-switch-tabs-using-javascript-3mi3)
-- [Dev.to/JS] [Vue.js Basics Part 8 | Slots](https://dev.to/ahmetmeliksah/vuejs-basics-part-8-slots-28ff)
+- [Dev.to/JS] [Vue.js Basics Part 8 | Emit](https://dev.to/ahmetmeliksah/vuejs-basics-part-8-slots-28ff)
 - [Dev.to/JS] [Check Cyclic LinkedList - I](https://dev.to/zeeshanali0704/check-cyclic-linkedlist-i-3j8e)
-- [Dev.to/JS] [Merge Two Linked List - I](https://dev.to/zeeshanali0704/merge-two-linked-list-i-40fh)
+- [Dev.to/JS] [Merge Two Sorted Linked List - I](https://dev.to/zeeshanali0704/merge-two-linked-list-i-40fh)
 - [Dev.to/JS] [Vue.js Basics Part 7 | Props](https://dev.to/ahmetmeliksah/vuejs-basics-part-7-props-6g6)
 - [Dev.to/JS] [WTF ¿Qué es una promesa en Javascript?](https://dev.to/matiasfha/wtf-que-es-una-promesa-en-javascript-1mo9)
 - [Dev.to/JS] [I made a whole “GAME” with NextJs](https://dev.to/developerbishwas/i-made-a-whole-game-with-nextjs-2djl)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React - Introducing JSX](https://dev.to/meganmoulos/react-introducing-jsx-1nal)
 - [Dev.to/JS] [Why is ngrok returning HTML?](https://dev.to/nsantos16/why-is-ngrok-returning-html-3jn3)
 - [Dev.to/JS] [Singletons in JS And How To Use Them](https://dev.to/frozer/singletons-in-js-and-how-to-use-them-2abb)
-- [Dev.to/JS] [&quot;The Morning News&quot; website template on Deta platform](https://dev.to/sokhavuth/the-morning-news-website-template-on-deta-platform-18oj)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
 - [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
