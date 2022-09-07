@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Zustand to Manage State in React App](https://dev.to/teyim/using-zustand-to-manage-state-in-react-app-2iia)
+- [Lifehacker] [Eight of the Best Places to Celebrate Oktoberfest in the US](https://lifehacker.com/eight-of-the-best-places-to-celebrate-oktoberfest-in-th-1849484369)
+- [Dev.to/JS] [⚡️⚡️⚡️New React/Vue/Angular CRUD app codebase generator. Need your brutally honest feedback!](https://dev.to/stepnov/new-reactvueangular-crud-app-codebase-generator-3d80)
+- [Dev.to/JS] [Ultimate 10 Stages to Master Backend Development](https://dev.to/billypentester/ultimate-10-stages-to-master-backend-development-o83)
+- [Dev.to/JS] [Let this script type instead of you when you record a video of your browser ⌨](https://dev.to/tolgee_i18n/let-this-script-type-instead-of-you-when-you-record-a-video-of-your-browser-25il)
+- [Dev.to/JS] [Variables in Javascript](https://dev.to/sunnynk19/variables-in-javascript-3b6e)
+- [Dev.to/JS] [&#39;use strict&#39; in Javascript](https://dev.to/sunnynk19/use-strict-in-javascript-3618)
 - [Dev.to/JS] [Working with Async NodeJS](https://dev.to/shaikhkamran/working-with-async-nodejs-38ff)
 - [Dev.to/JS] [NetSuite Customization Services](https://dev.to/poojavnmt/netsuite-customization-services-4hbi)
 - [Dev.to/JS] [Node.js Nedir?](https://dev.to/natrenakres/nodejs-nedir-11gj)
 - [Dev.to/JS] [Developer Console](https://dev.to/sunnynk19/developer-console-30gm)
 - [Dev.to/JS] [Core JavaScript: Var vs. Let vs. Const](https://dev.to/ioanat94/core-javascript-var-vs-let-vs-const-39d7)
 - [Dev.to/JS] [React Coding Challenge Wednesday - Build A Pixel-Perfect Header &lpar;Incl Screencast&rpar;](https://dev.to/profydev/react-coding-challenge-wednesday-build-a-pixel-perfect-header-incl-screencast-4oe5)
-- [Dev.to/JS] [Browser Compatibility](https://dev.to/sunnynk19/browser-compatibility-4589)
-- [Dev.to/JS] [React Js Youtube Clone](https://dev.to/soulsaw1/react-js-youtube-clone-379j)
-- [Dev.to/JS] [Key Benefits of DevOps to boost business growth](https://dev.to/postwell45/key-benefits-of-devops-to-boost-business-growth-1ddi)
-- [Dev.to/JS] [How to Implement Previews with Nuxt Applications using a Strapi Backend](https://dev.to/strapi/how-to-implement-previews-with-nuxt-applications-using-a-strapi-backend-3nc)
-- [Dev.to/JS] [Amaros Skin Tag Remover - Shocking Results, Pros, Cons, Scam Or Legit?](https://dev.to/amarostag/amaros-skin-tag-remover-shocking-results-pros-cons-scam-or-legit-3l38)
-- [Dev.to/JS] [JS 移除陣列元素錯誤案例 | 用forEach搭配splice](https://dev.to/yubo0826/js-yi-chu-zhen-lie-yuan-su-cuo-wu-an-li-yong-foreachda-pei-splice-1ai5)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
 - [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
 - [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
-- [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)
-- [Lifehacker] [How to Handle Ragweed Season](https://lifehacker.com/how-to-handle-ragweed-season-1849491699)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)<!-- TECH-POSTS:END -->
 
 ---
 
