@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [RPG Simulator 20XX](https://dev.to/rmion/rpg-simulator-20xx-m9n)
+- [Lifehacker] [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)
+- [Dev.to/JS] [Parse HTML Strings with DOMParser in JavaScript](https://dev.to/dcodeyt/parse-html-strings-with-domparser-in-javascript-3bl6)
+- [Dev.to/JS] [Traefik middleware - Basic authentication](https://dev.to/lenra/traefik-middleware-basic-authentication-4147)
+- [Dev.to/JS] [How I Build ERP Software With Django](https://dev.to/hossainchisty/how-i-build-erp-software-with-django-2p23)
+- [Dev.to/JS] [looking for privy front-end projects that could be developed into full stack projects](https://dev.to/sahilind/looking-for-privy-front-end-projects-that-could-be-developed-into-full-stack-projects-4b44)
+- [Dev.to/JS] [Beautiful CSS pagination and how it&#39;s done](https://dev.to/designyff/beautiful-css-pagination-and-how-its-done-7np)
 - [Dev.to/JS] [Using Zustand to Manage State in React App](https://dev.to/teyim/using-zustand-to-manage-state-in-react-app-2iia)
 - [Lifehacker] [Eight of the Best Places to Celebrate Oktoberfest in the US](https://lifehacker.com/eight-of-the-best-places-to-celebrate-oktoberfest-in-th-1849484369)
 - [Dev.to/JS] [⚡️⚡️⚡️New React/Vue/Angular CRUD app codebase generator. Need your brutally honest feedback!](https://dev.to/stepnov/new-reactvueangular-crud-app-codebase-generator-3d80)
@@ -30,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let this script type instead of you when you record a video of your browser ⌨](https://dev.to/tolgee_i18n/let-this-script-type-instead-of-you-when-you-record-a-video-of-your-browser-25il)
 - [Dev.to/JS] [Variables in Javascript](https://dev.to/sunnynk19/variables-in-javascript-3b6e)
 - [Dev.to/JS] [&#39;use strict&#39; in Javascript](https://dev.to/sunnynk19/use-strict-in-javascript-3618)
-- [Dev.to/JS] [Working with Async NodeJS](https://dev.to/shaikhkamran/working-with-async-nodejs-38ff)
-- [Dev.to/JS] [NetSuite Customization Services](https://dev.to/poojavnmt/netsuite-customization-services-4hbi)
-- [Dev.to/JS] [Node.js Nedir?](https://dev.to/natrenakres/nodejs-nedir-11gj)
-- [Dev.to/JS] [Developer Console](https://dev.to/sunnynk19/developer-console-30gm)
-- [Dev.to/JS] [Core JavaScript: Var vs. Let vs. Const](https://dev.to/ioanat94/core-javascript-var-vs-let-vs-const-39d7)
-- [Dev.to/JS] [React Coding Challenge Wednesday - Build A Pixel-Perfect Header &lpar;Incl Screencast&rpar;](https://dev.to/profydev/react-coding-challenge-wednesday-build-a-pixel-perfect-header-incl-screencast-4oe5)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
 - [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)
 - [Lifehacker] [Use This Free Tool to Restore Faces in Old Family Photos](https://lifehacker.com/use-this-free-tool-to-restore-faces-in-old-family-photo-1849492377)
 - [Lifehacker] [How to Wash Memory Foam Pillows](https://lifehacker.com/how-to-wash-memory-foam-pillows-1849492367)
-- [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)
-- [Lifehacker] [How to Read a Blocked Website](https://lifehacker.com/how-to-read-a-blocked-website-1849492000)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Fall Travel Needs This Foliage Map](https://lifehacker.com/your-fall-travel-needs-this-foliage-map-1849492354)<!-- TECH-POSTS:END -->
 
 ---
 
