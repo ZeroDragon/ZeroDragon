@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [int32 to IPv4](https://dev.to/s_vibhor/int32-to-ipv4-46ia)
+- [Dev.to/JS] [GoGoAnime](https://dev.to/gogoanimelat/gogoanime-2aig)
+- [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
+- [Dev.to/JS] [Micro-frontend Pratical guide - Part 1](https://dev.to/rv90904/micro-frontend-pratical-guide-part-1-42k8)
 - [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)
 - [Dev.to/JS] [Epic Todo ✅](https://dev.to/webzth/epic-todo-2l3)
 - [Dev.to/JS] [Real-time chat app using Firebase, React, TailwindCSS, MongoDB, Express, and Socket.io](https://dev.to/earthcomfy/real-time-chat-app-using-firebase-react-tailwindcss-mongodb-nodeexpress-and-socketio-26n1)
@@ -36,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
 - [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
 - [Dev.to/JS] [Part 9: Set up the Node.js server to handle Elasticsearch requests](https://dev.to/lisahjung/part-9-set-up-the-nodejs-server-to-handle-elasticsearch-requests-5206)
-- [Dev.to/JS] [Part 7 : Set up the Node.js server to retrieve API data and send the data to Elasticsearch](https://dev.to/lisahjung/part-7-set-up-the-nodejs-server-to-retrieve-api-data-and-send-the-data-to-elasticsearch-50fm)
 - [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)
-- [Dev.to/JS] [Top 5 Angular tools and libraries 2022](https://dev.to/midgekim/top-5-angular-tools-and-libraries-2022-43im)
-- [Dev.to/JS] [Build a Web Paint Application](https://dev.to/anshika_gautam_/build-a-web-paint-application-5f55)
 - [Lifehacker] [You Should Experiment With a Little Hing](https://lifehacker.com/you-should-experiment-with-a-little-hing-1849505075)
 - [Lifehacker] [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)
 - [Lifehacker] [Eight of the Best Places to Celebrate Oktoberfest in the US](https://lifehacker.com/eight-of-the-best-places-to-celebrate-oktoberfest-in-th-1849484369)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Eat Cilantro Roots](https://lifehacker.com/you-should-eat-cilantro-roots-1849491217)
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
-- [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
-- [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)<!-- TECH-POSTS:END -->
 
 ---
 
