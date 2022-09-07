@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should I Do High Reps or Low Reps?](https://lifehacker.com/should-i-do-high-reps-or-low-reps-1849506311)
+- [Dev.to/JS] [Binary Tree Algorithms](https://dev.to/thiagocolen/binary-tree-algorithms-1cfp)
+- [Dev.to/JS] [Does Samsung Printer Services offer good customer service?](https://dev.to/jackaddy8/does-samsung-printer-services-offer-good-customer-service-4ocm)
+- [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)
+- [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)
 - [Dev.to/JS] [int32 to IPv4](https://dev.to/s_vibhor/int32-to-ipv4-46ia)
 - [Dev.to/JS] [GoGoAnime](https://dev.to/gogoanimelat/gogoanime-2aig)
 - [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
@@ -36,10 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Online delivery website](https://dev.to/ruthwekesa/online-delivery-website-431o)
 - [Dev.to/JS] [Responsive Dashboard Chart Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-dashboard-chart-using-html-css-javascript-273n)
 - [Dev.to/JS] [Create a blog with Vue 3 + Tailwindcss + Supabase](https://dev.to/guillaumeduhan/create-a-blog-with-vue-3-tailwindcss-supabase-1f02)
-- [Dev.to/JS] [React: Code splitting](https://dev.to/deogadkarravina/react-code-splitting-3c67)
 - [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
 - [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
-- [Dev.to/JS] [Part 9: Set up the Node.js server to handle Elasticsearch requests](https://dev.to/lisahjung/part-9-set-up-the-nodejs-server-to-handle-elasticsearch-requests-5206)
 - [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)
 - [Lifehacker] [You Should Experiment With a Little Hing](https://lifehacker.com/you-should-experiment-with-a-little-hing-1849505075)
 - [Lifehacker] [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Breaking Up With Someone](https://lifehacker.com/the-7-deadly-sins-of-breaking-up-with-someone-1849491290)
 - [Lifehacker] [The Easiest Ways to Entertain a Baby](https://lifehacker.com/the-easiest-ways-to-entertain-a-baby-1849492637)
 - [Lifehacker] [How to Keep Carpets From Polluting Your Indoor Air](https://lifehacker.com/how-to-keep-carpets-from-polluting-your-indoor-air-1849497372)
-- [Lifehacker] [You Should Eat Cilantro Roots](https://lifehacker.com/you-should-eat-cilantro-roots-1849491217)
-- [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
-- [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
-- [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Eat Cilantro Roots](https://lifehacker.com/you-should-eat-cilantro-roots-1849491217)<!-- TECH-POSTS:END -->
 
 ---
 
