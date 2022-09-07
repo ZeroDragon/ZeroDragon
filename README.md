@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No Build Required Tailwind alternative - Twind 🎏](https://dev.to/renhiyama/no-build-required-tailwind-alternative-twind-2ap7)
+- [Dev.to/JS] [GIT COMMIT -M &quot;First Blog&quot;](https://dev.to/ririio/git-commit-m-first-blog-5f48)
+- [Dev.to/JS] [Pokedex: Actualizar Vue de la versión 2 a la 3](https://dev.to/krsrk/pokedex-actualizar-vue-de-la-version-2-a-la-3-58gj)
+- [Dev.to/JS] [What are JSON Web Tokens for and how to use with Javascript?](https://dev.to/danilovilhena/what-are-json-web-tokens-for-2goi)
 - [Dev.to/JS] [Step by Step Wordle Creation With Codex AI](https://dev.to/mcsee/step-by-step-wordle-creation-with-codex-ai-25e9)
 - [Dev.to/JS] [DIGITAL CLOCK with JavaScript](https://dev.to/mbahvictor16/digital-clock-with-javascript-59m1)
 - [Dev.to/JS] [Static tweets — the better way to embed Twitter](https://dev.to/ikartik/static-tweets-the-better-way-to-embed-twitter-58g7)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Road to Frontend Developer Day 1](https://dev.to/hookkl21/the-road-to-frontend-developer-day-1-30n7)
 - [Dev.to/JS] [You Can&#39;t Learn TypeScript without JavaScript!!!](https://dev.to/tmchuynh/you-cant-learn-typescript-without-javascript-5fa5)
 - [Lifehacker] [How to Promote Your Work Without Sounding Like a Total Jerk](https://lifehacker.com/how-to-promote-your-work-online-without-sounding-like-a-1849501266)
-- [Dev.to/JS] [Vue.js Basics Part 6 | Components](https://dev.to/ahmetmeliksah/vuejs-basics-part-6-components-4864)
-- [Dev.to/JS] [SVG, Geometry — and a dash of JavaScript](https://dev.to/madsstoumann/svg-geometry-and-a-dash-of-javascript-3f9l)
 - [Lifehacker] [How to Kill at Karaoke Even If You Can’t Sing](https://lifehacker.com/how-to-kill-at-karaoke-even-if-you-can-t-sing-1849501417)
-- [Dev.to/JS] [JavaScript: promise](https://dev.to/rosiequ/javascript-promise-3109)
-- [Dev.to/JS] [5 JS Concepts you should know before Learning React](https://dev.to/mojodev/5-js-concepts-you-should-know-before-learning-react-1318)
 - [Lifehacker] [This Site Reviews Products After They Break](https://lifehacker.com/this-site-reviews-products-after-they-break-1849500233)
 - [Lifehacker] [Ten Surprising Ways to Use Q-tips That Don&#39;t Involve Your Ears](https://lifehacker.com/10-surprising-ways-to-use-q-tips-that-dont-involve-your-1849500647)
 - [Lifehacker] [This Treatment Protects Immunocompromised People From COVID](https://lifehacker.com/this-treatment-protects-immunocompromised-people-from-c-1849500894)
