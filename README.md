@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Amaros Skin Tag Remover - Shocking Results, Pros, Cons, Scam Or Legit?](https://dev.to/amarostag/amaros-skin-tag-remover-shocking-results-pros-cons-scam-or-legit-3l38)
+- [Dev.to/JS] [JS 移除陣列元素錯誤案例 | 用forEach搭配splice](https://dev.to/yubo0826/js-yi-chu-zhen-lie-yuan-su-cuo-wu-an-li-yong-foreachda-pei-splice-1ai5)
 - [Dev.to/JS] [4 Ways Data Science is Improving Environment Innovation](https://dev.to/rohitrohi12/4-ways-data-science-is-improving-environment-innovation-1b04)
 - [Dev.to/JS] [How to Use the Filter&lpar;&rpar; function](https://dev.to/jc0808/how-to-use-the-filter-function-3pfh)
 - [Dev.to/JS] [I created my portfolio web in react js⚛️](https://dev.to/sripadhs/i-created-my-portfolio-web-in-react-js-5a70)
 - [Dev.to/JS] [React Hooks in Angular?! Share Lifecycle Methods Between Components in Angular](https://dev.to/this-is-angular/react-hooks-in-angular-share-lifecycle-methods-between-components-in-angular-5152)
 - [Dev.to/JS] [Transfer @handler &amp; Hashtags in text into clickable links - JavaScript](https://dev.to/humaidanhamad/transfer-handler-hashtags-in-text-into-clickable-links-javascript-57al)
+- [Dev.to/JS] [How To Set Up .gitignore for Your JavaScript Project](https://dev.to/how-to-dev/how-to-set-up-gitignore-for-your-javascript-project-4dgd)
 - [Dev.to/JS] [Err: fetching data via API works on localhost but doesn&#39;t work on live server](https://dev.to/okolievans/err-fetching-data-via-api-works-on-localhost-but-doesnt-work-on-live-serve-1cji)
 - [Dev.to/JS] [Component Interactivity in angular 14](https://dev.to/xenxei46/component-interactivity-in-angular-14-34ol)
 - [Dev.to/JS] [What&#39;s up with rfd!?](https://dev.to/100terres/whats-up-with-rfd-578a)
 - [Dev.to/JS] [Detect When Users Switch Tabs using JavaScript](https://dev.to/j471n/detect-when-users-switch-tabs-using-javascript-3mi3)
-- [Dev.to/JS] [Vue.js Basics Part 8 | Emit](https://dev.to/ahmetmeliksah/vuejs-basics-part-8-slots-28ff)
-- [Dev.to/JS] [Check Cyclic LinkedList - I](https://dev.to/zeeshanali0704/check-cyclic-linkedlist-i-3j8e)
-- [Dev.to/JS] [Merge Two Sorted Linked List - I](https://dev.to/zeeshanali0704/merge-two-linked-list-i-40fh)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
 - [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
