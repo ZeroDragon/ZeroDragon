@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Step by Step Wordle Creation With Codex AI](https://dev.to/mcsee/step-by-step-wordle-creation-with-codex-ai-25e9)
 - [Dev.to/JS] [DIGITAL CLOCK with JavaScript](https://dev.to/mbahvictor16/digital-clock-with-javascript-59m1)
 - [Dev.to/JS] [Static tweets — the better way to embed Twitter](https://dev.to/ikartik/static-tweets-the-better-way-to-embed-twitter-58g7)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Kill at Karaoke Even If You Can’t Sing](https://lifehacker.com/how-to-kill-at-karaoke-even-if-you-can-t-sing-1849501417)
 - [Dev.to/JS] [JavaScript: promise](https://dev.to/rosiequ/javascript-promise-3109)
 - [Dev.to/JS] [5 JS Concepts you should know before Learning React](https://dev.to/mojodev/5-js-concepts-you-should-know-before-learning-react-1318)
-- [Dev.to/JS] [Progressive Web Apps: Let’s Make Something Installable](https://dev.to/mojodev/progressive-web-apps-lets-make-something-installable-2p9m)
 - [Lifehacker] [This Site Reviews Products After They Break](https://lifehacker.com/this-site-reviews-products-after-they-break-1849500233)
 - [Lifehacker] [Ten Surprising Ways to Use Q-tips That Don&#39;t Involve Your Ears](https://lifehacker.com/10-surprising-ways-to-use-q-tips-that-dont-involve-your-1849500647)
 - [Lifehacker] [This Treatment Protects Immunocompromised People From COVID](https://lifehacker.com/this-treatment-protects-immunocompromised-people-from-c-1849500894)
