@@ -23,22 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)
+- [Dev.to/JS] [Epic Todo ✅](https://dev.to/webzth/epic-todo-2l3)
+- [Dev.to/JS] [Real-time chat app using Firebase, React, TailwindCSS, MongoDB, Express, and Socket.io](https://dev.to/earthcomfy/real-time-chat-app-using-firebase-react-tailwindcss-mongodb-nodeexpress-and-socketio-26n1)
+- [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)
+- [Dev.to/JS] [Learning and Understanding &lpar;sue-doe-code&rpar;](https://dev.to/2alphasierra/learning-and-understanding-sue-doe-code-1d0h)
+- [Dev.to/JS] [What i learnt from my first software development project...](https://dev.to/jacklinekariuki/what-i-learnt-from-my-first-software-development-project-jea)
+- [Dev.to/JS] [Online delivery website](https://dev.to/ruthwekesa/online-delivery-website-431o)
+- [Dev.to/JS] [Responsive Dashboard Chart Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-dashboard-chart-using-html-css-javascript-273n)
+- [Dev.to/JS] [Create a blog with Vue 3 + Tailwindcss + Supabase](https://dev.to/guillaumeduhan/create-a-blog-with-vue-3-tailwindcss-supabase-1f02)
+- [Dev.to/JS] [React: Code splitting](https://dev.to/deogadkarravina/react-code-splitting-3c67)
+- [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
 - [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
 - [Dev.to/JS] [Part 9: Set up the Node.js server to handle Elasticsearch requests](https://dev.to/lisahjung/part-9-set-up-the-nodejs-server-to-handle-elasticsearch-requests-5206)
 - [Dev.to/JS] [Part 7 : Set up the Node.js server to retrieve API data and send the data to Elasticsearch](https://dev.to/lisahjung/part-7-set-up-the-nodejs-server-to-retrieve-api-data-and-send-the-data-to-elasticsearch-50fm)
 - [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)
 - [Dev.to/JS] [Top 5 Angular tools and libraries 2022](https://dev.to/midgekim/top-5-angular-tools-and-libraries-2022-43im)
 - [Dev.to/JS] [Build a Web Paint Application](https://dev.to/anshika_gautam_/build-a-web-paint-application-5f55)
-- [Dev.to/JS] [I&#39;ve looked at 14,000,605 scenarios and Max wins every time](https://dev.to/tracinginsights/ive-looked-at-14000605-scenarios-and-max-wins-every-time-4hmh)
-- [Dev.to/JS] [Thunder Fox: I recreated the first game I played in JavaScript](https://dev.to/livramatheus/thunder-fox-i-recreated-the-first-game-i-played-in-javascript-a68)
-- [Dev.to/JS] [The ultimate guide to State Management with React](https://dev.to/jvzaniolo/the-ultimate-guide-to-state-management-with-react-3p6n)
-- [Dev.to/JS] [SEO Deep Dive in Next.js](https://dev.to/kulkarniankita9/seo-deep-dive-in-nextjs-2f8g)
 - [Lifehacker] [You Should Experiment With a Little Hing](https://lifehacker.com/you-should-experiment-with-a-little-hing-1849505075)
-- [Dev.to/JS] [My blog](https://dev.to/ruthwekesa/my-blog-51ep)
-- [Dev.to/JS] [RPG Simulator 20XX](https://dev.to/rmion/rpg-simulator-20xx-m9n)
 - [Lifehacker] [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)
-- [Dev.to/JS] [Parse HTML Strings with DOMParser in JavaScript](https://dev.to/dcodeyt/parse-html-strings-with-domparser-in-javascript-3bl6)
-- [Dev.to/JS] [Traefik middleware - Basic authentication](https://dev.to/lenra/traefik-middleware-basic-authentication-4147)
 - [Lifehacker] [Eight of the Best Places to Celebrate Oktoberfest in the US](https://lifehacker.com/eight-of-the-best-places-to-celebrate-oktoberfest-in-th-1849484369)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove Tar Stains From Your Carpet](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [You Should Be Dunking Your Plants](https://lifehacker.com/you-should-be-dunking-your-plants-1849494129)
-- [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)
-- [Lifehacker] [Use This September Garden Checklist to Get Ready for Fall](https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154)
-- [Lifehacker] [How to Paint Your Boring, White Plastic Outlet Covers](https://lifehacker.com/how-to-paint-your-boring-white-plastic-outlet-covers-1849494151)
-- [Lifehacker] [Hypoallergenic Dogs Don&#39;t Exist, But These Breeds Are the Most Allergy-Friendly](https://lifehacker.com/hypoallergenic-dogs-dont-exist-but-these-breeds-are-th-1849494147)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [John Mccarthy Biography – Father of AI](https://www.thecrazyprogrammer.com/2022/09/john-mccarthy-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
