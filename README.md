@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Password Generator In JavaScript](https://dev.to/patelrohan750/how-to-make-password-generator-in-javascript-177l)
+- [Dev.to/JS] [Blog-template made with EJS, Node.js &amp; Express.js](https://dev.to/efecollins/blog-template-made-with-ejs-nodejs-expressjs-d38)
+- [Dev.to/JS] [Typescript Series -Utility Type ReturnType](https://dev.to/sarmunbustillo/typescript-series-utility-type-returntype-20hn)
+- [Dev.to/JS] [Blog-template made with EJS, Node.js &amp; Express.js](https://dev.to/efecollins/blog-template-made-with-ejs-nodejs-expressjs-eje)
 - [Dev.to/JS] [Is there a reason to use == over ===?](https://dev.to/mellen/is-there-a-reason-to-use-over--8k4)
 - [Dev.to/JS] [Using DOM manipulation to style an element in JavaScript](https://dev.to/nechey/using-dom-manipulation-to-style-an-element-in-javascript-2jm7)
 - [Dev.to/JS] [Custom Hooks: level up your React code](https://dev.to/mitchelmore/custom-hooks-level-up-your-react-code-3ca)
 - [Dev.to/JS] [Looping through objects in javascript](https://dev.to/dhanushnehru/looping-through-objects-in-javascript-41eg)
 - [Dev.to/JS] [JavaScript greetings: Hello World!](https://dev.to/crispitipina/javascript-greetings-hello-world-1dp9)
-- [Dev.to/JS] [I NEED A BLANK ATM CARD 2022... Whatsapp: +18033921735](https://dev.to/elizabethadd/i-need-a-blank-atm-card-2022-whatsapp-18033921735-417b)
 - [Dev.to/JS] [What is React Native?](https://dev.to/orimo/what-is-react-native-cpp)
-- [Dev.to/JS] [Nice To Meet You](https://dev.to/bukharealsaif/nice-to-meet-you-3p63)
 - [Dev.to/JS] [How to Deploy Strapi MySQL on a Traditional Hosting Provider](https://dev.to/strapi/how-to-deploy-strapi-mysql-on-a-traditional-hosting-provider-25l4)
 - [Dev.to/JS] [Reading time calculator tool](https://dev.to/tipseason/reading-time-calculator-tool-3li2)
-- [Dev.to/JS] [Me &amp; React: 5 years in 15 minutes](https://dev.to/valeriavg/me-react-5-years-in-15-minutes-58od)
-- [Dev.to/JS] [Coding Period GSoC&#39;22 | Week 10 + 11](https://dev.to/pulkit30/coding-period-gsoc22-week-10-11-3ep8)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
