@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [50+ Awesome tools for Web Developers](https://dev.to/surajondev/50-awesome-tools-for-web-developers-5gan)
+- [Dev.to/JS] [Load Time Optimization Techniques for React Apps](https://dev.to/ankitsingh706/load-time-optimization-techniques-for-react-apps-2el6)
+- [Dev.to/JS] [JavaScript Tips and Tricks You need to Know 💯️🚀️](https://dev.to/devsyedmohsin/javascript-tips-and-tricks-you-need-to-know-1g2k)
+- [Dev.to/JS] [How to deploy a Node.js app to Azure](https://dev.to/steinbring/how-to-deploy-a-nodejs-app-to-azure-an0)
 - [Dev.to/JS] [title](https://dev.to/dangphuc141101/title-5f19)
 - [Dev.to/JS] [How To Handle Modal Dialog Box In Selenium WebDriver Java](https://dev.to/lambdatest/how-to-handle-modal-dialog-box-in-selenium-webdriver-java-3gke)
 - [Dev.to/JS] [Event Driven Architecture, the best paradigm that i love to work with in javascript and Node js](https://dev.to/hassanzohdy/event-driven-architecture-the-best-paradigm-that-i-love-to-work-with-in-javascript-and-node-js-1gnk)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Series -Utility Type ReturnType](https://dev.to/sarmunbustillo/typescript-series-utility-type-returntype-20hn)
 - [Dev.to/JS] [Blog-template made with EJS, Node.js &amp; Express.js](https://dev.to/efecollins/blog-template-made-with-ejs-nodejs-expressjs-eje)
 - [Dev.to/JS] [Is there a reason to use == over ===?](https://dev.to/mellen/is-there-a-reason-to-use-over--8k4)
-- [Dev.to/JS] [Using DOM manipulation to style an element in JavaScript](https://dev.to/nechey/using-dom-manipulation-to-style-an-element-in-javascript-2jm7)
-- [Dev.to/JS] [Custom Hooks: level up your React code](https://dev.to/mitchelmore/custom-hooks-level-up-your-react-code-3ca)
-- [Dev.to/JS] [Looping through objects in javascript](https://dev.to/dhanushnehru/looping-through-objects-in-javascript-41eg)
-- [Dev.to/JS] [JavaScript greetings: Hello World!](https://dev.to/crispitipina/javascript-greetings-hello-world-1dp9)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
