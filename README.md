@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s the Future of PHP?](https://dev.to/ijsucceed/whats-the-future-of-php-3l20)
+- [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)
 - [Dev.to/JS] [Let&#39;s visualize time-on-site captured with timeonsite.js using free &quot;Visual tool&quot; -part 2](https://dev.to/saleemkce/lets-visualize-time-on-site-captured-with-timeonsitejs-using-free-visual-tool-part-2-511f)
 - [Dev.to/JS] [The Reduce&lpar;&rpar; method JS basics simplified.](https://dev.to/jlubiba/the-reduce-method-js-basics-simplified-1c5f)
 - [Dev.to/JS] [Newbie in javascript, any piece of advice?](https://dev.to/salwa/newbie-in-javascript-any-piece-of-advice-2mgh)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell When You’ve Outgrown Your Relationship](https://lifehacker.com/how-to-tell-when-you-ve-outgrown-your-relationship-1849508154)
 - [Dev.to/JS] [Functional DOM Manipulation](https://dev.to/theharshsingh/functional-dom-manipulation-4bl3)
 - [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)
-- [Dev.to/JS] [chalk equivalent in Flask](https://dev.to/bam92/chalk-equivalent-in-flask-2apb)
 - [Lifehacker] [How Illegal Is It to Have Sex in Public?](https://lifehacker.com/how-illegal-is-it-to-have-sex-in-public-1849507583)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight of the Best Places to Celebrate Oktoberfest in the US](https://lifehacker.com/eight-of-the-best-places-to-celebrate-oktoberfest-in-th-1849484369)
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
-- [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
-- [Lifehacker] [How to Promote Your Work Without Sounding Like a Total Jerk](https://lifehacker.com/how-to-promote-your-work-online-without-sounding-like-a-1849501266)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)<!-- TECH-POSTS:END -->
 
 ---
 
