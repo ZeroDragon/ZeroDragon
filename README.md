@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Formateando fechas en Javascript](https://dev.to/matiasfha/formateando-fechas-en-javascript-35do)
+- [Dev.to/JS] [How to Detect Outside Clicks in Vue](https://dev.to/tahazsh/how-to-detect-outside-clicks-in-vue-gdj)
+- [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)
+- [Dev.to/JS] [Micro-frontend Pratical guide - Part 2](https://dev.to/rv90904/micro-frontend-pratical-guide-part-2-3262)
+- [Dev.to/JS] [Do you need global state?](https://dev.to/mitchelmore/do-you-need-global-state-8i1)
+- [Dev.to/JS] [Supercharging TailwindCSS: Building reusable components that scale](https://dev.to/mitchelmore/supercharging-tailwindcss-building-reusable-components-that-scale-50b0)
 - [Lifehacker] [How to Tell When You’ve Outgrown Your Relationship](https://lifehacker.com/how-to-tell-when-you-ve-outgrown-your-relationship-1849508154)
 - [Dev.to/JS] [Functional DOM Manipulation](https://dev.to/theharshsingh/functional-dom-manipulation-4bl3)
 - [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Array Methods](https://dev.to/shubhamtiwari909/js-array-methods-51nm)
 - [Dev.to/JS] [JavaScript Objects vs. Maps](https://dev.to/syncfusion/javascript-objects-vs-maps-15hd)
 - [Dev.to/JS] [50+ Awesome tools for Web Developers](https://dev.to/surajondev/50-awesome-tools-for-web-developers-5gan)
-- [Dev.to/JS] [Load Time Optimization Techniques for React Apps](https://dev.to/ankitsingh706/load-time-optimization-techniques-for-react-apps-2el6)
-- [Dev.to/JS] [JavaScript Tips and Tricks You May Need To Know 💯️🚀️](https://dev.to/devsyedmohsin/javascript-tips-and-tricks-you-need-to-know-1g2k)
-- [Dev.to/JS] [How to deploy a Node.js app to Azure](https://dev.to/steinbring/how-to-deploy-a-nodejs-app-to-azure-an0)
-- [Dev.to/JS] [title](https://dev.to/dangphuc141101/title-5f19)
-- [Dev.to/JS] [How To Handle Modal Dialog Box In Selenium WebDriver Java](https://dev.to/lambdatest/how-to-handle-modal-dialog-box-in-selenium-webdriver-java-3gke)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Promote Your Work Without Sounding Like a Total Jerk](https://lifehacker.com/how-to-promote-your-work-online-without-sounding-like-a-1849501266)
 - [Lifehacker] [How to Kill at Karaoke Even If You Can’t Sing](https://lifehacker.com/how-to-kill-at-karaoke-even-if-you-can-t-sing-1849501417)
 - [Lifehacker] [This Site Reviews Products After They Break](https://lifehacker.com/this-site-reviews-products-after-they-break-1849500233)
-- [Lifehacker] [Ten Surprising Ways to Use Q-tips That Don&#39;t Involve Your Ears](https://lifehacker.com/10-surprising-ways-to-use-q-tips-that-dont-involve-your-1849500647)
-- [Lifehacker] [This Treatment Protects Immunocompromised People From COVID](https://lifehacker.com/this-treatment-protects-immunocompromised-people-from-c-1849500894)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ten Surprising Ways to Use Q-tips That Don&#39;t Involve Your Ears](https://lifehacker.com/10-surprising-ways-to-use-q-tips-that-dont-involve-your-1849500647)<!-- TECH-POSTS:END -->
 
 ---
 
