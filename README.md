@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array Methods In JS](https://dev.to/ipa22751/array-methods-in-js-15bk)
 - [Dev.to/JS] [How To: Issue Triage via Phylum Extensions](https://dev.to/phylum/how-to-issue-triage-via-phylum-extensions-2g93)
 - [Dev.to/JS] [How to get Girlfriend as a Developer](https://dev.to/suyashvash/how-to-get-girlfriend-as-a-developer-100f)
 - [Dev.to/JS] [CamelCase to normal String in JavaScript](https://dev.to/suyashvash/camelcase-to-normal-string-in-javascript-592g)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)
 - [Dev.to/JS] [Migrating from Cypress to Playwright using GPT3](https://dev.to/gajus/migrating-from-cypress-to-playwright-using-gpt3-4mha)
 - [Lifehacker] [Should I Do High Reps or Low Reps?](https://lifehacker.com/should-i-do-high-reps-or-low-reps-1849506311)
-- [Dev.to/JS] [Binary Tree Algorithms](https://dev.to/thiagocolen/binary-tree-algorithms-1cfp)
 - [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)
 - [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)
 - [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
