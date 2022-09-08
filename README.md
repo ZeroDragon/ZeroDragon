@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Hooks 1: useState, useEffect, useContext, useRef &amp; useReducer](https://dev.to/carolinacobo/react-hooks-1-usestate-useeffect-usecontext-useref-usereducer-2be2)
+- [Dev.to/JS] [How to Convert a React Component to an Image](https://dev.to/saranshk/how-to-convert-a-react-component-to-an-image-2jon)
+- [Dev.to/JS] [Perimeters of squares in a rectangle](https://dev.to/s_vibhor/perimeters-of-squares-in-a-rectangle-1o5n)
+- [Lifehacker] [These Sensory Activities Won&#39;t Make a Giant Mess of Your Home](https://lifehacker.com/these-sensory-activities-wont-make-a-giant-mess-of-your-1849512089)
+- [Lifehacker] [Why You Feel Cranky on Your Rest Days &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-feel-cranky-on-your-rest-days-and-what-to-do-a-1849512300)
 - [Dev.to/JS] [Pokedex: Migración de Mix a Vite](https://dev.to/krsrk/pokedex-migracion-de-mix-a-vite-40ab)
 - [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)
 - [Lifehacker] [11 Innovative Podcasts to Listen to If You&#39;re Bored With Podcasts](https://lifehacker.com/11-innovative-podcasts-to-listen-to-if-youre-bored-with-1849512142)
@@ -32,16 +37,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Reduce&lpar;&rpar; method JS basics simplified.](https://dev.to/jlubiba/the-reduce-method-js-basics-simplified-1c5f)
 - [Dev.to/JS] [Newbie in javascript, any piece of advice?](https://dev.to/salwa/newbie-in-javascript-any-piece-of-advice-2mgh)
 - [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)
-- [Lifehacker] [Here’s What Will Happen When the Queen Dies](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)
+- [Lifehacker] [Here’s What Happens After the Queen&#39;s Death](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)
 - [Dev.to/JS] [How possibility to create a curd website?](https://dev.to/aayusranjan/how-possibility-to-create-a-curd-website-b9o)
 - [Dev.to/JS] [Undefined and Null are two dinstinct data types in javascript ...check the difference 👇](https://dev.to/eoluwaseun/undefined-and-null-are-two-dinstinct-data-types-in-javascript-check-the-difference-4l8p)
 - [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)
 - [Dev.to/JS] [Formateando fechas en Javascript](https://dev.to/matiasfha/formateando-fechas-en-javascript-35do)
 - [Dev.to/JS] [How to Detect Outside Clicks in Vue](https://dev.to/tahazsh/how-to-detect-outside-clicks-in-vue-gdj)
 - [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)
-- [Dev.to/JS] [Micro-frontend Pratical guide - Part 2](https://dev.to/rv90904/micro-frontend-pratical-guide-part-2-3262)
-- [Dev.to/JS] [Do you need global state?](https://dev.to/mitchelmore/do-you-need-global-state-8i1)
-- [Dev.to/JS] [Supercharging TailwindCSS: Building reusable components that scale](https://dev.to/mitchelmore/supercharging-tailwindcss-building-reusable-components-that-scale-50b0)
 - [Lifehacker] [How to Tell When You’ve Outgrown Your Relationship](https://lifehacker.com/how-to-tell-when-you-ve-outgrown-your-relationship-1849508154)
 - [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)
 - [Lifehacker] [How Illegal Is It to Have Sex in Public?](https://lifehacker.com/how-illegal-is-it-to-have-sex-in-public-1849507583)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
 - [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)
 - [Lifehacker] [You Should Experiment With a Little Hing](https://lifehacker.com/you-should-experiment-with-a-little-hing-1849505075)
-- [Lifehacker] [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)
-- [Lifehacker] [Eight of the Best Places to Celebrate Oktoberfest in the US](https://lifehacker.com/eight-of-the-best-places-to-celebrate-oktoberfest-in-th-1849484369)
-- [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)<!-- TECH-POSTS:END -->
 
 ---
 
