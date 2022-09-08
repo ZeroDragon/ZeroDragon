@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Kim recipes](https://dev.to/kimutai01/kim-recipes-28if)
+- [Dev.to/JS] [Most Important JavaScript Array Iteration Methods.](https://dev.to/zubairgujjar997/most-important-javascript-array-iteration-methods-4e36)
 - [Dev.to/JS] [Detect Cycle LinkedList - II](https://dev.to/zeeshanali0704/detect-cycle-linkedlist-ii-2g1l)
 - [Dev.to/JS] [How to deploy and publish to NPM your own React Components library](https://dev.to/pavlov/how-to-deploy-and-publish-to-npm-your-own-react-components-library-h1)
 - [Dev.to/JS] [JS que aprendí en SoyHenry 🙂: ¿Qué es el Sintax Parser: Lexical Enviroment?](https://dev.to/soyrafael/js-avanzado-que-es-el-sintax-parser-lexical-enviroment-1dei)
@@ -33,10 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array Methods In JS](https://dev.to/ipa22751/array-methods-in-js-15bk)
 - [Dev.to/JS] [How To: Issue Triage via Phylum Extensions](https://dev.to/phylum/how-to-issue-triage-via-phylum-extensions-2g93)
 - [Dev.to/JS] [How to get Girlfriend as a Developer](https://dev.to/suyashvash/how-to-get-girlfriend-as-a-developer-100f)
-- [Dev.to/JS] [CamelCase to normal String in JavaScript](https://dev.to/suyashvash/camelcase-to-normal-string-in-javascript-592g)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
-- [Dev.to/JS] [5 great tools for React developers in 2022](https://dev.to/danilovilhena/5-great-tools-for-react-developers-in-2022-1k93)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
 - [Lifehacker] [6 Ways to Know If You&#39;re the Toxic One in a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
 - [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)
