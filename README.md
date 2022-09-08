@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Empezando el Bootcamp de soyHenry💛 #100DaysOfCode](https://dev.to/soyrafael/1er-dia-en-bootcamp-soyhenry-100daysofcode-105m)
+- [Dev.to/JS] [Vue.js Basics Part 9 | Slots](https://dev.to/ahmetmeliksah/vuejs-basics-part-9-slots-21o8)
 - [Dev.to/JS] [Running Promises in Series with a delay between each to bypass API rate limit](https://dev.to/farminf/running-promises-in-series-with-a-delay-between-each-to-bypass-api-rate-limit-55hf)
 - [Dev.to/JS] [Why haven’t PWAs killed native Apps Yet?](https://dev.to/progressier/why-havent-pwas-killed-native-apps-yet-378o)
 - [Dev.to/JS] [Array Methods In JS](https://dev.to/ipa22751/array-methods-in-js-15bk)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dive into the Open Source](https://dev.to/rudychung/dive-into-the-open-source-gb5)
 - [Dev.to/JS] [Separation of Concerns and Single Source of Truth — writing cleaner code.](https://dev.to/jaguilar89/separation-of-concerns-and-single-source-of-truth-writing-cleaner-code-oo6)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
-- [Dev.to/JS] [Explaining composable frontends simply](https://dev.to/richkurtzman/explaining-composable-frontends-simply-1na1)
-- [Dev.to/JS] [How to Copy Text to Clipboard using JavaScript?](https://dev.to/shameerchagani/how-to-copy-text-to-clipboard-using-javascript-4k40)
 - [Lifehacker] [6 Ways to Know If You&#39;re the Toxic One in a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
 - [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)
 - [Lifehacker] [Should I Do High Reps or Low Reps?](https://lifehacker.com/should-i-do-high-reps-or-low-reps-1849506311)
