@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS Filter Functions](https://dev.to/moreno8423/css-filter-functions-3b75)
+- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Dev.to/JS] [It’s 2022, don’t use console.log anymore but this](https://dev.to/naubit/its-2022-dont-use-consolelog-anymore-but-this-eef)
 - [Dev.to/JS] [Open Source Contribution](https://dev.to/hat52/open-source-contribution-23n2)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)
 - [Lifehacker] [Here’s What Happens After the Queen&#39;s Death](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)
 - [Dev.to/JS] [How possibility to create a curd website?](https://dev.to/aayusranjan/how-possibility-to-create-a-curd-website-b9o)
-- [Dev.to/JS] [Undefined and Null are two dinstinct data types in javascript ...check the difference 👇](https://dev.to/eoluwaseun/undefined-and-null-are-two-dinstinct-data-types-in-javascript-check-the-difference-4l8p)
 - [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)
 - [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)
 - [Lifehacker] [How to Tell When You’ve Outgrown Your Relationship](https://lifehacker.com/how-to-tell-when-you-ve-outgrown-your-relationship-1849508154)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)
 - [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)
 - [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
-- [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
-- [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)<!-- TECH-POSTS:END -->
 
 ---
 
