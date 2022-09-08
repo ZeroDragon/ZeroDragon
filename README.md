@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running Promises in Series with a delay between each to bypass API rate limit](https://dev.to/farminf/running-promises-in-series-with-a-delay-between-each-to-bypass-api-rate-limit-55hf)
+- [Dev.to/JS] [Why haven’t PWAs killed native Apps Yet?](https://dev.to/progressier/why-havent-pwas-killed-native-apps-yet-378o)
 - [Dev.to/JS] [Array Methods In JS](https://dev.to/ipa22751/array-methods-in-js-15bk)
 - [Dev.to/JS] [How To: Issue Triage via Phylum Extensions](https://dev.to/phylum/how-to-issue-triage-via-phylum-extensions-2g93)
 - [Dev.to/JS] [How to get Girlfriend as a Developer](https://dev.to/suyashvash/how-to-get-girlfriend-as-a-developer-100f)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explaining composable frontends simply](https://dev.to/richkurtzman/explaining-composable-frontends-simply-1na1)
 - [Dev.to/JS] [How to Copy Text to Clipboard using JavaScript?](https://dev.to/shameerchagani/how-to-copy-text-to-clipboard-using-javascript-4k40)
 - [Lifehacker] [6 Ways to Know If You&#39;re the Toxic One in a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
-- [Dev.to/JS] [Road to Front-end Developer Day2](https://dev.to/hookkl21/road-to-front-end-developer-day2-31n9)
 - [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)
-- [Dev.to/JS] [Migrating from Cypress to Playwright using GPT3](https://dev.to/gajus/migrating-from-cypress-to-playwright-using-gpt3-4mha)
 - [Lifehacker] [Should I Do High Reps or Low Reps?](https://lifehacker.com/should-i-do-high-reps-or-low-reps-1849506311)
 - [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)
 - [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)
