@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It’s 2022, don’t use console.log anymore but this](https://dev.to/naubit/its-2022-dont-use-consolelog-anymore-but-this-eef)
+- [Dev.to/JS] [Open Source Contribution](https://dev.to/hat52/open-source-contribution-23n2)
+- [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
+- [Lifehacker] [Why the iPhone 14&#39;s eSIM Might Be a Problem for You](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
 - [Dev.to/JS] [React Hooks 1: useState, useEffect, useContext, useRef &amp; useReducer](https://dev.to/carolinacobo/react-hooks-1-usestate-useeffect-usecontext-useref-usereducer-2be2)
 - [Dev.to/JS] [How to Convert a React Component to an Image](https://dev.to/saranshk/how-to-convert-a-react-component-to-an-image-2jon)
 - [Dev.to/JS] [Perimeters of squares in a rectangle](https://dev.to/s_vibhor/perimeters-of-squares-in-a-rectangle-1o5n)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How possibility to create a curd website?](https://dev.to/aayusranjan/how-possibility-to-create-a-curd-website-b9o)
 - [Dev.to/JS] [Undefined and Null are two dinstinct data types in javascript ...check the difference 👇](https://dev.to/eoluwaseun/undefined-and-null-are-two-dinstinct-data-types-in-javascript-check-the-difference-4l8p)
 - [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)
-- [Dev.to/JS] [Formateando fechas en Javascript](https://dev.to/matiasfha/formateando-fechas-en-javascript-35do)
-- [Dev.to/JS] [How to Detect Outside Clicks in Vue](https://dev.to/tahazsh/how-to-detect-outside-clicks-in-vue-gdj)
 - [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)
 - [Lifehacker] [How to Tell When You’ve Outgrown Your Relationship](https://lifehacker.com/how-to-tell-when-you-ve-outgrown-your-relationship-1849508154)
 - [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)
 - [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
 - [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)
-- [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)
-- [Lifehacker] [You Should Experiment With a Little Hing](https://lifehacker.com/you-should-experiment-with-a-little-hing-1849505075)
-- [Lifehacker] [You Can Now Copy Text From Images on Windows](https://lifehacker.com/you-can-now-copy-text-from-images-on-windows-1849504993)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everyone Can Finally Play PS5 in 1440p](https://lifehacker.com/everyone-can-finally-play-ps5-in-1440p-1849505050)<!-- TECH-POSTS:END -->
 
 ---
 
