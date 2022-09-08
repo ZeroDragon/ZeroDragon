@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is React Native?](https://dev.to/orimo/what-is-react-native-cpp)
+- [Dev.to/JS] [Nice To Meet You](https://dev.to/bukharealsaif/nice-to-meet-you-3p63)
+- [Dev.to/JS] [How to Deploy Strapi MySQL on a Traditional Hosting Provider](https://dev.to/strapi/how-to-deploy-strapi-mysql-on-a-traditional-hosting-provider-25l4)
+- [Dev.to/JS] [Reading time calculator tool](https://dev.to/tipseason/reading-time-calculator-tool-3li2)
 - [Dev.to/JS] [Me &amp; React: 5 years in 15 minutes](https://dev.to/valeriavg/me-react-5-years-in-15-minutes-58od)
 - [Dev.to/JS] [Coding Period GSoC&#39;22 | Week 10 + 11](https://dev.to/pulkit30/coding-period-gsoc22-week-10-11-3ep8)
 - [Dev.to/JS] [KeyCode Finder](https://dev.to/thisissherlock1/keycode-finder-11mf)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Kim recipes](https://dev.to/kimutai01/kim-recipes-28if)
 - [Dev.to/JS] [Most Important JavaScript Array Iteration Methods.](https://dev.to/zubairgujjar997/most-important-javascript-array-iteration-methods-4e36)
 - [Dev.to/JS] [Detect Cycle LinkedList - II](https://dev.to/zeeshanali0704/detect-cycle-linkedlist-ii-2g1l)
-- [Dev.to/JS] [How to deploy and publish to NPM your own React Components library](https://dev.to/pavlov/how-to-deploy-and-publish-to-npm-your-own-react-components-library-h1)
-- [Dev.to/JS] [JS que aprendí en SoyHenry 🙂: ¿Qué es el Sintax Parser: Lexical Enviroment?](https://dev.to/soyrafael/js-avanzado-que-es-el-sintax-parser-lexical-enviroment-1dei)
-- [Dev.to/JS] [Empezando el Bootcamp de soyHenry💛 #100DaysOfCode](https://dev.to/soyrafael/1er-dia-en-bootcamp-soyhenry-100daysofcode-105m)
-- [Dev.to/JS] [Vue.js Basics Part 9 | Slots](https://dev.to/ahmetmeliksah/vuejs-basics-part-9-slots-21o8)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
