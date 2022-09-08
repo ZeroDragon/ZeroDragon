@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s visualize time-on-site captured with timeonsite.js using free &quot;Visual tool&quot; -part 2](https://dev.to/saleemkce/lets-visualize-time-on-site-captured-with-timeonsitejs-using-free-visual-tool-part-2-511f)
+- [Dev.to/JS] [The Reduce&lpar;&rpar; method JS basics simplified.](https://dev.to/jlubiba/the-reduce-method-js-basics-simplified-1c5f)
+- [Dev.to/JS] [Newbie in javascript, any piece of advice?](https://dev.to/salwa/newbie-in-javascript-any-piece-of-advice-2mgh)
+- [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)
+- [Lifehacker] [Here’s What Will Happen When the Queen Dies](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)
+- [Dev.to/JS] [How possibility to create a curd website?](https://dev.to/aayusranjan/how-possibility-to-create-a-curd-website-b9o)
+- [Dev.to/JS] [Undefined and Null are two dinstinct data types in javascript ...check the difference 👇](https://dev.to/eoluwaseun/undefined-and-null-are-two-dinstinct-data-types-in-javascript-check-the-difference-4l8p)
+- [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)
 - [Dev.to/JS] [Formateando fechas en Javascript](https://dev.to/matiasfha/formateando-fechas-en-javascript-35do)
 - [Dev.to/JS] [How to Detect Outside Clicks in Vue](https://dev.to/tahazsh/how-to-detect-outside-clicks-in-vue-gdj)
 - [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)
@@ -33,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functional DOM Manipulation](https://dev.to/theharshsingh/functional-dom-manipulation-4bl3)
 - [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)
 - [Dev.to/JS] [chalk equivalent in Flask](https://dev.to/bam92/chalk-equivalent-in-flask-2apb)
-- [Dev.to/JS] [Quality Engineering Using Human &amp; Machine Interactive: Chaitanya Kolar [Testμ 2022]](https://dev.to/lambdatest/quality-engineering-using-human-machine-interactive-chaitanya-kolar-testm-2022-2kge)
 - [Lifehacker] [How Illegal Is It to Have Sex in Public?](https://lifehacker.com/how-illegal-is-it-to-have-sex-in-public-1849507583)
-- [Dev.to/JS] [Where we can find jobs/projects?](https://dev.to/silviuvladut/where-we-can-find-jobsprojects-1bla)
-- [Dev.to/JS] [Javascript Array Methods](https://dev.to/shubhamtiwari909/js-array-methods-51nm)
-- [Dev.to/JS] [JavaScript Objects vs. Maps](https://dev.to/syncfusion/javascript-objects-vs-maps-15hd)
-- [Dev.to/JS] [50+ Awesome tools for Web Developers](https://dev.to/surajondev/50-awesome-tools-for-web-developers-5gan)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
 - [Lifehacker] [How &lpar;and Why&rpar; to &#39;Pull the Slack Out of the Bar&#39; When You Deadlift](https://lifehacker.com/how-and-why-to-pull-the-slack-out-of-the-bar-when-you-1849502024)
 - [Lifehacker] [Which Event Ticket Sites Have the Best Deals?](https://lifehacker.com/which-event-ticket-sites-have-the-best-deals-1849501508)
-- [Lifehacker] [How to Promote Your Work Without Sounding Like a Total Jerk](https://lifehacker.com/how-to-promote-your-work-online-without-sounding-like-a-1849501266)
-- [Lifehacker] [How to Kill at Karaoke Even If You Can’t Sing](https://lifehacker.com/how-to-kill-at-karaoke-even-if-you-can-t-sing-1849501417)
-- [Lifehacker] [This Site Reviews Products After They Break](https://lifehacker.com/this-site-reviews-products-after-they-break-1849500233)
-- [Lifehacker] [Ten Surprising Ways to Use Q-tips That Don&#39;t Involve Your Ears](https://lifehacker.com/10-surprising-ways-to-use-q-tips-that-dont-involve-your-1849500647)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Promote Your Work Without Sounding Like a Total Jerk](https://lifehacker.com/how-to-promote-your-work-online-without-sounding-like-a-1849501266)<!-- TECH-POSTS:END -->
 
 ---
 
