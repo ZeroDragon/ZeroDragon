@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interacting with the json server](https://dev.to/levinachiengdieto/interacting-with-the-json-server-1nd9)
+- [Dev.to/JS] [I found an alternative with mailto links](https://dev.to/lanceross/i-found-an-alternative-with-mailto-links-50kg)
 - [Dev.to/JS] [Kim recipes](https://dev.to/kimutai01/kim-recipes-28if)
 - [Dev.to/JS] [Most Important JavaScript Array Iteration Methods.](https://dev.to/zubairgujjar997/most-important-javascript-array-iteration-methods-4e36)
 - [Dev.to/JS] [Detect Cycle LinkedList - II](https://dev.to/zeeshanali0704/detect-cycle-linkedlist-ii-2g1l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Running Promises in Series with a delay between each to bypass API rate limit](https://dev.to/farminf/running-promises-in-series-with-a-delay-between-each-to-bypass-api-rate-limit-55hf)
 - [Dev.to/JS] [Why haven’t PWAs killed native Apps Yet?](https://dev.to/progressier/why-havent-pwas-killed-native-apps-yet-378o)
 - [Dev.to/JS] [Array Methods In JS](https://dev.to/ipa22751/array-methods-in-js-15bk)
-- [Dev.to/JS] [How To: Issue Triage via Phylum Extensions](https://dev.to/phylum/how-to-issue-triage-via-phylum-extensions-2g93)
-- [Dev.to/JS] [How to get Girlfriend as a Developer](https://dev.to/suyashvash/how-to-get-girlfriend-as-a-developer-100f)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
