@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To: Issue Triage via Phylum Extensions](https://dev.to/phylum/how-to-issue-triage-via-phylum-extensions-2g93)
+- [Dev.to/JS] [How to get Girlfriend as a Developer](https://dev.to/suyashvash/how-to-get-girlfriend-as-a-developer-100f)
 - [Dev.to/JS] [CamelCase to normal String in JavaScript](https://dev.to/suyashvash/camelcase-to-normal-string-in-javascript-592g)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Binary Tree Algorithms](https://dev.to/thiagocolen/binary-tree-algorithms-1cfp)
 - [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)
 - [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)
-- [Dev.to/JS] [int32 to IPv4](https://dev.to/s_vibhor/int32-to-ipv4-46ia)
 - [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
-- [Dev.to/JS] [Micro-frontend Pratical guide - Part 1](https://dev.to/rv90904/micro-frontend-pratical-guide-part-1-42k8)
 - [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)
 - [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)
 - [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
