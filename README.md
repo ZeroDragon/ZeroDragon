@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Detect Cycle LinkedList - II](https://dev.to/zeeshanali0704/detect-cycle-linkedlist-ii-2g1l)
+- [Dev.to/JS] [How to deploy and publish to NPM your own React Components library](https://dev.to/pavlov/how-to-deploy-and-publish-to-npm-your-own-react-components-library-h1)
+- [Dev.to/JS] [JS que aprendí en SoyHenry 🙂: ¿Qué es el Sintax Parser: Lexical Enviroment?](https://dev.to/soyrafael/js-avanzado-que-es-el-sintax-parser-lexical-enviroment-1dei)
 - [Dev.to/JS] [Empezando el Bootcamp de soyHenry💛 #100DaysOfCode](https://dev.to/soyrafael/1er-dia-en-bootcamp-soyhenry-100daysofcode-105m)
 - [Dev.to/JS] [Vue.js Basics Part 9 | Slots](https://dev.to/ahmetmeliksah/vuejs-basics-part-9-slots-21o8)
 - [Dev.to/JS] [Running Promises in Series with a delay between each to bypass API rate limit](https://dev.to/farminf/running-promises-in-series-with-a-delay-between-each-to-bypass-api-rate-limit-55hf)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
 - [Dev.to/JS] [5 great tools for React developers in 2022](https://dev.to/danilovilhena/5-great-tools-for-react-developers-in-2022-1k93)
-- [Dev.to/JS] [Rainbow Scroll](https://dev.to/kolja/rainbow-scroll-3o7)
-- [Dev.to/JS] [Dive into the Open Source](https://dev.to/rudychung/dive-into-the-open-source-gb5)
-- [Dev.to/JS] [Separation of Concerns and Single Source of Truth — writing cleaner code.](https://dev.to/jaguilar89/separation-of-concerns-and-single-source-of-truth-writing-cleaner-code-oo6)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
 - [Lifehacker] [6 Ways to Know If You&#39;re the Toxic One in a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
 - [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)
