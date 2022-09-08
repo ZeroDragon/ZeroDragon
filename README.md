@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Download Button Animation](https://dev.to/mohammadsahragard/download-button-animation-3085)
+- [Dev.to/JS] [How to Create a Full Autocomplete Search Application with Elasticsearch and NestJs - Part 2](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-2-a6b)
 - [Dev.to/JS] [Advantages and disadvantages of Next.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nextjs-5hg6)
 - [Dev.to/JS] [Navigation between views in Vue with Vue Router](https://dev.to/smpnjn/navigation-between-views-in-vue-with-vue-router-4bi)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pokedex: Migración de Mix a Vite](https://dev.to/krsrk/pokedex-migracion-de-mix-a-vite-40ab)
 - [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)
 - [Lifehacker] [11 Innovative Podcasts to Listen to If You&#39;re Bored With Podcasts](https://lifehacker.com/11-innovative-podcasts-to-listen-to-if-youre-bored-with-1849512142)
-- [Dev.to/JS] [What&#39;s the Future of PHP?](https://dev.to/ijsucceed/whats-the-future-of-php-3l20)
 - [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)
-- [Dev.to/JS] [Let&#39;s visualize time-on-site captured with timeonsite.js using free &quot;Visual tool&quot; -part 2](https://dev.to/saleemkce/lets-visualize-time-on-site-captured-with-timeonsitejs-using-free-visual-tool-part-2-511f)
 - [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)
 - [Lifehacker] [Here’s What Happens After the Queen&#39;s Death](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)
 - [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)
