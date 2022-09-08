@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advantages and disadvantages of Next.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nextjs-5hg6)
+- [Dev.to/JS] [Navigation between views in Vue with Vue Router](https://dev.to/smpnjn/navigation-between-views-in-vue-with-vue-router-4bi)
+- [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
+- [Dev.to/JS] [Web Components made very simple with Morphdom and some helpers...](https://dev.to/artydev/web-components-with-mvu-and-morphdom-1bp)
 - [Dev.to/JS] [CSS Filter Functions](https://dev.to/moreno8423/css-filter-functions-3b75)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Dev.to/JS] [It’s 2022, don’t use console.log anymore but this](https://dev.to/naubit/its-2022-dont-use-consolelog-anymore-but-this-eef)
@@ -40,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s the Future of PHP?](https://dev.to/ijsucceed/whats-the-future-of-php-3l20)
 - [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)
 - [Dev.to/JS] [Let&#39;s visualize time-on-site captured with timeonsite.js using free &quot;Visual tool&quot; -part 2](https://dev.to/saleemkce/lets-visualize-time-on-site-captured-with-timeonsitejs-using-free-visual-tool-part-2-511f)
-- [Dev.to/JS] [The Reduce&lpar;&rpar; method JS basics simplified.](https://dev.to/jlubiba/the-reduce-method-js-basics-simplified-1c5f)
-- [Dev.to/JS] [Newbie in javascript, any piece of advice?](https://dev.to/salwa/newbie-in-javascript-any-piece-of-advice-2mgh)
 - [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)
 - [Lifehacker] [Here’s What Happens After the Queen&#39;s Death](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)
-- [Dev.to/JS] [How possibility to create a curd website?](https://dev.to/aayusranjan/how-possibility-to-create-a-curd-website-b9o)
 - [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)
 - [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)
 - [Lifehacker] [How to Tell When You’ve Outgrown Your Relationship](https://lifehacker.com/how-to-tell-when-you-ve-outgrown-your-relationship-1849508154)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
 - [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)
 - [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)
-- [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)
-- [Lifehacker] [Pharmacies Can Sometimes Refill Your Prescriptions Early](https://lifehacker.com/pharmacies-can-sometimes-refill-your-prescriptions-earl-1849505191)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)<!-- TECH-POSTS:END -->
 
 ---
 
