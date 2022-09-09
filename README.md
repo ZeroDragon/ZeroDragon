@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is Low-Code / No-Code The Future of Software Engineering?](https://dev.to/domfive/is-low-code-no-code-the-future-of-software-engineering-2oh8)
+- [Dev.to/JS] [Starting a personal dashboard with the Spotify API](https://dev.to/jpreagan/starting-a-personal-dashboard-with-the-spotify-api-526p)
+- [Dev.to/JS] [GlucoTrust - Blood Sugar Reviews, Results, Uses And Benefits?](https://dev.to/glucotrust8/glucotrust-blood-sugar-reviews-results-uses-and-benefits-imp)
 - [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 18: Understanding Bytecode and How to Debug it](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-18-understanding-bytecode-and-how-to-debug-it-1nch)
 - [Dev.to/JS] [How to get started with Meteor and ask for help if you are stuck](https://dev.to/meteorjs/how-to-get-started-with-meteor-and-ask-for-help-if-you-are-stuck-5heh)
 - [Dev.to/JS] [Looking for a study buddy to learn Web Dev](https://dev.to/sergiysharipov/looking-for-a-study-buddy-to-learn-web-dev-jne)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigation between views in Vue with Vue Router](https://dev.to/smpnjn/navigation-between-views-in-vue-with-vue-router-4bi)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Dev.to/JS] [Web Components made very simple with Morphdom and some helpers...](https://dev.to/artydev/web-components-with-mvu-and-morphdom-1bp)
-- [Dev.to/JS] [CSS Filter Functions](https://dev.to/moreno8423/css-filter-functions-3b75)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
-- [Dev.to/JS] [It’s 2022, don’t use console.log anymore but this](https://dev.to/naubit/its-2022-dont-use-consolelog-anymore-but-this-eef)
-- [Dev.to/JS] [Open Source Contribution](https://dev.to/hat52/open-source-contribution-23n2)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
 - [Lifehacker] [Why the iPhone 14&#39;s eSIM Might Be a Problem for You](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
 - [Lifehacker] [These Sensory Activities Won&#39;t Make a Giant Mess of Your Home](https://lifehacker.com/these-sensory-activities-wont-make-a-giant-mess-of-your-1849512089)
