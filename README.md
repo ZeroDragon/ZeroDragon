@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Support Your Burnt-Out Teenager](https://lifehacker.com/how-to-support-your-burnt-out-teenager-1849512950)
+- [Dev.to/JS] [Offsite Tape Storage for Backups: An Overview](https://dev.to/alextraytech/offsite-tape-storage-for-backups-an-overview-4ij4)
+- [Dev.to/JS] [Write your own CORS Proxy with NodeJS in no time.](https://dev.to/decker67/write-your-own-cors-proxy-with-nodejs-in-no-time-30f9)
+- [Lifehacker] [How Going Backward Can Help Your Relationship Move Forward](https://lifehacker.com/how-going-backward-can-help-your-relationship-move-forw-1849512779)
 - [Dev.to/JS] [¿Cómo dar formato de moneda a un número en Javascript?](https://dev.to/matiasfha/como-dar-formato-de-moneda-a-un-numero-en-javascript-51bd)
 - [Dev.to/JS] [Who still uses Grunt.js?](https://dev.to/theaccordance/who-still-uses-gruntjs-5f4a)
 - [Dev.to/JS] [I tried Remix and it is too good to be true](https://dev.to/elisabethleonhardt/i-tried-remix-and-it-is-too-good-to-be-true-4im)
@@ -31,11 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to export your data from Google Sheets to JSON](https://dev.to/oschertar/how-to-export-your-data-from-google-sheets-to-json-3ih8)
 - [Dev.to/JS] [How did you get out of tutorial hell?](https://dev.to/coderamrin/how-did-you-get-out-of-tutorial-hell-8cf)
 - [Dev.to/JS] [Codebase Tour Through An Advanced React Project - How The Pieces Fit Together &lpar;incl video&rpar;](https://dev.to/profydev/codebase-tour-through-an-advanced-react-project-how-the-pieces-fit-together-incl-video-2m94)
-- [Dev.to/JS] [Skincell Advanced &lpar; Au&rpar; - Skin Care Results, Price, Reviews &amp; Benefits?](https://dev.to/skincelladvanc5/skincell-advanced-au-skin-care-results-price-reviews-benefits-3gg7)
+- [Dev.to/JS] [Optimize Next.js App Bundle and Improve Its Performance](https://dev.to/syncfusion/optimize-nextjs-app-bundle-and-improve-its-performance-4om0)
 - [Dev.to/JS] [TRUST OUR PROFESSIONAL HOUSE CLEANERS IN LONDON](https://dev.to/ellisonparker7/trust-our-professional-house-cleaners-in-london-4hig)
 - [Dev.to/JS] [How to Push an empty commit?](https://dev.to/devsimc/how-to-push-an-empty-commit-28dd)
-- [Dev.to/JS] [Building a backbone for a full-stack web app with a single config file](https://dev.to/wasp/building-a-backbone-for-a-full-stack-web-app-with-a-single-config-file-43g0)
-- [Dev.to/JS] [Typescript Could not find declaration file for module &#39;react&#39;](https://dev.to/mopharr/typescript-could-not-find-declaration-file-for-module-react-104b)
 - [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)
 - [Lifehacker] [Should I Do High Reps or Low Reps?](https://lifehacker.com/should-i-do-high-reps-or-low-reps-1849506311)
 - [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)
-- [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)
-- [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
-- [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)<!-- TECH-POSTS:END -->
 
 ---
 
