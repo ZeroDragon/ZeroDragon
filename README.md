@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Cómo dar formato de moneda a un número en Javascript?](https://dev.to/matiasfha/como-dar-formato-de-moneda-a-un-numero-en-javascript-51bd)
+- [Dev.to/JS] [Who still uses Grunt.js?](https://dev.to/theaccordance/who-still-uses-gruntjs-5f4a)
+- [Dev.to/JS] [I tried Remix and it is too good to be true](https://dev.to/elisabethleonhardt/i-tried-remix-and-it-is-too-good-to-be-true-4im)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did Harry Styles Really Spit on Chris Pine?](https://lifehacker.com/did-harry-styles-spit-on-chris-pine-the-out-of-touch-a-1849508200)
+- [Dev.to/JS] [How to Build Creative Education Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-creative-education-website-using-html-css-javascript-5h4p)
+- [Dev.to/JS] [How to export your data from Google Sheets to JSON](https://dev.to/oschertar/how-to-export-your-data-from-google-sheets-to-json-3ih8)
+- [Dev.to/JS] [How did you get out of tutorial hell?](https://dev.to/coderamrin/how-did-you-get-out-of-tutorial-hell-8cf)
 - [Dev.to/JS] [Codebase Tour Through An Advanced React Project - How The Pieces Fit Together &lpar;incl video&rpar;](https://dev.to/profydev/codebase-tour-through-an-advanced-react-project-how-the-pieces-fit-together-incl-video-2m94)
 - [Dev.to/JS] [Skincell Advanced &lpar; Au&rpar; - Skin Care Results, Price, Reviews &amp; Benefits?](https://dev.to/skincelladvanc5/skincell-advanced-au-skin-care-results-price-reviews-benefits-3gg7)
 - [Dev.to/JS] [TRUST OUR PROFESSIONAL HOUSE CLEANERS IN LONDON](https://dev.to/ellisonparker7/trust-our-professional-house-cleaners-in-london-4hig)
 - [Dev.to/JS] [How to Push an empty commit?](https://dev.to/devsimc/how-to-push-an-empty-commit-28dd)
 - [Dev.to/JS] [Building a backbone for a full-stack web app with a single config file](https://dev.to/wasp/building-a-backbone-for-a-full-stack-web-app-with-a-single-config-file-43g0)
 - [Dev.to/JS] [Typescript Could not find declaration file for module &#39;react&#39;](https://dev.to/mopharr/typescript-could-not-find-declaration-file-for-module-react-104b)
-- [Dev.to/JS] [Field Error on Django search filter](https://dev.to/kalidasraja/field-error-on-django-search-filter-2a0)
-- [Dev.to/JS] [Hyper-V Virtual Switches Overview](https://dev.to/alextraytech/hyper-v-virtual-switches-overview-2lim)
-- [Dev.to/JS] [DevOps: What is it and what are the business benefits?](https://dev.to/postwell45/devops-what-is-it-and-what-are-the-business-benefits-1253)
 - [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
-- [Dev.to/JS] [SELENIUM TRAINING IN HYDERABAD | SELENIUM TRAINING IN KUKATPALLY | SELENIUM ONLINE TRAINING](https://dev.to/techkosmik/selenium-training-in-hyderabad-selenium-training-in-kukatpally-selenium-online-training-3622)
-- [Dev.to/JS] [I Built An Animation Tool With Angular!](https://dev.to/datmt/i-built-an-animation-tool-with-angular-19pd)
-- [Dev.to/JS] [Rest and Spread operator in JavaScript | ES6](https://dev.to/sujithvsuresh/rest-and-spread-operator-in-javascript-es6-3gd8)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)
 - [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)
 - [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
-- [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)
-- [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)<!-- TECH-POSTS:END -->
 
 ---
 
