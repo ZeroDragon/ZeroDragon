@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
+- [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
 - [Lifehacker] [Five Drinking Terms Everyone at the Bar Should Know](https://lifehacker.com/five-drinking-terms-everyone-at-the-bar-should-know-1849517914)
 - [Dev.to/JS] [The Staircase problem &lpar;a JavaScript solution&rpar;](https://dev.to/andreajasper/the-staircase-problem-a-javascript-solution-5955)
 - [Dev.to/JS] [React most popular](https://dev.to/bhaskarkashyap/react-most-popular-15l3)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)
 - [Lifehacker] [Here’s What Happens After the Queen&#39;s Death](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)
 - [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)
-- [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)
-- [Lifehacker] [How to Tell When You’ve Outgrown Your Relationship](https://lifehacker.com/how-to-tell-when-you-ve-outgrown-your-relationship-1849508154)
-- [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)<!-- TECH-POSTS:END -->
 
 ---
 
