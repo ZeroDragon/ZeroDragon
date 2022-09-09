@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Fall Trips and Activities in Each of the 50 States](https://lifehacker.com/the-best-fall-trips-and-activities-in-each-of-the-50-st-1849512201)
 - [Lifehacker] [How to Support Your Burnt-Out Teenager](https://lifehacker.com/how-to-support-your-burnt-out-teenager-1849512950)
 - [Dev.to/JS] [Offsite Tape Storage for Backups: An Overview](https://dev.to/alextraytech/offsite-tape-storage-for-backups-an-overview-4ij4)
 - [Dev.to/JS] [Write your own CORS Proxy with NodeJS in no time.](https://dev.to/decker67/write-your-own-cors-proxy-with-nodejs-in-no-time-30f9)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 Ways to Know If You&#39;re the Toxic One in a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
 - [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)
 - [Lifehacker] [Should I Do High Reps or Low Reps?](https://lifehacker.com/should-i-do-high-reps-or-low-reps-1849506311)
-- [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)
-- [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)<!-- TECH-POSTS:END -->
 
 ---
 
