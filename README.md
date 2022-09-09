@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 18: Understanding Bytecode and How to Debug it](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-18-understanding-bytecode-and-how-to-debug-it-1nch)
+- [Dev.to/JS] [How to get started with Meteor and ask for help if you are stuck](https://dev.to/meteorjs/how-to-get-started-with-meteor-and-ask-for-help-if-you-are-stuck-5heh)
+- [Dev.to/JS] [Looking for a study buddy to learn Web Dev](https://dev.to/sergiysharipov/looking-for-a-study-buddy-to-learn-web-dev-jne)
 - [Dev.to/JS] [Build Static Blogs with Keystone](https://dev.to/flexdinesh/build-static-blogs-with-keystone-28kn)
 - [Dev.to/JS] [Download Button Animation](https://dev.to/mohammadsahragard/download-button-animation-3085)
 - [Dev.to/JS] [How to Create a Full Autocomplete Search Application with Elasticsearch and NestJs - Part 2](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-2-a6b)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open Source Contribution](https://dev.to/hat52/open-source-contribution-23n2)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
 - [Lifehacker] [Why the iPhone 14&#39;s eSIM Might Be a Problem for You](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
-- [Dev.to/JS] [React Hooks 1: useState, useEffect, useContext, useRef &amp; useReducer](https://dev.to/carolinacobo/react-hooks-1-usestate-useeffect-usecontext-useref-usereducer-2be2)
-- [Dev.to/JS] [How to Convert a React Component to an Image](https://dev.to/saranshk/how-to-convert-a-react-component-to-an-image-2jon)
-- [Dev.to/JS] [Perimeters of squares in a rectangle](https://dev.to/s_vibhor/perimeters-of-squares-in-a-rectangle-1o5n)
 - [Lifehacker] [These Sensory Activities Won&#39;t Make a Giant Mess of Your Home](https://lifehacker.com/these-sensory-activities-wont-make-a-giant-mess-of-your-1849512089)
 - [Lifehacker] [Why You Feel Cranky on Your Rest Days &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-feel-cranky-on-your-rest-days-and-what-to-do-a-1849512300)
 - [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)
