@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Where should I practice after completing HTML, CSS, Bootstrap, JavaScript, DOM and a little bit of jQuery?](https://dev.to/kaih_ke_lunga/where-should-i-practice-after-completing-html-css-bootstrap-javascript-dom-and-a-little-bit-of-jquery-431)
+- [Dev.to/JS] [Testing your React app with mocks](https://dev.to/le_humch/testing-your-react-app-with-mocks-2hp2)
 - [Dev.to/JS] [Ultimate guide for implementing Repository pattern and Unit of work for .NET core](https://dev.to/ifourtechnolab/ultimate-guide-for-implementing-repository-pattern-and-unit-of-work-for-net-core-2gch)
 - [Dev.to/JS] [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://dev.to/letswrite/vue-3-tailwind-css-3-esbuild-rollupjs-kai-fa-chu-shi-dang-425a)
 - [Dev.to/JS] [Intersection of Two Linked Lists](https://dev.to/zeeshanali0704/intersection-of-two-linked-lists-4dk1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 18: Understanding Bytecode and How to Debug it](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-18-understanding-bytecode-and-how-to-debug-it-1nch)
 - [Dev.to/JS] [How to get started with Meteor and ask for help if you are stuck](https://dev.to/meteorjs/how-to-get-started-with-meteor-and-ask-for-help-if-you-are-stuck-5heh)
 - [Dev.to/JS] [Looking for a study buddy to learn Web Dev](https://dev.to/sergiysharipov/looking-for-a-study-buddy-to-learn-web-dev-jne)
-- [Dev.to/JS] [Build Static Blogs with Keystone](https://dev.to/flexdinesh/build-static-blogs-with-keystone-28kn)
-- [Dev.to/JS] [Download Button Animation](https://dev.to/mohammadsahragard/download-button-animation-3085)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
