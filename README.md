@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploying different CloudFormation stacks based on different AWS accounts with AWS CDK](https://dev.to/aws-builders/deploying-different-cloudformation-stacks-based-on-different-aws-accounts-with-aws-cdk-338g)
 - [Dev.to/JS] [Is Low-Code / No-Code The Future of Software Engineering?](https://dev.to/domfive/is-low-code-no-code-the-future-of-software-engineering-2oh8)
 - [Dev.to/JS] [Starting a personal dashboard with the Spotify API](https://dev.to/jpreagan/starting-a-personal-dashboard-with-the-spotify-api-526p)
 - [Dev.to/JS] [GlucoTrust - Blood Sugar Reviews, Results, Uses And Benefits?](https://dev.to/glucotrust8/glucotrust-blood-sugar-reviews-results-uses-and-benefits-imp)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advantages and disadvantages of Next.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nextjs-5hg6)
 - [Dev.to/JS] [Navigation between views in Vue with Vue Router](https://dev.to/smpnjn/navigation-between-views-in-vue-with-vue-router-4bi)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
-- [Dev.to/JS] [Web Components made very simple with Morphdom and some helpers...](https://dev.to/artydev/web-components-with-mvu-and-morphdom-1bp)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
 - [Lifehacker] [Why the iPhone 14&#39;s eSIM Might Be a Problem for You](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
