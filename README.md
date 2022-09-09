@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Static Blogs with Keystone](https://dev.to/flexdinesh/build-static-blogs-with-keystone-28kn)
 - [Dev.to/JS] [Download Button Animation](https://dev.to/mohammadsahragard/download-button-animation-3085)
 - [Dev.to/JS] [How to Create a Full Autocomplete Search Application with Elasticsearch and NestJs - Part 2](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-2-a6b)
 - [Dev.to/JS] [Advantages and disadvantages of Next.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nextjs-5hg6)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Perimeters of squares in a rectangle](https://dev.to/s_vibhor/perimeters-of-squares-in-a-rectangle-1o5n)
 - [Lifehacker] [These Sensory Activities Won&#39;t Make a Giant Mess of Your Home](https://lifehacker.com/these-sensory-activities-wont-make-a-giant-mess-of-your-1849512089)
 - [Lifehacker] [Why You Feel Cranky on Your Rest Days &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-feel-cranky-on-your-rest-days-and-what-to-do-a-1849512300)
-- [Dev.to/JS] [Pokedex: Migración de Mix a Vite](https://dev.to/krsrk/pokedex-migracion-de-mix-a-vite-40ab)
 - [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)
 - [Lifehacker] [11 Innovative Podcasts to Listen to If You&#39;re Bored With Podcasts](https://lifehacker.com/11-innovative-podcasts-to-listen-to-if-youre-bored-with-1849512142)
 - [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)
