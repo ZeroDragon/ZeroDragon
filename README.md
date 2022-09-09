@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React most popular](https://dev.to/bhaskarkashyap/react-most-popular-15l3)
+- [Lifehacker] [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)
+- [Dev.to/JS] [What is the ternary operator and how do I use it?](https://dev.to/trinityyi/what-is-the-ternary-operator-and-how-do-i-use-it-1klb)
+- [Dev.to/JS] [Delete Nth Node From Last LinkedList](https://dev.to/zeeshanali0704/delete-nth-node-from-last-linkedlist-5dgn)
+- [Lifehacker] [How to Fix the Uninstalled DLC Bug on PS4](https://lifehacker.com/how-to-fix-the-uninstalled-dlc-bug-on-ps4-1849517386)
+- [Dev.to/JS] [HTML/CSS/JS, demande d&#39;aide](https://dev.to/chrstn67/htmlcssjs-demande-daide-d6l)
+- [Dev.to/JS] [Desvendando mistérios/Imprimindo Respostas](https://dev.to/alinehalley/desvendando-misteriosimprimindo-respostas-5f08)
+- [Dev.to/JS] [1. Regex - podstawy](https://dev.to/knighteq_pl/1-regex-podstawy-4i53)
 - [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)
 - [Dev.to/JS] [100DaysofReact &lpar;Day 1&rpar;](https://dev.to/rajkamalkanna/100daysofreact-c9n)
 - [Dev.to/JS] [Mastering JavaScript 🧑‍💻: Closures](https://dev.to/saverio683/mastering-javascript-closures-2af7)
@@ -33,16 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⏱️Build A StopWatch | CSS &amp; JavaScript🚀](https://dev.to/robsonmuniz16/build-a-stopwatch-css-javascript-4o64)
 - [Lifehacker] [You Can Update Your PS5 Controller Using a Windows PC](https://lifehacker.com/you-can-update-your-ps5-controller-using-a-windows-pc-1849516640)
 - [Dev.to/JS] [Custom VSCode Snippets](https://dev.to/f53/custom-vscode-snippets-5550)
-- [Dev.to/JS] [Next.js &amp; Supabase in 16 minutes](https://dev.to/guillaumeduhan/nextjs-supabase-in-16-minutes-1939)
-- [Dev.to/JS] [Handling Errors in JavaScript.](https://dev.to/zubairgujjar997/handle-with-errors-in-javascript-3bc1)
 - [Lifehacker] [How to Clean Puke Out of Your Car](https://lifehacker.com/how-to-clean-puke-out-of-your-car-1849514900)
 - [Lifehacker] [The Best Fall Trips and Activities in Each of the 50 States](https://lifehacker.com/the-best-fall-trips-and-activities-in-each-of-the-50-st-1849512201)
 - [Lifehacker] [How to Support Your Burnt-Out Teenager](https://lifehacker.com/how-to-support-your-burnt-out-teenager-1849512950)
-- [Dev.to/JS] [Offsite Tape Storage for Backups: An Overview](https://dev.to/alextraytech/offsite-tape-storage-for-backups-an-overview-4ij4)
-- [Dev.to/JS] [Write your own CORS Proxy with NodeJS in no time.](https://dev.to/decker67/write-your-own-cors-proxy-with-nodejs-in-no-time-30f9)
 - [Lifehacker] [How Going Backward Can Help Your Relationship Move Forward](https://lifehacker.com/how-going-backward-can-help-your-relationship-move-forw-1849512779)
-- [Dev.to/JS] [¿Cómo dar formato de moneda a un número en Javascript?](https://dev.to/matiasfha/como-dar-formato-de-moneda-a-un-numero-en-javascript-51bd)
-- [Dev.to/JS] [Who still uses Grunt.js?](https://dev.to/theaccordance/who-still-uses-gruntjs-5f4a)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did Harry Styles Really Spit on Chris Pine?](https://lifehacker.com/did-harry-styles-spit-on-chris-pine-the-out-of-touch-a-1849508200)
 - [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)
 - [Lifehacker] [How to Tell When You’ve Outgrown Your Relationship](https://lifehacker.com/how-to-tell-when-you-ve-outgrown-your-relationship-1849508154)
 - [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)
-- [Lifehacker] [How Illegal Is It to Have Sex in Public?](https://lifehacker.com/how-illegal-is-it-to-have-sex-in-public-1849507583)
-- [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
-- [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Illegal Is It to Have Sex in Public?](https://lifehacker.com/how-illegal-is-it-to-have-sex-in-public-1849507583)<!-- TECH-POSTS:END -->
 
 ---
 
