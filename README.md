@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)
+- [Dev.to/JS] [100DaysofReact &lpar;Day 1&rpar;](https://dev.to/rajkamalkanna/100daysofreact-c9n)
+- [Dev.to/JS] [Mastering JavaScript 🧑‍💻: Closures](https://dev.to/saverio683/mastering-javascript-closures-2af7)
+- [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)
+- [Dev.to/JS] [How We Used Airtable To Create An Email Subscriber Form On Noteslify For $0!!!](https://dev.to/dvstechlabs/how-we-used-airtable-to-create-an-email-subscriber-form-on-noteslify-for-0-3lod)
+- [Dev.to/JS] [A Quick Look At Some Popular Array Methods In JavaScript](https://dev.to/damiensedgwick/a-quick-look-at-some-popular-array-methods-in-javascript-1bnp)
+- [Lifehacker] [How to Know If Your Kid Really Needs Braces](https://lifehacker.com/how-to-know-if-your-kid-really-needs-braces-1849517348)
 - [Dev.to/JS] [⏱️Build A StopWatch | CSS &amp; JavaScript🚀](https://dev.to/robsonmuniz16/build-a-stopwatch-css-javascript-4o64)
 - [Lifehacker] [You Can Update Your PS5 Controller Using a Windows PC](https://lifehacker.com/you-can-update-your-ps5-controller-using-a-windows-pc-1849516640)
 - [Dev.to/JS] [Custom VSCode Snippets](https://dev.to/f53/custom-vscode-snippets-5550)
@@ -36,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Going Backward Can Help Your Relationship Move Forward](https://lifehacker.com/how-going-backward-can-help-your-relationship-move-forw-1849512779)
 - [Dev.to/JS] [¿Cómo dar formato de moneda a un número en Javascript?](https://dev.to/matiasfha/como-dar-formato-de-moneda-a-un-numero-en-javascript-51bd)
 - [Dev.to/JS] [Who still uses Grunt.js?](https://dev.to/theaccordance/who-still-uses-gruntjs-5f4a)
-- [Dev.to/JS] [I tried Remix and it is too good to be true](https://dev.to/elisabethleonhardt/i-tried-remix-and-it-is-too-good-to-be-true-4im)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did Harry Styles Really Spit on Chris Pine?](https://lifehacker.com/did-harry-styles-spit-on-chris-pine-the-out-of-touch-a-1849508200)
-- [Dev.to/JS] [How to Build Creative Education Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-creative-education-website-using-html-css-javascript-5h4p)
-- [Dev.to/JS] [How to export your data from Google Sheets to JSON](https://dev.to/oschertar/how-to-export-your-data-from-google-sheets-to-json-3ih8)
-- [Dev.to/JS] [How did you get out of tutorial hell?](https://dev.to/coderamrin/how-did-you-get-out-of-tutorial-hell-8cf)
 - [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)
 - [Lifehacker] [How Illegal Is It to Have Sex in Public?](https://lifehacker.com/how-illegal-is-it-to-have-sex-in-public-1849507583)
 - [Lifehacker] [Should You Buy the iPhone 14 or 14 Pro?](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
-- [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
-- [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
-- [Lifehacker] [6 Ways to Know If You&#39;re the Toxic One in a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
-- [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)<!-- TECH-POSTS:END -->
 
 ---
 
