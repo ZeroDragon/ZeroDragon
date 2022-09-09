@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DevOps: What is it and what are the business benefits?](https://dev.to/postwell45/devops-what-is-it-and-what-are-the-business-benefits-1253)
+- [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
+- [Dev.to/JS] [SELENIUM TRAINING IN HYDERABAD | SELENIUM TRAINING IN KUKATPALLY | SELENIUM ONLINE TRAINING](https://dev.to/techkosmik/selenium-training-in-hyderabad-selenium-training-in-kukatpally-selenium-online-training-3622)
+- [Dev.to/JS] [I Built An Animation Tool With Angular!](https://dev.to/datmt/i-built-an-animation-tool-with-angular-19pd)
+- [Dev.to/JS] [Rest and Spread operator in JavaScript | ES6](https://dev.to/sujithvsuresh/rest-and-spread-operator-in-javascript-es6-3gd8)
 - [Dev.to/JS] [JavaScript tic tac toe - beginner level - t24](https://dev.to/sfundomhlungu/javascript-tic-tac-toe-beginner-level-t24-46ef)
 - [Dev.to/JS] [Membuat debounce function](https://dev.to/ridhopamungkas/membuat-debounce-function-p7j)
 - [Dev.to/JS] [Absolute path in React](https://dev.to/hidaytrahman/absolute-path-in-react-125h)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Classes in JavaScript](https://dev.to/sujithvsuresh/classes-in-javascript-41fi)
 - [Dev.to/JS] [Where should I practice after completing HTML, CSS, Bootstrap, JavaScript, DOM and a little bit of jQuery?](https://dev.to/kaih_ke_lunga/where-should-i-practice-after-completing-html-css-bootstrap-javascript-dom-and-a-little-bit-of-jquery-431)
 - [Dev.to/JS] [Testing your React app with mocks](https://dev.to/le_humch/testing-your-react-app-with-mocks-2hp2)
-- [Dev.to/JS] [Ultimate guide for implementing Repository pattern and Unit of work for .NET core](https://dev.to/ifourtechnolab/ultimate-guide-for-implementing-repository-pattern-and-unit-of-work-for-net-core-2gch)
-- [Dev.to/JS] [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://dev.to/letswrite/vue-3-tailwind-css-3-esbuild-rollupjs-kai-fa-chu-shi-dang-425a)
-- [Dev.to/JS] [Intersection of Two Linked Lists](https://dev.to/zeeshanali0704/intersection-of-two-linked-lists-4dk1)
-- [Dev.to/JS] [Deploying different CloudFormation stacks based on different AWS accounts with AWS CDK](https://dev.to/aws-builders/deploying-different-cloudformation-stacks-based-on-different-aws-accounts-with-aws-cdk-338g)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid the Abundance of Malware in Minecraft](https://lifehacker.com/how-to-avoid-the-abundance-of-malware-in-minecraft-1849505509)
 - [Lifehacker] [How to Stop Yogurt Splatters Once and for All](https://lifehacker.com/how-to-stop-yogurt-splatters-once-and-for-all-1849505712)
 - [Lifehacker] [How to Turn Your Finished Basement Into a &lpar;Legal&rpar; Apartment for Extra Income](https://lifehacker.com/how-to-turn-your-finished-basement-into-a-legal-apart-1849505470)
-- [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)
-- [Lifehacker] [Why Zoning Out Can Be Good for You](https://lifehacker.com/why-zoning-out-can-be-good-for-you-1849505250)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do Right Away If You Click a Phishing Link](https://lifehacker.com/what-to-do-right-away-if-you-click-a-phishing-link-1849505618)<!-- TECH-POSTS:END -->
 
 ---
 
