@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Drinking Terms Everyone at the Bar Should Know](https://lifehacker.com/five-drinking-terms-everyone-at-the-bar-should-know-1849517914)
+- [Dev.to/JS] [The Staircase problem &lpar;a JavaScript solution&rpar;](https://dev.to/andreajasper/the-staircase-problem-a-javascript-solution-5955)
 - [Dev.to/JS] [React most popular](https://dev.to/bhaskarkashyap/react-most-popular-15l3)
 - [Lifehacker] [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)
 - [Dev.to/JS] [What is the ternary operator and how do I use it?](https://dev.to/trinityyi/what-is-the-ternary-operator-and-how-do-i-use-it-1klb)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know If Your Kid Really Needs Braces](https://lifehacker.com/how-to-know-if-your-kid-really-needs-braces-1849517348)
 - [Dev.to/JS] [⏱️Build A StopWatch | CSS &amp; JavaScript🚀](https://dev.to/robsonmuniz16/build-a-stopwatch-css-javascript-4o64)
 - [Lifehacker] [You Can Update Your PS5 Controller Using a Windows PC](https://lifehacker.com/you-can-update-your-ps5-controller-using-a-windows-pc-1849516640)
-- [Dev.to/JS] [Custom VSCode Snippets](https://dev.to/f53/custom-vscode-snippets-5550)
 - [Lifehacker] [How to Clean Puke Out of Your Car](https://lifehacker.com/how-to-clean-puke-out-of-your-car-1849514900)
 - [Lifehacker] [The Best Fall Trips and Activities in Each of the 50 States](https://lifehacker.com/the-best-fall-trips-and-activities-in-each-of-the-50-st-1849512201)
 - [Lifehacker] [How to Support Your Burnt-Out Teenager](https://lifehacker.com/how-to-support-your-burnt-out-teenager-1849512950)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)
 - [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)
 - [Lifehacker] [How to Tell When You’ve Outgrown Your Relationship](https://lifehacker.com/how-to-tell-when-you-ve-outgrown-your-relationship-1849508154)
-- [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)
-- [Lifehacker] [How Illegal Is It to Have Sex in Public?](https://lifehacker.com/how-illegal-is-it-to-have-sex-in-public-1849507583)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Don’t Need the Apple Watch Ultra](https://lifehacker.com/you-don-t-need-the-apple-watch-ultra-1849510364)<!-- TECH-POSTS:END -->
 
 ---
 
