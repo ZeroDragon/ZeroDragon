@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TRUST OUR PROFESSIONAL HOUSE CLEANERS IN LONDON](https://dev.to/ellisonparker7/trust-our-professional-house-cleaners-in-london-4hig)
+- [Dev.to/JS] [How to Push an empty commit?](https://dev.to/devsimc/how-to-push-an-empty-commit-28dd)
+- [Dev.to/JS] [Building a backbone for a full-stack web app with a single config file](https://dev.to/wasp/building-a-backbone-for-a-full-stack-web-app-with-a-single-config-file-43g0)
+- [Dev.to/JS] [Typescript Could not find declaration file for module &#39;react&#39;](https://dev.to/mopharr/typescript-could-not-find-declaration-file-for-module-react-104b)
+- [Dev.to/JS] [Field Error on Django search filter](https://dev.to/kalidasraja/field-error-on-django-search-filter-2a0)
+- [Dev.to/JS] [Hyper-V Virtual Switches Overview](https://dev.to/alextraytech/hyper-v-virtual-switches-overview-2lim)
 - [Dev.to/JS] [DevOps: What is it and what are the business benefits?](https://dev.to/postwell45/devops-what-is-it-and-what-are-the-business-benefits-1253)
 - [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
 - [Dev.to/JS] [SELENIUM TRAINING IN HYDERABAD | SELENIUM TRAINING IN KUKATPALLY | SELENIUM ONLINE TRAINING](https://dev.to/techkosmik/selenium-training-in-hyderabad-selenium-training-in-kukatpally-selenium-online-training-3622)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rest and Spread operator in JavaScript | ES6](https://dev.to/sujithvsuresh/rest-and-spread-operator-in-javascript-es6-3gd8)
 - [Dev.to/JS] [JavaScript tic tac toe - beginner level - t24](https://dev.to/sfundomhlungu/javascript-tic-tac-toe-beginner-level-t24-46ef)
 - [Dev.to/JS] [Membuat debounce function](https://dev.to/ridhopamungkas/membuat-debounce-function-p7j)
-- [Dev.to/JS] [Absolute path in React](https://dev.to/hidaytrahman/absolute-path-in-react-125h)
-- [Dev.to/JS] [JavaScript sending data between windows](https://dev.to/dailydevtips1/javascript-sending-data-between-windows-1ima)
-- [Dev.to/JS] [Forms with React Hooks](https://dev.to/methmi/forms-with-react-hooks-ig0)
-- [Dev.to/JS] [Classes in JavaScript](https://dev.to/sujithvsuresh/classes-in-javascript-41fi)
-- [Dev.to/JS] [Where should I practice after completing HTML, CSS, Bootstrap, JavaScript, DOM and a little bit of jQuery?](https://dev.to/kaih_ke_lunga/where-should-i-practice-after-completing-html-css-bootstrap-javascript-dom-and-a-little-bit-of-jquery-431)
-- [Dev.to/JS] [Testing your React app with mocks](https://dev.to/le_humch/testing-your-react-app-with-mocks-2hp2)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
