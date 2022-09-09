@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
 - [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
 - [Lifehacker] [Five Drinking Terms Everyone at the Bar Should Know](https://lifehacker.com/five-drinking-terms-everyone-at-the-bar-should-know-1849517914)
@@ -37,12 +38,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [1. Regex - podstawy](https://dev.to/knighteq_pl/1-regex-podstawy-4i53)
 - [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)
 - [Dev.to/JS] [100DaysofReact &lpar;Day 1&rpar;](https://dev.to/rajkamalkanna/100daysofreact-c9n)
+- [Dev.to/JS] [RegEx 101](https://dev.to/greenido/regex-101-1maa)
 - [Dev.to/JS] [Mastering JavaScript 🧑‍💻: Closures](https://dev.to/saverio683/mastering-javascript-closures-2af7)
 - [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)
 - [Dev.to/JS] [How We Used Airtable To Create An Email Subscriber Form On Noteslify For $0!!!](https://dev.to/dvstechlabs/how-we-used-airtable-to-create-an-email-subscriber-form-on-noteslify-for-0-3lod)
 - [Dev.to/JS] [A Quick Look At Some Popular Array Methods In JavaScript](https://dev.to/damiensedgwick/a-quick-look-at-some-popular-array-methods-in-javascript-1bnp)
 - [Lifehacker] [How to Know If Your Kid Really Needs Braces](https://lifehacker.com/how-to-know-if-your-kid-really-needs-braces-1849517348)
-- [Dev.to/JS] [⏱️Build A StopWatch | CSS &amp; JavaScript🚀](https://dev.to/robsonmuniz16/build-a-stopwatch-css-javascript-4o64)
 - [Lifehacker] [You Can Update Your PS5 Controller Using a Windows PC](https://lifehacker.com/you-can-update-your-ps5-controller-using-a-windows-pc-1849516640)
 - [Lifehacker] [How to Clean Puke Out of Your Car](https://lifehacker.com/how-to-clean-puke-out-of-your-car-1849514900)
 - [Lifehacker] [The Best Fall Trips and Activities in Each of the 50 States](https://lifehacker.com/the-best-fall-trips-and-activities-in-each-of-the-50-st-1849512201)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)
 - [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)
 - [Lifehacker] [Here’s What Happens After the Queen&#39;s Death](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)
-- [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)
-- [Lifehacker] [Turn Your Leftover Oatmeal Into Fried Oatmeal Squares](https://lifehacker.com/turn-your-leftover-oatmeal-into-fried-oatmeal-squares-1849510720)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)<!-- TECH-POSTS:END -->
 
 ---
 
