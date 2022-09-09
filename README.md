@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [⏱️Build A StopWatch | CSS &amp; JavaScript🚀](https://dev.to/robsonmuniz16/build-a-stopwatch-css-javascript-4o64)
+- [Lifehacker] [You Can Update Your PS5 Controller Using a Windows PC](https://lifehacker.com/you-can-update-your-ps5-controller-using-a-windows-pc-1849516640)
+- [Dev.to/JS] [Custom VSCode Snippets](https://dev.to/f53/custom-vscode-snippets-5550)
+- [Dev.to/JS] [Next.js &amp; Supabase in 16 minutes](https://dev.to/guillaumeduhan/nextjs-supabase-in-16-minutes-1939)
+- [Dev.to/JS] [Handling Errors in JavaScript.](https://dev.to/zubairgujjar997/handle-with-errors-in-javascript-3bc1)
+- [Lifehacker] [How to Clean Puke Out of Your Car](https://lifehacker.com/how-to-clean-puke-out-of-your-car-1849514900)
 - [Lifehacker] [The Best Fall Trips and Activities in Each of the 50 States](https://lifehacker.com/the-best-fall-trips-and-activities-in-each-of-the-50-st-1849512201)
 - [Lifehacker] [How to Support Your Burnt-Out Teenager](https://lifehacker.com/how-to-support-your-burnt-out-teenager-1849512950)
 - [Dev.to/JS] [Offsite Tape Storage for Backups: An Overview](https://dev.to/alextraytech/offsite-tape-storage-for-backups-an-overview-4ij4)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build Creative Education Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-creative-education-website-using-html-css-javascript-5h4p)
 - [Dev.to/JS] [How to export your data from Google Sheets to JSON](https://dev.to/oschertar/how-to-export-your-data-from-google-sheets-to-json-3ih8)
 - [Dev.to/JS] [How did you get out of tutorial hell?](https://dev.to/coderamrin/how-did-you-get-out-of-tutorial-hell-8cf)
-- [Dev.to/JS] [Codebase Tour Through An Advanced React Project - How The Pieces Fit Together &lpar;incl video&rpar;](https://dev.to/profydev/codebase-tour-through-an-advanced-react-project-how-the-pieces-fit-together-incl-video-2m94)
-- [Dev.to/JS] [Optimize Next.js App Bundle and Improve Its Performance](https://dev.to/syncfusion/optimize-nextjs-app-bundle-and-improve-its-performance-4om0)
-- [Dev.to/JS] [TRUST OUR PROFESSIONAL HOUSE CLEANERS IN LONDON](https://dev.to/ellisonparker7/trust-our-professional-house-cleaners-in-london-4hig)
-- [Dev.to/JS] [How to Push an empty commit?](https://dev.to/devsimc/how-to-push-an-empty-commit-28dd)
 - [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know About This Year&#39;s Flu Shot](https://lifehacker.com/everything-you-need-to-know-about-this-years-flu-shot-1849507118)
 - [Lifehacker] [Don’t Upgrade Your AirPods Pro](https://lifehacker.com/don-t-upgrade-your-airpods-pro-1849507362)
 - [Lifehacker] [6 Ways to Know If You&#39;re the Toxic One in a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/6-ways-to-know-if-youre-the-toxic-one-in-a-relationship-1849507129)
-- [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)
-- [Lifehacker] [Should I Do High Reps or Low Reps?](https://lifehacker.com/should-i-do-high-reps-or-low-reps-1849506311)
-- [Lifehacker] [How to Wear Vintage Clothing Without Destroying It](https://lifehacker.com/how-to-wear-vintage-clothing-without-destroying-it-1849505184)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Can You Actually Learn to Play Music From a Video Game?](https://lifehacker.com/can-you-actually-learn-to-play-music-from-a-video-game-1849506209)<!-- TECH-POSTS:END -->
 
 ---
 
