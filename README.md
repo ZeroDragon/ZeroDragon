@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Absolute path in React](https://dev.to/hidaytrahman/absolute-path-in-react-125h)
+- [Dev.to/JS] [JavaScript sending data between windows](https://dev.to/dailydevtips1/javascript-sending-data-between-windows-1ima)
 - [Dev.to/JS] [Forms with React Hooks](https://dev.to/methmi/forms-with-react-hooks-ig0)
 - [Dev.to/JS] [Classes in JavaScript](https://dev.to/sujithvsuresh/classes-in-javascript-41fi)
 - [Dev.to/JS] [Where should I practice after completing HTML, CSS, Bootstrap, JavaScript, DOM and a little bit of jQuery?](https://dev.to/kaih_ke_lunga/where-should-i-practice-after-completing-html-css-bootstrap-javascript-dom-and-a-little-bit-of-jquery-431)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploying different CloudFormation stacks based on different AWS accounts with AWS CDK](https://dev.to/aws-builders/deploying-different-cloudformation-stacks-based-on-different-aws-accounts-with-aws-cdk-338g)
 - [Dev.to/JS] [Is Low-Code / No-Code The Future of Software Engineering?](https://dev.to/domfive/is-low-code-no-code-the-future-of-software-engineering-2oh8)
 - [Dev.to/JS] [Starting a personal dashboard with the Spotify API](https://dev.to/jpreagan/starting-a-personal-dashboard-with-the-spotify-api-526p)
-- [Dev.to/JS] [GlucoTrust - Blood Sugar Reviews, Results, Uses And Benefits?](https://dev.to/glucotrust8/glucotrust-blood-sugar-reviews-results-uses-and-benefits-imp)
-- [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 18: Understanding Bytecode and How to Debug it](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-18-understanding-bytecode-and-how-to-debug-it-1nch)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
