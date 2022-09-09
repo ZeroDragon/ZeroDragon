@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Codebase Tour Through An Advanced React Project - How The Pieces Fit Together &lpar;incl video&rpar;](https://dev.to/profydev/codebase-tour-through-an-advanced-react-project-how-the-pieces-fit-together-incl-video-2m94)
+- [Dev.to/JS] [Skincell Advanced &lpar; Au&rpar; - Skin Care Results, Price, Reviews &amp; Benefits?](https://dev.to/skincelladvanc5/skincell-advanced-au-skin-care-results-price-reviews-benefits-3gg7)
 - [Dev.to/JS] [TRUST OUR PROFESSIONAL HOUSE CLEANERS IN LONDON](https://dev.to/ellisonparker7/trust-our-professional-house-cleaners-in-london-4hig)
 - [Dev.to/JS] [How to Push an empty commit?](https://dev.to/devsimc/how-to-push-an-empty-commit-28dd)
 - [Dev.to/JS] [Building a backbone for a full-stack web app with a single config file](https://dev.to/wasp/building-a-backbone-for-a-full-stack-web-app-with-a-single-config-file-43g0)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SELENIUM TRAINING IN HYDERABAD | SELENIUM TRAINING IN KUKATPALLY | SELENIUM ONLINE TRAINING](https://dev.to/techkosmik/selenium-training-in-hyderabad-selenium-training-in-kukatpally-selenium-online-training-3622)
 - [Dev.to/JS] [I Built An Animation Tool With Angular!](https://dev.to/datmt/i-built-an-animation-tool-with-angular-19pd)
 - [Dev.to/JS] [Rest and Spread operator in JavaScript | ES6](https://dev.to/sujithvsuresh/rest-and-spread-operator-in-javascript-es6-3gd8)
-- [Dev.to/JS] [JavaScript tic tac toe - beginner level - t24](https://dev.to/sfundomhlungu/javascript-tic-tac-toe-beginner-level-t24-46ef)
-- [Dev.to/JS] [Membuat debounce function](https://dev.to/ridhopamungkas/membuat-debounce-function-p7j)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
