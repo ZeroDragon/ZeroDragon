@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ultimate guide for implementing Repository pattern and Unit of work for .NET core](https://dev.to/ifourtechnolab/ultimate-guide-for-implementing-repository-pattern-and-unit-of-work-for-net-core-2gch)
+- [Dev.to/JS] [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://dev.to/letswrite/vue-3-tailwind-css-3-esbuild-rollupjs-kai-fa-chu-shi-dang-425a)
 - [Dev.to/JS] [Intersection of Two Linked Lists](https://dev.to/zeeshanali0704/intersection-of-two-linked-lists-4dk1)
 - [Dev.to/JS] [Deploying different CloudFormation stacks based on different AWS accounts with AWS CDK](https://dev.to/aws-builders/deploying-different-cloudformation-stacks-based-on-different-aws-accounts-with-aws-cdk-338g)
 - [Dev.to/JS] [Is Low-Code / No-Code The Future of Software Engineering?](https://dev.to/domfive/is-low-code-no-code-the-future-of-software-engineering-2oh8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Looking for a study buddy to learn Web Dev](https://dev.to/sergiysharipov/looking-for-a-study-buddy-to-learn-web-dev-jne)
 - [Dev.to/JS] [Build Static Blogs with Keystone](https://dev.to/flexdinesh/build-static-blogs-with-keystone-28kn)
 - [Dev.to/JS] [Download Button Animation](https://dev.to/mohammadsahragard/download-button-animation-3085)
-- [Dev.to/JS] [How to Create a Full Autocomplete Search Application with Elasticsearch and NestJs - Part 2](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-2-a6b)
-- [Dev.to/JS] [Advantages and disadvantages of Next.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nextjs-5hg6)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
