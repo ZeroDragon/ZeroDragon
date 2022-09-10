@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
+- [Dev.to/JS] [Real world use cases of object proxies](https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87)
+- [Dev.to/JS] [Importing a CSV &lpar;spreadsheet&rpar; File with JavaScript](https://dev.to/ekr990011/importing-a-csv-spreadsheet-file-with-javascript-4n67)
+- [Dev.to/JS] [The Rising Coder - Week 2/13 &lpar;Fundamentals Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-213-fundamentals-week-13-1pbd)
+- [Dev.to/JS] [State of JSX in JavaScript Frameworks](https://dev.to/kidonng/state-of-jsx-in-javascript-frameworks-5h12)
+- [Dev.to/JS] [On demand ISR with Next.JS and Sanity](https://dev.to/finiam/on-demand-isr-with-nextjs-and-sanity-416j)
+- [Dev.to/JS] [Scope and Hoisting of Variables in JavaScript](https://dev.to/rembertdesigns/scope-and-hoisting-of-variables-in-javascript-ij7)
 - [Dev.to/JS] [Learn &#39;this&#39; Like Never before in JavaScript⚙️](https://dev.to/iarchitsharma/learn-this-like-never-before-in-javascript-3ecn)
 - [Dev.to/JS] [I am 11 years old and I am artificial intelligence engineer !](https://dev.to/sula9000/i-am-11-years-old-and-i-am-artificial-intelligence-engineer-5eig)
 - [Dev.to/JS] [Why do programs have configurations?](https://dev.to/volker_schukai/why-do-programs-have-configurations-40o4)
@@ -30,13 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Dev.to/JS] [About some popular internet protocols](https://dev.to/sakethkowtha/about-some-popular-protocols-3i1d)
 - [Dev.to/JS] [How to use Formik to update multiple forms in React JS?](https://dev.to/wahidsherief/how-to-use-formik-to-update-multiple-forms-in-react-js-1hd3)
-- [Dev.to/JS] [Understanding JavaScript Events](https://dev.to/rembertdesigns/understanding-javascript-events-2eoc)
-- [Dev.to/JS] [Using find function nodejs](https://dev.to/husainahar/using-find-function-nodejs-4j4d)
-- [Dev.to/JS] [Final Part: GSoC 2022 | Rocket.Chat | EmbeddedChat](https://dev.to/sidmohanty11/final-part-gsoc-2022-rocketchat-embeddedchat-37g8)
-- [Dev.to/JS] [Sets and their usefulness](https://dev.to/hath995/sets-and-their-usefulness-20p4)
-- [Dev.to/JS] [Svelte Summit Fall 2022: SvelteKit hits RC phase! 🎉](https://dev.to/mandrasch/svelte-summit-fall-2022-sveltekit-hits-rc-phase-52p6)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
-- [Dev.to/JS] [Mocking setTimeout with Jest](https://dev.to/marekrozmus/mocking-settimeout-with-jest-1jhl)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Sensory Activities Won&#39;t Make a Giant Mess of Your Home](https://lifehacker.com/these-sensory-activities-wont-make-a-giant-mess-of-your-1849512089)
 - [Lifehacker] [Why You Feel Cranky on Your Rest Days &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-feel-cranky-on-your-rest-days-and-what-to-do-a-1849512300)
 - [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)
-- [Lifehacker] [11 Innovative Podcasts to Listen to If You&#39;re Bored With Podcasts](https://lifehacker.com/11-innovative-podcasts-to-listen-to-if-youre-bored-with-1849512142)
-- [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Innovative Podcasts to Listen to If You&#39;re Bored With Podcasts](https://lifehacker.com/11-innovative-podcasts-to-listen-to-if-youre-bored-with-1849512142)<!-- TECH-POSTS:END -->
 
 ---
 
