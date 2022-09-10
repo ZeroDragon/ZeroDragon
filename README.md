@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Formik to update multiple forms in React JS?](https://dev.to/wahidsherief/how-to-use-formik-to-update-multiple-forms-in-react-js-1hd3)
+- [Dev.to/JS] [Understanding JavaScript Events](https://dev.to/rembertdesigns/understanding-javascript-events-2eoc)
+- [Dev.to/JS] [Using find function nodejs](https://dev.to/husainahar/using-find-function-nodejs-4j4d)
+- [Dev.to/JS] [Final Part: GSoC 2022 | Rocket.Chat | EmbeddedChat](https://dev.to/sidmohanty11/final-part-gsoc-2022-rocketchat-embeddedchat-37g8)
 - [Dev.to/JS] [Sets and their usefulness](https://dev.to/hath995/sets-and-their-usefulness-20p4)
 - [Dev.to/JS] [Svelte Summit Fall 2022: SvelteKit hits RC phase! 🎉](https://dev.to/mandrasch/svelte-summit-fall-2022-sveltekit-hits-rc-phase-52p6)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [20+ React Libraries to Jumpstart your next project](https://dev.to/mojodev/20-react-libraries-to-jumpstart-your-next-project-30fd)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
 - [Dev.to/JS] [Understanding Asynchronous Javascript with Callbacks](https://dev.to/zulhariz/understanding-asynchronous-javascript-with-callbacks-4m86)
-- [Dev.to/JS] [10 React Principles, Concepts Every React developer Must know](https://dev.to/mojodev/10-react-principles-concepts-every-react-developer-must-know-3549)
-- [Dev.to/JS] [Spreading arrays in a resilient way using JavaScript/TypeScript](https://dev.to/jwwnz/spreading-arrays-in-a-resilient-way-using-javascripttypescript-1990)
-- [Dev.to/JS] [Bruh. I accidentaly deleted my project before pushing it to github.](https://dev.to/getusha/bruh-i-accidentaly-deleted-my-project-before-pushing-it-to-github-jc3)
-- [Dev.to/JS] [How to detect AdBlock in plain JavaScript with a few lines of code](https://dev.to/ondrejsevcik/how-to-detect-adblock-in-plain-javascript-with-a-few-lines-of-code-5g27)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
 - [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
