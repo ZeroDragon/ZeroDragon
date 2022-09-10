@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [I&#39;ve built a simple boilerplate generator for node express.js apps.](https://dev.to/gunvantsr_61/ive-built-a-simple-boilerplate-generator-for-node-expressjs-apps-4anm)
+- [Dev.to/JS] [How to Create a Full Autocomplete Search Application with Elasticsearch, Kibana and NestJS - Part 3](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-kibana-and-nestjs-part-3-14lp)
+- [Dev.to/JS] [AlpineJS](https://dev.to/rrees/alpinejs-2d02)
+- [Dev.to/JS] [Built a simple boilerplate generator for node express.js apps.](https://dev.to/gunvants/ive-built-a-simple-boilerplate-generator-for-node-expressjs-apps-4anm)
 - [Dev.to/JS] [Avoid relative path import hell in react](https://dev.to/smitterhane/avoid-relative-path-import-hell-in-react-36in)
 - [Dev.to/JS] [Building Full Stack Permanent Applications with Arweave, Smartweave, and Next.js](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
 - [Dev.to/JS] [Make it Short - Make it Better](https://dev.to/renhiyama/make-it-short-make-it-better-4l0n)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Importing a CSV &lpar;spreadsheet&rpar; File with JavaScript](https://dev.to/ekr990011/importing-a-csv-spreadsheet-file-with-javascript-4n67)
 - [Dev.to/JS] [The Rising Coder - Week 2/13 &lpar;Fundamentals Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-213-fundamentals-week-13-1pbd)
 - [Dev.to/JS] [State of JSX in JavaScript Frameworks](https://dev.to/kidonng/state-of-jsx-in-javascript-frameworks-5h12)
-- [Dev.to/JS] [On demand ISR with Next.JS and Sanity](https://dev.to/finiam/on-demand-isr-with-nextjs-and-sanity-416j)
-- [Dev.to/JS] [Scope and Hoisting of Variables in JavaScript](https://dev.to/rembertdesigns/scope-and-hoisting-of-variables-in-javascript-ij7)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
