@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript: Get days &amp; starting day in month](https://dev.to/urstrulyvishwak/javascript-get-days-starting-day-in-month-5f1g)
 - [Dev.to/JS] [🙏Please, specify your units! 📏](https://dev.to/mistval/please-specify-your-units-5ekl)
 - [Dev.to/JS] [Code Smell 162 - Too Many Parentheses](https://dev.to/mcsee/code-smell-162-too-many-parentheses-76b)
 - [Dev.to/JS] [Mentalist](https://dev.to/10dave/mentalist-1mi2)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React most popular](https://dev.to/bhaskarkashyap/react-most-popular-15l3)
 - [Lifehacker] [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)
 - [Dev.to/JS] [What is the ternary operator and how do I use it?](https://dev.to/trinityyi/what-is-the-ternary-operator-and-how-do-i-use-it-1klb)
-- [Dev.to/JS] [Delete Nth Node From Last LinkedList](https://dev.to/zeeshanali0704/delete-nth-node-from-last-linkedlist-5dgn)
 - [Lifehacker] [How to Fix the Uninstalled DLC Bug on PS4](https://lifehacker.com/how-to-fix-the-uninstalled-dlc-bug-on-ps4-1849517386)
 - [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)
 - [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)
