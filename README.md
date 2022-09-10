@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Put Overlays on image and fit in different aspect ratios](https://dev.to/jimmyyeung/put-overlays-on-image-and-fit-in-different-aspect-ratios-10hn)
+- [Dev.to/JS] [Building Web Components 101 - Part 1](https://dev.to/tebin/building-web-components-101-part-1-5p5)
 - [Dev.to/JS] [🌈 Building an Animated and Accessible Command Menu in React](https://dev.to/harshhhdev/building-an-animated-and-accessible-command-menu-in-react-5daj)
 - [Dev.to/JS] [i created oxideapi⚛api developing ecosystem in react js](https://dev.to/sripadhs/i-created-oxideapiapi-developing-ecosystem-in-react-js-4d6f)
 - [Dev.to/JS] [188. Leetcode Solution in javascript](https://dev.to/chiki1601/188-leetcode-solution-in-javascript-1a7j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 162 - Too Many Parentheses](https://dev.to/mcsee/code-smell-162-too-many-parentheses-76b)
 - [Dev.to/JS] [Mentalist](https://dev.to/10dave/mentalist-1mi2)
 - [Dev.to/JS] [Clustering com Dados do FIFA 20: Monte um Time Implacável](https://dev.to/nabeiradocampo/clustering-com-dados-do-fifa-20-monte-um-time-implacavel-3p7h)
-- [Dev.to/JS] [*ngIf&lpar;Angular&rpar; and v-if &lpar;Vue&rpar; alternative in React](https://dev.to/pavankjadda/ngifangular-and-v-if-vue-alternative-in-react-3l67)
-- [Dev.to/JS] [TEST 1](https://dev.to/moonchoi/test-1-2kh4)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
 - [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
