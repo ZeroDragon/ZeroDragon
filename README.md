@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [20+ React Libraries to Jumpstart your next project](https://dev.to/mojodev/20-react-libraries-to-jumpstart-your-next-project-30fd)
+- [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
+- [Dev.to/JS] [Understanding Asynchronous Javascript with Callbacks](https://dev.to/zulhariz/understanding-asynchronous-javascript-with-callbacks-4m86)
 - [Dev.to/JS] [10 React Principles, Concepts Every React developer Must know](https://dev.to/mojodev/10-react-principles-concepts-every-react-developer-must-know-3549)
 - [Dev.to/JS] [Spreading arrays in a resilient way using JavaScript/TypeScript](https://dev.to/jwwnz/spreading-arrays-in-a-resilient-way-using-javascripttypescript-1990)
 - [Dev.to/JS] [Bruh. I accidentaly deleted my project before pushing it to github.](https://dev.to/getusha/bruh-i-accidentaly-deleted-my-project-before-pushing-it-to-github-jc3)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Function Hoisting In JavaScript](https://dev.to/chaharsumit/function-hoisting-in-javascript-1bj9)
 - [Dev.to/JS] [Polyfill: curry&lpar;&rpar;](https://dev.to/tusharshahi/polyfill-curry-4pl3)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;10-09-2022&rpar; - Death of the Queen](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-09-2022-death-of-the-queen-4l44)
-- [Dev.to/JS] [Put Overlays on image and fit in different aspect ratios](https://dev.to/jimmyyeung/put-overlays-on-image-and-fit-in-different-aspect-ratios-10hn)
-- [Dev.to/JS] [Building Web Components 101 - Part 1](https://dev.to/tebin/building-web-components-101-part-1-5p5)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
 - [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Innovative Podcasts to Listen to If You&#39;re Bored With Podcasts](https://lifehacker.com/11-innovative-podcasts-to-listen-to-if-youre-bored-with-1849512142)
 - [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)
 - [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)
-- [Lifehacker] [Here’s What Happens After the Queen&#39;s Death](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)
-- [Crazy Programmer] [10 Best Colleges in India for Computer Science [Private &amp; Government]](https://www.thecrazyprogrammer.com/2022/09/colleges-in-india-for-computer-science.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s What Happens After the Queen&#39;s Death](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)<!-- TECH-POSTS:END -->
 
 ---
 
