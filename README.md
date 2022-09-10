@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🙏Please, specify your units! 📏](https://dev.to/mistval/please-specify-your-units-5ekl)
+- [Dev.to/JS] [Code Smell 162 - Too Many Parentheses](https://dev.to/mcsee/code-smell-162-too-many-parentheses-76b)
+- [Dev.to/JS] [Mentalist](https://dev.to/10dave/mentalist-1mi2)
 - [Dev.to/JS] [Clustering com Dados do FIFA 20: Monte um Time Implacável](https://dev.to/nabeiradocampo/clustering-com-dados-do-fifa-20-monte-um-time-implacavel-3p7h)
 - [Dev.to/JS] [*ngIf&lpar;Angular&rpar; and v-if &lpar;Vue&rpar; alternative in React](https://dev.to/pavankjadda/ngifangular-and-v-if-vue-alternative-in-react-3l67)
 - [Dev.to/JS] [TEST 1](https://dev.to/moonchoi/test-1-2kh4)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the ternary operator and how do I use it?](https://dev.to/trinityyi/what-is-the-ternary-operator-and-how-do-i-use-it-1klb)
 - [Dev.to/JS] [Delete Nth Node From Last LinkedList](https://dev.to/zeeshanali0704/delete-nth-node-from-last-linkedlist-5dgn)
 - [Lifehacker] [How to Fix the Uninstalled DLC Bug on PS4](https://lifehacker.com/how-to-fix-the-uninstalled-dlc-bug-on-ps4-1849517386)
-- [Dev.to/JS] [HTML/CSS/JS, demande d&#39;aide](https://dev.to/chrstn67/htmlcssjs-demande-daide-d6l)
-- [Dev.to/JS] [Desvendando mistérios/Imprimindo Respostas](https://dev.to/alinehalley/desvendando-misteriosimprimindo-respostas-5f08)
-- [Dev.to/JS] [1. Regex - podstawy](https://dev.to/knighteq_pl/1-regex-podstawy-4i53)
 - [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)
 - [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)
 - [Lifehacker] [How to Know If Your Kid Really Needs Braces](https://lifehacker.com/how-to-know-if-your-kid-really-needs-braces-1849517348)
