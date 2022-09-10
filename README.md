@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn &#39;this&#39; Like Never before in JavaScript⚙️](https://dev.to/iarchitsharma/learn-this-like-never-before-in-javascript-3ecn)
+- [Dev.to/JS] [I am 11 years old and I am artificial intelligence engineer !](https://dev.to/sula9000/i-am-11-years-old-and-i-am-artificial-intelligence-engineer-5eig)
+- [Dev.to/JS] [Why do programs have configurations?](https://dev.to/volker_schukai/why-do-programs-have-configurations-40o4)
+- [Dev.to/JS] [How to find react native developers?](https://dev.to/developerbishwas/how-to-find-react-native-developers-4o2)
+- [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
+- [Dev.to/JS] [About some popular internet protocols](https://dev.to/sakethkowtha/about-some-popular-protocols-3i1d)
 - [Dev.to/JS] [How to use Formik to update multiple forms in React JS?](https://dev.to/wahidsherief/how-to-use-formik-to-update-multiple-forms-in-react-js-1hd3)
 - [Dev.to/JS] [Understanding JavaScript Events](https://dev.to/rembertdesigns/understanding-javascript-events-2eoc)
 - [Dev.to/JS] [Using find function nodejs](https://dev.to/husainahar/using-find-function-nodejs-4j4d)
@@ -31,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte Summit Fall 2022: SvelteKit hits RC phase! 🎉](https://dev.to/mandrasch/svelte-summit-fall-2022-sveltekit-hits-rc-phase-52p6)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Dev.to/JS] [Mocking setTimeout with Jest](https://dev.to/marekrozmus/mocking-settimeout-with-jest-1jhl)
-- [Dev.to/JS] [== Vs === confusion Solve...🌟](https://dev.to/roshan_100kar/-vs-confusion-solve-4dim)
-- [Dev.to/JS] [Think First, Code Second](https://dev.to/decker67/think-first-code-second-40cj)
-- [Dev.to/JS] [Json to SQL { .db file }](https://dev.to/roycebob/json-to-sql-db-file--5h0c)
-- [Dev.to/JS] [20+ React Libraries to Jumpstart your next project](https://dev.to/mojodev/20-react-libraries-to-jumpstart-your-next-project-30fd)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
-- [Dev.to/JS] [Understanding Asynchronous Javascript with Callbacks](https://dev.to/zulhariz/understanding-asynchronous-javascript-with-callbacks-4m86)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
 - [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Feel Cranky on Your Rest Days &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-feel-cranky-on-your-rest-days-and-what-to-do-a-1849512300)
 - [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)
 - [Lifehacker] [11 Innovative Podcasts to Listen to If You&#39;re Bored With Podcasts](https://lifehacker.com/11-innovative-podcasts-to-listen-to-if-youre-bored-with-1849512142)
-- [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)
-- [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)<!-- TECH-POSTS:END -->
 
 ---
 
