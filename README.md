@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte Summit Fall 2022: SvelteKit hits RC phase! 🎉](https://dev.to/mandrasch/svelte-summit-fall-2022-sveltekit-hits-rc-phase-52p6)
+- [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Dev.to/JS] [Mocking setTimeout with Jest](https://dev.to/marekrozmus/mocking-settimeout-with-jest-1jhl)
 - [Dev.to/JS] [== Vs === confusion Solve...🌟](https://dev.to/roshan_100kar/-vs-confusion-solve-4dim)
 - [Dev.to/JS] [Think First, Code Second](https://dev.to/decker67/think-first-code-second-40cj)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bruh. I accidentaly deleted my project before pushing it to github.](https://dev.to/getusha/bruh-i-accidentaly-deleted-my-project-before-pushing-it-to-github-jc3)
 - [Dev.to/JS] [How to detect AdBlock in plain JavaScript with a few lines of code](https://dev.to/ondrejsevcik/how-to-detect-adblock-in-plain-javascript-with-a-few-lines-of-code-5g27)
 - [Dev.to/JS] [WELCOME TO THE HOME OF THE HOTTEST ESCORTS IN DELHI](https://dev.to/mandirachopra1/welcome-to-the-home-of-the-hottest-escorts-in-delhi-kd)
-- [Dev.to/JS] [Mastering JavaScript 🧑‍💻: Closures](https://dev.to/saverio683/mastering-javascript-closures-3ij8)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
 - [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)
 - [Lifehacker] [11 Innovative Podcasts to Listen to If You&#39;re Bored With Podcasts](https://lifehacker.com/11-innovative-podcasts-to-listen-to-if-youre-bored-with-1849512142)
 - [Lifehacker] [Reddit Thinks Your TV Is Too High](https://lifehacker.com/reddit-thinks-your-tv-is-too-high-1849511156)
-- [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)
-- [Lifehacker] [Here’s What Happens After the Queen&#39;s Death](https://lifehacker.com/here-s-what-will-happen-when-the-queen-dies-1849511159)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Do I Prevent Muscle Soreness?](https://lifehacker.com/how-do-i-prevent-muscle-soreness-1849511196)<!-- TECH-POSTS:END -->
 
 ---
 
