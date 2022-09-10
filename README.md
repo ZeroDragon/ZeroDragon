@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;ve built a simple boilerplate generator for node express.js apps.](https://dev.to/gunvantsr_61/ive-built-a-simple-boilerplate-generator-for-node-expressjs-apps-4anm)
+- [Dev.to/JS] [Avoid relative path import hell in react](https://dev.to/smitterhane/avoid-relative-path-import-hell-in-react-36in)
+- [Dev.to/JS] [Building Full Stack Permanent Applications with Arweave, Smartweave, and Next.js](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
 - [Dev.to/JS] [Make it Short - Make it Better](https://dev.to/renhiyama/make-it-short-make-it-better-4l0n)
 - [Dev.to/JS] [Structuring SEO and Format of a page in Next.js Effectively](https://dev.to/shubhdeep12/structuring-seo-and-format-of-a-page-in-nextjs-effectively-3o1c)
 - [Dev.to/JS] [Creating a storage contract with EthersJs &lpar;notes from Freecodecamp&rpar;](https://dev.to/muratcanyuksel/creating-a-storage-contract-with-ethersjs-notes-from-freecodecamp-2oa6)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State of JSX in JavaScript Frameworks](https://dev.to/kidonng/state-of-jsx-in-javascript-frameworks-5h12)
 - [Dev.to/JS] [On demand ISR with Next.JS and Sanity](https://dev.to/finiam/on-demand-isr-with-nextjs-and-sanity-416j)
 - [Dev.to/JS] [Scope and Hoisting of Variables in JavaScript](https://dev.to/rembertdesigns/scope-and-hoisting-of-variables-in-javascript-ij7)
-- [Dev.to/JS] [Learn &#39;this&#39; Like Never before in JavaScript⚙️](https://dev.to/iarchitsharma/learn-this-like-never-before-in-javascript-3ecn)
-- [Dev.to/JS] [I am 11 years old and I am artificial intelligence engineer !](https://dev.to/sula9000/i-am-11-years-old-and-i-am-artificial-intelligence-engineer-5eig)
-- [Dev.to/JS] [Why do programs have configurations?](https://dev.to/volker_schukai/why-do-programs-have-configurations-40o4)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
