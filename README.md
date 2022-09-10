@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing Phaser Games with Vitest](https://dev.to/davidmorais/testing-phaser-games-with-vitest-3kon)
+- [Dev.to/JS] [The greatest skill issue of all time: building my first typescript application](https://dev.to/ironcladdev/the-greatest-skill-issue-of-all-time-building-my-first-typescript-application-3g84)
 - [Dev.to/JS] [Blade Component and Directive for Demo App](https://dev.to/saaberdev/blade-component-and-directive-for-demo-app-4649)
 - [Dev.to/JS] [How to Create a Full Autocomplete Search Application with Elasticsearch, Kibana and NestJS - Part 3](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-kibana-and-nestjs-part-3-14lp)
 - [Dev.to/JS] [AlpineJS](https://dev.to/rrees/alpinejs-2d02)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a storage contract with EthersJs &lpar;notes from Freecodecamp&rpar;](https://dev.to/muratcanyuksel/creating-a-storage-contract-with-ethersjs-notes-from-freecodecamp-2oa6)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Dev.to/JS] [Real world use cases of object proxies](https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87)
-- [Dev.to/JS] [Importing a CSV &lpar;spreadsheet&rpar; File with JavaScript](https://dev.to/ekr990011/importing-a-csv-spreadsheet-file-with-javascript-4n67)
-- [Dev.to/JS] [The Rising Coder - Week 2/13 &lpar;Fundamentals Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-213-fundamentals-week-13-1pbd)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
