@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You can build anything with these 6 characters: []{}!+](https://dev.to/freebeliever/you-can-build-anything-with-these-6-characters--3623)
+- [Dev.to/JS] [How to Destructure Class Methods](https://dev.to/richardtorres314/how-to-destructure-class-methods-4i18)
 - [Dev.to/JS] [Javascript: Get days &amp; starting day in month](https://dev.to/urstrulyvishwak/javascript-get-days-starting-day-in-month-5f1g)
 - [Dev.to/JS] [🙏Please, specify your units! 📏](https://dev.to/mistval/please-specify-your-units-5ekl)
 - [Dev.to/JS] [Code Smell 162 - Too Many Parentheses](https://dev.to/mcsee/code-smell-162-too-many-parentheses-76b)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Drinking Terms Everyone at the Bar Should Know](https://lifehacker.com/five-drinking-terms-everyone-at-the-bar-should-know-1849517914)
 - [Dev.to/JS] [Conversor de moedas](https://dev.to/rochauriartt/conversor-de-moedas-id3-47of)
 - [Dev.to/JS] [The Staircase problem &lpar;a JavaScript solution&rpar;](https://dev.to/andreajasper/the-staircase-problem-a-javascript-solution-5955)
-- [Dev.to/JS] [React most popular](https://dev.to/bhaskarkashyap/react-most-popular-15l3)
 - [Lifehacker] [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)
-- [Dev.to/JS] [What is the ternary operator and how do I use it?](https://dev.to/trinityyi/what-is-the-ternary-operator-and-how-do-i-use-it-1klb)
 - [Lifehacker] [How to Fix the Uninstalled DLC Bug on PS4](https://lifehacker.com/how-to-fix-the-uninstalled-dlc-bug-on-ps4-1849517386)
 - [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)
 - [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)
