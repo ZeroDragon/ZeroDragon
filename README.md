@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clustering com Dados do FIFA 20: Monte um Time Implacável](https://dev.to/nabeiradocampo/clustering-com-dados-do-fifa-20-monte-um-time-implacavel-3p7h)
+- [Dev.to/JS] [*ngIf&lpar;Angular&rpar; and v-if &lpar;Vue&rpar; alternative in React](https://dev.to/pavankjadda/ngifangular-and-v-if-vue-alternative-in-react-3l67)
 - [Dev.to/JS] [TEST 1](https://dev.to/moonchoi/test-1-2kh4)
 - [Dev.to/JS] [AluraDisc](https://dev.to/rochauriartt/aluradisc-3gmb)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Desvendando mistérios/Imprimindo Respostas](https://dev.to/alinehalley/desvendando-misteriosimprimindo-respostas-5f08)
 - [Dev.to/JS] [1. Regex - podstawy](https://dev.to/knighteq_pl/1-regex-podstawy-4i53)
 - [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)
-- [Dev.to/JS] [100DaysofReact &lpar;Day 1&rpar;](https://dev.to/rajkamalkanna/100daysofreact-c9n)
-- [Dev.to/JS] [RegEx 101](https://dev.to/greenido/regex-101-1maa)
 - [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)
 - [Lifehacker] [How to Know If Your Kid Really Needs Braces](https://lifehacker.com/how-to-know-if-your-kid-really-needs-braces-1849517348)
 - [Lifehacker] [You Can Update Your PS5 Controller Using a Windows PC](https://lifehacker.com/you-can-update-your-ps5-controller-using-a-windows-pc-1849516640)
