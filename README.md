@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a storage contract with EthersJs &lpar;notes from Freecodecamp&rpar;](https://dev.to/muratcanyuksel/creating-a-storage-contract-with-ethersjs-notes-from-freecodecamp-2oa6)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Dev.to/JS] [Real world use cases of object proxies](https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87)
 - [Dev.to/JS] [Importing a CSV &lpar;spreadsheet&rpar; File with JavaScript](https://dev.to/ekr990011/importing-a-csv-spreadsheet-file-with-javascript-4n67)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to find react native developers?](https://dev.to/developerbishwas/how-to-find-react-native-developers-4o2)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Dev.to/JS] [About some popular internet protocols](https://dev.to/sakethkowtha/about-some-popular-protocols-3i1d)
-- [Dev.to/JS] [How to use Formik to update multiple forms in React JS?](https://dev.to/wahidsherief/how-to-use-formik-to-update-multiple-forms-in-react-js-1hd3)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
