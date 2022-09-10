@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mocking setTimeout with Jest](https://dev.to/marekrozmus/mocking-settimeout-with-jest-1jhl)
+- [Dev.to/JS] [== Vs === confusion Solve...🌟](https://dev.to/roshan_100kar/-vs-confusion-solve-4dim)
 - [Dev.to/JS] [Think First, Code Second](https://dev.to/decker67/think-first-code-second-40cj)
 - [Dev.to/JS] [Json to SQL { .db file }](https://dev.to/roycebob/json-to-sql-db-file--5h0c)
 - [Dev.to/JS] [20+ React Libraries to Jumpstart your next project](https://dev.to/mojodev/20-react-libraries-to-jumpstart-your-next-project-30fd)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to detect AdBlock in plain JavaScript with a few lines of code](https://dev.to/ondrejsevcik/how-to-detect-adblock-in-plain-javascript-with-a-few-lines-of-code-5g27)
 - [Dev.to/JS] [WELCOME TO THE HOME OF THE HOTTEST ESCORTS IN DELHI](https://dev.to/mandirachopra1/welcome-to-the-home-of-the-hottest-escorts-in-delhi-kd)
 - [Dev.to/JS] [Mastering JavaScript 🧑‍💻: Closures](https://dev.to/saverio683/mastering-javascript-closures-3ij8)
-- [Dev.to/JS] [Express Hardening Cheatsheet](https://dev.to/aminnairi/express-hardening-cheatsheet-p69)
-- [Dev.to/JS] [Function Hoisting In JavaScript](https://dev.to/chaharsumit/function-hoisting-in-javascript-1bj9)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
 - [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
