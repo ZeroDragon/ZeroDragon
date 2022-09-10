@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make it Short - Make it Better](https://dev.to/renhiyama/make-it-short-make-it-better-4l0n)
+- [Dev.to/JS] [Structuring SEO and Format of a page in Next.js Effectively](https://dev.to/shubhdeep12/structuring-seo-and-format-of-a-page-in-nextjs-effectively-3o1c)
 - [Dev.to/JS] [Creating a storage contract with EthersJs &lpar;notes from Freecodecamp&rpar;](https://dev.to/muratcanyuksel/creating-a-storage-contract-with-ethersjs-notes-from-freecodecamp-2oa6)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Dev.to/JS] [Real world use cases of object proxies](https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn &#39;this&#39; Like Never before in JavaScript⚙️](https://dev.to/iarchitsharma/learn-this-like-never-before-in-javascript-3ecn)
 - [Dev.to/JS] [I am 11 years old and I am artificial intelligence engineer !](https://dev.to/sula9000/i-am-11-years-old-and-i-am-artificial-intelligence-engineer-5eig)
 - [Dev.to/JS] [Why do programs have configurations?](https://dev.to/volker_schukai/why-do-programs-have-configurations-40o4)
-- [Dev.to/JS] [How to find react native developers?](https://dev.to/developerbishwas/how-to-find-react-native-developers-4o2)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
-- [Dev.to/JS] [About some popular internet protocols](https://dev.to/sakethkowtha/about-some-popular-protocols-3i1d)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
