@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como eu deixei meu site lento e mais caro](https://dev.to/tuliocalil/como-eu-deixei-meu-site-lento-e-mais-caro-4m5b)
+- [Dev.to/JS] [JavaScript Date Cheatsheet](https://dev.to/mursalfk/javascript-date-cheatsheet-2den)
+- [Dev.to/JS] [the beginning of my coding journey](https://dev.to/samity89/the-beginning-of-my-coding-journey-4hdd)
+- [Dev.to/JS] [Asynchronous in JavaScript](https://dev.to/oshyam/asynchronous-in-javascript-c86)
 - [Dev.to/JS] [Deno, Ready for a New Web](https://dev.to/kidonng/deno-ready-for-a-new-web-oik)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Dev.to/JS] [How to Run Playwright test case in CI/CD Jenkins](https://dev.to/kailashpathak7/how-to-run-playwright-test-case-in-cicd-jenkins-pal)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript: Clone object](https://dev.to/urstrulyvishwak/javascript-clone-object-1k3f)
 - [Dev.to/JS] [Create Animated India flag in HTML and CSS](https://dev.to/beginnerdeveloper/create-animated-india-flag-in-html-and-css-10ad)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
-- [Dev.to/JS] [Exfolie Serum - Legit Customer Reviews, Results, Price &amp; Side Effects?](https://dev.to/exfolieserumfa1/exfolie-serum-legit-customer-reviews-results-price-side-effects-26de)
-- [Dev.to/JS] [76. Minimum Window Substring 🚀](https://dev.to/samuelhinchliffe/76-minimum-window-substring-io)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
-- [Dev.to/JS] [Fly.io - Uma alternativa ao Heroku](https://dev.to/patrickmonteiro/flyio-uma-alternativa-ao-heroku-296)
-- [Dev.to/JS] [Function Currying: Javascript Questions](https://dev.to/soumavabanerjee/function-currying-javascript-questions-2jnm)
 - [Lifehacker] [How to Open Windows That Were Painted Shut](https://lifehacker.com/how-to-open-windows-that-were-painted-shut-1849508743)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
