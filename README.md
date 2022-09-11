@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Function Currying: Javascript Questions](https://dev.to/soumavabanerjee/function-currying-javascript-questions-2jnm)
+- [Dev.to/JS] [JavaScript tic tac toe - intermediate level - t24](https://dev.to/sfundomhlungu/javascript-tic-tac-toe-intermediate-level-t24-3epp)
 - [Lifehacker] [How to Open Windows That Were Painted Shut](https://lifehacker.com/how-to-open-windows-that-were-painted-shut-1849508743)
 - [Dev.to/JS] [How to make a modern npm package](https://dev.to/akarachen/how-to-make-a-modern-npm-package-5096)
 - [Dev.to/JS] [How to Make Responsive Blog Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-blog-website-using-html-css-javascript-264h)
@@ -30,12 +32,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning a language](https://dev.to/jamesmwaura/learning-a-language-19k)
 - [Dev.to/JS] [Send Email using HTML + JavaScript &lpar;EmailJs Tutorial&rpar;](https://dev.to/voranzov/send-email-using-html-javascript-emailjs-tutorial-33i1)
 - [Dev.to/JS] [Advanced React: useFetch custom hook. Master custom hooks in just 10 minutes.](https://dev.to/ministryofjavascript/advanced-react-usefetch-custom-hook-master-custom-hooks-in-just-10-minutes-ia7)
-- [Dev.to/JS] [The Making of A React Component Librabry](https://dev.to/aviavinav/the-making-of-a-react-component-librabry-cep)
+- [Dev.to/JS] [The Making of A React Component Library](https://dev.to/aviavinav/the-making-of-a-react-component-librabry-cep)
 - [Dev.to/JS] [Temporal Date API](https://dev.to/wolfmath/temporal-date-api-ecb)
 - [Dev.to/JS] [LeetCode - House Robber III](https://dev.to/_alkesh26/leetcode-house-robber-iii-b16)
 - [Dev.to/JS] [How to Build a Dynamic Table Component in React](https://dev.to/franciscomendes10866/how-to-build-a-dynamic-table-component-in-react-4ff8)
-- [Dev.to/JS] [Medicine for Rudolph](https://dev.to/rmion/medicine-for-rudolph-17e5)
-- [Dev.to/JS] [[SOLID] Open closed principle, explain simply](https://dev.to/kaziusan/solid-open-closed-principle-explain-simply-3319)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
