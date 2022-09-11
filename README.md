@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamically Update Divs on Webpage &lpar;flask&rpar;](https://dev.to/sukarnascience/dynamically-update-divs-on-webpage-flask-1bdo)
 - [Dev.to/JS] [Webflow&#39;s 10,000 Javascript Character Limit [bypassed]](https://dev.to/chrisdrit/webflows-10000-javascript-character-limit-bypassed-ggh)
 - [Dev.to/JS] [Looking for a Startup to work with.. 🔥🔥](https://dev.to/albert_madeit/looking-for-a-startup-to-work-with-5f5i)
 - [Dev.to/JS] [La práctica hace al programador](https://dev.to/gara501/la-practica-hace-al-programador-187o)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Loading FONTS in your Next.js/React apps - what you must know in 2022](https://dev.to/blazity/loading-fonts-in-your-nextjsreact-apps-what-you-must-know-in-2022-c3l)
 - [Dev.to/JS] [Testing Phaser Games with Vitest](https://dev.to/davidmorais/testing-phaser-games-with-vitest-3kon)
 - [Dev.to/JS] [The greatest skill issue of all time: building my first typescript application](https://dev.to/ironcladdev/the-greatest-skill-issue-of-all-time-building-my-first-typescript-application-3g84)
-- [Dev.to/JS] [Blade Component and Directive for Demo App](https://dev.to/saaberdev/blade-component-and-directive-for-demo-app-4649)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
