@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[SOLID] Open closed principle, explain simply](https://dev.to/kaziusan/solid-open-closed-principle-explain-simply-3319)
+- [Dev.to/JS] [State Management in React](https://dev.to/hugaidas/state-management-in-react-18m2)
 - [Dev.to/JS] [Writing a Discord Bot with Eris &lpar;Slash Commands Edition&rpar;](https://dev.to/canaris/writing-a-discord-bot-with-eris-slash-commands-edition-5cci)
 - [Dev.to/JS] [LeetCode - House Robber II](https://dev.to/_alkesh26/leetcode-house-robber-ii-3dc8)
 - [Dev.to/JS] [Gsap GreenSock Snippets](https://dev.to/maxrpark/gsap-greensock-snippets-2i69)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Destructuring #React Quick Notes.](https://dev.to/ajaybaraiya6/destructuring-react-quick-notes-429e)
 - [Dev.to/JS] [Top 5 Text Books will help you to learning Programming 📚](https://dev.to/roshan_100kar/top-5-text-books-will-help-you-to-learning-programming-4cop)
 - [Dev.to/JS] [Dynamically Update Divs on Webpage &lpar;flask&rpar;](https://dev.to/sukarnascience/dynamically-update-divs-on-webpage-flask-1bdo)
-- [Dev.to/JS] [Webflow&#39;s 10,000 Javascript Character Limit [bypassed]](https://dev.to/chrisdrit/webflows-10000-javascript-character-limit-bypassed-ggh)
-- [Dev.to/JS] [Looking for a Startup to work with.. 🔥🔥](https://dev.to/albert_madeit/looking-for-a-startup-to-work-with-5f5i)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
