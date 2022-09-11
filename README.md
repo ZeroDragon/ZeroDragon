@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Your Next.js Bundle Will Thank You](https://dev.to/itsrennyman/your-nextjs-bundle-will-thank-you-3lfd)
+- [Dev.to/JS] [Artificial Particle Life](https://dev.to/hunar4321/artificial-particle-life-2jpc)
+- [Dev.to/JS] [VAR vs LET vs CONST](https://dev.to/ipa22751/var-vs-let-vs-const-32op)
+- [Dev.to/JS] [Loading FONTS in your Next.js/React apps - what you must know in 2022](https://dev.to/blazity/loading-fonts-in-your-nextjsreact-apps-what-you-must-know-in-2022-c3l)
 - [Dev.to/JS] [Testing Phaser Games with Vitest](https://dev.to/davidmorais/testing-phaser-games-with-vitest-3kon)
 - [Dev.to/JS] [The greatest skill issue of all time: building my first typescript application](https://dev.to/ironcladdev/the-greatest-skill-issue-of-all-time-building-my-first-typescript-application-3g84)
 - [Dev.to/JS] [Blade Component and Directive for Demo App](https://dev.to/saaberdev/blade-component-and-directive-for-demo-app-4649)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Built a simple boilerplate generator for node express.js apps.](https://dev.to/gunvants/ive-built-a-simple-boilerplate-generator-for-node-expressjs-apps-4anm)
 - [Dev.to/JS] [Avoid relative path import hell in react](https://dev.to/smitterhane/avoid-relative-path-import-hell-in-react-36in)
 - [Dev.to/JS] [Building Full Stack Permanent Applications with Arweave, Smartweave, and Next.js](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
-- [Dev.to/JS] [Make it Short - Make it Better](https://dev.to/renhiyama/make-it-short-make-it-better-4l0n)
-- [Dev.to/JS] [Structuring SEO and Format of a page in Next.js Effectively](https://dev.to/shubhdeep12/structuring-seo-and-format-of-a-page-in-nextjs-effectively-3o1c)
-- [Dev.to/JS] [Creating a storage contract with EthersJs &lpar;notes from Freecodecamp&rpar;](https://dev.to/muratcanyuksel/creating-a-storage-contract-with-ethersjs-notes-from-freecodecamp-2oa6)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
-- [Dev.to/JS] [Real world use cases of object proxies](https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
