@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useState | One of the Most Common Hooks that You Will Be Using in React](https://dev.to/ahmetmeliksah/usestate-one-of-the-most-common-hooks-that-you-will-be-using-in-react-npm)
 - [Dev.to/JS] [tsParticles 2.3.0 Released](https://dev.to/tsparticles/tsparticles-230-released-32np)
 - [Dev.to/JS] [This is trash!](https://dev.to/ghostclonelol2000/this-is-trash-4937)
 - [Dev.to/JS] [React vs Solid - Seriously?](https://dev.to/chadsteele/react-vs-solid-seriously-4j7p)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asynchronous in JavaScript](https://dev.to/oshyam/asynchronous-in-javascript-c86)
 - [Dev.to/JS] [Deno, Ready for a New Web](https://dev.to/kidonng/deno-ready-for-a-new-web-oik)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
-- [Dev.to/JS] [How to Run Playwright test case in CI/CD Jenkins](https://dev.to/kailashpathak7/how-to-run-playwright-test-case-in-cicd-jenkins-pal)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
 - [Lifehacker] [How to Open Windows That Were Painted Shut](https://lifehacker.com/how-to-open-windows-that-were-painted-shut-1849508743)
