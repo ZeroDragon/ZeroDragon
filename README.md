@@ -23,21 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deno, Ready for a New Web](https://dev.to/kidonng/deno-ready-for-a-new-web-oik)
+- [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
+- [Dev.to/JS] [How to Run Playwright test case in CI/CD Jenkins](https://dev.to/kailashpathak7/how-to-run-playwright-test-case-in-cicd-jenkins-pal)
+- [Dev.to/JS] [Live Search in React js - Select with Mouse or Keyboard](https://dev.to/ndpniraj/live-search-in-react-js-select-with-mouse-or-keyboard-54nf)
+- [Dev.to/JS] [Allure report Integration with Playwright](https://dev.to/kailashpathak7/allure-report-integration-with-playwright-3mp1)
+- [Dev.to/JS] [Fully qualified names vs a jungle of imports](https://dev.to/gajus/fully-qualified-names-vs-a-jungle-of-imports-33p0)
+- [Dev.to/JS] [Reactstrap vs react-bootstrap](https://dev.to/aisharajput/reactstrap-vs-react-bootstrap-18h4)
+- [Dev.to/JS] [Javascript: Clone object](https://dev.to/urstrulyvishwak/javascript-clone-object-1k3f)
+- [Dev.to/JS] [Create Animated India flag in HTML and CSS](https://dev.to/beginnerdeveloper/create-animated-india-flag-in-html-and-css-10ad)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Dev.to/JS] [Exfolie Serum - Legit Customer Reviews, Results, Price &amp; Side Effects?](https://dev.to/exfolieserumfa1/exfolie-serum-legit-customer-reviews-results-price-side-effects-26de)
 - [Dev.to/JS] [76. Minimum Window Substring 🚀](https://dev.to/samuelhinchliffe/76-minimum-window-substring-io)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
 - [Dev.to/JS] [Fly.io - Uma alternativa ao Heroku](https://dev.to/patrickmonteiro/flyio-uma-alternativa-ao-heroku-296)
 - [Dev.to/JS] [Function Currying: Javascript Questions](https://dev.to/soumavabanerjee/function-currying-javascript-questions-2jnm)
-- [Dev.to/JS] [JavaScript tic tac toe - intermediate level - t24](https://dev.to/sfundomhlungu/javascript-tic-tac-toe-intermediate-level-t24-3epp)
 - [Lifehacker] [How to Open Windows That Were Painted Shut](https://lifehacker.com/how-to-open-windows-that-were-painted-shut-1849508743)
-- [Dev.to/JS] [How to make a modern npm package](https://dev.to/akarachen/how-to-make-a-modern-npm-package-5096)
-- [Dev.to/JS] [How to Make Responsive Blog Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-blog-website-using-html-css-javascript-264h)
-- [Dev.to/JS] [React.JS Project | Next.js | React Query](https://dev.to/shaifarfan08/reactjs-project-nextjs-react-query-4jjj)
-- [Dev.to/JS] [Learning a language](https://dev.to/jamesmwaura/learning-a-language-19k)
-- [Dev.to/JS] [Send Email using HTML + JavaScript &lpar;EmailJs Tutorial&rpar;](https://dev.to/voranzov/send-email-using-html-javascript-emailjs-tutorial-33i1)
-- [Dev.to/JS] [Advanced React: useFetch custom hook. Master custom hooks in just 10 minutes.](https://dev.to/ministryofjavascript/advanced-react-usefetch-custom-hook-master-custom-hooks-in-just-10-minutes-ia7)
-- [Dev.to/JS] [The Making of A React Component Library](https://dev.to/aviavinav/the-making-of-a-react-component-librabry-cep)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
-- [Lifehacker] [Why the iPhone 14&#39;s eSIM Might Be a Problem for You](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
-- [Lifehacker] [These Sensory Activities Won&#39;t Make a Giant Mess of Your Home](https://lifehacker.com/these-sensory-activities-wont-make-a-giant-mess-of-your-1849512089)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why the iPhone 14&#39;s eSIM Might Be a Problem for You](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)<!-- TECH-POSTS:END -->
 
 ---
 
