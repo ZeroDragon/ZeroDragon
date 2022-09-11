@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
+- [Dev.to/JS] [Exfolie Serum - Legit Customer Reviews, Results, Price &amp; Side Effects?](https://dev.to/exfolieserumfa1/exfolie-serum-legit-customer-reviews-results-price-side-effects-26de)
+- [Dev.to/JS] [76. Minimum Window Substring 🚀](https://dev.to/samuelhinchliffe/76-minimum-window-substring-io)
+- [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
+- [Dev.to/JS] [Fly.io - Uma alternativa ao Heroku](https://dev.to/patrickmonteiro/flyio-uma-alternativa-ao-heroku-296)
 - [Dev.to/JS] [Function Currying: Javascript Questions](https://dev.to/soumavabanerjee/function-currying-javascript-questions-2jnm)
 - [Dev.to/JS] [JavaScript tic tac toe - intermediate level - t24](https://dev.to/sfundomhlungu/javascript-tic-tac-toe-intermediate-level-t24-3epp)
 - [Lifehacker] [How to Open Windows That Were Painted Shut](https://lifehacker.com/how-to-open-windows-that-were-painted-shut-1849508743)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Send Email using HTML + JavaScript &lpar;EmailJs Tutorial&rpar;](https://dev.to/voranzov/send-email-using-html-javascript-emailjs-tutorial-33i1)
 - [Dev.to/JS] [Advanced React: useFetch custom hook. Master custom hooks in just 10 minutes.](https://dev.to/ministryofjavascript/advanced-react-usefetch-custom-hook-master-custom-hooks-in-just-10-minutes-ia7)
 - [Dev.to/JS] [The Making of A React Component Library](https://dev.to/aviavinav/the-making-of-a-react-component-librabry-cep)
-- [Dev.to/JS] [Temporal Date API](https://dev.to/wolfmath/temporal-date-api-ecb)
-- [Dev.to/JS] [LeetCode - House Robber III](https://dev.to/_alkesh26/leetcode-house-robber-iii-b16)
-- [Dev.to/JS] [How to Build a Dynamic Table Component in React](https://dev.to/franciscomendes10866/how-to-build-a-dynamic-table-component-in-react-4ff8)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
 - [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
 - [Lifehacker] [Why the iPhone 14&#39;s eSIM Might Be a Problem for You](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
-- [Lifehacker] [These Sensory Activities Won&#39;t Make a Giant Mess of Your Home](https://lifehacker.com/these-sensory-activities-wont-make-a-giant-mess-of-your-1849512089)
-- [Lifehacker] [Why You Feel Cranky on Your Rest Days &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-feel-cranky-on-your-rest-days-and-what-to-do-a-1849512300)
-- [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Sensory Activities Won&#39;t Make a Giant Mess of Your Home](https://lifehacker.com/these-sensory-activities-wont-make-a-giant-mess-of-your-1849512089)<!-- TECH-POSTS:END -->
 
 ---
 
