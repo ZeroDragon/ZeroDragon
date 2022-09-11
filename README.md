@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [La práctica hace al programador](https://dev.to/gara501/la-practica-hace-al-programador-187o)
+- [Dev.to/JS] [Node JS File Directory Search Algorithm](https://dev.to/delightfulengineering/node-js-file-directory-search-algorithm-1e40)
+- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-ki9)
 - [Dev.to/JS] [Your Next.js Bundle Will Thank You](https://dev.to/itsrennyman/your-nextjs-bundle-will-thank-you-3lfd)
 - [Dev.to/JS] [Artificial Particle Life](https://dev.to/hunar4321/artificial-particle-life-2jpc)
 - [Dev.to/JS] [VAR vs LET vs CONST](https://dev.to/ipa22751/var-vs-let-vs-const-32op)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blade Component and Directive for Demo App](https://dev.to/saaberdev/blade-component-and-directive-for-demo-app-4649)
 - [Dev.to/JS] [How to Create a Full Autocomplete Search Application with Elasticsearch, Kibana and NestJS - Part 3](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-kibana-and-nestjs-part-3-14lp)
 - [Dev.to/JS] [AlpineJS](https://dev.to/rrees/alpinejs-2d02)
-- [Dev.to/JS] [Built a simple boilerplate generator for node express.js apps.](https://dev.to/gunvants/ive-built-a-simple-boilerplate-generator-for-node-expressjs-apps-4anm)
-- [Dev.to/JS] [Avoid relative path import hell in react](https://dev.to/smitterhane/avoid-relative-path-import-hell-in-react-36in)
-- [Dev.to/JS] [Building Full Stack Permanent Applications with Arweave, Smartweave, and Next.js](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
