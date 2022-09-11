@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - House Robber III](https://dev.to/_alkesh26/leetcode-house-robber-iii-b16)
+- [Dev.to/JS] [How to Build a Dynamic Table Component in React](https://dev.to/franciscomendes10866/how-to-build-a-dynamic-table-component-in-react-4ff8)
+- [Dev.to/JS] [Medicine for Rudolph](https://dev.to/rmion/medicine-for-rudolph-17e5)
 - [Dev.to/JS] [[SOLID] Open closed principle, explain simply](https://dev.to/kaziusan/solid-open-closed-principle-explain-simply-3319)
 - [Dev.to/JS] [State Management in React](https://dev.to/hugaidas/state-management-in-react-18m2)
 - [Dev.to/JS] [Writing a Discord Bot with Eris &lpar;Slash Commands Edition&rpar;](https://dev.to/canaris/writing-a-discord-bot-with-eris-slash-commands-edition-5cci)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Basic Commands #Node.js Quick Notes.](https://dev.to/ajaybaraiya6/basic-commands-nodejs-quick-notes-19l2)
 - [Dev.to/JS] [Object logging in Console #Node Quick Notes.](https://dev.to/ajaybaraiya6/object-logging-in-console-node-quick-notes-jdm)
 - [Dev.to/JS] [Error #Node Quick Notes.](https://dev.to/ajaybaraiya6/error-node-quick-notes-4kk1)
-- [Dev.to/JS] [Destructuring #React Quick Notes.](https://dev.to/ajaybaraiya6/destructuring-react-quick-notes-429e)
-- [Dev.to/JS] [Top 5 Text Books will help you to learning Programming 📚](https://dev.to/roshan_100kar/top-5-text-books-will-help-you-to-learning-programming-4cop)
-- [Dev.to/JS] [Dynamically Update Divs on Webpage &lpar;flask&rpar;](https://dev.to/sukarnascience/dynamically-update-divs-on-webpage-flask-1bdo)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
