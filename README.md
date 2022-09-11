@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Open Windows That Were Painted Shut](https://lifehacker.com/how-to-open-windows-that-were-painted-shut-1849508743)
+- [Dev.to/JS] [How to make a modern npm package](https://dev.to/akarachen/how-to-make-a-modern-npm-package-5096)
+- [Dev.to/JS] [How to Make Responsive Blog Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-blog-website-using-html-css-javascript-264h)
+- [Dev.to/JS] [React.JS Project | Next.js | React Query](https://dev.to/shaifarfan08/reactjs-project-nextjs-react-query-4jjj)
+- [Dev.to/JS] [Learning a language](https://dev.to/jamesmwaura/learning-a-language-19k)
+- [Dev.to/JS] [Send Email using HTML + JavaScript &lpar;EmailJs Tutorial&rpar;](https://dev.to/voranzov/send-email-using-html-javascript-emailjs-tutorial-33i1)
+- [Dev.to/JS] [Advanced React: useFetch custom hook. Master custom hooks in just 10 minutes.](https://dev.to/ministryofjavascript/advanced-react-usefetch-custom-hook-master-custom-hooks-in-just-10-minutes-ia7)
+- [Dev.to/JS] [The Making of A React Component Librabry](https://dev.to/aviavinav/the-making-of-a-react-component-librabry-cep)
 - [Dev.to/JS] [Temporal Date API](https://dev.to/wolfmath/temporal-date-api-ecb)
 - [Dev.to/JS] [LeetCode - House Robber III](https://dev.to/_alkesh26/leetcode-house-robber-iii-b16)
 - [Dev.to/JS] [How to Build a Dynamic Table Component in React](https://dev.to/franciscomendes10866/how-to-build-a-dynamic-table-component-in-react-4ff8)
 - [Dev.to/JS] [Medicine for Rudolph](https://dev.to/rmion/medicine-for-rudolph-17e5)
 - [Dev.to/JS] [[SOLID] Open closed principle, explain simply](https://dev.to/kaziusan/solid-open-closed-principle-explain-simply-3319)
-- [Dev.to/JS] [State Management in React](https://dev.to/hugaidas/state-management-in-react-18m2)
-- [Dev.to/JS] [Writing a Discord Bot with Eris &lpar;Slash Commands Edition&rpar;](https://dev.to/canaris/writing-a-discord-bot-with-eris-slash-commands-edition-5cci)
-- [Dev.to/JS] [LeetCode - House Robber II](https://dev.to/_alkesh26/leetcode-house-robber-ii-3dc8)
-- [Dev.to/JS] [Gsap GreenSock Snippets](https://dev.to/maxrpark/gsap-greensock-snippets-2i69)
-- [Dev.to/JS] [Setup vercel with supabase for our project](https://dev.to/tanishqsingla/setup-vercel-with-supabase-for-our-project-528b)
-- [Dev.to/JS] [Basic Commands #Node.js Quick Notes.](https://dev.to/ajaybaraiya6/basic-commands-nodejs-quick-notes-19l2)
-- [Dev.to/JS] [Object logging in Console #Node Quick Notes.](https://dev.to/ajaybaraiya6/object-logging-in-console-node-quick-notes-jdm)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the iPhone 14&#39;s eSIM Might Be a Problem for You](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
 - [Lifehacker] [These Sensory Activities Won&#39;t Make a Giant Mess of Your Home](https://lifehacker.com/these-sensory-activities-wont-make-a-giant-mess-of-your-1849512089)
 - [Lifehacker] [Why You Feel Cranky on Your Rest Days &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-feel-cranky-on-your-rest-days-and-what-to-do-a-1849512300)
-- [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)
-- [Lifehacker] [11 Innovative Podcasts to Listen to If You&#39;re Bored With Podcasts](https://lifehacker.com/11-innovative-podcasts-to-listen-to-if-youre-bored-with-1849512142)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Remove Unwanted Texture From Your Walls](https://lifehacker.com/how-to-remove-unwanted-texture-from-your-walls-1849511619)<!-- TECH-POSTS:END -->
 
 ---
 
