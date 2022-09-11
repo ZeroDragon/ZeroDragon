@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Otimizando a chamada de múltiplas promises [ Javascript ]](https://dev.to/r9n/otimizando-a-chamada-de-multiplas-promises-javascript--59cl)
+- [Dev.to/JS] [Brick Breaker in JavaScript](https://dev.to/joe_leeson_fb93f7c693879f/brick-breaker-in-javascript-109d)
+- [Dev.to/JS] [Primitives and References in JavaScript.](https://dev.to/sujithvsuresh/primitives-and-references-in-javascript-1jmb)
 - [Dev.to/JS] [Como eu deixei meu site lento e mais caro](https://dev.to/tuliocalil/como-eu-deixei-meu-site-lento-e-mais-caro-4m5b)
 - [Dev.to/JS] [JavaScript Date Cheatsheet](https://dev.to/mursalfk/javascript-date-cheatsheet-2den)
 - [Dev.to/JS] [the beginning of my coding journey](https://dev.to/samity89/the-beginning-of-my-coding-journey-4hdd)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Live Search in React js - Select with Mouse or Keyboard](https://dev.to/ndpniraj/live-search-in-react-js-select-with-mouse-or-keyboard-54nf)
 - [Dev.to/JS] [Allure report Integration with Playwright](https://dev.to/kailashpathak7/allure-report-integration-with-playwright-3mp1)
 - [Dev.to/JS] [Fully qualified names vs a jungle of imports](https://dev.to/gajus/fully-qualified-names-vs-a-jungle-of-imports-33p0)
-- [Dev.to/JS] [Reactstrap vs react-bootstrap](https://dev.to/aisharajput/reactstrap-vs-react-bootstrap-18h4)
-- [Dev.to/JS] [Javascript: Clone object](https://dev.to/urstrulyvishwak/javascript-clone-object-1k3f)
-- [Dev.to/JS] [Create Animated India flag in HTML and CSS](https://dev.to/beginnerdeveloper/create-animated-india-flag-in-html-and-css-10ad)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
 - [Lifehacker] [How to Open Windows That Were Painted Shut](https://lifehacker.com/how-to-open-windows-that-were-painted-shut-1849508743)
