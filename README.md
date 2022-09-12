@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple spreadsheet app with vue](https://dev.to/maxim_maeder/simple-spreadsheet-app-with-vue-49da)
+- [Dev.to/JS] [Names fuzzy match in javascript](https://dev.to/gauravkrp/names-fuzzy-match-in-javascript-20dg)
+- [Dev.to/JS] [Thymeleaf Vs AngularJS: Supercharge Your Java App Development Project](https://dev.to/nikunjshingalaofficial/thymeleaf-vs-angularjs-supercharge-your-java-app-development-project-17c5)
+- [Dev.to/JS] [Hindi Jokes API : GET random hindi jokes](https://dev.to/jon_snow789/hindi-jokes-api-get-random-hindi-jokes-2h8)
+- [Lifehacker] [All the New iOS 16 Features You Can&#39;t Use Yet](https://lifehacker.com/all-the-new-ios-16-features-you-cant-use-yet-1849524299)
+- [Dev.to/JS] [Are Coding Bootcamps Worth It? My Experience!](https://dev.to/catevee/are-coding-bootcamps-worth-it-my-experience-pne)
+- [Dev.to/JS] [Integration testing the Payment Element with Playwright](https://dev.to/stripe/integration-testing-the-payment-element-with-playwright-1j9n)
+- [Dev.to/JS] [What does object-fit property do?](https://dev.to/aneeqakhan/what-does-object-fit-property-do-pg0)
 - [Lifehacker] [The Best Real Estate and Home Decor Porn on Instagram](https://lifehacker.com/the-best-real-estate-and-home-decor-porn-on-instagram-1849524843)
 - [Dev.to/JS] [Building an app to find an excuse for our sloppy work!](https://dev.to/wasp/building-an-app-to-find-an-excuse-for-our-sloppy-work-1laj)
 - [Dev.to/JS] [Strict Mode of JavaScript](https://dev.to/zubairgujjar997/strict-mode-of-javascript-2pof)
@@ -31,14 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an interactive screen-sharing app with Puppeteer and React 🤯](https://dev.to/novu/building-an-interactive-screen-sharing-app-with-puppeteer-and-react-12h7)
 - [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)
 - [Dev.to/JS] [Adding Unique Outcomes With Random Numbers](https://dev.to/klofnod/adding-unique-outcomes-with-random-numbers-2o97)
-- [Dev.to/JS] [Fun way to handle node status codes](https://dev.to/etcroot/fun-way-to-handle-node-status-codes-3hal)
-- [Dev.to/JS] [Like a GIF For Your Yard](https://dev.to/rmion/like-a-gif-for-your-yard-1h52)
-- [Dev.to/JS] [Tidy up your ES6 imports](https://dev.to/antoine_m/tidy-up-your-es6-imports-1d6)
-- [Dev.to/JS] [Histoire - Gerando documentação para Apps Vue](https://dev.to/patrickmonteiro/histoire-gerando-documentacao-para-apps-vue-525p)
 - [Lifehacker] [The Easiest Way to Delete All Your Old iPhone Screenshots](https://lifehacker.com/the-easiest-way-to-delete-all-your-old-iphone-screensho-1849523788)
-- [Dev.to/JS] [5 Essential JavaScript Widgets for Effective Developers](https://dev.to/webixui/5-essential-javascript-widgets-for-effective-developers-3cga)
-- [Dev.to/JS] [Simple JavaScript template engine by &lpar;ab&rpar;using template literals](https://dev.to/betterways/simple-javascript-template-engine-by-abusing-template-literals-2md)
-- [Dev.to/JS] [Arrays in Javascript](https://dev.to/rembertdesigns/arrays-in-javascript-1lik)
 - [Lifehacker] [Maybe That ‘Virus’ Is Actually a Fall Allergy](https://lifehacker.com/maybe-that-virus-is-actually-a-fall-allergy-1849523561)
 - [Lifehacker] [How to Cope With Anticipatory Grief](https://lifehacker.com/how-to-cope-with-anticipatory-grief-1849521218)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Update Your PS5 Controller Using a Windows PC](https://lifehacker.com/you-can-update-your-ps5-controller-using-a-windows-pc-1849516640)
 - [Lifehacker] [How to Clean Puke Out of Your Car](https://lifehacker.com/how-to-clean-puke-out-of-your-car-1849514900)
 - [Lifehacker] [The Best Fall Trips and Activities in Each of the 50 States](https://lifehacker.com/the-best-fall-trips-and-activities-in-each-of-the-50-st-1849512201)
-- [Lifehacker] [How to Support Your Burnt-Out Teenager](https://lifehacker.com/how-to-support-your-burnt-out-teenager-1849512950)
-- [Lifehacker] [How Going Backward Can Help Your Relationship Move Forward](https://lifehacker.com/how-going-backward-can-help-your-relationship-move-forw-1849512779)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Support Your Burnt-Out Teenager](https://lifehacker.com/how-to-support-your-burnt-out-teenager-1849512950)<!-- TECH-POSTS:END -->
 
 ---
 
