@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gemini Credit Card Review](https://dev.to/jofawole/gemini-credit-card-review-1moc)
+- [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Dev.to/JS] [Tabela de classificação](https://dev.to/rochauriartt/tabela-de-classificacao-4dbi)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
 - [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple spreadsheet app with vue](https://dev.to/maxim_maeder/simple-spreadsheet-app-with-vue-49da)
 - [Dev.to/JS] [Names fuzzy match in javascript](https://dev.to/gauravkrp/names-fuzzy-match-in-javascript-20dg)
 - [Dev.to/JS] [Thymeleaf Vs AngularJS: Supercharge Your Java App Development Project](https://dev.to/nikunjshingalaofficial/thymeleaf-vs-angularjs-supercharge-your-java-app-development-project-17c5)
-- [Dev.to/JS] [Hindi Jokes API : GET random hindi jokes](https://dev.to/jon_snow789/hindi-jokes-api-get-random-hindi-jokes-2h8)
 - [Lifehacker] [All the New iOS 16 Features You Can&#39;t Use Yet](https://lifehacker.com/all-the-new-ios-16-features-you-cant-use-yet-1849524299)
 - [Lifehacker] [The Best Real Estate and Home Decor Porn on Instagram](https://lifehacker.com/the-best-real-estate-and-home-decor-porn-on-instagram-1849524843)
 - [Crazy Programmer] [Anomalies in DBMS with Example](https://www.thecrazyprogrammer.com/2022/09/anomalies-in-dbms.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
 - [Lifehacker] [Five Drinking Terms Everyone at the Bar Should Know](https://lifehacker.com/five-drinking-terms-everyone-at-the-bar-should-know-1849517914)
 - [Lifehacker] [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)
-- [Lifehacker] [How to Fix the Uninstalled DLC Bug on PS4](https://lifehacker.com/how-to-fix-the-uninstalled-dlc-bug-on-ps4-1849517386)
-- [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fix the Uninstalled DLC Bug on PS4](https://lifehacker.com/how-to-fix-the-uninstalled-dlc-bug-on-ps4-1849517386)<!-- TECH-POSTS:END -->
 
 ---
 
