@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Histoire - Gerando documentação para Apps Vue](https://dev.to/patrickmonteiro/histoire-gerando-documentacao-para-apps-vue-525p)
+- [Lifehacker] [The Easiest Way to Delete All Your Old iPhone Screenshots](https://lifehacker.com/the-easiest-way-to-delete-all-your-old-iphone-screensho-1849523788)
+- [Dev.to/JS] [5 Essential JavaScript Widgets for Effective Developers](https://dev.to/webixui/5-essential-javascript-widgets-for-effective-developers-3cga)
+- [Dev.to/JS] [Simple JavaScript template engine by &lpar;ab&rpar;using template literals](https://dev.to/betterways/simple-javascript-template-engine-by-abusing-template-literals-2md)
+- [Dev.to/JS] [Arrays in Javascript](https://dev.to/rembertdesigns/arrays-in-javascript-1lik)
+- [Lifehacker] [Maybe That ‘Virus’ Is Actually a Fall Allergy](https://lifehacker.com/maybe-that-virus-is-actually-a-fall-allergy-1849523561)
+- [Dev.to/JS] [How to get Paid as Web3.0 Developer](https://dev.to/cypriantinasheaarons/how-to-get-hired-as-web30-developer-1hf6)
+- [Dev.to/JS] [2.38 - A11y with Ben Myers](https://dev.to/codingcatdev/238-a11y-with-ben-myers-517g)
+- [Dev.to/JS] [Adding Newsletter to Nuxt 3 apps](https://dev.to/jacobandrewsky/adding-newsletter-to-nuxt-3-apps-fb0)
 - [Lifehacker] [How to Cope With Anticipatory Grief](https://lifehacker.com/how-to-cope-with-anticipatory-grief-1849521218)
 - [Dev.to/JS] [Generating Customizable Mock Data with a Fluent Interface](https://dev.to/scokmen/generating-customizable-mock-data-with-a-fluent-interface-4m9h)
 - [Dev.to/JS] [Transitioning Into Web3 As a Frontend, Backend, or Fullstack Developer](https://dev.to/olanetsoft/transitioning-into-web3-as-a-frontend-backend-or-fullstack-developer-1kb0)
 - [Dev.to/JS] [How to launch a cryptocurrency &lpar;ERC-20 Tokens&rpar; with Bunzz - Part 1](https://dev.to/bunzzdev/how-to-launch-a-cryptocurrency-erc-20-tokens-with-bunzz-part-1-2li8)
 - [Dev.to/JS] [Card with Hover Details using CSS](https://dev.to/piyushpatil1243/card-with-hover-details-using-css-52a4)
 - [Dev.to/JS] [Crypto Leverage &amp; Margin Trading Exchange Software](https://dev.to/emilysofia/crypto-leverage-margin-trading-exchange-software-3ik7)
-- [Dev.to/JS] [Creating an Interactive Circle Packing Chart in JS](https://dev.to/andreykh1985/creating-an-interactive-circle-packing-chart-in-js-35fj)
-- [Dev.to/JS] [I made a new web-components framework](https://dev.to/samzhangjy/i-made-a-new-web-components-framework-1g7h)
-- [Dev.to/JS] [JavaScript: Frequency Of Maximum Value For A Given Array Of Integers](https://dev.to/hadeelwadia/javascript-frequency-of-maximum-value-for-a-given-array-of-integers-4544)
-- [Dev.to/JS] [How to use Crypto Wallet for Authentication in ReactJS](https://dev.to/surajondev/how-to-use-crypto-wallet-for-authentication-in-reactjs-2ild)
-- [Dev.to/JS] [How to format numbers to currency string with JavaScript](https://dev.to/wilmerterrero/how-to-format-numbers-to-currency-string-with-javascript-55c7)
-- [Dev.to/JS] [How to implement dark mode on your own website?](https://dev.to/lanceross/how-to-implement-dark-mode-on-your-own-website-7j4)
-- [Dev.to/JS] [Who provides the best business &amp; security features on Kraken clone software?](https://dev.to/thecryptoapeo/who-provides-the-best-business-security-features-on-kraken-clone-software-d24)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Going Backward Can Help Your Relationship Move Forward](https://lifehacker.com/how-going-backward-can-help-your-relationship-move-forw-1849512779)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did Harry Styles Really Spit on Chris Pine?](https://lifehacker.com/did-harry-styles-spit-on-chris-pine-the-out-of-touch-a-1849508200)
 - [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
-- [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
-- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
-- [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)<!-- TECH-POSTS:END -->
 
 ---
 
