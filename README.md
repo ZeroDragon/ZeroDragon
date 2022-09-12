@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Unique Outcomes With Random Numbers](https://dev.to/klofnod/adding-unique-outcomes-with-random-numbers-2o97)
+- [Dev.to/JS] [Fun way to handle node status codes](https://dev.to/etcroot/fun-way-to-handle-node-status-codes-3hal)
+- [Dev.to/JS] [Like a GIF For Your Yard](https://dev.to/rmion/like-a-gif-for-your-yard-1h52)
+- [Dev.to/JS] [Tidy up your ES6 imports](https://dev.to/antoine_m/tidy-up-your-es6-imports-1d6)
 - [Dev.to/JS] [Histoire - Gerando documentação para Apps Vue](https://dev.to/patrickmonteiro/histoire-gerando-documentacao-para-apps-vue-525p)
 - [Lifehacker] [The Easiest Way to Delete All Your Old iPhone Screenshots](https://lifehacker.com/the-easiest-way-to-delete-all-your-old-iphone-screensho-1849523788)
 - [Dev.to/JS] [5 Essential JavaScript Widgets for Effective Developers](https://dev.to/webixui/5-essential-javascript-widgets-for-effective-developers-3cga)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Newsletter to Nuxt 3 apps](https://dev.to/jacobandrewsky/adding-newsletter-to-nuxt-3-apps-fb0)
 - [Lifehacker] [How to Cope With Anticipatory Grief](https://lifehacker.com/how-to-cope-with-anticipatory-grief-1849521218)
 - [Dev.to/JS] [Generating Customizable Mock Data with a Fluent Interface](https://dev.to/scokmen/generating-customizable-mock-data-with-a-fluent-interface-4m9h)
-- [Dev.to/JS] [Transitioning Into Web3 As a Frontend, Backend, or Fullstack Developer](https://dev.to/olanetsoft/transitioning-into-web3-as-a-frontend-backend-or-fullstack-developer-1kb0)
-- [Dev.to/JS] [How to launch a cryptocurrency &lpar;ERC-20 Tokens&rpar; with Bunzz - Part 1](https://dev.to/bunzzdev/how-to-launch-a-cryptocurrency-erc-20-tokens-with-bunzz-part-1-2li8)
-- [Dev.to/JS] [Card with Hover Details using CSS](https://dev.to/piyushpatil1243/card-with-hover-details-using-css-52a4)
-- [Dev.to/JS] [Crypto Leverage &amp; Margin Trading Exchange Software](https://dev.to/emilysofia/crypto-leverage-margin-trading-exchange-software-3ik7)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
