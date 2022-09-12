@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useState | One of the Most Common Hooks that You Will Be Using in React -Objects as State Values](https://dev.to/ahmetmeliksah/usestate-one-of-the-most-common-hooks-that-you-will-be-using-in-react-objects-as-state-values-3hgg)
+- [Dev.to/JS] [Open Source Development Release 0.1](https://dev.to/ririio/open-source-development-release-01-2371)
+- [Dev.to/JS] [Deploy a Full-Stack MERN App with Heroku \ Netlify](https://dev.to/farhadi/deploy-a-full-stack-mern-app-withheroku-netlify-1ga1)
 - [Dev.to/JS] [Laravel CRUD with Ajax](https://dev.to/yudhadevelops/laravel-crud-with-ajax-4m2n)
 - [Dev.to/JS] [Probably a Fire Hazard](https://dev.to/rmion/probably-a-fire-hazard-2a8b)
 - [Dev.to/JS] [useState | One of the Most Common Hooks that You Will Be Using in React](https://dev.to/ahmetmeliksah/usestate-one-of-the-most-common-hooks-that-you-will-be-using-in-react-npm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Otimizando a chamada de múltiplas promises [ Javascript ]](https://dev.to/r9n/otimizando-a-chamada-de-multiplas-promises-javascript--59cl)
 - [Dev.to/JS] [Brick Breaker in JavaScript](https://dev.to/joe_leeson_fb93f7c693879f/brick-breaker-in-javascript-109d)
 - [Dev.to/JS] [Primitives and References in JavaScript.](https://dev.to/sujithvsuresh/primitives-and-references-in-javascript-1jmb)
-- [Dev.to/JS] [Como eu deixei meu site lento e mais caro](https://dev.to/tuliocalil/como-eu-deixei-meu-site-lento-e-mais-caro-4m5b)
-- [Dev.to/JS] [JavaScript Date Cheatsheet](https://dev.to/mursalfk/javascript-date-cheatsheet-2den)
-- [Dev.to/JS] [the beginning of my coding journey](https://dev.to/samity89/the-beginning-of-my-coding-journey-4hdd)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
