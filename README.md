@@ -23,9 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [this with arrow functions in JS](https://dev.to/akanshsaxena/this-with-arrow-functions-in-js-4df0)
+- [Dev.to/JS] [Highlighted Dummy Code Editor with HTML CSS JavaScript &lpar;vue.js&rpar;](https://dev.to/maxim_maeder/highlighted-dummy-code-editor-with-html-css-javascript-vuejs-4ie3)
+- [Lifehacker] [So You Need to Poop While on a Date](https://lifehacker.com/so-you-need-to-poop-while-on-a-date-1849525014)
+- [Dev.to/JS] [7 Fantastic Heroku Alternatives](https://dev.to/jainilprajapati/7-fantastic-heroku-alternatives-4jf8)
+- [Dev.to/JS] [How to serve your Datastream directly to your PDF Viewer](https://dev.to/stories_of_ren/how-to-serve-your-datastream-directly-to-your-pdf-viewer-1nc)
+- [Lifehacker] [26 of the Best New Features in iOS 16](https://lifehacker.com/26-of-the-best-new-features-in-ios-16-1849524600)
 - [Dev.to/JS] [2 Day in 100DaysOfReact](https://dev.to/rajkamalkanna/2-day-in-100daysofreact-55hg)
 - [Lifehacker] [Do Bubble Machines Really Repel Mosquitoes?](https://lifehacker.com/do-bubble-machines-really-repel-mosquitoes-1849525325)
-- [Lifehacker] [Thee Incredibly Easy Ways to Peel a Tomato](https://lifehacker.com/thee-incredibly-easy-ways-to-peel-a-tomato-1849525275)
+- [Lifehacker] [Three Incredibly Easy Ways to Peel a Tomato](https://lifehacker.com/thee-incredibly-easy-ways-to-peel-a-tomato-1849525275)
 - [Dev.to/JS] [Simple spreadsheet app with vue](https://dev.to/maxim_maeder/simple-spreadsheet-app-with-vue-49da)
 - [Dev.to/JS] [Names fuzzy match in javascript](https://dev.to/gauravkrp/names-fuzzy-match-in-javascript-20dg)
 - [Dev.to/JS] [Thymeleaf Vs AngularJS: Supercharge Your Java App Development Project](https://dev.to/nikunjshingalaofficial/thymeleaf-vs-angularjs-supercharge-your-java-app-development-project-17c5)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integration testing the Payment Element with Playwright](https://dev.to/stripe/integration-testing-the-payment-element-with-playwright-1j9n)
 - [Dev.to/JS] [What does object-fit property do?](https://dev.to/aneeqakhan/what-does-object-fit-property-do-pg0)
 - [Lifehacker] [The Best Real Estate and Home Decor Porn on Instagram](https://lifehacker.com/the-best-real-estate-and-home-decor-porn-on-instagram-1849524843)
-- [Dev.to/JS] [Building an app to find an excuse for our sloppy work!](https://dev.to/wasp/building-an-app-to-find-an-excuse-for-our-sloppy-work-1laj)
-- [Dev.to/JS] [Strict Mode of JavaScript](https://dev.to/zubairgujjar997/strict-mode-of-javascript-2pof)
 - [Crazy Programmer] [Anomalies in DBMS with Example](https://www.thecrazyprogrammer.com/2022/09/anomalies-in-dbms.html)
-- [Dev.to/JS] [Creating declarative UI-rich apps without learning any declarative framework like React or Vue.js](https://dev.to/juanjo75es/creating-declarative-ui-rich-apps-without-learning-any-declarative-framework-like-react-or-vuejs-5flf)
-- [Dev.to/JS] [Building an interactive screen-sharing app with Puppeteer and React 🤯](https://dev.to/novu/building-an-interactive-screen-sharing-app-with-puppeteer-and-react-12h7)
 - [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)
 - [Lifehacker] [The Easiest Way to Delete All Your Old iPhone Screenshots](https://lifehacker.com/the-easiest-way-to-delete-all-your-old-iphone-screensho-1849523788)
 - [Lifehacker] [Maybe That ‘Virus’ Is Actually a Fall Allergy](https://lifehacker.com/maybe-that-virus-is-actually-a-fall-allergy-1849523561)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix the Uninstalled DLC Bug on PS4](https://lifehacker.com/how-to-fix-the-uninstalled-dlc-bug-on-ps4-1849517386)
 - [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)
 - [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)
-- [Lifehacker] [How to Know If Your Kid Really Needs Braces](https://lifehacker.com/how-to-know-if-your-kid-really-needs-braces-1849517348)
-- [Lifehacker] [You Can Update Your PS5 Controller Using a Windows PC](https://lifehacker.com/you-can-update-your-ps5-controller-using-a-windows-pc-1849516640)
-- [Lifehacker] [How to Clean Puke Out of Your Car](https://lifehacker.com/how-to-clean-puke-out-of-your-car-1849514900)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Know If Your Kid Really Needs Braces](https://lifehacker.com/how-to-know-if-your-kid-really-needs-braces-1849517348)<!-- TECH-POSTS:END -->
 
 ---
 
