@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Cope With Anticipatory Grief](https://lifehacker.com/how-to-cope-with-anticipatory-grief-1849521218)
+- [Dev.to/JS] [Generating Customizable Mock Data with a Fluent Interface](https://dev.to/scokmen/generating-customizable-mock-data-with-a-fluent-interface-4m9h)
+- [Dev.to/JS] [Transitioning Into Web3 As a Frontend, Backend, or Fullstack Developer](https://dev.to/olanetsoft/transitioning-into-web3-as-a-frontend-backend-or-fullstack-developer-1kb0)
+- [Dev.to/JS] [How to launch a cryptocurrency &lpar;ERC-20 Tokens&rpar; with Bunzz - Part 1](https://dev.to/bunzzdev/how-to-launch-a-cryptocurrency-erc-20-tokens-with-bunzz-part-1-2li8)
+- [Dev.to/JS] [Card with Hover Details using CSS](https://dev.to/piyushpatil1243/card-with-hover-details-using-css-52a4)
+- [Dev.to/JS] [Crypto Leverage &amp; Margin Trading Exchange Software](https://dev.to/emilysofia/crypto-leverage-margin-trading-exchange-software-3ik7)
+- [Dev.to/JS] [Creating an Interactive Circle Packing Chart in JS](https://dev.to/andreykh1985/creating-an-interactive-circle-packing-chart-in-js-35fj)
+- [Dev.to/JS] [I made a new web-components framework](https://dev.to/samzhangjy/i-made-a-new-web-components-framework-1g7h)
+- [Dev.to/JS] [JavaScript: Frequency Of Maximum Value For A Given Array Of Integers](https://dev.to/hadeelwadia/javascript-frequency-of-maximum-value-for-a-given-array-of-integers-4544)
+- [Dev.to/JS] [How to use Crypto Wallet for Authentication in ReactJS](https://dev.to/surajondev/how-to-use-crypto-wallet-for-authentication-in-reactjs-2ild)
+- [Dev.to/JS] [How to format numbers to currency string with JavaScript](https://dev.to/wilmerterrero/how-to-format-numbers-to-currency-string-with-javascript-55c7)
+- [Dev.to/JS] [How to implement dark mode on your own website?](https://dev.to/lanceross/how-to-implement-dark-mode-on-your-own-website-7j4)
 - [Dev.to/JS] [Who provides the best business &amp; security features on Kraken clone software?](https://dev.to/thecryptoapeo/who-provides-the-best-business-security-features-on-kraken-clone-software-d24)
-- [Dev.to/JS] [Introduction to Vue Router](https://dev.to/abolade017/introduction-to-vue-router-1919)
-- [Dev.to/JS] [Why ReactJS is an Ideal Choice for SaaS Product Development?](https://dev.to/solutelabs/why-reactjs-is-an-ideal-choice-for-saas-product-development-5719)
-- [Dev.to/JS] [DrivePlyr - Google Drive Proxy Video Player with Many Powerful HTML5 Players &amp; Hidden ID 🚀](https://dev.to/sh20raj/driveplyr-google-drive-proxy-video-player-with-many-powerful-html5-players-hidden-id-530e)
-- [Dev.to/JS] [Sending Emails with Node.js](https://dev.to/sofiatarhonska/sending-emails-with-nodejs-4hb8)
-- [Dev.to/JS] [How do you trace your DevOps journey?](https://dev.to/postwell45/how-do-you-trace-your-devops-journey-4n9l)
-- [Dev.to/JS] [Deploying and Scaling the Official Strapi Demo App “FoodAdvisor” with Kubernetes and Docker](https://dev.to/strapi/deploying-and-scaling-the-official-strapi-demo-app-foodadvisor-with-kubernetes-and-docker-3od5)
-- [Dev.to/JS] [💥 Introducing Skott, the new Madge!](https://dev.to/antoinecoulon/introducing-skott-the-new-madge-1bfl)
-- [Dev.to/JS] [Build a CSS Transition Tool for your editors](https://dev.to/madsstoumann/build-a-css-transition-tool-for-your-editors-4emh)
-- [Dev.to/JS] [Iterators &amp; Generators in JS](https://dev.to/sjsouvik/iterators-generators-in-js-142m)
-- [Dev.to/JS] [Newest Experience of Server Side development. Awesome React framework ✨](https://dev.to/leroywagner/newest-experience-of-server-side-development-awesome-react-framework-58d3)
-- [Dev.to/JS] [Build Authentication Using Firebase | React | Express](https://dev.to/earthcomfy/build-authentication-using-firebase-react-express-28ig)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
 - [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Squeeze Your Shoulder Blades Together](https://lifehacker.com/when-you-should-and-shouldnt-squeeze-your-shoulder-bl-1849513264)
-- [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)
-- [Lifehacker] [Why the iPhone 14&#39;s eSIM Might Be a Problem for You](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid Vacation Rentals With These Red-Flag Words in the Listing](https://lifehacker.com/avoid-vacation-rentals-with-these-red-flag-words-in-the-1849513006)<!-- TECH-POSTS:END -->
 
 ---
 
