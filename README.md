@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microsoft Azure Training in Electronic City Bangalore](https://dev.to/emexotechnology/microsoft-azure-training-in-electronic-city-bangalore-1l38)
+- [Dev.to/JS] [Javascript Console Methods](https://dev.to/dhanushnehru/javascript-console-methods-4ch9)
+- [Dev.to/JS] [Beginner programming Tip](https://dev.to/madhusudhan/beginner-programming-tip-3mgd)
+- [Dev.to/JS] [Comments in VsCode!](https://dev.to/areedev/comments-in-vscode-36le)
 - [Dev.to/JS] [Google action fetching data from an API](https://dev.to/dailydevtips1/google-action-fetching-data-from-an-api-4lg7)
 - [Dev.to/JS] [How to Find The Frequency of Characters in a String or Array](https://dev.to/gilfoyle/how-to-find-the-frequency-of-characters-in-a-string-or-array-3271)
 - [Dev.to/JS] [Ways To Make HTTP Request in Javascript](https://dev.to/benjaminnwokolo/ways-to-make-http-request-in-javascript-5djp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open Source Development Release 0.1](https://dev.to/ririio/open-source-development-release-01-2371)
 - [Dev.to/JS] [Deploy a Full-Stack MERN App with Heroku \ Netlify](https://dev.to/farhadi/deploy-a-full-stack-mern-app-withheroku-netlify-1ga1)
 - [Dev.to/JS] [Laravel CRUD with Ajax](https://dev.to/yudhasdev/laravel-crud-with-ajax-4m2n)
-- [Dev.to/JS] [Probably a Fire Hazard](https://dev.to/rmion/probably-a-fire-hazard-2a8b)
-- [Dev.to/JS] [useState | One of the Most Common Hooks that You Will Be Using in React](https://dev.to/ahmetmeliksah/usestate-one-of-the-most-common-hooks-that-you-will-be-using-in-react-npm)
-- [Dev.to/JS] [tsParticles 2.3.0 Released](https://dev.to/tsparticles/tsparticles-230-released-32np)
-- [Dev.to/JS] [This is trash!](https://dev.to/ghostclonelol2000/this-is-trash-4937)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
