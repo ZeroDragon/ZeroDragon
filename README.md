@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Who provides the best business &amp; security features on Kraken clone software?](https://dev.to/thecryptoapeo/who-provides-the-best-business-security-features-on-kraken-clone-software-d24)
 - [Dev.to/JS] [Introduction to Vue Router](https://dev.to/abolade017/introduction-to-vue-router-1919)
 - [Dev.to/JS] [Why ReactJS is an Ideal Choice for SaaS Product Development?](https://dev.to/solutelabs/why-reactjs-is-an-ideal-choice-for-saas-product-development-5719)
 - [Dev.to/JS] [DrivePlyr - Google Drive Proxy Video Player with Many Powerful HTML5 Players &amp; Hidden ID 🚀](https://dev.to/sh20raj/driveplyr-google-drive-proxy-video-player-with-many-powerful-html5-players-hidden-id-530e)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Iterators &amp; Generators in JS](https://dev.to/sjsouvik/iterators-generators-in-js-142m)
 - [Dev.to/JS] [Newest Experience of Server Side development. Awesome React framework ✨](https://dev.to/leroywagner/newest-experience-of-server-side-development-awesome-react-framework-58d3)
 - [Dev.to/JS] [Build Authentication Using Firebase | React | Express](https://dev.to/earthcomfy/build-authentication-using-firebase-react-express-28ig)
-- [Dev.to/JS] [Microsoft Azure Training in Electronic City Bangalore](https://dev.to/emexotechnology/microsoft-azure-training-in-electronic-city-bangalore-1l38)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
