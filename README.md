@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Real Estate and Home Decor Porn on Instagram](https://lifehacker.com/the-best-real-estate-and-home-decor-porn-on-instagram-1849524843)
+- [Dev.to/JS] [Building an app to find an excuse for our sloppy work!](https://dev.to/wasp/building-an-app-to-find-an-excuse-for-our-sloppy-work-1laj)
+- [Dev.to/JS] [Strict Mode of JavaScript](https://dev.to/zubairgujjar997/strict-mode-of-javascript-2pof)
+- [Crazy Programmer] [Anomalies in DBMS with Example](https://www.thecrazyprogrammer.com/2022/09/anomalies-in-dbms.html)
+- [Dev.to/JS] [Creating declarative UI-rich apps without learning any declarative framework like React or Vue.js](https://dev.to/juanjo75es/creating-declarative-ui-rich-apps-without-learning-any-declarative-framework-like-react-or-vuejs-5flf)
+- [Dev.to/JS] [Building an interactive screen-sharing app with Puppeteer and React 🤯](https://dev.to/novu/building-an-interactive-screen-sharing-app-with-puppeteer-and-react-12h7)
+- [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)
 - [Dev.to/JS] [Adding Unique Outcomes With Random Numbers](https://dev.to/klofnod/adding-unique-outcomes-with-random-numbers-2o97)
 - [Dev.to/JS] [Fun way to handle node status codes](https://dev.to/etcroot/fun-way-to-handle-node-status-codes-3hal)
 - [Dev.to/JS] [Like a GIF For Your Yard](https://dev.to/rmion/like-a-gif-for-your-yard-1h52)
@@ -33,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple JavaScript template engine by &lpar;ab&rpar;using template literals](https://dev.to/betterways/simple-javascript-template-engine-by-abusing-template-literals-2md)
 - [Dev.to/JS] [Arrays in Javascript](https://dev.to/rembertdesigns/arrays-in-javascript-1lik)
 - [Lifehacker] [Maybe That ‘Virus’ Is Actually a Fall Allergy](https://lifehacker.com/maybe-that-virus-is-actually-a-fall-allergy-1849523561)
-- [Dev.to/JS] [How to get Paid as Web3.0 Developer](https://dev.to/cypriantinasheaarons/how-to-get-hired-as-web30-developer-1hf6)
-- [Dev.to/JS] [2.38 - A11y with Ben Myers](https://dev.to/codingcatdev/238-a11y-with-ben-myers-517g)
-- [Dev.to/JS] [Adding Newsletter to Nuxt 3 apps](https://dev.to/jacobandrewsky/adding-newsletter-to-nuxt-3-apps-fb0)
 - [Lifehacker] [How to Cope With Anticipatory Grief](https://lifehacker.com/how-to-cope-with-anticipatory-grief-1849521218)
-- [Dev.to/JS] [Generating Customizable Mock Data with a Fluent Interface](https://dev.to/scokmen/generating-customizable-mock-data-with-a-fluent-interface-4m9h)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Puke Out of Your Car](https://lifehacker.com/how-to-clean-puke-out-of-your-car-1849514900)
 - [Lifehacker] [The Best Fall Trips and Activities in Each of the 50 States](https://lifehacker.com/the-best-fall-trips-and-activities-in-each-of-the-50-st-1849512201)
 - [Lifehacker] [How to Support Your Burnt-Out Teenager](https://lifehacker.com/how-to-support-your-burnt-out-teenager-1849512950)
-- [Lifehacker] [How Going Backward Can Help Your Relationship Move Forward](https://lifehacker.com/how-going-backward-can-help-your-relationship-move-forw-1849512779)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did Harry Styles Really Spit on Chris Pine?](https://lifehacker.com/did-harry-styles-spit-on-chris-pine-the-out-of-touch-a-1849508200)
-- [Crazy Programmer] [Difference between Software Engineering and Computer Science](https://www.thecrazyprogrammer.com/2022/09/difference-between-software-engineering-and-computer-science.html)
-- [Lifehacker] [This New iPhone 14 Feature Might Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Going Backward Can Help Your Relationship Move Forward](https://lifehacker.com/how-going-backward-can-help-your-relationship-move-forw-1849512779)<!-- TECH-POSTS:END -->
 
 ---
 
