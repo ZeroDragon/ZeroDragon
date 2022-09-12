@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Probably a Fire Hazard](https://dev.to/rmion/probably-a-fire-hazard-2a8b)
 - [Dev.to/JS] [useState | One of the Most Common Hooks that You Will Be Using in React](https://dev.to/ahmetmeliksah/usestate-one-of-the-most-common-hooks-that-you-will-be-using-in-react-npm)
 - [Dev.to/JS] [tsParticles 2.3.0 Released](https://dev.to/tsparticles/tsparticles-230-released-32np)
 - [Dev.to/JS] [This is trash!](https://dev.to/ghostclonelol2000/this-is-trash-4937)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Date Cheatsheet](https://dev.to/mursalfk/javascript-date-cheatsheet-2den)
 - [Dev.to/JS] [the beginning of my coding journey](https://dev.to/samity89/the-beginning-of-my-coding-journey-4hdd)
 - [Dev.to/JS] [Asynchronous in JavaScript](https://dev.to/oshyam/asynchronous-in-javascript-c86)
-- [Dev.to/JS] [Deno, Ready for a New Web](https://dev.to/kidonng/deno-ready-for-a-new-web-oik)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
