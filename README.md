@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Vue Router](https://dev.to/abolade017/introduction-to-vue-router-1919)
+- [Dev.to/JS] [Why ReactJS is an Ideal Choice for SaaS Product Development?](https://dev.to/solutelabs/why-reactjs-is-an-ideal-choice-for-saas-product-development-5719)
+- [Dev.to/JS] [DrivePlyr - Google Drive Proxy Video Player with Many Powerful HTML5 Players &amp; Hidden ID 🚀](https://dev.to/sh20raj/driveplyr-google-drive-proxy-video-player-with-many-powerful-html5-players-hidden-id-530e)
 - [Dev.to/JS] [Sending Emails with Node.js](https://dev.to/sofiatarhonska/sending-emails-with-nodejs-4hb8)
 - [Dev.to/JS] [How do you trace your DevOps journey?](https://dev.to/postwell45/how-do-you-trace-your-devops-journey-4n9l)
 - [Dev.to/JS] [Deploying and Scaling the Official Strapi Demo App “FoodAdvisor” with Kubernetes and Docker](https://dev.to/strapi/deploying-and-scaling-the-official-strapi-demo-app-foodadvisor-with-kubernetes-and-docker-3od5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Newest Experience of Server Side development. Awesome React framework ✨](https://dev.to/leroywagner/newest-experience-of-server-side-development-awesome-react-framework-58d3)
 - [Dev.to/JS] [Build Authentication Using Firebase | React | Express](https://dev.to/earthcomfy/build-authentication-using-firebase-react-express-28ig)
 - [Dev.to/JS] [Microsoft Azure Training in Electronic City Bangalore](https://dev.to/emexotechnology/microsoft-azure-training-in-electronic-city-bangalore-1l38)
-- [Dev.to/JS] [Javascript Console Methods](https://dev.to/dhanushnehru/javascript-console-methods-4ch9)
-- [Dev.to/JS] [Beginner programming Tip](https://dev.to/madhusudhan/beginner-programming-tip-3mgd)
-- [Dev.to/JS] [Comments in VsCode!](https://dev.to/areedev/comments-in-vscode-36le)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
