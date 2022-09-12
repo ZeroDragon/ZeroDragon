@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ways To Make HTTP Request in Javascript](https://dev.to/benjaminnwokolo/ways-to-make-http-request-in-javascript-5djp)
+- [Dev.to/JS] [Top 10 Features That Step Up Your Alcohol Delivery App](https://dev.to/jonarya10/top-10-features-that-step-up-your-alcohol-delivery-app-20j8)
 - [Dev.to/JS] [useState | One of the Most Common Hooks that You Will Be Using in React -Objects as State Values](https://dev.to/ahmetmeliksah/usestate-one-of-the-most-common-hooks-that-you-will-be-using-in-react-objects-as-state-values-3hgg)
 - [Dev.to/JS] [Open Source Development Release 0.1](https://dev.to/ririio/open-source-development-release-01-2371)
 - [Dev.to/JS] [Deploy a Full-Stack MERN App with Heroku \ Netlify](https://dev.to/farhadi/deploy-a-full-stack-mern-app-withheroku-netlify-1ga1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This is trash!](https://dev.to/ghostclonelol2000/this-is-trash-4937)
 - [Dev.to/JS] [React vs Solid - Seriously?](https://dev.to/chadsteele/react-vs-solid-seriously-4j7p)
 - [Dev.to/JS] [Otimizando a chamada de múltiplas promises [ Javascript ]](https://dev.to/r9n/otimizando-a-chamada-de-multiplas-promises-javascript--59cl)
-- [Dev.to/JS] [Brick Breaker in JavaScript](https://dev.to/joe_leeson_fb93f7c693879f/brick-breaker-in-javascript-109d)
-- [Dev.to/JS] [Primitives and References in JavaScript.](https://dev.to/sujithvsuresh/primitives-and-references-in-javascript-1jmb)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
