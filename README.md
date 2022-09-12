@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
+- [Dev.to/JS] [Dynamically Update Angular BASE URL Using Docker Env Variables](https://dev.to/this-is-angular/dynamically-update-angular-base-url-using-docker-env-variables-3din)
+- [Dev.to/JS] [React Query meets React Router](https://dev.to/tkdodo/react-query-meets-react-router-38f3)
 - [Dev.to/JS] [this with arrow functions in JS](https://dev.to/akanshsaxena/this-with-arrow-functions-in-js-4df0)
 - [Dev.to/JS] [Highlighted Dummy Code Editor with HTML CSS JavaScript &lpar;vue.js&rpar;](https://dev.to/maxim_maeder/highlighted-dummy-code-editor-with-html-css-javascript-vuejs-4ie3)
 - [Lifehacker] [So You Need to Poop While on a Date](https://lifehacker.com/so-you-need-to-poop-while-on-a-date-1849525014)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hindi Jokes API : GET random hindi jokes](https://dev.to/jon_snow789/hindi-jokes-api-get-random-hindi-jokes-2h8)
 - [Lifehacker] [All the New iOS 16 Features You Can&#39;t Use Yet](https://lifehacker.com/all-the-new-ios-16-features-you-cant-use-yet-1849524299)
 - [Dev.to/JS] [Are Coding Bootcamps Worth It? My Experience!](https://dev.to/catevee/are-coding-bootcamps-worth-it-my-experience-pne)
-- [Dev.to/JS] [Integration testing the Payment Element with Playwright](https://dev.to/stripe/integration-testing-the-payment-element-with-playwright-1j9n)
-- [Dev.to/JS] [What does object-fit property do?](https://dev.to/aneeqakhan/what-does-object-fit-property-do-pg0)
 - [Lifehacker] [The Best Real Estate and Home Decor Porn on Instagram](https://lifehacker.com/the-best-real-estate-and-home-decor-porn-on-instagram-1849524843)
 - [Crazy Programmer] [Anomalies in DBMS with Example](https://www.thecrazyprogrammer.com/2022/09/anomalies-in-dbms.html)
 - [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)
 - [Lifehacker] [How to Fix the Uninstalled DLC Bug on PS4](https://lifehacker.com/how-to-fix-the-uninstalled-dlc-bug-on-ps4-1849517386)
 - [Lifehacker] [Do This Now in Case You Are Separated From Your Pet After a Disaster](https://lifehacker.com/do-this-now-in-case-you-are-separated-from-your-pet-aft-1849517527)
-- [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)
-- [Lifehacker] [How to Know If Your Kid Really Needs Braces](https://lifehacker.com/how-to-know-if-your-kid-really-needs-braces-1849517348)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)<!-- TECH-POSTS:END -->
 
 ---
 
