@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sending Emails with Node.js](https://dev.to/sofiatarhonska/sending-emails-with-nodejs-4hb8)
+- [Dev.to/JS] [How do you trace your DevOps journey?](https://dev.to/postwell45/how-do-you-trace-your-devops-journey-4n9l)
+- [Dev.to/JS] [Deploying and Scaling the Official Strapi Demo App “FoodAdvisor” with Kubernetes and Docker](https://dev.to/strapi/deploying-and-scaling-the-official-strapi-demo-app-foodadvisor-with-kubernetes-and-docker-3od5)
 - [Dev.to/JS] [💥 Introducing Skott, the new Madge!](https://dev.to/antoinecoulon/introducing-skott-the-new-madge-1bfl)
 - [Dev.to/JS] [Build a CSS Transition Tool for your editors](https://dev.to/madsstoumann/build-a-css-transition-tool-for-your-editors-4emh)
 - [Dev.to/JS] [Iterators &amp; Generators in JS](https://dev.to/sjsouvik/iterators-generators-in-js-142m)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Console Methods](https://dev.to/dhanushnehru/javascript-console-methods-4ch9)
 - [Dev.to/JS] [Beginner programming Tip](https://dev.to/madhusudhan/beginner-programming-tip-3mgd)
 - [Dev.to/JS] [Comments in VsCode!](https://dev.to/areedev/comments-in-vscode-36le)
-- [Dev.to/JS] [Google action fetching data from an API](https://dev.to/dailydevtips1/google-action-fetching-data-from-an-api-4lg7)
-- [Dev.to/JS] [How to Find The Frequency of Characters in a String or Array](https://dev.to/gilfoyle/how-to-find-the-frequency-of-characters-in-a-string-or-array-3271)
-- [Dev.to/JS] [Ways To Make HTTP Request in Javascript](https://dev.to/benjaminnwokolo/ways-to-make-http-request-in-javascript-5djp)
 - [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
 - [Lifehacker] [Stop Storing Clothes in Plastic Dry Cleaning Bags &lpar;and Use This Alternative Instead&rpar;](https://lifehacker.com/stop-storing-clothes-in-plastic-dry-cleaning-bags-and-1849508740)
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
