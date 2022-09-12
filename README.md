@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2 Day in 100DaysOfReact](https://dev.to/rajkamalkanna/2-day-in-100daysofreact-55hg)
+- [Lifehacker] [Do Bubble Machines Really Repel Mosquitoes?](https://lifehacker.com/do-bubble-machines-really-repel-mosquitoes-1849525325)
+- [Lifehacker] [Thee Incredibly Easy Ways to Peel a Tomato](https://lifehacker.com/thee-incredibly-easy-ways-to-peel-a-tomato-1849525275)
 - [Dev.to/JS] [Simple spreadsheet app with vue](https://dev.to/maxim_maeder/simple-spreadsheet-app-with-vue-49da)
 - [Dev.to/JS] [Names fuzzy match in javascript](https://dev.to/gauravkrp/names-fuzzy-match-in-javascript-20dg)
 - [Dev.to/JS] [Thymeleaf Vs AngularJS: Supercharge Your Java App Development Project](https://dev.to/nikunjshingalaofficial/thymeleaf-vs-angularjs-supercharge-your-java-app-development-project-17c5)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating declarative UI-rich apps without learning any declarative framework like React or Vue.js](https://dev.to/juanjo75es/creating-declarative-ui-rich-apps-without-learning-any-declarative-framework-like-react-or-vuejs-5flf)
 - [Dev.to/JS] [Building an interactive screen-sharing app with Puppeteer and React 🤯](https://dev.to/novu/building-an-interactive-screen-sharing-app-with-puppeteer-and-react-12h7)
 - [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)
-- [Dev.to/JS] [Adding Unique Outcomes With Random Numbers](https://dev.to/klofnod/adding-unique-outcomes-with-random-numbers-2o97)
 - [Lifehacker] [The Easiest Way to Delete All Your Old iPhone Screenshots](https://lifehacker.com/the-easiest-way-to-delete-all-your-old-iphone-screensho-1849523788)
 - [Lifehacker] [Maybe That ‘Virus’ Is Actually a Fall Allergy](https://lifehacker.com/maybe-that-virus-is-actually-a-fall-allergy-1849523561)
 - [Lifehacker] [How to Cope With Anticipatory Grief](https://lifehacker.com/how-to-cope-with-anticipatory-grief-1849521218)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If You’re Being ‘Quiet Fired’ &lpar;and Why That’s Nothing New&rpar;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-and-why-that-1849513117)
 - [Lifehacker] [How to Know If Your Kid Really Needs Braces](https://lifehacker.com/how-to-know-if-your-kid-really-needs-braces-1849517348)
 - [Lifehacker] [You Can Update Your PS5 Controller Using a Windows PC](https://lifehacker.com/you-can-update-your-ps5-controller-using-a-windows-pc-1849516640)
-- [Lifehacker] [How to Clean Puke Out of Your Car](https://lifehacker.com/how-to-clean-puke-out-of-your-car-1849514900)
-- [Lifehacker] [The Best Fall Trips and Activities in Each of the 50 States](https://lifehacker.com/the-best-fall-trips-and-activities-in-each-of-the-50-st-1849512201)
-- [Lifehacker] [How to Support Your Burnt-Out Teenager](https://lifehacker.com/how-to-support-your-burnt-out-teenager-1849512950)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Clean Puke Out of Your Car](https://lifehacker.com/how-to-clean-puke-out-of-your-car-1849514900)<!-- TECH-POSTS:END -->
 
 ---
 
