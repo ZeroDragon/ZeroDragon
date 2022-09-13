@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Objects in JavaScript &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/objects-in-javascript-with-examples-5e4p)
+- [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Dev.to/JS] [my-button-ssg](https://dev.to/lostbutton/my-button-ssg-3e4g)
 - [Dev.to/JS] [NestJS + esbuild workarounds](https://dev.to/antongolub/nestjs-esbuild-workarounds-99i)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to remove items from an array in JavaScript?](https://dev.to/amitiitbhu/how-to-remove-items-from-an-array-in-javascript-26m2)
 - [Dev.to/JS] [Clean up your code with destructors and Array.includes](https://dev.to/hi_iam_chris/clean-up-your-code-with-destructors-and-arrayincludes-i9k)
 - [Lifehacker] [Why You Should Update to iOS 16 Even If You Don’t Care About New Features](https://lifehacker.com/why-you-should-update-to-ios-16-even-if-you-don-t-care-1849529931)
-- [Dev.to/JS] [Uploading multiple and Single files using Node.js and Express.js with MongoDB.](https://dev.to/abhishek_159/uploading-multiple-and-single-files-using-nodejs-and-expressjs-with-mongodb-493n)
 - [Lifehacker] [When You Can &lpar;and Can&#39;t&rpar; Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)
 - [Lifehacker] [How Often Should I Get a New Smartphone?](https://lifehacker.com/how-often-should-i-get-a-new-smartphone-1849530035)
 - [Lifehacker] [The Best New Widgets for Your iPhone Lock Screen](https://lifehacker.com/the-best-new-widgets-for-your-iphone-lock-screen-1849528791)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New iOS 16 Features You Can&#39;t Use Yet](https://lifehacker.com/all-the-new-ios-16-features-you-cant-use-yet-1849524299)
 - [Lifehacker] [The Best Real Estate and Home Decor Porn on Instagram](https://lifehacker.com/the-best-real-estate-and-home-decor-porn-on-instagram-1849524843)
 - [Crazy Programmer] [Anomalies in DBMS with Example](https://www.thecrazyprogrammer.com/2022/09/anomalies-in-dbms.html)
-- [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)
-- [Lifehacker] [The Easiest Way to Delete All Your Old iPhone Screenshots](https://lifehacker.com/the-easiest-way-to-delete-all-your-old-iphone-screensho-1849523788)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)<!-- TECH-POSTS:END -->
 
 ---
 
