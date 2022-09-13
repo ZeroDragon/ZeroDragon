@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sandworm.JS: sandboxing &amp; malware detection for npm packages](https://dev.to/sebivaduva/sandwormjs-sandboxing-malware-detection-for-npm-packages-3e1o)
+- [Dev.to/JS] [Sequelize, Express.js, &amp; Handlebars.js being turds?](https://dev.to/constmedic/sequelize-expressjs-handlebarsjs-being-turds-20on)
+- [Lifehacker] [The Best New Widgets for Your iPhone Lock Screen](https://lifehacker.com/the-best-new-widgets-for-your-iphone-lock-screen-1849528791)
+- [Dev.to/JS] [The Next Level Time Picker For Your Next React App ⌚️](https://dev.to/meddarhri/the-next-level-time-picker-for-your-next-react-app-38km)
+- [Dev.to/JS] [Build awesome🔥 landing page for Apple iphone using ThreeJS + ReactJS](https://dev.to/codebucks/build-awesome-landing-page-for-apple-iphone-using-threejs-reactjs-gh1)
+- [Dev.to/JS] [Android Shopping List](https://dev.to/lucapu88/android-shopping-list-8be)
+- [Dev.to/JS] [The Easiest Way to Detect Device Orientation in JavaScript](https://dev.to/dcodeyt/the-easiest-way-to-detect-device-orientation-in-javascript-7d7)
 - [Lifehacker] [How to Master &#39;Baby Talk&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-master-baby-talk-and-why-you-should-1849528951)
 - [Dev.to/JS] [Consigue fechas relativas en Javascript](https://dev.to/matiasfha/consigue-fechas-relativas-en-javascript-2pdc)
 - [Dev.to/JS] [A !simple Todo App In React Intro](https://dev.to/himanshupal0001/a-simple-todo-app-in-react-intro-5g05)
@@ -32,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make Digital Agency Website Using HTML CSS JavaScript](https://dev.to/janedoe22/how-to-build-digital-agency-website-using-html-css-javascript-2jo5)
 - [Dev.to/JS] [I know HTML CSS but cant create anything by myself](https://dev.to/fahimulkabir/i-know-html-css-but-cant-create-anything-by-myself-4go2)
 - [Lifehacker] [Make a Breakfast Burrito With Last Night&#39;s Fried Rice](https://lifehacker.com/make-a-breakfast-burrito-with-last-nights-fried-rice-1849525922)
-- [Dev.to/JS] [10 Best React Development Tools](https://dev.to/surinder_rawat/10-best-react-development-tools-11k8)
-- [Dev.to/JS] [How Proofreading Services May help You](https://dev.to/bobbrewington289/how-proofreading-services-may-help-you-1am5)
-- [Dev.to/JS] [Criando variantes de botões com Styled Componets e React Native](https://dev.to/wesleywcr/criando-variantes-de-botoes-com-styled-componets-e-react-native-8ag)
-- [Dev.to/JS] [Cool GitHub repositories for self-taught](https://dev.to/pruthvidarji1993/cool-github-repositories-for-self-taught-1k53)
-- [Dev.to/JS] [to enhance your oral fitness](https://dev.to/darlenezperrys/to-enhance-your-oral-fitness-n5m)
-- [Dev.to/JS] [Some of the really cool Website especially for improving Javascript Knowledge and code skills](https://dev.to/pruthvidarji1993/some-of-the-really-cool-website-especially-for-improving-javascript-knowledge-and-code-skills-m3j)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
 - [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
-- [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
-- [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)<!-- TECH-POSTS:END -->
 
 ---
 
