@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Let Keyword](https://dev.to/moazamdev/the-let-keyword-3m20)
+- [Dev.to/JS] [Elon Musk is suing for Rp 3,800 trillion and being blamed for Pompom Dogecoin.](https://dev.to/indotecno/elon-musk-is-suing-for-rp-3800-trillion-and-being-blamed-for-pompom-dogecoin-2812)
+- [Dev.to/JS] [Opportunity makes a better developer](https://dev.to/amfstacks/opportunity-makes-a-better-developer-4n31)
+- [Lifehacker] [How Often Should I Get a New Smartphone?](https://lifehacker.com/how-often-should-i-get-a-new-smartphone-1849530035)
 - [Dev.to/JS] [Sandworm.JS: sandboxing &amp; malware detection for npm packages](https://dev.to/sebivaduva/sandwormjs-sandboxing-malware-detection-for-npm-packages-3e1o)
 - [Dev.to/JS] [Sequelize, Express.js, &amp; Handlebars.js being turds?](https://dev.to/constmedic/sequelize-expressjs-handlebarsjs-being-turds-20on)
 - [Lifehacker] [The Best New Widgets for Your iPhone Lock Screen](https://lifehacker.com/the-best-new-widgets-for-your-iphone-lock-screen-1849528791)
@@ -34,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Consigue fechas relativas en Javascript](https://dev.to/matiasfha/consigue-fechas-relativas-en-javascript-2pdc)
 - [Dev.to/JS] [A !simple Todo App In React Intro](https://dev.to/himanshupal0001/a-simple-todo-app-in-react-intro-5g05)
 - [Dev.to/JS] [HOW TO RESOLVE MERGE GIT CONFLICT.](https://dev.to/harmeed/how-to-resolve-merge-git-conflict-4c83)
-- [Dev.to/JS] [How to Create a Wordle with TDD in Javascript](https://dev.to/mcsee/how-to-create-a-wordle-with-tdd-in-javascript-10ec)
 - [Lifehacker] [The Items Every Backpack Needs, Ranked by Usefulness](https://lifehacker.com/the-items-every-backpack-needs-ranked-by-usefulness-1849525349)
-- [Dev.to/JS] [How to Make Digital Agency Website Using HTML CSS JavaScript](https://dev.to/janedoe22/how-to-build-digital-agency-website-using-html-css-javascript-2jo5)
-- [Dev.to/JS] [I know HTML CSS but cant create anything by myself](https://dev.to/fahimulkabir/i-know-html-css-but-cant-create-anything-by-myself-4go2)
 - [Lifehacker] [Make a Breakfast Burrito With Last Night&#39;s Fried Rice](https://lifehacker.com/make-a-breakfast-burrito-with-last-nights-fried-rice-1849525922)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
 - [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
-- [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
-- [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)<!-- TECH-POSTS:END -->
 
 ---
 
