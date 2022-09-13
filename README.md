@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Porting Curveball to Bun](https://dev.to/evertp/porting-curveball-to-bun-54j9)
+- [Lifehacker] [How to Get Through Customs and Immigration As Fast As Possible](https://lifehacker.com/how-to-get-through-customs-and-immigration-as-fast-as-p-1849529966)
+- [Dev.to/JS] [How to remove items from an array in JavaScript?](https://dev.to/amitiitbhu/how-to-remove-items-from-an-array-in-javascript-26m2)
+- [Dev.to/JS] [Clean up your code with destructors and Array.includes](https://dev.to/hi_iam_chris/clean-up-your-code-with-destructors-and-arrayincludes-i9k)
+- [Lifehacker] [Why You Should Update to iOS 16 Even If You Don’t Care About New Features](https://lifehacker.com/why-you-should-update-to-ios-16-even-if-you-don-t-care-1849529931)
+- [Dev.to/JS] [Uploading multiple and Single files using Node.js and Express.js with MongoDB.](https://dev.to/abhishek_159/uploading-multiple-and-single-files-using-nodejs-and-expressjs-with-mongodb-493n)
+- [Lifehacker] [When You Can &lpar;and Can&#39;t&rpar; Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)
 - [Dev.to/JS] [The Let Keyword](https://dev.to/moazamdev/the-let-keyword-3m20)
 - [Dev.to/JS] [Elon Musk is suing for Rp 3,800 trillion and being blamed for Pompom Dogecoin.](https://dev.to/indotecno/elon-musk-is-suing-for-rp-3800-trillion-and-being-blamed-for-pompom-dogecoin-2812)
 - [Dev.to/JS] [Opportunity makes a better developer](https://dev.to/amfstacks/opportunity-makes-a-better-developer-4n31)
@@ -33,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Next Level Time Picker For Your Next React App ⌚️](https://dev.to/meddarhri/the-next-level-time-picker-for-your-next-react-app-38km)
 - [Dev.to/JS] [Build awesome🔥 landing page for Apple iphone using ThreeJS + ReactJS](https://dev.to/codebucks/build-awesome-landing-page-for-apple-iphone-using-threejs-reactjs-gh1)
 - [Dev.to/JS] [Android Shopping List](https://dev.to/lucapu88/android-shopping-list-8be)
-- [Dev.to/JS] [The Easiest Way to Detect Device Orientation in JavaScript](https://dev.to/dcodeyt/the-easiest-way-to-detect-device-orientation-in-javascript-7d7)
 - [Lifehacker] [How to Master &#39;Baby Talk&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-master-baby-talk-and-why-you-should-1849528951)
-- [Dev.to/JS] [Consigue fechas relativas en Javascript](https://dev.to/matiasfha/consigue-fechas-relativas-en-javascript-2pdc)
-- [Dev.to/JS] [A !simple Todo App In React Intro](https://dev.to/himanshupal0001/a-simple-todo-app-in-react-intro-5g05)
-- [Dev.to/JS] [HOW TO RESOLVE MERGE GIT CONFLICT.](https://dev.to/harmeed/how-to-resolve-merge-git-conflict-4c83)
 - [Lifehacker] [The Items Every Backpack Needs, Ranked by Usefulness](https://lifehacker.com/the-items-every-backpack-needs-ranked-by-usefulness-1849525349)
 - [Lifehacker] [Make a Breakfast Burrito With Last Night&#39;s Fried Rice](https://lifehacker.com/make-a-breakfast-burrito-with-last-nights-fried-rice-1849525922)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Fourth Generation Language &lpar;4GL&rpar; – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/09/fourth-generation-language.html)
 - [Lifehacker] [How to Open Windows That Were Painted Shut](https://lifehacker.com/how-to-open-windows-that-were-painted-shut-1849508743)
 - [Lifehacker] [How to Clean Faucet Aerators &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
-- [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)
-- [Lifehacker] [How to Paint Upholstery](https://lifehacker.com/how-to-paint-upholstery-1849508620)
-- [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
-- [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Grasshoppers and Crickets &lpar;and How to Prevent Both From Invading Your Home This Fall&rpar;](https://lifehacker.com/the-difference-between-grasshoppers-and-crickets-and-h-1849508617)<!-- TECH-POSTS:END -->
 
 ---
 
