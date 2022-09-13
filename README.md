@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I build my Resume with React, Tailwind and Strapi.io](https://dev.to/mkds17/how-i-build-my-resume-with-react-tailwind-and-strapiio-4526)
+- [Lifehacker] [Go Ahead, Throw a Duck on the Grill](https://lifehacker.com/go-ahead-throw-a-duck-on-the-grill-1849527371)
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter IX: FileManager Hook And Context](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-ix-filemanager-hook-and-context-3g3f)
+- [Dev.to/JS] [Scrape Google Shopping Product Results](https://dev.to/darshan0_1/scrape-google-shopping-product-results-43l7)
 - [Lifehacker] [How to Use Up, Repurpose, or Sell Leftover Renovation Materials](https://lifehacker.com/how-to-use-up-repurpose-or-sell-leftover-renovation-m-1849530271)
 - [Lifehacker] [Is It Really Safe to Lift Barefoot?](https://lifehacker.com/is-it-really-safe-to-lift-barefoot-1849530787)
 - [Dev.to/JS] [Sveltekit Changes: Load Function](https://dev.to/theether0/sveltekit-load-function-behavior-changes-3kb6)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Can &lpar;and Can&#39;t&rpar; Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)
 - [Dev.to/JS] [The Let Keyword](https://dev.to/moazamdev/the-let-keyword-3m20)
 - [Dev.to/JS] [Elon Musk is suing for Rp 3,800 trillion and being blamed for Pompom Dogecoin.](https://dev.to/indotecno/elon-musk-is-suing-for-rp-3800-trillion-and-being-blamed-for-pompom-dogecoin-2812)
-- [Dev.to/JS] [Opportunity makes a better developer](https://dev.to/amfstacks/opportunity-makes-a-better-developer-4n31)
 - [Lifehacker] [How Often Should I Get a New Smartphone?](https://lifehacker.com/how-often-should-i-get-a-new-smartphone-1849530035)
-- [Dev.to/JS] [Sandworm.JS: sandboxing &amp; malware detection for npm packages](https://dev.to/sebivaduva/sandwormjs-sandboxing-malware-detection-for-npm-packages-3e1o)
-- [Dev.to/JS] [Sequelize, Express.js, &amp; Handlebars.js being turds?](https://dev.to/constmedic/sequelize-expressjs-handlebarsjs-being-turds-20on)
 - [Lifehacker] [The Best New Widgets for Your iPhone Lock Screen](https://lifehacker.com/the-best-new-widgets-for-your-iphone-lock-screen-1849528791)
 - [Lifehacker] [How to Master &#39;Baby Talk&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-master-baby-talk-and-why-you-should-1849528951)
 - [Lifehacker] [The Items Every Backpack Needs, Ranked by Usefulness](https://lifehacker.com/the-items-every-backpack-needs-ranked-by-usefulness-1849525349)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)
 - [Lifehacker] [The Easiest Way to Delete All Your Old iPhone Screenshots](https://lifehacker.com/the-easiest-way-to-delete-all-your-old-iphone-screensho-1849523788)
 - [Lifehacker] [Maybe That ‘Virus’ Is Actually a Fall Allergy](https://lifehacker.com/maybe-that-virus-is-actually-a-fall-allergy-1849523561)
-- [Lifehacker] [How to Cope With Anticipatory Grief](https://lifehacker.com/how-to-cope-with-anticipatory-grief-1849521218)
-- [Lifehacker] [How to Remove Mold From Books &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Cope With Anticipatory Grief](https://lifehacker.com/how-to-cope-with-anticipatory-grief-1849521218)<!-- TECH-POSTS:END -->
 
 ---
 
