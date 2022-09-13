@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamic Progress Bar in HTML](https://dev.to/aisharajput/dynamic-progress-bar-in-html-28ji)
+- [Dev.to/JS] [Add Two Numbers - LinkedList](https://dev.to/zeeshanali0704/add-two-numbers-linkedlist-i3k)
+- [Dev.to/JS] [Read Mifare Classic card using NFC-PCSC library - NodeJS &amp; Socket IO](https://dev.to/vldcndn/read-mifare-classic-card-using-nfc-pcsc-library-nodejs-socket-io-44be)
 - [Dev.to/JS] [What I learned during September 05-09 Week](https://dev.to/anamdiazs/what-i-learned-during-september-05-09-week-527k)
 - [Dev.to/JS] [Low-Code And The Great App Development Explosion](https://dev.to/domfive/low-code-and-the-great-app-development-explosion-4fgp)
 - [Dev.to/JS] [Front-end Pokédex Project](https://dev.to/blueycode/front-end-pokedex-project-4l56)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning Builder.io from a Developers Perspective](https://dev.to/codingcatdev/learning-builderio-from-a-developers-perspective-c69)
 - [Dev.to/JS] [CodingCatDev is joining the Learn Build Teach Community](https://dev.to/codingcatdev/codingcatdev-is-joining-the-learn-build-teach-community-3l25)
 - [Dev.to/JS] [Updated: Changing the Channel for YouTube Engagement was a bad idea](https://dev.to/codingcatdev/updated-changing-the-channel-for-youtube-engagement-was-a-bad-idea-42ek)
-- [Dev.to/JS] [How to achieve 16:9 resolution while using Divvy on a Mac](https://dev.to/codingcatdev/how-to-achieve-169-resolution-while-using-divvy-on-a-mac-1iog)
-- [Dev.to/JS] [The Basics of Big Data for Web Developers](https://dev.to/codingcatdev/the-basics-of-big-data-for-web-developers-cl7)
-- [Dev.to/JS] [Reviewing 2021 and predicting 2022](https://dev.to/codingcatdev/reviewing-2021-and-predicting-2022-2i9p)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
 - [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
