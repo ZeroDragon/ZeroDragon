@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google action fetching data from an RSS feed](https://dev.to/dailydevtips1/google-action-fetching-data-from-an-rss-feed-33ld)
+- [Dev.to/JS] [Method chaining in Javascript](https://dev.to/rahulchaudhary2244/method-chaining-in-javascript-3og7)
 - [Dev.to/JS] [Rotate Right - LinkedList](https://dev.to/zeeshanali0704/rotate-right-linkedlist-4e6g)
 - [Dev.to/JS] [Dynamic Progress Bar in HTML](https://dev.to/aisharajput/dynamic-progress-bar-in-html-28ji)
 - [Dev.to/JS] [Add Two Numbers - LinkedList](https://dev.to/zeeshanali0704/add-two-numbers-linkedlist-i3k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Notion to Hashnode and Dev.to using Pub/Sub Cloud Functions](https://dev.to/codingcatdev/notion-to-hashnode-and-devto-using-pubsub-cloud-functions-3ka)
 - [Dev.to/JS] [Lista de capas/ Filmes Favoritos](https://dev.to/alinehalley/lista-de-capas-filmes-favoritos-27f1)
 - [Dev.to/JS] [Front End Web Development Podcasts](https://dev.to/codingcatdev/front-end-web-development-podcasts-42gg)
-- [Dev.to/JS] [Learning Builder.io from a Developers Perspective](https://dev.to/codingcatdev/learning-builderio-from-a-developers-perspective-c69)
-- [Dev.to/JS] [CodingCatDev is joining the Learn Build Teach Community](https://dev.to/codingcatdev/codingcatdev-is-joining-the-learn-build-teach-community-3l25)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
 - [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
