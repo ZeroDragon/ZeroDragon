@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [When to use “useImperativeHandle” and “forwardRefs” in React 18](https://dev.to/sameer1612/when-to-use-useimperativehandle-and-forwardrefs-in-react-18-3l1b)
-- [Dev.to/JS] [JavaScript Tips and Tricks: difference between VAR and LET variables Concept.](https://dev.to/sayyedasad786/javascript-tips-and-tricks-difference-between-var-and-let-variables-concept-2hnb)
-- [Dev.to/JS] [Checkout de MercadoPago en Nuxt3&lpar;Vue Js&rpar;](https://dev.to/fernanro2406/checkout-de-mercadopago-en-nuxt3vue-js-1d9o)
-- [Dev.to/JS] [Print the Elements of a Linked List](https://dev.to/zeeshanali0704/print-the-elements-of-a-linked-list-hpj)
-- [Dev.to/JS] [Indian Government API List](https://dev.to/imhardikdesai/indian-government-api-list-1d19)
-- [Dev.to/JS] [Ng-News: Episode 22/36](https://dev.to/rainerhahnekamp/ng-news-episode-2236-31mj)
-- [Dev.to/JS] [Biolyte Keto Gummies - Price, Ingredients, Benefits &amp; Weight Loss Results?](https://dev.to/biolyteketofact/biolyte-keto-gummies-price-ingredients-benefits-weight-loss-results-hb1)
-- [Dev.to/JS] [Removing elements from an array](https://dev.to/jolamemushaj/removing-elements-from-an-array-5fho)
-- [Dev.to/JS] [Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Polygon](https://dev.to/suhailkakar/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-polygon-gd1)
-- [Dev.to/JS] [3 steps to develop your custom blogging platform](https://dev.to/shreyvijayvargiya/3-steps-to-develop-your-custom-blogging-platform-4kfo)
-- [Dev.to/JS] [Auth0 Provider and Strapi Tutorial](https://dev.to/strapi/auth0-provider-and-strapi-tutorial-872)
-- [Dev.to/JS] [Usar React context de forma correcta](https://dev.to/gonzalobarba/usar-react-context-de-forma-correcta-4af5)
+- [Dev.to/JS] [How to Make Digital Agency Website Using HTML CSS JavaScript](https://dev.to/janedoe22/how-to-build-digital-agency-website-using-html-css-javascript-2jo5)
+- [Dev.to/JS] [I know HTML CSS but cant create anything by myself](https://dev.to/fahimulkabir/i-know-html-css-but-cant-create-anything-by-myself-4go2)
+- [Lifehacker] [Make a Breakfast Burrito With Last Night&#39;s Fried Rice](https://lifehacker.com/make-a-breakfast-burrito-with-last-nights-fried-rice-1849525922)
+- [Dev.to/JS] [10 Best React Development Tools](https://dev.to/surinder_rawat/10-best-react-development-tools-11k8)
+- [Dev.to/JS] [How Proofreading Services May help You](https://dev.to/bobbrewington289/how-proofreading-services-may-help-you-1am5)
+- [Dev.to/JS] [Criando variantes de botões com Styled Componets e React Native](https://dev.to/wesleywcr/criando-variantes-de-botoes-com-styled-componets-e-react-native-8ag)
+- [Dev.to/JS] [Cool GitHub repositories for self-taught](https://dev.to/pruthvidarji1993/cool-github-repositories-for-self-taught-1k53)
+- [Dev.to/JS] [to enhance your oral fitness](https://dev.to/darlenezperrys/to-enhance-your-oral-fitness-n5m)
+- [Dev.to/JS] [Some of the really cool Website especially for improving Javascript Knowledge and code skills](https://dev.to/pruthvidarji1993/some-of-the-really-cool-website-especially-for-improving-javascript-knowledge-and-code-skills-m3j)
+- [Dev.to/JS] [Some of the good Cheat Sheet found on internet](https://dev.to/pruthvidarji1993/some-of-the-good-cheat-sheet-found-on-internet-3fnl)
+- [Dev.to/JS] [Roadmap Of Javascript](https://dev.to/pruthvidarji1993/roadmap-of-javascript-3gf7)
+- [Dev.to/JS] [2022: Best State management libraries in React JS](https://dev.to/pruthvidarji1993/2022-best-state-management-libraries-in-react-js-1e1h)
+- [Dev.to/JS] [Best Animation Libraries specific in React](https://dev.to/pruthvidarji1993/best-animation-libraries-specific-in-react-386)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
 - [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
 - [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
 - [Lifehacker] [Five Drinking Terms Everyone at the Bar Should Know](https://lifehacker.com/five-drinking-terms-everyone-at-the-bar-should-know-1849517914)
-- [Lifehacker] [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)
-- [Lifehacker] [How to Fix the Uninstalled DLC Bug on PS4](https://lifehacker.com/how-to-fix-the-uninstalled-dlc-bug-on-ps4-1849517386)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)<!-- TECH-POSTS:END -->
 
 ---
 
