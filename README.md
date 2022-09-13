@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Usar React context de forma correcta](https://dev.to/gonzalobarba/usar-react-context-de-forma-correcta-4af5)
+- [Dev.to/JS] [Why is it easier for me learning beginner JS than learning beginner CSS? wow](https://dev.to/carnold22265/why-is-it-easier-for-me-learning-beginner-js-than-learning-beginner-css-wow-1c26)
 - [Dev.to/JS] [After uploading, the version submission cannot be found in the app management center](https://dev.to/junguo52122/after-uploading-the-version-submission-cannot-be-found-in-the-app-management-center-291p)
 - [Dev.to/JS] [After uploading, the version submission cannot be found in the app management center](https://dev.to/junguo52122/after-uploading-the-version-submission-cannot-be-found-in-the-app-management-center-h1)
 - [Dev.to/JS] [How to use the bitwise XOR &lpar;^&rpar; operator in JavaScript](https://dev.to/h_sifat/how-to-use-the-bitwise-xor-operator-in-javascript-20m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rotate Right - LinkedList](https://dev.to/zeeshanali0704/rotate-right-linkedlist-4e6g)
 - [Dev.to/JS] [Dynamic Progress Bar in HTML](https://dev.to/aisharajput/dynamic-progress-bar-in-html-28ji)
 - [Dev.to/JS] [Add Two Numbers - LinkedList](https://dev.to/zeeshanali0704/add-two-numbers-linkedlist-i3k)
-- [Dev.to/JS] [Read Mifare Classic card using NFC-PCSC library - NodeJS &amp; Socket IO](https://dev.to/vldcndn/read-mifare-classic-card-using-nfc-pcsc-library-nodejs-socket-io-44be)
-- [Dev.to/JS] [What I learned during September 05-09 Week](https://dev.to/anamdiazs/what-i-learned-during-september-05-09-week-527k)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
 - [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
