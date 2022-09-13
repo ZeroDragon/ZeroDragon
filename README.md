@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Master &#39;Baby Talk&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-master-baby-talk-and-why-you-should-1849528951)
+- [Dev.to/JS] [Consigue fechas relativas en Javascript](https://dev.to/matiasfha/consigue-fechas-relativas-en-javascript-2pdc)
+- [Dev.to/JS] [A !simple Todo App In React Intro](https://dev.to/himanshupal0001/a-simple-todo-app-in-react-intro-5g05)
+- [Dev.to/JS] [HOW TO RESOLVE MERGE GIT CONFLICT.](https://dev.to/harmeed/how-to-resolve-merge-git-conflict-4c83)
+- [Dev.to/JS] [How to Create a Wordle with TDD in Javascript](https://dev.to/mcsee/how-to-create-a-wordle-with-tdd-in-javascript-10ec)
+- [Lifehacker] [The Items Every Backpack Needs, Ranked by Usefulness](https://lifehacker.com/the-items-every-backpack-needs-ranked-by-usefulness-1849525349)
 - [Dev.to/JS] [How to Make Digital Agency Website Using HTML CSS JavaScript](https://dev.to/janedoe22/how-to-build-digital-agency-website-using-html-css-javascript-2jo5)
 - [Dev.to/JS] [I know HTML CSS but cant create anything by myself](https://dev.to/fahimulkabir/i-know-html-css-but-cant-create-anything-by-myself-4go2)
 - [Lifehacker] [Make a Breakfast Burrito With Last Night&#39;s Fried Rice](https://lifehacker.com/make-a-breakfast-burrito-with-last-nights-fried-rice-1849525922)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cool GitHub repositories for self-taught](https://dev.to/pruthvidarji1993/cool-github-repositories-for-self-taught-1k53)
 - [Dev.to/JS] [to enhance your oral fitness](https://dev.to/darlenezperrys/to-enhance-your-oral-fitness-n5m)
 - [Dev.to/JS] [Some of the really cool Website especially for improving Javascript Knowledge and code skills](https://dev.to/pruthvidarji1993/some-of-the-really-cool-website-especially-for-improving-javascript-knowledge-and-code-skills-m3j)
-- [Dev.to/JS] [Some of the good Cheat Sheet found on internet](https://dev.to/pruthvidarji1993/some-of-the-good-cheat-sheet-found-on-internet-3fnl)
-- [Dev.to/JS] [Roadmap Of Javascript](https://dev.to/pruthvidarji1993/roadmap-of-javascript-3gf7)
-- [Dev.to/JS] [2022: Best State management libraries in React JS](https://dev.to/pruthvidarji1993/2022-best-state-management-libraries-in-react-js-1e1h)
-- [Dev.to/JS] [Best Animation Libraries specific in React](https://dev.to/pruthvidarji1993/best-animation-libraries-specific-in-react-386)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
 - [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Grace Hopper Biography](https://www.thecrazyprogrammer.com/2022/09/grace-hopper-biography.html)
 - [Lifehacker] [The Easiest Ways to Make Parchment Circles](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
 - [Lifehacker] [Is It Possible to Live Without Credit Cards, Debit Cards, and Cash Apps?](https://lifehacker.com/is-it-possible-to-live-without-credit-cards-debit-card-1849517453)
-- [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)
-- [Lifehacker] [Five Drinking Terms Everyone at the Bar Should Know](https://lifehacker.com/five-drinking-terms-everyone-at-the-bar-should-know-1849517914)
-- [Lifehacker] [You Should Sauté Apples In Butter Before Baking With Them](https://lifehacker.com/you-should-saute-apples-in-butter-before-baking-with-th-1849517500)<!-- TECH-POSTS:END -->
+- [Lifehacker] [17 TV Shows and Movies About Real Women in Power](https://lifehacker.com/17-tv-shows-and-movies-about-real-women-in-power-1849516246)<!-- TECH-POSTS:END -->
 
 ---
 
