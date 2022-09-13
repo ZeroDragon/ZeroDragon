@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Removing elements from an array](https://dev.to/jolamemushaj/removing-elements-from-an-array-5fho)
+- [Dev.to/JS] [Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Polygon](https://dev.to/suhailkakar/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-polygon-gd1)
 - [Dev.to/JS] [3 steps to develop your custom blogging platform](https://dev.to/shreyvijayvargiya/3-steps-to-develop-your-custom-blogging-platform-4kfo)
 - [Dev.to/JS] [Auth0 Provider and Strapi Tutorial](https://dev.to/strapi/auth0-provider-and-strapi-tutorial-872)
 - [Dev.to/JS] [Usar React context de forma correcta](https://dev.to/gonzalobarba/usar-react-context-de-forma-correcta-4af5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Test](https://dev.to/zidanarrofi/test-3oob)
 - [Dev.to/JS] [7 Steps to Your Application Modernization Success](https://dev.to/aakashrajbar12899/7-steps-to-your-application-modernization-success-482i)
 - [Dev.to/JS] [Google action fetching data from an RSS feed](https://dev.to/dailydevtips1/google-action-fetching-data-from-an-rss-feed-33ld)
-- [Dev.to/JS] [Method chaining in Javascript](https://dev.to/rahulchaudhary2244/method-chaining-in-javascript-3og7)
-- [Dev.to/JS] [Rotate Right - LinkedList](https://dev.to/zeeshanali0704/rotate-right-linkedlist-4e6g)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
 - [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
