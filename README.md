@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [my-button-ssg](https://dev.to/lostbutton/my-button-ssg-3e4g)
+- [Dev.to/JS] [NestJS + esbuild workarounds](https://dev.to/antongolub/nestjs-esbuild-workarounds-99i)
+- [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
+- [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
 - [Dev.to/JS] [How I build my Resume with React, Tailwind and Strapi.io](https://dev.to/mkds17/how-i-build-my-resume-with-react-tailwind-and-strapiio-4526)
 - [Lifehacker] [Go Ahead, Throw a Duck on the Grill](https://lifehacker.com/go-ahead-throw-a-duck-on-the-grill-1849527371)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter IX: FileManager Hook And Context](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-ix-filemanager-hook-and-context-3g3f)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Update to iOS 16 Even If You Don’t Care About New Features](https://lifehacker.com/why-you-should-update-to-ios-16-even-if-you-don-t-care-1849529931)
 - [Dev.to/JS] [Uploading multiple and Single files using Node.js and Express.js with MongoDB.](https://dev.to/abhishek_159/uploading-multiple-and-single-files-using-nodejs-and-expressjs-with-mongodb-493n)
 - [Lifehacker] [When You Can &lpar;and Can&#39;t&rpar; Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)
-- [Dev.to/JS] [The Let Keyword](https://dev.to/moazamdev/the-let-keyword-3m20)
-- [Dev.to/JS] [Elon Musk is suing for Rp 3,800 trillion and being blamed for Pompom Dogecoin.](https://dev.to/indotecno/elon-musk-is-suing-for-rp-3800-trillion-and-being-blamed-for-pompom-dogecoin-2812)
 - [Lifehacker] [How Often Should I Get a New Smartphone?](https://lifehacker.com/how-often-should-i-get-a-new-smartphone-1849530035)
 - [Lifehacker] [The Best New Widgets for Your iPhone Lock Screen](https://lifehacker.com/the-best-new-widgets-for-your-iphone-lock-screen-1849528791)
 - [Lifehacker] [How to Master &#39;Baby Talk&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-master-baby-talk-and-why-you-should-1849528951)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Real Estate and Home Decor Porn on Instagram](https://lifehacker.com/the-best-real-estate-and-home-decor-porn-on-instagram-1849524843)
 - [Crazy Programmer] [Anomalies in DBMS with Example](https://www.thecrazyprogrammer.com/2022/09/anomalies-in-dbms.html)
 - [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)
-- [Lifehacker] [The Easiest Way to Delete All Your Old iPhone Screenshots](https://lifehacker.com/the-easiest-way-to-delete-all-your-old-iphone-screensho-1849523788)
-- [Lifehacker] [Maybe That ‘Virus’ Is Actually a Fall Allergy](https://lifehacker.com/maybe-that-virus-is-actually-a-fall-allergy-1849523561)
-- [Lifehacker] [How to Cope With Anticipatory Grief](https://lifehacker.com/how-to-cope-with-anticipatory-grief-1849521218)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Delete All Your Old iPhone Screenshots](https://lifehacker.com/the-easiest-way-to-delete-all-your-old-iphone-screensho-1849523788)<!-- TECH-POSTS:END -->
 
 ---
 
