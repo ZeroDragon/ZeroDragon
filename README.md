@@ -23,9 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the best way to learn Javascript?](https://dev.to/thebloodhound/what-is-the-best-way-to-learn-javascript-225m)
+- [Dev.to/JS] [Easy way to Create your own API for FREE](https://dev.to/varshithvhegde/easy-way-to-create-your-own-api-for-free-1mbc)
 - [Dev.to/JS] [¿Cómo conseguir que tu empresa auspicie la JSConf?](https://dev.to/jsconfcl/como-conseguir-que-tu-empresa-auspicie-la-jsconf-20n6)
 - [Lifehacker] [Make Brigadeiro Your New Cake Frosting](https://lifehacker.com/make-brigadeiro-your-new-cake-frosting-1849532365)
-- [Dev.to/JS] [test](https://dev.to/thanioruvan_nan/test-2o4e)
 - [Dev.to/JS] [Setw&lpar;&rpar; va setfill&lpar;&rpar; ?](https://dev.to/faxridd1n/setw-va-setfill--31m7)
 - [Lifehacker] [Clever Ways to Display All the Art Your Kid Makes This Year](https://lifehacker.com/clever-ways-to-display-all-the-art-your-kid-makes-this-1849530453)
 - [Dev.to/JS] [More Power with Appwrite&#39;s Permissions Generation 2](https://dev.to/appwrite/more-power-with-appwrites-permissions-generation-2-3ml3)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build an Image Editor with JavaScript 🎨](https://dev.to/dcodeyt/build-an-image-editor-with-javascript-3d9l)
 - [Dev.to/JS] [downloading HTML from a web page](https://dev.to/joaocarlos4/downloading-html-from-a-web-page-16p4)
 - [Dev.to/JS] [What Are Props &amp; How To Pass Them in React](https://dev.to/teejaydixon/what-are-props-how-to-pass-them-in-react-1ji8)
-- [Dev.to/JS] [Kadeck 4.0 Announcement](https://dev.to/kadeck/kadeck-40-by-ceo-ben-3m72)
 - [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
