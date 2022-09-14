@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Fetch data from an API using the JavaScript Fetch method](https://dev.to/efkumah/how-to-fetch-data-from-an-api-using-the-javascript-fetch-method-2l3a)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Dev.to/JS] [🚀 Cocktail App - make cocktails from home &lpar;open source&rpar;](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-open-source-2cbn)
 - [Dev.to/JS] [How to setup auto-scroll](https://dev.to/chiemezuo/how-to-setup-auto-scroll-33cn)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/the-best-ways-to-take-notes-so-you-actually-remember-in-1849535943)
 - [Dev.to/JS] [Searching pdf files - Coding a Goggle custom search engine &lpar;gcse&rpar; component in React](https://dev.to/mjoycemilburn/searching-pdf-files-coding-a-goggle-custom-search-engine-gcse-component-in-react-36fk)
 - [Lifehacker] [How to Put Your Baby Down Without Waking Them Up](https://lifehacker.com/how-to-put-your-baby-down-without-waking-them-up-1849535970)
-- [Dev.to/JS] [useReducer &lpar;&rpar; | React Hook with project](https://dev.to/singhanuj620/usereducer-react-hook-with-project-1pg)
 - [Crazy Programmer] [John Backus Biography](https://www.thecrazyprogrammer.com/2022/09/john-backus-biography.html)
 - [Lifehacker] [The Differences Between Anxiety and Depression &lpar;and When to Get Help&rpar;](https://lifehacker.com/the-differences-between-anxiety-and-depression-and-whe-1849528175)
 - [Lifehacker] [How to Drain Greasy Food When You&#39;re Out of Paper Towels](https://lifehacker.com/how-to-drain-greasy-food-when-youre-out-of-paper-towels-1849535418)
