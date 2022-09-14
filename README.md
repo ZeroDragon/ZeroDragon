@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
+- [Dev.to/JS] [Why Browser Anti-Fingerprinting Techniques Are Not Effective](https://dev.to/savannahjs/why-browser-anti-fingerprinting-techniques-are-not-effective-1n5f)
+- [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
+- [Dev.to/JS] [Every Developer Must Know These 7 JavaScript Concepts.](https://dev.to/nathannosudo/every-developer-must-know-these-7-javascript-concepts-3ecp)
+- [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/the-best-ways-to-take-notes-so-you-actually-remember-in-1849535943)
+- [Dev.to/JS] [Searching pdf files - Coding a Goggle custom search engine &lpar;gcse&rpar; component in React](https://dev.to/mjoycemilburn/searching-pdf-files-coding-a-goggle-custom-search-engine-gcse-component-in-react-36fk)
+- [Lifehacker] [How to Put Your Baby Down Without Waking Them Up](https://lifehacker.com/how-to-put-your-baby-down-without-waking-them-up-1849535970)
 - [Dev.to/JS] [useReducer &lpar;&rpar; | React Hook with project](https://dev.to/singhanuj620/usereducer-react-hook-with-project-1pg)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XIII: Organizing files](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xiii-organizing-files-210p)
 - [Crazy Programmer] [John Backus Biography](https://www.thecrazyprogrammer.com/2022/09/john-backus-biography.html)
@@ -39,11 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Loops Explained](https://dev.to/rembertdesigns/javascript-loops-explained-kp2)
 - [Lifehacker] [13 Classic Stories We Can’t Stop Adapting Into Movies](https://lifehacker.com/13-classic-stories-we-can-t-stop-adapting-into-movies-1849524899)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XII: Progress Bars, Skeltons And Overlays](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xii-progress-bars-skeltons-and-overlays-1ih3)
-- [Dev.to/JS] [The Basics of JavaScript Conditionals](https://dev.to/rembertdesigns/the-basics-of-javascript-conditionals-4kd3)
-- [Dev.to/JS] [不言而喻的變數命名（1）](https://dev.to/ianchouz/bu-yan-er-yu-de-bian-shu-ming-ming-1-2eo)
 - [Lifehacker] [What Shoes Should I Wear to Exercise?](https://lifehacker.com/what-shoes-should-i-wear-to-exercise-1849534543)
 - [Lifehacker] [Everything We Know About the iPhone 14&#39;s Battery Life](https://lifehacker.com/everything-we-know-about-the-iphone-14s-battery-life-1849532742)
-- [Dev.to/JS] [What is the best way to learn Javascript?](https://dev.to/thebloodhound/what-is-the-best-way-to-learn-javascript-225m)
 - [Lifehacker] [Make Brigadeiro Your New Cake Frosting](https://lifehacker.com/make-brigadeiro-your-new-cake-frosting-1849532365)
 - [Lifehacker] [Clever Ways to Display All the Art Your Kid Makes This Year](https://lifehacker.com/clever-ways-to-display-all-the-art-your-kid-makes-this-1849530453)
 - [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Supplements Are Worth Taking?](https://lifehacker.com/what-supplements-are-worth-taking-1849530535)
 - [Lifehacker] [How to Get Through Customs and Immigration As Fast As Possible](https://lifehacker.com/how-to-get-through-customs-and-immigration-as-fast-as-p-1849529966)
 - [Lifehacker] [Why You Should Update to iOS 16 Even If You Don’t Care About New Features](https://lifehacker.com/why-you-should-update-to-ios-16-even-if-you-don-t-care-1849529931)
-- [Lifehacker] [When You Can &lpar;and Can&#39;t&rpar; Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)
-- [Lifehacker] [How Often Should I Get a New Smartphone?](https://lifehacker.com/how-often-should-i-get-a-new-smartphone-1849530035)
-- [Lifehacker] [The Best New Widgets for Your iPhone Lock Screen](https://lifehacker.com/the-best-new-widgets-for-your-iphone-lock-screen-1849528791)
-- [Lifehacker] [How to Master &#39;Baby Talk&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-master-baby-talk-and-why-you-should-1849528951)
-- [Lifehacker] [The Items Every Backpack Needs, Ranked by Usefulness](https://lifehacker.com/the-items-every-backpack-needs-ranked-by-usefulness-1849525349)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Can &lpar;and Can&#39;t&rpar; Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)<!-- TECH-POSTS:END -->
 
 ---
 
