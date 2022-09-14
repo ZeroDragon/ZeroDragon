@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Maneras de clonar un objecto in javascript](https://dev.to/victorhugoaguilar/maneras-de-clonar-un-objecto-in-javascript-c0)
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XI: Navigating between directories](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xi-navigating-between-directories-597k)
+- [Dev.to/JS] [What is a JavaScript console? Explained](https://dev.to/ravinwashere/what-is-a-javascript-console-explained-1292)
 - [Dev.to/JS] [How can I create emojis in Picture with React](https://dev.to/bariskarapelit/how-can-i-create-emojis-in-picture-with-react-2m1j)
 - [Dev.to/JS] [Improving web application performance by using session storage with JavaScript](https://dev.to/nhsdeveloper/improving-web-application-performance-by-using-session-storage-with-javascript-4oe4)
 - [Dev.to/JS] [Angular vs. Vue &lpar;again...&rpar;](https://dev.to/josunlp/angular-vs-vue-again-315a)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with vue+alova](https://dev.to/coderhu/getting-started-with-vuealova-2fi)
 - [Dev.to/JS] [Fuel Save Pro - Results, Reviews, Price, Complaints &amp; Warnings?](https://dev.to/fuelsavepro1/fuel-save-pro-results-reviews-price-complaints-warnings-4348)
 - [Dev.to/JS] [Pitfalls of `process.env` every React developer should know](https://dev.to/arnelenero/pitfalls-of-processenv-every-react-developer-should-know-18nh)
-- [Dev.to/JS] [How to become a Freelance DevOps Engineer?](https://dev.to/postwell45/how-to-become-a-freelance-devops-engineer-14pb)
-- [Dev.to/JS] [The Ultimate Guide to Google Core Web Vitals](https://dev.to/quokkalabs/the-ultimate-guide-to-google-core-web-vitals-1cjf)
-- [Dev.to/JS] [Design Redesign website on any platform](https://dev.to/elinabey/design-redesign-website-on-any-platform-1adg)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
