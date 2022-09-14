@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Certificate download failed, prompting that kxapp service is not used for synchronization](https://dev.to/junguo52122/certificate-download-failed-prompting-that-kxapp-service-is-not-used-for-synchronization-jpb)
+- [Dev.to/JS] [Certificate download failed, prompting that kxapp service is not used for synchronization](https://dev.to/junguo52122/certificate-download-failed-prompting-that-kxapp-service-is-not-used-for-synchronization-4g36)
 - [Dev.to/JS] [using pseudocode as a beginner - why and how](https://dev.to/monlir/using-pseudocode-as-a-beginner-why-and-how-3hdd)
 - [Dev.to/JS] [No Such Thing as Too Much](https://dev.to/rmion/no-such-thing-as-too-much-4c97)
 - [Dev.to/JS] [Understanding Array Iterator Methods in JavaScript](https://dev.to/jamelse/understanding-array-iterator-methods-in-javascript-1k9a)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NestJS + esbuild workarounds](https://dev.to/antongolub/nestjs-esbuild-workarounds-99i)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
-- [Dev.to/JS] [How I build my Resume with React, Tailwind and Strapi.io](https://dev.to/mkds17/how-i-build-my-resume-with-react-tailwind-and-strapiio-4526)
 - [Lifehacker] [Go Ahead, Throw a Duck on the Grill](https://lifehacker.com/go-ahead-throw-a-duck-on-the-grill-1849527371)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter IX: FileManager Hook And Context](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-ix-filemanager-hook-and-context-3g3f)
 - [Lifehacker] [How to Use Up, Repurpose, or Sell Leftover Renovation Materials](https://lifehacker.com/how-to-use-up-repurpose-or-sell-leftover-renovation-m-1849530271)
 - [Lifehacker] [Is It Really Safe to Lift Barefoot?](https://lifehacker.com/is-it-really-safe-to-lift-barefoot-1849530787)
 - [Lifehacker] [How to Make a Last-Minute Presentation Deck](https://lifehacker.com/how-to-make-a-last-minute-presentation-deck-1849530466)
