@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Ultimate Guide to Google Core Web Vitals](https://dev.to/quokkalabs/the-ultimate-guide-to-google-core-web-vitals-1cjf)
+- [Dev.to/JS] [Design Redesign website on any platform](https://dev.to/elinabey/design-redesign-website-on-any-platform-1adg)
 - [Dev.to/JS] [Library project completed](https://dev.to/datamoshing/library-project-completed-1def)
 - [Dev.to/JS] [Google action learn more button](https://dev.to/dailydevtips1/google-action-learn-more-button-1bb2)
 - [Dev.to/JS] [Building Web Components 101 - Part 2](https://dev.to/tebin/building-web-components-101-part-2-1ima)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Created macOS with ReactJs](https://dev.to/gauravsoni97/created-macos-with-reactjs-4bl5)
 - [Dev.to/JS] [Introducing Signals in React 🚥](https://dev.to/ishan_parlikar/introducing-signals-in-react-28k6)
 - [Dev.to/JS] [Advantage of ReactJS](https://dev.to/amritapadhy/advantage-of-reactjs-3n5k)
-- [Dev.to/JS] [Certificate download failed, prompting that kxapp service is not used for synchronization](https://dev.to/junguo52122/certificate-download-failed-prompting-that-kxapp-service-is-not-used-for-synchronization-jpb)
-- [Dev.to/JS] [Certificate download failed, prompting that kxapp service is not used for synchronization](https://dev.to/junguo52122/certificate-download-failed-prompting-that-kxapp-service-is-not-used-for-synchronization-4g36)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
