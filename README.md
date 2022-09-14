@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No Such Thing as Too Much](https://dev.to/rmion/no-such-thing-as-too-much-4c97)
 - [Dev.to/JS] [Understanding Array Iterator Methods in JavaScript](https://dev.to/jamelse/understanding-array-iterator-methods-in-javascript-1k9a)
 - [Dev.to/JS] [Creattie | Made with Vue JS](https://dev.to/madewithjavascript/creattie-made-with-vue-js-3jdj)
 - [Dev.to/JS] [Vconsole](https://dev.to/haikelfazzani/vconsole-4omp)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scrape Google Shopping Product Results](https://dev.to/darshan0_1/scrape-google-shopping-product-results-43l7)
 - [Lifehacker] [How to Use Up, Repurpose, or Sell Leftover Renovation Materials](https://lifehacker.com/how-to-use-up-repurpose-or-sell-leftover-renovation-m-1849530271)
 - [Lifehacker] [Is It Really Safe to Lift Barefoot?](https://lifehacker.com/is-it-really-safe-to-lift-barefoot-1849530787)
-- [Dev.to/JS] [Sveltekit Changes: Load Function](https://dev.to/theether0/sveltekit-load-function-behavior-changes-3kb6)
 - [Lifehacker] [How to Make a Last-Minute Presentation Deck](https://lifehacker.com/how-to-make-a-last-minute-presentation-deck-1849530466)
 - [Crazy Programmer] [Degree of Relationship in DBMS](https://www.thecrazyprogrammer.com/2022/09/degree-of-relationship-in-dbms.html)
 - [Lifehacker] [What Supplements Are Worth Taking?](https://lifehacker.com/what-supplements-are-worth-taking-1849530535)
