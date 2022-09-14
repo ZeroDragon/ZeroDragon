@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything New in Appwrite 1.0](https://dev.to/appwrite/everything-new-in-appwrite-10-43o6)
+- [Dev.to/JS] [Introducing DateTime Support and ISO 8601 Dates](https://dev.to/appwrite/introducing-datetime-support-and-iso-8601-dates-25di)
+- [Dev.to/JS] [Build an Image Editor with JavaScript 🎨](https://dev.to/dcodeyt/build-an-image-editor-with-javascript-3d9l)
+- [Dev.to/JS] [downloading HTML from a web page](https://dev.to/joaocarlos4/downloading-html-from-a-web-page-16p4)
+- [Dev.to/JS] [What Are Props &amp; How To Pass Them in React](https://dev.to/teejaydixon/what-are-props-how-to-pass-them-in-react-1ji8)
+- [Dev.to/JS] [Kadeck 4.0 - by CEO Ben](https://dev.to/kadeck/kadeck-40-by-ceo-ben-3m72)
+- [Dev.to/JS] [Common Built-in String Methods in Javascript](https://dev.to/femi_dev/common-built-in-string-methods-in-javascript-lo7)
+- [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)
+- [Dev.to/JS] [Round nima?](https://dev.to/faxridd1n/round-nima-5c8a)
+- [Dev.to/JS] [20 Psychological Things You Must Take Care of in a Job Interview](https://dev.to/tyaga001/20-psychological-things-you-must-take-care-of-in-a-job-interview-9k)
+- [Dev.to/JS] [How to Build an Image Gallery with Amplify UI](https://dev.to/aws-builders/how-to-build-an-image-gallery-with-amplify-ui-4mal)
+- [Dev.to/JS] [Impact new keynotes, sponsors &amp; trade show](https://dev.to/storytellercz/impact-new-keynotes-sponsors-trade-show-1ijl)
 - [Dev.to/JS] [Maneras de clonar un objecto in javascript](https://dev.to/victorhugoaguilar/maneras-de-clonar-un-objecto-in-javascript-c0)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XI: Navigating between directories](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xi-navigating-between-directories-597k)
-- [Dev.to/JS] [What is a JavaScript console? Explained](https://dev.to/ravinwashere/what-is-a-javascript-console-explained-1292)
-- [Dev.to/JS] [How can I create emojis in Picture with React](https://dev.to/bariskarapelit/how-can-i-create-emojis-in-picture-with-react-2m1j)
-- [Dev.to/JS] [Improving web application performance by using session storage with JavaScript](https://dev.to/nhsdeveloper/improving-web-application-performance-by-using-session-storage-with-javascript-4oe4)
-- [Dev.to/JS] [Angular vs. Vue &lpar;again...&rpar;](https://dev.to/josunlp/angular-vs-vue-again-315a)
-- [Dev.to/JS] [Primitive Data Types in JavaScript](https://dev.to/codecupdev/primitive-data-types-in-javascript-adf)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter X: Active Sidebar Node](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-x-active-sidebar-node-2m5o)
-- [Dev.to/JS] [Stupid Code: Extract complex expressions](https://dev.to/teamradhq/stupid-code-extract-complex-expressions-1hfe)
-- [Dev.to/JS] [Getting Started with vue+alova](https://dev.to/coderhu/getting-started-with-vuealova-2fi)
-- [Dev.to/JS] [Fuel Save Pro - Results, Reviews, Price, Complaints &amp; Warnings?](https://dev.to/fuelsavepro1/fuel-save-pro-results-reviews-price-complaints-warnings-4348)
-- [Dev.to/JS] [Pitfalls of `process.env` every React developer should know](https://dev.to/arnelenero/pitfalls-of-processenv-every-react-developer-should-know-18nh)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Incredibly Easy Ways to Peel a Tomato](https://lifehacker.com/thee-incredibly-easy-ways-to-peel-a-tomato-1849525275)
 - [Lifehacker] [All the New iOS 16 Features You Can&#39;t Use Yet](https://lifehacker.com/all-the-new-ios-16-features-you-cant-use-yet-1849524299)
 - [Lifehacker] [The Best Real Estate and Home Decor Porn on Instagram](https://lifehacker.com/the-best-real-estate-and-home-decor-porn-on-instagram-1849524843)
-- [Crazy Programmer] [Anomalies in DBMS with Example](https://www.thecrazyprogrammer.com/2022/09/anomalies-in-dbms.html)
-- [Lifehacker] [The Different Kinds of E-Bikes &lpar;and Where It’s Legal to Ride Them&rpar;](https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Anomalies in DBMS with Example](https://www.thecrazyprogrammer.com/2022/09/anomalies-in-dbms.html)<!-- TECH-POSTS:END -->
 
 ---
 
