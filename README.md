@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [13 Classic Stories We Can’t Stop Adapting Into Movies](https://lifehacker.com/13-classic-stories-we-can-t-stop-adapting-into-movies-1849524899)
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XII: Progress Bars, Skeltons And Overlays](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xii-progress-bars-skeltons-and-overlays-1ih3)
+- [Dev.to/JS] [The Basics of JavaScript Conditionals](https://dev.to/rembertdesigns/the-basics-of-javascript-conditionals-4kd3)
+- [Dev.to/JS] [不言而喻的變數命名（1）](https://dev.to/ianchouz/bu-yan-er-yu-de-bian-shu-ming-ming-1-2eo)
+- [Lifehacker] [What Shoes Should I Wear to Exercise?](https://lifehacker.com/what-shoes-should-i-wear-to-exercise-1849534543)
+- [Lifehacker] [Everything We Know About the iPhone 14&#39;s Battery Life](https://lifehacker.com/everything-we-know-about-the-iphone-14s-battery-life-1849532742)
 - [Dev.to/JS] [What is the best way to learn Javascript?](https://dev.to/thebloodhound/what-is-the-best-way-to-learn-javascript-225m)
 - [Dev.to/JS] [Easy way to Create your own API for FREE](https://dev.to/varshithvhegde/easy-way-to-create-your-own-api-for-free-1mbc)
 - [Dev.to/JS] [¿Cómo conseguir que tu empresa auspicie la JSConf?](https://dev.to/jsconfcl/como-conseguir-que-tu-empresa-auspicie-la-jsconf-20n6)
@@ -34,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open source templates using Quasar framework/Vue.js](https://dev.to/mayank091193/open-source-templates-using-quasar-frameworkvuejs-4jmd)
 - [Dev.to/JS] [Everything New in Appwrite 1.0](https://dev.to/appwrite/everything-new-in-appwrite-10-43o6)
 - [Dev.to/JS] [Introducing DateTime Support and ISO 8601 Dates](https://dev.to/appwrite/introducing-datetime-support-and-iso-8601-dates-25di)
-- [Dev.to/JS] [Build an Image Editor with JavaScript 🎨](https://dev.to/dcodeyt/build-an-image-editor-with-javascript-3d9l)
-- [Dev.to/JS] [downloading HTML from a web page](https://dev.to/joaocarlos4/downloading-html-from-a-web-page-16p4)
-- [Dev.to/JS] [What Are Props &amp; How To Pass Them in React](https://dev.to/teejaydixon/what-are-props-how-to-pass-them-in-react-1ji8)
 - [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
 - [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
 - [Lifehacker] [So You Need to Poop While on a Date](https://lifehacker.com/so-you-need-to-poop-while-on-a-date-1849525014)
-- [Lifehacker] [26 of the Best New Features in iOS 16](https://lifehacker.com/26-of-the-best-new-features-in-ios-16-1849524600)
-- [Lifehacker] [Do Bubble Machines Really Repel Mosquitoes?](https://lifehacker.com/do-bubble-machines-really-repel-mosquitoes-1849525325)
-- [Lifehacker] [Three Incredibly Easy Ways to Peel a Tomato](https://lifehacker.com/thee-incredibly-easy-ways-to-peel-a-tomato-1849525275)
-- [Lifehacker] [All the New iOS 16 Features You Can&#39;t Use Yet](https://lifehacker.com/all-the-new-ios-16-features-you-cant-use-yet-1849524299)<!-- TECH-POSTS:END -->
+- [Lifehacker] [26 of the Best New Features in iOS 16](https://lifehacker.com/26-of-the-best-new-features-in-ios-16-1849524600)<!-- TECH-POSTS:END -->
 
 ---
 
