@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Array Iterator Methods in JavaScript](https://dev.to/jamelse/understanding-array-iterator-methods-in-javascript-1k9a)
+- [Dev.to/JS] [Creattie | Made with Vue JS](https://dev.to/madewithjavascript/creattie-made-with-vue-js-3jdj)
+- [Dev.to/JS] [Vconsole](https://dev.to/haikelfazzani/vconsole-4omp)
 - [Dev.to/JS] [Filtering in React](https://dev.to/loganlampton/filtering-in-react-5gbp)
 - [Dev.to/JS] [React Fundamentals](https://dev.to/datsfilipe/react-fundamentals-208l)
 - [Dev.to/JS] [Objects in JavaScript &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/objects-in-javascript-with-examples-5e4p)
@@ -39,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is It Really Safe to Lift Barefoot?](https://lifehacker.com/is-it-really-safe-to-lift-barefoot-1849530787)
 - [Dev.to/JS] [Sveltekit Changes: Load Function](https://dev.to/theether0/sveltekit-load-function-behavior-changes-3kb6)
 - [Lifehacker] [How to Make a Last-Minute Presentation Deck](https://lifehacker.com/how-to-make-a-last-minute-presentation-deck-1849530466)
-- [Dev.to/JS] [Web Components: Fulfilling React’s Promise](https://dev.to/ekr990011/web-components-fulfilling-reacts-promise-5cpi)
-- [Dev.to/JS] [Understanding React Context](https://dev.to/sanikommushirisha/understanding-react-context-2ebg)
 - [Crazy Programmer] [Degree of Relationship in DBMS](https://www.thecrazyprogrammer.com/2022/09/degree-of-relationship-in-dbms.html)
 - [Lifehacker] [What Supplements Are Worth Taking?](https://lifehacker.com/what-supplements-are-worth-taking-1849530535)
-- [Dev.to/JS] [Porting Curveball to Bun](https://dev.to/evertp/porting-curveball-to-bun-54j9)
 - [Lifehacker] [How to Get Through Customs and Immigration As Fast As Possible](https://lifehacker.com/how-to-get-through-customs-and-immigration-as-fast-as-p-1849529966)
 - [Lifehacker] [Why You Should Update to iOS 16 Even If You Don’t Care About New Features](https://lifehacker.com/why-you-should-update-to-ios-16-even-if-you-don-t-care-1849529931)
 - [Lifehacker] [When You Can &lpar;and Can&#39;t&rpar; Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)
