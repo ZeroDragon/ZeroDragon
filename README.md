@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reduct Storage SDKs update and Web Console v0.5.0](https://dev.to/reduct-storage/reduct-storage-sdks-update-and-web-console-v050-33g4)
+- [Dev.to/JS] [Guida Isotope Filtering](https://dev.to/giandomenicopagliara/guida-isotope-filtering-kn9)
+- [Dev.to/JS] [2.39 - Plasmic with Ekene Eze &lpar;Kenny&rpar;](https://dev.to/codingcatdev/239-plasmic-with-ekene-eze-kenny-2pn)
+- [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
 - [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
 - [Dev.to/JS] [Why Browser Anti-Fingerprinting Techniques Are Not Effective](https://dev.to/savannahjs/why-browser-anti-fingerprinting-techniques-are-not-effective-1n5f)
 - [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
@@ -41,11 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
 - [Dev.to/JS] [How to build tree-shakeable JavaScript libraries](https://dev.to/cubejs/how-to-build-tree-shakeable-javascript-libraries-35fa)
 - [Lifehacker] [How to Stain Your Boring Concrete Patio](https://lifehacker.com/how-to-stain-your-boring-concrete-patio-1849532297)
-- [Dev.to/JS] [Relative Ranks - I](https://dev.to/zeeshanali0704/relative-ranks-i-3jgh)
 - [Lifehacker] [How to Make Your Apple Watch Last for Days on a Single Charge](https://lifehacker.com/how-to-make-your-apple-watch-last-for-days-on-a-single-1849533531)
-- [Dev.to/JS] [JavaScript Loops Explained](https://dev.to/rembertdesigns/javascript-loops-explained-kp2)
 - [Lifehacker] [13 Classic Stories We Can’t Stop Adapting Into Movies](https://lifehacker.com/13-classic-stories-we-can-t-stop-adapting-into-movies-1849524899)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XII: Progress Bars, Skeltons And Overlays](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xii-progress-bars-skeltons-and-overlays-1ih3)
 - [Lifehacker] [What Shoes Should I Wear to Exercise?](https://lifehacker.com/what-shoes-should-i-wear-to-exercise-1849534543)
 - [Lifehacker] [Everything We Know About the iPhone 14&#39;s Battery Life](https://lifehacker.com/everything-we-know-about-the-iphone-14s-battery-life-1849532742)
 - [Lifehacker] [Make Brigadeiro Your New Cake Frosting](https://lifehacker.com/make-brigadeiro-your-new-cake-frosting-1849532365)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Degree of Relationship in DBMS](https://www.thecrazyprogrammer.com/2022/09/degree-of-relationship-in-dbms.html)
 - [Lifehacker] [What Supplements Are Worth Taking?](https://lifehacker.com/what-supplements-are-worth-taking-1849530535)
 - [Lifehacker] [How to Get Through Customs and Immigration As Fast As Possible](https://lifehacker.com/how-to-get-through-customs-and-immigration-as-fast-as-p-1849529966)
-- [Lifehacker] [Why You Should Update to iOS 16 Even If You Don’t Care About New Features](https://lifehacker.com/why-you-should-update-to-ios-16-even-if-you-don-t-care-1849529931)
-- [Lifehacker] [When You Can &lpar;and Can&#39;t&rpar; Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Update to iOS 16 Even If You Don’t Care About New Features](https://lifehacker.com/why-you-should-update-to-ios-16-even-if-you-don-t-care-1849529931)<!-- TECH-POSTS:END -->
 
 ---
 
