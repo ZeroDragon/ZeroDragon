@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
+- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home &lpar;open source&rpar;](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-open-source-2cbn)
+- [Dev.to/JS] [How to setup auto-scroll](https://dev.to/chiemezuo/how-to-setup-auto-scroll-33cn)
+- [Dev.to/JS] [React Router 6.4 Code-Splitting](https://dev.to/infoxicator/data-routers-code-splitting-23no)
+- [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
+- [Lifehacker] [How to Tell if You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
+- [Dev.to/JS] [Why Huobi Listing is Big for CUDOS ??](https://dev.to/mrbitee/why-huobi-listing-is-big-for-cudos--35nd)
+- [Dev.to/JS] [Tools Required For Backend Development](https://dev.to/prkskrs/tools-required-for-backend-development-5dbi)
+- [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
 - [Dev.to/JS] [Reduct Storage SDKs update and Web Console v0.5.0](https://dev.to/reduct-storage/reduct-storage-sdks-update-and-web-console-v050-33g4)
 - [Dev.to/JS] [Guida Isotope Filtering](https://dev.to/giandomenicopagliara/guida-isotope-filtering-kn9)
 - [Dev.to/JS] [2.39 - Plasmic with Ekene Eze &lpar;Kenny&rpar;](https://dev.to/codingcatdev/239-plasmic-with-ekene-eze-kenny-2pn)
@@ -35,15 +44,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Searching pdf files - Coding a Goggle custom search engine &lpar;gcse&rpar; component in React](https://dev.to/mjoycemilburn/searching-pdf-files-coding-a-goggle-custom-search-engine-gcse-component-in-react-36fk)
 - [Lifehacker] [How to Put Your Baby Down Without Waking Them Up](https://lifehacker.com/how-to-put-your-baby-down-without-waking-them-up-1849535970)
 - [Dev.to/JS] [useReducer &lpar;&rpar; | React Hook with project](https://dev.to/singhanuj620/usereducer-react-hook-with-project-1pg)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XIII: Organizing files](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xiii-organizing-files-210p)
 - [Crazy Programmer] [John Backus Biography](https://www.thecrazyprogrammer.com/2022/09/john-backus-biography.html)
-- [Dev.to/JS] [Sveltekit Changes: Routes](https://dev.to/theether0/sveltekit-changes-routes-55ib)
 - [Lifehacker] [The Differences Between Anxiety and Depression &lpar;and When to Get Help&rpar;](https://lifehacker.com/the-differences-between-anxiety-and-depression-and-whe-1849528175)
-- [Dev.to/JS] [Javascript: Referential Transparency](https://dev.to/urstrulyvishwak/javascript-referential-transparency-37hm)
-- [Dev.to/JS] [TypeScript Unit Tests: Access `private` Members](https://dev.to/htho/typescript-unit-tests-access-private-members-361o)
 - [Lifehacker] [How to Drain Greasy Food When You&#39;re Out of Paper Towels](https://lifehacker.com/how-to-drain-greasy-food-when-youre-out-of-paper-towels-1849535418)
 - [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
-- [Dev.to/JS] [How to build tree-shakeable JavaScript libraries](https://dev.to/cubejs/how-to-build-tree-shakeable-javascript-libraries-35fa)
 - [Lifehacker] [How to Stain Your Boring Concrete Patio](https://lifehacker.com/how-to-stain-your-boring-concrete-patio-1849532297)
 - [Lifehacker] [How to Make Your Apple Watch Last for Days on a Single Charge](https://lifehacker.com/how-to-make-your-apple-watch-last-for-days-on-a-single-1849533531)
 - [Lifehacker] [13 Classic Stories We Can’t Stop Adapting Into Movies](https://lifehacker.com/13-classic-stories-we-can-t-stop-adapting-into-movies-1849524899)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Go Ahead, Throw a Duck on the Grill](https://lifehacker.com/go-ahead-throw-a-duck-on-the-grill-1849527371)
 - [Lifehacker] [How to Use Up, Repurpose, or Sell Leftover Renovation Materials](https://lifehacker.com/how-to-use-up-repurpose-or-sell-leftover-renovation-m-1849530271)
 - [Lifehacker] [Is It Really Safe to Lift Barefoot?](https://lifehacker.com/is-it-really-safe-to-lift-barefoot-1849530787)
-- [Lifehacker] [How to Make a Last-Minute Presentation Deck](https://lifehacker.com/how-to-make-a-last-minute-presentation-deck-1849530466)
-- [Crazy Programmer] [Degree of Relationship in DBMS](https://www.thecrazyprogrammer.com/2022/09/degree-of-relationship-in-dbms.html)
-- [Lifehacker] [What Supplements Are Worth Taking?](https://lifehacker.com/what-supplements-are-worth-taking-1849530535)
-- [Lifehacker] [How to Get Through Customs and Immigration As Fast As Possible](https://lifehacker.com/how-to-get-through-customs-and-immigration-as-fast-as-p-1849529966)
-- [Lifehacker] [Why You Should Update to iOS 16 Even If You Don’t Care About New Features](https://lifehacker.com/why-you-should-update-to-ios-16-even-if-you-don-t-care-1849529931)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make a Last-Minute Presentation Deck](https://lifehacker.com/how-to-make-a-last-minute-presentation-deck-1849530466)<!-- TECH-POSTS:END -->
 
 ---
 
