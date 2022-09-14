@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useReducer &lpar;&rpar; | React Hook with project](https://dev.to/singhanuj620/usereducer-react-hook-with-project-1pg)
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XIII: Organizing files](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xiii-organizing-files-210p)
+- [Crazy Programmer] [John Backus Biography](https://www.thecrazyprogrammer.com/2022/09/john-backus-biography.html)
+- [Dev.to/JS] [Sveltekit Changes: Routes](https://dev.to/theether0/sveltekit-changes-routes-55ib)
+- [Lifehacker] [The Differences Between Anxiety and Depression &lpar;and When to Get Help&rpar;](https://lifehacker.com/the-differences-between-anxiety-and-depression-and-whe-1849528175)
+- [Dev.to/JS] [Javascript: Referential Transparency](https://dev.to/urstrulyvishwak/javascript-referential-transparency-37hm)
+- [Dev.to/JS] [TypeScript Unit Tests: Access `private` Members](https://dev.to/htho/typescript-unit-tests-access-private-members-361o)
+- [Lifehacker] [How to Drain Greasy Food When You&#39;re Out of Paper Towels](https://lifehacker.com/how-to-drain-greasy-food-when-youre-out-of-paper-towels-1849535418)
 - [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
 - [Dev.to/JS] [How to build tree-shakeable JavaScript libraries](https://dev.to/cubejs/how-to-build-tree-shakeable-javascript-libraries-35fa)
 - [Lifehacker] [How to Stain Your Boring Concrete Patio](https://lifehacker.com/how-to-stain-your-boring-concrete-patio-1849532297)
@@ -36,13 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Shoes Should I Wear to Exercise?](https://lifehacker.com/what-shoes-should-i-wear-to-exercise-1849534543)
 - [Lifehacker] [Everything We Know About the iPhone 14&#39;s Battery Life](https://lifehacker.com/everything-we-know-about-the-iphone-14s-battery-life-1849532742)
 - [Dev.to/JS] [What is the best way to learn Javascript?](https://dev.to/thebloodhound/what-is-the-best-way-to-learn-javascript-225m)
-- [Dev.to/JS] [Easy way to Create your own API for FREE](https://dev.to/varshithvhegde/easy-way-to-create-your-own-api-for-free-1mbc)
-- [Dev.to/JS] [¿Cómo conseguir que tu empresa auspicie la JSConf?](https://dev.to/jsconfcl/como-conseguir-que-tu-empresa-auspicie-la-jsconf-20n6)
 - [Lifehacker] [Make Brigadeiro Your New Cake Frosting](https://lifehacker.com/make-brigadeiro-your-new-cake-frosting-1849532365)
-- [Dev.to/JS] [Setw&lpar;&rpar; va setfill&lpar;&rpar; ?](https://dev.to/faxridd1n/setw-va-setfill--31m7)
 - [Lifehacker] [Clever Ways to Display All the Art Your Kid Makes This Year](https://lifehacker.com/clever-ways-to-display-all-the-art-your-kid-makes-this-1849530453)
-- [Dev.to/JS] [More Power with Appwrite&#39;s Permissions Generation 2](https://dev.to/appwrite/more-power-with-appwrites-permissions-generation-2-3ml3)
-- [Dev.to/JS] [How to create your own blog in Remix in a few minutes](https://dev.to/jmalvarez/how-to-create-your-own-blog-in-remix-in-a-few-minutes-2fmd)
 - [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Often Should I Get a New Smartphone?](https://lifehacker.com/how-often-should-i-get-a-new-smartphone-1849530035)
 - [Lifehacker] [The Best New Widgets for Your iPhone Lock Screen](https://lifehacker.com/the-best-new-widgets-for-your-iphone-lock-screen-1849528791)
 - [Lifehacker] [How to Master &#39;Baby Talk&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-master-baby-talk-and-why-you-should-1849528951)
-- [Lifehacker] [The Items Every Backpack Needs, Ranked by Usefulness](https://lifehacker.com/the-items-every-backpack-needs-ranked-by-usefulness-1849525349)
-- [Lifehacker] [Make a Breakfast Burrito With Last Night&#39;s Fried Rice](https://lifehacker.com/make-a-breakfast-burrito-with-last-nights-fried-rice-1849525922)
-- [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
-- [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Items Every Backpack Needs, Ranked by Usefulness](https://lifehacker.com/the-items-every-backpack-needs-ranked-by-usefulness-1849525349)<!-- TECH-POSTS:END -->
 
 ---
 
