@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter X: Active Sidebar Node](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-x-active-sidebar-node-2m5o)
+- [Dev.to/JS] [Stupid Code: Extract complex expressions](https://dev.to/teamradhq/stupid-code-extract-complex-expressions-1hfe)
 - [Dev.to/JS] [Getting Started with vue+alova](https://dev.to/coderhu/getting-started-with-vuealova-2fi)
 - [Dev.to/JS] [Fuel Save Pro - Results, Reviews, Price, Complaints &amp; Warnings?](https://dev.to/fuelsavepro1/fuel-save-pro-results-reviews-price-complaints-warnings-4348)
 - [Dev.to/JS] [Pitfalls of `process.env` every React developer should know](https://dev.to/arnelenero/pitfalls-of-processenv-every-react-developer-should-know-18nh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google action learn more button](https://dev.to/dailydevtips1/google-action-learn-more-button-1bb2)
 - [Dev.to/JS] [Building Web Components 101 - Part 2](https://dev.to/tebin/building-web-components-101-part-2-1ima)
 - [Dev.to/JS] [Missing Number - I](https://dev.to/zeeshanali0704/missing-number-i-2i09)
-- [Dev.to/JS] [Weather App with HTML, SASS, and JavaScript](https://dev.to/maxim_maeder/weather-app-with-html-sass-and-javascript-fe5)
-- [Dev.to/JS] [Single Number Check](https://dev.to/zeeshanali0704/single-number-check-4k2f)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
