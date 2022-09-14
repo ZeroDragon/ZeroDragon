@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Signals in React 🚥](https://dev.to/ishan_parlikar/introducing-signals-in-react-28k6)
+- [Dev.to/JS] [Advantage of ReactJS](https://dev.to/amritapadhy/advantage-of-reactjs-3n5k)
 - [Dev.to/JS] [Certificate download failed, prompting that kxapp service is not used for synchronization](https://dev.to/junguo52122/certificate-download-failed-prompting-that-kxapp-service-is-not-used-for-synchronization-jpb)
 - [Dev.to/JS] [Certificate download failed, prompting that kxapp service is not used for synchronization](https://dev.to/junguo52122/certificate-download-failed-prompting-that-kxapp-service-is-not-used-for-synchronization-4g36)
 - [Dev.to/JS] [using pseudocode as a beginner - why and how](https://dev.to/monlir/using-pseudocode-as-a-beginner-why-and-how-3hdd)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Fundamentals](https://dev.to/datsfilipe/react-fundamentals-208l)
 - [Dev.to/JS] [Objects in JavaScript &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/objects-in-javascript-with-examples-5e4p)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
-- [Dev.to/JS] [my-button-ssg](https://dev.to/lostbutton/my-button-ssg-3e4g)
-- [Dev.to/JS] [NestJS + esbuild workarounds](https://dev.to/antongolub/nestjs-esbuild-workarounds-99i)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
 - [Lifehacker] [Go Ahead, Throw a Duck on the Grill](https://lifehacker.com/go-ahead-throw-a-duck-on-the-grill-1849527371)
