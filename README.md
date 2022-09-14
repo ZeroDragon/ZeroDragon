@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
+- [Dev.to/JS] [How to build tree-shakeable JavaScript libraries](https://dev.to/cubejs/how-to-build-tree-shakeable-javascript-libraries-35fa)
 - [Lifehacker] [How to Stain Your Boring Concrete Patio](https://lifehacker.com/how-to-stain-your-boring-concrete-patio-1849532297)
 - [Dev.to/JS] [Relative Ranks - I](https://dev.to/zeeshanali0704/relative-ranks-i-3jgh)
 - [Lifehacker] [How to Make Your Apple Watch Last for Days on a Single Charge](https://lifehacker.com/how-to-make-your-apple-watch-last-for-days-on-a-single-1849533531)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Clever Ways to Display All the Art Your Kid Makes This Year](https://lifehacker.com/clever-ways-to-display-all-the-art-your-kid-makes-this-1849530453)
 - [Dev.to/JS] [More Power with Appwrite&#39;s Permissions Generation 2](https://dev.to/appwrite/more-power-with-appwrites-permissions-generation-2-3ml3)
 - [Dev.to/JS] [How to create your own blog in Remix in a few minutes](https://dev.to/jmalvarez/how-to-create-your-own-blog-in-remix-in-a-few-minutes-2fmd)
-- [Dev.to/JS] [Open source templates using Quasar framework/Vue.js](https://dev.to/mayank091193/open-source-templates-using-quasar-frameworkvuejs-4jmd)
 - [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Items Every Backpack Needs, Ranked by Usefulness](https://lifehacker.com/the-items-every-backpack-needs-ranked-by-usefulness-1849525349)
 - [Lifehacker] [Make a Breakfast Burrito With Last Night&#39;s Fried Rice](https://lifehacker.com/make-a-breakfast-burrito-with-last-nights-fried-rice-1849525922)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
-- [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
-- [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)<!-- TECH-POSTS:END -->
 
 ---
 
