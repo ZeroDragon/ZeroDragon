@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with vue+alova](https://dev.to/coderhu/getting-started-with-vuealova-2fi)
+- [Dev.to/JS] [Fuel Save Pro - Results, Reviews, Price, Complaints &amp; Warnings?](https://dev.to/fuelsavepro1/fuel-save-pro-results-reviews-price-complaints-warnings-4348)
+- [Dev.to/JS] [Pitfalls of `process.env` every React developer should know](https://dev.to/arnelenero/pitfalls-of-processenv-every-react-developer-should-know-18nh)
+- [Dev.to/JS] [How to become a Freelance DevOps Engineer?](https://dev.to/postwell45/how-to-become-a-freelance-devops-engineer-14pb)
 - [Dev.to/JS] [The Ultimate Guide to Google Core Web Vitals](https://dev.to/quokkalabs/the-ultimate-guide-to-google-core-web-vitals-1cjf)
 - [Dev.to/JS] [Design Redesign website on any platform](https://dev.to/elinabey/design-redesign-website-on-any-platform-1adg)
 - [Dev.to/JS] [Library project completed](https://dev.to/datamoshing/library-project-completed-1def)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Missing Number - I](https://dev.to/zeeshanali0704/missing-number-i-2i09)
 - [Dev.to/JS] [Weather App with HTML, SASS, and JavaScript](https://dev.to/maxim_maeder/weather-app-with-html-sass-and-javascript-fe5)
 - [Dev.to/JS] [Single Number Check](https://dev.to/zeeshanali0704/single-number-check-4k2f)
-- [Dev.to/JS] [How to play Free Fire on PC](https://dev.to/robertrocks2342/how-to-play-free-fire-on-pc-7b2)
-- [Dev.to/JS] [Created macOS with ReactJs](https://dev.to/gauravsoni97/created-macos-with-reactjs-4bl5)
-- [Dev.to/JS] [Introducing Signals in React 🚥](https://dev.to/ishan_parlikar/introducing-signals-in-react-28k6)
-- [Dev.to/JS] [Advantage of ReactJS](https://dev.to/amritapadhy/advantage-of-reactjs-3n5k)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
