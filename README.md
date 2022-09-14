@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Filtering in React](https://dev.to/loganlampton/filtering-in-react-5gbp)
+- [Dev.to/JS] [React Fundamentals](https://dev.to/datsfilipe/react-fundamentals-208l)
 - [Dev.to/JS] [Objects in JavaScript &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/objects-in-javascript-with-examples-5e4p)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Dev.to/JS] [my-button-ssg](https://dev.to/lostbutton/my-button-ssg-3e4g)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Supplements Are Worth Taking?](https://lifehacker.com/what-supplements-are-worth-taking-1849530535)
 - [Dev.to/JS] [Porting Curveball to Bun](https://dev.to/evertp/porting-curveball-to-bun-54j9)
 - [Lifehacker] [How to Get Through Customs and Immigration As Fast As Possible](https://lifehacker.com/how-to-get-through-customs-and-immigration-as-fast-as-p-1849529966)
-- [Dev.to/JS] [How to remove items from an array in JavaScript?](https://dev.to/amitiitbhu/how-to-remove-items-from-an-array-in-javascript-26m2)
-- [Dev.to/JS] [Clean up your code with destructors and Array.includes](https://dev.to/hi_iam_chris/clean-up-your-code-with-destructors-and-arrayincludes-i9k)
 - [Lifehacker] [Why You Should Update to iOS 16 Even If You Don’t Care About New Features](https://lifehacker.com/why-you-should-update-to-ios-16-even-if-you-don-t-care-1849529931)
 - [Lifehacker] [When You Can &lpar;and Can&#39;t&rpar; Substitute Mayo for Butter in Baking](https://lifehacker.com/when-you-can-and-cant-substitute-mayo-for-butter-in-b-1849529733)
 - [Lifehacker] [How Often Should I Get a New Smartphone?](https://lifehacker.com/how-often-should-i-get-a-new-smartphone-1849530035)
