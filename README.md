@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stain Your Boring Concrete Patio](https://lifehacker.com/how-to-stain-your-boring-concrete-patio-1849532297)
+- [Dev.to/JS] [Relative Ranks - I](https://dev.to/zeeshanali0704/relative-ranks-i-3jgh)
+- [Lifehacker] [How to Make Your Apple Watch Last for Days on a Single Charge](https://lifehacker.com/how-to-make-your-apple-watch-last-for-days-on-a-single-1849533531)
+- [Dev.to/JS] [JavaScript Loops Explained](https://dev.to/rembertdesigns/javascript-loops-explained-kp2)
 - [Lifehacker] [13 Classic Stories We Can’t Stop Adapting Into Movies](https://lifehacker.com/13-classic-stories-we-can-t-stop-adapting-into-movies-1849524899)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XII: Progress Bars, Skeltons And Overlays](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xii-progress-bars-skeltons-and-overlays-1ih3)
 - [Dev.to/JS] [The Basics of JavaScript Conditionals](https://dev.to/rembertdesigns/the-basics-of-javascript-conditionals-4kd3)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [More Power with Appwrite&#39;s Permissions Generation 2](https://dev.to/appwrite/more-power-with-appwrites-permissions-generation-2-3ml3)
 - [Dev.to/JS] [How to create your own blog in Remix in a few minutes](https://dev.to/jmalvarez/how-to-create-your-own-blog-in-remix-in-a-few-minutes-2fmd)
 - [Dev.to/JS] [Open source templates using Quasar framework/Vue.js](https://dev.to/mayank091193/open-source-templates-using-quasar-frameworkvuejs-4jmd)
-- [Dev.to/JS] [Everything New in Appwrite 1.0](https://dev.to/appwrite/everything-new-in-appwrite-10-43o6)
-- [Dev.to/JS] [Introducing DateTime Support and ISO 8601 Dates](https://dev.to/appwrite/introducing-datetime-support-and-iso-8601-dates-25di)
 - [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Breakfast Burrito With Last Night&#39;s Fried Rice](https://lifehacker.com/make-a-breakfast-burrito-with-last-nights-fried-rice-1849525922)
 - [Lifehacker] [How to Calculate How Much Money Your Free Time Is Worth](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
 - [Lifehacker] [Use This Site to Get a Deeper Look at Your Favorite Video Game Maps](https://lifehacker.com/use-this-site-to-get-a-deeper-look-at-your-favorite-vid-1849526185)
-- [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)
-- [Lifehacker] [So You Need to Poop While on a Date](https://lifehacker.com/so-you-need-to-poop-while-on-a-date-1849525014)
-- [Lifehacker] [26 of the Best New Features in iOS 16](https://lifehacker.com/26-of-the-best-new-features-in-ios-16-1849524600)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Things I Always Buy at the Asian Grocery Store](https://lifehacker.com/15-things-i-always-buy-at-the-asian-grocery-store-1849526212)<!-- TECH-POSTS:END -->
 
 ---
 
