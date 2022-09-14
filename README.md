@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can I create emojis in Picture with React](https://dev.to/bariskarapelit/how-can-i-create-emojis-in-picture-with-react-2m1j)
+- [Dev.to/JS] [Improving web application performance by using session storage with JavaScript](https://dev.to/nhsdeveloper/improving-web-application-performance-by-using-session-storage-with-javascript-4oe4)
+- [Dev.to/JS] [Angular vs. Vue &lpar;again...&rpar;](https://dev.to/josunlp/angular-vs-vue-again-315a)
+- [Dev.to/JS] [Primitive Data Types in JavaScript](https://dev.to/codecupdev/primitive-data-types-in-javascript-adf)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter X: Active Sidebar Node](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-x-active-sidebar-node-2m5o)
 - [Dev.to/JS] [Stupid Code: Extract complex expressions](https://dev.to/teamradhq/stupid-code-extract-complex-expressions-1hfe)
 - [Dev.to/JS] [Getting Started with vue+alova](https://dev.to/coderhu/getting-started-with-vuealova-2fi)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to become a Freelance DevOps Engineer?](https://dev.to/postwell45/how-to-become-a-freelance-devops-engineer-14pb)
 - [Dev.to/JS] [The Ultimate Guide to Google Core Web Vitals](https://dev.to/quokkalabs/the-ultimate-guide-to-google-core-web-vitals-1cjf)
 - [Dev.to/JS] [Design Redesign website on any platform](https://dev.to/elinabey/design-redesign-website-on-any-platform-1adg)
-- [Dev.to/JS] [Library project completed](https://dev.to/datamoshing/library-project-completed-1def)
-- [Dev.to/JS] [Google action learn more button](https://dev.to/dailydevtips1/google-action-learn-more-button-1bb2)
-- [Dev.to/JS] [Building Web Components 101 - Part 2](https://dev.to/tebin/building-web-components-101-part-2-1ima)
-- [Dev.to/JS] [Missing Number - I](https://dev.to/zeeshanali0704/missing-number-i-2i09)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
