@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New ECMAScript 23 array features](https://dev.to/matijanovosel/new-ecmascript-23-array-features-4375)
+- [Dev.to/JS] [Common mistakes junior developers make - Don&#39;t do this:](https://dev.to/glowreeyah/common-mistakes-junior-developers-make-dont-do-this-4eie)
+- [Dev.to/JS] [Ignite Drops - Fat Burner Reviews, Price, Results &amp; Ingredients?](https://dev.to/ignitedropsinfo/ignite-drops-fat-burner-reviews-price-results-ingredients-1e9d)
 - [Dev.to/JS] [Phun Sương TC - Hệ Thống Phun Sương Làm Mát Và Tưới Lan](https://dev.to/phunsuongtc/phun-suong-tc-he-thong-phun-suong-lam-mat-va-tuoi-lan-oh0)
 - [Dev.to/JS] [Easy advanced TypeScript types from day 1](https://dev.to/mindplay/easy-advanced-typescript-types-from-day-1-ohm)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XIV: File Manager Body](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xiv-file-manager-body-2bik)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploying a Google action](https://dev.to/dailydevtips1/deploying-a-google-action-57if)
 - [Dev.to/JS] [Frontend Notes](https://dev.to/jayzho/frontend-notes-4ii0)
 - [Dev.to/JS] [How to get started with Next.js as a beginner](https://dev.to/auraqule/how-to-get-started-with-nextjs-as-a-beginner-2e5n)
-- [Dev.to/JS] [Text-2-Speech API - Tutorial](https://dev.to/youngmamba/text-2-speech-api-tutorial-1ma6)
-- [Dev.to/JS] [My First Post in Dev.to](https://dev.to/devmerdana/my-first-post-in-devto-2l23)
-- [Dev.to/JS] [Find Original Array](https://dev.to/zeeshanali0704/find-original-array-5goa)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
 - [Lifehacker] [How to Tell if You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
