@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dockerize Node.Js Application](https://dev.to/dulyaaa/dockerize-nodejs-application-20k2)
+- [Lifehacker] [You Can Finally Use Snapchat on Your Computer](https://lifehacker.com/you-can-finally-use-snapchat-on-your-computer-1849540706)
 - [Lifehacker] [There&#39;s No Law Against Making Sausage Gravy With Italian Sausage](https://lifehacker.com/theres-no-law-against-making-sausage-gravy-with-italian-1849540884)
 - [Dev.to/JS] [¡Como utilizar javascript en Github Actions y hacer un cocktail!](https://dev.to/victorargento/como-utilizar-javascript-en-github-actions-y-hacer-un-cocktail-3pbn)
 - [Dev.to/JS] [Top 10 React Interview Question !](https://dev.to/devvsakib/top-10-react-interview-question--584n)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Observable tutorial: Analyze data in a JavaScript-native data notebook](https://dev.to/cubejs/observable-tutorial-analyze-data-in-a-javascript-native-data-notebook-1oh)
 - [Dev.to/JS] [React manejo de estado con objetos](https://dev.to/kevingo710/react-manejo-de-estado-con-objetos-56da)
 - [Dev.to/JS] [Tips Componente Text de React Native](https://dev.to/kevingo710/tips-componente-text-de-react-native-33l4)
-- [Dev.to/JS] [Promesas en Javascript para React y TypeScript](https://dev.to/kevingo710/promesas-en-javascript-para-react-y-typescript-12f4)
 - [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
 - [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [John Backus Biography](https://www.thecrazyprogrammer.com/2022/09/john-backus-biography.html)
 - [Lifehacker] [The Differences Between Anxiety and Depression &lpar;and When to Get Help&rpar;](https://lifehacker.com/the-differences-between-anxiety-and-depression-and-whe-1849528175)
 - [Lifehacker] [How to Drain Greasy Food When You&#39;re Out of Paper Towels](https://lifehacker.com/how-to-drain-greasy-food-when-youre-out-of-paper-towels-1849535418)
-- [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
-- [Lifehacker] [How to Stain Your Boring Concrete Patio](https://lifehacker.com/how-to-stain-your-boring-concrete-patio-1849532297)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)<!-- TECH-POSTS:END -->
 
 ---
 
