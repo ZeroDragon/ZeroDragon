@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
+- [Dev.to/JS] [TypeScript: why static typing matters](https://dev.to/nicozerpa/typescript-why-static-typing-matters-444d)
+- [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)
+- [Dev.to/JS] [Observable tutorial: Analyze data in a JavaScript-native data notebook](https://dev.to/cubejs/observable-tutorial-analyze-data-in-a-javascript-native-data-notebook-1oh)
+- [Dev.to/JS] [React manejo de estado con objetos](https://dev.to/kevingo710/react-manejo-de-estado-con-objetos-56da)
+- [Dev.to/JS] [Tips Componente Text de React Native](https://dev.to/kevingo710/tips-componente-text-de-react-native-33l4)
+- [Dev.to/JS] [Promesas en Javascript para React y TypeScript](https://dev.to/kevingo710/promesas-en-javascript-para-react-y-typescript-12f4)
 - [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Dev.to/JS] [Get user location from browser using JavaScript | Solutions By ShriekDj](https://dev.to/shriekdj/get-user-location-from-browser-using-javascript-solutions-by-shriekdj-4647)
 - [Dev.to/JS] [React JS: Interceptors with Fetch API](https://dev.to/snigdho611/react-js-interceptors-with-fetch-api-1oei)
@@ -33,14 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
 - [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)
 - [Dev.to/JS] [Crypto App built with ReactJS, Tailwind and Firebase](https://dev.to/gatti/crypto-app-built-with-reactjs-tailwind-and-firebase-491j)
-- [Dev.to/JS] [Improving React Testing Library tests](https://dev.to/clarity89/improving-react-testing-library-tests-3dh9)
 - [Lifehacker] [12 of the Dumbest Rituals and Traditions of the British Royal Family](https://lifehacker.com/12-of-the-dumbest-rituals-and-traditions-of-the-british-1849537242)
-- [Dev.to/JS] [Puppeteer: Crawling data for newbies](https://dev.to/mahmoudgalal/puppeteer-crawling-data-for-newbies-3bik)
 - [Lifehacker] [Why You Shouldn&#39;t Trust the US News &#39;Best Colleges&#39; Rankings](https://lifehacker.com/why-you-shouldnt-trust-the-us-news-best-colleges-rankin-1849537224)
-- [Dev.to/JS] [How to render 3D model in a React JS application](https://dev.to/codebucks/how-to-render-3d-model-in-a-react-js-application-2bi)
 - [Lifehacker] [Stick a Towel in Your Dishwasher](https://lifehacker.com/stick-a-towel-in-your-dishwasher-1849536897)
-- [Dev.to/JS] [Final year project](https://dev.to/ahtaxam/final-year-project-4il0)
-- [Dev.to/JS] [How to generate Sitemap for your Next JS project](https://dev.to/pfedprog/how-to-generate-sitemap-for-your-next-js-project-cl5)
 - [Lifehacker] [The Best Way to Organize a Family Calendar](https://lifehacker.com/the-best-way-to-organize-a-family-calendar-1849534173)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Classic Stories We Can’t Stop Adapting Into Movies](https://lifehacker.com/13-classic-stories-we-can-t-stop-adapting-into-movies-1849524899)
 - [Lifehacker] [What Shoes Should I Wear to Exercise?](https://lifehacker.com/what-shoes-should-i-wear-to-exercise-1849534543)
 - [Lifehacker] [Everything We Know About the iPhone 14&#39;s Battery Life](https://lifehacker.com/everything-we-know-about-the-iphone-14s-battery-life-1849532742)
-- [Lifehacker] [Make Brigadeiro Your New Cake Frosting](https://lifehacker.com/make-brigadeiro-your-new-cake-frosting-1849532365)
-- [Lifehacker] [Clever Ways to Display All the Art Your Kid Makes This Year](https://lifehacker.com/clever-ways-to-display-all-the-art-your-kid-makes-this-1849530453)
-- [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Brigadeiro Your New Cake Frosting](https://lifehacker.com/make-brigadeiro-your-new-cake-frosting-1849532365)<!-- TECH-POSTS:END -->
 
 ---
 
