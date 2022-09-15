@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crypto App built with ReactJS, Tailwind and Firebase](https://dev.to/gatti/crypto-app-built-with-reactjs-tailwind-and-firebase-491j)
+- [Dev.to/JS] [Improving React Testing Library tests](https://dev.to/clarity89/improving-react-testing-library-tests-3dh9)
+- [Lifehacker] [12 of the Dumbest Rituals and Traditions of the British Royal Family](https://lifehacker.com/12-of-the-dumbest-rituals-and-traditions-of-the-british-1849537242)
 - [Dev.to/JS] [Puppeteer: Crawling data for newbies](https://dev.to/mahmoudgalal/puppeteer-crawling-data-for-newbies-3bik)
 - [Lifehacker] [Why You Shouldn&#39;t Trust the US News &#39;Best Colleges&#39; Rankings](https://lifehacker.com/why-you-shouldnt-trust-the-us-news-best-colleges-rankin-1849537224)
 - [Dev.to/JS] [How to render 3D model in a React JS application](https://dev.to/codebucks/how-to-render-3d-model-in-a-react-js-application-2bi)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 41 of #100DaysOfCode](https://dev.to/ananfito/day-41-of-100daysofcode-50mj)
 - [Dev.to/JS] [10 Free GumRoad products for Web Developers](https://dev.to/surajondev/10-free-gumroad-products-for-web-developers-1p6g)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XV: Lets make server with typescript and express](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xv-lets-make-server-with-typescript-and-express-4411)
-- [Dev.to/JS] [How to Create a Line Chart in JavaScript](https://dev.to/andreykh1985/how-to-create-a-line-chart-in-javascript-176k)
-- [Dev.to/JS] [Sveltekit Changes: Advanced Layouts](https://dev.to/theether0/sveltekit-changes-advanced-layouts-3id4)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
 - [Lifehacker] [How to Tell If You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
-- [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
-- [Lifehacker] [Go Ahead, Throw a Duck on the Grill](https://lifehacker.com/go-ahead-throw-a-duck-on-the-grill-1849527371)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)<!-- TECH-POSTS:END -->
 
 ---
 
