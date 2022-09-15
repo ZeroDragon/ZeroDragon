@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
+- [Dev.to/JS] [Get user location from browser using JavaScript | Solutions By ShriekDj](https://dev.to/shriekdj/get-user-location-from-browser-using-javascript-solutions-by-shriekdj-4647)
+- [Dev.to/JS] [React JS: Interceptors with Fetch API](https://dev.to/snigdho611/react-js-interceptors-with-fetch-api-1oei)
+- [Dev.to/JS] [Programming in the Adult Entertainment Industry III](https://dev.to/jwoertink/programming-in-the-adult-entertainment-industry-iii-1io7)
+- [Dev.to/JS] [Bot de criptomonedas de discord con discord.js y node.js](https://dev.to/rtagliavia/bot-de-criptomonedas-de-discord-con-discordjs-y-nodejs-590a)
+- [Dev.to/JS] [19 Practical ES6 Snippets to Solve Common JS Problems 🚀💯](https://dev.to/madza/19-practical-es6-snippets-to-solve-common-js-problems-31o9)
+- [Dev.to/JS] [Medusa v1.4.0: Product Import API, Improved API Reference and More!](https://dev.to/medusajs/medusa-v140-product-import-api-improved-api-reference-and-more-56ck)
+- [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
+- [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)
 - [Dev.to/JS] [Crypto App built with ReactJS, Tailwind and Firebase](https://dev.to/gatti/crypto-app-built-with-reactjs-tailwind-and-firebase-491j)
 - [Dev.to/JS] [Improving React Testing Library tests](https://dev.to/clarity89/improving-react-testing-library-tests-3dh9)
 - [Lifehacker] [12 of the Dumbest Rituals and Traditions of the British Royal Family](https://lifehacker.com/12-of-the-dumbest-rituals-and-traditions-of-the-british-1849537242)
@@ -32,13 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stick a Towel in Your Dishwasher](https://lifehacker.com/stick-a-towel-in-your-dishwasher-1849536897)
 - [Dev.to/JS] [Final year project](https://dev.to/ahtaxam/final-year-project-4il0)
 - [Dev.to/JS] [How to generate Sitemap for your Next JS project](https://dev.to/pfedprog/how-to-generate-sitemap-for-your-next-js-project-cl5)
-- [Dev.to/JS] [How to Make a Creative Website Using HTML, CSS, and JavaScript](https://dev.to/codewithsadee/how-to-make-a-creative-website-using-html-css-and-javascript-b4a)
 - [Lifehacker] [The Best Way to Organize a Family Calendar](https://lifehacker.com/the-best-way-to-organize-a-family-calendar-1849534173)
-- [Dev.to/JS] [7 Must Know JavaScript Tips &amp; Tricks 🎈](https://dev.to/dcodeyt/7-must-know-javascript-tips-tricks-2m8f)
-- [Dev.to/JS] [Mocking com o MSW - Mock Service Worker](https://dev.to/deesouza/mocking-com-o-msw-mock-service-worker-16n3)
-- [Dev.to/JS] [Day 41 of #100DaysOfCode](https://dev.to/ananfito/day-41-of-100daysofcode-50mj)
-- [Dev.to/JS] [10 Free GumRoad products for Web Developers](https://dev.to/surajondev/10-free-gumroad-products-for-web-developers-1p6g)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XV: Lets make server with typescript and express](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xv-lets-make-server-with-typescript-and-express-4411)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
 - [Lifehacker] [How to Tell If You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything We Know About the iPhone 14&#39;s Battery Life](https://lifehacker.com/everything-we-know-about-the-iphone-14s-battery-life-1849532742)
 - [Lifehacker] [Make Brigadeiro Your New Cake Frosting](https://lifehacker.com/make-brigadeiro-your-new-cake-frosting-1849532365)
 - [Lifehacker] [Clever Ways to Display All the Art Your Kid Makes This Year](https://lifehacker.com/clever-ways-to-display-all-the-art-your-kid-makes-this-1849530453)
-- [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)
-- [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
-- [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
-- [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What You Need to Do Now to Prep Your Garden for Winter](https://lifehacker.com/what-you-need-to-do-now-to-prep-your-garden-for-winter-1849530291)<!-- TECH-POSTS:END -->
 
 ---
 
