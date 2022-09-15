@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Link Slot Gacor 2022](https://dev.to/insideourheart/link-slot-gacor-2022-57if)
+- [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
+- [Dev.to/JS] [Prueba](https://dev.to/jfortez/prueba-1787)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
 - [Dev.to/JS] [10 Must-Have Chrome Extensions for Web Developers 🚀🌐](https://dev.to/naubit/10-must-have-chrome-extensions-for-web-developers-5dih)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
@@ -42,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Alan Kay Biography](https://www.thecrazyprogrammer.com/2022/09/alan-kay-biography.html)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XVI: Create Server Requests](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xvi-create-server-requests-9ec)
 - [Dev.to/JS] [Map&lpar;&rpar;,Filter&lpar;&rpar;,reduce&lpar;&rpar; with important interview questions](https://dev.to/srishtikprasad/mapfilterreduce-with-important-interview-questions-1ae5)
-- [Dev.to/JS] [JavaScript Classes &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/javascript-classes-with-examples-4k2p)
 - [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)
-- [Dev.to/JS] [Crack the Code of Landing the Technical Interviews](https://dev.to/apoorvtomar/crack-the-code-of-landing-the-technical-interviews-29oc)
 - [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
 - [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
 - [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
 - [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
 - [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
-- [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
-- [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/the-best-ways-to-take-notes-so-you-actually-remember-in-1849535943)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)<!-- TECH-POSTS:END -->
 
 ---
 
