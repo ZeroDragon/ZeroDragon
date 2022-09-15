@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript: String Search methods](https://dev.to/urstrulyvishwak/javascript-string-search-methods-9hf)
+- [Dev.to/JS] [Top JavaScript Concepts to Know Before Learning React.](https://dev.to/areedev/top-javascript-concepts-to-know-before-learning-react-fdh)
 - [Dev.to/JS] [I Used JavaScript to Help My Students](https://dev.to/jeffchavez_dev/i-used-javascript-to-help-my-students-2bf9)
 - [Dev.to/JS] [What is the reason for the face recognition error when opening the Apple developer account](https://dev.to/junguo52122/what-is-the-reason-for-the-face-recognition-error-when-opening-the-apple-developer-account-1bfp)
 - [Dev.to/JS] [Upcoming Features in LiveWire 3.0 - Laracon 2022](https://dev.to/wadecodez/upcoming-features-in-livewire-30-laracon-2022-35o5)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Fetch data from an API using the JavaScript Fetch method](https://dev.to/efkumah/how-to-fetch-data-from-an-api-using-the-javascript-fetch-method-2l3a)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Dev.to/JS] [🚀 Cocktail App - make cocktails from home &lpar;open source&rpar;](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-open-source-2cbn)
-- [Dev.to/JS] [How to setup auto-scroll](https://dev.to/chiemezuo/how-to-setup-auto-scroll-33cn)
-- [Dev.to/JS] [React Router 6.4 Code-Splitting](https://dev.to/infoxicator/data-routers-code-splitting-23no)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
 - [Lifehacker] [How to Tell if You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
 - [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
