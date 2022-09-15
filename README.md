@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Moving my personal website from Gatsby to Next.js](https://dev.to/jpreagan/moving-my-personal-website-from-gatsby-to-nextjs-g50)
+- [Dev.to/JS] [Quick logic question... Express, Sequelize, &amp; Handlebars](https://dev.to/constmedic/quick-logic-question-express-sequelize-handlebars-55j6)
 - [Dev.to/JS] [How to Fetch data from an API using the JavaScript Fetch method](https://dev.to/efkumah/how-to-fetch-data-from-an-api-using-the-javascript-fetch-method-2l3a)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Dev.to/JS] [🚀 Cocktail App - make cocktails from home &lpar;open source&rpar;](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-open-source-2cbn)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
 - [Dev.to/JS] [Why Browser Anti-Fingerprinting Techniques Are Not Effective](https://dev.to/savannahjs/why-browser-anti-fingerprinting-techniques-are-not-effective-1n5f)
 - [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
-- [Dev.to/JS] [Every Developer Must Know These 7 JavaScript Concepts.](https://dev.to/nathannosudo/every-developer-must-know-these-7-javascript-concepts-3ecp)
 - [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/the-best-ways-to-take-notes-so-you-actually-remember-in-1849535943)
-- [Dev.to/JS] [Searching pdf files - Coding a Goggle custom search engine &lpar;gcse&rpar; component in React](https://dev.to/mjoycemilburn/searching-pdf-files-coding-a-goggle-custom-search-engine-gcse-component-in-react-36fk)
 - [Lifehacker] [How to Put Your Baby Down Without Waking Them Up](https://lifehacker.com/how-to-put-your-baby-down-without-waking-them-up-1849535970)
 - [Crazy Programmer] [John Backus Biography](https://www.thecrazyprogrammer.com/2022/09/john-backus-biography.html)
 - [Lifehacker] [The Differences Between Anxiety and Depression &lpar;and When to Get Help&rpar;](https://lifehacker.com/the-differences-between-anxiety-and-depression-and-whe-1849528175)
