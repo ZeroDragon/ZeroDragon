@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Text-2-Speech API - Tutorial](https://dev.to/youngmamba/text-2-speech-api-tutorial-1ma6)
+- [Dev.to/JS] [My First Post in Dev.to](https://dev.to/devmerdana/my-first-post-in-devto-2l23)
+- [Dev.to/JS] [Find Original Array](https://dev.to/zeeshanali0704/find-original-array-5goa)
 - [Dev.to/JS] [Javascript: String Search methods](https://dev.to/urstrulyvishwak/javascript-string-search-methods-9hf)
 - [Dev.to/JS] [Top JavaScript Concepts to Know Before Learning React.](https://dev.to/areedev/top-javascript-concepts-to-know-before-learning-react-fdh)
 - [Dev.to/JS] [I Used JavaScript to Help My Students](https://dev.to/jeffchavez_dev/i-used-javascript-to-help-my-students-2bf9)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Slack Mod: Improving the Launcher](https://dev.to/f53/slack-mod-improving-the-launcher-30g0)
 - [Dev.to/JS] [Low-Code vs. No-Code vs. Pro-Code: What’s The Difference?](https://dev.to/domfive/low-code-vs-no-code-vs-pro-code-whats-the-difference-3pm3)
 - [Dev.to/JS] [Moving my personal website from Gatsby to Next.js](https://dev.to/jpreagan/moving-my-personal-website-from-gatsby-to-nextjs-g50)
-- [Dev.to/JS] [Quick logic question... Express, Sequelize, &amp; Handlebars](https://dev.to/constmedic/quick-logic-question-express-sequelize-handlebars-55j6)
-- [Dev.to/JS] [How to Fetch data from an API using the JavaScript Fetch method](https://dev.to/efkumah/how-to-fetch-data-from-an-api-using-the-javascript-fetch-method-2l3a)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
-- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home &lpar;open source&rpar;](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-open-source-2cbn)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
 - [Lifehacker] [How to Tell if You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
 - [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
