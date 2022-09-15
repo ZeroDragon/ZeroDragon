@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Puppeteer: Crawling data for newbies](https://dev.to/mahmoudgalal/puppeteer-crawling-data-for-newbies-3bik)
+- [Lifehacker] [Why You Shouldn&#39;t Trust the US News &#39;Best Colleges&#39; Rankings](https://lifehacker.com/why-you-shouldnt-trust-the-us-news-best-colleges-rankin-1849537224)
+- [Dev.to/JS] [How to render 3D model in a React JS application](https://dev.to/codebucks/how-to-render-3d-model-in-a-react-js-application-2bi)
+- [Lifehacker] [Stick a Towel in Your Dishwasher](https://lifehacker.com/stick-a-towel-in-your-dishwasher-1849536897)
+- [Dev.to/JS] [Final year project](https://dev.to/ahtaxam/final-year-project-4il0)
 - [Dev.to/JS] [How to generate Sitemap for your Next JS project](https://dev.to/pfedprog/how-to-generate-sitemap-for-your-next-js-project-cl5)
 - [Dev.to/JS] [How to Make a Creative Website Using HTML, CSS, and JavaScript](https://dev.to/codewithsadee/how-to-make-a-creative-website-using-html-css-and-javascript-b4a)
 - [Lifehacker] [The Best Way to Organize a Family Calendar](https://lifehacker.com/the-best-way-to-organize-a-family-calendar-1849534173)
@@ -30,12 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mocking com o MSW - Mock Service Worker](https://dev.to/deesouza/mocking-com-o-msw-mock-service-worker-16n3)
 - [Dev.to/JS] [Day 41 of #100DaysOfCode](https://dev.to/ananfito/day-41-of-100daysofcode-50mj)
 - [Dev.to/JS] [10 Free GumRoad products for Web Developers](https://dev.to/surajondev/10-free-gumroad-products-for-web-developers-1p6g)
-- [Dev.to/JS] [How to render 3D model in a React JS application](https://dev.to/codebucks/how-to-render-3d-model-in-a-react-js-applications-2n4o)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XV: Lets make server with typescript and express](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xv-lets-make-server-with-typescript-and-express-4411)
 - [Dev.to/JS] [How to Create a Line Chart in JavaScript](https://dev.to/andreykh1985/how-to-create-a-line-chart-in-javascript-176k)
 - [Dev.to/JS] [Sveltekit Changes: Advanced Layouts](https://dev.to/theether0/sveltekit-changes-advanced-layouts-3id4)
-- [Dev.to/JS] [How to merge two arrays?](https://dev.to/jolamemushaj/how-to-merge-two-arrays-3eb0)
-- [Dev.to/JS] [Setup your own Mock RESTful API fast with JSON Server - 30 seconds](https://dev.to/hr21don/setup-your-own-mock-restful-api-fast-with-json-server-30-seconds-3pmj)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
 - [Lifehacker] [How to Tell If You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [More of Your Savory Foods Could Do With a Honey Finish](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
 - [Lifehacker] [Why You Should Book Your Car Rental Before Your Flight](https://lifehacker.com/why-you-should-book-your-car-rental-before-your-flight-1849529569)
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
-- [Lifehacker] [Go Ahead, Throw a Duck on the Grill](https://lifehacker.com/go-ahead-throw-a-duck-on-the-grill-1849527371)
-- [Lifehacker] [How to Use Up, Repurpose, or Sell Leftover Renovation Materials](https://lifehacker.com/how-to-use-up-repurpose-or-sell-leftover-renovation-m-1849530271)
-- [Lifehacker] [Is It Really Safe to Lift Barefoot?](https://lifehacker.com/is-it-really-safe-to-lift-barefoot-1849530787)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Go Ahead, Throw a Duck on the Grill](https://lifehacker.com/go-ahead-throw-a-duck-on-the-grill-1849527371)<!-- TECH-POSTS:END -->
 
 ---
 
