@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Free GumRoad products for Web Developers](https://dev.to/surajondev/10-free-gumroad-products-for-web-developers-1p6g)
+- [Dev.to/JS] [How to render 3D model in a React JS application](https://dev.to/codebucks/how-to-render-3d-model-in-a-react-js-applications-2n4o)
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XV: Lets make server with typescript and express](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xv-lets-make-server-with-typescript-and-express-4411)
+- [Dev.to/JS] [How to Create a Line Chart in JavaScript](https://dev.to/andreykh1985/how-to-create-a-line-chart-in-javascript-176k)
+- [Dev.to/JS] [Sveltekit Changes: Advanced Layouts](https://dev.to/theether0/sveltekit-changes-advanced-layouts-3id4)
 - [Dev.to/JS] [How to merge two arrays?](https://dev.to/jolamemushaj/how-to-merge-two-arrays-3eb0)
 - [Dev.to/JS] [Setup your own Mock RESTful API fast with JSON Server - 30 seconds](https://dev.to/hr21don/setup-your-own-mock-restful-api-fast-with-json-server-30-seconds-3pmj)
 - [Dev.to/JS] [New ECMAScript 23 array features](https://dev.to/matijanovosel/new-ecmascript-23-array-features-4375)
 - [Dev.to/JS] [Common mistakes junior developers make - Don&#39;t do this:](https://dev.to/glowreeyah/common-mistakes-junior-developers-make-dont-do-this-4eie)
-- [Dev.to/JS] [Ignite Drops - Fat Burner Reviews, Price, Results &amp; Ingredients?](https://dev.to/ignitedropsinfo/ignite-drops-fat-burner-reviews-price-results-ingredients-1e9d)
-- [Dev.to/JS] [Phun Sương TC - Hệ Thống Phun Sương Làm Mát Và Tưới Lan](https://dev.to/phunsuongtc/phun-suong-tc-he-thong-phun-suong-lam-mat-va-tuoi-lan-oh0)
 - [Dev.to/JS] [Easy advanced TypeScript types from day 1](https://dev.to/mindplay/easy-advanced-typescript-types-from-day-1-ohm)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XIV: File Manager Body](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xiv-file-manager-body-2bik)
 - [Dev.to/JS] [¿Como encontre un mentor?](https://dev.to/mylittleviruzbx1/como-encontre-un-mentor-47em)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XIII: Organizing files](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xiii-organizing-files-5d0n)
-- [Dev.to/JS] [dsfsd](https://dev.to/zwelhtetyan/dsfsd-38o6)
-- [Dev.to/JS] [Deploying a Google action](https://dev.to/dailydevtips1/deploying-a-google-action-57if)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
 - [Lifehacker] [How to Tell if You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
