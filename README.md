@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
+- [Dev.to/JS] [10 Must-Have Chrome Extensions for Web Developers 🚀🌐](https://dev.to/naubit/10-must-have-chrome-extensions-for-web-developers-5dih)
+- [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
+- [Dev.to/JS] [3 Easy Ways to Generate HTML with JavaScript](https://dev.to/dcodeyt/3-easy-ways-to-generate-html-with-javascript-3b1j)
+- [Dev.to/JS] [Installing Angular CLI Locally &amp; Globally](https://dev.to/xenxei46/installing-angular-cli-locally-globally-3lei)
+- [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)
 - [Dev.to/JS] [Flat Iron Phase 2 Project - A Meta Analysis](https://dev.to/elliotmangini/flat-iron-phase-2-project-a-meta-analysis-93k)
 - [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)
 - [Dev.to/JS] [Copilot VS Codex](https://dev.to/riick97/copilot-vs-codex-1ecb)
@@ -40,11 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)
 - [Dev.to/JS] [Crack the Code of Landing the Technical Interviews](https://dev.to/apoorvtomar/crack-the-code-of-landing-the-technical-interviews-29oc)
 - [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
-- [Dev.to/JS] [Functions in JavaScript Explained](https://dev.to/rembertdesigns/functions-in-javascript-explained-265f)
 - [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
-- [Dev.to/JS] [TypeScript: why static typing matters](https://dev.to/nicozerpa/typescript-why-static-typing-matters-444d)
 - [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)
-- [Dev.to/JS] [Observable tutorial: Analyze data in a JavaScript-native data notebook](https://dev.to/cubejs/observable-tutorial-analyze-data-in-a-javascript-native-data-notebook-1oh)
 - [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
 - [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
 - [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
 - [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
-- [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/the-best-ways-to-take-notes-so-you-actually-remember-in-1849535943)
-- [Lifehacker] [How to Put Your Baby Down Without Waking Them Up](https://lifehacker.com/how-to-put-your-baby-down-without-waking-them-up-1849535970)
-- [Crazy Programmer] [John Backus Biography](https://www.thecrazyprogrammer.com/2022/09/john-backus-biography.html)
-- [Lifehacker] [The Differences Between Anxiety and Depression &lpar;and When to Get Help&rpar;](https://lifehacker.com/the-differences-between-anxiety-and-depression-and-whe-1849528175)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/the-best-ways-to-take-notes-so-you-actually-remember-in-1849535943)<!-- TECH-POSTS:END -->
 
 ---
 
