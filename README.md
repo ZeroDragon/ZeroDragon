@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [There&#39;s No Law Against Making Sausage Gravy With Italian Sausage](https://lifehacker.com/theres-no-law-against-making-sausage-gravy-with-italian-1849540884)
+- [Dev.to/JS] [¡Como utilizar javascript en Github Actions y hacer un cocktail!](https://dev.to/victorargento/como-utilizar-javascript-en-github-actions-y-hacer-un-cocktail-3pbn)
+- [Dev.to/JS] [Top 10 React Interview Question !](https://dev.to/devvsakib/top-10-react-interview-question--584n)
+- [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)
+- [Crazy Programmer] [Alan Kay Biography](https://www.thecrazyprogrammer.com/2022/09/alan-kay-biography.html)
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XVI: Create Server Requests](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xvi-create-server-requests-9ec)
+- [Dev.to/JS] [Map&lpar;&rpar;,Filter&lpar;&rpar;,reduce&lpar;&rpar; with important interview questions](https://dev.to/srishtikprasad/mapfilterreduce-with-important-interview-questions-1ae5)
+- [Dev.to/JS] [JavaScript Classes &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/javascript-classes-with-examples-4k2p)
 - [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)
 - [Dev.to/JS] [Crack the Code of Landing the Technical Interviews](https://dev.to/apoorvtomar/crack-the-code-of-landing-the-technical-interviews-29oc)
 - [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
@@ -35,11 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tips Componente Text de React Native](https://dev.to/kevingo710/tips-componente-text-de-react-native-33l4)
 - [Dev.to/JS] [Promesas en Javascript para React y TypeScript](https://dev.to/kevingo710/promesas-en-javascript-para-react-y-typescript-12f4)
 - [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
-- [Dev.to/JS] [Get user location from browser using JavaScript | Solutions By ShriekDj](https://dev.to/shriekdj/get-user-location-from-browser-using-javascript-solutions-by-shriekdj-4647)
-- [Dev.to/JS] [React JS: Interceptors with Fetch API](https://dev.to/snigdho611/react-js-interceptors-with-fetch-api-1oei)
-- [Dev.to/JS] [Programming in the Adult Entertainment Industry III](https://dev.to/jwoertink/programming-in-the-adult-entertainment-industry-iii-1io7)
-- [Dev.to/JS] [Bot de criptomonedas de discord con discord.js y node.js](https://dev.to/rtagliavia/bot-de-criptomonedas-de-discord-con-discordjs-y-nodejs-590a)
-- [Dev.to/JS] [19 Practical ES6 Snippets to Solve Common JS Problems 🚀💯](https://dev.to/madza/19-practical-es6-snippets-to-solve-common-js-problems-31o9)
 - [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
 - [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)
 - [Lifehacker] [12 of the Dumbest Rituals and Traditions of the British Royal Family](https://lifehacker.com/12-of-the-dumbest-rituals-and-traditions-of-the-british-1849537242)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Differences Between Anxiety and Depression &lpar;and When to Get Help&rpar;](https://lifehacker.com/the-differences-between-anxiety-and-depression-and-whe-1849528175)
 - [Lifehacker] [How to Drain Greasy Food When You&#39;re Out of Paper Towels](https://lifehacker.com/how-to-drain-greasy-food-when-youre-out-of-paper-towels-1849535418)
 - [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
-- [Lifehacker] [How to Stain Your Boring Concrete Patio](https://lifehacker.com/how-to-stain-your-boring-concrete-patio-1849532297)
-- [Lifehacker] [How to Make Your Apple Watch Last for Days on a Single Charge](https://lifehacker.com/how-to-make-your-apple-watch-last-for-days-on-a-single-1849533531)
-- [Lifehacker] [13 Classic Stories We Can’t Stop Adapting Into Movies](https://lifehacker.com/13-classic-stories-we-can-t-stop-adapting-into-movies-1849524899)
-- [Lifehacker] [What Shoes Should I Wear to Exercise?](https://lifehacker.com/what-shoes-should-i-wear-to-exercise-1849534543)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stain Your Boring Concrete Patio](https://lifehacker.com/how-to-stain-your-boring-concrete-patio-1849532297)<!-- TECH-POSTS:END -->
 
 ---
 
