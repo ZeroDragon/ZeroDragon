@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the reason for the face recognition error when opening the Apple developer account](https://dev.to/junguo52122/what-is-the-reason-for-the-face-recognition-error-when-opening-the-apple-developer-account-1bfp)
+- [Dev.to/JS] [Upcoming Features in LiveWire 3.0 - Laracon 2022](https://dev.to/wadecodez/upcoming-features-in-livewire-30-laracon-2022-35o5)
 - [Dev.to/JS] [Aunt Sue](https://dev.to/rmion/aunt-sue-3b81)
 - [Dev.to/JS] [Slack Mod: Improving the Launcher](https://dev.to/f53/slack-mod-improving-the-launcher-30g0)
 - [Dev.to/JS] [Low-Code vs. No-Code vs. Pro-Code: What’s The Difference?](https://dev.to/domfive/low-code-vs-no-code-vs-pro-code-whats-the-difference-3pm3)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
 - [Lifehacker] [How to Tell if You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
 - [Dev.to/JS] [Why Huobi Listing is Big for CUDOS ??](https://dev.to/mrbitee/why-huobi-listing-is-big-for-cudos--35nd)
-- [Dev.to/JS] [Tools Required For Backend Development](https://dev.to/prkskrs/tools-required-for-backend-development-5dbi)
 - [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
-- [Dev.to/JS] [Reduct Storage SDKs update and Web Console v0.5.0](https://dev.to/reduct-storage/reduct-storage-sdks-update-and-web-console-v050-33g4)
 - [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
 - [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
 - [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
