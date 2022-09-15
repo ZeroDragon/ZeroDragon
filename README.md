@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)
+- [Dev.to/JS] [Crack the Code of Landing the Technical Interviews](https://dev.to/apoorvtomar/crack-the-code-of-landing-the-technical-interviews-29oc)
+- [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
+- [Dev.to/JS] [Functions in JavaScript Explained](https://dev.to/rembertdesigns/functions-in-javascript-explained-265f)
 - [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
 - [Dev.to/JS] [TypeScript: why static typing matters](https://dev.to/nicozerpa/typescript-why-static-typing-matters-444d)
 - [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)
@@ -36,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Programming in the Adult Entertainment Industry III](https://dev.to/jwoertink/programming-in-the-adult-entertainment-industry-iii-1io7)
 - [Dev.to/JS] [Bot de criptomonedas de discord con discord.js y node.js](https://dev.to/rtagliavia/bot-de-criptomonedas-de-discord-con-discordjs-y-nodejs-590a)
 - [Dev.to/JS] [19 Practical ES6 Snippets to Solve Common JS Problems 🚀💯](https://dev.to/madza/19-practical-es6-snippets-to-solve-common-js-problems-31o9)
-- [Dev.to/JS] [Medusa v1.4.0: Product Import API, Improved API Reference and More!](https://dev.to/medusajs/medusa-v140-product-import-api-improved-api-reference-and-more-56ck)
 - [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
 - [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)
-- [Dev.to/JS] [Crypto App built with ReactJS, Tailwind and Firebase](https://dev.to/gatti/crypto-app-built-with-reactjs-tailwind-and-firebase-491j)
 - [Lifehacker] [12 of the Dumbest Rituals and Traditions of the British Royal Family](https://lifehacker.com/12-of-the-dumbest-rituals-and-traditions-of-the-british-1849537242)
 - [Lifehacker] [Why You Shouldn&#39;t Trust the US News &#39;Best Colleges&#39; Rankings](https://lifehacker.com/why-you-shouldnt-trust-the-us-news-best-colleges-rankin-1849537224)
 - [Lifehacker] [Stick a Towel in Your Dishwasher](https://lifehacker.com/stick-a-towel-in-your-dishwasher-1849536897)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stain Your Boring Concrete Patio](https://lifehacker.com/how-to-stain-your-boring-concrete-patio-1849532297)
 - [Lifehacker] [How to Make Your Apple Watch Last for Days on a Single Charge](https://lifehacker.com/how-to-make-your-apple-watch-last-for-days-on-a-single-1849533531)
 - [Lifehacker] [13 Classic Stories We Can’t Stop Adapting Into Movies](https://lifehacker.com/13-classic-stories-we-can-t-stop-adapting-into-movies-1849524899)
-- [Lifehacker] [What Shoes Should I Wear to Exercise?](https://lifehacker.com/what-shoes-should-i-wear-to-exercise-1849534543)
-- [Lifehacker] [Everything We Know About the iPhone 14&#39;s Battery Life](https://lifehacker.com/everything-we-know-about-the-iphone-14s-battery-life-1849532742)
-- [Lifehacker] [Make Brigadeiro Your New Cake Frosting](https://lifehacker.com/make-brigadeiro-your-new-cake-frosting-1849532365)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Shoes Should I Wear to Exercise?](https://lifehacker.com/what-shoes-should-i-wear-to-exercise-1849534543)<!-- TECH-POSTS:END -->
 
 ---
 
