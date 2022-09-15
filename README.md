@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Slack Mod: Improving the Launcher](https://dev.to/f53/slack-mod-improving-the-launcher-30g0)
+- [Dev.to/JS] [Low-Code vs. No-Code vs. Pro-Code: What’s The Difference?](https://dev.to/domfive/low-code-vs-no-code-vs-pro-code-whats-the-difference-3pm3)
 - [Dev.to/JS] [Moving my personal website from Gatsby to Next.js](https://dev.to/jpreagan/moving-my-personal-website-from-gatsby-to-nextjs-g50)
 - [Dev.to/JS] [Quick logic question... Express, Sequelize, &amp; Handlebars](https://dev.to/constmedic/quick-logic-question-express-sequelize-handlebars-55j6)
 - [Dev.to/JS] [How to Fetch data from an API using the JavaScript Fetch method](https://dev.to/efkumah/how-to-fetch-data-from-an-api-using-the-javascript-fetch-method-2l3a)
@@ -37,10 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
 - [Dev.to/JS] [Reduct Storage SDKs update and Web Console v0.5.0](https://dev.to/reduct-storage/reduct-storage-sdks-update-and-web-console-v050-33g4)
 - [Dev.to/JS] [Guida Isotope Filtering](https://dev.to/giandomenicopagliara/guida-isotope-filtering-kn9)
-- [Dev.to/JS] [2.39 - Plasmic with Ekene Eze &lpar;Kenny&rpar;](https://dev.to/codingcatdev/239-plasmic-with-ekene-eze-kenny-2pn)
 - [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
 - [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
-- [Dev.to/JS] [Why Browser Anti-Fingerprinting Techniques Are Not Effective](https://dev.to/savannahjs/why-browser-anti-fingerprinting-techniques-are-not-effective-1n5f)
 - [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
 - [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/the-best-ways-to-take-notes-so-you-actually-remember-in-1849535943)
 - [Lifehacker] [How to Put Your Baby Down Without Waking Them Up](https://lifehacker.com/how-to-put-your-baby-down-without-waking-them-up-1849535970)
