@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flat Iron Phase 2 Project - A Meta Analysis](https://dev.to/elliotmangini/flat-iron-phase-2-project-a-meta-analysis-93k)
+- [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)
+- [Dev.to/JS] [Copilot VS Codex](https://dev.to/riick97/copilot-vs-codex-1ecb)
+- [Lifehacker] [12 Outdated Fashion Rules You Don&#39;t Need to Follow Anymore](https://lifehacker.com/12-outdated-fashion-rules-you-dont-need-to-follow-anymo-1849540257)
 - [Dev.to/JS] [Dockerize Node.Js Application](https://dev.to/dulyaaa/dockerize-nodejs-application-20k2)
 - [Lifehacker] [You Can Finally Use Snapchat on Your Computer](https://lifehacker.com/you-can-finally-use-snapchat-on-your-computer-1849540706)
 - [Lifehacker] [There&#39;s No Law Against Making Sausage Gravy With Italian Sausage](https://lifehacker.com/theres-no-law-against-making-sausage-gravy-with-italian-1849540884)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript: why static typing matters](https://dev.to/nicozerpa/typescript-why-static-typing-matters-444d)
 - [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)
 - [Dev.to/JS] [Observable tutorial: Analyze data in a JavaScript-native data notebook](https://dev.to/cubejs/observable-tutorial-analyze-data-in-a-javascript-native-data-notebook-1oh)
-- [Dev.to/JS] [React manejo de estado con objetos](https://dev.to/kevingo710/react-manejo-de-estado-con-objetos-56da)
-- [Dev.to/JS] [Tips Componente Text de React Native](https://dev.to/kevingo710/tips-componente-text-de-react-native-33l4)
 - [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
 - [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/the-best-ways-to-take-notes-so-you-actually-remember-in-1849535943)
 - [Lifehacker] [How to Put Your Baby Down Without Waking Them Up](https://lifehacker.com/how-to-put-your-baby-down-without-waking-them-up-1849535970)
 - [Crazy Programmer] [John Backus Biography](https://www.thecrazyprogrammer.com/2022/09/john-backus-biography.html)
-- [Lifehacker] [The Differences Between Anxiety and Depression &lpar;and When to Get Help&rpar;](https://lifehacker.com/the-differences-between-anxiety-and-depression-and-whe-1849528175)
-- [Lifehacker] [How to Drain Greasy Food When You&#39;re Out of Paper Towels](https://lifehacker.com/how-to-drain-greasy-food-when-youre-out-of-paper-towels-1849535418)
-- [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Differences Between Anxiety and Depression &lpar;and When to Get Help&rpar;](https://lifehacker.com/the-differences-between-anxiety-and-depression-and-whe-1849528175)<!-- TECH-POSTS:END -->
 
 ---
 
