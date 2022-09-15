@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to generate Sitemap for your Next JS project](https://dev.to/pfedprog/how-to-generate-sitemap-for-your-next-js-project-cl5)
+- [Dev.to/JS] [How to Make a Creative Website Using HTML, CSS, and JavaScript](https://dev.to/codewithsadee/how-to-make-a-creative-website-using-html-css-and-javascript-b4a)
+- [Lifehacker] [The Best Way to Organize a Family Calendar](https://lifehacker.com/the-best-way-to-organize-a-family-calendar-1849534173)
+- [Dev.to/JS] [7 Must Know JavaScript Tips &amp; Tricks 🎈](https://dev.to/dcodeyt/7-must-know-javascript-tips-tricks-2m8f)
+- [Dev.to/JS] [Mocking com o MSW - Mock Service Worker](https://dev.to/deesouza/mocking-com-o-msw-mock-service-worker-16n3)
+- [Dev.to/JS] [Day 41 of #100DaysOfCode](https://dev.to/ananfito/day-41-of-100daysofcode-50mj)
 - [Dev.to/JS] [10 Free GumRoad products for Web Developers](https://dev.to/surajondev/10-free-gumroad-products-for-web-developers-1p6g)
 - [Dev.to/JS] [How to render 3D model in a React JS application](https://dev.to/codebucks/how-to-render-3d-model-in-a-react-js-applications-2n4o)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XV: Lets make server with typescript and express](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xv-lets-make-server-with-typescript-and-express-4411)
@@ -30,14 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sveltekit Changes: Advanced Layouts](https://dev.to/theether0/sveltekit-changes-advanced-layouts-3id4)
 - [Dev.to/JS] [How to merge two arrays?](https://dev.to/jolamemushaj/how-to-merge-two-arrays-3eb0)
 - [Dev.to/JS] [Setup your own Mock RESTful API fast with JSON Server - 30 seconds](https://dev.to/hr21don/setup-your-own-mock-restful-api-fast-with-json-server-30-seconds-3pmj)
-- [Dev.to/JS] [New ECMAScript 23 array features](https://dev.to/matijanovosel/new-ecmascript-23-array-features-4375)
-- [Dev.to/JS] [Common mistakes junior developers make - Don&#39;t do this:](https://dev.to/glowreeyah/common-mistakes-junior-developers-make-dont-do-this-4eie)
-- [Dev.to/JS] [Easy advanced TypeScript types from day 1](https://dev.to/mindplay/easy-advanced-typescript-types-from-day-1-ohm)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XIV: File Manager Body](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xiv-file-manager-body-2bik)
-- [Dev.to/JS] [¿Como encontre un mentor?](https://dev.to/mylittleviruzbx1/como-encontre-un-mentor-47em)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
-- [Lifehacker] [How to Tell if You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
+- [Lifehacker] [How to Tell If You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
 - [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
 - [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
 - [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spot Counterfeit AirPods](https://lifehacker.com/how-to-spot-counterfeit-airpods-1849530662)
 - [Lifehacker] [Go Ahead, Throw a Duck on the Grill](https://lifehacker.com/go-ahead-throw-a-duck-on-the-grill-1849527371)
 - [Lifehacker] [How to Use Up, Repurpose, or Sell Leftover Renovation Materials](https://lifehacker.com/how-to-use-up-repurpose-or-sell-leftover-renovation-m-1849530271)
-- [Lifehacker] [Is It Really Safe to Lift Barefoot?](https://lifehacker.com/is-it-really-safe-to-lift-barefoot-1849530787)
-- [Lifehacker] [How to Make a Last-Minute Presentation Deck](https://lifehacker.com/how-to-make-a-last-minute-presentation-deck-1849530466)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Is It Really Safe to Lift Barefoot?](https://lifehacker.com/is-it-really-safe-to-lift-barefoot-1849530787)<!-- TECH-POSTS:END -->
 
 ---
 
