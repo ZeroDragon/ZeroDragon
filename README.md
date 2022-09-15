@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Aunt Sue](https://dev.to/rmion/aunt-sue-3b81)
 - [Dev.to/JS] [Slack Mod: Improving the Launcher](https://dev.to/f53/slack-mod-improving-the-launcher-30g0)
 - [Dev.to/JS] [Low-Code vs. No-Code vs. Pro-Code: What’s The Difference?](https://dev.to/domfive/low-code-vs-no-code-vs-pro-code-whats-the-difference-3pm3)
 - [Dev.to/JS] [Moving my personal website from Gatsby to Next.js](https://dev.to/jpreagan/moving-my-personal-website-from-gatsby-to-nextjs-g50)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tools Required For Backend Development](https://dev.to/prkskrs/tools-required-for-backend-development-5dbi)
 - [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
 - [Dev.to/JS] [Reduct Storage SDKs update and Web Console v0.5.0](https://dev.to/reduct-storage/reduct-storage-sdks-update-and-web-console-v050-33g4)
-- [Dev.to/JS] [Guida Isotope Filtering](https://dev.to/giandomenicopagliara/guida-isotope-filtering-kn9)
 - [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
 - [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
 - [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
