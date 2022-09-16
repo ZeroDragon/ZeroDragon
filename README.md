@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Simple Crude Application Function With MYSQL and PHP.](https://dev.to/nnekajenny/a-simple-crude-application-function-with-mysql-and-php-24b4)
+- [Lifehacker] [What Is a &#39;Bleisure&#39; &lpar;and How Can You Take One&rpar;?](https://lifehacker.com/what-is-a-bleisure-and-how-can-you-take-one-1849544163)
+- [Dev.to/JS] [Temporary Chat Project](https://dev.to/itsfuad/temporary-chat-project-5ag2)
+- [Dev.to/JS] [Unit testing map functions with Jest](https://dev.to/jsalli/unit-testing-map-functions-with-jest-3no5)
+- [Dev.to/JS] [Binary Search](https://dev.to/ankitdevelops/binary-search-5gcf)
+- [Dev.to/JS] [Code Smell 163 - Collection in Name](https://dev.to/mcsee/code-smell-163-collection-in-name-2gif)
+- [Lifehacker] [Six Cheap Ways to Make Your Living Room Look More Expensive](https://lifehacker.com/six-cheap-ways-to-make-your-living-room-look-more-expen-1849542525)
+- [Dev.to/JS] [Open Source Basics](https://dev.to/lostbutton/open-source-basics-3g5)
 - [Dev.to/JS] [Code Generator Neat Hack](https://dev.to/mbarzeev/code-generator-neat-hack-7hd)
 - [Lifehacker] [You Should Fry Your Cinnamon Toast](https://lifehacker.com/you-should-fry-your-cinnamon-toast-1849542344)
 - [Dev.to/JS] [Tailwind CSS Smooth Scroll Bottom to top Using JavaScript](https://dev.to/w3hubs/tailwind-css-smooth-scroll-bottom-to-top-using-javascript-1688)
@@ -31,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Recalled Starbucks Drinks May Contain Metal Fragments](https://lifehacker.com/these-recalled-starbucks-drinks-may-contain-metal-fragm-1849542691)
 - [Dev.to/JS] [做一個簡單的網頁截圖功能](https://dev.to/letswrite/zuo-ge-jian-dan-de-wang-ye-jie-tu-gong-neng-53n6)
 - [Dev.to/JS] [How To Debug React Apps With VS Code - Boost Your Debugging Productivity](https://dev.to/profydev/how-to-debug-react-apps-with-vs-code-boost-your-debugging-productivity-1k05)
-- [Dev.to/JS] [Quick Look feature for a Web App](https://dev.to/ascarbek/quick-look-feature-for-a-web-app-5df9)
-- [Dev.to/JS] [Trust me, Redis really makes you app super fast.](https://dev.to/superdeveloper/trust-me-redis-really-makes-you-app-super-fast-3ohf)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XVIII: Link Api to React](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xviii-link-api-to-react-3e13)
-- [Dev.to/JS] [useReducer &gt; useState](https://dev.to/damiensedgwick/usereducer-usestate-5922)
-- [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 19: Compilation Cache, Make the Compiler Faster](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-19-compilation-cache-make-the-compiler-faster-22ml)
-- [Dev.to/JS] [Three ways to iterate an array](https://dev.to/jolamemushaj/three-ways-to-iterate-an-array-340j)
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Organize a Family Calendar](https://lifehacker.com/the-best-way-to-organize-a-family-calendar-1849534173)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
-- [Lifehacker] [How to Tell If You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
-- [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
-- [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)<!-- TECH-POSTS:END -->
 
 ---
 
