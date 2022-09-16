@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Please Don&#39;t &lpar;Manually&rpar; Parameterize Your SQL Queries](https://dev.to/newbie012/please-dont-manually-parameterize-your-sql-queries-3m7k)
+- [Lifehacker] [11 of the Best New Podcasts to Add to Your Queue](https://lifehacker.com/11-of-the-best-new-podcasts-to-add-to-your-queue-1849544924)
+- [Dev.to/JS] [PHP | Regular Expressions](https://dev.to/nnekajenny/php-regular-expressions-35dh)
 - [Dev.to/JS] [A Simple Crude Application Function With MYSQL and PHP.](https://dev.to/nnekajenny/a-simple-crude-application-function-with-mysql-and-php-24b4)
-- [Lifehacker] [What Is a &#39;Bleisure&#39; &lpar;and How Can You Take One&rpar;?](https://lifehacker.com/what-is-a-bleisure-and-how-can-you-take-one-1849544163)
+- [Lifehacker] [You Deserve Some &#39;Bleisure&#39;](https://lifehacker.com/what-is-a-bleisure-and-how-can-you-take-one-1849544163)
 - [Dev.to/JS] [Temporary Chat Project](https://dev.to/itsfuad/temporary-chat-project-5ag2)
 - [Dev.to/JS] [Unit testing map functions with Jest](https://dev.to/jsalli/unit-testing-map-functions-with-jest-3no5)
 - [Dev.to/JS] [Binary Search](https://dev.to/ankitdevelops/binary-search-5gcf)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [F.L.A.M.E.S](https://dev.to/thisissherlock1/flames-2434)
 - [Dev.to/JS] [Basics of For Loops: To For...in or For...of?](https://dev.to/emilyfernschild/basics-of-for-loops-to-forin-or-forof-1l83)
 - [Lifehacker] [These Recalled Starbucks Drinks May Contain Metal Fragments](https://lifehacker.com/these-recalled-starbucks-drinks-may-contain-metal-fragm-1849542691)
-- [Dev.to/JS] [做一個簡單的網頁截圖功能](https://dev.to/letswrite/zuo-ge-jian-dan-de-wang-ye-jie-tu-gong-neng-53n6)
-- [Dev.to/JS] [How To Debug React Apps With VS Code - Boost Your Debugging Productivity](https://dev.to/profydev/how-to-debug-react-apps-with-vs-code-boost-your-debugging-productivity-1k05)
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stick a Towel in Your Dishwasher](https://lifehacker.com/stick-a-towel-in-your-dishwasher-1849536897)
 - [Lifehacker] [The Best Way to Organize a Family Calendar](https://lifehacker.com/the-best-way-to-organize-a-family-calendar-1849534173)
 - [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
-- [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
-- [Lifehacker] [How to Tell If You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)<!-- TECH-POSTS:END -->
 
 ---
 
