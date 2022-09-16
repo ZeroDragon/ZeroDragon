@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cypress vs Selenium WebDriver Comparison by Example](https://dev.to/zhiminzhan/cypress-vs-selenium-webdriver-comparison-by-example-2ee4)
+- [Dev.to/JS] [How to build a blog app with MongoDB, NextJS, and Buildable](https://dev.to/buildable/how-to-build-a-blog-app-with-mongodb-nextjs-and-buildable-5484)
+- [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Dev.to/JS] [The Benefits of Using a JavaScript Pivot Table in Your Web Application](https://dev.to/chelseadevereaux/the-benefits-of-using-a-javascript-pivot-table-in-your-web-application-jf1)
 - [Dev.to/JS] [Angular Addicts Issue #1: Nx Conf, Dev Survey &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-1-nx-conf-dev-survey-more-2gp5)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
@@ -37,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tips to posting?](https://dev.to/gxelol/tips-to-posting-2d5c)
 - [Lifehacker] [How to Stop Your Pixel From Unlocking in Your Pocket](https://lifehacker.com/how-to-stop-your-pixel-from-unlocking-in-your-pocket-1849546190)
 - [Dev.to/JS] [A New Javascript Image Viewer Library from GrapeCity Documents](https://dev.to/grapecity/a-new-javascript-image-viewer-library-from-grapecity-documents-ii2)
-- [Dev.to/JS] [How to Use a Javascript Reporting Tool With the Gatsby Web Framework](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-with-the-gatsby-web-framework-44kj)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2022](https://lifehacker.com/whats-new-on-disney-in-october-2022-1849546357)
-- [Dev.to/JS] [Updates from the 92nd TC39 meeting](https://dev.to/hemanth/updates-from-the-92nd-tc39-meeting-5fi6)
 - [Lifehacker] [Five Signs That You&#39;re the Toxic One in a Relationship](https://lifehacker.com/five-signs-that-youre-the-toxic-one-in-a-relationship-1849546105)
 - [Lifehacker] [How Student Loan Forgiveness Will Affect Your Credit Score](https://lifehacker.com/how-student-loan-forgiveness-will-affect-your-credit-sc-1849545879)
 - [Lifehacker] [How Often Do You Really Need to Wash Your Hair?](https://lifehacker.com/how-often-do-you-really-need-to-wash-your-hair-1849545757)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s No Law Against Making Sausage Gravy With Italian Sausage](https://lifehacker.com/theres-no-law-against-making-sausage-gravy-with-italian-1849540884)
 - [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)
 - [Crazy Programmer] [Alan Kay Biography](https://www.thecrazyprogrammer.com/2022/09/alan-kay-biography.html)
-- [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)
-- [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)<!-- TECH-POSTS:END -->
 
 ---
 
