@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Generator Neat Hack](https://dev.to/mbarzeev/code-generator-neat-hack-7hd)
+- [Lifehacker] [You Should Fry Your Cinnamon Toast](https://lifehacker.com/you-should-fry-your-cinnamon-toast-1849542344)
+- [Dev.to/JS] [Tailwind CSS Smooth Scroll Bottom to top Using JavaScript](https://dev.to/w3hubs/tailwind-css-smooth-scroll-bottom-to-top-using-javascript-1688)
+- [Dev.to/JS] [F.L.A.M.E.S](https://dev.to/thisissherlock1/flames-2434)
+- [Dev.to/JS] [Basics of For Loops: To For...in or For...of?](https://dev.to/emilyfernschild/basics-of-for-loops-to-forin-or-forof-1l83)
+- [Lifehacker] [These Recalled Starbucks Drinks May Contain Metal Fragments](https://lifehacker.com/these-recalled-starbucks-drinks-may-contain-metal-fragm-1849542691)
+- [Dev.to/JS] [做一個簡單的網頁截圖功能](https://dev.to/letswrite/zuo-ge-jian-dan-de-wang-ye-jie-tu-gong-neng-53n6)
+- [Dev.to/JS] [How To Debug React Apps With VS Code - Boost Your Debugging Productivity](https://dev.to/profydev/how-to-debug-react-apps-with-vs-code-boost-your-debugging-productivity-1k05)
+- [Dev.to/JS] [Quick Look feature for a Web App](https://dev.to/ascarbek/quick-look-feature-for-a-web-app-5df9)
 - [Dev.to/JS] [Trust me, Redis really makes you app super fast.](https://dev.to/superdeveloper/trust-me-redis-really-makes-you-app-super-fast-3ohf)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XVIII: Link Api to React](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xviii-link-api-to-react-3e13)
 - [Dev.to/JS] [useReducer &gt; useState](https://dev.to/damiensedgwick/usereducer-usestate-5922)
 - [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 19: Compilation Cache, Make the Compiler Faster](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-19-compilation-cache-make-the-compiler-faster-22ml)
 - [Dev.to/JS] [Three ways to iterate an array](https://dev.to/jolamemushaj/three-ways-to-iterate-an-array-340j)
-- [Dev.to/JS] [Programming chose me](https://dev.to/jjenus/programming-chose-me-4dd6)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XVII: Create Nodes List](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xvii-create-nodes-list-4h82)
-- [Dev.to/JS] [What are your favourite newsletters?](https://dev.to/adam/what-are-your-favourite-newsletters-5ff7)
-- [Dev.to/JS] [A beginner&#39;s guide to VueJS](https://dev.to/dustyworld666/a-beginners-guide-to-vuejs-3oa1)
-- [Dev.to/JS] [Switch between multiple Themes using plain CSS and vanilla Javascript](https://dev.to/go4webdev/switch-between-multiple-themes-using-plain-css-and-vanilla-javascript-4h1c)
-- [Dev.to/JS] [Practical Guide to Navigating Professional Relationships All Weeks Quiz Answers](https://dev.to/chase2learn/practical-guide-to-navigating-professional-relationships-all-weeks-quiz-answers-5b3h)
-- [Dev.to/JS] [Import and @use from absolute paths in Next.JS](https://dev.to/olaj/import-and-use-from-absolute-paths-in-nextjs-e1m)
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)
 - [Lifehacker] [How to Tell If You’re Being &#39;Quiet Fired&#39;](https://lifehacker.com/how-to-tell-if-you-re-being-quiet-fired-1849536863)
 - [Lifehacker] [Give Your Coleslaw the Wedge Salad Treatment](https://lifehacker.com/give-your-coleslaw-the-wedge-salad-treatment-1849536527)
-- [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
-- [Lifehacker] [How to Adjust Paint If It’s Just a Shade Off](https://lifehacker.com/how-to-adjust-paint-if-it-s-just-a-shade-off-1849534891)
-- [Lifehacker] [Editing Your iMessages Won’t Make Your Mistakes Go Away](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Reduce Your Screen Time Without Apps, According to Reddit](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)<!-- TECH-POSTS:END -->
 
 ---
 
