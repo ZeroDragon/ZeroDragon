@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Import Excel into React](https://dev.to/bperez3237/import-excel-into-react-12h6)
 - [Dev.to/JS] [JavaScript: Async and Request](https://dev.to/rosiequ/javascript-async-and-request-4lke)
 - [Dev.to/JS] [Adding one centralised banner to a whole portfolio of websites via the power of &#39;the edge&#39;](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
 - [Dev.to/JS] [Link Slot Gacor 2022](https://dev.to/insideourheart/link-slot-gacor-2022-57if)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Use Snapchat on Your Computer](https://lifehacker.com/you-can-finally-use-snapchat-on-your-computer-1849540706)
 - [Lifehacker] [There&#39;s No Law Against Making Sausage Gravy With Italian Sausage](https://lifehacker.com/theres-no-law-against-making-sausage-gravy-with-italian-1849540884)
 - [Dev.to/JS] [¡Como utilizar javascript en Github Actions y hacer un cocktail!](https://dev.to/victorargento/como-utilizar-javascript-en-github-actions-y-hacer-un-cocktail-3pbn)
-- [Dev.to/JS] [Top 10 React Interview Question !](https://dev.to/devvsakib/top-10-react-interview-question--584n)
 - [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)
 - [Crazy Programmer] [Alan Kay Biography](https://www.thecrazyprogrammer.com/2022/09/alan-kay-biography.html)
 - [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)
