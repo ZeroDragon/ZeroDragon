@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Trust me, Redis really makes you app super fast.](https://dev.to/superdeveloper/trust-me-redis-really-makes-you-app-super-fast-3ohf)
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XVIII: Link Api to React](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xviii-link-api-to-react-3e13)
+- [Dev.to/JS] [useReducer &gt; useState](https://dev.to/damiensedgwick/usereducer-usestate-5922)
 - [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 19: Compilation Cache, Make the Compiler Faster](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-19-compilation-cache-make-the-compiler-faster-22ml)
 - [Dev.to/JS] [Three ways to iterate an array](https://dev.to/jolamemushaj/three-ways-to-iterate-an-array-340j)
 - [Dev.to/JS] [Programming chose me](https://dev.to/jjenus/programming-chose-me-4dd6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Switch between multiple Themes using plain CSS and vanilla Javascript](https://dev.to/go4webdev/switch-between-multiple-themes-using-plain-css-and-vanilla-javascript-4h1c)
 - [Dev.to/JS] [Practical Guide to Navigating Professional Relationships All Weeks Quiz Answers](https://dev.to/chase2learn/practical-guide-to-navigating-professional-relationships-all-weeks-quiz-answers-5b3h)
 - [Dev.to/JS] [Import and @use from absolute paths in Next.JS](https://dev.to/olaj/import-and-use-from-absolute-paths-in-nextjs-e1m)
-- [Dev.to/JS] [Can&#39;t install older versions of Node on Apple&#39;s M1 MacBook?](https://dev.to/abukavictor/cant-install-older-versions-of-node-on-apples-m1-macbook-48gd)
-- [Dev.to/JS] [DevOps &amp; its Benefits - in a simplified manner](https://dev.to/postwell45/devops-its-benefits-in-a-simplified-manner-4j42)
-- [Dev.to/JS] [Google actions recap](https://dev.to/dailydevtips1/google-actions-recap-1110)
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
