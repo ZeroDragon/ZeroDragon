@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fixing an annoying Whatsapp &quot;feature&quot;](https://dev.to/sarcxd/fixing-an-annoying-whatsapp-feature-3nlp)
 - [Dev.to/JS] [Cypress vs Selenium WebDriver Comparison by Example](https://dev.to/zhiminzhan/cypress-vs-selenium-webdriver-comparison-by-example-2ee4)
 - [Dev.to/JS] [How to build a blog app with MongoDB, NextJS, and Buildable](https://dev.to/buildable/how-to-build-a-blog-app-with-mongodb-nextjs-and-buildable-5484)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Import and Export Excel XLSX Using JavaScript](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-javascript-o3p)
 - [Dev.to/JS] [Tips to posting?](https://dev.to/gxelol/tips-to-posting-2d5c)
 - [Lifehacker] [How to Stop Your Pixel From Unlocking in Your Pocket](https://lifehacker.com/how-to-stop-your-pixel-from-unlocking-in-your-pocket-1849546190)
-- [Dev.to/JS] [A New Javascript Image Viewer Library from GrapeCity Documents](https://dev.to/grapecity/a-new-javascript-image-viewer-library-from-grapecity-documents-ii2)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2022](https://lifehacker.com/whats-new-on-disney-in-october-2022-1849546357)
 - [Lifehacker] [Five Signs That You&#39;re the Toxic One in a Relationship](https://lifehacker.com/five-signs-that-youre-the-toxic-one-in-a-relationship-1849546105)
 - [Lifehacker] [How Student Loan Forgiveness Will Affect Your Credit Score](https://lifehacker.com/how-student-loan-forgiveness-will-affect-your-credit-sc-1849545879)
