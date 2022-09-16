@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Async and Request](https://dev.to/rosiequ/javascript-async-and-request-4lke)
+- [Dev.to/JS] [Adding one centralised banner to a whole portfolio of websites via the power of &#39;the edge&#39;](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
 - [Dev.to/JS] [Link Slot Gacor 2022](https://dev.to/insideourheart/link-slot-gacor-2022-57if)
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
 - [Dev.to/JS] [Prueba](https://dev.to/jfortez/prueba-1787)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 React Interview Question !](https://dev.to/devvsakib/top-10-react-interview-question--584n)
 - [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)
 - [Crazy Programmer] [Alan Kay Biography](https://www.thecrazyprogrammer.com/2022/09/alan-kay-biography.html)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XVI: Create Server Requests](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xvi-create-server-requests-9ec)
-- [Dev.to/JS] [Map&lpar;&rpar;,Filter&lpar;&rpar;,reduce&lpar;&rpar; with important interview questions](https://dev.to/srishtikprasad/mapfilterreduce-with-important-interview-questions-1ae5)
 - [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)
 - [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
 - [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
