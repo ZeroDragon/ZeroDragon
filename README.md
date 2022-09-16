@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The different levels of Scope with examples](https://dev.to/jordankeen20/the-different-levels-of-scope-with-examples-1346)
 - [Dev.to/JS] [15 Best Terminal Commands That You Should Know](https://dev.to/devsimc/15-best-terminal-commands-that-you-should-know-110g)
 - [Dev.to/JS] [A-Frame : Pac-Man XR Game Clone &amp; Overview](https://dev.to/mintycrisp/a-frame-pac-man-xr-game-clone-overview-20ba)
 - [Dev.to/JS] [Majority Element](https://dev.to/zeeshanali0704/majority-element-14bi)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Must-Have Chrome Extensions for Web Developers 🚀🌐](https://dev.to/naubit/10-must-have-chrome-extensions-for-web-developers-5dih)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
 - [Dev.to/JS] [3 Easy Ways to Generate HTML with JavaScript](https://dev.to/dcodeyt/3-easy-ways-to-generate-html-with-javascript-3b1j)
-- [Dev.to/JS] [Installing Angular CLI Locally &amp; Globally](https://dev.to/xenxei46/installing-angular-cli-locally-globally-3lei)
 - [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)
 - [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)
 - [Lifehacker] [12 Outdated Fashion Rules You Don&#39;t Need to Follow Anymore](https://lifehacker.com/12-outdated-fashion-rules-you-dont-need-to-follow-anymo-1849540257)
