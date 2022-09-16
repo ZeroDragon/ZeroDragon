@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Benefits of Using a JavaScript Pivot Table in Your Web Application](https://dev.to/chelseadevereaux/the-benefits-of-using-a-javascript-pivot-table-in-your-web-application-jf1)
+- [Dev.to/JS] [Angular Addicts Issue #1: Nx Conf, Dev Survey &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-1-nx-conf-dev-survey-more-2gp5)
+- [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
+- [Dev.to/JS] [The 11 best online courses to supercharge your JavaScript skills](https://dev.to/educative/the-11-best-online-courses-to-supercharge-your-javascript-skills-3oli)
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XIX: The Concept Behind File Manager Toolbars](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xix-the-concept-behind-file-manager-toolbars-4bba)
+- [Dev.to/JS] [Hello everyone](https://dev.to/umerprogramm/hello-everyone-57il)
+- [Dev.to/JS] [The Rising Coder - Week 3/13 &lpar;Fundamentals Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-313-fundamentals-week-23-5hjg)
+- [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
 - [Dev.to/JS] [How to Add Search Autocomplete Functionality to Your React Application](https://dev.to/grapecity/how-to-add-search-autocomplete-functionality-to-your-react-application-5p3)
 - [Lifehacker] [Here&#39;s Which Coatings You Really Need on a New Pair of Glasses](https://lifehacker.com/heres-which-coatings-you-really-need-on-a-new-pair-of-g-1849546372)
 - [Dev.to/JS] [How to Import and Export Excel XLSX Using JavaScript](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-javascript-o3p)
@@ -32,15 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use a Javascript Reporting Tool With the Gatsby Web Framework](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-with-the-gatsby-web-framework-44kj)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2022](https://lifehacker.com/whats-new-on-disney-in-october-2022-1849546357)
 - [Dev.to/JS] [Updates from the 92nd TC39 meeting](https://dev.to/hemanth/updates-from-the-92nd-tc39-meeting-5fi6)
-- [Dev.to/JS] [Expo SDK and native module](https://dev.to/ampersd/expo-sdk-and-native-module-4f7m)
 - [Lifehacker] [Five Signs That You&#39;re the Toxic One in a Relationship](https://lifehacker.com/five-signs-that-youre-the-toxic-one-in-a-relationship-1849546105)
-- [Dev.to/JS] [APIs For Beginners &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/apis-for-beginners-with-examples-3amg)
 - [Lifehacker] [How Student Loan Forgiveness Will Affect Your Credit Score](https://lifehacker.com/how-student-loan-forgiveness-will-affect-your-credit-sc-1849545879)
-- [Dev.to/JS] [Comparing React Component Libraries](https://dev.to/honeybadger/comparing-react-component-libraries-d19)
-- [Dev.to/JS] [VSCode snippet: React Reducer](https://dev.to/manuartero/vscode-snippet-react-reducer-1ija)
 - [Lifehacker] [How Often Do You Really Need to Wash Your Hair?](https://lifehacker.com/how-often-do-you-really-need-to-wash-your-hair-1849545757)
-- [Dev.to/JS] [10 Free Resources to learn JavaScript](https://dev.to/rohitmore07/10-free-resources-to-learn-javascript-lgc)
-- [Dev.to/JS] [Using State and useEffect To Dynamically Render Data](https://dev.to/jakedapper/using-state-and-useeffect-to-dynamically-render-data-2f6j)
 - [Lifehacker] [22 Upcoming Movies With the Most Oscar Buzz This Year](https://lifehacker.com/22-upcoming-movies-with-the-most-oscar-buzz-this-year-1849541214)
 - [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
 - [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)
 - [Crazy Programmer] [Alan Kay Biography](https://www.thecrazyprogrammer.com/2022/09/alan-kay-biography.html)
 - [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)
-- [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
-- [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
-- [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)<!-- TECH-POSTS:END -->
 
 ---
 
