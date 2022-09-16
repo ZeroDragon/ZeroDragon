@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Import Excel into React](https://dev.to/bperez3237/import-excel-into-react-12h6)
+- [Dev.to/JS] [Import Xlsx into React](https://dev.to/bperez3237/import-excel-into-react-12h6)
 - [Dev.to/JS] [JavaScript: Async and Request](https://dev.to/rosiequ/javascript-async-and-request-4lke)
 - [Dev.to/JS] [Adding one centralised banner to a whole portfolio of websites via the power of &#39;the edge&#39;](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
 - [Dev.to/JS] [Link Slot Gacor 2022](https://dev.to/insideourheart/link-slot-gacor-2022-57if)
