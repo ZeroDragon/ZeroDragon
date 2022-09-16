@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [15 Best Terminal Commands That You Should Know](https://dev.to/devsimc/15-best-terminal-commands-that-you-should-know-110g)
+- [Dev.to/JS] [A-Frame : Pac-Man XR Game Clone &amp; Overview](https://dev.to/mintycrisp/a-frame-pac-man-xr-game-clone-overview-20ba)
+- [Dev.to/JS] [Majority Element](https://dev.to/zeeshanali0704/majority-element-14bi)
 - [Dev.to/JS] [AWS Cognito and IAM for Front-End Developers](https://dev.to/yaaooo/aws-cognito-and-iam-for-front-end-developers-29fc)
 - [Dev.to/JS] [Import Xlsx into React](https://dev.to/bperez3237/import-excel-into-react-12h6)
 - [Dev.to/JS] [JavaScript: Async and Request](https://dev.to/rosiequ/javascript-async-and-request-4lke)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Easy Ways to Generate HTML with JavaScript](https://dev.to/dcodeyt/3-easy-ways-to-generate-html-with-javascript-3b1j)
 - [Dev.to/JS] [Installing Angular CLI Locally &amp; Globally](https://dev.to/xenxei46/installing-angular-cli-locally-globally-3lei)
 - [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)
-- [Dev.to/JS] [Flat Iron Phase 2 Project - A Meta Analysis](https://dev.to/elliotmangini/flat-iron-phase-2-project-a-meta-analysis-93k)
 - [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)
-- [Dev.to/JS] [Copilot VS Codex](https://dev.to/riick97/copilot-vs-codex-1ecb)
 - [Lifehacker] [12 Outdated Fashion Rules You Don&#39;t Need to Follow Anymore](https://lifehacker.com/12-outdated-fashion-rules-you-dont-need-to-follow-anymo-1849540257)
-- [Dev.to/JS] [Dockerize Node.Js Application](https://dev.to/dulyaaa/dockerize-nodejs-application-20k2)
 - [Lifehacker] [You Can Finally Use Snapchat on Your Computer](https://lifehacker.com/you-can-finally-use-snapchat-on-your-computer-1849540706)
 - [Lifehacker] [There&#39;s No Law Against Making Sausage Gravy With Italian Sausage](https://lifehacker.com/theres-no-law-against-making-sausage-gravy-with-italian-1849540884)
 - [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)
