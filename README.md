@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Import and @use from absolute paths in Next.JS](https://dev.to/olaj/import-and-use-from-absolute-paths-in-nextjs-e1m)
+- [Dev.to/JS] [Can&#39;t install older versions of Node on Apple&#39;s M1 MacBook?](https://dev.to/abukavictor/cant-install-older-versions-of-node-on-apples-m1-macbook-48gd)
+- [Dev.to/JS] [Fluxactive Complete - Prostate Health Benefits, Pros, Cons, Scam Or Legit?](https://dev.to/fluxactivecomp8/fluxactive-complete-prostate-health-benefits-pros-cons-scam-or-legit-2abp)
+- [Dev.to/JS] [DevOps &amp; its Benefits - in a simplified manner](https://dev.to/postwell45/devops-its-benefits-in-a-simplified-manner-4j42)
 - [Dev.to/JS] [Google actions recap](https://dev.to/dailydevtips1/google-actions-recap-1110)
 - [Dev.to/JS] [The following prompt appears in the Apple app audit. How should we solve it?](https://dev.to/junny521222/the-following-prompt-appears-in-the-apple-app-audit-how-should-we-solve-it-2758)
 - [Dev.to/JS] [My dead project.](https://dev.to/tazim404/my-dead-project-275n)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [15 Best Terminal Commands That You Should Know](https://dev.to/devsimc/15-best-terminal-commands-that-you-should-know-110g)
 - [Dev.to/JS] [A-Frame : Pac-Man XR Game Clone &amp; Overview](https://dev.to/mintycrisp/a-frame-pac-man-xr-game-clone-overview-20ba)
 - [Dev.to/JS] [Majority Element](https://dev.to/zeeshanali0704/majority-element-14bi)
-- [Dev.to/JS] [AWS Cognito and IAM for Front-End Developers](https://dev.to/yaaooo/aws-cognito-and-iam-for-front-end-developers-29fc)
-- [Dev.to/JS] [Import Xlsx into React](https://dev.to/bperez3237/import-excel-into-react-12h6)
-- [Dev.to/JS] [JavaScript: Async and Request](https://dev.to/rosiequ/javascript-async-and-request-4lke)
-- [Dev.to/JS] [Adding one centralised banner to a whole portfolio of websites via the power of &#39;the edge&#39;](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
