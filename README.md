@@ -23,10 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Signs That You&#39;re the Toxic One in a Relationship](https://lifehacker.com/five-signs-that-youre-the-toxic-one-in-a-relationship-1849546105)
+- [Dev.to/JS] [APIs For Beginners &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/apis-for-beginners-with-examples-3amg)
+- [Lifehacker] [How Student Loan Forgiveness Will Affect Your Credit Score](https://lifehacker.com/how-student-loan-forgiveness-will-affect-your-credit-sc-1849545879)
+- [Dev.to/JS] [Comparing React Component Libraries](https://dev.to/honeybadger/comparing-react-component-libraries-d19)
 - [Dev.to/JS] [VSCode snippet: React Reducer](https://dev.to/manuartero/vscode-snippet-react-reducer-1ija)
 - [Lifehacker] [How Often Do You Really Need to Wash Your Hair?](https://lifehacker.com/how-often-do-you-really-need-to-wash-your-hair-1849545757)
 - [Dev.to/JS] [10 Free Resources to learn JavaScript](https://dev.to/rohitmore07/10-free-resources-to-learn-javascript-lgc)
 - [Dev.to/JS] [Using State and useEffect To Dynamically Render Data](https://dev.to/jakedapper/using-state-and-useeffect-to-dynamically-render-data-2f6j)
+- [Lifehacker] [22 Upcoming Movies With the Most Oscar Buzz This Year](https://lifehacker.com/22-upcoming-movies-with-the-most-oscar-buzz-this-year-1849541214)
 - [Dev.to/JS] [📌 Live - Diving into an NPM Package Vulnerability](https://dev.to/clarkio/live-diving-into-an-npm-package-vulnerability-54em)
 - [Dev.to/JS] [5 webdev tips you may want to know 🔥](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-an1)
 - [Dev.to/JS] [Sending data between Nodejs processes](https://dev.to/wwayne/sending-data-between-nodejs-processes-337c)
@@ -35,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Science for Hungry People](https://dev.to/rmion/science-for-hungry-people-1g87)
 - [Dev.to/JS] [A Complete Guide to Waves](https://dev.to/patilganesh1010/a-complete-guide-to-waves-bmb)
 - [Dev.to/JS] [AnyTrack | Made Backbone JS](https://dev.to/madewithjavascript/anytrack-made-backbone-js-5c5b)
-- [Dev.to/JS] [Type Training App with Code focus &lpar;Feedback Needed&rpar;](https://dev.to/busypeoples/type-training-app-with-code-focus-26pe)
 - [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)
-- [Dev.to/JS] [Please Don&#39;t &lpar;Manually&rpar; Parameterize Your SQL Queries](https://dev.to/newbie012/please-dont-manually-parameterize-your-sql-queries-3m7k)
 - [Lifehacker] [11 of the Best New Podcasts to Add to Your Queue](https://lifehacker.com/11-of-the-best-new-podcasts-to-add-to-your-queue-1849544924)
 - [Lifehacker] [You Deserve Some &#39;Bleisure&#39;](https://lifehacker.com/what-is-a-bleisure-and-how-can-you-take-one-1849544163)
 - [Lifehacker] [Six Cheap Ways to Make Your Living Room Look More Expensive](https://lifehacker.com/six-cheap-ways-to-make-your-living-room-look-more-expen-1849542525)
@@ -57,12 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
 - [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
 - [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)
-- [Lifehacker] [22 Upcoming Movies With the Most Oscar Buzz This Year](https://lifehacker.com/22-upcoming-movies-with-the-most-oscar-buzz-this-year-1849541214)
 - [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
-- [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)
-- [Lifehacker] [12 of the Dumbest Rituals and Traditions of the British Royal Family](https://lifehacker.com/12-of-the-dumbest-rituals-and-traditions-of-the-british-1849537242)
-- [Lifehacker] [Why You Shouldn&#39;t Trust the US News &#39;Best Colleges&#39; Rankings](https://lifehacker.com/why-you-shouldnt-trust-the-us-news-best-colleges-rankin-1849537224)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)<!-- TECH-POSTS:END -->
 
 ---
 
