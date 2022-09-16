@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
+- [Dev.to/JS] [How I learned React in one Week as a vue developer](https://dev.to/abdallahhamouda/how-i-learned-react-in-one-week-as-a-vue-developer-53n0)
+- [Dev.to/JS] [Science for Hungry People](https://dev.to/rmion/science-for-hungry-people-1g87)
+- [Dev.to/JS] [A Complete Guide to Waves](https://dev.to/patilganesh1010/a-complete-guide-to-waves-bmb)
+- [Dev.to/JS] [AnyTrack | Made Backbone JS](https://dev.to/madewithjavascript/anytrack-made-backbone-js-5c5b)
+- [Dev.to/JS] [Type Training App with Code focus &lpar;Feedback Needed&rpar;](https://dev.to/busypeoples/type-training-app-with-code-focus-26pe)
+- [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)
 - [Dev.to/JS] [Please Don&#39;t &lpar;Manually&rpar; Parameterize Your SQL Queries](https://dev.to/newbie012/please-dont-manually-parameterize-your-sql-queries-3m7k)
 - [Lifehacker] [11 of the Best New Podcasts to Add to Your Queue](https://lifehacker.com/11-of-the-best-new-podcasts-to-add-to-your-queue-1849544924)
 - [Dev.to/JS] [PHP | Regular Expressions](https://dev.to/nnekajenny/php-regular-expressions-35dh)
@@ -33,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Binary Search](https://dev.to/ankitdevelops/binary-search-5gcf)
 - [Dev.to/JS] [Code Smell 163 - Collection in Name](https://dev.to/mcsee/code-smell-163-collection-in-name-2gif)
 - [Lifehacker] [Six Cheap Ways to Make Your Living Room Look More Expensive](https://lifehacker.com/six-cheap-ways-to-make-your-living-room-look-more-expen-1849542525)
-- [Dev.to/JS] [Open Source Basics](https://dev.to/lostbutton/open-source-basics-3g5)
-- [Dev.to/JS] [Code Generator Neat Hack](https://dev.to/mbarzeev/code-generator-neat-hack-7hd)
 - [Lifehacker] [You Should Fry Your Cinnamon Toast](https://lifehacker.com/you-should-fry-your-cinnamon-toast-1849542344)
-- [Dev.to/JS] [Tailwind CSS Smooth Scroll Bottom to top Using JavaScript](https://dev.to/w3hubs/tailwind-css-smooth-scroll-bottom-to-top-using-javascript-1688)
-- [Dev.to/JS] [F.L.A.M.E.S](https://dev.to/thisissherlock1/flames-2434)
-- [Dev.to/JS] [Basics of For Loops: To For...in or For...of?](https://dev.to/emilyfernschild/basics-of-for-loops-to-forin-or-forof-1l83)
 - [Lifehacker] [These Recalled Starbucks Drinks May Contain Metal Fragments](https://lifehacker.com/these-recalled-starbucks-drinks-may-contain-metal-fragm-1849542691)
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Dumbest Rituals and Traditions of the British Royal Family](https://lifehacker.com/12-of-the-dumbest-rituals-and-traditions-of-the-british-1849537242)
 - [Lifehacker] [Why You Shouldn&#39;t Trust the US News &#39;Best Colleges&#39; Rankings](https://lifehacker.com/why-you-shouldnt-trust-the-us-news-best-colleges-rankin-1849537224)
 - [Lifehacker] [Stick a Towel in Your Dishwasher](https://lifehacker.com/stick-a-towel-in-your-dishwasher-1849536897)
-- [Lifehacker] [The Best Way to Organize a Family Calendar](https://lifehacker.com/the-best-way-to-organize-a-family-calendar-1849534173)
-- [Lifehacker] [Throw Away This HelloFresh Ground Beef, CDC Says](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
-- [Lifehacker] [Lock Down Your Kid’s iPhone With These New Parental Controls](https://lifehacker.com/lock-down-your-kid-s-iphone-with-these-new-parental-con-1849534487)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Organize a Family Calendar](https://lifehacker.com/the-best-way-to-organize-a-family-calendar-1849534173)<!-- TECH-POSTS:END -->
 
 ---
 
