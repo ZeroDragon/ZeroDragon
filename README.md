@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VSCode snippet: React Reducer](https://dev.to/manuartero/vscode-snippet-react-reducer-1ija)
+- [Lifehacker] [How Often Do You Really Need to Wash Your Hair?](https://lifehacker.com/how-often-do-you-really-need-to-wash-your-hair-1849545757)
+- [Dev.to/JS] [10 Free Resources to learn JavaScript](https://dev.to/rohitmore07/10-free-resources-to-learn-javascript-lgc)
+- [Dev.to/JS] [Using State and useEffect To Dynamically Render Data](https://dev.to/jakedapper/using-state-and-useeffect-to-dynamically-render-data-2f6j)
+- [Dev.to/JS] [📌 Live - Diving into an NPM Package Vulnerability](https://dev.to/clarkio/live-diving-into-an-npm-package-vulnerability-54em)
+- [Dev.to/JS] [5 webdev tips you may want to know 🔥](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-an1)
+- [Dev.to/JS] [Sending data between Nodejs processes](https://dev.to/wwayne/sending-data-between-nodejs-processes-337c)
 - [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
 - [Dev.to/JS] [How I learned React in one Week as a vue developer](https://dev.to/abdallahhamouda/how-i-learned-react-in-one-week-as-a-vue-developer-53n0)
 - [Dev.to/JS] [Science for Hungry People](https://dev.to/rmion/science-for-hungry-people-1g87)
@@ -32,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)
 - [Dev.to/JS] [Please Don&#39;t &lpar;Manually&rpar; Parameterize Your SQL Queries](https://dev.to/newbie012/please-dont-manually-parameterize-your-sql-queries-3m7k)
 - [Lifehacker] [11 of the Best New Podcasts to Add to Your Queue](https://lifehacker.com/11-of-the-best-new-podcasts-to-add-to-your-queue-1849544924)
-- [Dev.to/JS] [PHP | Regular Expressions](https://dev.to/nnekajenny/php-regular-expressions-35dh)
-- [Dev.to/JS] [A Simple Crude Application Function With MYSQL and PHP.](https://dev.to/nnekajenny/a-simple-crude-application-function-with-mysql-and-php-24b4)
 - [Lifehacker] [You Deserve Some &#39;Bleisure&#39;](https://lifehacker.com/what-is-a-bleisure-and-how-can-you-take-one-1849544163)
-- [Dev.to/JS] [Temporary Chat Project](https://dev.to/itsfuad/temporary-chat-project-5ag2)
-- [Dev.to/JS] [Unit testing map functions with Jest](https://dev.to/jsalli/unit-testing-map-functions-with-jest-3no5)
-- [Dev.to/JS] [Binary Search](https://dev.to/ankitdevelops/binary-search-5gcf)
-- [Dev.to/JS] [Code Smell 163 - Collection in Name](https://dev.to/mcsee/code-smell-163-collection-in-name-2gif)
 - [Lifehacker] [Six Cheap Ways to Make Your Living Room Look More Expensive](https://lifehacker.com/six-cheap-ways-to-make-your-living-room-look-more-expen-1849542525)
 - [Lifehacker] [You Should Fry Your Cinnamon Toast](https://lifehacker.com/you-should-fry-your-cinnamon-toast-1849542344)
 - [Lifehacker] [These Recalled Starbucks Drinks May Contain Metal Fragments](https://lifehacker.com/these-recalled-starbucks-drinks-may-contain-metal-fragm-1849542691)
@@ -56,13 +57,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
 - [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
 - [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)
+- [Lifehacker] [22 Upcoming Movies With the Most Oscar Buzz This Year](https://lifehacker.com/22-upcoming-movies-with-the-most-oscar-buzz-this-year-1849541214)
 - [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
 - [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)
 - [Lifehacker] [12 of the Dumbest Rituals and Traditions of the British Royal Family](https://lifehacker.com/12-of-the-dumbest-rituals-and-traditions-of-the-british-1849537242)
-- [Lifehacker] [Why You Shouldn&#39;t Trust the US News &#39;Best Colleges&#39; Rankings](https://lifehacker.com/why-you-shouldnt-trust-the-us-news-best-colleges-rankin-1849537224)
-- [Lifehacker] [Stick a Towel in Your Dishwasher](https://lifehacker.com/stick-a-towel-in-your-dishwasher-1849536897)
-- [Lifehacker] [The Best Way to Organize a Family Calendar](https://lifehacker.com/the-best-way-to-organize-a-family-calendar-1849534173)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn&#39;t Trust the US News &#39;Best Colleges&#39; Rankings](https://lifehacker.com/why-you-shouldnt-trust-the-us-news-best-colleges-rankin-1849537224)<!-- TECH-POSTS:END -->
 
 ---
 
