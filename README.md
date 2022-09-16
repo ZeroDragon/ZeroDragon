@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Your Pixel From Unlocking in Your Pocket](https://lifehacker.com/how-to-stop-your-pixel-from-unlocking-in-your-pocket-1849546190)
+- [Dev.to/JS] [A New Javascript Image Viewer Library from GrapeCity Documents](https://dev.to/grapecity/a-new-javascript-image-viewer-library-from-grapecity-documents-ii2)
+- [Dev.to/JS] [How to Use a Javascript Reporting Tool With the Gatsby Web Framework](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-with-the-gatsby-web-framework-44kj)
+- [Lifehacker] [What&#39;s New on Disney+ in October 2022](https://lifehacker.com/whats-new-on-disney-in-october-2022-1849546357)
+- [Dev.to/JS] [Updates from the 92nd TC39 meeting](https://dev.to/hemanth/updates-from-the-92nd-tc39-meeting-5fi6)
+- [Dev.to/JS] [Expo SDK and native module](https://dev.to/ampersd/expo-sdk-and-native-module-4f7m)
 - [Lifehacker] [Five Signs That You&#39;re the Toxic One in a Relationship](https://lifehacker.com/five-signs-that-youre-the-toxic-one-in-a-relationship-1849546105)
 - [Dev.to/JS] [APIs For Beginners &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/apis-for-beginners-with-examples-3amg)
 - [Lifehacker] [How Student Loan Forgiveness Will Affect Your Credit Score](https://lifehacker.com/how-student-loan-forgiveness-will-affect-your-credit-sc-1849545879)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 webdev tips you may want to know 🔥](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-an1)
 - [Dev.to/JS] [Sending data between Nodejs processes](https://dev.to/wwayne/sending-data-between-nodejs-processes-337c)
 - [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
-- [Dev.to/JS] [How I learned React in one Week as a vue developer](https://dev.to/abdallahhamouda/how-i-learned-react-in-one-week-as-a-vue-developer-53n0)
-- [Dev.to/JS] [Science for Hungry People](https://dev.to/rmion/science-for-hungry-people-1g87)
-- [Dev.to/JS] [A Complete Guide to Waves](https://dev.to/patilganesh1010/a-complete-guide-to-waves-bmb)
-- [Dev.to/JS] [AnyTrack | Made Backbone JS](https://dev.to/madewithjavascript/anytrack-made-backbone-js-5c5b)
 - [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)
 - [Lifehacker] [11 of the Best New Podcasts to Add to Your Queue](https://lifehacker.com/11-of-the-best-new-podcasts-to-add-to-your-queue-1849544924)
 - [Lifehacker] [You Deserve Some &#39;Bleisure&#39;](https://lifehacker.com/what-is-a-bleisure-and-how-can-you-take-one-1849544163)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
 - [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
 - [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)
-- [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
-- [Lifehacker] [You Should Be Filtering Your iMessages](https://lifehacker.com/you-should-be-filtering-your-imessages-1849538450)
-- [Lifehacker] [How to Tell If You Have Pandemic-Related PTSD](https://lifehacker.com/how-to-tell-if-you-have-pandemic-related-ptsd-1849537917)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)<!-- TECH-POSTS:END -->
 
 ---
 
