@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Search Autocomplete Functionality to Your React Application](https://dev.to/grapecity/how-to-add-search-autocomplete-functionality-to-your-react-application-5p3)
+- [Lifehacker] [Here&#39;s Which Coatings You Really Need on a New Pair of Glasses](https://lifehacker.com/heres-which-coatings-you-really-need-on-a-new-pair-of-g-1849546372)
+- [Dev.to/JS] [How to Import and Export Excel XLSX Using JavaScript](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-javascript-o3p)
+- [Dev.to/JS] [Tips to posting?](https://dev.to/gxelol/tips-to-posting-2d5c)
 - [Lifehacker] [How to Stop Your Pixel From Unlocking in Your Pocket](https://lifehacker.com/how-to-stop-your-pixel-from-unlocking-in-your-pocket-1849546190)
 - [Dev.to/JS] [A New Javascript Image Viewer Library from GrapeCity Documents](https://dev.to/grapecity/a-new-javascript-image-viewer-library-from-grapecity-documents-ii2)
 - [Dev.to/JS] [How to Use a Javascript Reporting Tool With the Gatsby Web Framework](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-with-the-gatsby-web-framework-44kj)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Free Resources to learn JavaScript](https://dev.to/rohitmore07/10-free-resources-to-learn-javascript-lgc)
 - [Dev.to/JS] [Using State and useEffect To Dynamically Render Data](https://dev.to/jakedapper/using-state-and-useeffect-to-dynamically-render-data-2f6j)
 - [Lifehacker] [22 Upcoming Movies With the Most Oscar Buzz This Year](https://lifehacker.com/22-upcoming-movies-with-the-most-oscar-buzz-this-year-1849541214)
-- [Dev.to/JS] [📌 Live - Diving into an NPM Package Vulnerability](https://dev.to/clarkio/live-diving-into-an-npm-package-vulnerability-54em)
-- [Dev.to/JS] [5 webdev tips you may want to know 🔥](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-an1)
-- [Dev.to/JS] [Sending data between Nodejs processes](https://dev.to/wwayne/sending-data-between-nodejs-processes-337c)
 - [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
 - [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)
 - [Lifehacker] [11 of the Best New Podcasts to Add to Your Queue](https://lifehacker.com/11-of-the-best-new-podcasts-to-add-to-your-queue-1849544924)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)
 - [Lifehacker] [How a New iPhone Feature Can Help You Digitally Catalog Your Wardrobe](https://lifehacker.com/how-a-new-iphone-feature-can-help-you-digitally-catalog-1849539705)
 - [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
-- [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)
-- [Lifehacker] [How to Stream NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Perfectly Prep Your Cake Pans](https://lifehacker.com/how-to-perfectly-prep-your-cake-pans-1849539463)<!-- TECH-POSTS:END -->
 
 ---
 
