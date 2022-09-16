@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google actions recap](https://dev.to/dailydevtips1/google-actions-recap-1110)
+- [Dev.to/JS] [The following prompt appears in the Apple app audit. How should we solve it?](https://dev.to/junny521222/the-following-prompt-appears-in-the-apple-app-audit-how-should-we-solve-it-2758)
+- [Dev.to/JS] [My dead project.](https://dev.to/tazim404/my-dead-project-275n)
 - [Dev.to/JS] [It’s 2022, Please Don’t Just Use “console.log” Anymore 😎](https://dev.to/ashishdonga/its-2022-please-dont-just-use-consolelog-anymore-2oel)
 - [Dev.to/JS] [The different levels of Scope with examples](https://dev.to/jordankeen20/the-different-levels-of-scope-with-examples-1346)
 - [Dev.to/JS] [15 Best Terminal Commands That You Should Know](https://dev.to/devsimc/15-best-terminal-commands-that-you-should-know-110g)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Import Xlsx into React](https://dev.to/bperez3237/import-excel-into-react-12h6)
 - [Dev.to/JS] [JavaScript: Async and Request](https://dev.to/rosiequ/javascript-async-and-request-4lke)
 - [Dev.to/JS] [Adding one centralised banner to a whole portfolio of websites via the power of &#39;the edge&#39;](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
-- [Dev.to/JS] [Link Slot Gacor 2022](https://dev.to/insideourheart/link-slot-gacor-2022-57if)
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
-- [Dev.to/JS] [Prueba](https://dev.to/jfortez/prueba-1787)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
-- [Dev.to/JS] [10 Must-Have Chrome Extensions for Web Developers 🚀🌐](https://dev.to/naubit/10-must-have-chrome-extensions-for-web-developers-5dih)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
 - [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)
 - [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)
