@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drum Kit - JavaScript project for begginers](https://dev.to/shinjithdev/drum-kit-javascript-project-for-begginers-2moh)
+- [Lifehacker] [The Best Week of the Year to Buy a New House](https://lifehacker.com/the-best-week-of-the-year-to-buy-a-new-house-1849547038)
+- [Dev.to/JS] [💁‍♂️ Built a Dev.to replica with The MERN stack and more](https://dev.to/marodevv/built-a-devto-replica-with-the-mern-stack-and-more-fbd)
+- [Dev.to/JS] [The Git Commands I Use Every Day](https://dev.to/wadecodez/the-git-commands-i-use-every-day-5g17)
+- [Dev.to/JS] [Stacking elements](https://dev.to/sarmunbustillo/stacking-elements-180l)
+- [Dev.to/JS] [Building Angular logger in a scalable way](https://dev.to/crush20/building-angular-logger-in-a-scalable-way-56h4)
 - [Dev.to/JS] [Why our websites are slow — Importance of bundle size](https://dev.to/shreyvijayvargiya/why-our-websites-are-slow-importance-of-bundle-size-1le4)
 - [Dev.to/JS] [Highlight | Made with Gatsby JS](https://dev.to/madewithjavascript/highlight-made-with-gatsby-js-5alf)
 - [Dev.to/JS] [Test Post](https://dev.to/geekreflex/test-post-56me)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Most useful Font for JavaScript](https://dev.to/decker67/most-useful-font-for-javascript-7j1)
 - [Dev.to/JS] [Typescript Commands #Quick Notes.](https://dev.to/ajaybaraiya6/typescript-commands-quick-notes-3k9)
 - [Dev.to/JS] [About Me](https://dev.to/ananfito/about-me-167i)
-- [Dev.to/JS] [Getting Started with React](https://dev.to/mercy_oyelude/getting-started-with-react-377i)
-- [Dev.to/JS] [SonoVive - Hearing Support Formula, Pros, Cons, Scam Or Legit?](https://dev.to/sonovivefact/sonovive-hearing-support-formula-pros-cons-scam-or-legit-46pf)
-- [Dev.to/JS] [Async and Await #JS mordern concept.](https://dev.to/ajaybaraiya6/async-and-await-js-mordern-concept-5h6h)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;17-09-2022&rpar; - Doppelgängers](https://dev.to/mjgs/this-weeks-newsletter-is-out-17-09-2022-doppelgangers-191b)
-- [Dev.to/JS] [What is OpenRAN?](https://dev.to/umeshtharukaofficial/what-is-openran-550i)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Use Snapchat on Your Computer](https://lifehacker.com/you-can-finally-use-snapchat-on-your-computer-1849540706)
 - [Lifehacker] [There&#39;s No Law Against Making Sausage Gravy With Italian Sausage](https://lifehacker.com/theres-no-law-against-making-sausage-gravy-with-italian-1849540884)
 - [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)
-- [Crazy Programmer] [Alan Kay Biography](https://www.thecrazyprogrammer.com/2022/09/alan-kay-biography.html)
-- [Lifehacker] [A Beginner&#39;s Guide to Hiring a Housecleaner](https://lifehacker.com/a-beginners-guide-to-hiring-a-housecleaner-1849539839)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Alan Kay Biography](https://www.thecrazyprogrammer.com/2022/09/alan-kay-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
