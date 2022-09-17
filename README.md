@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BackEnd Web Development 2023 Technique](https://dev.to/harryjohn222/backend-web-development-2023-technique-4nf4)
+- [Dev.to/JS] [How to execute Cypress test cases in WebKit?](https://dev.to/kailashpathak7/how-to-execute-cypress-test-cases-in-webkit-2ap)
+- [Dev.to/JS] [Trying out a medusa webshop](https://dev.to/dailydevtips1/trying-out-a-medusa-webshop-37bl)
 - [Dev.to/JS] [Polyfill in javaScript map&lpar;&rpar;,filter&lpar;&rpar;,reduce&lpar;&rpar;](https://dev.to/srishtikprasad/polyfill-in-javascript-mapfilterreduce-2d38)
 - [Dev.to/JS] [Event Loops Immediate Calls #JS Quick Notes.](https://dev.to/ajaybaraiya6/event-loops-immediate-calls-js-quick-notes-598p)
 - [Dev.to/JS] [JavaScript: Class](https://dev.to/rosiequ/javascript-class-aof)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DSP 909- Open-Source Lab1](https://dev.to/anshul137/dsp-909-open-source-lab1-1e2o)
 - [Dev.to/JS] [How to handle a Sequelize promise within a for loop?](https://dev.to/constmedic/how-to-handle-a-sequelize-promise-within-a-for-loop-4h4l)
 - [Dev.to/JS] [How to Run Web Dev Project Online on a Server with VSCode?](https://dev.to/coder58/how-to-run-web-dev-project-online-on-a-server-with-vscode-gfk)
-- [Dev.to/JS] [Project: Static Site Generator](https://dev.to/cychu42/project-static-site-generator-9l6)
-- [Dev.to/JS] [Dspyt AI : Uniswap Portfolio Tracker](https://dev.to/pfedprog/dspyt-ai-uniswap-portfolio-tracker-43hh)
-- [Dev.to/JS] [The Experience Of Debugging A Project](https://dev.to/cychu42/the-experience-of-debugging-a-project-6f7)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
