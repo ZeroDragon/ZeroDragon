@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Function Default Argument](https://dev.to/drprime01/javascript-function-default-argument-jg6)
 - [Dev.to/JS] [Alexsio274 limited](https://dev.to/alexsio_nau_17e8d9caafce5/alexsio274-limited-1fog)
 - [Dev.to/JS] [DSP 909- Open-Source Lab1](https://dev.to/anshul137/dsp-909-open-source-lab1-1e2o)
 - [Dev.to/JS] [How to handle a Sequelize promise within a for loop?](https://dev.to/constmedic/how-to-handle-a-sequelize-promise-within-a-for-loop-4h4l)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build a blog app with MongoDB, NextJS, and Buildable](https://dev.to/buildable/how-to-build-a-blog-app-with-mongodb-nextjs-and-buildable-5484)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Dev.to/JS] [The Benefits of Using a JavaScript Pivot Table in Your Web Application](https://dev.to/chelseadevereaux/the-benefits-of-using-a-javascript-pivot-table-in-your-web-application-jf1)
-- [Dev.to/JS] [Angular Addicts Issue #1: Nx Conf, Dev Survey &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-1-nx-conf-dev-survey-more-2gp5)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
 - [Lifehacker] [Here&#39;s Which Coatings You Really Need on a New Pair of Glasses](https://lifehacker.com/heres-which-coatings-you-really-need-on-a-new-pair-of-g-1849546372)
