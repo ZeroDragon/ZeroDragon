@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Polyfill in javaScript map&lpar;&rpar;,filter&lpar;&rpar;,reduce&lpar;&rpar;](https://dev.to/srishtikprasad/polyfill-in-javascript-mapfilterreduce-2d38)
+- [Dev.to/JS] [Event Loops Immediate Calls #JS Quick Notes.](https://dev.to/ajaybaraiya6/event-loops-immediate-calls-js-quick-notes-598p)
+- [Dev.to/JS] [JavaScript: Class](https://dev.to/rosiequ/javascript-class-aof)
+- [Dev.to/JS] [Loop functions in synchronous way #React Quick Notes.](https://dev.to/ajaybaraiya6/loop-functions-in-synchronous-way-react-quick-notes-gbh)
 - [Dev.to/JS] [JavaScript Function Default Argument](https://dev.to/drprime01/javascript-function-default-argument-jg6)
 - [Dev.to/JS] [Alexsio274 limited](https://dev.to/alexsio_nau_17e8d9caafce5/alexsio274-limited-1fog)
 - [Dev.to/JS] [DSP 909- Open-Source Lab1](https://dev.to/anshul137/dsp-909-open-source-lab1-1e2o)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project: Static Site Generator](https://dev.to/cychu42/project-static-site-generator-9l6)
 - [Dev.to/JS] [Dspyt AI : Uniswap Portfolio Tracker](https://dev.to/pfedprog/dspyt-ai-uniswap-portfolio-tracker-43hh)
 - [Dev.to/JS] [The Experience Of Debugging A Project](https://dev.to/cychu42/the-experience-of-debugging-a-project-6f7)
-- [Dev.to/JS] [Fixing an annoying Whatsapp &quot;feature&quot;](https://dev.to/sarcxd/fixing-an-annoying-whatsapp-feature-3nlp)
-- [Dev.to/JS] [Cypress vs Selenium WebDriver Comparison by Example](https://dev.to/zhiminzhan/cypress-vs-selenium-webdriver-comparison-by-example-2ee4)
-- [Dev.to/JS] [How to build a blog app with MongoDB, NextJS, and Buildable](https://dev.to/buildable/how-to-build-a-blog-app-with-mongodb-nextjs-and-buildable-5484)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
-- [Dev.to/JS] [The Benefits of Using a JavaScript Pivot Table in Your Web Application](https://dev.to/chelseadevereaux/the-benefits-of-using-a-javascript-pivot-table-in-your-web-application-jf1)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
 - [Lifehacker] [Here&#39;s Which Coatings You Really Need on a New Pair of Glasses](https://lifehacker.com/heres-which-coatings-you-really-need-on-a-new-pair-of-g-1849546372)
