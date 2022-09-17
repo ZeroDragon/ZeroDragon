@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scroll Animation con Vanilla JS e CSS](https://dev.to/giandomenicopagliara/scroll-animation-con-vanilla-js-e-css-ple)
+- [Dev.to/JS] [Building Your First Single-Page Application in Vue](https://dev.to/tahazsh/building-your-first-single-page-application-in-vue-3a53)
+- [Dev.to/JS] [Final Value of Variable After Performing Operations](https://dev.to/yajindragautam/final-value-of-variable-after-performing-operations-412n)
 - [Dev.to/JS] [Drum Kit - JavaScript project for begginers](https://dev.to/shinjithdev/drum-kit-javascript-project-for-begginers-2moh)
 - [Lifehacker] [The Best Week of the Year to Buy a New House](https://lifehacker.com/the-best-week-of-the-year-to-buy-a-new-house-1849547038)
 - [Dev.to/JS] [💁‍♂️ Built a Dev.to replica with The MERN stack and more](https://dev.to/marodevv/built-a-devto-replica-with-the-mern-stack-and-more-fbd)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Highlight | Made with Gatsby JS](https://dev.to/madewithjavascript/highlight-made-with-gatsby-js-5alf)
 - [Dev.to/JS] [Test Post](https://dev.to/geekreflex/test-post-56me)
 - [Dev.to/JS] [Remove Null Values From Array in JavaScript](https://dev.to/gaelgthomas/remove-null-values-from-array-in-javascript-4g5a)
-- [Dev.to/JS] [Most useful Font for JavaScript](https://dev.to/decker67/most-useful-font-for-javascript-7j1)
-- [Dev.to/JS] [Typescript Commands #Quick Notes.](https://dev.to/ajaybaraiya6/typescript-commands-quick-notes-3k9)
-- [Dev.to/JS] [About Me](https://dev.to/ananfito/about-me-167i)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
