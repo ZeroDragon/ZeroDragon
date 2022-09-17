@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Every Dev should understand Big O!](https://dev.to/naubit/every-dev-should-understand-big-o-261l)
+- [Dev.to/JS] [Explain how lists work in React?](https://dev.to/mrayyan/explain-how-lists-work-in-react-3hh3)
+- [Dev.to/JS] [Animating React App in Less than a Minute](https://dev.to/ranjan/animating-react-app-in-less-than-a-minute-43p6)
+- [Dev.to/JS] [Showing a modal dialog with useImperativeHandle&lpar;&rpar; React hook](https://dev.to/koistya/showing-a-modal-dialog-useimperativehandle-react-hook-2cb)
+- [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
 - [Dev.to/JS] [Exploring the Coinbase API From a Web2 Starting Point](https://dev.to/johnjvester/exploring-the-coinbase-api-from-a-web2-starting-point-1a14)
 - [Dev.to/JS] [React | Fetch Data with useEffect Hook](https://dev.to/ahmetmeliksah/react-fetch-data-with-useeffect-hook-505p)
 - [Dev.to/JS] [Scroll Animation con Vanilla JS e CSS](https://dev.to/giandomenicopagliara/scroll-animation-con-vanilla-js-e-css-ple)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Week of the Year to Buy a New House](https://lifehacker.com/the-best-week-of-the-year-to-buy-a-new-house-1849547038)
 - [Dev.to/JS] [💁‍♂️ Built a Dev.to replica with The MERN stack and more](https://dev.to/marodevv/built-a-devto-replica-with-the-mern-stack-and-more-fbd)
 - [Dev.to/JS] [The Git Commands I Use Every Day](https://dev.to/wadecodez/the-git-commands-i-use-every-day-5g17)
-- [Dev.to/JS] [Stacking elements](https://dev.to/sarmunbustillo/stacking-elements-180l)
-- [Dev.to/JS] [Building Angular logger in a scalable way](https://dev.to/crush20/building-angular-logger-in-a-scalable-way-56h4)
-- [Dev.to/JS] [Why our websites are slow — Importance of bundle size](https://dev.to/shreyvijayvargiya/why-our-websites-are-slow-importance-of-bundle-size-1le4)
-- [Dev.to/JS] [Highlight | Made with Gatsby JS](https://dev.to/madewithjavascript/highlight-made-with-gatsby-js-5alf)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Outdated Fashion Rules You Don&#39;t Need to Follow Anymore](https://lifehacker.com/12-outdated-fashion-rules-you-dont-need-to-follow-anymo-1849540257)
 - [Lifehacker] [You Can Finally Use Snapchat on Your Computer](https://lifehacker.com/you-can-finally-use-snapchat-on-your-computer-1849540706)
 - [Lifehacker] [There&#39;s No Law Against Making Sausage Gravy With Italian Sausage](https://lifehacker.com/theres-no-law-against-making-sausage-gravy-with-italian-1849540884)
-- [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)
-- [Crazy Programmer] [Alan Kay Biography](https://www.thecrazyprogrammer.com/2022/09/alan-kay-biography.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)<!-- TECH-POSTS:END -->
 
 ---
 
