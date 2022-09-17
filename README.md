@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SonoVive - Hearing Support Formula, Pros, Cons, Scam Or Legit?](https://dev.to/sonovivefact/sonovive-hearing-support-formula-pros-cons-scam-or-legit-46pf)
+- [Dev.to/JS] [Async and Await #JS mordern concept.](https://dev.to/ajaybaraiya6/async-and-await-js-mordern-concept-5h6h)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;17-09-2022&rpar; - Doppelgängers](https://dev.to/mjgs/this-weeks-newsletter-is-out-17-09-2022-doppelgangers-191b)
+- [Dev.to/JS] [What is OpenRAN?](https://dev.to/umeshtharukaofficial/what-is-openran-550i)
 - [Dev.to/JS] [Fundamental Software Architectural Patterns](https://dev.to/umeshtharukaofficial/fundamental-software-architectural-patterns-79p)
 - [Dev.to/JS] [BackEnd Web Development 2023 Technique](https://dev.to/harryjohn222/backend-web-development-2023-technique-4nf4)
 - [Dev.to/JS] [How to execute Cypress test cases in WebKit?](https://dev.to/kailashpathak7/how-to-execute-cypress-test-cases-in-webkit-2ap)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event Loops Immediate Calls #JS Quick Notes.](https://dev.to/ajaybaraiya6/event-loops-immediate-calls-js-quick-notes-598p)
 - [Dev.to/JS] [JavaScript: Class](https://dev.to/rosiequ/javascript-class-aof)
 - [Dev.to/JS] [Loop functions in synchronous way #React Quick Notes.](https://dev.to/ajaybaraiya6/loop-functions-in-synchronous-way-react-quick-notes-gbh)
-- [Dev.to/JS] [JavaScript Function Default Argument](https://dev.to/drprime01/javascript-function-default-argument-jg6)
-- [Dev.to/JS] [Alexsio274 limited](https://dev.to/alexsio_nau_17e8d9caafce5/alexsio274-limited-1fog)
-- [Dev.to/JS] [DSP 909- Open-Source Lab1](https://dev.to/anshul137/dsp-909-open-source-lab1-1e2o)
-- [Dev.to/JS] [How to handle a Sequelize promise within a for loop?](https://dev.to/constmedic/how-to-handle-a-sequelize-promise-within-a-for-loop-4h4l)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
