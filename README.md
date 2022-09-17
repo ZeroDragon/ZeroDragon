@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Project: Static Site Generator](https://dev.to/cychu42/project-static-site-generator-9l6)
 - [Dev.to/JS] [Dspyt AI : Uniswap Portfolio Tracker](https://dev.to/pfedprog/dspyt-ai-uniswap-portfolio-tracker-43hh)
 - [Dev.to/JS] [The Experience Of Debugging A Project](https://dev.to/cychu42/the-experience-of-debugging-a-project-6f7)
 - [Dev.to/JS] [Fixing an annoying Whatsapp &quot;feature&quot;](https://dev.to/sarcxd/fixing-an-annoying-whatsapp-feature-3nlp)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello everyone](https://dev.to/umerprogramm/hello-everyone-57il)
 - [Dev.to/JS] [The Rising Coder - Week 3/13 &lpar;Fundamentals Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-313-fundamentals-week-23-5hjg)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
-- [Dev.to/JS] [How to Add Search Autocomplete Functionality to Your React Application](https://dev.to/grapecity/how-to-add-search-autocomplete-functionality-to-your-react-application-5p3)
 - [Lifehacker] [Here&#39;s Which Coatings You Really Need on a New Pair of Glasses](https://lifehacker.com/heres-which-coatings-you-really-need-on-a-new-pair-of-g-1849546372)
 - [Lifehacker] [How to Stop Your Pixel From Unlocking in Your Pocket](https://lifehacker.com/how-to-stop-your-pixel-from-unlocking-in-your-pocket-1849546190)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2022](https://lifehacker.com/whats-new-on-disney-in-october-2022-1849546357)
