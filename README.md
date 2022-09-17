@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring the Coinbase API From a Web2 Starting Point](https://dev.to/johnjvester/exploring-the-coinbase-api-from-a-web2-starting-point-1a14)
+- [Dev.to/JS] [React | Fetch Data with useEffect Hook](https://dev.to/ahmetmeliksah/react-fetch-data-with-useeffect-hook-505p)
 - [Dev.to/JS] [Scroll Animation con Vanilla JS e CSS](https://dev.to/giandomenicopagliara/scroll-animation-con-vanilla-js-e-css-ple)
 - [Dev.to/JS] [Building Your First Single-Page Application in Vue](https://dev.to/tahazsh/building-your-first-single-page-application-in-vue-3a53)
 - [Dev.to/JS] [Final Value of Variable After Performing Operations](https://dev.to/yajindragautam/final-value-of-variable-after-performing-operations-412n)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Angular logger in a scalable way](https://dev.to/crush20/building-angular-logger-in-a-scalable-way-56h4)
 - [Dev.to/JS] [Why our websites are slow — Importance of bundle size](https://dev.to/shreyvijayvargiya/why-our-websites-are-slow-importance-of-bundle-size-1le4)
 - [Dev.to/JS] [Highlight | Made with Gatsby JS](https://dev.to/madewithjavascript/highlight-made-with-gatsby-js-5alf)
-- [Dev.to/JS] [Test Post](https://dev.to/geekreflex/test-post-56me)
-- [Dev.to/JS] [Remove Null Values From Array in JavaScript](https://dev.to/gaelgthomas/remove-null-values-from-array-in-javascript-4g5a)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
