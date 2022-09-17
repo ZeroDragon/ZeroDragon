@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why our websites are slow — Importance of bundle size](https://dev.to/shreyvijayvargiya/why-our-websites-are-slow-importance-of-bundle-size-1le4)
+- [Dev.to/JS] [Highlight | Made with Gatsby JS](https://dev.to/madewithjavascript/highlight-made-with-gatsby-js-5alf)
 - [Dev.to/JS] [Test Post](https://dev.to/geekreflex/test-post-56me)
 - [Dev.to/JS] [Remove Null Values From Array in JavaScript](https://dev.to/gaelgthomas/remove-null-values-from-array-in-javascript-4g5a)
 - [Dev.to/JS] [Most useful Font for JavaScript](https://dev.to/decker67/most-useful-font-for-javascript-7j1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async and Await #JS mordern concept.](https://dev.to/ajaybaraiya6/async-and-await-js-mordern-concept-5h6h)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;17-09-2022&rpar; - Doppelgängers](https://dev.to/mjgs/this-weeks-newsletter-is-out-17-09-2022-doppelgangers-191b)
 - [Dev.to/JS] [What is OpenRAN?](https://dev.to/umeshtharukaofficial/what-is-openran-550i)
-- [Dev.to/JS] [Fundamental Software Architectural Patterns](https://dev.to/umeshtharukaofficial/fundamental-software-architectural-patterns-79p)
-- [Dev.to/JS] [BackEnd Web Development 2023 Technique](https://dev.to/harryjohn222/backend-web-development-2023-technique-4nf4)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
