@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Props and React State](https://dev.to/aradwan20/react-props-and-react-state-66g)
+- [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
+- [Dev.to/JS] [Elegant way to Calculate Mean and/or Mode](https://dev.to/istealersndev/elegant-way-to-calculate-mean-andor-mode-hjd)
+- [Dev.to/JS] [Build a weather app using JavaScript - step by step tutorial 🚀](https://dev.to/devjaiye/build-a-weather-app-using-javascript-step-by-step-tutorial-24hi)
+- [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
+- [Dev.to/JS] [React with firebase 9 - Blog app](https://dev.to/voranzov/react-with-firebase-9-blog-app-3i88)
 - [Dev.to/JS] [Every Dev should understand Big O!](https://dev.to/naubit/every-dev-should-understand-big-o-261l)
+- [Dev.to/JS] [Whatsapp Portfolio Website](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
 - [Dev.to/JS] [Explain how lists work in React?](https://dev.to/mrayyan/explain-how-lists-work-in-react-3hh3)
 - [Dev.to/JS] [Animating React App in Less than a Minute](https://dev.to/ranjan/animating-react-app-in-less-than-a-minute-43p6)
 - [Dev.to/JS] [Showing a modal dialog with useImperativeHandle&lpar;&rpar; React hook](https://dev.to/koistya/showing-a-modal-dialog-useimperativehandle-react-hook-2cb)
@@ -31,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Coinbase API From a Web2 Starting Point](https://dev.to/johnjvester/exploring-the-coinbase-api-from-a-web2-starting-point-1a14)
 - [Dev.to/JS] [React | Fetch Data with useEffect Hook](https://dev.to/ahmetmeliksah/react-fetch-data-with-useeffect-hook-505p)
 - [Dev.to/JS] [Scroll Animation con Vanilla JS e CSS](https://dev.to/giandomenicopagliara/scroll-animation-con-vanilla-js-e-css-ple)
-- [Dev.to/JS] [Building Your First Single-Page Application in Vue](https://dev.to/tahazsh/building-your-first-single-page-application-in-vue-3a53)
-- [Dev.to/JS] [Final Value of Variable After Performing Operations](https://dev.to/yajindragautam/final-value-of-variable-after-performing-operations-412n)
-- [Dev.to/JS] [Drum Kit - JavaScript project for begginers](https://dev.to/shinjithdev/drum-kit-javascript-project-for-begginers-2moh)
 - [Lifehacker] [The Best Week of the Year to Buy a New House](https://lifehacker.com/the-best-week-of-the-year-to-buy-a-new-house-1849547038)
-- [Dev.to/JS] [💁‍♂️ Built a Dev.to replica with The MERN stack and more](https://dev.to/marodevv/built-a-devto-replica-with-the-mern-stack-and-more-fbd)
-- [Dev.to/JS] [The Git Commands I Use Every Day](https://dev.to/wadecodez/the-git-commands-i-use-every-day-5g17)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)
 - [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)
 - [Lifehacker] [12 Outdated Fashion Rules You Don&#39;t Need to Follow Anymore](https://lifehacker.com/12-outdated-fashion-rules-you-dont-need-to-follow-anymo-1849540257)
-- [Lifehacker] [You Can Finally Use Snapchat on Your Computer](https://lifehacker.com/you-can-finally-use-snapchat-on-your-computer-1849540706)
-- [Lifehacker] [There&#39;s No Law Against Making Sausage Gravy With Italian Sausage](https://lifehacker.com/theres-no-law-against-making-sausage-gravy-with-italian-1849540884)
-- [Lifehacker] [How to Get Glasses or Contacts Without a Recent Prescription](https://lifehacker.com/how-to-get-glasses-or-contacts-without-a-recent-prescri-1849540084)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Use Snapchat on Your Computer](https://lifehacker.com/you-can-finally-use-snapchat-on-your-computer-1849540706)<!-- TECH-POSTS:END -->
 
 ---
 
