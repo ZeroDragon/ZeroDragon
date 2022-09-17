@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Factory Design Pattern in JavaScript](https://dev.to/shubhamdutta2000/factory-design-pattern-in-javascript-3ecj)
+- [Dev.to/JS] [Live broadcast](https://dev.to/zubair314/live-broadcast-1592)
 - [Dev.to/JS] [Yesterday I had a hell error](https://dev.to/gxelol/yesterday-i-had-a-hell-error-36bc)
 - [Dev.to/JS] [React Props and React State](https://dev.to/aradwan20/react-props-and-react-state-66g)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animating React App in Less than a Minute](https://dev.to/ranjan/animating-react-app-in-less-than-a-minute-43p6)
 - [Dev.to/JS] [Showing a modal dialog with useImperativeHandle&lpar;&rpar; React hook](https://dev.to/koistya/showing-a-modal-dialog-useimperativehandle-react-hook-2cb)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
-- [Dev.to/JS] [Exploring the Coinbase API From a Web2 Starting Point](https://dev.to/johnjvester/exploring-the-coinbase-api-from-a-web2-starting-point-1a14)
-- [Dev.to/JS] [React | Fetch Data with useEffect Hook](https://dev.to/ahmetmeliksah/react-fetch-data-with-useeffect-hook-505p)
 - [Lifehacker] [The Best Week of the Year to Buy a New House](https://lifehacker.com/the-best-week-of-the-year-to-buy-a-new-house-1849547038)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
