@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drag and drop in the React.js](https://dev.to/akhilpanchal/drag-and-drop-in-the-reactjs-1067)
 - [Dev.to/JS] [Escribiendo tests mas claros, simples y de amplio espectro con Table Driven Testing con jest](https://dev.to/dezkareid/escribiendo-tests-mas-claros-simples-y-de-amplio-espectro-con-table-driven-testing-con-jest-hnb)
 - [Dev.to/JS] [SEMrush Certification Exam Answers | SEMrush Exam Answers](https://dev.to/chase2learn/semrush-certification-exam-answers-semrush-exam-answers-196n)
 - [Dev.to/JS] [Factory Design Pattern in JavaScript](https://dev.to/shubhamdutta2000/factory-design-pattern-in-javascript-3ecj)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React with firebase 9 - Blog app](https://dev.to/voranzov/react-with-firebase-9-blog-app-3i88)
 - [Dev.to/JS] [Every Dev should understand Big O!](https://dev.to/naubit/every-dev-should-understand-big-o-261l)
 - [Dev.to/JS] [Whatsapp Portfolio Website](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
-- [Dev.to/JS] [Explain how lists work in React?](https://dev.to/mrayyan/explain-how-lists-work-in-react-3hh3)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
 - [Lifehacker] [The Best Week of the Year to Buy a New House](https://lifehacker.com/the-best-week-of-the-year-to-buy-a-new-house-1849547038)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
