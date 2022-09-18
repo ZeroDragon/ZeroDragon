@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [defineComponent vs &lt;script setup&gt;](https://dev.to/matijanovosel/definecomponent-vs-5104)
+- [Dev.to/JS] [¿Cómo pluralizar un string basado en el lenguaje en Javascript?](https://dev.to/matiasfha/como-pluralizar-un-string-basado-en-el-lenguaje-en-javascript-270j)
+- [Dev.to/JS] [Deleting an Item in an Array at a Specific Index](https://dev.to/smpnjn/deleting-an-item-in-an-array-at-a-specific-index-3mif)
+- [Dev.to/JS] [React - Hooks as Optional Parameters](https://dev.to/noriller/hooks-as-optional-parameters-5e26)
 - [Dev.to/JS] [Everything you need to know about Javascript Arrays](https://dev.to/smpnjn/everything-you-need-to-know-about-javascript-arrays-3po5)
 - [Dev.to/JS] [APIs](https://dev.to/conslatekoyo/apis-57ch)
 - [Dev.to/JS] [Nextjs and git](https://dev.to/vavilov2212/nextjs-and-git-d08)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Brincando Com A Função Reduce](https://dev.to/marcusxavierr/brincando-com-a-funcao-reduce-4kjl)
 - [Dev.to/JS] [Does DSA and code complexity really need to be included in Frontend interviews?](https://dev.to/ministryofjavascript/does-dsa-and-code-complexity-really-need-to-be-included-in-frontend-interviews-o54)
 - [Dev.to/JS] [How to Kill a Process Running on a Port](https://dev.to/smpnjn/how-to-kill-a-process-running-on-a-port-3pdf)
-- [Dev.to/JS] [The Difference between TypeScript Interfaces and Types](https://dev.to/smpnjn/the-difference-between-typescript-interfaces-and-types-2p02)
-- [Dev.to/JS] [Concatenating classes in TailwindCSS with TypeScript](https://dev.to/ztk37/concatenating-classes-in-tailwindcss-with-typescript-4bcj)
-- [Dev.to/JS] [How I manage my time](https://dev.to/sleeplessyogi/how-i-manage-my-time-361l)
-- [Dev.to/JS] [7 Things You Should Know About ReactJS Before You Use It](https://dev.to/sleeplessyogi/7-things-you-should-know-about-reactjs-before-you-use-it-57i9)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
