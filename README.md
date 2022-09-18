@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a CRUD JSON REST API with Express, Sequelize and MySQL](https://dev.to/jod35/build-a-crud-json-rest-api-with-express-sequelize-and-mysql-5ca2)
 - [Dev.to/JS] [Best Software For Make a Professional Flowchart.](https://dev.to/harryjohn222/best-software-for-make-a-professional-flowchart-5b3g)
 - [Dev.to/JS] [Difference Type of Console in JavaScript](https://dev.to/madhusudhan/difference-type-of-console-in-javascript-5707)
 - [Dev.to/JS] [Add QR code to React websites in 2 minutes 😎✨](https://dev.to/ruppysuppy/add-qr-code-to-react-websites-in-2-minutes-j05)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web/React Project Contest](https://dev.to/logify/webreact-project-contest-4be4)
 - [Dev.to/JS] [Reduzindo objetos para acesso de um nível [Javascript,Object]](https://dev.to/r9n/reduzindo-objetos-para-acesso-de-um-nivel-javascriptobject-4kf3)
 - [Dev.to/JS] [OSD600 - Siteit can turn your .txt files into .html](https://dev.to/tdaw/siteit-can-turn-your-txt-files-into-html-3119)
-- [Dev.to/JS] [Reindeer Olympics](https://dev.to/rmion/reindeer-olympics-2ka0)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
