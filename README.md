@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Yesterday I received my 100th rejection letter. What am I doing wrong?](https://dev.to/sadeedpv/yesterday-i-received-my-100th-rejection-letter-what-am-i-doing-wrong-3phb)
+- [Dev.to/JS] [Difference Between Dot &amp; Bracket Notation in JavaScript Object](https://dev.to/kowcher99/difference-between-dot-bracket-notation-in-javascript-object-4p81)
+- [Dev.to/JS] [Length of the Longest Alphabetical Continuous Substring](https://dev.to/zeeshanali0704/length-of-the-longest-alphabetical-continuous-substring-4fl5)
 - [Dev.to/JS] [Setting up the medusa server](https://dev.to/dailydevtips1/setting-up-the-medusa-server-4c8j)
 - [Dev.to/JS] [Write typesafe APIs with zodios](https://dev.to/ecyrbe/write-typesafe-apis-with-zodios-1el2)
 - [Dev.to/JS] [The TV Channel website template](https://dev.to/sokhavuth/the-tv-channel-website-template-21i2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add QR code to React websites in 2 minutes 😎✨](https://dev.to/ruppysuppy/add-qr-code-to-react-websites-in-2-minutes-j05)
 - [Dev.to/JS] [Number of Lines To Write String](https://dev.to/zeeshanali0704/number-of-lines-to-write-string-fmg)
 - [Dev.to/JS] [Javascript: IIFE - Immediately Invoked Function Expression](https://dev.to/urstrulyvishwak/javascript-iife-immediately-invoked-function-expression-3i2a)
-- [Dev.to/JS] [Why Firefox Deserves Its Sad Decline…](https://dev.to/umeshtharukaofficial/why-firefox-deserves-its-sad-decline-8nk)
-- [Dev.to/JS] [Angular - Logout when Token is expired](https://dev.to/tienbku/angular-logout-when-token-is-expired-4151)
-- [Dev.to/JS] [Features In Nodejs that you might have missed! 🪁](https://dev.to/renhiyama/features-in-nodejs-that-you-might-have-missed-mpc)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
