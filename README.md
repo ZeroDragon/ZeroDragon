@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reindeer Olympics](https://dev.to/rmion/reindeer-olympics-2ka0)
+- [Dev.to/JS] [Stop writing API functions](https://dev.to/saeedmosavat/stop-writing-api-functions-3693)
+- [Dev.to/JS] [hai myself is teddy , i am new here, i have a dobt while working on js, the webpage i created not working as i intended.](https://dev.to/tedzz12/hai-myself-is-teddy-i-am-new-here-i-have-a-dobt-while-working-on-js-the-webpage-i-created-not-working-as-i-intended-2cka)
+- [Dev.to/JS] [hai myself is teddy , i am new here, i have a dobt while working on js, the webpage i created not working as i intended.](https://dev.to/tedzz12/hai-myself-is-teddy-i-am-new-here-i-have-a-dobt-while-working-on-js-the-webpage-i-created-not-working-as-i-intended-19c1)
+- [Dev.to/JS] [[Recommend] Tips for technical interviews](https://dev.to/dashpy/recommend-tips-for-technical-interviews-1p5)
 - [Dev.to/JS] [Drag and drop in the React.js](https://dev.to/akhilpanchal/drag-and-drop-in-the-reactjs-1067)
 - [Dev.to/JS] [Escribiendo tests mas claros, simples y de amplio espectro con Table Driven Testing con jest](https://dev.to/dezkareid/escribiendo-tests-mas-claros-simples-y-de-amplio-espectro-con-table-driven-testing-con-jest-hnb)
 - [Dev.to/JS] [SEMrush Certification Exam Answers | SEMrush Exam Answers](https://dev.to/chase2learn/semrush-certification-exam-answers-semrush-exam-answers-196n)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Live broadcast](https://dev.to/zubair314/live-broadcast-1592)
 - [Dev.to/JS] [Yesterday I had a hell error](https://dev.to/gxelol/yesterday-i-had-a-hell-error-36bc)
 - [Dev.to/JS] [theme.js while using MUI in nextjs project](https://dev.to/cadentic/themejs-while-using-mui-in-nextjs-project-490a)
-- [Dev.to/JS] [React Props and React State](https://dev.to/aradwan20/react-props-and-react-state-66g)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
-- [Dev.to/JS] [Elegant way to Calculate Mean and/or Mode](https://dev.to/istealersndev/elegant-way-to-calculate-mean-andor-mode-hjd)
-- [Dev.to/JS] [Build a weather app using JavaScript - step by step tutorial 🚀](https://dev.to/devjaiye/build-a-weather-app-using-javascript-step-by-step-tutorial-24hi)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
-- [Dev.to/JS] [React with firebase 9 - Blog app](https://dev.to/voranzov/react-with-firebase-9-blog-app-3i88)
-- [Dev.to/JS] [Every Dev should understand Big O!](https://dev.to/naubit/every-dev-should-understand-big-o-261l)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
 - [Lifehacker] [The Best Week of the Year to Buy a New House](https://lifehacker.com/the-best-week-of-the-year-to-buy-a-new-house-1849547038)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
