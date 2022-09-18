@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web scraping Jogathon data with JavaScript](https://dev.to/asg5704/web-scraping-jogathon-data-with-javascript-5g1h)
+- [Dev.to/JS] [Three Tricks for Chrome DevTools to Find Logs More Easily](https://dev.to/perssondennis/three-tricks-for-chrome-devtools-to-find-logs-more-easily-27k8)
+- [Dev.to/JS] [How to Implement Drag and Drop in React](https://dev.to/franciscomendes10866/how-to-implement-drag-and-drop-in-react-3j8j)
+- [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Dev.to/JS] [Two things that make my Terminal experience awesome 🚀 in Mac](https://dev.to/shrihari/two-things-that-make-my-terminal-experience-awesome-in-mac-3eie)
 - [Dev.to/JS] [&quot;Copy to Clipboard&quot; functionality in plain JavaScript](https://dev.to/betterways/copy-to-clipboard-functionality-in-plain-javascript-8fk)
 - [Dev.to/JS] [Write faster Jest tests in VS Code with this extension](https://dev.to/egm0121/write-faster-jest-tests-in-vs-code-with-this-extension-1kej)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XXI: Create Directory In Server](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xxi-create-directory-in-server-5ejm)
 - [Dev.to/JS] [Merge TypeScript Enums](https://dev.to/afrazkhan/merge-typescript-enums-4mh7)
 - [Dev.to/JS] [Adobe Buys Figma: What Does this Mean for Web Standards?](https://dev.to/umeshtharukaofficial/adobe-buys-figma-what-does-this-mean-for-web-standards-2k7g)
-- [Dev.to/JS] [How to create a database for your project if your backend knowledge is poor](https://dev.to/mlichlundia/how-to-create-a-database-for-your-project-if-your-backend-knowledge-is-poor-55d0)
-- [Dev.to/JS] [Array to String Without Commas in JavaScript](https://dev.to/gaelgthomas/array-to-string-without-commas-in-javascript-4mg6)
-- [Dev.to/JS] [How to get the IP address of a client in Node.js](https://dev.to/sureshramani/how-to-get-the-ip-address-of-a-client-in-nodejs-3dj6)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
 - [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)
-- [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)
-- [Lifehacker] [12 Outdated Fashion Rules You Don&#39;t Need to Follow Anymore](https://lifehacker.com/12-outdated-fashion-rules-you-dont-need-to-follow-anymo-1849540257)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)<!-- TECH-POSTS:END -->
 
 ---
 
