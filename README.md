@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Two things that make my Terminal experience awesome 🚀 in Mac](https://dev.to/shrihari/two-things-that-make-my-terminal-experience-awesome-in-mac-3eie)
+- [Dev.to/JS] [&quot;Copy to Clipboard&quot; functionality in plain JavaScript](https://dev.to/betterways/copy-to-clipboard-functionality-in-plain-javascript-8fk)
+- [Dev.to/JS] [Write faster Jest tests in VS Code with this extension](https://dev.to/egm0121/write-faster-jest-tests-in-vs-code-with-this-extension-1kej)
 - [Dev.to/JS] [Solve 5 problems Based on Hoisting](https://dev.to/easyvipin/solve-5-problems-based-on-hoisting-4ip7)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
 - [Dev.to/JS] [Top Technology should learn in 2022](https://dev.to/shyammanek/top-technology-should-learn-in-2022-3bej)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a database for your project if your backend knowledge is poor](https://dev.to/mlichlundia/how-to-create-a-database-for-your-project-if-your-backend-knowledge-is-poor-55d0)
 - [Dev.to/JS] [Array to String Without Commas in JavaScript](https://dev.to/gaelgthomas/array-to-string-without-commas-in-javascript-4mg6)
 - [Dev.to/JS] [How to get the IP address of a client in Node.js](https://dev.to/sureshramani/how-to-get-the-ip-address-of-a-client-in-nodejs-3dj6)
-- [Dev.to/JS] [Weekly dev insights &lpar;week 37&rpar;](https://dev.to/smetankajakub/weekly-dev-insightsweek-37-1kpb)
-- [Dev.to/JS] [LeetCode - Jump Game II](https://dev.to/_alkesh26/leetcode-jump-game-ii-2087)
-- [Dev.to/JS] [can anyone suggest about a reader button like medium](https://dev.to/cadentic/can-anyone-suggest-about-a-reader-button-like-medium-4jhj)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
