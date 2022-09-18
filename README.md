@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web/React Project Contest](https://dev.to/logify/webreact-project-contest-4be4)
+- [Dev.to/JS] [Reduzindo objetos para acesso de um nível [Javascript,Object]](https://dev.to/r9n/reduzindo-objetos-para-acesso-de-um-nivel-javascriptobject-4kf3)
+- [Dev.to/JS] [Siteit can turn your .txt files into .html](https://dev.to/tdaw/siteit-can-turn-your-txt-files-into-html-3119)
 - [Dev.to/JS] [Reindeer Olympics](https://dev.to/rmion/reindeer-olympics-2ka0)
 - [Dev.to/JS] [Stop writing API functions](https://dev.to/saeedmosavat/stop-writing-api-functions-3693)
 - [Dev.to/JS] [hai myself is teddy , i am new here, i have a dobt while working on js, the webpage i created not working as i intended.](https://dev.to/tedzz12/hai-myself-is-teddy-i-am-new-here-i-have-a-dobt-while-working-on-js-the-webpage-i-created-not-working-as-i-intended-2cka)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Escribiendo tests mas claros, simples y de amplio espectro con Table Driven Testing con jest](https://dev.to/dezkareid/escribiendo-tests-mas-claros-simples-y-de-amplio-espectro-con-table-driven-testing-con-jest-hnb)
 - [Dev.to/JS] [SEMrush Certification Exam Answers | SEMrush Exam Answers](https://dev.to/chase2learn/semrush-certification-exam-answers-semrush-exam-answers-196n)
 - [Dev.to/JS] [Factory Design Pattern in JavaScript](https://dev.to/shubhamdutta2000/factory-design-pattern-in-javascript-3ecj)
-- [Dev.to/JS] [Live broadcast](https://dev.to/zubair314/live-broadcast-1592)
-- [Dev.to/JS] [Yesterday I had a hell error](https://dev.to/gxelol/yesterday-i-had-a-hell-error-36bc)
-- [Dev.to/JS] [theme.js while using MUI in nextjs project](https://dev.to/cadentic/themejs-while-using-mui-in-nextjs-project-490a)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
