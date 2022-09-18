@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
+- [Dev.to/JS] [LeetCode - Jump Game III](https://dev.to/_alkesh26/leetcode-jump-game-iii-4gbj)
+- [Dev.to/JS] [Automate Playwright Test Cases With CI/CD GitHub Actions](https://dev.to/kailashpathak7/automate-playwright-test-cases-with-cicd-github-actions-2b7)
+- [Dev.to/JS] [Slider Sign-In/Sign-Up](https://dev.to/jagadeeshkj/slider-sign-insign-up-32m)
 - [Dev.to/JS] [Web scraping Jogathon data with JavaScript](https://dev.to/asg5704/web-scraping-jogathon-data-with-javascript-5g1h)
 - [Dev.to/JS] [Three Tricks for Chrome DevTools to Find Logs More Easily](https://dev.to/perssondennis/three-tricks-for-chrome-devtools-to-find-logs-more-easily-27k8)
 - [Dev.to/JS] [How to Implement Drag and Drop in React](https://dev.to/franciscomendes10866/how-to-implement-drag-and-drop-in-react-3j8j)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
 - [Dev.to/JS] [Top Technology should learn in 2022](https://dev.to/shyammanek/top-technology-should-learn-in-2022-3bej)
 - [Dev.to/JS] [VS Code Shortcuts you Must Know](https://dev.to/kshitij9896/vs-code-shortcuts-you-must-know-553g)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XXI: Create Directory In Server](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xxi-create-directory-in-server-5ejm)
-- [Dev.to/JS] [Merge TypeScript Enums](https://dev.to/afrazkhan/merge-typescript-enums-4mh7)
-- [Dev.to/JS] [Adobe Buys Figma: What Does this Mean for Web Standards?](https://dev.to/umeshtharukaofficial/adobe-buys-figma-what-does-this-mean-for-web-standards-2k7g)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
-- [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)
-- [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)<!-- TECH-POSTS:END -->
 
 ---
 
