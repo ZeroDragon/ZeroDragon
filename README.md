@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XX: Creating Create Directory Button](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xx-creating-create-directory-button-1a27)
+- [Dev.to/JS] [Complete Modern ReactJS Tutorials](https://dev.to/ministryofjavascript/complete-modern-reactjs-tutorials-3bfb)
+- [Dev.to/JS] [Javascript - Inheritance ⬆](https://dev.to/urstrulyvishwak/javascript-inheritance-26c3)
+- [Dev.to/JS] [Protetox - Weight Loss Pills, Price, Benefits, Warnings &amp; Complaints?](https://dev.to/protetoxfact1/protetox-weight-loss-pills-price-benefits-warnings-complaints-ib7)
 - [Dev.to/JS] [Yesterday I received my 100th rejection letter. What am I doing wrong?](https://dev.to/sadeedpv/yesterday-i-received-my-100th-rejection-letter-what-am-i-doing-wrong-3phb)
 - [Dev.to/JS] [Difference Between Dot &amp; Bracket Notation in JavaScript Object](https://dev.to/kowcher99/difference-between-dot-bracket-notation-in-javascript-object-4p81)
 - [Dev.to/JS] [Length of the Longest Alphabetical Continuous Substring](https://dev.to/zeeshanali0704/length-of-the-longest-alphabetical-continuous-substring-4fl5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The TV Channel website template](https://dev.to/sokhavuth/the-tv-channel-website-template-21i2)
 - [Dev.to/JS] [Build a CRUD JSON REST API with Express, Sequelize and MySQL](https://dev.to/jod35/build-a-crud-json-rest-api-with-express-sequelize-and-mysql-5ca2)
 - [Dev.to/JS] [Best Software For Make a Professional Flowchart.](https://dev.to/harryjohn222/best-software-for-make-a-professional-flowchart-5b3g)
-- [Dev.to/JS] [Difference Type of Console in JavaScript](https://dev.to/madhusudhan/difference-type-of-console-in-javascript-5707)
-- [Dev.to/JS] [Add QR code to React websites in 2 minutes 😎✨](https://dev.to/ruppysuppy/add-qr-code-to-react-websites-in-2-minutes-j05)
-- [Dev.to/JS] [Number of Lines To Write String](https://dev.to/zeeshanali0704/number-of-lines-to-write-string-fmg)
-- [Dev.to/JS] [Javascript: IIFE - Immediately Invoked Function Expression](https://dev.to/urstrulyvishwak/javascript-iife-immediately-invoked-function-expression-3i2a)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
