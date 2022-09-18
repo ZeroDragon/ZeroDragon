@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solve 5 problems Based on Hoisting](https://dev.to/easyvipin/solve-5-problems-based-on-hoisting-4ip7)
+- [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
 - [Dev.to/JS] [Top Technology should learn in 2022](https://dev.to/shyammanek/top-technology-should-learn-in-2022-3bej)
 - [Dev.to/JS] [VS Code Shortcuts you Must Know](https://dev.to/kshitij9896/vs-code-shortcuts-you-must-know-553g)
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XXI: Create Directory In Server](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xxi-create-directory-in-server-5ejm)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly dev insights &lpar;week 37&rpar;](https://dev.to/smetankajakub/weekly-dev-insightsweek-37-1kpb)
 - [Dev.to/JS] [LeetCode - Jump Game II](https://dev.to/_alkesh26/leetcode-jump-game-ii-2087)
 - [Dev.to/JS] [can anyone suggest about a reader button like medium](https://dev.to/cadentic/can-anyone-suggest-about-a-reader-button-like-medium-4jhj)
-- [Dev.to/JS] [Interacting with Polar Verity Sense using Web Bluetooth](https://dev.to/manufac/interacting-with-polar-verity-sense-using-web-bluetooth-553a)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
 - [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
 - [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)
 - [Lifehacker] [Science Thinks It Has Found the Best Wordle Starter](https://lifehacker.com/science-thinks-it-has-found-the-best-wordle-starter-1849541276)
-- [Lifehacker] [12 Outdated Fashion Rules You Don&#39;t Need to Follow Anymore](https://lifehacker.com/12-outdated-fashion-rules-you-dont-need-to-follow-anymo-1849540257)
-- [Lifehacker] [You Can Finally Use Snapchat on Your Computer](https://lifehacker.com/you-can-finally-use-snapchat-on-your-computer-1849540706)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Outdated Fashion Rules You Don&#39;t Need to Follow Anymore](https://lifehacker.com/12-outdated-fashion-rules-you-dont-need-to-follow-anymo-1849540257)<!-- TECH-POSTS:END -->
 
 ---
 
