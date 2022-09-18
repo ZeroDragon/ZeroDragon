@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Senior Software Engineer - Astro, Open Source](https://dev.to/remotecamphq/senior-software-engineer-astro-open-source-2cj3)
+- [Dev.to/JS] [Brincando Com A Função Reduce](https://dev.to/marcusxavierr/brincando-com-a-funcao-reduce-4kjl)
+- [Dev.to/JS] [Does DSA and code complexity really need to be included in Frontend interviews?](https://dev.to/ministryofjavascript/does-dsa-and-code-complexity-really-need-to-be-included-in-frontend-interviews-o54)
+- [Dev.to/JS] [How to Kill a Process Running on a Port](https://dev.to/smpnjn/how-to-kill-a-process-running-on-a-port-3pdf)
+- [Dev.to/JS] [The Difference between TypeScript Interfaces and Types](https://dev.to/smpnjn/the-difference-between-typescript-interfaces-and-types-2p02)
 - [Dev.to/JS] [Concatenating classes in TailwindCSS with TypeScript](https://dev.to/ztk37/concatenating-classes-in-tailwindcss-with-typescript-4bcj)
 - [Dev.to/JS] [How I manage my time](https://dev.to/sleeplessyogi/how-i-manage-my-time-361l)
 - [Dev.to/JS] [7 Things You Should Know About ReactJS Before You Use It](https://dev.to/sleeplessyogi/7-things-you-should-know-about-reactjs-before-you-use-it-57i9)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Refs in React](https://dev.to/hasnain01hub/refs-in-react-2pe3)
 - [Dev.to/JS] [Sveltekit Changes: Form Actions and Progressive Enhancement](https://dev.to/theether0/sveltekit-changes-form-actions-and-progressive-enhancement-31h9)
 - [Dev.to/JS] [useState Hook In React](https://dev.to/anuradha9712/usestate-hook-in-react-31jo)
-- [Dev.to/JS] [ReactJS - audio waveforms &lpar;visualizer&rpar;](https://dev.to/stianlarsen/reactjs-audio-waveforms-visualizer-3bf2)
-- [Dev.to/JS] [new extension that bring icon right near you](https://dev.to/logicdiscovered/new-extension-that-bring-icon-right-near-you-5d2j)
-- [Dev.to/JS] [Pin Save - decentralized Pinterest](https://dev.to/pfedprog/pin-save-decentralized-pinterest-1jo4)
-- [Dev.to/JS] [Just grid that slides in](https://dev.to/cadentic/just-grid-that-slides-in-4lha)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
-- [Dev.to/JS] [LeetCode - Jump Game III](https://dev.to/_alkesh26/leetcode-jump-game-iii-4gbj)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
