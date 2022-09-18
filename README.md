@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything you need to know about Javascript Arrays](https://dev.to/smpnjn/everything-you-need-to-know-about-javascript-arrays-3po5)
+- [Dev.to/JS] [APIs](https://dev.to/conslatekoyo/apis-57ch)
+- [Dev.to/JS] [Nextjs and git](https://dev.to/vavilov2212/nextjs-and-git-d08)
+- [Dev.to/JS] [Inserting an Item into an Array at a Specific Index in Javascript](https://dev.to/smpnjn/inserting-an-item-into-an-array-at-a-specific-index-in-javascript-3g1c)
 - [Dev.to/JS] [Senior Software Engineer - Astro, Open Source](https://dev.to/remotecamphq/senior-software-engineer-astro-open-source-2cj3)
 - [Dev.to/JS] [Brincando Com A Função Reduce](https://dev.to/marcusxavierr/brincando-com-a-funcao-reduce-4kjl)
 - [Dev.to/JS] [Does DSA and code complexity really need to be included in Frontend interviews?](https://dev.to/ministryofjavascript/does-dsa-and-code-complexity-really-need-to-be-included-in-frontend-interviews-o54)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Concatenating classes in TailwindCSS with TypeScript](https://dev.to/ztk37/concatenating-classes-in-tailwindcss-with-typescript-4bcj)
 - [Dev.to/JS] [How I manage my time](https://dev.to/sleeplessyogi/how-i-manage-my-time-361l)
 - [Dev.to/JS] [7 Things You Should Know About ReactJS Before You Use It](https://dev.to/sleeplessyogi/7-things-you-should-know-about-reactjs-before-you-use-it-57i9)
-- [Dev.to/JS] [Google is your best friend, so use it like a pro](https://dev.to/majdsufian/google-is-your-best-friend-so-use-it-like-a-pro-1o88)
-- [Dev.to/JS] [Refs in React](https://dev.to/hasnain01hub/refs-in-react-2pe3)
-- [Dev.to/JS] [Sveltekit Changes: Form Actions and Progressive Enhancement](https://dev.to/theether0/sveltekit-changes-form-actions-and-progressive-enhancement-31h9)
-- [Dev.to/JS] [useState Hook In React](https://dev.to/anuradha9712/usestate-hook-in-react-31jo)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
