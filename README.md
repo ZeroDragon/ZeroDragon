@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Knights of the Dinner Table](https://dev.to/rmion/knights-of-the-dinner-table-2phm)
 - [Dev.to/JS] [defineComponent vs &lt;script setup&gt;](https://dev.to/matijanovosel/definecomponent-vs-5104)
 - [Dev.to/JS] [¿Cómo pluralizar un string basado en el lenguaje en Javascript?](https://dev.to/matiasfha/como-pluralizar-un-string-basado-en-el-lenguaje-en-javascript-270j)
 - [Dev.to/JS] [Deleting an Item in an Array at a Specific Index](https://dev.to/smpnjn/deleting-an-item-in-an-array-at-a-specific-index-3mif)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Senior Software Engineer - Astro, Open Source](https://dev.to/remotecamphq/senior-software-engineer-astro-open-source-2cj3)
 - [Dev.to/JS] [Brincando Com A Função Reduce](https://dev.to/marcusxavierr/brincando-com-a-funcao-reduce-4kjl)
 - [Dev.to/JS] [Does DSA and code complexity really need to be included in Frontend interviews?](https://dev.to/ministryofjavascript/does-dsa-and-code-complexity-really-need-to-be-included-in-frontend-interviews-o54)
-- [Dev.to/JS] [How to Kill a Process Running on a Port](https://dev.to/smpnjn/how-to-kill-a-process-running-on-a-port-3pdf)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
