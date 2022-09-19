@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Email Authentication using Supabase in React](https://dev.to/surajondev/creating-an-email-authentication-using-supabase-in-react-5883)
+- [Lifehacker] [How to Make &#39;Creamier&#39; Cocktails Without Any Cream](https://lifehacker.com/how-to-make-creamier-cocktails-without-any-cream-1849546630)
+- [Dev.to/JS] [Another 5 Must Know JavaScript DOM Methods 🧮](https://dev.to/dcodeyt/another-5-must-know-javascript-dom-methods-1fif)
+- [Dev.to/JS] [Custom &#39;Tooltip&#39; component using Tailwind and React Js](https://dev.to/muhammadazfaraslam/custom-tooltip-component-using-tailwind-and-react-js-186g)
+- [Dev.to/JS] [Handling new tab in Cypress](https://dev.to/automationbro/handling-new-tab-in-cypress-30i6)
 - [Dev.to/JS] [Logging for your frontend apps](https://dev.to/suryashakti/logging-for-your-frontend-apps-28pj)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🚀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1h32)
 - [Dev.to/JS] [What is your Take on The State of Open Source E-Commerce 2022?](https://dev.to/medusajs/what-is-your-take-on-the-state-of-open-source-e-commerce-2022-3842)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tolgee: i18n revolution for modern JS frameworks; And it is open-source](https://dev.to/tolgee_i18n/tolgee-i18n-revolution-for-modern-js-frameworks-and-it-is-open-source-1a9i)
 - [Dev.to/JS] [Build seamless automations to boost productivity with Microsoft Graph, Azure Event Hubs and Functions](https://dev.to/azure/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions-1ho8)
 - [Dev.to/JS] [Angular Addicts Issue #3: recent version updates, my fav tweets &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-3-recent-version-updates-my-fav-tweets-more-339a)
-- [Dev.to/JS] [Why is the standardization of scroll bar styles so slow?](https://dev.to/junny521222/why-is-the-standardization-of-scroll-bar-styles-so-slow-2og0)
-- [Dev.to/JS] [Sliced Text Effect](https://dev.to/allwebcodes/sliced-text-effect-3p5a)
-- [Dev.to/JS] [Stripe payment gateway](https://dev.to/elohe_charisma/stripe-payment-gateway-3lfn)
-- [Dev.to/JS] [Sending Emails with React Native](https://dev.to/sofiatarhonska/sending-emails-with-react-native-1hfg)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Recalled Starbucks Drinks May Contain Metal Fragments](https://lifehacker.com/these-recalled-starbucks-drinks-may-contain-metal-fragm-1849542691)
 - [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
 - [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
-- [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)
-- [Lifehacker] [Mo Amer Talks About Blending Comedy and Drama](https://lifehacker.com/mo-amer-talks-about-blending-comedy-and-drama-1849541483)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)<!-- TECH-POSTS:END -->
 
 ---
 
