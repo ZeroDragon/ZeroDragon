@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Your Own No-Carb Egg Wraps With Two Ingredients](https://lifehacker.com/make-your-own-no-carb-egg-wraps-with-two-ingredients-1849554298)
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who Leaked &#39;Grand Theft Auto VI&#39;?](https://lifehacker.com/who-leaked-grand-theft-auto-vi-1849554402)
+- [Dev.to/JS] [Deploy Frontend Repositories With a Single Click](https://dev.to/shreyvijayvargiya/deploy-frontend-repositories-with-a-single-click-3ldm)
 - [Lifehacker] [Jameela Jamil on the B.S. of Toxic Diet Culture](https://lifehacker.com/jameela-jamil-on-the-bullshit-of-toxic-diet-culture-1849554597)
 - [Dev.to/JS] [Web developer 💛 💛 💛 💛](https://dev.to/samah2022/web-developer-49b5)
 - [Dev.to/JS] [Prerender routes in Express server for Angular - Part I](https://dev.to/ayyash/prerender-routes-in-express-server-for-angular-part-i-1ag4)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elves Look, Elves Say](https://dev.to/rmion/elves-look-elves-say-kk)
 - [Dev.to/JS] [Fluent UI Insights EP3: Griffel](https://dev.to/paulgildea/fluent-ui-insights-ep3-griffel-55l7)
 - [Lifehacker] [How to Monetize Your Backyard](https://lifehacker.com/how-to-monetize-your-backyard-1849553344)
-- [Dev.to/JS] [Hola como](https://dev.to/blancag84398039/hola-como-34ag)
 - [Lifehacker] [How to Tell When Your Boss Is Lying &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-when-your-boss-is-lying-and-what-to-do-abo-1849552745)
 - [Dev.to/JS] [Adding the medusa admin dashboard](https://dev.to/dailydevtips1/adding-the-medusa-admin-dashboard-5bh9)
 - [Lifehacker] [How to Fix a Wooden Door That Sticks](https://lifehacker.com/how-to-fix-a-wooden-door-that-sticks-1849550926)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Week of the Year to Buy a New House](https://lifehacker.com/the-best-week-of-the-year-to-buy-a-new-house-1849547038)
 - [Lifehacker] [What&#39;s New on Hulu in October 2022](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
-- [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
-- [Lifehacker] [Here&#39;s Which Coatings You Really Need on a New Pair of Glasses](https://lifehacker.com/heres-which-coatings-you-really-need-on-a-new-pair-of-g-1849546372)
-- [Lifehacker] [How to Stop Your Pixel From Unlocking in Your Pocket](https://lifehacker.com/how-to-stop-your-pixel-from-unlocking-in-your-pocket-1849546190)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)<!-- TECH-POSTS:END -->
 
 ---
 
