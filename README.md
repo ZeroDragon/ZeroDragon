@@ -23,10 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix a Wooden Door That Sticks](https://lifehacker.com/how-to-fix-a-wooden-door-that-sticks-1849550926)
+- [Dev.to/JS] [How to Make an eCommerce Website Using Html Css Js Tutorial 2022](https://dev.to/codewithsadee/how-to-make-an-ecommerce-website-using-html-css-js-tutorial-2022-2aai)
+- [Lifehacker] [How to Recognize &#39;Sensory Processing Disorder&#39; in Your Child](https://lifehacker.com/how-to-recognize-sensory-processing-disorder-in-your-ch-1849549796)
+- [Dev.to/JS] [Custom calendar using HTML, CSS &amp; JavaScript](https://dev.to/piyushpatil1243/custom-calendar-using-html-css-javascript-3jm6)
+- [Lifehacker] [How Much Free Time Is Too Much Free Time, According to Science](https://lifehacker.com/how-much-free-time-is-too-much-free-time-according-to-1849551514)
 - [Dev.to/JS] [Using a Headless CMS to send email newsletter?](https://dev.to/dan_inndio/using-a-headless-cms-to-send-email-newsletter-267o)
 - [Lifehacker] [10 Great Movies About 10 of History&#39;s Worst People](https://lifehacker.com/10-great-movies-about-10-of-historys-worst-people-1849547844)
 - [Dev.to/JS] [Create an Accordion with Tailwind CSS and Alpine JS](https://dev.to/devrohit0/create-an-accordion-with-tailwind-css-and-alpine-js-28m9)
-- [Dev.to/JS] [How can I connect Firebase DB to Django in Python](https://dev.to/kalidasraja/how-can-i-connect-firebase-db-to-django-in-python-m12)
+- [Dev.to/JS] [How can I connect Firebase DB to Django in Python?](https://dev.to/kalidasraja/how-can-i-connect-firebase-db-to-django-in-python-m12)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-sep-2022-2m1a)
 - [Lifehacker] [No One Really Knows What Muscle Knots Are](https://lifehacker.com/no-one-really-knows-what-muscle-knots-are-1849547116)
 - [Dev.to/JS] [How to mint a NFT on Solana?](https://dev.to/rtagliavia/how-to-mint-a-nft-on-solana-3d35)
@@ -36,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Breadth-first search of a binary tree](https://dev.to/niemet0502/breadth-first-search-of-a-binary-tree-1cnm)
 - [Lifehacker] [How to Start Composting Leaves &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-composting-leaves-and-why-you-should-1849546766)
 - [Dev.to/JS] [Free &amp; Discounted Online Courses - 9/19/2022](https://dev.to/theprogramminbuddyclub/free-discounted-online-courses-9192022-4ik7)
-- [Dev.to/JS] [Make your contact form working without using a server](https://dev.to/varshithvhegde/make-your-contact-form-working-without-using-a-server-4km7)
-- [Dev.to/JS] [Creating an Email Authentication using Supabase in React](https://dev.to/surajondev/creating-an-email-authentication-using-supabase-in-react-5883)
 - [Lifehacker] [How to Make &#39;Creamier&#39; Cocktails Without Any Cream](https://lifehacker.com/how-to-make-creamier-cocktails-without-any-cream-1849546630)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
 - [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)
 - [Lifehacker] [11 of the Best New Podcasts to Add to Your Queue](https://lifehacker.com/11-of-the-best-new-podcasts-to-add-to-your-queue-1849544924)
-- [Lifehacker] [You Deserve Some &#39;Bleisure&#39;](https://lifehacker.com/what-is-a-bleisure-and-how-can-you-take-one-1849544163)
-- [Lifehacker] [Six Cheap Ways to Make Your Living Room Look More Expensive](https://lifehacker.com/six-cheap-ways-to-make-your-living-room-look-more-expen-1849542525)
-- [Lifehacker] [You Should Fry Your Cinnamon Toast](https://lifehacker.com/you-should-fry-your-cinnamon-toast-1849542344)
-- [Lifehacker] [These Recalled Starbucks Drinks May Contain Metal Fragments](https://lifehacker.com/these-recalled-starbucks-drinks-may-contain-metal-fragm-1849542691)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Deserve Some &#39;Bleisure&#39;](https://lifehacker.com/what-is-a-bleisure-and-how-can-you-take-one-1849544163)<!-- TECH-POSTS:END -->
 
 ---
 
