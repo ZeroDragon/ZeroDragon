@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Props drilling talk in React](https://dev.to/daviddesar/props-drilling-talk-in-react-59ag)
+- [Dev.to/JS] [I am testing.](https://dev.to/settyannaung1/i-am-testing-3bh7)
+- [Dev.to/JS] [How to Become a Computer Programmer Fast — Without a Degree in Computer Science](https://dev.to/matbangvinhomescoloa/mat-bang-du-an-vinhomes-co-loa-dong-anh-duoc-quy-hoach-ro-rang-va-thiet-ke-toi-uu-1kfd)
 - [Dev.to/JS] [My Portfolio Website &lpar;Next js + tailwindcss + Wordpress&rpar;](https://dev.to/ds_sombol/my-portfolio-website-next-js-tailwindcss-wordpress-52b0)
 - [Dev.to/JS] [React for Beginners](https://dev.to/ericahashert/react-for-beginners-45d1)
 - [Dev.to/JS] [The Heart of Web 3.0](https://dev.to/nessakodo/the-heart-of-web-30-4iln)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [online roulette real money_ABC.GAME](https://dev.to/lucie01/online-roulette-real-moneyabcgame-4obi)
 - [Dev.to/JS] [safe casino game_ABC.GAME](https://dev.to/lucie01/safe-casino-gameabcgame-2efh)
 - [Dev.to/JS] [play casino game online_ABC.GAME](https://dev.to/lucie01/play-casino-game-onlineabcgame-1h1m)
-- [Dev.to/JS] [online blackjack real money_ABC.GAME](https://dev.to/lucie01/online-blackjack-real-moneyabcgame-25ld)
-- [Dev.to/JS] [Power BI and SSRS - Pick the right tool to fulfill your needs!](https://dev.to/postwell45/power-bi-and-ssrs-pick-the-right-tool-to-fulfill-your-needs-46ho)
-- [Dev.to/JS] [best online poker sites_ABC.GAME](https://dev.to/lucie01/best-online-poker-sitesabcgame-5ali)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
