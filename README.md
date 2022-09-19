@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Jameela Jamil on the B.S. of Toxic Diet Culture](https://lifehacker.com/jameela-jamil-on-the-bullshit-of-toxic-diet-culture-1849554597)
+- [Dev.to/JS] [Web developer 💛 💛 💛 💛](https://dev.to/samah2022/web-developer-49b5)
+- [Dev.to/JS] [Prerender routes in Express server for Angular - Part I](https://dev.to/ayyash/prerender-routes-in-express-server-for-angular-part-i-1ag4)
+- [Dev.to/JS] [This is Demo](https://dev.to/imran_baitham/this-is-demo-3l29)
+- [Lifehacker] [You Can Finally Control Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-control-your-apple-watch-from-your-ipho-1849552944)
+- [Dev.to/JS] [t6 IoT Sockets connection](https://dev.to/mathcoll/t6-iot-sockets-connection-59e9)
+- [Lifehacker] [Add a Digital Pet to Your iPhone](https://lifehacker.com/add-a-digital-pet-to-your-iphone-1849553713)
 - [Dev.to/JS] [Remplacer les émojis de Windows 10](https://dev.to/michelc/remplacer-les-emojis-de-windows-10-15ii)
 - [Lifehacker] [Brian Baumgartner Wants Your Chili to Be Better](https://lifehacker.com/brian-baumgartner-wants-your-chili-to-be-better-1849554018)
 - [Lifehacker] [Make a Stellar Breakfast With a Tub of Trader Joe&#39;s Dip](https://lifehacker.com/make-a-stellar-breakfast-with-a-tub-of-trader-joes-dip-1849553369)
@@ -37,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hola como](https://dev.to/blancag84398039/hola-como-34ag)
 - [Lifehacker] [How to Tell When Your Boss Is Lying &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-when-your-boss-is-lying-and-what-to-do-abo-1849552745)
 - [Dev.to/JS] [Adding the medusa admin dashboard](https://dev.to/dailydevtips1/adding-the-medusa-admin-dashboard-5bh9)
-- [Dev.to/JS] [Null/Undefined Check](https://dev.to/dowenrei/nullundefined-check-2he9)
-- [Dev.to/JS] [Illa: an opensource lowcode toolfor developers.](https://dev.to/silerncerxyz/illa-an-opensource-lowcode-toolfor-developers-okf)
 - [Lifehacker] [How to Fix a Wooden Door That Sticks](https://lifehacker.com/how-to-fix-a-wooden-door-that-sticks-1849550926)
-- [Dev.to/JS] [How to Make an eCommerce Website Using Html Css Js Tutorial 2022](https://dev.to/codewithsadee/how-to-make-an-ecommerce-website-using-html-css-js-tutorial-2022-2aai)
 - [Lifehacker] [How to Recognize &#39;Sensory Processing Disorder&#39; in Your Child](https://lifehacker.com/how-to-recognize-sensory-processing-disorder-in-your-ch-1849549796)
-- [Dev.to/JS] [Custom calendar using HTML, CSS &amp; JavaScript](https://dev.to/piyushpatil1243/custom-calendar-using-html-css-javascript-3jm6)
 - [Lifehacker] [How Much Free Time Is Too Much Free Time, According to Science](https://lifehacker.com/how-much-free-time-is-too-much-free-time-according-to-1849551514)
 - [Lifehacker] [10 Great Movies About 10 of History&#39;s Worst People](https://lifehacker.com/10-great-movies-about-10-of-historys-worst-people-1849547844)
 - [Lifehacker] [No One Really Knows What Muscle Knots Are](https://lifehacker.com/no-one-really-knows-what-muscle-knots-are-1849547116)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Android Users Can Now Hide Chrome Incognito Tabs With Their Fingerprint](https://lifehacker.com/android-users-can-now-hide-chrome-incognito-tabs-with-t-1849546699)
 - [Lifehacker] [How to Invest Your $10,000 From Student Loan Forgiveness](https://lifehacker.com/how-to-invest-your-10-000-from-student-loan-forgivenes-1849546587)
 - [Lifehacker] [Here&#39;s Which Coatings You Really Need on a New Pair of Glasses](https://lifehacker.com/heres-which-coatings-you-really-need-on-a-new-pair-of-g-1849546372)
-- [Lifehacker] [How to Stop Your Pixel From Unlocking in Your Pocket](https://lifehacker.com/how-to-stop-your-pixel-from-unlocking-in-your-pocket-1849546190)
-- [Lifehacker] [What&#39;s New on Disney+ in October 2022](https://lifehacker.com/whats-new-on-disney-in-october-2022-1849546357)
-- [Lifehacker] [Five Signs That You&#39;re the Toxic One in a Relationship](https://lifehacker.com/five-signs-that-youre-the-toxic-one-in-a-relationship-1849546105)
-- [Lifehacker] [How Student Loan Forgiveness Will Affect Your Credit Score](https://lifehacker.com/how-student-loan-forgiveness-will-affect-your-credit-sc-1849545879)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop Your Pixel From Unlocking in Your Pocket](https://lifehacker.com/how-to-stop-your-pixel-from-unlocking-in-your-pocket-1849546190)<!-- TECH-POSTS:END -->
 
 ---
 
