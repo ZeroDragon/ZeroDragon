@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-sep-2022-2m1a)
+- [Lifehacker] [No One Really Knows What Muscle Knots Are](https://lifehacker.com/no-one-really-knows-what-muscle-knots-are-1849547116)
+- [Dev.to/JS] [How to mint a NFT on Solana?](https://dev.to/rtagliavia/how-to-mint-a-nft-on-solana-3d35)
+- [Dev.to/JS] [An Intro to useContext in React.js](https://dev.to/konstantinstanmeyer/an-intro-to-usecontext-in-reactjs-38jg)
+- [Dev.to/JS] [JS &amp; CSS snippet to detect and style if dark mode](https://dev.to/garis_space/js-css-snippet-to-detect-and-style-if-dark-mode-40ni)
+- [Dev.to/JS] [Bootstrap 5 Lazy loading](https://dev.to/mdbootstrap/bootstrap-5-lazy-loading-1cjo)
+- [Dev.to/JS] [Breadth-first search of a binary tree](https://dev.to/niemet0502/breadth-first-search-of-a-binary-tree-1cnm)
+- [Lifehacker] [How to Start Composting Leaves &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-composting-leaves-and-why-you-should-1849546766)
+- [Dev.to/JS] [Free &amp; Discounted Online Courses - 9/19/2022](https://dev.to/theprogramminbuddyclub/free-discounted-online-courses-9192022-4ik7)
+- [Dev.to/JS] [Make your contact form working without using a server](https://dev.to/varshithvhegde/make-your-contact-form-working-without-using-a-server-4km7)
 - [Dev.to/JS] [Creating an Email Authentication using Supabase in React](https://dev.to/surajondev/creating-an-email-authentication-using-supabase-in-react-5883)
 - [Lifehacker] [How to Make &#39;Creamier&#39; Cocktails Without Any Cream](https://lifehacker.com/how-to-make-creamier-cocktails-without-any-cream-1849546630)
 - [Dev.to/JS] [Another 5 Must Know JavaScript DOM Methods 🧮](https://dev.to/dcodeyt/another-5-must-know-javascript-dom-methods-1fif)
 - [Dev.to/JS] [Custom &#39;Tooltip&#39; component using Tailwind and React Js](https://dev.to/muhammadazfaraslam/custom-tooltip-component-using-tailwind-and-react-js-186g)
 - [Dev.to/JS] [Handling new tab in Cypress](https://dev.to/automationbro/handling-new-tab-in-cypress-30i6)
-- [Dev.to/JS] [Logging for your frontend apps](https://dev.to/suryashakti/logging-for-your-frontend-apps-28pj)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🚀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1h32)
-- [Dev.to/JS] [What is your Take on The State of Open Source E-Commerce 2022?](https://dev.to/medusajs/what-is-your-take-on-the-state-of-open-source-e-commerce-2022-3842)
-- [Dev.to/JS] [23- React File Manager Chapter XXIII: Let&#39;s Make Some Toasts 🍞](https://dev.to/hassanzohdy/23-react-file-manager-chapter-xxiii-lets-make-some-toasts-fbj)
-- [Dev.to/JS] [WORDLE game in Javascript | Tutorial | How To](https://dev.to/burtds/wordle-game-in-javascript-tutorial-how-to-1nj9)
-- [Dev.to/JS] [Tolgee: i18n revolution for modern JS frameworks; And it is open-source](https://dev.to/tolgee_i18n/tolgee-i18n-revolution-for-modern-js-frameworks-and-it-is-open-source-1a9i)
-- [Dev.to/JS] [Build seamless automations to boost productivity with Microsoft Graph, Azure Event Hubs and Functions](https://dev.to/azure/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions-1ho8)
-- [Dev.to/JS] [Angular Addicts Issue #3: recent version updates, my fav tweets &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-3-recent-version-updates-my-fav-tweets-more-339a)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Cheap Ways to Make Your Living Room Look More Expensive](https://lifehacker.com/six-cheap-ways-to-make-your-living-room-look-more-expen-1849542525)
 - [Lifehacker] [You Should Fry Your Cinnamon Toast](https://lifehacker.com/you-should-fry-your-cinnamon-toast-1849542344)
 - [Lifehacker] [These Recalled Starbucks Drinks May Contain Metal Fragments](https://lifehacker.com/these-recalled-starbucks-drinks-may-contain-metal-fragm-1849542691)
-- [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
-- [Lifehacker] [Why Effects-based Cannabis Marketing Is Mostly Smoke and Mirrors](https://lifehacker.com/why-effects-based-cannabis-marketing-is-mostly-bullshit-1849541947)
-- [Lifehacker] [You Probably Qualify for a Free &lpar;or Very Cheap&rpar; Smart Thermostat](https://lifehacker.com/you-probably-qualify-for-a-free-or-very-cheap-smart-t-1849541069)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Know If You Have a &#39;Good&#39; Therapist](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)<!-- TECH-POSTS:END -->
 
 ---
 
