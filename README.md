@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tolgee: i18n revolution for modern JS frameworks; And it is open-source](https://dev.to/tolgee_i18n/tolgee-i18n-revolution-for-modern-js-frameworks-and-it-is-open-source-1a9i)
+- [Dev.to/JS] [Build seamless automations to boost productivity with Microsoft Graph, Azure Event Hubs and Functions](https://dev.to/azure/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions-1ho8)
+- [Dev.to/JS] [Angular Addicts Issue #3: recent version updates, my fav tweets &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-3-recent-version-updates-my-fav-tweets-more-339a)
+- [Dev.to/JS] [Why is the standardization of scroll bar styles so slow?](https://dev.to/junny521222/why-is-the-standardization-of-scroll-bar-styles-so-slow-2og0)
+- [Dev.to/JS] [Sliced Text Effect](https://dev.to/allwebcodes/sliced-text-effect-3p5a)
 - [Dev.to/JS] [Stripe payment gateway](https://dev.to/elohe_charisma/stripe-payment-gateway-3lfn)
 - [Dev.to/JS] [Sending Emails with React Native](https://dev.to/sofiatarhonska/sending-emails-with-react-native-1hfg)
 - [Dev.to/JS] [[dagger-demo] 3D Tic Tac Toe](https://dev.to/dagger8224/dagger-demo-3d-tic-tac-toe-1gnf)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XXII: Create Directory Action](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xxii-create-directory-action-39lo)
 - [Dev.to/JS] [How to disable printing on a website](https://dev.to/fanmixco/how-to-disable-printing-in-a-website-591n)
 - [Dev.to/JS] [Shakira wants Grammys from her ex-boyfriend Gerard Piqué because she fears that they might be used as a](https://dev.to/latestnews/shakira-wants-grammys-from-her-ex-boyfriend-gerard-pique-because-she-fears-that-they-might-be-used-as-a-2bf)
-- [Dev.to/JS] [What is react native training?](https://dev.to/nikhil128/what-is-react-native-training-59d8)
-- [Dev.to/JS] [Props drilling talk in React](https://dev.to/daviddesar/props-drilling-talk-in-react-59ag)
-- [Dev.to/JS] [I am testing.](https://dev.to/settyannaung1/i-am-testing-3bh7)
-- [Dev.to/JS] [How to Become a Computer Programmer Fast — Without a Degree in Computer Science](https://dev.to/matbangvinhomescoloa/mat-bang-du-an-vinhomes-co-loa-dong-anh-duoc-quy-hoach-ro-rang-va-thiet-ke-toi-uu-1kfd)
-- [Dev.to/JS] [My Portfolio Website &lpar;Next js + tailwindcss + Wordpress&rpar;](https://dev.to/ds_sombol/my-portfolio-website-next-js-tailwindcss-wordpress-52b0)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
