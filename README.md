@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remplacer les émojis de Windows 10](https://dev.to/michelc/remplacer-les-emojis-de-windows-10-15ii)
+- [Lifehacker] [Brian Baumgartner Wants Your Chili to Be Better](https://lifehacker.com/brian-baumgartner-wants-your-chili-to-be-better-1849554018)
 - [Lifehacker] [Make a Stellar Breakfast With a Tub of Trader Joe&#39;s Dip](https://lifehacker.com/make-a-stellar-breakfast-with-a-tub-of-trader-joes-dip-1849553369)
 - [Dev.to/JS] [Get URL Params in React](https://dev.to/gaelgthomas/get-url-params-in-react-2m8f)
 - [Dev.to/JS] [Toplist review nhanh 10 nhà cái đình đám bậc nhất 2022](https://dev.to/tylekeoclub/toplist-review-nhanh-10-nha-cai-dinh-dam-bac-nhat-2022-5hib)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recognize &#39;Sensory Processing Disorder&#39; in Your Child](https://lifehacker.com/how-to-recognize-sensory-processing-disorder-in-your-ch-1849549796)
 - [Dev.to/JS] [Custom calendar using HTML, CSS &amp; JavaScript](https://dev.to/piyushpatil1243/custom-calendar-using-html-css-javascript-3jm6)
 - [Lifehacker] [How Much Free Time Is Too Much Free Time, According to Science](https://lifehacker.com/how-much-free-time-is-too-much-free-time-according-to-1849551514)
-- [Dev.to/JS] [Using a Headless CMS to send email newsletter?](https://dev.to/dan_inndio/using-a-headless-cms-to-send-email-newsletter-267o)
 - [Lifehacker] [10 Great Movies About 10 of History&#39;s Worst People](https://lifehacker.com/10-great-movies-about-10-of-historys-worst-people-1849547844)
 - [Lifehacker] [No One Really Knows What Muscle Knots Are](https://lifehacker.com/no-one-really-knows-what-muscle-knots-are-1849547116)
 - [Lifehacker] [How to Start Composting Leaves &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-composting-leaves-and-why-you-should-1849546766)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Your Pixel From Unlocking in Your Pocket](https://lifehacker.com/how-to-stop-your-pixel-from-unlocking-in-your-pocket-1849546190)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2022](https://lifehacker.com/whats-new-on-disney-in-october-2022-1849546357)
 - [Lifehacker] [Five Signs That You&#39;re the Toxic One in a Relationship](https://lifehacker.com/five-signs-that-youre-the-toxic-one-in-a-relationship-1849546105)
-- [Lifehacker] [How Student Loan Forgiveness Will Affect Your Credit Score](https://lifehacker.com/how-student-loan-forgiveness-will-affect-your-credit-sc-1849545879)
-- [Lifehacker] [How Often Do You Really Need to Wash Your Hair?](https://lifehacker.com/how-often-do-you-really-need-to-wash-your-hair-1849545757)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Student Loan Forgiveness Will Affect Your Credit Score](https://lifehacker.com/how-student-loan-forgiveness-will-affect-your-credit-sc-1849545879)<!-- TECH-POSTS:END -->
 
 ---
 
