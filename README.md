@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TailwindCSS vs Bootstrap: What&#39;s the deal?](https://dev.to/rohitmore07/tailwindcss-vs-bootstrap-whats-the-deal-13pj)
+- [Dev.to/JS] [online poker real money_ABC.GAME](https://dev.to/lucie01/online-poker-real-moneyabcgame-2mi9)
 - [Dev.to/JS] [roulette wheel online_ABC.GAME](https://dev.to/lucie01/roulette-wheel-onlineabcgame-271)
 - [Dev.to/JS] [How to Build a Rideshare Site with React.JS &lpar;Ola Cabs Clone&rpar;](https://dev.to/cometchat/how-to-build-a-rideshare-site-with-reactjs-ola-cabs-clone-563d)
 - [Dev.to/JS] [¿Qué es JavaScript?](https://dev.to/jonatanare/aprende-js-con-calma-dh9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [¿Cómo pluralizar un string basado en el lenguaje en Javascript?](https://dev.to/matiasfha/como-pluralizar-un-string-basado-en-el-lenguaje-en-javascript-270j)
 - [Dev.to/JS] [Deleting an Item in an Array at a Specific Index](https://dev.to/smpnjn/deleting-an-item-in-an-array-at-a-specific-index-3mif)
 - [Dev.to/JS] [React - Hooks as Optional Parameters](https://dev.to/noriller/hooks-as-optional-parameters-5e26)
-- [Dev.to/JS] [Everything you need to know about Javascript Arrays](https://dev.to/smpnjn/everything-you-need-to-know-about-javascript-arrays-3po5)
-- [Dev.to/JS] [APIs](https://dev.to/conslatekoyo/apis-57ch)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
