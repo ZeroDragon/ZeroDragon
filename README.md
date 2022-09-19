@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Logging for your frontend apps](https://dev.to/suryashakti/logging-for-your-frontend-apps-28pj)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🚀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1h32)
+- [Dev.to/JS] [What is your Take on The State of Open Source E-Commerce 2022?](https://dev.to/medusajs/what-is-your-take-on-the-state-of-open-source-e-commerce-2022-3842)
+- [Dev.to/JS] [23- React File Manager Chapter XXIII: Let&#39;s Make Some Toasts 🍞](https://dev.to/hassanzohdy/23-react-file-manager-chapter-xxiii-lets-make-some-toasts-fbj)
+- [Dev.to/JS] [WORDLE game in Javascript | Tutorial | How To](https://dev.to/burtds/wordle-game-in-javascript-tutorial-how-to-1nj9)
 - [Dev.to/JS] [Tolgee: i18n revolution for modern JS frameworks; And it is open-source](https://dev.to/tolgee_i18n/tolgee-i18n-revolution-for-modern-js-frameworks-and-it-is-open-source-1a9i)
 - [Dev.to/JS] [Build seamless automations to boost productivity with Microsoft Graph, Azure Event Hubs and Functions](https://dev.to/azure/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions-1ho8)
 - [Dev.to/JS] [Angular Addicts Issue #3: recent version updates, my fav tweets &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-3-recent-version-updates-my-fav-tweets-more-339a)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sliced Text Effect](https://dev.to/allwebcodes/sliced-text-effect-3p5a)
 - [Dev.to/JS] [Stripe payment gateway](https://dev.to/elohe_charisma/stripe-payment-gateway-3lfn)
 - [Dev.to/JS] [Sending Emails with React Native](https://dev.to/sofiatarhonska/sending-emails-with-react-native-1hfg)
-- [Dev.to/JS] [[dagger-demo] 3D Tic Tac Toe](https://dev.to/dagger8224/dagger-demo-3d-tic-tac-toe-1gnf)
-- [Dev.to/JS] [Designing a Developer Content Strategy](https://dev.to/jacobandrewsky/designing-a-developer-content-strategy-3og0)
-- [Dev.to/JS] [Let&#39;s create a React File Manager Chapter XXII: Create Directory Action](https://dev.to/hassanzohdy/lets-create-a-react-file-manager-chapter-xxii-create-directory-action-39lo)
-- [Dev.to/JS] [How to disable printing on a website](https://dev.to/fanmixco/how-to-disable-printing-in-a-website-591n)
-- [Dev.to/JS] [Shakira wants Grammys from her ex-boyfriend Gerard Piqué because she fears that they might be used as a](https://dev.to/latestnews/shakira-wants-grammys-from-her-ex-boyfriend-gerard-pique-because-she-fears-that-they-might-be-used-as-a-2bf)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
