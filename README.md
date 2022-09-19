@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 1 at FlatIron School!](https://dev.to/ethanld152/day-1-at-flatiron-school-2d0f)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
 - [Dev.to/JS] [Stop Using .env Files Now!](https://dev.to/gregorygaines/stop-using-env-files-now-kp0)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS en la webs](https://dev.to/cintiarv/js-en-la-web-1pcg)
 - [Crazy Programmer] [John Carmack Biography](https://www.thecrazyprogrammer.com/2022/09/john-carmack-biography.html)
 - [Dev.to/JS] [Elves Look, Elves Say](https://dev.to/rmion/elves-look-elves-say-kk)
-- [Dev.to/JS] [Fluent UI Insights EP3: Griffel](https://dev.to/paulgildea/fluent-ui-insights-ep3-griffel-55l7)
 - [Lifehacker] [How to Monetize Your Backyard](https://lifehacker.com/how-to-monetize-your-backyard-1849553344)
 - [Lifehacker] [How to Tell When Your Boss Is Lying &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-when-your-boss-is-lying-and-what-to-do-abo-1849552745)
 - [Lifehacker] [How to Fix a Wooden Door That Sticks](https://lifehacker.com/how-to-fix-a-wooden-door-that-sticks-1849550926)
