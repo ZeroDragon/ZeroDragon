@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Qué es JavaScript?](https://dev.to/jonatanare/aprende-js-con-calma-dh9)
 - [Dev.to/JS] [JSAbacusFramework.io](https://dev.to/rmion/jsabacusframeworkio-1j16)
 - [Dev.to/JS] [Lazy Load Images](https://dev.to/swislokdev/lazy-load-images-20fo)
 - [Dev.to/JS] [Knights of the Dinner Table](https://dev.to/rmion/knights-of-the-dinner-table-2phm)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [APIs](https://dev.to/conslatekoyo/apis-57ch)
 - [Dev.to/JS] [Nextjs and git](https://dev.to/vavilov2212/nextjs-and-git-d08)
 - [Dev.to/JS] [Inserting an Item into an Array at a Specific Index in Javascript](https://dev.to/smpnjn/inserting-an-item-into-an-array-at-a-specific-index-in-javascript-3g1c)
-- [Dev.to/JS] [Senior Software Engineer - Astro, Open Source](https://dev.to/remotecamphq/senior-software-engineer-astro-open-source-2cj3)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
