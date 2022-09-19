@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fluent UI Insights EP3: Griffel](https://dev.to/paulgildea/fluent-ui-insights-ep3-griffel-55l7)
+- [Lifehacker] [How to Monetize Your Backyard](https://lifehacker.com/how-to-monetize-your-backyard-1849553344)
+- [Dev.to/JS] [Hola como](https://dev.to/blancag84398039/hola-como-34ag)
+- [Lifehacker] [How to Tell When Your Boss Is Lying &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-when-your-boss-is-lying-and-what-to-do-abo-1849552745)
+- [Dev.to/JS] [Adding the medusa admin dashboard](https://dev.to/dailydevtips1/adding-the-medusa-admin-dashboard-5bh9)
+- [Dev.to/JS] [Null/Undefined Check](https://dev.to/dowenrei/nullundefined-check-2he9)
+- [Dev.to/JS] [Illa: an opensource lowcode toolfor developers.](https://dev.to/silerncerxyz/illa-an-opensource-lowcode-toolfor-developers-okf)
 - [Lifehacker] [How to Fix a Wooden Door That Sticks](https://lifehacker.com/how-to-fix-a-wooden-door-that-sticks-1849550926)
 - [Dev.to/JS] [How to Make an eCommerce Website Using Html Css Js Tutorial 2022](https://dev.to/codewithsadee/how-to-make-an-ecommerce-website-using-html-css-js-tutorial-2022-2aai)
 - [Lifehacker] [How to Recognize &#39;Sensory Processing Disorder&#39; in Your Child](https://lifehacker.com/how-to-recognize-sensory-processing-disorder-in-your-ch-1849549796)
@@ -35,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-sep-2022-2m1a)
 - [Lifehacker] [No One Really Knows What Muscle Knots Are](https://lifehacker.com/no-one-really-knows-what-muscle-knots-are-1849547116)
 - [Dev.to/JS] [How to mint a NFT on Solana?](https://dev.to/rtagliavia/how-to-mint-a-nft-on-solana-3d35)
-- [Dev.to/JS] [An Intro to useContext in React.js](https://dev.to/konstantinstanmeyer/an-intro-to-usecontext-in-reactjs-38jg)
-- [Dev.to/JS] [JS &amp; CSS snippet to detect and style if dark mode](https://dev.to/garis_space/js-css-snippet-to-detect-and-style-if-dark-mode-40ni)
-- [Dev.to/JS] [Bootstrap 5 Lazy loading](https://dev.to/mdbootstrap/bootstrap-5-lazy-loading-1cjo)
-- [Dev.to/JS] [Breadth-first search of a binary tree](https://dev.to/niemet0502/breadth-first-search-of-a-binary-tree-1cnm)
 - [Lifehacker] [How to Start Composting Leaves &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-composting-leaves-and-why-you-should-1849546766)
-- [Dev.to/JS] [Free &amp; Discounted Online Courses - 9/19/2022](https://dev.to/theprogramminbuddyclub/free-discounted-online-courses-9192022-4ik7)
 - [Lifehacker] [How to Make &#39;Creamier&#39; Cocktails Without Any Cream](https://lifehacker.com/how-to-make-creamier-cocktails-without-any-cream-1849546630)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Often Do You Really Need to Wash Your Hair?](https://lifehacker.com/how-often-do-you-really-need-to-wash-your-hair-1849545757)
 - [Lifehacker] [22 Upcoming Movies With the Most Oscar Buzz This Year](https://lifehacker.com/22-upcoming-movies-with-the-most-oscar-buzz-this-year-1849541214)
 - [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
-- [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)
-- [Lifehacker] [11 of the Best New Podcasts to Add to Your Queue](https://lifehacker.com/11-of-the-best-new-podcasts-to-add-to-your-queue-1849544924)
-- [Lifehacker] [You Deserve Some &#39;Bleisure&#39;](https://lifehacker.com/what-is-a-bleisure-and-how-can-you-take-one-1849544163)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)<!-- TECH-POSTS:END -->
 
 ---
 
