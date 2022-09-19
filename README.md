@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make a Stellar Breakfast With a Tub of Trader Joe&#39;s Dip](https://lifehacker.com/make-a-stellar-breakfast-with-a-tub-of-trader-joes-dip-1849553369)
+- [Dev.to/JS] [Get URL Params in React](https://dev.to/gaelgthomas/get-url-params-in-react-2m8f)
+- [Dev.to/JS] [Toplist review nhanh 10 nhà cái đình đám bậc nhất 2022](https://dev.to/tylekeoclub/toplist-review-nhanh-10-nha-cai-dinh-dam-bac-nhat-2022-5hib)
+- [Lifehacker] [Don’t Clean Your Air Fryer With This Viral TikTok Trick &lpar;and What to Do Instead&rpar;](https://lifehacker.com/don-t-clean-your-air-fryer-with-this-viral-tiktok-trick-1849553685)
+- [Dev.to/JS] [JS en la webs](https://dev.to/cintiarv/js-en-la-web-1pcg)
+- [Crazy Programmer] [John Carmack Biography](https://www.thecrazyprogrammer.com/2022/09/john-carmack-biography.html)
+- [Dev.to/JS] [Elves Look, Elves Say](https://dev.to/rmion/elves-look-elves-say-kk)
 - [Dev.to/JS] [Fluent UI Insights EP3: Griffel](https://dev.to/paulgildea/fluent-ui-insights-ep3-griffel-55l7)
 - [Lifehacker] [How to Monetize Your Backyard](https://lifehacker.com/how-to-monetize-your-backyard-1849553344)
 - [Dev.to/JS] [Hola como](https://dev.to/blancag84398039/hola-como-34ag)
@@ -37,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Free Time Is Too Much Free Time, According to Science](https://lifehacker.com/how-much-free-time-is-too-much-free-time-according-to-1849551514)
 - [Dev.to/JS] [Using a Headless CMS to send email newsletter?](https://dev.to/dan_inndio/using-a-headless-cms-to-send-email-newsletter-267o)
 - [Lifehacker] [10 Great Movies About 10 of History&#39;s Worst People](https://lifehacker.com/10-great-movies-about-10-of-historys-worst-people-1849547844)
-- [Dev.to/JS] [Create an Accordion with Tailwind CSS and Alpine JS](https://dev.to/devrohit0/create-an-accordion-with-tailwind-css-and-alpine-js-28m9)
-- [Dev.to/JS] [How can I connect Firebase DB to Django in Python?](https://dev.to/kalidasraja/how-can-i-connect-firebase-db-to-django-in-python-m12)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-sep-2022-2m1a)
 - [Lifehacker] [No One Really Knows What Muscle Knots Are](https://lifehacker.com/no-one-really-knows-what-muscle-knots-are-1849547116)
-- [Dev.to/JS] [How to mint a NFT on Solana?](https://dev.to/rtagliavia/how-to-mint-a-nft-on-solana-3d35)
 - [Lifehacker] [How to Start Composting Leaves &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-composting-leaves-and-why-you-should-1849546766)
 - [Lifehacker] [How to Make &#39;Creamier&#39; Cocktails Without Any Cream](https://lifehacker.com/how-to-make-creamier-cocktails-without-any-cream-1849546630)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in October 2022](https://lifehacker.com/whats-new-on-disney-in-october-2022-1849546357)
 - [Lifehacker] [Five Signs That You&#39;re the Toxic One in a Relationship](https://lifehacker.com/five-signs-that-youre-the-toxic-one-in-a-relationship-1849546105)
 - [Lifehacker] [How Student Loan Forgiveness Will Affect Your Credit Score](https://lifehacker.com/how-student-loan-forgiveness-will-affect-your-credit-sc-1849545879)
-- [Lifehacker] [How Often Do You Really Need to Wash Your Hair?](https://lifehacker.com/how-often-do-you-really-need-to-wash-your-hair-1849545757)
-- [Lifehacker] [22 Upcoming Movies With the Most Oscar Buzz This Year](https://lifehacker.com/22-upcoming-movies-with-the-most-oscar-buzz-this-year-1849541214)
-- [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
-- [Lifehacker] [You Should Enable These New Privacy Features in iOS 16](https://lifehacker.com/you-should-enable-these-new-privacy-features-in-ios-16-1849544881)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Often Do You Really Need to Wash Your Hair?](https://lifehacker.com/how-often-do-you-really-need-to-wash-your-hair-1849545757)<!-- TECH-POSTS:END -->
 
 ---
 
