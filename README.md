@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Portfolio Website &lpar;Next js + tailwindcss + Wordpress&rpar;](https://dev.to/ds_sombol/my-portfolio-website-next-js-tailwindcss-wordpress-52b0)
 - [Dev.to/JS] [React for Beginners](https://dev.to/ericahashert/react-for-beginners-45d1)
 - [Dev.to/JS] [The Heart of Web 3.0](https://dev.to/nessakodo/the-heart-of-web-30-4iln)
 - [Dev.to/JS] [Automate Context](https://dev.to/alichatraei/automate-context-1h3h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [online blackjack real money_ABC.GAME](https://dev.to/lucie01/online-blackjack-real-moneyabcgame-25ld)
 - [Dev.to/JS] [Power BI and SSRS - Pick the right tool to fulfill your needs!](https://dev.to/postwell45/power-bi-and-ssrs-pick-the-right-tool-to-fulfill-your-needs-46ho)
 - [Dev.to/JS] [best online poker sites_ABC.GAME](https://dev.to/lucie01/best-online-poker-sitesabcgame-5ali)
-- [Dev.to/JS] [Preventing users from manipulating my form](https://dev.to/atenad86/preventing-users-from-manipulating-my-form-5310)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
