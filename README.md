@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Decline Android 13 App Notifications](https://lifehacker.com/you-should-decline-android-13-app-notifications-1849555426)
+- [Dev.to/JS] [Setup Vite, Svelte, Inertia, Stimulus, Bootstrap / Foundation on Rails-7 &lpar;Overview&rpar;](https://dev.to/chmich/setup-vite-svelte-inertia-stimulus-bootstrap-foundation-on-rails-7-overview-1bk1)
+- [Dev.to/JS] [Cypress vs Playwright – Clash of the Titans: Introduction &lpar;1&rpar;](https://dev.to/zeljkovic/cypress-vs-playwright-clash-of-the-titans-introduction-1-35i5)
+- [Lifehacker] [These Honey Apple Puffs Are an Easy and Festive Snack](https://lifehacker.com/these-honey-apple-puffs-are-an-easy-and-festive-snack-1849555129)
+- [Dev.to/JS] [Self-Destruct Button Free Download in HTML, CSS, And JavaScript](https://dev.to/allwebcodes/self-destruct-button-free-download-in-html-css-and-javascript-203d)
+- [Dev.to/JS] [MSW - Mock Service Worker - Escopo](https://dev.to/deesouza/mocking-com-o-msw-mock-service-worker-parte-2-4cmj)
 - [Dev.to/JS] [Multi-Colored Text with CSS](https://dev.to/allwebcodes/multi-colored-text-with-css-12gg)
 - [Dev.to/JS] [Make your Node JS App Faster.](https://dev.to/shaikhkamran/make-your-node-js-app-faster-4k0a)
 - [Dev.to/JS] [Débuter avec Angular 14: #3 Réagir à un évenement &lpar;comme le clique&rpar; avec l&#39;Event binding](https://dev.to/sidali/debuter-avec-angular-14-3-reagir-a-un-evenement-comme-le-clique-avec-levent-binding-3a31)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to send data from child component to parent component through &lt;slot&gt; in Svelte](https://dev.to/wentallout/how-to-send-data-from-child-component-to-parent-component-through-in-svelte-37a3)
 - [Dev.to/JS] [useState&lpar;&rpar; in React](https://dev.to/losetom/usestate-in-react-1hfe)
 - [Dev.to/JS] [Explain JSX like I&#39;m five.](https://dev.to/hr21don/explain-jsx-like-im-five-27g6)
-- [Dev.to/JS] [Bringing worldwide potential leaders from the largest companies to Devoxx Morocco 2022!](https://dev.to/essaydyoumayma/bringing-worldwide-potential-leaders-from-the-largest-companies-to-devoxx-morocco-2022-48l4)
-- [Dev.to/JS] [Free Resource To Create A Java Script Project](https://dev.to/1234use/free-resource-to-create-a-java-script-project-4jlo)
-- [Dev.to/JS] [Débuter avec Angular 14: #2 Afficher la valeur d&#39;una d&#39;une variable avec le data binding](https://dev.to/sidali/debuter-avec-angular-14-2-afficher-la-valeur-duna-dune-variable-avec-le-data-binding-2enh)
-- [Dev.to/JS] [Hello World](https://dev.to/imran_baitham/hello-world-1e48)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
 - [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
 - [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
-- [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
-- [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
-- [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)<!-- TECH-POSTS:END -->
 
 ---
 
