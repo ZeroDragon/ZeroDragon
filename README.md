@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Débuter avec Angular 14: #5 Le two way data binding ou le banana in the box 🍌 ️📦](https://dev.to/sidali/debuter-avec-angular-14-5-le-two-way-data-binding-ou-le-banana-in-the-box-52gl)
+- [Dev.to/JS] [Styled components](https://dev.to/pterenin/styled-components-4gp2)
+- [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Dev.to/JS] [Learn How to Fetch Data From the Server](https://dev.to/rembertdesigns/learn-how-to-fetch-data-from-the-server-4i3n)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Dev.to/JS] [Unhex - convert colors to RGB, HEX or HSL in bulk](https://dev.to/aspnxdd/unhex-convert-colors-to-rgb-hex-or-hsl-in-bulk-9fh)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)
 - [Dev.to/JS] [Deleting node modules folders from projects you are not working](https://dev.to/andersoncubo/deleting-node-modules-folders-from-projects-you-are-not-working-dej)
 - [Lifehacker] [The Advanced Spellchecker in Chrome and Edge Saves Everything You Type—Even Passwords](https://lifehacker.com/the-advanced-spellchecker-in-chrome-and-edge-saves-ever-1849557849)
-- [Dev.to/JS] [Matchsticks](https://dev.to/rmion/matchsticks-1mgl)
-- [Dev.to/JS] [Simple Countdown Timer Using JavaScript](https://dev.to/thedevdrawer/simple-countdown-timer-using-javascript-4af7)
 - [Lifehacker] [&#39;The Little Mermaid,&#39; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
 - [Lifehacker] [How Many Steps Should I Take Each Day?](https://lifehacker.com/how-many-steps-should-i-take-each-day-1849557954)
 - [Lifehacker] [How to Register to Vote in the 2022 Midterm Elections](https://lifehacker.com/how-to-register-to-vote-in-the-2022-midterm-elections-1849557507)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who Leaked &#39;Grand Theft Auto VI&#39;?](https://lifehacker.com/who-leaked-grand-theft-auto-vi-1849554402)
 - [Lifehacker] [Jameela Jamil on the B.S. of Toxic Diet Culture](https://lifehacker.com/jameela-jamil-on-the-bullshit-of-toxic-diet-culture-1849554597)
 - [Lifehacker] [You Can Finally Control Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-control-your-apple-watch-from-your-ipho-1849552944)
-- [Lifehacker] [Add a Digital Pet to Your iPhone](https://lifehacker.com/add-a-digital-pet-to-your-iphone-1849553713)
-- [Lifehacker] [Brian Baumgartner Wants Your Chili to Be Better](https://lifehacker.com/brian-baumgartner-wants-your-chili-to-be-better-1849554018)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Add a Digital Pet to Your iPhone](https://lifehacker.com/add-a-digital-pet-to-your-iphone-1849553713)<!-- TECH-POSTS:END -->
 
 ---
 
