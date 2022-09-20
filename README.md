@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the reason why DevOps more popular than ever?](https://dev.to/postwell45/what-is-the-reason-why-devops-more-popular-than-ever-40m9)
+- [Dev.to/JS] [Maximum Number of Words Found in Sentences](https://dev.to/yajindragautam/maximum-number-of-words-found-in-sentences-5f58)
 - [Dev.to/JS] [Top 10 React Grid Components and Libraries for 2022](https://dev.to/quokkalabs/top-10-react-grid-components-and-libraries-for-2022-3pbn)
 - [Dev.to/JS] [Arrow Functions](https://dev.to/mustafariz/arrow-functions-552j)
 - [Dev.to/JS] [Learning how to learn JS](https://dev.to/carnold22265/learning-how-to-learn-js-4ch8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Arrays for Beginners](https://dev.to/chrisding7/javascript-arrays-for-beginners-4cnd)
 - [Dev.to/JS] [How To Use Embedded JavaScript &lpar;EJS&rpar; As A Template Engine In NodeJs - Full Explanation](https://dev.to/ugorji_simon/how-to-use-embedded-javascript-ejs-as-a-template-engine-in-nodejs-full-explanation-7m5)
 - [Dev.to/JS] [Scope in JavaScript](https://dev.to/pazukunous/scope-in-javascript-2f5e)
-- [Dev.to/JS] [Display JSON with HTML, CSS, and Javascript](https://dev.to/maxim_maeder/display-json-with-html-css-and-javascript-5co1)
-- [Dev.to/JS] [Also First Time I Work on Someone&#39;s Code](https://dev.to/genne23v/also-first-time-i-work-on-someones-code-f6m)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
 - [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)
