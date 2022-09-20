@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)
+- [Dev.to/JS] [Deleting node modules folders from projects you are not working](https://dev.to/andersoncubo/deleting-node-modules-folders-from-projects-you-are-not-working-dej)
+- [Lifehacker] [The Advanced Spellchecker in Chrome and Edge Saves Everything You Type—Even Passwords](https://lifehacker.com/the-advanced-spellchecker-in-chrome-and-edge-saves-ever-1849557849)
+- [Dev.to/JS] [Matchsticks](https://dev.to/rmion/matchsticks-1mgl)
+- [Dev.to/JS] [Simple Countdown Timer Using JavaScript](https://dev.to/thedevdrawer/simple-countdown-timer-using-javascript-4af7)
 - [Lifehacker] [&quot;The Little Mermaid,&quot; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
 - [Dev.to/JS] [Replace Windows 10&#39;s emoji](https://dev.to/michelc/replace-windows-10s-emoji-4o2n)
 - [Dev.to/JS] [Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.](https://dev.to/mohamedcaliph/write-an-algorithm-that-takes-an-array-and-moves-all-of-the-zeros-to-the-end-preserving-the-order-of-the-other-elements-2h6d)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [26-React File Manager Chapter XXVI: The Node Watcher](https://dev.to/hassanzohdy/26-react-file-manager-chapter-xxvi-the-node-watcher-4mn0)
 - [Lifehacker] [These Are the U.S. Cities Where Drivers Spend the Most Time in Traffic](https://lifehacker.com/these-are-the-u-s-cities-where-drivers-spend-the-most-1849557957)
 - [Dev.to/JS] [Adding medusa storefronts](https://dev.to/dailydevtips1/adding-medusa-storefronts-56m)
-- [Dev.to/JS] [iPhone 14 w/ Dynamic Island Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/iphone-14-w-dynamic-island-free-download-in-html-css-and-javascript-ikh)
-- [Dev.to/JS] [Working with the JavaScript Reflect API](https://dev.to/logrocket/working-with-the-javascript-reflect-api-4okk)
 - [Lifehacker] [Your iPhone 14 Has a Hidden Startup Sound](https://lifehacker.com/your-iphone-14-has-a-hidden-startup-sound-1849557750)
-- [Dev.to/JS] [Create Modal Box Using CSS And JS](https://dev.to/herryjobn/create-modal-box-using-css-and-js-3h5m)
 - [Lifehacker] [Why Nasal Irrigation May Help With a COVID Infection](https://lifehacker.com/why-nasal-irrigation-may-help-with-a-covid-infection-1849555930)
 - [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
 - [Lifehacker] [The Pickle Sandwich Deserves Your Respect](https://lifehacker.com/the-pickle-sandwich-deserves-your-respect-1849555654)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [John Carmack Biography](https://www.thecrazyprogrammer.com/2022/09/john-carmack-biography.html)
 - [Lifehacker] [How to Monetize Your Backyard](https://lifehacker.com/how-to-monetize-your-backyard-1849553344)
 - [Lifehacker] [How to Tell When Your Boss Is Lying &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-when-your-boss-is-lying-and-what-to-do-abo-1849552745)
-- [Lifehacker] [How to Fix a Wooden Door That Sticks](https://lifehacker.com/how-to-fix-a-wooden-door-that-sticks-1849550926)
-- [Lifehacker] [How to Recognize &#39;Sensory Processing Disorder&#39; in Your Child](https://lifehacker.com/how-to-recognize-sensory-processing-disorder-in-your-ch-1849549796)
-- [Lifehacker] [How Much Free Time Is Too Much Free Time, According to Science](https://lifehacker.com/how-much-free-time-is-too-much-free-time-according-to-1849551514)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fix a Wooden Door That Sticks](https://lifehacker.com/how-to-fix-a-wooden-door-that-sticks-1849550926)<!-- TECH-POSTS:END -->
 
 ---
 
