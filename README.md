@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Never Make &lpar;or Even Buy&rpar; a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)
+- [Dev.to/JS] [Best Free Courses to Learn WebDev for Beginners](https://dev.to/techbelle/best-free-course-to-learn-mongodb-for-beginners-l4i)
+- [Dev.to/JS] [Pin Save: Evmos decentralized Pinterest nextjs nft application](https://dev.to/pfedprog/pin-save-evmos-decentralized-pinterest-nextjs-nft-application-423j)
+- [Dev.to/JS] [Get Free Cloud ROI Assesment Workshop](https://dev.to/ismiletechnology/get-free-cloud-roi-assesment-workshop-3a5g)
+- [Lifehacker] [Why Personal Finance Gurus Are Awful at Giving Personal Finance Advice](https://lifehacker.com/why-personal-finance-gurus-are-awful-at-giving-personal-1849558271)
+- [Lifehacker] [Keep This Easy Fried Garlic on Hand at All Times](https://lifehacker.com/keep-this-easy-fried-garlic-on-hand-at-all-times-1849558561)
+- [Dev.to/JS] [Free &amp; Discounted Courses - 9/20/2022](https://dev.to/theprogramminbuddyclub/free-discounted-courses-9202022-306d)
 - [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)
 - [Dev.to/JS] [Deleting node modules folders from projects you are not working](https://dev.to/andersoncubo/deleting-node-modules-folders-from-projects-you-are-not-working-dej)
 - [Lifehacker] [The Advanced Spellchecker in Chrome and Edge Saves Everything You Type—Even Passwords](https://lifehacker.com/the-advanced-spellchecker-in-chrome-and-edge-saves-ever-1849557849)
@@ -31,16 +38,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&quot;The Little Mermaid,&quot; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
 - [Dev.to/JS] [Replace Windows 10&#39;s emoji](https://dev.to/michelc/replace-windows-10s-emoji-4o2n)
 - [Dev.to/JS] [Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.](https://dev.to/mohamedcaliph/write-an-algorithm-that-takes-an-array-and-moves-all-of-the-zeros-to-the-end-preserving-the-order-of-the-other-elements-2h6d)
-- [Dev.to/JS] [Ready for a &quot;Remix&quot; on React?](https://dev.to/raymondluudev/ready-for-a-remix-on-react-4l8a)
+- [Dev.to/JS] [Ready for a &quot;Remix&quot; on React?](https://dev.to/devsatasurion/ready-for-a-remix-on-react-4l8a)
 - [Lifehacker] [How Many Steps Should I Take Each Day?](https://lifehacker.com/how-many-steps-should-i-take-each-day-1849557954)
 - [Dev.to/JS] [Publish to DokuWiki programmatically without any API](https://dev.to/erikhofer/publish-to-dokuwiki-programmatically-without-any-api-4b6o)
 - [Lifehacker] [How to Register to Vote in the 2022 Midterm Elections](https://lifehacker.com/how-to-register-to-vote-in-the-2022-midterm-elections-1849557507)
 - [Dev.to/JS] [Dynamic Menu](https://dev.to/_eduard26/dynamic-menu-4oh2)
-- [Dev.to/JS] [Release NPM Package With Automatic Versioning](https://dev.to/zirkelc/release-npm-package-with-automatic-versioning-4if4)
-- [Dev.to/JS] [Building social media for developers.](https://dev.to/tazim404/building-social-media-for-developers-1c4o)
-- [Dev.to/JS] [26-React File Manager Chapter XXVI: The Node Watcher](https://dev.to/hassanzohdy/26-react-file-manager-chapter-xxvi-the-node-watcher-4mn0)
 - [Lifehacker] [These Are the U.S. Cities Where Drivers Spend the Most Time in Traffic](https://lifehacker.com/these-are-the-u-s-cities-where-drivers-spend-the-most-1849557957)
-- [Dev.to/JS] [Adding medusa storefronts](https://dev.to/dailydevtips1/adding-medusa-storefronts-56m)
 - [Lifehacker] [Your iPhone 14 Has a Hidden Startup Sound](https://lifehacker.com/your-iphone-14-has-a-hidden-startup-sound-1849557750)
 - [Lifehacker] [Why Nasal Irrigation May Help With a COVID Infection](https://lifehacker.com/why-nasal-irrigation-may-help-with-a-covid-infection-1849555930)
 - [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Brian Baumgartner Wants Your Chili to Be Better](https://lifehacker.com/brian-baumgartner-wants-your-chili-to-be-better-1849554018)
 - [Lifehacker] [Make a Stellar Breakfast With a Tub of Trader Joe&#39;s Dip](https://lifehacker.com/make-a-stellar-breakfast-with-a-tub-of-trader-joes-dip-1849553369)
 - [Lifehacker] [Don’t Clean Your Air Fryer With This Viral TikTok Trick &lpar;and What to Do Instead&rpar;](https://lifehacker.com/don-t-clean-your-air-fryer-with-this-viral-tiktok-trick-1849553685)
-- [Crazy Programmer] [John Carmack Biography](https://www.thecrazyprogrammer.com/2022/09/john-carmack-biography.html)
-- [Lifehacker] [How to Monetize Your Backyard](https://lifehacker.com/how-to-monetize-your-backyard-1849553344)
-- [Lifehacker] [How to Tell When Your Boss Is Lying &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-when-your-boss-is-lying-and-what-to-do-abo-1849552745)
-- [Lifehacker] [How to Fix a Wooden Door That Sticks](https://lifehacker.com/how-to-fix-a-wooden-door-that-sticks-1849550926)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [John Carmack Biography](https://www.thecrazyprogrammer.com/2022/09/john-carmack-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
