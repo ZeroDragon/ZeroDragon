@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
+- [Lifehacker] [Can You Get Your Flu Shot and COVID Booster in the Same Arm?](https://lifehacker.com/can-you-get-your-flu-shot-and-covid-booster-in-the-same-1849559241)
 - [Lifehacker] [Why You Should Never Make &lpar;or Even Buy&rpar; a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)
 - [Dev.to/JS] [Best Free Courses to Learn WebDev for Beginners](https://dev.to/techbelle/best-free-course-to-learn-mongodb-for-beginners-l4i)
 - [Dev.to/JS] [Pin Save: Evmos decentralized Pinterest nextjs nft application](https://dev.to/pfedprog/pin-save-evmos-decentralized-pinterest-nextjs-nft-application-423j)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Control Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-control-your-apple-watch-from-your-ipho-1849552944)
 - [Lifehacker] [Add a Digital Pet to Your iPhone](https://lifehacker.com/add-a-digital-pet-to-your-iphone-1849553713)
 - [Lifehacker] [Brian Baumgartner Wants Your Chili to Be Better](https://lifehacker.com/brian-baumgartner-wants-your-chili-to-be-better-1849554018)
-- [Lifehacker] [Make a Stellar Breakfast With a Tub of Trader Joe&#39;s Dip](https://lifehacker.com/make-a-stellar-breakfast-with-a-tub-of-trader-joes-dip-1849553369)
-- [Lifehacker] [Don’t Clean Your Air Fryer With This Viral TikTok Trick &lpar;and What to Do Instead&rpar;](https://lifehacker.com/don-t-clean-your-air-fryer-with-this-viral-tiktok-trick-1849553685)
-- [Crazy Programmer] [John Carmack Biography](https://www.thecrazyprogrammer.com/2022/09/john-carmack-biography.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Stellar Breakfast With a Tub of Trader Joe&#39;s Dip](https://lifehacker.com/make-a-stellar-breakfast-with-a-tub-of-trader-joes-dip-1849553369)<!-- TECH-POSTS:END -->
 
 ---
 
