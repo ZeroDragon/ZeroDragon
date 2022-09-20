@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multi-Colored Text with CSS](https://dev.to/allwebcodes/multi-colored-text-with-css-12gg)
+- [Dev.to/JS] [Make your Node JS App Faster.](https://dev.to/shaikhkamran/make-your-node-js-app-faster-4k0a)
+- [Dev.to/JS] [Débuter avec Angular 14: #3 Réagir à un évenement &lpar;comme le clique&rpar; avec l&#39;Event binding](https://dev.to/sidali/debuter-avec-angular-14-3-reagir-a-un-evenement-comme-le-clique-avec-levent-binding-3a31)
+- [Lifehacker] [9 Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
+- [Dev.to/JS] [7 Best Languages for Web MVP Development](https://dev.to/techtixx/7-best-languages-for-web-mvp-development-27im)
+- [Dev.to/JS] [How to get started using Angular with Contentful](https://dev.to/contentful/how-to-get-started-using-angular-with-contentful-57lh)
+- [Dev.to/JS] [How to send data from child component to parent component through &lt;slot&gt; in Svelte](https://dev.to/wentallout/how-to-send-data-from-child-component-to-parent-component-through-in-svelte-37a3)
+- [Dev.to/JS] [useState&lpar;&rpar; in React](https://dev.to/losetom/usestate-in-react-1hfe)
 - [Dev.to/JS] [Explain JSX like I&#39;m five.](https://dev.to/hr21don/explain-jsx-like-im-five-27g6)
 - [Dev.to/JS] [Bringing worldwide potential leaders from the largest companies to Devoxx Morocco 2022!](https://dev.to/essaydyoumayma/bringing-worldwide-potential-leaders-from-the-largest-companies-to-devoxx-morocco-2022-48l4)
 - [Dev.to/JS] [Free Resource To Create A Java Script Project](https://dev.to/1234use/free-resource-to-create-a-java-script-project-4jlo)
 - [Dev.to/JS] [Débuter avec Angular 14: #2 Afficher la valeur d&#39;una d&#39;une variable avec le data binding](https://dev.to/sidali/debuter-avec-angular-14-2-afficher-la-valeur-duna-dune-variable-avec-le-data-binding-2enh)
 - [Dev.to/JS] [Hello World](https://dev.to/imran_baitham/hello-world-1e48)
-- [Dev.to/JS] [Html table with row selection and sorting using JQuery](https://dev.to/avdhoot21/html-table-with-row-selection-and-sorting-using-jquery-1g0o)
-- [Dev.to/JS] [I ported a large C++ library to the browser!](https://dev.to/luoxuhai/i-ported-a-large-c-library-to-the-browser-55a6)
-- [Dev.to/JS] [Share your thoughts about NestJS](https://dev.to/habdenscrimen/what-are-your-thoughts-about-nestjs-1842)
-- [Dev.to/JS] [5 Best JavaScript Charting Libraries](https://dev.to/lightningchart/5-best-javascript-charting-libraries-46pf)
-- [Dev.to/JS] [Create a Weather app using React Js](https://dev.to/skhdev/create-a-weather-app-using-react-js-469d)
-- [Dev.to/JS] [Topmost JAMstack Frontend Frameworks To Utilize In 2023](https://dev.to/jigar_online/topmost-jamstack-frontend-frameworks-to-utilize-in-2023-3fgl)
-- [Dev.to/JS] [Angular Addicts Issue #4: Micro Frontends, Moduliths, Tutorials &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-4-micro-frontends-moduliths-tutorials-more-5fm6)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
 - [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
 - [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
 - [Crazy Programmer] [Donald Knuth Biography](https://www.thecrazyprogrammer.com/2022/09/donald-knuth-biography.html)
-- [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)
-- [Lifehacker] [The Best Week of the Year to Buy a New House](https://lifehacker.com/the-best-week-of-the-year-to-buy-a-new-house-1849547038)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Store the Halloween Candy You Buy Early](https://lifehacker.com/how-to-store-the-halloween-candy-you-buy-early-1849546982)<!-- TECH-POSTS:END -->
 
 ---
 
