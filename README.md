@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use Embedded JavaScript &lpar;EJS&rpar; As A Template Engine In NodeJs - Full Explanation](https://dev.to/ugorji_simon/how-to-use-embedded-javascript-ejs-as-a-template-engine-in-nodejs-full-explanation-7m5)
+- [Dev.to/JS] [Scope in JavaScript](https://dev.to/pazukunous/scope-in-javascript-2f5e)
 - [Dev.to/JS] [Display JSON with HTML, CSS, and Javascript](https://dev.to/maxim_maeder/display-json-with-html-css-and-javascript-5co1)
 - [Dev.to/JS] [Also First Time I Work on Someone&#39;s Code](https://dev.to/genne23v/also-first-time-i-work-on-someones-code-f6m)
 - [Dev.to/JS] [Mac system: A problem about virtual environment can be deleted virtualenvs ？](https://dev.to/junny521222/mac-system-a-problem-about-virtual-environment-can-be-deleted-virtualenvs--39p0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create News Website using Reactjs with the help of third party Api](https://dev.to/akshdesai1/create-news-website-using-reactjs-with-the-help-of-third-party-api-g4o)
 - [Dev.to/JS] [&quot;Hello world&quot; i am new here](https://dev.to/omermusarathor/hello-world-i-am-new-here-36l)
 - [Dev.to/JS] [All in a Single Night](https://dev.to/rmion/all-in-a-single-night-3kj3)
-- [Dev.to/JS] [2 React Hooks That Every Beginner Should Know](https://dev.to/kevinzcs/2-react-hooks-that-every-beginner-should-know-125p)
-- [Dev.to/JS] [Day 1 at FlatIron School!](https://dev.to/ethanld152/day-1-at-flatiron-school-2d0f)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
 - [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)
