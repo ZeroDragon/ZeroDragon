@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
+- [Dev.to/JS] [Add a headless CMS to Astro in 3 easy steps](https://dev.to/stefankudla/add-a-headless-cms-to-astro-in-3-easy-steps-g87)
+- [Dev.to/JS] [Svelte and SvelteKit: The perfect frontend solution](https://dev.to/blackkspydo/svelte-and-sveltekit-the-perfect-frontend-solution-3ppa)
+- [Lifehacker] [The Pickle Sandwich Deserves Your Respect](https://lifehacker.com/the-pickle-sandwich-deserves-your-respect-1849555654)
+- [Dev.to/JS] [25- React File Manager Chapter XXV: Kernel Tree](https://dev.to/hassanzohdy/25-react-file-manager-chapter-xxv-kernel-tree-78b)
+- [Dev.to/JS] [How to virus scan file users upload using ClamAV](https://dev.to/jfbloom22/how-to-virus-scan-file-users-upload-using-clamav-2i5d)
 - [Lifehacker] [You Should Decline Android 13 App Notifications](https://lifehacker.com/you-should-decline-android-13-app-notifications-1849555426)
 - [Dev.to/JS] [Setup Vite, Svelte, Inertia, Stimulus, Bootstrap / Foundation on Rails-7 &lpar;Overview&rpar;](https://dev.to/chmich/setup-vite-svelte-inertia-stimulus-bootstrap-foundation-on-rails-7-overview-1bk1)
 - [Dev.to/JS] [Cypress vs Playwright – Clash of the Titans: Introduction &lpar;1&rpar;](https://dev.to/zeljkovic/cypress-vs-playwright-clash-of-the-titans-introduction-1-35i5)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Débuter avec Angular 14: #3 Réagir à un évenement &lpar;comme le clique&rpar; avec l&#39;Event binding](https://dev.to/sidali/debuter-avec-angular-14-3-reagir-a-un-evenement-comme-le-clique-avec-levent-binding-3a31)
 - [Lifehacker] [9 Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Dev.to/JS] [7 Best Languages for Web MVP Development](https://dev.to/techtixx/7-best-languages-for-web-mvp-development-27im)
-- [Dev.to/JS] [How to get started using Angular with Contentful](https://dev.to/contentful/how-to-get-started-using-angular-with-contentful-57lh)
-- [Dev.to/JS] [How to send data from child component to parent component through &lt;slot&gt; in Svelte](https://dev.to/wentallout/how-to-send-data-from-child-component-to-parent-component-through-in-svelte-37a3)
-- [Dev.to/JS] [useState&lpar;&rpar; in React](https://dev.to/losetom/usestate-in-react-1hfe)
-- [Dev.to/JS] [Explain JSX like I&#39;m five.](https://dev.to/hr21don/explain-jsx-like-im-five-27g6)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
 - [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Start Composting Leaves &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-composting-leaves-and-why-you-should-1849546766)
 - [Lifehacker] [How to Make &#39;Creamier&#39; Cocktails Without Any Cream](https://lifehacker.com/how-to-make-creamier-cocktails-without-any-cream-1849546630)
 - [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
-- [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)
-- [Lifehacker] [How to Find the Ideal Humidity Level for Your Home &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-find-the-ideal-humidity-level-for-your-home-and-1849546770)
-- [Lifehacker] [How to Do Laundry Without Irritating Your Skin &lpar;Besides Switching Detergents&rpar;](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Keep Skunks Out of Your Yard](https://lifehacker.com/how-to-keep-skunks-out-of-your-yard-1849546759)<!-- TECH-POSTS:END -->
 
 ---
 
