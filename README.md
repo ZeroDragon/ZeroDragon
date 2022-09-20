@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Html table with row selection and sorting using JQuery](https://dev.to/avdhoot21/html-table-with-row-selection-and-sorting-using-jquery-1g0o)
+- [Dev.to/JS] [I ported a large C++ library to the browser!](https://dev.to/luoxuhai/i-ported-a-large-c-library-to-the-browser-55a6)
+- [Dev.to/JS] [Share your thoughts about NestJS](https://dev.to/habdenscrimen/what-are-your-thoughts-about-nestjs-1842)
 - [Dev.to/JS] [5 Best JavaScript Charting Libraries](https://dev.to/lightningchart/5-best-javascript-charting-libraries-46pf)
 - [Dev.to/JS] [Create a Weather app using React Js](https://dev.to/skhdev/create-a-weather-app-using-react-js-469d)
 - [Dev.to/JS] [Topmost JAMstack Frontend Frameworks To Utilize In 2023](https://dev.to/jigar_online/topmost-jamstack-frontend-frameworks-to-utilize-in-2023-3fgl)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Things to Keep in Mind Before Creating a Strapi Plugin](https://dev.to/strapi/5-things-to-keep-in-mind-before-creating-a-strapi-plugin-3gie)
 - [Dev.to/JS] [What is the reason why DevOps more popular than ever?](https://dev.to/postwell45/what-is-the-reason-why-devops-more-popular-than-ever-40m9)
 - [Dev.to/JS] [Maximum Number of Words Found in Sentences](https://dev.to/yajindragautam/maximum-number-of-words-found-in-sentences-5f58)
-- [Dev.to/JS] [Top 10 React Grid Components and Libraries for 2022](https://dev.to/quokkalabs/top-10-react-grid-components-and-libraries-for-2022-3pbn)
-- [Dev.to/JS] [Arrow Functions](https://dev.to/mustafariz/arrow-functions-552j)
-- [Dev.to/JS] [Learning how to learn JS](https://dev.to/carnold22265/learning-how-to-learn-js-4ch8)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
 - [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)
