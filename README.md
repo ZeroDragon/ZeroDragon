@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mac system: A problem about virtual environment can be deleted virtualenvs ？](https://dev.to/junny521222/mac-system-a-problem-about-virtual-environment-can-be-deleted-virtualenvs--39p0)
+- [Dev.to/JS] [24- React File Manager Chapter XXIV: Completing Create Directory Action](https://dev.to/hassanzohdy/24-react-file-manager-chapter-xxiv-completing-create-directory-action-18dn)
+- [Dev.to/JS] [OSD600- Siteit is not a citation tool](https://dev.to/tdaw/osd600-siteit-is-not-a-citation-tool-5cc9)
+- [Dev.to/JS] [SkinCell Advanced &lpar;AU&rpar; - Skin Care Benefits, Uses, Reviews And Side Effects?](https://dev.to/skincelladvanc6/skincell-advanced-au-skin-care-benefits-uses-reviews-and-side-effects-3pi8)
 - [Dev.to/JS] [Giới Thiệu Công Ty WORKMAN JSC](https://dev.to/jscworkman/gioi-thieu-cong-ty-workman-jsc-2ki4)
 - [Dev.to/JS] [Create News Website using Reactjs with the help of third party Api](https://dev.to/akshdesai1/create-news-website-using-reactjs-with-the-help-of-third-party-api-g4o)
 - [Dev.to/JS] [&quot;Hello world&quot; i am new here](https://dev.to/omermusarathor/hello-world-i-am-new-here-36l)
@@ -37,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who Leaked &#39;Grand Theft Auto VI&#39;?](https://lifehacker.com/who-leaked-grand-theft-auto-vi-1849554402)
 - [Dev.to/JS] [Deploy Frontend Repositories With a Single Click](https://dev.to/shreyvijayvargiya/deploy-frontend-repositories-with-a-single-click-3ldm)
 - [Lifehacker] [Jameela Jamil on the B.S. of Toxic Diet Culture](https://lifehacker.com/jameela-jamil-on-the-bullshit-of-toxic-diet-culture-1849554597)
-- [Dev.to/JS] [Web developer 💛 💛 💛 💛](https://dev.to/samah2022/web-developer-49b5)
-- [Dev.to/JS] [Prerender routes in Express server for Angular - Part I](https://dev.to/ayyash/prerender-routes-in-express-server-for-angular-part-i-1ag4)
-- [Dev.to/JS] [This is Demo](https://dev.to/imran_baitham/this-is-demo-3l29)
 - [Lifehacker] [You Can Finally Control Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-control-your-apple-watch-from-your-ipho-1849552944)
-- [Dev.to/JS] [t6 IoT Sockets connection](https://dev.to/mathcoll/t6-iot-sockets-connection-59e9)
 - [Lifehacker] [Add a Digital Pet to Your iPhone](https://lifehacker.com/add-a-digital-pet-to-your-iphone-1849553713)
 - [Lifehacker] [Brian Baumgartner Wants Your Chili to Be Better](https://lifehacker.com/brian-baumgartner-wants-your-chili-to-be-better-1849554018)
 - [Lifehacker] [Make a Stellar Breakfast With a Tub of Trader Joe&#39;s Dip](https://lifehacker.com/make-a-stellar-breakfast-with-a-tub-of-trader-joes-dip-1849553369)
