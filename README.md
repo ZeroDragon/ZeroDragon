@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [&quot;The Little Mermaid,&quot; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
+- [Dev.to/JS] [Replace Windows 10&#39;s emoji](https://dev.to/michelc/replace-windows-10s-emoji-4o2n)
+- [Dev.to/JS] [Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.](https://dev.to/mohamedcaliph/write-an-algorithm-that-takes-an-array-and-moves-all-of-the-zeros-to-the-end-preserving-the-order-of-the-other-elements-2h6d)
+- [Dev.to/JS] [Ready for a &quot;Remix&quot; on React?](https://dev.to/raymondluudev/ready-for-a-remix-on-react-4l8a)
+- [Lifehacker] [How Many Steps Should I Take Each Day?](https://lifehacker.com/how-many-steps-should-i-take-each-day-1849557954)
+- [Dev.to/JS] [Publish to DokuWiki programmatically without any API](https://dev.to/erikhofer/publish-to-dokuwiki-programmatically-without-any-api-4b6o)
 - [Lifehacker] [How to Register to Vote in the 2022 Midterm Elections](https://lifehacker.com/how-to-register-to-vote-in-the-2022-midterm-elections-1849557507)
 - [Dev.to/JS] [Dynamic Menu](https://dev.to/_eduard26/dynamic-menu-4oh2)
 - [Dev.to/JS] [Release NPM Package With Automatic Versioning](https://dev.to/zirkelc/release-npm-package-with-automatic-versioning-4if4)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working with the JavaScript Reflect API](https://dev.to/logrocket/working-with-the-javascript-reflect-api-4okk)
 - [Lifehacker] [Your iPhone 14 Has a Hidden Startup Sound](https://lifehacker.com/your-iphone-14-has-a-hidden-startup-sound-1849557750)
 - [Dev.to/JS] [Create Modal Box Using CSS And JS](https://dev.to/herryjobn/create-modal-box-using-css-and-js-3h5m)
-- [Dev.to/JS] [The const keyword](https://dev.to/moazamdev/the-const-keyword-lj5)
-- [Dev.to/JS] [Coding habits you need to stop right now](https://dev.to/sleeplessyogi/coding-habits-you-need-to-stop-right-now-3deh)
-- [Dev.to/JS] [Bootstrap 5 Infinite scroll](https://dev.to/mdbootstrap/bootstrap-5-infinite-scroll-5c83)
 - [Lifehacker] [Why Nasal Irrigation May Help With a COVID Infection](https://lifehacker.com/why-nasal-irrigation-may-help-with-a-covid-infection-1849555930)
-- [Dev.to/JS] [Designing Impossible Situations](https://dev.to/jesterxl/designing-impossible-situations-3dp0)
 - [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
 - [Lifehacker] [The Pickle Sandwich Deserves Your Respect](https://lifehacker.com/the-pickle-sandwich-deserves-your-respect-1849555654)
 - [Lifehacker] [You Should Decline Android 13 App Notifications](https://lifehacker.com/you-should-decline-android-13-app-notifications-1849555426)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell When Your Boss Is Lying &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-when-your-boss-is-lying-and-what-to-do-abo-1849552745)
 - [Lifehacker] [How to Fix a Wooden Door That Sticks](https://lifehacker.com/how-to-fix-a-wooden-door-that-sticks-1849550926)
 - [Lifehacker] [How to Recognize &#39;Sensory Processing Disorder&#39; in Your Child](https://lifehacker.com/how-to-recognize-sensory-processing-disorder-in-your-ch-1849549796)
-- [Lifehacker] [How Much Free Time Is Too Much Free Time, According to Science](https://lifehacker.com/how-much-free-time-is-too-much-free-time-according-to-1849551514)
-- [Lifehacker] [10 Great Movies About 10 of History&#39;s Worst People](https://lifehacker.com/10-great-movies-about-10-of-historys-worst-people-1849547844)
-- [Lifehacker] [No One Really Knows What Muscle Knots Are](https://lifehacker.com/no-one-really-knows-what-muscle-knots-are-1849547116)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Much Free Time Is Too Much Free Time, According to Science](https://lifehacker.com/how-much-free-time-is-too-much-free-time-according-to-1849551514)<!-- TECH-POSTS:END -->
 
 ---
 
