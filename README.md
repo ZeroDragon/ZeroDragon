@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create News Website using Reactjs with the help of third party Api](https://dev.to/akshdesai1/create-news-website-using-reactjs-with-the-help-of-third-party-api-g4o)
+- [Dev.to/JS] [&quot;Hello world&quot; i am new here](https://dev.to/omermusarathor/hello-world-i-am-new-here-36l)
 - [Dev.to/JS] [All in a Single Night](https://dev.to/rmion/all-in-a-single-night-3kj3)
 - [Dev.to/JS] [2 React Hooks That Every Beginner Should Know](https://dev.to/kevinzcs/2-react-hooks-that-every-beginner-should-know-125p)
 - [Dev.to/JS] [Day 1 at FlatIron School!](https://dev.to/ethanld152/day-1-at-flatiron-school-2d0f)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remplacer les émojis de Windows 10](https://dev.to/michelc/remplacer-les-emojis-de-windows-10-15ii)
 - [Lifehacker] [Brian Baumgartner Wants Your Chili to Be Better](https://lifehacker.com/brian-baumgartner-wants-your-chili-to-be-better-1849554018)
 - [Lifehacker] [Make a Stellar Breakfast With a Tub of Trader Joe&#39;s Dip](https://lifehacker.com/make-a-stellar-breakfast-with-a-tub-of-trader-joes-dip-1849553369)
-- [Dev.to/JS] [Get URL Params in React](https://dev.to/gaelgthomas/get-url-params-in-react-2m8f)
-- [Dev.to/JS] [Toplist review nhanh 10 nhà cái đình đám bậc nhất 2022](https://dev.to/tylekeoclub/toplist-review-nhanh-10-nha-cai-dinh-dam-bac-nhat-2022-5hib)
 - [Lifehacker] [Don’t Clean Your Air Fryer With This Viral TikTok Trick &lpar;and What to Do Instead&rpar;](https://lifehacker.com/don-t-clean-your-air-fryer-with-this-viral-tiktok-trick-1849553685)
 - [Crazy Programmer] [John Carmack Biography](https://www.thecrazyprogrammer.com/2022/09/john-carmack-biography.html)
 - [Lifehacker] [How to Monetize Your Backyard](https://lifehacker.com/how-to-monetize-your-backyard-1849553344)
