@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Display JSON with HTML, CSS, and Javascript](https://dev.to/maxim_maeder/display-json-with-html-css-and-javascript-5co1)
+- [Dev.to/JS] [Also First Time I Work on Someone&#39;s Code](https://dev.to/genne23v/also-first-time-i-work-on-someones-code-f6m)
 - [Dev.to/JS] [Mac system: A problem about virtual environment can be deleted virtualenvs ？](https://dev.to/junny521222/mac-system-a-problem-about-virtual-environment-can-be-deleted-virtualenvs--39p0)
 - [Dev.to/JS] [24- React File Manager Chapter XXIV: Completing Create Directory Action](https://dev.to/hassanzohdy/24-react-file-manager-chapter-xxiv-completing-create-directory-action-18dn)
 - [Dev.to/JS] [OSD600- Siteit is not a citation tool](https://dev.to/tdaw/osd600-siteit-is-not-a-citation-tool-5cc9)
@@ -35,11 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 1 at FlatIron School!](https://dev.to/ethanld152/day-1-at-flatiron-school-2d0f)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
-- [Dev.to/JS] [Stop Using .env Files Now!](https://dev.to/gregorygaines/stop-using-env-files-now-kp0)
 - [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)
 - [Lifehacker] [Make Your Own No-Carb Egg Wraps With Two Ingredients](https://lifehacker.com/make-your-own-no-carb-egg-wraps-with-two-ingredients-1849554298)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who Leaked &#39;Grand Theft Auto VI&#39;?](https://lifehacker.com/who-leaked-grand-theft-auto-vi-1849554402)
-- [Dev.to/JS] [Deploy Frontend Repositories With a Single Click](https://dev.to/shreyvijayvargiya/deploy-frontend-repositories-with-a-single-click-3ldm)
 - [Lifehacker] [Jameela Jamil on the B.S. of Toxic Diet Culture](https://lifehacker.com/jameela-jamil-on-the-bullshit-of-toxic-diet-culture-1849554597)
 - [Lifehacker] [You Can Finally Control Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-control-your-apple-watch-from-your-ipho-1849552944)
 - [Lifehacker] [Add a Digital Pet to Your iPhone](https://lifehacker.com/add-a-digital-pet-to-your-iphone-1849553713)
