@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn How to Fetch Data From the Server](https://dev.to/rembertdesigns/learn-how-to-fetch-data-from-the-server-4i3n)
+- [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
+- [Dev.to/JS] [Unhex - convert colors to RGB, HEX or HSL in bulk](https://dev.to/aspnxdd/unhex-convert-colors-to-rgb-hex-or-hsl-in-bulk-9fh)
+- [Dev.to/JS] [I&#39;ll teach you 7 Array methods. &lpar;with animations!&rpar;](https://dev.to/fredysandoval/ill-teach-you-7-array-methods-with-animations-549c)
+- [Dev.to/JS] [Click the button! Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/click-the-button-free-download-in-html-css-and-javascript-542p)
+- [Dev.to/JS] [Débuter avec Angular 14: #4 La programmation reactive](https://dev.to/sidali/debuter-avec-angular-14-4-la-programmation-reactive-1k5c)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
 - [Lifehacker] [Can You Get Your Flu Shot and COVID Booster in the Same Arm?](https://lifehacker.com/can-you-get-your-flu-shot-and-covid-booster-in-the-same-1849559241)
 - [Lifehacker] [Why You Should Never Make &lpar;or Even Buy&rpar; a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)
@@ -37,14 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Advanced Spellchecker in Chrome and Edge Saves Everything You Type—Even Passwords](https://lifehacker.com/the-advanced-spellchecker-in-chrome-and-edge-saves-ever-1849557849)
 - [Dev.to/JS] [Matchsticks](https://dev.to/rmion/matchsticks-1mgl)
 - [Dev.to/JS] [Simple Countdown Timer Using JavaScript](https://dev.to/thedevdrawer/simple-countdown-timer-using-javascript-4af7)
-- [Lifehacker] [&quot;The Little Mermaid,&quot; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
-- [Dev.to/JS] [Replace Windows 10&#39;s emoji](https://dev.to/michelc/replace-windows-10s-emoji-4o2n)
-- [Dev.to/JS] [Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.](https://dev.to/mohamedcaliph/write-an-algorithm-that-takes-an-array-and-moves-all-of-the-zeros-to-the-end-preserving-the-order-of-the-other-elements-2h6d)
-- [Dev.to/JS] [Ready for a &quot;Remix&quot; on React?](https://dev.to/devsatasurion/ready-for-a-remix-on-react-4l8a)
+- [Lifehacker] [&#39;The Little Mermaid,&#39; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
 - [Lifehacker] [How Many Steps Should I Take Each Day?](https://lifehacker.com/how-many-steps-should-i-take-each-day-1849557954)
-- [Dev.to/JS] [Publish to DokuWiki programmatically without any API](https://dev.to/erikhofer/publish-to-dokuwiki-programmatically-without-any-api-4b6o)
 - [Lifehacker] [How to Register to Vote in the 2022 Midterm Elections](https://lifehacker.com/how-to-register-to-vote-in-the-2022-midterm-elections-1849557507)
-- [Dev.to/JS] [Dynamic Menu](https://dev.to/_eduard26/dynamic-menu-4oh2)
 - [Lifehacker] [These Are the U.S. Cities Where Drivers Spend the Most Time in Traffic](https://lifehacker.com/these-are-the-u-s-cities-where-drivers-spend-the-most-1849557957)
 - [Lifehacker] [Your iPhone 14 Has a Hidden Startup Sound](https://lifehacker.com/your-iphone-14-has-a-hidden-startup-sound-1849557750)
 - [Lifehacker] [Why Nasal Irrigation May Help With a COVID Infection](https://lifehacker.com/why-nasal-irrigation-may-help-with-a-covid-infection-1849555930)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Jameela Jamil on the B.S. of Toxic Diet Culture](https://lifehacker.com/jameela-jamil-on-the-bullshit-of-toxic-diet-culture-1849554597)
 - [Lifehacker] [You Can Finally Control Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-control-your-apple-watch-from-your-ipho-1849552944)
 - [Lifehacker] [Add a Digital Pet to Your iPhone](https://lifehacker.com/add-a-digital-pet-to-your-iphone-1849553713)
-- [Lifehacker] [Brian Baumgartner Wants Your Chili to Be Better](https://lifehacker.com/brian-baumgartner-wants-your-chili-to-be-better-1849554018)
-- [Lifehacker] [Make a Stellar Breakfast With a Tub of Trader Joe&#39;s Dip](https://lifehacker.com/make-a-stellar-breakfast-with-a-tub-of-trader-joes-dip-1849553369)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Brian Baumgartner Wants Your Chili to Be Better](https://lifehacker.com/brian-baumgartner-wants-your-chili-to-be-better-1849554018)<!-- TECH-POSTS:END -->
 
 ---
 
