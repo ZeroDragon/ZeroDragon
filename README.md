@@ -23,21 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Register to Vote in the 2022 Midterm Elections](https://lifehacker.com/how-to-register-to-vote-in-the-2022-midterm-elections-1849557507)
+- [Dev.to/JS] [Dynamic Menu](https://dev.to/_eduard26/dynamic-menu-4oh2)
+- [Dev.to/JS] [Release NPM Package With Automatic Versioning](https://dev.to/zirkelc/release-npm-package-with-automatic-versioning-4if4)
+- [Dev.to/JS] [Building social media for developers.](https://dev.to/tazim404/building-social-media-for-developers-1c4o)
+- [Dev.to/JS] [26-React File Manager Chapter XXVI: The Node Watcher](https://dev.to/hassanzohdy/26-react-file-manager-chapter-xxvi-the-node-watcher-4mn0)
+- [Lifehacker] [These Are the U.S. Cities Where Drivers Spend the Most Time in Traffic](https://lifehacker.com/these-are-the-u-s-cities-where-drivers-spend-the-most-1849557957)
+- [Dev.to/JS] [Adding medusa storefronts](https://dev.to/dailydevtips1/adding-medusa-storefronts-56m)
 - [Dev.to/JS] [iPhone 14 w/ Dynamic Island Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/iphone-14-w-dynamic-island-free-download-in-html-css-and-javascript-ikh)
 - [Dev.to/JS] [Working with the JavaScript Reflect API](https://dev.to/logrocket/working-with-the-javascript-reflect-api-4okk)
+- [Lifehacker] [Your iPhone 14 Has a Hidden Startup Sound](https://lifehacker.com/your-iphone-14-has-a-hidden-startup-sound-1849557750)
 - [Dev.to/JS] [Create Modal Box Using CSS And JS](https://dev.to/herryjobn/create-modal-box-using-css-and-js-3h5m)
 - [Dev.to/JS] [The const keyword](https://dev.to/moazamdev/the-const-keyword-lj5)
 - [Dev.to/JS] [Coding habits you need to stop right now](https://dev.to/sleeplessyogi/coding-habits-you-need-to-stop-right-now-3deh)
 - [Dev.to/JS] [Bootstrap 5 Infinite scroll](https://dev.to/mdbootstrap/bootstrap-5-infinite-scroll-5c83)
 - [Lifehacker] [Why Nasal Irrigation May Help With a COVID Infection](https://lifehacker.com/why-nasal-irrigation-may-help-with-a-covid-infection-1849555930)
 - [Dev.to/JS] [Designing Impossible Situations](https://dev.to/jesterxl/designing-impossible-situations-3dp0)
-- [Dev.to/JS] [Electron Router DOM is here!](https://dev.to/daltonmenezes/electron-router-dom-is-here-12hd)
-- [Dev.to/JS] [5 ways to convert a String into an Array in JavaScript](https://dev.to/amitavmishra99/5-ways-to-convert-a-string-into-an-array-in-javascript-4lmc)
 - [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
-- [Dev.to/JS] [Add a headless CMS to Astro in 3 easy steps](https://dev.to/stefankudla/add-a-headless-cms-to-astro-in-3-easy-steps-g87)
-- [Dev.to/JS] [Svelte and SvelteKit: The perfect frontend solution](https://dev.to/blackkspydo/svelte-and-sveltekit-the-perfect-frontend-solution-3ppa)
 - [Lifehacker] [The Pickle Sandwich Deserves Your Respect](https://lifehacker.com/the-pickle-sandwich-deserves-your-respect-1849555654)
-- [Dev.to/JS] [25- React File Manager Chapter XXV: Kernel Tree](https://dev.to/hassanzohdy/25-react-file-manager-chapter-xxv-kernel-tree-78b)
 - [Lifehacker] [You Should Decline Android 13 App Notifications](https://lifehacker.com/you-should-decline-android-13-app-notifications-1849555426)
 - [Lifehacker] [These Honey Apple Puffs Are an Easy and Festive Snack](https://lifehacker.com/these-honey-apple-puffs-are-an-easy-and-festive-snack-1849555129)
 - [Lifehacker] [9 Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recognize &#39;Sensory Processing Disorder&#39; in Your Child](https://lifehacker.com/how-to-recognize-sensory-processing-disorder-in-your-ch-1849549796)
 - [Lifehacker] [How Much Free Time Is Too Much Free Time, According to Science](https://lifehacker.com/how-much-free-time-is-too-much-free-time-according-to-1849551514)
 - [Lifehacker] [10 Great Movies About 10 of History&#39;s Worst People](https://lifehacker.com/10-great-movies-about-10-of-historys-worst-people-1849547844)
-- [Lifehacker] [No One Really Knows What Muscle Knots Are](https://lifehacker.com/no-one-really-knows-what-muscle-knots-are-1849547116)
-- [Lifehacker] [How to Start Composting Leaves &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-composting-leaves-and-why-you-should-1849546766)
-- [Lifehacker] [How to Make &#39;Creamier&#39; Cocktails Without Any Cream](https://lifehacker.com/how-to-make-creamier-cocktails-without-any-cream-1849546630)
-- [Lifehacker] [How to Haggle When You&#39;re Buying a New Mattress](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)<!-- TECH-POSTS:END -->
+- [Lifehacker] [No One Really Knows What Muscle Knots Are](https://lifehacker.com/no-one-really-knows-what-muscle-knots-are-1849547116)<!-- TECH-POSTS:END -->
 
 ---
 
