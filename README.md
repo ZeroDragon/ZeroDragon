@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DevOps Advantages -](https://dev.to/postwell45/devops-advantages--p1e)
+- [Dev.to/JS] [Adding custom routes in medusa](https://dev.to/dailydevtips1/adding-custom-routes-in-medusa-16l5)
+- [Dev.to/JS] [Go lang Basic](https://dev.to/iamsabbiralam/go-lang-basic-33cb)
 - [Dev.to/JS] [How To Render HTML String As Real HTML?](https://dev.to/pankajdas0909/how-to-render-html-string-as-real-html-95m)
 - [Dev.to/JS] [Platform Dependent VS Platform Independent](https://dev.to/roshan_100kar/platform-dependent-vs-platform-independent-bge)
-- [Dev.to/JS] [React.js signal for state management](https://dev.to/devsmitra/reactjs-signal-for-state-mangement-21pf)
+- [Dev.to/JS] [React.js state management using signals](https://dev.to/devsmitra/reactjs-signal-for-state-mangement-21pf)
 - [Dev.to/JS] [Reduce disk space in ReactJS App by 60% using PNPM](https://dev.to/nilanth/reduce-disk-space-in-reactjs-app-by-60-using-pnpm-m42)
 - [Dev.to/JS] [Jquery Append And Prepend Example](https://dev.to/techsolutionstuff/jquery-append-and-prepend-example-2hd4)
 - [Dev.to/JS] [Find Duplicate in Array](https://dev.to/zeeshanali0704/find-duplicate-in-array-21lf)
 - [Dev.to/JS] [Sort 0, 1, 2](https://dev.to/zeeshanali0704/sort-0-1-2-775)
 - [Dev.to/JS] [The legendary &quot;numeric triangle problem&quot;](https://dev.to/azharizkita/the-legendary-numeric-triangle-problem-21j5)
 - [Dev.to/JS] [Daily Temperatures](https://dev.to/zeeshanali0704/daily-temperatures-4l7f)
-- [Dev.to/JS] [Open-source Next.js SaaS Starter Kit](https://dev.to/devkiran/open-source-enterprise-saas-starter-kit-262g)
-- [Dev.to/JS] [Create an Express Server](https://dev.to/sonicx180/create-an-express-server-5267)
-- [Dev.to/JS] [VS Code Tip of the week: The JavaScript Debug Terminal](https://dev.to/vscodetips/vs-code-tip-of-the-week-the-javascript-debug-terminal-2063)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
