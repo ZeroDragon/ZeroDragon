@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
+- [Dev.to/JS] [SvelteKit Changes: Cookies and Authentication](https://dev.to/theether0/sveltekit-changes-session-and-cookies-enb)
+- [Dev.to/JS] [Creating a CLI tool using NodeJS and npm &lpar;part 2&rpar;](https://dev.to/pgarciacamou/creating-a-cli-tool-using-nodejs-and-npm-part-2-8h7)
+- [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
+- [Dev.to/JS] [Random Quotes for Hugo](https://dev.to/dfinster/random-quotes-for-hugo-19md)
+- [Dev.to/JS] [Remove Duplicates from Sorted Array](https://dev.to/nifilat/remove-duplicates-from-sorted-array-55b2)
 - [Lifehacker] [There’s No Three-Day Grace Period at a Dealership](https://lifehacker.com/there-s-no-three-day-grace-period-at-a-dealership-1849563147)
 - [Lifehacker] [How Bad Is a Leaky Faucet, Anyway?](https://lifehacker.com/how-bad-is-a-leaky-faucet-anyway-1849563533)
 - [Dev.to/JS] [First Hackathon](https://dev.to/dotnotation/first-hackathon-l82)
@@ -39,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Harvest Seeds From Your Garden to Plant Next Year](https://lifehacker.com/how-to-harvest-seeds-from-your-garden-to-plant-next-yea-1849562665)
 - [Dev.to/JS] [Fast Frontend Development With Mocked GraphQL](https://dev.to/tahazsh/fast-frontend-development-with-mocked-graphql-2ee3)
 - [Lifehacker] [Why You Should Upgrade to Windows 11 2022](https://lifehacker.com/why-you-should-upgrade-to-windows-11-2022-1849562445)
-- [Dev.to/JS] [Instalar NodeJS en Linux](https://dev.to/elcascarudodev/instalar-nodejs-en-linux-257n)
 - [Lifehacker] [What&#39;s New on Netflix in October 2022](https://lifehacker.com/whats-new-on-netflix-in-october-2022-1849562817)
-- [Dev.to/JS] [Redis OM: Developer Experience using Node.Js](https://dev.to/tochine/redis-om-developer-experience-using-nodejs-4h6o)
-- [Dev.to/JS] [Some Assembly Required](https://dev.to/rmion/some-assembly-required-4hdh)
 - [Lifehacker] [Why the 50/70 Rule for Eye Contact Is BS](https://lifehacker.com/why-the-50-70-rule-for-eye-contact-is-bullshit-1849561431)
-- [Dev.to/JS] [Why You Shouldn&#39;t Mix Promise.then&lpar;&rpar; With Async/Await Syntax](https://dev.to/maximization/why-you-shouldnt-mix-promisethen-with-asyncawait-syntax-gl1)
 - [Lifehacker] [10 of the Most Underrated Stephen King Adaptations](https://lifehacker.com/10-of-the-most-underrated-stephen-king-adaptations-1849559325)
 - [Lifehacker] [15 of NASA&#39;s Coolest Inventions That Regular People Use](https://lifehacker.com/15-of-nasas-coolest-inventions-that-regular-people-use-1849559944)
 - [Lifehacker] [You Should Make These Deviled Egg Crackers](https://lifehacker.com/you-should-make-these-deviled-egg-crackers-1849560253)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Personal Finance Gurus Are Awful at Giving Personal Finance Advice](https://lifehacker.com/why-personal-finance-gurus-are-awful-at-giving-personal-1849558271)
 - [Lifehacker] [Keep This Easy Fried Garlic on Hand at All Times](https://lifehacker.com/keep-this-easy-fried-garlic-on-hand-at-all-times-1849558561)
 - [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)
-- [Lifehacker] [The Advanced Spellchecker in Chrome and Edge Saves Everything You Type—Even Passwords](https://lifehacker.com/the-advanced-spellchecker-in-chrome-and-edge-saves-ever-1849557849)
-- [Lifehacker] [&#39;The Little Mermaid,&#39; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
-- [Lifehacker] [How Many Steps Should I Take Each Day?](https://lifehacker.com/how-many-steps-should-i-take-each-day-1849557954)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Advanced Spellchecker in Chrome and Edge Saves Everything You Type—Even Passwords](https://lifehacker.com/the-advanced-spellchecker-in-chrome-and-edge-saves-ever-1849557849)<!-- TECH-POSTS:END -->
 
 ---
 
