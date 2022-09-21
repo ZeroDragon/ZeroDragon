@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Great Ways to Use up Your Last Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458)
+- [Dev.to/JS] [2.40 - RedwoodJS](https://dev.to/codingcatdev/240-redwoodjs-3aal)
+- [Lifehacker] [All the Android Apps That Can Use ‘Material You’ Icons](https://lifehacker.com/all-the-android-apps-that-can-use-material-you-icons-1849562917)
+- [Dev.to/JS] [What Can&#39;t JavaScript Do?](https://dev.to/mikhailkaran/what-cant-javascript-do-2j55)
+- [Dev.to/JS] [Sync React application state with the URL](https://dev.to/codegino/sync-react-application-state-with-the-url-46kc)
 - [Lifehacker] [How to Fix the Most Annoying iPhone Features in iOS 16](https://lifehacker.com/how-to-fix-the-most-annoying-iphone-features-in-ios-16-1849556666)
 - [Lifehacker] [Altitude Masks Are Total B.S.](https://lifehacker.com/altitude-masks-are-bullshit-1849562913)
 - [Dev.to/JS] [Unable to sign up once log in details have been entered](https://dev.to/jtcodes_/unable-to-sign-up-once-log-in-details-have-been-entered-5c7l)
@@ -39,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Most Underrated Stephen King Adaptations](https://lifehacker.com/10-of-the-most-underrated-stephen-king-adaptations-1849559325)
 - [Dev.to/JS] [14G10DaysCodeChallenge: Day 1&lpar;Remove Duplicates from Sorted Array&rpar;](https://dev.to/chinwendufausty/14g10dayscodechallenge-day-1remove-duplicates-from-sorted-array-2a3h)
 - [Dev.to/JS] [Drawing on top of an image with JavaScript](https://dev.to/coder4_life/drawing-on-top-of-an-image-with-javascript-30p)
-- [Dev.to/JS] [How to Implement Push Notification with Node.js and Service Worker](https://dev.to/mensaiah/how-to-implement-push-notification-with-nodejs-and-service-worker-pl8)
 - [Lifehacker] [15 of NASA&#39;s Coolest Inventions That Regular People Use](https://lifehacker.com/15-of-nasas-coolest-inventions-that-regular-people-use-1849559944)
 - [Lifehacker] [You Should Make These Deviled Egg Crackers](https://lifehacker.com/you-should-make-these-deviled-egg-crackers-1849560253)
-- [Dev.to/JS] [Bootstrap 5 Ripple](https://dev.to/mdbootstrap/bootstrap-5-ripple-2m96)
-- [Dev.to/JS] [Bootstrap 5 Loading management](https://dev.to/mdbootstrap/bootstrap-5-loading-management-4m7)
 - [Lifehacker] [How to Earn Airline Elite Status Without Taking &lpar;As Many&rpar; Flights](https://lifehacker.com/how-to-earn-airline-elite-status-without-taking-as-man-1849559031)
 - [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
 - [Lifehacker] [How ‘Retroactive Jealousy’ Can Ruin a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;The Little Mermaid,&#39; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
 - [Lifehacker] [How Many Steps Should I Take Each Day?](https://lifehacker.com/how-many-steps-should-i-take-each-day-1849557954)
 - [Lifehacker] [How to Register to Vote in the 2022 Midterm Elections](https://lifehacker.com/how-to-register-to-vote-in-the-2022-midterm-elections-1849557507)
-- [Lifehacker] [These Are the U.S. Cities Where Drivers Spend the Most Time in Traffic](https://lifehacker.com/these-are-the-u-s-cities-where-drivers-spend-the-most-1849557957)
-- [Lifehacker] [Your iPhone 14 Has a Hidden Startup Sound](https://lifehacker.com/your-iphone-14-has-a-hidden-startup-sound-1849557750)
-- [Lifehacker] [Why Nasal Irrigation May Help With a COVID Infection](https://lifehacker.com/why-nasal-irrigation-may-help-with-a-covid-infection-1849555930)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the U.S. Cities Where Drivers Spend the Most Time in Traffic](https://lifehacker.com/these-are-the-u-s-cities-where-drivers-spend-the-most-1849557957)<!-- TECH-POSTS:END -->
 
 ---
 
