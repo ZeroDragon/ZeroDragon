@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chrome extension with React](https://dev.to/jsandaruwan/chrome-extension-with-react-70p)
 - [Dev.to/JS] [DevOps Advantages -](https://dev.to/postwell45/devops-advantages--p1e)
 - [Dev.to/JS] [Adding custom routes in medusa](https://dev.to/dailydevtips1/adding-custom-routes-in-medusa-16l5)
 - [Dev.to/JS] [Go lang Basic](https://dev.to/iamsabbiralam/go-lang-basic-33cb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Find Duplicate in Array](https://dev.to/zeeshanali0704/find-duplicate-in-array-21lf)
 - [Dev.to/JS] [Sort 0, 1, 2](https://dev.to/zeeshanali0704/sort-0-1-2-775)
 - [Dev.to/JS] [The legendary &quot;numeric triangle problem&quot;](https://dev.to/azharizkita/the-legendary-numeric-triangle-problem-21j5)
-- [Dev.to/JS] [Daily Temperatures](https://dev.to/zeeshanali0704/daily-temperatures-4l7f)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
