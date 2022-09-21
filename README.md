@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Find Duplicate in Array](https://dev.to/zeeshanali0704/find-duplicate-in-array-21lf)
+- [Dev.to/JS] [Sort 0, 1, 2](https://dev.to/zeeshanali0704/sort-0-1-2-775)
+- [Dev.to/JS] [The legendary &quot;numeric triangle problem&quot;](https://dev.to/azharizkita/the-legendary-numeric-triangle-problem-21j5)
+- [Dev.to/JS] [Daily Temperatures](https://dev.to/zeeshanali0704/daily-temperatures-4l7f)
+- [Dev.to/JS] [Open-source Next.js SaaS Starter Kit](https://dev.to/devkiran/open-source-enterprise-saas-starter-kit-262g)
+- [Dev.to/JS] [Create an Express Server](https://dev.to/sonicx180/create-an-express-server-5267)
 - [Dev.to/JS] [VS Code Tip of the week: The JavaScript Debug Terminal](https://dev.to/vscodetips/vs-code-tip-of-the-week-the-javascript-debug-terminal-2063)
 - [Dev.to/JS] [Thoughts on working on some else&#39;s code](https://dev.to/ririio/thoughts-on-working-on-some-elses-code-mja)
 - [Dev.to/JS] [What is a REST API?](https://dev.to/rembertdesigns/what-is-a-rest-api-4257)
@@ -31,15 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Dev.to/JS] [Learn How to Fetch Data From the Server](https://dev.to/rembertdesigns/learn-how-to-fetch-data-from-the-server-4i3n)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
-- [Dev.to/JS] [Unhex - convert colors to RGB, HEX or HSL in bulk](https://dev.to/aspnxdd/unhex-convert-colors-to-rgb-hex-or-hsl-in-bulk-9fh)
-- [Dev.to/JS] [I&#39;ll teach you 7 Array methods. &lpar;with animations!&rpar;](https://dev.to/fredysandoval/ill-teach-you-7-array-methods-with-animations-549c)
-- [Dev.to/JS] [Click the button! Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/click-the-button-free-download-in-html-css-and-javascript-542p)
-- [Dev.to/JS] [Débuter avec Angular 14: #4 La programmation reactive](https://dev.to/sidali/debuter-avec-angular-14-4-la-programmation-reactive-1k5c)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
 - [Lifehacker] [Can You Get Your Flu Shot and COVID Booster in the Same Arm?](https://lifehacker.com/can-you-get-your-flu-shot-and-covid-booster-in-the-same-1849559241)
 - [Lifehacker] [Why You Should Never Make &lpar;or Even Buy&rpar; a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)
-- [Dev.to/JS] [Best Free Courses to Learn WebDev for Beginners](https://dev.to/techbelle/best-free-course-to-learn-mongodb-for-beginners-l4i)
-- [Dev.to/JS] [Pin Save: Evmos decentralized Pinterest nextjs nft application](https://dev.to/pfedprog/pin-save-evmos-decentralized-pinterest-nextjs-nft-application-423j)
 - [Lifehacker] [Why Personal Finance Gurus Are Awful at Giving Personal Finance Advice](https://lifehacker.com/why-personal-finance-gurus-are-awful-at-giving-personal-1849558271)
 - [Lifehacker] [Keep This Easy Fried Garlic on Hand at All Times](https://lifehacker.com/keep-this-easy-fried-garlic-on-hand-at-all-times-1849558561)
 - [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)
