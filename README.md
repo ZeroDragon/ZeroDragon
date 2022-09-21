@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic Congestion](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
+- [Dev.to/JS] [SDET Academy Launch | Begin your SDET journey](https://dev.to/automationbro/sdet-academy-launch-begin-your-sdet-journey-1l6c)
+- [Dev.to/JS] [Code Smell 164 - Mixed Indentations](https://dev.to/mcsee/code-smell-164-mixed-indentations-3gfc)
+- [Lifehacker] [How ‘Retroactive Jealousy’ Can Ruin a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
+- [Dev.to/JS] [How to use Date-Range in react ?](https://dev.to/sagarkhadka/how-to-use-date-range-in-react--3h2d)
+- [Dev.to/JS] [Tree shaking in Javascript](https://dev.to/milekag01/tree-shaking-in-javascript-2po4)
+- [Dev.to/JS] [Javascript Proxy: Introduction](https://dev.to/milekag01/javascript-proxy-introduction-68k)
+- [Dev.to/JS] [Writing React? Please Note these things](https://dev.to/femi_dev/writing-react-please-note-these-things-4ig9)
 - [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)
 - [Dev.to/JS] [Displaying all posts for specific Tag [Building Personal Blog Website Part 5]](https://dev.to/hawelkam/displaying-all-posts-for-specific-tag-building-personal-blog-website-part-5-1mno)
 - [Dev.to/JS] [The Next Level Time Picker For Your Next React App ⌚️](https://dev.to/meddarhri/the-next-level-time-picker-for-your-next-react-app-5boc)
@@ -30,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Template-Based PDF Document Generation in JavaScript](https://dev.to/edocgen/template-based-pdf-document-generation-in-javascript-39gp)
 - [Dev.to/JS] [Python Random Password Generator](https://dev.to/pythondose/python-random-password-generator-2e5l)
 - [Dev.to/JS] [How client-server talk securely?](https://dev.to/shreyvijayvargiya/how-client-server-talk-securely-132f)
-- [Dev.to/JS] [How to solve the &quot;aps environment&quot; problem?](https://dev.to/junny521222/how-to-solve-the-aps-environment-problem-54co)
-- [Dev.to/JS] [Quick Guide to Synchronous vs Asynchronous JavaScript and Callback Functions + Fetch](https://dev.to/jamelse/quick-guide-to-synchronous-vs-asynchronous-javascript-and-callback-functions-fetch-1e1g)
-- [Dev.to/JS] [Working with Arrays in React](https://dev.to/jayzho/working-with-arrays-in-react-3m7a)
-- [Dev.to/JS] [Integrate @specialdoom/proi-ui in your svelte project](https://dev.to/specialdoom/integrate-specialdoomproi-ui-in-your-svelte-project-4ija)
-- [Dev.to/JS] [Creating a Gantt chart with React using Next.js](https://dev.to/bryntum_ab/creating-a-gantt-chart-with-react-using-nextjs-12p3)
-- [Dev.to/JS] [Top 5 Most Asked React Interview Questions and Answers By Muhammad Umair](https://dev.to/amianumair/top-5-most-asked-react-interview-questions-and-answersby-muhammad-umair-k6f)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
 - [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)
 - [Lifehacker] [Make Your Own No-Carb Egg Wraps With Two Ingredients](https://lifehacker.com/make-your-own-no-carb-egg-wraps-with-two-ingredients-1849554298)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who Leaked &#39;Grand Theft Auto VI&#39;?](https://lifehacker.com/who-leaked-grand-theft-auto-vi-1849554402)
-- [Lifehacker] [Jameela Jamil on the B.S. of Toxic Diet Culture](https://lifehacker.com/jameela-jamil-on-the-bullshit-of-toxic-diet-culture-1849554597)
-- [Lifehacker] [You Can Finally Control Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-control-your-apple-watch-from-your-ipho-1849552944)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who Leaked &#39;Grand Theft Auto VI&#39;?](https://lifehacker.com/who-leaked-grand-theft-auto-vi-1849554402)<!-- TECH-POSTS:END -->
 
 ---
 
