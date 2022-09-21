@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [14G10DaysCodeChallenge: Day 1&lpar;Remove Duplicates from Sorted Array&rpar;](https://dev.to/chinwendufausty/14g10dayscodechallenge-day-1remove-duplicates-from-sorted-array-2a3h)
+- [Dev.to/JS] [Drawing on top of an image with JavaScript](https://dev.to/coder4_life/drawing-on-top-of-an-image-with-javascript-30p)
+- [Dev.to/JS] [How to Implement Push Notification with Node.js and Service Worker](https://dev.to/mensaiah/how-to-implement-push-notification-with-nodejs-and-service-worker-pl8)
+- [Lifehacker] [15 of NASA&#39;s Coolest Inventions That Regular People Use](https://lifehacker.com/15-of-nasas-coolest-inventions-that-regular-people-use-1849559944)
 - [Lifehacker] [You Should Make These Deviled Egg Crackers](https://lifehacker.com/you-should-make-these-deviled-egg-crackers-1849560253)
 - [Dev.to/JS] [Bootstrap 5 Ripple](https://dev.to/mdbootstrap/bootstrap-5-ripple-2m96)
 - [Dev.to/JS] [Bootstrap 5 Loading management](https://dev.to/mdbootstrap/bootstrap-5-loading-management-4m7)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 164 - Mixed Indentations](https://dev.to/mcsee/code-smell-164-mixed-indentations-3gfc)
 - [Lifehacker] [How ‘Retroactive Jealousy’ Can Ruin a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
 - [Dev.to/JS] [How to use Date-Range in react ?](https://dev.to/sagarkhadka/how-to-use-date-range-in-react--3h2d)
-- [Dev.to/JS] [Tree shaking in Javascript](https://dev.to/milekag01/tree-shaking-in-javascript-2po4)
-- [Dev.to/JS] [Javascript Proxy: Introduction](https://dev.to/milekag01/javascript-proxy-introduction-68k)
-- [Dev.to/JS] [Writing React? Please Note these things](https://dev.to/femi_dev/writing-react-please-note-these-things-4ig9)
 - [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Honey Apple Puffs Are an Easy and Festive Snack](https://lifehacker.com/these-honey-apple-puffs-are-an-easy-and-festive-snack-1849555129)
 - [Lifehacker] [9 Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
-- [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
-- [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)<!-- TECH-POSTS:END -->
 
 ---
 
