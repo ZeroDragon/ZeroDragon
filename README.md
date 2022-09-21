@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VS Code Tip of the week: The JavaScript Debug Terminal](https://dev.to/vscodetips/vs-code-tip-of-the-week-the-javascript-debug-terminal-2063)
+- [Dev.to/JS] [Thoughts on working on some else&#39;s code](https://dev.to/ririio/thoughts-on-working-on-some-elses-code-mja)
 - [Dev.to/JS] [What is a REST API?](https://dev.to/rembertdesigns/what-is-a-rest-api-4257)
 - [Dev.to/JS] [Débuter avec Angular 14: #5 Le two way data binding ou le banana in the box 🍌 ️📦](https://dev.to/sidali/debuter-avec-angular-14-5-le-two-way-data-binding-ou-le-banana-in-the-box-52gl)
 - [Dev.to/JS] [Styled components](https://dev.to/pterenin/styled-components-4gp2)
@@ -38,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Make &lpar;or Even Buy&rpar; a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)
 - [Dev.to/JS] [Best Free Courses to Learn WebDev for Beginners](https://dev.to/techbelle/best-free-course-to-learn-mongodb-for-beginners-l4i)
 - [Dev.to/JS] [Pin Save: Evmos decentralized Pinterest nextjs nft application](https://dev.to/pfedprog/pin-save-evmos-decentralized-pinterest-nextjs-nft-application-423j)
-- [Dev.to/JS] [Get Free Cloud ROI Assesment Workshop](https://dev.to/ismiletechnology/get-free-cloud-roi-assesment-workshop-3a5g)
 - [Lifehacker] [Why Personal Finance Gurus Are Awful at Giving Personal Finance Advice](https://lifehacker.com/why-personal-finance-gurus-are-awful-at-giving-personal-1849558271)
 - [Lifehacker] [Keep This Easy Fried Garlic on Hand at All Times](https://lifehacker.com/keep-this-easy-fried-garlic-on-hand-at-all-times-1849558561)
-- [Dev.to/JS] [Free &amp; Discounted Courses - 9/20/2022](https://dev.to/theprogramminbuddyclub/free-discounted-courses-9202022-306d)
 - [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)
 - [Lifehacker] [The Advanced Spellchecker in Chrome and Edge Saves Everything You Type—Even Passwords](https://lifehacker.com/the-advanced-spellchecker-in-chrome-and-edge-saves-ever-1849557849)
 - [Lifehacker] [&#39;The Little Mermaid,&#39; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
