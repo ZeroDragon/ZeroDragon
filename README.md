@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jquery Append And Prepend Example](https://dev.to/techsolutionstuff/jquery-append-and-prepend-example-2hd4)
 - [Dev.to/JS] [Find Duplicate in Array](https://dev.to/zeeshanali0704/find-duplicate-in-array-21lf)
 - [Dev.to/JS] [Sort 0, 1, 2](https://dev.to/zeeshanali0704/sort-0-1-2-775)
 - [Dev.to/JS] [The legendary &quot;numeric triangle problem&quot;](https://dev.to/azharizkita/the-legendary-numeric-triangle-problem-21j5)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Débuter avec Angular 14: #5 Le two way data binding ou le banana in the box 🍌 ️📦](https://dev.to/sidali/debuter-avec-angular-14-5-le-two-way-data-binding-ou-le-banana-in-the-box-52gl)
 - [Dev.to/JS] [Styled components](https://dev.to/pterenin/styled-components-4gp2)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
-- [Dev.to/JS] [Learn How to Fetch Data From the Server](https://dev.to/rembertdesigns/learn-how-to-fetch-data-from-the-server-4i3n)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
 - [Lifehacker] [Can You Get Your Flu Shot and COVID Booster in the Same Arm?](https://lifehacker.com/can-you-get-your-flu-shot-and-covid-booster-in-the-same-1849559241)
