@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understand synchronous Vs asynchronous code in Js](https://dev.to/twizelissa/understand-synchronous-vs-asynchronous-code-in-js-3pb6)
+- [Dev.to/JS] [27-React File Manager Chapter XXVII: The Final Chapter](https://dev.to/hassanzohdy/27-react-file-manager-chapter-xxvii-the-final-chapter-42il)
 - [Dev.to/JS] [Webpack source-map don&#39;t work!](https://dev.to/gxelol/webpack-source-map-dont-work-4kfn)
 - [Dev.to/JS] [Removing duplicates from a sorted array 14G 10days code challenge](https://dev.to/abubakarismail/removing-duplicates-from-a-sorted-array-14g-10days-code-challenge-301m)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Great Ways to Use up Your Last Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458)
 - [Dev.to/JS] [2.40 - RedwoodJS](https://dev.to/codingcatdev/240-redwoodjs-3aal)
 - [Lifehacker] [All the Android Apps That Can Use ‘Material You’ Icons](https://lifehacker.com/all-the-android-apps-that-can-use-material-you-icons-1849562917)
-- [Dev.to/JS] [What Can&#39;t JavaScript Do?](https://dev.to/mikhailkaran/what-cant-javascript-do-2j55)
-- [Dev.to/JS] [Sync React application state with the URL](https://dev.to/codegino/sync-react-application-state-with-the-url-46kc)
 - [Lifehacker] [How to Fix the Most Annoying iPhone Features in iOS 16](https://lifehacker.com/how-to-fix-the-most-annoying-iphone-features-in-ios-16-1849556666)
 - [Lifehacker] [Altitude Masks Are Total B.S.](https://lifehacker.com/altitude-masks-are-bullshit-1849562913)
 - [Lifehacker] [How to Harvest Seeds From Your Garden to Plant Next Year](https://lifehacker.com/how-to-harvest-seeds-from-your-garden-to-plant-next-yea-1849562665)
