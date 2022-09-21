@@ -23,10 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix the Most Annoying iPhone Features in iOS 16](https://lifehacker.com/how-to-fix-the-most-annoying-iphone-features-in-ios-16-1849556666)
+- [Lifehacker] [Altitude Masks Are Total B.S.](https://lifehacker.com/altitude-masks-are-bullshit-1849562913)
+- [Dev.to/JS] [Unable to sign up once log in details have been entered](https://dev.to/jtcodes_/unable-to-sign-up-once-log-in-details-have-been-entered-5c7l)
 - [Lifehacker] [How to Harvest Seeds From Your Garden to Plant Next Year](https://lifehacker.com/how-to-harvest-seeds-from-your-garden-to-plant-next-yea-1849562665)
 - [Dev.to/JS] [Fast Frontend Development With Mocked GraphQL](https://dev.to/tahazsh/fast-frontend-development-with-mocked-graphql-2ee3)
 - [Lifehacker] [Why You Should Upgrade to Windows 11 2022](https://lifehacker.com/why-you-should-upgrade-to-windows-11-2022-1849562445)
-- [Dev.to/JS] [NodeJS 0001](https://dev.to/elcascarudodev/instalar-nodejs-en-linux-257n)
+- [Dev.to/JS] [Instalar NodeJS en Linux](https://dev.to/elcascarudodev/instalar-nodejs-en-linux-257n)
 - [Lifehacker] [What&#39;s New on Netflix in October 2022](https://lifehacker.com/whats-new-on-netflix-in-october-2022-1849562817)
 - [Dev.to/JS] [Redis OM: Developer Experience using Node.Js](https://dev.to/tochine/redis-om-developer-experience-using-nodejs-4h6o)
 - [Dev.to/JS] [Some Assembly Required](https://dev.to/rmion/some-assembly-required-4hdh)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make These Deviled Egg Crackers](https://lifehacker.com/you-should-make-these-deviled-egg-crackers-1849560253)
 - [Dev.to/JS] [Bootstrap 5 Ripple](https://dev.to/mdbootstrap/bootstrap-5-ripple-2m96)
 - [Dev.to/JS] [Bootstrap 5 Loading management](https://dev.to/mdbootstrap/bootstrap-5-loading-management-4m7)
-- [Dev.to/JS] [Second Year Group Project](https://dev.to/dinithkumudika/second-year-group-project-lmo)
 - [Lifehacker] [How to Earn Airline Elite Status Without Taking &lpar;As Many&rpar; Flights](https://lifehacker.com/how-to-earn-airline-elite-status-without-taking-as-man-1849559031)
 - [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
 - [Lifehacker] [How ‘Retroactive Jealousy’ Can Ruin a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Register to Vote in the 2022 Midterm Elections](https://lifehacker.com/how-to-register-to-vote-in-the-2022-midterm-elections-1849557507)
 - [Lifehacker] [These Are the U.S. Cities Where Drivers Spend the Most Time in Traffic](https://lifehacker.com/these-are-the-u-s-cities-where-drivers-spend-the-most-1849557957)
 - [Lifehacker] [Your iPhone 14 Has a Hidden Startup Sound](https://lifehacker.com/your-iphone-14-has-a-hidden-startup-sound-1849557750)
-- [Lifehacker] [Why Nasal Irrigation May Help With a COVID Infection](https://lifehacker.com/why-nasal-irrigation-may-help-with-a-covid-infection-1849555930)
-- [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
-- [Lifehacker] [The Pickle Sandwich Deserves Your Respect](https://lifehacker.com/the-pickle-sandwich-deserves-your-respect-1849555654)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Nasal Irrigation May Help With a COVID Infection](https://lifehacker.com/why-nasal-irrigation-may-help-with-a-covid-infection-1849555930)<!-- TECH-POSTS:END -->
 
 ---
 
