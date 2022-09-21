@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Webpack source-map don&#39;t work!](https://dev.to/gxelol/webpack-source-map-dont-work-4kfn)
+- [Dev.to/JS] [Removing duplicates from a sorted array 14G 10days code challenge](https://dev.to/abubakarismail/removing-duplicates-from-a-sorted-array-14g-10days-code-challenge-301m)
+- [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Dev.to/JS] [SvelteKit Changes: Cookies and Authentication](https://dev.to/theether0/sveltekit-changes-session-and-cookies-enb)
 - [Dev.to/JS] [Creating a CLI tool using NodeJS and npm &lpar;part 2&rpar;](https://dev.to/pgarciacamou/creating-a-cli-tool-using-nodejs-and-npm-part-2-8h7)
@@ -32,7 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There’s No Three-Day Grace Period at a Dealership](https://lifehacker.com/there-s-no-three-day-grace-period-at-a-dealership-1849563147)
 - [Lifehacker] [How Bad Is a Leaky Faucet, Anyway?](https://lifehacker.com/how-bad-is-a-leaky-faucet-anyway-1849563533)
 - [Dev.to/JS] [First Hackathon](https://dev.to/dotnotation/first-hackathon-l82)
-- [Dev.to/JS] [Modern *serverless* typescript job queues in &gt;= 2022](https://dev.to/tonyhb/modern-serverless-typescript-job-queues-in-2022-kaf)
+- [Dev.to/JS] [Modern serverless typescript job queues in &gt;= 2022](https://dev.to/tonyhb/modern-serverless-typescript-job-queues-in-2022-kaf)
 - [Dev.to/JS] [Preact Signals: Managing state with style](https://dev.to/sai_krishna/preact-signals-managing-state-with-style-4c76)
 - [Lifehacker] [10 Great Ways to Use up Your Last Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458)
 - [Dev.to/JS] [2.40 - RedwoodJS](https://dev.to/codingcatdev/240-redwoodjs-3aal)
@@ -41,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sync React application state with the URL](https://dev.to/codegino/sync-react-application-state-with-the-url-46kc)
 - [Lifehacker] [How to Fix the Most Annoying iPhone Features in iOS 16](https://lifehacker.com/how-to-fix-the-most-annoying-iphone-features-in-ios-16-1849556666)
 - [Lifehacker] [Altitude Masks Are Total B.S.](https://lifehacker.com/altitude-masks-are-bullshit-1849562913)
-- [Dev.to/JS] [Unable to sign up once log in details have been entered](https://dev.to/jtcodes_/unable-to-sign-up-once-log-in-details-have-been-entered-5c7l)
 - [Lifehacker] [How to Harvest Seeds From Your Garden to Plant Next Year](https://lifehacker.com/how-to-harvest-seeds-from-your-garden-to-plant-next-yea-1849562665)
-- [Dev.to/JS] [Fast Frontend Development With Mocked GraphQL](https://dev.to/tahazsh/fast-frontend-development-with-mocked-graphql-2ee3)
 - [Lifehacker] [Why You Should Upgrade to Windows 11 2022](https://lifehacker.com/why-you-should-upgrade-to-windows-11-2022-1849562445)
 - [Lifehacker] [What&#39;s New on Netflix in October 2022](https://lifehacker.com/whats-new-on-netflix-in-october-2022-1849562817)
 - [Lifehacker] [Why the 50/70 Rule for Eye Contact Is BS](https://lifehacker.com/why-the-50-70-rule-for-eye-contact-is-bullshit-1849561431)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Make &lpar;or Even Buy&rpar; a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)
 - [Lifehacker] [Why Personal Finance Gurus Are Awful at Giving Personal Finance Advice](https://lifehacker.com/why-personal-finance-gurus-are-awful-at-giving-personal-1849558271)
 - [Lifehacker] [Keep This Easy Fried Garlic on Hand at All Times](https://lifehacker.com/keep-this-easy-fried-garlic-on-hand-at-all-times-1849558561)
-- [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)
-- [Lifehacker] [The Advanced Spellchecker in Chrome and Edge Saves Everything You Type—Even Passwords](https://lifehacker.com/the-advanced-spellchecker-in-chrome-and-edge-saves-ever-1849557849)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)<!-- TECH-POSTS:END -->
 
 ---
 
