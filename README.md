@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Most Asked React Interview Questions and Answers By Muhammad Umair](https://dev.to/amianumair/top-5-most-asked-react-interview-questions-and-answersby-muhammad-umair-k6f)
+- [Dev.to/JS] [Step-by-step guide - Input with animation](https://dev.to/designyff/step-by-step-guide-input-with-animation-4nmk)
+- [Dev.to/JS] [How to Automate Registration Page Using Selenium And Java](https://dev.to/lambdatest/how-to-automate-registration-page-using-selenium-and-java-3jmn)
 - [Dev.to/JS] [Chrome extension with React](https://dev.to/jsandaruwan/chrome-extension-with-react-70p)
 - [Dev.to/JS] [DevOps Advantages -](https://dev.to/postwell45/devops-advantages--p1e)
 - [Dev.to/JS] [Adding custom routes in medusa](https://dev.to/dailydevtips1/adding-custom-routes-in-medusa-16l5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React.js state management using signals](https://dev.to/devsmitra/reactjs-signal-for-state-mangement-21pf)
 - [Dev.to/JS] [Reduce disk space in ReactJS App by 60% using PNPM](https://dev.to/nilanth/reduce-disk-space-in-reactjs-app-by-60-using-pnpm-m42)
 - [Dev.to/JS] [Jquery Append And Prepend Example](https://dev.to/techsolutionstuff/jquery-append-and-prepend-example-2hd4)
-- [Dev.to/JS] [Find Duplicate in Array](https://dev.to/zeeshanali0704/find-duplicate-in-array-21lf)
-- [Dev.to/JS] [Sort 0, 1, 2](https://dev.to/zeeshanali0704/sort-0-1-2-775)
-- [Dev.to/JS] [The legendary &quot;numeric triangle problem&quot;](https://dev.to/azharizkita/the-legendary-numeric-triangle-problem-21j5)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
