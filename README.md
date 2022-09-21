@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Make These Deviled Egg Crackers](https://lifehacker.com/you-should-make-these-deviled-egg-crackers-1849560253)
+- [Dev.to/JS] [Bootstrap 5 Ripple](https://dev.to/mdbootstrap/bootstrap-5-ripple-2m96)
+- [Dev.to/JS] [Bootstrap 5 Loading management](https://dev.to/mdbootstrap/bootstrap-5-loading-management-4m7)
+- [Dev.to/JS] [Second Year Group Project](https://dev.to/dinithkumudika/second-year-group-project-lmo)
+- [Dev.to/JS] [Bootstrap 5 Clipboard](https://dev.to/mdbootstrap/bootstrap-5-clipboard-2g64)
+- [Dev.to/JS] [Sending Email from Node.js via Zoho &amp; SMTP](https://dev.to/aacitelli/sending-email-from-nodejs-via-zoho-smtp-4j39)
+- [Dev.to/JS] [The Complete Beginner&#39;s Guide to a Career in Web Development](https://dev.to/alexeagleson/the-complete-beginners-guide-to-a-career-in-web-development-3fbl)
+- [Lifehacker] [How to Earn Airline Elite Status Without Taking &lpar;As Many&rpar; Flights](https://lifehacker.com/how-to-earn-airline-elite-status-without-taking-as-man-1849559031)
 - [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic Congestion](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
 - [Dev.to/JS] [SDET Academy Launch | Begin your SDET journey](https://dev.to/automationbro/sdet-academy-launch-begin-your-sdet-journey-1l6c)
 - [Dev.to/JS] [Code Smell 164 - Mixed Indentations](https://dev.to/mcsee/code-smell-164-mixed-indentations-3gfc)
@@ -32,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Proxy: Introduction](https://dev.to/milekag01/javascript-proxy-introduction-68k)
 - [Dev.to/JS] [Writing React? Please Note these things](https://dev.to/femi_dev/writing-react-please-note-these-things-4ig9)
 - [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)
-- [Dev.to/JS] [Displaying all posts for specific Tag [Building Personal Blog Website Part 5]](https://dev.to/hawelkam/displaying-all-posts-for-specific-tag-building-personal-blog-website-part-5-1mno)
-- [Dev.to/JS] [The Next Level Time Picker For Your Next React App ⌚️](https://dev.to/meddarhri/the-next-level-time-picker-for-your-next-react-app-5boc)
-- [Dev.to/JS] [How to improve your merge request 🤯](https://dev.to/msmello_/how-to-improve-your-merge-request-4op9)
-- [Dev.to/JS] [Template-Based PDF Document Generation in JavaScript](https://dev.to/edocgen/template-based-pdf-document-generation-in-javascript-39gp)
-- [Dev.to/JS] [Python Random Password Generator](https://dev.to/pythondose/python-random-password-generator-2e5l)
-- [Dev.to/JS] [How client-server talk securely?](https://dev.to/shreyvijayvargiya/how-client-server-talk-securely-132f)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
 - [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)
-- [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)
-- [Lifehacker] [Make Your Own No-Carb Egg Wraps With Two Ingredients](https://lifehacker.com/make-your-own-no-carb-egg-wraps-with-two-ingredients-1849554298)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who Leaked &#39;Grand Theft Auto VI&#39;?](https://lifehacker.com/who-leaked-grand-theft-auto-vi-1849554402)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn&#39;t Judge Nonprofits by Their Overhead Costs](https://lifehacker.com/why-you-shouldnt-judge-nonprofits-by-their-overhead-cos-1849554411)<!-- TECH-POSTS:END -->
 
 ---
 
