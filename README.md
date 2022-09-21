@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with Arrays in React](https://dev.to/jayzho/working-with-arrays-in-react-3m7a)
+- [Dev.to/JS] [Integrate @specialdoom/proi-ui in your svelte project](https://dev.to/specialdoom/integrate-specialdoomproi-ui-in-your-svelte-project-4ija)
+- [Dev.to/JS] [Creating a Gantt chart with React using Next.js](https://dev.to/bryntum_ab/creating-a-gantt-chart-with-react-using-nextjs-12p3)
 - [Dev.to/JS] [Top 5 Most Asked React Interview Questions and Answers By Muhammad Umair](https://dev.to/amianumair/top-5-most-asked-react-interview-questions-and-answersby-muhammad-umair-k6f)
 - [Dev.to/JS] [Step-by-step guide - Input with animation](https://dev.to/designyff/step-by-step-guide-input-with-animation-4nmk)
 - [Dev.to/JS] [How to Automate Registration Page Using Selenium And Java](https://dev.to/lambdatest/how-to-automate-registration-page-using-selenium-and-java-3jmn)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Go lang Basic](https://dev.to/iamsabbiralam/go-lang-basic-33cb)
 - [Dev.to/JS] [How To Render HTML String As Real HTML?](https://dev.to/pankajdas0909/how-to-render-html-string-as-real-html-95m)
 - [Dev.to/JS] [Platform Dependent VS Platform Independent](https://dev.to/roshan_100kar/platform-dependent-vs-platform-independent-bge)
-- [Dev.to/JS] [React.js state management using signals](https://dev.to/devsmitra/reactjs-signal-for-state-mangement-21pf)
-- [Dev.to/JS] [Reduce disk space in ReactJS App by 60% using PNPM](https://dev.to/nilanth/reduce-disk-space-in-reactjs-app-by-60-using-pnpm-m42)
-- [Dev.to/JS] [Jquery Append And Prepend Example](https://dev.to/techsolutionstuff/jquery-append-and-prepend-example-2hd4)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
