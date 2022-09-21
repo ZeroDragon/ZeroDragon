@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Netflix in October 2022](https://lifehacker.com/whats-new-on-netflix-in-october-2022-1849562817)
+- [Dev.to/JS] [Redis OM: Developer Experience using Node.Js](https://dev.to/tochine/redis-om-developer-experience-using-nodejs-4h6o)
+- [Dev.to/JS] [Some Assembly Required](https://dev.to/rmion/some-assembly-required-4hdh)
+- [Lifehacker] [Why the 50/70 Rule for Eye Contact Is BS](https://lifehacker.com/why-the-50-70-rule-for-eye-contact-is-bullshit-1849561431)
+- [Dev.to/JS] [Why You Shouldn&#39;t Mix Promise.then&lpar;&rpar; With Async/Await Syntax](https://dev.to/maximization/why-you-shouldnt-mix-promisethen-with-asyncawait-syntax-gl1)
+- [Dev.to/JS] [Lessons from writing a dynamic CMS for static hosting](https://dev.to/turowski/lessons-from-writing-a-dynamic-cms-for-static-hosting-4a1g)
+- [Lifehacker] [10 of the Most Underrated Stephen King Adaptations](https://lifehacker.com/10-of-the-most-underrated-stephen-king-adaptations-1849559325)
 - [Dev.to/JS] [14G10DaysCodeChallenge: Day 1&lpar;Remove Duplicates from Sorted Array&rpar;](https://dev.to/chinwendufausty/14g10dayscodechallenge-day-1remove-duplicates-from-sorted-array-2a3h)
 - [Dev.to/JS] [Drawing on top of an image with JavaScript](https://dev.to/coder4_life/drawing-on-top-of-an-image-with-javascript-30p)
 - [Dev.to/JS] [How to Implement Push Notification with Node.js and Service Worker](https://dev.to/mensaiah/how-to-implement-push-notification-with-nodejs-and-service-worker-pl8)
@@ -33,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Second Year Group Project](https://dev.to/dinithkumudika/second-year-group-project-lmo)
 - [Dev.to/JS] [Bootstrap 5 Clipboard](https://dev.to/mdbootstrap/bootstrap-5-clipboard-2g64)
 - [Dev.to/JS] [Sending Email from Node.js via Zoho &amp; SMTP](https://dev.to/aacitelli/sending-email-from-nodejs-via-zoho-smtp-4j39)
-- [Dev.to/JS] [The Complete Beginner&#39;s Guide to a Career in Web Development](https://dev.to/alexeagleson/the-complete-beginners-guide-to-a-career-in-web-development-3fbl)
 - [Lifehacker] [How to Earn Airline Elite Status Without Taking &lpar;As Many&rpar; Flights](https://lifehacker.com/how-to-earn-airline-elite-status-without-taking-as-man-1849559031)
-- [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic Congestion](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
-- [Dev.to/JS] [SDET Academy Launch | Begin your SDET journey](https://dev.to/automationbro/sdet-academy-launch-begin-your-sdet-journey-1l6c)
-- [Dev.to/JS] [Code Smell 164 - Mixed Indentations](https://dev.to/mcsee/code-smell-164-mixed-indentations-3gfc)
+- [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
 - [Lifehacker] [How ‘Retroactive Jealousy’ Can Ruin a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
-- [Dev.to/JS] [How to use Date-Range in react ?](https://dev.to/sagarkhadka/how-to-use-date-range-in-react--3h2d)
 - [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
 - [Lifehacker] [The Pickle Sandwich Deserves Your Respect](https://lifehacker.com/the-pickle-sandwich-deserves-your-respect-1849555654)
 - [Lifehacker] [You Should Decline Android 13 App Notifications](https://lifehacker.com/you-should-decline-android-13-app-notifications-1849555426)
-- [Lifehacker] [These Honey Apple Puffs Are an Easy and Festive Snack](https://lifehacker.com/these-honey-apple-puffs-are-an-easy-and-festive-snack-1849555129)
-- [Lifehacker] [9 Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
-- [Lifehacker] [The Difference Between a Monopsony and a Monopoly &lpar;and Why It Matters for Your Favorite TV Show&rpar;](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
-- [Lifehacker] [How to Figure Out What Weirdo Just Called You](https://lifehacker.com/how-to-figure-out-what-weirdo-just-called-you-1849554150)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Honey Apple Puffs Are an Easy and Festive Snack](https://lifehacker.com/these-honey-apple-puffs-are-an-easy-and-festive-snack-1849555129)<!-- TECH-POSTS:END -->
 
 ---
 
