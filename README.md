@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [React.js signal for state mangement](https://dev.to/devsmitra/reactjs-signal-for-state-mangement-21pf)
+- [Dev.to/JS] [How To Render HTML String As Real HTML?](https://dev.to/pankajdas0909/how-to-render-html-string-as-real-html-95m)
+- [Dev.to/JS] [Platform Dependent VS Platform Independent](https://dev.to/roshan_100kar/platform-dependent-vs-platform-independent-bge)
+- [Dev.to/JS] [React.js signal for state management](https://dev.to/devsmitra/reactjs-signal-for-state-mangement-21pf)
 - [Dev.to/JS] [Reduce disk space in ReactJS App by 60% using PNPM](https://dev.to/nilanth/reduce-disk-space-in-reactjs-app-by-60-using-pnpm-m42)
 - [Dev.to/JS] [Jquery Append And Prepend Example](https://dev.to/techsolutionstuff/jquery-append-and-prepend-example-2hd4)
 - [Dev.to/JS] [Find Duplicate in Array](https://dev.to/zeeshanali0704/find-duplicate-in-array-21lf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open-source Next.js SaaS Starter Kit](https://dev.to/devkiran/open-source-enterprise-saas-starter-kit-262g)
 - [Dev.to/JS] [Create an Express Server](https://dev.to/sonicx180/create-an-express-server-5267)
 - [Dev.to/JS] [VS Code Tip of the week: The JavaScript Debug Terminal](https://dev.to/vscodetips/vs-code-tip-of-the-week-the-javascript-debug-terminal-2063)
-- [Dev.to/JS] [Thoughts on working on some else&#39;s code](https://dev.to/ririio/thoughts-on-working-on-some-elses-code-mja)
-- [Dev.to/JS] [What is a REST API?](https://dev.to/rembertdesigns/what-is-a-rest-api-4257)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
