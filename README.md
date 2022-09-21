@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Harvest Seeds From Your Garden to Plant Next Year](https://lifehacker.com/how-to-harvest-seeds-from-your-garden-to-plant-next-yea-1849562665)
+- [Dev.to/JS] [Fast Frontend Development With Mocked GraphQL](https://dev.to/tahazsh/fast-frontend-development-with-mocked-graphql-2ee3)
+- [Lifehacker] [Why You Should Upgrade to Windows 11 2022](https://lifehacker.com/why-you-should-upgrade-to-windows-11-2022-1849562445)
+- [Dev.to/JS] [NodeJS 0001](https://dev.to/elcascarudodev/instalar-nodejs-en-linux-257n)
 - [Lifehacker] [What&#39;s New on Netflix in October 2022](https://lifehacker.com/whats-new-on-netflix-in-october-2022-1849562817)
 - [Dev.to/JS] [Redis OM: Developer Experience using Node.Js](https://dev.to/tochine/redis-om-developer-experience-using-nodejs-4h6o)
 - [Dev.to/JS] [Some Assembly Required](https://dev.to/rmion/some-assembly-required-4hdh)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bootstrap 5 Ripple](https://dev.to/mdbootstrap/bootstrap-5-ripple-2m96)
 - [Dev.to/JS] [Bootstrap 5 Loading management](https://dev.to/mdbootstrap/bootstrap-5-loading-management-4m7)
 - [Dev.to/JS] [Second Year Group Project](https://dev.to/dinithkumudika/second-year-group-project-lmo)
-- [Dev.to/JS] [Bootstrap 5 Clipboard](https://dev.to/mdbootstrap/bootstrap-5-clipboard-2g64)
-- [Dev.to/JS] [Sending Email from Node.js via Zoho &amp; SMTP](https://dev.to/aacitelli/sending-email-from-nodejs-via-zoho-smtp-4j39)
 - [Lifehacker] [How to Earn Airline Elite Status Without Taking &lpar;As Many&rpar; Flights](https://lifehacker.com/how-to-earn-airline-elite-status-without-taking-as-man-1849559031)
 - [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
 - [Lifehacker] [How ‘Retroactive Jealousy’ Can Ruin a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone 14 Has a Hidden Startup Sound](https://lifehacker.com/your-iphone-14-has-a-hidden-startup-sound-1849557750)
 - [Lifehacker] [Why Nasal Irrigation May Help With a COVID Infection](https://lifehacker.com/why-nasal-irrigation-may-help-with-a-covid-infection-1849555930)
 - [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
-- [Lifehacker] [The Pickle Sandwich Deserves Your Respect](https://lifehacker.com/the-pickle-sandwich-deserves-your-respect-1849555654)
-- [Lifehacker] [You Should Decline Android 13 App Notifications](https://lifehacker.com/you-should-decline-android-13-app-notifications-1849555426)
-- [Lifehacker] [These Honey Apple Puffs Are an Easy and Festive Snack](https://lifehacker.com/these-honey-apple-puffs-are-an-easy-and-festive-snack-1849555129)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Pickle Sandwich Deserves Your Respect](https://lifehacker.com/the-pickle-sandwich-deserves-your-respect-1849555654)<!-- TECH-POSTS:END -->
 
 ---
 
