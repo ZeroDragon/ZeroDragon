@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)
+- [Dev.to/JS] [Displaying all posts for specific Tag [Building Personal Blog Website Part 5]](https://dev.to/hawelkam/displaying-all-posts-for-specific-tag-building-personal-blog-website-part-5-1mno)
+- [Dev.to/JS] [The Next Level Time Picker For Your Next React App ⌚️](https://dev.to/meddarhri/the-next-level-time-picker-for-your-next-react-app-5boc)
+- [Dev.to/JS] [How to improve your merge request 🤯](https://dev.to/msmello_/how-to-improve-your-merge-request-4op9)
+- [Dev.to/JS] [Template-Based PDF Document Generation in JavaScript](https://dev.to/edocgen/template-based-pdf-document-generation-in-javascript-39gp)
 - [Dev.to/JS] [Python Random Password Generator](https://dev.to/pythondose/python-random-password-generator-2e5l)
 - [Dev.to/JS] [How client-server talk securely?](https://dev.to/shreyvijayvargiya/how-client-server-talk-securely-132f)
 - [Dev.to/JS] [How to solve the &quot;aps environment&quot; problem?](https://dev.to/junny521222/how-to-solve-the-aps-environment-problem-54co)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrate @specialdoom/proi-ui in your svelte project](https://dev.to/specialdoom/integrate-specialdoomproi-ui-in-your-svelte-project-4ija)
 - [Dev.to/JS] [Creating a Gantt chart with React using Next.js](https://dev.to/bryntum_ab/creating-a-gantt-chart-with-react-using-nextjs-12p3)
 - [Dev.to/JS] [Top 5 Most Asked React Interview Questions and Answers By Muhammad Umair](https://dev.to/amianumair/top-5-most-asked-react-interview-questions-and-answersby-muhammad-umair-k6f)
-- [Dev.to/JS] [Step-by-step guide - Input with animation](https://dev.to/designyff/step-by-step-guide-input-with-animation-4nmk)
-- [Dev.to/JS] [How to Automate Registration Page Using Selenium And Java](https://dev.to/lambdatest/how-to-automate-registration-page-using-selenium-and-java-3jmn)
-- [Dev.to/JS] [Chrome extension with React](https://dev.to/jsandaruwan/chrome-extension-with-react-70p)
-- [Dev.to/JS] [DevOps Advantages -](https://dev.to/postwell45/devops-advantages--p1e)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Own No-Carb Egg Wraps With Two Ingredients](https://lifehacker.com/make-your-own-no-carb-egg-wraps-with-two-ingredients-1849554298)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who Leaked &#39;Grand Theft Auto VI&#39;?](https://lifehacker.com/who-leaked-grand-theft-auto-vi-1849554402)
 - [Lifehacker] [Jameela Jamil on the B.S. of Toxic Diet Culture](https://lifehacker.com/jameela-jamil-on-the-bullshit-of-toxic-diet-culture-1849554597)
-- [Lifehacker] [You Can Finally Control Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-control-your-apple-watch-from-your-ipho-1849552944)
-- [Lifehacker] [Add a Digital Pet to Your iPhone](https://lifehacker.com/add-a-digital-pet-to-your-iphone-1849553713)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Control Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-control-your-apple-watch-from-your-ipho-1849552944)<!-- TECH-POSTS:END -->
 
 ---
 
