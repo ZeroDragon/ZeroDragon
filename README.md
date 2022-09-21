@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a REST API?](https://dev.to/rembertdesigns/what-is-a-rest-api-4257)
 - [Dev.to/JS] [Débuter avec Angular 14: #5 Le two way data binding ou le banana in the box 🍌 ️📦](https://dev.to/sidali/debuter-avec-angular-14-5-le-two-way-data-binding-ou-le-banana-in-the-box-52gl)
 - [Dev.to/JS] [Styled components](https://dev.to/pterenin/styled-components-4gp2)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Keep This Easy Fried Garlic on Hand at All Times](https://lifehacker.com/keep-this-easy-fried-garlic-on-hand-at-all-times-1849558561)
 - [Dev.to/JS] [Free &amp; Discounted Courses - 9/20/2022](https://dev.to/theprogramminbuddyclub/free-discounted-courses-9202022-306d)
 - [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)
-- [Dev.to/JS] [Deleting node modules folders from projects you are not working](https://dev.to/andersoncubo/deleting-node-modules-folders-from-projects-you-are-not-working-dej)
 - [Lifehacker] [The Advanced Spellchecker in Chrome and Edge Saves Everything You Type—Even Passwords](https://lifehacker.com/the-advanced-spellchecker-in-chrome-and-edge-saves-ever-1849557849)
 - [Lifehacker] [&#39;The Little Mermaid,&#39; and 14 Other Movies That Changed Their Source Material](https://lifehacker.com/the-little-mermaid-and-14-other-movies-that-changed-1849552960)
 - [Lifehacker] [How Many Steps Should I Take Each Day?](https://lifehacker.com/how-many-steps-should-i-take-each-day-1849557954)
