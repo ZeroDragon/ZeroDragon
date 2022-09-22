@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How we can use the export module in JavaScript?](https://dev.to/prateekarora/how-we-can-use-the-export-module-in-javascript-o2e)
+- [Lifehacker] [Should You Get a Rowing Machine?](https://lifehacker.com/should-you-get-a-rowing-machine-1849565041)
+- [Dev.to/JS] [The Ideal Stocking Stuffer](https://dev.to/rmion/the-ideal-stocking-stuffer-2f8)
+- [Dev.to/JS] [Redux in Next JS project. | Technical](https://dev.to/apoorvtomar/redux-in-next-js-project-technical-31kg)
 - [Lifehacker] [Use the Creaming Method Every Time You Bake](https://lifehacker.com/use-the-creaming-method-every-time-you-bake-1849564746)
 - [Dev.to/JS] [Reading stdin per character in NodeJS &lpar;asyncConfirm&rpar;](https://dev.to/tevfik/reading-stdin-per-character-in-nodejs-asyncconfirm-3h1n)
 - [Dev.to/JS] [PHP | Regular Expressions](https://dev.to/nnekajenny/php-regular-expressions-4h32)
@@ -39,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: Closure, variables &amp; hoisting](https://dev.to/jtwebguy/javascript-closure-variables-hoisting-1c9a)
 - [Lifehacker] [I Highly Recommend Dredging Your Fried Foods in Semolina Flour](https://lifehacker.com/i-highly-recommend-dredging-your-fried-foods-in-semolin-1849560582)
 - [Dev.to/JS] [React Cheat Sheet - Learn the basics of React 🔥](https://dev.to/posandu/react-cheat-sheet-learn-the-basics-of-react-659)
-- [Dev.to/JS] [Free Awesome Notion Templates for Developers](https://dev.to/surajondev/free-awesome-notion-templates-for-developers-43mh)
-- [Dev.to/JS] [Remove Element](https://dev.to/nifilat/remove-element-2ag7)
-- [Dev.to/JS] [Build a Ticket Triaging App with Baserow and ToolJet](https://dev.to/tooljet/build-a-ticket-triaging-app-with-baserow-and-tooljet-250)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Earn Airline Elite Status Without Taking &lpar;As Many&rpar; Flights](https://lifehacker.com/how-to-earn-airline-elite-status-without-taking-as-man-1849559031)
 - [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
 - [Lifehacker] [How ‘Retroactive Jealousy’ Can Ruin a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
-- [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)
-- [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)<!-- TECH-POSTS:END -->
 
 ---
 
