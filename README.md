@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dealing with Wholesale Food Service Suppliers | Urfoodsupply](https://dev.to/urfoodsupply/dealing-with-wholesale-food-service-suppliers-urfoodsupply-1d2a)
+- [Dev.to/JS] [JavaScript for Beginners: A Beginners Guide to the Language of Tables, Numbers and Maps!](https://dev.to/digitalworldgiant/javascript-for-beginners-a-beginners-guide-to-the-language-of-tables-numbers-and-maps-4hd4)
+- [Dev.to/JS] [Perfectly Spherical Houses in a Vacuum](https://dev.to/rmion/perfectly-spherical-houses-in-a-vacuum-1bc7)
+- [Lifehacker] [Comedian Bobby Moynihan Talks About Leaving SNL and Writing a Children’s Book](https://lifehacker.com/comedian-bobby-moynihan-talks-about-leaving-snl-and-wri-1849568343)
+- [Dev.to/JS] [Improve IVR Prompts with Custom Reporting](https://dev.to/deepgram/improve-ivr-prompts-with-custom-reporting-5250)
+- [Lifehacker] [This Is the Best Way to Scoop Your Drop Cookies](https://lifehacker.com/this-is-the-best-way-to-scoop-your-drop-cookies-1849568018)
+- [Lifehacker] [Why Basically Everyone Should Be Screened for Anxiety Disorder](https://lifehacker.com/why-basically-everyone-should-be-screened-for-anxiety-d-1849565908)
 - [Dev.to/JS] [How we can use the export module in JavaScript?](https://dev.to/prateekarora/how-we-can-use-the-export-module-in-javascript-o2e)
 - [Lifehacker] [Should You Get a Rowing Machine?](https://lifehacker.com/should-you-get-a-rowing-machine-1849565041)
 - [Dev.to/JS] [The Ideal Stocking Stuffer](https://dev.to/rmion/the-ideal-stocking-stuffer-2f8)
@@ -36,13 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Complete Guide to a Career in Web Development: HTML, CSS, Javascript and Web Servers](https://dev.to/alexeagleson/the-complete-guide-to-a-career-in-web-development-html-css-javascript-and-web-servers-4f90)
 - [Dev.to/JS] [Drag and Drop Card Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/drag-and-drop-card-free-download-in-html-css-and-javascript-on3)
 - [Lifehacker] [You Should Make This Breakfast Pizza With a Hash Brown Crust](https://lifehacker.com/you-should-make-this-breakfast-pizza-with-a-hash-brown-1849565824)
-- [Dev.to/JS] [Simple and responsive react forms with validation](https://dev.to/aneshodza/simple-and-responsive-react-forms-with-validation-33ai)
-- [Dev.to/JS] [Twitter Intent Generator in HTML, CSS And JavaScript](https://dev.to/allwebcodes/twitter-intent-generator-in-html-css-and-javascript-2p9e)
 - [Crazy Programmer] [Sentiment Analysis in Python – A Quick Guide](https://www.thecrazyprogrammer.com/2022/09/sentiment-analysis-in-python.html)
 - [Lifehacker] [Why You Should Apply for a Student Loan Refund Before Forgiveness](https://lifehacker.com/why-you-should-apply-for-a-student-loan-refund-before-f-1849563860)
-- [Dev.to/JS] [JavaScript: Closure, variables &amp; hoisting](https://dev.to/jtwebguy/javascript-closure-variables-hoisting-1c9a)
 - [Lifehacker] [I Highly Recommend Dredging Your Fried Foods in Semolina Flour](https://lifehacker.com/i-highly-recommend-dredging-your-fried-foods-in-semolin-1849560582)
-- [Dev.to/JS] [React Cheat Sheet - Learn the basics of React 🔥](https://dev.to/posandu/react-cheat-sheet-learn-the-basics-of-react-659)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Most Underrated Stephen King Adaptations](https://lifehacker.com/10-of-the-most-underrated-stephen-king-adaptations-1849559325)
 - [Lifehacker] [15 of NASA&#39;s Coolest Inventions That Regular People Use](https://lifehacker.com/15-of-nasas-coolest-inventions-that-regular-people-use-1849559944)
 - [Lifehacker] [You Should Make These Deviled Egg Crackers](https://lifehacker.com/you-should-make-these-deviled-egg-crackers-1849560253)
-- [Lifehacker] [How to Earn Airline Elite Status Without Taking &lpar;As Many&rpar; Flights](https://lifehacker.com/how-to-earn-airline-elite-status-without-taking-as-man-1849559031)
-- [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
-- [Lifehacker] [How ‘Retroactive Jealousy’ Can Ruin a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
-- [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Earn Airline Elite Status Without Taking &lpar;As Many&rpar; Flights](https://lifehacker.com/how-to-earn-airline-elite-status-without-taking-as-man-1849559031)<!-- TECH-POSTS:END -->
 
 ---
 
