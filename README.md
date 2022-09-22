@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [normalize data without normalizr](https://dev.to/vladimirschneider/normalize-data-without-normalizr-4hkg)
 - [Dev.to/JS] [Tabs with HTML, SASS, and JS](https://dev.to/maxim_maeder/tabs-with-html-sass-and-js-5ap6)
 - [Dev.to/JS] [How to Build a Movies API using Express.js and MongoDB - with source code](https://dev.to/rawda_developer/how-to-build-a-movies-api-using-expressjs-and-mongodb-with-source-code-4i47)
 - [Dev.to/JS] [JavaScript Interview Crib Notes](https://dev.to/ipa22751/javascript-interview-crib-notes-2aho)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What best method to create an opening website homepage animation with css animation keyframes or with Js libraries? and why?](https://dev.to/benz_marwan/what-best-method-to-create-an-opening-website-homepage-animation-with-css-animation-keyframes-m-or-with-js-libraries-and-why-ia)
 - [Dev.to/JS] [Understand synchronous Vs asynchronous code in Js](https://dev.to/twizelissa/understand-synchronous-vs-asynchronous-code-in-js-3pb6)
 - [Dev.to/JS] [27-React File Manager Chapter XXVII: The Final Chapter](https://dev.to/hassanzohdy/27-react-file-manager-chapter-xxvii-the-final-chapter-42il)
-- [Dev.to/JS] [Webpack source-map don&#39;t work!](https://dev.to/gxelol/webpack-source-map-dont-work-4kfn)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
