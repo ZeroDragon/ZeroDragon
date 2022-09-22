@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the Creaming Method Every Time You Bake](https://lifehacker.com/use-the-creaming-method-every-time-you-bake-1849564746)
+- [Dev.to/JS] [Reading stdin per character in NodeJS &lpar;asyncConfirm&rpar;](https://dev.to/tevfik/reading-stdin-per-character-in-nodejs-asyncconfirm-3h1n)
+- [Dev.to/JS] [PHP | Regular Expressions](https://dev.to/nnekajenny/php-regular-expressions-4h32)
+- [Lifehacker] [When to See October&#39;s &#39;Hunter Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-octobers-hunter-moon-at-peak-brilliance-1849565506)
+- [Dev.to/JS] [Create a countdown using recursion &lpar;FreeCodecamp notes&rpar;](https://dev.to/naveenkolambage/create-a-countdown-using-recursion-freecodecamp-notes-1k2m)
 - [Lifehacker] [Plant These Winter Cover Crops Now for Better Soil in the Spring](https://lifehacker.com/plant-these-winter-cover-crops-now-for-better-soil-in-t-1849564143)
 - [Dev.to/JS] [The Complete Guide to a Career in Web Development: HTML, CSS, Javascript and Web Servers](https://dev.to/alexeagleson/the-complete-guide-to-a-career-in-web-development-html-css-javascript-and-web-servers-4f90)
 - [Dev.to/JS] [Drag and Drop Card Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/drag-and-drop-card-free-download-in-html-css-and-javascript-on3)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free Awesome Notion Templates for Developers](https://dev.to/surajondev/free-awesome-notion-templates-for-developers-43mh)
 - [Dev.to/JS] [Remove Element](https://dev.to/nifilat/remove-element-2ag7)
 - [Dev.to/JS] [Build a Ticket Triaging App with Baserow and ToolJet](https://dev.to/tooljet/build-a-ticket-triaging-app-with-baserow-and-tooljet-250)
-- [Dev.to/JS] [Simple JavaScript Number formatting Method](https://dev.to/therobinhood/simple-javascript-number-formatting-method-4hfb)
-- [Dev.to/JS] [Angular Addicts Issue #5: New features in Angular 14.2, Bundle size optimization, Tutorials &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-5-new-features-in-angular-142-bundle-size-optimization-tutorials-more-ajg)
-- [Dev.to/JS] [React Hooks vs Class Components](https://dev.to/moazamdev/react-hooks-vs-class-components-3j6e)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Much Gas You Waste If You Live in a City With Traffic](https://lifehacker.com/here-s-how-much-gas-you-waste-if-you-live-in-a-city-wit-1849559211)
 - [Lifehacker] [How ‘Retroactive Jealousy’ Can Ruin a Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-retroactive-jealousy-can-ruin-a-relationship-and-1849558401)
 - [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)
-- [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
-- [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
-- [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)<!-- TECH-POSTS:END -->
 
 ---
 
