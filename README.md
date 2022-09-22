@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Plant These Winter Cover Crops Now for Better Soil in the Spring](https://lifehacker.com/plant-these-winter-cover-crops-now-for-better-soil-in-t-1849564143)
+- [Dev.to/JS] [The Complete Guide to a Career in Web Development: HTML, CSS, Javascript and Web Servers](https://dev.to/alexeagleson/the-complete-guide-to-a-career-in-web-development-html-css-javascript-and-web-servers-4f90)
+- [Dev.to/JS] [Drag and Drop Card Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/drag-and-drop-card-free-download-in-html-css-and-javascript-on3)
+- [Lifehacker] [You Should Make This Breakfast Pizza With a Hash Brown Crust](https://lifehacker.com/you-should-make-this-breakfast-pizza-with-a-hash-brown-1849565824)
+- [Dev.to/JS] [Simple and responsive react forms with validation](https://dev.to/aneshodza/simple-and-responsive-react-forms-with-validation-33ai)
+- [Dev.to/JS] [Twitter Intent Generator in HTML, CSS And JavaScript](https://dev.to/allwebcodes/twitter-intent-generator-in-html-css-and-javascript-2p9e)
 - [Crazy Programmer] [Sentiment Analysis in Python – A Quick Guide](https://www.thecrazyprogrammer.com/2022/09/sentiment-analysis-in-python.html)
 - [Lifehacker] [Why You Should Apply for a Student Loan Refund Before Forgiveness](https://lifehacker.com/why-you-should-apply-for-a-student-loan-refund-before-f-1849563860)
 - [Dev.to/JS] [JavaScript: Closure, variables &amp; hoisting](https://dev.to/jtwebguy/javascript-closure-variables-hoisting-1c9a)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple JavaScript Number formatting Method](https://dev.to/therobinhood/simple-javascript-number-formatting-method-4hfb)
 - [Dev.to/JS] [Angular Addicts Issue #5: New features in Angular 14.2, Bundle size optimization, Tutorials &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-5-new-features-in-angular-142-bundle-size-optimization-tutorials-more-ajg)
 - [Dev.to/JS] [React Hooks vs Class Components](https://dev.to/moazamdev/react-hooks-vs-class-components-3j6e)
-- [Dev.to/JS] [#14G10DaysCodeChallenge&lpar;Day2: Remove Element&rpar;](https://dev.to/chinwendufausty/14g10dayscodechallengeday2-remove-element-4kbh)
-- [Dev.to/JS] [Scroll Hover Animation Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/scroll-hover-animation-free-download-in-html-css-and-javascript-453p)
-- [Dev.to/JS] [Database GUIs in JavaScript](https://dev.to/janproch/database-guis-in-javascript-2dpb)
-- [Dev.to/JS] [Medusa Hackathon sign-up: Win Merch and Prizes up to $1,500 During Hacktoberfest](https://dev.to/medusajs/medusa-hackathon-sign-up-win-merch-and-prizes-up-to-1500-during-hacktoberfest-4h45)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Jameela Jamil Breaks Down How &#39;She-Hulk&#39; Tackles Misogyny](https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383)
 - [Lifehacker] [How to Make Apple Music Less Agonizingly Slow](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
-- [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
-- [Lifehacker] [Can You Get Your Flu Shot and COVID Booster in the Same Arm?](https://lifehacker.com/can-you-get-your-flu-shot-and-covid-booster-in-the-same-1849559241)
-- [Lifehacker] [Why You Should Never Make &lpar;or Even Buy&rpar; a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)<!-- TECH-POSTS:END -->
 
 ---
 
