@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using services in custom medusa routes](https://dev.to/dailydevtips1/using-services-in-custom-medusa-routes-31n7)
+- [Dev.to/JS] [How to use express-session with your custom SessionData object and TypeScript](https://dev.to/akoskm/how-to-use-express-session-with-your-custom-sessiondata-object-and-typescript-1411)
+- [Dev.to/JS] [react router explained for beginners](https://dev.to/carlosjuniordev/react-router-explained-for-beginners-213e)
 - [Dev.to/JS] [Logging for your Node.js app](https://dev.to/parseable/logging-for-your-nodejs-app-28jd)
 - [Dev.to/JS] [Tips for developing the successful dating apps in 2022](https://dev.to/pankajdas0909/tips-for-developing-the-successful-dating-apps-in-2022-4e5m)
 - [Dev.to/JS] [A simple guide on WPF RelativeSources 2022 | iFour Technolab](https://dev.to/ifourtechnolab/a-simple-guide-on-wpf-relativesources-2022-ifour-technolab-1cj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Interview Crib Notes](https://dev.to/ipa22751/javascript-interview-crib-notes-2aho)
 - [Dev.to/JS] [Python Project : File Storage API](https://dev.to/pythondose/python-project-file-storage-api-560g)
 - [Dev.to/JS] [low-level subset of JavaScript](https://dev.to/vipertechofficial/low-level-subset-of-javascript-2hhd)
-- [Dev.to/JS] [Doesn&#39;t He Have Intern-Elves For This?](https://dev.to/rmion/doesnt-he-have-intern-elves-for-this-370e)
-- [Dev.to/JS] [A Walkthrough Guide to Regular Expressions &lpar;RedEx&rpar; in JavaScript](https://dev.to/rembertdesigns/a-walkthrough-guide-to-regular-expressions-redex-in-javascript-55l5)
-- [Dev.to/JS] [1loc.dev](https://dev.to/xmetrix/1locdev-2935)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
