@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [Sentiment Analysis in Python – A Quick Guide](https://www.thecrazyprogrammer.com/2022/09/sentiment-analysis-in-python.html)
+- [Lifehacker] [Why You Should Apply for a Student Loan Refund Before Forgiveness](https://lifehacker.com/why-you-should-apply-for-a-student-loan-refund-before-f-1849563860)
+- [Dev.to/JS] [JavaScript: Closure, variables &amp; hoisting](https://dev.to/jtwebguy/javascript-closure-variables-hoisting-1c9a)
+- [Lifehacker] [I Highly Recommend Dredging Your Fried Foods in Semolina Flour](https://lifehacker.com/i-highly-recommend-dredging-your-fried-foods-in-semolin-1849560582)
+- [Dev.to/JS] [React Cheat Sheet - Learn the basics of React 🔥](https://dev.to/posandu/react-cheat-sheet-learn-the-basics-of-react-659)
 - [Dev.to/JS] [Free Awesome Notion Templates for Developers](https://dev.to/surajondev/free-awesome-notion-templates-for-developers-43mh)
 - [Dev.to/JS] [Remove Element](https://dev.to/nifilat/remove-element-2ag7)
 - [Dev.to/JS] [Build a Ticket Triaging App with Baserow and ToolJet](https://dev.to/tooljet/build-a-ticket-triaging-app-with-baserow-and-tooljet-250)
@@ -32,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#14G10DaysCodeChallenge&lpar;Day2: Remove Element&rpar;](https://dev.to/chinwendufausty/14g10dayscodechallengeday2-remove-element-4kbh)
 - [Dev.to/JS] [Scroll Hover Animation Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/scroll-hover-animation-free-download-in-html-css-and-javascript-453p)
 - [Dev.to/JS] [Database GUIs in JavaScript](https://dev.to/janproch/database-guis-in-javascript-2dpb)
-- [Dev.to/JS] [Medusa Hackathon sign-up: Win Merch and Prizes up to 1,500$ During Hacktoberfest](https://dev.to/medusajs/medusa-hackathon-sign-up-win-merch-and-prizes-up-to-1500-during-hacktoberfest-4h45)
-- [Dev.to/JS] [Scroll down animation - Tutorial](https://dev.to/designyff/scroll-down-animation-tutorial-5chn)
-- [Dev.to/JS] [Abort an Axios request with a simple library](https://dev.to/lnquy065/abort-an-axios-request-with-a-simple-library-30p7)
+- [Dev.to/JS] [Medusa Hackathon sign-up: Win Merch and Prizes up to $1,500 During Hacktoberfest](https://dev.to/medusajs/medusa-hackathon-sign-up-win-merch-and-prizes-up-to-1500-during-hacktoberfest-4h45)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hang Shelves on Your Wall Without Tools or Screws](https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343)
 - [Lifehacker] [The Difference Between Passive and Residual Income](https://lifehacker.com/the-difference-between-passive-and-residual-income-1849559680)
 - [Lifehacker] [Can You Get Your Flu Shot and COVID Booster in the Same Arm?](https://lifehacker.com/can-you-get-your-flu-shot-and-covid-booster-in-the-same-1849559241)
-- [Lifehacker] [Why You Should Never Make &lpar;or Even Buy&rpar; a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)
-- [Lifehacker] [Why Personal Finance Gurus Are Awful at Giving Personal Finance Advice](https://lifehacker.com/why-personal-finance-gurus-are-awful-at-giving-personal-1849558271)
-- [Lifehacker] [Keep This Easy Fried Garlic on Hand at All Times](https://lifehacker.com/keep-this-easy-fried-garlic-on-hand-at-all-times-1849558561)
-- [Lifehacker] [How Do I Spot Fake AirPods?](https://lifehacker.com/how-do-i-spot-fake-airpods-1849558792)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Make &lpar;or Even Buy&rpar; a Male-to-Male Extension Cord](https://lifehacker.com/why-you-should-never-make-or-even-buy-a-male-to-male-1849555967)<!-- TECH-POSTS:END -->
 
 ---
 
