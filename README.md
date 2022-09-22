@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Free Awesome Notion Templates for Developers](https://dev.to/surajondev/free-awesome-notion-templates-for-developers-43mh)
+- [Dev.to/JS] [Remove Element](https://dev.to/nifilat/remove-element-2ag7)
+- [Dev.to/JS] [Build a Ticket Triaging App with Baserow and ToolJet](https://dev.to/tooljet/build-a-ticket-triaging-app-with-baserow-and-tooljet-250)
 - [Dev.to/JS] [Simple JavaScript Number formatting Method](https://dev.to/therobinhood/simple-javascript-number-formatting-method-4hfb)
 - [Dev.to/JS] [Angular Addicts Issue #5: New features in Angular 14.2, Bundle size optimization, Tutorials &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-5-new-features-in-angular-142-bundle-size-optimization-tutorials-more-ajg)
 - [Dev.to/JS] [React Hooks vs Class Components](https://dev.to/moazamdev/react-hooks-vs-class-components-3j6e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Medusa Hackathon sign-up: Win Merch and Prizes up to 1,500$ During Hacktoberfest](https://dev.to/medusajs/medusa-hackathon-sign-up-win-merch-and-prizes-up-to-1500-during-hacktoberfest-4h45)
 - [Dev.to/JS] [Scroll down animation - Tutorial](https://dev.to/designyff/scroll-down-animation-tutorial-5chn)
 - [Dev.to/JS] [Abort an Axios request with a simple library](https://dev.to/lnquy065/abort-an-axios-request-with-a-simple-library-30p7)
-- [Dev.to/JS] [How to migrate Netlify GoTrue Users To Appwrite](https://dev.to/appwrite/how-to-migrate-netlify-gotrue-users-to-appwrite-3390)
-- [Dev.to/JS] [Dynamic Routes in React](https://dev.to/shubhamtiwari909/dynamic-routes-in-react-491g)
-- [Dev.to/JS] [How are you doing?](https://dev.to/sesartaj/how-are-you-doing-2fk)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
