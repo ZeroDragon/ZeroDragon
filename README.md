@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [1loc.dev](https://dev.to/xmetrix/1locdev-2935)
+- [Dev.to/JS] [What best method to create an opening website homepage animation with css animation keyframes or with Js libraries? and why?](https://dev.to/benz_marwan/what-best-method-to-create-an-opening-website-homepage-animation-with-css-animation-keyframes-m-or-with-js-libraries-and-why-ia)
 - [Dev.to/JS] [Understand synchronous Vs asynchronous code in Js](https://dev.to/twizelissa/understand-synchronous-vs-asynchronous-code-in-js-3pb6)
 - [Dev.to/JS] [27-React File Manager Chapter XXVII: The Final Chapter](https://dev.to/hassanzohdy/27-react-file-manager-chapter-xxvii-the-final-chapter-42il)
 - [Dev.to/JS] [Webpack source-map don&#39;t work!](https://dev.to/gxelol/webpack-source-map-dont-work-4kfn)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Bad Is a Leaky Faucet, Anyway?](https://lifehacker.com/how-bad-is-a-leaky-faucet-anyway-1849563533)
 - [Dev.to/JS] [First Hackathon](https://dev.to/dotnotation/first-hackathon-l82)
 - [Dev.to/JS] [Modern serverless typescript job queues in &gt;= 2022](https://dev.to/tonyhb/modern-serverless-typescript-job-queues-in-2022-kaf)
-- [Dev.to/JS] [Preact Signals: Managing state with style](https://dev.to/sai_krishna/preact-signals-managing-state-with-style-4c76)
 - [Lifehacker] [10 Great Ways to Use up Your Last Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458)
-- [Dev.to/JS] [2.40 - RedwoodJS](https://dev.to/codingcatdev/240-redwoodjs-3aal)
 - [Lifehacker] [All the Android Apps That Can Use ‘Material You’ Icons](https://lifehacker.com/all-the-android-apps-that-can-use-material-you-icons-1849562917)
 - [Lifehacker] [How to Fix the Most Annoying iPhone Features in iOS 16](https://lifehacker.com/how-to-fix-the-most-annoying-iphone-features-in-ios-16-1849556666)
 - [Lifehacker] [Altitude Masks Are Total B.S.](https://lifehacker.com/altitude-masks-are-bullshit-1849562913)
