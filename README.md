@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Movies API using Express.js and MongoDB - with source code](https://dev.to/rawda_developer/how-to-build-a-movies-api-using-expressjs-and-mongodb-with-source-code-4i47)
 - [Dev.to/JS] [JavaScript Interview Crib Notes](https://dev.to/ipa22751/javascript-interview-crib-notes-2aho)
 - [Dev.to/JS] [Python Project : File Storage API](https://dev.to/pythondose/python-project-file-storage-api-560g)
 - [Dev.to/JS] [low-level subset of JavaScript](https://dev.to/vipertechofficial/low-level-subset-of-javascript-2hhd)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Removing duplicates from a sorted array 14G 10days code challenge](https://dev.to/abubakarismail/removing-duplicates-from-a-sorted-array-14g-10days-code-challenge-301m)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
-- [Dev.to/JS] [SvelteKit Changes: Cookies and Authentication](https://dev.to/theether0/sveltekit-changes-session-and-cookies-enb)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
 - [Lifehacker] [There’s No Three-Day Grace Period at a Dealership](https://lifehacker.com/there-s-no-three-day-grace-period-at-a-dealership-1849563147)
 - [Lifehacker] [How Bad Is a Leaky Faucet, Anyway?](https://lifehacker.com/how-bad-is-a-leaky-faucet-anyway-1849563533)
