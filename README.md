@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)
+- [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)
+- [Dev.to/JS] [{} === {} is false... 😳WHaT?? Let me explain it with image 🖼](https://dev.to/kaziusan/-is-false-what-let-me-explain-it-with-image-58ef)
+- [Dev.to/JS] [How to remove specific element occurrence from an Array.](https://dev.to/michael2509/how-to-remove-specific-element-occurrence-from-an-array-4pl3)
 - [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)
 - [Lifehacker] [Why &#39;Passive Income&#39; Is a Myth](https://lifehacker.com/why-passive-income-is-a-myth-1849568396)
 - [Dev.to/JS] [How to get visitor&#39;s location &lpar;country&rpar; using geolocation in JavaScript?](https://dev.to/muzudre/how-to-get-visitors-location-ie-country-using-geolocation-in-javascript-2595)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See October&#39;s &#39;Hunter Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-octobers-hunter-moon-at-peak-brilliance-1849565506)
 - [Dev.to/JS] [Create a countdown using recursion &lpar;FreeCodecamp notes&rpar;](https://dev.to/naveenkolambage/create-a-countdown-using-recursion-freecodecamp-notes-1k2m)
 - [Lifehacker] [Plant These Winter Cover Crops Now for Better Soil in the Spring](https://lifehacker.com/plant-these-winter-cover-crops-now-for-better-soil-in-t-1849564143)
-- [Dev.to/JS] [The Complete Guide to a Career in Web Development: HTML, CSS, Javascript and Web Servers](https://dev.to/alexeagleson/the-complete-guide-to-a-career-in-web-development-html-css-javascript-and-web-servers-4f90)
-- [Dev.to/JS] [Drag and Drop Card Free Download in HTML, CSS And JavaScript](https://dev.to/allwebcodes/drag-and-drop-card-free-download-in-html-css-and-javascript-on3)
 - [Lifehacker] [You Should Make This Breakfast Pizza With a Hash Brown Crust](https://lifehacker.com/you-should-make-this-breakfast-pizza-with-a-hash-brown-1849565824)
 - [Crazy Programmer] [Sentiment Analysis in Python – A Quick Guide](https://www.thecrazyprogrammer.com/2022/09/sentiment-analysis-in-python.html)
 - [Lifehacker] [Why You Should Apply for a Student Loan Refund Before Forgiveness](https://lifehacker.com/why-you-should-apply-for-a-student-loan-refund-before-f-1849563860)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Harvest Seeds From Your Garden to Plant Next Year](https://lifehacker.com/how-to-harvest-seeds-from-your-garden-to-plant-next-yea-1849562665)
 - [Lifehacker] [Why You Should Upgrade to Windows 11 2022](https://lifehacker.com/why-you-should-upgrade-to-windows-11-2022-1849562445)
 - [Lifehacker] [What&#39;s New on Netflix in October 2022](https://lifehacker.com/whats-new-on-netflix-in-october-2022-1849562817)
-- [Lifehacker] [Why the 50/70 Rule for Eye Contact Is BS](https://lifehacker.com/why-the-50-70-rule-for-eye-contact-is-bullshit-1849561431)
-- [Lifehacker] [10 of the Most Underrated Stephen King Adaptations](https://lifehacker.com/10-of-the-most-underrated-stephen-king-adaptations-1849559325)
-- [Lifehacker] [15 of NASA&#39;s Coolest Inventions That Regular People Use](https://lifehacker.com/15-of-nasas-coolest-inventions-that-regular-people-use-1849559944)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why the 50/70 Rule for Eye Contact Is BS](https://lifehacker.com/why-the-50-70-rule-for-eye-contact-is-bullshit-1849561431)<!-- TECH-POSTS:END -->
 
 ---
 
