@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Clean Your Electrical Outlets Without Killing Yourself](https://lifehacker.com/how-to-clean-your-electrical-outlets-without-killing-yo-1849568733)
+- [Dev.to/JS] [Object &amp; Array Methods in JavaScript](https://dev.to/rembertdesigns/object-array-methods-in-javascript-bfk)
+- [Dev.to/JS] [HTML5 required and pattern are not a security feature](https://dev.to/codepo8/html5-required-and-pattern-are-not-a-security-feature-ld8)
 - [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
 - [Dev.to/JS] [Not Quite Lisp](https://dev.to/rmion/not-quite-lisp-1ofo)
 - [Dev.to/JS] [Python script to generate search results in Hugo](https://dev.to/jmau111/python-script-to-generate-search-results-in-hugo-4oil)
@@ -37,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)
 - [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)
 - [Dev.to/JS] [{} === {} is false... 😳WHaT?? Let me explain it with image 🖼](https://dev.to/kaziusan/-is-false-what-let-me-explain-it-with-image-58ef)
-- [Dev.to/JS] [How to remove specific element occurrence from an Array.](https://dev.to/michael2509/how-to-remove-specific-element-occurrence-from-an-array-4pl3)
 - [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)
 - [Lifehacker] [Why &#39;Passive Income&#39; Is a Myth](https://lifehacker.com/why-passive-income-is-a-myth-1849568396)
-- [Dev.to/JS] [How to get visitor&#39;s location &lpar;country&rpar; using geolocation in JavaScript?](https://dev.to/muzudre/how-to-get-visitors-location-ie-country-using-geolocation-in-javascript-2595)
 - [Lifehacker] [Comedian Bobby Moynihan Talks About Leaving SNL and Writing a Children’s Book](https://lifehacker.com/comedian-bobby-moynihan-talks-about-leaving-snl-and-wri-1849568343)
 - [Lifehacker] [This Is the Best Way to Scoop Your Drop Cookies](https://lifehacker.com/this-is-the-best-way-to-scoop-your-drop-cookies-1849568018)
 - [Lifehacker] [Why Basically Everyone Should Be Screened for Anxiety Disorder](https://lifehacker.com/why-basically-everyone-should-be-screened-for-anxiety-d-1849565908)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Android Apps That Can Use ‘Material You’ Icons](https://lifehacker.com/all-the-android-apps-that-can-use-material-you-icons-1849562917)
 - [Lifehacker] [How to Fix the Most Annoying iPhone Features in iOS 16](https://lifehacker.com/how-to-fix-the-most-annoying-iphone-features-in-ios-16-1849556666)
 - [Lifehacker] [Altitude Masks Are Total B.S.](https://lifehacker.com/altitude-masks-are-bullshit-1849562913)
-- [Lifehacker] [How to Harvest Seeds From Your Garden to Plant Next Year](https://lifehacker.com/how-to-harvest-seeds-from-your-garden-to-plant-next-yea-1849562665)
-- [Lifehacker] [Why You Should Upgrade to Windows 11 2022](https://lifehacker.com/why-you-should-upgrade-to-windows-11-2022-1849562445)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Harvest Seeds From Your Garden to Plant Next Year](https://lifehacker.com/how-to-harvest-seeds-from-your-garden-to-plant-next-yea-1849562665)<!-- TECH-POSTS:END -->
 
 ---
 
