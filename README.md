@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Interview Crib Notes](https://dev.to/ipa22751/javascript-interview-crib-notes-2aho)
+- [Dev.to/JS] [Python Project : File Storage API](https://dev.to/pythondose/python-project-file-storage-api-560g)
 - [Dev.to/JS] [low-level subset of JavaScript](https://dev.to/vipertechofficial/low-level-subset-of-javascript-2hhd)
 - [Dev.to/JS] [Doesn&#39;t He Have Intern-Elves For This?](https://dev.to/rmion/doesnt-he-have-intern-elves-for-this-370e)
 - [Dev.to/JS] [A Walkthrough Guide to Regular Expressions &lpar;RedEx&rpar; in JavaScript](https://dev.to/rembertdesigns/a-walkthrough-guide-to-regular-expressions-redex-in-javascript-55l5)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Dev.to/JS] [SvelteKit Changes: Cookies and Authentication](https://dev.to/theether0/sveltekit-changes-session-and-cookies-enb)
-- [Dev.to/JS] [Creating a CLI tool using NodeJS and npm &lpar;part 2&rpar;](https://dev.to/pgarciacamou/creating-a-cli-tool-using-nodejs-and-npm-part-2-8h7)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
-- [Dev.to/JS] [Random Quotes for Hugo](https://dev.to/dfinster/random-quotes-for-hugo-19md)
 - [Lifehacker] [There’s No Three-Day Grace Period at a Dealership](https://lifehacker.com/there-s-no-three-day-grace-period-at-a-dealership-1849563147)
 - [Lifehacker] [How Bad Is a Leaky Faucet, Anyway?](https://lifehacker.com/how-bad-is-a-leaky-faucet-anyway-1849563533)
 - [Lifehacker] [10 Great Ways to Use up Your Last Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458)
