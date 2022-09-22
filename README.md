@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tips for developing the successful dating apps in 2022](https://dev.to/pankajdas0909/tips-for-developing-the-successful-dating-apps-in-2022-4e5m)
+- [Dev.to/JS] [A simple guide on WPF RelativeSources 2022 | iFour Technolab](https://dev.to/ifourtechnolab/a-simple-guide-on-wpf-relativesources-2022-ifour-technolab-1cj)
 - [Dev.to/JS] [normalize data without normalizr](https://dev.to/vladimirschneider/normalize-data-without-normalizr-4hkg)
 - [Dev.to/JS] [Tabs with HTML, SASS, and JS](https://dev.to/maxim_maeder/tabs-with-html-sass-and-js-5ap6)
 - [Dev.to/JS] [How to Build a Movies API using Express.js and MongoDB - with source code](https://dev.to/rawda_developer/how-to-build-a-movies-api-using-expressjs-and-mongodb-with-source-code-4i47)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Walkthrough Guide to Regular Expressions &lpar;RedEx&rpar; in JavaScript](https://dev.to/rembertdesigns/a-walkthrough-guide-to-regular-expressions-redex-in-javascript-55l5)
 - [Dev.to/JS] [1loc.dev](https://dev.to/xmetrix/1locdev-2935)
 - [Dev.to/JS] [What best method to create an opening website homepage animation with css animation keyframes or with Js libraries? and why?](https://dev.to/benz_marwan/what-best-method-to-create-an-opening-website-homepage-animation-with-css-animation-keyframes-m-or-with-js-libraries-and-why-ia)
-- [Dev.to/JS] [Understand synchronous Vs asynchronous code in Js](https://dev.to/twizelissa/understand-synchronous-vs-asynchronous-code-in-js-3pb6)
-- [Dev.to/JS] [27-React File Manager Chapter XXVII: The Final Chapter](https://dev.to/hassanzohdy/27-react-file-manager-chapter-xxvii-the-final-chapter-42il)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
