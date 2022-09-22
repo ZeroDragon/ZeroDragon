@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Dealing with Wholesale Food Service Suppliers | Urfoodsupply](https://dev.to/urfoodsupply/dealing-with-wholesale-food-service-suppliers-urfoodsupply-1d2a)
+- [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)
+- [Lifehacker] [Why &#39;Passive Income&#39; Is a Myth](https://lifehacker.com/why-passive-income-is-a-myth-1849568396)
+- [Dev.to/JS] [How to get visitor&#39;s location &lpar;country&rpar; using geolocation in JavaScript?](https://dev.to/muzudre/how-to-get-visitors-location-ie-country-using-geolocation-in-javascript-2595)
 - [Dev.to/JS] [JavaScript for Beginners: A Beginners Guide to the Language of Tables, Numbers and Maps!](https://dev.to/digitalworldgiant/javascript-for-beginners-a-beginners-guide-to-the-language-of-tables-numbers-and-maps-4hd4)
 - [Dev.to/JS] [Perfectly Spherical Houses in a Vacuum](https://dev.to/rmion/perfectly-spherical-houses-in-a-vacuum-1bc7)
 - [Lifehacker] [Comedian Bobby Moynihan Talks About Leaving SNL and Writing a Children’s Book](https://lifehacker.com/comedian-bobby-moynihan-talks-about-leaving-snl-and-wri-1849568343)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in October 2022](https://lifehacker.com/whats-new-on-netflix-in-october-2022-1849562817)
 - [Lifehacker] [Why the 50/70 Rule for Eye Contact Is BS](https://lifehacker.com/why-the-50-70-rule-for-eye-contact-is-bullshit-1849561431)
 - [Lifehacker] [10 of the Most Underrated Stephen King Adaptations](https://lifehacker.com/10-of-the-most-underrated-stephen-king-adaptations-1849559325)
-- [Lifehacker] [15 of NASA&#39;s Coolest Inventions That Regular People Use](https://lifehacker.com/15-of-nasas-coolest-inventions-that-regular-people-use-1849559944)
-- [Lifehacker] [You Should Make These Deviled Egg Crackers](https://lifehacker.com/you-should-make-these-deviled-egg-crackers-1849560253)
-- [Lifehacker] [How to Earn Airline Elite Status Without Taking &lpar;As Many&rpar; Flights](https://lifehacker.com/how-to-earn-airline-elite-status-without-taking-as-man-1849559031)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of NASA&#39;s Coolest Inventions That Regular People Use](https://lifehacker.com/15-of-nasas-coolest-inventions-that-regular-people-use-1849559944)<!-- TECH-POSTS:END -->
 
 ---
 
