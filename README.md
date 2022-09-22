@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scroll down animation - Tutorial](https://dev.to/designyff/scroll-down-animation-tutorial-5chn)
+- [Dev.to/JS] [Abort an Axios request with a simple library](https://dev.to/lnquy065/abort-an-axios-request-with-a-simple-library-30p7)
+- [Dev.to/JS] [How to migrate Netlify GoTrue Users To Appwrite](https://dev.to/appwrite/how-to-migrate-netlify-gotrue-users-to-appwrite-3390)
 - [Dev.to/JS] [Dynamic Routes in React](https://dev.to/shubhamtiwari909/dynamic-routes-in-react-491g)
 - [Dev.to/JS] [How are you doing?](https://dev.to/sesartaj/how-are-you-doing-2fk)
+- [Dev.to/JS] [Why You Should Use Client-Side Static Code Analysis for Web Development](https://dev.to/quokkalabs/why-you-should-use-client-side-static-code-analysis-for-web-development-3j80)
 - [Dev.to/JS] [Using services in custom medusa routes](https://dev.to/dailydevtips1/using-services-in-custom-medusa-routes-31n7)
 - [Dev.to/JS] [How to use express-session with your custom SessionData object and TypeScript](https://dev.to/akoskm/how-to-use-express-session-with-your-custom-sessiondata-object-and-typescript-1411)
 - [Dev.to/JS] [react router explained for beginners](https://dev.to/carlosjuniordev/react-router-explained-for-beginners-213e)
 - [Dev.to/JS] [Logging for your Node.js app](https://dev.to/parseable/logging-for-your-nodejs-app-28jd)
 - [Dev.to/JS] [Tips for developing the successful dating apps in 2022](https://dev.to/pankajdas0909/tips-for-developing-the-successful-dating-apps-in-2022-4e5m)
 - [Dev.to/JS] [A simple guide on WPF RelativeSources 2022 | iFour Technolab](https://dev.to/ifourtechnolab/a-simple-guide-on-wpf-relativesources-2022-ifour-technolab-1cj)
-- [Dev.to/JS] [normalize data without normalizr](https://dev.to/vladimirschneider/normalize-data-without-normalizr-4hkg)
-- [Dev.to/JS] [Tabs with HTML, SASS, and JS](https://dev.to/maxim_maeder/tabs-with-html-sass-and-js-5ap6)
-- [Dev.to/JS] [How to Build a Movies API using Express.js and MongoDB - with source code](https://dev.to/rawda_developer/how-to-build-a-movies-api-using-expressjs-and-mongodb-with-source-code-4i47)
-- [Dev.to/JS] [JavaScript Interview Crib Notes](https://dev.to/ipa22751/javascript-interview-crib-notes-2aho)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
