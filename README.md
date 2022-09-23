@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating custom services in medusa](https://dev.to/dailydevtips1/creating-custom-services-in-medusa-2dkh)
 - [Dev.to/JS] [API routes with Vercel Serverless Functions and NextJS](https://dev.to/sushmeet/api-routes-with-vercel-serverless-functions-and-nextjs-5goa)
 - [Dev.to/JS] [Mobile Development with React Native](https://dev.to/sushmeet/how-to-begin-mobile-dev-with-react-native-204f)
 - [Dev.to/JS] [jQuery After And Before Example](https://dev.to/techsolutionstuff/jquery-after-and-before-example-24mb)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
 - [Dev.to/JS] [Yarn error: Configurando o arquivo yarnrc.yml para corrigir erro de instalação do Yarn](https://dev.to/rodrigozan/yarn-error-configurando-o-arquivo-yarnrcyml-para-corrigir-erro-de-instalacao-do-yarn-2kh3)
-- [Dev.to/JS] [What Does &#39;This&#39; Mean in JavaScript? The Keyword Explained](https://dev.to/rembertdesigns/what-does-this-mean-in-javascript-the-keyword-explained-4paa)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
 - [Lifehacker] [How to Clean Your Electrical Outlets Without Killing Yourself](https://lifehacker.com/how-to-clean-your-electrical-outlets-without-killing-yo-1849568733)
 - [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
