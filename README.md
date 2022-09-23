@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy React SPA to S3 using Github Actions](https://dev.to/yaldram/deploy-react-spa-to-s3-using-github-actions-206)
+- [Dev.to/JS] [Making a discord bot in JavaScript.](https://dev.to/diekoma/making-a-discord-bot-in-javascript-oa8)
+- [Dev.to/JS] [Bootstrap 5 Smooth scroll](https://dev.to/mdbootstrap/bootstrap-5-smooth-scroll-24fg)
+- [Dev.to/JS] [Bootstrap 5 Scrollbar](https://dev.to/mdbootstrap/bootstrap-5-scrollbar-7b0)
+- [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
+- [Dev.to/JS] [Use javascript and Openzeppelin to build your first NFT!](https://dev.to/anil_from_revise/use-javascript-and-openzeppelin-to-build-your-first-nft-43oe)
 - [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)
 - [Dev.to/JS] [Built a Breakout game](https://dev.to/dhanushnehru/built-a-breakout-game-4073)
 - [Dev.to/JS] [tsParticles 2.3.2 Released](https://dev.to/tsparticles/tsparticles-232-released-27ep)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing React Apps With Cypress: An In-Depth Guide For Beginners](https://dev.to/profydev/how-to-start-testing-react-apps-and-why-i-recommend-cypress-to-beginners-5el5)
 - [Dev.to/JS] [What Do You Need To Know About The Future Of Full Stack Software Development?](https://dev.to/xnaksdn/what-do-you-need-to-know-about-the-future-of-full-stack-software-development-3cdn)
 - [Dev.to/JS] [The simple guide to understanding Callback functions in JavaScript](https://dev.to/efkumah/the-simple-guide-to-understanding-callback-functions-in-javascript-3e3e)
-- [Dev.to/JS] [Did you encounter this error and fail to upload IPA? How to solve it?](https://dev.to/junny521222/did-you-encounter-this-error-and-fail-to-upload-ipa-how-to-solve-it-1cgp)
-- [Dev.to/JS] [How to add JavaScript to your Website.](https://dev.to/aliyuadeniji/how-to-add-javascript-to-your-website-1ke7)
-- [Dev.to/JS] [Lists and Keys in React](https://dev.to/daryllukas/lists-and-keys-in-react-115o)
-- [Dev.to/JS] [How to optimize images for website?](https://dev.to/dhairyashah/how-to-optimize-images-for-website-18f4)
-- [Dev.to/JS] [Rules for Decorators: Why meta-programming in Angular sucks, and what you can do about it](https://dev.to/antischematic/rules-for-decorators-why-meta-programming-in-angular-sucks-and-what-you-can-do-about-it-1261)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
 - [Lifehacker] [There’s No Three-Day Grace Period at a Dealership](https://lifehacker.com/there-s-no-three-day-grace-period-at-a-dealership-1849563147)
-- [Lifehacker] [How Bad Is a Leaky Faucet, Anyway?](https://lifehacker.com/how-bad-is-a-leaky-faucet-anyway-1849563533)
-- [Lifehacker] [10 Great Ways to Use up Your Last Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Bad Is a Leaky Faucet, Anyway?](https://lifehacker.com/how-bad-is-a-leaky-faucet-anyway-1849563533)<!-- TECH-POSTS:END -->
 
 ---
 
