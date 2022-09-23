@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)
+- [Dev.to/JS] [Built a Breakout game](https://dev.to/dhanushnehru/built-a-breakout-game-4073)
+- [Dev.to/JS] [tsParticles 2.3.2 Released](https://dev.to/tsparticles/tsparticles-232-released-27ep)
 - [Dev.to/JS] [14 Top Visual Layout Testing Tools](https://dev.to/lambdatest/14-top-visual-layout-testing-tools-35pm)
 - [Dev.to/JS] [DAY 3 CODE CHALLENGE &lpar;PALINDROME INTEGER&rpar;](https://dev.to/chinwendufausty/day-3-code-challenge-palindrome-integer-95f)
-- [Dev.to/JS] [How To Start Testing React Apps &lpar;And Why I Recommend Cypress To Beginners&rpar;](https://dev.to/profydev/how-to-start-testing-react-apps-and-why-i-recommend-cypress-to-beginners-5el5)
+- [Dev.to/JS] [Testing React Apps With Cypress: An In-Depth Guide For Beginners](https://dev.to/profydev/how-to-start-testing-react-apps-and-why-i-recommend-cypress-to-beginners-5el5)
 - [Dev.to/JS] [What Do You Need To Know About The Future Of Full Stack Software Development?](https://dev.to/xnaksdn/what-do-you-need-to-know-about-the-future-of-full-stack-software-development-3cdn)
 - [Dev.to/JS] [The simple guide to understanding Callback functions in JavaScript](https://dev.to/efkumah/the-simple-guide-to-understanding-callback-functions-in-javascript-3e3e)
 - [Dev.to/JS] [Did you encounter this error and fail to upload IPA? How to solve it?](https://dev.to/junny521222/did-you-encounter-this-error-and-fail-to-upload-ipa-how-to-solve-it-1cgp)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lists and Keys in React](https://dev.to/daryllukas/lists-and-keys-in-react-115o)
 - [Dev.to/JS] [How to optimize images for website?](https://dev.to/dhairyashah/how-to-optimize-images-for-website-18f4)
 - [Dev.to/JS] [Rules for Decorators: Why meta-programming in Angular sucks, and what you can do about it](https://dev.to/antischematic/rules-for-decorators-why-meta-programming-in-angular-sucks-and-what-you-can-do-about-it-1261)
-- [Dev.to/JS] [Web hosting issues || GitHub Page is not showing up on website?](https://dev.to/ajaydha27250016/web-hosting-issues-github-page-is-not-showing-up-on-website-fo6)
-- [Dev.to/JS] [Top 5 Frontend Interview questions you must know! Ans with Example](https://dev.to/devvsakib/top-5-frontend-interview-questions-you-must-know-ans-with-example-5cnm)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
 - [Lifehacker] [There’s No Three-Day Grace Period at a Dealership](https://lifehacker.com/there-s-no-three-day-grace-period-at-a-dealership-1849563147)
 - [Lifehacker] [How Bad Is a Leaky Faucet, Anyway?](https://lifehacker.com/how-bad-is-a-leaky-faucet-anyway-1849563533)
-- [Lifehacker] [10 Great Ways to Use up Your Last Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458)
-- [Lifehacker] [All the Android Apps That Can Use ‘Material You’ Icons](https://lifehacker.com/all-the-android-apps-that-can-use-material-you-icons-1849562917)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Great Ways to Use up Your Last Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458)<!-- TECH-POSTS:END -->
 
 ---
 
