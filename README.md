@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Contributing to another SSG project](https://dev.to/neilan99/contributing-to-another-ssg-project-5fif)
+- [Dev.to/JS] [JavaScript Performance Tips](https://dev.to/nothanii/javascript-performance-tips-h60)
+- [Dev.to/JS] [Contribution to project](https://dev.to/mnosov622/contribution-to-project-26oo)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
 - [Dev.to/JS] [Yarn error: Configurando o arquivo yarnrc.yml para corrigir erro de instalação do Yarn](https://dev.to/rodrigozan/yarn-error-configurando-o-arquivo-yarnrcyml-para-corrigir-erro-de-instalacao-do-yarn-2kh3)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you should avoid using arrow functions to define class methods](https://dev.to/sakhnyuk/why-you-should-avoid-using-arrow-functions-to-define-class-methods-213e)
 - [Lifehacker] [How to Tell If Your Floor is Hardwood or Laminate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-tell-if-your-floor-is-hardwood-or-laminate-and-1849568470)
 - [Dev.to/JS] [&quot;Object.assign&quot;. It&#39;s easier than you think](https://dev.to/kaziusan/objectassign-its-easier-than-you-think-24bi)
-- [Dev.to/JS] [I Was Told There Would Be No Math](https://dev.to/rmion/i-was-told-there-would-be-no-math-1f6k)
-- [Dev.to/JS] [Introducing Colada](https://dev.to/jonhpc/introducing-colada-2ce5)
-- [Dev.to/JS] [Top 5 confusing things about JavaScript while I learned it for the first time](https://dev.to/yukio1o5/top-5-confusing-things-about-javascript-while-i-learned-it-for-the-first-time-4iec)
 - [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)
 - [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)
 - [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)
