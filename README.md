@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways You Could Better Organize Your Groceries at Checkout](https://lifehacker.com/all-the-ways-you-could-better-organize-your-groceries-a-1849573177)
+- [Lifehacker] [How to Streamline Your iPhone 14 Pro’s Always-On Display](https://lifehacker.com/how-to-streamline-your-iphone-14-pro-s-always-on-displa-1849573196)
+- [Dev.to/JS] [What you need to work as a programmer in 2022](https://dev.to/dcastro/what-you-need-to-work-as-a-programmer-in-2022-lie)
 - [Dev.to/JS] [Different Ways To Create Objects In JavaScript](https://dev.to/mrityunjaypalled/different-ways-to-create-objects-in-javascript-2j7)
 - [Dev.to/JS] [Finding the Minimum and Maximum Values of an Array in JavaScript](https://dev.to/cavein254/finding-the-minimum-and-maximum-values-of-an-array-in-javascript-3kel)
+- [Lifehacker] [What&#39;s New on Amazon Prime in October 2022](https://lifehacker.com/whats-new-on-amazon-prime-in-october-2022-1849574079)
 - [Lifehacker] [20 Movies That Endured Wildly Troubled Productions](https://lifehacker.com/20-movies-that-endured-wildly-troubled-productions-1849567973)
 - [Lifehacker] [How Often Should You Really Wash Your Hair?](https://lifehacker.com/how-often-should-you-really-wash-your-hair-1849573305)
 - [Dev.to/JS] [Making Nuxt.js web apps compatible with IE11 &lpar;Only about Javascript&rpar;](https://dev.to/k5trismegistus/making-nuxtjs-web-apps-compatible-with-ie11-only-about-javascript-551)
@@ -39,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Cognitive Biases We All Have &lpar;and How to Fight Them&rpar;](https://lifehacker.com/three-cognitive-biases-we-all-have-and-how-to-fight-th-1849570852)
 - [Dev.to/JS] [Bootstrap 5 Sticky](https://dev.to/mdbootstrap/bootstrap-5-sticky-1ij1)
 - [Dev.to/JS] [Bootstrap 5 Touch](https://dev.to/mdbootstrap/bootstrap-5-touch-2h2n)
-- [Dev.to/JS] [I&#39;ve created navbar based on Dynamic Island on iPhone 14 &lpar;iOS 16&rpar;](https://dev.to/daimessdn/ive-created-navbar-based-on-dynamic-island-on-iphone-14-ios-16-3fp0)
 - [Lifehacker] [‘Trombone Champ’ and 13 More Hilarious Video Games for When You Need to Shut Off Your Brain](https://lifehacker.com/trombone-champ-and-13-more-hilarious-video-games-for-1849570084)
 - [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
 - [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Get a Rowing Machine?](https://lifehacker.com/should-you-get-a-rowing-machine-1849565041)
 - [Lifehacker] [Use the Creaming Method Every Time You Bake](https://lifehacker.com/use-the-creaming-method-every-time-you-bake-1849564746)
 - [Lifehacker] [When to See October&#39;s &#39;Hunter Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-octobers-hunter-moon-at-peak-brilliance-1849565506)
-- [Lifehacker] [Plant These Winter Cover Crops Now for Better Soil in the Spring](https://lifehacker.com/plant-these-winter-cover-crops-now-for-better-soil-in-t-1849564143)
-- [Lifehacker] [You Should Make This Breakfast Pizza With a Hash Brown Crust](https://lifehacker.com/you-should-make-this-breakfast-pizza-with-a-hash-brown-1849565824)
-- [Crazy Programmer] [Sentiment Analysis in Python – A Quick Guide](https://www.thecrazyprogrammer.com/2022/09/sentiment-analysis-in-python.html)
-- [Lifehacker] [Why You Should Apply for a Student Loan Refund Before Forgiveness](https://lifehacker.com/why-you-should-apply-for-a-student-loan-refund-before-f-1849563860)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Plant These Winter Cover Crops Now for Better Soil in the Spring](https://lifehacker.com/plant-these-winter-cover-crops-now-for-better-soil-in-t-1849564143)<!-- TECH-POSTS:END -->
 
 ---
 
