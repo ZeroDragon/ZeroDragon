@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 3&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-3-5e)
 - [Dev.to/JS] [Using recursion to count from startNum to endNum &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/using-recursion-to-count-from-startnum-to-endnum-freecodecamp-notes-1jnc)
 - [Dev.to/JS] [Day 3 I4G 10 days of code challenge](https://dev.to/abubakarismail/day-3-i4g-10-days-of-code-challenge-11n)
 - [Dev.to/JS] [Deploying React applications to Netlify](https://dev.to/asayerio_techblog/deploying-react-applications-to-netlify-2h7o)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Could Better Organize Your Groceries at Checkout](https://lifehacker.com/all-the-ways-you-could-better-organize-your-groceries-a-1849573177)
 - [Lifehacker] [How to Streamline Your iPhone 14 Pro’s Always-On Display](https://lifehacker.com/how-to-streamline-your-iphone-14-pro-s-always-on-displa-1849573196)
 - [Dev.to/JS] [What you need to work as a programmer in 2022](https://dev.to/dcastro/what-you-need-to-work-as-a-programmer-in-2022-lie)
-- [Dev.to/JS] [Different Ways To Create Objects In JavaScript](https://dev.to/mrityunjaypalled/different-ways-to-create-objects-in-javascript-2j7)
 - [Lifehacker] [What&#39;s New on Amazon Prime in October 2022](https://lifehacker.com/whats-new-on-amazon-prime-in-october-2022-1849574079)
 - [Lifehacker] [20 Movies That Endured Wildly Troubled Productions](https://lifehacker.com/20-movies-that-endured-wildly-troubled-productions-1849567973)
 - [Lifehacker] [How Often Should You Really Wash Your Hair?](https://lifehacker.com/how-often-should-you-really-wash-your-hair-1849573305)
