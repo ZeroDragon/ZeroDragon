@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [jQuery After And Before Example](https://dev.to/techsolutionstuff/jquery-after-and-before-example-24mb)
+- [Dev.to/JS] [The joy of validating with Joi](https://dev.to/methmi/the-joy-of-validating-with-joi-51ej)
+- [Dev.to/JS] [Tips: How to get last element of an array in javascipt](https://dev.to/devvsakib/tips-how-to-get-last-element-of-an-array-in-javascipt-3k2j)
 - [Dev.to/JS] [5 Tips for Black Women Learning How to Code](https://dev.to/brinascode/5-tips-for-black-women-learning-how-to-code-3cdd)
 - [Dev.to/JS] [OSD600 Blog #4 - Lab 2](https://dev.to/rokaicker/osd600-blog-4-lab-2-1302)
 - [Dev.to/JS] [Contributing to another SSG project](https://dev.to/neilan99/contributing-to-another-ssg-project-5fif)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object &amp; Array Methods in JavaScript](https://dev.to/rembertdesigns/object-array-methods-in-javascript-bfk)
 - [Dev.to/JS] [HTML5 required and pattern are not a security feature](https://dev.to/codepo8/html5-required-and-pattern-are-not-a-security-feature-ld8)
 - [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
-- [Dev.to/JS] [Not Quite Lisp](https://dev.to/rmion/not-quite-lisp-1ofo)
-- [Dev.to/JS] [Python script to generate search results in Hugo](https://dev.to/jmau111/python-script-to-generate-search-results-in-hugo-4oil)
-- [Dev.to/JS] [30 Days Frontend Development Roadmap 2022-2023](https://dev.to/iamatifriaz/30-days-frontend-development-roadmap-2022-2023-4kej)
 - [Lifehacker] [How to Tell If Your Floor is Hardwood or Laminate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-tell-if-your-floor-is-hardwood-or-laminate-and-1849568470)
 - [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)
 - [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)
