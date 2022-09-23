@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the dangers associated with them](https://dev.to/hneelz/what-are-the-dangers-associated-with-them-3j4l)
+- [Dev.to/JS] [Three Days till the Hacktober 2022, with Illa](https://dev.to/silerncerxyz/three-days-till-the-hacktober-2022-with-illa-58g1)
 - [Dev.to/JS] [Creating custom services in medusa](https://dev.to/dailydevtips1/creating-custom-services-in-medusa-2dkh)
 - [Dev.to/JS] [API routes with Vercel Serverless Functions and NextJS](https://dev.to/sushmeet/api-routes-with-vercel-serverless-functions-and-nextjs-5goa)
 - [Dev.to/JS] [Mobile Development with React Native](https://dev.to/sushmeet/how-to-begin-mobile-dev-with-react-native-204f)
@@ -33,10 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OSD600 Blog #4 - Lab 2](https://dev.to/rokaicker/osd600-blog-4-lab-2-1302)
 - [Dev.to/JS] [Contributing to another SSG project](https://dev.to/neilan99/contributing-to-another-ssg-project-5fif)
 - [Dev.to/JS] [JavaScript Performance Tips](https://dev.to/nothanii/javascript-performance-tips-h60)
-- [Dev.to/JS] [Contribution to project](https://dev.to/mnosov622/contribution-to-project-26oo)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
-- [Dev.to/JS] [Yarn error: Configurando o arquivo yarnrc.yml para corrigir erro de instalação do Yarn](https://dev.to/rodrigozan/yarn-error-configurando-o-arquivo-yarnrcyml-para-corrigir-erro-de-instalacao-do-yarn-2kh3)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
 - [Lifehacker] [How to Clean Your Electrical Outlets Without Killing Yourself](https://lifehacker.com/how-to-clean-your-electrical-outlets-without-killing-yo-1849568733)
 - [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
