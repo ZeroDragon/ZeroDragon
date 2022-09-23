@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
+- [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
+- [Dev.to/JS] [How to create a Widget Grid using React](https://dev.to/franciscomendes10866/how-to-create-a-widget-grid-using-react-3jji)
+- [Dev.to/JS] [Palindrome](https://dev.to/michael2509/palindrome-57jm)
+- [Dev.to/JS] [Front End Web Development](https://dev.to/omerko96/front-end-web-development-55p3)
 - [Lifehacker] [Maybe It&#39;s Time to Get an Air Purifier](https://lifehacker.com/maybe-its-time-to-get-an-air-purifier-1849574152)
 - [Dev.to/JS] [Ordering arrays in Javascript](https://dev.to/cavein254/ordering-arrays-in-javascript-31dm)
 - [Lifehacker] [What&#39;s the Real Difference Between Passive and Residual Income?](https://lifehacker.com/whats-the-real-difference-between-passive-and-residual-1849574141)
@@ -41,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Choose The Right Framework For Your Next Node.js App.](https://dev.to/osam1010/how-to-choose-the-right-framework-for-your-next-nodejs-app-2c1e)
 - [Lifehacker] [Maybe You Should Try ‘Quiet Quitting’ Your Love Life](https://lifehacker.com/maybe-you-should-try-quiet-quitting-your-love-life-1849571411)
 - [Dev.to/JS] [Utilizando Object functions em JavaScript](https://dev.to/murillonahvs/utilizando-object-functions-em-javascript-20a3)
-- [Dev.to/JS] [Mac OS for the Web!](https://dev.to/an0n7os/mac-os-for-the-web-56dd)
-- [Dev.to/JS] [SEO Tips for Next.js sites](https://dev.to/asayerio_techblog/seo-tips-for-nextjs-sites-52cp)
-- [Dev.to/JS] [Full-text Search in React with Algolia and Firestore](https://dev.to/asayerio_techblog/full-text-search-in-react-with-algolia-and-firestore-5cm4)
 - [Lifehacker] [Three Cognitive Biases We All Have &lpar;and How to Fight Them&rpar;](https://lifehacker.com/three-cognitive-biases-we-all-have-and-how-to-fight-th-1849570852)
 - [Lifehacker] [‘Trombone Champ’ and 13 More Hilarious Video Games for When You Need to Shut Off Your Brain](https://lifehacker.com/trombone-champ-and-13-more-hilarious-video-games-for-1849570084)
 - [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why &#39;Passive Income&#39; Is a Myth](https://lifehacker.com/why-passive-income-is-a-myth-1849568396)
 - [Lifehacker] [Comedian Bobby Moynihan Talks About Leaving SNL and Writing a Children’s Book](https://lifehacker.com/comedian-bobby-moynihan-talks-about-leaving-snl-and-wri-1849568343)
 - [Lifehacker] [This Is the Best Way to Scoop Your Drop Cookies](https://lifehacker.com/this-is-the-best-way-to-scoop-your-drop-cookies-1849568018)
-- [Lifehacker] [Why Basically Everyone Should Be Screened for Anxiety Disorder](https://lifehacker.com/why-basically-everyone-should-be-screened-for-anxiety-d-1849565908)
-- [Lifehacker] [Should You Get a Rowing Machine?](https://lifehacker.com/should-you-get-a-rowing-machine-1849565041)
-- [Lifehacker] [Use the Creaming Method Every Time You Bake](https://lifehacker.com/use-the-creaming-method-every-time-you-bake-1849564746)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Basically Everyone Should Be Screened for Anxiety Disorder](https://lifehacker.com/why-basically-everyone-should-be-screened-for-anxiety-d-1849565908)<!-- TECH-POSTS:END -->
 
 ---
 
