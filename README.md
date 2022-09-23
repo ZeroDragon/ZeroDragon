@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Maybe It&#39;s Time to Get an Air Purifier](https://lifehacker.com/maybe-its-time-to-get-an-air-purifier-1849574152)
+- [Dev.to/JS] [Ordering arrays in Javascript](https://dev.to/cavein254/ordering-arrays-in-javascript-31dm)
+- [Lifehacker] [What&#39;s the Real Difference Between Passive and Residual Income?](https://lifehacker.com/whats-the-real-difference-between-passive-and-residual-1849574141)
+- [Dev.to/JS] [Experience of Project Contribution](https://dev.to/cychu42/experience-of-project-contribution-an9)
 - [Lifehacker] [All the Ways You Could Better Organize Your Groceries at Checkout](https://lifehacker.com/all-the-ways-you-could-better-organize-your-groceries-a-1849573177)
 - [Lifehacker] [How to Streamline Your iPhone 14 Pro’s Always-On Display](https://lifehacker.com/how-to-streamline-your-iphone-14-pro-s-always-on-displa-1849573196)
 - [Dev.to/JS] [What you need to work as a programmer in 2022](https://dev.to/dcastro/what-you-need-to-work-as-a-programmer-in-2022-lie)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SEO Tips for Next.js sites](https://dev.to/asayerio_techblog/seo-tips-for-nextjs-sites-52cp)
 - [Dev.to/JS] [Full-text Search in React with Algolia and Firestore](https://dev.to/asayerio_techblog/full-text-search-in-react-with-algolia-and-firestore-5cm4)
 - [Lifehacker] [Three Cognitive Biases We All Have &lpar;and How to Fight Them&rpar;](https://lifehacker.com/three-cognitive-biases-we-all-have-and-how-to-fight-th-1849570852)
-- [Dev.to/JS] [Bootstrap 5 Sticky](https://dev.to/mdbootstrap/bootstrap-5-sticky-1ij1)
-- [Dev.to/JS] [Bootstrap 5 Touch](https://dev.to/mdbootstrap/bootstrap-5-touch-2h2n)
 - [Lifehacker] [‘Trombone Champ’ and 13 More Hilarious Video Games for When You Need to Shut Off Your Brain](https://lifehacker.com/trombone-champ-and-13-more-hilarious-video-games-for-1849570084)
 - [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
 - [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Way to Scoop Your Drop Cookies](https://lifehacker.com/this-is-the-best-way-to-scoop-your-drop-cookies-1849568018)
 - [Lifehacker] [Why Basically Everyone Should Be Screened for Anxiety Disorder](https://lifehacker.com/why-basically-everyone-should-be-screened-for-anxiety-d-1849565908)
 - [Lifehacker] [Should You Get a Rowing Machine?](https://lifehacker.com/should-you-get-a-rowing-machine-1849565041)
-- [Lifehacker] [Use the Creaming Method Every Time You Bake](https://lifehacker.com/use-the-creaming-method-every-time-you-bake-1849564746)
-- [Lifehacker] [When to See October&#39;s &#39;Hunter Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-octobers-hunter-moon-at-peak-brilliance-1849565506)
-- [Lifehacker] [Plant These Winter Cover Crops Now for Better Soil in the Spring](https://lifehacker.com/plant-these-winter-cover-crops-now-for-better-soil-in-t-1849564143)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Creaming Method Every Time You Bake](https://lifehacker.com/use-the-creaming-method-every-time-you-bake-1849564746)<!-- TECH-POSTS:END -->
 
 ---
 
