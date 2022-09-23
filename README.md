@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [API routes with Vercel Serverless Functions and NextJS](https://dev.to/sushmeet/api-routes-with-vercel-serverless-functions-and-nextjs-5goa)
+- [Dev.to/JS] [Mobile Development with React Native](https://dev.to/sushmeet/how-to-begin-mobile-dev-with-react-native-204f)
 - [Dev.to/JS] [jQuery After And Before Example](https://dev.to/techsolutionstuff/jquery-after-and-before-example-24mb)
 - [Dev.to/JS] [The joy of validating with Joi](https://dev.to/methmi/the-joy-of-validating-with-joi-51ej)
 - [Dev.to/JS] [Tips: How to get last element of an array in javascipt](https://dev.to/devvsakib/tips-how-to-get-last-element-of-an-array-in-javascipt-3k2j)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Does &#39;This&#39; Mean in JavaScript? The Keyword Explained](https://dev.to/rembertdesigns/what-does-this-mean-in-javascript-the-keyword-explained-4paa)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
 - [Lifehacker] [How to Clean Your Electrical Outlets Without Killing Yourself](https://lifehacker.com/how-to-clean-your-electrical-outlets-without-killing-yo-1849568733)
-- [Dev.to/JS] [Object &amp; Array Methods in JavaScript](https://dev.to/rembertdesigns/object-array-methods-in-javascript-bfk)
-- [Dev.to/JS] [HTML5 required and pattern are not a security feature](https://dev.to/codepo8/html5-required-and-pattern-are-not-a-security-feature-ld8)
 - [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
 - [Lifehacker] [How to Tell If Your Floor is Hardwood or Laminate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-tell-if-your-floor-is-hardwood-or-laminate-and-1849568470)
 - [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)
