@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making Nuxt.js web apps compatible with IE11 &lpar;Only about Javascript&rpar;](https://dev.to/k5trismegistus/making-nuxtjs-web-apps-compatible-with-ie11-only-about-javascript-551)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the FDA to Blame for NyQuil Chicken?](https://lifehacker.com/is-tiktoks-nyquil-chicken-real-1849572108)
+- [Dev.to/JS] [Have you noticed that you can short-circuiting the spread operator?](https://dev.to/wakeupmh/have-you-noticed-that-you-can-short-circuiting-the-spread-operator-35p0)
+- [Dev.to/JS] [How To Choose The Right Framework For Your Next Node.js App.](https://dev.to/osam1010/how-to-choose-the-right-framework-for-your-next-nodejs-app-2c1e)
+- [Lifehacker] [Maybe You Should Try ‘Quiet Quitting’ Your Love Life](https://lifehacker.com/maybe-you-should-try-quiet-quitting-your-love-life-1849571411)
 - [Dev.to/JS] [Utilizando Object functions em JavaScript](https://dev.to/murillonahvs/utilizando-object-functions-em-javascript-20a3)
 - [Dev.to/JS] [Mac OS for the Web!](https://dev.to/an0n7os/mac-os-for-the-web-56dd)
 - [Dev.to/JS] [SEO Tips for Next.js sites](https://dev.to/asayerio_techblog/seo-tips-for-nextjs-sites-52cp)
@@ -31,13 +36,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bootstrap 5 Sticky](https://dev.to/mdbootstrap/bootstrap-5-sticky-1ij1)
 - [Dev.to/JS] [Bootstrap 5 Touch](https://dev.to/mdbootstrap/bootstrap-5-touch-2h2n)
 - [Dev.to/JS] [I&#39;ve created navbar based on Dynamic Island on iPhone 14 &lpar;iOS 16&rpar;](https://dev.to/daimessdn/ive-created-navbar-based-on-dynamic-island-on-iphone-14-ios-16-3fp0)
-- [Dev.to/JS] [Deploy React SPA to S3 using Github Actions](https://dev.to/yaldram/deploy-react-spa-to-s3-using-github-actions-206)
+- [Dev.to/JS] [Deploy React SPA to AWS S3 using Github Actions](https://dev.to/yaldram/deploy-react-spa-to-s3-using-github-actions-206)
 - [Lifehacker] [‘Trombone Champ’ and 13 More Hilarious Video Games for When You Need to Shut Off Your Brain](https://lifehacker.com/trombone-champ-and-13-more-hilarious-video-games-for-1849570084)
 - [Dev.to/JS] [Making a discord bot in JavaScript.](https://dev.to/diekoma/making-a-discord-bot-in-javascript-oa8)
-- [Dev.to/JS] [Bootstrap 5 Smooth scroll](https://dev.to/mdbootstrap/bootstrap-5-smooth-scroll-24fg)
-- [Dev.to/JS] [Bootstrap 5 Scrollbar](https://dev.to/mdbootstrap/bootstrap-5-scrollbar-7b0)
 - [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
-- [Dev.to/JS] [Use javascript and Openzeppelin to build your first NFT!](https://dev.to/anil_from_revise/use-javascript-and-openzeppelin-to-build-your-first-nft-43oe)
 - [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Sentiment Analysis in Python – A Quick Guide](https://www.thecrazyprogrammer.com/2022/09/sentiment-analysis-in-python.html)
 - [Lifehacker] [Why You Should Apply for a Student Loan Refund Before Forgiveness](https://lifehacker.com/why-you-should-apply-for-a-student-loan-refund-before-f-1849563860)
 - [Lifehacker] [I Highly Recommend Dredging Your Fried Foods in Semolina Flour](https://lifehacker.com/i-highly-recommend-dredging-your-fried-foods-in-semolin-1849560582)
-- [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
-- [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
-- [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)<!-- TECH-POSTS:END -->
 
 ---
 
