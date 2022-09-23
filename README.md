@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Palindrome Number](https://dev.to/nifilat/palindrome-number-22bc)
+- [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
+- [Dev.to/JS] [Debugging in JavaScript](https://dev.to/ericawanja/debugging-in-javascript-4ppb)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
 - [Dev.to/JS] [How to create a Widget Grid using React](https://dev.to/franciscomendes10866/how-to-create-a-widget-grid-using-react-3jji)
@@ -43,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making Nuxt.js web apps compatible with IE11 &lpar;Only about Javascript&rpar;](https://dev.to/k5trismegistus/making-nuxtjs-web-apps-compatible-with-ie11-only-about-javascript-551)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the FDA to Blame for NyQuil Chicken?](https://lifehacker.com/is-tiktoks-nyquil-chicken-real-1849572108)
 - [Dev.to/JS] [Have you noticed that you can short-circuiting the spread operator?](https://dev.to/wakeupmh/have-you-noticed-that-you-can-short-circuiting-the-spread-operator-35p0)
-- [Dev.to/JS] [How To Choose The Right Framework For Your Next Node.js App.](https://dev.to/osam1010/how-to-choose-the-right-framework-for-your-next-nodejs-app-2c1e)
 - [Lifehacker] [Maybe You Should Try ‘Quiet Quitting’ Your Love Life](https://lifehacker.com/maybe-you-should-try-quiet-quitting-your-love-life-1849571411)
-- [Dev.to/JS] [Utilizando Object functions em JavaScript](https://dev.to/murillonahvs/utilizando-object-functions-em-javascript-20a3)
 - [Lifehacker] [Three Cognitive Biases We All Have &lpar;and How to Fight Them&rpar;](https://lifehacker.com/three-cognitive-biases-we-all-have-and-how-to-fight-th-1849570852)
 - [Lifehacker] [‘Trombone Champ’ and 13 More Hilarious Video Games for When You Need to Shut Off Your Brain](https://lifehacker.com/trombone-champ-and-13-more-hilarious-video-games-for-1849570084)
 - [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)
 - [Lifehacker] [Why &#39;Passive Income&#39; Is a Myth](https://lifehacker.com/why-passive-income-is-a-myth-1849568396)
 - [Lifehacker] [Comedian Bobby Moynihan Talks About Leaving SNL and Writing a Children’s Book](https://lifehacker.com/comedian-bobby-moynihan-talks-about-leaving-snl-and-wri-1849568343)
-- [Lifehacker] [This Is the Best Way to Scoop Your Drop Cookies](https://lifehacker.com/this-is-the-best-way-to-scoop-your-drop-cookies-1849568018)
-- [Lifehacker] [Why Basically Everyone Should Be Screened for Anxiety Disorder](https://lifehacker.com/why-basically-everyone-should-be-screened-for-anxiety-d-1849565908)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Best Way to Scoop Your Drop Cookies](https://lifehacker.com/this-is-the-best-way-to-scoop-your-drop-cookies-1849568018)<!-- TECH-POSTS:END -->
 
 ---
 
