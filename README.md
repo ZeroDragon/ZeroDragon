@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Do You Need To Know About The Future Of Full Stack Software Development?](https://dev.to/xnaksdn/what-do-you-need-to-know-about-the-future-of-full-stack-software-development-3cdn)
+- [Dev.to/JS] [The simple guide to understanding Callback functions in JavaScript](https://dev.to/efkumah/the-simple-guide-to-understanding-callback-functions-in-javascript-3e3e)
 - [Dev.to/JS] [Did you encounter this error and fail to upload IPA? How to solve it?](https://dev.to/junny521222/did-you-encounter-this-error-and-fail-to-upload-ipa-how-to-solve-it-1cgp)
 - [Dev.to/JS] [How to add JavaScript to your Website.](https://dev.to/aliyuadeniji/how-to-add-javascript-to-your-website-1ke7)
 - [Dev.to/JS] [Lists and Keys in React](https://dev.to/daryllukas/lists-and-keys-in-react-115o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Test dynamic class names from CSS Modules in Cypress](https://dev.to/olaj/test-dynamic-class-names-from-css-modules-in-cypress-pml)
 - [Dev.to/JS] [How to view data on a NEAR protocol contract for Free?](https://dev.to/calvin087/how-to-view-data-on-a-near-protocol-contract-for-free-3fed)
 - [Dev.to/JS] [Three Days till the Hacktober 2022, with Illa](https://dev.to/silerncerxyz/three-days-till-the-hacktober-2022-with-illa-58g1)
-- [Dev.to/JS] [Creating custom services in medusa](https://dev.to/dailydevtips1/creating-custom-services-in-medusa-2dkh)
-- [Dev.to/JS] [API routes with Vercel Serverless Functions and NextJS](https://dev.to/sushmeet/api-routes-with-vercel-serverless-functions-and-nextjs-5goa)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
