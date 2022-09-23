@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [14 Top Visual Layout Testing Tools](https://dev.to/lambdatest/14-top-visual-layout-testing-tools-35pm)
+- [Dev.to/JS] [DAY 3 CODE CHALLENGE &lpar;PALINDROME INTEGER&rpar;](https://dev.to/chinwendufausty/day-3-code-challenge-palindrome-integer-95f)
+- [Dev.to/JS] [How To Start Testing React Apps &lpar;And Why I Recommend Cypress To Beginners&rpar;](https://dev.to/profydev/how-to-start-testing-react-apps-and-why-i-recommend-cypress-to-beginners-5el5)
 - [Dev.to/JS] [What Do You Need To Know About The Future Of Full Stack Software Development?](https://dev.to/xnaksdn/what-do-you-need-to-know-about-the-future-of-full-stack-software-development-3cdn)
 - [Dev.to/JS] [The simple guide to understanding Callback functions in JavaScript](https://dev.to/efkumah/the-simple-guide-to-understanding-callback-functions-in-javascript-3e3e)
 - [Dev.to/JS] [Did you encounter this error and fail to upload IPA? How to solve it?](https://dev.to/junny521222/did-you-encounter-this-error-and-fail-to-upload-ipa-how-to-solve-it-1cgp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rules for Decorators: Why meta-programming in Angular sucks, and what you can do about it](https://dev.to/antischematic/rules-for-decorators-why-meta-programming-in-angular-sucks-and-what-you-can-do-about-it-1261)
 - [Dev.to/JS] [Web hosting issues || GitHub Page is not showing up on website?](https://dev.to/ajaydha27250016/web-hosting-issues-github-page-is-not-showing-up-on-website-fo6)
 - [Dev.to/JS] [Top 5 Frontend Interview questions you must know! Ans with Example](https://dev.to/devvsakib/top-5-frontend-interview-questions-you-must-know-ans-with-example-5cnm)
-- [Dev.to/JS] [Test dynamic class names from CSS Modules in Cypress](https://dev.to/olaj/test-dynamic-class-names-from-css-modules-in-cypress-pml)
-- [Dev.to/JS] [How to view data on a NEAR protocol contract for Free?](https://dev.to/calvin087/how-to-view-data-on-a-near-protocol-contract-for-free-3fed)
-- [Dev.to/JS] [Three Days till the Hacktober 2022, with Illa](https://dev.to/silerncerxyz/three-days-till-the-hacktober-2022-with-illa-58g1)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
