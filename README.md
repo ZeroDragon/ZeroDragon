@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilizando Object functions em JavaScript](https://dev.to/murillonahvs/utilizando-object-functions-em-javascript-20a3)
+- [Dev.to/JS] [Mac OS for the Web!](https://dev.to/an0n7os/mac-os-for-the-web-56dd)
+- [Dev.to/JS] [SEO Tips for Next.js sites](https://dev.to/asayerio_techblog/seo-tips-for-nextjs-sites-52cp)
+- [Dev.to/JS] [Full-text Search in React with Algolia and Firestore](https://dev.to/asayerio_techblog/full-text-search-in-react-with-algolia-and-firestore-5cm4)
+- [Lifehacker] [Three Cognitive Biases We All Have &lpar;and How to Fight Them&rpar;](https://lifehacker.com/three-cognitive-biases-we-all-have-and-how-to-fight-th-1849570852)
+- [Dev.to/JS] [Bootstrap 5 Sticky](https://dev.to/mdbootstrap/bootstrap-5-sticky-1ij1)
+- [Dev.to/JS] [Bootstrap 5 Touch](https://dev.to/mdbootstrap/bootstrap-5-touch-2h2n)
+- [Dev.to/JS] [I&#39;ve created navbar based on Dynamic Island on iPhone 14 &lpar;iOS 16&rpar;](https://dev.to/daimessdn/ive-created-navbar-based-on-dynamic-island-on-iphone-14-ios-16-3fp0)
 - [Dev.to/JS] [Deploy React SPA to S3 using Github Actions](https://dev.to/yaldram/deploy-react-spa-to-s3-using-github-actions-206)
+- [Lifehacker] [‘Trombone Champ’ and 13 More Hilarious Video Games for When You Need to Shut Off Your Brain](https://lifehacker.com/trombone-champ-and-13-more-hilarious-video-games-for-1849570084)
 - [Dev.to/JS] [Making a discord bot in JavaScript.](https://dev.to/diekoma/making-a-discord-bot-in-javascript-oa8)
 - [Dev.to/JS] [Bootstrap 5 Smooth scroll](https://dev.to/mdbootstrap/bootstrap-5-smooth-scroll-24fg)
 - [Dev.to/JS] [Bootstrap 5 Scrollbar](https://dev.to/mdbootstrap/bootstrap-5-scrollbar-7b0)
 - [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
 - [Dev.to/JS] [Use javascript and Openzeppelin to build your first NFT!](https://dev.to/anil_from_revise/use-javascript-and-openzeppelin-to-build-your-first-nft-43oe)
 - [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)
-- [Dev.to/JS] [Built a Breakout game](https://dev.to/dhanushnehru/built-a-breakout-game-4073)
-- [Dev.to/JS] [tsParticles 2.3.2 Released](https://dev.to/tsparticles/tsparticles-232-released-27ep)
-- [Dev.to/JS] [14 Top Visual Layout Testing Tools](https://dev.to/lambdatest/14-top-visual-layout-testing-tools-35pm)
-- [Dev.to/JS] [DAY 3 CODE CHALLENGE &lpar;PALINDROME INTEGER&rpar;](https://dev.to/chinwendufausty/day-3-code-challenge-palindrome-integer-95f)
-- [Dev.to/JS] [Testing React Apps With Cypress: An In-Depth Guide For Beginners](https://dev.to/profydev/how-to-start-testing-react-apps-and-why-i-recommend-cypress-to-beginners-5el5)
-- [Dev.to/JS] [What Do You Need To Know About The Future Of Full Stack Software Development?](https://dev.to/xnaksdn/what-do-you-need-to-know-about-the-future-of-full-stack-software-development-3cdn)
-- [Dev.to/JS] [The simple guide to understanding Callback functions in JavaScript](https://dev.to/efkumah/the-simple-guide-to-understanding-callback-functions-in-javascript-3e3e)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Highly Recommend Dredging Your Fried Foods in Semolina Flour](https://lifehacker.com/i-highly-recommend-dredging-your-fried-foods-in-semolin-1849560582)
 - [Lifehacker] [Tile&#39;s Anti-AirTags Are a Safer Way to Track Your Items](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
 - [Lifehacker] [The Difference Between a Bonus Room and a Bedroom &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-bonus-room-and-a-bedroom-and-1849563375)
-- [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)
-- [Lifehacker] [There’s No Three-Day Grace Period at a Dealership](https://lifehacker.com/there-s-no-three-day-grace-period-at-a-dealership-1849563147)
-- [Lifehacker] [How Bad Is a Leaky Faucet, Anyway?](https://lifehacker.com/how-bad-is-a-leaky-faucet-anyway-1849563533)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Should I Try Lifting Barefoot?](https://lifehacker.com/should-i-try-lifting-barefoot-1849563896)<!-- TECH-POSTS:END -->
 
 ---
 
