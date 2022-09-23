@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web hosting issues || GitHub Page is not showing up on website?](https://dev.to/ajaydha27250016/web-hosting-issues-github-page-is-not-showing-up-on-website-fo6)
+- [Dev.to/JS] [Top 5 Frontend Interview questions you must know! Ans with Example](https://dev.to/devvsakib/top-5-frontend-interview-questions-you-must-know-ans-with-example-5cnm)
+- [Dev.to/JS] [Test dynamic class names from CSS Modules in Cypress](https://dev.to/olaj/test-dynamic-class-names-from-css-modules-in-cypress-pml)
+- [Dev.to/JS] [Best Mouse for programming.](https://dev.to/devsimc/best-mouse-for-programming-1g8a)
 - [Dev.to/JS] [How to view data on a NEAR protocol contract for Free?](https://dev.to/calvin087/how-to-view-data-on-a-near-protocol-contract-for-free-3fed)
 - [Dev.to/JS] [What are the dangers associated with them](https://dev.to/hneelz/what-are-the-dangers-associated-with-them-3j4l)
 - [Dev.to/JS] [Three Days till the Hacktober 2022, with Illa](https://dev.to/silerncerxyz/three-days-till-the-hacktober-2022-with-illa-58g1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mobile Development with React Native](https://dev.to/sushmeet/how-to-begin-mobile-dev-with-react-native-204f)
 - [Dev.to/JS] [jQuery After And Before Example](https://dev.to/techsolutionstuff/jquery-after-and-before-example-24mb)
 - [Dev.to/JS] [The joy of validating with Joi](https://dev.to/methmi/the-joy-of-validating-with-joi-51ej)
-- [Dev.to/JS] [Tips: How to get last element of an array in javascipt](https://dev.to/devvsakib/tips-how-to-get-last-element-of-an-array-in-javascipt-3k2j)
-- [Dev.to/JS] [5 Tips for Black Women Learning How to Code](https://dev.to/brinascode/5-tips-for-black-women-learning-how-to-code-3cdd)
-- [Dev.to/JS] [OSD600 Blog #4 - Lab 2](https://dev.to/rokaicker/osd600-blog-4-lab-2-1302)
-- [Dev.to/JS] [Contributing to another SSG project](https://dev.to/neilan99/contributing-to-another-ssg-project-5fif)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
