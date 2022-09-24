@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create Complexity from Simple Rules](https://dev.to/hunar4321/how-to-create-complexity-from-simple-rules-1448)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;24-09-2022&rpar; - The Infiniti Book Club](https://dev.to/mjgs/this-weeks-newsletter-is-out-24-09-2022-the-infiniti-book-club-5h01)
+- [Dev.to/JS] [JavaScript Scopes Explained](https://dev.to/shapiromhlanga/javascript-scopes-explained-m0h)
 - [Dev.to/JS] [6 Ways to Convert a String to an Array in JavaScript](https://dev.to/sanchithasr/6-ways-to-convert-a-string-to-an-array-in-javascript-1cjg)
 - [Dev.to/JS] [React Default Export Vs Named Export? #Beginners](https://dev.to/ajaybaraiya6/react-default-export-vs-named-export-beginners-o78)
 - [Dev.to/JS] [Using existing services in a custom medusa service](https://dev.to/dailydevtips1/using-existing-services-in-a-custom-medusa-service-22dn)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here&#39;s how I increased a website performance by 21%!](https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di)
 - [Dev.to/JS] [Structure of Java Program](https://dev.to/roshan_100kar/structure-of-java-program-22li)
 - [Dev.to/JS] [How To Read a local JSON File Using Fetch API](https://dev.to/roshan_100kar/how-to-read-a-local-json-file-using-fetch-api-21jh)
-- [Dev.to/JS] [How to create Quotes generator using HTML, CSS &amp; JS](https://dev.to/themujahidkhan/how-to-create-quotes-generator-using-html-css-js-9)
-- [Dev.to/JS] [Majority Sum - II](https://dev.to/zeeshanali0704/majority-sum-ii-2m0c)
-- [Dev.to/JS] [Global scope and Script scope](https://dev.to/dai_scratch/global-scope-and-script-scope-7ef)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
