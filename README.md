@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using AdSense Ad Units in Next.js](https://dev.to/aacitelli/using-adsense-ad-units-in-nextjs-2o72)
 - [Dev.to/JS] [Developed Responsive Website for my portfolio It is developed using Javascript, HTML, CSS and Bootstrap](https://dev.to/iamaslamkhan/developed-responsive-website-for-my-portfolioit-is-developed-using-javascript-html-css-and-bootstrap-bp6)
 - [Dev.to/JS] [Javascript Vs. Java: What&#39;s the Difference?](https://dev.to/iamdestinos/javascript-vs-java-whats-the-difference-4gpm)
 - [Dev.to/JS] [5 difficulties of Typescript as a beginner &amp; How to deal with it](https://dev.to/banaya53662508/5-difficulties-of-typescript-as-a-beginner-how-to-deal-with-it-4f2m)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Dev.to/JS] [I learned HTML CSS3 JavaScript ReactJs Stucked!](https://dev.to/faheem4545/i-learned-html-css3-javascript-reactjs-stucked-2g4l)
 - [Dev.to/JS] [LeetCode - Search a 2D Matrix](https://dev.to/_alkesh26/leetcode-search-a-2d-matrix-2m1m)
-- [Dev.to/JS] [Invalid project id: XXXXXXXXXXXXXXX. [1] Note: Project id must be all lowercase.](https://dev.to/khanbaba302/invalid-project-id-xxxxxxxxxxxxxxx-1-note-project-id-must-be-all-lowercase-1b0l)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
