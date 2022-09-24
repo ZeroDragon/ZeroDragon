@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Read a local JSON File Using Fetch API](https://dev.to/roshan_100kar/how-to-read-a-local-json-file-using-fetch-api-21jh)
 - [Dev.to/JS] [How to create Quotes generator using HTML, CSS &amp; JS](https://dev.to/themujahidkhan/how-to-create-quotes-generator-using-html-css-js-9)
 - [Dev.to/JS] [Majority Sum - II](https://dev.to/zeeshanali0704/majority-sum-ii-2m0c)
 - [Dev.to/JS] [Global scope and Script scope](https://dev.to/dai_scratch/global-scope-and-script-scope-7ef)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Give your blog superpowers with MDX in a Next.js project](https://dev.to/jpreagan/give-your-blog-superpowers-with-mdx-in-a-nextjs-project-334d)
 - [Dev.to/JS] [Create a delayed component](https://dev.to/astr0sl0th/create-a-delayed-component-48pp)
 - [Dev.to/JS] [The Git Commands I Use Every Day: Beginner level](https://dev.to/neildegrassetyson/the-git-commands-i-use-every-day-beginner-level-2n23)
-- [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 3&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-3-5e)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
