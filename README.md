@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 difficulties of Typescript as a beginner &amp; How to deal with it](https://dev.to/banaya53662508/5-difficulties-of-typescript-as-a-beginner-how-to-deal-with-it-4f2m)
 - [Dev.to/JS] [Solving H-10 Error for Heroku Deployment](https://dev.to/josettetgarcia/solving-h-10-error-for-heroku-deployment-3pgi)
 - [Dev.to/JS] [Use of super&lpar;&rpar; in React](https://dev.to/moazamdev/use-of-super-in-react-3a8g)
 - [Dev.to/JS] [I made a scroll animation using Recoil and GSAP&#39;s ScrollTrigger - with tailwindcss](https://dev.to/higashikota/i-made-a-scroll-animation-using-recoil-and-gsaps-scrolltrigger-with-tailwindcss-4jf1)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple And Easy Way to Deploy React App On GitHub Pages](https://dev.to/vibhamishra07/simple-and-easy-way-to-deploy-react-app-on-github-pages-5e7a)
 - [Dev.to/JS] [Killer cross platform pdf reader](https://dev.to/sarcxd/killer-pdf-cross-platform-reader-4pgp)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
-- [Dev.to/JS] [Symfony Station Communiqué — 23 September 2022. A look at Symfony, PHP, and Cybersecurity news!](https://dev.to/reubenwalker64/symfony-station-communique-23-september-2022-a-look-at-symfony-php-and-cybersecurity-news-bn5)
 - [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
