@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Invalid project id: XXXXXXXXXXXXXXX. [1] Note: Project id must be all lowercase.](https://dev.to/khanbaba302/invalid-project-id-xxxxxxxxxxxxxxx-1-note-project-id-must-be-all-lowercase-1b0l)
 - [Dev.to/JS] [Simple And Easy Way to Deploy React App On GitHub Pages](https://dev.to/vibhamishra07/simple-and-easy-way-to-deploy-react-app-on-github-pages-5e7a)
 - [Dev.to/JS] [Killer cross platform pdf reader](https://dev.to/sarcxd/killer-pdf-cross-platform-reader-4pgp)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
 - [Dev.to/JS] [control &quot;this&quot;. apply&lpar;&rpar;, call&lpar;&rpar;](https://dev.to/kaziusan/control-this-apply-call-1724)
 - [Dev.to/JS] [React &lpar;JavaScript library&rpar;](https://dev.to/rakeshkr2/react-javascript-library-4659)
-- [Dev.to/JS] [JSX in React.js](https://dev.to/mursalfk/jsx-in-reactjs-2pl9)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
