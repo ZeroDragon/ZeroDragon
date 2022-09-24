@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple And Easy Way to Deploy React App On GitHub Pages](https://dev.to/vibhamishra07/simple-and-easy-way-to-deploy-react-app-on-github-pages-5e7a)
+- [Dev.to/JS] [Killer cross platform pdf reader](https://dev.to/sarcxd/killer-pdf-cross-platform-reader-4pgp)
+- [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Dev.to/JS] [Symfony Station Communiqué — 23 September 2022. A look at Symfony, PHP, and Cybersecurity news!](https://dev.to/reubenwalker64/symfony-station-communique-23-september-2022-a-look-at-symfony-php-and-cybersecurity-news-bn5)
 - [Dev.to/JS] [ES Modules &amp; Import Maps: Back to the Future](https://dev.to/valeriavg/es-modules-import-maps-back-to-the-future-56o)
 - [Dev.to/JS] [Using React to create a Budget Manager](https://dev.to/gbadeboife/using-react-to-create-a-budget-manager-59jh)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [control &quot;this&quot;. apply&lpar;&rpar;, call&lpar;&rpar;](https://dev.to/kaziusan/control-this-apply-call-1724)
 - [Dev.to/JS] [React &lpar;JavaScript library&rpar;](https://dev.to/rakeshkr2/react-javascript-library-4659)
 - [Dev.to/JS] [JSX in React.js](https://dev.to/mursalfk/jsx-in-reactjs-2pl9)
-- [Dev.to/JS] [React Router — Redirect to an External URL](https://dev.to/gaelgthomas/react-router-redirect-to-an-external-url-173)
-- [Dev.to/JS] [How to bold matching characters in text JavaScript.](https://dev.to/raphaelchaula/how-to-bold-matching-characters-in-text-javascript-1gkg)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)
 - [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)
 - [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)
-- [Lifehacker] [Why &#39;Passive Income&#39; Is a Myth](https://lifehacker.com/why-passive-income-is-a-myth-1849568396)
-- [Lifehacker] [Comedian Bobby Moynihan Talks About Leaving SNL and Writing a Children’s Book](https://lifehacker.com/comedian-bobby-moynihan-talks-about-leaving-snl-and-wri-1849568343)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why &#39;Passive Income&#39; Is a Myth](https://lifehacker.com/why-passive-income-is-a-myth-1849568396)<!-- TECH-POSTS:END -->
 
 ---
 
