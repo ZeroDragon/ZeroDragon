@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Give your blog superpowers with MDX in a Next.js project](https://dev.to/jpreagan/give-your-blog-superpowers-with-mdx-in-a-nextjs-project-334d)
+- [Dev.to/JS] [Create a delayed component](https://dev.to/astr0sl0th/create-a-delayed-component-48pp)
 - [Dev.to/JS] [The Git Commands I Use Every Day: Beginner level](https://dev.to/neildegrassetyson/the-git-commands-i-use-every-day-beginner-level-2n23)
 - [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 3&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-3-5e)
 - [Dev.to/JS] [Using recursion to count from startNum to endNum &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/using-recursion-to-count-from-startnum-to-endnum-freecodecamp-notes-1jnc)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Palindrome](https://dev.to/michael2509/palindrome-57jm)
 - [Dev.to/JS] [Front End Web Development](https://dev.to/omerko96/front-end-web-development-55p3)
 - [Lifehacker] [Maybe It&#39;s Time to Get an Air Purifier](https://lifehacker.com/maybe-its-time-to-get-an-air-purifier-1849574152)
-- [Dev.to/JS] [Ordering arrays in Javascript](https://dev.to/cavein254/ordering-arrays-in-javascript-31dm)
 - [Lifehacker] [What&#39;s the Real Difference Between Passive and Residual Income?](https://lifehacker.com/whats-the-real-difference-between-passive-and-residual-1849574141)
-- [Dev.to/JS] [Experience of Project Contribution](https://dev.to/cychu42/experience-of-project-contribution-an9)
 - [Lifehacker] [All the Ways You Could Better Organize Your Groceries at Checkout](https://lifehacker.com/all-the-ways-you-could-better-organize-your-groceries-a-1849573177)
 - [Lifehacker] [How to Streamline Your iPhone 14 Pro’s Always-On Display](https://lifehacker.com/how-to-streamline-your-iphone-14-pro-s-always-on-displa-1849573196)
 - [Lifehacker] [What&#39;s New on Amazon Prime in October 2022](https://lifehacker.com/whats-new-on-amazon-prime-in-october-2022-1849574079)
