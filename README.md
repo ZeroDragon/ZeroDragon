@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Symfony Station Communiqué — 23 September 2022. A look at Symfony, PHP, and Cybersecurity news!](https://dev.to/reubenwalker64/symfony-station-communique-23-september-2022-a-look-at-symfony-php-and-cybersecurity-news-bn5)
+- [Dev.to/JS] [ES Modules &amp; Import Maps: Back to the Future](https://dev.to/valeriavg/es-modules-import-maps-back-to-the-future-56o)
+- [Dev.to/JS] [Using React to create a Budget Manager](https://dev.to/gbadeboife/using-react-to-create-a-budget-manager-59jh)
 - [Dev.to/JS] [What the hell is this Execution Context?!](https://dev.to/tanishqkrk/what-the-hell-is-this-execution-context-4bcc)
 - [Dev.to/JS] [Continue Using .env Files As Usual.](https://dev.to/wiseai/continue-using-env-files-as-usual-2am5)
 - [Dev.to/JS] [Day 50: Reflecting at the Halfway Point](https://dev.to/ananfito/day-50-reflecting-at-the-halfway-point-30d7)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSX in React.js](https://dev.to/mursalfk/jsx-in-reactjs-2pl9)
 - [Dev.to/JS] [React Router — Redirect to an External URL](https://dev.to/gaelgthomas/react-router-redirect-to-an-external-url-173)
 - [Dev.to/JS] [How to bold matching characters in text JavaScript.](https://dev.to/raphaelchaula/how-to-bold-matching-characters-in-text-javascript-1gkg)
-- [Dev.to/JS] [JavaScript Local Storage Explained!](https://dev.to/dboatengx/javascript-local-storage-explained-1di6)
-- [Dev.to/JS] [Number of Students Unable to Eat Lunch](https://dev.to/zeeshanali0704/number-of-students-unable-to-eat-lunch-3pdg)
-- [Dev.to/JS] [El futuro de la programación: Programar menos.](https://dev.to/iagolast/el-futuro-de-la-programacion-programar-menos-14o4)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
