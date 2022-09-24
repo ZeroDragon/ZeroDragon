@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Local Storage Explained!](https://dev.to/dboatengx/javascript-local-storage-explained-1di6)
+- [Dev.to/JS] [Number of Students Unable to Eat Lunch](https://dev.to/zeeshanali0704/number-of-students-unable-to-eat-lunch-3pdg)
+- [Dev.to/JS] [Best Exam Dumps Websites Free Updates](https://dev.to/veernavya/best-exam-dumps-websites-free-updates-29o9)
+- [Dev.to/JS] [El futuro de la programación: Programar menos.](https://dev.to/iagolast/el-futuro-de-la-programacion-programar-menos-14o4)
 - [Dev.to/JS] [How to Create Complexity from Simple Rules](https://dev.to/hunar4321/how-to-create-complexity-from-simple-rules-1448)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;24-09-2022&rpar; - The Infiniti Book Club](https://dev.to/mjgs/this-weeks-newsletter-is-out-24-09-2022-the-infiniti-book-club-5h01)
 - [Dev.to/JS] [JavaScript Scopes Explained](https://dev.to/shapiromhlanga/javascript-scopes-explained-m0h)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using existing services in a custom medusa service](https://dev.to/dailydevtips1/using-existing-services-in-a-custom-medusa-service-22dn)
 - [Dev.to/JS] [How React serves?](https://dev.to/ajaybaraiya6/how-react-serves-bb0)
 - [Dev.to/JS] [Situs Slot Gacor Resmi di Indonesia](https://dev.to/goks_ryu/situs-slot-gacor-resmi-di-indonesia-1em8)
-- [Dev.to/JS] [Software Engineering Projects](https://dev.to/arunprakash142/software-engineering-projects-3goo)
-- [Dev.to/JS] [Here&#39;s how I increased a website performance by 21%!](https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di)
-- [Dev.to/JS] [Structure of Java Program](https://dev.to/roshan_100kar/structure-of-java-program-22li)
-- [Dev.to/JS] [How To Read a local JSON File Using Fetch API](https://dev.to/roshan_100kar/how-to-read-a-local-json-file-using-fetch-api-21jh)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
