@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Router — Redirect to an External URL](https://dev.to/gaelgthomas/react-router-redirect-to-an-external-url-173)
+- [Dev.to/JS] [How to bold matching characters in text JavaScript.](https://dev.to/raphaelchaula/how-to-bold-matching-characters-in-text-javascript-1gkg)
 - [Dev.to/JS] [JavaScript Local Storage Explained!](https://dev.to/dboatengx/javascript-local-storage-explained-1di6)
 - [Dev.to/JS] [Number of Students Unable to Eat Lunch](https://dev.to/zeeshanali0704/number-of-students-unable-to-eat-lunch-3pdg)
 - [Dev.to/JS] [Best Exam Dumps Websites Free Updates](https://dev.to/veernavya/best-exam-dumps-websites-free-updates-29o9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 Ways to Convert a String to an Array in JavaScript](https://dev.to/sanchithasr/6-ways-to-convert-a-string-to-an-array-in-javascript-1cjg)
 - [Dev.to/JS] [React Default Export Vs Named Export? #Beginners](https://dev.to/ajaybaraiya6/react-default-export-vs-named-export-beginners-o78)
 - [Dev.to/JS] [Using existing services in a custom medusa service](https://dev.to/dailydevtips1/using-existing-services-in-a-custom-medusa-service-22dn)
-- [Dev.to/JS] [How React serves?](https://dev.to/ajaybaraiya6/how-react-serves-bb0)
-- [Dev.to/JS] [Situs Slot Gacor Resmi di Indonesia](https://dev.to/goks_ryu/situs-slot-gacor-resmi-di-indonesia-1em8)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
