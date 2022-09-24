@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
+- [Dev.to/JS] [I learned HTML CSS3 JavaScript ReactJs Stucked!](https://dev.to/faheem4545/i-learned-html-css3-javascript-reactjs-stucked-2g4l)
+- [Dev.to/JS] [LeetCode - Search a 2D Matrix](https://dev.to/_alkesh26/leetcode-search-a-2d-matrix-2m1m)
 - [Dev.to/JS] [Invalid project id: XXXXXXXXXXXXXXX. [1] Note: Project id must be all lowercase.](https://dev.to/khanbaba302/invalid-project-id-xxxxxxxxxxxxxxx-1-note-project-id-must-be-all-lowercase-1b0l)
 - [Dev.to/JS] [Simple And Easy Way to Deploy React App On GitHub Pages](https://dev.to/vibhamishra07/simple-and-easy-way-to-deploy-react-app-on-github-pages-5e7a)
 - [Dev.to/JS] [Killer cross platform pdf reader](https://dev.to/sarcxd/killer-pdf-cross-platform-reader-4pgp)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 50: Reflecting at the Halfway Point](https://dev.to/ananfito/day-50-reflecting-at-the-halfway-point-30d7)
 - [Dev.to/JS] [Tutorial: Nested For Loops in JavaScript](https://dev.to/codecupdev/tutorial-nested-for-loops-in-javascript-9na)
 - [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
-- [Dev.to/JS] [control &quot;this&quot;. apply&lpar;&rpar;, call&lpar;&rpar;](https://dev.to/kaziusan/control-this-apply-call-1724)
-- [Dev.to/JS] [React &lpar;JavaScript library&rpar;](https://dev.to/rakeshkr2/react-javascript-library-4659)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Your Floor is Hardwood or Laminate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-tell-if-your-floor-is-hardwood-or-laminate-and-1849568470)
 - [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)
 - [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)
-- [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)
-- [Lifehacker] [Why &#39;Passive Income&#39; Is a Myth](https://lifehacker.com/why-passive-income-is-a-myth-1849568396)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)<!-- TECH-POSTS:END -->
 
 ---
 
