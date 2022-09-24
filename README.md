@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How React serves?](https://dev.to/ajaybaraiya6/how-react-serves-bb0)
+- [Dev.to/JS] [Situs Slot Gacor Resmi di Indonesia](https://dev.to/goks_ryu/situs-slot-gacor-resmi-di-indonesia-1em8)
 - [Dev.to/JS] [Software Engineering Projects](https://dev.to/arunprakash142/software-engineering-projects-3goo)
 - [Dev.to/JS] [Here&#39;s how I increased a website performance by 21%!](https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di)
 - [Dev.to/JS] [Structure of Java Program](https://dev.to/roshan_100kar/structure-of-java-program-22li)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First GitHub pull req + Lab2](https://dev.to/aparris21/first-github-pull-req-lab2-1kp9)
 - [Dev.to/JS] [Majority Element -I](https://dev.to/zeeshanali0704/majority-element-i-1ibn)
 - [Dev.to/JS] [First github pull req](https://dev.to/aparris21/first-github-pull-req-2afp)
-- [Dev.to/JS] [Number of Island - I](https://dev.to/zeeshanali0704/number-of-island-i-76c)
-- [Dev.to/JS] [As Junior, I am really curious: How&#39;s to make commits on programming languages core?](https://dev.to/marcosgofavaretto/as-junior-i-am-really-curious-hows-to-make-commits-on-programming-languages-core-c6f)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
