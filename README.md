@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving H-10 Error for Heroku Deployment](https://dev.to/josettetgarcia/solving-h-10-error-for-heroku-deployment-3pgi)
+- [Dev.to/JS] [Use of super&lpar;&rpar; in React](https://dev.to/moazamdev/use-of-super-in-react-3a8g)
+- [Dev.to/JS] [I made a scroll animation using Recoil and GSAP&#39;s ScrollTrigger - with tailwindcss](https://dev.to/higashikota/i-made-a-scroll-animation-using-recoil-and-gsaps-scrolltrigger-with-tailwindcss-4jf1)
+- [Dev.to/JS] [JavaScript Closures](https://dev.to/sanket4120/javascript-closures-2pkp)
+- [Dev.to/JS] [Call Stack in JavaScript](https://dev.to/sanket4120/call-stack-in-javascript-1dah)
+- [Dev.to/JS] [Web Scraping Google With Node JS](https://dev.to/darshan0_1/web-scraping-google-with-node-js-4f5k)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Dev.to/JS] [I learned HTML CSS3 JavaScript ReactJs Stucked!](https://dev.to/faheem4545/i-learned-html-css3-javascript-reactjs-stucked-2g4l)
 - [Dev.to/JS] [LeetCode - Search a 2D Matrix](https://dev.to/_alkesh26/leetcode-search-a-2d-matrix-2m1m)
@@ -31,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Killer cross platform pdf reader](https://dev.to/sarcxd/killer-pdf-cross-platform-reader-4pgp)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Dev.to/JS] [Symfony Station Communiqué — 23 September 2022. A look at Symfony, PHP, and Cybersecurity news!](https://dev.to/reubenwalker64/symfony-station-communique-23-september-2022-a-look-at-symfony-php-and-cybersecurity-news-bn5)
-- [Dev.to/JS] [ES Modules &amp; Import Maps: Back to the Future](https://dev.to/valeriavg/es-modules-import-maps-back-to-the-future-56o)
-- [Dev.to/JS] [Using React to create a Budget Manager](https://dev.to/gbadeboife/using-react-to-create-a-budget-manager-59jh)
-- [Dev.to/JS] [What the hell is this Execution Context?!](https://dev.to/tanishqkrk/what-the-hell-is-this-execution-context-4bcc)
-- [Dev.to/JS] [Continue Using .env Files As Usual.](https://dev.to/wiseai/continue-using-env-files-as-usual-2am5)
-- [Dev.to/JS] [Day 50: Reflecting at the Halfway Point](https://dev.to/ananfito/day-50-reflecting-at-the-halfway-point-30d7)
-- [Dev.to/JS] [Tutorial: Nested For Loops in JavaScript](https://dev.to/codecupdev/tutorial-nested-for-loops-in-javascript-9na)
 - [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
