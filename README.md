@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 Ways to Convert a String to an Array in JavaScript](https://dev.to/sanchithasr/6-ways-to-convert-a-string-to-an-array-in-javascript-1cjg)
+- [Dev.to/JS] [React Default Export Vs Named Export? #Beginners](https://dev.to/ajaybaraiya6/react-default-export-vs-named-export-beginners-o78)
+- [Dev.to/JS] [Using existing services in a custom medusa service](https://dev.to/dailydevtips1/using-existing-services-in-a-custom-medusa-service-22dn)
 - [Dev.to/JS] [How React serves?](https://dev.to/ajaybaraiya6/how-react-serves-bb0)
 - [Dev.to/JS] [Situs Slot Gacor Resmi di Indonesia](https://dev.to/goks_ryu/situs-slot-gacor-resmi-di-indonesia-1em8)
 - [Dev.to/JS] [Software Engineering Projects](https://dev.to/arunprakash142/software-engineering-projects-3goo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create Quotes generator using HTML, CSS &amp; JS](https://dev.to/themujahidkhan/how-to-create-quotes-generator-using-html-css-js-9)
 - [Dev.to/JS] [Majority Sum - II](https://dev.to/zeeshanali0704/majority-sum-ii-2m0c)
 - [Dev.to/JS] [Global scope and Script scope](https://dev.to/dai_scratch/global-scope-and-script-scope-7ef)
-- [Dev.to/JS] [First GitHub pull req + Lab2](https://dev.to/aparris21/first-github-pull-req-lab2-1kp9)
-- [Dev.to/JS] [Majority Element -I](https://dev.to/zeeshanali0704/majority-element-i-1ibn)
-- [Dev.to/JS] [First github pull req](https://dev.to/aparris21/first-github-pull-req-2afp)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
