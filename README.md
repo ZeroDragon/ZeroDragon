@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Faceseo.vn mua traffic user thật, traffic website SEO TOP hiệu quả](https://dev.to/muatrafficuserfaceseo/faceseovn-mua-traffic-user-that-traffic-website-seo-top-hieu-qua-1il5)
+- [Dev.to/JS] [I have to admit I&#39;ll do what ever it takes to achieve #mastery would you?](https://dev.to/idnk2203/i-have-to-admit-ill-do-what-ever-it-takes-to-achieve-mastery-would-you-1b57)
+- [Dev.to/JS] [Extending Contentful Rich Text editor to render Youtube embed videos](https://dev.to/miguelcrespo/extending-contentful-rich-text-editor-to-render-youtube-embed-videos-nbj)
 - [Dev.to/JS] [Using AdSense Ad Units in Next.js](https://dev.to/aacitelli/using-adsense-ad-units-in-nextjs-2o72)
 - [Dev.to/JS] [Developed Responsive Website for my portfolio It is developed using Javascript, HTML, CSS and Bootstrap](https://dev.to/iamaslamkhan/developed-responsive-website-for-my-portfolioit-is-developed-using-javascript-html-css-and-bootstrap-bp6)
 - [Dev.to/JS] [Javascript Vs. Java: What&#39;s the Difference?](https://dev.to/iamdestinos/javascript-vs-java-whats-the-difference-4gpm)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made a scroll animation using Recoil and GSAP&#39;s ScrollTrigger - with tailwindcss](https://dev.to/higashikota/i-made-a-scroll-animation-using-recoil-and-gsaps-scrolltrigger-with-tailwindcss-4jf1)
 - [Dev.to/JS] [JavaScript Closures](https://dev.to/sanket4120/javascript-closures-2pkp)
 - [Dev.to/JS] [Call Stack in JavaScript](https://dev.to/sanket4120/call-stack-in-javascript-1dah)
-- [Dev.to/JS] [Web Scraping Google With Node JS - A Complete Guide](https://dev.to/darshan0_1/web-scraping-google-with-node-js-4f5k)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
-- [Dev.to/JS] [I learned HTML CSS3 JavaScript ReactJs Stucked!](https://dev.to/faheem4545/i-learned-html-css3-javascript-reactjs-stucked-2g4l)
-- [Dev.to/JS] [LeetCode - Search a 2D Matrix](https://dev.to/_alkesh26/leetcode-search-a-2d-matrix-2m1m)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
