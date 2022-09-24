@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What the hell is this Execution Context?!](https://dev.to/tanishqkrk/what-the-hell-is-this-execution-context-4bcc)
+- [Dev.to/JS] [Continue Using .env Files As Usual.](https://dev.to/wiseai/continue-using-env-files-as-usual-2am5)
+- [Dev.to/JS] [Day 50: Reflecting at the Halfway Point](https://dev.to/ananfito/day-50-reflecting-at-the-halfway-point-30d7)
+- [Dev.to/JS] [Tutorial: Nested For Loops in JavaScript](https://dev.to/codecupdev/tutorial-nested-for-loops-in-javascript-9na)
 - [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
 - [Dev.to/JS] [control &quot;this&quot;. apply&lpar;&rpar;, call&lpar;&rpar;](https://dev.to/kaziusan/control-this-apply-call-1724)
 - [Dev.to/JS] [React &lpar;JavaScript library&rpar;](https://dev.to/rakeshkr2/react-javascript-library-4659)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Local Storage Explained!](https://dev.to/dboatengx/javascript-local-storage-explained-1di6)
 - [Dev.to/JS] [Number of Students Unable to Eat Lunch](https://dev.to/zeeshanali0704/number-of-students-unable-to-eat-lunch-3pdg)
 - [Dev.to/JS] [El futuro de la programación: Programar menos.](https://dev.to/iagolast/el-futuro-de-la-programacion-programar-menos-14o4)
-- [Dev.to/JS] [How to Create Complexity from Simple Rules](https://dev.to/hunar4321/how-to-create-complexity-from-simple-rules-1448)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;24-09-2022&rpar; - The Infiniti Book Club](https://dev.to/mjgs/this-weeks-newsletter-is-out-24-09-2022-the-infiniti-book-club-5h01)
-- [Dev.to/JS] [JavaScript Scopes Explained](https://dev.to/shapiromhlanga/javascript-scopes-explained-m0h)
-- [Dev.to/JS] [6 Ways to Convert a String to an Array in JavaScript](https://dev.to/sanchithasr/6-ways-to-convert-a-string-to-an-array-in-javascript-1cjg)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
