@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
+- [Dev.to/JS] [control &quot;this&quot;. apply&lpar;&rpar;, call&lpar;&rpar;](https://dev.to/kaziusan/control-this-apply-call-1724)
+- [Dev.to/JS] [React &lpar;JavaScript library&rpar;](https://dev.to/rakeshkr2/react-javascript-library-4659)
+- [Dev.to/JS] [JSX in React.js](https://dev.to/mursalfk/jsx-in-reactjs-2pl9)
 - [Dev.to/JS] [React Router — Redirect to an External URL](https://dev.to/gaelgthomas/react-router-redirect-to-an-external-url-173)
 - [Dev.to/JS] [How to bold matching characters in text JavaScript.](https://dev.to/raphaelchaula/how-to-bold-matching-characters-in-text-javascript-1gkg)
 - [Dev.to/JS] [JavaScript Local Storage Explained!](https://dev.to/dboatengx/javascript-local-storage-explained-1di6)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;24-09-2022&rpar; - The Infiniti Book Club](https://dev.to/mjgs/this-weeks-newsletter-is-out-24-09-2022-the-infiniti-book-club-5h01)
 - [Dev.to/JS] [JavaScript Scopes Explained](https://dev.to/shapiromhlanga/javascript-scopes-explained-m0h)
 - [Dev.to/JS] [6 Ways to Convert a String to an Array in JavaScript](https://dev.to/sanchithasr/6-ways-to-convert-a-string-to-an-array-in-javascript-1cjg)
-- [Dev.to/JS] [React Default Export Vs Named Export? #Beginners](https://dev.to/ajaybaraiya6/react-default-export-vs-named-export-beginners-o78)
-- [Dev.to/JS] [Using existing services in a custom medusa service](https://dev.to/dailydevtips1/using-existing-services-in-a-custom-medusa-service-22dn)
-- [Dev.to/JS] [How React serves?](https://dev.to/ajaybaraiya6/how-react-serves-bb0)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)
 - [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)
 - [Lifehacker] [Why &#39;Passive Income&#39; Is a Myth](https://lifehacker.com/why-passive-income-is-a-myth-1849568396)
-- [Lifehacker] [Comedian Bobby Moynihan Talks About Leaving SNL and Writing a Children’s Book](https://lifehacker.com/comedian-bobby-moynihan-talks-about-leaving-snl-and-wri-1849568343)
-- [Lifehacker] [This Is the Best Way to Scoop Your Drop Cookies](https://lifehacker.com/this-is-the-best-way-to-scoop-your-drop-cookies-1849568018)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Comedian Bobby Moynihan Talks About Leaving SNL and Writing a Children’s Book](https://lifehacker.com/comedian-bobby-moynihan-talks-about-leaving-snl-and-wri-1849568343)<!-- TECH-POSTS:END -->
 
 ---
 
