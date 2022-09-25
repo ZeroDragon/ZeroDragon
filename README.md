@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 5&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-5-4an3)
+- [Dev.to/JS] [Sort Character by frequency](https://dev.to/michael2509/sort-character-by-frequency-4pem)
 - [Dev.to/JS] [Working On My First Pull Request](https://dev.to/tdaw/working-on-my-first-pull-request-338f)
 - [Dev.to/JS] [Day 5 I4G 10 Days Code Challenge](https://dev.to/abubakarismail/day-5-i4g-10-days-code-challenge-2c62)
 - [Dev.to/JS] [Sort Characters By Frequency](https://dev.to/nifilat/sort-characters-by-frequency-1db3)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Compare Version Numbers](https://dev.to/_alkesh26/leetcode-compare-version-numbers-51gp)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Dev.to/JS] [Confused about Choosing Paths](https://dev.to/sifuewu/confused-about-choosing-paths-4hk1)
-- [Dev.to/JS] [Project Euler #4: Largest palindrome product](https://dev.to/rationalkunal/project-euler-4-largest-palindrome-product-5bmj)
-- [Dev.to/JS] [It&#39;s DanceTime!](https://dev.to/benank/its-dancetime-40ff)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
