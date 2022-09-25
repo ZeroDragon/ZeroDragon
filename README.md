@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [translate.i18next.com](https://dev.to/adrai/translatei18nextcom-32gk)
+- [Dev.to/JS] [Form to Email API - Create Working Site Forms Without Server](https://dev.to/form/form-to-email-3og2)
+- [Dev.to/JS] [Software Testing Weekly](https://dev.to/kailashpathak7/software-testing-weekly-3j0o)
+- [Dev.to/JS] [Prototype Design Pattern in JavaScript](https://dev.to/shubhamdutta2000/prototype-pattern-in-javascript-25pl)
 - [Dev.to/JS] [Truthy and Falsy Values in JavaScript](https://dev.to/ameencoding/truthy-and-falsy-values-in-javascript-1cae)
 - [Dev.to/JS] [Execute Cypress Test Cases in WebKit&lpar;Safari&rpar;](https://dev.to/kailashpathak7/execute-cypress-test-cases-in-webkitsafari-2i63)
 - [Dev.to/JS] [Subarray Sum Equals K](https://dev.to/zeeshanali0704/subarray-sum-equals-k-2i4g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How i can edit cell of v-data-table on double mouse click. &lpar;Inline update&rpar; by using vue + vuetify ??](https://dev.to/princesinghpnjr/how-i-can-edit-cell-of-v-data-table-on-double-mouse-click-inline-update-by-using-vue-vuetify--148p)
 - [Dev.to/JS] [Maximum Average Subarray I](https://dev.to/zeeshanali0704/maximum-average-subarray-i-35lo)
 - [Dev.to/JS] [Introduction to AI &amp; ML](https://dev.to/renhiyama/introduction-to-ai-ml-1jdb)
-- [Dev.to/JS] [The End of Localhost](https://dev.to/umeshtharukaofficial/the-end-of-localhost-5gg7)
-- [Dev.to/JS] [React - The hidden function for keys](https://dev.to/noriller/react-the-hidden-function-for-keys-29a8)
-- [Dev.to/JS] [Faceseo.vn mua traffic user thật, traffic website SEO TOP hiệu quả](https://dev.to/muatrafficuserfaceseo/faceseovn-mua-traffic-user-that-traffic-website-seo-top-hieu-qua-1il5)
-- [Dev.to/JS] [I have to admit I&#39;ll do what ever it takes to achieve #mastery would you?](https://dev.to/idnk2203/i-have-to-admit-ill-do-what-ever-it-takes-to-achieve-mastery-would-you-1b57)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
