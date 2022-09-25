@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning Python and Defined MERN App Requirements](https://dev.to/idnk2203/learning-python-and-defined-mern-app-requirements-4l5k)
+- [Dev.to/JS] [Introduction to Jotai. Derived atoms. Controlling UI](https://dev.to/fricze/introduction-to-jotai-derived-atoms-controlling-ui-4c0d)
+- [Dev.to/JS] [Create a real docker development enviroment for your NodeJS app](https://dev.to/ricardogomez94/create-a-real-docker-development-enviroment-for-your-nodejs-app-44ah)
+- [Dev.to/JS] [LeetCode - Compare Version Numbers](https://dev.to/_alkesh26/leetcode-compare-version-numbers-51gp)
+- [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Dev.to/JS] [Confused about Choosing Paths](https://dev.to/sifuewu/confused-about-choosing-paths-4hk1)
 - [Dev.to/JS] [Project Euler #4: Largest palindrome product](https://dev.to/rationalkunal/project-euler-4-largest-palindrome-product-5bmj)
 - [Dev.to/JS] [It&#39;s DanceTime!](https://dev.to/benank/its-dancetime-40ff)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Dev.to/JS] [Eyes Watching Mouse](https://dev.to/jagadeeshkj/eyes-watching-mouse-269c)
 - [Dev.to/JS] [dopollit: create new polls, share, get responses](https://dev.to/lmas3009/dopollit-create-new-polls-share-get-responses-2jji)
-- [Dev.to/JS] [Most commonly used library with react](https://dev.to/shacodes/most-commonly-used-library-with-react-5akm)
-- [Dev.to/JS] [Payments Made Easy](https://dev.to/shacodes/payments-made-easy-11n3)
-- [Dev.to/JS] [After Login redirect Back to post where you are reading without login](https://dev.to/shacodes/after-login-back-to-post-where-you-are-reading-without-login-1ln2)
-- [Dev.to/JS] [Generative Gradient Blobs Free Download in CSS and JavaScript](https://dev.to/zubairkhokhar/generative-gradient-blobs-free-download-in-css-and-javascript-31a8)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
 - [Lifehacker] [How to Clean Your Electrical Outlets Without Killing Yourself](https://lifehacker.com/how-to-clean-your-electrical-outlets-without-killing-yo-1849568733)
 - [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
-- [Lifehacker] [How to Tell If Your Floor is Hardwood or Laminate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-tell-if-your-floor-is-hardwood-or-laminate-and-1849568470)
-- [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If Your Floor is Hardwood or Laminate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-tell-if-your-floor-is-hardwood-or-laminate-and-1849568470)<!-- TECH-POSTS:END -->
 
 ---
 
