@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Confused about Choosing Paths](https://dev.to/sifuewu/confused-about-choosing-paths-4hk1)
+- [Dev.to/JS] [Project Euler #4: Largest palindrome product](https://dev.to/rationalkunal/project-euler-4-largest-palindrome-product-5bmj)
 - [Dev.to/JS] [It&#39;s DanceTime!](https://dev.to/benank/its-dancetime-40ff)
 - [Dev.to/JS] [Generating QR Codes using React](https://dev.to/danielonugha0/generating-qr-codes-using-react-51ik)
 - [Dev.to/JS] [Day 0 - JavaScript - Statements, Expressions](https://dev.to/geomukkath/day-0-javascript-statements-expressions-486i)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Payments Made Easy](https://dev.to/shacodes/payments-made-easy-11n3)
 - [Dev.to/JS] [After Login redirect Back to post where you are reading without login](https://dev.to/shacodes/after-login-back-to-post-where-you-are-reading-without-login-1ln2)
 - [Dev.to/JS] [Generative Gradient Blobs Free Download in CSS and JavaScript](https://dev.to/zubairkhokhar/generative-gradient-blobs-free-download-in-css-and-javascript-31a8)
-- [Dev.to/JS] [Prerendering in Angular — single multilingual build](https://dev.to/ayyash/prerendering-in-angular-single-multilingual-build-11c8)
-- [Dev.to/JS] [Implementing Authentication In Next.js Using Next Auth](https://dev.to/raghavmri/implementing-authentication-in-nextjs-using-next-auth-1g97)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
