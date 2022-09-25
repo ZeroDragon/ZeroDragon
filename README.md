@@ -23,10 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Eyes Watching Mouse](https://dev.to/jagadeeshkj/eyes-watching-mouse-269c)
 - [Dev.to/JS] [dopollit: create new polls, share, get responses](https://dev.to/lmas3009/dopollit-create-new-polls-share-get-responses-2jji)
 - [Dev.to/JS] [Most commonly used library with react](https://dev.to/shacodes/most-commonly-used-library-with-react-5akm)
 - [Dev.to/JS] [Payments Made Easy](https://dev.to/shacodes/payments-made-easy-11n3)
-- [Dev.to/JS] [After Login Back to post where you are reading without login](https://dev.to/shacodes/after-login-back-to-post-where-you-are-reading-without-login-1ln2)
+- [Dev.to/JS] [After Login redirect Back to post where you are reading without login](https://dev.to/shacodes/after-login-back-to-post-where-you-are-reading-without-login-1ln2)
 - [Dev.to/JS] [Generative Gradient Blobs Free Download in CSS and JavaScript](https://dev.to/zubairkhokhar/generative-gradient-blobs-free-download-in-css-and-javascript-31a8)
 - [Dev.to/JS] [Prerendering in Angular — single multilingual build](https://dev.to/ayyash/prerendering-in-angular-single-multilingual-build-11c8)
 - [Dev.to/JS] [Implementing Authentication In Next.js Using Next Auth](https://dev.to/raghavmri/implementing-authentication-in-nextjs-using-next-auth-1g97)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting up Nodemailer with Gmail after 2022. May](https://dev.to/viktoriabors/setting-up-nodemailer-with-gmail-after-2022-may-55af)
 - [Dev.to/JS] [🚀 Angular 14 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-14-eslint-material-transloco-jest-testcafe-docker-prettier-6d3)
 - [Dev.to/JS] [Fetch API in JavaScript](https://dev.to/devvsakib/fetch-api-in-javascript-54o6)
-- [Dev.to/JS] [Web-Scraping Discord Bot](https://dev.to/jjablonskiit/how-to-get-apartment-with-code-web-scraping-discord-bot-2n1j)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
