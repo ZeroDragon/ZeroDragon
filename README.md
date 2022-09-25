@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing Authentication In Next.js Using Next Auth](https://dev.to/raghavmri/implementing-authentication-in-nextjs-using-next-auth-1g97)
+- [Dev.to/JS] [Make The String Great](https://dev.to/zeeshanali0704/make-the-string-great-2ao3)
 - [Dev.to/JS] [Setting up Nodemailer with Gmail after 2022. May](https://dev.to/viktoriabors/setting-up-nodemailer-with-gmail-after-2022-may-55af)
 - [Dev.to/JS] [🚀 Angular 14 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-14-eslint-material-transloco-jest-testcafe-docker-prettier-6d3)
 - [Dev.to/JS] [Fetch API in JavaScript](https://dev.to/devvsakib/fetch-api-in-javascript-54o6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quiz Maker Algorithm](https://dev.to/harishteens/quiz-maker-algorithm-527g)
 - [Dev.to/JS] [Urgent Help needed. V-data-table, vue](https://dev.to/princesinghpnjr/urgent-help-needed-v-data-table-vue-ipk)
 - [Dev.to/JS] [translate.i18next.com](https://dev.to/adrai/translatei18nextcom-32gk)
-- [Dev.to/JS] [Form to Email API - Create Working Site Forms Without Server](https://dev.to/form/form-to-email-3og2)
-- [Dev.to/JS] [Software Testing Weekly](https://dev.to/kailashpathak7/software-testing-weekly-3j0o)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
