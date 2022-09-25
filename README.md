@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s DanceTime!](https://dev.to/benank/its-dancetime-40ff)
+- [Dev.to/JS] [Generating QR Codes using React](https://dev.to/danielonugha0/generating-qr-codes-using-react-51ik)
+- [Dev.to/JS] [Day 0 - JavaScript - Statements, Expressions](https://dev.to/geomukkath/day-0-javascript-statements-expressions-486i)
+- [Dev.to/JS] [When typing the route manually on the browser&#39;s search bar, Protected route is not working in react app](https://dev.to/moulsiri/when-typing-the-route-manually-on-the-browsers-search-bar-protected-route-is-not-working-in-react-app-11h)
+- [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Dev.to/JS] [Eyes Watching Mouse](https://dev.to/jagadeeshkj/eyes-watching-mouse-269c)
 - [Dev.to/JS] [dopollit: create new polls, share, get responses](https://dev.to/lmas3009/dopollit-create-new-polls-share-get-responses-2jji)
 - [Dev.to/JS] [Most commonly used library with react](https://dev.to/shacodes/most-commonly-used-library-with-react-5akm)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Generative Gradient Blobs Free Download in CSS and JavaScript](https://dev.to/zubairkhokhar/generative-gradient-blobs-free-download-in-css-and-javascript-31a8)
 - [Dev.to/JS] [Prerendering in Angular — single multilingual build](https://dev.to/ayyash/prerendering-in-angular-single-multilingual-build-11c8)
 - [Dev.to/JS] [Implementing Authentication In Next.js Using Next Auth](https://dev.to/raghavmri/implementing-authentication-in-nextjs-using-next-auth-1g97)
-- [Dev.to/JS] [Make The String Great](https://dev.to/zeeshanali0704/make-the-string-great-2ao3)
-- [Dev.to/JS] [Setting up Nodemailer with Gmail after 2022. May](https://dev.to/viktoriabors/setting-up-nodemailer-with-gmail-after-2022-may-55af)
-- [Dev.to/JS] [🚀 Angular 14 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-14-eslint-material-transloco-jest-testcafe-docker-prettier-6d3)
-- [Dev.to/JS] [Fetch API in JavaScript](https://dev.to/devvsakib/fetch-api-in-javascript-54o6)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Your Electrical Outlets Without Killing Yourself](https://lifehacker.com/how-to-clean-your-electrical-outlets-without-killing-yo-1849568733)
 - [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
 - [Lifehacker] [How to Tell If Your Floor is Hardwood or Laminate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-tell-if-your-floor-is-hardwood-or-laminate-and-1849568470)
-- [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)
-- [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)<!-- TECH-POSTS:END -->
 
 ---
 
