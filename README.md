@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working On My First Pull Request](https://dev.to/tdaw/working-on-my-first-pull-request-338f)
+- [Dev.to/JS] [Day 5 I4G 10 Days Code Challenge](https://dev.to/abubakarismail/day-5-i4g-10-days-code-challenge-2c62)
+- [Dev.to/JS] [Sort Characters By Frequency](https://dev.to/nifilat/sort-characters-by-frequency-1db3)
 - [Dev.to/JS] [DAY 5 CODE CHALLENGE](https://dev.to/chinwendufausty/day-5-code-challenge-12ba)
 - [Dev.to/JS] [Angular Standalone Components: Say Goodbye To NgModules](https://dev.to/henriquecustodia/angular-standalone-components-say-goodbye-to-ngmodules-1p45)
 - [Dev.to/JS] [Learning Python and Defined MERN App Requirements](https://dev.to/idnk2203/learning-python-and-defined-mern-app-requirements-4l5k)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Confused about Choosing Paths](https://dev.to/sifuewu/confused-about-choosing-paths-4hk1)
 - [Dev.to/JS] [Project Euler #4: Largest palindrome product](https://dev.to/rationalkunal/project-euler-4-largest-palindrome-product-5bmj)
 - [Dev.to/JS] [It&#39;s DanceTime!](https://dev.to/benank/its-dancetime-40ff)
-- [Dev.to/JS] [Generating QR Codes using React](https://dev.to/danielonugha0/generating-qr-codes-using-react-51ik)
-- [Dev.to/JS] [Day 0 - JavaScript - Statements, Expressions](https://dev.to/geomukkath/day-0-javascript-statements-expressions-486i)
-- [Dev.to/JS] [When typing the route manually on the browser&#39;s search bar, Protected route is not working in react app](https://dev.to/moulsiri/when-typing-the-route-manually-on-the-browsers-search-bar-protected-route-is-not-working-in-react-app-11h)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
