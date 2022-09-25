@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DAY 5 CODE CHALLENGE](https://dev.to/chinwendufausty/day-5-code-challenge-12ba)
+- [Dev.to/JS] [Angular Standalone Components: Say Goodbye To NgModules](https://dev.to/henriquecustodia/angular-standalone-components-say-goodbye-to-ngmodules-1p45)
 - [Dev.to/JS] [Learning Python and Defined MERN App Requirements](https://dev.to/idnk2203/learning-python-and-defined-mern-app-requirements-4l5k)
 - [Dev.to/JS] [Introduction to Jotai. Derived atoms. Controlling UI](https://dev.to/fricze/introduction-to-jotai-derived-atoms-controlling-ui-4c0d)
 - [Dev.to/JS] [Create a real docker development enviroment for your NodeJS app](https://dev.to/ricardogomez94/create-a-real-docker-development-enviroment-for-your-nodejs-app-44ah)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 0 - JavaScript - Statements, Expressions](https://dev.to/geomukkath/day-0-javascript-statements-expressions-486i)
 - [Dev.to/JS] [When typing the route manually on the browser&#39;s search bar, Protected route is not working in react app](https://dev.to/moulsiri/when-typing-the-route-manually-on-the-browsers-search-bar-protected-route-is-not-working-in-react-app-11h)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
-- [Dev.to/JS] [Eyes Watching Mouse](https://dev.to/jagadeeshkj/eyes-watching-mouse-269c)
-- [Dev.to/JS] [dopollit: create new polls, share, get responses](https://dev.to/lmas3009/dopollit-create-new-polls-share-get-responses-2jji)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
