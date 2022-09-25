@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Travel Journal using React](https://dev.to/jacksondynamics/a-travel-journal-using-react-157f)
+- [Dev.to/JS] [How i can edit cell of v-data-table on double mouse click. &lpar;Inline update&rpar; by using vue + vuetify ??](https://dev.to/princesinghpnjr/how-i-can-edit-cell-of-v-data-table-on-double-mouse-click-inline-update-by-using-vue-vuetify--148p)
 - [Dev.to/JS] [Maximum Average Subarray I](https://dev.to/zeeshanali0704/maximum-average-subarray-i-35lo)
 - [Dev.to/JS] [Introduction to AI &amp; ML](https://dev.to/renhiyama/introduction-to-ai-ml-1jdb)
 - [Dev.to/JS] [The End of Localhost](https://dev.to/umeshtharukaofficial/the-end-of-localhost-5gg7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using AdSense Ad Units in Next.js](https://dev.to/aacitelli/using-adsense-ad-units-in-nextjs-2o72)
 - [Dev.to/JS] [Developed Responsive Website for my portfolio It is developed using Javascript, HTML, CSS and Bootstrap](https://dev.to/iamaslamkhan/developed-responsive-website-for-my-portfolioit-is-developed-using-javascript-html-css-and-bootstrap-bp6)
 - [Dev.to/JS] [Javascript Vs. Java: What&#39;s the Difference?](https://dev.to/iamdestinos/javascript-vs-java-whats-the-difference-4gpm)
-- [Dev.to/JS] [5 difficulties of Typescript as a beginner &amp; How to deal with it](https://dev.to/banaya53662508/5-difficulties-of-typescript-as-a-beginner-how-to-deal-with-it-4f2m)
-- [Dev.to/JS] [Solving H-10 Error for Heroku Deployment](https://dev.to/josettetgarcia/solving-h-10-error-for-heroku-deployment-3pgi)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
