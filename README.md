@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setting up Nodemailer with Gmail after 2022. May](https://dev.to/viktoriabors/setting-up-nodemailer-with-gmail-after-2022-may-55af)
+- [Dev.to/JS] [🚀 Angular 14 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-14-eslint-material-transloco-jest-testcafe-docker-prettier-6d3)
+- [Dev.to/JS] [Fetch API in JavaScript](https://dev.to/devvsakib/fetch-api-in-javascript-54o6)
+- [Dev.to/JS] [How to get apartment with code - Web-Scraping Discord Bot](https://dev.to/jjablonskiit/how-to-get-apartment-with-code-web-scraping-discord-bot-2n1j)
+- [Dev.to/JS] [Creating a subscriber in medusa](https://dev.to/dailydevtips1/creating-a-subscriber-in-medusa-ho6)
 - [Dev.to/JS] [Deploying Astro on Firebase](https://dev.to/dante_inferno/deploying-astro-on-firebase-55e0)
 - [Dev.to/JS] [Hoisting and var, let, const](https://dev.to/kaziusan/hoisting-and-var-let-const-1b6m)
 - [Dev.to/JS] [Quiz Maker Algorithm](https://dev.to/harishteens/quiz-maker-algorithm-527g)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [translate.i18next.com](https://dev.to/adrai/translatei18nextcom-32gk)
 - [Dev.to/JS] [Form to Email API - Create Working Site Forms Without Server](https://dev.to/form/form-to-email-3og2)
 - [Dev.to/JS] [Software Testing Weekly](https://dev.to/kailashpathak7/software-testing-weekly-3j0o)
-- [Dev.to/JS] [Prototype Design Pattern in JavaScript](https://dev.to/shubhamdutta2000/prototype-pattern-in-javascript-25pl)
-- [Dev.to/JS] [Truthy and Falsy Values in JavaScript](https://dev.to/ameencoding/truthy-and-falsy-values-in-javascript-1cae)
-- [Dev.to/JS] [Execute Cypress Test Cases in WebKit&lpar;Safari&rpar;](https://dev.to/kailashpathak7/execute-cypress-test-cases-in-webkitsafari-2i63)
-- [Dev.to/JS] [Subarray Sum Equals K](https://dev.to/zeeshanali0704/subarray-sum-equals-k-2i4g)
-- [Dev.to/JS] [How to Integrate Cypress with Database in Azure Pipeline for Test cases Execution](https://dev.to/kailashpathak7/how-to-integrate-cypress-with-database-in-azure-pipeline-for-test-cases-execution-3o64)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
