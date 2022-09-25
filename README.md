@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generative Gradient Blobs Free Download in CSS and JavaScript](https://dev.to/zubairkhokhar/generative-gradient-blobs-free-download-in-css-and-javascript-31a8)
 - [Dev.to/JS] [Prerendering in Angular — single multilingual build](https://dev.to/ayyash/prerendering-in-angular-single-multilingual-build-11c8)
 - [Dev.to/JS] [Implementing Authentication In Next.js Using Next Auth](https://dev.to/raghavmri/implementing-authentication-in-nextjs-using-next-auth-1g97)
 - [Dev.to/JS] [Make The String Great](https://dev.to/zeeshanali0704/make-the-string-great-2ao3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploying Astro on Firebase](https://dev.to/dante_inferno/deploying-astro-on-firebase-55e0)
 - [Dev.to/JS] [Hoisting and var, let, const](https://dev.to/kaziusan/hoisting-and-var-let-const-1b6m)
 - [Dev.to/JS] [Quiz Maker Algorithm](https://dev.to/harishteens/quiz-maker-algorithm-527g)
-- [Dev.to/JS] [Urgent Help needed. V-data-table, vue](https://dev.to/princesinghpnjr/urgent-help-needed-v-data-table-vue-ipk)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
