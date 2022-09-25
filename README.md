@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Maximum Average Subarray I](https://dev.to/zeeshanali0704/maximum-average-subarray-i-35lo)
+- [Dev.to/JS] [Introduction to AI &amp; ML](https://dev.to/renhiyama/introduction-to-ai-ml-1jdb)
+- [Dev.to/JS] [The End of Localhost](https://dev.to/umeshtharukaofficial/the-end-of-localhost-5gg7)
 - [Dev.to/JS] [React - The hidden function for keys](https://dev.to/noriller/react-the-hidden-function-for-keys-29a8)
 - [Dev.to/JS] [Faceseo.vn mua traffic user thật, traffic website SEO TOP hiệu quả](https://dev.to/muatrafficuserfaceseo/faceseovn-mua-traffic-user-that-traffic-website-seo-top-hieu-qua-1il5)
 - [Dev.to/JS] [I have to admit I&#39;ll do what ever it takes to achieve #mastery would you?](https://dev.to/idnk2203/i-have-to-admit-ill-do-what-ever-it-takes-to-achieve-mastery-would-you-1b57)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Vs. Java: What&#39;s the Difference?](https://dev.to/iamdestinos/javascript-vs-java-whats-the-difference-4gpm)
 - [Dev.to/JS] [5 difficulties of Typescript as a beginner &amp; How to deal with it](https://dev.to/banaya53662508/5-difficulties-of-typescript-as-a-beginner-how-to-deal-with-it-4f2m)
 - [Dev.to/JS] [Solving H-10 Error for Heroku Deployment](https://dev.to/josettetgarcia/solving-h-10-error-for-heroku-deployment-3pgi)
-- [Dev.to/JS] [Use of super&lpar;&rpar; in React](https://dev.to/moazamdev/use-of-super-in-react-3a8g)
-- [Dev.to/JS] [I made a scroll animation using Recoil and GSAP&#39;s ScrollTrigger - with tailwindcss](https://dev.to/higashikota/i-made-a-scroll-animation-using-recoil-and-gsaps-scrolltrigger-with-tailwindcss-4jf1)
-- [Dev.to/JS] [JavaScript Closures](https://dev.to/sanket4120/javascript-closures-2pkp)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
