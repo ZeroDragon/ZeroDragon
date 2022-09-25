@@ -37,6 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Call Stack in JavaScript](https://dev.to/sanket4120/call-stack-in-javascript-1dah)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
+- [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
 - [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
 - [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
 - [Lifehacker] [How to Tell If Your Floor is Hardwood or Laminate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-tell-if-your-floor-is-hardwood-or-laminate-and-1849568470)
 - [Lifehacker] [What&#39;s New on Paramount+ in October 2022](https://lifehacker.com/whats-new-on-paramount-in-october-2022-1849568896)
-- [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)
-- [Lifehacker] [What Cooking Chicken in NyQuil Actually Does to Your Body](https://lifehacker.com/what-cooking-chicken-in-nyquil-actually-does-to-your-bo-1849568210)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Android Can Have Its Own ‘Dynamic Island’](https://lifehacker.com/your-android-can-have-its-own-dynamic-island-1849568426)<!-- TECH-POSTS:END -->
 
 ---
 
