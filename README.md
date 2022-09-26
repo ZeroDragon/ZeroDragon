@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Steps to become a better react developer](https://dev.to/dayvster/7-steps-to-become-a-better-react-developer-mp8)
+- [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 20: Compiler Workflow, Parser](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-20-compiler-workflow-parser-25gj)
+- [Dev.to/JS] [Here&#39;s a project I completed instead of taking my girlfriend out on her birthday.](https://dev.to/jedstroke/heres-a-project-i-completed-instead-taking-my-girlfriend-out-on-her-birthday-105k)
+- [Dev.to/JS] [How to Make Tic Tac Toe Using React](https://dev.to/reactjsguru/how-to-make-tic-tac-toe-using-react-1ce7)
 - [Dev.to/JS] [Medusa using services in subscribers](https://dev.to/dailydevtips1/medusa-using-services-in-subscribers-46h)
 - [Dev.to/JS] [I’m BUILDING the MOST PRODUCTIVE tool — part 0 + 1](https://dev.to/anasdew/im-building-the-most-productive-tool-part-0-1-4mg0)
 - [Dev.to/JS] [Building Web Components 101 - Part 4](https://dev.to/tebin/building-web-components-101-part-4-o0j)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tiny Vanilla.js Projects](https://dev.to/simplygreatwork/tiny-vanillajs-projects-4192)
 - [Dev.to/JS] [Longest Substring With K Distinct Characters](https://dev.to/zeeshanali0704/longest-substring-with-k-distinct-characters-bhf)
 - [Dev.to/JS] [Building Web Components 101 - Part 3](https://dev.to/tebin/building-web-components-101-part-3-2e8k)
-- [Dev.to/JS] [Regular expression capture and replace examples](https://dev.to/sparky/regular-expression-capture-and-replace-examples-44o5)
-- [Dev.to/JS] [Globally control Modals on React Native &lpar;using refs&rpar;](https://dev.to/roycechua/globally-control-modals-on-react-native-using-refs-5368)
-- [Dev.to/JS] [Strings using template literals &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/strings-using-template-literals-freecodecamp-notes-52fe)
-- [Dev.to/JS] [What does a Modern Static Website look like?](https://dev.to/mehdihali/what-does-a-modern-static-website-look-like-493m)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
