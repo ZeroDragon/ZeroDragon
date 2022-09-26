@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five of the Best Fall Trips and Activities in the U.S.](https://lifehacker.com/five-of-the-best-fall-trips-and-activities-in-the-u-s-1849581341)
+- [Dev.to/JS] [Getters/Setters to control access to an object &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/getterssetters-to-control-access-to-an-object-freecodecamp-notes-1g6p)
+- [Dev.to/JS] [Build a QRCode Inventory Management System with Autocode and Airtable](https://dev.to/janeth/build-a-qrcode-inventory-management-system-with-autocode-and-airtable-d9e)
+- [Dev.to/JS] [How to Use a JavaScript Reporting Tool within an Express.js Application](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-within-an-expressjs-application-34ho)
+- [Dev.to/JS] [Slack Mod: Cleanup](https://dev.to/f53/slack-mod-cleanup-1ec8)
+- [Lifehacker] [How You&#39;re Killing Birds &lpar;and How to Stop&rpar;](https://lifehacker.com/how-youre-killing-birds-and-how-to-stop-1849581264)
+- [Dev.to/JS] [Be careful when using .env files](https://dev.to/miguelacallesmba/be-careful-when-using-env-files-7fl)
+- [Lifehacker] [10 of the Best Indie Podcasts You&#39;ve Never Heard Of](https://lifehacker.com/10-of-the-best-indie-podcasts-youve-never-heard-of-1849573520)
 - [Dev.to/JS] [Angular vs React vs Vue in 2023 — How to Choose a JavaScript Framework](https://dev.to/grapecity/angular-vs-react-vs-vue-in-2023-how-to-choose-a-javascript-framework-156o)
 - [Dev.to/JS] [How does your web browser run Javascript?](https://dev.to/xq_is_here/how-does-your-web-browser-run-javascript-273h)
 - [Dev.to/JS] [How to Add a React Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-report-viewer-to-your-web-application-1dh3)
@@ -33,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BOTS: Mischievous Pixel Avatars](https://dev.to/wolffe/bots-mischievous-pixel-avatars-4dai)
 - [Dev.to/JS] [Health Reminder Extension for Chrome](https://dev.to/ahmetilhan24/health-reminder-extension-for-chrome-23dg)
 - [Lifehacker] [The 7 Deadly Sins of Giving a Speech](https://lifehacker.com/the-7-deadly-sins-of-giving-a-speech-1849576442)
-- [Dev.to/JS] [What Is Usability Testing And Why You Need It?](https://dev.to/lambdatest/what-is-usability-testing-and-why-you-need-it-3668)
-- [Dev.to/JS] [Should you &lpar;still&rpar; use/learn GraphQL?](https://dev.to/ayoub3bidi/should-you-still-uselearn-graphql-34g5)
 - [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)
-- [Dev.to/JS] [Number types in Javascript](https://dev.to/henoktsegaye/number-types-in-javascript-4n48)
-- [Dev.to/JS] [Apollo GraphQl](https://dev.to/drsimplegraffiti/apollo-graphql-460o)
-- [Dev.to/JS] [Titanium News #11](https://dev.to/miga/titanium-news-11-27d)
 - [Lifehacker] [8 of the Hardest-to-Clean Materials &lpar;and How to Care for Them&rpar;](https://lifehacker.com/8-of-the-hardest-to-clean-materials-and-how-to-care-fo-1849574636)
 - [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Often Should You Really Wash Your Hair?](https://lifehacker.com/how-often-should-you-really-wash-your-hair-1849573305)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the FDA to Blame for NyQuil Chicken?](https://lifehacker.com/is-tiktoks-nyquil-chicken-real-1849572108)
 - [Lifehacker] [Maybe You Should Try ‘Quiet Quitting’ Your Love Life](https://lifehacker.com/maybe-you-should-try-quiet-quitting-your-love-life-1849571411)
-- [Lifehacker] [Three Cognitive Biases We All Have &lpar;and How to Fight Them&rpar;](https://lifehacker.com/three-cognitive-biases-we-all-have-and-how-to-fight-th-1849570852)
-- [Lifehacker] [‘Trombone Champ’ and 13 More Hilarious Video Games for When You Need to Shut Off Your Brain](https://lifehacker.com/trombone-champ-and-13-more-hilarious-video-games-for-1849570084)
-- [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
-- [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Cognitive Biases We All Have &lpar;and How to Fight Them&rpar;](https://lifehacker.com/three-cognitive-biases-we-all-have-and-how-to-fight-th-1849570852)<!-- TECH-POSTS:END -->
 
 ---
 
