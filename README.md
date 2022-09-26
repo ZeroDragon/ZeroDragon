@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular vs React vs Vue in 2023 — How to Choose a JavaScript Framework](https://dev.to/grapecity/angular-vs-react-vs-vue-in-2023-how-to-choose-a-javascript-framework-156o)
+- [Dev.to/JS] [How does your web browser run Javascript?](https://dev.to/xq_is_here/how-does-your-web-browser-run-javascript-273h)
+- [Dev.to/JS] [How to Add a React Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-report-viewer-to-your-web-application-1dh3)
+- [Lifehacker] [You Should Make Your Sliding Glass Door More Secure](https://lifehacker.com/you-should-make-your-sliding-glass-door-more-secure-1849579650)
+- [Dev.to/JS] [Digital Resume for self taught DEV&#39;S with no experience](https://dev.to/sfundomhlungu/digital-resume-for-self-taught-devs-with-no-experience-2j4l)
+- [Dev.to/JS] [Did You Know ?](https://dev.to/ugboma/did-you-know--59pb)
 - [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)
 - [Dev.to/JS] [BOTS: Mischievous Pixel Avatars](https://dev.to/wolffe/bots-mischievous-pixel-avatars-4dai)
 - [Dev.to/JS] [Health Reminder Extension for Chrome](https://dev.to/ahmetilhan24/health-reminder-extension-for-chrome-23dg)
@@ -33,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Number types in Javascript](https://dev.to/henoktsegaye/number-types-in-javascript-4n48)
 - [Dev.to/JS] [Apollo GraphQl](https://dev.to/drsimplegraffiti/apollo-graphql-460o)
 - [Dev.to/JS] [Titanium News #11](https://dev.to/miga/titanium-news-11-27d)
-- [Dev.to/JS] [[DOCKER] [NODE]: Como &#39;buildar&#39; a node_modules só quando for necessário!](https://dev.to/joseguilhermefmoura/docker-node-como-buildar-a-nodemodules-so-quando-for-necessario-3655)
-- [Dev.to/JS] [5 webdev tips you may want to know 🔥 #2](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-2-41e)
 - [Lifehacker] [8 of the Hardest-to-Clean Materials &lpar;and How to Care for Them&rpar;](https://lifehacker.com/8-of-the-hardest-to-clean-materials-and-how-to-care-fo-1849574636)
-- [Dev.to/JS] [[DOCKER] [NODE]: How to rebuild node_modules only when it&#39;s necessary!](https://dev.to/joseguilhermefmoura/docker-node-how-to-rebuild-nodemodules-only-when-its-necessary-4ke9)
-- [Dev.to/JS] [Observability for CI workflows on GitHub Enterprise](https://dev.to/ismailegilmez4/observability-for-ci-workflows-on-github-enterprise-2f76)
 - [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
-- [Dev.to/JS] [🎬Animated Menu Indicator | CSS &amp; JavaScript](https://dev.to/robsonmuniz16/animated-menu-indicator-css-javascript-4pih)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Cognitive Biases We All Have &lpar;and How to Fight Them&rpar;](https://lifehacker.com/three-cognitive-biases-we-all-have-and-how-to-fight-th-1849570852)
 - [Lifehacker] [‘Trombone Champ’ and 13 More Hilarious Video Games for When You Need to Shut Off Your Brain](https://lifehacker.com/trombone-champ-and-13-more-hilarious-video-games-for-1849570084)
 - [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
-- [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)
-- [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)<!-- TECH-POSTS:END -->
 
 ---
 
