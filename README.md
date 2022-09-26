@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Regular expression capture and replace examples](https://dev.to/sparky/regular-expression-capture-and-replace-examples-44o5)
+- [Dev.to/JS] [Globally control Modals on React Native &lpar;using refs&rpar;](https://dev.to/roycechua/globally-control-modals-on-react-native-using-refs-5368)
+- [Dev.to/JS] [Strings using template literals &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/strings-using-template-literals-freecodecamp-notes-52fe)
 - [Dev.to/JS] [What does a Modern Static Website look like?](https://dev.to/mehdihali/what-does-a-modern-static-website-look-like-493m)
 - [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 5&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-5-4an3)
 - [Dev.to/JS] [Sort Character by frequency](https://dev.to/michael2509/sort-character-by-frequency-4pem)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DAY 5 CODE CHALLENGE](https://dev.to/chinwendufausty/day-5-code-challenge-12ba)
 - [Dev.to/JS] [Angular Standalone Components: Say Goodbye To NgModules](https://dev.to/henriquecustodia/angular-standalone-components-say-goodbye-to-ngmodules-1p45)
 - [Dev.to/JS] [Learning Python and Defined MERN App Requirements](https://dev.to/idnk2203/learning-python-and-defined-mern-app-requirements-4l5k)
-- [Dev.to/JS] [Introduction to Jotai. Derived atoms. Controlling UI](https://dev.to/fricze/introduction-to-jotai-derived-atoms-controlling-ui-4c0d)
-- [Dev.to/JS] [Create a real docker development enviroment for your NodeJS app](https://dev.to/ricardogomez94/create-a-real-docker-development-enviroment-for-your-nodejs-app-44ah)
-- [Dev.to/JS] [LeetCode - Compare Version Numbers](https://dev.to/_alkesh26/leetcode-compare-version-numbers-51gp)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
