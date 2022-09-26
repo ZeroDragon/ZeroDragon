@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Azure Cloud Resume Challenge by Vithuren Shanthasivam](https://dev.to/vithuren27/the-azure-cloud-resume-challenge-by-vithuren-shanthasivam-5470)
+- [Dev.to/JS] [Jquery appendTo And prependTo Example](https://dev.to/techsolutionstuff/jquery-appendto-and-prependto-example-5hnd)
 - [Dev.to/JS] [Tiny Vanilla.js Projects](https://dev.to/simplygreatwork/tiny-vanillajs-projects-4192)
 - [Dev.to/JS] [Longest Substring With K Distinct Characters](https://dev.to/zeeshanali0704/longest-substring-with-k-distinct-characters-bhf)
 - [Dev.to/JS] [Building Web Components 101 - Part 3](https://dev.to/tebin/building-web-components-101-part-3-2e8k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 5&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-5-4an3)
 - [Dev.to/JS] [Sort Character by frequency](https://dev.to/michael2509/sort-character-by-frequency-4pem)
 - [Dev.to/JS] [Working On My First Pull Request](https://dev.to/tdaw/working-on-my-first-pull-request-338f)
-- [Dev.to/JS] [Day 5 I4G 10 Days Code Challenge](https://dev.to/abubakarismail/day-5-i4g-10-days-code-challenge-2c62)
-- [Dev.to/JS] [Sort Characters By Frequency](https://dev.to/nifilat/sort-characters-by-frequency-1db3)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
