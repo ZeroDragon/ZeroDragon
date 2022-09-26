@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Observer design pattern in Python](https://dev.to/javatpoint/observer-design-pattern-in-python-1a2a)
 - [Dev.to/JS] [How to get file path from clipboard in ElectronJS](https://dev.to/osbkca/how-to-get-file-path-from-clipboard-in-electronjs-346b)
 - [Dev.to/JS] [A simple guide to consuming APIs with Redux &lpar;with example&rpar;](https://dev.to/tobiojuolape/a-simple-guide-to-consuming-apis-in-redux-with-example-438)
 - [Dev.to/JS] [Top 6 Programming Languages Used In Data Science](https://dev.to/rithangowdac/top-6-programming-languages-used-in-data-science-dip)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here&#39;s a project I completed instead of taking my girlfriend out on her birthday.](https://dev.to/jedstroke/heres-a-project-i-completed-instead-taking-my-girlfriend-out-on-her-birthday-105k)
 - [Dev.to/JS] [How to Make Tic Tac Toe Using React](https://dev.to/reactjsguru/how-to-make-tic-tac-toe-using-react-1ce7)
 - [Dev.to/JS] [Medusa using services in subscribers](https://dev.to/dailydevtips1/medusa-using-services-in-subscribers-46h)
-- [Dev.to/JS] [I’m BUILDING the MOST PRODUCTIVE tool — part 0 + 1](https://dev.to/anasdew/im-building-the-most-productive-tool-part-0-1-4mg0)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
