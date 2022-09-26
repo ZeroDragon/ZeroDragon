@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Medusa using services in subscribers](https://dev.to/dailydevtips1/medusa-using-services-in-subscribers-46h)
+- [Dev.to/JS] [I’m BUILDING the MOST PRODUCTIVE tool — part 0 + 1](https://dev.to/anasdew/im-building-the-most-productive-tool-part-0-1-4mg0)
 - [Dev.to/JS] [Building Web Components 101 - Part 4](https://dev.to/tebin/building-web-components-101-part-4-o0j)
 - [Dev.to/JS] [The Azure Cloud Resume Challenge by Vithuren Shanthasivam](https://dev.to/vithuren27/the-azure-cloud-resume-challenge-by-vithuren-shanthasivam-5470)
 - [Dev.to/JS] [Jquery appendTo And prependTo Example](https://dev.to/techsolutionstuff/jquery-appendto-and-prependto-example-5hnd)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Globally control Modals on React Native &lpar;using refs&rpar;](https://dev.to/roycechua/globally-control-modals-on-react-native-using-refs-5368)
 - [Dev.to/JS] [Strings using template literals &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/strings-using-template-literals-freecodecamp-notes-52fe)
 - [Dev.to/JS] [What does a Modern Static Website look like?](https://dev.to/mehdihali/what-does-a-modern-static-website-look-like-493m)
-- [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 5&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-5-4an3)
-- [Dev.to/JS] [Sort Character by frequency](https://dev.to/michael2509/sort-character-by-frequency-4pem)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
