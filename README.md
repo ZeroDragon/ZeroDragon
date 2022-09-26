@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🙏.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-13pn)
+- [Dev.to/JS] [Implementing Variable in CSS using Sass in React JS](https://dev.to/surajondev/implementing-variable-in-css-using-sass-in-react-js-4eb6)
+- [Dev.to/JS] [How to write essay?](https://dev.to/orwelljeff/how-to-write-essay-3d8k)
+- [Dev.to/JS] [I used useLayoutEffect](https://dev.to/danielbellmas/i-used-uselayouteffect-19l)
 - [Dev.to/JS] [Observer design pattern in Python](https://dev.to/javatpoint/observer-design-pattern-in-python-1a2a)
 - [Dev.to/JS] [How to get file path from clipboard in ElectronJS](https://dev.to/osbkca/how-to-get-file-path-from-clipboard-in-electronjs-346b)
-- [Dev.to/JS] [A simple guide to consuming APIs with Redux &lpar;with example&rpar;](https://dev.to/tobiojuolape/a-simple-guide-to-consuming-apis-in-redux-with-example-438)
+- [Dev.to/JS] [A simple guide to consuming APIs with Redux &lpar;tutorial example&rpar;](https://dev.to/tobiojuolape/a-simple-guide-to-consuming-apis-in-redux-with-example-438)
 - [Dev.to/JS] [Top 6 Programming Languages Used In Data Science](https://dev.to/rithangowdac/top-6-programming-languages-used-in-data-science-dip)
 - [Dev.to/JS] [My Attempt at Running a Gameboy Emulator in Google Sheets](https://dev.to/gregorygaines/my-attempt-at-running-a-gameboy-emulator-in-google-sheets-24fp)
 - [Dev.to/JS] [Industrial Automation Projects For Students](https://dev.to/arunprakash142/industrial-automation-projects-for-students-9bi)
 - [Dev.to/JS] [NeoVim](https://dev.to/jimenezfede/neovim-jd5)
 - [Dev.to/JS] [7 Steps to become a better react developer](https://dev.to/dayvster/7-steps-to-become-a-better-react-developer-mp8)
-- [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 20: Compiler Workflow, Parser](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-20-compiler-workflow-parser-25gj)
-- [Dev.to/JS] [Here&#39;s a project I completed instead of taking my girlfriend out on her birthday.](https://dev.to/jedstroke/heres-a-project-i-completed-instead-taking-my-girlfriend-out-on-her-birthday-105k)
-- [Dev.to/JS] [How to Make Tic Tac Toe Using React](https://dev.to/reactjsguru/how-to-make-tic-tac-toe-using-react-1ce7)
-- [Dev.to/JS] [Medusa using services in subscribers](https://dev.to/dailydevtips1/medusa-using-services-in-subscribers-46h)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
