@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What does a Modern Static Website look like?](https://dev.to/mehdihali/what-does-a-modern-static-website-look-like-493m)
 - [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 5&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-5-4an3)
 - [Dev.to/JS] [Sort Character by frequency](https://dev.to/michael2509/sort-character-by-frequency-4pem)
 - [Dev.to/JS] [Working On My First Pull Request](https://dev.to/tdaw/working-on-my-first-pull-request-338f)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a real docker development enviroment for your NodeJS app](https://dev.to/ricardogomez94/create-a-real-docker-development-enviroment-for-your-nodejs-app-44ah)
 - [Dev.to/JS] [LeetCode - Compare Version Numbers](https://dev.to/_alkesh26/leetcode-compare-version-numbers-51gp)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
-- [Dev.to/JS] [Confused about Choosing Paths](https://dev.to/sifuewu/confused-about-choosing-paths-4hk1)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
