@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to extend HTML elements with React](https://dev.to/douglasdemoura/how-to-extend-html-elements-with-react-4peb)
+- [Dev.to/JS] [How to build your website at super-sonic speed with Astro.](https://dev.to/replayable/getting-started-with-astro-on-windows-4h04)
+- [Lifehacker] [Microsoft Has a New Trick for Keeping Your Password Safe](https://lifehacker.com/microsoft-has-a-new-trick-for-keeping-your-password-saf-1849580498)
 - [Lifehacker] [Five of the Best Fall Trips and Activities in the U.S.](https://lifehacker.com/five-of-the-best-fall-trips-and-activities-in-the-u-s-1849581341)
 - [Dev.to/JS] [Getters/Setters to control access to an object &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/getterssetters-to-control-access-to-an-object-freecodecamp-notes-1g6p)
 - [Dev.to/JS] [Build a QRCode Inventory Management System with Autocode and Airtable](https://dev.to/janeth/build-a-qrcode-inventory-management-system-with-autocode-and-airtable-d9e)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Digital Resume for self taught DEV&#39;S with no experience](https://dev.to/sfundomhlungu/digital-resume-for-self-taught-devs-with-no-experience-2j4l)
 - [Dev.to/JS] [Did You Know ?](https://dev.to/ugboma/did-you-know--59pb)
 - [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)
-- [Dev.to/JS] [BOTS: Mischievous Pixel Avatars](https://dev.to/wolffe/bots-mischievous-pixel-avatars-4dai)
-- [Dev.to/JS] [Health Reminder Extension for Chrome](https://dev.to/ahmetilhan24/health-reminder-extension-for-chrome-23dg)
 - [Lifehacker] [The 7 Deadly Sins of Giving a Speech](https://lifehacker.com/the-7-deadly-sins-of-giving-a-speech-1849576442)
 - [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)
 - [Lifehacker] [8 of the Hardest-to-Clean Materials &lpar;and How to Care for Them&rpar;](https://lifehacker.com/8-of-the-hardest-to-clean-materials-and-how-to-care-fo-1849574636)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 Movies That Endured Wildly Troubled Productions](https://lifehacker.com/20-movies-that-endured-wildly-troubled-productions-1849567973)
 - [Lifehacker] [How Often Should You Really Wash Your Hair?](https://lifehacker.com/how-often-should-you-really-wash-your-hair-1849573305)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the FDA to Blame for NyQuil Chicken?](https://lifehacker.com/is-tiktoks-nyquil-chicken-real-1849572108)
-- [Lifehacker] [Maybe You Should Try ‘Quiet Quitting’ Your Love Life](https://lifehacker.com/maybe-you-should-try-quiet-quitting-your-love-life-1849571411)
-- [Lifehacker] [Three Cognitive Biases We All Have &lpar;and How to Fight Them&rpar;](https://lifehacker.com/three-cognitive-biases-we-all-have-and-how-to-fight-th-1849570852)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Maybe You Should Try ‘Quiet Quitting’ Your Love Life](https://lifehacker.com/maybe-you-should-try-quiet-quitting-your-love-life-1849571411)<!-- TECH-POSTS:END -->
 
 ---
 
