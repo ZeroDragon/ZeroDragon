@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)
+- [Dev.to/JS] [BOTS: Mischievous Pixel Avatars](https://dev.to/wolffe/bots-mischievous-pixel-avatars-4dai)
+- [Dev.to/JS] [Health Reminder Extension for Chrome](https://dev.to/ahmetilhan24/health-reminder-extension-for-chrome-23dg)
+- [Lifehacker] [The 7 Deadly Sins of Giving a Speech](https://lifehacker.com/the-7-deadly-sins-of-giving-a-speech-1849576442)
+- [Dev.to/JS] [What Is Usability Testing And Why You Need It?](https://dev.to/lambdatest/what-is-usability-testing-and-why-you-need-it-3668)
 - [Dev.to/JS] [Should you &lpar;still&rpar; use/learn GraphQL?](https://dev.to/ayoub3bidi/should-you-still-uselearn-graphql-34g5)
 - [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)
 - [Dev.to/JS] [Number types in Javascript](https://dev.to/henoktsegaye/number-types-in-javascript-4n48)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Observability for CI workflows on GitHub Enterprise](https://dev.to/ismailegilmez4/observability-for-ci-workflows-on-github-enterprise-2f76)
 - [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
 - [Dev.to/JS] [🎬Animated Menu Indicator | CSS &amp; JavaScript](https://dev.to/robsonmuniz16/animated-menu-indicator-css-javascript-4pih)
-- [Dev.to/JS] [Intro to Babylon.js](https://dev.to/loganward/intro-to-babylonjs-14o)
-- [Dev.to/JS] [What I Learned From Doing The 100 Days of Code Challenge](https://dev.to/dev_neil_a/what-i-learned-from-doing-the-100-days-of-code-challenge-4md4)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-sep-2022-218)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Trombone Champ’ and 13 More Hilarious Video Games for When You Need to Shut Off Your Brain](https://lifehacker.com/trombone-champ-and-13-more-hilarious-video-games-for-1849570084)
 - [Lifehacker] [Make the Creamiest Scrambled Eggs of Your Life With a Little Dijon](https://lifehacker.com/make-the-creamiest-scrambled-eggs-of-your-life-with-a-l-1849571185)
 - [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)
-- [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
-- [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
-- [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)<!-- TECH-POSTS:END -->
 
 ---
 
