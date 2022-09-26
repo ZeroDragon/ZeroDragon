@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Web Components 101 - Part 4](https://dev.to/tebin/building-web-components-101-part-4-o0j)
 - [Dev.to/JS] [The Azure Cloud Resume Challenge by Vithuren Shanthasivam](https://dev.to/vithuren27/the-azure-cloud-resume-challenge-by-vithuren-shanthasivam-5470)
 - [Dev.to/JS] [Jquery appendTo And prependTo Example](https://dev.to/techsolutionstuff/jquery-appendto-and-prependto-example-5hnd)
 - [Dev.to/JS] [Tiny Vanilla.js Projects](https://dev.to/simplygreatwork/tiny-vanillajs-projects-4192)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What does a Modern Static Website look like?](https://dev.to/mehdihali/what-does-a-modern-static-website-look-like-493m)
 - [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 5&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-5-4an3)
 - [Dev.to/JS] [Sort Character by frequency](https://dev.to/michael2509/sort-character-by-frequency-4pem)
-- [Dev.to/JS] [Working On My First Pull Request](https://dev.to/tdaw/working-on-my-first-pull-request-338f)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
