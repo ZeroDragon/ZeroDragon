@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 6 Programming Languages Used In Data Science](https://dev.to/rithangowdac/top-6-programming-languages-used-in-data-science-dip)
+- [Dev.to/JS] [My Attempt at Running a Gameboy Emulator in Google Sheets](https://dev.to/gregorygaines/my-attempt-at-running-a-gameboy-emulator-in-google-sheets-24fp)
+- [Dev.to/JS] [Industrial Automation Projects For Students](https://dev.to/arunprakash142/industrial-automation-projects-for-students-9bi)
+- [Dev.to/JS] [NeoVim](https://dev.to/jimenezfede/neovim-jd5)
 - [Dev.to/JS] [7 Steps to become a better react developer](https://dev.to/dayvster/7-steps-to-become-a-better-react-developer-mp8)
 - [Dev.to/JS] [Let’s Understand Chrome V8--Chapter 20: Compiler Workflow, Parser](https://dev.to/v8blink/lets-understand-chrome-v8-chapter-20-compiler-workflow-parser-25gj)
 - [Dev.to/JS] [Here&#39;s a project I completed instead of taking my girlfriend out on her birthday.](https://dev.to/jedstroke/heres-a-project-i-completed-instead-taking-my-girlfriend-out-on-her-birthday-105k)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I’m BUILDING the MOST PRODUCTIVE tool — part 0 + 1](https://dev.to/anasdew/im-building-the-most-productive-tool-part-0-1-4mg0)
 - [Dev.to/JS] [Building Web Components 101 - Part 4](https://dev.to/tebin/building-web-components-101-part-4-o0j)
 - [Dev.to/JS] [The Azure Cloud Resume Challenge by Vithuren Shanthasivam](https://dev.to/vithuren27/the-azure-cloud-resume-challenge-by-vithuren-shanthasivam-5470)
-- [Dev.to/JS] [Jquery appendTo And prependTo Example](https://dev.to/techsolutionstuff/jquery-appendto-and-prependto-example-5hnd)
-- [Dev.to/JS] [Tiny Vanilla.js Projects](https://dev.to/simplygreatwork/tiny-vanillajs-projects-4192)
-- [Dev.to/JS] [Longest Substring With K Distinct Characters](https://dev.to/zeeshanali0704/longest-substring-with-k-distinct-characters-bhf)
-- [Dev.to/JS] [Building Web Components 101 - Part 3](https://dev.to/tebin/building-web-components-101-part-3-2e8k)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
