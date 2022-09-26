@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
+- [Dev.to/JS] [Custom wheel of prize with canvas](https://dev.to/sababg/custom-wheel-of-prize-with-canvas-589h)
+- [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
+- [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
+- [Dev.to/JS] [How and when to use React Context](https://dev.to/dayvster/how-and-when-to-use-react-context-19j0)
+- [Dev.to/JS] [My Journey Into Tech](https://dev.to/isaacetor/my-journey-into-tech-4p1)
+- [Lifehacker] [Is BeReal Safe?](https://lifehacker.com/is-bereal-safe-1849582284)
 - [Dev.to/JS] [Microsoft Homepage Clone in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/microsoft-homepage-clone-in-html-css-and-javascript-3gif)
 - [Dev.to/JS] [Destructuring assignment in javascript](https://dev.to/kaziusan/destructuring-assignment-in-javascript-2a4h)
 - [Dev.to/JS] [Adding IPFS to my JavaScript OS](https://dev.to/dustinbrett/adding-ipfs-to-my-javascript-os-14ag)
@@ -40,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getters/Setters to control access to an object &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/getterssetters-to-control-access-to-an-object-freecodecamp-notes-1g6p)
 - [Dev.to/JS] [Build a QRCode Inventory Management System with Autocode and Airtable](https://dev.to/janeth/build-a-qrcode-inventory-management-system-with-autocode-and-airtable-d9e)
 - [Dev.to/JS] [How to Use a JavaScript Reporting Tool within an Express.js Application](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-within-an-expressjs-application-34ho)
-- [Dev.to/JS] [Slack Mod: Cleanup](https://dev.to/f53/slack-mod-cleanup-1ec8)
 - [Lifehacker] [How You&#39;re Killing Birds &lpar;and How to Stop&rpar;](https://lifehacker.com/how-youre-killing-birds-and-how-to-stop-1849581264)
-- [Dev.to/JS] [Be careful when using .env files](https://dev.to/miguelacallesmba/be-careful-when-using-env-files-7fl)
 - [Lifehacker] [10 of the Best Indie Podcasts You&#39;ve Never Heard Of](https://lifehacker.com/10-of-the-best-indie-podcasts-youve-never-heard-of-1849573520)
-- [Dev.to/JS] [Angular vs React vs Vue in 2023 — How to Choose a JavaScript Framework](https://dev.to/grapecity/angular-vs-react-vs-vue-in-2023-how-to-choose-a-javascript-framework-156o)
 - [Lifehacker] [You Should Make Your Sliding Glass Door More Secure](https://lifehacker.com/you-should-make-your-sliding-glass-door-more-secure-1849579650)
 - [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)
 - [Lifehacker] [The 7 Deadly Sins of Giving a Speech](https://lifehacker.com/the-7-deadly-sins-of-giving-a-speech-1849576442)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
 - [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
 - [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
-- [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)
-- [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
-- [Lifehacker] [Maybe It&#39;s Time to Get an Air Purifier](https://lifehacker.com/maybe-its-time-to-get-an-air-purifier-1849574152)
-- [Lifehacker] [What&#39;s the Real Difference Between Passive and Residual Income?](https://lifehacker.com/whats-the-real-difference-between-passive-and-residual-1849574141)
-- [Lifehacker] [All the Ways You Could Better Organize Your Groceries at Checkout](https://lifehacker.com/all-the-ways-you-could-better-organize-your-groceries-a-1849573177)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)<!-- TECH-POSTS:END -->
 
 ---
 
