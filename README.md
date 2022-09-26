@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to convert a PDF to an image using Nodejs](https://dev.to/ilyeselmajouti/how-to-convert-a-pdf-to-an-image-using-nodejs-1953)
+- [Dev.to/JS] [Introduction à React: #0 - Je me justifie rarement, mais pour toi je le fais &lpar;c&#39;est beau hein&rpar;](https://dev.to/sidali/introduction-a-react-0-je-me-justifie-rarement-mais-pour-toi-je-le-fais-cest-beau-hein-4dni)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Dev.to/JS] [Custom wheel of prize with canvas](https://dev.to/sababg/custom-wheel-of-prize-with-canvas-589h)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
@@ -45,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Microsoft Has a New Trick for Keeping Your Password Safe](https://lifehacker.com/microsoft-has-a-new-trick-for-keeping-your-password-saf-1849580498)
 - [Lifehacker] [Five of the Best Fall Trips and Activities in the U.S.](https://lifehacker.com/five-of-the-best-fall-trips-and-activities-in-the-u-s-1849581341)
 - [Dev.to/JS] [Getters/Setters to control access to an object &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/getterssetters-to-control-access-to-an-object-freecodecamp-notes-1g6p)
-- [Dev.to/JS] [Build a QRCode Inventory Management System with Autocode and Airtable](https://dev.to/janeth/build-a-qrcode-inventory-management-system-with-autocode-and-airtable-d9e)
-- [Dev.to/JS] [How to Use a JavaScript Reporting Tool within an Express.js Application](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-within-an-expressjs-application-34ho)
 - [Lifehacker] [How You&#39;re Killing Birds &lpar;and How to Stop&rpar;](https://lifehacker.com/how-youre-killing-birds-and-how-to-stop-1849581264)
 - [Lifehacker] [10 of the Best Indie Podcasts You&#39;ve Never Heard Of](https://lifehacker.com/10-of-the-best-indie-podcasts-youve-never-heard-of-1849573520)
 - [Lifehacker] [You Should Make Your Sliding Glass Door More Secure](https://lifehacker.com/you-should-make-your-sliding-glass-door-more-secure-1849579650)
