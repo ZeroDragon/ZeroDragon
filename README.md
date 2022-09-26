@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Psychological Mind Tricks That Actually Work](https://lifehacker.com/the-psychological-mind-tricks-that-actually-work-1849581208)
+- [Lifehacker] [Avoid These Mistakes When You Cancel Travel Plans](https://lifehacker.com/avoid-these-mistakes-when-you-cancel-travel-plans-1849581939)
+- [Dev.to/JS] [Método de Arreglos: Array.every y Array.some](https://dev.to/matiasfha/metodo-de-arreglos-arrayevery-y-arraysome-35lb)
+- [Lifehacker] [This Is Why Personal Finance Gurus Can Never Be Trusted](https://lifehacker.com/this-is-why-personal-finance-gurus-can-never-be-trusted-1849581492)
 - [Lifehacker] [9 Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-youre-not-cleaning-in-your-washing-machine-bu-1849581856)
 - [Lifehacker] [Make Your Next Cheesecake in an Air Fryer](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857)
 - [Dev.to/JS] [How to extend HTML elements with React](https://dev.to/douglasdemoura/how-to-extend-html-elements-with-react-4peb)
@@ -41,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add a React Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-report-viewer-to-your-web-application-1dh3)
 - [Lifehacker] [You Should Make Your Sliding Glass Door More Secure](https://lifehacker.com/you-should-make-your-sliding-glass-door-more-secure-1849579650)
 - [Dev.to/JS] [Digital Resume for self taught DEV&#39;S with no experience](https://dev.to/sfundomhlungu/digital-resume-for-self-taught-devs-with-no-experience-2j4l)
-- [Dev.to/JS] [Did You Know ?](https://dev.to/ugboma/did-you-know--59pb)
 - [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)
 - [Lifehacker] [The 7 Deadly Sins of Giving a Speech](https://lifehacker.com/the-7-deadly-sins-of-giving-a-speech-1849576442)
 - [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Maybe It&#39;s Time to Get an Air Purifier](https://lifehacker.com/maybe-its-time-to-get-an-air-purifier-1849574152)
 - [Lifehacker] [What&#39;s the Real Difference Between Passive and Residual Income?](https://lifehacker.com/whats-the-real-difference-between-passive-and-residual-1849574141)
 - [Lifehacker] [All the Ways You Could Better Organize Your Groceries at Checkout](https://lifehacker.com/all-the-ways-you-could-better-organize-your-groceries-a-1849573177)
-- [Lifehacker] [How to Streamline Your iPhone 14 Pro’s Always-On Display](https://lifehacker.com/how-to-streamline-your-iphone-14-pro-s-always-on-displa-1849573196)
-- [Lifehacker] [What&#39;s New on Amazon Prime in October 2022](https://lifehacker.com/whats-new-on-amazon-prime-in-october-2022-1849574079)
-- [Lifehacker] [20 Movies That Endured Wildly Troubled Productions](https://lifehacker.com/20-movies-that-endured-wildly-troubled-productions-1849567973)
-- [Lifehacker] [How Often Should You Really Wash Your Hair?](https://lifehacker.com/how-often-should-you-really-wash-your-hair-1849573305)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Streamline Your iPhone 14 Pro’s Always-On Display](https://lifehacker.com/how-to-streamline-your-iphone-14-pro-s-always-on-displa-1849573196)<!-- TECH-POSTS:END -->
 
 ---
 
