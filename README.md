@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-youre-not-cleaning-in-your-washing-machine-bu-1849581856)
+- [Lifehacker] [Make Your Next Cheesecake in an Air Fryer](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857)
 - [Dev.to/JS] [How to extend HTML elements with React](https://dev.to/douglasdemoura/how-to-extend-html-elements-with-react-4peb)
 - [Dev.to/JS] [How to build your website at super-sonic speed with Astro.](https://dev.to/replayable/getting-started-with-astro-on-windows-4h04)
 - [Lifehacker] [Microsoft Has a New Trick for Keeping Your Password Safe](https://lifehacker.com/microsoft-has-a-new-trick-for-keeping-your-password-saf-1849580498)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Streamline Your iPhone 14 Pro’s Always-On Display](https://lifehacker.com/how-to-streamline-your-iphone-14-pro-s-always-on-displa-1849573196)
 - [Lifehacker] [What&#39;s New on Amazon Prime in October 2022](https://lifehacker.com/whats-new-on-amazon-prime-in-october-2022-1849574079)
 - [Lifehacker] [20 Movies That Endured Wildly Troubled Productions](https://lifehacker.com/20-movies-that-endured-wildly-troubled-productions-1849567973)
-- [Lifehacker] [How Often Should You Really Wash Your Hair?](https://lifehacker.com/how-often-should-you-really-wash-your-hair-1849573305)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the FDA to Blame for NyQuil Chicken?](https://lifehacker.com/is-tiktoks-nyquil-chicken-real-1849572108)
-- [Lifehacker] [Maybe You Should Try ‘Quiet Quitting’ Your Love Life](https://lifehacker.com/maybe-you-should-try-quiet-quitting-your-love-life-1849571411)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Often Should You Really Wash Your Hair?](https://lifehacker.com/how-often-should-you-really-wash-your-hair-1849573305)<!-- TECH-POSTS:END -->
 
 ---
 
