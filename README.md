@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Should you &lpar;still&rpar; use/learn GraphQL?](https://dev.to/ayoub3bidi/should-you-still-uselearn-graphql-34g5)
+- [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)
+- [Dev.to/JS] [Number types in Javascript](https://dev.to/henoktsegaye/number-types-in-javascript-4n48)
+- [Dev.to/JS] [Apollo GraphQl](https://dev.to/drsimplegraffiti/apollo-graphql-460o)
+- [Dev.to/JS] [Titanium News #11](https://dev.to/miga/titanium-news-11-27d)
+- [Dev.to/JS] [[DOCKER] [NODE]: Como &#39;buildar&#39; a node_modules só quando for necessário!](https://dev.to/joseguilhermefmoura/docker-node-como-buildar-a-nodemodules-so-quando-for-necessario-3655)
+- [Dev.to/JS] [5 webdev tips you may want to know 🔥 #2](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-2-41e)
+- [Lifehacker] [8 of the Hardest-to-Clean Materials &lpar;and How to Care for Them&rpar;](https://lifehacker.com/8-of-the-hardest-to-clean-materials-and-how-to-care-fo-1849574636)
 - [Dev.to/JS] [[DOCKER] [NODE]: How to rebuild node_modules only when it&#39;s necessary!](https://dev.to/joseguilhermefmoura/docker-node-how-to-rebuild-nodemodules-only-when-its-necessary-4ke9)
 - [Dev.to/JS] [Observability for CI workflows on GitHub Enterprise](https://dev.to/ismailegilmez4/observability-for-ci-workflows-on-github-enterprise-2f76)
 - [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
@@ -30,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Intro to Babylon.js](https://dev.to/loganward/intro-to-babylonjs-14o)
 - [Dev.to/JS] [What I Learned From Doing The 100 Days of Code Challenge](https://dev.to/dev_neil_a/what-i-learned-from-doing-the-100-days-of-code-challenge-4md4)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-sep-2022-218)
-- [Dev.to/JS] [What are Project Deliverables in Software Development &lpar;Startup Founder&#39;s Guide&rpar;](https://dev.to/techmagic/what-are-project-deliverables-in-software-development-startup-founders-guide-506d)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🙏.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-13pn)
-- [Dev.to/JS] [Implementing Variable in CSS using Sass in React JS](https://dev.to/surajondev/implementing-variable-in-css-using-sass-in-react-js-4eb6)
-- [Dev.to/JS] [How to write essay?](https://dev.to/orwelljeff/how-to-write-essay-3d8k)
-- [Dev.to/JS] [I used useLayoutEffect](https://dev.to/danielbellmas/i-used-uselayouteffect-19l)
-- [Dev.to/JS] [Observer design pattern in Python](https://dev.to/javatpoint/observer-design-pattern-in-python-1a2a)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Being an Overachiever at Work &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stop-being-an-overachiever-at-work-and-why-you-1849570011)
 - [Lifehacker] [How &lpar;and Why&rpar; to Do Copenhagen Planks](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
-- [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
-- [Lifehacker] [How to Clean Your Electrical Outlets Without Killing Yourself](https://lifehacker.com/how-to-clean-your-electrical-outlets-without-killing-yo-1849568733)
-- [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)<!-- TECH-POSTS:END -->
 
 ---
 
