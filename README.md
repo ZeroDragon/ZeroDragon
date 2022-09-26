@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tiny Vanilla.js Projects](https://dev.to/simplygreatwork/tiny-vanillajs-projects-4192)
+- [Dev.to/JS] [Longest Substring With K Distinct Characters](https://dev.to/zeeshanali0704/longest-substring-with-k-distinct-characters-bhf)
+- [Dev.to/JS] [Building Web Components 101 - Part 3](https://dev.to/tebin/building-web-components-101-part-3-2e8k)
 - [Dev.to/JS] [Regular expression capture and replace examples](https://dev.to/sparky/regular-expression-capture-and-replace-examples-44o5)
 - [Dev.to/JS] [Globally control Modals on React Native &lpar;using refs&rpar;](https://dev.to/roycechua/globally-control-modals-on-react-native-using-refs-5368)
 - [Dev.to/JS] [Strings using template literals &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/strings-using-template-literals-freecodecamp-notes-52fe)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working On My First Pull Request](https://dev.to/tdaw/working-on-my-first-pull-request-338f)
 - [Dev.to/JS] [Day 5 I4G 10 Days Code Challenge](https://dev.to/abubakarismail/day-5-i4g-10-days-code-challenge-2c62)
 - [Dev.to/JS] [Sort Characters By Frequency](https://dev.to/nifilat/sort-characters-by-frequency-1db3)
-- [Dev.to/JS] [DAY 5 CODE CHALLENGE](https://dev.to/chinwendufausty/day-5-code-challenge-12ba)
-- [Dev.to/JS] [Angular Standalone Components: Say Goodbye To NgModules](https://dev.to/henriquecustodia/angular-standalone-components-say-goodbye-to-ngmodules-1p45)
-- [Dev.to/JS] [Learning Python and Defined MERN App Requirements](https://dev.to/idnk2203/learning-python-and-defined-mern-app-requirements-4l5k)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
