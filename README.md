@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[DOCKER] [NODE]: How to rebuild node_modules only when it&#39;s necessary!](https://dev.to/joseguilhermefmoura/docker-node-how-to-rebuild-nodemodules-only-when-its-necessary-4ke9)
+- [Dev.to/JS] [Observability for CI workflows on GitHub Enterprise](https://dev.to/ismailegilmez4/observability-for-ci-workflows-on-github-enterprise-2f76)
+- [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
+- [Dev.to/JS] [🎬Animated Menu Indicator | CSS &amp; JavaScript](https://dev.to/robsonmuniz16/animated-menu-indicator-css-javascript-4pih)
+- [Dev.to/JS] [Intro to Babylon.js](https://dev.to/loganward/intro-to-babylonjs-14o)
+- [Dev.to/JS] [What I Learned From Doing The 100 Days of Code Challenge](https://dev.to/dev_neil_a/what-i-learned-from-doing-the-100-days-of-code-challenge-4md4)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-sep-2022-218)
+- [Dev.to/JS] [What are Project Deliverables in Software Development &lpar;Startup Founder&#39;s Guide&rpar;](https://dev.to/techmagic/what-are-project-deliverables-in-software-development-startup-founders-guide-506d)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🙏.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-13pn)
 - [Dev.to/JS] [Implementing Variable in CSS using Sass in React JS](https://dev.to/surajondev/implementing-variable-in-css-using-sass-in-react-js-4eb6)
 - [Dev.to/JS] [How to write essay?](https://dev.to/orwelljeff/how-to-write-essay-3d8k)
 - [Dev.to/JS] [I used useLayoutEffect](https://dev.to/danielbellmas/i-used-uselayouteffect-19l)
 - [Dev.to/JS] [Observer design pattern in Python](https://dev.to/javatpoint/observer-design-pattern-in-python-1a2a)
-- [Dev.to/JS] [How to get file path from clipboard in ElectronJS](https://dev.to/osbkca/how-to-get-file-path-from-clipboard-in-electronjs-346b)
-- [Dev.to/JS] [A simple guide to consuming APIs with Redux &lpar;tutorial example&rpar;](https://dev.to/tobiojuolape/a-simple-guide-to-consuming-apis-in-redux-with-example-438)
-- [Dev.to/JS] [Top 6 Programming Languages Used In Data Science](https://dev.to/rithangowdac/top-6-programming-languages-used-in-data-science-dip)
-- [Dev.to/JS] [My Attempt at Running a Gameboy Emulator in Google Sheets](https://dev.to/gregorygaines/my-attempt-at-running-a-gameboy-emulator-in-google-sheets-24fp)
-- [Dev.to/JS] [Industrial Automation Projects For Students](https://dev.to/arunprakash142/industrial-automation-projects-for-students-9bi)
-- [Dev.to/JS] [NeoVim](https://dev.to/jimenezfede/neovim-jd5)
-- [Dev.to/JS] [7 Steps to become a better react developer](https://dev.to/dayvster/7-steps-to-become-a-better-react-developer-mp8)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Curate Lists of Your Favorite &lpar;or Frequent&rpar; Locations in Google Maps](https://lifehacker.com/you-can-curate-lists-of-your-favorite-or-frequent-loc-1849569641)
 - [Lifehacker] [Why You Should Blanch Your Vegetables Before Freezing Them](https://lifehacker.com/why-you-should-blanch-your-vegetables-before-freezing-t-1849569633)
 - [Lifehacker] [How to Clean Your Electrical Outlets Without Killing Yourself](https://lifehacker.com/how-to-clean-your-electrical-outlets-without-killing-yo-1849568733)
-- [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)
-- [Lifehacker] [How to Tell If Your Floor is Hardwood or Laminate &lpar;and Why It Matters&rpar;](https://lifehacker.com/how-to-tell-if-your-floor-is-hardwood-or-laminate-and-1849568470)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Being Kind at Work &lpar;to Others and Yourself&rpar; Can Combat Burnout](https://lifehacker.com/how-being-kind-at-work-to-others-and-yourself-can-com-1849568597)<!-- TECH-POSTS:END -->
 
 ---
 
