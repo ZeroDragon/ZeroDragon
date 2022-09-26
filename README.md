@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microsoft Homepage Clone in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/microsoft-homepage-clone-in-html-css-and-javascript-3gif)
+- [Dev.to/JS] [Destructuring assignment in javascript](https://dev.to/kaziusan/destructuring-assignment-in-javascript-2a4h)
+- [Dev.to/JS] [Adding IPFS to my JavaScript OS](https://dev.to/dustinbrett/adding-ipfs-to-my-javascript-os-14ag)
+- [Lifehacker] [Air Fry Your Frozen Shrimp Without Thawing Them First](https://lifehacker.com/air-fry-your-frozen-shrimp-without-thawing-them-first-1849582470)
 - [Lifehacker] [The Psychological Mind Tricks That Actually Work](https://lifehacker.com/the-psychological-mind-tricks-that-actually-work-1849581208)
 - [Lifehacker] [Avoid These Mistakes When You Cancel Travel Plans](https://lifehacker.com/avoid-these-mistakes-when-you-cancel-travel-plans-1849581939)
 - [Dev.to/JS] [Método de Arreglos: Array.every y Array.some](https://dev.to/matiasfha/metodo-de-arreglos-arrayevery-y-arraysome-35lb)
@@ -41,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Be careful when using .env files](https://dev.to/miguelacallesmba/be-careful-when-using-env-files-7fl)
 - [Lifehacker] [10 of the Best Indie Podcasts You&#39;ve Never Heard Of](https://lifehacker.com/10-of-the-best-indie-podcasts-youve-never-heard-of-1849573520)
 - [Dev.to/JS] [Angular vs React vs Vue in 2023 — How to Choose a JavaScript Framework](https://dev.to/grapecity/angular-vs-react-vs-vue-in-2023-how-to-choose-a-javascript-framework-156o)
-- [Dev.to/JS] [How does your web browser run Javascript?](https://dev.to/xq_is_here/how-does-your-web-browser-run-javascript-273h)
-- [Dev.to/JS] [How to Add a React Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-report-viewer-to-your-web-application-1dh3)
 - [Lifehacker] [You Should Make Your Sliding Glass Door More Secure](https://lifehacker.com/you-should-make-your-sliding-glass-door-more-secure-1849579650)
-- [Dev.to/JS] [Digital Resume for self taught DEV&#39;S with no experience](https://dev.to/sfundomhlungu/digital-resume-for-self-taught-devs-with-no-experience-2j4l)
 - [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)
 - [Lifehacker] [The 7 Deadly Sins of Giving a Speech](https://lifehacker.com/the-7-deadly-sins-of-giving-a-speech-1849576442)
 - [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Let Those &#39;I-Don&#39;t-Care&#39; Days Begin With a Fancy Free](https://lifehacker.com/let-those-i-dont-care-days-begin-with-a-fancy-free-1849574080)
 - [Lifehacker] [Maybe It&#39;s Time to Get an Air Purifier](https://lifehacker.com/maybe-its-time-to-get-an-air-purifier-1849574152)
 - [Lifehacker] [What&#39;s the Real Difference Between Passive and Residual Income?](https://lifehacker.com/whats-the-real-difference-between-passive-and-residual-1849574141)
-- [Lifehacker] [All the Ways You Could Better Organize Your Groceries at Checkout](https://lifehacker.com/all-the-ways-you-could-better-organize-your-groceries-a-1849573177)
-- [Lifehacker] [How to Streamline Your iPhone 14 Pro’s Always-On Display](https://lifehacker.com/how-to-streamline-your-iphone-14-pro-s-always-on-displa-1849573196)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways You Could Better Organize Your Groceries at Checkout](https://lifehacker.com/all-the-ways-you-could-better-organize-your-groceries-a-1849573177)<!-- TECH-POSTS:END -->
 
 ---
 
