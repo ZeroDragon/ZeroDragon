@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Onion Dip Needs at Least Five Onions](https://lifehacker.com/your-onion-dip-needs-at-least-five-onions-1849586590)
+- [Crazy Programmer] [David Patterson Biography](https://www.thecrazyprogrammer.com/2022/09/david-patterson-biography.html)
+- [Dev.to/JS] [is HeapSort fast?](https://dev.to/mallchel/is-heapsort-fast-2mjl)
+- [Dev.to/JS] [Why learning about Event Listeners &amp; APIs in Javascript will only excite new upcoming developers.](https://dev.to/anthonyrodriguezjpm/why-learning-about-event-listeners-apis-in-javascript-will-only-excite-new-upcoming-developers-89h)
+- [Dev.to/JS] [Arrow functions in JavaScript](https://dev.to/moazamdev/arrow-functions-in-javascript-2346)
+- [Dev.to/JS] [An introduction to full stack JavaScript development](https://dev.to/educative/an-introduction-to-full-stack-javascript-development-41dn)
+- [Lifehacker] [How Does Student Loan Forgiveness Affect Your Credit Score?](https://lifehacker.com/how-does-student-loan-forgiveness-affect-your-credit-sc-1849586487)
+- [Dev.to/JS] [Iphone 14 Pro Max HTML CSS &amp; JavaScript Free Download](https://dev.to/zubairkhokhar/iphone-14-pro-max-html-css-javascript-free-download-3ip0)
+- [Dev.to/JS] [JavaScript Template Literals](https://dev.to/mursalfk/javascript-template-literals-49kg)
 - [Dev.to/JS] [9 Tips to Write Better Vue Components](https://dev.to/tahazsh/9-tips-to-write-better-vue-components-41j6)
 - [Lifehacker] [‘Plow’ Your Leaves With Cardboard](https://lifehacker.com/plow-your-leaves-with-cardboard-1849586080)
 - [Dev.to/JS] [Best Time To Buy Stock](https://dev.to/zeeshanali0704/best-time-to-buy-stock-50h5)
@@ -31,15 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to connect your frontend to Cosmos blockchain](https://dev.to/kikiding/how-to-connect-your-frontend-to-cosmos-blockchain-5fcn)
 - [Lifehacker] [You Really Do Need to Update WhatsApp Right Now](https://lifehacker.com/you-really-do-need-to-update-whatsapp-right-now-1849585597)
 - [Dev.to/JS] [I reduced an npm package size by 50% with minification](https://dev.to/seven/i-reduced-an-npm-package-size-by-50-with-minification-2a6e)
-- [Dev.to/JS] [Display Hello World on Screen in React Native](https://dev.to/reactnative/display-hello-world-on-screen-in-react-native-4m57)
 - [Lifehacker] [Canva Presentation Shortcuts That You Don&#39;t Know, But Should](https://lifehacker.com/canva-presentation-shortcuts-that-you-dont-know-but-sh-1849585901)
-- [Dev.to/JS] [Adding more functionalities](https://dev.to/ririio/adding-more-functionalities-40b9)
-- [Dev.to/JS] [How To Pass Arguments To The Vuex Getters](https://dev.to/coderdal/how-to-pass-arguments-to-the-vuex-getters-1dkk)
 - [Lifehacker] [You Need to Make These Savory Crumpets](https://lifehacker.com/you-need-to-make-these-savory-crumpets-1849585719)
 - [Lifehacker] [Everything You Should Do Early to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)
-- [Dev.to/JS] [Monorepos: sharding Jest in CI](https://dev.to/hotjar/monorepos-sharding-jest-in-ci-47bc)
-- [Dev.to/JS] [React Key - Not Only In map](https://dev.to/danielbellmas/react-key-not-only-in-map-2d7e)
-- [Dev.to/JS] [Usando --amend](https://dev.to/danielsuarezdev/usando-amend-c4d)
 - [Lifehacker] [What Is Tax-Loss Harvesting &lpar;and Who Does It Benefit&rpar;?](https://lifehacker.com/what-is-tax-loss-harvesting-and-who-does-it-benefit-1849583091)
 - [Lifehacker] [Throw Out This Bacon, Sausage, and Other Meat, Department of Agriculture Says](https://lifehacker.com/throw-out-this-bacon-sausage-and-other-meat-departme-1849585203)
 - [Lifehacker] [Five Ways to Make Your Apple Watch Better for Running](https://lifehacker.com/five-ways-to-make-your-apple-watch-better-for-running-1849585154)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Next Cheesecake in an Air Fryer](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857)
 - [Lifehacker] [Microsoft Has a New Trick for Keeping Your Password Safe](https://lifehacker.com/microsoft-has-a-new-trick-for-keeping-your-password-saf-1849580498)
 - [Lifehacker] [Five of the Best Fall Trips and Activities in the U.S.](https://lifehacker.com/five-of-the-best-fall-trips-and-activities-in-the-u-s-1849581341)
-- [Lifehacker] [How You&#39;re Killing Birds &lpar;and How to Stop&rpar;](https://lifehacker.com/how-youre-killing-birds-and-how-to-stop-1849581264)
-- [Lifehacker] [10 of the Best Indie Podcasts You&#39;ve Never Heard Of](https://lifehacker.com/10-of-the-best-indie-podcasts-youve-never-heard-of-1849573520)
-- [Lifehacker] [You Should Make Your Sliding Glass Door More Secure](https://lifehacker.com/you-should-make-your-sliding-glass-door-more-secure-1849579650)
-- [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How You&#39;re Killing Birds &lpar;and How to Stop&rpar;](https://lifehacker.com/how-youre-killing-birds-and-how-to-stop-1849581264)<!-- TECH-POSTS:END -->
 
 ---
 
