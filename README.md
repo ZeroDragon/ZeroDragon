@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working in multiple branches - git](https://dev.to/mnosov622/working-in-multiple-branches-git-2kl9)
+- [Dev.to/JS] [JavaScript General Use Full Number Methods and Properties.](https://dev.to/aliegotha/javascript-general-use-full-number-methods-and-properties-20a2)
 - [Dev.to/JS] [Javascript: Searching a String containing parenthesis](https://dev.to/zak100/javascript-searching-a-string-containing-parenthesis-3pij)
 - [Dev.to/JS] [Time Needed to Buy Tickets](https://dev.to/zeeshanali0704/time-needed-to-buy-tickets-14ae)
 - [Dev.to/JS] [Baseball Game](https://dev.to/zeeshanali0704/baseball-game-na1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to solve the problem of invalid configuration file package prompted by the error in the launched App Store?](https://dev.to/junny521222/how-to-solve-the-problem-of-invalid-configuration-file-package-prompted-by-the-error-in-the-launched-app-store-2nb8)
 - [Dev.to/JS] [JavaScript Tips💡](https://dev.to/ugboma/javascript-tips-2mof)
 - [Dev.to/JS] [How to remove accent marks in a string using vanilla Javascript](https://dev.to/luispa/how-to-remove-accent-marks-in-a-string-using-vanilla-javascript-c60)
-- [Dev.to/JS] [3 Quick Tips - Returning to the World of Code](https://dev.to/salthedev/3-quick-tips-returning-to-the-world-of-code-52jh)
-- [Dev.to/JS] [React Global State - Looking for advise](https://dev.to/anxiny/react-global-state-looking-for-advise-147k)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
