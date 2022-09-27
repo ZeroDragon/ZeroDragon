@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to solve the problem of invalid configuration file package prompted by the error in the launched App Store?](https://dev.to/junny521222/how-to-solve-the-problem-of-invalid-configuration-file-package-prompted-by-the-error-in-the-launched-app-store-2nb8)
+- [Dev.to/JS] [JavaScript Tips💡](https://dev.to/ugboma/javascript-tips-2mof)
 - [Dev.to/JS] [How to remove accent marks in a string using vanilla Javascript](https://dev.to/luispa/how-to-remove-accent-marks-in-a-string-using-vanilla-javascript-c60)
 - [Dev.to/JS] [3 Quick Tips - Returning to the World of Code](https://dev.to/salthedev/3-quick-tips-returning-to-the-world-of-code-52jh)
 - [Dev.to/JS] [React Global State - Looking for advise](https://dev.to/anxiny/react-global-state-looking-for-advise-147k)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Journey Into Tech](https://dev.to/isaacetor/my-journey-into-tech-4p1)
 - [Lifehacker] [Is BeReal Safe?](https://lifehacker.com/is-bereal-safe-1849582284)
 - [Dev.to/JS] [Microsoft Homepage Clone in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/microsoft-homepage-clone-in-html-css-and-javascript-3gif)
-- [Dev.to/JS] [Destructuring assignment in javascript](https://dev.to/kaziusan/destructuring-assignment-in-javascript-2a4h)
-- [Dev.to/JS] [Adding IPFS to my JavaScript OS](https://dev.to/dustinbrett/adding-ipfs-to-my-javascript-os-14ag)
 - [Lifehacker] [Air Fry Your Frozen Shrimp Without Thawing Them First](https://lifehacker.com/air-fry-your-frozen-shrimp-without-thawing-them-first-1849582470)
 - [Lifehacker] [The Psychological Mind Tricks That Actually Work](https://lifehacker.com/the-psychological-mind-tricks-that-actually-work-1849581208)
 - [Lifehacker] [Avoid These Mistakes When You Cancel Travel Plans](https://lifehacker.com/avoid-these-mistakes-when-you-cancel-travel-plans-1849581939)
