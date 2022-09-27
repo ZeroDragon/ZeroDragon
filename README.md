@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useState and useEffect ?](https://dev.to/bachankubi/usestate-and-useeffect--38o7)
+- [Dev.to/JS] [Can anyone provide an animation on the Node.js Event Loop?](https://dev.to/nxpy123/can-anyone-provide-an-animation-on-the-nodejs-event-loop-28kg)
+- [Dev.to/JS] [I Built a Voice Assistant ~ Simulated Artificial Intelligence 🤔](https://dev.to/patrickweb/i-built-a-voice-assistant-simulated-artificial-intelligence-4ih)
 - [Dev.to/JS] [How to solve the problem of invalid configuration file package prompted by the error in the launched App Store?](https://dev.to/junny521222/how-to-solve-the-problem-of-invalid-configuration-file-package-prompted-by-the-error-in-the-launched-app-store-2nb8)
 - [Dev.to/JS] [JavaScript Tips💡](https://dev.to/ugboma/javascript-tips-2mof)
 - [Dev.to/JS] [How to remove accent marks in a string using vanilla Javascript](https://dev.to/luispa/how-to-remove-accent-marks-in-a-string-using-vanilla-javascript-c60)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom wheel of prize with canvas](https://dev.to/sababg/custom-wheel-of-prize-with-canvas-589h)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
-- [Dev.to/JS] [How and when to use React Context](https://dev.to/dayvster/how-and-when-to-use-react-context-19j0)
-- [Dev.to/JS] [My Journey Into Tech](https://dev.to/isaacetor/my-journey-into-tech-4p1)
 - [Lifehacker] [Is BeReal Safe?](https://lifehacker.com/is-bereal-safe-1849582284)
-- [Dev.to/JS] [Microsoft Homepage Clone in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/microsoft-homepage-clone-in-html-css-and-javascript-3gif)
 - [Lifehacker] [Air Fry Your Frozen Shrimp Without Thawing Them First](https://lifehacker.com/air-fry-your-frozen-shrimp-without-thawing-them-first-1849582470)
 - [Lifehacker] [The Psychological Mind Tricks That Actually Work](https://lifehacker.com/the-psychological-mind-tricks-that-actually-work-1849581208)
 - [Lifehacker] [Avoid These Mistakes When You Cancel Travel Plans](https://lifehacker.com/avoid-these-mistakes-when-you-cancel-travel-plans-1849581939)
