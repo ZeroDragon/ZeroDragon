@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction à React: #1 - Initialisation de mon premier projet](https://dev.to/sidali/introduction-a-react-1-initialisation-de-mon-premier-projet-401i)
+- [Dev.to/JS] [A Complete Guide to Javascript Maps](https://dev.to/smpnjn/a-complete-guide-to-javascript-maps-1162)
+- [Lifehacker] [How to File a FOIA Request &lpar;and the Dirt It Can Help You Find&rpar;](https://lifehacker.com/how-to-file-a-foia-request-and-the-dirt-it-can-help-yo-1849586091)
+- [Dev.to/JS] [Modern React Tutorials online for free!](https://dev.to/bsqqq/modern-react-tutorials-online-for-free-3cbi)
+- [Lifehacker] [You Really Should Use More White Pepper](https://lifehacker.com/you-really-should-use-more-white-pepper-1849587399)
 - [Lifehacker] [What Is a &#39;Normal&#39; Body Count?](https://lifehacker.com/what-is-a-normal-body-count-1849586649)
 - [Dev.to/JS] [Merging on GitHub](https://dev.to/lostbutton/merging-on-github-24e9)
 - [Dev.to/JS] [Hotel Booking App Using The MERN Stack With TypeScript](https://dev.to/said_mounaim/hotel-booking-app-using-the-mern-stack-with-typescript-1oeh)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [is HeapSort fast?](https://dev.to/mallchel/is-heapsort-fast-2mjl)
 - [Dev.to/JS] [Why learning about Event Listeners &amp; APIs in Javascript will only excite new upcoming developers.](https://dev.to/anthonyrodriguezjpm/why-learning-about-event-listeners-apis-in-javascript-will-only-excite-new-upcoming-developers-89h)
 - [Dev.to/JS] [Arrow functions in JavaScript](https://dev.to/moazamdev/arrow-functions-in-javascript-2346)
-- [Dev.to/JS] [An introduction to full stack JavaScript development](https://dev.to/educative/an-introduction-to-full-stack-javascript-development-41dn)
 - [Lifehacker] [How Does Student Loan Forgiveness Affect Your Credit Score?](https://lifehacker.com/how-does-student-loan-forgiveness-affect-your-credit-sc-1849586487)
-- [Dev.to/JS] [Iphone 14 Pro Max HTML CSS &amp; JavaScript Free Download](https://dev.to/zubairkhokhar/iphone-14-pro-max-html-css-javascript-free-download-3ip0)
-- [Dev.to/JS] [JavaScript Template Literals](https://dev.to/mursalfk/javascript-template-literals-49kg)
 - [Lifehacker] [‘Plow’ Your Leaves With Cardboard](https://lifehacker.com/plow-your-leaves-with-cardboard-1849586080)
 - [Lifehacker] [You Really Do Need to Update WhatsApp Right Now](https://lifehacker.com/you-really-do-need-to-update-whatsapp-right-now-1849585597)
 - [Lifehacker] [Canva Presentation Shortcuts That You Don&#39;t Know, But Should](https://lifehacker.com/canva-presentation-shortcuts-that-you-dont-know-but-sh-1849585901)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Mistakes When You Cancel Travel Plans](https://lifehacker.com/avoid-these-mistakes-when-you-cancel-travel-plans-1849581939)
 - [Lifehacker] [This Is Why Personal Finance Gurus Can Never Be Trusted](https://lifehacker.com/this-is-why-personal-finance-gurus-can-never-be-trusted-1849581492)
 - [Lifehacker] [9 Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-youre-not-cleaning-in-your-washing-machine-bu-1849581856)
-- [Lifehacker] [Make Your Next Cheesecake in an Air Fryer](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857)
-- [Lifehacker] [Microsoft Has a New Trick for Keeping Your Password Safe](https://lifehacker.com/microsoft-has-a-new-trick-for-keeping-your-password-saf-1849580498)
-- [Lifehacker] [Five of the Best Fall Trips and Activities in the U.S.](https://lifehacker.com/five-of-the-best-fall-trips-and-activities-in-the-u-s-1849581341)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Your Next Cheesecake in an Air Fryer](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857)<!-- TECH-POSTS:END -->
 
 ---
 
