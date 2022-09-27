@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to remove accent marks in a string using vanilla Javascript](https://dev.to/luispa/how-to-remove-accent-marks-in-a-string-using-vanilla-javascript-c60)
+- [Dev.to/JS] [3 Quick Tips - Returning to the World of Code](https://dev.to/salthedev/3-quick-tips-returning-to-the-world-of-code-52jh)
+- [Dev.to/JS] [React Global State - Looking for advise](https://dev.to/anxiny/react-global-state-looking-for-advise-147k)
+- [Dev.to/JS] [The DOM Interfaces](https://dev.to/eteimz/the-dom-interfaces-5eon)
 - [Dev.to/JS] [How to convert a PDF to an image using Nodejs](https://dev.to/ilyeselmajouti/how-to-convert-a-pdf-to-an-image-using-nodejs-1953)
 - [Dev.to/JS] [Introduction à React: #0 - Je me justifie rarement, mais pour toi je le fais &lpar;c&#39;est beau hein&rpar;](https://dev.to/sidali/introduction-a-react-0-je-me-justifie-rarement-mais-pour-toi-je-le-fais-cest-beau-hein-4dni)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
@@ -38,15 +42,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Air Fry Your Frozen Shrimp Without Thawing Them First](https://lifehacker.com/air-fry-your-frozen-shrimp-without-thawing-them-first-1849582470)
 - [Lifehacker] [The Psychological Mind Tricks That Actually Work](https://lifehacker.com/the-psychological-mind-tricks-that-actually-work-1849581208)
 - [Lifehacker] [Avoid These Mistakes When You Cancel Travel Plans](https://lifehacker.com/avoid-these-mistakes-when-you-cancel-travel-plans-1849581939)
-- [Dev.to/JS] [Método de Arreglos: Array.every y Array.some](https://dev.to/matiasfha/metodo-de-arreglos-arrayevery-y-arraysome-35lb)
 - [Lifehacker] [This Is Why Personal Finance Gurus Can Never Be Trusted](https://lifehacker.com/this-is-why-personal-finance-gurus-can-never-be-trusted-1849581492)
 - [Lifehacker] [9 Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-youre-not-cleaning-in-your-washing-machine-bu-1849581856)
 - [Lifehacker] [Make Your Next Cheesecake in an Air Fryer](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857)
-- [Dev.to/JS] [How to extend HTML elements with React](https://dev.to/douglasdemoura/how-to-extend-html-elements-with-react-4peb)
-- [Dev.to/JS] [How to build your website at super-sonic speed with Astro.](https://dev.to/replayable/getting-started-with-astro-on-windows-4h04)
 - [Lifehacker] [Microsoft Has a New Trick for Keeping Your Password Safe](https://lifehacker.com/microsoft-has-a-new-trick-for-keeping-your-password-saf-1849580498)
 - [Lifehacker] [Five of the Best Fall Trips and Activities in the U.S.](https://lifehacker.com/five-of-the-best-fall-trips-and-activities-in-the-u-s-1849581341)
-- [Dev.to/JS] [Getters/Setters to control access to an object &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/getterssetters-to-control-access-to-an-object-freecodecamp-notes-1g6p)
 - [Lifehacker] [How You&#39;re Killing Birds &lpar;and How to Stop&rpar;](https://lifehacker.com/how-youre-killing-birds-and-how-to-stop-1849581264)
 - [Lifehacker] [10 of the Best Indie Podcasts You&#39;ve Never Heard Of](https://lifehacker.com/10-of-the-best-indie-podcasts-youve-never-heard-of-1849573520)
 - [Lifehacker] [You Should Make Your Sliding Glass Door More Secure](https://lifehacker.com/you-should-make-your-sliding-glass-door-more-secure-1849579650)
