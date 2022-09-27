@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction à React: #2 - Mon premier composant](https://dev.to/sidali/introduction-a-react-1-mon-premier-composant-1emj)
+- [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
+- [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
 - [Dev.to/JS] [Introduction à React: #1 - Initialisation de mon premier projet](https://dev.to/sidali/introduction-a-react-1-initialisation-de-mon-premier-projet-401i)
 - [Dev.to/JS] [A Complete Guide to Javascript Maps](https://dev.to/smpnjn/a-complete-guide-to-javascript-maps-1162)
 - [Lifehacker] [How to File a FOIA Request &lpar;and the Dirt It Can Help You Find&rpar;](https://lifehacker.com/how-to-file-a-foia-request-and-the-dirt-it-can-help-yo-1849586091)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [David Patterson Biography](https://www.thecrazyprogrammer.com/2022/09/david-patterson-biography.html)
 - [Dev.to/JS] [is HeapSort fast?](https://dev.to/mallchel/is-heapsort-fast-2mjl)
 - [Dev.to/JS] [Why learning about Event Listeners &amp; APIs in Javascript will only excite new upcoming developers.](https://dev.to/anthonyrodriguezjpm/why-learning-about-event-listeners-apis-in-javascript-will-only-excite-new-upcoming-developers-89h)
-- [Dev.to/JS] [Arrow functions in JavaScript](https://dev.to/moazamdev/arrow-functions-in-javascript-2346)
 - [Lifehacker] [How Does Student Loan Forgiveness Affect Your Credit Score?](https://lifehacker.com/how-does-student-loan-forgiveness-affect-your-credit-sc-1849586487)
 - [Lifehacker] [‘Plow’ Your Leaves With Cardboard](https://lifehacker.com/plow-your-leaves-with-cardboard-1849586080)
 - [Lifehacker] [You Really Do Need to Update WhatsApp Right Now](https://lifehacker.com/you-really-do-need-to-update-whatsapp-right-now-1849585597)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Air Fry Your Frozen Shrimp Without Thawing Them First](https://lifehacker.com/air-fry-your-frozen-shrimp-without-thawing-them-first-1849582470)
 - [Lifehacker] [The Psychological Mind Tricks That Actually Work](https://lifehacker.com/the-psychological-mind-tricks-that-actually-work-1849581208)
 - [Lifehacker] [Avoid These Mistakes When You Cancel Travel Plans](https://lifehacker.com/avoid-these-mistakes-when-you-cancel-travel-plans-1849581939)
-- [Lifehacker] [This Is Why Personal Finance Gurus Can Never Be Trusted](https://lifehacker.com/this-is-why-personal-finance-gurus-can-never-be-trusted-1849581492)
-- [Lifehacker] [9 Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-youre-not-cleaning-in-your-washing-machine-bu-1849581856)
-- [Lifehacker] [Make Your Next Cheesecake in an Air Fryer](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is Why Personal Finance Gurus Can Never Be Trusted](https://lifehacker.com/this-is-why-personal-finance-gurus-can-never-be-trusted-1849581492)<!-- TECH-POSTS:END -->
 
 ---
 
