@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Games From Randomly Shutting Down Your PC](https://lifehacker.com/how-to-stop-games-from-randomly-shutting-down-your-pc-1849583721)
+- [Dev.to/JS] [Why Can’t I Add Cash To My Cash App? Figure Out Reasons and Determine Solutions](https://dev.to/finnfoster/why-cant-i-add-cash-to-my-cash-app-figure-out-reasons-and-determine-solutions-3be3)
+- [Dev.to/JS] [Create your team on HackSquad and win SWAG! 🤯](https://dev.to/novu/create-your-team-on-hacksquad-and-win-swag-3omn)
+- [Dev.to/JS] [Building NFTs using truffle and revise](https://dev.to/anil_from_revise/building-nfts-using-truffle-and-revise-36n2)
+- [Lifehacker] [How to Know If You Have a Toxic Relationship With Your Sibling](https://lifehacker.com/how-to-know-if-you-have-a-toxic-relationship-with-your-1849581752)
+- [Dev.to/JS] [Compound Components in Angular](https://dev.to/danywalls/compound-components-in-angular-l7m)
+- [Dev.to/JS] [Typescript customized Function handler for exceptions with Node.js and Express.js](https://dev.to/luizcalaca/typescript-customized-function-handler-for-exceptions-with-nodejs-and-expressjs-2onl)
+- [Dev.to/JS] [Developing End-to-End Tests With Selenium 4 And Java: Boni García [Testμ 2022]](https://dev.to/lambdatest/developing-end-to-end-tests-with-selenium-4-and-java-boni-garcia-testm-2022-46n3)
 - [Dev.to/JS] [How to create a &quot;Share to Twitter&quot; button with HTML, CSS &amp; Javascript](https://dev.to/tqbit/how-to-create-a-share-to-twitter-button-with-html-css-javascript-2a9c)
 - [Dev.to/JS] [How to Install Vue CLI on Ubuntu 22.04 - HostnExtra](https://dev.to/hostnextra/how-to-install-vue-cli-on-ubuntu-2204-hostnextra-1e5f)
 - [Dev.to/JS] [SkinCell Advanced &lpar;Au&rpar; - Skin Care Results, Price, Uses And Benefits?](https://dev.to/skincelladvanc8/skincell-advanced-au-skin-care-results-price-uses-and-benefits-j36)
 - [Dev.to/JS] [Fruit Into Baskets](https://dev.to/zeeshanali0704/fruit-into-baskets-247j)
 - [Dev.to/JS] [Explained in 5 Levels of Difficulty: Ecommerce by Medusa](https://dev.to/medusajs/explained-in-5-levels-of-difficulty-ecommerce-by-medusa-47co)
 - [Dev.to/JS] [How To Install Gatsby on Ubuntu 22.04](https://dev.to/hostnextra/how-to-install-gatsby-on-ubuntu-2204-41b6)
-- [Dev.to/JS] [How and when to use React Context](https://dev.to/dayvster/how-and-when-to-use-react-context-29g0)
-- [Dev.to/JS] [Enable Dark Mode For Your Astro Website via CSS Variables](https://dev.to/hr21don/enable-dark-mode-for-your-astro-website-via-css-variables-ohe)
-- [Dev.to/JS] [Understanding Micro Front-ends !!](https://dev.to/kshitij9896/understanding-micro-front-ends--8h7)
-- [Dev.to/JS] [Stories behind Illa Project](https://dev.to/silerncerxyz/stories-behind-illa-project-5b2f)
-- [Dev.to/JS] [Free Comprehensive Webinar: Ways on How to Optimize JavaScript Apps](https://dev.to/ideradevtools/free-comprehensive-webinar-ways-on-how-to-optimize-javascript-apps-lnm)
-- [Dev.to/JS] [Steps for iOS Developers to Submit an Application to Apple App Store](https://dev.to/pankajdas0909/steps-for-ios-developers-to-submit-an-application-to-apple-app-store-34nm)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
 - [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
 - [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
-- [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)
-- [Lifehacker] [Why Your Wifi Router Needs a &#39;Guest Mode&#39;](https://lifehacker.com/why-your-wifi-router-needs-a-guest-mode-1849573880)
-- [Lifehacker] [How to Negotiate With Debt Collectors &lpar;and Why You Always Should&rpar;](https://lifehacker.com/how-to-negotiate-with-debt-collectors-and-why-you-alwa-1849574201)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)<!-- TECH-POSTS:END -->
 
 ---
 
