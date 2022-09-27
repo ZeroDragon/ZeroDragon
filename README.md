@@ -23,23 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Monorepos: sharding Jest in CI](https://dev.to/hotjar/monorepos-sharding-jest-in-ci-47bc)
+- [Dev.to/JS] [React Key - Not Only In map](https://dev.to/danielbellmas/react-key-not-only-in-map-2d7e)
+- [Dev.to/JS] [Usando --amend](https://dev.to/danielsuarezdev/usando-amend-c4d)
+- [Lifehacker] [What Is Tax-Loss Harvesting &lpar;and Who Does It Benefit&rpar;?](https://lifehacker.com/what-is-tax-loss-harvesting-and-who-does-it-benefit-1849583091)
+- [Dev.to/JS] [Upload media to Supabase from remote URL with nodejs](https://dev.to/antoine_m/upload-media-to-supabase-from-remote-url-with-nodejs-5h45)
+- [Dev.to/JS] [Svelte Vs React: Which Is Worst at Present?](https://dev.to/karanrawal/svelte-vs-react-which-is-worst-at-present-13ll)
+- [Dev.to/JS] [Intro to Binning with ArcGIS JavaScript](https://dev.to/odoenet/intro-to-binning-with-arcgis-javascript-3398)
+- [Dev.to/JS] [Ng-News: Episode 22/38](https://dev.to/rainerhahnekamp/ng-news-episode-2238-6np)
+- [Dev.to/JS] [Ng-News: Episode 22/37](https://dev.to/rainerhahnekamp/ng-news-2237-52fc)
+- [Lifehacker] [Throw Out This Bacon, Sausage, and Other Meat, Department of Agriculture Says](https://lifehacker.com/throw-out-this-bacon-sausage-and-other-meat-departme-1849585203)
 - [Dev.to/JS] [Generating Valid Code 128 Barcodes with Javascript](https://dev.to/saulodias/generating-valid-code-128-barcodes-with-javascript-5ana)
 - [Dev.to/JS] [ColorID: 🌈 The unique 4-colors-ID string generator in JavaScript](https://dev.to/meloalright/colorid-the-unique-4-colors-id-string-generator-in-javascript-ghp)
 - [Dev.to/JS] [JavaScript Core Concepts Part 1: Data Types &amp; Variables](https://dev.to/angelinewang/javascript-core-concepts-part-1-data-types-variables-55pj)
 - [Dev.to/JS] [CRUD - React and Google Firebase](https://dev.to/emhat098/crud-react-and-google-firebase-214j)
-- [Dev.to/JS] [How I generate my UI tests](https://dev.to/chrisczopp/how-i-generate-my-ui-tests-2bak)
 - [Lifehacker] [Five Ways to Make Your Apple Watch Better for Running](https://lifehacker.com/five-ways-to-make-your-apple-watch-better-for-running-1849585154)
 - [Lifehacker] [The Dryer Maintenance Tasks You Should Do Every Month](https://lifehacker.com/the-dryer-maintenance-tasks-you-should-do-every-month-1849582598)
-- [Dev.to/JS] [The Capstone.. The Final Project](https://dev.to/jasonian5000/the-capstone-the-final-project-3ff7)
-- [Dev.to/JS] [How to Append Multiple Elements at Once in JavaScript DOM](https://dev.to/dcodeyt/how-to-append-multiple-elements-at-once-in-javascript-dom-39eg)
 - [Lifehacker] [Fentanyl, Razors, and 7 Other Things You Won&#39;t Actually Find in Halloween Candy](https://lifehacker.com/fentanyl-razors-and-7-other-things-you-wont-actually-1849583370)
 - [Lifehacker] [How to Stop Games From Randomly Shutting Down Your PC](https://lifehacker.com/how-to-stop-games-from-randomly-shutting-down-your-pc-1849583721)
-- [Dev.to/JS] [Why Can’t I Add Cash To My Cash App? Figure Out Reasons and Determine Solutions](https://dev.to/finnfoster/why-cant-i-add-cash-to-my-cash-app-figure-out-reasons-and-determine-solutions-3be3)
-- [Dev.to/JS] [Create your team on HackSquad and win SWAG! 🤯](https://dev.to/novu/create-your-team-on-hacksquad-and-win-swag-3omn)
-- [Dev.to/JS] [Building NFTs using truffle and revise](https://dev.to/anil_from_revise/building-nfts-using-truffle-and-revise-36n2)
 - [Lifehacker] [How to Know If You Have a Toxic Relationship With Your Sibling](https://lifehacker.com/how-to-know-if-you-have-a-toxic-relationship-with-your-1849581752)
-- [Dev.to/JS] [Compound Components in Angular](https://dev.to/danywalls/compound-components-in-angular-l7m)
-- [Dev.to/JS] [Typescript customized Function handler for exceptions with Node.js and Express.js](https://dev.to/luizcalaca/typescript-customized-function-handler-for-exceptions-with-nodejs-and-expressjs-2onl)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)
 - [Lifehacker] [8 of the Hardest-to-Clean Materials &lpar;and How to Care for Them&rpar;](https://lifehacker.com/8-of-the-hardest-to-clean-materials-and-how-to-care-fo-1849574636)
 - [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
-- [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
-- [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
-- [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)<!-- TECH-POSTS:END -->
 
 ---
 
