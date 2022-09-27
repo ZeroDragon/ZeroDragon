@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stories behind Illa Project](https://dev.to/silerncerxyz/stories-behind-illa-project-5b2f)
+- [Dev.to/JS] [Free Comprehensive Webinar: Ways on How to Optimize JavaScript Apps](https://dev.to/ideradevtools/free-comprehensive-webinar-ways-on-how-to-optimize-javascript-apps-lnm)
 - [Dev.to/JS] [Steps for iOS Developers to Submit an Application to Apple App Store](https://dev.to/pankajdas0909/steps-for-ios-developers-to-submit-an-application-to-apple-app-store-34nm)
 - [Dev.to/JS] [Working in multiple branches - git](https://dev.to/mnosov622/working-in-multiple-branches-git-2kl9)
 - [Dev.to/JS] [JavaScript General Use Full Number Methods and Properties.](https://dev.to/aliegotha/javascript-general-use-full-number-methods-and-properties-20a2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useState and useEffect ?](https://dev.to/bachankubi/usestate-and-useeffect--38o7)
 - [Dev.to/JS] [Can anyone provide an animation on the Node.js Event Loop?](https://dev.to/nxpy123/can-anyone-provide-an-animation-on-the-nodejs-event-loop-28kg)
 - [Dev.to/JS] [I Built a Voice Assistant ~ Simulated Artificial Intelligence 🤔](https://dev.to/patrickweb/i-built-a-voice-assistant-simulated-artificial-intelligence-4ih)
-- [Dev.to/JS] [How to solve the problem of invalid configuration file package prompted by the error in the launched App Store?](https://dev.to/junny521222/how-to-solve-the-problem-of-invalid-configuration-file-package-prompted-by-the-error-in-the-launched-app-store-2nb8)
-- [Dev.to/JS] [JavaScript Tips💡](https://dev.to/ugboma/javascript-tips-2mof)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
