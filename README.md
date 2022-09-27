@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generating Valid Code 128 Barcodes with Javascript](https://dev.to/saulodias/generating-valid-code-128-barcodes-with-javascript-5ana)
+- [Dev.to/JS] [ColorID: 🌈 The unique 4-colors-ID string generator in JavaScript](https://dev.to/meloalright/colorid-the-unique-4-colors-id-string-generator-in-javascript-ghp)
+- [Dev.to/JS] [JavaScript Core Concepts Part 1: Data Types &amp; Variables](https://dev.to/angelinewang/javascript-core-concepts-part-1-data-types-variables-55pj)
+- [Dev.to/JS] [CRUD - React and Google Firebase](https://dev.to/emhat098/crud-react-and-google-firebase-214j)
+- [Dev.to/JS] [How I generate my UI tests](https://dev.to/chrisczopp/how-i-generate-my-ui-tests-2bak)
+- [Lifehacker] [Five Ways to Make Your Apple Watch Better for Running](https://lifehacker.com/five-ways-to-make-your-apple-watch-better-for-running-1849585154)
 - [Lifehacker] [The Dryer Maintenance Tasks You Should Do Every Month](https://lifehacker.com/the-dryer-maintenance-tasks-you-should-do-every-month-1849582598)
 - [Dev.to/JS] [The Capstone.. The Final Project](https://dev.to/jasonian5000/the-capstone-the-final-project-3ff7)
 - [Dev.to/JS] [How to Append Multiple Elements at Once in JavaScript DOM](https://dev.to/dcodeyt/how-to-append-multiple-elements-at-once-in-javascript-dom-39eg)
@@ -34,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know If You Have a Toxic Relationship With Your Sibling](https://lifehacker.com/how-to-know-if-you-have-a-toxic-relationship-with-your-1849581752)
 - [Dev.to/JS] [Compound Components in Angular](https://dev.to/danywalls/compound-components-in-angular-l7m)
 - [Dev.to/JS] [Typescript customized Function handler for exceptions with Node.js and Express.js](https://dev.to/luizcalaca/typescript-customized-function-handler-for-exceptions-with-nodejs-and-expressjs-2onl)
-- [Dev.to/JS] [Developing End-to-End Tests With Selenium 4 And Java: Boni García [Testμ 2022]](https://dev.to/lambdatest/developing-end-to-end-tests-with-selenium-4-and-java-boni-garcia-testm-2022-46n3)
-- [Dev.to/JS] [How to create a &quot;Share to Twitter&quot; button with HTML, CSS &amp; Javascript](https://dev.to/tqbit/how-to-create-a-share-to-twitter-button-with-html-css-javascript-2a9c)
-- [Dev.to/JS] [How to Install Vue CLI on Ubuntu 22.04 - HostnExtra](https://dev.to/hostnextra/how-to-install-vue-cli-on-ubuntu-2204-hostnextra-1e5f)
-- [Dev.to/JS] [SkinCell Advanced &lpar;Au&rpar; - Skin Care Results, Price, Uses And Benefits?](https://dev.to/skincelladvanc8/skincell-advanced-au-skin-care-results-price-uses-and-benefits-j36)
-- [Dev.to/JS] [Fruit Into Baskets](https://dev.to/zeeshanali0704/fruit-into-baskets-247j)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
-- [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
-- [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)<!-- TECH-POSTS:END -->
 
 ---
 
