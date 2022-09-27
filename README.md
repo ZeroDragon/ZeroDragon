@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9 Tips to Write Better Vue Components](https://dev.to/tahazsh/9-tips-to-write-better-vue-components-41j6)
+- [Lifehacker] [‘Plow’ Your Leaves With Cardboard](https://lifehacker.com/plow-your-leaves-with-cardboard-1849586080)
+- [Dev.to/JS] [Best Time To Buy Stock](https://dev.to/zeeshanali0704/best-time-to-buy-stock-50h5)
+- [Dev.to/JS] [Learn Webpack](https://dev.to/pldg/learn-webpack-2n6i)
+- [Dev.to/JS] [Offline Form in HTML and CSS Javascript](https://dev.to/zubairkhokhar/offline-form-in-html-and-css-javascript-3jli)
+- [Dev.to/JS] [How to connect your frontend to Cosmos blockchain](https://dev.to/kikiding/how-to-connect-your-frontend-to-cosmos-blockchain-5fcn)
+- [Lifehacker] [You Really Do Need to Update WhatsApp Right Now](https://lifehacker.com/you-really-do-need-to-update-whatsapp-right-now-1849585597)
+- [Dev.to/JS] [I reduced an npm package size by 50% with minification](https://dev.to/seven/i-reduced-an-npm-package-size-by-50-with-minification-2a6e)
+- [Dev.to/JS] [Display Hello World on Screen in React Native](https://dev.to/reactnative/display-hello-world-on-screen-in-react-native-4m57)
 - [Lifehacker] [Canva Presentation Shortcuts That You Don&#39;t Know, But Should](https://lifehacker.com/canva-presentation-shortcuts-that-you-dont-know-but-sh-1849585901)
 - [Dev.to/JS] [Adding more functionalities](https://dev.to/ririio/adding-more-functionalities-40b9)
 - [Dev.to/JS] [How To Pass Arguments To The Vuex Getters](https://dev.to/coderdal/how-to-pass-arguments-to-the-vuex-getters-1dkk)
@@ -32,14 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Key - Not Only In map](https://dev.to/danielbellmas/react-key-not-only-in-map-2d7e)
 - [Dev.to/JS] [Usando --amend](https://dev.to/danielsuarezdev/usando-amend-c4d)
 - [Lifehacker] [What Is Tax-Loss Harvesting &lpar;and Who Does It Benefit&rpar;?](https://lifehacker.com/what-is-tax-loss-harvesting-and-who-does-it-benefit-1849583091)
-- [Dev.to/JS] [Upload media to Supabase from remote URL with nodejs](https://dev.to/antoine_m/upload-media-to-supabase-from-remote-url-with-nodejs-5h45)
-- [Dev.to/JS] [Svelte Vs React: Which Is Worst at Present?](https://dev.to/karanrawal/svelte-vs-react-which-is-worst-at-present-13ll)
-- [Dev.to/JS] [Intro to Binning with ArcGIS JavaScript](https://dev.to/odoenet/intro-to-binning-with-arcgis-javascript-3398)
-- [Dev.to/JS] [Ng-News: Episode 22/38](https://dev.to/rainerhahnekamp/ng-news-episode-2238-6np)
-- [Dev.to/JS] [Ng-News: Episode 22/37](https://dev.to/rainerhahnekamp/ng-news-2237-52fc)
 - [Lifehacker] [Throw Out This Bacon, Sausage, and Other Meat, Department of Agriculture Says](https://lifehacker.com/throw-out-this-bacon-sausage-and-other-meat-departme-1849585203)
-- [Dev.to/JS] [Generating Valid Code 128 Barcodes with Javascript](https://dev.to/saulodias/generating-valid-code-128-barcodes-with-javascript-5ana)
-- [Dev.to/JS] [ColorID: 🌈 The unique 4-colors-ID string generator in JavaScript](https://dev.to/meloalright/colorid-the-unique-4-colors-id-string-generator-in-javascript-ghp)
 - [Lifehacker] [Five Ways to Make Your Apple Watch Better for Running](https://lifehacker.com/five-ways-to-make-your-apple-watch-better-for-running-1849585154)
 - [Lifehacker] [The Dryer Maintenance Tasks You Should Do Every Month](https://lifehacker.com/the-dryer-maintenance-tasks-you-should-do-every-month-1849582598)
 - [Lifehacker] [Fentanyl, Razors, and 7 Other Things You Won&#39;t Actually Find in Halloween Candy](https://lifehacker.com/fentanyl-razors-and-7-other-things-you-wont-actually-1849583370)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How You&#39;re Killing Birds &lpar;and How to Stop&rpar;](https://lifehacker.com/how-youre-killing-birds-and-how-to-stop-1849581264)
 - [Lifehacker] [10 of the Best Indie Podcasts You&#39;ve Never Heard Of](https://lifehacker.com/10-of-the-best-indie-podcasts-youve-never-heard-of-1849573520)
 - [Lifehacker] [You Should Make Your Sliding Glass Door More Secure](https://lifehacker.com/you-should-make-your-sliding-glass-door-more-secure-1849579650)
-- [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)
-- [Lifehacker] [The 7 Deadly Sins of Giving a Speech](https://lifehacker.com/the-7-deadly-sins-of-giving-a-speech-1849576442)
-- [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)<!-- TECH-POSTS:END -->
 
 ---
 
