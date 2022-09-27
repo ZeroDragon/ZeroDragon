@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Install Gatsby on Ubuntu 22.04](https://dev.to/hostnextra/how-to-install-gatsby-on-ubuntu-2204-41b6)
+- [Dev.to/JS] [How and when to use React Context](https://dev.to/dayvster/how-and-when-to-use-react-context-29g0)
+- [Dev.to/JS] [Enable Dark Mode For Your Astro Website via CSS Variables](https://dev.to/hr21don/enable-dark-mode-for-your-astro-website-via-css-variables-ohe)
 - [Dev.to/JS] [Understanding Micro Front-ends !!](https://dev.to/kshitij9896/understanding-micro-front-ends--8h7)
 - [Dev.to/JS] [Stories behind Illa Project](https://dev.to/silerncerxyz/stories-behind-illa-project-5b2f)
 - [Dev.to/JS] [Free Comprehensive Webinar: Ways on How to Optimize JavaScript Apps](https://dev.to/ideradevtools/free-comprehensive-webinar-ways-on-how-to-optimize-javascript-apps-lnm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript: Searching a String containing parenthesis](https://dev.to/zak100/javascript-searching-a-string-containing-parenthesis-3pij)
 - [Dev.to/JS] [Time Needed to Buy Tickets](https://dev.to/zeeshanali0704/time-needed-to-buy-tickets-14ae)
 - [Dev.to/JS] [Baseball Game](https://dev.to/zeeshanali0704/baseball-game-na1)
-- [Dev.to/JS] [Clickable Area of a Button](https://dev.to/ayako_yk/clickable-area-of-a-button-2n8f)
-- [Dev.to/JS] [useState and useEffect ?](https://dev.to/bachankubi/usestate-and-useeffect--38o7)
-- [Dev.to/JS] [Can anyone provide an animation on the Node.js Event Loop?](https://dev.to/nxpy123/can-anyone-provide-an-animation-on-the-nodejs-event-loop-28kg)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
