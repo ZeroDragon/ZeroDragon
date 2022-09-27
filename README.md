@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Canva Presentation Shortcuts That You Don&#39;t Know, But Should](https://lifehacker.com/canva-presentation-shortcuts-that-you-dont-know-but-sh-1849585901)
+- [Dev.to/JS] [Adding more functionalities](https://dev.to/ririio/adding-more-functionalities-40b9)
+- [Dev.to/JS] [How To Pass Arguments To The Vuex Getters](https://dev.to/coderdal/how-to-pass-arguments-to-the-vuex-getters-1dkk)
+- [Lifehacker] [You Need to Make These Savory Crumpets](https://lifehacker.com/you-need-to-make-these-savory-crumpets-1849585719)
+- [Lifehacker] [Everything You Should Do Early to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)
 - [Dev.to/JS] [Monorepos: sharding Jest in CI](https://dev.to/hotjar/monorepos-sharding-jest-in-ci-47bc)
 - [Dev.to/JS] [React Key - Not Only In map](https://dev.to/danielbellmas/react-key-not-only-in-map-2d7e)
 - [Dev.to/JS] [Usando --amend](https://dev.to/danielsuarezdev/usando-amend-c4d)
@@ -35,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Out This Bacon, Sausage, and Other Meat, Department of Agriculture Says](https://lifehacker.com/throw-out-this-bacon-sausage-and-other-meat-departme-1849585203)
 - [Dev.to/JS] [Generating Valid Code 128 Barcodes with Javascript](https://dev.to/saulodias/generating-valid-code-128-barcodes-with-javascript-5ana)
 - [Dev.to/JS] [ColorID: 🌈 The unique 4-colors-ID string generator in JavaScript](https://dev.to/meloalright/colorid-the-unique-4-colors-id-string-generator-in-javascript-ghp)
-- [Dev.to/JS] [JavaScript Core Concepts Part 1: Data Types &amp; Variables](https://dev.to/angelinewang/javascript-core-concepts-part-1-data-types-variables-55pj)
-- [Dev.to/JS] [CRUD - React and Google Firebase](https://dev.to/emhat098/crud-react-and-google-firebase-214j)
 - [Lifehacker] [Five Ways to Make Your Apple Watch Better for Running](https://lifehacker.com/five-ways-to-make-your-apple-watch-better-for-running-1849585154)
 - [Lifehacker] [The Dryer Maintenance Tasks You Should Do Every Month](https://lifehacker.com/the-dryer-maintenance-tasks-you-should-do-every-month-1849582598)
 - [Lifehacker] [Fentanyl, Razors, and 7 Other Things You Won&#39;t Actually Find in Halloween Candy](https://lifehacker.com/fentanyl-razors-and-7-other-things-you-wont-actually-1849583370)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Your Sliding Glass Door More Secure](https://lifehacker.com/you-should-make-your-sliding-glass-door-more-secure-1849579650)
 - [Lifehacker] [How to Help Your Child Cope With Losing](https://lifehacker.com/how-to-help-your-child-cope-with-losing-1849579155)
 - [Lifehacker] [The 7 Deadly Sins of Giving a Speech](https://lifehacker.com/the-7-deadly-sins-of-giving-a-speech-1849576442)
-- [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)
-- [Lifehacker] [8 of the Hardest-to-Clean Materials &lpar;and How to Care for Them&rpar;](https://lifehacker.com/8-of-the-hardest-to-clean-materials-and-how-to-care-fo-1849574636)
-- [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
-- [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Add Some Pickles to Your Cheese Crisps](https://lifehacker.com/add-some-pickles-to-your-cheese-crisps-1849575176)<!-- TECH-POSTS:END -->
 
 ---
 
