@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Time Needed to Buy Tickets](https://dev.to/zeeshanali0704/time-needed-to-buy-tickets-14ae)
+- [Dev.to/JS] [Baseball Game](https://dev.to/zeeshanali0704/baseball-game-na1)
+- [Dev.to/JS] [Clickable Area of a Button](https://dev.to/ayako_yk/clickable-area-of-a-button-2n8f)
 - [Dev.to/JS] [useState and useEffect ?](https://dev.to/bachankubi/usestate-and-useeffect--38o7)
 - [Dev.to/JS] [Can anyone provide an animation on the Node.js Event Loop?](https://dev.to/nxpy123/can-anyone-provide-an-animation-on-the-nodejs-event-loop-28kg)
 - [Dev.to/JS] [I Built a Voice Assistant ~ Simulated Artificial Intelligence 🤔](https://dev.to/patrickweb/i-built-a-voice-assistant-simulated-artificial-intelligence-4ih)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Quick Tips - Returning to the World of Code](https://dev.to/salthedev/3-quick-tips-returning-to-the-world-of-code-52jh)
 - [Dev.to/JS] [React Global State - Looking for advise](https://dev.to/anxiny/react-global-state-looking-for-advise-147k)
 - [Dev.to/JS] [The DOM Interfaces](https://dev.to/eteimz/the-dom-interfaces-5eon)
-- [Dev.to/JS] [How to convert a PDF to an image using Nodejs](https://dev.to/ilyeselmajouti/how-to-convert-a-pdf-to-an-image-using-nodejs-1953)
-- [Dev.to/JS] [Introduction à React: #0 - Je me justifie rarement, mais pour toi je le fais &lpar;c&#39;est beau hein&rpar;](https://dev.to/sidali/introduction-a-react-0-je-me-justifie-rarement-mais-pour-toi-je-le-fais-cest-beau-hein-4dni)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
-- [Dev.to/JS] [Custom wheel of prize with canvas](https://dev.to/sababg/custom-wheel-of-prize-with-canvas-589h)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
 - [Lifehacker] [Is BeReal Safe?](https://lifehacker.com/is-bereal-safe-1849582284)
