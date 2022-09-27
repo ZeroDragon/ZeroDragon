@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Dryer Maintenance Tasks You Should Do Every Month](https://lifehacker.com/the-dryer-maintenance-tasks-you-should-do-every-month-1849582598)
+- [Dev.to/JS] [The Capstone.. The Final Project](https://dev.to/jasonian5000/the-capstone-the-final-project-3ff7)
+- [Dev.to/JS] [How to Append Multiple Elements at Once in JavaScript DOM](https://dev.to/dcodeyt/how-to-append-multiple-elements-at-once-in-javascript-dom-39eg)
+- [Lifehacker] [Fentanyl, Razors, and 7 Other Things You Won&#39;t Actually Find in Halloween Candy](https://lifehacker.com/fentanyl-razors-and-7-other-things-you-wont-actually-1849583370)
 - [Lifehacker] [How to Stop Games From Randomly Shutting Down Your PC](https://lifehacker.com/how-to-stop-games-from-randomly-shutting-down-your-pc-1849583721)
 - [Dev.to/JS] [Why Can’t I Add Cash To My Cash App? Figure Out Reasons and Determine Solutions](https://dev.to/finnfoster/why-cant-i-add-cash-to-my-cash-app-figure-out-reasons-and-determine-solutions-3be3)
 - [Dev.to/JS] [Create your team on HackSquad and win SWAG! 🤯](https://dev.to/novu/create-your-team-on-hacksquad-and-win-swag-3omn)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Install Vue CLI on Ubuntu 22.04 - HostnExtra](https://dev.to/hostnextra/how-to-install-vue-cli-on-ubuntu-2204-hostnextra-1e5f)
 - [Dev.to/JS] [SkinCell Advanced &lpar;Au&rpar; - Skin Care Results, Price, Uses And Benefits?](https://dev.to/skincelladvanc8/skincell-advanced-au-skin-care-results-price-uses-and-benefits-j36)
 - [Dev.to/JS] [Fruit Into Baskets](https://dev.to/zeeshanali0704/fruit-into-baskets-247j)
-- [Dev.to/JS] [Explained in 5 Levels of Difficulty: Ecommerce by Medusa](https://dev.to/medusajs/explained-in-5-levels-of-difficulty-ecommerce-by-medusa-47co)
-- [Dev.to/JS] [How To Install Gatsby on Ubuntu 22.04](https://dev.to/hostnextra/how-to-install-gatsby-on-ubuntu-2204-41b6)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Shop on TikTok Without Overpaying](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
 - [Lifehacker] [Leave Your Fall Garden Alone](https://lifehacker.com/leave-your-fall-garden-alone-1849575842)
 - [Lifehacker] [How to Get Your Dog to Stop Barking at the Mail Carrier](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
-- [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)
-- [Lifehacker] [How to Respond to People Who Constantly Talk Over You](https://lifehacker.com/how-to-respond-to-people-who-constantly-talk-over-you-1849575904)
-- [Lifehacker] [The Best National Coffee Day Deals This Year](https://lifehacker.com/the-best-national-coffee-day-deals-this-year-1849576080)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Cost Difference Between Using LED and Incandescent Lightbulbs](https://lifehacker.com/the-cost-difference-between-using-led-and-incandescent-1849576073)<!-- TECH-POSTS:END -->
 
 ---
 
