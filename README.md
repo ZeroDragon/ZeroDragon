@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a &quot;Share to Twitter&quot; button with HTML, CSS &amp; Javascript](https://dev.to/tqbit/how-to-create-a-share-to-twitter-button-with-html-css-javascript-2a9c)
+- [Dev.to/JS] [How to Install Vue CLI on Ubuntu 22.04 - HostnExtra](https://dev.to/hostnextra/how-to-install-vue-cli-on-ubuntu-2204-hostnextra-1e5f)
+- [Dev.to/JS] [SkinCell Advanced &lpar;Au&rpar; - Skin Care Results, Price, Uses And Benefits?](https://dev.to/skincelladvanc8/skincell-advanced-au-skin-care-results-price-uses-and-benefits-j36)
+- [Dev.to/JS] [Fruit Into Baskets](https://dev.to/zeeshanali0704/fruit-into-baskets-247j)
+- [Dev.to/JS] [Explained in 5 Levels of Difficulty: Ecommerce by Medusa](https://dev.to/medusajs/explained-in-5-levels-of-difficulty-ecommerce-by-medusa-47co)
 - [Dev.to/JS] [How To Install Gatsby on Ubuntu 22.04](https://dev.to/hostnextra/how-to-install-gatsby-on-ubuntu-2204-41b6)
 - [Dev.to/JS] [How and when to use React Context](https://dev.to/dayvster/how-and-when-to-use-react-context-29g0)
 - [Dev.to/JS] [Enable Dark Mode For Your Astro Website via CSS Variables](https://dev.to/hr21don/enable-dark-mode-for-your-astro-website-via-css-variables-ohe)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stories behind Illa Project](https://dev.to/silerncerxyz/stories-behind-illa-project-5b2f)
 - [Dev.to/JS] [Free Comprehensive Webinar: Ways on How to Optimize JavaScript Apps](https://dev.to/ideradevtools/free-comprehensive-webinar-ways-on-how-to-optimize-javascript-apps-lnm)
 - [Dev.to/JS] [Steps for iOS Developers to Submit an Application to Apple App Store](https://dev.to/pankajdas0909/steps-for-ios-developers-to-submit-an-application-to-apple-app-store-34nm)
-- [Dev.to/JS] [Working in multiple branches - git](https://dev.to/mnosov622/working-in-multiple-branches-git-2kl9)
-- [Dev.to/JS] [JavaScript General Use Full Number Methods and Properties.](https://dev.to/aliegotha/javascript-general-use-full-number-methods-and-properties-20a2)
-- [Dev.to/JS] [Javascript: Searching a String containing parenthesis](https://dev.to/zak100/javascript-searching-a-string-containing-parenthesis-3pij)
-- [Dev.to/JS] [Time Needed to Buy Tickets](https://dev.to/zeeshanali0704/time-needed-to-buy-tickets-14ae)
-- [Dev.to/JS] [Baseball Game](https://dev.to/zeeshanali0704/baseball-game-na1)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
