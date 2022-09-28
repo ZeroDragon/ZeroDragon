@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
+- [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
+- [Dev.to/JS] [Let us Understand D3](https://dev.to/modgil_23/let-us-understand-d3-4dk1)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
 - [Dev.to/JS] [Interactive Animation](https://dev.to/zimlearn/interactive-animation-4n48)
 - [Lifehacker] [When to Use a Legal App &lpar;and When to Hire an Actual Lawyer&rpar;](https://lifehacker.com/when-to-use-a-legal-app-and-when-to-hire-an-actual-law-1849591329)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to install latest version of Zammad on Ubuntu 22.04?](https://dev.to/chetanmittaldev/how-to-install-latest-version-of-zammad-on-ubuntu-2204-5hag)
 - [Lifehacker] [The XBox Accessibility Settings You Aren’t Using, but Should Be](https://lifehacker.com/the-xbox-accessibility-settings-you-aren-t-using-but-s-1849589902)
 - [Lifehacker] [Use This App to Block Ads and Reels From Instagram](https://lifehacker.com/use-this-app-to-block-ads-and-reels-from-instagram-1849586357)
-- [Dev.to/JS] [Cómo usar los métodos Call, Apply y Bind en javascript](https://dev.to/khriztianmoreno/como-usar-los-metodos-javascript-call-apply-y-bind-32ek)
 - [Lifehacker] [How to Transition Your Plants Indoors for Winter](https://lifehacker.com/how-to-transition-your-plants-indoors-for-winter-1849589228)
 - [Lifehacker] [Everyone Should Sit Down When They Pee](https://lifehacker.com/everyone-should-sit-down-when-they-pee-1849587707)
 - [Lifehacker] [The Difference Between Problem-Based and Emotion-Based Coping](https://lifehacker.com/the-difference-between-problem-based-and-emotion-based-1849587690)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Onion Dip Needs at Least Five Onions](https://lifehacker.com/your-onion-dip-needs-at-least-five-onions-1849586590)
 - [Crazy Programmer] [David Patterson Biography](https://www.thecrazyprogrammer.com/2022/09/david-patterson-biography.html)
 - [Lifehacker] [How Does Student Loan Forgiveness Affect Your Credit Score?](https://lifehacker.com/how-does-student-loan-forgiveness-affect-your-credit-sc-1849586487)
-- [Lifehacker] [‘Plow’ Your Leaves With Cardboard](https://lifehacker.com/plow-your-leaves-with-cardboard-1849586080)
-- [Lifehacker] [You Really Do Need to Update WhatsApp Right Now](https://lifehacker.com/you-really-do-need-to-update-whatsapp-right-now-1849585597)
-- [Lifehacker] [Canva Presentation Shortcuts That You Don&#39;t Know, But Should](https://lifehacker.com/canva-presentation-shortcuts-that-you-dont-know-but-sh-1849585901)<!-- TECH-POSTS:END -->
+- [Lifehacker] [‘Plow’ Your Leaves With Cardboard](https://lifehacker.com/plow-your-leaves-with-cardboard-1849586080)<!-- TECH-POSTS:END -->
 
 ---
 
