@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What about the developer&#39;s UDID audit at 7, 15 and 30](https://dev.to/junny521222/what-about-the-developers-udid-audit-at-7-15-and-30-4amm)
 - [Dev.to/JS] [VSCode Custom Colors Per A Project](https://dev.to/codingwithadam/vscode-custom-colors-per-a-project-15cd)
 - [Dev.to/JS] [Which language is best for developing e commerce store?](https://dev.to/abdullahthedev/which-language-is-best-for-developing-e-commerce-store-1bd5)
 - [Dev.to/JS] [My first command-line tool!](https://dev.to/gulyapulya/my-first-command-line-tool-310i)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Install Enzyme and Configure Jest](https://dev.to/nothanii/install-enzyme-and-configure-jest-58f)
 - [Dev.to/JS] [Using a Netlify Edge Worker to cut down on header bloat by removing HTML-only headers from static assets](https://dev.to/philw_/using-a-netlify-edge-worker-to-cut-down-on-header-bloat-by-removing-html-only-headers-from-your-static-assets-3nh9)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
-- [Dev.to/JS] [Introduction à React: #2 - Mon premier composant](https://dev.to/sidali/introduction-a-react-1-mon-premier-composant-1emj)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
 - [Lifehacker] [How to File a FOIA Request &lpar;and the Dirt It Can Help You Find&rpar;](https://lifehacker.com/how-to-file-a-foia-request-and-the-dirt-it-can-help-yo-1849586091)
