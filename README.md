@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Contact Facebook Support Find Solutions From Facebook Help Center](https://dev.to/adamsmith46/how-to-contact-facebook-support-find-solutions-from-facebook-help-center-213d)
+- [Dev.to/JS] [Create alert on new database entry](https://dev.to/rehman_ali/create-alert-on-new-database-entry-4c6e)
+- [Dev.to/JS] [Scroll Based Animation in HTML, CSS And JavaScript](https://dev.to/zubairkhokhar/scroll-based-animation-in-html-css-and-javascript-3n1j)
+- [Dev.to/JS] [Creating a navigation bar in react with Routing](https://dev.to/elobigg/creating-a-navigation-bar-in-react-with-routing-4e3p)
 - [Dev.to/JS] [Building a beautiful Kanban board with Node.js, React and Websockets 🦄 ✨](https://dev.to/novu/building-a-beautiful-kanban-board-with-nodejs-react-and-websockets-39dk)
 - [Dev.to/JS] [How to solve Mexican wave algorithm in JavaScript](https://dev.to/davidalimazo/how-to-solve-mexican-wave-algorithm-in-javascript-4hia)
 - [Dev.to/JS] [React Js Add Credit Card](https://dev.to/aliwano/react-js-add-credit-card-26f2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Online Clothing Store using the MERN stack](https://dev.to/said_mounaim/online-clothing-store-using-the-mern-stack-2dl4)
 - [Dev.to/JS] [What are the Steps to Become a Professional Frontend Developer?](https://dev.to/shbz/what-are-the-steps-to-become-a-professional-frontend-developer-58f8)
 - [Dev.to/JS] [Ngôn ngữ Anh Lương Bao Nhiêu? Có Dễ Xin Việc Không?](https://dev.to/cdquoctesaigon/ngon-ngu-anh-luong-bao-nhieu-co-de-xin-viec-khong-3p0a)
-- [Dev.to/JS] [Introducing Budibase 2.0 🍱](https://dev.to/budibase/introducing-budibase-20-1jp4)
-- [Dev.to/JS] [Your Guide for Testing ReactJS Apps - Part 1](https://dev.to/hellonehha/your-guide-for-testing-reactjs-apps-part-1-6c2)
-- [Dev.to/JS] [Use React Context to DRY up your components](https://dev.to/akoskm/use-react-context-to-dry-up-your-components-556b)
-- [Dev.to/JS] [Understanding call&lpar;&rpar;,apply&lpar;&rpar;,bind&lpar;&rpar; in Javascript](https://dev.to/bhavanasjpg/understanding-callapplybind-in-javascript-1kl2)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
