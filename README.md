@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which language is best for developing e commerce store?](https://dev.to/abdullahthedev/which-language-is-best-for-developing-e-commerce-store-1bd5)
+- [Dev.to/JS] [My first command-line tool!](https://dev.to/gulyapulya/my-first-command-line-tool-310i)
+- [Dev.to/JS] [How To Write A User Story](https://dev.to/puenehfaith/how-to-create-a-user-story-4acd)
 - [Dev.to/JS] [Building Layouts with CSS3 Flexbox](https://dev.to/asayerio_techblog/building-layouts-with-css3-flexbox-2n03)
 - [Dev.to/JS] [Regular Expressions and Input Validation](https://dev.to/asayerio_techblog/regular-expressions-and-input-validation-2mb6)
 - [Dev.to/JS] [Glassmorphic UI in React using CSS](https://dev.to/asayerio_techblog/glassmorphic-ui-in-react-using-css-37lh)
@@ -35,12 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
 - [Dev.to/JS] [Introduction à React: #1 - Initialisation de mon premier projet](https://dev.to/sidali/introduction-a-react-1-initialisation-de-mon-premier-projet-401i)
-- [Dev.to/JS] [A Complete Guide to Javascript Maps](https://dev.to/smpnjn/a-complete-guide-to-javascript-maps-1162)
 - [Lifehacker] [How to File a FOIA Request &lpar;and the Dirt It Can Help You Find&rpar;](https://lifehacker.com/how-to-file-a-foia-request-and-the-dirt-it-can-help-yo-1849586091)
-- [Dev.to/JS] [Modern React Tutorials online for free!](https://dev.to/bsqqq/modern-react-tutorials-online-for-free-3cbi)
 - [Lifehacker] [You Really Should Use More White Pepper](https://lifehacker.com/you-really-should-use-more-white-pepper-1849587399)
 - [Lifehacker] [What Is a &#39;Normal&#39; Body Count?](https://lifehacker.com/what-is-a-normal-body-count-1849586649)
-- [Dev.to/JS] [Merging on GitHub](https://dev.to/lostbutton/merging-on-github-24e9)
 - [Lifehacker] [Your Onion Dip Needs at Least Five Onions](https://lifehacker.com/your-onion-dip-needs-at-least-five-onions-1849586590)
 - [Crazy Programmer] [David Patterson Biography](https://www.thecrazyprogrammer.com/2022/09/david-patterson-biography.html)
 - [Lifehacker] [How Does Student Loan Forgiveness Affect Your Credit Score?](https://lifehacker.com/how-does-student-loan-forgiveness-affect-your-credit-sc-1849586487)
