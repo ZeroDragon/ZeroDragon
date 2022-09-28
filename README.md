@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Clever Ways You Should Be Using a Hot Glue Gun, But Aren’t](https://lifehacker.com/five-clever-ways-you-should-be-using-a-hot-glue-gun-bu-1849583389)
+- [Dev.to/JS] [Crafting generative art with javascript generators](https://dev.to/bohdanstupak1/crafting-generative-art-with-javascript-generators-6i6)
+- [Dev.to/JS] [D3, why only D3?](https://dev.to/modgil_23/d3-why-only-d3-1lki)
+- [Dev.to/JS] [What To Look For When Choosing the Right JavaScript Library](https://dev.to/webixui/what-to-look-for-when-choosing-the-right-javascript-library-4n6l)
+- [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)
+- [Dev.to/JS] [Intersection of Array](https://dev.to/zeeshanali0704/intersection-of-array-46nk)
 - [Dev.to/JS] [How To Contact Facebook Support Find Solutions From Facebook Help Center](https://dev.to/adamsmith46/how-to-contact-facebook-support-find-solutions-from-facebook-help-center-213d)
 - [Dev.to/JS] [Create alert on new database entry](https://dev.to/rehman_ali/create-alert-on-new-database-entry-4c6e)
 - [Dev.to/JS] [Scroll Based Animation in HTML, CSS And JavaScript](https://dev.to/zubairkhokhar/scroll-based-animation-in-html-css-and-javascript-3n1j)
 - [Dev.to/JS] [Creating a navigation bar in react with Routing](https://dev.to/elobigg/creating-a-navigation-bar-in-react-with-routing-4e3p)
-- [Dev.to/JS] [Building a beautiful Kanban board with Node.js, React and Websockets 🦄 ✨](https://dev.to/novu/building-a-beautiful-kanban-board-with-nodejs-react-and-websockets-39dk)
+- [Dev.to/JS] [Building a Kanban board with Node.js, React and Websockets 📝 ✨](https://dev.to/novu/building-a-beautiful-kanban-board-with-nodejs-react-and-websockets-39dk)
 - [Dev.to/JS] [How to solve Mexican wave algorithm in JavaScript](https://dev.to/davidalimazo/how-to-solve-mexican-wave-algorithm-in-javascript-4hia)
 - [Dev.to/JS] [React Js Add Credit Card](https://dev.to/aliwano/react-js-add-credit-card-26f2)
-- [Dev.to/JS] [Compre Cocaína, mdpv, mefedrona &lpar;4-MMC&rpar; tabletas y polvo en línea,](https://dev.to/mikewoo75928566/compre-cocaina-mdpv-mefedrona-4-mmc-tabletas-y-polvo-en-linea-377h)
 - [Dev.to/JS] [TechMagic Successfully Passed the ISO Audit](https://dev.to/techmagic/techmagic-successfully-passed-the-iso-audit-56ba)
-- [Dev.to/JS] [Online Clothing Store using the MERN stack](https://dev.to/said_mounaim/online-clothing-store-using-the-mern-stack-2dl4)
-- [Dev.to/JS] [What are the Steps to Become a Professional Frontend Developer?](https://dev.to/shbz/what-are-the-steps-to-become-a-professional-frontend-developer-58f8)
-- [Dev.to/JS] [Ngôn ngữ Anh Lương Bao Nhiêu? Có Dễ Xin Việc Không?](https://dev.to/cdquoctesaigon/ngon-ngu-anh-luong-bao-nhieu-co-de-xin-viec-khong-3p0a)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
 - [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
 - [Lifehacker] [Is BeReal Safe?](https://lifehacker.com/is-bereal-safe-1849582284)
-- [Lifehacker] [Air Fry Your Frozen Shrimp Without Thawing Them First](https://lifehacker.com/air-fry-your-frozen-shrimp-without-thawing-them-first-1849582470)
-- [Lifehacker] [The Psychological Mind Tricks That Actually Work](https://lifehacker.com/the-psychological-mind-tricks-that-actually-work-1849581208)
-- [Lifehacker] [Avoid These Mistakes When You Cancel Travel Plans](https://lifehacker.com/avoid-these-mistakes-when-you-cancel-travel-plans-1849581939)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Air Fry Your Frozen Shrimp Without Thawing Them First](https://lifehacker.com/air-fry-your-frozen-shrimp-without-thawing-them-first-1849582470)<!-- TECH-POSTS:END -->
 
 ---
 
