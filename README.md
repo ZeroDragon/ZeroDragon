@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scroll List Animation Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/scroll-list-animation-free-download-in-html-css-and-javascript-1ep5)
+- [Dev.to/JS] [HacktoberFest 2022 | Repositories](https://dev.to/kavyanshpandey/hacktoberfest-2022-repositories-5bb)
+- [Dev.to/JS] [Closure + Arrow function = extremely short](https://dev.to/kaziusan/closure-arrow-function-extremely-short-2dhf)
+- [Dev.to/JS] [How to render pretty code blocks using Contentful Rich Text Editor and Gatsby](https://dev.to/miguelcrespo/how-to-render-pretty-code-blocks-using-contentful-rich-text-editor-and-gatsby-46a5)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Dev.to/JS] [Let us Understand D3](https://dev.to/modgil_23/let-us-understand-d3-4dk1)
@@ -37,13 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to &lpar;Legally&rpar; Get Out of Jury Duty](https://lifehacker.com/how-to-legally-get-out-of-jury-duty-1849591704)
 - [Dev.to/JS] [Hiring](https://dev.to/shacodes/hiring-5f0h)
 - [Dev.to/JS] [Have you ever made an app?](https://dev.to/rodrigo_ramirez_f5f8b5933/have-you-ever-made-an-app-5b41)
-- [Dev.to/JS] [Learn How to create components, pass them data using props, and manage their data using state, by building a Contact Manager](https://dev.to/danrez_/learn-how-to-create-components-pass-them-data-using-props-and-manage-their-data-using-state-by-building-a-contact-manager-jm0)
 - [Lifehacker] [The Best Way to Grill That Last Bit of Summer Corn](https://lifehacker.com/the-best-way-to-grill-that-last-bit-of-summer-corn-1849591851)
-- [Dev.to/JS] [Is this really a Tower Defense Game?](https://dev.to/alatarthegreat/is-this-really-a-tower-defense-game-3h9o)
-- [Dev.to/JS] [Chat application using SvelteKit + Firebase](https://dev.to/khromov/chat-application-using-sveltekit-firebase-4p8l)
 - [Lifehacker] [How to Fix a Stuck PS5 Disc](https://lifehacker.com/how-to-fix-a-stuck-ps5-disc-1849590991)
 - [Lifehacker] [Your Cocktail Needs a Meringue Float](https://lifehacker.com/your-cocktail-needs-a-meringue-float-1849591308)
-- [Dev.to/JS] [How to install latest version of Zammad on Ubuntu 22.04?](https://dev.to/chetanmittaldev/how-to-install-latest-version-of-zammad-on-ubuntu-2204-5hag)
 - [Lifehacker] [The XBox Accessibility Settings You Aren’t Using, but Should Be](https://lifehacker.com/the-xbox-accessibility-settings-you-aren-t-using-but-s-1849589902)
 - [Lifehacker] [Use This App to Block Ads and Reels From Instagram](https://lifehacker.com/use-this-app-to-block-ads-and-reels-from-instagram-1849586357)
 - [Lifehacker] [How to Transition Your Plants Indoors for Winter](https://lifehacker.com/how-to-transition-your-plants-indoors-for-winter-1849589228)
