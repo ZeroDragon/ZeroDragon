@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Budibase 2.0 🍱](https://dev.to/budibase/introducing-budibase-20-1jp4)
+- [Dev.to/JS] [Your Guide for Testing ReactJS Apps - Part 1](https://dev.to/hellonehha/your-guide-for-testing-reactjs-apps-part-1-6c2)
+- [Dev.to/JS] [Use React Context to DRY up your components](https://dev.to/akoskm/use-react-context-to-dry-up-your-components-556b)
+- [Dev.to/JS] [Understanding call&lpar;&rpar;,apply&lpar;&rpar;,bind&lpar;&rpar; in Javascript](https://dev.to/bhavanasjpg/understanding-callapplybind-in-javascript-1kl2)
 - [Dev.to/JS] [Responsive asynchronous request status](https://dev.to/arnosolo/responsive-asynchronous-request-status-39ee)
 - [Dev.to/JS] [All you need to know about JavaScript Testing &lpar;JEST&rpar;](https://dev.to/quokkalabs/all-you-need-to-know-about-javascript-testing-jest-3ip7)
 - [Dev.to/JS] [Hide or Reveal a Sticky Header on Scroll](https://dev.to/divinector/hide-or-reveal-a-sticky-header-on-scroll-5aoh)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DropDown OnChange Event Using ReactJS](https://dev.to/pankajdas0909/dropdown-onchange-event-using-reactjs-58pj)
 - [Dev.to/JS] [Handling JavaScript Errors in React](https://dev.to/daryllukas/handling-javascript-errors-in-react-1k43)
 - [Dev.to/JS] [DevOps Engineer Skills: Most Demanding DevOps Skills [2022]](https://dev.to/postwell45/devops-engineer-skills-most-demanding-devops-skills-2022-3k80)
-- [Dev.to/JS] [First look at medusa-extender](https://dev.to/dailydevtips1/first-look-at-medusa-extender-1nh9)
-- [Dev.to/JS] [Svelte Vs React - Which is Better for Web Development? [2023]](https://dev.to/himadripatelace/svelte-vs-react-which-is-better-for-web-development-2023-4fil)
-- [Dev.to/JS] [&quot;Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.&quot; }](https://dev.to/larryson7780/invalid-api-key-please-see-httpopenweathermaporgfaqerror401-for-more-info--197l)
-- [Dev.to/JS] [Portfolio with Nextjs and TailwindCSS - first iteration](https://dev.to/nabroleonx/my-new-portfolio-first-iteration-163g)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
