@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DevOps Engineer Skills: Most Demanding DevOps Skills [2022]](https://dev.to/postwell45/devops-engineer-skills-most-demanding-devops-skills-2022-3k80)
+- [Dev.to/JS] [First look at medusa-extender](https://dev.to/dailydevtips1/first-look-at-medusa-extender-1nh9)
+- [Dev.to/JS] [Svelte Vs React - Which is Better for Web Development? [2023]](https://dev.to/himadripatelace/svelte-vs-react-which-is-better-for-web-development-2023-4fil)
+- [Dev.to/JS] [&quot;Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.&quot; }](https://dev.to/larryson7780/invalid-api-key-please-see-httpopenweathermaporgfaqerror401-for-more-info--197l)
 - [Dev.to/JS] [My new portfolio - first iteration](https://dev.to/nabroleonx/my-new-portfolio-first-iteration-163g)
 - [Dev.to/JS] [20 achievable JavaScript project ideas for beginner web developers](https://dev.to/tpalpallatoc/20-achievable-javascript-project-ideas-for-beginner-web-developers-8f)
 - [Dev.to/JS] [Angular vs React Which Is Better for Web Development?](https://dev.to/jessica89079831/angular-vs-react-which-is-better-for-web-development-3g94)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VSCode Custom Colors Per A Project](https://dev.to/codingwithadam/vscode-custom-colors-per-a-project-15cd)
 - [Dev.to/JS] [Which language is best for developing e commerce store?](https://dev.to/abdullahthedev/which-language-is-best-for-developing-e-commerce-store-1bd5)
 - [Dev.to/JS] [My first command-line tool!](https://dev.to/gulyapulya/my-first-command-line-tool-310i)
-- [Dev.to/JS] [How To Write A User Story](https://dev.to/puenehfaith/how-to-create-a-user-story-4acd)
-- [Dev.to/JS] [Building Layouts with CSS3 Flexbox](https://dev.to/asayerio_techblog/building-layouts-with-css3-flexbox-2n03)
-- [Dev.to/JS] [Regular Expressions and Input Validation](https://dev.to/asayerio_techblog/regular-expressions-and-input-validation-2mb6)
-- [Dev.to/JS] [Glassmorphic UI in React using CSS](https://dev.to/asayerio_techblog/glassmorphic-ui-in-react-using-css-37lh)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
