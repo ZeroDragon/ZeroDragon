@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Layouts with CSS3 Flexbox](https://dev.to/asayerio_techblog/building-layouts-with-css3-flexbox-2n03)
+- [Dev.to/JS] [Regular Expressions and Input Validation](https://dev.to/asayerio_techblog/regular-expressions-and-input-validation-2mb6)
+- [Dev.to/JS] [Glassmorphic UI in React using CSS](https://dev.to/asayerio_techblog/glassmorphic-ui-in-react-using-css-37lh)
+- [Dev.to/JS] [Data Visualization with Google Charts](https://dev.to/asayerio_techblog/data-visualization-with-google-charts-2nn6)
+- [Dev.to/JS] [Understanding the useId hook in React](https://dev.to/asayerio_techblog/understanding-the-useid-hook-in-react-2mj4)
+- [Dev.to/JS] [Install Enzyme and Configure Jest](https://dev.to/nothanii/install-enzyme-and-configure-jest-58f)
 - [Dev.to/JS] [Using a Netlify Edge Worker to cut down on header bloat by removing HTML-only headers from static assets](https://dev.to/philw_/using-a-netlify-edge-worker-to-cut-down-on-header-bloat-by-removing-html-only-headers-from-your-static-assets-3nh9)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Dev.to/JS] [Introduction à React: #2 - Mon premier composant](https://dev.to/sidali/introduction-a-react-1-mon-premier-composant-1emj)
@@ -35,14 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Really Should Use More White Pepper](https://lifehacker.com/you-really-should-use-more-white-pepper-1849587399)
 - [Lifehacker] [What Is a &#39;Normal&#39; Body Count?](https://lifehacker.com/what-is-a-normal-body-count-1849586649)
 - [Dev.to/JS] [Merging on GitHub](https://dev.to/lostbutton/merging-on-github-24e9)
-- [Dev.to/JS] [Hotel Booking App Using The MERN Stack With TypeScript](https://dev.to/said_mounaim/hotel-booking-app-using-the-mern-stack-with-typescript-1oeh)
-- [Dev.to/JS] [Hello Guys I&#39;m new here](https://dev.to/franklinmike/hello-guys-im-new-here-6i5)
-- [Dev.to/JS] [Exploring Yew, the rust-based frontend framework as a Vue Developer](https://dev.to/hackmamba/exploring-yew-the-rust-based-frontend-framework-as-a-vue-developer-3915)
-- [Dev.to/JS] [React Native Services: React Native Navigation v5 With Illustration](https://dev.to/juanmark/react-native-services-react-native-navigation-v5-with-illustration-3lae)
-- [Dev.to/JS] [Schrodinger&#39;s function](https://dev.to/joshuaamaju/schrodingers-function-3nc7)
 - [Lifehacker] [Your Onion Dip Needs at Least Five Onions](https://lifehacker.com/your-onion-dip-needs-at-least-five-onions-1849586590)
 - [Crazy Programmer] [David Patterson Biography](https://www.thecrazyprogrammer.com/2022/09/david-patterson-biography.html)
-- [Dev.to/JS] [is HeapSort fast?](https://dev.to/mallchel/is-heapsort-fast-2mjl)
 - [Lifehacker] [How Does Student Loan Forgiveness Affect Your Credit Score?](https://lifehacker.com/how-does-student-loan-forgiveness-affect-your-credit-sc-1849586487)
 - [Lifehacker] [‘Plow’ Your Leaves With Cardboard](https://lifehacker.com/plow-your-leaves-with-cardboard-1849586080)
 - [Lifehacker] [You Really Do Need to Update WhatsApp Right Now](https://lifehacker.com/you-really-do-need-to-update-whatsapp-right-now-1849585597)
