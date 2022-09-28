@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TechMagic Successfully Passed the ISO Audit](https://dev.to/techmagic/techmagic-successfully-passed-the-iso-audit-56ba)
+- [Dev.to/JS] [Online Clothing Store using the MERN stack](https://dev.to/said_mounaim/online-clothing-store-using-the-mern-stack-2dl4)
+- [Dev.to/JS] [What are the Steps to Become a Professional Frontend Developer?](https://dev.to/shbz/what-are-the-steps-to-become-a-professional-frontend-developer-58f8)
+- [Dev.to/JS] [Ngôn ngữ Anh Lương Bao Nhiêu? Có Dễ Xin Việc Không?](https://dev.to/cdquoctesaigon/ngon-ngu-anh-luong-bao-nhieu-co-de-xin-viec-khong-3p0a)
 - [Dev.to/JS] [Introducing Budibase 2.0 🍱](https://dev.to/budibase/introducing-budibase-20-1jp4)
 - [Dev.to/JS] [Your Guide for Testing ReactJS Apps - Part 1](https://dev.to/hellonehha/your-guide-for-testing-reactjs-apps-part-1-6c2)
 - [Dev.to/JS] [Use React Context to DRY up your components](https://dev.to/akoskm/use-react-context-to-dry-up-your-components-556b)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All you need to know about JavaScript Testing &lpar;JEST&rpar;](https://dev.to/quokkalabs/all-you-need-to-know-about-javascript-testing-jest-3ip7)
 - [Dev.to/JS] [Hide or Reveal a Sticky Header on Scroll](https://dev.to/divinector/hide-or-reveal-a-sticky-header-on-scroll-5aoh)
 - [Dev.to/JS] [&quot;Bootstrap reactify&quot; chrome extension](https://dev.to/shacodes/bootstrap-reactify-chrome-extension-32p1)
-- [Dev.to/JS] [Achetez des pilules mdpv, MDMA et ecstasy, de la cocaïne, du LSD et des](https://dev.to/mikewoo75928566/achetez-des-pilules-mdpv-mdma-et-ecstasy-de-la-cocaine-du-lsd-et-des-3n14)
-- [Dev.to/JS] [DropDown OnChange Event Using ReactJS](https://dev.to/pankajdas0909/dropdown-onchange-event-using-reactjs-58pj)
-- [Dev.to/JS] [Handling JavaScript Errors in React](https://dev.to/daryllukas/handling-javascript-errors-in-react-1k43)
-- [Dev.to/JS] [DevOps Engineer Skills: Most Demanding DevOps Skills [2022]](https://dev.to/postwell45/devops-engineer-skills-most-demanding-devops-skills-2022-3k80)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
