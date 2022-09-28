@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Expensive Credit Cards That Don&#39;t Seem Worth It, But Are](https://lifehacker.com/expensive-credit-cards-that-dont-seem-worth-it-but-are-1849586219)
+- [Dev.to/JS] [How to create Google&#39;s Input Field with Tailwind?](https://dev.to/gabrielmlinassi/how-to-create-googles-input-field-with-tailwind-3io5)
+- [Dev.to/JS] [Getting Started with React Query](https://dev.to/nischal_dutt/getting-started-with-react-query-30g7)
+- [Dev.to/JS] [#ThisMonthInSWA - Sep 2022 Roundup!](https://dev.to/azure/thismonthinswa-sep-2022-roundup-3mg1)
+- [Lifehacker] [How to &lpar;Legally&rpar; Get Out of Jury Duty](https://lifehacker.com/how-to-legally-get-out-of-jury-duty-1849591704)
+- [Dev.to/JS] [Hiring](https://dev.to/shacodes/hiring-5f0h)
+- [Dev.to/JS] [Have you ever made an app?](https://dev.to/rodrigo_ramirez_f5f8b5933/have-you-ever-made-an-app-5b41)
+- [Dev.to/JS] [Learn How to create components, pass them data using props, and manage their data using state, by building a Contact Manager](https://dev.to/danrez_/learn-how-to-create-components-pass-them-data-using-props-and-manage-their-data-using-state-by-building-a-contact-manager-jm0)
 - [Lifehacker] [The Best Way to Grill That Last Bit of Summer Corn](https://lifehacker.com/the-best-way-to-grill-that-last-bit-of-summer-corn-1849591851)
 - [Dev.to/JS] [Is this really a Tower Defense Game?](https://dev.to/alatarthegreat/is-this-really-a-tower-defense-game-3h9o)
 - [Dev.to/JS] [Chat application using SvelteKit + Firebase](https://dev.to/khromov/chat-application-using-sveltekit-firebase-4p8l)
@@ -35,15 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [It’s ok to use function calls in Angular templates!](https://dev.to/eneajaho/its-ok-to-use-function-calls-in-angular-templates-4029)
 - [Lifehacker] [How to Transition Your Plants Indoors for Winter](https://lifehacker.com/how-to-transition-your-plants-indoors-for-winter-1849589228)
 - [Dev.to/JS] [Building a Fullstack Application with Next.js and MongoDB](https://dev.to/get_pieces/building-a-fullstack-application-with-nextjs-and-mongodb-427d)
-- [Dev.to/JS] [How did I shrink my NextJS Docker image by 90%?](https://dev.to/jvsa7_/how-i-reduced-my-nextjs-docker-image-in-80-1na2)
-- [Dev.to/JS] [React: Manejando formularios con useRef - Componentes no controlados](https://dev.to/matiasfha/react-manejando-formularios-con-useref-componentes-no-controlados-4nig)
 - [Lifehacker] [Everyone Should Sit Down When They Pee](https://lifehacker.com/everyone-should-sit-down-when-they-pee-1849587707)
-- [Dev.to/JS] [Adding ESLint to existing react project](https://dev.to/lokdevp/adding-eslint-to-existing-react-project-1nhd)
 - [Lifehacker] [The Difference Between Problem-Based and Emotion-Based Coping](https://lifehacker.com/the-difference-between-problem-based-and-emotion-based-1849587690)
-- [Dev.to/JS] [A Complete Guide To AngularJS Testing](https://dev.to/lambdatest/a-complete-guide-to-angularjs-testing-lf3)
-- [Dev.to/JS] [Implementing Dark Mode with VueUse](https://dev.to/vuemastery/implementing-dark-mode-with-vueuse-2m75)
 - [Lifehacker] [You Can Still Get DVDs From Netflix &lpar;and Maybe You Should&rpar;](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
-- [Dev.to/JS] [Speed test - Payload vs. Directus vs. Strapi](https://dev.to/payloadcms/speed-test-payload-vs-directus-vs-strapi-4jn3)
 - [Lifehacker] [You Can Buy Cheaper Nintendo Switch Games From Another Country](https://lifehacker.com/you-can-buy-cheaper-nintendo-switch-games-from-another-1849588044)
 - [Lifehacker] [Five Clever Ways You Should Be Using a Hot Glue Gun, But Aren’t](https://lifehacker.com/five-clever-ways-you-should-be-using-a-hot-glue-gun-bu-1849583389)
 - [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Really Do Need to Update WhatsApp Right Now](https://lifehacker.com/you-really-do-need-to-update-whatsapp-right-now-1849585597)
 - [Lifehacker] [Canva Presentation Shortcuts That You Don&#39;t Know, But Should](https://lifehacker.com/canva-presentation-shortcuts-that-you-dont-know-but-sh-1849585901)
 - [Lifehacker] [You Need to Make These Savory Crumpets](https://lifehacker.com/you-need-to-make-these-savory-crumpets-1849585719)
-- [Lifehacker] [Everything You Should Do Early to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)
-- [Lifehacker] [What Is Tax-Loss Harvesting &lpar;and Who Does It Benefit&rpar;?](https://lifehacker.com/what-is-tax-loss-harvesting-and-who-does-it-benefit-1849583091)
-- [Lifehacker] [Throw Out This Bacon, Sausage, and Other Meat, Department of Agriculture Says](https://lifehacker.com/throw-out-this-bacon-sausage-and-other-meat-departme-1849585203)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Should Do Early to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)<!-- TECH-POSTS:END -->
 
 ---
 
