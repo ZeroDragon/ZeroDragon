@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Cocktail Needs a Meringue Float](https://lifehacker.com/your-cocktail-needs-a-meringue-float-1849591308)
+- [Dev.to/JS] [How to install latest version of Zammad on Ubuntu 22.04?](https://dev.to/chetanmittaldev/how-to-install-latest-version-of-zammad-on-ubuntu-2204-5hag)
+- [Lifehacker] [The XBox Accessibility Settings You Aren’t Using, but Should Be](https://lifehacker.com/the-xbox-accessibility-settings-you-aren-t-using-but-s-1849589902)
 - [Lifehacker] [Use This App to Block Ads and Reels From Instagram](https://lifehacker.com/use-this-app-to-block-ads-and-reels-from-instagram-1849586357)
-- [Dev.to/JS] [Cómo usar los métodos javascript Call, Apply y Bind](https://dev.to/khriztianmoreno/como-usar-los-metodos-javascript-call-apply-y-bind-32ek)
+- [Dev.to/JS] [Cómo usar los métodos Call, Apply y Bind en javascript](https://dev.to/khriztianmoreno/como-usar-los-metodos-javascript-call-apply-y-bind-32ek)
 - [Dev.to/JS] [It’s ok to use function calls in Angular templates!](https://dev.to/eneajaho/its-ok-to-use-function-calls-in-angular-templates-4029)
 - [Lifehacker] [How to Transition Your Plants Indoors for Winter](https://lifehacker.com/how-to-transition-your-plants-indoors-for-winter-1849589228)
 - [Dev.to/JS] [Building a Fullstack Application with Next.js and MongoDB](https://dev.to/get_pieces/building-a-fullstack-application-with-nextjs-and-mongodb-427d)
@@ -34,14 +37,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding ESLint to existing react project](https://dev.to/lokdevp/adding-eslint-to-existing-react-project-1nhd)
 - [Lifehacker] [The Difference Between Problem-Based and Emotion-Based Coping](https://lifehacker.com/the-difference-between-problem-based-and-emotion-based-1849587690)
 - [Dev.to/JS] [A Complete Guide To AngularJS Testing](https://dev.to/lambdatest/a-complete-guide-to-angularjs-testing-lf3)
+- [Dev.to/JS] [Implementing Dark Mode with VueUse](https://dev.to/vuemastery/implementing-dark-mode-with-vueuse-2m75)
 - [Lifehacker] [You Can Still Get DVDs From Netflix &lpar;and Maybe You Should&rpar;](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
 - [Dev.to/JS] [Speed test - Payload vs. Directus vs. Strapi](https://dev.to/payloadcms/speed-test-payload-vs-directus-vs-strapi-4jn3)
 - [Dev.to/JS] [How to Add A React Lightbox to Your Project or Website &lpar;in Just 3 Steps&rpar;](https://dev.to/silviaodwyer/how-to-add-a-react-lightbox-to-your-project-or-website-in-just-3-steps-3b6i)
 - [Dev.to/JS] [New js framework](https://dev.to/jamshdbek/new-js-femwork-466j)
 - [Lifehacker] [You Can Buy Cheaper Nintendo Switch Games From Another Country](https://lifehacker.com/you-can-buy-cheaper-nintendo-switch-games-from-another-1849588044)
-- [Dev.to/JS] [filter&lpar;&rpar; method in JavaScript](https://dev.to/bl4ckst0n3/filter-method-in-javascript-5cag)
 - [Lifehacker] [Five Clever Ways You Should Be Using a Hot Glue Gun, But Aren’t](https://lifehacker.com/five-clever-ways-you-should-be-using-a-hot-glue-gun-bu-1849583389)
-- [Dev.to/JS] [Crafting generative art with javascript generators](https://dev.to/bohdanstupak1/crafting-generative-art-with-javascript-generators-6i6)
 - [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Tax-Loss Harvesting &lpar;and Who Does It Benefit&rpar;?](https://lifehacker.com/what-is-tax-loss-harvesting-and-who-does-it-benefit-1849583091)
 - [Lifehacker] [Throw Out This Bacon, Sausage, and Other Meat, Department of Agriculture Says](https://lifehacker.com/throw-out-this-bacon-sausage-and-other-meat-departme-1849585203)
 - [Lifehacker] [Five Ways to Make Your Apple Watch Better for Running](https://lifehacker.com/five-ways-to-make-your-apple-watch-better-for-running-1849585154)
-- [Lifehacker] [The Dryer Maintenance Tasks You Should Do Every Month](https://lifehacker.com/the-dryer-maintenance-tasks-you-should-do-every-month-1849582598)
-- [Lifehacker] [Fentanyl, Razors, and 7 Other Things You Won&#39;t Actually Find in Halloween Candy](https://lifehacker.com/fentanyl-razors-and-7-other-things-you-wont-actually-1849583370)
-- [Lifehacker] [How to Stop Games From Randomly Shutting Down Your PC](https://lifehacker.com/how-to-stop-games-from-randomly-shutting-down-your-pc-1849583721)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Dryer Maintenance Tasks You Should Do Every Month](https://lifehacker.com/the-dryer-maintenance-tasks-you-should-do-every-month-1849582598)<!-- TECH-POSTS:END -->
 
 ---
 
