@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Grill That Last Bit of Summer Corn](https://lifehacker.com/the-best-way-to-grill-that-last-bit-of-summer-corn-1849591851)
+- [Dev.to/JS] [Is this really a Tower Defense Game?](https://dev.to/alatarthegreat/is-this-really-a-tower-defense-game-3h9o)
+- [Dev.to/JS] [Chat application using SvelteKit + Firebase](https://dev.to/khromov/chat-application-using-sveltekit-firebase-4p8l)
+- [Lifehacker] [How to Fix a Stuck PS5 Disc](https://lifehacker.com/how-to-fix-a-stuck-ps5-disc-1849590991)
 - [Lifehacker] [Your Cocktail Needs a Meringue Float](https://lifehacker.com/your-cocktail-needs-a-meringue-float-1849591308)
 - [Dev.to/JS] [How to install latest version of Zammad on Ubuntu 22.04?](https://dev.to/chetanmittaldev/how-to-install-latest-version-of-zammad-on-ubuntu-2204-5hag)
 - [Lifehacker] [The XBox Accessibility Settings You Aren’t Using, but Should Be](https://lifehacker.com/the-xbox-accessibility-settings-you-aren-t-using-but-s-1849589902)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Dark Mode with VueUse](https://dev.to/vuemastery/implementing-dark-mode-with-vueuse-2m75)
 - [Lifehacker] [You Can Still Get DVDs From Netflix &lpar;and Maybe You Should&rpar;](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
 - [Dev.to/JS] [Speed test - Payload vs. Directus vs. Strapi](https://dev.to/payloadcms/speed-test-payload-vs-directus-vs-strapi-4jn3)
-- [Dev.to/JS] [How to Add A React Lightbox to Your Project or Website &lpar;in Just 3 Steps&rpar;](https://dev.to/silviaodwyer/how-to-add-a-react-lightbox-to-your-project-or-website-in-just-3-steps-3b6i)
-- [Dev.to/JS] [New js framework](https://dev.to/jamshdbek/new-js-femwork-466j)
 - [Lifehacker] [You Can Buy Cheaper Nintendo Switch Games From Another Country](https://lifehacker.com/you-can-buy-cheaper-nintendo-switch-games-from-another-1849588044)
 - [Lifehacker] [Five Clever Ways You Should Be Using a Hot Glue Gun, But Aren’t](https://lifehacker.com/five-clever-ways-you-should-be-using-a-hot-glue-gun-bu-1849583389)
 - [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Make These Savory Crumpets](https://lifehacker.com/you-need-to-make-these-savory-crumpets-1849585719)
 - [Lifehacker] [Everything You Should Do Early to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)
 - [Lifehacker] [What Is Tax-Loss Harvesting &lpar;and Who Does It Benefit&rpar;?](https://lifehacker.com/what-is-tax-loss-harvesting-and-who-does-it-benefit-1849583091)
-- [Lifehacker] [Throw Out This Bacon, Sausage, and Other Meat, Department of Agriculture Says](https://lifehacker.com/throw-out-this-bacon-sausage-and-other-meat-departme-1849585203)
-- [Lifehacker] [Five Ways to Make Your Apple Watch Better for Running](https://lifehacker.com/five-ways-to-make-your-apple-watch-better-for-running-1849585154)
-- [Lifehacker] [The Dryer Maintenance Tasks You Should Do Every Month](https://lifehacker.com/the-dryer-maintenance-tasks-you-should-do-every-month-1849582598)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Throw Out This Bacon, Sausage, and Other Meat, Department of Agriculture Says](https://lifehacker.com/throw-out-this-bacon-sausage-and-other-meat-departme-1849585203)<!-- TECH-POSTS:END -->
 
 ---
 
