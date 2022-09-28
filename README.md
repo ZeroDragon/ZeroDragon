@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2.41 - Nx the Smart, Fast and Extensible Build System](https://dev.to/codingcatdev/241-nx-the-smart-fast-and-extensible-build-system-5gn0)
+- [Dev.to/JS] [Dynamically Using mailto:](https://dev.to/etcroot/dynamically-using-mailto-788)
+- [Dev.to/JS] [✨ Most rated crypto related GitHub libraries](https://dev.to/cryptonite/most-rated-crypto-related-github-libraries-5f9g)
+- [Dev.to/JS] [iOS 14 Homescreen Free Download in HTML, CSS And JavaScript](https://dev.to/zubairkhokhar/ios-14-homescreen-free-download-in-html-css-and-javascript-28n9)
 - [Dev.to/JS] [Scroll List Animation Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/scroll-list-animation-free-download-in-html-css-and-javascript-1ep5)
 - [Dev.to/JS] [HacktoberFest 2022 | Repositories](https://dev.to/kavyanshpandey/hacktoberfest-2022-repositories-5bb)
 - [Dev.to/JS] [Closure + Arrow function = extremely short](https://dev.to/kaziusan/closure-arrow-function-extremely-short-2dhf)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 Practical Array Methods in JavaScript](https://dev.to/yukio1o5/top-5-practical-array-methods-in-javascript-4jnm)
 - [Lifehacker] [Expensive Credit Cards That Don&#39;t Seem Worth It, But Are](https://lifehacker.com/expensive-credit-cards-that-dont-seem-worth-it-but-are-1849586219)
 - [Dev.to/JS] [How to create Google&#39;s Input Field with Tailwind?](https://dev.to/gabrielmlinassi/how-to-create-googles-input-field-with-tailwind-3io5)
-- [Dev.to/JS] [Getting Started with React Query](https://dev.to/nischal_dutt/getting-started-with-react-query-30g7)
-- [Dev.to/JS] [#ThisMonthInSWA - Sep 2022 Roundup!](https://dev.to/azure/thismonthinswa-sep-2022-roundup-3mg1)
 - [Lifehacker] [How to &lpar;Legally&rpar; Get Out of Jury Duty](https://lifehacker.com/how-to-legally-get-out-of-jury-duty-1849591704)
-- [Dev.to/JS] [Hiring](https://dev.to/shacodes/hiring-5f0h)
-- [Dev.to/JS] [Have you ever made an app?](https://dev.to/rodrigo_ramirez_f5f8b5933/have-you-ever-made-an-app-5b41)
 - [Lifehacker] [The Best Way to Grill That Last Bit of Summer Corn](https://lifehacker.com/the-best-way-to-grill-that-last-bit-of-summer-corn-1849591851)
 - [Lifehacker] [How to Fix a Stuck PS5 Disc](https://lifehacker.com/how-to-fix-a-stuck-ps5-disc-1849590991)
 - [Lifehacker] [Your Cocktail Needs a Meringue Float](https://lifehacker.com/your-cocktail-needs-a-meringue-float-1849591308)
