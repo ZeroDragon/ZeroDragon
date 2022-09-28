@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Complete Guide To AngularJS Testing](https://dev.to/lambdatest/a-complete-guide-to-angularjs-testing-lf3)
+- [Lifehacker] [You Can Still Get DVDs From Netflix &lpar;and Maybe You Should&rpar;](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
+- [Dev.to/JS] [Speed test - Payload vs. Directus vs. Strapi](https://dev.to/payloadcms/speed-test-payload-vs-directus-vs-strapi-4jn3)
+- [Dev.to/JS] [How to Add A React Lightbox to Your Project or Website &lpar;in Just 3 Steps&rpar;](https://dev.to/silviaodwyer/how-to-add-a-react-lightbox-to-your-project-or-website-in-just-3-steps-3b6i)
+- [Dev.to/JS] [New js framework](https://dev.to/jamshdbek/new-js-femwork-466j)
+- [Lifehacker] [You Can Buy Cheaper Nintendo Switch Games From Another Country](https://lifehacker.com/you-can-buy-cheaper-nintendo-switch-games-from-another-1849588044)
+- [Dev.to/JS] [filter&lpar;&rpar; method in JavaScript](https://dev.to/bl4ckst0n3/filter-method-in-javascript-5cag)
 - [Lifehacker] [Five Clever Ways You Should Be Using a Hot Glue Gun, But Aren’t](https://lifehacker.com/five-clever-ways-you-should-be-using-a-hot-glue-gun-bu-1849583389)
 - [Dev.to/JS] [Crafting generative art with javascript generators](https://dev.to/bohdanstupak1/crafting-generative-art-with-javascript-generators-6i6)
 - [Dev.to/JS] [D3, why only D3?](https://dev.to/modgil_23/d3-why-only-d3-1lki)
 - [Dev.to/JS] [What To Look For When Choosing the Right JavaScript Library](https://dev.to/webixui/what-to-look-for-when-choosing-the-right-javascript-library-4n6l)
+- [Dev.to/JS] [Let me understand how JavaScript works under the hood](https://dev.to/inancakduvan/let-me-understand-how-javascript-works-under-the-hood-3ibf)
 - [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)
 - [Dev.to/JS] [Intersection of Array](https://dev.to/zeeshanali0704/intersection-of-array-46nk)
 - [Dev.to/JS] [How To Contact Facebook Support Find Solutions From Facebook Help Center](https://dev.to/adamsmith46/how-to-contact-facebook-support-find-solutions-from-facebook-help-center-213d)
 - [Dev.to/JS] [Create alert on new database entry](https://dev.to/rehman_ali/create-alert-on-new-database-entry-4c6e)
-- [Dev.to/JS] [Scroll Based Animation in HTML, CSS And JavaScript](https://dev.to/zubairkhokhar/scroll-based-animation-in-html-css-and-javascript-3n1j)
-- [Dev.to/JS] [Creating a navigation bar in react with Routing](https://dev.to/elobigg/creating-a-navigation-bar-in-react-with-routing-4e3p)
-- [Dev.to/JS] [Building a Kanban board with Node.js, React and Websockets 📝 ✨](https://dev.to/novu/building-a-beautiful-kanban-board-with-nodejs-react-and-websockets-39dk)
-- [Dev.to/JS] [How to solve Mexican wave algorithm in JavaScript](https://dev.to/davidalimazo/how-to-solve-mexican-wave-algorithm-in-javascript-4hia)
-- [Dev.to/JS] [React Js Add Credit Card](https://dev.to/aliwano/react-js-add-credit-card-26f2)
-- [Dev.to/JS] [TechMagic Successfully Passed the ISO Audit](https://dev.to/techmagic/techmagic-successfully-passed-the-iso-audit-56ba)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know If You Have a Toxic Relationship With Your Sibling](https://lifehacker.com/how-to-know-if-you-have-a-toxic-relationship-with-your-1849581752)
 - [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
 - [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
-- [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)
-- [Lifehacker] [Is BeReal Safe?](https://lifehacker.com/is-bereal-safe-1849582284)
-- [Lifehacker] [Air Fry Your Frozen Shrimp Without Thawing Them First](https://lifehacker.com/air-fry-your-frozen-shrimp-without-thawing-them-first-1849582470)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)<!-- TECH-POSTS:END -->
 
 ---
 
