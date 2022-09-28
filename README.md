@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everyone Should Sit Down When They Pee](https://lifehacker.com/everyone-should-sit-down-when-they-pee-1849587707)
+- [Dev.to/JS] [Adding ESLint to existing react project](https://dev.to/lokdevp/adding-eslint-to-existing-react-project-1nhd)
+- [Lifehacker] [The Difference Between Problem-Based and Emotion-Based Coping](https://lifehacker.com/the-difference-between-problem-based-and-emotion-based-1849587690)
 - [Dev.to/JS] [A Complete Guide To AngularJS Testing](https://dev.to/lambdatest/a-complete-guide-to-angularjs-testing-lf3)
 - [Lifehacker] [You Can Still Get DVDs From Netflix &lpar;and Maybe You Should&rpar;](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
 - [Dev.to/JS] [Speed test - Payload vs. Directus vs. Strapi](https://dev.to/payloadcms/speed-test-payload-vs-directus-vs-strapi-4jn3)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)
 - [Dev.to/JS] [Intersection of Array](https://dev.to/zeeshanali0704/intersection-of-array-46nk)
 - [Dev.to/JS] [How To Contact Facebook Support Find Solutions From Facebook Help Center](https://dev.to/adamsmith46/how-to-contact-facebook-support-find-solutions-from-facebook-help-center-213d)
-- [Dev.to/JS] [Create alert on new database entry](https://dev.to/rehman_ali/create-alert-on-new-database-entry-4c6e)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fentanyl, Razors, and 7 Other Things You Won&#39;t Actually Find in Halloween Candy](https://lifehacker.com/fentanyl-razors-and-7-other-things-you-wont-actually-1849583370)
 - [Lifehacker] [How to Stop Games From Randomly Shutting Down Your PC](https://lifehacker.com/how-to-stop-games-from-randomly-shutting-down-your-pc-1849583721)
 - [Lifehacker] [How to Know If You Have a Toxic Relationship With Your Sibling](https://lifehacker.com/how-to-know-if-you-have-a-toxic-relationship-with-your-1849581752)
-- [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
-- [Lifehacker] [8 Ways to Make Takeout Cheaper and Healthier, According to Reddit](https://lifehacker.com/8-ways-to-make-takeout-cheaper-and-healthier-according-1849583285)
-- [Lifehacker] [How to Spot Anti-Homeless Architecture &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-anti-homeless-architecture-and-what-to-do-1849582437)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on HBO Max in October 2022](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)<!-- TECH-POSTS:END -->
 
 ---
 
