@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive asynchronous request status](https://dev.to/arnosolo/responsive-asynchronous-request-status-39ee)
+- [Dev.to/JS] [All you need to know about JavaScript Testing &lpar;JEST&rpar;](https://dev.to/quokkalabs/all-you-need-to-know-about-javascript-testing-jest-3ip7)
 - [Dev.to/JS] [Hide or Reveal a Sticky Header on Scroll](https://dev.to/divinector/hide-or-reveal-a-sticky-header-on-scroll-5aoh)
 - [Dev.to/JS] [&quot;Bootstrap reactify&quot; chrome extension](https://dev.to/shacodes/bootstrap-reactify-chrome-extension-32p1)
 - [Dev.to/JS] [Achetez des pilules mdpv, MDMA et ecstasy, de la cocaïne, du LSD et des](https://dev.to/mikewoo75928566/achetez-des-pilules-mdpv-mdma-et-ecstasy-de-la-cocaine-du-lsd-et-des-3n14)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte Vs React - Which is Better for Web Development? [2023]](https://dev.to/himadripatelace/svelte-vs-react-which-is-better-for-web-development-2023-4fil)
 - [Dev.to/JS] [&quot;Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.&quot; }](https://dev.to/larryson7780/invalid-api-key-please-see-httpopenweathermaporgfaqerror401-for-more-info--197l)
 - [Dev.to/JS] [Portfolio with Nextjs and TailwindCSS - first iteration](https://dev.to/nabroleonx/my-new-portfolio-first-iteration-163g)
-- [Dev.to/JS] [20 achievable JavaScript project ideas for beginner web developers](https://dev.to/tpalpallatoc/20-achievable-javascript-project-ideas-for-beginner-web-developers-8f)
-- [Dev.to/JS] [Angular vs React Which Is Better for Web Development?](https://dev.to/jessica89079831/angular-vs-react-which-is-better-for-web-development-3g94)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
