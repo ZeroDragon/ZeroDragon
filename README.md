@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dropdown Menu Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/dropdown-menu-free-download-in-html-css-and-javascript-4l2c)
+- [Dev.to/JS] [Clean Architecture using React TypeScript](https://dev.to/phatsss/clean-architecture-using-react-typescript-1ojf)
+- [Dev.to/JS] [Stick Hero with Canvas Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/stick-hero-with-canvas-free-download-in-html-css-and-javascript-fn1)
 - [Dev.to/JS] [React news app 📰 with customized news feed recommendation!!✨](https://dev.to/anandpothraj/react-singlepage-fully-responsive-news-app-with-customized-news-feed-recommendation-4l2k)
 - [Dev.to/JS] [Running medusa in docker](https://dev.to/dailydevtips1/running-medusa-in-docker-2dd4)
 - [Dev.to/JS] [JavaScript is Everywhere!](https://dev.to/aswin2001barath/javascript-is-everywhere-4mga)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [If you are looking for a place to stay with Luxurious Amenities](https://dev.to/sobhasentosab/if-you-are-looking-for-a-place-to-stay-with-luxurious-amenities-5emj)
 - [Dev.to/JS] [the Heater Pro X with a energy of 350 watts is a superb](https://dev.to/rcorreaz/the-heater-pro-x-with-a-energy-of-350-watts-is-a-superb-2m91)
 - [Dev.to/JS] [20 Creative Ways to Solve Exam Dumps](https://dev.to/obazpsyz/20-creative-ways-to-solve-exam-dumps-3igh)
-- [Dev.to/JS] [Django with Native Firestore database](https://dev.to/kalidasraja/django-with-native-firestore-database-hj5)
-- [Dev.to/JS] [Fundamentals of let, const, var 🚀](https://dev.to/khalidhossain/fundamentals-of-let-const-var-48fl)
-- [Dev.to/JS] [Firebase Functions - An application is requesting permission to access your Google Account.](https://dev.to/aacitelli/firebase-functions-an-application-is-requesting-permission-to-access-your-google-account-3626)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
