@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 9 I4G 10daysofcodechallenge](https://dev.to/abubakarismail/day-9-i4g-10daysofcodechallenge-1di6)
+- [Dev.to/JS] [10 LINKS to learn the basics of programming](https://dev.to/lucasandre/10-links-to-learn-the-basics-of-programming-1jbp)
+- [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 9&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-9-9b0)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Dev.to/JS] [DAY 9 CODE CHALLENGE](https://dev.to/chinwendufausty/day-9-code-challenge-16fa)
 - [Dev.to/JS] [5 Essential Tips for Custom React Hooks](https://dev.to/dayvster/5-essential-tips-for-custom-hooks-3dhc)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How You Load a Piping Bag](https://lifehacker.com/this-is-how-you-load-a-piping-bag-1849596610)
 - [Lifehacker] [Cardamom Is the New Cinnamon](https://lifehacker.com/cardamom-is-the-new-cinnamon-1849596493)
 - [Lifehacker] [19 of the Best JRPGs You Can Play on Modern Consoles](https://lifehacker.com/19-of-the-best-jrpgs-you-can-play-on-modern-consoles-1849371946)
-- [Dev.to/JS] [Why Learn JavaScript](https://dev.to/tmchuynh/why-learn-javascript-4mnm)
-- [Dev.to/JS] [Longest Repeating Character Replacement](https://dev.to/zeeshanali0704/longest-repeating-character-replacement-535l)
-- [Dev.to/JS] [Pokéchu Discord Bot](https://dev.to/devmike123/pokechu-discord-bot-kdd)
 - [Lifehacker] [Now Anyone Can Use This AI That Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
 - [Lifehacker] [Comedian Mo Amer Talks About Writing a Show for Everyone](https://lifehacker.com/comedian-mo-amer-talks-about-writing-a-show-for-everyon-1849596375)
 - [Lifehacker] [How Many Cups of Coffee You Should Drink Per Day, According to &#39;Science&#39;](https://lifehacker.com/how-many-cups-of-coffee-you-should-drink-per-day-accor-1849596302)
