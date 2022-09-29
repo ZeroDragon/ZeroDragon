@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Language Version Managers - the Developer Parachutes](https://dev.to/devobsessed/language-version-managers-the-developer-parachutes-bmn)
+- [Dev.to/JS] [How can I use the Notion API to automate Notion? API](https://dev.to/semisenioritis/how-can-i-use-the-notion-api-to-automate-notionapi-1inp)
+- [Dev.to/JS] [Awesome GitHub Repositories for React](https://dev.to/surajondev/awesome-github-repositories-for-react-4cnn)
+- [Lifehacker] [How to Make Your Own Concrete Tiles &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-make-your-own-concrete-tiles-and-why-you-might-1849589357)
+- [Dev.to/JS] [apple login](https://dev.to/kimsin62756145/apple-login-93c)
 - [Lifehacker] [25 of the Gayest Straight Movies Ever Made](https://lifehacker.com/25-of-the-gayest-straight-movies-ever-made-1849582832)
 - [Dev.to/JS] [287. Find the Duplicate Number 🚀](https://dev.to/samuelhinchliffe/287-find-the-duplicate-number-3d4e)
 - [Dev.to/JS] [Connect to mongodb using node.js and express.js and send post request](https://dev.to/rahul__/connect-to-mongodb-using-nodejs-and-expressjs-and-send-post-request-7dn)
@@ -35,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimize React Application Performance](https://dev.to/007_dark_shadow/optimize-react-application-performance-3156)
 - [Dev.to/JS] [Build a Multistep Form With React Hook Form](https://dev.to/clarity89/build-a-multistep-form-with-react-hook-form-52l2)
 - [Dev.to/JS] [Axios interceptor token on first call](https://dev.to/edsonjuniornarvaes/axios-interceptor-token-on-first-call-13l2)
-- [Dev.to/JS] [Simple way to generate PDF from HTML](https://dev.to/climentea/simple-way-to-generate-pdf-from-html-21mh)
-- [Dev.to/JS] [An Introduction to Native Web Components](https://dev.to/asayerio_techblog/an-introduction-to-native-web-components-1on9)
-- [Dev.to/JS] [Get to know some of our java &amp; programming language talks for DevoxxMA 2022!](https://dev.to/essaydyoumayma/get-to-know-our-java-programming-language-talks-for-devoxxma-2022-15ak)
-- [Dev.to/JS] [Basic usage of Insomnia](https://dev.to/emmaswamn/basic-usage-of-insomnia-4ibl)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
 - [Lifehacker] [How to File a FOIA Request &lpar;and the Dirt It Can Help You Find&rpar;](https://lifehacker.com/how-to-file-a-foia-request-and-the-dirt-it-can-help-yo-1849586091)
-- [Lifehacker] [You Really Should Use More White Pepper](https://lifehacker.com/you-really-should-use-more-white-pepper-1849587399)
-- [Lifehacker] [What Is a &#39;Normal&#39; Body Count?](https://lifehacker.com/what-is-a-normal-body-count-1849586649)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Really Should Use More White Pepper](https://lifehacker.com/you-really-should-use-more-white-pepper-1849587399)<!-- TECH-POSTS:END -->
 
 ---
 
