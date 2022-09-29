@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fundamentals of let, const, var 🚀](https://dev.to/khalidhossain/fundamentals-of-let-const-var-48fl)
 - [Dev.to/JS] [Firebase Functions - An application is requesting permission to access your Google Account.](https://dev.to/aacitelli/firebase-functions-an-application-is-requesting-permission-to-access-your-google-account-3626)
 - [Dev.to/JS] [Let&#39;s write a client-side hash router](https://dev.to/turowski/-lets-write-a-client-side-hash-router-k)
 - [Dev.to/JS] [What is Object Destructuring in JavaScript?](https://dev.to/aliegotha/what-is-object-destructuring-in-javascript--ij4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Merging Branches](https://dev.to/cychu42/merging-branches-32m)
 - [Dev.to/JS] [2.41 - Nx the Smart, Fast and Extensible Build System](https://dev.to/codingcatdev/241-nx-the-smart-fast-and-extensible-build-system-5gn0)
 - [Dev.to/JS] [Dynamically Using mailto:](https://dev.to/etcroot/dynamically-using-mailto-788)
-- [Dev.to/JS] [✨ Most rated crypto related GitHub libraries](https://dev.to/cryptonite/most-rated-crypto-related-github-libraries-5f9g)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
