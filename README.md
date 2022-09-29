@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Object Destructuring in JavaScript?](https://dev.to/aliegotha/what-is-object-destructuring-in-javascript--ij4)
+- [Dev.to/JS] [An Introduction to PUG](https://dev.to/timothyrobards/an-introduction-to-pug-2f11)
+- [Dev.to/JS] [Use PNPM instead of NPM, Yarn](https://dev.to/nilanth/use-pnpm-instead-of-npm-yarn-2ebe)
 - [Dev.to/JS] [How To React.js?](https://dev.to/sujeshgathe/how-to-reactjs-4kl6)
 - [Dev.to/JS] [The difference between encodeURI&lpar;&rpar; and encodeURIComponent&lpar;&rpar;](https://dev.to/juliafmorgado/the-difference-between-encodeuri-and-encodeuricomponent-2c0o)
 - [Dev.to/JS] [Most Commonly Used JavaScript Methods in 2023](https://dev.to/aliegotha/most-commonly-used-javascript-methods-in-2023-3jo8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✨ Most rated crypto related GitHub libraries](https://dev.to/cryptonite/most-rated-crypto-related-github-libraries-5f9g)
 - [Dev.to/JS] [iOS 14 Homescreen Free Download in HTML, CSS And JavaScript](https://dev.to/zubairkhokhar/ios-14-homescreen-free-download-in-html-css-and-javascript-28n9)
 - [Dev.to/JS] [Scroll List Animation Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/scroll-list-animation-free-download-in-html-css-and-javascript-1ep5)
-- [Dev.to/JS] [HacktoberFest 2022 | Repositories](https://dev.to/kavyanshpandey/hacktoberfest-2022-repositories-5bb)
-- [Dev.to/JS] [Closure + Arrow function = extremely short](https://dev.to/kaziusan/closure-arrow-function-extremely-short-2dhf)
-- [Dev.to/JS] [How to render pretty code blocks using Contentful Rich Text Editor and Gatsby](https://dev.to/miguelcrespo/how-to-render-pretty-code-blocks-using-contentful-rich-text-editor-and-gatsby-46a5)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
