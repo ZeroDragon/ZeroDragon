@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [the Heater Pro X with a energy of 350 watts is a superb](https://dev.to/rcorreaz/the-heater-pro-x-with-a-energy-of-350-watts-is-a-superb-2m91)
+- [Dev.to/JS] [20 Creative Ways to Solve Exam Dumps](https://dev.to/obazpsyz/20-creative-ways-to-solve-exam-dumps-3igh)
 - [Dev.to/JS] [Django with Native Firestore database](https://dev.to/kalidasraja/django-with-native-firestore-database-hj5)
 - [Dev.to/JS] [Fundamentals of let, const, var 🚀](https://dev.to/khalidhossain/fundamentals-of-let-const-var-48fl)
 - [Dev.to/JS] [Firebase Functions - An application is requesting permission to access your Google Account.](https://dev.to/aacitelli/firebase-functions-an-application-is-requesting-permission-to-access-your-google-account-3626)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To React.js?](https://dev.to/sujeshgathe/how-to-reactjs-4kl6)
 - [Dev.to/JS] [The difference between encodeURI&lpar;&rpar; and encodeURIComponent&lpar;&rpar;](https://dev.to/juliafmorgado/the-difference-between-encodeuri-and-encodeuricomponent-2c0o)
 - [Dev.to/JS] [Most Commonly Used JavaScript Methods in 2023](https://dev.to/aliegotha/most-commonly-used-javascript-methods-in-2023-3jo8)
-- [Dev.to/JS] [Merging Branches](https://dev.to/cychu42/merging-branches-32m)
-- [Dev.to/JS] [2.41 - Nx the Smart, Fast and Extensible Build System](https://dev.to/codingcatdev/241-nx-the-smart-fast-and-extensible-build-system-5gn0)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
