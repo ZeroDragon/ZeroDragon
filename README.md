@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Cardamom Is the New Cinnamon](https://lifehacker.com/cardamom-is-the-new-cinnamon-1849596493)
+- [Lifehacker] [19 of the Best JRPGs You Can Play on Modern Consoles](https://lifehacker.com/19-of-the-best-jrpgs-you-can-play-on-modern-consoles-1849371946)
+- [Dev.to/JS] [Why Learn JavaScript](https://dev.to/tmchuynh/why-learn-javascript-4mnm)
+- [Dev.to/JS] [Longest Repeating Character Replacement](https://dev.to/zeeshanali0704/longest-repeating-character-replacement-535l)
+- [Dev.to/JS] [Pokéchu Discord Bot](https://dev.to/devmike123/pokechu-discord-bot-kdd)
+- [Lifehacker] [Now Anyone Can Use This AI That Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
 - [Dev.to/JS] [Customize Cursor in React App](https://dev.to/agboolaidris/customize-cursor-in-react-app-1j1m)
 - [Lifehacker] [Comedian Mo Amer Talks About Writing a Show for Everyone](https://lifehacker.com/comedian-mo-amer-talks-about-writing-a-show-for-everyon-1849596375)
 - [Dev.to/JS] [Top JavaScript Concepts to Know Before Learning React.](https://dev.to/zobaidulofficial/top-javascript-concepts-to-know-before-learning-react-pfi)
@@ -39,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fun facts about React.](https://dev.to/daoson12/fun-facts-about-react-2ei0)
 - [Lifehacker] [Your Hot Oatmeal Needs Frozen Berries](https://lifehacker.com/your-hot-oatmeal-needs-frozen-berries-1849592840)
 - [Lifehacker] [No One Is Luring Kids With &#39;Rainbow Fentanyl&#39;](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)
-- [Dev.to/JS] [React 🤓](https://dev.to/daoson12/react-2g1k)
-- [Dev.to/JS] [Create a &quot;Table of Contents&quot; for your dev.to posts with one click](https://dev.to/jkettmann/create-a-table-of-contents-for-your-devto-posts-with-one-click-34f4)
-- [Dev.to/JS] [Optimize React Application Performance](https://dev.to/007_dark_shadow/optimize-react-application-performance-3156)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Still Get DVDs From Netflix &lpar;and Maybe You Should&rpar;](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
 - [Lifehacker] [You Can Buy Cheaper Nintendo Switch Games From Another Country](https://lifehacker.com/you-can-buy-cheaper-nintendo-switch-games-from-another-1849588044)
 - [Lifehacker] [Five Clever Ways You Should Be Using a Hot Glue Gun, But Aren’t](https://lifehacker.com/five-clever-ways-you-should-be-using-a-hot-glue-gun-bu-1849583389)
-- [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)
-- [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
-- [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
-- [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)<!-- TECH-POSTS:END -->
 
 ---
 
