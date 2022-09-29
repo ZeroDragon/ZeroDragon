@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How To React.js](https://dev.to/sujeshgathe/how-to-reactjs-4kl6)
+- [Dev.to/JS] [How To React.js?](https://dev.to/sujeshgathe/how-to-reactjs-4kl6)
 - [Dev.to/JS] [The difference between encodeURI&lpar;&rpar; and encodeURIComponent&lpar;&rpar;](https://dev.to/juliafmorgado/the-difference-between-encodeuri-and-encodeuricomponent-2c0o)
 - [Dev.to/JS] [Most Commonly Used JavaScript Methods in 2023](https://dev.to/aliegotha/most-commonly-used-javascript-methods-in-2023-3jo8)
 - [Dev.to/JS] [Merging Branches](https://dev.to/cychu42/merging-branches-32m)
