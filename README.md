@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BeLiv - Blood Sugar Results, Benefits, Pros, Cons, Scam Or Legit?](https://dev.to/beliv86777371/beliv-blood-sugar-results-benefits-pros-cons-scam-or-legit-336j)
+- [Dev.to/JS] [Software Engineer](https://dev.to/asadullohruziev/software-engineer-338f)
 - [Dev.to/JS] [f*ups that made me a better programmer](https://dev.to/emphie/fups-that-made-me-a-better-programmer-4kil)
 - [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/postwell45/6-reasons-why-devops-are-important-for-business-organizations-17n7)
 - [Dev.to/JS] [App Namoro Troll Mobile Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/app-namoro-troll-mobile-free-download-in-html-css-and-javascript-2epd)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stick Hero with Canvas Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/stick-hero-with-canvas-free-download-in-html-css-and-javascript-fn1)
 - [Dev.to/JS] [React news app 📰 with customized news feed recommendation!!✨](https://dev.to/anandpothraj/react-singlepage-fully-responsive-news-app-with-customized-news-feed-recommendation-4l2k)
 - [Dev.to/JS] [Running medusa in docker](https://dev.to/dailydevtips1/running-medusa-in-docker-2dd4)
-- [Dev.to/JS] [JavaScript is Everywhere!](https://dev.to/aswin2001barath/javascript-is-everywhere-4mga)
-- [Dev.to/JS] [javascript: Pure Function](https://dev.to/urstrulyvishwak/javascript-pure-function-1gjf)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
