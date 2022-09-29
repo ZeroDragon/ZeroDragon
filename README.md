@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To React.js](https://dev.to/sujeshgathe/how-to-reactjs-4kl6)
+- [Dev.to/JS] [The difference between encodeURI&lpar;&rpar; and encodeURIComponent&lpar;&rpar;](https://dev.to/juliafmorgado/the-difference-between-encodeuri-and-encodeuricomponent-2c0o)
+- [Dev.to/JS] [Most Commonly Used JavaScript Methods in 2023](https://dev.to/aliegotha/most-commonly-used-javascript-methods-in-2023-3jo8)
+- [Dev.to/JS] [Merging Branches](https://dev.to/cychu42/merging-branches-32m)
 - [Dev.to/JS] [2.41 - Nx the Smart, Fast and Extensible Build System](https://dev.to/codingcatdev/241-nx-the-smart-fast-and-extensible-build-system-5gn0)
 - [Dev.to/JS] [Dynamically Using mailto:](https://dev.to/etcroot/dynamically-using-mailto-788)
 - [Dev.to/JS] [✨ Most rated crypto related GitHub libraries](https://dev.to/cryptonite/most-rated-crypto-related-github-libraries-5f9g)
@@ -33,13 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to render pretty code blocks using Contentful Rich Text Editor and Gatsby](https://dev.to/miguelcrespo/how-to-render-pretty-code-blocks-using-contentful-rich-text-editor-and-gatsby-46a5)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
-- [Dev.to/JS] [Let us Understand D3](https://dev.to/modgil_23/let-us-understand-d3-4dk1)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
-- [Dev.to/JS] [Interactive Animation](https://dev.to/zimlearn/interactive-animation-4n48)
 - [Lifehacker] [When to Use a Legal App &lpar;and When to Hire an Actual Lawyer&rpar;](https://lifehacker.com/when-to-use-a-legal-app-and-when-to-hire-an-actual-law-1849591329)
-- [Dev.to/JS] [Top 5 Practical Array Methods in JavaScript](https://dev.to/yukio1o5/top-5-practical-array-methods-in-javascript-4jnm)
 - [Lifehacker] [Expensive Credit Cards That Don&#39;t Seem Worth It, But Are](https://lifehacker.com/expensive-credit-cards-that-dont-seem-worth-it-but-are-1849586219)
-- [Dev.to/JS] [How to create Google&#39;s Input Field with Tailwind?](https://dev.to/gabrielmlinassi/how-to-create-googles-input-field-with-tailwind-3io5)
 - [Lifehacker] [How to &lpar;Legally&rpar; Get Out of Jury Duty](https://lifehacker.com/how-to-legally-get-out-of-jury-duty-1849591704)
 - [Lifehacker] [The Best Way to Grill That Last Bit of Summer Corn](https://lifehacker.com/the-best-way-to-grill-that-last-bit-of-summer-corn-1849591851)
 - [Lifehacker] [How to Fix a Stuck PS5 Disc](https://lifehacker.com/how-to-fix-a-stuck-ps5-disc-1849590991)
