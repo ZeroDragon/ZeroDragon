@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
+- [Dev.to/JS] [DAY 9 CODE CHALLENGE](https://dev.to/chinwendufausty/day-9-code-challenge-16fa)
+- [Dev.to/JS] [5 Essential Tips for Custom React Hooks](https://dev.to/dayvster/5-essential-tips-for-custom-hooks-3dhc)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Dev.to/JS] [Create beautiful placeholders for your images](https://dev.to/douglasdemoura/create-beautiful-placeholders-for-your-images-582m)
 - [Dev.to/JS] [Fighting Game](https://dev.to/mohitbansal_302/fighting-game-1cb3)
@@ -41,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Longest Repeating Character Replacement](https://dev.to/zeeshanali0704/longest-repeating-character-replacement-535l)
 - [Dev.to/JS] [Pokéchu Discord Bot](https://dev.to/devmike123/pokechu-discord-bot-kdd)
 - [Lifehacker] [Now Anyone Can Use This AI That Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
-- [Dev.to/JS] [Customize Cursor in React App](https://dev.to/agboolaidris/customize-cursor-in-react-app-1j1m)
 - [Lifehacker] [Comedian Mo Amer Talks About Writing a Show for Everyone](https://lifehacker.com/comedian-mo-amer-talks-about-writing-a-show-for-everyon-1849596375)
-- [Dev.to/JS] [Top JavaScript Concepts to Know Before Learning React.](https://dev.to/zobaidulofficial/top-javascript-concepts-to-know-before-learning-react-pfi)
 - [Lifehacker] [How Many Cups of Coffee You Should Drink Per Day, According to &#39;Science&#39;](https://lifehacker.com/how-many-cups-of-coffee-you-should-drink-per-day-accor-1849596302)
 - [Lifehacker] [How to Make Your Own Concrete Tiles &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-make-your-own-concrete-tiles-and-why-you-might-1849589357)
 - [Lifehacker] [25 of the Gayest Straight Movies Ever Made](https://lifehacker.com/25-of-the-gayest-straight-movies-ever-made-1849582832)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Cocktail Needs a Meringue Float](https://lifehacker.com/your-cocktail-needs-a-meringue-float-1849591308)
 - [Lifehacker] [The XBox Accessibility Settings You Aren’t Using, but Should Be](https://lifehacker.com/the-xbox-accessibility-settings-you-aren-t-using-but-s-1849589902)
 - [Lifehacker] [Use This App to Block Ads and Reels From Instagram](https://lifehacker.com/use-this-app-to-block-ads-and-reels-from-instagram-1849586357)
-- [Lifehacker] [How to Transition Your Plants Indoors for Winter](https://lifehacker.com/how-to-transition-your-plants-indoors-for-winter-1849589228)
-- [Lifehacker] [Everyone Should Sit Down When They Pee](https://lifehacker.com/everyone-should-sit-down-when-they-pee-1849587707)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Transition Your Plants Indoors for Winter](https://lifehacker.com/how-to-transition-your-plants-indoors-for-winter-1849589228)<!-- TECH-POSTS:END -->
 
 ---
 
