@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React news app 📰 with customized news feed recommendation!!✨](https://dev.to/anandpothraj/react-singlepage-fully-responsive-news-app-with-customized-news-feed-recommendation-4l2k)
 - [Dev.to/JS] [Running medusa in docker](https://dev.to/dailydevtips1/running-medusa-in-docker-2dd4)
 - [Dev.to/JS] [JavaScript is Everywhere!](https://dev.to/aswin2001barath/javascript-is-everywhere-4mga)
 - [Dev.to/JS] [javascript: Pure Function](https://dev.to/urstrulyvishwak/javascript-pure-function-1gjf)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Django with Native Firestore database](https://dev.to/kalidasraja/django-with-native-firestore-database-hj5)
 - [Dev.to/JS] [Fundamentals of let, const, var 🚀](https://dev.to/khalidhossain/fundamentals-of-let-const-var-48fl)
 - [Dev.to/JS] [Firebase Functions - An application is requesting permission to access your Google Account.](https://dev.to/aacitelli/firebase-functions-an-application-is-requesting-permission-to-access-your-google-account-3626)
-- [Dev.to/JS] [Let&#39;s write a client-side hash router](https://dev.to/turowski/-lets-write-a-client-side-hash-router-k)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
