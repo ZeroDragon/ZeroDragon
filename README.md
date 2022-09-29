@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Most Common Array Methods JavaScript in 2023](https://dev.to/aliegotha/most-common-array-methods-javascript-in-2023-11b3)
+- [Lifehacker] [Stop Sharing Tinder Screenshots on the Internet, You Monsters](https://lifehacker.com/stop-sharing-tinder-screenshots-on-the-internet-you-mo-1849596226)
+- [Lifehacker] [This Is How You Load a Piping Bag](https://lifehacker.com/this-is-how-you-load-a-piping-bag-1849596610)
 - [Lifehacker] [Cardamom Is the New Cinnamon](https://lifehacker.com/cardamom-is-the-new-cinnamon-1849596493)
 - [Lifehacker] [19 of the Best JRPGs You Can Play on Modern Consoles](https://lifehacker.com/19-of-the-best-jrpgs-you-can-play-on-modern-consoles-1849371946)
 - [Dev.to/JS] [Why Learn JavaScript](https://dev.to/tmchuynh/why-learn-javascript-4mnm)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [287. Find the Duplicate Number 🚀](https://dev.to/samuelhinchliffe/287-find-the-duplicate-number-3d4e)
 - [Dev.to/JS] [Connect to mongodb using node.js and express.js and send post request](https://dev.to/rahul__/connect-to-mongodb-using-nodejs-and-expressjs-and-send-post-request-7dn)
 - [Lifehacker] [9 of the Best Festivals and Events Around the World in October](https://lifehacker.com/9-of-the-best-festivals-and-events-around-the-world-in-1849590169)
-- [Dev.to/JS] [Fun facts about React.](https://dev.to/daoson12/fun-facts-about-react-2ei0)
 - [Lifehacker] [Your Hot Oatmeal Needs Frozen Berries](https://lifehacker.com/your-hot-oatmeal-needs-frozen-berries-1849592840)
 - [Lifehacker] [No One Is Luring Kids With &#39;Rainbow Fentanyl&#39;](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everyone Should Sit Down When They Pee](https://lifehacker.com/everyone-should-sit-down-when-they-pee-1849587707)
 - [Lifehacker] [The Difference Between Problem-Based and Emotion-Based Coping](https://lifehacker.com/the-difference-between-problem-based-and-emotion-based-1849587690)
 - [Lifehacker] [You Can Still Get DVDs From Netflix &lpar;and Maybe You Should&rpar;](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
-- [Lifehacker] [You Can Buy Cheaper Nintendo Switch Games From Another Country](https://lifehacker.com/you-can-buy-cheaper-nintendo-switch-games-from-another-1849588044)
-- [Lifehacker] [Five Clever Ways You Should Be Using a Hot Glue Gun, But Aren’t](https://lifehacker.com/five-clever-ways-you-should-be-using-a-hot-glue-gun-bu-1849583389)
-- [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Buy Cheaper Nintendo Switch Games From Another Country](https://lifehacker.com/you-can-buy-cheaper-nintendo-switch-games-from-another-1849588044)<!-- TECH-POSTS:END -->
 
 ---
 
