@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Delay Scroll Animation Free Download in HTML, CSS And JavaScript](https://dev.to/zubairkhokhar/delay-scroll-animation-free-download-in-html-css-and-javascript-91c)
+- [Dev.to/JS] [Fun facts about React.](https://dev.to/daoson12/fun-facts-about-react-2ei0)
+- [Lifehacker] [Your Hot Oatmeal Needs Frozen Berries](https://lifehacker.com/your-hot-oatmeal-needs-frozen-berries-1849592840)
+- [Lifehacker] [No One Is Luring Kids With &#39;Rainbow Fentanyl&#39;](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)
+- [Dev.to/JS] [React 🤓](https://dev.to/daoson12/react-2g1k)
+- [Dev.to/JS] [Create a &quot;Table of Contents&quot; for your dev.to posts with one click](https://dev.to/jkettmann/create-a-table-of-contents-for-your-devto-posts-with-one-click-34f4)
+- [Dev.to/JS] [Optimize React Application Performance](https://dev.to/007_dark_shadow/optimize-react-application-performance-3156)
+- [Dev.to/JS] [Build a Multistep Form With React Hook Form](https://dev.to/clarity89/build-a-multistep-form-with-react-hook-form-52l2)
 - [Dev.to/JS] [Axios interceptor token on first call](https://dev.to/edsonjuniornarvaes/axios-interceptor-token-on-first-call-13l2)
+- [Dev.to/JS] [Simple way to generate PDF from HTML](https://dev.to/climentea/simple-way-to-generate-pdf-from-html-21mh)
 - [Dev.to/JS] [An Introduction to Native Web Components](https://dev.to/asayerio_techblog/an-introduction-to-native-web-components-1on9)
 - [Dev.to/JS] [Get to know some of our java &amp; programming language talks for DevoxxMA 2022!](https://dev.to/essaydyoumayma/get-to-know-our-java-programming-language-talks-for-devoxxma-2022-15ak)
 - [Dev.to/JS] [Basic usage of Insomnia](https://dev.to/emmaswamn/basic-usage-of-insomnia-4ibl)
-- [Dev.to/JS] [Resume SVG Scroll Animation Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/resume-svg-scroll-animation-free-download-in-html-css-and-javascript-3me2)
-- [Dev.to/JS] [Software Engineer](https://dev.to/asadullohruziev/software-engineer-338f)
 - [Dev.to/JS] [f*ups that made me a better programmer](https://dev.to/emphie/fups-that-made-me-a-better-programmer-4kil)
 - [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/postwell45/6-reasons-why-devops-are-important-for-business-organizations-17n7)
-- [Dev.to/JS] [App Namoro Troll Mobile Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/app-namoro-troll-mobile-free-download-in-html-css-and-javascript-2epd)
-- [Dev.to/JS] [An introduction to Vite ⚡](https://dev.to/mohsinyaqoob/an-introduction-to-vite-4e5l)
-- [Dev.to/JS] [Send Emails with Gmail API](https://dev.to/sofiatarhonska/send-emails-with-gmail-api-b55)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Really Should Use More White Pepper](https://lifehacker.com/you-really-should-use-more-white-pepper-1849587399)
 - [Lifehacker] [What Is a &#39;Normal&#39; Body Count?](https://lifehacker.com/what-is-a-normal-body-count-1849586649)
 - [Lifehacker] [Your Onion Dip Needs at Least Five Onions](https://lifehacker.com/your-onion-dip-needs-at-least-five-onions-1849586590)
-- [Crazy Programmer] [David Patterson Biography](https://www.thecrazyprogrammer.com/2022/09/david-patterson-biography.html)
-- [Lifehacker] [How Does Student Loan Forgiveness Affect Your Credit Score?](https://lifehacker.com/how-does-student-loan-forgiveness-affect-your-credit-sc-1849586487)
-- [Lifehacker] [‘Plow’ Your Leaves With Cardboard](https://lifehacker.com/plow-your-leaves-with-cardboard-1849586080)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [David Patterson Biography](https://www.thecrazyprogrammer.com/2022/09/david-patterson-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
