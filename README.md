@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [25 of the Gayest Straight Movies Ever Made](https://lifehacker.com/25-of-the-gayest-straight-movies-ever-made-1849582832)
+- [Dev.to/JS] [287. Find the Duplicate Number 🚀](https://dev.to/samuelhinchliffe/287-find-the-duplicate-number-3d4e)
+- [Dev.to/JS] [Connect to mongodb using node.js and express.js and send post request](https://dev.to/rahul__/connect-to-mongodb-using-nodejs-and-expressjs-and-send-post-request-7dn)
+- [Lifehacker] [9 of the Best Festivals and Events Around the World in October](https://lifehacker.com/9-of-the-best-festivals-and-events-around-the-world-in-1849590169)
 - [Dev.to/JS] [Fun facts about React.](https://dev.to/daoson12/fun-facts-about-react-2ei0)
 - [Lifehacker] [Your Hot Oatmeal Needs Frozen Berries](https://lifehacker.com/your-hot-oatmeal-needs-frozen-berries-1849592840)
 - [Lifehacker] [No One Is Luring Kids With &#39;Rainbow Fentanyl&#39;](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Introduction to Native Web Components](https://dev.to/asayerio_techblog/an-introduction-to-native-web-components-1on9)
 - [Dev.to/JS] [Get to know some of our java &amp; programming language talks for DevoxxMA 2022!](https://dev.to/essaydyoumayma/get-to-know-our-java-programming-language-talks-for-devoxxma-2022-15ak)
 - [Dev.to/JS] [Basic usage of Insomnia](https://dev.to/emmaswamn/basic-usage-of-insomnia-4ibl)
-- [Dev.to/JS] [f*ups that made me a better programmer](https://dev.to/emphie/fups-that-made-me-a-better-programmer-4kil)
-- [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/postwell45/6-reasons-why-devops-are-important-for-business-organizations-17n7)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
 - [Lifehacker] [How to File a FOIA Request &lpar;and the Dirt It Can Help You Find&rpar;](https://lifehacker.com/how-to-file-a-foia-request-and-the-dirt-it-can-help-yo-1849586091)
 - [Lifehacker] [You Really Should Use More White Pepper](https://lifehacker.com/you-really-should-use-more-white-pepper-1849587399)
-- [Lifehacker] [What Is a &#39;Normal&#39; Body Count?](https://lifehacker.com/what-is-a-normal-body-count-1849586649)
-- [Lifehacker] [Your Onion Dip Needs at Least Five Onions](https://lifehacker.com/your-onion-dip-needs-at-least-five-onions-1849586590)
-- [Crazy Programmer] [David Patterson Biography](https://www.thecrazyprogrammer.com/2022/09/david-patterson-biography.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is a &#39;Normal&#39; Body Count?](https://lifehacker.com/what-is-a-normal-body-count-1849586649)<!-- TECH-POSTS:END -->
 
 ---
 
