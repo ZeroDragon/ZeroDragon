@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Configuring useQuery Hook](https://dev.to/nischal_dutt/configuring-usequery-hook-6ag)
+- [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
+- [Lifehacker] [How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
+- [Dev.to/JS] [If you want to be good developer do tests](https://dev.to/migueloliveiraz/if-you-want-to-be-good-developer-do-tests-35jc)
+- [Dev.to/JS] [How to subtract objects from an array of objects by id in Javascript](https://dev.to/pestrinmarco/how-to-subtract-objects-from-an-array-of-objects-by-id-in-javascript-6e9)
+- [Dev.to/JS] [Harmony ✨- Create, upload, edit &lpar;multiple&rpar; files on the fly, in the browser and track them with Git, via Web Assembly.](https://dev.to/thomscoder/harmony-create-upload-edit-on-the-fly-in-the-browser-and-track-them-with-git-via-web-assembly-4pic)
 - [Dev.to/JS] [Most Common Array Methods JavaScript in 2023](https://dev.to/aliegotha/most-common-array-methods-javascript-in-2023-11b3)
 - [Lifehacker] [Stop Sharing Tinder Screenshots on the Internet, You Monsters](https://lifehacker.com/stop-sharing-tinder-screenshots-on-the-internet-you-mo-1849596226)
 - [Lifehacker] [This Is How You Load a Piping Bag](https://lifehacker.com/this-is-how-you-load-a-piping-bag-1849596610)
@@ -38,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Many Cups of Coffee You Should Drink Per Day, According to &#39;Science&#39;](https://lifehacker.com/how-many-cups-of-coffee-you-should-drink-per-day-accor-1849596302)
 - [Dev.to/JS] [Language Version Managers - the Developer Parachutes](https://dev.to/devobsessed/language-version-managers-the-developer-parachutes-bmn)
 - [Dev.to/JS] [How can I use the Notion API to automate Notion? API](https://dev.to/semisenioritis/how-can-i-use-the-notion-api-to-automate-notionapi-1inp)
-- [Dev.to/JS] [Awesome GitHub Repositories for React](https://dev.to/surajondev/awesome-github-repositories-for-react-4cnn)
 - [Lifehacker] [How to Make Your Own Concrete Tiles &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-make-your-own-concrete-tiles-and-why-you-might-1849589357)
-- [Dev.to/JS] [apple login](https://dev.to/kimsin62756145/apple-login-93c)
 - [Lifehacker] [25 of the Gayest Straight Movies Ever Made](https://lifehacker.com/25-of-the-gayest-straight-movies-ever-made-1849582832)
-- [Dev.to/JS] [287. Find the Duplicate Number 🚀](https://dev.to/samuelhinchliffe/287-find-the-duplicate-number-3d4e)
-- [Dev.to/JS] [Connect to mongodb using node.js and express.js and send post request](https://dev.to/rahul__/connect-to-mongodb-using-nodejs-and-expressjs-and-send-post-request-7dn)
 - [Lifehacker] [9 of the Best Festivals and Events Around the World in October](https://lifehacker.com/9-of-the-best-festivals-and-events-around-the-world-in-1849590169)
 - [Lifehacker] [Your Hot Oatmeal Needs Frozen Berries](https://lifehacker.com/your-hot-oatmeal-needs-frozen-berries-1849592840)
 - [Lifehacker] [No One Is Luring Kids With &#39;Rainbow Fentanyl&#39;](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This App to Block Ads and Reels From Instagram](https://lifehacker.com/use-this-app-to-block-ads-and-reels-from-instagram-1849586357)
 - [Lifehacker] [How to Transition Your Plants Indoors for Winter](https://lifehacker.com/how-to-transition-your-plants-indoors-for-winter-1849589228)
 - [Lifehacker] [Everyone Should Sit Down When They Pee](https://lifehacker.com/everyone-should-sit-down-when-they-pee-1849587707)
-- [Lifehacker] [The Difference Between Problem-Based and Emotion-Based Coping](https://lifehacker.com/the-difference-between-problem-based-and-emotion-based-1849587690)
-- [Lifehacker] [You Can Still Get DVDs From Netflix &lpar;and Maybe You Should&rpar;](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
-- [Lifehacker] [You Can Buy Cheaper Nintendo Switch Games From Another Country](https://lifehacker.com/you-can-buy-cheaper-nintendo-switch-games-from-another-1849588044)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Problem-Based and Emotion-Based Coping](https://lifehacker.com/the-difference-between-problem-based-and-emotion-based-1849587690)<!-- TECH-POSTS:END -->
 
 ---
 
