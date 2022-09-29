@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Customize Cursor in React App](https://dev.to/agboolaidris/customize-cursor-in-react-app-1j1m)
+- [Lifehacker] [Comedian Mo Amer Talks About Writing a Show for Everyone](https://lifehacker.com/comedian-mo-amer-talks-about-writing-a-show-for-everyon-1849596375)
+- [Dev.to/JS] [Top JavaScript Concepts to Know Before Learning React.](https://dev.to/zobaidulofficial/top-javascript-concepts-to-know-before-learning-react-pfi)
+- [Lifehacker] [How Many Cups of Coffee You Should Drink Per Day, According to &#39;Science&#39;](https://lifehacker.com/how-many-cups-of-coffee-you-should-drink-per-day-accor-1849596302)
 - [Dev.to/JS] [Language Version Managers - the Developer Parachutes](https://dev.to/devobsessed/language-version-managers-the-developer-parachutes-bmn)
 - [Dev.to/JS] [How can I use the Notion API to automate Notion? API](https://dev.to/semisenioritis/how-can-i-use-the-notion-api-to-automate-notionapi-1inp)
 - [Dev.to/JS] [Awesome GitHub Repositories for React](https://dev.to/surajondev/awesome-github-repositories-for-react-4cnn)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React 🤓](https://dev.to/daoson12/react-2g1k)
 - [Dev.to/JS] [Create a &quot;Table of Contents&quot; for your dev.to posts with one click](https://dev.to/jkettmann/create-a-table-of-contents-for-your-devto-posts-with-one-click-34f4)
 - [Dev.to/JS] [Optimize React Application Performance](https://dev.to/007_dark_shadow/optimize-react-application-performance-3156)
-- [Dev.to/JS] [Build a Multistep Form With React Hook Form](https://dev.to/clarity89/build-a-multistep-form-with-react-hook-form-52l2)
-- [Dev.to/JS] [Axios interceptor token on first call](https://dev.to/edsonjuniornarvaes/axios-interceptor-token-on-first-call-13l2)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hassleback Your Big Sausages](https://lifehacker.com/hassleback-your-big-sausages-1849587781)
 - [Lifehacker] [The Stages of Grief After a Breakup &lpar;and How to Survive Each One&rpar;](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
 - [Lifehacker] [How to Keep Your Kids Playing Sports Without Going Broke](https://lifehacker.com/how-to-keep-your-kids-playing-sports-without-going-brok-1849586177)
-- [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)
-- [Lifehacker] [How to File a FOIA Request &lpar;and the Dirt It Can Help You Find&rpar;](https://lifehacker.com/how-to-file-a-foia-request-and-the-dirt-it-can-help-yo-1849586091)
-- [Lifehacker] [You Really Should Use More White Pepper](https://lifehacker.com/you-really-should-use-more-white-pepper-1849587399)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Break Tradition With This Hot Tomato Ketchup Cornbread](https://lifehacker.com/break-tradition-with-this-hot-tomato-ketchup-cornbread-1849587437)<!-- TECH-POSTS:END -->
 
 ---
 
