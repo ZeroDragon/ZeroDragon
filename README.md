@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [f*ups that made me a better programmer](https://dev.to/emphie/fups-that-made-me-a-better-programmer-4kil)
+- [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/postwell45/6-reasons-why-devops-are-important-for-business-organizations-17n7)
+- [Dev.to/JS] [App Namoro Troll Mobile Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/app-namoro-troll-mobile-free-download-in-html-css-and-javascript-2epd)
+- [Dev.to/JS] [An introduction to Vite ⚡](https://dev.to/mohsinyaqoob/an-introduction-to-vite-4e5l)
+- [Dev.to/JS] [Send Emails with Gmail API](https://dev.to/sofiatarhonska/send-emails-with-gmail-api-b55)
 - [Dev.to/JS] [Dropdown Menu Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/dropdown-menu-free-download-in-html-css-and-javascript-4l2c)
 - [Dev.to/JS] [Clean Architecture using React TypeScript](https://dev.to/phatsss/clean-architecture-using-react-typescript-1ojf)
 - [Dev.to/JS] [Stick Hero with Canvas Free Download in HTML, CSS, And JavaScript](https://dev.to/zubairkhokhar/stick-hero-with-canvas-free-download-in-html-css-and-javascript-fn1)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Running medusa in docker](https://dev.to/dailydevtips1/running-medusa-in-docker-2dd4)
 - [Dev.to/JS] [JavaScript is Everywhere!](https://dev.to/aswin2001barath/javascript-is-everywhere-4mga)
 - [Dev.to/JS] [javascript: Pure Function](https://dev.to/urstrulyvishwak/javascript-pure-function-1gjf)
-- [Dev.to/JS] [Bot detection evasive techniques for web scrapers](https://dev.to/gidoneli/bot-detection-evasive-techniques-for-web-scrapers-3lf9)
-- [Dev.to/JS] [How to Build Recon Fence](https://dev.to/reconfence/how-to-build-recon-fence-1bfc)
-- [Dev.to/JS] [If you are looking for a place to stay with Luxurious Amenities](https://dev.to/sobhasentosab/if-you-are-looking-for-a-place-to-stay-with-luxurious-amenities-5emj)
-- [Dev.to/JS] [the Heater Pro X with a energy of 350 watts is a superb](https://dev.to/rcorreaz/the-heater-pro-x-with-a-energy-of-350-watts-is-a-superb-2m91)
-- [Dev.to/JS] [20 Creative Ways to Solve Exam Dumps](https://dev.to/obazpsyz/20-creative-ways-to-solve-exam-dumps-3igh)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
