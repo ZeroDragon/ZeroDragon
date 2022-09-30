@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)
+- [Dev.to/JS] [How to Add PDF Form Filler Options in Your JavaScript Application](https://dev.to/grapecity/how-to-add-pdf-form-filler-options-in-your-javascript-application-3n6h)
+- [Dev.to/JS] [1.1.0 New Version of Illa Opensource low code tool](https://dev.to/silerncerxyz/110-new-version-of-illa-opensource-low-code-tool-2acj)
+- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in October 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849599470)
+- [Dev.to/JS] [Build robust, more scalable JavaScript apps with TypeScript](https://dev.to/damiangirardi/build-robust-more-scalable-javascript-apps-with-typescript-4884)
 - [Lifehacker] [Five Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/five-renovations-that-can-actually-decrease-the-value-o-1849602138)
 - [Lifehacker] [Use This Site to See How Long It’ll Take to Finish a Video Game](https://lifehacker.com/use-this-site-to-see-how-long-it-ll-take-to-finish-a-vi-1849601676)
 - [Dev.to/JS] [Building advanced SQL search from a user text input](https://dev.to/gajus/building-advanced-sql-search-from-a-user-text-input-1ia6)
@@ -37,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js in 51 minutes — learn all the basics](https://dev.to/guillaumeduhan/nextjs-in-51-minutes-learn-all-the-basics-2ka0)
 - [Lifehacker] [Consider TikTok&#39;s Onion Sandwich](https://lifehacker.com/consider-tiktoks-onion-sandwich-1849599118)
 - [Dev.to/JS] [Live Streaming my Brain with Amazon IVS, React and a Muse Headband](https://dev.to/aws/live-streaming-my-brain-with-amazon-ivs-react-and-a-muse-headband-4idb)
-- [Dev.to/JS] [How to deploy a Node/React App on a Linux server](https://dev.to/dreysongz/how-to-deploy-a-nodereact-app-on-a-linux-server-3pd9)
-- [Dev.to/JS] [Wanna find and monitor all the render blocking resources in a page](https://dev.to/chandramarch18/wanna-find-and-monitor-all-the-render-blocking-resources-in-a-page-4i87)
 - [Lifehacker] [Are Your Headaches Actually Migraines?](https://lifehacker.com/are-your-headaches-actually-migraines-1849589203)
 - [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)
-- [Dev.to/JS] [Generating Standalone Component-based Angular Applications and Libraries with Nx](https://dev.to/nx/generating-standalone-component-based-angular-applications-and-libraries-with-nx-ld)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Are The Try Guys?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-are-t-1849600056)
 - [Lifehacker] [How to Parent Your Kid Through These Four Stages of Adolescence](https://lifehacker.com/how-to-parent-your-kid-through-these-four-stages-of-ado-1849591104)
 - [Lifehacker] [This TikTok Is Right About Never Closing Your iPhone Apps](https://lifehacker.com/this-tiktok-is-right-about-never-closing-your-iphone-ap-1849591813)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Many Cups of Coffee You Should Drink Per Day, According to &#39;Science&#39;](https://lifehacker.com/how-many-cups-of-coffee-you-should-drink-per-day-accor-1849596302)
 - [Lifehacker] [How to Make Your Own Concrete Tiles &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-make-your-own-concrete-tiles-and-why-you-might-1849589357)
 - [Lifehacker] [25 of the Gayest Straight Movies Ever Made](https://lifehacker.com/25-of-the-gayest-straight-movies-ever-made-1849582832)
-- [Lifehacker] [9 of the Best Festivals and Events Around the World in October](https://lifehacker.com/9-of-the-best-festivals-and-events-around-the-world-in-1849590169)
-- [Lifehacker] [Your Hot Oatmeal Needs Frozen Berries](https://lifehacker.com/your-hot-oatmeal-needs-frozen-berries-1849592840)
-- [Lifehacker] [No One Is Luring Kids With &#39;Rainbow Fentanyl&#39;](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 of the Best Festivals and Events Around the World in October](https://lifehacker.com/9-of-the-best-festivals-and-events-around-the-world-in-1849590169)<!-- TECH-POSTS:END -->
 
 ---
 
