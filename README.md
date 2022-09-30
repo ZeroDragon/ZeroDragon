@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/five-renovations-that-can-actually-decrease-the-value-o-1849602138)
+- [Lifehacker] [Use This Site to See How Long It’ll Take to Finish a Video Game](https://lifehacker.com/use-this-site-to-see-how-long-it-ll-take-to-finish-a-vi-1849601676)
+- [Dev.to/JS] [Building advanced SQL search from a user text input](https://dev.to/gajus/building-advanced-sql-search-from-a-user-text-input-1ia6)
+- [Dev.to/JS] [How to make projects as a fresher](https://dev.to/shacodes/how-to-make-projects-as-fresher-akc)
+- [Dev.to/JS] [How to Create a JavaScript Budgeting Application Using a Spreadsheet Library](https://dev.to/grapecity/how-to-create-a-javascript-budgeting-application-using-a-spreadsheet-library-3m4b)
 - [Dev.to/JS] [Fresh off passing Google and Microsoft interviews, I put together an free, opinionated interview guide that I hope can help you](https://dev.to/nas5w/fresh-off-passing-google-and-microsoft-interviews-i-put-together-an-free-opinionated-interview-guide-that-i-hope-can-help-you-2kf2)
 - [Dev.to/JS] [Expand Your Restaurant Business by Building A Food Delivery App](https://dev.to/michaelhemswor6/expand-your-restaurant-business-by-building-a-food-delivery-app-362m)
+- [Lifehacker] [What to Do With Leftover Foreign Currency After Your Trip](https://lifehacker.com/what-to-do-with-leftover-foreign-currency-after-your-tr-1849601263)
 - [Lifehacker] [How to Tell If Your Child Is Gifted &lpar;and What to Do If They Are&rpar;](https://lifehacker.com/how-to-tell-if-your-child-is-gifted-and-what-to-do-if-1849598912)
 - [Dev.to/JS] [Beware The Function With The Boolean Arg](https://dev.to/mbarzeev/beware-the-function-with-the-boolean-arg-12f0)
 - [Dev.to/JS] [Netflix](https://dev.to/mhm_dzaky/netflix-5f4h)
@@ -36,12 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are Your Headaches Actually Migraines?](https://lifehacker.com/are-your-headaches-actually-migraines-1849589203)
 - [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)
 - [Dev.to/JS] [Generating Standalone Component-based Angular Applications and Libraries with Nx](https://dev.to/nx/generating-standalone-component-based-angular-applications-and-libraries-with-nx-ld)
-- [Dev.to/JS] [Add a button to show &amp; hide the Kintone App&#39;s header](https://dev.to/ahandsel/add-a-button-to-show-hide-the-kintone-apps-header-h23)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Are The Try Guys?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-are-t-1849600056)
-- [Dev.to/JS] [printer](https://dev.to/jinbshi/printer-c1p)
 - [Lifehacker] [How to Parent Your Kid Through These Four Stages of Adolescence](https://lifehacker.com/how-to-parent-your-kid-through-these-four-stages-of-ado-1849591104)
 - [Lifehacker] [This TikTok Is Right About Never Closing Your iPhone Apps](https://lifehacker.com/this-tiktok-is-right-about-never-closing-your-iphone-ap-1849591813)
-- [Dev.to/JS] [Javascript event mouseover or hover](https://dev.to/frank_lehmann_07986ef8638/javascript-event-mouseover-or-hover-145f)
 - [Lifehacker] [16 of the Best New Horror Movies to Watch This Halloween](https://lifehacker.com/16-of-the-best-new-horror-movies-to-watch-this-hallowee-1849594305)
 - [Lifehacker] [How to Help Your Teen Survive Early School Start Times](https://lifehacker.com/how-to-help-your-teen-survive-early-school-start-times-1849587406)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Gayest Straight Movies Ever Made](https://lifehacker.com/25-of-the-gayest-straight-movies-ever-made-1849582832)
 - [Lifehacker] [9 of the Best Festivals and Events Around the World in October](https://lifehacker.com/9-of-the-best-festivals-and-events-around-the-world-in-1849590169)
 - [Lifehacker] [Your Hot Oatmeal Needs Frozen Berries](https://lifehacker.com/your-hot-oatmeal-needs-frozen-berries-1849592840)
-- [Lifehacker] [No One Is Luring Kids With &#39;Rainbow Fentanyl&#39;](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)
-- [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
-- [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
-- [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)<!-- TECH-POSTS:END -->
+- [Lifehacker] [No One Is Luring Kids With &#39;Rainbow Fentanyl&#39;](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)<!-- TECH-POSTS:END -->
 
 ---
 
