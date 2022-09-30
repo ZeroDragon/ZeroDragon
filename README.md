@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LOCAL STORAGE](https://dev.to/madhusudhan/local-storage-3c9)
+- [Dev.to/JS] [Best Advice for a New Programmer](https://dev.to/sleeplessyogi/best-advice-for-a-new-programmer-1c2k)
+- [Dev.to/JS] [How To Download Files Using JavaScript and Selenium](https://dev.to/lambdatest/how-to-download-files-using-javascript-and-selenium-2183)
+- [Dev.to/JS] [Creating a discord bot on the go to be published soon!](https://dev.to/iconical/creating-a-discord-bot-on-the-go-to-be-published-soon-43jb)
 - [Dev.to/JS] [Sticky Table Header with Horizontal Scroll](https://dev.to/buddhiv/sticky-table-header-with-horizontal-scroll-jc8)
 - [Dev.to/JS] [Level of abstraction](https://dev.to/lassiecoder/level-of-abstraction-13b0)
 - [Dev.to/JS] [Navegadores, muito mais que apenas consumo](https://dev.to/era/navegadores-muito-mais-que-apenas-consumo-3d6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode - Roman to Integer &lpar;JavaScript solution&rpar;](https://dev.to/rosiequ/leetcode-roman-to-integer-javascript-3d3d)
 - [Dev.to/JS] [Getting Started in Developing Chrome Extensions](https://dev.to/mrpaulishaili/getting-started-in-developing-chrome-extensions-24ff)
 - [Dev.to/JS] [forEach&lpar;&rpar; or map&lpar;&rpar; ? When to use?](https://dev.to/devvsakib/foreach-or-map-when-to-use-1a14)
-- [Dev.to/JS] [All You Need To Know About Full Stack Web Development - 2022 Update](https://dev.to/xnaksdn/all-you-need-to-know-about-full-stack-web-development-2022-update-6b3)
-- [Dev.to/JS] [Cross-Browser Voice Commands with React](https://dev.to/dilek/cross-browser-voice-commands-with-react-1b0p)
-- [Dev.to/JS] [Javascript: Higher-order functions](https://dev.to/urstrulyvishwak/javascript-higher-order-functions-2dkg)
-- [Dev.to/JS] [mobx and application properties](https://dev.to/mikkergimenez/mobx-and-application-properties-3bm1)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
