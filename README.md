@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What’s new in Handsontable Data Grid: September 2022](https://dev.to/handsontable/whats-new-in-handsontable-data-grid-september-2022-3aoc)
+- [Dev.to/JS] [Best Computer Institute in Delhi](https://dev.to/kapenitin/best-computer-institute-in-delhi-4j72)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Understanding React Native Stack Navigation](https://dev.to/bigwoozie/a-beginners-guide-to-understanding-react-native-stack-navigation-101j)
 - [Dev.to/JS] [LOCAL STORAGE](https://dev.to/madhusudhan/local-storage-3c9)
 - [Dev.to/JS] [Best Advice for a New Programmer](https://dev.to/sleeplessyogi/best-advice-for-a-new-programmer-1c2k)
 - [Dev.to/JS] [How To Download Files Using JavaScript and Selenium](https://dev.to/lambdatest/how-to-download-files-using-javascript-and-selenium-2183)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navegadores, muito mais que apenas consumo](https://dev.to/era/navegadores-muito-mais-que-apenas-consumo-3d6)
 - [Dev.to/JS] [The Difference Between A Programmer, A Hacker And A Developer](https://dev.to/duancenhanoi/cac-diem-don-xe-vinbus-ocean-park-ban-can-nam-ro-de-co-the-don-xe-dung-cho-25cp)
 - [Dev.to/JS] [Medusa-extender custom entity](https://dev.to/dailydevtips1/medusa-extender-custom-entity-4iio)
-- [Dev.to/JS] [Leetcode - Roman to Integer &lpar;JavaScript solution&rpar;](https://dev.to/rosiequ/leetcode-roman-to-integer-javascript-3d3d)
-- [Dev.to/JS] [Getting Started in Developing Chrome Extensions](https://dev.to/mrpaulishaili/getting-started-in-developing-chrome-extensions-24ff)
-- [Dev.to/JS] [forEach&lpar;&rpar; or map&lpar;&rpar; ? When to use?](https://dev.to/devvsakib/foreach-or-map-when-to-use-1a14)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
