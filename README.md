@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 10&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-10-40fj)
 - [Dev.to/JS] [How to download s3 object and save to file](https://dev.to/volkansenturk2012/how-to-download-s3-object-and-save-to-file-pgj)
 - [Dev.to/JS] [Automating User Input](https://dev.to/f53/automating-user-input-22ok)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [APIban-mysql client](https://dev.to/ameedjamous/apiban-mysql-client-4n3c)
 - [Dev.to/JS] [Computing colors &lpar;Need tips&rpar;](https://dev.to/vipertechofficial/computing-colors-need-tips-iab)
 - [Lifehacker] [You Don’t Even Realize These Products Have Lifetime Warranties](https://lifehacker.com/you-don-t-even-realize-these-products-have-lifetime-war-1849601785)
-- [Dev.to/JS] [The Rising Coder - Week 5/13 &lpar;Backend Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-513-backend-week-13-4go3)
 - [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in October 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849599470)
 - [Lifehacker] [Five Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/five-renovations-that-can-actually-decrease-the-value-o-1849602138)
