@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fresh off passing Google and Microsoft interviews, I put together an free, opinionated interview guide that I hope can help you](https://dev.to/nas5w/fresh-off-passing-google-and-microsoft-interviews-i-put-together-an-free-opinionated-interview-guide-that-i-hope-can-help-you-2kf2)
+- [Dev.to/JS] [Expand Your Restaurant Business by Building A Food Delivery App](https://dev.to/michaelhemswor6/expand-your-restaurant-business-by-building-a-food-delivery-app-362m)
+- [Lifehacker] [How to Tell If Your Child Is Gifted &lpar;and What to Do If They Are&rpar;](https://lifehacker.com/how-to-tell-if-your-child-is-gifted-and-what-to-do-if-1849598912)
+- [Dev.to/JS] [Beware The Function With The Boolean Arg](https://dev.to/mbarzeev/beware-the-function-with-the-boolean-arg-12f0)
+- [Dev.to/JS] [Netflix](https://dev.to/mhm_dzaky/netflix-5f4h)
+- [Dev.to/JS] [Next.js in 51 minutes — learn all the basics](https://dev.to/guillaumeduhan/nextjs-in-51-minutes-learn-all-the-basics-2ka0)
 - [Lifehacker] [Consider TikTok&#39;s Onion Sandwich](https://lifehacker.com/consider-tiktoks-onion-sandwich-1849599118)
 - [Dev.to/JS] [Live Streaming my Brain with Amazon IVS, React and a Muse Headband](https://dev.to/aws/live-streaming-my-brain-with-amazon-ivs-react-and-a-muse-headband-4idb)
 - [Dev.to/JS] [How to deploy a Node/React App on a Linux server](https://dev.to/dreysongz/how-to-deploy-a-nodereact-app-on-a-linux-server-3pd9)
@@ -37,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This TikTok Is Right About Never Closing Your iPhone Apps](https://lifehacker.com/this-tiktok-is-right-about-never-closing-your-iphone-ap-1849591813)
 - [Dev.to/JS] [Javascript event mouseover or hover](https://dev.to/frank_lehmann_07986ef8638/javascript-event-mouseover-or-hover-145f)
 - [Lifehacker] [16 of the Best New Horror Movies to Watch This Halloween](https://lifehacker.com/16-of-the-best-new-horror-movies-to-watch-this-hallowee-1849594305)
-- [Dev.to/JS] [How to Not used useEffect ?](https://dev.to/asadshaikh41/how-to-not-used-useeffect--3532)
-- [Dev.to/JS] [What is SSR and when should you use it.](https://dev.to/yoshrubin/what-is-ssr-and-when-should-you-use-it-42mb)
 - [Lifehacker] [How to Help Your Teen Survive Early School Start Times](https://lifehacker.com/how-to-help-your-teen-survive-early-school-start-times-1849587406)
-- [Dev.to/JS] [A Web Component Story](https://dev.to/claviska/a-web-component-story-28hn)
-- [Dev.to/JS] [Mapping request paths using Next.js](https://dev.to/ekqt/mapping-request-paths-using-nextjs-4ojk)
-- [Dev.to/JS] [Pre Order Traversal](https://dev.to/zeeshanali0704/pre-order-traversal-2ocl)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No One Is Luring Kids With &#39;Rainbow Fentanyl&#39;](https://lifehacker.com/no-one-is-luring-kids-with-rainbow-fentanyl-1849589314)
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
-- [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
-- [Lifehacker] [When to Use a Legal App &lpar;and When to Hire an Actual Lawyer&rpar;](https://lifehacker.com/when-to-use-a-legal-app-and-when-to-hire-an-actual-law-1849591329)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)<!-- TECH-POSTS:END -->
 
 ---
 
