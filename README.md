@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Astro.build](https://dev.to/tmchuynh/what-is-astrobuild-5c7b)
+- [Dev.to/JS] [Why Learn Svelte](https://dev.to/tmchuynh/why-learn-svelte-cem)
+- [Dev.to/JS] [Why Ionic](https://dev.to/tmchuynh/why-ionic-2hh0)
+- [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
+- [Dev.to/JS] [Why Learn Vue](https://dev.to/tmchuynh/why-learn-vue-4nm5)
+- [Dev.to/JS] [Make any JavaScript method available in Google Sheets](https://dev.to/all_stacks_developer/make-any-javascript-method-available-in-google-sheets-16ad)
+- [Dev.to/JS] [React Test-driven Development: How to implement](https://dev.to/damiangirardi/react-test-driven-development-how-to-implement-4o6)
+- [Dev.to/JS] [Refs, Events and Escape Hatches](https://dev.to/tkdodo/refs-events-and-escape-hatches-59j6)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
 - [Dev.to/JS] [APIban-mysql client](https://dev.to/ameedjamous/apiban-mysql-client-4n3c)
 - [Dev.to/JS] [Computing colors &lpar;Need tips&rpar;](https://dev.to/vipertechofficial/computing-colors-need-tips-iab)
@@ -32,17 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add PDF Form Filler Options in Your JavaScript Application](https://dev.to/grapecity/how-to-add-pdf-form-filler-options-in-your-javascript-application-3n6h)
 - [Dev.to/JS] [1.1.0 New Version of Illa Opensource low code tool](https://dev.to/silerncerxyz/110-new-version-of-illa-opensource-low-code-tool-2acj)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in October 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849599470)
-- [Dev.to/JS] [Build robust, more scalable JavaScript apps with TypeScript](https://dev.to/damiangirardi/build-robust-more-scalable-javascript-apps-with-typescript-4884)
 - [Lifehacker] [Five Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/five-renovations-that-can-actually-decrease-the-value-o-1849602138)
 - [Lifehacker] [Use This Site to See How Long It’ll Take to Finish a Video Game](https://lifehacker.com/use-this-site-to-see-how-long-it-ll-take-to-finish-a-vi-1849601676)
-- [Dev.to/JS] [Building advanced SQL search from a user text input](https://dev.to/gajus/building-advanced-sql-search-from-a-user-text-input-1ia6)
-- [Dev.to/JS] [How to make projects as a fresher](https://dev.to/shacodes/how-to-make-projects-as-fresher-akc)
-- [Dev.to/JS] [How to Create a JavaScript Budgeting Application Using a Spreadsheet Library](https://dev.to/grapecity/how-to-create-a-javascript-budgeting-application-using-a-spreadsheet-library-3m4b)
-- [Dev.to/JS] [Fresh off passing Google and Microsoft interviews, I put together an free, opinionated interview guide that I hope can help you](https://dev.to/nas5w/fresh-off-passing-google-and-microsoft-interviews-i-put-together-an-free-opinionated-interview-guide-that-i-hope-can-help-you-2kf2)
-- [Dev.to/JS] [Expand Your Restaurant Business by Building A Food Delivery App](https://dev.to/michaelhemswor6/expand-your-restaurant-business-by-building-a-food-delivery-app-362m)
 - [Lifehacker] [What to Do With Leftover Foreign Currency After Your Trip](https://lifehacker.com/what-to-do-with-leftover-foreign-currency-after-your-tr-1849601263)
 - [Lifehacker] [How to Tell If Your Child Is Gifted &lpar;and What to Do If They Are&rpar;](https://lifehacker.com/how-to-tell-if-your-child-is-gifted-and-what-to-do-if-1849598912)
-- [Dev.to/JS] [Beware The Function With The Boolean Arg](https://dev.to/mbarzeev/beware-the-function-with-the-boolean-arg-12f0)
 - [Lifehacker] [Consider TikTok&#39;s Onion Sandwich](https://lifehacker.com/consider-tiktoks-onion-sandwich-1849599118)
 - [Lifehacker] [Are Your Headaches Actually Migraines?](https://lifehacker.com/are-your-headaches-actually-migraines-1849589203)
 - [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [19 of the Best JRPGs You Can Play on Modern Consoles](https://lifehacker.com/19-of-the-best-jrpgs-you-can-play-on-modern-consoles-1849371946)
 - [Lifehacker] [Now Anyone Can Use This AI That Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
 - [Lifehacker] [Comedian Mo Amer Talks About Writing a Show for Everyone](https://lifehacker.com/comedian-mo-amer-talks-about-writing-a-show-for-everyon-1849596375)
-- [Lifehacker] [How Many Cups of Coffee You Should Drink Per Day, According to &#39;Science&#39;](https://lifehacker.com/how-many-cups-of-coffee-you-should-drink-per-day-accor-1849596302)
-- [Lifehacker] [How to Make Your Own Concrete Tiles &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-make-your-own-concrete-tiles-and-why-you-might-1849589357)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Many Cups of Coffee You Should Drink Per Day, According to &#39;Science&#39;](https://lifehacker.com/how-many-cups-of-coffee-you-should-drink-per-day-accor-1849596302)<!-- TECH-POSTS:END -->
 
 ---
 
