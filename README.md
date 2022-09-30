@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I finally launched my portfolio! 🥳](https://dev.to/nicoleyry/i-finally-launched-my-portfolio-3fle)
 - [Dev.to/JS] [Building a Video Player with React and Material UI](https://dev.to/asayerio_techblog/building-a-video-player-with-react-and-material-ui-4epn)
 - [Dev.to/JS] [JavaScript: The TL;DR on Array Methods](https://dev.to/minchulan/javascript-the-tldr-on-array-methods-1el5)
 - [Dev.to/JS] [What are closures?](https://dev.to/wrongbyte/what-are-closures-jm7)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Essential Tips for Custom React Hooks](https://dev.to/dayvster/5-essential-tips-for-custom-hooks-3dhc)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Dev.to/JS] [Create beautiful placeholders for your images](https://dev.to/douglasdemoura/create-beautiful-placeholders-for-your-images-582m)
-- [Dev.to/JS] [Fighting Game](https://dev.to/mohitbansal_302/fighting-game-1cb3)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
 - [Lifehacker] [How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
 - [Lifehacker] [Stop Sharing Tinder Screenshots on the Internet, You Monsters](https://lifehacker.com/stop-sharing-tinder-screenshots-on-the-internet-you-mo-1849596226)
