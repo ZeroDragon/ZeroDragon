@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [printer](https://dev.to/jinbshi/printer-c1p)
+- [Lifehacker] [How to Parent Your Kid Through These Four Stages of Adolescence](https://lifehacker.com/how-to-parent-your-kid-through-these-four-stages-of-ado-1849591104)
+- [Lifehacker] [This TikTok Is Right About Never Closing Your iPhone Apps](https://lifehacker.com/this-tiktok-is-right-about-never-closing-your-iphone-ap-1849591813)
 - [Dev.to/JS] [Javascript event mouseover or hover](https://dev.to/frank_lehmann_07986ef8638/javascript-event-mouseover-or-hover-145f)
 - [Lifehacker] [16 of the Best New Horror Movies to Watch This Halloween](https://lifehacker.com/16-of-the-best-new-horror-movies-to-watch-this-hallowee-1849594305)
 - [Dev.to/JS] [How to Not used useEffect ?](https://dev.to/asadshaikh41/how-to-not-used-useeffect--3532)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do you pass a string to a component?](https://dev.to/receter/how-do-you-pass-a-string-to-a-component-54pe)
 - [Dev.to/JS] [Top 10 trending github repos of the week🙏.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-5d3d)
 - [Dev.to/JS] [How To Approach A React Pair Programming Interview &lpar;Not Only The Tech Skills Count&rpar;](https://dev.to/profydev/how-to-approach-a-react-pair-programming-interview-not-only-the-tech-skills-count-3jk6)
-- [Dev.to/JS] [Running Cloudflare Workers &lpar;workerd&rpar; on Docker/Kubernetes](https://dev.to/pmbanugo/running-cloudflare-workers-workerd-on-dockerkubernetes-3n65)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Expensive Credit Cards That Don&#39;t Seem Worth It, But Are](https://lifehacker.com/expensive-credit-cards-that-dont-seem-worth-it-but-are-1849586219)
 - [Lifehacker] [How to &lpar;Legally&rpar; Get Out of Jury Duty](https://lifehacker.com/how-to-legally-get-out-of-jury-duty-1849591704)
 - [Lifehacker] [The Best Way to Grill That Last Bit of Summer Corn](https://lifehacker.com/the-best-way-to-grill-that-last-bit-of-summer-corn-1849591851)
-- [Lifehacker] [How to Fix a Stuck PS5 Disc](https://lifehacker.com/how-to-fix-a-stuck-ps5-disc-1849590991)
-- [Lifehacker] [Your Cocktail Needs a Meringue Float](https://lifehacker.com/your-cocktail-needs-a-meringue-float-1849591308)
-- [Lifehacker] [The XBox Accessibility Settings You Aren’t Using, but Should Be](https://lifehacker.com/the-xbox-accessibility-settings-you-aren-t-using-but-s-1849589902)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fix a Stuck PS5 Disc](https://lifehacker.com/how-to-fix-a-stuck-ps5-disc-1849590991)<!-- TECH-POSTS:END -->
 
 ---
 
