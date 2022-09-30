@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sticky Table Header with Horizontal Scroll](https://dev.to/buddhiv/sticky-table-header-with-horizontal-scroll-jc8)
 - [Dev.to/JS] [Level of abstraction](https://dev.to/lassiecoder/level-of-abstraction-13b0)
 - [Dev.to/JS] [Navegadores, muito mais que apenas consumo](https://dev.to/era/navegadores-muito-mais-que-apenas-consumo-3d6)
 - [Dev.to/JS] [The Difference Between A Programmer, A Hacker And A Developer](https://dev.to/duancenhanoi/cac-diem-don-xe-vinbus-ocean-park-ban-can-nam-ro-de-co-the-don-xe-dung-cho-25cp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cross-Browser Voice Commands with React](https://dev.to/dilek/cross-browser-voice-commands-with-react-1b0p)
 - [Dev.to/JS] [Javascript: Higher-order functions](https://dev.to/urstrulyvishwak/javascript-higher-order-functions-2dkg)
 - [Dev.to/JS] [mobx and application properties](https://dev.to/mikkergimenez/mobx-and-application-properties-3bm1)
-- [Dev.to/JS] [I finally launched my portfolio! 🥳](https://dev.to/nicoleyry/i-finally-launched-my-portfolio-3fle)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
