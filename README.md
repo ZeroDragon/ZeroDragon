@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Medusa-extender custom entity](https://dev.to/dailydevtips1/medusa-extender-custom-entity-4iio)
+- [Dev.to/JS] [Leetcode - Roman to Integer &lpar;JavaScript solution&rpar;](https://dev.to/rosiequ/leetcode-roman-to-integer-javascript-3d3d)
+- [Dev.to/JS] [Getting Started in Developing Chrome Extensions](https://dev.to/mrpaulishaili/getting-started-in-developing-chrome-extensions-24ff)
 - [Dev.to/JS] [forEach&lpar;&rpar; or map&lpar;&rpar; ? When to use?](https://dev.to/devvsakib/foreach-or-map-when-to-use-1a14)
 - [Dev.to/JS] [All You Need To Know About Full Stack Web Development - 2022 Update](https://dev.to/xnaksdn/all-you-need-to-know-about-full-stack-web-development-2022-update-6b3)
 - [Dev.to/JS] [Cross-Browser Voice Commands with React](https://dev.to/dilek/cross-browser-voice-commands-with-react-1b0p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Video Player with React and Material UI](https://dev.to/asayerio_techblog/building-a-video-player-with-react-and-material-ui-4epn)
 - [Dev.to/JS] [JavaScript: The TL;DR on Array Methods](https://dev.to/minchulan/javascript-the-tldr-on-array-methods-1el5)
 - [Dev.to/JS] [What are closures?](https://dev.to/wrongbyte/what-are-closures-jm7)
-- [Dev.to/JS] [Form Validation with HTML](https://dev.to/asayerio_techblog/form-validation-with-html-p6d)
-- [Dev.to/JS] [My Dev Journey # 2](https://dev.to/jeffchavez_dev/my-dev-journey-2-3ebp)
-- [Dev.to/JS] [Day 9 I4G 10daysofcodechallenge](https://dev.to/abubakarismail/day-9-i4g-10daysofcodechallenge-1di6)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
