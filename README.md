@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Video Player with React and Material UI](https://dev.to/asayerio_techblog/building-a-video-player-with-react-and-material-ui-4epn)
+- [Dev.to/JS] [JavaScript: The TL;DR on Array Methods](https://dev.to/minchulan/javascript-the-tldr-on-array-methods-1el5)
+- [Dev.to/JS] [What are closures?](https://dev.to/wrongbyte/what-are-closures-jm7)
+- [Dev.to/JS] [Form Validation with HTML](https://dev.to/asayerio_techblog/form-validation-with-html-p6d)
+- [Dev.to/JS] [My Dev Journey # 2](https://dev.to/jeffchavez_dev/my-dev-journey-2-3ebp)
 - [Dev.to/JS] [Day 9 I4G 10daysofcodechallenge](https://dev.to/abubakarismail/day-9-i4g-10daysofcodechallenge-1di6)
 - [Dev.to/JS] [10 LINKS to learn the basics of programming](https://dev.to/lucasandre/10-links-to-learn-the-basics-of-programming-1jbp)
 - [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 9&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-9-9b0)
@@ -32,13 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Dev.to/JS] [Create beautiful placeholders for your images](https://dev.to/douglasdemoura/create-beautiful-placeholders-for-your-images-582m)
 - [Dev.to/JS] [Fighting Game](https://dev.to/mohitbansal_302/fighting-game-1cb3)
-- [Dev.to/JS] [The minimal setup to package and reuse your React components](https://dev.to/receter/the-minimal-setup-to-package-and-reuse-your-react-components-1063)
-- [Dev.to/JS] [Configuring useQuery Hook](https://dev.to/nischal_dutt/configuring-usequery-hook-6ag)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
 - [Lifehacker] [How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
-- [Dev.to/JS] [If you want to be good developer do tests](https://dev.to/migueloliveiraz/if-you-want-to-be-good-developer-do-tests-35jc)
-- [Dev.to/JS] [How to subtract objects from an array of objects by id in Javascript](https://dev.to/pestrinmarco/how-to-subtract-objects-from-an-array-of-objects-by-id-in-javascript-6e9)
-- [Dev.to/JS] [Most Common Array Methods JavaScript in 2023](https://dev.to/aliegotha/most-common-array-methods-javascript-in-2023-11b3)
 - [Lifehacker] [Stop Sharing Tinder Screenshots on the Internet, You Monsters](https://lifehacker.com/stop-sharing-tinder-screenshots-on-the-internet-you-mo-1849596226)
 - [Lifehacker] [This Is How You Load a Piping Bag](https://lifehacker.com/this-is-how-you-load-a-piping-bag-1849596610)
 - [Lifehacker] [Cardamom Is the New Cinnamon](https://lifehacker.com/cardamom-is-the-new-cinnamon-1849596493)
