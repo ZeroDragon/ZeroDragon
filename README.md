@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript event mouseover or hover](https://dev.to/frank_lehmann_07986ef8638/javascript-event-mouseover-or-hover-145f)
+- [Lifehacker] [16 of the Best New Horror Movies to Watch This Halloween](https://lifehacker.com/16-of-the-best-new-horror-movies-to-watch-this-hallowee-1849594305)
+- [Dev.to/JS] [How to Not used useEffect ?](https://dev.to/asadshaikh41/how-to-not-used-useeffect--3532)
+- [Dev.to/JS] [What is SSR and when should you use it.](https://dev.to/yoshrubin/what-is-ssr-and-when-should-you-use-it-42mb)
+- [Lifehacker] [How to Help Your Teen Survive Early School Start Times](https://lifehacker.com/how-to-help-your-teen-survive-early-school-start-times-1849587406)
+- [Dev.to/JS] [A Web Component Story](https://dev.to/claviska/a-web-component-story-28hn)
 - [Dev.to/JS] [Mapping request paths using Next.js](https://dev.to/ekqt/mapping-request-paths-using-nextjs-4ojk)
 - [Dev.to/JS] [Pre Order Traversal](https://dev.to/zeeshanali0704/pre-order-traversal-2ocl)
 - [Dev.to/JS] [Post Order Traversal](https://dev.to/zeeshanali0704/post-order-traversal-38nn)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 trending github repos of the week🙏.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-5d3d)
 - [Dev.to/JS] [How To Approach A React Pair Programming Interview &lpar;Not Only The Tech Skills Count&rpar;](https://dev.to/profydev/how-to-approach-a-react-pair-programming-interview-not-only-the-tech-skills-count-3jk6)
 - [Dev.to/JS] [Running Cloudflare Workers &lpar;workerd&rpar; on Docker/Kubernetes](https://dev.to/pmbanugo/running-cloudflare-workers-workerd-on-dockerkubernetes-3n65)
-- [Dev.to/JS] [I am a beginner at react an npm is showing these error.Can some point me to right solution for these?](https://dev.to/shubhanshu38/i-am-a-beginner-at-react-an-npm-is-showing-these-errorcan-some-point-me-to-right-solution-for-these-27na)
-- [Dev.to/JS] [Share Component State with &#39;exportAs’ in Angular](https://dev.to/danywalls/use-exportas-in-angular-9j6)
-- [Dev.to/JS] [Type-safe env variables](https://dev.to/grabbou/type-safe-env-variables-5215)
-- [Dev.to/JS] [Tawk.to JavaScript API integration](https://dev.to/bigwoozie/tawkto-javascript-api-integration-40pp)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Grill That Last Bit of Summer Corn](https://lifehacker.com/the-best-way-to-grill-that-last-bit-of-summer-corn-1849591851)
 - [Lifehacker] [How to Fix a Stuck PS5 Disc](https://lifehacker.com/how-to-fix-a-stuck-ps5-disc-1849590991)
 - [Lifehacker] [Your Cocktail Needs a Meringue Float](https://lifehacker.com/your-cocktail-needs-a-meringue-float-1849591308)
-- [Lifehacker] [The XBox Accessibility Settings You Aren’t Using, but Should Be](https://lifehacker.com/the-xbox-accessibility-settings-you-aren-t-using-but-s-1849589902)
-- [Lifehacker] [Use This App to Block Ads and Reels From Instagram](https://lifehacker.com/use-this-app-to-block-ads-and-reels-from-instagram-1849586357)
-- [Lifehacker] [How to Transition Your Plants Indoors for Winter](https://lifehacker.com/how-to-transition-your-plants-indoors-for-winter-1849589228)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The XBox Accessibility Settings You Aren’t Using, but Should Be](https://lifehacker.com/the-xbox-accessibility-settings-you-aren-t-using-but-s-1849589902)<!-- TECH-POSTS:END -->
 
 ---
 
