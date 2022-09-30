@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [forEach&lpar;&rpar; or map&lpar;&rpar; ? When to use?](https://dev.to/devvsakib/foreach-or-map-when-to-use-1a14)
+- [Dev.to/JS] [All You Need To Know About Full Stack Web Development - 2022 Update](https://dev.to/xnaksdn/all-you-need-to-know-about-full-stack-web-development-2022-update-6b3)
 - [Dev.to/JS] [Cross-Browser Voice Commands with React](https://dev.to/dilek/cross-browser-voice-commands-with-react-1b0p)
 - [Dev.to/JS] [Javascript: Higher-order functions](https://dev.to/urstrulyvishwak/javascript-higher-order-functions-2dkg)
 - [Dev.to/JS] [mobx and application properties](https://dev.to/mikkergimenez/mobx-and-application-properties-3bm1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Form Validation with HTML](https://dev.to/asayerio_techblog/form-validation-with-html-p6d)
 - [Dev.to/JS] [My Dev Journey # 2](https://dev.to/jeffchavez_dev/my-dev-journey-2-3ebp)
 - [Dev.to/JS] [Day 9 I4G 10daysofcodechallenge](https://dev.to/abubakarismail/day-9-i4g-10daysofcodechallenge-1di6)
-- [Dev.to/JS] [10 LINKS to learn the basics of programming](https://dev.to/lucasandre/10-links-to-learn-the-basics-of-programming-1jbp)
-- [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 9&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-9-9b0)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
