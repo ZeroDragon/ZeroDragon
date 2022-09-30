@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cross-Browser Voice Commands with React](https://dev.to/dilek/cross-browser-voice-commands-with-react-1b0p)
+- [Dev.to/JS] [Javascript: Higher-order functions](https://dev.to/urstrulyvishwak/javascript-higher-order-functions-2dkg)
+- [Dev.to/JS] [mobx and application properties](https://dev.to/mikkergimenez/mobx-and-application-properties-3bm1)
 - [Dev.to/JS] [I finally launched my portfolio! 🥳](https://dev.to/nicoleyry/i-finally-launched-my-portfolio-3fle)
 - [Dev.to/JS] [Building a Video Player with React and Material UI](https://dev.to/asayerio_techblog/building-a-video-player-with-react-and-material-ui-4epn)
 - [Dev.to/JS] [JavaScript: The TL;DR on Array Methods](https://dev.to/minchulan/javascript-the-tldr-on-array-methods-1el5)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 LINKS to learn the basics of programming](https://dev.to/lucasandre/10-links-to-learn-the-basics-of-programming-1jbp)
 - [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 9&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-9-9b0)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
-- [Dev.to/JS] [DAY 9 CODE CHALLENGE](https://dev.to/chinwendufausty/day-9-code-challenge-16fa)
-- [Dev.to/JS] [5 Essential Tips for Custom React Hooks](https://dev.to/dayvster/5-essential-tips-for-custom-hooks-3dhc)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
-- [Dev.to/JS] [Create beautiful placeholders for your images](https://dev.to/douglasdemoura/create-beautiful-placeholders-for-your-images-582m)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
 - [Lifehacker] [How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
 - [Lifehacker] [Stop Sharing Tinder Screenshots on the Internet, You Monsters](https://lifehacker.com/stop-sharing-tinder-screenshots-on-the-internet-you-mo-1849596226)
