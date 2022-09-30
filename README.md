@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
+- [Dev.to/JS] [APIban-mysql client](https://dev.to/ameedjamous/apiban-mysql-client-4n3c)
+- [Dev.to/JS] [Computing colors &lpar;Need tips&rpar;](https://dev.to/vipertechofficial/computing-colors-need-tips-iab)
+- [Lifehacker] [You Don’t Even Realize These Products Have Lifetime Warranties](https://lifehacker.com/you-don-t-even-realize-these-products-have-lifetime-war-1849601785)
+- [Dev.to/JS] [The Rising Coder - Week 5/13 &lpar;Backend Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-513-backend-week-13-4go3)
 - [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)
 - [Dev.to/JS] [How to Add PDF Form Filler Options in Your JavaScript Application](https://dev.to/grapecity/how-to-add-pdf-form-filler-options-in-your-javascript-application-3n6h)
 - [Dev.to/JS] [1.1.0 New Version of Illa Opensource low code tool](https://dev.to/silerncerxyz/110-new-version-of-illa-opensource-low-code-tool-2acj)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do With Leftover Foreign Currency After Your Trip](https://lifehacker.com/what-to-do-with-leftover-foreign-currency-after-your-tr-1849601263)
 - [Lifehacker] [How to Tell If Your Child Is Gifted &lpar;and What to Do If They Are&rpar;](https://lifehacker.com/how-to-tell-if-your-child-is-gifted-and-what-to-do-if-1849598912)
 - [Dev.to/JS] [Beware The Function With The Boolean Arg](https://dev.to/mbarzeev/beware-the-function-with-the-boolean-arg-12f0)
-- [Dev.to/JS] [Netflix](https://dev.to/mhm_dzaky/netflix-5f4h)
-- [Dev.to/JS] [Next.js in 51 minutes — learn all the basics](https://dev.to/guillaumeduhan/nextjs-in-51-minutes-learn-all-the-basics-2ka0)
 - [Lifehacker] [Consider TikTok&#39;s Onion Sandwich](https://lifehacker.com/consider-tiktoks-onion-sandwich-1849599118)
-- [Dev.to/JS] [Live Streaming my Brain with Amazon IVS, React and a Muse Headband](https://dev.to/aws/live-streaming-my-brain-with-amazon-ivs-react-and-a-muse-headband-4idb)
 - [Lifehacker] [Are Your Headaches Actually Migraines?](https://lifehacker.com/are-your-headaches-actually-migraines-1849589203)
 - [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Are The Try Guys?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-are-t-1849600056)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Now Anyone Can Use This AI That Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
 - [Lifehacker] [Comedian Mo Amer Talks About Writing a Show for Everyone](https://lifehacker.com/comedian-mo-amer-talks-about-writing-a-show-for-everyon-1849596375)
 - [Lifehacker] [How Many Cups of Coffee You Should Drink Per Day, According to &#39;Science&#39;](https://lifehacker.com/how-many-cups-of-coffee-you-should-drink-per-day-accor-1849596302)
-- [Lifehacker] [How to Make Your Own Concrete Tiles &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-make-your-own-concrete-tiles-and-why-you-might-1849589357)
-- [Lifehacker] [25 of the Gayest Straight Movies Ever Made](https://lifehacker.com/25-of-the-gayest-straight-movies-ever-made-1849582832)
-- [Lifehacker] [9 of the Best Festivals and Events Around the World in October](https://lifehacker.com/9-of-the-best-festivals-and-events-around-the-world-in-1849590169)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Your Own Concrete Tiles &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-make-your-own-concrete-tiles-and-why-you-might-1849589357)<!-- TECH-POSTS:END -->
 
 ---
 
