@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to download s3 object and save to file](https://dev.to/volkansenturk2012/how-to-download-s3-object-and-save-to-file-pgj)
+- [Dev.to/JS] [Automating User Input](https://dev.to/f53/automating-user-input-22ok)
+- [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Dev.to/JS] [What is Astro.build](https://dev.to/tmchuynh/what-is-astrobuild-5c7b)
 - [Dev.to/JS] [Why Learn Svelte](https://dev.to/tmchuynh/why-learn-svelte-cem)
 - [Dev.to/JS] [Why Ionic](https://dev.to/tmchuynh/why-ionic-2hh0)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don’t Even Realize These Products Have Lifetime Warranties](https://lifehacker.com/you-don-t-even-realize-these-products-have-lifetime-war-1849601785)
 - [Dev.to/JS] [The Rising Coder - Week 5/13 &lpar;Backend Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-513-backend-week-13-4go3)
 - [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)
-- [Dev.to/JS] [How to Add PDF Form Filler Options in Your JavaScript Application](https://dev.to/grapecity/how-to-add-pdf-form-filler-options-in-your-javascript-application-3n6h)
-- [Dev.to/JS] [1.1.0 New Version of Illa Opensource low code tool](https://dev.to/silerncerxyz/110-new-version-of-illa-opensource-low-code-tool-2acj)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in October 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849599470)
 - [Lifehacker] [Five Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/five-renovations-that-can-actually-decrease-the-value-o-1849602138)
 - [Lifehacker] [Use This Site to See How Long It’ll Take to Finish a Video Game](https://lifehacker.com/use-this-site-to-see-how-long-it-ll-take-to-finish-a-vi-1849601676)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cardamom Is the New Cinnamon](https://lifehacker.com/cardamom-is-the-new-cinnamon-1849596493)
 - [Lifehacker] [19 of the Best JRPGs You Can Play on Modern Consoles](https://lifehacker.com/19-of-the-best-jrpgs-you-can-play-on-modern-consoles-1849371946)
 - [Lifehacker] [Now Anyone Can Use This AI That Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
-- [Lifehacker] [Comedian Mo Amer Talks About Writing a Show for Everyone](https://lifehacker.com/comedian-mo-amer-talks-about-writing-a-show-for-everyon-1849596375)
-- [Lifehacker] [How Many Cups of Coffee You Should Drink Per Day, According to &#39;Science&#39;](https://lifehacker.com/how-many-cups-of-coffee-you-should-drink-per-day-accor-1849596302)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Comedian Mo Amer Talks About Writing a Show for Everyone](https://lifehacker.com/comedian-mo-amer-talks-about-writing-a-show-for-everyon-1849596375)<!-- TECH-POSTS:END -->
 
 ---
 
