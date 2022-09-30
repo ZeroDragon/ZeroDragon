@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Consider TikTok&#39;s Onion Sandwich](https://lifehacker.com/consider-tiktoks-onion-sandwich-1849599118)
+- [Dev.to/JS] [Live Streaming my Brain with Amazon IVS, React and a Muse Headband](https://dev.to/aws/live-streaming-my-brain-with-amazon-ivs-react-and-a-muse-headband-4idb)
+- [Dev.to/JS] [How to deploy a Node/React App on a Linux server](https://dev.to/dreysongz/how-to-deploy-a-nodereact-app-on-a-linux-server-3pd9)
+- [Dev.to/JS] [Wanna find and monitor all the render blocking resources in a page](https://dev.to/chandramarch18/wanna-find-and-monitor-all-the-render-blocking-resources-in-a-page-4i87)
+- [Lifehacker] [Are Your Headaches Actually Migraines?](https://lifehacker.com/are-your-headaches-actually-migraines-1849589203)
 - [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)
 - [Dev.to/JS] [Generating Standalone Component-based Angular Applications and Libraries with Nx](https://dev.to/nx/generating-standalone-component-based-angular-applications-and-libraries-with-nx-ld)
 - [Dev.to/JS] [Add a button to show &amp; hide the Kintone App&#39;s header](https://dev.to/ahandsel/add-a-button-to-show-hide-the-kintone-apps-header-h23)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Web Component Story](https://dev.to/claviska/a-web-component-story-28hn)
 - [Dev.to/JS] [Mapping request paths using Next.js](https://dev.to/ekqt/mapping-request-paths-using-nextjs-4ojk)
 - [Dev.to/JS] [Pre Order Traversal](https://dev.to/zeeshanali0704/pre-order-traversal-2ocl)
-- [Dev.to/JS] [Post Order Traversal](https://dev.to/zeeshanali0704/post-order-traversal-38nn)
-- [Dev.to/JS] [Inorder Traversal](https://dev.to/zeeshanali0704/inorder-traversal-tree-20h3)
-- [Dev.to/JS] [How do you pass a string to a component?](https://dev.to/receter/how-do-you-pass-a-string-to-a-component-54pe)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 Running Myths That Are Holding You Back](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
-- [Lifehacker] [When to Use a Legal App &lpar;and When to Hire an Actual Lawyer&rpar;](https://lifehacker.com/when-to-use-a-legal-app-and-when-to-hire-an-actual-law-1849591329)
-- [Lifehacker] [Expensive Credit Cards That Don&#39;t Seem Worth It, But Are](https://lifehacker.com/expensive-credit-cards-that-dont-seem-worth-it-but-are-1849586219)
-- [Lifehacker] [How to &lpar;Legally&rpar; Get Out of Jury Duty](https://lifehacker.com/how-to-legally-get-out-of-jury-duty-1849591704)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Use a Legal App &lpar;and When to Hire an Actual Lawyer&rpar;](https://lifehacker.com/when-to-use-a-legal-app-and-when-to-hire-an-actual-law-1849591329)<!-- TECH-POSTS:END -->
 
 ---
 
