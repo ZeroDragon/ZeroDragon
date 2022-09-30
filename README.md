@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)
+- [Dev.to/JS] [Generating Standalone Component-based Angular Applications and Libraries with Nx](https://dev.to/nx/generating-standalone-component-based-angular-applications-and-libraries-with-nx-ld)
+- [Dev.to/JS] [Add a button to show &amp; hide the Kintone App&#39;s header](https://dev.to/ahandsel/add-a-button-to-show-hide-the-kintone-apps-header-h23)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Are The Try Guys?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-are-t-1849600056)
 - [Dev.to/JS] [printer](https://dev.to/jinbshi/printer-c1p)
 - [Lifehacker] [How to Parent Your Kid Through These Four Stages of Adolescence](https://lifehacker.com/how-to-parent-your-kid-through-these-four-stages-of-ado-1849591104)
 - [Lifehacker] [This TikTok Is Right About Never Closing Your iPhone Apps](https://lifehacker.com/this-tiktok-is-right-about-never-closing-your-iphone-ap-1849591813)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Post Order Traversal](https://dev.to/zeeshanali0704/post-order-traversal-38nn)
 - [Dev.to/JS] [Inorder Traversal](https://dev.to/zeeshanali0704/inorder-traversal-tree-20h3)
 - [Dev.to/JS] [How do you pass a string to a component?](https://dev.to/receter/how-do-you-pass-a-string-to-a-component-54pe)
-- [Dev.to/JS] [Top 10 trending github repos of the week🙏.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-5d3d)
-- [Dev.to/JS] [How To Approach A React Pair Programming Interview &lpar;Not Only The Tech Skills Count&rpar;](https://dev.to/profydev/how-to-approach-a-react-pair-programming-interview-not-only-the-tech-skills-count-3jk6)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Outdated Fashion Rules That No Longer Apply](https://lifehacker.com/five-outdated-fashion-rules-that-no-longer-apply-1849592534)
 - [Lifehacker] [When to Use a Legal App &lpar;and When to Hire an Actual Lawyer&rpar;](https://lifehacker.com/when-to-use-a-legal-app-and-when-to-hire-an-actual-law-1849591329)
 - [Lifehacker] [Expensive Credit Cards That Don&#39;t Seem Worth It, But Are](https://lifehacker.com/expensive-credit-cards-that-dont-seem-worth-it-but-are-1849586219)
-- [Lifehacker] [How to &lpar;Legally&rpar; Get Out of Jury Duty](https://lifehacker.com/how-to-legally-get-out-of-jury-duty-1849591704)
-- [Lifehacker] [The Best Way to Grill That Last Bit of Summer Corn](https://lifehacker.com/the-best-way-to-grill-that-last-bit-of-summer-corn-1849591851)
-- [Lifehacker] [How to Fix a Stuck PS5 Disc](https://lifehacker.com/how-to-fix-a-stuck-ps5-disc-1849590991)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to &lpar;Legally&rpar; Get Out of Jury Duty](https://lifehacker.com/how-to-legally-get-out-of-jury-duty-1849591704)<!-- TECH-POSTS:END -->
 
 ---
 
