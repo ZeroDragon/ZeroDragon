@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to keep your frontend application code under control](https://dev.to/idavydov/how-to-keep-your-frontend-application-code-under-control-2206)
+- [Dev.to/JS] [Hello developers!](https://dev.to/jairo_matus_733c3a8a3201c/hello-developers-25hp)
+- [Dev.to/JS] [Create React page with Dark mode using Material UI](https://dev.to/raynecoder/create-react-page-with-dark-mode-using-material-ui-32dc)
+- [Dev.to/JS] [Idrotherapy - Skin Care Reviews, Pros, Cons, Results &amp; Ingredients?](https://dev.to/idrotherapyinfo/idrotherapy-skin-care-reviews-pros-cons-results-ingredients-11ol)
 - [Dev.to/JS] [Abstract Factory pattern in TypeScript](https://dev.to/jmalvarez/abstract-factory-pattern-in-typescript-6c8)
 - [Dev.to/JS] [I wasn&#39;t happy with React useState Hook, so I built my own one and made it Open Source.](https://dev.to/cadienvan/i-wasnt-happy-with-react-usestate-hook-so-i-built-my-own-one-and-made-it-open-source-igj)
 - [Dev.to/JS] [Callbacks In JavaScript](https://dev.to/mrityunjaypalled/callbacks-in-javascript-477)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;01-10-2022&rpar; - Hopeless in HCMC](https://dev.to/mjgs/this-weeks-newsletter-is-out-01-10-2022-hopeless-in-hcmc-3ih1)
 - [Dev.to/JS] [Chrome Extensions of the Month - September 2022](https://dev.to/j471n/chrome-extensions-of-the-month-september-2022-4cnh)
 - [Dev.to/JS] [Most Common Number Methods and Properties in Javascript](https://dev.to/aliegotha/most-common-number-methods-and-properties-in-javascript-4ggc)
-- [Dev.to/JS] [91. Leetcode solution in Javascript](https://dev.to/chiki1601/91-leetcode-solution-in-javascript-2fk8)
-- [Dev.to/JS] [async/await in js](https://dev.to/harryholland/asyncawait-in-js-3hic)
-- [Dev.to/JS] [Async JS - Callbacks, Promises, Async await](https://dev.to/naveenkolambage/async-js-callbacks-promises-async-await-2p38)
-- [Dev.to/JS] [Build a Passwordless Authentication in Node.js on Redis](https://dev.to/imichaelowolabi/passwordless-authentication-in-nodejs-on-redis-12e)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
