@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
+- [Dev.to/JS] [React useEffect And What Is It?](https://dev.to/aradwan20/react-useeffect-and-what-is-it-4alj)
+- [Dev.to/JS] [Multer Error](https://dev.to/amulagrawal02/multer-error-4kb4)
+- [Dev.to/JS] [LeetCode - Evaluate Reverse Polish Notation](https://dev.to/_alkesh26/leetcode-evaluate-reverse-polish-notation-1h1f)
+- [Dev.to/JS] [Programming Real Time Charts &amp; Graphs with JavaScript](https://dev.to/webdeasy/programming-real-time-charts-graphs-with-javascript-5c22)
+- [Dev.to/JS] [JS Errors in the Console, with a twist](https://dev.to/scriptjayt/js-errors-in-the-console-with-a-twist-25mb)
 - [Dev.to/JS] [Software Technologies Training](https://dev.to/rishitharamesh1/software-technologies-training-1cak)
 - [Dev.to/JS] [How to keep your frontend application code under control](https://dev.to/idavydov/how-to-keep-your-frontend-application-code-under-control-2206)
 - [Dev.to/JS] [Hello developers!](https://dev.to/jairo_matus_733c3a8a3201c/hello-developers-25hp)
 - [Dev.to/JS] [Create React page with Dark mode using Material UI](https://dev.to/raynecoder/create-react-page-with-dark-mode-using-material-ui-32dc)
-- [Dev.to/JS] [Idrotherapy - Skin Care Reviews, Pros, Cons, Results &amp; Ingredients?](https://dev.to/idrotherapyinfo/idrotherapy-skin-care-reviews-pros-cons-results-ingredients-11ol)
 - [Dev.to/JS] [Abstract Factory pattern in TypeScript](https://dev.to/jmalvarez/abstract-factory-pattern-in-typescript-6c8)
 - [Dev.to/JS] [I wasn&#39;t happy with React useState Hook, so I built my own one and made it Open Source.](https://dev.to/cadienvan/i-wasnt-happy-with-react-usestate-hook-so-i-built-my-own-one-and-made-it-open-source-igj)
 - [Dev.to/JS] [Callbacks In JavaScript](https://dev.to/mrityunjaypalled/callbacks-in-javascript-477)
-- [Dev.to/JS] [Creating custom entities in medusa](https://dev.to/dailydevtips1/creating-custom-entities-in-medusa-1p47)
-- [Dev.to/JS] [Have you heard about new JS framework](https://dev.to/shreyvijayvargiya/have-you-heard-about-new-js-framework-28m9)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;01-10-2022&rpar; - Hopeless in HCMC](https://dev.to/mjgs/this-weeks-newsletter-is-out-01-10-2022-hopeless-in-hcmc-3ih1)
-- [Dev.to/JS] [Chrome Extensions of the Month - September 2022](https://dev.to/j471n/chrome-extensions-of-the-month-september-2022-4cnh)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How You Load a Piping Bag](https://lifehacker.com/this-is-how-you-load-a-piping-bag-1849596610)
 - [Lifehacker] [Cardamom Is the New Cinnamon](https://lifehacker.com/cardamom-is-the-new-cinnamon-1849596493)
 - [Lifehacker] [19 of the Best JRPGs You Can Play on Modern Consoles](https://lifehacker.com/19-of-the-best-jrpgs-you-can-play-on-modern-consoles-1849371946)
-- [Lifehacker] [Now Anyone Can Use This AI That Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
-- [Lifehacker] [Comedian Mo Amer Talks About Writing a Show for Everyone](https://lifehacker.com/comedian-mo-amer-talks-about-writing-a-show-for-everyon-1849596375)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Now Anyone Can Use This AI That Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)<!-- TECH-POSTS:END -->
 
 ---
 
