@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Passwordless Authentication in Node.js on Redis](https://dev.to/imichaelowolabi/passwordless-authentication-in-nodejs-on-redis-12e)
 - [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 10&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-10-40fj)
 - [Dev.to/JS] [How to download s3 object and save to file](https://dev.to/volkansenturk2012/how-to-download-s3-object-and-save-to-file-pgj)
 - [Dev.to/JS] [Automating User Input](https://dev.to/f53/automating-user-input-22ok)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Refs, Events and Escape Hatches](https://dev.to/tkdodo/refs-events-and-escape-hatches-59j6)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
 - [Dev.to/JS] [APIban-mysql client](https://dev.to/ameedjamous/apiban-mysql-client-4n3c)
-- [Dev.to/JS] [Computing colors &lpar;Need tips&rpar;](https://dev.to/vipertechofficial/computing-colors-need-tips-iab)
 - [Lifehacker] [You Don’t Even Realize These Products Have Lifetime Warranties](https://lifehacker.com/you-don-t-even-realize-these-products-have-lifetime-war-1849601785)
 - [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in October 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849599470)
