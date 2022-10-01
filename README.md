@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;01-10-2022&rpar; - Hopeless in HCMC](https://dev.to/mjgs/this-weeks-newsletter-is-out-01-10-2022-hopeless-in-hcmc-3ih1)
+- [Dev.to/JS] [Chrome Extensions of the Month - September 2022](https://dev.to/j471n/chrome-extensions-of-the-month-september-2022-4cnh)
 - [Dev.to/JS] [Most Common Number Methods and Properties in Javascript](https://dev.to/aliegotha/most-common-number-methods-and-properties-in-javascript-4ggc)
 - [Dev.to/JS] [91. Leetcode solution in Javascript](https://dev.to/chiki1601/91-leetcode-solution-in-javascript-2fk8)
 - [Dev.to/JS] [async/await in js](https://dev.to/harryholland/asyncawait-in-js-3hic)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Dev.to/JS] [What is Astro.build](https://dev.to/tmchuynh/what-is-astrobuild-5c7b)
 - [Dev.to/JS] [Why Learn Svelte](https://dev.to/tmchuynh/why-learn-svelte-cem)
-- [Dev.to/JS] [Why Ionic](https://dev.to/tmchuynh/why-ionic-2hh0)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
-- [Dev.to/JS] [Why Learn Vue](https://dev.to/tmchuynh/why-learn-vue-4nm5)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
 - [Lifehacker] [You Don’t Even Realize These Products Have Lifetime Warranties](https://lifehacker.com/you-don-t-even-realize-these-products-have-lifetime-war-1849601785)
 - [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)
