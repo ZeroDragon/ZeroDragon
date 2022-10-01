@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Most Common Number Methods and Properties in Javascript](https://dev.to/aliegotha/most-common-number-methods-and-properties-in-javascript-4ggc)
+- [Dev.to/JS] [91. Leetcode solution in Javascript](https://dev.to/chiki1601/91-leetcode-solution-in-javascript-2fk8)
+- [Dev.to/JS] [async/await in js](https://dev.to/harryholland/asyncawait-in-js-3hic)
 - [Dev.to/JS] [Async JS - Callbacks, Promises, Async await](https://dev.to/naveenkolambage/async-js-callbacks-promises-async-await-2p38)
 - [Dev.to/JS] [Build a Passwordless Authentication in Node.js on Redis](https://dev.to/imichaelowolabi/passwordless-authentication-in-nodejs-on-redis-12e)
 - [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 10&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-10-40fj)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Ionic](https://dev.to/tmchuynh/why-ionic-2hh0)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
 - [Dev.to/JS] [Why Learn Vue](https://dev.to/tmchuynh/why-learn-vue-4nm5)
-- [Dev.to/JS] [Make any JavaScript method available in Google Sheets](https://dev.to/all_stacks_developer/make-any-javascript-method-available-in-google-sheets-16ad)
-- [Dev.to/JS] [React Test-driven Development: How to implement](https://dev.to/damiangirardi/react-test-driven-development-how-to-implement-4o6)
-- [Dev.to/JS] [Refs, Events and Escape Hatches](https://dev.to/tkdodo/refs-events-and-escape-hatches-59j6)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
 - [Lifehacker] [You Don’t Even Realize These Products Have Lifetime Warranties](https://lifehacker.com/you-don-t-even-realize-these-products-have-lifetime-war-1849601785)
 - [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)
