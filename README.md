@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Tailwind CSS tips](https://dev.to/joseprest/10-tailwind-css-tips-3jgk)
+- [Dev.to/JS] [React HOC to make components permission driven](https://dev.to/imanshu03/react-hoc-to-make-components-permission-driven-35el)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
 - [Dev.to/JS] [React useEffect And What Is It?](https://dev.to/aradwan20/react-useeffect-and-what-is-it-4alj)
 - [Dev.to/JS] [Multer Error](https://dev.to/amulagrawal02/multer-error-4kb4)
@@ -31,11 +33,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Errors in the Console, with a twist](https://dev.to/scriptjayt/js-errors-in-the-console-with-a-twist-25mb)
 - [Dev.to/JS] [Software Technologies Training](https://dev.to/rishitharamesh1/software-technologies-training-1cak)
 - [Dev.to/JS] [How to keep your frontend application code under control](https://dev.to/idavydov/how-to-keep-your-frontend-application-code-under-control-2206)
-- [Dev.to/JS] [Hello developers!](https://dev.to/jairo_matus_733c3a8a3201c/hello-developers-25hp)
 - [Dev.to/JS] [Create React page with Dark mode using Material UI](https://dev.to/raynecoder/create-react-page-with-dark-mode-using-material-ui-32dc)
 - [Dev.to/JS] [Abstract Factory pattern in TypeScript](https://dev.to/jmalvarez/abstract-factory-pattern-in-typescript-6c8)
 - [Dev.to/JS] [I wasn&#39;t happy with React useState Hook, so I built my own one and made it Open Source.](https://dev.to/cadienvan/i-wasnt-happy-with-react-usestate-hook-so-i-built-my-own-one-and-made-it-open-source-igj)
-- [Dev.to/JS] [Callbacks In JavaScript](https://dev.to/mrityunjaypalled/callbacks-in-javascript-477)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
