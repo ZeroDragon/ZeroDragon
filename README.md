@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Signs That You’re a Great Developer](https://dev.to/metamark/5-signs-that-youre-a-great-developer-3k13)
+- [Dev.to/JS] [Celebrate Open Source with Hacktoberfest](https://dev.to/liyasthomas/celebrate-open-source-with-hacktoberfest-f3k)
 - [Dev.to/JS] [10 Tailwind CSS tips](https://dev.to/joseprest/10-tailwind-css-tips-3jgk)
+- [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
+- [Dev.to/JS] [Is Unique?](https://dev.to/asadullohruziev/is-unique-427i)
 - [Dev.to/JS] [React HOC to make components permission driven](https://dev.to/imanshu03/react-hoc-to-make-components-permission-driven-35el)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
 - [Dev.to/JS] [React useEffect And What Is It?](https://dev.to/aradwan20/react-useeffect-and-what-is-it-4alj)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Errors in the Console, with a twist](https://dev.to/scriptjayt/js-errors-in-the-console-with-a-twist-25mb)
 - [Dev.to/JS] [Software Technologies Training](https://dev.to/rishitharamesh1/software-technologies-training-1cak)
 - [Dev.to/JS] [How to keep your frontend application code under control](https://dev.to/idavydov/how-to-keep-your-frontend-application-code-under-control-2206)
-- [Dev.to/JS] [Create React page with Dark mode using Material UI](https://dev.to/raynecoder/create-react-page-with-dark-mode-using-material-ui-32dc)
-- [Dev.to/JS] [Abstract Factory pattern in TypeScript](https://dev.to/jmalvarez/abstract-factory-pattern-in-typescript-6c8)
-- [Dev.to/JS] [I wasn&#39;t happy with React useState Hook, so I built my own one and made it Open Source.](https://dev.to/cadienvan/i-wasnt-happy-with-react-usestate-hook-so-i-built-my-own-one-and-made-it-open-source-igj)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Sharing Tinder Screenshots on the Internet, You Monsters](https://lifehacker.com/stop-sharing-tinder-screenshots-on-the-internet-you-mo-1849596226)
 - [Lifehacker] [This Is How You Load a Piping Bag](https://lifehacker.com/this-is-how-you-load-a-piping-bag-1849596610)
 - [Lifehacker] [Cardamom Is the New Cinnamon](https://lifehacker.com/cardamom-is-the-new-cinnamon-1849596493)
-- [Lifehacker] [19 of the Best JRPGs You Can Play on Modern Consoles](https://lifehacker.com/19-of-the-best-jrpgs-you-can-play-on-modern-consoles-1849371946)
-- [Lifehacker] [Now Anyone Can Use This AI That Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)<!-- TECH-POSTS:END -->
+- [Lifehacker] [19 of the Best JRPGs You Can Play on Modern Consoles](https://lifehacker.com/19-of-the-best-jrpgs-you-can-play-on-modern-consoles-1849371946)<!-- TECH-POSTS:END -->
 
 ---
 
