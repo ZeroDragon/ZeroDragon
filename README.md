@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do you prevent promises swallowing errors](https://dev.to/neeraj1997dev/how-do-you-prevent-promises-swallowing-errors-547i)
 - [Dev.to/JS] [Web Scraping Google Images](https://dev.to/darshan0_1/web-scraping-google-images-3efj)
 - [Dev.to/JS] [JSON with comments &lpar;JSONC&rpar;](https://dev.to/projektorius96/json-with-comments-jsonc-53n9)
 - [Dev.to/JS] [Objects in JavaScript](https://dev.to/neeraj1997dev/objects-in-javascript-8ao)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript: How much Math do you do?](https://dev.to/urstrulyvishwak/javascript-how-much-math-do-you-do-2a4)
 - [Dev.to/JS] [5 Signs That You’re a Great Developer](https://dev.to/metamark/5-signs-that-youre-a-great-developer-3k13)
 - [Dev.to/JS] [Celebrate Open Source with Hacktoberfest](https://dev.to/liyasthomas/celebrate-open-source-with-hacktoberfest-f3k)
-- [Dev.to/JS] [10 Tailwind CSS tips](https://dev.to/joseprest/10-tailwind-css-tips-3jgk)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
