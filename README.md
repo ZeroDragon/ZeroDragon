@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Abstract Factory pattern in TypeScript](https://dev.to/jmalvarez/abstract-factory-pattern-in-typescript-6c8)
+- [Dev.to/JS] [I wasn&#39;t happy with React useState Hook, so I built my own one and made it Open Source.](https://dev.to/cadienvan/i-wasnt-happy-with-react-usestate-hook-so-i-built-my-own-one-and-made-it-open-source-igj)
+- [Dev.to/JS] [Callbacks In JavaScript](https://dev.to/mrityunjaypalled/callbacks-in-javascript-477)
 - [Dev.to/JS] [Creating custom entities in medusa](https://dev.to/dailydevtips1/creating-custom-entities-in-medusa-1p47)
 - [Dev.to/JS] [Have you heard about new JS framework](https://dev.to/shreyvijayvargiya/have-you-heard-about-new-js-framework-28m9)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;01-10-2022&rpar; - Hopeless in HCMC](https://dev.to/mjgs/this-weeks-newsletter-is-out-01-10-2022-hopeless-in-hcmc-3ih1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [async/await in js](https://dev.to/harryholland/asyncawait-in-js-3hic)
 - [Dev.to/JS] [Async JS - Callbacks, Promises, Async await](https://dev.to/naveenkolambage/async-js-callbacks-promises-async-await-2p38)
 - [Dev.to/JS] [Build a Passwordless Authentication in Node.js on Redis](https://dev.to/imichaelowolabi/passwordless-authentication-in-nodejs-on-redis-12e)
-- [Dev.to/JS] [#10daysofcodechallenge by Ingressive for Good &lpar;#Day 10&rpar;](https://dev.to/dennardavid/10daysofcodechallenge-by-ingressive-for-good-day-10-40fj)
-- [Dev.to/JS] [How to download s3 object and save to file](https://dev.to/volkansenturk2012/how-to-download-s3-object-and-save-to-file-pgj)
-- [Dev.to/JS] [Automating User Input](https://dev.to/f53/automating-user-input-22ok)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
