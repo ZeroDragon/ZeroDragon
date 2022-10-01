@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the JS Event Loop and Call Stack?](https://dev.to/neeraj1997dev/what-is-the-js-event-loop-and-call-stack-3amn)
+- [Dev.to/JS] [Becoming a TRUE Tech Lead](https://dev.to/msmello_/becoming-a-true-tech-lead-2487)
+- [Dev.to/JS] [Api wrappers using Axios, Fetch.](https://dev.to/ajmal_hasan/api-wrappers-using-axios-fetch-55dl)
 - [Dev.to/JS] [How do you prevent promises swallowing errors](https://dev.to/neeraj1997dev/how-do-you-prevent-promises-swallowing-errors-547i)
 - [Dev.to/JS] [Web Scraping Google Images](https://dev.to/darshan0_1/web-scraping-google-images-3efj)
 - [Dev.to/JS] [JSON with comments &lpar;JSONC&rpar;](https://dev.to/projektorius96/json-with-comments-jsonc-53n9)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Medusa Hackathon is live 🎉 Free swag and up to $1,500 in prizes](https://dev.to/medusajs/medusa-hackathon-is-live-free-swag-and-up-to-1500-in-prizes-3e25)
 - [Dev.to/JS] [NestJS Micro-services 101 Part 1 - Try to communicate btw two services](https://dev.to/mossnana/nestjs-micro-services-101-part-1-try-to-communicate-btw-two-services-1i8i)
 - [Dev.to/JS] [Javascript concept every developer should know!!!](https://dev.to/ajmal_hasan/javascript-concept-every-developer-should-know-em)
-- [Dev.to/JS] [Javascript: How much Math do you do?](https://dev.to/urstrulyvishwak/javascript-how-much-math-do-you-do-2a4)
-- [Dev.to/JS] [5 Signs That You’re a Great Developer](https://dev.to/metamark/5-signs-that-youre-a-great-developer-3k13)
-- [Dev.to/JS] [Celebrate Open Source with Hacktoberfest](https://dev.to/liyasthomas/celebrate-open-source-with-hacktoberfest-f3k)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
