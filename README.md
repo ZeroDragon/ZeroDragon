@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Medusa Hackathon is live 🎉 Free swag and up to $1,500 in prizes](https://dev.to/medusajs/medusa-hackathon-is-live-free-swag-and-up-to-1500-in-prizes-3e25)
+- [Dev.to/JS] [NestJS Micro-services 101 Part 1 - Try to communicate btw two services](https://dev.to/mossnana/nestjs-micro-services-101-part-1-try-to-communicate-btw-two-services-1i8i)
+- [Dev.to/JS] [Javascript concept every developer should know!!!](https://dev.to/ajmal_hasan/javascript-concept-every-developer-should-know-em)
+- [Dev.to/JS] [Javascript: How much Math do you do?](https://dev.to/urstrulyvishwak/javascript-how-much-math-do-you-do-2a4)
 - [Dev.to/JS] [5 Signs That You’re a Great Developer](https://dev.to/metamark/5-signs-that-youre-a-great-developer-3k13)
 - [Dev.to/JS] [Celebrate Open Source with Hacktoberfest](https://dev.to/liyasthomas/celebrate-open-source-with-hacktoberfest-f3k)
 - [Dev.to/JS] [10 Tailwind CSS tips](https://dev.to/joseprest/10-tailwind-css-tips-3jgk)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React useEffect And What Is It?](https://dev.to/aradwan20/react-useeffect-and-what-is-it-4alj)
 - [Dev.to/JS] [Multer Error](https://dev.to/amulagrawal02/multer-error-4kb4)
 - [Dev.to/JS] [LeetCode - Evaluate Reverse Polish Notation](https://dev.to/_alkesh26/leetcode-evaluate-reverse-polish-notation-1h1f)
-- [Dev.to/JS] [Programming Real Time Charts &amp; Graphs with JavaScript](https://dev.to/webdeasy/programming-real-time-charts-graphs-with-javascript-5c22)
-- [Dev.to/JS] [JS Errors in the Console, with a twist](https://dev.to/scriptjayt/js-errors-in-the-console-with-a-twist-25mb)
-- [Dev.to/JS] [Software Technologies Training](https://dev.to/rishitharamesh1/software-technologies-training-1cak)
-- [Dev.to/JS] [How to keep your frontend application code under control](https://dev.to/idavydov/how-to-keep-your-frontend-application-code-under-control-2206)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
