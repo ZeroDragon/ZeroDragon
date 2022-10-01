@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Some personal react projects](https://dev.to/gmoniava/react-projects-3pmn)
+- [Dev.to/JS] [Javascript - Let’s steal from other languages!](https://dev.to/noriller/javascript-lets-steal-from-other-languages-4914)
+- [Dev.to/JS] [Hadmean: Introducing the easiest, most efficient internal tool generator.](https://dev.to/akingbadeayobami/hadmean-introducing-the-easiest-most-efficient-internal-tool-generator-538e)
+- [Dev.to/JS] [Co-founder needed](https://dev.to/abayomioluyeye/co-founder-needed-58p4)
 - [Dev.to/JS] [What is the JS Event Loop and Call Stack?](https://dev.to/neeraj1997dev/what-is-the-js-event-loop-and-call-stack-3amn)
 - [Dev.to/JS] [Becoming a TRUE Tech Lead](https://dev.to/msmello_/becoming-a-true-tech-lead-2487)
 - [Dev.to/JS] [Api wrappers using Axios, Fetch.](https://dev.to/ajmal_hasan/api-wrappers-using-axios-fetch-55dl)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSON with comments &lpar;JSONC&rpar;](https://dev.to/projektorius96/json-with-comments-jsonc-53n9)
 - [Dev.to/JS] [Objects in JavaScript](https://dev.to/neeraj1997dev/objects-in-javascript-8ao)
 - [Dev.to/JS] [Snap Scroll in React in Less than a Minute](https://dev.to/ranjan/snap-scroll-in-react-in-less-than-a-minute-11oe)
-- [Dev.to/JS] [8 Ways Variables Are Declared in JavaScript](https://dev.to/stephcrown/8-ways-variables-are-declared-in-javascript-51nh)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
-- [Dev.to/JS] [Medusa Hackathon is live 🎉 Free swag and up to $1,500 in prizes](https://dev.to/medusajs/medusa-hackathon-is-live-free-swag-and-up-to-1500-in-prizes-3e25)
-- [Dev.to/JS] [NestJS Micro-services 101 Part 1 - Try to communicate btw two services](https://dev.to/mossnana/nestjs-micro-services-101-part-1-try-to-communicate-btw-two-services-1i8i)
-- [Dev.to/JS] [Javascript concept every developer should know!!!](https://dev.to/ajmal_hasan/javascript-concept-every-developer-should-know-em)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
