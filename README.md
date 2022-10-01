@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Software Technologies Training](https://dev.to/rishitharamesh1/software-technologies-training-1cak)
 - [Dev.to/JS] [How to keep your frontend application code under control](https://dev.to/idavydov/how-to-keep-your-frontend-application-code-under-control-2206)
 - [Dev.to/JS] [Hello developers!](https://dev.to/jairo_matus_733c3a8a3201c/hello-developers-25hp)
 - [Dev.to/JS] [Create React page with Dark mode using Material UI](https://dev.to/raynecoder/create-react-page-with-dark-mode-using-material-ui-32dc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Have you heard about new JS framework](https://dev.to/shreyvijayvargiya/have-you-heard-about-new-js-framework-28m9)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;01-10-2022&rpar; - Hopeless in HCMC](https://dev.to/mjgs/this-weeks-newsletter-is-out-01-10-2022-hopeless-in-hcmc-3ih1)
 - [Dev.to/JS] [Chrome Extensions of the Month - September 2022](https://dev.to/j471n/chrome-extensions-of-the-month-september-2022-4cnh)
-- [Dev.to/JS] [Most Common Number Methods and Properties in Javascript](https://dev.to/aliegotha/most-common-number-methods-and-properties-in-javascript-4ggc)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
