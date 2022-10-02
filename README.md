@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Cool HTML Elements Nobody Uses](https://dev.to/ruppysuppy/7-cool-html-elements-nobody-uses-330c)
+- [Dev.to/JS] [OSD600 - Enhancing Siteit’s markdown features](https://dev.to/tdaw/osd600-enhancing-siteits-markdown-features-41pd)
 - [Dev.to/JS] [test](https://dev.to/coderaman7/test-17ok)
 - [Dev.to/JS] [Find Anagrams](https://dev.to/zeeshanali0704/find-anagrams-4h4i)
 - [Dev.to/JS] [Phone Auth with Express and Node.js](https://dev.to/faizanpasha/phone-auth-with-express-and-nodejs-490m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Some personal react projects](https://dev.to/gmoniava/react-projects-3pmn)
 - [Dev.to/JS] [Javascript - Let’s steal from other languages!](https://dev.to/noriller/javascript-lets-steal-from-other-languages-4914)
 - [Dev.to/JS] [Co-founder needed](https://dev.to/abayomioluyeye/co-founder-needed-58p4)
-- [Dev.to/JS] [What is the JS Event Loop and Call Stack?](https://dev.to/neeraj1997dev/what-is-the-js-event-loop-and-call-stack-3amn)
-- [Dev.to/JS] [Becoming a TRUE Tech Lead](https://dev.to/msmello_/becoming-a-true-tech-lead-2487)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
