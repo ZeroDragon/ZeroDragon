@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conditional statement in JavaScript.](https://dev.to/jindalkeshav82/conditional-statement-in-javascript-3bg7)
+- [Dev.to/JS] [5-minute fun with GSAP ⏲️✨](https://dev.to/danielpetho/5-minute-fun-with-gsap-5348)
+- [Dev.to/JS] [Initial Query Data in React Query](https://dev.to/nischal_dutt/initial-query-data-in-react-query-gh1)
+- [Dev.to/JS] [Here are some JavaScript repos for you to contribute at Hacktoberfest you might not know yet](https://dev.to/jankapunkt/here-are-some-javascript-repos-for-you-to-contribute-at-hacktoberfest-33h8)
 - [Dev.to/JS] [Dictionary Web App](https://dev.to/virtualwiz/dictionary-web-app-116k)
 - [Dev.to/JS] [tsParticles - Guide for Hacktoberfest 2022 participants](https://dev.to/tsparticles/tsparticles-guide-for-hacktoberfest-2022-participants-1g5d)
 - [Dev.to/JS] [Is Symmetric Tree](https://dev.to/zeeshanali0704/is-symmetric-tree-3nam)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Querying data using React Query](https://dev.to/nischal_dutt/querying-data-using-react-query-53l2)
 - [Dev.to/JS] [How JS works?](https://dev.to/neeraj1997dev/how-js-works-4gk0)
 - [Dev.to/JS] [Medusa interacting with our custom entity](https://dev.to/dailydevtips1/medusa-interacting-with-our-custom-entity-530e)
-- [Dev.to/JS] [Less is More](https://dev.to/shreyvijayvargiya/less-is-more-33k7)
-- [Dev.to/JS] [Doomsday Algorithm](https://dev.to/msobkyy/doomsday-algorithm-1ahf)
-- [Dev.to/JS] [Is object a HashMap in Javascript?](https://dev.to/harryholland/is-object-a-hashmap-in-javascript-k4h)
-- [Dev.to/JS] [Building a rate limiter in NodeJS using the token bucket algorithm](https://dev.to/hurntre/building-a-rate-limiter-in-nodejs-using-the-token-bucket-algorithm-50bf)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
