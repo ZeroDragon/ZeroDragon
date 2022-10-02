@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is object a HashMap in Javascript?](https://dev.to/harryholland/is-object-a-hashmap-in-javascript-k4h)
+- [Dev.to/JS] [Building a rate limiter in NodeJS using the token bucket algorithm](https://dev.to/hurntre/building-a-rate-limiter-in-nodejs-using-the-token-bucket-algorithm-50bf)
 - [Dev.to/JS] [Game changer JS framework?](https://dev.to/shreyvijayvargiya/game-changer-js-framework-21de)
 - [Dev.to/JS] [Validate-env plugin for Vite](https://dev.to/julienr/validate-env-plugin-for-vite-mfb)
 - [Dev.to/JS] [A quick look at Qwik](https://dev.to/omher/quick-look-at-qwik-3pjb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [test](https://dev.to/coderaman7/test-17ok)
 - [Dev.to/JS] [Find Anagrams](https://dev.to/zeeshanali0704/find-anagrams-4h4i)
 - [Dev.to/JS] [Phone Auth with Express and Node.js](https://dev.to/faizanpasha/phone-auth-with-express-and-nodejs-490m)
-- [Dev.to/JS] [introducing T-RY method , logging per category vs time Rhythm](https://dev.to/tryscriptio/introducing-t-ry-method-logging-per-category-vs-time-rhythm-26dl)
-- [Dev.to/JS] [Free JSC Store Files](https://dev.to/james_austin7/free-jsc-store-files-45df)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
