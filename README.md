@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Phone Auth with Express and Node.js](https://dev.to/faizanpasha/phone-auth-with-express-and-nodejs-490m)
+- [Dev.to/JS] [introducing T-RY method , logging per category vs time Rhythm](https://dev.to/tryscriptio/introducing-t-ry-method-logging-per-category-vs-time-rhythm-26dl)
+- [Dev.to/JS] [Free JSC Store Files](https://dev.to/james_austin7/free-jsc-store-files-45df)
+- [Dev.to/JS] [Sending an Email With React Without a Backend Server](https://dev.to/benjaminnwokolo/sending-an-email-with-react-without-a-backend-server-32gc)
 - [Dev.to/JS] [Implementing Controlled Vs Uncontrolled Component in React](https://dev.to/janicera2880/implementing-controlled-vs-uncontrolled-component-in-react-daf)
 - [Dev.to/JS] [Some personal react projects](https://dev.to/gmoniava/react-projects-3pmn)
 - [Dev.to/JS] [Javascript - Let’s steal from other languages!](https://dev.to/noriller/javascript-lets-steal-from-other-languages-4914)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Becoming a TRUE Tech Lead](https://dev.to/msmello_/becoming-a-true-tech-lead-2487)
 - [Dev.to/JS] [Api wrappers using Axios, Fetch.](https://dev.to/ajmal_hasan/api-wrappers-using-axios-fetch-55dl)
 - [Dev.to/JS] [How do you prevent promises swallowing errors](https://dev.to/neeraj1997dev/how-do-you-prevent-promises-swallowing-errors-547i)
-- [Dev.to/JS] [Web Scraping Google Images](https://dev.to/darshan0_1/web-scraping-google-images-3efj)
-- [Dev.to/JS] [JSON with comments &lpar;JSONC&rpar;](https://dev.to/projektorius96/json-with-comments-jsonc-53n9)
-- [Dev.to/JS] [Objects in JavaScript](https://dev.to/neeraj1997dev/objects-in-javascript-8ao)
-- [Dev.to/JS] [Snap Scroll in React in Less than a Minute](https://dev.to/ranjan/snap-scroll-in-react-in-less-than-a-minute-11oe)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
