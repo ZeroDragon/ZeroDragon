@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Callback vs Promises vs Async Await](https://dev.to/neeraj1997dev/callback-vs-promises-vs-async-await-46ap)
+- [Dev.to/JS] [Tonada - A new UI library](https://dev.to/mahmoudshahin1111/tonada-a-new-ui-library-53ck)
 - [Dev.to/JS] [Hide the Source Code in React from Dev Tools [3 different ways]](https://dev.to/jeevaramanathan/hide-the-source-code-in-react-from-dev-tools-3-different-ways-5467)
 - [Dev.to/JS] [How to create React CRA](https://dev.to/apppardana/how-to-create-react-cra-2fg5)
 - [Dev.to/JS] [Svelte Style Scoping](https://dev.to/codingmustache/svelte-style-scoping-5e9k)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Best Javascript Rich Text Editors](https://dev.to/gscode/10-best-javascript-rich-text-editors-3el0)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
 - [Dev.to/JS] [Series: Things I Wish I Knew Before in JavaScript - Intro](https://dev.to/schemetastic/series-things-i-wish-i-knew-before-in-javascript-intro-2bb6)
-- [Dev.to/JS] [Mutations](https://dev.to/nischal_dutt/mutations-3d31)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
-- [Dev.to/JS] [MY JOURNEY IN TECH](https://dev.to/chinemerem/my-journey-in-tech-mfp)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
