@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Game changer JS framework?](https://dev.to/shreyvijayvargiya/game-changer-js-framework-21de)
+- [Dev.to/JS] [Validate-env plugin for Vite](https://dev.to/julienr/validate-env-plugin-for-vite-mfb)
 - [Dev.to/JS] [A quick look at Qwik](https://dev.to/omher/quick-look-at-qwik-3pjb)
 - [Dev.to/JS] [JavaScript is not hard!! you are just not learning it the right way!!](https://dev.to/xenxei46/javascript-is-not-hard-you-are-just-not-learning-it-the-right-way-m6g)
 - [Dev.to/JS] [The Logic Behind Tic-Tac-Toe game](https://dev.to/shakyapeiris/the-logic-behind-tic-tac-toe-game-32f9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Phone Auth with Express and Node.js](https://dev.to/faizanpasha/phone-auth-with-express-and-nodejs-490m)
 - [Dev.to/JS] [introducing T-RY method , logging per category vs time Rhythm](https://dev.to/tryscriptio/introducing-t-ry-method-logging-per-category-vs-time-rhythm-26dl)
 - [Dev.to/JS] [Free JSC Store Files](https://dev.to/james_austin7/free-jsc-store-files-45df)
-- [Dev.to/JS] [Sending an Email With React Without a Backend Server](https://dev.to/benjaminnwokolo/sending-an-email-with-react-without-a-backend-server-32gc)
-- [Dev.to/JS] [Implementing Controlled Vs Uncontrolled Component in React](https://dev.to/janicera2880/implementing-controlled-vs-uncontrolled-component-in-react-daf)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
