@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
+- [Dev.to/JS] [MY JOURNEY IN TECH](https://dev.to/chinemerem/my-journey-in-tech-mfp)
+- [Dev.to/JS] [ToppestBwoy|Maliamungu Swalleh](https://dev.to/toppestbwoy/toppestbwoymaliamungu-swalleh-4426)
+- [Dev.to/JS] [Paginated &amp; Infinite Queries](https://dev.to/nischal_dutt/paginated-infinite-queries-182p)
 - [Dev.to/JS] [Conditional statement in JavaScript.](https://dev.to/jindalkeshav82/conditional-statement-in-javascript-3bg7)
 - [Dev.to/JS] [5-minute fun with GSAP ⏲️✨](https://dev.to/danielpetho/5-minute-fun-with-gsap-5348)
 - [Dev.to/JS] [Initial Query Data in React Query](https://dev.to/nischal_dutt/initial-query-data-in-react-query-gh1)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is Symmetric Tree](https://dev.to/zeeshanali0704/is-symmetric-tree-3nam)
 - [Dev.to/JS] [Permutation of a string](https://dev.to/zeeshanali0704/permutation-of-a-string-3hd8)
 - [Dev.to/JS] [Web simulation of Kali Linux](https://dev.to/aliaboalshamlat/web-simulation-of-kali-linux-1lfo)
-- [Dev.to/JS] [Querying data using React Query](https://dev.to/nischal_dutt/querying-data-using-react-query-53l2)
-- [Dev.to/JS] [How JS works?](https://dev.to/neeraj1997dev/how-js-works-4gk0)
-- [Dev.to/JS] [Medusa interacting with our custom entity](https://dev.to/dailydevtips1/medusa-interacting-with-our-custom-entity-530e)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
 - [Lifehacker] [How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
 - [Lifehacker] [Stop Sharing Tinder Screenshots on the Internet, You Monsters](https://lifehacker.com/stop-sharing-tinder-screenshots-on-the-internet-you-mo-1849596226)
-- [Lifehacker] [This Is How You Load a Piping Bag](https://lifehacker.com/this-is-how-you-load-a-piping-bag-1849596610)
-- [Lifehacker] [Cardamom Is the New Cinnamon](https://lifehacker.com/cardamom-is-the-new-cinnamon-1849596493)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is How You Load a Piping Bag](https://lifehacker.com/this-is-how-you-load-a-piping-bag-1849596610)<!-- TECH-POSTS:END -->
 
 ---
 
