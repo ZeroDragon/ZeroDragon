@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fast Real Time JavaScript Video Manipulation / Postprocessing](https://dev.to/thaunknown/fast-real-time-javascript-video-manipulation-postprocessing-4li1)
+- [Dev.to/JS] [Why printscreen if you can download the image](https://dev.to/tenaz3/why-printscreen-if-you-can-download-the-image-2lh1)
 - [Dev.to/JS] [Callback vs Promises vs Async Await](https://dev.to/neeraj1997dev/callback-vs-promises-vs-async-await-46ap)
 - [Dev.to/JS] [Tonada - A new UI library](https://dev.to/mahmoudshahin1111/tonada-a-new-ui-library-53ck)
+- [Dev.to/JS] [How to build React Apple Accessories Cart &lpar;custom hook and broadcasts, no plugins&rpar;](https://dev.to/paulvermeer2021/how-to-build-react-apple-accessories-cart-custom-hook-and-broadcasts-no-plugins-580h)
 - [Dev.to/JS] [Hide the Source Code in React from Dev Tools [3 different ways]](https://dev.to/jeevaramanathan/hide-the-source-code-in-react-from-dev-tools-3-different-ways-5467)
 - [Dev.to/JS] [How to create React CRA](https://dev.to/apppardana/how-to-create-react-cra-2fg5)
 - [Dev.to/JS] [Svelte Style Scoping](https://dev.to/codingmustache/svelte-style-scoping-5e9k)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Dev.to/JS] [Overcoming execCommand&lpar;&rpar;](https://dev.to/vishwajay/overcoming-execcommand-24d5)
 - [Dev.to/JS] [I am building the MOST productive tool ever - part 2](https://dev.to/anasdew/i-am-building-the-most-productive-tool-ever-part-2-2f)
-- [Dev.to/JS] [Currently Looking For A Node.JS Role 👋🚀](https://dev.to/geekyahmed/currently-looking-for-a-nodejs-role-1i08)
-- [Dev.to/JS] [10 Best Javascript Rich Text Editors](https://dev.to/gscode/10-best-javascript-rich-text-editors-3el0)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
-- [Dev.to/JS] [Series: Things I Wish I Knew Before in JavaScript - Intro](https://dev.to/schemetastic/series-things-i-wish-i-knew-before-in-javascript-intro-2bb6)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
