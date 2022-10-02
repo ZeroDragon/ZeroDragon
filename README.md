@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte Style Scoping](https://dev.to/codingmustache/svelte-style-scoping-5e9k)
+- [Dev.to/JS] [Building personal assistant bot with telegram](https://dev.to/zeyadetman/building-personal-assistant-bot-with-telegram-4goe)
+- [Dev.to/JS] [Iterate Through All an Array&#39;s Items Using For Loops &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/iterate-through-all-an-arrays-items-using-for-loops-freecodecamp-notes-4m6)
+- [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Dev.to/JS] [Overcoming execCommand&lpar;&rpar;](https://dev.to/vishwajay/overcoming-execcommand-24d5)
 - [Dev.to/JS] [I am building the MOST productive tool ever - part 2](https://dev.to/anasdew/i-am-building-the-most-productive-tool-ever-part-2-2f)
 - [Dev.to/JS] [Currently Looking For A Node.JS Role 👋🚀](https://dev.to/geekyahmed/currently-looking-for-a-nodejs-role-1i08)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MY JOURNEY IN TECH](https://dev.to/chinemerem/my-journey-in-tech-mfp)
 - [Dev.to/JS] [ToppestBwoy|Maliamungu Swalleh](https://dev.to/toppestbwoy/toppestbwoymaliamungu-swalleh-4426)
 - [Dev.to/JS] [Paginated &amp; Infinite Queries](https://dev.to/nischal_dutt/paginated-infinite-queries-182p)
-- [Dev.to/JS] [Conditional statement in JavaScript.](https://dev.to/jindalkeshav82/conditional-statement-in-javascript-3bg7)
-- [Dev.to/JS] [5-minute fun with GSAP ⏲️✨](https://dev.to/danielpetho/5-minute-fun-with-gsap-5348)
-- [Dev.to/JS] [Initial Query Data in React Query](https://dev.to/nischal_dutt/initial-query-data-in-react-query-gh1)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
 - [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
-- [Lifehacker] [How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
-- [Lifehacker] [Stop Sharing Tinder Screenshots on the Internet, You Monsters](https://lifehacker.com/stop-sharing-tinder-screenshots-on-the-internet-you-mo-1849596226)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)<!-- TECH-POSTS:END -->
 
 ---
 
