@@ -23,9 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing Controlled Vs Uncontrolled Component in React](https://dev.to/janicera2880/implementing-controlled-vs-uncontrolled-component-in-react-daf)
 - [Dev.to/JS] [Some personal react projects](https://dev.to/gmoniava/react-projects-3pmn)
 - [Dev.to/JS] [Javascript - Let’s steal from other languages!](https://dev.to/noriller/javascript-lets-steal-from-other-languages-4914)
-- [Dev.to/JS] [Hadmean: Introducing the easiest, most efficient internal tool generator.](https://dev.to/akingbadeayobami/hadmean-introducing-the-easiest-most-efficient-internal-tool-generator-538e)
 - [Dev.to/JS] [Co-founder needed](https://dev.to/abayomioluyeye/co-founder-needed-58p4)
 - [Dev.to/JS] [What is the JS Event Loop and Call Stack?](https://dev.to/neeraj1997dev/what-is-the-js-event-loop-and-call-stack-3amn)
 - [Dev.to/JS] [Becoming a TRUE Tech Lead](https://dev.to/msmello_/becoming-a-true-tech-lead-2487)
