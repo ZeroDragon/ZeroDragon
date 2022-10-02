@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Medusa interacting with our custom entity](https://dev.to/dailydevtips1/medusa-interacting-with-our-custom-entity-530e)
+- [Dev.to/JS] [Less is More](https://dev.to/shreyvijayvargiya/less-is-more-33k7)
+- [Dev.to/JS] [Doomsday Algorithm](https://dev.to/msobkyy/doomsday-algorithm-1ahf)
 - [Dev.to/JS] [Is object a HashMap in Javascript?](https://dev.to/harryholland/is-object-a-hashmap-in-javascript-k4h)
 - [Dev.to/JS] [Building a rate limiter in NodeJS using the token bucket algorithm](https://dev.to/hurntre/building-a-rate-limiter-in-nodejs-using-the-token-bucket-algorithm-50bf)
 - [Dev.to/JS] [Game changer JS framework?](https://dev.to/shreyvijayvargiya/game-changer-js-framework-21de)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Logic Behind Tic-Tac-Toe game](https://dev.to/shakyapeiris/the-logic-behind-tic-tac-toe-game-32f9)
 - [Dev.to/JS] [7 Cool HTML Elements Nobody Uses](https://dev.to/ruppysuppy/7-cool-html-elements-nobody-uses-330c)
 - [Dev.to/JS] [OSD600 - Enhancing Siteit’s markdown features](https://dev.to/tdaw/osd600-enhancing-siteits-markdown-features-41pd)
-- [Dev.to/JS] [test](https://dev.to/coderaman7/test-17ok)
-- [Dev.to/JS] [Find Anagrams](https://dev.to/zeeshanali0704/find-anagrams-4h4i)
-- [Dev.to/JS] [Phone Auth with Express and Node.js](https://dev.to/faizanpasha/phone-auth-with-express-and-nodejs-490m)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
