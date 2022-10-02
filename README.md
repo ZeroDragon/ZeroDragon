@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Series: Things I Wish I Knew Before in JavaScript - Intro](https://dev.to/schemetastic/series-things-i-wish-i-knew-before-in-javascript-intro-2bb6)
+- [Dev.to/JS] [Mutations](https://dev.to/nischal_dutt/mutations-3d31)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
 - [Dev.to/JS] [MY JOURNEY IN TECH](https://dev.to/chinemerem/my-journey-in-tech-mfp)
 - [Dev.to/JS] [ToppestBwoy|Maliamungu Swalleh](https://dev.to/toppestbwoy/toppestbwoymaliamungu-swalleh-4426)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dictionary Web App](https://dev.to/virtualwiz/dictionary-web-app-116k)
 - [Dev.to/JS] [tsParticles - Guide for Hacktoberfest 2022 participants](https://dev.to/tsparticles/tsparticles-guide-for-hacktoberfest-2022-participants-1g5d)
 - [Dev.to/JS] [Is Symmetric Tree](https://dev.to/zeeshanali0704/is-symmetric-tree-3nam)
-- [Dev.to/JS] [Permutation of a string](https://dev.to/zeeshanali0704/permutation-of-a-string-3hd8)
-- [Dev.to/JS] [Web simulation of Kali Linux](https://dev.to/aliaboalshamlat/web-simulation-of-kali-linux-1lfo)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
