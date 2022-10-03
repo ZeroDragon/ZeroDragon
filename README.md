@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create SBOMs for free with CodeSec by Contrast](https://dev.to/orlandov14/how-to-create-sboms-for-free-with-codesec-by-contrast-232)
+- [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
+- [Dev.to/JS] [Automatically Embed Latest Youtube Videos on your Website with JavaScript &lpar;step by step&rpar;](https://dev.to/juliafmorgado/automatically-embed-latest-youtube-videos-on-your-website-with-javascript-step-by-step-2i5e)
+- [Dev.to/JS] [Sell My House Fast For Cash In Market Value](https://dev.to/sellmyhousefastmyself/sell-my-house-fast-for-cash-in-market-value-4gg4)
+- [Dev.to/JS] [Count Common Words With One Occurrence](https://dev.to/zeeshanali0704/count-common-words-with-one-occurrence-4277)
+- [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
+- [Dev.to/JS] [One Away: Replace, add, remove](https://dev.to/zeeshanali0704/one-away-replace-add-remove-5k5)
+- [Dev.to/JS] [Introducing Mahal.js](https://dev.to/ujjwal_kr_gupta/introducing-mahaljs-44k9)
 - [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
 - [Dev.to/JS] [Compile Solidity In The Browser](https://dev.to/abdhafizahmed/compile-solidity-in-the-browser-16d9)
 - [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
@@ -35,12 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Testing Simplified](https://dev.to/artlist/react-testing-simplified-3i2m)
 - [Dev.to/JS] [Improve your website performance using Partytown type in script tags](https://dev.to/cloudx/improve-your-website-performance-using-partytown-type-in-script-tags-70b)
 - [Lifehacker] [Your Child&#39;s Short Attention Span Is Actually Helping Them Learn](https://lifehacker.com/your-childs-short-attention-span-is-actually-helping-th-1849587218)
-- [Dev.to/JS] [Top 7 Frameworks for Front-End and Back-End Developers](https://dev.to/xnaksdn/top-7-frameworks-for-front-end-and-back-end-developers-2kpn)
-- [Dev.to/JS] [Introduction to REACT](https://dev.to/favour_yusuf/introduction-to-react-1kd5)
-- [Dev.to/JS] [Best mouse for Programming.](https://dev.to/devsimc/best-mouse-for-programming-3d7g)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🎀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2oic)
-- [Dev.to/JS] [Code and Non-Code Contribution Repositories for Hacktoberfest](https://dev.to/surajondev/code-and-non-code-contribution-repositories-for-hacktoberfest-5com)
-- [Dev.to/JS] [Advanced js: built-in Proxy use case](https://dev.to/manuartero/advanced-js-built-in-proxy-use-case-32cp)
 - [Crazy Programmer] [What is Microsoft Power BI Certification? Is it Worth It?](https://www.thecrazyprogrammer.com/2022/10/microsoft-power-bi-certification.html)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Your Child Is Gifted &lpar;and What to Do If They Are&rpar;](https://lifehacker.com/how-to-tell-if-your-child-is-gifted-and-what-to-do-if-1849598912)
 - [Lifehacker] [Consider TikTok&#39;s Onion Sandwich](https://lifehacker.com/consider-tiktoks-onion-sandwich-1849599118)
 - [Lifehacker] [Are Your Headaches Actually Migraines?](https://lifehacker.com/are-your-headaches-actually-migraines-1849589203)
-- [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Are The Try Guys?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-are-t-1849600056)
-- [Lifehacker] [How to Parent Your Kid Through These Four Stages of Adolescence](https://lifehacker.com/how-to-parent-your-kid-through-these-four-stages-of-ado-1849591104)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)<!-- TECH-POSTS:END -->
 
 ---
 
