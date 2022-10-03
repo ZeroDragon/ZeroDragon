@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Performance benchmarks - redis mget vs pipeline](https://dev.to/santhoshrt/performance-benchmarks-redis-mget-vs-pipeline-2gk1)
 - [Dev.to/JS] [用 JavaScript 做一個 Tooltips 功能](https://dev.to/letswrite/yong-javascript-zuo-ge-tooltips-gong-neng-2je8)
 - [Lifehacker] [The 7 Deadly Sins of Learning to Play the Guitar](https://lifehacker.com/the-7-deadly-sins-of-learning-to-play-the-guitar-1849604355)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-sep-2022-1hae)
@@ -35,9 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best mouse for Programming.](https://dev.to/devsimc/best-mouse-for-programming-3d7g)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🎀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2oic)
 - [Dev.to/JS] [Code and Non-Code Contribution Repositories for Hacktoberfest](https://dev.to/surajondev/code-and-non-code-contribution-repositories-for-hacktoberfest-5com)
-- [Dev.to/JS] [Transport Management System &lpar;TMS&rpar; – The Key to your success](https://dev.to/omlogisticsd3/transport-management-system-tms-the-key-to-your-success-32g2)
 - [Dev.to/JS] [Advanced js: built-in Proxy use case](https://dev.to/manuartero/advanced-js-built-in-proxy-use-case-32cp)
-- [Dev.to/JS] [Trends in the Transport and Logistics Industry - Omlogistics](https://dev.to/omlogisticsd3/trends-in-the-transport-and-logistics-industry-omlogistics-g0c)
+- [Dev.to/JS] [123](https://dev.to/rival-politics/123-41a8)
 - [Crazy Programmer] [What is Microsoft Power BI Certification? Is it Worth It?](https://www.thecrazyprogrammer.com/2022/10/microsoft-power-bi-certification.html)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
