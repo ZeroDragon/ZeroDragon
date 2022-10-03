@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript: Uniones discriminadas o como crear argumentos opcionales y dependientes](https://dev.to/matiasfha/typescript-uniones-discriminadas-o-como-crear-argumentos-opcionales-y-dependientes-5024)
+- [Dev.to/JS] [Free College Free Knowledge](https://dev.to/revoltez/free-college-free-knowledge-4hag)
+- [Lifehacker] [How to Tell an Abortion Provider From a &#39;Crisis Pregnancy Center&#39;](https://lifehacker.com/how-to-tell-an-abortion-provider-from-a-crisis-pregnanc-1849609842)
+- [Dev.to/JS] [Udacity Nanodegree Course Review](https://dev.to/harvey2478/udacity-nanodegree-course-review-2ge7)
 - [Lifehacker] [The First Things to Do When You Get a New Boss](https://lifehacker.com/the-first-things-to-do-when-you-get-a-new-boss-1849609688)
 - [Dev.to/JS] [How to integrate Razorpay payment gateway in ReactJS](https://dev.to/rajamanickam/how-to-integrate-razorpay-payment-gateway-in-reactjs-5fnb)
 - [Dev.to/JS] [Need for speed: Migrating from Webpack 4 to Vite](https://dev.to/swimm_io/need-for-speed-migrating-from-webpack-4-to-vite-559l)
@@ -37,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [One Away: Replace, add, remove](https://dev.to/zeeshanali0704/one-away-replace-add-remove-5k5)
 - [Dev.to/JS] [Introducing Mahal.js](https://dev.to/ujjwal_kr_gupta/introducing-mahaljs-44k9)
 - [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
-- [Dev.to/JS] [Compile Solidity In The Browser](https://dev.to/abdhafizahmed/compile-solidity-in-the-browser-16d9)
 - [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
 - [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)
-- [Dev.to/JS] [Performance benchmarks - redis mget vs pipeline](https://dev.to/santhoshrt/performance-benchmarks-redis-mget-vs-pipeline-2gk1)
-- [Dev.to/JS] [用 JavaScript 做一個 Tooltips 功能](https://dev.to/letswrite/yong-javascript-zuo-ge-tooltips-gong-neng-2je8)
 - [Lifehacker] [The 7 Deadly Sins of Learning to Play the Guitar](https://lifehacker.com/the-7-deadly-sins-of-learning-to-play-the-guitar-1849604355)
 - [Lifehacker] [For Better Sautéed Mushrooms, Boil Them First](https://lifehacker.com/for-better-sauteed-mushrooms-boil-them-first-1849599308)
 - [Lifehacker] [Your Child&#39;s Short Attention Span Is Actually Helping Them Learn](https://lifehacker.com/your-childs-short-attention-span-is-actually-helping-th-1849587218)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/five-renovations-that-can-actually-decrease-the-value-o-1849602138)
 - [Lifehacker] [Use This Site to See How Long It’ll Take to Finish a Video Game](https://lifehacker.com/use-this-site-to-see-how-long-it-ll-take-to-finish-a-vi-1849601676)
 - [Lifehacker] [What to Do With Leftover Foreign Currency After Your Trip](https://lifehacker.com/what-to-do-with-leftover-foreign-currency-after-your-tr-1849601263)
-- [Lifehacker] [How to Tell If Your Child Is Gifted &lpar;and What to Do If They Are&rpar;](https://lifehacker.com/how-to-tell-if-your-child-is-gifted-and-what-to-do-if-1849598912)
-- [Lifehacker] [Consider TikTok&#39;s Onion Sandwich](https://lifehacker.com/consider-tiktoks-onion-sandwich-1849599118)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If Your Child Is Gifted &lpar;and What to Do If They Are&rpar;](https://lifehacker.com/how-to-tell-if-your-child-is-gifted-and-what-to-do-if-1849598912)<!-- TECH-POSTS:END -->
 
 ---
 
