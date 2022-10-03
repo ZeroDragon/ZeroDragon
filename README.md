@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Freecodecamp Backend Development &amp; APIs &lpar;Timestamp Task My Answer&rpar;](https://dev.to/thuhtetdev/freecodecamp-backend-development-apis-timestamp-task-my-answer-ge4)
+- [Dev.to/JS] [5 webdev tips you may want to know 🔥 #3](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-3-1fi7)
+- [Dev.to/JS] [Solving it the AWS way.](https://dev.to/asnakhader/solving-it-the-aws-way-4jgc)
+- [Dev.to/JS] [Reduct Storage Client SDK for JavaScript 1.0.0 was released](https://dev.to/reduct-storage/reduct-storage-client-sdk-for-javascript-100-was-released-43p6)
 - [Dev.to/JS] [Regular Expressions: A Basic Explanation](https://dev.to/ananfito/regular-expressions-a-basic-explanation-5h7o)
 - [Dev.to/JS] [open source business solutions - OSBS](https://dev.to/osbscoin/open-source-business-solutions-osbs-1747)
 - [Dev.to/JS] [10 Best Free Web Development Courses 🤩](https://dev.to/souptikdn/10-best-free-web-development-courses-p9a)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Balanced Binary Tree](https://dev.to/zeeshanali0704/balanced-binary-tree-10i3)
 - [Dev.to/JS] [Minimum Window Substring](https://dev.to/zeeshanali0704/minimum-window-substring-48ab)
 - [Dev.to/JS] [&quot;Fish &amp; Chips the Game&quot; is now available🎉](https://dev.to/satotats/fish-chips-the-game-is-now-available-4kkl)
-- [Dev.to/JS] [The easiest way to build the Pinterest Layout without using a framework](https://dev.to/okonkwomandy/the-easiest-way-to-build-the-pinterest-layout-without-using-a-framework-3i0g)
-- [Dev.to/JS] [Fast Real Time JavaScript Video Manipulation / Postprocessing](https://dev.to/thaunknown/fast-real-time-javascript-video-manipulation-postprocessing-4li1)
-- [Dev.to/JS] [Why printscreen if you can download the image](https://dev.to/tenaz3/why-printscreen-if-you-can-download-the-image-2lh1)
-- [Dev.to/JS] [Callback vs Promises vs Async Await](https://dev.to/neeraj1997dev/callback-vs-promises-vs-async-await-46ap)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
