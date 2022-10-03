@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sample java code example](https://dev.to/mailuon39703122/sample-java-code-example-28l6)
+- [Dev.to/JS] [Balanced Binary Tree](https://dev.to/zeeshanali0704/balanced-binary-tree-10i3)
+- [Dev.to/JS] [Minimum Window Substring](https://dev.to/zeeshanali0704/minimum-window-substring-48ab)
 - [Dev.to/JS] [&quot;Fish &amp; Chips the Game&quot; is now available🎉](https://dev.to/satotats/fish-chips-the-game-is-now-available-4kkl)
 - [Dev.to/JS] [The easiest way to build the Pinterest Layout without using a framework](https://dev.to/okonkwomandy/the-easiest-way-to-build-the-pinterest-layout-without-using-a-framework-3i0g)
 - [Dev.to/JS] [Fast Real Time JavaScript Video Manipulation / Postprocessing](https://dev.to/thaunknown/fast-real-time-javascript-video-manipulation-postprocessing-4li1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build React Apple Accessories Cart &lpar;custom hook and broadcasts, no plugins&rpar;](https://dev.to/paulvermeer2021/how-to-build-react-apple-accessories-cart-custom-hook-and-broadcasts-no-plugins-580h)
 - [Dev.to/JS] [Hide the Source Code in React from Dev Tools [3 different ways]](https://dev.to/jeevaramanathan/hide-the-source-code-in-react-from-dev-tools-3-different-ways-5467)
 - [Dev.to/JS] [How to create React CRA](https://dev.to/apppardana/how-to-create-react-cra-2fg5)
-- [Dev.to/JS] [Svelte Style Scoping](https://dev.to/codingmustache/svelte-style-scoping-5e9k)
-- [Dev.to/JS] [Building personal assistant bot with telegram](https://dev.to/zeyadetman/building-personal-assistant-bot-with-telegram-4goe)
-- [Dev.to/JS] [Iterate Through All an Array&#39;s Items Using For Loops &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/iterate-through-all-an-arrays-items-using-for-loops-freecodecamp-notes-4m6)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
