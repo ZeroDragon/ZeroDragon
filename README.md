@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-sep-2022-1hae)
+- [Lifehacker] [For Better Sautéed Mushrooms, Boil Them First](https://lifehacker.com/for-better-sauteed-mushrooms-boil-them-first-1849599308)
+- [Dev.to/JS] [React Testing Simplified](https://dev.to/artlist/react-testing-simplified-3i2m)
+- [Dev.to/JS] [Improve your website performance using Partytown type in script tags](https://dev.to/cloudx/improve-your-website-performance-using-partytown-type-in-script-tags-70b)
+- [Lifehacker] [Your Child&#39;s Short Attention Span Is Actually Helping Them Learn](https://lifehacker.com/your-childs-short-attention-span-is-actually-helping-th-1849587218)
+- [Dev.to/JS] [Top 7 Frameworks for Front-End and Back-End Developers](https://dev.to/xnaksdn/top-7-frameworks-for-front-end-and-back-end-developers-2kpn)
 - [Dev.to/JS] [Introduction to REACT](https://dev.to/favour_yusuf/introduction-to-react-1kd5)
 - [Dev.to/JS] [Best mouse for Programming.](https://dev.to/devsimc/best-mouse-for-programming-3d7g)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🎀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2oic)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced js: built-in Proxy use case](https://dev.to/manuartero/advanced-js-built-in-proxy-use-case-32cp)
 - [Dev.to/JS] [Trends in the Transport and Logistics Industry - Omlogistics](https://dev.to/omlogisticsd3/trends-in-the-transport-and-logistics-industry-omlogistics-g0c)
 - [Dev.to/JS] [123](https://dev.to/rival-politics/123-41a8)
-- [Dev.to/JS] [How to Build a Job Nina with Sapper, Strapi and Netlify](https://dev.to/strapi/how-to-build-a-job-nina-with-sapper-strapi-v4-and-netlify-474a)
-- [Dev.to/JS] [Prerendering in Angular  - Part III](https://dev.to/ayyash/prerendering-in-angular-part-iii-420j)
-- [Dev.to/JS] [How to use Cloudinary Images with Nuxt 3](https://dev.to/jacobandrewsky/how-to-use-cloudinary-images-with-nuxt-3-4om4)
-- [Dev.to/JS] [Quick &amp; Easy Appointment with Local Logistics Companies in Delhi/NCR](https://dev.to/omlogisticsd3/quick-easy-appointment-with-local-logistics-companies-in-delhincr-3ma2)
 - [Crazy Programmer] [What is Microsoft Power BI Certification? Is it Worth It?](https://www.thecrazyprogrammer.com/2022/10/microsoft-power-bi-certification.html)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This TikTok Is Right About Never Closing Your iPhone Apps](https://lifehacker.com/this-tiktok-is-right-about-never-closing-your-iphone-ap-1849591813)
 - [Lifehacker] [16 of the Best New Horror Movies to Watch This Halloween](https://lifehacker.com/16-of-the-best-new-horror-movies-to-watch-this-hallowee-1849594305)
 - [Lifehacker] [How to Help Your Teen Survive Early School Start Times](https://lifehacker.com/how-to-help-your-teen-survive-early-school-start-times-1849587406)
-- [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
-- [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
-- [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)<!-- TECH-POSTS:END -->
 
 ---
 
