@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [用 JavaScript 做一個 Tooltips 功能](https://dev.to/letswrite/yong-javascript-zuo-ge-tooltips-gong-neng-2je8)
+- [Lifehacker] [The 7 Deadly Sins of Learning to Play the Guitar](https://lifehacker.com/the-7-deadly-sins-of-learning-to-play-the-guitar-1849604355)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-sep-2022-1hae)
 - [Lifehacker] [For Better Sautéed Mushrooms, Boil Them First](https://lifehacker.com/for-better-sauteed-mushrooms-boil-them-first-1849599308)
 - [Dev.to/JS] [React Testing Simplified](https://dev.to/artlist/react-testing-simplified-3i2m)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transport Management System &lpar;TMS&rpar; – The Key to your success](https://dev.to/omlogisticsd3/transport-management-system-tms-the-key-to-your-success-32g2)
 - [Dev.to/JS] [Advanced js: built-in Proxy use case](https://dev.to/manuartero/advanced-js-built-in-proxy-use-case-32cp)
 - [Dev.to/JS] [Trends in the Transport and Logistics Industry - Omlogistics](https://dev.to/omlogisticsd3/trends-in-the-transport-and-logistics-industry-omlogistics-g0c)
-- [Dev.to/JS] [123](https://dev.to/rival-politics/123-41a8)
 - [Crazy Programmer] [What is Microsoft Power BI Certification? Is it Worth It?](https://www.thecrazyprogrammer.com/2022/10/microsoft-power-bi-certification.html)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Parent Your Kid Through These Four Stages of Adolescence](https://lifehacker.com/how-to-parent-your-kid-through-these-four-stages-of-ado-1849591104)
 - [Lifehacker] [This TikTok Is Right About Never Closing Your iPhone Apps](https://lifehacker.com/this-tiktok-is-right-about-never-closing-your-iphone-ap-1849591813)
 - [Lifehacker] [16 of the Best New Horror Movies to Watch This Halloween](https://lifehacker.com/16-of-the-best-new-horror-movies-to-watch-this-hallowee-1849594305)
-- [Lifehacker] [How to Help Your Teen Survive Early School Start Times](https://lifehacker.com/how-to-help-your-teen-survive-early-school-start-times-1849587406)
-- [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Help Your Teen Survive Early School Start Times](https://lifehacker.com/how-to-help-your-teen-survive-early-school-start-times-1849587406)<!-- TECH-POSTS:END -->
 
 ---
 
