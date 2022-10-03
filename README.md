@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
+- [Dev.to/JS] [Compile Solidity In The Browser](https://dev.to/abdhafizahmed/compile-solidity-in-the-browser-16d9)
+- [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
+- [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)
 - [Dev.to/JS] [Performance benchmarks - redis mget vs pipeline](https://dev.to/santhoshrt/performance-benchmarks-redis-mget-vs-pipeline-2gk1)
 - [Dev.to/JS] [用 JavaScript 做一個 Tooltips 功能](https://dev.to/letswrite/yong-javascript-zuo-ge-tooltips-gong-neng-2je8)
 - [Lifehacker] [The 7 Deadly Sins of Learning to Play the Guitar](https://lifehacker.com/the-7-deadly-sins-of-learning-to-play-the-guitar-1849604355)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🎀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2oic)
 - [Dev.to/JS] [Code and Non-Code Contribution Repositories for Hacktoberfest](https://dev.to/surajondev/code-and-non-code-contribution-repositories-for-hacktoberfest-5com)
 - [Dev.to/JS] [Advanced js: built-in Proxy use case](https://dev.to/manuartero/advanced-js-built-in-proxy-use-case-32cp)
-- [Dev.to/JS] [123](https://dev.to/rival-politics/123-41a8)
 - [Crazy Programmer] [What is Microsoft Power BI Certification? Is it Worth It?](https://www.thecrazyprogrammer.com/2022/10/microsoft-power-bi-certification.html)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are Your Headaches Actually Migraines?](https://lifehacker.com/are-your-headaches-actually-migraines-1849589203)
 - [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Are The Try Guys?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-are-t-1849600056)
-- [Lifehacker] [How to Parent Your Kid Through These Four Stages of Adolescence](https://lifehacker.com/how-to-parent-your-kid-through-these-four-stages-of-ado-1849591104)
-- [Lifehacker] [This TikTok Is Right About Never Closing Your iPhone Apps](https://lifehacker.com/this-tiktok-is-right-about-never-closing-your-iphone-ap-1849591813)
-- [Lifehacker] [16 of the Best New Horror Movies to Watch This Halloween](https://lifehacker.com/16-of-the-best-new-horror-movies-to-watch-this-hallowee-1849594305)
-- [Lifehacker] [How to Help Your Teen Survive Early School Start Times](https://lifehacker.com/how-to-help-your-teen-survive-early-school-start-times-1849587406)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Parent Your Kid Through These Four Stages of Adolescence](https://lifehacker.com/how-to-parent-your-kid-through-these-four-stages-of-ado-1849591104)<!-- TECH-POSTS:END -->
 
 ---
 
