@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Variables](https://dev.to/murtazaneher/javascript-variables-39m7)
 - [Dev.to/JS] [Sample java code example](https://dev.to/mailuon39703122/sample-java-code-example-28l6)
 - [Dev.to/JS] [Balanced Binary Tree](https://dev.to/zeeshanali0704/balanced-binary-tree-10i3)
 - [Dev.to/JS] [Minimum Window Substring](https://dev.to/zeeshanali0704/minimum-window-substring-48ab)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tonada - A new UI library](https://dev.to/mahmoudshahin1111/tonada-a-new-ui-library-53ck)
 - [Dev.to/JS] [How to build React Apple Accessories Cart &lpar;custom hook and broadcasts, no plugins&rpar;](https://dev.to/paulvermeer2021/how-to-build-react-apple-accessories-cart-custom-hook-and-broadcasts-no-plugins-580h)
 - [Dev.to/JS] [Hide the Source Code in React from Dev Tools [3 different ways]](https://dev.to/jeevaramanathan/hide-the-source-code-in-react-from-dev-tools-3-different-ways-5467)
-- [Dev.to/JS] [How to create React CRA](https://dev.to/apppardana/how-to-create-react-cra-2fg5)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
