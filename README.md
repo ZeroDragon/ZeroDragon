@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ng-News: Episode 22/39](https://dev.to/rainerhahnekamp/ng-news-episode-2239-3827)
+- [Dev.to/JS] [Finger Swipe JS](https://dev.to/inancakduvan/finger-swipe-js-4nd2)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Dev.to/JS] [Ordenação por flutuação - Bubble Sort](https://dev.to/dormin/ordenacao-por-flutuacao-bubble-sort-1hfe)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
 - [Dev.to/JS] [Automatically Embed Latest Youtube Videos on your Website with JavaScript &lpar;step by step&rpar;](https://dev.to/juliafmorgado/automatically-embed-latest-youtube-videos-on-your-website-with-javascript-step-by-step-2i5e)
 - [Dev.to/JS] [Sell My House Fast For Cash In Market Value](https://dev.to/sellmyhousefastmyself/sell-my-house-fast-for-cash-in-market-value-4gg4)
-- [Dev.to/JS] [Count Common Words With One Occurrence](https://dev.to/zeeshanali0704/count-common-words-with-one-occurrence-4277)
 - [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
-- [Dev.to/JS] [One Away: Replace, add, remove](https://dev.to/zeeshanali0704/one-away-replace-add-remove-5k5)
 - [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
 - [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
 - [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)
