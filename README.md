@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Fish &amp; Chips the Game&quot; is now available🎉](https://dev.to/satotats/fish-chips-the-game-is-now-available-4kkl)
 - [Dev.to/JS] [The easiest way to build the Pinterest Layout without using a framework](https://dev.to/okonkwomandy/the-easiest-way-to-build-the-pinterest-layout-without-using-a-framework-3i0g)
 - [Dev.to/JS] [Fast Real Time JavaScript Video Manipulation / Postprocessing](https://dev.to/thaunknown/fast-real-time-javascript-video-manipulation-postprocessing-4li1)
 - [Dev.to/JS] [Why printscreen if you can download the image](https://dev.to/tenaz3/why-printscreen-if-you-can-download-the-image-2lh1)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building personal assistant bot with telegram](https://dev.to/zeyadetman/building-personal-assistant-bot-with-telegram-4goe)
 - [Dev.to/JS] [Iterate Through All an Array&#39;s Items Using For Loops &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/iterate-through-all-an-arrays-items-using-for-loops-freecodecamp-notes-4m6)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
-- [Dev.to/JS] [Overcoming execCommand&lpar;&rpar;](https://dev.to/vishwajay/overcoming-execcommand-24d5)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
