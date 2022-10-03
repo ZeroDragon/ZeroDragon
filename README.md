@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Trends in the Transport and Logistics Industry - Omlogistics](https://dev.to/omlogisticsd3/trends-in-the-transport-and-logistics-industry-omlogistics-g0c)
+- [Dev.to/JS] [123](https://dev.to/rival-politics/123-41a8)
+- [Dev.to/JS] [How to Build a Job Nina with Sapper, Strapi and Netlify](https://dev.to/strapi/how-to-build-a-job-nina-with-sapper-strapi-v4-and-netlify-474a)
+- [Dev.to/JS] [Prerendering in Angular  - Part III](https://dev.to/ayyash/prerendering-in-angular-part-iii-420j)
+- [Dev.to/JS] [How to use Cloudinary Images with Nuxt 3](https://dev.to/jacobandrewsky/how-to-use-cloudinary-images-with-nuxt-3-4om4)
 - [Dev.to/JS] [Quick &amp; Easy Appointment with Local Logistics Companies in Delhi/NCR](https://dev.to/omlogisticsd3/quick-easy-appointment-with-local-logistics-companies-in-delhincr-3ma2)
 - [Dev.to/JS] [What are the advantages and disadvantages of road transport?](https://dev.to/omlogisticsd3/what-are-the-advantages-and-disadvantages-of-road-transport-4io1)
 - [Dev.to/JS] [Recruit The Right Trucking Partner For Your Busines](https://dev.to/omlogisticsd3/recruit-the-right-trucking-partner-for-your-busines-3h86)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The best roadmap to becoming a full stack developer....](https://dev.to/jesamomini/the-best-roadmap-to-becoming-a-full-stack-developer-1b1n)
 - [Dev.to/JS] [Freecodecamp Backend Development &amp; APIs &lpar;Timestamp Task My Answer&rpar;](https://dev.to/thuhtetdev/freecodecamp-backend-development-apis-timestamp-task-my-answer-ge4)
 - [Dev.to/JS] [5 webdev tips you may want to know 🔥 #3](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-3-1fi7)
-- [Dev.to/JS] [Solving it the AWS way.](https://dev.to/asnakhader/solving-it-the-aws-way-4jgc)
-- [Dev.to/JS] [Reduct Storage Client SDK for JavaScript 1.0.0 was released](https://dev.to/reduct-storage/reduct-storage-client-sdk-for-javascript-100-was-released-43p6)
-- [Dev.to/JS] [Regular Expressions: A Basic Explanation](https://dev.to/ananfito/regular-expressions-a-basic-explanation-5h7o)
-- [Dev.to/JS] [open source business solutions - OSBS](https://dev.to/osbscoin/open-source-business-solutions-osbs-1747)
-- [Dev.to/JS] [10 Best Free Web Development Courses 🤩](https://dev.to/souptikdn/10-best-free-web-development-courses-p9a)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
