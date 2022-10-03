@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick &amp; Easy Appointment with Local Logistics Companies in Delhi/NCR](https://dev.to/omlogisticsd3/quick-easy-appointment-with-local-logistics-companies-in-delhincr-3ma2)
+- [Dev.to/JS] [What are the advantages and disadvantages of road transport?](https://dev.to/omlogisticsd3/what-are-the-advantages-and-disadvantages-of-road-transport-4io1)
+- [Dev.to/JS] [Recruit The Right Trucking Partner For Your Busines](https://dev.to/omlogisticsd3/recruit-the-right-trucking-partner-for-your-busines-3h86)
+- [Dev.to/JS] [Create VSCode Snippets For Effector](https://dev.to/xsfunc/create-vscode-snippets-for-effector-2lj0)
+- [Crazy Programmer] [What is Microsoft Power BI Certification? Is it Worth It?](https://www.thecrazyprogrammer.com/2022/10/microsoft-power-bi-certification.html)
+- [Dev.to/JS] [The best roadmap to becoming a full stack developer....](https://dev.to/jesamomini/the-best-roadmap-to-becoming-a-full-stack-developer-1b1n)
 - [Dev.to/JS] [Freecodecamp Backend Development &amp; APIs &lpar;Timestamp Task My Answer&rpar;](https://dev.to/thuhtetdev/freecodecamp-backend-development-apis-timestamp-task-my-answer-ge4)
 - [Dev.to/JS] [5 webdev tips you may want to know 🔥 #3](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-3-1fi7)
 - [Dev.to/JS] [Solving it the AWS way.](https://dev.to/asnakhader/solving-it-the-aws-way-4jgc)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Regular Expressions: A Basic Explanation](https://dev.to/ananfito/regular-expressions-a-basic-explanation-5h7o)
 - [Dev.to/JS] [open source business solutions - OSBS](https://dev.to/osbscoin/open-source-business-solutions-osbs-1747)
 - [Dev.to/JS] [10 Best Free Web Development Courses 🤩](https://dev.to/souptikdn/10-best-free-web-development-courses-p9a)
-- [Dev.to/JS] [Javascript Variables](https://dev.to/murtazaneher/javascript-variables-39m7)
-- [Dev.to/JS] [Sample java code example](https://dev.to/mailuon39703122/sample-java-code-example-28l6)
-- [Dev.to/JS] [Balanced Binary Tree](https://dev.to/zeeshanali0704/balanced-binary-tree-10i3)
-- [Dev.to/JS] [Minimum Window Substring](https://dev.to/zeeshanali0704/minimum-window-substring-48ab)
-- [Dev.to/JS] [&quot;Fish &amp; Chips the Game&quot; is now available🎉](https://dev.to/satotats/fish-chips-the-game-is-now-available-4kkl)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Help Your Teen Survive Early School Start Times](https://lifehacker.com/how-to-help-your-teen-survive-early-school-start-times-1849587406)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Runners?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 - [Lifehacker] [What Parents Need to Know About Enterovirus D68](https://lifehacker.com/what-parents-need-to-know-about-enterovirus-d68-1849598002)
-- [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)
-- [Lifehacker] [How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should See a Therapist Even If You Don’t ‘Need’ One](https://lifehacker.com/why-you-should-see-a-therapist-even-if-you-don-t-need-1849596772)<!-- TECH-POSTS:END -->
 
 ---
 
