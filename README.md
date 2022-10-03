@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The First Things to Do When You Get a New Boss](https://lifehacker.com/the-first-things-to-do-when-you-get-a-new-boss-1849609688)
+- [Dev.to/JS] [How to integrate Razorpay payment gateway in ReactJS](https://dev.to/rajamanickam/how-to-integrate-razorpay-payment-gateway-in-reactjs-5fnb)
+- [Dev.to/JS] [Need for speed: Migrating from Webpack 4 to Vite](https://dev.to/swimm_io/need-for-speed-migrating-from-webpack-4-to-vite-559l)
+- [Lifehacker] [13 of the Best New Things to Stream in October 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-october-2022-1849609468)
+- [Dev.to/JS] [#AskDev - Using JS shorthand operators for side effects?](https://dev.to/angelbt91/askdev-using-js-shorthand-operators-for-side-effects-3h6k)
 - [Dev.to/JS] [How to create SBOMs for free with CodeSec by Contrast](https://dev.to/orlandov14/how-to-create-sboms-for-free-with-codesec-by-contrast-232)
 - [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
 - [Dev.to/JS] [Automatically Embed Latest Youtube Videos on your Website with JavaScript &lpar;step by step&rpar;](https://dev.to/juliafmorgado/automatically-embed-latest-youtube-videos-on-your-website-with-javascript-step-by-step-2i5e)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Performance benchmarks - redis mget vs pipeline](https://dev.to/santhoshrt/performance-benchmarks-redis-mget-vs-pipeline-2gk1)
 - [Dev.to/JS] [用 JavaScript 做一個 Tooltips 功能](https://dev.to/letswrite/yong-javascript-zuo-ge-tooltips-gong-neng-2je8)
 - [Lifehacker] [The 7 Deadly Sins of Learning to Play the Guitar](https://lifehacker.com/the-7-deadly-sins-of-learning-to-play-the-guitar-1849604355)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Sep 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-sep-2022-1hae)
 - [Lifehacker] [For Better Sautéed Mushrooms, Boil Them First](https://lifehacker.com/for-better-sauteed-mushrooms-boil-them-first-1849599308)
-- [Dev.to/JS] [React Testing Simplified](https://dev.to/artlist/react-testing-simplified-3i2m)
-- [Dev.to/JS] [Improve your website performance using Partytown type in script tags](https://dev.to/cloudx/improve-your-website-performance-using-partytown-type-in-script-tags-70b)
 - [Lifehacker] [Your Child&#39;s Short Attention Span Is Actually Helping Them Learn](https://lifehacker.com/your-childs-short-attention-span-is-actually-helping-th-1849587218)
 - [Crazy Programmer] [What is Microsoft Power BI Certification? Is it Worth It?](https://www.thecrazyprogrammer.com/2022/10/microsoft-power-bi-certification.html)
 - [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Site to See How Long It’ll Take to Finish a Video Game](https://lifehacker.com/use-this-site-to-see-how-long-it-ll-take-to-finish-a-vi-1849601676)
 - [Lifehacker] [What to Do With Leftover Foreign Currency After Your Trip](https://lifehacker.com/what-to-do-with-leftover-foreign-currency-after-your-tr-1849601263)
 - [Lifehacker] [How to Tell If Your Child Is Gifted &lpar;and What to Do If They Are&rpar;](https://lifehacker.com/how-to-tell-if-your-child-is-gifted-and-what-to-do-if-1849598912)
-- [Lifehacker] [Consider TikTok&#39;s Onion Sandwich](https://lifehacker.com/consider-tiktoks-onion-sandwich-1849599118)
-- [Lifehacker] [Are Your Headaches Actually Migraines?](https://lifehacker.com/are-your-headaches-actually-migraines-1849589203)
-- [Lifehacker] [How Your Kids Can Actually Benefit From Screen Time](https://lifehacker.com/how-your-kids-can-actually-benefit-from-screen-time-1849597164)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Consider TikTok&#39;s Onion Sandwich](https://lifehacker.com/consider-tiktoks-onion-sandwich-1849599118)<!-- TECH-POSTS:END -->
 
 ---
 
