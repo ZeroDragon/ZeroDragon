@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
+- [Dev.to/JS] [Ordenação por flutuação - Bubble Sort](https://dev.to/dormin/ordenacao-por-flutuacao-bubble-sort-1hfe)
+- [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
+- [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
 - [Lifehacker] [How to Cook Ribs in Your Oven Without Special Equipment](https://lifehacker.com/how-to-cook-ribs-in-your-oven-without-special-equipment-1849609563)
 - [Dev.to/JS] [Typescript: Uniones discriminadas o como crear argumentos opcionales y dependientes](https://dev.to/matiasfha/typescript-uniones-discriminadas-o-como-crear-argumentos-opcionales-y-dependientes-5024)
 - [Dev.to/JS] [Free College Free Knowledge](https://dev.to/revoltez/free-college-free-knowledge-4hag)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Count Common Words With One Occurrence](https://dev.to/zeeshanali0704/count-common-words-with-one-occurrence-4277)
 - [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
 - [Dev.to/JS] [One Away: Replace, add, remove](https://dev.to/zeeshanali0704/one-away-replace-add-remove-5k5)
-- [Dev.to/JS] [Introducing Mahal.js](https://dev.to/ujjwal_kr_gupta/introducing-mahaljs-44k9)
 - [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
 - [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
 - [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
 - [Lifehacker] [You Don’t Even Realize These Products Have Lifetime Warranties](https://lifehacker.com/you-don-t-even-realize-these-products-have-lifetime-war-1849601785)
 - [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)
-- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in October 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849599470)
-- [Lifehacker] [Five Renovations That Can Actually Decrease the Value of Your Home](https://lifehacker.com/five-renovations-that-can-actually-decrease-the-value-o-1849602138)
-- [Lifehacker] [Use This Site to See How Long It’ll Take to Finish a Video Game](https://lifehacker.com/use-this-site-to-see-how-long-it-ll-take-to-finish-a-vi-1849601676)
-- [Lifehacker] [What to Do With Leftover Foreign Currency After Your Trip](https://lifehacker.com/what-to-do-with-leftover-foreign-currency-after-your-tr-1849601263)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in October 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849599470)<!-- TECH-POSTS:END -->
 
 ---
 
