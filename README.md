@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-3akd)
+- [Dev.to/JS] [Quick MVC Crash Course!](https://dev.to/ssaryonjr/quick-mvc-crash-course-2m0d)
+- [Dev.to/JS] [TezJS: Say Hello to Website Premix Framework](https://dev.to/jigar_online/tezjs-say-hello-to-website-premix-framework-3kaf)
 - [Dev.to/JS] [A first look at Bun](https://dev.to/dailydevtips1/a-first-look-at-bun-162l)
 - [Dev.to/JS] [New Usefull JavaScript Tips For Everyone](https://dev.to/shaon07/new-usefull-javascript-tips-for-everyone-1389)
 - [Dev.to/JS] [Create your custom hook](https://dev.to/hermitex/create-your-custom-hook-372g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automated Mobile Testing](https://dev.to/joanesquivel/automated-mobile-testing-ldl)
 - [Dev.to/JS] [Creating an interactive event budgeting tool within Wagtail](https://dev.to/lb/creating-an-interactive-event-budgeting-tool-within-wagtail-53b3)
 - [Dev.to/JS] [How to migrate Zustand from Version 3 to 4](https://dev.to/diballesteros/how-to-migrate-zustand-from-version-3-to-4-548b)
-- [Dev.to/JS] [Algorithms: Breadth First Search](https://dev.to/seantansey/algorithms-breadth-first-search-2eif)
-- [Dev.to/JS] [Constructing an Alan AI-Powered Shopping Cart](https://dev.to/asayerio_techblog/constructing-an-alan-ai-powered-shopping-cart-4h8b)
-- [Dev.to/JS] [Ng-News: Episode 22/39](https://dev.to/rainerhahnekamp/ng-news-episode-2239-3827)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
