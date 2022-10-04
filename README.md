@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use GitHub actions to publish your package on NPM](https://dev.to/douglasdemoura/use-github-actions-to-publish-your-package-on-npm-3o2c)
+- [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)
+- [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
+- [Dev.to/JS] [Top 10 Github Resources should know as a Web Developer](https://dev.to/rajpolu/top-10-github-resources-should-know-as-a-web-developer-2a1b)
+- [Dev.to/JS] [Calling overridden functions with Hardhat](https://dev.to/ilija/calling-override-functions-with-hardhat-3ple)
 - [Dev.to/JS] [It&#39;s 2022 - time to stop using headless WordPress and ACF](https://dev.to/payloadcms/its-2022-time-to-stop-using-headless-wordpress-and-acf-o9j)
 - [Dev.to/JS] [Top 10 Application Performance Monitoring &lpar;APM&rpar; Tools You Should Know About](https://dev.to/quokkalabs/top-10-application-performance-monitoring-apm-tools-you-should-know-about-160b)
 - [Dev.to/JS] [Why Async/Await Inside forEach Is a Bad Idea](https://dev.to/maximization/why-asyncawait-inside-foreach-is-a-bad-idea-5d6c)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [High-level overview of Javascript](https://dev.to/shubhamku044/high-level-overview-of-javascript-50oc)
 - [Dev.to/JS] [Simplify usage of Lens API with @use-lens and graphql-codegen](https://dev.to/andriishupta/simplify-usage-of-lens-api-with-use-lens-and-graphql-codegen-5fk1)
 - [Dev.to/JS] [Camunda&#39;s Hacktoberfest 2022](https://dev.to/camunda/camunda-1jdd)
-- [Dev.to/JS] [Significance of Salesforce Commerce Cloud Order Management](https://dev.to/innovadeltech/significance-of-salesforce-commerce-cloud-order-management-11oo)
-- [Dev.to/JS] [JavaScript for...of loop](https://dev.to/moazamdev/javascript-forof-loop-4og5)
-- [Dev.to/JS] [Sending Emails with Firebase](https://dev.to/sofiatarhonska/sending-emails-with-firebase-2hki)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
 - [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
-- [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
-- [Lifehacker] [You Don’t Even Realize These Products Have Lifetime Warranties](https://lifehacker.com/you-don-t-even-realize-these-products-have-lifetime-war-1849601785)
-- [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)<!-- TECH-POSTS:END -->
 
 ---
 
