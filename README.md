@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automated Mobile Testing](https://dev.to/joanesquivel/automated-mobile-testing-ldl)
 - [Dev.to/JS] [Creating an interactive event budgeting tool within Wagtail](https://dev.to/lb/creating-an-interactive-event-budgeting-tool-within-wagtail-53b3)
 - [Dev.to/JS] [Create your customer hook](https://dev.to/hermitex/create-your-customer-hook-1pnj)
 - [Dev.to/JS] [How to migrate Zustand from Version 3 to 4](https://dev.to/diballesteros/how-to-migrate-zustand-from-version-3-to-4-548b)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell an Abortion Provider From a &#39;Crisis Pregnancy Center&#39;](https://lifehacker.com/how-to-tell-an-abortion-provider-from-a-crisis-pregnanc-1849609842)
 - [Dev.to/JS] [Udacity Nanodegree Course Review](https://dev.to/harvey2478/udacity-nanodegree-course-review-2ge7)
 - [Lifehacker] [The First Things to Do When You Get a New Boss](https://lifehacker.com/the-first-things-to-do-when-you-get-a-new-boss-1849609688)
-- [Dev.to/JS] [How to integrate Razorpay payment gateway in ReactJS](https://dev.to/rajamanickam/how-to-integrate-razorpay-payment-gateway-in-reactjs-5fnb)
 - [Lifehacker] [13 of the Best New Things to Stream in October 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-october-2022-1849609468)
 - [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
 - [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
