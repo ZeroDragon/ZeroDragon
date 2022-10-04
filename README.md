@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Keep Your Old House Warm in the Winter](https://lifehacker.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter-1849614494)
+- [Lifehacker] [You Can Make Your Own Fabric Wallpaper](https://lifehacker.com/you-can-make-your-own-fabric-wallpaper-1849614365)
+- [Dev.to/JS] [CIO Guide for Operational and Business Benefits of DevOps](https://dev.to/ismiletechnologies/cio-guide-for-operational-and-business-benefits-of-devops-52nj)
+- [Dev.to/JS] [Invert Binary Tree](https://dev.to/zeeshanali0704/invert-binary-tree-4kg6)
+- [Dev.to/JS] [Sum of Left Leaves](https://dev.to/zeeshanali0704/sum-of-left-leaves-393)
+- [Dev.to/JS] [Posting Audio Recordings to Your Web App Database as Blob Datatypes](https://dev.to/waylandi/posting-audio-recordings-to-your-web-app-database-as-blob-datatypes-30kb)
 - [Dev.to/JS] [3 Sum / Three Sum](https://dev.to/zeeshanali0704/3-sum-three-sum-11hg)
 - [Dev.to/JS] [Getting Started on StarkNet with Infura](https://dev.to/olanetsoft/getting-started-on-starknet-with-infura-4le8)
 - [Dev.to/JS] [When to use Function declarations or Function expressions in JavaScript?](https://dev.to/schemetastic/when-to-use-function-declarations-or-function-expressions-in-javascript-1bg3)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use GitHub actions to publish your package on NPM](https://dev.to/douglasdemoura/use-github-actions-to-publish-your-package-on-npm-3o2c)
 - [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)
 - [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
-- [Dev.to/JS] [Top 10 Github Resources should know as a Web Developer](https://dev.to/rajpolu/top-10-github-resources-should-know-as-a-web-developer-2a1b)
-- [Dev.to/JS] [Calling overridden functions with Hardhat](https://dev.to/ilija/calling-override-functions-with-hardhat-3ple)
-- [Dev.to/JS] [It&#39;s 2022 - time to stop using headless WordPress and ACF](https://dev.to/payloadcms/its-2022-time-to-stop-using-headless-wordpress-and-acf-o9j)
-- [Dev.to/JS] [Top 10 Application Performance Monitoring &lpar;APM&rpar; Tools You Should Know About](https://dev.to/quokkalabs/top-10-application-performance-monitoring-apm-tools-you-should-know-about-160b)
 - [Lifehacker] [How to Thicken Your Cozy Fall Soups Without Any Dairy](https://lifehacker.com/how-to-thicken-your-cozy-fall-soups-without-any-dairy-1849611042)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Paint Brushes and Rollers &lpar;So You Can Actually Reuse Them&rpar;](https://lifehacker.com/how-to-clean-paint-brushes-and-rollers-so-you-can-actu-1849599252)
 - [Lifehacker] [The Difference Between a Buyer&#39;s Market and a Seller&#39;s Market &lpar;and How to Take Advantage of Both&rpar;](https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283)
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
-- [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
-- [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
-- [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)<!-- TECH-POSTS:END -->
 
 ---
 
