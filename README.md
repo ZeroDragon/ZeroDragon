@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Jacob Batalon on Surviving High School and the Importance of Representation](https://lifehacker.com/jacob-batalon-on-surviving-high-school-and-the-importan-1849615446)
+- [Lifehacker] [What to Stock Up on Before You Get Sick, According to Reddit](https://lifehacker.com/what-to-stock-up-on-before-you-get-sick-according-to-r-1849615087)
+- [Dev.to/JS] [How I created a website for NGO in less than 24hrs!](https://dev.to/vishwagauravin/how-i-created-a-website-for-ngo-in-less-than-24hrs-1eo0)
 - [Lifehacker] [Caponata Is the Perfect Bridge Between Summer and Fall](https://lifehacker.com/caponata-is-the-perfect-bridge-between-summer-and-fall-1849613720)
-- [Dev.to/JS] [RTK Query: Make fetching and caching data effortless?](https://dev.to/sajjathossain/rtk-query-make-fetching-and-caching-data-effortless-3m7e)
+- [Dev.to/JS] [RTK Query: Make fetching and caching data effortless.](https://dev.to/sajjathossain/rtk-query-make-fetching-and-caching-data-effortless-3m7e)
 - [Lifehacker] [The Dos and Don&#39;t of Sending a Voice Message](https://lifehacker.com/the-dos-and-dont-of-sending-a-voice-message-1849613803)
 - [Lifehacker] [13 of the Best Websites That Feel Like the Old Internet](https://lifehacker.com/13-of-the-best-websites-that-feel-like-the-old-internet-1849558609)
 - [Lifehacker] [All the Ways Real Estate Photography Tricks You](https://lifehacker.com/all-the-ways-real-estate-photography-tricks-you-1849614634)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to ‘Spiderweb’ Your Halloween Desserts](https://lifehacker.com/how-to-spiderweb-your-halloween-desserts-1849613854)
 - [Dev.to/JS] [FREE collection of specialised JavaScript resource - hashnode](https://dev.to/knowledgefromtwitter/free-collection-of-specialised-javascript-resource-hashnode-16b8)
 - [Dev.to/JS] [Leaf-Similar Trees](https://dev.to/zeeshanali0704/leaf-similar-trees-25c9)
-- [Dev.to/JS] [Hacktober 2022 Laptop Giveaway](https://dev.to/codingcatdev/hacktober-2022-laptop-giveaway-39ki)
 - [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)
 - [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
 - [Lifehacker] [How to Thicken Your Cozy Fall Soups Without Any Dairy](https://lifehacker.com/how-to-thicken-your-cozy-fall-soups-without-any-dairy-1849611042)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)
 - [Lifehacker] [The 7 Deadly Sins of Learning to Play the Guitar](https://lifehacker.com/the-7-deadly-sins-of-learning-to-play-the-guitar-1849604355)
 - [Lifehacker] [For Better Sautéed Mushrooms, Boil Them First](https://lifehacker.com/for-better-sauteed-mushrooms-boil-them-first-1849599308)
-- [Lifehacker] [Your Child&#39;s Short Attention Span Is Actually Helping Them Learn](https://lifehacker.com/your-childs-short-attention-span-is-actually-helping-th-1849587218)
-- [Crazy Programmer] [What is Microsoft Power BI Certification? Is it Worth It?](https://www.thecrazyprogrammer.com/2022/10/microsoft-power-bi-certification.html)
-- [Lifehacker] [How to Break the Cycle of Fighting With Your Partner Via Text](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Child&#39;s Short Attention Span Is Actually Helping Them Learn](https://lifehacker.com/your-childs-short-attention-span-is-actually-helping-th-1849587218)<!-- TECH-POSTS:END -->
 
 ---
 
