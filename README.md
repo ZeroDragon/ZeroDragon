@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
+- [Dev.to/JS] [Hacktoberfest First PL/MRG](https://dev.to/lostbutton/hacktoberfest-first-plmrg-1f3f)
+- [Dev.to/JS] [Digital Clock with Alarm in JavaScript + HTML](https://dev.to/thedevdrawer/digital-clock-with-alarm-in-javascript-html-e27)
+- [Dev.to/JS] [Vanilla javascript drawing grid](https://dev.to/inra/vanilla-javascript-drawing-grid-2an5)
 - [Lifehacker] [Jacob Batalon on Surviving High School and the Importance of Representation](https://lifehacker.com/jacob-batalon-on-surviving-high-school-and-the-importan-1849615446)
 - [Lifehacker] [What to Stock Up on Before You Get Sick, According to Reddit](https://lifehacker.com/what-to-stock-up-on-before-you-get-sick-according-to-r-1849615087)
 - [Dev.to/JS] [How I created a website for NGO in less than 24hrs!](https://dev.to/vishwagauravin/how-i-created-a-website-for-ngo-in-less-than-24hrs-1eo0)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Sum / Three Sum](https://dev.to/zeeshanali0704/3-sum-three-sum-11hg)
 - [Dev.to/JS] [Getting Started on StarkNet with Infura](https://dev.to/olanetsoft/getting-started-on-starknet-with-infura-4le8)
 - [Dev.to/JS] [When to use Function declarations or Function expressions in JavaScript?](https://dev.to/schemetastic/when-to-use-function-declarations-or-function-expressions-in-javascript-1bg3)
-- [Dev.to/JS] [Variables and Datatypes](https://dev.to/slidoboss/variables-and-datatypes-4ajk)
 - [Lifehacker] [How to ‘Spiderweb’ Your Halloween Desserts](https://lifehacker.com/how-to-spiderweb-your-halloween-desserts-1849613854)
-- [Dev.to/JS] [FREE collection of specialised JavaScript resource - hashnode](https://dev.to/knowledgefromtwitter/free-collection-of-specialised-javascript-resource-hashnode-16b8)
-- [Dev.to/JS] [Leaf-Similar Trees](https://dev.to/zeeshanali0704/leaf-similar-trees-25c9)
 - [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)
 - [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
 - [Lifehacker] [How to Thicken Your Cozy Fall Soups Without Any Dairy](https://lifehacker.com/how-to-thicken-your-cozy-fall-soups-without-any-dairy-1849611042)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
 - [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)
 - [Lifehacker] [The 7 Deadly Sins of Learning to Play the Guitar](https://lifehacker.com/the-7-deadly-sins-of-learning-to-play-the-guitar-1849604355)
-- [Lifehacker] [For Better Sautéed Mushrooms, Boil Them First](https://lifehacker.com/for-better-sauteed-mushrooms-boil-them-first-1849599308)
-- [Lifehacker] [Your Child&#39;s Short Attention Span Is Actually Helping Them Learn](https://lifehacker.com/your-childs-short-attention-span-is-actually-helping-th-1849587218)<!-- TECH-POSTS:END -->
+- [Lifehacker] [For Better Sautéed Mushrooms, Boil Them First](https://lifehacker.com/for-better-sauteed-mushrooms-boil-them-first-1849599308)<!-- TECH-POSTS:END -->
 
 ---
 
