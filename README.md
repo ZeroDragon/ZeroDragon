@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Algorithms: Breadth First Search](https://dev.to/seantansey/algorithms-breadth-first-search-2eif)
+- [Dev.to/JS] [Constructing an Alan AI-Powered Shopping Cart](https://dev.to/asayerio_techblog/constructing-an-alan-ai-powered-shopping-cart-4h8b)
 - [Dev.to/JS] [Ng-News: Episode 22/39](https://dev.to/rainerhahnekamp/ng-news-episode-2239-3827)
 - [Dev.to/JS] [Finger Swipe JS](https://dev.to/inancakduvan/finger-swipe-js-4nd2)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#AskDev - Using JS shorthand operators for side effects?](https://dev.to/angelbt91/askdev-using-js-shorthand-operators-for-side-effects-3h6k)
 - [Dev.to/JS] [How to create SBOMs for free with CodeSec by Contrast](https://dev.to/orlandov14/how-to-create-sboms-for-free-with-codesec-by-contrast-232)
 - [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
-- [Dev.to/JS] [Automatically Embed Latest Youtube Videos on your Website with JavaScript &lpar;step by step&rpar;](https://dev.to/juliafmorgado/automatically-embed-latest-youtube-videos-on-your-website-with-javascript-step-by-step-2i5e)
-- [Dev.to/JS] [Sell My House Fast For Cash In Market Value](https://dev.to/sellmyhousefastmyself/sell-my-house-fast-for-cash-in-market-value-4gg4)
 - [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
 - [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
 - [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
