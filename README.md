@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New Usefull JavaScript Tips For Everyone](https://dev.to/shaon07/new-usefull-javascript-tips-for-everyone-1389)
 - [Dev.to/JS] [Create your custom hook](https://dev.to/hermitex/create-your-custom-hook-372g)
 - [Dev.to/JS] [Can Anyone Suggest Repositories To Contribute In?](https://dev.to/nxpy123/can-anyone-suggest-repositories-to-contribute-in-2o48)
 - [Dev.to/JS] [Turnstile , alternative to CAPTCHA from cloudflare](https://dev.to/chandramarch18/turnstile-alternative-to-captcha-from-cloudflare-4410)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ng-News: Episode 22/39](https://dev.to/rainerhahnekamp/ng-news-episode-2239-3827)
 - [Dev.to/JS] [Finger Swipe JS](https://dev.to/inancakduvan/finger-swipe-js-4nd2)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
-- [Dev.to/JS] [Ordenação por flutuação - Bubble Sort](https://dev.to/dormin/ordenacao-por-flutuacao-bubble-sort-1hfe)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
 - [Lifehacker] [How to Cook Ribs in Your Oven Without Special Equipment](https://lifehacker.com/how-to-cook-ribs-in-your-oven-without-special-equipment-1849609563)
