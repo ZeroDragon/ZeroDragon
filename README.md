@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Camunda&#39;s Hacktoberfest 2022](https://dev.to/camunda/camunda-1jdd)
+- [Dev.to/JS] [Significance of Salesforce Commerce Cloud Order Management](https://dev.to/innovadeltech/significance-of-salesforce-commerce-cloud-order-management-11oo)
+- [Dev.to/JS] [JavaScript for...of loop](https://dev.to/moazamdev/javascript-forof-loop-4og5)
+- [Dev.to/JS] [Sending Emails with Firebase](https://dev.to/sofiatarhonska/sending-emails-with-firebase-2hki)
+- [Dev.to/JS] [I changed my mind about writing new JavaScript frameworks](https://dev.to/whitep4nth3r/i-changed-my-mind-about-writing-new-javascript-frameworks-h4m)
 - [Dev.to/JS] [Adding Routes to an Express Server PT&lpar;1&rpar;](https://dev.to/ksowah/adding-routes-to-an-express-server-pt1-14b8)
 - [Dev.to/JS] [Improved website loading time by 3seconds](https://dev.to/shreyvijayvargiya/improved-website-loading-time-by-3seconds-3lj1)
 - [Dev.to/JS] [How to use framer-motion with ant design](https://dev.to/a4addel/how-to-use-framer-motion-with-ant-design-57j5)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nullis Operator In JavaScript](https://dev.to/asadanik/nullis-operator-in-javascript-3b3n)
 - [Dev.to/JS] [What is JavaScript Short Circuit?](https://dev.to/asadanik/what-is-javascript-short-circuit-353j)
 - [Dev.to/JS] [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-3akd)
-- [Dev.to/JS] [Quick MVC Crash Course!](https://dev.to/ssaryonjr/quick-mvc-crash-course-2m0d)
-- [Dev.to/JS] [TezJS: Say Hello to Website Premix Framework](https://dev.to/jigar_online/tezjs-say-hello-to-website-premix-framework-3kaf)
-- [Dev.to/JS] [A first look at Bun](https://dev.to/dailydevtips1/a-first-look-at-bun-162l)
-- [Dev.to/JS] [New Usefull JavaScript Tips For Everyone](https://dev.to/shaon07/new-usefull-javascript-tips-for-everyone-1389)
-- [Dev.to/JS] [Create your custom hook](https://dev.to/hermitex/create-your-custom-hook-372g)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
