@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s 2022 - time to stop using headless WordPress and ACF](https://dev.to/payloadcms/its-2022-time-to-stop-using-headless-wordpress-and-acf-o9j)
+- [Dev.to/JS] [Top 10 Application Performance Monitoring &lpar;APM&rpar; Tools You Should Know About](https://dev.to/quokkalabs/top-10-application-performance-monitoring-apm-tools-you-should-know-about-160b)
+- [Dev.to/JS] [Why Async/Await Inside forEach Is a Bad Idea](https://dev.to/maximization/why-asyncawait-inside-foreach-is-a-bad-idea-5d6c)
+- [Lifehacker] [How to Thicken Your Cozy Fall Soups Without Any Dairy](https://lifehacker.com/how-to-thicken-your-cozy-fall-soups-without-any-dairy-1849611042)
+- [Dev.to/JS] [Hacktoberfest 2022: 7 Open Source Projects to Contribute to](https://dev.to/medusajs/hacktoberfest-2022-7-open-source-projects-to-contribute-to-354p)
 - [Dev.to/JS] [Top Must-Know Programming Languages A Full-Stack Mobile Developer](https://dev.to/xnaksdn/top-must-know-programming-languages-a-full-stack-mobile-developer-43l)
 - [Dev.to/JS] [ReactJS vs React Native — What’s Better?](https://dev.to/surinder_rawat/reactjs-vs-react-native-whats-better-1lmj)
 - [Dev.to/JS] [High-level overview of Javascript](https://dev.to/shubhamku044/high-level-overview-of-javascript-50oc)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Significance of Salesforce Commerce Cloud Order Management](https://dev.to/innovadeltech/significance-of-salesforce-commerce-cloud-order-management-11oo)
 - [Dev.to/JS] [JavaScript for...of loop](https://dev.to/moazamdev/javascript-forof-loop-4og5)
 - [Dev.to/JS] [Sending Emails with Firebase](https://dev.to/sofiatarhonska/sending-emails-with-firebase-2hki)
-- [Dev.to/JS] [I changed my mind about writing new JavaScript frameworks](https://dev.to/whitep4nth3r/i-changed-my-mind-about-writing-new-javascript-frameworks-h4m)
-- [Dev.to/JS] [Adding Routes to an Express Server PT&lpar;1&rpar;](https://dev.to/ksowah/adding-routes-to-an-express-server-pt1-14b8)
-- [Dev.to/JS] [Improved website loading time by 3seconds](https://dev.to/shreyvijayvargiya/improved-website-loading-time-by-3seconds-3lj1)
-- [Dev.to/JS] [How to use framer-motion with ant design](https://dev.to/a4addel/how-to-use-framer-motion-with-ant-design-57j5)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
 - [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)
 - [Lifehacker] [You Don’t Even Realize These Products Have Lifetime Warranties](https://lifehacker.com/you-don-t-even-realize-these-products-have-lifetime-war-1849601785)
-- [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)
-- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in October 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849599470)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The FDA Finally Has a Definition for &#39;Healthy&#39; Food](https://lifehacker.com/the-fda-finally-has-a-definition-for-healthy-food-1849602259)<!-- TECH-POSTS:END -->
 
 ---
 
