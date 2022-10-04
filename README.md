@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using the JavaScript Clipboard API](https://dev.to/asayerio_techblog/using-the-javascript-clipboard-api-28j2)
+- [Dev.to/JS] [Paracetamol.js💊| #185: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-185-explica-este-codigo-javascript-4646)
 - [Dev.to/JS] [Creating FullStack Todo App - ReactJS+MaterialUI+FireBase+GithubAction+UnitTest](https://dev.to/jintoppy/creating-fullstack-todo-app-reactjsmaterialuifirebasegithubactionunittest-26ln)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Invert Binary Tree](https://dev.to/zeeshanali0704/invert-binary-tree-4kg6)
 - [Dev.to/JS] [Sum of Left Leaves](https://dev.to/zeeshanali0704/sum-of-left-leaves-393)
 - [Dev.to/JS] [Posting Audio Recordings to Your Web App Database as Blob Datatypes](https://dev.to/waylandi/posting-audio-recordings-to-your-web-app-database-as-blob-datatypes-30kb)
-- [Dev.to/JS] [3 Sum / Three Sum](https://dev.to/zeeshanali0704/3-sum-three-sum-11hg)
-- [Dev.to/JS] [Getting Started on StarkNet with Infura](https://dev.to/olanetsoft/getting-started-on-starknet-with-infura-4le8)
 - [Lifehacker] [How to ‘Spiderweb’ Your Halloween Desserts](https://lifehacker.com/how-to-spiderweb-your-halloween-desserts-1849613854)
 - [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)
 - [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
