@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FREE collection of specialised JavaScript resource - hashnode](https://dev.to/knowledgefromtwitter/free-collection-of-specialised-javascript-resource-hashnode-16b8)
+- [Dev.to/JS] [Leaf-Similar Trees](https://dev.to/zeeshanali0704/leaf-similar-trees-25c9)
+- [Dev.to/JS] [Hacktober 2022 Laptop Giveaway](https://dev.to/codingcatdev/hacktober-2022-laptop-giveaway-39ki)
 - [Dev.to/JS] [Use GitHub actions to publish your package on NPM](https://dev.to/douglasdemoura/use-github-actions-to-publish-your-package-on-npm-3o2c)
 - [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)
 - [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hacktoberfest 2022: 7 Open Source Projects to Contribute to](https://dev.to/medusajs/hacktoberfest-2022-7-open-source-projects-to-contribute-to-354p)
 - [Dev.to/JS] [Top Must-Know Programming Languages A Full-Stack Mobile Developer](https://dev.to/xnaksdn/top-must-know-programming-languages-a-full-stack-mobile-developer-43l)
 - [Dev.to/JS] [ReactJS vs React Native — What’s Better?](https://dev.to/surinder_rawat/reactjs-vs-react-native-whats-better-1lmj)
-- [Dev.to/JS] [High-level overview of Javascript](https://dev.to/shubhamku044/high-level-overview-of-javascript-50oc)
-- [Dev.to/JS] [Simplify usage of Lens API with @use-lens and graphql-codegen](https://dev.to/andriishupta/simplify-usage-of-lens-api-with-use-lens-and-graphql-codegen-5fk1)
-- [Dev.to/JS] [Camunda&#39;s Hacktoberfest 2022](https://dev.to/camunda/camunda-1jdd)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
