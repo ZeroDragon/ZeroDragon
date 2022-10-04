@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an interactive event budgeting tool within Wagtail](https://dev.to/lb/creating-an-interactive-event-budgeting-tool-within-wagtail-53b3)
+- [Dev.to/JS] [Create your customer hook](https://dev.to/hermitex/create-your-customer-hook-1pnj)
+- [Dev.to/JS] [How to migrate Zustand from Version 3 to 4](https://dev.to/diballesteros/how-to-migrate-zustand-from-version-3-to-4-548b)
 - [Dev.to/JS] [Algorithms: Breadth First Search](https://dev.to/seantansey/algorithms-breadth-first-search-2eif)
 - [Dev.to/JS] [Constructing an Alan AI-Powered Shopping Cart](https://dev.to/asayerio_techblog/constructing-an-alan-ai-powered-shopping-cart-4h8b)
 - [Dev.to/JS] [Ng-News: Episode 22/39](https://dev.to/rainerhahnekamp/ng-news-episode-2239-3827)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Udacity Nanodegree Course Review](https://dev.to/harvey2478/udacity-nanodegree-course-review-2ge7)
 - [Lifehacker] [The First Things to Do When You Get a New Boss](https://lifehacker.com/the-first-things-to-do-when-you-get-a-new-boss-1849609688)
 - [Dev.to/JS] [How to integrate Razorpay payment gateway in ReactJS](https://dev.to/rajamanickam/how-to-integrate-razorpay-payment-gateway-in-reactjs-5fnb)
-- [Dev.to/JS] [Need for speed: Migrating from Webpack 4 to Vite](https://dev.to/swimm_io/need-for-speed-migrating-from-webpack-4-to-vite-559l)
 - [Lifehacker] [13 of the Best New Things to Stream in October 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-october-2022-1849609468)
-- [Dev.to/JS] [#AskDev - Using JS shorthand operators for side effects?](https://dev.to/angelbt91/askdev-using-js-shorthand-operators-for-side-effects-3h6k)
-- [Dev.to/JS] [How to create SBOMs for free with CodeSec by Contrast](https://dev.to/orlandov14/how-to-create-sboms-for-free-with-codesec-by-contrast-232)
 - [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
 - [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
 - [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
