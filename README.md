@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Speed Testing Object VS Array Operation In JavaScript](https://dev.to/asadanik/speed-testing-object-vs-array-operation-in-javascript-29ja)
+- [Dev.to/JS] [Nullis Operator In JavaScript](https://dev.to/asadanik/nullis-operator-in-javascript-3b3n)
+- [Dev.to/JS] [What is JavaScript Short Circuit?](https://dev.to/asadanik/what-is-javascript-short-circuit-353j)
 - [Dev.to/JS] [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-3akd)
 - [Dev.to/JS] [Quick MVC Crash Course!](https://dev.to/ssaryonjr/quick-mvc-crash-course-2m0d)
 - [Dev.to/JS] [TezJS: Say Hello to Website Premix Framework](https://dev.to/jigar_online/tezjs-say-hello-to-website-premix-framework-3kaf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Can Anyone Suggest Repositories To Contribute In?](https://dev.to/nxpy123/can-anyone-suggest-repositories-to-contribute-in-2o48)
 - [Dev.to/JS] [Turnstile , alternative to CAPTCHA from cloudflare](https://dev.to/chandramarch18/turnstile-alternative-to-captcha-from-cloudflare-4410)
 - [Dev.to/JS] [Flatiron School: Phase-1](https://dev.to/b_hensley/flatiron-school-phase-1-5dpc)
-- [Dev.to/JS] [Automated Mobile Testing](https://dev.to/joanesquivel/automated-mobile-testing-ldl)
-- [Dev.to/JS] [Creating an interactive event budgeting tool within Wagtail](https://dev.to/lb/creating-an-interactive-event-budgeting-tool-within-wagtail-53b3)
-- [Dev.to/JS] [How to migrate Zustand from Version 3 to 4](https://dev.to/diballesteros/how-to-migrate-zustand-from-version-3-to-4-548b)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
