@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improved website loading time by 3seconds](https://dev.to/shreyvijayvargiya/improved-website-loading-time-by-3seconds-3lj1)
+- [Dev.to/JS] [How to use framer-motion with ant design](https://dev.to/a4addel/how-to-use-framer-motion-with-ant-design-57j5)
 - [Dev.to/JS] [Speed Testing Object VS Array Operation In JavaScript](https://dev.to/asadanik/speed-testing-object-vs-array-operation-in-javascript-29ja)
 - [Dev.to/JS] [Nullis Operator In JavaScript](https://dev.to/asadanik/nullis-operator-in-javascript-3b3n)
 - [Dev.to/JS] [What is JavaScript Short Circuit?](https://dev.to/asadanik/what-is-javascript-short-circuit-353j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Usefull JavaScript Tips For Everyone](https://dev.to/shaon07/new-usefull-javascript-tips-for-everyone-1389)
 - [Dev.to/JS] [Create your custom hook](https://dev.to/hermitex/create-your-custom-hook-372g)
 - [Dev.to/JS] [Can Anyone Suggest Repositories To Contribute In?](https://dev.to/nxpy123/can-anyone-suggest-repositories-to-contribute-in-2o48)
-- [Dev.to/JS] [Turnstile , alternative to CAPTCHA from cloudflare](https://dev.to/chandramarch18/turnstile-alternative-to-captcha-from-cloudflare-4410)
-- [Dev.to/JS] [Flatiron School: Phase-1](https://dev.to/b_hensley/flatiron-school-phase-1-5dpc)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
