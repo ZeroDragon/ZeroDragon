@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Sum / Three Sum](https://dev.to/zeeshanali0704/3-sum-three-sum-11hg)
+- [Dev.to/JS] [Getting Started on StarkNet with Infura](https://dev.to/olanetsoft/getting-started-on-starknet-with-infura-4le8)
+- [Dev.to/JS] [When to use Function declarations or Function expressions in JavaScript?](https://dev.to/schemetastic/when-to-use-function-declarations-or-function-expressions-in-javascript-1bg3)
+- [Dev.to/JS] [Variables and Datatypes](https://dev.to/slidoboss/variables-and-datatypes-4ajk)
+- [Lifehacker] [How to ‘Spiderweb’ Your Halloween Desserts](https://lifehacker.com/how-to-spiderweb-your-halloween-desserts-1849613854)
 - [Dev.to/JS] [FREE collection of specialised JavaScript resource - hashnode](https://dev.to/knowledgefromtwitter/free-collection-of-specialised-javascript-resource-hashnode-16b8)
 - [Dev.to/JS] [Leaf-Similar Trees](https://dev.to/zeeshanali0704/leaf-similar-trees-25c9)
 - [Dev.to/JS] [Hacktober 2022 Laptop Giveaway](https://dev.to/codingcatdev/hacktober-2022-laptop-giveaway-39ki)
@@ -33,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Calling overridden functions with Hardhat](https://dev.to/ilija/calling-override-functions-with-hardhat-3ple)
 - [Dev.to/JS] [It&#39;s 2022 - time to stop using headless WordPress and ACF](https://dev.to/payloadcms/its-2022-time-to-stop-using-headless-wordpress-and-acf-o9j)
 - [Dev.to/JS] [Top 10 Application Performance Monitoring &lpar;APM&rpar; Tools You Should Know About](https://dev.to/quokkalabs/top-10-application-performance-monitoring-apm-tools-you-should-know-about-160b)
-- [Dev.to/JS] [Why Async/Await Inside forEach Is a Bad Idea](https://dev.to/maximization/why-asyncawait-inside-foreach-is-a-bad-idea-5d6c)
 - [Lifehacker] [How to Thicken Your Cozy Fall Soups Without Any Dairy](https://lifehacker.com/how-to-thicken-your-cozy-fall-soups-without-any-dairy-1849611042)
-- [Dev.to/JS] [Hacktoberfest 2022: 7 Open Source Projects to Contribute to](https://dev.to/medusajs/hacktoberfest-2022-7-open-source-projects-to-contribute-to-354p)
-- [Dev.to/JS] [Top Must-Know Programming Languages A Full-Stack Mobile Developer](https://dev.to/xnaksdn/top-must-know-programming-languages-a-full-stack-mobile-developer-43l)
-- [Dev.to/JS] [ReactJS vs React Native — What’s Better?](https://dev.to/surinder_rawat/reactjs-vs-react-native-whats-better-1lmj)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
@@ -48,6 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
 - [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
 - [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
+- [Lifehacker] [How Much You Really Earn As a Dog Walker](https://lifehacker.com/how-much-you-really-earn-as-a-dog-walker-1849610983)
 - [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
 - [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)
 - [Lifehacker] [The 7 Deadly Sins of Learning to Play the Guitar](https://lifehacker.com/the-7-deadly-sins-of-learning-to-play-the-guitar-1849604355)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Oven Cleaner to Strip Wood Furniture](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
 - [Lifehacker] [How to Put Your Freeloading Dog to Work at Home](https://lifehacker.com/how-to-put-your-freeloading-dog-to-work-at-home-1849599357)
 - [Lifehacker] [How &lpar;and When&rpar; to Harvest Pumpkins](https://lifehacker.com/how-and-when-to-harvest-pumpkins-1849599364)
-- [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
-- [Lifehacker] [9 Outdated Grammar Rules You Can Finally Ignore](https://lifehacker.com/9-outdated-grammar-rules-you-can-finally-ignore-1849602406)
-- [Lifehacker] [When &lpar;and How&rpar; to Use the ‘Muffin Mixing Method’](https://lifehacker.com/when-and-how-to-use-the-muffin-mixing-method-1849602721)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Feature Makes AirPods Pro Worth the Cost](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)<!-- TECH-POSTS:END -->
 
 ---
 
