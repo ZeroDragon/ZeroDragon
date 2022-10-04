@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating FullStack Todo App - ReactJS+MaterialUI+FireBase+GithubAction+UnitTest](https://dev.to/jintoppy/creating-fullstack-todo-app-reactjsmaterialuifirebasegithubactionunittest-26ln)
+- [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
+- [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
 - [Dev.to/JS] [Hacktoberfest First PL/MRG](https://dev.to/lostbutton/hacktoberfest-first-plmrg-1f3f)
 - [Dev.to/JS] [Digital Clock with Alarm in JavaScript + HTML](https://dev.to/thedevdrawer/digital-clock-with-alarm-in-javascript-html-e27)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Posting Audio Recordings to Your Web App Database as Blob Datatypes](https://dev.to/waylandi/posting-audio-recordings-to-your-web-app-database-as-blob-datatypes-30kb)
 - [Dev.to/JS] [3 Sum / Three Sum](https://dev.to/zeeshanali0704/3-sum-three-sum-11hg)
 - [Dev.to/JS] [Getting Started on StarkNet with Infura](https://dev.to/olanetsoft/getting-started-on-starknet-with-infura-4le8)
-- [Dev.to/JS] [When to use Function declarations or Function expressions in JavaScript?](https://dev.to/schemetastic/when-to-use-function-declarations-or-function-expressions-in-javascript-1bg3)
 - [Lifehacker] [How to ‘Spiderweb’ Your Halloween Desserts](https://lifehacker.com/how-to-spiderweb-your-halloween-desserts-1849613854)
 - [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)
 - [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
 - [Lifehacker] [How Much You Really Earn As a Dog Walker](https://lifehacker.com/how-much-you-really-earn-as-a-dog-walker-1849610983)
 - [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
-- [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)
-- [Lifehacker] [The 7 Deadly Sins of Learning to Play the Guitar](https://lifehacker.com/the-7-deadly-sins-of-learning-to-play-the-guitar-1849604355)
-- [Lifehacker] [For Better Sautéed Mushrooms, Boil Them First](https://lifehacker.com/for-better-sauteed-mushrooms-boil-them-first-1849599308)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)<!-- TECH-POSTS:END -->
 
 ---
 
