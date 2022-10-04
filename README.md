@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create your custom hook](https://dev.to/hermitex/create-your-custom-hook-372g)
+- [Dev.to/JS] [Can Anyone Suggest Repositories To Contribute In?](https://dev.to/nxpy123/can-anyone-suggest-repositories-to-contribute-in-2o48)
+- [Dev.to/JS] [Turnstile , alternative to CAPTCHA from cloudflare](https://dev.to/chandramarch18/turnstile-alternative-to-captcha-from-cloudflare-4410)
+- [Dev.to/JS] [Flatiron School: Phase-1](https://dev.to/b_hensley/flatiron-school-phase-1-5dpc)
 - [Dev.to/JS] [Automated Mobile Testing](https://dev.to/joanesquivel/automated-mobile-testing-ldl)
 - [Dev.to/JS] [Creating an interactive event budgeting tool within Wagtail](https://dev.to/lb/creating-an-interactive-event-budgeting-tool-within-wagtail-53b3)
-- [Dev.to/JS] [Create your customer hook](https://dev.to/hermitex/create-your-customer-hook-1pnj)
 - [Dev.to/JS] [How to migrate Zustand from Version 3 to 4](https://dev.to/diballesteros/how-to-migrate-zustand-from-version-3-to-4-548b)
 - [Dev.to/JS] [Algorithms: Breadth First Search](https://dev.to/seantansey/algorithms-breadth-first-search-2eif)
 - [Dev.to/JS] [Constructing an Alan AI-Powered Shopping Cart](https://dev.to/asayerio_techblog/constructing-an-alan-ai-powered-shopping-cart-4h8b)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
 - [Lifehacker] [How to Cook Ribs in Your Oven Without Special Equipment](https://lifehacker.com/how-to-cook-ribs-in-your-oven-without-special-equipment-1849609563)
-- [Dev.to/JS] [Typescript: Uniones discriminadas o como crear argumentos opcionales y dependientes](https://dev.to/matiasfha/typescript-uniones-discriminadas-o-como-crear-argumentos-opcionales-y-dependientes-5024)
-- [Dev.to/JS] [Free College Free Knowledge](https://dev.to/revoltez/free-college-free-knowledge-4hag)
 - [Lifehacker] [How to Tell an Abortion Provider From a &#39;Crisis Pregnancy Center&#39;](https://lifehacker.com/how-to-tell-an-abortion-provider-from-a-crisis-pregnanc-1849609842)
-- [Dev.to/JS] [Udacity Nanodegree Course Review](https://dev.to/harvey2478/udacity-nanodegree-course-review-2ge7)
 - [Lifehacker] [The First Things to Do When You Get a New Boss](https://lifehacker.com/the-first-things-to-do-when-you-get-a-new-boss-1849609688)
 - [Lifehacker] [13 of the Best New Things to Stream in October 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-october-2022-1849609468)
 - [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
