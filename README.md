@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Must-Know Programming Languages A Full-Stack Mobile Developer](https://dev.to/xnaksdn/top-must-know-programming-languages-a-full-stack-mobile-developer-43l)
+- [Dev.to/JS] [ReactJS vs React Native — What’s Better?](https://dev.to/surinder_rawat/reactjs-vs-react-native-whats-better-1lmj)
+- [Dev.to/JS] [High-level overview of Javascript](https://dev.to/shubhamku044/high-level-overview-of-javascript-50oc)
+- [Dev.to/JS] [Simplify usage of Lens API with @use-lens and graphql-codegen](https://dev.to/andriishupta/simplify-usage-of-lens-api-with-use-lens-and-graphql-codegen-5fk1)
 - [Dev.to/JS] [Camunda&#39;s Hacktoberfest 2022](https://dev.to/camunda/camunda-1jdd)
 - [Dev.to/JS] [Significance of Salesforce Commerce Cloud Order Management](https://dev.to/innovadeltech/significance-of-salesforce-commerce-cloud-order-management-11oo)
 - [Dev.to/JS] [JavaScript for...of loop](https://dev.to/moazamdev/javascript-forof-loop-4og5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Routes to an Express Server PT&lpar;1&rpar;](https://dev.to/ksowah/adding-routes-to-an-express-server-pt1-14b8)
 - [Dev.to/JS] [Improved website loading time by 3seconds](https://dev.to/shreyvijayvargiya/improved-website-loading-time-by-3seconds-3lj1)
 - [Dev.to/JS] [How to use framer-motion with ant design](https://dev.to/a4addel/how-to-use-framer-motion-with-ant-design-57j5)
-- [Dev.to/JS] [Speed Testing Object VS Array Operation In JavaScript](https://dev.to/asadanik/speed-testing-object-vs-array-operation-in-javascript-29ja)
-- [Dev.to/JS] [Nullis Operator In JavaScript](https://dev.to/asadanik/nullis-operator-in-javascript-3b3n)
-- [Dev.to/JS] [What is JavaScript Short Circuit?](https://dev.to/asadanik/what-is-javascript-short-circuit-353j)
-- [Dev.to/JS] [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-3akd)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
