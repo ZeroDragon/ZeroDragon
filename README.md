@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fastest Frontend Tools in 2022](https://dev.to/cpojer/fastest-frontend-tools-in-2022-4kpk)
+- [Dev.to/JS] [SOLID Principles Sketches](https://dev.to/trekhleb/solid-principles-sketches-486p)
+- [Dev.to/JS] [Fundamentals in JavaScript](https://dev.to/mrpaulishaili/fundamentals-in-javascript-37i8)
+- [Dev.to/JS] [Introduction to Javascript](https://dev.to/mrpaulishaili/introduction-to-javascript-19e9)
 - [Dev.to/JS] [Using the JavaScript Clipboard API](https://dev.to/asayerio_techblog/using-the-javascript-clipboard-api-28j2)
 - [Dev.to/JS] [Paracetamol.js💊| #185: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-185-explica-este-codigo-javascript-4646)
 - [Dev.to/JS] [Creating FullStack Todo App - ReactJS+MaterialUI+FireBase+GithubAction+UnitTest](https://dev.to/jintoppy/creating-fullstack-todo-app-reactjsmaterialuifirebasegithubactionunittest-26ln)
@@ -42,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways Real Estate Photography Tricks You](https://lifehacker.com/all-the-ways-real-estate-photography-tricks-you-1849614634)
 - [Lifehacker] [The Best Ways to Keep Your Old House Warm in the Winter](https://lifehacker.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter-1849614494)
 - [Lifehacker] [You Can Make Your Own Fabric Wallpaper](https://lifehacker.com/you-can-make-your-own-fabric-wallpaper-1849614365)
-- [Dev.to/JS] [CIO Guide for Operational and Business Benefits of DevOps](https://dev.to/ismiletechnologies/cio-guide-for-operational-and-business-benefits-of-devops-52nj)
-- [Dev.to/JS] [Invert Binary Tree](https://dev.to/zeeshanali0704/invert-binary-tree-4kg6)
-- [Dev.to/JS] [Sum of Left Leaves](https://dev.to/zeeshanali0704/sum-of-left-leaves-393)
-- [Dev.to/JS] [Posting Audio Recordings to Your Web App Database as Blob Datatypes](https://dev.to/waylandi/posting-audio-recordings-to-your-web-app-database-as-blob-datatypes-30kb)
 - [Lifehacker] [How to ‘Spiderweb’ Your Halloween Desserts](https://lifehacker.com/how-to-spiderweb-your-halloween-desserts-1849613854)
 - [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)
 - [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
