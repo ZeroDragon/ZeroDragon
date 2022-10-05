@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tabs on Food - an Alpine.js demo](https://dev.to/dagger8224/tabs-on-food-an-alpinejs-demo-23hl)
+- [Lifehacker] [How Much It Costs to Raise a Child After Inflation](https://lifehacker.com/how-much-it-costs-to-raise-a-child-after-inflation-1849617580)
+- [Dev.to/JS] [Building an edge serverless GraphQL backend with Cloudflare Workers and Fauna](https://dev.to/fauna/building-an-edge-serverless-graphql-backend-with-cloudflare-workers-and-fauna-1bp0)
+- [Lifehacker] [What Are Stability Shoes, and Do They Really Matter?](https://lifehacker.com/what-are-stability-shoes-and-do-they-really-matter-1849615594)
 - [Dev.to/JS] [How to deal with caching and dynamic content?](https://dev.to/vue-storefront/how-to-deal-with-caching-and-dynamic-content-2ilk)
 - [Dev.to/JS] [Split Container Web Component](https://dev.to/maxim_maeder/split-container-web-component-37c5)
 - [Lifehacker] [How to Keep Leftover Pesto Looking Fresh and Green](https://lifehacker.com/how-to-keep-leftover-pesto-looking-fresh-and-green-1849616498)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create autologin with chrome extension](https://dev.to/konfydev/create-autologin-with-chrome-extension-3eef)
 - [Dev.to/JS] [🤔 Should I Use Gatsby or Next.js For My Next Project?](https://dev.to/webiny/should-i-use-gatsby-or-nextjs-for-my-next-project-4el4)
 - [Dev.to/JS] [Astro JS non-HTML Routes: File &amp; Resource API](https://dev.to/askrodney/astro-js-non-html-routes-file-resource-api-3jcj)
-- [Dev.to/JS] [Redirect to a custom login page when securing your Angular app with MSAL](https://dev.to/azure/redirect-to-a-custom-login-page-when-securing-your-angular-app-with-msal-37km)
-- [Dev.to/JS] [Your Guide for Testing ReactJS Apps - Part 2](https://dev.to/hellonehha/your-guide-for-testing-reactjs-apps-part-2-a8f)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 of the Best New Things to Stream in October 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-october-2022-1849609468)
 - [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
 - [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
-- [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
-- [Lifehacker] [How Much You Really Earn As a Dog Walker](https://lifehacker.com/how-much-you-really-earn-as-a-dog-walker-1849610983)
-- [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)<!-- TECH-POSTS:END -->
 
 ---
 
