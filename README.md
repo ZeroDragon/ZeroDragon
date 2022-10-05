@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript arrays and array methods](https://dev.to/adebomiolusegun/javascript-arrays-and-array-methods-3288)
+- [Dev.to/JS] [REST API Best Practice for Developers.](https://dev.to/kelechidivine/rest-api-best-practice-for-developers-4ndh)
+- [Dev.to/JS] [What is android? How you can create app for that?](https://dev.to/tiztechy/how-to-create-android-apps-without-coding-3k7o)
+- [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Dev.to/JS] [Collision detection in 2D game development with JavaScript](https://dev.to/ahmadcod/collision-detection-in-2d-game-development-with-javascript-47ao)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Dev.to/JS] [Free Online Courses - October 5, 2022](https://dev.to/theprogramminbuddyclub/free-online-courses-october-5-2022-13b1)
@@ -41,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Double-Fry Your Chicken](https://lifehacker.com/you-should-double-fry-your-chicken-1849619630)
 - [Dev.to/JS] [JavaScript forEach&lpar;&rpar; vs map&lpar;&rpar; &amp; flatMap&lpar;&rpar;](https://dev.to/murillonahvs/javascript-foreach-vs-map-flatmap-5ca4)
 - [Dev.to/JS] [Reverse Only Letters](https://dev.to/zeeshanali0704/reverse-only-letters-45gj)
-- [Dev.to/JS] [Seamlessly Integrate a Payment Platform in 10 Lines of Code](https://dev.to/noramp/seamlessly-integrating-a-payment-platform-in-10-lines-of-code-27i)
-- [Dev.to/JS] [Build the future of web development with Next.js Edge Rendering and globally distributed database](https://dev.to/ixartz/build-the-future-of-web-development-with-nextjs-edge-rendering-and-globally-distributed-database-8o6)
-- [Dev.to/JS] [My Experience: Completing Flatiron School Software Engineering &lpar;Live&rpar; Bootcamp](https://dev.to/victorhaynes/my-experience-completing-flatiron-school-software-engineering-live-bootcamp-13j3)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Running?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-running-1849619485)
 - [Lifehacker] [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)
 - [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Caponata Is the Perfect Bridge Between Summer and Fall](https://lifehacker.com/caponata-is-the-perfect-bridge-between-summer-and-fall-1849613720)
 - [Lifehacker] [The Dos and Don&#39;t of Sending a Voice Message](https://lifehacker.com/the-dos-and-dont-of-sending-a-voice-message-1849613803)
 - [Lifehacker] [13 of the Best Websites That Feel Like the Old Internet](https://lifehacker.com/13-of-the-best-websites-that-feel-like-the-old-internet-1849558609)
-- [Lifehacker] [All the Ways Real Estate Photography Tricks You](https://lifehacker.com/all-the-ways-real-estate-photography-tricks-you-1849614634)
-- [Lifehacker] [The Best Ways to Keep Your Old House Warm in the Winter](https://lifehacker.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter-1849614494)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways Real Estate Photography Tricks You](https://lifehacker.com/all-the-ways-real-estate-photography-tricks-you-1849614634)<!-- TECH-POSTS:END -->
 
 ---
 
