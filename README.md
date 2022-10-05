@@ -23,25 +23,27 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build the future of web development with Next.js Edge Rendering and globally distributed database](https://dev.to/ixartz/build-the-future-of-web-development-with-nextjs-edge-rendering-and-globally-distributed-database-8o6)
+- [Dev.to/JS] [My Experience: Completing Flatiron School Software Engineering &lpar;Live&rpar; Bootcamp](https://dev.to/victorhaynes/my-experience-completing-flatiron-school-software-engineering-live-bootcamp-13j3)
+- [Dev.to/JS] [Prerendering in Angular - Part IV](https://dev.to/ayyash/prerendering-in-angular-part-iv-using-a-builder-with-multilingual-apps-1i7n)
+- [Dev.to/JS] [An Experiment With Dynamic Loading](https://dev.to/nalanj/an-experiment-with-dynamic-loading-4oig)
+- [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Running?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-running-1849619485)
+- [Dev.to/JS] [Rollup Library Starter](https://dev.to/mryechkin/rollup-library-starter-7ab)
+- [Dev.to/JS] [Learn CSS Basics](https://dev.to/shaon07/learn-css-basics-1k4i)
+- [Dev.to/JS] [2.42 - Pinia Vue’s New State Management](https://dev.to/codingcatdev/242-pinia-vues-new-state-management-2a6g)
+- [Lifehacker] [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)
+- [Dev.to/JS] [What is Angular web framework?](https://dev.to/bhagyaprasandika/what-is-angular-web-framework-2c1n)
 - [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
 - [Dev.to/JS] [is Long Pressed Name](https://dev.to/zeeshanali0704/is-long-pressed-name-4e65)
 - [Dev.to/JS] [Top 3 programming languages for beginners](https://dev.to/dadyasasha/top-3-programming-languages-for-beginners-47io)
 - [Dev.to/JS] [5 reasons devs should be using modular frontends](https://dev.to/richkurtzman/5-reasons-devs-should-be-using-modular-frontends-12da)
 - [Dev.to/JS] [Start Reinventing the Wheel, Maybe Your Wheel will be better than a Rocket!](https://dev.to/renhiyama/start-reinventing-the-wheel-maybe-your-wheel-will-be-better-than-a-rocket-3d4i)
 - [Lifehacker] [How &#39;Safe&#39; &lpar;and Private&rpar; Is BeReal?](https://lifehacker.com/how-safe-and-private-is-bereal-1849618865)
-- [Dev.to/JS] [Assigning a Variable May Not Always Be As It Seems](https://dev.to/ryan_pierce/assigning-a-variable-may-not-always-be-as-it-seems-3m2g)
-- [Dev.to/JS] [Handling form errors with vuelidate in VueJS 3.0](https://dev.to/andynoir/handling-form-errors-with-vuelidate-in-vuejs-30-5fp)
 - [Lifehacker] [This Is How to Safely Preserve Pumpkins With Bleach](https://lifehacker.com/this-is-how-to-safely-preserve-pumpkins-with-bleach-1849616721)
 - [Lifehacker] [14 of the Best Horror Movies for Couples](https://lifehacker.com/14-of-the-best-horror-movies-for-couples-1849617039)
-- [Dev.to/JS] [Tabs on Food - an Alpine.js demo](https://dev.to/dagger8224/tabs-on-food-an-alpinejs-demo-23hl)
 - [Lifehacker] [How Much It Costs to Raise a Child After Inflation](https://lifehacker.com/how-much-it-costs-to-raise-a-child-after-inflation-1849617580)
-- [Dev.to/JS] [Building an edge serverless GraphQL backend with Cloudflare Workers and Fauna](https://dev.to/fauna/building-an-edge-serverless-graphql-backend-with-cloudflare-workers-and-fauna-1bp0)
 - [Lifehacker] [What Are Stability Shoes, and Do They Really Matter?](https://lifehacker.com/what-are-stability-shoes-and-do-they-really-matter-1849615594)
-- [Dev.to/JS] [How to deal with caching and dynamic content in Nuxt?](https://dev.to/vue-storefront/how-to-deal-with-caching-and-dynamic-content-2ilk)
-- [Dev.to/JS] [Split Container Web Component](https://dev.to/maxim_maeder/split-container-web-component-37c5)
 - [Lifehacker] [How to Keep Leftover Pesto Looking Fresh and Green](https://lifehacker.com/how-to-keep-leftover-pesto-looking-fresh-and-green-1849616498)
-- [Dev.to/JS] [[TypeScript-JSON] Developed runtime type checker &lpar;validator&rpar; library](https://dev.to/samchon/typescript-json-developed-runtime-type-checker-validator-library-3850)
-- [Dev.to/JS] [A Beginners Explanation of Components, Props and State in React](https://dev.to/pqyetman/a-beginners-explanation-of-components-props-and-state-in-react-28b6)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
 - [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
-- [Lifehacker] [How to Cook Ribs in Your Oven Without Special Equipment](https://lifehacker.com/how-to-cook-ribs-in-your-oven-without-special-equipment-1849609563)
-- [Lifehacker] [How to Tell an Abortion Provider From a &#39;Crisis Pregnancy Center&#39;](https://lifehacker.com/how-to-tell-an-abortion-provider-from-a-crisis-pregnanc-1849609842)
-- [Lifehacker] [The First Things to Do When You Get a New Boss](https://lifehacker.com/the-first-things-to-do-when-you-get-a-new-boss-1849609688)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Cook Ribs in Your Oven Without Special Equipment](https://lifehacker.com/how-to-cook-ribs-in-your-oven-without-special-equipment-1849609563)<!-- TECH-POSTS:END -->
 
 ---
 
