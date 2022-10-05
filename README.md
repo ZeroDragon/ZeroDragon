@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to deal with caching and dynamic content?](https://dev.to/vue-storefront/how-to-deal-with-caching-and-dynamic-content-2ilk)
+- [Dev.to/JS] [Split Container Web Component](https://dev.to/maxim_maeder/split-container-web-component-37c5)
+- [Lifehacker] [How to Keep Leftover Pesto Looking Fresh and Green](https://lifehacker.com/how-to-keep-leftover-pesto-looking-fresh-and-green-1849616498)
+- [Dev.to/JS] [[TypeScript-JSON] Developed runtime type checker &lpar;validator&rpar; library](https://dev.to/samchon/typescript-json-developed-runtime-type-checker-validator-library-3850)
+- [Dev.to/JS] [A Beginners Explanation of Components, Props and State in React](https://dev.to/pqyetman/a-beginners-explanation-of-components-props-and-state-in-react-28b6)
+- [Dev.to/JS] [Getting into tech? Here’s Getting into tech? Here’s your one stop shop as a beginner](https://dev.to/1solation/getting-into-tech-heres-getting-into-tech-heres-your-one-stop-shop-as-a-beginner-21no)
+- [Dev.to/JS] [Change your old methods for writing a JavaScript Code - Shorthand&#39;s for JavaScript Code](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-54hp)
 - [Dev.to/JS] [22 Software Engineering Lessons for New Developers in Tech](https://dev.to/tyaga001/22-software-engineering-lessons-for-new-developers-in-tech-3p9h)
 - [Dev.to/JS] [Create autologin with chrome extension](https://dev.to/konfydev/create-autologin-with-chrome-extension-3eef)
 - [Dev.to/JS] [🤔 Should I Use Gatsby or Next.js For My Next Project?](https://dev.to/webiny/should-i-use-gatsby-or-nextjs-for-my-next-project-4el4)
 - [Dev.to/JS] [Astro JS non-HTML Routes: File &amp; Resource API](https://dev.to/askrodney/astro-js-non-html-routes-file-resource-api-3jcj)
 - [Dev.to/JS] [Redirect to a custom login page when securing your Angular app with MSAL](https://dev.to/azure/redirect-to-a-custom-login-page-when-securing-your-angular-app-with-msal-37km)
 - [Dev.to/JS] [Your Guide for Testing ReactJS Apps - Part 2](https://dev.to/hellonehha/your-guide-for-testing-reactjs-apps-part-2-a8f)
-- [Dev.to/JS] [Aprender a programar: con la ayuda de Ron](https://dev.to/colocodeses/aprender-a-programar-con-la-ayuda-de-ron-c10)
-- [Dev.to/JS] [JavaScript Primitive types](https://dev.to/stali1234/javascript-primitive-types-kmn)
-- [Dev.to/JS] [Is SemiColon in javascript optional??](https://dev.to/stali1234/is-semicolon-in-javascript-optional-21lb)
-- [Dev.to/JS] [Simple dark snackbar - A step-by-step guide](https://dev.to/designyff/simple-dark-snackbar-a-step-by-step-guide-2o0h)
-- [Dev.to/JS] [Commenting in javaScript.](https://dev.to/stali1234/commenting-in-javascript-9m3)
-- [Dev.to/JS] [Hướng dẫn cài đặt và sử dụng phần mềm tập lái xe ô tô trên máy tính](https://dev.to/suretoyota/huong-dan-cai-dat-va-su-dung-phan-mem-tap-lai-xe-o-to-tren-may-tinh-5727)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
 - [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)
 - [Lifehacker] [How Much You Really Earn As a Dog Walker](https://lifehacker.com/how-much-you-really-earn-as-a-dog-walker-1849610983)
-- [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)
-- [Lifehacker] [Use This TikTok Hack to Stop an Accidental Windows Reboot](https://lifehacker.com/use-this-tiktok-hack-to-stop-an-accidental-windows-rebo-1849608496)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Throw Out These Recalled Cheeses From More Than 20 Popular Brands, FDA Says](https://lifehacker.com/throw-out-these-recalled-cheeses-from-more-than-20-popu-1849608511)<!-- TECH-POSTS:END -->
 
 ---
 
