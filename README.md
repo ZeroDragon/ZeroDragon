@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Path Sum- Binary Tree](https://dev.to/zeeshanali0704/path-sum-binary-tree-37oo)
+- [Dev.to/JS] [Learn this before React](https://dev.to/jps27cse/learn-this-before-react-4hpl)
+- [Dev.to/JS] [Triplet Sum Close to Target](https://dev.to/zeeshanali0704/triplet-sum-close-to-target-22kg)
 - [Dev.to/JS] [How I Created a File Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-javascript-355g)
 - [Dev.to/JS] [Fastest Frontend Tools in 2022](https://dev.to/cpojer/fastest-frontend-tools-in-2022-4kpk)
 - [Dev.to/JS] [SOLID Principles Sketches](https://dev.to/trekhleb/solid-principles-sketches-486p)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
 - [Dev.to/JS] [Hacktoberfest First PL/MRG](https://dev.to/lostbutton/hacktoberfest-first-plmrg-1f3f)
-- [Dev.to/JS] [Digital Clock with Alarm in JavaScript + HTML](https://dev.to/thedevdrawer/digital-clock-with-alarm-in-javascript-html-e27)
-- [Dev.to/JS] [Vanilla javascript drawing grid](https://dev.to/inra/vanilla-javascript-drawing-grid-2an5)
 - [Lifehacker] [Jacob Batalon on Surviving High School and the Importance of Representation](https://lifehacker.com/jacob-batalon-on-surviving-high-school-and-the-importan-1849615446)
 - [Lifehacker] [What to Stock Up on Before You Get Sick, According to Reddit](https://lifehacker.com/what-to-stock-up-on-before-you-get-sick-according-to-r-1849615087)
-- [Dev.to/JS] [How I created a website for NGO in less than 24hrs!](https://dev.to/vishwagauravin/how-i-created-a-website-for-ngo-in-less-than-24hrs-1eo0)
 - [Lifehacker] [Caponata Is the Perfect Bridge Between Summer and Fall](https://lifehacker.com/caponata-is-the-perfect-bridge-between-summer-and-fall-1849613720)
 - [Lifehacker] [The Dos and Don&#39;t of Sending a Voice Message](https://lifehacker.com/the-dos-and-dont-of-sending-a-voice-message-1849613803)
 - [Lifehacker] [13 of the Best Websites That Feel Like the Old Internet](https://lifehacker.com/13-of-the-best-websites-that-feel-like-the-old-internet-1849558609)
