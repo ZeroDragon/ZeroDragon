@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Astro JS non-HTML Routes: File &amp; Resource API](https://dev.to/askrodney/astro-js-non-html-routes-file-resource-api-3jcj)
+- [Dev.to/JS] [Your Guide for Testing ReactJS Apps - Part 2](https://dev.to/hellonehha/your-guide-for-testing-reactjs-apps-part-2-a8f)
+- [Dev.to/JS] [Aprender a programar: con la ayuda de Ron](https://dev.to/colocodeses/aprender-a-programar-con-la-ayuda-de-ron-c10)
 - [Dev.to/JS] [JavaScript Primitive types](https://dev.to/stali1234/javascript-primitive-types-kmn)
 - [Dev.to/JS] [Is SemiColon in javascript optional??](https://dev.to/stali1234/is-semicolon-in-javascript-optional-21lb)
 - [Dev.to/JS] [Simple dark snackbar - A step-by-step guide](https://dev.to/designyff/simple-dark-snackbar-a-step-by-step-guide-2o0h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a School Website with Strapi using Vanilla Javascript](https://dev.to/strapi/how-to-build-a-school-website-with-strapi-using-vanilla-javascript-1l30)
 - [Dev.to/JS] [Saving and refreshing - JAVASCRIPT](https://dev.to/stali1234/saving-and-refreshing-javascript-1oa3)
 - [Dev.to/JS] [PROPS AND STATES EXPLAINED](https://dev.to/klasss4web/props-and-states-explained-9ng)
-- [Dev.to/JS] [Browser Console.](https://dev.to/stali1234/browser-console-e24)
-- [Dev.to/JS] [Bonita online documentation needs some Hacktoberfest 2022 love!](https://dev.to/bonitasoft/bonita-online-documentation-needs-some-hacktoberfest-2022-love-3mab)
-- [Dev.to/JS] [How To Convert Image Into Base64 String Using jQuery](https://dev.to/techsolutionstuff/how-to-convert-image-into-base64-string-using-jquery-3gcd)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
