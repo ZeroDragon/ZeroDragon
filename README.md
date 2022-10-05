@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
+- [Dev.to/JS] [is Long Pressed Name](https://dev.to/zeeshanali0704/is-long-pressed-name-4e65)
+- [Dev.to/JS] [Top 3 programming languages for beginners](https://dev.to/dadyasasha/top-3-programming-languages-for-beginners-47io)
+- [Dev.to/JS] [5 reasons devs should be using modular frontends](https://dev.to/richkurtzman/5-reasons-devs-should-be-using-modular-frontends-12da)
+- [Dev.to/JS] [Start Reinventing the Wheel, Maybe Your Wheel will be better than a Rocket!](https://dev.to/renhiyama/start-reinventing-the-wheel-maybe-your-wheel-will-be-better-than-a-rocket-3d4i)
+- [Lifehacker] [How &#39;Safe&#39; &lpar;and Private&rpar; Is BeReal?](https://lifehacker.com/how-safe-and-private-is-bereal-1849618865)
+- [Dev.to/JS] [Assigning a Variable May Not Always Be As It Seems](https://dev.to/ryan_pierce/assigning-a-variable-may-not-always-be-as-it-seems-3m2g)
+- [Dev.to/JS] [Handling form errors with vuelidate in VueJS 3.0](https://dev.to/andynoir/handling-form-errors-with-vuelidate-in-vuejs-30-5fp)
 - [Lifehacker] [This Is How to Safely Preserve Pumpkins With Bleach](https://lifehacker.com/this-is-how-to-safely-preserve-pumpkins-with-bleach-1849616721)
 - [Lifehacker] [14 of the Best Horror Movies for Couples](https://lifehacker.com/14-of-the-best-horror-movies-for-couples-1849617039)
 - [Dev.to/JS] [Tabs on Food - an Alpine.js demo](https://dev.to/dagger8224/tabs-on-food-an-alpinejs-demo-23hl)
@@ -34,12 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Leftover Pesto Looking Fresh and Green](https://lifehacker.com/how-to-keep-leftover-pesto-looking-fresh-and-green-1849616498)
 - [Dev.to/JS] [[TypeScript-JSON] Developed runtime type checker &lpar;validator&rpar; library](https://dev.to/samchon/typescript-json-developed-runtime-type-checker-validator-library-3850)
 - [Dev.to/JS] [A Beginners Explanation of Components, Props and State in React](https://dev.to/pqyetman/a-beginners-explanation-of-components-props-and-state-in-react-28b6)
-- [Dev.to/JS] [Getting into tech? Here’s Getting into tech? Here’s your one stop shop as a beginner](https://dev.to/1solation/getting-into-tech-heres-getting-into-tech-heres-your-one-stop-shop-as-a-beginner-21no)
-- [Dev.to/JS] [Change your old methods for writing a JavaScript Code - Shorthand&#39;s for JavaScript Code](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-54hp)
-- [Dev.to/JS] [22 Software Engineering Lessons for New Developers in Tech](https://dev.to/tyaga001/22-software-engineering-lessons-for-new-developers-in-tech-3p9h)
-- [Dev.to/JS] [Create autologin with chrome extension](https://dev.to/konfydev/create-autologin-with-chrome-extension-3eef)
-- [Dev.to/JS] [🤔 Should I Use Gatsby or Next.js For My Next Project?](https://dev.to/webiny/should-i-use-gatsby-or-nextjs-for-my-next-project-4el4)
-- [Dev.to/JS] [Astro JS non-HTML Routes: File &amp; Resource API](https://dev.to/askrodney/astro-js-non-html-routes-file-resource-api-3jcj)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
 - [Lifehacker] [How to Cook Ribs in Your Oven Without Special Equipment](https://lifehacker.com/how-to-cook-ribs-in-your-oven-without-special-equipment-1849609563)
 - [Lifehacker] [How to Tell an Abortion Provider From a &#39;Crisis Pregnancy Center&#39;](https://lifehacker.com/how-to-tell-an-abortion-provider-from-a-crisis-pregnanc-1849609842)
-- [Lifehacker] [The First Things to Do When You Get a New Boss](https://lifehacker.com/the-first-things-to-do-when-you-get-a-new-boss-1849609688)
-- [Lifehacker] [13 of the Best New Things to Stream in October 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-october-2022-1849609468)
-- [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The First Things to Do When You Get a New Boss](https://lifehacker.com/the-first-things-to-do-when-you-get-a-new-boss-1849609688)<!-- TECH-POSTS:END -->
 
 ---
 
