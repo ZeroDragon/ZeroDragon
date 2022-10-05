@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bonita online documentation needs some Hacktoberfest 2022 love!](https://dev.to/bonitasoft/bonita-online-documentation-needs-some-hacktoberfest-2022-love-3mab)
+- [Dev.to/JS] [How To Convert Image Into Base64 String Using jQuery](https://dev.to/techsolutionstuff/how-to-convert-image-into-base64-string-using-jquery-3gcd)
+- [Dev.to/JS] [JAM Stack : Portfolio website building with Gatsby and Wordpress](https://dev.to/maradisu/jam-stack-portfolio-website-building-with-gatsby-and-wordpress-3goo)
+- [Dev.to/JS] [Valid Palindrome II](https://dev.to/zeeshanali0704/valid-palindrome-ii-a7m)
+- [Dev.to/JS] [JavaScript linking your javascript file](https://dev.to/stali1234/javascript-use-case-4g60)
 - [Dev.to/JS] [My Portfolio](https://dev.to/shubhamku044/my-portfolio-3lpj)
 - [Dev.to/JS] [Using Bun with React](https://dev.to/dailydevtips1/using-bun-with-react-dib)
 - [Dev.to/JS] [Prototype and Prototypal Inheritance in Javascript](https://dev.to/neeraj1997dev/callback-vs-promises-vs-async-await-36mi)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Path Sum- Binary Tree](https://dev.to/zeeshanali0704/path-sum-binary-tree-37oo)
 - [Dev.to/JS] [Learn this before React](https://dev.to/jps27cse/learn-this-before-react-4hpl)
 - [Dev.to/JS] [Triplet Sum Close to Target](https://dev.to/zeeshanali0704/triplet-sum-close-to-target-22kg)
-- [Dev.to/JS] [How I Created a File Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-javascript-355g)
-- [Dev.to/JS] [Fastest Frontend Tools in 2022](https://dev.to/cpojer/fastest-frontend-tools-in-2022-4kpk)
-- [Dev.to/JS] [SOLID Principles Sketches](https://dev.to/trekhleb/solid-principles-sketches-486p)
-- [Dev.to/JS] [Fundamentals in JavaScript](https://dev.to/mrpaulishaili/fundamentals-in-javascript-37i8)
-- [Dev.to/JS] [Introduction to Javascript](https://dev.to/mrpaulishaili/introduction-to-javascript-19e9)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
