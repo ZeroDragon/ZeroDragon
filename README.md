@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Created a File Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-javascript-355g)
 - [Dev.to/JS] [Fastest Frontend Tools in 2022](https://dev.to/cpojer/fastest-frontend-tools-in-2022-4kpk)
 - [Dev.to/JS] [SOLID Principles Sketches](https://dev.to/trekhleb/solid-principles-sketches-486p)
 - [Dev.to/JS] [Fundamentals in JavaScript](https://dev.to/mrpaulishaili/fundamentals-in-javascript-37i8)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Stock Up on Before You Get Sick, According to Reddit](https://lifehacker.com/what-to-stock-up-on-before-you-get-sick-according-to-r-1849615087)
 - [Dev.to/JS] [How I created a website for NGO in less than 24hrs!](https://dev.to/vishwagauravin/how-i-created-a-website-for-ngo-in-less-than-24hrs-1eo0)
 - [Lifehacker] [Caponata Is the Perfect Bridge Between Summer and Fall](https://lifehacker.com/caponata-is-the-perfect-bridge-between-summer-and-fall-1849613720)
-- [Dev.to/JS] [RTK Query: Make fetching and caching data effortless.](https://dev.to/sajjathossain/rtk-query-make-fetching-and-caching-data-effortless-3m7e)
 - [Lifehacker] [The Dos and Don&#39;t of Sending a Voice Message](https://lifehacker.com/the-dos-and-dont-of-sending-a-voice-message-1849613803)
 - [Lifehacker] [13 of the Best Websites That Feel Like the Old Internet](https://lifehacker.com/13-of-the-best-websites-that-feel-like-the-old-internet-1849558609)
 - [Lifehacker] [All the Ways Real Estate Photography Tricks You](https://lifehacker.com/all-the-ways-real-estate-photography-tricks-you-1849614634)
