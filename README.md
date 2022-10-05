@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
+- [Dev.to/JS] [Representing missing values](https://dev.to/joshuaamaju/representing-missing-values-9bl)
+- [Lifehacker] [Add Soy Sauce to Your Baked Goods](https://lifehacker.com/add-soy-sauce-to-your-baked-goods-1849620534)
+- [Dev.to/JS] [Everything You Need to Know About JavaScript Import Maps](https://dev.to/honeybadger/everything-you-need-to-know-about-javascript-import-maps-cnd)
 - [Lifehacker] [How to Cope With Mental Health Struggles When Treatment Isn&#39;t Accessible](https://lifehacker.com/how-to-cope-with-mental-health-struggles-when-treatment-1849618055)
 - [Dev.to/JS] [JIT vs AOT](https://dev.to/cyberdelahoz95/jit-vs-aot-71c)
 - [Dev.to/JS] [Simple way to add custom context menus to web pages.](https://dev.to/andreygermanov/simple-way-to-add-custom-context-menus-to-web-pages-10lc)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prerendering in Angular - Part IV](https://dev.to/ayyash/prerendering-in-angular-part-iv-using-a-builder-with-multilingual-apps-1i7n)
 - [Dev.to/JS] [An Experiment With Dynamic Loading](https://dev.to/nalanj/an-experiment-with-dynamic-loading-4oig)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Running?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-running-1849619485)
-- [Dev.to/JS] [Rollup Library Starter](https://dev.to/mryechkin/rollup-library-starter-7ab)
-- [Dev.to/JS] [Learn CSS Basics](https://dev.to/shaon07/learn-css-basics-1k4i)
 - [Lifehacker] [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)
 - [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
 - [Lifehacker] [How &#39;Safe&#39; &lpar;and Private&rpar; Is BeReal?](https://lifehacker.com/how-safe-and-private-is-bereal-1849618865)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 of the Best Websites That Feel Like the Old Internet](https://lifehacker.com/13-of-the-best-websites-that-feel-like-the-old-internet-1849558609)
 - [Lifehacker] [All the Ways Real Estate Photography Tricks You](https://lifehacker.com/all-the-ways-real-estate-photography-tricks-you-1849614634)
 - [Lifehacker] [The Best Ways to Keep Your Old House Warm in the Winter](https://lifehacker.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter-1849614494)
-- [Lifehacker] [You Can Make Your Own Fabric Wallpaper](https://lifehacker.com/you-can-make-your-own-fabric-wallpaper-1849614365)
-- [Lifehacker] [How to ‘Spiderweb’ Your Halloween Desserts](https://lifehacker.com/how-to-spiderweb-your-halloween-desserts-1849613854)
-- [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Your Own Fabric Wallpaper](https://lifehacker.com/you-can-make-your-own-fabric-wallpaper-1849614365)<!-- TECH-POSTS:END -->
 
 ---
 
