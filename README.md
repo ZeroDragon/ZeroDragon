@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Bathroom Decor Looks Outdated](https://lifehacker.com/your-bathroom-decor-looks-outdated-1849614234)
+- [Lifehacker] [You Should Double-Fry Your Chicken](https://lifehacker.com/you-should-double-fry-your-chicken-1849619630)
+- [Dev.to/JS] [JavaScript forEach&lpar;&rpar; vs map&lpar;&rpar; &amp; flatMap&lpar;&rpar;](https://dev.to/murillonahvs/javascript-foreach-vs-map-flatmap-5ca4)
+- [Dev.to/JS] [Reverse Only Letters](https://dev.to/zeeshanali0704/reverse-only-letters-45gj)
 - [Dev.to/JS] [Build the future of web development with Next.js Edge Rendering and globally distributed database](https://dev.to/ixartz/build-the-future-of-web-development-with-nextjs-edge-rendering-and-globally-distributed-database-8o6)
 - [Dev.to/JS] [My Experience: Completing Flatiron School Software Engineering &lpar;Live&rpar; Bootcamp](https://dev.to/victorhaynes/my-experience-completing-flatiron-school-software-engineering-live-bootcamp-13j3)
 - [Dev.to/JS] [Prerendering in Angular - Part IV](https://dev.to/ayyash/prerendering-in-angular-part-iv-using-a-builder-with-multilingual-apps-1i7n)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
 - [Dev.to/JS] [is Long Pressed Name](https://dev.to/zeeshanali0704/is-long-pressed-name-4e65)
 - [Dev.to/JS] [Top 3 programming languages for beginners](https://dev.to/dadyasasha/top-3-programming-languages-for-beginners-47io)
-- [Dev.to/JS] [5 reasons devs should be using modular frontends](https://dev.to/richkurtzman/5-reasons-devs-should-be-using-modular-frontends-12da)
-- [Dev.to/JS] [Start Reinventing the Wheel, Maybe Your Wheel will be better than a Rocket!](https://dev.to/renhiyama/start-reinventing-the-wheel-maybe-your-wheel-will-be-better-than-a-rocket-3d4i)
 - [Lifehacker] [How &#39;Safe&#39; &lpar;and Private&rpar; Is BeReal?](https://lifehacker.com/how-safe-and-private-is-bereal-1849618865)
 - [Lifehacker] [This Is How to Safely Preserve Pumpkins With Bleach](https://lifehacker.com/this-is-how-to-safely-preserve-pumpkins-with-bleach-1849616721)
 - [Lifehacker] [14 of the Best Horror Movies for Couples](https://lifehacker.com/14-of-the-best-horror-movies-for-couples-1849617039)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
 - [Lifehacker] [How to Thicken Your Cozy Fall Soups Without Any Dairy](https://lifehacker.com/how-to-thicken-your-cozy-fall-soups-without-any-dairy-1849611042)
 - [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
-- [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)
-- [Lifehacker] [How to Win &#39;Sober October&#39; &lpar;Even If You Drink a Little&rpar;](https://lifehacker.com/how-to-win-sober-october-even-if-you-drink-a-little-1849610657)
-- [Lifehacker] [How to Cook Ribs in Your Oven Without Special Equipment](https://lifehacker.com/how-to-cook-ribs-in-your-oven-without-special-equipment-1849609563)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)<!-- TECH-POSTS:END -->
 
 ---
 
