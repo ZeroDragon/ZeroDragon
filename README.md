@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Portfolio](https://dev.to/shubhamku044/my-portfolio-3lpj)
+- [Dev.to/JS] [Using Bun with React](https://dev.to/dailydevtips1/using-bun-with-react-dib)
 - [Dev.to/JS] [Prototype and Prototypal Inheritance in Javascript](https://dev.to/neeraj1997dev/callback-vs-promises-vs-async-await-36mi)
 - [Dev.to/JS] [Ohhhhh. It&#39;s been a while. Rhum 2.1.0.rc-1 tho. It&#39;s Node compatible btw!](https://dev.to/drash_land/ohhhhh-its-been-a-while-rhum-210rc-1-tho-its-node-compatible-btw-38c6)
 - [Dev.to/JS] [Path Sum- Binary Tree](https://dev.to/zeeshanali0704/path-sum-binary-tree-37oo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SOLID Principles Sketches](https://dev.to/trekhleb/solid-principles-sketches-486p)
 - [Dev.to/JS] [Fundamentals in JavaScript](https://dev.to/mrpaulishaili/fundamentals-in-javascript-37i8)
 - [Dev.to/JS] [Introduction to Javascript](https://dev.to/mrpaulishaili/introduction-to-javascript-19e9)
-- [Dev.to/JS] [Using the JavaScript Clipboard API](https://dev.to/asayerio_techblog/using-the-javascript-clipboard-api-28j2)
-- [Dev.to/JS] [Paracetamol.js💊| #185: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-185-explica-este-codigo-javascript-4646)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
