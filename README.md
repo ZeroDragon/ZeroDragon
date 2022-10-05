@@ -23,11 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is How to Safely Preserve Pumpkins With Bleach](https://lifehacker.com/this-is-how-to-safely-preserve-pumpkins-with-bleach-1849616721)
+- [Lifehacker] [14 of the Best Horror Movies for Couples](https://lifehacker.com/14-of-the-best-horror-movies-for-couples-1849617039)
 - [Dev.to/JS] [Tabs on Food - an Alpine.js demo](https://dev.to/dagger8224/tabs-on-food-an-alpinejs-demo-23hl)
 - [Lifehacker] [How Much It Costs to Raise a Child After Inflation](https://lifehacker.com/how-much-it-costs-to-raise-a-child-after-inflation-1849617580)
 - [Dev.to/JS] [Building an edge serverless GraphQL backend with Cloudflare Workers and Fauna](https://dev.to/fauna/building-an-edge-serverless-graphql-backend-with-cloudflare-workers-and-fauna-1bp0)
 - [Lifehacker] [What Are Stability Shoes, and Do They Really Matter?](https://lifehacker.com/what-are-stability-shoes-and-do-they-really-matter-1849615594)
-- [Dev.to/JS] [How to deal with caching and dynamic content?](https://dev.to/vue-storefront/how-to-deal-with-caching-and-dynamic-content-2ilk)
+- [Dev.to/JS] [How to deal with caching and dynamic content in Nuxt?](https://dev.to/vue-storefront/how-to-deal-with-caching-and-dynamic-content-2ilk)
 - [Dev.to/JS] [Split Container Web Component](https://dev.to/maxim_maeder/split-container-web-component-37c5)
 - [Lifehacker] [How to Keep Leftover Pesto Looking Fresh and Green](https://lifehacker.com/how-to-keep-leftover-pesto-looking-fresh-and-green-1849616498)
 - [Dev.to/JS] [[TypeScript-JSON] Developed runtime type checker &lpar;validator&rpar; library](https://dev.to/samchon/typescript-json-developed-runtime-type-checker-validator-library-3850)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell an Abortion Provider From a &#39;Crisis Pregnancy Center&#39;](https://lifehacker.com/how-to-tell-an-abortion-provider-from-a-crisis-pregnanc-1849609842)
 - [Lifehacker] [The First Things to Do When You Get a New Boss](https://lifehacker.com/the-first-things-to-do-when-you-get-a-new-boss-1849609688)
 - [Lifehacker] [13 of the Best New Things to Stream in October 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-october-2022-1849609468)
-- [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)
-- [Lifehacker] [Watch for These Signs That Your Home’s Wiring Is Unsafe](https://lifehacker.com/watch-for-these-signs-that-your-home-s-wiring-is-unsafe-1849609190)
-- [Lifehacker] [Why Mo Amer Was Not Prepared to Film Episode 3 of &#39;Mo&#39;](https://lifehacker.com/why-mo-amer-was-not-prepared-to-film-episode-3-of-mo-1849609010)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Ways to Use Up Puff Pastry Scraps](https://lifehacker.com/three-ways-to-use-up-puff-pastry-scraps-1849609367)<!-- TECH-POSTS:END -->
 
 ---
 
