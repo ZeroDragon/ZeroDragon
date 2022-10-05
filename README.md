@@ -23,10 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Crocs Is Giving Out Free Shoes for &#39;Croctober&#39;](https://lifehacker.com/crocs-is-giving-out-free-shoes-for-croctober-1849620050)
+- [Lifehacker] [The States With the Best and Worst Roads](https://lifehacker.com/the-states-with-the-best-and-worst-roads-1849619986)
+- [Dev.to/JS] [Building a Portfolio Website with React and ButterCMS](https://dev.to/jakelumetta/building-a-portfolio-website-with-react-and-buttercms-339d)
 - [Lifehacker] [Your Bathroom Decor Looks Outdated](https://lifehacker.com/your-bathroom-decor-looks-outdated-1849614234)
 - [Lifehacker] [You Should Double-Fry Your Chicken](https://lifehacker.com/you-should-double-fry-your-chicken-1849619630)
 - [Dev.to/JS] [JavaScript forEach&lpar;&rpar; vs map&lpar;&rpar; &amp; flatMap&lpar;&rpar;](https://dev.to/murillonahvs/javascript-foreach-vs-map-flatmap-5ca4)
 - [Dev.to/JS] [Reverse Only Letters](https://dev.to/zeeshanali0704/reverse-only-letters-45gj)
+- [Dev.to/JS] [Seamlessly Integrate a Payment Platform in 10 Lines of Code](https://dev.to/noramp/seamlessly-integrating-a-payment-platform-in-10-lines-of-code-27i)
 - [Dev.to/JS] [Build the future of web development with Next.js Edge Rendering and globally distributed database](https://dev.to/ixartz/build-the-future-of-web-development-with-nextjs-edge-rendering-and-globally-distributed-database-8o6)
 - [Dev.to/JS] [My Experience: Completing Flatiron School Software Engineering &lpar;Live&rpar; Bootcamp](https://dev.to/victorhaynes/my-experience-completing-flatiron-school-software-engineering-live-bootcamp-13j3)
 - [Dev.to/JS] [Prerendering in Angular - Part IV](https://dev.to/ayyash/prerendering-in-angular-part-iv-using-a-builder-with-multilingual-apps-1i7n)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)
 - [Dev.to/JS] [What is Angular web framework?](https://dev.to/bhagyaprasandika/what-is-angular-web-framework-2c1n)
 - [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
-- [Dev.to/JS] [is Long Pressed Name](https://dev.to/zeeshanali0704/is-long-pressed-name-4e65)
-- [Dev.to/JS] [Top 3 programming languages for beginners](https://dev.to/dadyasasha/top-3-programming-languages-for-beginners-47io)
 - [Lifehacker] [How &#39;Safe&#39; &lpar;and Private&rpar; Is BeReal?](https://lifehacker.com/how-safe-and-private-is-bereal-1849618865)
 - [Lifehacker] [This Is How to Safely Preserve Pumpkins With Bleach](https://lifehacker.com/this-is-how-to-safely-preserve-pumpkins-with-bleach-1849616721)
 - [Lifehacker] [14 of the Best Horror Movies for Couples](https://lifehacker.com/14-of-the-best-horror-movies-for-couples-1849617039)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to ‘Spiderweb’ Your Halloween Desserts](https://lifehacker.com/how-to-spiderweb-your-halloween-desserts-1849613854)
 - [Lifehacker] [The Most Clichéd Halloween Costumes to Avoid This Year](https://lifehacker.com/the-most-cliched-halloween-costumes-to-avoid-this-year-1849612372)
 - [Lifehacker] [Why Reddit Is Losing It Over Samsung’s New Privacy Policy](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
-- [Lifehacker] [How to Thicken Your Cozy Fall Soups Without Any Dairy](https://lifehacker.com/how-to-thicken-your-cozy-fall-soups-without-any-dairy-1849611042)
-- [Lifehacker] [How to Get a Wordle Hint Without Spoiling the Whole Thing](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
-- [Lifehacker] [Baking for Beginners: How to Prep the Perfect Bundt Pan](https://lifehacker.com/baking-for-beginners-how-to-prep-the-perfect-bundt-pan-1849609898)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Thicken Your Cozy Fall Soups Without Any Dairy](https://lifehacker.com/how-to-thicken-your-cozy-fall-soups-without-any-dairy-1849611042)<!-- TECH-POSTS:END -->
 
 ---
 
