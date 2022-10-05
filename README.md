@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [22 Software Engineering Lessons for New Developers in Tech](https://dev.to/tyaga001/22-software-engineering-lessons-for-new-developers-in-tech-3p9h)
 - [Dev.to/JS] [Create autologin with chrome extension](https://dev.to/konfydev/create-autologin-with-chrome-extension-3eef)
 - [Dev.to/JS] [🤔 Should I Use Gatsby or Next.js For My Next Project?](https://dev.to/webiny/should-i-use-gatsby-or-nextjs-for-my-next-project-4el4)
 - [Dev.to/JS] [Astro JS non-HTML Routes: File &amp; Resource API](https://dev.to/askrodney/astro-js-non-html-routes-file-resource-api-3jcj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple dark snackbar - A step-by-step guide](https://dev.to/designyff/simple-dark-snackbar-a-step-by-step-guide-2o0h)
 - [Dev.to/JS] [Commenting in javaScript.](https://dev.to/stali1234/commenting-in-javascript-9m3)
 - [Dev.to/JS] [Hướng dẫn cài đặt và sử dụng phần mềm tập lái xe ô tô trên máy tính](https://dev.to/suretoyota/huong-dan-cai-dat-va-su-dung-phan-mem-tap-lai-xe-o-to-tren-may-tinh-5727)
-- [Dev.to/JS] [Array Methods in JavaScript](https://dev.to/hermitex/array-methods-in-javascript-8jb)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
