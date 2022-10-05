@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create autologin with chrome extension](https://dev.to/konfydev/create-autologin-with-chrome-extension-3eef)
+- [Dev.to/JS] [🤔 Should I Use Gatsby or Next.js For My Next Project?](https://dev.to/webiny/should-i-use-gatsby-or-nextjs-for-my-next-project-4el4)
 - [Dev.to/JS] [Astro JS non-HTML Routes: File &amp; Resource API](https://dev.to/askrodney/astro-js-non-html-routes-file-resource-api-3jcj)
+- [Dev.to/JS] [Redirect to a custom login page when securing your Angular app with MSAL](https://dev.to/azure/redirect-to-a-custom-login-page-when-securing-your-angular-app-with-msal-37km)
 - [Dev.to/JS] [Your Guide for Testing ReactJS Apps - Part 2](https://dev.to/hellonehha/your-guide-for-testing-reactjs-apps-part-2-a8f)
 - [Dev.to/JS] [Aprender a programar: con la ayuda de Ron](https://dev.to/colocodeses/aprender-a-programar-con-la-ayuda-de-ron-c10)
 - [Dev.to/JS] [JavaScript Primitive types](https://dev.to/stali1234/javascript-primitive-types-kmn)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Commenting in javaScript.](https://dev.to/stali1234/commenting-in-javascript-9m3)
 - [Dev.to/JS] [Hướng dẫn cài đặt và sử dụng phần mềm tập lái xe ô tô trên máy tính](https://dev.to/suretoyota/huong-dan-cai-dat-va-su-dung-phan-mem-tap-lai-xe-o-to-tren-may-tinh-5727)
 - [Dev.to/JS] [Array Methods in JavaScript](https://dev.to/hermitex/array-methods-in-javascript-8jb)
-- [Dev.to/JS] [How to Build a School Website with Strapi using Vanilla Javascript](https://dev.to/strapi/how-to-build-a-school-website-with-strapi-using-vanilla-javascript-1l30)
-- [Dev.to/JS] [Saving and refreshing - JAVASCRIPT](https://dev.to/stali1234/saving-and-refreshing-javascript-1oa3)
-- [Dev.to/JS] [PROPS AND STATES EXPLAINED](https://dev.to/klasss4web/props-and-states-explained-9ng)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
