@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Perfect Number of Dating App Conversations You Should Have at Once](https://lifehacker.com/the-perfect-number-of-dating-app-conversations-you-shou-1849620078)
+- [Dev.to/JS] [Stop/Restart Requests When User Is Inactive using Angular, RxJS, and Page Visibility API](https://dev.to/nightwolfdev/stoprestart-requests-when-user-is-inactive-using-angular-rxjs-and-page-visibility-api-acm)
+- [Lifehacker] [How to Choose the Right Microwave, Because They&#39;re More Different Than You Think](https://lifehacker.com/how-to-choose-the-right-microwave-because-theyre-more-1849619590)
+- [Dev.to/JS] [Exploring Vue 3’s reactivity: ref and watchEffect](https://dev.to/huytaquoc/exploring-frontend-frameworks-internals-part-2-vue-3s-reactivity-2482)
 - [Lifehacker] [You Can Let Out Your Rage in Healthy, Productive Ways](https://lifehacker.com/you-can-let-out-your-rage-in-healthy-productive-ways-1849619494)
 - [Lifehacker] [10 of the Biggest Acting Comebacks After a Scandal](https://lifehacker.com/10-of-the-biggest-acting-comebacks-after-a-scandal-1849614468)
 - [Dev.to/JS] [React Lifecycle Methods](https://dev.to/moazamdev/react-lifecycle-methods-379j)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Serverless Infrastructure, Backend and Frontend in one Package : SOMOD](https://dev.to/raaghu/serverless-infrastructure-backend-and-frontend-in-one-package-somod-22jl)
 - [Dev.to/JS] [How to Deploy MERN Application on Render.com, a Heroku Alternative](https://dev.to/jolenechong/how-to-deploy-mern-application-on-rendercom-a-heroku-alternative-kim)
 - [Dev.to/JS] [anyone who can mentor/ teach me reactjs?](https://dev.to/aakas/anyone-who-can-mentor-teach-me-reactjs-23mp)
-- [Dev.to/JS] [Upleveling my form component design ⬆️](https://dev.to/receter/upleveling-my-form-component-design-571n)
-- [Dev.to/JS] [Data Fetching for Live React Apps](https://dev.to/pazukunous/data-fetching-for-live-react-apps-39no)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
 - [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
 - [Lifehacker] [Jacob Batalon on Surviving High School and the Importance of Representation](https://lifehacker.com/jacob-batalon-on-surviving-high-school-and-the-importan-1849615446)
-- [Lifehacker] [What to Stock Up on Before You Get Sick, According to Reddit](https://lifehacker.com/what-to-stock-up-on-before-you-get-sick-according-to-r-1849615087)
-- [Lifehacker] [Caponata Is the Perfect Bridge Between Summer and Fall](https://lifehacker.com/caponata-is-the-perfect-bridge-between-summer-and-fall-1849613720)
-- [Lifehacker] [The Dos and Don&#39;t of Sending a Voice Message](https://lifehacker.com/the-dos-and-dont-of-sending-a-voice-message-1849613803)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Stock Up on Before You Get Sick, According to Reddit](https://lifehacker.com/what-to-stock-up-on-before-you-get-sick-according-to-r-1849615087)<!-- TECH-POSTS:END -->
 
 ---
 
