@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Serverless Infrastructure, Backend and Frontend in one Package : SOMOD](https://dev.to/raaghu/serverless-infrastructure-backend-and-frontend-in-one-package-somod-22jl)
+- [Dev.to/JS] [How to Deploy MERN Application on Render.com, a Heroku Alternative](https://dev.to/jolenechong/how-to-deploy-mern-application-on-rendercom-a-heroku-alternative-kim)
+- [Dev.to/JS] [anyone who can mentor/ teach me reactjs?](https://dev.to/aakas/anyone-who-can-mentor-teach-me-reactjs-23mp)
+- [Dev.to/JS] [Upleveling my form component design ⬆️](https://dev.to/receter/upleveling-my-form-component-design-571n)
 - [Dev.to/JS] [Data Fetching for Live React Apps](https://dev.to/pazukunous/data-fetching-for-live-react-apps-39no)
 - [Dev.to/JS] [My LFX Mentorship experience with OpenELB](https://dev.to/anuragpathak/my-lfx-mentorship-experience-with-openelb-4mhn)
 - [Dev.to/JS] [Memoji&#39;s as placeholder avatars](https://dev.to/alohe/memojis-as-placeholder-avatars-3bi)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best practices for Node.js](https://dev.to/yogitakadam14/best-practices-for-nodejs-2n85)
 - [Dev.to/JS] [Running NextJS with Bun](https://dev.to/dailydevtips1/running-nextjs-with-bun-2j46)
 - [Dev.to/JS] [Detect Operating System using HTML, CSS and JavaScript](https://dev.to/piyushpatil1243/detect-operating-system-using-html-css-and-javascript-40ak)
-- [Dev.to/JS] [🤖How to get the Spotify Refresh Token🚀🚀](https://dev.to/sabareh/how-to-get-the-spotify-refresh-token-176)
-- [Dev.to/JS] [How To Add Multiple Language Support In ReactJS](https://dev.to/jasurkurbanov/how-to-add-multiple-language-support-in-reactjs-1f39)
-- [Dev.to/JS] [Java Diploma Projects](https://dev.to/arunprakash142/java-diploma-projects-5cf9)
-- [Dev.to/JS] [What are &quot;scope&quot; and &quot;this&quot; keyword in JavaScript?](https://dev.to/yukio1o5/what-are-scope-and-this-keyword-in-javascript-1j18)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
