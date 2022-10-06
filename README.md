@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are &quot;scope&quot; and &quot;this&quot; keyword in JavaScript?](https://dev.to/yukio1o5/what-are-scope-and-this-keyword-in-javascript-1j18)
+- [Dev.to/JS] [Dev Journal: JS Error Propagation, TLS Intro, and JS Method Invocation](https://dev.to/jennifer_tieu/dev-journal-js-error-propagation-tls-intro-and-js-method-invocation-lap)
 - [Dev.to/JS] [How to Properly Setup Medusa Server For Local Development](https://dev.to/yinkakun/how-to-properly-setup-medusa-server-for-local-development-2nhl)
 - [Dev.to/JS] [Keeping track of React state with useContext&lpar;&rpar;](https://dev.to/kragon741/keeping-track-of-react-state-with-usecontext-27bo)
 - [Dev.to/JS] [CSS-in-JS for React: Linaria vs. Styled Components](https://dev.to/asayerio_techblog/css-in-js-for-react-linaria-vs-styled-components-1oa2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Contributors wanted](https://dev.to/nodart/contributors-wanted-6mg)
 - [Dev.to/JS] [How to optimize react rendering](https://dev.to/tayu78/how-to-optimize-react-rendering-33d5)
 - [Dev.to/JS] [Javascript arrays and array methods](https://dev.to/adebomiolusegun/javascript-arrays-and-array-methods-3288)
-- [Dev.to/JS] [REST API Best Practice for Developers.](https://dev.to/zipdemon/rest-api-best-practice-for-developers-4ndh)
-- [Dev.to/JS] [What is android? How you can create app for that?](https://dev.to/tiztechy/how-to-create-android-apps-without-coding-3k7o)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
