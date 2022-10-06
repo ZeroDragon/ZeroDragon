@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Let Out Your Rage in Healthy, Productive Ways](https://lifehacker.com/you-can-let-out-your-rage-in-healthy-productive-ways-1849619494)
+- [Lifehacker] [10 of the Biggest Acting Comebacks After a Scandal](https://lifehacker.com/10-of-the-biggest-acting-comebacks-after-a-scandal-1849614468)
 - [Dev.to/JS] [React Lifecycle Methods](https://dev.to/moazamdev/react-lifecycle-methods-379j)
 - [Dev.to/JS] [Awesome tools for Open Source Contribution](https://dev.to/surajondev/awesome-tools-for-open-source-contribution-36cm)
 - [Dev.to/JS] [The Duolingo Drag and Drop Quiz component.](https://dev.to/chinmaymhatre/the-duolingo-drag-and-drop-quiz-component-1g60)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Jacob Batalon on Surviving High School and the Importance of Representation](https://lifehacker.com/jacob-batalon-on-surviving-high-school-and-the-importan-1849615446)
 - [Lifehacker] [What to Stock Up on Before You Get Sick, According to Reddit](https://lifehacker.com/what-to-stock-up-on-before-you-get-sick-according-to-r-1849615087)
 - [Lifehacker] [Caponata Is the Perfect Bridge Between Summer and Fall](https://lifehacker.com/caponata-is-the-perfect-bridge-between-summer-and-fall-1849613720)
-- [Lifehacker] [The Dos and Don&#39;t of Sending a Voice Message](https://lifehacker.com/the-dos-and-dont-of-sending-a-voice-message-1849613803)
-- [Lifehacker] [13 of the Best Websites That Feel Like the Old Internet](https://lifehacker.com/13-of-the-best-websites-that-feel-like-the-old-internet-1849558609)
-- [Lifehacker] [All the Ways Real Estate Photography Tricks You](https://lifehacker.com/all-the-ways-real-estate-photography-tricks-you-1849614634)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Dos and Don&#39;t of Sending a Voice Message](https://lifehacker.com/the-dos-and-dont-of-sending-a-voice-message-1849613803)<!-- TECH-POSTS:END -->
 
 ---
 
