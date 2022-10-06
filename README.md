@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Properly Setup Medusa Server For Local Development](https://dev.to/yinkakun/how-to-properly-setup-medusa-server-for-local-development-2nhl)
+- [Dev.to/JS] [Keeping track of React state with useContext&lpar;&rpar;](https://dev.to/kragon741/keeping-track-of-react-state-with-usecontext-27bo)
 - [Dev.to/JS] [CSS-in-JS for React: Linaria vs. Styled Components](https://dev.to/asayerio_techblog/css-in-js-for-react-linaria-vs-styled-components-1oa2)
 - [Dev.to/JS] [Deep Linking in React Native apps](https://dev.to/asayerio_techblog/deep-linking-in-react-native-apps-44b6)
 - [Dev.to/JS] [🔴 Build Instagram Clone using Django, HTML &amp; CSS - Tutorial](https://dev.to/desphixs/build-instagram-clone-using-django-html-css-tutorial-40gm)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [REST API Best Practice for Developers.](https://dev.to/zipdemon/rest-api-best-practice-for-developers-4ndh)
 - [Dev.to/JS] [What is android? How you can create app for that?](https://dev.to/tiztechy/how-to-create-android-apps-without-coding-3k7o)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
-- [Dev.to/JS] [Collision detection in 2D game development with JavaScript](https://dev.to/ahmadcod/collision-detection-in-2d-game-development-with-javascript-47ao)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
-- [Dev.to/JS] [Free Online Courses - October 5, 2022](https://dev.to/theprogramminbuddyclub/free-online-courses-october-5-2022-13b1)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
 - [Lifehacker] [Add Soy Sauce to Your Baked Goods](https://lifehacker.com/add-soy-sauce-to-your-baked-goods-1849620534)
 - [Lifehacker] [How to Cope With Mental Health Struggles When Treatment Isn&#39;t Accessible](https://lifehacker.com/how-to-cope-with-mental-health-struggles-when-treatment-1849618055)
