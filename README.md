@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Add Multiple Language Support In ReactJS](https://dev.to/jasurkurbanov/how-to-add-multiple-language-support-in-reactjs-1f39)
+- [Dev.to/JS] [Java Diploma Projects](https://dev.to/arunprakash142/java-diploma-projects-5cf9)
 - [Dev.to/JS] [What are &quot;scope&quot; and &quot;this&quot; keyword in JavaScript?](https://dev.to/yukio1o5/what-are-scope-and-this-keyword-in-javascript-1j18)
 - [Dev.to/JS] [Dev Journal: JS Error Propagation, TLS Intro, and JS Method Invocation](https://dev.to/jennifer_tieu/dev-journal-js-error-propagation-tls-intro-and-js-method-invocation-lap)
 - [Dev.to/JS] [How to Properly Setup Medusa Server For Local Development](https://dev.to/yinkakun/how-to-properly-setup-medusa-server-for-local-development-2nhl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to effortlessly implement client-side routing with ReactJS using React Router v6](https://dev.to/jaredm/how-to-effortlessly-implement-client-side-routing-with-reactjs-using-react-router-v6-32b4)
 - [Dev.to/JS] [How I updated my open source plugin from JQUERY to plain JS](https://dev.to/oriongunning/how-i-updated-my-open-source-plugin-from-jquery-to-plain-js-18o4)
 - [Dev.to/JS] [Contributors wanted](https://dev.to/nodart/contributors-wanted-6mg)
-- [Dev.to/JS] [How to optimize react rendering](https://dev.to/tayu78/how-to-optimize-react-rendering-33d5)
-- [Dev.to/JS] [Javascript arrays and array methods](https://dev.to/adebomiolusegun/javascript-arrays-and-array-methods-3288)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
