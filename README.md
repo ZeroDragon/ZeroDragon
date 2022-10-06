@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Serverless maintenance page w/ Cloudflare](https://dev.to/oleghalin/serverless-maintenance-page-w-cloudflare-2enc)
+- [Lifehacker] [What You Should Do Now to Prepare Your Car for Winter](https://lifehacker.com/what-you-should-do-now-to-prepare-your-car-for-winter-1849625229)
+- [Dev.to/JS] [The 10 essential frontend developer skills that you will need to know in 2023.](https://dev.to/imakashrana/the-10-essential-frontend-developer-skills-that-you-will-need-to-know-in-2023-34n6)
+- [Lifehacker] [Is the Pixel 7 Pro Worth $300 More Than the Pixel 7?](https://lifehacker.com/is-the-pixel-7-pro-worth-300-more-than-the-pixel-7-1849624470)
 - [Lifehacker] [You Should Start Soup Season With This Garlic Mayo Soup](https://lifehacker.com/you-should-start-soup-season-with-this-garlic-mayo-soup-1849624990)
 - [Dev.to/JS] [Check if an Object has a Property &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/check-if-an-object-has-a-property-freecodecamp-notes-h2h)
 - [Lifehacker] [Here’s How Effective Those Teeth-Whitening Products Actually Are](https://lifehacker.com/here-s-how-effective-those-teeth-whitening-products-act-1849625435)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arrow functions](https://dev.to/stali1234/arrow-functions-4cne)
 - [Dev.to/JS] [High-level overview of Javascript](https://dev.to/shubhamku044/high-level-overview-of-javascript-em8)
 - [Lifehacker] [The Perfect Number of Dating App Conversations You Should Have at Once](https://lifehacker.com/the-perfect-number-of-dating-app-conversations-you-shou-1849620078)
-- [Dev.to/JS] [Stop/Restart Requests When User Is Inactive using Angular, RxJS, and Page Visibility API](https://dev.to/nightwolfdev/stoprestart-requests-when-user-is-inactive-using-angular-rxjs-and-page-visibility-api-acm)
 - [Lifehacker] [How to Choose the Right Microwave, Because They&#39;re More Different Than You Think](https://lifehacker.com/how-to-choose-the-right-microwave-because-theyre-more-1849619590)
-- [Dev.to/JS] [Exploring Vue 3’s reactivity: ref and watchEffect](https://dev.to/huytaquoc/exploring-frontend-frameworks-internals-part-2-vue-3s-reactivity-2482)
 - [Lifehacker] [You Can Let Out Your Rage in Healthy, Productive Ways](https://lifehacker.com/you-can-let-out-your-rage-in-healthy-productive-ways-1849619494)
 - [Lifehacker] [10 of the Biggest Acting Comebacks After a Scandal](https://lifehacker.com/10-of-the-biggest-acting-comebacks-after-a-scandal-1849614468)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
 - [Lifehacker] [How &#39;Safe&#39; &lpar;and Private&rpar; Is BeReal?](https://lifehacker.com/how-safe-and-private-is-bereal-1849618865)
 - [Lifehacker] [This Is How to Safely Preserve Pumpkins With Bleach](https://lifehacker.com/this-is-how-to-safely-preserve-pumpkins-with-bleach-1849616721)
-- [Lifehacker] [14 of the Best Horror Movies for Couples](https://lifehacker.com/14-of-the-best-horror-movies-for-couples-1849617039)
-- [Lifehacker] [How Much It Costs to Raise a Child After Inflation](https://lifehacker.com/how-much-it-costs-to-raise-a-child-after-inflation-1849617580)
-- [Lifehacker] [What Are Stability Shoes, and Do They Really Matter?](https://lifehacker.com/what-are-stability-shoes-and-do-they-really-matter-1849615594)<!-- TECH-POSTS:END -->
+- [Lifehacker] [14 of the Best Horror Movies for Couples](https://lifehacker.com/14-of-the-best-horror-movies-for-couples-1849617039)<!-- TECH-POSTS:END -->
 
 ---
 
