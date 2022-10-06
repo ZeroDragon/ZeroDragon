@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)
+- [Dev.to/JS] [THE LIFE OF THE KING](https://dev.to/sefini_steph/the-life-of-the-king-5n3)
+- [Dev.to/JS] [javascrip code not running](https://dev.to/yobraking/javascrip-code-not-running-5doe)
+- [Lifehacker] [Is It Really Illegal to Have Sex in Public?](https://lifehacker.com/is-it-really-illegal-to-have-sex-in-public-1849626585)
+- [Dev.to/JS] [You may not need an SQL query builder or ORM](https://dev.to/newbie012/you-may-not-need-an-sql-query-builder-or-orm-5e2d)
 - [Lifehacker] [You Should Make Handheld Salad Bites With Endive](https://lifehacker.com/you-should-make-handheld-salad-bites-with-endive-1849626390)
 - [Dev.to/JS] [JavaScript Arrays vs Objects](https://dev.to/acesif/javascript-arrays-vs-objects-303i)
 - [Dev.to/JS] [How to Add a Blog to Your Ionic App With ButterCMS](https://dev.to/jakelumetta/how-to-add-a-blog-to-your-ionic-app-with-buttercms-2ipa)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [That Text From the ‘IRS’ Is a Scam](https://lifehacker.com/that-text-from-the-irs-is-a-scam-1849625108)
 - [Dev.to/JS] [Airbrake&#39;s Advice on Which PaaS App is Right For Your React Project](https://dev.to/airbrake/airbrakes-advice-on-which-paas-app-is-right-for-your-react-project-79k)
 - [Lifehacker] [Five Cheap and Easy Ways to Organize Your Home Workshop](https://lifehacker.com/five-cheap-and-easy-ways-to-organize-your-home-workshop-1849621670)
-- [Dev.to/JS] [Sort Colors - Sort 0,1,2](https://dev.to/zeeshanali0704/sort-colors-sort-012-ed6)
-- [Dev.to/JS] [Dolphin Chat is here....](https://dev.to/liftoffstudios/dolphin-chat-is-here-2e1)
 - [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)
-- [Dev.to/JS] [Paracetamol.js💊| #187: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-187-explica-este-codigo-javascript-550a)
 - [Lifehacker] [Make a Punchy Vinaigrette With Canned Pumpkin](https://lifehacker.com/make-a-punchy-vinaigrette-with-canned-pumpkin-1849622070)
 - [Lifehacker] [The Perfect Number of Dating App Conversations You Should Have at Once](https://lifehacker.com/the-perfect-number-of-dating-app-conversations-you-shou-1849620078)
 - [Lifehacker] [How to Choose the Right Microwave, Because They&#39;re More Different Than You Think](https://lifehacker.com/how-to-choose-the-right-microwave-because-theyre-more-1849619590)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Bathroom Decor Looks Outdated](https://lifehacker.com/your-bathroom-decor-looks-outdated-1849614234)
 - [Lifehacker] [You Should Double-Fry Your Chicken](https://lifehacker.com/you-should-double-fry-your-chicken-1849619630)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Running?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-running-1849619485)
-- [Lifehacker] [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)
-- [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
-- [Lifehacker] [How &#39;Safe&#39; &lpar;and Private&rpar; Is BeReal?](https://lifehacker.com/how-safe-and-private-is-bereal-1849618865)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)<!-- TECH-POSTS:END -->
 
 ---
 
