@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I updated my open source plugin from JQUERY to plain JS](https://dev.to/oriongunning/how-i-updated-my-open-source-plugin-from-jquery-to-plain-js-18o4)
+- [Dev.to/JS] [Contributors wanted](https://dev.to/nodart/contributors-wanted-6mg)
+- [Dev.to/JS] [How to optimize react rendering](https://dev.to/tayu78/how-to-optimize-react-rendering-33d5)
 - [Dev.to/JS] [Javascript arrays and array methods](https://dev.to/adebomiolusegun/javascript-arrays-and-array-methods-3288)
-- [Dev.to/JS] [REST API Best Practice for Developers.](https://dev.to/kelechidivine/rest-api-best-practice-for-developers-4ndh)
+- [Dev.to/JS] [REST API Best Practice for Developers.](https://dev.to/zipdemon/rest-api-best-practice-for-developers-4ndh)
 - [Dev.to/JS] [What is android? How you can create app for that?](https://dev.to/tiztechy/how-to-create-android-apps-without-coding-3k7o)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Dev.to/JS] [Collision detection in 2D game development with JavaScript](https://dev.to/ahmadcod/collision-detection-in-2d-game-development-with-javascript-47ao)
@@ -40,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Thread Counts Are Made of Lies](https://lifehacker.com/thread-counts-are-made-of-lies-1849620461)
 - [Lifehacker] [Crocs Is Giving Out Free Shoes for &#39;Croctober&#39;](https://lifehacker.com/crocs-is-giving-out-free-shoes-for-croctober-1849620050)
 - [Lifehacker] [The States With the Best and Worst Roads](https://lifehacker.com/the-states-with-the-best-and-worst-roads-1849619986)
-- [Dev.to/JS] [Building a Portfolio Website with React and ButterCMS](https://dev.to/jakelumetta/building-a-portfolio-website-with-react-and-buttercms-339d)
 - [Lifehacker] [Your Bathroom Decor Looks Outdated](https://lifehacker.com/your-bathroom-decor-looks-outdated-1849614234)
 - [Lifehacker] [You Should Double-Fry Your Chicken](https://lifehacker.com/you-should-double-fry-your-chicken-1849619630)
-- [Dev.to/JS] [JavaScript forEach&lpar;&rpar; vs map&lpar;&rpar; &amp; flatMap&lpar;&rpar;](https://dev.to/murillonahvs/javascript-foreach-vs-map-flatmap-5ca4)
-- [Dev.to/JS] [Reverse Only Letters](https://dev.to/zeeshanali0704/reverse-only-letters-45gj)
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Running?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-running-1849619485)
 - [Lifehacker] [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)
 - [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
