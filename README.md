@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)
+- [Dev.to/JS] [Paracetamol.js💊| #187: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-187-explica-este-codigo-javascript-550a)
+- [Lifehacker] [Make a Punchy Vinaigrette With Canned Pumpkin](https://lifehacker.com/make-a-punchy-vinaigrette-with-canned-pumpkin-1849622070)
+- [Dev.to/JS] [Arrow function variation in javascript.](https://dev.to/stali1234/arrow-function-variation-in-javascript-l64)
+- [Dev.to/JS] [Arrow functions](https://dev.to/stali1234/arrow-functions-4cne)
+- [Dev.to/JS] [High-level overview of Javascript](https://dev.to/shubhamku044/high-level-overview-of-javascript-em8)
 - [Lifehacker] [The Perfect Number of Dating App Conversations You Should Have at Once](https://lifehacker.com/the-perfect-number-of-dating-app-conversations-you-shou-1849620078)
 - [Dev.to/JS] [Stop/Restart Requests When User Is Inactive using Angular, RxJS, and Page Visibility API](https://dev.to/nightwolfdev/stoprestart-requests-when-user-is-inactive-using-angular-rxjs-and-page-visibility-api-acm)
 - [Lifehacker] [How to Choose the Right Microwave, Because They&#39;re More Different Than You Think](https://lifehacker.com/how-to-choose-the-right-microwave-because-theyre-more-1849619590)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with MapLibre GL JS](https://dev.to/olacampuspune/getting-started-with-maplibre-gl-js-gjl)
 - [Dev.to/JS] [What Does a Full Stack Developer Do When Building a Website?](https://dev.to/xnaksdn/what-does-a-full-stack-developer-do-when-building-a-website-11k2)
 - [Dev.to/JS] [Top Websites To Learn ReactJS - mujeeb0147](https://dev.to/knowledgefromtwitter/top-websites-to-learn-reactjs-mujeeb0147-6d0)
-- [Dev.to/JS] [Reference sample: Single Page App connected to Microsoft 365](https://dev.to/waldekmastykarz/reference-sample-single-page-app-connected-to-microsoft-365-17mp)
-- [Dev.to/JS] [Serverless Infrastructure, Backend and Frontend in one Package : SOMOD](https://dev.to/raaghu/serverless-infrastructure-backend-and-frontend-in-one-package-somod-22jl)
-- [Dev.to/JS] [How to Deploy MERN Application on Render.com, a Heroku Alternative](https://dev.to/jolenechong/how-to-deploy-mern-application-on-rendercom-a-heroku-alternative-kim)
-- [Dev.to/JS] [anyone who can mentor/ teach me reactjs?](https://dev.to/aakas/anyone-who-can-mentor-teach-me-reactjs-23mp)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Leftover Pesto Looking Fresh and Green](https://lifehacker.com/how-to-keep-leftover-pesto-looking-fresh-and-green-1849616498)
 - [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
 - [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
-- [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)
-- [Lifehacker] [Jacob Batalon on Surviving High School and the Importance of Representation](https://lifehacker.com/jacob-batalon-on-surviving-high-school-and-the-importan-1849615446)
-- [Lifehacker] [What to Stock Up on Before You Get Sick, According to Reddit](https://lifehacker.com/what-to-stock-up-on-before-you-get-sick-according-to-r-1849615087)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)<!-- TECH-POSTS:END -->
 
 ---
 
