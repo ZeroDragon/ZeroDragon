@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Duolingo Drag and Drop Quiz component.](https://dev.to/chinmaymhatre/the-duolingo-drag-and-drop-quiz-component-1g60)
 - [Dev.to/JS] [Getting Started with MapLibre GL JS](https://dev.to/olacampuspune/getting-started-with-maplibre-gl-js-gjl)
 - [Dev.to/JS] [What Does a Full Stack Developer Do When Building a Website?](https://dev.to/xnaksdn/what-does-a-full-stack-developer-do-when-building-a-website-11k2)
 - [Dev.to/JS] [Top Websites To Learn ReactJS - mujeeb0147](https://dev.to/knowledgefromtwitter/top-websites-to-learn-reactjs-mujeeb0147-6d0)
+- [Dev.to/JS] [Reference sample: Single Page App connected to Microsoft 365](https://dev.to/waldekmastykarz/reference-sample-single-page-app-connected-to-microsoft-365-17mp)
 - [Dev.to/JS] [Serverless Infrastructure, Backend and Frontend in one Package : SOMOD](https://dev.to/raaghu/serverless-infrastructure-backend-and-frontend-in-one-package-somod-22jl)
 - [Dev.to/JS] [How to Deploy MERN Application on Render.com, a Heroku Alternative](https://dev.to/jolenechong/how-to-deploy-mern-application-on-rendercom-a-heroku-alternative-kim)
 - [Dev.to/JS] [anyone who can mentor/ teach me reactjs?](https://dev.to/aakas/anyone-who-can-mentor-teach-me-reactjs-23mp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Fetching for Live React Apps](https://dev.to/pazukunous/data-fetching-for-live-react-apps-39no)
 - [Dev.to/JS] [My LFX Mentorship experience with OpenELB](https://dev.to/anuragpathak/my-lfx-mentorship-experience-with-openelb-4mhn)
 - [Dev.to/JS] [Memoji&#39;s as placeholder avatars](https://dev.to/alohe/memojis-as-placeholder-avatars-3bi)
-- [Dev.to/JS] [Adding an .env file to React Project](https://dev.to/mittal69353530/adding-an-env-file-to-react-project-nc7)
-- [Dev.to/JS] [How to call loading function with React useEffect only once](https://dev.to/mittal69353530/how-to-call-loading-function-with-react-useeffect-only-once-2kil)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
