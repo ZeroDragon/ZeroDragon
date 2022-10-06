@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running NextJS with Bun](https://dev.to/dailydevtips1/running-nextjs-with-bun-2j46)
 - [Dev.to/JS] [Detect Operating System using HTML, CSS and JavaScript](https://dev.to/piyushpatil1243/detect-operating-system-using-html-css-and-javascript-40ak)
 - [Dev.to/JS] [🤖How to get the Spotify Refresh Token🚀🚀](https://dev.to/sabareh/how-to-get-the-spotify-refresh-token-176)
 - [Dev.to/JS] [How To Add Multiple Language Support In ReactJS](https://dev.to/jasurkurbanov/how-to-add-multiple-language-support-in-reactjs-1f39)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CSS-in-JS for React: Linaria vs. Styled Components](https://dev.to/asayerio_techblog/css-in-js-for-react-linaria-vs-styled-components-1oa2)
 - [Dev.to/JS] [Deep Linking in React Native apps](https://dev.to/asayerio_techblog/deep-linking-in-react-native-apps-44b6)
 - [Dev.to/JS] [🔴 Build Instagram Clone using Django, HTML &amp; CSS - Tutorial](https://dev.to/desphixs/build-instagram-clone-using-django-html-css-tutorial-40gm)
-- [Dev.to/JS] [How to effortlessly implement client-side routing with ReactJS using React Router v6](https://dev.to/jaredm/how-to-effortlessly-implement-client-side-routing-with-reactjs-using-react-router-v6-32b4)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
