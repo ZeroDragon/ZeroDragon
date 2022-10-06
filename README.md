@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HacktoberFest: Week 1](https://dev.to/ririio/hacktoberfest-week-1-218e)
+- [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
+- [Dev.to/JS] [Knowing Better About Git](https://dev.to/genne23v/knowing-better-about-git-357n)
+- [Dev.to/JS] [Creating an interactive SVG map on the web](https://dev.to/yakovlev_alexey/creating-an-interactive-svg-map-on-the-web-2d64)
+- [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
 - [Dev.to/JS] [Bare minimum setup on VSCode to work on TS/JS projects](https://dev.to/brenoalves/bare-minimum-setup-on-vscode-to-work-on-tsjs-projects-jeh)
 - [Lifehacker] [How to Find the Holy Grail, and 8 Other Lost Treasures](https://lifehacker.com/how-to-find-the-holy-grail-and-8-other-lost-treasures-1849626387)
 - [Lifehacker] [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The 10 essential frontend developer skills that you will need to know in 2023.](https://dev.to/imakashrana/the-10-essential-frontend-developer-skills-that-you-will-need-to-know-in-2023-34n6)
 - [Lifehacker] [Is the Pixel 7 Pro Worth $300 More Than the Pixel 7?](https://lifehacker.com/is-the-pixel-7-pro-worth-300-more-than-the-pixel-7-1849624470)
 - [Lifehacker] [You Should Start Soup Season With This Garlic Mayo Soup](https://lifehacker.com/you-should-start-soup-season-with-this-garlic-mayo-soup-1849624990)
-- [Dev.to/JS] [Check if an Object has a Property &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/check-if-an-object-has-a-property-freecodecamp-notes-h2h)
 - [Lifehacker] [Here’s How Effective Those Teeth-Whitening Products Actually Are](https://lifehacker.com/here-s-how-effective-those-teeth-whitening-products-act-1849625435)
-- [Dev.to/JS] [Let&#39;s build a video calling app! - Part One](https://dev.to/arnellebalane/lets-build-a-video-calling-app-part-one-2ggl)
-- [Dev.to/JS] [Understanding Hoisting in JavaScript](https://dev.to/neeraj1997dev/understanding-hoisting-in-javascript-65h)
 - [Lifehacker] [That Text From the ‘IRS’ Is a Scam](https://lifehacker.com/that-text-from-the-irs-is-a-scam-1849625108)
 - [Lifehacker] [Five Cheap and Easy Ways to Organize Your Home Workshop](https://lifehacker.com/five-cheap-and-easy-ways-to-organize-your-home-workshop-1849621670)
 - [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Thread Counts Are Made of Lies](https://lifehacker.com/thread-counts-are-made-of-lies-1849620461)
 - [Lifehacker] [Crocs Is Giving Out Free Shoes for &#39;Croctober&#39;](https://lifehacker.com/crocs-is-giving-out-free-shoes-for-croctober-1849620050)
 - [Lifehacker] [The States With the Best and Worst Roads](https://lifehacker.com/the-states-with-the-best-and-worst-roads-1849619986)
-- [Lifehacker] [Your Bathroom Decor Looks Outdated](https://lifehacker.com/your-bathroom-decor-looks-outdated-1849614234)
-- [Lifehacker] [You Should Double-Fry Your Chicken](https://lifehacker.com/you-should-double-fry-your-chicken-1849619630)
-- [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Running?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-running-1849619485)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Bathroom Decor Looks Outdated](https://lifehacker.com/your-bathroom-decor-looks-outdated-1849614234)<!-- TECH-POSTS:END -->
 
 ---
 
