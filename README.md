@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bare minimum setup on VSCode to work on TS/JS projects](https://dev.to/brenoalves/bare-minimum-setup-on-vscode-to-work-on-tsjs-projects-jeh)
+- [Lifehacker] [How to Find the Holy Grail, and 8 Other Lost Treasures](https://lifehacker.com/how-to-find-the-holy-grail-and-8-other-lost-treasures-1849626387)
 - [Lifehacker] [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)
 - [Dev.to/JS] [THE LIFE OF THE KING](https://dev.to/sefini_steph/the-life-of-the-king-5n3)
 - [Dev.to/JS] [javascrip code not running](https://dev.to/yobraking/javascrip-code-not-running-5doe)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s build a video calling app! - Part One](https://dev.to/arnellebalane/lets-build-a-video-calling-app-part-one-2ggl)
 - [Dev.to/JS] [Understanding Hoisting in JavaScript](https://dev.to/neeraj1997dev/understanding-hoisting-in-javascript-65h)
 - [Lifehacker] [That Text From the ‘IRS’ Is a Scam](https://lifehacker.com/that-text-from-the-irs-is-a-scam-1849625108)
-- [Dev.to/JS] [Airbrake&#39;s Advice on Which PaaS App is Right For Your React Project](https://dev.to/airbrake/airbrakes-advice-on-which-paas-app-is-right-for-your-react-project-79k)
 - [Lifehacker] [Five Cheap and Easy Ways to Organize Your Home Workshop](https://lifehacker.com/five-cheap-and-easy-ways-to-organize-your-home-workshop-1849621670)
 - [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)
 - [Lifehacker] [Make a Punchy Vinaigrette With Canned Pumpkin](https://lifehacker.com/make-a-punchy-vinaigrette-with-canned-pumpkin-1849622070)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The States With the Best and Worst Roads](https://lifehacker.com/the-states-with-the-best-and-worst-roads-1849619986)
 - [Lifehacker] [Your Bathroom Decor Looks Outdated](https://lifehacker.com/your-bathroom-decor-looks-outdated-1849614234)
 - [Lifehacker] [You Should Double-Fry Your Chicken](https://lifehacker.com/you-should-double-fry-your-chicken-1849619630)
-- [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Running?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-running-1849619485)
-- [Lifehacker] [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Running?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-running-1849619485)<!-- TECH-POSTS:END -->
 
 ---
 
