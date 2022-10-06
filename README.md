@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS-in-JS for React: Linaria vs. Styled Components](https://dev.to/asayerio_techblog/css-in-js-for-react-linaria-vs-styled-components-1oa2)
+- [Dev.to/JS] [Deep Linking in React Native apps](https://dev.to/asayerio_techblog/deep-linking-in-react-native-apps-44b6)
+- [Dev.to/JS] [🔴 Build Instagram Clone using Django, HTML &amp; CSS - Tutorial](https://dev.to/desphixs/build-instagram-clone-using-django-html-css-tutorial-40gm)
+- [Dev.to/JS] [How to effortlessly implement client-side routing with ReactJS using React Router v6](https://dev.to/jaredm/how-to-effortlessly-implement-client-side-routing-with-reactjs-using-react-router-v6-32b4)
 - [Dev.to/JS] [How I updated my open source plugin from JQUERY to plain JS](https://dev.to/oriongunning/how-i-updated-my-open-source-plugin-from-jquery-to-plain-js-18o4)
 - [Dev.to/JS] [Contributors wanted](https://dev.to/nodart/contributors-wanted-6mg)
 - [Dev.to/JS] [How to optimize react rendering](https://dev.to/tayu78/how-to-optimize-react-rendering-33d5)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Dev.to/JS] [Free Online Courses - October 5, 2022](https://dev.to/theprogramminbuddyclub/free-online-courses-october-5-2022-13b1)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
-- [Dev.to/JS] [Representing missing values](https://dev.to/joshuaamaju/representing-missing-values-9bl)
 - [Lifehacker] [Add Soy Sauce to Your Baked Goods](https://lifehacker.com/add-soy-sauce-to-your-baked-goods-1849620534)
-- [Dev.to/JS] [Everything You Need to Know About JavaScript Import Maps](https://dev.to/honeybadger/everything-you-need-to-know-about-javascript-import-maps-cnd)
 - [Lifehacker] [How to Cope With Mental Health Struggles When Treatment Isn&#39;t Accessible](https://lifehacker.com/how-to-cope-with-mental-health-struggles-when-treatment-1849618055)
-- [Dev.to/JS] [JIT vs AOT](https://dev.to/cyberdelahoz95/jit-vs-aot-71c)
-- [Dev.to/JS] [Simple way to add custom context menus to web pages.](https://dev.to/andreygermanov/simple-way-to-add-custom-context-menus-to-web-pages-10lc)
 - [Lifehacker] [Thread Counts Are Made of Lies](https://lifehacker.com/thread-counts-are-made-of-lies-1849620461)
 - [Lifehacker] [Crocs Is Giving Out Free Shoes for &#39;Croctober&#39;](https://lifehacker.com/crocs-is-giving-out-free-shoes-for-croctober-1849620050)
 - [Lifehacker] [The States With the Best and Worst Roads](https://lifehacker.com/the-states-with-the-best-and-worst-roads-1849619986)
