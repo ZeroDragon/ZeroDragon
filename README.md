@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the diffence between var, let and const?](https://dev.to/frantchessico/what-is-the-diffence-between-var-let-and-const-2a)
+- [Dev.to/JS] [Basics of useState hook: How to use it and Where to put it?](https://dev.to/emilyfernschild/basics-of-usestate-hook-how-to-use-it-and-where-to-put-it-3gj9)
+- [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 - [Dev.to/JS] [HacktoberFest: Week 1](https://dev.to/ririio/hacktoberfest-week-1-218e)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Dev.to/JS] [Knowing Better About Git](https://dev.to/genne23v/knowing-better-about-git-357n)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add a Blog to Your Ionic App With ButterCMS](https://dev.to/jakelumetta/how-to-add-a-blog-to-your-ionic-app-with-buttercms-2ipa)
 - [Lifehacker] [Here’s How Often You Should Clean Your Personal Workout Equipment](https://lifehacker.com/here-s-how-often-you-should-clean-your-personal-workout-1849625452)
 - [Dev.to/JS] [Javascript and Rails API!](https://dev.to/kianajade42/javascript-and-rails-api-223m)
-- [Dev.to/JS] [Serverless maintenance page w/ Cloudflare](https://dev.to/oleghalin/serverless-maintenance-page-w-cloudflare-2enc)
 - [Lifehacker] [What You Should Do Now to Prepare Your Car for Winter](https://lifehacker.com/what-you-should-do-now-to-prepare-your-car-for-winter-1849625229)
-- [Dev.to/JS] [The 10 essential frontend developer skills that you will need to know in 2023.](https://dev.to/imakashrana/the-10-essential-frontend-developer-skills-that-you-will-need-to-know-in-2023-34n6)
 - [Lifehacker] [Is the Pixel 7 Pro Worth $300 More Than the Pixel 7?](https://lifehacker.com/is-the-pixel-7-pro-worth-300-more-than-the-pixel-7-1849624470)
 - [Lifehacker] [You Should Start Soup Season With This Garlic Mayo Soup](https://lifehacker.com/you-should-start-soup-season-with-this-garlic-mayo-soup-1849624990)
 - [Lifehacker] [Here’s How Effective Those Teeth-Whitening Products Actually Are](https://lifehacker.com/here-s-how-effective-those-teeth-whitening-products-act-1849625435)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Cope With Mental Health Struggles When Treatment Isn&#39;t Accessible](https://lifehacker.com/how-to-cope-with-mental-health-struggles-when-treatment-1849618055)
 - [Lifehacker] [Thread Counts Are Made of Lies](https://lifehacker.com/thread-counts-are-made-of-lies-1849620461)
 - [Lifehacker] [Crocs Is Giving Out Free Shoes for &#39;Croctober&#39;](https://lifehacker.com/crocs-is-giving-out-free-shoes-for-croctober-1849620050)
-- [Lifehacker] [The States With the Best and Worst Roads](https://lifehacker.com/the-states-with-the-best-and-worst-roads-1849619986)
-- [Lifehacker] [Your Bathroom Decor Looks Outdated](https://lifehacker.com/your-bathroom-decor-looks-outdated-1849614234)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The States With the Best and Worst Roads](https://lifehacker.com/the-states-with-the-best-and-worst-roads-1849619986)<!-- TECH-POSTS:END -->
 
 ---
 
