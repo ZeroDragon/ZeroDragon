@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [That Text From the ‘IRS’ Is a Scam](https://lifehacker.com/that-text-from-the-irs-is-a-scam-1849625108)
+- [Dev.to/JS] [Airbrake&#39;s Advice on Which PaaS App is Right For Your React Project](https://dev.to/airbrake/airbrakes-advice-on-which-paas-app-is-right-for-your-react-project-79k)
+- [Lifehacker] [Five Cheap and Easy Ways to Organize Your Home Workshop](https://lifehacker.com/five-cheap-and-easy-ways-to-organize-your-home-workshop-1849621670)
+- [Dev.to/JS] [Sort Colors - Sort 0,1,2](https://dev.to/zeeshanali0704/sort-colors-sort-012-ed6)
+- [Dev.to/JS] [Dolphin Chat is here....](https://dev.to/liftoffstudios/dolphin-chat-is-here-2e1)
 - [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)
 - [Dev.to/JS] [Paracetamol.js💊| #187: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-187-explica-este-codigo-javascript-550a)
 - [Lifehacker] [Make a Punchy Vinaigrette With Canned Pumpkin](https://lifehacker.com/make-a-punchy-vinaigrette-with-canned-pumpkin-1849622070)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Lifecycle Methods](https://dev.to/moazamdev/react-lifecycle-methods-379j)
 - [Dev.to/JS] [Awesome tools for Open Source Contribution](https://dev.to/surajondev/awesome-tools-for-open-source-contribution-36cm)
 - [Dev.to/JS] [The Duolingo Drag and Drop Quiz component.](https://dev.to/chinmaymhatre/the-duolingo-drag-and-drop-quiz-component-1g60)
-- [Dev.to/JS] [Getting Started with MapLibre GL JS](https://dev.to/olacampuspune/getting-started-with-maplibre-gl-js-gjl)
-- [Dev.to/JS] [What Does a Full Stack Developer Do When Building a Website?](https://dev.to/xnaksdn/what-does-a-full-stack-developer-do-when-building-a-website-11k2)
-- [Dev.to/JS] [Top Websites To Learn ReactJS - mujeeb0147](https://dev.to/knowledgefromtwitter/top-websites-to-learn-reactjs-mujeeb0147-6d0)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much It Costs to Raise a Child After Inflation](https://lifehacker.com/how-much-it-costs-to-raise-a-child-after-inflation-1849617580)
 - [Lifehacker] [What Are Stability Shoes, and Do They Really Matter?](https://lifehacker.com/what-are-stability-shoes-and-do-they-really-matter-1849615594)
 - [Lifehacker] [How to Keep Leftover Pesto Looking Fresh and Green](https://lifehacker.com/how-to-keep-leftover-pesto-looking-fresh-and-green-1849616498)
-- [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
-- [Lifehacker] [When Is It Too Late to Freeze Your Eggs?](https://lifehacker.com/when-is-it-too-late-to-freeze-your-eggs-1849615758)
-- [Lifehacker] [10 of the Most Stunning Places to See Fall Foliage in the US](https://lifehacker.com/10-of-the-most-stunning-places-to-see-fall-foliage-in-t-1849613027)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)<!-- TECH-POSTS:END -->
 
 ---
 
