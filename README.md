@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Make Handheld Salad Bites With Endive](https://lifehacker.com/you-should-make-handheld-salad-bites-with-endive-1849626390)
+- [Dev.to/JS] [JavaScript Arrays vs Objects](https://dev.to/acesif/javascript-arrays-vs-objects-303i)
+- [Dev.to/JS] [How to Add a Blog to Your Ionic App With ButterCMS](https://dev.to/jakelumetta/how-to-add-a-blog-to-your-ionic-app-with-buttercms-2ipa)
+- [Lifehacker] [Here’s How Often You Should Clean Your Personal Workout Equipment](https://lifehacker.com/here-s-how-often-you-should-clean-your-personal-workout-1849625452)
+- [Dev.to/JS] [Javascript and Rails API!](https://dev.to/kianajade42/javascript-and-rails-api-223m)
 - [Dev.to/JS] [Serverless maintenance page w/ Cloudflare](https://dev.to/oleghalin/serverless-maintenance-page-w-cloudflare-2enc)
 - [Lifehacker] [What You Should Do Now to Prepare Your Car for Winter](https://lifehacker.com/what-you-should-do-now-to-prepare-your-car-for-winter-1849625229)
 - [Dev.to/JS] [The 10 essential frontend developer skills that you will need to know in 2023.](https://dev.to/imakashrana/the-10-essential-frontend-developer-skills-that-you-will-need-to-know-in-2023-34n6)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)
 - [Dev.to/JS] [Paracetamol.js💊| #187: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-187-explica-este-codigo-javascript-550a)
 - [Lifehacker] [Make a Punchy Vinaigrette With Canned Pumpkin](https://lifehacker.com/make-a-punchy-vinaigrette-with-canned-pumpkin-1849622070)
-- [Dev.to/JS] [Arrow function variation in javascript.](https://dev.to/stali1234/arrow-function-variation-in-javascript-l64)
-- [Dev.to/JS] [Arrow functions](https://dev.to/stali1234/arrow-functions-4cne)
-- [Dev.to/JS] [High-level overview of Javascript](https://dev.to/shubhamku044/high-level-overview-of-javascript-em8)
 - [Lifehacker] [The Perfect Number of Dating App Conversations You Should Have at Once](https://lifehacker.com/the-perfect-number-of-dating-app-conversations-you-shou-1849620078)
 - [Lifehacker] [How to Choose the Right Microwave, Because They&#39;re More Different Than You Think](https://lifehacker.com/how-to-choose-the-right-microwave-because-theyre-more-1849619590)
 - [Lifehacker] [You Can Let Out Your Rage in Healthy, Productive Ways](https://lifehacker.com/you-can-let-out-your-rage-in-healthy-productive-ways-1849619494)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Heel-Toe Drop, and Does It Matter for Running?](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-running-1849619485)
 - [Lifehacker] [How to Fix the Wireless Charging on Your Pixel](https://lifehacker.com/how-to-fix-the-wireless-charging-on-your-pixel-1849619126)
 - [Lifehacker] [These Are the Safest and Most Walkable Cities for Halloween](https://lifehacker.com/these-are-the-safest-and-most-walkable-cities-for-hallo-1849618935)
-- [Lifehacker] [How &#39;Safe&#39; &lpar;and Private&rpar; Is BeReal?](https://lifehacker.com/how-safe-and-private-is-bereal-1849618865)
-- [Lifehacker] [This Is How to Safely Preserve Pumpkins With Bleach](https://lifehacker.com/this-is-how-to-safely-preserve-pumpkins-with-bleach-1849616721)
-- [Lifehacker] [14 of the Best Horror Movies for Couples](https://lifehacker.com/14-of-the-best-horror-movies-for-couples-1849617039)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How &#39;Safe&#39; &lpar;and Private&rpar; Is BeReal?](https://lifehacker.com/how-safe-and-private-is-bereal-1849618865)<!-- TECH-POSTS:END -->
 
 ---
 
