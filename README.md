@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Lifecycle Methods](https://dev.to/moazamdev/react-lifecycle-methods-379j)
+- [Dev.to/JS] [Awesome tools for Open Source Contribution](https://dev.to/surajondev/awesome-tools-for-open-source-contribution-36cm)
 - [Dev.to/JS] [The Duolingo Drag and Drop Quiz component.](https://dev.to/chinmaymhatre/the-duolingo-drag-and-drop-quiz-component-1g60)
 - [Dev.to/JS] [Getting Started with MapLibre GL JS](https://dev.to/olacampuspune/getting-started-with-maplibre-gl-js-gjl)
 - [Dev.to/JS] [What Does a Full Stack Developer Do When Building a Website?](https://dev.to/xnaksdn/what-does-a-full-stack-developer-do-when-building-a-website-11k2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [anyone who can mentor/ teach me reactjs?](https://dev.to/aakas/anyone-who-can-mentor-teach-me-reactjs-23mp)
 - [Dev.to/JS] [Upleveling my form component design ⬆️](https://dev.to/receter/upleveling-my-form-component-design-571n)
 - [Dev.to/JS] [Data Fetching for Live React Apps](https://dev.to/pazukunous/data-fetching-for-live-react-apps-39no)
-- [Dev.to/JS] [My LFX Mentorship experience with OpenELB](https://dev.to/anuragpathak/my-lfx-mentorship-experience-with-openelb-4mhn)
-- [Dev.to/JS] [Memoji&#39;s as placeholder avatars](https://dev.to/alohe/memojis-as-placeholder-avatars-3bi)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
