@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Start Soup Season With This Garlic Mayo Soup](https://lifehacker.com/you-should-start-soup-season-with-this-garlic-mayo-soup-1849624990)
+- [Dev.to/JS] [Check if an Object has a Property &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/check-if-an-object-has-a-property-freecodecamp-notes-h2h)
+- [Lifehacker] [Here’s How Effective Those Teeth-Whitening Products Actually Are](https://lifehacker.com/here-s-how-effective-those-teeth-whitening-products-act-1849625435)
+- [Dev.to/JS] [Let&#39;s build a video calling app! - Part One](https://dev.to/arnellebalane/lets-build-a-video-calling-app-part-one-2ggl)
+- [Dev.to/JS] [Understanding Hoisting in JavaScript](https://dev.to/neeraj1997dev/understanding-hoisting-in-javascript-65h)
 - [Lifehacker] [That Text From the ‘IRS’ Is a Scam](https://lifehacker.com/that-text-from-the-irs-is-a-scam-1849625108)
 - [Dev.to/JS] [Airbrake&#39;s Advice on Which PaaS App is Right For Your React Project](https://dev.to/airbrake/airbrakes-advice-on-which-paas-app-is-right-for-your-react-project-79k)
 - [Lifehacker] [Five Cheap and Easy Ways to Organize Your Home Workshop](https://lifehacker.com/five-cheap-and-easy-ways-to-organize-your-home-workshop-1849621670)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Vue 3’s reactivity: ref and watchEffect](https://dev.to/huytaquoc/exploring-frontend-frameworks-internals-part-2-vue-3s-reactivity-2482)
 - [Lifehacker] [You Can Let Out Your Rage in Healthy, Productive Ways](https://lifehacker.com/you-can-let-out-your-rage-in-healthy-productive-ways-1849619494)
 - [Lifehacker] [10 of the Biggest Acting Comebacks After a Scandal](https://lifehacker.com/10-of-the-biggest-acting-comebacks-after-a-scandal-1849614468)
-- [Dev.to/JS] [React Lifecycle Methods](https://dev.to/moazamdev/react-lifecycle-methods-379j)
-- [Dev.to/JS] [Awesome tools for Open Source Contribution](https://dev.to/surajondev/awesome-tools-for-open-source-contribution-36cm)
-- [Dev.to/JS] [The Duolingo Drag and Drop Quiz component.](https://dev.to/chinmaymhatre/the-duolingo-drag-and-drop-quiz-component-1g60)
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How to Safely Preserve Pumpkins With Bleach](https://lifehacker.com/this-is-how-to-safely-preserve-pumpkins-with-bleach-1849616721)
 - [Lifehacker] [14 of the Best Horror Movies for Couples](https://lifehacker.com/14-of-the-best-horror-movies-for-couples-1849617039)
 - [Lifehacker] [How Much It Costs to Raise a Child After Inflation](https://lifehacker.com/how-much-it-costs-to-raise-a-child-after-inflation-1849617580)
-- [Lifehacker] [What Are Stability Shoes, and Do They Really Matter?](https://lifehacker.com/what-are-stability-shoes-and-do-they-really-matter-1849615594)
-- [Lifehacker] [How to Keep Leftover Pesto Looking Fresh and Green](https://lifehacker.com/how-to-keep-leftover-pesto-looking-fresh-and-green-1849616498)
-- [Lifehacker] [How to Launder Money Like a Criminal](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Are Stability Shoes, and Do They Really Matter?](https://lifehacker.com/what-are-stability-shoes-and-do-they-really-matter-1849615594)<!-- TECH-POSTS:END -->
 
 ---
 
