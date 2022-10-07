@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [no-signup online text collaboration , how to keep safe easier](https://dev.to/tanrunhao/no-signup-online-text-collaboration-how-to-keep-safe-easier-347i)
+- [Dev.to/JS] [Migrating my Gatsby MDX blog to AstroJS &lpar;and why you shouldn&#39;t&rpar;](https://dev.to/whoisryosuke/migrating-my-gatsby-mdx-blog-to-astrojs-and-why-you-shouldnt-5cei)
 - [Dev.to/JS] [A beginner&#39;s attempt at fetch&lpar;&rpar; and a crash-course on browser cache](https://dev.to/sassek70/a-beginners-attempt-at-fetch-and-a-crash-course-on-browser-cache-4k08)
 - [Dev.to/JS] [ASM.JS &amp; SIMD.JS - Awesome JavaScript performance](https://dev.to/vipert/asmjs-simdjs-awesome-javascript-performance-3k7e)
 - [Dev.to/JS] [Building a custom file upload component for Vue](https://dev.to/asayerio_techblog/building-a-custom-file-upload-component-for-vue-59b5)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Knowing Better About Git](https://dev.to/genne23v/knowing-better-about-git-357n)
 - [Dev.to/JS] [Creating an interactive SVG map on the web](https://dev.to/yakovlev_alexey/creating-an-interactive-svg-map-on-the-web-2d64)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
-- [Dev.to/JS] [Bare minimum setup on VSCode to work on TS/JS projects](https://dev.to/brenoalves/bare-minimum-setup-on-vscode-to-work-on-tsjs-projects-jeh)
 - [Lifehacker] [How to Find the Holy Grail, and 8 Other Lost Treasures](https://lifehacker.com/how-to-find-the-holy-grail-and-8-other-lost-treasures-1849626387)
 - [Lifehacker] [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)
-- [Dev.to/JS] [THE LIFE OF THE KING](https://dev.to/sefini_steph/the-life-of-the-king-5n3)
 - [Lifehacker] [Is It Really Illegal to Have Sex in Public?](https://lifehacker.com/is-it-really-illegal-to-have-sex-in-public-1849626585)
 - [Lifehacker] [You Should Make Handheld Salad Bites With Endive](https://lifehacker.com/you-should-make-handheld-salad-bites-with-endive-1849626390)
 - [Lifehacker] [Here’s How Often You Should Clean Your Personal Workout Equipment](https://lifehacker.com/here-s-how-often-you-should-clean-your-personal-workout-1849625452)
