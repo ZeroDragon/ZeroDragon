@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Actually Helps Get Rid of a Hickey &lpar;and What Makes It Worse&rpar;](https://lifehacker.com/what-actually-helps-get-rid-of-a-hickey-and-what-makes-1849626619)
+- [Dev.to/JS] [XSS: Problem with letting users upload SVG](https://dev.to/tusharshahi/xss-problem-with-letting-users-upload-svg-1ga8)
+- [Dev.to/JS] [Ikaria Lean Belly Juice - Weight Loss Reviews, Pros, Cons, Benefits And Side Effects?](https://dev.to/ikarialeanbel10/ikaria-lean-belly-juice-weight-loss-reviews-pros-cons-benefits-and-side-effects-448i)
+- [Dev.to/JS] [What is React Routing? from a react-newbie.](https://dev.to/sharozijaz/what-is-react-routing-from-a-react-newbie-nbb)
+- [Dev.to/JS] [Uploading files to image server using ImageKit and Multer in MERN stack](https://dev.to/4x3l3r8/uploading-files-to-image-server-using-imagekit-and-multer-in-mern-stack-4caa)
+- [Lifehacker] [Everything You Need to Know About the Google Pixel Watch](https://lifehacker.com/everything-you-need-to-know-about-the-google-pixel-watc-1849624469)
+- [Dev.to/JS] [Buscador de imágenes con React JS - React Query 🔋](https://dev.to/franklin030601/buscador-de-imagenes-con-react-js-react-query-1m6f)
+- [Dev.to/JS] [Understanding Async &amp; Await](https://dev.to/maximization/understanding-async-await-22o6)
+- [Dev.to/JS] [Image search engine with React JS - React Query 🔋](https://dev.to/franklin030601/image-search-engine-with-react-js-react-query-39)
+- [Dev.to/JS] [REST APIs - How To Connect Your React App Like The Pros &lpar;Incl Detailed Example&rpar;](https://dev.to/profydev/rest-apis-how-to-connect-your-react-app-like-the-pros-incl-detailed-example-4hb8)
+- [Dev.to/JS] [learn react, creat alert combile tailwindcss.](https://dev.to/suandedev/learn-react-creat-alert-combile-tailwindcss-3fpk)
 - [Lifehacker] [Please Don&#39;t Put Cooking Spray in Your Air Fryer](https://lifehacker.com/please-dont-put-cooking-spray-in-your-air-fryer-1849626915)
 - [Dev.to/JS] [Building A Custom File Upload Component For Vue](https://dev.to/ogurinkaben/building-a-custom-file-upload-component-for-vue-2a98)
 - [Crazy Programmer] [9 Best Codecademy Alternatives 2022](https://www.thecrazyprogrammer.com/2022/10/codecademy-alternatives.html)
 - [Dev.to/JS] [Top 10 trending github repos of the week💛.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-2l8b)
 - [Dev.to/JS] [Dynamic forms with validation React + Formik](https://dev.to/pauldumebi/dynamic-forms-with-validation-react-formik-22dc)
-- [Dev.to/JS] [Coach App with Next.js &amp; Supabase in 56 minutes](https://dev.to/guillaumeduhan/coach-app-with-nextjs-supabase-in-56-minutes-5g5b)
-- [Dev.to/JS] [Essential Skills Every Full-Stack Developer Should Know](https://dev.to/xnaksdn/essential-skills-every-full-stack-developer-should-know-di7)
-- [Dev.to/JS] [Help to build a language for developing full-stack web apps with no boilerplate](https://dev.to/wasp/help-to-build-a-language-for-developing-full-stack-web-apps-with-no-boilerplate-205p)
-- [Dev.to/JS] [Crown Clothing Web Store](https://dev.to/uzomanwanne/crown-clothing-web-store-fng)
-- [Dev.to/JS] [Say &quot;var&quot;, &quot;let&quot; or &quot;const&quot; again...](https://dev.to/jonrandy/say-var-let-or-const-again-32a9)
-- [Dev.to/JS] [Extending Emmet and VS Code — and discovering 415 CSS properties](https://dev.to/madsstoumann/extending-emmet-and-vs-code-and-discovering-415-css-properties-1dfo)
-- [Dev.to/JS] [Null ใน JavaScript](https://dev.to/witwoywhy/null-ain-javascript-1hke)
-- [Dev.to/JS] [Gradient Card](https://dev.to/prayas/gradient-card-97j)
-- [Dev.to/JS] [The check of the Rhino JavaScript engine or how the unicorn met the rhino](https://dev.to/unicorn_developer/the-check-of-the-rhino-javascript-engine-or-how-the-unicorn-met-the-rhino-3mkf)
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
 - [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
-- [Lifehacker] [Add Soy Sauce to Your Baked Goods](https://lifehacker.com/add-soy-sauce-to-your-baked-goods-1849620534)
-- [Lifehacker] [How to Cope With Mental Health Struggles When Treatment Isn&#39;t Accessible](https://lifehacker.com/how-to-cope-with-mental-health-struggles-when-treatment-1849618055)
-- [Lifehacker] [Thread Counts Are Made of Lies](https://lifehacker.com/thread-counts-are-made-of-lies-1849620461)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Add Soy Sauce to Your Baked Goods](https://lifehacker.com/add-soy-sauce-to-your-baked-goods-1849620534)<!-- TECH-POSTS:END -->
 
 ---
 
