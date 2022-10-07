@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [String Compression](https://dev.to/zeeshanali0704/string-compression-4kme)
 - [Dev.to/JS] [no-signup online text collaboration , how to keep safe easier](https://dev.to/tanrunhao/no-signup-online-text-collaboration-how-to-keep-safe-easier-347i)
 - [Dev.to/JS] [Migrating my Gatsby MDX blog to AstroJS &lpar;and why you shouldn&#39;t&rpar;](https://dev.to/whoisryosuke/migrating-my-gatsby-mdx-blog-to-astrojs-and-why-you-shouldnt-5cei)
 - [Dev.to/JS] [A beginner&#39;s attempt at fetch&lpar;&rpar; and a crash-course on browser cache](https://dev.to/sassek70/a-beginners-attempt-at-fetch-and-a-crash-course-on-browser-cache-4k08)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HacktoberFest: Week 1](https://dev.to/ririio/hacktoberfest-week-1-218e)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Dev.to/JS] [Knowing Better About Git](https://dev.to/genne23v/knowing-better-about-git-357n)
-- [Dev.to/JS] [Creating an interactive SVG map on the web](https://dev.to/yakovlev_alexey/creating-an-interactive-svg-map-on-the-web-2d64)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
 - [Lifehacker] [How to Find the Holy Grail, and 8 Other Lost Treasures](https://lifehacker.com/how-to-find-the-holy-grail-and-8-other-lost-treasures-1849626387)
 - [Lifehacker] [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)
