@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Child Might Actually Have a Math Learning Disorder](https://lifehacker.com/your-child-might-actually-have-a-math-learning-disorder-1849627701)
+- [Dev.to/JS] [Google Cloud Ready Facilitator Program &lpar;GCRF&#39;22&rpar;](https://dev.to/abhishe89636035/google-cloud-ready-facilitator-program-gcrf22-4kip)
+- [Dev.to/JS] [Use React Context for Auth](https://dev.to/dayvster/use-react-context-for-auth-288g)
+- [Lifehacker] [How Your Guilt Can Actually Help You](https://lifehacker.com/how-your-guilt-can-actually-help-you-1849630252)
+- [Dev.to/JS] [Simplifying your File Archive code with Google Cloud Storage Metadata](https://dev.to/mjoycemilburn/simplifying-your-file-archive-code-with-google-cloud-storage-metadata-40ai)
+- [Dev.to/JS] [Use tsx instead of nodemon](https://dev.to/rennycat/use-tsx-instead-of-nodemon-4lh3)
 - [Lifehacker] [The Best Time to Carve Your Pumpkin so It&#39;s Not Rotten on Halloween](https://lifehacker.com/the-best-time-to-carve-your-pumpkin-so-its-not-rotten-o-1849624529)
-- [Dev.to/JS] [A Beginner Guide on How to Use the Vim Editor on Linux or Mac](https://dev.to/kennibravo/a-beginner-guide-on-how-to-use-the-vim-editor-on-linux-or-mac-2oc6)
 - [Dev.to/JS] [30-Day React Learning Journey! [part 1]](https://dev.to/ymhaah/30-day-react-learning-journey-part-1-14od)
 - [Lifehacker] [How to Pull Off the &#39;Hidden Kitchen&#39; Trend](https://lifehacker.com/how-to-pull-off-the-hidden-kitchen-trend-1849628983)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Lil Yachty in Poland?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-l-1849628637)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buscador de imágenes con React JS - React Query 🔋](https://dev.to/franklin030601/buscador-de-imagenes-con-react-js-react-query-1m6f)
 - [Dev.to/JS] [Understanding Async &amp; Await](https://dev.to/maximization/understanding-async-await-22o6)
 - [Dev.to/JS] [Image search engine with React JS - React Query 🔋](https://dev.to/franklin030601/image-search-engine-with-react-js-react-query-39)
-- [Dev.to/JS] [REST APIs - How To Connect Your React App Like The Pros &lpar;Incl Detailed Example&rpar;](https://dev.to/profydev/rest-apis-how-to-connect-your-react-app-like-the-pros-incl-detailed-example-4hb8)
-- [Dev.to/JS] [learn react, creat alert combile tailwindcss.](https://dev.to/suandedev/learn-react-creat-alert-combile-tailwindcss-3fpk)
 - [Lifehacker] [Please Don&#39;t Put Cooking Spray in Your Air Fryer](https://lifehacker.com/please-dont-put-cooking-spray-in-your-air-fryer-1849626915)
-- [Dev.to/JS] [Building A Custom File Upload Component For Vue](https://dev.to/ogurinkaben/building-a-custom-file-upload-component-for-vue-2a98)
 - [Crazy Programmer] [9 Best Codecademy Alternatives 2022](https://www.thecrazyprogrammer.com/2022/10/codecademy-alternatives.html)
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)
 - [Lifehacker] [Make a Punchy Vinaigrette With Canned Pumpkin](https://lifehacker.com/make-a-punchy-vinaigrette-with-canned-pumpkin-1849622070)
 - [Lifehacker] [The Perfect Number of Dating App Conversations You Should Have at Once](https://lifehacker.com/the-perfect-number-of-dating-app-conversations-you-shou-1849620078)
-- [Lifehacker] [How to Choose the Right Microwave, Because They&#39;re More Different Than You Think](https://lifehacker.com/how-to-choose-the-right-microwave-because-theyre-more-1849619590)
-- [Lifehacker] [You Can Let Out Your Rage in Healthy, Productive Ways](https://lifehacker.com/you-can-let-out-your-rage-in-healthy-productive-ways-1849619494)
-- [Lifehacker] [10 of the Biggest Acting Comebacks After a Scandal](https://lifehacker.com/10-of-the-biggest-acting-comebacks-after-a-scandal-1849614468)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose the Right Microwave, Because They&#39;re More Different Than You Think](https://lifehacker.com/how-to-choose-the-right-microwave-because-theyre-more-1849619590)<!-- TECH-POSTS:END -->
 
 ---
 
