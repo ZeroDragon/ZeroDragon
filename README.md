@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Always Have Plumber&#39;s Putty](https://lifehacker.com/why-you-should-always-have-plumbers-putty-1849630955)
+- [Dev.to/JS] [JavaScript Objects](https://dev.to/stali1234/javascript-objects-18p)
+- [Dev.to/JS] [About react](https://dev.to/myeshwanth559/about-react-3ejb)
+- [Lifehacker] [The Real Difference Between the ‘Apocalypse,’ ‘Armageddon,’ and ‘Doomsday’](https://lifehacker.com/the-real-difference-between-the-apocalypse-armagedd-1849631390)
+- [Dev.to/JS] [My GitHub Sponsors profile is live! You can sponsor me to support my open source work 💖](https://dev.to/theankansaha/my-github-sponsors-profile-is-live-you-can-sponsor-me-to-support-my-open-source-work-45kh)
+- [Lifehacker] [Why You Shouldn&#39;t Pay for Anything With Zelle](https://lifehacker.com/why-you-shouldnt-pay-for-anything-with-zelle-1849631440)
+- [Dev.to/JS] [PATCHing nested JSON data in a react application](https://dev.to/pjparham/patching-nested-json-data-in-a-react-application-2glm)
 - [Dev.to/JS] [Automate GitHub Actions Node Version](https://dev.to/nalanj/automate-github-actions-node-version-37io)
 - [Dev.to/JS] [I Turned My Startup Into Open-Source](https://dev.to/nevodavid/i-turned-my-startup-into-open-source-4efh)
 - [Dev.to/JS] [The Rising Coder - Week 6/13 &lpar;Backend Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-613-backend-week-23-4i68)
@@ -34,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rethink React: Is it still a good library?](https://dev.to/maxam2017/rethink-react-is-it-still-a-good-library-28oc)
 - [Dev.to/JS] [What&#39;s New in Angular 14? Here Are the Highlights](https://dev.to/imakashrana/whats-new-in-angular-14-here-are-the-highlights-2lek)
 - [Lifehacker] [The Overlooked &lpar;but Serious&rpar; Symptoms of Menopause](https://lifehacker.com/the-overlooked-but-serious-symptoms-of-menopause-1849628794)
-- [Dev.to/JS] [Day17 of Coding Challenge - Hashing.Energy](https://dev.to/yoot/day17-of-coding-challenge-hashingenergy-22bj)
-- [Dev.to/JS] [Cloudflare Turnstile plugin for Deno Fresh &lpar;p1&rpar;](https://dev.to/khuongduybui/cloudflare-turnstile-plugin-for-deno-fresh-3ph0)
 - [Lifehacker] [Your Child Might Actually Have a Math Learning Disorder](https://lifehacker.com/your-child-might-actually-have-a-math-learning-disorder-1849627701)
-- [Dev.to/JS] [Google Cloud Ready Facilitator Program &lpar;GCRF&#39;22&rpar;](https://dev.to/abhishe89636035/google-cloud-ready-facilitator-program-gcrf22-4kip)
-- [Dev.to/JS] [Use React Context for Auth](https://dev.to/dayvster/use-react-context-for-auth-288g)
 - [Lifehacker] [How Your Guilt Can Actually Help You](https://lifehacker.com/how-your-guilt-can-actually-help-you-1849630252)
 - [Lifehacker] [The Best Time to Carve Your Pumpkin so It&#39;s Not Rotten on Halloween](https://lifehacker.com/the-best-time-to-carve-your-pumpkin-so-its-not-rotten-o-1849624529)
 - [Lifehacker] [How to Pull Off the &#39;Hidden Kitchen&#39; Trend](https://lifehacker.com/how-to-pull-off-the-hidden-kitchen-trend-1849628983)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should Do Now to Prepare Your Car for Winter](https://lifehacker.com/what-you-should-do-now-to-prepare-your-car-for-winter-1849625229)
 - [Lifehacker] [Is the Pixel 7 Pro Worth $300 More Than the Pixel 7?](https://lifehacker.com/is-the-pixel-7-pro-worth-300-more-than-the-pixel-7-1849624470)
 - [Lifehacker] [You Should Start Soup Season With This Garlic Mayo Soup](https://lifehacker.com/you-should-start-soup-season-with-this-garlic-mayo-soup-1849624990)
-- [Lifehacker] [Here’s How Effective Those Teeth-Whitening Products Actually Are](https://lifehacker.com/here-s-how-effective-those-teeth-whitening-products-act-1849625435)
-- [Lifehacker] [That Text From the ‘IRS’ Is a Scam](https://lifehacker.com/that-text-from-the-irs-is-a-scam-1849625108)
-- [Lifehacker] [Five Cheap and Easy Ways to Organize Your Home Workshop](https://lifehacker.com/five-cheap-and-easy-ways-to-organize-your-home-workshop-1849621670)
-- [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s How Effective Those Teeth-Whitening Products Actually Are](https://lifehacker.com/here-s-how-effective-those-teeth-whitening-products-act-1849625435)<!-- TECH-POSTS:END -->
 
 ---
 
