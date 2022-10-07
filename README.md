@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coach App with Next.js &amp; Supabase in 56 minutes](https://dev.to/guillaumeduhan/coach-app-with-nextjs-supabase-in-56-minutes-5g5b)
+- [Dev.to/JS] [Essential Skills Every Full-Stack Developer Should Know](https://dev.to/xnaksdn/essential-skills-every-full-stack-developer-should-know-di7)
+- [Dev.to/JS] [Help to build a language for developing full-stack web apps with no boilerplate](https://dev.to/wasp/help-to-build-a-language-for-developing-full-stack-web-apps-with-no-boilerplate-205p)
+- [Dev.to/JS] [Crown Clothing Web Store](https://dev.to/uzomanwanne/crown-clothing-web-store-fng)
 - [Dev.to/JS] [Say &quot;var&quot;, &quot;let&quot; or &quot;const&quot; again...](https://dev.to/jonrandy/say-var-let-or-const-again-32a9)
 - [Dev.to/JS] [Extending Emmet and VS Code — and discovering 415 CSS properties](https://dev.to/madsstoumann/extending-emmet-and-vs-code-and-discovering-415-css-properties-1dfo)
 - [Dev.to/JS] [Null ใน JavaScript](https://dev.to/witwoywhy/null-ain-javascript-1hke)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bun so far](https://dev.to/dailydevtips1/bun-so-far-5de4)
 - [Dev.to/JS] [How to check any property of State has any null value or not](https://dev.to/umasankarswain/how-to-check-any-property-of-state-has-any-null-value-or-not-2ngm)
 - [Dev.to/JS] [How JavaScript works? Execution Context...](https://dev.to/anuppal48672810/how-javascript-works-execution-context-442b)
-- [Dev.to/JS] [The Next Greater Element - I](https://dev.to/zeeshanali0704/the-next-greater-element-i-39l8)
-- [Dev.to/JS] [How To Get Array Length In VueJS](https://dev.to/techsolutionstuff/how-to-get-array-length-in-vuejs-3n6e)
-- [Dev.to/JS] [Completed 500 Followers on Dev.to in 3 month with 33 Post and more then 60k views](https://dev.to/devsimc/complete-500-followers-on-devto-in-3-month-with-33-post-and-more-then-60k-views-1g9o)
-- [Dev.to/JS] [String Compression](https://dev.to/zeeshanali0704/string-compression-4kme)
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
