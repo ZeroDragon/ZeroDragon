@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automate GitHub Actions Node Version](https://dev.to/nalanj/automate-github-actions-node-version-37io)
+- [Dev.to/JS] [I Turned My Startup Into Open-Source](https://dev.to/nevodavid/i-turned-my-startup-into-open-source-4efh)
+- [Dev.to/JS] [The Rising Coder - Week 6/13 &lpar;Backend Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-613-backend-week-23-4i68)
+- [Lifehacker] [12 of the Worst Biopics of All Time &lpar;and 12 to Watch Instead&rpar;](https://lifehacker.com/12-of-the-worst-biopics-of-all-time-and-12-to-watch-in-1849625166)
 - [Lifehacker] [The Twitter Bots Everyone Should Follow](https://lifehacker.com/the-twitter-bots-everyone-should-follow-1849630465)
 - [Dev.to/JS] [Schema-Fixer library](https://dev.to/gchumillas/schema-fixer-library-3fm0)
 - [Dev.to/JS] [MongoDB $weeklyUpdate #90 &lpar;October 7, 2022&rpar;: Mastering the Realm Web SDK and *Tons* of October Events!](https://dev.to/mongodb/mongodb-weeklyupdate-90-october-7-2022-mastering-the-realm-web-sdk-and-tons-of-october-events-bd0)
@@ -31,15 +35,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s New in Angular 14? Here Are the Highlights](https://dev.to/imakashrana/whats-new-in-angular-14-here-are-the-highlights-2lek)
 - [Lifehacker] [The Overlooked &lpar;but Serious&rpar; Symptoms of Menopause](https://lifehacker.com/the-overlooked-but-serious-symptoms-of-menopause-1849628794)
 - [Dev.to/JS] [Day17 of Coding Challenge - Hashing.Energy](https://dev.to/yoot/day17-of-coding-challenge-hashingenergy-22bj)
-- [Dev.to/JS] [Cloudflare Turnstile plugin for Deno Fresh](https://dev.to/khuongduybui/cloudflare-turnstile-plugin-for-deno-fresh-3ph0)
+- [Dev.to/JS] [Cloudflare Turnstile plugin for Deno Fresh &lpar;p1&rpar;](https://dev.to/khuongduybui/cloudflare-turnstile-plugin-for-deno-fresh-3ph0)
 - [Lifehacker] [Your Child Might Actually Have a Math Learning Disorder](https://lifehacker.com/your-child-might-actually-have-a-math-learning-disorder-1849627701)
 - [Dev.to/JS] [Google Cloud Ready Facilitator Program &lpar;GCRF&#39;22&rpar;](https://dev.to/abhishe89636035/google-cloud-ready-facilitator-program-gcrf22-4kip)
 - [Dev.to/JS] [Use React Context for Auth](https://dev.to/dayvster/use-react-context-for-auth-288g)
 - [Lifehacker] [How Your Guilt Can Actually Help You](https://lifehacker.com/how-your-guilt-can-actually-help-you-1849630252)
-- [Dev.to/JS] [Simplifying your File Archive code with Google Cloud Storage Metadata](https://dev.to/mjoycemilburn/simplifying-your-file-archive-code-with-google-cloud-storage-metadata-40ai)
-- [Dev.to/JS] [Use tsx instead of nodemon](https://dev.to/rennycat/use-tsx-instead-of-nodemon-4lh3)
 - [Lifehacker] [The Best Time to Carve Your Pumpkin so It&#39;s Not Rotten on Halloween](https://lifehacker.com/the-best-time-to-carve-your-pumpkin-so-its-not-rotten-o-1849624529)
-- [Dev.to/JS] [30-Day React Learning Journey! [part 1]](https://dev.to/ymhaah/30-day-react-learning-journey-part-1-14od)
 - [Lifehacker] [How to Pull Off the &#39;Hidden Kitchen&#39; Trend](https://lifehacker.com/how-to-pull-off-the-hidden-kitchen-trend-1849628983)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Lil Yachty in Poland?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-l-1849628637)
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Effective Those Teeth-Whitening Products Actually Are](https://lifehacker.com/here-s-how-effective-those-teeth-whitening-products-act-1849625435)
 - [Lifehacker] [That Text From the ‘IRS’ Is a Scam](https://lifehacker.com/that-text-from-the-irs-is-a-scam-1849625108)
 - [Lifehacker] [Five Cheap and Easy Ways to Organize Your Home Workshop](https://lifehacker.com/five-cheap-and-easy-ways-to-organize-your-home-workshop-1849621670)
-- [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)
-- [Lifehacker] [Make a Punchy Vinaigrette With Canned Pumpkin](https://lifehacker.com/make-a-punchy-vinaigrette-with-canned-pumpkin-1849622070)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Find the Best Neighborhood for Trick-or-Treating](https://lifehacker.com/how-to-find-the-best-neighborhood-for-trick-or-treating-1849622382)<!-- TECH-POSTS:END -->
 
 ---
 
