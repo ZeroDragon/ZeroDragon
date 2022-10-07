@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Next Greater Element - I](https://dev.to/zeeshanali0704/the-next-greater-element-i-39l8)
+- [Dev.to/JS] [How To Get Array Length In VueJS](https://dev.to/techsolutionstuff/how-to-get-array-length-in-vuejs-3n6e)
 - [Dev.to/JS] [Completed 500 Followers on Dev.to in 3 month with 33 Post and more then 60k views](https://dev.to/devsimc/complete-500-followers-on-devto-in-3-month-with-33-post-and-more-then-60k-views-1g9o)
 - [Dev.to/JS] [String Compression](https://dev.to/zeeshanali0704/string-compression-4kme)
 - [Dev.to/JS] [no-signup online text collaboration , how to keep safe easier](https://dev.to/tanrunhao/no-signup-online-text-collaboration-how-to-keep-safe-easier-347i)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript SEO best practices](https://dev.to/asayerio_techblog/javascript-seo-best-practices-2k5b)
 - [Dev.to/JS] [JavaScript: Module](https://dev.to/rosiequ/javascript-module-119n)
 - [Dev.to/JS] [What is the diffence between var, let and const?](https://dev.to/frantchessico/what-is-the-diffence-between-var-let-and-const-2a)
-- [Dev.to/JS] [Basics of useState hook: How to use it and Where to put it?](https://dev.to/emilyfernschild/basics-of-usestate-hook-how-to-use-it-and-where-to-put-it-3gj9)
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
-- [Dev.to/JS] [HacktoberFest: Week 1](https://dev.to/ririio/hacktoberfest-week-1-218e)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
 - [Lifehacker] [How to Find the Holy Grail, and 8 Other Lost Treasures](https://lifehacker.com/how-to-find-the-holy-grail-and-8-other-lost-treasures-1849626387)
