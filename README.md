@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a custom file upload component for Vue](https://dev.to/asayerio_techblog/building-a-custom-file-upload-component-for-vue-59b5)
+- [Dev.to/JS] [JavaScript SEO best practices](https://dev.to/asayerio_techblog/javascript-seo-best-practices-2k5b)
+- [Dev.to/JS] [JavaScript: Module](https://dev.to/rosiequ/javascript-module-119n)
 - [Dev.to/JS] [What is the diffence between var, let and const?](https://dev.to/frantchessico/what-is-the-diffence-between-var-let-and-const-2a)
 - [Dev.to/JS] [Basics of useState hook: How to use it and Where to put it?](https://dev.to/emilyfernschild/basics-of-usestate-hook-how-to-use-it-and-where-to-put-it-3gj9)
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is It Really Illegal to Have Sex in Public?](https://lifehacker.com/is-it-really-illegal-to-have-sex-in-public-1849626585)
 - [Dev.to/JS] [You may not need an SQL query builder or ORM](https://dev.to/newbie012/you-may-not-need-an-sql-query-builder-or-orm-5e2d)
 - [Lifehacker] [You Should Make Handheld Salad Bites With Endive](https://lifehacker.com/you-should-make-handheld-salad-bites-with-endive-1849626390)
-- [Dev.to/JS] [JavaScript Arrays vs Objects](https://dev.to/acesif/javascript-arrays-vs-objects-303i)
-- [Dev.to/JS] [How to Add a Blog to Your Ionic App With ButterCMS](https://dev.to/jakelumetta/how-to-add-a-blog-to-your-ionic-app-with-buttercms-2ipa)
 - [Lifehacker] [Here’s How Often You Should Clean Your Personal Workout Equipment](https://lifehacker.com/here-s-how-often-you-should-clean-your-personal-workout-1849625452)
-- [Dev.to/JS] [Javascript and Rails API!](https://dev.to/kianajade42/javascript-and-rails-api-223m)
 - [Lifehacker] [What You Should Do Now to Prepare Your Car for Winter](https://lifehacker.com/what-you-should-do-now-to-prepare-your-car-for-winter-1849625229)
 - [Lifehacker] [Is the Pixel 7 Pro Worth $300 More Than the Pixel 7?](https://lifehacker.com/is-the-pixel-7-pro-worth-300-more-than-the-pixel-7-1849624470)
 - [Lifehacker] [You Should Start Soup Season With This Garlic Mayo Soup](https://lifehacker.com/you-should-start-soup-season-with-this-garlic-mayo-soup-1849624990)
