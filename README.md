@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Please Don&#39;t Put Cooking Spray in Your Air Fryer](https://lifehacker.com/please-dont-put-cooking-spray-in-your-air-fryer-1849626915)
+- [Dev.to/JS] [Building A Custom File Upload Component For Vue](https://dev.to/ogurinkaben/building-a-custom-file-upload-component-for-vue-2a98)
+- [Crazy Programmer] [9 Best Codecademy Alternatives 2022](https://www.thecrazyprogrammer.com/2022/10/codecademy-alternatives.html)
+- [Dev.to/JS] [Top 10 trending github repos of the week💛.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-2l8b)
+- [Dev.to/JS] [Dynamic forms with validation React + Formik](https://dev.to/pauldumebi/dynamic-forms-with-validation-react-formik-22dc)
 - [Dev.to/JS] [Coach App with Next.js &amp; Supabase in 56 minutes](https://dev.to/guillaumeduhan/coach-app-with-nextjs-supabase-in-56-minutes-5g5b)
 - [Dev.to/JS] [Essential Skills Every Full-Stack Developer Should Know](https://dev.to/xnaksdn/essential-skills-every-full-stack-developer-should-know-di7)
 - [Dev.to/JS] [Help to build a language for developing full-stack web apps with no boilerplate](https://dev.to/wasp/help-to-build-a-language-for-developing-full-stack-web-apps-with-no-boilerplate-205p)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Null ใน JavaScript](https://dev.to/witwoywhy/null-ain-javascript-1hke)
 - [Dev.to/JS] [Gradient Card](https://dev.to/prayas/gradient-card-97j)
 - [Dev.to/JS] [The check of the Rhino JavaScript engine or how the unicorn met the rhino](https://dev.to/unicorn_developer/the-check-of-the-rhino-javascript-engine-or-how-the-unicorn-met-the-rhino-3mkf)
-- [Dev.to/JS] [Bun so far](https://dev.to/dailydevtips1/bun-so-far-5de4)
-- [Dev.to/JS] [How to check any property of State has any null value or not](https://dev.to/umasankarswain/how-to-check-any-property-of-state-has-any-null-value-or-not-2ngm)
-- [Dev.to/JS] [How JavaScript works? Execution Context...](https://dev.to/anuppal48672810/how-javascript-works-execution-context-442b)
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between a Collector and a Hoarder](https://lifehacker.com/the-difference-between-a-collector-and-a-hoarder-1849621016)
 - [Lifehacker] [Add Soy Sauce to Your Baked Goods](https://lifehacker.com/add-soy-sauce-to-your-baked-goods-1849620534)
 - [Lifehacker] [How to Cope With Mental Health Struggles When Treatment Isn&#39;t Accessible](https://lifehacker.com/how-to-cope-with-mental-health-struggles-when-treatment-1849618055)
-- [Lifehacker] [Thread Counts Are Made of Lies](https://lifehacker.com/thread-counts-are-made-of-lies-1849620461)
-- [Lifehacker] [Crocs Is Giving Out Free Shoes for &#39;Croctober&#39;](https://lifehacker.com/crocs-is-giving-out-free-shoes-for-croctober-1849620050)
-- [Lifehacker] [The States With the Best and Worst Roads](https://lifehacker.com/the-states-with-the-best-and-worst-roads-1849619986)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Thread Counts Are Made of Lies](https://lifehacker.com/thread-counts-are-made-of-lies-1849620461)<!-- TECH-POSTS:END -->
 
 ---
 
