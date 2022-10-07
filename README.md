@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Say &quot;var&quot;, &quot;let&quot; or &quot;const&quot; again...](https://dev.to/jonrandy/say-var-let-or-const-again-32a9)
+- [Dev.to/JS] [Extending Emmet and VS Code — and discovering 415 CSS properties](https://dev.to/madsstoumann/extending-emmet-and-vs-code-and-discovering-415-css-properties-1dfo)
+- [Dev.to/JS] [Null ใน JavaScript](https://dev.to/witwoywhy/null-ain-javascript-1hke)
 - [Dev.to/JS] [Gradient Card](https://dev.to/prayas/gradient-card-97j)
 - [Dev.to/JS] [The check of the Rhino JavaScript engine or how the unicorn met the rhino](https://dev.to/unicorn_developer/the-check-of-the-rhino-javascript-engine-or-how-the-unicorn-met-the-rhino-3mkf)
 - [Dev.to/JS] [Bun so far](https://dev.to/dailydevtips1/bun-so-far-5de4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Get Array Length In VueJS](https://dev.to/techsolutionstuff/how-to-get-array-length-in-vuejs-3n6e)
 - [Dev.to/JS] [Completed 500 Followers on Dev.to in 3 month with 33 Post and more then 60k views](https://dev.to/devsimc/complete-500-followers-on-devto-in-3-month-with-33-post-and-more-then-60k-views-1g9o)
 - [Dev.to/JS] [String Compression](https://dev.to/zeeshanali0704/string-compression-4kme)
-- [Dev.to/JS] [no-signup online text collaboration , how to keep safe easier](https://dev.to/tanrunhao/no-signup-online-text-collaboration-how-to-keep-safe-easier-347i)
-- [Dev.to/JS] [Migrating my Gatsby MDX blog to AstroJS &lpar;and why you shouldn&#39;t&rpar;](https://dev.to/whoisryosuke/migrating-my-gatsby-mdx-blog-to-astrojs-and-why-you-shouldnt-5cei)
-- [Dev.to/JS] [A beginner&#39;s attempt at fetch&lpar;&rpar; and a crash-course on browser cache](https://dev.to/sassek70/a-beginners-attempt-at-fetch-and-a-crash-course-on-browser-cache-4k08)
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
