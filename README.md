@@ -23,12 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Time to Carve Your Pumpkin so It&#39;s Not Rotten on Halloween](https://lifehacker.com/the-best-time-to-carve-your-pumpkin-so-its-not-rotten-o-1849624529)
+- [Dev.to/JS] [A Beginner Guide on How to Use the Vim Editor on Linux or Mac](https://dev.to/kennibravo/a-beginner-guide-on-how-to-use-the-vim-editor-on-linux-or-mac-2oc6)
+- [Dev.to/JS] [30-Day React Learning Journey! [part 1]](https://dev.to/ymhaah/30-day-react-learning-journey-part-1-14od)
+- [Lifehacker] [How to Pull Off the &#39;Hidden Kitchen&#39; Trend](https://lifehacker.com/how-to-pull-off-the-hidden-kitchen-trend-1849628983)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Lil Yachty in Poland?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-l-1849628637)
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
 - [Dev.to/JS] [Why I like to use Early Returns Pattern?](https://dev.to/malaquiasdev/why-i-like-to-use-early-returns-pattern-52b2)
 - [Lifehacker] [What Actually Helps Get Rid of a Hickey &lpar;and What Makes It Worse&rpar;](https://lifehacker.com/what-actually-helps-get-rid-of-a-hickey-and-what-makes-1849626619)
 - [Dev.to/JS] [XSS: Problem with letting users upload SVG](https://dev.to/tusharshahi/xss-problem-with-letting-users-upload-svg-1ga8)
-- [Dev.to/JS] [Ikaria Lean Belly Juice - Weight Loss Reviews, Pros, Cons, Benefits And Side Effects?](https://dev.to/ikarialeanbel10/ikaria-lean-belly-juice-weight-loss-reviews-pros-cons-benefits-and-side-effects-448i)
 - [Dev.to/JS] [What is React Routing? from a react-newbie.](https://dev.to/sharozijaz/what-is-react-routing-from-a-react-newbie-nbb)
 - [Dev.to/JS] [Uploading files to image server using ImageKit and Multer in MERN stack](https://dev.to/4x3l3r8/uploading-files-to-image-server-using-imagekit-and-multer-in-mern-stack-4caa)
 - [Lifehacker] [Everything You Need to Know About the Google Pixel Watch](https://lifehacker.com/everything-you-need-to-know-about-the-google-pixel-watc-1849624469)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Please Don&#39;t Put Cooking Spray in Your Air Fryer](https://lifehacker.com/please-dont-put-cooking-spray-in-your-air-fryer-1849626915)
 - [Dev.to/JS] [Building A Custom File Upload Component For Vue](https://dev.to/ogurinkaben/building-a-custom-file-upload-component-for-vue-2a98)
 - [Crazy Programmer] [9 Best Codecademy Alternatives 2022](https://www.thecrazyprogrammer.com/2022/10/codecademy-alternatives.html)
-- [Dev.to/JS] [Top 10 trending github repos of the week💛.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-2l8b)
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Perfect Number of Dating App Conversations You Should Have at Once](https://lifehacker.com/the-perfect-number-of-dating-app-conversations-you-shou-1849620078)
 - [Lifehacker] [How to Choose the Right Microwave, Because They&#39;re More Different Than You Think](https://lifehacker.com/how-to-choose-the-right-microwave-because-theyre-more-1849619590)
 - [Lifehacker] [You Can Let Out Your Rage in Healthy, Productive Ways](https://lifehacker.com/you-can-let-out-your-rage-in-healthy-productive-ways-1849619494)
-- [Lifehacker] [10 of the Biggest Acting Comebacks After a Scandal](https://lifehacker.com/10-of-the-biggest-acting-comebacks-after-a-scandal-1849614468)
-- [Lifehacker] [Don&#39;t Thaw Your Frozen Steak Before Cooking It](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
-- [Lifehacker] [Add These Food Holidays to Your Calendar to Get Free Food All Year](https://lifehacker.com/add-these-food-holidays-to-your-calendar-to-get-free-fo-1849621027)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Biggest Acting Comebacks After a Scandal](https://lifehacker.com/10-of-the-biggest-acting-comebacks-after-a-scandal-1849614468)<!-- TECH-POSTS:END -->
 
 ---
 
