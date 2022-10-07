@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
 - [Lifehacker] [Five Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/five-things-youre-not-cleaning-in-your-washing-machine-1849631969)
 - [Dev.to/JS] [A good reason to use React18: useSyncExternalStore](https://dev.to/air_choosy/a-good-reason-to-use-react18-usesyncexternalstore-3ind)
 - [Lifehacker] [13 of the Worst Breaches of Gym Etiquette, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is It Really Illegal to Have Sex in Public?](https://lifehacker.com/is-it-really-illegal-to-have-sex-in-public-1849626585)
 - [Lifehacker] [You Should Make Handheld Salad Bites With Endive](https://lifehacker.com/you-should-make-handheld-salad-bites-with-endive-1849626390)
 - [Lifehacker] [Here’s How Often You Should Clean Your Personal Workout Equipment](https://lifehacker.com/here-s-how-often-you-should-clean-your-personal-workout-1849625452)
-- [Lifehacker] [What You Should Do Now to Prepare Your Car for Winter](https://lifehacker.com/what-you-should-do-now-to-prepare-your-car-for-winter-1849625229)
-- [Lifehacker] [Is the Pixel 7 Pro Worth $300 More Than the Pixel 7?](https://lifehacker.com/is-the-pixel-7-pro-worth-300-more-than-the-pixel-7-1849624470)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What You Should Do Now to Prepare Your Car for Winter](https://lifehacker.com/what-you-should-do-now-to-prepare-your-car-for-winter-1849625229)<!-- TECH-POSTS:END -->
 
 ---
 
