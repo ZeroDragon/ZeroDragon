@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bun so far](https://dev.to/dailydevtips1/bun-so-far-5de4)
+- [Dev.to/JS] [How to check any property of State has any null value or not](https://dev.to/umasankarswain/how-to-check-any-property-of-state-has-any-null-value-or-not-2ngm)
+- [Dev.to/JS] [How JavaScript works? Execution Context...](https://dev.to/anuppal48672810/how-javascript-works-execution-context-442b)
 - [Dev.to/JS] [The Next Greater Element - I](https://dev.to/zeeshanali0704/the-next-greater-element-i-39l8)
 - [Dev.to/JS] [How To Get Array Length In VueJS](https://dev.to/techsolutionstuff/how-to-get-array-length-in-vuejs-3n6e)
 - [Dev.to/JS] [Completed 500 Followers on Dev.to in 3 month with 33 Post and more then 60k views](https://dev.to/devsimc/complete-500-followers-on-devto-in-3-month-with-33-post-and-more-then-60k-views-1g9o)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A beginner&#39;s attempt at fetch&lpar;&rpar; and a crash-course on browser cache](https://dev.to/sassek70/a-beginners-attempt-at-fetch-and-a-crash-course-on-browser-cache-4k08)
 - [Dev.to/JS] [ASM.JS &amp; SIMD.JS - Awesome JavaScript performance](https://dev.to/vipert/asmjs-simdjs-awesome-javascript-performance-3k7e)
 - [Dev.to/JS] [Building a custom file upload component for Vue](https://dev.to/asayerio_techblog/building-a-custom-file-upload-component-for-vue-59b5)
-- [Dev.to/JS] [JavaScript SEO best practices](https://dev.to/asayerio_techblog/javascript-seo-best-practices-2k5b)
-- [Dev.to/JS] [JavaScript: Module](https://dev.to/rosiequ/javascript-module-119n)
-- [Dev.to/JS] [What is the diffence between var, let and const?](https://dev.to/frantchessico/what-is-the-diffence-between-var-let-and-const-2a)
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
