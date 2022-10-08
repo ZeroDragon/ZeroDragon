@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Javascript] Performance of Set and Array](https://dev.to/nily/javascript-performance-of-set-and-array-7)
 - [Dev.to/JS] [Keto Flow Gummies Reviews:It is best supplement to weight loss!](https://dev.to/ketoflowgumm/keto-flow-gummies-reviewsit-is-best-supplement-to-weight-loss-59nl)
 - [Dev.to/JS] [lazy loading](https://dev.to/nikhilmasurkar/lazy-loading-2fcc)
 - [Dev.to/JS] [My portfolio is ready!!](https://dev.to/liftoffstudios/my-portfolio-is-ready-11cj)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
 - [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
 - [Lifehacker] [Five Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/five-things-youre-not-cleaning-in-your-washing-machine-1849631969)
-- [Dev.to/JS] [A good reason to use React18: useSyncExternalStore](https://dev.to/air_choosy/a-good-reason-to-use-react18-usesyncexternalstore-3ind)
 - [Lifehacker] [13 of the Worst Breaches of Gym Etiquette, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
 - [Lifehacker] [Why You Should Always Have Plumber&#39;s Putty](https://lifehacker.com/why-you-should-always-have-plumbers-putty-1849630955)
 - [Lifehacker] [The Real Difference Between the ‘Apocalypse,’ ‘Armageddon,’ and ‘Doomsday’](https://lifehacker.com/the-real-difference-between-the-apocalypse-armagedd-1849631390)
