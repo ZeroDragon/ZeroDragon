@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My portfolio is ready!!](https://dev.to/liftoffstudios/my-portfolio-is-ready-11cj)
+- [Dev.to/JS] [How to Setup A Medusa Server Locally](https://dev.to/yinks/how-to-setup-a-medusa-server-locally-44e3)
 - [Dev.to/JS] [Cloudflare Turnstile plugin for Deno Fresh &lpar;p2&rpar;](https://dev.to/khuongduybui/cloudflare-turnstile-plugin-for-deno-fresh-p2-29p5)
 - [Dev.to/JS] [Working With Remote Repo](https://dev.to/cychu42/working-with-remote-repo-469b)
 - [Dev.to/JS] [Simple Load Balancer With NodeJS &amp; Express JS](https://dev.to/theankansaha/simple-load-balancer-with-nodejs-express-js-43ga)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Objects](https://dev.to/stali1234/javascript-objects-18p)
 - [Dev.to/JS] [About react](https://dev.to/myeshwanth559/about-react-3ejb)
 - [Lifehacker] [The Real Difference Between the ‘Apocalypse,’ ‘Armageddon,’ and ‘Doomsday’](https://lifehacker.com/the-real-difference-between-the-apocalypse-armagedd-1849631390)
-- [Dev.to/JS] [My GitHub Sponsors profile is live! You can sponsor me to support my open source work 💖](https://dev.to/theankansaha/my-github-sponsors-profile-is-live-you-can-sponsor-me-to-support-my-open-source-work-45kh)
 - [Lifehacker] [Why You Shouldn&#39;t Pay for Anything With Zelle](https://lifehacker.com/why-you-shouldnt-pay-for-anything-with-zelle-1849631440)
-- [Dev.to/JS] [PATCHing nested JSON data in a react application](https://dev.to/pjparham/patching-nested-json-data-in-a-react-application-2glm)
 - [Lifehacker] [12 of the Worst Biopics of All Time &lpar;and 12 to Watch Instead&rpar;](https://lifehacker.com/12-of-the-worst-biopics-of-all-time-and-12-to-watch-in-1849625166)
 - [Lifehacker] [The Twitter Bots Everyone Should Follow](https://lifehacker.com/the-twitter-bots-everyone-should-follow-1849630465)
 - [Lifehacker] [The Overlooked &lpar;but Serious&rpar; Symptoms of Menopause](https://lifehacker.com/the-overlooked-but-serious-symptoms-of-menopause-1849628794)
