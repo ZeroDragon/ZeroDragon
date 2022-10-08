@@ -24,7 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Binary Tree Level Order Traversal](https://dev.to/zeeshanali0704/binary-tree-level-order-traversal-37pb)
-- [Dev.to/JS] [PostgresSQL](https://dev.to/asadullohruziev/postgressql-51lp)
+- [Dev.to/JS] [PostgresSQL unit-2](https://dev.to/asadullohruziev/postgressql-51lp)
 - [Dev.to/JS] [Paracetamol.js💊| #188: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-188-explica-este-codigo-javascript-1e33)
 - [Dev.to/JS] [Vue.js Directives: Data Binding in Vue](https://dev.to/xinnks/vuejs-directives-data-binding-in-vue-20bj)
 - [Dev.to/JS] [Count Elements With Strictly Smaller and Greater Elements](https://dev.to/zeeshanali0704/count-elements-with-strictly-smaller-and-greater-elements-4mh)
