@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 9 commonly used javascript functions with example | Akashminds](https://dev.to/imakashrana/top-9-commonly-used-javascript-functions-with-example-akashminds-24pj)
 - [Dev.to/JS] [[Javascript] Performance of Set and Array](https://dev.to/nily/javascript-performance-of-set-and-array-7)
 - [Dev.to/JS] [Keto Flow Gummies Reviews:It is best supplement to weight loss!](https://dev.to/ketoflowgumm/keto-flow-gummies-reviewsit-is-best-supplement-to-weight-loss-59nl)
 - [Dev.to/JS] [lazy loading](https://dev.to/nikhilmasurkar/lazy-loading-2fcc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OSD600 Blog #6 - Lab 4](https://dev.to/rokaicker/osd600-blog-6-lab-4-ef0)
 - [Dev.to/JS] [Display a card with your Gists on your GitHub README.md](https://dev.to/yizack/display-a-card-with-your-gists-on-your-github-readmemd-1kgn)
 - [Dev.to/JS] [5 ways to use the reduce method in JS](https://dev.to/ra1nbow1/5-ways-to-use-the-reduce-method-in-js-1k8h)
-- [Dev.to/JS] [Como aprendi a programar](https://dev.to/jaedsonpys/como-aprendi-a-programar-97p)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
 - [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
