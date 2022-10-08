@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Display a card with your Gists on your GitHub README.md](https://dev.to/yizack/display-a-card-with-your-gists-on-your-github-readmemd-1kgn)
 - [Dev.to/JS] [5 ways to use the reduce method in JS](https://dev.to/ra1nbow1/5-ways-to-use-the-reduce-method-in-js-1k8h)
 - [Dev.to/JS] [Como aprendi a programar](https://dev.to/jaedsonpys/como-aprendi-a-programar-97p)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Worst Biopics of All Time &lpar;and 12 to Watch Instead&rpar;](https://lifehacker.com/12-of-the-worst-biopics-of-all-time-and-12-to-watch-in-1849625166)
 - [Lifehacker] [The Twitter Bots Everyone Should Follow](https://lifehacker.com/the-twitter-bots-everyone-should-follow-1849630465)
 - [Dev.to/JS] [Schema-Fixer library](https://dev.to/gchumillas/schema-fixer-library-3fm0)
-- [Dev.to/JS] [MongoDB $weeklyUpdate #90 &lpar;October 7, 2022&rpar;: Mastering the Realm Web SDK and *Tons* of October Events!](https://dev.to/mongodb/mongodb-weeklyupdate-90-october-7-2022-mastering-the-realm-web-sdk-and-tons-of-october-events-bd0)
 - [Lifehacker] [The Overlooked &lpar;but Serious&rpar; Symptoms of Menopause](https://lifehacker.com/the-overlooked-but-serious-symptoms-of-menopause-1849628794)
 - [Lifehacker] [Your Child Might Actually Have a Math Learning Disorder](https://lifehacker.com/your-child-might-actually-have-a-math-learning-disorder-1849627701)
 - [Lifehacker] [How Your Guilt Can Actually Help You](https://lifehacker.com/how-your-guilt-can-actually-help-you-1849630252)
