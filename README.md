@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use .env files in vue vite](https://dev.to/fanreza/use-env-files-in-vue-vite-363g)
+- [Dev.to/JS] [How to handle multiple Same inputs box in React for Bulk Data Insert With Use of useRef Hook?](https://dev.to/radhe65gupta/how-to-handle-multiple-same-inputs-box-in-react-for-bulk-data-insert-with-use-of-useref-hook-67f)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;08-10-2022&rpar; - Maximly Maximiser](https://dev.to/mjgs/this-weeks-newsletter-is-out-08-10-2022-maximly-maximiser-56oj)
 - [Dev.to/JS] [JavaScript array method -map&lpar;&rpar;](https://dev.to/shubhamku044/javascript-array-method-map-3j2i)
 - [Dev.to/JS] [JavaScript: Code Snippets](https://dev.to/drsimplegraffiti/javascript-code-snippets-okm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [lazy loading](https://dev.to/nikhilmasurkar/lazy-loading-2fcc)
 - [Dev.to/JS] [My portfolio is ready!!](https://dev.to/liftoffstudios/my-portfolio-is-ready-11cj)
 - [Dev.to/JS] [How to Setup A Medusa Server Locally](https://dev.to/yinks/how-to-setup-a-medusa-server-locally-44e3)
-- [Dev.to/JS] [Cloudflare Turnstile plugin for Deno Fresh &lpar;p2&rpar;](https://dev.to/khuongduybui/cloudflare-turnstile-plugin-for-deno-fresh-p2-29p5)
-- [Dev.to/JS] [Working With Remote Repo](https://dev.to/cychu42/working-with-remote-repo-469b)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
 - [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
