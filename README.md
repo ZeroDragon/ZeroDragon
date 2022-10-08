@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive Coffee Shop Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-coffee-shop-website-using-html-css-javascript-1027)
+- [Dev.to/JS] [PostgresSQL](https://dev.to/asadullohruziev/postgressql-43jf)
+- [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
+- [Dev.to/JS] [Let&#39;s have fun with console.log](https://dev.to/alex_bobes/lets-have-fun-with-consolelog-1nfa)
+- [Dev.to/JS] [Carrer Meaning](https://dev.to/sefurra/carrer-meaning-24od)
 - [Dev.to/JS] [Secrets of numbers in JS](https://dev.to/6akcuk/secrets-of-numbers-in-js-1bga)
 - [Dev.to/JS] [Simple FAQ Collapse](https://dev.to/etcroot/simple-faq-collapse-4hpb)
 - [Dev.to/JS] [Quick Example on using LocalStorage in React](https://dev.to/clarencejulu/quick-example-0n-using-localstorage-in-react-3gk2)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Intersection Observer API](https://dev.to/shreyvijayvargiya/intersection-observer-api-1901)
 - [Dev.to/JS] [FullStack JWT Auth: Migrating SvelteKit to its latest version](https://dev.to/sirneij/fullstack-jwt-auth-migrating-sveltekit-to-its-latest-version-fhd)
 - [Dev.to/JS] [Use .env files in vue vite](https://dev.to/fanreza/use-env-files-in-vue-vite-363g)
-- [Dev.to/JS] [How to handle multiple Same inputs box in React for Bulk Data Insert With Use of useRef Hook?](https://dev.to/radhe65gupta/how-to-handle-multiple-same-inputs-box-in-react-for-bulk-data-insert-with-use-of-useref-hook-67f)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;08-10-2022&rpar; - Maximly Maximiser](https://dev.to/mjgs/this-weeks-newsletter-is-out-08-10-2022-maximly-maximiser-56oj)
-- [Dev.to/JS] [JavaScript array method -map&lpar;&rpar;](https://dev.to/shubhamku044/javascript-array-method-map-3j2i)
-- [Dev.to/JS] [JavaScript: Code Snippets](https://dev.to/drsimplegraffiti/javascript-code-snippets-okm)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
 - [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
 - [Lifehacker] [How to Find the Holy Grail, and 8 Other Lost Treasures](https://lifehacker.com/how-to-find-the-holy-grail-and-8-other-lost-treasures-1849626387)
 - [Lifehacker] [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)
-- [Lifehacker] [Is It Really Illegal to Have Sex in Public?](https://lifehacker.com/is-it-really-illegal-to-have-sex-in-public-1849626585)
-- [Lifehacker] [You Should Make Handheld Salad Bites With Endive](https://lifehacker.com/you-should-make-handheld-salad-bites-with-endive-1849626390)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Is It Really Illegal to Have Sex in Public?](https://lifehacker.com/is-it-really-illegal-to-have-sex-in-public-1849626585)<!-- TECH-POSTS:END -->
 
 ---
 
