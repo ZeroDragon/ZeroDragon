@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using the catchError pipe](https://dev.to/mitsoe/using-the-catcherror-pipe-3l6g)
+- [Dev.to/JS] [Ordenação por seleção - Selection Sort](https://dev.to/dormin/ordenacao-por-selecao-selection-sort-5hla)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Dev.to/JS] [I made 1,000x faster TypeScript Validator Library](https://dev.to/samchon/typescript-json-is-10-1000x-times-faster-than-zod-and-io-ts-8n6)
 - [Dev.to/JS] [Virtual URL navigation using vanilla JavaScript](https://dev.to/pbouillon/virtual-url-navigation-using-vanilla-javascript-4o38)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive Coffee Shop Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-coffee-shop-website-using-html-css-javascript-1027)
 - [Dev.to/JS] [PostgresSQL unit-1](https://dev.to/asadullohruziev/postgressql-43jf)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
-- [Dev.to/JS] [Let&#39;s have fun with console.log](https://dev.to/alex_bobes/lets-have-fun-with-consolelog-1nfa)
-- [Dev.to/JS] [Carrer Meaning](https://dev.to/sefurra/carrer-meaning-24od)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
 - [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
