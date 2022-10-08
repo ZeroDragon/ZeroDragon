@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [With stickers or not?!](https://dev.to/lucianodiisouza/with-stickers-or-not-d05)
 - [Dev.to/JS] [Easy Log Facilities for JavaScript](https://dev.to/hefeust/easy-log-facilities-for-javascript-48p2)
 - [Dev.to/JS] [Web Scraping Google Without Getting Blocked](https://dev.to/darshan0_1/web-scraping-google-without-getting-blocked-4jp0)
 - [Dev.to/JS] [LeetCode - Rectangle Area](https://dev.to/_alkesh26/leetcode-rectangle-area-34ao)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Binary Tree Level Order Traversal](https://dev.to/zeeshanali0704/binary-tree-level-order-traversal-37pb)
 - [Dev.to/JS] [PostgresSQL unit-2](https://dev.to/asadullohruziev/postgressql-51lp)
 - [Dev.to/JS] [Paracetamol.js💊| #188: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-188-explica-este-codigo-javascript-1e33)
-- [Dev.to/JS] [Vue.js Directives: Data Binding in Vue](https://dev.to/xinnks/vuejs-directives-data-binding-in-vue-20bj)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
