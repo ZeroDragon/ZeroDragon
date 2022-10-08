@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;08-10-2022&rpar; - Maximly Maximiser](https://dev.to/mjgs/this-weeks-newsletter-is-out-08-10-2022-maximly-maximiser-56oj)
+- [Dev.to/JS] [JavaScript array method -map&lpar;&rpar;](https://dev.to/shubhamku044/javascript-array-method-map-3j2i)
+- [Dev.to/JS] [JavaScript: Code Snippets](https://dev.to/drsimplegraffiti/javascript-code-snippets-okm)
+- [Dev.to/JS] [A guide for real-time communication with Long Pooling, SSE, and Web Sockets](https://dev.to/robins/a-guide-for-real-time-communication-with-long-pooling-sse-and-web-sockets-36am)
 - [Dev.to/JS] [Top 9 commonly used javascript functions with example | Akashminds](https://dev.to/imakashrana/top-9-commonly-used-javascript-functions-with-example-akashminds-24pj)
 - [Dev.to/JS] [[Javascript] Performance of Set and Array](https://dev.to/nily/javascript-performance-of-set-and-array-7)
 - [Dev.to/JS] [Keto Flow Gummies Reviews:It is best supplement to weight loss!](https://dev.to/ketoflowgumm/keto-flow-gummies-reviewsit-is-best-supplement-to-weight-loss-59nl)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Setup A Medusa Server Locally](https://dev.to/yinks/how-to-setup-a-medusa-server-locally-44e3)
 - [Dev.to/JS] [Cloudflare Turnstile plugin for Deno Fresh &lpar;p2&rpar;](https://dev.to/khuongduybui/cloudflare-turnstile-plugin-for-deno-fresh-p2-29p5)
 - [Dev.to/JS] [Working With Remote Repo](https://dev.to/cychu42/working-with-remote-repo-469b)
-- [Dev.to/JS] [Simple Load Balancer With NodeJS &amp; Express JS](https://dev.to/theankansaha/simple-load-balancer-with-nodejs-express-js-43ga)
-- [Dev.to/JS] [OSD600 Blog #6 - Lab 4](https://dev.to/rokaicker/osd600-blog-6-lab-4-ef0)
-- [Dev.to/JS] [Display a card with your Gists on your GitHub README.md](https://dev.to/yizack/display-a-card-with-your-gists-on-your-github-readmemd-1kgn)
-- [Dev.to/JS] [5 ways to use the reduce method in JS](https://dev.to/ra1nbow1/5-ways-to-use-the-reduce-method-in-js-1k8h)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
 - [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
