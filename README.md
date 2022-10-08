@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
+- [Dev.to/JS] [I made 1,000x faster TypeScript Validator Library](https://dev.to/samchon/typescript-json-is-10-1000x-times-faster-than-zod-and-io-ts-8n6)
 - [Dev.to/JS] [Virtual URL navigation using vanilla JavaScript](https://dev.to/pbouillon/virtual-url-navigation-using-vanilla-javascript-4o38)
 - [Dev.to/JS] [JavaScript Capitalize First Letter](https://dev.to/aisharajput/javascript-capitalize-first-letter-1hgf)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
 - [Dev.to/JS] [Let&#39;s have fun with console.log](https://dev.to/alex_bobes/lets-have-fun-with-consolelog-1nfa)
 - [Dev.to/JS] [Carrer Meaning](https://dev.to/sefurra/carrer-meaning-24od)
-- [Dev.to/JS] [Secrets of numbers in JS](https://dev.to/6akcuk/secrets-of-numbers-in-js-1bga)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
 - [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
-- [Lifehacker] [How to Find the Holy Grail, and 8 Other Lost Treasures](https://lifehacker.com/how-to-find-the-holy-grail-and-8-other-lost-treasures-1849626387)
-- [Lifehacker] [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Find the Holy Grail, and 8 Other Lost Treasures](https://lifehacker.com/how-to-find-the-holy-grail-and-8-other-lost-treasures-1849626387)<!-- TECH-POSTS:END -->
 
 ---
 
