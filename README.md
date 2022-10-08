@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Virtual URL navigation using vanilla JavaScript](https://dev.to/pbouillon/virtual-url-navigation-using-vanilla-javascript-4o38)
+- [Dev.to/JS] [JavaScript Capitalize First Letter](https://dev.to/aisharajput/javascript-capitalize-first-letter-1hgf)
+- [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Dev.to/JS] [Binary Tree Level Order Traversal](https://dev.to/zeeshanali0704/binary-tree-level-order-traversal-37pb)
 - [Dev.to/JS] [PostgresSQL unit-2](https://dev.to/asadullohruziev/postgressql-51lp)
 - [Dev.to/JS] [Paracetamol.js💊| #188: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-188-explica-este-codigo-javascript-1e33)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s have fun with console.log](https://dev.to/alex_bobes/lets-have-fun-with-consolelog-1nfa)
 - [Dev.to/JS] [Carrer Meaning](https://dev.to/sefurra/carrer-meaning-24od)
 - [Dev.to/JS] [Secrets of numbers in JS](https://dev.to/6akcuk/secrets-of-numbers-in-js-1bga)
-- [Dev.to/JS] [Simple FAQ Collapse](https://dev.to/etcroot/simple-faq-collapse-4hpb)
-- [Dev.to/JS] [Quick Example on using LocalStorage in React](https://dev.to/clarencejulu/quick-example-0n-using-localstorage-in-react-3gk2)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
 - [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)
 - [Lifehacker] [No, President Biden Isn’t Calling You About Student Loan Forgiveness](https://lifehacker.com/no-president-biden-isn-t-calling-you-about-student-loa-1849625042)
 - [Lifehacker] [How to Find the Holy Grail, and 8 Other Lost Treasures](https://lifehacker.com/how-to-find-the-holy-grail-and-8-other-lost-treasures-1849626387)
-- [Lifehacker] [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)
-- [Lifehacker] [Is It Really Illegal to Have Sex in Public?](https://lifehacker.com/is-it-really-illegal-to-have-sex-in-public-1849626585)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your City May Have Banned Leaf Blowers](https://lifehacker.com/your-city-may-have-banned-leaf-blowers-1849626519)<!-- TECH-POSTS:END -->
 
 ---
 
