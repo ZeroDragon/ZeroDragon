@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Notion API with JavaScript](https://dev.to/inspiratory/using-notion-api-with-javascript-1hil)
+- [Dev.to/JS] [What is a first-class citizen in computer science?](https://dev.to/douglasdemoura/what-is-a-first-class-citizen-in-computer-science-30mf)
 - [Dev.to/JS] [Rain&lpar;Codepen&rpar;](https://dev.to/prayas/rain-415c)
 - [Dev.to/JS] [With stickers or not?!](https://dev.to/lucianodiisouza/with-stickers-or-not-d05)
 - [Dev.to/JS] [Easy Log Facilities for JavaScript](https://dev.to/hefeust/easy-log-facilities-for-javascript-48p2)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Virtual URL navigation using vanilla JavaScript](https://dev.to/pbouillon/virtual-url-navigation-using-vanilla-javascript-4o38)
 - [Dev.to/JS] [JavaScript Capitalize First Letter](https://dev.to/aisharajput/javascript-capitalize-first-letter-1hgf)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
-- [Dev.to/JS] [Binary Tree Level Order Traversal](https://dev.to/zeeshanali0704/binary-tree-level-order-traversal-37pb)
-- [Dev.to/JS] [PostgresSQL unit-2](https://dev.to/asadullohruziev/postgressql-51lp)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
