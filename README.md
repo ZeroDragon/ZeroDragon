@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Load Balancer With NodeJS &amp; Express JS](https://dev.to/theankansaha/simple-load-balancer-with-nodejs-express-js-43ga)
+- [Dev.to/JS] [OSD600 Blog #6 - Lab 4](https://dev.to/rokaicker/osd600-blog-6-lab-4-ef0)
 - [Dev.to/JS] [Display a card with your Gists on your GitHub README.md](https://dev.to/yizack/display-a-card-with-your-gists-on-your-github-readmemd-1kgn)
 - [Dev.to/JS] [5 ways to use the reduce method in JS](https://dev.to/ra1nbow1/5-ways-to-use-the-reduce-method-in-js-1k8h)
 - [Dev.to/JS] [Como aprendi a programar](https://dev.to/jaedsonpys/como-aprendi-a-programar-97p)
@@ -41,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PATCHing nested JSON data in a react application](https://dev.to/pjparham/patching-nested-json-data-in-a-react-application-2glm)
 - [Dev.to/JS] [Automate GitHub Actions Node Version](https://dev.to/nalanj/automate-github-actions-node-version-37io)
 - [Dev.to/JS] [I Turned My Startup Into Open-Source](https://dev.to/nevodavid/i-turned-my-startup-into-open-source-4efh)
-- [Dev.to/JS] [The Rising Coder - Week 6/13 &lpar;Backend Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-613-backend-week-23-4i68)
 - [Lifehacker] [12 of the Worst Biopics of All Time &lpar;and 12 to Watch Instead&rpar;](https://lifehacker.com/12-of-the-worst-biopics-of-all-time-and-12-to-watch-in-1849625166)
 - [Lifehacker] [The Twitter Bots Everyone Should Follow](https://lifehacker.com/the-twitter-bots-everyone-should-follow-1849630465)
-- [Dev.to/JS] [Schema-Fixer library](https://dev.to/gchumillas/schema-fixer-library-3fm0)
 - [Lifehacker] [The Overlooked &lpar;but Serious&rpar; Symptoms of Menopause](https://lifehacker.com/the-overlooked-but-serious-symptoms-of-menopause-1849628794)
 - [Lifehacker] [Your Child Might Actually Have a Math Learning Disorder](https://lifehacker.com/your-child-might-actually-have-a-math-learning-disorder-1849627701)
 - [Lifehacker] [How Your Guilt Can Actually Help You](https://lifehacker.com/how-your-guilt-can-actually-help-you-1849630252)
