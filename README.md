@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keto Flow Gummies Reviews:It is best supplement to weight loss!](https://dev.to/ketoflowgumm/keto-flow-gummies-reviewsit-is-best-supplement-to-weight-loss-59nl)
+- [Dev.to/JS] [lazy loading](https://dev.to/nikhilmasurkar/lazy-loading-2fcc)
 - [Dev.to/JS] [My portfolio is ready!!](https://dev.to/liftoffstudios/my-portfolio-is-ready-11cj)
 - [Dev.to/JS] [How to Setup A Medusa Server Locally](https://dev.to/yinks/how-to-setup-a-medusa-server-locally-44e3)
 - [Dev.to/JS] [Cloudflare Turnstile plugin for Deno Fresh &lpar;p2&rpar;](https://dev.to/khuongduybui/cloudflare-turnstile-plugin-for-deno-fresh-p2-29p5)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A good reason to use React18: useSyncExternalStore](https://dev.to/air_choosy/a-good-reason-to-use-react18-usesyncexternalstore-3ind)
 - [Lifehacker] [13 of the Worst Breaches of Gym Etiquette, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
 - [Lifehacker] [Why You Should Always Have Plumber&#39;s Putty](https://lifehacker.com/why-you-should-always-have-plumbers-putty-1849630955)
-- [Dev.to/JS] [JavaScript Objects](https://dev.to/stali1234/javascript-objects-18p)
-- [Dev.to/JS] [About react](https://dev.to/myeshwanth559/about-react-3ejb)
 - [Lifehacker] [The Real Difference Between the ‘Apocalypse,’ ‘Armageddon,’ and ‘Doomsday’](https://lifehacker.com/the-real-difference-between-the-apocalypse-armagedd-1849631390)
 - [Lifehacker] [Why You Shouldn&#39;t Pay for Anything With Zelle](https://lifehacker.com/why-you-shouldnt-pay-for-anything-with-zelle-1849631440)
 - [Lifehacker] [12 of the Worst Biopics of All Time &lpar;and 12 to Watch Instead&rpar;](https://lifehacker.com/12-of-the-worst-biopics-of-all-time-and-12-to-watch-in-1849625166)
