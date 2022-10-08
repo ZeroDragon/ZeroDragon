@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy Log Facilities for JavaScript](https://dev.to/hefeust/easy-log-facilities-for-javascript-48p2)
+- [Dev.to/JS] [Web Scraping Google Without Getting Blocked](https://dev.to/darshan0_1/web-scraping-google-without-getting-blocked-4jp0)
+- [Dev.to/JS] [LeetCode - Rectangle Area](https://dev.to/_alkesh26/leetcode-rectangle-area-34ao)
 - [Dev.to/JS] [Using the catchError pipe](https://dev.to/mitsoe/using-the-catcherror-pipe-3l6g)
 - [Dev.to/JS] [Ordenação por seleção - Selection Sort](https://dev.to/dormin/ordenacao-por-selecao-selection-sort-5hla)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PostgresSQL unit-2](https://dev.to/asadullohruziev/postgressql-51lp)
 - [Dev.to/JS] [Paracetamol.js💊| #188: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-188-explica-este-codigo-javascript-1e33)
 - [Dev.to/JS] [Vue.js Directives: Data Binding in Vue](https://dev.to/xinnks/vuejs-directives-data-binding-in-vue-20bj)
-- [Dev.to/JS] [Count Elements With Strictly Smaller and Greater Elements](https://dev.to/zeeshanali0704/count-elements-with-strictly-smaller-and-greater-elements-4mh)
-- [Dev.to/JS] [Responsive Coffee Shop Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-coffee-shop-website-using-html-css-javascript-1027)
-- [Dev.to/JS] [PostgresSQL unit-1](https://dev.to/asadullohruziev/postgressql-43jf)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
