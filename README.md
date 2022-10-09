@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue3 Dynamic Refs](https://dev.to/wadecodez/vue3-dynamic-refs-4ao3)
 - [Dev.to/JS] [Call&lpar;&rpar; &amp; Apply&lpar;&rpar; in JavaScript](https://dev.to/codecupdev/call-apply-in-javascript-1dme)
 - [Dev.to/JS] [React Fiber explained](https://dev.to/asayerio_techblog/react-fiber-explained-3mh4)
 - [Dev.to/JS] [Frontend Development Path](https://dev.to/hrmeheraj/frontend-development-path-21c1)
+- [Dev.to/JS] [Vanilla Artificial Neural Networks on the browser with Javascript&lpar;No libraries&rpar;](https://dev.to/apssouza22/vanilla-artificial-neural-networks-on-the-browser-with-javascriptno-libraries-3pd7)
 - [Dev.to/JS] [Understanding Generators in JavaScript with examples](https://dev.to/hamzaelkotp/understanding-generators-in-javascript-with-examples-2p6o)
 - [Dev.to/JS] [Go to framework in 2022 remix.run](https://dev.to/chandramarch18/go-to-framework-in-2022-remixrun-3hj)
 - [Dev.to/JS] [Explain like I’m five: package managers](https://dev.to/stackblitz/explain-like-im-five-package-managers-1a7a)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handling Form Has Never Been So Easy | Mantine Form](https://dev.to/vatana7/handling-form-has-never-been-so-easy-mantine-form-2774)
 - [Dev.to/JS] [How To Use Error Boundaries in React ♥](https://dev.to/gimnathperera/how-to-use-error-boundaries-in-react-114c)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
-- [Dev.to/JS] [Creating Git Hooks Using Husky](https://dev.to/murtuzaalisurti/creating-git-hooks-using-husky-5fbk)
-- [Dev.to/JS] [The GitHub Development Workflow](https://dev.to/timothyrobards/the-github-development-workflow-512i)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
