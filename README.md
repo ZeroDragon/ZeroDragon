@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling Form Has Never Been So Easy | Mantine Form](https://dev.to/vatana7/handling-form-has-never-been-so-easy-mantine-form-2774)
+- [Dev.to/JS] [How To Use Error Boundaries in React ♥](https://dev.to/gimnathperera/how-to-use-error-boundaries-in-react-114c)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Dev.to/JS] [Creating Git Hooks Using Husky](https://dev.to/murtuzaalisurti/creating-git-hooks-using-husky-5fbk)
 - [Dev.to/JS] [The GitHub Development Workflow](https://dev.to/timothyrobards/the-github-development-workflow-512i)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Longest Common Subsequence](https://dev.to/_alkesh26/leetcode-longest-common-subsequence-16h2)
 - [Dev.to/JS] [Array and Object Destructuring in JavaScript](https://dev.to/mrityunjaypalled/array-and-object-destructuring-in-javascript-4mid)
 - [Dev.to/JS] [Why i am starting over again&lpar;ish&rpar;... Again](https://dev.to/enirox/why-i-am-starting-overish-again-44oc)
-- [Dev.to/JS] [Leetcode pair programming](https://dev.to/usamasarwar188/leetcode-pair-programming-407g)
-- [Dev.to/JS] [How to build a simple router for a Node.js application](https://dev.to/shakyapeiris/how-to-build-a-simple-router-for-a-nodejs-application-35gm)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
