@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explain like I’m five: package managers](https://dev.to/stackblitz/explain-like-im-five-package-managers-1a7a)
+- [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
+- [Dev.to/JS] [Schedule Lambda Functions Using EventBridge | Serverless](https://dev.to/aws-builders/schedule-lambda-functions-using-eventbridge-serverless-51pa)
+- [Dev.to/JS] [Débuter avec Angular 14: #7 Les composants: comment les pimper](https://dev.to/sidali/debuter-avec-angular-14-7-les-composants-comment-les-pimper-4mc2)
 - [Dev.to/JS] [Handling Form Has Never Been So Easy | Mantine Form](https://dev.to/vatana7/handling-form-has-never-been-so-easy-mantine-form-2774)
 - [Dev.to/JS] [How To Use Error Boundaries in React ♥](https://dev.to/gimnathperera/how-to-use-error-boundaries-in-react-114c)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DesiTvYo Serial Watch Online In HD](https://dev.to/desi_yo1/desitvyo-serial-watch-online-in-hd-3p1e)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
 - [Dev.to/JS] [Breve introducción a las arquitecturas limpias.](https://dev.to/iagolast/breve-introduccion-a-las-arquitecturas-limpias-32fc)
-- [Dev.to/JS] [LeetCode - Longest Common Subsequence](https://dev.to/_alkesh26/leetcode-longest-common-subsequence-16h2)
-- [Dev.to/JS] [Array and Object Destructuring in JavaScript](https://dev.to/mrityunjaypalled/array-and-object-destructuring-in-javascript-4mid)
-- [Dev.to/JS] [Why i am starting over again&lpar;ish&rpar;... Again](https://dev.to/enirox/why-i-am-starting-overish-again-44oc)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know About the Google Pixel Watch](https://lifehacker.com/everything-you-need-to-know-about-the-google-pixel-watc-1849624469)
 - [Lifehacker] [Please Don&#39;t Put Cooking Spray in Your Air Fryer](https://lifehacker.com/please-dont-put-cooking-spray-in-your-air-fryer-1849626915)
 - [Crazy Programmer] [9 Best Codecademy Alternatives 2022](https://www.thecrazyprogrammer.com/2022/10/codecademy-alternatives.html)
-- [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
-- [Lifehacker] [Why You Should Stop Being an Overachiever at Work](https://lifehacker.com/why-you-should-stop-being-an-overachiever-at-work-1849625768)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)<!-- TECH-POSTS:END -->
 
 ---
 
