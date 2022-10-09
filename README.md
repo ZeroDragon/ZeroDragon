@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Breve introducción a las arquitecturas limpias.](https://dev.to/iagolast/breve-introduccion-a-las-arquitecturas-limpias-32fc)
+- [Dev.to/JS] [Arctic Blast - Pain Relief Results, Uses, Price, Benefits And Side Effects?](https://dev.to/arcticblastinfo/arctic-blast-pain-relief-results-uses-price-benefits-and-side-effects-3na)
+- [Dev.to/JS] [LeetCode - Longest Common Subsequence](https://dev.to/_alkesh26/leetcode-longest-common-subsequence-16h2)
+- [Dev.to/JS] [Array and Object Destructuring in JavaScript](https://dev.to/mrityunjaypalled/array-and-object-destructuring-in-javascript-4mid)
+- [Dev.to/JS] [Why i am starting over again&lpar;ish&rpar;... Again](https://dev.to/enirox/why-i-am-starting-overish-again-44oc)
 - [Dev.to/JS] [Leetcode pair programming](https://dev.to/usamasarwar188/leetcode-pair-programming-407g)
 - [Dev.to/JS] [How to build a simple router for a Node.js application](https://dev.to/shakyapeiris/how-to-build-a-simple-router-for-a-nodejs-application-35gm)
 - [Dev.to/JS] [React Native Map Optimisation](https://dev.to/ajmal_hasan/react-native-map-optimisation-59na)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to start Web Development?](https://dev.to/lavig10/how-to-start-web-development-4c6l)
 - [Dev.to/JS] [Should I learn Java or Javascript for selenium?](https://dev.to/nikhilbagra4/should-i-learn-java-or-javascript-for-selenium-4khm)
 - [Dev.to/JS] [Débuter avec Angular 14: #6 Les composants](https://dev.to/sidali/debuter-avec-angular-14-6-les-composants-1mf2)
-- [Dev.to/JS] [Form Validation in React Native using Formik](https://dev.to/daryllukas/form-validation-in-react-native-using-formik-mn9)
-- [Dev.to/JS] [How To Fix Visual Studio Code IntelliSense Loading Infinitely](https://dev.to/dsibinski/how-to-fix-visual-studio-code-intellisense-loading-infinitely-do9)
-- [Dev.to/JS] [Increasing Order Search Tree](https://dev.to/zeeshanali0704/increasing-order-search-tree-4gfe)
-- [Dev.to/JS] [Create mock APIs for building frontend apps quickly without the backend.](https://dev.to/sivaneshs/create-mock-apis-for-building-frontend-apps-quickly-without-the-backend-2lm2)
-- [Dev.to/JS] [How to override XHR/fetch method in Javascript?](https://dev.to/iserioton/how-to-override-xhrfetch-method-in-javascript-g44)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
