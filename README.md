@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a poll app using NextJS](https://dev.to/posandu/create-a-poll-app-using-nextjs-199b)
+- [Dev.to/JS] [How to start Web Development?](https://dev.to/lavig10/how-to-start-web-development-4c6l)
+- [Dev.to/JS] [Should I learn Java or Javascript for selenium?](https://dev.to/nikhilbagra4/should-i-learn-java-or-javascript-for-selenium-4khm)
+- [Dev.to/JS] [Débuter avec Angular 14: #6 Les composants](https://dev.to/sidali/debuter-avec-angular-14-6-les-composants-1mf2)
 - [Dev.to/JS] [Form Validation in React Native using Formik](https://dev.to/daryllukas/form-validation-in-react-native-using-formik-mn9)
 - [Dev.to/JS] [How To Fix Visual Studio Code IntelliSense Loading Infinitely](https://dev.to/dsibinski/how-to-fix-visual-studio-code-intellisense-loading-infinitely-do9)
 - [Dev.to/JS] [Increasing Order Search Tree](https://dev.to/zeeshanali0704/increasing-order-search-tree-4gfe)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Univalued Binary Tree](https://dev.to/zeeshanali0704/univalued-binary-tree-3cpf)
 - [Dev.to/JS] [I have open my new blog](https://dev.to/devcoder1432/i-have-open-my-new-blog-3lg5)
 - [Dev.to/JS] [🧶YarnLocking🔓 your dependencies](https://dev.to/thekashey/yarnlocking-your-dependencies-59n0)
-- [Dev.to/JS] [Full Stack WEB3 Developer- Roadmap and Free Resources](https://dev.to/ayaaneth/full-stack-web3-developer-roadmap-and-free-resources-1chm)
-- [Dev.to/JS] [Binary Tree Zigzag Level Order Traversal](https://dev.to/zeeshanali0704/binary-tree-zigzag-level-order-traversal-11c3)
-- [Dev.to/JS] [PostgresSQL unit-3](https://dev.to/asadullohruziev/postgressql-unit-3-4i33)
-- [Dev.to/JS] [Sum all primes &lpar;freecodecamp&rpar;](https://dev.to/jm6229/sum-all-primes-freecodecamp-1bg1)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
