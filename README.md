@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Increasing Order Search Tree](https://dev.to/zeeshanali0704/increasing-order-search-tree-4gfe)
 - [Dev.to/JS] [Create mock APIs for building frontend apps quickly without the backend.](https://dev.to/sivaneshs/create-mock-apis-for-building-frontend-apps-quickly-without-the-backend-2lm2)
 - [Dev.to/JS] [How to override XHR/fetch method in Javascript?](https://dev.to/iserioton/how-to-override-xhrfetch-method-in-javascript-g44)
 - [Dev.to/JS] [Univalued Binary Tree](https://dev.to/zeeshanali0704/univalued-binary-tree-3cpf)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sum all primes &lpar;freecodecamp&rpar;](https://dev.to/jm6229/sum-all-primes-freecodecamp-1bg1)
 - [Dev.to/JS] [Hey there I am here to share some scratch coding resource](https://dev.to/1234use/hey-there-i-am-here-to-share-some-scratch-coding-resource-4683)
 - [Dev.to/JS] [Using Notion API with JavaScript](https://dev.to/inspiratory/using-notion-api-with-javascript-1hil)
-- [Dev.to/JS] [What is a first-class citizen in computer science?](https://dev.to/douglasdemoura/what-is-a-first-class-citizen-in-computer-science-30mf)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
