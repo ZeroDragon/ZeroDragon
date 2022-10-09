@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Call&lpar;&rpar; &amp; Apply&lpar;&rpar; in JavaScript](https://dev.to/codecupdev/call-apply-in-javascript-1dme)
+- [Dev.to/JS] [React Fiber explained](https://dev.to/asayerio_techblog/react-fiber-explained-3mh4)
+- [Dev.to/JS] [Frontend Development Path](https://dev.to/hrmeheraj/frontend-development-path-21c1)
+- [Dev.to/JS] [Understanding Generators in JavaScript with examples](https://dev.to/hamzaelkotp/understanding-generators-in-javascript-with-examples-2p6o)
+- [Dev.to/JS] [Go to framework in 2022 remix.run](https://dev.to/chandramarch18/go-to-framework-in-2022-remixrun-3hj)
 - [Dev.to/JS] [Explain like I’m five: package managers](https://dev.to/stackblitz/explain-like-im-five-package-managers-1a7a)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Dev.to/JS] [Schedule Lambda Functions Using EventBridge | Serverless](https://dev.to/aws-builders/schedule-lambda-functions-using-eventbridge-serverless-51pa)
@@ -32,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Dev.to/JS] [Creating Git Hooks Using Husky](https://dev.to/murtuzaalisurti/creating-git-hooks-using-husky-5fbk)
 - [Dev.to/JS] [The GitHub Development Workflow](https://dev.to/timothyrobards/the-github-development-workflow-512i)
-- [Dev.to/JS] [Easy way to add Darkmode for Next JS with Tailwind CSS.](https://dev.to/hr21don/easy-way-to-add-darkmode-for-next-js-with-tailwind-css-1h5)
-- [Dev.to/JS] [PostgresSQL unit-4](https://dev.to/asadullohruziev/postgressql-unit-4-59)
-- [Dev.to/JS] [Authentication with credentials using Next-Auth &amp; MongoDB](https://dev.to/said_mounaim/authentication-with-credentials-using-next-auth-mongodb-5e0j)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
-- [Dev.to/JS] [Breve introducción a las arquitecturas limpias.](https://dev.to/iagolast/breve-introduccion-a-las-arquitecturas-limpias-32fc)
-- [Dev.to/JS] [LeetCode - Longest Common Subsequence](https://dev.to/_alkesh26/leetcode-longest-common-subsequence-16h2)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
