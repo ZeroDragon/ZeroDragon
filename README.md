@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Application development with 100% customization. Customization Driven Development &lpar;CDD&rpar;](https://dev.to/uiwebkit/application-development-with-100-customization-customization-driven-development-cdd-34p4)
 - [Dev.to/JS] [Vue3 Dynamic Refs](https://dev.to/wadecodez/vue3-dynamic-refs-4ao3)
 - [Dev.to/JS] [Call&lpar;&rpar; &amp; Apply&lpar;&rpar; in JavaScript](https://dev.to/codecupdev/call-apply-in-javascript-1dme)
 - [Dev.to/JS] [React Fiber explained](https://dev.to/asayerio_techblog/react-fiber-explained-3mh4)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Schedule Lambda Functions Using EventBridge | Serverless](https://dev.to/aws-builders/schedule-lambda-functions-using-eventbridge-serverless-51pa)
 - [Dev.to/JS] [Débuter avec Angular 14: #7 Les composants: comment les pimper](https://dev.to/sidali/debuter-avec-angular-14-7-les-composants-comment-les-pimper-4mc2)
 - [Dev.to/JS] [Handling Form Has Never Been So Easy | Mantine Form](https://dev.to/vatana7/handling-form-has-never-been-so-easy-mantine-form-2774)
-- [Dev.to/JS] [How To Use Error Boundaries in React ♥](https://dev.to/gimnathperera/how-to-use-error-boundaries-in-react-114c)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
