@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I have open my new blog](https://dev.to/devcoder1432/i-have-open-my-new-blog-3lg5)
 - [Dev.to/JS] [🧶YarnLocking🔓 your dependencies](https://dev.to/thekashey/yarnlocking-your-dependencies-59n0)
 - [Dev.to/JS] [Full Stack WEB3 Developer- Roadmap and Free Resources](https://dev.to/ayaaneth/full-stack-web3-developer-roadmap-and-free-resources-1chm)
 - [Dev.to/JS] [Binary Tree Zigzag Level Order Traversal](https://dev.to/zeeshanali0704/binary-tree-zigzag-level-order-traversal-11c3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rain&lpar;Codepen&rpar;](https://dev.to/prayas/rain-415c)
 - [Dev.to/JS] [With stickers or not?!](https://dev.to/lucianodiisouza/with-stickers-or-not-d05)
 - [Dev.to/JS] [Easy Log Facilities for JavaScript](https://dev.to/hefeust/easy-log-facilities-for-javascript-48p2)
-- [Dev.to/JS] [Web Scraping Google Without Getting Blocked](https://dev.to/darshan0_1/web-scraping-google-without-getting-blocked-4jp0)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
