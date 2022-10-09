@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sum all primes &lpar;freecodecamp&rpar;](https://dev.to/jm6229/sum-all-primes-freecodecamp-1bg1)
+- [Dev.to/JS] [Hey there I am here to share some scratch coding resource](https://dev.to/1234use/hey-there-i-am-here-to-share-some-scratch-coding-resource-4683)
 - [Dev.to/JS] [Using Notion API with JavaScript](https://dev.to/inspiratory/using-notion-api-with-javascript-1hil)
 - [Dev.to/JS] [What is a first-class citizen in computer science?](https://dev.to/douglasdemoura/what-is-a-first-class-citizen-in-computer-science-30mf)
 - [Dev.to/JS] [Rain&lpar;Codepen&rpar;](https://dev.to/prayas/rain-415c)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ordenação por seleção - Selection Sort](https://dev.to/dormin/ordenacao-por-selecao-selection-sort-5hla)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Dev.to/JS] [I made 1,000x faster TypeScript Validator Library](https://dev.to/samchon/typescript-json-is-10-1000x-times-faster-than-zod-and-io-ts-8n6)
-- [Dev.to/JS] [Virtual URL navigation using vanilla JavaScript](https://dev.to/pbouillon/virtual-url-navigation-using-vanilla-javascript-4o38)
-- [Dev.to/JS] [JavaScript Capitalize First Letter](https://dev.to/aisharajput/javascript-capitalize-first-letter-1hgf)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
