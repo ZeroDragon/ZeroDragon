@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Serverless Web Applications with React &amp; AWS Amplify](https://dev.to/nothanii/building-serverless-web-applications-with-react-aws-amplify-2f6a)
+- [Dev.to/JS] [Get started with React Redux using Redux Toolkit](https://dev.to/samtuga1/get-started-with-react-redux-using-redux-toolkit-5akb)
+- [Dev.to/JS] [Smallest Common Multiple &lpar;freecodecamp&rpar;](https://dev.to/jm6229/smallest-common-multiple-freecodecamp-3m2p)
 - [Dev.to/JS] [Is it still necessary to learn Webpack in 2022?🤔](https://dev.to/taepal467/is-it-still-necessary-to-learn-webpack-in-2022-27mi)
 - [Dev.to/JS] [Math object: Dealing w/ Decimals and the &#39;~~&#39; Operator](https://dev.to/colinwilliams91/math-object-dealing-w-decimals-1lpd)
 - [Dev.to/JS] [Writing your First End-to-End Test with Cypress 10](https://dev.to/monijesuloluwa/writing-your-first-end-to-end-test-with-cypress-10-4gl)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue3 Dynamic Refs](https://dev.to/wadecodez/vue3-dynamic-refs-4ao3)
 - [Dev.to/JS] [Call&lpar;&rpar; &amp; Apply&lpar;&rpar; in JavaScript](https://dev.to/codecupdev/call-apply-in-javascript-1dme)
 - [Dev.to/JS] [React Fiber explained](https://dev.to/asayerio_techblog/react-fiber-explained-3mh4)
-- [Dev.to/JS] [Frontend Development Path](https://dev.to/hrmeheraj/frontend-development-path-21c1)
-- [Dev.to/JS] [Vanilla Artificial Neural Networks on the browser with Javascript&lpar;No libraries&rpar;](https://dev.to/apssouza22/vanilla-artificial-neural-networks-on-the-browser-with-javascriptno-libraries-3pd7)
-- [Dev.to/JS] [Understanding Generators in JavaScript with examples](https://dev.to/hamzaelkotp/understanding-generators-in-javascript-with-examples-2p6o)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
