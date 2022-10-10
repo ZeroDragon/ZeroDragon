@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Insight into QuickBooks install diagnostic tool](https://dev.to/josephinewilliam/insight-into-quickbooks-install-diagnostic-tool-224j)
+- [Dev.to/JS] [Improving Security of Nuxt 3](https://dev.to/jacobandrewsky/improving-security-of-nuxt-3-14ek)
+- [Dev.to/JS] [Refactor Like a Superhero: Introducing a New Online Book!](https://dev.to/bespoyasov/refactor-like-a-superhero-introducing-a-new-online-book-2l7b)
 - [Dev.to/JS] [Get selected Radio button Dynamically using JS](https://dev.to/dasaradhanimmala/get-selected-radio-button-dynamically-using-js-2pgg)
 - [Dev.to/JS] [Adding a layout to NextJS - part 3](https://dev.to/dailydevtips1/adding-a-layout-to-nextjs-part-3-4nap)
 - [Dev.to/JS] [Foal v2.11 has been released with better password management](https://dev.to/loicpoullain/foal-v211-has-been-released-with-better-password-management-4mbp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get started with React Redux using Redux Toolkit](https://dev.to/samtuga1/get-started-with-react-redux-using-redux-toolkit-5akb)
 - [Dev.to/JS] [Smallest Common Multiple &lpar;freecodecamp&rpar;](https://dev.to/jm6229/smallest-common-multiple-freecodecamp-3m2p)
 - [Dev.to/JS] [Is it still necessary to learn Webpack in 2022?🤔](https://dev.to/taepal467/is-it-still-necessary-to-learn-webpack-in-2022-27mi)
-- [Dev.to/JS] [Math object: Dealing w/ Decimals and the &#39;~~&#39; Operator](https://dev.to/colinwilliams91/math-object-dealing-w-decimals-1lpd)
-- [Dev.to/JS] [Writing your First End-to-End Test with Cypress 10](https://dev.to/monijesuloluwa/writing-your-first-end-to-end-test-with-cypress-10-4gl)
-- [Dev.to/JS] [Issues using Android SDK on Mac &lpar;Apple Chip&rpar;](https://dev.to/stephen_white_222/issues-using-android-sdk-on-mac-apple-chip-7if)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
