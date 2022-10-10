@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Does Full Stack Development Stand Out From The Crowd?](https://dev.to/xnaksdn/how-does-full-stack-development-stand-out-from-the-crowd-2e1a)
+- [Dev.to/JS] [GETTING STARTED](https://dev.to/mskpinnapple/getting-started-3304)
+- [Dev.to/JS] [Global Summary of Some Strapi Key Features](https://dev.to/strapi/global-summary-of-some-strapi-key-features-16p5)
 - [Dev.to/JS] [Insight into QuickBooks install diagnostic tool](https://dev.to/josephinewilliam/insight-into-quickbooks-install-diagnostic-tool-224j)
 - [Dev.to/JS] [Improving Security of Nuxt 3](https://dev.to/jacobandrewsky/improving-security-of-nuxt-3-14ek)
 - [Dev.to/JS] [Refactor Like a Superhero: Introducing a New Online Book!](https://dev.to/bespoyasov/refactor-like-a-superhero-introducing-a-new-online-book-2l7b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Ways to level up your Opensource project](https://dev.to/iamtamal/5-ways-to-level-up-your-opensource-project-511j)
 - [Dev.to/JS] [How Do I Hire A Dedicated Xamarin App Developer Team Online?](https://dev.to/qsstechnosoftnew/how-do-i-hire-a-dedicated-xamarin-app-developer-team-online-2h1k)
 - [Dev.to/JS] [Building Serverless Web Applications with React &amp; AWS Amplify](https://dev.to/nothanii/building-serverless-web-applications-with-react-aws-amplify-2f6a)
-- [Dev.to/JS] [Get started with React Redux using Redux Toolkit](https://dev.to/samtuga1/get-started-with-react-redux-using-redux-toolkit-5akb)
-- [Dev.to/JS] [Smallest Common Multiple &lpar;freecodecamp&rpar;](https://dev.to/jm6229/smallest-common-multiple-freecodecamp-3m2p)
-- [Dev.to/JS] [Is it still necessary to learn Webpack in 2022?🤔](https://dev.to/taepal467/is-it-still-necessary-to-learn-webpack-in-2022-27mi)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
