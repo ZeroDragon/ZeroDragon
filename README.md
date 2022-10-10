@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Ways to level up your Opensource project](https://dev.to/iamtamal/5-ways-to-level-up-your-opensource-project-511j)
 - [Dev.to/JS] [How Do I Hire A Dedicated Xamarin App Developer Team Online?](https://dev.to/qsstechnosoftnew/how-do-i-hire-a-dedicated-xamarin-app-developer-team-online-2h1k)
 - [Dev.to/JS] [Building Serverless Web Applications with React &amp; AWS Amplify](https://dev.to/nothanii/building-serverless-web-applications-with-react-aws-amplify-2f6a)
 - [Dev.to/JS] [Get started with React Redux using Redux Toolkit](https://dev.to/samtuga1/get-started-with-react-redux-using-redux-toolkit-5akb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Backend Boilerplate for NodeJs-ExpressJs-MongoDB](https://dev.to/prkskrs/backend-boilerplate-of-nodejs-expressjs-mongodb-21bn)
 - [Dev.to/JS] [Application development with 100% customization. Customization Driven Development &lpar;CDD&rpar;](https://dev.to/uiwebkit/application-development-with-100-customization-customization-driven-development-cdd-34p4)
 - [Dev.to/JS] [Vue3 Dynamic Refs](https://dev.to/wadecodez/vue3-dynamic-refs-4ao3)
-- [Dev.to/JS] [Call&lpar;&rpar; &amp; Apply&lpar;&rpar; in JavaScript](https://dev.to/codecupdev/call-apply-in-javascript-1dme)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
