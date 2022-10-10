@@ -23,10 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Easy Pull-apart Bread With Onion Dip](https://lifehacker.com/make-this-easy-pull-apart-bread-with-onion-dip-1849638187)
+- [Dev.to/JS] [Having fun with CSS](https://dev.to/setlock10/having-fun-with-css-23de)
+- [Dev.to/JS] [How to avoid &lpar;CLS&rpar; Layout Shift when using JS Components](https://dev.to/marcosregoweb/how-to-avoid-cls-layout-shift-when-using-js-components-1aka)
+- [Lifehacker] [You Should Probably Reset Your Facebook Password Today](https://lifehacker.com/you-should-probably-reset-your-facebook-password-today-1849638016)
 - [Dev.to/JS] [Server-Side Rendering in React 18](https://dev.to/nischal_dutt/server-side-rendering-in-react-18-1m4h)
 - [Dev.to/JS] [LinkDB: A complete dataset of public LinkedIn Profiles &lpar;and companies 😉&rpar;](https://dev.to/favor/linkdb-a-complete-dataset-of-public-linkedin-profiles-and-companies--39l6)
 - [Lifehacker] [This App Lets You Listen to Spotify Playlists in Apple Music](https://lifehacker.com/this-app-lets-you-listen-to-spotify-playlists-in-apple-1849637191)
-- [Dev.to/JS] [Need urgent answer ..Return function output to component in react js](https://dev.to/coderslime/return-function-output-to-component-in-react-js-2m7n)
+- [Dev.to/JS] [Need urgent answer ...Return function output to component in react js](https://dev.to/coderslime/return-function-output-to-component-in-react-js-2m7n)
 - [Lifehacker] [What I Learned From Tracking My Calorie Burn for a Year](https://lifehacker.com/what-i-learned-from-tracking-my-calorie-burn-for-a-year-1849632112)
 - [Dev.to/JS] [Day20 of #100DaysOfCode](https://dev.to/yoot/day20-of-100daysofcode-5dpo)
 - [Dev.to/JS] [The Electron Saga 0️⃣: My First App](https://dev.to/scriptjayt/the-electron-saga-0-my-first-app-45jg)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flatten Multidimensional array with Javascript](https://dev.to/blackkspydo/flatten-multidimensional-array-with-javascript-3bm3)
 - [Dev.to/JS] [Defferance between NodeJS vs Django vs Flask vs Spring Boot vs Ruby on Rails](https://dev.to/theankansaha/defferance-between-nodejs-vs-django-vs-flask-vs-spring-boot-vs-ruby-on-rails-44em)
 - [Dev.to/JS] [Console.time &amp; 4 other webdev tips you may want to know 🚀](https://dev.to/mustapha/consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d)
-- [Dev.to/JS] [PM2 and it&#39;s Features](https://dev.to/theankansaha/pm2-and-its-features-pae)
-- [Dev.to/JS] [Use Nginx as Loadbalancer with this code](https://dev.to/theankansaha/use-nginx-as-loadbalancer-with-this-code-1221)
 - [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)
 - [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
 - [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Real Difference Between the ‘Apocalypse,’ ‘Armageddon,’ and ‘Doomsday’](https://lifehacker.com/the-real-difference-between-the-apocalypse-armagedd-1849631390)
 - [Lifehacker] [Why You Shouldn&#39;t Pay for Anything With Zelle](https://lifehacker.com/why-you-shouldnt-pay-for-anything-with-zelle-1849631440)
 - [Lifehacker] [12 of the Worst Biopics of All Time &lpar;and 12 to Watch Instead&rpar;](https://lifehacker.com/12-of-the-worst-biopics-of-all-time-and-12-to-watch-in-1849625166)
-- [Lifehacker] [The Twitter Bots Everyone Should Follow](https://lifehacker.com/the-twitter-bots-everyone-should-follow-1849630465)
-- [Lifehacker] [The Overlooked &lpar;but Serious&rpar; Symptoms of Menopause](https://lifehacker.com/the-overlooked-but-serious-symptoms-of-menopause-1849628794)
-- [Lifehacker] [Your Child Might Actually Have a Math Learning Disorder](https://lifehacker.com/your-child-might-actually-have-a-math-learning-disorder-1849627701)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Twitter Bots Everyone Should Follow](https://lifehacker.com/the-twitter-bots-everyone-should-follow-1849630465)<!-- TECH-POSTS:END -->
 
 ---
 
