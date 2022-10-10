@@ -23,24 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Electron Saga 0️⃣: My First App](https://dev.to/scriptjayt/the-electron-saga-0-my-first-app-45jg)
+- [Lifehacker] [How to Tell If Your Child Has One of These Reading Disorders](https://lifehacker.com/how-to-tell-if-your-child-has-one-of-these-reading-diso-1849627713)
+- [Dev.to/JS] [Gesture-based payments](https://dev.to/stripe/gesture-based-payments-2ipd)
+- [Dev.to/JS] [Future of AI &lpar;artificial intelligence&rpar;](https://dev.to/theankansaha/future-of-ai-artificial-intelligence-hel)
+- [Dev.to/JS] [Flatten Multidimensional array with Javascript](https://dev.to/blackkspydo/flatten-multidimensional-array-with-javascript-3bm3)
+- [Dev.to/JS] [Defferance between NodeJS vs Django vs Flask vs Spring Boot vs Ruby on Rails](https://dev.to/theankansaha/defferance-between-nodejs-vs-django-vs-flask-vs-spring-boot-vs-ruby-on-rails-44em)
+- [Dev.to/JS] [Console.time &amp; 4 other webdev tips you may want to know 🚀](https://dev.to/mustapha/consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d)
+- [Dev.to/JS] [PM2 and it&#39;s Features](https://dev.to/theankansaha/pm2-and-its-features-pae)
+- [Dev.to/JS] [Use Nginx as Loadbalancer with this code](https://dev.to/theankansaha/use-nginx-as-loadbalancer-with-this-code-1221)
+- [Dev.to/JS] [Synodus - Your Strategic Technology Partner](https://dev.to/shyn/synodus-your-strategic-technology-partner-15k)
+- [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)
+- [Dev.to/JS] [Benefit of using Docker for Deployment](https://dev.to/theankansaha/benefit-of-using-docker-for-deployment-11kl)
+- [Dev.to/JS] [Use AJAX with WordPress in 3 ways](https://dev.to/rexarvind/use-ajax-with-wordpress-in-3-ways-47ek)
 - [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
 - [Dev.to/JS] [Paracetamol.js💊| #189: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-189-explica-este-codigo-javascript-3a9i)
 - [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)
-- [Dev.to/JS] [How to Add a JavaScript Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-report-viewer-to-your-web-application-57j5)
 - [Lifehacker] [How to Recover From a Toxic Work Environment](https://lifehacker.com/how-to-recover-from-a-toxic-work-environment-1849623149)
-- [Dev.to/JS] [Asynchronous JavaScript Part 1](https://dev.to/dboatengx/asynchronous-javascript-part-1-2o6m)
-- [Dev.to/JS] [How to Add a Smart React Data Table Component to Your Web Application](https://dev.to/grapecity/how-to-add-a-smart-react-data-table-component-to-your-web-application-2b8j)
 - [Lifehacker] [You Should Cook Oatmeal in Your Morning Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-your-morning-cup-of-tea-1849631713)
-- [Dev.to/JS] [Top 7 Trending JavaScript Tools for Developers](https://dev.to/anandprakash3/top-7-trending-javascript-tools-for-developers-5d6g)
 - [Lifehacker] [How to Treat a Headache Beyond Just Taking Drugs](https://lifehacker.com/how-to-treat-a-headache-beyond-just-taking-drugs-1849629973)
-- [Dev.to/JS] [Making a conditional tag](https://dev.to/mellen/making-a-conditional-tag-5792)
-- [Dev.to/JS] [sequence of parameters with bind&lpar;&rpar;](https://dev.to/erhie/sequence-of-parameters-in-bind-13em)
-- [Dev.to/JS] [Tailwind CSS Plugins by Htmlstream](https://dev.to/htmlstream/tailwind-css-plugins-by-htmlstream-1o5j)
 - [Lifehacker] [Combine These Two Annoying Kitchen Chores Into One](https://lifehacker.com/combine-these-two-annoying-kitchen-chores-into-one-1849631428)
-- [Dev.to/JS] [MATLAB Based Projects for ECE](https://dev.to/arunprakash142/matlab-based-projects-for-ece-11g1)
-- [Dev.to/JS] [Build a CRUD interface for your database in under 59 seconds](https://dev.to/akingbadeayobami/build-a-crud-interface-for-your-database-in-under-59-seconds-b5c)
-- [Dev.to/JS] [Templating JS Projects With MRM](https://dev.to/loganward/templating-js-projects-with-mrm-19go)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-oct-2022-1hlo)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Overlooked &lpar;but Serious&rpar; Symptoms of Menopause](https://lifehacker.com/the-overlooked-but-serious-symptoms-of-menopause-1849628794)
 - [Lifehacker] [Your Child Might Actually Have a Math Learning Disorder](https://lifehacker.com/your-child-might-actually-have-a-math-learning-disorder-1849627701)
 - [Lifehacker] [How Your Guilt Can Actually Help You](https://lifehacker.com/how-your-guilt-can-actually-help-you-1849630252)
-- [Lifehacker] [The Best Time to Carve Your Pumpkin so It&#39;s Not Rotten on Halloween](https://lifehacker.com/the-best-time-to-carve-your-pumpkin-so-its-not-rotten-o-1849624529)
-- [Lifehacker] [How to Pull Off the &#39;Hidden Kitchen&#39; Trend](https://lifehacker.com/how-to-pull-off-the-hidden-kitchen-trend-1849628983)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Lil Yachty in Poland?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-l-1849628637)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Time to Carve Your Pumpkin so It&#39;s Not Rotten on Halloween](https://lifehacker.com/the-best-time-to-carve-your-pumpkin-so-its-not-rotten-o-1849624529)<!-- TECH-POSTS:END -->
 
 ---
 
