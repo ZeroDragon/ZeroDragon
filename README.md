@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
+- [Dev.to/JS] [Apaixone-se pela CHARM stack](https://dev.to/grubba/apaixone-se-pela-charm-stack-3jhh)
+- [Dev.to/JS] [The complete guide to understanding Promise in JavaScript](https://dev.to/efkumah/the-complete-guide-to-understanding-promise-in-javascript-1ig5)
+- [Dev.to/JS] [Animated Background](https://dev.to/prayas/animated-background-2f25)
+- [Lifehacker] [What to Know About Decorating With Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
 - [Dev.to/JS] [Javascript, Reverse An Array Without Using Reverse Function](https://dev.to/mustafauzunco/javascript-reverse-an-array-without-using-reverse-function-3bpn)
 - [Dev.to/JS] [Developing a Node.js Application in a Virtual Private Network](https://dev.to/yugabyte/developing-a-nodejs-application-in-a-virtual-private-network-29k7)
 - [Lifehacker] [Throw Out These ALDI Falafels, FDA Says](https://lifehacker.com/throw-out-these-aldi-falafels-fda-says-1849639687)
@@ -41,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Need urgent answer ...Return function output to component in react js](https://dev.to/coderslime/return-function-output-to-component-in-react-js-2m7n)
 - [Lifehacker] [What I Learned From Tracking My Calorie Burn for a Year](https://lifehacker.com/what-i-learned-from-tracking-my-calorie-burn-for-a-year-1849632112)
 - [Dev.to/JS] [Day20 of #100DaysOfCode](https://dev.to/yoot/day20-of-100daysofcode-5dpo)
-- [Dev.to/JS] [The Electron Saga 0️⃣: My First App](https://dev.to/scriptjayt/the-electron-saga-0-my-first-app-45jg)
 - [Lifehacker] [How to Tell If Your Child Has One of These Reading Disorders](https://lifehacker.com/how-to-tell-if-your-child-has-one-of-these-reading-diso-1849627713)
-- [Dev.to/JS] [Gesture-based payments](https://dev.to/stripe/gesture-based-payments-2ipd)
-- [Dev.to/JS] [Future of AI &lpar;artificial intelligence&rpar;](https://dev.to/theankansaha/future-of-ai-artificial-intelligence-hel)
 - [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)
 - [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
 - [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
 - [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
-- [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
-- [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
-- [Lifehacker] [Five Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/five-things-youre-not-cleaning-in-your-washing-machine-1849631969)
-- [Lifehacker] [13 of the Worst Breaches of Gym Etiquette, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)<!-- TECH-POSTS:END -->
 
 ---
 
