@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What happened when you add one element into start of array?](https://dev.to/ibrahemahmad/what-happened-when-you-add-one-element-into-start-of-array-2j1d)
+- [Dev.to/JS] [An Easy Way to Eliminate CORS Policy Errors on a Frontend Application](https://dev.to/chideraao/an-easy-way-to-eliminate-cors-policy-errors-on-a-frontend-application-3j89)
+- [Dev.to/JS] [Solution Of The Promise Chaining In JavaScript](https://dev.to/asadanik/solution-of-the-promise-chaining-in-javascript-48o6)
+- [Dev.to/JS] [you are doing away with the harmful bacteria](https://dev.to/myrasricez/you-are-doing-away-with-the-harmful-bacteria-2f0p)
 - [Dev.to/JS] [Solution Of Callback Hell In JavaScript](https://dev.to/asadanik/solution-of-callback-hell-in-javascript-3p8e)
 - [Dev.to/JS] [Callback Hell In JavaScript](https://dev.to/asadanik/callback-hell-in-javascript-29bd)
 - [Dev.to/JS] [Functional Programming](https://dev.to/asadanik/what-is-functional-programming--416h)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/you-are-front-end-developer-this-is-for-you-sample-data-api-10lb)
 - [Dev.to/JS] [How Does Full Stack Development Stand Out From The Crowd?](https://dev.to/xnaksdn/how-does-full-stack-development-stand-out-from-the-crowd-2e1a)
 - [Dev.to/JS] [GETTING STARTED](https://dev.to/mskpinnapple/getting-started-3304)
-- [Dev.to/JS] [Global Summary of Some Strapi Key Features](https://dev.to/strapi/global-summary-of-some-strapi-key-features-16p5)
-- [Dev.to/JS] [Insight into QuickBooks install diagnostic tool](https://dev.to/josephinewilliam/insight-into-quickbooks-install-diagnostic-tool-224j)
-- [Dev.to/JS] [Improving Security of Nuxt 3](https://dev.to/jacobandrewsky/improving-security-of-nuxt-3-14ek)
-- [Dev.to/JS] [Refactor Like a Superhero: Introducing a New Online Book!](https://dev.to/bespoyasov/refactor-like-a-superhero-introducing-a-new-online-book-2l7b)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
