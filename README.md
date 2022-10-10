@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 7 Trending JavaScript Tools for Developers](https://dev.to/anandprakash3/top-7-trending-javascript-tools-for-developers-5d6g)
+- [Lifehacker] [How to Treat a Headache Beyond Just Taking Drugs](https://lifehacker.com/how-to-treat-a-headache-beyond-just-taking-drugs-1849629973)
+- [Dev.to/JS] [Making a conditional tag](https://dev.to/mellen/making-a-conditional-tag-5792)
+- [Dev.to/JS] [sequence of parameters with bind&lpar;&rpar;](https://dev.to/erhie/sequence-of-parameters-in-bind-13em)
+- [Dev.to/JS] [Tailwind CSS Plugins by Htmlstream](https://dev.to/htmlstream/tailwind-css-plugins-by-htmlstream-1o5j)
+- [Lifehacker] [Combine These Two Annoying Kitchen Chores Into One](https://lifehacker.com/combine-these-two-annoying-kitchen-chores-into-one-1849631428)
+- [Dev.to/JS] [MATLAB Based Projects for ECE](https://dev.to/arunprakash142/matlab-based-projects-for-ece-11g1)
+- [Dev.to/JS] [Build a CRUD interface for your database in under 59 seconds](https://dev.to/akingbadeayobami/build-a-crud-interface-for-your-database-in-under-59-seconds-b5c)
+- [Dev.to/JS] [Templating JS Projects With MRM](https://dev.to/loganward/templating-js-projects-with-mrm-19go)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-oct-2022-1hlo)
 - [Dev.to/JS] [My Web Development VS Code Extensions 😉](https://dev.to/alisamirali/my-web-development-vs-code-extensions-4hm4)
 - [Dev.to/JS] [What are the best platforms to write technical articles?](https://dev.to/surajondev/what-are-the-best-platforms-to-write-technical-articles-37fn)
 - [Dev.to/JS] [How I Created a React Native Ecommerce App for Medusa&#39;s Hackathon](https://dev.to/medusajs/how-i-created-a-react-native-ecommerce-app-for-medusas-hackathon-4am7)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👠.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-19fh)
-- [Dev.to/JS] [The decentralized Uniswap v3 exchange becomes &quot;warped&quot; on StarkNet](https://dev.to/michael_16/the-decentralized-uniswap-v3-exchange-becomes-warped-on-starknet-45n)
-- [Dev.to/JS] [TypeScript&#39;s `as` keyword might not be what you think](https://dev.to/typescriptteatime/typescripts-as-keyword-might-not-be-what-you-think-2bpo)
-- [Dev.to/JS] [What happens when you add one element into start of array?](https://dev.to/ibrahemahmad/what-happened-when-you-add-one-element-into-start-of-array-2j1d)
-- [Dev.to/JS] [An Easy Way to Eliminate CORS Policy Errors on a Frontend Application](https://dev.to/chideraao/an-easy-way-to-eliminate-cors-policy-errors-on-a-frontend-application-3j89)
-- [Dev.to/JS] [Solution Of The Promise Chaining In JavaScript](https://dev.to/asadanik/solution-of-the-promise-chaining-in-javascript-48o6)
-- [Dev.to/JS] [you are doing away with the harmful bacteria](https://dev.to/myrasricez/you-are-doing-away-with-the-harmful-bacteria-2f0p)
-- [Dev.to/JS] [Solution Of Callback Hell In JavaScript](https://dev.to/asadanik/solution-of-callback-hell-in-javascript-3p8e)
-- [Dev.to/JS] [Callback Hell In JavaScript](https://dev.to/asadanik/callback-hell-in-javascript-29bd)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
 - [Lifehacker] [What Actually Helps Get Rid of a Hickey &lpar;and What Makes It Worse&rpar;](https://lifehacker.com/what-actually-helps-get-rid-of-a-hickey-and-what-makes-1849626619)
 - [Lifehacker] [Everything You Need to Know About the Google Pixel Watch](https://lifehacker.com/everything-you-need-to-know-about-the-google-pixel-watc-1849624469)
-- [Lifehacker] [Please Don&#39;t Put Cooking Spray in Your Air Fryer](https://lifehacker.com/please-dont-put-cooking-spray-in-your-air-fryer-1849626915)
-- [Crazy Programmer] [9 Best Codecademy Alternatives 2022](https://www.thecrazyprogrammer.com/2022/10/codecademy-alternatives.html)
-- [Lifehacker] [Why You Should Never Respond to Spam, Even to Unsubscribe](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Please Don&#39;t Put Cooking Spray in Your Air Fryer](https://lifehacker.com/please-dont-put-cooking-spray-in-your-air-fryer-1849626915)<!-- TECH-POSTS:END -->
 
 ---
 
