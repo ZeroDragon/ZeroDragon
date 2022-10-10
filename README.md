@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should I Get a Rowing Machine?](https://lifehacker.com/should-i-get-a-rowing-machine-1849638843)
+- [Lifehacker] [How to Live With Stairs That Aren&#39;t Up to Code](https://lifehacker.com/how-to-live-with-stairs-that-arent-up-to-code-1849638520)
+- [Dev.to/JS] [How I built &amp; deployed a Secure File Sharing website with Javascript, HTML &amp; CSS](https://dev.to/anurag_vishwakarma/how-i-built-deployed-a-secure-file-sharing-website-with-javascript-html-css-4jbl)
 - [Lifehacker] [Make This Easy Pull-apart Bread With Onion Dip](https://lifehacker.com/make-this-easy-pull-apart-bread-with-onion-dip-1849638187)
 - [Dev.to/JS] [Having fun with CSS](https://dev.to/setlock10/having-fun-with-css-23de)
 - [Dev.to/JS] [How to avoid &lpar;CLS&rpar; Layout Shift when using JS Components](https://dev.to/marcosregoweb/how-to-avoid-cls-layout-shift-when-using-js-components-1aka)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Future of AI &lpar;artificial intelligence&rpar;](https://dev.to/theankansaha/future-of-ai-artificial-intelligence-hel)
 - [Dev.to/JS] [Flatten Multidimensional array with Javascript](https://dev.to/blackkspydo/flatten-multidimensional-array-with-javascript-3bm3)
 - [Dev.to/JS] [Defferance between NodeJS vs Django vs Flask vs Spring Boot vs Ruby on Rails](https://dev.to/theankansaha/defferance-between-nodejs-vs-django-vs-flask-vs-spring-boot-vs-ruby-on-rails-44em)
-- [Dev.to/JS] [Console.time &amp; 4 other webdev tips you may want to know 🚀](https://dev.to/mustapha/consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d)
 - [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)
 - [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
 - [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 of the Worst Breaches of Gym Etiquette, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
 - [Lifehacker] [Why You Should Always Have Plumber&#39;s Putty](https://lifehacker.com/why-you-should-always-have-plumbers-putty-1849630955)
 - [Lifehacker] [The Real Difference Between the ‘Apocalypse,’ ‘Armageddon,’ and ‘Doomsday’](https://lifehacker.com/the-real-difference-between-the-apocalypse-armagedd-1849631390)
-- [Lifehacker] [Why You Shouldn&#39;t Pay for Anything With Zelle](https://lifehacker.com/why-you-shouldnt-pay-for-anything-with-zelle-1849631440)
-- [Lifehacker] [12 of the Worst Biopics of All Time &lpar;and 12 to Watch Instead&rpar;](https://lifehacker.com/12-of-the-worst-biopics-of-all-time-and-12-to-watch-in-1849625166)
-- [Lifehacker] [The Twitter Bots Everyone Should Follow](https://lifehacker.com/the-twitter-bots-everyone-should-follow-1849630465)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn&#39;t Pay for Anything With Zelle](https://lifehacker.com/why-you-shouldnt-pay-for-anything-with-zelle-1849631440)<!-- TECH-POSTS:END -->
 
 ---
 
