@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript, Reverse An Array Without Using Reverse Function](https://dev.to/mustafauzunco/javascript-reverse-an-array-without-using-reverse-function-3bpn)
+- [Dev.to/JS] [Developing a Node.js Application in a Virtual Private Network](https://dev.to/yugabyte/developing-a-nodejs-application-in-a-virtual-private-network-29k7)
+- [Lifehacker] [Throw Out These ALDI Falafels, FDA Says](https://lifehacker.com/throw-out-these-aldi-falafels-fda-says-1849639687)
+- [Lifehacker] [Fix These iPhone 14 Bugs With the New iOS 16.0.3 Update](https://lifehacker.com/fix-these-iphone-14-bugs-with-the-new-ios-16-0-3-update-1849639091)
 - [Lifehacker] [You Can Totally Air Fry a Frozen Steak](https://lifehacker.com/you-can-totally-air-fry-a-frozen-steak-1849639261)
 - [Lifehacker] [Should I Get a Rowing Machine?](https://lifehacker.com/should-i-get-a-rowing-machine-1849638843)
 - [Lifehacker] [How to Live With Stairs That Aren&#39;t Up to Code](https://lifehacker.com/how-to-live-with-stairs-that-arent-up-to-code-1849638520)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Your Child Has One of These Reading Disorders](https://lifehacker.com/how-to-tell-if-your-child-has-one-of-these-reading-diso-1849627713)
 - [Dev.to/JS] [Gesture-based payments](https://dev.to/stripe/gesture-based-payments-2ipd)
 - [Dev.to/JS] [Future of AI &lpar;artificial intelligence&rpar;](https://dev.to/theankansaha/future-of-ai-artificial-intelligence-hel)
-- [Dev.to/JS] [Flatten Multidimensional array with Javascript](https://dev.to/blackkspydo/flatten-multidimensional-array-with-javascript-3bm3)
-- [Dev.to/JS] [Defferance between NodeJS vs Django vs Flask vs Spring Boot vs Ruby on Rails](https://dev.to/theankansaha/defferance-between-nodejs-vs-django-vs-flask-vs-spring-boot-vs-ruby-on-rails-44em)
 - [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)
 - [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
 - [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)
 - [Lifehacker] [Amazon Is About to Sell This 4K Smart TV for Just $112](https://lifehacker.com/amazon-is-about-to-sell-this-4k-smart-tv-for-just-112-1849631844)
 - [Lifehacker] [Five Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/five-things-youre-not-cleaning-in-your-washing-machine-1849631969)
-- [Lifehacker] [13 of the Worst Breaches of Gym Etiquette, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
-- [Lifehacker] [Why You Should Always Have Plumber&#39;s Putty](https://lifehacker.com/why-you-should-always-have-plumbers-putty-1849630955)
-- [Lifehacker] [The Real Difference Between the ‘Apocalypse,’ ‘Armageddon,’ and ‘Doomsday’](https://lifehacker.com/the-real-difference-between-the-apocalypse-armagedd-1849631390)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 of the Worst Breaches of Gym Etiquette, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)<!-- TECH-POSTS:END -->
 
 ---
 
