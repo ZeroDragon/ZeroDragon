@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
+- [Dev.to/JS] [Paracetamol.js💊| #189: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-189-explica-este-codigo-javascript-3a9i)
+- [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)
 - [Dev.to/JS] [How to Add a JavaScript Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-report-viewer-to-your-web-application-57j5)
 - [Lifehacker] [How to Recover From a Toxic Work Environment](https://lifehacker.com/how-to-recover-from-a-toxic-work-environment-1849623149)
 - [Dev.to/JS] [Asynchronous JavaScript Part 1](https://dev.to/dboatengx/asynchronous-javascript-part-1-2o6m)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a CRUD interface for your database in under 59 seconds](https://dev.to/akingbadeayobami/build-a-crud-interface-for-your-database-in-under-59-seconds-b5c)
 - [Dev.to/JS] [Templating JS Projects With MRM](https://dev.to/loganward/templating-js-projects-with-mrm-19go)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-oct-2022-1hlo)
-- [Dev.to/JS] [My Web Development VS Code Extensions 😉](https://dev.to/alisamirali/my-web-development-vs-code-extensions-4hm4)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Your Guilt Can Actually Help You](https://lifehacker.com/how-your-guilt-can-actually-help-you-1849630252)
 - [Lifehacker] [The Best Time to Carve Your Pumpkin so It&#39;s Not Rotten on Halloween](https://lifehacker.com/the-best-time-to-carve-your-pumpkin-so-its-not-rotten-o-1849624529)
 - [Lifehacker] [How to Pull Off the &#39;Hidden Kitchen&#39; Trend](https://lifehacker.com/how-to-pull-off-the-hidden-kitchen-trend-1849628983)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Lil Yachty in Poland?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-l-1849628637)
-- [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
-- [Lifehacker] [What Actually Helps Get Rid of a Hickey &lpar;and What Makes It Worse&rpar;](https://lifehacker.com/what-actually-helps-get-rid-of-a-hickey-and-what-makes-1849626619)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Lil Yachty in Poland?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-l-1849628637)<!-- TECH-POSTS:END -->
 
 ---
 
