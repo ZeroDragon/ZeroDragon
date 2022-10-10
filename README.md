@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Totally Air Fry a Frozen Steak](https://lifehacker.com/you-can-totally-air-fry-a-frozen-steak-1849639261)
 - [Lifehacker] [Should I Get a Rowing Machine?](https://lifehacker.com/should-i-get-a-rowing-machine-1849638843)
 - [Lifehacker] [How to Live With Stairs That Aren&#39;t Up to Code](https://lifehacker.com/how-to-live-with-stairs-that-arent-up-to-code-1849638520)
 - [Dev.to/JS] [How I built &amp; deployed a Secure File Sharing website with Javascript, HTML &amp; CSS](https://dev.to/anurag_vishwakarma/how-i-built-deployed-a-secure-file-sharing-website-with-javascript-html-css-4jbl)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Things You&#39;re Not Cleaning in Your Washing Machine &lpar;but Should Be&rpar;](https://lifehacker.com/five-things-youre-not-cleaning-in-your-washing-machine-1849631969)
 - [Lifehacker] [13 of the Worst Breaches of Gym Etiquette, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
 - [Lifehacker] [Why You Should Always Have Plumber&#39;s Putty](https://lifehacker.com/why-you-should-always-have-plumbers-putty-1849630955)
-- [Lifehacker] [The Real Difference Between the ‘Apocalypse,’ ‘Armageddon,’ and ‘Doomsday’](https://lifehacker.com/the-real-difference-between-the-apocalypse-armagedd-1849631390)
-- [Lifehacker] [Why You Shouldn&#39;t Pay for Anything With Zelle](https://lifehacker.com/why-you-shouldnt-pay-for-anything-with-zelle-1849631440)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Real Difference Between the ‘Apocalypse,’ ‘Armageddon,’ and ‘Doomsday’](https://lifehacker.com/the-real-difference-between-the-apocalypse-armagedd-1849631390)<!-- TECH-POSTS:END -->
 
 ---
 
