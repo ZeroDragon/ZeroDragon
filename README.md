@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add a JavaScript Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-report-viewer-to-your-web-application-57j5)
+- [Lifehacker] [How to Recover From a Toxic Work Environment](https://lifehacker.com/how-to-recover-from-a-toxic-work-environment-1849623149)
+- [Dev.to/JS] [Asynchronous JavaScript Part 1](https://dev.to/dboatengx/asynchronous-javascript-part-1-2o6m)
+- [Dev.to/JS] [How to Add a Smart React Data Table Component to Your Web Application](https://dev.to/grapecity/how-to-add-a-smart-react-data-table-component-to-your-web-application-2b8j)
+- [Lifehacker] [You Should Cook Oatmeal in Your Morning Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-your-morning-cup-of-tea-1849631713)
 - [Dev.to/JS] [Top 7 Trending JavaScript Tools for Developers](https://dev.to/anandprakash3/top-7-trending-javascript-tools-for-developers-5d6g)
 - [Lifehacker] [How to Treat a Headache Beyond Just Taking Drugs](https://lifehacker.com/how-to-treat-a-headache-beyond-just-taking-drugs-1849629973)
 - [Dev.to/JS] [Making a conditional tag](https://dev.to/mellen/making-a-conditional-tag-5792)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Templating JS Projects With MRM](https://dev.to/loganward/templating-js-projects-with-mrm-19go)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-oct-2022-1hlo)
 - [Dev.to/JS] [My Web Development VS Code Extensions 😉](https://dev.to/alisamirali/my-web-development-vs-code-extensions-4hm4)
-- [Dev.to/JS] [What are the best platforms to write technical articles?](https://dev.to/surajondev/what-are-the-best-platforms-to-write-technical-articles-37fn)
-- [Dev.to/JS] [How I Created a React Native Ecommerce App for Medusa&#39;s Hackathon](https://dev.to/medusajs/how-i-created-a-react-native-ecommerce-app-for-medusas-hackathon-4am7)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👠.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-19fh)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Pull Off the &#39;Hidden Kitchen&#39; Trend](https://lifehacker.com/how-to-pull-off-the-hidden-kitchen-trend-1849628983)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Lil Yachty in Poland?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-l-1849628637)
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
-- [Lifehacker] [What Actually Helps Get Rid of a Hickey &lpar;and What Makes It Worse&rpar;](https://lifehacker.com/what-actually-helps-get-rid-of-a-hickey-and-what-makes-1849626619)
-- [Lifehacker] [Everything You Need to Know About the Google Pixel Watch](https://lifehacker.com/everything-you-need-to-know-about-the-google-pixel-watc-1849624469)
-- [Lifehacker] [Please Don&#39;t Put Cooking Spray in Your Air Fryer](https://lifehacker.com/please-dont-put-cooking-spray-in-your-air-fryer-1849626915)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Actually Helps Get Rid of a Hickey &lpar;and What Makes It Worse&rpar;](https://lifehacker.com/what-actually-helps-get-rid-of-a-hickey-and-what-makes-1849626619)<!-- TECH-POSTS:END -->
 
 ---
 
