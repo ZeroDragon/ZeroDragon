@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Server-Side Rendering in React 18](https://dev.to/nischal_dutt/server-side-rendering-in-react-18-1m4h)
+- [Dev.to/JS] [LinkDB: A complete dataset of public LinkedIn Profiles &lpar;and companies 😉&rpar;](https://dev.to/favor/linkdb-a-complete-dataset-of-public-linkedin-profiles-and-companies--39l6)
+- [Lifehacker] [This App Lets You Listen to Spotify Playlists in Apple Music](https://lifehacker.com/this-app-lets-you-listen-to-spotify-playlists-in-apple-1849637191)
+- [Dev.to/JS] [Need urgent answer ..Return function output to component in react js](https://dev.to/coderslime/return-function-output-to-component-in-react-js-2m7n)
+- [Lifehacker] [What I Learned From Tracking My Calorie Burn for a Year](https://lifehacker.com/what-i-learned-from-tracking-my-calorie-burn-for-a-year-1849632112)
+- [Dev.to/JS] [Day20 of #100DaysOfCode](https://dev.to/yoot/day20-of-100daysofcode-5dpo)
 - [Dev.to/JS] [The Electron Saga 0️⃣: My First App](https://dev.to/scriptjayt/the-electron-saga-0-my-first-app-45jg)
 - [Lifehacker] [How to Tell If Your Child Has One of These Reading Disorders](https://lifehacker.com/how-to-tell-if-your-child-has-one-of-these-reading-diso-1849627713)
 - [Dev.to/JS] [Gesture-based payments](https://dev.to/stripe/gesture-based-payments-2ipd)
@@ -32,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Console.time &amp; 4 other webdev tips you may want to know 🚀](https://dev.to/mustapha/consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d)
 - [Dev.to/JS] [PM2 and it&#39;s Features](https://dev.to/theankansaha/pm2-and-its-features-pae)
 - [Dev.to/JS] [Use Nginx as Loadbalancer with this code](https://dev.to/theankansaha/use-nginx-as-loadbalancer-with-this-code-1221)
-- [Dev.to/JS] [Synodus - Your Strategic Technology Partner](https://dev.to/shyn/synodus-your-strategic-technology-partner-15k)
 - [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)
-- [Dev.to/JS] [Benefit of using Docker for Deployment](https://dev.to/theankansaha/benefit-of-using-docker-for-deployment-11kl)
-- [Dev.to/JS] [Use AJAX with WordPress in 3 ways](https://dev.to/rexarvind/use-ajax-with-wordpress-in-3-ways-47ek)
 - [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
-- [Dev.to/JS] [Paracetamol.js💊| #189: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-189-explica-este-codigo-javascript-3a9i)
 - [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)
 - [Lifehacker] [How to Recover From a Toxic Work Environment](https://lifehacker.com/how-to-recover-from-a-toxic-work-environment-1849623149)
 - [Lifehacker] [You Should Cook Oatmeal in Your Morning Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-your-morning-cup-of-tea-1849631713)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Worst Biopics of All Time &lpar;and 12 to Watch Instead&rpar;](https://lifehacker.com/12-of-the-worst-biopics-of-all-time-and-12-to-watch-in-1849625166)
 - [Lifehacker] [The Twitter Bots Everyone Should Follow](https://lifehacker.com/the-twitter-bots-everyone-should-follow-1849630465)
 - [Lifehacker] [The Overlooked &lpar;but Serious&rpar; Symptoms of Menopause](https://lifehacker.com/the-overlooked-but-serious-symptoms-of-menopause-1849628794)
-- [Lifehacker] [Your Child Might Actually Have a Math Learning Disorder](https://lifehacker.com/your-child-might-actually-have-a-math-learning-disorder-1849627701)
-- [Lifehacker] [How Your Guilt Can Actually Help You](https://lifehacker.com/how-your-guilt-can-actually-help-you-1849630252)
-- [Lifehacker] [The Best Time to Carve Your Pumpkin so It&#39;s Not Rotten on Halloween](https://lifehacker.com/the-best-time-to-carve-your-pumpkin-so-its-not-rotten-o-1849624529)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Child Might Actually Have a Math Learning Disorder](https://lifehacker.com/your-child-might-actually-have-a-math-learning-disorder-1849627701)<!-- TECH-POSTS:END -->
 
 ---
 
