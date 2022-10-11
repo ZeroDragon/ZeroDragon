@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Post - For Expert Beginners Only](https://dev.to/wizardofhause/first-post-for-expert-beginners-only-1a74)
+- [Dev.to/JS] [Difference between mongoose and mongodb module](https://dev.to/theankansaha/difference-between-mongoose-and-mongodb-module-66h)
+- [Dev.to/JS] [5 Lessons On Software Development From The Mythical Man-Month](https://dev.to/domfive/5-lessons-on-software-development-from-the-mythical-man-month-3de4)
+- [Dev.to/JS] [Playwright tips that will make your life easier - including how to select, act and combat flaky test](https://dev.to/summerbud/playwright-tips-that-will-make-your-life-easier-including-how-to-select-act-and-combat-flaky-test-4mpo)
 - [Dev.to/JS] [WebGL : Javascript or Rust ?](https://dev.to/baloudev/webgl-javascript-or-rust--539c)
 - [Dev.to/JS] [Forever Functional: Solving puzzles with recursion and JavaScript](https://dev.to/asayerio_techblog/forever-functional-solving-puzzles-with-recursion-and-javascript-1ld5)
 - [Dev.to/JS] [The Complete Guide to Modules in Browsers and Node](https://dev.to/asayerio_techblog/the-complete-guide-to-modules-in-browsers-and-node-1h8)
@@ -39,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Totally Air Fry a Frozen Steak](https://lifehacker.com/you-can-totally-air-fry-a-frozen-steak-1849639261)
 - [Lifehacker] [Should I Get a Rowing Machine?](https://lifehacker.com/should-i-get-a-rowing-machine-1849638843)
 - [Lifehacker] [How to Live With Stairs That Aren&#39;t Up to Code](https://lifehacker.com/how-to-live-with-stairs-that-arent-up-to-code-1849638520)
-- [Dev.to/JS] [How I built &amp; deployed a Secure File Sharing website with Javascript, HTML &amp; CSS](https://dev.to/anurag_vishwakarma/how-i-built-deployed-a-secure-file-sharing-website-with-javascript-html-css-4jbl)
 - [Lifehacker] [Make This Easy Pull-apart Bread With Onion Dip](https://lifehacker.com/make-this-easy-pull-apart-bread-with-onion-dip-1849638187)
-- [Dev.to/JS] [Having fun with CSS](https://dev.to/setlock10/having-fun-with-css-23de)
-- [Dev.to/JS] [How to avoid &lpar;CLS&rpar; Layout Shift when using JS Components](https://dev.to/marcosregoweb/how-to-avoid-cls-layout-shift-when-using-js-components-1aka)
 - [Lifehacker] [You Should Probably Reset Your Facebook Password Today](https://lifehacker.com/you-should-probably-reset-your-facebook-password-today-1849638016)
-- [Dev.to/JS] [Server-Side Rendering in React 18](https://dev.to/nischal_dutt/server-side-rendering-in-react-18-1m4h)
 - [Lifehacker] [This App Lets You Listen to Spotify Playlists in Apple Music](https://lifehacker.com/this-app-lets-you-listen-to-spotify-playlists-in-apple-1849637191)
 - [Lifehacker] [What I Learned From Tracking My Calorie Burn for a Year](https://lifehacker.com/what-i-learned-from-tracking-my-calorie-burn-for-a-year-1849632112)
 - [Lifehacker] [How to Tell If Your Child Has One of These Reading Disorders](https://lifehacker.com/how-to-tell-if-your-child-has-one-of-these-reading-diso-1849627713)
