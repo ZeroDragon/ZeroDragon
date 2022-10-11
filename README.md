@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a closure? And why this matters ? - Javascript](https://dev.to/vcctm/what-is-a-closure-and-why-this-matters-javascript-386p)
+- [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
 - [Dev.to/JS] [If&lpar; a==1 &amp;&amp; a==2&amp;&amp;a==3 &rpar; is equal to true under what circumstances?](https://dev.to/yoco/if-a1-a2a3-is-equal-to-true-under-what-circumstances-369p)
@@ -40,10 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CorelDRAW Graphics Suite Crack 24.2.1.444 &lpar;x64&rpar; Free Download](https://dev.to/crackedfine/coreldraw-graphics-suite-crack-2421444-x64-free-download-53lj)
 - [Lifehacker] [Should You Look at Your Medical Test Results Early?](https://lifehacker.com/should-you-look-at-your-medical-test-results-early-1849643612)
 - [Lifehacker] [Is the iPhone 14 Worth the Money?](https://lifehacker.com/is-the-iphone-14-worth-the-money-1849643832)
+- [Dev.to/JS] [One-click treat for Open Source maintainers](https://dev.to/stackblitz/one-click-treat-for-open-source-maintainers-49f7)
 - [Dev.to/JS] [How to fetch data in React with performance in mind](https://dev.to/adevnadia/how-to-fetch-data-in-react-with-performance-in-mind-2146)
 - [Lifehacker] [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)
-- [Dev.to/JS] [Create a Discord Bot that Automates Secret Messages with Node.js](https://dev.to/shreythecray/create-a-discord-bot-that-automates-secret-messages-with-nodejs-3pp9)
-- [Dev.to/JS] [Support science and help your favorite charity by participating in a short online experiment.](https://dev.to/lukas37118701/support-science-and-help-your-favorite-charity-by-participating-in-a-short-online-experiment-3hga)
 - [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)
 - [Lifehacker] [Should I Get the New COVID Booster?](https://lifehacker.com/should-i-get-the-new-covid-booster-1849643145)
 - [Lifehacker] [30 of the Scariest Non-English Language Movies Ever](https://lifehacker.com/30-of-the-scariest-non-english-language-movies-ever-1849637881)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fix These iPhone 14 Bugs With the New iOS 16.0.3 Update](https://lifehacker.com/fix-these-iphone-14-bugs-with-the-new-ios-16-0-3-update-1849639091)
 - [Lifehacker] [You Can Totally Air Fry a Frozen Steak](https://lifehacker.com/you-can-totally-air-fry-a-frozen-steak-1849639261)
 - [Lifehacker] [Should I Get a Rowing Machine?](https://lifehacker.com/should-i-get-a-rowing-machine-1849638843)
-- [Lifehacker] [How to Live With Stairs That Aren&#39;t Up to Code](https://lifehacker.com/how-to-live-with-stairs-that-arent-up-to-code-1849638520)
-- [Lifehacker] [Make This Easy Pull-apart Bread With Onion Dip](https://lifehacker.com/make-this-easy-pull-apart-bread-with-onion-dip-1849638187)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Live With Stairs That Aren&#39;t Up to Code](https://lifehacker.com/how-to-live-with-stairs-that-arent-up-to-code-1849638520)<!-- TECH-POSTS:END -->
 
 ---
 
