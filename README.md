@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to translate a PWA app manifest](https://dev.to/progressier/how-to-translate-a-pwa-app-manifest-2e7i)
+- [Dev.to/JS] [Find JavaScript cyber-vulnerabilities for free](https://dev.to/codesec/find-javascript-cyber-vulnerabilities-for-free-35ao)
 - [Dev.to/JS] [First Post - For Expert Beginners Only](https://dev.to/wizardofhause/first-post-for-expert-beginners-only-1a74)
 - [Dev.to/JS] [Difference between mongoose and mongodb module](https://dev.to/theankansaha/difference-between-mongoose-and-mongodb-module-66h)
 - [Dev.to/JS] [5 Lessons On Software Development From The Mythical Man-Month](https://dev.to/domfive/5-lessons-on-software-development-from-the-mythical-man-month-3de4)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animated Background](https://dev.to/prayas/animated-background-2f25)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
-- [Dev.to/JS] [Javascript, Reverse An Array Without Using Reverse Function](https://dev.to/mustafauzunco/javascript-reverse-an-array-without-using-reverse-function-3bpn)
-- [Dev.to/JS] [Developing a Node.js Application in a Virtual Private Network](https://dev.to/yugabyte/developing-a-nodejs-application-in-a-virtual-private-network-29k7)
 - [Lifehacker] [Throw Out These ALDI Falafels, FDA Says](https://lifehacker.com/throw-out-these-aldi-falafels-fda-says-1849639687)
 - [Lifehacker] [Fix These iPhone 14 Bugs With the New iOS 16.0.3 Update](https://lifehacker.com/fix-these-iphone-14-bugs-with-the-new-ios-16-0-3-update-1849639091)
 - [Lifehacker] [You Can Totally Air Fry a Frozen Steak](https://lifehacker.com/you-can-totally-air-fry-a-frozen-steak-1849639261)
