@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling the Enter and arrow keys using Javascript](https://dev.to/aakas/handling-the-enter-and-arrow-keys-using-javascript-4o85)
+- [Dev.to/JS] [PRINCE2 Roles &amp; Responsibilities](https://dev.to/postwell45/prince2-roles-responsibilities-4oa8)
+- [Dev.to/JS] [Medusa 1.5.0: PriceList Import, Medusa Hackathon, and more!](https://dev.to/medusajs/medusa-142-pricelist-import-medusa-hackathon-and-more-5076)
 - [Dev.to/JS] [Stacks and Queues in JavaScript](https://dev.to/chrisding7/stacks-and-queues-in-javascript-4fdm)
 - [Dev.to/JS] [How To Deploy An ERC-20 Smart Contract On Avalanche with Infura](https://dev.to/johnjvester/how-to-deploy-an-erc-20-smart-contract-on-avalanche-with-infura-58hm)
 - [Dev.to/JS] [Building THE MOST practical Todolist with React and Websockets 🪄✨](https://dev.to/novu/building-the-most-practical-todolist-with-react-and-websockets-18hd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [next-export-i18n v2.1.0: support for react v18 and next v12](https://dev.to/martinkr/next-export-i18n-v210-support-for-react-v18-and-next-v12-437e)
 - [Dev.to/JS] [Build a Shazam clone with Node.js](https://dev.to/jonathz/build-a-shazam-clone-with-nodejs-med)
 - [Dev.to/JS] [From Notion to Eleventy](https://dev.to/iamschulz/from-notion-to-eleventy-32ij)
-- [Dev.to/JS] [Full-stack, type-safe applications development with Next.js and tRPC](https://dev.to/andrewhu368/full-stack-type-safe-applications-development-with-nextjs-and-trpc-3ggj)
-- [Dev.to/JS] [Styling the header and footer - part 4](https://dev.to/dailydevtips1/styling-the-header-and-footer-part-4-495o)
-- [Dev.to/JS] [Get image data from mongodb using mongoose and send to client side using nodejs and javascript](https://dev.to/theankansaha/get-image-data-from-mongodb-using-mongoose-and-send-to-client-side-using-nodejs-and-javascript-1ejk)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
