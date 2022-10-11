@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Discord Bot that Automates Secret Messages with Node.js](https://dev.to/shreythecray/create-a-discord-bot-that-automates-secret-messages-with-nodejs-3pp9)
+- [Dev.to/JS] [Support science and help your favorite charity by participating in a short online experiment.](https://dev.to/lukas37118701/support-science-and-help-your-favorite-charity-by-participating-in-a-short-online-experiment-3hga)
+- [Dev.to/JS] [Take My Online Courses](https://dev.to/silvestonjohnny/take-my-online-courses-45o4)
+- [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)
+- [Dev.to/JS] [15 Best Terminal Commands That You Should Know](https://dev.to/spyder15/15-best-terminal-commands-that-you-should-know-22ae)
+- [Lifehacker] [Should I Get the New COVID Booster?](https://lifehacker.com/should-i-get-the-new-covid-booster-1849643145)
+- [Dev.to/JS] [Important JavaScript Array method](https://dev.to/shubhamku044/important-javascript-array-method-15oj)
+- [Dev.to/JS] [30 Most Useful Google Chrome Extensions For 2021](https://dev.to/souravdey4/30-most-useful-google-chrome-extensions-for-2021-23aj)
+- [Lifehacker] [30 of the Scariest Non-English Language Movies Ever](https://lifehacker.com/30-of-the-scariest-non-english-language-movies-ever-1849637881)
 - [Lifehacker] [How to Get Dental Care Without Insurance &lpar;or Money&rpar;](https://lifehacker.com/how-to-get-dental-care-without-insurance-or-money-1849642862)
 - [Dev.to/JS] [Shorter conditionals with Truthy and Falsy values in JS](https://dev.to/schemetastic/shorter-conditionals-with-truthy-and-falsy-values-in-js-1f2e)
 - [Dev.to/JS] [Context Api in React Class Based Component](https://dev.to/akshdesai1/context-api-in-react-class-based-component-4308)
@@ -31,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [📦 I wrote my first NPM package](https://dev.to/msmello_/i-wrote-my-first-npm-package-3e0b)
 - [Dev.to/JS] [🤩Crash Course: Create CRUD Website&lpar;Single Page Application&rpar; Using Expressjs+MongoDb+Axios](https://dev.to/akshdesai1/crash-course-create-crud-websitesingle-page-application-using-expressjsmongodbaxios-22oe)
 - [Dev.to/JS] [How to Center Multiple Pins for Google Maps API](https://dev.to/elliotmangini/how-to-center-multiple-pins-for-google-maps-api-2njg)
-- [Dev.to/JS] [How to make a Documentation Website in React JS?](https://dev.to/jacksonkasi/how-to-make-a-documentation-website-in-react-js-56mk)
 - [Lifehacker] [You Can Use Your iPhone as an ID in These States](https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states-1849641113)
-- [Dev.to/JS] [Day21 of #100DaysOfCode - Finally a breakthrough! 😂](https://dev.to/yoot/day21-of-100daysofcode-finally-a-breakthrough-3d7d)
-- [Dev.to/JS] [How to use the Relay fetch policy to ensure fast rendering?](https://dev.to/woovi/how-to-use-the-relay-fetch-policy-to-ensure-fast-rendering-1hm2)
 - [Lifehacker] [10 of the Best Places to See the Northern Lights in the U.S.](https://lifehacker.com/10-of-the-best-places-to-see-the-northern-lights-in-the-1849641611)
-- [Dev.to/JS] [Num Subarray Product Less Than K](https://dev.to/zeeshanali0704/num-subarray-product-less-than-k-5176)
-- [Dev.to/JS] [Arguments vs Parameters in JavaScript](https://dev.to/oluwatobiss/arguments-vs-parameters-in-javascript-33bo)
-- [Dev.to/JS] [CamelCase Hackerrank [Easy Solution]](https://dev.to/yajindragautam/camelcase-hackerrank-easy-solution-eci)
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)
 - [Lifehacker] [How to Deal With ‘Weaponized Incompetence’ at Work](https://lifehacker.com/how-to-deal-with-weaponized-incompetence-at-work-1849640868)
 - [Lifehacker] [How to Slice an Onion to Help It Keep Its Shape](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
 - [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)
 - [Lifehacker] [How to Recover From a Toxic Work Environment](https://lifehacker.com/how-to-recover-from-a-toxic-work-environment-1849623149)
-- [Lifehacker] [You Should Cook Oatmeal in Your Morning Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-your-morning-cup-of-tea-1849631713)
-- [Lifehacker] [How to Treat a Headache Beyond Just Taking Drugs](https://lifehacker.com/how-to-treat-a-headache-beyond-just-taking-drugs-1849629973)
-- [Lifehacker] [Combine These Two Annoying Kitchen Chores Into One](https://lifehacker.com/combine-these-two-annoying-kitchen-chores-into-one-1849631428)
-- [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Cook Oatmeal in Your Morning Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-your-morning-cup-of-tea-1849631713)<!-- TECH-POSTS:END -->
 
 ---
 
