@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get image data from mongodb using mongoose and send to client side using nodejs and javascript](https://dev.to/theankansaha/get-image-data-from-mongodb-using-mongoose-and-send-to-client-side-using-nodejs-and-javascript-1ejk)
+- [Dev.to/JS] [All methods and their use of fs module in nodejs](https://dev.to/theankansaha/all-methods-and-their-use-of-fs-module-in-nodejs-32kf)
 - [Dev.to/JS] [Different ways of writing functions in JavaScript](https://dev.to/mazin1231/different-ways-of-writing-functions-in-javascript-59f2)
 - [Dev.to/JS] [Serverless Computing](https://dev.to/theankansaha/serverless-computing-1mk0)
 - [Dev.to/JS] [How to secure debian linux step by step](https://dev.to/theankansaha/how-to-secure-debian-linux-step-by-step-2kek)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Purva Meraki](https://dev.to/purvameraki/purva-meraki-5hna)
 - [Dev.to/JS] [javascript: convert object to query params](https://dev.to/urstrulyvishwak/javascript-convert-object-to-query-params-4pc0)
 - [Dev.to/JS] [How to translate a PWA app manifest](https://dev.to/progressier/how-to-translate-a-pwa-app-manifest-2e7i)
-- [Dev.to/JS] [Find JavaScript cyber-vulnerabilities for free](https://dev.to/codesec/find-javascript-cyber-vulnerabilities-for-free-35ao)
-- [Dev.to/JS] [First Post - For Expert Beginners Only](https://dev.to/wizardofhause/first-post-for-expert-beginners-only-1a74)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
