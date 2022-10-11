@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I started my YouTube channel to help people to get into web development !](https://dev.to/avinashvagh/i-started-my-youtube-channel-to-help-people-to-get-into-web-development--2ijh)
+- [Dev.to/JS] [Create-react-app or Vite ?](https://dev.to/leopold/create-react-app-or-vite--33d9)
+- [Dev.to/JS] [Supportive Is: an elegant utility to check types of values in JavaScript](https://dev.to/hassanzohdy/supportive-is-an-elegant-utility-to-check-types-of-values-in-javascript-1b3e)
+- [Lifehacker] [These Free Stencils Will Help You Carve the Neighborhood’s Best Jack-o-Lantern](https://lifehacker.com/these-free-stencils-will-help-you-carve-the-neighborhoo-1849643981)
+- [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
 - [Lifehacker] [How to Use the DEFCON System Without Embarrassing Yourself](https://lifehacker.com/how-to-use-the-defcon-system-without-embarrassing-yours-1849643916)
 - [Dev.to/JS] [Connecting Cypress to a PostgreSQL database](https://dev.to/xvier/connecting-cypress-to-a-postgresql-database-3po5)
 - [Dev.to/JS] [Entendiendo async y await en Javascript](https://dev.to/matiasfha/entendiendo-async-y-await-en-javascript-3k0j)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Support science and help your favorite charity by participating in a short online experiment.](https://dev.to/lukas37118701/support-science-and-help-your-favorite-charity-by-participating-in-a-short-online-experiment-3hga)
 - [Dev.to/JS] [Take My Online Courses](https://dev.to/silvestonjohnny/take-my-online-courses-45o4)
 - [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)
-- [Dev.to/JS] [15 Best Terminal Commands That You Should Know](https://dev.to/spyder15/15-best-terminal-commands-that-you-should-know-22ae)
 - [Lifehacker] [Should I Get the New COVID Booster?](https://lifehacker.com/should-i-get-the-new-covid-booster-1849643145)
-- [Dev.to/JS] [Important JavaScript Array method](https://dev.to/shubhamku044/important-javascript-array-method-15oj)
-- [Dev.to/JS] [30 Most Useful Google Chrome Extensions For 2021](https://dev.to/souravdey4/30-most-useful-google-chrome-extensions-for-2021-23aj)
 - [Lifehacker] [30 of the Scariest Non-English Language Movies Ever](https://lifehacker.com/30-of-the-scariest-non-english-language-movies-ever-1849637881)
 - [Lifehacker] [How to Get Dental Care Without Insurance &lpar;or Money&rpar;](https://lifehacker.com/how-to-get-dental-care-without-insurance-or-money-1849642862)
 - [Lifehacker] [How to Build a DIY Air Purifier for Your Home](https://lifehacker.com/how-to-build-a-diy-air-purifier-for-your-home-1849642865)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Easy Pull-apart Bread With Onion Dip](https://lifehacker.com/make-this-easy-pull-apart-bread-with-onion-dip-1849638187)
 - [Lifehacker] [You Should Probably Reset Your Facebook Password Today](https://lifehacker.com/you-should-probably-reset-your-facebook-password-today-1849638016)
 - [Lifehacker] [This App Lets You Listen to Spotify Playlists in Apple Music](https://lifehacker.com/this-app-lets-you-listen-to-spotify-playlists-in-apple-1849637191)
-- [Lifehacker] [What I Learned From Tracking My Calorie Burn for a Year](https://lifehacker.com/what-i-learned-from-tracking-my-calorie-burn-for-a-year-1849632112)
-- [Lifehacker] [How to Tell If Your Child Has One of These Reading Disorders](https://lifehacker.com/how-to-tell-if-your-child-has-one-of-these-reading-diso-1849627713)
-- [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What I Learned From Tracking My Calorie Burn for a Year](https://lifehacker.com/what-i-learned-from-tracking-my-calorie-burn-for-a-year-1849632112)<!-- TECH-POSTS:END -->
 
 ---
 
