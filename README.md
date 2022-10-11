@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [📦 I wrote my first NPM package](https://dev.to/msmello_/i-wrote-my-first-npm-package-3e0b)
+- [Dev.to/JS] [🤩Crash Course: Create CRUD Website&lpar;Single Page Application&rpar; Using Expressjs+MongoDb+Axios](https://dev.to/akshdesai1/crash-course-create-crud-websitesingle-page-application-using-expressjsmongodbaxios-22oe)
+- [Dev.to/JS] [How to Center Multiple Pins for Google Maps API](https://dev.to/elliotmangini/how-to-center-multiple-pins-for-google-maps-api-2njg)
+- [Dev.to/JS] [How to make a Documentation Website in React JS?](https://dev.to/jacksonkasi/how-to-make-a-documentation-website-in-react-js-56mk)
+- [Lifehacker] [You Can Use Your iPhone as an ID in These States](https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states-1849641113)
 - [Dev.to/JS] [Day21 of #100DaysOfCode - Finally a breakthrough! 😂](https://dev.to/yoot/day21-of-100daysofcode-finally-a-breakthrough-3d7d)
 - [Dev.to/JS] [How to use the Relay fetch policy to ensure fast rendering?](https://dev.to/woovi/how-to-use-the-relay-fetch-policy-to-ensure-fast-rendering-1hm2)
 - [Lifehacker] [10 of the Best Places to See the Northern Lights in the U.S.](https://lifehacker.com/10-of-the-best-places-to-see-the-northern-lights-in-the-1849641611)
@@ -33,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)
 - [Dev.to/JS] [The 3 broad types of JS Frameworks](https://dev.to/thejaredwilcurt/the-3-broad-types-of-js-frameworks-12hd)
 - [Lifehacker] [How to Deal With ‘Weaponized Incompetence’ at Work](https://lifehacker.com/how-to-deal-with-weaponized-incompetence-at-work-1849640868)
-- [Lifehacker] [This Is the Only Right Way to Slice an Onion](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)
+- [Lifehacker] [How to Slice an Onion to Help It Keep Its Shape](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)
 - [Dev.to/JS] [What is Developer Experience?](https://dev.to/ganeshpatil0101/what-is-developer-experience-5d8o)
-- [Dev.to/JS] [How to Fix React Must Be in Scope When Using JSX?](https://dev.to/mittal69353530/how-to-fix-react-must-be-in-scope-when-using-jsx-1pon)
-- [Dev.to/JS] [The side project you all need to do and redo as a web developer 👨‍💻](https://dev.to/thomasmorice/the-side-project-you-all-need-to-do-and-redo-as-a-web-developer-3bcm)
-- [Dev.to/JS] [Handling the Enter and arrow keys using Javascript](https://dev.to/aakas/handling-the-enter-and-arrow-keys-using-javascript-4o85)
-- [Dev.to/JS] [PRINCE2 Roles &amp; Responsibilities](https://dev.to/postwell45/prince2-roles-responsibilities-4oa8)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Combine These Two Annoying Kitchen Chores Into One](https://lifehacker.com/combine-these-two-annoying-kitchen-chores-into-one-1849631428)
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
-- [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
-- [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)<!-- TECH-POSTS:END -->
 
 ---
 
