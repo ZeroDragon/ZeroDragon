@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Tools Used by Full Stack Developers](https://dev.to/xnaksdn/top-tools-used-by-full-stack-developers-3gi5)
+- [Dev.to/JS] [Vercel OG Image Generation](https://dev.to/chandramarch18/vercel-og-image-generation-3e3h)
+- [Dev.to/JS] [9 things about Formik - Build React Forms without any Tears](https://dev.to/shreyvijayvargiya/9-things-about-formik-build-react-forms-without-any-tears-1m55)
 - [Dev.to/JS] [next-export-i18n v2.1.0: support for react v18 and next v12](https://dev.to/martinkr/next-export-i18n-v210-support-for-react-v18-and-next-v12-437e)
 - [Dev.to/JS] [Build a Shazam clone with Node.js](https://dev.to/jonathz/build-a-shazam-clone-with-nodejs-med)
 - [Dev.to/JS] [From Notion to Eleventy](https://dev.to/iamschulz/from-notion-to-eleventy-32ij)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All methods and their use of fs module in nodejs](https://dev.to/theankansaha/all-methods-and-their-use-of-fs-module-in-nodejs-32kf)
 - [Dev.to/JS] [Different ways of writing functions in JavaScript](https://dev.to/mazin1231/different-ways-of-writing-functions-in-javascript-59f2)
 - [Dev.to/JS] [Serverless Computing](https://dev.to/theankansaha/serverless-computing-1mk0)
-- [Dev.to/JS] [How to secure debian linux step by step](https://dev.to/theankansaha/how-to-secure-debian-linux-step-by-step-2kek)
-- [Dev.to/JS] [How to securely configure nginx for production step by step](https://dev.to/theankansaha/how-to-securely-configure-nginx-for-production-step-by-step-1471)
-- [Dev.to/JS] [How to secure mongodb from hacker in 2022 &lpar; linux &rpar;](https://dev.to/theankansaha/how-to-secure-mongodb-from-hacker-in-2022-linux--52kj)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
