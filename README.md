@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebGL : Javascript or Rust ?](https://dev.to/baloudev/webgl-javascript-or-rust--539c)
+- [Dev.to/JS] [Forever Functional: Solving puzzles with recursion and JavaScript](https://dev.to/asayerio_techblog/forever-functional-solving-puzzles-with-recursion-and-javascript-1ld5)
+- [Dev.to/JS] [The Complete Guide to Modules in Browsers and Node](https://dev.to/asayerio_techblog/the-complete-guide-to-modules-in-browsers-and-node-1h8)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Dev.to/JS] [Apaixone-se pela CHARM stack](https://dev.to/grubba/apaixone-se-pela-charm-stack-3jhh)
 - [Dev.to/JS] [The complete guide to understanding Promise in JavaScript](https://dev.to/efkumah/the-complete-guide-to-understanding-promise-in-javascript-1ig5)
@@ -42,11 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to avoid &lpar;CLS&rpar; Layout Shift when using JS Components](https://dev.to/marcosregoweb/how-to-avoid-cls-layout-shift-when-using-js-components-1aka)
 - [Lifehacker] [You Should Probably Reset Your Facebook Password Today](https://lifehacker.com/you-should-probably-reset-your-facebook-password-today-1849638016)
 - [Dev.to/JS] [Server-Side Rendering in React 18](https://dev.to/nischal_dutt/server-side-rendering-in-react-18-1m4h)
-- [Dev.to/JS] [LinkDB: A complete dataset of public LinkedIn Profiles &lpar;and companies 😉&rpar;](https://dev.to/favor/linkdb-a-complete-dataset-of-public-linkedin-profiles-and-companies--39l6)
 - [Lifehacker] [This App Lets You Listen to Spotify Playlists in Apple Music](https://lifehacker.com/this-app-lets-you-listen-to-spotify-playlists-in-apple-1849637191)
-- [Dev.to/JS] [Need urgent answer ...Return function output to component in react js](https://dev.to/coderslime/return-function-output-to-component-in-react-js-2m7n)
 - [Lifehacker] [What I Learned From Tracking My Calorie Burn for a Year](https://lifehacker.com/what-i-learned-from-tracking-my-calorie-burn-for-a-year-1849632112)
-- [Dev.to/JS] [Day20 of #100DaysOfCode](https://dev.to/yoot/day20-of-100daysofcode-5dpo)
 - [Lifehacker] [How to Tell If Your Child Has One of These Reading Disorders](https://lifehacker.com/how-to-tell-if-your-child-has-one-of-these-reading-diso-1849627713)
 - [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)
 - [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
