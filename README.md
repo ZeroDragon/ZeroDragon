@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Dental Care Without Insurance &lpar;or Money&rpar;](https://lifehacker.com/how-to-get-dental-care-without-insurance-or-money-1849642862)
+- [Dev.to/JS] [Shorter conditionals with Truthy and Falsy values in JS](https://dev.to/schemetastic/shorter-conditionals-with-truthy-and-falsy-values-in-js-1f2e)
+- [Dev.to/JS] [Context Api in React Class Based Component](https://dev.to/akshdesai1/context-api-in-react-class-based-component-4308)
+- [Dev.to/JS] [How I Learned to Stop Worrying and Love the DOM.](https://dev.to/claire_steinhoff_923b1a4f/how-i-learned-to-stop-worrying-and-love-the-dom-2bol)
+- [Lifehacker] [How to Build a DIY Air Purifier for Your Home](https://lifehacker.com/how-to-build-a-diy-air-purifier-for-your-home-1849642865)
 - [Dev.to/JS] [📦 I wrote my first NPM package](https://dev.to/msmello_/i-wrote-my-first-npm-package-3e0b)
 - [Dev.to/JS] [🤩Crash Course: Create CRUD Website&lpar;Single Page Application&rpar; Using Expressjs+MongoDb+Axios](https://dev.to/akshdesai1/crash-course-create-crud-websitesingle-page-application-using-expressjsmongodbaxios-22oe)
 - [Dev.to/JS] [How to Center Multiple Pins for Google Maps API](https://dev.to/elliotmangini/how-to-center-multiple-pins-for-google-maps-api-2njg)
@@ -34,12 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Num Subarray Product Less Than K](https://dev.to/zeeshanali0704/num-subarray-product-less-than-k-5176)
 - [Dev.to/JS] [Arguments vs Parameters in JavaScript](https://dev.to/oluwatobiss/arguments-vs-parameters-in-javascript-33bo)
 - [Dev.to/JS] [CamelCase Hackerrank [Easy Solution]](https://dev.to/yajindragautam/camelcase-hackerrank-easy-solution-eci)
-- [Dev.to/JS] [A Blind Date With Coding &amp; Fetching APIs](https://dev.to/paolomgarcia/a-blind-date-with-coding-fetching-apis-4bne)
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)
-- [Dev.to/JS] [The 3 broad types of JS Frameworks](https://dev.to/thejaredwilcurt/the-3-broad-types-of-js-frameworks-12hd)
 - [Lifehacker] [How to Deal With ‘Weaponized Incompetence’ at Work](https://lifehacker.com/how-to-deal-with-weaponized-incompetence-at-work-1849640868)
 - [Lifehacker] [How to Slice an Onion to Help It Keep Its Shape](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)
-- [Dev.to/JS] [What is Developer Experience?](https://dev.to/ganeshpatil0101/what-is-developer-experience-5d8o)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Cook Oatmeal in Your Morning Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-your-morning-cup-of-tea-1849631713)
 - [Lifehacker] [How to Treat a Headache Beyond Just Taking Drugs](https://lifehacker.com/how-to-treat-a-headache-beyond-just-taking-drugs-1849629973)
 - [Lifehacker] [Combine These Two Annoying Kitchen Chores Into One](https://lifehacker.com/combine-these-two-annoying-kitchen-chores-into-one-1849631428)
-- [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
-- [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
-- [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)<!-- TECH-POSTS:END -->
 
 ---
 
