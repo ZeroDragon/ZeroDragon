@@ -30,7 +30,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Apaixone-se pela CHARM stack](https://dev.to/grubba/apaixone-se-pela-charm-stack-3jhh)
 - [Dev.to/JS] [The complete guide to understanding Promise in JavaScript](https://dev.to/efkumah/the-complete-guide-to-understanding-promise-in-javascript-1ig5)
 - [Dev.to/JS] [Animated Background](https://dev.to/prayas/animated-background-2f25)
-- [Lifehacker] [What to Know About Decorating With Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
+- [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
 - [Dev.to/JS] [Javascript, Reverse An Array Without Using Reverse Function](https://dev.to/mustafauzunco/javascript-reverse-an-array-without-using-reverse-function-3bpn)
 - [Dev.to/JS] [Developing a Node.js Application in a Virtual Private Network](https://dev.to/yugabyte/developing-a-nodejs-application-in-a-virtual-private-network-29k7)
