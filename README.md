@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day21 of #100DaysOfCode - Finally a breakthrough! 😂](https://dev.to/yoot/day21-of-100daysofcode-finally-a-breakthrough-3d7d)
+- [Dev.to/JS] [How to use the Relay fetch policy to ensure fast rendering?](https://dev.to/woovi/how-to-use-the-relay-fetch-policy-to-ensure-fast-rendering-1hm2)
+- [Lifehacker] [10 of the Best Places to See the Northern Lights in the U.S.](https://lifehacker.com/10-of-the-best-places-to-see-the-northern-lights-in-the-1849641611)
+- [Dev.to/JS] [Num Subarray Product Less Than K](https://dev.to/zeeshanali0704/num-subarray-product-less-than-k-5176)
+- [Dev.to/JS] [Arguments vs Parameters in JavaScript](https://dev.to/oluwatobiss/arguments-vs-parameters-in-javascript-33bo)
 - [Dev.to/JS] [CamelCase Hackerrank [Easy Solution]](https://dev.to/yajindragautam/camelcase-hackerrank-easy-solution-eci)
 - [Dev.to/JS] [A Blind Date With Coding &amp; Fetching APIs](https://dev.to/paolomgarcia/a-blind-date-with-coding-fetching-apis-4bne)
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The side project you all need to do and redo as a web developer 👨‍💻](https://dev.to/thomasmorice/the-side-project-you-all-need-to-do-and-redo-as-a-web-developer-3bcm)
 - [Dev.to/JS] [Handling the Enter and arrow keys using Javascript](https://dev.to/aakas/handling-the-enter-and-arrow-keys-using-javascript-4o85)
 - [Dev.to/JS] [PRINCE2 Roles &amp; Responsibilities](https://dev.to/postwell45/prince2-roles-responsibilities-4oa8)
-- [Dev.to/JS] [Medusa 1.5.0: PriceList Import, Medusa Hackathon, and more!](https://dev.to/medusajs/medusa-142-pricelist-import-medusa-hackathon-and-more-5076)
-- [Dev.to/JS] [Stacks and Queues in JavaScript](https://dev.to/chrisding7/stacks-and-queues-in-javascript-4fdm)
-- [Dev.to/JS] [How To Deploy An ERC-20 Smart Contract On Avalanche with Infura](https://dev.to/johnjvester/how-to-deploy-an-erc-20-smart-contract-on-avalanche-with-infura-58hm)
-- [Dev.to/JS] [Building THE MOST practical Todolist with React and Websockets 🪄✨](https://dev.to/novu/building-the-most-practical-todolist-with-react-and-websockets-18hd)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common, Yet Overlooked Causes of Home Fires](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
-- [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
-- [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)<!-- TECH-POSTS:END -->
 
 ---
 
