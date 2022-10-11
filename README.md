@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Purva Meraki](https://dev.to/purvameraki/purva-meraki-5hna)
+- [Dev.to/JS] [javascript: convert object to query params](https://dev.to/urstrulyvishwak/javascript-convert-object-to-query-params-4pc0)
 - [Dev.to/JS] [How to translate a PWA app manifest](https://dev.to/progressier/how-to-translate-a-pwa-app-manifest-2e7i)
 - [Dev.to/JS] [Find JavaScript cyber-vulnerabilities for free](https://dev.to/codesec/find-javascript-cyber-vulnerabilities-for-free-35ao)
 - [Dev.to/JS] [First Post - For Expert Beginners Only](https://dev.to/wizardofhause/first-post-for-expert-beginners-only-1a74)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Complete Guide to Modules in Browsers and Node](https://dev.to/asayerio_techblog/the-complete-guide-to-modules-in-browsers-and-node-1h8)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Dev.to/JS] [Apaixone-se pela CHARM stack](https://dev.to/grubba/apaixone-se-pela-charm-stack-3jhh)
-- [Dev.to/JS] [The complete guide to understanding Promise in JavaScript](https://dev.to/efkumah/the-complete-guide-to-understanding-promise-in-javascript-1ig5)
-- [Dev.to/JS] [Animated Background](https://dev.to/prayas/animated-background-2f25)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
 - [Lifehacker] [Throw Out These ALDI Falafels, FDA Says](https://lifehacker.com/throw-out-these-aldi-falafels-fda-says-1849639687)
