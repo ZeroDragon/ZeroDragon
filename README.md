@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Styling the header and footer - part 4](https://dev.to/dailydevtips1/styling-the-header-and-footer-part-4-495o)
 - [Dev.to/JS] [Get image data from mongodb using mongoose and send to client side using nodejs and javascript](https://dev.to/theankansaha/get-image-data-from-mongodb-using-mongoose-and-send-to-client-side-using-nodejs-and-javascript-1ejk)
 - [Dev.to/JS] [All methods and their use of fs module in nodejs](https://dev.to/theankansaha/all-methods-and-their-use-of-fs-module-in-nodejs-32kf)
 - [Dev.to/JS] [Different ways of writing functions in JavaScript](https://dev.to/mazin1231/different-ways-of-writing-functions-in-javascript-59f2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Keeping it Simple](https://dev.to/charlesshrout/keeping-it-simple-249b)
 - [Dev.to/JS] [Purva Meraki](https://dev.to/purvameraki/purva-meraki-5hna)
 - [Dev.to/JS] [javascript: convert object to query params](https://dev.to/urstrulyvishwak/javascript-convert-object-to-query-params-4pc0)
-- [Dev.to/JS] [How to translate a PWA app manifest](https://dev.to/progressier/how-to-translate-a-pwa-app-manifest-2e7i)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
