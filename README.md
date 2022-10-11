@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use the DEFCON System Without Embarrassing Yourself](https://lifehacker.com/how-to-use-the-defcon-system-without-embarrassing-yours-1849643916)
+- [Dev.to/JS] [Connecting Cypress to a PostgreSQL database](https://dev.to/xvier/connecting-cypress-to-a-postgresql-database-3po5)
+- [Dev.to/JS] [Entendiendo async y await en Javascript](https://dev.to/matiasfha/entendiendo-async-y-await-en-javascript-3k0j)
+- [Dev.to/JS] [What is bind&lpar;&rpar; in JavaScript?](https://dev.to/codecupdev/what-is-bind-in-javascript-3lm9)
+- [Dev.to/JS] [Paracetamol.js💊| #190: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-190-explica-este-codigo-javascript-11f)
 - [Dev.to/JS] [CorelDRAW Graphics Suite Crack 24.2.1.444 &lpar;x64&rpar; Free Download](https://dev.to/crackedfine/coreldraw-graphics-suite-crack-2421444-x64-free-download-53lj)
+- [Lifehacker] [Should You Look at Your Medical Test Results Early?](https://lifehacker.com/should-you-look-at-your-medical-test-results-early-1849643612)
 - [Lifehacker] [Is the iPhone 14 Worth the Money?](https://lifehacker.com/is-the-iphone-14-worth-the-money-1849643832)
 - [Dev.to/JS] [How to fetch data in React with performance in mind](https://dev.to/adevnadia/how-to-fetch-data-in-react-with-performance-in-mind-2146)
 - [Lifehacker] [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [30 Most Useful Google Chrome Extensions For 2021](https://dev.to/souravdey4/30-most-useful-google-chrome-extensions-for-2021-23aj)
 - [Lifehacker] [30 of the Scariest Non-English Language Movies Ever](https://lifehacker.com/30-of-the-scariest-non-english-language-movies-ever-1849637881)
 - [Lifehacker] [How to Get Dental Care Without Insurance &lpar;or Money&rpar;](https://lifehacker.com/how-to-get-dental-care-without-insurance-or-money-1849642862)
-- [Dev.to/JS] [Shorter conditionals with Truthy and Falsy values in JS](https://dev.to/schemetastic/shorter-conditionals-with-truthy-and-falsy-values-in-js-1f2e)
-- [Dev.to/JS] [Context Api in React Class Based Component](https://dev.to/akshdesai1/context-api-in-react-class-based-component-4308)
-- [Dev.to/JS] [How I Learned to Stop Worrying and Love the DOM.](https://dev.to/claire_steinhoff_923b1a4f/how-i-learned-to-stop-worrying-and-love-the-dom-2bol)
 - [Lifehacker] [How to Build a DIY Air Purifier for Your Home](https://lifehacker.com/how-to-build-a-diy-air-purifier-for-your-home-1849642865)
-- [Dev.to/JS] [📦 I wrote my first NPM package](https://dev.to/msmello_/i-wrote-my-first-npm-package-3e0b)
 - [Lifehacker] [You Can Use Your iPhone as an ID in These States](https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states-1849641113)
 - [Lifehacker] [10 of the Best Places to See the Northern Lights in the U.S.](https://lifehacker.com/10-of-the-best-places-to-see-the-northern-lights-in-the-1849641611)
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This App Lets You Listen to Spotify Playlists in Apple Music](https://lifehacker.com/this-app-lets-you-listen-to-spotify-playlists-in-apple-1849637191)
 - [Lifehacker] [What I Learned From Tracking My Calorie Burn for a Year](https://lifehacker.com/what-i-learned-from-tracking-my-calorie-burn-for-a-year-1849632112)
 - [Lifehacker] [How to Tell If Your Child Has One of These Reading Disorders](https://lifehacker.com/how-to-tell-if-your-child-has-one-of-these-reading-diso-1849627713)
-- [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)
-- [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
-- [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)<!-- TECH-POSTS:END -->
 
 ---
 
