@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CorelDRAW Graphics Suite Crack 24.2.1.444 &lpar;x64&rpar; Free Download](https://dev.to/crackedfine/coreldraw-graphics-suite-crack-2421444-x64-free-download-53lj)
+- [Lifehacker] [Is the iPhone 14 Worth the Money?](https://lifehacker.com/is-the-iphone-14-worth-the-money-1849643832)
+- [Dev.to/JS] [How to fetch data in React with performance in mind](https://dev.to/adevnadia/how-to-fetch-data-in-react-with-performance-in-mind-2146)
+- [Lifehacker] [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)
 - [Dev.to/JS] [Create a Discord Bot that Automates Secret Messages with Node.js](https://dev.to/shreythecray/create-a-discord-bot-that-automates-secret-messages-with-nodejs-3pp9)
 - [Dev.to/JS] [Support science and help your favorite charity by participating in a short online experiment.](https://dev.to/lukas37118701/support-science-and-help-your-favorite-charity-by-participating-in-a-short-online-experiment-3hga)
 - [Dev.to/JS] [Take My Online Courses](https://dev.to/silvestonjohnny/take-my-online-courses-45o4)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Learned to Stop Worrying and Love the DOM.](https://dev.to/claire_steinhoff_923b1a4f/how-i-learned-to-stop-worrying-and-love-the-dom-2bol)
 - [Lifehacker] [How to Build a DIY Air Purifier for Your Home](https://lifehacker.com/how-to-build-a-diy-air-purifier-for-your-home-1849642865)
 - [Dev.to/JS] [📦 I wrote my first NPM package](https://dev.to/msmello_/i-wrote-my-first-npm-package-3e0b)
-- [Dev.to/JS] [🤩Crash Course: Create CRUD Website&lpar;Single Page Application&rpar; Using Expressjs+MongoDb+Axios](https://dev.to/akshdesai1/crash-course-create-crud-websitesingle-page-application-using-expressjsmongodbaxios-22oe)
-- [Dev.to/JS] [How to Center Multiple Pins for Google Maps API](https://dev.to/elliotmangini/how-to-center-multiple-pins-for-google-maps-api-2njg)
 - [Lifehacker] [You Can Use Your iPhone as an ID in These States](https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states-1849641113)
 - [Lifehacker] [10 of the Best Places to See the Northern Lights in the U.S.](https://lifehacker.com/10-of-the-best-places-to-see-the-northern-lights-in-the-1849641611)
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Your Child Has One of These Reading Disorders](https://lifehacker.com/how-to-tell-if-your-child-has-one-of-these-reading-diso-1849627713)
 - [Lifehacker] [The 7 Deadly Sins of Smoking Weed As a Beginner](https://lifehacker.com/the-7-deadly-sins-of-smoking-weed-as-a-beginner-1849633804)
 - [Lifehacker] [How to Get Your Teen to Do Their Damn Homework](https://lifehacker.com/how-to-get-your-teen-to-do-their-damn-homework-1849636781)
-- [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)
-- [Lifehacker] [How to Recover From a Toxic Work Environment](https://lifehacker.com/how-to-recover-from-a-toxic-work-environment-1849623149)
-- [Lifehacker] [You Should Cook Oatmeal in Your Morning Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-your-morning-cup-of-tea-1849631713)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Your Mac From Automatically Changing Your Wallpaper](https://lifehacker.com/stop-your-mac-from-automatically-changing-your-wallpape-1849631688)<!-- TECH-POSTS:END -->
 
 ---
 
