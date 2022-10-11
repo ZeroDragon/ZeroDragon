@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is the Only Right Way to Slice an Onion](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)
+- [Dev.to/JS] [What is Developer Experience?](https://dev.to/ganeshpatil0101/what-is-developer-experience-5d8o)
+- [Dev.to/JS] [How to Fix React Must Be in Scope When Using JSX?](https://dev.to/mittal69353530/how-to-fix-react-must-be-in-scope-when-using-jsx-1pon)
+- [Dev.to/JS] [The side project you all need to do and redo as a web developer 👨‍💻](https://dev.to/thomasmorice/the-side-project-you-all-need-to-do-and-redo-as-a-web-developer-3bcm)
 - [Dev.to/JS] [Handling the Enter and arrow keys using Javascript](https://dev.to/aakas/handling-the-enter-and-arrow-keys-using-javascript-4o85)
 - [Dev.to/JS] [PRINCE2 Roles &amp; Responsibilities](https://dev.to/postwell45/prince2-roles-responsibilities-4oa8)
 - [Dev.to/JS] [Medusa 1.5.0: PriceList Import, Medusa Hackathon, and more!](https://dev.to/medusajs/medusa-142-pricelist-import-medusa-hackathon-and-more-5076)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top Tools Used by Full Stack Developers](https://dev.to/xnaksdn/top-tools-used-by-full-stack-developers-3gi5)
 - [Dev.to/JS] [Vercel OG Image Generation](https://dev.to/chandramarch18/vercel-og-image-generation-3e3h)
 - [Dev.to/JS] [9 things about Formik - Build React Forms without any Tears](https://dev.to/shreyvijayvargiya/9-things-about-formik-build-react-forms-without-any-tears-1m55)
-- [Dev.to/JS] [next-export-i18n v2.1.0: support for react v18 and next v12](https://dev.to/martinkr/next-export-i18n-v210-support-for-react-v18-and-next-v12-437e)
-- [Dev.to/JS] [Build a Shazam clone with Node.js](https://dev.to/jonathz/build-a-shazam-clone-with-nodejs-med)
-- [Dev.to/JS] [From Notion to Eleventy](https://dev.to/iamschulz/from-notion-to-eleventy-32ij)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
 - [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
 - [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
-- [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
-- [Lifehacker] [Drop Everything and Get This $150 Painting Software for $10](https://lifehacker.com/drop-everything-and-get-this-150-painting-software-for-1849632251)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)<!-- TECH-POSTS:END -->
 
 ---
 
