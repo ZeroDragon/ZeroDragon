@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CamelCase Hackerrank [Easy Solution]](https://dev.to/yajindragautam/camelcase-hackerrank-easy-solution-eci)
+- [Dev.to/JS] [A Blind Date With Coding &amp; Fetching APIs](https://dev.to/paolomgarcia/a-blind-date-with-coding-fetching-apis-4bne)
+- [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)
+- [Dev.to/JS] [The 3 broad types of JS Frameworks](https://dev.to/thejaredwilcurt/the-3-broad-types-of-js-frameworks-12hd)
+- [Lifehacker] [How to Deal With ‘Weaponized Incompetence’ at Work](https://lifehacker.com/how-to-deal-with-weaponized-incompetence-at-work-1849640868)
 - [Lifehacker] [This Is the Only Right Way to Slice an Onion](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)
 - [Dev.to/JS] [What is Developer Experience?](https://dev.to/ganeshpatil0101/what-is-developer-experience-5d8o)
 - [Dev.to/JS] [How to Fix React Must Be in Scope When Using JSX?](https://dev.to/mittal69353530/how-to-fix-react-must-be-in-scope-when-using-jsx-1pon)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stacks and Queues in JavaScript](https://dev.to/chrisding7/stacks-and-queues-in-javascript-4fdm)
 - [Dev.to/JS] [How To Deploy An ERC-20 Smart Contract On Avalanche with Infura](https://dev.to/johnjvester/how-to-deploy-an-erc-20-smart-contract-on-avalanche-with-infura-58hm)
 - [Dev.to/JS] [Building THE MOST practical Todolist with React and Websockets 🪄✨](https://dev.to/novu/building-the-most-practical-todolist-with-react-and-websockets-18hd)
-- [Dev.to/JS] [Top Tools Used by Full Stack Developers](https://dev.to/xnaksdn/top-tools-used-by-full-stack-developers-3gi5)
-- [Dev.to/JS] [Vercel OG Image Generation](https://dev.to/chandramarch18/vercel-og-image-generation-3e3h)
-- [Dev.to/JS] [9 things about Formik - Build React Forms without any Tears](https://dev.to/shreyvijayvargiya/9-things-about-formik-build-react-forms-without-any-tears-1m55)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid &#39;Pick-Your-Own&#39; Apple Orchards If Your Goal Is Saving Money](https://lifehacker.com/avoid-pick-your-own-apple-orchards-if-your-goal-is-savi-1849628991)
 - [Lifehacker] [How to Choose a Dishwasher That Doesn&#39;t Waste Your Money](https://lifehacker.com/how-to-choose-a-dishwasher-that-doesnt-waste-your-money-1849628987)
 - [Lifehacker] [How to Tell If a Detergent is Actually &#39;Mild&#39; Before You Buy It](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
-- [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)
-- [Lifehacker] [Never Use Baking Soda to Clean These Household Surfaces](https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056)
-- [Lifehacker] [What to Do Immediately After You Click a Phishing Link](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Winterize Your Screened-In Porch](https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051)<!-- TECH-POSTS:END -->
 
 ---
 
