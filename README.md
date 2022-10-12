@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
+- [Dev.to/JS] [Transporting your Components Anywhere with React Portals](https://dev.to/smpnjn/transporting-your-components-anywhere-with-react-portals-6li)
+- [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
+- [Dev.to/JS] [Seeking Speakers for *virtual* ChicagoJS Meetup](https://dev.to/heather_veva/seeking-speakers-for-virtual-chicagojs-meetup-27n8)
 - [Lifehacker] [10 Dangerous Things You Can Successfully Run Away From](https://lifehacker.com/10-dangerous-things-you-can-successfully-run-away-from-1849649056)
 - [Dev.to/JS] [Using Default Exports Makes JavaScript Harder to Read!](https://dev.to/baransu/using-default-exports-makes-javascript-harder-to-read-894)
 - [Dev.to/JS] [HackerRank Regex Solutions](https://dev.to/chase2learn/hackerrank-regex-solutions-3315)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create an Instagram clone on the Polygon Network using Next.js and Truffle](https://dev.to/chrisabdo/how-to-create-an-instagram-clone-on-the-polygon-network-using-nextjs-and-truffle-26e6)
 - [Dev.to/JS] [5 Things Every Developer Should Know Before Starting Out!](https://dev.to/thenomadevel/5-things-every-developer-should-learn-4pa9)
 - [Lifehacker] [How Much It Costs to Replace or Repair Your Garage Door](https://lifehacker.com/how-much-it-costs-to-replace-or-repair-your-garage-door-1849646280)
-- [Dev.to/JS] [100 DAYS OF CODE CHALLENGE](https://dev.to/harleeyah/100-days-of-code-3hg2)
 - [Lifehacker] [Don’t Mistake This Microsoft Security Alert for Spam](https://lifehacker.com/don-t-mistake-this-microsoft-security-alert-for-spam-1849647846)
-- [Dev.to/JS] [100 DAYS OF CODE CHALLENGE](https://dev.to/harleeyah/100-days-of-code-challenge-45m9)
 - [Lifehacker] [Social Media Is Wrong About Microwaves](https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107)
 - [Lifehacker] [The Signs That You Are Never, Ever Getting That Promotion](https://lifehacker.com/the-signs-that-you-are-never-ever-getting-that-promoti-1849646277)
 - [Lifehacker] [How to Never Lose a Safari Tab on Your iPhone Again](https://lifehacker.com/how-to-never-lose-a-safari-tab-on-your-iphone-again-1849646583)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Look at Your Medical Test Results Early?](https://lifehacker.com/should-you-look-at-your-medical-test-results-early-1849643612)
 - [Lifehacker] [Is the iPhone 14 Worth the Money?](https://lifehacker.com/is-the-iphone-14-worth-the-money-1849643832)
 - [Lifehacker] [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)
-- [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)
-- [Lifehacker] [Should I Get the New COVID Booster?](https://lifehacker.com/should-i-get-the-new-covid-booster-1849643145)
-- [Lifehacker] [30 of the Scariest Non-English Language Movies Ever](https://lifehacker.com/30-of-the-scariest-non-english-language-movies-ever-1849637881)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)<!-- TECH-POSTS:END -->
 
 ---
 
