@@ -23,10 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything You Need to Know About the Student Loan Forgiveness Application so Far](https://lifehacker.com/everything-you-need-to-know-about-the-student-loan-forg-1849648709)
+- [Dev.to/JS] [Ardi: Welcome to the Weightless Web](https://dev.to/patrickonparker/ardi-welcome-to-the-weightless-web-1041)
+- [Dev.to/JS] [How to generate all subarrays in javascript in 2022?](https://dev.to/ajayv1/how-to-generate-all-subarrays-in-javascript-in-2022-1jno)
+- [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)
+- [Dev.to/JS] [Learning to code in your 30s](https://dev.to/_codewithpaul/learning-to-code-in-your-30s-1ng2)
+- [Dev.to/JS] [Setting the Default Node.JS version with nvm](https://dev.to/smpnjn/setting-the-default-nodejs-version-with-nvm-54c3)
+- [Lifehacker] [How to Choose the Perfect Electric Blanket for You](https://lifehacker.com/how-to-choose-the-perfect-electric-blanket-for-you-1849648194)
 - [Dev.to/JS] [How to create an Instagram clone on the Polygon Network using Next.js and Truffle](https://dev.to/chrisabdo/how-to-create-an-instagram-clone-on-the-polygon-network-using-nextjs-and-truffle-26e6)
 - [Dev.to/JS] [5 Things Every Developer Should Know Before Starting Out!](https://dev.to/thenomadevel/5-things-every-developer-should-learn-4pa9)
 - [Lifehacker] [How Much It Costs to Replace or Repair Your Garage Door](https://lifehacker.com/how-much-it-costs-to-replace-or-repair-your-garage-door-1849646280)
-- [Dev.to/JS] [100 DAYS OF CODE](https://dev.to/harleeyah/100-days-of-code-3hg2)
+- [Dev.to/JS] [100 DAYS OF CODE CHALLENGE](https://dev.to/harleeyah/100-days-of-code-3hg2)
 - [Lifehacker] [Don’t Mistake This Microsoft Security Alert for Spam](https://lifehacker.com/don-t-mistake-this-microsoft-security-alert-for-spam-1849647846)
 - [Dev.to/JS] [100 DAYS OF CODE CHALLENGE](https://dev.to/harleeyah/100-days-of-code-challenge-45m9)
 - [Dev.to/JS] [Js Practice Interview Questions](https://dev.to/vkkis93/js-practice-interview-questions-44h9)
@@ -35,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to calculate SSC GPA?](https://dev.to/farhad00009/how-to-calculate-ssc-gpa-417b)
 - [Lifehacker] [Social Media Is Wrong About Microwaves](https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107)
 - [Lifehacker] [The Signs That You Are Never, Ever Getting That Promotion](https://lifehacker.com/the-signs-that-you-are-never-ever-getting-that-promoti-1849646277)
-- [Dev.to/JS] [File Backup NodeJS](https://dev.to/drsimplegraffiti/file-backup-nodejs-3ab8)
 - [Lifehacker] [How to Never Lose a Safari Tab on Your iPhone Again](https://lifehacker.com/how-to-never-lose-a-safari-tab-on-your-iphone-again-1849646583)
-- [Dev.to/JS] [How to setup a Node.js server port](https://dev.to/aneeqakhan/how-to-setup-a-nodejs-server-port-25l6)
-- [Dev.to/JS] [Authentication with Aws Cognito, Passport and NestJs &lpar;Part I&rpar;](https://dev.to/fstbraz/authentication-with-aws-cognito-passport-and-nestjs-part-i-23ki)
-- [Dev.to/JS] [Passed AWS Certified Developer - Associate - DVA-C01](https://dev.to/romankurnovskii/passed-aws-certified-developer-associate-dva-c01-2211)
 - [Lifehacker] [Make These Two-ingredient Meringue Ghost Cookies](https://lifehacker.com/make-these-two-ingredient-meringue-ghost-cookies-1849643942)
 - [Lifehacker] [9 Foods You Should Never Freeze](https://lifehacker.com/9-foods-you-should-never-freeze-1849645317)
 - [Lifehacker] [Make These Mummy Pigs in a Blankets for Halloween](https://lifehacker.com/make-these-mummy-pigs-in-a-blankets-for-halloween-1849645327)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should I Get the New COVID Booster?](https://lifehacker.com/should-i-get-the-new-covid-booster-1849643145)
 - [Lifehacker] [30 of the Scariest Non-English Language Movies Ever](https://lifehacker.com/30-of-the-scariest-non-english-language-movies-ever-1849637881)
 - [Lifehacker] [How to Get Dental Care Without Insurance &lpar;or Money&rpar;](https://lifehacker.com/how-to-get-dental-care-without-insurance-or-money-1849642862)
-- [Lifehacker] [How to Build a DIY Air Purifier for Your Home](https://lifehacker.com/how-to-build-a-diy-air-purifier-for-your-home-1849642865)
-- [Lifehacker] [You Can Use Your iPhone as an ID in These States](https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states-1849641113)
-- [Lifehacker] [10 of the Best Places to See the Northern Lights in the U.S.](https://lifehacker.com/10-of-the-best-places-to-see-the-northern-lights-in-the-1849641611)
-- [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Build a DIY Air Purifier for Your Home](https://lifehacker.com/how-to-build-a-diy-air-purifier-for-your-home-1849642865)<!-- TECH-POSTS:END -->
 
 ---
 
