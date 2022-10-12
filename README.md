@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Random Animal Facts Node.js API](https://dev.to/blueycode/random-animal-facts-nodejs-api-33e9)
 - [Dev.to/JS] [Creating a Svelte Tabs component with Slot props](https://dev.to/asayerio_techblog/creating-a-svelte-tabs-component-with-slot-props-4ni9)
 - [Dev.to/JS] [Top 12 Chrome Extensions that every web developer should use in 2022.](https://dev.to/nothanii/top-12-chrome-extensions-that-every-web-developer-should-use-in-2022-j3b)
 - [Dev.to/JS] [Refactoring Code](https://dev.to/lostbutton/refactoring-code-28bh)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use the DEFCON System Without Embarrassing Yourself](https://lifehacker.com/how-to-use-the-defcon-system-without-embarrassing-yours-1849643916)
 - [Dev.to/JS] [Connecting Cypress to a PostgreSQL database](https://dev.to/xvier/connecting-cypress-to-a-postgresql-database-3po5)
 - [Dev.to/JS] [Entendiendo async y await en Javascript](https://dev.to/matiasfha/entendiendo-async-y-await-en-javascript-3k0j)
-- [Dev.to/JS] [What is bind&lpar;&rpar; in JavaScript?](https://dev.to/codecupdev/what-is-bind-in-javascript-3lm9)
 - [Lifehacker] [Should You Look at Your Medical Test Results Early?](https://lifehacker.com/should-you-look-at-your-medical-test-results-early-1849643612)
 - [Lifehacker] [Is the iPhone 14 Worth the Money?](https://lifehacker.com/is-the-iphone-14-worth-the-money-1849643832)
 - [Lifehacker] [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)
