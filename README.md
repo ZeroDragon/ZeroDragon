@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue JS Get Current Date And Time](https://dev.to/techsolutionstuff/vue-js-get-current-date-and-time-3f30)
 - [Dev.to/JS] [Want to find more references about front end](https://dev.to/thanhluan2k3/want-to-find-more-references-about-front-end-7i)
 - [Dev.to/JS] [Random Animal Facts Node.js API](https://dev.to/blueycode/random-animal-facts-nodejs-api-33e9)
 - [Dev.to/JS] [Creating a Svelte Tabs component with Slot props](https://dev.to/asayerio_techblog/creating-a-svelte-tabs-component-with-slot-props-4ni9)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Free Stencils Will Help You Carve the Neighborhood’s Best Jack-o-Lantern](https://lifehacker.com/these-free-stencils-will-help-you-carve-the-neighborhoo-1849643981)
 - [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
 - [Lifehacker] [How to Use the DEFCON System Without Embarrassing Yourself](https://lifehacker.com/how-to-use-the-defcon-system-without-embarrassing-yours-1849643916)
-- [Dev.to/JS] [Connecting Cypress to a PostgreSQL database](https://dev.to/xvier/connecting-cypress-to-a-postgresql-database-3po5)
 - [Lifehacker] [Should You Look at Your Medical Test Results Early?](https://lifehacker.com/should-you-look-at-your-medical-test-results-early-1849643612)
 - [Lifehacker] [Is the iPhone 14 Worth the Money?](https://lifehacker.com/is-the-iphone-14-worth-the-money-1849643832)
 - [Lifehacker] [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)
