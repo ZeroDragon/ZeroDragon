@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make These Mummy Pigs in a Blankets for Halloween](https://lifehacker.com/make-these-mummy-pigs-in-a-blankets-for-halloween-1849645327)
+- [Lifehacker] [The 10 Scariest Places In the United States of America](https://lifehacker.com/the-10-scariest-places-in-the-united-states-of-america-1849646316)
 - [Lifehacker] [How to Beat Your Nighttime Cough &lpar;and Finally Get Some Sleep&rpar;](https://lifehacker.com/how-to-beat-your-nighttime-cough-and-finally-get-some-1849642619)
 - [Dev.to/JS] [Advanced Multistep Forms with React](https://dev.to/clarity89/advanced-multistep-forms-with-react-2226)
 - [Dev.to/JS] [🤯 3 Weird things that are cool to know about Javascript and Typescript, PART I](https://dev.to/msmello_/3-weird-things-that-is-cool-to-know-about-javascript-and-typescript-part-i-5ag4)
@@ -31,11 +33,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PUPPETEER SCREEN RECORDER CLIENT – EXPRESS.JS](https://dev.to/qbentil/puppeteer-screen-recorder-client-expressjs-5259)
 - [Dev.to/JS] [Lessons learned from moving to Recoil.js](https://dev.to/ksimons/lessons-learned-from-moving-to-recoiljs-3c09)
 - [Dev.to/JS] [How to Display Output in JavaScript](https://dev.to/max88git/how-to-display-output-in-javascript-2ckh)
-- [Dev.to/JS] [Food games recommended by ios](https://dev.to/junny521222/food-games-recommended-by-ios-3pa8)
 - [Dev.to/JS] [Animal Crossing Simulator Discord Bot](https://dev.to/matteol/animal-crossing-simulator-discord-bot-4kh9)
 - [Dev.to/JS] [Weekly Vue News](https://dev.to/mokkapps/weekly-vue-news-173i)
 - [Dev.to/JS] [How to send notifications in JavaScript&lpar;in less than 10 lines of code&rpar;](https://dev.to/freebeliever/how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j)
 - [Dev.to/JS] [How to Increase Your Earnings as a Full-Stack Developer](https://dev.to/xnaksdn/how-to-increase-your-earnings-as-a-full-stack-developer-2fbb)
+- [Dev.to/JS] [Como renombrar múltiples archivos usando Node](https://dev.to/matiasfha/como-renombrar-multiples-archivos-usando-node-5cda)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
 - [Lifehacker] [Throw Out These ALDI Falafels, FDA Says](https://lifehacker.com/throw-out-these-aldi-falafels-fda-says-1849639687)
-- [Lifehacker] [Fix These iPhone 14 Bugs With the New iOS 16.0.3 Update](https://lifehacker.com/fix-these-iphone-14-bugs-with-the-new-ios-16-0-3-update-1849639091)
-- [Lifehacker] [You Can Totally Air Fry a Frozen Steak](https://lifehacker.com/you-can-totally-air-fry-a-frozen-steak-1849639261)
-- [Lifehacker] [Should I Get a Rowing Machine?](https://lifehacker.com/should-i-get-a-rowing-machine-1849638843)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fix These iPhone 14 Bugs With the New iOS 16.0.3 Update](https://lifehacker.com/fix-these-iphone-14-bugs-with-the-new-ios-16-0-3-update-1849639091)<!-- TECH-POSTS:END -->
 
 ---
 
