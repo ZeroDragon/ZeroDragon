@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Beat Your Nighttime Cough &lpar;and Finally Get Some Sleep&rpar;](https://lifehacker.com/how-to-beat-your-nighttime-cough-and-finally-get-some-1849642619)
+- [Dev.to/JS] [Advanced Multistep Forms with React](https://dev.to/clarity89/advanced-multistep-forms-with-react-2226)
+- [Dev.to/JS] [🤯 3 Weird things that are cool to know about Javascript and Typescript, PART I](https://dev.to/msmello_/3-weird-things-that-is-cool-to-know-about-javascript-and-typescript-part-i-5ag4)
+- [Dev.to/JS] [Merge Nodes in Between Zeros](https://dev.to/zeeshanali0704/merge-nodes-in-between-zeros-3pga)
+- [Dev.to/JS] [DHTMLX Event Calendar: New JavaScript Library for Productive Event Planning](https://dev.to/plazarev/dhtmlx-event-calendar-new-javascript-library-for-productive-event-planning-4eo8)
+- [Dev.to/JS] [PUPPETEER SCREEN RECORDER CLIENT – EXPRESS.JS](https://dev.to/qbentil/puppeteer-screen-recorder-client-expressjs-5259)
 - [Dev.to/JS] [Lessons learned from moving to Recoil.js](https://dev.to/ksimons/lessons-learned-from-moving-to-recoiljs-3c09)
 - [Dev.to/JS] [How to Display Output in JavaScript](https://dev.to/max88git/how-to-display-output-in-javascript-2ckh)
-- [Dev.to/JS] [Download Free Crack Softwares](https://dev.to/activatorsz/download-free-crack-softwares-1d18)
 - [Dev.to/JS] [Food games recommended by ios](https://dev.to/junny521222/food-games-recommended-by-ios-3pa8)
 - [Dev.to/JS] [Animal Crossing Simulator Discord Bot](https://dev.to/matteol/animal-crossing-simulator-discord-bot-4kh9)
 - [Dev.to/JS] [Weekly Vue News](https://dev.to/mokkapps/weekly-vue-news-173i)
 - [Dev.to/JS] [How to send notifications in JavaScript&lpar;in less than 10 lines of code&rpar;](https://dev.to/freebeliever/how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j)
 - [Dev.to/JS] [How to Increase Your Earnings as a Full-Stack Developer](https://dev.to/xnaksdn/how-to-increase-your-earnings-as-a-full-stack-developer-2fbb)
-- [Dev.to/JS] [Como renombrar múltiples archivos usando Node](https://dev.to/matiasfha/como-renombrar-multiples-archivos-usando-node-5cda)
-- [Dev.to/JS] [Binary Heap in javascript](https://dev.to/niemet0502/binary-heap-in-javascript-4kgb)
-- [Dev.to/JS] [LinkedIn DB for HR](https://dev.to/zainbinfurqan/linkedin-db-for-hr-11g1)
-- [Dev.to/JS] [Better separation of concerns in web front-end frameworks](https://dev.to/raibtoffoletto/better-separation-of-concerns-in-web-front-end-frameworks-36ho)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Out These ALDI Falafels, FDA Says](https://lifehacker.com/throw-out-these-aldi-falafels-fda-says-1849639687)
 - [Lifehacker] [Fix These iPhone 14 Bugs With the New iOS 16.0.3 Update](https://lifehacker.com/fix-these-iphone-14-bugs-with-the-new-ios-16-0-3-update-1849639091)
 - [Lifehacker] [You Can Totally Air Fry a Frozen Steak](https://lifehacker.com/you-can-totally-air-fry-a-frozen-steak-1849639261)
-- [Lifehacker] [Should I Get a Rowing Machine?](https://lifehacker.com/should-i-get-a-rowing-machine-1849638843)
-- [Lifehacker] [How to Live With Stairs That Aren&#39;t Up to Code](https://lifehacker.com/how-to-live-with-stairs-that-arent-up-to-code-1849638520)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Should I Get a Rowing Machine?](https://lifehacker.com/should-i-get-a-rowing-machine-1849638843)<!-- TECH-POSTS:END -->
 
 ---
 
