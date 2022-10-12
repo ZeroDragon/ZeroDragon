@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Signs That You Are Never, Ever Getting That Promotion](https://lifehacker.com/the-signs-that-you-are-never-ever-getting-that-promoti-1849646277)
+- [Dev.to/JS] [File Backup NodeJS](https://dev.to/drsimplegraffiti/file-backup-nodejs-3ab8)
+- [Lifehacker] [How to Never Lose a Safari Tab on Your iPhone Again](https://lifehacker.com/how-to-never-lose-a-safari-tab-on-your-iphone-again-1849646583)
+- [Dev.to/JS] [How to setup a Node.js server port](https://dev.to/aneeqakhan/how-to-setup-a-nodejs-server-port-25l6)
+- [Dev.to/JS] [Authentication with Aws Cognito, Passport and NestJs &lpar;Part I&rpar;](https://dev.to/fstbraz/authentication-with-aws-cognito-passport-and-nestjs-part-i-23ki)
+- [Dev.to/JS] [Passed AWS Certified Developer - Associate - DVA-C01](https://dev.to/romankurnovskii/passed-aws-certified-developer-associate-dva-c01-2211)
+- [Dev.to/JS] [SORTing =&gt; The weird parts](https://dev.to/cavein254/sorting-the-weird-parts-37mh)
 - [Lifehacker] [Make These Two-ingredient Meringue Ghost Cookies](https://lifehacker.com/make-these-two-ingredient-meringue-ghost-cookies-1849643942)
 - [Dev.to/JS] [Awesome Data Structures &amp; Algorithms Courses](https://dev.to/alisamirali/awesome-data-structures-algorithms-courses-1622)
 - [Dev.to/JS] [A brief intro to JS Promises](https://dev.to/pujakundu/a-brief-intro-to-js-promises-5f1i)
@@ -35,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced Multistep Forms with React](https://dev.to/clarity89/advanced-multistep-forms-with-react-2226)
 - [Dev.to/JS] [🤯 3 Weird things that are cool to know about Javascript and Typescript, PART I](https://dev.to/msmello_/3-weird-things-that-is-cool-to-know-about-javascript-and-typescript-part-i-5ag4)
 - [Dev.to/JS] [Merge Nodes in Between Zeros](https://dev.to/zeeshanali0704/merge-nodes-in-between-zeros-3pga)
-- [Dev.to/JS] [DHTMLX Event Calendar: New JavaScript Library for Productive Event Planning](https://dev.to/plazarev/dhtmlx-event-calendar-new-javascript-library-for-productive-event-planning-4eo8)
-- [Dev.to/JS] [PUPPETEER SCREEN RECORDER CLIENT – EXPRESS.JS](https://dev.to/qbentil/puppeteer-screen-recorder-client-expressjs-5259)
-- [Dev.to/JS] [Lessons learned from moving to Recoil.js](https://dev.to/ksimons/lessons-learned-from-moving-to-recoiljs-3c09)
-- [Dev.to/JS] [How to Display Output in JavaScript](https://dev.to/max88git/how-to-display-output-in-javascript-2ckh)
-- [Dev.to/JS] [Animal Crossing Simulator Discord Bot](https://dev.to/matteol/animal-crossing-simulator-discord-bot-4kh9)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)
 - [Lifehacker] [How to Deal With ‘Weaponized Incompetence’ at Work](https://lifehacker.com/how-to-deal-with-weaponized-incompetence-at-work-1849640868)
 - [Lifehacker] [How to Slice an Onion to Help It Keep Its Shape](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)
-- [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
-- [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
-- [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)<!-- TECH-POSTS:END -->
 
 ---
 
