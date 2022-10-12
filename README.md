@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly Vue News](https://dev.to/mokkapps/weekly-vue-news-173i)
+- [Dev.to/JS] [How to send notifications in JavaScript&lpar;in less than 10 lines of code&rpar;](https://dev.to/freebeliever/how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j)
+- [Dev.to/JS] [How to Increase Your Earnings as a Full-Stack Developer](https://dev.to/xnaksdn/how-to-increase-your-earnings-as-a-full-stack-developer-2fbb)
+- [Dev.to/JS] [Como renombrar múltiples archivos usando Node](https://dev.to/matiasfha/como-renombrar-multiples-archivos-usando-node-5cda)
 - [Dev.to/JS] [Binary Heap in javascript](https://dev.to/niemet0502/binary-heap-in-javascript-4kgb)
 - [Dev.to/JS] [LinkedIn DB for HR](https://dev.to/zainbinfurqan/linkedin-db-for-hr-11g1)
 - [Dev.to/JS] [Better separation of concerns in web front-end frameworks](https://dev.to/raibtoffoletto/better-separation-of-concerns-in-web-front-end-frameworks-36ho)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript: Array exercise Explained](https://dev.to/isabellaguran22/javascript-array-exercise-explained-16fk)
 - [Dev.to/JS] [Styling the homepage header - part 5](https://dev.to/dailydevtips1/styling-the-homepage-header-part-5-1b0a)
 - [Dev.to/JS] [Javascript tricks You&#39;ve Never Heard About : Part 1](https://dev.to/blackkspydo/javascript-tricks-youve-never-heard-about-part-1-2pil)
-- [Dev.to/JS] [How JavaScript hoisting actually works](https://dev.to/codegino/how-javascript-hoisting-actually-works-3mj1)
-- [Dev.to/JS] [Advanced Javascript](https://dev.to/leo1612d/advanced-javascript-18d0)
-- [Dev.to/JS] [Understand Async in JS: the core concepts](https://dev.to/jayzho/understand-async-in-js-the-core-concepts-1j92)
-- [Dev.to/JS] [First Trial of Real Open Source Contribution.](https://dev.to/genne23v/first-trial-of-real-open-source-contribution-2bb2)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
