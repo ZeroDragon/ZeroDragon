@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Binary Heap in javascript](https://dev.to/niemet0502/binary-heap-in-javascript-4kgb)
+- [Dev.to/JS] [LinkedIn DB for HR](https://dev.to/zainbinfurqan/linkedin-db-for-hr-11g1)
 - [Dev.to/JS] [Better separation of concerns in web front-end frameworks](https://dev.to/raibtoffoletto/better-separation-of-concerns-in-web-front-end-frameworks-36ho)
 - [Dev.to/JS] [12 usable examples to learn the most popular JS libs 💝](https://dev.to/alagrede/12-usable-examples-to-learn-the-most-popular-js-libs-4229)
 - [Dev.to/JS] [How to build your own MQTT broker in Nest.js](https://dev.to/behnamnasehi/how-to-build-your-own-mqtt-broker-in-nestjs-56kg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced Javascript](https://dev.to/leo1612d/advanced-javascript-18d0)
 - [Dev.to/JS] [Understand Async in JS: the core concepts](https://dev.to/jayzho/understand-async-in-js-the-core-concepts-1j92)
 - [Dev.to/JS] [First Trial of Real Open Source Contribution.](https://dev.to/genne23v/first-trial-of-real-open-source-contribution-2bb2)
-- [Dev.to/JS] [Re-posting For Better Reach : You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/re-posting-for-better-reach-you-are-front-end-developer-this-is-for-you-sample-data-api-plk)
-- [Dev.to/JS] [pyscript : run python in HTML](https://dev.to/quitsen/pyscript-run-python-in-html-4aio)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
