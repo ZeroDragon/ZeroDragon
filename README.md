@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Dangerous Things You Can Successfully Run Away From](https://lifehacker.com/10-dangerous-things-you-can-successfully-run-away-from-1849649056)
+- [Dev.to/JS] [Using Default Exports Makes JavaScript Harder to Read!](https://dev.to/baransu/using-default-exports-makes-javascript-harder-to-read-894)
+- [Dev.to/JS] [HackerRank Regex Solutions](https://dev.to/chase2learn/hackerrank-regex-solutions-3315)
+- [Lifehacker] [How to Give Dating Advice, According to ‘The Bachelor’ Star Nick Viall](https://lifehacker.com/how-to-give-dating-advice-according-to-the-bachelor-1849649157)
+- [Dev.to/JS] [Restart nodemon when html or css file is modified](https://dev.to/theankansaha/restart-nodemon-when-html-or-css-file-is-modified-3kf9)
+- [Dev.to/JS] [JS PDF generator that is accessible](https://dev.to/getsetgopi/js-pdf-generator-that-is-accessible-57k7)
 - [Lifehacker] [Everything You Need to Know About the Student Loan Forgiveness Application so Far](https://lifehacker.com/everything-you-need-to-know-about-the-student-loan-forg-1849648709)
-- [Dev.to/JS] [Ardi: Welcome to the Weightless Web](https://dev.to/patrickonparker/ardi-welcome-to-the-weightless-web-1041)
+- [Dev.to/JS] [Ardi: Welcome to the Weightless Web](https://dev.to/jameslovallo/ardi-welcome-to-the-weightless-web-1041)
 - [Dev.to/JS] [How to generate all subarrays in javascript in 2022?](https://dev.to/ajayv1/how-to-generate-all-subarrays-in-javascript-in-2022-1jno)
 - [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)
 - [Dev.to/JS] [Learning to code in your 30s](https://dev.to/_codewithpaul/learning-to-code-in-your-30s-1ng2)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [100 DAYS OF CODE CHALLENGE](https://dev.to/harleeyah/100-days-of-code-3hg2)
 - [Lifehacker] [Don’t Mistake This Microsoft Security Alert for Spam](https://lifehacker.com/don-t-mistake-this-microsoft-security-alert-for-spam-1849647846)
 - [Dev.to/JS] [100 DAYS OF CODE CHALLENGE](https://dev.to/harleeyah/100-days-of-code-challenge-45m9)
-- [Dev.to/JS] [Js Practice Interview Questions](https://dev.to/vkkis93/js-practice-interview-questions-44h9)
-- [Dev.to/JS] [2.43 - Growing as a DXE &amp; Building Dev communities](https://dev.to/codingcatdev/243-growing-as-a-dxe-building-dev-communities-2109)
-- [Dev.to/JS] [Iterate through keys of an object using for..in statement &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/iterate-through-keys-of-an-object-using-forin-statement-freecodecamp-notes-2pkb)
-- [Dev.to/JS] [How to calculate SSC GPA?](https://dev.to/farhad00009/how-to-calculate-ssc-gpa-417b)
 - [Lifehacker] [Social Media Is Wrong About Microwaves](https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107)
 - [Lifehacker] [The Signs That You Are Never, Ever Getting That Promotion](https://lifehacker.com/the-signs-that-you-are-never-ever-getting-that-promoti-1849646277)
 - [Lifehacker] [How to Never Lose a Safari Tab on Your iPhone Again](https://lifehacker.com/how-to-never-lose-a-safari-tab-on-your-iphone-again-1849646583)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)
 - [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)
 - [Lifehacker] [Should I Get the New COVID Booster?](https://lifehacker.com/should-i-get-the-new-covid-booster-1849643145)
-- [Lifehacker] [30 of the Scariest Non-English Language Movies Ever](https://lifehacker.com/30-of-the-scariest-non-english-language-movies-ever-1849637881)
-- [Lifehacker] [How to Get Dental Care Without Insurance &lpar;or Money&rpar;](https://lifehacker.com/how-to-get-dental-care-without-insurance-or-money-1849642862)
-- [Lifehacker] [How to Build a DIY Air Purifier for Your Home](https://lifehacker.com/how-to-build-a-diy-air-purifier-for-your-home-1849642865)<!-- TECH-POSTS:END -->
+- [Lifehacker] [30 of the Scariest Non-English Language Movies Ever](https://lifehacker.com/30-of-the-scariest-non-english-language-movies-ever-1849637881)<!-- TECH-POSTS:END -->
 
 ---
 
