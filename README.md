@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make These Two-ingredient Meringue Ghost Cookies](https://lifehacker.com/make-these-two-ingredient-meringue-ghost-cookies-1849643942)
+- [Dev.to/JS] [Awesome Data Structures &amp; Algorithms Courses](https://dev.to/alisamirali/awesome-data-structures-algorithms-courses-1622)
+- [Dev.to/JS] [A brief intro to JS Promises](https://dev.to/pujakundu/a-brief-intro-to-js-promises-5f1i)
+- [Dev.to/JS] [5+ HTML CSS Projects With Source Code](https://dev.to/codingtitan6/5-html-css-projects-with-source-code-208a)
+- [Lifehacker] [9 Foods You Should Never Freeze](https://lifehacker.com/9-foods-you-should-never-freeze-1849645317)
+- [Dev.to/JS] [Jain Software Pvt Ltd.](https://dev.to/aurrganic/jain-software-pvt-ltd-2nhp)
 - [Lifehacker] [Make These Mummy Pigs in a Blankets for Halloween](https://lifehacker.com/make-these-mummy-pigs-in-a-blankets-for-halloween-1849645327)
 - [Lifehacker] [The 10 Scariest Places In the United States of America](https://lifehacker.com/the-10-scariest-places-in-the-united-states-of-america-1849646316)
 - [Lifehacker] [How to Beat Your Nighttime Cough &lpar;and Finally Get Some Sleep&rpar;](https://lifehacker.com/how-to-beat-your-nighttime-cough-and-finally-get-some-1849642619)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lessons learned from moving to Recoil.js](https://dev.to/ksimons/lessons-learned-from-moving-to-recoiljs-3c09)
 - [Dev.to/JS] [How to Display Output in JavaScript](https://dev.to/max88git/how-to-display-output-in-javascript-2ckh)
 - [Dev.to/JS] [Animal Crossing Simulator Discord Bot](https://dev.to/matteol/animal-crossing-simulator-discord-bot-4kh9)
-- [Dev.to/JS] [Weekly Vue News](https://dev.to/mokkapps/weekly-vue-news-173i)
-- [Dev.to/JS] [How to send notifications in JavaScript&lpar;in less than 10 lines of code&rpar;](https://dev.to/freebeliever/how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j)
-- [Dev.to/JS] [How to Increase Your Earnings as a Full-Stack Developer](https://dev.to/xnaksdn/how-to-increase-your-earnings-as-a-full-stack-developer-2fbb)
-- [Dev.to/JS] [Como renombrar múltiples archivos usando Node](https://dev.to/matiasfha/como-renombrar-multiples-archivos-usando-node-5cda)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Slice an Onion to Help It Keep Its Shape](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)
 - [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
 - [Lifehacker] [The Difference Between Trashy and Tasteful Nude Art](https://lifehacker.com/what-to-know-about-decorating-with-nude-art-1849639609)
-- [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)
-- [Lifehacker] [Throw Out These ALDI Falafels, FDA Says](https://lifehacker.com/throw-out-these-aldi-falafels-fda-says-1849639687)
-- [Lifehacker] [Fix These iPhone 14 Bugs With the New iOS 16.0.3 Update](https://lifehacker.com/fix-these-iphone-14-bugs-with-the-new-ios-16-0-3-update-1849639091)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Dating Advice ‘The Bachelor’ Nick Viall Ever Received](https://lifehacker.com/the-best-and-worst-dating-advice-the-bachelor-nick-1849639516)<!-- TECH-POSTS:END -->
 
 ---
 
