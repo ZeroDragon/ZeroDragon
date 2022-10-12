@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Re-posting For Better Reach : You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/re-posting-for-better-reach-you-are-front-end-developer-this-is-for-you-sample-data-api-plk)
+- [Dev.to/JS] [pyscript : run python in HTML](https://dev.to/quitsen/pyscript-run-python-in-html-4aio)
 - [Dev.to/JS] [Vue JS Get Current Date And Time](https://dev.to/techsolutionstuff/vue-js-get-current-date-and-time-3f30)
 - [Dev.to/JS] [Want to find more references about front end](https://dev.to/thanhluan2k3/want-to-find-more-references-about-front-end-7i)
 - [Dev.to/JS] [Random Animal Facts Node.js API](https://dev.to/blueycode/random-animal-facts-nodejs-api-33e9)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [If&lpar; a==1 &amp;&amp; a==2&amp;&amp;a==3 &rpar; is equal to true under what circumstances?](https://dev.to/yoco/if-a1-a2a3-is-equal-to-true-under-what-circumstances-369p)
 - [Lifehacker] [8 Indie Games In Development to Follow on TikTok](https://lifehacker.com/8-indie-games-in-development-to-follow-on-tiktok-1849642327)
 - [Dev.to/JS] [I started my YouTube channel to help people to get into web development !](https://dev.to/avinashvagh/i-started-my-youtube-channel-to-help-people-to-get-into-web-development--2ijh)
-- [Dev.to/JS] [Create-react-app or Vite ?](https://dev.to/leopold/create-react-app-or-vite--33d9)
-- [Dev.to/JS] [Supportive Is: an elegant utility to check types of values in JavaScript](https://dev.to/hassanzohdy/supportive-is-an-elegant-utility-to-check-types-of-values-in-javascript-1b3e)
 - [Lifehacker] [These Free Stencils Will Help You Carve the Neighborhood’s Best Jack-o-Lantern](https://lifehacker.com/these-free-stencils-will-help-you-carve-the-neighborhoo-1849643981)
 - [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
 - [Lifehacker] [How to Use the DEFCON System Without Embarrassing Yourself](https://lifehacker.com/how-to-use-the-defcon-system-without-embarrassing-yours-1849643916)
