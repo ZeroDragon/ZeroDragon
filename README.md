@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Better separation of concerns in web front-end frameworks](https://dev.to/raibtoffoletto/better-separation-of-concerns-in-web-front-end-frameworks-36ho)
+- [Dev.to/JS] [12 usable examples to learn the most popular JS libs 💝](https://dev.to/alagrede/12-usable-examples-to-learn-the-most-popular-js-libs-4229)
+- [Dev.to/JS] [How to build your own MQTT broker in Nest.js](https://dev.to/behnamnasehi/how-to-build-your-own-mqtt-broker-in-nestjs-56kg)
+- [Dev.to/JS] [Javascript: Array exercise Explained](https://dev.to/isabellaguran22/javascript-array-exercise-explained-16fk)
 - [Dev.to/JS] [Styling the homepage header - part 5](https://dev.to/dailydevtips1/styling-the-homepage-header-part-5-1b0a)
 - [Dev.to/JS] [Javascript tricks You&#39;ve Never Heard About : Part 1](https://dev.to/blackkspydo/javascript-tricks-youve-never-heard-about-part-1-2pil)
 - [Dev.to/JS] [How JavaScript hoisting actually works](https://dev.to/codegino/how-javascript-hoisting-actually-works-3mj1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First Trial of Real Open Source Contribution.](https://dev.to/genne23v/first-trial-of-real-open-source-contribution-2bb2)
 - [Dev.to/JS] [Re-posting For Better Reach : You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/re-posting-for-better-reach-you-are-front-end-developer-this-is-for-you-sample-data-api-plk)
 - [Dev.to/JS] [pyscript : run python in HTML](https://dev.to/quitsen/pyscript-run-python-in-html-4aio)
-- [Dev.to/JS] [Vue JS Get Current Date And Time](https://dev.to/techsolutionstuff/vue-js-get-current-date-and-time-3f30)
-- [Dev.to/JS] [Want to find more references about front end](https://dev.to/thanhluan2k3/want-to-find-more-references-about-front-end-7i)
-- [Dev.to/JS] [Random Animal Facts Node.js API](https://dev.to/blueycode/random-animal-facts-nodejs-api-33e9)
-- [Dev.to/JS] [Creating a Svelte Tabs component with Slot props](https://dev.to/asayerio_techblog/creating-a-svelte-tabs-component-with-slot-props-4ni9)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
