@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons learned from moving to Recoil.js](https://dev.to/ksimons/lessons-learned-from-moving-to-recoiljs-3c09)
+- [Dev.to/JS] [How to Display Output in JavaScript](https://dev.to/max88git/how-to-display-output-in-javascript-2ckh)
+- [Dev.to/JS] [Download Free Crack Softwares](https://dev.to/activatorsz/download-free-crack-softwares-1d18)
 - [Dev.to/JS] [Food games recommended by ios](https://dev.to/junny521222/food-games-recommended-by-ios-3pa8)
 - [Dev.to/JS] [Animal Crossing Simulator Discord Bot](https://dev.to/matteol/animal-crossing-simulator-discord-bot-4kh9)
 - [Dev.to/JS] [Weekly Vue News](https://dev.to/mokkapps/weekly-vue-news-173i)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Binary Heap in javascript](https://dev.to/niemet0502/binary-heap-in-javascript-4kgb)
 - [Dev.to/JS] [LinkedIn DB for HR](https://dev.to/zainbinfurqan/linkedin-db-for-hr-11g1)
 - [Dev.to/JS] [Better separation of concerns in web front-end frameworks](https://dev.to/raibtoffoletto/better-separation-of-concerns-in-web-front-end-frameworks-36ho)
-- [Dev.to/JS] [12 usable examples to learn the most popular JS libs 💝](https://dev.to/alagrede/12-usable-examples-to-learn-the-most-popular-js-libs-4229)
-- [Dev.to/JS] [How to build your own MQTT broker in Nest.js](https://dev.to/behnamnasehi/how-to-build-your-own-mqtt-broker-in-nestjs-56kg)
-- [Dev.to/JS] [Javascript: Array exercise Explained](https://dev.to/isabellaguran22/javascript-array-exercise-explained-16fk)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
