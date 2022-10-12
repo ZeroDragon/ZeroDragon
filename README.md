@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 DAYS OF CODE CHALLENGE](https://dev.to/harleeyah/100-days-of-code-challenge-45m9)
+- [Dev.to/JS] [Js Practice Interview Questions](https://dev.to/vkkis93/js-practice-interview-questions-44h9)
+- [Dev.to/JS] [2.43 - Growing as a DXE &amp; Building Dev communities](https://dev.to/codingcatdev/243-growing-as-a-dxe-building-dev-communities-2109)
+- [Dev.to/JS] [Iterate through keys of an object using for..in statement &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/iterate-through-keys-of-an-object-using-forin-statement-freecodecamp-notes-2pkb)
+- [Dev.to/JS] [How to calculate SSC GPA?](https://dev.to/farhad00009/how-to-calculate-ssc-gpa-417b)
+- [Lifehacker] [Social Media Is Wrong About Microwaves](https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107)
 - [Lifehacker] [The Signs That You Are Never, Ever Getting That Promotion](https://lifehacker.com/the-signs-that-you-are-never-ever-getting-that-promoti-1849646277)
 - [Dev.to/JS] [File Backup NodeJS](https://dev.to/drsimplegraffiti/file-backup-nodejs-3ab8)
 - [Lifehacker] [How to Never Lose a Safari Tab on Your iPhone Again](https://lifehacker.com/how-to-never-lose-a-safari-tab-on-your-iphone-again-1849646583)
@@ -33,15 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make These Two-ingredient Meringue Ghost Cookies](https://lifehacker.com/make-these-two-ingredient-meringue-ghost-cookies-1849643942)
 - [Dev.to/JS] [Awesome Data Structures &amp; Algorithms Courses](https://dev.to/alisamirali/awesome-data-structures-algorithms-courses-1622)
 - [Dev.to/JS] [A brief intro to JS Promises](https://dev.to/pujakundu/a-brief-intro-to-js-promises-5f1i)
-- [Dev.to/JS] [5+ HTML CSS Projects With Source Code](https://dev.to/codingtitan6/5-html-css-projects-with-source-code-208a)
 - [Lifehacker] [9 Foods You Should Never Freeze](https://lifehacker.com/9-foods-you-should-never-freeze-1849645317)
-- [Dev.to/JS] [Jain Software Pvt Ltd.](https://dev.to/aurrganic/jain-software-pvt-ltd-2nhp)
 - [Lifehacker] [Make These Mummy Pigs in a Blankets for Halloween](https://lifehacker.com/make-these-mummy-pigs-in-a-blankets-for-halloween-1849645327)
 - [Lifehacker] [The 10 Scariest Places In the United States of America](https://lifehacker.com/the-10-scariest-places-in-the-united-states-of-america-1849646316)
 - [Lifehacker] [How to Beat Your Nighttime Cough &lpar;and Finally Get Some Sleep&rpar;](https://lifehacker.com/how-to-beat-your-nighttime-cough-and-finally-get-some-1849642619)
-- [Dev.to/JS] [Advanced Multistep Forms with React](https://dev.to/clarity89/advanced-multistep-forms-with-react-2226)
-- [Dev.to/JS] [🤯 3 Weird things that are cool to know about Javascript and Typescript, PART I](https://dev.to/msmello_/3-weird-things-that-is-cool-to-know-about-javascript-and-typescript-part-i-5ag4)
-- [Dev.to/JS] [Merge Nodes in Between Zeros](https://dev.to/zeeshanali0704/merge-nodes-in-between-zeros-3pga)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Places to See the Northern Lights in the U.S.](https://lifehacker.com/10-of-the-best-places-to-see-the-northern-lights-in-the-1849641611)
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/the-fastest-way-to-skin-an-almond-1849639820)
 - [Lifehacker] [How to Deal With ‘Weaponized Incompetence’ at Work](https://lifehacker.com/how-to-deal-with-weaponized-incompetence-at-work-1849640868)
-- [Lifehacker] [How to Slice an Onion to Help It Keep Its Shape](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)
-- [Lifehacker] [Take These Tech Courses for Free This Week](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Slice an Onion to Help It Keep Its Shape](https://lifehacker.com/this-is-the-only-right-way-to-slice-an-onion-1849640289)<!-- TECH-POSTS:END -->
 
 ---
 
