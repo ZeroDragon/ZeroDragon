@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Svelte Tabs component with Slot props](https://dev.to/asayerio_techblog/creating-a-svelte-tabs-component-with-slot-props-4ni9)
+- [Dev.to/JS] [Top 12 Chrome Extensions that every web developer should use in 2022.](https://dev.to/nothanii/top-12-chrome-extensions-that-every-web-developer-should-use-in-2022-j3b)
+- [Dev.to/JS] [Refactoring Code](https://dev.to/lostbutton/refactoring-code-28bh)
+- [Dev.to/JS] [Composing Closures and Callbacks In Javascript](https://dev.to/nothanii/composing-closures-and-callbacks-in-javascript-4cbe)
 - [Dev.to/JS] [What is a closure? And why this matters ? - Javascript](https://dev.to/vcctm/what-is-a-closure-and-why-this-matters-javascript-386p)
 - [Lifehacker] [You Can Get a Free AppTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
@@ -38,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Connecting Cypress to a PostgreSQL database](https://dev.to/xvier/connecting-cypress-to-a-postgresql-database-3po5)
 - [Dev.to/JS] [Entendiendo async y await en Javascript](https://dev.to/matiasfha/entendiendo-async-y-await-en-javascript-3k0j)
 - [Dev.to/JS] [What is bind&lpar;&rpar; in JavaScript?](https://dev.to/codecupdev/what-is-bind-in-javascript-3lm9)
-- [Dev.to/JS] [Paracetamol.js💊| #190: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-190-explica-este-codigo-javascript-11f)
-- [Dev.to/JS] [CorelDRAW Graphics Suite Crack 24.2.1.444 &lpar;x64&rpar; Free Download](https://dev.to/crackedfine/coreldraw-graphics-suite-crack-2421444-x64-free-download-53lj)
 - [Lifehacker] [Should You Look at Your Medical Test Results Early?](https://lifehacker.com/should-you-look-at-your-medical-test-results-early-1849643612)
 - [Lifehacker] [Is the iPhone 14 Worth the Money?](https://lifehacker.com/is-the-iphone-14-worth-the-money-1849643832)
-- [Dev.to/JS] [One-click treat for Open Source maintainers](https://dev.to/stackblitz/one-click-treat-for-open-source-maintainers-49f7)
-- [Dev.to/JS] [How to fetch data in React with performance in mind](https://dev.to/adevnadia/how-to-fetch-data-in-react-with-performance-in-mind-2146)
 - [Lifehacker] [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)
 - [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)
 - [Lifehacker] [Should I Get the New COVID Booster?](https://lifehacker.com/should-i-get-the-new-covid-booster-1849643145)
