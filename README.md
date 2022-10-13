@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The HTML 5 &lt;Dialog /&gt; Tag: The easiest way to do modal.](https://dev.to/frantchessico/the-html-5-tag-the-easiest-way-to-do-modal-8na)
+- [Dev.to/JS] [Create useful noise patterns with Academy award winning Ken Perlin 🏆🎲](https://dev.to/thormeier/create-useful-noise-patterns-with-academy-award-winning-ken-perlin-3fc6)
 - [Dev.to/JS] [Explaining Recursion in JavaScript](https://dev.to/asayerio_techblog/explaining-recursion-in-javascript-1cg0)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to generate all subarrays in javascript in 2022?](https://dev.to/ajayv1/how-to-generate-all-subarrays-in-javascript-in-2022-1jno)
 - [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)
 - [Dev.to/JS] [Learning to code in your 30s](https://dev.to/_codewithpaul/learning-to-code-in-your-30s-1ng2)
-- [Dev.to/JS] [Setting the Default Node.JS version with nvm](https://dev.to/smpnjn/setting-the-default-nodejs-version-with-nvm-54c3)
 - [Lifehacker] [How to Choose the Perfect Electric Blanket for You](https://lifehacker.com/how-to-choose-the-perfect-electric-blanket-for-you-1849648194)
-- [Dev.to/JS] [How to create an Instagram clone on the Polygon Network using Next.js and Truffle](https://dev.to/chrisabdo/how-to-create-an-instagram-clone-on-the-polygon-network-using-nextjs-and-truffle-26e6)
 - [Lifehacker] [How Much It Costs to Replace or Repair Your Garage Door](https://lifehacker.com/how-much-it-costs-to-replace-or-repair-your-garage-door-1849646280)
 - [Lifehacker] [Don’t Mistake This Microsoft Security Alert for Spam](https://lifehacker.com/don-t-mistake-this-microsoft-security-alert-for-spam-1849647846)
 - [Lifehacker] [Social Media Is Wrong About Microwaves](https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107)
