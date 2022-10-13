@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Will the Demand for Full-Stack Software Developers Rise in 2023 and Beyond?](https://dev.to/xnaksdn/why-will-the-demand-for-full-stack-software-developers-rise-in-2023-and-beyond-50f7)
 - [Dev.to/JS] [How I Made My Portfolio with Next.js](https://dev.to/j471n/how-i-made-my-portfolio-with-nextjs-2mn3)
 - [Dev.to/JS] [Intro to Array in JavaScript.](https://dev.to/jindalkeshav82/intro-to-array-in-javascript-3e75)
 - [Dev.to/JS] [Moon phases with Node.js streams over HTTP](https://dev.to/fabriziolallo/moon-phases-with-nodejs-streams-over-http-1mmf)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Styling the recent posts - part 6](https://dev.to/dailydevtips1/styling-the-recent-posts-part-6-637)
 - [Dev.to/JS] [My development environment is 100% text based - Fish Shell, Tmux, and Neovim - Here are my Dotfiles](https://dev.to/chetanmittaldev/my-development-environment-is-100-text-based-fish-shell-tmux-and-neovim-here-are-my-dotfiles-48po)
 - [Dev.to/JS] [Serialize and Deserialize Binary Tree](https://dev.to/zeeshanali0704/serialize-and-deserialize-binary-tree-17c4)
-- [Dev.to/JS] [How to Fix React Must Be in Scope When Using JSX?](https://dev.to/mittalp7/how-to-fix-react-must-be-in-scope-when-using-jsx-3lf8)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
 - [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
