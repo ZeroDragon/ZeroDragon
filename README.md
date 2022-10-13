@@ -23,10 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Complete Beginner’s Guide to Big O Notation](https://dev.to/jstats/a-complete-beginners-guide-to-big-o-notation-56lh)
+- [Dev.to/JS] [2nd Day at Flatiron School](https://dev.to/calvinjimenez/2nd-day-at-flatiron-school-433f)
 - [Dev.to/JS] [WebAssembly &amp; Low-Code: Build High-Performance Apps In-Browser](https://dev.to/domfive/webassembly-low-code-build-high-performance-apps-in-browser-2hj0)
 - [Dev.to/JS] [Beginners’ crash course to build apps for Teams](https://dev.to/microsoft365/beginners-crash-course-to-build-apps-for-teams-36al)
 - [Dev.to/JS] [OSD600 Lab5](https://dev.to/dadolhay/osd600-lab5-3anp)
-- [Dev.to/JS] [The HTML 5 &lt;Dialog /&gt; Tag: The easiest way to do modal.](https://dev.to/frantchessico/the-html-5-tag-the-easiest-way-to-do-modal-8na)
+- [Dev.to/JS] [The HTML 5 &lt;Dialog /&gt; Tag: The easiest way to create modal.](https://dev.to/frantchessico/the-html-5-tag-the-easiest-way-to-do-modal-8na)
 - [Dev.to/JS] [Create useful noise patterns with Academy award winning Ken Perlin 🏆🎲](https://dev.to/thormeier/create-useful-noise-patterns-with-academy-award-winning-ken-perlin-3fc6)
 - [Dev.to/JS] [Explaining Recursion in JavaScript](https://dev.to/asayerio_techblog/explaining-recursion-in-javascript-1cg0)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Default Exports Makes JavaScript Harder to Read!](https://dev.to/baransu/using-default-exports-makes-javascript-harder-to-read-894)
 - [Dev.to/JS] [HackerRank Regex Solutions](https://dev.to/chase2learn/hackerrank-regex-solutions-3315)
 - [Lifehacker] [How to Give Dating Advice, According to ‘The Bachelor’ Star Nick Viall](https://lifehacker.com/how-to-give-dating-advice-according-to-the-bachelor-1849649157)
-- [Dev.to/JS] [Restart nodemon when html or css file is modified](https://dev.to/theankansaha/restart-nodemon-when-html-or-css-file-is-modified-3kf9)
-- [Dev.to/JS] [JS PDF generator that is accessible](https://dev.to/getsetgopi/js-pdf-generator-that-is-accessible-57k7)
 - [Lifehacker] [Everything You Need to Know About the Student Loan Forgiveness Application so Far](https://lifehacker.com/everything-you-need-to-know-about-the-student-loan-forg-1849648709)
 - [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)
 - [Lifehacker] [How to Choose the Perfect Electric Blanket for You](https://lifehacker.com/how-to-choose-the-perfect-electric-blanket-for-you-1849648194)
