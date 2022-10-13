@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Some Arrays Javascript Methods You Might Want to Know 🚀](https://dev.to/renancferro/some-arrays-javascript-methods-you-might-want-to-know-5c0j)
+- [Dev.to/JS] [Build REST endpoints with Low-code Backend](https://dev.to/nucleoid/build-rest-endpoints-with-low-code-backend-1fd7)
+- [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
+- [Dev.to/JS] [Orkat Moon VS Code Theme](https://dev.to/amalprasad0/orkat-moon-vs-code-theme-1k40)
+- [Dev.to/JS] [Cypress Integration with CI/CD Bitbucket | E2E testing with Bitbucket &amp; Cypress](https://dev.to/kailashpathak7/cypress-integration-with-cicd-bitbucket-e2e-testing-with-bitbucket-cypress-5hhh)
+- [Lifehacker] [This Is Why You Really Need a Kitchen Scale](https://lifehacker.com/this-is-why-you-really-need-a-kitchen-scale-1849653172)
 - [Dev.to/JS] [Pragmatic development 2: frontend](https://dev.to/vladimir_mvs/pragmatic-development-2-frontend-1m79)
 - [Dev.to/JS] [Como criar, organizar e manter um sistema web?](https://dev.to/manoeljosefneto/como-criar-organizar-e-manter-um-sistema-web-4mb)
 - [Lifehacker] [How to Know If You’re Going to Hell](https://lifehacker.com/how-to-know-if-you-re-going-to-hell-1849651490)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BetaBeat - Blood Sugar Results, Uses, Price, Benefits And Reviews?](https://dev.to/betabeatfact/betabeat-blood-sugar-results-uses-price-benefits-and-reviews-722)
 - [Dev.to/JS] [Getting Bundling Superpowers Using Codegen](https://dev.to/florianrappl/getting-bundling-superpowers-using-codegen-2no8)
 - [Dev.to/JS] [Create Youtube Shorts, Insta Reels, Tiktok like scrolling effect | Just HTML and CSS](https://dev.to/imdigitalashish/create-youtube-shorts-insta-reels-tiktok-like-scrolling-effect-just-html-and-css-4n29)
-- [Dev.to/JS] [CryptoJS 用前端加密、解密](https://dev.to/letswrite/cryptojs-yong-qian-duan-jia-mi-jie-mi-cbp)
-- [Dev.to/JS] [Ecommerce Website Using Html Css And Javascript Source Code](https://dev.to/codingtitan6/ecommerce-website-using-html-css-and-javascript-source-code-52ck)
 - [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)
-- [Dev.to/JS] [What is pnpm and is it really so fast and space-efficient?](https://dev.to/stackblitz/what-is-pnpm-and-is-it-really-so-fast-and-space-efficient-29la)
-- [Dev.to/JS] [Implementing JsConfig](https://dev.to/adaobiezelioha/implementing-jsconfig-5h31)
 - [Lifehacker] [Grow a Clover Lawn That You Barely Have to Mow](https://lifehacker.com/grow-a-clover-lawn-that-you-barely-have-to-mow-1849647474)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make These Mummy Pigs in a Blankets for Halloween](https://lifehacker.com/make-these-mummy-pigs-in-a-blankets-for-halloween-1849645327)
 - [Lifehacker] [The 10 Scariest Places In the United States of America](https://lifehacker.com/the-10-scariest-places-in-the-united-states-of-america-1849646316)
 - [Lifehacker] [How to Beat Your Nighttime Cough &lpar;and Finally Get Some Sleep&rpar;](https://lifehacker.com/how-to-beat-your-nighttime-cough-and-finally-get-some-1849642619)
-- [Lifehacker] [You Can Get a Free AllTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
-- [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
-- [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Free AllTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)<!-- TECH-POSTS:END -->
 
 ---
 
