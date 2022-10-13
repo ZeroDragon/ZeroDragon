@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [In handle bars if there is an attribute that is an array of values, how we can group by that if the json is not sorted](https://dev.to/heplinesss_17/in-handle-bars-if-there-is-an-attribute-that-is-an-array-of-values-how-we-can-group-by-that-if-the-json-is-not-sorted-59e7)
+- [Dev.to/JS] [Awesome tools for Coding Practice](https://dev.to/surajondev/awesome-tools-for-coding-practice-4l49)
+- [Dev.to/JS] [How I built a live chat with my Ecommerce Store Using Medusa and Rocket.Chat](https://dev.to/medusajs/how-i-built-a-live-chat-with-my-ecommerce-store-using-medusa-and-rocketchat-21ig)
 - [Dev.to/JS] [Why Will the Demand for Full-Stack Software Developers Rise in 2023 and Beyond?](https://dev.to/xnaksdn/why-will-the-demand-for-full-stack-software-developers-rise-in-2023-and-beyond-50f7)
 - [Dev.to/JS] [How I Made My Portfolio with Next.js](https://dev.to/j471n/how-i-made-my-portfolio-with-nextjs-2mn3)
 - [Dev.to/JS] [Intro to Array in JavaScript.](https://dev.to/jindalkeshav82/intro-to-array-in-javascript-3e75)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Uncaught TypeError: Cannot Read Property of Undefined in JavaScript](https://dev.to/amaralisa9/uncaught-typeerror-cannot-read-property-of-undefined-in-javascript-1jfp)
 - [Dev.to/JS] [What&#39;s the best way migrates state to outside of component on React?](https://dev.to/tkow/whats-the-best-way-migrates-state-to-outside-of-component-on-react-17jg)
 - [Dev.to/JS] [Callbacks in JavaScript](https://dev.to/codecupdev/callbacks-in-javascript-3lon)
-- [Dev.to/JS] [Styling the recent posts - part 6](https://dev.to/dailydevtips1/styling-the-recent-posts-part-6-637)
-- [Dev.to/JS] [My development environment is 100% text based - Fish Shell, Tmux, and Neovim - Here are my Dotfiles](https://dev.to/chetanmittaldev/my-development-environment-is-100-text-based-fish-shell-tmux-and-neovim-here-are-my-dotfiles-48po)
-- [Dev.to/JS] [Serialize and Deserialize Binary Tree](https://dev.to/zeeshanali0704/serialize-and-deserialize-binary-tree-17c4)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
 - [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
