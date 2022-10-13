@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setting up Cypress with Github Actions and Heroku Review Apps](https://dev.to/mikeshi/setting-up-cypress-with-github-actions-and-heroku-review-apps-1k6o)
+- [Lifehacker] [How to Make the Perfect No-Lump Cheesecake Filling](https://lifehacker.com/how-to-make-the-perfect-no-lump-cheesecake-filling-1849653980)
+- [Dev.to/JS] [Babel &lpar;transcompiler&rpar;](https://dev.to/nessi_k/babel-transcompiler-53l5)
+- [Dev.to/JS] [JS Arithmetic Operators](https://dev.to/nessi_k/js-arithmetic-operators-17k8)
+- [Dev.to/JS] [API, Array-API](https://dev.to/nessi_k/api-array-api-5g8h)
 - [Dev.to/JS] [API, String-API](https://dev.to/nessi_k/api-string-api-1ln5)
-- [Lifehacker] [Where to Get Free Treats This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
+- [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
 - [Dev.to/JS] [O mínimo sobre focus de elementos em HTML, CSS e Javascript &lpar;bônus: tabindex&rpar;](https://dev.to/demenezes/o-minimo-sobre-focus-de-elementos-em-html-css-e-javascript-bonus-tabindex-4e29)
 - [Dev.to/JS] [API, Math-API](https://dev.to/nessi_k/api-math-api-5399)
 - [Dev.to/JS] [New JS Newsletter: JSTools Weekly](https://dev.to/jstoolsweekly/new-js-newsletter-jstools-weekly-4cp8)
@@ -35,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Orkat Moon VS Code Theme](https://dev.to/amalprasad0/orkat-moon-vs-code-theme-1k40)
 - [Dev.to/JS] [Cypress Integration with CI/CD Bitbucket | E2E testing with Bitbucket &amp; Cypress](https://dev.to/kailashpathak7/cypress-integration-with-cicd-bitbucket-e2e-testing-with-bitbucket-cypress-5hhh)
 - [Lifehacker] [This Is Why You Really Need a Kitchen Scale](https://lifehacker.com/this-is-why-you-really-need-a-kitchen-scale-1849653172)
-- [Dev.to/JS] [Pragmatic development 2: frontend](https://dev.to/vladimir_mvs/pragmatic-development-2-frontend-1m79)
-- [Dev.to/JS] [Como criar, organizar e manter um sistema web?](https://dev.to/manoeljosefneto/como-criar-organizar-e-manter-um-sistema-web-4mb)
 - [Lifehacker] [How to Know If You’re Going to Hell](https://lifehacker.com/how-to-know-if-you-re-going-to-hell-1849651490)
 - [Lifehacker] [The Discord Features Everyone Should Know About](https://lifehacker.com/the-discord-features-everyone-should-know-about-1849651815)
-- [Dev.to/JS] [Aminated Portfolio Website HTML CSS JS | No Frameworks](https://dev.to/codewithsadee/aminated-portfolio-website-html-css-js-no-frameworks-2k0m)
 - [Lifehacker] [How to Have a Better Relationship With Your Teenager](https://lifehacker.com/how-to-have-a-better-relationship-with-your-teenager-1849651294)
-- [Dev.to/JS] [Airtable automation: How I streamlined submissions to the Developer Showcase](https://dev.to/contentful/airtable-automation-how-i-streamlined-submissions-to-the-developer-showcase-d40)
 - [Lifehacker] [Ignore These Myths About Life Insurance](https://lifehacker.com/ignore-these-myths-about-life-insurance-1849650266)
 - [Lifehacker] [You Can Finally Access Your iPhone Photos on Windows](https://lifehacker.com/you-can-finally-access-your-iphone-photos-on-windows-1849649496)
 - [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Never Lose a Safari Tab on Your iPhone Again](https://lifehacker.com/how-to-never-lose-a-safari-tab-on-your-iphone-again-1849646583)
 - [Lifehacker] [Make These Two-ingredient Meringue Ghost Cookies](https://lifehacker.com/make-these-two-ingredient-meringue-ghost-cookies-1849643942)
 - [Lifehacker] [9 Foods You Should Never Freeze](https://lifehacker.com/9-foods-you-should-never-freeze-1849645317)
-- [Lifehacker] [Make These Mummy Pigs in a Blankets for Halloween](https://lifehacker.com/make-these-mummy-pigs-in-a-blankets-for-halloween-1849645327)
-- [Lifehacker] [The 10 Scariest Places In the United States of America](https://lifehacker.com/the-10-scariest-places-in-the-united-states-of-america-1849646316)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make These Mummy Pigs in a Blankets for Halloween](https://lifehacker.com/make-these-mummy-pigs-in-a-blankets-for-halloween-1849645327)<!-- TECH-POSTS:END -->
 
 ---
 
