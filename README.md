@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Probuild Ex Part Three](https://dev.to/mrdotb/probuild-ex-part-three-3b8)
+- [Dev.to/JS] [How to create an Express JS middleware](https://dev.to/sonicx180/how-to-create-an-express-js-middleware-2fcc)
+- [Dev.to/JS] [Building a free component library for react developers.](https://dev.to/alohe/building-a-free-component-library-for-react-developers-3pdp)
 - [Dev.to/JS] [What&#39;s your definition about the perfect CMS?🤖](https://dev.to/vitalijalbu/whats-your-definition-about-the-perfect-cms-k42)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Dev.to/JS] [A verdade sobre os bootcamps de programação](https://dev.to/devdoido/a-verdade-sobre-os-bootcamps-de-programacao-3pci)
@@ -39,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [API, Array-API](https://dev.to/nessi_k/api-array-api-5g8h)
 - [Dev.to/JS] [API, String-API](https://dev.to/nessi_k/api-string-api-1ln5)
 - [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
-- [Dev.to/JS] [O mínimo sobre focus de elementos em HTML, CSS e Javascript &lpar;bônus: tabindex&rpar;](https://dev.to/demenezes/o-minimo-sobre-focus-de-elementos-em-html-css-e-javascript-bonus-tabindex-4e29)
-- [Dev.to/JS] [API, Math-API](https://dev.to/nessi_k/api-math-api-5399)
-- [Dev.to/JS] [New JS Newsletter: JSTools Weekly](https://dev.to/jstoolsweekly/new-js-newsletter-jstools-weekly-4cp8)
 - [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
 - [Lifehacker] [This Is Why You Really Need a Kitchen Scale](https://lifehacker.com/this-is-why-you-really-need-a-kitchen-scale-1849653172)
