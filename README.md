@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pragmatic development 2: frontend](https://dev.to/vladimir_mvs/pragmatic-development-2-frontend-1m79)
+- [Dev.to/JS] [Como criar, organizar e manter um sistema web?](https://dev.to/manoeljosefneto/como-criar-organizar-e-manter-um-sistema-web-4mb)
+- [Lifehacker] [How to Know If You’re Going to Hell](https://lifehacker.com/how-to-know-if-you-re-going-to-hell-1849651490)
 - [Lifehacker] [The Discord Features Everyone Should Know About](https://lifehacker.com/the-discord-features-everyone-should-know-about-1849651815)
 - [Dev.to/JS] [Aminated Portfolio Website HTML CSS JS | No Frameworks](https://dev.to/codewithsadee/aminated-portfolio-website-html-css-js-no-frameworks-2k0m)
 - [Lifehacker] [How to Have a Better Relationship With Your Teenager](https://lifehacker.com/how-to-have-a-better-relationship-with-your-teenager-1849651294)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)
 - [Dev.to/JS] [What is pnpm and is it really so fast and space-efficient?](https://dev.to/stackblitz/what-is-pnpm-and-is-it-really-so-fast-and-space-efficient-29la)
 - [Dev.to/JS] [Implementing JsConfig](https://dev.to/adaobiezelioha/implementing-jsconfig-5h31)
-- [Dev.to/JS] [Node.js vs. JavaScript: What Is Better?](https://dev.to/techticsolution_5/nodejs-vs-javascript-what-is-better-27gl)
-- [Dev.to/JS] [Créer un site web responsive avec Bootstrap](https://dev.to/codingteam/creer-un-site-web-responsive-avec-bootstrap-p6p)
 - [Lifehacker] [Grow a Clover Lawn That You Barely Have to Mow](https://lifehacker.com/grow-a-clover-lawn-that-you-barely-have-to-mow-1849647474)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Beat Your Nighttime Cough &lpar;and Finally Get Some Sleep&rpar;](https://lifehacker.com/how-to-beat-your-nighttime-cough-and-finally-get-some-1849642619)
 - [Lifehacker] [You Can Get a Free AllTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
 - [Lifehacker] [These Are the Best Pre-Black Friday Sales Happening Right Now](https://lifehacker.com/these-are-the-best-pre-black-friday-sales-happening-rig-1849644726)
-- [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
-- [Lifehacker] [8 Indie Games In Development to Follow on TikTok](https://lifehacker.com/8-indie-games-in-development-to-follow-on-tiktok-1849642327)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)<!-- TECH-POSTS:END -->
 
 ---
 
