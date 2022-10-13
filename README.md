@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Uncaught TypeError: Cannot Read Property of Undefined in JavaScript](https://dev.to/amaralisa9/uncaught-typeerror-cannot-read-property-of-undefined-in-javascript-1jfp)
+- [Dev.to/JS] [What&#39;s the best way migrates state to outside of component on React?](https://dev.to/tkow/whats-the-best-way-migrates-state-to-outside-of-component-on-react-17jg)
 - [Dev.to/JS] [Callbacks in JavaScript](https://dev.to/codecupdev/callbacks-in-javascript-3lon)
 - [Dev.to/JS] [Styling the recent posts - part 6](https://dev.to/dailydevtips1/styling-the-recent-posts-part-6-637)
 - [Dev.to/JS] [My development environment is 100% text based - Fish Shell, Tmux, and Neovim - Here are my Dotfiles](https://dev.to/chetanmittaldev/my-development-environment-is-100-text-based-fish-shell-tmux-and-neovim-here-are-my-dotfiles-48po)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Complete Beginner’s Guide to Big O Notation](https://dev.to/jstats/a-complete-beginners-guide-to-big-o-notation-56lh)
 - [Dev.to/JS] [2nd Day at Flatiron School](https://dev.to/calvinjimenez/2nd-day-at-flatiron-school-433f)
 - [Dev.to/JS] [WebAssembly &amp; Low-Code: Build High-Performance Apps In-Browser](https://dev.to/domfive/webassembly-low-code-build-high-performance-apps-in-browser-2hj0)
-- [Dev.to/JS] [Beginners’ crash course to build apps for Teams](https://dev.to/microsoft365/beginners-crash-course-to-build-apps-for-teams-36al)
-- [Dev.to/JS] [OSD600 Lab5](https://dev.to/dadolhay/osd600-lab5-3anp)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
 - [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
