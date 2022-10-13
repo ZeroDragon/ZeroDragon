@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ignore These Myths About Life Insurance](https://lifehacker.com/ignore-these-myths-about-life-insurance-1849650266)
+- [Lifehacker] [You Can Finally Access Your iPhone Photos on Windows](https://lifehacker.com/you-can-finally-access-your-iphone-photos-on-windows-1849649496)
+- [Dev.to/JS] [BetaBeat - Blood Sugar Results, Uses, Price, Benefits And Reviews?](https://dev.to/betabeatfact/betabeat-blood-sugar-results-uses-price-benefits-and-reviews-722)
 - [Dev.to/JS] [Getting Bundling Superpowers Using Codegen](https://dev.to/florianrappl/getting-bundling-superpowers-using-codegen-2no8)
 - [Dev.to/JS] [Create Youtube Shorts, Insta Reels, Tiktok like scrolling effect | Just HTML and CSS](https://dev.to/imdigitalashish/create-youtube-shorts-insta-reels-tiktok-like-scrolling-effect-just-html-and-css-4n29)
 - [Dev.to/JS] [CryptoJS 用前端加密、解密](https://dev.to/letswrite/cryptojs-yong-qian-duan-jia-mi-jie-mi-cbp)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you should prefer using pnpm ?](https://dev.to/refine/why-you-should-prefer-using-pnpm--2114)
 - [Dev.to/JS] [New python post](https://dev.to/apfirebolt/new-python-post-5def)
 - [Dev.to/JS] [In handle bars if there is an attribute that is an array of values, how we can group by that if the json is not sorted?](https://dev.to/heplinesss_17/in-handle-bars-if-there-is-an-attribute-that-is-an-array-of-values-how-we-can-group-by-that-if-the-json-is-not-sorted-408b)
-- [Dev.to/JS] [In handle bars if there is an attribute that is an array of values, how we can group by that if the json is not sorted](https://dev.to/heplinesss_17/in-handle-bars-if-there-is-an-attribute-that-is-an-array-of-values-how-we-can-group-by-that-if-the-json-is-not-sorted-59e7)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
 - [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Take Your ‘Breakfast for Dinner’ to the Next Level](https://lifehacker.com/how-to-take-your-breakfast-for-dinner-to-the-next-lev-1849643421)
 - [Lifehacker] [8 Indie Games In Development to Follow on TikTok](https://lifehacker.com/8-indie-games-in-development-to-follow-on-tiktok-1849642327)
 - [Lifehacker] [These Free Stencils Will Help You Carve the Neighborhood’s Best Jack-o-Lantern](https://lifehacker.com/these-free-stencils-will-help-you-carve-the-neighborhoo-1849643981)
-- [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
-- [Lifehacker] [How to Use the DEFCON System Without Embarrassing Yourself](https://lifehacker.com/how-to-use-the-defcon-system-without-embarrassing-yours-1849643916)
-- [Lifehacker] [Should You Look at Your Medical Test Results Early?](https://lifehacker.com/should-you-look-at-your-medical-test-results-early-1849643612)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)<!-- TECH-POSTS:END -->
 
 ---
 
