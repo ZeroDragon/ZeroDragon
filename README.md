@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s your definition about the perfect CMS?🤖](https://dev.to/vitalijalbu/whats-your-definition-about-the-perfect-cms-k42)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Dev.to/JS] [A verdade sobre os bootcamps de programação](https://dev.to/devdoido/a-verdade-sobre-os-bootcamps-de-programacao-3pci)
 - [Dev.to/JS] [The Essential Guide to Javascript Sets](https://dev.to/smpnjn/the-essential-guide-to-javascript-sets-22b4)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [API, Math-API](https://dev.to/nessi_k/api-math-api-5399)
 - [Dev.to/JS] [New JS Newsletter: JSTools Weekly](https://dev.to/jstoolsweekly/new-js-newsletter-jstools-weekly-4cp8)
 - [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)
-- [Dev.to/JS] [Some Arrays Javascript Methods You Might Want to Know 🚀](https://dev.to/renancferro/some-arrays-javascript-methods-you-might-want-to-know-5c0j)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
 - [Lifehacker] [This Is Why You Really Need a Kitchen Scale](https://lifehacker.com/this-is-why-you-really-need-a-kitchen-scale-1849653172)
 - [Lifehacker] [How to Know If You’re Going to Hell](https://lifehacker.com/how-to-know-if-you-re-going-to-hell-1849651490)
