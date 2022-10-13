@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All HackerRank problem solutions in one place](https://dev.to/chase2learn/all-hackerrank-problem-solutions-in-one-place-40pl)
 - [Dev.to/JS] [A Complete Beginner’s Guide to Big O Notation](https://dev.to/jstats/a-complete-beginners-guide-to-big-o-notation-56lh)
 - [Dev.to/JS] [2nd Day at Flatiron School](https://dev.to/calvinjimenez/2nd-day-at-flatiron-school-433f)
 - [Dev.to/JS] [WebAssembly &amp; Low-Code: Build High-Performance Apps In-Browser](https://dev.to/domfive/webassembly-low-code-build-high-performance-apps-in-browser-2hj0)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Seeking Speakers for *virtual* ChicagoJS Meetup](https://dev.to/heather_veva/seeking-speakers-for-virtual-chicagojs-meetup-27n8)
 - [Lifehacker] [10 Dangerous Things You Can Successfully Run Away From](https://lifehacker.com/10-dangerous-things-you-can-successfully-run-away-from-1849649056)
 - [Dev.to/JS] [Using Default Exports Makes JavaScript Harder to Read!](https://dev.to/baransu/using-default-exports-makes-javascript-harder-to-read-894)
-- [Dev.to/JS] [HackerRank Regex Solutions](https://dev.to/chase2learn/hackerrank-regex-solutions-3315)
 - [Lifehacker] [How to Give Dating Advice, According to ‘The Bachelor’ Star Nick Viall](https://lifehacker.com/how-to-give-dating-advice-according-to-the-bachelor-1849649157)
 - [Lifehacker] [Everything You Need to Know About the Student Loan Forgiveness Application so Far](https://lifehacker.com/everything-you-need-to-know-about-the-student-loan-forg-1849648709)
 - [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)
