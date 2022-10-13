@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Callbacks in JavaScript](https://dev.to/codecupdev/callbacks-in-javascript-3lon)
 - [Dev.to/JS] [Styling the recent posts - part 6](https://dev.to/dailydevtips1/styling-the-recent-posts-part-6-637)
 - [Dev.to/JS] [My development environment is 100% text based - Fish Shell, Tmux, and Neovim - Here are my Dotfiles](https://dev.to/chetanmittaldev/my-development-environment-is-100-text-based-fish-shell-tmux-and-neovim-here-are-my-dotfiles-48po)
 - [Dev.to/JS] [Serialize and Deserialize Binary Tree](https://dev.to/zeeshanali0704/serialize-and-deserialize-binary-tree-17c4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WebAssembly &amp; Low-Code: Build High-Performance Apps In-Browser](https://dev.to/domfive/webassembly-low-code-build-high-performance-apps-in-browser-2hj0)
 - [Dev.to/JS] [Beginners’ crash course to build apps for Teams](https://dev.to/microsoft365/beginners-crash-course-to-build-apps-for-teams-36al)
 - [Dev.to/JS] [OSD600 Lab5](https://dev.to/dadolhay/osd600-lab5-3anp)
-- [Dev.to/JS] [The HTML 5 &lt;Dialog /&gt; Tag: The easiest way to create modal.](https://dev.to/frantchessico/the-html-5-tag-the-easiest-way-to-do-modal-8na)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
 - [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
