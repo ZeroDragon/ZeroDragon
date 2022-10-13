@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Styling the recent posts - part 6](https://dev.to/dailydevtips1/styling-the-recent-posts-part-6-637)
+- [Dev.to/JS] [My development environment is 100% text based - Fish Shell, Tmux, and Neovim - Here are my Dotfiles](https://dev.to/chetanmittaldev/my-development-environment-is-100-text-based-fish-shell-tmux-and-neovim-here-are-my-dotfiles-48po)
+- [Dev.to/JS] [Serialize and Deserialize Binary Tree](https://dev.to/zeeshanali0704/serialize-and-deserialize-binary-tree-17c4)
+- [Dev.to/JS] [How to Fix React Must Be in Scope When Using JSX?](https://dev.to/mittalp7/how-to-fix-react-must-be-in-scope-when-using-jsx-3lf8)
 - [Dev.to/JS] [The Backrooms - a terrifying video game that features an endless](https://dev.to/tormentedyum/the-backrooms-a-terrifying-video-game-that-features-an-endless-f91)
 - [Dev.to/JS] [All HackerRank problem solutions in one place](https://dev.to/chase2learn/all-hackerrank-problem-solutions-in-one-place-40pl)
 - [Dev.to/JS] [A Complete Beginner’s Guide to Big O Notation](https://dev.to/jstats/a-complete-beginners-guide-to-big-o-notation-56lh)
@@ -31,13 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginners’ crash course to build apps for Teams](https://dev.to/microsoft365/beginners-crash-course-to-build-apps-for-teams-36al)
 - [Dev.to/JS] [OSD600 Lab5](https://dev.to/dadolhay/osd600-lab5-3anp)
 - [Dev.to/JS] [The HTML 5 &lt;Dialog /&gt; Tag: The easiest way to create modal.](https://dev.to/frantchessico/the-html-5-tag-the-easiest-way-to-do-modal-8na)
-- [Dev.to/JS] [Create useful noise patterns with Academy award winning Ken Perlin 🏆🎲](https://dev.to/thormeier/create-useful-noise-patterns-with-academy-award-winning-ken-perlin-3fc6)
-- [Dev.to/JS] [Explaining Recursion in JavaScript](https://dev.to/asayerio_techblog/explaining-recursion-in-javascript-1cg0)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
-- [Dev.to/JS] [Transporting your Components Anywhere with React Portals](https://dev.to/smpnjn/transporting-your-components-anywhere-with-react-portals-6li)
 - [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
-- [Dev.to/JS] [Seeking Speakers for *virtual* ChicagoJS Meetup](https://dev.to/heather_veva/seeking-speakers-for-virtual-chicagojs-meetup-27n8)
 - [Lifehacker] [10 Dangerous Things You Can Successfully Run Away From](https://lifehacker.com/10-dangerous-things-you-can-successfully-run-away-from-1849649056)
 - [Lifehacker] [How to Give Dating Advice, According to ‘The Bachelor’ Star Nick Viall](https://lifehacker.com/how-to-give-dating-advice-according-to-the-bachelor-1849649157)
 - [Lifehacker] [Everything You Need to Know About the Student Loan Forgiveness Application so Far](https://lifehacker.com/everything-you-need-to-know-about-the-student-loan-forg-1849648709)
