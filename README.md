@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why &#39;Revenge Cheating&#39; Never Works](https://lifehacker.com/why-revenge-cheating-never-works-1849654175)
+- [Lifehacker] [What You Should Do Now to Prepare for Thanksgiving &lpar;If You&#39;re Anxious&rpar;](https://lifehacker.com/what-you-should-do-now-to-prepare-for-thanksgiving-if-1849654472)
 - [Dev.to/JS] [Setting up Cypress with Github Actions and Heroku Review Apps](https://dev.to/mikeshi/setting-up-cypress-with-github-actions-and-heroku-review-apps-1k6o)
 - [Lifehacker] [How to Make the Perfect No-Lump Cheesecake Filling](https://lifehacker.com/how-to-make-the-perfect-no-lump-cheesecake-filling-1849653980)
 - [Dev.to/JS] [Babel &lpar;transcompiler&rpar;](https://dev.to/nessi_k/babel-transcompiler-53l5)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Social Media Is Wrong About Microwaves](https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107)
 - [Lifehacker] [The Signs That You Are Never, Ever Getting That Promotion](https://lifehacker.com/the-signs-that-you-are-never-ever-getting-that-promoti-1849646277)
 - [Lifehacker] [How to Never Lose a Safari Tab on Your iPhone Again](https://lifehacker.com/how-to-never-lose-a-safari-tab-on-your-iphone-again-1849646583)
-- [Lifehacker] [Make These Two-ingredient Meringue Ghost Cookies](https://lifehacker.com/make-these-two-ingredient-meringue-ghost-cookies-1849643942)
-- [Lifehacker] [9 Foods You Should Never Freeze](https://lifehacker.com/9-foods-you-should-never-freeze-1849645317)
-- [Lifehacker] [Make These Mummy Pigs in a Blankets for Halloween](https://lifehacker.com/make-these-mummy-pigs-in-a-blankets-for-halloween-1849645327)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make These Two-ingredient Meringue Ghost Cookies](https://lifehacker.com/make-these-two-ingredient-meringue-ghost-cookies-1849643942)<!-- TECH-POSTS:END -->
 
 ---
 
