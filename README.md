@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebAssembly &amp; Low-Code: Build High-Performance Apps In-Browser](https://dev.to/domfive/webassembly-low-code-build-high-performance-apps-in-browser-2hj0)
+- [Dev.to/JS] [Beginners’ crash course to build apps for Teams](https://dev.to/microsoft365/beginners-crash-course-to-build-apps-for-teams-36al)
+- [Dev.to/JS] [OSD600 Lab5](https://dev.to/dadolhay/osd600-lab5-3anp)
 - [Dev.to/JS] [The HTML 5 &lt;Dialog /&gt; Tag: The easiest way to do modal.](https://dev.to/frantchessico/the-html-5-tag-the-easiest-way-to-do-modal-8na)
 - [Dev.to/JS] [Create useful noise patterns with Academy award winning Ken Perlin 🏆🎲](https://dev.to/thormeier/create-useful-noise-patterns-with-academy-award-winning-ken-perlin-3fc6)
 - [Dev.to/JS] [Explaining Recursion in JavaScript](https://dev.to/asayerio_techblog/explaining-recursion-in-javascript-1cg0)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Restart nodemon when html or css file is modified](https://dev.to/theankansaha/restart-nodemon-when-html-or-css-file-is-modified-3kf9)
 - [Dev.to/JS] [JS PDF generator that is accessible](https://dev.to/getsetgopi/js-pdf-generator-that-is-accessible-57k7)
 - [Lifehacker] [Everything You Need to Know About the Student Loan Forgiveness Application so Far](https://lifehacker.com/everything-you-need-to-know-about-the-student-loan-forg-1849648709)
-- [Dev.to/JS] [Ardi: Welcome to the Weightless Web](https://dev.to/jameslovallo/ardi-welcome-to-the-weightless-web-1041)
-- [Dev.to/JS] [How to generate all subarrays in javascript in 2022?](https://dev.to/ajayv1/how-to-generate-all-subarrays-in-javascript-in-2022-1jno)
 - [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)
-- [Dev.to/JS] [Learning to code in your 30s](https://dev.to/_codewithpaul/learning-to-code-in-your-30s-1ng2)
 - [Lifehacker] [How to Choose the Perfect Electric Blanket for You](https://lifehacker.com/how-to-choose-the-perfect-electric-blanket-for-you-1849648194)
 - [Lifehacker] [How Much It Costs to Replace or Repair Your Garage Door](https://lifehacker.com/how-much-it-costs-to-replace-or-repair-your-garage-door-1849646280)
 - [Lifehacker] [Don’t Mistake This Microsoft Security Alert for Spam](https://lifehacker.com/don-t-mistake-this-microsoft-security-alert-for-spam-1849647846)
