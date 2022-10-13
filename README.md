@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Bundling Superpowers Using Codegen](https://dev.to/florianrappl/getting-bundling-superpowers-using-codegen-2no8)
+- [Dev.to/JS] [Create Youtube Shorts, Insta Reels, Tiktok like scrolling effect | Just HTML and CSS](https://dev.to/imdigitalashish/create-youtube-shorts-insta-reels-tiktok-like-scrolling-effect-just-html-and-css-4n29)
+- [Dev.to/JS] [CryptoJS 用前端加密、解密](https://dev.to/letswrite/cryptojs-yong-qian-duan-jia-mi-jie-mi-cbp)
+- [Dev.to/JS] [Ecommerce Website Using Html Css And Javascript Source Code](https://dev.to/codingtitan6/ecommerce-website-using-html-css-and-javascript-source-code-52ck)
+- [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)
+- [Dev.to/JS] [What is pnpm and is it really so fast and space-efficient?](https://dev.to/stackblitz/what-is-pnpm-and-is-it-really-so-fast-and-space-efficient-29la)
+- [Dev.to/JS] [Node.js vs. JavaScript: What Is Better?](https://dev.to/techticsolution_5/nodejs-vs-javascript-what-is-better-27gl)
+- [Dev.to/JS] [Créer un site web responsive avec Bootstrap](https://dev.to/codingteam/creer-un-site-web-responsive-avec-bootstrap-p6p)
+- [Dev.to/JS] [HTML CSS JS Calculator by Amiru Weerathunga](https://dev.to/amiruweerathunga/html-css-js-calculator-by-amiru-weerathunga-4f0b)
+- [Lifehacker] [Grow a Clover Lawn That You Barely Have to Mow](https://lifehacker.com/grow-a-clover-lawn-that-you-barely-have-to-mow-1849647474)
+- [Dev.to/JS] [Why you should prefer using pnpm ?](https://dev.to/refine/why-you-should-prefer-using-pnpm--2114)
+- [Dev.to/JS] [New python post](https://dev.to/apfirebolt/new-python-post-5def)
+- [Dev.to/JS] [In handle bars if there is an attribute that is an array of values, how we can group by that if the json is not sorted?](https://dev.to/heplinesss_17/in-handle-bars-if-there-is-an-attribute-that-is-an-array-of-values-how-we-can-group-by-that-if-the-json-is-not-sorted-408b)
 - [Dev.to/JS] [In handle bars if there is an attribute that is an array of values, how we can group by that if the json is not sorted](https://dev.to/heplinesss_17/in-handle-bars-if-there-is-an-attribute-that-is-an-array-of-values-how-we-can-group-by-that-if-the-json-is-not-sorted-59e7)
-- [Dev.to/JS] [Awesome tools for Coding Practice](https://dev.to/surajondev/awesome-tools-for-coding-practice-4l49)
-- [Dev.to/JS] [How I built a live chat with my Ecommerce Store Using Medusa and Rocket.Chat](https://dev.to/medusajs/how-i-built-a-live-chat-with-my-ecommerce-store-using-medusa-and-rocketchat-21ig)
-- [Dev.to/JS] [Why Will the Demand for Full-Stack Software Developers Rise in 2023 and Beyond?](https://dev.to/xnaksdn/why-will-the-demand-for-full-stack-software-developers-rise-in-2023-and-beyond-50f7)
-- [Dev.to/JS] [How I Made My Portfolio with Next.js](https://dev.to/j471n/how-i-made-my-portfolio-with-nextjs-2mn3)
-- [Dev.to/JS] [Intro to Array in JavaScript.](https://dev.to/jindalkeshav82/intro-to-array-in-javascript-3e75)
-- [Dev.to/JS] [Moon phases with Node.js streams over HTTP](https://dev.to/fabriziolallo/moon-phases-with-nodejs-streams-over-http-1mmf)
-- [Dev.to/JS] [React Proto - React TypeScript Boilerplate](https://dev.to/stopngo/react-proto-react-typescript-boilerplate-39m6)
-- [Dev.to/JS] [Lodash Debounce](https://dev.to/lamhoanghg/lodash-debounce-24kl)
-- [Dev.to/JS] [Uncaught TypeError: Cannot Read Property of Undefined in JavaScript](https://dev.to/amaralisa9/uncaught-typeerror-cannot-read-property-of-undefined-in-javascript-1jfp)
-- [Dev.to/JS] [What&#39;s the best way migrates state to outside of component on React?](https://dev.to/tkow/whats-the-best-way-migrates-state-to-outside-of-component-on-react-17jg)
-- [Dev.to/JS] [Callbacks in JavaScript](https://dev.to/codecupdev/callbacks-in-javascript-3lon)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
 - [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Free Stencils Will Help You Carve the Neighborhood’s Best Jack-o-Lantern](https://lifehacker.com/these-free-stencils-will-help-you-carve-the-neighborhoo-1849643981)
 - [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
 - [Lifehacker] [How to Use the DEFCON System Without Embarrassing Yourself](https://lifehacker.com/how-to-use-the-defcon-system-without-embarrassing-yours-1849643916)
-- [Lifehacker] [Should You Look at Your Medical Test Results Early?](https://lifehacker.com/should-you-look-at-your-medical-test-results-early-1849643612)
-- [Lifehacker] [Is the iPhone 14 Worth the Money?](https://lifehacker.com/is-the-iphone-14-worth-the-money-1849643832)
-- [Lifehacker] [Flavor Your Rice and Pasta With Leftover Brine](https://lifehacker.com/flavor-your-rice-and-pasta-with-leftover-brine-1849643280)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Should You Look at Your Medical Test Results Early?](https://lifehacker.com/should-you-look-at-your-medical-test-results-early-1849643612)<!-- TECH-POSTS:END -->
 
 ---
 
