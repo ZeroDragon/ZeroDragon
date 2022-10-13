@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [API, String-API](https://dev.to/nessi_k/api-string-api-1ln5)
+- [Lifehacker] [Where to Get Free Treats This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
+- [Dev.to/JS] [O mínimo sobre focus de elementos em HTML, CSS e Javascript &lpar;bônus: tabindex&rpar;](https://dev.to/demenezes/o-minimo-sobre-focus-de-elementos-em-html-css-e-javascript-bonus-tabindex-4e29)
+- [Dev.to/JS] [API, Math-API](https://dev.to/nessi_k/api-math-api-5399)
+- [Dev.to/JS] [New JS Newsletter: JSTools Weekly](https://dev.to/jstoolsweekly/new-js-newsletter-jstools-weekly-4cp8)
+- [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)
 - [Dev.to/JS] [Some Arrays Javascript Methods You Might Want to Know 🚀](https://dev.to/renancferro/some-arrays-javascript-methods-you-might-want-to-know-5c0j)
 - [Dev.to/JS] [Build REST endpoints with Low-code Backend](https://dev.to/nucleoid/build-rest-endpoints-with-low-code-backend-1fd7)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Aminated Portfolio Website HTML CSS JS | No Frameworks](https://dev.to/codewithsadee/aminated-portfolio-website-html-css-js-no-frameworks-2k0m)
 - [Lifehacker] [How to Have a Better Relationship With Your Teenager](https://lifehacker.com/how-to-have-a-better-relationship-with-your-teenager-1849651294)
 - [Dev.to/JS] [Airtable automation: How I streamlined submissions to the Developer Showcase](https://dev.to/contentful/airtable-automation-how-i-streamlined-submissions-to-the-developer-showcase-d40)
-- [Dev.to/JS] [Looking for an entry level Web Developer role.](https://dev.to/mk870/looking-for-an-entry-level-web-developer-role-35ce)
 - [Lifehacker] [Ignore These Myths About Life Insurance](https://lifehacker.com/ignore-these-myths-about-life-insurance-1849650266)
 - [Lifehacker] [You Can Finally Access Your iPhone Photos on Windows](https://lifehacker.com/you-can-finally-access-your-iphone-photos-on-windows-1849649496)
-- [Dev.to/JS] [BetaBeat - Blood Sugar Results, Uses, Price, Benefits And Reviews?](https://dev.to/betabeatfact/betabeat-blood-sugar-results-uses-price-benefits-and-reviews-722)
-- [Dev.to/JS] [Getting Bundling Superpowers Using Codegen](https://dev.to/florianrappl/getting-bundling-superpowers-using-codegen-2no8)
-- [Dev.to/JS] [Create Youtube Shorts, Insta Reels, Tiktok like scrolling effect | Just HTML and CSS](https://dev.to/imdigitalashish/create-youtube-shorts-insta-reels-tiktok-like-scrolling-effect-just-html-and-css-4n29)
 - [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)
 - [Lifehacker] [Grow a Clover Lawn That You Barely Have to Mow](https://lifehacker.com/grow-a-clover-lawn-that-you-barely-have-to-mow-1849647474)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make These Two-ingredient Meringue Ghost Cookies](https://lifehacker.com/make-these-two-ingredient-meringue-ghost-cookies-1849643942)
 - [Lifehacker] [9 Foods You Should Never Freeze](https://lifehacker.com/9-foods-you-should-never-freeze-1849645317)
 - [Lifehacker] [Make These Mummy Pigs in a Blankets for Halloween](https://lifehacker.com/make-these-mummy-pigs-in-a-blankets-for-halloween-1849645327)
-- [Lifehacker] [The 10 Scariest Places In the United States of America](https://lifehacker.com/the-10-scariest-places-in-the-united-states-of-america-1849646316)
-- [Lifehacker] [How to Beat Your Nighttime Cough &lpar;and Finally Get Some Sleep&rpar;](https://lifehacker.com/how-to-beat-your-nighttime-cough-and-finally-get-some-1849642619)
-- [Lifehacker] [You Can Get a Free AllTrails Pro Membership by Going on a Hike](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 10 Scariest Places In the United States of America](https://lifehacker.com/the-10-scariest-places-in-the-united-states-of-america-1849646316)<!-- TECH-POSTS:END -->
 
 ---
 
