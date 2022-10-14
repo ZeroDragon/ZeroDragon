@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stuff I&#39;ve read, watched, and heard - #1](https://dev.to/youssefkhaled08/stuff-ive-read-watched-and-heard-1-b50)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
 - [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
 - [Lifehacker] [Three Things You Should Do When You Get a New Boss](https://lifehacker.com/three-things-you-should-do-when-you-get-a-new-boss-1849659881)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js: Next-auth](https://dev.to/mdanassabah/nextjs-next-auth-5856)
 - [Dev.to/JS] [Noteslify Joins Hacktoberfest!!! Open-Source Alternative to Evernote.](https://dev.to/dvstechlabs/noteslify-joins-hacktoberfest-open-source-alternative-to-evernote-2cia)
 - [Lifehacker] [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
-- [Dev.to/JS] [Let&#39;s create an AddEdit with same component](https://dev.to/rajivchaulagain/lets-create-an-addedit-with-same-component-3b2j)
 - [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)
 - [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
 - [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
 - [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
-- [Lifehacker] [This Is Why You Really Need a Kitchen Scale](https://lifehacker.com/this-is-why-you-really-need-a-kitchen-scale-1849653172)
-- [Lifehacker] [How to Know If You’re Going to Hell](https://lifehacker.com/how-to-know-if-you-re-going-to-hell-1849651490)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is Why You Really Need a Kitchen Scale](https://lifehacker.com/this-is-why-you-really-need-a-kitchen-scale-1849653172)<!-- TECH-POSTS:END -->
 
 ---
 
