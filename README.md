@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Formik and Yup in React js for validation.](https://dev.to/rajivchaulagain/using-formik-and-yup-in-react-js-for-validation-4iah)
+- [Dev.to/JS] [Token based authentication with local storage in React js with UseContext and useState](https://dev.to/rajivchaulagain/token-based-authentication-with-local-storage-in-react-js-with-usecontext-and-usestate-550l)
 - [Dev.to/JS] [REST APIs - How To Mutate Data From Your React App Like The Pros](https://dev.to/jkettmann/rest-apis-how-to-mutate-data-from-your-react-app-like-the-pros-313l)
 - [Dev.to/JS] [How fixing memory leaks in React can improve overall performance.](https://dev.to/tikam02/how-fixing-memory-leaks-in-react-can-improve-overall-performance-1f3n)
 - [Dev.to/JS] [Getting Started with bpmn-visualization](https://dev.to/process-analytics/getting-started-with-bpmn-visualization-3dno)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Quiz App Using Html, Css And Javascript &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-quiz-app-using-html-css-and-javascript-source-code-472k)
 - [Dev.to/JS] [Create Simple Portfolio Website Using Html Css &lpar;Portfolio Website Source Code&rpar;](https://dev.to/codingtitan6/create-simple-portfolio-website-using-html-css-portfolio-website-source-code-3jn0)
 - [Dev.to/JS] [50+ Html ,Css &amp; Javascript Projects With Source Code](https://dev.to/codingtitan6/50-html-css-javascript-projects-with-source-code-d5j)
-- [Dev.to/JS] [Using PartyTown to improve the performance of VueJS Applications](https://dev.to/thisdotmedia/using-partytown-to-improve-the-performance-of-vuejs-applications-5bk6)
-- [Dev.to/JS] [5 Best Free JS Chart Libraries](https://dev.to/apppardana/5-best-free-js-chart-libraries-5gmj)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
