@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Best Free JS Chart Libraries](https://dev.to/apppardana/5-best-free-js-chart-libraries-5gmj)
+- [Dev.to/JS] [Selenium Standalone Server vs. Selenium Server [2022 Updated]](https://dev.to/amaralisa9/selenium-standalone-server-vs-selenium-server-2022-updated-1mmj)
+- [Dev.to/JS] [Styling the featured work section - part 7](https://dev.to/dailydevtips1/styling-the-featured-work-section-part-7-2f38)
+- [Dev.to/JS] [Why is hel-micro a better implementation of module federation](https://dev.to/fantasticsoul/why-is-hel-micro-a-better-implementation-of-module-federation-21ji)
 - [Dev.to/JS] [BOM &amp; DOM](https://dev.to/stali1234/bom-dom-2kg)
 - [Dev.to/JS] [Delete the Middle Node of a Linked List](https://dev.to/zeeshanali0704/delete-the-middle-node-of-a-linked-list-17lb)
 - [Dev.to/JS] [Next.Js Security: Ooh, You Aren’t Supposed To Access That](https://dev.to/sashevuchkov/nextjs-security-ooh-you-arent-supposed-to-access-that-1fl4)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hardware, Software, Education Setup](https://dev.to/p10q/fresh-computer-setup-5flm)
 - [Dev.to/JS] [Average of Levels in Binary Tree](https://dev.to/zeeshanali0704/average-of-levels-in-binary-tree-4mhb)
 - [Dev.to/JS] [2095. Leetcode Solution in javascript](https://dev.to/chiki1601/2095-leetcode-solution-in-1cmb)
-- [Dev.to/JS] [Authoring NPM Packages with Monorepos](https://dev.to/ravgeetdhillon/authoring-npm-packages-with-monorepos-3794)
-- [Dev.to/JS] [Second Minimum Node In a Binary Tree](https://dev.to/zeeshanali0704/second-minimum-node-in-a-binary-tree-eg)
-- [Dev.to/JS] [Top Eight Engineering Fields in Demand in Australia for 2022](https://dev.to/sanjaydhakal11/top-eight-engineering-fields-in-demand-in-australia-for-2022-5fo9)
-- [Dev.to/JS] [Learn JSON from Scratch](https://dev.to/mahmoudessam/learn-json-from-scratch-29jh)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
