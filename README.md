@@ -23,10 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
+- [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)
 - [Dev.to/JS] [Como sanitizar&lpar;limpar&rpar; os erros no Express para evitar vazamento de informações importantes](https://dev.to/r9n/como-sanitizarlimpar-os-erros-no-express-para-evitar-vazamento-de-informacoes-importantes-p1l)
 - [Dev.to/JS] [THE MOST VISIBLY COMMON INSIGHTS](https://dev.to/postwell45/the-most-visibly-common-insights-5eka)
 - [Dev.to/JS] [Guide To Var, Let and Const](https://dev.to/darklegend36/guide-to-var-let-and-const-4kn3)
-- [Dev.to/JS] [Blueprint for Test Strategy Creation](https://dev.to/toyermamoojee/blueprint-for-test-strategy-creation-4p2g)
+- [Dev.to/JS] [Blueprint for Test Strategy Creation](https://dev.to/lambdatest/blueprint-for-test-strategy-creation-4p2g)
 - [Lifehacker] [The Many Ways You Can Get Scammed Selling Your Things Online](https://lifehacker.com/the-many-ways-you-can-get-scammed-selling-your-things-o-1849655585)
 - [Dev.to/JS] [Create Otp Input Field Html Css Javascript &lpar; Source Code&rpar;](https://dev.to/codingtitan6/create-otp-input-field-html-css-javascript-source-code-50m1)
 - [Dev.to/JS] [Security trends in cyberspace: looking ahead to the horizon](https://dev.to/postwell45/security-trends-in-cyberspace-looking-ahead-to-the-horizon-2ele)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
 - [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
 - [Lifehacker] [10 Dangerous Things You Can Successfully Run Away From](https://lifehacker.com/10-dangerous-things-you-can-successfully-run-away-from-1849649056)
-- [Lifehacker] [How to Give Dating Advice, According to ‘The Bachelor’ Star Nick Viall](https://lifehacker.com/how-to-give-dating-advice-according-to-the-bachelor-1849649157)
-- [Lifehacker] [Everything You Need to Know About the Student Loan Forgiveness Application so Far](https://lifehacker.com/everything-you-need-to-know-about-the-student-loan-forg-1849648709)
-- [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Give Dating Advice, According to ‘The Bachelor’ Star Nick Viall](https://lifehacker.com/how-to-give-dating-advice-according-to-the-bachelor-1849649157)<!-- TECH-POSTS:END -->
 
 ---
 
