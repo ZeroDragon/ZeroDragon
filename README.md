@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do Now to Prep Your Car for Winter](https://lifehacker.com/what-to-do-now-to-prep-your-car-for-winter-1849659286)
+- [Dev.to/JS] [The Rising Coder - Week 7/13 &lpar;Backend Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-713-backend-week-33-14ej)
 - [Lifehacker] [Why You Should Ignore Early &#39;Black Friday&#39; Deals This Year](https://lifehacker.com/why-you-should-ignore-early-black-friday-deals-this-yea-1849648563)
 - [Dev.to/JS] [Microfrontends: Microservices for the Frontend](https://dev.to/semaphore/microfrontends-microservices-for-the-frontend-4la4)
 - [Dev.to/JS] [Make It Better: Refacotring Code](https://dev.to/cychu42/make-it-better-refacotring-code-42ip)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Multi Step Form Html Css Javascript&lpar; Source Code&rpar;](https://dev.to/codingtitan6/create-multi-step-form-html-css-javascript-source-code-1enb)
 - [Dev.to/JS] [Authorization in react js with custom hook.](https://dev.to/rajivchaulagain/authorization-in-react-js-with-custom-hook-23dp)
 - [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)
-- [Dev.to/JS] [Os Hooks que vieram junto com o React 18](https://dev.to/amad3eu/os-hooks-que-vieram-junto-com-o-react-18-1lhl)
 - [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
 - [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)
 - [Lifehacker] [The Many Ways You Can Get Scammed Selling Your Things Online](https://lifehacker.com/the-many-ways-you-can-get-scammed-selling-your-things-o-1849655585)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Have a Better Relationship With Your Teenager](https://lifehacker.com/how-to-have-a-better-relationship-with-your-teenager-1849651294)
 - [Lifehacker] [Ignore These Myths About Life Insurance](https://lifehacker.com/ignore-these-myths-about-life-insurance-1849650266)
 - [Lifehacker] [You Can Finally Access Your iPhone Photos on Windows](https://lifehacker.com/you-can-finally-access-your-iphone-photos-on-windows-1849649496)
-- [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)
-- [Lifehacker] [Grow a Clover Lawn That You Barely Have to Mow](https://lifehacker.com/grow-a-clover-lawn-that-you-barely-have-to-mow-1849647474)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)<!-- TECH-POSTS:END -->
 
 ---
 
