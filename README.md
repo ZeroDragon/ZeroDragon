@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 Long-Running Podcasts Worth Bingeing Immediately](https://lifehacker.com/12-long-running-podcasts-worth-bingeing-immediately-1849614978)
+- [Dev.to/JS] [A Git-Hook for Commit Messages Validation - No Husky, Just JS](https://dev.to/mbarzeev/a-git-hook-for-commit-messages-validation-no-husky-just-js-1hni)
+- [Dev.to/JS] [Next.js: Next-auth](https://dev.to/mdanassabah/nextjs-next-auth-5856)
 - [Dev.to/JS] [Noteslify Joins Hacktoberfest!!! Open-Source Alternative to Evernote.](https://dev.to/dvstechlabs/noteslify-joins-hacktoberfest-open-source-alternative-to-evernote-2cia)
+- [Lifehacker] [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
 - [Dev.to/JS] [Let&#39;s create an AddEdit with same component](https://dev.to/rajivchaulagain/lets-create-an-addedit-with-same-component-3b2j)
 - [Dev.to/JS] [Create Hamburger Menu Using HTML, Css &amp; Javascript](https://dev.to/codingtitan6/create-hamburger-menu-using-html-css-javascript-n19)
 - [Dev.to/JS] [Create Multi Step Form Html Css Javascript&lpar; Source Code&rpar;](https://dev.to/codingtitan6/create-multi-step-form-html-css-javascript-source-code-1enb)
@@ -31,13 +35,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)
 - [Dev.to/JS] [Os Hooks que vieram junto com o React 18](https://dev.to/amad3eu/os-hooks-que-vieram-junto-com-o-react-18-1lhl)
 - [Dev.to/JS] [25+ HTML &amp; CSS Card Design Layout Style](https://dev.to/codingtitan6/25-html-css-card-design-layout-style-b3p)
-- [Dev.to/JS] [TanStack Query v4 Powerful asynchronous state management for TS/JS, React, Solid, Vue and Svelte](https://dev.to/rajivchaulagain/tanstack-query-v4powerful-asynchronous-state-management-for-tsjs-react-solid-vue-and-svelte-4l67)
+- [Dev.to/JS] [How to use react query v4 in react js to get server side data.](https://dev.to/rajivchaulagain/tanstack-query-v4powerful-asynchronous-state-management-for-tsjs-react-solid-vue-and-svelte-4l67)
 - [Dev.to/JS] [Create Instagram Logo Using HTML CSS &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-instagram-logo-using-html-css-source-code-4dp0)
 - [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
 - [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)
 - [Dev.to/JS] [Como sanitizar&lpar;limpar&rpar; os erros no Express para evitar vazamento de informações importantes](https://dev.to/r9n/como-sanitizarlimpar-os-erros-no-express-para-evitar-vazamento-de-informacoes-importantes-p1l)
-- [Dev.to/JS] [THE MOST VISIBLY COMMON INSIGHTS](https://dev.to/postwell45/the-most-visibly-common-insights-5eka)
-- [Dev.to/JS] [Guide To Var, Let and Const](https://dev.to/darklegend36/guide-to-var-let-and-const-4kn3)
 - [Lifehacker] [The Many Ways You Can Get Scammed Selling Your Things Online](https://lifehacker.com/the-many-ways-you-can-get-scammed-selling-your-things-o-1849655585)
 - [Lifehacker] [When to See the Orionids Meteor Shower This Month](https://lifehacker.com/when-to-see-the-orionids-meteor-shower-this-month-1849654661)
 - [Lifehacker] [How Life Is Better Without Notifications](https://lifehacker.com/how-life-is-better-without-notifications-1849653045)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)
 - [Lifehacker] [Grow a Clover Lawn That You Barely Have to Mow](https://lifehacker.com/grow-a-clover-lawn-that-you-barely-have-to-mow-1849647474)
 - [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
-- [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)
-- [Lifehacker] [What We Know About Bivalent Boosters for Kids](https://lifehacker.com/what-we-know-about-bivalent-boosters-for-kids-1849649427)
-- [Lifehacker] [10 Dangerous Things You Can Successfully Run Away From](https://lifehacker.com/10-dangerous-things-you-can-successfully-run-away-from-1849649056)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)<!-- TECH-POSTS:END -->
 
 ---
 
