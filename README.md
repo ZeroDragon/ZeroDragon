@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Front end? Back end? What would you recommend?](https://dev.to/azrall/front-end-back-end-what-would-you-recommend-4h59)
 - [Dev.to/JS] [Probuild Ex Part Three](https://dev.to/mrdotb/probuild-ex-part-three-3b8)
 - [Dev.to/JS] [How to create an Express JS middleware](https://dev.to/sonicx180/how-to-create-an-express-js-middleware-2fcc)
 - [Dev.to/JS] [Building a free component library for react developers.](https://dev.to/alohe/building-a-free-component-library-for-react-developers-3pdp)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Babel &lpar;transcompiler&rpar;](https://dev.to/nessi_k/babel-transcompiler-53l5)
 - [Dev.to/JS] [JS Arithmetic Operators](https://dev.to/nessi_k/js-arithmetic-operators-17k8)
 - [Dev.to/JS] [API, Array-API](https://dev.to/nessi_k/api-array-api-5g8h)
-- [Dev.to/JS] [API, String-API](https://dev.to/nessi_k/api-string-api-1ln5)
 - [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
 - [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
