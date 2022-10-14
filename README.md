@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-2790)
+- [Lifehacker] [How Life Is Better Without Notifications](https://lifehacker.com/how-life-is-better-without-notifications-1849653045)
+- [Lifehacker] [Make This Easy Halloween Eyeball Cake Using Any Cake Batter](https://lifehacker.com/make-this-easy-halloween-eyeball-cake-using-any-cake-ba-1849645393)
+- [Dev.to/JS] [Fuzzy Search Technique](https://dev.to/zeeshanali0704/fuzzy-search-technique-1p3j)
 - [Dev.to/JS] [Using Formik and Yup in React js for validation.](https://dev.to/rajivchaulagain/using-formik-and-yup-in-react-js-for-validation-4iah)
 - [Dev.to/JS] [Token based authentication with local storage in React js with UseContext and useState](https://dev.to/rajivchaulagain/token-based-authentication-with-local-storage-in-react-js-with-usecontext-and-usestate-550l)
 - [Dev.to/JS] [REST APIs - How To Mutate Data From Your React App Like The Pros](https://dev.to/jkettmann/rest-apis-how-to-mutate-data-from-your-react-app-like-the-pros-313l)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Popular Projects for a Full-Stack Developer](https://dev.to/xnaksdn/5-popular-projects-for-a-full-stack-developer-ipf)
 - [Dev.to/JS] [Handling of RTF Document in Javascript - React - Angular](https://dev.to/zeeshanali0704/handling-of-rtf-document-in-javascript-react-3mk)
 - [Dev.to/JS] [Create Quiz App Using Html, Css And Javascript &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-quiz-app-using-html-css-and-javascript-source-code-472k)
-- [Dev.to/JS] [Create Simple Portfolio Website Using Html Css &lpar;Portfolio Website Source Code&rpar;](https://dev.to/codingtitan6/create-simple-portfolio-website-using-html-css-portfolio-website-source-code-3jn0)
-- [Dev.to/JS] [50+ Html ,Css &amp; Javascript Projects With Source Code](https://dev.to/codingtitan6/50-html-css-javascript-projects-with-source-code-d5j)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know About the Student Loan Forgiveness Application so Far](https://lifehacker.com/everything-you-need-to-know-about-the-student-loan-forg-1849648709)
 - [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)
 - [Lifehacker] [How to Choose the Perfect Electric Blanket for You](https://lifehacker.com/how-to-choose-the-perfect-electric-blanket-for-you-1849648194)
-- [Lifehacker] [How Much It Costs to Replace or Repair Your Garage Door](https://lifehacker.com/how-much-it-costs-to-replace-or-repair-your-garage-door-1849646280)
-- [Lifehacker] [Don’t Mistake This Microsoft Security Alert for Spam](https://lifehacker.com/don-t-mistake-this-microsoft-security-alert-for-spam-1849647846)
-- [Lifehacker] [Social Media Is Wrong About Microwaves](https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Much It Costs to Replace or Repair Your Garage Door](https://lifehacker.com/how-much-it-costs-to-replace-or-repair-your-garage-door-1849646280)<!-- TECH-POSTS:END -->
 
 ---
 
