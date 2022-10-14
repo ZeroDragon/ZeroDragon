@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling of RTF Document in Javascript - React - Angular](https://dev.to/zeeshanali0704/handling-of-rtf-document-in-javascript-react-3mk)
+- [Dev.to/JS] [Create Quiz App Using Html, Css And Javascript &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-quiz-app-using-html-css-and-javascript-source-code-472k)
+- [Dev.to/JS] [Create Simple Portfolio Website Using Html Css &lpar;Portfolio Website Source Code&rpar;](https://dev.to/codingtitan6/create-simple-portfolio-website-using-html-css-portfolio-website-source-code-3jn0)
 - [Dev.to/JS] [50+ Html ,Css &amp; Javascript Projects With Source Code](https://dev.to/codingtitan6/50-html-css-javascript-projects-with-source-code-d5j)
 - [Dev.to/JS] [Using PartyTown to improve the performance of VueJS Applications](https://dev.to/thisdotmedia/using-partytown-to-improve-the-performance-of-vuejs-applications-5bk6)
 - [Dev.to/JS] [5 Best Free JS Chart Libraries](https://dev.to/apppardana/5-best-free-js-chart-libraries-5gmj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BOM &amp; DOM](https://dev.to/stali1234/bom-dom-2kg)
 - [Dev.to/JS] [Delete the Middle Node of a Linked List](https://dev.to/zeeshanali0704/delete-the-middle-node-of-a-linked-list-17lb)
 - [Dev.to/JS] [Next.Js Security: Ooh, You Aren’t Supposed To Access That](https://dev.to/sashevuchkov/nextjs-security-ooh-you-arent-supposed-to-access-that-1fl4)
-- [Dev.to/JS] [How to copy to clipboard with angular material](https://dev.to/codever/how-to-copy-to-clipboard-with-angular-material-317k)
-- [Dev.to/JS] [Blur Background CSS Generator](https://dev.to/vincenius/blur-background-css-generator-15d9)
-- [Dev.to/JS] [Hardware, Software, Education Setup](https://dev.to/p10q/fresh-computer-setup-5flm)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
