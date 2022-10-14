@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-2790)
+- [Dev.to/JS] [Como sanitizar&lpar;limpar&rpar; os erros no Express para evitar vazamento de informações importantes](https://dev.to/r9n/como-sanitizarlimpar-os-erros-no-express-para-evitar-vazamento-de-informacoes-importantes-p1l)
+- [Dev.to/JS] [THE MOST VISIBLY COMMON INSIGHTS](https://dev.to/postwell45/the-most-visibly-common-insights-5eka)
+- [Dev.to/JS] [Guide To Var, Let and Const](https://dev.to/darklegend36/guide-to-var-let-and-const-4kn3)
+- [Dev.to/JS] [Blueprint for Test Strategy Creation](https://dev.to/toyermamoojee/blueprint-for-test-strategy-creation-4p2g)
+- [Lifehacker] [The Many Ways You Can Get Scammed Selling Your Things Online](https://lifehacker.com/the-many-ways-you-can-get-scammed-selling-your-things-o-1849655585)
+- [Dev.to/JS] [Create Otp Input Field Html Css Javascript &lpar; Source Code&rpar;](https://dev.to/codingtitan6/create-otp-input-field-html-css-javascript-source-code-50m1)
+- [Dev.to/JS] [Security trends in cyberspace: looking ahead to the horizon](https://dev.to/postwell45/security-trends-in-cyberspace-looking-ahead-to-the-horizon-2ele)
+- [Dev.to/JS] [Protección de rutas con React Router Dom. 💪](https://dev.to/franklin030601/proteccion-de-rutas-con-react-router-dom-144j)
+- [Dev.to/JS] [Route protection with React Router Dom. 💪](https://dev.to/franklin030601/route-protection-with-react-router-dom-12gm)
+- [Dev.to/JS] [Create Header Using HTML CSS &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-header-using-html-css-source-code-jm)
+- [Lifehacker] [When to See the Orionids Meteor Shower This Month](https://lifehacker.com/when-to-see-the-orionids-meteor-shower-this-month-1849654661)
+- [Dev.to/JS] [Simple react tricks](https://dev.to/ifeanyichima/simple-react-tricks-7gp)
+- [Dev.to/JS] [Reflecting on my time at NodeConf EU 2022](https://dev.to/jordharr/reflecting-on-my-time-at-nodeconf-eu-2022-ijp)
+- [Dev.to/JS] [Weather App Using Html,Css And Javascript &lpar;Weather App Source Code &rpar;](https://dev.to/codingtitan6/weather-app-using-htmlcss-and-javascript-weather-app-source-code--37kn)
 - [Lifehacker] [How Life Is Better Without Notifications](https://lifehacker.com/how-life-is-better-without-notifications-1849653045)
 - [Lifehacker] [Make This Easy Halloween Eyeball Cake Using Any Cake Batter](https://lifehacker.com/make-this-easy-halloween-eyeball-cake-using-any-cake-ba-1849645393)
-- [Dev.to/JS] [Fuzzy Search Technique](https://dev.to/zeeshanali0704/fuzzy-search-technique-1p3j)
-- [Dev.to/JS] [Using Formik and Yup in React js for validation.](https://dev.to/rajivchaulagain/using-formik-and-yup-in-react-js-for-validation-4iah)
-- [Dev.to/JS] [Token based authentication with local storage in React js with UseContext and useState](https://dev.to/rajivchaulagain/token-based-authentication-with-local-storage-in-react-js-with-usecontext-and-usestate-550l)
-- [Dev.to/JS] [REST APIs - How To Mutate Data From Your React App Like The Pros](https://dev.to/jkettmann/rest-apis-how-to-mutate-data-from-your-react-app-like-the-pros-313l)
-- [Dev.to/JS] [How fixing memory leaks in React can improve overall performance.](https://dev.to/tikam02/how-fixing-memory-leaks-in-react-can-improve-overall-performance-1f3n)
-- [Dev.to/JS] [Getting Started with bpmn-visualization](https://dev.to/process-analytics/getting-started-with-bpmn-visualization-3dno)
-- [Dev.to/JS] [To Update or Not To Update.](https://dev.to/nicfitzgerald/to-update-or-not-to-update-4737)
-- [Dev.to/JS] [How to make a Weather App using HTML, CSS, &amp; JavaScript - Using APIs in JavaScript - Weather App](https://dev.to/saketkhare/how-to-make-a-weather-app-using-html-css-javascript-using-apis-in-javascript-weather-app-1b7d)
-- [Dev.to/JS] [5 Popular Projects for a Full-Stack Developer](https://dev.to/xnaksdn/5-popular-projects-for-a-full-stack-developer-ipf)
-- [Dev.to/JS] [Handling of RTF Document in Javascript - React - Angular](https://dev.to/zeeshanali0704/handling-of-rtf-document-in-javascript-react-3mk)
-- [Dev.to/JS] [Create Quiz App Using Html, Css And Javascript &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-quiz-app-using-html-css-and-javascript-source-code-472k)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Dangerous Things You Can Successfully Run Away From](https://lifehacker.com/10-dangerous-things-you-can-successfully-run-away-from-1849649056)
 - [Lifehacker] [How to Give Dating Advice, According to ‘The Bachelor’ Star Nick Viall](https://lifehacker.com/how-to-give-dating-advice-according-to-the-bachelor-1849649157)
 - [Lifehacker] [Everything You Need to Know About the Student Loan Forgiveness Application so Far](https://lifehacker.com/everything-you-need-to-know-about-the-student-loan-forg-1849648709)
-- [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)
-- [Lifehacker] [How to Choose the Perfect Electric Blanket for You](https://lifehacker.com/how-to-choose-the-perfect-electric-blanket-for-you-1849648194)
-- [Lifehacker] [How Much It Costs to Replace or Repair Your Garage Door](https://lifehacker.com/how-much-it-costs-to-replace-or-repair-your-garage-door-1849646280)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Keep Squirrels From Destroying Your Pumpkins](https://lifehacker.com/how-to-keep-squirrels-from-destroying-your-pumpkins-1849644213)<!-- TECH-POSTS:END -->
 
 ---
 
