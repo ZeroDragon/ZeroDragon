@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BOM &amp; DOM](https://dev.to/stali1234/bom-dom-2kg)
+- [Dev.to/JS] [Delete the Middle Node of a Linked List](https://dev.to/zeeshanali0704/delete-the-middle-node-of-a-linked-list-17lb)
+- [Dev.to/JS] [Next.Js Security: Ooh, You Aren’t Supposed To Access That](https://dev.to/sashevuchkov/nextjs-security-ooh-you-arent-supposed-to-access-that-1fl4)
 - [Dev.to/JS] [How to copy to clipboard with angular material](https://dev.to/codever/how-to-copy-to-clipboard-with-angular-material-317k)
 - [Dev.to/JS] [Blur Background CSS Generator](https://dev.to/vincenius/blur-background-css-generator-15d9)
 - [Dev.to/JS] [Hardware, Software, Education Setup](https://dev.to/p10q/fresh-computer-setup-5flm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Second Minimum Node In a Binary Tree](https://dev.to/zeeshanali0704/second-minimum-node-in-a-binary-tree-eg)
 - [Dev.to/JS] [Top Eight Engineering Fields in Demand in Australia for 2022](https://dev.to/sanjaydhakal11/top-eight-engineering-fields-in-demand-in-australia-for-2022-5fo9)
 - [Dev.to/JS] [Learn JSON from Scratch](https://dev.to/mahmoudessam/learn-json-from-scratch-29jh)
-- [Dev.to/JS] [Front end? Back end? What would you recommend?](https://dev.to/azrall/front-end-back-end-what-would-you-recommend-4h59)
-- [Dev.to/JS] [Probuild Ex Part Three](https://dev.to/mrdotb/probuild-ex-part-three-3b8)
-- [Dev.to/JS] [How to create an Express JS middleware](https://dev.to/sonicx180/how-to-create-an-express-js-middleware-2fcc)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
