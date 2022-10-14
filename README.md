@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Average of Levels in Binary Tree](https://dev.to/zeeshanali0704/average-of-levels-in-binary-tree-4mhb)
+- [Dev.to/JS] [2095. Leetcode Solution in javascript](https://dev.to/chiki1601/2095-leetcode-solution-in-1cmb)
 - [Dev.to/JS] [Authoring NPM Packages with Monorepos](https://dev.to/ravgeetdhillon/authoring-npm-packages-with-monorepos-3794)
 - [Dev.to/JS] [Second Minimum Node In a Binary Tree](https://dev.to/zeeshanali0704/second-minimum-node-in-a-binary-tree-eg)
 - [Dev.to/JS] [Top Eight Engineering Fields in Demand in Australia for 2022](https://dev.to/sanjaydhakal11/top-eight-engineering-fields-in-demand-in-australia-for-2022-5fo9)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s your definition about the perfect CMS?🤖](https://dev.to/vitalijalbu/whats-your-definition-about-the-perfect-cms-k42)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Dev.to/JS] [A verdade sobre os bootcamps de programação](https://dev.to/devdoido/a-verdade-sobre-os-bootcamps-de-programacao-3pci)
-- [Dev.to/JS] [The Essential Guide to Javascript Sets](https://dev.to/smpnjn/the-essential-guide-to-javascript-sets-22b4)
-- [Dev.to/JS] [Angular Inject Function: A New Way To Work With DI](https://dev.to/henriquecustodia/angular-inject-function-a-new-way-to-work-with-di-2j47)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
 - [Lifehacker] [Why &#39;Revenge Cheating&#39; Never Works](https://lifehacker.com/why-revenge-cheating-never-works-1849654175)
