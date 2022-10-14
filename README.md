@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [50+ Html ,Css &amp; Javascript Projects With Source Code](https://dev.to/codingtitan6/50-html-css-javascript-projects-with-source-code-d5j)
+- [Dev.to/JS] [Using PartyTown to improve the performance of VueJS Applications](https://dev.to/thisdotmedia/using-partytown-to-improve-the-performance-of-vuejs-applications-5bk6)
 - [Dev.to/JS] [5 Best Free JS Chart Libraries](https://dev.to/apppardana/5-best-free-js-chart-libraries-5gmj)
 - [Dev.to/JS] [Selenium Standalone Server vs. Selenium Server [2022 Updated]](https://dev.to/amaralisa9/selenium-standalone-server-vs-selenium-server-2022-updated-1mmj)
 - [Dev.to/JS] [Styling the featured work section - part 7](https://dev.to/dailydevtips1/styling-the-featured-work-section-part-7-2f38)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to copy to clipboard with angular material](https://dev.to/codever/how-to-copy-to-clipboard-with-angular-material-317k)
 - [Dev.to/JS] [Blur Background CSS Generator](https://dev.to/vincenius/blur-background-css-generator-15d9)
 - [Dev.to/JS] [Hardware, Software, Education Setup](https://dev.to/p10q/fresh-computer-setup-5flm)
-- [Dev.to/JS] [Average of Levels in Binary Tree](https://dev.to/zeeshanali0704/average-of-levels-in-binary-tree-4mhb)
-- [Dev.to/JS] [2095. Leetcode Solution in javascript](https://dev.to/chiki1601/2095-leetcode-solution-in-1cmb)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
