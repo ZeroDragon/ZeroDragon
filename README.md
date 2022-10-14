@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Second Minimum Node In a Binary Tree](https://dev.to/zeeshanali0704/second-minimum-node-in-a-binary-tree-eg)
+- [Dev.to/JS] [Top Eight Engineering Fields in Demand in Australia for 2022](https://dev.to/sanjaydhakal11/top-eight-engineering-fields-in-demand-in-australia-for-2022-5fo9)
 - [Dev.to/JS] [Learn JSON from Scratch](https://dev.to/mahmoudessam/learn-json-from-scratch-29jh)
 - [Dev.to/JS] [Front end? Back end? What would you recommend?](https://dev.to/azrall/front-end-back-end-what-would-you-recommend-4h59)
 - [Dev.to/JS] [Probuild Ex Part Three](https://dev.to/mrdotb/probuild-ex-part-three-3b8)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should Do Now to Prepare for Thanksgiving &lpar;If You&#39;re Anxious&rpar;](https://lifehacker.com/what-you-should-do-now-to-prepare-for-thanksgiving-if-1849654472)
 - [Dev.to/JS] [Setting up Cypress with Github Actions and Heroku Review Apps](https://dev.to/mikeshi/setting-up-cypress-with-github-actions-and-heroku-review-apps-1k6o)
 - [Lifehacker] [How to Make the Perfect No-Lump Cheesecake Filling](https://lifehacker.com/how-to-make-the-perfect-no-lump-cheesecake-filling-1849653980)
-- [Dev.to/JS] [Babel &lpar;transcompiler&rpar;](https://dev.to/nessi_k/babel-transcompiler-53l5)
-- [Dev.to/JS] [JS Arithmetic Operators](https://dev.to/nessi_k/js-arithmetic-operators-17k8)
 - [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
 - [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
