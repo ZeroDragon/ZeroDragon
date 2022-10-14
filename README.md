@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with bpmn-visualization](https://dev.to/process-analytics/getting-started-with-bpmn-visualization-3dno)
+- [Dev.to/JS] [To Update or Not To Update.](https://dev.to/nicfitzgerald/to-update-or-not-to-update-4737)
+- [Dev.to/JS] [How to make a Weather App using HTML, CSS, &amp; JavaScript - Using APIs in JavaScript - Weather App](https://dev.to/saketkhare/how-to-make-a-weather-app-using-html-css-javascript-using-apis-in-javascript-weather-app-1b7d)
+- [Dev.to/JS] [5 Popular Projects for a Full-Stack Developer](https://dev.to/xnaksdn/5-popular-projects-for-a-full-stack-developer-ipf)
 - [Dev.to/JS] [Handling of RTF Document in Javascript - React - Angular](https://dev.to/zeeshanali0704/handling-of-rtf-document-in-javascript-react-3mk)
 - [Dev.to/JS] [Create Quiz App Using Html, Css And Javascript &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-quiz-app-using-html-css-and-javascript-source-code-472k)
 - [Dev.to/JS] [Create Simple Portfolio Website Using Html Css &lpar;Portfolio Website Source Code&rpar;](https://dev.to/codingtitan6/create-simple-portfolio-website-using-html-css-portfolio-website-source-code-3jn0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Best Free JS Chart Libraries](https://dev.to/apppardana/5-best-free-js-chart-libraries-5gmj)
 - [Dev.to/JS] [Selenium Standalone Server vs. Selenium Server [2022 Updated]](https://dev.to/amaralisa9/selenium-standalone-server-vs-selenium-server-2022-updated-1mmj)
 - [Dev.to/JS] [Styling the featured work section - part 7](https://dev.to/dailydevtips1/styling-the-featured-work-section-part-7-2f38)
-- [Dev.to/JS] [Why is hel-micro a better implementation of module federation](https://dev.to/fantasticsoul/why-is-hel-micro-a-better-implementation-of-module-federation-21ji)
-- [Dev.to/JS] [BOM &amp; DOM](https://dev.to/stali1234/bom-dom-2kg)
-- [Dev.to/JS] [Delete the Middle Node of a Linked List](https://dev.to/zeeshanali0704/delete-the-middle-node-of-a-linked-list-17lb)
-- [Dev.to/JS] [Next.Js Security: Ooh, You Aren’t Supposed To Access That](https://dev.to/sashevuchkov/nextjs-security-ooh-you-arent-supposed-to-access-that-1fl4)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
