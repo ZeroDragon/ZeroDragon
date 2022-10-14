@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to copy to clipboard with angular material](https://dev.to/codever/how-to-copy-to-clipboard-with-angular-material-317k)
+- [Dev.to/JS] [Blur Background CSS Generator](https://dev.to/vincenius/blur-background-css-generator-15d9)
+- [Dev.to/JS] [Hardware, Software, Education Setup](https://dev.to/p10q/fresh-computer-setup-5flm)
 - [Dev.to/JS] [Average of Levels in Binary Tree](https://dev.to/zeeshanali0704/average-of-levels-in-binary-tree-4mhb)
 - [Dev.to/JS] [2095. Leetcode Solution in javascript](https://dev.to/chiki1601/2095-leetcode-solution-in-1cmb)
 - [Dev.to/JS] [Authoring NPM Packages with Monorepos](https://dev.to/ravgeetdhillon/authoring-npm-packages-with-monorepos-3794)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Front end? Back end? What would you recommend?](https://dev.to/azrall/front-end-back-end-what-would-you-recommend-4h59)
 - [Dev.to/JS] [Probuild Ex Part Three](https://dev.to/mrdotb/probuild-ex-part-three-3b8)
 - [Dev.to/JS] [How to create an Express JS middleware](https://dev.to/sonicx180/how-to-create-an-express-js-middleware-2fcc)
-- [Dev.to/JS] [Building a free component library for react developers.](https://dev.to/alohe/building-a-free-component-library-for-react-developers-3pdp)
-- [Dev.to/JS] [What&#39;s your definition about the perfect CMS?🤖](https://dev.to/vitalijalbu/whats-your-definition-about-the-perfect-cms-k42)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
-- [Dev.to/JS] [A verdade sobre os bootcamps de programação](https://dev.to/devdoido/a-verdade-sobre-os-bootcamps-de-programacao-3pci)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
 - [Lifehacker] [Why &#39;Revenge Cheating&#39; Never Works](https://lifehacker.com/why-revenge-cheating-never-works-1849654175)
