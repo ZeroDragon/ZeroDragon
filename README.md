@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Things You Should Do When You Get a New Boss](https://lifehacker.com/three-things-you-should-do-when-you-get-a-new-boss-1849659881)
+- [Dev.to/JS] [Find ES6 features in any JS code](https://dev.to/madhunimmo/find-es6-features-in-any-js-code-16el)
+- [Dev.to/JS] [Javascript vs React!](https://dev.to/jaspreet9795/javascript-vs-react-550)
+- [Lifehacker] [How to Jumpstart a Career in the Trades](https://lifehacker.com/how-to-jumpstart-a-career-in-the-trades-1849658828)
+- [Dev.to/JS] [What&#39;s new in Nx 15?](https://dev.to/nx/whats-new-in-nx-15-2de9)
+- [Lifehacker] [11 Ways You Should Be Using Food Scraps in the Kitchen and Around the House](https://lifehacker.com/11-ways-you-should-be-using-food-scraps-in-the-kitchen-1849659704)
 - [Lifehacker] [What to Do Now to Prep Your Car for Winter](https://lifehacker.com/what-to-do-now-to-prep-your-car-for-winter-1849659286)
 - [Dev.to/JS] [The Rising Coder - Week 7/13 &lpar;Backend Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-713-backend-week-33-14ej)
 - [Lifehacker] [Why You Should Ignore Early &#39;Black Friday&#39; Deals This Year](https://lifehacker.com/why-you-should-ignore-early-black-friday-deals-this-yea-1849648563)
@@ -37,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Noteslify Joins Hacktoberfest!!! Open-Source Alternative to Evernote.](https://dev.to/dvstechlabs/noteslify-joins-hacktoberfest-open-source-alternative-to-evernote-2cia)
 - [Lifehacker] [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
 - [Dev.to/JS] [Let&#39;s create an AddEdit with same component](https://dev.to/rajivchaulagain/lets-create-an-addedit-with-same-component-3b2j)
-- [Dev.to/JS] [Create Hamburger Menu Using HTML, Css &amp; Javascript](https://dev.to/codingtitan6/create-hamburger-menu-using-html-css-javascript-n19)
-- [Dev.to/JS] [Create Multi Step Form Html Css Javascript&lpar; Source Code&rpar;](https://dev.to/codingtitan6/create-multi-step-form-html-css-javascript-source-code-1enb)
-- [Dev.to/JS] [Authorization in react js with custom hook.](https://dev.to/rajivchaulagain/authorization-in-react-js-with-custom-hook-23dp)
 - [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)
 - [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
 - [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is Why You Really Need a Kitchen Scale](https://lifehacker.com/this-is-why-you-really-need-a-kitchen-scale-1849653172)
 - [Lifehacker] [How to Know If You’re Going to Hell](https://lifehacker.com/how-to-know-if-you-re-going-to-hell-1849651490)
 - [Lifehacker] [The Discord Features Everyone Should Know About](https://lifehacker.com/the-discord-features-everyone-should-know-about-1849651815)
-- [Lifehacker] [How to Have a Better Relationship With Your Teenager](https://lifehacker.com/how-to-have-a-better-relationship-with-your-teenager-1849651294)
-- [Lifehacker] [Ignore These Myths About Life Insurance](https://lifehacker.com/ignore-these-myths-about-life-insurance-1849650266)
-- [Lifehacker] [You Can Finally Access Your iPhone Photos on Windows](https://lifehacker.com/you-can-finally-access-your-iphone-photos-on-windows-1849649496)
-- [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Have a Better Relationship With Your Teenager](https://lifehacker.com/how-to-have-a-better-relationship-with-your-teenager-1849651294)<!-- TECH-POSTS:END -->
 
 ---
 
