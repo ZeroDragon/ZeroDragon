@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Ignore Early &#39;Black Friday&#39; Deals This Year](https://lifehacker.com/why-you-should-ignore-early-black-friday-deals-this-yea-1849648563)
+- [Dev.to/JS] [Microfrontends: Microservices for the Frontend](https://dev.to/semaphore/microfrontends-microservices-for-the-frontend-4la4)
+- [Dev.to/JS] [Make It Better: Refacotring Code](https://dev.to/cychu42/make-it-better-refacotring-code-42ip)
+- [Dev.to/JS] [What is Server Sent Event?](https://dev.to/ganeshpatil0101/what-is-server-sent-event-4okn)
+- [Dev.to/JS] [JavaScript Events: Simplified](https://dev.to/codingkaur/javascript-events-simplified-34ep)
+- [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
 - [Lifehacker] [12 Long-Running Podcasts Worth Bingeing Immediately](https://lifehacker.com/12-long-running-podcasts-worth-bingeing-immediately-1849614978)
 - [Dev.to/JS] [A Git-Hook for Commit Messages Validation - No Husky, Just JS](https://dev.to/mbarzeev/a-git-hook-for-commit-messages-validation-no-husky-just-js-1hni)
 - [Dev.to/JS] [Next.js: Next-auth](https://dev.to/mdanassabah/nextjs-next-auth-5856)
@@ -34,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authorization in react js with custom hook.](https://dev.to/rajivchaulagain/authorization-in-react-js-with-custom-hook-23dp)
 - [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)
 - [Dev.to/JS] [Os Hooks que vieram junto com o React 18](https://dev.to/amad3eu/os-hooks-que-vieram-junto-com-o-react-18-1lhl)
-- [Dev.to/JS] [25+ HTML &amp; CSS Card Design Layout Style](https://dev.to/codingtitan6/25-html-css-card-design-layout-style-b3p)
-- [Dev.to/JS] [How to use react query v4 in react js to get server side data.](https://dev.to/rajivchaulagain/tanstack-query-v4powerful-asynchronous-state-management-for-tsjs-react-solid-vue-and-svelte-4l67)
-- [Dev.to/JS] [Create Instagram Logo Using HTML CSS &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-instagram-logo-using-html-css-source-code-4dp0)
 - [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
 - [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)
-- [Dev.to/JS] [Como sanitizar&lpar;limpar&rpar; os erros no Express para evitar vazamento de informações importantes](https://dev.to/r9n/como-sanitizarlimpar-os-erros-no-express-para-evitar-vazamento-de-informacoes-importantes-p1l)
 - [Lifehacker] [The Many Ways You Can Get Scammed Selling Your Things Online](https://lifehacker.com/the-many-ways-you-can-get-scammed-selling-your-things-o-1849655585)
 - [Lifehacker] [When to See the Orionids Meteor Shower This Month](https://lifehacker.com/when-to-see-the-orionids-meteor-shower-this-month-1849654661)
 - [Lifehacker] [How Life Is Better Without Notifications](https://lifehacker.com/how-life-is-better-without-notifications-1849653045)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ignore These Myths About Life Insurance](https://lifehacker.com/ignore-these-myths-about-life-insurance-1849650266)
 - [Lifehacker] [You Can Finally Access Your iPhone Photos on Windows](https://lifehacker.com/you-can-finally-access-your-iphone-photos-on-windows-1849649496)
 - [Lifehacker] [What If You Put Graham Cracker Crumbs in Your Meatballs?](https://lifehacker.com/what-if-you-put-graham-cracker-crumbs-in-your-meatballs-1849649890)
-- [Lifehacker] [Grow a Clover Lawn That You Barely Have to Mow](https://lifehacker.com/grow-a-clover-lawn-that-you-barely-have-to-mow-1849647474)
-- [Lifehacker] [This Is the Best Way to Clean Your Radiator](https://lifehacker.com/this-is-the-best-way-to-clean-your-radiator-1849648090)
-- [Lifehacker] [How to Run a Successful Podcast, According ‘The Viall Files’ Host Nick Viall](https://lifehacker.com/how-to-run-a-successful-podcast-according-the-viall-f-1849649248)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Grow a Clover Lawn That You Barely Have to Mow](https://lifehacker.com/grow-a-clover-lawn-that-you-barely-have-to-mow-1849647474)<!-- TECH-POSTS:END -->
 
 ---
 
