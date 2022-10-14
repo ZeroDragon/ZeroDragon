@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
+- [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
 - [Lifehacker] [Three Things You Should Do When You Get a New Boss](https://lifehacker.com/three-things-you-should-do-when-you-get-a-new-boss-1849659881)
 - [Dev.to/JS] [Find ES6 features in any JS code](https://dev.to/madhunimmo/find-es6-features-in-any-js-code-16el)
 - [Dev.to/JS] [Javascript vs React!](https://dev.to/jaspreet9795/javascript-vs-react-550)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
 - [Lifehacker] [This Is Why You Really Need a Kitchen Scale](https://lifehacker.com/this-is-why-you-really-need-a-kitchen-scale-1849653172)
-- [Lifehacker] [How to Know If You’re Going to Hell](https://lifehacker.com/how-to-know-if-you-re-going-to-hell-1849651490)
-- [Lifehacker] [The Discord Features Everyone Should Know About](https://lifehacker.com/the-discord-features-everyone-should-know-about-1849651815)
-- [Lifehacker] [How to Have a Better Relationship With Your Teenager](https://lifehacker.com/how-to-have-a-better-relationship-with-your-teenager-1849651294)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Know If You’re Going to Hell](https://lifehacker.com/how-to-know-if-you-re-going-to-hell-1849651490)<!-- TECH-POSTS:END -->
 
 ---
 
