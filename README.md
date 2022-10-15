@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Test with mocha](https://dev.to/rosiequ/javascript-test-with-mocha-472j)
 - [Dev.to/JS] [Creating the blog page - part 8](https://dev.to/dailydevtips1/creating-the-blog-page-part-8-31eg)
 - [Dev.to/JS] [Hacktoberfest as a project maintainer](https://dev.to/ifeanyichima/hacktoberfest-as-a-project-maintainer-3oih)
 - [Dev.to/JS] [How to scrape Google Maps](https://dev.to/darshan0_1/how-to-scrape-google-maps-2a55)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made a library to print object as a tree structure like the unix tree command](https://dev.to/h_sifat/i-made-a-library-to-print-object-as-a-tree-structure-like-the-unix-tree-command-4k3c)
 - [Dev.to/JS] [Amazing Typing Effect using Typed.js &lpar;JavaScript&rpar;](https://dev.to/piyushpatil1243/amazing-typing-effect-using-typedjs-javascript-4cl0)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
-- [Dev.to/JS] [React Just Got Even More Awesome](https://dev.to/dayvster/react-just-got-even-more-awesome-f15)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
