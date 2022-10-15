@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [xw2juo](https://dev.to/sealinkslogisticst/xw2juo-np4)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
 - [Dev.to/JS] [Next.js API routes - Global Error Handling and Clean Code Practices](https://dev.to/sneakysensei/nextjs-api-routes-global-error-handling-and-clean-code-practices-3g9p)
 - [Dev.to/JS] [I Created My New Portfolio Website](https://dev.to/yadvendra016/i-created-my-new-portfolio-website-2pjp)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lean on the web platform to validate emails](https://dev.to/_hariti/lean-on-the-web-platform-to-validate-emails-1167)
 - [Dev.to/JS] [Playing With Array of Objects in JavaScript](https://dev.to/mrityunjaypalled/playing-with-array-of-objects-in-javascript-1f48)
 - [Dev.to/JS] [Check whether a number is prime - Ruby](https://dev.to/eminarium/check-whether-a-number-is-prime-ruby-4dc7)
-- [Dev.to/JS] [5 ultra actionable tips to improve your Web performances](https://dev.to/kezios/5-ultra-actionable-tips-to-improve-your-web-performances-219p)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
 - [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
