@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating the blog page - part 8](https://dev.to/dailydevtips1/creating-the-blog-page-part-8-31eg)
+- [Dev.to/JS] [Hacktoberfest as a project maintainer](https://dev.to/ifeanyichima/hacktoberfest-as-a-project-maintainer-3oih)
+- [Dev.to/JS] [How to scrape Google Maps](https://dev.to/darshan0_1/how-to-scrape-google-maps-2a55)
 - [Dev.to/JS] [React Design Pattern -- Container Pattern](https://dev.to/mhdgmal1998/react-design-pattern-container-pattern-o47)
 - [Dev.to/JS] [When Promise.race&lpar;&rpar; wasn&#39;t racing](https://dev.to/karanche97/when-promiserace-wasnt-racing-n0h)
 - [Dev.to/JS] [Features of mongodb Atlas](https://dev.to/theankansaha/features-of-mongodb-atlas-2pai)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Amazing Typing Effect using Typed.js &lpar;JavaScript&rpar;](https://dev.to/piyushpatil1243/amazing-typing-effect-using-typedjs-javascript-4cl0)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Dev.to/JS] [React Just Got Even More Awesome](https://dev.to/dayvster/react-just-got-even-more-awesome-f15)
-- [Dev.to/JS] [Day25 of #100DaysOfCode](https://dev.to/yoot/day25-of-100daysofcode-28n6)
-- [Dev.to/JS] [Default vs Named exports](https://dev.to/shacodes/default-vs-named-exports-19hj)
-- [Dev.to/JS] [xw2juo](https://dev.to/sealinkslogisticst/xw2juo-np4)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
