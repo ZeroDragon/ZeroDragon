@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Design Pattern -- Container Pattern](https://dev.to/mhdgmal1998/react-design-pattern-container-pattern-o47)
 - [Dev.to/JS] [When Promise.race&lpar;&rpar; wasn&#39;t racing](https://dev.to/karanche97/when-promiserace-wasnt-racing-n0h)
 - [Dev.to/JS] [Features of mongodb Atlas](https://dev.to/theankansaha/features-of-mongodb-atlas-2pai)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day25 of #100DaysOfCode](https://dev.to/yoot/day25-of-100daysofcode-28n6)
 - [Dev.to/JS] [Default vs Named exports](https://dev.to/shacodes/default-vs-named-exports-19hj)
 - [Dev.to/JS] [xw2juo](https://dev.to/sealinkslogisticst/xw2juo-np4)
-- [Dev.to/JS] [Part4- Context Api in React Class Based Component](https://dev.to/akshdesai1/part4-context-api-in-react-class-based-component-22oh)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
