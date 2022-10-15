@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a blog from scratch using mern stack coding and web development ?](https://dev.to/fares00t/how-to-create-a-blog-from-scratch-using-mern-stack-coding-and-web-development--n3b)
+- [Dev.to/JS] [Modify an Array Stored in an Object &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/modify-an-array-stored-in-an-object-freecodecamp-notes-25p9)
+- [Dev.to/JS] [Cloud Data Protection](https://dev.to/umeshtharukaofficial/cloud-data-protection-3bke)
 - [Dev.to/JS] [JavaScript: Node.js](https://dev.to/rosiequ/javascript-nodejs-ool)
 - [Dev.to/JS] [JavaScipt: Express.js](https://dev.to/rosiequ/javascipt-expressjs-dj0)
 - [Dev.to/JS] [Stuff I&#39;ve read, watched, and heard - #1](https://dev.to/youssefkhaled08/stuff-ive-read-watched-and-heard-1-b50)
@@ -40,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Ignore Early &#39;Black Friday&#39; Deals This Year](https://lifehacker.com/why-you-should-ignore-early-black-friday-deals-this-yea-1849648563)
 - [Dev.to/JS] [Microfrontends: Microservices for the Frontend](https://dev.to/semaphore/microfrontends-microservices-for-the-frontend-4la4)
 - [Dev.to/JS] [Make It Better: Refacotring Code](https://dev.to/cychu42/make-it-better-refacotring-code-42ip)
-- [Dev.to/JS] [What is Server Sent Event?](https://dev.to/ganeshpatil0101/what-is-server-sent-event-4okn)
-- [Dev.to/JS] [JavaScript Events: Simplified](https://dev.to/codingkaur/javascript-events-simplified-34ep)
 - [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
 - [Lifehacker] [12 Long-Running Podcasts Worth Bingeing Immediately](https://lifehacker.com/12-long-running-podcasts-worth-bingeing-immediately-1849614978)
-- [Dev.to/JS] [A Git-Hook for Commit Messages Validation - No Husky, Just JS](https://dev.to/mbarzeev/a-git-hook-for-commit-messages-validation-no-husky-just-js-1hni)
 - [Lifehacker] [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
 - [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)
 - [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
