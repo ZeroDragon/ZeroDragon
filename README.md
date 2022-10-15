@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get the last element of an Array in Javascript](https://dev.to/smpnjn/how-to-get-the-last-element-of-an-array-in-javascript-2hmc)
+- [Dev.to/JS] [Updating Object Key Values with Javascript](https://dev.to/smpnjn/updating-object-key-values-with-javascript-1gnm)
+- [Dev.to/JS] [Waiting for the DOM to be ready in Javascript](https://dev.to/smpnjn/waiting-for-the-dom-to-be-ready-in-javascript-42l7)
 - [Dev.to/JS] [I made a library to print object as a tree structure like the unix tree command](https://dev.to/h_sifat/i-made-a-library-to-print-object-as-a-tree-structure-like-the-unix-tree-command-4k3c)
 - [Dev.to/JS] [Amazing Typing Effect using Typed.js &lpar;JavaScript&rpar;](https://dev.to/piyushpatil1243/amazing-typing-effect-using-typedjs-javascript-4cl0)
+- [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Dev.to/JS] [React Just Got Even More Awesome](https://dev.to/dayvster/react-just-got-even-more-awesome-f15)
 - [Dev.to/JS] [Day25 of #100DaysOfCode](https://dev.to/yoot/day25-of-100daysofcode-28n6)
 - [Dev.to/JS] [Default vs Named exports](https://dev.to/shacodes/default-vs-named-exports-19hj)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part3- Context Api in React Class Based Component](https://dev.to/akshdesai1/part3-context-api-in-react-class-based-component-7cc)
 - [Dev.to/JS] [Part2- Context Api in React Class Based Component](https://dev.to/akshdesai1/part2-context-api-in-react-class-based-component-4h51)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
-- [Dev.to/JS] [Next.js API routes - Global Error Handling and Clean Code Practices](https://dev.to/sneakysensei/nextjs-api-routes-global-error-handling-and-clean-code-practices-3g9p)
-- [Dev.to/JS] [I Created My New Portfolio Website](https://dev.to/yadvendra016/i-created-my-new-portfolio-website-2pjp)
-- [Dev.to/JS] [Join the chat to learn programming!](https://dev.to/ishaan010/join-the-chat-to-learn-programming-494m)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
 - [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should Do Now to Prepare for Thanksgiving &lpar;If You&#39;re Anxious&rpar;](https://lifehacker.com/what-you-should-do-now-to-prepare-for-thanksgiving-if-1849654472)
 - [Lifehacker] [How to Make the Perfect No-Lump Cheesecake Filling](https://lifehacker.com/how-to-make-the-perfect-no-lump-cheesecake-filling-1849653980)
 - [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
-- [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)
-- [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)<!-- TECH-POSTS:END -->
 
 ---
 
