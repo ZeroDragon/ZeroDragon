@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
+- [Dev.to/JS] [Next.js API routes - Global Error Handling and Clean Code Practices](https://dev.to/sneakysensei/nextjs-api-routes-global-error-handling-and-clean-code-practices-3g9p)
+- [Dev.to/JS] [I Created My New Portfolio Website](https://dev.to/yadvendra016/i-created-my-new-portfolio-website-2pjp)
+- [Dev.to/JS] [Join the chat to learn programming!](https://dev.to/ishaan010/join-the-chat-to-learn-programming-494m)
+- [Dev.to/JS] [Intro to solana/web3.js](https://dev.to/jamland/intro-to-solanaweb3js-6a0)
 - [Dev.to/JS] [Firebase Bootcamp: Hex-Clicker](https://dev.to/jhamadhav/firebase-bootcamp-hex-clicker-1nk3)
 - [Dev.to/JS] [Learning HTML5 canvas for a stupid reason.](https://dev.to/kokozaurus/learning-html5-canvas-for-a-stupid-reason-33g)
 - [Dev.to/JS] [React interview questions and answers](https://dev.to/ifeanyichima/react-interview-questions-and-answers-3p6l)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Playing With Array of Objects in JavaScript](https://dev.to/mrityunjaypalled/playing-with-array-of-objects-in-javascript-1f48)
 - [Dev.to/JS] [Check whether a number is prime - Ruby](https://dev.to/eminarium/check-whether-a-number-is-prime-ruby-4dc7)
 - [Dev.to/JS] [5 ultra actionable tips to improve your Web performances](https://dev.to/kezios/5-ultra-actionable-tips-to-improve-your-web-performances-219p)
-- [Dev.to/JS] [Using Query Params and Cookies in Next.js Static Pages](https://dev.to/teleaziz/using-query-params-and-cookies-in-nextjs-static-pages-kbb)
-- [Dev.to/JS] [Ng-News: Episode 22/40](https://dev.to/rainerhahnekamp/ng-news-episode-2240-4073)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;15-10-2022&rpar; - Turning the World Inside Out](https://dev.to/mjgs/this-weeks-newsletter-is-out-15-10-2022-turning-the-world-inside-out-4bj9)
-- [Dev.to/JS] [Built-in Map Object](https://dev.to/moazamdev/built-in-map-object-1ieb)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
 - [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make the Perfect No-Lump Cheesecake Filling](https://lifehacker.com/how-to-make-the-perfect-no-lump-cheesecake-filling-1849653980)
 - [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
 - [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)
-- [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
-- [Lifehacker] [This Is Why You Really Need a Kitchen Scale](https://lifehacker.com/this-is-why-you-really-need-a-kitchen-scale-1849653172)<!-- TECH-POSTS:END -->
+- [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)<!-- TECH-POSTS:END -->
 
 ---
 
