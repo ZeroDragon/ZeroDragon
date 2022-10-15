@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Common React Hooks](https://dev.to/ijayhub/understanding-common-react-hooks-1epl)
 - [Dev.to/JS] [JavaScript: Test with mocha](https://dev.to/rosiequ/javascript-test-with-mocha-472j)
 - [Dev.to/JS] [Creating the blog page - part 8](https://dev.to/dailydevtips1/creating-the-blog-page-part-8-31eg)
 - [Dev.to/JS] [Hacktoberfest as a project maintainer](https://dev.to/ifeanyichima/hacktoberfest-as-a-project-maintainer-3oih)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Updating Object Key Values with Javascript](https://dev.to/smpnjn/updating-object-key-values-with-javascript-1gnm)
 - [Dev.to/JS] [Waiting for the DOM to be ready in Javascript](https://dev.to/smpnjn/waiting-for-the-dom-to-be-ready-in-javascript-42l7)
 - [Dev.to/JS] [I made a library to print object as a tree structure like the unix tree command](https://dev.to/h_sifat/i-made-a-library-to-print-object-as-a-tree-structure-like-the-unix-tree-command-4k3c)
-- [Dev.to/JS] [Amazing Typing Effect using Typed.js &lpar;JavaScript&rpar;](https://dev.to/piyushpatil1243/amazing-typing-effect-using-typedjs-javascript-4cl0)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
