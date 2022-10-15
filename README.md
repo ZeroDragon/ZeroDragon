@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Front-End Development Service](https://dev.to/lamontterrell7/front-end-development-service-4pom)
+- [Dev.to/JS] [Parser for TXT and CSV file without any 3rd Party Library](https://dev.to/priyabnsal/parser-for-txt-and-csv-file-without-any-3rd-party-library-4f8p)
+- [Dev.to/JS] [Working With 3rd-Party Script and CSS In Angular](https://dev.to/danywalls/working-with-3rd-party-script-and-css-in-angular-l88)
 - [Dev.to/JS] [Check for Valid BST](https://dev.to/zeeshanali0704/check-for-valid-bst-3ndh)
 - [Dev.to/JS] [🚀 Angular 14 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-14-eslint-material-transloco-jest-testcafe-docker-prettier-2l66)
 - [Dev.to/JS] [Top 5 most used javascript functions with examples that you must try.](https://dev.to/imakashrana/top-5-most-used-javascript-functions-with-examples-that-you-must-try-1hlb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build a dark mode toggle with CSS and Javascript](https://dev.to/ucode/how-to-build-a-dark-mode-toggle-with-css-and-javascript-j0)
 - [Dev.to/JS] [Adding custom hook with react-query in react js](https://dev.to/rajivchaulagain/adding-custom-hook-with-react-query-in-react-js-41ef)
 - [Dev.to/JS] [How to create a blog from scratch using mern stack coding and web development ?](https://dev.to/fares00t/how-to-create-a-blog-from-scratch-using-mern-stack-coding-and-web-development--n3b)
-- [Dev.to/JS] [Modify an Array Stored in an Object &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/modify-an-array-stored-in-an-object-freecodecamp-notes-25p9)
-- [Dev.to/JS] [Cloud Data Protection](https://dev.to/umeshtharukaofficial/cloud-data-protection-3bke)
-- [Dev.to/JS] [JavaScript: Node.js](https://dev.to/rosiequ/javascript-nodejs-ool)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
 - [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
