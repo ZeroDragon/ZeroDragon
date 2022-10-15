@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build a dark mode toggle with CSS and Javascript](https://dev.to/ucode/how-to-build-a-dark-mode-toggle-with-css-and-javascript-j0)
 - [Dev.to/JS] [Adding custom hook with react-query in react js](https://dev.to/rajivchaulagain/adding-custom-hook-with-react-query-in-react-js-41ef)
 - [Dev.to/JS] [How to create a blog from scratch using mern stack coding and web development ?](https://dev.to/fares00t/how-to-create-a-blog-from-scratch-using-mern-stack-coding-and-web-development--n3b)
 - [Dev.to/JS] [Modify an Array Stored in an Object &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/modify-an-array-stored-in-an-object-freecodecamp-notes-25p9)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do Now to Prep Your Car for Winter](https://lifehacker.com/what-to-do-now-to-prep-your-car-for-winter-1849659286)
 - [Dev.to/JS] [The Rising Coder - Week 7/13 &lpar;Backend Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-713-backend-week-33-14ej)
 - [Lifehacker] [Why You Should Ignore Early &#39;Black Friday&#39; Deals This Year](https://lifehacker.com/why-you-should-ignore-early-black-friday-deals-this-yea-1849648563)
-- [Dev.to/JS] [Microfrontends: Microservices for the Frontend](https://dev.to/semaphore/microfrontends-microservices-for-the-frontend-4la4)
 - [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
 - [Lifehacker] [12 Long-Running Podcasts Worth Bingeing Immediately](https://lifehacker.com/12-long-running-podcasts-worth-bingeing-immediately-1849614978)
 - [Lifehacker] [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
