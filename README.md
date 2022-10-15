@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day25 of #100DaysOfCode](https://dev.to/yoot/day25-of-100daysofcode-28n6)
+- [Dev.to/JS] [Default vs Named exports](https://dev.to/shacodes/default-vs-named-exports-19hj)
 - [Dev.to/JS] [xw2juo](https://dev.to/sealinkslogisticst/xw2juo-np4)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
 - [Dev.to/JS] [Next.js API routes - Global Error Handling and Clean Code Practices](https://dev.to/sneakysensei/nextjs-api-routes-global-error-handling-and-clean-code-practices-3g9p)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React interview questions and answers](https://dev.to/ifeanyichima/react-interview-questions-and-answers-3p6l)
 - [Dev.to/JS] [JavaScript Array Push Method](https://dev.to/faizanhabib/javascript-array-push-method-4ba1)
 - [Dev.to/JS] [Lean on the web platform to validate emails](https://dev.to/_hariti/lean-on-the-web-platform-to-validate-emails-1167)
-- [Dev.to/JS] [Playing With Array of Objects in JavaScript](https://dev.to/mrityunjaypalled/playing-with-array-of-objects-in-javascript-1f48)
-- [Dev.to/JS] [Check whether a number is prime - Ruby](https://dev.to/eminarium/check-whether-a-number-is-prime-ruby-4dc7)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
 - [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
