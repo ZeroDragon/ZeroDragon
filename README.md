@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When Promise.race&lpar;&rpar; wasn&#39;t racing](https://dev.to/karanche97/when-promiserace-wasnt-racing-n0h)
+- [Dev.to/JS] [Features of mongodb Atlas](https://dev.to/theankansaha/features-of-mongodb-atlas-2pai)
+- [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Dev.to/JS] [How to get the last element of an Array in Javascript](https://dev.to/smpnjn/how-to-get-the-last-element-of-an-array-in-javascript-2hmc)
 - [Dev.to/JS] [Updating Object Key Values with Javascript](https://dev.to/smpnjn/updating-object-key-values-with-javascript-1gnm)
 - [Dev.to/JS] [Waiting for the DOM to be ready in Javascript](https://dev.to/smpnjn/waiting-for-the-dom-to-be-ready-in-javascript-42l7)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Default vs Named exports](https://dev.to/shacodes/default-vs-named-exports-19hj)
 - [Dev.to/JS] [xw2juo](https://dev.to/sealinkslogisticst/xw2juo-np4)
 - [Dev.to/JS] [Part4- Context Api in React Class Based Component](https://dev.to/akshdesai1/part4-context-api-in-react-class-based-component-22oh)
-- [Dev.to/JS] [Part3- Context Api in React Class Based Component](https://dev.to/akshdesai1/part3-context-api-in-react-class-based-component-7cc)
-- [Dev.to/JS] [Part2- Context Api in React Class Based Component](https://dev.to/akshdesai1/part2-context-api-in-react-class-based-component-4h51)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why &#39;Revenge Cheating&#39; Never Works](https://lifehacker.com/why-revenge-cheating-never-works-1849654175)
 - [Lifehacker] [What You Should Do Now to Prepare for Thanksgiving &lpar;If You&#39;re Anxious&rpar;](https://lifehacker.com/what-you-should-do-now-to-prepare-for-thanksgiving-if-1849654472)
 - [Lifehacker] [How to Make the Perfect No-Lump Cheesecake Filling](https://lifehacker.com/how-to-make-the-perfect-no-lump-cheesecake-filling-1849653980)
-- [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)
-- [Lifehacker] [Redactle Is Like Wordle but for a Whole Wikipedia Page](https://lifehacker.com/redactle-is-like-wordle-but-for-a-whole-wikipedia-page-1849648942)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)<!-- TECH-POSTS:END -->
 
 ---
 
