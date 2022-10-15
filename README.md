@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ng-News: Episode 22/40](https://dev.to/rainerhahnekamp/ng-news-episode-2240-4073)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;15-10-2022&rpar; - Turning the World Inside Out](https://dev.to/mjgs/this-weeks-newsletter-is-out-15-10-2022-turning-the-world-inside-out-4bj9)
+- [Dev.to/JS] [Built-in Map Object](https://dev.to/moazamdev/built-in-map-object-1ieb)
 - [Dev.to/JS] [Youtube studio sidebar clone HTML, CSS and Javascript](https://dev.to/ucode/youtube-studio-sidebar-clone-html-css-and-javascript-1al7)
 - [Dev.to/JS] [Front-End Development Service](https://dev.to/lamontterrell7/front-end-development-service-4pom)
 - [Dev.to/JS] [Parser for TXT and CSV file without any 3rd Party Library](https://dev.to/priyabnsal/parser-for-txt-and-csv-file-without-any-3rd-party-library-4f8p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 most used javascript functions with examples that you must try.](https://dev.to/imakashrana/top-5-most-used-javascript-functions-with-examples-that-you-must-try-1hlb)
 - [Dev.to/JS] [How to rotate image clockwise anticlockwise onclick button javascript | Akashminds](https://dev.to/imakashrana/how-to-rotate-image-clockwise-anticlockwise-onclick-button-javascript-akashminds-5414)
 - [Dev.to/JS] [How to Get Started With React – A Beginner&#39;s Guide](https://dev.to/rajivchaulagain/get-started-with-react-js-1nkb)
-- [Dev.to/JS] [How to upload image with base64 and validate it with formik](https://dev.to/rajivchaulagain/uploading-image-with-formik-and-base64-2loa)
-- [Dev.to/JS] [How to build a dark mode toggle with CSS and Javascript](https://dev.to/ucode/how-to-build-a-dark-mode-toggle-with-css-and-javascript-j0)
-- [Dev.to/JS] [React Query Custom Hooks Example in react js](https://dev.to/rajivchaulagain/adding-custom-hook-with-react-query-in-react-js-41ef)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
 - [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
