@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Node.js](https://dev.to/rosiequ/javascript-nodejs-ool)
 - [Dev.to/JS] [JavaScipt: Express.js](https://dev.to/rosiequ/javascipt-expressjs-dj0)
 - [Dev.to/JS] [Stuff I&#39;ve read, watched, and heard - #1](https://dev.to/youssefkhaled08/stuff-ive-read-watched-and-heard-1-b50)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
 - [Lifehacker] [12 Long-Running Podcasts Worth Bingeing Immediately](https://lifehacker.com/12-long-running-podcasts-worth-bingeing-immediately-1849614978)
 - [Dev.to/JS] [A Git-Hook for Commit Messages Validation - No Husky, Just JS](https://dev.to/mbarzeev/a-git-hook-for-commit-messages-validation-no-husky-just-js-1hni)
-- [Dev.to/JS] [Next.js: Next-auth](https://dev.to/mdanassabah/nextjs-next-auth-5856)
 - [Lifehacker] [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
 - [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)
 - [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
