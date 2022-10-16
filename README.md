@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Access log middleware for Deno Fresh](https://dev.to/khuongduybui/access-log-middleware-for-deno-fresh-3ke7)
 - [Dev.to/JS] [DOM Diffing with diffDOM](https://dev.to/artydev/dom-diffing-with-diffdom-4eml)
 - [Dev.to/JS] [Javascript Array Reduce Method](https://dev.to/smpnjn/javascript-array-reduce-method-3a3)
 - [Dev.to/JS] [javascript scroll on stop](https://dev.to/abdullahozcan/javascript-scroll-on-stop-5b4a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Stopwatch With React Native](https://dev.to/codecupdev/build-a-stopwatch-with-react-native-1e0l)
 - [Dev.to/JS] [Serve your data blazingly fast with Sqlite3 and Javascript](https://dev.to/auray/sqlite-performance-480b)
 - [Dev.to/JS] [A11y Unlocked: Screen-Reader Automation Tests](https://dev.to/craigmorten/a11y-unlocked-screen-reader-automation-tests-3mc8)
-- [Dev.to/JS] [Angular Dependency Injection Understood I - No needles involved, no worries](https://dev.to/renaisense_/angular-dependency-injection-understood-i-no-needles-involved-no-worries-4c5h)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
