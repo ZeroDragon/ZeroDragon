@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Internet&#39;s history and present and future](https://dev.to/theankansaha/internets-history-and-present-and-future-2jo3)
+- [Dev.to/JS] [Monitoring a Node.JS Typescript application with Prometheus and Grafana](https://dev.to/drouianm/monitoring-a-nodejs-typescript-application-with-prometheus-and-grafana-43j2)
+- [Dev.to/JS] [Why MEAN Stack is so popular](https://dev.to/theankansaha/why-mean-stack-is-so-popular-2ea8)
+- [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
+- [Dev.to/JS] [How to Make Halloween Landing page Using HTML CSS JS | For Beginners](https://dev.to/codewithsadee/how-to-make-halloween-landing-page-using-html-css-js-for-beginners-3ef9)
+- [Dev.to/JS] [Vue.js 3 이벤트 뻐-스](https://dev.to/composite/vuejs-3-ibenteu-bbeo-seu-ajc)
 - [Dev.to/JS] [Do not use Swagger but build SDK instead for frontend developers](https://dev.to/samchon/do-not-use-swagger-but-build-sdk-instead-314j)
 - [Dev.to/JS] [5 Must-Know JavaScript Array Methods You Should Know To Make Your Life Easier](https://dev.to/mbuxmann/5-must-know-javascript-array-methods-you-should-know-to-make-your-life-easier-1ea5)
 - [Dev.to/JS] [Deploy your own API and build cool projects](https://dev.to/crispitipina/deploy-your-own-api-and-build-cool-projects-2p6e)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating the work page - part 9](https://dev.to/dailydevtips1/creating-the-work-page-part-9-540m)
 - [Dev.to/JS] [Apa yang menarik di Next.Js 12.3](https://dev.to/toufiqnuur/apa-yang-menarik-di-nextjs-123-4j08)
 - [Dev.to/JS] [6 Cool Things Boring Old HTML Can Do 🤯](https://dev.to/ruppysuppy/6-cool-things-boring-old-html-can-do-3160)
-- [Dev.to/JS] [Create 3d logo with DALL·E 2](https://dev.to/thearnabmondal/create-3d-logo-with-dalle-2-21ef)
-- [Dev.to/JS] [How To Customize HTML video Tag controls attribute in React js using useRef&lpar;&rpar; and useState&lpar;&rpar; Hook ?](https://dev.to/radhe65gupta/how-to-customize-html-video-tag-controls-attribute-in-react-js-using-useref-and-usestate-hook--35g5)
-- [Dev.to/JS] [How to do machine learning in JavaScript?](https://dev.to/devarshishimpi/how-to-do-machine-learning-in-javascript-42g5)
-- [Dev.to/JS] [How to Create a Wordle as a Centaur](https://dev.to/mcsee/how-to-create-a-wordle-as-a-centaur-1gph)
-- [Dev.to/JS] [We are selling oxideapi](https://dev.to/sripadhs/we-are-selling-oxideapi-5f51)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
 - [Lifehacker] [Why &#39;Revenge Cheating&#39; Never Works](https://lifehacker.com/why-revenge-cheating-never-works-1849654175)
 - [Lifehacker] [What You Should Do Now to Prepare for Thanksgiving &lpar;If You&#39;re Anxious&rpar;](https://lifehacker.com/what-you-should-do-now-to-prepare-for-thanksgiving-if-1849654472)
-- [Lifehacker] [How to Make the Perfect No-Lump Cheesecake Filling](https://lifehacker.com/how-to-make-the-perfect-no-lump-cheesecake-filling-1849653980)
-- [Lifehacker] [Where to Get Free Food This National Dessert Day](https://lifehacker.com/where-to-get-free-treats-this-national-dessert-day-1849653423)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make the Perfect No-Lump Cheesecake Filling](https://lifehacker.com/how-to-make-the-perfect-no-lump-cheesecake-filling-1849653980)<!-- TECH-POSTS:END -->
 
 ---
 
