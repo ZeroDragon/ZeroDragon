@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Apa yang menarik di Next.Js 12.3](https://dev.to/toufiqnuur/apa-yang-menarik-di-nextjs-123-4j08)
+- [Dev.to/JS] [6 Cool Things Boring Old HTML Can Do 🤯](https://dev.to/ruppysuppy/6-cool-things-boring-old-html-can-do-3160)
+- [Dev.to/JS] [Create 3d logo with DALL·E 2](https://dev.to/thearnabmondal/create-3d-logo-with-dalle-2-21ef)
 - [Dev.to/JS] [How To Customize HTML video Tag controls attribute in React js using useRef&lpar;&rpar; and useState&lpar;&rpar; Hook ?](https://dev.to/radhe65gupta/how-to-customize-html-video-tag-controls-attribute-in-react-js-using-useref-and-usestate-hook--35g5)
 - [Dev.to/JS] [How to do machine learning in JavaScript?](https://dev.to/devarshishimpi/how-to-do-machine-learning-in-javascript-42g5)
 - [Dev.to/JS] [How to Create a Wordle as a Centaur](https://dev.to/mcsee/how-to-create-a-wordle-as-a-centaur-1gph)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [iwin medoithuong](https://dev.to/iwinmedoithuong/iwin-medoithuong-295d)
 - [Dev.to/JS] [Why we use single page application frameworks and which framework is best for web development](https://dev.to/theankansaha/why-we-use-single-page-application-frameworks-and-which-framework-is-best-for-web-development-2c3m)
 - [Dev.to/JS] [Automate send email using nodejs](https://dev.to/theankansaha/automate-send-email-using-nodejs-167g)
-- [Dev.to/JS] [Automate instagram with nodejs](https://dev.to/theankansaha/automate-instagram-with-nodejs-c3a)
-- [Dev.to/JS] [Automate your whatsapp using nodejs](https://dev.to/theankansaha/automate-your-whatsapp-using-nodejs-39c8)
-- [Dev.to/JS] [Understanding Common React Hooks](https://dev.to/ijayhub/understanding-common-react-hooks-1epl)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
