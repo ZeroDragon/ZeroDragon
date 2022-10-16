@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Skeleton Loading Animation in React](https://dev.to/documatic/creating-skeleton-loading-animation-in-react-4f38)
+- [Dev.to/JS] [The Difference between TypeScript and Javascript](https://dev.to/smpnjn/the-difference-between-typescript-and-javascript-3gem)
 - [Dev.to/JS] [Internet&#39;s history and present and future](https://dev.to/theankansaha/internets-history-and-present-and-future-2jo3)
 - [Dev.to/JS] [Monitoring a Node.JS Typescript application with Prometheus and Grafana](https://dev.to/drouianm/monitoring-a-nodejs-typescript-application-with-prometheus-and-grafana-43j2)
 - [Dev.to/JS] [Why MEAN Stack is so popular](https://dev.to/theankansaha/why-mean-stack-is-so-popular-2ea8)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploy your own API and build cool projects](https://dev.to/crispitipina/deploy-your-own-api-and-build-cool-projects-2p6e)
 - [Dev.to/JS] [How to trigger blob function on Azure Storage in Node.js](https://dev.to/zainbinfurqan/how-to-trigger-blob-function-on-azure-storage-in-nodejs-11jb)
 - [Dev.to/JS] [Creating the work page - part 9](https://dev.to/dailydevtips1/creating-the-work-page-part-9-540m)
-- [Dev.to/JS] [Apa yang menarik di Next.Js 12.3](https://dev.to/toufiqnuur/apa-yang-menarik-di-nextjs-123-4j08)
-- [Dev.to/JS] [6 Cool Things Boring Old HTML Can Do 🤯](https://dev.to/ruppysuppy/6-cool-things-boring-old-html-can-do-3160)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
