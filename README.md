@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A11y Unlocked: Screen-Reader Automation Tests](https://dev.to/craigmorten/a11y-unlocked-screen-reader-automation-tests-3mc8)
+- [Dev.to/JS] [Angular Dependency Injection Understood I - No needles involved, no worries](https://dev.to/renaisense_/angular-dependency-injection-understood-i-no-needles-involved-no-worries-4c5h)
 - [Dev.to/JS] [Open Discussion: Why People Prefer Axios over Fetch?](https://dev.to/webjose/open-discussion-why-people-prefer-axios-over-fetch-a2j)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
+- [Dev.to/JS] [Wrapper.js: A New Devops Library](https://dev.to/jamesmillerblog/wrapperjs-what-why-how-and-where-575e)
 - [Dev.to/JS] [Meta Tag in HTML](https://dev.to/amalprasad0/meta-tag-in-html-4p3b)
 - [Dev.to/JS] [Automate the removal of likes in TikTok](https://dev.to/frankalvarez/automate-the-removal-of-likes-in-tiktok-4oic)
 - [Dev.to/JS] [Create Number Guessing Game using JavaScript](https://dev.to/codingtitan6/create-number-guessing-game-using-javascript-5hd2)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Age Calculator Using Javascript &lpar; Source Code &rpar;](https://dev.to/codingtitan6/age-calculator-using-javascript-source-code--2d8m)
 - [Dev.to/JS] [Restaurant Website Using HTML And CSS With Source Code](https://dev.to/codingtitan6/restaurant-website-using-html-and-css-with-source-code-mog)
 - [Dev.to/JS] [Understand The DOM and DOM manipulation with javascript. &lpar;part 1&rpar;](https://dev.to/jonathz/understand-the-dom-and-dom-manipulation-with-javascript-part-1-54kk)
-- [Dev.to/JS] [Add To Cart Button Using Html,Css &amp; JavaScript](https://dev.to/codingtitan6/add-to-cart-button-using-htmlcss-javascript-3k4l)
-- [Dev.to/JS] [5 Free Tailwind CSS landing page templates.](https://dev.to/britzdylan/5-free-tailwind-css-landing-page-templates-3bga)
-- [Dev.to/JS] [In One Minute : V8 &lpar;JavaScript engine&rpar;](https://dev.to/rakeshkr2/in-one-minute-v8-javascript-engine-59b2)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
