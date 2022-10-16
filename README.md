@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Restaurant Website Using HTML And CSS With Source Code](https://dev.to/codingtitan6/restaurant-website-using-html-and-css-with-source-code-mog)
+- [Dev.to/JS] [Understand The DOM and DOM manipulation with javascript. &lpar;part 1&rpar;](https://dev.to/jonathz/understand-the-dom-and-dom-manipulation-with-javascript-part-1-54kk)
+- [Dev.to/JS] [Add To Cart Button Using Html,Css &amp; JavaScript](https://dev.to/codingtitan6/add-to-cart-button-using-htmlcss-javascript-3k4l)
+- [Dev.to/JS] [5 Free Tailwind CSS landing page templates.](https://dev.to/britzdylan/5-free-tailwind-css-landing-page-templates-3bga)
+- [Dev.to/JS] [In One Minute : V8 &lpar;JavaScript engine&rpar;](https://dev.to/rakeshkr2/in-one-minute-v8-javascript-engine-59b2)
+- [Dev.to/JS] [Create Wave Backgrounds with CSS](https://dev.to/codingtitan6/create-wave-backgrounds-with-css-1mmd)
+- [Dev.to/JS] [APP SERVICE](https://dev.to/bruyo/app-service-25p4)
+- [Dev.to/JS] [How to Cloudinary in React JS.](https://dev.to/femiobadimu/how-to-cloudinary-in-react-js-54fi)
+- [Dev.to/JS] [Create Music Player Project Using Javascript &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-music-player-project-using-javascript-source-code-1alh)
 - [Dev.to/JS] [Creating Skeleton Loading Animation in React](https://dev.to/documatic/creating-skeleton-loading-animation-in-react-4f38)
+- [Dev.to/JS] [Create Calendar Using HTML,CSS &amp; Javascript](https://dev.to/codingtitan6/create-calendar-using-htmlcss-javascript-386n)
+- [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Dev.to/JS] [The Difference between TypeScript and Javascript](https://dev.to/smpnjn/the-difference-between-typescript-and-javascript-3gem)
-- [Dev.to/JS] [Internet&#39;s history and present and future](https://dev.to/theankansaha/internets-history-and-present-and-future-2jo3)
-- [Dev.to/JS] [Monitoring a Node.JS Typescript application with Prometheus and Grafana](https://dev.to/drouianm/monitoring-a-nodejs-typescript-application-with-prometheus-and-grafana-43j2)
-- [Dev.to/JS] [Why MEAN Stack is so popular](https://dev.to/theankansaha/why-mean-stack-is-so-popular-2ea8)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
-- [Dev.to/JS] [How to Make Halloween Landing page Using HTML CSS JS | For Beginners](https://dev.to/codewithsadee/how-to-make-halloween-landing-page-using-html-css-js-for-beginners-3ef9)
-- [Dev.to/JS] [Vue.js 3 이벤트 뻐-스](https://dev.to/composite/vuejs-3-ibenteu-bbeo-seu-ajc)
-- [Dev.to/JS] [Do not use Swagger but build SDK instead for frontend developers](https://dev.to/samchon/do-not-use-swagger-but-build-sdk-instead-314j)
-- [Dev.to/JS] [5 Must-Know JavaScript Array Methods You Should Know To Make Your Life Easier](https://dev.to/mbuxmann/5-must-know-javascript-array-methods-you-should-know-to-make-your-life-easier-1ea5)
-- [Dev.to/JS] [Deploy your own API and build cool projects](https://dev.to/crispitipina/deploy-your-own-api-and-build-cool-projects-2p6e)
-- [Dev.to/JS] [How to trigger blob function on Azure Storage in Node.js](https://dev.to/zainbinfurqan/how-to-trigger-blob-function-on-azure-storage-in-nodejs-11jb)
-- [Dev.to/JS] [Creating the work page - part 9](https://dev.to/dailydevtips1/creating-the-work-page-part-9-540m)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
 - [Lifehacker] [Why &#39;Revenge Cheating&#39; Never Works](https://lifehacker.com/why-revenge-cheating-never-works-1849654175)
-- [Lifehacker] [What You Should Do Now to Prepare for Thanksgiving &lpar;If You&#39;re Anxious&rpar;](https://lifehacker.com/what-you-should-do-now-to-prepare-for-thanksgiving-if-1849654472)
-- [Lifehacker] [How to Make the Perfect No-Lump Cheesecake Filling](https://lifehacker.com/how-to-make-the-perfect-no-lump-cheesecake-filling-1849653980)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What You Should Do Now to Prepare for Thanksgiving &lpar;If You&#39;re Anxious&rpar;](https://lifehacker.com/what-you-should-do-now-to-prepare-for-thanksgiving-if-1849654472)<!-- TECH-POSTS:END -->
 
 ---
 
