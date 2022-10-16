@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do not use Swagger but build SDK instead for frontend developers](https://dev.to/samchon/do-not-use-swagger-but-build-sdk-instead-314j)
 - [Dev.to/JS] [5 Must-Know JavaScript Array Methods You Should Know To Make Your Life Easier](https://dev.to/mbuxmann/5-must-know-javascript-array-methods-you-should-know-to-make-your-life-easier-1ea5)
 - [Dev.to/JS] [Deploy your own API and build cool projects](https://dev.to/crispitipina/deploy-your-own-api-and-build-cool-projects-2p6e)
 - [Dev.to/JS] [How to trigger blob function on Azure Storage in Node.js](https://dev.to/zainbinfurqan/how-to-trigger-blob-function-on-azure-storage-in-nodejs-11jb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to do machine learning in JavaScript?](https://dev.to/devarshishimpi/how-to-do-machine-learning-in-javascript-42g5)
 - [Dev.to/JS] [How to Create a Wordle as a Centaur](https://dev.to/mcsee/how-to-create-a-wordle-as-a-centaur-1gph)
 - [Dev.to/JS] [We are selling oxideapi](https://dev.to/sripadhs/we-are-selling-oxideapi-5f51)
-- [Dev.to/JS] [Adding an Event Listener to DOM Manipulated Data Fetch&lpar;ed&rpar; from a JSON API](https://dev.to/timtran007/adding-an-event-listener-to-dom-manipulated-data-fetched-from-a-json-api-3ffj)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
