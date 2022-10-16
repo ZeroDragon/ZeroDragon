@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy your own API and build cool projects](https://dev.to/crispitipina/deploy-your-own-api-and-build-cool-projects-2p6e)
+- [Dev.to/JS] [How to trigger blob function on Azure Storage in Node.js](https://dev.to/zainbinfurqan/how-to-trigger-blob-function-on-azure-storage-in-nodejs-11jb)
+- [Dev.to/JS] [Creating the work page - part 9](https://dev.to/dailydevtips1/creating-the-work-page-part-9-540m)
 - [Dev.to/JS] [Apa yang menarik di Next.Js 12.3](https://dev.to/toufiqnuur/apa-yang-menarik-di-nextjs-123-4j08)
 - [Dev.to/JS] [6 Cool Things Boring Old HTML Can Do 🤯](https://dev.to/ruppysuppy/6-cool-things-boring-old-html-can-do-3160)
 - [Dev.to/JS] [Create 3d logo with DALL·E 2](https://dev.to/thearnabmondal/create-3d-logo-with-dalle-2-21ef)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We are selling oxideapi](https://dev.to/sripadhs/we-are-selling-oxideapi-5f51)
 - [Dev.to/JS] [Adding an Event Listener to DOM Manipulated Data Fetch&lpar;ed&rpar; from a JSON API](https://dev.to/timtran007/adding-an-event-listener-to-dom-manipulated-data-fetched-from-a-json-api-3ffj)
 - [Dev.to/JS] [Routinejs, An Express inspired blazingly fast Nodejs router](https://dev.to/zulfiqarqureshi/routinejs-an-express-inspired-blazingly-fast-nodejs-router-3hpg)
-- [Dev.to/JS] [iwin medoithuong](https://dev.to/iwinmedoithuong/iwin-medoithuong-295d)
-- [Dev.to/JS] [Why we use single page application frameworks and which framework is best for web development](https://dev.to/theankansaha/why-we-use-single-page-application-frameworks-and-which-framework-is-best-for-web-development-2c3m)
-- [Dev.to/JS] [Automate send email using nodejs](https://dev.to/theankansaha/automate-send-email-using-nodejs-167g)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
