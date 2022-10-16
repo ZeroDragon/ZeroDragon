@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a Birthday webpage that has scroll animation!](https://dev.to/lensco825/making-a-birthday-webpage-that-has-scroll-animation-22od)
+- [Dev.to/JS] [Build a Stopwatch With React Native](https://dev.to/codecupdev/build-a-stopwatch-with-react-native-1e0l)
+- [Dev.to/JS] [Serve your data blazingly fast with Sqlite3 and Javascript](https://dev.to/auray/sqlite-performance-480b)
 - [Dev.to/JS] [A11y Unlocked: Screen-Reader Automation Tests](https://dev.to/craigmorten/a11y-unlocked-screen-reader-automation-tests-3mc8)
 - [Dev.to/JS] [Angular Dependency Injection Understood I - No needles involved, no worries](https://dev.to/renaisense_/angular-dependency-injection-understood-i-no-needles-involved-no-worries-4c5h)
 - [Dev.to/JS] [Open Discussion: Why People Prefer Axios over Fetch?](https://dev.to/webjose/open-discussion-why-people-prefer-axios-over-fetch-a2j)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Number Guessing Game using JavaScript](https://dev.to/codingtitan6/create-number-guessing-game-using-javascript-5hd2)
 - [Dev.to/JS] [Sending Discord Messages With JS Using Webhooks](https://dev.to/sandytrolling/sending-discord-messages-with-js-using-webhooks-3p5d)
 - [Dev.to/JS] [Own Dino Game Using HTML,CSS &amp; JavaScript &lpar;Chrome Dinosaur Game&rpar;](https://dev.to/codingtitan6/own-dino-game-using-htmlcss-javascript-chrome-dinosaur-game-21np)
-- [Dev.to/JS] [Age Calculator Using Javascript &lpar; Source Code &rpar;](https://dev.to/codingtitan6/age-calculator-using-javascript-source-code--2d8m)
-- [Dev.to/JS] [Restaurant Website Using HTML And CSS With Source Code](https://dev.to/codingtitan6/restaurant-website-using-html-and-css-with-source-code-mog)
-- [Dev.to/JS] [Understand The DOM and DOM manipulation with javascript. &lpar;part 1&rpar;](https://dev.to/jonathz/understand-the-dom-and-dom-manipulation-with-javascript-part-1-54kk)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
