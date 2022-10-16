@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Discussion: Why People Prefer Axios over Fetch?](https://dev.to/webjose/open-discussion-why-people-prefer-axios-over-fetch-a2j)
+- [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
+- [Dev.to/JS] [Meta Tag in HTML](https://dev.to/amalprasad0/meta-tag-in-html-4p3b)
+- [Dev.to/JS] [Automate the removal of likes in TikTok](https://dev.to/frankalvarez/automate-the-removal-of-likes-in-tiktok-4oic)
+- [Dev.to/JS] [Create Number Guessing Game using JavaScript](https://dev.to/codingtitan6/create-number-guessing-game-using-javascript-5hd2)
+- [Dev.to/JS] [Sending Discord Messages With JS Using Webhooks](https://dev.to/sandytrolling/sending-discord-messages-with-js-using-webhooks-3p5d)
+- [Dev.to/JS] [Own Dino Game Using HTML,CSS &amp; JavaScript &lpar;Chrome Dinosaur Game&rpar;](https://dev.to/codingtitan6/own-dino-game-using-htmlcss-javascript-chrome-dinosaur-game-21np)
+- [Dev.to/JS] [Age Calculator Using Javascript &lpar; Source Code &rpar;](https://dev.to/codingtitan6/age-calculator-using-javascript-source-code--2d8m)
 - [Dev.to/JS] [Restaurant Website Using HTML And CSS With Source Code](https://dev.to/codingtitan6/restaurant-website-using-html-and-css-with-source-code-mog)
 - [Dev.to/JS] [Understand The DOM and DOM manipulation with javascript. &lpar;part 1&rpar;](https://dev.to/jonathz/understand-the-dom-and-dom-manipulation-with-javascript-part-1-54kk)
 - [Dev.to/JS] [Add To Cart Button Using Html,Css &amp; JavaScript](https://dev.to/codingtitan6/add-to-cart-button-using-htmlcss-javascript-3k4l)
 - [Dev.to/JS] [5 Free Tailwind CSS landing page templates.](https://dev.to/britzdylan/5-free-tailwind-css-landing-page-templates-3bga)
 - [Dev.to/JS] [In One Minute : V8 &lpar;JavaScript engine&rpar;](https://dev.to/rakeshkr2/in-one-minute-v8-javascript-engine-59b2)
-- [Dev.to/JS] [Create Wave Backgrounds with CSS](https://dev.to/codingtitan6/create-wave-backgrounds-with-css-1mmd)
-- [Dev.to/JS] [APP SERVICE](https://dev.to/bruyo/app-service-25p4)
-- [Dev.to/JS] [How to Cloudinary in React JS.](https://dev.to/femiobadimu/how-to-cloudinary-in-react-js-54fi)
-- [Dev.to/JS] [Create Music Player Project Using Javascript &lpar;Source Code&rpar;](https://dev.to/codingtitan6/create-music-player-project-using-javascript-source-code-1alh)
-- [Dev.to/JS] [Creating Skeleton Loading Animation in React](https://dev.to/documatic/creating-skeleton-loading-animation-in-react-4f38)
-- [Dev.to/JS] [Create Calendar Using HTML,CSS &amp; Javascript](https://dev.to/codingtitan6/create-calendar-using-htmlcss-javascript-386n)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
-- [Dev.to/JS] [The Difference between TypeScript and Javascript](https://dev.to/smpnjn/the-difference-between-typescript-and-javascript-3gem)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
 - [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
-- [Lifehacker] [Why &#39;Revenge Cheating&#39; Never Works](https://lifehacker.com/why-revenge-cheating-never-works-1849654175)
-- [Lifehacker] [What You Should Do Now to Prepare for Thanksgiving &lpar;If You&#39;re Anxious&rpar;](https://lifehacker.com/what-you-should-do-now-to-prepare-for-thanksgiving-if-1849654472)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why &#39;Revenge Cheating&#39; Never Works](https://lifehacker.com/why-revenge-cheating-never-works-1849654175)<!-- TECH-POSTS:END -->
 
 ---
 
