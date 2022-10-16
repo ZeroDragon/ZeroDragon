@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Routinejs, An Express inspired blazingly fast Nodejs router](https://dev.to/zulfiqarqureshi/routinejs-an-express-inspired-blazingly-fast-nodejs-router-3hpg)
+- [Dev.to/JS] [iwin medoithuong](https://dev.to/iwinmedoithuong/iwin-medoithuong-295d)
 - [Dev.to/JS] [Why we use single page application frameworks and which framework is best for web development](https://dev.to/theankansaha/why-we-use-single-page-application-frameworks-and-which-framework-is-best-for-web-development-2c3m)
 - [Dev.to/JS] [Automate send email using nodejs](https://dev.to/theankansaha/automate-send-email-using-nodejs-167g)
 - [Dev.to/JS] [Automate instagram with nodejs](https://dev.to/theankansaha/automate-instagram-with-nodejs-c3a)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hacktoberfest as a project maintainer](https://dev.to/ifeanyichima/hacktoberfest-as-a-project-maintainer-3oih)
 - [Dev.to/JS] [How to scrape Google Maps](https://dev.to/darshan0_1/how-to-scrape-google-maps-2a55)
 - [Dev.to/JS] [React Design Pattern -- Container Pattern](https://dev.to/mhdgmal1998/react-design-pattern-container-pattern-o47)
-- [Dev.to/JS] [When Promise.race&lpar;&rpar; wasn&#39;t racing](https://dev.to/karanche97/when-promiserace-wasnt-racing-n0h)
-- [Dev.to/JS] [Features of mongodb Atlas](https://dev.to/theankansaha/features-of-mongodb-atlas-2pai)
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
