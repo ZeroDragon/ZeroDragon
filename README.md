@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [13 steps for perfect Authentication Flow in Backend](https://dev.to/shreyvijayvargiya/13-steps-for-perfect-authentication-flow-in-backend-3ad0)
+- [Dev.to/JS] [Avoid This Mistake When Caching Asynchronous Results](https://dev.to/maximization/avoid-this-mistake-when-caching-asynchronous-results-53jh)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💰.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-39df)
+- [Dev.to/JS] [Form Validation in React using Formik](https://dev.to/daryllukas/form-validation-in-react-using-formik-c2f)
+- [Dev.to/JS] [Building a chat app with Socket.io and React Native 🤯](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
 - [Dev.to/JS] [How to Get Started With React – A Beginner&#39;s Guide Part -2](https://dev.to/rajivchaulagain/how-to-get-started-with-react-a-beginners-guidepart-2-269m)
 - [Dev.to/JS] [Six aspects of PRINCE2](https://dev.to/postwell45/six-aspects-of-prince2-5gk1)
 - [Dev.to/JS] [JavaScript Regex Tip: change &quot;HelloWorldAgain&quot; to &quot;Hello World Again&quot; &lpar;Camelcase to Separate Words&rpar; with Explanation](https://dev.to/brojenuel/javascript-regex-tip-change-helloworldagain-to-hello-world-again-camelcase-to-separate-words-with-explanation-3pjg)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Future Opportunities For Full-Stack Developers In India](https://dev.to/xnaksdn/future-opportunities-for-full-stack-developers-in-india-3lfp)
 - [Dev.to/JS] [Caching in Strapi with REST Cache Plugin](https://dev.to/strapi/caching-in-strapi-with-rest-cache-plugin-4dj1)
 - [Dev.to/JS] [SEO Strategies I Used to Gain 2,000 Users In Two Months](https://dev.to/mariusbongarts/seo-strategies-i-used-to-gain-2000-users-in-two-months-3og1)
-- [Dev.to/JS] [Finding the longest word in a sentence/string &lpar;freecodecampnotes&rpar;](https://dev.to/naveenkolambage/finding-the-longest-word-in-a-sentencestring-freecodecampnotes-1426)
-- [Dev.to/JS] [Spread operator in JavaScript.](https://dev.to/areedev/spread-operator-in-javascript-3mgm)
-- [Dev.to/JS] [Nuxt 3, Apollo GraphQL, TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-3-apollo-graphql-tailwindcss-crash-course-29dc)
-- [Dev.to/JS] [Create Spotify Clone Using HTML CSS &amp; JavaScript](https://dev.to/codingtitan6/create-spotify-clone-using-html-css-javascript-d30)
-- [Dev.to/JS] [How we developed our company website using NextJS](https://dev.to/josemukorivo/how-we-developed-our-company-website-using-nextjs-2ga5)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
