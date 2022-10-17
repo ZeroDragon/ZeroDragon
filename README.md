@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Hide And Show Div In jQuery](https://dev.to/techsolutionstuff/how-to-hide-and-show-div-in-jquery-1id0)
 - [Dev.to/JS] [First blog post](https://dev.to/yukinoyamiko/first-blog-post-13oh)
 - [Dev.to/JS] [How to automate code format on commit](https://dev.to/koich1/how-to-automate-format-your-code-on-commit-acn)
 - [Dev.to/JS] [Javascript begin](https://dev.to/mattiarollo/questo-e-un-nuovo-post-fg)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React, the Humble - Write once, render in Web and Native](https://dev.to/noriller/react-the-humble-write-once-render-in-web-and-native-3eih)
 - [Dev.to/JS] [Javascript Array Slice Method](https://dev.to/smpnjn/javascript-array-slice-method-22kf)
 - [Dev.to/JS] [Script Loading, performance and Next Script](https://dev.to/this-is-learning/script-loading-performance-and-next-script-20d7)
-- [Dev.to/JS] [Making a Birthday webpage that has scroll animation!](https://dev.to/lensco825/making-a-birthday-webpage-that-has-scroll-animation-22od)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
