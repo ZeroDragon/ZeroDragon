@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ng-News: Episode 22/41](https://dev.to/rainerhahnekamp/ng-news-episode-2241-3i84)
+- [Lifehacker] [You Can Track Your Rest Times With Apple Watch Segments](https://lifehacker.com/you-can-track-your-rest-times-with-apple-watch-segments-1849667118)
+- [Dev.to/JS] [Starting out learning to code with flatiron online coding boot-camp.](https://dev.to/jdoud1993/starting-out-learning-to-code-with-flatiron-online-coding-boot-camp-1ndg)
+- [Dev.to/JS] [Fluent UI React Component Lifecycle](https://dev.to/paulgildea/fluent-ui-react-component-lifecycle-29n5)
+- [Dev.to/JS] [.container.jumbotron{h1}Bootstrap dropdown](https://dev.to/olawaletech/containerjumbotronh1bootstrap-dropdown-2754)
+- [Dev.to/JS] [Realtime without Websocket using Server-Sent Events](https://dev.to/aminnairi/realtime-without-websocket-using-server-sent-events-2ee)
+- [Lifehacker] [Five of the Best New Things to Stream in October 2022](https://lifehacker.com/five-of-the-best-new-things-to-stream-in-october-2022-1849667286)
 - [Dev.to/JS] [AWS Cognito &lpar; Facebook log &rpar;. Why token doesn&#39;t have an email?](https://dev.to/jacksonkasi/aws-cognito-facebook-log-why-token-doesnt-have-an-email-48ln)
 - [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
 - [Dev.to/JS] [npm list and npm explain explained](https://dev.to/mihneasim/npm-list-and-npm-explain-explained-58b5)
@@ -34,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)
 - [Dev.to/JS] [DevSearch new version](https://dev.to/theodorewalter/devsearch-new-version-10bb)
 - [Dev.to/JS] [Join the 30 Days of Microsoft Graph Challenge 🦒](https://dev.to/azure/join-the-30-days-of-microsoft-graph-challenge-2imj)
-- [Dev.to/JS] [Hacktoberfest with Ghost: Help bring i18n to our app](https://dev.to/tryghost/hacktoberfest-with-ghost-help-bring-i18n-to-our-app-1a1m)
-- [Dev.to/JS] [Less Than 1% of Programmers Can Spot This Bug…](https://dev.to/leondreamed/less-than-1-of-programmers-can-spot-this-bug-1a6d)
 - [Lifehacker] [Three Easy Ways to Make Your Own No-Sew Window Treatments](https://lifehacker.com/three-easy-ways-to-make-your-own-no-sew-window-treatmen-1849664967)
-- [Dev.to/JS] [Build your App with Appwrite + jQuery](https://dev.to/leonyangela/build-your-app-with-appwrite-jquery-55ij)
 - [Lifehacker] [The 7 Deadly Sins of Taking Your Kid Trick-or-Treating](https://lifehacker.com/the-7-deadly-sins-of-taking-your-kid-trick-or-treating-1849665347)
-- [Dev.to/JS] [Creating Angular Tooltip Directive - Part 2: adding customisation](https://dev.to/accesto/creating-angular-tooltip-directive-part-2-adding-customisation-4o6l)
 - [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)
-- [Dev.to/JS] [XOR color in stacked div ?](https://dev.to/erhie/xor-color-in-stacked-div--2imh)
 - [Lifehacker] [You Can Get PTSD From a Car Accident &lpar;and How to Recover&rpar;](https://lifehacker.com/you-can-get-ptsd-from-a-car-accident-and-how-to-recove-1849656360)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
 - [Lifehacker] [12 Long-Running Podcasts Worth Bingeing Immediately](https://lifehacker.com/12-long-running-podcasts-worth-bingeing-immediately-1849614978)
 - [Lifehacker] [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
-- [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)
-- [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
-- [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)<!-- TECH-POSTS:END -->
 
 ---
 
