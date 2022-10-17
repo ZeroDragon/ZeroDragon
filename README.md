@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Cheesecakes Demand One of These Cookie Crusts](https://lifehacker.com/your-pies-demand-one-of-these-cookie-crusts-1849668246)
+- [Dev.to/JS] [5 Free tailwindcss landing page templates.](https://dev.to/britzdylan/5-free-tailwindcss-landing-page-templates-5de9)
 - [Dev.to/JS] [In 2022 do you really care about Web Sustainability?](https://dev.to/vitalijalbu/in-2022-do-you-really-care-about-web-sustainability-1bgc)
 - [Dev.to/JS] [3 React tips you should know to become a better engineer](https://dev.to/lucasmelo0/3-react-tips-you-should-know-to-become-a-better-engineer-1j20)
 - [Lifehacker] [Do These Things Now to Make Your Ladder Safer and Easier to Use](https://lifehacker.com/do-these-things-now-to-make-your-ladder-safer-and-easie-1849668109)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [npm list and npm explain explained](https://dev.to/mihneasim/npm-list-and-npm-explain-explained-58b5)
 - [Dev.to/JS] [ApostropheCMS Launches Document Versions Tool](https://dev.to/apostrophecms/apostrophecms-launches-document-versions-tool-1dbl)
 - [Lifehacker] [How to Apply for Student Loan Forgiveness Right Now](https://lifehacker.com/how-to-apply-for-student-loan-forgiveness-right-now-1849667092)
-- [Dev.to/JS] [How to make interaction with React.js and Smart-Contract](https://dev.to/carlosjuniordev/how-to-make-interaction-with-reactjs-and-smart-contract-5ff0)
 - [Lifehacker] [Don&#39;t Give These Recalled Similac and Pedialyte Products to Your Kids](https://lifehacker.com/dont-give-these-recalled-similac-and-pedialyte-products-1849666519)
 - [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)
 - [Lifehacker] [Three Easy Ways to Make Your Own No-Sew Window Treatments](https://lifehacker.com/three-easy-ways-to-make-your-own-no-sew-window-treatmen-1849664967)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Ways You Should Be Using Food Scraps in the Kitchen and Around the House](https://lifehacker.com/11-ways-you-should-be-using-food-scraps-in-the-kitchen-1849659704)
 - [Lifehacker] [What to Do Now to Prep Your Car for Winter](https://lifehacker.com/what-to-do-now-to-prep-your-car-for-winter-1849659286)
 - [Lifehacker] [Why You Should Ignore Early &#39;Black Friday&#39; Deals This Year](https://lifehacker.com/why-you-should-ignore-early-black-friday-deals-this-yea-1849648563)
-- [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
-- [Lifehacker] [12 Long-Running Podcasts Worth Bingeing Immediately](https://lifehacker.com/12-long-running-podcasts-worth-bingeing-immediately-1849614978)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)<!-- TECH-POSTS:END -->
 
 ---
 
