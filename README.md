@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Cuánto gana un Frontend Developer en España?](https://dev.to/santiago_f_s/cuanto-gana-un-frontend-developer-en-espana-4a28)
+- [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)
+- [Dev.to/JS] [DevSearch new version](https://dev.to/theodorewalter/devsearch-new-version-10bb)
+- [Dev.to/JS] [Join the 30 Days of Microsoft Graph Challenge 🦒](https://dev.to/azure/join-the-30-days-of-microsoft-graph-challenge-2imj)
 - [Dev.to/JS] [Hacktoberfest with Ghost: Help bring i18n to our app](https://dev.to/tryghost/hacktoberfest-with-ghost-help-bring-i18n-to-our-app-1a1m)
 - [Dev.to/JS] [Less Than 1% of Programmers Can Spot This Bug…](https://dev.to/leondreamed/less-than-1-of-programmers-can-spot-this-bug-1a6d)
 - [Lifehacker] [Three Easy Ways to Make Your Own No-Sew Window Treatments](https://lifehacker.com/three-easy-ways-to-make-your-own-no-sew-window-treatmen-1849664967)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day26 of #100DaysOfCode](https://dev.to/yoot/day26-of-100daysofcode-1cfo)
 - [Dev.to/JS] [JavaScript Slice Method in Depth](https://dev.to/refine/javascript-slice-method-in-depth-2h03)
 - [Dev.to/JS] [React: considerations and references](https://dev.to/falcosan/react-considerations-and-references-36i2)
-- [Dev.to/JS] [13 steps for perfect Authentication Flow in Backend](https://dev.to/shreyvijayvargiya/13-steps-for-perfect-authentication-flow-in-backend-3ad0)
-- [Dev.to/JS] [Avoid This Mistake When Caching Asynchronous Results](https://dev.to/maximization/avoid-this-mistake-when-caching-asynchronous-results-53jh)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💰.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-39df)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)
 - [Lifehacker] [The Many Ways You Can Get Scammed Selling Your Things Online](https://lifehacker.com/the-many-ways-you-can-get-scammed-selling-your-things-o-1849655585)
 - [Lifehacker] [When to See the Orionids Meteor Shower This Month](https://lifehacker.com/when-to-see-the-orionids-meteor-shower-this-month-1849654661)
-- [Lifehacker] [How Life Is Better Without Notifications](https://lifehacker.com/how-life-is-better-without-notifications-1849653045)
-- [Lifehacker] [Make This Easy Halloween Eyeball Cake Using Any Cake Batter](https://lifehacker.com/make-this-easy-halloween-eyeball-cake-using-any-cake-ba-1849645393)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Life Is Better Without Notifications](https://lifehacker.com/how-life-is-better-without-notifications-1849653045)<!-- TECH-POSTS:END -->
 
 ---
 
