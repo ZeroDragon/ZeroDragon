@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Deadly Sins of Taking Your Kid Trick-or-Treating](https://lifehacker.com/the-7-deadly-sins-of-taking-your-kid-trick-or-treating-1849665347)
+- [Dev.to/JS] [Creating Angular Tooltip Directive - Part 2: adding customisation](https://dev.to/accesto/creating-angular-tooltip-directive-part-2-adding-customisation-4o6l)
+- [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)
 - [Dev.to/JS] [XOR color in stacked div ?](https://dev.to/erhie/xor-color-in-stacked-div--2imh)
 - [Dev.to/JS] [Relevant post](https://dev.to/painno/relevant-post-25n2)
 - [Lifehacker] [You Can Get PTSD From a Car Accident &lpar;and How to Recover&rpar;](https://lifehacker.com/you-can-get-ptsd-from-a-car-accident-and-how-to-recove-1849656360)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Form Validation in React using Formik](https://dev.to/daryllukas/form-validation-in-react-using-formik-c2f)
 - [Dev.to/JS] [Building a chat app with Socket.io and React Native 🤯](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
 - [Dev.to/JS] [How to Get Started With React – A Beginner&#39;s Guide Part -2](https://dev.to/rajivchaulagain/how-to-get-started-with-react-a-beginners-guidepart-2-269m)
-- [Dev.to/JS] [Six aspects of PRINCE2](https://dev.to/postwell45/six-aspects-of-prince2-5gk1)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the Orionids Meteor Shower This Month](https://lifehacker.com/when-to-see-the-orionids-meteor-shower-this-month-1849654661)
 - [Lifehacker] [How Life Is Better Without Notifications](https://lifehacker.com/how-life-is-better-without-notifications-1849653045)
 - [Lifehacker] [Make This Easy Halloween Eyeball Cake Using Any Cake Batter](https://lifehacker.com/make-this-easy-halloween-eyeball-cake-using-any-cake-ba-1849645393)
-- [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
-- [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
-- [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)<!-- TECH-POSTS:END -->
 
 ---
 
