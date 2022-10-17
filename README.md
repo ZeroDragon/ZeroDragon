@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Get Started With React – A Beginner&#39;s Guide Part -2](https://dev.to/rajivchaulagain/how-to-get-started-with-react-a-beginners-guidepart-2-269m)
+- [Dev.to/JS] [Six aspects of PRINCE2](https://dev.to/postwell45/six-aspects-of-prince2-5gk1)
 - [Dev.to/JS] [JavaScript Regex Tip: change &quot;HelloWorldAgain&quot; to &quot;Hello World Again&quot; &lpar;Camelcase to Separate Words&rpar; with Explanation](https://dev.to/brojenuel/javascript-regex-tip-change-helloworldagain-to-hello-world-again-camelcase-to-separate-words-with-explanation-3pjg)
 - [Dev.to/JS] [Re-posting For Better Reach : You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/re-posting-for-better-reach-you-are-front-end-developer-this-is-for-you-sample-data-api-42k4)
 - [Dev.to/JS] [Future Opportunities For Full-Stack Developers In India](https://dev.to/xnaksdn/future-opportunities-for-full-stack-developers-in-india-3lfp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nuxt 3, Apollo GraphQL, TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-3-apollo-graphql-tailwindcss-crash-course-29dc)
 - [Dev.to/JS] [Create Spotify Clone Using HTML CSS &amp; JavaScript](https://dev.to/codingtitan6/create-spotify-clone-using-html-css-javascript-d30)
 - [Dev.to/JS] [How we developed our company website using NextJS](https://dev.to/josemukorivo/how-we-developed-our-company-website-using-nextjs-2ga5)
-- [Dev.to/JS] [Making the menu work - part 10](https://dev.to/dailydevtips1/making-the-menu-work-part-10-2i1c)
-- [Dev.to/JS] [Create A Notes App in HTML CSS &amp; JavaScript](https://dev.to/codingtitan6/create-a-notes-app-in-html-css-javascript-fd7)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
