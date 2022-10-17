@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Spread operator in JavaScript.](https://dev.to/areedev/spread-operator-in-javascript-3mgm)
 - [Dev.to/JS] [Nuxt 3, Apollo GraphQL, TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-3-apollo-graphql-tailwindcss-crash-course-29dc)
 - [Dev.to/JS] [Create Spotify Clone Using HTML CSS &amp; JavaScript](https://dev.to/codingtitan6/create-spotify-clone-using-html-css-javascript-d30)
 - [Dev.to/JS] [How we developed our company website using NextJS](https://dev.to/josemukorivo/how-we-developed-our-company-website-using-nextjs-2ga5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Hide And Show Div In jQuery](https://dev.to/techsolutionstuff/how-to-hide-and-show-div-in-jquery-1id0)
 - [Dev.to/JS] [First blog post](https://dev.to/yukinoyamiko/first-blog-post-13oh)
 - [Dev.to/JS] [How to automate code format on commit](https://dev.to/koich1/how-to-automate-format-your-code-on-commit-acn)
-- [Dev.to/JS] [Javascript begin](https://dev.to/mattiarollo/questo-e-un-nuovo-post-fg)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
