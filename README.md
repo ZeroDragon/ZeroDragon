@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hacktoberfest with Ghost: Help bring i18n to our app](https://dev.to/tryghost/hacktoberfest-with-ghost-help-bring-i18n-to-our-app-1a1m)
+- [Dev.to/JS] [Less Than 1% of Programmers Can Spot This Bug…](https://dev.to/leondreamed/less-than-1-of-programmers-can-spot-this-bug-1a6d)
+- [Lifehacker] [Three Easy Ways to Make Your Own No-Sew Window Treatments](https://lifehacker.com/three-easy-ways-to-make-your-own-no-sew-window-treatmen-1849664967)
+- [Dev.to/JS] [Build your App with Appwrite + jQuery](https://dev.to/leonyangela/build-your-app-with-appwrite-jquery-55ij)
 - [Lifehacker] [The 7 Deadly Sins of Taking Your Kid Trick-or-Treating](https://lifehacker.com/the-7-deadly-sins-of-taking-your-kid-trick-or-treating-1849665347)
 - [Dev.to/JS] [Creating Angular Tooltip Directive - Part 2: adding customisation](https://dev.to/accesto/creating-angular-tooltip-directive-part-2-adding-customisation-4o6l)
 - [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [13 steps for perfect Authentication Flow in Backend](https://dev.to/shreyvijayvargiya/13-steps-for-perfect-authentication-flow-in-backend-3ad0)
 - [Dev.to/JS] [Avoid This Mistake When Caching Asynchronous Results](https://dev.to/maximization/avoid-this-mistake-when-caching-asynchronous-results-53jh)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💰.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-39df)
-- [Dev.to/JS] [Form Validation in React using Formik](https://dev.to/daryllukas/form-validation-in-react-using-formik-c2f)
-- [Dev.to/JS] [Building a chat app with Socket.io and React Native 🤯](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
-- [Dev.to/JS] [How to Get Started With React – A Beginner&#39;s Guide Part -2](https://dev.to/rajivchaulagain/how-to-get-started-with-react-a-beginners-guidepart-2-269m)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Many Ways You Can Get Scammed Selling Your Things Online](https://lifehacker.com/the-many-ways-you-can-get-scammed-selling-your-things-o-1849655585)
 - [Lifehacker] [When to See the Orionids Meteor Shower This Month](https://lifehacker.com/when-to-see-the-orionids-meteor-shower-this-month-1849654661)
 - [Lifehacker] [How Life Is Better Without Notifications](https://lifehacker.com/how-life-is-better-without-notifications-1849653045)
-- [Lifehacker] [Make This Easy Halloween Eyeball Cake Using Any Cake Batter](https://lifehacker.com/make-this-easy-halloween-eyeball-cake-using-any-cake-ba-1849645393)
-- [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Easy Halloween Eyeball Cake Using Any Cake Batter](https://lifehacker.com/make-this-easy-halloween-eyeball-cake-using-any-cake-ba-1849645393)<!-- TECH-POSTS:END -->
 
 ---
 
