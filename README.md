@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [XOR color in stacked div ?](https://dev.to/erhie/xor-color-in-stacked-div--2imh)
+- [Dev.to/JS] [Relevant post](https://dev.to/painno/relevant-post-25n2)
+- [Lifehacker] [You Can Get PTSD From a Car Accident &lpar;and How to Recover&rpar;](https://lifehacker.com/you-can-get-ptsd-from-a-car-accident-and-how-to-recove-1849656360)
+- [Dev.to/JS] [Day26 of #100DaysOfCode](https://dev.to/yoot/day26-of-100daysofcode-1cfo)
+- [Dev.to/JS] [JavaScript Slice Method in Depth](https://dev.to/refine/javascript-slice-method-in-depth-2h03)
+- [Dev.to/JS] [React: considerations and references](https://dev.to/falcosan/react-considerations-and-references-36i2)
 - [Dev.to/JS] [13 steps for perfect Authentication Flow in Backend](https://dev.to/shreyvijayvargiya/13-steps-for-perfect-authentication-flow-in-backend-3ad0)
 - [Dev.to/JS] [Avoid This Mistake When Caching Asynchronous Results](https://dev.to/maximization/avoid-this-mistake-when-caching-asynchronous-results-53jh)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💰.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-39df)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a chat app with Socket.io and React Native 🤯](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
 - [Dev.to/JS] [How to Get Started With React – A Beginner&#39;s Guide Part -2](https://dev.to/rajivchaulagain/how-to-get-started-with-react-a-beginners-guidepart-2-269m)
 - [Dev.to/JS] [Six aspects of PRINCE2](https://dev.to/postwell45/six-aspects-of-prince2-5gk1)
-- [Dev.to/JS] [JavaScript Regex Tip: change &quot;HelloWorldAgain&quot; to &quot;Hello World Again&quot; &lpar;Camelcase to Separate Words&rpar; with Explanation](https://dev.to/brojenuel/javascript-regex-tip-change-helloworldagain-to-hello-world-again-camelcase-to-separate-words-with-explanation-3pjg)
-- [Dev.to/JS] [Re-posting For Better Reach : You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/re-posting-for-better-reach-you-are-front-end-developer-this-is-for-you-sample-data-api-42k4)
-- [Dev.to/JS] [Future Opportunities For Full-Stack Developers In India](https://dev.to/xnaksdn/future-opportunities-for-full-stack-developers-in-india-3lfp)
-- [Dev.to/JS] [Caching in Strapi with REST Cache Plugin](https://dev.to/strapi/caching-in-strapi-with-rest-cache-plugin-4dj1)
-- [Dev.to/JS] [SEO Strategies I Used to Gain 2,000 Users In Two Months](https://dev.to/mariusbongarts/seo-strategies-i-used-to-gain-2000-users-in-two-months-3og1)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Easy Halloween Eyeball Cake Using Any Cake Batter](https://lifehacker.com/make-this-easy-halloween-eyeball-cake-using-any-cake-ba-1849645393)
 - [Lifehacker] [Clean and Decorate for Halloween Simultaneously With a ‘Broomba’](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
 - [Lifehacker] [How to Retire in Stages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-stages-and-why-you-should-1849653942)
-- [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)
-- [Lifehacker] [Why &#39;Revenge Cheating&#39; Never Works](https://lifehacker.com/why-revenge-cheating-never-works-1849654175)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is a &#39;Healthy&#39; Cereal, Anyway?](https://lifehacker.com/what-is-a-healthy-cereal-anyway-1849652823)<!-- TECH-POSTS:END -->
 
 ---
 
