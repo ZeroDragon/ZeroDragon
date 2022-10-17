@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Regex Tip: change &quot;HelloWorldAgain&quot; to &quot;Hello World Again&quot; &lpar;Camelcase to Separate Words&rpar; with Explanation](https://dev.to/brojenuel/javascript-regex-tip-change-helloworldagain-to-hello-world-again-camelcase-to-separate-words-with-explanation-3pjg)
+- [Dev.to/JS] [Re-posting For Better Reach : You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/re-posting-for-better-reach-you-are-front-end-developer-this-is-for-you-sample-data-api-42k4)
+- [Dev.to/JS] [Future Opportunities For Full-Stack Developers In India](https://dev.to/xnaksdn/future-opportunities-for-full-stack-developers-in-india-3lfp)
+- [Dev.to/JS] [Caching in Strapi with REST Cache Plugin](https://dev.to/strapi/caching-in-strapi-with-rest-cache-plugin-4dj1)
 - [Dev.to/JS] [SEO Strategies I Used to Gain 2,000 Users In Two Months](https://dev.to/mariusbongarts/seo-strategies-i-used-to-gain-2000-users-in-two-months-3og1)
 - [Dev.to/JS] [Finding the longest word in a sentence/string &lpar;freecodecampnotes&rpar;](https://dev.to/naveenkolambage/finding-the-longest-word-in-a-sentencestring-freecodecampnotes-1426)
 - [Dev.to/JS] [Spread operator in JavaScript.](https://dev.to/areedev/spread-operator-in-javascript-3mgm)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How we developed our company website using NextJS](https://dev.to/josemukorivo/how-we-developed-our-company-website-using-nextjs-2ga5)
 - [Dev.to/JS] [Making the menu work - part 10](https://dev.to/dailydevtips1/making-the-menu-work-part-10-2i1c)
 - [Dev.to/JS] [Create A Notes App in HTML CSS &amp; JavaScript](https://dev.to/codingtitan6/create-a-notes-app-in-html-css-javascript-fd7)
-- [Dev.to/JS] [context is undefined](https://dev.to/yungmiz/context-is-undefined-41eg)
-- [Dev.to/JS] [How to Bootstrap a New Project Using NestJS and React](https://dev.to/jaredm/how-to-bootstrap-your-project-using-nestjs-and-react-1a8e)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-oct-2022-jdk)
-- [Dev.to/JS] [How To Hide And Show Div In jQuery](https://dev.to/techsolutionstuff/how-to-hide-and-show-div-in-jquery-1id0)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
