@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SEO Strategies I Used to Gain 2,000 Users In Two Months](https://dev.to/mariusbongarts/seo-strategies-i-used-to-gain-2000-users-in-two-months-3og1)
+- [Dev.to/JS] [Finding the longest word in a sentence/string &lpar;freecodecampnotes&rpar;](https://dev.to/naveenkolambage/finding-the-longest-word-in-a-sentencestring-freecodecampnotes-1426)
 - [Dev.to/JS] [Spread operator in JavaScript.](https://dev.to/areedev/spread-operator-in-javascript-3mgm)
 - [Dev.to/JS] [Nuxt 3, Apollo GraphQL, TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-3-apollo-graphql-tailwindcss-crash-course-29dc)
 - [Dev.to/JS] [Create Spotify Clone Using HTML CSS &amp; JavaScript](https://dev.to/codingtitan6/create-spotify-clone-using-html-css-javascript-d30)
@@ -30,11 +32,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making the menu work - part 10](https://dev.to/dailydevtips1/making-the-menu-work-part-10-2i1c)
 - [Dev.to/JS] [Create A Notes App in HTML CSS &amp; JavaScript](https://dev.to/codingtitan6/create-a-notes-app-in-html-css-javascript-fd7)
 - [Dev.to/JS] [context is undefined](https://dev.to/yungmiz/context-is-undefined-41eg)
-- [Dev.to/JS] [How to Bootstrap your project using NestJS and React](https://dev.to/jaredm/how-to-bootstrap-your-project-using-nestjs-and-react-1a8e)
+- [Dev.to/JS] [How to Bootstrap a New Project Using NestJS and React](https://dev.to/jaredm/how-to-bootstrap-your-project-using-nestjs-and-react-1a8e)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-oct-2022-jdk)
 - [Dev.to/JS] [How To Hide And Show Div In jQuery](https://dev.to/techsolutionstuff/how-to-hide-and-show-div-in-jquery-1id0)
-- [Dev.to/JS] [First blog post](https://dev.to/yukinoyamiko/first-blog-post-13oh)
-- [Dev.to/JS] [How to automate code format on commit](https://dev.to/koich1/how-to-automate-format-your-code-on-commit-acn)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
