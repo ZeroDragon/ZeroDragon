@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [In 2022 do you really care about Web Sustainability?](https://dev.to/vitalijalbu/in-2022-do-you-really-care-about-web-sustainability-1bgc)
+- [Dev.to/JS] [3 React tips you should know to become a better engineer](https://dev.to/lucasmelo0/3-react-tips-you-should-know-to-become-a-better-engineer-1j20)
+- [Lifehacker] [Do These Things Now to Make Your Ladder Safer and Easier to Use](https://lifehacker.com/do-these-things-now-to-make-your-ladder-safer-and-easie-1849668109)
+- [Lifehacker] [How to Stay Safe When Renting a Room From a Stranger](https://lifehacker.com/how-to-stay-safe-when-renting-a-room-from-a-stranger-1849667148)
+- [Dev.to/JS] [50 Web Development Projects for Beginners - JSAyushThakur](https://dev.to/knowledgefromtwitter/50-web-development-projects-for-beginners-jsayushthakur-1f59)
 - [Dev.to/JS] [Ng-News: Episode 22/41](https://dev.to/rainerhahnekamp/ng-news-episode-2241-3i84)
 - [Lifehacker] [You Can Track Your Rest Times With Apple Watch Segments](https://lifehacker.com/you-can-track-your-rest-times-with-apple-watch-segments-1849667118)
 - [Dev.to/JS] [Starting out learning to code with flatiron online coding boot-camp.](https://dev.to/jdoud1993/starting-out-learning-to-code-with-flatiron-online-coding-boot-camp-1ndg)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Apply for Student Loan Forgiveness Right Now](https://lifehacker.com/how-to-apply-for-student-loan-forgiveness-right-now-1849667092)
 - [Dev.to/JS] [How to make interaction with React.js and Smart-Contract](https://dev.to/carlosjuniordev/how-to-make-interaction-with-reactjs-and-smart-contract-5ff0)
 - [Lifehacker] [Don&#39;t Give These Recalled Similac and Pedialyte Products to Your Kids](https://lifehacker.com/dont-give-these-recalled-similac-and-pedialyte-products-1849666519)
-- [Dev.to/JS] [¿Cuánto gana un Frontend Developer en España?](https://dev.to/santiago_f_s/cuanto-gana-un-frontend-developer-en-espana-4a28)
 - [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)
-- [Dev.to/JS] [DevSearch new version](https://dev.to/theodorewalter/devsearch-new-version-10bb)
-- [Dev.to/JS] [Join the 30 Days of Microsoft Graph Challenge 🦒](https://dev.to/azure/join-the-30-days-of-microsoft-graph-challenge-2imj)
 - [Lifehacker] [Three Easy Ways to Make Your Own No-Sew Window Treatments](https://lifehacker.com/three-easy-ways-to-make-your-own-no-sew-window-treatmen-1849664967)
 - [Lifehacker] [The 7 Deadly Sins of Taking Your Kid Trick-or-Treating](https://lifehacker.com/the-7-deadly-sins-of-taking-your-kid-trick-or-treating-1849665347)
 - [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do Now to Prep Your Car for Winter](https://lifehacker.com/what-to-do-now-to-prep-your-car-for-winter-1849659286)
 - [Lifehacker] [Why You Should Ignore Early &#39;Black Friday&#39; Deals This Year](https://lifehacker.com/why-you-should-ignore-early-black-friday-deals-this-yea-1849648563)
 - [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
-- [Lifehacker] [12 Long-Running Podcasts Worth Bingeing Immediately](https://lifehacker.com/12-long-running-podcasts-worth-bingeing-immediately-1849614978)
-- [Lifehacker] [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
-- [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Long-Running Podcasts Worth Bingeing Immediately](https://lifehacker.com/12-long-running-podcasts-worth-bingeing-immediately-1849614978)<!-- TECH-POSTS:END -->
 
 ---
 
