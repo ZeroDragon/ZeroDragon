@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
+- [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Dev.to/JS] [Advantages and disadvantages of Nuxt.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nuxtjs-13ml)
 - [Dev.to/JS] [Javascript Array Filter Method](https://dev.to/smpnjn/javascript-array-filter-method-28hg)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
 - [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
 - [Lifehacker] [Three Things You Should Do When You Get a New Boss](https://lifehacker.com/three-things-you-should-do-when-you-get-a-new-boss-1849659881)
-- [Lifehacker] [How to Jumpstart a Career in the Trades](https://lifehacker.com/how-to-jumpstart-a-career-in-the-trades-1849658828)
-- [Lifehacker] [11 Ways You Should Be Using Food Scraps in the Kitchen and Around the House](https://lifehacker.com/11-ways-you-should-be-using-food-scraps-in-the-kitchen-1849659704)
-- [Lifehacker] [What to Do Now to Prep Your Car for Winter](https://lifehacker.com/what-to-do-now-to-prep-your-car-for-winter-1849659286)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Jumpstart a Career in the Trades](https://lifehacker.com/how-to-jumpstart-a-career-in-the-trades-1849658828)<!-- TECH-POSTS:END -->
 
 ---
 
