@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to automate code format on commit](https://dev.to/koich1/how-to-automate-format-your-code-on-commit-acn)
+- [Dev.to/JS] [Javascript begin](https://dev.to/mattiarollo/questo-e-un-nuovo-post-fg)
 - [Dev.to/JS] [Access log middleware for Deno Fresh](https://dev.to/khuongduybui/access-log-middleware-for-deno-fresh-3ke7)
 - [Dev.to/JS] [DOM Diffing with diffDOM](https://dev.to/artydev/dom-diffing-with-diffdom-4eml)
 - [Dev.to/JS] [Javascript Array Reduce Method](https://dev.to/smpnjn/javascript-array-reduce-method-3a3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Script Loading, performance and Next Script](https://dev.to/this-is-learning/script-loading-performance-and-next-script-20d7)
 - [Dev.to/JS] [Making a Birthday webpage that has scroll animation!](https://dev.to/lensco825/making-a-birthday-webpage-that-has-scroll-animation-22od)
 - [Dev.to/JS] [Build a Stopwatch With React Native](https://dev.to/codecupdev/build-a-stopwatch-with-react-native-1e0l)
-- [Dev.to/JS] [Serve your data blazingly fast with Sqlite3 and Javascript](https://dev.to/auray/sqlite-performance-480b)
-- [Dev.to/JS] [A11y Unlocked: Screen-Reader Automation Tests](https://dev.to/craigmorten/a11y-unlocked-screen-reader-automation-tests-3mc8)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
