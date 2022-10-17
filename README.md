@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advantages and disadvantages of Nuxt.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nuxtjs-13ml)
+- [Dev.to/JS] [Javascript Array Filter Method](https://dev.to/smpnjn/javascript-array-filter-method-28hg)
+- [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
+- [Dev.to/JS] [Resolution 📍#devlog-0](https://dev.to/theonlyaswin/resolution-devlog-0-fo6)
+- [Lifehacker] [Five Psychological Mind Tricks That Actually Work](https://lifehacker.com/five-psychological-mind-tricks-that-actually-work-1849668352)
 - [Lifehacker] [Your Cheesecakes Demand One of These Cookie Crusts](https://lifehacker.com/your-pies-demand-one-of-these-cookie-crusts-1849668246)
 - [Dev.to/JS] [5 Free tailwindcss landing page templates.](https://dev.to/britzdylan/5-free-tailwindcss-landing-page-templates-5de9)
 - [Dev.to/JS] [In 2022 do you really care about Web Sustainability?](https://dev.to/vitalijalbu/in-2022-do-you-really-care-about-web-sustainability-1bgc)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [.container.jumbotron{h1}Bootstrap dropdown](https://dev.to/olawaletech/containerjumbotronh1bootstrap-dropdown-2754)
 - [Dev.to/JS] [Realtime without Websocket using Server-Sent Events](https://dev.to/aminnairi/realtime-without-websocket-using-server-sent-events-2ee)
 - [Lifehacker] [Five of the Best New Things to Stream in October 2022](https://lifehacker.com/five-of-the-best-new-things-to-stream-in-october-2022-1849667286)
-- [Dev.to/JS] [AWS Cognito &lpar; Facebook log &rpar;. Why token doesn&#39;t have an email?](https://dev.to/jacksonkasi/aws-cognito-facebook-log-why-token-doesnt-have-an-email-48ln)
 - [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
-- [Dev.to/JS] [npm list and npm explain explained](https://dev.to/mihneasim/npm-list-and-npm-explain-explained-58b5)
-- [Dev.to/JS] [ApostropheCMS Launches Document Versions Tool](https://dev.to/apostrophecms/apostrophecms-launches-document-versions-tool-1dbl)
 - [Lifehacker] [How to Apply for Student Loan Forgiveness Right Now](https://lifehacker.com/how-to-apply-for-student-loan-forgiveness-right-now-1849667092)
 - [Lifehacker] [Don&#39;t Give These Recalled Similac and Pedialyte Products to Your Kids](https://lifehacker.com/dont-give-these-recalled-similac-and-pedialyte-products-1849666519)
 - [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Things You Should Do When You Get a New Boss](https://lifehacker.com/three-things-you-should-do-when-you-get-a-new-boss-1849659881)
 - [Lifehacker] [How to Jumpstart a Career in the Trades](https://lifehacker.com/how-to-jumpstart-a-career-in-the-trades-1849658828)
 - [Lifehacker] [11 Ways You Should Be Using Food Scraps in the Kitchen and Around the House](https://lifehacker.com/11-ways-you-should-be-using-food-scraps-in-the-kitchen-1849659704)
-- [Lifehacker] [What to Do Now to Prep Your Car for Winter](https://lifehacker.com/what-to-do-now-to-prep-your-car-for-winter-1849659286)
-- [Lifehacker] [Why You Should Ignore Early &#39;Black Friday&#39; Deals This Year](https://lifehacker.com/why-you-should-ignore-early-black-friday-deals-this-yea-1849648563)
-- [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do Now to Prep Your Car for Winter](https://lifehacker.com/what-to-do-now-to-prep-your-car-for-winter-1849659286)<!-- TECH-POSTS:END -->
 
 ---
 
