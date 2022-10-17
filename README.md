@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AWS Cognito &lpar; Facebook log &rpar;. Why token doesn&#39;t have an email?](https://dev.to/jacksonkasi/aws-cognito-facebook-log-why-token-doesnt-have-an-email-48ln)
+- [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
+- [Dev.to/JS] [npm list and npm explain explained](https://dev.to/mihneasim/npm-list-and-npm-explain-explained-58b5)
+- [Dev.to/JS] [ApostropheCMS Launches Document Versions Tool](https://dev.to/apostrophecms/apostrophecms-launches-document-versions-tool-1dbl)
+- [Lifehacker] [How to Apply for Student Loan Forgiveness Right Now](https://lifehacker.com/how-to-apply-for-student-loan-forgiveness-right-now-1849667092)
+- [Dev.to/JS] [How to make interaction with React.js and Smart-Contract](https://dev.to/carlosjuniordev/how-to-make-interaction-with-reactjs-and-smart-contract-5ff0)
+- [Lifehacker] [Don&#39;t Give These Recalled Similac and Pedialyte Products to Your Kids](https://lifehacker.com/dont-give-these-recalled-similac-and-pedialyte-products-1849666519)
 - [Dev.to/JS] [¿Cuánto gana un Frontend Developer en España?](https://dev.to/santiago_f_s/cuanto-gana-un-frontend-developer-en-espana-4a28)
 - [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)
 - [Dev.to/JS] [DevSearch new version](https://dev.to/theodorewalter/devsearch-new-version-10bb)
@@ -35,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Angular Tooltip Directive - Part 2: adding customisation](https://dev.to/accesto/creating-angular-tooltip-directive-part-2-adding-customisation-4o6l)
 - [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)
 - [Dev.to/JS] [XOR color in stacked div ?](https://dev.to/erhie/xor-color-in-stacked-div--2imh)
-- [Dev.to/JS] [Relevant post](https://dev.to/painno/relevant-post-25n2)
 - [Lifehacker] [You Can Get PTSD From a Car Accident &lpar;and How to Recover&rpar;](https://lifehacker.com/you-can-get-ptsd-from-a-car-accident-and-how-to-recove-1849656360)
-- [Dev.to/JS] [Day26 of #100DaysOfCode](https://dev.to/yoot/day26-of-100daysofcode-1cfo)
-- [Dev.to/JS] [JavaScript Slice Method in Depth](https://dev.to/refine/javascript-slice-method-in-depth-2h03)
-- [Dev.to/JS] [React: considerations and references](https://dev.to/falcosan/react-considerations-and-references-36i2)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Might Actually Want to Subscribe to Netflix With Ads](https://lifehacker.com/why-you-might-actually-want-to-subscribe-to-netflix-wit-1849658102)
 - [Lifehacker] [You Too Can Roast a Whole Fish](https://lifehacker.com/you-too-can-roast-a-whole-fish-1849656039)
 - [Lifehacker] [How to Shop the Best of Goodwill Online](https://lifehacker.com/how-to-shop-the-best-of-goodwill-online-1849655901)
-- [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)
-- [Lifehacker] [The Many Ways You Can Get Scammed Selling Your Things Online](https://lifehacker.com/the-many-ways-you-can-get-scammed-selling-your-things-o-1849655585)
-- [Lifehacker] [When to See the Orionids Meteor Shower This Month](https://lifehacker.com/when-to-see-the-orionids-meteor-shower-this-month-1849654661)
-- [Lifehacker] [How Life Is Better Without Notifications](https://lifehacker.com/how-life-is-better-without-notifications-1849653045)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These &#39;Boundary Phrases&#39; During Uncomfortable Conversations](https://lifehacker.com/use-these-boundary-phrases-during-uncomfortable-convers-1849657838)<!-- TECH-POSTS:END -->
 
 ---
 
