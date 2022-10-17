@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PLAYLIST DO FUTURO...](https://dev.to/medeiroscode/lista-de-estudos-2nb2)
+- [Dev.to/JS] [React: What is it and how does it work](https://dev.to/albericojr/react-what-is-it-and-how-does-it-work-4pd7)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Dev.to/JS] [Advantages and disadvantages of Nuxt.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nuxtjs-13ml)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Track Your Rest Times With Apple Watch Segments](https://lifehacker.com/you-can-track-your-rest-times-with-apple-watch-segments-1849667118)
 - [Dev.to/JS] [Starting out learning to code with flatiron online coding boot-camp.](https://dev.to/jdoud1993/starting-out-learning-to-code-with-flatiron-online-coding-boot-camp-1ndg)
 - [Dev.to/JS] [Fluent UI React Component Lifecycle](https://dev.to/paulgildea/fluent-ui-react-component-lifecycle-29n5)
-- [Dev.to/JS] [.container.jumbotron{h1}Bootstrap dropdown](https://dev.to/olawaletech/containerjumbotronh1bootstrap-dropdown-2754)
-- [Dev.to/JS] [Realtime without Websocket using Server-Sent Events](https://dev.to/aminnairi/realtime-without-websocket-using-server-sent-events-2ee)
 - [Lifehacker] [Five of the Best New Things to Stream in October 2022](https://lifehacker.com/five-of-the-best-new-things-to-stream-in-october-2022-1849667286)
 - [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
 - [Lifehacker] [How to Apply for Student Loan Forgiveness Right Now](https://lifehacker.com/how-to-apply-for-student-loan-forgiveness-right-now-1849667092)
