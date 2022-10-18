@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Chocolate Stains Out of Clothing, Carpet, and Upholstery](https://lifehacker.com/how-to-get-chocolate-stains-out-of-clothing-carpet-an-1849672707)
+- [Dev.to/JS] [Create a Grant Application](https://dev.to/drsimplegraffiti/create-a-grant-application-2015)
+- [Dev.to/JS] [Many-to-Many Associations in Active Record Example](https://dev.to/williamluck/many-to-many-associations-in-active-record-example-285h)
+- [Dev.to/JS] [Redundant re-renders in React](https://dev.to/zelofff/redundant-re-renders-in-react-2bd0)
+- [Lifehacker] [Forget Olivia Wilde, What&#39;s in Your &#39;Special Salad Dressing&#39;?](https://lifehacker.com/forget-olivia-wilde-whats-in-your-special-salad-dressi-1849673100)
+- [Dev.to/JS] [Loopback Framework](https://dev.to/fshinfotech/loopback-framework-5g61)
 - [Dev.to/JS] [Built-In Set Object](https://dev.to/moazamdev/built-in-set-object-4o2c)
 - [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)
 - [Lifehacker] [Apple&#39;s New iPad Pro Is Missing the iPad 10&#39;s Best Feature](https://lifehacker.com/apples-new-ipad-pro-is-missing-the-ipad-10s-best-featur-1849672148)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)
 - [Dev.to/JS] [Get your 1 PR merged for hacktoberfest today! 👀](https://dev.to/souvikrajsingh/get-your-1-pr-merged-for-hacktoberfest-today-gd0)
 - [Dev.to/JS] [Flappy Bird Game Using HTML &amp; JavaScript](https://dev.to/codingtitan6/flappy-bird-game-using-html-javascript-4npm)
-- [Dev.to/JS] [AdonisJS - The full stack Typescript framework](https://dev.to/britzdylan/adonisjs-the-full-stack-typescript-framework-32ef)
 - [Lifehacker] [18 Memorable Times Actors Appeared in Movies After They Died](https://lifehacker.com/18-memorable-times-actors-appeared-in-movies-after-they-1849664459)
-- [Dev.to/JS] [Finally achieved Pure Serverless Environment without Node or React](https://dev.to/rickdelpo1/finally-achieved-pure-serverless-environment-without-node-or-react-42p3)
 - [Lifehacker] [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)
-- [Dev.to/JS] [Why Choose ReactJS for the Ecommerce Website?](https://dev.to/dhavals32773572/why-choose-reactjs-for-the-ecommerce-website-3aa)
-- [Dev.to/JS] [In One Minute : React](https://dev.to/rakeshkr2/in-one-minute-react-548m)
 - [Lifehacker] [Uranus Will Be Huge in November](https://lifehacker.com/uranus-will-be-huge-in-november-1849667607)
 - [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden [Updated]](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Easy Ways to Make Your Own No-Sew Window Treatments](https://lifehacker.com/three-easy-ways-to-make-your-own-no-sew-window-treatmen-1849664967)
 - [Lifehacker] [The 7 Deadly Sins of Taking Your Kid Trick-or-Treating](https://lifehacker.com/the-7-deadly-sins-of-taking-your-kid-trick-or-treating-1849665347)
 - [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)
-- [Lifehacker] [You Can Get PTSD From a Car Accident &lpar;and How to Recover&rpar;](https://lifehacker.com/you-can-get-ptsd-from-a-car-accident-and-how-to-recove-1849656360)
-- [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
-- [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get PTSD From a Car Accident &lpar;and How to Recover&rpar;](https://lifehacker.com/you-can-get-ptsd-from-a-car-accident-and-how-to-recove-1849656360)<!-- TECH-POSTS:END -->
 
 ---
 
