@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Choose ReactJS for the Ecommerce Website?](https://dev.to/dhavals32773572/why-choose-reactjs-for-the-ecommerce-website-3aa)
+- [Dev.to/JS] [In One Minute : React](https://dev.to/rakeshkr2/in-one-minute-react-548m)
+- [Dev.to/JS] [Capture Real-Time Audio And Video With WebRTC](https://dev.to/hr21don/capture-real-time-audio-and-video-with-webrtc-49f8)
+- [Lifehacker] [Uranus Will Be Huge in November](https://lifehacker.com/uranus-will-be-huge-in-november-1849667607)
 - [Dev.to/JS] [Day27 of #100DaysOfCode](https://dev.to/yoot/day27-of-100daysofcode-323j)
 - [Dev.to/JS] [How to configure React JS app on WSL2 Windows 10](https://dev.to/muhammadazfaraslam/how-to-configure-react-js-app-on-wsl2-windows-10-3d1n)
 - [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)
 - [Dev.to/JS] [New to community](https://dev.to/dprincecoder/new-to-community-2393)
 - [Dev.to/JS] [React Query Easy to add Pagination](https://dev.to/shreyvijayvargiya/react-query-easy-to-add-pagination-2ble)
 - [Dev.to/JS] [用 Pusher 製作網站推播 Web Push 功能](https://dev.to/letswrite/yong-pusher-zhi-zuo-wang-zhan-tui-bo-web-push-gong-neng-34oa)
-- [Dev.to/JS] [Github helped me learn JS surprisingly better. Find Out How. 🤯](https://dev.to/thecoolgdev/learning-javascript-by-using-a-github-repo-41kp)
+- [Dev.to/JS] [Github helped me learn JS surprisingly better. Find Out How. 🤯](https://dev.to/thecooldev/learning-javascript-by-using-a-github-repo-41kp)
 - [Dev.to/JS] [Looking for React Material UI iOS custom theming](https://dev.to/vitalijalbu/looking-for-react-material-ui-ios-custom-theming-255a)
 - [Dev.to/JS] [5 Tips on How To Create The Perfect Freelancer Profile](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-564i)
 - [Dev.to/JS] [Text Editors in 2022: Why It&#39;s Still Important for Editing](https://dev.to/ideradevtools/text-editors-in-2022-why-its-still-important-for-editing-1mjb)
-- [Dev.to/JS] [How to Build a Video Game Store with Medusa and Next.js](https://dev.to/medusajs/how-to-build-a-video-game-store-with-medusa-and-nextjs-kem)
-- [Dev.to/JS] [Advanced React Context with Typescript](https://dev.to/weibenfalk/advanced-react-context-with-typescript-2c6o)
-- [Dev.to/JS] [Idpro777 Situs Slot Online Terpercaya Dan Terbaik Sepanjang Masa](https://dev.to/idpro777/idpro777-situs-slot-online-terpercaya-dan-terbaik-sepanjang-masa-3e2e)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
-- [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
-- [Lifehacker] [Three Things You Should Do When You Get a New Boss](https://lifehacker.com/three-things-you-should-do-when-you-get-a-new-boss-1849659881)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)<!-- TECH-POSTS:END -->
 
 ---
 
