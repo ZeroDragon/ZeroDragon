@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Low-Code: The Best Programming Language To Learn?](https://dev.to/domfive/low-code-the-best-programming-language-to-learn-cjn)
+- [Dev.to/JS] [How IntersectionObserver works](https://dev.to/lensco825/how-intersectionobserver-works-3fh9)
+- [Dev.to/JS] [BONUS NEW MEMBER 100% UNTUK SEMUA PERMAINAN SLOT BEBAS BUY SPIN BEBAS KESAMAAN IP](https://dev.to/sriyati773/bonus-new-member-100-untuk-semua-permainan-slot-bebas-buy-spin-bebas-kesamaan-ip-l46)
+- [Dev.to/JS] [What do these words do in your code? const, let, var in Javascript](https://dev.to/yuya0114/what-do-these-words-do-in-your-code-const-let-var-in-javascript-2c7k)
+- [Dev.to/JS] [Build framework-agnostic components with Mitosis](https://dev.to/nickytonline/build-framework-agnostic-components-with-mitosis-4c4k)
 - [Dev.to/JS] [React la guía máxima de buenas prácticas jamás concebida, Principios SOLID, El acrónimo STUPID, Clean Code y Code Smell](https://dev.to/dennysjmarquez/react-la-guia-maxima-de-buenas-practicas-jamas-concebida-principios-solid-el-acronimo-stupid-clean-code-y-code-smell-53l7)
 - [Dev.to/JS] [React Controlled Forms](https://dev.to/albam476/react-controlled-forms-2n0l)
 - [Dev.to/JS] [Capture real-time images and videos with React-Webcam](https://dev.to/asayerio_techblog/capture-real-time-images-and-videos-with-react-webcam-28p3)
@@ -32,14 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Dev.to/JS] [Advantages and disadvantages of Nuxt.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nuxtjs-13ml)
-- [Dev.to/JS] [Javascript Array Filter Method](https://dev.to/smpnjn/javascript-array-filter-method-28hg)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
-- [Dev.to/JS] [Resolution 📍#devlog-0](https://dev.to/theonlyaswin/resolution-devlog-0-fo6)
 - [Lifehacker] [Five Psychological Mind Tricks That Actually Work](https://lifehacker.com/five-psychological-mind-tricks-that-actually-work-1849668352)
 - [Lifehacker] [Your Cheesecakes Demand One of These Cookie Crusts](https://lifehacker.com/your-pies-demand-one-of-these-cookie-crusts-1849668246)
-- [Dev.to/JS] [5 Free tailwindcss landing page templates.](https://dev.to/britzdylan/5-free-tailwindcss-landing-page-templates-5de9)
-- [Dev.to/JS] [In 2022 do you really care about Web Sustainability?](https://dev.to/vitalijalbu/in-2022-do-you-really-care-about-web-sustainability-1bgc)
-- [Dev.to/JS] [3 React tips you should know to become a better engineer](https://dev.to/lucasmelo0/3-react-tips-you-should-know-to-become-a-better-engineer-1j20)
 - [Lifehacker] [Do These Things Now to Make Your Ladder Safer and Easier to Use](https://lifehacker.com/do-these-things-now-to-make-your-ladder-safer-and-easie-1849668109)
 - [Lifehacker] [How to Stay Safe When Renting a Room From a Stranger](https://lifehacker.com/how-to-stay-safe-when-renting-a-room-from-a-stranger-1849667148)
 - [Lifehacker] [You Can Track Your Rest Times With Apple Watch Segments](https://lifehacker.com/you-can-track-your-rest-times-with-apple-watch-segments-1849667118)
