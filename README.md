@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 Fruit Trees You Can Actually Grow Indoors](https://lifehacker.com/12-fruit-trees-you-can-actually-grow-indoors-1849672630)
+- [Lifehacker] [The Best Privacy Features in DuckDuckGo’s New Web Browser](https://lifehacker.com/the-best-privacy-features-in-duckduckgo-s-new-web-brows-1849673422)
+- [Dev.to/JS] [Learn how to use instanceof in JavaScript](https://dev.to/codecupdev/learn-how-to-use-instanceof-in-javascript-3b0i)
+- [Lifehacker] [Three Life Insurance Myths You Should Ignore](https://lifehacker.com/three-life-insurance-myths-you-should-ignore-1849673651)
+- [Dev.to/JS] [Day 0 of Reading React Code](https://dev.to/spacegoblin/day-0-of-react-2kpc)
 - [Dev.to/JS] [Cypress vs Playwright – Clash of the Titans: Setup &lpar;2&rpar;](https://dev.to/zeljkovic/cypress-vs-playwright-clash-of-the-titans-setup-2-4mnh)
 - [Lifehacker] [Beware the Costs of &#39;Lifestyle Creep&#39;](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)
 - [Dev.to/JS] [I made a full-stack and type-safe personal site using the t3-stack &lpar;Next.js&rpar;!](https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Label Your Pill Package So You Never Miss a Dose](https://lifehacker.com/how-to-label-your-pill-package-so-you-never-miss-a-dose-1849671977)
 - [Dev.to/JS] [ANGULAR COMPONENT LIFECYCLE HOOK METHODS YOU SHOULD KNOW](https://dev.to/alphaexcel/angular-component-lifecycle-hook-methods-you-should-know-5aif)
 - [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)
-- [Dev.to/JS] [Multiple Choice Quiz using HTML, CSS &amp; JavaScript](https://dev.to/codingtitan6/multiple-choice-quiz-using-html-css-javascript-3ogk)
-- [Dev.to/JS] [Build a Simple Carousel Slider With JavaScript](https://dev.to/codingtitan6/build-a-simple-carousel-slider-with-javascript-3e97)
 - [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)
 - [Lifehacker] [18 Memorable Times Actors Appeared in Movies After They Died](https://lifehacker.com/18-memorable-times-actors-appeared-in-movies-after-they-1849664459)
 - [Lifehacker] [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
 - [Lifehacker] [How to Apply for Student Loan Forgiveness Right Now](https://lifehacker.com/how-to-apply-for-student-loan-forgiveness-right-now-1849667092)
 - [Lifehacker] [Don&#39;t Give These Recalled Similac and Pedialyte Products to Your Kids](https://lifehacker.com/dont-give-these-recalled-similac-and-pedialyte-products-1849666519)
-- [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)
-- [Lifehacker] [Three Easy Ways to Make Your Own No-Sew Window Treatments](https://lifehacker.com/three-easy-ways-to-make-your-own-no-sew-window-treatmen-1849664967)
-- [Lifehacker] [The 7 Deadly Sins of Taking Your Kid Trick-or-Treating](https://lifehacker.com/the-7-deadly-sins-of-taking-your-kid-trick-or-treating-1849665347)
-- [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)<!-- TECH-POSTS:END -->
 
 ---
 
