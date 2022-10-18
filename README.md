@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
+- [Dev.to/JS] [HacktoberFest: Week 3](https://dev.to/ririio/hacktoberfest-week-3-3990)
+- [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
+- [Dev.to/JS] [Sky Cart: An Open Source, cloud-agnostic shopping cart using Stripe Checkout](https://dev.to/stripe/sky-cart-an-open-source-cloud-agnostic-shopping-cart-using-stripe-checkout-o5k)
 - [Dev.to/JS] [برای یادگیری جاوا اسکریپت از کجا شروع کنم؟](https://dev.to/poolafza/pst-chyst-577)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
 - [Lifehacker] [12 Fruit Trees You Can Actually Grow Indoors](https://lifehacker.com/12-fruit-trees-you-can-actually-grow-indoors-1849672630)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Built-In Set Object](https://dev.to/moazamdev/built-in-set-object-4o2c)
 - [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)
 - [Lifehacker] [Apple&#39;s New iPad Pro Is Missing the iPad 10&#39;s Best Feature](https://lifehacker.com/apples-new-ipad-pro-is-missing-the-ipad-10s-best-featur-1849672148)
-- [Dev.to/JS] [VS Code Jest extension: tackling Debug codelens disappearing act](https://dev.to/nausaf/vs-code-jest-extension-tackling-debug-codelens-disappearing-act-1l98)
-- [Dev.to/JS] [How to Build a Video Player in Vanilla Javascript And HTML5](https://dev.to/paulknulst/how-to-build-a-video-player-in-vanilla-javascript-and-html5-17mg)
 - [Lifehacker] [How to Label Your Pill Package So You Never Miss a Dose](https://lifehacker.com/how-to-label-your-pill-package-so-you-never-miss-a-dose-1849671977)
 - [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)
 - [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stay Safe When Renting a Room From a Stranger](https://lifehacker.com/how-to-stay-safe-when-renting-a-room-from-a-stranger-1849667148)
 - [Lifehacker] [You Can Track Your Rest Times With Apple Watch Segments](https://lifehacker.com/you-can-track-your-rest-times-with-apple-watch-segments-1849667118)
 - [Lifehacker] [Five of the Best New Things to Stream in October 2022](https://lifehacker.com/five-of-the-best-new-things-to-stream-in-october-2022-1849667286)
-- [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
-- [Lifehacker] [How to Apply for Student Loan Forgiveness Right Now](https://lifehacker.com/how-to-apply-for-student-loan-forgiveness-right-now-1849667092)
-- [Lifehacker] [Don&#39;t Give These Recalled Similac and Pedialyte Products to Your Kids](https://lifehacker.com/dont-give-these-recalled-similac-and-pedialyte-products-1849666519)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)<!-- TECH-POSTS:END -->
 
 ---
 
