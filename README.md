@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day27 of #100DaysOfCode](https://dev.to/yoot/day27-of-100daysofcode-323j)
+- [Dev.to/JS] [How to configure React JS app on WSL2 Windows 10](https://dev.to/muhammadazfaraslam/how-to-configure-react-js-app-on-wsl2-windows-10-3d1n)
+- [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)
+- [Dev.to/JS] [New to community](https://dev.to/dprincecoder/new-to-community-2393)
+- [Dev.to/JS] [React Query Easy to add Pagination](https://dev.to/shreyvijayvargiya/react-query-easy-to-add-pagination-2ble)
+- [Dev.to/JS] [用 Pusher 製作網站推播 Web Push 功能](https://dev.to/letswrite/yong-pusher-zhi-zuo-wang-zhan-tui-bo-web-push-gong-neng-34oa)
+- [Dev.to/JS] [Github helped me learn JS surprisingly better. Find Out How. 🤯](https://dev.to/thecoolgdev/learning-javascript-by-using-a-github-repo-41kp)
+- [Dev.to/JS] [Looking for React Material UI iOS custom theming](https://dev.to/vitalijalbu/looking-for-react-material-ui-ios-custom-theming-255a)
 - [Dev.to/JS] [5 Tips on How To Create The Perfect Freelancer Profile](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-564i)
 - [Dev.to/JS] [Text Editors in 2022: Why It&#39;s Still Important for Editing](https://dev.to/ideradevtools/text-editors-in-2022-why-its-still-important-for-editing-1mjb)
 - [Dev.to/JS] [How to Build a Video Game Store with Medusa and Next.js](https://dev.to/medusajs/how-to-build-a-video-game-store-with-medusa-and-nextjs-kem)
 - [Dev.to/JS] [Advanced React Context with Typescript](https://dev.to/weibenfalk/advanced-react-context-with-typescript-2c6o)
 - [Dev.to/JS] [Idpro777 Situs Slot Online Terpercaya Dan Terbaik Sepanjang Masa](https://dev.to/idpro777/idpro777-situs-slot-online-terpercaya-dan-terbaik-sepanjang-masa-3e2e)
-- [Dev.to/JS] [Bun.js - Faster than Node.js](https://dev.to/shreyvijayvargiya/bunjs-faster-than-nodejs-2f2p)
-- [Dev.to/JS] [How to Create a New Astro JS App: Cheatsheet](https://dev.to/askrodney/how-to-create-a-new-astro-js-app-cheatsheet-3feh)
-- [Dev.to/JS] [Promises - async/await VS promise chaining](https://dev.to/georgelinardis/promises-asyncawait-vs-promise-chaining-1p)
-- [Dev.to/JS] [How White Label Cryptocurrency Exchange Software Helps to Start a Crypto Exchange](https://dev.to/mgaaron/how-white-label-cryptocurrency-exchange-software-helps-to-start-a-crypto-exchange-540n)
-- [Dev.to/JS] [I made a tool to make websites&#39; text editable](https://dev.to/victortimsit/i-made-a-tool-to-make-websites-text-editable-2ne3)
-- [Dev.to/JS] [What is CORS?](https://dev.to/jpomykala/what-is-cors-11kf)
-- [Dev.to/JS] [DEİN DİGİ MEISTER](https://dev.to/deindigi/dein-digi-meister-2jbc)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
 - [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
 - [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)
-- [Lifehacker] [Three Things You Should Do When You Get a New Boss](https://lifehacker.com/three-things-you-should-do-when-you-get-a-new-boss-1849659881)
-- [Lifehacker] [How to Jumpstart a Career in the Trades](https://lifehacker.com/how-to-jumpstart-a-career-in-the-trades-1849658828)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Things You Should Do When You Get a New Boss](https://lifehacker.com/three-things-you-should-do-when-you-get-a-new-boss-1849659881)<!-- TECH-POSTS:END -->
 
 ---
 
