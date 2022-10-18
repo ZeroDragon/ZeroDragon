@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Idpro777 Situs Slot Online Terpercaya Dan Terbaik Sepanjang Masa](https://dev.to/idpro777/idpro777-situs-slot-online-terpercaya-dan-terbaik-sepanjang-masa-3e2e)
+- [Dev.to/JS] [Bun.js - Faster than Node.js](https://dev.to/shreyvijayvargiya/bunjs-faster-than-nodejs-2f2p)
 - [Dev.to/JS] [How to Create a New Astro JS App: Cheatsheet](https://dev.to/askrodney/how-to-create-a-new-astro-js-app-cheatsheet-3feh)
 - [Dev.to/JS] [Promises - async/await VS promise chaining](https://dev.to/georgelinardis/promises-asyncawait-vs-promise-chaining-1p)
 - [Dev.to/JS] [How White Label Cryptocurrency Exchange Software Helps to Start a Crypto Exchange](https://dev.to/mgaaron/how-white-label-cryptocurrency-exchange-software-helps-to-start-a-crypto-exchange-540n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn JS by building a stop watch](https://dev.to/tanzirulhuda/learn-js-by-building-a-stop-watch-4k25)
 - [Dev.to/JS] [Fastapi websocket and vue 3 &lpar;Composition APi&rpar;](https://dev.to/siumhossain/basic-fastapi-websocket-and-vue-3-composition-api-1dhb)
 - [Dev.to/JS] [Redux Toolkit](https://dev.to/akshdesai1/redux-toolkit-4pi)
-- [Dev.to/JS] [Making the site responsive - part 11](https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9)
-- [Dev.to/JS] [React-Redux](https://dev.to/akshdesai1/react-redux-gm)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
