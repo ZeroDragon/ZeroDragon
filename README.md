@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React la guía máxima de buenas prácticas jamás concebida, Principios SOLID, El acrónimo STUPID, Clean Code y Code Smell](https://dev.to/dennysjmarquez/react-la-guia-maxima-de-buenas-practicas-jamas-concebida-principios-solid-el-acronimo-stupid-clean-code-y-code-smell-53l7)
+- [Dev.to/JS] [React Controlled Forms](https://dev.to/albam476/react-controlled-forms-2n0l)
+- [Dev.to/JS] [Capture real-time images and videos with React-Webcam](https://dev.to/asayerio_techblog/capture-real-time-images-and-videos-with-react-webcam-28p3)
+- [Dev.to/JS] [JSX In Depth](https://dev.to/neeraj1997dev/jsx-in-depth-1181)
 - [Dev.to/JS] [PLAYLIST DO FUTURO...](https://dev.to/medeiroscode/lista-de-estudos-2nb2)
 - [Dev.to/JS] [React: What is it and how does it work](https://dev.to/albericojr/react-what-is-it-and-how-does-it-work-4pd7)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
@@ -38,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 React tips you should know to become a better engineer](https://dev.to/lucasmelo0/3-react-tips-you-should-know-to-become-a-better-engineer-1j20)
 - [Lifehacker] [Do These Things Now to Make Your Ladder Safer and Easier to Use](https://lifehacker.com/do-these-things-now-to-make-your-ladder-safer-and-easie-1849668109)
 - [Lifehacker] [How to Stay Safe When Renting a Room From a Stranger](https://lifehacker.com/how-to-stay-safe-when-renting-a-room-from-a-stranger-1849667148)
-- [Dev.to/JS] [50 Web Development Projects for Beginners - JSAyushThakur](https://dev.to/knowledgefromtwitter/50-web-development-projects-for-beginners-jsayushthakur-1f59)
-- [Dev.to/JS] [Ng-News: Episode 22/41](https://dev.to/rainerhahnekamp/ng-news-episode-2241-3i84)
 - [Lifehacker] [You Can Track Your Rest Times With Apple Watch Segments](https://lifehacker.com/you-can-track-your-rest-times-with-apple-watch-segments-1849667118)
-- [Dev.to/JS] [Starting out learning to code with flatiron online coding boot-camp.](https://dev.to/jdoud1993/starting-out-learning-to-code-with-flatiron-online-coding-boot-camp-1ndg)
-- [Dev.to/JS] [Fluent UI React Component Lifecycle](https://dev.to/paulgildea/fluent-ui-react-component-lifecycle-29n5)
 - [Lifehacker] [Five of the Best New Things to Stream in October 2022](https://lifehacker.com/five-of-the-best-new-things-to-stream-in-october-2022-1849667286)
 - [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
 - [Lifehacker] [How to Apply for Student Loan Forgiveness Right Now](https://lifehacker.com/how-to-apply-for-student-loan-forgiveness-right-now-1849667092)
