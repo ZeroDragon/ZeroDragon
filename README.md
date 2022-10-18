@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Built-In Set Object](https://dev.to/moazamdev/built-in-set-object-4o2c)
+- [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)
+- [Lifehacker] [Apple&#39;s New iPad Pro Is Missing the iPad 10&#39;s Best Feature](https://lifehacker.com/apples-new-ipad-pro-is-missing-the-ipad-10s-best-featur-1849672148)
+- [Dev.to/JS] [VS Code Jest extension: tackling Debug codelens disappearing act](https://dev.to/nausaf/vs-code-jest-extension-tackling-debug-codelens-disappearing-act-1l98)
+- [Dev.to/JS] [How to Build a Video Player in Vanilla Javascript And HTML5](https://dev.to/paulknulst/how-to-build-a-video-player-in-vanilla-javascript-and-html5-17mg)
 - [Lifehacker] [How to Label Your Pill Package So You Never Miss a Dose](https://lifehacker.com/how-to-label-your-pill-package-so-you-never-miss-a-dose-1849671977)
 - [Dev.to/JS] [ANGULAR COMPONENT LIFECYCLE HOOK METHODS YOU SHOULD KNOW](https://dev.to/alphaexcel/angular-component-lifecycle-hook-methods-you-should-know-5aif)
 - [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)
@@ -37,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)
 - [Dev.to/JS] [Why Choose ReactJS for the Ecommerce Website?](https://dev.to/dhavals32773572/why-choose-reactjs-for-the-ecommerce-website-3aa)
 - [Dev.to/JS] [In One Minute : React](https://dev.to/rakeshkr2/in-one-minute-react-548m)
-- [Dev.to/JS] [Capture Real-Time Audio And Video With WebRTC](https://dev.to/hr21don/capture-real-time-audio-and-video-with-webrtc-49f8)
 - [Lifehacker] [Uranus Will Be Huge in November](https://lifehacker.com/uranus-will-be-huge-in-november-1849667607)
-- [Dev.to/JS] [Day27 of #100DaysOfCode](https://dev.to/yoot/day27-of-100daysofcode-323j)
-- [Dev.to/JS] [How to configure React JS app on WSL2 Windows 10](https://dev.to/muhammadazfaraslam/how-to-configure-react-js-app-on-wsl2-windows-10-3d1n)
-- [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)
+- [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden [Updated]](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)
 - [Lifehacker] [You Can Get PTSD From a Car Accident &lpar;and How to Recover&rpar;](https://lifehacker.com/you-can-get-ptsd-from-a-car-accident-and-how-to-recove-1849656360)
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
-- [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
-- [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
-- [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)<!-- TECH-POSTS:END -->
 
 ---
 
