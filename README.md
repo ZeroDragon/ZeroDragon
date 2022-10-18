@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [برای یادگیری جاوا اسکریپت از کجا شروع کنم؟](https://dev.to/poolafza/pst-chyst-577)
+- [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
 - [Lifehacker] [12 Fruit Trees You Can Actually Grow Indoors](https://lifehacker.com/12-fruit-trees-you-can-actually-grow-indoors-1849672630)
 - [Lifehacker] [The Best Privacy Features in DuckDuckGo’s New Web Browser](https://lifehacker.com/the-best-privacy-features-in-duckduckgo-s-new-web-brows-1849673422)
 - [Dev.to/JS] [Learn how to use instanceof in JavaScript](https://dev.to/codecupdev/learn-how-to-use-instanceof-in-javascript-3b0i)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VS Code Jest extension: tackling Debug codelens disappearing act](https://dev.to/nausaf/vs-code-jest-extension-tackling-debug-codelens-disappearing-act-1l98)
 - [Dev.to/JS] [How to Build a Video Player in Vanilla Javascript And HTML5](https://dev.to/paulknulst/how-to-build-a-video-player-in-vanilla-javascript-and-html5-17mg)
 - [Lifehacker] [How to Label Your Pill Package So You Never Miss a Dose](https://lifehacker.com/how-to-label-your-pill-package-so-you-never-miss-a-dose-1849671977)
-- [Dev.to/JS] [ANGULAR COMPONENT LIFECYCLE HOOK METHODS YOU SHOULD KNOW](https://dev.to/alphaexcel/angular-component-lifecycle-hook-methods-you-should-know-5aif)
 - [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)
 - [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)
 - [Lifehacker] [18 Memorable Times Actors Appeared in Movies After They Died](https://lifehacker.com/18-memorable-times-actors-appeared-in-movies-after-they-1849664459)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five of the Best New Things to Stream in October 2022](https://lifehacker.com/five-of-the-best-new-things-to-stream-in-october-2022-1849667286)
 - [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
 - [Lifehacker] [How to Apply for Student Loan Forgiveness Right Now](https://lifehacker.com/how-to-apply-for-student-loan-forgiveness-right-now-1849667092)
-- [Lifehacker] [Don&#39;t Give These Recalled Similac and Pedialyte Products to Your Kids](https://lifehacker.com/dont-give-these-recalled-similac-and-pedialyte-products-1849666519)
-- [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Give These Recalled Similac and Pedialyte Products to Your Kids](https://lifehacker.com/dont-give-these-recalled-similac-and-pedialyte-products-1849666519)<!-- TECH-POSTS:END -->
 
 ---
 
