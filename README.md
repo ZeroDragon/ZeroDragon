@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Tips on How To Create The Perfect Freelancer Profile](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-564i)
+- [Dev.to/JS] [Text Editors in 2022: Why It&#39;s Still Important for Editing](https://dev.to/ideradevtools/text-editors-in-2022-why-its-still-important-for-editing-1mjb)
+- [Dev.to/JS] [How to Build a Video Game Store with Medusa and Next.js](https://dev.to/medusajs/how-to-build-a-video-game-store-with-medusa-and-nextjs-kem)
+- [Dev.to/JS] [Advanced React Context with Typescript](https://dev.to/weibenfalk/advanced-react-context-with-typescript-2c6o)
 - [Dev.to/JS] [Idpro777 Situs Slot Online Terpercaya Dan Terbaik Sepanjang Masa](https://dev.to/idpro777/idpro777-situs-slot-online-terpercaya-dan-terbaik-sepanjang-masa-3e2e)
 - [Dev.to/JS] [Bun.js - Faster than Node.js](https://dev.to/shreyvijayvargiya/bunjs-faster-than-nodejs-2f2p)
 - [Dev.to/JS] [How to Create a New Astro JS App: Cheatsheet](https://dev.to/askrodney/how-to-create-a-new-astro-js-app-cheatsheet-3feh)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made a tool to make websites&#39; text editable](https://dev.to/victortimsit/i-made-a-tool-to-make-websites-text-editable-2ne3)
 - [Dev.to/JS] [What is CORS?](https://dev.to/jpomykala/what-is-cors-11kf)
 - [Dev.to/JS] [DEİN DİGİ MEISTER](https://dev.to/deindigi/dein-digi-meister-2jbc)
-- [Dev.to/JS] [How to Use Lifecycle Hooks for Audit Logs in Strapi](https://dev.to/strapi/how-to-use-lifecyle-hooks-for-audit-logs-in-strapi-n4e)
-- [Dev.to/JS] [Learn JS by building a stop watch](https://dev.to/tanzirulhuda/learn-js-by-building-a-stop-watch-4k25)
-- [Dev.to/JS] [Fastapi websocket and vue 3 &lpar;Composition APi&rpar;](https://dev.to/siumhossain/basic-fastapi-websocket-and-vue-3-composition-api-1dhb)
-- [Dev.to/JS] [Redux Toolkit](https://dev.to/akshdesai1/redux-toolkit-4pi)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
