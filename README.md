@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A little post on JS loops](https://dev.to/geomukkath/a-little-post-on-js-loops-ki0)
+- [Dev.to/JS] [React: Installation &amp; Setup](https://dev.to/timothyrobards/react-installation-setup-51c9)
+- [Dev.to/JS] [Debounce and Throttle](https://dev.to/catur/debounce-and-throttle-3kel)
 - [Dev.to/JS] [Low-Code: The Best Programming Language To Learn?](https://dev.to/domfive/low-code-the-best-programming-language-to-learn-cjn)
 - [Dev.to/JS] [How IntersectionObserver works](https://dev.to/lensco825/how-intersectionobserver-works-3fh9)
 - [Dev.to/JS] [BONUS NEW MEMBER 100% UNTUK SEMUA PERMAINAN SLOT BEBAS BUY SPIN BEBAS KESAMAAN IP](https://dev.to/sriyati773/bonus-new-member-100-untuk-semua-permainan-slot-bebas-buy-spin-bebas-kesamaan-ip-l46)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Controlled Forms](https://dev.to/albam476/react-controlled-forms-2n0l)
 - [Dev.to/JS] [Capture real-time images and videos with React-Webcam](https://dev.to/asayerio_techblog/capture-real-time-images-and-videos-with-react-webcam-28p3)
 - [Dev.to/JS] [JSX In Depth](https://dev.to/neeraj1997dev/jsx-in-depth-1181)
-- [Dev.to/JS] [PLAYLIST DO FUTURO...](https://dev.to/medeiroscode/lista-de-estudos-2nb2)
-- [Dev.to/JS] [React: What is it and how does it work](https://dev.to/albericojr/react-what-is-it-and-how-does-it-work-4pd7)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
-- [Dev.to/JS] [Advantages and disadvantages of Nuxt.js](https://dev.to/richkurtzman/advantages-and-disadvantages-of-nuxtjs-13ml)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
 - [Lifehacker] [Five Psychological Mind Tricks That Actually Work](https://lifehacker.com/five-psychological-mind-tricks-that-actually-work-1849668352)
 - [Lifehacker] [Your Cheesecakes Demand One of These Cookie Crusts](https://lifehacker.com/your-pies-demand-one-of-these-cookie-crusts-1849668246)
