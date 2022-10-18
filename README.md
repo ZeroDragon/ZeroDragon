@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HacktoberFest: Week 2](https://dev.to/ririio/hacktoberfest-week-2-461n)
 - [Dev.to/JS] [Two Sum IV - Input is a BST](https://dev.to/zeeshanali0704/two-sum-iv-input-is-a-bst-1o3d)
 - [Dev.to/JS] [I made 8 illustrations so your Twitter/Instagram dev post can rock!](https://dev.to/fredysandoval/i-made-8-illustrations-so-your-twitterinstagram-dev-post-can-rock-27ii)
 - [Dev.to/JS] [A little post on JS loops](https://dev.to/geomukkath/a-little-post-on-js-loops-ki0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What do these words do in your code? const, let, var in Javascript](https://dev.to/yuya0114/what-do-these-words-do-in-your-code-const-let-var-in-javascript-2c7k)
 - [Dev.to/JS] [Build framework-agnostic components with Mitosis](https://dev.to/nickytonline/build-framework-agnostic-components-with-mitosis-4c4k)
 - [Dev.to/JS] [React la guía máxima de buenas prácticas jamás concebida, Principios SOLID, El acrónimo STUPID, Clean Code y Code Smell](https://dev.to/dennysjmarquez/react-la-guia-maxima-de-buenas-practicas-jamas-concebida-principios-solid-el-acronimo-stupid-clean-code-y-code-smell-53l7)
-- [Dev.to/JS] [React Controlled Forms](https://dev.to/albam476/react-controlled-forms-2n0l)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
