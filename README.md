@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Label Your Pill Package So You Never Miss a Dose](https://lifehacker.com/how-to-label-your-pill-package-so-you-never-miss-a-dose-1849671977)
+- [Dev.to/JS] [ANGULAR COMPONENT LIFECYCLE HOOK METHODS YOU SHOULD KNOW](https://dev.to/alphaexcel/angular-component-lifecycle-hook-methods-you-should-know-5aif)
+- [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)
+- [Dev.to/JS] [Multiple Choice Quiz using HTML, CSS &amp; JavaScript](https://dev.to/codingtitan6/multiple-choice-quiz-using-html-css-javascript-3ogk)
+- [Dev.to/JS] [Build a Simple Carousel Slider With JavaScript](https://dev.to/codingtitan6/build-a-simple-carousel-slider-with-javascript-3e97)
+- [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)
 - [Dev.to/JS] [Get your 1 PR merged for hacktoberfest today! 👀](https://dev.to/souvikrajsingh/get-your-1-pr-merged-for-hacktoberfest-today-gd0)
 - [Dev.to/JS] [Flappy Bird Game Using HTML &amp; JavaScript](https://dev.to/codingtitan6/flappy-bird-game-using-html-javascript-4npm)
 - [Dev.to/JS] [AdonisJS - The full stack Typescript framework](https://dev.to/britzdylan/adonisjs-the-full-stack-typescript-framework-32ef)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day27 of #100DaysOfCode](https://dev.to/yoot/day27-of-100daysofcode-323j)
 - [Dev.to/JS] [How to configure React JS app on WSL2 Windows 10](https://dev.to/muhammadazfaraslam/how-to-configure-react-js-app-on-wsl2-windows-10-3d1n)
 - [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)
-- [Dev.to/JS] [New to community](https://dev.to/dprincecoder/new-to-community-2393)
-- [Dev.to/JS] [React Query Easy to add Pagination](https://dev.to/shreyvijayvargiya/react-query-easy-to-add-pagination-2ble)
-- [Dev.to/JS] [用 Pusher 製作網站推播 Web Push 功能](https://dev.to/letswrite/yong-pusher-zhi-zuo-wang-zhan-tui-bo-web-push-gong-neng-34oa)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Declutter Your Home When Downsizing](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
 - [Lifehacker] [How to Stop Stewing About Something](https://lifehacker.com/how-to-stop-stewing-about-something-1849662660)
 - [Lifehacker] [How to Get Blood Stains Out of Clothing](https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672)
-- [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
-- [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
-- [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)<!-- TECH-POSTS:END -->
 
 ---
 
