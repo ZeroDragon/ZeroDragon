@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get your 1 PR merged for hacktoberfest today! 👀](https://dev.to/souvikrajsingh/get-your-1-pr-merged-for-hacktoberfest-today-gd0)
+- [Dev.to/JS] [Flappy Bird Game Using HTML &amp; JavaScript](https://dev.to/codingtitan6/flappy-bird-game-using-html-javascript-4npm)
+- [Dev.to/JS] [AdonisJS - The full stack Typescript framework](https://dev.to/britzdylan/adonisjs-the-full-stack-typescript-framework-32ef)
+- [Lifehacker] [18 Memorable Times Actors Appeared in Movies After They Died](https://lifehacker.com/18-memorable-times-actors-appeared-in-movies-after-they-1849664459)
+- [Dev.to/JS] [Finally achieved Pure Serverless Environment without Node or React](https://dev.to/rickdelpo1/finally-achieved-pure-serverless-environment-without-node-or-react-42p3)
+- [Lifehacker] [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)
 - [Dev.to/JS] [Why Choose ReactJS for the Ecommerce Website?](https://dev.to/dhavals32773572/why-choose-reactjs-for-the-ecommerce-website-3aa)
 - [Dev.to/JS] [In One Minute : React](https://dev.to/rakeshkr2/in-one-minute-react-548m)
 - [Dev.to/JS] [Capture Real-Time Audio And Video With WebRTC](https://dev.to/hr21don/capture-real-time-audio-and-video-with-webrtc-49f8)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New to community](https://dev.to/dprincecoder/new-to-community-2393)
 - [Dev.to/JS] [React Query Easy to add Pagination](https://dev.to/shreyvijayvargiya/react-query-easy-to-add-pagination-2ble)
 - [Dev.to/JS] [用 Pusher 製作網站推播 Web Push 功能](https://dev.to/letswrite/yong-pusher-zhi-zuo-wang-zhan-tui-bo-web-push-gong-neng-34oa)
-- [Dev.to/JS] [Github helped me learn JS surprisingly better. Find Out How. 🤯](https://dev.to/thecooldev/learning-javascript-by-using-a-github-repo-41kp)
-- [Dev.to/JS] [Looking for React Material UI iOS custom theming](https://dev.to/vitalijalbu/looking-for-react-material-ui-ios-custom-theming-255a)
-- [Dev.to/JS] [5 Tips on How To Create The Perfect Freelancer Profile](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-564i)
-- [Dev.to/JS] [Text Editors in 2022: Why It&#39;s Still Important for Editing](https://dev.to/ideradevtools/text-editors-in-2022-why-its-still-important-for-editing-1mjb)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Involve Teens in Basic Family Caregiving &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
 - [Lifehacker] [Use the &#39;Spotlight Technique&#39; to Stop a Cycle of Worry and Anxiety](https://lifehacker.com/use-the-spotlight-technique-to-stop-a-cycle-of-worry-an-1849662342)
 - [Lifehacker] [How to Reduce Your Chances of Hitting a Deer](https://lifehacker.com/how-to-reduce-your-chances-of-hitting-a-deer-1849661336)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
-- [Lifehacker] [Your Air Fryer May Have Been Recalled](https://lifehacker.com/your-air-fryer-may-have-been-recalled-1849660626)
-- [Lifehacker] [You Need to Do This Before Switching to Your New Pixel 7](https://lifehacker.com/you-need-to-do-this-before-switching-to-your-new-pixel-1849658486)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What the Hell is &#39;Don&#39;t Hug Me I&#39;m Scared?&#39;](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)<!-- TECH-POSTS:END -->
 
 ---
 
