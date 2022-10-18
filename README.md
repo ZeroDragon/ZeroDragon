@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fastapi websocket and vue 3 &lpar;Composition APi&rpar;](https://dev.to/siumhossain/basic-fastapi-websocket-and-vue-3-composition-api-1dhb)
+- [Dev.to/JS] [Redux Toolkit](https://dev.to/akshdesai1/redux-toolkit-4pi)
 - [Dev.to/JS] [Making the site responsive - part 11](https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9)
 - [Dev.to/JS] [React-Redux](https://dev.to/akshdesai1/react-redux-gm)
 - [Dev.to/JS] [HacktoberFest: Week 2](https://dev.to/ririio/hacktoberfest-week-2-461n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debounce and Throttle](https://dev.to/catur/debounce-and-throttle-3kel)
 - [Dev.to/JS] [Low-Code: The Best Programming Language To Learn?](https://dev.to/domfive/low-code-the-best-programming-language-to-learn-cjn)
 - [Dev.to/JS] [How IntersectionObserver works](https://dev.to/lensco825/how-intersectionobserver-works-3fh9)
-- [Dev.to/JS] [BONUS NEW MEMBER 100% UNTUK SEMUA PERMAINAN SLOT BEBAS BUY SPIN BEBAS KESAMAAN IP](https://dev.to/sriyati773/bonus-new-member-100-untuk-semua-permainan-slot-bebas-buy-spin-bebas-kesamaan-ip-l46)
-- [Dev.to/JS] [What do these words do in your code? const, let, var in Javascript](https://dev.to/yuya0114/what-do-these-words-do-in-your-code-const-let-var-in-javascript-2c7k)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
