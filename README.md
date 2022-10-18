@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cypress vs Playwright – Clash of the Titans: Setup &lpar;2&rpar;](https://dev.to/zeljkovic/cypress-vs-playwright-clash-of-the-titans-setup-2-4mnh)
+- [Lifehacker] [Beware the Costs of &#39;Lifestyle Creep&#39;](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)
+- [Dev.to/JS] [I made a full-stack and type-safe personal site using the t3-stack &lpar;Next.js&rpar;!](https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d)
 - [Lifehacker] [How to Get Chocolate Stains Out of Clothing, Carpet, and Upholstery](https://lifehacker.com/how-to-get-chocolate-stains-out-of-clothing-carpet-an-1849672707)
 - [Dev.to/JS] [Create a Grant Application](https://dev.to/drsimplegraffiti/create-a-grant-application-2015)
 - [Dev.to/JS] [Many-to-Many Associations in Active Record Example](https://dev.to/williamluck/many-to-many-associations-in-active-record-example-285h)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multiple Choice Quiz using HTML, CSS &amp; JavaScript](https://dev.to/codingtitan6/multiple-choice-quiz-using-html-css-javascript-3ogk)
 - [Dev.to/JS] [Build a Simple Carousel Slider With JavaScript](https://dev.to/codingtitan6/build-a-simple-carousel-slider-with-javascript-3e97)
 - [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)
-- [Dev.to/JS] [Get your 1 PR merged for hacktoberfest today! 👀](https://dev.to/souvikrajsingh/get-your-1-pr-merged-for-hacktoberfest-today-gd0)
-- [Dev.to/JS] [Flappy Bird Game Using HTML &amp; JavaScript](https://dev.to/codingtitan6/flappy-bird-game-using-html-javascript-4npm)
 - [Lifehacker] [18 Memorable Times Actors Appeared in Movies After They Died](https://lifehacker.com/18-memorable-times-actors-appeared-in-movies-after-they-1849664459)
 - [Lifehacker] [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)
 - [Lifehacker] [Uranus Will Be Huge in November](https://lifehacker.com/uranus-will-be-huge-in-november-1849667607)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These E-bikes From Amazon and Walmart Have Been Recalled](https://lifehacker.com/these-e-bikes-from-amazon-and-walmart-have-been-recalle-1849666901)
 - [Lifehacker] [Three Easy Ways to Make Your Own No-Sew Window Treatments](https://lifehacker.com/three-easy-ways-to-make-your-own-no-sew-window-treatmen-1849664967)
 - [Lifehacker] [The 7 Deadly Sins of Taking Your Kid Trick-or-Treating](https://lifehacker.com/the-7-deadly-sins-of-taking-your-kid-trick-or-treating-1849665347)
-- [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)
-- [Lifehacker] [You Can Get PTSD From a Car Accident &lpar;and How to Recover&rpar;](https://lifehacker.com/you-can-get-ptsd-from-a-car-accident-and-how-to-recove-1849656360)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Keep Your Cake From Drying Out](https://lifehacker.com/the-easiest-way-to-keep-your-cake-from-drying-out-1849659394)<!-- TECH-POSTS:END -->
 
 ---
 
