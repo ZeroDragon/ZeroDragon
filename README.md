@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I fixed the most hideous bug I&#39;ve encountered so far.](https://dev.to/paoloricciuti/how-i-fixed-the-most-hideous-bug-ive-encountered-so-far-2n6d)
+- [Dev.to/JS] [How to make your site multi-language using locale](https://dev.to/asterki/how-to-make-your-site-multi-language-using-locale-480k)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Dev.to/JS] [HacktoberFest: Week 3](https://dev.to/ririio/hacktoberfest-week-3-3990)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Many-to-Many Associations in Active Record Example](https://dev.to/williamluck/many-to-many-associations-in-active-record-example-285h)
 - [Dev.to/JS] [Redundant re-renders in React](https://dev.to/zelofff/redundant-re-renders-in-react-2bd0)
 - [Lifehacker] [Forget Olivia Wilde, What&#39;s in Your &#39;Special Salad Dressing&#39;?](https://lifehacker.com/forget-olivia-wilde-whats-in-your-special-salad-dressi-1849673100)
-- [Dev.to/JS] [Loopback Framework](https://dev.to/fshinfotech/loopback-framework-5g61)
-- [Dev.to/JS] [Built-In Set Object](https://dev.to/moazamdev/built-in-set-object-4o2c)
 - [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)
 - [Lifehacker] [Apple&#39;s New iPad Pro Is Missing the iPad 10&#39;s Best Feature](https://lifehacker.com/apples-new-ipad-pro-is-missing-the-ipad-10s-best-featur-1849672148)
 - [Lifehacker] [How to Label Your Pill Package So You Never Miss a Dose](https://lifehacker.com/how-to-label-your-pill-package-so-you-never-miss-a-dose-1849671977)
