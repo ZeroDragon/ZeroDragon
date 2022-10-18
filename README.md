@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making the site responsive - part 11](https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9)
+- [Dev.to/JS] [React-Redux](https://dev.to/akshdesai1/react-redux-gm)
 - [Dev.to/JS] [HacktoberFest: Week 2](https://dev.to/ririio/hacktoberfest-week-2-461n)
 - [Dev.to/JS] [Two Sum IV - Input is a BST](https://dev.to/zeeshanali0704/two-sum-iv-input-is-a-bst-1o3d)
 - [Dev.to/JS] [I made 8 illustrations so your Twitter/Instagram dev post can rock!](https://dev.to/fredysandoval/i-made-8-illustrations-so-your-twitterinstagram-dev-post-can-rock-27ii)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How IntersectionObserver works](https://dev.to/lensco825/how-intersectionobserver-works-3fh9)
 - [Dev.to/JS] [BONUS NEW MEMBER 100% UNTUK SEMUA PERMAINAN SLOT BEBAS BUY SPIN BEBAS KESAMAAN IP](https://dev.to/sriyati773/bonus-new-member-100-untuk-semua-permainan-slot-bebas-buy-spin-bebas-kesamaan-ip-l46)
 - [Dev.to/JS] [What do these words do in your code? const, let, var in Javascript](https://dev.to/yuya0114/what-do-these-words-do-in-your-code-const-let-var-in-javascript-2c7k)
-- [Dev.to/JS] [Build framework-agnostic components with Mitosis](https://dev.to/nickytonline/build-framework-agnostic-components-with-mitosis-4c4k)
-- [Dev.to/JS] [React la guía máxima de buenas prácticas jamás concebida, Principios SOLID, El acrónimo STUPID, Clean Code y Code Smell](https://dev.to/dennysjmarquez/react-la-guia-maxima-de-buenas-practicas-jamas-concebida-principios-solid-el-acronimo-stupid-clean-code-y-code-smell-53l7)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
