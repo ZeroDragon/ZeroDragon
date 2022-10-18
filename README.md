@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DEİN DİGİ MEISTER](https://dev.to/deindigi/dein-digi-meister-2jbc)
+- [Dev.to/JS] [How to Use Lifecycle Hooks for Audit Logs in Strapi](https://dev.to/strapi/how-to-use-lifecyle-hooks-for-audit-logs-in-strapi-n4e)
+- [Dev.to/JS] [Learn JS by building a stop watch](https://dev.to/tanzirulhuda/learn-js-by-building-a-stop-watch-4k25)
 - [Dev.to/JS] [Fastapi websocket and vue 3 &lpar;Composition APi&rpar;](https://dev.to/siumhossain/basic-fastapi-websocket-and-vue-3-composition-api-1dhb)
 - [Dev.to/JS] [Redux Toolkit](https://dev.to/akshdesai1/redux-toolkit-4pi)
 - [Dev.to/JS] [Making the site responsive - part 11](https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made 8 illustrations so your Twitter/Instagram dev post can rock!](https://dev.to/fredysandoval/i-made-8-illustrations-so-your-twitterinstagram-dev-post-can-rock-27ii)
 - [Dev.to/JS] [A little post on JS loops](https://dev.to/geomukkath/a-little-post-on-js-loops-ki0)
 - [Dev.to/JS] [React: Installation &amp; Setup](https://dev.to/timothyrobards/react-installation-setup-51c9)
-- [Dev.to/JS] [Debounce and Throttle](https://dev.to/catur/debounce-and-throttle-3kel)
-- [Dev.to/JS] [Low-Code: The Best Programming Language To Learn?](https://dev.to/domfive/low-code-the-best-programming-language-to-learn-cjn)
-- [Dev.to/JS] [How IntersectionObserver works](https://dev.to/lensco825/how-intersectionobserver-works-3fh9)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
