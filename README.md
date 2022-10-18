@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a New Astro JS App: Cheatsheet](https://dev.to/askrodney/how-to-create-a-new-astro-js-app-cheatsheet-3feh)
+- [Dev.to/JS] [Promises - async/await VS promise chaining](https://dev.to/georgelinardis/promises-asyncawait-vs-promise-chaining-1p)
+- [Dev.to/JS] [How White Label Cryptocurrency Exchange Software Helps to Start a Crypto Exchange](https://dev.to/mgaaron/how-white-label-cryptocurrency-exchange-software-helps-to-start-a-crypto-exchange-540n)
+- [Dev.to/JS] [I made a tool to make websites&#39; text editable](https://dev.to/victortimsit/i-made-a-tool-to-make-websites-text-editable-2ne3)
+- [Dev.to/JS] [What is CORS?](https://dev.to/jpomykala/what-is-cors-11kf)
 - [Dev.to/JS] [DEİN DİGİ MEISTER](https://dev.to/deindigi/dein-digi-meister-2jbc)
 - [Dev.to/JS] [How to Use Lifecycle Hooks for Audit Logs in Strapi](https://dev.to/strapi/how-to-use-lifecyle-hooks-for-audit-logs-in-strapi-n4e)
 - [Dev.to/JS] [Learn JS by building a stop watch](https://dev.to/tanzirulhuda/learn-js-by-building-a-stop-watch-4k25)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux Toolkit](https://dev.to/akshdesai1/redux-toolkit-4pi)
 - [Dev.to/JS] [Making the site responsive - part 11](https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9)
 - [Dev.to/JS] [React-Redux](https://dev.to/akshdesai1/react-redux-gm)
-- [Dev.to/JS] [HacktoberFest: Week 2](https://dev.to/ririio/hacktoberfest-week-2-461n)
-- [Dev.to/JS] [Two Sum IV - Input is a BST](https://dev.to/zeeshanali0704/two-sum-iv-input-is-a-bst-1o3d)
-- [Dev.to/JS] [I made 8 illustrations so your Twitter/Instagram dev post can rock!](https://dev.to/fredysandoval/i-made-8-illustrations-so-your-twitterinstagram-dev-post-can-rock-27ii)
-- [Dev.to/JS] [A little post on JS loops](https://dev.to/geomukkath/a-little-post-on-js-loops-ki0)
-- [Dev.to/JS] [React: Installation &amp; Setup](https://dev.to/timothyrobards/react-installation-setup-51c9)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
