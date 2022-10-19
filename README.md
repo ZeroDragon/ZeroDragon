@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [We&#39;ve passed a 10 PR milestone to our repo during HacktoberFest](https://dev.to/wasp/weve-passed-a-10-pr-milestone-to-our-repo-during-hacktoberfest-2nhj)
+- [Dev.to/JS] [Upload a fil with JS Fetch API](https://dev.to/theankansaha/upload-a-fil-with-js-fetch-api-6nd)
 - [Dev.to/JS] [Hey, I&#39;m new to here](https://dev.to/dunnostrong/hey-im-new-to-here-263n)
 - [Dev.to/JS] [How to Create a Refresh Token Feature in your Strapi Application](https://dev.to/strapi/how-to-create-a-refresh-token-feature-in-your-strapi-application-360m)
 - [Dev.to/JS] [How to find the version of an installed npm package?](https://dev.to/bobbyiliev/how-to-find-the-version-of-an-installed-npm-package-3hfh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closer look at Tolgee](https://dev.to/patilganesh1010/closer-look-at-tolgee-5b91)
 - [Dev.to/JS] [Artlabs built their AR product using Strapi in one month](https://dev.to/strapi/artlabs-built-their-ar-product-using-strapi-in-one-month-3617)
 - [Dev.to/JS] [A little bit of knowledge about ReactJS.](https://dev.to/tusar78/a-little-bit-of-knowledge-about-reactjs-16jo)
-- [Dev.to/JS] [Skincell Pro - Read Reviews, Benefits, Price, Scam &amp; Does It Works?](https://dev.to/skincellprofac2/skincell-pro-read-reviews-benefits-price-scam-does-it-works-mc1)
-- [Dev.to/JS] [Free Resource to Learn Javascript- JSAyushThakur](https://dev.to/knowledgefromtwitter/free-resource-to-learn-javascript-jsayushthakur-2bgb)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
