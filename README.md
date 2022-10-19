@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
+- [Dev.to/JS] [Angular 10 | MEAN, Google auth, JWT, Lazyload, upload de archivos, Guards, Pipes, Zona admin, dashboard y mucho más.](https://dev.to/dennysjmarquez/angular-10-mean-google-auth-jwt-lazyload-upload-de-archivos-guards-pipes-zona-admin-dashboard-y-mucho-mas-gi4)
+- [Dev.to/JS] [8 illustrations to make Twitter/Instagram dev post rock!](https://dev.to/fredysandoval/8-illustrations-to-make-twitterinstagram-dev-post-rock-4863)
+- [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
+- [Dev.to/JS] [Managing Your Distributed Node.js Application Environment and Configuration](https://dev.to/yugabyte/managing-your-distributed-nodejs-application-environment-and-configuration-236c)
+- [Dev.to/JS] [PayStack Split Payment Integration in Laravel](https://dev.to/adeleyeayodeji/paystack-split-payment-integration-in-laravel-2kii)
+- [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
 - [Lifehacker] [Who Should &lpar;and Shouldn’t&rpar; Sell Their Home Right Now](https://lifehacker.com/who-should-and-shouldn-t-sell-their-home-right-now-1849674461)
 - [Lifehacker] [Three Ways to Modernize an Outdated Bathroom &lpar;Without Doing Major Renovations&rpar;](https://lifehacker.com/three-ways-to-modernize-an-outdated-bathroom-without-d-1849678150)
 - [Lifehacker] [Someone Built a 4D Minecraft Clone](https://lifehacker.com/someone-built-a-4d-minecraft-clone-1849677485)
@@ -46,10 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)
 - [Lifehacker] [How to Plan a &lpar;Relatively&rpar; Cheap Thanksgiving](https://lifehacker.com/how-to-plan-a-relatively-cheap-thanksgiving-1849673643)
 - [Lifehacker] [Avoid These Mistakes That Can Void Your Homeowner’s Insurance Policy](https://lifehacker.com/avoid-these-mistakes-that-can-void-your-homeowner-s-ins-1849672874)
-- [Dev.to/JS] [⭐Build A Feature Rich Crypto Screener App with React JS + Tailwind CSS](https://dev.to/codebucks/build-a-feature-rich-crypto-screener-app-with-react-js-tailwind-css-2i3c)
-- [Dev.to/JS] [New Website, Who Dis?](https://dev.to/arisamiga/new-website-who-dis-27p8)
-- [Dev.to/JS] [How it went my Booking.com coding interview?](https://dev.to/msmello_/how-it-went-my-bookingcom-coding-interview-26d9)
-- [Dev.to/JS] [React optimization: useMemo&lpar;&rpar; , React.memo&lpar;&rpar; &amp; useCallback&lpar;&rpar;](https://dev.to/moadel/usememo-reactmemo-usecallback-4c49)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beware the Costs of &#39;Lifestyle Creep&#39;](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)
 - [Lifehacker] [How to Get Chocolate Stains Out of Clothing, Carpet, and Upholstery](https://lifehacker.com/how-to-get-chocolate-stains-out-of-clothing-carpet-an-1849672707)
 - [Lifehacker] [Forget Olivia Wilde, What&#39;s in Your &#39;Special Salad Dressing&#39;?](https://lifehacker.com/forget-olivia-wilde-whats-in-your-special-salad-dressi-1849673100)
-- [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)
-- [Lifehacker] [Apple&#39;s New iPad Pro Is Missing the iPad 10&#39;s Best Feature](https://lifehacker.com/apples-new-ipad-pro-is-missing-the-ipad-10s-best-featur-1849672148)
-- [Lifehacker] [How to Label Your Pill Package So You Never Miss a Dose](https://lifehacker.com/how-to-label-your-pill-package-so-you-never-miss-a-dose-1849671977)
-- [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)<!-- TECH-POSTS:END -->
 
 ---
 
