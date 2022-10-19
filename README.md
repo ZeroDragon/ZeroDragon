@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid These Mistakes That Can Void Your Homeowner’s Insurance Policy](https://lifehacker.com/avoid-these-mistakes-that-can-void-your-homeowner-s-ins-1849672874)
+- [Dev.to/JS] [⭐Build A Feature Rich Crypto Screener App with React JS + Tailwind CSS](https://dev.to/codebucks/build-a-feature-rich-crypto-screener-app-with-react-js-tailwind-css-2i3c)
+- [Dev.to/JS] [New Website, Who Dis?](https://dev.to/arisamiga/new-website-who-dis-27p8)
 - [Dev.to/JS] [How it went my Booking.com coding interview?](https://dev.to/msmello_/how-it-went-my-bookingcom-coding-interview-26d9)
 - [Dev.to/JS] [React optimization: useMemo&lpar;&rpar; , React.memo&lpar;&rpar; &amp; useCallback&lpar;&rpar;](https://dev.to/moadel/usememo-reactmemo-usecallback-4c49)
 - [Dev.to/JS] [Difference between find&lpar;&rpar; and filter&lpar;&rpar; methods in Javascript ?](https://dev.to/zaryabkhalid/difference-between-find-and-filter-methods-in-javascript--2bbj)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a Refresh Token Feature in your Strapi Application](https://dev.to/strapi/how-to-create-a-refresh-token-feature-in-your-strapi-application-360m)
 - [Dev.to/JS] [How to find the version of an installed npm package?](https://dev.to/bobbyiliev/how-to-find-the-version-of-an-installed-npm-package-3hfh)
 - [Dev.to/JS] [Debug Your JavaScript and TypeScript Files in VSCode](https://dev.to/zirkelc/debug-your-javascript-and-typescript-files-in-vscode-aja)
-- [Dev.to/JS] [How to Use Filters with Arrays](https://dev.to/tanzirulhuda/how-to-use-filters-with-arrays-pd8)
-- [Dev.to/JS] [The components of a browser](https://dev.to/huytaquoc/the-components-of-a-browser-23mn)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Things Now to Make Your Ladder Safer and Easier to Use](https://lifehacker.com/do-these-things-now-to-make-your-ladder-safer-and-easie-1849668109)
 - [Lifehacker] [How to Stay Safe When Renting a Room From a Stranger](https://lifehacker.com/how-to-stay-safe-when-renting-a-room-from-a-stranger-1849667148)
 - [Lifehacker] [You Can Track Your Rest Times With Apple Watch Segments](https://lifehacker.com/you-can-track-your-rest-times-with-apple-watch-segments-1849667118)
-- [Lifehacker] [Five of the Best New Things to Stream in October 2022](https://lifehacker.com/five-of-the-best-new-things-to-stream-in-october-2022-1849667286)
-- [Lifehacker] [Do These Three Things to Prolong Your Jack-o-Lantern&#39;s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five of the Best New Things to Stream in October 2022](https://lifehacker.com/five-of-the-best-new-things-to-stream-in-october-2022-1849667286)<!-- TECH-POSTS:END -->
 
 ---
 
