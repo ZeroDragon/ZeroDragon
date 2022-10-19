@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lowest Common Ancestor of a Binary Search Tree](https://dev.to/zeeshanali0704/lowest-common-ancestor-of-a-binary-search-tree-21kn)
 - [Dev.to/JS] [LCA of Binary Tree](https://dev.to/zeeshanali0704/lca-of-binary-tree-3nb5)
 - [Dev.to/JS] [Loading local markdown blog posts - part 12](https://dev.to/dailydevtips1/loading-local-markdown-blog-posts-part-12-221g)
 - [Dev.to/JS] [Page Navigation between two pages in Xamarin.Forms](https://dev.to/ifourtechnolab/page-navigation-between-two-pages-in-xamarinforms-7af)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pruebas Unitarias y de integración &lpar;Unit testing&rpar; en Angular](https://dev.to/dennysjmarquez/pruebas-unitarias-y-de-integracion-unit-testing-en-angular-4p6p)
 - [Dev.to/JS] [TDD en NodeJS, guía de tests con Jest, inyección de dependencias, test unitarios, y test de integración con superTest](https://dev.to/dennysjmarquez/tdd-en-nodejs-guia-de-tests-con-jest-inyeccion-de-dependencias-test-unitarios-y-test-de-integracion-con-supertest-2fcb)
 - [Dev.to/JS] [Element Vs Component in React js](https://dev.to/neeraj1997dev/element-vs-component-in-react-js-15bg)
-- [Dev.to/JS] [How I fixed the most hideous bug I&#39;ve encountered so far.](https://dev.to/paoloricciuti/how-i-fixed-the-most-hideous-bug-ive-encountered-so-far-2n6d)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
