@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Who Should &lpar;and Shouldn’t&rpar; Sell Their Home Right Now](https://lifehacker.com/who-should-and-shouldn-t-sell-their-home-right-now-1849674461)
 - [Lifehacker] [Three Ways to Modernize an Outdated Bathroom &lpar;Without Doing Major Renovations&rpar;](https://lifehacker.com/three-ways-to-modernize-an-outdated-bathroom-without-d-1849678150)
 - [Lifehacker] [Someone Built a 4D Minecraft Clone](https://lifehacker.com/someone-built-a-4d-minecraft-clone-1849677485)
 - [Lifehacker] [You Can Still Get a Refund for Your Recalled Peloton Treadmill](https://lifehacker.com/you-can-still-get-a-refund-for-your-recalled-peloton-tr-1849677624)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)
 - [Lifehacker] [Apple&#39;s New iPad Pro Is Missing the iPad 10&#39;s Best Feature](https://lifehacker.com/apples-new-ipad-pro-is-missing-the-ipad-10s-best-featur-1849672148)
 - [Lifehacker] [How to Label Your Pill Package So You Never Miss a Dose](https://lifehacker.com/how-to-label-your-pill-package-so-you-never-miss-a-dose-1849671977)
-- [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)
-- [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)<!-- TECH-POSTS:END -->
 
 ---
 
