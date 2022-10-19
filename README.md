@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep Your Old House Warm and Cozy This Winter](https://lifehacker.com/how-to-keep-your-old-house-warm-and-cozy-this-winter-1849676940)
+- [Lifehacker] [15 Horror Movies Based on True Events &lpar;More or Less&rpar;](https://lifehacker.com/15-horror-movies-based-on-true-events-more-or-less-1849675670)
+- [Dev.to/JS] [Javascript object reference and how to compare objects by values](https://dev.to/mohamedcaliph/javascript-object-reference-and-how-to-compare-objects-by-values-em1)
 - [Lifehacker] [Make These Three-Ingredient Nutella Mummy Tarts](https://lifehacker.com/make-these-three-ingredient-nutella-mummy-tarts-1849645447)
 - [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)
 - [Dev.to/JS] [How Engineering managers can improve onboarding for new developers](https://dev.to/surajondev/how-engineering-managers-can-improve-onboarding-for-new-developers-10a0)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Upload a fil with JS Fetch API](https://dev.to/theankansaha/upload-a-fil-with-js-fetch-api-6nd)
 - [Dev.to/JS] [Hey, I&#39;m new to here](https://dev.to/dunnostrong/hey-im-new-to-here-263n)
 - [Dev.to/JS] [How to Create a Refresh Token Feature in your Strapi Application](https://dev.to/strapi/how-to-create-a-refresh-token-feature-in-your-strapi-application-360m)
-- [Dev.to/JS] [How to find the version of an installed npm package?](https://dev.to/bobbyiliev/how-to-find-the-version-of-an-installed-npm-package-3hfh)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
 - [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
 - [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
-- [Lifehacker] [Five Psychological Mind Tricks That Actually Work](https://lifehacker.com/five-psychological-mind-tricks-that-actually-work-1849668352)
-- [Lifehacker] [Your Cheesecakes Demand One of These Cookie Crusts](https://lifehacker.com/your-pies-demand-one-of-these-cookie-crusts-1849668246)
-- [Lifehacker] [Do These Things Now to Make Your Ladder Safer and Easier to Use](https://lifehacker.com/do-these-things-now-to-make-your-ladder-safer-and-easie-1849668109)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Psychological Mind Tricks That Actually Work](https://lifehacker.com/five-psychological-mind-tricks-that-actually-work-1849668352)<!-- TECH-POSTS:END -->
 
 ---
 
