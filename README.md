@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Darken Your Bedroom &lpar;That Aren&#39;t a Blackout Curtain&rpar;](https://lifehacker.com/the-best-ways-to-darken-your-bedroom-that-arent-a-blac-1849674342)
+- [Lifehacker] [This Tomato Tart Is a Fitting Monument to Your Last Summer Tomato](https://lifehacker.com/this-tomato-tart-is-a-fitting-monument-to-your-last-sum-1849669446)
+- [Dev.to/JS] [Writing completely offline web apps](https://dev.to/cubiclesocial/writing-completely-offline-web-apps-5e56)
+- [Dev.to/JS] [You&#39;ve been structuring files in projects wrong](https://dev.to/richardbray/youve-been-structuring-files-in-projects-wrong-1985)
 - [Lifehacker] [How to Keep Your Old House Warm and Cozy This Winter](https://lifehacker.com/how-to-keep-your-old-house-warm-and-cozy-this-winter-1849676940)
 - [Lifehacker] [15 Horror Movies Based on True Events &lpar;More or Less&rpar;](https://lifehacker.com/15-horror-movies-based-on-true-events-more-or-less-1849675670)
 - [Dev.to/JS] [Javascript object reference and how to compare objects by values](https://dev.to/mohamedcaliph/javascript-object-reference-and-how-to-compare-objects-by-values-em1)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do you improve?](https://dev.to/alessandro_prencipe/how-do-you-improve-517f)
 - [Dev.to/JS] [We&#39;ve passed a 10 PR milestone to our repo during HacktoberFest](https://dev.to/wasp/weve-passed-a-10-pr-milestone-to-our-repo-during-hacktoberfest-2nhj)
 - [Dev.to/JS] [Upload a fil with JS Fetch API](https://dev.to/theankansaha/upload-a-fil-with-js-fetch-api-6nd)
-- [Dev.to/JS] [Hey, I&#39;m new to here](https://dev.to/dunnostrong/hey-im-new-to-here-263n)
-- [Dev.to/JS] [How to Create a Refresh Token Feature in your Strapi Application](https://dev.to/strapi/how-to-create-a-refresh-token-feature-in-your-strapi-application-360m)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Uranus Will Be Huge in November](https://lifehacker.com/uranus-will-be-huge-in-november-1849667607)
 - [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden [Updated]](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)
 - [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
-- [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)
-- [Lifehacker] [Five Clever Ways to Organize the Odds and Ends in Your Kitchen](https://lifehacker.com/five-clever-ways-to-organize-the-odds-and-ends-in-your-1849665135)
-- [Lifehacker] [Five Psychological Mind Tricks That Actually Work](https://lifehacker.com/five-psychological-mind-tricks-that-actually-work-1849668352)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)<!-- TECH-POSTS:END -->
 
 ---
 
