@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LCA of Binary Tree](https://dev.to/zeeshanali0704/lca-of-binary-tree-3nb5)
+- [Dev.to/JS] [Loading local markdown blog posts - part 12](https://dev.to/dailydevtips1/loading-local-markdown-blog-posts-part-12-221g)
+- [Dev.to/JS] [Page Navigation between two pages in Xamarin.Forms](https://dev.to/ifourtechnolab/page-navigation-between-two-pages-in-xamarinforms-7af)
 - [Dev.to/JS] [Diameter of Binary Tree](https://dev.to/zeeshanali0704/diameter-of-binary-tree-1m4k)
 - [Dev.to/JS] [Installation process python and pycharm](https://dev.to/iyaminrtg/installation-process-python-and-pycharm-41g3)
 - [Dev.to/JS] [An error occurred when trying to authenticate to the FCM servers](https://dev.to/codarbind/an-error-occurred-when-trying-to-authenticate-to-the-fcm-servers-2g3)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TDD en NodeJS, guía de tests con Jest, inyección de dependencias, test unitarios, y test de integración con superTest](https://dev.to/dennysjmarquez/tdd-en-nodejs-guia-de-tests-con-jest-inyeccion-de-dependencias-test-unitarios-y-test-de-integracion-con-supertest-2fcb)
 - [Dev.to/JS] [Element Vs Component in React js](https://dev.to/neeraj1997dev/element-vs-component-in-react-js-15bg)
 - [Dev.to/JS] [How I fixed the most hideous bug I&#39;ve encountered so far.](https://dev.to/paoloricciuti/how-i-fixed-the-most-hideous-bug-ive-encountered-so-far-2n6d)
-- [Dev.to/JS] [How to make your site multi-language using locale](https://dev.to/asterki/how-to-make-your-site-multi-language-using-locale-480k)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
-- [Dev.to/JS] [HacktoberFest: Week 3](https://dev.to/ririio/hacktoberfest-week-3-3990)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
-- [Dev.to/JS] [Sky Cart: An Open Source, cloud-agnostic shopping cart using Stripe Checkout](https://dev.to/stripe/sky-cart-an-open-source-cloud-agnostic-shopping-cart-using-stripe-checkout-o5k)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
 - [Lifehacker] [12 Fruit Trees You Can Actually Grow Indoors](https://lifehacker.com/12-fruit-trees-you-can-actually-grow-indoors-1849672630)
 - [Lifehacker] [The Best Privacy Features in DuckDuckGo’s New Web Browser](https://lifehacker.com/the-best-privacy-features-in-duckduckgo-s-new-web-brows-1849673422)
