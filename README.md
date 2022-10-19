@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tips for better and readable conditionals in JS](https://dev.to/schemetastic/tips-for-better-and-readable-conditionals-in-js-6a)
+- [Dev.to/JS] [10/18/2022](https://dev.to/yukinoyamiko/10182022-533a)
 - [Dev.to/JS] [Pruebas Unitarias y de integración &lpar;Unit testing&rpar; en Angular](https://dev.to/dennysjmarquez/pruebas-unitarias-y-de-integracion-unit-testing-en-angular-4p6p)
 - [Dev.to/JS] [TDD en NodeJS, guía de tests con Jest, inyección de dependencias, test unitarios, y test de integración con superTest](https://dev.to/dennysjmarquez/tdd-en-nodejs-guia-de-tests-con-jest-inyeccion-de-dependencias-test-unitarios-y-test-de-integracion-con-supertest-2fcb)
 - [Dev.to/JS] [Element Vs Component in React js](https://dev.to/neeraj1997dev/element-vs-component-in-react-js-15bg)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn how to use instanceof in JavaScript](https://dev.to/codecupdev/learn-how-to-use-instanceof-in-javascript-3b0i)
 - [Lifehacker] [Three Life Insurance Myths You Should Ignore](https://lifehacker.com/three-life-insurance-myths-you-should-ignore-1849673651)
 - [Dev.to/JS] [Day 0 of Reading React Code](https://dev.to/spacegoblin/day-0-of-react-2kpc)
-- [Dev.to/JS] [Cypress vs Playwright – Clash of the Titans: Setup &lpar;2&rpar;](https://dev.to/zeljkovic/cypress-vs-playwright-clash-of-the-titans-setup-2-4mnh)
 - [Lifehacker] [Beware the Costs of &#39;Lifestyle Creep&#39;](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)
-- [Dev.to/JS] [I made a full-stack and type-safe personal site using the t3-stack &lpar;Next.js&rpar;!](https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d)
 - [Lifehacker] [How to Get Chocolate Stains Out of Clothing, Carpet, and Upholstery](https://lifehacker.com/how-to-get-chocolate-stains-out-of-clothing-carpet-an-1849672707)
 - [Lifehacker] [Forget Olivia Wilde, What&#39;s in Your &#39;Special Salad Dressing&#39;?](https://lifehacker.com/forget-olivia-wilde-whats-in-your-special-salad-dressi-1849673100)
 - [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)
