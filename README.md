@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How it went my Booking.com coding interview?](https://dev.to/msmello_/how-it-went-my-bookingcom-coding-interview-26d9)
+- [Dev.to/JS] [React optimization: useMemo&lpar;&rpar; , React.memo&lpar;&rpar; &amp; useCallback&lpar;&rpar;](https://dev.to/moadel/usememo-reactmemo-usecallback-4c49)
+- [Dev.to/JS] [Difference between find&lpar;&rpar; and filter&lpar;&rpar; methods in Javascript ?](https://dev.to/zaryabkhalid/difference-between-find-and-filter-methods-in-javascript--2bbj)
+- [Dev.to/JS] [How do you improve?](https://dev.to/alessandro_prencipe/how-do-you-improve-517f)
 - [Dev.to/JS] [We&#39;ve passed a 10 PR milestone to our repo during HacktoberFest](https://dev.to/wasp/weve-passed-a-10-pr-milestone-to-our-repo-during-hacktoberfest-2nhj)
 - [Dev.to/JS] [Upload a fil with JS Fetch API](https://dev.to/theankansaha/upload-a-fil-with-js-fetch-api-6nd)
 - [Dev.to/JS] [Hey, I&#39;m new to here](https://dev.to/dunnostrong/hey-im-new-to-here-263n)
 - [Dev.to/JS] [How to Create a Refresh Token Feature in your Strapi Application](https://dev.to/strapi/how-to-create-a-refresh-token-feature-in-your-strapi-application-360m)
 - [Dev.to/JS] [How to find the version of an installed npm package?](https://dev.to/bobbyiliev/how-to-find-the-version-of-an-installed-npm-package-3hfh)
 - [Dev.to/JS] [Debug Your JavaScript and TypeScript Files in VSCode](https://dev.to/zirkelc/debug-your-javascript-and-typescript-files-in-vscode-aja)
+- [Dev.to/JS] [How to Use Filters with Arrays](https://dev.to/tanzirulhuda/how-to-use-filters-with-arrays-pd8)
 - [Dev.to/JS] [The components of a browser](https://dev.to/huytaquoc/the-components-of-a-browser-23mn)
-- [Dev.to/JS] [DASHBOARD](https://dev.to/devs0ft/dashboard-42i7)
-- [Dev.to/JS] [How to use formData Web API to collect form data](https://dev.to/naveenkolambage/how-to-use-formdata-web-api-to-collect-form-data-329m)
-- [Dev.to/JS] [Closer look at Tolgee](https://dev.to/patilganesh1010/closer-look-at-tolgee-5b91)
-- [Dev.to/JS] [Artlabs built their AR product using Strapi in one month](https://dev.to/strapi/artlabs-built-their-ar-product-using-strapi-in-one-month-3617)
-- [Dev.to/JS] [A little bit of knowledge about ReactJS.](https://dev.to/tusar78/a-little-bit-of-knowledge-about-reactjs-16jo)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
