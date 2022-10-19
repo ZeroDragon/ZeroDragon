@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Diameter of Binary Tree](https://dev.to/zeeshanali0704/diameter-of-binary-tree-1m4k)
+- [Dev.to/JS] [Installation process python and pycharm](https://dev.to/iyaminrtg/installation-process-python-and-pycharm-41g3)
+- [Dev.to/JS] [An error occurred when trying to authenticate to the FCM servers](https://dev.to/codarbind/an-error-occurred-when-trying-to-authenticate-to-the-fcm-servers-2g3)
 - [Dev.to/JS] [Tips for better and readable conditionals in JS](https://dev.to/schemetastic/tips-for-better-and-readable-conditionals-in-js-6a)
 - [Dev.to/JS] [10/18/2022](https://dev.to/yukinoyamiko/10182022-533a)
 - [Dev.to/JS] [Pruebas Unitarias y de integración &lpar;Unit testing&rpar; en Angular](https://dev.to/dennysjmarquez/pruebas-unitarias-y-de-integracion-unit-testing-en-angular-4p6p)
@@ -34,13 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HacktoberFest: Week 3](https://dev.to/ririio/hacktoberfest-week-3-3990)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Dev.to/JS] [Sky Cart: An Open Source, cloud-agnostic shopping cart using Stripe Checkout](https://dev.to/stripe/sky-cart-an-open-source-cloud-agnostic-shopping-cart-using-stripe-checkout-o5k)
-- [Dev.to/JS] [برای یادگیری جاوا اسکریپت از کجا شروع کنم؟](https://dev.to/poolafza/pst-chyst-577)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
 - [Lifehacker] [12 Fruit Trees You Can Actually Grow Indoors](https://lifehacker.com/12-fruit-trees-you-can-actually-grow-indoors-1849672630)
 - [Lifehacker] [The Best Privacy Features in DuckDuckGo’s New Web Browser](https://lifehacker.com/the-best-privacy-features-in-duckduckgo-s-new-web-brows-1849673422)
-- [Dev.to/JS] [Learn how to use instanceof in JavaScript](https://dev.to/codecupdev/learn-how-to-use-instanceof-in-javascript-3b0i)
 - [Lifehacker] [Three Life Insurance Myths You Should Ignore](https://lifehacker.com/three-life-insurance-myths-you-should-ignore-1849673651)
-- [Dev.to/JS] [Day 0 of Reading React Code](https://dev.to/spacegoblin/day-0-of-react-2kpc)
 - [Lifehacker] [Beware the Costs of &#39;Lifestyle Creep&#39;](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)
 - [Lifehacker] [How to Get Chocolate Stains Out of Clothing, Carpet, and Upholstery](https://lifehacker.com/how-to-get-chocolate-stains-out-of-clothing-carpet-an-1849672707)
 - [Lifehacker] [Forget Olivia Wilde, What&#39;s in Your &#39;Special Salad Dressing&#39;?](https://lifehacker.com/forget-olivia-wilde-whats-in-your-special-salad-dressi-1849673100)
