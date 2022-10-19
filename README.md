@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Ways to Modernize an Outdated Bathroom &lpar;Without Doing Major Renovations&rpar;](https://lifehacker.com/three-ways-to-modernize-an-outdated-bathroom-without-d-1849678150)
+- [Lifehacker] [Someone Built a 4D Minecraft Clone](https://lifehacker.com/someone-built-a-4d-minecraft-clone-1849677485)
 - [Lifehacker] [You Can Still Get a Refund for Your Recalled Peloton Treadmill](https://lifehacker.com/you-can-still-get-a-refund-for-your-recalled-peloton-tr-1849677624)
 - [Dev.to/JS] [The Vibration API in JavaScript](https://dev.to/amitavmishra99/the-vibration-api-in-javascript-3dbl)
 - [Dev.to/JS] [I Created an 🤯 Online Multiplayer Game 🎮 in ReactJS and Python](https://dev.to/rajeshj3/i-created-an-online-multiplayer-game-in-reactjs-and-python-544o)
@@ -41,12 +43,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript object reference and how to compare objects by values](https://dev.to/mohamedcaliph/javascript-object-reference-and-how-to-compare-objects-by-values-em1)
 - [Lifehacker] [Make These Three-Ingredient Nutella Mummy Tarts](https://lifehacker.com/make-these-three-ingredient-nutella-mummy-tarts-1849645447)
 - [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)
-- [Dev.to/JS] [How Engineering managers can improve onboarding for new developers](https://dev.to/surajondev/how-engineering-managers-can-improve-onboarding-for-new-developers-10a0)
 - [Lifehacker] [How to Plan a &lpar;Relatively&rpar; Cheap Thanksgiving](https://lifehacker.com/how-to-plan-a-relatively-cheap-thanksgiving-1849673643)
 - [Lifehacker] [Avoid These Mistakes That Can Void Your Homeowner’s Insurance Policy](https://lifehacker.com/avoid-these-mistakes-that-can-void-your-homeowner-s-ins-1849672874)
 - [Dev.to/JS] [⭐Build A Feature Rich Crypto Screener App with React JS + Tailwind CSS](https://dev.to/codebucks/build-a-feature-rich-crypto-screener-app-with-react-js-tailwind-css-2i3c)
 - [Dev.to/JS] [New Website, Who Dis?](https://dev.to/arisamiga/new-website-who-dis-27p8)
 - [Dev.to/JS] [How it went my Booking.com coding interview?](https://dev.to/msmello_/how-it-went-my-bookingcom-coding-interview-26d9)
+- [Dev.to/JS] [React optimization: useMemo&lpar;&rpar; , React.memo&lpar;&rpar; &amp; useCallback&lpar;&rpar;](https://dev.to/moadel/usememo-reactmemo-usecallback-4c49)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple&#39;s New iPad Pro Is Missing the iPad 10&#39;s Best Feature](https://lifehacker.com/apples-new-ipad-pro-is-missing-the-ipad-10s-best-featur-1849672148)
 - [Lifehacker] [How to Label Your Pill Package So You Never Miss a Dose](https://lifehacker.com/how-to-label-your-pill-package-so-you-never-miss-a-dose-1849671977)
 - [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)
-- [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)
-- [Lifehacker] [18 Memorable Times Actors Appeared in Movies After They Died](https://lifehacker.com/18-memorable-times-actors-appeared-in-movies-after-they-1849664459)
-- [Lifehacker] [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)<!-- TECH-POSTS:END -->
 
 ---
 
