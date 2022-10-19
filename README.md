@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Still Get a Refund for Your Recalled Peloton Treadmill](https://lifehacker.com/you-can-still-get-a-refund-for-your-recalled-peloton-tr-1849677624)
+- [Dev.to/JS] [The Vibration API in JavaScript](https://dev.to/amitavmishra99/the-vibration-api-in-javascript-3dbl)
+- [Dev.to/JS] [I Created an 🤯 Online Multiplayer Game 🎮 in ReactJS and Python](https://dev.to/rajeshj3/i-created-an-online-multiplayer-game-in-reactjs-and-python-544o)
+- [Lifehacker] [Don&#39;t Let the Kids Kiss Your Pet Lizard](https://lifehacker.com/dont-let-the-kids-kiss-your-pet-lizard-1849677874)
 - [Lifehacker] [How Figure Out Your Post-Forgiveness Student Loan Payment](https://lifehacker.com/how-figure-out-your-post-forgiveness-student-loan-payme-1849676837)
 - [Dev.to/JS] [React Optimizing Compiler &lpar;without memo&rpar;](https://dev.to/chandramarch18/react-optimizing-compiler-without-memo-1n3o)
 - [Dev.to/JS] [How do JavaScript closures work?](https://dev.to/neeraj1997dev/how-do-javascript-closures-work-47jk)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⭐Build A Feature Rich Crypto Screener App with React JS + Tailwind CSS](https://dev.to/codebucks/build-a-feature-rich-crypto-screener-app-with-react-js-tailwind-css-2i3c)
 - [Dev.to/JS] [New Website, Who Dis?](https://dev.to/arisamiga/new-website-who-dis-27p8)
 - [Dev.to/JS] [How it went my Booking.com coding interview?](https://dev.to/msmello_/how-it-went-my-bookingcom-coding-interview-26d9)
-- [Dev.to/JS] [React optimization: useMemo&lpar;&rpar; , React.memo&lpar;&rpar; &amp; useCallback&lpar;&rpar;](https://dev.to/moadel/usememo-reactmemo-usecallback-4c49)
-- [Dev.to/JS] [Difference between find&lpar;&rpar; and filter&lpar;&rpar; methods in Javascript ?](https://dev.to/zaryabkhalid/difference-between-find-and-filter-methods-in-javascript--2bbj)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When To Choose Saving Over Investing](https://lifehacker.com/when-to-choose-saving-over-investing-1849671926)
 - [Lifehacker] [This Is How Much You Can Really Make As a Dog Walker](https://lifehacker.com/this-is-how-much-you-can-really-make-as-a-dog-walker-1849671945)
 - [Lifehacker] [18 Memorable Times Actors Appeared in Movies After They Died](https://lifehacker.com/18-memorable-times-actors-appeared-in-movies-after-they-1849664459)
-- [Lifehacker] [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)
-- [Lifehacker] [Uranus Will Be Huge in November](https://lifehacker.com/uranus-will-be-huge-in-november-1849667607)
-- [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden [Updated]](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)<!-- TECH-POSTS:END -->
 
 ---
 
