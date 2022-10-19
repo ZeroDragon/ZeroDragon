@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Figure Out Your Post-Forgiveness Student Loan Payment](https://lifehacker.com/how-figure-out-your-post-forgiveness-student-loan-payme-1849676837)
+- [Dev.to/JS] [React Optimizing Compiler &lpar;without memo&rpar;](https://dev.to/chandramarch18/react-optimizing-compiler-without-memo-1n3o)
+- [Dev.to/JS] [How do JavaScript closures work?](https://dev.to/neeraj1997dev/how-do-javascript-closures-work-47jk)
+- [Lifehacker] [What&#39;s New on Hulu in November 2022](https://lifehacker.com/whats-new-on-hulu-in-november-2022-1849676699)
+- [Dev.to/JS] [How to Integrate Tailwind CSS into a React app](https://dev.to/nsilva1/how-to-integrate-tailwind-css-into-a-react-app-456o)
 - [Lifehacker] [The Best Ways to Darken Your Bedroom &lpar;That Aren&#39;t a Blackout Curtain&rpar;](https://lifehacker.com/the-best-ways-to-darken-your-bedroom-that-arent-a-blac-1849674342)
 - [Lifehacker] [This Tomato Tart Is a Fitting Monument to Your Last Summer Tomato](https://lifehacker.com/this-tomato-tart-is-a-fitting-monument-to-your-last-sum-1849669446)
 - [Dev.to/JS] [Writing completely offline web apps](https://dev.to/cubiclesocial/writing-completely-offline-web-apps-5e56)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How it went my Booking.com coding interview?](https://dev.to/msmello_/how-it-went-my-bookingcom-coding-interview-26d9)
 - [Dev.to/JS] [React optimization: useMemo&lpar;&rpar; , React.memo&lpar;&rpar; &amp; useCallback&lpar;&rpar;](https://dev.to/moadel/usememo-reactmemo-usecallback-4c49)
 - [Dev.to/JS] [Difference between find&lpar;&rpar; and filter&lpar;&rpar; methods in Javascript ?](https://dev.to/zaryabkhalid/difference-between-find-and-filter-methods-in-javascript--2bbj)
-- [Dev.to/JS] [How do you improve?](https://dev.to/alessandro_prencipe/how-do-you-improve-517f)
-- [Dev.to/JS] [We&#39;ve passed a 10 PR milestone to our repo during HacktoberFest](https://dev.to/wasp/weve-passed-a-10-pr-milestone-to-our-repo-during-hacktoberfest-2nhj)
-- [Dev.to/JS] [Upload a fil with JS Fetch API](https://dev.to/theankansaha/upload-a-fil-with-js-fetch-api-6nd)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 Memorable Times Actors Appeared in Movies After They Died](https://lifehacker.com/18-memorable-times-actors-appeared-in-movies-after-they-1849664459)
 - [Lifehacker] [How to Heat Your Home Without Accidentally Burning It Down](https://lifehacker.com/how-to-heat-your-home-without-accidentally-burning-it-d-1849670077)
 - [Lifehacker] [Uranus Will Be Huge in November](https://lifehacker.com/uranus-will-be-huge-in-november-1849667607)
-- [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden [Updated]](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)
-- [Lifehacker] [How Late in the Evening Is ‘Too Late’ to Eat a Meal?](https://lifehacker.com/how-late-in-the-evening-is-too-late-to-eat-a-meal-1849668974)
-- [Lifehacker] [Don’t Eat This Plastic-Filled Cookie Dough, Nestlé Says](https://lifehacker.com/don-t-eat-this-plastic-filled-cookie-dough-nestle-says-1849668760)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make an Egg Yolk Omelette Without Angering James Corden [Updated]](https://lifehacker.com/how-to-make-an-egg-yolk-omelette-without-angering-james-1849669120)<!-- TECH-POSTS:END -->
 
 ---
 
