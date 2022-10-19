@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Skincell Pro - Read Reviews, Benefits, Price, Scam &amp; Does It Works?](https://dev.to/skincellprofac2/skincell-pro-read-reviews-benefits-price-scam-does-it-works-mc1)
+- [Dev.to/JS] [Free Resource to Learn Javascript- JSAyushThakur](https://dev.to/knowledgefromtwitter/free-resource-to-learn-javascript-jsayushthakur-2bgb)
+- [Dev.to/JS] [Learn JavaScript Default Parameters🔥 - ajaysharma_dev](https://dev.to/knowledgefromtwitter/learn-javascript-default-parameters-ajaysharmadev-5a3j)
+- [Dev.to/JS] [JetBrains Fleet — A VS Code killer?](https://dev.to/sameer1612/jetbrains-fleet-a-vs-code-killer-2odb)
 - [Dev.to/JS] [15 Tips For WHY CASH APP CLOSED MY ACCOUNT Success](https://dev.to/mikes1987/15-tips-for-why-cash-app-closed-my-account-success-4h3d)
 - [Dev.to/JS] [10 Things You Need To Know Before you Start Learning Programming](https://dev.to/ucode/10-things-you-need-to-know-before-you-start-learning-programming-439k)
 - [Dev.to/JS] [Count Complete Tree Nodes](https://dev.to/zeeshanali0704/count-complete-tree-nodes-3e8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LCA of Binary Tree](https://dev.to/zeeshanali0704/lca-of-binary-tree-3nb5)
 - [Dev.to/JS] [Loading local markdown blog posts - part 12](https://dev.to/dailydevtips1/loading-local-markdown-blog-posts-part-12-221g)
 - [Dev.to/JS] [Page Navigation between two pages in Xamarin.Forms](https://dev.to/ifourtechnolab/page-navigation-between-two-pages-in-xamarinforms-7af)
-- [Dev.to/JS] [Diameter of Binary Tree](https://dev.to/zeeshanali0704/diameter-of-binary-tree-1m4k)
-- [Dev.to/JS] [Installation process python and pycharm](https://dev.to/iyaminrtg/installation-process-python-and-pycharm-41g3)
-- [Dev.to/JS] [An error occurred when trying to authenticate to the FCM servers](https://dev.to/codarbind/an-error-occurred-when-trying-to-authenticate-to-the-fcm-servers-2g3)
-- [Dev.to/JS] [Tips for better and readable conditionals in JS](https://dev.to/schemetastic/tips-for-better-and-readable-conditionals-in-js-6a)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
