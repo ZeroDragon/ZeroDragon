@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Element Vs Component in React js](https://dev.to/neeraj1997dev/element-vs-component-in-react-js-15bg)
 - [Dev.to/JS] [How I fixed the most hideous bug I&#39;ve encountered so far.](https://dev.to/paoloricciuti/how-i-fixed-the-most-hideous-bug-ive-encountered-so-far-2n6d)
 - [Dev.to/JS] [How to make your site multi-language using locale](https://dev.to/asterki/how-to-make-your-site-multi-language-using-locale-480k)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Chocolate Stains Out of Clothing, Carpet, and Upholstery](https://lifehacker.com/how-to-get-chocolate-stains-out-of-clothing-carpet-an-1849672707)
 - [Dev.to/JS] [Create a Grant Application](https://dev.to/drsimplegraffiti/create-a-grant-application-2015)
 - [Dev.to/JS] [Many-to-Many Associations in Active Record Example](https://dev.to/williamluck/many-to-many-associations-in-active-record-example-285h)
-- [Dev.to/JS] [Redundant re-renders in React](https://dev.to/zelofff/redundant-re-renders-in-react-2bd0)
 - [Lifehacker] [Forget Olivia Wilde, What&#39;s in Your &#39;Special Salad Dressing&#39;?](https://lifehacker.com/forget-olivia-wilde-whats-in-your-special-salad-dressi-1849673100)
 - [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)
 - [Lifehacker] [Apple&#39;s New iPad Pro Is Missing the iPad 10&#39;s Best Feature](https://lifehacker.com/apples-new-ipad-pro-is-missing-the-ipad-10s-best-featur-1849672148)
