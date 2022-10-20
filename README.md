@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Redis for Caching &lpar;2022&rpar;](https://dev.to/aseemwangoo/using-redis-for-caching-2022-2og5)
+- [Dev.to/JS] [Closer look at Metacall](https://dev.to/patilganesh1010/closer-look-at-metacall-3k3h)
+- [Dev.to/JS] [12. Leetcode Solution in Javascript](https://dev.to/chiki1601/12-leetcode-solution-in-javascript-3a4j)
 - [Dev.to/JS] [Vue3 state to your CSS with v-bind](https://dev.to/ptheodosiou/vue3-state-to-your-css-with-v-bind-47o1)
 - [Dev.to/JS] [Build a Bitwise Permission System](https://dev.to/jannisdev/build-a-bitwise-permission-system-ocl)
 - [Dev.to/JS] [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How would you explain JavaScript functions to a 5 yr old ?](https://dev.to/geomukkath/how-would-you-explain-javascript-functions-to-a-5-yr-old--47o6)
 - [Dev.to/JS] [Create a rest api using expressjs and postgresql](https://dev.to/codewithlaksh/create-a-rest-api-using-expressjs-and-postgres-im6)
 - [Dev.to/JS] [JavaScript&#39;s &quot;This&quot; Keyword Simple Intro](https://dev.to/someguy528/javascripts-this-keyword-simple-intro-1jja)
-- [Dev.to/JS] [Gentle Intro to Node Streams](https://dev.to/bronifty/gentle-intro-to-node-streams-1mdl)
-- [Dev.to/JS] [Set Environment Variable &lpar;.env&rpar; in NextJS](https://dev.to/shieldstring/set-environment-variable-env-in-nextjs-5h6c)
-- [Dev.to/JS] [How To Use PrimeVue With Vue3](https://dev.to/asayerio_techblog/how-to-use-primevue-with-vue3-2ibi)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
