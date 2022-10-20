@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [__filename, __dirname, and others are not really globals.](https://dev.to/andersoncodes/filename-dirname-and-others-are-not-really-globals-4jpp)
+- [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
+- [Dev.to/JS] [Typed Forms in Angular](https://dev.to/blove/typed-forms-in-angular-334c)
+- [Dev.to/JS] [How to Configure the Touch Bar in Visual Studio Code in Under 5 Minutes](https://dev.to/p42/how-to-configure-the-touch-bar-in-visual-studio-code-in-under-5-minutes-50lm)
+- [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)
+- [Dev.to/JS] [My journey using .find&lpar;&rpar; to return keys and values in an array!](https://dev.to/jdoud1993/my-journey-using-find-to-return-keys-and-values-in-an-array-5kk)
 - [Dev.to/JS] [What is data scraping?](https://dev.to/tyry327/what-is-data-scraping-4lan)
 - [Lifehacker] [How to Stop Embers From ‘Popping’ Out of Your Fireplace](https://lifehacker.com/how-to-stop-embers-from-popping-out-of-your-fireplace-1849681498)
 - [Dev.to/JS] [I just published the longest Article in the History of Medium.com](https://dev.to/mariostopfer/i-just-published-the-longestarticle-in-the-history-of-medium-2jd7)
@@ -40,13 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Can’t Pick Someone Up If They’re Touching Your Chin](https://lifehacker.com/why-you-can-t-pick-someone-up-if-they-re-touching-your-1849678925)
 - [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
 - [Dev.to/JS] [The Javascript Engine](https://dev.to/manak/the-javascript-engine-52h2)
-- [Dev.to/JS] [React Use hook](https://dev.to/talenttinaapi/react-use-hook-4gfg)
 - [Lifehacker] [Skeleton Cookies Are the New Gingerbread](https://lifehacker.com/skeleton-cookies-are-the-new-gingerbread-1849645486)
-- [Dev.to/JS] [Triangle with loop](https://dev.to/ramirezmz/triangle-with-loop-5b13)
 - [Lifehacker] [Who Should Get Mortgage Protection Insurance?](https://lifehacker.com/who-should-get-mortgage-protection-insurance-1849676634)
-- [Dev.to/JS] [Getting Started With Docker for Nodejs](https://dev.to/collins87mbathi/getting-started-with-docker-for-nodejs-1m2e)
 - [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)
-- [Dev.to/JS] [What exactly is Automation Testing?](https://dev.to/postwell45/what-exactly-is-automation-testing-2ae1)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Darken Your Bedroom &lpar;That Aren&#39;t a Blackout Curtain&rpar;](https://lifehacker.com/the-best-ways-to-darken-your-bedroom-that-arent-a-blac-1849674342)
 - [Lifehacker] [This Tomato Tart Is a Fitting Monument to Your Last Summer Tomato](https://lifehacker.com/this-tomato-tart-is-a-fitting-monument-to-your-last-sum-1849669446)
 - [Lifehacker] [How to Keep Your Old House Warm and Cozy This Winter](https://lifehacker.com/how-to-keep-your-old-house-warm-and-cozy-this-winter-1849676940)
-- [Lifehacker] [15 Horror Movies Based on True Events &lpar;More or Less&rpar;](https://lifehacker.com/15-horror-movies-based-on-true-events-more-or-less-1849675670)
-- [Lifehacker] [Make These Three-Ingredient Nutella Mummy Tarts](https://lifehacker.com/make-these-three-ingredient-nutella-mummy-tarts-1849645447)
-- [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Horror Movies Based on True Events &lpar;More or Less&rpar;](https://lifehacker.com/15-horror-movies-based-on-true-events-more-or-less-1849675670)<!-- TECH-POSTS:END -->
 
 ---
 
