@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)
+- [Dev.to/JS] [What exactly is Automation Testing?](https://dev.to/postwell45/what-exactly-is-automation-testing-2ae1)
 - [Dev.to/JS] [Simple React like button with Stylify CSS. From Utilities to Components, mangled selectors, and 50% smaller production build.](https://dev.to/machy8/simple-react-like-button-with-stylify-css-from-utilities-to-components-mangled-selectors-and-50-smaller-production-build-dg)
 - [Dev.to/JS] [How to Integrate Discord as Notification Provider in Medusa](https://dev.to/medusajs/how-to-integrate-discord-as-notification-provider-in-medusa-115g)
 - [Dev.to/JS] [Abstracciones detalles e interfaces.](https://dev.to/iagolast/abstracciones-detalles-e-interfaces-3p0i)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s print fibonacci series with js with all explanation and problem solving.](https://dev.to/rajivchaulagain/lets-print-fibonacci-series-with-js-with-all-explanation-and-problem-solving-c2n)
 - [Dev.to/JS] [Creating individual markdown blog pages - part 13](https://dev.to/dailydevtips1/creating-individual-markdown-blog-pages-part-13-5flc)
 - [Dev.to/JS] [Using Redis for Caching &lpar;2022&rpar;](https://dev.to/aseemwangoo/using-redis-for-caching-2022-2og5)
-- [Dev.to/JS] [Closer look at Metacall](https://dev.to/patilganesh1010/closer-look-at-metacall-3k3h)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Life Insurance Myths You Should Ignore](https://lifehacker.com/three-life-insurance-myths-you-should-ignore-1849673651)
 - [Lifehacker] [Beware the Costs of &#39;Lifestyle Creep&#39;](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)
 - [Lifehacker] [How to Get Chocolate Stains Out of Clothing, Carpet, and Upholstery](https://lifehacker.com/how-to-get-chocolate-stains-out-of-clothing-carpet-an-1849672707)
-- [Lifehacker] [Forget Olivia Wilde, What&#39;s in Your &#39;Special Salad Dressing&#39;?](https://lifehacker.com/forget-olivia-wilde-whats-in-your-special-salad-dressi-1849673100)
-- [Lifehacker] [Adjustable-Rate Mortgages Are Probably Still a Bad Idea](https://lifehacker.com/adjustable-rate-mortgages-are-probably-still-a-bad-idea-1849669216)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Forget Olivia Wilde, What&#39;s in Your &#39;Special Salad Dressing&#39;?](https://lifehacker.com/forget-olivia-wilde-whats-in-your-special-salad-dressi-1849673100)<!-- TECH-POSTS:END -->
 
 ---
 
