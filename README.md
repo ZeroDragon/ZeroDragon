@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is data scraping?](https://dev.to/tyry327/what-is-data-scraping-4lan)
+- [Lifehacker] [How to Stop Embers From ‘Popping’ Out of Your Fireplace](https://lifehacker.com/how-to-stop-embers-from-popping-out-of-your-fireplace-1849681498)
+- [Dev.to/JS] [I just published the longest Article in the History of Medium.com](https://dev.to/mariostopfer/i-just-published-the-longestarticle-in-the-history-of-medium-2jd7)
+- [Lifehacker] [No, the CDC Cannot Mandate COVID Vaccines for Kids](https://lifehacker.com/no-the-cdc-cannot-mandate-covid-vaccines-for-kids-1849681657)
+- [Lifehacker] [Why You Should Be Suspicious of Financial Advice From Celebrities](https://lifehacker.com/why-you-should-be-suspicious-of-financial-advice-from-c-1849676544)
 - [Lifehacker] [The Best New Features Coming to Google Messages](https://lifehacker.com/the-best-new-features-coming-to-google-messages-1849681567)
 - [Dev.to/JS] [I have a question for you](https://dev.to/amirrezaheydari/i-have-a-question-for-you-g53)
 - [Lifehacker] [You Can Make Your Own Weighted Blanket](https://lifehacker.com/you-can-make-your-own-weighted-blanket-1849680312)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started With Docker for Nodejs](https://dev.to/collins87mbathi/getting-started-with-docker-for-nodejs-1m2e)
 - [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)
 - [Dev.to/JS] [What exactly is Automation Testing?](https://dev.to/postwell45/what-exactly-is-automation-testing-2ae1)
-- [Dev.to/JS] [Simple React like button with Stylify CSS. From Utilities to Components, mangled selectors, and 50% smaller production build.](https://dev.to/machy8/simple-react-like-button-with-stylify-css-from-utilities-to-components-mangled-selectors-and-50-smaller-production-build-dg)
-- [Dev.to/JS] [How to Integrate Discord as Notification Provider in Medusa](https://dev.to/medusajs/how-to-integrate-discord-as-notification-provider-in-medusa-115g)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Your Old House Warm and Cozy This Winter](https://lifehacker.com/how-to-keep-your-old-house-warm-and-cozy-this-winter-1849676940)
 - [Lifehacker] [15 Horror Movies Based on True Events &lpar;More or Less&rpar;](https://lifehacker.com/15-horror-movies-based-on-true-events-more-or-less-1849675670)
 - [Lifehacker] [Make These Three-Ingredient Nutella Mummy Tarts](https://lifehacker.com/make-these-three-ingredient-nutella-mummy-tarts-1849645447)
-- [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)
-- [Lifehacker] [How to Plan a &lpar;Relatively&rpar; Cheap Thanksgiving](https://lifehacker.com/how-to-plan-a-relatively-cheap-thanksgiving-1849673643)
-- [Lifehacker] [Avoid These Mistakes That Can Void Your Homeowner’s Insurance Policy](https://lifehacker.com/avoid-these-mistakes-that-can-void-your-homeowner-s-ins-1849672874)
-- [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)<!-- TECH-POSTS:END -->
 
 ---
 
