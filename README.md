@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best New Features Coming to Google Messages](https://lifehacker.com/the-best-new-features-coming-to-google-messages-1849681567)
+- [Dev.to/JS] [I have a question for you](https://dev.to/amirrezaheydari/i-have-a-question-for-you-g53)
+- [Lifehacker] [You Can Make Your Own Weighted Blanket](https://lifehacker.com/you-can-make-your-own-weighted-blanket-1849680312)
 - [Lifehacker] [Can You Watch True Crime Shows Ethically?](https://lifehacker.com/can-you-watch-true-crime-shows-ethically-1849681462)
 - [Dev.to/JS] [Hash Tables - full guide](https://dev.to/amrguaily/hash-tables-full-guide-h2f)
 - [Dev.to/JS] [Dynamic OG image with SvelteKit and Satori](https://dev.to/theether0/dynamic-og-image-with-sveltekit-and-satori-4438)
@@ -33,15 +36,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
 - [Dev.to/JS] [The Javascript Engine](https://dev.to/manak/the-javascript-engine-52h2)
 - [Dev.to/JS] [React Use hook](https://dev.to/talenttinaapi/react-use-hook-4gfg)
-- [Dev.to/JS] [Create Search Bar HTML, CSS &amp; JavaScript](https://dev.to/codingtitan6/create-page-flip-animation-in-html-css-javascript-370i)
 - [Lifehacker] [Skeleton Cookies Are the New Gingerbread](https://lifehacker.com/skeleton-cookies-are-the-new-gingerbread-1849645486)
-- [Dev.to/JS] [Create Page Flip Animation In HTML , CSS &amp; JavaScript](https://dev.to/codingtitan6/create-page-flip-animation-in-html-css-javascript-5g9h)
 - [Dev.to/JS] [Triangle with loop](https://dev.to/ramirezmz/triangle-with-loop-5b13)
-- [Dev.to/JS] [Responsive Card Slider Using HTML CSS &amp; JavaScript](https://dev.to/codingtitan6/responsive-card-slider-using-html-css-javascript-3bim)
 - [Lifehacker] [Who Should Get Mortgage Protection Insurance?](https://lifehacker.com/who-should-get-mortgage-protection-insurance-1849676634)
 - [Dev.to/JS] [Getting Started With Docker for Nodejs](https://dev.to/collins87mbathi/getting-started-with-docker-for-nodejs-1m2e)
 - [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)
 - [Dev.to/JS] [What exactly is Automation Testing?](https://dev.to/postwell45/what-exactly-is-automation-testing-2ae1)
+- [Dev.to/JS] [Simple React like button with Stylify CSS. From Utilities to Components, mangled selectors, and 50% smaller production build.](https://dev.to/machy8/simple-react-like-button-with-stylify-css-from-utilities-to-components-mangled-selectors-and-50-smaller-production-build-dg)
+- [Dev.to/JS] [How to Integrate Discord as Notification Provider in Medusa](https://dev.to/medusajs/how-to-integrate-discord-as-notification-provider-in-medusa-115g)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)
 - [Lifehacker] [How to Plan a &lpar;Relatively&rpar; Cheap Thanksgiving](https://lifehacker.com/how-to-plan-a-relatively-cheap-thanksgiving-1849673643)
 - [Lifehacker] [Avoid These Mistakes That Can Void Your Homeowner’s Insurance Policy](https://lifehacker.com/avoid-these-mistakes-that-can-void-your-homeowner-s-ins-1849672874)
-- [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
-- [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
-- [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)<!-- TECH-POSTS:END -->
 
 ---
 
