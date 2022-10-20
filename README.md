@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue3 state to your CSS with v-bind](https://dev.to/ptheodosiou/vue3-state-to-your-css-with-v-bind-47o1)
+- [Dev.to/JS] [Build a Bitwise Permission System](https://dev.to/jannisdev/build-a-bitwise-permission-system-ocl)
 - [Dev.to/JS] [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
 - [Dev.to/JS] [React vs Angular Comparison: Which is Better and Why?](https://dev.to/jessica89079831/react-vs-angular-comparison-which-is-better-and-why-22k3)
 - [Dev.to/JS] [&lpar;7^2&rpar; + 1 = ? Free Online Courses - October 19, 2022](https://dev.to/theprogramminbuddyclub/72-1-free-online-courses-october-19-2022-2b3k)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gentle Intro to Node Streams](https://dev.to/bronifty/gentle-intro-to-node-streams-1mdl)
 - [Dev.to/JS] [Set Environment Variable &lpar;.env&rpar; in NextJS](https://dev.to/shieldstring/set-environment-variable-env-in-nextjs-5h6c)
 - [Dev.to/JS] [How To Use PrimeVue With Vue3](https://dev.to/asayerio_techblog/how-to-use-primevue-with-vue3-2ibi)
-- [Dev.to/JS] [Responsive Log In Sign Up Form](https://dev.to/prayas/responsive-log-in-sign-up-form-31o0)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
-- [Dev.to/JS] [Angular 10 | MEAN, Google auth, JWT, Lazyload, upload de archivos, Guards, Pipes, Zona admin, dashboard y mucho más.](https://dev.to/dennysjmarquez/angular-10-mean-google-auth-jwt-lazyload-upload-de-archivos-guards-pipes-zona-admin-dashboard-y-mucho-mas-gi4)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
 - [Lifehacker] [Who Should &lpar;and Shouldn’t&rpar; Sell Their Home Right Now](https://lifehacker.com/who-should-and-shouldn-t-sell-their-home-right-now-1849674461)
