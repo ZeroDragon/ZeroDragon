@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
+- [Dev.to/JS] [Serverless React SSR on AWS](https://dev.to/mxro/serverless-react-ssr-on-aws-mf1)
+- [Dev.to/JS] [Phase 1 project at Flatiron](https://dev.to/samgotowka/phase-1-project-at-flatiron-27go)
+- [Dev.to/JS] [Learning Open Source Community](https://dev.to/genne23v/learning-open-source-community-4nji)
+- [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)
+- [Dev.to/JS] [Data Structures 101: Implement hash tables in JavaScript](https://dev.to/educative/data-structures-101-implement-hash-tables-in-javascript-3ff8)
 - [Dev.to/JS] [__filename, __dirname, and others are not really globals.](https://dev.to/andersoncodes/filename-dirname-and-others-are-not-really-globals-4jpp)
 - [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
 - [Dev.to/JS] [Typed Forms in Angular](https://dev.to/blove/typed-forms-in-angular-334c)
@@ -39,13 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Your Own Weighted Blanket](https://lifehacker.com/you-can-make-your-own-weighted-blanket-1849680312)
 - [Lifehacker] [Can You Watch True Crime Shows Ethically?](https://lifehacker.com/can-you-watch-true-crime-shows-ethically-1849681462)
 - [Dev.to/JS] [Hash Tables - full guide](https://dev.to/amrguaily/hash-tables-full-guide-h2f)
-- [Dev.to/JS] [Dynamic OG image with SvelteKit and Satori](https://dev.to/theether0/dynamic-og-image-with-sveltekit-and-satori-4438)
-- [Dev.to/JS] [Refactoring Tools: How to Search for Bad Code](https://dev.to/bespoyasov/refactoring-tools-how-to-search-for-bad-code-4hmc)
 - [Lifehacker] [How to Stop Microsoft Edge From Hogging System Resources](https://lifehacker.com/how-to-stop-microsoft-edge-from-hogging-system-resource-1849680959)
-- [Dev.to/JS] [Next JS vs. Gatsby - Which React Framework to Choose?](https://dev.to/talenttinaapi/next-js-vs-gatsby-which-react-framework-to-choose-2k07)
 - [Lifehacker] [Why You Can’t Pick Someone Up If They’re Touching Your Chin](https://lifehacker.com/why-you-can-t-pick-someone-up-if-they-re-touching-your-1849678925)
 - [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
-- [Dev.to/JS] [The Javascript Engine](https://dev.to/manak/the-javascript-engine-52h2)
 - [Lifehacker] [Skeleton Cookies Are the New Gingerbread](https://lifehacker.com/skeleton-cookies-are-the-new-gingerbread-1849645486)
 - [Lifehacker] [Who Should Get Mortgage Protection Insurance?](https://lifehacker.com/who-should-get-mortgage-protection-insurance-1849676634)
 - [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Figure Out Your Post-Forgiveness Student Loan Payment](https://lifehacker.com/how-figure-out-your-post-forgiveness-student-loan-payme-1849676837)
 - [Lifehacker] [What&#39;s New on Hulu in November 2022](https://lifehacker.com/whats-new-on-hulu-in-november-2022-1849676699)
 - [Lifehacker] [The Best Ways to Darken Your Bedroom &lpar;That Aren&#39;t a Blackout Curtain&rpar;](https://lifehacker.com/the-best-ways-to-darken-your-bedroom-that-arent-a-blac-1849674342)
-- [Lifehacker] [This Tomato Tart Is a Fitting Monument to Your Last Summer Tomato](https://lifehacker.com/this-tomato-tart-is-a-fitting-monument-to-your-last-sum-1849669446)
-- [Lifehacker] [How to Keep Your Old House Warm and Cozy This Winter](https://lifehacker.com/how-to-keep-your-old-house-warm-and-cozy-this-winter-1849676940)
-- [Lifehacker] [15 Horror Movies Based on True Events &lpar;More or Less&rpar;](https://lifehacker.com/15-horror-movies-based-on-true-events-more-or-less-1849675670)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Tomato Tart Is a Fitting Monument to Your Last Summer Tomato](https://lifehacker.com/this-tomato-tart-is-a-fitting-monument-to-your-last-sum-1849669446)<!-- TECH-POSTS:END -->
 
 ---
 
