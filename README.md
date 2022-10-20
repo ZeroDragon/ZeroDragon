@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript&#39;s &quot;This&quot; Keyword Simple Intro](https://dev.to/someguy528/javascripts-this-keyword-simple-intro-1jja)
+- [Dev.to/JS] [Gentle Intro to Node Streams](https://dev.to/bronifty/gentle-intro-to-node-streams-1mdl)
 - [Dev.to/JS] [Set Environment Variable &lpar;.env&rpar; in NextJS](https://dev.to/shieldstring/set-environment-variable-env-in-nextjs-5h6c)
 - [Dev.to/JS] [How To Use PrimeVue With Vue3](https://dev.to/asayerio_techblog/how-to-use-primevue-with-vue3-2ibi)
 - [Dev.to/JS] [Responsive Log In Sign Up Form](https://dev.to/prayas/responsive-log-in-sign-up-form-31o0)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Let the Kids Kiss Your Pet Lizard](https://lifehacker.com/dont-let-the-kids-kiss-your-pet-lizard-1849677874)
 - [Lifehacker] [How Figure Out Your Post-Forgiveness Student Loan Payment](https://lifehacker.com/how-figure-out-your-post-forgiveness-student-loan-payme-1849676837)
 - [Dev.to/JS] [React Optimizing Compiler &lpar;without memo&rpar;](https://dev.to/chandramarch18/react-optimizing-compiler-without-memo-1n3o)
-- [Dev.to/JS] [How do JavaScript closures work?](https://dev.to/neeraj1997dev/how-do-javascript-closures-work-47jk)
 - [Lifehacker] [What&#39;s New on Hulu in November 2022](https://lifehacker.com/whats-new-on-hulu-in-november-2022-1849676699)
-- [Dev.to/JS] [How to Integrate Tailwind CSS into a React app](https://dev.to/nsilva1/how-to-integrate-tailwind-css-into-a-react-app-456o)
 - [Lifehacker] [The Best Ways to Darken Your Bedroom &lpar;That Aren&#39;t a Blackout Curtain&rpar;](https://lifehacker.com/the-best-ways-to-darken-your-bedroom-that-arent-a-blac-1849674342)
 - [Lifehacker] [This Tomato Tart Is a Fitting Monument to Your Last Summer Tomato](https://lifehacker.com/this-tomato-tart-is-a-fitting-monument-to-your-last-sum-1849669446)
 - [Lifehacker] [How to Keep Your Old House Warm and Cozy This Winter](https://lifehacker.com/how-to-keep-your-old-house-warm-and-cozy-this-winter-1849676940)
