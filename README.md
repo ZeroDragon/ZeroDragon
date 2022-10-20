@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to solve this problem?](https://dev.to/gwjunny/how-to-solve-this-problem-1p0l)
+- [Dev.to/JS] [How my obsession drove me to re-engineer a different type of FlatList, I called it &quot;NestedLists&quot;.](https://dev.to/olawalethefirst/how-my-obsession-drove-me-to-re-engineer-a-different-type-of-flatlist-i-called-it-nestedlists-2i21)
+- [Dev.to/JS] [React: How does useDeferredValue and useTransition work ?](https://dev.to/linhbui167/how-does-usedeferredvalue-and-usetransition-work--31fp)
 - [Dev.to/JS] [The Site That Teaches React Hook Structures 2022](https://dev.to/musayazlik/the-site-that-teaches-react-hook-structures-2022-ooa)
 - [Dev.to/JS] [On persistence, collaboration, trial and error - Hacktoberfest 2022 🚀🌟🔧](https://dev.to/saminarp/on-persistence-collaboration-trial-and-error-hacktoberfest-2022-3igh)
 - [Dev.to/JS] [Let&#39;s print fibonacci series with js with all explanation and problem solving.](https://dev.to/rajivchaulagain/lets-print-fibonacci-series-with-js-with-all-explanation-and-problem-solving-c2n)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12. Leetcode Solution in Javascript](https://dev.to/chiki1601/12-leetcode-solution-in-javascript-3a4j)
 - [Dev.to/JS] [Vue3 state to your CSS with v-bind](https://dev.to/ptheodosiou/vue3-state-to-your-css-with-v-bind-47o1)
 - [Dev.to/JS] [Build a Bitwise Permission System](https://dev.to/jannisdev/build-a-bitwise-permission-system-ocl)
-- [Dev.to/JS] [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
-- [Dev.to/JS] [React vs Angular Comparison: Which is Better and Why?](https://dev.to/jessica89079831/react-vs-angular-comparison-which-is-better-and-why-22k3)
-- [Dev.to/JS] [&lpar;7^2&rpar; + 1 = ? Free Online Courses - October 19, 2022](https://dev.to/theprogramminbuddyclub/72-1-free-online-courses-october-19-2022-2b3k)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
