@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Dev.to/JS] [Build a Serverless Lie Detector that uses AI for Facial Recognition](https://dev.to/shreythecray/build-a-serverless-lie-detector-that-uses-ai-for-facial-recognition-1obk)
 - [Dev.to/JS] [Roll A Dice! - Building a Command Bot for Microsoft Teams Using Team Toolkit v4 with VS Code](https://dev.to/girlie_mac/roll-a-dice-building-a-command-bot-for-microsoft-teams-using-team-toolkit-v4-with-vs-code-3e3b)
-- [Dev.to/JS] [What are mutator methods?](https://dev.to/michaelvinidev/what-are-mutator-methods-aif)
+- [Dev.to/JS] [What are Mutator Methods?](https://dev.to/michaelvinidev/what-are-mutator-methods-aif)
 - [Dev.to/JS] [Tidying up getServerSideProps&lpar;Server-Side Rendering&rpar; with Higher Order Functions](https://dev.to/ogzhanolguncu/tidying-up-getserversidepropsserver-side-rendering-with-higher-order-functions-4ad6)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Dev.to/JS] [What are NodeLists, and how do they work?](https://dev.to/smpnjn/what-are-nodelists-and-how-do-they-work-ia9)
