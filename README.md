@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lpar;7^2&rpar; + 1 = ? Free Online Courses - October 19, 2022](https://dev.to/theprogramminbuddyclub/72-1-free-online-courses-october-19-2022-2b3k)
+- [Dev.to/JS] [ing date. we were careworn becau](https://dev.to/finllcry9/ing-date-we-were-careworn-becau-a45)
+- [Dev.to/JS] [How would you explain JavaScript functions to a 5 yr old ?](https://dev.to/geomukkath/how-would-you-explain-javascript-functions-to-a-5-yr-old--47o6)
+- [Dev.to/JS] [Create a rest api using expressjs and postgresql](https://dev.to/codewithlaksh/create-a-rest-api-using-expressjs-and-postgres-im6)
 - [Dev.to/JS] [JavaScript&#39;s &quot;This&quot; Keyword Simple Intro](https://dev.to/someguy528/javascripts-this-keyword-simple-intro-1jja)
 - [Dev.to/JS] [Gentle Intro to Node Streams](https://dev.to/bronifty/gentle-intro-to-node-streams-1mdl)
 - [Dev.to/JS] [Set Environment Variable &lpar;.env&rpar; in NextJS](https://dev.to/shieldstring/set-environment-variable-env-in-nextjs-5h6c)
@@ -33,17 +37,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [8 illustrations to make Twitter/Instagram dev post rock!](https://dev.to/fredysandoval/8-illustrations-to-make-twitterinstagram-dev-post-rock-4863)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Dev.to/JS] [Managing Your Distributed Node.js Application Environment and Configuration](https://dev.to/yugabyte/managing-your-distributed-nodejs-application-environment-and-configuration-236c)
-- [Dev.to/JS] [PayStack Split Payment Integration in Laravel](https://dev.to/adeleyeayodeji/paystack-split-payment-integration-in-laravel-2kii)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
 - [Lifehacker] [Who Should &lpar;and Shouldn’t&rpar; Sell Their Home Right Now](https://lifehacker.com/who-should-and-shouldn-t-sell-their-home-right-now-1849674461)
 - [Lifehacker] [Three Ways to Modernize an Outdated Bathroom &lpar;Without Doing Major Renovations&rpar;](https://lifehacker.com/three-ways-to-modernize-an-outdated-bathroom-without-d-1849678150)
 - [Lifehacker] [Someone Built a 4D Minecraft Clone](https://lifehacker.com/someone-built-a-4d-minecraft-clone-1849677485)
 - [Lifehacker] [You Can Still Get a Refund for Your Recalled Peloton Treadmill](https://lifehacker.com/you-can-still-get-a-refund-for-your-recalled-peloton-tr-1849677624)
-- [Dev.to/JS] [The Vibration API in JavaScript](https://dev.to/amitavmishra99/the-vibration-api-in-javascript-3dbl)
-- [Dev.to/JS] [I Created an 🤯 Online Multiplayer Game 🎮 in ReactJS and Python](https://dev.to/rajeshj3/i-created-an-online-multiplayer-game-in-reactjs-and-python-544o)
 - [Lifehacker] [Don&#39;t Let the Kids Kiss Your Pet Lizard](https://lifehacker.com/dont-let-the-kids-kiss-your-pet-lizard-1849677874)
 - [Lifehacker] [How Figure Out Your Post-Forgiveness Student Loan Payment](https://lifehacker.com/how-figure-out-your-post-forgiveness-student-loan-payme-1849676837)
-- [Dev.to/JS] [React Optimizing Compiler &lpar;without memo&rpar;](https://dev.to/chandramarch18/react-optimizing-compiler-without-memo-1n3o)
 - [Lifehacker] [What&#39;s New on Hulu in November 2022](https://lifehacker.com/whats-new-on-hulu-in-november-2022-1849676699)
 - [Lifehacker] [The Best Ways to Darken Your Bedroom &lpar;That Aren&#39;t a Blackout Curtain&rpar;](https://lifehacker.com/the-best-ways-to-darken-your-bedroom-that-arent-a-blac-1849674342)
 - [Lifehacker] [This Tomato Tart Is a Fitting Monument to Your Last Summer Tomato](https://lifehacker.com/this-tomato-tart-is-a-fitting-monument-to-your-last-sum-1849669446)
