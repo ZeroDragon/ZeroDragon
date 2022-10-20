@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Can You Watch True Crime Shows Ethically?](https://lifehacker.com/can-you-watch-true-crime-shows-ethically-1849681462)
+- [Dev.to/JS] [Hash Tables - full guide](https://dev.to/amrguaily/hash-tables-full-guide-h2f)
+- [Dev.to/JS] [Dynamic OG image with SvelteKit and Satori](https://dev.to/theether0/dynamic-og-image-with-sveltekit-and-satori-4438)
+- [Dev.to/JS] [Refactoring Tools: How to Search for Bad Code](https://dev.to/bespoyasov/refactoring-tools-how-to-search-for-bad-code-4hmc)
+- [Lifehacker] [How to Stop Microsoft Edge From Hogging System Resources](https://lifehacker.com/how-to-stop-microsoft-edge-from-hogging-system-resource-1849680959)
+- [Dev.to/JS] [Next JS vs. Gatsby - Which React Framework to Choose?](https://dev.to/talenttinaapi/next-js-vs-gatsby-which-react-framework-to-choose-2k07)
 - [Lifehacker] [Why You Can’t Pick Someone Up If They’re Touching Your Chin](https://lifehacker.com/why-you-can-t-pick-someone-up-if-they-re-touching-your-1849678925)
 - [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
 - [Dev.to/JS] [The Javascript Engine](https://dev.to/manak/the-javascript-engine-52h2)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started With Docker for Nodejs](https://dev.to/collins87mbathi/getting-started-with-docker-for-nodejs-1m2e)
 - [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)
 - [Dev.to/JS] [What exactly is Automation Testing?](https://dev.to/postwell45/what-exactly-is-automation-testing-2ae1)
-- [Dev.to/JS] [Simple React like button with Stylify CSS. From Utilities to Components, mangled selectors, and 50% smaller production build.](https://dev.to/machy8/simple-react-like-button-with-stylify-css-from-utilities-to-components-mangled-selectors-and-50-smaller-production-build-dg)
-- [Dev.to/JS] [How to Integrate Discord as Notification Provider in Medusa](https://dev.to/medusajs/how-to-integrate-discord-as-notification-provider-in-medusa-115g)
-- [Dev.to/JS] [Abstracciones detalles e interfaces.](https://dev.to/iagolast/abstracciones-detalles-e-interfaces-3p0i)
-- [Dev.to/JS] [How to solve this problem?](https://dev.to/gwjunny/how-to-solve-this-problem-1p0l)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Mistakes That Can Void Your Homeowner’s Insurance Policy](https://lifehacker.com/avoid-these-mistakes-that-can-void-your-homeowner-s-ins-1849672874)
 - [Lifehacker] [The Best Ways to Support the Runner in Your Life, According to Reddit](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
-- [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
-- [Lifehacker] [12 Fruit Trees You Can Actually Grow Indoors](https://lifehacker.com/12-fruit-trees-you-can-actually-grow-indoors-1849672630)
-- [Lifehacker] [The Best Privacy Features in DuckDuckGo’s New Web Browser](https://lifehacker.com/the-best-privacy-features-in-duckduckgo-s-new-web-brows-1849673422)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)<!-- TECH-POSTS:END -->
 
 ---
 
