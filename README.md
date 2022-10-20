@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
 - [Dev.to/JS] [React vs Angular Comparison: Which is Better and Why?](https://dev.to/jessica89079831/react-vs-angular-comparison-which-is-better-and-why-22k3)
 - [Dev.to/JS] [&lpar;7^2&rpar; + 1 = ? Free Online Courses - October 19, 2022](https://dev.to/theprogramminbuddyclub/72-1-free-online-courses-october-19-2022-2b3k)
 - [Dev.to/JS] [ing date. we were careworn becau](https://dev.to/finllcry9/ing-date-we-were-careworn-becau-a45)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive Log In Sign Up Form](https://dev.to/prayas/responsive-log-in-sign-up-form-31o0)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Dev.to/JS] [Angular 10 | MEAN, Google auth, JWT, Lazyload, upload de archivos, Guards, Pipes, Zona admin, dashboard y mucho más.](https://dev.to/dennysjmarquez/angular-10-mean-google-auth-jwt-lazyload-upload-de-archivos-guards-pipes-zona-admin-dashboard-y-mucho-mas-gi4)
-- [Dev.to/JS] [8 illustrations to make Twitter/Instagram dev post rock!](https://dev.to/fredysandoval/8-illustrations-to-make-twitterinstagram-dev-post-rock-4863)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
 - [Lifehacker] [Who Should &lpar;and Shouldn’t&rpar; Sell Their Home Right Now](https://lifehacker.com/who-should-and-shouldn-t-sell-their-home-right-now-1849674461)
