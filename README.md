@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Can’t Pick Someone Up If They’re Touching Your Chin](https://lifehacker.com/why-you-can-t-pick-someone-up-if-they-re-touching-your-1849678925)
+- [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
+- [Dev.to/JS] [The Javascript Engine](https://dev.to/manak/the-javascript-engine-52h2)
 - [Dev.to/JS] [React Use hook](https://dev.to/talenttinaapi/react-use-hook-4gfg)
-- [Dev.to/JS] [Create Page Flip Animation In HTML , CSS &amp; JavaScript](https://dev.to/codingtitan6/create-page-flip-animation-in-html-css-javascript-370i)
+- [Dev.to/JS] [Create Search Bar HTML, CSS &amp; JavaScript](https://dev.to/codingtitan6/create-page-flip-animation-in-html-css-javascript-370i)
 - [Lifehacker] [Skeleton Cookies Are the New Gingerbread](https://lifehacker.com/skeleton-cookies-are-the-new-gingerbread-1849645486)
 - [Dev.to/JS] [Create Page Flip Animation In HTML , CSS &amp; JavaScript](https://dev.to/codingtitan6/create-page-flip-animation-in-html-css-javascript-5g9h)
 - [Dev.to/JS] [Triangle with loop](https://dev.to/ramirezmz/triangle-with-loop-5b13)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Integrate Discord as Notification Provider in Medusa](https://dev.to/medusajs/how-to-integrate-discord-as-notification-provider-in-medusa-115g)
 - [Dev.to/JS] [Abstracciones detalles e interfaces.](https://dev.to/iagolast/abstracciones-detalles-e-interfaces-3p0i)
 - [Dev.to/JS] [How to solve this problem?](https://dev.to/gwjunny/how-to-solve-this-problem-1p0l)
-- [Dev.to/JS] [How my obsession drove me to re-engineer a different type of FlatList, I called it &quot;NestedLists&quot;.](https://dev.to/olawalethefirst/how-my-obsession-drove-me-to-re-engineer-a-different-type-of-flatlist-i-called-it-nestedlists-2i21)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in November 2022](https://lifehacker.com/whats-new-on-disney-in-november-2022-1849673854)
 - [Lifehacker] [Is Sony’s DualSense Edge Pro Controller Worth the Money? &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/is-sony-s-dualsense-edge-pro-controller-worth-the-money-1849674180)
 - [Lifehacker] [12 Fruit Trees You Can Actually Grow Indoors](https://lifehacker.com/12-fruit-trees-you-can-actually-grow-indoors-1849672630)
-- [Lifehacker] [The Best Privacy Features in DuckDuckGo’s New Web Browser](https://lifehacker.com/the-best-privacy-features-in-duckduckgo-s-new-web-brows-1849673422)
-- [Lifehacker] [Three Life Insurance Myths You Should Ignore](https://lifehacker.com/three-life-insurance-myths-you-should-ignore-1849673651)
-- [Lifehacker] [Beware the Costs of &#39;Lifestyle Creep&#39;](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Privacy Features in DuckDuckGo’s New Web Browser](https://lifehacker.com/the-best-privacy-features-in-duckduckgo-s-new-web-brows-1849673422)<!-- TECH-POSTS:END -->
 
 ---
 
