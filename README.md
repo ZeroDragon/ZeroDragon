@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
+- [Dev.to/JS] [Build a Serverless Lie Detector that uses AI for Facial Recognition](https://dev.to/shreythecray/build-a-serverless-lie-detector-that-uses-ai-for-facial-recognition-1obk)
+- [Dev.to/JS] [Roll A Dice! - Building a Command Bot for Microsoft Teams Using Team Toolkit v4 with VS Code](https://dev.to/girlie_mac/roll-a-dice-building-a-command-bot-for-microsoft-teams-using-team-toolkit-v4-with-vs-code-3e3b)
+- [Dev.to/JS] [What are mutator methods?](https://dev.to/michaelvinidev/what-are-mutator-methods-aif)
+- [Dev.to/JS] [Tidying up getServerSideProps&lpar;Server-Side Rendering&rpar; with Higher Order Functions](https://dev.to/ogzhanolguncu/tidying-up-getserversidepropsserver-side-rendering-with-higher-order-functions-4ad6)
+- [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
+- [Dev.to/JS] [What are NodeLists, and how do they work?](https://dev.to/smpnjn/what-are-nodelists-and-how-do-they-work-ia9)
+- [Dev.to/JS] [Simple Intro To The reduce&lpar;&rpar; Method In Javascript](https://dev.to/ty_51/the-reduce-method-537b)
+- [Dev.to/JS] [Javascript Add Event Listener to Multiple Elements](https://dev.to/smpnjn/javascript-add-event-listener-to-multiple-elements-2jah)
 - [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
 - [Dev.to/JS] [Serverless React SSR on AWS](https://dev.to/mxro/serverless-react-ssr-on-aws-mf1)
 - [Dev.to/JS] [Phase 1 project at Flatiron](https://dev.to/samgotowka/phase-1-project-at-flatiron-27go)
@@ -31,20 +40,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Structures 101: Implement hash tables in JavaScript](https://dev.to/educative/data-structures-101-implement-hash-tables-in-javascript-3ff8)
 - [Dev.to/JS] [__filename, __dirname, and others are not really globals.](https://dev.to/andersoncodes/filename-dirname-and-others-are-not-really-globals-4jpp)
 - [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
-- [Dev.to/JS] [Typed Forms in Angular](https://dev.to/blove/typed-forms-in-angular-334c)
-- [Dev.to/JS] [How to Configure the Touch Bar in Visual Studio Code in Under 5 Minutes](https://dev.to/p42/how-to-configure-the-touch-bar-in-visual-studio-code-in-under-5-minutes-50lm)
 - [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)
-- [Dev.to/JS] [My journey using .find&lpar;&rpar; to return keys and values in an array!](https://dev.to/jdoud1993/my-journey-using-find-to-return-keys-and-values-in-an-array-5kk)
-- [Dev.to/JS] [What is data scraping?](https://dev.to/tyry327/what-is-data-scraping-4lan)
 - [Lifehacker] [How to Stop Embers From ‘Popping’ Out of Your Fireplace](https://lifehacker.com/how-to-stop-embers-from-popping-out-of-your-fireplace-1849681498)
-- [Dev.to/JS] [I just published the longest Article in the History of Medium.com](https://dev.to/mariostopfer/i-just-published-the-longestarticle-in-the-history-of-medium-2jd7)
 - [Lifehacker] [No, the CDC Cannot Mandate COVID Vaccines for Kids](https://lifehacker.com/no-the-cdc-cannot-mandate-covid-vaccines-for-kids-1849681657)
 - [Lifehacker] [Why You Should Be Suspicious of Financial Advice From Celebrities](https://lifehacker.com/why-you-should-be-suspicious-of-financial-advice-from-c-1849676544)
 - [Lifehacker] [The Best New Features Coming to Google Messages](https://lifehacker.com/the-best-new-features-coming-to-google-messages-1849681567)
-- [Dev.to/JS] [I have a question for you](https://dev.to/amirrezaheydari/i-have-a-question-for-you-g53)
 - [Lifehacker] [You Can Make Your Own Weighted Blanket](https://lifehacker.com/you-can-make-your-own-weighted-blanket-1849680312)
 - [Lifehacker] [Can You Watch True Crime Shows Ethically?](https://lifehacker.com/can-you-watch-true-crime-shows-ethically-1849681462)
-- [Dev.to/JS] [Hash Tables - full guide](https://dev.to/amrguaily/hash-tables-full-guide-h2f)
 - [Lifehacker] [How to Stop Microsoft Edge From Hogging System Resources](https://lifehacker.com/how-to-stop-microsoft-edge-from-hogging-system-resource-1849680959)
 - [Lifehacker] [Why You Can’t Pick Someone Up If They’re Touching Your Chin](https://lifehacker.com/why-you-can-t-pick-someone-up-if-they-re-touching-your-1849678925)
 - [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Still Get a Refund for Your Recalled Peloton Treadmill](https://lifehacker.com/you-can-still-get-a-refund-for-your-recalled-peloton-tr-1849677624)
 - [Lifehacker] [Don&#39;t Let the Kids Kiss Your Pet Lizard](https://lifehacker.com/dont-let-the-kids-kiss-your-pet-lizard-1849677874)
 - [Lifehacker] [How Figure Out Your Post-Forgiveness Student Loan Payment](https://lifehacker.com/how-figure-out-your-post-forgiveness-student-loan-payme-1849676837)
-- [Lifehacker] [What&#39;s New on Hulu in November 2022](https://lifehacker.com/whats-new-on-hulu-in-november-2022-1849676699)
-- [Lifehacker] [The Best Ways to Darken Your Bedroom &lpar;That Aren&#39;t a Blackout Curtain&rpar;](https://lifehacker.com/the-best-ways-to-darken-your-bedroom-that-arent-a-blac-1849674342)
-- [Lifehacker] [This Tomato Tart Is a Fitting Monument to Your Last Summer Tomato](https://lifehacker.com/this-tomato-tart-is-a-fitting-monument-to-your-last-sum-1849669446)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Hulu in November 2022](https://lifehacker.com/whats-new-on-hulu-in-november-2022-1849676699)<!-- TECH-POSTS:END -->
 
 ---
 
