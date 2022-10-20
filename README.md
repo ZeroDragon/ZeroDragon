@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Set Environment Variable &lpar;.env&rpar; in NextJS](https://dev.to/shieldstring/set-environment-variable-env-in-nextjs-5h6c)
+- [Dev.to/JS] [How To Use PrimeVue With Vue3](https://dev.to/asayerio_techblog/how-to-use-primevue-with-vue3-2ibi)
 - [Dev.to/JS] [Responsive Log In Sign Up Form](https://dev.to/prayas/responsive-log-in-sign-up-form-31o0)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Dev.to/JS] [Angular 10 | MEAN, Google auth, JWT, Lazyload, upload de archivos, Guards, Pipes, Zona admin, dashboard y mucho más.](https://dev.to/dennysjmarquez/angular-10-mean-google-auth-jwt-lazyload-upload-de-archivos-guards-pipes-zona-admin-dashboard-y-mucho-mas-gi4)
@@ -45,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Integrate Tailwind CSS into a React app](https://dev.to/nsilva1/how-to-integrate-tailwind-css-into-a-react-app-456o)
 - [Lifehacker] [The Best Ways to Darken Your Bedroom &lpar;That Aren&#39;t a Blackout Curtain&rpar;](https://lifehacker.com/the-best-ways-to-darken-your-bedroom-that-arent-a-blac-1849674342)
 - [Lifehacker] [This Tomato Tart Is a Fitting Monument to Your Last Summer Tomato](https://lifehacker.com/this-tomato-tart-is-a-fitting-monument-to-your-last-sum-1849669446)
-- [Dev.to/JS] [Writing completely offline web apps](https://dev.to/cubiclesocial/writing-completely-offline-web-apps-5e56)
-- [Dev.to/JS] [You&#39;ve been structuring files in projects wrong](https://dev.to/richardbray/youve-been-structuring-files-in-projects-wrong-1985)
 - [Lifehacker] [How to Keep Your Old House Warm and Cozy This Winter](https://lifehacker.com/how-to-keep-your-old-house-warm-and-cozy-this-winter-1849676940)
 - [Lifehacker] [15 Horror Movies Based on True Events &lpar;More or Less&rpar;](https://lifehacker.com/15-horror-movies-based-on-true-events-more-or-less-1849675670)
 - [Lifehacker] [Make These Three-Ingredient Nutella Mummy Tarts](https://lifehacker.com/make-these-three-ingredient-nutella-mummy-tarts-1849645447)
