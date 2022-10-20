@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Use hook](https://dev.to/talenttinaapi/react-use-hook-4gfg)
+- [Dev.to/JS] [Create Page Flip Animation In HTML , CSS &amp; JavaScript](https://dev.to/codingtitan6/create-page-flip-animation-in-html-css-javascript-370i)
+- [Lifehacker] [Skeleton Cookies Are the New Gingerbread](https://lifehacker.com/skeleton-cookies-are-the-new-gingerbread-1849645486)
+- [Dev.to/JS] [Create Page Flip Animation In HTML , CSS &amp; JavaScript](https://dev.to/codingtitan6/create-page-flip-animation-in-html-css-javascript-5g9h)
+- [Dev.to/JS] [Triangle with loop](https://dev.to/ramirezmz/triangle-with-loop-5b13)
+- [Dev.to/JS] [Responsive Card Slider Using HTML CSS &amp; JavaScript](https://dev.to/codingtitan6/responsive-card-slider-using-html-css-javascript-3bim)
+- [Lifehacker] [Who Should Get Mortgage Protection Insurance?](https://lifehacker.com/who-should-get-mortgage-protection-insurance-1849676634)
+- [Dev.to/JS] [Getting Started With Docker for Nodejs](https://dev.to/collins87mbathi/getting-started-with-docker-for-nodejs-1m2e)
 - [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)
 - [Dev.to/JS] [What exactly is Automation Testing?](https://dev.to/postwell45/what-exactly-is-automation-testing-2ae1)
 - [Dev.to/JS] [Simple React like button with Stylify CSS. From Utilities to Components, mangled selectors, and 50% smaller production build.](https://dev.to/machy8/simple-react-like-button-with-stylify-css-from-utilities-to-components-mangled-selectors-and-50-smaller-production-build-dg)
@@ -30,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Abstracciones detalles e interfaces.](https://dev.to/iagolast/abstracciones-detalles-e-interfaces-3p0i)
 - [Dev.to/JS] [How to solve this problem?](https://dev.to/gwjunny/how-to-solve-this-problem-1p0l)
 - [Dev.to/JS] [How my obsession drove me to re-engineer a different type of FlatList, I called it &quot;NestedLists&quot;.](https://dev.to/olawalethefirst/how-my-obsession-drove-me-to-re-engineer-a-different-type-of-flatlist-i-called-it-nestedlists-2i21)
-- [Dev.to/JS] [React: How does useDeferredValue and useTransition work ?](https://dev.to/linhbui167/how-does-usedeferredvalue-and-usetransition-work--31fp)
-- [Dev.to/JS] [The Site That Teaches React Hook Structures 2022](https://dev.to/musayazlik/the-site-that-teaches-react-hook-structures-2022-ooa)
-- [Dev.to/JS] [On persistence, collaboration, trial and error - Hacktoberfest 2022 🚀🌟🔧](https://dev.to/saminarp/on-persistence-collaboration-trial-and-error-hacktoberfest-2022-3igh)
-- [Dev.to/JS] [Let&#39;s print fibonacci series with js with all explanation and problem solving.](https://dev.to/rajivchaulagain/lets-print-fibonacci-series-with-js-with-all-explanation-and-problem-solving-c2n)
-- [Dev.to/JS] [Creating individual markdown blog pages - part 13](https://dev.to/dailydevtips1/creating-individual-markdown-blog-pages-part-13-5flc)
-- [Dev.to/JS] [Using Redis for Caching &lpar;2022&rpar;](https://dev.to/aseemwangoo/using-redis-for-caching-2022-2og5)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Fruit Trees You Can Actually Grow Indoors](https://lifehacker.com/12-fruit-trees-you-can-actually-grow-indoors-1849672630)
 - [Lifehacker] [The Best Privacy Features in DuckDuckGo’s New Web Browser](https://lifehacker.com/the-best-privacy-features-in-duckduckgo-s-new-web-brows-1849673422)
 - [Lifehacker] [Three Life Insurance Myths You Should Ignore](https://lifehacker.com/three-life-insurance-myths-you-should-ignore-1849673651)
-- [Lifehacker] [Beware the Costs of &#39;Lifestyle Creep&#39;](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)
-- [Lifehacker] [How to Get Chocolate Stains Out of Clothing, Carpet, and Upholstery](https://lifehacker.com/how-to-get-chocolate-stains-out-of-clothing-carpet-an-1849672707)
-- [Lifehacker] [Forget Olivia Wilde, What&#39;s in Your &#39;Special Salad Dressing&#39;?](https://lifehacker.com/forget-olivia-wilde-whats-in-your-special-salad-dressi-1849673100)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Beware the Costs of &#39;Lifestyle Creep&#39;](https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721)<!-- TECH-POSTS:END -->
 
 ---
 
