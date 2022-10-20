@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Integrate Discord as Notification Provider in Medusa](https://dev.to/medusajs/how-to-integrate-discord-as-notification-provider-in-medusa-115g)
+- [Dev.to/JS] [Abstracciones detalles e interfaces.](https://dev.to/iagolast/abstracciones-detalles-e-interfaces-3p0i)
 - [Dev.to/JS] [How to solve this problem?](https://dev.to/gwjunny/how-to-solve-this-problem-1p0l)
 - [Dev.to/JS] [How my obsession drove me to re-engineer a different type of FlatList, I called it &quot;NestedLists&quot;.](https://dev.to/olawalethefirst/how-my-obsession-drove-me-to-re-engineer-a-different-type-of-flatlist-i-called-it-nestedlists-2i21)
 - [Dev.to/JS] [React: How does useDeferredValue and useTransition work ?](https://dev.to/linhbui167/how-does-usedeferredvalue-and-usetransition-work--31fp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Redis for Caching &lpar;2022&rpar;](https://dev.to/aseemwangoo/using-redis-for-caching-2022-2og5)
 - [Dev.to/JS] [Closer look at Metacall](https://dev.to/patilganesh1010/closer-look-at-metacall-3k3h)
 - [Dev.to/JS] [12. Leetcode Solution in Javascript](https://dev.to/chiki1601/12-leetcode-solution-in-javascript-3a4j)
-- [Dev.to/JS] [Vue3 state to your CSS with v-bind](https://dev.to/ptheodosiou/vue3-state-to-your-css-with-v-bind-47o1)
-- [Dev.to/JS] [Build a Bitwise Permission System](https://dev.to/jannisdev/build-a-bitwise-permission-system-ocl)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
