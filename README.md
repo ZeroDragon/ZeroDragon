@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Tomato Crème Brûlée Is the Perfect Fall Indulgence](https://lifehacker.com/this-tomato-creme-brulee-is-the-perfect-fall-indulgence-1849678970)
+- [Dev.to/JS] [JS Polyfills - Part 1](https://dev.to/uttarasriya/js-polyfills-part-1-52gb)
+- [Dev.to/JS] [Nativescript &amp; Formily: A match made in heaven.](https://dev.to/m_de_giovanni/nativescript-formily-a-match-made-in-heaven-4nhn)
+- [Dev.to/JS] [Manually Moderating Amazon IVS Chat Messages](https://dev.to/aws/manually-moderating-amazon-ivs-chat-messages-5646)
+- [Dev.to/JS] [Nested Dynamic Routes in React Router v6](https://dev.to/ak_ram/nested-dynamic-routes-in-react-router-v6-4pgj)
+- [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
+- [Dev.to/JS] [Understanding Time zones](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
+- [Dev.to/JS] [Emoji Compatibility With Browsers](https://dev.to/lambdatest/emoji-compatibility-with-browsers-46hb)
 - [Dev.to/JS] [Closer look at Novu](https://dev.to/patilganesh1010/closer-look-at-novu-2d1o)
 - [Dev.to/JS] [ERPNext-installation-Guide-Mac](https://dev.to/ahmadfarazcrypto/erpnext-installation-guide-mac-1p79)
 - [Dev.to/JS] [Currying Layout Component Patterns in Next.js](https://dev.to/ixartz/currying-layout-component-patterns-in-nextjs-4l1l)
 - [Dev.to/JS] [Simple Multi-Node Data Replication with HarperDB Pub/Sub](https://dev.to/_staticvoid/simple-multi-node-data-replication-with-harperdb-pubsub-4jch)
 - [Dev.to/JS] [Separate API Layers In React Apps - 6 Steps Towards Maintainable Code](https://dev.to/jkettmann/separate-api-layers-in-react-apps-6-steps-towards-maintainable-code-4n2)
 - [Dev.to/JS] [Why I never understood CSS-in-JS](https://dev.to/starbist/why-i-never-understood-css-in-js-2hob)
-- [Dev.to/JS] [Send email in Node.JS with Nodemailer using Gmail account](https://dev.to/documatic/send-email-in-nodejs-with-nodemailer-using-gmail-account-2gd1)
-- [Dev.to/JS] [React just got awesome&#39;er!](https://dev.to/sayanide/react-just-got-awesomeer-349i)
-- [Dev.to/JS] [Buildtime vs Runtime](https://dev.to/meetbhalodiya/buildtime-vs-runtime-eco)
-- [Dev.to/JS] [Lazy Loading en imágenes con React JS 😴](https://dev.to/franklin030601/lazy-loading-en-imagenes-con-react-js-10ip)
-- [Dev.to/JS] [Lazy Loading in images with React JS 😴](https://dev.to/franklin030601/lazy-loading-in-images-with-react-js-4enm)
-- [Dev.to/JS] [Build an End-To-End Encrypted Chat App in Nuxt.js: Setup and Authentication](https://dev.to/hackmamba/build-an-end-to-end-encrypted-chat-app-in-nuxtjs-setup-and-authentication-2o14)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Modernize an Outdated Bathroom &lpar;Without Doing Major Renovations&rpar;](https://lifehacker.com/three-ways-to-modernize-an-outdated-bathroom-without-d-1849678150)
 - [Lifehacker] [Someone Built a 4D Minecraft Clone](https://lifehacker.com/someone-built-a-4d-minecraft-clone-1849677485)
 - [Lifehacker] [You Can Still Get a Refund for Your Recalled Peloton Treadmill](https://lifehacker.com/you-can-still-get-a-refund-for-your-recalled-peloton-tr-1849677624)
-- [Lifehacker] [Don&#39;t Let the Kids Kiss Your Pet Lizard](https://lifehacker.com/dont-let-the-kids-kiss-your-pet-lizard-1849677874)
-- [Lifehacker] [How Figure Out Your Post-Forgiveness Student Loan Payment](https://lifehacker.com/how-figure-out-your-post-forgiveness-student-loan-payme-1849676837)
-- [Lifehacker] [What&#39;s New on Hulu in November 2022](https://lifehacker.com/whats-new-on-hulu-in-november-2022-1849676699)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Let the Kids Kiss Your Pet Lizard](https://lifehacker.com/dont-let-the-kids-kiss-your-pet-lizard-1849677874)<!-- TECH-POSTS:END -->
 
 ---
 
