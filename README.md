@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Often You Really Need to Wash Your Winter Coat](https://lifehacker.com/how-often-you-really-need-to-wash-your-winter-coat-1849683582)
+- [Dev.to/JS] [Deployment Automation Of A Static Website](https://dev.to/ck9801/deployment-automation-of-a-static-website-8ao)
+- [Dev.to/JS] [Do you know the ‘Swiss Army knife’ of programming?](https://dev.to/emmanuelkadominah/do-you-know-the-swiss-army-knife-of-programming-2i28)
+- [Lifehacker] [How Inflation Might Help Lower Your Taxes in 2023](https://lifehacker.com/how-inflation-might-help-lower-your-taxes-in-2023-1849683814)
+- [Dev.to/JS] [8 best resources to become web developer faster + bonus](https://dev.to/rahxuls/8-best-resources-to-become-web-developer-faster-bonus-4e67)
+- [Dev.to/JS] [How React works behind the scenes](https://dev.to/talenttinaapi/how-react-works-behind-the-scenes-1j0m)
 - [Dev.to/JS] [The Top Challenges of Learning New JavaScript Frameworks](https://dev.to/grapecity/the-top-challenges-of-learning-new-javascript-frameworks-3l1c)
 - [Lifehacker] [The Easiest Ways to Make a Fancy Dipping Oil](https://lifehacker.com/the-easiest-ways-to-make-a-fancy-dipping-oil-1849683088)
 - [Dev.to/JS] [Node.js v19.0.0 --watch option](https://dev.to/sabbirsobhani/nodejs-v1900-watch-option-ck7)
@@ -35,13 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
 - [Dev.to/JS] [Understanding Time zones](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
 - [Dev.to/JS] [Emoji Compatibility With Browsers](https://dev.to/lambdatest/emoji-compatibility-with-browsers-46hb)
-- [Dev.to/JS] [Closer look at Novu](https://dev.to/patilganesh1010/closer-look-at-novu-2d1o)
-- [Dev.to/JS] [ERPNext-installation-Guide-Mac](https://dev.to/ahmadfarazcrypto/erpnext-installation-guide-mac-1p79)
-- [Dev.to/JS] [Currying Layout Component Patterns in Next.js](https://dev.to/ixartz/currying-layout-component-patterns-in-nextjs-4l1l)
-- [Dev.to/JS] [Simple Multi-Node Data Replication with HarperDB Pub/Sub](https://dev.to/_staticvoid/simple-multi-node-data-replication-with-harperdb-pubsub-4jch)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
-- [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
+- [Lifehacker] [You Can Make Money for Donating Your Poop](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
 - [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)
 - [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
 - [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
 - [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
-- [Lifehacker] [Who Should &lpar;and Shouldn’t&rpar; Sell Their Home Right Now](https://lifehacker.com/who-should-and-shouldn-t-sell-their-home-right-now-1849674461)
-- [Lifehacker] [Three Ways to Modernize an Outdated Bathroom &lpar;Without Doing Major Renovations&rpar;](https://lifehacker.com/three-ways-to-modernize-an-outdated-bathroom-without-d-1849678150)
-- [Lifehacker] [Someone Built a 4D Minecraft Clone](https://lifehacker.com/someone-built-a-4d-minecraft-clone-1849677485)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Who Should &lpar;and Shouldn’t&rpar; Sell Their Home Right Now](https://lifehacker.com/who-should-and-shouldn-t-sell-their-home-right-now-1849674461)<!-- TECH-POSTS:END -->
 
 ---
 
