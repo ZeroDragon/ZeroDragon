@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
+- [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
+- [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
 - [Lifehacker] [How to Figure Out Why You Have Low Water Pressure &lpar;and Fix It&rpar;](https://lifehacker.com/how-to-figure-out-why-you-have-low-water-pressure-and-1849684406)
 - [Lifehacker] [How to Finally Get Rid of That Wood Paneling &lpar;or at Least Cover It Up&rpar;](https://lifehacker.com/how-to-finally-get-rid-of-that-wood-paneling-or-at-lea-1849687231)
 - [Dev.to/JS] [The Rising Coder - Week 8/13 &lpar;Frontend Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-813-frontend-week-13-5652)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
 - [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)
 - [Lifehacker] [How to Stop Embers From ‘Popping’ Out of Your Fireplace](https://lifehacker.com/how-to-stop-embers-from-popping-out-of-your-fireplace-1849681498)
-- [Lifehacker] [No, the CDC Cannot Mandate COVID Vaccines for Kids](https://lifehacker.com/no-the-cdc-cannot-mandate-covid-vaccines-for-kids-1849681657)
-- [Lifehacker] [Why You Should Be Suspicious of Financial Advice From Celebrities](https://lifehacker.com/why-you-should-be-suspicious-of-financial-advice-from-c-1849676544)
-- [Lifehacker] [The Best New Features Coming to Google Messages](https://lifehacker.com/the-best-new-features-coming-to-google-messages-1849681567)
-- [Lifehacker] [You Can Make Your Own Weighted Blanket](https://lifehacker.com/you-can-make-your-own-weighted-blanket-1849680312)<!-- TECH-POSTS:END -->
+- [Lifehacker] [No, the CDC Cannot Mandate COVID Vaccines for Kids](https://lifehacker.com/no-the-cdc-cannot-mandate-covid-vaccines-for-kids-1849681657)<!-- TECH-POSTS:END -->
 
 ---
 
