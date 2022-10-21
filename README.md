@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best essay writing services](https://dev.to/bestessaywritingservic/best-essay-writing-services-2pg3)
+- [Dev.to/JS] [Closures in JavaScript](https://dev.to/rkshaw20/closures-in-javascript-43jj)
+- [Dev.to/JS] [Back to the Front-end: Exploring the Future of the Umbraco UI &lpar;Part 10 - RxJS&rpar;](https://dev.to/mattbrailsford/back-to-the-front-end-exploring-the-future-of-the-umbraco-ui-part-10-rxjs-dl3)
+- [Dev.to/JS] [Back to the Front-end: Exploring the Future of the Umbraco UI &lpar;Part 6 - ES Modules&rpar;](https://dev.to/mattbrailsford/back-to-the-front-end-exploring-the-future-of-the-umbraco-ui-part-6-es-modules-33m4)
 - [Dev.to/JS] [219. Leetcode solution in Javascript](https://dev.to/chiki1601/219-leetcode-solution-in-javascript-55h3)
 - [Dev.to/JS] [Web Developers, Please Don&#39;t get Obsessed with your Operating System](https://dev.to/ashishdeveloper99/web-developers-please-dont-get-obsessed-with-your-operating-system-p8c)
 - [Dev.to/JS] [How React works behind the scenes](https://dev.to/amrtcrypto/how-react-works-behind-the-scenes-5e4k)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vertical Order Traversal of a Binary Tree](https://dev.to/zeeshanali0704/vertical-order-traversal-of-a-binary-tree-34lc)
 - [Dev.to/JS] [Subtree of Another Tree](https://dev.to/zeeshanali0704/subtree-of-another-tree-2198)
 - [Dev.to/JS] [Detect vulnerable libraries within your GitHub environments for free](https://dev.to/codesec/detect-vulnerable-libraries-within-your-github-environments-for-free-2mg0)
-- [Dev.to/JS] [Criando aplicações Vue.js com back-end &quot;no-code&quot;](https://dev.to/patrickmonteiro/criando-aplicacoes-vuejs-com-back-end-no-code-odm)
-- [Dev.to/JS] [Is GitHub Copilot a Threat to Developers?](https://dev.to/asayerio_techblog/is-github-copilot-a-threat-to-developers-2ol8)
-- [Dev.to/JS] [Map-based &lpar;functional&rpar; namespacing](https://dev.to/projektorius96/map-based-functional-namespacing-ll2)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
-- [Dev.to/JS] [Build a Serverless Lie Detector that uses AI for Facial Recognition](https://dev.to/shreythecray/build-a-serverless-lie-detector-that-uses-ai-for-facial-recognition-1obk)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
 - [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)
