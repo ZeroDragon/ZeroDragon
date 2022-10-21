@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Separate API Layers In React Apps - 6 Steps Towards Maintainable Code](https://dev.to/jkettmann/separate-api-layers-in-react-apps-6-steps-towards-maintainable-code-4n2)
+- [Dev.to/JS] [Why I never understood CSS-in-JS](https://dev.to/starbist/why-i-never-understood-css-in-js-2hob)
+- [Dev.to/JS] [Send email in Node.JS with Nodemailer using Gmail account](https://dev.to/documatic/send-email-in-nodejs-with-nodemailer-using-gmail-account-2gd1)
+- [Dev.to/JS] [React just got awesome&#39;er!](https://dev.to/sayanide/react-just-got-awesomeer-349i)
+- [Dev.to/JS] [Buildtime vs Runtime](https://dev.to/meetbhalodiya/buildtime-vs-runtime-eco)
 - [Dev.to/JS] [Lazy Loading en imágenes con React JS 😴](https://dev.to/franklin030601/lazy-loading-en-imagenes-con-react-js-10ip)
 - [Dev.to/JS] [Lazy Loading in images with React JS 😴](https://dev.to/franklin030601/lazy-loading-in-images-with-react-js-4enm)
 - [Dev.to/JS] [Build an End-To-End Encrypted Chat App in Nuxt.js: Setup and Authentication](https://dev.to/hackmamba/build-an-end-to-end-encrypted-chat-app-in-nuxtjs-setup-and-authentication-2o14)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Refactoring Tools: What to Avoid During Refactoring](https://dev.to/bespoyasov/refactoring-tools-what-to-avoid-during-refactoring-4nnb)
 - [Dev.to/JS] [Should we use WooCommerce Block Theme Syntax in 2022?](https://dev.to/ingosteinke/should-we-use-woocommerce-block-theme-syntax-in-2022-4n61)
 - [Dev.to/JS] [Conditionally load scripts in NextJS using environment variables](https://dev.to/cchanxzy/conditionally-load-scripts-in-nextjs-using-environment-variables-50bj)
-- [Dev.to/JS] [JavaScript Engine](https://dev.to/rkshaw20/javascript-engine-j3o)
-- [Dev.to/JS] [Can we do startup with API?](https://dev.to/srivichai_kolsrichai/can-we-do-startup-with-api-3mh1)
-- [Dev.to/JS] [Best essay writing services](https://dev.to/bestessaywritingservic/best-essay-writing-services-2pg3)
-- [Dev.to/JS] [Closures in JavaScript](https://dev.to/rkshaw20/closures-in-javascript-43jj)
-- [Dev.to/JS] [Back to the Front-end: Exploring the Future of the Umbraco UI &lpar;Part 10 - RxJS&rpar;](https://dev.to/mattbrailsford/back-to-the-front-end-exploring-the-future-of-the-umbraco-ui-part-10-rxjs-dl3)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
