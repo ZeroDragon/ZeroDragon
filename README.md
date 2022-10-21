@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript For Noobs : Part - 1](https://dev.to/thegraygodfather/javascript-for-noobs-part-1-2kfi)
+- [Lifehacker] [20 Creepy Games You Can Play on Xbox Game Pass and PlayStation Plus Extra This Halloween](https://lifehacker.com/20-creepy-games-you-can-play-on-xbox-game-pass-and-play-1849684380)
+- [Dev.to/JS] [Different types of variable declarations in JavaScript - var, let and const.](https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0)
 - [Dev.to/JS] [Hacktoberfest Week 3](https://dev.to/lostbutton/hacktoberfest-week-3-2mbj)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is Misiveria?](https://lifehacker.com/what-is-misiveria-1849683736)
 - [Lifehacker] [10 Things Science Still Doesn&#39;t Know](https://lifehacker.com/10-things-science-still-doesnt-know-1849683545)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Tomato Crème Brûlée Is the Perfect Fall Indulgence](https://lifehacker.com/this-tomato-creme-brulee-is-the-perfect-fall-indulgence-1849678970)
 - [Dev.to/JS] [JS Polyfills - Part 1](https://dev.to/uttarasriya/js-polyfills-part-1-52gb)
 - [Dev.to/JS] [Nativescript &amp; Formily: A match made in heaven.](https://dev.to/m_de_giovanni/nativescript-formily-a-match-made-in-heaven-4nhn)
-- [Dev.to/JS] [Manually Moderating Amazon IVS Chat Messages](https://dev.to/aws/manually-moderating-amazon-ivs-chat-messages-5646)
-- [Dev.to/JS] [Nested Dynamic Routes in React Router v6](https://dev.to/ak_ram/nested-dynamic-routes-in-react-router-v6-4pgj)
 - [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Can’t Pick Someone Up If They’re Touching Your Chin](https://lifehacker.com/why-you-can-t-pick-someone-up-if-they-re-touching-your-1849678925)
 - [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
 - [Lifehacker] [Skeleton Cookies Are the New Gingerbread](https://lifehacker.com/skeleton-cookies-are-the-new-gingerbread-1849645486)
-- [Lifehacker] [Who Should Get Mortgage Protection Insurance?](https://lifehacker.com/who-should-get-mortgage-protection-insurance-1849676634)
-- [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Who Should Get Mortgage Protection Insurance?](https://lifehacker.com/who-should-get-mortgage-protection-insurance-1849676634)<!-- TECH-POSTS:END -->
 
 ---
 
