@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Talk About a Negative Experience at a Previous Job During an Interview](https://lifehacker.com/how-to-talk-about-a-negative-experience-at-a-previous-j-1849682645)
+- [Lifehacker] [How to Improve Your VO2 Max](https://lifehacker.com/how-to-improve-your-vo2-max-1849681809)
+- [Dev.to/JS] [2.44 - Svelte, Accessibility &amp; DX with Josefine Schaefer](https://dev.to/codingcatdev/244-svelte-accessibility-dx-with-josefine-schaefer-2lbg)
 - [Lifehacker] [How Often You Really Need to Wash Your Winter Coat](https://lifehacker.com/how-often-you-really-need-to-wash-your-winter-coat-1849683582)
 - [Dev.to/JS] [Deployment Automation Of A Static Website](https://dev.to/ck9801/deployment-automation-of-a-static-website-8ao)
 - [Dev.to/JS] [Do you know the ‘Swiss Army knife’ of programming?](https://dev.to/emmanuelkadominah/do-you-know-the-swiss-army-knife-of-programming-2i28)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nested Dynamic Routes in React Router v6](https://dev.to/ak_ram/nested-dynamic-routes-in-react-router-v6-4pgj)
 - [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
 - [Dev.to/JS] [Understanding Time zones](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
-- [Dev.to/JS] [Emoji Compatibility With Browsers](https://dev.to/lambdatest/emoji-compatibility-with-browsers-46hb)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Lifehacker] [You Can Make Money for Donating Your Poop](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Who Should Get Mortgage Protection Insurance?](https://lifehacker.com/who-should-get-mortgage-protection-insurance-1849676634)
 - [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)
 - [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
-- [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)
-- [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
-- [Lifehacker] [Who Should &lpar;and Shouldn’t&rpar; Sell Their Home Right Now](https://lifehacker.com/who-should-and-shouldn-t-sell-their-home-right-now-1849674461)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)<!-- TECH-POSTS:END -->
 
 ---
 
