@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is GitHub Copilot a Threat to Developers?](https://dev.to/asayerio_techblog/is-github-copilot-a-threat-to-developers-2ol8)
+- [Dev.to/JS] [Map-based &lpar;functional&rpar; namespacing](https://dev.to/projektorius96/map-based-functional-namespacing-ll2)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Dev.to/JS] [Build a Serverless Lie Detector that uses AI for Facial Recognition](https://dev.to/shreythecray/build-a-serverless-lie-detector-that-uses-ai-for-facial-recognition-1obk)
 - [Dev.to/JS] [Roll A Dice! - Building a Command Bot for Microsoft Teams Using Team Toolkit v4 with VS Code](https://dev.to/girlie_mac/roll-a-dice-building-a-command-bot-for-microsoft-teams-using-team-toolkit-v4-with-vs-code-3e3b)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Phase 1 project at Flatiron](https://dev.to/samgotowka/phase-1-project-at-flatiron-27go)
 - [Dev.to/JS] [Learning Open Source Community](https://dev.to/genne23v/learning-open-source-community-4nji)
 - [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)
-- [Dev.to/JS] [Data Structures 101: Implement hash tables in JavaScript](https://dev.to/educative/data-structures-101-implement-hash-tables-in-javascript-3ff8)
-- [Dev.to/JS] [__filename, __dirname, and others are not really globals.](https://dev.to/andersoncodes/filename-dirname-and-others-are-not-really-globals-4jpp)
 - [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
 - [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)
 - [Lifehacker] [How to Stop Embers From ‘Popping’ Out of Your Fireplace](https://lifehacker.com/how-to-stop-embers-from-popping-out-of-your-fireplace-1849681498)
