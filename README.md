@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Figure Out Why You Have Low Water Pressure &lpar;and Fix It&rpar;](https://lifehacker.com/how-to-figure-out-why-you-have-low-water-pressure-and-1849684406)
 - [Lifehacker] [How to Finally Get Rid of That Wood Paneling &lpar;or at Least Cover It Up&rpar;](https://lifehacker.com/how-to-finally-get-rid-of-that-wood-paneling-or-at-lea-1849687231)
 - [Dev.to/JS] [The Rising Coder - Week 8/13 &lpar;Frontend Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-813-frontend-week-13-5652)
 - [Lifehacker] [Strike Gold With the Alaska Cocktail](https://lifehacker.com/strike-gold-with-the-alaska-cocktail-1849686889)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, the CDC Cannot Mandate COVID Vaccines for Kids](https://lifehacker.com/no-the-cdc-cannot-mandate-covid-vaccines-for-kids-1849681657)
 - [Lifehacker] [Why You Should Be Suspicious of Financial Advice From Celebrities](https://lifehacker.com/why-you-should-be-suspicious-of-financial-advice-from-c-1849676544)
 - [Lifehacker] [The Best New Features Coming to Google Messages](https://lifehacker.com/the-best-new-features-coming-to-google-messages-1849681567)
-- [Lifehacker] [You Can Make Your Own Weighted Blanket](https://lifehacker.com/you-can-make-your-own-weighted-blanket-1849680312)
-- [Lifehacker] [Can You Watch True Crime Shows Ethically?](https://lifehacker.com/can-you-watch-true-crime-shows-ethically-1849681462)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Your Own Weighted Blanket](https://lifehacker.com/you-can-make-your-own-weighted-blanket-1849680312)<!-- TECH-POSTS:END -->
 
 ---
 
