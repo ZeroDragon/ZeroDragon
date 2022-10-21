@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can we do startup with API?](https://dev.to/srivichai_kolsrichai/can-we-do-startup-with-api-3mh1)
 - [Dev.to/JS] [Best essay writing services](https://dev.to/bestessaywritingservic/best-essay-writing-services-2pg3)
 - [Dev.to/JS] [Closures in JavaScript](https://dev.to/rkshaw20/closures-in-javascript-43jj)
 - [Dev.to/JS] [Back to the Front-end: Exploring the Future of the Umbraco UI &lpar;Part 10 - RxJS&rpar;](https://dev.to/mattbrailsford/back-to-the-front-end-exploring-the-future-of-the-umbraco-ui-part-10-rxjs-dl3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a generic posts function - part 14](https://dev.to/dailydevtips1/creating-a-generic-posts-function-part-14-3gfj)
 - [Dev.to/JS] [Vertical Order Traversal of a Binary Tree](https://dev.to/zeeshanali0704/vertical-order-traversal-of-a-binary-tree-34lc)
 - [Dev.to/JS] [Subtree of Another Tree](https://dev.to/zeeshanali0704/subtree-of-another-tree-2198)
-- [Dev.to/JS] [Detect vulnerable libraries within your GitHub environments for free](https://dev.to/codesec/detect-vulnerable-libraries-within-your-github-environments-for-free-2mg0)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
