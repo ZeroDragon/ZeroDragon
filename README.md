@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Top Challenges of Learning New JavaScript Frameworks](https://dev.to/grapecity/the-top-challenges-of-learning-new-javascript-frameworks-3l1c)
+- [Lifehacker] [The Easiest Ways to Make a Fancy Dipping Oil](https://lifehacker.com/the-easiest-ways-to-make-a-fancy-dipping-oil-1849683088)
+- [Dev.to/JS] [Node.js v19.0.0 --watch option](https://dev.to/sabbirsobhani/nodejs-v1900-watch-option-ck7)
+- [Lifehacker] [32 of the Horniest Movies Ever Made](https://lifehacker.com/32-of-the-horniest-movies-ever-made-1849676910)
 - [Lifehacker] [This Tomato Crème Brûlée Is the Perfect Fall Indulgence](https://lifehacker.com/this-tomato-creme-brulee-is-the-perfect-fall-indulgence-1849678970)
 - [Dev.to/JS] [JS Polyfills - Part 1](https://dev.to/uttarasriya/js-polyfills-part-1-52gb)
 - [Dev.to/JS] [Nativescript &amp; Formily: A match made in heaven.](https://dev.to/m_de_giovanni/nativescript-formily-a-match-made-in-heaven-4nhn)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ERPNext-installation-Guide-Mac](https://dev.to/ahmadfarazcrypto/erpnext-installation-guide-mac-1p79)
 - [Dev.to/JS] [Currying Layout Component Patterns in Next.js](https://dev.to/ixartz/currying-layout-component-patterns-in-nextjs-4l1l)
 - [Dev.to/JS] [Simple Multi-Node Data Replication with HarperDB Pub/Sub](https://dev.to/_staticvoid/simple-multi-node-data-replication-with-harperdb-pubsub-4jch)
-- [Dev.to/JS] [Separate API Layers In React Apps - 6 Steps Towards Maintainable Code](https://dev.to/jkettmann/separate-api-layers-in-react-apps-6-steps-towards-maintainable-code-4n2)
-- [Dev.to/JS] [Why I never understood CSS-in-JS](https://dev.to/starbist/why-i-never-understood-css-in-js-2hob)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best Household Uses for Hair Conditioner](https://lifehacker.com/12-of-the-best-household-uses-for-hair-conditioner-1849678660)
 - [Lifehacker] [Who Should &lpar;and Shouldn’t&rpar; Sell Their Home Right Now](https://lifehacker.com/who-should-and-shouldn-t-sell-their-home-right-now-1849674461)
 - [Lifehacker] [Three Ways to Modernize an Outdated Bathroom &lpar;Without Doing Major Renovations&rpar;](https://lifehacker.com/three-ways-to-modernize-an-outdated-bathroom-without-d-1849678150)
-- [Lifehacker] [Someone Built a 4D Minecraft Clone](https://lifehacker.com/someone-built-a-4d-minecraft-clone-1849677485)
-- [Lifehacker] [You Can Still Get a Refund for Your Recalled Peloton Treadmill](https://lifehacker.com/you-can-still-get-a-refund-for-your-recalled-peloton-tr-1849677624)
-- [Lifehacker] [Don&#39;t Let the Kids Kiss Your Pet Lizard](https://lifehacker.com/dont-let-the-kids-kiss-your-pet-lizard-1849677874)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Someone Built a 4D Minecraft Clone](https://lifehacker.com/someone-built-a-4d-minecraft-clone-1849677485)<!-- TECH-POSTS:END -->
 
 ---
 
