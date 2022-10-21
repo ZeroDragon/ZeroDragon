@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Developers, Please Don&#39;t get Obsessed with your Operating System](https://dev.to/ashishdeveloper99/web-developers-please-dont-get-obsessed-with-your-operating-system-p8c)
+- [Dev.to/JS] [How React works behind the scenes](https://dev.to/amrtcrypto/how-react-works-behind-the-scenes-5e4k)
+- [Dev.to/JS] [The Great Debate: Next.js vs React](https://dev.to/amrtcrypto/the-great-debate-nextjs-vs-react-3l6h)
+- [Dev.to/JS] [Creating a generic posts function - part 14](https://dev.to/dailydevtips1/creating-a-generic-posts-function-part-14-3gfj)
 - [Dev.to/JS] [Vertical Order Traversal of a Binary Tree](https://dev.to/zeeshanali0704/vertical-order-traversal-of-a-binary-tree-34lc)
 - [Dev.to/JS] [Subtree of Another Tree](https://dev.to/zeeshanali0704/subtree-of-another-tree-2198)
 - [Dev.to/JS] [Detect vulnerable libraries within your GitHub environments for free](https://dev.to/codesec/detect-vulnerable-libraries-within-your-github-environments-for-free-2mg0)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Dev.to/JS] [Build a Serverless Lie Detector that uses AI for Facial Recognition](https://dev.to/shreythecray/build-a-serverless-lie-detector-that-uses-ai-for-facial-recognition-1obk)
 - [Dev.to/JS] [Roll A Dice! - Building a Command Bot for Microsoft Teams Using Team Toolkit v4 with VS Code](https://dev.to/girlie_mac/roll-a-dice-building-a-command-bot-for-microsoft-teams-using-team-toolkit-v4-with-vs-code-3e3b)
-- [Dev.to/JS] [What are Mutator Methods?](https://dev.to/michaelvinidev/what-are-mutator-methods-aif)
-- [Dev.to/JS] [Tidying up getServerSideProps&lpar;Server-Side Rendering&rpar; with Higher Order Functions](https://dev.to/ogzhanolguncu/tidying-up-getserversidepropsserver-side-rendering-with-higher-order-functions-4ad6)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
-- [Dev.to/JS] [What are NodeLists, and how do they work?](https://dev.to/smpnjn/what-are-nodelists-and-how-do-they-work-ia9)
-- [Dev.to/JS] [Simple Intro To The reduce&lpar;&rpar; Method In Javascript](https://dev.to/ty_51/the-reduce-method-537b)
 - [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
 - [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)
 - [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
