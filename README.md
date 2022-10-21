@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vertical Order Traversal of a Binary Tree](https://dev.to/zeeshanali0704/vertical-order-traversal-of-a-binary-tree-34lc)
+- [Dev.to/JS] [Subtree of Another Tree](https://dev.to/zeeshanali0704/subtree-of-another-tree-2198)
 - [Dev.to/JS] [Detect vulnerable libraries within your GitHub environments for free](https://dev.to/codesec/detect-vulnerable-libraries-within-your-github-environments-for-free-2mg0)
 - [Dev.to/JS] [Criando aplicações Vue.js com back-end &quot;no-code&quot;](https://dev.to/patrickmonteiro/criando-aplicacoes-vuejs-com-back-end-no-code-odm)
 - [Dev.to/JS] [Is GitHub Copilot a Threat to Developers?](https://dev.to/asayerio_techblog/is-github-copilot-a-threat-to-developers-2ol8)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Dev.to/JS] [What are NodeLists, and how do they work?](https://dev.to/smpnjn/what-are-nodelists-and-how-do-they-work-ia9)
 - [Dev.to/JS] [Simple Intro To The reduce&lpar;&rpar; Method In Javascript](https://dev.to/ty_51/the-reduce-method-537b)
-- [Dev.to/JS] [Javascript Add Event Listener to Multiple Elements](https://dev.to/smpnjn/javascript-add-event-listener-to-multiple-elements-2jah)
 - [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
-- [Dev.to/JS] [Serverless React SSR on AWS](https://dev.to/mxro/serverless-react-ssr-on-aws-mf1)
 - [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)
 - [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
 - [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)
