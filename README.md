@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closer look at Novu](https://dev.to/patilganesh1010/closer-look-at-novu-2d1o)
+- [Dev.to/JS] [ERPNext-installation-Guide-Mac](https://dev.to/ahmadfarazcrypto/erpnext-installation-guide-mac-1p79)
+- [Dev.to/JS] [Currying Layout Component Patterns in Next.js](https://dev.to/ixartz/currying-layout-component-patterns-in-nextjs-4l1l)
+- [Dev.to/JS] [Simple Multi-Node Data Replication with HarperDB Pub/Sub](https://dev.to/_staticvoid/simple-multi-node-data-replication-with-harperdb-pubsub-4jch)
 - [Dev.to/JS] [Separate API Layers In React Apps - 6 Steps Towards Maintainable Code](https://dev.to/jkettmann/separate-api-layers-in-react-apps-6-steps-towards-maintainable-code-4n2)
 - [Dev.to/JS] [Why I never understood CSS-in-JS](https://dev.to/starbist/why-i-never-understood-css-in-js-2hob)
 - [Dev.to/JS] [Send email in Node.JS with Nodemailer using Gmail account](https://dev.to/documatic/send-email-in-nodejs-with-nodemailer-using-gmail-account-2gd1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lazy Loading en imágenes con React JS 😴](https://dev.to/franklin030601/lazy-loading-en-imagenes-con-react-js-10ip)
 - [Dev.to/JS] [Lazy Loading in images with React JS 😴](https://dev.to/franklin030601/lazy-loading-in-images-with-react-js-4enm)
 - [Dev.to/JS] [Build an End-To-End Encrypted Chat App in Nuxt.js: Setup and Authentication](https://dev.to/hackmamba/build-an-end-to-end-encrypted-chat-app-in-nuxtjs-setup-and-authentication-2o14)
-- [Dev.to/JS] [Adding PWA to Vite Applications](https://dev.to/_ibrahimturan/adding-pwa-to-vite-applications-1bce)
-- [Dev.to/JS] [Refactoring Tools: What to Avoid During Refactoring](https://dev.to/bespoyasov/refactoring-tools-what-to-avoid-during-refactoring-4nnb)
-- [Dev.to/JS] [Should we use WooCommerce Block Theme Syntax in 2022?](https://dev.to/ingosteinke/should-we-use-woocommerce-block-theme-syntax-in-2022-4n61)
-- [Dev.to/JS] [Conditionally load scripts in NextJS using environment variables](https://dev.to/cchanxzy/conditionally-load-scripts-in-nextjs-using-environment-variables-50bj)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Lifehacker] [How to Make $1,500 Per Month by Dropping a Deuce](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
