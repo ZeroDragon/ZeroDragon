@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All of the Best New Features in Firefox 106](https://lifehacker.com/all-of-the-best-new-features-in-firefox-106-1849686852)
+- [Dev.to/JS] [TO-DO List - CRUD Full Stack in Ionic Type Script React and Parse Back4app](https://dev.to/omarashzeinhom/to-do-list-crud-full-stack-in-ionic-type-script-react-and-parse-back4app-j8a)
+- [Dev.to/JS] [7 Tips to Making Your Puppeteer Scripts More Bulletproof](https://dev.to/joelgriffith/7-tips-to-making-your-puppeteer-scripts-more-bulletproof-1c9b)
+- [Lifehacker] [11 Sex Podcasts to Make You Better in Bed](https://lifehacker.com/11-sex-podcasts-to-make-you-better-in-bed-1849678533)
 - [Dev.to/JS] [JavaScript For Noobs : Part - 1](https://dev.to/thegraygodfather/javascript-for-noobs-part-1-2kfi)
 - [Lifehacker] [20 Creepy Games You Can Play on Xbox Game Pass and PlayStation Plus Extra This Halloween](https://lifehacker.com/20-creepy-games-you-can-play-on-xbox-game-pass-and-play-1849684380)
 - [Dev.to/JS] [Different types of variable declarations in JavaScript - var, let and const.](https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js v19.0.0 --watch option](https://dev.to/sabbirsobhani/nodejs-v1900-watch-option-ck7)
 - [Lifehacker] [32 of the Horniest Movies Ever Made](https://lifehacker.com/32-of-the-horniest-movies-ever-made-1849676910)
 - [Lifehacker] [This Tomato Crème Brûlée Is the Perfect Fall Indulgence](https://lifehacker.com/this-tomato-creme-brulee-is-the-perfect-fall-indulgence-1849678970)
-- [Dev.to/JS] [JS Polyfills - Part 1](https://dev.to/uttarasriya/js-polyfills-part-1-52gb)
-- [Dev.to/JS] [Nativescript &amp; Formily: A match made in heaven.](https://dev.to/m_de_giovanni/nativescript-formily-a-match-made-in-heaven-4nhn)
 - [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Watch True Crime Shows Ethically?](https://lifehacker.com/can-you-watch-true-crime-shows-ethically-1849681462)
 - [Lifehacker] [How to Stop Microsoft Edge From Hogging System Resources](https://lifehacker.com/how-to-stop-microsoft-edge-from-hogging-system-resource-1849680959)
 - [Lifehacker] [Why You Can’t Pick Someone Up If They’re Touching Your Chin](https://lifehacker.com/why-you-can-t-pick-someone-up-if-they-re-touching-your-1849678925)
-- [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
-- [Lifehacker] [Skeleton Cookies Are the New Gingerbread](https://lifehacker.com/skeleton-cookies-are-the-new-gingerbread-1849645486)
-- [Lifehacker] [Who Should Get Mortgage Protection Insurance?](https://lifehacker.com/who-should-get-mortgage-protection-insurance-1849676634)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)<!-- TECH-POSTS:END -->
 
 ---
 
