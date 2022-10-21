@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hacktoberfest Week 3](https://dev.to/lostbutton/hacktoberfest-week-3-2mbj)
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is Misiveria?](https://lifehacker.com/what-is-misiveria-1849683736)
+- [Lifehacker] [10 Things Science Still Doesn&#39;t Know](https://lifehacker.com/10-things-science-still-doesnt-know-1849683545)
 - [Lifehacker] [How to Talk About a Negative Experience at a Previous Job During an Interview](https://lifehacker.com/how-to-talk-about-a-negative-experience-at-a-previous-j-1849682645)
 - [Lifehacker] [How to Improve Your VO2 Max](https://lifehacker.com/how-to-improve-your-vo2-max-1849681809)
 - [Dev.to/JS] [2.44 - Svelte, Accessibility &amp; DX with Josefine Schaefer](https://dev.to/codingcatdev/244-svelte-accessibility-dx-with-josefine-schaefer-2lbg)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Manually Moderating Amazon IVS Chat Messages](https://dev.to/aws/manually-moderating-amazon-ivs-chat-messages-5646)
 - [Dev.to/JS] [Nested Dynamic Routes in React Router v6](https://dev.to/ak_ram/nested-dynamic-routes-in-react-router-v6-4pgj)
 - [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
-- [Dev.to/JS] [Understanding Time zones](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Lifehacker] [You Can Make Money for Donating Your Poop](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Change Yourself from a Night Person Into a Morning Person &lpar;Maybe&rpar;](https://lifehacker.com/how-to-change-yourself-from-a-night-person-into-a-morni-1849678862)
 - [Lifehacker] [Skeleton Cookies Are the New Gingerbread](https://lifehacker.com/skeleton-cookies-are-the-new-gingerbread-1849645486)
 - [Lifehacker] [Who Should Get Mortgage Protection Insurance?](https://lifehacker.com/who-should-get-mortgage-protection-insurance-1849676634)
-- [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)
-- [Lifehacker] [How Rent-to-Own Can Scam You Out of Your Money and Time](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
-- [Lifehacker] [You Need a Career Crisis Plan](https://lifehacker.com/you-need-a-career-crisis-plan-1849674649)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You’re Sautéing Your Vegetables All Wrong](https://lifehacker.com/you-re-sauteing-your-vegetables-all-wrong-1849678659)<!-- TECH-POSTS:END -->
 
 ---
 
