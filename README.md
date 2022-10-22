@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 FREE Resources to Learn JavaScript in 2022](https://dev.to/sidjs/3-free-resources-to-learn-javascript-in-2022-57pb)
 - [Dev.to/JS] [Connecting Stripe Webhooks to Firebase Cloud Functions on localhost using Localtunnel.](https://dev.to/perennialautodidact/connecting-stripe-webhooks-to-firebase-cloud-functions-on-localhost-using-localtunnel-55o9)
 - [Dev.to/JS] [Hacktoberfest Week 3](https://dev.to/cychu42/hacktoberfest-week-3-3im0)
 - [Dev.to/JS] [5 Debugging Tips that can Save you 5hrs of Debugging Time](https://dev.to/idnk2203/5-debugging-tips-that-can-save-you-5hrs-of-debugging-time-3c1d)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2.44 - Svelte, Accessibility &amp; DX with Josefine Schaefer](https://dev.to/codingcatdev/244-svelte-accessibility-dx-with-josefine-schaefer-2lbg)
 - [Lifehacker] [How Often You Really Need to Wash Your Winter Coat](https://lifehacker.com/how-often-you-really-need-to-wash-your-winter-coat-1849683582)
 - [Dev.to/JS] [Deployment Automation Of A Static Website](https://dev.to/ck9801/deployment-automation-of-a-static-website-8ao)
-- [Dev.to/JS] [Do you know the ‘Swiss Army knife’ of programming?](https://dev.to/emmanuelkadominah/do-you-know-the-swiss-army-knife-of-programming-2i28)
 - [Lifehacker] [How Inflation Might Help Lower Your Taxes in 2023](https://lifehacker.com/how-inflation-might-help-lower-your-taxes-in-2023-1849683814)
 - [Lifehacker] [The Easiest Ways to Make a Fancy Dipping Oil](https://lifehacker.com/the-easiest-ways-to-make-a-fancy-dipping-oil-1849683088)
 - [Lifehacker] [32 of the Horniest Movies Ever Made](https://lifehacker.com/32-of-the-horniest-movies-ever-made-1849676910)
