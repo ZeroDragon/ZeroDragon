@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [These 10 free APIs will take your programming projects to the next level 👇](https://dev.to/elliot_brenyasarfo_18749/these-10-free-apis-will-take-your-programming-projects-to-the-next-level-5g24)
+- [Dev.to/JS] [Ready to learn programming? Skip the expensive coding bootcamps.](https://dev.to/elliot_brenyasarfo_18749/ready-to-learn-programming-skip-the-expensive-coding-bootcamps-4bgo)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;22-10-2022&rpar; - Beautiful Robots](https://dev.to/mjgs/this-weeks-newsletter-is-out-22-10-2022-beautiful-robots-43b4)
+- [Dev.to/JS] [Loading work from a JSON file - part 15](https://dev.to/dailydevtips1/loading-work-from-a-json-file-part-15-jm3)
 - [Dev.to/JS] [Some Shocking facts About JavaScript 💻☕](https://dev.to/roshan_100kar/some-shocking-facts-about-javascript-4cf8)
 - [Dev.to/JS] [Here&#39;s my experience on the Scrimba JavaScript course](https://dev.to/jcmullis1/heres-my-experience-on-the-scrimba-javascript-course-2gbn)
 - [Dev.to/JS] [Javascript framework I am actually excited about](https://dev.to/techthatconnect/javascript-framework-i-am-actually-excited-about-42im)
@@ -39,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Strike Gold With the Alaska Cocktail](https://lifehacker.com/strike-gold-with-the-alaska-cocktail-1849686889)
 - [Lifehacker] [How to Discipline a Sensitive Child](https://lifehacker.com/how-to-discipline-a-sensitive-child-1849671513)
 - [Lifehacker] [All of the Best New Features in Firefox 106](https://lifehacker.com/all-of-the-best-new-features-in-firefox-106-1849686852)
-- [Dev.to/JS] [TO-DO List - CRUD Full Stack in Ionic Type Script React and Parse Back4app](https://dev.to/omarashzeinhom/to-do-list-crud-full-stack-in-ionic-type-script-react-and-parse-back4app-j8a)
-- [Dev.to/JS] [7 Tips to Making Your Puppeteer Scripts More Bulletproof](https://dev.to/joelgriffith/7-tips-to-making-your-puppeteer-scripts-more-bulletproof-1c9b)
 - [Lifehacker] [11 Sex Podcasts to Make You Better in Bed](https://lifehacker.com/11-sex-podcasts-to-make-you-better-in-bed-1849678533)
-- [Dev.to/JS] [JavaScript For Noobs : Part - 1](https://dev.to/thegraygodfather/javascript-for-noobs-part-1-2kfi)
 - [Lifehacker] [20 Creepy Games You Can Play on Xbox Game Pass and PlayStation Plus Extra This Halloween](https://lifehacker.com/20-creepy-games-you-can-play-on-xbox-game-pass-and-play-1849684380)
-- [Dev.to/JS] [Different types of variable declarations in JavaScript - var, let and const.](https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is Misiveria?](https://lifehacker.com/what-is-misiveria-1849683736)
 - [Lifehacker] [10 Things Science Still Doesn&#39;t Know](https://lifehacker.com/10-things-science-still-doesnt-know-1849683545)
 - [Lifehacker] [How to Talk About a Negative Experience at a Previous Job During an Interview](https://lifehacker.com/how-to-talk-about-a-negative-experience-at-a-previous-j-1849682645)
