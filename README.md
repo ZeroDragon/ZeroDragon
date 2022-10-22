@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Proxy: Using Javascript Proxies like a Pro](https://dev.to/smpnjn/using-javascript-proxies-like-a-pro-590)
+- [Dev.to/JS] [Understand The DOM and DOM manipulation with javascript &lpar;part 2&rpar;](https://dev.to/jonathz/understand-the-dom-and-dom-manipulation-with-javascript-part-2-153i)
 - [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
 - [Dev.to/JS] [My fair share of rehydration in React.](https://dev.to/seven/my-fair-share-of-rehydration-in-react-4gj9)
 - [Dev.to/JS] [To delete element of an array in mongoose collection](https://dev.to/nikhil_joseph/to-delete-element-of-an-array-in-mongoose-collection-1n4h)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simpli ACV + Keto Gummies - Fat Loss Solution, Benefits, Price, Uses &amp; Side Effects?](https://dev.to/simpliacvketog9/simpli-acv-keto-gummies-fat-loss-solution-benefits-price-uses-side-effects-3oe)
 - [Dev.to/JS] [CloudFlare Workers - some functionality can only be performed while handling a request](https://dev.to/kleeut/cloudflare-workers-some-functionality-can-only-be-performed-while-handling-a-request-3bne)
 - [Dev.to/JS] [Javascript: .forEach and array.filter explained](https://dev.to/isabellaguran22/javascript-foreach-and-arrayfilter-explained-3e7c)
-- [Dev.to/JS] [使用docker-compse部署Node.js](https://dev.to/zhangbo/shi-yong-docker-compsebu-shu-nodejs-34lg)
-- [Dev.to/JS] [JavaScript Hack 1- Use of console.table&lpar;&rpar;](https://dev.to/tanzirulhuda/javascript-hack-1-use-of-consoletable-3f0b)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
