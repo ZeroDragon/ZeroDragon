@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
+- [Dev.to/JS] [My fair share of rehydration in React.](https://dev.to/seven/my-fair-share-of-rehydration-in-react-4gj9)
 - [Dev.to/JS] [To delete element of an array in mongoose collection](https://dev.to/nikhil_joseph/to-delete-element-of-an-array-in-mongoose-collection-1n4h)
 - [Dev.to/JS] [When a deeply nested dependency halts a release](https://dev.to/nsrcodes/when-a-deeply-nested-dependency-halts-a-release-158l)
 - [Dev.to/JS] [How to host SvelteKit SSR apps &lpar;GDPR-compliant&rpar;?](https://dev.to/mandrasch/how-to-host-sveltekit-ssr-apps-gdpr-compliant-15bh)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript: .forEach and array.filter explained](https://dev.to/isabellaguran22/javascript-foreach-and-arrayfilter-explained-3e7c)
 - [Dev.to/JS] [使用docker-compse部署Node.js](https://dev.to/zhangbo/shi-yong-docker-compsebu-shu-nodejs-34lg)
 - [Dev.to/JS] [JavaScript Hack 1- Use of console.table&lpar;&rpar;](https://dev.to/tanzirulhuda/javascript-hack-1-use-of-consoletable-3f0b)
-- [Dev.to/JS] [These 10 free APIs will take your programming projects to the next level 👇](https://dev.to/elliot_brenyasarfo_18749/these-10-free-apis-will-take-your-programming-projects-to-the-next-level-5g24)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)
 - [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
 - [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)
-- [Lifehacker] [How to Stop Embers From ‘Popping’ Out of Your Fireplace](https://lifehacker.com/how-to-stop-embers-from-popping-out-of-your-fireplace-1849681498)
-- [Lifehacker] [No, the CDC Cannot Mandate COVID Vaccines for Kids](https://lifehacker.com/no-the-cdc-cannot-mandate-covid-vaccines-for-kids-1849681657)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop Embers From ‘Popping’ Out of Your Fireplace](https://lifehacker.com/how-to-stop-embers-from-popping-out-of-your-fireplace-1849681498)<!-- TECH-POSTS:END -->
 
 ---
 
