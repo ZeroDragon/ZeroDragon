@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to scrape Google Maps Places?](https://dev.to/darshan0_1/how-to-scrape-google-maps-places-1ilb)
 - [Dev.to/JS] [React js](https://dev.to/xcellx002419/react-js-4ife)
 - [Dev.to/JS] [Javascript Shallow Copy - what is a Shallow Copy?](https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5)
 - [Dev.to/JS] [Q.js](https://dev.to/priyanshu0_09/qjs-5bo3)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a basic dashboard for your Discord bot using Next.js 💯](https://dev.to/asterki/create-a-basic-dashboard-for-your-discord-bot-using-nextjs-1f9h)
 - [Dev.to/JS] [Fetch and Create events in Google Calendar with HTML and Javascript.](https://dev.to/debopriyadey/fetch-and-create-events-in-google-calendar-with-html-and-javascript-1o6f)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
-- [Dev.to/JS] [HTTP Get and Delete from AWS Lambda](https://dev.to/prabusah_53/http-get-and-delete-from-aws-lambda-7ml)
 - [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
