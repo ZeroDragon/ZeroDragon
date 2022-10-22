@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simpli ACV + Keto Gummies - Fat Loss Solution, Benefits, Price, Uses &amp; Side Effects?](https://dev.to/simpliacvketog9/simpli-acv-keto-gummies-fat-loss-solution-benefits-price-uses-side-effects-3oe)
+- [Dev.to/JS] [CloudFlare Workers - some functionality can only be performed while handling a request](https://dev.to/kleeut/cloudflare-workers-some-functionality-can-only-be-performed-while-handling-a-request-3bne)
+- [Dev.to/JS] [Javascript: .forEach and array.filter explained](https://dev.to/isabellaguran22/javascript-foreach-and-arrayfilter-explained-3e7c)
+- [Dev.to/JS] [使用docker-compse部署Node.js](https://dev.to/zhangbo/shi-yong-docker-compsebu-shu-nodejs-34lg)
+- [Dev.to/JS] [JavaScript Hack 1- Use of console.table&lpar;&rpar;](https://dev.to/tanzirulhuda/javascript-hack-1-use-of-consoletable-3f0b)
 - [Dev.to/JS] [These 10 free APIs will take your programming projects to the next level 👇](https://dev.to/elliot_brenyasarfo_18749/these-10-free-apis-will-take-your-programming-projects-to-the-next-level-5g24)
 - [Dev.to/JS] [Ready to learn programming? Skip the expensive coding bootcamps.](https://dev.to/elliot_brenyasarfo_18749/ready-to-learn-programming-skip-the-expensive-coding-bootcamps-4bgo)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;22-10-2022&rpar; - Beautiful Robots](https://dev.to/mjgs/this-weeks-newsletter-is-out-22-10-2022-beautiful-robots-43b4)
@@ -30,16 +35,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Some Shocking facts About JavaScript 💻☕](https://dev.to/roshan_100kar/some-shocking-facts-about-javascript-4cf8)
 - [Dev.to/JS] [Here&#39;s my experience on the Scrimba JavaScript course](https://dev.to/jcmullis1/heres-my-experience-on-the-scrimba-javascript-course-2gbn)
 - [Dev.to/JS] [Javascript framework I am actually excited about](https://dev.to/techthatconnect/javascript-framework-i-am-actually-excited-about-42im)
-- [Dev.to/JS] [3 FREE Resources to Learn JavaScript in 2022](https://dev.to/sidjs/3-free-resources-to-learn-javascript-in-2022-57pb)
-- [Dev.to/JS] [Connecting Stripe Webhooks to Firebase Cloud Functions on localhost using Localtunnel.](https://dev.to/perennialautodidact/connecting-stripe-webhooks-to-firebase-cloud-functions-on-localhost-using-localtunnel-55o9)
-- [Dev.to/JS] [Hacktoberfest Week 3](https://dev.to/cychu42/hacktoberfest-week-3-3im0)
-- [Dev.to/JS] [5 Debugging Tips that can Save you 5hrs of Debugging Time](https://dev.to/idnk2203/5-debugging-tips-that-can-save-you-5hrs-of-debugging-time-3c1d)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
 - [Lifehacker] [How to Figure Out Why You Have Low Water Pressure &lpar;and Fix It&rpar;](https://lifehacker.com/how-to-figure-out-why-you-have-low-water-pressure-and-1849684406)
 - [Lifehacker] [How to Finally Get Rid of That Wood Paneling &lpar;or at Least Cover It Up&rpar;](https://lifehacker.com/how-to-finally-get-rid-of-that-wood-paneling-or-at-lea-1849687231)
-- [Dev.to/JS] [The Rising Coder - Week 8/13 &lpar;Frontend Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-813-frontend-week-13-5652)
 - [Lifehacker] [Strike Gold With the Alaska Cocktail](https://lifehacker.com/strike-gold-with-the-alaska-cocktail-1849686889)
 - [Lifehacker] [How to Discipline a Sensitive Child](https://lifehacker.com/how-to-discipline-a-sensitive-child-1849671513)
 - [Lifehacker] [All of the Best New Features in Firefox 106](https://lifehacker.com/all-of-the-best-new-features-in-firefox-106-1849686852)
