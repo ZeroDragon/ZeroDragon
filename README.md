@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Connecting Stripe Webhooks to Firebase Cloud Functions on localhost using Localtunnel.](https://dev.to/perennialautodidact/connecting-stripe-webhooks-to-firebase-cloud-functions-on-localhost-using-localtunnel-55o9)
 - [Dev.to/JS] [Hacktoberfest Week 3](https://dev.to/cychu42/hacktoberfest-week-3-3im0)
 - [Dev.to/JS] [5 Debugging Tips that can Save you 5hrs of Debugging Time](https://dev.to/idnk2203/5-debugging-tips-that-can-save-you-5hrs-of-debugging-time-3c1d)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deployment Automation Of A Static Website](https://dev.to/ck9801/deployment-automation-of-a-static-website-8ao)
 - [Dev.to/JS] [Do you know the ‘Swiss Army knife’ of programming?](https://dev.to/emmanuelkadominah/do-you-know-the-swiss-army-knife-of-programming-2i28)
 - [Lifehacker] [How Inflation Might Help Lower Your Taxes in 2023](https://lifehacker.com/how-inflation-might-help-lower-your-taxes-in-2023-1849683814)
-- [Dev.to/JS] [8 best resources to become web developer faster + bonus](https://dev.to/rahxuls/8-best-resources-to-become-web-developer-faster-bonus-4e67)
 - [Lifehacker] [The Easiest Ways to Make a Fancy Dipping Oil](https://lifehacker.com/the-easiest-ways-to-make-a-fancy-dipping-oil-1849683088)
 - [Lifehacker] [32 of the Horniest Movies Ever Made](https://lifehacker.com/32-of-the-horniest-movies-ever-made-1849676910)
 - [Lifehacker] [This Tomato Crème Brûlée Is the Perfect Fall Indulgence](https://lifehacker.com/this-tomato-creme-brulee-is-the-perfect-fall-indulgence-1849678970)
