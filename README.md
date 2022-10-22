@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
+- [Dev.to/JS] [HTTP Get and Delete from AWS Lambda](https://dev.to/prabusah_53/http-get-and-delete-from-aws-lambda-7ml)
+- [Dev.to/JS] [Image Search](https://dev.to/mahich123/image-search-57od)
 - [Dev.to/JS] [Javascript Proxy: Using Javascript Proxies like a Pro](https://dev.to/smpnjn/using-javascript-proxies-like-a-pro-590)
 - [Dev.to/JS] [Understand The DOM and DOM manipulation with javascript &lpar;part 2&rpar;](https://dev.to/jonathz/understand-the-dom-and-dom-manipulation-with-javascript-part-2-153i)
 - [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Google-JWT Authentication with NextAuth](https://dev.to/ifennamonanu/building-google-jwt-authentication-with-nextauth-5g78)
 - [Dev.to/JS] [React Hooks Tutorials: Introduction](https://dev.to/abidullah786/react-hooks-tutorials-introduction-62b)
 - [Dev.to/JS] [Simpli ACV + Keto Gummies - Fat Loss Solution, Benefits, Price, Uses &amp; Side Effects?](https://dev.to/simpliacvketog9/simpli-acv-keto-gummies-fat-loss-solution-benefits-price-uses-side-effects-3oe)
-- [Dev.to/JS] [CloudFlare Workers - some functionality can only be performed while handling a request](https://dev.to/kleeut/cloudflare-workers-some-functionality-can-only-be-performed-while-handling-a-request-3bne)
-- [Dev.to/JS] [Javascript: .forEach and array.filter explained](https://dev.to/isabellaguran22/javascript-foreach-and-arrayfilter-explained-3e7c)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Money for Donating Your Poop](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
 - [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)
 - [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
-- [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)
-- [Lifehacker] [How to Stop Embers From ‘Popping’ Out of Your Fireplace](https://lifehacker.com/how-to-stop-embers-from-popping-out-of-your-fireplace-1849681498)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)<!-- TECH-POSTS:END -->
 
 ---
 
