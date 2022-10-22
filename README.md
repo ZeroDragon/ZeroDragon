@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React js](https://dev.to/xcellx002419/react-js-4ife)
+- [Dev.to/JS] [Javascript Shallow Copy - what is a Shallow Copy?](https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5)
+- [Dev.to/JS] [Q.js](https://dev.to/priyanshu0_09/qjs-5bo3)
 - [Dev.to/JS] [Interacting with ICON Bridge contracts &lpar;proxy contracts&rpar; on EVM chains.](https://dev.to/espanicon/interacting-with-icon-bridge-contracts-proxy-contracts-on-evm-chains-19fd)
 - [Dev.to/JS] [Leaving electron.js to the past. pt-2](https://dev.to/akashpattnaik/leaving-electronjs-to-the-past-pt-2-1k89)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fetch and Create events in Google Calendar with HTML and Javascript.](https://dev.to/debopriyadey/fetch-and-create-events-in-google-calendar-with-html-and-javascript-1o6f)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
 - [Dev.to/JS] [HTTP Get and Delete from AWS Lambda](https://dev.to/prabusah_53/http-get-and-delete-from-aws-lambda-7ml)
-- [Dev.to/JS] [Image Search](https://dev.to/mahich123/image-search-57od)
-- [Dev.to/JS] [Javascript Proxy: Using Javascript Proxies like a Pro](https://dev.to/smpnjn/using-javascript-proxies-like-a-pro-590)
-- [Dev.to/JS] [Understand The DOM and DOM manipulation with javascript &lpar;part 2&rpar;](https://dev.to/jonathz/understand-the-dom-and-dom-manipulation-with-javascript-part-2-153i)
 - [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
