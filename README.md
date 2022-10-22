@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
+- [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
+- [Dev.to/JS] [How to increase website performance?](https://dev.to/rafikadir/how-to-increase-website-performance-4a62)
+- [Dev.to/JS] [Hacktoberfest - PR#3](https://dev.to/mnosov622/hacktoberfest-pr3-c99)
 - [Dev.to/JS] [Build complete website with Docusaurus](https://dev.to/parseable/build-complete-website-with-docusaurus-4ccg)
 - [Dev.to/JS] [Day30 of #100DaysOfCode](https://dev.to/yoot/day30-of-100daysofcode-5612)
 - [Dev.to/JS] [Create a basic dashboard for your Discord bot using Next.js 💯](https://dev.to/asterki/create-a-basic-dashboard-for-your-discord-bot-using-nextjs-1f9h)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
 - [Dev.to/JS] [My fair share of rehydration in React.](https://dev.to/seven/my-fair-share-of-rehydration-in-react-4gj9)
 - [Dev.to/JS] [To delete element of an array in mongoose collection](https://dev.to/nikhil_joseph/to-delete-element-of-an-array-in-mongoose-collection-1n4h)
-- [Dev.to/JS] [When a deeply nested dependency halts a release](https://dev.to/nsrcodes/when-a-deeply-nested-dependency-halts-a-release-158l)
-- [Dev.to/JS] [How to host SvelteKit SSR apps &lpar;GDPR-compliant&rpar;?](https://dev.to/mandrasch/how-to-host-sveltekit-ssr-apps-gdpr-compliant-15bh)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
 - [Lifehacker] [You Can Make Money for Donating Your Poop](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
-- [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)
-- [Lifehacker] [How to Bike in the Rain Without Getting Soaking Wet or Injured](https://lifehacker.com/how-to-bike-in-the-rain-without-getting-soaking-wet-or-1849682128)
-- [Lifehacker] [How to Extend Your Apple Watch’s Battery Life While Exercising](https://lifehacker.com/how-to-extend-your-apple-watch-s-battery-life-while-exe-1849681907)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)<!-- TECH-POSTS:END -->
 
 ---
 
