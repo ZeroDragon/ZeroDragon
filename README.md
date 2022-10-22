@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [To delete element of an array in mongoose collection](https://dev.to/nikhil_joseph/to-delete-element-of-an-array-in-mongoose-collection-1n4h)
 - [Dev.to/JS] [When a deeply nested dependency halts a release](https://dev.to/nsrcodes/when-a-deeply-nested-dependency-halts-a-release-158l)
 - [Dev.to/JS] [How to host SvelteKit SSR apps &lpar;GDPR-compliant&rpar;?](https://dev.to/mandrasch/how-to-host-sveltekit-ssr-apps-gdpr-compliant-15bh)
 - [Dev.to/JS] [JS Polyfills - Part 2](https://dev.to/uttarasriya/js-polyfills-part-2-307d)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [使用docker-compse部署Node.js](https://dev.to/zhangbo/shi-yong-docker-compsebu-shu-nodejs-34lg)
 - [Dev.to/JS] [JavaScript Hack 1- Use of console.table&lpar;&rpar;](https://dev.to/tanzirulhuda/javascript-hack-1-use-of-consoletable-3f0b)
 - [Dev.to/JS] [These 10 free APIs will take your programming projects to the next level 👇](https://dev.to/elliot_brenyasarfo_18749/these-10-free-apis-will-take-your-programming-projects-to-the-next-level-5g24)
-- [Dev.to/JS] [Ready to learn programming? Skip the expensive coding bootcamps.](https://dev.to/elliot_brenyasarfo_18749/ready-to-learn-programming-skip-the-expensive-coding-bootcamps-4bgo)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
