@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When a deeply nested dependency halts a release](https://dev.to/nsrcodes/when-a-deeply-nested-dependency-halts-a-release-158l)
+- [Dev.to/JS] [How to host SvelteKit SSR apps &lpar;GDPR-compliant&rpar;?](https://dev.to/mandrasch/how-to-host-sveltekit-ssr-apps-gdpr-compliant-15bh)
+- [Dev.to/JS] [JS Polyfills - Part 2](https://dev.to/uttarasriya/js-polyfills-part-2-307d)
+- [Dev.to/JS] [Building Google-JWT Authentication with NextAuth](https://dev.to/ifennamonanu/building-google-jwt-authentication-with-nextauth-5g78)
+- [Dev.to/JS] [React Hooks Tutorials: Introduction](https://dev.to/abidullah786/react-hooks-tutorials-introduction-62b)
 - [Dev.to/JS] [Simpli ACV + Keto Gummies - Fat Loss Solution, Benefits, Price, Uses &amp; Side Effects?](https://dev.to/simpliacvketog9/simpli-acv-keto-gummies-fat-loss-solution-benefits-price-uses-side-effects-3oe)
 - [Dev.to/JS] [CloudFlare Workers - some functionality can only be performed while handling a request](https://dev.to/kleeut/cloudflare-workers-some-functionality-can-only-be-performed-while-handling-a-request-3bne)
 - [Dev.to/JS] [Javascript: .forEach and array.filter explained](https://dev.to/isabellaguran22/javascript-foreach-and-arrayfilter-explained-3e7c)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Hack 1- Use of console.table&lpar;&rpar;](https://dev.to/tanzirulhuda/javascript-hack-1-use-of-consoletable-3f0b)
 - [Dev.to/JS] [These 10 free APIs will take your programming projects to the next level 👇](https://dev.to/elliot_brenyasarfo_18749/these-10-free-apis-will-take-your-programming-projects-to-the-next-level-5g24)
 - [Dev.to/JS] [Ready to learn programming? Skip the expensive coding bootcamps.](https://dev.to/elliot_brenyasarfo_18749/ready-to-learn-programming-skip-the-expensive-coding-bootcamps-4bgo)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;22-10-2022&rpar; - Beautiful Robots](https://dev.to/mjgs/this-weeks-newsletter-is-out-22-10-2022-beautiful-robots-43b4)
-- [Dev.to/JS] [Loading work from a JSON file - part 15](https://dev.to/dailydevtips1/loading-work-from-a-json-file-part-15-jm3)
-- [Dev.to/JS] [Some Shocking facts About JavaScript 💻☕](https://dev.to/roshan_100kar/some-shocking-facts-about-javascript-4cf8)
-- [Dev.to/JS] [Here&#39;s my experience on the Scrimba JavaScript course](https://dev.to/jcmullis1/heres-my-experience-on-the-scrimba-javascript-course-2gbn)
-- [Dev.to/JS] [Javascript framework I am actually excited about](https://dev.to/techthatconnect/javascript-framework-i-am-actually-excited-about-42im)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
