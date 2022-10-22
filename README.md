@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interacting with ICON Bridge contracts &lpar;proxy contracts&rpar; on EVM chains.](https://dev.to/espanicon/interacting-with-icon-bridge-contracts-proxy-contracts-on-evm-chains-19fd)
+- [Dev.to/JS] [Leaving electron.js to the past. pt-2](https://dev.to/akashpattnaik/leaving-electronjs-to-the-past-pt-2-1k89)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Dev.to/JS] [How to increase website performance?](https://dev.to/rafikadir/how-to-increase-website-performance-4a62)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Proxy: Using Javascript Proxies like a Pro](https://dev.to/smpnjn/using-javascript-proxies-like-a-pro-590)
 - [Dev.to/JS] [Understand The DOM and DOM manipulation with javascript &lpar;part 2&rpar;](https://dev.to/jonathz/understand-the-dom-and-dom-manipulation-with-javascript-part-2-153i)
 - [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
-- [Dev.to/JS] [My fair share of rehydration in React.](https://dev.to/seven/my-fair-share-of-rehydration-in-react-4gj9)
-- [Dev.to/JS] [To delete element of an array in mongoose collection](https://dev.to/nikhil_joseph/to-delete-element-of-an-array-in-mongoose-collection-1n4h)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
