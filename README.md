@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build complete website with Docusaurus](https://dev.to/parseable/build-complete-website-with-docusaurus-4ccg)
+- [Dev.to/JS] [Day30 of #100DaysOfCode](https://dev.to/yoot/day30-of-100daysofcode-5612)
+- [Dev.to/JS] [Create a basic dashboard for your Discord bot using Next.js 💯](https://dev.to/asterki/create-a-basic-dashboard-for-your-discord-bot-using-nextjs-1f9h)
+- [Dev.to/JS] [Fetch and Create events in Google Calendar with HTML and Javascript.](https://dev.to/debopriyadey/fetch-and-create-events-in-google-calendar-with-html-and-javascript-1o6f)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
 - [Dev.to/JS] [HTTP Get and Delete from AWS Lambda](https://dev.to/prabusah_53/http-get-and-delete-from-aws-lambda-7ml)
 - [Dev.to/JS] [Image Search](https://dev.to/mahich123/image-search-57od)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [To delete element of an array in mongoose collection](https://dev.to/nikhil_joseph/to-delete-element-of-an-array-in-mongoose-collection-1n4h)
 - [Dev.to/JS] [When a deeply nested dependency halts a release](https://dev.to/nsrcodes/when-a-deeply-nested-dependency-halts-a-release-158l)
 - [Dev.to/JS] [How to host SvelteKit SSR apps &lpar;GDPR-compliant&rpar;?](https://dev.to/mandrasch/how-to-host-sveltekit-ssr-apps-gdpr-compliant-15bh)
-- [Dev.to/JS] [JS Polyfills - Part 2](https://dev.to/uttarasriya/js-polyfills-part-2-307d)
-- [Dev.to/JS] [Building Google-JWT Authentication with NextAuth](https://dev.to/ifennamonanu/building-google-jwt-authentication-with-nextauth-5g78)
-- [Dev.to/JS] [React Hooks Tutorials: Introduction](https://dev.to/abidullah786/react-hooks-tutorials-introduction-62b)
-- [Dev.to/JS] [Simpli ACV + Keto Gummies - Fat Loss Solution, Benefits, Price, Uses &amp; Side Effects?](https://dev.to/simpliacvketog9/simpli-acv-keto-gummies-fat-loss-solution-benefits-price-uses-side-effects-3oe)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
