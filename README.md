@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Some Shocking facts About JavaScript 💻☕](https://dev.to/roshan_100kar/some-shocking-facts-about-javascript-4cf8)
 - [Dev.to/JS] [Here&#39;s my experience on the Scrimba JavaScript course](https://dev.to/jcmullis1/heres-my-experience-on-the-scrimba-javascript-course-2gbn)
 - [Dev.to/JS] [Javascript framework I am actually excited about](https://dev.to/techthatconnect/javascript-framework-i-am-actually-excited-about-42im)
 - [Dev.to/JS] [3 FREE Resources to Learn JavaScript in 2022](https://dev.to/sidjs/3-free-resources-to-learn-javascript-in-2022-57pb)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript For Noobs : Part - 1](https://dev.to/thegraygodfather/javascript-for-noobs-part-1-2kfi)
 - [Lifehacker] [20 Creepy Games You Can Play on Xbox Game Pass and PlayStation Plus Extra This Halloween](https://lifehacker.com/20-creepy-games-you-can-play-on-xbox-game-pass-and-play-1849684380)
 - [Dev.to/JS] [Different types of variable declarations in JavaScript - var, let and const.](https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0)
-- [Dev.to/JS] [Hacktoberfest Week 3](https://dev.to/lostbutton/hacktoberfest-week-3-2mbj)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is Misiveria?](https://lifehacker.com/what-is-misiveria-1849683736)
 - [Lifehacker] [10 Things Science Still Doesn&#39;t Know](https://lifehacker.com/10-things-science-still-doesnt-know-1849683545)
 - [Lifehacker] [How to Talk About a Negative Experience at a Previous Job During an Interview](https://lifehacker.com/how-to-talk-about-a-negative-experience-at-a-previous-j-1849682645)
