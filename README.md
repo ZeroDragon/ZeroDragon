@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [02.08 React State - font color from input &lpar;functional components&rpar;](https://dev.to/adriangheo/0208-react-state-font-color-from-input-functional-components-4pga)
+- [Dev.to/JS] [02.07 React State - font color from input &lpar;class components&rpar;](https://dev.to/adriangheo/0207-react-state-font-color-from-input-class-components-3hof)
+- [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
+- [Dev.to/JS] [Difference between State &amp; Props](https://dev.to/moazamdev/difference-between-state-props-4p7d)
 - [Dev.to/JS] [Avengers: The Test Of Brain](https://dev.to/theutpal01/avengers-the-test-of-brain-4geg)
 - [Dev.to/JS] [02.06 React State - font color switch &lpar;functional components&rpar;](https://dev.to/adriangheo/0206-react-state-font-color-switch-functional-components-40gj)
 - [Dev.to/JS] [02.05 React State - font color switch &lpar;class components&rpar;](https://dev.to/adriangheo/0205-react-state-font-color-switch-class-components-3jco)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [webpack4 module-federation](https://dev.to/zhanghongen/webpack4-module-federation-29b5)
 - [Dev.to/JS] [02.02 React State - basic counter &lpar;functional components&rpar;](https://dev.to/adriangheo/react-examples-0202-react-state-basic-counter-functional-components-43kd)
 - [Dev.to/JS] [02.01 React State - basic counter &lpar;class components&rpar;](https://dev.to/adriangheo/0201-react-state-basic-counter-class-components-46i)
-- [Dev.to/JS] [01.03 Multiple props through multiple components &lpar;functional components&rpar;](https://dev.to/adriangheo/react-examples-0103-multiple-props-through-multiple-components-functional-components-2dj3)
-- [Dev.to/JS] [01.02 Pass props through multiple components &lpar;functional components&rpar;](https://dev.to/adriangheo/react-examples-0102-pass-props-through-multiple-components-5b01)
-- [Dev.to/JS] [01.01 Pass props to component &lpar;functional components&rpar;](https://dev.to/adriangheo/react-examples-0101-pass-props-to-component-functional-components-136a)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
 - [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
-- [Lifehacker] [You Can Make Money for Donating Your Poop](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)
-- [Lifehacker] [How to Make a Quick and Easy Crumb Crust](https://lifehacker.com/how-to-make-a-quick-and-easy-crumb-crust-1849682742)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Money for Donating Your Poop](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)<!-- TECH-POSTS:END -->
 
 ---
 
