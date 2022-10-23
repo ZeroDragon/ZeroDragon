@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VS Code - the best customization for Web developer](https://dev.to/hugaidas/vs-code-the-best-customization-for-web-developer-2o6o)
+- [Dev.to/JS] [Build a multi-language website using React in 3 minutes](https://dev.to/quocbahuynh/build-a-multi-language-website-using-react-in-3-minutes-4206)
+- [Dev.to/JS] [Introduction to Amplication](https://dev.to/learnearnfun/introduction-to-amplication-4k2i)
+- [Dev.to/JS] [Vue unit testing Guide with jest - part 1](https://dev.to/mennaaly/vue-unit-testing-guide-with-jest-part-1-21cg)
+- [Dev.to/JS] [React: Passing props from Child to Parent &lpar;alternative method for callbacks&rpar;.](https://dev.to/inam9578/react-passing-props-from-child-to-parent-alternative-method-for-callbacks-5h6p)
+- [Dev.to/JS] [Javascript sparse array and how to avoid them](https://dev.to/trinityyi/javascript-sparse-array-and-how-to-avoid-them-2cgm)
+- [Dev.to/JS] [Should You Focus on JavaScript or WordPress?](https://dev.to/sashevuchkov/should-you-focus-on-javascript-or-wordpress-397b)
 - [Dev.to/JS] [Diwali Greetings in DevStyle😜](https://dev.to/rajamanickam/diwali-greetings-in-devstyle-1l70)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Dev.to/JS] [Simple Full Stack Products CRUD App using React, Node JS &amp; MySQL](https://dev.to/codewithmarish/simple-full-stack-products-crud-app-using-react-node-js-mysql-1ka0)
@@ -30,14 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Launching Bruno - Local-first Opensource API Client &lpar;postman alternative&rpar;](https://dev.to/helloanoop/launching-bruno-local-first-opensource-api-client-2ipc)
 - [Dev.to/JS] [Piano - HTML, CSS, JavaScript](https://dev.to/mjb/piano-html-css-javascript-1p3b)
 - [Dev.to/JS] [An AI powered plugin that renames Figma layers.](https://dev.to/hugoduprez/an-ai-powered-plugin-that-renames-figma-layers-4547)
-- [Dev.to/JS] [Serializing dynamic JSON through gRPC on nodejs](https://dev.to/joaopaulo11jp/serializing-dynamic-json-through-grpc-on-nodejs-3ebj)
-- [Dev.to/JS] [02.08 React State - font color from input &lpar;functional components&rpar;](https://dev.to/adriangheo/0208-react-state-font-color-from-input-functional-components-4pga)
-- [Dev.to/JS] [02.07 React State - font color from input &lpar;class components&rpar;](https://dev.to/adriangheo/0207-react-state-font-color-from-input-class-components-3hof)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
-- [Dev.to/JS] [Difference between State &amp; Props](https://dev.to/moazamdev/difference-between-state-props-4p7d)
-- [Dev.to/JS] [Avengers: The Test Of Brain](https://dev.to/theutpal01/avengers-the-test-of-brain-4geg)
-- [Dev.to/JS] [02.06 React State - font color switch &lpar;functional components&rpar;](https://dev.to/adriangheo/0206-react-state-font-color-switch-functional-components-40gj)
-- [Dev.to/JS] [02.05 React State - font color switch &lpar;class components&rpar;](https://dev.to/adriangheo/0205-react-state-font-color-switch-class-components-3jco)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
