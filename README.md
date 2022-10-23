@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Awesome way to convert every type to Boolean on JavaScript](https://dev.to/junedang/awesome-way-to-convert-every-type-to-boolean-on-javascript-11ip)
 - [Dev.to/JS] [OVERCOMING THE IMPOSTER SYNDROME](https://dev.to/maame_afia/overcoming-the-imposter-syndrome-le)
 - [Dev.to/JS] [UNDERSTANDING JAVASCRIPT OPERATORS.](https://dev.to/maame_afia/understanding-javascript-operators-4p39)
 - [Dev.to/JS] [&quot;Googling it&quot; is okay! - Hear Me Out 😅](https://dev.to/elliot_brenyasarfo_18749/googling-it-is-okay-hear-me-out-5fj3)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leaving electron.js to the past. pt-2](https://dev.to/akashpattnaik/leaving-electronjs-to-the-past-pt-2-1k89)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
-- [Dev.to/JS] [How to increase website performance?](https://dev.to/rafikadir/how-to-increase-website-performance-4a62)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
 - [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
