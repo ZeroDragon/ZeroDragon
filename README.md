@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It’s OK to write garbage code once in a while.](https://dev.to/elliot_brenyasarfo_18749/its-ok-to-write-garbage-code-once-in-a-while-3bjp)
 - [Dev.to/JS] [Introduction to JavaScript](https://dev.to/sadiqshah786/introduction-to-javascript-1ahe)
 - [Dev.to/JS] [Creating a Discord bot with JavaScript and hosting it](https://dev.to/posandu/creating-a-discord-bot-with-javascript-and-hosting-it-46i1)
 - [Dev.to/JS] [Copy to Clipboard with JavaScript](https://dev.to/ptheodosiou/copy-to-clipboard-with-javascript-3hm0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;Googling it&quot; is okay! - Hear Me Out 😅](https://dev.to/elliot_brenyasarfo_18749/googling-it-is-okay-hear-me-out-5fj3)
 - [Dev.to/JS] [Update : Status Page for Pastes.io](https://dev.to/pastesio/update-status-page-for-pastesio-52ho)
 - [Dev.to/JS] [Easily Password Protect NextJS pages with Iron Session](https://dev.to/itwasmattgregg/easily-password-protect-nextjs-pages-with-iron-session-3ljo)
-- [Dev.to/JS] [How to scrape Google Maps Places?](https://dev.to/darshan0_1/how-to-scrape-google-maps-places-1ilb)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
