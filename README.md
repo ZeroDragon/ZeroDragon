@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Start with one test](https://dev.to/noriller/start-with-one-test-57hb)
+- [Dev.to/JS] [Ng-News: Episode 22/42](https://dev.to/_ng_news/ng-news-episode-2242-1n29)
+- [Dev.to/JS] [Take Some Time to Learn Features and Code Before Making Any Change to Open Source Project](https://dev.to/genne23v/take-some-time-to-learn-features-and-code-before-making-any-change-to-open-source-project-1ddj)
 - [Dev.to/JS] [What is JavaScript](https://dev.to/michaelziboh/what-is-javascript-9i)
 - [Dev.to/JS] [This is my first Article For Testing](https://dev.to/akram6t/this-is-my-first-article-for-testing-5fcn)
 - [Dev.to/JS] [Is JavaScript a Synchronous or Asynchronous Language?](https://dev.to/jerncomania/is-javascript-a-synchronous-or-asynchronous-language-226b)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue unit testing Guide with jest - part 1](https://dev.to/mennaaly/vue-unit-testing-guide-with-jest-part-1-21cg)
 - [Dev.to/JS] [React: Passing props from Child to Parent &lpar;alternative method for callbacks&rpar;.](https://dev.to/inam9578/react-passing-props-from-child-to-parent-alternative-method-for-callbacks-5h6p)
 - [Dev.to/JS] [Javascript sparse array and how to avoid them](https://dev.to/trinityyi/javascript-sparse-array-and-how-to-avoid-them-2cgm)
-- [Dev.to/JS] [Should You Focus on JavaScript or WordPress?](https://dev.to/sashevuchkov/should-you-focus-on-javascript-or-wordpress-397b)
-- [Dev.to/JS] [Diwali Greetings in DevStyle😜](https://dev.to/rajamanickam/diwali-greetings-in-devstyle-1l70)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
-- [Dev.to/JS] [Simple Full Stack Products CRUD App using React, Node JS &amp; MySQL](https://dev.to/codewithmarish/simple-full-stack-products-crud-app-using-react-node-js-mysql-1ka0)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
