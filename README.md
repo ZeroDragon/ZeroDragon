@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JavaScript](https://dev.to/michaelziboh/what-is-javascript-9i)
+- [Dev.to/JS] [This is my first Article For Testing](https://dev.to/akram6t/this-is-my-first-article-for-testing-5fcn)
+- [Dev.to/JS] [Is JavaScript a Synchronous or Asynchronous Language?](https://dev.to/jerncomania/is-javascript-a-synchronous-or-asynchronous-language-226b)
 - [Dev.to/JS] [VS Code - the best customization for Web developer](https://dev.to/hugaidas/vs-code-the-best-customization-for-web-developer-2o6o)
 - [Dev.to/JS] [Build a multi-language website using React in 3 minutes](https://dev.to/quocbahuynh/build-a-multi-language-website-using-react-in-3-minutes-4206)
 - [Dev.to/JS] [Introduction to Amplication](https://dev.to/learnearnfun/introduction-to-amplication-4k2i)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Dev.to/JS] [Simple Full Stack Products CRUD App using React, Node JS &amp; MySQL](https://dev.to/codewithmarish/simple-full-stack-products-crud-app-using-react-node-js-mysql-1ka0)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
-- [Dev.to/JS] [Launching Bruno - Local-first Opensource API Client &lpar;postman alternative&rpar;](https://dev.to/helloanoop/launching-bruno-local-first-opensource-api-client-2ipc)
-- [Dev.to/JS] [Piano - HTML, CSS, JavaScript](https://dev.to/mjb/piano-html-css-javascript-1p3b)
-- [Dev.to/JS] [An AI powered plugin that renames Figma layers.](https://dev.to/hugoduprez/an-ai-powered-plugin-that-renames-figma-layers-4547)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
