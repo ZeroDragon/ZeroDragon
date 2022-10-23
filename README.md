@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Diwali Greetings in DevStyle😜](https://dev.to/rajamanickam/diwali-greetings-in-devstyle-1l70)
+- [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Dev.to/JS] [Simple Full Stack Products CRUD App using React, Node JS &amp; MySQL](https://dev.to/codewithmarish/simple-full-stack-products-crud-app-using-react-node-js-mysql-1ka0)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Dev.to/JS] [Launching Bruno - Local-first Opensource API Client &lpar;postman alternative&rpar;](https://dev.to/helloanoop/launching-bruno-local-first-opensource-api-client-2ipc)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avengers: The Test Of Brain](https://dev.to/theutpal01/avengers-the-test-of-brain-4geg)
 - [Dev.to/JS] [02.06 React State - font color switch &lpar;functional components&rpar;](https://dev.to/adriangheo/0206-react-state-font-color-switch-functional-components-40gj)
 - [Dev.to/JS] [02.05 React State - font color switch &lpar;class components&rpar;](https://dev.to/adriangheo/0205-react-state-font-color-switch-class-components-3jco)
-- [Dev.to/JS] [02.04 React State - basic counter with page title change &lpar;functional components&rpar;](https://dev.to/adriangheo/0205-react-state-basic-counter-with-page-title-change-functional-components-n60)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [32 of the Horniest Movies Ever Made](https://lifehacker.com/32-of-the-horniest-movies-ever-made-1849676910)
 - [Lifehacker] [This Tomato Crème Brûlée Is the Perfect Fall Indulgence](https://lifehacker.com/this-tomato-creme-brulee-is-the-perfect-fall-indulgence-1849678970)
 - [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
-- [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
-- [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)<!-- TECH-POSTS:END -->
 
 ---
 
