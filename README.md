@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An AI powered plugin that renames Figma layers.](https://dev.to/hugoduprez/an-ai-powered-plugin-that-renames-figma-layers-4547)
+- [Dev.to/JS] [Serializing dynamic JSON through gRPC on nodejs](https://dev.to/joaopaulo11jp/serializing-dynamic-json-through-grpc-on-nodejs-3ebj)
 - [Dev.to/JS] [02.08 React State - font color from input &lpar;functional components&rpar;](https://dev.to/adriangheo/0208-react-state-font-color-from-input-functional-components-4pga)
 - [Dev.to/JS] [02.07 React State - font color from input &lpar;class components&rpar;](https://dev.to/adriangheo/0207-react-state-font-color-from-input-class-components-3hof)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/beyond88/javascript-fundamentals-471b)
 - [Dev.to/JS] [02.03 React State - basic counter with page title change &lpar;class components&rpar;](https://dev.to/adriangheo/0203-react-state-basic-counter-with-page-title-change-class-components-n28)
 - [Dev.to/JS] [webpack4 module-federation](https://dev.to/zhanghongen/webpack4-module-federation-29b5)
-- [Dev.to/JS] [02.02 React State - basic counter &lpar;functional components&rpar;](https://dev.to/adriangheo/react-examples-0202-react-state-basic-counter-functional-components-43kd)
-- [Dev.to/JS] [02.01 React State - basic counter &lpar;class components&rpar;](https://dev.to/adriangheo/0201-react-state-basic-counter-class-components-46i)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
