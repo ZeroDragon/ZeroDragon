@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [OVERCOMING THE IMPOSTER SYNDROME](https://dev.to/maame_afia/overcoming-the-imposter-syndrome-le)
+- [Dev.to/JS] [UNDERSTANDING JAVASCRIPT OPERATORS.](https://dev.to/maame_afia/understanding-javascript-operators-4p39)
+- [Dev.to/JS] [&quot;Googling it&quot; is okay! - Hear Me Out 😅](https://dev.to/elliot_brenyasarfo_18749/googling-it-is-okay-hear-me-out-5fj3)
+- [Dev.to/JS] [Update : Status Page for Pastes.io](https://dev.to/pastesio/update-status-page-for-pastesio-52ho)
 - [Dev.to/JS] [Easily Password Protect NextJS pages with Iron Session](https://dev.to/itwasmattgregg/easily-password-protect-nextjs-pages-with-iron-session-3ljo)
 - [Dev.to/JS] [How to scrape Google Maps Places?](https://dev.to/darshan0_1/how-to-scrape-google-maps-places-1ilb)
 - [Dev.to/JS] [React js](https://dev.to/xcellx002419/react-js-4ife)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Dev.to/JS] [How to increase website performance?](https://dev.to/rafikadir/how-to-increase-website-performance-4a62)
-- [Dev.to/JS] [Hacktoberfest - PR#3](https://dev.to/mnosov622/hacktoberfest-pr3-c99)
-- [Dev.to/JS] [Build complete website with Docusaurus](https://dev.to/parseable/build-complete-website-with-docusaurus-4ccg)
-- [Dev.to/JS] [Day30 of #100DaysOfCode](https://dev.to/yoot/day30-of-100daysofcode-5612)
-- [Dev.to/JS] [Create a basic dashboard for your Discord bot using Next.js 💯](https://dev.to/asterki/create-a-basic-dashboard-for-your-discord-bot-using-nextjs-1f9h)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
 - [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
