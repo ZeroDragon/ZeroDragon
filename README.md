@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jest vs Mocha vs Jasmine: Top 3 JavaScript Testing Frameworks in 2022](https://dev.to/amaralisa9/jest-vs-mocha-vs-jasmine-top-3-javascript-testing-frameworks-in-2022-1mak)
+- [Dev.to/JS] [How to send email attachments using nodemailer](https://dev.to/anandrmedia/how-to-send-email-attachments-using-nodemailer-2n5e)
 - [Dev.to/JS] [Awesome way to convert every type to Boolean on JavaScript](https://dev.to/junedang/awesome-way-to-convert-every-type-to-boolean-on-javascript-11ip)
 - [Dev.to/JS] [OVERCOMING THE IMPOSTER SYNDROME](https://dev.to/maame_afia/overcoming-the-imposter-syndrome-le)
 - [Dev.to/JS] [UNDERSTANDING JAVASCRIPT OPERATORS.](https://dev.to/maame_afia/understanding-javascript-operators-4p39)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React js](https://dev.to/xcellx002419/react-js-4ife)
 - [Dev.to/JS] [Javascript Shallow Copy - what is a Shallow Copy?](https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5)
 - [Dev.to/JS] [Q.js](https://dev.to/priyanshu0_09/qjs-5bo3)
-- [Dev.to/JS] [Interacting with ICON Bridge contracts &lpar;proxy contracts&rpar; on EVM chains.](https://dev.to/espanicon/interacting-with-icon-bridge-contracts-proxy-contracts-on-evm-chains-19fd)
-- [Dev.to/JS] [Leaving electron.js to the past. pt-2](https://dev.to/akashpattnaik/leaving-electronjs-to-the-past-pt-2-1k89)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
