@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Launching Bruno - Local-first Opensource API Client](https://dev.to/helloanoop/launching-bruno-local-first-opensource-api-client-2ipc)
+- [Dev.to/JS] [Simple Full Stack Products CRUD App using React, Node JS &amp; MySQL](https://dev.to/codewithmarish/simple-full-stack-products-crud-app-using-react-node-js-mysql-1ka0)
+- [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
+- [Dev.to/JS] [Launching Bruno - Local-first Opensource API Client &lpar;postman alternative&rpar;](https://dev.to/helloanoop/launching-bruno-local-first-opensource-api-client-2ipc)
 - [Dev.to/JS] [Piano - HTML, CSS, JavaScript](https://dev.to/mjb/piano-html-css-javascript-1p3b)
 - [Dev.to/JS] [An AI powered plugin that renames Figma layers.](https://dev.to/hugoduprez/an-ai-powered-plugin-that-renames-figma-layers-4547)
 - [Dev.to/JS] [Serializing dynamic JSON through gRPC on nodejs](https://dev.to/joaopaulo11jp/serializing-dynamic-json-through-grpc-on-nodejs-3ebj)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [02.06 React State - font color switch &lpar;functional components&rpar;](https://dev.to/adriangheo/0206-react-state-font-color-switch-functional-components-40gj)
 - [Dev.to/JS] [02.05 React State - font color switch &lpar;class components&rpar;](https://dev.to/adriangheo/0205-react-state-font-color-switch-class-components-3jco)
 - [Dev.to/JS] [02.04 React State - basic counter with page title change &lpar;functional components&rpar;](https://dev.to/adriangheo/0205-react-state-basic-counter-with-page-title-change-functional-components-n60)
-- [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/beyond88/javascript-fundamentals-471b)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Tomato Crème Brûlée Is the Perfect Fall Indulgence](https://lifehacker.com/this-tomato-creme-brulee-is-the-perfect-fall-indulgence-1849678970)
 - [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
 - [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
-- [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)
-- [Lifehacker] [You Can Make Money for Donating Your Poop](https://lifehacker.com/you-can-make-money-for-donating-your-poop-1849682583)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Need to Do If Your Home Has Water Damage](https://lifehacker.com/everything-you-need-to-do-if-your-home-has-water-damage-1849678525)<!-- TECH-POSTS:END -->
 
 ---
 
