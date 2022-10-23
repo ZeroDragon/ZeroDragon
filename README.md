@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Launching Bruno - Local-first Opensource API Client](https://dev.to/helloanoop/launching-bruno-local-first-opensource-api-client-2ipc)
+- [Dev.to/JS] [Piano - HTML, CSS, JavaScript](https://dev.to/mjb/piano-html-css-javascript-1p3b)
 - [Dev.to/JS] [An AI powered plugin that renames Figma layers.](https://dev.to/hugoduprez/an-ai-powered-plugin-that-renames-figma-layers-4547)
 - [Dev.to/JS] [Serializing dynamic JSON through gRPC on nodejs](https://dev.to/joaopaulo11jp/serializing-dynamic-json-through-grpc-on-nodejs-3ebj)
 - [Dev.to/JS] [02.08 React State - font color from input &lpar;functional components&rpar;](https://dev.to/adriangheo/0208-react-state-font-color-from-input-functional-components-4pga)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [02.05 React State - font color switch &lpar;class components&rpar;](https://dev.to/adriangheo/0205-react-state-font-color-switch-class-components-3jco)
 - [Dev.to/JS] [02.04 React State - basic counter with page title change &lpar;functional components&rpar;](https://dev.to/adriangheo/0205-react-state-basic-counter-with-page-title-change-functional-components-n60)
 - [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/beyond88/javascript-fundamentals-471b)
-- [Dev.to/JS] [02.03 React State - basic counter with page title change &lpar;class components&rpar;](https://dev.to/adriangheo/0203-react-state-basic-counter-with-page-title-change-class-components-n28)
-- [Dev.to/JS] [webpack4 module-federation](https://dev.to/zhanghongen/webpack4-module-federation-29b5)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
