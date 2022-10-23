@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to JavaScript](https://dev.to/sadiqshah786/introduction-to-javascript-1ahe)
+- [Dev.to/JS] [Creating a Discord bot with JavaScript and hosting it](https://dev.to/posandu/creating-a-discord-bot-with-javascript-and-hosting-it-46i1)
+- [Dev.to/JS] [Copy to Clipboard with JavaScript](https://dev.to/ptheodosiou/copy-to-clipboard-with-javascript-3hm0)
 - [Dev.to/JS] [Jest vs Mocha vs Jasmine: Top 3 JavaScript Testing Frameworks in 2022](https://dev.to/amaralisa9/jest-vs-mocha-vs-jasmine-top-3-javascript-testing-frameworks-in-2022-1mak)
 - [Dev.to/JS] [How to send email attachments using nodemailer](https://dev.to/anandrmedia/how-to-send-email-attachments-using-nodemailer-2n5e)
 - [Dev.to/JS] [Awesome way to convert every type to Boolean on JavaScript](https://dev.to/junedang/awesome-way-to-convert-every-type-to-boolean-on-javascript-11ip)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Update : Status Page for Pastes.io](https://dev.to/pastesio/update-status-page-for-pastesio-52ho)
 - [Dev.to/JS] [Easily Password Protect NextJS pages with Iron Session](https://dev.to/itwasmattgregg/easily-password-protect-nextjs-pages-with-iron-session-3ljo)
 - [Dev.to/JS] [How to scrape Google Maps Places?](https://dev.to/darshan0_1/how-to-scrape-google-maps-places-1ilb)
-- [Dev.to/JS] [React js](https://dev.to/xcellx002419/react-js-4ife)
-- [Dev.to/JS] [Javascript Shallow Copy - what is a Shallow Copy?](https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5)
-- [Dev.to/JS] [Q.js](https://dev.to/priyanshu0_09/qjs-5bo3)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
