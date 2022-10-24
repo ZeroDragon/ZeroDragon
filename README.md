@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with SSG Docusaurus](https://dev.to/mnosov622/working-with-ssg-docusaurus-4cjc)
+- [Dev.to/JS] [Return Largest Numbers in Arrays &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/return-largest-numbers-in-arrays-freecodecamp-notes-42cb)
+- [Dev.to/JS] [The 5 online coding and development tools you need to know](https://dev.to/glowreeyah/the-5-online-coding-and-development-tools-you-need-to-know-p0e)
+- [Dev.to/JS] [Async and Await Javascript](https://dev.to/glowreeyah/async-and-await-javascript-1pna)
+- [Lifehacker] [What You Need to Know About RSV, the Respiratory Illness Surging in Children](https://lifehacker.com/what-you-need-to-know-about-rsv-the-respiratory-illnes-1849693964)
+- [Dev.to/JS] [What is react ?And How to learn react in one week](https://dev.to/vivek7038/how-react-works--bkf)
+- [Lifehacker] [These 20 States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
+- [Lifehacker] [Quickly Class Up a Room With Painted Faux-Arches](https://lifehacker.com/quickly-class-up-a-room-with-painted-faux-arches-1849693677)
+- [Dev.to/JS] [An Instagram-clone with my own flavors using Reactjs Expressjs And MongoDB](https://dev.to/yassinjouao/an-instagram-clone-with-my-own-flavors-using-reactjs-expressjs-and-mongodb-11i7)
 - [Lifehacker] [How to Fix Your Noisy Radiator Based on the Sound It’s Making](https://lifehacker.com/how-to-fix-your-noisy-radiator-based-on-the-sound-it-s-1849693196)
 - [Dev.to/JS] [Creating a frontend app in 3 frameworks](https://dev.to/sas2k/creating-a-frontend-app-in-3-frameworks-40lo)
 - [Dev.to/JS] [Start Selling Subscriptions From Your Website FAST!](https://dev.to/paypaldeveloper/start-selling-subscriptions-from-your-website-fast-1i44)
@@ -35,14 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here&#39;s how I did in my first week of Frontend Mentor challenges.](https://dev.to/hr21don/heres-how-i-did-in-my-first-week-of-frontend-mentor-challenges-2hh4)
 - [Lifehacker] [Start These Ferments Now and Use Them All Holiday Season](https://lifehacker.com/start-these-ferments-now-and-use-them-all-holiday-seaso-1849679086)
 - [Dev.to/JS] [Node.JS: a wise choice for your project?](https://dev.to/cbogdan01/nodejs-a-wise-choice-for-your-project-4ke8)
-- [Dev.to/JS] [Integrating Pangea Audit and Embargo with RedwoodJS](https://dev.to/pangea/integrating-pangea-audit-and-embargo-with-redwoodjs-4i8m)
-- [Dev.to/JS] [Building a Notion-like system with Socket.io And React 😍](https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg)
-- [Dev.to/JS] [Creating a Weekly Mailer with Rio](https://dev.to/denizhan_toprak_6aef0197c/creating-a-weekly-mailer-with-rio-c2h)
 - [Lifehacker] [25 of the Most Useful macOS Ventura Features](https://lifehacker.com/25-of-the-most-useful-macos-ventura-features-1849676873)
-- [Dev.to/JS] [Survey: What makes the perfect ticket?](https://dev.to/jamiedavenport/survey-what-makes-the-perfect-ticket-40cg)
-- [Dev.to/JS] [Movement and Visibility Detection with CSS and JS 👀](https://dev.to/ingosteinke/movement-and-visibility-detection-with-css-and-js-53m7)
 - [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)
-- [Dev.to/JS] [Build a CRUD app with React and Firebase](https://dev.to/asayerio_techblog/build-a-crud-app-with-react-and-firebase-1651)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Discipline a Sensitive Child](https://lifehacker.com/how-to-discipline-a-sensitive-child-1849671513)
 - [Lifehacker] [All of the Best New Features in Firefox 106](https://lifehacker.com/all-of-the-best-new-features-in-firefox-106-1849686852)
 - [Lifehacker] [11 Sex Podcasts to Make You Better in Bed](https://lifehacker.com/11-sex-podcasts-to-make-you-better-in-bed-1849678533)
-- [Lifehacker] [20 Creepy Games You Can Play on Xbox Game Pass and PlayStation Plus Extra This Halloween](https://lifehacker.com/20-creepy-games-you-can-play-on-xbox-game-pass-and-play-1849684380)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is Misiveria?](https://lifehacker.com/what-is-misiveria-1849683736)
-- [Lifehacker] [10 Things Science Still Doesn&#39;t Know](https://lifehacker.com/10-things-science-still-doesnt-know-1849683545)
-- [Lifehacker] [How to Talk About a Negative Experience at a Previous Job During an Interview](https://lifehacker.com/how-to-talk-about-a-negative-experience-at-a-previous-j-1849682645)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 Creepy Games You Can Play on Xbox Game Pass and PlayStation Plus Extra This Halloween](https://lifehacker.com/20-creepy-games-you-can-play-on-xbox-game-pass-and-play-1849684380)<!-- TECH-POSTS:END -->
 
 ---
 
