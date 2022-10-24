@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React country and state fields that detect users&#39; geolocation](https://dev.to/chaoming/react-country-and-state-fields-that-detect-users-geolocation-4n2g)
+- [Dev.to/JS] [Using Callbacks With Async/Await](https://dev.to/maximization/using-callbacks-with-asyncawait-2od9)
+- [Dev.to/JS] [How to Create a Svelte App: SvelteKit Cheatsheet](https://dev.to/askrodney/how-to-create-a-svelte-app-sveltekit-cheatsheet-519e)
 - [Dev.to/JS] [Javascript: Minification vs Obfuscation](https://dev.to/urstrulyvishwak/javascript-minification-vs-obfuscation-2h02)
 - [Dev.to/JS] [Why You Should Learn ReactJS](https://dev.to/tyaga001/why-you-should-learn-reactjs-91p)
 - [Dev.to/JS] [02.14 React State - Basic form with one input &lpar;functional components&rpar;](https://dev.to/adriangheo/0214-react-state-basic-form-with-one-input-functional-components-19p9)
@@ -31,10 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [02.11 React State - User List mount initial 2 users &lpar;class components&rpar;](https://dev.to/adriangheo/0211-react-state-user-list-mount-initial-2-users-class-components-5glb)
 - [Dev.to/JS] [Show upcoming meetings for a Microsoft 365 user](https://dev.to/waldekmastykarz/show-upcoming-meetings-for-a-microsoft-365-user-3379)
 - [Dev.to/JS] [My new Consistency - Learning in Public](https://dev.to/danities316/my-new-consistency-learning-in-public-3gln)
-- [Dev.to/JS] [NgRx Use Cases, Part I: Restricting Access](https://dev.to/armandotrue/ngrx-use-cases-part-i-restricting-access-30lo)
-- [Dev.to/JS] [Improving Performance of Nuxt apps with Partytown](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-apps-with-partytown-80p)
-- [Dev.to/JS] [User Authentication with Strapi and React](https://dev.to/strapi/user-authentication-with-strapi-and-react-foa)
-- [Dev.to/JS] [02.10 React State - bg color change with color picker &lpar;functional components&rpar;](https://dev.to/adriangheo/0210-react-state-bg-color-change-with-color-picker-functional-components-2i35)
+- [Dev.to/JS] [NgRx Use Cases, Part I: Restricting Access](https://dev.to/this-is-angular/ngrx-use-cases-part-i-restricting-access-30lo)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
