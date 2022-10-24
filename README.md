@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Context API for Beginners &lpar;using useContext hook&rpar;](https://dev.to/samueladex/react-context-api-for-beginners-using-usecontext-hook-jld)
+- [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
+- [Dev.to/JS] [JavaScript runtime Node.js 19 keeps the HTTP connection alive and replaces Nodemon!](https://dev.to/paulknulst/javascript-runtime-nodejs-19-keeps-the-http-connection-alive-and-replaces-nodemon-29ef)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Dev.to/JS] [Creando una api rest con node y typescript](https://dev.to/gbarreradev/creando-una-api-rest-con-node-y-typescript-3495)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best way to learn react js for free](https://dev.to/shine18/best-way-to-learn-react-js-for-free-1joe)
 - [Dev.to/JS] [Working with SSG Docusaurus](https://dev.to/mnosov622/working-with-ssg-docusaurus-4cjc)
 - [Dev.to/JS] [Return Largest Numbers in Arrays &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/return-largest-numbers-in-arrays-freecodecamp-notes-42cb)
-- [Dev.to/JS] [The 5 online coding and development tools you need to know](https://dev.to/glowreeyah/the-5-online-coding-and-development-tools-you-need-to-know-p0e)
-- [Dev.to/JS] [Async and Await Javascript](https://dev.to/glowreeyah/async-and-await-javascript-1pna)
 - [Lifehacker] [What You Need to Know About RSV, the Respiratory Illness Surging in Children](https://lifehacker.com/what-you-need-to-know-about-rsv-the-respiratory-illnes-1849693964)
 - [Lifehacker] [These Twenty States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
 - [Lifehacker] [Quickly Class Up a Room With Painted Faux-Arches](https://lifehacker.com/quickly-class-up-a-room-with-painted-faux-arches-1849693677)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
 - [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
 - [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
-- [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
-- [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)<!-- TECH-POSTS:END -->
 
 ---
 
