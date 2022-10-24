@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [wj-config: Loading Configuration From Disk or Fetching From the Web](https://dev.to/webjose/wj-config-loading-configuration-from-disk-or-fetching-from-the-web-3k9h)
 - [Dev.to/JS] [Developer T-Shirts](https://dev.to/imxnasr/developer-t-shirts-3ec3)
 - [Dev.to/JS] [Today&#39;s LeatCode Solution](https://dev.to/durgesh4993/todays-leatcode-solution-4k69)
 - [Dev.to/JS] [Zero to SaaS - Falling in love with the process](https://dev.to/brandonkylebailey/zero-to-saas-falling-in-love-with-the-process-5g60)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is JavaScript](https://dev.to/michaelziboh/what-is-javascript-9i)
 - [Dev.to/JS] [This is my first Article For Testing](https://dev.to/akram6t/this-is-my-first-article-for-testing-5fcn)
 - [Dev.to/JS] [Is JavaScript a Synchronous or Asynchronous Language?](https://dev.to/jerncomania/is-javascript-a-synchronous-or-asynchronous-language-226b)
-- [Dev.to/JS] [VS Code - the best customization for Web developer](https://dev.to/hugaidas/vs-code-the-best-customization-for-web-developer-2o6o)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
