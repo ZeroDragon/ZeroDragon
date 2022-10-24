@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on HBO Max in November 2022](https://lifehacker.com/whats-new-on-hbo-max-in-november-2022-1849695235)
+- [Dev.to/JS] [My thoughts on learning coding](https://dev.to/truetallman/my-thoughts-on-learning-coding-2eda)
+- [Lifehacker] [Should You Work From Home or Take a Real Sick Day?](https://lifehacker.com/should-you-work-from-home-or-take-a-real-sick-day-1849695187)
 - [Dev.to/JS] [# The difference between progressive and partial hydration](https://dev.to/theiaz/-the-difference-between-progressive-and-partial-hydration-18dd)
 - [Lifehacker] [What a Professional Housecleaner Will Clean &lpar;and What They Won&#39;t&rpar;](https://lifehacker.com/what-a-professional-housecleaner-will-clean-and-what-t-1849694908)
 - [Lifehacker] [Your Halloween Party Needs These Chocolate Peanut Butter Bat Cookies](https://lifehacker.com/your-halloween-party-needs-these-chocolate-peanut-butte-1849694663)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is react ?And How to learn react in one week](https://dev.to/vivek7038/how-react-works--bkf)
 - [Lifehacker] [These Twenty States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
 - [Lifehacker] [Quickly Class Up a Room With Painted Faux-Arches](https://lifehacker.com/quickly-class-up-a-room-with-painted-faux-arches-1849693677)
-- [Dev.to/JS] [An Instagram-clone with my own flavors using Reactjs Expressjs And MongoDB](https://dev.to/yassinjouao/an-instagram-clone-with-my-own-flavors-using-reactjs-expressjs-and-mongodb-11i7)
 - [Lifehacker] [How to Fix Your Noisy Radiator Based on the Sound It’s Making](https://lifehacker.com/how-to-fix-your-noisy-radiator-based-on-the-sound-it-s-1849693196)
 - [Lifehacker] [Take These Safety Precautions Before Any DIY Project](https://lifehacker.com/take-these-safety-precautions-before-any-diy-project-1849691246)
 - [Lifehacker] [How to Get Over Your Messy-House Shame](https://lifehacker.com/how-to-get-over-your-messy-house-shame-1849692092)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)
 - [Lifehacker] [Instagram Scammers Are Getting Bolder](https://lifehacker.com/instagram-scammers-are-getting-bolder-1849684443)
 - [Lifehacker] [How to Figure Out Why You Have Low Water Pressure &lpar;and Fix It&rpar;](https://lifehacker.com/how-to-figure-out-why-you-have-low-water-pressure-and-1849684406)
-- [Lifehacker] [How to Finally Get Rid of That Wood Paneling &lpar;or at Least Cover It Up&rpar;](https://lifehacker.com/how-to-finally-get-rid-of-that-wood-paneling-or-at-lea-1849687231)
-- [Lifehacker] [Strike Gold With the Alaska Cocktail](https://lifehacker.com/strike-gold-with-the-alaska-cocktail-1849686889)
-- [Lifehacker] [How to Discipline a Sensitive Child](https://lifehacker.com/how-to-discipline-a-sensitive-child-1849671513)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Finally Get Rid of That Wood Paneling &lpar;or at Least Cover It Up&rpar;](https://lifehacker.com/how-to-finally-get-rid-of-that-wood-paneling-or-at-lea-1849687231)<!-- TECH-POSTS:END -->
 
 ---
 
