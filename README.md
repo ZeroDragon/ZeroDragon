@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You&#39;re Wrong About the Origins of These 12 Common Words](https://lifehacker.com/youre-wrong-about-the-origins-of-these-12-common-words-1849687781)
+- [Lifehacker] [What to Do If You Realize You&#39;re &#39;Parenting&#39; Your Partner](https://lifehacker.com/what-to-do-if-you-realize-youre-parenting-your-partner-1849683337)
 - [Dev.to/JS] [Here&#39;s how I did in my first week of Frontend Mentor challenges.](https://dev.to/hr21don/heres-how-i-did-in-my-first-week-of-frontend-mentor-challenges-2hh4)
 - [Lifehacker] [Start These Ferments Now and Use Them All Holiday Season](https://lifehacker.com/start-these-ferments-now-and-use-them-all-holiday-seaso-1849679086)
 - [Dev.to/JS] [Node.JS: a wise choice for your project?](https://dev.to/cbogdan01/nodejs-a-wise-choice-for-your-project-4ke8)
@@ -31,13 +33,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Weekly Mailer with Rio](https://dev.to/denizhan_toprak_6aef0197c/creating-a-weekly-mailer-with-rio-c2h)
 - [Lifehacker] [25 of the Most Useful macOS Ventura Features](https://lifehacker.com/25-of-the-most-useful-macos-ventura-features-1849676873)
 - [Dev.to/JS] [Survey: What makes the perfect ticket?](https://dev.to/jamiedavenport/survey-what-makes-the-perfect-ticket-40cg)
-- [Dev.to/JS] [Why You haven&#39;t landed the Tech Job yet!](https://dev.to/ukaypromise/why-you-havent-landed-the-tech-job-yet-2cjl)
 - [Dev.to/JS] [Movement and Visibility Detection with CSS and JS 👀](https://dev.to/ingosteinke/movement-and-visibility-detection-with-css-and-js-53m7)
 - [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)
 - [Dev.to/JS] [Build a CRUD app with React and Firebase](https://dev.to/asayerio_techblog/build-a-crud-app-with-react-and-firebase-1651)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week .](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1705)
 - [Dev.to/JS] [Creación de objecto literal en javascript](https://dev.to/victorhugoaguilar/creacion-de-objecto-literal-object-literals-5fio)
 - [Dev.to/JS] [PP group reactjs](https://dev.to/samiyev63/pp-group-reactjs-2lap)
+- [Dev.to/JS] [Collections: Your ultimate Javascript array handler](https://dev.to/hassanzohdy/collections-your-ultimate-javascript-array-handler-3o15)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk About a Negative Experience at a Previous Job During an Interview](https://lifehacker.com/how-to-talk-about-a-negative-experience-at-a-previous-j-1849682645)
 - [Lifehacker] [How to Improve Your VO2 Max](https://lifehacker.com/how-to-improve-your-vo2-max-1849681809)
 - [Lifehacker] [How Often You Really Need to Wash Your Winter Coat](https://lifehacker.com/how-often-you-really-need-to-wash-your-winter-coat-1849683582)
-- [Lifehacker] [How Inflation Might Help Lower Your Taxes in 2023](https://lifehacker.com/how-inflation-might-help-lower-your-taxes-in-2023-1849683814)
-- [Lifehacker] [The Easiest Ways to Make a Fancy Dipping Oil](https://lifehacker.com/the-easiest-ways-to-make-a-fancy-dipping-oil-1849683088)
-- [Lifehacker] [32 of the Horniest Movies Ever Made](https://lifehacker.com/32-of-the-horniest-movies-ever-made-1849676910)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Inflation Might Help Lower Your Taxes in 2023](https://lifehacker.com/how-inflation-might-help-lower-your-taxes-in-2023-1849683814)<!-- TECH-POSTS:END -->
 
 ---
 
