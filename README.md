@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hacktoberfest - PR#4](https://dev.to/mnosov622/hacktoberfest-pr4-2l60)
 - [Dev.to/JS] [My first article ever as a junior Front End Dev?](https://dev.to/dmoproject/my-first-article-ever-as-a-junior-front-end-dev-3il)
 - [Dev.to/JS] [Start with one test](https://dev.to/noriller/start-with-one-test-57hb)
 - [Dev.to/JS] [Ng-News: Episode 22/42](https://dev.to/_ng_news/ng-news-episode-2242-1n29)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a multi-language website using React in 3 minutes](https://dev.to/quocbahuynh/build-a-multi-language-website-using-react-in-3-minutes-4206)
 - [Dev.to/JS] [Introduction to Amplication](https://dev.to/learnearnfun/introduction-to-amplication-4k2i)
 - [Dev.to/JS] [Vue unit testing Guide with jest - part 1](https://dev.to/mennaaly/vue-unit-testing-guide-with-jest-part-1-21cg)
-- [Dev.to/JS] [React: Passing props from Child to Parent &lpar;alternative method for callbacks&rpar;.](https://dev.to/inam9578/react-passing-props-from-child-to-parent-alternative-method-for-callbacks-5h6p)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
