@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)
+- [Dev.to/JS] [Build a CRUD app with React and Firebase](https://dev.to/asayerio_techblog/build-a-crud-app-with-react-and-firebase-1651)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week .](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1705)
+- [Dev.to/JS] [Creación de objecto literal en javascript](https://dev.to/victorhugoaguilar/creacion-de-objecto-literal-object-literals-5fio)
+- [Dev.to/JS] [PP group reactjs](https://dev.to/samiyev63/pp-group-reactjs-2lap)
+- [Dev.to/JS] [Collections: Your ultimate Javascript array handler](https://dev.to/hassanzohdy/collections-your-ultimate-javascript-array-handler-3o15)
 - [Dev.to/JS] [React country and state fields that detect users&#39; geolocation](https://dev.to/chaoming/react-country-and-state-fields-that-detect-users-geolocation-4n2g)
 - [Dev.to/JS] [Using Callbacks With Async/Await](https://dev.to/maximization/using-callbacks-with-asyncawait-2od9)
 - [Dev.to/JS] [How to Create a Svelte App: SvelteKit Cheatsheet](https://dev.to/askrodney/how-to-create-a-svelte-app-sveltekit-cheatsheet-519e)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why You Should Learn ReactJS](https://dev.to/tyaga001/why-you-should-learn-reactjs-91p)
 - [Dev.to/JS] [02.14 React State - Basic form with one input &lpar;functional components&rpar;](https://dev.to/adriangheo/0214-react-state-basic-form-with-one-input-functional-components-19p9)
 - [Dev.to/JS] [02.13 React State - Basic form with one input &lpar;class components&rpar;](https://dev.to/adriangheo/0213-react-state-basic-form-with-one-input-class-components-2p5n)
-- [Dev.to/JS] [02.12 React State - User List mount initial 2 users &lpar;functional components&rpar;](https://dev.to/adriangheo/0212-react-state-user-list-mount-initial-2-users-functional-components-1b56)
-- [Dev.to/JS] [02.11 React State - User List mount initial 2 users &lpar;class components&rpar;](https://dev.to/adriangheo/0211-react-state-user-list-mount-initial-2-users-class-components-5glb)
-- [Dev.to/JS] [Show upcoming meetings for a Microsoft 365 user](https://dev.to/waldekmastykarz/show-upcoming-meetings-for-a-microsoft-365-user-3379)
-- [Dev.to/JS] [My new Consistency - Learning in Public](https://dev.to/danities316/my-new-consistency-learning-in-public-3gln)
-- [Dev.to/JS] [NgRx Use Cases, Part I: Restricting Access](https://dev.to/this-is-angular/ngrx-use-cases-part-i-restricting-access-30lo)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Make a Fancy Dipping Oil](https://lifehacker.com/the-easiest-ways-to-make-a-fancy-dipping-oil-1849683088)
 - [Lifehacker] [32 of the Horniest Movies Ever Made](https://lifehacker.com/32-of-the-horniest-movies-ever-made-1849676910)
 - [Lifehacker] [This Tomato Crème Brûlée Is the Perfect Fall Indulgence](https://lifehacker.com/this-tomato-creme-brulee-is-the-perfect-fall-indulgence-1849678970)
-- [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)
-- [Lifehacker] [How to Play &#39;The Sims 4&#39; for Free Right Now &lpar;and Forever&rpar;](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)<!-- TECH-POSTS:END -->
 
 ---
 
