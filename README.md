@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Start Selling Subscriptions From Your Website FAST!](https://dev.to/paypaldeveloper/start-selling-subscriptions-from-your-website-fast-1i44)
+- [Dev.to/JS] [How Does Node Handle Asynchronous Tasks?](https://dev.to/jerncomania/how-does-node-handle-asynchronous-tasks-5eal)
+- [Lifehacker] [How to Get Over Your Messy-House Shame](https://lifehacker.com/how-to-get-over-your-messy-house-shame-1849692092)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-oct-2022-4oo4)
 - [Lifehacker] [You&#39;re Wrong About the Origins of These 12 Common Words](https://lifehacker.com/youre-wrong-about-the-origins-of-these-12-common-words-1849687781)
 - [Lifehacker] [What to Do If You Realize You&#39;re &#39;Parenting&#39; Your Partner](https://lifehacker.com/what-to-do-if-you-realize-youre-parenting-your-partner-1849683337)
 - [Dev.to/JS] [Here&#39;s how I did in my first week of Frontend Mentor challenges.](https://dev.to/hr21don/heres-how-i-did-in-my-first-week-of-frontend-mentor-challenges-2hh4)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)
 - [Dev.to/JS] [Build a CRUD app with React and Firebase](https://dev.to/asayerio_techblog/build-a-crud-app-with-react-and-firebase-1651)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week .](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1705)
-- [Dev.to/JS] [Creación de objecto literal en javascript](https://dev.to/victorhugoaguilar/creacion-de-objecto-literal-object-literals-5fio)
-- [Dev.to/JS] [PP group reactjs](https://dev.to/samiyev63/pp-group-reactjs-2lap)
-- [Dev.to/JS] [Collections: Your ultimate Javascript array handler](https://dev.to/hassanzohdy/collections-your-ultimate-javascript-array-handler-3o15)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Things Science Still Doesn&#39;t Know](https://lifehacker.com/10-things-science-still-doesnt-know-1849683545)
 - [Lifehacker] [How to Talk About a Negative Experience at a Previous Job During an Interview](https://lifehacker.com/how-to-talk-about-a-negative-experience-at-a-previous-j-1849682645)
 - [Lifehacker] [How to Improve Your VO2 Max](https://lifehacker.com/how-to-improve-your-vo2-max-1849681809)
-- [Lifehacker] [How Often You Really Need to Wash Your Winter Coat](https://lifehacker.com/how-often-you-really-need-to-wash-your-winter-coat-1849683582)
-- [Lifehacker] [How Inflation Might Help Lower Your Taxes in 2023](https://lifehacker.com/how-inflation-might-help-lower-your-taxes-in-2023-1849683814)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Often You Really Need to Wash Your Winter Coat](https://lifehacker.com/how-often-you-really-need-to-wash-your-winter-coat-1849683582)<!-- TECH-POSTS:END -->
 
 ---
 
