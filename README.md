@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developer T-Shirts](https://dev.to/imxnasr/developer-t-shirts-3ec3)
+- [Dev.to/JS] [Today&#39;s LeatCode Solution](https://dev.to/durgesh4993/todays-leatcode-solution-4k69)
+- [Dev.to/JS] [Zero to SaaS - Falling in love with the process](https://dev.to/brandonkylebailey/zero-to-saas-falling-in-love-with-the-process-5g60)
 - [Dev.to/JS] [Hacktoberfest - PR#4](https://dev.to/mnosov622/hacktoberfest-pr4-2l60)
 - [Dev.to/JS] [My first article ever as a junior Front End Dev?](https://dev.to/dmoproject/my-first-article-ever-as-a-junior-front-end-dev-3il)
 - [Dev.to/JS] [Start with one test](https://dev.to/noriller/start-with-one-test-57hb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This is my first Article For Testing](https://dev.to/akram6t/this-is-my-first-article-for-testing-5fcn)
 - [Dev.to/JS] [Is JavaScript a Synchronous or Asynchronous Language?](https://dev.to/jerncomania/is-javascript-a-synchronous-or-asynchronous-language-226b)
 - [Dev.to/JS] [VS Code - the best customization for Web developer](https://dev.to/hugaidas/vs-code-the-best-customization-for-web-developer-2o6o)
-- [Dev.to/JS] [Build a multi-language website using React in 3 minutes](https://dev.to/quocbahuynh/build-a-multi-language-website-using-react-in-3-minutes-4206)
-- [Dev.to/JS] [Introduction to Amplication](https://dev.to/learnearnfun/introduction-to-amplication-4k2i)
-- [Dev.to/JS] [Vue unit testing Guide with jest - part 1](https://dev.to/mennaaly/vue-unit-testing-guide-with-jest-part-1-21cg)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
