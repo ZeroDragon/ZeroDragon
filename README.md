@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improving Performance of Nuxt apps with Partytown](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-apps-with-partytown-80p)
+- [Dev.to/JS] [User Authentication with Strapi and React](https://dev.to/strapi/user-authentication-with-strapi-and-react-foa)
+- [Dev.to/JS] [02.10 React State - bg color change with color picker &lpar;functional components&rpar;](https://dev.to/adriangheo/0210-react-state-bg-color-change-with-color-picker-functional-components-2i35)
+- [Dev.to/JS] [02.09 React State - bg color change with color picker &lpar;class components&rpar;](https://dev.to/adriangheo/0209-react-state-bg-color-change-with-color-picker-class-components-40n4)
 - [Dev.to/JS] [INTRODUCTION TO WEB3.0](https://dev.to/wisdomudo/introduction-to-web30-56do)
 - [Dev.to/JS] [Creating Linkable Tabs in Next.js - The Easy Way!](https://dev.to/amrtcrypto/creating-linkable-tabs-in-nextjs-the-easy-way-17pg)
 - [Dev.to/JS] [Optimizing the PageSpeed results - part 17](https://dev.to/dailydevtips1/optimizing-the-pagespeed-results-part-17-4hcb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to play Streaming Audio?](https://dev.to/projectlac/how-to-play-streaming-audio-1489)
 - [Dev.to/JS] [Inversion of Control: Dependency Injection in Typescript](https://dev.to/this-is-angular/inversion-of-control-dependency-injection-in-typescript-1dj9)
 - [Dev.to/JS] [Which programming language should be learned first?](https://dev.to/nishanmishra/which-programming-language-should-be-learned-first-2ej4)
-- [Dev.to/JS] [Calculator in HTML CSS JS in 2 min](https://dev.to/nishanmishra/calculator-in-html-css-js-in-2-min-3cbg)
-- [Dev.to/JS] [How to Make Quote Generator in React](https://dev.to/reactjsguru/how-to-make-quote-generator-in-react-42j7)
-- [Dev.to/JS] [Randomly Generated Grid | Creative Coding tutorial with Javascript and Canvas Sketch](https://dev.to/ahmdaltf/randomly-generated-grid-creative-coding-tutorial-with-javascipt-and-canvas-sketch-2aoh)
-- [Dev.to/JS] [Simplified Kafka concept and example with nodejs](https://dev.to/minkhantwin/simplified-kafka-concept-and-example-with-nodejs-2ba9)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
