@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NgRx Use Cases, Part I: Restricting Access](https://dev.to/armandotrue/ngrx-use-cases-part-i-restricting-access-30lo)
 - [Dev.to/JS] [Improving Performance of Nuxt apps with Partytown](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-apps-with-partytown-80p)
 - [Dev.to/JS] [User Authentication with Strapi and React](https://dev.to/strapi/user-authentication-with-strapi-and-react-foa)
 - [Dev.to/JS] [02.10 React State - bg color change with color picker &lpar;functional components&rpar;](https://dev.to/adriangheo/0210-react-state-bg-color-change-with-color-picker-functional-components-2i35)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [javascript: Object to CSV](https://dev.to/urstrulyvishwak/javascript-object-to-csv-2l4h)
 - [Dev.to/JS] [How to play Streaming Audio?](https://dev.to/projectlac/how-to-play-streaming-audio-1489)
 - [Dev.to/JS] [Inversion of Control: Dependency Injection in Typescript](https://dev.to/this-is-angular/inversion-of-control-dependency-injection-in-typescript-1dj9)
-- [Dev.to/JS] [Which programming language should be learned first?](https://dev.to/nishanmishra/which-programming-language-should-be-learned-first-2ej4)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
