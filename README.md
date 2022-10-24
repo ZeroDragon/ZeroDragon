@@ -23,13 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [20 New iOS 16.1 Features You Need to Know About](https://lifehacker.com/20-new-ios-16-1-features-you-need-to-know-about-1849621298)
+- [Dev.to/JS] [Best way to learn react js for free](https://dev.to/shine18/best-way-to-learn-react-js-for-free-1joe)
 - [Dev.to/JS] [Working with SSG Docusaurus](https://dev.to/mnosov622/working-with-ssg-docusaurus-4cjc)
 - [Dev.to/JS] [Return Largest Numbers in Arrays &lpar;freecodecamp notes&rpar;](https://dev.to/naveenkolambage/return-largest-numbers-in-arrays-freecodecamp-notes-42cb)
 - [Dev.to/JS] [The 5 online coding and development tools you need to know](https://dev.to/glowreeyah/the-5-online-coding-and-development-tools-you-need-to-know-p0e)
 - [Dev.to/JS] [Async and Await Javascript](https://dev.to/glowreeyah/async-and-await-javascript-1pna)
 - [Lifehacker] [What You Need to Know About RSV, the Respiratory Illness Surging in Children](https://lifehacker.com/what-you-need-to-know-about-rsv-the-respiratory-illnes-1849693964)
 - [Dev.to/JS] [What is react ?And How to learn react in one week](https://dev.to/vivek7038/how-react-works--bkf)
-- [Lifehacker] [These 20 States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
+- [Lifehacker] [These Twenty States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
 - [Lifehacker] [Quickly Class Up a Room With Painted Faux-Arches](https://lifehacker.com/quickly-class-up-a-room-with-painted-faux-arches-1849693677)
 - [Dev.to/JS] [An Instagram-clone with my own flavors using Reactjs Expressjs And MongoDB](https://dev.to/yassinjouao/an-instagram-clone-with-my-own-flavors-using-reactjs-expressjs-and-mongodb-11i7)
 - [Lifehacker] [How to Fix Your Noisy Radiator Based on the Sound It’s Making](https://lifehacker.com/how-to-fix-your-noisy-radiator-based-on-the-sound-it-s-1849693196)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Realize You&#39;re &#39;Parenting&#39; Your Partner](https://lifehacker.com/what-to-do-if-you-realize-youre-parenting-your-partner-1849683337)
 - [Dev.to/JS] [Here&#39;s how I did in my first week of Frontend Mentor challenges.](https://dev.to/hr21don/heres-how-i-did-in-my-first-week-of-frontend-mentor-challenges-2hh4)
 - [Lifehacker] [Start These Ferments Now and Use Them All Holiday Season](https://lifehacker.com/start-these-ferments-now-and-use-them-all-holiday-seaso-1849679086)
-- [Dev.to/JS] [Node.JS: a wise choice for your project?](https://dev.to/cbogdan01/nodejs-a-wise-choice-for-your-project-4ke8)
 - [Lifehacker] [25 of the Most Useful macOS Ventura Features](https://lifehacker.com/25-of-the-most-useful-macos-ventura-features-1849676873)
 - [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Strike Gold With the Alaska Cocktail](https://lifehacker.com/strike-gold-with-the-alaska-cocktail-1849686889)
 - [Lifehacker] [How to Discipline a Sensitive Child](https://lifehacker.com/how-to-discipline-a-sensitive-child-1849671513)
 - [Lifehacker] [All of the Best New Features in Firefox 106](https://lifehacker.com/all-of-the-best-new-features-in-firefox-106-1849686852)
-- [Lifehacker] [11 Sex Podcasts to Make You Better in Bed](https://lifehacker.com/11-sex-podcasts-to-make-you-better-in-bed-1849678533)
-- [Lifehacker] [20 Creepy Games You Can Play on Xbox Game Pass and PlayStation Plus Extra This Halloween](https://lifehacker.com/20-creepy-games-you-can-play-on-xbox-game-pass-and-play-1849684380)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Sex Podcasts to Make You Better in Bed](https://lifehacker.com/11-sex-podcasts-to-make-you-better-in-bed-1849678533)<!-- TECH-POSTS:END -->
 
 ---
 
