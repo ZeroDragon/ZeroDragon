@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google Developers Student Club - MET collaborates with Newton School](https://dev.to/yashkapure06/google-developers-student-club-met-collaborates-with-newton-school-38be)
 - [Dev.to/JS] [React: How does useMemo and useCallback work ?](https://dev.to/linhbui167/react-how-does-usememo-and-usecallback-work--4e0d)
 - [Dev.to/JS] [How I Created Augmented Reality&lpar;AR&rpar; Web App using Only HTML](https://dev.to/varshithvhegde/how-i-created-augmented-realityar-web-app-using-only-html-3201)
 - [Dev.to/JS] [wj-config: Loading Configuration From Disk or Fetching From the Web](https://dev.to/webjose/wj-config-loading-configuration-from-disk-or-fetching-from-the-web-3k9h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Start with one test](https://dev.to/noriller/start-with-one-test-57hb)
 - [Dev.to/JS] [Ng-News: Episode 22/42](https://dev.to/_ng_news/ng-news-episode-2242-1n29)
 - [Dev.to/JS] [Take Some Time to Learn Features and Code Before Making Any Change to Open Source Project](https://dev.to/genne23v/take-some-time-to-learn-features-and-code-before-making-any-change-to-open-source-project-1ddj)
-- [Dev.to/JS] [What is JavaScript](https://dev.to/michaelziboh/what-is-javascript-9i)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
