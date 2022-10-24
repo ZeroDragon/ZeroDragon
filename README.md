@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [# The difference between progressive and partial hydration](https://dev.to/theiaz/-the-difference-between-progressive-and-partial-hydration-18dd)
+- [Lifehacker] [What a Professional Housecleaner Will Clean &lpar;and What They Won&#39;t&rpar;](https://lifehacker.com/what-a-professional-housecleaner-will-clean-and-what-t-1849694908)
+- [Lifehacker] [Your Halloween Party Needs These Chocolate Peanut Butter Bat Cookies](https://lifehacker.com/your-halloween-party-needs-these-chocolate-peanut-butte-1849694663)
+- [Dev.to/JS] [How I Finally Learned How to Code: A 12-month journey of coding, learning and growing.](https://dev.to/alisekazah/how-i-finally-learned-how-to-code-a-12-month-journey-of-coding-learning-and-growing-3ep6)
+- [Dev.to/JS] [Code Challenge: Sort only odd or even integers](https://dev.to/hsabes/code-challenge-sort-collection-of-integers-based-on-even-or-odd-value-4i00)
+- [Dev.to/JS] [Build an End-To-End Encrypted Chat App in Nuxt.js: Messages and Encryption](https://dev.to/hackmamba/build-an-end-to-end-encrypted-chat-app-in-nuxtjs-messages-and-encryption-30ki)
+- [Dev.to/JS] [15 React Interview Questions to Help You Ace Your Next Technical Interview](https://dev.to/amrtcrypto/15-react-interview-questions-to-help-you-ace-your-next-technical-interview-4h2c)
 - [Lifehacker] [20 New iOS 16.1 Features You Need to Know About](https://lifehacker.com/20-new-ios-16-1-features-you-need-to-know-about-1849621298)
 - [Dev.to/JS] [Best way to learn react js for free](https://dev.to/shine18/best-way-to-learn-react-js-for-free-1joe)
 - [Dev.to/JS] [Working with SSG Docusaurus](https://dev.to/mnosov622/working-with-ssg-docusaurus-4cjc)
@@ -35,15 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Quickly Class Up a Room With Painted Faux-Arches](https://lifehacker.com/quickly-class-up-a-room-with-painted-faux-arches-1849693677)
 - [Dev.to/JS] [An Instagram-clone with my own flavors using Reactjs Expressjs And MongoDB](https://dev.to/yassinjouao/an-instagram-clone-with-my-own-flavors-using-reactjs-expressjs-and-mongodb-11i7)
 - [Lifehacker] [How to Fix Your Noisy Radiator Based on the Sound It’s Making](https://lifehacker.com/how-to-fix-your-noisy-radiator-based-on-the-sound-it-s-1849693196)
-- [Dev.to/JS] [Creating a frontend app in 3 frameworks](https://dev.to/sas2k/creating-a-frontend-app-in-3-frameworks-40lo)
-- [Dev.to/JS] [Start Selling Subscriptions From Your Website FAST!](https://dev.to/paypaldeveloper/start-selling-subscriptions-from-your-website-fast-1i44)
 - [Lifehacker] [Take These Safety Precautions Before Any DIY Project](https://lifehacker.com/take-these-safety-precautions-before-any-diy-project-1849691246)
-- [Dev.to/JS] [How Does Node Handle Asynchronous Tasks?](https://dev.to/jerncomania/how-does-node-handle-asynchronous-tasks-5eal)
 - [Lifehacker] [How to Get Over Your Messy-House Shame](https://lifehacker.com/how-to-get-over-your-messy-house-shame-1849692092)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-oct-2022-4oo4)
 - [Lifehacker] [You&#39;re Wrong About the Origins of These 12 Common Words](https://lifehacker.com/youre-wrong-about-the-origins-of-these-12-common-words-1849687781)
 - [Lifehacker] [What to Do If You Realize You&#39;re &#39;Parenting&#39; Your Partner](https://lifehacker.com/what-to-do-if-you-realize-youre-parenting-your-partner-1849683337)
-- [Dev.to/JS] [Here&#39;s how I did in my first week of Frontend Mentor challenges.](https://dev.to/hr21don/heres-how-i-did-in-my-first-week-of-frontend-mentor-challenges-2hh4)
 - [Lifehacker] [Start These Ferments Now and Use Them All Holiday Season](https://lifehacker.com/start-these-ferments-now-and-use-them-all-holiday-seaso-1849679086)
 - [Lifehacker] [25 of the Most Useful macOS Ventura Features](https://lifehacker.com/25-of-the-most-useful-macos-ventura-features-1849676873)
 - [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out Why You Have Low Water Pressure &lpar;and Fix It&rpar;](https://lifehacker.com/how-to-figure-out-why-you-have-low-water-pressure-and-1849684406)
 - [Lifehacker] [How to Finally Get Rid of That Wood Paneling &lpar;or at Least Cover It Up&rpar;](https://lifehacker.com/how-to-finally-get-rid-of-that-wood-paneling-or-at-lea-1849687231)
 - [Lifehacker] [Strike Gold With the Alaska Cocktail](https://lifehacker.com/strike-gold-with-the-alaska-cocktail-1849686889)
-- [Lifehacker] [How to Discipline a Sensitive Child](https://lifehacker.com/how-to-discipline-a-sensitive-child-1849671513)
-- [Lifehacker] [All of the Best New Features in Firefox 106](https://lifehacker.com/all-of-the-best-new-features-in-firefox-106-1849686852)
-- [Lifehacker] [11 Sex Podcasts to Make You Better in Bed](https://lifehacker.com/11-sex-podcasts-to-make-you-better-in-bed-1849678533)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Discipline a Sensitive Child](https://lifehacker.com/how-to-discipline-a-sensitive-child-1849671513)<!-- TECH-POSTS:END -->
 
 ---
 
