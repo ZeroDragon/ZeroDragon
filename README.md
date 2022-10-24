@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Here&#39;s how I did in my first week of Frontend Mentor challenges.](https://dev.to/hr21don/heres-how-i-did-in-my-first-week-of-frontend-mentor-challenges-2hh4)
+- [Lifehacker] [Start These Ferments Now and Use Them All Holiday Season](https://lifehacker.com/start-these-ferments-now-and-use-them-all-holiday-seaso-1849679086)
+- [Dev.to/JS] [Node.JS: a wise choice for your project?](https://dev.to/cbogdan01/nodejs-a-wise-choice-for-your-project-4ke8)
+- [Dev.to/JS] [Integrating Pangea Audit and Embargo with RedwoodJS](https://dev.to/pangea/integrating-pangea-audit-and-embargo-with-redwoodjs-4i8m)
+- [Dev.to/JS] [Building a Notion-like system with Socket.io And React 😍](https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg)
+- [Dev.to/JS] [Creating a Weekly Mailer with Rio](https://dev.to/denizhan_toprak_6aef0197c/creating-a-weekly-mailer-with-rio-c2h)
+- [Lifehacker] [25 of the Most Useful macOS Ventura Features](https://lifehacker.com/25-of-the-most-useful-macos-ventura-features-1849676873)
+- [Dev.to/JS] [Survey: What makes the perfect ticket?](https://dev.to/jamiedavenport/survey-what-makes-the-perfect-ticket-40cg)
+- [Dev.to/JS] [Why You haven&#39;t landed the Tech Job yet!](https://dev.to/ukaypromise/why-you-havent-landed-the-tech-job-yet-2cjl)
+- [Dev.to/JS] [Movement and Visibility Detection with CSS and JS 👀](https://dev.to/ingosteinke/movement-and-visibility-detection-with-css-and-js-53m7)
 - [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)
 - [Dev.to/JS] [Build a CRUD app with React and Firebase](https://dev.to/asayerio_techblog/build-a-crud-app-with-react-and-firebase-1651)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week .](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1705)
 - [Dev.to/JS] [Creación de objecto literal en javascript](https://dev.to/victorhugoaguilar/creacion-de-objecto-literal-object-literals-5fio)
 - [Dev.to/JS] [PP group reactjs](https://dev.to/samiyev63/pp-group-reactjs-2lap)
-- [Dev.to/JS] [Collections: Your ultimate Javascript array handler](https://dev.to/hassanzohdy/collections-your-ultimate-javascript-array-handler-3o15)
-- [Dev.to/JS] [React country and state fields that detect users&#39; geolocation](https://dev.to/chaoming/react-country-and-state-fields-that-detect-users-geolocation-4n2g)
-- [Dev.to/JS] [Using Callbacks With Async/Await](https://dev.to/maximization/using-callbacks-with-asyncawait-2od9)
-- [Dev.to/JS] [How to Create a Svelte App: SvelteKit Cheatsheet](https://dev.to/askrodney/how-to-create-a-svelte-app-sveltekit-cheatsheet-519e)
-- [Dev.to/JS] [Javascript: Minification vs Obfuscation](https://dev.to/urstrulyvishwak/javascript-minification-vs-obfuscation-2h02)
-- [Dev.to/JS] [Why You Should Learn ReactJS](https://dev.to/tyaga001/why-you-should-learn-reactjs-91p)
-- [Dev.to/JS] [02.14 React State - Basic form with one input &lpar;functional components&rpar;](https://dev.to/adriangheo/0214-react-state-basic-form-with-one-input-functional-components-19p9)
-- [Dev.to/JS] [02.13 React State - Basic form with one input &lpar;class components&rpar;](https://dev.to/adriangheo/0213-react-state-basic-form-with-one-input-class-components-2p5n)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Often You Really Need to Wash Your Winter Coat](https://lifehacker.com/how-often-you-really-need-to-wash-your-winter-coat-1849683582)
 - [Lifehacker] [How Inflation Might Help Lower Your Taxes in 2023](https://lifehacker.com/how-inflation-might-help-lower-your-taxes-in-2023-1849683814)
 - [Lifehacker] [The Easiest Ways to Make a Fancy Dipping Oil](https://lifehacker.com/the-easiest-ways-to-make-a-fancy-dipping-oil-1849683088)
-- [Lifehacker] [32 of the Horniest Movies Ever Made](https://lifehacker.com/32-of-the-horniest-movies-ever-made-1849676910)
-- [Lifehacker] [This Tomato Crème Brûlée Is the Perfect Fall Indulgence](https://lifehacker.com/this-tomato-creme-brulee-is-the-perfect-fall-indulgence-1849678970)
-- [Lifehacker] [Give a Stained Shirt New Life By ‘Tie-Dying’ It With Bleach](https://lifehacker.com/give-a-stained-shirt-new-life-by-tie-dying-it-with-bl-1849665648)<!-- TECH-POSTS:END -->
+- [Lifehacker] [32 of the Horniest Movies Ever Made](https://lifehacker.com/32-of-the-horniest-movies-ever-made-1849676910)<!-- TECH-POSTS:END -->
 
 ---
 
