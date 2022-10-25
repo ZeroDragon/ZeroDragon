@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Audio node processing diagrams](https://dev.to/calinalexandru/audio-node-processing-diagrams-3c9g)
+- [Dev.to/JS] [Higher Order Functions](https://dev.to/rkshaw20/higher-order-functions-397f)
+- [Dev.to/JS] [Java script solution](https://dev.to/jaki/java-script-solution-2a1p)
+- [Dev.to/JS] [Svelte CSS Image Slider: with Bouncy Overscroll](https://dev.to/askrodney/svelte-css-image-slider-with-bouncy-overscroll-52km)
 - [Dev.to/JS] [Introduction to Linked Lists](https://dev.to/chrisding7/introduction-to-linked-lists-23e6)
 - [Dev.to/JS] [Debouncing and Throttling in JavaScript](https://dev.to/vedanthb/debouncing-and-throttling-in-javascript-10oo)
 - [Dev.to/JS] [The quest for auth in the modern web app](https://dev.to/jakobjingleheimer/the-quest-for-auth-in-the-modern-web-app-3h9i)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSON recognizer is here](https://dev.to/ccarcaci/json-recognizer-is-here-32p3)
 - [Dev.to/JS] [13 CSS website that will make you a Genius even if you’re A Beginner Developer &lpar; For Free &rpar; 👇](https://dev.to/thepdeveloper/13-css-website-that-will-make-you-a-genius-even-if-youre-a-beginner-developer-for-free--dmc)
 - [Dev.to/JS] [I do declare&lpar;ative&rpar;, React.js is good, clean fun!](https://dev.to/jmayheww/i-do-declareative-reactjs-is-good-clean-fun-24kk)
-- [Dev.to/JS] [Kth Largest Element in an Array](https://dev.to/zeeshanali0704/kth-largest-element-in-an-array-13a3)
-- [Dev.to/JS] [A HTML CSS JavaScript Front End CRUD Table](https://dev.to/prsaya/a-html-css-javascript-front-end-crud-table-21hp)
-- [Dev.to/JS] [Next.js vs. React: what should you use?](https://dev.to/sergchr/nextjs-vs-react-what-should-you-use-3ol8)
-- [Dev.to/JS] [State Management Is Easy Now!? An Introduction to Observable Store](https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
