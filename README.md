@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to update state React Native](https://dev.to/thomasosho/how-to-update-state-react-native-3aih)
+- [Dev.to/JS] [Credit card chips and encryption in plain JavaScript](https://dev.to/isaacdlyman/credit-card-chips-and-encryption-in-plain-javascript-42p5)
+- [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
 - [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
 - [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)
 - [Dev.to/JS] [React Native App Performance](https://dev.to/ajmal_hasan/react-native-app-performance-2742)
@@ -48,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Microsoft PC Manager to Clean Up &lpar;and Speed Up&rpar; a Slow Computer](https://lifehacker.com/use-microsoft-pc-manager-to-clean-up-and-speed-up-a-s-1849698797)
 - [Dev.to/JS] [How to update your app that uses an old version of MeteorJS?](https://dev.to/meteorjs/how-to-update-your-app-that-uses-an-old-version-of-meteorjs-2h87)
 - [Lifehacker] [17 of the Best Horror Games in Every Genre](https://lifehacker.com/17-of-the-best-horror-games-in-every-genre-1849697216)
-- [Dev.to/JS] [Cypress Variables | How does it work?](https://dev.to/dilpreetjohal/cypress-variables-how-does-it-work-1ip3)
-- [Dev.to/JS] [10 Project ideas to fetch you your dream job.](https://dev.to/sleeplessyogi/10-project-ideas-to-fetch-you-your-dream-job-1gbk)
 - [Lifehacker] [Three Easy Ways to Make Your Own Fake Blood for Halloween](https://lifehacker.com/three-easy-ways-to-make-your-own-fake-blood-for-hallowe-1849697636)
 - [Lifehacker] [You Can Marcona Your Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
 - [Lifehacker] [Delete These Ad-Trolling Apps From Your Android Right Now](https://lifehacker.com/delete-these-ad-trolling-apps-from-your-android-right-n-1849696291)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
 - [Lifehacker] [What&#39;s New on HBO Max in November 2022](https://lifehacker.com/whats-new-on-hbo-max-in-november-2022-1849695235)
 - [Lifehacker] [Should You Work From Home or Take a Real Sick Day?](https://lifehacker.com/should-you-work-from-home-or-take-a-real-sick-day-1849695187)
-- [Lifehacker] [What a Professional Housecleaner Will Clean &lpar;and What They Won&#39;t&rpar;](https://lifehacker.com/what-a-professional-housecleaner-will-clean-and-what-t-1849694908)
-- [Lifehacker] [Your Halloween Party Needs These Chocolate Peanut Butter Bat Cookies](https://lifehacker.com/your-halloween-party-needs-these-chocolate-peanut-butte-1849694663)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What a Professional Housecleaner Will Clean &lpar;and What They Won&#39;t&rpar;](https://lifehacker.com/what-a-professional-housecleaner-will-clean-and-what-t-1849694908)<!-- TECH-POSTS:END -->
 
 ---
 
