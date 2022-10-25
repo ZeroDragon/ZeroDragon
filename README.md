@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debugging with console.log](https://dev.to/berra/debugging-with-consolelog-116c)
+- [Dev.to/JS] [JSON recognizer is here](https://dev.to/ccarcaci/json-recognizer-is-here-32p3)
+- [Dev.to/JS] [13 CSS website that will make you a Genius even if you’re A Beginner Developer &lpar; For Free &rpar; 👇](https://dev.to/thepdeveloper/13-css-website-that-will-make-you-a-genius-even-if-youre-a-beginner-developer-for-free--dmc)
 - [Dev.to/JS] [I do declare&lpar;ative&rpar;, React.js is good, clean fun!](https://dev.to/jmayheww/i-do-declareative-reactjs-is-good-clean-fun-24kk)
 - [Dev.to/JS] [Kth Largest Element in an Array](https://dev.to/zeeshanali0704/kth-largest-element-in-an-array-13a3)
 - [Dev.to/JS] [A HTML CSS JavaScript Front End CRUD Table](https://dev.to/prsaya/a-html-css-javascript-front-end-crud-table-21hp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to set up a basic HTTP server in Node + Express](https://dev.to/danielstai/how-to-set-up-a-basic-http-server-in-node-express-10i)
 - [Dev.to/JS] [Last Stone Weight](https://dev.to/zeeshanali0704/last-stone-weight-3n07)
 - [Dev.to/JS] [Fullstack app? What? TweetyTag!](https://dev.to/jennjunod/fullstack-app-what-tweetytag-23oh)
-- [Dev.to/JS] [JavaScript Prototype](https://dev.to/mahmoudessam/javascript-prototype-jl9)
-- [Dev.to/JS] [Understanding LeetCode Problem #1672: Richest Customer Wealth &lpar;JavaScript&rpar;](https://dev.to/jmacapagal90/understanding-leetcode-problem-1672-richest-customer-wealth-javascript-2i0e)
-- [Dev.to/JS] [React Context API for Beginners &lpar;using useContext hook&rpar;](https://dev.to/samueladex/react-context-api-for-beginners-using-usecontext-hook-jld)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
