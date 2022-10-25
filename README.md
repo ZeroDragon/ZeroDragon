@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Marcona Your Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
+- [Dev.to/JS] [How to handle login forms in React? Including storing user sessions and authentication](https://dev.to/hetarth7/how-to-handle-login-forms-in-react-including-storing-user-sessions-and-authentication-1fl)
+- [Dev.to/JS] [Callback-based asynchronous functions](https://dev.to/talenttinaapi/callback-based-asynchronous-functions-klk)
+- [Lifehacker] [Delete These Ad-Trolling Apps From Your Android Right Now](https://lifehacker.com/delete-these-ad-trolling-apps-from-your-android-right-n-1849696291)
+- [Dev.to/JS] [How to Create Custom File Upload Input Control with React and CSS](https://dev.to/charleskasasira/how-to-create-custom-file-upload-input-control-with-react-and-css-48fn)
+- [Dev.to/JS] [Building a Login System using Redux &lpar;pitch&rpar;](https://dev.to/danielonugha0/building-a-login-system-using-redux-pitch-1k06)
+- [Dev.to/JS] [Introdução ao DOM](https://dev.to/g101/introducao-ao-dom-o38)
+- [Dev.to/JS] [How to Reverse a String in JavaScript](https://dev.to/rpjayadev/how-to-reverse-a-string-in-javascript-13i9)
 - [Dev.to/JS] [A Guide on reducing the work required to submit a job application.](https://dev.to/supernovarts/a-guide-on-reducing-the-work-required-to-submit-a-job-application-22o4)
 - [Lifehacker] [10 Ways to Make a &#39;Special Salad Dressing,&#39; According to Lifehacker Readers](https://lifehacker.com/10-ways-to-make-a-special-salad-dressing-according-to-1849695217)
 - [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)
@@ -31,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The state of MVU](https://dev.to/artydev/the-state-of-mvu-2pnf)
 - [Dev.to/JS] [20 pull requests were created in our repo by community members during Hacktoberfest 🚀 🚀 🚀](https://dev.to/wasp/20-pull-requests-were-created-in-our-repo-by-community-members-during-hacktoberfest-50cl)
 - [Dev.to/JS] [Building a Stopwatch in JavaScript](https://dev.to/coder4_life/building-a-stopwatch-in-javascript-18cf)
-- [Dev.to/JS] [Minimum Cost of ropes](https://dev.to/zeeshanali0704/minimum-cost-of-ropes-2mln)
-- [Dev.to/JS] [I made 10x faster JSON.stringify&lpar;&rpar; functions, even type safe](https://dev.to/samchon/i-made-10x-faster-jsonstringify-functions-even-type-safe-2eme)
-- [Dev.to/JS] [What are the Three Primitive JavaScript Data Types?](https://dev.to/max88git/what-are-the-three-primitive-javascript-data-types-f58)
 - [Lifehacker] [Here’s How to Stop Succumbing to Financial Peer Pressure](https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842)
-- [Dev.to/JS] [Hacktoberfest with Aviyel 🎉](https://dev.to/patilganesh1010/hacktoberfest-with-aviyel-235n)
-- [Dev.to/JS] [How to Use JavaScript some method](https://dev.to/refine/how-to-use-javascript-some-method-1jk4)
-- [Dev.to/JS] [How to use error boundaries in react?](https://dev.to/bgopikrishna/how-to-use-error-boundaries-in-react-5g01)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
 - [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
-- [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
-- [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
-- [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)<!-- TECH-POSTS:END -->
 
 ---
 
