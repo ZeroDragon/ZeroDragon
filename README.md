@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Turn Ferrero Rocher Chocolates Into Spooky Halloween Candy](https://lifehacker.com/turn-ferrero-rocher-chocolates-into-spooky-halloween-ca-1849700030)
+- [Lifehacker] [What&#39;s New on Prime Video in November 2022](https://lifehacker.com/whats-new-on-prime-video-in-november-2022-1849700180)
 - [Lifehacker] [How to DIY Fake Molding on a Budget](https://lifehacker.com/how-to-diy-fake-molding-on-a-budget-1849697735)
 - [Dev.to/JS] [The importance of Clean Code](https://dev.to/ftwcougar/the-importance-of-clean-code-5487)
 - [Lifehacker] [Don’t Eat This Recalled Bob Evans Sausage That Might Contain Blue Rubber](https://lifehacker.com/don-t-eat-this-recalled-bob-evans-sausage-that-might-co-1849699372)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Twenty States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
 - [Lifehacker] [Quickly Class Up a Room With Painted Faux-Arches](https://lifehacker.com/quickly-class-up-a-room-with-painted-faux-arches-1849693677)
 - [Lifehacker] [How to Fix Your Noisy Radiator Based on the Sound It’s Making](https://lifehacker.com/how-to-fix-your-noisy-radiator-based-on-the-sound-it-s-1849693196)
-- [Lifehacker] [Take These Safety Precautions Before Any DIY Project](https://lifehacker.com/take-these-safety-precautions-before-any-diy-project-1849691246)
-- [Lifehacker] [How to Get Over Your Messy-House Shame](https://lifehacker.com/how-to-get-over-your-messy-house-shame-1849692092)
-- [Lifehacker] [You&#39;re Wrong About the Origins of These 12 Common Words](https://lifehacker.com/youre-wrong-about-the-origins-of-these-12-common-words-1849687781)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take These Safety Precautions Before Any DIY Project](https://lifehacker.com/take-these-safety-precautions-before-any-diy-project-1849691246)<!-- TECH-POSTS:END -->
 
 ---
 
