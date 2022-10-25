@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fullstack app? What? TweetyTag!](https://dev.to/jennjunod/fullstack-app-what-tweetytag-23oh)
+- [Dev.to/JS] [JavaScript Prototype](https://dev.to/mahmoudessam/javascript-prototype-jl9)
 - [Dev.to/JS] [Understanding LeetCode Problem #1672: Richest Customer Wealth &lpar;JavaScript&rpar;](https://dev.to/jmacapagal90/understanding-leetcode-problem-1672-richest-customer-wealth-javascript-2i0e)
 - [Dev.to/JS] [React Context API for Beginners &lpar;using useContext hook&rpar;](https://dev.to/samueladex/react-context-api-for-beginners-using-usecontext-hook-jld)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build an End-To-End Encrypted Chat App in Nuxt.js: Messages and Encryption](https://dev.to/hackmamba/build-an-end-to-end-encrypted-chat-app-in-nuxtjs-messages-and-encryption-30ki)
 - [Dev.to/JS] [15 React Interview Questions to Help You Ace Your Next Technical Interview](https://dev.to/amrtcrypto/15-react-interview-questions-to-help-you-ace-your-next-technical-interview-4h2c)
 - [Lifehacker] [20 New iOS 16.1 Features You Need to Know About](https://lifehacker.com/20-new-ios-16-1-features-you-need-to-know-about-1849621298)
-- [Dev.to/JS] [Best way to learn react js for free](https://dev.to/shine18/best-way-to-learn-react-js-for-free-1joe)
-- [Dev.to/JS] [Working with SSG Docusaurus](https://dev.to/mnosov622/working-with-ssg-docusaurus-4cjc)
 - [Lifehacker] [What You Need to Know About RSV, the Respiratory Illness Surging in Children](https://lifehacker.com/what-you-need-to-know-about-rsv-the-respiratory-illnes-1849693964)
 - [Lifehacker] [These Twenty States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
 - [Lifehacker] [Quickly Class Up a Room With Painted Faux-Arches](https://lifehacker.com/quickly-class-up-a-room-with-painted-faux-arches-1849693677)
