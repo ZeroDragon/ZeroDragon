@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Kth Largest Element in an Array](https://dev.to/zeeshanali0704/kth-largest-element-in-an-array-13a3)
+- [Dev.to/JS] [A HTML CSS JavaScript Front End CRUD Table](https://dev.to/prsaya/a-html-css-javascript-front-end-crud-table-21hp)
 - [Dev.to/JS] [Next.js vs. React: what should you use?](https://dev.to/sergchr/nextjs-vs-react-what-should-you-use-3ol8)
+- [Dev.to/JS] [State Management Is Easy Now!? An Introduction to Observable Store](https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij)
 - [Dev.to/JS] [Closer look at Keploy](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
 - [Dev.to/JS] [How to set up a basic HTTP server in Node + Express](https://dev.to/danielstai/how-to-set-up-a-basic-http-server-in-node-express-10i)
 - [Dev.to/JS] [Last Stone Weight](https://dev.to/zeeshanali0704/last-stone-weight-3n07)
@@ -34,12 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Dev.to/JS] [JavaScript runtime Node.js 19 keeps the HTTP connection alive and replaces Nodemon!](https://dev.to/paulknulst/javascript-runtime-nodejs-19-keeps-the-http-connection-alive-and-replaces-nodemon-29ef)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
-- [Dev.to/JS] [Creando una api rest con node y typescript](https://dev.to/gbarreradev/creando-una-api-rest-con-node-y-typescript-3495)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
 - [Lifehacker] [What&#39;s New on HBO Max in November 2022](https://lifehacker.com/whats-new-on-hbo-max-in-november-2022-1849695235)
-- [Dev.to/JS] [My thoughts on learning coding](https://dev.to/truetallman/my-thoughts-on-learning-coding-2eda)
 - [Lifehacker] [Should You Work From Home or Take a Real Sick Day?](https://lifehacker.com/should-you-work-from-home-or-take-a-real-sick-day-1849695187)
-- [Dev.to/JS] [# The difference between progressive and partial hydration](https://dev.to/theiaz/-the-difference-between-progressive-and-partial-hydration-18dd)
 - [Lifehacker] [What a Professional Housecleaner Will Clean &lpar;and What They Won&#39;t&rpar;](https://lifehacker.com/what-a-professional-housecleaner-will-clean-and-what-t-1849694908)
 - [Lifehacker] [Your Halloween Party Needs These Chocolate Peanut Butter Bat Cookies](https://lifehacker.com/your-halloween-party-needs-these-chocolate-peanut-butte-1849694663)
 - [Lifehacker] [20 New iOS 16.1 Features You Need to Know About](https://lifehacker.com/20-new-ios-16-1-features-you-need-to-know-about-1849621298)
