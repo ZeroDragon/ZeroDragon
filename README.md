@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to set up a basic HTTP server in Node + Express](https://dev.to/danielstai/how-to-set-up-a-basic-http-server-in-node-express-10i)
+- [Dev.to/JS] [Last Stone Weight](https://dev.to/zeeshanali0704/last-stone-weight-3n07)
 - [Dev.to/JS] [Fullstack app? What? TweetyTag!](https://dev.to/jennjunod/fullstack-app-what-tweetytag-23oh)
 - [Dev.to/JS] [JavaScript Prototype](https://dev.to/mahmoudessam/javascript-prototype-jl9)
 - [Dev.to/JS] [Understanding LeetCode Problem #1672: Richest Customer Wealth &lpar;JavaScript&rpar;](https://dev.to/jmacapagal90/understanding-leetcode-problem-1672-richest-customer-wealth-javascript-2i0e)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Halloween Party Needs These Chocolate Peanut Butter Bat Cookies](https://lifehacker.com/your-halloween-party-needs-these-chocolate-peanut-butte-1849694663)
 - [Dev.to/JS] [How I Finally Learned How to Code: A 12-month journey of coding, learning and growing.](https://dev.to/alisekazah/how-i-finally-learned-how-to-code-a-12-month-journey-of-coding-learning-and-growing-3ep6)
 - [Dev.to/JS] [Code Challenge: Sort only odd or even integers](https://dev.to/hsabes/code-challenge-sort-collection-of-integers-based-on-even-or-odd-value-4i00)
-- [Dev.to/JS] [Build an End-To-End Encrypted Chat App in Nuxt.js: Messages and Encryption](https://dev.to/hackmamba/build-an-end-to-end-encrypted-chat-app-in-nuxtjs-messages-and-encryption-30ki)
-- [Dev.to/JS] [15 React Interview Questions to Help You Ace Your Next Technical Interview](https://dev.to/amrtcrypto/15-react-interview-questions-to-help-you-ace-your-next-technical-interview-4h2c)
 - [Lifehacker] [20 New iOS 16.1 Features You Need to Know About](https://lifehacker.com/20-new-ios-16-1-features-you-need-to-know-about-1849621298)
 - [Lifehacker] [What You Need to Know About RSV, the Respiratory Illness Surging in Children](https://lifehacker.com/what-you-need-to-know-about-rsv-the-respiratory-illnes-1849693964)
 - [Lifehacker] [These Twenty States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
