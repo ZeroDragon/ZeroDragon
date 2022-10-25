@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [17 of the Best Horror Games in Every Genre](https://lifehacker.com/17-of-the-best-horror-games-in-every-genre-1849697216)
+- [Dev.to/JS] [Cypress Variables | How does it work?](https://dev.to/dilpreetjohal/cypress-variables-how-does-it-work-1ip3)
+- [Dev.to/JS] [10 Project ideas to fetch you your dream job.](https://dev.to/sleeplessyogi/10-project-ideas-to-fetch-you-your-dream-job-1gbk)
+- [Dev.to/JS] [Implementing a Docusaurus Feature for my SSG](https://dev.to/ririio/implementing-a-docusaurus-feature-for-my-ssg-a3i)
+- [Lifehacker] [Three Easy Ways to Make Your Own Fake Blood for Halloween](https://lifehacker.com/three-easy-ways-to-make-your-own-fake-blood-for-hallowe-1849697636)
 - [Lifehacker] [You Can Marcona Your Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
 - [Dev.to/JS] [How to handle login forms in React? Including storing user sessions and authentication](https://dev.to/hetarth7/how-to-handle-login-forms-in-react-including-storing-user-sessions-and-authentication-1fl)
 - [Dev.to/JS] [Callback-based asynchronous functions](https://dev.to/talenttinaapi/callback-based-asynchronous-functions-klk)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)
 - [Dev.to/JS] [Websites to Practise Your Frontend Skills - Div_pradeep](https://dev.to/knowledgefromtwitter/websites-to-practise-your-frontend-skills-divpradeep-2f4n)
 - [Dev.to/JS] [How to Profit from Social Media: 2022](https://dev.to/davedmontre23/how-to-profit-from-social-mediarewritten-for-2022-iin)
-- [Dev.to/JS] [The state of MVU](https://dev.to/artydev/the-state-of-mvu-2pnf)
-- [Dev.to/JS] [20 pull requests were created in our repo by community members during Hacktoberfest 🚀 🚀 🚀](https://dev.to/wasp/20-pull-requests-were-created-in-our-repo-by-community-members-during-hacktoberfest-50cl)
-- [Dev.to/JS] [Building a Stopwatch in JavaScript](https://dev.to/coder4_life/building-a-stopwatch-in-javascript-18cf)
 - [Lifehacker] [Here’s How to Stop Succumbing to Financial Peer Pressure](https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Most Useful macOS Ventura Features](https://lifehacker.com/25-of-the-most-useful-macos-ventura-features-1849676873)
 - [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)
 - [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
-- [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)
-- [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
-- [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)<!-- TECH-POSTS:END -->
 
 ---
 
