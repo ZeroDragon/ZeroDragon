@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the Three Primitive JavaScript Data Types?](https://dev.to/max88git/what-are-the-three-primitive-javascript-data-types-f58)
+- [Dev.to/JS] [Hacktoberfest with Aviyel 🎉](https://dev.to/patilganesh1010/hacktoberfest-with-aviyel-235n)
+- [Dev.to/JS] [How to Use JavaScript some method](https://dev.to/refine/how-to-use-javascript-some-method-1jk4)
+- [Dev.to/JS] [How to use error boundaries in react?](https://dev.to/bgopikrishna/how-to-use-error-boundaries-in-react-5g01)
 - [Dev.to/JS] [Step-by-step PhantomJS web scraping guide](https://dev.to/gidoneli/step-by-step-phantomjs-web-scraping-guide-j39)
 - [Dev.to/JS] [It took me 3 years to understand Destructuring in JS](https://dev.to/maditusi/it-took-me-3-years-to-understand-destructuring-in-js-89)
 - [Dev.to/JS] [Best Practices For Case Styles: Camel, Pascal, Snake, and Kebab Case In Node And Javascript](https://dev.to/hassanzohdy/best-practices-for-case-styles-camel-pascal-snake-and-kebab-case-in-node-and-javascript-55oi)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Audio node processing diagrams](https://dev.to/calinalexandru/audio-node-processing-diagrams-3c9g)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/rkshaw20/higher-order-functions-397f)
 - [Dev.to/JS] [Java script solution](https://dev.to/jaki/java-script-solution-2a1p)
-- [Dev.to/JS] [Svelte CSS Image Slider: with Bouncy Overscroll](https://dev.to/askrodney/svelte-css-image-slider-with-bouncy-overscroll-52km)
-- [Dev.to/JS] [Introduction to Linked Lists](https://dev.to/chrisding7/introduction-to-linked-lists-23e6)
-- [Dev.to/JS] [Debouncing and Throttling in JavaScript](https://dev.to/vedanthb/debouncing-and-throttling-in-javascript-10oo)
-- [Dev.to/JS] [The quest for auth in the modern web app](https://dev.to/jakobjingleheimer/the-quest-for-auth-in-the-modern-web-app-3h9i)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
