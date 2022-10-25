@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I do declare&lpar;ative&rpar;, React.js is good, clean fun!](https://dev.to/jmayheww/i-do-declareative-reactjs-is-good-clean-fun-24kk)
 - [Dev.to/JS] [Kth Largest Element in an Array](https://dev.to/zeeshanali0704/kth-largest-element-in-an-array-13a3)
 - [Dev.to/JS] [A HTML CSS JavaScript Front End CRUD Table](https://dev.to/prsaya/a-html-css-javascript-front-end-crud-table-21hp)
 - [Dev.to/JS] [Next.js vs. React: what should you use?](https://dev.to/sergchr/nextjs-vs-react-what-should-you-use-3ol8)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding LeetCode Problem #1672: Richest Customer Wealth &lpar;JavaScript&rpar;](https://dev.to/jmacapagal90/understanding-leetcode-problem-1672-richest-customer-wealth-javascript-2i0e)
 - [Dev.to/JS] [React Context API for Beginners &lpar;using useContext hook&rpar;](https://dev.to/samueladex/react-context-api-for-beginners-using-usecontext-hook-jld)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
-- [Dev.to/JS] [JavaScript runtime Node.js 19 keeps the HTTP connection alive and replaces Nodemon!](https://dev.to/paulknulst/javascript-runtime-nodejs-19-keeps-the-http-connection-alive-and-replaces-nodemon-29ef)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
 - [Lifehacker] [What&#39;s New on HBO Max in November 2022](https://lifehacker.com/whats-new-on-hbo-max-in-november-2022-1849695235)
