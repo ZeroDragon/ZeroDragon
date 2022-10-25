@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Close Your Eyes to Apply Eyedrops](https://lifehacker.com/close-your-eyes-to-apply-eyedrops-1849699060)
+- [Dev.to/JS] [I built a dev.to stats card generator &lpar;followers &amp; views count&rpar;](https://dev.to/amrelmohamady/i-built-a-devto-stats-card-generator-followers-views-count-2b6b)
+- [Dev.to/JS] [Angular Dependency Injection Understood II](https://dev.to/renaisense_/angular-dependency-injection-understood-ii-2bbi)
+- [Lifehacker] [Use Microsoft PC Manager to Clean Up &lpar;and Speed Up&rpar; a Slow Computer](https://lifehacker.com/use-microsoft-pc-manager-to-clean-up-and-speed-up-a-s-1849698797)
+- [Dev.to/JS] [How to update your app that uses an old version of MeteorJS?](https://dev.to/meteorjs/how-to-update-your-app-that-uses-an-old-version-of-meteorjs-2h87)
 - [Lifehacker] [17 of the Best Horror Games in Every Genre](https://lifehacker.com/17-of-the-best-horror-games-in-every-genre-1849697216)
 - [Dev.to/JS] [Cypress Variables | How does it work?](https://dev.to/dilpreetjohal/cypress-variables-how-does-it-work-1ip3)
 - [Dev.to/JS] [10 Project ideas to fetch you your dream job.](https://dev.to/sleeplessyogi/10-project-ideas-to-fetch-you-your-dream-job-1gbk)
@@ -33,14 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Callback-based asynchronous functions](https://dev.to/talenttinaapi/callback-based-asynchronous-functions-klk)
 - [Lifehacker] [Delete These Ad-Trolling Apps From Your Android Right Now](https://lifehacker.com/delete-these-ad-trolling-apps-from-your-android-right-n-1849696291)
 - [Dev.to/JS] [How to Create Custom File Upload Input Control with React and CSS](https://dev.to/charleskasasira/how-to-create-custom-file-upload-input-control-with-react-and-css-48fn)
-- [Dev.to/JS] [Building a Login System using Redux &lpar;pitch&rpar;](https://dev.to/danielonugha0/building-a-login-system-using-redux-pitch-1k06)
 - [Dev.to/JS] [Introdução ao DOM](https://dev.to/g101/introducao-ao-dom-o38)
 - [Dev.to/JS] [How to Reverse a String in JavaScript](https://dev.to/rpjayadev/how-to-reverse-a-string-in-javascript-13i9)
 - [Dev.to/JS] [A Guide on reducing the work required to submit a job application.](https://dev.to/supernovarts/a-guide-on-reducing-the-work-required-to-submit-a-job-application-22o4)
 - [Lifehacker] [10 Ways to Make a &#39;Special Salad Dressing,&#39; According to Lifehacker Readers](https://lifehacker.com/10-ways-to-make-a-special-salad-dressing-according-to-1849695217)
 - [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)
-- [Dev.to/JS] [Websites to Practise Your Frontend Skills - Div_pradeep](https://dev.to/knowledgefromtwitter/websites-to-practise-your-frontend-skills-divpradeep-2f4n)
-- [Dev.to/JS] [How to Profit from Social Media: 2022](https://dev.to/davedmontre23/how-to-profit-from-social-mediarewritten-for-2022-iin)
 - [Lifehacker] [Here’s How to Stop Succumbing to Financial Peer Pressure](https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Realize You&#39;re &#39;Parenting&#39; Your Partner](https://lifehacker.com/what-to-do-if-you-realize-youre-parenting-your-partner-1849683337)
 - [Lifehacker] [Start These Ferments Now and Use Them All Holiday Season](https://lifehacker.com/start-these-ferments-now-and-use-them-all-holiday-seaso-1849679086)
 - [Lifehacker] [25 of the Most Useful macOS Ventura Features](https://lifehacker.com/25-of-the-most-useful-macos-ventura-features-1849676873)
-- [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)
-- [Lifehacker] [Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
-- [Lifehacker] [The Difference Between a Living Room and a Family Room](https://lifehacker.com/the-difference-between-a-living-room-and-a-family-room-1849684614)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)<!-- TECH-POSTS:END -->
 
 ---
 
