@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js vs. React: what should you use?](https://dev.to/sergchr/nextjs-vs-react-what-should-you-use-3ol8)
+- [Dev.to/JS] [Closer look at Keploy](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
 - [Dev.to/JS] [How to set up a basic HTTP server in Node + Express](https://dev.to/danielstai/how-to-set-up-a-basic-http-server-in-node-express-10i)
 - [Dev.to/JS] [Last Stone Weight](https://dev.to/zeeshanali0704/last-stone-weight-3n07)
 - [Dev.to/JS] [Fullstack app? What? TweetyTag!](https://dev.to/jennjunod/fullstack-app-what-tweetytag-23oh)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [# The difference between progressive and partial hydration](https://dev.to/theiaz/-the-difference-between-progressive-and-partial-hydration-18dd)
 - [Lifehacker] [What a Professional Housecleaner Will Clean &lpar;and What They Won&#39;t&rpar;](https://lifehacker.com/what-a-professional-housecleaner-will-clean-and-what-t-1849694908)
 - [Lifehacker] [Your Halloween Party Needs These Chocolate Peanut Butter Bat Cookies](https://lifehacker.com/your-halloween-party-needs-these-chocolate-peanut-butte-1849694663)
-- [Dev.to/JS] [How I Finally Learned How to Code: A 12-month journey of coding, learning and growing.](https://dev.to/alisekazah/how-i-finally-learned-how-to-code-a-12-month-journey-of-coding-learning-and-growing-3ep6)
-- [Dev.to/JS] [Code Challenge: Sort only odd or even integers](https://dev.to/hsabes/code-challenge-sort-collection-of-integers-based-on-even-or-odd-value-4i00)
 - [Lifehacker] [20 New iOS 16.1 Features You Need to Know About](https://lifehacker.com/20-new-ios-16-1-features-you-need-to-know-about-1849621298)
 - [Lifehacker] [What You Need to Know About RSV, the Respiratory Illness Surging in Children](https://lifehacker.com/what-you-need-to-know-about-rsv-the-respiratory-illnes-1849693964)
 - [Lifehacker] [These Twenty States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
