@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide on reducing the work required to submit a job application.](https://dev.to/supernovarts/a-guide-on-reducing-the-work-required-to-submit-a-job-application-22o4)
+- [Lifehacker] [10 Ways to Make a &#39;Special Salad Dressing,&#39; According to Lifehacker Readers](https://lifehacker.com/10-ways-to-make-a-special-salad-dressing-according-to-1849695217)
+- [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)
+- [Dev.to/JS] [Websites to Practise Your Frontend Skills - Div_pradeep](https://dev.to/knowledgefromtwitter/websites-to-practise-your-frontend-skills-divpradeep-2f4n)
+- [Dev.to/JS] [How to Profit from Social Media: 2022](https://dev.to/davedmontre23/how-to-profit-from-social-mediarewritten-for-2022-iin)
+- [Dev.to/JS] [The state of MVU](https://dev.to/artydev/the-state-of-mvu-2pnf)
+- [Dev.to/JS] [20 pull requests were created in our repo by community members during Hacktoberfest 🚀 🚀 🚀](https://dev.to/wasp/20-pull-requests-were-created-in-our-repo-by-community-members-during-hacktoberfest-50cl)
+- [Dev.to/JS] [Building a Stopwatch in JavaScript](https://dev.to/coder4_life/building-a-stopwatch-in-javascript-18cf)
+- [Dev.to/JS] [Minimum Cost of ropes](https://dev.to/zeeshanali0704/minimum-cost-of-ropes-2mln)
+- [Dev.to/JS] [I made 10x faster JSON.stringify&lpar;&rpar; functions, even type safe](https://dev.to/samchon/i-made-10x-faster-jsonstringify-functions-even-type-safe-2eme)
 - [Dev.to/JS] [What are the Three Primitive JavaScript Data Types?](https://dev.to/max88git/what-are-the-three-primitive-javascript-data-types-f58)
+- [Lifehacker] [Here’s How to Stop Succumbing to Financial Peer Pressure](https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842)
 - [Dev.to/JS] [Hacktoberfest with Aviyel 🎉](https://dev.to/patilganesh1010/hacktoberfest-with-aviyel-235n)
 - [Dev.to/JS] [How to Use JavaScript some method](https://dev.to/refine/how-to-use-javascript-some-method-1jk4)
 - [Dev.to/JS] [How to use error boundaries in react?](https://dev.to/bgopikrishna/how-to-use-error-boundaries-in-react-5g01)
-- [Dev.to/JS] [Step-by-step PhantomJS web scraping guide](https://dev.to/gidoneli/step-by-step-phantomjs-web-scraping-guide-j39)
-- [Dev.to/JS] [It took me 3 years to understand Destructuring in JS](https://dev.to/maditusi/it-took-me-3-years-to-understand-destructuring-in-js-89)
-- [Dev.to/JS] [Best Practices For Case Styles: Camel, Pascal, Snake, and Kebab Case In Node And Javascript](https://dev.to/hassanzohdy/best-practices-for-case-styles-camel-pascal-snake-and-kebab-case-in-node-and-javascript-55oi)
-- [Dev.to/JS] [Dark Mode with Gatsbyjs for Dummies](https://dev.to/hr21don/dark-mode-with-gatsbyjs-for-dummies-4g9f)
-- [Dev.to/JS] [Domain Redirection In A Snap 🔃](https://dev.to/ck9801/domain-redirection-in-a-snap-5j2)
-- [Dev.to/JS] [Audio node processing diagrams](https://dev.to/calinalexandru/audio-node-processing-diagrams-3c9g)
-- [Dev.to/JS] [Higher Order Functions](https://dev.to/rkshaw20/higher-order-functions-397f)
-- [Dev.to/JS] [Java script solution](https://dev.to/jaki/java-script-solution-2a1p)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Save Money on Energy Bills as a Renter](https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611)
 - [Lifehacker] [How to Sleep Comfortably on a Couch](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
-- [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)
-- [Lifehacker] [How to Reduce Glare on Your TV](https://lifehacker.com/how-to-reduce-glare-on-your-tv-1849684754)
-- [Lifehacker] [Four Simple Ways to Save on Your Heating Bill This Winter](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
-- [Lifehacker] [What Are Stabilizer Muscles &lpar;and Do You Really Need to Train Them&rpar;?](https://lifehacker.com/what-are-stabilizer-muscles-and-do-you-really-need-to-1849688623)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Triangle Method to Tell Whether Someone Is Lying to You](https://lifehacker.com/use-the-triangle-method-to-tell-whether-someone-is-lyin-1849684776)<!-- TECH-POSTS:END -->
 
 ---
 
