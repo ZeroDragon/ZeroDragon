@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modularize Your React Project!](https://dev.to/jonahgeek/modularize-your-react-project-5f23)
 - [Dev.to/JS] [Debugging with console.log](https://dev.to/berra/debugging-with-consolelog-116c)
 - [Dev.to/JS] [JSON recognizer is here](https://dev.to/ccarcaci/json-recognizer-is-here-32p3)
 - [Dev.to/JS] [13 CSS website that will make you a Genius even if you’re A Beginner Developer &lpar; For Free &rpar; 👇](https://dev.to/thepdeveloper/13-css-website-that-will-make-you-a-genius-even-if-youre-a-beginner-developer-for-free--dmc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closer look at Keploy](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
 - [Dev.to/JS] [How to set up a basic HTTP server in Node + Express](https://dev.to/danielstai/how-to-set-up-a-basic-http-server-in-node-express-10i)
 - [Dev.to/JS] [Last Stone Weight](https://dev.to/zeeshanali0704/last-stone-weight-3n07)
-- [Dev.to/JS] [Fullstack app? What? TweetyTag!](https://dev.to/jennjunod/fullstack-app-what-tweetytag-23oh)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
