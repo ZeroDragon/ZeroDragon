@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Linked Lists](https://dev.to/chrisding7/introduction-to-linked-lists-23e6)
+- [Dev.to/JS] [Debouncing and Throttling in JavaScript](https://dev.to/vedanthb/debouncing-and-throttling-in-javascript-10oo)
+- [Dev.to/JS] [The quest for auth in the modern web app](https://dev.to/jakobjingleheimer/the-quest-for-auth-in-the-modern-web-app-3h9i)
 - [Dev.to/JS] [Modularize Your React Project!](https://dev.to/jonahgeek/modularize-your-react-project-5f23)
 - [Dev.to/JS] [Debugging with console.log](https://dev.to/berra/debugging-with-consolelog-116c)
 - [Dev.to/JS] [JSON recognizer is here](https://dev.to/ccarcaci/json-recognizer-is-here-32p3)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A HTML CSS JavaScript Front End CRUD Table](https://dev.to/prsaya/a-html-css-javascript-front-end-crud-table-21hp)
 - [Dev.to/JS] [Next.js vs. React: what should you use?](https://dev.to/sergchr/nextjs-vs-react-what-should-you-use-3ol8)
 - [Dev.to/JS] [State Management Is Easy Now!? An Introduction to Observable Store](https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij)
-- [Dev.to/JS] [Closer look at Keploy](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
-- [Dev.to/JS] [How to set up a basic HTTP server in Node + Express](https://dev.to/danielstai/how-to-set-up-a-basic-http-server-in-node-express-10i)
-- [Dev.to/JS] [Last Stone Weight](https://dev.to/zeeshanali0704/last-stone-weight-3n07)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
