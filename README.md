@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Implement A Password Reset Feature In Your NodeJS Application](https://dev.to/ugorji_simon/how-to-implement-a-password-reset-feature-in-your-nodejs-application-4hc8)
+- [Lifehacker] [Your Hard Taco Shells Are Too Cold](https://lifehacker.com/your-hard-taco-shells-are-too-cold-1849700040)
+- [Dev.to/JS] [StairCase | HackerRank Solution in JavaScript](https://dev.to/johnchristotle/staircase-hackerrank-solution-in-javascript-4mm1)
+- [Dev.to/JS] [How to effectively utilize Promise in JavaScript using Async/Await](https://dev.to/efkumah/how-to-effectively-utilize-promise-in-javascript-using-asyncawait-5hlc)
+- [Lifehacker] [Don&#39;t Forget Obamacare&#39;s Open Enrollment Deadline](https://lifehacker.com/dont-forget-obamacares-open-enrollment-deadline-1849698802)
 - [Lifehacker] [Turn Ferrero Rocher Chocolates Into Spooky Halloween Candy](https://lifehacker.com/turn-ferrero-rocher-chocolates-into-spooky-halloween-ca-1849700030)
 - [Lifehacker] [What&#39;s New on Prime Video in November 2022](https://lifehacker.com/whats-new-on-prime-video-in-november-2022-1849700180)
 - [Lifehacker] [How to DIY Fake Molding on a Budget](https://lifehacker.com/how-to-diy-fake-molding-on-a-budget-1849697735)
@@ -43,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Easy Ways to Make Your Own Fake Blood for Halloween](https://lifehacker.com/three-easy-ways-to-make-your-own-fake-blood-for-hallowe-1849697636)
 - [Lifehacker] [You Can Marcona Your Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
 - [Dev.to/JS] [How to handle login forms in React? Including storing user sessions and authentication](https://dev.to/hetarth7/how-to-handle-login-forms-in-react-including-storing-user-sessions-and-authentication-1fl)
-- [Dev.to/JS] [Callback-based asynchronous functions](https://dev.to/talenttinaapi/callback-based-asynchronous-functions-klk)
 - [Lifehacker] [Delete These Ad-Trolling Apps From Your Android Right Now](https://lifehacker.com/delete-these-ad-trolling-apps-from-your-android-right-n-1849696291)
-- [Dev.to/JS] [How to Create Custom File Upload Input Control with React and CSS](https://dev.to/charleskasasira/how-to-create-custom-file-upload-input-control-with-react-and-css-48fn)
-- [Dev.to/JS] [Introdução ao DOM](https://dev.to/g101/introducao-ao-dom-o38)
 - [Lifehacker] [10 Ways to Make a &#39;Special Salad Dressing,&#39; According to Lifehacker Readers](https://lifehacker.com/10-ways-to-make-a-special-salad-dressing-according-to-1849695217)
 - [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)
 - [Lifehacker] [Here’s How to Stop Succumbing to Financial Peer Pressure](https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 New iOS 16.1 Features You Need to Know About](https://lifehacker.com/20-new-ios-16-1-features-you-need-to-know-about-1849621298)
 - [Lifehacker] [What You Need to Know About RSV, the Respiratory Illness Surging in Children](https://lifehacker.com/what-you-need-to-know-about-rsv-the-respiratory-illnes-1849693964)
 - [Lifehacker] [These Twenty States Are Sending Out Stimulus Checks](https://lifehacker.com/these-20-states-are-sending-out-stimulus-checks-1849693645)
-- [Lifehacker] [Quickly Class Up a Room With Painted Faux-Arches](https://lifehacker.com/quickly-class-up-a-room-with-painted-faux-arches-1849693677)
-- [Lifehacker] [How to Fix Your Noisy Radiator Based on the Sound It’s Making](https://lifehacker.com/how-to-fix-your-noisy-radiator-based-on-the-sound-it-s-1849693196)
-- [Lifehacker] [Take These Safety Precautions Before Any DIY Project](https://lifehacker.com/take-these-safety-precautions-before-any-diy-project-1849691246)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Quickly Class Up a Room With Painted Faux-Arches](https://lifehacker.com/quickly-class-up-a-room-with-painted-faux-arches-1849693677)<!-- TECH-POSTS:END -->
 
 ---
 
