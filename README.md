@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Meditate to Sleep](https://lifehacker.com/the-easiest-way-to-meditate-to-sleep-1849699307)
+- [Lifehacker] [You Can Make Your Phone Calls Sound Clearer on Pixel](https://lifehacker.com/you-can-make-your-phone-calls-sound-clearer-on-pixel-1849699221)
 - [Lifehacker] [Close Your Eyes to Apply Eyedrops](https://lifehacker.com/close-your-eyes-to-apply-eyedrops-1849699060)
 - [Dev.to/JS] [I built a dev.to stats card generator &lpar;followers &amp; views count&rpar;](https://dev.to/amrelmohamady/i-built-a-devto-stats-card-generator-followers-views-count-2b6b)
 - [Dev.to/JS] [Angular Dependency Injection Understood II](https://dev.to/renaisense_/angular-dependency-injection-understood-ii-2bbi)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Over Your Messy-House Shame](https://lifehacker.com/how-to-get-over-your-messy-house-shame-1849692092)
 - [Lifehacker] [You&#39;re Wrong About the Origins of These 12 Common Words](https://lifehacker.com/youre-wrong-about-the-origins-of-these-12-common-words-1849687781)
 - [Lifehacker] [What to Do If You Realize You&#39;re &#39;Parenting&#39; Your Partner](https://lifehacker.com/what-to-do-if-you-realize-youre-parenting-your-partner-1849683337)
-- [Lifehacker] [Start These Ferments Now and Use Them All Holiday Season](https://lifehacker.com/start-these-ferments-now-and-use-them-all-holiday-seaso-1849679086)
-- [Lifehacker] [25 of the Most Useful macOS Ventura Features](https://lifehacker.com/25-of-the-most-useful-macos-ventura-features-1849676873)
-- [Lifehacker] [The 7 Deadly Sins of Grocery Shopping](https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Start These Ferments Now and Use Them All Holiday Season](https://lifehacker.com/start-these-ferments-now-and-use-them-all-holiday-seaso-1849679086)<!-- TECH-POSTS:END -->
 
 ---
 
