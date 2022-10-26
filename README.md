@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Maximum Items with Given Sum](https://dev.to/zeeshanali0704/buy-maximum-items-with-given-sum-17d7)
 - [Dev.to/JS] [The conditional &lpar;ternary&rpar; operator in JS is simpler than it seems](https://dev.to/schemetastic/the-conditional-ternary-operator-in-js-is-simpler-than-it-seems-3lk6)
 - [Dev.to/JS] [Best Implementation of setState in ReactJs](https://dev.to/catur/best-implementation-of-setstate-in-reactjs-159k)
 - [Dev.to/JS] [Data Visualization In Vue With Chart.Js](https://dev.to/asayerio_techblog/data-visualization-in-vue-with-chartjs-5113)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Implement A Password Reset Feature In Your NodeJS Application](https://dev.to/ugorji_simon/how-to-implement-a-password-reset-feature-in-your-nodejs-application-4hc8)
 - [Lifehacker] [Your Hard Taco Shells Are Too Cold](https://lifehacker.com/your-hard-taco-shells-are-too-cold-1849700040)
 - [Dev.to/JS] [StairCase | HackerRank Solution in JavaScript](https://dev.to/johnchristotle/staircase-hackerrank-solution-in-javascript-4mm1)
-- [Dev.to/JS] [How to effectively utilize Promise in JavaScript using Async/Await](https://dev.to/efkumah/how-to-effectively-utilize-promise-in-javascript-using-asyncawait-5hlc)
 - [Lifehacker] [Don&#39;t Forget Obamacare&#39;s Open Enrollment Deadline](https://lifehacker.com/dont-forget-obamacares-open-enrollment-deadline-1849698802)
 - [Lifehacker] [Turn Ferrero Rocher Chocolates Into Spooky Halloween Candy](https://lifehacker.com/turn-ferrero-rocher-chocolates-into-spooky-halloween-ca-1849700030)
 - [Lifehacker] [What&#39;s New on Prime Video in November 2022](https://lifehacker.com/whats-new-on-prime-video-in-november-2022-1849700180)
