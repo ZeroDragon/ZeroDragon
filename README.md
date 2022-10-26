@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Visualization In Vue With Chart.Js](https://dev.to/asayerio_techblog/data-visualization-in-vue-with-chartjs-5113)
+- [Dev.to/JS] [What is the best natural Creme of breast enhancement](https://dev.to/affilia42236527/what-is-the-best-natural-creme-of-breast-enhancement-348o)
+- [Dev.to/JS] [How the DomTokenList API works](https://dev.to/lensco825/how-the-domtokenlist-api-works-3lef)
 - [Dev.to/JS] [How to update state React Native](https://dev.to/thomasosho/how-to-update-state-react-native-3aih)
 - [Dev.to/JS] [Credit card chips and encryption in plain JavaScript](https://dev.to/isaacdlyman/credit-card-chips-and-encryption-in-plain-javascript-42p5)
 - [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
@@ -46,10 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Meditate to Sleep](https://lifehacker.com/the-easiest-way-to-meditate-to-sleep-1849699307)
 - [Lifehacker] [You Can Make Your Phone Calls Sound Clearer on Pixel](https://lifehacker.com/you-can-make-your-phone-calls-sound-clearer-on-pixel-1849699221)
 - [Lifehacker] [Close Your Eyes to Apply Eyedrops](https://lifehacker.com/close-your-eyes-to-apply-eyedrops-1849699060)
-- [Dev.to/JS] [I built a dev.to stats card generator &lpar;followers &amp; views count&rpar;](https://dev.to/amrelmohamady/i-built-a-devto-stats-card-generator-followers-views-count-2b6b)
-- [Dev.to/JS] [Angular Dependency Injection Understood II](https://dev.to/renaisense_/angular-dependency-injection-understood-ii-2bbi)
 - [Lifehacker] [Use Microsoft PC Manager to Clean Up &lpar;and Speed Up&rpar; a Slow Computer](https://lifehacker.com/use-microsoft-pc-manager-to-clean-up-and-speed-up-a-s-1849698797)
-- [Dev.to/JS] [How to update your app that uses an old version of MeteorJS?](https://dev.to/meteorjs/how-to-update-your-app-that-uses-an-old-version-of-meteorjs-2h87)
 - [Lifehacker] [17 of the Best Horror Games in Every Genre](https://lifehacker.com/17-of-the-best-horror-games-in-every-genre-1849697216)
 - [Lifehacker] [Three Easy Ways to Make Your Own Fake Blood for Halloween](https://lifehacker.com/three-easy-ways-to-make-your-own-fake-blood-for-hallowe-1849697636)
 - [Lifehacker] [You Can Marcona Your Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
