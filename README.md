@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Recalled Pine-Sol Disinfectants Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)
+- [Dev.to/JS] [Deja de usar &quot;&amp;&amp;&quot; para el Conditional Rendering en React](https://dev.to/khriztianmoreno/deja-de-usar-para-el-conditional-rendering-en-react-5b5j)
+- [Dev.to/JS] [Landing page inside your app?](https://dev.to/guillaumeduhan/landing-page-inside-your-app-4h2p)
+- [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
+- [Dev.to/JS] [Machine Learning](https://dev.to/kibetamos/machine-learning-269j)
+- [Dev.to/JS] [Hi ! Help me with react](https://dev.to/pruthvirajchauhan/hi-help-me-with-react-14g2)
+- [Dev.to/JS] [React Native for Web Apps](https://dev.to/raulsposito/react-native-for-web-apps-8g3)
 - [Dev.to/JS] [Classes - JavaScript Core Concepts](https://dev.to/angelinewang/classes-javascript-core-concepts-1gd9)
+- [Lifehacker] [You Can Get a Rolex for ‘Cheap’ Right Now](https://lifehacker.com/you-can-get-a-rolex-for-cheap-right-now-1849701945)
 - [Dev.to/JS] [Templates reativos “automagicamente”](https://dev.to/diogoneves07/templates-reativos-automagicamente-35ij)
 - [Lifehacker] [Never Keep These Things In a Storage Unit](https://lifehacker.com/never-keep-these-things-in-a-storage-unit-1849702689)
 - [Dev.to/JS] [How Can I Learn React Redux?](https://dev.to/bariskarapelit/how-can-i-learn-react-redux-4868)
@@ -33,15 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions - JavaScript Core Concepts](https://dev.to/angelinewang/functions-javascript-core-concepts-l1p)
 - [Dev.to/JS] [Refactoring Tools: Early Return for Flatter Conditions](https://dev.to/bespoyasov/refactoring-tools-early-return-for-flatter-conditions-d1p)
 - [Lifehacker] [The U.S. States With the Highest &lpar;and Lowest&rpar; Property Tax Rates](https://lifehacker.com/the-u-s-states-with-the-highest-and-lowest-property-1849702438)
-- [Dev.to/JS] [Effective Way To Write Maintainable React Component](https://dev.to/rajajaganathan/effective-way-to-write-maintainable-react-component-992)
-- [Dev.to/JS] [Entendendo Callbacks no JavaScript](https://dev.to/alanfabricio/entendendo-callbacks-no-javascript-28e0)
 - [Lifehacker] [Scramble Your Eggs in Spicy Salsa Macha](https://lifehacker.com/scramble-your-eggs-in-spicy-salsa-macha-1849701391)
-- [Dev.to/JS] [Is your package.json safe?](https://dev.to/mishgun/is-your-packagejson-safe-20c1)
 - [Lifehacker] [12 World Leaders With Even Shorter Reigns Than Liz Truss](https://lifehacker.com/12-world-leaders-with-even-shorter-reigns-than-liz-trus-1849702739)
 - [Lifehacker] [Turn Your Jack-o&#39;-Lantern Guts Into Pumpkin Bread](https://lifehacker.com/turn-your-jack-o-lantern-guts-into-pumpkin-bread-1849700448)
-- [Dev.to/JS] [Zero to SaaS - The Formula](https://dev.to/brandonkylebailey/zero-to-saas-the-formula-48id)
 - [Lifehacker] [Fry Your Sad, Stale Doughnuts in Salted Butter](https://lifehacker.com/fry-your-sad-stale-doughnuts-in-salted-butter-1849701197)
-- [Dev.to/JS] [Kickoff and Get Started with the 30 Days of Microsoft Graph Challenge: Tuesday Nov 1st, 3pm UTC](https://dev.to/azure/kickoff-and-get-started-with-the-30-days-of-microsoft-graph-challenge-tuesday-nov-1st-3pm-utc-fo3)
 - [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
 - [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
 - [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Microsoft PC Manager to Clean Up &lpar;and Speed Up&rpar; a Slow Computer](https://lifehacker.com/use-microsoft-pc-manager-to-clean-up-and-speed-up-a-s-1849698797)
 - [Lifehacker] [17 of the Best Horror Games in Every Genre](https://lifehacker.com/17-of-the-best-horror-games-in-every-genre-1849697216)
 - [Lifehacker] [Three Easy Ways to Make Your Own Fake Blood for Halloween](https://lifehacker.com/three-easy-ways-to-make-your-own-fake-blood-for-hallowe-1849697636)
-- [Lifehacker] [You Can Marcona Your Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
-- [Lifehacker] [Delete These Ad-Trolling Apps From Your Android Right Now](https://lifehacker.com/delete-these-ad-trolling-apps-from-your-android-right-n-1849696291)
-- [Lifehacker] [10 Ways to Make a &#39;Special Salad Dressing,&#39; According to Lifehacker Readers](https://lifehacker.com/10-ways-to-make-a-special-salad-dressing-according-to-1849695217)
-- [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Marcona Your Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)<!-- TECH-POSTS:END -->
 
 ---
 
