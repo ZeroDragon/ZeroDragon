@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zero to SaaS - The Formula](https://dev.to/brandonkylebailey/zero-to-saas-the-formula-48id)
+- [Lifehacker] [Fry Your Sad, Stale Doughnuts in Salted Butter](https://lifehacker.com/fry-your-sad-stale-doughnuts-in-salted-butter-1849701197)
+- [Dev.to/JS] [Kickoff and Get Started with the 30 Days of Microsoft Graph Challenge: Tuesday Nov 1st, 3pm UTC](https://dev.to/azure/kickoff-and-get-started-with-the-30-days-of-microsoft-graph-challenge-tuesday-nov-1st-3pm-utc-fo3)
+- [Dev.to/JS] [What is PRINCE2?](https://dev.to/postwell45/what-is-prince2-357n)
+- [Dev.to/JS] [Microfrontend: Registro dinâmico de componentes &lpar;module federation&rpar;](https://dev.to/alisonjr/microfrontend-registro-dinamico-de-componentes-module-federation-3ga8)
 - [Dev.to/JS] [HTTP VS HTTP – WHICH IS BETTER?](https://dev.to/khansa/http-vs-http-which-is-better-49of)
 - [Dev.to/JS] [Personalize your static site based on a previous site referral](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
 - [Dev.to/JS] [How to Add Form Validation in React ?How to Save CheckBox,Radio Button,Input Field&lpar; Text&amp;Date Type&rpar;,drop-down Value in React?](https://dev.to/radhe65gupta/how-to-add-form-oam)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meteor and React Native - Create a native mobile app](https://dev.to/jankapunkt/meteor-and-react-native-create-a-native-mobile-app-2ile)
 - [Dev.to/JS] [02.16 React State - User List in one component &lpar;functional components&rpar;](https://dev.to/adriangheo/0216-react-state-user-list-in-one-component-functional-components-9p3)
 - [Dev.to/JS] [02.15 React State - User List in one component &lpar;class components&rpar;](https://dev.to/adriangheo/0215-react-state-user-list-in-one-component-class-components-25oc)
-- [Dev.to/JS] [Building an AWS Serverless Web Application](https://dev.to/jawadhasan/building-an-aws-serverless-web-application-a9j)
-- [Dev.to/JS] [How to Create a SaaS Product That People Will Actually Want to Use](https://dev.to/amrtcrypto/how-to-create-a-saas-product-that-people-will-actually-want-to-use-6dm)
-- [Dev.to/JS] [DPS909 Blog :Fourth contirbution in HACKTOBERFEST](https://dev.to/anshul137/dps909-blog-fourth-contirbution-in-hacktoberfest-343k)
-- [Dev.to/JS] [Developer Roadmap](https://dev.to/aditya8raj/developer-roadmap-2383)
 - [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
 - [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
 - [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
 - [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
 - [Lifehacker] [What&#39;s New on HBO Max in November 2022](https://lifehacker.com/whats-new-on-hbo-max-in-november-2022-1849695235)
-- [Lifehacker] [Should You Work From Home or Take a Real Sick Day?](https://lifehacker.com/should-you-work-from-home-or-take-a-real-sick-day-1849695187)
-- [Lifehacker] [What a Professional Housecleaner Will Clean &lpar;and What They Won&#39;t&rpar;](https://lifehacker.com/what-a-professional-housecleaner-will-clean-and-what-t-1849694908)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Should You Work From Home or Take a Real Sick Day?](https://lifehacker.com/should-you-work-from-home-or-take-a-real-sick-day-1849695187)<!-- TECH-POSTS:END -->
 
 ---
 
