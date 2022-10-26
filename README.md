@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The conditional &lpar;ternary&rpar; operator in JS is simpler than it seems](https://dev.to/schemetastic/the-conditional-ternary-operator-in-js-is-simpler-than-it-seems-3lk6)
 - [Dev.to/JS] [Best Implementation of setState in ReactJs](https://dev.to/catur/best-implementation-of-setstate-in-reactjs-159k)
 - [Dev.to/JS] [Data Visualization In Vue With Chart.Js](https://dev.to/asayerio_techblog/data-visualization-in-vue-with-chartjs-5113)
 - [Dev.to/JS] [What is the best natural Creme of breast enhancement](https://dev.to/affilia42236527/what-is-the-best-natural-creme-of-breast-enhancement-348o)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Ferrero Rocher Chocolates Into Spooky Halloween Candy](https://lifehacker.com/turn-ferrero-rocher-chocolates-into-spooky-halloween-ca-1849700030)
 - [Lifehacker] [What&#39;s New on Prime Video in November 2022](https://lifehacker.com/whats-new-on-prime-video-in-november-2022-1849700180)
 - [Lifehacker] [How to DIY Fake Molding on a Budget](https://lifehacker.com/how-to-diy-fake-molding-on-a-budget-1849697735)
-- [Dev.to/JS] [The importance of Clean Code](https://dev.to/ftwcougar/the-importance-of-clean-code-5487)
 - [Lifehacker] [Don’t Eat This Recalled Bob Evans Sausage That Might Contain Blue Rubber](https://lifehacker.com/don-t-eat-this-recalled-bob-evans-sausage-that-might-co-1849699372)
 - [Lifehacker] [The Easiest Way to Meditate to Sleep](https://lifehacker.com/the-easiest-way-to-meditate-to-sleep-1849699307)
 - [Lifehacker] [You Can Make Your Phone Calls Sound Clearer on Pixel](https://lifehacker.com/you-can-make-your-phone-calls-sound-clearer-on-pixel-1849699221)
