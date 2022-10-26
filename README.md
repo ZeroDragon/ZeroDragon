@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)
+- [Dev.to/JS] [Almost Hacktover](https://dev.to/sfrunza13/almost-hacktover-34ek)
+- [Dev.to/JS] [Reusable dynamic modal on Vue 3](https://dev.to/cloudx/reusable-dynamic-modal-on-vue-3-1k56)
+- [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)
+- [Dev.to/JS] [Primitive Data Types - JavaScript Core Concepts](https://dev.to/angelinewang/primitive-data-types-javascript-core-concepts-15fn)
+- [Dev.to/JS] [Complex Data Types - JavaScript Core Concepts](https://dev.to/angelinewang/complex-data-types-javascript-core-concepts-1f29)
 - [Dev.to/JS] [Hoisting - JavaScript Core Concepts](https://dev.to/angelinewang/hoisting-javascript-core-concepts-c1f)
+- [Lifehacker] [How to Block Apple’s Own Ads on Your iPhone](https://lifehacker.com/how-to-block-apple-s-own-ads-on-your-iphone-1849703889)
 - [Dev.to/JS] [Scope - JavaScript Core Concepts](https://dev.to/angelinewang/scope-javascript-core-concepts-456o)
 - [Dev.to/JS] [Spoilt for choice, Javascript and all its options?](https://dev.to/britzdylan/spoilt-for-choice-javascript-and-all-its-options-154m)
 - [Dev.to/JS] [Remove multiple item from an array using array in JavaScript.](https://dev.to/khalid7487/remove-multiple-item-from-an-array-using-array-in-javascript-4db4)
@@ -32,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue vs. Angular: Which is better for front-end development? &lpar;2022&rpar;](https://dev.to/hr21don/vue-vs-angular-which-is-better-for-front-end-development-2022-307)
 - [Dev.to/JS] [JS Polyfills - Part 3 &lpar;Map, Filter, Reduce&rpar;](https://dev.to/uttarasriya/js-polyfills-part-3-map-filter-reduce-418d)
 - [Lifehacker] [These Recalled Pine-Sol Disinfectants Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)
-- [Dev.to/JS] [Deja de usar &quot;&amp;&amp;&quot; para el Conditional Rendering en React](https://dev.to/khriztianmoreno/deja-de-usar-para-el-conditional-rendering-en-react-5b5j)
-- [Dev.to/JS] [Landing page inside your app?](https://dev.to/guillaumeduhan/landing-page-inside-your-app-4h2p)
 - [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
-- [Dev.to/JS] [Machine Learning](https://dev.to/kibetamos/machine-learning-269j)
-- [Dev.to/JS] [Hi ! Help me with react](https://dev.to/pruthvirajchauhan/hi-help-me-with-react-14g2)
 - [Lifehacker] [You Can Get a Rolex for ‘Cheap’ Right Now](https://lifehacker.com/you-can-get-a-rolex-for-cheap-right-now-1849701945)
 - [Lifehacker] [Never Keep These Things In a Storage Unit](https://lifehacker.com/never-keep-these-things-in-a-storage-unit-1849702689)
 - [Lifehacker] [Use &#39;Lock Launcher&#39; to Open Apps From Your iPhone Lock Screen](https://lifehacker.com/use-lock-launcher-to-open-apps-from-your-iphone-lock-sc-1849703317)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Meditate to Sleep](https://lifehacker.com/the-easiest-way-to-meditate-to-sleep-1849699307)
 - [Lifehacker] [You Can Make Your Phone Calls Sound Clearer on Pixel](https://lifehacker.com/you-can-make-your-phone-calls-sound-clearer-on-pixel-1849699221)
 - [Lifehacker] [Close Your Eyes to Apply Eyedrops](https://lifehacker.com/close-your-eyes-to-apply-eyedrops-1849699060)
-- [Lifehacker] [Use Microsoft PC Manager to Clean Up &lpar;and Speed Up&rpar; a Slow Computer](https://lifehacker.com/use-microsoft-pc-manager-to-clean-up-and-speed-up-a-s-1849698797)
-- [Lifehacker] [17 of the Best Horror Games in Every Genre](https://lifehacker.com/17-of-the-best-horror-games-in-every-genre-1849697216)
-- [Lifehacker] [Three Easy Ways to Make Your Own Fake Blood for Halloween](https://lifehacker.com/three-easy-ways-to-make-your-own-fake-blood-for-hallowe-1849697636)
-- [Lifehacker] [You Can Marcona Your Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Microsoft PC Manager to Clean Up &lpar;and Speed Up&rpar; a Slow Computer](https://lifehacker.com/use-microsoft-pc-manager-to-clean-up-and-speed-up-a-s-1849698797)<!-- TECH-POSTS:END -->
 
 ---
 
