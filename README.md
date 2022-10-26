@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use &#39;Lock Launcher&#39; to Open Apps From Your iPhone Lock Screen](https://lifehacker.com/use-lock-launcher-to-open-apps-from-your-iphone-lock-sc-1849703317)
+- [Dev.to/JS] [Functions - JavaScript Core Concepts](https://dev.to/angelinewang/functions-javascript-core-concepts-l1p)
+- [Dev.to/JS] [Refactoring Tools: Early Return for Flatter Conditions](https://dev.to/bespoyasov/refactoring-tools-early-return-for-flatter-conditions-d1p)
+- [Lifehacker] [The U.S. States With the Highest &lpar;and Lowest&rpar; Property Tax Rates](https://lifehacker.com/the-u-s-states-with-the-highest-and-lowest-property-1849702438)
+- [Dev.to/JS] [Effective Way To Write Maintainable React Component](https://dev.to/rajajaganathan/effective-way-to-write-maintainable-react-component-992)
+- [Dev.to/JS] [Entendendo Callbacks no JavaScript](https://dev.to/alanfabricio/entendendo-callbacks-no-javascript-28e0)
 - [Lifehacker] [Scramble Your Eggs in Spicy Salsa Macha](https://lifehacker.com/scramble-your-eggs-in-spicy-salsa-macha-1849701391)
 - [Dev.to/JS] [Is your package.json safe?](https://dev.to/mishgun/is-your-packagejson-safe-20c1)
 - [Lifehacker] [12 World Leaders With Even Shorter Reigns Than Liz Truss](https://lifehacker.com/12-world-leaders-with-even-shorter-reigns-than-liz-trus-1849702739)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Personalize your static site based on a previous site referral](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
 - [Dev.to/JS] [How to Add Form Validation in React ?How to Save CheckBox,Radio Button,Input Field&lpar; Text&amp;Date Type&rpar;,drop-down Value in React?](https://dev.to/radhe65gupta/how-to-add-form-oam)
 - [Dev.to/JS] [RxJS Schedulers](https://dev.to/this-is-learning/rxjs-schedulers-2fhl)
-- [Dev.to/JS] [Building a Login System using Redux](https://dev.to/danielonugha0/building-a-login-system-using-redux-5ce3)
-- [Dev.to/JS] [Meteor and React Native - Create a native mobile app](https://dev.to/jankapunkt/meteor-and-react-native-create-a-native-mobile-app-2ile)
-- [Dev.to/JS] [02.16 React State - User List in one component &lpar;functional components&rpar;](https://dev.to/adriangheo/0216-react-state-user-list-in-one-component-functional-components-9p3)
-- [Dev.to/JS] [02.15 React State - User List in one component &lpar;class components&rpar;](https://dev.to/adriangheo/0215-react-state-user-list-in-one-component-class-components-25oc)
 - [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
 - [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
 - [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Delete These Ad-Trolling Apps From Your Android Right Now](https://lifehacker.com/delete-these-ad-trolling-apps-from-your-android-right-n-1849696291)
 - [Lifehacker] [10 Ways to Make a &#39;Special Salad Dressing,&#39; According to Lifehacker Readers](https://lifehacker.com/10-ways-to-make-a-special-salad-dressing-according-to-1849695217)
 - [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)
-- [Lifehacker] [Here’s How to Stop Succumbing to Financial Peer Pressure](https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842)
-- [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
-- [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s How to Stop Succumbing to Financial Peer Pressure](https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842)<!-- TECH-POSTS:END -->
 
 ---
 
