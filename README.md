@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Classes - JavaScript Core Concepts](https://dev.to/angelinewang/classes-javascript-core-concepts-1gd9)
+- [Dev.to/JS] [Templates reativos “automagicamente”](https://dev.to/diogoneves07/templates-reativos-automagicamente-35ij)
+- [Lifehacker] [Never Keep These Things In a Storage Unit](https://lifehacker.com/never-keep-these-things-in-a-storage-unit-1849702689)
+- [Dev.to/JS] [How Can I Learn React Redux?](https://dev.to/bariskarapelit/how-can-i-learn-react-redux-4868)
+- [Dev.to/JS] [Organize API requests for React in 3 minutes](https://dev.to/quocbahuynh/organize-api-requests-for-react-in-3-minutes-ipe)
+- [Dev.to/JS] [Having Fun... part 2](https://dev.to/setlock10/having-fun-part-2-bd7)
 - [Lifehacker] [Use &#39;Lock Launcher&#39; to Open Apps From Your iPhone Lock Screen](https://lifehacker.com/use-lock-launcher-to-open-apps-from-your-iphone-lock-sc-1849703317)
 - [Dev.to/JS] [Functions - JavaScript Core Concepts](https://dev.to/angelinewang/functions-javascript-core-concepts-l1p)
 - [Dev.to/JS] [Refactoring Tools: Early Return for Flatter Conditions](https://dev.to/bespoyasov/refactoring-tools-early-return-for-flatter-conditions-d1p)
@@ -36,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zero to SaaS - The Formula](https://dev.to/brandonkylebailey/zero-to-saas-the-formula-48id)
 - [Lifehacker] [Fry Your Sad, Stale Doughnuts in Salted Butter](https://lifehacker.com/fry-your-sad-stale-doughnuts-in-salted-butter-1849701197)
 - [Dev.to/JS] [Kickoff and Get Started with the 30 Days of Microsoft Graph Challenge: Tuesday Nov 1st, 3pm UTC](https://dev.to/azure/kickoff-and-get-started-with-the-30-days-of-microsoft-graph-challenge-tuesday-nov-1st-3pm-utc-fo3)
-- [Dev.to/JS] [Microfrontend: Registro dinâmico de componentes &lpar;module federation&rpar;](https://dev.to/alisonjr/microfrontend-registro-dinamico-de-componentes-module-federation-3ga8)
-- [Dev.to/JS] [HTTP VS HTTP – WHICH IS BETTER?](https://dev.to/khansa/http-vs-http-which-is-better-49of)
-- [Dev.to/JS] [Personalize your static site based on a previous site referral](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
-- [Dev.to/JS] [How to Add Form Validation in React ?How to Save CheckBox,Radio Button,Input Field&lpar; Text&amp;Date Type&rpar;,drop-down Value in React?](https://dev.to/radhe65gupta/how-to-add-form-oam)
-- [Dev.to/JS] [RxJS Schedulers](https://dev.to/this-is-learning/rxjs-schedulers-2fhl)
 - [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
 - [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
 - [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Marcona Your Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
 - [Lifehacker] [Delete These Ad-Trolling Apps From Your Android Right Now](https://lifehacker.com/delete-these-ad-trolling-apps-from-your-android-right-n-1849696291)
 - [Lifehacker] [10 Ways to Make a &#39;Special Salad Dressing,&#39; According to Lifehacker Readers](https://lifehacker.com/10-ways-to-make-a-special-salad-dressing-according-to-1849695217)
-- [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)
-- [Lifehacker] [Here’s How to Stop Succumbing to Financial Peer Pressure](https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)<!-- TECH-POSTS:END -->
 
 ---
 
