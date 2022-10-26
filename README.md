@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)
+- [Dev.to/JS] [What is Babel? The Popular JavaScript Compiler](https://dev.to/teejaydixon/what-is-babel-the-popular-javascript-compiler-58g9)
+- [Lifehacker] [Rain Doesn&#39;t Have to Make Trick-or-Treating Miserable](https://lifehacker.com/rain-doesnt-have-to-make-trick-or-treating-miserable-1849705299)
+- [Dev.to/JS] [Will Web Components Replace Frontend Frameworks?](https://dev.to/mariusbongarts/will-web-components-replace-frontend-frameworks-4509)
 - [Lifehacker] [‘Quantum Leap’ Star Ernie Hudson On Making a Family Show](https://lifehacker.com/quantum-leap-star-ernie-hudson-on-making-a-family-sho-1849705983)
 - [Lifehacker] [Change These Microsoft Edge Settings to Make It an Even Better Browser](https://lifehacker.com/change-these-microsoft-edge-settings-to-make-it-an-even-1849705168)
 - [Dev.to/JS] [Three Books To Evolve Into A Superior Programmer](https://dev.to/cleveroscar/three-books-to-evolve-into-a-superior-programmer-25id)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hoisting - JavaScript Core Concepts](https://dev.to/angelinewang/hoisting-javascript-core-concepts-c1f)
 - [Lifehacker] [How to Block Apple’s Own Ads on Your iPhone](https://lifehacker.com/how-to-block-apple-s-own-ads-on-your-iphone-1849703889)
 - [Dev.to/JS] [Scope - JavaScript Core Concepts](https://dev.to/angelinewang/scope-javascript-core-concepts-456o)
-- [Dev.to/JS] [Spoilt for choice, Javascript and all its options?](https://dev.to/britzdylan/spoilt-for-choice-javascript-and-all-its-options-154m)
-- [Dev.to/JS] [Remove multiple item from an array using array in JavaScript.](https://dev.to/khalid7487/remove-multiple-item-from-an-array-using-array-in-javascript-4db4)
 - [Lifehacker] [These Recalled Pine-Sol Disinfectants Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)
 - [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
 - [Lifehacker] [You Can Get a Rolex for ‘Cheap’ Right Now](https://lifehacker.com/you-can-get-a-rolex-for-cheap-right-now-1849701945)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Hard Taco Shells Are Too Cold](https://lifehacker.com/your-hard-taco-shells-are-too-cold-1849700040)
 - [Lifehacker] [Don&#39;t Forget Obamacare&#39;s Open Enrollment Deadline](https://lifehacker.com/dont-forget-obamacares-open-enrollment-deadline-1849698802)
 - [Lifehacker] [Turn Ferrero Rocher Chocolates Into Spooky Halloween Candy](https://lifehacker.com/turn-ferrero-rocher-chocolates-into-spooky-halloween-ca-1849700030)
-- [Lifehacker] [What&#39;s New on Prime Video in November 2022](https://lifehacker.com/whats-new-on-prime-video-in-november-2022-1849700180)
-- [Lifehacker] [How to DIY Fake Molding on a Budget](https://lifehacker.com/how-to-diy-fake-molding-on-a-budget-1849697735)
-- [Lifehacker] [Don’t Eat This Recalled Bob Evans Sausage That Might Contain Blue Rubber](https://lifehacker.com/don-t-eat-this-recalled-bob-evans-sausage-that-might-co-1849699372)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Prime Video in November 2022](https://lifehacker.com/whats-new-on-prime-video-in-november-2022-1849700180)<!-- TECH-POSTS:END -->
 
 ---
 
