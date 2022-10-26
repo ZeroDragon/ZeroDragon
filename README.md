@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting in javascript](https://dev.to/pappijx/hoisting-in-javascript-3joe)
+- [Dev.to/JS] [Generate Cryptographically-secured password using 12 words mnemonic phrase without storing your password anywhere](https://dev.to/athulr32/generate-cryptographically-secured-password-using-12-words-mnemonic-phrase-without-storing-your-password-anywhere-l6g)
+- [Dev.to/JS] [What is react ?](https://dev.to/aminebeji/what-is-react--3jgn)
+- [Lifehacker] [Get &#39;Fallout 3&#39; for Free While You Can](https://lifehacker.com/get-fallout-3-for-free-while-you-can-1849705583)
 - [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)
 - [Dev.to/JS] [Almost Hacktover](https://dev.to/sfrunza13/almost-hacktover-34ek)
 - [Dev.to/JS] [Reusable dynamic modal on Vue 3](https://dev.to/cloudx/reusable-dynamic-modal-on-vue-3-1k56)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Spoilt for choice, Javascript and all its options?](https://dev.to/britzdylan/spoilt-for-choice-javascript-and-all-its-options-154m)
 - [Dev.to/JS] [Remove multiple item from an array using array in JavaScript.](https://dev.to/khalid7487/remove-multiple-item-from-an-array-using-array-in-javascript-4db4)
 - [Dev.to/JS] [Callback Functions - JavaScript Core Concepts](https://dev.to/angelinewang/callback-functions-javascript-core-concepts-952)
-- [Dev.to/JS] [Methods - JavaScript Core Concepts](https://dev.to/angelinewang/methods-javascript-core-concepts-146)
-- [Dev.to/JS] [Vue vs. Angular: Which is better for front-end development? &lpar;2022&rpar;](https://dev.to/hr21don/vue-vs-angular-which-is-better-for-front-end-development-2022-307)
-- [Dev.to/JS] [JS Polyfills - Part 3 &lpar;Map, Filter, Reduce&rpar;](https://dev.to/uttarasriya/js-polyfills-part-3-map-filter-reduce-418d)
 - [Lifehacker] [These Recalled Pine-Sol Disinfectants Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)
 - [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
 - [Lifehacker] [You Can Get a Rolex for ‘Cheap’ Right Now](https://lifehacker.com/you-can-get-a-rolex-for-cheap-right-now-1849701945)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Eat This Recalled Bob Evans Sausage That Might Contain Blue Rubber](https://lifehacker.com/don-t-eat-this-recalled-bob-evans-sausage-that-might-co-1849699372)
 - [Lifehacker] [The Easiest Way to Meditate to Sleep](https://lifehacker.com/the-easiest-way-to-meditate-to-sleep-1849699307)
 - [Lifehacker] [You Can Make Your Phone Calls Sound Clearer on Pixel](https://lifehacker.com/you-can-make-your-phone-calls-sound-clearer-on-pixel-1849699221)
-- [Lifehacker] [Close Your Eyes to Apply Eyedrops](https://lifehacker.com/close-your-eyes-to-apply-eyedrops-1849699060)
-- [Lifehacker] [Use Microsoft PC Manager to Clean Up &lpar;and Speed Up&rpar; a Slow Computer](https://lifehacker.com/use-microsoft-pc-manager-to-clean-up-and-speed-up-a-s-1849698797)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Close Your Eyes to Apply Eyedrops](https://lifehacker.com/close-your-eyes-to-apply-eyedrops-1849699060)<!-- TECH-POSTS:END -->
 
 ---
 
