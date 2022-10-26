@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Login System using Redux](https://dev.to/danielonugha0/building-a-login-system-using-redux-5ce3)
+- [Dev.to/JS] [Meteor and React Native - Create a native mobile app](https://dev.to/jankapunkt/meteor-and-react-native-create-a-native-mobile-app-2ile)
 - [Dev.to/JS] [02.16 React State - User List in one component &lpar;functional components&rpar;](https://dev.to/adriangheo/0216-react-state-user-list-in-one-component-functional-components-9p3)
 - [Dev.to/JS] [02.15 React State - User List in one component &lpar;class components&rpar;](https://dev.to/adriangheo/0215-react-state-user-list-in-one-component-class-components-25oc)
 - [Dev.to/JS] [Building an AWS Serverless Web Application](https://dev.to/jawadhasan/building-an-aws-serverless-web-application-a9j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Difference between ? and ?? in JavaScript/Typescript](https://dev.to/saimwebhr/difference-between-and-in-javascripttypescript-f4d)
 - [Dev.to/JS] [Buy Maximum Items with Given Sum](https://dev.to/zeeshanali0704/buy-maximum-items-with-given-sum-17d7)
 - [Dev.to/JS] [The conditional &lpar;ternary&rpar; operator in JS is simpler than it seems](https://dev.to/schemetastic/the-conditional-ternary-operator-in-js-is-simpler-than-it-seems-3lk6)
-- [Dev.to/JS] [Best Implementation of setState in ReactJs](https://dev.to/catur/best-implementation-of-setstate-in-reactjs-159k)
-- [Dev.to/JS] [Data Visualization In Vue With Chart.Js](https://dev.to/asayerio_techblog/data-visualization-in-vue-with-chartjs-5113)
 - [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
 - [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
 - [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)
