@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a SaaS Product That People Will Actually Want to Use](https://dev.to/amrtcrypto/how-to-create-a-saas-product-that-people-will-actually-want-to-use-6dm)
+- [Dev.to/JS] [DPS909 Blog :Fourth contirbution in HACKTOBERFEST](https://dev.to/anshul137/dps909-blog-fourth-contirbution-in-hacktoberfest-343k)
+- [Dev.to/JS] [Developer Roadmap](https://dev.to/aditya8raj/developer-roadmap-2383)
 - [Dev.to/JS] [Let us learn about UmiJS](https://dev.to/nitinreddy3/let-us-learn-about-umijs-468n)
 - [Dev.to/JS] [Difference between ? and ?? in JavaScript/Typescript](https://dev.to/saimwebhr/difference-between-and-in-javascripttypescript-f4d)
 - [Dev.to/JS] [Buy Maximum Items with Given Sum](https://dev.to/zeeshanali0704/buy-maximum-items-with-given-sum-17d7)
@@ -32,14 +35,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the best natural Creme of breast enhancement](https://dev.to/affilia42236527/what-is-the-best-natural-creme-of-breast-enhancement-348o)
 - [Dev.to/JS] [How the DomTokenList API works](https://dev.to/lensco825/how-the-domtokenlist-api-works-3lef)
 - [Dev.to/JS] [How to update state React Native](https://dev.to/thomasosho/how-to-update-state-react-native-3aih)
-- [Dev.to/JS] [Credit card chips and encryption in plain JavaScript](https://dev.to/isaacdlyman/credit-card-chips-and-encryption-in-plain-javascript-42p5)
 - [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
 - [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
 - [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)
-- [Dev.to/JS] [React Native App Performance](https://dev.to/ajmal_hasan/react-native-app-performance-2742)
 - [Lifehacker] [YouTube Is Rolling Out New Features](https://lifehacker.com/youtube-is-rolling-out-new-features-1849700255)
 - [Lifehacker] [Add Creepy Smoke to Your Jack-o&#39;-Lantern With Dry Ice](https://lifehacker.com/add-creepy-smoke-to-your-jack-o-lantern-with-dry-ice-1849700869)
-- [Dev.to/JS] [Mocking Concepts - What is Mocking](https://dev.to/lucaspaganini/mocking-concepts-what-is-mocking-5enc)
 - [Lifehacker] [Your Hard Taco Shells Are Too Cold](https://lifehacker.com/your-hard-taco-shells-are-too-cold-1849700040)
 - [Lifehacker] [Don&#39;t Forget Obamacare&#39;s Open Enrollment Deadline](https://lifehacker.com/dont-forget-obamacares-open-enrollment-deadline-1849698802)
 - [Lifehacker] [Turn Ferrero Rocher Chocolates Into Spooky Halloween Candy](https://lifehacker.com/turn-ferrero-rocher-chocolates-into-spooky-halloween-ca-1849700030)
