@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let us learn about UmiJS](https://dev.to/nitinreddy3/let-us-learn-about-umijs-468n)
+- [Dev.to/JS] [Difference between ? and ?? in JavaScript/Typescript](https://dev.to/saimwebhr/difference-between-and-in-javascripttypescript-f4d)
 - [Dev.to/JS] [Buy Maximum Items with Given Sum](https://dev.to/zeeshanali0704/buy-maximum-items-with-given-sum-17d7)
 - [Dev.to/JS] [The conditional &lpar;ternary&rpar; operator in JS is simpler than it seems](https://dev.to/schemetastic/the-conditional-ternary-operator-in-js-is-simpler-than-it-seems-3lk6)
 - [Dev.to/JS] [Best Implementation of setState in ReactJs](https://dev.to/catur/best-implementation-of-setstate-in-reactjs-159k)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [YouTube Is Rolling Out New Features](https://lifehacker.com/youtube-is-rolling-out-new-features-1849700255)
 - [Lifehacker] [Add Creepy Smoke to Your Jack-o&#39;-Lantern With Dry Ice](https://lifehacker.com/add-creepy-smoke-to-your-jack-o-lantern-with-dry-ice-1849700869)
 - [Dev.to/JS] [Mocking Concepts - What is Mocking](https://dev.to/lucaspaganini/mocking-concepts-what-is-mocking-5enc)
-- [Dev.to/JS] [How To Implement A Password Reset Feature In Your NodeJS Application](https://dev.to/ugorji_simon/how-to-implement-a-password-reset-feature-in-your-nodejs-application-4hc8)
 - [Lifehacker] [Your Hard Taco Shells Are Too Cold](https://lifehacker.com/your-hard-taco-shells-are-too-cold-1849700040)
-- [Dev.to/JS] [StairCase | HackerRank Solution in JavaScript](https://dev.to/johnchristotle/staircase-hackerrank-solution-in-javascript-4mm1)
 - [Lifehacker] [Don&#39;t Forget Obamacare&#39;s Open Enrollment Deadline](https://lifehacker.com/dont-forget-obamacares-open-enrollment-deadline-1849698802)
 - [Lifehacker] [Turn Ferrero Rocher Chocolates Into Spooky Halloween Candy](https://lifehacker.com/turn-ferrero-rocher-chocolates-into-spooky-halloween-ca-1849700030)
 - [Lifehacker] [What&#39;s New on Prime Video in November 2022](https://lifehacker.com/whats-new-on-prime-video-in-november-2022-1849700180)
