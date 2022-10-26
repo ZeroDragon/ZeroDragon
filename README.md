@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [‘Quantum Leap’ Star Ernie Hudson On Making a Family Show](https://lifehacker.com/quantum-leap-star-ernie-hudson-on-making-a-family-sho-1849705983)
+- [Lifehacker] [Change These Microsoft Edge Settings to Make It an Even Better Browser](https://lifehacker.com/change-these-microsoft-edge-settings-to-make-it-an-even-1849705168)
+- [Dev.to/JS] [Three Books To Evolve Into A Superior Programmer](https://dev.to/cleveroscar/three-books-to-evolve-into-a-superior-programmer-25id)
+- [Lifehacker] [14 of the Worst Human Parasites That Exist &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/14-of-the-worst-human-parasites-that-exist-and-how-to-1849700930)
 - [Dev.to/JS] [Hoisting in javascript](https://dev.to/pappijx/hoisting-in-javascript-3joe)
 - [Dev.to/JS] [Generate Cryptographically-secured password using 12 words mnemonic phrase without storing your password anywhere](https://dev.to/athulr32/generate-cryptographically-secured-password-using-12-words-mnemonic-phrase-without-storing-your-password-anywhere-l6g)
 - [Dev.to/JS] [What is react ?](https://dev.to/aminebeji/what-is-react--3jgn)
@@ -38,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scope - JavaScript Core Concepts](https://dev.to/angelinewang/scope-javascript-core-concepts-456o)
 - [Dev.to/JS] [Spoilt for choice, Javascript and all its options?](https://dev.to/britzdylan/spoilt-for-choice-javascript-and-all-its-options-154m)
 - [Dev.to/JS] [Remove multiple item from an array using array in JavaScript.](https://dev.to/khalid7487/remove-multiple-item-from-an-array-using-array-in-javascript-4db4)
-- [Dev.to/JS] [Callback Functions - JavaScript Core Concepts](https://dev.to/angelinewang/callback-functions-javascript-core-concepts-952)
 - [Lifehacker] [These Recalled Pine-Sol Disinfectants Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)
 - [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
 - [Lifehacker] [You Can Get a Rolex for ‘Cheap’ Right Now](https://lifehacker.com/you-can-get-a-rolex-for-cheap-right-now-1849701945)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Ferrero Rocher Chocolates Into Spooky Halloween Candy](https://lifehacker.com/turn-ferrero-rocher-chocolates-into-spooky-halloween-ca-1849700030)
 - [Lifehacker] [What&#39;s New on Prime Video in November 2022](https://lifehacker.com/whats-new-on-prime-video-in-november-2022-1849700180)
 - [Lifehacker] [How to DIY Fake Molding on a Budget](https://lifehacker.com/how-to-diy-fake-molding-on-a-budget-1849697735)
-- [Lifehacker] [Don’t Eat This Recalled Bob Evans Sausage That Might Contain Blue Rubber](https://lifehacker.com/don-t-eat-this-recalled-bob-evans-sausage-that-might-co-1849699372)
-- [Lifehacker] [The Easiest Way to Meditate to Sleep](https://lifehacker.com/the-easiest-way-to-meditate-to-sleep-1849699307)
-- [Lifehacker] [You Can Make Your Phone Calls Sound Clearer on Pixel](https://lifehacker.com/you-can-make-your-phone-calls-sound-clearer-on-pixel-1849699221)
-- [Lifehacker] [Close Your Eyes to Apply Eyedrops](https://lifehacker.com/close-your-eyes-to-apply-eyedrops-1849699060)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Eat This Recalled Bob Evans Sausage That Might Contain Blue Rubber](https://lifehacker.com/don-t-eat-this-recalled-bob-evans-sausage-that-might-co-1849699372)<!-- TECH-POSTS:END -->
 
 ---
 
