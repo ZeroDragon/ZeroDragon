@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [02.16 React State - User List in one component &lpar;functional components&rpar;](https://dev.to/adriangheo/0216-react-state-user-list-in-one-component-functional-components-9p3)
+- [Dev.to/JS] [02.15 React State - User List in one component &lpar;class components&rpar;](https://dev.to/adriangheo/0215-react-state-user-list-in-one-component-class-components-25oc)
+- [Dev.to/JS] [Building an AWS Serverless Web Application](https://dev.to/jawadhasan/building-an-aws-serverless-web-application-a9j)
 - [Dev.to/JS] [How to Create a SaaS Product That People Will Actually Want to Use](https://dev.to/amrtcrypto/how-to-create-a-saas-product-that-people-will-actually-want-to-use-6dm)
 - [Dev.to/JS] [DPS909 Blog :Fourth contirbution in HACKTOBERFEST](https://dev.to/anshul137/dps909-blog-fourth-contirbution-in-hacktoberfest-343k)
 - [Dev.to/JS] [Developer Roadmap](https://dev.to/aditya8raj/developer-roadmap-2383)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The conditional &lpar;ternary&rpar; operator in JS is simpler than it seems](https://dev.to/schemetastic/the-conditional-ternary-operator-in-js-is-simpler-than-it-seems-3lk6)
 - [Dev.to/JS] [Best Implementation of setState in ReactJs](https://dev.to/catur/best-implementation-of-setstate-in-reactjs-159k)
 - [Dev.to/JS] [Data Visualization In Vue With Chart.Js](https://dev.to/asayerio_techblog/data-visualization-in-vue-with-chartjs-5113)
-- [Dev.to/JS] [What is the best natural Creme of breast enhancement](https://dev.to/affilia42236527/what-is-the-best-natural-creme-of-breast-enhancement-348o)
-- [Dev.to/JS] [How the DomTokenList API works](https://dev.to/lensco825/how-the-domtokenlist-api-works-3lef)
-- [Dev.to/JS] [How to update state React Native](https://dev.to/thomasosho/how-to-update-state-react-native-3aih)
 - [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
 - [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
 - [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)
