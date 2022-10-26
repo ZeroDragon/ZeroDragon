@@ -23,10 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Scramble Your Eggs in Spicy Salsa Macha](https://lifehacker.com/scramble-your-eggs-in-spicy-salsa-macha-1849701391)
+- [Dev.to/JS] [Is your package.json safe?](https://dev.to/mishgun/is-your-packagejson-safe-20c1)
+- [Lifehacker] [12 World Leaders With Even Shorter Reigns Than Liz Truss](https://lifehacker.com/12-world-leaders-with-even-shorter-reigns-than-liz-trus-1849702739)
+- [Lifehacker] [Turn Your Jack-o&#39;-Lantern Guts Into Pumpkin Bread](https://lifehacker.com/turn-your-jack-o-lantern-guts-into-pumpkin-bread-1849700448)
 - [Dev.to/JS] [Zero to SaaS - The Formula](https://dev.to/brandonkylebailey/zero-to-saas-the-formula-48id)
 - [Lifehacker] [Fry Your Sad, Stale Doughnuts in Salted Butter](https://lifehacker.com/fry-your-sad-stale-doughnuts-in-salted-butter-1849701197)
 - [Dev.to/JS] [Kickoff and Get Started with the 30 Days of Microsoft Graph Challenge: Tuesday Nov 1st, 3pm UTC](https://dev.to/azure/kickoff-and-get-started-with-the-30-days-of-microsoft-graph-challenge-tuesday-nov-1st-3pm-utc-fo3)
-- [Dev.to/JS] [What is PRINCE2?](https://dev.to/postwell45/what-is-prince2-357n)
 - [Dev.to/JS] [Microfrontend: Registro dinâmico de componentes &lpar;module federation&rpar;](https://dev.to/alisonjr/microfrontend-registro-dinamico-de-componentes-module-federation-3ga8)
 - [Dev.to/JS] [HTTP VS HTTP – WHICH IS BETTER?](https://dev.to/khansa/http-vs-http-which-is-better-49of)
 - [Dev.to/JS] [Personalize your static site based on a previous site referral](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be &#39;Textually Compatible&#39; With Your Partner](https://lifehacker.com/you-should-be-textually-compatible-with-your-partner-1849696529)
 - [Lifehacker] [Here’s How to Stop Succumbing to Financial Peer Pressure](https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842)
 - [Lifehacker] [Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
-- [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)
-- [Lifehacker] [A Bunch of Exclusive New iPadOS Features Just Dropped](https://lifehacker.com/a-bunch-of-exclusive-new-ipados-features-just-dropped-1849694753)
-- [Lifehacker] [What&#39;s New on HBO Max in November 2022](https://lifehacker.com/whats-new-on-hbo-max-in-november-2022-1849695235)
-- [Lifehacker] [Should You Work From Home or Take a Real Sick Day?](https://lifehacker.com/should-you-work-from-home-or-take-a-real-sick-day-1849695187)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Pairings of Halloween Candy and Booze](https://lifehacker.com/these-are-the-best-pairings-of-halloween-candy-and-booz-1849694335)<!-- TECH-POSTS:END -->
 
 ---
 
