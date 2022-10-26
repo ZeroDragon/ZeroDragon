@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTTP VS HTTP – WHICH IS BETTER?](https://dev.to/khansa/http-vs-http-which-is-better-49of)
+- [Dev.to/JS] [Personalize your static site based on a previous site referral](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
 - [Dev.to/JS] [How to Add Form Validation in React ?How to Save CheckBox,Radio Button,Input Field&lpar; Text&amp;Date Type&rpar;,drop-down Value in React?](https://dev.to/radhe65gupta/how-to-add-form-oam)
 - [Dev.to/JS] [RxJS Schedulers](https://dev.to/this-is-learning/rxjs-schedulers-2fhl)
 - [Dev.to/JS] [Building a Login System using Redux](https://dev.to/danielonugha0/building-a-login-system-using-redux-5ce3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a SaaS Product That People Will Actually Want to Use](https://dev.to/amrtcrypto/how-to-create-a-saas-product-that-people-will-actually-want-to-use-6dm)
 - [Dev.to/JS] [DPS909 Blog :Fourth contirbution in HACKTOBERFEST](https://dev.to/anshul137/dps909-blog-fourth-contirbution-in-hacktoberfest-343k)
 - [Dev.to/JS] [Developer Roadmap](https://dev.to/aditya8raj/developer-roadmap-2383)
-- [Dev.to/JS] [Let us learn about UmiJS](https://dev.to/nitinreddy3/let-us-learn-about-umijs-468n)
-- [Dev.to/JS] [Difference between ? and ?? in JavaScript/Typescript](https://dev.to/saimwebhr/difference-between-and-in-javascripttypescript-f4d)
 - [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
 - [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
 - [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)
