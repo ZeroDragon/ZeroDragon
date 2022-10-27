@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Easy, Free Halloween Decorations With Things You Already Own](https://lifehacker.com/make-easy-free-halloween-decorations-with-things-you-a-1849706591)
+- [Dev.to/JS] [Arrays in Javascript](https://dev.to/sinhasagar01/arrays-in-javascript-26fh)
+- [Dev.to/JS] [DOM Virtual: Qual problema ela resolve?](https://dev.to/marciofrayze/dom-virtual-qual-problema-ela-resolve-1b79)
+- [Lifehacker] [10 of the Worst Theme Park Accidents In History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-worst-theme-park-accidents-in-history-and-wh-1849708098)
+- [Dev.to/JS] [Insane productivity with the CHARM stack](https://dev.to/meteorjs/insane-productivity-with-the-charm-stack-2jp8)
 - [Dev.to/JS] [What Is a Scrum Master ?](https://dev.to/postwell45/what-is-a-scrum-master--2h6m)
 - [Dev.to/JS] [Replicating Expensify.com in Next.Js](https://dev.to/kafui4k/replicating-expensifycom-in-nextjs-5eab)
 - [Lifehacker] [Siri Will Tell Your &#39;Invisible Ink&#39; Secrets](https://lifehacker.com/siri-will-tell-your-invisible-ink-secrets-1849705743)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make a request within a loop](https://dev.to/lubustos/how-to-make-a-request-within-a-loop-585a)
 - [Dev.to/JS] [Dos maneras de hacer una request dentro de un loop](https://dev.to/lubustos/dos-maneras-de-hacer-una-request-dentro-de-un-loop-41k4)
 - [Dev.to/JS] [Re-defining Trading Cards using Dynamic NFTs](https://dev.to/anil_from_revise/re-defining-trading-cards-using-dynamic-nfts-3jg9)
-- [Dev.to/JS] [How to solve a bug on page refresh upon update](https://dev.to/internlm/how-to-solve-a-bug-on-page-refresh-upon-update-3h9o)
-- [Dev.to/JS] [Instagram-like page transitions with Svelte](https://dev.to/grsmto/instagram-like-page-transitions-with-svelte-ohm)
-- [Dev.to/JS] [How to Choose the Best VPS Hosting Provider](https://dev.to/casperlawrence/how-to-choose-the-best-vps-hosting-provider-26gm)
 - [Lifehacker] [This Windows Dev Kit Is the Mac Mini of the PC World](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
 - [Lifehacker] [Five Ways to Speed Up a Slow iCloud Sync](https://lifehacker.com/five-ways-to-speed-up-a-slow-icloud-sync-1849706082)
 - [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 World Leaders With Even Shorter Reigns Than Liz Truss](https://lifehacker.com/12-world-leaders-with-even-shorter-reigns-than-liz-trus-1849702739)
 - [Lifehacker] [Turn Your Jack-o&#39;-Lantern Guts Into Pumpkin Bread](https://lifehacker.com/turn-your-jack-o-lantern-guts-into-pumpkin-bread-1849700448)
 - [Lifehacker] [Fry Your Sad, Stale Doughnuts in Salted Butter](https://lifehacker.com/fry-your-sad-stale-doughnuts-in-salted-butter-1849701197)
-- [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
-- [Lifehacker] [How to Transfer Netflix Profiles Once Free Password Sharing Ends](https://lifehacker.com/how-to-transfer-netflix-profiles-once-free-password-sha-1849701052)
-- [Lifehacker] [Don&#39;t Buy the 2021 Apple TV 4K, Even at a Discount](https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Use These Recalled Heating Pads, FDA Says](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)<!-- TECH-POSTS:END -->
 
 ---
 
