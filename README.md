@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Don&#39;t Have to Ruin Your Clothes for Halloween](https://lifehacker.com/you-dont-have-to-ruin-your-clothes-for-halloween-1849710200)
+- [Dev.to/JS] [Medusa Hackathon Winner Announcement](https://dev.to/medusajs/medusa-hackathon-winner-announcement-41h)
+- [Lifehacker] [Hidden Xbox Settings You Should Change to Up Your Game](https://lifehacker.com/hidden-xbox-settings-you-should-change-to-up-your-game-1849709275)
+- [Dev.to/JS] [#ThisMonthInSWA - October 2022](https://dev.to/azure/thismonthinswa-october-2022-18gn)
+- [Dev.to/JS] [Paracetamol.test.js🧪| #7: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-7-testea-este-codigo-javascript-3h2c)
+- [Lifehacker] [How to Introduce Yourself to a Dog, According to Cesar Millan](https://lifehacker.com/how-to-introduce-yourself-to-a-dog-according-to-cesar-1849709628)
 - [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)
 - [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)
 - [Dev.to/JS] [Using Neo4j in your next Next.js Project](https://dev.to/adamcowley/using-neo4j-in-your-next-nextjs-project-77)
@@ -42,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Is a Scrum Master ?](https://dev.to/postwell45/what-is-a-scrum-master--2h6m)
 - [Dev.to/JS] [Replicating Expensify.com in Next.Js](https://dev.to/kafui4k/replicating-expensifycom-in-nextjs-5eab)
 - [Lifehacker] [Siri Will Tell Your &#39;Invisible Ink&#39; Secrets](https://lifehacker.com/siri-will-tell-your-invisible-ink-secrets-1849705743)
-- [Dev.to/JS] [What are your must have requirements from a UI library?](https://dev.to/ipreda/what-are-your-must-have-requirements-from-a-ui-library-2d00)
 - [Lifehacker] [Yes, Mosquitoes Really Do Like Some People More](https://lifehacker.com/yes-mosquitoes-really-do-like-some-people-more-1849706546)
-- [Dev.to/JS] [How to Make a Vehicle Charging Website Using Html CSS JS](https://dev.to/codewithsadee/how-to-make-a-vehicle-charging-website-using-html-css-js-c0j)
-- [Dev.to/JS] [Best sites to learn programming](https://dev.to/albericojr/best-sites-to-learn-programming-4igl)
 - [Lifehacker] [Hackers and Bad Actors Are Weaponizing Your Typos](https://lifehacker.com/hackers-and-bad-actors-are-weaponizing-your-typos-1849706716)
 - [Lifehacker] [This Windows Dev Kit Is the Mac Mini of the PC World](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
 - [Lifehacker] [Five Ways to Speed Up a Slow iCloud Sync](https://lifehacker.com/five-ways-to-speed-up-a-slow-icloud-sync-1849706082)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)
 - [Lifehacker] [How to Block Apple’s Own Ads on Your iPhone](https://lifehacker.com/how-to-block-apple-s-own-ads-on-your-iphone-1849703889)
 - [Crazy Programmer] [10 Best Computer Science Universities in Germany 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-germany.html)
-- [Lifehacker] [These Recalled Pine-Sol Cleaning Products Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)
-- [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
-- [Lifehacker] [You Can Get a Rolex for ‘Cheap’ Right Now](https://lifehacker.com/you-can-get-a-rolex-for-cheap-right-now-1849701945)
-- [Lifehacker] [Never Keep These Things In a Storage Unit](https://lifehacker.com/never-keep-these-things-in-a-storage-unit-1849702689)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Recalled Pine-Sol Cleaning Products Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)<!-- TECH-POSTS:END -->
 
 ---
 
