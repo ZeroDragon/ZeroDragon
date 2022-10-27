@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)
 - [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)
 - [Dev.to/JS] [Using Neo4j in your next Next.js Project](https://dev.to/adamcowley/using-neo4j-in-your-next-nextjs-project-77)
 - [Lifehacker] [The Fastest Ways to Compress Video on iPhone and Android](https://lifehacker.com/the-fastest-ways-to-compress-video-on-iphone-and-androi-1849523806)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Recalled Pine-Sol Cleaning Products Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)
 - [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
 - [Lifehacker] [You Can Get a Rolex for ‘Cheap’ Right Now](https://lifehacker.com/you-can-get-a-rolex-for-cheap-right-now-1849701945)
-- [Lifehacker] [Never Keep These Things In a Storage Unit](https://lifehacker.com/never-keep-these-things-in-a-storage-unit-1849702689)
-- [Lifehacker] [Use &#39;Lock Launcher&#39; to Open Apps From Your iPhone Lock Screen](https://lifehacker.com/use-lock-launcher-to-open-apps-from-your-iphone-lock-sc-1849703317)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Never Keep These Things In a Storage Unit](https://lifehacker.com/never-keep-these-things-in-a-storage-unit-1849702689)<!-- TECH-POSTS:END -->
 
 ---
 
