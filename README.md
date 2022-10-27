@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Ingredient to Learn Web Development This Year](https://dev.to/probros/top-ingredient-to-learn-web-development-this-year-5d7l)
+- [Dev.to/JS] [How Muay Thai and Powerlifting Made Me a Better Programmer 🥊🏋️‍♀️👩🏻‍💻 – Hacktoberfest Wrap-up!](https://dev.to/saminarp/how-muay-thai-and-powerlifting-made-me-a-better-programmer-hacktoberfest-wrap-up-46g0)
 - [Dev.to/JS] [Top 8 Website Đăng Ký Tên Miền Miễn Phí Vĩnh Viễn Tốt Nhất](https://dev.to/hostingviet90/top-8-website-dang-ky-ten-mien-mien-phi-vinh-vien-tot-nhat-2ck9)
 - [Dev.to/JS] [A Monty Hall Problem simulation](https://dev.to/nquangtrung/a-monty-hall-problem-simulation-np3)
 - [Dev.to/JS] [How to write a great tech article](https://dev.to/amrtcrypto/how-to-write-a-great-tech-article-45h9)
@@ -33,11 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Firebase Authentication for Cloudflare workers](https://dev.to/mmusket/firebase-authentication-for-cloudflare-workers-1476)
 - [Dev.to/JS] [Docusaurus](https://dev.to/lostbutton/docusaurus-179p)
 - [Dev.to/JS] [OSD600 Lab7](https://dev.to/dadolhay/osd600-lab7-2m3j)
-- [Dev.to/JS] [The story behind my first AWS Amplify App](https://dev.to/wlg3r/the-story-behind-my-first-aws-amplify-app-5030)
 - [Lifehacker] [This Windows Dev Kit Is the Mac Mini of the PC World](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
 - [Lifehacker] [Five Ways to Speed Up a Slow iCloud Sync](https://lifehacker.com/five-ways-to-speed-up-a-slow-icloud-sync-1849706082)
 - [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)
-- [Dev.to/JS] [What is Babel? The Popular JavaScript Compiler](https://dev.to/teejaydixon/what-is-babel-the-popular-javascript-compiler-58g9)
 - [Lifehacker] [Rain Doesn&#39;t Have to Make Trick-or-Treating Miserable](https://lifehacker.com/rain-doesnt-have-to-make-trick-or-treating-miserable-1849705299)
 - [Lifehacker] [‘Quantum Leap’ Star Ernie Hudson On Making a Family Show](https://lifehacker.com/quantum-leap-star-ernie-hudson-on-making-a-family-sho-1849705983)
 - [Lifehacker] [Change These Microsoft Edge Settings to Make It an Even Better Browser](https://lifehacker.com/change-these-microsoft-edge-settings-to-make-it-an-even-1849705168)
