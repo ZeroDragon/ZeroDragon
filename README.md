@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
+- [Dev.to/JS] [Top 7 questions I&#39;ve faced during an interview as a Reactjs developer](https://dev.to/elliot_brenyasarfo_18749/top-7-questions-ive-faced-during-an-interview-as-a-reactjs-developer-2inc)
+- [Dev.to/JS] [How to scrape LinkedIn profiles from Google?](https://dev.to/darshan0_1/how-to-scrape-linkedin-profiles-from-google-1b0a)
+- [Dev.to/JS] [Ternary Operator](https://dev.to/mikefazekas/ternary-operator-26fd)
+- [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
+- [Dev.to/JS] [High-code vs. Low-code vs. No-code | Which is right for your web project?](https://dev.to/richkurtzman/high-code-vs-low-code-vs-no-code-which-is-right-for-your-web-project-5d48)
 - [Lifehacker] [You Don&#39;t Have to Ruin Your Clothes for Halloween](https://lifehacker.com/you-dont-have-to-ruin-your-clothes-for-halloween-1849710200)
 - [Dev.to/JS] [Medusa Hackathon Winner Announcement](https://dev.to/medusajs/medusa-hackathon-winner-announcement-41h)
 - [Lifehacker] [Hidden Xbox Settings You Should Change to Up Your Game](https://lifehacker.com/hidden-xbox-settings-you-should-change-to-up-your-game-1849709275)
@@ -43,10 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arrays in Javascript](https://dev.to/sinhasagar01/arrays-in-javascript-26fh)
 - [Dev.to/JS] [DOM Virtual: Qual problema ela resolve?](https://dev.to/marciofrayze/dom-virtual-qual-problema-ela-resolve-1b79)
 - [Lifehacker] [10 of the Worst Theme Park Accidents In History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-worst-theme-park-accidents-in-history-and-wh-1849708098)
-- [Dev.to/JS] [Insane productivity with the CHARM stack](https://dev.to/meteorjs/insane-productivity-with-the-charm-stack-2jp8)
-- [Dev.to/JS] [8 must-know tips for writing clean code with Javascript](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)
-- [Dev.to/JS] [What Is a Scrum Master ?](https://dev.to/postwell45/what-is-a-scrum-master--2h6m)
-- [Dev.to/JS] [Replicating Expensify.com in Next.Js](https://dev.to/kafui4k/replicating-expensifycom-in-nextjs-5eab)
 - [Lifehacker] [Siri Will Tell Your &#39;Invisible Ink&#39; Secrets](https://lifehacker.com/siri-will-tell-your-invisible-ink-secrets-1849705743)
 - [Lifehacker] [Yes, Mosquitoes Really Do Like Some People More](https://lifehacker.com/yes-mosquitoes-really-do-like-some-people-more-1849706546)
 - [Lifehacker] [Hackers and Bad Actors Are Weaponizing Your Typos](https://lifehacker.com/hackers-and-bad-actors-are-weaponizing-your-typos-1849706716)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get &#39;Fallout 3&#39; for Free While You Can](https://lifehacker.com/get-fallout-3-for-free-while-you-can-1849705583)
 - [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)
 - [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)
-- [Lifehacker] [How to Block Apple’s Own Ads on Your iPhone](https://lifehacker.com/how-to-block-apple-s-own-ads-on-your-iphone-1849703889)
-- [Crazy Programmer] [10 Best Computer Science Universities in Germany 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-germany.html)
-- [Lifehacker] [These Recalled Pine-Sol Cleaning Products Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Block Apple’s Own Ads on Your iPhone](https://lifehacker.com/how-to-block-apple-s-own-ads-on-your-iphone-1849703889)<!-- TECH-POSTS:END -->
 
 ---
 
