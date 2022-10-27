@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Avail Our Experts Computer Networking Assignment Help](https://dev.to/julesbetty44/avail-our-experts-computer-networking-assignment-help-9he)
+- [Dev.to/JS] [Get Professional Assistance with Urgent Programming Assignment Help](https://dev.to/hazeldavidson/get-professional-assistance-with-urgent-programming-assignment-help-20jd)
+- [Dev.to/JS] [Create react app and node.js server in one line](https://dev.to/mrpaulishaili/create-client-and-server-in-one-line-48nh)
 - [Dev.to/JS] [POSSIBLE TECHNIQUES ON HOW TO SECURE NODEJS APP.](https://dev.to/harmeed/possible-techniques-on-how-to-secure-nodejs-app-5ce1)
 - [Dev.to/JS] [Firebase Authentication for Cloudflare workers](https://dev.to/mmusket/firebase-authentication-for-cloudflare-workers-1476)
 - [Dev.to/JS] [Docusaurus](https://dev.to/lostbutton/docusaurus-179p)
@@ -39,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Three Books To Evolve Into A Superior Programmer](https://dev.to/cleveroscar/three-books-to-evolve-into-a-superior-programmer-25id)
 - [Lifehacker] [14 of the Worst Human Parasites That Exist &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/14-of-the-worst-human-parasites-that-exist-and-how-to-1849700930)
 - [Dev.to/JS] [Hoisting in javascript](https://dev.to/pappijx/hoisting-in-javascript-3joe)
-- [Dev.to/JS] [Generate Cryptographically-secured password using 12 words mnemonic phrase without storing your password anywhere](https://dev.to/athulr32/generate-cryptographically-secured-password-using-12-words-mnemonic-phrase-without-storing-your-password-anywhere-l6g)
-- [Dev.to/JS] [What is react ?](https://dev.to/aminebeji/what-is-react--3jgn)
 - [Lifehacker] [Get &#39;Fallout 3&#39; for Free While You Can](https://lifehacker.com/get-fallout-3-for-free-while-you-can-1849705583)
 - [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)
-- [Dev.to/JS] [Almost Hacktover](https://dev.to/sfrunza13/almost-hacktover-34ek)
 - [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)
 - [Lifehacker] [How to Block Apple’s Own Ads on Your iPhone](https://lifehacker.com/how-to-block-apple-s-own-ads-on-your-iphone-1849703889)
 - [Crazy Programmer] [10 Best Computer Science Universities in Germany 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-germany.html)
