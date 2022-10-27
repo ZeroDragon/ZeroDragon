@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding up a React Travel Journal](https://dev.to/atoopdev/coding-up-a-react-travel-journal-3l3h)
+- [Dev.to/JS] [JS defer or how to free resources at the end of code block &lpar;fun way&rpar;.](https://dev.to/istarkov/js-defer-or-how-to-free-resources-at-the-end-of-code-block-fun-way-3h81)
+- [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
 - [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
 - [Dev.to/JS] [Top 7 questions I&#39;ve faced during an interview as a Reactjs developer](https://dev.to/elliot_brenyasarfo_18749/top-7-questions-ive-faced-during-an-interview-as-a-reactjs-developer-2inc)
 - [Dev.to/JS] [How to scrape LinkedIn profiles from Google?](https://dev.to/darshan0_1/how-to-scrape-linkedin-profiles-from-google-1b0a)
@@ -46,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an Object Schema Validator From Scratch](https://dev.to/kalashin1/building-a-object-schema-validator-from-scratch-1n0k)
 - [Lifehacker] [How to Bypass Doordash&#39;s Automated System to Talk With a Real Person](https://lifehacker.com/how-to-bypass-doordashs-automated-system-to-talk-with-a-1849707119)
 - [Lifehacker] [Make Easy, Free Halloween Decorations With Things You Already Own](https://lifehacker.com/make-easy-free-halloween-decorations-with-things-you-a-1849706591)
-- [Dev.to/JS] [Arrays in Javascript](https://dev.to/sinhasagar01/arrays-in-javascript-26fh)
-- [Dev.to/JS] [DOM Virtual: Qual problema ela resolve?](https://dev.to/marciofrayze/dom-virtual-qual-problema-ela-resolve-1b79)
 - [Lifehacker] [10 of the Worst Theme Park Accidents In History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-worst-theme-park-accidents-in-history-and-wh-1849708098)
 - [Lifehacker] [Siri Will Tell Your &#39;Invisible Ink&#39; Secrets](https://lifehacker.com/siri-will-tell-your-invisible-ink-secrets-1849705743)
 - [Lifehacker] [Yes, Mosquitoes Really Do Like Some People More](https://lifehacker.com/yes-mosquitoes-really-do-like-some-people-more-1849706546)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 of the Worst Human Parasites That Exist &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/14-of-the-worst-human-parasites-that-exist-and-how-to-1849700930)
 - [Lifehacker] [Get &#39;Fallout 3&#39; for Free While You Can](https://lifehacker.com/get-fallout-3-for-free-while-you-can-1849705583)
 - [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)
-- [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)
-- [Lifehacker] [How to Block Apple’s Own Ads on Your iPhone](https://lifehacker.com/how-to-block-apple-s-own-ads-on-your-iphone-1849703889)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)<!-- TECH-POSTS:END -->
 
 ---
 
