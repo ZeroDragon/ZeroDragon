@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [OSD600 Lab7](https://dev.to/dadolhay/osd600-lab7-2m3j)
 - [Dev.to/JS] [The story behind my first AWS Amplify App](https://dev.to/wlg3r/the-story-behind-my-first-aws-amplify-app-5030)
 - [Lifehacker] [This Windows Dev Kit Is the Mac Mini of the PC World](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
 - [Lifehacker] [Five Ways to Speed Up a Slow iCloud Sync](https://lifehacker.com/five-ways-to-speed-up-a-slow-icloud-sync-1849706082)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)
 - [Dev.to/JS] [Primitive Data Types - JavaScript Core Concepts](https://dev.to/angelinewang/primitive-data-types-javascript-core-concepts-15fn)
 - [Dev.to/JS] [Complex Data Types - JavaScript Core Concepts](https://dev.to/angelinewang/complex-data-types-javascript-core-concepts-1f29)
-- [Dev.to/JS] [Hoisting - JavaScript Core Concepts](https://dev.to/angelinewang/hoisting-javascript-core-concepts-c1f)
 - [Lifehacker] [How to Block Apple’s Own Ads on Your iPhone](https://lifehacker.com/how-to-block-apple-s-own-ads-on-your-iphone-1849703889)
 - [Lifehacker] [These Recalled Pine-Sol Disinfectants Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)
 - [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
