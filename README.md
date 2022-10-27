@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 8 Website Đăng Ký Tên Miền Miễn Phí Vĩnh Viễn Tốt Nhất](https://dev.to/hostingviet90/top-8-website-dang-ky-ten-mien-mien-phi-vinh-vien-tot-nhat-2ck9)
+- [Dev.to/JS] [A Monty Hall Problem simulation](https://dev.to/nquangtrung/a-monty-hall-problem-simulation-np3)
+- [Dev.to/JS] [How to write a great tech article](https://dev.to/amrtcrypto/how-to-write-a-great-tech-article-45h9)
 - [Dev.to/JS] [Avail Our Experts Computer Networking Assignment Help](https://dev.to/julesbetty44/avail-our-experts-computer-networking-assignment-help-9he)
 - [Dev.to/JS] [Get Professional Assistance with Urgent Programming Assignment Help](https://dev.to/hazeldavidson/get-professional-assistance-with-urgent-programming-assignment-help-20jd)
 - [Dev.to/JS] [Create react app and node.js server in one line](https://dev.to/mrpaulishaili/create-client-and-server-in-one-line-48nh)
@@ -36,12 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)
 - [Dev.to/JS] [What is Babel? The Popular JavaScript Compiler](https://dev.to/teejaydixon/what-is-babel-the-popular-javascript-compiler-58g9)
 - [Lifehacker] [Rain Doesn&#39;t Have to Make Trick-or-Treating Miserable](https://lifehacker.com/rain-doesnt-have-to-make-trick-or-treating-miserable-1849705299)
-- [Dev.to/JS] [Will Web Components Replace Frontend Frameworks?](https://dev.to/mariusbongarts/will-web-components-replace-frontend-frameworks-4509)
 - [Lifehacker] [‘Quantum Leap’ Star Ernie Hudson On Making a Family Show](https://lifehacker.com/quantum-leap-star-ernie-hudson-on-making-a-family-sho-1849705983)
 - [Lifehacker] [Change These Microsoft Edge Settings to Make It an Even Better Browser](https://lifehacker.com/change-these-microsoft-edge-settings-to-make-it-an-even-1849705168)
-- [Dev.to/JS] [Three Books To Evolve Into A Superior Programmer](https://dev.to/cleveroscar/three-books-to-evolve-into-a-superior-programmer-25id)
 - [Lifehacker] [14 of the Worst Human Parasites That Exist &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/14-of-the-worst-human-parasites-that-exist-and-how-to-1849700930)
-- [Dev.to/JS] [Hoisting in javascript](https://dev.to/pappijx/hoisting-in-javascript-3joe)
 - [Lifehacker] [Get &#39;Fallout 3&#39; for Free While You Can](https://lifehacker.com/get-fallout-3-for-free-while-you-can-1849705583)
 - [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)
 - [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)
