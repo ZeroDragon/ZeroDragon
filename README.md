@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
 - [Dev.to/JS] [Coding up a React Travel Journal](https://dev.to/atoopdev/coding-up-a-react-travel-journal-3l3h)
 - [Dev.to/JS] [JS defer or how to free resources at the end of code block &lpar;fun way&rpar;.](https://dev.to/istarkov/js-defer-or-how-to-free-resources-at-the-end-of-code-block-fun-way-3h81)
 - [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Change These Microsoft Edge Settings to Make It an Even Better Browser](https://lifehacker.com/change-these-microsoft-edge-settings-to-make-it-an-even-1849705168)
 - [Lifehacker] [14 of the Worst Human Parasites That Exist &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/14-of-the-worst-human-parasites-that-exist-and-how-to-1849700930)
 - [Lifehacker] [Get &#39;Fallout 3&#39; for Free While You Can](https://lifehacker.com/get-fallout-3-for-free-while-you-can-1849705583)
-- [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)
-- [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)<!-- TECH-POSTS:END -->
 
 ---
 
