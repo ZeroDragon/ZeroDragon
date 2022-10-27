@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [POSSIBLE TECHNIQUES ON HOW TO SECURE NODEJS APP.](https://dev.to/harmeed/possible-techniques-on-how-to-secure-nodejs-app-5ce1)
+- [Dev.to/JS] [Firebase Authentication for Cloudflare workers](https://dev.to/mmusket/firebase-authentication-for-cloudflare-workers-1476)
 - [Dev.to/JS] [Docusaurus](https://dev.to/lostbutton/docusaurus-179p)
 - [Dev.to/JS] [OSD600 Lab7](https://dev.to/dadolhay/osd600-lab7-2m3j)
 - [Dev.to/JS] [The story behind my first AWS Amplify App](https://dev.to/wlg3r/the-story-behind-my-first-aws-amplify-app-5030)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get &#39;Fallout 3&#39; for Free While You Can](https://lifehacker.com/get-fallout-3-for-free-while-you-can-1849705583)
 - [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)
 - [Dev.to/JS] [Almost Hacktover](https://dev.to/sfrunza13/almost-hacktover-34ek)
-- [Dev.to/JS] [Reusable dynamic modal on Vue 3](https://dev.to/cloudx/reusable-dynamic-modal-on-vue-3-1k56)
 - [Lifehacker] [What&#39;s New on Netflix in November 2022](https://lifehacker.com/whats-new-on-netflix-in-november-2022-1849705372)
-- [Dev.to/JS] [Primitive Data Types - JavaScript Core Concepts](https://dev.to/angelinewang/primitive-data-types-javascript-core-concepts-15fn)
 - [Lifehacker] [How to Block Apple’s Own Ads on Your iPhone](https://lifehacker.com/how-to-block-apple-s-own-ads-on-your-iphone-1849703889)
 - [Lifehacker] [These Recalled Pine-Sol Cleaning Products Ironically Contain Harmful Bacteria](https://lifehacker.com/these-recalled-pine-sol-disinfectants-ironically-contai-1849703832)
 - [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
