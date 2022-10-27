@@ -23,10 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)
+- [Dev.to/JS] [Using Neo4j in your next Next.js Project](https://dev.to/adamcowley/using-neo4j-in-your-next-nextjs-project-77)
+- [Lifehacker] [The Fastest Ways to Compress Video on iPhone and Android](https://lifehacker.com/the-fastest-ways-to-compress-video-on-iphone-and-androi-1849523806)
+- [Lifehacker] [10 New Google Docs Features Worth Trying Out](https://lifehacker.com/10-new-google-docs-features-worth-trying-out-1849708472)
 - [Lifehacker] [Park These Recalled Kia SUVs Outside Because of Fire Risk](https://lifehacker.com/park-these-recalled-kia-suvs-outside-because-of-fire-ri-1849706684)
 - [Dev.to/JS] [Is Tailwind CSS Accessible?](https://dev.to/devsatasurion/is-tailwind-css-accessible-52dc)
 - [Lifehacker] [14 Ways to Get Weird With Cranberries](https://lifehacker.com/14-ways-to-get-weird-with-cranberries-1849706421)
-- [Dev.to/JS] [Building a Object Schema Validator From Scratch](https://dev.to/kalashin1/building-a-object-schema-validator-from-scratch-1n0k)
+- [Dev.to/JS] [Building an Object Schema Validator From Scratch](https://dev.to/kalashin1/building-a-object-schema-validator-from-scratch-1n0k)
 - [Lifehacker] [How to Bypass Doordash&#39;s Automated System to Talk With a Real Person](https://lifehacker.com/how-to-bypass-doordashs-automated-system-to-talk-with-a-1849707119)
 - [Lifehacker] [Make Easy, Free Halloween Decorations With Things You Already Own](https://lifehacker.com/make-easy-free-halloween-decorations-with-things-you-a-1849706591)
 - [Dev.to/JS] [Arrays in Javascript](https://dev.to/sinhasagar01/arrays-in-javascript-26fh)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make a Vehicle Charging Website Using Html CSS JS](https://dev.to/codewithsadee/how-to-make-a-vehicle-charging-website-using-html-css-js-c0j)
 - [Dev.to/JS] [Best sites to learn programming](https://dev.to/albericojr/best-sites-to-learn-programming-4igl)
 - [Lifehacker] [Hackers and Bad Actors Are Weaponizing Your Typos](https://lifehacker.com/hackers-and-bad-actors-are-weaponizing-your-typos-1849706716)
-- [Dev.to/JS] [How to create a story game with Javascript](https://dev.to/sergchr/how-to-create-a-story-game-with-javascript-47hj)
 - [Lifehacker] [This Windows Dev Kit Is the Mac Mini of the PC World](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
 - [Lifehacker] [Five Ways to Speed Up a Slow iCloud Sync](https://lifehacker.com/five-ways-to-speed-up-a-slow-icloud-sync-1849706082)
 - [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Some Apple Streaming Services Are Getting More Expensive](https://lifehacker.com/some-apple-streaming-services-are-getting-more-expensiv-1849702206)
 - [Lifehacker] [You Can Get a Rolex for ‘Cheap’ Right Now](https://lifehacker.com/you-can-get-a-rolex-for-cheap-right-now-1849701945)
 - [Lifehacker] [Never Keep These Things In a Storage Unit](https://lifehacker.com/never-keep-these-things-in-a-storage-unit-1849702689)
-- [Lifehacker] [Use &#39;Lock Launcher&#39; to Open Apps From Your iPhone Lock Screen](https://lifehacker.com/use-lock-launcher-to-open-apps-from-your-iphone-lock-sc-1849703317)
-- [Lifehacker] [The U.S. States With the Highest &lpar;and Lowest&rpar; Property Tax Rates](https://lifehacker.com/the-u-s-states-with-the-highest-and-lowest-property-1849702438)
-- [Lifehacker] [Scramble Your Eggs in Spicy Salsa Macha](https://lifehacker.com/scramble-your-eggs-in-spicy-salsa-macha-1849701391)
-- [Lifehacker] [12 World Leaders With Even Shorter Reigns Than Liz Truss](https://lifehacker.com/12-world-leaders-with-even-shorter-reigns-than-liz-trus-1849702739)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use &#39;Lock Launcher&#39; to Open Apps From Your iPhone Lock Screen](https://lifehacker.com/use-lock-launcher-to-open-apps-from-your-iphone-lock-sc-1849703317)<!-- TECH-POSTS:END -->
 
 ---
 
