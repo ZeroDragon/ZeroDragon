@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Never Donate These Things to Thrift Stores](https://lifehacker.com/never-donate-these-things-to-thrift-stores-1849709359)
+- [Lifehacker] [Three Ways to Cook Big Mushrooms so They Don&#39;t Get Mushy](https://lifehacker.com/three-ways-to-cook-big-mushrooms-so-they-dont-get-mushy-1849712680)
+- [Dev.to/JS] [The Rising Coder - Week 9/13 &lpar;Frontend Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-913-frontend-week-23-4k63)
+- [Dev.to/JS] [Setbacks that push you forward. Learning Testing!](https://dev.to/fepaiva/setbacks-that-push-you-forward-learning-testing-2na3)
 - [Lifehacker] [How to Clean Your TV Without Damaging It](https://lifehacker.com/how-to-clean-your-tv-without-damaging-it-1849715350)
 - [Dev.to/JS] [Subir backend NodeJS a AWS - EC2](https://dev.to/agustinaguilera/subir-backend-nodejs-a-aws-ec2-4nd5)
 - [Lifehacker] [Why Other Devices Put Your Laptop to Sleep](https://lifehacker.com/why-other-devices-put-your-laptop-to-sleep-1849715303)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Candy Needs Some Spice](https://lifehacker.com/your-candy-needs-some-spice-1849713201)
 - [Dev.to/JS] [My Guide to Frontend Development](https://dev.to/youssefmic/my-guide-to-frontend-development-27h)
 - [Lifehacker] [Never Do These Things in a Hardware Store](https://lifehacker.com/never-do-these-things-in-a-hardware-store-1849713338)
-- [Dev.to/JS] [Building highly resilient applications with on-premises interdependencies using AWS Local Zones](https://dev.to/abhishe89636035/building-highly-resilient-applications-with-on-premises-interdependencies-using-aws-local-zones-2fbb)
-- [Dev.to/JS] [Node.JS and Cache with REDIS](https://dev.to/gvt3ch/nodejs-and-cache-with-redis-91o)
 - [Lifehacker] [20 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/20-of-the-most-over-the-top-action-movies-ever-made-1849704085)
 - [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)
 - [Lifehacker] [How to Choose the Right Breed of Dog for You, According to Cesar Millan](https://lifehacker.com/how-to-choose-the-right-breed-of-dog-for-you-according-1849711261)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Park These Recalled Kia SUVs Outside Because of Fire Risk](https://lifehacker.com/park-these-recalled-kia-suvs-outside-because-of-fire-ri-1849706684)
 - [Lifehacker] [14 Ways to Get Weird With Cranberries](https://lifehacker.com/14-ways-to-get-weird-with-cranberries-1849706421)
 - [Lifehacker] [How to Bypass Doordash&#39;s Automated System to Talk With a Real Person](https://lifehacker.com/how-to-bypass-doordashs-automated-system-to-talk-with-a-1849707119)
-- [Lifehacker] [Make Easy, Free Halloween Decorations With Things You Already Own](https://lifehacker.com/make-easy-free-halloween-decorations-with-things-you-a-1849706591)
-- [Lifehacker] [10 of the Worst Theme Park Accidents In History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-worst-theme-park-accidents-in-history-and-wh-1849708098)
-- [Lifehacker] [Siri Will Tell Your &#39;Invisible Ink&#39; Secrets](https://lifehacker.com/siri-will-tell-your-invisible-ink-secrets-1849705743)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Easy, Free Halloween Decorations With Things You Already Own](https://lifehacker.com/make-easy-free-halloween-decorations-with-things-you-a-1849706591)<!-- TECH-POSTS:END -->
 
 ---
 
