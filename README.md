@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Way You Store Cups and Glasses &lpar;Almost&rpar; Never Matters, Actually](https://lifehacker.com/the-way-you-store-cups-and-glasses-almost-never-matte-1849715335)
+- [Lifehacker] [Finish Everything With Breadcrumbs](https://lifehacker.com/finish-everything-with-breadcrumbs-1849715164)
+- [Dev.to/JS] [TypeScript Beginning](https://dev.to/ankitbhusal/typescript-beginning-3pf8)
+- [Dev.to/JS] [Flatiron Phase-2 &lpar;Fetching In React&rpar;](https://dev.to/sunnytherobot/flatiron-phase-2-456i)
+- [Lifehacker] [10 of the Best Places to Travel in November](https://lifehacker.com/10-of-the-best-places-to-travel-in-november-1849701770)
 - [Dev.to/JS] [Day34 of #100DaysOfCode](https://dev.to/yoot/day34-of-100daysofcode-1ljg)
 - [Dev.to/JS] [Demystifying machine learning via Bluetooth with Arduino](https://dev.to/stripe/demystifying-machine-learning-via-bluetooth-with-arduino-3j90)
 - [Lifehacker] [12 Podcasts to Listen to in the Dark, Ranked by Scariness](https://lifehacker.com/12-podcasts-to-listen-to-in-the-dark-ranked-by-scarine-1849695861)
@@ -36,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The brand new Logto website: new design, new content, new subscription, along with our SaaS info](https://dev.to/gaosun/the-brand-new-logto-websitenew-design-new-content-newsubscription-along-with-our-saas-info-49m3)
 - [Dev.to/JS] [Database in JavaScript &lpar;Local Storage&rpar;](https://dev.to/jps27cse/database-in-javascript-local-storage-14ki)
 - [Dev.to/JS] [Building a Crypto Exchange Trading Platform with Tradexpro Exchange](https://dev.to/itechthemeg/building-a-crypto-exchange-trading-platform-with-tradexpro-exchange-48n7)
-- [Dev.to/JS] [Stranger Scripts](https://dev.to/robertinoc_dev/stranger-scripts-4gme)
-- [Dev.to/JS] [Currying in JavaScript](https://dev.to/vedanthb/currying-in-javascript-53nl)
 - [Lifehacker] [20 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/20-of-the-most-over-the-top-action-movies-ever-made-1849704085)
 - [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)
 - [Lifehacker] [How to Choose the Right Breed of Dog for You, According to Cesar Millan](https://lifehacker.com/how-to-choose-the-right-breed-of-dog-for-you-according-1849711261)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Worst Theme Park Accidents In History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-worst-theme-park-accidents-in-history-and-wh-1849708098)
 - [Lifehacker] [Siri Will Tell Your &#39;Invisible Ink&#39; Secrets](https://lifehacker.com/siri-will-tell-your-invisible-ink-secrets-1849705743)
 - [Lifehacker] [Yes, Mosquitoes Really Do Like Some People More](https://lifehacker.com/yes-mosquitoes-really-do-like-some-people-more-1849706546)
-- [Lifehacker] [Hackers and Bad Actors Are Weaponizing Your Typos](https://lifehacker.com/hackers-and-bad-actors-are-weaponizing-your-typos-1849706716)
-- [Lifehacker] [This Windows Dev Kit Is the Mac Mini of the PC World](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
-- [Lifehacker] [Five Ways to Speed Up a Slow iCloud Sync](https://lifehacker.com/five-ways-to-speed-up-a-slow-icloud-sync-1849706082)
-- [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Hackers and Bad Actors Are Weaponizing Your Typos](https://lifehacker.com/hackers-and-bad-actors-are-weaponizing-your-typos-1849706716)<!-- TECH-POSTS:END -->
 
 ---
 
