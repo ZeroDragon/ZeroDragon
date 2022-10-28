@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Soft Radio Group Button](https://dev.to/samwtf1214/creating-a-soft-radio-group-button-3207)
+- [Dev.to/JS] [Developing Ordinary Radio Buttons](https://dev.to/samwtf1214/developing-ordinary-radio-buttons-2jbh)
+- [Dev.to/JS] [Top 10 trending github repos of the week💚.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-34j5)
+- [Dev.to/JS] [React: understanding useReducer&lpar;&rpar; &amp; custom hooks](https://dev.to/manuartero/react-understanding-usereducer-custom-hooks-1ma8)
+- [Dev.to/JS] [React &amp; REST APIs: End-To-End TypeScript Based On OpenAPI Docs](https://dev.to/jkettmann/react-rest-apis-end-to-end-typescript-based-on-openapi-docs-45ff)
 - [Dev.to/JS] [Creating an Animated Vertical Group Radio Buttons](https://dev.to/msa123free/creating-an-animated-vertical-group-radio-buttons-3183)
 - [Dev.to/JS] [Creating a Grouped Radio Buttons](https://dev.to/msa123free/creating-a-grouped-radio-buttons-1cjd)
 - [Dev.to/JS] [What is PRINCE2?](https://dev.to/postwell45/what-is-prince2-2ai)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Pill Type Radio Button](https://dev.to/msa123free/creating-pill-type-radio-button-474m)
 - [Dev.to/JS] [Creating Cool Radio Button Animation](https://dev.to/msa123free/creating-cool-radio-button-animation-2j7d)
 - [Dev.to/JS] [How we automated license checking for our Python &amp; JS dependencies](https://dev.to/meetkern/how-we-automated-license-checking-for-our-python-js-dependencies-5900)
-- [Dev.to/JS] [Formularios dinámicos con Formik y React JS. 📝](https://dev.to/franklin030601/formularios-dinamicos-con-formik-y-react-js-4hne)
-- [Dev.to/JS] [Array Destructuring](https://dev.to/estotriramdani/array-destructuring-1aj6)
-- [Dev.to/JS] [Dynamic forms with Formik and React JS. 📝](https://dev.to/franklin030601/dynamic-forms-with-formik-and-react-js-3no1)
-- [Dev.to/JS] [Creating a Pill Switch Button](https://dev.to/msa123free/creating-a-pill-switch-button-38ij)
-- [Dev.to/JS] [Creating a Quadraple Radio Button](https://dev.to/msa123free/creating-a-quadraple-radio-button-2k8)
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
 - [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
 - [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
