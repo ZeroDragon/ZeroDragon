@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day34 of #100DaysOfCode](https://dev.to/yoot/day34-of-100daysofcode-1ljg)
+- [Dev.to/JS] [Demystifying machine learning via Bluetooth with Arduino](https://dev.to/stripe/demystifying-machine-learning-via-bluetooth-with-arduino-3j90)
+- [Lifehacker] [12 Podcasts to Listen to in the Dark, Ranked by Scariness](https://lifehacker.com/12-podcasts-to-listen-to-in-the-dark-ranked-by-scarine-1849695861)
+- [Dev.to/JS] [Playwright ?](https://dev.to/vibhanshujain/playwright--2b0a)
+- [Dev.to/JS] [Upgrade your Lerna Workspace - Make it Fast and Modern!](https://dev.to/nx/upgrade-your-lerna-workspace-make-it-fast-and-modern-3c0g)
+- [Lifehacker] [Your Candy Needs Some Spice](https://lifehacker.com/your-candy-needs-some-spice-1849713201)
 - [Dev.to/JS] [My Guide to Frontend Development](https://dev.to/youssefmic/my-guide-to-frontend-development-27h)
 - [Lifehacker] [Never Do These Things in a Hardware Store](https://lifehacker.com/never-do-these-things-in-a-hardware-store-1849713338)
 - [Dev.to/JS] [Building highly resilient applications with on-premises interdependencies using AWS Local Zones](https://dev.to/abhishe89636035/building-highly-resilient-applications-with-on-premises-interdependencies-using-aws-local-zones-2fbb)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stranger Scripts](https://dev.to/robertinoc_dev/stranger-scripts-4gme)
 - [Dev.to/JS] [Currying in JavaScript](https://dev.to/vedanthb/currying-in-javascript-53nl)
 - [Lifehacker] [20 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/20-of-the-most-over-the-top-action-movies-ever-made-1849704085)
-- [Dev.to/JS] [A Complete Guide to Modern Waves](https://dev.to/patilganesh1010/a-complete-guide-to-modern-waves-n9n)
-- [Dev.to/JS] [Auto-Publish Your Test Coverage Report on GitHub Pages](https://dev.to/mbarzeev/auto-publish-your-test-coverage-report-on-github-pages-35be)
-- [Dev.to/JS] [Creating Mobile Firendly Radio Buttons](https://dev.to/samwtf1214/creating-mobile-firendly-radio-buttons-4aop)
-- [Dev.to/JS] [the new next is here](https://dev.to/byt3h3ad/the-new-next-is-here-h38)
 - [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)
 - [Lifehacker] [How to Choose the Right Breed of Dog for You, According to Cesar Millan](https://lifehacker.com/how-to-choose-the-right-breed-of-dog-for-you-according-1849711261)
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hackers and Bad Actors Are Weaponizing Your Typos](https://lifehacker.com/hackers-and-bad-actors-are-weaponizing-your-typos-1849706716)
 - [Lifehacker] [This Windows Dev Kit Is the Mac Mini of the PC World](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
 - [Lifehacker] [Five Ways to Speed Up a Slow iCloud Sync](https://lifehacker.com/five-ways-to-speed-up-a-slow-icloud-sync-1849706082)
-- [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)
-- [Lifehacker] [Rain Doesn&#39;t Have to Make Trick-or-Treating Miserable](https://lifehacker.com/rain-doesnt-have-to-make-trick-or-treating-miserable-1849705299)
-- [Lifehacker] [‘Quantum Leap’ Star Ernie Hudson On Making a Family Show](https://lifehacker.com/quantum-leap-star-ernie-hudson-on-making-a-family-sho-1849705983)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)<!-- TECH-POSTS:END -->
 
 ---
 
