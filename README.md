@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best way to create Aesthetic Screenshots](https://dev.to/vishwagauravin/best-way-to-create-aesthetic-screenshots-30nm)
+- [Dev.to/JS] [Don&#39;t be over-creative](https://dev.to/riju_bro/dont-be-over-creative-2ed1)
 - [Dev.to/JS] [Type Conversion](https://dev.to/sadiqshah786/type-conversion-mhe)
 - [Dev.to/JS] [Show local current hour:minute with js](https://dev.to/hasantezcan/show-local-current-hourminute-with-js-19k1)
 - [Dev.to/JS] [CORS: Why It&#39;s Important and How It Works](https://dev.to/amrtcrypto/cors-why-its-important-and-how-it-works-1lp5)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Compiler theory and how it relates to scope](https://dev.to/geomukkath/javascript-compiler-theory-and-how-it-relates-to-scope-2ip4)
 - [Dev.to/JS] [How to Google Search from the terminal?](https://dev.to/dhairyashah/how-to-google-search-from-the-terminal-4h06)
 - [Dev.to/JS] [BlogHunch | Made with Nuxt JS](https://dev.to/madewithjavascript/bloghunch-made-with-nuxt-js-1p9i)
-- [Dev.to/JS] [Introduction To The Upcoming UseEvent Hook RFC](https://dev.to/asayerio_techblog/introduction-to-the-upcoming-useevent-hook-rfc-1kkj)
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
-- [Dev.to/JS] [Coding up a React Travel Journal](https://dev.to/atoopdev/coding-up-a-react-travel-journal-3l3h)
 - [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
 - [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
 - [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
