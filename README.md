@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Type Conversion](https://dev.to/sadiqshah786/type-conversion-mhe)
+- [Dev.to/JS] [Show local current hour:minute with js](https://dev.to/hasantezcan/show-local-current-hourminute-with-js-19k1)
+- [Dev.to/JS] [CORS: Why It&#39;s Important and How It Works](https://dev.to/amrtcrypto/cors-why-its-important-and-how-it-works-1lp5)
+- [Dev.to/JS] [Get an Idea about katy perry net worth in 2022](https://dev.to/lcars_com/get-an-idea-about-katy-perry-net-worth-in-2022-3aj5)
 - [Dev.to/JS] [Chrome Extensions of the Month - October 2022](https://dev.to/j471n/chrome-extensions-of-the-month-october-2022-1c0j)
 - [Dev.to/JS] [Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-36k6)
 - [Dev.to/JS] [How to Simplify React Apps with React Hooks](https://dev.to/nothanii/how-to-simplify-react-apps-with-react-hooks-2h24)
@@ -32,12 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction To The Upcoming UseEvent Hook RFC](https://dev.to/asayerio_techblog/introduction-to-the-upcoming-useevent-hook-rfc-1kkj)
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
 - [Dev.to/JS] [Coding up a React Travel Journal](https://dev.to/atoopdev/coding-up-a-react-travel-journal-3l3h)
-- [Dev.to/JS] [JS defer or how to free resources at the end of code block &lpar;fun way&rpar;.](https://dev.to/istarkov/js-defer-or-how-to-free-resources-at-the-end-of-code-block-fun-way-3h81)
 - [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
 - [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
-- [Dev.to/JS] [Top 7 questions I&#39;ve faced during an interview as a Reactjs developer](https://dev.to/elliot_brenyasarfo_18749/top-7-questions-ive-faced-during-an-interview-as-a-reactjs-developer-2inc)
-- [Dev.to/JS] [How to scrape LinkedIn profiles from Google?](https://dev.to/darshan0_1/how-to-scrape-linkedin-profiles-from-google-1b0a)
-- [Dev.to/JS] [Ternary Operator](https://dev.to/mikefazekas/ternary-operator-26fd)
 - [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
 - [Lifehacker] [You Don&#39;t Have to Ruin Your Clothes for Halloween](https://lifehacker.com/you-dont-have-to-ruin-your-clothes-for-halloween-1849710200)
 - [Lifehacker] [Hidden Xbox Settings You Should Change to Up Your Game](https://lifehacker.com/hidden-xbox-settings-you-should-change-to-up-your-game-1849709275)
