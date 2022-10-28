@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Compiler theory and how it relates to scope](https://dev.to/geomukkath/javascript-compiler-theory-and-how-it-relates-to-scope-2ip4)
 - [Dev.to/JS] [How to Google Search from the terminal?](https://dev.to/dhairyashah/how-to-google-search-from-the-terminal-4h06)
 - [Dev.to/JS] [BlogHunch | Made with Nuxt JS](https://dev.to/madewithjavascript/bloghunch-made-with-nuxt-js-1p9i)
 - [Dev.to/JS] [Introduction To The Upcoming UseEvent Hook RFC](https://dev.to/asayerio_techblog/introduction-to-the-upcoming-useevent-hook-rfc-1kkj)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Medusa Hackathon Winner Announcement](https://dev.to/medusajs/medusa-hackathon-winner-announcement-41h)
 - [Lifehacker] [Hidden Xbox Settings You Should Change to Up Your Game](https://lifehacker.com/hidden-xbox-settings-you-should-change-to-up-your-game-1849709275)
 - [Dev.to/JS] [#ThisMonthInSWA - October 2022](https://dev.to/azure/thismonthinswa-october-2022-18gn)
-- [Dev.to/JS] [Paracetamol.test.js🧪| #7: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-7-testea-este-codigo-javascript-3h2c)
 - [Lifehacker] [How to Introduce Yourself to a Dog, According to Cesar Millan](https://lifehacker.com/how-to-introduce-yourself-to-a-dog-according-to-cesar-1849709628)
 - [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)
 - [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)
