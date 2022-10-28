@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Guide to Frontend Development](https://dev.to/youssefmic/my-guide-to-frontend-development-27h)
+- [Lifehacker] [Never Do These Things in a Hardware Store](https://lifehacker.com/never-do-these-things-in-a-hardware-store-1849713338)
+- [Dev.to/JS] [Building highly resilient applications with on-premises interdependencies using AWS Local Zones](https://dev.to/abhishe89636035/building-highly-resilient-applications-with-on-premises-interdependencies-using-aws-local-zones-2fbb)
+- [Dev.to/JS] [Node.JS and Cache with REDIS](https://dev.to/gvt3ch/nodejs-and-cache-with-redis-91o)
+- [Dev.to/JS] [The brand new Logto website: new design, new content, new subscription, along with our SaaS info](https://dev.to/gaosun/the-brand-new-logto-websitenew-design-new-content-newsubscription-along-with-our-saas-info-49m3)
+- [Dev.to/JS] [Database in JavaScript &lpar;Local Storage&rpar;](https://dev.to/jps27cse/database-in-javascript-local-storage-14ki)
 - [Dev.to/JS] [Building a Crypto Exchange Trading Platform with Tradexpro Exchange](https://dev.to/itechthemeg/building-a-crypto-exchange-trading-platform-with-tradexpro-exchange-48n7)
 - [Dev.to/JS] [Stranger Scripts](https://dev.to/robertinoc_dev/stranger-scripts-4gme)
 - [Dev.to/JS] [Currying in JavaScript](https://dev.to/vedanthb/currying-in-javascript-53nl)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [the new next is here](https://dev.to/byt3h3ad/the-new-next-is-here-h38)
 - [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)
 - [Lifehacker] [How to Choose the Right Breed of Dog for You, According to Cesar Millan](https://lifehacker.com/how-to-choose-the-right-breed-of-dog-for-you-according-1849711261)
-- [Dev.to/JS] [Creating Deep Animation Radio Buttons](https://dev.to/samwtf1214/creating-deep-animation-radio-buttons-58bc)
-- [Dev.to/JS] [Let’s understand map, filter and reduce by writing polyfills for them.](https://dev.to/vedanthb/lets-understand-map-filter-and-reduce-by-writing-polyfills-for-them-1hm)
-- [Dev.to/JS] [How to Hire React.js Developers](https://dev.to/dhavals32773572/how-to-hire-reactjs-developers-5444)
-- [Dev.to/JS] [Creating Crazy Radio Buttons](https://dev.to/samwtf1214/creating-crazy-radio-buttons-j1n)
-- [Dev.to/JS] [Authenticate a Nuxt.js App Using a Magic URL and Mailgun](https://dev.to/hackmamba/authenticate-a-nuxtjs-app-using-a-magic-url-and-mailgun-fim)
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
 - [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
 - [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Ways to Speed Up a Slow iCloud Sync](https://lifehacker.com/five-ways-to-speed-up-a-slow-icloud-sync-1849706082)
 - [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)
 - [Lifehacker] [Rain Doesn&#39;t Have to Make Trick-or-Treating Miserable](https://lifehacker.com/rain-doesnt-have-to-make-trick-or-treating-miserable-1849705299)
-- [Lifehacker] [‘Quantum Leap’ Star Ernie Hudson On Making a Family Show](https://lifehacker.com/quantum-leap-star-ernie-hudson-on-making-a-family-sho-1849705983)
-- [Lifehacker] [Change These Microsoft Edge Settings to Make It an Even Better Browser](https://lifehacker.com/change-these-microsoft-edge-settings-to-make-it-an-even-1849705168)<!-- TECH-POSTS:END -->
+- [Lifehacker] [‘Quantum Leap’ Star Ernie Hudson On Making a Family Show](https://lifehacker.com/quantum-leap-star-ernie-hudson-on-making-a-family-sho-1849705983)<!-- TECH-POSTS:END -->
 
 ---
 
