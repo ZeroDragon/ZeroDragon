@@ -23,10 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
 - [Dev.to/JS] [Astro Build like an Astronauts!](https://dev.to/coderyeasin/asto-build-liken-an-astronauts-284a)
 - [Lifehacker] [What&#39;s New on Paramount+ in November 2022](https://lifehacker.com/whats-new-on-paramount-in-november-2022-1849716404)
 - [Dev.to/JS] [Type-Safe TypeScript with Type Narrowing](https://dev.to/this-is-learning/type-safe-typescript-with-type-narrowing-5930)
 - [Lifehacker] [Never Donate These Things to Thrift Stores](https://lifehacker.com/never-donate-these-things-to-thrift-stores-1849709359)
+- [Dev.to/JS] [🔴How to Make Simple interest calculator using React Hooks | For Beginners](https://dev.to/ziontutorial/how-to-make-simple-interest-calculator-using-react-hooks-for-beginners-1o5g)
 - [Lifehacker] [Three Ways to Cook Big Mushrooms so They Don&#39;t Get Mushy](https://lifehacker.com/three-ways-to-cook-big-mushrooms-so-they-dont-get-mushy-1849712680)
 - [Dev.to/JS] [The Rising Coder - Week 9/13 &lpar;Frontend Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-913-frontend-week-23-4k63)
 - [Dev.to/JS] [Setbacks that push you forward. Learning Testing!](https://dev.to/fepaiva/setbacks-that-push-you-forward-learning-testing-2na3)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day34 of #100DaysOfCode](https://dev.to/yoot/day34-of-100daysofcode-1ljg)
 - [Dev.to/JS] [Demystifying machine learning via Bluetooth with Arduino](https://dev.to/stripe/demystifying-machine-learning-via-bluetooth-with-arduino-3j90)
 - [Lifehacker] [12 Podcasts to Listen to in the Dark, Ranked by Scariness](https://lifehacker.com/12-podcasts-to-listen-to-in-the-dark-ranked-by-scarine-1849695861)
-- [Dev.to/JS] [Playwright ?](https://dev.to/vibhanshujain/playwright--2b0a)
 - [Lifehacker] [Your Candy Needs Some Spice](https://lifehacker.com/your-candy-needs-some-spice-1849713201)
 - [Lifehacker] [Never Do These Things in a Hardware Store](https://lifehacker.com/never-do-these-things-in-a-hardware-store-1849713338)
 - [Lifehacker] [20 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/20-of-the-most-over-the-top-action-movies-ever-made-1849704085)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Ways to Compress Video on iPhone and Android](https://lifehacker.com/the-fastest-ways-to-compress-video-on-iphone-and-androi-1849523806)
 - [Lifehacker] [10 New Google Docs Features Worth Trying Out](https://lifehacker.com/10-new-google-docs-features-worth-trying-out-1849708472)
 - [Lifehacker] [Park These Recalled Kia SUVs Outside Because of Fire Risk](https://lifehacker.com/park-these-recalled-kia-suvs-outside-because-of-fire-ri-1849706684)
-- [Lifehacker] [14 Ways to Get Weird With Cranberries](https://lifehacker.com/14-ways-to-get-weird-with-cranberries-1849706421)
-- [Lifehacker] [How to Bypass Doordash&#39;s Automated System to Talk With a Real Person](https://lifehacker.com/how-to-bypass-doordashs-automated-system-to-talk-with-a-1849707119)<!-- TECH-POSTS:END -->
+- [Lifehacker] [14 Ways to Get Weird With Cranberries](https://lifehacker.com/14-ways-to-get-weird-with-cranberries-1849706421)<!-- TECH-POSTS:END -->
 
 ---
 
