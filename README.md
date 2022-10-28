@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Google Search from the terminal?](https://dev.to/dhairyashah/how-to-google-search-from-the-terminal-4h06)
+- [Dev.to/JS] [BlogHunch | Made with Nuxt JS](https://dev.to/madewithjavascript/bloghunch-made-with-nuxt-js-1p9i)
+- [Dev.to/JS] [Introduction To The Upcoming UseEvent Hook RFC](https://dev.to/asayerio_techblog/introduction-to-the-upcoming-useevent-hook-rfc-1kkj)
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
 - [Dev.to/JS] [Coding up a React Travel Journal](https://dev.to/atoopdev/coding-up-a-react-travel-journal-3l3h)
 - [Dev.to/JS] [JS defer or how to free resources at the end of code block &lpar;fun way&rpar;.](https://dev.to/istarkov/js-defer-or-how-to-free-resources-at-the-end-of-code-block-fun-way-3h81)
@@ -41,13 +44,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Introduce Yourself to a Dog, According to Cesar Millan](https://lifehacker.com/how-to-introduce-yourself-to-a-dog-according-to-cesar-1849709628)
 - [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)
 - [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)
-- [Dev.to/JS] [Using Neo4j in your next Next.js Project](https://dev.to/adamcowley/using-neo4j-in-your-next-nextjs-project-77)
 - [Lifehacker] [The Fastest Ways to Compress Video on iPhone and Android](https://lifehacker.com/the-fastest-ways-to-compress-video-on-iphone-and-androi-1849523806)
 - [Lifehacker] [10 New Google Docs Features Worth Trying Out](https://lifehacker.com/10-new-google-docs-features-worth-trying-out-1849708472)
 - [Lifehacker] [Park These Recalled Kia SUVs Outside Because of Fire Risk](https://lifehacker.com/park-these-recalled-kia-suvs-outside-because-of-fire-ri-1849706684)
-- [Dev.to/JS] [Is Tailwind CSS Accessible?](https://dev.to/devsatasurion/is-tailwind-css-accessible-52dc)
 - [Lifehacker] [14 Ways to Get Weird With Cranberries](https://lifehacker.com/14-ways-to-get-weird-with-cranberries-1849706421)
-- [Dev.to/JS] [Building an Object Schema Validator From Scratch](https://dev.to/kalashin1/building-a-object-schema-validator-from-scratch-1n0k)
 - [Lifehacker] [How to Bypass Doordash&#39;s Automated System to Talk With a Real Person](https://lifehacker.com/how-to-bypass-doordashs-automated-system-to-talk-with-a-1849707119)
 - [Lifehacker] [Make Easy, Free Halloween Decorations With Things You Already Own](https://lifehacker.com/make-easy-free-halloween-decorations-with-things-you-a-1849706591)
 - [Lifehacker] [10 of the Worst Theme Park Accidents In History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-worst-theme-park-accidents-in-history-and-wh-1849708098)
