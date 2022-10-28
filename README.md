@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-36k6)
+- [Dev.to/JS] [How to Simplify React Apps with React Hooks](https://dev.to/nothanii/how-to-simplify-react-apps-with-react-hooks-2h24)
 - [Dev.to/JS] [JavaScript Compiler theory and how it relates to scope](https://dev.to/geomukkath/javascript-compiler-theory-and-how-it-relates-to-scope-2ip4)
 - [Dev.to/JS] [How to Google Search from the terminal?](https://dev.to/dhairyashah/how-to-google-search-from-the-terminal-4h06)
 - [Dev.to/JS] [BlogHunch | Made with Nuxt JS](https://dev.to/madewithjavascript/bloghunch-made-with-nuxt-js-1p9i)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
 - [Dev.to/JS] [High-code vs. Low-code vs. No-code | Which is right for your web project?](https://dev.to/richkurtzman/high-code-vs-low-code-vs-no-code-which-is-right-for-your-web-project-5d48)
 - [Lifehacker] [You Don&#39;t Have to Ruin Your Clothes for Halloween](https://lifehacker.com/you-dont-have-to-ruin-your-clothes-for-halloween-1849710200)
-- [Dev.to/JS] [Medusa Hackathon Winner Announcement](https://dev.to/medusajs/medusa-hackathon-winner-announcement-41h)
 - [Lifehacker] [Hidden Xbox Settings You Should Change to Up Your Game](https://lifehacker.com/hidden-xbox-settings-you-should-change-to-up-your-game-1849709275)
-- [Dev.to/JS] [#ThisMonthInSWA - October 2022](https://dev.to/azure/thismonthinswa-october-2022-18gn)
 - [Lifehacker] [How to Introduce Yourself to a Dog, According to Cesar Millan](https://lifehacker.com/how-to-introduce-yourself-to-a-dog-according-to-cesar-1849709628)
 - [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)
 - [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)
