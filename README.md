@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chrome Extensions of the Month - October 2022](https://dev.to/j471n/chrome-extensions-of-the-month-october-2022-1c0j)
 - [Dev.to/JS] [Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-36k6)
 - [Dev.to/JS] [How to Simplify React Apps with React Hooks](https://dev.to/nothanii/how-to-simplify-react-apps-with-react-hooks-2h24)
 - [Dev.to/JS] [JavaScript Compiler theory and how it relates to scope](https://dev.to/geomukkath/javascript-compiler-theory-and-how-it-relates-to-scope-2ip4)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to scrape LinkedIn profiles from Google?](https://dev.to/darshan0_1/how-to-scrape-linkedin-profiles-from-google-1b0a)
 - [Dev.to/JS] [Ternary Operator](https://dev.to/mikefazekas/ternary-operator-26fd)
 - [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
-- [Dev.to/JS] [High-code vs. Low-code vs. No-code | Which is right for your web project?](https://dev.to/richkurtzman/high-code-vs-low-code-vs-no-code-which-is-right-for-your-web-project-5d48)
 - [Lifehacker] [You Don&#39;t Have to Ruin Your Clothes for Halloween](https://lifehacker.com/you-dont-have-to-ruin-your-clothes-for-halloween-1849710200)
 - [Lifehacker] [Hidden Xbox Settings You Should Change to Up Your Game](https://lifehacker.com/hidden-xbox-settings-you-should-change-to-up-your-game-1849709275)
 - [Lifehacker] [How to Introduce Yourself to a Dog, According to Cesar Millan](https://lifehacker.com/how-to-introduce-yourself-to-a-dog-according-to-cesar-1849709628)
