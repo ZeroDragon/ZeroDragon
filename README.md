@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Uprise | Made with Gatsby JS](https://dev.to/madewithjavascript/uprise-made-with-gatsby-js-399)
+- [Dev.to/JS] [Transpose of a matrix](https://dev.to/alvesjessica/transpose-of-a-matrix-1f5k)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
 - [Dev.to/JS] [Astro Build like an Astronauts!](https://dev.to/coderyeasin/asto-build-liken-an-astronauts-284a)
 - [Lifehacker] [What&#39;s New on Paramount+ in November 2022](https://lifehacker.com/whats-new-on-paramount-in-november-2022-1849716404)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Beginning](https://dev.to/ankitbhusal/typescript-beginning-3pf8)
 - [Dev.to/JS] [Flatiron Phase-2 &lpar;Fetching In React&rpar;](https://dev.to/sunnytherobot/flatiron-phase-2-456i)
 - [Lifehacker] [10 of the Best Places to Travel in November](https://lifehacker.com/10-of-the-best-places-to-travel-in-november-1849701770)
-- [Dev.to/JS] [Day34 of #100DaysOfCode](https://dev.to/yoot/day34-of-100daysofcode-1ljg)
-- [Dev.to/JS] [Demystifying machine learning via Bluetooth with Arduino](https://dev.to/stripe/demystifying-machine-learning-via-bluetooth-with-arduino-3j90)
 - [Lifehacker] [12 Podcasts to Listen to in the Dark, Ranked by Scariness](https://lifehacker.com/12-podcasts-to-listen-to-in-the-dark-ranked-by-scarine-1849695861)
 - [Lifehacker] [Your Candy Needs Some Spice](https://lifehacker.com/your-candy-needs-some-spice-1849713201)
 - [Lifehacker] [Never Do These Things in a Hardware Store](https://lifehacker.com/never-do-these-things-in-a-hardware-store-1849713338)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)
 - [Lifehacker] [The Fastest Ways to Compress Video on iPhone and Android](https://lifehacker.com/the-fastest-ways-to-compress-video-on-iphone-and-androi-1849523806)
 - [Lifehacker] [10 New Google Docs Features Worth Trying Out](https://lifehacker.com/10-new-google-docs-features-worth-trying-out-1849708472)
-- [Lifehacker] [Park These Recalled Kia SUVs Outside Because of Fire Risk](https://lifehacker.com/park-these-recalled-kia-suvs-outside-because-of-fire-ri-1849706684)
-- [Lifehacker] [14 Ways to Get Weird With Cranberries](https://lifehacker.com/14-ways-to-get-weird-with-cranberries-1849706421)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Park These Recalled Kia SUVs Outside Because of Fire Risk](https://lifehacker.com/park-these-recalled-kia-suvs-outside-because-of-fire-ri-1849706684)<!-- TECH-POSTS:END -->
 
 ---
 
