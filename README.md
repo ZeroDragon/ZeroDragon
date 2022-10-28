@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Crypto Exchange Trading Platform with Tradexpro Exchange](https://dev.to/itechthemeg/building-a-crypto-exchange-trading-platform-with-tradexpro-exchange-48n7)
+- [Dev.to/JS] [Stranger Scripts](https://dev.to/robertinoc_dev/stranger-scripts-4gme)
+- [Dev.to/JS] [Currying in JavaScript](https://dev.to/vedanthb/currying-in-javascript-53nl)
+- [Lifehacker] [20 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/20-of-the-most-over-the-top-action-movies-ever-made-1849704085)
+- [Dev.to/JS] [A Complete Guide to Modern Waves](https://dev.to/patilganesh1010/a-complete-guide-to-modern-waves-n9n)
+- [Dev.to/JS] [Auto-Publish Your Test Coverage Report on GitHub Pages](https://dev.to/mbarzeev/auto-publish-your-test-coverage-report-on-github-pages-35be)
 - [Dev.to/JS] [Creating Mobile Firendly Radio Buttons](https://dev.to/samwtf1214/creating-mobile-firendly-radio-buttons-4aop)
 - [Dev.to/JS] [the new next is here](https://dev.to/byt3h3ad/the-new-next-is-here-h38)
 - [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)
@@ -32,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Hire React.js Developers](https://dev.to/dhavals32773572/how-to-hire-reactjs-developers-5444)
 - [Dev.to/JS] [Creating Crazy Radio Buttons](https://dev.to/samwtf1214/creating-crazy-radio-buttons-j1n)
 - [Dev.to/JS] [Authenticate a Nuxt.js App Using a Magic URL and Mailgun](https://dev.to/hackmamba/authenticate-a-nuxtjs-app-using-a-magic-url-and-mailgun-fim)
-- [Dev.to/JS] [Movie Loft - A Movie DB API Client](https://dev.to/shinjithdev/movie-loft-a-movie-database-api-client-3170)
-- [Dev.to/JS] [Creating an Animated Switcher](https://dev.to/samwtf1214/creating-an-animated-switcher-1892)
-- [Dev.to/JS] [Creating a Hearty Radio Button](https://dev.to/samwtf1214/creating-a-hearty-radio-button-1i78)
-- [Dev.to/JS] [Creating a Soft Radio Group Button](https://dev.to/samwtf1214/creating-a-soft-radio-group-button-3207)
-- [Dev.to/JS] [Developing Ordinary Radio Buttons](https://dev.to/samwtf1214/developing-ordinary-radio-buttons-2jbh)
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
 - [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
 - [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take a Hand Mixer to Your Jack-o&#39;-Lantern](https://lifehacker.com/take-a-hand-mixer-to-your-jack-o-lantern-1849706085)
 - [Lifehacker] [Rain Doesn&#39;t Have to Make Trick-or-Treating Miserable](https://lifehacker.com/rain-doesnt-have-to-make-trick-or-treating-miserable-1849705299)
 - [Lifehacker] [‘Quantum Leap’ Star Ernie Hudson On Making a Family Show](https://lifehacker.com/quantum-leap-star-ernie-hudson-on-making-a-family-sho-1849705983)
-- [Lifehacker] [Change These Microsoft Edge Settings to Make It an Even Better Browser](https://lifehacker.com/change-these-microsoft-edge-settings-to-make-it-an-even-1849705168)
-- [Lifehacker] [14 of the Worst Human Parasites That Exist &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/14-of-the-worst-human-parasites-that-exist-and-how-to-1849700930)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Change These Microsoft Edge Settings to Make It an Even Better Browser](https://lifehacker.com/change-these-microsoft-edge-settings-to-make-it-an-even-1849705168)<!-- TECH-POSTS:END -->
 
 ---
 
