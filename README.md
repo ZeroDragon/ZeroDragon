@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Clean Your TV Without Damaging It](https://lifehacker.com/how-to-clean-your-tv-without-damaging-it-1849715350)
+- [Dev.to/JS] [Subir backend NodeJS a AWS - EC2](https://dev.to/agustinaguilera/subir-backend-nodejs-a-aws-ec2-4nd5)
+- [Lifehacker] [Why Other Devices Put Your Laptop to Sleep](https://lifehacker.com/why-other-devices-put-your-laptop-to-sleep-1849715303)
+- [Dev.to/JS] [Matrix-engine [1.8.4]](https://dev.to/zlatnaspirala/matrix-engine-184-421f)
+- [Dev.to/JS] [If Julia works better than Python, Why are we all learning Python?](https://dev.to/ntemkenyor/if-julia-works-better-than-python-why-are-we-all-learning-python-30o0)
 - [Lifehacker] [The Way You Store Cups and Glasses &lpar;Almost&rpar; Never Matters, Actually](https://lifehacker.com/the-way-you-store-cups-and-glasses-almost-never-matte-1849715335)
 - [Lifehacker] [Finish Everything With Breadcrumbs](https://lifehacker.com/finish-everything-with-breadcrumbs-1849715164)
 - [Dev.to/JS] [TypeScript Beginning](https://dev.to/ankitbhusal/typescript-beginning-3pf8)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Do These Things in a Hardware Store](https://lifehacker.com/never-do-these-things-in-a-hardware-store-1849713338)
 - [Dev.to/JS] [Building highly resilient applications with on-premises interdependencies using AWS Local Zones](https://dev.to/abhishe89636035/building-highly-resilient-applications-with-on-premises-interdependencies-using-aws-local-zones-2fbb)
 - [Dev.to/JS] [Node.JS and Cache with REDIS](https://dev.to/gvt3ch/nodejs-and-cache-with-redis-91o)
-- [Dev.to/JS] [The brand new Logto website: new design, new content, new subscription, along with our SaaS info](https://dev.to/gaosun/the-brand-new-logto-websitenew-design-new-content-newsubscription-along-with-our-saas-info-49m3)
-- [Dev.to/JS] [Database in JavaScript &lpar;Local Storage&rpar;](https://dev.to/jps27cse/database-in-javascript-local-storage-14ki)
-- [Dev.to/JS] [Building a Crypto Exchange Trading Platform with Tradexpro Exchange](https://dev.to/itechthemeg/building-a-crypto-exchange-trading-platform-with-tradexpro-exchange-48n7)
 - [Lifehacker] [20 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/20-of-the-most-over-the-top-action-movies-ever-made-1849704085)
 - [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)
 - [Lifehacker] [How to Choose the Right Breed of Dog for You, According to Cesar Millan](https://lifehacker.com/how-to-choose-the-right-breed-of-dog-for-you-according-1849711261)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Bypass Doordash&#39;s Automated System to Talk With a Real Person](https://lifehacker.com/how-to-bypass-doordashs-automated-system-to-talk-with-a-1849707119)
 - [Lifehacker] [Make Easy, Free Halloween Decorations With Things You Already Own](https://lifehacker.com/make-easy-free-halloween-decorations-with-things-you-a-1849706591)
 - [Lifehacker] [10 of the Worst Theme Park Accidents In History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-worst-theme-park-accidents-in-history-and-wh-1849708098)
-- [Lifehacker] [Siri Will Tell Your &#39;Invisible Ink&#39; Secrets](https://lifehacker.com/siri-will-tell-your-invisible-ink-secrets-1849705743)
-- [Lifehacker] [Yes, Mosquitoes Really Do Like Some People More](https://lifehacker.com/yes-mosquitoes-really-do-like-some-people-more-1849706546)
-- [Lifehacker] [Hackers and Bad Actors Are Weaponizing Your Typos](https://lifehacker.com/hackers-and-bad-actors-are-weaponizing-your-typos-1849706716)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Siri Will Tell Your &#39;Invisible Ink&#39; Secrets](https://lifehacker.com/siri-will-tell-your-invisible-ink-secrets-1849705743)<!-- TECH-POSTS:END -->
 
 ---
 
