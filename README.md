@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React FlatifyCSS: the flat design React component library is finally stable](https://dev.to/amir2mi/react-flatifycss-the-flat-design-react-component-library-is-finally-stable-pe4)
+- [Dev.to/JS] [How I made my first successful open-source project](https://dev.to/csandman/how-i-made-my-first-successful-open-source-project-3moo)
+- [Dev.to/JS] [Titanium News #12](https://dev.to/miga/titanium-news-12-1i3c)
+- [Dev.to/JS] [Permission Error - Discord.js](https://dev.to/enderbombz/permission-error-discordjs-5n2)
 - [Dev.to/JS] [Uprise | Made with Gatsby JS](https://dev.to/madewithjavascript/uprise-made-with-gatsby-js-399)
 - [Dev.to/JS] [Transpose of a matrix](https://dev.to/alvesjessica/transpose-of-a-matrix-1f5k)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
@@ -38,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Your TV Without Damaging It](https://lifehacker.com/how-to-clean-your-tv-without-damaging-it-1849715350)
 - [Dev.to/JS] [Subir backend NodeJS a AWS - EC2](https://dev.to/agustinaguilera/subir-backend-nodejs-a-aws-ec2-4nd5)
 - [Lifehacker] [Why Other Devices Put Your Laptop to Sleep](https://lifehacker.com/why-other-devices-put-your-laptop-to-sleep-1849715303)
-- [Dev.to/JS] [Matrix-engine [1.8.4]](https://dev.to/zlatnaspirala/matrix-engine-184-421f)
-- [Dev.to/JS] [If Julia works better than Python, Why are we all learning Python?](https://dev.to/ntemkenyor/if-julia-works-better-than-python-why-are-we-all-learning-python-30o0)
 - [Lifehacker] [The Way You Store Cups and Glasses &lpar;Almost&rpar; Never Matters, Actually](https://lifehacker.com/the-way-you-store-cups-and-glasses-almost-never-matte-1849715335)
 - [Lifehacker] [Finish Everything With Breadcrumbs](https://lifehacker.com/finish-everything-with-breadcrumbs-1849715164)
-- [Dev.to/JS] [TypeScript Beginning](https://dev.to/ankitbhusal/typescript-beginning-3pf8)
-- [Dev.to/JS] [Flatiron Phase-2 &lpar;Fetching In React&rpar;](https://dev.to/sunnytherobot/flatiron-phase-2-456i)
 - [Lifehacker] [10 of the Best Places to Travel in November](https://lifehacker.com/10-of-the-best-places-to-travel-in-november-1849701770)
 - [Lifehacker] [12 Podcasts to Listen to in the Dark, Ranked by Scariness](https://lifehacker.com/12-podcasts-to-listen-to-in-the-dark-ranked-by-scarine-1849695861)
 - [Lifehacker] [Your Candy Needs Some Spice](https://lifehacker.com/your-candy-needs-some-spice-1849713201)
