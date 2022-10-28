@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Mobile Firendly Radio Buttons](https://dev.to/samwtf1214/creating-mobile-firendly-radio-buttons-4aop)
+- [Dev.to/JS] [the new next is here](https://dev.to/byt3h3ad/the-new-next-is-here-h38)
+- [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)
+- [Lifehacker] [How to Choose the Right Breed of Dog for You, According to Cesar Millan](https://lifehacker.com/how-to-choose-the-right-breed-of-dog-for-you-according-1849711261)
+- [Dev.to/JS] [Creating Deep Animation Radio Buttons](https://dev.to/samwtf1214/creating-deep-animation-radio-buttons-58bc)
+- [Dev.to/JS] [Let’s understand map, filter and reduce by writing polyfills for them.](https://dev.to/vedanthb/lets-understand-map-filter-and-reduce-by-writing-polyfills-for-them-1hm)
+- [Dev.to/JS] [How to Hire React.js Developers](https://dev.to/dhavals32773572/how-to-hire-reactjs-developers-5444)
+- [Dev.to/JS] [Creating Crazy Radio Buttons](https://dev.to/samwtf1214/creating-crazy-radio-buttons-j1n)
+- [Dev.to/JS] [Authenticate a Nuxt.js App Using a Magic URL and Mailgun](https://dev.to/hackmamba/authenticate-a-nuxtjs-app-using-a-magic-url-and-mailgun-fim)
+- [Dev.to/JS] [Movie Loft - A Movie DB API Client](https://dev.to/shinjithdev/movie-loft-a-movie-database-api-client-3170)
+- [Dev.to/JS] [Creating an Animated Switcher](https://dev.to/samwtf1214/creating-an-animated-switcher-1892)
+- [Dev.to/JS] [Creating a Hearty Radio Button](https://dev.to/samwtf1214/creating-a-hearty-radio-button-1i78)
 - [Dev.to/JS] [Creating a Soft Radio Group Button](https://dev.to/samwtf1214/creating-a-soft-radio-group-button-3207)
 - [Dev.to/JS] [Developing Ordinary Radio Buttons](https://dev.to/samwtf1214/developing-ordinary-radio-buttons-2jbh)
-- [Dev.to/JS] [Top 10 trending github repos of the week💚.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-34j5)
-- [Dev.to/JS] [React: understanding useReducer&lpar;&rpar; &amp; custom hooks](https://dev.to/manuartero/react-understanding-usereducer-custom-hooks-1ma8)
-- [Dev.to/JS] [React &amp; REST APIs: End-To-End TypeScript Based On OpenAPI Docs](https://dev.to/jkettmann/react-rest-apis-end-to-end-typescript-based-on-openapi-docs-45ff)
-- [Dev.to/JS] [Creating an Animated Vertical Group Radio Buttons](https://dev.to/msa123free/creating-an-animated-vertical-group-radio-buttons-3183)
-- [Dev.to/JS] [Creating a Grouped Radio Buttons](https://dev.to/msa123free/creating-a-grouped-radio-buttons-1cjd)
-- [Dev.to/JS] [What is PRINCE2?](https://dev.to/postwell45/what-is-prince2-2ai)
-- [Dev.to/JS] [Advanced search dropdown](https://dev.to/andyobrien123/advanced-search-dropdown-1884)
-- [Dev.to/JS] [Creating Pill Type Radio Button](https://dev.to/msa123free/creating-pill-type-radio-button-474m)
-- [Dev.to/JS] [Creating Cool Radio Button Animation](https://dev.to/msa123free/creating-cool-radio-button-animation-2j7d)
-- [Dev.to/JS] [How we automated license checking for our Python &amp; JS dependencies](https://dev.to/meetkern/how-we-automated-license-checking-for-our-python-js-dependencies-5900)
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
 - [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
 - [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Rain Doesn&#39;t Have to Make Trick-or-Treating Miserable](https://lifehacker.com/rain-doesnt-have-to-make-trick-or-treating-miserable-1849705299)
 - [Lifehacker] [‘Quantum Leap’ Star Ernie Hudson On Making a Family Show](https://lifehacker.com/quantum-leap-star-ernie-hudson-on-making-a-family-sho-1849705983)
 - [Lifehacker] [Change These Microsoft Edge Settings to Make It an Even Better Browser](https://lifehacker.com/change-these-microsoft-edge-settings-to-make-it-an-even-1849705168)
-- [Lifehacker] [14 of the Worst Human Parasites That Exist &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/14-of-the-worst-human-parasites-that-exist-and-how-to-1849700930)
-- [Lifehacker] [Get &#39;Fallout 3&#39; for Free While You Can](https://lifehacker.com/get-fallout-3-for-free-while-you-can-1849705583)
-- [Lifehacker] [7 Shrubs to Plant Now so They Bloom in the Spring](https://lifehacker.com/7-shrubs-to-plant-now-so-they-bloom-in-the-spring-1849703342)<!-- TECH-POSTS:END -->
+- [Lifehacker] [14 of the Worst Human Parasites That Exist &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/14-of-the-worst-human-parasites-that-exist-and-how-to-1849700930)<!-- TECH-POSTS:END -->
 
 ---
 
