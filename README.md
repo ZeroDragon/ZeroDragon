@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A SymfonyCon Disneyland Paris 2022 preview: 2 workshops and 9 compelling sessions to eagerly anticipate](https://dev.to/reubenwalker64/a-symfonycon-disneyland-paris-2022-preview-2-workshops-and-9-compelling-sessions-to-eagerly-anticipate-2dbd)
+- [Dev.to/JS] [How To Make a Food Delivery Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-food-delivery-website-using-html-css-javascript-4ne3)
+- [Dev.to/JS] [3 Free Resources to Learn React in 2022](https://dev.to/sidjs/3-free-resources-to-learn-react-in-2022-3eji)
+- [Dev.to/JS] [How can I use pagination next page with Github API?](https://dev.to/wonuola_w/how-can-i-use-pagination-next-page-with-github-api-4n1c)
+- [Dev.to/JS] [How can I use Error Boundaries in React router?](https://dev.to/wonuola_w/how-can-i-use-error-boundaries-in-react-router-54lg)
 - [Dev.to/JS] [setTimeout&lpar;&rpar;,setInterval&lpar;&rpar; and clearTimeout&lpar;&rpar; in JavaScript](https://dev.to/mrityunjaypalled/settimeoutsetinterval-and-cleartimeout-in-javascript-4p38)
 - [Dev.to/JS] [Day 1 of #100daysofcode](https://dev.to/mukhtar143/day-1-of-100daysofcode-4a8f)
 - [Dev.to/JS] [White label Crypto Exchange Software](https://dev.to/mgaaron/white-label-crypto-exchange-software-184j)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Reasons why your website is slow and it&#39;s takeaway.](https://dev.to/tazim404/10-reasons-why-your-website-is-slow-and-its-takeaway-heb)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;29-10-2022&rpar; - Captain Elon](https://dev.to/mjgs/this-weeks-newsletter-is-out-29-10-2022-captain-elon-36fc)
 - [Dev.to/JS] [瀏覽器上的儲存空間：Cookie](https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-cookie-2kn3)
-- [Dev.to/JS] [My first decent open-source project! 🎉 Isomera, the headless CMS for business representative websites](https://dev.to/vygandas/my-first-decent-open-source-project-isomera-the-headless-cms-for-business-representative-websites-1c80)
-- [Dev.to/JS] [Refactoring my SSG](https://dev.to/aparris21/refactoring-my-ssg-41il)
-- [Dev.to/JS] [I built my own Tweet scheduler which costs less than 1$ per month](https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd)
-- [Dev.to/JS] [Best Implementation for Form Fields in ReactJS](https://dev.to/catur/best-implementation-for-form-fields-in-reactjs-3mhf)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
-- [Dev.to/JS] [Django and React Chat App: part-1](https://dev.to/mousaaboubaker/django-and-react-chat-app-part-1-4k05)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
 - [Lifehacker] [What&#39;s New on Paramount+ in November 2022](https://lifehacker.com/whats-new-on-paramount-in-november-2022-1849716404)
