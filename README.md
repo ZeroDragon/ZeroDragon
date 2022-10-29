@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
 - [Dev.to/JS] [Django and React Chat App: part-1](https://dev.to/mousaaboubaker/django-and-react-chat-app-part-1-4k05)
 - [Dev.to/JS] [JavaScript Event Listeners](https://dev.to/m_shkreli21/javascript-event-listeners-3h41)
 - [Dev.to/JS] [React FlatifyCSS: the flat design React component library is finally stable](https://dev.to/amir2mi/react-flatifycss-the-flat-design-react-component-library-is-finally-stable-pe4)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)
 - [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)
 - [Lifehacker] [The Fastest Ways to Compress Video on iPhone and Android](https://lifehacker.com/the-fastest-ways-to-compress-video-on-iphone-and-androi-1849523806)
-- [Lifehacker] [10 New Google Docs Features Worth Trying Out](https://lifehacker.com/10-new-google-docs-features-worth-trying-out-1849708472)
-- [Lifehacker] [Park These Recalled Kia SUVs Outside Because of Fire Risk](https://lifehacker.com/park-these-recalled-kia-suvs-outside-because-of-fire-ri-1849706684)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 New Google Docs Features Worth Trying Out](https://lifehacker.com/10-new-google-docs-features-worth-trying-out-1849708472)<!-- TECH-POSTS:END -->
 
 ---
 
