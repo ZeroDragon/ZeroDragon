@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
+- [Dev.to/JS] [TypeScript all-in-one: Monorepo with its pains and gains](https://dev.to/gaosun/typescript-all-in-one-monorepo-with-its-pains-and-gains-4ne8)
+- [Dev.to/JS] [Code Smell 174 - Class Name in Attributes](https://dev.to/mcsee/code-smell-174-class-name-in-attributes-55c)
 - [Dev.to/JS] [Add types to your JavaScript Lambda functions](https://dev.to/aws-builders/add-types-to-your-javascript-lambda-functions-3pgn)
 - [Dev.to/JS] [Clone Object](https://dev.to/mattiarollo/clone-object-5583)
 - [Dev.to/JS] [How to Integrate Pay with Crypto Payment Checkout with Lazerpay](https://dev.to/koha/how-to-integrate-pay-with-crypto-payment-checkout-with-lazerpay-343a)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Free Resources to Learn React in 2022](https://dev.to/sidjs/3-free-resources-to-learn-react-in-2022-3eji)
 - [Dev.to/JS] [How can I use pagination next page with Github API?](https://dev.to/wonuola_w/how-can-i-use-pagination-next-page-with-github-api-4n1c)
 - [Dev.to/JS] [How can I use Error Boundaries in React router?](https://dev.to/wonuola_w/how-can-i-use-error-boundaries-in-react-router-54lg)
-- [Dev.to/JS] [setTimeout&lpar;&rpar;,setInterval&lpar;&rpar; and clearTimeout&lpar;&rpar; in JavaScript](https://dev.to/mrityunjaypalled/settimeoutsetinterval-and-cleartimeout-in-javascript-4p38)
-- [Dev.to/JS] [Day 1 of #100daysofcode](https://dev.to/mukhtar143/day-1-of-100daysofcode-4a8f)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Have to Ruin Your Clothes for Halloween](https://lifehacker.com/you-dont-have-to-ruin-your-clothes-for-halloween-1849710200)
 - [Lifehacker] [Hidden Xbox Settings You Should Change to Up Your Game](https://lifehacker.com/hidden-xbox-settings-you-should-change-to-up-your-game-1849709275)
 - [Lifehacker] [How to Introduce Yourself to a Dog, According to Cesar Millan](https://lifehacker.com/how-to-introduce-yourself-to-a-dog-according-to-cesar-1849709628)
-- [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)
-- [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)<!-- TECH-POSTS:END -->
 
 ---
 
