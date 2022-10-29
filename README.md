@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Selectable bar chart - amCharts4](https://dev.to/dima000/selectable-bar-chart-amcharts4-2ilo)
 - [Dev.to/JS] [10 Reasons why your website is slow and it&#39;s takeaway.](https://dev.to/tazim404/10-reasons-why-your-website-is-slow-and-its-takeaway-heb)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;29-10-2022&rpar; - Captain Elon](https://dev.to/mjgs/this-weeks-newsletter-is-out-29-10-2022-captain-elon-36fc)
 - [Dev.to/JS] [瀏覽器上的儲存空間：Cookie](https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-cookie-2kn3)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Event Listeners](https://dev.to/m_shkreli21/javascript-event-listeners-3h41)
 - [Dev.to/JS] [React FlatifyCSS: the flat design React component library is finally stable](https://dev.to/amir2mi/react-flatifycss-the-flat-design-react-component-library-is-finally-stable-pe4)
 - [Dev.to/JS] [How I made my first successful open-source project](https://dev.to/csandman/how-i-made-my-first-successful-open-source-project-3moo)
-- [Dev.to/JS] [Titanium News #12](https://dev.to/miga/titanium-news-12-1i3c)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
 - [Lifehacker] [What&#39;s New on Paramount+ in November 2022](https://lifehacker.com/whats-new-on-paramount-in-november-2022-1849716404)
