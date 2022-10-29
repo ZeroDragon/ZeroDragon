@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [OSD600 Lab8](https://dev.to/dadolhay/osd600-lab8-2dfp)
+- [Dev.to/JS] [Navbar with background blur! Aesthetic look in 2 lines of code .](https://dev.to/shrihari/navbar-with-background-blur-aesthetic-look-in-2-lines-of-code--4kp6)
+- [Dev.to/JS] [Angular Addicts Issue #6: ng-conf 2022, NgRx best practices, Application architecture tips &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-6-ng-conf-2022-ngrx-best-practices-application-architecture-tips-more-39a0)
+- [Dev.to/JS] [Logto x Hasura: How to use open-source auth + GraphQL solution to boost your project](https://dev.to/gaosun/logto-x-hasura-how-to-use-open-source-auth-graphql-solution-to-boost-your-project-4pgm)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Dev.to/JS] [TypeScript all-in-one: Monorepo with its pains and gains](https://dev.to/gaosun/typescript-all-in-one-monorepo-with-its-pains-and-gains-4ne8)
 - [Dev.to/JS] [Code Smell 174 - Class Name in Attributes](https://dev.to/mcsee/code-smell-174-class-name-in-attributes-55c)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.test.js🧪| #8: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-8-testea-este-codigo-javascript-221a)
 - [Dev.to/JS] [Exipure - Shocking Results, Price, Pros, Cons, Scam Or Legit?](https://dev.to/exipurefacts/exipure-shocking-results-price-pros-cons-scam-or-legit-i44)
 - [Dev.to/JS] [A SymfonyCon Disneyland Paris 2022 preview: 2 workshops and 9 compelling sessions to eagerly anticipate](https://dev.to/reubenwalker64/a-symfonycon-disneyland-paris-2022-preview-2-workshops-and-9-compelling-sessions-to-eagerly-anticipate-2dbd)
-- [Dev.to/JS] [How To Make a Food Delivery Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-food-delivery-website-using-html-css-javascript-4ne3)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
-- [Dev.to/JS] [3 Free Resources to Learn React in 2022](https://dev.to/sidjs/3-free-resources-to-learn-react-in-2022-3eji)
-- [Dev.to/JS] [How can I use pagination next page with Github API?](https://dev.to/wonuola_w/how-can-i-use-pagination-next-page-with-github-api-4n1c)
-- [Dev.to/JS] [How can I use Error Boundaries in React router?](https://dev.to/wonuola_w/how-can-i-use-error-boundaries-in-react-router-54lg)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
