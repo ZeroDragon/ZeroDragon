@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clone Objects](https://dev.to/mattiarollo/clone-objects-2l5a)
+- [Dev.to/JS] [Initial konva-svelte public pre-release](https://dev.to/projektorius96/initial-konva-svelte-public-pre-release-3mfa)
+- [Dev.to/JS] [VueJs Beginners part 2 - Methods](https://dev.to/hshoja/vuejs-beginners-part-2-methods-1g7g)
 - [Dev.to/JS] [JSON VS CBOR &lpar;Javascript&rpar;](https://dev.to/vipert/json-vs-cbor-javascript-2plh)
 - [Dev.to/JS] [10 Reasons to Become a Front-End Developer](https://dev.to/amrtcrypto/10-reasons-to-become-a-front-end-developer-53g4)
 - [Dev.to/JS] [JavaScript - Singly Linked List - push&lpar;&rpar; method](https://dev.to/hunorvadaszperhat/javascript-singly-linked-list-push-method-a4g)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Logto x Hasura: How to use open-source auth + GraphQL solution to boost your project](https://dev.to/gaosun/logto-x-hasura-how-to-use-open-source-auth-graphql-solution-to-boost-your-project-4pgm)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Dev.to/JS] [TypeScript all-in-one: Monorepo with its pains and gains](https://dev.to/gaosun/typescript-all-in-one-monorepo-with-its-pains-and-gains-4ne8)
-- [Dev.to/JS] [Code Smell 174 - Class Name in Attributes](https://dev.to/mcsee/code-smell-174-class-name-in-attributes-55c)
-- [Dev.to/JS] [Add types to your JavaScript Lambda functions](https://dev.to/aws-builders/add-types-to-your-javascript-lambda-functions-3pgn)
-- [Dev.to/JS] [Clone Object](https://dev.to/mattiarollo/clone-object-5583)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
