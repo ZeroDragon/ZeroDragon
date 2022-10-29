@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first decent open-source project! 🎉 Isomera, the headless CMS for business representative websites](https://dev.to/vygandas/my-first-decent-open-source-project-isomera-the-headless-cms-for-business-representative-websites-1c80)
+- [Dev.to/JS] [Refactoring my SSG](https://dev.to/aparris21/refactoring-my-ssg-41il)
+- [Dev.to/JS] [I built my own Tweet scheduler which costs less than 1$ per month](https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd)
 - [Dev.to/JS] [Best Implementation for Form Fields in ReactJS](https://dev.to/catur/best-implementation-for-form-fields-in-reactjs-3mhf)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
 - [Dev.to/JS] [Django and React Chat App: part-1](https://dev.to/mousaaboubaker/django-and-react-chat-app-part-1-4k05)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transpose of a matrix](https://dev.to/alvesjessica/transpose-of-a-matrix-1f5k)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
-- [Dev.to/JS] [Astro Build like an Astronauts!](https://dev.to/coderyeasin/asto-build-liken-an-astronauts-284a)
 - [Lifehacker] [What&#39;s New on Paramount+ in November 2022](https://lifehacker.com/whats-new-on-paramount-in-november-2022-1849716404)
-- [Dev.to/JS] [Type-Safe TypeScript with Type Narrowing](https://dev.to/this-is-learning/type-safe-typescript-with-type-narrowing-5930)
 - [Lifehacker] [Never Donate These Things to Thrift Stores](https://lifehacker.com/never-donate-these-things-to-thrift-stores-1849709359)
-- [Dev.to/JS] [🔴How to Make Simple interest calculator using React Hooks | For Beginners](https://dev.to/ziontutorial/how-to-make-simple-interest-calculator-using-react-hooks-for-beginners-1o5g)
 - [Lifehacker] [Three Ways to Cook Big Mushrooms so They Don&#39;t Get Mushy](https://lifehacker.com/three-ways-to-cook-big-mushrooms-so-they-dont-get-mushy-1849712680)
 - [Lifehacker] [How to Clean Your TV Without Damaging It](https://lifehacker.com/how-to-clean-your-tv-without-damaging-it-1849715350)
 - [Lifehacker] [Why Other Devices Put Your Laptop to Sleep](https://lifehacker.com/why-other-devices-put-your-laptop-to-sleep-1849715303)
