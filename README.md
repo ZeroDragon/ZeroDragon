@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [setTimeout&lpar;&rpar;,setInterval&lpar;&rpar; and clearTimeout&lpar;&rpar; in JavaScript](https://dev.to/mrityunjaypalled/settimeoutsetinterval-and-cleartimeout-in-javascript-4p38)
 - [Dev.to/JS] [Day 1 of #100daysofcode](https://dev.to/mukhtar143/day-1-of-100daysofcode-4a8f)
 - [Dev.to/JS] [White label Crypto Exchange Software](https://dev.to/mgaaron/white-label-crypto-exchange-software-184j)
 - [Dev.to/JS] [Selectable bar chart - amCharts4](https://dev.to/dima000/selectable-bar-chart-amcharts4-2ilo)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Implementation for Form Fields in ReactJS](https://dev.to/catur/best-implementation-for-form-fields-in-reactjs-3mhf)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
 - [Dev.to/JS] [Django and React Chat App: part-1](https://dev.to/mousaaboubaker/django-and-react-chat-app-part-1-4k05)
-- [Dev.to/JS] [JavaScript Event Listeners](https://dev.to/m_shkreli21/javascript-event-listeners-3h41)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
 - [Lifehacker] [What&#39;s New on Paramount+ in November 2022](https://lifehacker.com/whats-new-on-paramount-in-november-2022-1849716404)
