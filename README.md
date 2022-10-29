@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Reasons why your website is slow and it&#39;s takeaway.](https://dev.to/tazim404/10-reasons-why-your-website-is-slow-and-its-takeaway-heb)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;29-10-2022&rpar; - Captain Elon](https://dev.to/mjgs/this-weeks-newsletter-is-out-29-10-2022-captain-elon-36fc)
+- [Dev.to/JS] [瀏覽器上的儲存空間：Cookie](https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-cookie-2kn3)
 - [Dev.to/JS] [My first decent open-source project! 🎉 Isomera, the headless CMS for business representative websites](https://dev.to/vygandas/my-first-decent-open-source-project-isomera-the-headless-cms-for-business-representative-websites-1c80)
 - [Dev.to/JS] [Refactoring my SSG](https://dev.to/aparris21/refactoring-my-ssg-41il)
 - [Dev.to/JS] [I built my own Tweet scheduler which costs less than 1$ per month](https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React FlatifyCSS: the flat design React component library is finally stable](https://dev.to/amir2mi/react-flatifycss-the-flat-design-react-component-library-is-finally-stable-pe4)
 - [Dev.to/JS] [How I made my first successful open-source project](https://dev.to/csandman/how-i-made-my-first-successful-open-source-project-3moo)
 - [Dev.to/JS] [Titanium News #12](https://dev.to/miga/titanium-news-12-1i3c)
-- [Dev.to/JS] [Permission Error - Discord.js](https://dev.to/enderbombz/permission-error-discordjs-5n2)
-- [Dev.to/JS] [Uprise | Made with Gatsby JS](https://dev.to/madewithjavascript/uprise-made-with-gatsby-js-399)
-- [Dev.to/JS] [Transpose of a matrix](https://dev.to/alvesjessica/transpose-of-a-matrix-1f5k)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
 - [Lifehacker] [What&#39;s New on Paramount+ in November 2022](https://lifehacker.com/whats-new-on-paramount-in-november-2022-1849716404)
