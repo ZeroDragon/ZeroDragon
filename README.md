@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add types to your JavaScript Lambda functions](https://dev.to/aws-builders/add-types-to-your-javascript-lambda-functions-3pgn)
+- [Dev.to/JS] [Clone Object](https://dev.to/mattiarollo/clone-object-5583)
+- [Dev.to/JS] [How to Integrate Pay with Crypto Payment Checkout with Lazerpay](https://dev.to/koha/how-to-integrate-pay-with-crypto-payment-checkout-with-lazerpay-343a)
+- [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Dev.to/JS] [Paracetamol.test.js🧪| #8: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-8-testea-este-codigo-javascript-221a)
 - [Dev.to/JS] [Exipure - Shocking Results, Price, Pros, Cons, Scam Or Legit?](https://dev.to/exipurefacts/exipure-shocking-results-price-pros-cons-scam-or-legit-i44)
 - [Dev.to/JS] [A SymfonyCon Disneyland Paris 2022 preview: 2 workshops and 9 compelling sessions to eagerly anticipate](https://dev.to/reubenwalker64/a-symfonycon-disneyland-paris-2022-preview-2-workshops-and-9-compelling-sessions-to-eagerly-anticipate-2dbd)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How can I use Error Boundaries in React router?](https://dev.to/wonuola_w/how-can-i-use-error-boundaries-in-react-router-54lg)
 - [Dev.to/JS] [setTimeout&lpar;&rpar;,setInterval&lpar;&rpar; and clearTimeout&lpar;&rpar; in JavaScript](https://dev.to/mrityunjaypalled/settimeoutsetinterval-and-cleartimeout-in-javascript-4p38)
 - [Dev.to/JS] [Day 1 of #100daysofcode](https://dev.to/mukhtar143/day-1-of-100daysofcode-4a8f)
-- [Dev.to/JS] [White label Crypto Exchange Software](https://dev.to/mgaaron/white-label-crypto-exchange-software-184j)
-- [Dev.to/JS] [Selectable bar chart - amCharts4](https://dev.to/dima000/selectable-bar-chart-amcharts4-2ilo)
-- [Dev.to/JS] [10 Reasons why your website is slow and it&#39;s takeaway.](https://dev.to/tazim404/10-reasons-why-your-website-is-slow-and-its-takeaway-heb)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hidden Xbox Settings You Should Change to Up Your Game](https://lifehacker.com/hidden-xbox-settings-you-should-change-to-up-your-game-1849709275)
 - [Lifehacker] [How to Introduce Yourself to a Dog, According to Cesar Millan](https://lifehacker.com/how-to-introduce-yourself-to-a-dog-according-to-cesar-1849709628)
 - [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)
-- [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)
-- [Lifehacker] [The Fastest Ways to Compress Video on iPhone and Android](https://lifehacker.com/the-fastest-ways-to-compress-video-on-iphone-and-androi-1849523806)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Buy Series I Bonds Right Now](https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604)<!-- TECH-POSTS:END -->
 
 ---
 
