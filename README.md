@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Reasons to Become a Front-End Developer](https://dev.to/amrtcrypto/10-reasons-to-become-a-front-end-developer-53g4)
 - [Dev.to/JS] [JavaScript - Singly Linked List - push&lpar;&rpar; method](https://dev.to/hunorvadaszperhat/javascript-singly-linked-list-push-method-a4g)
 - [Dev.to/JS] [How to implement Server Side Rendering for Material UI&#39;s media queries in NextJs to avoid flash?](https://dev.to/rakshitnayak/how-to-implement-server-side-rendering-for-material-uis-media-queries-in-nextjs-to-avoid-flash-jpi)
 - [Dev.to/JS] [OSD600 Lab8](https://dev.to/dadolhay/osd600-lab8-2dfp)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clone Object](https://dev.to/mattiarollo/clone-object-5583)
 - [Dev.to/JS] [How to Integrate Pay with Crypto Payment Checkout with Lazerpay](https://dev.to/koha/how-to-integrate-pay-with-crypto-payment-checkout-with-lazerpay-343a)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
-- [Dev.to/JS] [Paracetamol.test.js🧪| #8: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-8-testea-este-codigo-javascript-221a)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
