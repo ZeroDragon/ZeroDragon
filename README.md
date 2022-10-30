@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Create an Excel file from another Excel file](https://dev.to/viktormorales/javascript-create-an-excel-file-from-another-excel-file-2441)
+- [Dev.to/JS] [Static analysis tools](https://dev.to/mnosov622/static-analysis-tools-3de0)
+- [Dev.to/JS] [Server Routing using Sinatra](https://dev.to/jhalfman/server-routing-using-sinatra-32i8)
 - [Dev.to/JS] [Intro to node and npm](https://dev.to/adderek/intro-to-node-and-npm-3apd)
 - [Dev.to/JS] [How To get Started with programming as a beginner.](https://dev.to/amolshelke2/how-to-get-started-with-programming-as-a-beginner-jko)
 - [Dev.to/JS] [Implementing JsConfig in react app](https://dev.to/adaobiezelioha/implementing-jsconfig-n5o)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the execution of callbacks and promises in JS](https://dev.to/prajwalr7/understanding-the-execution-of-callbacks-and-promises-in-js-gb4)
 - [Dev.to/JS] [Top 50+ Site to Hunt Your First Remote Developer Job](https://dev.to/avinashvagh/top-50-site-to-hunt-your-first-remote-developer-job-5ml)
 - [Dev.to/JS] [Hacktoberfest Summary](https://dev.to/mnosov622/hacktoberfest-summary-2nmb)
-- [Dev.to/JS] [JavaScript Classes - Modern JS](https://dev.to/moazamdev/javascript-classes-modern-js-1fe1)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
-- [Dev.to/JS] [Python Syntax vs JavaScript Syntax - Basic Level](https://dev.to/shijoshaji/python-syntax-vs-javascript-syntax-basic-level-54c4)
-- [Dev.to/JS] [Deploying an AdonisJS application to Fly.io](https://dev.to/alexisbouchez/deploying-an-adonisjs-application-to-flyio-1mc)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
 - [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)
