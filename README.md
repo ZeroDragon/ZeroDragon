@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a very simple State Machine with closures](https://dev.to/artydev/create-a-very-simple-state-machine-with-closures-27dk)
+- [Dev.to/JS] [How to learn Javascript in 5 steps](https://dev.to/justice_hub/how-to-learn-javascript-in-5-steps-4enk)
+- [Dev.to/JS] [how use dynamic condition is filtering in react js](https://dev.to/khalid7487/how-use-dynamic-condition-is-filtering-in-react-js-5907)
 - [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)
 - [Dev.to/JS] [Resize Character &quot;Hit&quot; Box](https://dev.to/omakeinu/resize-character-hit-box-4ffe)
 - [Dev.to/JS] [Awesome VS Code Extensions for Navigating Large Codebases](https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to load React from CDN](https://dev.to/yukikmt/how-to-load-react-from-cdn-lnm)
 - [Dev.to/JS] [7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎](https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5)
 - [Dev.to/JS] [Creating a Next.js project with Chakra-UI integration](https://dev.to/ethand91/creating-a-nextjs-project-with-chakra-ui-integration-469l)
-- [Dev.to/JS] [Gilded Rose Kata: Javascript/Jest](https://dev.to/rachelg/gilded-rose-kata-javascriptjest-3b2h)
-- [Dev.to/JS] [14 techniques to write Cleaner JavaScript code](https://dev.to/elias_15/14-techniques-to-write-cleaner-javascript-code-56a5)
-- [Dev.to/JS] [I Remade a Javascript App in Java Because Yes](https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
