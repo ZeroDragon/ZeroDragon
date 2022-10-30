@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python Syntax vs JavaScript Syntax - Basic Level](https://dev.to/shijoshaji/python-syntax-vs-javascript-syntax-basic-level-54c4)
+- [Dev.to/JS] [Deploying an AdonisJS application to Fly.io](https://dev.to/alexisbouchez/deploying-an-adonisjs-application-to-flyio-1mc)
+- [Dev.to/JS] [How to create fast, scalable group chat functionality with Pusher and Vue](https://dev.to/leighola/how-to-create-fast-scalable-group-chat-functionality-with-pusher-and-vue-4i1g)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Dev.to/JS] [How to make smooth progressive image loading in React js](https://dev.to/jacksonkasi/how-to-make-smooth-progressive-image-loading-in-react-js-25ac)
 - [Dev.to/JS] [Create a very simple State Machine with closures](https://dev.to/artydev/create-a-very-simple-state-machine-with-closures-27dk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My thoughts after trying to port a Shopify store from NextJS to Shopify Hydrogen](https://dev.to/jannikwempe/my-thoughts-after-trying-to-port-a-shopify-store-from-nextjs-to-shopify-hydrogen-ai4)
 - [Dev.to/JS] [How can I execute an event handler at most once?](https://dev.to/trinityyi/how-can-i-execute-an-event-handler-at-most-once-2imc)
 - [Dev.to/JS] [How to send Email with NodeJS in 2022](https://dev.to/vkassingh/how-to-send-email-with-nodejs-in-2022-1dd0)
-- [Dev.to/JS] [Vue.js on CDN](https://dev.to/yukikmt/vuejs-on-cdn-5839)
-- [Dev.to/JS] [How to load React from CDN](https://dev.to/yukikmt/how-to-load-react-from-cdn-lnm)
-- [Dev.to/JS] [7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎](https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
