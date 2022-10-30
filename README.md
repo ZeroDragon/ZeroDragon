@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)
+- [Dev.to/JS] [Resize Character &quot;Hit&quot; Box](https://dev.to/omakeinu/resize-character-hit-box-4ffe)
 - [Dev.to/JS] [Awesome VS Code Extensions for Navigating Large Codebases](https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n)
 - [Dev.to/JS] [My thoughts after trying to port a Shopify store from NextJS to Shopify Hydrogen](https://dev.to/jannikwempe/my-thoughts-after-trying-to-port-a-shopify-store-from-nextjs-to-shopify-hydrogen-ai4)
 - [Dev.to/JS] [How can I execute an event handler at most once?](https://dev.to/trinityyi/how-can-i-execute-an-event-handler-at-most-once-2imc)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gilded Rose Kata: Javascript/Jest](https://dev.to/rachelg/gilded-rose-kata-javascriptjest-3b2h)
 - [Dev.to/JS] [14 techniques to write Cleaner JavaScript code](https://dev.to/elias_15/14-techniques-to-write-cleaner-javascript-code-56a5)
 - [Dev.to/JS] [I Remade a Javascript App in Java Because Yes](https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0)
-- [Dev.to/JS] [Little About Node.js](https://dev.to/chamberezigbo/little-about-nodejs-1c66)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
 - [Lifehacker] [You Don&#39;t Have to Ruin Your Clothes for Halloween](https://lifehacker.com/you-dont-have-to-ruin-your-clothes-for-halloween-1849710200)
 - [Lifehacker] [Hidden Xbox Settings You Should Change to Up Your Game](https://lifehacker.com/hidden-xbox-settings-you-should-change-to-up-your-game-1849709275)
-- [Lifehacker] [How to Introduce Yourself to a Dog, According to Cesar Millan](https://lifehacker.com/how-to-introduce-yourself-to-a-dog-according-to-cesar-1849709628)
-- [Lifehacker] [Three Ways to Garnish Your Halloween Cocktails With Candy](https://lifehacker.com/three-ways-to-garnish-your-halloween-cocktails-with-can-1849709770)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Introduce Yourself to a Dog, According to Cesar Millan](https://lifehacker.com/how-to-introduce-yourself-to-a-dog-according-to-cesar-1849709628)<!-- TECH-POSTS:END -->
 
 ---
 
