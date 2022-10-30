@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My thoughts after trying to port a Shopify store from NextJS to Shopify Hydrogen](https://dev.to/jannikwempe/my-thoughts-after-trying-to-port-a-shopify-store-from-nextjs-to-shopify-hydrogen-ai4)
+- [Dev.to/JS] [How can I execute an event handler at most once?](https://dev.to/trinityyi/how-can-i-execute-an-event-handler-at-most-once-2imc)
 - [Dev.to/JS] [How to send Email with NodeJS in 2022](https://dev.to/vkassingh/how-to-send-email-with-nodejs-in-2022-1dd0)
 - [Dev.to/JS] [Vue.js on CDN](https://dev.to/yukikmt/vuejs-on-cdn-5839)
 - [Dev.to/JS] [How to load React from CDN](https://dev.to/yukikmt/how-to-load-react-from-cdn-lnm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Remade a Javascript App in Java Because Yes](https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0)
 - [Dev.to/JS] [Little About Node.js](https://dev.to/chamberezigbo/little-about-nodejs-1c66)
 - [Dev.to/JS] [OSD600 Lab10](https://dev.to/dadolhay/osd600-lab10-4pe)
-- [Dev.to/JS] [Clone Objects](https://dev.to/mattiarollo/clone-objects-2l5a)
-- [Dev.to/JS] [Initial konva-svelte public pre-release](https://dev.to/projektorius96/initial-konva-svelte-public-pre-release-3mfa)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
