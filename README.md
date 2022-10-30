@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hacktoberfest Summary](https://dev.to/mnosov622/hacktoberfest-summary-2nmb)
+- [Dev.to/JS] [JavaScript Classes - Modern JS](https://dev.to/moazamdev/javascript-classes-modern-js-1fe1)
+- [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Dev.to/JS] [Python Syntax vs JavaScript Syntax - Basic Level](https://dev.to/shijoshaji/python-syntax-vs-javascript-syntax-basic-level-54c4)
 - [Dev.to/JS] [Deploying an AdonisJS application to Fly.io](https://dev.to/alexisbouchez/deploying-an-adonisjs-application-to-flyio-1mc)
 - [Dev.to/JS] [How to create fast, scalable group chat functionality with Pusher and Vue](https://dev.to/leighola/how-to-create-fast-scalable-group-chat-functionality-with-pusher-and-vue-4i1g)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resize Character &quot;Hit&quot; Box](https://dev.to/omakeinu/resize-character-hit-box-4ffe)
 - [Dev.to/JS] [Awesome VS Code Extensions for Navigating Large Codebases](https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n)
 - [Dev.to/JS] [My thoughts after trying to port a Shopify store from NextJS to Shopify Hydrogen](https://dev.to/jannikwempe/my-thoughts-after-trying-to-port-a-shopify-store-from-nextjs-to-shopify-hydrogen-ai4)
-- [Dev.to/JS] [How can I execute an event handler at most once?](https://dev.to/trinityyi/how-can-i-execute-an-event-handler-at-most-once-2imc)
-- [Dev.to/JS] [How to send Email with NodeJS in 2022](https://dev.to/vkassingh/how-to-send-email-with-nodejs-in-2022-1dd0)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
 - [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
 - [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
-- [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
-- [Lifehacker] [You Don&#39;t Have to Ruin Your Clothes for Halloween](https://lifehacker.com/you-dont-have-to-ruin-your-clothes-for-halloween-1849710200)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)<!-- TECH-POSTS:END -->
 
 ---
 
