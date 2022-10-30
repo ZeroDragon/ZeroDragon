@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to node and npm](https://dev.to/adderek/intro-to-node-and-npm-3apd)
+- [Dev.to/JS] [How To get Started with programming as a beginner.](https://dev.to/amolshelke2/how-to-get-started-with-programming-as-a-beginner-jko)
+- [Dev.to/JS] [Implementing JsConfig in react app](https://dev.to/adaobiezelioha/implementing-jsconfig-n5o)
 - [Dev.to/JS] [Full Stuck Website using Only JavaScript](https://dev.to/bensarghin/full-stuck-website-using-only-javascript-2dke)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Introduction to Trees](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-introduction-to-trees-1ojb)
 - [Dev.to/JS] [10 Reasons to Become a Blockchain Developer](https://dev.to/amrtcrypto/10-reasons-to-become-a-blockchain-developer-105c)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Dev.to/JS] [Python Syntax vs JavaScript Syntax - Basic Level](https://dev.to/shijoshaji/python-syntax-vs-javascript-syntax-basic-level-54c4)
 - [Dev.to/JS] [Deploying an AdonisJS application to Fly.io](https://dev.to/alexisbouchez/deploying-an-adonisjs-application-to-flyio-1mc)
-- [Dev.to/JS] [How to create fast, scalable group chat functionality with Pusher and Vue](https://dev.to/leighola/how-to-create-fast-scalable-group-chat-functionality-with-pusher-and-vue-4i1g)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
-- [Dev.to/JS] [How to make smooth progressive image loading in React js](https://dev.to/jacksonkasi/how-to-make-smooth-progressive-image-loading-in-react-js-25ac)
-- [Dev.to/JS] [Create a very simple State Machine with closures](https://dev.to/artydev/create-a-very-simple-state-machine-with-closures-27dk)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
 - [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
