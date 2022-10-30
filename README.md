@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Full Stuck Website using Only JavaScript](https://dev.to/bensarghin/full-stuck-website-using-only-javascript-2dke)
+- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Introduction to Trees](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-introduction-to-trees-1ojb)
+- [Dev.to/JS] [10 Reasons to Become a Blockchain Developer](https://dev.to/amrtcrypto/10-reasons-to-become-a-blockchain-developer-105c)
+- [Dev.to/JS] [Understanding the execution of callbacks and promises in JS](https://dev.to/prajwalr7/understanding-the-execution-of-callbacks-and-promises-in-js-gb4)
+- [Dev.to/JS] [Top 50+ Site to Hunt Your First Remote Developer Job](https://dev.to/avinashvagh/top-50-site-to-hunt-your-first-remote-developer-job-5ml)
 - [Dev.to/JS] [Hacktoberfest Summary](https://dev.to/mnosov622/hacktoberfest-summary-2nmb)
 - [Dev.to/JS] [JavaScript Classes - Modern JS](https://dev.to/moazamdev/javascript-classes-modern-js-1fe1)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
@@ -32,13 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Dev.to/JS] [How to make smooth progressive image loading in React js](https://dev.to/jacksonkasi/how-to-make-smooth-progressive-image-loading-in-react-js-25ac)
 - [Dev.to/JS] [Create a very simple State Machine with closures](https://dev.to/artydev/create-a-very-simple-state-machine-with-closures-27dk)
-- [Dev.to/JS] [How to learn Javascript in 5 steps](https://dev.to/justice_hub/how-to-learn-javascript-in-5-steps-4enk)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
-- [Dev.to/JS] [how use dynamic condition is filtering in react js](https://dev.to/khalid7487/how-use-dynamic-condition-is-filtering-in-react-js-5907)
 - [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)
-- [Dev.to/JS] [Resize Character &quot;Hit&quot; Box](https://dev.to/omakeinu/resize-character-hit-box-4ffe)
-- [Dev.to/JS] [Awesome VS Code Extensions for Navigating Large Codebases](https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n)
-- [Dev.to/JS] [My thoughts after trying to port a Shopify store from NextJS to Shopify Hydrogen](https://dev.to/jannikwempe/my-thoughts-after-trying-to-port-a-shopify-store-from-nextjs-to-shopify-hydrogen-ai4)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
