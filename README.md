@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Little About Node.js](https://dev.to/chamberezigbo/little-about-nodejs-1c66)
+- [Dev.to/JS] [OSD600 Lab10](https://dev.to/dadolhay/osd600-lab10-4pe)
 - [Dev.to/JS] [Clone Objects](https://dev.to/mattiarollo/clone-objects-2l5a)
 - [Dev.to/JS] [Initial konva-svelte public pre-release](https://dev.to/projektorius96/initial-konva-svelte-public-pre-release-3mfa)
 - [Dev.to/JS] [VueJs Beginners part 2 - Methods](https://dev.to/hshoja/vuejs-beginners-part-2-methods-1g7g)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OSD600 Lab8](https://dev.to/dadolhay/osd600-lab8-2dfp)
 - [Dev.to/JS] [Navbar with background blur! Aesthetic look in 2 lines of code .](https://dev.to/shrihari/navbar-with-background-blur-aesthetic-look-in-2-lines-of-code--4kp6)
 - [Dev.to/JS] [Angular Addicts Issue #6: ng-conf 2022, NgRx best practices, Application architecture tips &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-6-ng-conf-2022-ngrx-best-practices-application-architecture-tips-more-39a0)
-- [Dev.to/JS] [Logto x Hasura: How to use open-source auth + GraphQL solution to boost your project](https://dev.to/gaosun/logto-x-hasura-how-to-use-open-source-auth-graphql-solution-to-boost-your-project-4pgm)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
-- [Dev.to/JS] [TypeScript all-in-one: Monorepo with its pains and gains](https://dev.to/gaosun/typescript-all-in-one-monorepo-with-its-pains-and-gains-4ne8)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
