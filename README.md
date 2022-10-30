@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gilded Rose Kata: Javascript/Jest](https://dev.to/rachelg/gilded-rose-kata-javascriptjest-3b2h)
 - [Dev.to/JS] [14 techniques to write Cleaner JavaScript code](https://dev.to/elias_15/14-techniques-to-write-cleaner-javascript-code-56a5)
 - [Dev.to/JS] [I Remade a Javascript App in Java Because Yes](https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0)
 - [Dev.to/JS] [Little About Node.js](https://dev.to/chamberezigbo/little-about-nodejs-1c66)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Reasons to Become a Front-End Developer](https://dev.to/amrtcrypto/10-reasons-to-become-a-front-end-developer-53g4)
 - [Dev.to/JS] [JavaScript - Singly Linked List - push&lpar;&rpar; method](https://dev.to/hunorvadaszperhat/javascript-singly-linked-list-push-method-a4g)
 - [Dev.to/JS] [How to implement Server Side Rendering for Material UI&#39;s media queries in NextJs to avoid flash?](https://dev.to/rakshitnayak/how-to-implement-server-side-rendering-for-material-uis-media-queries-in-nextjs-to-avoid-flash-jpi)
-- [Dev.to/JS] [OSD600 Lab8](https://dev.to/dadolhay/osd600-lab8-2dfp)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
