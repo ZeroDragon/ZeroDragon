@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to send Email with NodeJS in 2022](https://dev.to/vkassingh/how-to-send-email-with-nodejs-in-2022-1dd0)
+- [Dev.to/JS] [Vue.js on CDN](https://dev.to/yukikmt/vuejs-on-cdn-5839)
+- [Dev.to/JS] [How to load React from CDN](https://dev.to/yukikmt/how-to-load-react-from-cdn-lnm)
 - [Dev.to/JS] [7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎](https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5)
 - [Dev.to/JS] [Creating a Next.js project with Chakra-UI integration](https://dev.to/ethand91/creating-a-nextjs-project-with-chakra-ui-integration-469l)
 - [Dev.to/JS] [Gilded Rose Kata: Javascript/Jest](https://dev.to/rachelg/gilded-rose-kata-javascriptjest-3b2h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OSD600 Lab10](https://dev.to/dadolhay/osd600-lab10-4pe)
 - [Dev.to/JS] [Clone Objects](https://dev.to/mattiarollo/clone-objects-2l5a)
 - [Dev.to/JS] [Initial konva-svelte public pre-release](https://dev.to/projektorius96/initial-konva-svelte-public-pre-release-3mfa)
-- [Dev.to/JS] [VueJs Beginners part 2 - Methods](https://dev.to/hshoja/vuejs-beginners-part-2-methods-1g7g)
-- [Dev.to/JS] [JSON VS CBOR &lpar;Javascript&rpar;](https://dev.to/vipert/json-vs-cbor-javascript-2plh)
-- [Dev.to/JS] [10 Reasons to Become a Front-End Developer](https://dev.to/amrtcrypto/10-reasons-to-become-a-front-end-developer-53g4)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
