@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Structure to If Statements with help from Angular](https://dev.to/skyebelinda/card-switcher-magic-1l10)
+- [Dev.to/JS] [Ruby on Rails 7 with Ajax &lpar;axios&rpar;](https://dev.to/gs/ruby-on-rails-7-with-ajax-axios-2kbp)
 - [Dev.to/JS] [FoundryVTT - Want a video background on login?](https://dev.to/mbround18/foundryvtt-want-a-video-background-on-login-3khh)
 - [Dev.to/JS] [JavaScript: Create an Excel file from another Excel file](https://dev.to/viktormorales/javascript-create-an-excel-file-from-another-excel-file-2441)
 - [Dev.to/JS] [Static analysis tools](https://dev.to/mnosov622/static-analysis-tools-3de0)
 - [Dev.to/JS] [Server Routing using Sinatra](https://dev.to/jhalfman/server-routing-using-sinatra-32i8)
-- [Dev.to/JS] [Intro to node and npm](https://dev.to/adderek/intro-to-node-and-npm-3apd)
+- [Dev.to/JS] [Introduction to node and npm](https://dev.to/adderek/intro-to-node-and-npm-3apd)
 - [Dev.to/JS] [How To get Started with programming as a beginner.](https://dev.to/amolshelke2/how-to-get-started-with-programming-as-a-beginner-jko)
 - [Dev.to/JS] [Implementing JsConfig in react app](https://dev.to/adaobiezelioha/implementing-jsconfig-n5o)
 - [Dev.to/JS] [Full Stuck Website using Only JavaScript](https://dev.to/bensarghin/full-stuck-website-using-only-javascript-2dke)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Introduction to Trees](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-introduction-to-trees-1ojb)
 - [Dev.to/JS] [10 Reasons to Become a Blockchain Developer](https://dev.to/amrtcrypto/10-reasons-to-become-a-blockchain-developer-105c)
-- [Dev.to/JS] [Understanding the execution of callbacks and promises in JS](https://dev.to/prajwalr7/understanding-the-execution-of-callbacks-and-promises-in-js-gb4)
-- [Dev.to/JS] [Top 50+ Site to Hunt Your First Remote Developer Job](https://dev.to/avinashvagh/top-50-site-to-hunt-your-first-remote-developer-job-5ml)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
