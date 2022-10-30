@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FoundryVTT - Want a video background on login?](https://dev.to/mbround18/foundryvtt-want-a-video-background-on-login-3khh)
 - [Dev.to/JS] [JavaScript: Create an Excel file from another Excel file](https://dev.to/viktormorales/javascript-create-an-excel-file-from-another-excel-file-2441)
 - [Dev.to/JS] [Static analysis tools](https://dev.to/mnosov622/static-analysis-tools-3de0)
 - [Dev.to/JS] [Server Routing using Sinatra](https://dev.to/jhalfman/server-routing-using-sinatra-32i8)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Reasons to Become a Blockchain Developer](https://dev.to/amrtcrypto/10-reasons-to-become-a-blockchain-developer-105c)
 - [Dev.to/JS] [Understanding the execution of callbacks and promises in JS](https://dev.to/prajwalr7/understanding-the-execution-of-callbacks-and-promises-in-js-gb4)
 - [Dev.to/JS] [Top 50+ Site to Hunt Your First Remote Developer Job](https://dev.to/avinashvagh/top-50-site-to-hunt-your-first-remote-developer-job-5ml)
-- [Dev.to/JS] [Hacktoberfest Summary](https://dev.to/mnosov622/hacktoberfest-summary-2nmb)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
