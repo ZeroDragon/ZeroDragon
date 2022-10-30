@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [14 techniques to write Cleaner JavaScript code](https://dev.to/elias_15/14-techniques-to-write-cleaner-javascript-code-56a5)
+- [Dev.to/JS] [I Remade a Javascript App in Java Because Yes](https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0)
 - [Dev.to/JS] [Little About Node.js](https://dev.to/chamberezigbo/little-about-nodejs-1c66)
 - [Dev.to/JS] [OSD600 Lab10](https://dev.to/dadolhay/osd600-lab10-4pe)
 - [Dev.to/JS] [Clone Objects](https://dev.to/mattiarollo/clone-objects-2l5a)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript - Singly Linked List - push&lpar;&rpar; method](https://dev.to/hunorvadaszperhat/javascript-singly-linked-list-push-method-a4g)
 - [Dev.to/JS] [How to implement Server Side Rendering for Material UI&#39;s media queries in NextJs to avoid flash?](https://dev.to/rakshitnayak/how-to-implement-server-side-rendering-for-material-uis-media-queries-in-nextjs-to-avoid-flash-jpi)
 - [Dev.to/JS] [OSD600 Lab8](https://dev.to/dadolhay/osd600-lab8-2dfp)
-- [Dev.to/JS] [Navbar with background blur! Aesthetic look in 2 lines of code .](https://dev.to/shrihari/navbar-with-background-blur-aesthetic-look-in-2-lines-of-code--4kp6)
-- [Dev.to/JS] [Angular Addicts Issue #6: ng-conf 2022, NgRx best practices, Application architecture tips &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-6-ng-conf-2022-ngrx-best-practices-application-architecture-tips-more-39a0)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
