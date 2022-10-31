@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
+- [Lifehacker] [20 Movies Set on Halloween That Aren’t ‘Halloween’](https://lifehacker.com/20-movies-set-on-halloween-that-aren-t-halloween-1849722845)
+- [Dev.to/JS] [Customizing F5 Debugging in Teams Toolkit for VS Code](https://dev.to/azure/customizing-f5-debugging-in-teams-toolkit-for-vs-code-2d9j)
+- [Dev.to/JS] [How to make form validation in server side built with expressJs &lpar; Basic &rpar; .](https://dev.to/credo23/how-to-make-form-validation-in-server-side-built-with-expressjs-basic--5c74)
+- [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
 - [Dev.to/JS] [Hacktoberfest Week 4: Wrap Up And Overflow](https://dev.to/cychu42/hacktoberfest-week-4-wrap-up-and-overflow-50fk)
 - [Lifehacker] [The Best PS5 Features That Are Disabled by Default](https://lifehacker.com/the-best-ps5-features-that-are-disabled-by-default-1849723650)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-oct-2022-4p8)
@@ -39,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReactJS State](https://dev.to/ericawanja/reactjs-state-g3o)
 - [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)
 - [Lifehacker] [Use These Strategies to Make a Good First Impression at Work](https://lifehacker.com/use-these-strategies-to-make-a-good-first-impression-at-1849715631)
-- [Dev.to/JS] [Why we stopped using Lerna for monorepos](https://dev.to/gaosun/why-we-stopped-using-lerna-for-monorepos-4i5i)
-- [Dev.to/JS] [WhatsApp Photo and Video Downloader Extension](https://dev.to/v4r1able/whatsapp-photo-and-video-downloader-extension-4710)
 - [Lifehacker] [The 7 Deadly Sins of Baking](https://lifehacker.com/the-7-deadly-sins-of-baking-1849717574)
 - [Lifehacker] [12 Types of Beer Glasses &lpar;and the Perfect Brew for Each&rpar;](https://lifehacker.com/12-types-of-beer-glasses-and-the-perfect-brew-for-each-1849714938)
 - [Lifehacker] [This Is Where You Should &lpar;and Should Not&rpar; Place a Space Heater](https://lifehacker.com/this-is-where-you-should-and-should-not-place-a-space-1849710475)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
 - [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
 - [Lifehacker] [What&#39;s New on Paramount+ in November 2022](https://lifehacker.com/whats-new-on-paramount-in-november-2022-1849716404)
-- [Lifehacker] [Never Donate These Things to Thrift Stores](https://lifehacker.com/never-donate-these-things-to-thrift-stores-1849709359)
-- [Lifehacker] [Three Ways to Cook Big Mushrooms so They Don&#39;t Get Mushy](https://lifehacker.com/three-ways-to-cook-big-mushrooms-so-they-dont-get-mushy-1849712680)
-- [Lifehacker] [How to Clean Your TV Without Damaging It](https://lifehacker.com/how-to-clean-your-tv-without-damaging-it-1849715350)
-- [Lifehacker] [Why Other Devices Put Your Laptop to Sleep](https://lifehacker.com/why-other-devices-put-your-laptop-to-sleep-1849715303)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Never Donate These Things to Thrift Stores](https://lifehacker.com/never-donate-these-things-to-thrift-stores-1849709359)<!-- TECH-POSTS:END -->
 
 ---
 
