@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-oct-2022-4p8)
+- [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/moyfdzz/javascript-fundamentals-44l7)
+- [Dev.to/JS] [Useful Tools for Front-end Developers](https://dev.to/dillonb07/useful-tools-for-front-end-developers-2nok)
+- [Lifehacker] [Five Ways to &#39;Clean&#39; the Air in Your Home](https://lifehacker.com/five-ways-to-clean-the-air-in-your-home-1849723460)
 - [Lifehacker] [What&#39;s New in Chrome and ChromeOS 107](https://lifehacker.com/whats-new-in-chrome-and-chromeos-107-1849722791)
 - [Dev.to/JS] [Maximum Units on a Truck](https://dev.to/zeeshanali0704/maximum-units-on-a-truck-3jl4)
 - [Dev.to/JS] [My Hacktoberfest Recap](https://dev.to/rudychung/my-hacktoberfest-recap-mc2)
@@ -38,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Baking](https://lifehacker.com/the-7-deadly-sins-of-baking-1849717574)
 - [Lifehacker] [12 Types of Beer Glasses &lpar;and the Perfect Brew for Each&rpar;](https://lifehacker.com/12-types-of-beer-glasses-and-the-perfect-brew-for-each-1849714938)
 - [Dev.to/JS] [My Fourth Hacktoberfest PR](https://dev.to/rudychung/my-fourth-hacktoberfest-pr-4amf)
-- [Dev.to/JS] [JavaScript Array.Prototype.slice&lpar;&rpar; Method Explained](https://dev.to/mavensingh/javascript-arrayprototypeslice-method-explained-2jj4)
-- [Dev.to/JS] [Getting started with the Google Cloud CLI interactive shell for serverless JavaScript developers](https://dev.to/subfuzion/getting-started-with-the-google-cloud-cli-interactive-shell-for-serverless-developers-45l)
 - [Lifehacker] [This Is Where You Should &lpar;and Should Not&rpar; Place a Space Heater](https://lifehacker.com/this-is-where-you-should-and-should-not-place-a-space-1849710475)
-- [Dev.to/JS] [The Simplest I18N JS Framework is here!](https://dev.to/b4rtaz/the-simplest-i18n-js-framework-is-here-58d0)
 - [Lifehacker] [What to Do If You Are Being Underestimated at Work](https://lifehacker.com/what-to-do-if-you-are-being-underestimated-at-work-1849716913)
 - [Lifehacker] [How You &#39;Parent&#39; Your Dog Matters, Actually](https://lifehacker.com/how-you-parent-your-dog-matters-actually-1849721051)
 - [Lifehacker] [12 Things You Didn&#39;t Realize Can Expire](https://lifehacker.com/12-things-you-didnt-realize-can-expire-1849716489)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Cook Big Mushrooms so They Don&#39;t Get Mushy](https://lifehacker.com/three-ways-to-cook-big-mushrooms-so-they-dont-get-mushy-1849712680)
 - [Lifehacker] [How to Clean Your TV Without Damaging It](https://lifehacker.com/how-to-clean-your-tv-without-damaging-it-1849715350)
 - [Lifehacker] [Why Other Devices Put Your Laptop to Sleep](https://lifehacker.com/why-other-devices-put-your-laptop-to-sleep-1849715303)
-- [Lifehacker] [The Way You Store Cups and Glasses &lpar;Almost&rpar; Never Matters, Actually](https://lifehacker.com/the-way-you-store-cups-and-glasses-almost-never-matte-1849715335)
-- [Lifehacker] [Finish Everything With Breadcrumbs](https://lifehacker.com/finish-everything-with-breadcrumbs-1849715164)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Way You Store Cups and Glasses &lpar;Almost&rpar; Never Matters, Actually](https://lifehacker.com/the-way-you-store-cups-and-glasses-almost-never-matte-1849715335)<!-- TECH-POSTS:END -->
 
 ---
 
