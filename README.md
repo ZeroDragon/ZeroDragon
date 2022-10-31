@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New in Chrome and ChromeOS 107](https://lifehacker.com/whats-new-in-chrome-and-chromeos-107-1849722791)
+- [Dev.to/JS] [Maximum Units on a Truck](https://dev.to/zeeshanali0704/maximum-units-on-a-truck-3jl4)
+- [Dev.to/JS] [My Hacktoberfest Recap](https://dev.to/rudychung/my-hacktoberfest-recap-mc2)
+- [Dev.to/JS] [The Best Way To Build Big React Components 🤯](https://dev.to/devsatasurion/the-best-way-to-build-big-react-components-5295)
+- [Lifehacker] [What &#39;Finishing&#39; a Spirit Means, and Why It Matters](https://lifehacker.com/what-finishing-a-spirit-means-and-why-it-matters-1849715978)
+- [Dev.to/JS] [At Least 8 App Ideas for Generating Passive Income Based on Requests of Our Users](https://dev.to/livechat/at-least-8-app-ideas-for-generating-passive-income-based-on-requests-of-our-users-3koe)
+- [Dev.to/JS] [How to write a simple JSON visualizer using JointJS+](https://dev.to/geliogabalus/how-to-write-a-simple-json-visualizer-using-jointjs-46o1)
+- [Dev.to/JS] [ReactJS State](https://dev.to/ericawanja/reactjs-state-g3o)
 - [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)
 - [Lifehacker] [Use These Strategies to Make a Good First Impression at Work](https://lifehacker.com/use-these-strategies-to-make-a-good-first-impression-at-1849715631)
 - [Dev.to/JS] [Why we stopped using Lerna for monorepos](https://dev.to/gaosun/why-we-stopped-using-lerna-for-monorepos-4i5i)
@@ -34,14 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with the Google Cloud CLI interactive shell for serverless JavaScript developers](https://dev.to/subfuzion/getting-started-with-the-google-cloud-cli-interactive-shell-for-serverless-developers-45l)
 - [Lifehacker] [This Is Where You Should &lpar;and Should Not&rpar; Place a Space Heater](https://lifehacker.com/this-is-where-you-should-and-should-not-place-a-space-1849710475)
 - [Dev.to/JS] [The Simplest I18N JS Framework is here!](https://dev.to/b4rtaz/the-simplest-i18n-js-framework-is-here-58d0)
-- [Dev.to/JS] [How to build async pipe in Angular from scratch](https://dev.to/tusharupadhyay/how-to-build-async-pipe-in-angular-from-scratch-3419)
 - [Lifehacker] [What to Do If You Are Being Underestimated at Work](https://lifehacker.com/what-to-do-if-you-are-being-underestimated-at-work-1849716913)
-- [Dev.to/JS] [Debounce in Js⛹️‍♂️](https://dev.to/himanshupal0001/debounce-in-js-50il)
-- [Dev.to/JS] [Communities You Should Know As a Developer](https://dev.to/patilganesh1010/communities-you-should-know-as-a-developer-1a8k)
-- [Dev.to/JS] [My Top 6 Chrome Extensions for Developers](https://dev.to/dailytech/my-top-6-chrome-extensions-for-developers-4094)
 - [Lifehacker] [How You &#39;Parent&#39; Your Dog Matters, Actually](https://lifehacker.com/how-you-parent-your-dog-matters-actually-1849721051)
-- [Dev.to/JS] [Le moteur v8](https://dev.to/cedric921/le-moteur-v8-2m5i)
-- [Dev.to/JS] [Express Framework](https://dev.to/chamberezigbo/express-framework-o7j)
 - [Lifehacker] [12 Things You Didn&#39;t Realize Can Expire](https://lifehacker.com/12-things-you-didnt-realize-can-expire-1849716489)
 - [Lifehacker] [You Can Make Your Own Mulling Spices](https://lifehacker.com/you-can-make-your-own-mulling-spices-1849717219)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Your TV Without Damaging It](https://lifehacker.com/how-to-clean-your-tv-without-damaging-it-1849715350)
 - [Lifehacker] [Why Other Devices Put Your Laptop to Sleep](https://lifehacker.com/why-other-devices-put-your-laptop-to-sleep-1849715303)
 - [Lifehacker] [The Way You Store Cups and Glasses &lpar;Almost&rpar; Never Matters, Actually](https://lifehacker.com/the-way-you-store-cups-and-glasses-almost-never-matte-1849715335)
-- [Lifehacker] [Finish Everything With Breadcrumbs](https://lifehacker.com/finish-everything-with-breadcrumbs-1849715164)
-- [Lifehacker] [10 of the Best Places to Travel in November](https://lifehacker.com/10-of-the-best-places-to-travel-in-november-1849701770)
-- [Lifehacker] [12 Podcasts to Listen to in the Dark, Ranked by Scariness](https://lifehacker.com/12-podcasts-to-listen-to-in-the-dark-ranked-by-scarine-1849695861)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Finish Everything With Breadcrumbs](https://lifehacker.com/finish-everything-with-breadcrumbs-1849715164)<!-- TECH-POSTS:END -->
 
 ---
 
