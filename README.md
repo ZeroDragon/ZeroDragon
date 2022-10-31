@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Tips for Junior Developers: How to Succeed in the World of Code](https://dev.to/amrtcrypto/10-tips-for-junior-developers-how-to-succeed-in-the-world-of-code-1e4b)
+- [Lifehacker] [You Can Make Your Own Mulling Spices](https://lifehacker.com/you-can-make-your-own-mulling-spices-1849717219)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👄.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3e0a)
 - [Dev.to/JS] [Single Page Todos App in React.js](https://dev.to/aneeqakhan/single-page-todos-app-in-reactjs-134e)
 - [Dev.to/JS] [TypeScript vs JavaScript: Which One Should You Use With Strapi?](https://dev.to/strapi/typescript-vs-javascript-which-one-should-you-use-with-strapi-481k)
-- [Dev.to/JS] [Meitu Mod Apk v &lpar;Photo &amp; Video Editor&rpar; Free Download](https://dev.to/modapkme/meitu-mod-apk-v-photo-video-editor-free-download-36n7)
 - [Dev.to/JS] [How I got 2 Internships](https://dev.to/ramgoel/how-i-got-2-internships-55o9)
 - [Dev.to/JS] [Folder Structure for NodeJS &amp; ExpressJS project](https://dev.to/mr_ali3n/folder-structure-for-nodejs-expressjs-project-435l)
 - [Dev.to/JS] [Show upcoming meetings for a Microsoft 365 user with Microsoft Graph Toolkit](https://dev.to/waldekmastykarz/show-upcoming-meetings-for-a-microsoft-365-user-with-microsoft-graph-toolkit-md9)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building custom plugins for Vite](https://dev.to/jacobandrewsky/building-custom-plugins-for-vite-1610)
 - [Dev.to/JS] [Quick Admin Panel alternative. Flatlogic Web Application Generator versus Quick admin panel](https://dev.to/flatlogic/quick-admin-panel-alternative-flatlogic-web-application-generator-versus-quick-admin-panel-m03)
 - [Dev.to/JS] [A-Z Three.js &lpar;Understanding Object Transformation&rpar;](https://dev.to/es404020/a-z-threejs-understanding-object-transformation-9p5)
-- [Dev.to/JS] [Preact an alternative to React?](https://dev.to/amirlotfi/preact-an-alternative-to-react-4p15)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Right Breed of Dog for You, According to Cesar Millan](https://lifehacker.com/how-to-choose-the-right-breed-of-dog-for-you-according-1849711261)
 - [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
 - [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
-- [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)
-- [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)<!-- TECH-POSTS:END -->
 
 ---
 
