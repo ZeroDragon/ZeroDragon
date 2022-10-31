@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 2 of #100daysofcode](https://dev.to/mukhtar143/day-2-of-100daysofcode-5d5b)
 - [Dev.to/JS] [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://dev.to/prakhartiwari0/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript-5137)
 - [Dev.to/JS] [Building your own form fields the Angular way with control value accessors](https://dev.to/pbouillon/building-your-own-form-fields-the-angular-way-with-control-value-accessors-3imp)
 - [Dev.to/JS] [Create a chess board with Vanilla JS](https://dev.to/hsabes/create-a-chess-board-with-vanilla-js-1hcm)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you should Learn HTML This Year](https://dev.to/expert_deen/why-you-should-learn-html-this-year-5boj)
 - [Dev.to/JS] [Istilah Umum dalam Pemrograman Komputer](https://dev.to/azrilardian/istilah-umum-dalam-pemrograman-komputer-2njg)
 - [Dev.to/JS] [&lpar;Re&rpar;Making my portfolio website](https://dev.to/arthurnunesc/remaking-my-portfolio-website-204j)
-- [Dev.to/JS] [tsParticles 2.4.0 Released](https://dev.to/tsparticles/tsparticles-240-released-26ak)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
