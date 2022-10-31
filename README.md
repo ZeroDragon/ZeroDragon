@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick Admin Panel alternative. Flatlogic Web Application Generator versus Quick admin panel](https://dev.to/flatlogic/quick-admin-panel-alternative-flatlogic-web-application-generator-versus-quick-admin-panel-m03)
+- [Dev.to/JS] [A-Z Three.js &lpar;Understanding Object Transformation&rpar;](https://dev.to/es404020/a-z-threejs-understanding-object-transformation-9p5)
+- [Dev.to/JS] [Preact an alternative to React?](https://dev.to/amirlotfi/preact-an-alternative-to-react-4p15)
+- [Dev.to/JS] [Top Angular 6 Interview Question](https://dev.to/alifiyamustafa5/top-angular-6-interview-question-4471)
+- [Dev.to/JS] [NextJS 13 - Refactor a complete App to NextJS 13](https://dev.to/weibenfalk/nextjs-13-refactor-a-complete-app-to-nextjs-13-4p7e)
 - [Dev.to/JS] [Day 2 of #100daysofcode](https://dev.to/mukhtar143/day-2-of-100daysofcode-5d5b)
 - [Dev.to/JS] [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://dev.to/prakhartiwari0/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript-5137)
 - [Dev.to/JS] [Building your own form fields the Angular way with control value accessors](https://dev.to/pbouillon/building-your-own-form-fields-the-angular-way-with-control-value-accessors-3imp)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The New Satisfies Operator Will Satisfy You &lpar;Cheesy&rpar;](https://dev.to/manikbajaj/the-new-satisfies-operator-will-satisfy-you-cheesy-4mic)
 - [Dev.to/JS] [Normal vs Shallow vs Deep Copy in Javascript/Typescript](https://dev.to/saimwebhr/normal-vs-shallow-vs-deep-copy-in-javascripttypescript-lhh)
 - [Dev.to/JS] [Running Node.js on AWS serverless with Fargate](https://dev.to/debussyman/running-nodejs-on-aws-serverless-with-fargate-bpl)
-- [Dev.to/JS] [Schedule Google Meet Using HTML and JavaScript.](https://dev.to/debopriyadey/schedule-google-meet-using-html-and-javascript-4gc2)
-- [Dev.to/JS] [How to Make Income Tracker in React](https://dev.to/reactjsguru/how-to-make-income-tracker-in-react-3ini)
-- [Dev.to/JS] [Why you should Learn HTML This Year](https://dev.to/expert_deen/why-you-should-learn-html-this-year-5boj)
-- [Dev.to/JS] [Istilah Umum dalam Pemrograman Komputer](https://dev.to/azrilardian/istilah-umum-dalam-pemrograman-komputer-2njg)
-- [Dev.to/JS] [&lpar;Re&rpar;Making my portfolio website](https://dev.to/arthurnunesc/remaking-my-portfolio-website-204j)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
