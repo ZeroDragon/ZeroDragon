@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Deadly Sins of Baking](https://lifehacker.com/the-7-deadly-sins-of-baking-1849717574)
+- [Lifehacker] [12 Types of Beer Glasses &lpar;and the Perfect Brew for Each&rpar;](https://lifehacker.com/12-types-of-beer-glasses-and-the-perfect-brew-for-each-1849714938)
+- [Dev.to/JS] [My Fourth Hacktoberfest PR](https://dev.to/rudychung/my-fourth-hacktoberfest-pr-4amf)
 - [Dev.to/JS] [JavaScript Array.Prototype.slice&lpar;&rpar; Method Explained](https://dev.to/mavensingh/javascript-arrayprototypeslice-method-explained-2jj4)
-- [Dev.to/JS] [Getting started with the Google Cloud CLI interactive shell for serverless developers](https://dev.to/subfuzion/getting-started-with-the-google-cloud-cli-interactive-shell-for-serverless-developers-45l)
+- [Dev.to/JS] [Getting started with the Google Cloud CLI interactive shell for serverless JavaScript developers](https://dev.to/subfuzion/getting-started-with-the-google-cloud-cli-interactive-shell-for-serverless-developers-45l)
 - [Lifehacker] [This Is Where You Should &lpar;and Should Not&rpar; Place a Space Heater](https://lifehacker.com/this-is-where-you-should-and-should-not-place-a-space-1849710475)
 - [Dev.to/JS] [The Simplest I18N JS Framework is here!](https://dev.to/b4rtaz/the-simplest-i18n-js-framework-is-here-58d0)
 - [Dev.to/JS] [How to build async pipe in Angular from scratch](https://dev.to/tusharupadhyay/how-to-build-async-pipe-in-angular-from-scratch-3419)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Things You Didn&#39;t Realize Can Expire](https://lifehacker.com/12-things-you-didnt-realize-can-expire-1849716489)
 - [Dev.to/JS] [HTML learning RoadMap](https://dev.to/expert_deen/html-learning-roadmap-44eg)
 - [Dev.to/JS] [Introducing Serverless Functions](https://dev.to/altogic/introducing-serverless-functions-4ln5)
-- [Dev.to/JS] [10 Tips for Junior Developers: How to Succeed in the World of Code](https://dev.to/amrtcrypto/10-tips-for-junior-developers-how-to-succeed-in-the-world-of-code-1e4b)
 - [Lifehacker] [You Can Make Your Own Mulling Spices](https://lifehacker.com/you-can-make-your-own-mulling-spices-1849717219)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Places to Travel in November](https://lifehacker.com/10-of-the-best-places-to-travel-in-november-1849701770)
 - [Lifehacker] [12 Podcasts to Listen to in the Dark, Ranked by Scariness](https://lifehacker.com/12-podcasts-to-listen-to-in-the-dark-ranked-by-scarine-1849695861)
 - [Lifehacker] [Your Candy Needs Some Spice](https://lifehacker.com/your-candy-needs-some-spice-1849713201)
-- [Lifehacker] [Never Do These Things in a Hardware Store](https://lifehacker.com/never-do-these-things-in-a-hardware-store-1849713338)
-- [Lifehacker] [20 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/20-of-the-most-over-the-top-action-movies-ever-made-1849704085)
-- [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Never Do These Things in a Hardware Store](https://lifehacker.com/never-do-these-things-in-a-hardware-store-1849713338)<!-- TECH-POSTS:END -->
 
 ---
 
