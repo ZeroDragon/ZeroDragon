@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Array.Prototype.slice&lpar;&rpar; Method Explained](https://dev.to/mavensingh/javascript-arrayprototypeslice-method-explained-2jj4)
+- [Dev.to/JS] [Getting started with the Google Cloud CLI interactive shell for serverless developers](https://dev.to/subfuzion/getting-started-with-the-google-cloud-cli-interactive-shell-for-serverless-developers-45l)
+- [Lifehacker] [This Is Where You Should &lpar;and Should Not&rpar; Place a Space Heater](https://lifehacker.com/this-is-where-you-should-and-should-not-place-a-space-1849710475)
+- [Dev.to/JS] [The Simplest I18N JS Framework is here!](https://dev.to/b4rtaz/the-simplest-i18n-js-framework-is-here-58d0)
+- [Dev.to/JS] [How to build async pipe in Angular from scratch](https://dev.to/tusharupadhyay/how-to-build-async-pipe-in-angular-from-scratch-3419)
+- [Lifehacker] [What to Do If You Are Being Underestimated at Work](https://lifehacker.com/what-to-do-if-you-are-being-underestimated-at-work-1849716913)
+- [Dev.to/JS] [Debounce in Js⛹️‍♂️](https://dev.to/himanshupal0001/debounce-in-js-50il)
+- [Dev.to/JS] [Communities You Should Know As a Developer](https://dev.to/patilganesh1010/communities-you-should-know-as-a-developer-1a8k)
 - [Dev.to/JS] [My Top 6 Chrome Extensions for Developers](https://dev.to/dailytech/my-top-6-chrome-extensions-for-developers-4094)
 - [Lifehacker] [How You &#39;Parent&#39; Your Dog Matters, Actually](https://lifehacker.com/how-you-parent-your-dog-matters-actually-1849721051)
 - [Dev.to/JS] [Le moteur v8](https://dev.to/cedric921/le-moteur-v8-2m5i)
@@ -32,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Serverless Functions](https://dev.to/altogic/introducing-serverless-functions-4ln5)
 - [Dev.to/JS] [10 Tips for Junior Developers: How to Succeed in the World of Code](https://dev.to/amrtcrypto/10-tips-for-junior-developers-how-to-succeed-in-the-world-of-code-1e4b)
 - [Lifehacker] [You Can Make Your Own Mulling Spices](https://lifehacker.com/you-can-make-your-own-mulling-spices-1849717219)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👄.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3e0a)
-- [Dev.to/JS] [Single Page Todos App in React.js](https://dev.to/aneeqakhan/single-page-todos-app-in-reactjs-134e)
-- [Dev.to/JS] [TypeScript vs JavaScript: Which One Should You Use With Strapi?](https://dev.to/strapi/typescript-vs-javascript-which-one-should-you-use-with-strapi-481k)
-- [Dev.to/JS] [How I got 2 Internships](https://dev.to/ramgoel/how-i-got-2-internships-55o9)
-- [Dev.to/JS] [Folder Structure for NodeJS &amp; ExpressJS project](https://dev.to/mr_ali3n/folder-structure-for-nodejs-expressjs-project-435l)
-- [Dev.to/JS] [Show upcoming meetings for a Microsoft 365 user with Microsoft Graph Toolkit](https://dev.to/waldekmastykarz/show-upcoming-meetings-for-a-microsoft-365-user-with-microsoft-graph-toolkit-md9)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Candy Needs Some Spice](https://lifehacker.com/your-candy-needs-some-spice-1849713201)
 - [Lifehacker] [Never Do These Things in a Hardware Store](https://lifehacker.com/never-do-these-things-in-a-hardware-store-1849713338)
 - [Lifehacker] [20 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/20-of-the-most-over-the-top-action-movies-ever-made-1849704085)
-- [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)
-- [Lifehacker] [How to Choose the Right Breed of Dog for You, According to Cesar Millan](https://lifehacker.com/how-to-choose-the-right-breed-of-dog-for-you-according-1849711261)
-- [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)<!-- TECH-POSTS:END -->
 
 ---
 
