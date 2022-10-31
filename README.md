@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
+- [Dev.to/JS] [A weird error while trying Angular and DevExtreme](https://dev.to/abderahmanemustapha/a-weird-error-while-trying-angular-and-devextreme-1cj)
+- [Dev.to/JS] [How to create an Image Carousel in React](https://dev.to/bear2927/how-to-create-an-image-carousel-in-react-17dn)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Dev.to/JS] [esbuild Ignore With Comments Plugin](https://dev.to/mxro/esbuild-ignore-with-comments-plugin-2ffc)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Hacktoberfest Recap](https://dev.to/rudychung/my-hacktoberfest-recap-mc2)
 - [Dev.to/JS] [The Best Way To Build Big React Components 🤯](https://dev.to/devsatasurion/the-best-way-to-build-big-react-components-5295)
 - [Lifehacker] [What &#39;Finishing&#39; a Spirit Means, and Why It Matters](https://lifehacker.com/what-finishing-a-spirit-means-and-why-it-matters-1849715978)
-- [Dev.to/JS] [At Least 8 App Ideas for Generating Passive Income Based on Requests of Our Users](https://dev.to/livechat/at-least-8-app-ideas-for-generating-passive-income-based-on-requests-of-our-users-3koe)
-- [Dev.to/JS] [How to write a simple JSON visualizer using JointJS+](https://dev.to/geliogabalus/how-to-write-a-simple-json-visualizer-using-jointjs-46o1)
 - [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)
 - [Lifehacker] [Use These Strategies to Make a Good First Impression at Work](https://lifehacker.com/use-these-strategies-to-make-a-good-first-impression-at-1849715631)
 - [Lifehacker] [The 7 Deadly Sins of Baking](https://lifehacker.com/the-7-deadly-sins-of-baking-1849717574)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
-- [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)
-- [Lifehacker] [What&#39;s New on Paramount+ in November 2022](https://lifehacker.com/whats-new-on-paramount-in-november-2022-1849716404)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)<!-- TECH-POSTS:END -->
 
 ---
 
