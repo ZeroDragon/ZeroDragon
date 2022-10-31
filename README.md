@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Top 6 Chrome Extensions for Developers](https://dev.to/dailytech/my-top-6-chrome-extensions-for-developers-4094)
+- [Lifehacker] [How You &#39;Parent&#39; Your Dog Matters, Actually](https://lifehacker.com/how-you-parent-your-dog-matters-actually-1849721051)
+- [Dev.to/JS] [Le moteur v8](https://dev.to/cedric921/le-moteur-v8-2m5i)
+- [Dev.to/JS] [Express Framework](https://dev.to/chamberezigbo/express-framework-o7j)
+- [Lifehacker] [12 Things You Didn&#39;t Realize Can Expire](https://lifehacker.com/12-things-you-didnt-realize-can-expire-1849716489)
+- [Dev.to/JS] [HTML learning RoadMap](https://dev.to/expert_deen/html-learning-roadmap-44eg)
+- [Dev.to/JS] [Introducing Serverless Functions](https://dev.to/altogic/introducing-serverless-functions-4ln5)
 - [Dev.to/JS] [10 Tips for Junior Developers: How to Succeed in the World of Code](https://dev.to/amrtcrypto/10-tips-for-junior-developers-how-to-succeed-in-the-world-of-code-1e4b)
 - [Lifehacker] [You Can Make Your Own Mulling Spices](https://lifehacker.com/you-can-make-your-own-mulling-spices-1849717219)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👄.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3e0a)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I got 2 Internships](https://dev.to/ramgoel/how-i-got-2-internships-55o9)
 - [Dev.to/JS] [Folder Structure for NodeJS &amp; ExpressJS project](https://dev.to/mr_ali3n/folder-structure-for-nodejs-expressjs-project-435l)
 - [Dev.to/JS] [Show upcoming meetings for a Microsoft 365 user with Microsoft Graph Toolkit](https://dev.to/waldekmastykarz/show-upcoming-meetings-for-a-microsoft-365-user-with-microsoft-graph-toolkit-md9)
-- [Dev.to/JS] [How To Write The Software Development Project Brief](https://dev.to/flatlogic/how-to-write-the-software-development-project-brief-289a)
-- [Dev.to/JS] [Setup React App with esbuild](https://dev.to/dhruvangg/setup-react-app-with-esbuild-3m8o)
-- [Dev.to/JS] [Building custom plugins for Vite](https://dev.to/jacobandrewsky/building-custom-plugins-for-vite-1610)
-- [Dev.to/JS] [Quick Admin Panel alternative. Flatlogic Web Application Generator versus Quick admin panel](https://dev.to/flatlogic/quick-admin-panel-alternative-flatlogic-web-application-generator-versus-quick-admin-panel-m03)
-- [Dev.to/JS] [A-Z Three.js &lpar;Understanding Object Transformation&rpar;](https://dev.to/es404020/a-z-threejs-understanding-object-transformation-9p5)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/20-of-the-most-over-the-top-action-movies-ever-made-1849704085)
 - [Lifehacker] [Use This Extension to Search Google Flights for the Ones With the Most Legroom](https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306)
 - [Lifehacker] [How to Choose the Right Breed of Dog for You, According to Cesar Millan](https://lifehacker.com/how-to-choose-the-right-breed-of-dog-for-you-according-1849711261)
-- [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
-- [Lifehacker] [This Is the Key to Making Truly Great Chicken Soup](https://lifehacker.com/this-is-the-key-to-making-truly-great-chicken-soup-1849710760)
-- [Lifehacker] [Apple’s ‘Driving Focus&#39; Is Wonky As Hell](https://lifehacker.com/apple-s-driving-focus-is-wonky-as-hell-1849709512)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Things You Didn&#39;t Know About Halloween](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)<!-- TECH-POSTS:END -->
 
 ---
 
