@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Show upcoming meetings for a Microsoft 365 user with Microsoft Graph Toolkit](https://dev.to/waldekmastykarz/show-upcoming-meetings-for-a-microsoft-365-user-with-microsoft-graph-toolkit-md9)
+- [Dev.to/JS] [How To Write The Software Development Project Brief](https://dev.to/flatlogic/how-to-write-the-software-development-project-brief-289a)
+- [Dev.to/JS] [Setup React App with esbuild](https://dev.to/dhruvangg/setup-react-app-with-esbuild-3m8o)
+- [Dev.to/JS] [Building custom plugins for Vite](https://dev.to/jacobandrewsky/building-custom-plugins-for-vite-1610)
 - [Dev.to/JS] [Quick Admin Panel alternative. Flatlogic Web Application Generator versus Quick admin panel](https://dev.to/flatlogic/quick-admin-panel-alternative-flatlogic-web-application-generator-versus-quick-admin-panel-m03)
 - [Dev.to/JS] [A-Z Three.js &lpar;Understanding Object Transformation&rpar;](https://dev.to/es404020/a-z-threejs-understanding-object-transformation-9p5)
 - [Dev.to/JS] [Preact an alternative to React?](https://dev.to/amirlotfi/preact-an-alternative-to-react-4p15)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 2 of #100daysofcode](https://dev.to/mukhtar143/day-2-of-100daysofcode-5d5b)
 - [Dev.to/JS] [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://dev.to/prakhartiwari0/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript-5137)
 - [Dev.to/JS] [Building your own form fields the Angular way with control value accessors](https://dev.to/pbouillon/building-your-own-form-fields-the-angular-way-with-control-value-accessors-3imp)
-- [Dev.to/JS] [Create a chess board with Vanilla JS](https://dev.to/hsabes/create-a-chess-board-with-vanilla-js-1hcm)
-- [Dev.to/JS] [The New Satisfies Operator Will Satisfy You &lpar;Cheesy&rpar;](https://dev.to/manikbajaj/the-new-satisfies-operator-will-satisfy-you-cheesy-4mic)
-- [Dev.to/JS] [Normal vs Shallow vs Deep Copy in Javascript/Typescript](https://dev.to/saimwebhr/normal-vs-shallow-vs-deep-copy-in-javascripttypescript-lhh)
-- [Dev.to/JS] [Running Node.js on AWS serverless with Fargate](https://dev.to/debussyman/running-nodejs-on-aws-serverless-with-fargate-bpl)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
