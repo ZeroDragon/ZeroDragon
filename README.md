@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I got 2 Internships](https://dev.to/ramgoel/how-i-got-2-internships-55o9)
+- [Dev.to/JS] [Folder Structure for NodeJS &amp; ExpressJS project](https://dev.to/mr_ali3n/folder-structure-for-nodejs-expressjs-project-435l)
 - [Dev.to/JS] [Show upcoming meetings for a Microsoft 365 user with Microsoft Graph Toolkit](https://dev.to/waldekmastykarz/show-upcoming-meetings-for-a-microsoft-365-user-with-microsoft-graph-toolkit-md9)
 - [Dev.to/JS] [How To Write The Software Development Project Brief](https://dev.to/flatlogic/how-to-write-the-software-development-project-brief-289a)
 - [Dev.to/JS] [Setup React App with esbuild](https://dev.to/dhruvangg/setup-react-app-with-esbuild-3m8o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top Angular 6 Interview Question](https://dev.to/alifiyamustafa5/top-angular-6-interview-question-4471)
 - [Dev.to/JS] [NextJS 13 - Refactor a complete App to NextJS 13](https://dev.to/weibenfalk/nextjs-13-refactor-a-complete-app-to-nextjs-13-4p7e)
 - [Dev.to/JS] [Day 2 of #100daysofcode](https://dev.to/mukhtar143/day-2-of-100daysofcode-5d5b)
-- [Dev.to/JS] [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://dev.to/prakhartiwari0/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript-5137)
-- [Dev.to/JS] [Building your own form fields the Angular way with control value accessors](https://dev.to/pbouillon/building-your-own-form-fields-the-angular-way-with-control-value-accessors-3imp)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
