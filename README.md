@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Normal vs Shallow vs Deep Copy in Javascript/Typescript](https://dev.to/saimwebhr/normal-vs-shallow-vs-deep-copy-in-javascripttypescript-lhh)
+- [Dev.to/JS] [Running Node.js on AWS serverless with Fargate](https://dev.to/debussyman/running-nodejs-on-aws-serverless-with-fargate-bpl)
+- [Dev.to/JS] [Schedule Google Meet Using HTML and JavaScript.](https://dev.to/debopriyadey/schedule-google-meet-using-html-and-javascript-4gc2)
+- [Dev.to/JS] [How to Make Income Tracker in React](https://dev.to/reactjsguru/how-to-make-income-tracker-in-react-3ini)
+- [Dev.to/JS] [Why you should Learn HTML This Year](https://dev.to/expert_deen/why-you-should-learn-html-this-year-5boj)
 - [Dev.to/JS] [Istilah Umum dalam Pemrograman Komputer](https://dev.to/azrilardian/istilah-umum-dalam-pemrograman-komputer-2njg)
 - [Dev.to/JS] [&lpar;Re&rpar;Making my portfolio website](https://dev.to/arthurnunesc/remaking-my-portfolio-website-204j)
 - [Dev.to/JS] [tsParticles 2.4.0 Released](https://dev.to/tsparticles/tsparticles-240-released-26ak)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Structure to If Statements with help from Angular](https://dev.to/skyebelinda/card-switcher-magic-1l10)
 - [Dev.to/JS] [Ruby on Rails 7 with Ajax &lpar;axios&rpar;](https://dev.to/gs/ruby-on-rails-7-with-ajax-axios-2kbp)
 - [Dev.to/JS] [FoundryVTT - Want a video background on login?](https://dev.to/mbround18/foundryvtt-want-a-video-background-on-login-3khh)
-- [Dev.to/JS] [JavaScript: Create an Excel file from another Excel file](https://dev.to/viktormorales/javascript-create-an-excel-file-from-another-excel-file-2441)
-- [Dev.to/JS] [Static analysis tools](https://dev.to/mnosov622/static-analysis-tools-3de0)
-- [Dev.to/JS] [Server Routing using Sinatra](https://dev.to/jhalfman/server-routing-using-sinatra-32i8)
-- [Dev.to/JS] [Introduction to node and npm](https://dev.to/adderek/intro-to-node-and-npm-3apd)
-- [Dev.to/JS] [How To get Started with programming as a beginner.](https://dev.to/amolshelke2/how-to-get-started-with-programming-as-a-beginner-jko)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
