@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lpar;Re&rpar;Making my portfolio website](https://dev.to/arthurnunesc/remaking-my-portfolio-website-204j)
 - [Dev.to/JS] [tsParticles 2.4.0 Released](https://dev.to/tsparticles/tsparticles-240-released-26ak)
 - [Dev.to/JS] [Next 13: What&#39;s new?](https://dev.to/guillaumeduhan/next-13-whats-new-2k71)
 - [Dev.to/JS] [Adding Structure to If Statements with help from Angular](https://dev.to/skyebelinda/card-switcher-magic-1l10)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to node and npm](https://dev.to/adderek/intro-to-node-and-npm-3apd)
 - [Dev.to/JS] [How To get Started with programming as a beginner.](https://dev.to/amolshelke2/how-to-get-started-with-programming-as-a-beginner-jko)
 - [Dev.to/JS] [Implementing JsConfig in react app](https://dev.to/adaobiezelioha/implementing-jsconfig-n5o)
-- [Dev.to/JS] [Full Stuck Website using Only JavaScript](https://dev.to/bensarghin/full-stuck-website-using-only-javascript-2dke)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
