@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Diferença entre operadores ?, ?? e || no JavaScript / TypeScript](https://dev.to/thayto/diferenca-entre-operadores-e-no-javascript-typescript-32op)
+- [Dev.to/JS] [Tigris - a better alternative to MongoDB for MEAN stack applications 🧵👇](https://dev.to/tigrisdata/tigris-a-better-alternative-to-mongodb-for-mean-stack-applications-5b1m)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Dev.to/JS] [A weird error while trying Angular and DevExtreme](https://dev.to/abderahmanemustapha/a-weird-error-while-trying-angular-and-devextreme-1cj)
 - [Dev.to/JS] [How to create an Image Carousel in React](https://dev.to/bear2927/how-to-create-an-image-carousel-in-react-17dn)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Ways to &#39;Clean&#39; the Air in Your Home](https://lifehacker.com/five-ways-to-clean-the-air-in-your-home-1849723460)
 - [Lifehacker] [What&#39;s New in Chrome and ChromeOS 107](https://lifehacker.com/whats-new-in-chrome-and-chromeos-107-1849722791)
 - [Dev.to/JS] [Maximum Units on a Truck](https://dev.to/zeeshanali0704/maximum-units-on-a-truck-3jl4)
-- [Dev.to/JS] [My Hacktoberfest Recap](https://dev.to/rudychung/my-hacktoberfest-recap-mc2)
-- [Dev.to/JS] [The Best Way To Build Big React Components 🤯](https://dev.to/devsatasurion/the-best-way-to-build-big-react-components-5295)
 - [Lifehacker] [What &#39;Finishing&#39; a Spirit Means, and Why It Matters](https://lifehacker.com/what-finishing-a-spirit-means-and-why-it-matters-1849715978)
 - [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)
 - [Lifehacker] [Use These Strategies to Make a Good First Impression at Work](https://lifehacker.com/use-these-strategies-to-make-a-good-first-impression-at-1849715631)
