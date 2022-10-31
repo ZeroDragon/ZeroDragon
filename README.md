@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://dev.to/prakhartiwari0/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript-5137)
+- [Dev.to/JS] [Building your own form fields the Angular way with control value accessors](https://dev.to/pbouillon/building-your-own-form-fields-the-angular-way-with-control-value-accessors-3imp)
+- [Dev.to/JS] [Create a chess board with Vanilla JS](https://dev.to/hsabes/create-a-chess-board-with-vanilla-js-1hcm)
+- [Dev.to/JS] [The New Satisfies Operator Will Satisfy You &lpar;Cheesy&rpar;](https://dev.to/manikbajaj/the-new-satisfies-operator-will-satisfy-you-cheesy-4mic)
 - [Dev.to/JS] [Normal vs Shallow vs Deep Copy in Javascript/Typescript](https://dev.to/saimwebhr/normal-vs-shallow-vs-deep-copy-in-javascripttypescript-lhh)
 - [Dev.to/JS] [Running Node.js on AWS serverless with Fargate](https://dev.to/debussyman/running-nodejs-on-aws-serverless-with-fargate-bpl)
 - [Dev.to/JS] [Schedule Google Meet Using HTML and JavaScript.](https://dev.to/debopriyadey/schedule-google-meet-using-html-and-javascript-4gc2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Istilah Umum dalam Pemrograman Komputer](https://dev.to/azrilardian/istilah-umum-dalam-pemrograman-komputer-2njg)
 - [Dev.to/JS] [&lpar;Re&rpar;Making my portfolio website](https://dev.to/arthurnunesc/remaking-my-portfolio-website-204j)
 - [Dev.to/JS] [tsParticles 2.4.0 Released](https://dev.to/tsparticles/tsparticles-240-released-26ak)
-- [Dev.to/JS] [Next 13: What&#39;s new?](https://dev.to/guillaumeduhan/next-13-whats-new-2k71)
-- [Dev.to/JS] [Adding Structure to If Statements with help from Angular](https://dev.to/skyebelinda/card-switcher-magic-1l10)
-- [Dev.to/JS] [Ruby on Rails 7 with Ajax &lpar;axios&rpar;](https://dev.to/gs/ruby-on-rails-7-with-ajax-axios-2kbp)
-- [Dev.to/JS] [FoundryVTT - Want a video background on login?](https://dev.to/mbround18/foundryvtt-want-a-video-background-on-login-3khh)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
