@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Website Developer Needed!!!! 🧬💻](https://dev.to/verisimilitude11/website-developer-needed-5207)
+- [Dev.to/JS] [THE START OF PROGRAMMING JOURNEY](https://dev.to/achjeev99/the-start-of-programming-journey-502p)
+- [Lifehacker] [How to Use TikTok&#39;s New Voice Changer](https://lifehacker.com/how-to-use-tiktoks-new-voice-changer-1849728311)
+- [Dev.to/JS] [6 VS Code Extensions for Productive Javascript and TypeScript Editing](https://dev.to/lgrammel/6-vs-code-extensions-for-productive-javascript-and-typescript-editing-35l3)
+- [Dev.to/JS] [Redux Actions - Without declaring CONSTANTS and action-creator functions for each action](https://dev.to/rubenarushanyan/redux-actions-without-declaring-constants-and-action-creator-functions-for-each-action-3gc6)
+- [Dev.to/JS] [Two Furthest Houses With Different Colors](https://dev.to/zeeshanali0704/two-furthest-houses-with-different-colors-fp2)
 - [Dev.to/JS] [Ricerca Binaria in Javascript](https://dev.to/rickyc81/ricerca-binaria-in-javascript-4ed8)
 - [Lifehacker] [Exploit Amazon&#39;s Extended Return Policy to Score the Best Holiday Deals](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
 - [Dev.to/JS] [Pastes.io VS Pastebin :](https://dev.to/pastes/pastesio-vs-pastebin--ei0)
@@ -34,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Get Tickets to Taylor Swift&#39;s &#39;Eras&#39; Tour](https://lifehacker.com/how-to-actually-get-tickets-to-taylor-swifts-eras-tour-1849727380)
 - [Dev.to/JS] [How to Make JavaScript Websites SEO-Friendly &lpar;SEO for Client-side Rendering&rpar;](https://dev.to/olusemola/how-to-make-javascript-websites-seo-friendly-seo-for-client-side-rendering-2p05)
 - [Dev.to/JS] [Paracetamol.test.js🧪| #9: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-9-testea-este-codigo-javascript-im)
-- [Dev.to/JS] [Don&#39;t jus learn Reactjs because of this...](https://dev.to/rayhan_nj/dont-jus-learn-reactjs-because-of-this-50i6)
-- [Dev.to/JS] [JavaScript: Zoom like in maps for SVG/HTML](https://dev.to/alexboyko/javascript-zoom-like-in-maps-for-svghtml-2m3b)
 - [Lifehacker] [How to Recognize Fake Pet Ads](https://lifehacker.com/how-to-recognize-fake-pet-ads-1849725821)
-- [Dev.to/JS] [Javascript Transpiler and ESLint are NOT Perfect](https://dev.to/moekidev/javascript-transpiler-and-eslint-are-not-perfect-17pl)
-- [Dev.to/JS] [Builder Pattern w/ Typescript](https://dev.to/gvt3ch/builder-pattern-w-typescript-2b95)
 - [Lifehacker] [How to Bake a Better Cake, According to Science](https://lifehacker.com/how-to-bake-a-better-cake-according-to-science-1849725757)
-- [Dev.to/JS] [React - users list](https://dev.to/mz4/react-list-users-k6n)
 - [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)
 - [Lifehacker] [What to Do If You Have Recurring Nightmares](https://lifehacker.com/what-to-do-if-you-have-recurring-nightmares-1849723525)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in November 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849725178)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Types of Beer Glasses &lpar;and the Perfect Brew for Each&rpar;](https://lifehacker.com/12-types-of-beer-glasses-and-the-perfect-brew-for-each-1849714938)
 - [Lifehacker] [This Is Where You Should &lpar;and Should Not&rpar; Place a Space Heater](https://lifehacker.com/this-is-where-you-should-and-should-not-place-a-space-1849710475)
 - [Lifehacker] [What to Do If You Are Being Underestimated at Work](https://lifehacker.com/what-to-do-if-you-are-being-underestimated-at-work-1849716913)
-- [Lifehacker] [How You &#39;Parent&#39; Your Dog Matters, Actually](https://lifehacker.com/how-you-parent-your-dog-matters-actually-1849721051)
-- [Lifehacker] [12 Things You Didn&#39;t Realize Can Expire](https://lifehacker.com/12-things-you-didnt-realize-can-expire-1849716489)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How You &#39;Parent&#39; Your Dog Matters, Actually](https://lifehacker.com/how-you-parent-your-dog-matters-actually-1849721051)<!-- TECH-POSTS:END -->
 
 ---
 
