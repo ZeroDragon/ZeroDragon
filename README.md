@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
+- [Dev.to/JS] [I found 10,000x faster TypeScript validator library](https://dev.to/samchon/i-found-10000x-faster-typescript-validator-library-36mj)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
 - [Dev.to/JS] [Making a Simple Newsletter Webpage!](https://dev.to/lensco825/making-a-simple-newsletter-webpage-1c46)
 - [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use TikTok&#39;s New Voice Changer](https://lifehacker.com/how-to-use-tiktoks-new-voice-changer-1849728311)
 - [Dev.to/JS] [Jodit-angular dependency issue while migrating to Angular 9](https://dev.to/afilansari/jodit-angular-dependency-issue-while-migrating-to-angular-9-dkp)
 - [Dev.to/JS] [6 VS Code Extensions for Productive Javascript and TypeScript Editing](https://dev.to/lgrammel/6-vs-code-extensions-for-productive-javascript-and-typescript-editing-35l3)
-- [Dev.to/JS] [Redux Actions - Without declaring CONSTANTS and action-creator functions for each action](https://dev.to/rubenarushanyan/redux-actions-without-declaring-constants-and-action-creator-functions-for-each-action-3gc6)
 - [Lifehacker] [Exploit Amazon&#39;s Extended Return Policy to Score the Best Holiday Deals](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
 - [Lifehacker] [13 of the Best New Things to Stream in November 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-november-2022-1849727972)
 - [Lifehacker] [Take Pictures of All Your Gross Medical Issues](https://lifehacker.com/why-you-should-take-pictures-of-all-your-gross-medical-1849727418)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Ways to &#39;Clean&#39; the Air in Your Home](https://lifehacker.com/five-ways-to-clean-the-air-in-your-home-1849723460)
 - [Lifehacker] [What&#39;s New in Chrome and ChromeOS 107](https://lifehacker.com/whats-new-in-chrome-and-chromeos-107-1849722791)
 - [Lifehacker] [What &#39;Finishing&#39; a Spirit Means, and Why It Matters](https://lifehacker.com/what-finishing-a-spirit-means-and-why-it-matters-1849715978)
-- [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)
-- [Lifehacker] [Use These Strategies to Make a Good First Impression at Work](https://lifehacker.com/use-these-strategies-to-make-a-good-first-impression-at-1849715631)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)<!-- TECH-POSTS:END -->
 
 ---
 
