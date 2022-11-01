@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)
+- [Dev.to/JS] [Workplaces for digital nomads: the frontend](https://dev.to/vladimir_mvs/workplaces-for-digital-nomads-the-frontend-2mk3)
+- [Lifehacker] [What to Do If You Have Recurring Nightmares](https://lifehacker.com/what-to-do-if-you-have-recurring-nightmares-1849723525)
+- [Dev.to/JS] [Monorepo and Trunk Based Development Using NX, GitHub Actions, and Argo CD](https://dev.to/betterhealthcare/monorepo-and-trunk-based-development-using-nx-github-actions-and-argo-cd-261e)
+- [Dev.to/JS] [Let&#39;s Build a Responsive Car Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/lets-build-a-responsive-car-website-using-html-css-javascript-1l6a)
 - [Dev.to/JS] [Quick JavaScript Authentication with OktaDev Schematics](https://dev.to/robertinoc_dev/quick-javascript-authentication-with-oktadev-schematics-1kmj)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in November 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849725178)
 - [Dev.to/JS] [Modern react + recoil + tailwind based Cocktail Db Application [Showcase]](https://dev.to/kritik/modern-react-recoil-tailwind-based-cocktail-db-application-showcase-4f32)
@@ -33,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Give Your Guest Bedroom and Bathroom a Holiday Glow](https://lifehacker.com/give-your-guest-bedroom-and-bathroom-a-holiday-glow-1849671938)
 - [Dev.to/JS] [First Project Java script Add todo function Delete todo function](https://dev.to/mohammadazzuz/first-project-java-scriptadd-todo-functiondelete-todo-function-3m45)
 - [Dev.to/JS] [Kraken clone script: Create a professional crypto exchange](https://dev.to/kevinhines233/kraken-clone-script-create-a-professional-crypto-exchange-21ch)
+- [Dev.to/JS] [What Is Webpack Module Federation and Why Does It Matter?](https://dev.to/syncfusion/what-is-webpack-module-federation-and-why-does-it-matter-39oj)
 - [Dev.to/JS] [7 Beginner Friendly Javscript Courses with Certification 🔥](https://dev.to/thepdeveloper/7-beginner-friendly-javscript-courses-with-certification-g3d)
-- [Dev.to/JS] [Refactoring Tools: Pure Functions and Referential Transparency](https://dev.to/bespoyasov/refactoring-tools-pure-functions-and-referential-transparency-327a)
-- [Dev.to/JS] [Swiper.js](https://dev.to/shubhamtiwari909/swiperjs-3802)
-- [Dev.to/JS] [which were a strange blue, like that of toothpaste or laundry detergent?](https://dev.to/likelylifestyle/which-were-a-strange-blue-like-that-of-toothpaste-or-laundry-detergent-5d0j)
-- [Dev.to/JS] [Date formatter in js](https://dev.to/himanshupal0001/date-formatter-in-js-10o0)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
 - [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)
-- [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
-- [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
-- [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)<!-- TECH-POSTS:END -->
 
 ---
 
