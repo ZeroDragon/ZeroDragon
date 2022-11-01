@@ -24,6 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [5 website help developers](https://dev.to/madhusudhan/5-website-help-developers-35lc)
+- [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Dev.to/JS] [Aprenda map&lpar;&rpar; e filter&lpar;&rpar; de uma vez — Javascript](https://dev.to/x8ing_/aprenda-map-e-filter-de-uma-vez-javascript-32o7)
 - [Dev.to/JS] [Confused about freelancing.](https://dev.to/kritik/confused-about-freelancing-9ca)
 - [Dev.to/JS] [Luna 🌙 - Wrote a tiny WebAssembly compiler, that also runs in browser, built for demonstrative and educational purposes.](https://dev.to/thomscoder/luna-wrote-a-tiny-webassembly-compiler-that-runs-in-browser-built-for-demonstrative-and-educational-purposes-4o31)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best PS5 Features That Are Disabled by Default](https://lifehacker.com/the-best-ps5-features-that-are-disabled-by-default-1849723650)
 - [Lifehacker] [Five Ways to &#39;Clean&#39; the Air in Your Home](https://lifehacker.com/five-ways-to-clean-the-air-in-your-home-1849723460)
 - [Lifehacker] [What&#39;s New in Chrome and ChromeOS 107](https://lifehacker.com/whats-new-in-chrome-and-chromeos-107-1849722791)
-- [Lifehacker] [What &#39;Finishing&#39; a Spirit Means, and Why It Matters](https://lifehacker.com/what-finishing-a-spirit-means-and-why-it-matters-1849715978)
-- [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What &#39;Finishing&#39; a Spirit Means, and Why It Matters](https://lifehacker.com/what-finishing-a-spirit-means-and-why-it-matters-1849715978)<!-- TECH-POSTS:END -->
 
 ---
 
