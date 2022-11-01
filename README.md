@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [test post](https://dev.to/sezersinanoglu/test-post-2edf)
+- [Dev.to/JS] [Making sense of canvas winding rules](https://dev.to/coderfy/making-sense-of-canvas-winding-rules-3ff4)
+- [Dev.to/JS] [Exhaustive Character Esoterica &amp;&amp; Etymology](https://dev.to/colinwilliams91/exhaustive-character-esoterica-etymology-2gnj)
+- [Dev.to/JS] [Convert Array, Object to Unix Tree](https://dev.to/hosheima/convert-array-object-to-unix-tree-c7n)
 - [Dev.to/JS] [What is a JavaScript closure and JavaScript scope](https://dev.to/nirjan_dev/what-is-a-javascript-closure-and-javascript-scope-5gp9)
 - [Dev.to/JS] [Working with Linter](https://dev.to/ririio/working-with-linter-3bip)
 - [Dev.to/JS] [8 Google Chrome add-ons to simplify your life &lpar;I&#39;m sure&rpar;.](https://dev.to/hr21don/8-google-chrome-add-ons-to-simplify-your-life-im-sure-3fi5)
@@ -31,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [História sobre usar o JavaScript para programar JavaScript](https://dev.to/ninetails/historia-sobre-usar-o-javascript-para-programar-javascript-4l2i)
 - [Dev.to/JS] [Code Smell 175 - Changes Without Coverage](https://dev.to/mcsee/code-smell-175-changes-without-coverage-120i)
 - [Dev.to/JS] [Diferença entre operadores ?, ?? e || no JavaScript / TypeScript](https://dev.to/thayto/diferenca-entre-operadores-e-no-javascript-typescript-32op)
-- [Dev.to/JS] [Tigris - a better alternative to MongoDB for MEAN stack applications 🧵👇](https://dev.to/tigrisdata/tigris-a-better-alternative-to-mongodb-for-mean-stack-applications-5b1m)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
-- [Dev.to/JS] [A weird error while trying Angular and DevExtreme](https://dev.to/abderahmanemustapha/a-weird-error-while-trying-angular-and-devextreme-1cj)
-- [Dev.to/JS] [How to create an Image Carousel in React](https://dev.to/bear2927/how-to-create-an-image-carousel-in-react-17dn)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
-- [Dev.to/JS] [esbuild Ignore With Comments Plugin](https://dev.to/mxro/esbuild-ignore-with-comments-plugin-2ffc)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
 - [Lifehacker] [20 Movies Set on Halloween That Aren’t ‘Halloween’](https://lifehacker.com/20-movies-set-on-halloween-that-aren-t-halloween-1849722845)
 - [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
