@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a JavaScript closure and JavaScript scope](https://dev.to/nirjan_dev/what-is-a-javascript-closure-and-javascript-scope-5gp9)
 - [Dev.to/JS] [Working with Linter](https://dev.to/ririio/working-with-linter-3bip)
 - [Dev.to/JS] [8 Google Chrome add-ons to simplify your life &lpar;I&#39;m sure&rpar;.](https://dev.to/hr21don/8-google-chrome-add-ons-to-simplify-your-life-im-sure-3fi5)
 - [Dev.to/JS] [Implementing 3D graphics in React](https://dev.to/asayerio_techblog/implementing-3d-graphics-in-react-59ka)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [esbuild Ignore With Comments Plugin](https://dev.to/mxro/esbuild-ignore-with-comments-plugin-2ffc)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
 - [Lifehacker] [20 Movies Set on Halloween That Aren’t ‘Halloween’](https://lifehacker.com/20-movies-set-on-halloween-that-aren-t-halloween-1849722845)
-- [Dev.to/JS] [Customizing F5 Debugging in Teams Toolkit for VS Code](https://dev.to/azure/customizing-f5-debugging-in-teams-toolkit-for-vs-code-2d9j)
 - [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
 - [Lifehacker] [The Best PS5 Features That Are Disabled by Default](https://lifehacker.com/the-best-ps5-features-that-are-disabled-by-default-1849723650)
 - [Lifehacker] [Five Ways to &#39;Clean&#39; the Air in Your Home](https://lifehacker.com/five-ways-to-clean-the-air-in-your-home-1849723460)
