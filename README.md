@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ricerca Binaria in Javascript](https://dev.to/rickyc81/ricerca-binaria-in-javascript-4ed8)
+- [Lifehacker] [Exploit Amazon&#39;s Extended Return Policy to Score the Best Holiday Deals](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
+- [Dev.to/JS] [Pastes.io VS Pastebin :](https://dev.to/pastes/pastesio-vs-pastebin--ei0)
+- [Lifehacker] [13 of the Best New Things to Stream in November 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-november-2022-1849727972)
+- [Lifehacker] [Take Pictures of All Your Gross Medical Issues](https://lifehacker.com/why-you-should-take-pictures-of-all-your-gross-medical-1849727418)
 - [Dev.to/JS] [Windows 11 in Svelte Js](https://dev.to/yashash1511/windows-11-in-svelte-js-55hc)
 - [Dev.to/JS] [Project file structure](https://dev.to/fpetrakov/project-file-structure-1oge)
 - [Dev.to/JS] [UI Libraries](https://dev.to/fpetrakov/ui-libraries-k6f)
@@ -36,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Builder Pattern w/ Typescript](https://dev.to/gvt3ch/builder-pattern-w-typescript-2b95)
 - [Lifehacker] [How to Bake a Better Cake, According to Science](https://lifehacker.com/how-to-bake-a-better-cake-according-to-science-1849725757)
 - [Dev.to/JS] [React - users list](https://dev.to/mz4/react-list-users-k6n)
-- [Dev.to/JS] [How to do marketing to developers. A big guide](https://dev.to/flatlogic/how-to-do-marketing-to-developers-a-big-guide-3p1p)
 - [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)
-- [Dev.to/JS] [Workplaces for digital nomads: the frontend](https://dev.to/vladimir_mvs/workplaces-for-digital-nomads-the-frontend-2mk3)
 - [Lifehacker] [What to Do If You Have Recurring Nightmares](https://lifehacker.com/what-to-do-if-you-have-recurring-nightmares-1849723525)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in November 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849725178)
 - [Lifehacker] [A Garment-by-Garment Guide to How Often You Really Need to Wash Your Clothes](https://lifehacker.com/a-garment-by-garment-guide-to-how-often-you-really-need-1849723330)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is Where You Should &lpar;and Should Not&rpar; Place a Space Heater](https://lifehacker.com/this-is-where-you-should-and-should-not-place-a-space-1849710475)
 - [Lifehacker] [What to Do If You Are Being Underestimated at Work](https://lifehacker.com/what-to-do-if-you-are-being-underestimated-at-work-1849716913)
 - [Lifehacker] [How You &#39;Parent&#39; Your Dog Matters, Actually](https://lifehacker.com/how-you-parent-your-dog-matters-actually-1849721051)
-- [Lifehacker] [12 Things You Didn&#39;t Realize Can Expire](https://lifehacker.com/12-things-you-didnt-realize-can-expire-1849716489)
-- [Lifehacker] [You Can Make Your Own Mulling Spices](https://lifehacker.com/you-can-make-your-own-mulling-spices-1849717219)
-- [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
-- [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Things You Didn&#39;t Realize Can Expire](https://lifehacker.com/12-things-you-didnt-realize-can-expire-1849716489)<!-- TECH-POSTS:END -->
 
 ---
 
