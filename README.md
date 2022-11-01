@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Web App Template](https://dev.to/vincenius/nextjs-web-app-template-1841)
 - [Dev.to/JS] [AUTHENTIFICATION AVEC NODE JS/EXPRESS JS](https://dev.to/samuelmbabhazi/authentification-avec-node-jsexpress-js-39jo)
 - [Dev.to/JS] [Typescript - Basics and use cases](https://dev.to/__junaidshah/typescript-basics-and-use-cases-1el5)
 - [Dev.to/JS] [Setup Prettier with Vite &amp; VS Code](https://dev.to/sharathmohan007/setup-prettier-with-vite-vs-code-3fme)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Convert Array, Object to Unix Tree](https://dev.to/hosheima/convert-array-object-to-unix-tree-c7n)
 - [Dev.to/JS] [What is a JavaScript closure and JavaScript scope](https://dev.to/nirjan_dev/what-is-a-javascript-closure-and-javascript-scope-5gp9)
 - [Dev.to/JS] [Working with Linter](https://dev.to/ririio/working-with-linter-3bip)
-- [Dev.to/JS] [8 Google Chrome add-ons to simplify your life &lpar;I&#39;m sure&rpar;.](https://dev.to/hr21don/8-google-chrome-add-ons-to-simplify-your-life-im-sure-3fi5)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
