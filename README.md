@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Swiper.js](https://dev.to/shubhamtiwari909/swiperjs-3802)
+- [Dev.to/JS] [which were a strange blue, like that of toothpaste or laundry detergent?](https://dev.to/likelylifestyle/which-were-a-strange-blue-like-that-of-toothpaste-or-laundry-detergent-5d0j)
+- [Dev.to/JS] [Date formatter in js](https://dev.to/himanshupal0001/date-formatter-in-js-10o0)
+- [Dev.to/JS] [Find a meeting time and schedule a meeting on Microsoft 365](https://dev.to/waldekmastykarz/find-a-meeting-time-and-schedule-a-meeting-on-microsoft-365-5ci)
 - [Dev.to/JS] [Next.js Web App Template](https://dev.to/vincenius/nextjs-web-app-template-1841)
 - [Dev.to/JS] [AUTHENTIFICATION AVEC NODE JS/EXPRESS JS](https://dev.to/samuelmbabhazi/authentification-avec-node-jsexpress-js-39jo)
 - [Dev.to/JS] [Typescript - Basics and use cases](https://dev.to/__junaidshah/typescript-basics-and-use-cases-1el5)
 - [Dev.to/JS] [Setup Prettier with Vite &amp; VS Code](https://dev.to/sharathmohan007/setup-prettier-with-vite-vs-code-3fme)
 - [Dev.to/JS] [Highlight on the new features of Next JS 13 config 2022](https://dev.to/muhammadazfaraslam/highlight-on-the-new-features-of-next-js-13-config-2022-1a3i)
 - [Dev.to/JS] [Projects for Diploma Students](https://dev.to/arunprakash142/projects-for-diploma-students-2ioa)
-- [Dev.to/JS] [test post](https://dev.to/sezersinanoglu/test-post-2edf)
 - [Dev.to/JS] [Making sense of canvas winding rules](https://dev.to/coderfy/making-sense-of-canvas-winding-rules-3ff4)
 - [Dev.to/JS] [Exhaustive Character Esoterica &amp;&amp; Etymology](https://dev.to/colinwilliams91/exhaustive-character-esoterica-etymology-2gnj)
-- [Dev.to/JS] [Convert Array, Object to Unix Tree](https://dev.to/hosheima/convert-array-object-to-unix-tree-c7n)
-- [Dev.to/JS] [What is a JavaScript closure and JavaScript scope](https://dev.to/nirjan_dev/what-is-a-javascript-closure-and-javascript-scope-5gp9)
-- [Dev.to/JS] [Working with Linter](https://dev.to/ririio/working-with-linter-3bip)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
