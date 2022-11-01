@@ -23,9 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [7 Types of Jewelry and How to Clean Them](https://lifehacker.com/7-types-of-jewelry-and-how-to-clean-them-1849728903)
+- [Dev.to/JS] [Angular content projection and SOLID code &lpar;ng-content&rpar;](https://dev.to/renaisense_/angular-content-projection-and-solid-code-ng-content-5940)
+- [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)
+- [Dev.to/JS] [3D Perspective Card using JavaScript](https://dev.to/piyushpatil1243/3d-perspective-card-using-javascript-4jo9)
+- [Dev.to/JS] [The 7 Best React Component Libraries to Use in 2022](https://dev.to/amrtcrypto/the-7-best-react-component-libraries-to-use-in-2022-11la)
+- [Lifehacker] [Is This Our Last Daylight Saving Time Change?](https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556)
 - [Dev.to/JS] [Website Developer Needed!!!! 🧬💻](https://dev.to/verisimilitude11/website-developer-needed-5207)
 - [Dev.to/JS] [THE START OF PROGRAMMING JOURNEY](https://dev.to/achjeev99/the-start-of-programming-journey-502p)
 - [Lifehacker] [How to Use TikTok&#39;s New Voice Changer](https://lifehacker.com/how-to-use-tiktoks-new-voice-changer-1849728311)
+- [Dev.to/JS] [Jodit-angular dependency issue while migrating to Angular 9](https://dev.to/afilansari/jodit-angular-dependency-issue-while-migrating-to-angular-9-dkp)
 - [Dev.to/JS] [6 VS Code Extensions for Productive Javascript and TypeScript Editing](https://dev.to/lgrammel/6-vs-code-extensions-for-productive-javascript-and-typescript-editing-35l3)
 - [Dev.to/JS] [Redux Actions - Without declaring CONSTANTS and action-creator functions for each action](https://dev.to/rubenarushanyan/redux-actions-without-declaring-constants-and-action-creator-functions-for-each-action-3gc6)
 - [Dev.to/JS] [Two Furthest Houses With Different Colors](https://dev.to/zeeshanali0704/two-furthest-houses-with-different-colors-fp2)
@@ -35,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 of the Best New Things to Stream in November 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-november-2022-1849727972)
 - [Lifehacker] [Take Pictures of All Your Gross Medical Issues](https://lifehacker.com/why-you-should-take-pictures-of-all-your-gross-medical-1849727418)
 - [Dev.to/JS] [Windows 11 in Svelte Js](https://dev.to/yashash1511/windows-11-in-svelte-js-55hc)
-- [Dev.to/JS] [Project file structure](https://dev.to/fpetrakov/project-file-structure-1oge)
-- [Dev.to/JS] [UI Libraries](https://dev.to/fpetrakov/ui-libraries-k6f)
 - [Lifehacker] [How to Actually Get Tickets to Taylor Swift&#39;s &#39;Eras&#39; Tour](https://lifehacker.com/how-to-actually-get-tickets-to-taylor-swifts-eras-tour-1849727380)
-- [Dev.to/JS] [How to Make JavaScript Websites SEO-Friendly &lpar;SEO for Client-side Rendering&rpar;](https://dev.to/olusemola/how-to-make-javascript-websites-seo-friendly-seo-for-client-side-rendering-2p05)
-- [Dev.to/JS] [Paracetamol.test.js🧪| #9: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-9-testea-este-codigo-javascript-im)
 - [Lifehacker] [How to Recognize Fake Pet Ads](https://lifehacker.com/how-to-recognize-fake-pet-ads-1849725821)
 - [Lifehacker] [How to Bake a Better Cake, According to Science](https://lifehacker.com/how-to-bake-a-better-cake-according-to-science-1849725757)
 - [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)
 - [Lifehacker] [Use These Strategies to Make a Good First Impression at Work](https://lifehacker.com/use-these-strategies-to-make-a-good-first-impression-at-1849715631)
 - [Lifehacker] [The 7 Deadly Sins of Baking](https://lifehacker.com/the-7-deadly-sins-of-baking-1849717574)
-- [Lifehacker] [12 Types of Beer Glasses &lpar;and the Perfect Brew for Each&rpar;](https://lifehacker.com/12-types-of-beer-glasses-and-the-perfect-brew-for-each-1849714938)
-- [Lifehacker] [This Is Where You Should &lpar;and Should Not&rpar; Place a Space Heater](https://lifehacker.com/this-is-where-you-should-and-should-not-place-a-space-1849710475)
-- [Lifehacker] [What to Do If You Are Being Underestimated at Work](https://lifehacker.com/what-to-do-if-you-are-being-underestimated-at-work-1849716913)
-- [Lifehacker] [How You &#39;Parent&#39; Your Dog Matters, Actually](https://lifehacker.com/how-you-parent-your-dog-matters-actually-1849721051)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Types of Beer Glasses &lpar;and the Perfect Brew for Each&rpar;](https://lifehacker.com/12-types-of-beer-glasses-and-the-perfect-brew-for-each-1849714938)<!-- TECH-POSTS:END -->
 
 ---
 
