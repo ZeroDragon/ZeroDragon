@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AUTHENTIFICATION AVEC NODE JS/EXPRESS JS](https://dev.to/samuelmbabhazi/authentification-avec-node-jsexpress-js-39jo)
+- [Dev.to/JS] [Typescript - Basics and use cases](https://dev.to/__junaidshah/typescript-basics-and-use-cases-1el5)
+- [Dev.to/JS] [Setup Prettier with Vite &amp; VS Code](https://dev.to/sharathmohan007/setup-prettier-with-vite-vs-code-3fme)
 - [Dev.to/JS] [Highlight on the new features of Next JS 13 config 2022](https://dev.to/muhammadazfaraslam/highlight-on-the-new-features-of-next-js-13-config-2022-1a3i)
 - [Dev.to/JS] [Projects for Diploma Students](https://dev.to/arunprakash142/projects-for-diploma-students-2ioa)
 - [Dev.to/JS] [test post](https://dev.to/sezersinanoglu/test-post-2edf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is a JavaScript closure and JavaScript scope](https://dev.to/nirjan_dev/what-is-a-javascript-closure-and-javascript-scope-5gp9)
 - [Dev.to/JS] [Working with Linter](https://dev.to/ririio/working-with-linter-3bip)
 - [Dev.to/JS] [8 Google Chrome add-ons to simplify your life &lpar;I&#39;m sure&rpar;.](https://dev.to/hr21don/8-google-chrome-add-ons-to-simplify-your-life-im-sure-3fi5)
-- [Dev.to/JS] [Implementing 3D graphics in React](https://dev.to/asayerio_techblog/implementing-3d-graphics-in-react-59ka)
-- [Dev.to/JS] [Pull Congressional Data via SMS with the Congress API and JavaScript](https://dev.to/twilio/pull-congressional-data-via-sms-with-the-congress-api-and-javascript-43bf)
-- [Dev.to/JS] [História sobre usar o JavaScript para programar JavaScript](https://dev.to/ninetails/historia-sobre-usar-o-javascript-para-programar-javascript-4l2i)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
