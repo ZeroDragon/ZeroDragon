@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Give Your Guest Bedroom and Bathroom a Holiday Glow](https://lifehacker.com/give-your-guest-bedroom-and-bathroom-a-holiday-glow-1849671938)
 - [Dev.to/JS] [First Project Java script Add todo function Delete todo function](https://dev.to/mohammadazzuz/first-project-java-scriptadd-todo-functiondelete-todo-function-3m45)
 - [Dev.to/JS] [Kraken clone script: Create a professional crypto exchange](https://dev.to/kevinhines233/kraken-clone-script-create-a-professional-crypto-exchange-21ch)
 - [Dev.to/JS] [7 Beginner Friendly Javscript Courses with Certification 🔥](https://dev.to/thepdeveloper/7-beginner-friendly-javscript-courses-with-certification-g3d)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
 - [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
 - [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)
-- [Lifehacker] [Five Great Apps to Gamify Your Life](https://lifehacker.com/five-great-apps-to-gamify-your-life-1849716962)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)<!-- TECH-POSTS:END -->
 
 ---
 
