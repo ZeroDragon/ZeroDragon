@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Highlight on the new features of Next JS 13 config 2022](https://dev.to/muhammadazfaraslam/highlight-on-the-new-features-of-next-js-13-config-2022-1a3i)
+- [Dev.to/JS] [Projects for Diploma Students](https://dev.to/arunprakash142/projects-for-diploma-students-2ioa)
 - [Dev.to/JS] [test post](https://dev.to/sezersinanoglu/test-post-2edf)
 - [Dev.to/JS] [Making sense of canvas winding rules](https://dev.to/coderfy/making-sense-of-canvas-winding-rules-3ff4)
 - [Dev.to/JS] [Exhaustive Character Esoterica &amp;&amp; Etymology](https://dev.to/colinwilliams91/exhaustive-character-esoterica-etymology-2gnj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing 3D graphics in React](https://dev.to/asayerio_techblog/implementing-3d-graphics-in-react-59ka)
 - [Dev.to/JS] [Pull Congressional Data via SMS with the Congress API and JavaScript](https://dev.to/twilio/pull-congressional-data-via-sms-with-the-congress-api-and-javascript-43bf)
 - [Dev.to/JS] [História sobre usar o JavaScript para programar JavaScript](https://dev.to/ninetails/historia-sobre-usar-o-javascript-para-programar-javascript-4l2i)
-- [Dev.to/JS] [Code Smell 175 - Changes Without Coverage](https://dev.to/mcsee/code-smell-175-changes-without-coverage-120i)
-- [Dev.to/JS] [Diferença entre operadores ?, ?? e || no JavaScript / TypeScript](https://dev.to/thayto/diferenca-entre-operadores-e-no-javascript-typescript-32op)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
