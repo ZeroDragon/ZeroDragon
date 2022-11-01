@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Transpiler and ESLint are NOT Perfect](https://dev.to/moekidev/javascript-transpiler-and-eslint-are-not-perfect-17pl)
+- [Dev.to/JS] [Builder Pattern w/ Typescript](https://dev.to/gvt3ch/builder-pattern-w-typescript-2b95)
+- [Lifehacker] [How to Bake a Better Cake, According to Science](https://lifehacker.com/how-to-bake-a-better-cake-according-to-science-1849725757)
+- [Dev.to/JS] [React List Users](https://dev.to/mz4/react-list-users-k6n)
+- [Dev.to/JS] [How to do marketing to developers. A big guide](https://dev.to/flatlogic/how-to-do-marketing-to-developers-a-big-guide-3p1p)
 - [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)
 - [Dev.to/JS] [Workplaces for digital nomads: the frontend](https://dev.to/vladimir_mvs/workplaces-for-digital-nomads-the-frontend-2mk3)
 - [Lifehacker] [What to Do If You Have Recurring Nightmares](https://lifehacker.com/what-to-do-if-you-have-recurring-nightmares-1849723525)
@@ -36,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remix &amp; Shopify: Circumvent Shopify’s APIs and go open source](https://dev.to/medusajs/remix-shopify-circumvent-shopifys-apis-and-go-open-source-36g2)
 - [Dev.to/JS] [How To Test Console Log](https://dev.to/zirkelc/how-to-test-console-log-5fhd)
 - [Lifehacker] [Give Your Guest Bedroom and Bathroom a Holiday Glow](https://lifehacker.com/give-your-guest-bedroom-and-bathroom-a-holiday-glow-1849671938)
-- [Dev.to/JS] [First Project Java script Add todo function Delete todo function](https://dev.to/mohammadazzuz/first-project-java-scriptadd-todo-functiondelete-todo-function-3m45)
-- [Dev.to/JS] [Kraken clone script: Create a professional crypto exchange](https://dev.to/kevinhines233/kraken-clone-script-create-a-professional-crypto-exchange-21ch)
-- [Dev.to/JS] [What Is Webpack Module Federation and Why Does It Matter?](https://dev.to/syncfusion/what-is-webpack-module-federation-and-why-does-it-matter-39oj)
-- [Dev.to/JS] [7 Beginner Friendly Javscript Courses with Certification 🔥](https://dev.to/thepdeveloper/7-beginner-friendly-javscript-courses-with-certification-g3d)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
 - [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
 - [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
-- [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)
-- [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)<!-- TECH-POSTS:END -->
 
 ---
 
