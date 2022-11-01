@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
+- [Dev.to/JS] [Making a Simple Newsletter Webpage!](https://dev.to/lensco825/making-a-simple-newsletter-webpage-1c46)
+- [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
+- [Dev.to/JS] [Hello world!](https://dev.to/1dlzenvio/hello-world-434e)
+- [Dev.to/JS] [React JS Basics](https://dev.to/ipa22751/react-js-basics-46lj)
+- [Dev.to/JS] [Let’s Go Fetch&lpar;&rpar; Some Stuff!](https://dev.to/chukwuma1976/lets-go-fetch-some-stuff-5h5f)
 - [Lifehacker] [7 Types of Jewelry and How to Clean Them](https://lifehacker.com/7-types-of-jewelry-and-how-to-clean-them-1849728903)
 - [Dev.to/JS] [Angular content projection and SOLID code &lpar;ng-content&rpar;](https://dev.to/renaisense_/angular-content-projection-and-solid-code-ng-content-5940)
 - [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)
@@ -35,13 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jodit-angular dependency issue while migrating to Angular 9](https://dev.to/afilansari/jodit-angular-dependency-issue-while-migrating-to-angular-9-dkp)
 - [Dev.to/JS] [6 VS Code Extensions for Productive Javascript and TypeScript Editing](https://dev.to/lgrammel/6-vs-code-extensions-for-productive-javascript-and-typescript-editing-35l3)
 - [Dev.to/JS] [Redux Actions - Without declaring CONSTANTS and action-creator functions for each action](https://dev.to/rubenarushanyan/redux-actions-without-declaring-constants-and-action-creator-functions-for-each-action-3gc6)
-- [Dev.to/JS] [Two Furthest Houses With Different Colors](https://dev.to/zeeshanali0704/two-furthest-houses-with-different-colors-fp2)
-- [Dev.to/JS] [Ricerca Binaria in Javascript](https://dev.to/rickyc81/ricerca-binaria-in-javascript-4ed8)
 - [Lifehacker] [Exploit Amazon&#39;s Extended Return Policy to Score the Best Holiday Deals](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
-- [Dev.to/JS] [Pastes.io VS Pastebin :](https://dev.to/pastes/pastesio-vs-pastebin--ei0)
 - [Lifehacker] [13 of the Best New Things to Stream in November 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-november-2022-1849727972)
 - [Lifehacker] [Take Pictures of All Your Gross Medical Issues](https://lifehacker.com/why-you-should-take-pictures-of-all-your-gross-medical-1849727418)
-- [Dev.to/JS] [Windows 11 in Svelte Js](https://dev.to/yashash1511/windows-11-in-svelte-js-55hc)
 - [Lifehacker] [How to Actually Get Tickets to Taylor Swift&#39;s &#39;Eras&#39; Tour](https://lifehacker.com/how-to-actually-get-tickets-to-taylor-swifts-eras-tour-1849727380)
 - [Lifehacker] [How to Recognize Fake Pet Ads](https://lifehacker.com/how-to-recognize-fake-pet-ads-1849725821)
 - [Lifehacker] [How to Bake a Better Cake, According to Science](https://lifehacker.com/how-to-bake-a-better-cake-according-to-science-1849725757)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New in Chrome and ChromeOS 107](https://lifehacker.com/whats-new-in-chrome-and-chromeos-107-1849722791)
 - [Lifehacker] [What &#39;Finishing&#39; a Spirit Means, and Why It Matters](https://lifehacker.com/what-finishing-a-spirit-means-and-why-it-matters-1849715978)
 - [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)
-- [Lifehacker] [Use These Strategies to Make a Good First Impression at Work](https://lifehacker.com/use-these-strategies-to-make-a-good-first-impression-at-1849715631)
-- [Lifehacker] [The 7 Deadly Sins of Baking](https://lifehacker.com/the-7-deadly-sins-of-baking-1849717574)
-- [Lifehacker] [12 Types of Beer Glasses &lpar;and the Perfect Brew for Each&rpar;](https://lifehacker.com/12-types-of-beer-glasses-and-the-perfect-brew-for-each-1849714938)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These Strategies to Make a Good First Impression at Work](https://lifehacker.com/use-these-strategies-to-make-a-good-first-impression-at-1849715631)<!-- TECH-POSTS:END -->
 
 ---
 
