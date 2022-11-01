@@ -23,23 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Windows 11 in Svelte Js](https://dev.to/yashash1511/windows-11-in-svelte-js-55hc)
+- [Dev.to/JS] [Project file structure](https://dev.to/fpetrakov/project-file-structure-1oge)
+- [Dev.to/JS] [UI Libraries](https://dev.to/fpetrakov/ui-libraries-k6f)
+- [Lifehacker] [How to Actually Get Tickets to Taylor Swift&#39;s &#39;Eras&#39; Tour](https://lifehacker.com/how-to-actually-get-tickets-to-taylor-swifts-eras-tour-1849727380)
+- [Dev.to/JS] [How to Make JavaScript Websites SEO-Friendly &lpar;SEO for Client-side Rendering&rpar;](https://dev.to/olusemola/how-to-make-javascript-websites-seo-friendly-seo-for-client-side-rendering-2p05)
+- [Dev.to/JS] [Paracetamol.test.js🧪| #9: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-9-testea-este-codigo-javascript-im)
+- [Dev.to/JS] [Don&#39;t jus learn Reactjs because of this...](https://dev.to/rayhan_nj/dont-jus-learn-reactjs-because-of-this-50i6)
+- [Dev.to/JS] [JavaScript: Zoom like in maps for SVG/HTML](https://dev.to/alexboyko/javascript-zoom-like-in-maps-for-svghtml-2m3b)
+- [Lifehacker] [How to Recognize Fake Pet Ads](https://lifehacker.com/how-to-recognize-fake-pet-ads-1849725821)
 - [Dev.to/JS] [Javascript Transpiler and ESLint are NOT Perfect](https://dev.to/moekidev/javascript-transpiler-and-eslint-are-not-perfect-17pl)
 - [Dev.to/JS] [Builder Pattern w/ Typescript](https://dev.to/gvt3ch/builder-pattern-w-typescript-2b95)
 - [Lifehacker] [How to Bake a Better Cake, According to Science](https://lifehacker.com/how-to-bake-a-better-cake-according-to-science-1849725757)
-- [Dev.to/JS] [React List Users](https://dev.to/mz4/react-list-users-k6n)
+- [Dev.to/JS] [React - users list](https://dev.to/mz4/react-list-users-k6n)
 - [Dev.to/JS] [How to do marketing to developers. A big guide](https://dev.to/flatlogic/how-to-do-marketing-to-developers-a-big-guide-3p1p)
 - [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)
 - [Dev.to/JS] [Workplaces for digital nomads: the frontend](https://dev.to/vladimir_mvs/workplaces-for-digital-nomads-the-frontend-2mk3)
 - [Lifehacker] [What to Do If You Have Recurring Nightmares](https://lifehacker.com/what-to-do-if-you-have-recurring-nightmares-1849723525)
-- [Dev.to/JS] [Monorepo and Trunk Based Development Using NX, GitHub Actions, and Argo CD](https://dev.to/betterhealthcare/monorepo-and-trunk-based-development-using-nx-github-actions-and-argo-cd-261e)
-- [Dev.to/JS] [Let&#39;s Build a Responsive Car Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/lets-build-a-responsive-car-website-using-html-css-javascript-1l6a)
-- [Dev.to/JS] [Quick JavaScript Authentication with OktaDev Schematics](https://dev.to/robertinoc_dev/quick-javascript-authentication-with-oktadev-schematics-1kmj)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in November 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849725178)
-- [Dev.to/JS] [Modern react + recoil + tailwind based Cocktail Db Application [Showcase]](https://dev.to/kritik/modern-react-recoil-tailwind-based-cocktail-db-application-showcase-4f32)
 - [Lifehacker] [A Garment-by-Garment Guide to How Often You Really Need to Wash Your Clothes](https://lifehacker.com/a-garment-by-garment-guide-to-how-often-you-really-need-1849723330)
-- [Dev.to/JS] [What is CORS and How to handle it?](https://dev.to/canopassoftware/what-is-cors-and-how-to-handle-it-3df5)
-- [Dev.to/JS] [Remix &amp; Shopify: Circumvent Shopify’s APIs and go open source](https://dev.to/medusajs/remix-shopify-circumvent-shopifys-apis-and-go-open-source-36g2)
-- [Dev.to/JS] [How To Test Console Log](https://dev.to/zirkelc/how-to-test-console-log-5fhd)
 - [Lifehacker] [Give Your Guest Bedroom and Bathroom a Holiday Glow](https://lifehacker.com/give-your-guest-bedroom-and-bathroom-a-holiday-glow-1849671938)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Things You Didn&#39;t Realize Can Expire](https://lifehacker.com/12-things-you-didnt-realize-can-expire-1849716489)
 - [Lifehacker] [You Can Make Your Own Mulling Spices](https://lifehacker.com/you-can-make-your-own-mulling-spices-1849717219)
 - [Lifehacker] [How to Change the Cabin Air Filter in Your Car](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
-- [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)
-- [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
-- [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Upgrade Your Boring Bathroom Mirror](https://lifehacker.com/upgrade-your-boring-bathroom-mirror-1849717956)<!-- TECH-POSTS:END -->
 
 ---
 
