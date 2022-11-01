@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 Google Chrome add-ons to simplify your life &lpar;I&#39;m sure&rpar;.](https://dev.to/hr21don/8-google-chrome-add-ons-to-simplify-your-life-im-sure-3fi5)
+- [Dev.to/JS] [Implementing 3D graphics in React](https://dev.to/asayerio_techblog/implementing-3d-graphics-in-react-59ka)
+- [Dev.to/JS] [Pull Congressional Data via SMS with the Congress API and JavaScript](https://dev.to/twilio/pull-congressional-data-via-sms-with-the-congress-api-and-javascript-43bf)
+- [Dev.to/JS] [História sobre usar o JavaScript para programar JavaScript](https://dev.to/ninetails/historia-sobre-usar-o-javascript-para-programar-javascript-4l2i)
+- [Dev.to/JS] [Code Smell 175 - Changes Without Coverage](https://dev.to/mcsee/code-smell-175-changes-without-coverage-120i)
 - [Dev.to/JS] [Diferença entre operadores ?, ?? e || no JavaScript / TypeScript](https://dev.to/thayto/diferenca-entre-operadores-e-no-javascript-typescript-32op)
 - [Dev.to/JS] [Tigris - a better alternative to MongoDB for MEAN stack applications 🧵👇](https://dev.to/tigrisdata/tigris-a-better-alternative-to-mongodb-for-mean-stack-applications-5b1m)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
@@ -35,14 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Customizing F5 Debugging in Teams Toolkit for VS Code](https://dev.to/azure/customizing-f5-debugging-in-teams-toolkit-for-vs-code-2d9j)
 - [Dev.to/JS] [How to make form validation in server side built with expressJs &lpar; Basic &rpar; .](https://dev.to/credo23/how-to-make-form-validation-in-server-side-built-with-expressjs-basic--5c74)
 - [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
-- [Dev.to/JS] [Hacktoberfest Week 4: Wrap Up And Overflow](https://dev.to/cychu42/hacktoberfest-week-4-wrap-up-and-overflow-50fk)
 - [Lifehacker] [The Best PS5 Features That Are Disabled by Default](https://lifehacker.com/the-best-ps5-features-that-are-disabled-by-default-1849723650)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Oct 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-oct-2022-4p8)
-- [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/moyfdzz/javascript-fundamentals-44l7)
-- [Dev.to/JS] [Useful Tools for Front-end Developers](https://dev.to/dillonb07/useful-tools-for-front-end-developers-2nok)
 - [Lifehacker] [Five Ways to &#39;Clean&#39; the Air in Your Home](https://lifehacker.com/five-ways-to-clean-the-air-in-your-home-1849723460)
 - [Lifehacker] [What&#39;s New in Chrome and ChromeOS 107](https://lifehacker.com/whats-new-in-chrome-and-chromeos-107-1849722791)
-- [Dev.to/JS] [Maximum Units on a Truck](https://dev.to/zeeshanali0704/maximum-units-on-a-truck-3jl4)
 - [Lifehacker] [What &#39;Finishing&#39; a Spirit Means, and Why It Matters](https://lifehacker.com/what-finishing-a-spirit-means-and-why-it-matters-1849715978)
 - [Lifehacker] [The Best Apps to Have in an Emergency](https://lifehacker.com/the-best-apps-to-have-in-an-emergency-1849715961)
 - [Lifehacker] [Use These Strategies to Make a Good First Impression at Work](https://lifehacker.com/use-these-strategies-to-make-a-good-first-impression-at-1849715631)
