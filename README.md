@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick JavaScript Authentication with OktaDev Schematics](https://dev.to/robertinoc_dev/quick-javascript-authentication-with-oktadev-schematics-1kmj)
+- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in November 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849725178)
+- [Dev.to/JS] [Modern react + recoil + tailwind based Cocktail Db Application [Showcase]](https://dev.to/kritik/modern-react-recoil-tailwind-based-cocktail-db-application-showcase-4f32)
+- [Lifehacker] [A Garment-by-Garment Guide to How Often You Really Need to Wash Your Clothes](https://lifehacker.com/a-garment-by-garment-guide-to-how-often-you-really-need-1849723330)
+- [Dev.to/JS] [What is CORS and How to handle it?](https://dev.to/canopassoftware/what-is-cors-and-how-to-handle-it-3df5)
+- [Dev.to/JS] [Remix &amp; Shopify: Circumvent Shopify’s APIs and go open source](https://dev.to/medusajs/remix-shopify-circumvent-shopifys-apis-and-go-open-source-36g2)
+- [Dev.to/JS] [How To Test Console Log](https://dev.to/zirkelc/how-to-test-console-log-5fhd)
 - [Lifehacker] [Give Your Guest Bedroom and Bathroom a Holiday Glow](https://lifehacker.com/give-your-guest-bedroom-and-bathroom-a-holiday-glow-1849671938)
 - [Dev.to/JS] [First Project Java script Add todo function Delete todo function](https://dev.to/mohammadazzuz/first-project-java-scriptadd-todo-functiondelete-todo-function-3m45)
 - [Dev.to/JS] [Kraken clone script: Create a professional crypto exchange](https://dev.to/kevinhines233/kraken-clone-script-create-a-professional-crypto-exchange-21ch)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Swiper.js](https://dev.to/shubhamtiwari909/swiperjs-3802)
 - [Dev.to/JS] [which were a strange blue, like that of toothpaste or laundry detergent?](https://dev.to/likelylifestyle/which-were-a-strange-blue-like-that-of-toothpaste-or-laundry-detergent-5d0j)
 - [Dev.to/JS] [Date formatter in js](https://dev.to/himanshupal0001/date-formatter-in-js-10o0)
-- [Dev.to/JS] [Find a meeting time and schedule a meeting on Microsoft 365](https://dev.to/waldekmastykarz/find-a-meeting-time-and-schedule-a-meeting-on-microsoft-365-5ci)
-- [Dev.to/JS] [Next.js Web App Template](https://dev.to/vincenius/nextjs-web-app-template-1841)
-- [Dev.to/JS] [AUTHENTIFICATION AVEC NODE JS/EXPRESS JS](https://dev.to/samuelmbabhazi/authentification-avec-node-jsexpress-js-39jo)
-- [Dev.to/JS] [Typescript - Basics and use cases](https://dev.to/__junaidshah/typescript-basics-and-use-cases-1el5)
-- [Dev.to/JS] [Setup Prettier with Vite &amp; VS Code](https://dev.to/sharathmohan007/setup-prettier-with-vite-vs-code-3fme)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to See If American Airlines Owes You Money in Their Checked-Bag Settlement](https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941)
 - [Lifehacker] [These Are the Cheapest American Cities to Buy a Home in Right Now](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
 - [Lifehacker] [Don&#39;t Throw Out Your Fall Mums](https://lifehacker.com/dont-throw-out-your-fall-mums-1849718197)
-- [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)
-- [Lifehacker] [These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did You Have an &#39;Almond Mom&#39;?](https://lifehacker.com/what-is-an-almond-mom-1849717195)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Safely Pop Your Ears](https://lifehacker.com/how-to-safely-pop-your-ears-1849718034)<!-- TECH-POSTS:END -->
 
 ---
 
