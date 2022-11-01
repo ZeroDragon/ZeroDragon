@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 website help developers](https://dev.to/madhusudhan/5-website-help-developers-35lc)
+- [Dev.to/JS] [Aprenda map&lpar;&rpar; e filter&lpar;&rpar; de uma vez — Javascript](https://dev.to/x8ing_/aprenda-map-e-filter-de-uma-vez-javascript-32o7)
+- [Dev.to/JS] [Confused about freelancing.](https://dev.to/kritik/confused-about-freelancing-9ca)
+- [Dev.to/JS] [Luna 🌙 - Wrote a tiny WebAssembly compiler, that also runs in browser, built for demonstrative and educational purposes.](https://dev.to/thomscoder/luna-wrote-a-tiny-webassembly-compiler-that-runs-in-browser-built-for-demonstrative-and-educational-purposes-4o31)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Dev.to/JS] [I found 10,000x faster TypeScript validator library](https://dev.to/samchon/i-found-10000x-faster-typescript-validator-library-36mj)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
@@ -37,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3D Perspective Card using JavaScript](https://dev.to/piyushpatil1243/3d-perspective-card-using-javascript-4jo9)
 - [Dev.to/JS] [The 7 Best React Component Libraries to Use in 2022](https://dev.to/amrtcrypto/the-7-best-react-component-libraries-to-use-in-2022-11la)
 - [Lifehacker] [Is This Our Last Daylight Saving Time Change?](https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556)
-- [Dev.to/JS] [Website Developer Needed!!!! 🧬💻](https://dev.to/verisimilitude11/website-developer-needed-5207)
-- [Dev.to/JS] [THE START OF PROGRAMMING JOURNEY](https://dev.to/achjeev99/the-start-of-programming-journey-502p)
 - [Lifehacker] [How to Use TikTok&#39;s New Voice Changer](https://lifehacker.com/how-to-use-tiktoks-new-voice-changer-1849728311)
-- [Dev.to/JS] [Jodit-angular dependency issue while migrating to Angular 9](https://dev.to/afilansari/jodit-angular-dependency-issue-while-migrating-to-angular-9-dkp)
-- [Dev.to/JS] [6 VS Code Extensions for Productive Javascript and TypeScript Editing](https://dev.to/lgrammel/6-vs-code-extensions-for-productive-javascript-and-typescript-editing-35l3)
 - [Lifehacker] [Exploit Amazon&#39;s Extended Return Policy to Score the Best Holiday Deals](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
 - [Lifehacker] [13 of the Best New Things to Stream in November 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-november-2022-1849727972)
 - [Lifehacker] [Take Pictures of All Your Gross Medical Issues](https://lifehacker.com/why-you-should-take-pictures-of-all-your-gross-medical-1849727418)
