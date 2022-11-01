@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Project Java script Add todo function Delete todo function](https://dev.to/mohammadazzuz/first-project-java-scriptadd-todo-functiondelete-todo-function-3m45)
+- [Dev.to/JS] [Kraken clone script: Create a professional crypto exchange](https://dev.to/kevinhines233/kraken-clone-script-create-a-professional-crypto-exchange-21ch)
 - [Dev.to/JS] [7 Beginner Friendly Javscript Courses with Certification 🔥](https://dev.to/thepdeveloper/7-beginner-friendly-javscript-courses-with-certification-g3d)
 - [Dev.to/JS] [Refactoring Tools: Pure Functions and Referential Transparency](https://dev.to/bespoyasov/refactoring-tools-pure-functions-and-referential-transparency-327a)
 - [Dev.to/JS] [Swiper.js](https://dev.to/shubhamtiwari909/swiperjs-3802)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AUTHENTIFICATION AVEC NODE JS/EXPRESS JS](https://dev.to/samuelmbabhazi/authentification-avec-node-jsexpress-js-39jo)
 - [Dev.to/JS] [Typescript - Basics and use cases](https://dev.to/__junaidshah/typescript-basics-and-use-cases-1el5)
 - [Dev.to/JS] [Setup Prettier with Vite &amp; VS Code](https://dev.to/sharathmohan007/setup-prettier-with-vite-vs-code-3fme)
-- [Dev.to/JS] [Highlight on the new features of Next JS 13 config 2022](https://dev.to/muhammadazfaraslam/highlight-on-the-new-features-of-next-js-13-config-2022-1a3i)
-- [Dev.to/JS] [Projects for Diploma Students](https://dev.to/arunprakash142/projects-for-diploma-students-2ioa)
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
