@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular 15: Using The Directive Composition API](https://dev.to/henriquecustodia/angular-15-using-the-directive-composition-api-58j3)
+- [Dev.to/JS] [Ahhhh CVEs!](https://dev.to/rembrandtreyes/ahhhh-cves-266e)
 - [Dev.to/JS] [Day-0 JavaScript](https://dev.to/ziktech/day-0-javascript-42hn)
 - [Dev.to/JS] [React Router Version 6 Tutorial How to Set up React Router@6](https://dev.to/sachinsingh101/react-router-version-6-tutorial-how-to-set-up-react-router6-231b)
 - [Dev.to/JS] [Minimum Moves to Convert String](https://dev.to/zeeshanali0704/minimum-moves-to-convert-string-3i3m)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 website help developers](https://dev.to/madhusudhan/5-website-help-developers-35lc)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Dev.to/JS] [Aprenda map&lpar;&rpar; e filter&lpar;&rpar; de uma vez — Javascript](https://dev.to/x8ing_/aprenda-map-e-filter-de-uma-vez-javascript-32o7)
-- [Dev.to/JS] [Confused about freelancing.](https://dev.to/kritik/confused-about-freelancing-9ca)
-- [Dev.to/JS] [Luna 🌙 - Wrote a tiny WebAssembly compiler, that also runs in browser, built for demonstrative and educational purposes.](https://dev.to/thomscoder/luna-wrote-a-tiny-webassembly-compiler-that-runs-in-browser-built-for-demonstrative-and-educational-purposes-4o31)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
 - [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
