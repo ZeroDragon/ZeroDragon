@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to clean Dishwasher?](https://dev.to/alexamusk56/how-to-clean-dishwasher-1iom)
+- [Dev.to/JS] [Get User Current Region With Geolocation API](https://dev.to/melvnl/get-user-current-region-with-geolocation-api-nla)
+- [Dev.to/JS] [JS-Project for Beginners.](https://dev.to/ihteshamulhaq510/js-project-for-beginners-41ol)
+- [Dev.to/JS] [Jotai — new state management library for React](https://dev.to/shreyvijayvargiya/jotai-new-state-management-library-for-react-28pe)
 - [Dev.to/JS] [love to work](https://dev.to/rahulchandra195/love-to-work-2g75)
 - [Dev.to/JS] [Keys to the object](https://dev.to/yukinoyamiko/keys-to-the-object-4n0f)
 - [Dev.to/JS] [Django vs Laravel Comparison: Which Framework to choose?](https://dev.to/jessica89079831/django-vs-laravel-comparison-which-framework-to-choose-3de7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hero Header Tutorial](https://dev.to/epicweb/hero-header-tutorial-4dfd)
 - [Dev.to/JS] [Foal version 3.0 is here 🚀](https://dev.to/loicpoullain/foal-version-30-is-here-2pj3)
 - [Dev.to/JS] [Squeeze out the potential of template literals in JS](https://dev.to/schemetastic/squeeze-out-the-potential-of-template-literals-in-js-bnc)
-- [Dev.to/JS] [Mengenal macam - macam Metodologi penulisan CSS - Part 1](https://dev.to/azrilardian/mengenal-macan-macam-metodologi-penulisan-css-part-1-4010)
-- [Dev.to/JS] [Last Index Value Of Array Javascript/TypeScript](https://dev.to/saimwebhr/access-last-index-of-array-javascripttypescript-2ofd)
-- [Dev.to/JS] [Angular 15: Using The Directive Composition API](https://dev.to/henriquecustodia/angular-15-using-the-directive-composition-api-58j3)
-- [Dev.to/JS] [Ahhhh CVEs!](https://dev.to/rembrandtreyes/ahhhh-cves-266e)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
