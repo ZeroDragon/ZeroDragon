@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tier Hello World Demo](https://dev.to/tier/tier-hello-world-demo-5fle)
 - [Dev.to/JS] [5 website help developers](https://dev.to/madhusudhan/5-website-help-developers-35lc)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Dev.to/JS] [Aprenda map&lpar;&rpar; e filter&lpar;&rpar; de uma vez — Javascript](https://dev.to/x8ing_/aprenda-map-e-filter-de-uma-vez-javascript-32o7)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular content projection and SOLID code &lpar;ng-content&rpar;](https://dev.to/renaisense_/angular-content-projection-and-solid-code-ng-content-5940)
 - [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)
 - [Dev.to/JS] [3D Perspective Card using JavaScript](https://dev.to/piyushpatil1243/3d-perspective-card-using-javascript-4jo9)
-- [Dev.to/JS] [The 7 Best React Component Libraries to Use in 2022](https://dev.to/amrtcrypto/the-7-best-react-component-libraries-to-use-in-2022-11la)
 - [Lifehacker] [Is This Our Last Daylight Saving Time Change?](https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556)
 - [Lifehacker] [How to Use TikTok&#39;s New Voice Changer](https://lifehacker.com/how-to-use-tiktoks-new-voice-changer-1849728311)
 - [Lifehacker] [Exploit Amazon&#39;s Extended Return Policy to Score the Best Holiday Deals](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
