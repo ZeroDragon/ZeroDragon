@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Speed up Node application build time with ESBuild](https://dev.to/fyapy/speed-up-node-application-build-time-with-esbuild-2cg1)
+- [Dev.to/JS] [NETMARK](https://dev.to/netmark1/netmark-1ali)
+- [Dev.to/JS] [Uploading a file to AWS S3](https://dev.to/kalashin1/uploading-a-file-to-aws-s3-ikl)
+- [Dev.to/JS] [Comment utilise le moteur de modeles Pug dans une applications Node/Express](https://dev.to/skbtech/comment-utilise-le-moteur-de-modeles-pug-dans-une-applications-nodeexpress-459d)
 - [Dev.to/JS] [How to clean Dishwasher?](https://dev.to/alexamusk56/how-to-clean-dishwasher-1iom)
 - [Dev.to/JS] [Get User Current Region With Geolocation API](https://dev.to/melvnl/get-user-current-region-with-geolocation-api-nla)
 - [Dev.to/JS] [JS-Project for Beginners.](https://dev.to/ihteshamulhaq510/js-project-for-beginners-41ol)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Keys to the object](https://dev.to/yukinoyamiko/keys-to-the-object-4n0f)
 - [Dev.to/JS] [Django vs Laravel Comparison: Which Framework to choose?](https://dev.to/jessica89079831/django-vs-laravel-comparison-which-framework-to-choose-3de7)
 - [Dev.to/JS] [Weekly web development resources #122](https://dev.to/vincenius/weekly-web-development-resources-122-1c3h)
-- [Dev.to/JS] [Framer motion - Layout Animations](https://dev.to/siddharth0x/framer-motion-layout-animations-50kh)
-- [Dev.to/JS] [Hero Header Tutorial](https://dev.to/epicweb/hero-header-tutorial-4dfd)
-- [Dev.to/JS] [Foal version 3.0 is here 🚀](https://dev.to/loicpoullain/foal-version-30-is-here-2pj3)
-- [Dev.to/JS] [Squeeze out the potential of template literals in JS](https://dev.to/schemetastic/squeeze-out-the-potential-of-template-literals-in-js-bnc)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
