@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Boil Your Mashing Potatoes With Garlic and Aromatics](https://lifehacker.com/boil-your-mashing-potatoes-with-garlic-and-aromatics-1849733321)
+- [Dev.to/JS] [Javascript — Como saber se um objeto está vazio](https://dev.to/cleytonlang/javascript-como-saber-se-um-objeto-esta-vazio-54h0)
+- [Dev.to/JS] [Ejs Template Engine](https://dev.to/akshdesai1/ejs-template-engine-32df)
+- [Lifehacker] [Add Pine Nuts to Your Meatballs](https://lifehacker.com/add-pine-nuts-to-your-meatballs-1849732961)
+- [Dev.to/JS] [Instant Multi-Tenant GraphQL APIs with PostGraphile, RLS, and PropelAuth](https://dev.to/propelauth/instant-multi-tenant-graphql-apis-with-postgraphile-rls-and-propelauth-ic7)
 - [Lifehacker] [The Pros &lpar;and a Few Cons&rpar; of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)
 - [Dev.to/JS] [Find Intersection of Two Arrays](https://dev.to/yohanesss/find-intersection-of-two-arrays-1b62)
 - [Dev.to/JS] [Querying installed packages with npm query](https://dev.to/cloudx/querying-installed-packages-with-npm-query-389f)
@@ -37,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Webpack 1](https://dev.to/asadullohruziev/webpack-1-9me)
 - [Dev.to/JS] [How to create a great user experience with React](https://dev.to/amrtcrypto/how-to-create-a-great-user-experience-with-react-ka0)
 - [Lifehacker] [You Can Get ‘Saturnalia’ for Free on Your PC Right Now](https://lifehacker.com/you-can-get-saturnalia-for-free-on-your-pc-right-now-1849732584)
-- [Dev.to/JS] [10 beginner-friendly JavaScript projects](https://dev.to/nicozerpa/10-beginner-friendly-javascript-projects-4nbg)
 - [Lifehacker] [How to Put Out Every Kind of Kitchen Fire](https://lifehacker.com/how-to-put-out-every-kind-of-kitchen-fire-1849732334)
-- [Dev.to/JS] [How to containerize a Node Express App and deploy it on Azure](https://dev.to/danielfavour/how-to-containerize-a-node-express-app-and-deploy-it-on-azure-5ej6)
 - [Lifehacker] [Garlic Confit Deserves a Spot on Your Thanksgiving Table](https://lifehacker.com/garlic-confit-deserves-a-spot-on-your-thanksgiving-tabl-1849731860)
-- [Dev.to/JS] [Testing Library - Queries](https://dev.to/shavinac/testing-library-queries-1hc)
 - [Lifehacker] [How to Translate Foreign Languages Directly From Your iPhone Camera](https://lifehacker.com/how-to-translate-foreign-languages-directly-from-your-i-1849731075)
 - [Lifehacker] [You&#39;ll Need Your First Colonoscopy Sooner Than You Think](https://lifehacker.com/youll-need-your-first-colonoscopy-sooner-than-you-think-1849730322)
 - [Lifehacker] [11 Real, Amazing Treasure Hunts You Could Do From Home](https://lifehacker.com/11-real-amazing-treasure-hunts-you-could-do-from-home-1849730325)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Get Tickets to Taylor Swift&#39;s &#39;Eras&#39; Tour](https://lifehacker.com/how-to-actually-get-tickets-to-taylor-swifts-eras-tour-1849727380)
 - [Lifehacker] [How to Recognize Fake Pet Ads](https://lifehacker.com/how-to-recognize-fake-pet-ads-1849725821)
 - [Lifehacker] [How to Bake a Better Cake, According to Science](https://lifehacker.com/how-to-bake-a-better-cake-according-to-science-1849725757)
-- [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)
-- [Lifehacker] [What to Do If You Have Recurring Nightmares](https://lifehacker.com/what-to-do-if-you-have-recurring-nightmares-1849723525)
-- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in November 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849725178)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)<!-- TECH-POSTS:END -->
 
 ---
 
