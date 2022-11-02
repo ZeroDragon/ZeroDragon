@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top JavaScript 2022](https://dev.to/webandappstudio/top-javascript-2022-2o5l)
 - [Dev.to/JS] [ExpressJS: How to throw custom errors](https://dev.to/felipeleao18/expressjs-how-to-throw-custom-errors-aeo)
 - [Dev.to/JS] [Zero to SaaS - Product #1 BookMarksy.io](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-5afp)
 - [Dev.to/JS] [OSD600- Improving Siteit through refactoring and upgrading to ESM](https://dev.to/tdaw/osd600-improving-siteit-through-refactoring-and-upgrading-to-esm-43on)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making a Simple Newsletter Webpage!](https://dev.to/lensco825/making-a-simple-newsletter-webpage-1c46)
 - [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
 - [Dev.to/JS] [Hello world!](https://dev.to/1dlzenvio/hello-world-434e)
-- [Dev.to/JS] [React JS Basics](https://dev.to/ipa22751/react-js-basics-46lj)
 - [Lifehacker] [7 Types of Jewelry and How to Clean Them](https://lifehacker.com/7-types-of-jewelry-and-how-to-clean-them-1849728903)
 - [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)
 - [Lifehacker] [Is This Our Last Daylight Saving Time Change?](https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556)
