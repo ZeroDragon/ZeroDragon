@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Squeeze out the potential of template literals in JS](https://dev.to/schemetastic/squeeze-out-the-potential-of-template-literals-in-js-bnc)
+- [Dev.to/JS] [Mengenal macam - macam Metodologi penulisan CSS - Part 1](https://dev.to/azrilardian/mengenal-macan-macam-metodologi-penulisan-css-part-1-4010)
 - [Dev.to/JS] [Access Last Index Of Array Javascript/TypeScript](https://dev.to/saimwebhr/access-last-index-of-array-javascripttypescript-2ofd)
 - [Dev.to/JS] [Angular 15: Using The Directive Composition API](https://dev.to/henriquecustodia/angular-15-using-the-directive-composition-api-58j3)
 - [Dev.to/JS] [Ahhhh CVEs!](https://dev.to/rembrandtreyes/ahhhh-cves-266e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ExpressJS: How to throw custom errors](https://dev.to/felipeleao18/expressjs-how-to-throw-custom-errors-aeo)
 - [Dev.to/JS] [Zero to SaaS - Product #1 BookMarksy.io](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-5afp)
 - [Dev.to/JS] [OSD600- Improving Siteit through refactoring and upgrading to ESM](https://dev.to/tdaw/osd600-improving-siteit-through-refactoring-and-upgrading-to-esm-43on)
-- [Dev.to/JS] [Tier Hello World Demo](https://dev.to/tier/tier-hello-world-demo-5fle)
-- [Dev.to/JS] [5 website help developers](https://dev.to/madhusudhan/5-website-help-developers-35lc)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
