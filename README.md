@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [JS Polyfill - Part 4 Debounce &amp; Throttle - Leading &amp; Trailing options](https://dev.to/uttarasriya/js-polyfill-part-4-debounce-throttle-leading-trailing-options-3nn8)
+- [Lifehacker] [The Pros &lpar;and a Few Cons&rpar; of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)
+- [Dev.to/JS] [Find Intersection of Two Arrays](https://dev.to/yohanesss/find-intersection-of-two-arrays-1b62)
+- [Dev.to/JS] [Querying installed packages with npm query](https://dev.to/cloudx/querying-installed-packages-with-npm-query-389f)
+- [Dev.to/JS] [Thread Management in Node.js](https://dev.to/ishthumber/thread-management-in-nodejs-131d)
+- [Dev.to/JS] [Getting Started With Parcel.js: A Web Application Bundler in 2022](https://dev.to/rembertdesigns/getting-started-with-parceljs-a-web-application-bundler-in-2022-3o88)
+- [Lifehacker] [&#39;Black Hairy Tongue&#39; Probably Didn&#39;t Kill Julie Powell](https://lifehacker.com/black-hairy-tongue-probably-didnt-kill-julie-powell-1849732656)
+- [Dev.to/JS] [How to add PayPal checkout payments to your React app](https://dev.to/paypaldeveloper/how-to-add-paypal-checkout-payments-to-your-react-app-53aa)
+- [Dev.to/JS] [JS Polyfills - Part 4 Debounce &amp; Throttle - Leading &amp; Trailing options](https://dev.to/uttarasriya/js-polyfill-part-4-debounce-throttle-leading-trailing-options-3nn8)
 - [Lifehacker] [You&#39;ve Been Playing &#39;Super Mario Bros.&#39; Wrong Your Whole Life](https://lifehacker.com/youve-been-playing-super-mario-bros-wrong-your-whole-l-1849732657)
 - [Dev.to/JS] [Webpack 2](https://dev.to/asadullohruziev/webpack-2-46da)
 - [Lifehacker] [What a 7% Mortgage Rate Really Means for Your Monthly Payment](https://lifehacker.com/what-a-7-mortgage-rate-really-means-for-your-monthly-p-1849732713)
@@ -35,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to containerize a Node Express App and deploy it on Azure](https://dev.to/danielfavour/how-to-containerize-a-node-express-app-and-deploy-it-on-azure-5ej6)
 - [Lifehacker] [Garlic Confit Deserves a Spot on Your Thanksgiving Table](https://lifehacker.com/garlic-confit-deserves-a-spot-on-your-thanksgiving-tabl-1849731860)
 - [Dev.to/JS] [Testing Library - Queries](https://dev.to/shavinac/testing-library-queries-1hc)
-- [Dev.to/JS] [Cleaner and Better way for calling APIs with Axios in your React-typescript applications](https://dev.to/tuasegun/cleaner-and-better-way-for-calling-apis-with-axios-in-your-react-typescript-applications-3d3k)
 - [Lifehacker] [How to Translate Foreign Languages Directly From Your iPhone Camera](https://lifehacker.com/how-to-translate-foreign-languages-directly-from-your-i-1849731075)
-- [Dev.to/JS] [A Definitive guide on JavaScript every&lpar;&rpar; Method](https://dev.to/refine/a-definitive-guide-on-javascript-every-method-1fha)
-- [Dev.to/JS] [7 front-end projects with a single universal code style config: here is how](https://dev.to/volodymyrsinievych/7-front-end-projects-with-a-single-universal-code-style-config-here-is-how-56i)
-- [Dev.to/JS] [3 Reasons Why Async/Await Is Better Than Chaining Promises](https://dev.to/maximization/3-reasons-why-asyncawait-is-better-than-chaining-promises-hk1)
 - [Lifehacker] [You&#39;ll Need Your First Colonoscopy Sooner Than You Think](https://lifehacker.com/youll-need-your-first-colonoscopy-sooner-than-you-think-1849730322)
-- [Dev.to/JS] [Array.Prototype.slice&lpar;&rpar; Method Explained JavaScript](https://dev.to/mavensingh/arrayprototypeslice-method-explained-javascript-5bm9)
 - [Lifehacker] [11 Real, Amazing Treasure Hunts You Could Do From Home](https://lifehacker.com/11-real-amazing-treasure-hunts-you-could-do-from-home-1849730325)
 - [Lifehacker] [For the Best Stuffing, Dry Your Bread Instead of Staling It](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Bake a Better Cake, According to Science](https://lifehacker.com/how-to-bake-a-better-cake-according-to-science-1849725757)
 - [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)
 - [Lifehacker] [What to Do If You Have Recurring Nightmares](https://lifehacker.com/what-to-do-if-you-have-recurring-nightmares-1849723525)
-- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in November 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849725178)
-- [Lifehacker] [A Garment-by-Garment Guide to How Often You Really Need to Wash Your Clothes](https://lifehacker.com/a-garment-by-garment-guide-to-how-often-you-really-need-1849723330)
-- [Lifehacker] [Give Your Guest Bedroom and Bathroom a Holiday Glow](https://lifehacker.com/give-your-guest-bedroom-and-bathroom-a-holiday-glow-1849671938)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in November 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849725178)<!-- TECH-POSTS:END -->
 
 ---
 
