@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day-0 JavaScript](https://dev.to/ziktech/day-0-javascript-42hn)
+- [Dev.to/JS] [React Router Version 6 Tutorial How to Set up React Router@6](https://dev.to/sachinsingh101/react-router-version-6-tutorial-how-to-set-up-react-router6-231b)
+- [Dev.to/JS] [Minimum Moves to Convert String](https://dev.to/zeeshanali0704/minimum-moves-to-convert-string-3i3m)
 - [Dev.to/JS] [Top JavaScript 2022](https://dev.to/webandappstudio/top-javascript-2022-2o5l)
 - [Dev.to/JS] [ExpressJS: How to throw custom errors](https://dev.to/felipeleao18/expressjs-how-to-throw-custom-errors-aeo)
 - [Dev.to/JS] [Zero to SaaS - Product #1 BookMarksy.io](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-5afp)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Confused about freelancing.](https://dev.to/kritik/confused-about-freelancing-9ca)
 - [Dev.to/JS] [Luna 🌙 - Wrote a tiny WebAssembly compiler, that also runs in browser, built for demonstrative and educational purposes.](https://dev.to/thomscoder/luna-wrote-a-tiny-webassembly-compiler-that-runs-in-browser-built-for-demonstrative-and-educational-purposes-4o31)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
-- [Dev.to/JS] [I found 10,000x faster TypeScript validator library](https://dev.to/samchon/i-found-10000x-faster-typescript-validator-library-36mj)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
-- [Dev.to/JS] [Making a Simple Newsletter Webpage!](https://dev.to/lensco825/making-a-simple-newsletter-webpage-1c46)
 - [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
-- [Dev.to/JS] [Hello world!](https://dev.to/1dlzenvio/hello-world-434e)
 - [Lifehacker] [7 Types of Jewelry and How to Clean Them](https://lifehacker.com/7-types-of-jewelry-and-how-to-clean-them-1849728903)
 - [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)
 - [Lifehacker] [Is This Our Last Daylight Saving Time Change?](https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556)
