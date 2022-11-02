@@ -23,13 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Garlic Confit Deserves a Spot on Your Thanksgiving Table](https://lifehacker.com/garlic-confit-deserves-a-spot-on-your-thanksgiving-tabl-1849731860)
+- [Dev.to/JS] [Cleaner and Better way for calling APIs with Axios in your React-typescript applications](https://dev.to/tuasegun/cleaner-and-better-way-for-calling-apis-with-axios-in-your-react-typescript-applications-3d3k)
+- [Lifehacker] [How to Translate Foreign Languages Directly From Your iPhone Camera](https://lifehacker.com/how-to-translate-foreign-languages-directly-from-your-i-1849731075)
+- [Dev.to/JS] [A Definitive guide on JavaScript every&lpar;&rpar; Method](https://dev.to/refine/a-definitive-guide-on-javascript-every-method-1fha)
 - [Dev.to/JS] [7 front-end projects with a single universal code style config: here is how](https://dev.to/volodymyrsinievych/7-front-end-projects-with-a-single-universal-code-style-config-here-is-how-56i)
 - [Dev.to/JS] [3 Reasons Why Async/Await Is Better Than Chaining Promises](https://dev.to/maximization/3-reasons-why-asyncawait-is-better-than-chaining-promises-hk1)
 - [Lifehacker] [You&#39;ll Need Your First Colonoscopy Sooner Than You Think](https://lifehacker.com/youll-need-your-first-colonoscopy-sooner-than-you-think-1849730322)
 - [Dev.to/JS] [Array.Prototype.slice&lpar;&rpar; Method Explained JavaScript](https://dev.to/mavensingh/arrayprototypeslice-method-explained-javascript-5bm9)
 - [Dev.to/JS] [Import and Export Modules in NodeJS](https://dev.to/mkday/import-and-export-modules-in-nodejs-270f)
 - [Lifehacker] [11 Real, Amazing Treasure Hunts You Could Do From Home](https://lifehacker.com/11-real-amazing-treasure-hunts-you-could-do-from-home-1849730325)
-- [Dev.to/JS] [Can Key in React always coerce to string?](https://dev.to/himanshukanojiya/can-key-in-react-always-coerce-to-string-4245)
 - [Lifehacker] [For the Best Stuffing, Dry Your Bread Instead of Staling It](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
 - [Dev.to/JS] [Next.js Overview](https://dev.to/yukikmt/nextjs-overview-544a)
 - [Dev.to/JS] [How to Make Calculator in React](https://dev.to/reactjsguru/how-to-make-calculator-in-react-172i)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a slick animation from Schitt&#39;s Creek &lpar;TV series title sequence&rpar;](https://dev.to/robole/how-to-create-a-slick-animation-from-schitts-creek-tv-series-title-sequence-2207)
 - [Dev.to/JS] [how compare two array using map in JavaScript](https://dev.to/sachin407/how-compare-two-array-using-map-in-javascript-59j3)
 - [Dev.to/JS] [Forest Admin, the pioneer of low code internal tools, is now free with unlimited users](https://dev.to/forestadmin/forest-admin-the-pioneer-of-low-code-internal-tools-is-now-free-with-unlimited-users-1jbd)
-- [Dev.to/JS] [Searching for retro games with Xata &amp; Next.js 13](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
 - [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)
 - [Lifehacker] [10 Common Household Items That Are Using Too Much Energy](https://lifehacker.com/10-common-household-items-that-are-using-too-much-energ-1849724301)
-- [Lifehacker] [20 Movies Set on Halloween That Aren’t ‘Halloween’](https://lifehacker.com/20-movies-set-on-halloween-that-aren-t-halloween-1849722845)
-- [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
-- [Lifehacker] [The Best PS5 Features That Are Disabled by Default](https://lifehacker.com/the-best-ps5-features-that-are-disabled-by-default-1849723650)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 Movies Set on Halloween That Aren’t ‘Halloween’](https://lifehacker.com/20-movies-set-on-halloween-that-aren-t-halloween-1849722845)<!-- TECH-POSTS:END -->
 
 ---
 
