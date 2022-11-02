@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Polyfill - Part 4 Debounce &amp; Throttle - Leading &amp; Trailing options](https://dev.to/uttarasriya/js-polyfill-part-4-debounce-throttle-leading-trailing-options-3nn8)
+- [Lifehacker] [You&#39;ve Been Playing &#39;Super Mario Bros.&#39; Wrong Your Whole Life](https://lifehacker.com/youve-been-playing-super-mario-bros-wrong-your-whole-l-1849732657)
+- [Dev.to/JS] [Webpack 2](https://dev.to/asadullohruziev/webpack-2-46da)
+- [Lifehacker] [What a 7% Mortgage Rate Really Means for Your Monthly Payment](https://lifehacker.com/what-a-7-mortgage-rate-really-means-for-your-monthly-p-1849732713)
+- [Dev.to/JS] [Webpack 1](https://dev.to/asadullohruziev/webpack-1-9me)
 - [Dev.to/JS] [How to create a great user experience with React](https://dev.to/amrtcrypto/how-to-create-a-great-user-experience-with-react-ka0)
 - [Lifehacker] [You Can Get ‘Saturnalia’ for Free on Your PC Right Now](https://lifehacker.com/you-can-get-saturnalia-for-free-on-your-pc-right-now-1849732584)
 - [Dev.to/JS] [10 beginner-friendly JavaScript projects](https://dev.to/nicozerpa/10-beginner-friendly-javascript-projects-4nbg)
@@ -37,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Reasons Why Async/Await Is Better Than Chaining Promises](https://dev.to/maximization/3-reasons-why-asyncawait-is-better-than-chaining-promises-hk1)
 - [Lifehacker] [You&#39;ll Need Your First Colonoscopy Sooner Than You Think](https://lifehacker.com/youll-need-your-first-colonoscopy-sooner-than-you-think-1849730322)
 - [Dev.to/JS] [Array.Prototype.slice&lpar;&rpar; Method Explained JavaScript](https://dev.to/mavensingh/arrayprototypeslice-method-explained-javascript-5bm9)
-- [Dev.to/JS] [Import and Export Modules in NodeJS](https://dev.to/mkday/import-and-export-modules-in-nodejs-270f)
 - [Lifehacker] [11 Real, Amazing Treasure Hunts You Could Do From Home](https://lifehacker.com/11-real-amazing-treasure-hunts-you-could-do-from-home-1849730325)
 - [Lifehacker] [For the Best Stuffing, Dry Your Bread Instead of Staling It](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
-- [Dev.to/JS] [Next.js Overview](https://dev.to/yukikmt/nextjs-overview-544a)
-- [Dev.to/JS] [How to Make Calculator in React](https://dev.to/reactjsguru/how-to-make-calculator-in-react-172i)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Have Recurring Nightmares](https://lifehacker.com/what-to-do-if-you-have-recurring-nightmares-1849723525)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in November 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849725178)
 - [Lifehacker] [A Garment-by-Garment Guide to How Often You Really Need to Wash Your Clothes](https://lifehacker.com/a-garment-by-garment-guide-to-how-often-you-really-need-1849723330)
-- [Lifehacker] [Give Your Guest Bedroom and Bathroom a Holiday Glow](https://lifehacker.com/give-your-guest-bedroom-and-bathroom-a-holiday-glow-1849671938)
-- [Lifehacker] [Don&#39;t Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
-- [Lifehacker] [What to Do Instead of Buying a Giant Thanksgiving Turkey](https://lifehacker.com/what-to-do-instead-of-buying-a-giant-thanksgiving-turke-1849724578)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Give Your Guest Bedroom and Bathroom a Holiday Glow](https://lifehacker.com/give-your-guest-bedroom-and-bathroom-a-holiday-glow-1849671938)<!-- TECH-POSTS:END -->
 
 ---
 
