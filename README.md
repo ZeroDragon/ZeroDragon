@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ExpressJS: How to throw custom errors](https://dev.to/felipeleao18/expressjs-how-to-throw-custom-errors-aeo)
+- [Dev.to/JS] [Zero to SaaS - Product #1 BookMarksy.io](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-5afp)
+- [Dev.to/JS] [OSD600- Improving Siteit through refactoring and upgrading to ESM](https://dev.to/tdaw/osd600-improving-siteit-through-refactoring-and-upgrading-to-esm-43on)
 - [Dev.to/JS] [Tier Hello World Demo](https://dev.to/tier/tier-hello-world-demo-5fle)
 - [Dev.to/JS] [5 website help developers](https://dev.to/madhusudhan/5-website-help-developers-35lc)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
 - [Dev.to/JS] [Hello world!](https://dev.to/1dlzenvio/hello-world-434e)
 - [Dev.to/JS] [React JS Basics](https://dev.to/ipa22751/react-js-basics-46lj)
-- [Dev.to/JS] [Let’s Go Fetch&lpar;&rpar; Some Stuff!](https://dev.to/chukwuma1976/lets-go-fetch-some-stuff-5h5f)
 - [Lifehacker] [7 Types of Jewelry and How to Clean Them](https://lifehacker.com/7-types-of-jewelry-and-how-to-clean-them-1849728903)
-- [Dev.to/JS] [Angular content projection and SOLID code &lpar;ng-content&rpar;](https://dev.to/renaisense_/angular-content-projection-and-solid-code-ng-content-5940)
 - [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)
-- [Dev.to/JS] [3D Perspective Card using JavaScript](https://dev.to/piyushpatil1243/3d-perspective-card-using-javascript-4jo9)
 - [Lifehacker] [Is This Our Last Daylight Saving Time Change?](https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556)
 - [Lifehacker] [How to Use TikTok&#39;s New Voice Changer](https://lifehacker.com/how-to-use-tiktoks-new-voice-changer-1849728311)
 - [Lifehacker] [Exploit Amazon&#39;s Extended Return Policy to Score the Best Holiday Deals](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
