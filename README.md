@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Access Last Index Of Array Javascript/TypeScript](https://dev.to/saimwebhr/access-last-index-of-array-javascripttypescript-2ofd)
 - [Dev.to/JS] [Angular 15: Using The Directive Composition API](https://dev.to/henriquecustodia/angular-15-using-the-directive-composition-api-58j3)
 - [Dev.to/JS] [Ahhhh CVEs!](https://dev.to/rembrandtreyes/ahhhh-cves-266e)
 - [Dev.to/JS] [Day-0 JavaScript](https://dev.to/ziktech/day-0-javascript-42hn)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tier Hello World Demo](https://dev.to/tier/tier-hello-world-demo-5fle)
 - [Dev.to/JS] [5 website help developers](https://dev.to/madhusudhan/5-website-help-developers-35lc)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
-- [Dev.to/JS] [Aprenda map&lpar;&rpar; e filter&lpar;&rpar; de uma vez — Javascript](https://dev.to/x8ing_/aprenda-map-e-filter-de-uma-vez-javascript-32o7)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
 - [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
