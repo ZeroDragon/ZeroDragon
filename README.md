@@ -23,7 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Easy Ways to Make Your Laundry Smell Good &lpar;Without Harsh Detergents&rpar;](https://lifehacker.com/easy-ways-to-make-your-laundry-smell-good-without-hars-1849733422)
+- [Dev.to/JS] [Create &amp; deploy an ERC-20 token in 15 minutes &lpar;Truffle, OpenZeppelin, Goerli&rpar;](https://dev.to/willkre/create-deploy-an-erc-20-token-in-15-minutes-truffle-openzeppelin-goerli-33lb)
+- [Dev.to/JS] [How to download Vimeo video using JavaScript?](https://dev.to/jakeroid/how-to-download-vimeo-video-using-javascript-3975)
+- [Dev.to/JS] [Why use Next.js for eCommerce?](https://dev.to/maxikius/why-use-nextjs-for-ecommerce-4i8c)
+- [Lifehacker] [BeReal Tattles When You Take a Screenshot](https://lifehacker.com/bereal-tattles-when-you-take-a-screenshot-1849733633)
+- [Dev.to/JS] [DOM Manipulation: part I](https://dev.to/crispitipina/dom-manipulation-part-i-33f2)
+- [Dev.to/JS] [Best Next.js Examples in 2023](https://dev.to/maxikius/best-nextjs-examples-in-2023-1888)
 - [Lifehacker] [Boil Your Mashing Potatoes With Garlic and Aromatics](https://lifehacker.com/boil-your-mashing-potatoes-with-garlic-and-aromatics-1849733321)
+- [Dev.to/JS] [Javascript — Template String](https://dev.to/cleytonlang/javascript-template-string-15ho)
+- [Dev.to/JS] [Webpack 3](https://dev.to/asadullohruziev/webpack-3-439g)
 - [Dev.to/JS] [Javascript — Como saber se um objeto está vazio](https://dev.to/cleytonlang/javascript-como-saber-se-um-objeto-esta-vazio-54h0)
 - [Dev.to/JS] [Ejs Template Engine](https://dev.to/akshdesai1/ejs-template-engine-32df)
 - [Lifehacker] [Add Pine Nuts to Your Meatballs](https://lifehacker.com/add-pine-nuts-to-your-meatballs-1849732961)
@@ -31,16 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pros &lpar;and a Few Cons&rpar; of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)
 - [Dev.to/JS] [Find Intersection of Two Arrays](https://dev.to/yohanesss/find-intersection-of-two-arrays-1b62)
 - [Dev.to/JS] [Querying installed packages with npm query](https://dev.to/cloudx/querying-installed-packages-with-npm-query-389f)
-- [Dev.to/JS] [Thread Management in Node.js](https://dev.to/ishthumber/thread-management-in-nodejs-131d)
-- [Dev.to/JS] [Getting Started With Parcel.js: A Web Application Bundler in 2022](https://dev.to/rembertdesigns/getting-started-with-parceljs-a-web-application-bundler-in-2022-3o88)
 - [Lifehacker] [&#39;Black Hairy Tongue&#39; Probably Didn&#39;t Kill Julie Powell](https://lifehacker.com/black-hairy-tongue-probably-didnt-kill-julie-powell-1849732656)
-- [Dev.to/JS] [How to add PayPal checkout payments to your React app](https://dev.to/paypaldeveloper/how-to-add-paypal-checkout-payments-to-your-react-app-53aa)
-- [Dev.to/JS] [JS Polyfills - Part 4 Debounce &amp; Throttle - Leading &amp; Trailing options](https://dev.to/uttarasriya/js-polyfill-part-4-debounce-throttle-leading-trailing-options-3nn8)
 - [Lifehacker] [You&#39;ve Been Playing &#39;Super Mario Bros.&#39; Wrong Your Whole Life](https://lifehacker.com/youve-been-playing-super-mario-bros-wrong-your-whole-l-1849732657)
-- [Dev.to/JS] [Webpack 2](https://dev.to/asadullohruziev/webpack-2-46da)
 - [Lifehacker] [What a 7% Mortgage Rate Really Means for Your Monthly Payment](https://lifehacker.com/what-a-7-mortgage-rate-really-means-for-your-monthly-p-1849732713)
-- [Dev.to/JS] [Webpack 1](https://dev.to/asadullohruziev/webpack-1-9me)
-- [Dev.to/JS] [How to create a great user experience with React](https://dev.to/amrtcrypto/how-to-create-a-great-user-experience-with-react-ka0)
 - [Lifehacker] [You Can Get ‘Saturnalia’ for Free on Your PC Right Now](https://lifehacker.com/you-can-get-saturnalia-for-free-on-your-pc-right-now-1849732584)
 - [Lifehacker] [How to Put Out Every Kind of Kitchen Fire](https://lifehacker.com/how-to-put-out-every-kind-of-kitchen-fire-1849732334)
 - [Lifehacker] [Garlic Confit Deserves a Spot on Your Thanksgiving Table](https://lifehacker.com/garlic-confit-deserves-a-spot-on-your-thanksgiving-tabl-1849731860)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 of the Best New Things to Stream in November 2022](https://lifehacker.com/13-of-the-best-new-things-to-stream-in-november-2022-1849727972)
 - [Lifehacker] [Take Pictures of All Your Gross Medical Issues](https://lifehacker.com/why-you-should-take-pictures-of-all-your-gross-medical-1849727418)
 - [Lifehacker] [How to Actually Get Tickets to Taylor Swift&#39;s &#39;Eras&#39; Tour](https://lifehacker.com/how-to-actually-get-tickets-to-taylor-swifts-eras-tour-1849727380)
-- [Lifehacker] [How to Recognize Fake Pet Ads](https://lifehacker.com/how-to-recognize-fake-pet-ads-1849725821)
-- [Lifehacker] [How to Bake a Better Cake, According to Science](https://lifehacker.com/how-to-bake-a-better-cake-according-to-science-1849725757)
-- [Lifehacker] [Make and Freeze Some Roux Now for Easy Turkey Gravy](https://lifehacker.com/make-and-freeze-some-roux-now-for-easy-turkey-gravy-1849725547)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Recognize Fake Pet Ads](https://lifehacker.com/how-to-recognize-fake-pet-ads-1849725821)<!-- TECH-POSTS:END -->
 
 ---
 
