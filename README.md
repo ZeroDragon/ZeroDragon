@@ -25,7 +25,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [how compare two array using map in JavaScript](https://dev.to/sachin407/how-compare-two-array-using-map-in-javascript-59j3)
 - [Dev.to/JS] [Forest Admin, the pioneer of low code internal tools, is now free with unlimited users](https://dev.to/forestadmin/forest-admin-the-pioneer-of-low-code-internal-tools-is-now-free-with-unlimited-users-1jbd)
-- [Dev.to/JS] [Searching for retro games with Xata &amp; Next 13](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
+- [Dev.to/JS] [Searching for retro games with Xata &amp; Next.js 13](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
 - [Dev.to/JS] [What is Zustand? How to Use in React || React Native](https://dev.to/hrajaei76/what-is-zustand-how-to-use-in-react-react-native-5kk)
 - [Dev.to/JS] [How to Assign Types To Nested Objects In TypeScript](https://dev.to/manikbajaj/how-to-assign-types-to-nested-objects-in-typescript-5g25)
 - [Dev.to/JS] [Understanding CRUD operations with a note app in react](https://dev.to/himanshupal0001/understanding-crud-operations-with-a-note-app-in-react-3koe)
