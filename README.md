@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [For the Best Stuffing, Dry Your Bread Instead of Staling It](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
+- [Dev.to/JS] [Next.js Overview](https://dev.to/yukikmt/nextjs-overview-544a)
+- [Dev.to/JS] [How to Make Calculator in React](https://dev.to/reactjsguru/how-to-make-calculator-in-react-172i)
+- [Dev.to/JS] [Setting Up A Cookie From NEXT.JS Back-end](https://dev.to/sowmo0509/setting-up-a-cookie-from-nextjs-back-end-16kl)
+- [Dev.to/JS] [How to create a slick animation from Schitt&#39;s Creek &lpar;TV series title sequence&rpar;](https://dev.to/robole/how-to-create-a-slick-animation-from-schitts-creek-tv-series-title-sequence-2207)
 - [Dev.to/JS] [how compare two array using map in JavaScript](https://dev.to/sachin407/how-compare-two-array-using-map-in-javascript-59j3)
 - [Dev.to/JS] [Forest Admin, the pioneer of low code internal tools, is now free with unlimited users](https://dev.to/forestadmin/forest-admin-the-pioneer-of-low-code-internal-tools-is-now-free-with-unlimited-users-1jbd)
 - [Dev.to/JS] [Searching for retro games with Xata &amp; Next.js 13](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding CRUD operations with a note app in react](https://dev.to/himanshupal0001/understanding-crud-operations-with-a-note-app-in-react-3koe)
 - [Dev.to/JS] [Creating a registration and a login with two-factor authentication on React 🤩](https://dev.to/nevodavid/creating-a-registration-and-a-login-with-two-factor-authentication-on-react-2p2i)
 - [Dev.to/JS] [Test post](https://dev.to/sezersinanoglu/test-post-427a)
-- [Dev.to/JS] [Speed up Node application build time with ESBuild](https://dev.to/fyapy/speed-up-node-application-build-time-with-esbuild-2cg1)
-- [Dev.to/JS] [NETMARK](https://dev.to/netmark1/netmark-1ali)
-- [Dev.to/JS] [Uploading a file to AWS S3](https://dev.to/kalashin1/uploading-a-file-to-aws-s3-ikl)
-- [Dev.to/JS] [Comment utilise le moteur de modeles Pug dans une applications Node/Express](https://dev.to/skbtech/comment-utilise-le-moteur-de-modeles-pug-dans-une-applications-nodeexpress-459d)
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
 - [Lifehacker] [The Best PS5 Features That Are Disabled by Default](https://lifehacker.com/the-best-ps5-features-that-are-disabled-by-default-1849723650)
 - [Lifehacker] [Five Ways to &#39;Clean&#39; the Air in Your Home](https://lifehacker.com/five-ways-to-clean-the-air-in-your-home-1849723460)
-- [Lifehacker] [What&#39;s New in Chrome and ChromeOS 107](https://lifehacker.com/whats-new-in-chrome-and-chromeos-107-1849722791)
-- [Lifehacker] [What &#39;Finishing&#39; a Spirit Means, and Why It Matters](https://lifehacker.com/what-finishing-a-spirit-means-and-why-it-matters-1849715978)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New in Chrome and ChromeOS 107](https://lifehacker.com/whats-new-in-chrome-and-chromeos-107-1849722791)<!-- TECH-POSTS:END -->
 
 ---
 
