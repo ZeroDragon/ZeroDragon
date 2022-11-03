@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Write Concise Object Literal Declarations Using Object Property Shorthand](https://dev.to/doublestar85/write-concise-object-literal-declarations-using-object-property-shorthand-2c4g)
+- [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)
+- [Dev.to/JS] [I switched from Vercel to Cloudflare Pages](https://dev.to/jam3sn/i-switched-from-vercel-to-cloudflare-pages-abp)
+- [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
 - [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)
 - [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
 - [Dev.to/JS] [Most Used Git Commands](https://dev.to/kshitij9896/most-used-git-commands-4ej0)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UI testing safe checks on Appium](https://dev.to/benthemobileguy/ui-testing-safe-checks-on-appium-54ke)
 - [Dev.to/JS] [Minimum Cost of Buying Candies With Discount](https://dev.to/zeeshanali0704/minimum-cost-of-buying-candies-with-discount-1cg3)
 - [Dev.to/JS] [Static Analysis Tooling](https://dev.to/cychu42/static-analysis-tooling-2egk)
-- [Dev.to/JS] [Minified React error in production with Vite.js](https://dev.to/fredrikbergqvist/minified-react-error-in-production-with-vitejs-210p)
 - [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
-- [Dev.to/JS] [Javascript beginner help!](https://dev.to/saimalinadeem/javascript-beginner-help-3ln4)
 - [Lifehacker] [These Malware Apps Are Still Live on the Google Play Store](https://lifehacker.com/these-malware-apps-are-still-live-on-the-google-play-st-1849737245)
 - [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
 - [Lifehacker] [Have an Actually Useful One-on-One With Your Boss](https://lifehacker.com/have-an-actually-useful-one-on-one-with-your-boss-1849735129)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What a 7% Mortgage Rate Really Means for Your Monthly Payment](https://lifehacker.com/what-a-7-mortgage-rate-really-means-for-your-monthly-p-1849732713)
 - [Lifehacker] [You Can Get ‘Saturnalia’ for Free on Your PC Right Now](https://lifehacker.com/you-can-get-saturnalia-for-free-on-your-pc-right-now-1849732584)
 - [Lifehacker] [How to Put Out Every Kind of Kitchen Fire](https://lifehacker.com/how-to-put-out-every-kind-of-kitchen-fire-1849732334)
-- [Lifehacker] [Garlic Confit Deserves a Spot on Your Thanksgiving Table](https://lifehacker.com/garlic-confit-deserves-a-spot-on-your-thanksgiving-tabl-1849731860)
-- [Lifehacker] [How to Translate Foreign Languages Directly From Your iPhone Camera](https://lifehacker.com/how-to-translate-foreign-languages-directly-from-your-i-1849731075)
-- [Lifehacker] [You&#39;ll Need Your First Colonoscopy Sooner Than You Think](https://lifehacker.com/youll-need-your-first-colonoscopy-sooner-than-you-think-1849730322)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Garlic Confit Deserves a Spot on Your Thanksgiving Table](https://lifehacker.com/garlic-confit-deserves-a-spot-on-your-thanksgiving-tabl-1849731860)<!-- TECH-POSTS:END -->
 
 ---
 
