@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 00 - 100DaysOfCode Challenge](https://dev.to/highnitin/day-00-100daysofcode-challenge-34fm)
+- [Dev.to/JS] [HOW TO CREATE VIDEO/AUDIO YOUTUBE DOWNLOADER EXTENSIONS USING JAVASCRIPT AND NODEJS](https://dev.to/danities316/how-to-create-videoaudio-youtube-downloader-using-javascript-and-nodejs-nj9)
+- [Dev.to/JS] [Let&#39;s Create a Questionnaire Using NodeJS process stdin and stdout](https://dev.to/mkday/lets-create-a-questionnaire-using-nodejs-process-stdin-and-stdout-2dce)
+- [Dev.to/JS] [Why should one use Nuxt &amp; Windi?](https://dev.to/olacampuspune/why-should-one-use-nuxt-windi-3ddi)
 - [Dev.to/JS] [tsParticles 2.5.1 Released](https://dev.to/tsparticles/tsparticles-251-released-e27)
 - [Dev.to/JS] [Head Start With Angular 14 and Standalone Components](https://dev.to/danywalls/head-start-with-angular-14-and-standalone-components-5ffl)
 - [Dev.to/JS] [Environment Variables in Node.js](https://dev.to/benjaminnwokolo/environment-variables-in-nodejs-40a5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async functionality - currying that makes sense](https://dev.to/johnkazer/async-functionality-currying-that-makes-sense-58d2)
 - [Dev.to/JS] [Coding with Kaboom.js game tutorial &lpar;Hi guys, i&#39;m Gabriel V Macaio, im programmer in Brazil&rpar;](https://dev.to/megauniverse/coding-with-kaboomjs-game-tutorial-hi-guys-im-gabriel-v-macaio-im-programmer-in-brazil-ha7)
 - [Dev.to/JS] [How React Router can cause unexplained behavior with your browser](https://dev.to/jaredm/how-react-router-can-cause-unexplained-api-behavior-fa5)
-- [Dev.to/JS] [Where to save dynamics texts in MongoDB](https://dev.to/soujiro17/where-to-save-dynamics-texts-in-mongodb-1i0d)
-- [Dev.to/JS] [Zero to SaaS - Product #1 BookMarksy.io landing page Is live!](https://dev.to/brandonkylebailey/zero-to-saas-produce-1-bookmarksyio-landing-page-is-live-4ljh)
-- [Dev.to/JS] [Can I stop forgetting to update my OpenAPI docs?](https://dev.to/aaronblondeau/can-i-stop-forgetting-to-update-my-openapi-docs-52ma)
-- [Dev.to/JS] [Prettier &amp; ESlint](https://dev.to/lostbutton/prettier-eslint-1kp8)
 - [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
 - [Lifehacker] [Use These Money-Saving DIY Cleaning Product Alternatives](https://lifehacker.com/use-these-money-saving-diy-cleaning-product-alternative-1849734244)
 - [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)
