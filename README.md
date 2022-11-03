@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
+- [Dev.to/JS] [Most Used Git Commands](https://dev.to/kshitij9896/most-used-git-commands-4ej0)
+- [Dev.to/JS] [Help needed.](https://dev.to/danuragtiwari/help-needed-1011)
+- [Dev.to/JS] [Javascript DOM. A final o que é ? E a sua estrutura.](https://dev.to/romulomax47/javascript-dom-a-final-o-que-e-e-sua-estrutura-43i9)
+- [Lifehacker] [Your Career Needs an Elevator Pitch](https://lifehacker.com/your-career-needs-an-elevator-pitch-1849734325)
+- [Dev.to/JS] [Top Books For Learning JavaScript](https://dev.to/kshitij9896/top-books-for-learning-javascript-2j1g)
+- [Dev.to/JS] [How to check if your libraries are vulnerable?](https://dev.to/orlandov14/how-to-check-if-your-libraries-are-vulnerable-5dh4)
+- [Dev.to/JS] [7 Optimization Tips Every JavaScript Developer Needs to Know](https://dev.to/amrtcrypto/7-optimization-tips-every-javascript-developer-needs-to-know-4mii)
 - [Dev.to/JS] [Top Podcasts for developer&#39;s](https://dev.to/kshitij9896/top-podcasts-for-developers-4efd)
 - [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)
 - [Dev.to/JS] [UI testing safe checks on Appium](https://dev.to/benthemobileguy/ui-testing-safe-checks-on-appium-54ke)
@@ -31,14 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Minified React error in production with Vite.js](https://dev.to/fredrikbergqvist/minified-react-error-in-production-with-vitejs-210p)
 - [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
 - [Dev.to/JS] [Javascript beginner help!](https://dev.to/saimalinadeem/javascript-beginner-help-3ln4)
-- [Dev.to/JS] [Paracetamol.test.js🧪| #10: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-10-testea-este-codigo-javascript-2gjb)
-- [Dev.to/JS] [Remove Digit From Number to Maximize Result](https://dev.to/zeeshanali0704/remove-digit-from-number-to-maximize-result-l78)
 - [Lifehacker] [These Malware Apps Are Still Live on the Google Play Store](https://lifehacker.com/these-malware-apps-are-still-live-on-the-google-play-st-1849737245)
 - [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
-- [Dev.to/JS] [Help needed to write javascript in react app](https://dev.to/ksencherey/help-needed-to-write-javascript-in-react-js-57fh)
-- [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 1](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-1-3hdj)
-- [Dev.to/JS] [Next 13 Basics in 10 minutes](https://dev.to/guillaumeduhan/next-13-basics-in-10-minutes-2nda)
-- [Dev.to/JS] [Easy Way to Dark Mode](https://dev.to/abanoubgeorge/easy-way-to-dark-mode-4bo2)
 - [Lifehacker] [Have an Actually Useful One-on-One With Your Boss](https://lifehacker.com/have-an-actually-useful-one-on-one-with-your-boss-1849735129)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying Your First Gaming PC](https://lifehacker.com/a-beginners-guide-to-buying-your-first-gaming-pc-1849735385)
 - [Lifehacker] [12 New Thanksgiving &#39;Traditions&#39; You Should Adopt This Year](https://lifehacker.com/12-new-thanksgiving-traditions-you-should-adopt-this-ye-1849734800)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Garlic Confit Deserves a Spot on Your Thanksgiving Table](https://lifehacker.com/garlic-confit-deserves-a-spot-on-your-thanksgiving-tabl-1849731860)
 - [Lifehacker] [How to Translate Foreign Languages Directly From Your iPhone Camera](https://lifehacker.com/how-to-translate-foreign-languages-directly-from-your-i-1849731075)
 - [Lifehacker] [You&#39;ll Need Your First Colonoscopy Sooner Than You Think](https://lifehacker.com/youll-need-your-first-colonoscopy-sooner-than-you-think-1849730322)
-- [Lifehacker] [11 Real, Amazing Treasure Hunts You Could Do From Home](https://lifehacker.com/11-real-amazing-treasure-hunts-you-could-do-from-home-1849730325)
-- [Lifehacker] [For the Best Stuffing, Dry Your Bread Instead of Staling It](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
-- [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Real, Amazing Treasure Hunts You Could Do From Home](https://lifehacker.com/11-real-amazing-treasure-hunts-you-could-do-from-home-1849730325)<!-- TECH-POSTS:END -->
 
 ---
 
