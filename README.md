@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get dominant colour of an image with the Color Thief library in JavaScript](https://dev.to/n3rd/how-to-get-dominant-colour-of-an-image-with-the-color-thief-library-in-javascript-1p47)
+- [Dev.to/JS] [Ng-News: Episode 22/43](https://dev.to/ng_news/ng-news-episode-2243-188a)
+- [Dev.to/JS] [Ventajas de tomar un Bootcamp FullStack Developer](https://dev.to/jonatelo09/ventajas-de-tomar-un-bootcamp-fullstack-developer-kjd)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
 - [Dev.to/JS] [Write Concise Object Literal Declarations Using Object Property Shorthand](https://dev.to/doublestar85/write-concise-object-literal-declarations-using-object-property-shorthand-2c4g)
@@ -41,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Optimization Tips Every JavaScript Developer Needs to Know](https://dev.to/amrtcrypto/7-optimization-tips-every-javascript-developer-needs-to-know-4mii)
 - [Dev.to/JS] [Top Podcasts for developer&#39;s](https://dev.to/kshitij9896/top-podcasts-for-developers-4efd)
 - [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)
-- [Dev.to/JS] [UI testing safe checks on Appium](https://dev.to/benthemobileguy/ui-testing-safe-checks-on-appium-54ke)
-- [Dev.to/JS] [Minimum Cost of Buying Candies With Discount](https://dev.to/zeeshanali0704/minimum-cost-of-buying-candies-with-discount-1cg3)
-- [Dev.to/JS] [Static Analysis Tooling](https://dev.to/cychu42/static-analysis-tooling-2egk)
 - [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
 - [Lifehacker] [These Malware Apps Are Still Live on the Google Play Store](https://lifehacker.com/these-malware-apps-are-still-live-on-the-google-play-st-1849737245)
 - [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
