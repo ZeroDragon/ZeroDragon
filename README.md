@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Minified React error in production with Vite.js](https://dev.to/fredrikbergqvist/minified-react-error-in-production-with-vitejs-210p)
+- [Dev.to/JS] [Javascript beginner help!](https://dev.to/saimalinadeem/javascript-beginner-help-3ln4)
+- [Dev.to/JS] [Paracetamol.test.js🧪| #10: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-10-testea-este-codigo-javascript-2gjb)
+- [Dev.to/JS] [Remove Digit From Number to Maximize Result](https://dev.to/zeeshanali0704/remove-digit-from-number-to-maximize-result-l78)
+- [Lifehacker] [These Malware Apps Are Still Live on the Google Play Store](https://lifehacker.com/these-malware-apps-are-still-live-on-the-google-play-st-1849737245)
+- [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
+- [Dev.to/JS] [Help needed to write javascript in react app](https://dev.to/ksencherey/help-needed-to-write-javascript-in-react-js-57fh)
 - [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 1](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-1-3hdj)
 - [Dev.to/JS] [Next 13 Basics in 10 minutes](https://dev.to/guillaumeduhan/next-13-basics-in-10-minutes-2nda)
 - [Dev.to/JS] [Easy Way to Dark Mode](https://dev.to/abanoubgeorge/easy-way-to-dark-mode-4bo2)
@@ -33,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is ref in mongoose.js](https://dev.to/ifeanyichima/what-is-ref-in-mongoosejs-4o2h)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying Your First Gaming PC](https://lifehacker.com/a-beginners-guide-to-buying-your-first-gaming-pc-1849735385)
 - [Lifehacker] [12 New Thanksgiving &#39;Traditions&#39; You Should Adopt This Year](https://lifehacker.com/12-new-thanksgiving-traditions-you-should-adopt-this-ye-1849734800)
-- [Dev.to/JS] [Why react is so hard](https://dev.to/rfnajid/why-react-is-so-hard-327g)
 - [Lifehacker] [The Easiest Way to Save Money on Holiday Travel This Year](https://lifehacker.com/the-easiest-way-to-save-money-on-holiday-travel-this-ye-1849733324)
-- [Dev.to/JS] [Link Multiple Social Accounts to the user. &lpar;Next Auth &rpar;](https://dev.to/diogovski/link-multiple-social-accounts-to-the-user-next-auth--54mg)
-- [Dev.to/JS] [Password input with label and hide/show toggle eye svg - A simple tutorial](https://dev.to/designyff/password-input-with-label-and-hideshow-toggle-eye-svg-a-simple-tutorial-46mb)
-- [Dev.to/JS] [Awesome lesser-known tools to integrate into your workflow](https://dev.to/surajondev/awesome-lesser-known-tools-to-integrate-into-your-workflow-3d3g)
-- [Dev.to/JS] [9 Tips to Improve your Ecommerce User Experience](https://dev.to/medusajs/9-tips-to-improve-your-ecommerce-user-experience-3me8)
 - [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
 - [Lifehacker] [Use These Money-Saving DIY Cleaning Product Alternatives](https://lifehacker.com/use-these-money-saving-diy-cleaning-product-alternative-1849734244)
 - [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
 - [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
-- [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
-- [Lifehacker] [7 Types of Jewelry and How to Clean Them](https://lifehacker.com/7-types-of-jewelry-and-how-to-clean-them-1849728903)
-- [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)<!-- TECH-POSTS:END -->
 
 ---
 
