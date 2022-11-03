@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
+- [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
 - [Dev.to/JS] [Write Concise Object Literal Declarations Using Object Property Shorthand](https://dev.to/doublestar85/write-concise-object-literal-declarations-using-object-property-shorthand-2c4g)
+- [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
 - [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)
 - [Dev.to/JS] [I switched from Vercel to Cloudflare Pages](https://dev.to/jam3sn/i-switched-from-vercel-to-cloudflare-pages-abp)
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pros &lpar;and a Few Cons&rpar; of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)
 - [Lifehacker] [&#39;Black Hairy Tongue&#39; Probably Didn&#39;t Kill Julie Powell](https://lifehacker.com/black-hairy-tongue-probably-didnt-kill-julie-powell-1849732656)
 - [Lifehacker] [You&#39;ve Been Playing &#39;Super Mario Bros.&#39; Wrong Your Whole Life](https://lifehacker.com/youve-been-playing-super-mario-bros-wrong-your-whole-l-1849732657)
-- [Lifehacker] [What a 7% Mortgage Rate Really Means for Your Monthly Payment](https://lifehacker.com/what-a-7-mortgage-rate-really-means-for-your-monthly-p-1849732713)
-- [Lifehacker] [You Can Get ‘Saturnalia’ for Free on Your PC Right Now](https://lifehacker.com/you-can-get-saturnalia-for-free-on-your-pc-right-now-1849732584)
-- [Lifehacker] [How to Put Out Every Kind of Kitchen Fire](https://lifehacker.com/how-to-put-out-every-kind-of-kitchen-fire-1849732334)
-- [Lifehacker] [Garlic Confit Deserves a Spot on Your Thanksgiving Table](https://lifehacker.com/garlic-confit-deserves-a-spot-on-your-thanksgiving-tabl-1849731860)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What a 7% Mortgage Rate Really Means for Your Monthly Payment](https://lifehacker.com/what-a-7-mortgage-rate-really-means-for-your-monthly-p-1849732713)<!-- TECH-POSTS:END -->
 
 ---
 
