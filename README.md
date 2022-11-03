@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tsParticles 2.5.1 Released](https://dev.to/tsparticles/tsparticles-251-released-e27)
+- [Dev.to/JS] [Head Start With Angular 14 and Standalone Components](https://dev.to/danywalls/head-start-with-angular-14-and-standalone-components-5ffl)
+- [Dev.to/JS] [Environment Variables in Node.js](https://dev.to/benjaminnwokolo/environment-variables-in-nodejs-40a5)
+- [Dev.to/JS] [Gestion d&#39;erreurs Node/Express](https://dev.to/admin243/gestion-derreurs-nodeexpress-8e3)
 - [Dev.to/JS] [How we migrate Clicknium to Chrome Manifest V3](https://dev.to/kayyolo/how-we-migrate-clicknium-to-chrome-manifest-v3-o6o)
 - [Dev.to/JS] [Async functionality - currying that makes sense](https://dev.to/johnkazer/async-functionality-currying-that-makes-sense-58d2)
 - [Dev.to/JS] [Coding with Kaboom.js game tutorial &lpar;Hi guys, i&#39;m Gabriel V Macaio, im programmer in Brazil&rpar;](https://dev.to/megauniverse/coding-with-kaboomjs-game-tutorial-hi-guys-im-gabriel-v-macaio-im-programmer-in-brazil-ha7)
@@ -31,14 +35,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zero to SaaS - Product #1 BookMarksy.io landing page Is live!](https://dev.to/brandonkylebailey/zero-to-saas-produce-1-bookmarksyio-landing-page-is-live-4ljh)
 - [Dev.to/JS] [Can I stop forgetting to update my OpenAPI docs?](https://dev.to/aaronblondeau/can-i-stop-forgetting-to-update-my-openapi-docs-52ma)
 - [Dev.to/JS] [Prettier &amp; ESlint](https://dev.to/lostbutton/prettier-eslint-1kp8)
-- [Dev.to/JS] [Deploying a Node.js App with AWS Elastic Beanstalk](https://dev.to/honeybadger/deploying-a-nodejs-app-with-aws-elastic-beanstalk-25a9)
-- [Dev.to/JS] [Code Smell 176 - Changes in Essence](https://dev.to/mcsee/code-smell-176-changes-in-essence-5265)
 - [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
 - [Lifehacker] [Use These Money-Saving DIY Cleaning Product Alternatives](https://lifehacker.com/use-these-money-saving-diy-cleaning-product-alternative-1849734244)
-- [Dev.to/JS] [Starting this again](https://dev.to/doublestar85/starting-this-again-40g)
 - [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)
 - [Lifehacker] [Easy Ways to Make Your Laundry Smell Good &lpar;Without Harsh Detergents&rpar;](https://lifehacker.com/easy-ways-to-make-your-laundry-smell-good-without-hars-1849733422)
-- [Dev.to/JS] [Create &amp; deploy an ERC-20 token in 15 minutes &lpar;Truffle, OpenZeppelin, Goerli&rpar;](https://dev.to/willkre/create-deploy-an-erc-20-token-in-15-minutes-truffle-openzeppelin-goerli-33lb)
 - [Lifehacker] [BeReal Tattles When You Take a Screenshot](https://lifehacker.com/bereal-tattles-when-you-take-a-screenshot-1849733633)
 - [Lifehacker] [Boil Your Mashing Potatoes With Garlic and Aromatics](https://lifehacker.com/boil-your-mashing-potatoes-with-garlic-and-aromatics-1849733321)
 - [Lifehacker] [Add Pine Nuts to Your Meatballs](https://lifehacker.com/add-pine-nuts-to-your-meatballs-1849732961)
