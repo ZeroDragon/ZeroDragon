@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get your ranking among all Stackoverflow users for your favourite technology](https://dev.to/johannchopin/get-your-ranking-among-all-stackoverflow-users-for-your-favourite-technology-1m1l)
+- [Dev.to/JS] [What is ref in mongoose.js](https://dev.to/ifeanyichima/what-is-ref-in-mongoosejs-4o2h)
+- [Lifehacker] [A Beginner&#39;s Guide to Buying Your First Gaming PC](https://lifehacker.com/a-beginners-guide-to-buying-your-first-gaming-pc-1849735385)
+- [Lifehacker] [12 New Thanksgiving &#39;Traditions&#39; You Should Adopt This Year](https://lifehacker.com/12-new-thanksgiving-traditions-you-should-adopt-this-ye-1849734800)
 - [Dev.to/JS] [Why react is so hard](https://dev.to/rfnajid/why-react-is-so-hard-327g)
 - [Lifehacker] [The Easiest Way to Save Money on Holiday Travel This Year](https://lifehacker.com/the-easiest-way-to-save-money-on-holiday-travel-this-ye-1849733324)
 - [Dev.to/JS] [Link Multiple Social Accounts to the user. &lpar;Next Auth &rpar;](https://dev.to/diogovski/link-multiple-social-accounts-to-the-user-next-auth--54mg)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 00 - 100DaysOfCode Challenge](https://dev.to/highnitin/day-00-100daysofcode-challenge-34fm)
 - [Dev.to/JS] [HOW TO CREATE VIDEO/AUDIO YOUTUBE DOWNLOADER EXTENSIONS USING JAVASCRIPT AND NODEJS](https://dev.to/danities316/how-to-create-videoaudio-youtube-downloader-using-javascript-and-nodejs-nj9)
 - [Dev.to/JS] [Let&#39;s Create a Questionnaire Using NodeJS process stdin and stdout](https://dev.to/mkday/lets-create-a-questionnaire-using-nodejs-process-stdin-and-stdout-2dce)
-- [Dev.to/JS] [Why should one use Nuxt &amp; Windi?](https://dev.to/olacampuspune/why-should-one-use-nuxt-windi-3ddi)
-- [Dev.to/JS] [tsParticles 2.5.1 Released](https://dev.to/tsparticles/tsparticles-251-released-e27)
 - [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
 - [Lifehacker] [Use These Money-Saving DIY Cleaning Product Alternatives](https://lifehacker.com/use-these-money-saving-diy-cleaning-product-alternative-1849734244)
 - [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
 - [Lifehacker] [7 Types of Jewelry and How to Clean Them](https://lifehacker.com/7-types-of-jewelry-and-how-to-clean-them-1849728903)
 - [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)
-- [Lifehacker] [Is This Our Last Daylight Saving Time Change?](https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556)
-- [Lifehacker] [How to Use TikTok&#39;s New Voice Changer](https://lifehacker.com/how-to-use-tiktoks-new-voice-changer-1849728311)
-- [Lifehacker] [Exploit Amazon&#39;s Extended Return Policy to Score the Best Holiday Deals](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Is This Our Last Daylight Saving Time Change?](https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556)<!-- TECH-POSTS:END -->
 
 ---
 
