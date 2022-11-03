@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use Destructing Assignment to Pass an Object as a Functions Parameters](https://dev.to/doublestar85/use-destructing-assignment-to-pass-an-object-as-a-functions-parameters-24l9)
+- [Dev.to/JS] [1 dars](https://dev.to/jamshidthai/1-dars-6ad)
 - [Dev.to/JS] [Day 00 - 100DaysOfCode Challenge](https://dev.to/highnitin/day-00-100daysofcode-challenge-34fm)
 - [Dev.to/JS] [HOW TO CREATE VIDEO/AUDIO YOUTUBE DOWNLOADER EXTENSIONS USING JAVASCRIPT AND NODEJS](https://dev.to/danities316/how-to-create-videoaudio-youtube-downloader-using-javascript-and-nodejs-nj9)
 - [Dev.to/JS] [Let&#39;s Create a Questionnaire Using NodeJS process stdin and stdout](https://dev.to/mkday/lets-create-a-questionnaire-using-nodejs-process-stdin-and-stdout-2dce)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gestion d&#39;erreurs Node/Express](https://dev.to/admin243/gestion-derreurs-nodeexpress-8e3)
 - [Dev.to/JS] [How we migrate Clicknium to Chrome Manifest V3](https://dev.to/kayyolo/how-we-migrate-clicknium-to-chrome-manifest-v3-o6o)
 - [Dev.to/JS] [Async functionality - currying that makes sense](https://dev.to/johnkazer/async-functionality-currying-that-makes-sense-58d2)
-- [Dev.to/JS] [Coding with Kaboom.js game tutorial &lpar;Hi guys, i&#39;m Gabriel V Macaio, im programmer in Brazil&rpar;](https://dev.to/megauniverse/coding-with-kaboomjs-game-tutorial-hi-guys-im-gabriel-v-macaio-im-programmer-in-brazil-ha7)
-- [Dev.to/JS] [How React Router can cause unexplained behavior with your browser](https://dev.to/jaredm/how-react-router-can-cause-unexplained-api-behavior-fa5)
 - [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
 - [Lifehacker] [Use These Money-Saving DIY Cleaning Product Alternatives](https://lifehacker.com/use-these-money-saving-diy-cleaning-product-alternative-1849734244)
 - [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)
