@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)
 - [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
 - [Dev.to/JS] [Most Used Git Commands](https://dev.to/kshitij9896/most-used-git-commands-4ej0)
 - [Dev.to/JS] [Help needed.](https://dev.to/danuragtiwari/help-needed-1011)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Put Out Every Kind of Kitchen Fire](https://lifehacker.com/how-to-put-out-every-kind-of-kitchen-fire-1849732334)
 - [Lifehacker] [Garlic Confit Deserves a Spot on Your Thanksgiving Table](https://lifehacker.com/garlic-confit-deserves-a-spot-on-your-thanksgiving-tabl-1849731860)
 - [Lifehacker] [How to Translate Foreign Languages Directly From Your iPhone Camera](https://lifehacker.com/how-to-translate-foreign-languages-directly-from-your-i-1849731075)
-- [Lifehacker] [You&#39;ll Need Your First Colonoscopy Sooner Than You Think](https://lifehacker.com/youll-need-your-first-colonoscopy-sooner-than-you-think-1849730322)
-- [Lifehacker] [11 Real, Amazing Treasure Hunts You Could Do From Home](https://lifehacker.com/11-real-amazing-treasure-hunts-you-could-do-from-home-1849730325)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You&#39;ll Need Your First Colonoscopy Sooner Than You Think](https://lifehacker.com/youll-need-your-first-colonoscopy-sooner-than-you-think-1849730322)<!-- TECH-POSTS:END -->
 
 ---
 
