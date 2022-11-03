@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Podcasts for developer&#39;s](https://dev.to/kshitij9896/top-podcasts-for-developers-4efd)
+- [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)
+- [Dev.to/JS] [UI testing safe checks on Appium](https://dev.to/benthemobileguy/ui-testing-safe-checks-on-appium-54ke)
+- [Dev.to/JS] [Minimum Cost of Buying Candies With Discount](https://dev.to/zeeshanali0704/minimum-cost-of-buying-candies-with-discount-1cg3)
+- [Dev.to/JS] [Static Analysis Tooling](https://dev.to/cychu42/static-analysis-tooling-2egk)
 - [Dev.to/JS] [Minified React error in production with Vite.js](https://dev.to/fredrikbergqvist/minified-react-error-in-production-with-vitejs-210p)
+- [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
 - [Dev.to/JS] [Javascript beginner help!](https://dev.to/saimalinadeem/javascript-beginner-help-3ln4)
 - [Dev.to/JS] [Paracetamol.test.js🧪| #10: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-10-testea-este-codigo-javascript-2gjb)
 - [Dev.to/JS] [Remove Digit From Number to Maximize Result](https://dev.to/zeeshanali0704/remove-digit-from-number-to-maximize-result-l78)
@@ -34,13 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next 13 Basics in 10 minutes](https://dev.to/guillaumeduhan/next-13-basics-in-10-minutes-2nda)
 - [Dev.to/JS] [Easy Way to Dark Mode](https://dev.to/abanoubgeorge/easy-way-to-dark-mode-4bo2)
 - [Lifehacker] [Have an Actually Useful One-on-One With Your Boss](https://lifehacker.com/have-an-actually-useful-one-on-one-with-your-boss-1849735129)
-- [Dev.to/JS] [Create Strings using Template Literals](https://dev.to/doublestar85/create-strings-using-template-literals-2b49)
-- [Dev.to/JS] [Best Practices for Onboarding Content Managers to Your Strapi CMS](https://dev.to/strapi/best-practices-for-onboarding-content-managers-to-your-strapi-cms-55ce)
-- [Dev.to/JS] [Get your ranking among all Stackoverflow users for your favourite technology](https://dev.to/johannchopin/get-your-ranking-among-all-stackoverflow-users-for-your-favourite-technology-1m1l)
-- [Dev.to/JS] [What is ref in mongoose.js](https://dev.to/ifeanyichima/what-is-ref-in-mongoosejs-4o2h)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying Your First Gaming PC](https://lifehacker.com/a-beginners-guide-to-buying-your-first-gaming-pc-1849735385)
 - [Lifehacker] [12 New Thanksgiving &#39;Traditions&#39; You Should Adopt This Year](https://lifehacker.com/12-new-thanksgiving-traditions-you-should-adopt-this-ye-1849734800)
 - [Lifehacker] [The Easiest Way to Save Money on Holiday Travel This Year](https://lifehacker.com/the-easiest-way-to-save-money-on-holiday-travel-this-ye-1849733324)
+- [Lifehacker] [You Can Adjust the Volume of Individual Tabs in Google Chrome](https://lifehacker.com/you-can-adjust-the-volume-of-individual-tabs-in-google-1849737905)
 - [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
 - [Lifehacker] [Use These Money-Saving DIY Cleaning Product Alternatives](https://lifehacker.com/use-these-money-saving-diy-cleaning-product-alternative-1849734244)
 - [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;ll Need Your First Colonoscopy Sooner Than You Think](https://lifehacker.com/youll-need-your-first-colonoscopy-sooner-than-you-think-1849730322)
 - [Lifehacker] [11 Real, Amazing Treasure Hunts You Could Do From Home](https://lifehacker.com/11-real-amazing-treasure-hunts-you-could-do-from-home-1849730325)
 - [Lifehacker] [For the Best Stuffing, Dry Your Bread Instead of Staling It](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
-- [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
-- [Lifehacker] [Your Old PEZ Dispensers Might Be Worth Something](https://lifehacker.com/your-old-pez-dispensers-might-be-worth-something-1849729108)
-- [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
-- [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Know About &#39;Recovery&#39; Scams](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)<!-- TECH-POSTS:END -->
 
 ---
 
