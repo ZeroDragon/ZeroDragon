@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 1](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-1-3hdj)
+- [Dev.to/JS] [Next 13 Basics in 10 minutes](https://dev.to/guillaumeduhan/next-13-basics-in-10-minutes-2nda)
+- [Dev.to/JS] [Easy Way to Dark Mode](https://dev.to/abanoubgeorge/easy-way-to-dark-mode-4bo2)
+- [Lifehacker] [Have an Actually Useful One-on-One With Your Boss](https://lifehacker.com/have-an-actually-useful-one-on-one-with-your-boss-1849735129)
+- [Dev.to/JS] [Create Strings using Template Literals](https://dev.to/doublestar85/create-strings-using-template-literals-2b49)
+- [Dev.to/JS] [Best Practices for Onboarding Content Managers to Your Strapi CMS](https://dev.to/strapi/best-practices-for-onboarding-content-managers-to-your-strapi-cms-55ce)
 - [Dev.to/JS] [Get your ranking among all Stackoverflow users for your favourite technology](https://dev.to/johannchopin/get-your-ranking-among-all-stackoverflow-users-for-your-favourite-technology-1m1l)
 - [Dev.to/JS] [What is ref in mongoose.js](https://dev.to/ifeanyichima/what-is-ref-in-mongoosejs-4o2h)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying Your First Gaming PC](https://lifehacker.com/a-beginners-guide-to-buying-your-first-gaming-pc-1849735385)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Password input with label and hide/show toggle eye svg - A simple tutorial](https://dev.to/designyff/password-input-with-label-and-hideshow-toggle-eye-svg-a-simple-tutorial-46mb)
 - [Dev.to/JS] [Awesome lesser-known tools to integrate into your workflow](https://dev.to/surajondev/awesome-lesser-known-tools-to-integrate-into-your-workflow-3d3g)
 - [Dev.to/JS] [9 Tips to Improve your Ecommerce User Experience](https://dev.to/medusajs/9-tips-to-improve-your-ecommerce-user-experience-3me8)
-- [Dev.to/JS] [Refactoring Tools: Module Contracts for Lower Coupling](https://dev.to/bespoyasov/refactoring-tools-module-contracts-for-lower-coupling-2153)
-- [Dev.to/JS] [Use Destructing Assignment to Pass an Object as a Functions Parameters](https://dev.to/doublestar85/use-destructing-assignment-to-pass-an-object-as-a-functions-parameters-24l9)
-- [Dev.to/JS] [Day 00 - 100DaysOfCode Challenge](https://dev.to/highnitin/day-00-100daysofcode-challenge-34fm)
-- [Dev.to/JS] [HOW TO CREATE VIDEO/AUDIO YOUTUBE DOWNLOADER EXTENSIONS USING JAVASCRIPT AND NODEJS](https://dev.to/danities316/how-to-create-videoaudio-youtube-downloader-using-javascript-and-nodejs-nj9)
-- [Dev.to/JS] [Let&#39;s Create a Questionnaire Using NodeJS process stdin and stdout](https://dev.to/mkday/lets-create-a-questionnaire-using-nodejs-process-stdin-and-stdout-2dce)
 - [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
 - [Lifehacker] [Use These Money-Saving DIY Cleaning Product Alternatives](https://lifehacker.com/use-these-money-saving-diy-cleaning-product-alternative-1849734244)
 - [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Save Way More Money in Your 401&lpar;k&rpar; Next Year](https://lifehacker.com/you-can-save-way-more-money-in-your-401-k-next-year-1849722344)
 - [Lifehacker] [The Most Important Thanksgiving Turkey Terms, Defined](https://lifehacker.com/the-most-important-thanksgiving-turkey-terms-defined-1849728686)
 - [Lifehacker] [7 Types of Jewelry and How to Clean Them](https://lifehacker.com/7-types-of-jewelry-and-how-to-clean-them-1849728903)
-- [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)
-- [Lifehacker] [Is This Our Last Daylight Saving Time Change?](https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Luxury Toilets Money Can Buy](https://lifehacker.com/these-are-the-best-luxury-toilets-money-can-buy-1849728547)<!-- TECH-POSTS:END -->
 
 ---
 
