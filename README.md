@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How we migrate Clicknium to Chrome Manifest V3](https://dev.to/kayyolo/how-we-migrate-clicknium-to-chrome-manifest-v3-o6o)
+- [Dev.to/JS] [Async functionality - currying that makes sense](https://dev.to/johnkazer/async-functionality-currying-that-makes-sense-58d2)
 - [Dev.to/JS] [Coding with Kaboom.js game tutorial &lpar;Hi guys, i&#39;m Gabriel V Macaio, im programmer in Brazil&rpar;](https://dev.to/megauniverse/coding-with-kaboomjs-game-tutorial-hi-guys-im-gabriel-v-macaio-im-programmer-in-brazil-ha7)
 - [Dev.to/JS] [How React Router can cause unexplained behavior with your browser](https://dev.to/jaredm/how-react-router-can-cause-unexplained-api-behavior-fa5)
 - [Dev.to/JS] [Where to save dynamics texts in MongoDB](https://dev.to/soujiro17/where-to-save-dynamics-texts-in-mongodb-1i0d)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)
 - [Lifehacker] [Easy Ways to Make Your Laundry Smell Good &lpar;Without Harsh Detergents&rpar;](https://lifehacker.com/easy-ways-to-make-your-laundry-smell-good-without-hars-1849733422)
 - [Dev.to/JS] [Create &amp; deploy an ERC-20 token in 15 minutes &lpar;Truffle, OpenZeppelin, Goerli&rpar;](https://dev.to/willkre/create-deploy-an-erc-20-token-in-15-minutes-truffle-openzeppelin-goerli-33lb)
-- [Dev.to/JS] [How to download Vimeo video using JavaScript?](https://dev.to/jakeroid/how-to-download-vimeo-video-using-javascript-3975)
-- [Dev.to/JS] [Why use Next.js for eCommerce?](https://dev.to/maxikius/why-use-nextjs-for-ecommerce-4i8c)
 - [Lifehacker] [BeReal Tattles When You Take a Screenshot](https://lifehacker.com/bereal-tattles-when-you-take-a-screenshot-1849733633)
 - [Lifehacker] [Boil Your Mashing Potatoes With Garlic and Aromatics](https://lifehacker.com/boil-your-mashing-potatoes-with-garlic-and-aromatics-1849733321)
 - [Lifehacker] [Add Pine Nuts to Your Meatballs](https://lifehacker.com/add-pine-nuts-to-your-meatballs-1849732961)
