@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How React Router can cause unexplained behavior with your browser](https://dev.to/jaredm/how-react-router-can-cause-unexplained-api-behavior-fa5)
+- [Dev.to/JS] [Where to save dynamics texts in MongoDB](https://dev.to/soujiro17/where-to-save-dynamics-texts-in-mongodb-1i0d)
+- [Dev.to/JS] [Zero to SaaS - Produce #1 BookMarksy.io landing page Is live!](https://dev.to/brandonkylebailey/zero-to-saas-produce-1-bookmarksyio-landing-page-is-live-4ljh)
 - [Dev.to/JS] [Can I stop forgetting to update my OpenAPI docs?](https://dev.to/aaronblondeau/can-i-stop-forgetting-to-update-my-openapi-docs-52ma)
 - [Dev.to/JS] [Prettier &amp; ESlint](https://dev.to/lostbutton/prettier-eslint-1kp8)
 - [Dev.to/JS] [Deploying a Node.js App with AWS Elastic Beanstalk](https://dev.to/honeybadger/deploying-a-nodejs-app-with-aws-elastic-beanstalk-25a9)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why use Next.js for eCommerce?](https://dev.to/maxikius/why-use-nextjs-for-ecommerce-4i8c)
 - [Lifehacker] [BeReal Tattles When You Take a Screenshot](https://lifehacker.com/bereal-tattles-when-you-take-a-screenshot-1849733633)
 - [Dev.to/JS] [DOM Manipulation: part I](https://dev.to/crispitipina/dom-manipulation-part-i-33f2)
-- [Dev.to/JS] [Best Next.js Examples in 2023](https://dev.to/maxikius/best-nextjs-examples-in-2023-1888)
 - [Lifehacker] [Boil Your Mashing Potatoes With Garlic and Aromatics](https://lifehacker.com/boil-your-mashing-potatoes-with-garlic-and-aromatics-1849733321)
-- [Dev.to/JS] [Javascript — Template String](https://dev.to/cleytonlang/javascript-template-string-15ho)
-- [Dev.to/JS] [Webpack 3](https://dev.to/asadullohruziev/webpack-3-439g)
 - [Lifehacker] [Add Pine Nuts to Your Meatballs](https://lifehacker.com/add-pine-nuts-to-your-meatballs-1849732961)
 - [Lifehacker] [The Pros &lpar;and a Few Cons&rpar; of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)
 - [Lifehacker] [&#39;Black Hairy Tongue&#39; Probably Didn&#39;t Kill Julie Powell](https://lifehacker.com/black-hairy-tongue-probably-didnt-kill-julie-powell-1849732656)
