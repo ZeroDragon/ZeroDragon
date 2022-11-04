@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Clinical SAS Course in Chennai](https://dev.to/igssaran1/clinical-sas-course-in-chennai-47ke)
+- [Dev.to/JS] [Learn Web Development for FREE - JSAyushThakur](https://dev.to/knowledgefromtwitter/learn-web-development-for-free-jsayushthakur-1e47)
+- [Dev.to/JS] [esbuild - Next-generation JavaScript bundler](https://dev.to/refine/esbuild-next-generation-javascript-bundler-45ke)
+- [Dev.to/JS] [Deep Learning: Neural Networks in Javascript from scratch - Free course](https://dev.to/apssouza22/deep-learning-neural-networks-in-javascript-from-scratch-free-course-1l7o)
 - [Dev.to/JS] [Internet Connectivity Checker using JavaScript](https://dev.to/piyushpatil1243/internet-connectivity-checker-using-javascript-390d)
 - [Dev.to/JS] [Help me benchmark on your device &lpar;8,000x faster TypeScript runtime validator&rpar;](https://dev.to/samchon/help-me-benchmark-on-your-device-8000x-faster-typescript-runtime-validator-5c88)
 - [Dev.to/JS] [Build Modern React Chat App](https://dev.to/codingmonk/build-modern-react-chat-app-43hk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Start Learning TypeScript with These Short Videos](https://dev.to/danwahlin/start-learning-typescript-with-these-short-videos-2c9n)
 - [Dev.to/JS] [Making Self-Writing And Erasing Text Animation – 2022](https://dev.to/musayazlik/making-self-writing-and-erasing-text-animation-2022-51k1)
 - [Dev.to/JS] [Perbedaan Declaration, Expression dan Arrow Function di JavaScript](https://dev.to/ridwanpratama/perbedaan-declaration-expression-dan-arrow-function-di-javascript-2gc3)
-- [Dev.to/JS] [React.js Controlled vs Uncontrolled](https://dev.to/pedrouzcategui/reactjs-controlled-vs-uncontrolled-8n3)
-- [Dev.to/JS] [Recriando o jogo Pong em JavaScript](https://dev.to/jandersonsiqueira/recriando-o-jogo-pong-em-javascript-2j28)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
 - [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
