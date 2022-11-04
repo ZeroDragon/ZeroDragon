@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Pixel Perfect, Scalable Designs Using CSS Variables](https://dev.to/nitinfab/create-pixel-perfect-scalable-designs-using-css-variables-3p)
+- [Dev.to/JS] [Web Scraping Google Shopping Product Reviews](https://dev.to/darshan0_1/web-scraping-google-shopping-product-reviews-57g)
 - [Dev.to/JS] [Build Exciting Applications with Microsoft Graph Live! Join us Nov 7th 3PM GMT](https://dev.to/azure/build-exciting-applications-with-microsoft-graph-live-join-us-nov-7th-3pm-gmt-4ngh)
 - [Dev.to/JS] [Start Learning TypeScript with These Short Videos](https://dev.to/danwahlin/start-learning-typescript-with-these-short-videos-2c9n)
 - [Dev.to/JS] [Making Self-Writing And Erasing Text Animation – 2022](https://dev.to/musayazlik/making-self-writing-and-erasing-text-animation-2022-51k1)
@@ -35,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ventajas de tomar un Bootcamp FullStack Developer](https://dev.to/jonatelo09/ventajas-de-tomar-un-bootcamp-fullstack-developer-kjd)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
-- [Dev.to/JS] [Write Concise Object Literal Declarations Using Object Property Shorthand](https://dev.to/doublestar85/write-concise-object-literal-declarations-using-object-property-shorthand-2c4g)
 - [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
 - [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)
-- [Dev.to/JS] [I switched from Vercel to Cloudflare Pages](https://dev.to/jam3sn/i-switched-from-vercel-to-cloudflare-pages-abp)
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
 - [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)
 - [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
