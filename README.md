@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I want a co founder for my new app. He should be a app developer. Anyone?](https://dev.to/muhashfar/i-want-a-co-founder-for-my-new-app-he-should-be-a-app-developer-anyone-3ok3)
+- [Dev.to/JS] [Como hacer peticiones a la API con Axios y React JS. ✨](https://dev.to/franklin030601/como-hacer-peticiones-a-la-api-con-axios-y-react-js-475o)
+- [Dev.to/JS] [How to make API requests with Axios and React JS. ✨](https://dev.to/franklin030601/how-to-make-api-requests-with-axios-and-react-js-5a07)
+- [Lifehacker] [You Can Get Naked on Tumblr Again](https://lifehacker.com/you-can-get-naked-on-tumblr-again-1849740908)
+- [Dev.to/JS] [Cron job creation using Node JS.](https://dev.to/meshvpatel18/cron-job-creation-using-node-js-4fgo)
+- [Dev.to/JS] [Conditional Rendering In React - With A Focus On Readability And Clean Code](https://dev.to/jkettmann/conditional-rendering-in-react-with-a-focus-on-readability-and-clean-code-1c28)
+- [Lifehacker] [Why You Can’t Always Trust a &#39;Cleared&#39; Check](https://lifehacker.com/why-you-can-t-always-trust-a-cleared-check-1849740309)
 - [Dev.to/JS] [How to Print Staircase Using Loops - Problem Solving JavaScript NodeJS](https://dev.to/mkday/how-to-print-staircase-using-loops-problem-solving-javascript-nodejs-3bjg)
 - [Dev.to/JS] [Creating an Interactive Whiteboard with Amazon IVS Chat](https://dev.to/aws/creating-an-interactive-whiteboard-with-amazon-ivs-chat-5fp)
 - [Lifehacker] [15 TV Shows You Didn&#39;t Know Were Movies First](https://lifehacker.com/15-tv-shows-you-didnt-know-were-movies-first-1849737095)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a snackbar wth close button - Tutorial](https://dev.to/designyff/how-to-create-a-snackbar-wth-close-button-tutorial-18j6)
 - [Dev.to/JS] [Learn Web Development for FREE - JSAyushThakur](https://dev.to/knowledgefromtwitter/learn-web-development-for-free-jsayushthakur-1e47)
 - [Dev.to/JS] [esbuild - Next-generation JavaScript bundler](https://dev.to/refine/esbuild-next-generation-javascript-bundler-45ke)
-- [Dev.to/JS] [Deep Learning: Neural Networks in Javascript from scratch - Free course](https://dev.to/apssouza22/deep-learning-neural-networks-in-javascript-from-scratch-free-course-1l7o)
-- [Dev.to/JS] [Internet Connectivity Checker using JavaScript](https://dev.to/piyushpatil1243/internet-connectivity-checker-using-javascript-390d)
-- [Dev.to/JS] [Help me benchmark on your device &lpar;8,000x faster TypeScript runtime validator&rpar;](https://dev.to/samchon/help-me-benchmark-on-your-device-8000x-faster-typescript-runtime-validator-5c88)
-- [Dev.to/JS] [Build Modern React Chat App](https://dev.to/codingmonk/build-modern-react-chat-app-43hk)
-- [Dev.to/JS] [Create Pixel Perfect, Scalable Designs Using CSS Variables](https://dev.to/nitinfab/create-pixel-perfect-scalable-designs-using-css-variables-3p)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
 - [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [BeReal Tattles When You Take a Screenshot](https://lifehacker.com/bereal-tattles-when-you-take-a-screenshot-1849733633)
 - [Lifehacker] [Boil Your Mashing Potatoes With Garlic and Aromatics](https://lifehacker.com/boil-your-mashing-potatoes-with-garlic-and-aromatics-1849733321)
 - [Lifehacker] [Add Pine Nuts to Your Meatballs](https://lifehacker.com/add-pine-nuts-to-your-meatballs-1849732961)
-- [Lifehacker] [The Pros &lpar;and a Few Cons&rpar; of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)
-- [Lifehacker] [&#39;Black Hairy Tongue&#39; Probably Didn&#39;t Kill Julie Powell](https://lifehacker.com/black-hairy-tongue-probably-didnt-kill-julie-powell-1849732656)
-- [Lifehacker] [You&#39;ve Been Playing &#39;Super Mario Bros.&#39; Wrong Your Whole Life](https://lifehacker.com/youve-been-playing-super-mario-bros-wrong-your-whole-l-1849732657)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Pros &lpar;and a Few Cons&rpar; of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)<!-- TECH-POSTS:END -->
 
 ---
 
