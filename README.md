@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s not over-engineer things](https://dev.to/nonsoo/lets-not-over-engineer-things-2fa9)
+- [Dev.to/JS] [React Router 6 Deferred Fetch](https://dev.to/infoxicator/react-router-6-deferred-fetch-4k68)
+- [Dev.to/JS] [03.01 - State &amp; Props - Send counter data to child component &lpar;class components&rpar;](https://dev.to/adriangheo/0301-state-props-send-counter-data-to-child-component-class-components-37g1)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Dev.to/JS] [✨♻️ JavaScript em Imagens: Loop de Eventos](https://dev.to/obrenoco/javascript-em-imagens-loop-de-eventos-goh)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
@@ -41,13 +44,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
 - [Dev.to/JS] [Scrape images from a search engine with JavaScript and Puppeteer](https://dev.to/antoine_m/scrape-images-from-a-search-engine-with-javascript-and-puppeteer-3dlh)
 - [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
-- [Dev.to/JS] [Day 01 - 100DayOfCode Challenge](https://dev.to/highnitin/day-01-100dayofcode-challenge-ab2)
-- [Dev.to/JS] [dyty](https://dev.to/suvrashaw/dyty-4m7g)
 - [Lifehacker] [Don’t Risk Losing Your FSA Funds This Year](https://lifehacker.com/don-t-risk-losing-your-fsa-funds-this-year-1849696019)
 - [Lifehacker] [The Real Trick to Making a Silky-Smooth Cheesecake Filling](https://lifehacker.com/the-real-trick-to-making-a-silky-smooth-cheesecake-fill-1849742824)
 - [Lifehacker] [What to Do If Your New CEO Is an Incompetent Moron](https://lifehacker.com/what-to-do-if-your-new-ceo-is-an-incompetent-moron-1849741249)
 - [Crazy Programmer] [7 Best Computer Science Universities in Switzerland 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-switzerland.html)
-- [Dev.to/JS] [Terminal-styled portfolio websites.](https://dev.to/cosmicwanderer7/terminal-styled-portfolio-websites-n4p)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did TikTok Really Inspire Disney&#39;s Next Musical?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-tikto-1849741839)
 - [Lifehacker] [You Can Get Naked on Tumblr Again](https://lifehacker.com/you-can-get-naked-on-tumblr-again-1849740908)
 - [Lifehacker] [Why You Can’t Always Trust a &#39;Cleared&#39; Check](https://lifehacker.com/why-you-can-t-always-trust-a-cleared-check-1849740309)
