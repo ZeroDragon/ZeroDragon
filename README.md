@@ -23,15 +23,29 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
+- [Dev.to/JS] [Best 11 headless commerce platforms](https://dev.to/dsalinasgardon/best-11-headless-commerce-platforms-2o54)
+- [Lifehacker] [There&#39;s a Better Way to Peel an Orange, According to TikTok](https://lifehacker.com/theres-a-better-way-to-peel-an-orange-according-to-tik-1849744270)
 - [Lifehacker] [How to Remove Water Stains From Your Walls Without Repainting](https://lifehacker.com/how-to-remove-water-stains-from-your-walls-without-repa-1849742925)
+- [Dev.to/JS] [How to learn Javascript in 5 steps](https://dev.to/justice_hub/how-to-learn-javascript-in-5-steps-ig6)
 - [Lifehacker] [How to Use After-Tax Contributions to Funnel More Into Your 401&lpar;k&rpar;](https://lifehacker.com/how-to-use-after-tax-contributions-to-funnel-more-into-1849742272)
+- [Dev.to/JS] [¿Qué es JSX? ¿Por qué usamos JSX en React y como funciona?](https://dev.to/matiasfha/que-es-jsx-por-que-usamos-jsx-en-react-y-como-funciona-3khh)
 - [Lifehacker] [The Right Way to Break a Car Window in an Emergency](https://lifehacker.com/the-right-way-to-break-a-car-window-in-an-emergency-1849743591)
+- [Dev.to/JS] [How Companies Get Hacked and What You Can Do to Protect Your Business](https://dev.to/amrtcrypto/how-companies-get-hacked-and-what-you-can-do-to-protect-your-business-43jc)
+- [Dev.to/JS] [JavaScript Projects for Beginners✨ - ajaysharma_here](https://dev.to/knowledgefromtwitter/javascript-projects-for-beginners-ajaysharmahere-211i)
+- [Dev.to/JS] [First Blog](https://dev.to/xnova22/first-blog-m3)
+- [Dev.to/JS] [JS: Filter, Map, and forEach explained.](https://dev.to/brentdalling/js-filter-map-and-foreach-explained-hmc)
 - [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
+- [Dev.to/JS] [Scrape images from a search engine with JavaScript and Puppeteer](https://dev.to/antoine_m/scrape-images-from-a-search-engine-with-javascript-and-puppeteer-3dlh)
 - [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
+- [Dev.to/JS] [Day 01 - 100DayOfCode Challenge](https://dev.to/highnitin/day-01-100dayofcode-challenge-ab2)
+- [Dev.to/JS] [dyty](https://dev.to/suvrashaw/dyty-4m7g)
 - [Lifehacker] [Don’t Risk Losing Your FSA Funds This Year](https://lifehacker.com/don-t-risk-losing-your-fsa-funds-this-year-1849696019)
 - [Lifehacker] [The Real Trick to Making a Silky-Smooth Cheesecake Filling](https://lifehacker.com/the-real-trick-to-making-a-silky-smooth-cheesecake-fill-1849742824)
 - [Lifehacker] [What to Do If Your New CEO Is an Incompetent Moron](https://lifehacker.com/what-to-do-if-your-new-ceo-is-an-incompetent-moron-1849741249)
 - [Crazy Programmer] [7 Best Computer Science Universities in Switzerland 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-switzerland.html)
+- [Dev.to/JS] [Terminal-styled portfolio websites.](https://dev.to/cosmicwanderer7/terminal-styled-portfolio-websites-n4p)
+- [Dev.to/JS] [Gnarly Learnings from October 2022](https://dev.to/thegnarco/gnarly-learnings-from-october-2022-551n)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did TikTok Really Inspire Disney&#39;s Next Musical?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-tikto-1849741839)
 - [Lifehacker] [You Can Get Naked on Tumblr Again](https://lifehacker.com/you-can-get-naked-on-tumblr-again-1849740908)
 - [Lifehacker] [Why You Can’t Always Trust a &#39;Cleared&#39; Check](https://lifehacker.com/why-you-can-t-always-trust-a-cleared-check-1849740309)
@@ -48,21 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
 - [Lifehacker] [These Malware Apps Are Still Live on the Google Play Store](https://lifehacker.com/these-malware-apps-are-still-live-on-the-google-play-st-1849737245)
 - [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
-- [Lifehacker] [Have an Actually Useful One-on-One With Your Boss](https://lifehacker.com/have-an-actually-useful-one-on-one-with-your-boss-1849735129)
-- [Lifehacker] [A Beginner&#39;s Guide to Buying Your First Gaming PC](https://lifehacker.com/a-beginners-guide-to-buying-your-first-gaming-pc-1849735385)
-- [Lifehacker] [12 New Thanksgiving &#39;Traditions&#39; You Should Adopt This Year](https://lifehacker.com/12-new-thanksgiving-traditions-you-should-adopt-this-ye-1849734800)
-- [Lifehacker] [The Easiest Way to Save Money on Holiday Travel This Year](https://lifehacker.com/the-easiest-way-to-save-money-on-holiday-travel-this-ye-1849733324)
-- [Lifehacker] [You Can Adjust the Volume of Individual Tabs in Google Chrome](https://lifehacker.com/you-can-adjust-the-volume-of-individual-tabs-in-google-1849737905)
-- [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
-- [Lifehacker] [Use These Money-Saving DIY Cleaning Product Alternatives](https://lifehacker.com/use-these-money-saving-diy-cleaning-product-alternative-1849734244)
-- [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)
-- [Lifehacker] [Easy Ways to Make Your Laundry Smell Good &lpar;Without Harsh Detergents&rpar;](https://lifehacker.com/easy-ways-to-make-your-laundry-smell-good-without-hars-1849733422)
-- [Lifehacker] [BeReal Tattles When You Take a Screenshot](https://lifehacker.com/bereal-tattles-when-you-take-a-screenshot-1849733633)
-- [Lifehacker] [Boil Your Mashing Potatoes With Garlic and Aromatics](https://lifehacker.com/boil-your-mashing-potatoes-with-garlic-and-aromatics-1849733321)
-- [Lifehacker] [Add Pine Nuts to Your Meatballs](https://lifehacker.com/add-pine-nuts-to-your-meatballs-1849732961)
-- [Lifehacker] [The Pros &lpar;and a Few Cons&rpar; of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)
-- [Lifehacker] [&#39;Black Hairy Tongue&#39; Probably Didn&#39;t Kill Julie Powell](https://lifehacker.com/black-hairy-tongue-probably-didnt-kill-julie-powell-1849732656)
-- [Lifehacker] [You&#39;ve Been Playing &#39;Super Mario Bros.&#39; Wrong Your Whole Life](https://lifehacker.com/youve-been-playing-super-mario-bros-wrong-your-whole-l-1849732657)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Have an Actually Useful One-on-One With Your Boss](https://lifehacker.com/have-an-actually-useful-one-on-one-with-your-boss-1849735129)<!-- TECH-POSTS:END -->
 
 ---
 
