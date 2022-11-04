@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✨♻️ JavaScript em Imagens: Loop de Eventos](https://dev.to/obrenoco/javascript-em-imagens-loop-de-eventos-goh)
+- [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
 - [Dev.to/JS] [Best 11 headless commerce platforms](https://dev.to/dsalinasgardon/best-11-headless-commerce-platforms-2o54)
 - [Lifehacker] [There&#39;s a Better Way to Peel an Orange, According to TikTok](https://lifehacker.com/theres-a-better-way-to-peel-an-orange-according-to-tik-1849744270)
@@ -45,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If Your New CEO Is an Incompetent Moron](https://lifehacker.com/what-to-do-if-your-new-ceo-is-an-incompetent-moron-1849741249)
 - [Crazy Programmer] [7 Best Computer Science Universities in Switzerland 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-switzerland.html)
 - [Dev.to/JS] [Terminal-styled portfolio websites.](https://dev.to/cosmicwanderer7/terminal-styled-portfolio-websites-n4p)
-- [Dev.to/JS] [Gnarly Learnings from October 2022](https://dev.to/thegnarco/gnarly-learnings-from-october-2022-551n)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did TikTok Really Inspire Disney&#39;s Next Musical?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-tikto-1849741839)
 - [Lifehacker] [You Can Get Naked on Tumblr Again](https://lifehacker.com/you-can-get-naked-on-tumblr-again-1849740908)
 - [Lifehacker] [Why You Can’t Always Trust a &#39;Cleared&#39; Check](https://lifehacker.com/why-you-can-t-always-trust-a-cleared-check-1849740309)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)
 - [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
 - [Lifehacker] [These Malware Apps Are Still Live on the Google Play Store](https://lifehacker.com/these-malware-apps-are-still-live-on-the-google-play-st-1849737245)
-- [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
-- [Lifehacker] [Have an Actually Useful One-on-One With Your Boss](https://lifehacker.com/have-an-actually-useful-one-on-one-with-your-boss-1849735129)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)<!-- TECH-POSTS:END -->
 
 ---
 
