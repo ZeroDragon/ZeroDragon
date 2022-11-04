@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Companies Get Hacked and What You Can Do to Protect Your Business](https://dev.to/amrtcrypto/how-companies-get-hacked-and-what-you-can-do-to-protect-your-business-43jc)
+- [Dev.to/JS] [JavaScript Projects for Beginners✨ - ajaysharma_here](https://dev.to/knowledgefromtwitter/javascript-projects-for-beginners-ajaysharmahere-211i)
+- [Dev.to/JS] [First Blog](https://dev.to/xnova22/first-blog-m3)
+- [Dev.to/JS] [JS: Filter, Map, and forEach explained.](https://dev.to/brentdalling/js-filter-map-and-foreach-explained-hmc)
 - [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
 - [Dev.to/JS] [Scrape images from a search engine with JavaScript and Puppeteer](https://dev.to/antoine_m/scrape-images-from-a-search-engine-with-javascript-and-puppeteer-3dlh)
 - [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
@@ -38,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a weather app with IP geolocation API in Node.js](https://dev.to/superface/creating-a-weather-app-with-ip-geolocation-api-in-nodejs-aao)
 - [Dev.to/JS] [Breaking the Order | Coding Challenge &amp; Analysis 1](https://dev.to/slimtim10/breaking-the-order-coding-challenge-analysis-1-4833)
 - [Dev.to/JS] [WHY is this not showing 123???](https://dev.to/abhsiksah/why-is-this-not-showing-123-3509)
-- [Dev.to/JS] [I want a co founder for my new app. He should be a app developer. Anyone?](https://dev.to/muhashfar/i-want-a-co-founder-for-my-new-app-he-should-be-a-app-developer-anyone-3ok3)
-- [Dev.to/JS] [How to make API requests with Axios and React JS. ✨](https://dev.to/franklin030601/how-to-make-api-requests-with-axios-and-react-js-5a07)
-- [Dev.to/JS] [Como hacer peticiones a la API con Axios y React JS. ✨](https://dev.to/franklin030601/como-hacer-peticiones-a-la-api-con-axios-y-react-js-475o)
 - [Lifehacker] [You Can Get Naked on Tumblr Again](https://lifehacker.com/you-can-get-naked-on-tumblr-again-1849740908)
-- [Dev.to/JS] [Cron job creation using Node JS.](https://dev.to/meshvpatel18/cron-job-creation-using-node-js-4fgo)
 - [Lifehacker] [Why You Can’t Always Trust a &#39;Cleared&#39; Check](https://lifehacker.com/why-you-can-t-always-trust-a-cleared-check-1849740309)
 - [Lifehacker] [15 TV Shows You Didn&#39;t Know Were Movies First](https://lifehacker.com/15-tv-shows-you-didnt-know-were-movies-first-1849737095)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
