@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Modern React Chat App](https://dev.to/codingmonk/build-modern-react-chat-app-43hk)
 - [Dev.to/JS] [Create Pixel Perfect, Scalable Designs Using CSS Variables](https://dev.to/nitinfab/create-pixel-perfect-scalable-designs-using-css-variables-3p)
 - [Dev.to/JS] [Web Scraping Google Shopping Product Reviews](https://dev.to/darshan0_1/web-scraping-google-shopping-product-reviews-57g)
 - [Dev.to/JS] [Build Exciting Applications with Microsoft Graph Live! Join us Nov 7th 3PM GMT](https://dev.to/azure/build-exciting-applications-with-microsoft-graph-live-join-us-nov-7th-3pm-gmt-4ngh)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Generators: A Beginner&#39;s Guide](https://dev.to/muqsitadam/javascript-generators-a-beginners-guide-1ojf)
 - [Dev.to/JS] [How to get dominant colour of an image with the Color Thief library in JavaScript](https://dev.to/n3rd/how-to-get-dominant-colour-of-an-image-with-the-color-thief-library-in-javascript-1p47)
 - [Dev.to/JS] [Ng-News: Episode 22/43](https://dev.to/ng_news/ng-news-episode-2243-188a)
-- [Dev.to/JS] [Ventajas de tomar un Bootcamp FullStack Developer](https://dev.to/jonatelo09/ventajas-de-tomar-un-bootcamp-fullstack-developer-kjd)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
 - [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
