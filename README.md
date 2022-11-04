@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js Controlled vs Uncontrolled](https://dev.to/pedrouzcategui/reactjs-controlled-vs-uncontrolled-8n3)
+- [Dev.to/JS] [Recriando o jogo Pong em JavaScript](https://dev.to/jandersonsiqueira/recriando-o-jogo-pong-em-javascript-2j28)
 - [Dev.to/JS] [Javascript Generators: A Beginner&#39;s Guide](https://dev.to/muqsitadam/javascript-generators-a-beginners-guide-1ojf)
 - [Dev.to/JS] [How to get dominant colour of an image with the Color Thief library in JavaScript](https://dev.to/n3rd/how-to-get-dominant-colour-of-an-image-with-the-color-thief-library-in-javascript-1p47)
 - [Dev.to/JS] [Ng-News: Episode 22/43](https://dev.to/ng_news/ng-news-episode-2243-188a)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript DOM. A final o que é ? E a sua estrutura.](https://dev.to/romulomax47/javascript-dom-a-final-o-que-e-e-sua-estrutura-43i9)
 - [Lifehacker] [Your Career Needs an Elevator Pitch](https://lifehacker.com/your-career-needs-an-elevator-pitch-1849734325)
 - [Dev.to/JS] [Top Books For Learning JavaScript](https://dev.to/kshitij9896/top-books-for-learning-javascript-2j1g)
-- [Dev.to/JS] [How to check if your libraries are vulnerable?](https://dev.to/orlandov14/how-to-check-if-your-libraries-are-vulnerable-5dh4)
-- [Dev.to/JS] [7 Optimization Tips Every JavaScript Developer Needs to Know](https://dev.to/amrtcrypto/7-optimization-tips-every-javascript-developer-needs-to-know-4mii)
 - [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)
 - [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
 - [Lifehacker] [These Malware Apps Are Still Live on the Google Play Store](https://lifehacker.com/these-malware-apps-are-still-live-on-the-google-play-st-1849737245)
