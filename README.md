@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Internet Connectivity Checker using JavaScript](https://dev.to/piyushpatil1243/internet-connectivity-checker-using-javascript-390d)
+- [Dev.to/JS] [Help me benchmark on your device &lpar;8,000x faster TypeScript runtime validator&rpar;](https://dev.to/samchon/help-me-benchmark-on-your-device-8000x-faster-typescript-runtime-validator-5c88)
 - [Dev.to/JS] [Build Modern React Chat App](https://dev.to/codingmonk/build-modern-react-chat-app-43hk)
 - [Dev.to/JS] [Create Pixel Perfect, Scalable Designs Using CSS Variables](https://dev.to/nitinfab/create-pixel-perfect-scalable-designs-using-css-variables-3p)
 - [Dev.to/JS] [Web Scraping Google Shopping Product Reviews](https://dev.to/darshan0_1/web-scraping-google-shopping-product-reviews-57g)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React.js Controlled vs Uncontrolled](https://dev.to/pedrouzcategui/reactjs-controlled-vs-uncontrolled-8n3)
 - [Dev.to/JS] [Recriando o jogo Pong em JavaScript](https://dev.to/jandersonsiqueira/recriando-o-jogo-pong-em-javascript-2j28)
 - [Dev.to/JS] [Javascript Generators: A Beginner&#39;s Guide](https://dev.to/muqsitadam/javascript-generators-a-beginners-guide-1ojf)
-- [Dev.to/JS] [How to get dominant colour of an image with the Color Thief library in JavaScript](https://dev.to/n3rd/how-to-get-dominant-colour-of-an-image-with-the-color-thief-library-in-javascript-1p47)
-- [Dev.to/JS] [Ng-News: Episode 22/43](https://dev.to/ng_news/ng-news-episode-2243-188a)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
 - [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
