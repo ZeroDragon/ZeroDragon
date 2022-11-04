@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
+- [Dev.to/JS] [Scrape images from a search engine with JavaScript and Puppeteer](https://dev.to/antoine_m/scrape-images-from-a-search-engine-with-javascript-and-puppeteer-3dlh)
+- [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
+- [Dev.to/JS] [Day 01 - 100DayOfCode Challenge](https://dev.to/highnitin/day-01-100dayofcode-challenge-ab2)
+- [Dev.to/JS] [dyty](https://dev.to/suvrashaw/dyty-4m7g)
 - [Lifehacker] [Don’t Risk Losing Your FSA Funds This Year](https://lifehacker.com/don-t-risk-losing-your-fsa-funds-this-year-1849696019)
 - [Lifehacker] [The Real Trick to Making a Silky-Smooth Cheesecake Filling](https://lifehacker.com/the-real-trick-to-making-a-silky-smooth-cheesecake-fill-1849742824)
 - [Lifehacker] [What to Do If Your New CEO Is an Incompetent Moron](https://lifehacker.com/what-to-do-if-your-new-ceo-is-an-incompetent-moron-1849741249)
@@ -34,14 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Breaking the Order | Coding Challenge &amp; Analysis 1](https://dev.to/slimtim10/breaking-the-order-coding-challenge-analysis-1-4833)
 - [Dev.to/JS] [WHY is this not showing 123???](https://dev.to/abhsiksah/why-is-this-not-showing-123-3509)
 - [Dev.to/JS] [I want a co founder for my new app. He should be a app developer. Anyone?](https://dev.to/muhashfar/i-want-a-co-founder-for-my-new-app-he-should-be-a-app-developer-anyone-3ok3)
-- [Dev.to/JS] [Como hacer peticiones a la API con Axios y React JS. ✨](https://dev.to/franklin030601/como-hacer-peticiones-a-la-api-con-axios-y-react-js-475o)
 - [Dev.to/JS] [How to make API requests with Axios and React JS. ✨](https://dev.to/franklin030601/how-to-make-api-requests-with-axios-and-react-js-5a07)
+- [Dev.to/JS] [Como hacer peticiones a la API con Axios y React JS. ✨](https://dev.to/franklin030601/como-hacer-peticiones-a-la-api-con-axios-y-react-js-475o)
 - [Lifehacker] [You Can Get Naked on Tumblr Again](https://lifehacker.com/you-can-get-naked-on-tumblr-again-1849740908)
 - [Dev.to/JS] [Cron job creation using Node JS.](https://dev.to/meshvpatel18/cron-job-creation-using-node-js-4fgo)
-- [Dev.to/JS] [Conditional Rendering In React - With A Focus On Readability And Clean Code](https://dev.to/jkettmann/conditional-rendering-in-react-with-a-focus-on-readability-and-clean-code-1c28)
 - [Lifehacker] [Why You Can’t Always Trust a &#39;Cleared&#39; Check](https://lifehacker.com/why-you-can-t-always-trust-a-cleared-check-1849740309)
-- [Dev.to/JS] [How to Print Staircase Using Loops - Problem Solving JavaScript NodeJS](https://dev.to/mkday/how-to-print-staircase-using-loops-problem-solving-javascript-nodejs-3bjg)
-- [Dev.to/JS] [Creating an Interactive Whiteboard with Amazon IVS Chat](https://dev.to/aws/creating-an-interactive-whiteboard-with-amazon-ivs-chat-5fp)
 - [Lifehacker] [15 TV Shows You Didn&#39;t Know Were Movies First](https://lifehacker.com/15-tv-shows-you-didnt-know-were-movies-first-1849737095)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 New Thanksgiving &#39;Traditions&#39; You Should Adopt This Year](https://lifehacker.com/12-new-thanksgiving-traditions-you-should-adopt-this-ye-1849734800)
 - [Lifehacker] [The Easiest Way to Save Money on Holiday Travel This Year](https://lifehacker.com/the-easiest-way-to-save-money-on-holiday-travel-this-ye-1849733324)
 - [Lifehacker] [You Can Adjust the Volume of Individual Tabs in Google Chrome](https://lifehacker.com/you-can-adjust-the-volume-of-individual-tabs-in-google-1849737905)
-- [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
-- [Lifehacker] [Use These Money-Saving DIY Cleaning Product Alternatives](https://lifehacker.com/use-these-money-saving-diy-cleaning-product-alternative-1849734244)
-- [Lifehacker] [Now There’s a Wordle for Flags &lpar;With Two Ways to Win&rpar;](https://lifehacker.com/now-there-s-a-wordle-for-flags-with-two-ways-to-win-1849734199)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s How to Snag a 55&quot; TV From Walmart for $188](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)<!-- TECH-POSTS:END -->
 
 ---
 
