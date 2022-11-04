@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Print Staircase Using Loops - Problem Solving JavaScript NodeJS](https://dev.to/mkday/how-to-print-staircase-using-loops-problem-solving-javascript-nodejs-3bjg)
+- [Dev.to/JS] [Creating an Interactive Whiteboard with Amazon IVS Chat](https://dev.to/aws/creating-an-interactive-whiteboard-with-amazon-ivs-chat-5fp)
+- [Lifehacker] [15 TV Shows You Didn&#39;t Know Were Movies First](https://lifehacker.com/15-tv-shows-you-didnt-know-were-movies-first-1849737095)
+- [Dev.to/JS] [Build an NFT marketplace with ready-to-use OpenSea Clone](https://dev.to/mgaaron/build-an-nft-marketplace-with-ready-to-use-opensea-clone-2ima)
+- [Dev.to/JS] [C++ 1-Dars](https://dev.to/diyor152003/c-1-dars-1aod)
+- [Dev.to/JS] [How to create a snackbar wth close button - Tutorial](https://dev.to/designyff/how-to-create-a-snackbar-wth-close-button-tutorial-18j6)
 - [Dev.to/JS] [Learn Web Development for FREE - JSAyushThakur](https://dev.to/knowledgefromtwitter/learn-web-development-for-free-jsayushthakur-1e47)
 - [Dev.to/JS] [esbuild - Next-generation JavaScript bundler](https://dev.to/refine/esbuild-next-generation-javascript-bundler-45ke)
 - [Dev.to/JS] [Deep Learning: Neural Networks in Javascript from scratch - Free course](https://dev.to/apssouza22/deep-learning-neural-networks-in-javascript-from-scratch-free-course-1l7o)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Help me benchmark on your device &lpar;8,000x faster TypeScript runtime validator&rpar;](https://dev.to/samchon/help-me-benchmark-on-your-device-8000x-faster-typescript-runtime-validator-5c88)
 - [Dev.to/JS] [Build Modern React Chat App](https://dev.to/codingmonk/build-modern-react-chat-app-43hk)
 - [Dev.to/JS] [Create Pixel Perfect, Scalable Designs Using CSS Variables](https://dev.to/nitinfab/create-pixel-perfect-scalable-designs-using-css-variables-3p)
-- [Dev.to/JS] [Web Scraping Google Shopping Product Reviews](https://dev.to/darshan0_1/web-scraping-google-shopping-product-reviews-57g)
-- [Dev.to/JS] [Build Exciting Applications with Microsoft Graph Live! Join us Nov 7th 3PM GMT](https://dev.to/azure/build-exciting-applications-with-microsoft-graph-live-join-us-nov-7th-3pm-gmt-4ngh)
-- [Dev.to/JS] [Start Learning TypeScript with These Short Videos](https://dev.to/danwahlin/start-learning-typescript-with-these-short-videos-2c9n)
-- [Dev.to/JS] [Making Self-Writing And Erasing Text Animation – 2022](https://dev.to/musayazlik/making-self-writing-and-erasing-text-animation-2022-51k1)
-- [Dev.to/JS] [Perbedaan Declaration, Expression dan Arrow Function di JavaScript](https://dev.to/ridwanpratama/perbedaan-declaration-expression-dan-arrow-function-di-javascript-2gc3)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
 - [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add Pine Nuts to Your Meatballs](https://lifehacker.com/add-pine-nuts-to-your-meatballs-1849732961)
 - [Lifehacker] [The Pros &lpar;and a Few Cons&rpar; of Peer-to-Peer Lending](https://lifehacker.com/the-pros-and-a-few-cons-of-peer-to-peer-lending-1849732753)
 - [Lifehacker] [&#39;Black Hairy Tongue&#39; Probably Didn&#39;t Kill Julie Powell](https://lifehacker.com/black-hairy-tongue-probably-didnt-kill-julie-powell-1849732656)
-- [Lifehacker] [You&#39;ve Been Playing &#39;Super Mario Bros.&#39; Wrong Your Whole Life](https://lifehacker.com/youve-been-playing-super-mario-bros-wrong-your-whole-l-1849732657)
-- [Lifehacker] [What a 7% Mortgage Rate Really Means for Your Monthly Payment](https://lifehacker.com/what-a-7-mortgage-rate-really-means-for-your-monthly-p-1849732713)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You&#39;ve Been Playing &#39;Super Mario Bros.&#39; Wrong Your Whole Life](https://lifehacker.com/youve-been-playing-super-mario-bros-wrong-your-whole-l-1849732657)<!-- TECH-POSTS:END -->
 
 ---
 
