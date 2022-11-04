@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Exciting Applications with Microsoft Graph Live! Join us Nov 7th 3PM GMT](https://dev.to/azure/build-exciting-applications-with-microsoft-graph-live-join-us-nov-7th-3pm-gmt-4ngh)
 - [Dev.to/JS] [Start Learning TypeScript with These Short Videos](https://dev.to/danwahlin/start-learning-typescript-with-these-short-videos-2c9n)
 - [Dev.to/JS] [Making Self-Writing And Erasing Text Animation – 2022](https://dev.to/musayazlik/making-self-writing-and-erasing-text-animation-2022-51k1)
 - [Dev.to/JS] [Perbedaan Declaration, Expression dan Arrow Function di JavaScript](https://dev.to/ridwanpratama/perbedaan-declaration-expression-dan-arrow-function-di-javascript-2gc3)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
 - [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)
 - [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
-- [Dev.to/JS] [Most Used Git Commands](https://dev.to/kshitij9896/most-used-git-commands-4ej0)
 - [Lifehacker] [Your Career Needs an Elevator Pitch](https://lifehacker.com/your-career-needs-an-elevator-pitch-1849734325)
 - [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)
 - [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
