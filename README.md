@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Is it necessary to hit the server every single time in need lookup data ?!](https://dev.to/ga3beery/is-it-necessary-to-hit-the-server-every-single-time-in-need-lookup-data--jfo)
+- [Dev.to/JS] [Storing &amp; Rendering Blogs: no markdown-parser](https://dev.to/suyious/storing-rendering-blogs-no-markdown-parser-1i4k)
+- [Dev.to/JS] [Angular Chat Application with Socket.io and Node Js](https://dev.to/alakkadshaw/angular-chat-application-with-socketio-and-node-js-1jo4)
+- [Dev.to/JS] [How To Build a Quiz App With HTML CSS and JavaScript](https://dev.to/patelrohan750/how-to-build-a-quiz-app-with-html-css-and-javascript-19a9)
+- [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
+- [Dev.to/JS] [Is it necessary to hit the server every time I need lookup data ?!](https://dev.to/ga3beery/is-it-necessary-to-hit-the-server-every-single-time-in-need-lookup-data--jfo)
 - [Dev.to/JS] [React Native - Android build failures](https://dev.to/gagal18/react-native-android-build-failures-f40)
 - [Dev.to/JS] [How to use the SEO meta tag rules module for Page Designer in SFCC](https://dev.to/bolt04/how-to-use-the-seo-meta-tag-rules-module-for-page-designer-in-sfcc-20i8)
 - [Dev.to/JS] [Angular VS React: Performance comparison with Google Web Vitals](https://dev.to/hearsid/angular-vs-react-performance-comparison-with-google-web-vitals-2c28)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [White label crypto exchange development process](https://dev.to/mgaaron/white-label-crypto-exchange-development-process-141f)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
 - [Dev.to/JS] [Want to open modals from any place in your code? this article is for you!](https://dev.to/omardiaa48/want-to-open-modals-from-any-place-in-your-code-this-article-is-for-you-5gpn)
-- [Dev.to/JS] [How To Build A Simple Counter App In React for Beginners](https://dev.to/ziontutorial/how-to-build-a-simple-counter-app-in-react-for-beginners-40b5)
-- [Dev.to/JS] [Non-overlapping Intervals](https://dev.to/zeeshanali0704/non-overlapping-intervals-o72)
-- [Dev.to/JS] [Mobile menu button in the bottom right corner](https://dev.to/kureii/mobile-menu-button-in-the-bottom-right-corner-2pom)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)
 - [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
 - [Lifehacker] [Your Career Needs an Elevator Pitch](https://lifehacker.com/your-career-needs-an-elevator-pitch-1849734325)
-- [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)
-- [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)<!-- TECH-POSTS:END -->
 
 ---
 
