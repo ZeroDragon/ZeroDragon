@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Signle Page Web Design](https://dev.to/codexharsh/signle-page-web-design-2cj6)
+- [Dev.to/JS] [Nike Shoe Page Design..](https://dev.to/codexharsh/nike-shoe-page-design-55ip)
+- [Dev.to/JS] [React with TypeScript to get data from dev.to API &lpar;json&rpar;](https://dev.to/yuya0114/react-with-typescript-to-get-data-from-devto-api-json-7a)
 - [Dev.to/JS] [What is Design Tokens? How to create a Design Token in react?](https://dev.to/shubhdeep12/what-is-design-tokens-how-to-create-a-design-token-in-react-32d6)
 - [Dev.to/JS] [Loading The Void](https://dev.to/sforsberg/loading-the-void-4omf)
 - [Dev.to/JS] [Dev2022 badge](https://dev.to/dineshguptadroid/dev2022-badge-4eli)
@@ -33,13 +36,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Router 6 Deferred Fetch](https://dev.to/infoxicator/react-router-6-deferred-fetch-4k68)
 - [Dev.to/JS] [03.01 - State &amp; Props - Send counter data to child component &lpar;class components&rpar;](https://dev.to/adriangheo/0301-state-props-send-counter-data-to-child-component-class-components-37g1)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
-- [Dev.to/JS] [✨♻️ JavaScript em Imagens: Loop de Eventos](https://dev.to/obrenoco/javascript-em-imagens-loop-de-eventos-goh)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
-- [Dev.to/JS] [Best 11 headless commerce platforms](https://dev.to/dsalinasgardon/best-11-headless-commerce-platforms-2o54)
 - [Lifehacker] [There&#39;s a Better Way to Peel an Orange, According to TikTok](https://lifehacker.com/theres-a-better-way-to-peel-an-orange-according-to-tik-1849744270)
 - [Lifehacker] [How to Remove Water Stains From Your Walls Without Repainting](https://lifehacker.com/how-to-remove-water-stains-from-your-walls-without-repa-1849742925)
-- [Dev.to/JS] [How to learn Javascript in 5 steps](https://dev.to/justice_hub/how-to-learn-javascript-in-5-steps-ig6)
 - [Lifehacker] [How to Use After-Tax Contributions to Funnel More Into Your 401&lpar;k&rpar;](https://lifehacker.com/how-to-use-after-tax-contributions-to-funnel-more-into-1849742272)
 - [Lifehacker] [The Right Way to Break a Car Window in an Emergency](https://lifehacker.com/the-right-way-to-break-a-car-window-in-an-emergency-1849743591)
 - [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
