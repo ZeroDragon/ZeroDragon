@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Design Tokens? How to create a Design Token in react?](https://dev.to/shubhdeep12/what-is-design-tokens-how-to-create-a-design-token-in-react-32d6)
 - [Dev.to/JS] [Loading The Void](https://dev.to/sforsberg/loading-the-void-4omf)
 - [Dev.to/JS] [Dev2022 badge](https://dev.to/dineshguptadroid/dev2022-badge-4eli)
 - [Dev.to/JS] [Typescript is now the favourite language.](https://dev.to/mayankvikash/typescript-is-now-the-favourite-language-1o6b)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove Water Stains From Your Walls Without Repainting](https://lifehacker.com/how-to-remove-water-stains-from-your-walls-without-repa-1849742925)
 - [Dev.to/JS] [How to learn Javascript in 5 steps](https://dev.to/justice_hub/how-to-learn-javascript-in-5-steps-ig6)
 - [Lifehacker] [How to Use After-Tax Contributions to Funnel More Into Your 401&lpar;k&rpar;](https://lifehacker.com/how-to-use-after-tax-contributions-to-funnel-more-into-1849742272)
-- [Dev.to/JS] [¿Qué es JSX? ¿Por qué usamos JSX en React y como funciona?](https://dev.to/matiasfha/que-es-jsx-por-que-usamos-jsx-en-react-y-como-funciona-3khh)
 - [Lifehacker] [The Right Way to Break a Car Window in an Emergency](https://lifehacker.com/the-right-way-to-break-a-car-window-in-an-emergency-1849743591)
 - [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
 - [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
