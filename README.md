@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Rising Coder - Week 10/13 &lpar;Frontend Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1013-frontend-week-33-31b2)
+- [Dev.to/JS] [Flatiron School, Four Days Later](https://dev.to/birdsthe3rdword/flatiron-school-four-days-later-id1)
 - [Dev.to/JS] [Let&#39;s not over-engineer things](https://dev.to/nonsoo/lets-not-over-engineer-things-2fa9)
 - [Dev.to/JS] [React Router 6 Deferred Fetch](https://dev.to/infoxicator/react-router-6-deferred-fetch-4k68)
 - [Dev.to/JS] [03.01 - State &amp; Props - Send counter data to child component &lpar;class components&rpar;](https://dev.to/adriangheo/0301-state-props-send-counter-data-to-child-component-class-components-37g1)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Companies Get Hacked and What You Can Do to Protect Your Business](https://dev.to/amrtcrypto/how-companies-get-hacked-and-what-you-can-do-to-protect-your-business-43jc)
 - [Dev.to/JS] [JavaScript Projects for Beginners✨ - ajaysharma_here](https://dev.to/knowledgefromtwitter/javascript-projects-for-beginners-ajaysharmahere-211i)
 - [Dev.to/JS] [First Blog](https://dev.to/xnova22/first-blog-m3)
-- [Dev.to/JS] [JS: Filter, Map, and forEach explained.](https://dev.to/brentdalling/js-filter-map-and-foreach-explained-hmc)
 - [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
-- [Dev.to/JS] [Scrape images from a search engine with JavaScript and Puppeteer](https://dev.to/antoine_m/scrape-images-from-a-search-engine-with-javascript-and-puppeteer-3dlh)
 - [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
 - [Lifehacker] [Don’t Risk Losing Your FSA Funds This Year](https://lifehacker.com/don-t-risk-losing-your-fsa-funds-this-year-1849696019)
 - [Lifehacker] [The Real Trick to Making a Silky-Smooth Cheesecake Filling](https://lifehacker.com/the-real-trick-to-making-a-silky-smooth-cheesecake-fill-1849742824)
