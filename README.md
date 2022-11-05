@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Website Showcase](https://dev.to/ccws/website-showcase-24j8)
+- [Dev.to/JS] [Make your DOM look like an eye that can focus on anything!](https://dev.to/jj811208/make-your-dom-look-like-an-eye-that-can-focus-on-anything-3am)
+- [Dev.to/JS] [This image Explains why people fail in learning programing.](https://dev.to/develop92001047/this-image-explains-why-people-fail-in-learning-programing-3aan)
 - [Dev.to/JS] [Javascript: Concept of OOP in ES5 vs ES6](https://dev.to/one/javascript-concept-of-oop-in-es5-vs-es6-72p)
 - [Dev.to/JS] [Code Organization](https://dev.to/jdoud1993/code-organization-5gd6)
 - [Dev.to/JS] [An animated guide for Node.js event loop](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NodeJs server with JSX routing &lpar;feat Fastify&rpar;](https://dev.to/9zemian5/nodejs-server-with-jsx-routing-feat-fastify-4p2l)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/kima_badalyan/variables-in-javascript-14po)
-- [Dev.to/JS] [Storing &amp; Rendering Blogs: no markdown-parser](https://dev.to/suyious/storing-rendering-blogs-no-markdown-parser-1i4k)
-- [Dev.to/JS] [Angular Chat Application with Socket.io and Node Js](https://dev.to/alakkadshaw/angular-chat-application-with-socketio-and-node-js-1jo4)
-- [Dev.to/JS] [How To Build a Quiz App With HTML CSS and JavaScript](https://dev.to/patelrohan750/how-to-build-a-quiz-app-with-html-css-and-javascript-19a9)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
