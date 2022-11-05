@@ -23,12 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
+- [Dev.to/JS] [Want to open modals from any place in your code? this article is for you!](https://dev.to/omardiaa48/want-to-open-modals-from-any-place-in-your-code-this-article-is-for-you-5gpn)
 - [Dev.to/JS] [How To Build A Simple Counter App In React for Beginners](https://dev.to/ziontutorial/how-to-build-a-simple-counter-app-in-react-for-beginners-40b5)
 - [Dev.to/JS] [Non-overlapping Intervals](https://dev.to/zeeshanali0704/non-overlapping-intervals-o72)
 - [Dev.to/JS] [Mobile menu button in the bottom right corner](https://dev.to/kureii/mobile-menu-button-in-the-bottom-right-corner-2pom)
 - [Dev.to/JS] [Switching to UnoCSS](https://dev.to/akshay9677/switching-to-unocss-5hjo)
 - [Dev.to/JS] [Write Vue.js in CodePen](https://dev.to/yukikmt/write-vuejs-in-codepen-1hie)
-- [Dev.to/JS] [News website design](https://dev.to/tafakorebartar/news-website-design-j59)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;05-11-2022&rpar; - Everything is Totally Fine](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-11-2022-everything-is-totally-fine-837)
 - [Dev.to/JS] [Many Heatwell Heater US suggest that buying](https://dev.to/jmotons/many-heatwell-heater-us-suggest-that-buying-54ma)
 - [Dev.to/JS] [Best Library To Create Simple And Complex Forms In React](https://dev.to/myogeshchavan97/best-library-to-create-simple-and-complex-forms-in-react-k73)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
 - [Lifehacker] [Your Career Needs an Elevator Pitch](https://lifehacker.com/your-career-needs-an-elevator-pitch-1849734325)
 - [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)
-- [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
-- [Lifehacker] [These Malware Apps Are Still Live on the Google Play Store](https://lifehacker.com/these-malware-apps-are-still-live-on-the-google-play-st-1849737245)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)<!-- TECH-POSTS:END -->
 
 ---
 
