@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Build A Simple Counter App In React for Beginners](https://dev.to/ziontutorial/how-to-build-a-simple-counter-app-in-react-for-beginners-40b5)
+- [Dev.to/JS] [Non-overlapping Intervals](https://dev.to/zeeshanali0704/non-overlapping-intervals-o72)
+- [Dev.to/JS] [Mobile menu button in the bottom right corner](https://dev.to/kureii/mobile-menu-button-in-the-bottom-right-corner-2pom)
 - [Dev.to/JS] [Switching to UnoCSS](https://dev.to/akshay9677/switching-to-unocss-5hjo)
 - [Dev.to/JS] [Write Vue.js in CodePen](https://dev.to/yukikmt/write-vuejs-in-codepen-1hie)
 - [Dev.to/JS] [News website design](https://dev.to/tafakorebartar/news-website-design-j59)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Signle Page Web Design](https://dev.to/codexharsh/signle-page-web-design-2cj6)
 - [Dev.to/JS] [Nike Shoe Page Design..](https://dev.to/codexharsh/nike-shoe-page-design-55ip)
 - [Dev.to/JS] [How to use the Dev.to API with React and Typescript in 2022](https://dev.to/yuya0114/react-with-typescript-to-get-data-from-devto-api-json-7a)
-- [Dev.to/JS] [What is Design Tokens? How to create a Design Token in react?](https://dev.to/shubhdeep12/what-is-design-tokens-how-to-create-a-design-token-in-react-32d6)
-- [Dev.to/JS] [Loading The Void](https://dev.to/sforsberg/loading-the-void-4omf)
-- [Dev.to/JS] [Dev2022 badge](https://dev.to/dineshguptadroid/dev2022-badge-4eli)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
