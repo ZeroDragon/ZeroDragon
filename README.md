@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to set up a Node Project With Typescript](https://dev.to/snxdev/how-to-set-up-a-node-project-with-typescript-4ec3)
+- [Dev.to/JS] [How To Build a CLI With Node.js and React](https://dev.to/pmbanugo/how-to-build-a-cli-with-nodejs-and-react-c3a)
+- [Dev.to/JS] [Testing the tool](https://dev.to/mnosov622/testing-the-tool-4kp)
+- [Dev.to/JS] [NodeJs server with JSX routing &lpar;feat Fastify&rpar;](https://dev.to/9zemian5/nodejs-server-with-jsx-routing-feat-fastify-4p2l)
+- [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
+- [Dev.to/JS] [Variables in JavaScript](https://dev.to/kima_badalyan/variables-in-javascript-14po)
 - [Dev.to/JS] [Storing &amp; Rendering Blogs: no markdown-parser](https://dev.to/suyious/storing-rendering-blogs-no-markdown-parser-1i4k)
 - [Dev.to/JS] [Angular Chat Application with Socket.io and Node Js](https://dev.to/alakkadshaw/angular-chat-application-with-socketio-and-node-js-1jo4)
 - [Dev.to/JS] [How To Build a Quiz App With HTML CSS and JavaScript](https://dev.to/patelrohan750/how-to-build-a-quiz-app-with-html-css-and-javascript-19a9)
@@ -31,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native - Android build failures](https://dev.to/gagal18/react-native-android-build-failures-f40)
 - [Dev.to/JS] [How to use the SEO meta tag rules module for Page Designer in SFCC](https://dev.to/bolt04/how-to-use-the-seo-meta-tag-rules-module-for-page-designer-in-sfcc-20i8)
 - [Dev.to/JS] [Angular VS React: Performance comparison with Google Web Vitals](https://dev.to/hearsid/angular-vs-react-performance-comparison-with-google-web-vitals-2c28)
-- [Dev.to/JS] [Shortest Blog Ever ?](https://dev.to/tejasladhani/shorted-blog-ever--p3c)
-- [Dev.to/JS] [Code Smell 177 - Missing Small Objects](https://dev.to/mcsee/code-smell-177-missing-small-objects-h2j)
-- [Dev.to/JS] [Functions in JavaScript.](https://dev.to/jindalkeshav82/functions-in-javascript-87n)
-- [Dev.to/JS] [White label crypto exchange development process](https://dev.to/mgaaron/white-label-crypto-exchange-development-process-141f)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
-- [Dev.to/JS] [Want to open modals from any place in your code? this article is for you!](https://dev.to/omardiaa48/want-to-open-modals-from-any-place-in-your-code-this-article-is-for-you-5gpn)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
 - [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)
 - [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
-- [Lifehacker] [Your Career Needs an Elevator Pitch](https://lifehacker.com/your-career-needs-an-elevator-pitch-1849734325)
-- [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Career Needs an Elevator Pitch](https://lifehacker.com/your-career-needs-an-elevator-pitch-1849734325)<!-- TECH-POSTS:END -->
 
 ---
 
