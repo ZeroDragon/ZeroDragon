@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 177 - Missing Small Objects](https://dev.to/mcsee/code-smell-177-missing-small-objects-h2j)
+- [Dev.to/JS] [Functions in JavaScript.](https://dev.to/jindalkeshav82/functions-in-javascript-87n)
+- [Dev.to/JS] [White label crypto exchange development process](https://dev.to/mgaaron/white-label-crypto-exchange-development-process-141f)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
 - [Dev.to/JS] [Want to open modals from any place in your code? this article is for you!](https://dev.to/omardiaa48/want-to-open-modals-from-any-place-in-your-code-this-article-is-for-you-5gpn)
 - [Dev.to/JS] [How To Build A Simple Counter App In React for Beginners](https://dev.to/ziontutorial/how-to-build-a-simple-counter-app-in-react-for-beginners-40b5)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;05-11-2022&rpar; - Everything is Totally Fine](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-11-2022-everything-is-totally-fine-837)
 - [Dev.to/JS] [Many Heatwell Heater US suggest that buying](https://dev.to/jmotons/many-heatwell-heater-us-suggest-that-buying-54ma)
 - [Dev.to/JS] [Best Library To Create Simple And Complex Forms In React](https://dev.to/myogeshchavan97/best-library-to-create-simple-and-complex-forms-in-react-k73)
-- [Dev.to/JS] [Signle Page Web Design](https://dev.to/codexharsh/signle-page-web-design-2cj6)
-- [Dev.to/JS] [Nike Shoe Page Design..](https://dev.to/codexharsh/nike-shoe-page-design-55ip)
-- [Dev.to/JS] [How to use the Dev.to API with React and Typescript in 2022](https://dev.to/yuya0114/react-with-typescript-to-get-data-from-devto-api-json-7a)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
