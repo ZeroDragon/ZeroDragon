@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular VS React: Performance comparison with Google Web Vitals](https://dev.to/hearsid/angular-vs-react-performance-comparison-with-google-web-vitals-2c28)
+- [Dev.to/JS] [Shortest Blog Ever ?](https://dev.to/tejasladhani/shorted-blog-ever--p3c)
 - [Dev.to/JS] [Code Smell 177 - Missing Small Objects](https://dev.to/mcsee/code-smell-177-missing-small-objects-h2j)
 - [Dev.to/JS] [Functions in JavaScript.](https://dev.to/jindalkeshav82/functions-in-javascript-87n)
 - [Dev.to/JS] [White label crypto exchange development process](https://dev.to/mgaaron/white-label-crypto-exchange-development-process-141f)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Switching to UnoCSS](https://dev.to/akshay9677/switching-to-unocss-5hjo)
 - [Dev.to/JS] [Write Vue.js in CodePen](https://dev.to/yukikmt/write-vuejs-in-codepen-1hie)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;05-11-2022&rpar; - Everything is Totally Fine](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-11-2022-everything-is-totally-fine-837)
-- [Dev.to/JS] [Many Heatwell Heater US suggest that buying](https://dev.to/jmotons/many-heatwell-heater-us-suggest-that-buying-54ma)
-- [Dev.to/JS] [Best Library To Create Simple And Complex Forms In React](https://dev.to/myogeshchavan97/best-library-to-create-simple-and-complex-forms-in-react-k73)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
