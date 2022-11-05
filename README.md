@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Write Vue.js in CodePen](https://dev.to/yukikmt/write-vuejs-in-codepen-1hie)
+- [Dev.to/JS] [News website design](https://dev.to/tafakorebartar/news-website-design-j59)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;05-11-2022&rpar; - Everything is Totally Fine](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-11-2022-everything-is-totally-fine-837)
 - [Dev.to/JS] [Many Heatwell Heater US suggest that buying](https://dev.to/jmotons/many-heatwell-heater-us-suggest-that-buying-54ma)
 - [Dev.to/JS] [Best Library To Create Simple And Complex Forms In React](https://dev.to/myogeshchavan97/best-library-to-create-simple-and-complex-forms-in-react-k73)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Loading The Void](https://dev.to/sforsberg/loading-the-void-4omf)
 - [Dev.to/JS] [Dev2022 badge](https://dev.to/dineshguptadroid/dev2022-badge-4eli)
 - [Dev.to/JS] [Typescript is now the favourite language.](https://dev.to/mayankvikash/typescript-is-now-the-favourite-language-1o6b)
-- [Dev.to/JS] [The Rising Coder - Week 10/13 &lpar;Frontend Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1013-frontend-week-33-31b2)
-- [Dev.to/JS] [Flatiron School, Four Days Later](https://dev.to/birdsthe3rdword/flatiron-school-four-days-later-id1)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
