@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript is now the favourite language.](https://dev.to/mayankvikash/typescript-is-now-the-favourite-language-1o6b)
 - [Dev.to/JS] [The Rising Coder - Week 10/13 &lpar;Frontend Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1013-frontend-week-33-31b2)
 - [Dev.to/JS] [Flatiron School, Four Days Later](https://dev.to/birdsthe3rdword/flatiron-school-four-days-later-id1)
 - [Dev.to/JS] [Let&#39;s not over-engineer things](https://dev.to/nonsoo/lets-not-over-engineer-things-2fa9)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Right Way to Break a Car Window in an Emergency](https://lifehacker.com/the-right-way-to-break-a-car-window-in-an-emergency-1849743591)
 - [Dev.to/JS] [How Companies Get Hacked and What You Can Do to Protect Your Business](https://dev.to/amrtcrypto/how-companies-get-hacked-and-what-you-can-do-to-protect-your-business-43jc)
 - [Dev.to/JS] [JavaScript Projects for Beginners✨ - ajaysharma_here](https://dev.to/knowledgefromtwitter/javascript-projects-for-beginners-ajaysharmahere-211i)
-- [Dev.to/JS] [First Blog](https://dev.to/xnova22/first-blog-m3)
 - [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
 - [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
 - [Lifehacker] [Don’t Risk Losing Your FSA Funds This Year](https://lifehacker.com/don-t-risk-losing-your-fsa-funds-this-year-1849696019)
