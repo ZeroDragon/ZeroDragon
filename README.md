@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Loading The Void](https://dev.to/sforsberg/loading-the-void-4omf)
+- [Dev.to/JS] [Dev2022 badge](https://dev.to/dineshguptadroid/dev2022-badge-4eli)
 - [Dev.to/JS] [Typescript is now the favourite language.](https://dev.to/mayankvikash/typescript-is-now-the-favourite-language-1o6b)
 - [Dev.to/JS] [The Rising Coder - Week 10/13 &lpar;Frontend Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1013-frontend-week-33-31b2)
 - [Dev.to/JS] [Flatiron School, Four Days Later](https://dev.to/birdsthe3rdword/flatiron-school-four-days-later-id1)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use After-Tax Contributions to Funnel More Into Your 401&lpar;k&rpar;](https://lifehacker.com/how-to-use-after-tax-contributions-to-funnel-more-into-1849742272)
 - [Dev.to/JS] [¿Qué es JSX? ¿Por qué usamos JSX en React y como funciona?](https://dev.to/matiasfha/que-es-jsx-por-que-usamos-jsx-en-react-y-como-funciona-3khh)
 - [Lifehacker] [The Right Way to Break a Car Window in an Emergency](https://lifehacker.com/the-right-way-to-break-a-car-window-in-an-emergency-1849743591)
-- [Dev.to/JS] [How Companies Get Hacked and What You Can Do to Protect Your Business](https://dev.to/amrtcrypto/how-companies-get-hacked-and-what-you-can-do-to-protect-your-business-43jc)
-- [Dev.to/JS] [JavaScript Projects for Beginners✨ - ajaysharma_here](https://dev.to/knowledgefromtwitter/javascript-projects-for-beginners-ajaysharmahere-211i)
 - [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
 - [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
 - [Lifehacker] [Don’t Risk Losing Your FSA Funds This Year](https://lifehacker.com/don-t-risk-losing-your-fsa-funds-this-year-1849696019)
