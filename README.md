@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;05-11-2022&rpar; - Everything is Totally Fine](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-11-2022-everything-is-totally-fine-837)
+- [Dev.to/JS] [Many Heatwell Heater US suggest that buying](https://dev.to/jmotons/many-heatwell-heater-us-suggest-that-buying-54ma)
 - [Dev.to/JS] [Best Library To Create Simple And Complex Forms In React](https://dev.to/myogeshchavan97/best-library-to-create-simple-and-complex-forms-in-react-k73)
 - [Dev.to/JS] [Signle Page Web Design](https://dev.to/codexharsh/signle-page-web-design-2cj6)
 - [Dev.to/JS] [Nike Shoe Page Design..](https://dev.to/codexharsh/nike-shoe-page-design-55ip)
-- [Dev.to/JS] [React with TypeScript to get data from dev.to API &lpar;json&rpar;](https://dev.to/yuya0114/react-with-typescript-to-get-data-from-devto-api-json-7a)
+- [Dev.to/JS] [How to use the Dev.to API with React and Typescript in 2022](https://dev.to/yuya0114/react-with-typescript-to-get-data-from-devto-api-json-7a)
 - [Dev.to/JS] [What is Design Tokens? How to create a Design Token in react?](https://dev.to/shubhdeep12/what-is-design-tokens-how-to-create-a-design-token-in-react-32d6)
 - [Dev.to/JS] [Loading The Void](https://dev.to/sforsberg/loading-the-void-4omf)
 - [Dev.to/JS] [Dev2022 badge](https://dev.to/dineshguptadroid/dev2022-badge-4eli)
 - [Dev.to/JS] [Typescript is now the favourite language.](https://dev.to/mayankvikash/typescript-is-now-the-favourite-language-1o6b)
 - [Dev.to/JS] [The Rising Coder - Week 10/13 &lpar;Frontend Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1013-frontend-week-33-31b2)
 - [Dev.to/JS] [Flatiron School, Four Days Later](https://dev.to/birdsthe3rdword/flatiron-school-four-days-later-id1)
-- [Dev.to/JS] [Let&#39;s not over-engineer things](https://dev.to/nonsoo/lets-not-over-engineer-things-2fa9)
-- [Dev.to/JS] [React Router 6 Deferred Fetch](https://dev.to/infoxicator/react-router-6-deferred-fetch-4k68)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
