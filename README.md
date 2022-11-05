@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript: Concept of OOP in ES5 vs ES6](https://dev.to/one/javascript-concept-of-oop-in-es5-vs-es6-72p)
+- [Dev.to/JS] [Code Organization](https://dev.to/jdoud1993/code-organization-5gd6)
+- [Dev.to/JS] [An animated guide for Node.js event loop](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
+- [Dev.to/JS] [Detecting the Visibility of a DOM Element in React](https://dev.to/sandra_lewis/detecting-the-visibility-of-a-dom-element-in-react-1pp)
 - [Dev.to/JS] [How to set up a Node Project With Typescript](https://dev.to/snxdev/how-to-set-up-a-node-project-with-typescript-4ec3)
 - [Dev.to/JS] [How To Build a CLI With Node.js and React](https://dev.to/pmbanugo/how-to-build-a-cli-with-nodejs-and-react-c3a)
 - [Dev.to/JS] [Testing the tool](https://dev.to/mnosov622/testing-the-tool-4kp)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Chat Application with Socket.io and Node Js](https://dev.to/alakkadshaw/angular-chat-application-with-socketio-and-node-js-1jo4)
 - [Dev.to/JS] [How To Build a Quiz App With HTML CSS and JavaScript](https://dev.to/patelrohan750/how-to-build-a-quiz-app-with-html-css-and-javascript-19a9)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
-- [Dev.to/JS] [Is it necessary to hit the server every time I need lookup data ?!](https://dev.to/ga3beery/is-it-necessary-to-hit-the-server-every-single-time-in-need-lookup-data--jfo)
-- [Dev.to/JS] [React Native - Android build failures](https://dev.to/gagal18/react-native-android-build-failures-f40)
-- [Dev.to/JS] [How to use the SEO meta tag rules module for Page Designer in SFCC](https://dev.to/bolt04/how-to-use-the-seo-meta-tag-rules-module-for-page-designer-in-sfcc-20i8)
-- [Dev.to/JS] [Angular VS React: Performance comparison with Google Web Vitals](https://dev.to/hearsid/angular-vs-react-performance-comparison-with-google-web-vitals-2c28)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
