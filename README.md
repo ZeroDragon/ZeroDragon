@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How are the only way.](https://dev.to/sehssoft/how-are-the-only-way-41kb)
+- [Dev.to/JS] [كود خصم فوغا كلوسيت](https://dev.to/sehssoft/kwd-khsm-fwg-klwsyt-3f2o)
+- [Dev.to/JS] [كود خصم بلومنغديلز](https://dev.to/sehssoft/kwd-khsm-blwmngdylz-3jgn)
 - [Dev.to/JS] [You don’t need the framework that builds you a blog in 10 minutes.](https://dev.to/noriller/you-dont-need-the-framework-that-builds-you-a-blog-in-10-minutes-2ig1)
 - [Dev.to/JS] [Change element scale by scroll on parent &lpar;zoom by scroll on parent&rpar;](https://dev.to/make/change-element-scale-by-scroll-on-parent-zoom-by-scroll-on-parent-5blh)
 - [Dev.to/JS] [Website Showcase](https://dev.to/ccws/website-showcase-24j8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Organization](https://dev.to/jdoud1993/code-organization-5gd6)
 - [Dev.to/JS] [An animated guide for Node.js event loop](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
 - [Dev.to/JS] [Detecting the Visibility of a DOM Element in React](https://dev.to/sandra_lewis/detecting-the-visibility-of-a-dom-element-in-react-1pp)
-- [Dev.to/JS] [How to set up a Node Project With Typescript](https://dev.to/snxdev/how-to-set-up-a-node-project-with-typescript-4ec3)
-- [Dev.to/JS] [How To Build a CLI With Node.js and React](https://dev.to/pmbanugo/how-to-build-a-cli-with-nodejs-and-react-c3a)
-- [Dev.to/JS] [Testing the tool](https://dev.to/mnosov622/testing-the-tool-4kp)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
