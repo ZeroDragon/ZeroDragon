@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Switching to UnoCSS](https://dev.to/akshay9677/switching-to-unocss-5hjo)
 - [Dev.to/JS] [Write Vue.js in CodePen](https://dev.to/yukikmt/write-vuejs-in-codepen-1hie)
 - [Dev.to/JS] [News website design](https://dev.to/tafakorebartar/news-website-design-j59)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;05-11-2022&rpar; - Everything is Totally Fine](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-11-2022-everything-is-totally-fine-837)
@@ -34,17 +35,34 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Design Tokens? How to create a Design Token in react?](https://dev.to/shubhdeep12/what-is-design-tokens-how-to-create-a-design-token-in-react-32d6)
 - [Dev.to/JS] [Loading The Void](https://dev.to/sforsberg/loading-the-void-4omf)
 - [Dev.to/JS] [Dev2022 badge](https://dev.to/dineshguptadroid/dev2022-badge-4eli)
-- [Dev.to/JS] [Typescript is now the favourite language.](https://dev.to/mayankvikash/typescript-is-now-the-favourite-language-1o6b)
+- [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
+- [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
+- [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
+- [Lifehacker] [There&#39;s a Better Way to Peel an Orange, According to TikTok](https://lifehacker.com/theres-a-better-way-to-peel-an-orange-according-to-tik-1849744270)
+- [Lifehacker] [How to Remove Water Stains From Your Walls Without Repainting](https://lifehacker.com/how-to-remove-water-stains-from-your-walls-without-repa-1849742925)
+- [Lifehacker] [How to Use After-Tax Contributions to Funnel More Into Your 401&lpar;k&rpar;](https://lifehacker.com/how-to-use-after-tax-contributions-to-funnel-more-into-1849742272)
+- [Lifehacker] [The Right Way to Break a Car Window in an Emergency](https://lifehacker.com/the-right-way-to-break-a-car-window-in-an-emergency-1849743591)
+- [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
+- [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
+- [Lifehacker] [Don’t Risk Losing Your FSA Funds This Year](https://lifehacker.com/don-t-risk-losing-your-fsa-funds-this-year-1849696019)
+- [Lifehacker] [The Real Trick to Making a Silky-Smooth Cheesecake Filling](https://lifehacker.com/the-real-trick-to-making-a-silky-smooth-cheesecake-fill-1849742824)
+- [Lifehacker] [What to Do If Your New CEO Is an Incompetent Moron](https://lifehacker.com/what-to-do-if-your-new-ceo-is-an-incompetent-moron-1849741249)
 - [Crazy Programmer] [7 Best Computer Science Universities in Switzerland 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-switzerland.html)
-- [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
-- [Crazy Programmer] [10 Best Computer Science Universities in Germany 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-germany.html)
-- [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
-- [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)
-- [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)
-- [Crazy Programmer] [9 Best Codecademy Alternatives 2022](https://www.thecrazyprogrammer.com/2022/10/codecademy-alternatives.html)
-- [Crazy Programmer] [What is Microsoft Power BI Certification? Is it Worth It?](https://www.thecrazyprogrammer.com/2022/10/microsoft-power-bi-certification.html)
-- [Crazy Programmer] [David Patterson Biography](https://www.thecrazyprogrammer.com/2022/09/david-patterson-biography.html)
-- [Crazy Programmer] [Sentiment Analysis in Python – A Quick Guide](https://www.thecrazyprogrammer.com/2022/09/sentiment-analysis-in-python.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did TikTok Really Inspire Disney&#39;s Next Musical?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-tikto-1849741839)
+- [Lifehacker] [You Can Get Naked on Tumblr Again](https://lifehacker.com/you-can-get-naked-on-tumblr-again-1849740908)
+- [Lifehacker] [Why You Can’t Always Trust a &#39;Cleared&#39; Check](https://lifehacker.com/why-you-can-t-always-trust-a-cleared-check-1849740309)
+- [Lifehacker] [15 TV Shows You Didn&#39;t Know Were Movies First](https://lifehacker.com/15-tv-shows-you-didnt-know-were-movies-first-1849737095)
+- [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
+- [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
+- [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
+- [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)
+- [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
+- [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)
+- [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
+- [Lifehacker] [Your Career Needs an Elevator Pitch](https://lifehacker.com/your-career-needs-an-elevator-pitch-1849734325)
+- [Lifehacker] [Brown Your Butter for a Better Graham Cracker Crust](https://lifehacker.com/brown-your-butter-for-a-better-graham-cracker-crust-1849738217)
+- [Lifehacker] [How to Instill Perseverance in Your Kids](https://lifehacker.com/how-to-instill-perseverance-in-your-kids-1849733133)
+- [Lifehacker] [These Malware Apps Are Still Live on the Google Play Store](https://lifehacker.com/these-malware-apps-are-still-live-on-the-google-play-st-1849737245)<!-- TECH-POSTS:END -->
 
 ---
 
