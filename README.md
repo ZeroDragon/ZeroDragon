@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript loops: for vs forEach vs for.. in vs for.. of](https://dev.to/smpnjn/javascript-loops-for-vs-foreach-vs-for-in-vs-for-of-1mbo)
+- [Dev.to/JS] [a gentle introduction to client-side data fetching and rendering](https://dev.to/yactouat/a-gentle-introduction-to-client-side-data-fetching-and-rendering-3h4n)
 - [Dev.to/JS] [Removing the last element of an array in Javascript](https://dev.to/smpnjn/removing-the-last-element-of-an-array-in-javascript-7ga)
 - [Dev.to/JS] [A simple guide to Javascript event handling in React](https://dev.to/tobiojuolape/a-simple-guide-to-javascript-event-handling-in-react-417h)
 - [Dev.to/JS] [Step One: Design front-end mock up using figma](https://dev.to/thiggimajig/step-onedesign-front-end-mock-up-using-figma-4a38)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [addEventListener](https://dev.to/gohomewho/addeventlistener-3o6k)
 - [Dev.to/JS] [let and Var difference In JavaScript](https://dev.to/xnova22/let-and-var-difference-in-javascript-5e6p)
 - [Dev.to/JS] [JavaScript Promises - Modern JS](https://dev.to/moazamdev/javascript-promises-modern-js-4lh4)
-- [Dev.to/JS] [Operador Ternario en lugar de &#39;&amp;&amp;&#39; en ReactJS/NextJS](https://dev.to/viistorrr/operador-ternario-en-lugar-de-en-reactnext-165c)
-- [Dev.to/JS] [Vue 3 basics in 10 minutes](https://dev.to/guillaumeduhan/vue-3-basics-in-10-minutes-1bj)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
