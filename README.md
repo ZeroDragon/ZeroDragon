@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Twitter Shows Those Link Cards](https://dev.to/shreyvijayvargiya/how-twitter-shows-those-link-cards-40kg)
 - [Dev.to/JS] [Minimum Hours of Training to Win a Competition](https://dev.to/zeeshanali0704/minimum-hours-of-training-to-win-a-competition-383i)
 - [Dev.to/JS] [Ifs, Else Ifs, Switch](https://dev.to/heiteinany18/ifs-else-ifs-switch-57pj)
 - [Dev.to/JS] [How to seperate number with commas in Javascript](https://dev.to/dhairyashah/how-to-seperate-number-with-commas-in-javascript-550k)
 - [Dev.to/JS] [Change the DB as you wish | Repository Pattern📦](https://dev.to/ivanzm123/change-the-db-as-you-wish-repository-pattern-2h2h)
 - [Dev.to/JS] [How to Make Weather App in React](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
+- [Dev.to/JS] [Recommended VSCode extensions for use with React and TypeScript](https://dev.to/yuya0114/recommended-vscode-extensions-for-use-with-react-and-typescript-9fj)
 - [Dev.to/JS] [&quot;Smart&quot; JavaScript Delivery, Qwik + React in one?](https://dev.to/reggi/smart-javascript-delivery-qwik-react-in-one-nkd)
 - [Dev.to/JS] [Creating a Next.js project with Tailwind Integration](https://dev.to/ethand91/creating-a-nextjs-project-with-tailwind-integration-558a)
 - [Dev.to/JS] [عش ف الدنيا كانك غريب](https://dev.to/kristen82482165/sh-f-ldny-knk-gryb-12dh)
 - [Dev.to/JS] [Recriando o jogo Freeway com boas práticas de programação](https://dev.to/jandersonsiqueira/recriando-o-jogo-freeway-com-boas-praticas-de-programacao-gnd)
 - [Dev.to/JS] [The dream about avoiding API-Endpoints and API-Calls &lpar;is it worth it?&rpar;](https://dev.to/codinghusi/the-dream-about-avoiding-api-endpoints-and-calls-2kia)
-- [Dev.to/JS] [ReactJs using Hook useMemo](https://dev.to/catur/reactjs-using-hook-usememo-5a73)
-- [Dev.to/JS] [JavaScript and CSS minification.](https://dev.to/behainguyen/javascript-and-css-minification-345e)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
