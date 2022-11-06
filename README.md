@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
+- [Dev.to/JS] [How to use nhost serverless functions with javascript](https://dev.to/tonwareemi/how-to-use-nhost-serverless-functions-with-javascript-4hle)
+- [Dev.to/JS] [Rollercss](https://dev.to/ashutosh_pandey/rollercss-1ac9)
+- [Dev.to/JS] [Hi to everyone who has a lot of time &lt;&lt;&lt;&lt;PJQ&gt;&gt;&gt;&gt;&gt;&gt;](https://dev.to/kristen82482165/hi-to-everyone-who-has-a-lot-of-time-2p68)
+- [Dev.to/JS] [Deploy your static React app under 5mins](https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij)
+- [Dev.to/JS] [addEventListener](https://dev.to/gohomewho/addeventlistener-3o6k)
+- [Dev.to/JS] [let and Var difference In JavaScript](https://dev.to/xnova22/let-and-var-difference-in-javascript-5e6p)
 - [Dev.to/JS] [JavaScript Promises - Modern JS](https://dev.to/moazamdev/javascript-promises-modern-js-4lh4)
 - [Dev.to/JS] [Operador Ternario en lugar de &#39;&amp;&amp;&#39; en ReactJS/NextJS](https://dev.to/viistorrr/operador-ternario-en-lugar-de-en-reactnext-165c)
 - [Dev.to/JS] [Vue 3 basics in 10 minutes](https://dev.to/guillaumeduhan/vue-3-basics-in-10-minutes-1bj)
@@ -30,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zero to SaaS - Product #1 Bookmarksy.io the solution](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-the-solution-1h7f)
 - [Dev.to/JS] [Intro to Next.js API&#39;s and handling Form-Data](https://dev.to/divinenaman/intro-to-nextjs-apis-and-handling-form-data-1ola)
 - [Dev.to/JS] [That&#39;s why I made a lot of errors](https://dev.to/develop92001047/thats-why-i-made-a-lot-of-errors-4heg)
-- [Dev.to/JS] [Merge Multiple Array in to single Array](https://dev.to/channasmcs/merge-multiple-array-in-to-single-array-4o30)
-- [Dev.to/JS] [Integrating payment schemes with stripe in nodejs](https://dev.to/documatic/integrating-payment-schemes-with-stripe-in-nodejs-1hlb)
-- [Dev.to/JS] [Tip: JavaScript array sorting shorthand](https://dev.to/trinityyi/tip-javascript-array-sorting-shorthand-oh8)
-- [Dev.to/JS] [VueJs Beginners part 3 - Component](https://dev.to/hshoja/vuejs-beginners-part-3-component-504h)
-- [Dev.to/JS] [Why Programmers use const while declaring variable in JavaScript ?](https://dev.to/prkskrs/why-programmers-use-const-while-declaring-variable-in-javascript--1npn)
-- [Dev.to/JS] [How Twitter Shows Those Link Cards](https://dev.to/shreyvijayvargiya/how-twitter-shows-those-link-cards-40kg)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
 - [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
-- [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)
-- [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)<!-- TECH-POSTS:END -->
 
 ---
 
