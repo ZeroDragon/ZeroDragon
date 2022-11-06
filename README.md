@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Recriando o jogo Freeway com boas práticas de programação](https://dev.to/jandersonsiqueira/recriando-o-jogo-freeway-com-boas-praticas-de-programacao-gnd)
+- [Dev.to/JS] [The dream about avoiding API-Endpoints and API-Calls &lpar;is it worth it?&rpar;](https://dev.to/codinghusi/the-dream-about-avoiding-api-endpoints-and-calls-2kia)
 - [Dev.to/JS] [ReactJs using Hook useMemo](https://dev.to/catur/reactjs-using-hook-usememo-5a73)
 - [Dev.to/JS] [JavaScript and CSS minification.](https://dev.to/behainguyen/javascript-and-css-minification-345e)
 - [Dev.to/JS] [🔥🕺🏼JavaScript em Imagens: Hoisting](https://dev.to/obrenoco/javascript-em-imagens-hoisting-5g5h)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Change element scale by scroll on parent &lpar;zoom by scroll on parent&rpar;](https://dev.to/make/change-element-scale-by-scroll-on-parent-zoom-by-scroll-on-parent-5blh)
 - [Dev.to/JS] [Website Showcase](https://dev.to/ccws/website-showcase-24j8)
 - [Dev.to/JS] [Make your DOM look like an eye that can focus on anything!](https://dev.to/jj811208/make-your-dom-look-like-an-eye-that-can-focus-on-anything-3am)
-- [Dev.to/JS] [This image Explains why people fail in learning programing.](https://dev.to/develop92001047/this-image-explains-why-people-fail-in-learning-programing-3aan)
-- [Dev.to/JS] [Javascript: Concept of OOP in ES5 vs ES6](https://dev.to/one/javascript-concept-of-oop-in-es5-vs-es6-72p)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
