@@ -23,10 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Removing the last element of an array in Javascript](https://dev.to/smpnjn/removing-the-last-element-of-an-array-in-javascript-7ga)
+- [Dev.to/JS] [A simple guide to Javascript event handling in React](https://dev.to/tobiojuolape/a-simple-guide-to-javascript-event-handling-in-react-417h)
+- [Dev.to/JS] [Step One: Design front-end mock up using figma](https://dev.to/thiggimajig/step-onedesign-front-end-mock-up-using-figma-4a38)
+- [Dev.to/JS] [9 preguntas de entrevista de Angular 👇](https://dev.to/marianocodes/9-preguntas-de-entrevista-de-angular-1ffa)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Dev.to/JS] [How to use nhost serverless functions with javascript](https://dev.to/tonwareemi/how-to-use-nhost-serverless-functions-with-javascript-4hle)
 - [Dev.to/JS] [Rollercss](https://dev.to/ashutosh_pandey/rollercss-1ac9)
-- [Dev.to/JS] [Hi to everyone who has a lot of time &lt;&lt;&lt;&lt;PJQ&gt;&gt;&gt;&gt;&gt;&gt;](https://dev.to/kristen82482165/hi-to-everyone-who-has-a-lot-of-time-2p68)
 - [Dev.to/JS] [Deploy your static React app under 5mins](https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij)
 - [Dev.to/JS] [addEventListener](https://dev.to/gohomewho/addeventlistener-3o6k)
 - [Dev.to/JS] [let and Var difference In JavaScript](https://dev.to/xnova22/let-and-var-difference-in-javascript-5e6p)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Operador Ternario en lugar de &#39;&amp;&amp;&#39; en ReactJS/NextJS](https://dev.to/viistorrr/operador-ternario-en-lugar-de-en-reactnext-165c)
 - [Dev.to/JS] [Vue 3 basics in 10 minutes](https://dev.to/guillaumeduhan/vue-3-basics-in-10-minutes-1bj)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
-- [Dev.to/JS] [Zero to SaaS - Product #1 Bookmarksy.io the solution](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-the-solution-1h7f)
-- [Dev.to/JS] [Intro to Next.js API&#39;s and handling Form-Data](https://dev.to/divinenaman/intro-to-nextjs-apis-and-handling-form-data-1ola)
-- [Dev.to/JS] [That&#39;s why I made a lot of errors](https://dev.to/develop92001047/thats-why-i-made-a-lot-of-errors-4heg)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
