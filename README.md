@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Immediately invoked function expressions &lpar;IIFE&rpar;](https://dev.to/smpnjn/javascript-immediately-invoked-function-expressions-iife-4p7f)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Dev.to/JS] [Coding Flappy Bird](https://dev.to/bekbrace/coding-flappy-bird-3i3l)
 - [Dev.to/JS] [Difference Between Import Something From Package VS Import { Something } From Package](https://dev.to/yaqoobahmed/difference-between-import-something-from-package-vs-import-something-from-package-33b2)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Step One: Design front-end mock up using figma](https://dev.to/thiggimajig/step-onedesign-front-end-mock-up-using-figma-4a38)
 - [Dev.to/JS] [9 preguntas de entrevista de Angular 👇](https://dev.to/marianocodes/9-preguntas-de-entrevista-de-angular-1ffa)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
-- [Dev.to/JS] [How to use nhost serverless functions with javascript](https://dev.to/tonwareemi/how-to-use-nhost-serverless-functions-with-javascript-4hle)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
