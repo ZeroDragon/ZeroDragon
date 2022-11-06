@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Change the DB as you wish | Repository Pattern📦](https://dev.to/ivanzm123/change-the-db-as-you-wish-repository-pattern-2h2h)
+- [Dev.to/JS] [How to Make Weather App in React](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
 - [Dev.to/JS] [&quot;Smart&quot; JavaScript Delivery, Qwik + React in one?](https://dev.to/reggi/smart-javascript-delivery-qwik-react-in-one-nkd)
 - [Dev.to/JS] [Creating a Next.js project with Tailwind Integration](https://dev.to/ethand91/creating-a-nextjs-project-with-tailwind-integration-558a)
 - [Dev.to/JS] [عش ف الدنيا كانك غريب](https://dev.to/kristen82482165/sh-f-ldny-knk-gryb-12dh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🔥🕺🏼JavaScript em Imagens: Hoisting](https://dev.to/obrenoco/javascript-em-imagens-hoisting-5g5h)
 - [Dev.to/JS] [How are the only way.](https://dev.to/sehssoft/how-are-the-only-way-41kb)
 - [Dev.to/JS] [كود خصم فوغا كلوسيت](https://dev.to/sehssoft/kwd-khsm-fwg-klwsyt-3f2o)
-- [Dev.to/JS] [كود خصم بلومنغديلز](https://dev.to/sehssoft/kwd-khsm-blwmngdylz-3jgn)
-- [Dev.to/JS] [You don’t need the framework that builds you a blog in 10 minutes.](https://dev.to/noriller/you-dont-need-the-framework-that-builds-you-a-blog-in-10-minutes-2ig1)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
