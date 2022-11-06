@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to seperate number with commas in Javascript](https://dev.to/dhairyashah/how-to-seperate-number-with-commas-in-javascript-550k)
 - [Dev.to/JS] [Change the DB as you wish | Repository Pattern📦](https://dev.to/ivanzm123/change-the-db-as-you-wish-repository-pattern-2h2h)
 - [Dev.to/JS] [How to Make Weather App in React](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
 - [Dev.to/JS] [&quot;Smart&quot; JavaScript Delivery, Qwik + React in one?](https://dev.to/reggi/smart-javascript-delivery-qwik-react-in-one-nkd)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript and CSS minification.](https://dev.to/behainguyen/javascript-and-css-minification-345e)
 - [Dev.to/JS] [🔥🕺🏼JavaScript em Imagens: Hoisting](https://dev.to/obrenoco/javascript-em-imagens-hoisting-5g5h)
 - [Dev.to/JS] [How are the only way.](https://dev.to/sehssoft/how-are-the-only-way-41kb)
-- [Dev.to/JS] [كود خصم فوغا كلوسيت](https://dev.to/sehssoft/kwd-khsm-fwg-klwsyt-3f2o)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
