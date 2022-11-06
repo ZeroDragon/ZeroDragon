@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Promises - Modern JS](https://dev.to/moazamdev/javascript-promises-modern-js-4lh4)
+- [Dev.to/JS] [Operador Ternario en lugar de &#39;&amp;&amp;&#39; en ReactJS/NextJS](https://dev.to/viistorrr/operador-ternario-en-lugar-de-en-reactnext-165c)
+- [Dev.to/JS] [Vue 3 basics in 10 minutes](https://dev.to/guillaumeduhan/vue-3-basics-in-10-minutes-1bj)
+- [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
 - [Dev.to/JS] [Zero to SaaS - Product #1 Bookmarksy.io the solution](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-the-solution-1h7f)
 - [Dev.to/JS] [Intro to Next.js API&#39;s and handling Form-Data](https://dev.to/divinenaman/intro-to-nextjs-apis-and-handling-form-data-1ola)
 - [Dev.to/JS] [That&#39;s why I made a lot of errors](https://dev.to/develop92001047/thats-why-i-made-a-lot-of-errors-4heg)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VueJs Beginners part 3 - Component](https://dev.to/hshoja/vuejs-beginners-part-3-component-504h)
 - [Dev.to/JS] [Why Programmers use const while declaring variable in JavaScript ?](https://dev.to/prkskrs/why-programmers-use-const-while-declaring-variable-in-javascript--1npn)
 - [Dev.to/JS] [How Twitter Shows Those Link Cards](https://dev.to/shreyvijayvargiya/how-twitter-shows-those-link-cards-40kg)
-- [Dev.to/JS] [Minimum Hours of Training to Win a Competition](https://dev.to/zeeshanali0704/minimum-hours-of-training-to-win-a-competition-383i)
-- [Dev.to/JS] [Ifs, Else Ifs, Switch](https://dev.to/heiteinany18/ifs-else-ifs-switch-57pj)
-- [Dev.to/JS] [How to seperate number with commas in Javascript](https://dev.to/dhairyashah/how-to-seperate-number-with-commas-in-javascript-550k)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
 - [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)
-- [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
-- [Lifehacker] [Your Career Needs an Elevator Pitch](https://lifehacker.com/your-career-needs-an-elevator-pitch-1849734325)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Versatile Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)<!-- TECH-POSTS:END -->
 
 ---
 
