@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zero to SaaS - Product #1 Bookmarksy.io the solution](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-the-solution-1h7f)
+- [Dev.to/JS] [Intro to Next.js API&#39;s and handling Form-Data](https://dev.to/divinenaman/intro-to-nextjs-apis-and-handling-form-data-1ola)
+- [Dev.to/JS] [That&#39;s why I made a lot of errors](https://dev.to/develop92001047/thats-why-i-made-a-lot-of-errors-4heg)
+- [Dev.to/JS] [Merge Multiple Array in to single Array](https://dev.to/channasmcs/merge-multiple-array-in-to-single-array-4o30)
 - [Dev.to/JS] [Integrating payment schemes with stripe in nodejs](https://dev.to/documatic/integrating-payment-schemes-with-stripe-in-nodejs-1hlb)
 - [Dev.to/JS] [Tip: JavaScript array sorting shorthand](https://dev.to/trinityyi/tip-javascript-array-sorting-shorthand-oh8)
 - [Dev.to/JS] [VueJs Beginners part 3 - Component](https://dev.to/hshoja/vuejs-beginners-part-3-component-504h)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Minimum Hours of Training to Win a Competition](https://dev.to/zeeshanali0704/minimum-hours-of-training-to-win-a-competition-383i)
 - [Dev.to/JS] [Ifs, Else Ifs, Switch](https://dev.to/heiteinany18/ifs-else-ifs-switch-57pj)
 - [Dev.to/JS] [How to seperate number with commas in Javascript](https://dev.to/dhairyashah/how-to-seperate-number-with-commas-in-javascript-550k)
-- [Dev.to/JS] [Change the DB as you wish | Repository Pattern📦](https://dev.to/ivanzm123/change-the-db-as-you-wish-repository-pattern-2h2h)
-- [Dev.to/JS] [How to Make Weather App in React](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
-- [Dev.to/JS] [Recommended VSCode extensions for use with React and TypeScript](https://dev.to/yuya0114/recommended-vscode-extensions-for-use-with-react-and-typescript-9fj)
-- [Dev.to/JS] [&quot;Smart&quot; JavaScript Delivery, Qwik + React in one?](https://dev.to/reggi/smart-javascript-delivery-qwik-react-in-one-nkd)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
