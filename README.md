@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding Flappy Bird](https://dev.to/bekbrace/coding-flappy-bird-3i3l)
+- [Dev.to/JS] [Difference Between Import Something From Package VS Import { Something } From Package](https://dev.to/yaqoobahmed/difference-between-import-something-from-package-vs-import-something-from-package-33b2)
+- [Dev.to/JS] [Variables in Javascript](https://dev.to/elina_melkonyan/variables-in-javascript-242a)
+- [Dev.to/JS] [In Depth Guide On Hoisting In JavaScript](https://dev.to/nikhiltatpati/in-depth-guide-on-hoisting-in-javascript-3m9h)
+- [Dev.to/JS] [Next.js 13 is here](https://dev.to/deveshanand18/nextjs-13-is-here-5f5p)
 - [Dev.to/JS] [Javascript loops: for vs forEach vs for.. in vs for.. of](https://dev.to/smpnjn/javascript-loops-for-vs-foreach-vs-for-in-vs-for-of-1mbo)
 - [Dev.to/JS] [a gentle introduction to client-side data fetching and rendering](https://dev.to/yactouat/a-gentle-introduction-to-client-side-data-fetching-and-rendering-3h4n)
 - [Dev.to/JS] [Removing the last element of an array in Javascript](https://dev.to/smpnjn/removing-the-last-element-of-an-array-in-javascript-7ga)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [9 preguntas de entrevista de Angular 👇](https://dev.to/marianocodes/9-preguntas-de-entrevista-de-angular-1ffa)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Dev.to/JS] [How to use nhost serverless functions with javascript](https://dev.to/tonwareemi/how-to-use-nhost-serverless-functions-with-javascript-4hle)
-- [Dev.to/JS] [Rollercss](https://dev.to/ashutosh_pandey/rollercss-1ac9)
-- [Dev.to/JS] [Deploy your static React app under 5mins](https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij)
-- [Dev.to/JS] [addEventListener](https://dev.to/gohomewho/addeventlistener-3o6k)
-- [Dev.to/JS] [let and Var difference In JavaScript](https://dev.to/xnova22/let-and-var-difference-in-javascript-5e6p)
-- [Dev.to/JS] [JavaScript Promises - Modern JS](https://dev.to/moazamdev/javascript-promises-modern-js-4lh4)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
