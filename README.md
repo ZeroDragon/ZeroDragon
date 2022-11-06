@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Dev.to/JS] [Coding Flappy Bird](https://dev.to/bekbrace/coding-flappy-bird-3i3l)
 - [Dev.to/JS] [Difference Between Import Something From Package VS Import { Something } From Package](https://dev.to/yaqoobahmed/difference-between-import-something-from-package-vs-import-something-from-package-33b2)
 - [Dev.to/JS] [Variables in Javascript](https://dev.to/elina_melkonyan/variables-in-javascript-242a)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
 - [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
 - [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)
-- [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
-- [Lifehacker] [The Government Might Help Pay Your Heating Bill This Winter](https://lifehacker.com/the-government-might-help-pay-your-heating-bill-this-wi-1849738970)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)<!-- TECH-POSTS:END -->
 
 ---
 
