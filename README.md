@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do you need data but don&#39;t know how to scrape yourself?](https://dev.to/treadalex/do-you-need-data-but-dont-know-how-to-scrape-yourself-2fp0)
 - [Dev.to/JS] [Javascript Immediately invoked function expressions &lpar;IIFE&rpar;](https://dev.to/smpnjn/javascript-immediately-invoked-function-expressions-iife-4p7f)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Dev.to/JS] [Coding Flappy Bird](https://dev.to/bekbrace/coding-flappy-bird-3i3l)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Removing the last element of an array in Javascript](https://dev.to/smpnjn/removing-the-last-element-of-an-array-in-javascript-7ga)
 - [Dev.to/JS] [A simple guide to Javascript event handling in React](https://dev.to/tobiojuolape/a-simple-guide-to-javascript-event-handling-in-react-417h)
 - [Dev.to/JS] [Step One: Design front-end mock up using figma](https://dev.to/thiggimajig/step-onedesign-front-end-mock-up-using-figma-4a38)
-- [Dev.to/JS] [9 preguntas de entrevista de Angular 👇](https://dev.to/marianocodes/9-preguntas-de-entrevista-de-angular-1ffa)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
