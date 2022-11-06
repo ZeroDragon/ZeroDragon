@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrating payment schemes with stripe in nodejs](https://dev.to/documatic/integrating-payment-schemes-with-stripe-in-nodejs-1hlb)
 - [Dev.to/JS] [Tip: JavaScript array sorting shorthand](https://dev.to/trinityyi/tip-javascript-array-sorting-shorthand-oh8)
 - [Dev.to/JS] [VueJs Beginners part 3 - Component](https://dev.to/hshoja/vuejs-beginners-part-3-component-504h)
 - [Dev.to/JS] [Why Programmers use const while declaring variable in JavaScript ?](https://dev.to/prkskrs/why-programmers-use-const-while-declaring-variable-in-javascript--1npn)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make Weather App in React](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
 - [Dev.to/JS] [Recommended VSCode extensions for use with React and TypeScript](https://dev.to/yuya0114/recommended-vscode-extensions-for-use-with-react-and-typescript-9fj)
 - [Dev.to/JS] [&quot;Smart&quot; JavaScript Delivery, Qwik + React in one?](https://dev.to/reggi/smart-javascript-delivery-qwik-react-in-one-nkd)
-- [Dev.to/JS] [Creating a Next.js project with Tailwind Integration](https://dev.to/ethand91/creating-a-nextjs-project-with-tailwind-integration-558a)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
