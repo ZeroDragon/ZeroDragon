@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Very Large Delay Value In setTimeout](https://dev.to/capscode/very-large-delay-value-in-settimeout-51m8)
+- [Dev.to/JS] [What exactly is Automation Testing?](https://dev.to/postwell45/what-exactly-is-automation-testing-3p9)
+- [Dev.to/JS] [Publier une librairie avec plusieurs packages à l&#39;aide de Turborepo](https://dev.to/simonboisset/publier-plusieurs-packages-avec-turborepo-2lo4)
+- [Dev.to/JS] [Killing mutants to improve your tests](https://dev.to/trikitrok/killing-mutants-to-improve-your-tests-5bep)
 - [Dev.to/JS] [Publier un package avec esbuild](https://dev.to/simonboisset/publier-un-package-avec-esbuild-3mc0)
 - [Dev.to/JS] [Building an Awesome Carousel Reusable Component with React and Splide.js](https://dev.to/meenahgurl/building-an-awesome-carousel-reusable-component-with-react-and-splidejs-g0p)
 - [Dev.to/JS] [Create a Sound Board in 3 lines of code](https://dev.to/aneeqakhan/create-a-sound-board-in-3-lines-of-code-3ho8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create an EyeDropper tool using JavaScript?](https://dev.to/atapas/how-to-create-an-eyedropper-tool-using-javascript-3k59)
 - [Dev.to/JS] [Simple rule of coding](https://dev.to/develop92001047/simple-rule-of-coding-556c)
 - [Dev.to/JS] [Object desctructuring](https://dev.to/estotriramdani/object-desctructuring-14dl)
-- [Dev.to/JS] [Detecting suspicious login activity](https://dev.to/bunkosecurity/detecting-suspicious-login-activity-5b77)
-- [Dev.to/JS] [Counting to 1 Billion &lpar;Node vs. Bun&rpar;](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
-- [Dev.to/JS] [Error [ERR_MODULE_NOT_FOUND]: Cannot find module](https://dev.to/hasantezcan/error-errmodulenotfound-cannot-find-module-4o09)
-- [Dev.to/JS] [Autocomplete Search Component With React and TypeScript](https://dev.to/ljaviertovar/autocomplete-search-component-with-react-and-typescript-2lj3)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
