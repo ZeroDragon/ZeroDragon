@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple rule of coding](https://dev.to/develop92001047/simple-rule-of-coding-556c)
+- [Dev.to/JS] [Object desctructuring](https://dev.to/estotriramdani/object-desctructuring-14dl)
 - [Dev.to/JS] [Detecting suspicious login activity](https://dev.to/bunkosecurity/detecting-suspicious-login-activity-5b77)
 - [Dev.to/JS] [Counting to 1 Billion &lpar;Node vs. Bun&rpar;](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
 - [Dev.to/JS] [Error [ERR_MODULE_NOT_FOUND]: Cannot find module](https://dev.to/hasantezcan/error-errmodulenotfound-cannot-find-module-4o09)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coding Flappy Bird](https://dev.to/bekbrace/coding-flappy-bird-3i3l)
 - [Dev.to/JS] [Difference Between Import Something From Package VS Import { Something } From Package](https://dev.to/yaqoobahmed/difference-between-import-something-from-package-vs-import-something-from-package-33b2)
 - [Dev.to/JS] [Variables in Javascript](https://dev.to/elina_melkonyan/variables-in-javascript-242a)
-- [Dev.to/JS] [In Depth Guide On Hoisting In JavaScript](https://dev.to/nikhiltatpati/in-depth-guide-on-hoisting-in-javascript-3m9h)
-- [Dev.to/JS] [Next.js 13 is here](https://dev.to/deveshanand18/nextjs-13-is-here-5f5p)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
