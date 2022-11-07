@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hi](https://dev.to/saymon_lacerda/hi-48j1)
+- [Dev.to/JS] [Serverless functions for dummies⚡](https://dev.to/ckmonish2000/serverless-functions-for-dummies-2aae)
+- [Dev.to/JS] [Google Page Speed Insights and Magento 2](https://dev.to/magecomcompany/google-page-speed-insights-and-magento-2-5ei9)
+- [Lifehacker] [Always Check the Australian Site Before Booking an Airbnb](https://lifehacker.com/always-check-the-australian-site-before-booking-an-airb-1849751018)
+- [Dev.to/JS] [Superpeer Cloudflare Workers Adventure](https://dev.to/akingundogdu/superpeer-cloudflare-workers-adventure-7ld)
+- [Lifehacker] [Don&#39;t Eat These Recalled Nestle Cookies, FDA Says](https://lifehacker.com/dont-eat-these-recalled-nestle-cookies-fda-says-1849745893)
 - [Dev.to/JS] [Two line code for responsive navigation 🫡](https://dev.to/elliot_brenyasarfo_18749/two-line-code-for-responsive-navigation-350h)
 - [Dev.to/JS] [Introducing Bitesize Accessibility: A New A11y Series for Developers, UX Designers, and Content Creators](https://dev.to/gingerkiwi/introducing-bitesize-accessibility-a-new-a11y-series-for-developers-ux-designers-and-content-creators-443a)
 - [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 2](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-2-16jk)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Look Up an Unauthorized Charge on Your Credit Card](https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942)
 - [Dev.to/JS] [Critical situation for a coder](https://dev.to/develop92001047/critical-situation-for-a-coder-40fl)
 - [Dev.to/JS] [Refactoring 010 - Extract Method Object](https://dev.to/mcsee/refactoring-010-extract-method-object-3ff8)
-- [Dev.to/JS] [Variables in JavaScript](https://dev.to/taguhi_manukyan_73ffa9e44/variables-in-javascript-32ce)
-- [Dev.to/JS] [How to pass command line arguments to a Node.js app?](https://dev.to/bobbyiliev/how-to-pass-command-line-arguments-to-a-nodejs-app-5294)
-- [Dev.to/JS] [Best Book for Learning JavaScript?](https://dev.to/pruthvirajchauhan/best-book-for-learning-javascript-ace)
-- [Dev.to/JS] [Decentralized exchange is the best business idea](https://dev.to/mgaaron/decentralized-exchange-is-the-best-business-idea-7id)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Naked on Tumblr Again](https://lifehacker.com/you-can-get-naked-on-tumblr-again-1849740908)
 - [Lifehacker] [Why You Can’t Always Trust a &#39;Cleared&#39; Check](https://lifehacker.com/why-you-can-t-always-trust-a-cleared-check-1849740309)
 - [Lifehacker] [15 TV Shows You Didn&#39;t Know Were Movies First](https://lifehacker.com/15-tv-shows-you-didnt-know-were-movies-first-1849737095)
-- [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
-- [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
-- [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)<!-- TECH-POSTS:END -->
 
 ---
 
