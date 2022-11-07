@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [It Is Possible to Stop Your Cat From Scratching Your Furniture](https://lifehacker.com/it-is-possible-to-stop-your-cat-from-scratching-your-fu-1849750752)
+- [Dev.to/JS] [JavaScript concepts you need to know before getting into React...](https://dev.to/gaurbprajapati/javascript-concepts-you-need-to-know-before-getting-into-react-ia2)
 - [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)
 - [Dev.to/JS] [Gains to Replace ExpressJS with AexJS](https://dev.to/610470416/gains-to-replace-expressjs-with-aexjs-42ce)
 - [Lifehacker] [Consider the 5 C&#39;s Before Moving for a Job](https://lifehacker.com/consider-the-5-cs-before-moving-for-a-job-1849750334)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 2.5.3 Released](https://dev.to/tsparticles/tsparticles-253-released-4cmf)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Nov 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-nov-2022-5fa3)
 - [Lifehacker] [How to Find Discord Servers You&#39;ll Actually Like](https://lifehacker.com/how-to-find-discord-servers-youll-actually-like-1849750929)
-- [Dev.to/JS] [De HTML a PDF](https://dev.to/ajest/de-html-a-pdf-2gmb)
 - [Lifehacker] [How to Look Up an Unauthorized Charge on Your Credit Card](https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Real Trick to Making a Silky-Smooth Cheesecake Filling](https://lifehacker.com/the-real-trick-to-making-a-silky-smooth-cheesecake-fill-1849742824)
 - [Lifehacker] [What to Do If Your New CEO Is an Incompetent Moron](https://lifehacker.com/what-to-do-if-your-new-ceo-is-an-incompetent-moron-1849741249)
 - [Crazy Programmer] [7 Best Computer Science Universities in Switzerland 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-switzerland.html)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did TikTok Really Inspire Disney&#39;s Next Musical?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-tikto-1849741839)
-- [Lifehacker] [You Can Get Naked on Tumblr Again](https://lifehacker.com/you-can-get-naked-on-tumblr-again-1849740908)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did TikTok Really Inspire Disney&#39;s Next Musical?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-tikto-1849741839)<!-- TECH-POSTS:END -->
 
 ---
 
