@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Look Up an Unauthorized Charge on Your Credit Card](https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942)
+- [Dev.to/JS] [Critical situation for a coder](https://dev.to/develop92001047/critical-situation-for-a-coder-40fl)
+- [Dev.to/JS] [Refactoring 010 - Extract Method Object](https://dev.to/mcsee/refactoring-010-extract-method-object-3ff8)
 - [Dev.to/JS] [Repeated and multiple key press events without stuttering in JavaScript](https://dev.to/artydev/repeated-and-multiple-key-press-events-without-stuttering-in-javascript-316j)
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/taguhi_manukyan_73ffa9e44/variables-in-javascript-32ce)
 - [Dev.to/JS] [How to pass command line arguments to a Node.js app?](https://dev.to/bobbyiliev/how-to-pass-command-line-arguments-to-a-nodejs-app-5294)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useExitIntent - A React Hook to handle exit intent strategies](https://dev.to/daltonmenezes/useexitintent-a-react-hook-to-handle-exit-intent-strategies-pdp)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💎.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-4f2j)
 - [Dev.to/JS] [Building a React application to solve captchas using 2captcha](https://dev.to/surajondev/building-a-react-application-to-solve-captchas-using-2captcha-4alk)
-- [Dev.to/JS] [What is URL Resolving?](https://dev.to/vue-storefront/what-is-url-resolving-22cb)
-- [Dev.to/JS] [Very Large Delay Value In setTimeout](https://dev.to/capscode/very-large-delay-value-in-settimeout-51m8)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
 - [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
-- [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)
-- [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)<!-- TECH-POSTS:END -->
 
 ---
 
