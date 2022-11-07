@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Publier un package avec esbuild](https://dev.to/simonboisset/publier-un-package-avec-esbuild-3mc0)
+- [Dev.to/JS] [Building an Awesome Carousel Reusable Component with React and Splide.js](https://dev.to/meenahgurl/building-an-awesome-carousel-reusable-component-with-react-and-splidejs-g0p)
 - [Dev.to/JS] [Create a Sound Board in 3 lines of code](https://dev.to/aneeqakhan/create-a-sound-board-in-3-lines-of-code-3ho8)
 - [Dev.to/JS] [Tingkatkan Git Pesan Komit Anda Menjadi Lebih Baik](https://dev.to/rifkiandriyanto/tingkatkan-git-pesan-komit-anda-menjadi-lebih-baik-1jb0)
 - [Dev.to/JS] [UEle - Tiny UI Reactive library](https://dev.to/kethan/uele-tiny-ui-reactive-library-2g90)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Counting to 1 Billion &lpar;Node vs. Bun&rpar;](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
 - [Dev.to/JS] [Error [ERR_MODULE_NOT_FOUND]: Cannot find module](https://dev.to/hasantezcan/error-errmodulenotfound-cannot-find-module-4o09)
 - [Dev.to/JS] [Autocomplete Search Component With React and TypeScript](https://dev.to/ljaviertovar/autocomplete-search-component-with-react-and-typescript-2lj3)
-- [Dev.to/JS] [Ng-News: Episode 22/44](https://dev.to/ng_news/ng-news-episode-2244-13ga)
-- [Dev.to/JS] [Do you need data but don&#39;t know how to scrape yourself?](https://dev.to/treadalex/do-you-need-data-but-dont-know-how-to-scrape-yourself-2fp0)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
