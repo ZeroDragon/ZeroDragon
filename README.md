@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Lucia: A simple, flexible, and type-safe authentication library for Next.js, SvelteKit, and beyond](https://dev.to/pilcrowonpaper/introducing-lucia-a-simple-flexible-and-type-safe-authentication-library-for-nextjs-sveltekit-and-beyond-4jeg)
+- [Dev.to/JS] [useExitIntent - A React Hook to handle exit intent strategies](https://dev.to/daltonmenezes/useexitintent-a-react-hook-to-handle-exit-intent-strategies-pdp)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💎.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-4f2j)
+- [Dev.to/JS] [Building a React application to solve captchas using 2captcha](https://dev.to/surajondev/building-a-react-application-to-solve-captchas-using-2captcha-4alk)
+- [Dev.to/JS] [What is URL Resolving?](https://dev.to/vue-storefront/what-is-url-resolving-22cb)
 - [Dev.to/JS] [Very Large Delay Value In setTimeout](https://dev.to/capscode/very-large-delay-value-in-settimeout-51m8)
 - [Dev.to/JS] [What exactly is Automation Testing?](https://dev.to/postwell45/what-exactly-is-automation-testing-3p9)
 - [Dev.to/JS] [Publier une librairie avec plusieurs packages à l&#39;aide de Turborepo](https://dev.to/simonboisset/publier-plusieurs-packages-avec-turborepo-2lo4)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Publier un package avec esbuild](https://dev.to/simonboisset/publier-un-package-avec-esbuild-3mc0)
 - [Dev.to/JS] [Building an Awesome Carousel Reusable Component with React and Splide.js](https://dev.to/meenahgurl/building-an-awesome-carousel-reusable-component-with-react-and-splidejs-g0p)
 - [Dev.to/JS] [Create a Sound Board in 3 lines of code](https://dev.to/aneeqakhan/create-a-sound-board-in-3-lines-of-code-3ho8)
-- [Dev.to/JS] [Tingkatkan Git Pesan Komit Anda Menjadi Lebih Baik](https://dev.to/rifkiandriyanto/tingkatkan-git-pesan-komit-anda-menjadi-lebih-baik-1jb0)
-- [Dev.to/JS] [UEle - Tiny UI Reactive library](https://dev.to/kethan/uele-tiny-ui-reactive-library-2g90)
-- [Dev.to/JS] [How to create an EyeDropper tool using JavaScript?](https://dev.to/atapas/how-to-create-an-eyedropper-tool-using-javascript-3k59)
-- [Dev.to/JS] [Simple rule of coding](https://dev.to/develop92001047/simple-rule-of-coding-556c)
-- [Dev.to/JS] [Object desctructuring](https://dev.to/estotriramdani/object-desctructuring-14dl)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
