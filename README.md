@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Detecting suspicious login activity](https://dev.to/bunkosecurity/detecting-suspicious-login-activity-5b77)
+- [Dev.to/JS] [Counting to 1 Billion &lpar;Node vs. Bun&rpar;](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
 - [Dev.to/JS] [Error [ERR_MODULE_NOT_FOUND]: Cannot find module](https://dev.to/hasantezcan/error-errmodulenotfound-cannot-find-module-4o09)
 - [Dev.to/JS] [Autocomplete Search Component With React and TypeScript](https://dev.to/ljaviertovar/autocomplete-search-component-with-react-and-typescript-2lj3)
 - [Dev.to/JS] [Ng-News: Episode 22/44](https://dev.to/ng_news/ng-news-episode-2244-13ga)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variables in Javascript](https://dev.to/elina_melkonyan/variables-in-javascript-242a)
 - [Dev.to/JS] [In Depth Guide On Hoisting In JavaScript](https://dev.to/nikhiltatpati/in-depth-guide-on-hoisting-in-javascript-3m9h)
 - [Dev.to/JS] [Next.js 13 is here](https://dev.to/deveshanand18/nextjs-13-is-here-5f5p)
-- [Dev.to/JS] [Javascript loops: for vs forEach vs for.. in vs for.. of](https://dev.to/smpnjn/javascript-loops-for-vs-foreach-vs-for-in-vs-for-of-1mbo)
-- [Dev.to/JS] [a gentle introduction to client-side data fetching and rendering](https://dev.to/yactouat/a-gentle-introduction-to-client-side-data-fetching-and-rendering-3h4n)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
