@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [10 Best Computer Science Universities in Italy 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-italy.html)
+- [Lifehacker] [Unfollow &#39;God of War: Ragnarok&#39; Before Sony Spoils It for You](https://lifehacker.com/unfollow-god-of-war-ragnarok-before-sony-spoils-it-for-1849751683)
+- [Dev.to/JS] [Factory Method pattern in TypeScript](https://dev.to/jmalvarez/factory-method-pattern-in-typescript-2a1n)
+- [Lifehacker] [The Full List of Smartphones That Support Android 13](https://lifehacker.com/the-full-list-of-smartphones-that-support-android-13-1849752237)
 - [Dev.to/JS] [JavaScript Basics| Introduction to variables and their usage.](https://dev.to/annamikayelyan5/javascript-basics-introduction-to-variables-and-their-usage-5aa9)
 - [Dev.to/JS] [Multiple Laravel developers Required](https://dev.to/softsolex/multiple-laravel-developers-required-320g)
 - [Lifehacker] [Throw Out Your Baby&#39;s Head-Shaping Pillow, FDA Says](https://lifehacker.com/throw-out-your-babys-head-shaping-pillow-fda-says-1849752260)
@@ -33,7 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript concepts you need to know before getting into React...](https://dev.to/gaurbprajapati/javascript-concepts-you-need-to-know-before-getting-into-react-ia2)
 - [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)
 - [Dev.to/JS] [Gains to Replace ExpressJS with AexJS](https://dev.to/610470416/gains-to-replace-expressjs-with-aexjs-42ce)
-- [Lifehacker] [Consider the 5 C&#39;s Before Moving for a Job](https://lifehacker.com/consider-the-5-cs-before-moving-for-a-job-1849750334)
+- [Lifehacker] [Consider the Five C&#39;s Before Moving for a Job](https://lifehacker.com/consider-the-5-cs-before-moving-for-a-job-1849750334)
 - [Dev.to/JS] [Client-side Routing without the JavaScript](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i)
 - [Lifehacker] [How to Fix Your Torn Upholstery Without Sewing It](https://lifehacker.com/how-to-fix-your-torn-upholstery-without-sewing-it-1849750441)
 - [Dev.to/JS] [Hi](https://dev.to/saymon_lacerda/hi-48j1)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Always Check the Australian Site Before Booking an Airbnb](https://lifehacker.com/always-check-the-australian-site-before-booking-an-airb-1849751018)
 - [Dev.to/JS] [Superpeer Cloudflare Workers Adventure](https://dev.to/akingundogdu/superpeer-cloudflare-workers-adventure-7ld)
 - [Lifehacker] [Don&#39;t Eat These Recalled Nestle Cookies, FDA Says](https://lifehacker.com/dont-eat-these-recalled-nestle-cookies-fda-says-1849745893)
-- [Dev.to/JS] [Two line code for responsive navigation 🫡](https://dev.to/elliot_brenyasarfo_18749/two-line-code-for-responsive-navigation-350h)
 - [Lifehacker] [How to Find Discord Servers You&#39;ll Actually Like](https://lifehacker.com/how-to-find-discord-servers-youll-actually-like-1849750929)
 - [Lifehacker] [How to Look Up an Unauthorized Charge on Your Credit Card](https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use After-Tax Contributions to Funnel More Into Your 401&lpar;k&rpar;](https://lifehacker.com/how-to-use-after-tax-contributions-to-funnel-more-into-1849742272)
 - [Lifehacker] [The Right Way to Break a Car Window in an Emergency](https://lifehacker.com/the-right-way-to-break-a-car-window-in-an-emergency-1849743591)
 - [Lifehacker] [11 Dungeons &amp; Dragons Podcasts That Roll a Natural 20](https://lifehacker.com/11-dungeons-dragons-podcasts-that-roll-a-natural-20-1849739804)
-- [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
-- [Lifehacker] [Don’t Risk Losing Your FSA Funds This Year](https://lifehacker.com/don-t-risk-losing-your-fsa-funds-this-year-1849696019)
-- [Lifehacker] [The Real Trick to Making a Silky-Smooth Cheesecake Filling](https://lifehacker.com/the-real-trick-to-making-a-silky-smooth-cheesecake-fill-1849742824)
-- [Lifehacker] [What to Do If Your New CEO Is an Incompetent Moron](https://lifehacker.com/what-to-do-if-your-new-ceo-is-an-incompetent-moron-1849741249)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)<!-- TECH-POSTS:END -->
 
 ---
 
