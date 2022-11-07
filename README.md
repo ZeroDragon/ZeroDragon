@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Sound Board in 3 lines of code](https://dev.to/aneeqakhan/create-a-sound-board-in-3-lines-of-code-3ho8)
 - [Dev.to/JS] [Tingkatkan Git Pesan Komit Anda Menjadi Lebih Baik](https://dev.to/rifkiandriyanto/tingkatkan-git-pesan-komit-anda-menjadi-lebih-baik-1jb0)
 - [Dev.to/JS] [UEle - Tiny UI Reactive library](https://dev.to/kethan/uele-tiny-ui-reactive-library-2g90)
 - [Dev.to/JS] [How to create an EyeDropper tool using JavaScript?](https://dev.to/atapas/how-to-create-an-eyedropper-tool-using-javascript-3k59)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Autocomplete Search Component With React and TypeScript](https://dev.to/ljaviertovar/autocomplete-search-component-with-react-and-typescript-2lj3)
 - [Dev.to/JS] [Ng-News: Episode 22/44](https://dev.to/ng_news/ng-news-episode-2244-13ga)
 - [Dev.to/JS] [Do you need data but don&#39;t know how to scrape yourself?](https://dev.to/treadalex/do-you-need-data-but-dont-know-how-to-scrape-yourself-2fp0)
-- [Dev.to/JS] [Javascript Immediately invoked function expressions &lpar;IIFE&rpar;](https://dev.to/smpnjn/javascript-immediately-invoked-function-expressions-iife-4p7f)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
