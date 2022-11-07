@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Basics| Introduction to variables and their usage.](https://dev.to/annamikayelyan5/javascript-basics-introduction-to-variables-and-their-usage-5aa9)
+- [Dev.to/JS] [Multiple Laravel developers Required](https://dev.to/softsolex/multiple-laravel-developers-required-320g)
+- [Lifehacker] [Throw Out Your Baby&#39;s Head-Shaping Pillow, FDA Says](https://lifehacker.com/throw-out-your-babys-head-shaping-pillow-fda-says-1849752260)
+- [Dev.to/JS] [I Created a pure Unicode Code Highlighter :P](https://dev.to/felipperegazio/i-created-a-pure-unicode-code-highlighter-p-ong)
+- [Dev.to/JS] [Have you ever thought your project is getting popular?](https://dev.to/pavelkeyzik/have-you-ever-thought-your-project-is-getting-popular-25kb)
+- [Lifehacker] [The 7 Deadly Sins of Making Thanksgiving Dinner](https://lifehacker.com/the-7-deadly-sins-of-making-thanksgiving-dinner-1849745401)
 - [Lifehacker] [It Is Possible to Stop Your Cat From Scratching Your Furniture](https://lifehacker.com/it-is-possible-to-stop-your-cat-from-scratching-your-fu-1849750752)
 - [Dev.to/JS] [JavaScript concepts you need to know before getting into React...](https://dev.to/gaurbprajapati/javascript-concepts-you-need-to-know-before-getting-into-react-ia2)
 - [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Superpeer Cloudflare Workers Adventure](https://dev.to/akingundogdu/superpeer-cloudflare-workers-adventure-7ld)
 - [Lifehacker] [Don&#39;t Eat These Recalled Nestle Cookies, FDA Says](https://lifehacker.com/dont-eat-these-recalled-nestle-cookies-fda-says-1849745893)
 - [Dev.to/JS] [Two line code for responsive navigation 🫡](https://dev.to/elliot_brenyasarfo_18749/two-line-code-for-responsive-navigation-350h)
-- [Dev.to/JS] [Introducing Bitesize Accessibility: A New A11y Series for Developers, UX Designers, and Content Creators](https://dev.to/gingerkiwi/introducing-bitesize-accessibility-a-new-a11y-series-for-developers-ux-designers-and-content-creators-443a)
-- [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 2](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-2-16jk)
-- [Dev.to/JS] [tsParticles 2.5.3 Released](https://dev.to/tsparticles/tsparticles-253-released-4cmf)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Nov 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-nov-2022-5fa3)
 - [Lifehacker] [How to Find Discord Servers You&#39;ll Actually Like](https://lifehacker.com/how-to-find-discord-servers-youll-actually-like-1849750929)
 - [Lifehacker] [How to Look Up an Unauthorized Charge on Your Credit Card](https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Spotify Doesn’t Need to Sound Like Crap](https://lifehacker.com/you-can-make-spotify-sound-better-1849743180)
 - [Lifehacker] [Don’t Risk Losing Your FSA Funds This Year](https://lifehacker.com/don-t-risk-losing-your-fsa-funds-this-year-1849696019)
 - [Lifehacker] [The Real Trick to Making a Silky-Smooth Cheesecake Filling](https://lifehacker.com/the-real-trick-to-making-a-silky-smooth-cheesecake-fill-1849742824)
-- [Lifehacker] [What to Do If Your New CEO Is an Incompetent Moron](https://lifehacker.com/what-to-do-if-your-new-ceo-is-an-incompetent-moron-1849741249)
-- [Crazy Programmer] [7 Best Computer Science Universities in Switzerland 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-switzerland.html)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Did TikTok Really Inspire Disney&#39;s Next Musical?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-tikto-1849741839)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do If Your New CEO Is an Incompetent Moron](https://lifehacker.com/what-to-do-if-your-new-ceo-is-an-incompetent-moron-1849741249)<!-- TECH-POSTS:END -->
 
 ---
 
