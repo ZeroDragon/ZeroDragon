@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use JS Gamepad API and Build a Gamepad Tester](https://dev.to/codingwithadam/how-to-use-js-gamepad-api-and-build-a-gamepad-tester-5em6)
+- [Lifehacker] [You Should Make Your Stuffing With Fast Food Biscuits](https://lifehacker.com/you-should-make-your-stuffing-with-fast-food-biscuits-1849753343)
+- [Dev.to/JS] [ML in JavaScript](https://dev.to/nolongercoder/ml-in-javascript-56bk)
 - [Lifehacker] [When to Take Your Child to the ER &lpar;and When to Call the Doctor Instead&rpar;](https://lifehacker.com/when-to-take-your-child-to-the-er-and-when-to-call-the-1849753577)
 - [Dev.to/JS] [Functions for beginners](https://dev.to/elidvenega/functions-for-beginners-588f)
 - [Dev.to/JS] [Functions: How to clean up your code](https://dev.to/samanthamarberger/functions-how-to-clean-up-your-code-8p)
@@ -44,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)
 - [Dev.to/JS] [Gains to Replace ExpressJS with AexJS](https://dev.to/610470416/gains-to-replace-expressjs-with-aexjs-42ce)
 - [Lifehacker] [Consider the Five C&#39;s Before Moving for a Job](https://lifehacker.com/consider-the-5-cs-before-moving-for-a-job-1849750334)
-- [Dev.to/JS] [Client-side Routing without the JavaScript](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i)
 - [Lifehacker] [How to Fix Your Torn Upholstery Without Sewing It](https://lifehacker.com/how-to-fix-your-torn-upholstery-without-sewing-it-1849750441)
-- [Dev.to/JS] [Serverless functions for dummies⚡](https://dev.to/ckmonish2000/serverless-functions-for-dummies-2aae)
 - [Lifehacker] [Always Check the Australian Site Before Booking an Airbnb](https://lifehacker.com/always-check-the-australian-site-before-booking-an-airb-1849751018)
 - [Lifehacker] [Don&#39;t Eat These Recalled Nestle Cookies, FDA Says](https://lifehacker.com/dont-eat-these-recalled-nestle-cookies-fda-says-1849745893)
 - [Lifehacker] [How to Find Discord Servers You&#39;ll Actually Like](https://lifehacker.com/how-to-find-discord-servers-youll-actually-like-1849750929)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
 - [Lifehacker] [There&#39;s a Better Way to Peel an Orange, According to TikTok](https://lifehacker.com/theres-a-better-way-to-peel-an-orange-according-to-tik-1849744270)
-- [Lifehacker] [How to Remove Water Stains From Your Walls Without Repainting](https://lifehacker.com/how-to-remove-water-stains-from-your-walls-without-repa-1849742925)
-- [Lifehacker] [How to Use After-Tax Contributions to Funnel More Into Your 401&lpar;k&rpar;](https://lifehacker.com/how-to-use-after-tax-contributions-to-funnel-more-into-1849742272)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Remove Water Stains From Your Walls Without Repainting](https://lifehacker.com/how-to-remove-water-stains-from-your-walls-without-repa-1849742925)<!-- TECH-POSTS:END -->
 
 ---
 
