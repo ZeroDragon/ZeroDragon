@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Two line code for responsive navigation 🫡](https://dev.to/elliot_brenyasarfo_18749/two-line-code-for-responsive-navigation-350h)
+- [Dev.to/JS] [Introducing Bitesize Accessibility: A New A11y Series for Developers, UX Designers, and Content Creators](https://dev.to/gingerkiwi/introducing-bitesize-accessibility-a-new-a11y-series-for-developers-ux-designers-and-content-creators-443a)
+- [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 2](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-2-16jk)
+- [Dev.to/JS] [tsParticles 2.5.3 Released](https://dev.to/tsparticles/tsparticles-253-released-4cmf)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Nov 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-nov-2022-5fa3)
+- [Lifehacker] [How to Find Discord Servers You&#39;ll Actually Like](https://lifehacker.com/how-to-find-discord-servers-youll-actually-like-1849750929)
+- [Dev.to/JS] [De HTML a PDF](https://dev.to/ajest/de-html-a-pdf-2gmb)
 - [Lifehacker] [How to Look Up an Unauthorized Charge on Your Credit Card](https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942)
 - [Dev.to/JS] [Critical situation for a coder](https://dev.to/develop92001047/critical-situation-for-a-coder-40fl)
 - [Dev.to/JS] [Refactoring 010 - Extract Method Object](https://dev.to/mcsee/refactoring-010-extract-method-object-3ff8)
-- [Dev.to/JS] [Repeated and multiple key press events without stuttering in JavaScript](https://dev.to/artydev/repeated-and-multiple-key-press-events-without-stuttering-in-javascript-316j)
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/taguhi_manukyan_73ffa9e44/variables-in-javascript-32ce)
 - [Dev.to/JS] [How to pass command line arguments to a Node.js app?](https://dev.to/bobbyiliev/how-to-pass-command-line-arguments-to-a-nodejs-app-5294)
 - [Dev.to/JS] [Best Book for Learning JavaScript?](https://dev.to/pruthvirajchauhan/best-book-for-learning-javascript-ace)
 - [Dev.to/JS] [Decentralized exchange is the best business idea](https://dev.to/mgaaron/decentralized-exchange-is-the-best-business-idea-7id)
-- [Dev.to/JS] [How to handle anything](https://dev.to/mellen/how-to-handle-anything-jdi)
-- [Dev.to/JS] [Introducing Lucia: A simple, flexible, and type-safe authentication library for Next.js, SvelteKit, and beyond](https://dev.to/pilcrowonpaper/introducing-lucia-a-simple-flexible-and-type-safe-authentication-library-for-nextjs-sveltekit-and-beyond-4jeg)
-- [Dev.to/JS] [useExitIntent - A React Hook to handle exit intent strategies](https://dev.to/daltonmenezes/useexitintent-a-react-hook-to-handle-exit-intent-strategies-pdp)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💎.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-4f2j)
-- [Dev.to/JS] [Building a React application to solve captchas using 2captcha](https://dev.to/surajondev/building-a-react-application-to-solve-captchas-using-2captcha-4alk)
 - [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 TV Shows You Didn&#39;t Know Were Movies First](https://lifehacker.com/15-tv-shows-you-didnt-know-were-movies-first-1849737095)
 - [Lifehacker] [Everything You Didn&#39;t Know You Could Do With an iPhone Screenshot](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
 - [Lifehacker] [The Difference Between Global and National Recessions &lpar;and What It Means for the US&rpar;](https://lifehacker.com/the-difference-between-global-and-national-recessions-1849698626)
-- [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)
-- [Lifehacker] [Don&#39;t Be Fooled by These Powerball and Mega Millions Scams](https://lifehacker.com/dont-be-fooled-by-these-powerball-and-mega-millions-sca-1849739259)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Surface-by-Surface Guide to Getting Scratches Out of Practically Everything](https://lifehacker.com/a-surface-by-surface-guide-to-getting-scratches-out-of-1849739354)<!-- TECH-POSTS:END -->
 
 ---
 
