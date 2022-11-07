@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [X-editable with Select2](https://dev.to/rimbaborne/x-editable-with-select2-1fm7)
+- [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
+- [Dev.to/JS] [How we spent Hacktoberfest 2022](https://dev.to/codechem/how-we-spent-hacktoberfest-2022-mcd)
+- [Dev.to/JS] [Explaining Array Methods](https://dev.to/thelevitatewriter/explaining-array-methods-4k9e)
+- [Lifehacker] [Call This Number to Get a Pep Talk From Kindergarteners](https://lifehacker.com/call-this-number-to-get-a-pep-talk-from-kindergarteners-1849753517)
 - [Dev.to/JS] [How to use JS Gamepad API and Build a Gamepad Tester](https://dev.to/codingwithadam/how-to-use-js-gamepad-api-and-build-a-gamepad-tester-5em6)
 - [Lifehacker] [You Should Make Your Stuffing With Fast Food Biscuits](https://lifehacker.com/you-should-make-your-stuffing-with-fast-food-biscuits-1849753343)
 - [Dev.to/JS] [ML in JavaScript](https://dev.to/nolongercoder/ml-in-javascript-56bk)
@@ -40,12 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multiple Laravel developers Required](https://dev.to/softsolex/multiple-laravel-developers-required-320g)
 - [Lifehacker] [Throw Out Your Baby&#39;s Head-Shaping Pillow, FDA Says](https://lifehacker.com/throw-out-your-babys-head-shaping-pillow-fda-says-1849752260)
 - [Dev.to/JS] [I Created a pure Unicode Code Highlighter :P](https://dev.to/felipperegazio/i-created-a-pure-unicode-code-highlighter-p-ong)
-- [Dev.to/JS] [Have you ever thought your project is getting popular?](https://dev.to/pavelkeyzik/have-you-ever-thought-your-project-is-getting-popular-25kb)
 - [Lifehacker] [The 7 Deadly Sins of Making Thanksgiving Dinner](https://lifehacker.com/the-7-deadly-sins-of-making-thanksgiving-dinner-1849745401)
 - [Lifehacker] [It Is Possible to Stop Your Cat From Scratching Your Furniture](https://lifehacker.com/it-is-possible-to-stop-your-cat-from-scratching-your-fu-1849750752)
-- [Dev.to/JS] [JavaScript concepts you need to know before getting into React...](https://dev.to/gaurbprajapati/javascript-concepts-you-need-to-know-before-getting-into-react-ia2)
 - [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)
-- [Dev.to/JS] [Gains to Replace ExpressJS with AexJS](https://dev.to/610470416/gains-to-replace-expressjs-with-aexjs-42ce)
 - [Lifehacker] [Consider the Five C&#39;s Before Moving for a Job](https://lifehacker.com/consider-the-5-cs-before-moving-for-a-job-1849750334)
 - [Lifehacker] [How to Fix Your Torn Upholstery Without Sewing It](https://lifehacker.com/how-to-fix-your-torn-upholstery-without-sewing-it-1849750441)
 - [Lifehacker] [Always Check the Australian Site Before Booking an Airbnb](https://lifehacker.com/always-check-the-australian-site-before-booking-an-airb-1849751018)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
 - [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
 - [Lifehacker] [What to Do If You Don’t Like Your Child&#39;s Teacher](https://lifehacker.com/what-to-do-if-you-don-t-like-your-childs-teacher-1849744860)
-- [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
-- [Lifehacker] [There&#39;s a Better Way to Peel an Orange, According to TikTok](https://lifehacker.com/theres-a-better-way-to-peel-an-orange-according-to-tik-1849744270)
-- [Lifehacker] [How to Remove Water Stains From Your Walls Without Repainting](https://lifehacker.com/how-to-remove-water-stains-from-your-walls-without-repa-1849742925)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)<!-- TECH-POSTS:END -->
 
 ---
 
