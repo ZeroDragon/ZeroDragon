@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Random Number generator ReactJs](https://dev.to/b4ldous/random-number-generator-reactjs-502c)
+- [Dev.to/JS] [7 Daily Hacks For Programmers To Make Coding Skills Faster](https://dev.to/devsimc/7-daily-hacks-for-programmers-to-make-coding-skills-faster-4493)
 - [Dev.to/JS] [Device-Based Ads And App Binary](https://dev.to/legaciespanda/device-based-ads-and-app-binary-j23)
 - [Dev.to/JS] [Are SVG Animations important in web Development?](https://dev.to/vistamista2012/are-svg-animations-important-in-web-development-1i9o)
 - [Dev.to/JS] [Can Text formatting increase site traffic?](https://dev.to/bheeko2120/can-text-formatting-increase-site-traffic-5487)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is Headings important when writing a blog?](https://dev.to/manshana1/is-headings-important-when-writing-a-blog-4e7p)
 - [Dev.to/JS] [Simple White The Best Chocolate Cake Recipe](https://dev.to/fdgf/simple-white-the-best-chocolate-cake-recipe-4m99)
 - [Dev.to/JS] [zcbcshsfsfh](https://dev.to/fdgf/zcbcshsfsfh-1on5)
-- [Dev.to/JS] [How To Detect And Prevent Credit Card Fraud](https://dev.to/legaciespanda/how-to-detect-and-prevent-credit-card-fraud-3b8a)
-- [Dev.to/JS] [What is actually basic web structure?](https://dev.to/ghana77571378/what-is-actually-basic-web-structure-31gn)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
