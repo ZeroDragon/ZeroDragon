@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tengo problemas con esto...](https://dev.to/jhonatancch2/tengo-problemas-con-esto-3fno)
+- [Dev.to/JS] [How Blockchain Could Shape the Future of a Wide Range of Industries](https://dev.to/amrtcrypto/how-blockchain-could-shape-the-future-of-a-wide-range-of-industries-536e)
+- [Dev.to/JS] [Simple calendar in a few lines of code 📆](https://dev.to/rgolawski/simple-calendar-in-a-few-lines-of-code-2n00)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Dev.to/JS] [X-editable with Select2](https://dev.to/rimbaborne/x-editable-with-select2-1fm7)
@@ -43,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Unfollow &#39;God of War: Ragnarok&#39; Before Sony Spoils It for You](https://lifehacker.com/unfollow-god-of-war-ragnarok-before-sony-spoils-it-for-1849751683)
 - [Dev.to/JS] [Factory Method pattern in TypeScript](https://dev.to/jmalvarez/factory-method-pattern-in-typescript-2a1n)
 - [Lifehacker] [The Full List of Smartphones That Support Android 13](https://lifehacker.com/the-full-list-of-smartphones-that-support-android-13-1849752237)
-- [Dev.to/JS] [JavaScript Basics| Introduction to variables and their usage.](https://dev.to/annamikayelyan5/javascript-basics-introduction-to-variables-and-their-usage-5aa9)
-- [Dev.to/JS] [Multiple Laravel developers Required](https://dev.to/softsolex/multiple-laravel-developers-required-320g)
 - [Lifehacker] [Throw Out Your Baby&#39;s Head-Shaping Pillow, FDA Says](https://lifehacker.com/throw-out-your-babys-head-shaping-pillow-fda-says-1849752260)
-- [Dev.to/JS] [I Created a pure Unicode Code Highlighter :P](https://dev.to/felipperegazio/i-created-a-pure-unicode-code-highlighter-p-ong)
 - [Lifehacker] [The 7 Deadly Sins of Making Thanksgiving Dinner](https://lifehacker.com/the-7-deadly-sins-of-making-thanksgiving-dinner-1849745401)
 - [Lifehacker] [It Is Possible to Stop Your Cat From Scratching Your Furniture](https://lifehacker.com/it-is-possible-to-stop-your-cat-from-scratching-your-fu-1849750752)
 - [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)
