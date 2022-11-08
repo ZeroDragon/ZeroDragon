@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 frontend project ideas](https://dev.to/albericojr/5-frontend-project-ideas-2pa6)
+- [Dev.to/JS] [f8betscasino](https://dev.to/f8betscasinovn/f8betscasino-gh6)
+- [Dev.to/JS] [Hey @everyone, can anyone help me to solve the problem in #JavaScript](https://dev.to/sandeep_kumar/hey-everyone-can-anyone-help-me-to-solve-the-problem-in-javascript-hfo)
+- [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week🐵.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-5b4g)
+- [Dev.to/JS] [Iniz: Makes ReactJS actually reactive](https://dev.to/inizio/iniz-makes-reactjs-actually-reactive-305n)
 - [Dev.to/JS] [Refactoring Tools: Fewer Errors with Declarative Style](https://dev.to/bespoyasov/refactoring-tools-fewer-errors-with-declarative-style-1b4c)
 - [Dev.to/JS] [# Day 3 | How to resolve it?](https://dev.to/weijuer/-day-3-how-to-resolve-it-1j2a)
 - [Dev.to/JS] [JS message inside a form](https://dev.to/itsanfield/js-message-inside-a-form-j8m)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Get Data Of Attributes In JavaScript With Selenium](https://dev.to/lambdatest/how-to-get-data-of-attributes-in-javascript-with-selenium-3j7o)
 - [Dev.to/JS] [How development history keeps repeating itself](https://dev.to/n1try/how-development-history-keeps-repeating-itself-5h0n)
 - [Dev.to/JS] [I made an Express-like framework for IPC communication](https://dev.to/h_sifat/i-made-an-express-like-framework-for-ipc-communication-36lg)
-- [Dev.to/JS] [Custom Checkbox using HTML and CSS](https://dev.to/piyushpatil1243/custom-checkbox-using-html-and-css-7jf)
-- [Dev.to/JS] [Random Number generator ReactJs](https://dev.to/b4ldous/random-number-generator-reactjs-502c)
-- [Dev.to/JS] [7 Daily Hacks For Programmers To Make Coding Skills Faster](https://dev.to/devsimc/7-daily-hacks-for-programmers-to-make-coding-skills-faster-4493)
-- [Dev.to/JS] [Device-Based Ads And App Binary](https://dev.to/legaciespanda/device-based-ads-and-app-binary-j23)
-- [Dev.to/JS] [Are SVG Animations important in web Development?](https://dev.to/vistamista2012/are-svg-animations-important-in-web-development-1i9o)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
