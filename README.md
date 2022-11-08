@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [# Day 3 | How to resolve it?](https://dev.to/weijuer/-day-3-how-to-resolve-it-1j2a)
 - [Dev.to/JS] [JS message inside a form](https://dev.to/itsanfield/js-message-inside-a-form-j8m)
 - [Dev.to/JS] [How to Configure PM2 the right way](https://dev.to/mr_ali3n/how-to-configure-pm2-the-right-way-2m33)
 - [Dev.to/JS] [How To Get Data Of Attributes In JavaScript With Selenium](https://dev.to/lambdatest/how-to-get-data-of-attributes-in-javascript-with-selenium-3j7o)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Device-Based Ads And App Binary](https://dev.to/legaciespanda/device-based-ads-and-app-binary-j23)
 - [Dev.to/JS] [Are SVG Animations important in web Development?](https://dev.to/vistamista2012/are-svg-animations-important-in-web-development-1i9o)
 - [Dev.to/JS] [Can Text formatting increase site traffic?](https://dev.to/bheeko2120/can-text-formatting-increase-site-traffic-5487)
-- [Dev.to/JS] [Should Line breaks added to the content?](https://dev.to/managt22/should-line-breaks-added-to-the-content-10jh)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
