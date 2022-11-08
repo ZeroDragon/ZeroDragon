@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Substitute Your Dried Thanksgiving Herbs for Fresh Ones](https://lifehacker.com/how-to-substitute-your-dried-thanksgiving-herbs-for-fre-1849754492)
+- [Dev.to/JS] [UI Development — Dynamic Island Effect | Sacesta Technologies](https://dev.to/sacesta/ui-development-dynamic-island-effect-sacesta-technologies-327k)
+- [Dev.to/JS] [Farnance: How Julian built a SaaS for farmers with Wasp and won a hackathon!](https://dev.to/wasp/farnance-how-julian-built-a-saas-for-farmers-with-wasp-and-won-a-hackathon-4548)
+- [Dev.to/JS] [React Development](https://dev.to/achifa/react-development-2b6p)
+- [Dev.to/JS] [Css default browser scroll in few lines](https://dev.to/himanshupal0001/css-default-browser-scroll-in-few-lines-3ai2)
 - [Dev.to/JS] [Building hotkeys in React apps](https://dev.to/kolot/building-hotkeys-in-react-apps-2p5d)
 - [Dev.to/JS] [How to work with API on your mobile phone?](https://dev.to/varshithvhegde/how-to-work-with-api-on-your-mobile-phone-34eh)
 - [Dev.to/JS] [Migrating to NextJs 13](https://dev.to/willholmes/migrating-to-nextjs-13-3l6d)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Any One Knows What is the right way to get a remote job as fresh web developer ?](https://dev.to/kanhapathak99/any-one-knows-what-is-the-right-way-to-get-a-remote-job-as-fresh-web-developer--59j6)
 - [Dev.to/JS] [Minimum Addition to Make Integer Beautiful](https://dev.to/zeeshanali0704/minimum-addition-to-make-integer-beautiful-1156)
 - [Dev.to/JS] [5 frontend project ideas](https://dev.to/albericojr/5-frontend-project-ideas-2pa6)
-- [Dev.to/JS] [f8betscasino](https://dev.to/f8betscasinovn/f8betscasino-gh6)
-- [Dev.to/JS] [Hey @everyone, can anyone help me to solve the problem in #JavaScript](https://dev.to/sandeep_kumar/hey-everyone-can-anyone-help-me-to-solve-the-problem-in-javascript-hfo)
-- [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week🐵.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-5b4g)
-- [Dev.to/JS] [Iniz: Makes ReactJS actually reactive](https://dev.to/inizio/iniz-makes-reactjs-actually-reactive-305n)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
 - [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
-- [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)
-- [Lifehacker] [Is a Walking Pad Really Better Than a Treadmill?](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)<!-- TECH-POSTS:END -->
 
 ---
 
