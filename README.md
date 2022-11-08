@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
+- [Dev.to/JS] [Approving NFTs + NoRamp](https://dev.to/noramp/approving-nfts-noramp-2idd)
 - [Lifehacker] [7 Fitness Trends on TikTok That Are Actually Worth Trying](https://lifehacker.com/7-fitness-trends-on-tiktok-that-are-actually-worth-tryi-1849757950)
 - [Lifehacker] [These Are the Dos and Don’ts of Sending a Voice Message](https://lifehacker.com/these-are-the-dos-and-don-ts-of-sending-a-voice-message-1849758508)
 - [Dev.to/JS] [Part of a Layoff? Steps Jobseekers Need to Take First](https://dev.to/hired/part-of-a-layoff-steps-jobseekers-need-to-take-first-163l)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS prototypes are slow ... ?](https://dev.to/blobkat/js-prototypes-are-slow--1170)
 - [Dev.to/JS] [React.js VS Angular](https://dev.to/kareemzahoor/reactjs-vs-angular-4ajh)
 - [Lifehacker] [I Improved TikTok’s Nutella and Biscoff Freezer Brownies &lpar;You’re Welcome&rpar;](https://lifehacker.com/i-improved-tiktok-s-nutella-and-biscoff-freezer-brownie-1849754274)
-- [Dev.to/JS] [Composition API: Ref vs Reactive](https://dev.to/victorhugoaguilar/composition-api-ref-vs-reactive-4l63)
 - [Lifehacker] [11 Famous Places That Don&#39;t Really Exist](https://lifehacker.com/11-famous-places-that-dont-really-exist-1849754301)
 - [Lifehacker] [Sending Money to &#39;Yourself&#39; on Zelle Is a Scam](https://lifehacker.com/sending-money-to-yourself-on-zelle-is-a-scam-1849754543)
 - [Lifehacker] [Here&#39;s What Happens to Your Crypto When You Die](https://lifehacker.com/heres-what-happens-to-your-crypto-when-you-die-1849753938)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Smaller Pies This Thanksgiving](https://lifehacker.com/you-should-make-smaller-pies-this-thanksgiving-1849751990)
 - [Lifehacker] [Be Wary of ‘Fee-Based’ Vs. ‘Fee-Only’ Financial Planners](https://lifehacker.com/be-wary-of-fee-based-vs-fee-only-financial-planner-1849744257)
 - [Crazy Programmer] [10 Best Computer Science Universities in Italy 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-italy.html)
-- [Lifehacker] [Unfollow &#39;God of War: Ragnarok&#39; Before Sony Spoils It for You](https://lifehacker.com/unfollow-god-of-war-ragnarok-before-sony-spoils-it-for-1849751683)
-- [Lifehacker] [The Full List of Smartphones That Support Android 13](https://lifehacker.com/the-full-list-of-smartphones-that-support-android-13-1849752237)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Unfollow &#39;God of War: Ragnarok&#39; Before Sony Spoils It for You](https://lifehacker.com/unfollow-god-of-war-ragnarok-before-sony-spoils-it-for-1849751683)<!-- TECH-POSTS:END -->
 
 ---
 
