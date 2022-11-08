@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Device-Based Ads And App Binary](https://dev.to/legaciespanda/device-based-ads-and-app-binary-j23)
+- [Dev.to/JS] [Are SVG Animations important in web Development?](https://dev.to/vistamista2012/are-svg-animations-important-in-web-development-1i9o)
+- [Dev.to/JS] [Can Text formatting increase site traffic?](https://dev.to/bheeko2120/can-text-formatting-increase-site-traffic-5487)
 - [Dev.to/JS] [Should Line breaks added to the content?](https://dev.to/managt22/should-line-breaks-added-to-the-content-10jh)
 - [Dev.to/JS] [Why paragraphs are necessary in writing blogs?](https://dev.to/gharreb9/why-paragraphs-are-necessary-in-writing-blogs-45c1)
 - [Dev.to/JS] [Why Comments Necessary in Coding?](https://dev.to/kamora72433159/why-comments-necessary-in-coding-331b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [zcbcshsfsfh](https://dev.to/fdgf/zcbcshsfsfh-1on5)
 - [Dev.to/JS] [How To Detect And Prevent Credit Card Fraud](https://dev.to/legaciespanda/how-to-detect-and-prevent-credit-card-fraud-3b8a)
 - [Dev.to/JS] [What is actually basic web structure?](https://dev.to/ghana77571378/what-is-actually-basic-web-structure-31gn)
-- [Dev.to/JS] [Is CSS Worth Learning This Year?](https://dev.to/expert_deen/is-css-worth-learning-this-year-49jc)
-- [Dev.to/JS] [Is HTML Worth Learning this year](https://dev.to/fisafash/is-html-worth-learning-this-year-1m99)
-- [Dev.to/JS] [How to see if your JavaScript code is vulnerable?](https://dev.to/orlandov14/how-to-see-if-your-javascript-code-is-vulnerable-3g8k)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
