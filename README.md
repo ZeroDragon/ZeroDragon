@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Cook Your Turkey in a Roasting Pan](https://lifehacker.com/don-t-cook-your-turkey-in-a-roasting-pan-1849757979)
+- [Dev.to/JS] [Alternative Data in today&#39;s world](https://dev.to/zainbinfurqan/alternative-data-in-todays-world-143j)
+- [Lifehacker] [What Airbnb&#39;s New Price Transparency Means for Your Next Trip](https://lifehacker.com/what-airbnbs-new-price-transparency-means-for-your-next-1849757864)
+- [Dev.to/JS] [introduction to Javascript](https://dev.to/pharaoh_ke/introduction-to-javascript-15p7)
 - [Lifehacker] [13 Unexpected Household Uses for Hairspray](https://lifehacker.com/13-unexpected-household-uses-for-hairspray-1849756937)
 - [Lifehacker] [6 of the Best Videos to Actually Help You Understand Inflation](https://lifehacker.com/6-of-the-best-videos-to-actually-help-you-understand-in-1849757643)
 - [Lifehacker] [Vegetables You Can Chop in Advance &lpar;and the Ones You Shouldn&#39;t&rpar;](https://lifehacker.com/vegetables-you-can-chop-in-advance-and-the-ones-you-sh-1849757529)
@@ -43,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React:](https://dev.to/ubaidsailani/react-3jbf)
 - [Dev.to/JS] [Custom multi select with input field in React js?](https://dev.to/khalid7487/custom-multi-select-with-input-field-in-react-js-2pn7)
 - [Lifehacker] [11 Famous Places That Don&#39;t Really Exist](https://lifehacker.com/11-famous-places-that-dont-really-exist-1849754301)
-- [Dev.to/JS] [All your JavaScript code is polluted](https://dev.to/jankapunkt/all-your-javascript-code-is-polluted-3e8l)
 - [Lifehacker] [Sending Money to &#39;Yourself&#39; on Zelle Is a Scam](https://lifehacker.com/sending-money-to-yourself-on-zelle-is-a-scam-1849754543)
-- [Dev.to/JS] [Building a Native Mobile App with Next.js and Capacitor](https://dev.to/simon/building-a-native-mobile-app-with-nextjs-and-capacitor-p36)
 - [Lifehacker] [Here&#39;s What Happens to Your Crypto When You Die](https://lifehacker.com/heres-what-happens-to-your-crypto-when-you-die-1849753938)
 - [Lifehacker] [How to Substitute Your Dried Thanksgiving Herbs for Fresh Ones](https://lifehacker.com/how-to-substitute-your-dried-thanksgiving-herbs-for-fre-1849754492)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Unfollow &#39;God of War: Ragnarok&#39; Before Sony Spoils It for You](https://lifehacker.com/unfollow-god-of-war-ragnarok-before-sony-spoils-it-for-1849751683)
 - [Lifehacker] [The Full List of Smartphones That Support Android 13](https://lifehacker.com/the-full-list-of-smartphones-that-support-android-13-1849752237)
 - [Lifehacker] [Throw Out Your Baby&#39;s Head-Shaping Pillow, FDA Says](https://lifehacker.com/throw-out-your-babys-head-shaping-pillow-fda-says-1849752260)
-- [Lifehacker] [The 7 Deadly Sins of Making Thanksgiving Dinner](https://lifehacker.com/the-7-deadly-sins-of-making-thanksgiving-dinner-1849745401)
-- [Lifehacker] [It Is Possible to Stop Your Cat From Scratching Your Furniture](https://lifehacker.com/it-is-possible-to-stop-your-cat-from-scratching-your-fu-1849750752)
-- [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Making Thanksgiving Dinner](https://lifehacker.com/the-7-deadly-sins-of-making-thanksgiving-dinner-1849745401)<!-- TECH-POSTS:END -->
 
 ---
 
