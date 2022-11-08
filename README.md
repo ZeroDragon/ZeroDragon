@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Change These &#39;God of War: Ragnarok&#39; Settings to Make the Game Even Better](https://lifehacker.com/change-these-god-of-war-ragnarok-settings-to-make-the-1849757239)
+- [Dev.to/JS] [The Future Of Defi In Fintech: Decentralized Exchanges, Lending, And Payments](https://dev.to/amrtcrypto/the-future-of-defi-in-fintech-decentralized-exchanges-lending-and-payments-3ei2)
+- [Dev.to/JS] [13 Websites For Front End Development Practice](https://dev.to/w3tweaks/13-websites-for-front-end-development-practice-1b4f)
+- [Lifehacker] [Windows Has a New Tool for Simultaneously Recording Your Screen and Webcam](https://lifehacker.com/windows-has-a-new-tool-for-simultaneously-recording-you-1849756054)
+- [Dev.to/JS] [Know The Best React Markdown Editor Components for Your App](https://dev.to/ideradevtools/know-the-best-react-markdown-editor-components-for-your-app-2f9n)
 - [Lifehacker] [The Reason Spotify Shuffles Aren’t Really Random &lpar;and How to Fix It&rpar;](https://lifehacker.com/the-reason-spotify-shuffles-aren-t-really-random-and-h-1849756947)
 - [Dev.to/JS] [Fast fuzzy searching of a string in a list](https://dev.to/costinmanda/fast-fuzzy-searching-of-a-string-in-a-list-3ie)
 - [Dev.to/JS] [How to learn Javascript in 5 steps](https://dev.to/justice_hub/how-to-learn-javascript-in-5-steps-2i4a)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Sending Money to &#39;Yourself&#39; on Zelle Is a Scam](https://lifehacker.com/sending-money-to-yourself-on-zelle-is-a-scam-1849754543)
 - [Dev.to/JS] [Building a Native Mobile App with Next.js and Capacitor](https://dev.to/simon/building-a-native-mobile-app-with-nextjs-and-capacitor-p36)
 - [Lifehacker] [Here&#39;s What Happens to Your Crypto When You Die](https://lifehacker.com/heres-what-happens-to-your-crypto-when-you-die-1849753938)
-- [Dev.to/JS] [2.45 - Breaking into Tech through Streaming](https://dev.to/codingcatdev/245-breaking-into-tech-through-streaming-3bi)
-- [Dev.to/JS] [Things I learned as developer?](https://dev.to/guledali/things-i-learned-as-developer-2d1b)
-- [Dev.to/JS] [What is the Syntax of JavaScript?](https://dev.to/max88git/what-is-the-syntax-of-javascript-e2l)
 - [Lifehacker] [How to Substitute Your Dried Thanksgiving Herbs for Fresh Ones](https://lifehacker.com/how-to-substitute-your-dried-thanksgiving-herbs-for-fre-1849754492)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Consider the Five C&#39;s Before Moving for a Job](https://lifehacker.com/consider-the-5-cs-before-moving-for-a-job-1849750334)
 - [Lifehacker] [How to Fix Your Torn Upholstery Without Sewing It](https://lifehacker.com/how-to-fix-your-torn-upholstery-without-sewing-it-1849750441)
 - [Lifehacker] [Always Check the Australian Site Before Booking an Airbnb](https://lifehacker.com/always-check-the-australian-site-before-booking-an-airb-1849751018)
-- [Lifehacker] [Don&#39;t Eat These Recalled Nestle Cookies, FDA Says](https://lifehacker.com/dont-eat-these-recalled-nestle-cookies-fda-says-1849745893)
-- [Lifehacker] [How to Find Discord Servers You&#39;ll Actually Like](https://lifehacker.com/how-to-find-discord-servers-youll-actually-like-1849750929)
-- [Lifehacker] [How to Look Up an Unauthorized Charge on Your Credit Card](https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Eat These Recalled Nestle Cookies, FDA Says](https://lifehacker.com/dont-eat-these-recalled-nestle-cookies-fda-says-1849745893)<!-- TECH-POSTS:END -->
 
 ---
 
