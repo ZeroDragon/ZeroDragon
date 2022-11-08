@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Vegetables You Can Chop in Advance &lpar;and the Ones You Shouldn&#39;t&rpar;](https://lifehacker.com/vegetables-you-can-chop-in-advance-and-the-ones-you-sh-1849757529)
+- [Lifehacker] [25 Calming Videos to Watch If You&#39;re Feeling Panicky about the Midterm Elections](https://lifehacker.com/16-soothing-videos-to-watch-if-youre-feeling-panicky-fo-1845560975)
 - [Lifehacker] [Change These &#39;God of War: Ragnarok&#39; Settings to Make the Game Even Better](https://lifehacker.com/change-these-god-of-war-ragnarok-settings-to-make-the-1849757239)
 - [Dev.to/JS] [The Future Of Defi In Fintech: Decentralized Exchanges, Lending, And Payments](https://dev.to/amrtcrypto/the-future-of-defi-in-fintech-decentralized-exchanges-lending-and-payments-3ei2)
 - [Dev.to/JS] [13 Websites For Front End Development Practice](https://dev.to/w3tweaks/13-websites-for-front-end-development-practice-1b4f)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It Is Possible to Stop Your Cat From Scratching Your Furniture](https://lifehacker.com/it-is-possible-to-stop-your-cat-from-scratching-your-fu-1849750752)
 - [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)
 - [Lifehacker] [Consider the Five C&#39;s Before Moving for a Job](https://lifehacker.com/consider-the-5-cs-before-moving-for-a-job-1849750334)
-- [Lifehacker] [How to Fix Your Torn Upholstery Without Sewing It](https://lifehacker.com/how-to-fix-your-torn-upholstery-without-sewing-it-1849750441)
-- [Lifehacker] [Always Check the Australian Site Before Booking an Airbnb](https://lifehacker.com/always-check-the-australian-site-before-booking-an-airb-1849751018)
-- [Lifehacker] [Don&#39;t Eat These Recalled Nestle Cookies, FDA Says](https://lifehacker.com/dont-eat-these-recalled-nestle-cookies-fda-says-1849745893)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fix Your Torn Upholstery Without Sewing It](https://lifehacker.com/how-to-fix-your-torn-upholstery-without-sewing-it-1849750441)<!-- TECH-POSTS:END -->
 
 ---
 
