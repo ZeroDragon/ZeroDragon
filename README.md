@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [13 Unexpected Household Uses for Hairspray](https://lifehacker.com/13-unexpected-household-uses-for-hairspray-1849756937)
+- [Lifehacker] [6 of the Best Videos to Actually Help You Understand Inflation](https://lifehacker.com/6-of-the-best-videos-to-actually-help-you-understand-in-1849757643)
 - [Lifehacker] [Vegetables You Can Chop in Advance &lpar;and the Ones You Shouldn&#39;t&rpar;](https://lifehacker.com/vegetables-you-can-chop-in-advance-and-the-ones-you-sh-1849757529)
 - [Lifehacker] [25 Calming Videos to Watch If You&#39;re Feeling Panicky about the Midterm Elections](https://lifehacker.com/16-soothing-videos-to-watch-if-youre-feeling-panicky-fo-1845560975)
 - [Lifehacker] [Change These &#39;God of War: Ragnarok&#39; Settings to Make the Game Even Better](https://lifehacker.com/change-these-god-of-war-ragnarok-settings-to-make-the-1849757239)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Out Your Baby&#39;s Head-Shaping Pillow, FDA Says](https://lifehacker.com/throw-out-your-babys-head-shaping-pillow-fda-says-1849752260)
 - [Lifehacker] [The 7 Deadly Sins of Making Thanksgiving Dinner](https://lifehacker.com/the-7-deadly-sins-of-making-thanksgiving-dinner-1849745401)
 - [Lifehacker] [It Is Possible to Stop Your Cat From Scratching Your Furniture](https://lifehacker.com/it-is-possible-to-stop-your-cat-from-scratching-your-fu-1849750752)
-- [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)
-- [Lifehacker] [Consider the Five C&#39;s Before Moving for a Job](https://lifehacker.com/consider-the-5-cs-before-moving-for-a-job-1849750334)
-- [Lifehacker] [How to Fix Your Torn Upholstery Without Sewing It](https://lifehacker.com/how-to-fix-your-torn-upholstery-without-sewing-it-1849750441)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Drive These Cars With Exploding Airbags](https://lifehacker.com/dont-drive-these-cars-with-exploding-airbags-1849745324)<!-- TECH-POSTS:END -->
 
 ---
 
