@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS message inside a form](https://dev.to/itsanfield/js-message-inside-a-form-j8m)
+- [Dev.to/JS] [How to Configure PM2 the right way](https://dev.to/mr_ali3n/how-to-configure-pm2-the-right-way-2m33)
 - [Dev.to/JS] [How To Get Data Of Attributes In JavaScript With Selenium](https://dev.to/lambdatest/how-to-get-data-of-attributes-in-javascript-with-selenium-3j7o)
 - [Dev.to/JS] [How development history keeps repeating itself](https://dev.to/n1try/how-development-history-keeps-repeating-itself-5h0n)
 - [Dev.to/JS] [I made an Express-like framework for IPC communication](https://dev.to/h_sifat/i-made-an-express-like-framework-for-ipc-communication-36lg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Are SVG Animations important in web Development?](https://dev.to/vistamista2012/are-svg-animations-important-in-web-development-1i9o)
 - [Dev.to/JS] [Can Text formatting increase site traffic?](https://dev.to/bheeko2120/can-text-formatting-increase-site-traffic-5487)
 - [Dev.to/JS] [Should Line breaks added to the content?](https://dev.to/managt22/should-line-breaks-added-to-the-content-10jh)
-- [Dev.to/JS] [Why paragraphs are necessary in writing blogs?](https://dev.to/gharreb9/why-paragraphs-are-necessary-in-writing-blogs-45c1)
-- [Dev.to/JS] [Why Comments Necessary in Coding?](https://dev.to/kamora72433159/why-comments-necessary-in-coding-331b)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
