@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Should Line breaks added to the content?](https://dev.to/managt22/should-line-breaks-added-to-the-content-10jh)
+- [Dev.to/JS] [Why paragraphs are necessary in writing blogs?](https://dev.to/gharreb9/why-paragraphs-are-necessary-in-writing-blogs-45c1)
+- [Dev.to/JS] [Why Comments Necessary in Coding?](https://dev.to/kamora72433159/why-comments-necessary-in-coding-331b)
 - [Dev.to/JS] [Why Horizontal Lines are important in a webpage?](https://dev.to/mala02585439/why-horizontal-lines-are-important-in-a-webpage-1mn5)
 - [Dev.to/JS] [Is Headings important when writing a blog?](https://dev.to/manshana1/is-headings-important-when-writing-a-blog-4e7p)
 - [Dev.to/JS] [Simple White The Best Chocolate Cake Recipe](https://dev.to/fdgf/simple-white-the-best-chocolate-cake-recipe-4m99)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is CSS Worth Learning This Year?](https://dev.to/expert_deen/is-css-worth-learning-this-year-49jc)
 - [Dev.to/JS] [Is HTML Worth Learning this year](https://dev.to/fisafash/is-html-worth-learning-this-year-1m99)
 - [Dev.to/JS] [How to see if your JavaScript code is vulnerable?](https://dev.to/orlandov14/how-to-see-if-your-javascript-code-is-vulnerable-3g8k)
-- [Dev.to/JS] [Tengo problemas con esto...](https://dev.to/jhonatancch2/tengo-problemas-con-esto-3fno)
-- [Dev.to/JS] [How Blockchain Could Shape the Future of a Wide Range of Industries](https://dev.to/amrtcrypto/how-blockchain-could-shape-the-future-of-a-wide-range-of-industries-536e)
-- [Dev.to/JS] [Simple calendar in a few lines of code 📆](https://dev.to/rgolawski/simple-calendar-in-a-few-lines-of-code-2n00)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
