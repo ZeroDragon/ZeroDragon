@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Native Mobile App with Next.js and Capacitor](https://dev.to/simon/building-a-native-mobile-app-with-nextjs-and-capacitor-p36)
+- [Lifehacker] [Here&#39;s What Happens to Your Crypto When You Die](https://lifehacker.com/heres-what-happens-to-your-crypto-when-you-die-1849753938)
+- [Dev.to/JS] [2.45 - Breaking into Tech through Streaming](https://dev.to/codingcatdev/245-breaking-into-tech-through-streaming-3bi)
+- [Dev.to/JS] [Things I learned as developer?](https://dev.to/guledali/things-i-learned-as-developer-2d1b)
+- [Dev.to/JS] [What is the Syntax of JavaScript?](https://dev.to/max88git/what-is-the-syntax-of-javascript-e2l)
 - [Lifehacker] [How to Substitute Your Dried Thanksgiving Herbs for Fresh Ones](https://lifehacker.com/how-to-substitute-your-dried-thanksgiving-herbs-for-fre-1849754492)
 - [Dev.to/JS] [UI Development — Dynamic Island Effect | Sacesta Technologies](https://dev.to/sacesta/ui-development-dynamic-island-effect-sacesta-technologies-327k)
 - [Dev.to/JS] [Farnance: How Julian built a SaaS for farmers with Wasp and won a hackathon!](https://dev.to/wasp/farnance-how-julian-built-a-saas-for-farmers-with-wasp-and-won-a-hackathon-4548)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to work with API on your mobile phone?](https://dev.to/varshithvhegde/how-to-work-with-api-on-your-mobile-phone-34eh)
 - [Dev.to/JS] [Migrating to NextJs 13](https://dev.to/willholmes/migrating-to-nextjs-13-3l6d)
 - [Dev.to/JS] [How to Improve Your Next.JS Performance?](https://dev.to/solutelabs/how-to-improve-your-nextjs-performance-3bl2)
-- [Dev.to/JS] [How We Won the Medusa Hackathon: Building the Paystack Plugin](https://dev.to/medusajs/how-we-won-the-medusa-hackathon-building-the-paystack-plugin-d1m)
-- [Dev.to/JS] [Any One Knows What is the right way to get a remote job as fresh web developer ?](https://dev.to/kanhapathak99/any-one-knows-what-is-the-right-way-to-get-a-remote-job-as-fresh-web-developer--59j6)
-- [Dev.to/JS] [Minimum Addition to Make Integer Beautiful](https://dev.to/zeeshanali0704/minimum-addition-to-make-integer-beautiful-1156)
-- [Dev.to/JS] [5 frontend project ideas](https://dev.to/albericojr/5-frontend-project-ideas-2pa6)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
 - [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)
 - [Lifehacker] [Everything You Need to Do to Clean Up After a DIY Project](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
-- [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)
-- [Lifehacker] [You Can Get a Free Wendy’s Frosty Every Day for a Year](https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get a Piece of the Smashburger False Advertising Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-smashburger-false-advertising-1849746879)<!-- TECH-POSTS:END -->
 
 ---
 
