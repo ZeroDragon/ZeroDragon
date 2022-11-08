@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Reason Spotify Shuffles Aren’t Really Random &lpar;and How to Fix It&rpar;](https://lifehacker.com/the-reason-spotify-shuffles-aren-t-really-random-and-h-1849756947)
+- [Dev.to/JS] [Fast fuzzy searching of a string in a list](https://dev.to/costinmanda/fast-fuzzy-searching-of-a-string-in-a-list-3ie)
+- [Dev.to/JS] [How to learn Javascript in 5 steps](https://dev.to/justice_hub/how-to-learn-javascript-in-5-steps-2i4a)
+- [Lifehacker] [‘Failing’ at Dating Is a Good Thing, Actually](https://lifehacker.com/failing-at-dating-is-a-good-thing-actually-1849755241)
+- [Dev.to/JS] [JS prototypes are slow ... ?](https://dev.to/blobkat/js-prototypes-are-slow--1170)
+- [Dev.to/JS] [React.js VS Angular](https://dev.to/kareemzahoor/reactjs-vs-angular-4ajh)
+- [Lifehacker] [I Improved TikTok’s Nutella and Biscoff Freezer Brownies &lpar;You’re Welcome&rpar;](https://lifehacker.com/i-improved-tiktok-s-nutella-and-biscoff-freezer-brownie-1849754274)
 - [Dev.to/JS] [Composition API: Ref vs Reactive](https://dev.to/victorhugoaguilar/composition-api-ref-vs-reactive-4l63)
 - [Dev.to/JS] [React:](https://dev.to/ubaidsailani/react-3jbf)
 - [Dev.to/JS] [Custom multi select with input field in React js?](https://dev.to/khalid7487/custom-multi-select-with-input-field-in-react-js-2pn7)
@@ -35,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Things I learned as developer?](https://dev.to/guledali/things-i-learned-as-developer-2d1b)
 - [Dev.to/JS] [What is the Syntax of JavaScript?](https://dev.to/max88git/what-is-the-syntax-of-javascript-e2l)
 - [Lifehacker] [How to Substitute Your Dried Thanksgiving Herbs for Fresh Ones](https://lifehacker.com/how-to-substitute-your-dried-thanksgiving-herbs-for-fre-1849754492)
-- [Dev.to/JS] [UI Development — Dynamic Island Effect | Sacesta Technologies](https://dev.to/sacesta/ui-development-dynamic-island-effect-sacesta-technologies-327k)
-- [Dev.to/JS] [Farnance: How Julian built a SaaS for farmers with Wasp and won a hackathon!](https://dev.to/wasp/farnance-how-julian-built-a-saas-for-farmers-with-wasp-and-won-a-hackathon-4548)
-- [Dev.to/JS] [React Development](https://dev.to/achifa/react-development-2b6p)
-- [Dev.to/JS] [Css default browser scroll in few lines](https://dev.to/himanshupal0001/css-default-browser-scroll-in-few-lines-3ai2)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
 - [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
 - [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Always Check the Australian Site Before Booking an Airbnb](https://lifehacker.com/always-check-the-australian-site-before-booking-an-airb-1849751018)
 - [Lifehacker] [Don&#39;t Eat These Recalled Nestle Cookies, FDA Says](https://lifehacker.com/dont-eat-these-recalled-nestle-cookies-fda-says-1849745893)
 - [Lifehacker] [How to Find Discord Servers You&#39;ll Actually Like](https://lifehacker.com/how-to-find-discord-servers-youll-actually-like-1849750929)
-- [Lifehacker] [How to Look Up an Unauthorized Charge on Your Credit Card](https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942)
-- [Lifehacker] [The Easiest Way to Choose the Perfect Lampshade](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
-- [Lifehacker] [The Best Veterans Day Food Deals and Freebies](https://lifehacker.com/the-best-veterans-day-food-deals-and-freebies-1849748117)
-- [Lifehacker] [How to Maximize the Heat From Your Fireplace](https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Look Up an Unauthorized Charge on Your Credit Card](https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942)<!-- TECH-POSTS:END -->
 
 ---
 
