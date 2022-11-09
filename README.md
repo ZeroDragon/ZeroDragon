@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
+- [Dev.to/JS] [Functions](https://dev.to/goyafan_33/functions-42m8)
+- [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
+- [Dev.to/JS] [Number converter: decimal to base&lpar;2-36&rpar; ReactJs](https://dev.to/b4ldous/number-converter-decimal-to-base2-36-reactjs-2knp)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
 - [Dev.to/JS] [Adding locally hosted Google fonts to your SvelteKit project](https://dev.to/khromov/adding-locally-hosted-google-fonts-to-your-sveltekit-project-26kd)
 - [Lifehacker] [10 Things You Should Never Buy in November](https://lifehacker.com/10-things-you-should-never-buy-in-november-1849759842)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/edgarminasyan14/functions-in-javascript-17gn)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/anetasargsyan/functions-in-javascript-77i)
 - [Dev.to/JS] [Java Script functions](https://dev.to/zhanna_balyan/java-script-functions-4bai)
-- [Dev.to/JS] [AbortController](https://dev.to/paveloreshkin/abortcontroller-59f7)
-- [Dev.to/JS] [Java Script variables](https://dev.to/zhanna_balyan/java-script-variables-4ln8)
 - [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)
 - [Lifehacker] [11 Easy Pie Crust Designs That Won&#39;t Drive You Nuts](https://lifehacker.com/11-easy-pie-crust-designs-that-wont-drive-you-nuts-1849762483)
 - [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Dos and Don’ts of Sending a Voice Message](https://lifehacker.com/these-are-the-dos-and-don-ts-of-sending-a-voice-message-1849758508)
 - [Lifehacker] [Don’t Cook Your Turkey in a Roasting Pan](https://lifehacker.com/don-t-cook-your-turkey-in-a-roasting-pan-1849757979)
 - [Lifehacker] [What Airbnb&#39;s New Price Transparency Means for Your Next Trip](https://lifehacker.com/what-airbnbs-new-price-transparency-means-for-your-next-1849757864)
-- [Lifehacker] [13 Unexpected Household Uses for Hairspray](https://lifehacker.com/13-unexpected-household-uses-for-hairspray-1849756937)
-- [Lifehacker] [6 of the Best Videos to Actually Help You Understand Inflation](https://lifehacker.com/6-of-the-best-videos-to-actually-help-you-understand-in-1849757643)
-- [Lifehacker] [Vegetables You Can Chop in Advance &lpar;and the Ones You Shouldn&#39;t&rpar;](https://lifehacker.com/vegetables-you-can-chop-in-advance-and-the-ones-you-sh-1849757529)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 Unexpected Household Uses for Hairspray](https://lifehacker.com/13-unexpected-household-uses-for-hairspray-1849756937)<!-- TECH-POSTS:END -->
 
 ---
 
