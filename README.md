@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cómo crear un array de x longitud relleno de 0s en javascript.](https://dev.to/retronauta/como-crear-un-array-de-x-longitud-relleno-de-0s-en-javascript-4i9n)
+- [Dev.to/JS] [Introdução as HOFs - .forEach&lpar;&rpar; e .sort&lpar;&rpar;](https://dev.to/gabrielhsilvestre/introducao-as-hofs-foreach-e-sort-3a3g)
 - [Dev.to/JS] [How to beautify your code and make contributions easy?](https://dev.to/gulyapulya/how-to-beautify-your-code-and-make-contributions-easy-35g9)
 - [Dev.to/JS] [Overview of the next-gen frontend dev tools](https://dev.to/maximecheramy/overview-of-the-next-gen-frontend-dev-tools-5fm1)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
@@ -42,12 +44,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Unexpected Household Uses for Hairspray](https://lifehacker.com/13-unexpected-household-uses-for-hairspray-1849756937)
 - [Lifehacker] [6 of the Best Videos to Actually Help You Understand Inflation](https://lifehacker.com/6-of-the-best-videos-to-actually-help-you-understand-in-1849757643)
 - [Lifehacker] [Vegetables You Can Chop in Advance &lpar;and the Ones You Shouldn&#39;t&rpar;](https://lifehacker.com/vegetables-you-can-chop-in-advance-and-the-ones-you-sh-1849757529)
-- [Lifehacker] [25 Calming Videos to Watch If You&#39;re Feeling Panicky about the Midterm Elections](https://lifehacker.com/16-soothing-videos-to-watch-if-youre-feeling-panicky-fo-1845560975)
+- [Lifehacker] [25 Calming Videos to Watch If You&#39;re Feeling Panicky About the Midterm Elections](https://lifehacker.com/16-soothing-videos-to-watch-if-youre-feeling-panicky-fo-1845560975)
 - [Lifehacker] [Change These &#39;God of War: Ragnarok&#39; Settings to Make the Game Even Better](https://lifehacker.com/change-these-god-of-war-ragnarok-settings-to-make-the-1849757239)
 - [Dev.to/JS] [The Future Of Defi In Fintech: Decentralized Exchanges, Lending, And Payments](https://dev.to/amrtcrypto/the-future-of-defi-in-fintech-decentralized-exchanges-lending-and-payments-3ei2)
-- [Dev.to/JS] [13 Websites For Front End Development Practice](https://dev.to/w3tweaks/13-websites-for-front-end-development-practice-1b4f)
 - [Lifehacker] [Windows Has a New Tool for Simultaneously Recording Your Screen and Webcam](https://lifehacker.com/windows-has-a-new-tool-for-simultaneously-recording-you-1849756054)
-- [Dev.to/JS] [Know The Best React Markdown Editor Components for Your App](https://dev.to/ideradevtools/know-the-best-react-markdown-editor-components-for-your-app-2f9n)
 - [Lifehacker] [The Reason Spotify Shuffles Aren’t Really Random &lpar;and How to Fix It&rpar;](https://lifehacker.com/the-reason-spotify-shuffles-aren-t-really-random-and-h-1849756947)
 - [Lifehacker] [‘Failing’ at Dating Is a Good Thing, Actually](https://lifehacker.com/failing-at-dating-is-a-good-thing-actually-1849755241)
 - [Lifehacker] [I Improved TikTok’s Nutella and Biscoff Freezer Brownies &lpar;You’re Welcome&rpar;](https://lifehacker.com/i-improved-tiktok-s-nutella-and-biscoff-freezer-brownie-1849754274)
