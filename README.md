@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with Jest Framework](https://dev.to/ririio/working-with-jest-framework-5777)
+- [Dev.to/JS] [Part 2: Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/part-2-building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-1k6g)
 - [Dev.to/JS] [What are Inline Elements in HTML?](https://dev.to/vistamista2012/what-are-inline-elements-in-html-c71)
 - [Dev.to/JS] [What are block element in HTML?](https://dev.to/bheeko2120/what-are-block-element-in-html-2hjh)
 - [Dev.to/JS] [Why Linking is important in Website?](https://dev.to/managt22/why-linking-is-important-in-website-3dg5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why img Tag in necessary for embedding image in webpage?](https://dev.to/ghana77571378/why-img-tag-in-necessary-for-embedding-image-in-webpage-1483)
 - [Dev.to/JS] [What Is XHR And Why You Should Be Looking At XMLHttpRequests](https://dev.to/toymachine/what-is-xhr-and-why-you-should-be-looking-at-xmlhttprequests-2h96)
 - [Dev.to/JS] [Basic Purpose of Attributes in a Website](https://dev.to/expert_deen/basic-purpose-of-attributes-in-a-website-4gmn)
-- [Dev.to/JS] [What are Elements in a Website?](https://dev.to/fisafash/what-are-elements-in-a-website-301k)
-- [Dev.to/JS] [Which web framework would you recommend to learn?](https://dev.to/schemetastic/which-web-framework-would-you-recommend-to-learn-2gm0)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
