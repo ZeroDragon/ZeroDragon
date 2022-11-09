@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s Learn JS Toghether - Variables](https://dev.to/veronikakhacha4/lets-learn-js-toghether-variables-3dd3)
+- [Lifehacker] [Use Smart Folders for These Important Files](https://lifehacker.com/use-smart-folders-for-these-important-files-1849761253)
+- [Dev.to/JS] [Variables in JavaScript](https://dev.to/maria_nazaryan_/variables-in-javascript-1djk)
+- [Dev.to/JS] [Is Svelte the &quot;perfectest&quot; framework for solo/indie web developers?](https://dev.to/developerbishwas/is-svelte-the-perfectest-framework-for-soloindie-web-developers-bp8)
+- [Dev.to/JS] [Publish a barebones CLI](https://dev.to/ricsam/publish-a-barebones-cli-n2a)
+- [Dev.to/JS] [Retrospective: Making a contribution to n8n](https://dev.to/mashiox/retrospective-making-a-contribution-to-n8n-ofh)
 - [Lifehacker] [How to Overcome Medical Trauma](https://lifehacker.com/how-to-overcome-medical-trauma-1849760311)
+- [Dev.to/JS] [Relations in main layout, marketplace updates and more in Strapi v4.5](https://dev.to/strapi/relations-in-main-layout-marketplace-updates-and-more-in-strapi-v45-53k7)
 - [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)
 - [Dev.to/JS] [1. Two Sum - Leeetcode - JavaScript Solution](https://dev.to/abusalehfaysal/1-two-sum-leeetcode-javascript-solution-n14)
 - [Lifehacker] [The 8 Things Stressing Americans Out the Most &lpar;and Some Hope for Each&rpar;](https://lifehacker.com/the-8-things-stressing-americans-out-the-most-and-some-1849760418)
@@ -33,13 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My ingenious library failed but my simple one reached 2m downloads](https://dev.to/astoilkov/my-ingenious-library-failed-but-my-simple-one-reached-2m-downloads-4jdd)
 - [Lifehacker] [Why You Should &lpar;Almost&rpar; Always Make the First Offer](https://lifehacker.com/why-you-should-almost-always-make-the-first-offer-1849757533)
 - [Dev.to/JS] [Learn Debounce and Throttle](https://dev.to/devder/learn-debounce-and-throttle-112e)
-- [Dev.to/JS] [Understanding functions, their usage and all you need to know about functions in JavaScript](https://dev.to/annamikayelyan5/understanding-functions-their-usage-and-all-you-need-to-know-about-functions-in-javascript-14f2)
 - [Lifehacker] [17 Thanksgiving Hacks I Recommend Every Single Year](https://lifehacker.com/17-thanksgiving-hacks-that-will-make-your-holiday-bette-1849758983)
-- [Dev.to/JS] [2.46 - Breaking Down ViteConf](https://dev.to/codingcatdev/246-breaking-down-viteconf-3fnk)
-- [Dev.to/JS] [Functions In JavaScript](https://dev.to/argishtigharakhani/functions-in-javascript-2i7p)
-- [Dev.to/JS] [Java Script General Information](https://dev.to/argishtigharakhani/java-script-general-information-1583)
-- [Dev.to/JS] [Functions in JavaScript](https://dev.to/kima_badalyan/functions-in-javascript-2gnd)
-- [Dev.to/JS] [React must have basic setup](https://dev.to/hidaytrahman/react-must-have-basic-setup-4a5h)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s What Happens to Your Crypto When You Die](https://lifehacker.com/heres-what-happens-to-your-crypto-when-you-die-1849753938)
 - [Lifehacker] [How to Substitute Your Dried Thanksgiving Herbs for Fresh Ones](https://lifehacker.com/how-to-substitute-your-dried-thanksgiving-herbs-for-fre-1849754492)
 - [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
-- [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)
-- [Lifehacker] [Clean These Things Yourself When You Check Into a Hotel Room](https://lifehacker.com/clean-these-things-yourself-when-you-check-into-a-hotel-1849752834)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)<!-- TECH-POSTS:END -->
 
 ---
 
