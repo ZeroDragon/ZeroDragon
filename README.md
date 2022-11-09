@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are Inline Elements in HTML?](https://dev.to/vistamista2012/what-are-inline-elements-in-html-c71)
+- [Dev.to/JS] [What are block element in HTML?](https://dev.to/bheeko2120/what-are-block-element-in-html-2hjh)
+- [Dev.to/JS] [Why Linking is important in Website?](https://dev.to/managt22/why-linking-is-important-in-website-3dg5)
+- [Dev.to/JS] [List Some Table Properties in HTML Webpage](https://dev.to/gharreb9/list-some-table-properties-in-html-webpage-4bhd)
 - [Dev.to/JS] [What are tables and their uses in a Website?](https://dev.to/kamora72433159/what-are-tables-and-their-uses-in-a-website-kmk)
 - [Dev.to/JS] [Should We add Unordered List to our Webpage](https://dev.to/mala02585439/should-we-add-unordered-list-to-our-webpage-18e3)
 - [Dev.to/JS] [Should We add Ordered List to our Webpage](https://dev.to/manshana1/should-we-add-ordered-list-to-our-webpage-4beo)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Basic Purpose of Attributes in a Website](https://dev.to/expert_deen/basic-purpose-of-attributes-in-a-website-4gmn)
 - [Dev.to/JS] [What are Elements in a Website?](https://dev.to/fisafash/what-are-elements-in-a-website-301k)
 - [Dev.to/JS] [Which web framework would you recommend to learn?](https://dev.to/schemetastic/which-web-framework-would-you-recommend-to-learn-2gm0)
-- [Dev.to/JS] [Cómo crear un array de x longitud relleno de 0s en javascript.](https://dev.to/retronauta/como-crear-un-array-de-x-longitud-relleno-de-0s-en-javascript-4i9n)
-- [Dev.to/JS] [Introdução as HOFs - .forEach&lpar;&rpar; e .sort&lpar;&rpar;](https://dev.to/gabrielhsilvestre/introducao-as-hofs-foreach-e-sort-3a3g)
-- [Dev.to/JS] [How to beautify your code and make contributions easy?](https://dev.to/gulyapulya/how-to-beautify-your-code-and-make-contributions-easy-35g9)
-- [Dev.to/JS] [Overview of the next-gen frontend dev tools](https://dev.to/maximecheramy/overview-of-the-next-gen-frontend-dev-tools-5fm1)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
