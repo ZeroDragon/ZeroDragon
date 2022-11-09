@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/kima_badalyan/functions-in-javascript-2gnd)
+- [Dev.to/JS] [React must have basic setup](https://dev.to/hidaytrahman/react-must-have-basic-setup-4a5h)
+- [Dev.to/JS] [JavaScript Variables](https://dev.to/arpinetadevosyan/javascript-variables-58g8)
 - [Dev.to/JS] [Express Slashing Syndrome, the trailing slash and other topics](https://dev.to/ayyash/express-slashing-syndrome-the-trailing-slash-and-other-topics-2dpm)
 - [Dev.to/JS] [What&#39;s New in Next.js 13](https://dev.to/appsignal/whats-new-in-nextjs-13-k2b)
-- [Dev.to/JS] [When should you use test snapshots?](https://dev.to/samueldurante/when-should-you-use-test-snapshots-2h7m)
+- [Dev.to/JS] [When should you use test snapshots?](https://dev.to/woovi/when-should-you-use-test-snapshots-2h7m)
 - [Dev.to/JS] [New Residence Launched In Bangalore](https://dev.to/godrejanand/new-residence-launched-in-bangalore-45dc)
 - [Dev.to/JS] [White label decentralized exchange](https://dev.to/mgaaron/white-label-decentralized-exchange-5g8i)
 - [Dev.to/JS] [How to build a multi-step form using React.js + Material UI](https://dev.to/stephanieopala/how-to-build-a-multi-step-form-using-reactjs-material-ui-295l)
 - [Dev.to/JS] [How to Install and Use NVM?](https://dev.to/refine/how-to-install-and-use-nvm-352d)
 - [Dev.to/JS] [Nuxt Nation 2022: The Largest Global Nuxt Conference coming next week 🥳](https://dev.to/anaamarijaa/nuxt-nation-2022-the-largest-global-nuxt-conference-coming-next-week-206f)
 - [Dev.to/JS] [Develop JavaScript apps 200x faster w/ @params and vscode.](https://dev.to/sfundomhlungu/develop-javascript-apps-200x-faster-w-params-and-vscode-43pn)
-- [Dev.to/JS] [Framer Motion - AnimatePresence](https://dev.to/siddharth0x/framer-motion-animatepresence-33l2)
-- [Dev.to/JS] [Type system hierarchy in TypeScript: from Top Type to Bottom Type](https://dev.to/linbudu599/type-system-hierarchy-in-typescript-from-top-type-to-bottom-type-259)
-- [Dev.to/JS] [Migrate to Vue 3 from Vue 2 in the best way possible!](https://dev.to/arohiadhyaru/migrate-to-vue-3-from-vue-2-in-the-best-way-possible-11go)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
