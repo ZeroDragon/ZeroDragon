@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migrate to Vue 3 from Vue 2 in the best way possible!](https://dev.to/arohiadhyaru/migrate-to-vue-3-from-vue-2-in-the-best-way-possible-11go)
+- [Dev.to/JS] [How to create a basic implementation of React Hook Form](https://dev.to/miguelcrespo/how-to-create-a-basic-implementation-of-react-hook-form-2ij3)
+- [Dev.to/JS] [What&#39;s the point of Test Automation?](https://dev.to/postwell45/whats-the-point-of-test-automation-lp0)
 - [Dev.to/JS] [How to build custom CRM](https://dev.to/flatlogic/how-to-build-custom-crm-12dp)
-- [Dev.to/JS] [SeverLess programming with React + Supabase - 1](https://dev.to/mhcrocky/severless-programming-with-react-supabase-1-nkh)
 - [Dev.to/JS] [#3 FS Module &lpar;Promise API&rpar;](https://dev.to/hellonehha/3-fs-module-promise-api-5dek)
 - [Dev.to/JS] [Introduction &amp; Setup PocketBase](https://dev.to/jannisdev/introduction-setup-pocketbase-35l2)
 - [Dev.to/JS] [Add a web3 connect button to your React App with TypeScript and Metamask.](https://dev.to/thestriver/add-a-web3-connect-button-to-your-react-app-with-typescript-and-metamask-2bkm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Open Native: vendor unlock React Native](https://dev.to/ammarahmed/introducing-open-native-vendor-unlock-react-native-12d)
 - [Dev.to/JS] [Working with Jest Framework](https://dev.to/ririio/working-with-jest-framework-5777)
 - [Dev.to/JS] [Part 2: Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/part-2-building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-1k6g)
-- [Dev.to/JS] [What are Inline Elements in HTML?](https://dev.to/vistamista2012/what-are-inline-elements-in-html-c71)
-- [Dev.to/JS] [What are block element in HTML?](https://dev.to/bheeko2120/what-are-block-element-in-html-2hjh)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
