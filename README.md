@@ -23,22 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Reasons Why You Should Start Learning About Web3 Today](https://dev.to/amrtcrypto/5-reasons-why-you-should-start-learning-about-web3-today-3gk6)
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/sona_barseghyan/functions-in-javascript-21oj)
+- [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)
+- [Dev.to/JS] [What I Learned Implementing PKCE for Serverless Zoom Apps](https://dev.to/zoom/what-i-learned-implementing-pkce-for-serverless-zoom-apps-1k9l)
+- [Dev.to/JS] [Building Serverless Zoom Apps](https://dev.to/zoom/building-serverless-zoom-apps-5ef4)
+- [Lifehacker] [You Can Get a Super Cheap Christmas Tree From the Government](https://lifehacker.com/you-can-get-a-super-cheap-christmas-tree-from-the-gover-1849762743)
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/levon_yedigaryan/functions-in-javascript-4d1g)
+- [Dev.to/JS] [Create a TypeScript project](https://dev.to/sjohnsonaz/create-a-typescript-project-mco)
+- [Dev.to/JS] [Node JS &lpar;Express App&rpar; on Vercel - Develop, Run, Deploy](https://dev.to/tirthpatel/node-js-express-app-on-vercel-develop-run-deploy-524a)
 - [Dev.to/JS] [A guide to connecting your apps via webhooks with Autocode #tutorial](https://dev.to/janeth/a-guide-to-connecting-your-apps-via-webhooks-with-autocode-tutorial-15m7)
+- [Lifehacker] [‘Negative Reps’ Aren’t a Weightlifting Cheat Code](https://lifehacker.com/negative-reps-aren-t-a-weightlifting-cheat-code-1849762475)
 - [Dev.to/JS] [Variables](https://dev.to/goyafan_33/variables-1me6)
-- [Dev.to/JS] [JS/TS Adapter Pattern](https://dev.to/brentdalling/jsts-adapter-pattern-g17)
 - [Lifehacker] [Why the 80% Retirement Rule Is B.S.](https://lifehacker.com/why-the-80-retirement-rule-is-bullshit-1849762139)
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/levon_yedigaryan/variables-in-javascript-4e96)
 - [Dev.to/JS] [JavaScript Functions](https://dev.to/arpinetadevosyan/javascript-functions-1m2f)
 - [Lifehacker] [Do This Instead of Asking for a Cost-of-Living Raise](https://lifehacker.com/do-this-instead-of-asking-for-a-cost-of-living-raise-1849759785)
 - [Dev.to/JS] [Maximize Sum Of Array After K Negations](https://dev.to/zeeshanali0704/maximize-sum-of-array-after-k-negations-5ch8)
-- [Dev.to/JS] [How to Create a Custom Assets Folder in Angular](https://dev.to/harshallimaye/how-to-create-a-custom-assets-folder-in-angular-1dbl)
 - [Lifehacker] [Your Mac Has a Hidden White Noise Generator](https://lifehacker.com/your-mac-has-a-hidden-white-noise-generator-1849760988)
-- [Dev.to/JS] [Variables in JavaScript](https://dev.to/sona_barseghyan/variables-in-javascript-18f8)
-- [Dev.to/JS] [Let&#39;s Learn JS Toghether - Variables](https://dev.to/veronikakhacha4/lets-learn-js-toghether-variables-3dd3)
 - [Lifehacker] [Use Smart Folders for These Important Files](https://lifehacker.com/use-smart-folders-for-these-important-files-1849761253)
-- [Dev.to/JS] [Variables in JavaScript](https://dev.to/maria_nazaryan_/variables-in-javascript-1djk)
-- [Dev.to/JS] [Is Svelte the &quot;perfectest&quot; framework for solo/indie web developers?](https://dev.to/developerbishwas/is-svelte-the-perfectest-framework-for-soloindie-web-developers-bp8)
-- [Dev.to/JS] [Publish a barebones CLI](https://dev.to/ricsam/publish-a-barebones-cli-n2a)
 - [Lifehacker] [How to Overcome Medical Trauma](https://lifehacker.com/how-to-overcome-medical-trauma-1849760311)
 - [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)
 - [Lifehacker] [The 8 Things Stressing Americans Out the Most &lpar;and Some Hope for Each&rpar;](https://lifehacker.com/the-8-things-stressing-americans-out-the-most-and-some-1849760418)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Windows Has a New Tool for Simultaneously Recording Your Screen and Webcam](https://lifehacker.com/windows-has-a-new-tool-for-simultaneously-recording-you-1849756054)
 - [Lifehacker] [The Reason Spotify Shuffles Aren’t Really Random &lpar;and How to Fix It&rpar;](https://lifehacker.com/the-reason-spotify-shuffles-aren-t-really-random-and-h-1849756947)
 - [Lifehacker] [‘Failing’ at Dating Is a Good Thing, Actually](https://lifehacker.com/failing-at-dating-is-a-good-thing-actually-1849755241)
-- [Lifehacker] [I Improved TikTok’s Nutella and Biscoff Freezer Brownies &lpar;You’re Welcome&rpar;](https://lifehacker.com/i-improved-tiktok-s-nutella-and-biscoff-freezer-brownie-1849754274)
-- [Lifehacker] [11 Famous Places That Don&#39;t Really Exist](https://lifehacker.com/11-famous-places-that-dont-really-exist-1849754301)
-- [Lifehacker] [Sending Money to &#39;Yourself&#39; on Zelle Is a Scam](https://lifehacker.com/sending-money-to-yourself-on-zelle-is-a-scam-1849754543)
-- [Lifehacker] [Here&#39;s What Happens to Your Crypto When You Die](https://lifehacker.com/heres-what-happens-to-your-crypto-when-you-die-1849753938)<!-- TECH-POSTS:END -->
+- [Lifehacker] [I Improved TikTok’s Nutella and Biscoff Freezer Brownies &lpar;You’re Welcome&rpar;](https://lifehacker.com/i-improved-tiktok-s-nutella-and-biscoff-freezer-brownie-1849754274)<!-- TECH-POSTS:END -->
 
 ---
 
