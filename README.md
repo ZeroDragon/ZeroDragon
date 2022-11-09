@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS/TS Adapter Pattern](https://dev.to/brentdalling/jsts-adapter-pattern-g17)
+- [Lifehacker] [Why the 80% Retirement Rule Is B.S.](https://lifehacker.com/why-the-80-retirement-rule-is-bullshit-1849762139)
+- [Dev.to/JS] [Variables in JavaScript](https://dev.to/levon_yedigaryan/variables-in-javascript-4e96)
+- [Dev.to/JS] [JavaScript Functions](https://dev.to/arpinetadevosyan/javascript-functions-1m2f)
+- [Lifehacker] [Do This Instead of Asking for a Cost-of-Living Raise](https://lifehacker.com/do-this-instead-of-asking-for-a-cost-of-living-raise-1849759785)
+- [Dev.to/JS] [Maximize Sum Of Array After K Negations](https://dev.to/zeeshanali0704/maximize-sum-of-array-after-k-negations-5ch8)
+- [Dev.to/JS] [How to Create a Custom Assets Folder in Angular](https://dev.to/harshallimaye/how-to-create-a-custom-assets-folder-in-angular-1dbl)
+- [Lifehacker] [Your Mac Has a Hidden White Noise Generator](https://lifehacker.com/your-mac-has-a-hidden-white-noise-generator-1849760988)
+- [Dev.to/JS] [Variables in JavaScript](https://dev.to/sona_barseghyan/variables-in-javascript-18f8)
 - [Dev.to/JS] [Let&#39;s Learn JS Toghether - Variables](https://dev.to/veronikakhacha4/lets-learn-js-toghether-variables-3dd3)
 - [Lifehacker] [Use Smart Folders for These Important Files](https://lifehacker.com/use-smart-folders-for-these-important-files-1849761253)
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/maria_nazaryan_/variables-in-javascript-1djk)
@@ -32,14 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Overcome Medical Trauma](https://lifehacker.com/how-to-overcome-medical-trauma-1849760311)
 - [Dev.to/JS] [Relations in main layout, marketplace updates and more in Strapi v4.5](https://dev.to/strapi/relations-in-main-layout-marketplace-updates-and-more-in-strapi-v45-53k7)
 - [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)
-- [Dev.to/JS] [1. Two Sum - Leeetcode - JavaScript Solution](https://dev.to/abusalehfaysal/1-two-sum-leeetcode-javascript-solution-n14)
 - [Lifehacker] [The 8 Things Stressing Americans Out the Most &lpar;and Some Hope for Each&rpar;](https://lifehacker.com/the-8-things-stressing-americans-out-the-most-and-some-1849760418)
-- [Dev.to/JS] [Variables &lpar;JavaScript&rpar;](https://dev.to/elina_shirinyan/variables-javascript-i2g)
-- [Dev.to/JS] [Functions &lpar;Javascript&rpar;](https://dev.to/elina_shirinyan/functions-javascript-2dmd)
-- [Dev.to/JS] [Directive Composition with Angular 15](https://dev.to/this-is-angular/directive-composition-with-angular-15-58e9)
-- [Dev.to/JS] [My ingenious library failed but my simple one reached 2m downloads](https://dev.to/astoilkov/my-ingenious-library-failed-but-my-simple-one-reached-2m-downloads-4jdd)
 - [Lifehacker] [Why You Should &lpar;Almost&rpar; Always Make the First Offer](https://lifehacker.com/why-you-should-almost-always-make-the-first-offer-1849757533)
-- [Dev.to/JS] [Learn Debounce and Throttle](https://dev.to/devder/learn-debounce-and-throttle-112e)
 - [Lifehacker] [17 Thanksgiving Hacks I Recommend Every Single Year](https://lifehacker.com/17-thanksgiving-hacks-that-will-make-your-holiday-bette-1849758983)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Improved TikTok’s Nutella and Biscoff Freezer Brownies &lpar;You’re Welcome&rpar;](https://lifehacker.com/i-improved-tiktok-s-nutella-and-biscoff-freezer-brownie-1849754274)
 - [Lifehacker] [11 Famous Places That Don&#39;t Really Exist](https://lifehacker.com/11-famous-places-that-dont-really-exist-1849754301)
 - [Lifehacker] [Sending Money to &#39;Yourself&#39; on Zelle Is a Scam](https://lifehacker.com/sending-money-to-yourself-on-zelle-is-a-scam-1849754543)
-- [Lifehacker] [Here&#39;s What Happens to Your Crypto When You Die](https://lifehacker.com/heres-what-happens-to-your-crypto-when-you-die-1849753938)
-- [Lifehacker] [How to Substitute Your Dried Thanksgiving Herbs for Fresh Ones](https://lifehacker.com/how-to-substitute-your-dried-thanksgiving-herbs-for-fre-1849754492)
-- [Lifehacker] [Don’t Eat This Recalled Lettuce, FDA Says](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
-- [Lifehacker] [13 Plants You Probably Shouldn’t Even Try to Grow Indoors](https://lifehacker.com/13-plants-you-probably-shouldn-t-even-try-to-grow-indoo-1849752460)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s What Happens to Your Crypto When You Die](https://lifehacker.com/heres-what-happens-to-your-crypto-when-you-die-1849753938)<!-- TECH-POSTS:END -->
 
 ---
 
