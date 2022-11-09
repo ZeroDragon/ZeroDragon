@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build custom CRM](https://dev.to/flatlogic/how-to-build-custom-crm-12dp)
+- [Dev.to/JS] [SeverLess programming with React + Supabase - 1](https://dev.to/mhcrocky/severless-programming-with-react-supabase-1-nkh)
+- [Dev.to/JS] [#3 FS Module &lpar;Promise API&rpar;](https://dev.to/hellonehha/3-fs-module-promise-api-5dek)
 - [Dev.to/JS] [Introduction &amp; Setup PocketBase](https://dev.to/jannisdev/introduction-setup-pocketbase-35l2)
 - [Dev.to/JS] [Add a web3 connect button to your React App with TypeScript and Metamask.](https://dev.to/thestriver/add-a-web3-connect-button-to-your-react-app-with-typescript-and-metamask-2bkm)
 - [Dev.to/JS] [Nodejs CLI : Introduction](https://dev.to/ameyakulkarni2001/nodejs-cli-introduction-fln)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 2: Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/part-2-building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-1k6g)
 - [Dev.to/JS] [What are Inline Elements in HTML?](https://dev.to/vistamista2012/what-are-inline-elements-in-html-c71)
 - [Dev.to/JS] [What are block element in HTML?](https://dev.to/bheeko2120/what-are-block-element-in-html-2hjh)
-- [Dev.to/JS] [Why Linking is important in Website?](https://dev.to/managt22/why-linking-is-important-in-website-3dg5)
-- [Dev.to/JS] [List Some Table Properties in HTML Webpage](https://dev.to/gharreb9/list-some-table-properties-in-html-webpage-4bhd)
-- [Dev.to/JS] [What are tables and their uses in a Website?](https://dev.to/kamora72433159/what-are-tables-and-their-uses-in-a-website-kmk)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
