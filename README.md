@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction &amp; Setup PocketBase](https://dev.to/jannisdev/introduction-setup-pocketbase-35l2)
+- [Dev.to/JS] [Add a web3 connect button to your React App with TypeScript and Metamask.](https://dev.to/thestriver/add-a-web3-connect-button-to-your-react-app-with-typescript-and-metamask-2bkm)
+- [Dev.to/JS] [Nodejs CLI : Introduction](https://dev.to/ameyakulkarni2001/nodejs-cli-introduction-fln)
 - [Dev.to/JS] [AWS Bookstore Demo App](https://dev.to/vanhoangkha/aws-bookstore-demo-app-1bhl)
 - [Dev.to/JS] [Introducing Open Native: vendor unlock React Native](https://dev.to/ammarahmed/introducing-open-native-vendor-unlock-react-native-12d)
 - [Dev.to/JS] [Working with Jest Framework](https://dev.to/ririio/working-with-jest-framework-5777)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Linking is important in Website?](https://dev.to/managt22/why-linking-is-important-in-website-3dg5)
 - [Dev.to/JS] [List Some Table Properties in HTML Webpage](https://dev.to/gharreb9/list-some-table-properties-in-html-webpage-4bhd)
 - [Dev.to/JS] [What are tables and their uses in a Website?](https://dev.to/kamora72433159/what-are-tables-and-their-uses-in-a-website-kmk)
-- [Dev.to/JS] [Should We add Unordered List to our Webpage](https://dev.to/mala02585439/should-we-add-unordered-list-to-our-webpage-18e3)
-- [Dev.to/JS] [Should We add Ordered List to our Webpage](https://dev.to/manshana1/should-we-add-ordered-list-to-our-webpage-4beo)
-- [Dev.to/JS] [Why img Tag in necessary for embedding image in webpage?](https://dev.to/ghana77571378/why-img-tag-in-necessary-for-embedding-image-in-webpage-1483)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
