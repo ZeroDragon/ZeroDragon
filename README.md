@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to beautify your code and make contributions easy?](https://dev.to/gulyapulya/how-to-beautify-your-code-and-make-contributions-easy-35g9)
+- [Dev.to/JS] [Overview of the next-gen frontend dev tools](https://dev.to/maximecheramy/overview-of-the-next-gen-frontend-dev-tools-5fm1)
+- [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
+- [Dev.to/JS] [npx ou comment comprendre que ce n&#39;est pas une faute d&#39;orthographe de npm](https://dev.to/younup/npx-ou-comment-comprendre-que-ce-nest-pas-une-faute-dorthographe-de-npm-cm2)
+- [Dev.to/JS] [10x your engineering](https://dev.to/netcastly/10x-your-engineering-584i)
+- [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
 - [Dev.to/JS] [Approving NFTs + NoRamp](https://dev.to/noramp/approving-nfts-noramp-2idd)
 - [Lifehacker] [7 Fitness Trends on TikTok That Are Actually Worth Trying](https://lifehacker.com/7-fitness-trends-on-tiktok-that-are-actually-worth-tryi-1849757950)
@@ -43,11 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Windows Has a New Tool for Simultaneously Recording Your Screen and Webcam](https://lifehacker.com/windows-has-a-new-tool-for-simultaneously-recording-you-1849756054)
 - [Dev.to/JS] [Know The Best React Markdown Editor Components for Your App](https://dev.to/ideradevtools/know-the-best-react-markdown-editor-components-for-your-app-2f9n)
 - [Lifehacker] [The Reason Spotify Shuffles Aren’t Really Random &lpar;and How to Fix It&rpar;](https://lifehacker.com/the-reason-spotify-shuffles-aren-t-really-random-and-h-1849756947)
-- [Dev.to/JS] [Fast fuzzy searching of a string in a list](https://dev.to/costinmanda/fast-fuzzy-searching-of-a-string-in-a-list-3ie)
-- [Dev.to/JS] [How to learn Javascript in 5 steps](https://dev.to/justice_hub/how-to-learn-javascript-in-5-steps-2i4a)
 - [Lifehacker] [‘Failing’ at Dating Is a Good Thing, Actually](https://lifehacker.com/failing-at-dating-is-a-good-thing-actually-1849755241)
-- [Dev.to/JS] [JS prototypes are slow ... ?](https://dev.to/blobkat/js-prototypes-are-slow--1170)
-- [Dev.to/JS] [React.js VS Angular](https://dev.to/kareemzahoor/reactjs-vs-angular-4ajh)
 - [Lifehacker] [I Improved TikTok’s Nutella and Biscoff Freezer Brownies &lpar;You’re Welcome&rpar;](https://lifehacker.com/i-improved-tiktok-s-nutella-and-biscoff-freezer-brownie-1849754274)
 - [Lifehacker] [11 Famous Places That Don&#39;t Really Exist](https://lifehacker.com/11-famous-places-that-dont-really-exist-1849754301)
 - [Lifehacker] [Sending Money to &#39;Yourself&#39; on Zelle Is a Scam](https://lifehacker.com/sending-money-to-yourself-on-zelle-is-a-scam-1849754543)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Your Stuffing With Fast Food Biscuits](https://lifehacker.com/you-should-make-your-stuffing-with-fast-food-biscuits-1849753343)
 - [Lifehacker] [When to Take Your Child to the ER &lpar;and When to Call the Doctor Instead&rpar;](https://lifehacker.com/when-to-take-your-child-to-the-er-and-when-to-call-the-1849753577)
 - [Lifehacker] [You Should Make Smaller Pies This Thanksgiving](https://lifehacker.com/you-should-make-smaller-pies-this-thanksgiving-1849751990)
-- [Lifehacker] [Be Wary of ‘Fee-Based’ Vs. ‘Fee-Only’ Financial Planners](https://lifehacker.com/be-wary-of-fee-based-vs-fee-only-financial-planner-1849744257)
-- [Crazy Programmer] [10 Best Computer Science Universities in Italy 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-italy.html)
-- [Lifehacker] [Unfollow &#39;God of War: Ragnarok&#39; Before Sony Spoils It for You](https://lifehacker.com/unfollow-god-of-war-ragnarok-before-sony-spoils-it-for-1849751683)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Be Wary of ‘Fee-Based’ Vs. ‘Fee-Only’ Financial Planners](https://lifehacker.com/be-wary-of-fee-based-vs-fee-only-financial-planner-1849744257)<!-- TECH-POSTS:END -->
 
 ---
 
