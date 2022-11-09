@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
+- [Dev.to/JS] [Adding locally hosted Google fonts to your SvelteKit project](https://dev.to/khromov/adding-locally-hosted-google-fonts-to-your-sveltekit-project-26kd)
+- [Lifehacker] [10 Things You Should Never Buy in November](https://lifehacker.com/10-things-you-should-never-buy-in-november-1849759842)
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/lilitbabakhanyan/functions-in-javascript-3alj)
+- [Lifehacker] [You Don&#39;t Need Pasta for This Protein-Forward Lasagna](https://lifehacker.com/you-dont-need-pasta-for-this-protein-forward-lasagna-1849763723)
+- [Dev.to/JS] [Library Vs FrameWork](https://dev.to/yaqoobahmed/library-vs-framework-4i63)
+- [Dev.to/JS] [Functions in Javascript](https://dev.to/elina_melkonyan/functions-in-javascript-348c)
 - [Dev.to/JS] [15 Free CSS 3D Text Effects for Web Designers](https://dev.to/w3tweaks/15-free-css-3d-text-effects-for-web-designers-3nb4)
 - [Dev.to/JS] [Functions in Java Script](https://dev.to/taguhi_manukyan_73ffa9e44/functions-in-java-script-2ibi)
 - [Lifehacker] [You Can Now Use Gmail to Track Your Holiday Packages](https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848)
@@ -32,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Java Script functions](https://dev.to/zhanna_balyan/java-script-functions-4bai)
 - [Dev.to/JS] [AbortController](https://dev.to/paveloreshkin/abortcontroller-59f7)
 - [Dev.to/JS] [Java Script variables](https://dev.to/zhanna_balyan/java-script-variables-4ln8)
-- [Dev.to/JS] [What is React ?](https://dev.to/yaqoobahmed/what-is-react--kl)
-- [Dev.to/JS] [Difference Between SPA vs MPA - Single Page Application vs Multiple Page Application](https://dev.to/yaqoobahmed/difference-between-spa-vs-mpa-single-page-application-vs-multiple-page-application-3o39)
-- [Dev.to/JS] [Variables in JavaScript](https://dev.to/anetasargsyan/variables-in-javascript-n54)
 - [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)
 - [Lifehacker] [11 Easy Pie Crust Designs That Won&#39;t Drive You Nuts](https://lifehacker.com/11-easy-pie-crust-designs-that-wont-drive-you-nuts-1849762483)
-- [Dev.to/JS] [Variables in JavaScript, differences between var, let, const. What are scopes? What is the visibility for the variable?](https://dev.to/edgarminasyan14/variables-in-javascript-differences-between-var-let-const-what-are-scopes-what-is-the-visibility-for-the-variable-51g)
 - [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)
 - [Lifehacker] [You Can Get a Super Cheap Christmas Tree From the Government](https://lifehacker.com/you-can-get-a-super-cheap-christmas-tree-from-the-gover-1849762743)
 - [Lifehacker] [‘Negative Reps’ Aren’t a Weightlifting Cheat Code](https://lifehacker.com/negative-reps-aren-t-a-weightlifting-cheat-code-1849762475)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Airbnb&#39;s New Price Transparency Means for Your Next Trip](https://lifehacker.com/what-airbnbs-new-price-transparency-means-for-your-next-1849757864)
 - [Lifehacker] [13 Unexpected Household Uses for Hairspray](https://lifehacker.com/13-unexpected-household-uses-for-hairspray-1849756937)
 - [Lifehacker] [6 of the Best Videos to Actually Help You Understand Inflation](https://lifehacker.com/6-of-the-best-videos-to-actually-help-you-understand-in-1849757643)
-- [Lifehacker] [Vegetables You Can Chop in Advance &lpar;and the Ones You Shouldn&#39;t&rpar;](https://lifehacker.com/vegetables-you-can-chop-in-advance-and-the-ones-you-sh-1849757529)
-- [Lifehacker] [25 Calming Videos to Watch If You&#39;re Feeling Panicky About the Midterm Elections](https://lifehacker.com/16-soothing-videos-to-watch-if-youre-feeling-panicky-fo-1845560975)
-- [Lifehacker] [Change These &#39;God of War: Ragnarok&#39; Settings to Make the Game Even Better](https://lifehacker.com/change-these-god-of-war-ragnarok-settings-to-make-the-1849757239)
-- [Lifehacker] [Windows Has a New Tool for Simultaneously Recording Your Screen and Webcam](https://lifehacker.com/windows-has-a-new-tool-for-simultaneously-recording-you-1849756054)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Vegetables You Can Chop in Advance &lpar;and the Ones You Shouldn&#39;t&rpar;](https://lifehacker.com/vegetables-you-can-chop-in-advance-and-the-ones-you-sh-1849757529)<!-- TECH-POSTS:END -->
 
 ---
 
