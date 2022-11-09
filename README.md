@@ -23,21 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [15 Free CSS 3D Text Effects for Web Designers](https://dev.to/w3tweaks/15-free-css-3d-text-effects-for-web-designers-3nb4)
+- [Dev.to/JS] [Functions in Java Script](https://dev.to/taguhi_manukyan_73ffa9e44/functions-in-java-script-2ibi)
+- [Lifehacker] [You Can Now Use Gmail to Track Your Holiday Packages](https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848)
+- [Dev.to/JS] [VUE3 reverse an array](https://dev.to/dkev/vue3-reverse-an-array-2pk4)
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/edgarminasyan14/functions-in-javascript-17gn)
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/anetasargsyan/functions-in-javascript-77i)
 - [Dev.to/JS] [Java Script functions](https://dev.to/zhanna_balyan/java-script-functions-4bai)
 - [Dev.to/JS] [AbortController](https://dev.to/paveloreshkin/abortcontroller-59f7)
 - [Dev.to/JS] [Java Script variables](https://dev.to/zhanna_balyan/java-script-variables-4ln8)
+- [Dev.to/JS] [What is React ?](https://dev.to/yaqoobahmed/what-is-react--kl)
 - [Dev.to/JS] [Difference Between SPA vs MPA - Single Page Application vs Multiple Page Application](https://dev.to/yaqoobahmed/difference-between-spa-vs-mpa-single-page-application-vs-multiple-page-application-3o39)
-- [Dev.to/JS] [Variables in JavaScript](https://dev.to/anetasargsyan/variables-in-javascript-3207)
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/anetasargsyan/variables-in-javascript-n54)
 - [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)
 - [Lifehacker] [11 Easy Pie Crust Designs That Won&#39;t Drive You Nuts](https://lifehacker.com/11-easy-pie-crust-designs-that-wont-drive-you-nuts-1849762483)
 - [Dev.to/JS] [Variables in JavaScript, differences between var, let, const. What are scopes? What is the visibility for the variable?](https://dev.to/edgarminasyan14/variables-in-javascript-differences-between-var-let-const-what-are-scopes-what-is-the-visibility-for-the-variable-51g)
-- [Dev.to/JS] [Variables in JavaScript](https://dev.to/lilitbabakhanyan/variables-in-javascript-5bmm)
-- [Dev.to/JS] [Learning JS - Functions](https://dev.to/veronikakhacha4/learning-js-functions-1d3o)
-- [Dev.to/JS] [5 Reasons Why You Should Start Learning About Web3 Today](https://dev.to/amrtcrypto/5-reasons-why-you-should-start-learning-about-web3-today-3gk6)
-- [Dev.to/JS] [Functions in JavaScript](https://dev.to/sona_barseghyan/functions-in-javascript-21oj)
 - [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)
-- [Dev.to/JS] [What I Learned Implementing PKCE for Serverless Zoom Apps](https://dev.to/zoom/what-i-learned-implementing-pkce-for-serverless-zoom-apps-1k9l)
 - [Lifehacker] [You Can Get a Super Cheap Christmas Tree From the Government](https://lifehacker.com/you-can-get-a-super-cheap-christmas-tree-from-the-gover-1849762743)
 - [Lifehacker] [‘Negative Reps’ Aren’t a Weightlifting Cheat Code](https://lifehacker.com/negative-reps-aren-t-a-weightlifting-cheat-code-1849762475)
 - [Lifehacker] [Why the 80% Retirement Rule Is B.S.](https://lifehacker.com/why-the-80-retirement-rule-is-bullshit-1849762139)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Vegetables You Can Chop in Advance &lpar;and the Ones You Shouldn&#39;t&rpar;](https://lifehacker.com/vegetables-you-can-chop-in-advance-and-the-ones-you-sh-1849757529)
 - [Lifehacker] [25 Calming Videos to Watch If You&#39;re Feeling Panicky About the Midterm Elections](https://lifehacker.com/16-soothing-videos-to-watch-if-youre-feeling-panicky-fo-1845560975)
 - [Lifehacker] [Change These &#39;God of War: Ragnarok&#39; Settings to Make the Game Even Better](https://lifehacker.com/change-these-god-of-war-ragnarok-settings-to-make-the-1849757239)
-- [Lifehacker] [Windows Has a New Tool for Simultaneously Recording Your Screen and Webcam](https://lifehacker.com/windows-has-a-new-tool-for-simultaneously-recording-you-1849756054)
-- [Lifehacker] [The Reason Spotify Shuffles Aren’t Really Random &lpar;and How to Fix It&rpar;](https://lifehacker.com/the-reason-spotify-shuffles-aren-t-really-random-and-h-1849756947)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Windows Has a New Tool for Simultaneously Recording Your Screen and Webcam](https://lifehacker.com/windows-has-a-new-tool-for-simultaneously-recording-you-1849756054)<!-- TECH-POSTS:END -->
 
 ---
 
