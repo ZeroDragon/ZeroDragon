@@ -23,23 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Java Script functions](https://dev.to/zhanna_balyan/java-script-functions-4bai)
+- [Dev.to/JS] [AbortController](https://dev.to/paveloreshkin/abortcontroller-59f7)
+- [Dev.to/JS] [Java Script variables](https://dev.to/zhanna_balyan/java-script-variables-4ln8)
+- [Dev.to/JS] [Difference Between SPA vs MPA - Single Page Application vs Multiple Page Application](https://dev.to/yaqoobahmed/difference-between-spa-vs-mpa-single-page-application-vs-multiple-page-application-3o39)
+- [Dev.to/JS] [Variables in JavaScript](https://dev.to/anetasargsyan/variables-in-javascript-3207)
+- [Dev.to/JS] [Variables in JavaScript](https://dev.to/anetasargsyan/variables-in-javascript-n54)
+- [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)
+- [Lifehacker] [11 Easy Pie Crust Designs That Won&#39;t Drive You Nuts](https://lifehacker.com/11-easy-pie-crust-designs-that-wont-drive-you-nuts-1849762483)
+- [Dev.to/JS] [Variables in JavaScript, differences between var, let, const. What are scopes? What is the visibility for the variable?](https://dev.to/edgarminasyan14/variables-in-javascript-differences-between-var-let-const-what-are-scopes-what-is-the-visibility-for-the-variable-51g)
+- [Dev.to/JS] [Variables in JavaScript](https://dev.to/lilitbabakhanyan/variables-in-javascript-5bmm)
+- [Dev.to/JS] [Learning JS - Functions](https://dev.to/veronikakhacha4/learning-js-functions-1d3o)
 - [Dev.to/JS] [5 Reasons Why You Should Start Learning About Web3 Today](https://dev.to/amrtcrypto/5-reasons-why-you-should-start-learning-about-web3-today-3gk6)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/sona_barseghyan/functions-in-javascript-21oj)
 - [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)
 - [Dev.to/JS] [What I Learned Implementing PKCE for Serverless Zoom Apps](https://dev.to/zoom/what-i-learned-implementing-pkce-for-serverless-zoom-apps-1k9l)
-- [Dev.to/JS] [Building Serverless Zoom Apps](https://dev.to/zoom/building-serverless-zoom-apps-5ef4)
 - [Lifehacker] [You Can Get a Super Cheap Christmas Tree From the Government](https://lifehacker.com/you-can-get-a-super-cheap-christmas-tree-from-the-gover-1849762743)
-- [Dev.to/JS] [Functions in JavaScript](https://dev.to/levon_yedigaryan/functions-in-javascript-4d1g)
-- [Dev.to/JS] [Create a TypeScript project](https://dev.to/sjohnsonaz/create-a-typescript-project-mco)
-- [Dev.to/JS] [Node JS &lpar;Express App&rpar; on Vercel - Develop, Run, Deploy](https://dev.to/tirthpatel/node-js-express-app-on-vercel-develop-run-deploy-524a)
-- [Dev.to/JS] [A guide to connecting your apps via webhooks with Autocode #tutorial](https://dev.to/janeth/a-guide-to-connecting-your-apps-via-webhooks-with-autocode-tutorial-15m7)
 - [Lifehacker] [‘Negative Reps’ Aren’t a Weightlifting Cheat Code](https://lifehacker.com/negative-reps-aren-t-a-weightlifting-cheat-code-1849762475)
-- [Dev.to/JS] [Variables](https://dev.to/goyafan_33/variables-1me6)
 - [Lifehacker] [Why the 80% Retirement Rule Is B.S.](https://lifehacker.com/why-the-80-retirement-rule-is-bullshit-1849762139)
-- [Dev.to/JS] [Variables in JavaScript](https://dev.to/levon_yedigaryan/variables-in-javascript-4e96)
-- [Dev.to/JS] [JavaScript Functions](https://dev.to/arpinetadevosyan/javascript-functions-1m2f)
 - [Lifehacker] [Do This Instead of Asking for a Cost-of-Living Raise](https://lifehacker.com/do-this-instead-of-asking-for-a-cost-of-living-raise-1849759785)
-- [Dev.to/JS] [Maximize Sum Of Array After K Negations](https://dev.to/zeeshanali0704/maximize-sum-of-array-after-k-negations-5ch8)
 - [Lifehacker] [Your Mac Has a Hidden White Noise Generator](https://lifehacker.com/your-mac-has-a-hidden-white-noise-generator-1849760988)
 - [Lifehacker] [Use Smart Folders for These Important Files](https://lifehacker.com/use-smart-folders-for-these-important-files-1849761253)
 - [Lifehacker] [How to Overcome Medical Trauma](https://lifehacker.com/how-to-overcome-medical-trauma-1849760311)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 Calming Videos to Watch If You&#39;re Feeling Panicky About the Midterm Elections](https://lifehacker.com/16-soothing-videos-to-watch-if-youre-feeling-panicky-fo-1845560975)
 - [Lifehacker] [Change These &#39;God of War: Ragnarok&#39; Settings to Make the Game Even Better](https://lifehacker.com/change-these-god-of-war-ragnarok-settings-to-make-the-1849757239)
 - [Lifehacker] [Windows Has a New Tool for Simultaneously Recording Your Screen and Webcam](https://lifehacker.com/windows-has-a-new-tool-for-simultaneously-recording-you-1849756054)
-- [Lifehacker] [The Reason Spotify Shuffles Aren’t Really Random &lpar;and How to Fix It&rpar;](https://lifehacker.com/the-reason-spotify-shuffles-aren-t-really-random-and-h-1849756947)
-- [Lifehacker] [‘Failing’ at Dating Is a Good Thing, Actually](https://lifehacker.com/failing-at-dating-is-a-good-thing-actually-1849755241)
-- [Lifehacker] [I Improved TikTok’s Nutella and Biscoff Freezer Brownies &lpar;You’re Welcome&rpar;](https://lifehacker.com/i-improved-tiktok-s-nutella-and-biscoff-freezer-brownie-1849754274)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Reason Spotify Shuffles Aren’t Really Random &lpar;and How to Fix It&rpar;](https://lifehacker.com/the-reason-spotify-shuffles-aren-t-really-random-and-h-1849756947)<!-- TECH-POSTS:END -->
 
 ---
 
