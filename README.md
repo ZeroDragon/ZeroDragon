@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Install and Use NVM?](https://dev.to/refine/how-to-install-and-use-nvm-352d)
+- [Dev.to/JS] [Nuxt Nation 2022: The Largest Global Nuxt Conference coming next week 🥳](https://dev.to/anaamarijaa/nuxt-nation-2022-the-largest-global-nuxt-conference-coming-next-week-206f)
+- [Dev.to/JS] [Develop JavaScript apps 200x faster w/ @params and vscode.](https://dev.to/sfundomhlungu/develop-javascript-apps-200x-faster-w-params-and-vscode-43pn)
 - [Dev.to/JS] [Framer Motion - AnimatePresence](https://dev.to/siddharth0x/framer-motion-animatepresence-33l2)
 - [Dev.to/JS] [Type system hierarchy in TypeScript: from Top Type to Bottom Type](https://dev.to/linbudu599/type-system-hierarchy-in-typescript-from-top-type-to-bottom-type-259)
 - [Dev.to/JS] [Migrate to Vue 3 from Vue 2 in the best way possible!](https://dev.to/arohiadhyaru/migrate-to-vue-3-from-vue-2-in-the-best-way-possible-11go)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#3 FS Module &lpar;Promise API&rpar;](https://dev.to/hellonehha/3-fs-module-promise-api-5dek)
 - [Dev.to/JS] [Introduction &amp; Setup PocketBase](https://dev.to/jannisdev/introduction-setup-pocketbase-35l2)
 - [Dev.to/JS] [Add a web3 connect button to your React App with TypeScript and Metamask.](https://dev.to/thestriver/add-a-web3-connect-button-to-your-react-app-with-typescript-and-metamask-2bkm)
-- [Dev.to/JS] [Nodejs CLI : Introduction](https://dev.to/ameyakulkarni2001/nodejs-cli-introduction-fln)
-- [Dev.to/JS] [AWS Bookstore Demo App](https://dev.to/vanhoangkha/aws-bookstore-demo-app-1bhl)
-- [Dev.to/JS] [Introducing Open Native: vendor unlock React Native](https://dev.to/ammarahmed/introducing-open-native-vendor-unlock-react-native-12d)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
