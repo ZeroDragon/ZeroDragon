@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A guide to connecting your apps via webhooks with Autocode #tutorial](https://dev.to/janeth/a-guide-to-connecting-your-apps-via-webhooks-with-autocode-tutorial-15m7)
+- [Dev.to/JS] [Variables](https://dev.to/goyafan_33/variables-1me6)
 - [Dev.to/JS] [JS/TS Adapter Pattern](https://dev.to/brentdalling/jsts-adapter-pattern-g17)
 - [Lifehacker] [Why the 80% Retirement Rule Is B.S.](https://lifehacker.com/why-the-80-retirement-rule-is-bullshit-1849762139)
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/levon_yedigaryan/variables-in-javascript-4e96)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variables in JavaScript](https://dev.to/maria_nazaryan_/variables-in-javascript-1djk)
 - [Dev.to/JS] [Is Svelte the &quot;perfectest&quot; framework for solo/indie web developers?](https://dev.to/developerbishwas/is-svelte-the-perfectest-framework-for-soloindie-web-developers-bp8)
 - [Dev.to/JS] [Publish a barebones CLI](https://dev.to/ricsam/publish-a-barebones-cli-n2a)
-- [Dev.to/JS] [Retrospective: Making a contribution to n8n](https://dev.to/mashiox/retrospective-making-a-contribution-to-n8n-ofh)
 - [Lifehacker] [How to Overcome Medical Trauma](https://lifehacker.com/how-to-overcome-medical-trauma-1849760311)
-- [Dev.to/JS] [Relations in main layout, marketplace updates and more in Strapi v4.5](https://dev.to/strapi/relations-in-main-layout-marketplace-updates-and-more-in-strapi-v45-53k7)
 - [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)
 - [Lifehacker] [The 8 Things Stressing Americans Out the Most &lpar;and Some Hope for Each&rpar;](https://lifehacker.com/the-8-things-stressing-americans-out-the-most-and-some-1849760418)
 - [Lifehacker] [Why You Should &lpar;Almost&rpar; Always Make the First Offer](https://lifehacker.com/why-you-should-almost-always-make-the-first-offer-1849757533)
