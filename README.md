@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Veterans Day Deals That Aren&#39;t Free Food](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
+- [Dev.to/JS] [Stylify CSS have launched on Product Hunt 🎉](https://dev.to/machy8/stylify-css-have-launched-on-product-hunt-307n)
+- [Lifehacker] [The Best Way to Soften Butter for Baking, Toast, or Anything Else](https://lifehacker.com/the-best-way-to-soften-butter-for-baking-toast-or-any-1849765305)
 - [Dev.to/JS] [GBWhatsApp APK](https://dev.to/gbwhatsappapk01/gbwhatsapp-apk-678)
 - [Lifehacker] [The Signs That Your Finances Aren’t As Bad As You Think](https://lifehacker.com/the-signs-that-your-finances-aren-t-as-bad-as-you-think-1849763526)
 - [Dev.to/JS] [Medusa Webhooks: The Best Technical Project of the Medusa Hackathon](https://dev.to/medusajs/medusa-webhooks-the-best-technical-project-of-the-medusa-hackathon-289a)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hi Guy&#39;s](https://dev.to/0ahsan1/hi-guys-2j3j)
 - [Dev.to/JS] [How to set up an Express Server with Typescript and ES6 import statements using Vite](https://dev.to/kevinqtogitty/how-to-set-up-an-express-server-with-typescript-and-es6-import-statements-using-vite-9l6)
 - [Dev.to/JS] [Open Source Highlights: Trends and Insights from GitHub 2022](https://dev.to/ossinsight/open-source-highlights-trends-and-insights-from-github-2022-1ajc)
-- [Dev.to/JS] [What is moment.js alternative in Javascript?](https://dev.to/canopassoftware/what-is-momentjs-alternative-in-javascript-k0e)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
 - [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
 - [Lifehacker] [7 Fitness Trends on TikTok That Are Actually Worth Trying](https://lifehacker.com/7-fitness-trends-on-tiktok-that-are-actually-worth-tryi-1849757950)
-- [Lifehacker] [These Are the Dos and Don’ts of Sending a Voice Message](https://lifehacker.com/these-are-the-dos-and-don-ts-of-sending-a-voice-message-1849758508)
-- [Lifehacker] [Don’t Cook Your Turkey in a Roasting Pan](https://lifehacker.com/don-t-cook-your-turkey-in-a-roasting-pan-1849757979)
-- [Lifehacker] [What Airbnb&#39;s New Price Transparency Means for Your Next Trip](https://lifehacker.com/what-airbnbs-new-price-transparency-means-for-your-next-1849757864)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Dos and Don’ts of Sending a Voice Message](https://lifehacker.com/these-are-the-dos-and-don-ts-of-sending-a-voice-message-1849758508)<!-- TECH-POSTS:END -->
 
 ---
 
