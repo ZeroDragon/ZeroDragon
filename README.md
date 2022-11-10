@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [General Motors Is Recalling These SUVs for Faulty Headlights](https://lifehacker.com/general-motors-is-recalling-these-suvs-for-faulty-headl-1849768067)
+- [Dev.to/JS] [Bibliotecas NodeJS incríveis que você não tem ideia que existem](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
+- [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
+- [Dev.to/JS] [Composable vs. Modular frontends and how they work together](https://dev.to/richkurtzman/composable-vs-modular-frontends-and-how-they-work-together-4dld)
 - [Lifehacker] [The Best Safari Extensions for Your Mac](https://lifehacker.com/the-best-safari-extensions-for-your-mac-1849766336)
 - [Dev.to/JS] [5 years and I didn&#39;t even thought about it...](https://dev.to/magvin/5-years-and-i-didnt-even-thought-about-it-1pm9)
 - [Lifehacker] [How to Manage After-School Meltdowns With a Neurodivergent Child](https://lifehacker.com/how-to-manage-after-school-meltdowns-with-a-neurodiverg-1849765644)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [In One Minute : Vue.js](https://dev.to/rakeshkr2/in-one-minute-vuejs-3eam)
 - [Lifehacker] [How to Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
 - [Dev.to/JS] [Sinkchart - open source visualisation tool for your JS dependencies](https://dev.to/sebivaduva/sinkchart-open-source-visualisation-tool-for-your-js-dependencies-ndo)
-- [Dev.to/JS] [Web Scraping Google Finance With Node JS](https://dev.to/darshan0_1/web-scraping-google-finance-with-node-js-1ff0)
 - [Lifehacker] [The Best Veterans Day Deals That Aren&#39;t Free Food](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
-- [Dev.to/JS] [Stylify CSS have launched on Product Hunt 🎉](https://dev.to/machy8/stylify-css-have-launched-on-product-hunt-307n)
 - [Lifehacker] [The Best Way to Soften Butter for Baking, Toast, or Anything Else](https://lifehacker.com/the-best-way-to-soften-butter-for-baking-toast-or-any-1849765305)
 - [Lifehacker] [The Signs That Your Finances Aren’t As Bad As You Think](https://lifehacker.com/the-signs-that-your-finances-aren-t-as-bad-as-you-think-1849763526)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Mac Has a Hidden White Noise Generator](https://lifehacker.com/your-mac-has-a-hidden-white-noise-generator-1849760988)
 - [Lifehacker] [Use Smart Folders for These Important Files](https://lifehacker.com/use-smart-folders-for-these-important-files-1849761253)
 - [Lifehacker] [How to Overcome Medical Trauma](https://lifehacker.com/how-to-overcome-medical-trauma-1849760311)
-- [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)
-- [Lifehacker] [The 8 Things Stressing Americans Out the Most &lpar;and Some Hope for Each&rpar;](https://lifehacker.com/the-8-things-stressing-americans-out-the-most-and-some-1849760418)
-- [Lifehacker] [Why You Should &lpar;Almost&rpar; Always Make the First Offer](https://lifehacker.com/why-you-should-almost-always-make-the-first-offer-1849757533)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)<!-- TECH-POSTS:END -->
 
 ---
 
