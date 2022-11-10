@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My journey to CTO](https://dev.to/grahammorby/my-journey-to-cto-2ap9)
+- [Dev.to/JS] [5 websites to learn Frontend-web development faster](https://dev.to/qbentil/5-websites-to-learn-frontend-web-development-faster-3cid)
+- [Dev.to/JS] [How I build a Documentation site using Docz](https://dev.to/documatic/how-i-build-a-documentation-site-using-docz-57kk)
 - [Dev.to/JS] [How I Made $30,000 From Writing in 1 Year](https://dev.to/tyaga001/how-i-made-30000-from-writing-in-1-year-4o79)
 - [Dev.to/JS] [Which is better in MongoDB](https://dev.to/ifeanyichima/which-is-better-in-mongodb-2304)
 - [Dev.to/JS] [Redacting Data in Amazon QLDB](https://dev.to/aws-heroes/redacting-data-in-amazon-qldb-1o06)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is moment.js alternative in Javascript?](https://dev.to/canopassoftware/what-is-momentjs-alternative-in-javascript-k0e)
 - [Dev.to/JS] [Route-Based Middleware to Handle Default Population Query Logic](https://dev.to/strapi/route-based-middleware-to-handle-default-population-query-logic-2nlo)
 - [Dev.to/JS] [MVP with Tailwindcss, Sveltekit and Pocketbase – Taking the Path of Least Resistance](https://dev.to/chbert/mvp-with-tailwindcss-sveltekit-and-pocketbase-taking-the-path-of-least-resistance-4i5i)
-- [Dev.to/JS] [Useful dream for a Programmer](https://dev.to/develop92001047/useful-dream-for-a-programmer-4f0d)
-- [Dev.to/JS] [Godrej Splendour Luxurious Residence In Bangalore](https://dev.to/godrejsplender/godrej-splendour-luxurious-residence-in-bangalore-485p)
-- [Dev.to/JS] [Detecting account sharing and repeated trials in Firebase Auth with Upollo](https://dev.to/stephennancekivell/detecting-account-sharing-and-repeated-trials-in-firebase-auth-with-upollo-38j)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
