@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GBWhatsApp APK](https://dev.to/gbwhatsappapk01/gbwhatsapp-apk-678)
+- [Lifehacker] [The Signs That Your Finances Aren’t As Bad As You Think](https://lifehacker.com/the-signs-that-your-finances-aren-t-as-bad-as-you-think-1849763526)
+- [Dev.to/JS] [Medusa Webhooks: The Best Technical Project of the Medusa Hackathon](https://dev.to/medusajs/medusa-webhooks-the-best-technical-project-of-the-medusa-hackathon-289a)
 - [Dev.to/JS] [My journey to CTO](https://dev.to/grahammorby/my-journey-to-cto-2ap9)
 - [Dev.to/JS] [5 websites to learn Frontend-web development faster](https://dev.to/qbentil/5-websites-to-learn-frontend-web-development-faster-3cid)
 - [Dev.to/JS] [How I build a Documentation site using Docz](https://dev.to/documatic/how-i-build-a-documentation-site-using-docz-57kk)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to set up an Express Server with Typescript and ES6 import statements using Vite](https://dev.to/kevinqtogitty/how-to-set-up-an-express-server-with-typescript-and-es6-import-statements-using-vite-9l6)
 - [Dev.to/JS] [Open Source Highlights: Trends and Insights from GitHub 2022](https://dev.to/ossinsight/open-source-highlights-trends-and-insights-from-github-2022-1ajc)
 - [Dev.to/JS] [What is moment.js alternative in Javascript?](https://dev.to/canopassoftware/what-is-momentjs-alternative-in-javascript-k0e)
-- [Dev.to/JS] [Route-Based Middleware to Handle Default Population Query Logic](https://dev.to/strapi/route-based-middleware-to-handle-default-population-query-logic-2nlo)
-- [Dev.to/JS] [MVP with Tailwindcss, Sveltekit and Pocketbase – Taking the Path of Least Resistance](https://dev.to/chbert/mvp-with-tailwindcss-sveltekit-and-pocketbase-taking-the-path-of-least-resistance-4i5i)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Fitness Trends on TikTok That Are Actually Worth Trying](https://lifehacker.com/7-fitness-trends-on-tiktok-that-are-actually-worth-tryi-1849757950)
 - [Lifehacker] [These Are the Dos and Don’ts of Sending a Voice Message](https://lifehacker.com/these-are-the-dos-and-don-ts-of-sending-a-voice-message-1849758508)
 - [Lifehacker] [Don’t Cook Your Turkey in a Roasting Pan](https://lifehacker.com/don-t-cook-your-turkey-in-a-roasting-pan-1849757979)
-- [Lifehacker] [What Airbnb&#39;s New Price Transparency Means for Your Next Trip](https://lifehacker.com/what-airbnbs-new-price-transparency-means-for-your-next-1849757864)
-- [Lifehacker] [13 Unexpected Household Uses for Hairspray](https://lifehacker.com/13-unexpected-household-uses-for-hairspray-1849756937)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Airbnb&#39;s New Price Transparency Means for Your Next Trip](https://lifehacker.com/what-airbnbs-new-price-transparency-means-for-your-next-1849757864)<!-- TECH-POSTS:END -->
 
 ---
 
