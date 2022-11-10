@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add an Angular Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-an-angular-report-viewer-to-your-web-application-o1b)
+- [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
+- [Dev.to/JS] [Pattern lock with js](https://dev.to/olascoworks/pattern-lock-with-js-1cmo)
+- [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)
 - [Dev.to/JS] [Wordle Clone](https://dev.to/brentdalling/wordle-clone-c48)
 - [Lifehacker] [You Should Be Scheduling Your iPhone Updates for Later](https://lifehacker.com/you-should-be-scheduling-your-iphone-updates-for-later-1849768674)
 - [Lifehacker] [Forget Big Cheese Wedges &lpar;Serve This Pre-Portioned Wreath Instead&rpar;](https://lifehacker.com/forget-big-cheese-wedges-serve-this-pre-portioned-wrea-1849768125)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I made multi-threaded voxel engine in TypeScript](https://dev.to/lucasdamianjohnson/how-i-made-multi-threaded-voxel-engine-in-typescript-1e8f)
 - [Dev.to/JS] [React vs Angular](https://dev.to/zubairarif234/react-vs-angular-2g9i)
 - [Lifehacker] [Don&#39;t Eat This Recalled Salmon, FDA Says](https://lifehacker.com/dont-eat-this-recalled-salmon-fda-says-1849763208)
-- [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 3](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-3-52ij)
-- [Dev.to/JS] [The super-confusing __proto__ vs prototype in JavaScript DECODED](https://dev.to/geomukkath/the-super-confusing-proto-vs-prototype-in-javascript-decoded-20mk)
 - [Lifehacker] [How to Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
 - [Lifehacker] [The Best Veterans Day Deals That Aren&#39;t Free Food](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
 - [Lifehacker] [The Best Way to Soften Butter for Baking, Toast, or Anything Else](https://lifehacker.com/the-best-way-to-soften-butter-for-baking-toast-or-any-1849765305)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)
 - [Lifehacker] [You Can Get a Super Cheap Christmas Tree From the Government](https://lifehacker.com/you-can-get-a-super-cheap-christmas-tree-from-the-gover-1849762743)
 - [Lifehacker] [‘Negative Reps’ Aren’t a Weightlifting Cheat Code](https://lifehacker.com/negative-reps-aren-t-a-weightlifting-cheat-code-1849762475)
-- [Lifehacker] [Why the 80% Retirement Rule Is B.S.](https://lifehacker.com/why-the-80-retirement-rule-is-bullshit-1849762139)
-- [Lifehacker] [Do This Instead of Asking for a Cost-of-Living Raise](https://lifehacker.com/do-this-instead-of-asking-for-a-cost-of-living-raise-1849759785)
-- [Lifehacker] [Your Mac Has a Hidden White Noise Generator](https://lifehacker.com/your-mac-has-a-hidden-white-noise-generator-1849760988)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why the 80% Retirement Rule Is B.S.](https://lifehacker.com/why-the-80-retirement-rule-is-bullshit-1849762139)<!-- TECH-POSTS:END -->
 
 ---
 
