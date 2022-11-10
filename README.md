@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Safari Extensions for Your Mac](https://lifehacker.com/the-best-safari-extensions-for-your-mac-1849766336)
+- [Dev.to/JS] [5 years and I didn&#39;t even thought about it...](https://dev.to/magvin/5-years-and-i-didnt-even-thought-about-it-1pm9)
+- [Lifehacker] [How to Manage After-School Meltdowns With a Neurodivergent Child](https://lifehacker.com/how-to-manage-after-school-meltdowns-with-a-neurodiverg-1849765644)
+- [Dev.to/JS] [HTML document subtitles?](https://dev.to/diekus/html-document-subtitles-533m)
+- [Lifehacker] [Six Simple Tools Every DIY-er Must Have](https://lifehacker.com/six-simple-tools-every-diy-er-must-have-1849765980)
 - [Dev.to/JS] [Pocketbase, readymade backend within clicks](https://dev.to/fayismahmood/pocketbase-readymade-backend-within-clicks-21hi)
 - [Dev.to/JS] [Top 10 Divjoy Codebase Alternatives – Generators, Templates &amp; Builder Apps](https://dev.to/flatlogic/top-10-divjoy-codebase-alternatives-generators-templates-builder-apps-3hb1)
 - [Lifehacker] [All the Ways You Can Use Pegboards for Home Storage and Decor](https://lifehacker.com/all-the-ways-you-can-use-pegboards-for-home-storage-and-1849765801)
@@ -39,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stylify CSS have launched on Product Hunt 🎉](https://dev.to/machy8/stylify-css-have-launched-on-product-hunt-307n)
 - [Lifehacker] [The Best Way to Soften Butter for Baking, Toast, or Anything Else](https://lifehacker.com/the-best-way-to-soften-butter-for-baking-toast-or-any-1849765305)
 - [Lifehacker] [The Signs That Your Finances Aren’t As Bad As You Think](https://lifehacker.com/the-signs-that-your-finances-aren-t-as-bad-as-you-think-1849763526)
-- [Dev.to/JS] [Medusa Webhooks: The Best Technical Project of the Medusa Hackathon](https://dev.to/medusajs/medusa-webhooks-the-best-technical-project-of-the-medusa-hackathon-289a)
-- [Dev.to/JS] [My journey to CTO](https://dev.to/grahammorby/my-journey-to-cto-2ap9)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Overcome Medical Trauma](https://lifehacker.com/how-to-overcome-medical-trauma-1849760311)
 - [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)
 - [Lifehacker] [The 8 Things Stressing Americans Out the Most &lpar;and Some Hope for Each&rpar;](https://lifehacker.com/the-8-things-stressing-americans-out-the-most-and-some-1849760418)
-- [Lifehacker] [Why You Should &lpar;Almost&rpar; Always Make the First Offer](https://lifehacker.com/why-you-should-almost-always-make-the-first-offer-1849757533)
-- [Lifehacker] [17 Thanksgiving Hacks I Recommend Every Single Year](https://lifehacker.com/17-thanksgiving-hacks-that-will-make-your-holiday-bette-1849758983)
-- [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
-- [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should &lpar;Almost&rpar; Always Make the First Offer](https://lifehacker.com/why-you-should-almost-always-make-the-first-offer-1849757533)<!-- TECH-POSTS:END -->
 
 ---
 
