@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Software release using npm](https://dev.to/mnosov622/software-release-using-npm-52l9)
+- [Dev.to/JS] [Getting Started with Jalangi 2](https://dev.to/beltran/getting-started-with-jalangi-2-1a3j)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/astghikaboyan/functions-in-javascript-f1j)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Dev.to/JS] [Role-based access in React](https://dev.to/asayerio_techblog/role-based-access-in-react-357a)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Library Vs FrameWork](https://dev.to/yaqoobahmed/library-vs-framework-4i63)
 - [Dev.to/JS] [Functions in Javascript](https://dev.to/elina_melkonyan/functions-in-javascript-348c)
 - [Dev.to/JS] [15 Free CSS 3D Text Effects for Web Designers](https://dev.to/w3tweaks/15-free-css-3d-text-effects-for-web-designers-3nb4)
-- [Dev.to/JS] [Functions in Java Script](https://dev.to/taguhi_manukyan_73ffa9e44/functions-in-java-script-2ibi)
 - [Lifehacker] [You Can Now Use Gmail to Track Your Holiday Packages](https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848)
-- [Dev.to/JS] [VUE3 reverse an array](https://dev.to/dkev/vue3-reverse-an-array-2pk4)
 - [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)
 - [Lifehacker] [11 Easy Pie Crust Designs That Won&#39;t Drive You Nuts](https://lifehacker.com/11-easy-pie-crust-designs-that-wont-drive-you-nuts-1849762483)
 - [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)
