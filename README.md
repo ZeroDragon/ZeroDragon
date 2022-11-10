@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quickly Testing your Custom Spectral Rules](https://dev.to/jordanwalsh23/quickly-testing-your-custom-spectral-rules-1jh0)
+- [Dev.to/JS] [Why forms are necessary in a webpage?](https://dev.to/fisafash/why-forms-are-necessary-in-a-webpage-15n0)
+- [Dev.to/JS] [Building a one click identity verification system - One Secure.](https://dev.to/bitbender1010/building-a-one-click-identity-verification-system-23nn)
+- [Dev.to/JS] [Local Storage In Javascript](https://dev.to/neeraj1997dev/local-storage-in-javascript-316i)
 - [Dev.to/JS] [Software release using npm](https://dev.to/mnosov622/software-release-using-npm-52l9)
 - [Dev.to/JS] [Getting Started with Jalangi 2](https://dev.to/beltran/getting-started-with-jalangi-2-1a3j)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/astghikaboyan/functions-in-javascript-f1j)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
 - [Dev.to/JS] [Adding locally hosted Google fonts to your SvelteKit project](https://dev.to/khromov/adding-locally-hosted-google-fonts-to-your-sveltekit-project-26kd)
 - [Lifehacker] [10 Things You Should Never Buy in November](https://lifehacker.com/10-things-you-should-never-buy-in-november-1849759842)
-- [Dev.to/JS] [Functions in JavaScript](https://dev.to/lilitbabakhanyan/functions-in-javascript-3alj)
 - [Lifehacker] [You Don&#39;t Need Pasta for This Protein-Forward Lasagna](https://lifehacker.com/you-dont-need-pasta-for-this-protein-forward-lasagna-1849763723)
-- [Dev.to/JS] [Library Vs FrameWork](https://dev.to/yaqoobahmed/library-vs-framework-4i63)
-- [Dev.to/JS] [Functions in Javascript](https://dev.to/elina_melkonyan/functions-in-javascript-348c)
-- [Dev.to/JS] [15 Free CSS 3D Text Effects for Web Designers](https://dev.to/w3tweaks/15-free-css-3d-text-effects-for-web-designers-3nb4)
 - [Lifehacker] [You Can Now Use Gmail to Track Your Holiday Packages](https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848)
 - [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)
 - [Lifehacker] [11 Easy Pie Crust Designs That Won&#39;t Drive You Nuts](https://lifehacker.com/11-easy-pie-crust-designs-that-wont-drive-you-nuts-1849762483)
