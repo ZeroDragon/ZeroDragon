@@ -23,10 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The best Framework Fullstack Node js is Adonis js . No contest](https://dev.to/kodah/the-best-framework-fullstack-node-js-is-adonis-js-no-contest-10nc)
 - [Dev.to/JS] [Quickly Testing your Custom Spectral Rules](https://dev.to/jordanwalsh23/quickly-testing-your-custom-spectral-rules-1jh0)
 - [Dev.to/JS] [Why forms are necessary in a webpage?](https://dev.to/fisafash/why-forms-are-necessary-in-a-webpage-15n0)
 - [Dev.to/JS] [Building a one click identity verification system - One Secure.](https://dev.to/bitbender1010/building-a-one-click-identity-verification-system-23nn)
 - [Dev.to/JS] [Local Storage In Javascript](https://dev.to/neeraj1997dev/local-storage-in-javascript-316i)
+- [Dev.to/JS] [InstaAngular](https://dev.to/tookooltech/instaangular-1abj)
 - [Dev.to/JS] [Software release using npm](https://dev.to/mnosov622/software-release-using-npm-52l9)
 - [Dev.to/JS] [Getting Started with Jalangi 2](https://dev.to/beltran/getting-started-with-jalangi-2-1a3j)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/astghikaboyan/functions-in-javascript-f1j)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variables](https://dev.to/astghikaboyan/variables-198k)
 - [Dev.to/JS] [Functions](https://dev.to/goyafan_33/functions-42m8)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
-- [Dev.to/JS] [Number converter: decimal to base&lpar;2-36&rpar; ReactJs](https://dev.to/b4ldous/number-converter-decimal-to-base2-36-reactjs-2knp)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
-- [Dev.to/JS] [Adding locally hosted Google fonts to your SvelteKit project](https://dev.to/khromov/adding-locally-hosted-google-fonts-to-your-sveltekit-project-26kd)
 - [Lifehacker] [10 Things You Should Never Buy in November](https://lifehacker.com/10-things-you-should-never-buy-in-november-1849759842)
 - [Lifehacker] [You Don&#39;t Need Pasta for This Protein-Forward Lasagna](https://lifehacker.com/you-dont-need-pasta-for-this-protein-forward-lasagna-1849763723)
 - [Lifehacker] [You Can Now Use Gmail to Track Your Holiday Packages](https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848)
