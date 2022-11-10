@@ -23,13 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Detecting account sharing and repeated trials in Firebase Auth with Upollo](https://dev.to/stephennancekivell/detecting-account-sharing-and-repeated-trials-in-firebase-auth-with-upollo-38j)
 - [Dev.to/JS] [Code Smell 178 - Subsets Violation](https://dev.to/mcsee/code-smell-178-subsets-violation-1fkc)
 - [Dev.to/JS] [The best Framework Fullstack Node js is Adonis js . No contest](https://dev.to/kodah/the-best-framework-fullstack-node-js-is-adonis-js-no-contest-10nc)
 - [Dev.to/JS] [Quickly Testing your Custom Spectral Rules](https://dev.to/jordanwalsh23/quickly-testing-your-custom-spectral-rules-1jh0)
 - [Dev.to/JS] [Why forms are necessary in a webpage?](https://dev.to/fisafash/why-forms-are-necessary-in-a-webpage-15n0)
 - [Dev.to/JS] [Building a one click identity verification system - One Secure.](https://dev.to/bitbender1010/building-a-one-click-identity-verification-system-23nn)
 - [Dev.to/JS] [Local Storage In Javascript](https://dev.to/neeraj1997dev/local-storage-in-javascript-316i)
-- [Dev.to/JS] [InstaAngular](https://dev.to/tookooltech/instaangular-1abj)
 - [Dev.to/JS] [Software release using npm](https://dev.to/mnosov622/software-release-using-npm-52l9)
 - [Dev.to/JS] [Getting Started with Jalangi 2](https://dev.to/beltran/getting-started-with-jalangi-2-1a3j)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/astghikaboyan/functions-in-javascript-f1j)
