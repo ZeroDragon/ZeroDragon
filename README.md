@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Godrej Splendour Luxurious Residence In Bangalore](https://dev.to/godrejsplender/godrej-splendour-luxurious-residence-in-bangalore-485p)
 - [Dev.to/JS] [Detecting account sharing and repeated trials in Firebase Auth with Upollo](https://dev.to/stephennancekivell/detecting-account-sharing-and-repeated-trials-in-firebase-auth-with-upollo-38j)
 - [Dev.to/JS] [Code Smell 178 - Subsets Violation](https://dev.to/mcsee/code-smell-178-subsets-violation-1fkc)
 - [Dev.to/JS] [The best Framework Fullstack Node js is Adonis js . No contest](https://dev.to/kodah/the-best-framework-fullstack-node-js-is-adonis-js-no-contest-10nc)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/astghikaboyan/functions-in-javascript-f1j)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Dev.to/JS] [Role-based access in React](https://dev.to/asayerio_techblog/role-based-access-in-react-357a)
-- [Dev.to/JS] [Variables](https://dev.to/astghikaboyan/variables-198k)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
 - [Lifehacker] [10 Things You Should Never Buy in November](https://lifehacker.com/10-things-you-should-never-buy-in-november-1849759842)
