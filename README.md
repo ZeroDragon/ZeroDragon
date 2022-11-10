@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Forget Big Cheese Wedges &lpar;Serve This Pre-Portioned Wreath Instead&rpar;](https://lifehacker.com/forget-big-cheese-wedges-serve-this-pre-portioned-wrea-1849768125)
+- [Lifehacker] [Do This to Avoid &#39;Protein Hunger&#39;](https://lifehacker.com/do-this-to-avoid-protein-hunger-1849768279)
+- [Dev.to/JS] [What and Why: React Server Components in Next.js 13](https://dev.to/thetombomb/what-and-why-react-server-components-in-nextjs-13-1dki)
 - [Lifehacker] [General Motors Is Recalling These SUVs for Faulty Headlights](https://lifehacker.com/general-motors-is-recalling-these-suvs-for-faulty-headl-1849768067)
 - [Dev.to/JS] [Bibliotecas NodeJS incríveis que você não tem ideia que existem](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The super-confusing __proto__ vs prototype in JavaScript DECODED](https://dev.to/geomukkath/the-super-confusing-proto-vs-prototype-in-javascript-decoded-20mk)
 - [Dev.to/JS] [In One Minute : Vue.js](https://dev.to/rakeshkr2/in-one-minute-vuejs-3eam)
 - [Lifehacker] [How to Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
-- [Dev.to/JS] [Sinkchart - open source visualisation tool for your JS dependencies](https://dev.to/sebivaduva/sinkchart-open-source-visualisation-tool-for-your-js-dependencies-ndo)
 - [Lifehacker] [The Best Veterans Day Deals That Aren&#39;t Free Food](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
 - [Lifehacker] [The Best Way to Soften Butter for Baking, Toast, or Anything Else](https://lifehacker.com/the-best-way-to-soften-butter-for-baking-toast-or-any-1849765305)
 - [Lifehacker] [The Signs That Your Finances Aren’t As Bad As You Think](https://lifehacker.com/the-signs-that-your-finances-aren-t-as-bad-as-you-think-1849763526)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the 80% Retirement Rule Is B.S.](https://lifehacker.com/why-the-80-retirement-rule-is-bullshit-1849762139)
 - [Lifehacker] [Do This Instead of Asking for a Cost-of-Living Raise](https://lifehacker.com/do-this-instead-of-asking-for-a-cost-of-living-raise-1849759785)
 - [Lifehacker] [Your Mac Has a Hidden White Noise Generator](https://lifehacker.com/your-mac-has-a-hidden-white-noise-generator-1849760988)
-- [Lifehacker] [Use Smart Folders for These Important Files](https://lifehacker.com/use-smart-folders-for-these-important-files-1849761253)
-- [Lifehacker] [How to Overcome Medical Trauma](https://lifehacker.com/how-to-overcome-medical-trauma-1849760311)
-- [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Smart Folders for These Important Files](https://lifehacker.com/use-smart-folders-for-these-important-files-1849761253)<!-- TECH-POSTS:END -->
 
 ---
 
