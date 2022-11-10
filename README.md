@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Sessions Management and Authentication with Node.js](https://dev.to/asayerio_techblog/understanding-sessions-management-and-authentication-with-nodejs-2l2m)
+- [Dev.to/JS] [All about JavaScript Events](https://dev.to/asayerio_techblog/all-about-javascript-events-alb)
+- [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Dev.to/JS] [Javascript Testing](https://dev.to/lostbutton/javascript-testing-193h)
 - [Dev.to/JS] [How to use FontAwesome in Next.js?](https://dev.to/hardiquedasore/how-to-use-fontawesome-in-nextjs-3o3g)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
@@ -44,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Manage After-School Meltdowns With a Neurodivergent Child](https://lifehacker.com/how-to-manage-after-school-meltdowns-with-a-neurodiverg-1849765644)
 - [Dev.to/JS] [HTML document subtitles?](https://dev.to/diekus/html-document-subtitles-533m)
 - [Lifehacker] [Six Simple Tools Every DIY-er Must Have](https://lifehacker.com/six-simple-tools-every-diy-er-must-have-1849765980)
-- [Dev.to/JS] [Pocketbase, readymade backend within clicks](https://dev.to/fayismahmood/pocketbase-readymade-backend-within-clicks-21hi)
-- [Dev.to/JS] [Top 10 Divjoy Codebase Alternatives – Generators, Templates &amp; Builder Apps](https://dev.to/flatlogic/top-10-divjoy-codebase-alternatives-generators-templates-builder-apps-3hb1)
 - [Lifehacker] [All the Ways You Can Use Pegboards for Home Storage and Decor](https://lifehacker.com/all-the-ways-you-can-use-pegboards-for-home-storage-and-1849765801)
 - [Lifehacker] [Don&#39;t Eat This Recalled Salmon, FDA Says](https://lifehacker.com/dont-eat-this-recalled-salmon-fda-says-1849763208)
 - [Lifehacker] [How to Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)
 - [Lifehacker] [11 Easy Pie Crust Designs That Won&#39;t Drive You Nuts](https://lifehacker.com/11-easy-pie-crust-designs-that-wont-drive-you-nuts-1849762483)
 - [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)
-- [Lifehacker] [You Can Get a Super Cheap Christmas Tree From the Government](https://lifehacker.com/you-can-get-a-super-cheap-christmas-tree-from-the-gover-1849762743)
-- [Lifehacker] [‘Negative Reps’ Aren’t a Weightlifting Cheat Code](https://lifehacker.com/negative-reps-aren-t-a-weightlifting-cheat-code-1849762475)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Super Cheap Christmas Tree From the Government](https://lifehacker.com/you-can-get-a-super-cheap-christmas-tree-from-the-gover-1849762743)<!-- TECH-POSTS:END -->
 
 ---
 
