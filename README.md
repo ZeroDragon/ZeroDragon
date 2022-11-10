@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 178 - Subsets Violation](https://dev.to/mcsee/code-smell-178-subsets-violation-1fkc)
 - [Dev.to/JS] [The best Framework Fullstack Node js is Adonis js . No contest](https://dev.to/kodah/the-best-framework-fullstack-node-js-is-adonis-js-no-contest-10nc)
 - [Dev.to/JS] [Quickly Testing your Custom Spectral Rules](https://dev.to/jordanwalsh23/quickly-testing-your-custom-spectral-rules-1jh0)
 - [Dev.to/JS] [Why forms are necessary in a webpage?](https://dev.to/fisafash/why-forms-are-necessary-in-a-webpage-15n0)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Dev.to/JS] [Role-based access in React](https://dev.to/asayerio_techblog/role-based-access-in-react-357a)
 - [Dev.to/JS] [Variables](https://dev.to/astghikaboyan/variables-198k)
-- [Dev.to/JS] [Functions](https://dev.to/goyafan_33/functions-42m8)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
 - [Lifehacker] [10 Things You Should Never Buy in November](https://lifehacker.com/10-things-you-should-never-buy-in-november-1849759842)
