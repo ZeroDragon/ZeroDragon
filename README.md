@@ -23,10 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Eat This Recalled Salmon, FDA Says](https://lifehacker.com/dont-eat-this-recalled-salmon-fda-says-1849763208)
+- [Dev.to/JS] [In One Minute : Vue.js](https://dev.to/rakeshkr2/in-one-minute-vuejs-3eam)
+- [Lifehacker] [How to Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
+- [Dev.to/JS] [Sinkchart - open source visualisation tool for your JS dependencies](https://dev.to/sebivaduva/sinkchart-open-source-visualisation-tool-for-your-js-dependencies-ndo)
+- [Dev.to/JS] [Web Scraping Google Finance With Node JS](https://dev.to/darshan0_1/web-scraping-google-finance-with-node-js-1ff0)
 - [Lifehacker] [The Best Veterans Day Deals That Aren&#39;t Free Food](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
 - [Dev.to/JS] [Stylify CSS have launched on Product Hunt 🎉](https://dev.to/machy8/stylify-css-have-launched-on-product-hunt-307n)
 - [Lifehacker] [The Best Way to Soften Butter for Baking, Toast, or Anything Else](https://lifehacker.com/the-best-way-to-soften-butter-for-baking-toast-or-any-1849765305)
-- [Dev.to/JS] [GBWhatsApp APK](https://dev.to/gbwhatsappapk01/gbwhatsapp-apk-678)
 - [Lifehacker] [The Signs That Your Finances Aren’t As Bad As You Think](https://lifehacker.com/the-signs-that-your-finances-aren-t-as-bad-as-you-think-1849763526)
 - [Dev.to/JS] [Medusa Webhooks: The Best Technical Project of the Medusa Hackathon](https://dev.to/medusajs/medusa-webhooks-the-best-technical-project-of-the-medusa-hackathon-289a)
 - [Dev.to/JS] [My journey to CTO](https://dev.to/grahammorby/my-journey-to-cto-2ap9)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which is better in MongoDB](https://dev.to/ifeanyichima/which-is-better-in-mongodb-2304)
 - [Dev.to/JS] [Redacting Data in Amazon QLDB](https://dev.to/aws-heroes/redacting-data-in-amazon-qldb-1o06)
 - [Dev.to/JS] [Hi Guy&#39;s](https://dev.to/0ahsan1/hi-guys-2j3j)
-- [Dev.to/JS] [How to set up an Express Server with Typescript and ES6 import statements using Vite](https://dev.to/kevinqtogitty/how-to-set-up-an-express-server-with-typescript-and-es6-import-statements-using-vite-9l6)
-- [Dev.to/JS] [Open Source Highlights: Trends and Insights from GitHub 2022](https://dev.to/ossinsight/open-source-highlights-trends-and-insights-from-github-2022-1ajc)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 Thanksgiving Hacks I Recommend Every Single Year](https://lifehacker.com/17-thanksgiving-hacks-that-will-make-your-holiday-bette-1849758983)
 - [Lifehacker] [Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
 - [Lifehacker] [15 Fun, Free Mobile Games Without Ads](https://lifehacker.com/15-fun-free-mobile-games-without-ads-1849621297)
-- [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)
-- [Lifehacker] [7 Fitness Trends on TikTok That Are Actually Worth Trying](https://lifehacker.com/7-fitness-trends-on-tiktok-that-are-actually-worth-tryi-1849757950)
-- [Lifehacker] [These Are the Dos and Don’ts of Sending a Voice Message](https://lifehacker.com/these-are-the-dos-and-don-ts-of-sending-a-voice-message-1849758508)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Deleted Scenes That Made Their Movies Better](https://lifehacker.com/12-deleted-scenes-that-made-their-movies-better-1849752058)<!-- TECH-POSTS:END -->
 
 ---
 
