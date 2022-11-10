@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Made $30,000 From Writing in 1 Year](https://dev.to/tyaga001/how-i-made-30000-from-writing-in-1-year-4o79)
+- [Dev.to/JS] [Which is better in MongoDB](https://dev.to/ifeanyichima/which-is-better-in-mongodb-2304)
 - [Dev.to/JS] [Redacting Data in Amazon QLDB](https://dev.to/aws-heroes/redacting-data-in-amazon-qldb-1o06)
 - [Dev.to/JS] [Hi Guy&#39;s](https://dev.to/0ahsan1/hi-guys-2j3j)
 - [Dev.to/JS] [How to set up an Express Server with Typescript and ES6 import statements using Vite](https://dev.to/kevinqtogitty/how-to-set-up-an-express-server-with-typescript-and-es6-import-statements-using-vite-9l6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Useful dream for a Programmer](https://dev.to/develop92001047/useful-dream-for-a-programmer-4f0d)
 - [Dev.to/JS] [Godrej Splendour Luxurious Residence In Bangalore](https://dev.to/godrejsplender/godrej-splendour-luxurious-residence-in-bangalore-485p)
 - [Dev.to/JS] [Detecting account sharing and repeated trials in Firebase Auth with Upollo](https://dev.to/stephennancekivell/detecting-account-sharing-and-repeated-trials-in-firebase-auth-with-upollo-38j)
-- [Dev.to/JS] [Code Smell 178 - Subsets Violation](https://dev.to/mcsee/code-smell-178-subsets-violation-1fkc)
-- [Dev.to/JS] [The best Framework Fullstack Node js is Adonis js . No contest](https://dev.to/kodah/the-best-framework-fullstack-node-js-is-adonis-js-no-contest-10nc)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
 - [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
