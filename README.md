@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel Certified + Laravel Partner Organization](https://dev.to/evelyn_francis/laravel-certified-laravel-partner-organization-4j8h)
 - [Dev.to/JS] [26. Leetcode Solution in JavaScript](https://dev.to/chiki1601/26-leetcode-solution-in-javascript-17m6)
 - [Dev.to/JS] [50+ JavaScript Interview Questions](https://dev.to/sandip_bandgar/50-javascript-interview-questions-3oj0)
 - [Dev.to/JS] [2022 – Javascript Array Methods: ForEach&lpar;&rpar;](https://dev.to/musayazlik/2022-javascript-array-methods-foreach-34g1)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Need advice about Video messaging library](https://dev.to/bertholetdamien/need-advice-about-video-messaging-library-1om6)
 - [Dev.to/JS] [Introdução as HOFs - .some&lpar;&rpar; e .every&lpar;&rpar;](https://dev.to/gabrielhsilvestre/introducao-as-hofs-some-e-every-3a3b)
 - [Dev.to/JS] [Where has 1 month of learning how to code have gotten me...](https://dev.to/nomeriodev/where-has-1-month-of-learning-how-to-code-have-gotten-me-4fod)
-- [Dev.to/JS] [Understanding Sessions Management and Authentication with Node.js](https://dev.to/asayerio_techblog/understanding-sessions-management-and-authentication-with-nodejs-2l2m)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
