@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authentication with Firebase and React JS 🔑](https://dev.to/franklin030601/authentication-with-firebase-and-react-js-5a69)
+- [Dev.to/JS] [Autenticación con Firebase y React JS 🔑](https://dev.to/franklin030601/autenticacion-con-firebase-y-react-js-1c6c)
 - [Dev.to/JS] [ECMO Machine Market Trends,Size, Share &amp; Trends, Industry Analysis Report from 2022 to 2030](https://dev.to/jc4504465/ecmo-machine-market-trendssize-share-trends-industry-analysis-report-from-2022-to-2030-10n4)
 - [Dev.to/JS] [Doing the mongodb hackathon](https://dev.to/errorcode0/doing-the-mongodb-hackathon-196a)
 - [Dev.to/JS] [Need advice about Video messaging library](https://dev.to/bertholetdamien/need-advice-about-video-messaging-library-1om6)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Dev.to/JS] [How to Add an Angular Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-an-angular-report-viewer-to-your-web-application-o1b)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
-- [Dev.to/JS] [Pattern lock with js](https://dev.to/olascoworks/pattern-lock-with-js-1cmo)
 - [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)
-- [Dev.to/JS] [Wordle Clone](https://dev.to/brentdalling/wordle-clone-c48)
 - [Lifehacker] [You Should Be Scheduling Your iPhone Updates for Later](https://lifehacker.com/you-should-be-scheduling-your-iphone-updates-for-later-1849768674)
 - [Lifehacker] [Forget Big Cheese Wedges &lpar;Serve This Pre-Portioned Wreath Instead&rpar;](https://lifehacker.com/forget-big-cheese-wedges-serve-this-pre-portioned-wrea-1849768125)
 - [Lifehacker] [Do This to Avoid &#39;Protein Hunger&#39;](https://lifehacker.com/do-this-to-avoid-protein-hunger-1849768279)
