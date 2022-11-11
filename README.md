@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This is my first post](https://dev.to/weited/this-is-my-first-post-3f2i)
+- [Dev.to/JS] [Ordenação rápida - Quick Sort](https://dev.to/dormin/ordenacao-rapida-quick-sort-171f)
+- [Dev.to/JS] [10 string methods you must know as a js beginners](https://dev.to/sifatul/10-must-know-string-manipulation-for-beginners-a87)
+- [Dev.to/JS] [I wanted to learn typescript so I built an npm package](https://dev.to/ahmedgaafer/i-wanted-to-learn-typescript-so-i-built-an-npm-package-58fh)
+- [Dev.to/JS] [Fundamental React Native Components You Need To Know About](https://dev.to/nitinfab/fundamental-react-native-components-you-need-to-know-about-b6k)
+- [Lifehacker] [This Is How Much Salt You Need to Dry Brine a Turkey](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
 - [Dev.to/JS] [How to Make a Responsive Education Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-responsive-education-website-using-html-css-javascript-j15)
+- [Lifehacker] [10 Stealth Thanksgiving Movies](https://lifehacker.com/10-stealth-thanksgiving-movies-1849769620)
 - [Dev.to/JS] [I updated my Portfolio &lpar;based on Feedback&rpar;](https://dev.to/liftoffstudios/i-updated-my-portfolio-based-on-feedback-1e4e)
 - [Lifehacker] [10 Ways to Make Your Kids Less Materialistic During the Holidays](https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779)
 - [Dev.to/JS] [Why TabIndex = &#39;0&#39; in Divs for keyboard events &lpar;onKeydown&rpar; in js ?👨‍🎓](https://dev.to/himanshupal0001/why-tabindex-0-in-divs-for-keyboard-events-onkeydown-in-js--5c7)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML Video with Fullscreen Chat Overlay](https://dev.to/aws/html-video-with-fullscreen-chat-overlay-4jfl)
 - [Dev.to/JS] [Understanding JavaScript Objects: From Basic Concepts to Practical Usage](https://dev.to/salmaab/understanding-javascript-objects-from-basic-concepts-to-practical-usage-3g0c)
 - [Dev.to/JS] [Refactoring A Junior’s React Code - 43% Less Code With A Better Data Structure](https://dev.to/jkettmann/refactoring-a-juniors-react-code-43-less-code-with-a-better-data-structure-eam)
-- [Dev.to/JS] [Infinite Scroll for Vue3. Yet another component.](https://dev.to/vpominchuk/infinite-scroll-for-vue3-yet-another-component-944)
-- [Dev.to/JS] [The top high-demand programming language in 2022](https://dev.to/efezinomaro/the-top-high-demand-programming-language-in-2022-268o)
-- [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-4ed9)
-- [Dev.to/JS] [Lightning web components - How do components talk?](https://dev.to/pvvighnesh/lightning-web-components-how-do-components-talk-1nd3)
-- [Dev.to/JS] [Follow your quit smoking datas](https://dev.to/mkds17/follow-your-quit-smoking-datas-1682)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Things You Should Never Buy in November](https://lifehacker.com/10-things-you-should-never-buy-in-november-1849759842)
 - [Lifehacker] [You Don&#39;t Need Pasta for This Protein-Forward Lasagna](https://lifehacker.com/you-dont-need-pasta-for-this-protein-forward-lasagna-1849763723)
 - [Lifehacker] [You Can Now Use Gmail to Track Your Holiday Packages](https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848)
-- [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)
-- [Lifehacker] [11 Easy Pie Crust Designs That Won&#39;t Drive You Nuts](https://lifehacker.com/11-easy-pie-crust-designs-that-wont-drive-you-nuts-1849762483)
-- [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)<!-- TECH-POSTS:END -->
 
 ---
 
