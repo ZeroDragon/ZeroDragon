@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Ways to Make Your Kids Less Materialistic During the Holidays](https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779)
+- [Dev.to/JS] [Why TabIndex = &#39;0&#39; in Divs for keyboard events &lpar;onKeydown&rpar; in js ?👨‍🎓](https://dev.to/himanshupal0001/why-tabindex-0-in-divs-for-keyboard-events-onkeydown-in-js--5c7)
+- [Dev.to/JS] [Auth0 SDK for Single Page Applications v2.0 released!](https://dev.to/robertinoc_dev/auth0-sdk-for-single-page-applications-v20-released-2jj3)
 - [Dev.to/JS] [HTML Video with Fullscreen Chat Overlay](https://dev.to/aws/html-video-with-fullscreen-chat-overlay-4jfl)
 - [Dev.to/JS] [Understanding JavaScript Objects: From Basic Concepts to Practical Usage](https://dev.to/salmaab/understanding-javascript-objects-from-basic-concepts-to-practical-usage-3g0c)
 - [Dev.to/JS] [Refactoring A Junior’s React Code - 43% Less Code With A Better Data Structure](https://dev.to/jkettmann/refactoring-a-juniors-react-code-43-less-code-with-a-better-data-structure-eam)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Follow your quit smoking datas](https://dev.to/mkds17/follow-your-quit-smoking-datas-1682)
 - [Dev.to/JS] [React hooks: useMemo](https://dev.to/rmmgc/react-hooks-usememo-3o0i)
 - [Dev.to/JS] [Laravel Certified + Laravel Partner Organization](https://dev.to/evelyn_francis/laravel-certified-laravel-partner-organization-4j8h)
-- [Dev.to/JS] [26. Leetcode Solution in JavaScript](https://dev.to/chiki1601/26-leetcode-solution-in-javascript-17m6)
-- [Dev.to/JS] [50+ JavaScript Interview Questions](https://dev.to/sandip_bandgar/50-javascript-interview-questions-3oj0)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Use Gmail to Track Your Holiday Packages](https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848)
 - [Lifehacker] [How to Actually Be Chosen for Jury Duty](https://lifehacker.com/how-to-actually-be-chosen-for-jury-duty-1849763249)
 - [Lifehacker] [11 Easy Pie Crust Designs That Won&#39;t Drive You Nuts](https://lifehacker.com/11-easy-pie-crust-designs-that-wont-drive-you-nuts-1849762483)
-- [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)
-- [Lifehacker] [You Can Get a Super Cheap Christmas Tree From the Government](https://lifehacker.com/you-can-get-a-super-cheap-christmas-tree-from-the-gover-1849762743)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Buy the Wrong Version of &#39;God of War: Ragnarök&#39;](https://lifehacker.com/don-t-buy-the-wrong-version-of-god-of-war-ragnarok-1849762339)<!-- TECH-POSTS:END -->
 
 ---
 
