@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Where has 1 month of learning how to code have gotten me...](https://dev.to/nomeriodev/where-has-1-month-of-learning-how-to-code-have-gotten-me-4fod)
 - [Dev.to/JS] [Understanding Sessions Management and Authentication with Node.js](https://dev.to/asayerio_techblog/understanding-sessions-management-and-authentication-with-nodejs-2l2m)
 - [Dev.to/JS] [All about JavaScript Events](https://dev.to/asayerio_techblog/all-about-javascript-events-alb)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Safari Extensions for Your Mac](https://lifehacker.com/the-best-safari-extensions-for-your-mac-1849766336)
 - [Dev.to/JS] [5 years and I didn&#39;t even thought about it...](https://dev.to/magvin/5-years-and-i-didnt-even-thought-about-it-1pm9)
 - [Lifehacker] [How to Manage After-School Meltdowns With a Neurodivergent Child](https://lifehacker.com/how-to-manage-after-school-meltdowns-with-a-neurodiverg-1849765644)
-- [Dev.to/JS] [HTML document subtitles?](https://dev.to/diekus/html-document-subtitles-533m)
 - [Lifehacker] [Six Simple Tools Every DIY-er Must Have](https://lifehacker.com/six-simple-tools-every-diy-er-must-have-1849765980)
 - [Lifehacker] [All the Ways You Can Use Pegboards for Home Storage and Decor](https://lifehacker.com/all-the-ways-you-can-use-pegboards-for-home-storage-and-1849765801)
 - [Lifehacker] [Don&#39;t Eat This Recalled Salmon, FDA Says](https://lifehacker.com/dont-eat-this-recalled-salmon-fda-says-1849763208)
