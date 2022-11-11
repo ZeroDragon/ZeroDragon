@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript `Satisfies` keyword—New TypeScript 4.9 feature](https://dev.to/tomdohnal/typescript-satifies-keyword-new-typescript-49-feature-42nb)
+- [Lifehacker] [12 Incredibly Niche Podcasts](https://lifehacker.com/12-incredibly-niche-podcasts-1849759822)
 - [Lifehacker] [When to See a Doctor About Your Bad Nighttime Vision](https://lifehacker.com/when-to-see-a-doctor-about-your-bad-nighttime-vision-1849771070)
 - [Dev.to/JS] [This Week @ Grafbase - Nov 11](https://dev.to/grafbase/this-week-grafbase-nov-11-45h6)
 - [Lifehacker] [Don’t Fall for the ‘Pig Butchering’ Scam](https://lifehacker.com/don-t-fall-for-the-pig-butchering-scam-1849769412)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I updated my Portfolio &lpar;based on Feedback&rpar;](https://dev.to/liftoffstudios/i-updated-my-portfolio-based-on-feedback-1e4e)
 - [Lifehacker] [10 Ways to Make Your Kids Less Materialistic During the Holidays](https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779)
 - [Dev.to/JS] [Why TabIndex = &#39;0&#39; in Divs for keyboard events &lpar;onKeydown&rpar; in js ?👨‍🎓](https://dev.to/himanshupal0001/why-tabindex-0-in-divs-for-keyboard-events-onkeydown-in-js--5c7)
-- [Dev.to/JS] [Auth0 SDK for Single Page Applications v2.0 released!](https://dev.to/robertinoc_dev/auth0-sdk-for-single-page-applications-v20-released-2jj3)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Signs That Your Finances Aren’t As Bad As You Think](https://lifehacker.com/the-signs-that-your-finances-aren-t-as-bad-as-you-think-1849763526)
 - [Lifehacker] [Download These Two First-Person Shooter Games for Free on PC Right Now](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
 - [Lifehacker] [10 Ways to Use That Strip of Artificial Turf at the Gym](https://lifehacker.com/10-ways-to-use-that-strip-of-artificial-turf-at-the-gym-1849763922)
-- [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)
-- [Lifehacker] [10 Things You Should Never Buy in November](https://lifehacker.com/10-things-you-should-never-buy-in-november-1849759842)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Don&#39;t You Make Some Cheeseball Mashed Potatoes](https://lifehacker.com/why-dont-you-make-some-cheeseball-mashed-potatoes-1849764378)<!-- TECH-POSTS:END -->
 
 ---
 
