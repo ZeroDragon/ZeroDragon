@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handlebars for Beginners](https://dev.to/akshdesai1/handlebars-for-beginners-150p)
 - [Dev.to/JS] [Authentication with Firebase and React JS 🔑](https://dev.to/franklin030601/authentication-with-firebase-and-react-js-5a69)
 - [Dev.to/JS] [Autenticación con Firebase y React JS 🔑](https://dev.to/franklin030601/autenticacion-con-firebase-y-react-js-1c6c)
 - [Dev.to/JS] [ECMO Machine Market Trends,Size, Share &amp; Trends, Industry Analysis Report from 2022 to 2030](https://dev.to/jc4504465/ecmo-machine-market-trendssize-share-trends-industry-analysis-report-from-2022-to-2030-10n4)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Testing](https://dev.to/lostbutton/javascript-testing-193h)
 - [Dev.to/JS] [How to use FontAwesome in Next.js?](https://dev.to/hardiquedasore/how-to-use-fontawesome-in-nextjs-3o3g)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
-- [Dev.to/JS] [How to Add an Angular Report Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-an-angular-report-viewer-to-your-web-application-o1b)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
 - [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)
 - [Lifehacker] [You Should Be Scheduling Your iPhone Updates for Later](https://lifehacker.com/you-should-be-scheduling-your-iphone-updates-for-later-1849768674)
