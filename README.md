@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML Video with Fullscreen Chat Overlay](https://dev.to/aws/html-video-with-fullscreen-chat-overlay-4jfl)
+- [Dev.to/JS] [Understanding JavaScript Objects: From Basic Concepts to Practical Usage](https://dev.to/salmaab/understanding-javascript-objects-from-basic-concepts-to-practical-usage-3g0c)
+- [Dev.to/JS] [Refactoring A Junior’s React Code - 43% Less Code With A Better Data Structure](https://dev.to/jkettmann/refactoring-a-juniors-react-code-43-less-code-with-a-better-data-structure-eam)
+- [Dev.to/JS] [Infinite Scroll for Vue3. Yet another component.](https://dev.to/vpominchuk/infinite-scroll-for-vue3-yet-another-component-944)
 - [Dev.to/JS] [The top high-demand programming language in 2022](https://dev.to/efezinomaro/the-top-high-demand-programming-language-in-2022-268o)
 - [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-4ed9)
 - [Dev.to/JS] [Lightning web components - How do components talk?](https://dev.to/pvvighnesh/lightning-web-components-how-do-components-talk-1nd3)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Laravel Certified + Laravel Partner Organization](https://dev.to/evelyn_francis/laravel-certified-laravel-partner-organization-4j8h)
 - [Dev.to/JS] [26. Leetcode Solution in JavaScript](https://dev.to/chiki1601/26-leetcode-solution-in-javascript-17m6)
 - [Dev.to/JS] [50+ JavaScript Interview Questions](https://dev.to/sandip_bandgar/50-javascript-interview-questions-3oj0)
-- [Dev.to/JS] [2022 – Javascript Array Methods: ForEach&lpar;&rpar;](https://dev.to/musayazlik/2022-javascript-array-methods-foreach-34g1)
-- [Dev.to/JS] [Handlebars for Beginners](https://dev.to/akshdesai1/handlebars-for-beginners-150p)
-- [Dev.to/JS] [Authentication with Firebase and React JS 🔑](https://dev.to/franklin030601/authentication-with-firebase-and-react-js-5a69)
-- [Dev.to/JS] [Autenticación con Firebase y React JS 🔑](https://dev.to/franklin030601/autenticacion-con-firebase-y-react-js-1c6c)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
