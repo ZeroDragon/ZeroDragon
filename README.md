@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Doing the mongodb hackathon](https://dev.to/errorcode0/doing-the-mongodb-hackathon-196a)
 - [Dev.to/JS] [Need advice about Video messaging library](https://dev.to/bertholetdamien/need-advice-about-video-messaging-library-1om6)
 - [Dev.to/JS] [Introdução as HOFs - .some&lpar;&rpar; e .every&lpar;&rpar;](https://dev.to/gabrielhsilvestre/introducao-as-hofs-some-e-every-3a3b)
 - [Dev.to/JS] [Where has 1 month of learning how to code have gotten me...](https://dev.to/nomeriodev/where-has-1-month-of-learning-how-to-code-have-gotten-me-4fod)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do This to Avoid &#39;Protein Hunger&#39;](https://lifehacker.com/do-this-to-avoid-protein-hunger-1849768279)
 - [Dev.to/JS] [What and Why: React Server Components in Next.js 13](https://dev.to/thetombomb/what-and-why-react-server-components-in-nextjs-13-1dki)
 - [Lifehacker] [General Motors Is Recalling These SUVs for Faulty Headlights](https://lifehacker.com/general-motors-is-recalling-these-suvs-for-faulty-headl-1849768067)
-- [Dev.to/JS] [Bibliotecas NodeJS incríveis que você não tem ideia que existem](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Best Safari Extensions for Your Mac](https://lifehacker.com/the-best-safari-extensions-for-your-mac-1849766336)
 - [Lifehacker] [How to Manage After-School Meltdowns With a Neurodivergent Child](https://lifehacker.com/how-to-manage-after-school-meltdowns-with-a-neurodiverg-1849765644)
