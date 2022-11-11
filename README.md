@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The top high-demand programming language in 2022](https://dev.to/efezinomaro/the-top-high-demand-programming-language-in-2022-268o)
+- [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-4ed9)
+- [Dev.to/JS] [Lightning web components - How do components talk?](https://dev.to/pvvighnesh/lightning-web-components-how-do-components-talk-1nd3)
+- [Dev.to/JS] [Follow your quit smoking datas](https://dev.to/mkds17/follow-your-quit-smoking-datas-1682)
+- [Dev.to/JS] [React hooks: useMemo](https://dev.to/rmmgc/react-hooks-usememo-3o0i)
 - [Dev.to/JS] [Laravel Certified + Laravel Partner Organization](https://dev.to/evelyn_francis/laravel-certified-laravel-partner-organization-4j8h)
 - [Dev.to/JS] [26. Leetcode Solution in JavaScript](https://dev.to/chiki1601/26-leetcode-solution-in-javascript-17m6)
 - [Dev.to/JS] [50+ JavaScript Interview Questions](https://dev.to/sandip_bandgar/50-javascript-interview-questions-3oj0)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handlebars for Beginners](https://dev.to/akshdesai1/handlebars-for-beginners-150p)
 - [Dev.to/JS] [Authentication with Firebase and React JS 🔑](https://dev.to/franklin030601/authentication-with-firebase-and-react-js-5a69)
 - [Dev.to/JS] [Autenticación con Firebase y React JS 🔑](https://dev.to/franklin030601/autenticacion-con-firebase-y-react-js-1c6c)
-- [Dev.to/JS] [ECMO Machine Market Trends,Size, Share &amp; Trends, Industry Analysis Report from 2022 to 2030](https://dev.to/jc4504465/ecmo-machine-market-trendssize-share-trends-industry-analysis-report-from-2022-to-2030-10n4)
-- [Dev.to/JS] [Doing the mongodb hackathon](https://dev.to/errorcode0/doing-the-mongodb-hackathon-196a)
-- [Dev.to/JS] [Need advice about Video messaging library](https://dev.to/bertholetdamien/need-advice-about-video-messaging-library-1om6)
-- [Dev.to/JS] [Introdução as HOFs - .some&lpar;&rpar; e .every&lpar;&rpar;](https://dev.to/gabrielhsilvestre/introducao-as-hofs-some-e-every-3a3b)
-- [Dev.to/JS] [Where has 1 month of learning how to code have gotten me...](https://dev.to/nomeriodev/where-has-1-month-of-learning-how-to-code-have-gotten-me-4fod)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
