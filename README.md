@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [About variables in JavaScript, differences between var, let, const. What are scopes?](https://dev.to/arina_hovhannisyan_36cead/about-variables-in-javascript-differences-between-var-let-const-what-are-scopes-3ipa)
+- [Lifehacker] [How to Fix PS5 Stick Drift](https://lifehacker.com/how-to-fix-ps5-stick-drift-1849773700)
+- [Dev.to/JS] [Exit Intent Pop-Up &amp; How to Publish on NPM - Vue 3](https://dev.to/nickap/exit-intent-pop-up-how-to-publish-on-npm-vue-3-3bhm)
 - [Lifehacker] [Do This Instead of Keeping Your Phone Out of Your Bedroom at Night](https://lifehacker.com/do-this-instead-of-keeping-your-phone-out-of-your-bedro-1849773354)
 - [Lifehacker] [Plastic Wrap Is Your Best Travel Accessory](https://lifehacker.com/plastic-wrap-is-your-best-travel-accessory-1849773228)
 - [Dev.to/JS] [Javascript Map Vs Object | How to use | When to use Map / Object](https://dev.to/sacesta/javascript-map-vs-object-how-to-use-when-to-use-map-object-4bcf)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This is my first post](https://dev.to/weited/this-is-my-first-post-3f2i)
 - [Dev.to/JS] [Ordenação rápida - Quick Sort](https://dev.to/dormin/ordenacao-rapida-quick-sort-171f)
 - [Dev.to/JS] [10 string methods you must know as a js beginners](https://dev.to/sifatul/10-must-know-string-manipulation-for-beginners-a87)
-- [Dev.to/JS] [I wanted to learn typescript so I built an npm package](https://dev.to/ahmedgaafer/i-wanted-to-learn-typescript-so-i-built-an-npm-package-58fh)
-- [Dev.to/JS] [Fundamental React Native Components You Need To Know About](https://dev.to/nitinfab/fundamental-react-native-components-you-need-to-know-about-b6k)
 - [Lifehacker] [This Is How Much Salt You Need to Dry Brine a Turkey](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
 - [Lifehacker] [10 Stealth Thanksgiving Movies](https://lifehacker.com/10-stealth-thanksgiving-movies-1849769620)
 - [Lifehacker] [10 Ways to Make Your Kids Less Materialistic During the Holidays](https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Manage After-School Meltdowns With a Neurodivergent Child](https://lifehacker.com/how-to-manage-after-school-meltdowns-with-a-neurodiverg-1849765644)
 - [Lifehacker] [Six Simple Tools Every DIY-er Must Have](https://lifehacker.com/six-simple-tools-every-diy-er-must-have-1849765980)
 - [Lifehacker] [All the Ways You Can Use Pegboards for Home Storage and Decor](https://lifehacker.com/all-the-ways-you-can-use-pegboards-for-home-storage-and-1849765801)
-- [Lifehacker] [Don&#39;t Eat This Recalled Salmon, FDA Says](https://lifehacker.com/dont-eat-this-recalled-salmon-fda-says-1849763208)
-- [Lifehacker] [How to Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Eat This Recalled Salmon, FDA Says](https://lifehacker.com/dont-eat-this-recalled-salmon-fda-says-1849763208)<!-- TECH-POSTS:END -->
 
 ---
 
