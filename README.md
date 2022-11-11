@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [26. Leetcode Solution in JavaScript](https://dev.to/chiki1601/26-leetcode-solution-in-javascript-17m6)
+- [Dev.to/JS] [50+ JavaScript Interview Questions](https://dev.to/sandip_bandgar/50-javascript-interview-questions-3oj0)
+- [Dev.to/JS] [2022 – Javascript Array Methods: ForEach&lpar;&rpar;](https://dev.to/musayazlik/2022-javascript-array-methods-foreach-34g1)
 - [Dev.to/JS] [Handlebars for Beginners](https://dev.to/akshdesai1/handlebars-for-beginners-150p)
 - [Dev.to/JS] [Authentication with Firebase and React JS 🔑](https://dev.to/franklin030601/authentication-with-firebase-and-react-js-5a69)
 - [Dev.to/JS] [Autenticación con Firebase y React JS 🔑](https://dev.to/franklin030601/autenticacion-con-firebase-y-react-js-1c6c)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introdução as HOFs - .some&lpar;&rpar; e .every&lpar;&rpar;](https://dev.to/gabrielhsilvestre/introducao-as-hofs-some-e-every-3a3b)
 - [Dev.to/JS] [Where has 1 month of learning how to code have gotten me...](https://dev.to/nomeriodev/where-has-1-month-of-learning-how-to-code-have-gotten-me-4fod)
 - [Dev.to/JS] [Understanding Sessions Management and Authentication with Node.js](https://dev.to/asayerio_techblog/understanding-sessions-management-and-authentication-with-nodejs-2l2m)
-- [Dev.to/JS] [All about JavaScript Events](https://dev.to/asayerio_techblog/all-about-javascript-events-alb)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
-- [Dev.to/JS] [Javascript Testing](https://dev.to/lostbutton/javascript-testing-193h)
-- [Dev.to/JS] [How to use FontAwesome in Next.js?](https://dev.to/hardiquedasore/how-to-use-fontawesome-in-nextjs-3o3g)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
 - [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)
