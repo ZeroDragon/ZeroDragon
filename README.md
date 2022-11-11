@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need advice about Video messaging library](https://dev.to/bertholetdamien/need-advice-about-video-messaging-library-1om6)
 - [Dev.to/JS] [Introdução as HOFs - .some&lpar;&rpar; e .every&lpar;&rpar;](https://dev.to/gabrielhsilvestre/introducao-as-hofs-some-e-every-3a3b)
 - [Dev.to/JS] [Where has 1 month of learning how to code have gotten me...](https://dev.to/nomeriodev/where-has-1-month-of-learning-how-to-code-have-gotten-me-4fod)
 - [Dev.to/JS] [Understanding Sessions Management and Authentication with Node.js](https://dev.to/asayerio_techblog/understanding-sessions-management-and-authentication-with-nodejs-2l2m)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [General Motors Is Recalling These SUVs for Faulty Headlights](https://lifehacker.com/general-motors-is-recalling-these-suvs-for-faulty-headl-1849768067)
 - [Dev.to/JS] [Bibliotecas NodeJS incríveis que você não tem ideia que existem](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
-- [Dev.to/JS] [Composable vs. Modular frontends and how they work together](https://dev.to/richkurtzman/composable-vs-modular-frontends-and-how-they-work-together-4dld)
 - [Lifehacker] [The Best Safari Extensions for Your Mac](https://lifehacker.com/the-best-safari-extensions-for-your-mac-1849766336)
 - [Lifehacker] [How to Manage After-School Meltdowns With a Neurodivergent Child](https://lifehacker.com/how-to-manage-after-school-meltdowns-with-a-neurodiverg-1849765644)
 - [Lifehacker] [Six Simple Tools Every DIY-er Must Have](https://lifehacker.com/six-simple-tools-every-diy-er-must-have-1849765980)
