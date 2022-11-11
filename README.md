@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make a Responsive Education Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-responsive-education-website-using-html-css-javascript-j15)
+- [Dev.to/JS] [I updated my Portfolio &lpar;based on Feedback&rpar;](https://dev.to/liftoffstudios/i-updated-my-portfolio-based-on-feedback-1e4e)
 - [Lifehacker] [10 Ways to Make Your Kids Less Materialistic During the Holidays](https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779)
 - [Dev.to/JS] [Why TabIndex = &#39;0&#39; in Divs for keyboard events &lpar;onKeydown&rpar; in js ?👨‍🎓](https://dev.to/himanshupal0001/why-tabindex-0-in-divs-for-keyboard-events-onkeydown-in-js--5c7)
 - [Dev.to/JS] [Auth0 SDK for Single Page Applications v2.0 released!](https://dev.to/robertinoc_dev/auth0-sdk-for-single-page-applications-v20-released-2jj3)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-4ed9)
 - [Dev.to/JS] [Lightning web components - How do components talk?](https://dev.to/pvvighnesh/lightning-web-components-how-do-components-talk-1nd3)
 - [Dev.to/JS] [Follow your quit smoking datas](https://dev.to/mkds17/follow-your-quit-smoking-datas-1682)
-- [Dev.to/JS] [React hooks: useMemo](https://dev.to/rmmgc/react-hooks-usememo-3o0i)
-- [Dev.to/JS] [Laravel Certified + Laravel Partner Organization](https://dev.to/evelyn_francis/laravel-certified-laravel-partner-organization-4j8h)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
