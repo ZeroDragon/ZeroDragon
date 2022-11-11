@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Do This Instead of Keeping Your Phone Out of Your Bedroom at Night](https://lifehacker.com/do-this-instead-of-keeping-your-phone-out-of-your-bedro-1849773354)
+- [Lifehacker] [Plastic Wrap Is Your Best Travel Accessory](https://lifehacker.com/plastic-wrap-is-your-best-travel-accessory-1849773228)
+- [Dev.to/JS] [Javascript Map Vs Object | How to use | When to use Map / Object](https://dev.to/sacesta/javascript-map-vs-object-how-to-use-when-to-use-map-object-4bcf)
+- [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)
 - [Lifehacker] [Why You Should Update &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; on Day One](https://lifehacker.com/why-you-should-update-pokemon-scarlet-and-violet-on-day-1849772911)
 - [Dev.to/JS] [Role of CSS in form validation](https://dev.to/urstrulyvishwak/part-of-css-in-form-validation-535g)
 - [Lifehacker] [You Need a New Admin Account on Your Mac](https://lifehacker.com/you-need-a-new-admin-account-on-your-mac-1849772119)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I wanted to learn typescript so I built an npm package](https://dev.to/ahmedgaafer/i-wanted-to-learn-typescript-so-i-built-an-npm-package-58fh)
 - [Dev.to/JS] [Fundamental React Native Components You Need To Know About](https://dev.to/nitinfab/fundamental-react-native-components-you-need-to-know-about-b6k)
 - [Lifehacker] [This Is How Much Salt You Need to Dry Brine a Turkey](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
-- [Dev.to/JS] [How to Make a Responsive Education Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-responsive-education-website-using-html-css-javascript-j15)
 - [Lifehacker] [10 Stealth Thanksgiving Movies](https://lifehacker.com/10-stealth-thanksgiving-movies-1849769620)
 - [Lifehacker] [10 Ways to Make Your Kids Less Materialistic During the Holidays](https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Simple Tools Every DIY-er Must Have](https://lifehacker.com/six-simple-tools-every-diy-er-must-have-1849765980)
 - [Lifehacker] [All the Ways You Can Use Pegboards for Home Storage and Decor](https://lifehacker.com/all-the-ways-you-can-use-pegboards-for-home-storage-and-1849765801)
 - [Lifehacker] [Don&#39;t Eat This Recalled Salmon, FDA Says](https://lifehacker.com/dont-eat-this-recalled-salmon-fda-says-1849763208)
-- [Lifehacker] [How to Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
-- [Lifehacker] [The Best Veterans Day Deals That Aren&#39;t Free Food](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
-- [Lifehacker] [The Best Way to Soften Butter for Baking, Toast, or Anything Else](https://lifehacker.com/the-best-way-to-soften-butter-for-baking-toast-or-any-1849765305)
-- [Lifehacker] [The Signs That Your Finances Aren’t As Bad As You Think](https://lifehacker.com/the-signs-that-your-finances-aren-t-as-bad-as-you-think-1849763526)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)<!-- TECH-POSTS:END -->
 
 ---
 
