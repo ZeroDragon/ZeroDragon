@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Send Mail using nodemailer in node js ?](https://dev.to/akshdesai1/how-to-send-mail-using-nodemailer-in-node-js--ifb)
+- [Dev.to/JS] [2 Solutions for Unexpected token “u” in JSON at position 0](https://dev.to/clebermasters/2-solutions-for-unexpected-token-u-in-json-at-position-0-2icf)
+- [Dev.to/JS] [My Experience With Scrimba!](https://dev.to/aditiintechk/my-experience-with-scrimba-8e8)
+- [Dev.to/JS] [How to use Babel&#39;s new addExternalDependency API](https://dev.to/goatandsheep/how-to-use-babels-new-addexternaldependency-api-338h)
 - [Dev.to/JS] [Write test cases in JS](https://dev.to/nehasoni988/write-test-cases-in-js-2mll)
 - [Dev.to/JS] [Slide in images on scroll using RxJS and Angular](https://dev.to/railsstudent/slide-in-images-on-scroll-using-rxjs-and-angular-c7e)
 - [Dev.to/JS] [Functions](https://dev.to/calebmccoy04/functions-o88)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
 - [Lifehacker] [Ford Recalls 47,000 SUVs for Faulty Backup Cameras](https://lifehacker.com/ford-recalls-47-000-suvs-for-faulty-backup-cameras-1849773797)
-- [Dev.to/JS] [About functions in JavaScript, what are functions, the correct way of using them.](https://dev.to/arina_hovhannisyan_36cead/about-functions-in-javascript-what-are-functions-the-correct-way-of-using-them-4fhf)
-- [Dev.to/JS] [About variables in JavaScript, differences between var, let, const. What are scopes?](https://dev.to/arina_hovhannisyan_36cead/about-variables-in-javascript-differences-between-var-let-const-what-are-scopes-3ipa)
-- [Dev.to/JS] [Bun was 16 times faster than Python in WebSockets, but not anymore!](https://dev.to/cirospaciari/bun-was-16-times-faster-than-python-in-websockets-but-not-anymore-og5)
 - [Lifehacker] [How to Fix PS5 Stick Drift](https://lifehacker.com/how-to-fix-ps5-stick-drift-1849773700)
-- [Dev.to/JS] [Exit Intent Pop-Up &amp; How to Publish on NPM - Vue 3](https://dev.to/nickap/exit-intent-pop-up-how-to-publish-on-npm-vue-3-3bhm)
 - [Lifehacker] [Do This Instead of Keeping Your Phone Out of Your Bedroom at Night](https://lifehacker.com/do-this-instead-of-keeping-your-phone-out-of-your-bedro-1849773354)
 - [Lifehacker] [Plastic Wrap Is Your Best Travel Accessory](https://lifehacker.com/plastic-wrap-is-your-best-travel-accessory-1849773228)
 - [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)
