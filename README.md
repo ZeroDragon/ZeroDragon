@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Your Business Needs a Mobile eCommerce App](https://dev.to/zoyascoot/why-your-business-needs-a-mobile-ecommerce-app-bc4)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;12-11-2022&rpar; - Magic Money All The Way Down](https://dev.to/mjgs/this-weeks-newsletter-is-out-12-11-2022-magic-money-all-the-way-down-5dfo)
 - [Dev.to/JS] [How to Send Mail using nodemailer in node js ?](https://dev.to/akshdesai1/how-to-send-mail-using-nodemailer-in-node-js--ifb)
 - [Dev.to/JS] [2 Solutions for Unexpected token “u” in JSON at position 0](https://dev.to/clebermasters/2-solutions-for-unexpected-token-u-in-json-at-position-0-2icf)
 - [Dev.to/JS] [My Experience With Scrimba!](https://dev.to/aditiintechk/my-experience-with-scrimba-8e8)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Download Videos from AWS S3 Using NodeJS](https://dev.to/benank/download-videos-from-aws-s3-using-nodejs-2glm)
 - [Dev.to/JS] [Using Array Iterator Methods on Colors to Create a Map&lpar;&rpar; forEach&lpar;&rpar; Rainbow](https://dev.to/chukwuma1976/using-array-iterator-methods-on-colors-to-create-a-map-foreach-rainbow-1cji)
 - [Dev.to/JS] [How To Configure ESLint &amp; Prettier in React PJ](https://dev.to/smgcknt/how-to-configure-eslint-prettier-in-react-pj-2ogj)
-- [Dev.to/JS] [The Rising Coder - Week 11/13 &lpar;Project Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1113-project-week-13-20hi)
-- [Dev.to/JS] [Submit a Static Website Form with Cloudflare Workers](https://dev.to/mattferderer/submit-a-static-website-form-with-cloudflare-workers-27hk)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
 - [Lifehacker] [Ford Recalls 47,000 SUVs for Faulty Backup Cameras](https://lifehacker.com/ford-recalls-47-000-suvs-for-faulty-backup-cameras-1849773797)
