@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [03.06 - State &amp; Props - Send User List data through multiple components &lpar;functional components&rpar;](https://dev.to/adriangheo/0306-state-props-send-user-list-data-through-multiple-components-functional-components-3pc7)
+- [Dev.to/JS] [03.05 - State &amp; Props - Send User List data through multiple components &lpar;class components&rpar;](https://dev.to/adriangheo/0305-state-props-send-user-list-data-through-multiple-components-class-components-20di)
 - [Dev.to/JS] [Why Your Business Needs a Mobile eCommerce App](https://dev.to/zoyascoot/why-your-business-needs-a-mobile-ecommerce-app-bc4)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;12-11-2022&rpar; - Magic Money All The Way Down](https://dev.to/mjgs/this-weeks-newsletter-is-out-12-11-2022-magic-money-all-the-way-down-5dfo)
 - [Dev.to/JS] [How to Send Mail using nodemailer in node js ?](https://dev.to/akshdesai1/how-to-send-mail-using-nodemailer-in-node-js--ifb)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions](https://dev.to/calebmccoy04/functions-o88)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Dev.to/JS] [Download Videos from AWS S3 Using NodeJS](https://dev.to/benank/download-videos-from-aws-s3-using-nodejs-2glm)
-- [Dev.to/JS] [Using Array Iterator Methods on Colors to Create a Map&lpar;&rpar; forEach&lpar;&rpar; Rainbow](https://dev.to/chukwuma1976/using-array-iterator-methods-on-colors-to-create-a-map-foreach-rainbow-1cji)
-- [Dev.to/JS] [How To Configure ESLint &amp; Prettier in React PJ](https://dev.to/smgcknt/how-to-configure-eslint-prettier-in-react-pj-2ogj)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
 - [Lifehacker] [Ford Recalls 47,000 SUVs for Faulty Backup Cameras](https://lifehacker.com/ford-recalls-47-000-suvs-for-faulty-backup-cameras-1849773797)
