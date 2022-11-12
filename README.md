@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Array Iterator Methods on Colors to Create a Map&lpar;&rpar; forEach&lpar;&rpar; Rainbow](https://dev.to/chukwuma1976/using-array-iterator-methods-on-colors-to-create-a-map-foreach-rainbow-1cji)
+- [Dev.to/JS] [How To Configure ESLint &amp; Prettier in React PJ](https://dev.to/smgcknt/how-to-configure-eslint-prettier-in-react-pj-2ogj)
 - [Dev.to/JS] [The Rising Coder - Week 11/13 &lpar;Project Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1113-project-week-13-20hi)
 - [Dev.to/JS] [Submit a Static Website Form with Cloudflare Workers](https://dev.to/mattferderer/submit-a-static-website-form-with-cloudflare-workers-27hk)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
@@ -45,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript `Satisfies` keyword—New TypeScript 4.9 feature](https://dev.to/tomdohnal/typescript-satifies-keyword-new-typescript-49-feature-42nb)
 - [Lifehacker] [12 Incredibly Niche Podcasts](https://lifehacker.com/12-incredibly-niche-podcasts-1849759822)
 - [Lifehacker] [When to See a Doctor About Your Bad Nighttime Vision](https://lifehacker.com/when-to-see-a-doctor-about-your-bad-nighttime-vision-1849771070)
-- [Dev.to/JS] [This Week @ Grafbase - Nov 11](https://dev.to/grafbase/this-week-grafbase-nov-11-45h6)
 - [Lifehacker] [Don’t Fall for the ‘Pig Butchering’ Scam](https://lifehacker.com/don-t-fall-for-the-pig-butchering-scam-1849769412)
-- [Dev.to/JS] [Sum of Root To Leaf Binary Numbers](https://dev.to/zeeshanali0704/sum-of-root-to-leaf-binary-numbers-3jki)
 - [Lifehacker] [11 Ways to Set Up a More Effective Study Space](https://lifehacker.com/11-ways-to-set-up-a-more-effective-study-space-1849769797)
 - [Lifehacker] [This Is How Much Salt You Need to Dry Brine a Turkey](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
 - [Lifehacker] [10 Stealth Thanksgiving Movies](https://lifehacker.com/10-stealth-thanksgiving-movies-1849769620)
