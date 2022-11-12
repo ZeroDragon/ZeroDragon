@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Render React with express.js together](https://dev.to/shuhaibzahir/how-to-render-react-with-expressjs-together-2a8h)
+- [Dev.to/JS] [React projects in resume](https://dev.to/vikramadityaraja/react-projects-in-resume-gh2)
+- [Dev.to/JS] [Exploring Typescript Shortly](https://dev.to/mahin678/exploring-typescript-shortly-de)
+- [Dev.to/JS] [Atlas Hackathon22: Space Talks &lpar;A MERN Web App&rpar;](https://dev.to/yashkapure06/atlas-hackathon22-space-talks-a-mern-web-app-3fgo)
 - [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/abirbhattacharya82/mongodb-atlas-hackathon-2022-on-dev-c3k)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Dev.to/JS] [Where To Host Your Applications/Websites For Free🤑](https://dev.to/raghavmri/where-to-host-your-applicationswebsites-for-free-kd5)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Opening Developer Tools on Chrome, Opera, Firefox &amp; Microsoft Edge](https://dev.to/niza/opening-developer-tools-on-chrome-opera-firefox-microsoft-edge-kgg)
 - [Dev.to/JS] [Easily generate color shades &amp; tints with this tool](https://dev.to/imahmoud/easily-generate-color-shades-tints-with-this-tool-492n)
 - [Dev.to/JS] [In One Minute : TypeScript](https://dev.to/rakeshkr2/in-one-minute-typescript-4k0)
-- [Dev.to/JS] [Intro to Node.JS for Beginners - faheem_khan_dev](https://dev.to/knowledgefromtwitter/intro-to-nodejs-for-beginners-faheemkhandev-3h8a)
-- [Dev.to/JS] [[Pixi.js] Simple fade-in and fade-out effects for Sprites](https://dev.to/chiunhau/pixijs-simple-fade-in-and-fade-out-effects-for-sprites-4pie)
-- [Dev.to/JS] [Create your first API with AWS lambda and Node](https://dev.to/ckmonish2000/create-your-first-api-with-aws-lambda-and-node-3hnp)
-- [Dev.to/JS] [03.06 - State &amp; Props - Send User List data through multiple components &lpar;functional components&rpar;](https://dev.to/adriangheo/0306-state-props-send-user-list-data-through-multiple-components-functional-components-3pc7)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
