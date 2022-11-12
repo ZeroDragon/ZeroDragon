@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Slide in images on scroll using RxJS and Angular](https://dev.to/railsstudent/slide-in-images-on-scroll-using-rxjs-and-angular-c7e)
 - [Dev.to/JS] [Functions](https://dev.to/calebmccoy04/functions-o88)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Dev.to/JS] [Download Videos from AWS S3 Using NodeJS](https://dev.to/benank/download-videos-from-aws-s3-using-nodejs-2glm)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Map Vs Object | How to use | When to use Map / Object](https://dev.to/sacesta/javascript-map-vs-object-how-to-use-when-to-use-map-object-4bcf)
 - [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)
 - [Lifehacker] [Why You Should Update &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; on Day One](https://lifehacker.com/why-you-should-update-pokemon-scarlet-and-violet-on-day-1849772911)
-- [Dev.to/JS] [Role of CSS in form validation](https://dev.to/urstrulyvishwak/part-of-css-in-form-validation-535g)
 - [Lifehacker] [You Need a New Admin Account on Your Mac](https://lifehacker.com/you-need-a-new-admin-account-on-your-mac-1849772119)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What&#39;s the Pizza Robot?](https://lifehacker.com/what-is-the-pizza-robot-1849773091)
 - [Lifehacker] [12 Incredibly Niche Podcasts](https://lifehacker.com/12-incredibly-niche-podcasts-1849759822)
