@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/abirbhattacharya82/mongodb-atlas-hackathon-2022-on-dev-c3k)
+- [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Dev.to/JS] [Where To Host Your Applications/Websites For Free🤑](https://dev.to/raghavmri/where-to-host-your-applicationswebsites-for-free-kd5)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
 - [Dev.to/JS] [Day36 of #100DaysOfCode](https://dev.to/yoot/day36-of-100daysofcode-f2m)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Pixi.js] Simple fade-in and fade-out effects for Sprites](https://dev.to/chiunhau/pixijs-simple-fade-in-and-fade-out-effects-for-sprites-4pie)
 - [Dev.to/JS] [Create your first API with AWS lambda and Node](https://dev.to/ckmonish2000/create-your-first-api-with-aws-lambda-and-node-3hnp)
 - [Dev.to/JS] [03.06 - State &amp; Props - Send User List data through multiple components &lpar;functional components&rpar;](https://dev.to/adriangheo/0306-state-props-send-user-list-data-through-multiple-components-functional-components-3pc7)
-- [Dev.to/JS] [03.05 - State &amp; Props - Send User List data through multiple components &lpar;class components&rpar;](https://dev.to/adriangheo/0305-state-props-send-user-list-data-through-multiple-components-class-components-20di)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be Scheduling Your iPhone Updates for Later](https://lifehacker.com/you-should-be-scheduling-your-iphone-updates-for-later-1849768674)
 - [Lifehacker] [Forget Big Cheese Wedges &lpar;Serve This Pre-Portioned Wreath Instead&rpar;](https://lifehacker.com/forget-big-cheese-wedges-serve-this-pre-portioned-wrea-1849768125)
 - [Lifehacker] [Do This to Avoid &#39;Protein Hunger&#39;](https://lifehacker.com/do-this-to-avoid-protein-hunger-1849768279)
-- [Lifehacker] [General Motors Is Recalling These SUVs for Faulty Headlights](https://lifehacker.com/general-motors-is-recalling-these-suvs-for-faulty-headl-1849768067)
-- [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)<!-- TECH-POSTS:END -->
+- [Lifehacker] [General Motors Is Recalling These SUVs for Faulty Headlights](https://lifehacker.com/general-motors-is-recalling-these-suvs-for-faulty-headl-1849768067)<!-- TECH-POSTS:END -->
 
 ---
 
