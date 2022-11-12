@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
 - [Dev.to/JS] [Day36 of #100DaysOfCode](https://dev.to/yoot/day36-of-100daysofcode-f2m)
 - [Dev.to/JS] [try this guys, When Handle large no of data&#39;s instead of for use the for of method](https://dev.to/devapraveen/try-this-guys-when-handle-large-no-of-datas-instead-of-for-use-the-for-of-method-3hpo)
 - [Dev.to/JS] [Checking if a file or a directory exists in node js](https://dev.to/akshdesai1/checking-if-a-file-or-a-directory-exists-in-node-js-12ci)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Forget Big Cheese Wedges &lpar;Serve This Pre-Portioned Wreath Instead&rpar;](https://lifehacker.com/forget-big-cheese-wedges-serve-this-pre-portioned-wrea-1849768125)
 - [Lifehacker] [Do This to Avoid &#39;Protein Hunger&#39;](https://lifehacker.com/do-this-to-avoid-protein-hunger-1849768279)
 - [Lifehacker] [General Motors Is Recalling These SUVs for Faulty Headlights](https://lifehacker.com/general-motors-is-recalling-these-suvs-for-faulty-headl-1849768067)
-- [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
-- [Lifehacker] [The Best Safari Extensions for Your Mac](https://lifehacker.com/the-best-safari-extensions-for-your-mac-1849766336)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)<!-- TECH-POSTS:END -->
 
 ---
 
