@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Write test cases in JS](https://dev.to/nehasoni988/write-test-cases-in-js-2mll)
 - [Dev.to/JS] [Slide in images on scroll using RxJS and Angular](https://dev.to/railsstudent/slide-in-images-on-scroll-using-rxjs-and-angular-c7e)
 - [Dev.to/JS] [Functions](https://dev.to/calebmccoy04/functions-o88)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exit Intent Pop-Up &amp; How to Publish on NPM - Vue 3](https://dev.to/nickap/exit-intent-pop-up-how-to-publish-on-npm-vue-3-3bhm)
 - [Lifehacker] [Do This Instead of Keeping Your Phone Out of Your Bedroom at Night](https://lifehacker.com/do-this-instead-of-keeping-your-phone-out-of-your-bedro-1849773354)
 - [Lifehacker] [Plastic Wrap Is Your Best Travel Accessory](https://lifehacker.com/plastic-wrap-is-your-best-travel-accessory-1849773228)
-- [Dev.to/JS] [Javascript Map Vs Object | How to use | When to use Map / Object](https://dev.to/sacesta/javascript-map-vs-object-how-to-use-when-to-use-map-object-4bcf)
 - [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)
 - [Lifehacker] [Why You Should Update &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; on Day One](https://lifehacker.com/why-you-should-update-pokemon-scarlet-and-violet-on-day-1849772911)
 - [Lifehacker] [You Need a New Admin Account on Your Mac](https://lifehacker.com/you-need-a-new-admin-account-on-your-mac-1849772119)
