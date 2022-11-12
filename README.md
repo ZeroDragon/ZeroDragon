@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lpar;Array Methods Part 2&rpar; What are Accessor Methods?](https://dev.to/michaelvinidev/what-are-accessor-methods-2hp1)
+- [Dev.to/JS] [5 Front End Interview Coding Exercises Part 1](https://dev.to/lucvankerkvoort/5-front-end-interview-coding-exercises-part-1-1ld3)
 - [Dev.to/JS] [VueJs Beginners part 4 - Component 2](https://dev.to/hshoja/vuejs-beginners-part-4-component-2-315g)
 - [Dev.to/JS] [Text Message and Email Notifications when a user Joins Chat](https://dev.to/alakkadshaw/text-message-and-email-notifications-when-a-user-joins-chat-2pfp)
 - [Dev.to/JS] [How To Build A Progressive Web Application in 2022](https://dev.to/cozybeatz/how-to-build-a-progressive-web-application-in-2022-42a4)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React projects in resume](https://dev.to/vikramadityaraja/react-projects-in-resume-gh2)
 - [Dev.to/JS] [Exploring Typescript Shortly](https://dev.to/mahin678/exploring-typescript-shortly-de)
 - [Dev.to/JS] [Atlas Hackathon22: Space Talks &lpar;A MERN Web App&rpar;](https://dev.to/yashkapure06/atlas-hackathon22-space-talks-a-mern-web-app-3fgo)
-- [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/abirbhattacharya82/mongodb-atlas-hackathon-2022-on-dev-c3k)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
-- [Dev.to/JS] [Where To Host Your Applications/Websites For Free🤑](https://dev.to/raghavmri/where-to-host-your-applicationswebsites-for-free-kd5)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
