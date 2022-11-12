@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Text Message and Email Notifications when a user Joins Chat](https://dev.to/alakkadshaw/text-message-and-email-notifications-when-a-user-joins-chat-2pfp)
+- [Dev.to/JS] [How To Build A Progressive Web Application in 2022](https://dev.to/cozybeatz/how-to-build-a-progressive-web-application-in-2022-42a4)
 - [Dev.to/JS] [Gatsby.js 101](https://dev.to/codelikeagirl29/gatsbyjs-101-4b3o)
 - [Dev.to/JS] [Top 9 Javascript Resources For Beginners](https://dev.to/joshhortt/top-9-javascript-resources-for-beginners-5084)
 - [Dev.to/JS] [Better call &lt;Saul&gt; Generator](https://dev.to/oryam/better-call-generator-8di)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Where To Host Your Applications/Websites For Free🤑](https://dev.to/raghavmri/where-to-host-your-applicationswebsites-for-free-kd5)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
 - [Dev.to/JS] [Day36 of #100DaysOfCode](https://dev.to/yoot/day36-of-100daysofcode-f2m)
-- [Dev.to/JS] [try this guys, When Handle large no of data&#39;s instead of for use the for of method](https://dev.to/devapraveen/try-this-guys-when-handle-large-no-of-datas-instead-of-for-use-the-for-of-method-3hpo)
-- [Dev.to/JS] [Checking if a file or a directory exists in node js](https://dev.to/akshdesai1/checking-if-a-file-or-a-directory-exists-in-node-js-12ci)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
