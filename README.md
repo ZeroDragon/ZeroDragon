@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Checking if a file or a directory exists in node js](https://dev.to/akshdesai1/checking-if-a-file-or-a-directory-exists-in-node-js-12ci)
+- [Dev.to/JS] [Opening Developer Tools on Chrome, Opera, Firefox &amp; Microsoft Edge](https://dev.to/niza/opening-developer-tools-on-chrome-opera-firefox-microsoft-edge-kgg)
+- [Dev.to/JS] [Easily generate color shades &amp; tints with this tool](https://dev.to/imahmoud/easily-generate-color-shades-tints-with-this-tool-492n)
 - [Dev.to/JS] [In One Minute : TypeScript](https://dev.to/rakeshkr2/in-one-minute-typescript-4k0)
 - [Dev.to/JS] [Intro to Node.JS for Beginners - faheem_khan_dev](https://dev.to/knowledgefromtwitter/intro-to-nodejs-for-beginners-faheemkhandev-3h8a)
 - [Dev.to/JS] [[Pixi.js] Simple fade-in and fade-out effects for Sprites](https://dev.to/chiunhau/pixijs-simple-fade-in-and-fade-out-effects-for-sprites-4pie)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Your Business Needs a Mobile eCommerce App](https://dev.to/zoyascoot/why-your-business-needs-a-mobile-ecommerce-app-bc4)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;12-11-2022&rpar; - Magic Money All The Way Down](https://dev.to/mjgs/this-weeks-newsletter-is-out-12-11-2022-magic-money-all-the-way-down-5dfo)
 - [Dev.to/JS] [How to Send Mail using nodemailer in node js ?](https://dev.to/akshdesai1/how-to-send-mail-using-nodemailer-in-node-js--ifb)
-- [Dev.to/JS] [2 Solutions for Unexpected token “u” in JSON at position 0](https://dev.to/clebermasters/2-solutions-for-unexpected-token-u-in-json-at-position-0-2icf)
-- [Dev.to/JS] [My Experience With Scrimba!](https://dev.to/aditiintechk/my-experience-with-scrimba-8e8)
-- [Dev.to/JS] [How to use Babel&#39;s new addExternalDependency API](https://dev.to/goatandsheep/how-to-use-babels-new-addexternaldependency-api-338h)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
