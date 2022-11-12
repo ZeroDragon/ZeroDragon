@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Pixi.js] Simple fade-in and fade-out effects for Sprites](https://dev.to/chiunhau/pixijs-simple-fade-in-and-fade-out-effects-for-sprites-4pie)
+- [Dev.to/JS] [Create your first API with AWS lambda and Node](https://dev.to/ckmonish2000/create-your-first-api-with-aws-lambda-and-node-3hnp)
 - [Dev.to/JS] [03.06 - State &amp; Props - Send User List data through multiple components &lpar;functional components&rpar;](https://dev.to/adriangheo/0306-state-props-send-user-list-data-through-multiple-components-functional-components-3pc7)
 - [Dev.to/JS] [03.05 - State &amp; Props - Send User List data through multiple components &lpar;class components&rpar;](https://dev.to/adriangheo/0305-state-props-send-user-list-data-through-multiple-components-class-components-20di)
 - [Dev.to/JS] [Why Your Business Needs a Mobile eCommerce App](https://dev.to/zoyascoot/why-your-business-needs-a-mobile-ecommerce-app-bc4)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Babel&#39;s new addExternalDependency API](https://dev.to/goatandsheep/how-to-use-babels-new-addexternaldependency-api-338h)
 - [Dev.to/JS] [Write test cases in JS](https://dev.to/nehasoni988/write-test-cases-in-js-2mll)
 - [Dev.to/JS] [Slide in images on scroll using RxJS and Angular](https://dev.to/railsstudent/slide-in-images-on-scroll-using-rxjs-and-angular-c7e)
-- [Dev.to/JS] [Functions](https://dev.to/calebmccoy04/functions-o88)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
-- [Dev.to/JS] [Download Videos from AWS S3 Using NodeJS](https://dev.to/benank/download-videos-from-aws-s3-using-nodejs-2glm)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
 - [Lifehacker] [Ford Recalls 47,000 SUVs for Faulty Backup Cameras](https://lifehacker.com/ford-recalls-47-000-suvs-for-faulty-backup-cameras-1849773797)
