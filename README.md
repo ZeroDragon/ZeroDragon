@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [In One Minute : TypeScript](https://dev.to/rakeshkr2/in-one-minute-typescript-4k0)
+- [Dev.to/JS] [Intro to Node.JS for Beginners - faheem_khan_dev](https://dev.to/knowledgefromtwitter/intro-to-nodejs-for-beginners-faheemkhandev-3h8a)
 - [Dev.to/JS] [[Pixi.js] Simple fade-in and fade-out effects for Sprites](https://dev.to/chiunhau/pixijs-simple-fade-in-and-fade-out-effects-for-sprites-4pie)
 - [Dev.to/JS] [Create your first API with AWS lambda and Node](https://dev.to/ckmonish2000/create-your-first-api-with-aws-lambda-and-node-3hnp)
 - [Dev.to/JS] [03.06 - State &amp; Props - Send User List data through multiple components &lpar;functional components&rpar;](https://dev.to/adriangheo/0306-state-props-send-user-list-data-through-multiple-components-functional-components-3pc7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2 Solutions for Unexpected token “u” in JSON at position 0](https://dev.to/clebermasters/2-solutions-for-unexpected-token-u-in-json-at-position-0-2icf)
 - [Dev.to/JS] [My Experience With Scrimba!](https://dev.to/aditiintechk/my-experience-with-scrimba-8e8)
 - [Dev.to/JS] [How to use Babel&#39;s new addExternalDependency API](https://dev.to/goatandsheep/how-to-use-babels-new-addexternaldependency-api-338h)
-- [Dev.to/JS] [Write test cases in JS](https://dev.to/nehasoni988/write-test-cases-in-js-2mll)
-- [Dev.to/JS] [Slide in images on scroll using RxJS and Angular](https://dev.to/railsstudent/slide-in-images-on-scroll-using-rxjs-and-angular-c7e)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
