@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Dev.to/JS] [How to Render React with express.js together](https://dev.to/shuhaibzahir/how-to-render-react-with-expressjs-together-2a8h)
 - [Dev.to/JS] [React projects in resume](https://dev.to/vikramadityaraja/react-projects-in-resume-gh2)
 - [Dev.to/JS] [Exploring Typescript Shortly](https://dev.to/mahin678/exploring-typescript-shortly-de)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)
 - [Lifehacker] [You Should Be Scheduling Your iPhone Updates for Later](https://lifehacker.com/you-should-be-scheduling-your-iphone-updates-for-later-1849768674)
 - [Lifehacker] [Forget Big Cheese Wedges &lpar;Serve This Pre-Portioned Wreath Instead&rpar;](https://lifehacker.com/forget-big-cheese-wedges-serve-this-pre-portioned-wrea-1849768125)
-- [Lifehacker] [Do This to Avoid &#39;Protein Hunger&#39;](https://lifehacker.com/do-this-to-avoid-protein-hunger-1849768279)
-- [Lifehacker] [General Motors Is Recalling These SUVs for Faulty Headlights](https://lifehacker.com/general-motors-is-recalling-these-suvs-for-faulty-headl-1849768067)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do This to Avoid &#39;Protein Hunger&#39;](https://lifehacker.com/do-this-to-avoid-protein-hunger-1849768279)<!-- TECH-POSTS:END -->
 
 ---
 
