@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functions](https://dev.to/calebmccoy04/functions-o88)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Dev.to/JS] [Download Videos from AWS S3 Using NodeJS](https://dev.to/benank/download-videos-from-aws-s3-using-nodejs-2glm)
 - [Dev.to/JS] [Using Array Iterator Methods on Colors to Create a Map&lpar;&rpar; forEach&lpar;&rpar; Rainbow](https://dev.to/chukwuma1976/using-array-iterator-methods-on-colors-to-create-a-map-foreach-rainbow-1cji)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Update &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; on Day One](https://lifehacker.com/why-you-should-update-pokemon-scarlet-and-violet-on-day-1849772911)
 - [Dev.to/JS] [Role of CSS in form validation](https://dev.to/urstrulyvishwak/part-of-css-in-form-validation-535g)
 - [Lifehacker] [You Need a New Admin Account on Your Mac](https://lifehacker.com/you-need-a-new-admin-account-on-your-mac-1849772119)
-- [Dev.to/JS] [Print Image Dimensions on Upload](https://dev.to/mattryanmtl/print-image-dimensions-on-upload-204k)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What&#39;s the Pizza Robot?](https://lifehacker.com/what-is-the-pizza-robot-1849773091)
 - [Lifehacker] [12 Incredibly Niche Podcasts](https://lifehacker.com/12-incredibly-niche-podcasts-1849759822)
 - [Lifehacker] [When to See a Doctor About Your Bad Nighttime Vision](https://lifehacker.com/when-to-see-a-doctor-about-your-bad-nighttime-vision-1849771070)
