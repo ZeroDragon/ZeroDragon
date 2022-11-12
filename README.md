@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
+- [Dev.to/JS] [Download Videos from AWS S3 Using NodeJS](https://dev.to/benank/download-videos-from-aws-s3-using-nodejs-2glm)
 - [Dev.to/JS] [Using Array Iterator Methods on Colors to Create a Map&lpar;&rpar; forEach&lpar;&rpar; Rainbow](https://dev.to/chukwuma1976/using-array-iterator-methods-on-colors-to-create-a-map-foreach-rainbow-1cji)
 - [Dev.to/JS] [How To Configure ESLint &amp; Prettier in React PJ](https://dev.to/smgcknt/how-to-configure-eslint-prettier-in-react-pj-2ogj)
 - [Dev.to/JS] [The Rising Coder - Week 11/13 &lpar;Project Week 1/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1113-project-week-13-20hi)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need a New Admin Account on Your Mac](https://lifehacker.com/you-need-a-new-admin-account-on-your-mac-1849772119)
 - [Dev.to/JS] [Print Image Dimensions on Upload](https://dev.to/mattryanmtl/print-image-dimensions-on-upload-204k)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What&#39;s the Pizza Robot?](https://lifehacker.com/what-is-the-pizza-robot-1849773091)
-- [Dev.to/JS] [TypeScript `Satisfies` keyword—New TypeScript 4.9 feature](https://dev.to/tomdohnal/typescript-satifies-keyword-new-typescript-49-feature-42nb)
 - [Lifehacker] [12 Incredibly Niche Podcasts](https://lifehacker.com/12-incredibly-niche-podcasts-1849759822)
 - [Lifehacker] [When to See a Doctor About Your Bad Nighttime Vision](https://lifehacker.com/when-to-see-a-doctor-about-your-bad-nighttime-vision-1849771070)
 - [Lifehacker] [Don’t Fall for the ‘Pig Butchering’ Scam](https://lifehacker.com/don-t-fall-for-the-pig-butchering-scam-1849769412)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do This to Avoid &#39;Protein Hunger&#39;](https://lifehacker.com/do-this-to-avoid-protein-hunger-1849768279)
 - [Lifehacker] [General Motors Is Recalling These SUVs for Faulty Headlights](https://lifehacker.com/general-motors-is-recalling-these-suvs-for-faulty-headl-1849768067)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
-- [Lifehacker] [The Best Safari Extensions for Your Mac](https://lifehacker.com/the-best-safari-extensions-for-your-mac-1849766336)
-- [Lifehacker] [How to Manage After-School Meltdowns With a Neurodivergent Child](https://lifehacker.com/how-to-manage-after-school-meltdowns-with-a-neurodiverg-1849765644)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Safari Extensions for Your Mac](https://lifehacker.com/the-best-safari-extensions-for-your-mac-1849766336)<!-- TECH-POSTS:END -->
 
 ---
 
