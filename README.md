@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VueJs Beginners part 4 - Component 2](https://dev.to/hshoja/vuejs-beginners-part-4-component-2-315g)
 - [Dev.to/JS] [Text Message and Email Notifications when a user Joins Chat](https://dev.to/alakkadshaw/text-message-and-email-notifications-when-a-user-joins-chat-2pfp)
 - [Dev.to/JS] [How To Build A Progressive Web Application in 2022](https://dev.to/cozybeatz/how-to-build-a-progressive-web-application-in-2022-42a4)
 - [Dev.to/JS] [Gatsby.js 101](https://dev.to/codelikeagirl29/gatsbyjs-101-4b3o)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Dev.to/JS] [Where To Host Your Applications/Websites For Free🤑](https://dev.to/raghavmri/where-to-host-your-applicationswebsites-for-free-kd5)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
-- [Dev.to/JS] [Day36 of #100DaysOfCode](https://dev.to/yoot/day36-of-100daysofcode-f2m)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
 - [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
