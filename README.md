@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Strings and Numbers on JS, pills...](https://dev.to/nataliacatundafr/strings-and-numbers-on-js-pills-17hf)
 - [Dev.to/JS] [&lpar;Array Methods Part 2&rpar; What are Accessor Methods?](https://dev.to/michaelvinidev/what-are-accessor-methods-2hp1)
 - [Dev.to/JS] [5 Front End Interview Coding Exercises Part 1](https://dev.to/lucvankerkvoort/5-front-end-interview-coding-exercises-part-1-1ld3)
 - [Dev.to/JS] [VueJs Beginners part 4 - Component 2](https://dev.to/hshoja/vuejs-beginners-part-4-component-2-315g)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Render React with express.js together](https://dev.to/shuhaibzahir/how-to-render-react-with-expressjs-together-2a8h)
 - [Dev.to/JS] [React projects in resume](https://dev.to/vikramadityaraja/react-projects-in-resume-gh2)
 - [Dev.to/JS] [Exploring Typescript Shortly](https://dev.to/mahin678/exploring-typescript-shortly-de)
-- [Dev.to/JS] [Atlas Hackathon22: Space Talks &lpar;A MERN Web App&rpar;](https://dev.to/yashkapure06/atlas-hackathon22-space-talks-a-mern-web-app-3fgo)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
