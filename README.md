@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Binary Tree Right Side View](https://dev.to/zeeshanali0704/binary-tree-right-side-view-20jo)
+- [Dev.to/JS] [MobX with MVVM makes Frontend Developer&#39;s life much more easier than Redux does](https://dev.to/yoskutik/mobx-with-mvvm-makes-frontend-developers-life-much-more-easier-than-redux-does-547j)
+- [Dev.to/JS] [【JavaScript】How to embed script in eventhandler](https://dev.to/aquacat/javascript-how-to-embed-script-in-eventhandler-2ae6)
+- [Dev.to/JS] [【JavaScript&lpar;TypeScript&rpar;】The repeat&lpar;&rpar; method](https://dev.to/aquacat/javascripttypescript-the-repeat-method-27mp)
+- [Dev.to/JS] [Binary Tree Right / left Side View](https://dev.to/zeeshanali0704/binary-tree-right-side-view-20jo)
 - [Dev.to/JS] [How to update the attribute value of an object using the map function in JavaScript?](https://dev.to/aumayeung/how-to-update-the-attribute-value-of-an-object-using-the-map-function-in-javascript-1737)
 - [Dev.to/JS] [How to find out how many times an array element appears with JavaScript?](https://dev.to/aumayeung/how-to-find-out-how-many-times-an-array-element-appears-with-javascript-3bnf)
 - [Dev.to/JS] [How to send a PDF file directly to the printer using JavaScript?](https://dev.to/aumayeung/how-to-send-a-pdf-file-directly-to-the-printer-using-javascript-3pjd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction of compiler and interpreter](https://dev.to/beyond88/introduction-of-compiler-and-interpreter-3a21)
 - [Dev.to/JS] [React Dynamic Nested Table](https://dev.to/mdwahiduzzamanemon/react-dynamic-nested-table-43fg)
 - [Dev.to/JS] [How to Make Stopwatch in React](https://dev.to/reactjsguru/how-to-make-stopwatch-in-react-49l8)
-- [Dev.to/JS] [What are topics a Junior Vue Developer can write about](https://dev.to/ayoazeez26/what-are-topics-a-junior-vue-developer-can-write-about-2ogj)
-- [Dev.to/JS] [How to make simple slideshow using cool CSS and JS features](https://dev.to/istavros/how-to-make-simple-slideshow-using-cool-css-and-js-features-2o6c)
-- [Dev.to/JS] [Strings and Numbers on JS, pills...](https://dev.to/nataliacatundafr/strings-and-numbers-on-js-pills-17hf)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
