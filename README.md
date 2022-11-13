@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improve your Vue 3 accessiblity with linters &amp; git hooks](https://dev.to/lisi_linhart/improve-your-vue-3-accessiblity-with-linters-git-hooks-2gaf)
+- [Dev.to/JS] [Creating and Generating UUIDs with Javascript](https://dev.to/smpnjn/creating-and-generating-uuids-with-javascript-4p46)
+- [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
 - [Dev.to/JS] [My Personal Portfolio](https://dev.to/rajamanickam/my-personal-portfolio-n74)
 - [Dev.to/JS] [Javascript Array Concat Method](https://dev.to/smpnjn/javascript-array-concat-method-4gdd)
 - [Dev.to/JS] [The difference between dependencies and devDependencies in package.json](https://dev.to/coderslang/the-difference-between-dependencies-and-devdependencies-in-packagejson-1p49)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make Ad Blocker Detector in HTML, CSS &amp; JavaScript](https://dev.to/patelrohan750/how-to-make-ad-blocker-detector-in-html-css-javascript-46p3)
 - [Dev.to/JS] [Why &lpar;most&rpar; startups should only write TypeScript](https://dev.to/andyrewlee/why-most-startups-should-only-write-typescript-2jam)
 - [Dev.to/JS] [Gcp Resumable Upload With Reactjs And Nodejs](https://dev.to/moinakh22885547/gcp-resumable-upload-with-reactjs-and-nodejs-1dd1)
-- [Dev.to/JS] [JavaScript testing with Jest](https://dev.to/gulyapulya/javascript-testing-with-jest-5cke)
-- [Dev.to/JS] [How To Add Google Adsense in Our React Website?](https://dev.to/radhe65gupta/how-to-add-google-adsense-in-our-react-website-55j5)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
 - [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)
 - [Lifehacker] [You Should Be Scheduling Your iPhone Updates for Later](https://lifehacker.com/you-should-be-scheduling-your-iphone-updates-for-later-1849768674)
-- [Lifehacker] [Forget Big Cheese Wedges &lpar;Serve This Pre-Portioned Wreath Instead&rpar;](https://lifehacker.com/forget-big-cheese-wedges-serve-this-pre-portioned-wrea-1849768125)
-- [Lifehacker] [Do This to Avoid &#39;Protein Hunger&#39;](https://lifehacker.com/do-this-to-avoid-protein-hunger-1849768279)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Forget Big Cheese Wedges &lpar;Serve This Pre-Portioned Wreath Instead&rpar;](https://lifehacker.com/forget-big-cheese-wedges-serve-this-pre-portioned-wrea-1849768125)<!-- TECH-POSTS:END -->
 
 ---
 
