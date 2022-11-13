@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gcp Resumable Upload With Reactjs And Nodejs](https://dev.to/moinakh22885547/gcp-resumable-upload-with-reactjs-and-nodejs-1dd1)
 - [Dev.to/JS] [JavaScript testing with Jest](https://dev.to/gulyapulya/javascript-testing-with-jest-5cke)
 - [Dev.to/JS] [How To Add Google Adsense in Our React Website?](https://dev.to/radhe65gupta/how-to-add-google-adsense-in-our-react-website-55j5)
 - [Dev.to/JS] [Optimized React Search Bar 🔯](https://dev.to/purohitdheeraj/optimized-react-search-bar-5em6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [【JavaScript&lpar;TypeScript&rpar;】The repeat&lpar;&rpar; method](https://dev.to/aquacat/javascripttypescript-the-repeat-method-27mp)
 - [Dev.to/JS] [Binary Tree Right / left Side View](https://dev.to/zeeshanali0704/binary-tree-right-side-view-20jo)
 - [Dev.to/JS] [How to update the attribute value of an object using the map function in JavaScript?](https://dev.to/aumayeung/how-to-update-the-attribute-value-of-an-object-using-the-map-function-in-javascript-1737)
-- [Dev.to/JS] [How to find out how many times an array element appears with JavaScript?](https://dev.to/aumayeung/how-to-find-out-how-many-times-an-array-element-appears-with-javascript-3bnf)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
