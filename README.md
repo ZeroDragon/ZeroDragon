@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What I learned from Building Invoys, an Open Source Invoice Management App](https://dev.to/fazzaamiarso/what-i-learned-from-building-invoys-an-open-source-invoice-management-app-54f6)
 - [Dev.to/JS] [1. Two Sum - Leetcode - JavaScript Solution using HashMap - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/1-two-sum-leetcode-javascript-solution-using-hashmap-by-abu-saleh-faysal-4fml)
 - [Dev.to/JS] [Javascript: Check if an Array is a Subset of Another Array](https://dev.to/smpnjn/javascript-check-if-an-array-is-a-subset-of-another-array-950)
 - [Dev.to/JS] [Javascript Array Every Method](https://dev.to/smpnjn/javascript-array-every-method-282b)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add QR code to React websites in 2 minutes 😎✨](https://dev.to/devtestsca/add-qr-code-to-react-websites-in-2-minutes-5a10)
 - [Dev.to/JS] [What are the different types of inputs in HTML forms?](https://dev.to/salmaab/what-are-the-different-types-of-inputs-in-html-forms-32gk)
 - [Dev.to/JS] [Progress bar to show content read/remaining.](https://dev.to/sagartrimukhe/progress-bar-to-show-content-readremaining-28e9)
-- [Dev.to/JS] [Express Sessions with a SQLite Backend](https://dev.to/krowemoh/express-sessions-with-a-sqlite-backend-8b0)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
