@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Personal Portfolio](https://dev.to/rajamanickam/my-personal-portfolio-n74)
+- [Dev.to/JS] [Javascript Array Concat Method](https://dev.to/smpnjn/javascript-array-concat-method-4gdd)
+- [Dev.to/JS] [The difference between dependencies and devDependencies in package.json](https://dev.to/coderslang/the-difference-between-dependencies-and-devdependencies-in-packagejson-1p49)
 - [Dev.to/JS] [Detect Capslock using HTML, CSS and JavaScript](https://dev.to/piyushpatil1243/detect-capslock-using-html-css-and-javascript-3lp9)
 - [Dev.to/JS] [Validating your site&#39;s links in a world of SSR and server components](https://dev.to/jamespohalloran/validating-your-sites-links-in-a-world-of-ssr-and-server-components-1fbk)
 - [Dev.to/JS] [UNDERSTANDING MongoDB SYNTAX](https://dev.to/danrez_/understanding-mongodb-syntax-5034)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gcp Resumable Upload With Reactjs And Nodejs](https://dev.to/moinakh22885547/gcp-resumable-upload-with-reactjs-and-nodejs-1dd1)
 - [Dev.to/JS] [JavaScript testing with Jest](https://dev.to/gulyapulya/javascript-testing-with-jest-5cke)
 - [Dev.to/JS] [How To Add Google Adsense in Our React Website?](https://dev.to/radhe65gupta/how-to-add-google-adsense-in-our-react-website-55j5)
-- [Dev.to/JS] [Optimized React Search Bar 🔯](https://dev.to/purohitdheeraj/optimized-react-search-bar-5em6)
-- [Dev.to/JS] [Mutual recursion in JavaScript](https://dev.to/andyrewlee/mutual-recursion-in-javascript-1mgh)
-- [Dev.to/JS] [The Radcliffe Concurrency Model](https://dev.to/deanius/the-radcliffe-concurrency-model-3ll8)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
