@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Radcliffe Concurrency Model](https://dev.to/deanius/the-radcliffe-concurrency-model-3ll8)
+- [Dev.to/JS] [Stand out in a React interview by rendering a list like a pro](https://dev.to/andyrewlee/stand-out-in-a-react-interview-by-rendering-a-list-like-a-pro-1cn5)
 - [Dev.to/JS] [MobX with MVVM makes Frontend Developer&#39;s life much more easier than Redux does](https://dev.to/yoskutik/mobx-with-mvvm-makes-frontend-developers-life-much-more-easier-than-redux-does-547j)
 - [Dev.to/JS] [【JavaScript】How to embed script in eventhandler](https://dev.to/aquacat/javascript-how-to-embed-script-in-eventhandler-2ae6)
 - [Dev.to/JS] [【JavaScript&lpar;TypeScript&rpar;】The repeat&lpar;&rpar; method](https://dev.to/aquacat/javascripttypescript-the-repeat-method-27mp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get the day of the week from the day number in JavaScript?](https://dev.to/aumayeung/how-to-get-the-day-of-the-week-from-the-day-number-in-javascript-93h)
 - [Dev.to/JS] [Insert YouTube Comment reply using Google App Script](https://dev.to/padikkalnived/insert-youtube-comment-reply-using-google-app-script-4367)
 - [Dev.to/JS] [Introduction of compiler and interpreter](https://dev.to/beyond88/introduction-of-compiler-and-interpreter-3a21)
-- [Dev.to/JS] [React Dynamic Nested Table](https://dev.to/mdwahiduzzamanemon/react-dynamic-nested-table-43fg)
-- [Dev.to/JS] [How to Make Stopwatch in React](https://dev.to/reactjsguru/how-to-make-stopwatch-in-react-49l8)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
