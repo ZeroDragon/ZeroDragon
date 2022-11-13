@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Progress bar to show content read/remaining.](https://dev.to/sagartrimukhe/progress-bar-to-show-content-readremaining-28e9)
+- [Dev.to/JS] [Express Sessions with a SQLite Backend](https://dev.to/krowemoh/express-sessions-with-a-sqlite-backend-8b0)
+- [Dev.to/JS] [Express Sessions](https://dev.to/krowemoh/express-sessions-29dc)
+- [Dev.to/JS] [Build a CRUD API using NestJS, MongoDB, Docker &amp; Docker Compose](https://dev.to/koladev/build-a-crud-api-using-nestjs-mongodb-docker-docker-compose-3m5)
+- [Dev.to/JS] [Poll Percentages in JavaScropt](https://dev.to/coldbow/poll-percentages-in-javascropt-5c11)
 - [Dev.to/JS] [Improve your Vue 3 accessiblity with linters &amp; git hooks](https://dev.to/lisi_linhart/improve-your-vue-3-accessiblity-with-linters-git-hooks-2gaf)
 - [Dev.to/JS] [Creating and Generating UUIDs with Javascript](https://dev.to/smpnjn/creating-and-generating-uuids-with-javascript-4p46)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The difference between dependencies and devDependencies in package.json](https://dev.to/coderslang/the-difference-between-dependencies-and-devdependencies-in-packagejson-1p49)
 - [Dev.to/JS] [Detect Capslock using HTML, CSS and JavaScript](https://dev.to/piyushpatil1243/detect-capslock-using-html-css-and-javascript-3lp9)
 - [Dev.to/JS] [Validating your site&#39;s links in a world of SSR and server components](https://dev.to/jamespohalloran/validating-your-sites-links-in-a-world-of-ssr-and-server-components-1fbk)
-- [Dev.to/JS] [UNDERSTANDING MongoDB SYNTAX](https://dev.to/danrez_/understanding-mongodb-syntax-5034)
-- [Dev.to/JS] [Building an Angular App with Airtable &amp; Netlify Functions](https://dev.to/simon/building-an-angular-app-with-airtable-netlify-functions-1m79)
-- [Dev.to/JS] [How to Make Ad Blocker Detector in HTML, CSS &amp; JavaScript](https://dev.to/patelrohan750/how-to-make-ad-blocker-detector-in-html-css-javascript-46p3)
-- [Dev.to/JS] [Why &lpar;most&rpar; startups should only write TypeScript](https://dev.to/andyrewlee/why-most-startups-should-only-write-typescript-2jam)
-- [Dev.to/JS] [Gcp Resumable Upload With Reactjs And Nodejs](https://dev.to/moinakh22885547/gcp-resumable-upload-with-reactjs-and-nodejs-1dd1)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
