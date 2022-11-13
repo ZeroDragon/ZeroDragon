@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make Spotify better?](https://dev.to/chimildic/how-to-make-spotify-better-16ad)
+- [Dev.to/JS] [Dev Tools Unleashed: 7 things you probably didn&#39;t know Dev Tools could do](https://dev.to/devtestsca/dev-tools-unleashed-7-things-you-probably-didnt-know-dev-tools-could-do-36ek)
+- [Dev.to/JS] [Add QR code to React websites in 2 minutes 😎✨](https://dev.to/devtestsca/add-qr-code-to-react-websites-in-2-minutes-5a10)
+- [Dev.to/JS] [What are the different types of inputs in HTML forms?](https://dev.to/salmaab/what-are-the-different-types-of-inputs-in-html-forms-32gk)
 - [Dev.to/JS] [Progress bar to show content read/remaining.](https://dev.to/sagartrimukhe/progress-bar-to-show-content-readremaining-28e9)
 - [Dev.to/JS] [Express Sessions with a SQLite Backend](https://dev.to/krowemoh/express-sessions-with-a-sqlite-backend-8b0)
 - [Dev.to/JS] [Express Sessions](https://dev.to/krowemoh/express-sessions-29dc)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating and Generating UUIDs with Javascript](https://dev.to/smpnjn/creating-and-generating-uuids-with-javascript-4p46)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
 - [Dev.to/JS] [My Personal Portfolio](https://dev.to/rajamanickam/my-personal-portfolio-n74)
-- [Dev.to/JS] [Javascript Array Concat Method](https://dev.to/smpnjn/javascript-array-concat-method-4gdd)
-- [Dev.to/JS] [The difference between dependencies and devDependencies in package.json](https://dev.to/coderslang/the-difference-between-dependencies-and-devdependencies-in-packagejson-1p49)
-- [Dev.to/JS] [Detect Capslock using HTML, CSS and JavaScript](https://dev.to/piyushpatil1243/detect-capslock-using-html-css-and-javascript-3lp9)
-- [Dev.to/JS] [Validating your site&#39;s links in a world of SSR and server components](https://dev.to/jamespohalloran/validating-your-sites-links-in-a-world-of-ssr-and-server-components-1fbk)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
