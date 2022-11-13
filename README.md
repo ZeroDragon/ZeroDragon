@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [1. Two Sum - Leetcode - JavaScript Solution using HashMap - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/1-two-sum-leetcode-javascript-solution-using-hashmap-by-abu-saleh-faysal-4fml)
+- [Dev.to/JS] [Javascript: Check if an Array is a Subset of Another Array](https://dev.to/smpnjn/javascript-check-if-an-array-is-a-subset-of-another-array-950)
+- [Dev.to/JS] [Javascript Array Every Method](https://dev.to/smpnjn/javascript-array-every-method-282b)
+- [Dev.to/JS] [Difference between exports and module.exports](https://dev.to/dhanushnehru/difference-between-exports-and-moduleexports-nja)
+- [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Dev.to/JS] [Glassmorphic Calculator using JavaScript](https://dev.to/piyushpatil1243/glassmorphic-calculator-using-javascript-4opp)
 - [Dev.to/JS] [Reverse Odd Levels of Binary Tree](https://dev.to/zeeshanali0704/reverse-odd-levels-of-binary-tree-56a6)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the different types of inputs in HTML forms?](https://dev.to/salmaab/what-are-the-different-types-of-inputs-in-html-forms-32gk)
 - [Dev.to/JS] [Progress bar to show content read/remaining.](https://dev.to/sagartrimukhe/progress-bar-to-show-content-readremaining-28e9)
 - [Dev.to/JS] [Express Sessions with a SQLite Backend](https://dev.to/krowemoh/express-sessions-with-a-sqlite-backend-8b0)
-- [Dev.to/JS] [Express Sessions](https://dev.to/krowemoh/express-sessions-29dc)
-- [Dev.to/JS] [Build a CRUD API using NestJS, MongoDB, Docker &amp; Docker Compose](https://dev.to/koladev/build-a-crud-api-using-nestjs-mongodb-docker-docker-compose-3m5)
-- [Dev.to/JS] [Poll Percentages in JavaScropt](https://dev.to/coldbow/poll-percentages-in-javascropt-5c11)
-- [Dev.to/JS] [Improve your Vue 3 accessiblity with linters &amp; git hooks](https://dev.to/lisi_linhart/improve-your-vue-3-accessiblity-with-linters-git-hooks-2gaf)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
-- [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)
-- [Lifehacker] [You Should Be Scheduling Your iPhone Updates for Later](https://lifehacker.com/you-should-be-scheduling-your-iphone-updates-for-later-1849768674)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)<!-- TECH-POSTS:END -->
 
 ---
 
