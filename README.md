@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Glassmorphic Calculator using JavaScript](https://dev.to/piyushpatil1243/glassmorphic-calculator-using-javascript-4opp)
+- [Dev.to/JS] [Reverse Odd Levels of Binary Tree](https://dev.to/zeeshanali0704/reverse-odd-levels-of-binary-tree-56a6)
+- [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Dev.to/JS] [How to make Spotify better?](https://dev.to/chimildic/how-to-make-spotify-better-16ad)
 - [Dev.to/JS] [Dev Tools Unleashed: 7 things you probably didn&#39;t know Dev Tools could do](https://dev.to/devtestsca/dev-tools-unleashed-7-things-you-probably-didnt-know-dev-tools-could-do-36ek)
 - [Dev.to/JS] [Add QR code to React websites in 2 minutes 😎✨](https://dev.to/devtestsca/add-qr-code-to-react-websites-in-2-minutes-5a10)
@@ -33,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a CRUD API using NestJS, MongoDB, Docker &amp; Docker Compose](https://dev.to/koladev/build-a-crud-api-using-nestjs-mongodb-docker-docker-compose-3m5)
 - [Dev.to/JS] [Poll Percentages in JavaScropt](https://dev.to/coldbow/poll-percentages-in-javascropt-5c11)
 - [Dev.to/JS] [Improve your Vue 3 accessiblity with linters &amp; git hooks](https://dev.to/lisi_linhart/improve-your-vue-3-accessiblity-with-linters-git-hooks-2gaf)
-- [Dev.to/JS] [Creating and Generating UUIDs with Javascript](https://dev.to/smpnjn/creating-and-generating-uuids-with-javascript-4p46)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
-- [Dev.to/JS] [My Personal Portfolio](https://dev.to/rajamanickam/my-personal-portfolio-n74)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
 - [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
 - [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)
-- [Lifehacker] [You Should Be Scheduling Your iPhone Updates for Later](https://lifehacker.com/you-should-be-scheduling-your-iphone-updates-for-later-1849768674)
-- [Lifehacker] [Forget Big Cheese Wedges &lpar;Serve This Pre-Portioned Wreath Instead&rpar;](https://lifehacker.com/forget-big-cheese-wedges-serve-this-pre-portioned-wrea-1849768125)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Be Scheduling Your iPhone Updates for Later](https://lifehacker.com/you-should-be-scheduling-your-iphone-updates-for-later-1849768674)<!-- TECH-POSTS:END -->
 
 ---
 
