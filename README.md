@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need imgsrc.shibu.dev Feedbacks and Suggestions](https://dev.to/shibun/need-imgsrcshibudev-feedbacks-and-suggestions-41p6)
+- [Dev.to/JS] [Ng-News: Episode 22/45](https://dev.to/ng_news/ng-news-episode-2245-2177)
+- [Dev.to/JS] [How to Build Dynamic Forms in Angular](https://dev.to/danywalls/how-to-build-dynamic-forms-in-angular-2732)
 - [Dev.to/JS] [500+ Tailwind UI Components, Templates, and UI Kit &lpar;Free and Premium&rpar;](https://dev.to/tailwindcss/tailwind-components-templates-ui-kit-20lp)
 - [Dev.to/JS] [Manage your state with the useState hook in React](https://dev.to/fabienschlegel/manage-your-state-with-the-usestate-hook-in-react-4i83)
 - [Dev.to/JS] [Using Custom Queries in Vue Storefront 2](https://dev.to/vue-storefront/using-custom-queries-in-vue-storefront-2-2d01)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use the Javascript Date Object to count days until a specific date](https://dev.to/spanglishgaby/how-to-use-the-javascript-date-object-to-count-days-until-a-specific-date-2bdo)
 - [Dev.to/JS] [5 Front End Interview Coding Exercises Part 2 TicTacToe](https://dev.to/lucvankerkvoort/5-front-end-interview-coding-exercises-part-2-tictactoe-2k6d)
 - [Dev.to/JS] [Learn to build a weather app in just 5 mins](https://dev.to/documatic/learn-to-build-a-weather-app-in-just-5-mins-o7l)
-- [Dev.to/JS] [OSD600 Lab9](https://dev.to/dadolhay/osd600-lab9-5279)
-- [Dev.to/JS] [Building an e-commerce app with Keystone](https://dev.to/asayerio_techblog/building-an-e-commerce-app-with-keystone-2npc)
-- [Dev.to/JS] [Mutations And Caching With Redux-Toolkit-Query](https://dev.to/asayerio_techblog/mutations-and-caching-with-redux-toolkit-query-2gi3)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
