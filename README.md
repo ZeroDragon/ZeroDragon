@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Look on Python Web Performance at the end of 2022](https://dev.to/cirospaciari/a-look-on-python-web-performance-at-the-end-of-2022-3i02)
+- [Dev.to/JS] [NestJs Course: User management - part 1](https://dev.to/sifatul/nestjs-course-user-management-part-1-12jm)
+- [Dev.to/JS] [JavaScript Debugging](https://dev.to/np6176a/javascript-debugging-2dli)
+- [Lifehacker] [Your Post-Workout Meal Isn&#39;t As Important As You Think](https://lifehacker.com/your-post-workout-meal-isnt-as-important-as-you-think-1849774458)
+- [Dev.to/JS] [SvelteKit Local Edge Functions: Edge on Localhost](https://dev.to/askrodney/sveltekit-local-edge-functions-edge-on-localhost-3j5m)
+- [Dev.to/JS] [Kraken clone script - Start a crypto exchange like Kraken](https://dev.to/mgaaron/kraken-clone-script-start-a-crypto-exchange-like-kraken-121l)
+- [Dev.to/JS] [Microsoft Azure DevOps Simplified](https://dev.to/postwell45/microsoft-azure-devops-simplified-460f)
+- [Dev.to/JS] [What you need to extra setup before start to working with Angular ?](https://dev.to/sefatanam/what-you-need-to-extra-setup-before-start-to-working-with-angular--4ja3)
 - [Dev.to/JS] [Creating a HTML Tag Function - Part 1](https://dev.to/gabrieljm/creating-a-html-tag-function-part-1-1eph)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍻.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-j3c)
 - [Dev.to/JS] [Awesome Productivity Tools for Developers](https://dev.to/surajondev/awesome-productivity-tools-for-developers-40lj)
 - [Dev.to/JS] [What&#39;s the point of Test Automation?](https://dev.to/postwell45/whats-the-point-of-test-automation-37bi)
 - [Dev.to/JS] [React-contexify v6 is live!](https://dev.to/fkhadra/react-contexify-v6-is-live-535d)
-- [Dev.to/JS] [Bottom view of Binary Tree](https://dev.to/zeeshanali0704/bottom-view-of-binary-tree-5527)
-- [Dev.to/JS] [Even Odd Tree](https://dev.to/zeeshanali0704/even-odd-tree-2ahe)
-- [Dev.to/JS] [Grinding when no one else is - AquaHub #5](https://dev.to/jannisdev/grinding-when-noone-else-is-aquahub-5-3ifo)
-- [Dev.to/JS] [&quot;👩‍💻🎉&quot;.length = 7 ??? How to count emojis with Javascript](https://dev.to/cestoliv/length-7-how-to-count-emojis-with-javascript-149p)
-- [Dev.to/JS] [Why is push&lpar;&rpar; and pop&lpar;&rpar; array methods said to be faster than shift&lpar;&rpar; and unshift&lpar;&rpar; array methods ?](https://dev.to/delyc/lets-analyze-the-time-complexity-of-some-array-methods-fcp)
-- [Dev.to/JS] [Use TypeScript to DRY up React components](https://dev.to/akoskm/use-typescript-to-dry-up-react-components-463m)
-- [Dev.to/JS] [Where to impliment Password Encryption in node.js](https://dev.to/jane49cloud/where-to-impliment-password-encryption-in-nodejs-4e7k)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Ways to Make Your Kids Less Materialistic During the Holidays](https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779)
 - [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
-- [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)
-- [Lifehacker] [Your Crowded Thanksgiving Fridge Needs Cardboard Shelves](https://lifehacker.com/your-crowded-thanksgiving-fridge-needs-cardboard-shelve-1849769219)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)<!-- TECH-POSTS:END -->
 
 ---
 
