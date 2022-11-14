@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [A Look on Python Web Performance at the end of 2022](https://dev.to/cirospaciari/a-look-on-python-web-performance-at-the-end-of-2022-3i02)
-- [Dev.to/JS] [NestJs Course: User management - part 1](https://dev.to/sifatul/nestjs-course-user-management-part-1-12jm)
+- [Dev.to/JS] [Conditional Logging to the JavaScript Console](https://dev.to/redbit/conditional-logging-to-the-javascript-console-2bl9)
+- [Lifehacker] [How to Watch the 2022 FIFA World Cup for Free](https://lifehacker.com/how-to-watch-the-2022-fifa-world-cup-for-free-1849774977)
+- [Dev.to/JS] [Automate One Time Password &lpar;OTP&rpar; using Cypress](https://dev.to/dilpreetjohal/automate-one-time-password-otp-using-cypress-7h1)
+- [Dev.to/JS] [Create a random color toast notification](https://dev.to/aneeqakhan/create-a-random-color-toast-notification-42jh)
+- [Dev.to/JS] [How to update all npm package.json dependencies to the latest version](https://dev.to/coderslang/how-to-update-all-npm-packagejson-dependencies-to-the-latest-version-4okn)
+- [Lifehacker] [The 7 Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/the-worst-mistakes-you-can-make-hosting-thanksgiving-di-1849773791)
+- [Dev.to/JS] [NestJs Course: Controller and Routing - part 1](https://dev.to/sifatul/nestjs-course-user-management-part-1-12jm)
 - [Dev.to/JS] [JavaScript Debugging](https://dev.to/np6176a/javascript-debugging-2dli)
 - [Lifehacker] [Your Post-Workout Meal Isn&#39;t As Important As You Think](https://lifehacker.com/your-post-workout-meal-isnt-as-important-as-you-think-1849774458)
 - [Dev.to/JS] [SvelteKit Local Edge Functions: Edge on Localhost](https://dev.to/askrodney/sveltekit-local-edge-functions-edge-on-localhost-3j5m)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What you need to extra setup before start to working with Angular ?](https://dev.to/sefatanam/what-you-need-to-extra-setup-before-start-to-working-with-angular--4ja3)
 - [Dev.to/JS] [Creating a HTML Tag Function - Part 1](https://dev.to/gabrieljm/creating-a-html-tag-function-part-1-1eph)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍻.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-j3c)
-- [Dev.to/JS] [Awesome Productivity Tools for Developers](https://dev.to/surajondev/awesome-productivity-tools-for-developers-40lj)
-- [Dev.to/JS] [What&#39;s the point of Test Automation?](https://dev.to/postwell45/whats-the-point-of-test-automation-37bi)
-- [Dev.to/JS] [React-contexify v6 is live!](https://dev.to/fkhadra/react-contexify-v6-is-live-535d)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How Much Salt You Need to Dry Brine a Turkey](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
 - [Lifehacker] [10 Stealth Thanksgiving Movies](https://lifehacker.com/10-stealth-thanksgiving-movies-1849769620)
 - [Lifehacker] [10 Ways to Make Your Kids Less Materialistic During the Holidays](https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779)
-- [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
-- [Lifehacker] [Your Dentist Will Know You&#39;re High](https://lifehacker.com/your-dentist-will-know-youre-high-1849769697)
-- [Lifehacker] [Crown Your Sweet Potatoes With Swiss Meringue Instead](https://lifehacker.com/crown-your-sweet-potatoes-with-swiss-meringue-instead-1849769356)<!-- TECH-POSTS:END -->
+- [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)<!-- TECH-POSTS:END -->
 
 ---
 
