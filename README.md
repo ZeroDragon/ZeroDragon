@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React-contexify v6 is live!](https://dev.to/fkhadra/react-contexify-v6-is-live-535d)
+- [Dev.to/JS] [Bottom view of Binary Tree](https://dev.to/zeeshanali0704/bottom-view-of-binary-tree-5527)
+- [Dev.to/JS] [Even Odd Tree](https://dev.to/zeeshanali0704/even-odd-tree-2ahe)
 - [Dev.to/JS] [Grinding when no one else is - AquaHub #5](https://dev.to/jannisdev/grinding-when-noone-else-is-aquahub-5-3ifo)
 - [Dev.to/JS] [&quot;👩‍💻🎉&quot;.length = 7 ??? How to count emojis with Javascript](https://dev.to/cestoliv/length-7-how-to-count-emojis-with-javascript-149p)
 - [Dev.to/JS] [Why is push&lpar;&rpar; and pop&lpar;&rpar; array methods said to be faster than shift&lpar;&rpar; and unshift&lpar;&rpar; array methods ?](https://dev.to/delyc/lets-analyze-the-time-complexity-of-some-array-methods-fcp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ng-News: Episode 22/45](https://dev.to/ng_news/ng-news-episode-2245-2177)
 - [Dev.to/JS] [How to Build Dynamic Forms in Angular](https://dev.to/danywalls/how-to-build-dynamic-forms-in-angular-2732)
 - [Dev.to/JS] [500+ Tailwind UI Components, Templates, and UI Kit &lpar;Free and Premium&rpar;](https://dev.to/tailwindcss/tailwind-components-templates-ui-kit-20lp)
-- [Dev.to/JS] [Manage your state with the useState hook in React](https://dev.to/fabienschlegel/manage-your-state-with-the-usestate-hook-in-react-4i83)
-- [Dev.to/JS] [Using Custom Queries in Vue Storefront 2](https://dev.to/vue-storefront/using-custom-queries-in-vue-storefront-2-2d01)
-- [Dev.to/JS] [Javascript Promise Methods with polyfill example: A Cheat Sheet for Developer](https://dev.to/devsmitra/javascript-promise-methods-with-polyfill-example-a-cheat-sheet-for-developer-2h0e)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
