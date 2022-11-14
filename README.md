@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Really Should Bind Your VPN to Your Torrent Client](https://lifehacker.com/you-should-really-bind-your-vpn-to-your-torrent-client-1849779407)
+- [Dev.to/JS] [5 most important features you should know about Javascript ES2022](https://dev.to/shivamblog/5-most-important-features-you-should-know-about-javascript-es2022-1kj)
+- [Dev.to/JS] [What is DRY Code](https://dev.to/wizdomtek/what-is-dry-code-3imh)
+- [Lifehacker] [How to Tell the Difference Between Sadness and Depression](https://lifehacker.com/how-to-tell-the-difference-between-sadness-and-depressi-1849775776)
+- [Dev.to/JS] [Tauri + NodeJS: Alternative to Electron](https://dev.to/perfect7m/tauri-nodejs-alternative-to-electron-2l9l)
+- [Lifehacker] [This Inside-Out Lasagna Cake Is All Crispy Edges](https://lifehacker.com/this-inside-out-lasagna-cake-is-all-crispy-edges-1849774653)
 - [Dev.to/JS] [How to Make Digital Clock Using JavaScript](https://dev.to/onlineittutstutorials/how-to-make-digital-clock-using-javascript-3b9c)
 - [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
 - [Dev.to/JS] [Open Sourcing My Biggest Freelancing Project That Made Me $5000 In Just 2 months of work](https://dev.to/sjcodebook/open-sourcing-my-biggest-freelancing-project-that-made-me-5000-in-just-2-months-of-work-3p86)
@@ -37,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch the 2022 FIFA World Cup for Free](https://lifehacker.com/how-to-watch-the-2022-fifa-world-cup-for-free-1849774977)
 - [Dev.to/JS] [Automate One Time Password &lpar;OTP&rpar; using Cypress](https://dev.to/dilpreetjohal/automate-one-time-password-otp-using-cypress-7h1)
 - [Dev.to/JS] [Create a random color toast notification](https://dev.to/aneeqakhan/create-a-random-color-toast-notification-42jh)
-- [Dev.to/JS] [How to update all npm package.json dependencies to the latest version](https://dev.to/coderslang/how-to-update-all-npm-packagejson-dependencies-to-the-latest-version-4okn)
 - [Lifehacker] [The 7 Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/the-worst-mistakes-you-can-make-hosting-thanksgiving-di-1849773791)
-- [Dev.to/JS] [NestJs Course: Controller and Routing - part 1](https://dev.to/sifatul/nestjs-course-user-management-part-1-12jm)
-- [Dev.to/JS] [JavaScript Debugging](https://dev.to/findniya/javascript-debugging-2dli)
 - [Lifehacker] [Your Post-Workout Meal Isn&#39;t As Important As You Think](https://lifehacker.com/your-post-workout-meal-isnt-as-important-as-you-think-1849774458)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Update &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; on Day One](https://lifehacker.com/why-you-should-update-pokemon-scarlet-and-violet-on-day-1849772911)
 - [Lifehacker] [You Need a New Admin Account on Your Mac](https://lifehacker.com/you-need-a-new-admin-account-on-your-mac-1849772119)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What&#39;s the Pizza Robot?](https://lifehacker.com/what-is-the-pizza-robot-1849773091)
-- [Lifehacker] [12 Incredibly Niche Podcasts](https://lifehacker.com/12-incredibly-niche-podcasts-1849759822)
-- [Lifehacker] [When to See a Doctor About Your Bad Nighttime Vision](https://lifehacker.com/when-to-see-a-doctor-about-your-bad-nighttime-vision-1849771070)
-- [Lifehacker] [Don’t Fall for the ‘Pig Butchering’ Scam](https://lifehacker.com/don-t-fall-for-the-pig-butchering-scam-1849769412)
-- [Lifehacker] [11 Ways to Set Up a More Effective Study Space](https://lifehacker.com/11-ways-to-set-up-a-more-effective-study-space-1849769797)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Incredibly Niche Podcasts](https://lifehacker.com/12-incredibly-niche-podcasts-1849759822)<!-- TECH-POSTS:END -->
 
 ---
 
