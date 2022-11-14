@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
 - [Dev.to/JS] [The Top 9 JavaScript Mistakes Developers Make](https://dev.to/nftslab/the-top-9-javascript-mistakes-developers-make-382o)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
-- [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
-- [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)<!-- TECH-POSTS:END -->
 
 ---
 
