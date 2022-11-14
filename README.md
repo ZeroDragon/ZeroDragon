@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
+- [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
+- [Dev.to/JS] [The Top 9 JavaScript Mistakes Developers Make](https://dev.to/nftslab/the-top-9-javascript-mistakes-developers-make-382o)
+- [Lifehacker] [Ignore All This Financial Advice Your Parents Taught You](https://lifehacker.com/ignore-all-this-financial-advice-your-parents-taught-yo-1849780742)
+- [Lifehacker] [A Cheese-Filled ‘Pumpkin’ Is the Perfect Holiday Appetizer](https://lifehacker.com/a-cheese-filled-pumpkin-is-the-perfect-holiday-appeti-1849781033)
 - [Dev.to/JS] [Next.js vs WordPress: Does the comparison make sense?](https://dev.to/maxikius/nextjs-vs-wordpress-does-the-comparison-make-sense-50nd)
 - [Dev.to/JS] [Serverless + JS: Um bot de web-scrapping diário](https://dev.to/guisteink/serverless-js-um-bot-de-web-scrapping-diario-1amb)
 - [Lifehacker] [Anyone Can Unlock Your Android Without the Password](https://lifehacker.com/anyone-can-unlock-your-android-without-the-password-1849780710)
@@ -40,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Awesome Dev Tool Tips 🔥](https://dev.to/lissy93/awesome-dev-tool-tips-32oo)
 - [Dev.to/JS] [What is Throttling? How to implement it in JS?](https://dev.to/dileepreddyaella/what-is-throttling-how-to-implement-it-in-js-52d8)
 - [Lifehacker] [How to Watch Two Americans Take Their First Spacewalk](https://lifehacker.com/how-to-watch-two-americans-take-their-first-spacewalk-1849779686)
-- [Dev.to/JS] [Boostrap or Tailwind...?](https://dev.to/develop92001047/boostrap-or-tailwind-3ldf)
 - [Lifehacker] [You Really Should Bind Your VPN to Your Torrent Client](https://lifehacker.com/you-should-really-bind-your-vpn-to-your-torrent-client-1849779407)
 - [Lifehacker] [How to Tell the Difference Between Sadness and Depression](https://lifehacker.com/how-to-tell-the-difference-between-sadness-and-depressi-1849775776)
 - [Lifehacker] [This Inside-Out Lasagna Cake Is All Crispy Edges](https://lifehacker.com/this-inside-out-lasagna-cake-is-all-crispy-edges-1849774653)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
 - [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
 - [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)
-- [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
-- [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
-- [Lifehacker] [Ford Recalls 47,000 SUVs for Faulty Backup Cameras](https://lifehacker.com/ford-recalls-47-000-suvs-for-faulty-backup-cameras-1849773797)
-- [Lifehacker] [How to Fix PS5 Stick Drift](https://lifehacker.com/how-to-fix-ps5-stick-drift-1849773700)
-- [Lifehacker] [Do This Instead of Keeping Your Phone Out of Your Bedroom at Night](https://lifehacker.com/do-this-instead-of-keeping-your-phone-out-of-your-bedro-1849773354)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your iPhone Has a Hidden Music Quiz](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)<!-- TECH-POSTS:END -->
 
 ---
 
