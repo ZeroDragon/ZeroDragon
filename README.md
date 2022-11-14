@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Delete Your Twitter Account &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-delete-your-twitter-account-do-this-instead-1849779710)
+- [Dev.to/JS] [Awesome Dev Tool Tips 🔥](https://dev.to/lissy93/awesome-dev-tool-tips-32oo)
+- [Dev.to/JS] [What is Throttling? How to implement it in JS?](https://dev.to/dileepreddyaella/what-is-throttling-how-to-implement-it-in-js-52d8)
+- [Lifehacker] [How to Watch Two Americans Take Their First Spacewalk](https://lifehacker.com/how-to-watch-two-americans-take-their-first-spacewalk-1849779686)
+- [Dev.to/JS] [Boostrap or Tailwind...?](https://dev.to/develop92001047/boostrap-or-tailwind-3ldf)
+- [Dev.to/JS] [Everybody from different background can become a great programmer, if only you can be consistence in your practice.](https://dev.to/ejossy3030/everybody-from-different-background-can-become-a-great-programmer-if-only-you-can-be-consistence-in-your-practice-3581)
+- [Dev.to/JS] [.toLowerCase&lpar;&rpar; or not to Lowercase](https://dev.to/shaikhk2/tolowercase-or-not-to-lowercase-1bb1)
 - [Lifehacker] [You Really Should Bind Your VPN to Your Torrent Client](https://lifehacker.com/you-should-really-bind-your-vpn-to-your-torrent-client-1849779407)
 - [Dev.to/JS] [5 most important features you should know about Javascript ES2022](https://dev.to/shivamblog/5-most-important-features-you-should-know-about-javascript-es2022-1kj)
 - [Dev.to/JS] [What is DRY Code](https://dev.to/wizdomtek/what-is-dry-code-3imh)
@@ -37,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Bring a Bouquet of Herbs to Thanksgiving Dinner](https://lifehacker.com/bring-a-bouquet-of-herbs-to-thanksgiving-dinner-1849774524)
 - [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 4](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-4-3h8m)
 - [Lifehacker] [Never Use Bleach on These Surfaces](https://lifehacker.com/never-use-bleach-on-these-surfaces-1849774463)
-- [Dev.to/JS] [How to create 3D models &lpar;e.g. irregular floors&rpar; with javascript](https://dev.to/kevindong/how-to-create-3d-models-eg-irregular-floors-with-javascript-5d2n)
-- [Dev.to/JS] [Autenticações usando JWT](https://dev.to/jairocket/autenticacoes-usando-jwt-3627)
-- [Dev.to/JS] [Conditional Logging to the JavaScript Console](https://dev.to/redbit/conditional-logging-to-the-javascript-console-2bl9)
 - [Lifehacker] [How to Watch the 2022 FIFA World Cup for Free](https://lifehacker.com/how-to-watch-the-2022-fifa-world-cup-for-free-1849774977)
-- [Dev.to/JS] [Automate One Time Password &lpar;OTP&rpar; using Cypress](https://dev.to/dilpreetjohal/automate-one-time-password-otp-using-cypress-7h1)
-- [Dev.to/JS] [Create a random color toast notification](https://dev.to/aneeqakhan/create-a-random-color-toast-notification-42jh)
 - [Lifehacker] [The 7 Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/the-worst-mistakes-you-can-make-hosting-thanksgiving-di-1849773791)
 - [Lifehacker] [Your Post-Workout Meal Isn&#39;t As Important As You Think](https://lifehacker.com/your-post-workout-meal-isnt-as-important-as-you-think-1849774458)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Plastic Wrap Is Your Best Travel Accessory](https://lifehacker.com/plastic-wrap-is-your-best-travel-accessory-1849773228)
 - [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)
 - [Lifehacker] [Why You Should Update &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; on Day One](https://lifehacker.com/why-you-should-update-pokemon-scarlet-and-violet-on-day-1849772911)
-- [Lifehacker] [You Need a New Admin Account on Your Mac](https://lifehacker.com/you-need-a-new-admin-account-on-your-mac-1849772119)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What&#39;s the Pizza Robot?](https://lifehacker.com/what-is-the-pizza-robot-1849773091)
-- [Lifehacker] [12 Incredibly Niche Podcasts](https://lifehacker.com/12-incredibly-niche-podcasts-1849759822)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need a New Admin Account on Your Mac](https://lifehacker.com/you-need-a-new-admin-account-on-your-mac-1849772119)<!-- TECH-POSTS:END -->
 
 ---
 
