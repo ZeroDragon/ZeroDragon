@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js vs WordPress: Does the comparison make sense?](https://dev.to/maxikius/nextjs-vs-wordpress-does-the-comparison-make-sense-50nd)
+- [Dev.to/JS] [Serverless + JS: Um bot de web-scrapping diário](https://dev.to/guisteink/serverless-js-um-bot-de-web-scrapping-diario-1amb)
+- [Lifehacker] [Anyone Can Unlock Your Android Without the Password](https://lifehacker.com/anyone-can-unlock-your-android-without-the-password-1849780710)
+- [Dev.to/JS] [Release 0.3-External](https://dev.to/lostbutton/release-03-external-31o0)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Nov 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-nov-2022-3de1)
+- [Lifehacker] [These Volkswagens Are Being Recalled for Faulty Tire-Pressure Monitoring](https://lifehacker.com/these-volkswagens-are-being-recalled-for-faulty-tire-pr-1849780388)
+- [Dev.to/JS] [Experimenting with linters, formatters, and pre-commit hooks](https://dev.to/tdaw/experimenting-with-linters-formatters-and-pre-commit-hooks-872)
 - [Dev.to/JS] [Short tricks of HTML, CSS and JavaScript II](https://dev.to/gengns/short-tricks-of-html-css-and-javascript-ii-4hpm)
 - [Dev.to/JS] [Angular Dependency Injection Understood III](https://dev.to/renaisense_/angular-dependency-injection-understood-iii-4a20)
 - [Lifehacker] [If You&#39;re Worried About Which Vegetables Are &#39;Healthier,&#39; You&#39;re Overthinking It](https://lifehacker.com/if-youre-worried-about-which-vegetables-are-healthier-1849780525)
@@ -34,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Throttling? How to implement it in JS?](https://dev.to/dileepreddyaella/what-is-throttling-how-to-implement-it-in-js-52d8)
 - [Lifehacker] [How to Watch Two Americans Take Their First Spacewalk](https://lifehacker.com/how-to-watch-two-americans-take-their-first-spacewalk-1849779686)
 - [Dev.to/JS] [Boostrap or Tailwind...?](https://dev.to/develop92001047/boostrap-or-tailwind-3ldf)
-- [Dev.to/JS] [Everybody from different background can become a great programmer, if only you can be consistence in your practice.](https://dev.to/ejossy3030/everybody-from-different-background-can-become-a-great-programmer-if-only-you-can-be-consistence-in-your-practice-3581)
-- [Dev.to/JS] [.toLowerCase&lpar;&rpar; or not to Lowercase](https://dev.to/shaikhk2/tolowercase-or-not-to-lowercase-1bb1)
 - [Lifehacker] [You Really Should Bind Your VPN to Your Torrent Client](https://lifehacker.com/you-should-really-bind-your-vpn-to-your-torrent-client-1849779407)
-- [Dev.to/JS] [5 most important features you should know about Javascript ES2022](https://dev.to/shivamblog/5-most-important-features-you-should-know-about-javascript-es2022-1kj)
-- [Dev.to/JS] [What is DRY Code](https://dev.to/wizdomtek/what-is-dry-code-3imh)
 - [Lifehacker] [How to Tell the Difference Between Sadness and Depression](https://lifehacker.com/how-to-tell-the-difference-between-sadness-and-depressi-1849775776)
-- [Dev.to/JS] [Tauri + NodeJS: Alternative to Electron](https://dev.to/perfect7m/tauri-nodejs-alternative-to-electron-2l9l)
 - [Lifehacker] [This Inside-Out Lasagna Cake Is All Crispy Edges](https://lifehacker.com/this-inside-out-lasagna-cake-is-all-crispy-edges-1849774653)
 - [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
 - [Crazy Programmer] [Guido Van Rossum Biography](https://www.thecrazyprogrammer.com/2022/11/guido-van-rossum-biography.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
 - [Lifehacker] [Ford Recalls 47,000 SUVs for Faulty Backup Cameras](https://lifehacker.com/ford-recalls-47-000-suvs-for-faulty-backup-cameras-1849773797)
 - [Lifehacker] [How to Fix PS5 Stick Drift](https://lifehacker.com/how-to-fix-ps5-stick-drift-1849773700)
-- [Lifehacker] [Do This Instead of Keeping Your Phone Out of Your Bedroom at Night](https://lifehacker.com/do-this-instead-of-keeping-your-phone-out-of-your-bedro-1849773354)
-- [Lifehacker] [Plastic Wrap Is Your Best Travel Accessory](https://lifehacker.com/plastic-wrap-is-your-best-travel-accessory-1849773228)
-- [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do This Instead of Keeping Your Phone Out of Your Bedroom at Night](https://lifehacker.com/do-this-instead-of-keeping-your-phone-out-of-your-bedro-1849773354)<!-- TECH-POSTS:END -->
 
 ---
 
