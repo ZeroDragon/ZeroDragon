@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Bring a Bouquet of Herbs to Thanksgiving Dinner](https://lifehacker.com/bring-a-bouquet-of-herbs-to-thanksgiving-dinner-1849774524)
+- [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 4](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-4-3h8m)
+- [Lifehacker] [Never Use Bleach on These Surfaces](https://lifehacker.com/never-use-bleach-on-these-surfaces-1849774463)
+- [Dev.to/JS] [How to create 3D models &lpar;e.g. irregular floors&rpar; with javascript](https://dev.to/kevindong/how-to-create-3d-models-eg-irregular-floors-with-javascript-5d2n)
+- [Dev.to/JS] [Autenticações usando JWT](https://dev.to/jairocket/autenticacoes-usando-jwt-3627)
 - [Dev.to/JS] [Conditional Logging to the JavaScript Console](https://dev.to/redbit/conditional-logging-to-the-javascript-console-2bl9)
 - [Lifehacker] [How to Watch the 2022 FIFA World Cup for Free](https://lifehacker.com/how-to-watch-the-2022-fifa-world-cup-for-free-1849774977)
 - [Dev.to/JS] [Automate One Time Password &lpar;OTP&rpar; using Cypress](https://dev.to/dilpreetjohal/automate-one-time-password-otp-using-cypress-7h1)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SvelteKit Local Edge Functions: Edge on Localhost](https://dev.to/askrodney/sveltekit-local-edge-functions-edge-on-localhost-3j5m)
 - [Dev.to/JS] [Kraken clone script - Start a crypto exchange like Kraken](https://dev.to/mgaaron/kraken-clone-script-start-a-crypto-exchange-like-kraken-121l)
 - [Dev.to/JS] [Microsoft Azure DevOps Simplified](https://dev.to/postwell45/microsoft-azure-devops-simplified-460f)
-- [Dev.to/JS] [What you need to extra setup before start to working with Angular ?](https://dev.to/sefatanam/what-you-need-to-extra-setup-before-start-to-working-with-angular--4ja3)
-- [Dev.to/JS] [Creating a HTML Tag Function - Part 1](https://dev.to/gabrieljm/creating-a-html-tag-function-part-1-1eph)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍻.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-j3c)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Fall for the ‘Pig Butchering’ Scam](https://lifehacker.com/don-t-fall-for-the-pig-butchering-scam-1849769412)
 - [Lifehacker] [11 Ways to Set Up a More Effective Study Space](https://lifehacker.com/11-ways-to-set-up-a-more-effective-study-space-1849769797)
 - [Lifehacker] [This Is How Much Salt You Need to Dry Brine a Turkey](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
-- [Lifehacker] [10 Stealth Thanksgiving Movies](https://lifehacker.com/10-stealth-thanksgiving-movies-1849769620)
-- [Lifehacker] [10 Ways to Make Your Kids Less Materialistic During the Holidays](https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779)
-- [Lifehacker] [18 of the Best Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Stealth Thanksgiving Movies](https://lifehacker.com/10-stealth-thanksgiving-movies-1849769620)<!-- TECH-POSTS:END -->
 
 ---
 
