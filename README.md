@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Post de Dev](https://dev.to/alejandromartinezcs/post-de-dev-407j)
+- [Dev.to/JS] [5 Front End Interview Coding Exercises Part 2 TicTacToe](https://dev.to/lucvankerkvoort/5-front-end-interview-coding-exercises-part-2-tictactoe-2k6d)
+- [Dev.to/JS] [Learn to build a weather app in just 5 mins](https://dev.to/documatic/learn-to-build-a-weather-app-in-just-5-mins-o7l)
 - [Dev.to/JS] [OSD600 Lab9](https://dev.to/dadolhay/osd600-lab9-5279)
 - [Dev.to/JS] [Building an e-commerce app with Keystone](https://dev.to/asayerio_techblog/building-an-e-commerce-app-with-keystone-2npc)
 - [Dev.to/JS] [Mutations And Caching With Redux-Toolkit-Query](https://dev.to/asayerio_techblog/mutations-and-caching-with-redux-toolkit-query-2gi3)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Difference between exports and module.exports](https://dev.to/dhanushnehru/difference-between-exports-and-moduleexports-nja)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Dev.to/JS] [Glassmorphic Calculator using JavaScript](https://dev.to/piyushpatil1243/glassmorphic-calculator-using-javascript-4opp)
-- [Dev.to/JS] [Reverse Odd Levels of Binary Tree](https://dev.to/zeeshanali0704/reverse-odd-levels-of-binary-tree-56a6)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
