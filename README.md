@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Short tricks of HTML, CSS and JavaScript II](https://dev.to/gengns/short-tricks-of-html-css-and-javascript-ii-4hpm)
+- [Dev.to/JS] [Angular Dependency Injection Understood III](https://dev.to/renaisense_/angular-dependency-injection-understood-iii-4a20)
 - [Lifehacker] [If You&#39;re Worried About Which Vegetables Are &#39;Healthier,&#39; You&#39;re Overthinking It](https://lifehacker.com/if-youre-worried-about-which-vegetables-are-healthier-1849780525)
 - [Dev.to/JS] [Best way to choose a programming font!!](https://dev.to/jmunguia/best-way-to-choose-a-programming-font-3laa)
 - [Dev.to/JS] [Continuous integration pipeline](https://dev.to/mnosov622/continuous-integration-pipeline-3dcd)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell the Difference Between Sadness and Depression](https://lifehacker.com/how-to-tell-the-difference-between-sadness-and-depressi-1849775776)
 - [Dev.to/JS] [Tauri + NodeJS: Alternative to Electron](https://dev.to/perfect7m/tauri-nodejs-alternative-to-electron-2l9l)
 - [Lifehacker] [This Inside-Out Lasagna Cake Is All Crispy Edges](https://lifehacker.com/this-inside-out-lasagna-cake-is-all-crispy-edges-1849774653)
-- [Dev.to/JS] [How to Make Digital Clock Using JavaScript](https://dev.to/onlineittutstutorials/how-to-make-digital-clock-using-javascript-3b9c)
 - [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
-- [Dev.to/JS] [Open Sourcing My Biggest Freelancing Project That Made Me $5000 In Just 2 months of work](https://dev.to/sjcodebook/open-sourcing-my-biggest-freelancing-project-that-made-me-5000-in-just-2-months-of-work-3p86)
 - [Crazy Programmer] [Guido Van Rossum Biography](https://www.thecrazyprogrammer.com/2022/11/guido-van-rossum-biography.html)
 - [Lifehacker] [Bring a Bouquet of Herbs to Thanksgiving Dinner](https://lifehacker.com/bring-a-bouquet-of-herbs-to-thanksgiving-dinner-1849774524)
 - [Lifehacker] [Never Use Bleach on These Surfaces](https://lifehacker.com/never-use-bleach-on-these-surfaces-1849774463)
