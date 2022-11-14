@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a HTML Tag Function - Part 1](https://dev.to/gabrieljm/creating-a-html-tag-function-part-1-1eph)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍻.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-j3c)
+- [Dev.to/JS] [Awesome Productivity Tools for Developers](https://dev.to/surajondev/awesome-productivity-tools-for-developers-40lj)
+- [Dev.to/JS] [What&#39;s the point of Test Automation?](https://dev.to/postwell45/whats-the-point-of-test-automation-37bi)
 - [Dev.to/JS] [React-contexify v6 is live!](https://dev.to/fkhadra/react-contexify-v6-is-live-535d)
 - [Dev.to/JS] [Bottom view of Binary Tree](https://dev.to/zeeshanali0704/bottom-view-of-binary-tree-5527)
 - [Dev.to/JS] [Even Odd Tree](https://dev.to/zeeshanali0704/even-odd-tree-2ahe)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why is push&lpar;&rpar; and pop&lpar;&rpar; array methods said to be faster than shift&lpar;&rpar; and unshift&lpar;&rpar; array methods ?](https://dev.to/delyc/lets-analyze-the-time-complexity-of-some-array-methods-fcp)
 - [Dev.to/JS] [Use TypeScript to DRY up React components](https://dev.to/akoskm/use-typescript-to-dry-up-react-components-463m)
 - [Dev.to/JS] [Where to impliment Password Encryption in node.js](https://dev.to/jane49cloud/where-to-impliment-password-encryption-in-nodejs-4e7k)
-- [Dev.to/JS] [Create beautiful images of your code - imgsrc.shibu.dev](https://dev.to/shibun/need-imgsrcshibudev-feedbacks-and-suggestions-41p6)
-- [Dev.to/JS] [Ng-News: Episode 22/45](https://dev.to/ng_news/ng-news-episode-2245-2177)
-- [Dev.to/JS] [How to Build Dynamic Forms in Angular](https://dev.to/danywalls/how-to-build-dynamic-forms-in-angular-2732)
-- [Dev.to/JS] [500+ Tailwind UI Components, Templates, and UI Kit &lpar;Free and Premium&rpar;](https://dev.to/tailwindcss/tailwind-components-templates-ui-kit-20lp)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
