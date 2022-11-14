@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Digital Clock Using JavaScript](https://dev.to/onlineittutstutorials/how-to-make-digital-clock-using-javascript-3b9c)
+- [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
+- [Dev.to/JS] [Open Sourcing My Biggest Freelancing Project That Made Me $5000 In Just 2 months of work](https://dev.to/sjcodebook/open-sourcing-my-biggest-freelancing-project-that-made-me-5000-in-just-2-months-of-work-3p86)
+- [Dev.to/JS] [Automated Accessibility Part 2: Mobile Web Testing](https://dev.to/steady5063/automated-accessibility-part-2-mobile-web-testing-3jng)
+- [Crazy Programmer] [Guido Van Rossum Biography](https://www.thecrazyprogrammer.com/2022/11/guido-van-rossum-biography.html)
 - [Lifehacker] [Bring a Bouquet of Herbs to Thanksgiving Dinner](https://lifehacker.com/bring-a-bouquet-of-herbs-to-thanksgiving-dinner-1849774524)
 - [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 4](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-4-3h8m)
 - [Lifehacker] [Never Use Bleach on These Surfaces](https://lifehacker.com/never-use-bleach-on-these-surfaces-1849774463)
@@ -35,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to update all npm package.json dependencies to the latest version](https://dev.to/coderslang/how-to-update-all-npm-packagejson-dependencies-to-the-latest-version-4okn)
 - [Lifehacker] [The 7 Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/the-worst-mistakes-you-can-make-hosting-thanksgiving-di-1849773791)
 - [Dev.to/JS] [NestJs Course: Controller and Routing - part 1](https://dev.to/sifatul/nestjs-course-user-management-part-1-12jm)
-- [Dev.to/JS] [JavaScript Debugging](https://dev.to/np6176a/javascript-debugging-2dli)
+- [Dev.to/JS] [JavaScript Debugging](https://dev.to/findniya/javascript-debugging-2dli)
 - [Lifehacker] [Your Post-Workout Meal Isn&#39;t As Important As You Think](https://lifehacker.com/your-post-workout-meal-isnt-as-important-as-you-think-1849774458)
-- [Dev.to/JS] [SvelteKit Local Edge Functions: Edge on Localhost](https://dev.to/askrodney/sveltekit-local-edge-functions-edge-on-localhost-3j5m)
-- [Dev.to/JS] [Kraken clone script - Start a crypto exchange like Kraken](https://dev.to/mgaaron/kraken-clone-script-start-a-crypto-exchange-like-kraken-121l)
-- [Dev.to/JS] [Microsoft Azure DevOps Simplified](https://dev.to/postwell45/microsoft-azure-devops-simplified-460f)
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Incredibly Niche Podcasts](https://lifehacker.com/12-incredibly-niche-podcasts-1849759822)
 - [Lifehacker] [When to See a Doctor About Your Bad Nighttime Vision](https://lifehacker.com/when-to-see-a-doctor-about-your-bad-nighttime-vision-1849771070)
 - [Lifehacker] [Don’t Fall for the ‘Pig Butchering’ Scam](https://lifehacker.com/don-t-fall-for-the-pig-butchering-scam-1849769412)
-- [Lifehacker] [11 Ways to Set Up a More Effective Study Space](https://lifehacker.com/11-ways-to-set-up-a-more-effective-study-space-1849769797)
-- [Lifehacker] [This Is How Much Salt You Need to Dry Brine a Turkey](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
-- [Lifehacker] [10 Stealth Thanksgiving Movies](https://lifehacker.com/10-stealth-thanksgiving-movies-1849769620)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Ways to Set Up a More Effective Study Space](https://lifehacker.com/11-ways-to-set-up-a-more-effective-study-space-1849769797)<!-- TECH-POSTS:END -->
 
 ---
 
