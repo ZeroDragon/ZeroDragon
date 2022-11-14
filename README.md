@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [If You&#39;re Worried About Which Vegetables Are &#39;Healthier,&#39; You&#39;re Overthinking It](https://lifehacker.com/if-youre-worried-about-which-vegetables-are-healthier-1849780525)
+- [Dev.to/JS] [Best way to choose a programming font!!](https://dev.to/jmunguia/best-way-to-choose-a-programming-font-3laa)
+- [Dev.to/JS] [Continuous integration pipeline](https://dev.to/mnosov622/continuous-integration-pipeline-3dcd)
+- [Lifehacker] [The Smartest Ways to Add More Seating to Your Next Holiday Party](https://lifehacker.com/the-smartest-ways-to-add-more-seating-to-your-next-holi-1849779999)
 - [Lifehacker] [Don&#39;t Delete Your Twitter Account &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-delete-your-twitter-account-do-this-instead-1849779710)
 - [Dev.to/JS] [Awesome Dev Tool Tips 🔥](https://dev.to/lissy93/awesome-dev-tool-tips-32oo)
 - [Dev.to/JS] [What is Throttling? How to implement it in JS?](https://dev.to/dileepreddyaella/what-is-throttling-how-to-implement-it-in-js-52d8)
@@ -39,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make Digital Clock Using JavaScript](https://dev.to/onlineittutstutorials/how-to-make-digital-clock-using-javascript-3b9c)
 - [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
 - [Dev.to/JS] [Open Sourcing My Biggest Freelancing Project That Made Me $5000 In Just 2 months of work](https://dev.to/sjcodebook/open-sourcing-my-biggest-freelancing-project-that-made-me-5000-in-just-2-months-of-work-3p86)
-- [Dev.to/JS] [Automated Accessibility Part 2: Mobile Web Testing](https://dev.to/steady5063/automated-accessibility-part-2-mobile-web-testing-3jng)
 - [Crazy Programmer] [Guido Van Rossum Biography](https://www.thecrazyprogrammer.com/2022/11/guido-van-rossum-biography.html)
 - [Lifehacker] [Bring a Bouquet of Herbs to Thanksgiving Dinner](https://lifehacker.com/bring-a-bouquet-of-herbs-to-thanksgiving-dinner-1849774524)
-- [Dev.to/JS] [Construindo aplicação do zero com node.js: Parte 4](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-4-3h8m)
 - [Lifehacker] [Never Use Bleach on These Surfaces](https://lifehacker.com/never-use-bleach-on-these-surfaces-1849774463)
 - [Lifehacker] [How to Watch the 2022 FIFA World Cup for Free](https://lifehacker.com/how-to-watch-the-2022-fifa-world-cup-for-free-1849774977)
 - [Lifehacker] [The 7 Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/the-worst-mistakes-you-can-make-hosting-thanksgiving-di-1849773791)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix PS5 Stick Drift](https://lifehacker.com/how-to-fix-ps5-stick-drift-1849773700)
 - [Lifehacker] [Do This Instead of Keeping Your Phone Out of Your Bedroom at Night](https://lifehacker.com/do-this-instead-of-keeping-your-phone-out-of-your-bedro-1849773354)
 - [Lifehacker] [Plastic Wrap Is Your Best Travel Accessory](https://lifehacker.com/plastic-wrap-is-your-best-travel-accessory-1849773228)
-- [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)
-- [Lifehacker] [Why You Should Update &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; on Day One](https://lifehacker.com/why-you-should-update-pokemon-scarlet-and-violet-on-day-1849772911)
-- [Lifehacker] [You Need a New Admin Account on Your Mac](https://lifehacker.com/you-need-a-new-admin-account-on-your-mac-1849772119)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)<!-- TECH-POSTS:END -->
 
 ---
 
