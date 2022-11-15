@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to replace the API Key with Private Apps in Hubspot](https://dev.to/darkmavis1980/how-to-replace-the-api-key-with-private-apps-in-hubspot-29i9)
+- [Dev.to/JS] [How to use JavaScript Ternary Operator?](https://dev.to/refine/how-to-use-javascript-ternary-operator-58ki)
+- [Dev.to/JS] [Async control: Promise Queues and &quot;leaky-buckets&quot; 💧💦](https://dev.to/devtestsca/async-control-promise-queues-and-leaky-buckets-23o5)
+- [Lifehacker] [20 Operatic Action Movies to Watch Before &#39;John Wick 4&#39;](https://lifehacker.com/20-operatic-action-movies-to-watch-before-john-wick-4-1849776702)
+- [Dev.to/JS] [SvelteKit Node App Deploy: Linux Cloud Hosting](https://dev.to/askrodney/sveltekit-node-app-deploy-linux-cloud-hosting-5ei9)
+- [Dev.to/JS] [How does #blockchain technology work for business?](https://dev.to/yashdev9274/how-does-blockchain-technology-work-for-business-10bk)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Dev.to/JS] [How to get current date in JavaScript](https://dev.to/coderslang/how-to-get-current-date-in-javascript-57je)
 - [Lifehacker] [11 &#39;Facts&#39; From Medieval History That Are Just Plain Wrong](https://lifehacker.com/11-facts-from-medieval-history-that-are-just-plain-wron-1849782044)
@@ -32,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week🐍.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-9h5)
 - [Dev.to/JS] [Best VS Code Extensions for HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/best-vs-code-extensions-for-html-css-and-javascript-5f30)
 - [Dev.to/JS] [From PHP to JS ecommerce: Migrate from Magento and stay open source 🤩](https://dev.to/medusajs/from-php-to-js-ecommerce-migrate-from-magento-and-stay-open-source-2ba3)
-- [Dev.to/JS] [NodeJS Module System](https://dev.to/olatisunkanmi/nodejs-module-system-323m)
-- [Dev.to/JS] [Looking for a Software Development Company for your Business Need?](https://dev.to/mahesh0622/looking-for-a-software-development-company-for-your-business-need-2ab6)
-- [Dev.to/JS] [Destrukturisanje u JavaScriptu - tvoj dobar drugar](https://dev.to/bslaven/destrukturisanje-u-javascriptu-tvoj-dobar-drugar-m9p)
-- [Dev.to/JS] [Building a real-time bidding system with Socket.io and React Native 🤩](https://dev.to/novu/building-a-real-time-bidding-system-with-socketio-and-react-native-1cj5)
-- [Dev.to/JS] [How to Upload HTML Website on Server](https://dev.to/onlineittutstutorials/how-to-upload-html-website-on-server-20dh)
 - [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
-- [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
-- [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)<!-- TECH-POSTS:END -->
 
 ---
 
