@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 of the Most Useful Canva Features You Should Be Using](https://lifehacker.com/8-of-the-most-useful-canva-features-you-should-be-using-1849783645)
+- [Dev.to/JS] [How to Create a Modal Popup in HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-create-a-modal-popup-in-html-css-and-javascript-j1j)
+- [Dev.to/JS] [The Definitive Guide to Node.js Backend Development](https://dev.to/lob/the-definitive-guide-to-nodejs-backend-development-3ec9)
+- [Lifehacker] [Make the Best Pancake Syrup of Your Life With Apple Cider](https://lifehacker.com/make-the-best-pancake-syrup-of-your-life-with-apple-cid-1849782079)
+- [Dev.to/JS] [React Native Chat App Tutorial in 3 steps.](https://dev.to/alakkadshaw/react-native-chat-app-tutorial-in-3-steps-550i)
+- [Dev.to/JS] [Create a React Hook Library and Publish on npm .](https://dev.to/sfundomhlungu/create-a-react-hook-library-and-publish-on-npm--5631)
 - [Lifehacker] [Why Babies and Toddlers Echo Your Words &lpar;and What to Do If It Goes on Too Long&rpar;](https://lifehacker.com/why-babies-and-toddlers-echo-your-words-and-what-to-do-1849783270)
+- [Dev.to/JS] [10 Topics For web development - a beginners guide 👨🏽‍💻👨🏼‍🏫](https://dev.to/elliot_brenyasarfo_18749/10-topics-for-web-development-a-beginners-guide-4hdc)
 - [Dev.to/JS] [All about Enum in Typescript](https://dev.to/urstrulyvishwak/all-about-enum-in-typescript-356l)
 - [Lifehacker] [10 of the World’s Deadliest Animals, Ranked by Kill Count](https://lifehacker.com/10-of-the-world-s-deadliest-animals-ranked-by-kill-cou-1849783511)
 - [Lifehacker] [No, You’re Not Getting a Free Yeti Cooler From Dick’s Sporting Goods](https://lifehacker.com/no-you-re-not-getting-a-free-yeti-cooler-from-dick-s-s-1849782101)
@@ -36,11 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Dev.to/JS] [How to get current date in JavaScript](https://dev.to/coderslang/how-to-get-current-date-in-javascript-57je)
 - [Lifehacker] [11 &#39;Facts&#39; From Medieval History That Are Just Plain Wrong](https://lifehacker.com/11-facts-from-medieval-history-that-are-just-plain-wron-1849782044)
-- [Dev.to/JS] [瀏覽器上的儲存空間：sessionStorage、localStorage](https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-sessionstorage-localstorage-15n4)
-- [Dev.to/JS] [Turn your web app to a lean, memory efficient desktop software with neutralino.js](https://dev.to/sfundomhlungu/turn-your-web-app-to-a-lean-memory-efficient-desktop-software-with-neutralinojs-2lhf)
-- [Dev.to/JS] [How to build and launch a new web app for free?](https://dev.to/zenstack/how-to-build-and-launch-a-new-web-app-for-free-5fng)
-- [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week🐍.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-9h5)
-- [Dev.to/JS] [Best VS Code Extensions for HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/best-vs-code-extensions-for-html-css-and-javascript-5f30)
 - [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Bring a Bouquet of Herbs to Thanksgiving Dinner](https://lifehacker.com/bring-a-bouquet-of-herbs-to-thanksgiving-dinner-1849774524)
 - [Lifehacker] [Never Use Bleach on These Surfaces](https://lifehacker.com/never-use-bleach-on-these-surfaces-1849774463)
 - [Lifehacker] [How to Watch the 2022 FIFA World Cup for Free](https://lifehacker.com/how-to-watch-the-2022-fifa-world-cup-for-free-1849774977)
-- [Lifehacker] [The 7 Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/the-worst-mistakes-you-can-make-hosting-thanksgiving-di-1849773791)
-- [Lifehacker] [Your Post-Workout Meal Isn&#39;t As Important As You Think](https://lifehacker.com/your-post-workout-meal-isnt-as-important-as-you-think-1849774458)
-- [Lifehacker] [You Can Fix Your Dog’s Begging Before Thanksgiving Arrives](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/the-worst-mistakes-you-can-make-hosting-thanksgiving-di-1849773791)<!-- TECH-POSTS:END -->
 
 ---
 
