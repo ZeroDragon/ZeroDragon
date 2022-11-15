@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Time Is Running Out To Claim Your Stimulus and Child Tax Credit Payments](https://lifehacker.com/time-is-running-out-to-claim-your-stimulus-and-child-ta-1849786099)
+- [Lifehacker] [How to Rescue a Waterlogged Book](https://lifehacker.com/how-to-rescue-a-waterlogged-book-1849785095)
 - [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170)
 - [Lifehacker] [All the Ways a Cooler &lpar;or Three&rpar; Will Help You Survive Thanksgiving](https://lifehacker.com/all-the-ways-a-cooler-or-three-will-help-you-survive-1849785357)
 - [Dev.to/JS] [Boilerplate for NestJS + Terraform + AWS Lambda with Lazy Module loading](https://dev.to/mjmaix/boilerplate-for-nestjs-terraform-aws-lambda-with-lazy-module-loading-1nf1)
