@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [瀏覽器上的儲存空間：sessionStorage、localStorage](https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-sessionstorage-localstorage-15n4)
+- [Dev.to/JS] [Turn your web app to a lean, memory efficient desktop software easily with neutralino.js](https://dev.to/sfundomhlungu/turn-your-web-app-to-a-lean-memory-efficient-desktop-software-with-neutralinojs-2lhf)
+- [Dev.to/JS] [How to build and launch a new web app for free?](https://dev.to/zenstack/how-to-build-and-launch-a-new-web-app-for-free-5fng)
 - [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week🐍.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-9h5)
 - [Dev.to/JS] [Best VS Code Extensions for HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/best-vs-code-extensions-for-html-css-and-javascript-5f30)
 - [Dev.to/JS] [From PHP to JS ecommerce: Migrate from Magento and stay open source 🤩](https://dev.to/medusajs/from-php-to-js-ecommerce-migrate-from-magento-and-stay-open-source-2ba3)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a real-time bidding system with Socket.io and React Native 🤩](https://dev.to/novu/building-a-real-time-bidding-system-with-socketio-and-react-native-1cj5)
 - [Dev.to/JS] [How to Upload HTML Website on Server](https://dev.to/onlineittutstutorials/how-to-upload-html-website-on-server-20dh)
 - [Dev.to/JS] [Responsive Login Form in HTML and CSS3](https://dev.to/onlineittutstutorials/responsive-login-form-in-html-and-css3-4g72)
-- [Dev.to/JS] [Single-page applications, multi-page applications, the history of Twitter tech, and a failed project](https://dev.to/whitep4nth3r/single-page-applications-multi-page-applications-the-history-of-twitter-tech-and-a-failed-project-30o0)
-- [Dev.to/JS] [Tic Tac Toe Game with Vue JS](https://dev.to/fahad_islam/tic-tac-toe-game-with-vue-js-52b3)
-- [Dev.to/JS] [Form-Associated Custom Elements](https://dev.to/bennypowers/form-associated-custom-elements-35f2)
 - [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
