@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Form-Associated Custom Elements](https://dev.to/bennypowers/form-associated-custom-elements-35f2)
+- [Dev.to/JS] [A Tour into CLI.](https://dev.to/_sirphil/a-tour-into-cli-39hc)
 - [Dev.to/JS] [It&#39;s all about the Javascript concept](https://dev.to/saakeeb/its-all-about-the-javascript-concept-2lg)
 - [Dev.to/JS] [Converting big strings of number into Number](https://dev.to/delyc/converting-big-strings-of-number-into-number-5ggc)
 - [Dev.to/JS] [JavaScript Events](https://dev.to/sadiqshah786/javascript-events-22hn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 Common Methods to Generate Cash App Card Design Ideas?](https://dev.to/mikes1987/6-common-methods-to-generate-cash-app-card-design-ideas-4lg6)
 - [Dev.to/JS] [How to update an array of objects in React state](https://dev.to/andyrewlee/how-to-update-an-array-of-objects-in-react-state-3d)
 - [Dev.to/JS] [Strategies for documenting code](https://dev.to/peadevp/strategies-for-documenting-code-1o4b)
-- [Dev.to/JS] [Youtube: Recreational coding channel](https://dev.to/codeguppy/youtube-recreational-coding-channel-3ol1)
-- [Dev.to/JS] [How to get internships in web development?](https://dev.to/ridhisingla001/how-to-get-internships-in-web-development-3jcl)
 - [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
