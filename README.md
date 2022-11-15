@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
+- [Dev.to/JS] [How to get current date in JavaScript](https://dev.to/coderslang/how-to-get-current-date-in-javascript-57je)
+- [Lifehacker] [11 &#39;Facts&#39; From Medieval History That Are Just Plain Wrong](https://lifehacker.com/11-facts-from-medieval-history-that-are-just-plain-wron-1849782044)
 - [Dev.to/JS] [瀏覽器上的儲存空間：sessionStorage、localStorage](https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-sessionstorage-localstorage-15n4)
 - [Dev.to/JS] [Turn your web app to a lean, memory efficient desktop software easily with neutralino.js](https://dev.to/sfundomhlungu/turn-your-web-app-to-a-lean-memory-efficient-desktop-software-with-neutralinojs-2lhf)
 - [Dev.to/JS] [How to build and launch a new web app for free?](https://dev.to/zenstack/how-to-build-and-launch-a-new-web-app-for-free-5fng)
@@ -34,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Destrukturisanje u JavaScriptu - tvoj dobar drugar](https://dev.to/bslaven/destrukturisanje-u-javascriptu-tvoj-dobar-drugar-m9p)
 - [Dev.to/JS] [Building a real-time bidding system with Socket.io and React Native 🤩](https://dev.to/novu/building-a-real-time-bidding-system-with-socketio-and-react-native-1cj5)
 - [Dev.to/JS] [How to Upload HTML Website on Server](https://dev.to/onlineittutstutorials/how-to-upload-html-website-on-server-20dh)
-- [Dev.to/JS] [Responsive Login Form in HTML and CSS3](https://dev.to/onlineittutstutorials/responsive-login-form-in-html-and-css3-4g72)
 - [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pick a Ceiling Fan Based on a Room&#39;s Square Footage](https://lifehacker.com/pick-a-ceiling-fan-based-on-a-rooms-square-footage-1849772956)
 - [Lifehacker] [You Need Two Pillowcases on Your Pillows](https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964)
 - [Lifehacker] [The Right Way to Clean Your Fireplace](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
-- [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)
-- [Lifehacker] [Consider These Tree Maintenance Costs Before Buying a New House](https://lifehacker.com/consider-these-tree-maintenance-costs-before-buying-a-n-1849773194)
-- [Lifehacker] [Beware of &#39;Snow Globing&#39; When Dating During the Holidays](https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid Using Blue Mailboxes During the Holidays, USPS Warns](https://lifehacker.com/avoid-using-blue-mailboxes-during-the-holidays-usps-wa-1849773201)<!-- TECH-POSTS:END -->
 
 ---
 
