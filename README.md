@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s all about the Javascript concept](https://dev.to/saakeeb/its-all-about-the-javascript-concept-2lg)
+- [Dev.to/JS] [Converting big strings of number into Number](https://dev.to/delyc/converting-big-strings-of-number-into-number-5ggc)
+- [Dev.to/JS] [JavaScript Events](https://dev.to/sadiqshah786/javascript-events-22hn)
 - [Dev.to/JS] [10 tips to reach 5400+ ⭐️ stars on a GitHub with an open source project](https://dev.to/necatiozmen/10-tips-to-reach-5400-stars-on-a-github-with-an-open-source-project-27hp)
 - [Dev.to/JS] [How to Master Javascript Like Mastering Rondale Football!](https://dev.to/nftslab/how-to-master-javascript-like-mastering-rondale-football-32pd)
 - [Dev.to/JS] [Animated Portfolio Website Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/animated-portfolio-website-html-css-javascript-17ho)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strategies for documenting code](https://dev.to/peadevp/strategies-for-documenting-code-1o4b)
 - [Dev.to/JS] [Youtube: Recreational coding channel](https://dev.to/codeguppy/youtube-recreational-coding-channel-3ol1)
 - [Dev.to/JS] [How to get internships in web development?](https://dev.to/ridhisingla001/how-to-get-internships-in-web-development-3jcl)
-- [Dev.to/JS] [JavaScript Hashmap: Performant Key-Value](https://dev.to/imbios/javascript-hashmap-performant-key-value-1bcl)
-- [Dev.to/JS] [InstaReact](https://dev.to/tookooltech/instareact-4bgl)
-- [Dev.to/JS] [Code Smell 179 - Known Bugs](https://dev.to/mcsee/code-smell-179-known-bugs-1ieg)
 - [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
