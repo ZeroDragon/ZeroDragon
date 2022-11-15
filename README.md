@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170)
+- [Lifehacker] [All the Ways a Cooler &lpar;or Three&rpar; Will Help You Survive Thanksgiving](https://lifehacker.com/all-the-ways-a-cooler-or-three-will-help-you-survive-1849785357)
+- [Dev.to/JS] [Boilerplate for NestJS + Terraform + AWS Lambda with Lazy Module loading](https://dev.to/mjmaix/boilerplate-for-nestjs-terraform-aws-lambda-with-lazy-module-loading-1nf1)
 - [Dev.to/JS] [Supercharge your Build Tooling](https://dev.to/waldronmatt/supercharge-your-build-tooling-bhk)
 - [Dev.to/JS] [design patterns every javascript developer should know](https://dev.to/chandramarch18/design-patterns-every-javascript-developer-should-know-a46)
 - [Dev.to/JS] [How to Create a Modal Popup in HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-create-a-modal-popup-in-html-css-and-javascript-j1j)
@@ -34,7 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to replace the API Key with Private Apps in Hubspot](https://dev.to/darkmavis1980/how-to-replace-the-api-key-with-private-apps-in-hubspot-29i9)
 - [Dev.to/JS] [How to use JavaScript Ternary Operator?](https://dev.to/refine/how-to-use-javascript-ternary-operator-58ki)
 - [Dev.to/JS] [Async control: Promise Queues and &quot;leaky-buckets&quot; 💧💦](https://dev.to/devtestsca/async-control-promise-queues-and-leaky-buckets-23o5)
-- [Dev.to/JS] [SvelteKit Node App Deploy: Linux Cloud Hosting](https://dev.to/askrodney/sveltekit-node-app-deploy-linux-cloud-hosting-5ei9)
+- [Lifehacker] [These Volkswagens Are Being Recalled for Faulty Tire-Pressure Monitoring](https://lifehacker.com/these-volkswagens-are-being-recalled-for-faulty-tire-pr-1849780388)
 - [Crazy Programmer] [Guido Van Rossum Biography](https://www.thecrazyprogrammer.com/2022/11/guido-van-rossum-biography.html)
 - [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)
 - [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)
