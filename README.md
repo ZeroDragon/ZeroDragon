@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 Common Methods to Generate Cash App Card Design Ideas?](https://dev.to/mikes1987/6-common-methods-to-generate-cash-app-card-design-ideas-4lg6)
+- [Dev.to/JS] [How to update an array of objects in React state](https://dev.to/andyrewlee/how-to-update-an-array-of-objects-in-react-state-3d)
+- [Dev.to/JS] [Strategies for documenting code](https://dev.to/peadevp/strategies-for-documenting-code-1o4b)
 - [Dev.to/JS] [Youtube: Recreational coding channel](https://dev.to/codeguppy/youtube-recreational-coding-channel-3ol1)
 - [Dev.to/JS] [How to get internships in web development?](https://dev.to/ridhisingla001/how-to-get-internships-in-web-development-3jcl)
 - [Dev.to/JS] [JavaScript Hashmap: Performant Key-Value](https://dev.to/imbios/javascript-hashmap-performant-key-value-1bcl)
@@ -32,12 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to remove item from array using its name / value with JavaScript?](https://dev.to/aumayeung/how-to-remove-item-from-array-using-its-name-value-with-javascript-33id)
 - [Dev.to/JS] [How to alert an array with JavaScript?](https://dev.to/aumayeung/how-to-alert-an-array-with-javascript-2bjf)
 - [Dev.to/JS] [How to find if object property exists in an array with Lodash and JavaScript?](https://dev.to/aumayeung/how-to-find-if-object-property-exists-in-an-array-with-lodash-and-javascript-3ng2)
-- [Dev.to/JS] [How to move to prev/next element of an array with JavaScript?](https://dev.to/aumayeung/how-to-move-to-prevnext-element-of-an-array-with-javascript-1973)
-- [Dev.to/JS] [Working with DOM in a front end framework?](https://dev.to/adam_cyclones/working-with-dom-in-a-front-end-framework-f4p)
 - [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
-- [Dev.to/JS] [The Top 9 JavaScript Mistakes Developers Make](https://dev.to/nftslab/the-top-9-javascript-mistakes-developers-make-382o)
 - [Lifehacker] [Ignore All This Financial Advice Your Parents Taught You](https://lifehacker.com/ignore-all-this-financial-advice-your-parents-taught-yo-1849780742)
 - [Lifehacker] [A Cheese-Filled ‘Pumpkin’ Is the Perfect Holiday Appetizer](https://lifehacker.com/a-cheese-filled-pumpkin-is-the-perfect-holiday-appeti-1849781033)
 - [Lifehacker] [Anyone Can Unlock Your Android Without the Password](https://lifehacker.com/anyone-can-unlock-your-android-without-the-password-1849780710)
