@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week🐍.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-9h5)
 - [Dev.to/JS] [Best VS Code Extensions for HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/best-vs-code-extensions-for-html-css-and-javascript-5f30)
 - [Dev.to/JS] [From PHP to JS ecommerce: Migrate from Magento and stay open source 🤩](https://dev.to/medusajs/from-php-to-js-ecommerce-migrate-from-magento-and-stay-open-source-2ba3)
 - [Dev.to/JS] [NodeJS Module System](https://dev.to/olatisunkanmi/nodejs-module-system-323m)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Single-page applications, multi-page applications, the history of Twitter tech, and a failed project](https://dev.to/whitep4nth3r/single-page-applications-multi-page-applications-the-history-of-twitter-tech-and-a-failed-project-30o0)
 - [Dev.to/JS] [Tic Tac Toe Game with Vue JS](https://dev.to/fahad_islam/tic-tac-toe-game-with-vue-js-52b3)
 - [Dev.to/JS] [Form-Associated Custom Elements](https://dev.to/bennypowers/form-associated-custom-elements-35f2)
-- [Dev.to/JS] [A Tour into CLI.](https://dev.to/_sirphil/a-tour-into-cli-39hc)
 - [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
