@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javscript Classes and how they Work](https://dev.to/lensco825/javscript-classes-and-how-they-work-4c9c)
+- [Dev.to/JS] [Typescript : Objects : Index Signatures](https://dev.to/tanmay53/typescript-objects-index-signatures-5db7)
+- [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
 - [Dev.to/JS] [I made my new awesome game for play store](https://dev.to/lucapu88/i-made-my-new-awesome-game-for-play-store-254o)
 - [Dev.to/JS] [Why Do You Need IP-Based Geolocation?](https://dev.to/legaciespanda/why-do-you-need-ip-based-geolocation-3geb)
 - [Lifehacker] [Make This Apple Cider Cake When You&#39;re Over Pie](https://lifehacker.com/make-this-apple-cider-cake-when-youre-over-pie-1849786809)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [design patterns every javascript developer should know](https://dev.to/chandramarch18/design-patterns-every-javascript-developer-should-know-a46)
 - [Dev.to/JS] [How to Create a Modal Popup in HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-create-a-modal-popup-in-html-css-and-javascript-j1j)
 - [Dev.to/JS] [The Definitive Guide to Node.js Backend Development](https://dev.to/lob/the-definitive-guide-to-nodejs-backend-development-3ec9)
-- [Dev.to/JS] [React Native Chat App Tutorial in 3 steps.](https://dev.to/alakkadshaw/react-native-chat-app-tutorial-in-3-steps-550i)
-- [Dev.to/JS] [Create a React Hook Library and Publish on npm .](https://dev.to/sfundomhlungu/create-a-react-hook-library-and-publish-on-npm--5631)
 - [Lifehacker] [These Volkswagens Are Being Recalled for Faulty Tire-Pressure Monitoring](https://lifehacker.com/these-volkswagens-are-being-recalled-for-faulty-tire-pr-1849780388)
 - [Crazy Programmer] [Guido Van Rossum Biography](https://www.thecrazyprogrammer.com/2022/11/guido-van-rossum-biography.html)
 - [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)
