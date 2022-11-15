@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [InstaReact](https://dev.to/tookooltech/instareact-4bgl)
 - [Dev.to/JS] [Code Smell 179 - Known Bugs](https://dev.to/mcsee/code-smell-179-known-bugs-1ieg)
 - [Dev.to/JS] [How to search array of arrays with JavaScript?](https://dev.to/aumayeung/how-to-search-array-of-arrays-with-javascript-25p5)
 - [Dev.to/JS] [How to remove item from array using its name / value with JavaScript?](https://dev.to/aumayeung/how-to-remove-item-from-array-using-its-name-value-with-javascript-33id)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Serverless + JS: Um bot de web-scrapping diário](https://dev.to/guisteink/serverless-js-um-bot-de-web-scrapping-diario-1amb)
 - [Lifehacker] [Anyone Can Unlock Your Android Without the Password](https://lifehacker.com/anyone-can-unlock-your-android-without-the-password-1849780710)
 - [Dev.to/JS] [Release 0.3-External](https://dev.to/lostbutton/release-03-external-31o0)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Nov 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-nov-2022-3de1)
 - [Lifehacker] [These Volkswagens Are Being Recalled for Faulty Tire-Pressure Monitoring](https://lifehacker.com/these-volkswagens-are-being-recalled-for-faulty-tire-pr-1849780388)
 - [Lifehacker] [If You&#39;re Worried About Which Vegetables Are &#39;Healthier,&#39; You&#39;re Overthinking It](https://lifehacker.com/if-youre-worried-about-which-vegetables-are-healthier-1849780525)
 - [Lifehacker] [The Smartest Ways to Add More Seating to Your Next Holiday Party](https://lifehacker.com/the-smartest-ways-to-add-more-seating-to-your-next-holi-1849779999)
