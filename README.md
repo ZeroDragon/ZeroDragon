@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [twitter posts fetcher](https://dev.to/joelwmulongo/twitter-posts-fetcher-3b2)
 - [Dev.to/JS] [6 Common Methods to Generate Cash App Card Design Ideas?](https://dev.to/mikes1987/6-common-methods-to-generate-cash-app-card-design-ideas-4lg6)
 - [Dev.to/JS] [How to update an array of objects in React state](https://dev.to/andyrewlee/how-to-update-an-array-of-objects-in-react-state-3d)
 - [Dev.to/JS] [Strategies for documenting code](https://dev.to/peadevp/strategies-for-documenting-code-1o4b)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to search array of arrays with JavaScript?](https://dev.to/aumayeung/how-to-search-array-of-arrays-with-javascript-25p5)
 - [Dev.to/JS] [How to remove item from array using its name / value with JavaScript?](https://dev.to/aumayeung/how-to-remove-item-from-array-using-its-name-value-with-javascript-33id)
 - [Dev.to/JS] [How to alert an array with JavaScript?](https://dev.to/aumayeung/how-to-alert-an-array-with-javascript-2bjf)
-- [Dev.to/JS] [How to find if object property exists in an array with Lodash and JavaScript?](https://dev.to/aumayeung/how-to-find-if-object-property-exists-in-an-array-with-lodash-and-javascript-3ng2)
 - [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
 - [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)
 - [Lifehacker] [The Best Way to Pack Up Your Guests’ Thanksgiving Leftovers](https://lifehacker.com/the-best-way-to-pack-up-your-guests-thanksgiving-lefto-1849781096)
