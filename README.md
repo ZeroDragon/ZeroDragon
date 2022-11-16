@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Set, Every Junior Should Know](https://dev.to/imbios/javascript-set-every-junior-should-know-2op8)
 - [Dev.to/JS] [¿Por qué aprender React?](https://dev.to/raulprtech/por-que-aprender-react-2eja)
 - [Dev.to/JS] [React 102 - Basic data flows](https://dev.to/noriller/react-102-basic-data-flows-2lcp)
 - [Dev.to/JS] [What editor theme do you use ? 🧑‍🎨🎨](https://dev.to/fadhilsaheer/what-editor-theme-do-you-use--10h3)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object constructor functions: How does a constructor in javascript work?](https://dev.to/salmaab/object-constructor-functions-how-does-a-constructor-in-javascript-work-1b06)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Dev.to/JS] [Javscript Classes and how they Work](https://dev.to/lensco825/javscript-classes-and-how-they-work-4c9c)
-- [Dev.to/JS] [Typescript : Objects : Index Signatures](https://dev.to/tanmay53/typescript-objects-index-signatures-5db7)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
 - [Lifehacker] [Make This Apple Cider Cake When You&#39;re Over Pie](https://lifehacker.com/make-this-apple-cider-cake-when-youre-over-pie-1849786809)
 - [Lifehacker] [How to Know If You Have a Good Doctor](https://lifehacker.com/how-to-know-if-you-have-a-good-doctor-1849786709)
