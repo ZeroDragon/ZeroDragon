@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Postman Pre-request Scripts](https://dev.to/joismar/postman-pre-request-scripts-252a)
+- [Lifehacker] [You Can Order Domino&#39;s for 50% Off Right Now](https://lifehacker.com/you-can-order-dominos-for-50-off-right-now-1849790953)
+- [Dev.to/JS] [Interact with deployed smart contracts using HardHat console](https://dev.to/abondance68/interact-with-deployed-smart-contracts-using-hardhat-console-2kpj)
+- [Dev.to/JS] [What is useContext?](https://dev.to/loganlampton/what-is-usecontext-4m5m)
 - [Dev.to/JS] [代码随想录day1 | 704.二分查找, 27. 移除元素](https://dev.to/986913/dai-ma-sui-xiang-lu-day1-704er-fen-cha-zhao-27-yi-chu-yuan-su-2n18)
 - [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
 - [Dev.to/JS] [2022 – Javascript Array Methods: Find&lpar;&rpar;](https://dev.to/musayazlik/2022-javascript-array-methods-find-5f2m)
@@ -38,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Declaration and Usage of Variables in JavaScript](https://dev.to/dharchini/declaration-and-usage-of-variables-in-javascript-3p2e)
 - [Dev.to/JS] [Making reusable get methods in React Testing Library](https://dev.to/buaiscia/making-reusable-get-methods-in-react-testing-library-1ag5)
 - [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
-- [Dev.to/JS] [Using .env with React &amp; Node](https://dev.to/findniya/using-env-with-react-node-4591)
 - [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)
-- [Dev.to/JS] [I looking for a open-source project for improve my javascript skills or community to make projects. Help me!](https://dev.to/eckdev/i-looking-for-a-open-source-project-for-improve-my-javascript-skills-or-community-to-make-projects-help-me-440a)
 - [Lifehacker] [11 Educational Video Games That Are Actually Fun](https://lifehacker.com/11-educational-video-games-that-are-actually-fun-1849788759)
-- [Dev.to/JS] [Naming conventions for React developers](https://dev.to/bosiarquitetura/naming-conventions-for-react-developers-519p)
 - [Lifehacker] [This Map Shows the Biggest Climate Polluters In Your Area](https://lifehacker.com/this-map-shows-the-biggest-climate-polluters-in-your-ar-1849787582)
 - [Lifehacker] [Masks Aren’t to Blame for the Surge in RSV and Flu Right Now](https://lifehacker.com/masks-aren-t-to-blame-for-the-surge-in-rsv-and-flu-righ-1849785992)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Babies and Toddlers Echo Your Words &lpar;and What to Do If It Goes on Too Long&rpar;](https://lifehacker.com/why-babies-and-toddlers-echo-your-words-and-what-to-do-1849783270)
 - [Lifehacker] [10 of the World’s Deadliest Animals, Ranked by Kill Count](https://lifehacker.com/10-of-the-world-s-deadliest-animals-ranked-by-kill-cou-1849783511)
 - [Lifehacker] [No, You’re Not Getting a Free Yeti Cooler From Dick’s Sporting Goods](https://lifehacker.com/no-you-re-not-getting-a-free-yeti-cooler-from-dick-s-s-1849782101)
-- [Lifehacker] [20 Operatic Action Movies to Watch Before &#39;John Wick 4&#39;](https://lifehacker.com/20-operatic-action-movies-to-watch-before-john-wick-4-1849776702)
-- [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 Operatic Action Movies to Watch Before &#39;John Wick 4&#39;](https://lifehacker.com/20-operatic-action-movies-to-watch-before-john-wick-4-1849776702)<!-- TECH-POSTS:END -->
 
 ---
 
