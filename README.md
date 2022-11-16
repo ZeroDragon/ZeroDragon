@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day1 | 704.二分查找, 27. 移除元素](https://dev.to/986913/dai-ma-sui-xiang-lu-day1-704er-fen-cha-zhao-27-yi-chu-yuan-su-2n18)
+- [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
+- [Dev.to/JS] [2022 – Javascript Array Methods: Find&lpar;&rpar;](https://dev.to/musayazlik/2022-javascript-array-methods-find-5f2m)
+- [Lifehacker] [Do These Things to Be Promoted to Manager](https://lifehacker.com/do-these-things-to-be-promoted-to-manager-1849790419)
+- [Lifehacker] [No Mom, Cold Weather Won&#39;t Make You Sick](https://lifehacker.com/no-mom-cold-weather-wont-make-you-sick-1849790245)
 - [Dev.to/JS] [Observability - ApostropheCMS, OpenTelemetry, and New Relic](https://dev.to/apostrophecms/observability-apostrophecms-opentelemetry-and-new-relic-1min)
 - [Lifehacker] [The Pros and Cons of Buying a Manufactured Home](https://lifehacker.com/the-pros-and-cons-of-buying-a-manufactured-home-1849790187)
 - [Dev.to/JS] [JS Function and its Types](https://dev.to/santhoshkumar/js-function-and-its-types-4gen)
@@ -39,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Educational Video Games That Are Actually Fun](https://lifehacker.com/11-educational-video-games-that-are-actually-fun-1849788759)
 - [Dev.to/JS] [Naming conventions for React developers](https://dev.to/bosiarquitetura/naming-conventions-for-react-developers-519p)
 - [Lifehacker] [This Map Shows the Biggest Climate Polluters In Your Area](https://lifehacker.com/this-map-shows-the-biggest-climate-polluters-in-your-ar-1849787582)
-- [Dev.to/JS] [Huobi clone script - A Ready-made solution to create a crypto exchange](https://dev.to/mgaaron911/huobi-clone-script-a-ready-made-solution-to-create-a-crypto-exchange-3e56)
-- [Dev.to/JS] [Shipping Zero JavaScript with Astro](https://dev.to/ekqt/shipping-zero-javascript-with-astro-9ol)
 - [Lifehacker] [Masks Aren’t to Blame for the Surge in RSV and Flu Right Now](https://lifehacker.com/masks-aren-t-to-blame-for-the-surge-in-rsv-and-flu-righ-1849785992)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the World’s Deadliest Animals, Ranked by Kill Count](https://lifehacker.com/10-of-the-world-s-deadliest-animals-ranked-by-kill-cou-1849783511)
 - [Lifehacker] [No, You’re Not Getting a Free Yeti Cooler From Dick’s Sporting Goods](https://lifehacker.com/no-you-re-not-getting-a-free-yeti-cooler-from-dick-s-s-1849782101)
 - [Lifehacker] [20 Operatic Action Movies to Watch Before &#39;John Wick 4&#39;](https://lifehacker.com/20-operatic-action-movies-to-watch-before-john-wick-4-1849776702)
-- [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
-- [Lifehacker] [11 &#39;Facts&#39; From Medieval History That Are Just Plain Wrong](https://lifehacker.com/11-facts-from-medieval-history-that-are-just-plain-wron-1849782044)
-- [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
-- [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)<!-- TECH-POSTS:END -->
 
 ---
 
