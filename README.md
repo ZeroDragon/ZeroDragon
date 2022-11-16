@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using .env with React &amp; Node](https://dev.to/findniya/using-env-with-react-node-4591)
+- [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)
+- [Dev.to/JS] [I looking for a open-source project for improve my javascript skills or community to make projects. Help me!](https://dev.to/eckdev/i-looking-for-a-open-source-project-for-improve-my-javascript-skills-or-community-to-make-projects-help-me-440a)
+- [Lifehacker] [11 Educational Video Games That Are Actually Fun](https://lifehacker.com/11-educational-video-games-that-are-actually-fun-1849788759)
+- [Dev.to/JS] [Naming conventions for React developers](https://dev.to/bosiarquitetura/naming-conventions-for-react-developers-519p)
+- [Lifehacker] [This Map Shows the Biggest Climate Polluters In Your Area](https://lifehacker.com/this-map-shows-the-biggest-climate-polluters-in-your-ar-1849787582)
 - [Dev.to/JS] [Huobi clone script - A Ready-made solution to create a crypto exchange](https://dev.to/mgaaron911/huobi-clone-script-a-ready-made-solution-to-create-a-crypto-exchange-3e56)
 - [Dev.to/JS] [Shipping Zero JavaScript with Astro](https://dev.to/ekqt/shipping-zero-javascript-with-astro-9ol)
 - [Lifehacker] [Masks Aren’t to Blame for the Surge in RSV and Flu Right Now](https://lifehacker.com/masks-aren-t-to-blame-for-the-surge-in-rsv-and-flu-righ-1849785992)
@@ -31,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React - Best Practices](https://dev.to/iambilalriaz/react-best-practices-ege)
 - [Dev.to/JS] [Battle-Testing Nx Console with E2E Tests](https://dev.to/nx/battle-testing-nx-console-with-e2e-tests-5b9)
 - [Dev.to/JS] [Virtual DOM: What problem does it solve?](https://dev.to/marciofrayze/virtual-dom-what-problem-does-it-solve-4b20)
-- [Dev.to/JS] [Typescript: What is the ouput?](https://dev.to/urstrulyvishwak/typescript-what-is-the-ouput-1hod)
+- [Dev.to/JS] [Typescript: What is the output?](https://dev.to/urstrulyvishwak/typescript-what-is-the-ouput-1hod)
 - [Dev.to/JS] [How to embed fonts with React and styled-components](https://dev.to/vcnsiqueira/how-to-embed-fonts-with-react-and-styled-components-3ckd)
-- [Dev.to/JS] [BE A 10X BY UTILISING A WIKI.](https://dev.to/fortunembulazi/be-a-10x-by-utilising-a-wiki-2h2n)
-- [Dev.to/JS] [How to connect a React frontend to an Express server](https://dev.to/danielstai/how-to-connect-a-react-frontend-to-an-express-server-270h)
-- [Dev.to/JS] [You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/you-are-front-end-developer-this-is-for-you-sample-data-api-427)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
