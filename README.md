@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Por qué aprender React?](https://dev.to/raulprtech/por-que-aprender-react-2eja)
+- [Dev.to/JS] [React 102 - Basic data flows](https://dev.to/noriller/react-102-basic-data-flows-2lcp)
+- [Dev.to/JS] [What editor theme do you use ? 🧑‍🎨🎨](https://dev.to/fadhilsaheer/what-editor-theme-do-you-use--10h3)
+- [Dev.to/JS] [Using Material UI with React](https://dev.to/asayerio_techblog/using-material-ui-with-react-2ko8)
+- [Dev.to/JS] [Vue component libraries](https://dev.to/asayerio_techblog/vue-component-libraries-26jc)
 - [Dev.to/JS] [OSD600 - r0.3 - Reviews](https://dev.to/dadolhay/osd600-r03-reviews-219g)
 - [Dev.to/JS] [Zero to SaaS - Bookmarksy.io Sign in with Twitter](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-sign-in-with-twitter-4jg4)
 - [Dev.to/JS] [OSD600 - r0.3 - Internal](https://dev.to/dadolhay/osd600-r03-internal-1e29)
@@ -33,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javscript Classes and how they Work](https://dev.to/lensco825/javscript-classes-and-how-they-work-4c9c)
 - [Dev.to/JS] [Typescript : Objects : Index Signatures](https://dev.to/tanmay53/typescript-objects-index-signatures-5db7)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
-- [Dev.to/JS] [I made my new awesome game for play store](https://dev.to/lucapu88/i-made-my-new-awesome-game-for-play-store-254o)
-- [Dev.to/JS] [Why Do You Need IP-Based Geolocation?](https://dev.to/legaciespanda/why-do-you-need-ip-based-geolocation-3geb)
 - [Lifehacker] [Make This Apple Cider Cake When You&#39;re Over Pie](https://lifehacker.com/make-this-apple-cider-cake-when-youre-over-pie-1849786809)
-- [Dev.to/JS] [Top 11 Best IP Geolocation API Services In 2023](https://dev.to/legaciespanda/top-11-best-ip-geolocation-api-services-in-2023-3mbh)
-- [Dev.to/JS] [Hi, dears I am Shakeel Ahmed new to dev.com. I am a frontend developer. I would like to connect with you on different platforms.](https://dev.to/shakeel133/hi-dears-i-am-shakeel-ahmed-new-to-devcom-i-am-a-frontend-developer-i-would-like-to-connect-with-you-on-different-platforms-5c17)
-- [Dev.to/JS] [Today is the beginning of my coding journey 🙌](https://dev.to/paschalcodes/today-is-the-beginning-of-my-coding-journey-3c6o)
 - [Lifehacker] [How to Know If You Have a Good Doctor](https://lifehacker.com/how-to-know-if-you-have-a-good-doctor-1849786709)
 - [Lifehacker] [Time Is Running Out to Claim Your Stimulus and Child Tax Credit Payments](https://lifehacker.com/time-is-running-out-to-claim-your-stimulus-and-child-ta-1849786099)
 - [Lifehacker] [How to Rescue a Waterlogged Book](https://lifehacker.com/how-to-rescue-a-waterlogged-book-1849785095)
