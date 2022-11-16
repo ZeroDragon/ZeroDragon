@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Observability - ApostropheCMS, OpenTelemetry, and New Relic](https://dev.to/apostrophecms/observability-apostrophecms-opentelemetry-and-new-relic-1min)
+- [Lifehacker] [The Pros and Cons of Buying a Manufactured Home](https://lifehacker.com/the-pros-and-cons-of-buying-a-manufactured-home-1849790187)
+- [Dev.to/JS] [JS Function and its Types](https://dev.to/santhoshkumar/js-function-and-its-types-4gen)
+- [Dev.to/JS] [JavaScript function](https://dev.to/dharchini/javascript-function-1fod)
+- [Dev.to/JS] [Quick tip: Using Deno and npm to persist and query data in SingleStoreDB](https://dev.to/veryfatboy/quick-tip-using-deno-and-npm-to-persist-and-query-data-in-singlestoredb-4co2)
+- [Dev.to/JS] [JavaScript Runtime and Engine](https://dev.to/razaul/javascript-runtime-and-engine-3jf6)
+- [Lifehacker] [You Can Finally Kick a Specific Person Off Your Netflix](https://lifehacker.com/you-can-finally-kick-a-specific-person-off-your-netflix-1849789963)
 - [Dev.to/JS] [Declaration and Usage of Variables in JavaScript](https://dev.to/dharchini/declaration-and-usage-of-variables-in-javascript-3p2e)
 - [Dev.to/JS] [Making reusable get methods in React Testing Library](https://dev.to/buaiscia/making-reusable-get-methods-in-react-testing-library-1ag5)
 - [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
@@ -35,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Huobi clone script - A Ready-made solution to create a crypto exchange](https://dev.to/mgaaron911/huobi-clone-script-a-ready-made-solution-to-create-a-crypto-exchange-3e56)
 - [Dev.to/JS] [Shipping Zero JavaScript with Astro](https://dev.to/ekqt/shipping-zero-javascript-with-astro-9ol)
 - [Lifehacker] [Masks Aren’t to Blame for the Surge in RSV and Flu Right Now](https://lifehacker.com/masks-aren-t-to-blame-for-the-surge-in-rsv-and-flu-righ-1849785992)
-- [Dev.to/JS] [Scroll to component in React](https://dev.to/coder4_life/scroll-to-component-in-react-4c7n)
-- [Dev.to/JS] [The Ethereum Merge: What it Means for Developers](https://dev.to/adityafav/the-ethereum-merge-what-it-means-for-developers-503i)
-- [Dev.to/JS] [React - Best Practices](https://dev.to/iambilalriaz/react-best-practices-ege)
-- [Dev.to/JS] [Battle-Testing Nx Console with E2E Tests](https://dev.to/nx/battle-testing-nx-console-with-e2e-tests-5b9)
-- [Dev.to/JS] [Virtual DOM: What problem does it solve?](https://dev.to/marciofrayze/virtual-dom-what-problem-does-it-solve-4b20)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
@@ -49,18 +51,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Rescue a Waterlogged Book](https://lifehacker.com/how-to-rescue-a-waterlogged-book-1849785095)
 - [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170)
 - [Lifehacker] [All the Ways a Cooler &lpar;or Three&rpar; Will Help You Survive Thanksgiving](https://lifehacker.com/all-the-ways-a-cooler-or-three-will-help-you-survive-1849785357)
-- [Lifehacker] [These Volkswagens Are Being Recalled for Faulty Tire-Pressure Monitoring](https://lifehacker.com/these-volkswagens-are-being-recalled-for-faulty-tire-pr-1849780388)
-- [Crazy Programmer] [Guido Van Rossum Biography](https://www.thecrazyprogrammer.com/2022/11/guido-van-rossum-biography.html)
-- [Crazy Programmer] [Difference between Web Designer and Web Developer](https://www.thecrazyprogrammer.com/2022/11/difference-between-web-designer-and-web-developer.html)
-- [Crazy Programmer] [Rust vs Python – What Are The Differences](https://www.thecrazyprogrammer.com/2022/11/rust-vs-python.html)
-- [Crazy Programmer] [10 Best Computer Science Universities in Italy 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-italy.html)
-- [Crazy Programmer] [7 Best Computer Science Universities in Switzerland 2022](https://www.thecrazyprogrammer.com/2022/11/computer-science-universities-in-switzerland.html)
-- [Crazy Programmer] [10 Best Computer Science Universities in New Zealand 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-new-zealand.html)
-- [Crazy Programmer] [10 Best Computer Science Universities in Germany 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-germany.html)
-- [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
-- [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)
-- [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)
-- [Lifehacker] [Discounted Logitech Harmony, Cheap Eneloops, Space Heaters, More Deals](https://lifehacker.com/discounted-logitech-harmony-cheap-eneloops-space-heat-1687469452)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Pre-Order the PS VR2](https://lifehacker.com/how-to-pre-order-the-ps-vr2-1849785013)
+- [Lifehacker] [Do These Things to Save Money When You’re Hosting Thanksgiving](https://lifehacker.com/do-these-things-to-save-money-when-you-re-hosting-thank-1849785184)
+- [Lifehacker] [8 of the Most Useful Canva Features You Should Be Using](https://lifehacker.com/8-of-the-most-useful-canva-features-you-should-be-using-1849783645)
+- [Lifehacker] [Make the Best Pancake Syrup of Your Life With Apple Cider](https://lifehacker.com/make-the-best-pancake-syrup-of-your-life-with-apple-cid-1849782079)
+- [Lifehacker] [Why Babies and Toddlers Echo Your Words &lpar;and What to Do If It Goes on Too Long&rpar;](https://lifehacker.com/why-babies-and-toddlers-echo-your-words-and-what-to-do-1849783270)
+- [Lifehacker] [10 of the World’s Deadliest Animals, Ranked by Kill Count](https://lifehacker.com/10-of-the-world-s-deadliest-animals-ranked-by-kill-cou-1849783511)
+- [Lifehacker] [No, You’re Not Getting a Free Yeti Cooler From Dick’s Sporting Goods](https://lifehacker.com/no-you-re-not-getting-a-free-yeti-cooler-from-dick-s-s-1849782101)
+- [Lifehacker] [20 Operatic Action Movies to Watch Before &#39;John Wick 4&#39;](https://lifehacker.com/20-operatic-action-movies-to-watch-before-john-wick-4-1849776702)
+- [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
+- [Lifehacker] [11 &#39;Facts&#39; From Medieval History That Are Just Plain Wrong](https://lifehacker.com/11-facts-from-medieval-history-that-are-just-plain-wron-1849782044)
+- [Lifehacker] [15 Ways to Simplify Your Post-Thanksgiving Cleanup](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
+- [Lifehacker] [Why Your House Really Does Need a Storm Door](https://lifehacker.com/why-your-house-really-does-need-a-storm-door-1849780119)<!-- TECH-POSTS:END -->
 
 ---
 
