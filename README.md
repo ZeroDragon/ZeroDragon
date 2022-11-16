@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Postman Pre-request Scripts](https://dev.to/joismar/postman-pre-request-scripts-252a)
+- [Dev.to/JS] [JavaScript: The Beginning &lpar;A Beginner&#39;s perspective&rpar;](https://dev.to/damilolaweb/javascript-the-beginning-a-beginners-perspective-58mp)
+- [Lifehacker] [You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/you-should-start-texting-yourself-in-whatsapp-1849790925)
+- [Lifehacker] [Why You Need to Remove Your Window AC Unit for Winter &lpar;and Not Just Cover It&rpar;](https://lifehacker.com/why-you-need-to-remove-your-window-ac-unit-for-winter-1849790823)
 - [Lifehacker] [You Can Order Domino&#39;s for 50% Off Right Now](https://lifehacker.com/you-can-order-dominos-for-50-off-right-now-1849790953)
 - [Dev.to/JS] [Interact with deployed smart contracts using HardHat console](https://dev.to/abondance68/interact-with-deployed-smart-contracts-using-hardhat-console-2kpj)
 - [Dev.to/JS] [What is useContext?](https://dev.to/loganlampton/what-is-usecontext-4m5m)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the Most Useful Canva Features You Should Be Using](https://lifehacker.com/8-of-the-most-useful-canva-features-you-should-be-using-1849783645)
 - [Lifehacker] [Make the Best Pancake Syrup of Your Life With Apple Cider](https://lifehacker.com/make-the-best-pancake-syrup-of-your-life-with-apple-cid-1849782079)
 - [Lifehacker] [Why Babies and Toddlers Echo Your Words &lpar;and What to Do If It Goes on Too Long&rpar;](https://lifehacker.com/why-babies-and-toddlers-echo-your-words-and-what-to-do-1849783270)
-- [Lifehacker] [10 of the World’s Deadliest Animals, Ranked by Kill Count](https://lifehacker.com/10-of-the-world-s-deadliest-animals-ranked-by-kill-cou-1849783511)
-- [Lifehacker] [No, You’re Not Getting a Free Yeti Cooler From Dick’s Sporting Goods](https://lifehacker.com/no-you-re-not-getting-a-free-yeti-cooler-from-dick-s-s-1849782101)
-- [Lifehacker] [20 Operatic Action Movies to Watch Before &#39;John Wick 4&#39;](https://lifehacker.com/20-operatic-action-movies-to-watch-before-john-wick-4-1849776702)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the World’s Deadliest Animals, Ranked by Kill Count](https://lifehacker.com/10-of-the-world-s-deadliest-animals-ranked-by-kill-cou-1849783511)<!-- TECH-POSTS:END -->
 
 ---
 
