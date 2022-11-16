@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Env variables for browser JavaScript](https://dev.to/muhdarifrawi/env-variables-for-browser-javascript-228b)
+- [Dev.to/JS] [Create a Responsive Pricing Table in HTML and CSS](https://dev.to/onlineittutstutorials/create-a-responsive-pricing-table-in-html-and-css-3h80)
+- [Dev.to/JS] [Top 5 React Boilerplates to Know in 2023](https://dev.to/worldshero/top-5-react-boilerplates-to-know-in-2023-2lbl)
 - [Dev.to/JS] [ES6++: 1-Introduction](https://dev.to/hassanzohdy/es6-1-introduction-h3e)
 - [Dev.to/JS] [How to Create an Accordion Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-create-an-accordion-using-html-css-and-javascript-3lb8)
 - [Dev.to/JS] [javascript, 2022-04-13](https://dev.to/yesjin/javascript-2022-04-13-ebg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Download a complete JavaScript Cheat Sheet &lpar;PDF&rpar;](https://dev.to/elliot_brenyasarfo_18749/download-a-complete-javascript-cheat-sheet-pdf-50fg)
 - [Dev.to/JS] [JavaScript Set, Every Junior Should Know](https://dev.to/imbios/javascript-set-every-junior-should-know-2op8)
 - [Dev.to/JS] [¿Por qué aprender React?](https://dev.to/raulprtech/por-que-aprender-react-2eja)
-- [Dev.to/JS] [React 102 - Basic data flows](https://dev.to/noriller/react-102-basic-data-flows-2lcp)
-- [Dev.to/JS] [What editor theme do you use ? 🧑‍🎨🎨](https://dev.to/fadhilsaheer/what-editor-theme-do-you-use--10h3)
-- [Dev.to/JS] [Using Material UI with React](https://dev.to/asayerio_techblog/using-material-ui-with-react-2ko8)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
