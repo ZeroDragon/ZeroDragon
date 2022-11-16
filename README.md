@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
+- [Dev.to/JS] [代码随想录day2 | 977.有序数组的平方, 209.长度最小的子数组, 59.螺旋矩阵II](https://dev.to/986913/dai-ma-sui-xiang-lu-day2-977you-xu-shu-zu-de-ping-fang-209chang-du-zui-xiao-de-zi-shu-zu-59luo-xuan-ju-zhen-ii-4lf9)
+- [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
 - [Dev.to/JS] [React Hook Form: a unique implementation](https://dev.to/romaintrotard/react-hook-form-a-unique-implementation-3oll)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Early Retirement](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-ea-1849785268)
 - [Lifehacker] [Three Cheap, Simple Ways to Make a No-Sew Christmas Tree Skirt](https://lifehacker.com/three-cheap-simple-ways-to-make-a-no-sew-christmas-tre-1849790819)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quick tip: Using Deno and npm to persist and query data in SingleStoreDB](https://dev.to/veryfatboy/quick-tip-using-deno-and-npm-to-persist-and-query-data-in-singlestoredb-4co2)
 - [Dev.to/JS] [JavaScript Runtime and Engine](https://dev.to/razaul/javascript-runtime-and-engine-3jf6)
 - [Lifehacker] [You Can Finally Kick a Specific Person Off Your Netflix](https://lifehacker.com/you-can-finally-kick-a-specific-person-off-your-netflix-1849789963)
-- [Dev.to/JS] [Declaration and Usage of Variables in JavaScript](https://dev.to/dharchini/declaration-and-usage-of-variables-in-javascript-3p2e)
 - [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
 - [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)
 - [Lifehacker] [11 Educational Video Games That Are Actually Fun](https://lifehacker.com/11-educational-video-games-that-are-actually-fun-1849788759)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170)
 - [Lifehacker] [All the Ways a Cooler &lpar;or Three&rpar; Will Help You Survive Thanksgiving](https://lifehacker.com/all-the-ways-a-cooler-or-three-will-help-you-survive-1849785357)
 - [Lifehacker] [How to Pre-Order the PS VR2](https://lifehacker.com/how-to-pre-order-the-ps-vr2-1849785013)
-- [Lifehacker] [Do These Things to Save Money When You’re Hosting Thanksgiving](https://lifehacker.com/do-these-things-to-save-money-when-you-re-hosting-thank-1849785184)
-- [Lifehacker] [8 of the Most Useful Canva Features You Should Be Using](https://lifehacker.com/8-of-the-most-useful-canva-features-you-should-be-using-1849783645)
-- [Lifehacker] [Make the Best Pancake Syrup of Your Life With Apple Cider](https://lifehacker.com/make-the-best-pancake-syrup-of-your-life-with-apple-cid-1849782079)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do These Things to Save Money When You’re Hosting Thanksgiving](https://lifehacker.com/do-these-things-to-save-money-when-you-re-hosting-thank-1849785184)<!-- TECH-POSTS:END -->
 
 ---
 
