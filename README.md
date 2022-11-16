@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/you-are-front-end-developer-this-is-for-you-sample-data-api-427)
+- [Dev.to/JS] [Kickstart your career – transition from beginner to working on commercial projects in ReactJS](https://dev.to/likimobile/kickstart-your-career-transition-from-beginner-to-working-on-commercial-projects-in-reactjs-4o17)
 - [Dev.to/JS] [Implementing Micro-frontend with React and Next.js](https://dev.to/solutelabs/implementing-micro-frontend-with-react-and-nextjs-46h8)
 - [Dev.to/JS] [JS/TS OOP Course: 1-Introduction](https://dev.to/hassanzohdy/jsts-oop-course-1-introduction-2ld)
 - [Dev.to/JS] [3 Technologies That Guarantee Exactly Once Delivery](https://dev.to/tyaga001/3-technologies-that-guarantee-exactly-once-delivery-3357)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating an SSG &lpar;Static Site Generation&rpar; Application with Strapi Webhooks and NextJs](https://dev.to/strapi/creating-an-ssg-static-site-generation-application-with-strapi-webhooks-and-nextjs-268a)
 - [Dev.to/JS] [How to Build Web Document Scanning Applications with Flutter](https://dev.to/yushulx/how-to-build-web-document-scanning-applications-with-flutter-37k)
 - [Dev.to/JS] [How can I change file Key whie sbmiting form data to server](https://dev.to/aliwaseer/how-can-i-change-file-key-whie-sbmiting-form-data-to-server-2fdl)
-- [Dev.to/JS] [Clever coding tricks &lpar; that we don&#39;t need &rpar;](https://dev.to/dvddpl/clever-coding-tricks-that-we-dont-need--228l)
-- [Dev.to/JS] [Fetching data in React: the case of lost Promises](https://dev.to/adevnadia/fetching-data-in-react-the-case-of-lost-promises-1o42)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
