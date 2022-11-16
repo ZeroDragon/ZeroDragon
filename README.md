@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an SSG &lpar;Static Site Generation&rpar; Application with Strapi Webhooks and NextJs](https://dev.to/strapi/creating-an-ssg-static-site-generation-application-with-strapi-webhooks-and-nextjs-268a)
+- [Dev.to/JS] [How to Build Web Document Scanning Applications with Flutter](https://dev.to/yushulx/how-to-build-web-document-scanning-applications-with-flutter-37k)
+- [Dev.to/JS] [How can I change file Key whie sbmiting form data to server](https://dev.to/aliwaseer/how-can-i-change-file-key-whie-sbmiting-form-data-to-server-2fdl)
+- [Dev.to/JS] [Clever coding tricks &lpar; that we don&#39;t need &rpar;](https://dev.to/dvddpl/clever-coding-tricks-that-we-dont-need--228l)
 - [Dev.to/JS] [Fetching data in React: the case of lost Promises](https://dev.to/adevnadia/fetching-data-in-react-the-case-of-lost-promises-1o42)
 - [Dev.to/JS] [ES6++: 2-Var, Let and Const](https://dev.to/hassanzohdy/es6-2-var-let-and-const-464)
 - [Dev.to/JS] [Weekly web development resources #124](https://dev.to/vincenius/weekly-web-development-resources-124-3a9c)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 React Boilerplates to Know in 2023](https://dev.to/worldshero/top-5-react-boilerplates-to-know-in-2023-2lbl)
 - [Dev.to/JS] [ES6++: 1-Introduction](https://dev.to/hassanzohdy/es6-1-introduction-h3e)
 - [Dev.to/JS] [How to Create an Accordion Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-create-an-accordion-using-html-css-and-javascript-3lb8)
-- [Dev.to/JS] [javascript, 2022-04-13](https://dev.to/yesjin/javascript-2022-04-13-ebg)
-- [Dev.to/JS] [What are the best web tutorials for web development?](https://dev.to/ridhisingla001/what-are-the-best-web-tutorials-for-web-development-2p98)
-- [Dev.to/JS] [How to Make Language Translator in JavaScript](https://dev.to/reactjsguru/how-to-make-language-translator-in-javascript-djc)
-- [Dev.to/JS] [Cross-site Scripting &lpar;XSS&rpar; in Javascript and how to avoid it - vulnerabilities in Javascript](https://dev.to/olacampuspune/cross-site-scripting-xss-in-javascript-and-how-to-avoid-it-vulnerabilities-in-javascript-127e)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
