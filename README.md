@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Dev.to/JS] [代码随想录day2 | 977.有序数组的平方, 209.长度最小的子数组, 59.螺旋矩阵II](https://dev.to/986913/dai-ma-sui-xiang-lu-day2-977you-xu-shu-zu-de-ping-fang-209chang-du-zui-xiao-de-zi-shu-zu-59luo-xuan-ju-zhen-ii-4lf9)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Rescue a Waterlogged Book](https://lifehacker.com/how-to-rescue-a-waterlogged-book-1849785095)
 - [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170)
 - [Lifehacker] [All the Ways a Cooler &lpar;or Three&rpar; Will Help You Survive Thanksgiving](https://lifehacker.com/all-the-ways-a-cooler-or-three-will-help-you-survive-1849785357)
-- [Lifehacker] [How to Pre-Order the PS VR2](https://lifehacker.com/how-to-pre-order-the-ps-vr2-1849785013)
-- [Lifehacker] [Do These Things to Save Money When You’re Hosting Thanksgiving](https://lifehacker.com/do-these-things-to-save-money-when-you-re-hosting-thank-1849785184)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Pre-Order the PS VR2](https://lifehacker.com/how-to-pre-order-the-ps-vr2-1849785013)<!-- TECH-POSTS:END -->
 
 ---
 
