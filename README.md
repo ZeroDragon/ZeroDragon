@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Declaration and Usage of Variables in JavaScript](https://dev.to/dharchini/declaration-and-usage-of-variables-in-javascript-3p2e)
+- [Dev.to/JS] [Making reusable get methods in React Testing Library](https://dev.to/buaiscia/making-reusable-get-methods-in-react-testing-library-1ag5)
+- [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
 - [Dev.to/JS] [Using .env with React &amp; Node](https://dev.to/findniya/using-env-with-react-node-4591)
 - [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)
 - [Dev.to/JS] [I looking for a open-source project for improve my javascript skills or community to make projects. Help me!](https://dev.to/eckdev/i-looking-for-a-open-source-project-for-improve-my-javascript-skills-or-community-to-make-projects-help-me-440a)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React - Best Practices](https://dev.to/iambilalriaz/react-best-practices-ege)
 - [Dev.to/JS] [Battle-Testing Nx Console with E2E Tests](https://dev.to/nx/battle-testing-nx-console-with-e2e-tests-5b9)
 - [Dev.to/JS] [Virtual DOM: What problem does it solve?](https://dev.to/marciofrayze/virtual-dom-what-problem-does-it-solve-4b20)
-- [Dev.to/JS] [Typescript: What is the output?](https://dev.to/urstrulyvishwak/typescript-what-is-the-ouput-1hod)
-- [Dev.to/JS] [How to embed fonts with React and styled-components](https://dev.to/vcnsiqueira/how-to-embed-fonts-with-react-and-styled-components-3ckd)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
@@ -58,7 +59,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [10 Best Computer Science Universities in Germany 2022](https://www.thecrazyprogrammer.com/2022/10/computer-science-universities-in-germany.html)
 - [Crazy Programmer] [10 Best Computer Science Universities in Australia 2022](https://www.thecrazyprogrammer.com/2022/10/best-computer-science-universities-in-australia.html)
 - [Crazy Programmer] [Defining Cybersecurity – What You Need to Know to Stay Safe Online](https://www.thecrazyprogrammer.com/2022/10/defining-cybersecurity.html)
-- [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [How Long Does It Take To Learn Java?](https://www.thecrazyprogrammer.com/2022/10/how-long-does-it-take-to-learn-java.html)
+- [Lifehacker] [Discounted Logitech Harmony, Cheap Eneloops, Space Heaters, More Deals](https://lifehacker.com/discounted-logitech-harmony-cheap-eneloops-space-heat-1687469452)<!-- TECH-POSTS:END -->
 
 ---
 
