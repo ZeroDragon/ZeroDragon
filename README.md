@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fetching data in React: the case of lost Promises](https://dev.to/adevnadia/fetching-data-in-react-the-case-of-lost-promises-1o42)
+- [Dev.to/JS] [ES6++: 2-Var, Let and Const](https://dev.to/hassanzohdy/es6-2-var-let-and-const-464)
+- [Dev.to/JS] [Weekly web development resources #124](https://dev.to/vincenius/weekly-web-development-resources-124-3a9c)
 - [Dev.to/JS] [Env variables for browser JavaScript](https://dev.to/muhdarifrawi/env-variables-for-browser-javascript-228b)
 - [Dev.to/JS] [Create a Responsive Pricing Table in HTML and CSS](https://dev.to/onlineittutstutorials/create-a-responsive-pricing-table-in-html-and-css-3h80)
 - [Dev.to/JS] [Top 5 React Boilerplates to Know in 2023](https://dev.to/worldshero/top-5-react-boilerplates-to-know-in-2023-2lbl)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the best web tutorials for web development?](https://dev.to/ridhisingla001/what-are-the-best-web-tutorials-for-web-development-2p98)
 - [Dev.to/JS] [How to Make Language Translator in JavaScript](https://dev.to/reactjsguru/how-to-make-language-translator-in-javascript-djc)
 - [Dev.to/JS] [Cross-site Scripting &lpar;XSS&rpar; in Javascript and how to avoid it - vulnerabilities in Javascript](https://dev.to/olacampuspune/cross-site-scripting-xss-in-javascript-and-how-to-avoid-it-vulnerabilities-in-javascript-127e)
-- [Dev.to/JS] [Download a complete JavaScript Cheat Sheet &lpar;PDF&rpar;](https://dev.to/elliot_brenyasarfo_18749/download-a-complete-javascript-cheat-sheet-pdf-50fg)
-- [Dev.to/JS] [JavaScript Set, Every Junior Should Know](https://dev.to/imbios/javascript-set-every-junior-should-know-2op8)
-- [Dev.to/JS] [¿Por qué aprender React?](https://dev.to/raulprtech/por-que-aprender-react-2eja)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
