@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Technologies That Guarantee Exactly Once Delivery](https://dev.to/tyaga001/3-technologies-that-guarantee-exactly-once-delivery-3357)
+- [Dev.to/JS] [10+ Best code generation tools [Solutions Guide]](https://dev.to/flatlogic/10-best-code-generation-tools-solutions-guide-nie)
+- [Dev.to/JS] [#4 Nodejs Module - streams](https://dev.to/hellonehha/4-nodejs-module-streams-io2)
+- [Dev.to/JS] [what is array map&lpar;&rpar; in JavaScript](https://dev.to/wizdomtek/what-is-array-map-in-javascript-39ne)
+- [Dev.to/JS] [Ask the Experts – Office Hour - 18th November 3PM GMT - 30 Days of Microsoft Graph Challenge](https://dev.to/azure/ask-the-experts-office-hour-18th-november-3pm-gmt-30-days-of-microsoft-graph-challenge-2fm6)
 - [Dev.to/JS] [Creating an SSG &lpar;Static Site Generation&rpar; Application with Strapi Webhooks and NextJs](https://dev.to/strapi/creating-an-ssg-static-site-generation-application-with-strapi-webhooks-and-nextjs-268a)
 - [Dev.to/JS] [How to Build Web Document Scanning Applications with Flutter](https://dev.to/yushulx/how-to-build-web-document-scanning-applications-with-flutter-37k)
 - [Dev.to/JS] [How can I change file Key whie sbmiting form data to server](https://dev.to/aliwaseer/how-can-i-change-file-key-whie-sbmiting-form-data-to-server-2fdl)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fetching data in React: the case of lost Promises](https://dev.to/adevnadia/fetching-data-in-react-the-case-of-lost-promises-1o42)
 - [Dev.to/JS] [ES6++: 2-Var, Let and Const](https://dev.to/hassanzohdy/es6-2-var-let-and-const-464)
 - [Dev.to/JS] [Weekly web development resources #124](https://dev.to/vincenius/weekly-web-development-resources-124-3a9c)
-- [Dev.to/JS] [Env variables for browser JavaScript](https://dev.to/muhdarifrawi/env-variables-for-browser-javascript-228b)
-- [Dev.to/JS] [Create a Responsive Pricing Table in HTML and CSS](https://dev.to/onlineittutstutorials/create-a-responsive-pricing-table-in-html-and-css-3h80)
-- [Dev.to/JS] [Top 5 React Boilerplates to Know in 2023](https://dev.to/worldshero/top-5-react-boilerplates-to-know-in-2023-2lbl)
-- [Dev.to/JS] [ES6++: 1-Introduction](https://dev.to/hassanzohdy/es6-1-introduction-h3e)
-- [Dev.to/JS] [How to Create an Accordion Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-create-an-accordion-using-html-css-and-javascript-3lb8)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
