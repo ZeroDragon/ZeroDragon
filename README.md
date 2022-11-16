@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Hook Form: a unique implementation](https://dev.to/romaintrotard/react-hook-form-a-unique-implementation-3oll)
+- [Lifehacker] [6 of the Best Videos to Help You Actually Understand Early Retirement](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-ea-1849785268)
+- [Lifehacker] [Three Cheap, Simple Ways to Make a No-Sew Christmas Tree Skirt](https://lifehacker.com/three-cheap-simple-ways-to-make-a-no-sew-christmas-tre-1849790819)
 - [Dev.to/JS] [JavaScript: The Beginning &lpar;A Beginner&#39;s perspective&rpar;](https://dev.to/damilolaweb/javascript-the-beginning-a-beginners-perspective-58mp)
 - [Lifehacker] [You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/you-should-start-texting-yourself-in-whatsapp-1849790925)
 - [Lifehacker] [Why You Need to Remove Your Window AC Unit for Winter &lpar;and Not Just Cover It&rpar;](https://lifehacker.com/why-you-need-to-remove-your-window-ac-unit-for-winter-1849790823)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Runtime and Engine](https://dev.to/razaul/javascript-runtime-and-engine-3jf6)
 - [Lifehacker] [You Can Finally Kick a Specific Person Off Your Netflix](https://lifehacker.com/you-can-finally-kick-a-specific-person-off-your-netflix-1849789963)
 - [Dev.to/JS] [Declaration and Usage of Variables in JavaScript](https://dev.to/dharchini/declaration-and-usage-of-variables-in-javascript-3p2e)
-- [Dev.to/JS] [Making reusable get methods in React Testing Library](https://dev.to/buaiscia/making-reusable-get-methods-in-react-testing-library-1ag5)
 - [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
 - [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)
 - [Lifehacker] [11 Educational Video Games That Are Actually Fun](https://lifehacker.com/11-educational-video-games-that-are-actually-fun-1849788759)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Pre-Order the PS VR2](https://lifehacker.com/how-to-pre-order-the-ps-vr2-1849785013)
 - [Lifehacker] [Do These Things to Save Money When You’re Hosting Thanksgiving](https://lifehacker.com/do-these-things-to-save-money-when-you-re-hosting-thank-1849785184)
 - [Lifehacker] [8 of the Most Useful Canva Features You Should Be Using](https://lifehacker.com/8-of-the-most-useful-canva-features-you-should-be-using-1849783645)
-- [Lifehacker] [Make the Best Pancake Syrup of Your Life With Apple Cider](https://lifehacker.com/make-the-best-pancake-syrup-of-your-life-with-apple-cid-1849782079)
-- [Lifehacker] [Why Babies and Toddlers Echo Your Words &lpar;and What to Do If It Goes on Too Long&rpar;](https://lifehacker.com/why-babies-and-toddlers-echo-your-words-and-what-to-do-1849783270)
-- [Lifehacker] [10 of the World’s Deadliest Animals, Ranked by Kill Count](https://lifehacker.com/10-of-the-world-s-deadliest-animals-ranked-by-kill-cou-1849783511)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make the Best Pancake Syrup of Your Life With Apple Cider](https://lifehacker.com/make-the-best-pancake-syrup-of-your-life-with-apple-cid-1849782079)<!-- TECH-POSTS:END -->
 
 ---
 
