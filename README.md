@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Distract Your Cat With These Video Game Apps](https://lifehacker.com/distract-your-cat-with-these-video-game-apps-1849794032)
+- [Lifehacker] [Garam Masala Is the ‘New’ Pumpkin Spice](https://lifehacker.com/garam-masala-is-the-new-pumpkin-spice-1849795344)
+- [Dev.to/JS] [Accessibility Isn&#39;t Optional](https://dev.to/gingerkiwi/accessibility-isnt-optional-11co)
+- [Dev.to/JS] [How did you improve your coding skills?](https://dev.to/wizdomtek/how-did-you-improve-your-coding-skills-5d6p)
+- [Dev.to/JS] [Suggestions to my file sharing Web App](https://dev.to/varshithvhegde/suggestions-to-my-file-sharing-web-app-38jd)
+- [Dev.to/JS] [Top 10+ most dead-easy ways to make a web app](https://dev.to/flatlogic/top-10-most-dead-easy-ways-to-make-a-web-app-lb)
+- [Lifehacker] [When to See December&#39;s Full Moon at Peak Brilliance](https://lifehacker.com/when-to-see-decembers-full-moon-at-peak-brilliance-1849793352)
 - [Lifehacker] [Don’t Put This Thanksgiving Cookware and Serveware in the Dishwasher](https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978)
 - [Dev.to/JS] [Async control: Promise Queues and “leaky-buckets”](https://dev.to/prathameshdev123/async-control-promise-queues-and-leaky-buckets-2k46)
 - [Dev.to/JS] [Day40 of #100DaysOfCode](https://dev.to/yoot/day40-of-100daysofcode-3843)
@@ -32,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [223. Leetcode Solution in JavaScript](https://dev.to/chiki1601/223-leetcode-solution-in-javascript-1ch8)
 - [Dev.to/JS] [Super componentes... E muito mais!](https://dev.to/diogoneves07/super-componentes-e-muito-mais-cj2)
 - [Dev.to/JS] [ES6++: 5- Arrow Functions](https://dev.to/hassanzohdy/es6-5-arrow-functions-3cd3)
-- [Dev.to/JS] [Introducing regroot🌱 : A recruitment platform.](https://dev.to/sidjs/introducing-regroot-a-recruitment-platform-3bem)
-- [Dev.to/JS] [How to convert text into image with svg tag](https://dev.to/arnosolo/how-to-convert-text-into-image-with-svg-tag-1n33)
-- [Dev.to/JS] [A better way to pass parameters to functions](https://dev.to/arnosolo/a-better-way-to-pass-parameters-to-functions-5gna)
-- [Dev.to/JS] [JavaScript Developer Roadmap: Zero to Hero](https://dev.to/saloni137/javascript-developer-roadmap-zero-to-hero-1im0)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
 - [Lifehacker] [Make This Apple Cider Cake When You&#39;re Over Pie](https://lifehacker.com/make-this-apple-cider-cake-when-youre-over-pie-1849786809)
 - [Lifehacker] [How to Know If You Have a Good Doctor](https://lifehacker.com/how-to-know-if-you-have-a-good-doctor-1849786709)
-- [Lifehacker] [Time Is Running Out to Claim Your Stimulus and Child Tax Credit Payments](https://lifehacker.com/time-is-running-out-to-claim-your-stimulus-and-child-ta-1849786099)
-- [Lifehacker] [How to Rescue a Waterlogged Book](https://lifehacker.com/how-to-rescue-a-waterlogged-book-1849785095)
-- [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170)
-- [Lifehacker] [All the Ways a Cooler &lpar;or Three&rpar; Will Help You Survive Thanksgiving](https://lifehacker.com/all-the-ways-a-cooler-or-three-will-help-you-survive-1849785357)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Time Is Running Out to Claim Your Stimulus and Child Tax Credit Payments](https://lifehacker.com/time-is-running-out-to-claim-your-stimulus-and-child-ta-1849786099)<!-- TECH-POSTS:END -->
 
 ---
 
