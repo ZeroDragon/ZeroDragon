@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Destructuring in JS to Write Cleaner Code](https://dev.to/racheljoyh/using-destructuring-in-js-to-write-cleaner-code-2601)
+- [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
+- [Dev.to/JS] [Demystifying .innerText vs. .textContent](https://dev.to/annaqharder/demystifying-innertext-vs-textcontent-35fl)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
 - [Dev.to/JS] [React Notes app with firebase authentication and storage](https://dev.to/davidblaqq/react-notes-app-with-firebase-authentication-and-storage-262e)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Bootstrapped to Venture-Backed: Nx Raises $8.6M](https://dev.to/nxdevtools/from-bootstrapped-to-venture-backed-nx-raises-86m-4mod)
 - [Lifehacker] [How to Spy on Your Own Phone &lpar;and Why You Might Want to&rpar;](https://lifehacker.com/how-to-spy-on-your-own-phone-and-why-you-might-want-to-1849795721)
 - [Dev.to/JS] [What is JavaScript?](https://dev.to/nayemhossain/what-is-javascript-4jle)
-- [Dev.to/JS] [what would you say is the easiest way to create a slider that goes horizontally and vertically ?](https://dev.to/raidakrich/what-would-you-say-is-the-easiest-way-to-create-a-slider-that-goes-horizontally-and-vertically--8gk)
-- [Dev.to/JS] [100+ Most Useful Github Repositories Every Programmer Needs](https://dev.to/johongirr/100-most-useful-github-repositories-every-programmer-needs-32cg)
 - [Lifehacker] [You Can Finally Improve Your iPhone&#39;s Always-On Display](https://lifehacker.com/you-can-finally-improve-your-iphones-always-on-display-1849795346)
 - [Lifehacker] [Where Student Loan Forgiveness Stands Right Now](https://lifehacker.com/where-student-loan-forgiveness-stands-right-now-1849795888)
 - [Lifehacker] [The Most Common Toilet Repairs &lpar;and How to Do Them Yourself&rpar;](https://lifehacker.com/the-most-common-toilet-repairs-and-how-to-do-them-your-1849794329)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Order Domino&#39;s for 50% Off Right Now](https://lifehacker.com/you-can-order-dominos-for-50-off-right-now-1849790953)
 - [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
 - [Lifehacker] [Do These Things to Be Promoted to Manager](https://lifehacker.com/do-these-things-to-be-promoted-to-manager-1849790419)
-- [Lifehacker] [No Mom, Cold Weather Won&#39;t Make You Sick](https://lifehacker.com/no-mom-cold-weather-wont-make-you-sick-1849790245)
-- [Lifehacker] [The Pros and Cons of Buying a Manufactured Home](https://lifehacker.com/the-pros-and-cons-of-buying-a-manufactured-home-1849790187)<!-- TECH-POSTS:END -->
+- [Lifehacker] [No Mom, Cold Weather Won&#39;t Make You Sick](https://lifehacker.com/no-mom-cold-weather-wont-make-you-sick-1849790245)<!-- TECH-POSTS:END -->
 
 ---
 
