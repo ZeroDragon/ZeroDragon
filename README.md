@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 things you need to know about Stripe&#39;s Test Mode](https://dev.to/tier/5-things-you-need-to-know-about-stripes-test-mode-2gcb)
+- [Lifehacker] [Why Being Cold Makes You Pee](https://lifehacker.com/why-you-feel-like-you-need-to-pee-more-in-cold-weather-1849796756)
+- [Dev.to/JS] [An interpreted language you can try in my terminal website](https://dev.to/protium/an-interpreted-language-you-can-try-in-my-terminal-website-i1)
+- [Dev.to/JS] [From Bootstrapped to Venture-Backed: Nx Raises $8.6M](https://dev.to/nxdevtools/from-bootstrapped-to-venture-backed-nx-raises-86m-4mod)
+- [Lifehacker] [How to Spy on Your Own Phone &lpar;and Why You Might Want to&rpar;](https://lifehacker.com/how-to-spy-on-your-own-phone-and-why-you-might-want-to-1849795721)
 - [Dev.to/JS] [What is JavaScript?](https://dev.to/nayemhossain/what-is-javascript-4jle)
 - [Dev.to/JS] [what would you say is the easiest way to create a slider that goes horizontally and vertically ?](https://dev.to/raidakrich/what-would-you-say-is-the-easiest-way-to-create-a-slider-that-goes-horizontally-and-vertically--8gk)
 - [Dev.to/JS] [100+ Most Useful Github Repositories Every Programmer Needs](https://dev.to/johongirr/100-most-useful-github-repositories-every-programmer-needs-32cg)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Distract Your Cat With These Video Game Apps](https://lifehacker.com/distract-your-cat-with-these-video-game-apps-1849794032)
 - [Lifehacker] [Garam Masala Is the ‘New’ Pumpkin Spice](https://lifehacker.com/garam-masala-is-the-new-pumpkin-spice-1849795344)
 - [Dev.to/JS] [Accessibility Isn&#39;t Optional](https://dev.to/gingerkiwi/accessibility-isnt-optional-11co)
-- [Dev.to/JS] [How did you improve your coding skills?](https://dev.to/wizdomtek/how-did-you-improve-your-coding-skills-5d6p)
-- [Dev.to/JS] [Suggestions to my file sharing Web App](https://dev.to/varshithvhegde/suggestions-to-my-file-sharing-web-app-38jd)
-- [Dev.to/JS] [Top 10+ most dead-easy ways to make a web app](https://dev.to/flatlogic/top-10-most-dead-easy-ways-to-make-a-web-app-lb)
 - [Lifehacker] [When to See December&#39;s Full Moon at Peak Brilliance](https://lifehacker.com/when-to-see-decembers-full-moon-at-peak-brilliance-1849793352)
 - [Lifehacker] [Don’t Put This Thanksgiving Cookware and Serveware in the Dishwasher](https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Educational Video Games That Are Actually Fun](https://lifehacker.com/11-educational-video-games-that-are-actually-fun-1849788759)
 - [Lifehacker] [This Map Shows the Biggest Climate Polluters In Your Area](https://lifehacker.com/this-map-shows-the-biggest-climate-polluters-in-your-ar-1849787582)
 - [Lifehacker] [Masks Aren’t to Blame for the Surge in RSV and Flu Right Now](https://lifehacker.com/masks-aren-t-to-blame-for-the-surge-in-rsv-and-flu-righ-1849785992)
-- [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
-- [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
-- [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)<!-- TECH-POSTS:END -->
 
 ---
 
