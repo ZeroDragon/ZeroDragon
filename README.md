@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One of the ways to use Context API](https://dev.to/giorgiparunov/one-of-the-ways-to-use-context-api-65f)
+- [Dev.to/JS] [Introduction to React](https://dev.to/iambilalriaz/introduction-to-react-1mad)
 - [Dev.to/JS] [Why I like React?](https://dev.to/zobaidulofficial/why-i-like-react-5e81)
 - [Dev.to/JS] [Release 0.3 - Working with external repository](https://dev.to/ririio/release-03-working-with-external-repository-29bl)
 - [Dev.to/JS] [JS/TS OOP: 2-Classes And Objects](https://dev.to/hassanzohdy/jsts-oop-2-classes-and-objects-fd2)
@@ -33,10 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an eCommerce Mobile App with React Native and WooCommerce](https://dev.to/asayerio_techblog/building-an-ecommerce-mobile-app-with-react-native-and-woocommerce-21ib)
 - [Dev.to/JS] [Debounce in Next.js](https://dev.to/imbios/debounce-in-nextjs-3llh)
 - [Dev.to/JS] [Build your first Web3 Chrome Extension using Typescript](https://dev.to/thisisgazzar/build-your-first-web3-chrome-extension-using-typescript-18e2)
-- [Dev.to/JS] [How to use JavaScript Gamepad API to Build a Simple Game](https://dev.to/codingwithadam/how-to-use-javascript-gamepad-api-to-build-a-simple-game-12am)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
-- [Dev.to/JS] [代码随想录day2 | 977.有序数组的平方, 209.长度最小的子数组, 59.螺旋矩阵II](https://dev.to/986913/dai-ma-sui-xiang-lu-day2-977you-xu-shu-zu-de-ping-fang-209chang-du-zui-xiao-de-zi-shu-zu-59luo-xuan-ju-zhen-ii-4lf9)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Early Retirement](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-ea-1849785268)
 - [Lifehacker] [Three Cheap, Simple Ways to Make a No-Sew Christmas Tree Skirt](https://lifehacker.com/three-cheap-simple-ways-to-make-a-no-sew-christmas-tre-1849790819)
