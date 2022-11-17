@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day40 of #100DaysOfCode](https://dev.to/yoot/day40-of-100daysofcode-3843)
+- [Dev.to/JS] [Adding Continuous Integration](https://dev.to/lostbutton/adding-continuous-integration-46oh)
+- [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-ngd)
+- [Dev.to/JS] [How to Set Up and Use Elasticsearch with Strapi](https://dev.to/strapi/how-to-set-up-and-use-elasticsearch-with-strapi-3nnc)
+- [Dev.to/JS] [223. Leetcode Solution in JavaScript](https://dev.to/chiki1601/223-leetcode-solution-in-javascript-1ch8)
 - [Dev.to/JS] [Super componentes... E muito mais!](https://dev.to/diogoneves07/super-componentes-e-muito-mais-cj2)
 - [Dev.to/JS] [ES6++: 5- Arrow Functions](https://dev.to/hassanzohdy/es6-5-arrow-functions-3cd3)
 - [Dev.to/JS] [Introducing regroot🌱 : A recruitment platform.](https://dev.to/sidjs/introducing-regroot-a-recruitment-platform-3bem)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A better way to pass parameters to functions](https://dev.to/arnosolo/a-better-way-to-pass-parameters-to-functions-5gna)
 - [Dev.to/JS] [JavaScript Developer Roadmap: Zero to Hero](https://dev.to/saloni137/javascript-developer-roadmap-zero-to-hero-1im0)
 - [Dev.to/JS] [Node JS HTTP server example](https://dev.to/biplab3/node-js-http-server-example-2ccf)
-- [Dev.to/JS] [Reversing a string](https://dev.to/realisedprophets/reversing-a-string-1ijj)
-- [Dev.to/JS] [Async control: Promise Queues and “leaky-buckets”](https://dev.to/devtestsca/async-control-promise-queues-and-leaky-buckets-3gnj)
-- [Dev.to/JS] [Meet a new technology to display your big data volumes instantly without any waiting time!](https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k)
-- [Dev.to/JS] [Async control: Promise Queues and &quot;leaky-buckets&quot; 💧💦](https://dev.to/devtestsca/async-control-promise-queues-and-leaky-buckets-bmm)
-- [Dev.to/JS] [JavaScript Debounce vs. Throttle](https://dev.to/syncfusion/javascript-debounce-vs-throttle-hjc)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
