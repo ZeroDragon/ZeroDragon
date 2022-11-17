@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactjs Protected Route](https://dev.to/collins87mbathi/reactjs-protected-route-m3j)
+- [Lifehacker] [Where to &lpar;and Where Not to&rpar; Install Home Security Cameras](https://lifehacker.com/where-to-and-where-not-to-install-home-security-camer-1849797448)
+- [Dev.to/JS] [Responsive Navbar](https://dev.to/berecont/responsive-navbar-1001)
+- [Dev.to/JS] [React .diff algo!](https://dev.to/rounit08/react-diff-algo-1ena)
 - [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)
 - [Dev.to/JS] [Vue Js Chat Application tutorial](https://dev.to/alakkadshaw/vue-js-chat-application-tutorial-4ena)
 - [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)
@@ -39,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Improve Your iPhone&#39;s Always-On Display](https://lifehacker.com/you-can-finally-improve-your-iphones-always-on-display-1849795346)
 - [Dev.to/JS] [Quick i18n setup in React native with autocomplete](https://dev.to/antoine_m/quick-i18n-setup-in-react-native-with-autocomplete-13mm)
 - [Lifehacker] [Where Student Loan Forgiveness Stands Right Now](https://lifehacker.com/where-student-loan-forgiveness-stands-right-now-1849795888)
-- [Dev.to/JS] [Let&#39;s explore a blockchain network](https://dev.to/dilhaque/lets-explore-a-blockchain-network-1e6c)
-- [Dev.to/JS] [7 Great Coding Websites for Kids of All Ages](https://dev.to/efrenmarin/7-great-coding-websites-for-kids-of-all-ages-hh4)
-- [Dev.to/JS] [Create beautiful images of your code - imgsrc.shibu.dev](https://dev.to/shibun/create-beautiful-images-of-your-code-imgsrcshibudev-1l5i)
 - [Lifehacker] [The Most Common Toilet Repairs &lpar;and How to Do Them Yourself&rpar;](https://lifehacker.com/the-most-common-toilet-repairs-and-how-to-do-them-your-1849794329)
 - [Lifehacker] [Distract Your Cat With These Video Game Apps](https://lifehacker.com/distract-your-cat-with-these-video-game-apps-1849794032)
 - [Lifehacker] [Garam Masala Is the ‘New’ Pumpkin Spice](https://lifehacker.com/garam-masala-is-the-new-pumpkin-spice-1849795344)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pros and Cons of Buying a Manufactured Home](https://lifehacker.com/the-pros-and-cons-of-buying-a-manufactured-home-1849790187)
 - [Lifehacker] [You Can Finally Kick a Specific Person Off Your Netflix](https://lifehacker.com/you-can-finally-kick-a-specific-person-off-your-netflix-1849789963)
 - [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
-- [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)
-- [Lifehacker] [11 Educational Video Games That Are Actually Fun](https://lifehacker.com/11-educational-video-games-that-are-actually-fun-1849788759)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)<!-- TECH-POSTS:END -->
 
 ---
 
