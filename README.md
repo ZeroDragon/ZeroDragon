@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use JavaScript Gamepad API to Build a Simple Game](https://dev.to/codingwithadam/how-to-use-javascript-gamepad-api-to-build-a-simple-game-12am)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Dev.to/JS] [代码随想录day2 | 977.有序数组的平方, 209.长度最小的子数组, 59.螺旋矩阵II](https://dev.to/986913/dai-ma-sui-xiang-lu-day2-977you-xu-shu-zu-de-ping-fang-209chang-du-zui-xiao-de-zi-shu-zu-59luo-xuan-ju-zhen-ii-4lf9)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Function and its Types](https://dev.to/santhoshkumar/js-function-and-its-types-4gen)
 - [Dev.to/JS] [JavaScript function](https://dev.to/dharchini/javascript-function-1fod)
 - [Dev.to/JS] [Quick tip: Using Deno and npm to persist and query data in SingleStoreDB](https://dev.to/veryfatboy/quick-tip-using-deno-and-npm-to-persist-and-query-data-in-singlestoredb-4co2)
-- [Dev.to/JS] [JavaScript Runtime and Engine](https://dev.to/razaul/javascript-runtime-and-engine-3jf6)
 - [Lifehacker] [You Can Finally Kick a Specific Person Off Your Netflix](https://lifehacker.com/you-can-finally-kick-a-specific-person-off-your-netflix-1849789963)
 - [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
 - [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)
