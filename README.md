@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ES6++: 3- For Of](https://dev.to/hassanzohdy/es6-3-for-of-1h5i)
+- [Dev.to/JS] [VS Code for best Settings](https://dev.to/abhavthakur/vscode-for-best-settings-46e3)
 - [Dev.to/JS] [How can I host my website for free ?](https://dev.to/develop92001047/how-can-i-host-my-website-for-free--2066)
 - [Dev.to/JS] [10+ Ambassador Programs You Should Know](https://dev.to/patilganesh1010/10-ambassador-programs-you-should-know-22i7)
 - [Dev.to/JS] [Building an eCommerce Mobile App with React Native and WooCommerce](https://dev.to/asayerio_techblog/building-an-ecommerce-mobile-app-with-react-native-and-woocommerce-21ib)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need to Remove Your Window AC Unit for Winter &lpar;and Not Just Cover It&rpar;](https://lifehacker.com/why-you-need-to-remove-your-window-ac-unit-for-winter-1849790823)
 - [Lifehacker] [You Can Order Domino&#39;s for 50% Off Right Now](https://lifehacker.com/you-can-order-dominos-for-50-off-right-now-1849790953)
 - [Dev.to/JS] [Interact with deployed smart contracts using HardHat console](https://dev.to/abondance68/interact-with-deployed-smart-contracts-using-hardhat-console-2kpj)
-- [Dev.to/JS] [What is useContext?](https://dev.to/loganlampton/what-is-usecontext-4m5m)
-- [Dev.to/JS] [代码随想录day1 | 704.二分查找, 27. 移除元素](https://dev.to/986913/dai-ma-sui-xiang-lu-day1-704er-fen-cha-zhao-27-yi-chu-yuan-su-2n18)
 - [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
 - [Lifehacker] [Do These Things to Be Promoted to Manager](https://lifehacker.com/do-these-things-to-be-promoted-to-manager-1849790419)
 - [Lifehacker] [No Mom, Cold Weather Won&#39;t Make You Sick](https://lifehacker.com/no-mom-cold-weather-wont-make-you-sick-1849790245)
