@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)
+- [Dev.to/JS] [Vue Js Chat Application tutorial](https://dev.to/alakkadshaw/vue-js-chat-application-tutorial-4ena)
+- [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)
+- [Dev.to/JS] [BOXCODING](https://dev.to/aa82851391/boxcoding-5g85)
+- [Lifehacker] [Tyson Is Recalling Nearly 100,000 of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)
 - [Dev.to/JS] [5 things you need to know about Stripe&#39;s Test Mode](https://dev.to/tier/5-things-you-need-to-know-about-stripes-test-mode-2gcb)
 - [Lifehacker] [Why Being Cold Makes You Pee](https://lifehacker.com/why-you-feel-like-you-need-to-pee-more-in-cold-weather-1849796756)
 - [Dev.to/JS] [An interpreted language you can try in my terminal website](https://dev.to/protium/an-interpreted-language-you-can-try-in-my-terminal-website-i1)
@@ -37,11 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s explore a blockchain network](https://dev.to/dilhaque/lets-explore-a-blockchain-network-1e6c)
 - [Dev.to/JS] [7 Great Coding Websites for Kids of All Ages](https://dev.to/efrenmarin/7-great-coding-websites-for-kids-of-all-ages-hh4)
 - [Dev.to/JS] [Create beautiful images of your code - imgsrc.shibu.dev](https://dev.to/shibun/create-beautiful-images-of-your-code-imgsrcshibudev-1l5i)
-- [Dev.to/JS] [Getting started with Deno.js](https://dev.to/mr_ali3n/getting-started-with-denojs-2hp0)
 - [Lifehacker] [The Most Common Toilet Repairs &lpar;and How to Do Them Yourself&rpar;](https://lifehacker.com/the-most-common-toilet-repairs-and-how-to-do-them-your-1849794329)
 - [Lifehacker] [Distract Your Cat With These Video Game Apps](https://lifehacker.com/distract-your-cat-with-these-video-game-apps-1849794032)
 - [Lifehacker] [Garam Masala Is the ‘New’ Pumpkin Spice](https://lifehacker.com/garam-masala-is-the-new-pumpkin-spice-1849795344)
-- [Dev.to/JS] [Accessibility Isn&#39;t Optional](https://dev.to/gingerkiwi/accessibility-isnt-optional-11co)
 - [Lifehacker] [When to See December&#39;s Full Moon at Peak Brilliance](https://lifehacker.com/when-to-see-decembers-full-moon-at-peak-brilliance-1849793352)
 - [Lifehacker] [Don’t Put This Thanksgiving Cookware and Serveware in the Dishwasher](https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Kick a Specific Person Off Your Netflix](https://lifehacker.com/you-can-finally-kick-a-specific-person-off-your-netflix-1849789963)
 - [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
 - [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)
-- [Lifehacker] [11 Educational Video Games That Are Actually Fun](https://lifehacker.com/11-educational-video-games-that-are-actually-fun-1849788759)
-- [Lifehacker] [This Map Shows the Biggest Climate Polluters In Your Area](https://lifehacker.com/this-map-shows-the-biggest-climate-polluters-in-your-ar-1849787582)
-- [Lifehacker] [Masks Aren’t to Blame for the Surge in RSV and Flu Right Now](https://lifehacker.com/masks-aren-t-to-blame-for-the-surge-in-rsv-and-flu-righ-1849785992)
-- [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Educational Video Games That Are Actually Fun](https://lifehacker.com/11-educational-video-games-that-are-actually-fun-1849788759)<!-- TECH-POSTS:END -->
 
 ---
 
