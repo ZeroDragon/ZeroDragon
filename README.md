@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where Student Loan Forgiveness Stands Right Now](https://lifehacker.com/where-student-loan-forgiveness-stands-right-now-1849795888)
+- [Dev.to/JS] [Let&#39;s explore a blockchain network](https://dev.to/dilhaque/lets-explore-a-blockchain-network-1e6c)
+- [Dev.to/JS] [7 Great Coding Websites for Kids of All Ages](https://dev.to/efrenmarin/7-great-coding-websites-for-kids-of-all-ages-hh4)
+- [Dev.to/JS] [Create beautiful images of your code - imgsrc.shibu.dev](https://dev.to/shibun/create-beautiful-images-of-your-code-imgsrcshibudev-1l5i)
+- [Dev.to/JS] [Getting started with Deno.js](https://dev.to/mr_ali3n/getting-started-with-denojs-2hp0)
+- [Lifehacker] [The Most Common Toilet Repairs &lpar;and How to Do Them Yourself&rpar;](https://lifehacker.com/the-most-common-toilet-repairs-and-how-to-do-them-your-1849794329)
 - [Lifehacker] [Distract Your Cat With These Video Game Apps](https://lifehacker.com/distract-your-cat-with-these-video-game-apps-1849794032)
 - [Lifehacker] [Garam Masala Is the ‘New’ Pumpkin Spice](https://lifehacker.com/garam-masala-is-the-new-pumpkin-spice-1849795344)
 - [Dev.to/JS] [Accessibility Isn&#39;t Optional](https://dev.to/gingerkiwi/accessibility-isnt-optional-11co)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day40 of #100DaysOfCode](https://dev.to/yoot/day40-of-100daysofcode-3843)
 - [Dev.to/JS] [Adding Continuous Integration](https://dev.to/lostbutton/adding-continuous-integration-46oh)
 - [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-ngd)
-- [Dev.to/JS] [How to Set Up and Use Elasticsearch with Strapi](https://dev.to/strapi/how-to-set-up-and-use-elasticsearch-with-strapi-3nnc)
-- [Dev.to/JS] [223. Leetcode Solution in JavaScript](https://dev.to/chiki1601/223-leetcode-solution-in-javascript-1ch8)
-- [Dev.to/JS] [Super componentes... E muito mais!](https://dev.to/diogoneves07/super-componentes-e-muito-mais-cj2)
-- [Dev.to/JS] [ES6++: 5- Arrow Functions](https://dev.to/hassanzohdy/es6-5-arrow-functions-3cd3)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
 - [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
-- [Lifehacker] [Make This Apple Cider Cake When You&#39;re Over Pie](https://lifehacker.com/make-this-apple-cider-cake-when-youre-over-pie-1849786809)
-- [Lifehacker] [How to Know If You Have a Good Doctor](https://lifehacker.com/how-to-know-if-you-have-a-good-doctor-1849786709)
-- [Lifehacker] [Time Is Running Out to Claim Your Stimulus and Child Tax Credit Payments](https://lifehacker.com/time-is-running-out-to-claim-your-stimulus-and-child-ta-1849786099)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Apple Cider Cake When You&#39;re Over Pie](https://lifehacker.com/make-this-apple-cider-cake-when-youre-over-pie-1849786809)<!-- TECH-POSTS:END -->
 
 ---
 
