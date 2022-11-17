@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I like React?](https://dev.to/zobaidulofficial/why-i-like-react-5e81)
+- [Dev.to/JS] [Release 0.3 - Working with external repository](https://dev.to/ririio/release-03-working-with-external-repository-29bl)
+- [Dev.to/JS] [JS/TS OOP: 2-Classes And Objects](https://dev.to/hassanzohdy/jsts-oop-2-classes-and-objects-fd2)
 - [Dev.to/JS] [ES6++: 3- For Of](https://dev.to/hassanzohdy/es6-3-for-of-1h5i)
 - [Dev.to/JS] [VS Code for best Settings](https://dev.to/abhavthakur/vscode-for-best-settings-46e3)
 - [Dev.to/JS] [How can I host my website for free ?](https://dev.to/develop92001047/how-can-i-host-my-website-for-free--2066)
@@ -35,14 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Dev.to/JS] [代码随想录day2 | 977.有序数组的平方, 209.长度最小的子数组, 59.螺旋矩阵II](https://dev.to/986913/dai-ma-sui-xiang-lu-day2-977you-xu-shu-zu-de-ping-fang-209chang-du-zui-xiao-de-zi-shu-zu-59luo-xuan-ju-zhen-ii-4lf9)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
-- [Dev.to/JS] [React Hook Form: a unique implementation](https://dev.to/romaintrotard/react-hook-form-a-unique-implementation-3oll)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Early Retirement](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-ea-1849785268)
 - [Lifehacker] [Three Cheap, Simple Ways to Make a No-Sew Christmas Tree Skirt](https://lifehacker.com/three-cheap-simple-ways-to-make-a-no-sew-christmas-tre-1849790819)
-- [Dev.to/JS] [JavaScript: The Beginning &lpar;A Beginner&#39;s perspective&rpar;](https://dev.to/damilolaweb/javascript-the-beginning-a-beginners-perspective-58mp)
 - [Lifehacker] [You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/you-should-start-texting-yourself-in-whatsapp-1849790925)
 - [Lifehacker] [Why You Need to Remove Your Window AC Unit for Winter &lpar;and Not Just Cover It&rpar;](https://lifehacker.com/why-you-need-to-remove-your-window-ac-unit-for-winter-1849790823)
 - [Lifehacker] [You Can Order Domino&#39;s for 50% Off Right Now](https://lifehacker.com/you-can-order-dominos-for-50-off-right-now-1849790953)
-- [Dev.to/JS] [Interact with deployed smart contracts using HardHat console](https://dev.to/abondance68/interact-with-deployed-smart-contracts-using-hardhat-console-2kpj)
 - [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
 - [Lifehacker] [Do These Things to Be Promoted to Manager](https://lifehacker.com/do-these-things-to-be-promoted-to-manager-1849790419)
 - [Lifehacker] [No Mom, Cold Weather Won&#39;t Make You Sick](https://lifehacker.com/no-mom-cold-weather-wont-make-you-sick-1849790245)
