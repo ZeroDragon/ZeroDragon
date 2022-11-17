@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an eCommerce Mobile App with React Native and WooCommerce](https://dev.to/asayerio_techblog/building-an-ecommerce-mobile-app-with-react-native-and-woocommerce-21ib)
+- [Dev.to/JS] [Debounce in Next.js](https://dev.to/imbios/debounce-in-nextjs-3llh)
 - [Dev.to/JS] [Build your first Web3 Chrome Extension using Typescript](https://dev.to/thisisgazzar/build-your-first-web3-chrome-extension-using-typescript-18e2)
 - [Dev.to/JS] [How to use JavaScript Gamepad API to Build a Simple Game](https://dev.to/codingwithadam/how-to-use-javascript-gamepad-api-to-build-a-simple-game-12am)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
@@ -45,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No Mom, Cold Weather Won&#39;t Make You Sick](https://lifehacker.com/no-mom-cold-weather-wont-make-you-sick-1849790245)
 - [Dev.to/JS] [Observability - ApostropheCMS, OpenTelemetry, and New Relic](https://dev.to/apostrophecms/observability-apostrophecms-opentelemetry-and-new-relic-1min)
 - [Lifehacker] [The Pros and Cons of Buying a Manufactured Home](https://lifehacker.com/the-pros-and-cons-of-buying-a-manufactured-home-1849790187)
-- [Dev.to/JS] [JS Function and its Types](https://dev.to/santhoshkumar/js-function-and-its-types-4gen)
-- [Dev.to/JS] [JavaScript function](https://dev.to/dharchini/javascript-function-1fod)
 - [Lifehacker] [You Can Finally Kick a Specific Person Off Your Netflix](https://lifehacker.com/you-can-finally-kick-a-specific-person-off-your-netflix-1849789963)
 - [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
 - [Lifehacker] [15 Thanksgiving Movies About Families As Screwed Up As Yours](https://lifehacker.com/15-thanksgiving-movies-about-families-as-screwed-up-as-1849784767)
