@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can I host my website for free ?](https://dev.to/develop92001047/how-can-i-host-my-website-for-free--2066)
+- [Dev.to/JS] [10+ Ambassador Programs You Should Know](https://dev.to/patilganesh1010/10-ambassador-programs-you-should-know-22i7)
 - [Dev.to/JS] [Building an eCommerce Mobile App with React Native and WooCommerce](https://dev.to/asayerio_techblog/building-an-ecommerce-mobile-app-with-react-native-and-woocommerce-21ib)
 - [Dev.to/JS] [Debounce in Next.js](https://dev.to/imbios/debounce-in-nextjs-3llh)
 - [Dev.to/JS] [Build your first Web3 Chrome Extension using Typescript](https://dev.to/thisisgazzar/build-your-first-web3-chrome-extension-using-typescript-18e2)
@@ -42,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is useContext?](https://dev.to/loganlampton/what-is-usecontext-4m5m)
 - [Dev.to/JS] [代码随想录day1 | 704.二分查找, 27. 移除元素](https://dev.to/986913/dai-ma-sui-xiang-lu-day1-704er-fen-cha-zhao-27-yi-chu-yuan-su-2n18)
 - [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
-- [Dev.to/JS] [2022 – Javascript Array Methods: Find&lpar;&rpar;](https://dev.to/musayazlik/2022-javascript-array-methods-find-5f2m)
 - [Lifehacker] [Do These Things to Be Promoted to Manager](https://lifehacker.com/do-these-things-to-be-promoted-to-manager-1849790419)
 - [Lifehacker] [No Mom, Cold Weather Won&#39;t Make You Sick](https://lifehacker.com/no-mom-cold-weather-wont-make-you-sick-1849790245)
-- [Dev.to/JS] [Observability - ApostropheCMS, OpenTelemetry, and New Relic](https://dev.to/apostrophecms/observability-apostrophecms-opentelemetry-and-new-relic-1min)
 - [Lifehacker] [The Pros and Cons of Buying a Manufactured Home](https://lifehacker.com/the-pros-and-cons-of-buying-a-manufactured-home-1849790187)
 - [Lifehacker] [You Can Finally Kick a Specific Person Off Your Netflix](https://lifehacker.com/you-can-finally-kick-a-specific-person-off-your-netflix-1849789963)
 - [Lifehacker] [Stop Using Spotlight on Your iPhone &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-using-spotlight-on-your-iphone-and-do-this-instea-1849789391)
