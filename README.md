@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ecommerce Dashboard](https://dev.to/badreddinezatout/ecommerce-dashboard-9hk)
+- [Dev.to/JS] [Hyperscript - the hidden language of React](https://dev.to/govindkumwat/hyperscript-the-hidden-language-of-react-2fj0)
+- [Dev.to/JS] [The Many Possibilities of the Metaverse](https://dev.to/nftslab/the-many-possibilities-of-the-metaverse-24ab)
 - [Dev.to/JS] [One of the ways to use Context API](https://dev.to/giorgiparunov/one-of-the-ways-to-use-context-api-65f)
 - [Dev.to/JS] [Introduction to React](https://dev.to/iambilalriaz/introduction-to-react-1mad)
 - [Dev.to/JS] [Why I like React?](https://dev.to/zobaidulofficial/why-i-like-react-5e81)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VS Code for best Settings](https://dev.to/abhavthakur/vscode-for-best-settings-46e3)
 - [Dev.to/JS] [How can I host my website for free ?](https://dev.to/develop92001047/how-can-i-host-my-website-for-free--2066)
 - [Dev.to/JS] [10+ Ambassador Programs You Should Know](https://dev.to/patilganesh1010/10-ambassador-programs-you-should-know-22i7)
-- [Dev.to/JS] [Building an eCommerce Mobile App with React Native and WooCommerce](https://dev.to/asayerio_techblog/building-an-ecommerce-mobile-app-with-react-native-and-woocommerce-21ib)
-- [Dev.to/JS] [Debounce in Next.js](https://dev.to/imbios/debounce-in-nextjs-3llh)
-- [Dev.to/JS] [Build your first Web3 Chrome Extension using Typescript](https://dev.to/thisisgazzar/build-your-first-web3-chrome-extension-using-typescript-18e2)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
