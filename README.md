@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microsoft Graph Can Do What?! Real-World Scenarios for Your Apps - 21st November 3PM GMT](https://dev.to/azure/microsoft-graph-can-do-what-real-world-scenarios-for-your-apps-21st-november-3pm-gmt-4nb9)
+- [Dev.to/JS] [JavaScript Primitive vs Reference Values](https://dev.to/indirakumar/javascript-primitive-vs-reference-values-1kmm)
+- [Dev.to/JS] [ES6++: 4- Template Literals](https://dev.to/hassanzohdy/es6-4-template-literals-41hb)
 - [Dev.to/JS] [Technology Stack for Crypto Exchanges](https://dev.to/hivelance/technology-stack-for-crypto-exchanges-44lo)
 - [Dev.to/JS] [# Day 4 | How to resolve it?](https://dev.to/weijuer/-day-4-how-to-resolve-it-3ppn)
 - [Dev.to/JS] [Complete E-Commerce in React and Node.js &lpar;free&rpar; 🔥 | MERN Course in 15hrs](https://dev.to/chaoocharles/complete-e-commerce-in-react-and-nodejs-free-mern-course-in-15hrs-3ln2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [One of the ways to use Context API](https://dev.to/giorgiparunov/one-of-the-ways-to-use-context-api-65f)
 - [Dev.to/JS] [Introduction to React](https://dev.to/iambilalriaz/introduction-to-react-1mad)
 - [Dev.to/JS] [Why I like React?](https://dev.to/zobaidulofficial/why-i-like-react-5e81)
-- [Dev.to/JS] [Release 0.3 - Working with external repository](https://dev.to/ririio/release-03-working-with-external-repository-29bl)
-- [Dev.to/JS] [JS/TS OOP: 2-Classes And Objects](https://dev.to/hassanzohdy/jsts-oop-2-classes-and-objects-fd2)
-- [Dev.to/JS] [ES6++: 3- For Of](https://dev.to/hassanzohdy/es6-3-for-of-1h5i)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
