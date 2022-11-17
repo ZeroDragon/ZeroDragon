@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Put This Thanksgiving Cookware and Serveware in the Dishwasher](https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978)
+- [Dev.to/JS] [Async control: Promise Queues and “leaky-buckets”](https://dev.to/prathameshdev123/async-control-promise-queues-and-leaky-buckets-2k46)
 - [Dev.to/JS] [Day40 of #100DaysOfCode](https://dev.to/yoot/day40-of-100daysofcode-3843)
 - [Dev.to/JS] [Adding Continuous Integration](https://dev.to/lostbutton/adding-continuous-integration-46oh)
 - [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-ngd)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to convert text into image with svg tag](https://dev.to/arnosolo/how-to-convert-text-into-image-with-svg-tag-1n33)
 - [Dev.to/JS] [A better way to pass parameters to functions](https://dev.to/arnosolo/a-better-way-to-pass-parameters-to-functions-5gna)
 - [Dev.to/JS] [JavaScript Developer Roadmap: Zero to Hero](https://dev.to/saloni137/javascript-developer-roadmap-zero-to-hero-1im0)
-- [Dev.to/JS] [Node JS HTTP server example](https://dev.to/biplab3/node-js-http-server-example-2ccf)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Time Is Running Out to Claim Your Stimulus and Child Tax Credit Payments](https://lifehacker.com/time-is-running-out-to-claim-your-stimulus-and-child-ta-1849786099)
 - [Lifehacker] [How to Rescue a Waterlogged Book](https://lifehacker.com/how-to-rescue-a-waterlogged-book-1849785095)
 - [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170)
-- [Lifehacker] [All the Ways a Cooler &lpar;or Three&rpar; Will Help You Survive Thanksgiving](https://lifehacker.com/all-the-ways-a-cooler-or-three-will-help-you-survive-1849785357)
-- [Lifehacker] [How to Pre-Order the PS VR2](https://lifehacker.com/how-to-pre-order-the-ps-vr2-1849785013)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways a Cooler &lpar;or Three&rpar; Will Help You Survive Thanksgiving](https://lifehacker.com/all-the-ways-a-cooler-or-three-will-help-you-survive-1849785357)<!-- TECH-POSTS:END -->
 
 ---
 
