@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JavaScript?](https://dev.to/nayemhossain/what-is-javascript-4jle)
+- [Dev.to/JS] [what would you say is the easiest way to create a slider that goes horizontally and vertically ?](https://dev.to/raidakrich/what-would-you-say-is-the-easiest-way-to-create-a-slider-that-goes-horizontally-and-vertically--8gk)
+- [Dev.to/JS] [100+ Most Useful Github Repositories Every Programmer Needs](https://dev.to/johongirr/100-most-useful-github-repositories-every-programmer-needs-32cg)
+- [Lifehacker] [You Can Finally Improve Your iPhone&#39;s Always-On Display](https://lifehacker.com/you-can-finally-improve-your-iphones-always-on-display-1849795346)
+- [Dev.to/JS] [Quick i18n setup in React native with autocomplete](https://dev.to/antoine_m/quick-i18n-setup-in-react-native-with-autocomplete-13mm)
 - [Lifehacker] [Where Student Loan Forgiveness Stands Right Now](https://lifehacker.com/where-student-loan-forgiveness-stands-right-now-1849795888)
 - [Dev.to/JS] [Let&#39;s explore a blockchain network](https://dev.to/dilhaque/lets-explore-a-blockchain-network-1e6c)
 - [Dev.to/JS] [7 Great Coding Websites for Kids of All Ages](https://dev.to/efrenmarin/7-great-coding-websites-for-kids-of-all-ages-hh4)
@@ -37,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10+ most dead-easy ways to make a web app](https://dev.to/flatlogic/top-10-most-dead-easy-ways-to-make-a-web-app-lb)
 - [Lifehacker] [When to See December&#39;s Full Moon at Peak Brilliance](https://lifehacker.com/when-to-see-decembers-full-moon-at-peak-brilliance-1849793352)
 - [Lifehacker] [Don’t Put This Thanksgiving Cookware and Serveware in the Dishwasher](https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978)
-- [Dev.to/JS] [Async control: Promise Queues and “leaky-buckets”](https://dev.to/prathameshdev123/async-control-promise-queues-and-leaky-buckets-2k46)
-- [Dev.to/JS] [Day40 of #100DaysOfCode](https://dev.to/yoot/day40-of-100daysofcode-3843)
-- [Dev.to/JS] [Adding Continuous Integration](https://dev.to/lostbutton/adding-continuous-integration-46oh)
-- [Dev.to/JS] [What is Microsoft Azure Cloud Services?](https://dev.to/postwell45/what-is-microsoft-azure-cloud-services-ngd)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Masks Aren’t to Blame for the Surge in RSV and Flu Right Now](https://lifehacker.com/masks-aren-t-to-blame-for-the-surge-in-rsv-and-flu-righ-1849785992)
 - [Lifehacker] [You Need to Prepare Now for a Holiday Guest With a Food Allergy](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
 - [Lifehacker] [12 of the Best Nintendo Switch Games to Play at Work, According to Reddit](https://lifehacker.com/12-of-the-best-nintendo-switch-games-to-play-at-work-a-1849785568)
-- [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)
-- [Lifehacker] [Make This Apple Cider Cake When You&#39;re Over Pie](https://lifehacker.com/make-this-apple-cider-cake-when-youre-over-pie-1849786809)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Two Years of Free Food Deliveries From Uber Eats](https://lifehacker.com/how-to-get-two-years-of-free-food-deliveries-from-uber-1849786992)<!-- TECH-POSTS:END -->
 
 ---
 
