@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Choose React With Node JS to Build Web Applications](https://dev.to/dhavals32773572/why-choose-react-with-node-js-to-build-web-applications-2mdn)
+- [Dev.to/JS] [Why Do You Need to Hire Node.js Developers?](https://dev.to/scalacode/why-do-you-need-to-hire-nodejs-developers-11c9)
+- [Dev.to/JS] [Frontend Rendering: SSG vs ISG vs SSR vs CSR - When to use which?](https://dev.to/devtestsca/frontend-rendering-ssg-vs-isg-vs-ssr-vs-csr-when-to-use-which-1ab2)
 - [Dev.to/JS] [Microsoft Graph Can Do What?! Real-World Scenarios for Your Apps - 21st November 3PM GMT](https://dev.to/azure/microsoft-graph-can-do-what-real-world-scenarios-for-your-apps-21st-november-3pm-gmt-4nb9)
 - [Dev.to/JS] [JavaScript Primitive vs Reference Values](https://dev.to/indirakumar/javascript-primitive-vs-reference-values-1kmm)
 - [Dev.to/JS] [ES6++: 4- Template Literals](https://dev.to/hassanzohdy/es6-4-template-literals-41hb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ecommerce Dashboard](https://dev.to/badreddinezatout/ecommerce-dashboard-9hk)
 - [Dev.to/JS] [Hyperscript - the hidden language of React](https://dev.to/govindkumwat/hyperscript-the-hidden-language-of-react-2fj0)
 - [Dev.to/JS] [The Many Possibilities of the Metaverse](https://dev.to/nftslab/the-many-possibilities-of-the-metaverse-24ab)
-- [Dev.to/JS] [One of the ways to use Context API](https://dev.to/giorgiparunov/one-of-the-ways-to-use-context-api-65f)
-- [Dev.to/JS] [Introduction to React](https://dev.to/iambilalriaz/introduction-to-react-1mad)
-- [Dev.to/JS] [Why I like React?](https://dev.to/zobaidulofficial/why-i-like-react-5e81)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
