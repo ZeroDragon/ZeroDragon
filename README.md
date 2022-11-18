@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best and Worst Times to Hit the Road for Thanksgiving, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-hit-the-road-for-thanksgivi-1849798694)
+- [Dev.to/JS] [Angular: Creating Angular Client Library](https://dev.to/urstrulyvishwak/angular-creating-angular-client-library-4a84)
+- [Dev.to/JS] [What is actually .well-known folder?](https://dev.to/ahmetonurslmz/what-is-actually-well-known-folder-216a)
+- [Dev.to/JS] [How to Solve the Combinations Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-solve-the-combinations-algorithm-in-javascript-and-python-4dm1)
+- [Lifehacker] [Buy This T-Shirt to Get Free Denny’s for a Year](https://lifehacker.com/buy-this-t-shirt-to-get-free-denny-s-for-a-year-1849798485)
+- [Lifehacker] [Make This No-Bake Fall Dessert If You Suck at Decorating](https://lifehacker.com/make-this-no-bake-fall-dessert-if-you-suck-at-decoratin-1849800752)
 - [Lifehacker] [The 12 Most Egregious Snubs in Grammy History](https://lifehacker.com/the-12-most-egregious-snubs-in-grammy-history-1849798849)
 - [Dev.to/JS] [Intro to Infrastructure as code &lpar;Serverless framework&rpar;](https://dev.to/ckmonish2000/intro-to-serverless-framework-iac-101-471i)
 - [Lifehacker] [Why You Need More &#39;Tiny Relationships&#39; &lpar;and How to Get Them&rpar;](https://lifehacker.com/why-you-need-more-tiny-relationships-and-how-to-get-th-1849792425)
@@ -34,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scrape Google Jobs Results](https://dev.to/darshan0_1/scrape-google-jobs-results-igj)
 - [Dev.to/JS] [Data Structures In Frontend JavaScript In The Real World &lpar;With React Code Examples&rpar;](https://dev.to/jkettmann/data-structures-in-frontend-javascript-in-the-real-world-with-react-code-examples-3506)
 - [Dev.to/JS] [4-JS OOP: Class Inheritance](https://dev.to/hassanzohdy/4-js-oop-class-inheritance-448l)
-- [Dev.to/JS] [How to Plan for Software Scalability and Building for Growth](https://dev.to/hackmamba/how-to-plan-for-software-scalability-and-building-for-growth-2kle)
-- [Dev.to/JS] [Breaking changes of open source dependencies](https://dev.to/david1542/breaking-changes-of-open-source-dependencies-59ie)
-- [Dev.to/JS] [Let your imagination go wild](https://dev.to/isolderea/let-your-imagination-go-wild-ob8)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Early Retirement](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-ea-1849785268)
 - [Lifehacker] [Three Cheap, Simple Ways to Make a No-Sew Christmas Tree Skirt](https://lifehacker.com/three-cheap-simple-ways-to-make-a-no-sew-christmas-tre-1849790819)
-- [Lifehacker] [You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/you-should-start-texting-yourself-in-whatsapp-1849790925)
-- [Lifehacker] [Why You Need to Remove Your Window AC Unit for Winter &lpar;and Not Just Cover It&rpar;](https://lifehacker.com/why-you-need-to-remove-your-window-ac-unit-for-winter-1849790823)
-- [Lifehacker] [You Can Order Domino&#39;s for 50% Off Right Now](https://lifehacker.com/you-can-order-dominos-for-50-off-right-now-1849790953)
-- [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/you-should-start-texting-yourself-in-whatsapp-1849790925)<!-- TECH-POSTS:END -->
 
 ---
 
