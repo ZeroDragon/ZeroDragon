@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop What You&#39;re Doing and Freeze Your Cranberries](https://lifehacker.com/stop-what-youre-doing-and-freeze-your-cranberries-1849801424)
+- [Lifehacker] [What to Know About the Deadly Mosquito-Borne Disease Showing Up in Arizona](https://lifehacker.com/what-to-know-about-the-deadly-mosquito-borne-disease-sh-1849801939)
+- [Lifehacker] [All the Stuff Homeowners Insurance Doesn’t Cover](https://lifehacker.com/all-the-stuff-homeowners-insurance-doesn-t-cover-1849801541)
 - [Dev.to/JS] [The Rising Coder - Week 12/13 &lpar;Project Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1213-project-week-23-1djh)
 - [Dev.to/JS] [My Perfect Boyfriend](https://dev.to/ximena_navarro/my-perfect-boyfriend-36lc)
 - [Lifehacker] [These Trucks Are Being Recalled Before They Catch Fire](https://lifehacker.com/these-trucks-are-being-recalled-before-they-catch-fire-1849796883)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spy on Your Own Phone &lpar;and Why You Might Want to&rpar;](https://lifehacker.com/how-to-spy-on-your-own-phone-and-why-you-might-want-to-1849795721)
 - [Lifehacker] [You Can Finally Improve Your iPhone&#39;s Always-On Display](https://lifehacker.com/you-can-finally-improve-your-iphones-always-on-display-1849795346)
 - [Lifehacker] [Where Student Loan Forgiveness Stands Right Now](https://lifehacker.com/where-student-loan-forgiveness-stands-right-now-1849795888)
-- [Lifehacker] [The Most Common Toilet Repairs &lpar;and How to Do Them Yourself&rpar;](https://lifehacker.com/the-most-common-toilet-repairs-and-how-to-do-them-your-1849794329)
-- [Lifehacker] [Distract Your Cat With These Video Game Apps](https://lifehacker.com/distract-your-cat-with-these-video-game-apps-1849794032)
-- [Lifehacker] [Garam Masala Is the ‘New’ Pumpkin Spice](https://lifehacker.com/garam-masala-is-the-new-pumpkin-spice-1849795344)
-- [Lifehacker] [When to See December&#39;s Full Moon at Peak Brilliance](https://lifehacker.com/when-to-see-decembers-full-moon-at-peak-brilliance-1849793352)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Common Toilet Repairs &lpar;and How to Do Them Yourself&rpar;](https://lifehacker.com/the-most-common-toilet-repairs-and-how-to-do-them-your-1849794329)<!-- TECH-POSTS:END -->
 
 ---
 
