@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Need More &#39;Tiny Relationships&#39; &lpar;and How to Get Them&rpar;](https://lifehacker.com/why-you-need-more-tiny-relationships-and-how-to-get-th-1849792425)
+- [Dev.to/JS] [BoxCoding by Avabucks](https://dev.to/aa82851391/boxcoding-by-avabucks-3fpf)
+- [Dev.to/JS] [⭐Angular 15 Features ⭐](https://dev.to/sandeepbalachandran/angular-15-features-22dc)
+- [Dev.to/JS] [OneBB Devlog](https://dev.to/pankrok/onebb-devlog-4nhi)
+- [Dev.to/JS] [Creating a Private Channel for Authorized Live Stream Playback with Amazon IVS](https://dev.to/aws/creating-a-private-channel-for-authorized-live-stream-playback-with-amazon-ivs-2mdl)
 - [Dev.to/JS] [Follow Friday: NodeJS Edition &lpar;18 November 2022&rpar;](https://dev.to/devteam/follow-friday-nodejs-edition-18-november-2022-4e3p)
 - [Dev.to/JS] [Scrape Google Jobs Results](https://dev.to/darshan0_1/scrape-google-jobs-results-igj)
 - [Dev.to/JS] [Data Structures In Frontend JavaScript In The Real World &lpar;With React Code Examples&rpar;](https://dev.to/jkettmann/data-structures-in-frontend-javascript-in-the-real-world-with-react-code-examples-3506)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Breaking changes of open source dependencies](https://dev.to/david1542/breaking-changes-of-open-source-dependencies-59ie)
 - [Dev.to/JS] [Let your imagination go wild](https://dev.to/isolderea/let-your-imagination-go-wild-ob8)
 - [Dev.to/JS] [Beginner to Master JS.](https://dev.to/tilakkhatri/beginner-to-master-js-1i81)
-- [Dev.to/JS] [Introduction to Supabase — The Firebase alternative](https://dev.to/shreyvijayvargiya/introduction-to-supabase-the-firebase-alternative-46fg)
-- [Dev.to/JS] [Step By Step Guide To Dockerize React App Created Using Vite](https://dev.to/nandhakumar/step-by-step-guide-to-dockerize-react-app-created-using-vite-2jg3)
-- [Dev.to/JS] [How to Create an Annotated Input?](https://dev.to/nowely/how-to-create-an-annotated-input-5gp4)
-- [Dev.to/JS] [Reason of using Automation Testing?](https://dev.to/postwell45/reason-of-using-automation-testing-pd5)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need to Remove Your Window AC Unit for Winter &lpar;and Not Just Cover It&rpar;](https://lifehacker.com/why-you-need-to-remove-your-window-ac-unit-for-winter-1849790823)
 - [Lifehacker] [You Can Order Domino&#39;s for 50% Off Right Now](https://lifehacker.com/you-can-order-dominos-for-50-off-right-now-1849790953)
 - [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
-- [Lifehacker] [Do These Things to Be Promoted to Manager](https://lifehacker.com/do-these-things-to-be-promoted-to-manager-1849790419)
-- [Lifehacker] [No Mom, Cold Weather Won&#39;t Make You Sick](https://lifehacker.com/no-mom-cold-weather-wont-make-you-sick-1849790245)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do These Things to Be Promoted to Manager](https://lifehacker.com/do-these-things-to-be-promoted-to-manager-1849790419)<!-- TECH-POSTS:END -->
 
 ---
 
