@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 12 Most Egregious Snubs in Grammy History](https://lifehacker.com/the-12-most-egregious-snubs-in-grammy-history-1849798849)
+- [Dev.to/JS] [Intro to Infrastructure as code &lpar;Serverless framework&rpar;](https://dev.to/ckmonish2000/intro-to-serverless-framework-iac-101-471i)
 - [Lifehacker] [Why You Need More &#39;Tiny Relationships&#39; &lpar;and How to Get Them&rpar;](https://lifehacker.com/why-you-need-more-tiny-relationships-and-how-to-get-th-1849792425)
 - [Dev.to/JS] [BoxCoding by Avabucks](https://dev.to/aa82851391/boxcoding-by-avabucks-3fpf)
 - [Dev.to/JS] [⭐Angular 15 Features ⭐](https://dev.to/sandeepbalachandran/angular-15-features-22dc)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Plan for Software Scalability and Building for Growth](https://dev.to/hackmamba/how-to-plan-for-software-scalability-and-building-for-growth-2kle)
 - [Dev.to/JS] [Breaking changes of open source dependencies](https://dev.to/david1542/breaking-changes-of-open-source-dependencies-59ie)
 - [Dev.to/JS] [Let your imagination go wild](https://dev.to/isolderea/let-your-imagination-go-wild-ob8)
-- [Dev.to/JS] [Beginner to Master JS.](https://dev.to/tilakkhatri/beginner-to-master-js-1i81)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/you-should-start-texting-yourself-in-whatsapp-1849790925)
 - [Lifehacker] [Why You Need to Remove Your Window AC Unit for Winter &lpar;and Not Just Cover It&rpar;](https://lifehacker.com/why-you-need-to-remove-your-window-ac-unit-for-winter-1849790823)
 - [Lifehacker] [You Can Order Domino&#39;s for 50% Off Right Now](https://lifehacker.com/you-can-order-dominos-for-50-off-right-now-1849790953)
-- [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
-- [Lifehacker] [Do These Things to Be Promoted to Manager](https://lifehacker.com/do-these-things-to-be-promoted-to-manager-1849790419)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Unusual Condiments That Will Maximize Your Thanksgiving Flavors](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)<!-- TECH-POSTS:END -->
 
 ---
 
