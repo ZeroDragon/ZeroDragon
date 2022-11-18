@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
+- [Dev.to/JS] [Continuous Integration for Node.js project](https://dev.to/gulyapulya/continuous-integration-for-nodejs-project-269a)
+- [Lifehacker] [Here&#39;s How Many Streams It Takes to Equal an Album Sale](https://lifehacker.com/heres-how-many-streams-it-takes-to-equal-an-album-sale-1849801652)
+- [Dev.to/JS] [The Case for Function Trees](https://dev.to/micdavis93/the-case-for-function-trees-2a87)
+- [Dev.to/JS] [Release 0.3 - Internal](https://dev.to/lostbutton/release-03-internal-22el)
+- [Dev.to/JS] [Internal Code Review -2 &amp; 3](https://dev.to/lostbutton/internal-code-review-2-3-igi)
+- [Dev.to/JS] [Internal Code Review - 1](https://dev.to/lostbutton/internal-code-review-1-14e6)
 - [Lifehacker] [Stop What You&#39;re Doing and Freeze Your Cranberries](https://lifehacker.com/stop-what-youre-doing-and-freeze-your-cranberries-1849801424)
 - [Lifehacker] [What to Know About the Deadly Mosquito-Borne Disease Showing Up in Arizona](https://lifehacker.com/what-to-know-about-the-deadly-mosquito-borne-disease-sh-1849801939)
 - [Lifehacker] [All the Stuff Homeowners Insurance Doesn’t Cover](https://lifehacker.com/all-the-stuff-homeowners-insurance-doesn-t-cover-1849801541)
@@ -36,16 +43,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Possible ways to send data through Routing in angular](https://dev.to/deepachaurasia1/possible-ways-to-send-data-through-routing-in-angular-5g3n)
 - [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
 - [Dev.to/JS] [InnerText vs. InnerHTML vs. TextContent](https://dev.to/keffdu/innertext-vs-innerhtml-vs-textcontent-1d5c)
-- [Dev.to/JS] [Create Tabpanel using Boostrap](https://dev.to/ifeanyichima/create-tabpanel-using-boostrap-25mn)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
-- [Dev.to/JS] [Top 10+ most dead-easy ways to make a web app](https://dev.to/flatlogic_manager/top-10-most-dead-easy-ways-to-make-a-web-app-4h60)
 - [Lifehacker] [12 Pop Music Podcasts That Slap](https://lifehacker.com/12-pop-music-podcasts-that-slap-1849781966)
-- [Dev.to/JS] [Como agregar y usar alias en typescript sin morir en el intento](https://dev.to/davejs136/como-agregar-y-usar-alias-en-typescript-sin-morir-en-el-intento-a47)
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297)
 - [Lifehacker] [How to Accept Help &lpar;Even When It Feels Awkward&rpar;](https://lifehacker.com/how-to-accept-help-even-when-it-feels-awkward-1849799612)
-- [Dev.to/JS] [5 ways to improve the performance of Node.js API](https://dev.to/qbentil/5-ways-to-improve-the-performance-of-nodejs-api-230d)
 - [Lifehacker] [The Best and Worst Times to Hit the Road for Thanksgiving, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-hit-the-road-for-thanksgivi-1849798694)
-- [Dev.to/JS] [Angular: Creating Angular Client Library](https://dev.to/urstrulyvishwak/angular-creating-angular-client-library-4a84)
 - [Lifehacker] [Buy This T-Shirt to Get Free Denny’s for a Year](https://lifehacker.com/buy-this-t-shirt-to-get-free-denny-s-for-a-year-1849798485)
 - [Lifehacker] [Make This No-Bake Fall Dessert If You Suck at Decorating](https://lifehacker.com/make-this-no-bake-fall-dessert-if-you-suck-at-decoratin-1849800752)
 - [Lifehacker] [The 12 Most Egregious Snubs in Grammy History](https://lifehacker.com/the-12-most-egregious-snubs-in-grammy-history-1849798849)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tyson Is Recalling Nearly 100,000 Pounds of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)
 - [Lifehacker] [Why Being Cold Makes You Pee](https://lifehacker.com/why-you-feel-like-you-need-to-pee-more-in-cold-weather-1849796756)
 - [Lifehacker] [How to Spy on Your Own Phone &lpar;and Why You Might Want to&rpar;](https://lifehacker.com/how-to-spy-on-your-own-phone-and-why-you-might-want-to-1849795721)
-- [Lifehacker] [You Can Finally Improve Your iPhone&#39;s Always-On Display](https://lifehacker.com/you-can-finally-improve-your-iphones-always-on-display-1849795346)
-- [Lifehacker] [Where Student Loan Forgiveness Stands Right Now](https://lifehacker.com/where-student-loan-forgiveness-stands-right-now-1849795888)
-- [Lifehacker] [The Most Common Toilet Repairs &lpar;and How to Do Them Yourself&rpar;](https://lifehacker.com/the-most-common-toilet-repairs-and-how-to-do-them-your-1849794329)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Improve Your iPhone&#39;s Always-On Display](https://lifehacker.com/you-can-finally-improve-your-iphones-always-on-display-1849795346)<!-- TECH-POSTS:END -->
 
 ---
 
