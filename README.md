@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)
+- [Dev.to/JS] [Possible ways to send data through Routing in angular](https://dev.to/deepachaurasia1/possible-ways-to-send-data-through-routing-in-angular-5g3n)
+- [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
+- [Dev.to/JS] [InnerText vs. InnerHTML vs. TextContent](https://dev.to/keffdu/innertext-vs-innerhtml-vs-textcontent-1d5c)
 - [Dev.to/JS] [Create Tabpanel using Boostrap](https://dev.to/ifeanyichima/create-tabpanel-using-boostrap-25mn)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
 - [Dev.to/JS] [Top 10+ most dead-easy ways to make a web app](https://dev.to/flatlogic_manager/top-10-most-dead-easy-ways-to-make-a-web-app-4h60)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need More &#39;Tiny Relationships&#39; &lpar;and How to Get Them&rpar;](https://lifehacker.com/why-you-need-more-tiny-relationships-and-how-to-get-th-1849792425)
 - [Dev.to/JS] [BoxCoding by Avabucks](https://dev.to/aa82851391/boxcoding-by-avabucks-3fpf)
 - [Dev.to/JS] [⭐Angular 15 Features ⭐](https://dev.to/sandeepbalachandran/angular-15-features-22dc)
-- [Dev.to/JS] [OneBB Devlog](https://dev.to/pankrok/onebb-devlog-4nhi)
-- [Dev.to/JS] [Creating a Private Channel for Authorized Live Stream Playback with Amazon IVS](https://dev.to/aws/creating-a-private-channel-for-authorized-live-stream-playback-with-amazon-ivs-2mdl)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Distract Your Cat With These Video Game Apps](https://lifehacker.com/distract-your-cat-with-these-video-game-apps-1849794032)
 - [Lifehacker] [Garam Masala Is the ‘New’ Pumpkin Spice](https://lifehacker.com/garam-masala-is-the-new-pumpkin-spice-1849795344)
 - [Lifehacker] [When to See December&#39;s Full Moon at Peak Brilliance](https://lifehacker.com/when-to-see-decembers-full-moon-at-peak-brilliance-1849793352)
-- [Lifehacker] [Don’t Put This Thanksgiving Cookware and Serveware in the Dishwasher](https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978)
-- [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
-- [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Put This Thanksgiving Cookware and Serveware in the Dishwasher](https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978)<!-- TECH-POSTS:END -->
 
 ---
 
