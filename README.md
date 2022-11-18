@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Follow Friday: NodeJS Edition &lpar;18 November 2022&rpar;](https://dev.to/devteam/follow-friday-nodejs-edition-18-november-2022-4e3p)
+- [Dev.to/JS] [Scrape Google Jobs Results](https://dev.to/darshan0_1/scrape-google-jobs-results-igj)
+- [Dev.to/JS] [Data Structures In Frontend JavaScript In The Real World &lpar;With React Code Examples&rpar;](https://dev.to/jkettmann/data-structures-in-frontend-javascript-in-the-real-world-with-react-code-examples-3506)
+- [Dev.to/JS] [4-JS OOP: Class Inheritance](https://dev.to/hassanzohdy/4-js-oop-class-inheritance-448l)
+- [Dev.to/JS] [How to Plan for Software Scalability and Building for Growth](https://dev.to/hackmamba/how-to-plan-for-software-scalability-and-building-for-growth-2kle)
 - [Dev.to/JS] [Breaking changes of open source dependencies](https://dev.to/david1542/breaking-changes-of-open-source-dependencies-59ie)
 - [Dev.to/JS] [Let your imagination go wild](https://dev.to/isolderea/let-your-imagination-go-wild-ob8)
 - [Dev.to/JS] [Beginner to Master JS.](https://dev.to/tilakkhatri/beginner-to-master-js-1i81)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Step By Step Guide To Dockerize React App Created Using Vite](https://dev.to/nandhakumar/step-by-step-guide-to-dockerize-react-app-created-using-vite-2jg3)
 - [Dev.to/JS] [How to Create an Annotated Input?](https://dev.to/nowely/how-to-create-an-annotated-input-5gp4)
 - [Dev.to/JS] [Reason of using Automation Testing?](https://dev.to/postwell45/reason-of-using-automation-testing-pd5)
-- [Dev.to/JS] [Prestige Serenity Shores](https://dev.to/prestigesereni7/prestige-serenity-shores-3cjj)
-- [Dev.to/JS] [javascript date function](https://dev.to/itsvinayak/javascript-date-function-213d)
-- [Dev.to/JS] [How to use node.js for Server-Sent Events &lpar;SSE&rpar;](https://dev.to/tqbit/how-to-use-nodejs-for-server-sent-events-sse-5ggj)
-- [Dev.to/JS] [Building a website directory with Next.js, Tailwind CSS, and Prisma](https://dev.to/krasun/building-a-website-directory-with-nextjs-tailwind-css-and-prisma-bj6)
-- [Dev.to/JS] [Creating Custom Cookies](https://dev.to/parvd/creating-custom-cookies-3eo2)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
