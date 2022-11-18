@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [【jQuery】How to code drop-down&lpar;pop-down&rpar; menu](https://dev.to/aquacat/jquery-how-to-code-drop-downpop-down-menu-2bml)
+- [Dev.to/JS] [The Importance Of Collaborating](https://dev.to/sonteevans/the-importance-of-collaborating-4mbc)
+- [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
 - [Dev.to/JS] [Continuous Integration for Node.js project](https://dev.to/gulyapulya/continuous-integration-for-nodejs-project-269a)
 - [Lifehacker] [Here&#39;s How Many Streams It Takes to Equal an Album Sale](https://lifehacker.com/heres-how-many-streams-it-takes-to-equal-an-album-sale-1849801652)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Focus a Field Using JavaScript KeyboardEvents](https://dev.to/johnnyturco/focus-a-field-using-javascript-keyboardevents-4f16)
 - [Dev.to/JS] [Recursive rendering in React](https://dev.to/mohhossain/recursive-rendering-in-react-24b)
 - [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)
-- [Dev.to/JS] [Possible ways to send data through Routing in angular](https://dev.to/deepachaurasia1/possible-ways-to-send-data-through-routing-in-angular-5g3n)
 - [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
-- [Dev.to/JS] [InnerText vs. InnerHTML vs. TextContent](https://dev.to/keffdu/innertext-vs-innerhtml-vs-textcontent-1d5c)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
 - [Lifehacker] [12 Pop Music Podcasts That Slap](https://lifehacker.com/12-pop-music-podcasts-that-slap-1849781966)
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)
 - [Lifehacker] [Tyson Is Recalling Nearly 100,000 Pounds of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)
 - [Lifehacker] [Why Being Cold Makes You Pee](https://lifehacker.com/why-you-feel-like-you-need-to-pee-more-in-cold-weather-1849796756)
-- [Lifehacker] [How to Spy on Your Own Phone &lpar;and Why You Might Want to&rpar;](https://lifehacker.com/how-to-spy-on-your-own-phone-and-why-you-might-want-to-1849795721)
-- [Lifehacker] [You Can Finally Improve Your iPhone&#39;s Always-On Display](https://lifehacker.com/you-can-finally-improve-your-iphones-always-on-display-1849795346)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spy on Your Own Phone &lpar;and Why You Might Want to&rpar;](https://lifehacker.com/how-to-spy-on-your-own-phone-and-why-you-might-want-to-1849795721)<!-- TECH-POSTS:END -->
 
 ---
 
