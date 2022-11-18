@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Custom Cookies](https://dev.to/parvd/creating-custom-cookies-3eo2)
+- [Dev.to/JS] [263. Leetcode Solution in JavaScript](https://dev.to/chiki1601/263-leetcode-solution-in-javascript-3oll)
+- [Dev.to/JS] [3-JS OOP: Class Structure](https://dev.to/hassanzohdy/3-js-oop-class-structure-3jll)
 - [Dev.to/JS] [Why Compare Vue vs React 2022?](https://dev.to/jessica89079831/why-compare-vue-vs-react-2022-1h94)
 - [Dev.to/JS] [7-ES6++: Object Destruction](https://dev.to/hassanzohdy/7-es6-object-destruction-27eh)
 - [Dev.to/JS] [Receiving Real-Time Data In An ASP.NET Core Client Application Using SignalR JavaScript Client](https://dev.to/satyakarki/receiving-real-time-data-in-an-aspnet-core-client-application-using-signalr-javascript-client-54eb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [代码随想录day3 | 203.移除链表元素, 707.设计链表, 206.反转链表](https://dev.to/986913/dai-ma-sui-xiang-lu-day3-203yi-chu-lian-biao-yuan-su-707she-ji-lian-biao-206fan-zhuan-lian-biao-3ig9)
 - [Dev.to/JS] [is the frontend developer especially react developer needs to implement unit testing?](https://dev.to/tan_jung/is-the-frontend-developer-especially-react-developer-needs-to-implement-unit-testing-4036)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Aliasing](https://dev.to/rachelmullen/a-beginners-guide-to-aliasing-34hf)
-- [Dev.to/JS] [Auto-Run Tests: Test Via Continuous Integration](https://dev.to/cychu42/auto-run-tests-test-via-continuous-integration-ib6)
-- [Dev.to/JS] [How to Create Bubble Maps in JavaScript](https://dev.to/andreykh1985/how-to-create-bubble-maps-in-javascript-4lc5)
-- [Dev.to/JS] [Using Destructuring in JS to Write Cleaner Code](https://dev.to/racheljoyh/using-destructuring-in-js-to-write-cleaner-code-2601)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
