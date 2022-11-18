@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Email Phone Call Transcripts with Twilio Studio and Pipedream](https://dev.to/deepgram/email-phone-call-transcripts-with-twilio-studio-and-pipedream-3ffh)
 - [Dev.to/JS] [代码随想录day3 | 203.移除链表元素, 707.设计链表, 206.反转链表](https://dev.to/986913/dai-ma-sui-xiang-lu-day3-203yi-chu-lian-biao-yuan-su-707she-ji-lian-biao-206fan-zhuan-lian-biao-3ig9)
 - [Dev.to/JS] [is the frontend developer especially react developer needs to implement unit testing?](https://dev.to/tan_jung/is-the-frontend-developer-especially-react-developer-needs-to-implement-unit-testing-4036)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Aliasing](https://dev.to/rachelmullen/a-beginners-guide-to-aliasing-34hf)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive Navbar](https://dev.to/berecont/responsive-navbar-1001)
 - [Dev.to/JS] [React .diff algo!](https://dev.to/rounit08/react-diff-algo-1ena)
 - [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)
-- [Dev.to/JS] [Vue Js Chat Application tutorial](https://dev.to/alakkadshaw/vue-js-chat-application-tutorial-4ena)
 - [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)
 - [Lifehacker] [Tyson Is Recalling Nearly 100,000 Pounds of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)
 - [Lifehacker] [Why Being Cold Makes You Pee](https://lifehacker.com/why-you-feel-like-you-need-to-pee-more-in-cold-weather-1849796756)
