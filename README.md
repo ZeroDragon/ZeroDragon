@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Compare Vue vs React 2022?](https://dev.to/jessica89079831/why-compare-vue-vs-react-2022-1h94)
+- [Dev.to/JS] [7-ES6++: Object Destruction](https://dev.to/hassanzohdy/7-es6-object-destruction-27eh)
+- [Dev.to/JS] [Receiving Real-Time Data In An ASP.NET Core Client Application Using SignalR JavaScript Client](https://dev.to/satyakarki/receiving-real-time-data-in-an-aspnet-core-client-application-using-signalr-javascript-client-54eb)
 - [Dev.to/JS] [Naming Things &lt;for developer /&gt;](https://dev.to/phatsss/naming-things-3i96)
 - [Dev.to/JS] [6-ES6++: Function Parameters](https://dev.to/hassanzohdy/6-es6-function-parameters-4l2h)
 - [Dev.to/JS] [Email Phone Call Transcripts with Twilio Studio and Pipedream](https://dev.to/deepgram/email-phone-call-transcripts-with-twilio-studio-and-pipedream-3ffh)
@@ -33,12 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create Bubble Maps in JavaScript](https://dev.to/andreykh1985/how-to-create-bubble-maps-in-javascript-4lc5)
 - [Dev.to/JS] [Using Destructuring in JS to Write Cleaner Code](https://dev.to/racheljoyh/using-destructuring-in-js-to-write-cleaner-code-2601)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
-- [Dev.to/JS] [Demystifying .innerText vs. .textContent](https://dev.to/annaqharder/demystifying-innertext-vs-textcontent-35fl)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
-- [Dev.to/JS] [React Notes app with firebase authentication and storage](https://dev.to/davidblaqq/react-notes-app-with-firebase-authentication-and-storage-262e)
 - [Lifehacker] [Signs That It&#39;s Time to Replace Your Toilet](https://lifehacker.com/signs-that-its-time-to-replace-your-toilet-1849796702)
-- [Dev.to/JS] [Reactjs Protected Route](https://dev.to/collins87mbathi/reactjs-protected-route-m3j)
 - [Lifehacker] [Where to &lpar;and Where Not to&rpar; Install Home Security Cameras](https://lifehacker.com/where-to-and-where-not-to-install-home-security-camer-1849797448)
 - [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)
 - [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)
