@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Rising Coder - Week 12/13 &lpar;Project Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1213-project-week-23-1djh)
+- [Dev.to/JS] [My Perfect Boyfriend](https://dev.to/ximena_navarro/my-perfect-boyfriend-36lc)
+- [Lifehacker] [These Trucks Are Being Recalled Before They Catch Fire](https://lifehacker.com/these-trucks-are-being-recalled-before-they-catch-fire-1849796883)
+- [Dev.to/JS] [React&#39;s idea is to reduce coupling and increase cohesion &lt;?&gt;](https://dev.to/rounit08/reacts-idea-is-to-reduce-coupling-and-increase-cohesion-37g1)
+- [Dev.to/JS] [Focus a Field Using JavaScript KeyboardEvents](https://dev.to/johnnyturco/focus-a-field-using-javascript-keyboardevents-4f16)
+- [Dev.to/JS] [Recursive rendering in React](https://dev.to/mohhossain/recursive-rendering-in-react-24b)
 - [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)
 - [Dev.to/JS] [Possible ways to send data through Routing in angular](https://dev.to/deepachaurasia1/possible-ways-to-send-data-through-routing-in-angular-5g3n)
 - [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
@@ -37,15 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 ways to improve the performance of Node.js API](https://dev.to/qbentil/5-ways-to-improve-the-performance-of-nodejs-api-230d)
 - [Lifehacker] [The Best and Worst Times to Hit the Road for Thanksgiving, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-hit-the-road-for-thanksgivi-1849798694)
 - [Dev.to/JS] [Angular: Creating Angular Client Library](https://dev.to/urstrulyvishwak/angular-creating-angular-client-library-4a84)
-- [Dev.to/JS] [What is actually .well-known folder?](https://dev.to/ahmetonurslmz/what-is-actually-well-known-folder-216a)
-- [Dev.to/JS] [How to Solve the Combinations Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-solve-the-combinations-algorithm-in-javascript-and-python-4dm1)
 - [Lifehacker] [Buy This T-Shirt to Get Free Denny’s for a Year](https://lifehacker.com/buy-this-t-shirt-to-get-free-denny-s-for-a-year-1849798485)
 - [Lifehacker] [Make This No-Bake Fall Dessert If You Suck at Decorating](https://lifehacker.com/make-this-no-bake-fall-dessert-if-you-suck-at-decoratin-1849800752)
 - [Lifehacker] [The 12 Most Egregious Snubs in Grammy History](https://lifehacker.com/the-12-most-egregious-snubs-in-grammy-history-1849798849)
-- [Dev.to/JS] [Intro to Infrastructure as code &lpar;Serverless framework&rpar;](https://dev.to/ckmonish2000/intro-to-serverless-framework-iac-101-471i)
 - [Lifehacker] [Why You Need More &#39;Tiny Relationships&#39; &lpar;and How to Get Them&rpar;](https://lifehacker.com/why-you-need-more-tiny-relationships-and-how-to-get-th-1849792425)
-- [Dev.to/JS] [BoxCoding by Avabucks](https://dev.to/aa82851391/boxcoding-by-avabucks-3fpf)
-- [Dev.to/JS] [⭐Angular 15 Features ⭐](https://dev.to/sandeepbalachandran/angular-15-features-22dc)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common Toilet Repairs &lpar;and How to Do Them Yourself&rpar;](https://lifehacker.com/the-most-common-toilet-repairs-and-how-to-do-them-your-1849794329)
 - [Lifehacker] [Distract Your Cat With These Video Game Apps](https://lifehacker.com/distract-your-cat-with-these-video-game-apps-1849794032)
 - [Lifehacker] [Garam Masala Is the ‘New’ Pumpkin Spice](https://lifehacker.com/garam-masala-is-the-new-pumpkin-spice-1849795344)
-- [Lifehacker] [When to See December&#39;s Full Moon at Peak Brilliance](https://lifehacker.com/when-to-see-decembers-full-moon-at-peak-brilliance-1849793352)
-- [Lifehacker] [Don’t Put This Thanksgiving Cookware and Serveware in the Dishwasher](https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to See December&#39;s Full Moon at Peak Brilliance](https://lifehacker.com/when-to-see-decembers-full-moon-at-peak-brilliance-1849793352)<!-- TECH-POSTS:END -->
 
 ---
 
