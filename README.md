@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Tabpanel using Boostrap](https://dev.to/ifeanyichima/create-tabpanel-using-boostrap-25mn)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
+- [Dev.to/JS] [Top 10+ most dead-easy ways to make a web app](https://dev.to/flatlogic_manager/top-10-most-dead-easy-ways-to-make-a-web-app-4h60)
+- [Lifehacker] [12 Pop Music Podcasts That Slap](https://lifehacker.com/12-pop-music-podcasts-that-slap-1849781966)
+- [Dev.to/JS] [Como agregar y usar alias en typescript sin morir en el intento](https://dev.to/davejs136/como-agregar-y-usar-alias-en-typescript-sin-morir-en-el-intento-a47)
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297)
 - [Lifehacker] [How to Accept Help &lpar;Even When It Feels Awkward&rpar;](https://lifehacker.com/how-to-accept-help-even-when-it-feels-awkward-1849799612)
 - [Dev.to/JS] [5 ways to improve the performance of Node.js API](https://dev.to/qbentil/5-ways-to-improve-the-performance-of-nodejs-api-230d)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⭐Angular 15 Features ⭐](https://dev.to/sandeepbalachandran/angular-15-features-22dc)
 - [Dev.to/JS] [OneBB Devlog](https://dev.to/pankrok/onebb-devlog-4nhi)
 - [Dev.to/JS] [Creating a Private Channel for Authorized Live Stream Playback with Amazon IVS](https://dev.to/aws/creating-a-private-channel-for-authorized-live-stream-playback-with-amazon-ivs-2mdl)
-- [Dev.to/JS] [Follow Friday: NodeJS Edition &lpar;18 November 2022&rpar;](https://dev.to/devteam/follow-friday-nodejs-edition-18-november-2022-4e3p)
-- [Dev.to/JS] [Scrape Google Jobs Results](https://dev.to/darshan0_1/scrape-google-jobs-results-igj)
-- [Dev.to/JS] [Data Structures In Frontend JavaScript In The Real World &lpar;With React Code Examples&rpar;](https://dev.to/jkettmann/data-structures-in-frontend-javascript-in-the-real-world-with-react-code-examples-3506)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See December&#39;s Full Moon at Peak Brilliance](https://lifehacker.com/when-to-see-decembers-full-moon-at-peak-brilliance-1849793352)
 - [Lifehacker] [Don’t Put This Thanksgiving Cookware and Serveware in the Dishwasher](https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978)
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
-- [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
-- [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
-- [Lifehacker] [6 of the Best Videos to Help You Actually Understand Early Retirement](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-ea-1849785268)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)<!-- TECH-POSTS:END -->
 
 ---
 
