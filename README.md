@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A beginner&#39;s guide to aliasing](https://dev.to/rachelmullen/a-beginners-guide-to-aliasing-34hf)
 - [Dev.to/JS] [Auto-Run Tests: Test Via Continuous Integration](https://dev.to/cychu42/auto-run-tests-test-via-continuous-integration-ib6)
 - [Dev.to/JS] [How to Create Bubble Maps in JavaScript](https://dev.to/andreykh1985/how-to-create-bubble-maps-in-javascript-4lc5)
 - [Dev.to/JS] [Using Destructuring in JS to Write Cleaner Code](https://dev.to/racheljoyh/using-destructuring-in-js-to-write-cleaner-code-2601)
@@ -40,10 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue Js Chat Application tutorial](https://dev.to/alakkadshaw/vue-js-chat-application-tutorial-4ena)
 - [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)
 - [Dev.to/JS] [BOXCODING](https://dev.to/aa82851391/boxcoding-5g85)
-- [Lifehacker] [Tyson Is Recalling Nearly 100,000 of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)
+- [Lifehacker] [Tyson Is Recalling Nearly 100,000 Pounds of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)
 - [Dev.to/JS] [5 things you need to know about Stripe&#39;s Test Mode](https://dev.to/tier/5-things-you-need-to-know-about-stripes-test-mode-2gcb)
 - [Lifehacker] [Why Being Cold Makes You Pee](https://lifehacker.com/why-you-feel-like-you-need-to-pee-more-in-cold-weather-1849796756)
-- [Dev.to/JS] [An interpreted language you can try in my terminal website](https://dev.to/protium/an-interpreted-language-you-can-try-in-my-terminal-website-i1)
 - [Lifehacker] [How to Spy on Your Own Phone &lpar;and Why You Might Want to&rpar;](https://lifehacker.com/how-to-spy-on-your-own-phone-and-why-you-might-want-to-1849795721)
 - [Lifehacker] [You Can Finally Improve Your iPhone&#39;s Always-On Display](https://lifehacker.com/you-can-finally-improve-your-iphones-always-on-display-1849795346)
 - [Lifehacker] [Where Student Loan Forgiveness Stands Right Now](https://lifehacker.com/where-student-loan-forgiveness-stands-right-now-1849795888)
