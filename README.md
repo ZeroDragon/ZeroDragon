@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Breaking changes of open source dependencies](https://dev.to/david1542/breaking-changes-of-open-source-dependencies-59ie)
+- [Dev.to/JS] [Let your imagination go wild](https://dev.to/isolderea/let-your-imagination-go-wild-ob8)
+- [Dev.to/JS] [Beginner to Master JS.](https://dev.to/tilakkhatri/beginner-to-master-js-1i81)
+- [Dev.to/JS] [Introduction to Supabase — The Firebase alternative](https://dev.to/shreyvijayvargiya/introduction-to-supabase-the-firebase-alternative-46fg)
+- [Dev.to/JS] [Step By Step Guide To Dockerize React App Created Using Vite](https://dev.to/nandhakumar/step-by-step-guide-to-dockerize-react-app-created-using-vite-2jg3)
 - [Dev.to/JS] [How to Create an Annotated Input?](https://dev.to/nowely/how-to-create-an-annotated-input-5gp4)
 - [Dev.to/JS] [Reason of using Automation Testing?](https://dev.to/postwell45/reason-of-using-automation-testing-pd5)
 - [Dev.to/JS] [Prestige Serenity Shores](https://dev.to/prestigesereni7/prestige-serenity-shores-3cjj)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use node.js for Server-Sent Events &lpar;SSE&rpar;](https://dev.to/tqbit/how-to-use-nodejs-for-server-sent-events-sse-5ggj)
 - [Dev.to/JS] [Building a website directory with Next.js, Tailwind CSS, and Prisma](https://dev.to/krasun/building-a-website-directory-with-nextjs-tailwind-css-and-prisma-bj6)
 - [Dev.to/JS] [Creating Custom Cookies](https://dev.to/parvd/creating-custom-cookies-3eo2)
-- [Dev.to/JS] [263. Leetcode Solution in JavaScript](https://dev.to/chiki1601/263-leetcode-solution-in-javascript-3oll)
-- [Dev.to/JS] [3-JS OOP: Class Structure](https://dev.to/hassanzohdy/3-js-oop-class-structure-3jll)
-- [Dev.to/JS] [Why Compare Vue vs React 2022?](https://dev.to/jessica89079831/why-compare-vue-vs-react-2022-1h94)
-- [Dev.to/JS] [7-ES6++: Object Destruction](https://dev.to/hassanzohdy/7-es6-object-destruction-27eh)
-- [Dev.to/JS] [Receiving Real-Time Data In An ASP.NET Core Client Application Using SignalR JavaScript Client](https://dev.to/satyakarki/receiving-real-time-data-in-an-aspnet-core-client-application-using-signalr-javascript-client-54eb)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
