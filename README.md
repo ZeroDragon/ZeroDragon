@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297)
+- [Lifehacker] [How to Accept Help &lpar;Even When It Feels Awkward&rpar;](https://lifehacker.com/how-to-accept-help-even-when-it-feels-awkward-1849799612)
+- [Dev.to/JS] [5 ways to improve the performance of Node.js API](https://dev.to/qbentil/5-ways-to-improve-the-performance-of-nodejs-api-230d)
 - [Lifehacker] [The Best and Worst Times to Hit the Road for Thanksgiving, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-hit-the-road-for-thanksgivi-1849798694)
 - [Dev.to/JS] [Angular: Creating Angular Client Library](https://dev.to/urstrulyvishwak/angular-creating-angular-client-library-4a84)
 - [Dev.to/JS] [What is actually .well-known folder?](https://dev.to/ahmetonurslmz/what-is-actually-well-known-folder-216a)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Follow Friday: NodeJS Edition &lpar;18 November 2022&rpar;](https://dev.to/devteam/follow-friday-nodejs-edition-18-november-2022-4e3p)
 - [Dev.to/JS] [Scrape Google Jobs Results](https://dev.to/darshan0_1/scrape-google-jobs-results-igj)
 - [Dev.to/JS] [Data Structures In Frontend JavaScript In The Real World &lpar;With React Code Examples&rpar;](https://dev.to/jkettmann/data-structures-in-frontend-javascript-in-the-real-world-with-react-code-examples-3506)
-- [Dev.to/JS] [4-JS OOP: Class Inheritance](https://dev.to/hassanzohdy/4-js-oop-class-inheritance-448l)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Site Gives Away New PC Games Every Week](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
 - [Lifehacker] [All the Ways You Can Reuse Plastic Bags, But Aren&#39;t](https://lifehacker.com/all-the-ways-you-can-reuse-plastic-bags-but-arent-1849792428)
 - [Lifehacker] [Here&#39;s How Well the Most Common Forms of Birth Control Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332)
-- [Lifehacker] [6 of the Best Videos to Help You Actually Understand Early Retirement](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-ea-1849785268)
-- [Lifehacker] [Three Cheap, Simple Ways to Make a No-Sew Christmas Tree Skirt](https://lifehacker.com/three-cheap-simple-ways-to-make-a-no-sew-christmas-tre-1849790819)
-- [Lifehacker] [You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/you-should-start-texting-yourself-in-whatsapp-1849790925)<!-- TECH-POSTS:END -->
+- [Lifehacker] [6 of the Best Videos to Help You Actually Understand Early Retirement](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-ea-1849785268)<!-- TECH-POSTS:END -->
 
 ---
 
