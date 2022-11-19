@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8-ES6++: Promises](https://dev.to/hassanzohdy/8-es6-promises-2d1h)
+- [Dev.to/JS] [Synchronize data with local storage using RxJS and Angular](https://dev.to/railsstudent/synchronize-data-with-local-storage-using-rxjs-and-angular-21mf)
+- [Dev.to/JS] [Ideaas: A simple platform where lazy people can share their ideas with you and you can build them.](https://dev.to/namanvyas/ideaas-a-simple-platform-where-lazy-people-can-share-their-ideas-with-you-and-you-can-build-them-21lf)
 - [Dev.to/JS] [代码随想录day4 | 24.两两交换链表中的节点, 19.删除链表的倒数第N个节点, 面试题 02.07. 链表相交, 142.环形链表II](https://dev.to/986913/dai-ma-sui-xiang-lu-day4-24liang-liang-jiao-huan-lian-biao-zhong-de-jie-dian-19shan-chu-lian-biao-de-dao-shu-di-nge-jie-dian-mian-shi-ti-0207-lian-biao-xiang-jiao-142huan-xing-lian-biao-ii-loj)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Dev.to/JS] [【jQuery】How to code drop-down&lpar;pop-down&rpar; menu](https://dev.to/aquacat/jquery-how-to-code-drop-downpop-down-menu-2bml)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Know About the Deadly Mosquito-Borne Disease Showing Up in Arizona](https://lifehacker.com/what-to-know-about-the-deadly-mosquito-borne-disease-sh-1849801939)
 - [Lifehacker] [All the Stuff Homeowners Insurance Doesn’t Cover](https://lifehacker.com/all-the-stuff-homeowners-insurance-doesn-t-cover-1849801541)
 - [Dev.to/JS] [The Rising Coder - Week 12/13 &lpar;Project Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1213-project-week-23-1djh)
-- [Dev.to/JS] [My Perfect Boyfriend](https://dev.to/ximena_navarro/my-perfect-boyfriend-36lc)
 - [Lifehacker] [These Trucks Are Being Recalled Before They Catch Fire](https://lifehacker.com/these-trucks-are-being-recalled-before-they-catch-fire-1849796883)
-- [Dev.to/JS] [React&#39;s idea is to reduce coupling and increase cohesion &lt;?&gt;](https://dev.to/rounit08/reacts-idea-is-to-reduce-coupling-and-increase-cohesion-37g1)
-- [Dev.to/JS] [Focus a Field Using JavaScript KeyboardEvents](https://dev.to/johnnyturco/focus-a-field-using-javascript-keyboardevents-4f16)
 - [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)
 - [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
