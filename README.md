@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Test a WebSocket based Application Using the API Tester Mobile App](https://dev.to/myogeshchavan97/how-to-test-a-websocket-based-application-using-the-api-tester-mobile-app-ile)
+- [Dev.to/JS] [5 Best Error Tracker For Your NodeJs Applications](https://dev.to/errsole/5-best-error-tracker-for-your-nodejs-applications-28j8)
 - [Dev.to/JS] [8-ES6++: Promises](https://dev.to/hassanzohdy/8-es6-promises-2d1h)
 - [Dev.to/JS] [Synchronize data with local storage using RxJS and Angular](https://dev.to/railsstudent/synchronize-data-with-local-storage-using-rxjs-and-angular-21mf)
 - [Dev.to/JS] [Ideaas: A simple platform where lazy people can share their ideas with you and you can build them.](https://dev.to/namanvyas/ideaas-a-simple-platform-where-lazy-people-can-share-their-ideas-with-you-and-you-can-build-them-21lf)
@@ -37,11 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Case for Function Trees](https://dev.to/micdavis93/the-case-for-function-trees-2a87)
 - [Dev.to/JS] [Release 0.3 - Internal](https://dev.to/lostbutton/release-03-internal-22el)
 - [Dev.to/JS] [Internal Code Review -2 &amp; 3](https://dev.to/lostbutton/internal-code-review-2-3-igi)
-- [Dev.to/JS] [Internal Code Review - 1](https://dev.to/lostbutton/internal-code-review-1-14e6)
 - [Lifehacker] [Stop What You&#39;re Doing and Freeze Your Cranberries](https://lifehacker.com/stop-what-youre-doing-and-freeze-your-cranberries-1849801424)
 - [Lifehacker] [What to Know About the Deadly Mosquito-Borne Disease Showing Up in Arizona](https://lifehacker.com/what-to-know-about-the-deadly-mosquito-borne-disease-sh-1849801939)
 - [Lifehacker] [All the Stuff Homeowners Insurance Doesn’t Cover](https://lifehacker.com/all-the-stuff-homeowners-insurance-doesn-t-cover-1849801541)
-- [Dev.to/JS] [The Rising Coder - Week 12/13 &lpar;Project Week 2/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1213-project-week-23-1djh)
 - [Lifehacker] [These Trucks Are Being Recalled Before They Catch Fire](https://lifehacker.com/these-trucks-are-being-recalled-before-they-catch-fire-1849796883)
 - [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)
 - [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
