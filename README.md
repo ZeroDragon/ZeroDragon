@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
+- [Dev.to/JS] [HTML element to absolute XPath selector - JavaScript](https://dev.to/abkarim/html-element-to-absolute-xpath-selector-javascript-4g82)
 - [Dev.to/JS] [Caching the React Query Way!](https://dev.to/imayush15/caching-the-react-query-way-jkl)
 - [Dev.to/JS] [Code Smell 180 - BitWise Optimizations](https://dev.to/mcsee/code-smell-180-bitwise-optimizations-2072)
 - [Dev.to/JS] [Your files go to Cloud : Uploading Images with Express to Cloudinary](https://dev.to/suyious/your-files-go-to-cloud-uploading-images-with-express-to-cloudinary-3k2)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Factorialise a Number &lpar;and not end up in a spiralling void of zeros&rpar;](https://dev.to/realisedprophets/how-to-factorialise-a-number-and-not-end-up-in-spiralling-void-of-zeros-4cf7)
 - [Dev.to/JS] [10-ES6++: Symbols](https://dev.to/hassanzohdy/10-es6-symbols-4h01)
 - [Dev.to/JS] [Add Umami Analytics to a Web Application](https://dev.to/documatic/add-umami-analytics-to-a-web-application-4h36)
-- [Dev.to/JS] [Automate project tree with protree](https://dev.to/ahmedsudani/automate-project-tree-with-protree-53j7)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Signs That It&#39;s Time to Replace Your Toilet](https://lifehacker.com/signs-that-its-time-to-replace-your-toilet-1849796702)
 - [Lifehacker] [Where to &lpar;and Where Not to&rpar; Install Home Security Cameras](https://lifehacker.com/where-to-and-where-not-to-install-home-security-camer-1849797448)
 - [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)
-- [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)
-- [Lifehacker] [Tyson Is Recalling Nearly 100,000 Pounds of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)<!-- TECH-POSTS:END -->
 
 ---
 
