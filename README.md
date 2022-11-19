@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day4 | 24.两两交换链表中的节点, 19.删除链表的倒数第N个节点, 面试题 02.07. 链表相交, 142.环形链表II](https://dev.to/986913/dai-ma-sui-xiang-lu-day4-24liang-liang-jiao-huan-lian-biao-zhong-de-jie-dian-19shan-chu-lian-biao-de-dao-shu-di-nge-jie-dian-mian-shi-ti-0207-lian-biao-xiang-jiao-142huan-xing-lian-biao-ii-loj)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Dev.to/JS] [【jQuery】How to code drop-down&lpar;pop-down&rpar; menu](https://dev.to/aquacat/jquery-how-to-code-drop-downpop-down-menu-2bml)
 - [Dev.to/JS] [The Importance Of Collaborating](https://dev.to/sonteevans/the-importance-of-collaborating-4mbc)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Trucks Are Being Recalled Before They Catch Fire](https://lifehacker.com/these-trucks-are-being-recalled-before-they-catch-fire-1849796883)
 - [Dev.to/JS] [React&#39;s idea is to reduce coupling and increase cohesion &lt;?&gt;](https://dev.to/rounit08/reacts-idea-is-to-reduce-coupling-and-increase-cohesion-37g1)
 - [Dev.to/JS] [Focus a Field Using JavaScript KeyboardEvents](https://dev.to/johnnyturco/focus-a-field-using-javascript-keyboardevents-4f16)
-- [Dev.to/JS] [Recursive rendering in React](https://dev.to/mohhossain/recursive-rendering-in-react-24b)
 - [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)
 - [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
