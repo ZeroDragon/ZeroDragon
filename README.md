@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Factorialise a Number &lpar;and not end up in a spiralling void of zeros&rpar;](https://dev.to/realisedprophets/how-to-factorialise-a-number-and-not-end-up-in-spiralling-void-of-zeros-4cf7)
 - [Dev.to/JS] [10-ES6++: Symbols](https://dev.to/hassanzohdy/10-es6-symbols-4h01)
 - [Dev.to/JS] [Add Umami Analytics to a Web Application](https://dev.to/documatic/add-umami-analytics-to-a-web-application-4h36)
+- [Dev.to/JS] [Automate project tree with protree](https://dev.to/ahmedsudani/automate-project-tree-with-protree-53j7)
 - [Dev.to/JS] [How to Make Login Page in bootstrap 5 | Modal Login Form bootstrap 5](https://dev.to/onlineittutstutorials/how-to-make-login-page-in-bootstrap-5-modal-login-form-bootstrap-5-866)
 - [Dev.to/JS] [Unit testing CloudFlare&#39;s wrangler worker](https://dev.to/devils2ndself/unit-testing-cloudflares-wrangler-worker-594)
 - [Dev.to/JS] [How to Make a QR Code Reader in HTML, CSS &amp; JavaScript](https://dev.to/patelrohan750/how-to-make-a-qr-code-reader-in-html-css-javascript-5897)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made a flipcard which has drawboard + todolist in it!?](https://dev.to/vinyashegde/i-made-a-flipcard-which-has-drawboard-todolist-in-it-51ea)
 - [Dev.to/JS] [A New Vue: A PR With Vue.js](https://dev.to/cychu42/a-new-vue-a-pr-with-vuejs-22ln)
 - [Dev.to/JS] [React toolchain | Creating a new react app.](https://dev.to/fshinfotech/react-toolchain-and-creating-a-new-react-app-2d1k)
-- [Dev.to/JS] [Promises in JavaScript](https://dev.to/mrityunjaypalled/promises-in-javascript-4g2d)
-- [Dev.to/JS] [A Thorough View on Strings in JavaScript](https://dev.to/indirakumar/a-thorough-view-on-strings-in-javascript-1c)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
