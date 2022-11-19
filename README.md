@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Login Page in bootstrap 5 | Modal Login Form bootstrap 5](https://dev.to/onlineittutstutorials/how-to-make-login-page-in-bootstrap-5-modal-login-form-bootstrap-5-866)
+- [Dev.to/JS] [Unit testing CloudFlare&#39;s wrangler worker](https://dev.to/devils2ndself/unit-testing-cloudflares-wrangler-worker-594)
+- [Dev.to/JS] [How to Make a QR Code Reader in HTML, CSS &amp; JavaScript](https://dev.to/patelrohan750/how-to-make-a-qr-code-reader-in-html-css-javascript-5897)
 - [Dev.to/JS] [Let&#39;s make a table component with JavaScript](https://dev.to/gohomewho/lets-make-a-table-component-with-javascript-2i66)
 - [Dev.to/JS] [Getting Started with Storybook](https://dev.to/shreyvijayvargiya/getting-started-with-storybook-4d70)
 - [Dev.to/JS] [Aviator games](https://dev.to/harrymaguaer/aviator-games-5cah)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promises in JavaScript](https://dev.to/mrityunjaypalled/promises-in-javascript-4g2d)
 - [Dev.to/JS] [A Thorough View on Strings in JavaScript](https://dev.to/indirakumar/a-thorough-view-on-strings-in-javascript-1c)
 - [Dev.to/JS] [Inspection: Enabling Debugging By Default](https://dev.to/cychu42/inspection-enabling-debugging-by-default-478i)
-- [Dev.to/JS] [How To Make Responsive Image Gallery With HTML CSS JS | Lightbox Image Gallery Design](https://dev.to/onlineittutstutorials/how-to-make-responsive-image-gallery-with-html-css-js-lightbox-image-gallery-design-2k58)
-- [Dev.to/JS] [How to Make a Coming Soon Website Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-make-a-coming-soon-website-using-html-css-and-javascript-4e32)
-- [Dev.to/JS] [Spot The Difference: A PR to Differentiate between the blog URL and the RSS](https://dev.to/cychu42/spot-the-difference-a-pr-to-differentiate-between-the-blog-url-and-the-rss-1ajf)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
