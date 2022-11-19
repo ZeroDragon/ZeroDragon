@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dealign With A Magical Number: A Follow-Up PR](https://dev.to/cychu42/dealign-with-a-magical-number-a-follow-up-pr-52i7)
+- [Dev.to/JS] [Another Set Of Eyes: PR Review](https://dev.to/cychu42/another-set-of-eyes-pr-review-32m2)
+- [Dev.to/JS] [9-ES6++: Generators](https://dev.to/hassanzohdy/9-es6-generators-3c0a)
+- [Dev.to/JS] [How to Import Custom Module in Node JS](https://dev.to/biplab3/how-to-import-custom-module-in-node-js-434d)
 - [Dev.to/JS] [How to convert HTML To React Component](https://dev.to/farhadi/how-to-convert-html-to-react-component-1dpn)
 - [Dev.to/JS] [Doing code reviews is a skill](https://dev.to/tdaw/doing-code-reviews-is-a-skill-3h88)
 - [Dev.to/JS] [What is the internet?](https://dev.to/sumitsaurabh927/what-is-the-internet-ci0)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Test a WebSocket based Application Using the API Tester Mobile App](https://dev.to/myogeshchavan97/how-to-test-a-websocket-based-application-using-the-api-tester-mobile-app-ile)
 - [Dev.to/JS] [5 Best Error Tracker For Your NodeJs Applications](https://dev.to/errsole/5-best-error-tracker-for-your-nodejs-applications-28j8)
 - [Dev.to/JS] [8-ES6++: Promises](https://dev.to/hassanzohdy/8-es6-promises-2d1h)
-- [Dev.to/JS] [Synchronize data with local storage using RxJS and Angular](https://dev.to/railsstudent/synchronize-data-with-local-storage-using-rxjs-and-angular-21mf)
-- [Dev.to/JS] [Ideaas: A simple platform where lazy people can share their ideas with you and you can build them.](https://dev.to/namanvyas/ideaas-a-simple-platform-where-lazy-people-can-share-their-ideas-with-you-and-you-can-build-them-21lf)
-- [Dev.to/JS] [代码随想录day4 | 24.两两交换链表中的节点, 19.删除链表的倒数第N个节点, 面试题 02.07. 链表相交, 142.环形链表II](https://dev.to/986913/dai-ma-sui-xiang-lu-day4-24liang-liang-jiao-huan-lian-biao-zhong-de-jie-dian-19shan-chu-lian-biao-de-dao-shu-di-nge-jie-dian-mian-shi-ti-0207-lian-biao-xiang-jiao-142huan-xing-lian-biao-ii-loj)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
-- [Dev.to/JS] [【jQuery】How to code drop-down&lpar;pop-down&rpar; menu](https://dev.to/aquacat/jquery-how-to-code-drop-downpop-down-menu-2bml)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
 - [Lifehacker] [Here&#39;s How Many Streams It Takes to Equal an Album Sale](https://lifehacker.com/heres-how-many-streams-it-takes-to-equal-an-album-sale-1849801652)
