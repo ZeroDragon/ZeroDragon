@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
+- [Dev.to/JS] [How to become a developer in 2023?](https://dev.to/blackevilgoblin/how-to-become-a-developer-in-2023-4jlj)
 - [Dev.to/JS] [How to Factorialise a Number &lpar;and not end up in a spiralling void of zeros&rpar;](https://dev.to/realisedprophets/how-to-factorialise-a-number-and-not-end-up-in-spiralling-void-of-zeros-4cf7)
 - [Dev.to/JS] [10-ES6++: Symbols](https://dev.to/hassanzohdy/10-es6-symbols-4h01)
 - [Dev.to/JS] [Add Umami Analytics to a Web Application](https://dev.to/documatic/add-umami-analytics-to-a-web-application-4h36)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with Storybook](https://dev.to/shreyvijayvargiya/getting-started-with-storybook-4d70)
 - [Dev.to/JS] [I made a flipcard which has drawboard + todolist in it!?](https://dev.to/vinyashegde/i-made-a-flipcard-which-has-drawboard-todolist-in-it-51ea)
 - [Dev.to/JS] [A New Vue: A PR With Vue.js](https://dev.to/cychu42/a-new-vue-a-pr-with-vuejs-22ln)
-- [Dev.to/JS] [React toolchain | Creating a new react app.](https://dev.to/fshinfotech/react-toolchain-and-creating-a-new-react-app-2d1k)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to &lpar;and Where Not to&rpar; Install Home Security Cameras](https://lifehacker.com/where-to-and-where-not-to-install-home-security-camer-1849797448)
 - [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)
 - [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)
-- [Lifehacker] [Tyson Is Recalling Nearly 100,000 Pounds of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)
-- [Lifehacker] [Why Being Cold Makes You Pee](https://lifehacker.com/why-you-feel-like-you-need-to-pee-more-in-cold-weather-1849796756)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Tyson Is Recalling Nearly 100,000 Pounds of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)<!-- TECH-POSTS:END -->
 
 ---
 
