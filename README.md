@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Dev.to/JS] [【jQuery】How to code drop-down&lpar;pop-down&rpar; menu](https://dev.to/aquacat/jquery-how-to-code-drop-downpop-down-menu-2bml)
 - [Dev.to/JS] [The Importance Of Collaborating](https://dev.to/sonteevans/the-importance-of-collaborating-4mbc)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)
 - [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)
 - [Lifehacker] [Tyson Is Recalling Nearly 100,000 Pounds of This Ground Beef](https://lifehacker.com/tyson-is-recalling-nearly-100-000-of-this-ground-beef-1849796665)
-- [Lifehacker] [Why Being Cold Makes You Pee](https://lifehacker.com/why-you-feel-like-you-need-to-pee-more-in-cold-weather-1849796756)
-- [Lifehacker] [How to Spy on Your Own Phone &lpar;and Why You Might Want to&rpar;](https://lifehacker.com/how-to-spy-on-your-own-phone-and-why-you-might-want-to-1849795721)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Being Cold Makes You Pee](https://lifehacker.com/why-you-feel-like-you-need-to-pee-more-in-cold-weather-1849796756)<!-- TECH-POSTS:END -->
 
 ---
 
