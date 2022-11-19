@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to convert HTML To React Component](https://dev.to/farhadi/how-to-convert-html-to-react-component-1dpn)
+- [Dev.to/JS] [Doing code reviews is a skill](https://dev.to/tdaw/doing-code-reviews-is-a-skill-3h88)
+- [Dev.to/JS] [What is the internet?](https://dev.to/sumitsaurabh927/what-is-the-internet-ci0)
+- [Dev.to/JS] [Help me with my code I&#39;m trying to delete data from firebase but I&#39;m getting reference error](https://dev.to/officialanshumantiwari/help-me-with-my-code-im-trying-to-delete-data-from-firebase-but-im-getting-reference-error-575o)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;19-11-2022&rpar; - World is Gonna World](https://dev.to/mjgs/this-weeks-newsletter-is-out-19-11-2022-world-is-gonna-world-1gi8)
 - [Dev.to/JS] [How to Test a WebSocket based Application Using the API Tester Mobile App](https://dev.to/myogeshchavan97/how-to-test-a-websocket-based-application-using-the-api-tester-mobile-app-ile)
 - [Dev.to/JS] [5 Best Error Tracker For Your NodeJs Applications](https://dev.to/errsole/5-best-error-tracker-for-your-nodejs-applications-28j8)
 - [Dev.to/JS] [8-ES6++: Promises](https://dev.to/hassanzohdy/8-es6-promises-2d1h)
@@ -31,14 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [代码随想录day4 | 24.两两交换链表中的节点, 19.删除链表的倒数第N个节点, 面试题 02.07. 链表相交, 142.环形链表II](https://dev.to/986913/dai-ma-sui-xiang-lu-day4-24liang-liang-jiao-huan-lian-biao-zhong-de-jie-dian-19shan-chu-lian-biao-de-dao-shu-di-nge-jie-dian-mian-shi-ti-0207-lian-biao-xiang-jiao-142huan-xing-lian-biao-ii-loj)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Dev.to/JS] [【jQuery】How to code drop-down&lpar;pop-down&rpar; menu](https://dev.to/aquacat/jquery-how-to-code-drop-downpop-down-menu-2bml)
-- [Dev.to/JS] [The Importance Of Collaborating](https://dev.to/sonteevans/the-importance-of-collaborating-4mbc)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
-- [Dev.to/JS] [Continuous Integration for Node.js project](https://dev.to/gulyapulya/continuous-integration-for-nodejs-project-269a)
 - [Lifehacker] [Here&#39;s How Many Streams It Takes to Equal an Album Sale](https://lifehacker.com/heres-how-many-streams-it-takes-to-equal-an-album-sale-1849801652)
-- [Dev.to/JS] [The Case for Function Trees](https://dev.to/micdavis93/the-case-for-function-trees-2a87)
-- [Dev.to/JS] [Release 0.3 - Internal](https://dev.to/lostbutton/release-03-internal-22el)
-- [Dev.to/JS] [Internal Code Review -2 &amp; 3](https://dev.to/lostbutton/internal-code-review-2-3-igi)
 - [Lifehacker] [Stop What You&#39;re Doing and Freeze Your Cranberries](https://lifehacker.com/stop-what-youre-doing-and-freeze-your-cranberries-1849801424)
 - [Lifehacker] [What to Know About the Deadly Mosquito-Borne Disease Showing Up in Arizona](https://lifehacker.com/what-to-know-about-the-deadly-mosquito-borne-disease-sh-1849801939)
 - [Lifehacker] [All the Stuff Homeowners Insurance Doesn’t Cover](https://lifehacker.com/all-the-stuff-homeowners-insurance-doesn-t-cover-1849801541)
