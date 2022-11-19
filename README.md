@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animated Node.js: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
+- [Dev.to/JS] [Use your decision tree model in your Javascript project today](https://dev.to/patrikkaura/use-your-decision-tree-model-in-your-javascript-project-today-with-m2cgen-4mog)
+- [Dev.to/JS] [6-JS OOP: Class Members](https://dev.to/hassanzohdy/6-js-oop-class-members-1h3g)
+- [Dev.to/JS] [Do you know what &quot;use strict&quot; does in JavaScript ?](https://dev.to/kritikapattalam/do-you-know-what-use-strict-does-in-javascript--1b35)
+- [Dev.to/JS] [How did I build my first browser extension ?](https://dev.to/lotfijb/how-did-i-build-my-first-browser-extension--4jk8)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Dev.to/JS] [HTML element to absolute XPath selector - JavaScript](https://dev.to/abkarim/html-element-to-absolute-xpath-selector-javascript-4g82)
 - [Dev.to/JS] [Caching the React Query Way!](https://dev.to/imayush15/caching-the-react-query-way-jkl)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are &quot;transpilers&quot;?](https://dev.to/rounit08/what-are-transpilers-3o6d)
 - [Dev.to/JS] [5-TS OOP: Abstract Classes](https://dev.to/hassanzohdy/5-ts-oop-abstract-classes-3kgg)
 - [Dev.to/JS] [Good project ideas in web development for beginners](https://dev.to/ridhisingla001/good-project-ideas-in-web-development-for-beginners-1h79)
-- [Dev.to/JS] [Difference Between Markup Language and Programming language](https://dev.to/muhammadgmalezzat/difference-between-markup-language-and-programming-4e3f)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
-- [Dev.to/JS] [How to become a developer in 2023?](https://dev.to/blackevilgoblin/how-to-become-a-developer-in-2023-4jlj)
-- [Dev.to/JS] [How to Factorialise a Number &lpar;and not end up in a spiralling void of zeros&rpar;](https://dev.to/realisedprophets/how-to-factorialise-a-number-and-not-end-up-in-spiralling-void-of-zeros-4cf7)
-- [Dev.to/JS] [10-ES6++: Symbols](https://dev.to/hassanzohdy/10-es6-symbols-4h01)
-- [Dev.to/JS] [Add Umami Analytics to a Web Application](https://dev.to/documatic/add-umami-analytics-to-a-web-application-4h36)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
