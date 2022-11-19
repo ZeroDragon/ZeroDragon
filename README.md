@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Difference Between Markup Language and Programming](https://dev.to/muhammadgmalezzat/difference-between-markup-language-and-programming-4e3f)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
 - [Dev.to/JS] [How to become a developer in 2023?](https://dev.to/blackevilgoblin/how-to-become-a-developer-in-2023-4jlj)
 - [Dev.to/JS] [How to Factorialise a Number &lpar;and not end up in a spiralling void of zeros&rpar;](https://dev.to/realisedprophets/how-to-factorialise-a-number-and-not-end-up-in-spiralling-void-of-zeros-4cf7)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s make a table component with JavaScript](https://dev.to/gohomewho/lets-make-a-table-component-with-javascript-2i66)
 - [Dev.to/JS] [Getting Started with Storybook](https://dev.to/shreyvijayvargiya/getting-started-with-storybook-4d70)
 - [Dev.to/JS] [I made a flipcard which has drawboard + todolist in it!?](https://dev.to/vinyashegde/i-made-a-flipcard-which-has-drawboard-todolist-in-it-51ea)
-- [Dev.to/JS] [A New Vue: A PR With Vue.js](https://dev.to/cychu42/a-new-vue-a-pr-with-vuejs-22ln)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
