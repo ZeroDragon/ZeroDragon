@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Dev.to/JS] [Animated Node.js: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
 - [Dev.to/JS] [Use your decision tree model in your Javascript project today](https://dev.to/patrikkaura/use-your-decision-tree-model-in-your-javascript-project-today-with-m2cgen-4mog)
 - [Dev.to/JS] [6-JS OOP: Class Members](https://dev.to/hassanzohdy/6-js-oop-class-members-1h3g)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
 - [Lifehacker] [Signs That It&#39;s Time to Replace Your Toilet](https://lifehacker.com/signs-that-its-time-to-replace-your-toilet-1849796702)
 - [Lifehacker] [Where to &lpar;and Where Not to&rpar; Install Home Security Cameras](https://lifehacker.com/where-to-and-where-not-to-install-home-security-camer-1849797448)
-- [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)
-- [Lifehacker] [Drape Your Holiday Bird in This Two-Ingredient Sauce](https://lifehacker.com/drape-your-holiday-bird-in-this-two-ingredient-sauce-1849796793)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)<!-- TECH-POSTS:END -->
 
 ---
 
