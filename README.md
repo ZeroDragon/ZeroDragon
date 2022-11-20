@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fun with console.log&lpar;&rpar; 💿](https://dev.to/lissy93/fun-with-consolelog-3i59)
+- [Dev.to/JS] [Cloning a simple NFT shop with scroll animations!](https://dev.to/lensco825/cloning-a-simple-nft-shop-with-scroll-animations-k0k)
 - [Dev.to/JS] [Responsive SVG animation w. vanilla Javascript](https://dev.to/steinarvdesign/responsive-svg-animation-w-vanilla-javascript-49hj)
 - [Dev.to/JS] [Learning the elements of the Modern Periodic Table through a web application using SashiDo and Teachable Machine](https://dev.to/haripriya2002145/learning-the-elements-of-the-modern-periodic-table-through-a-web-application-using-sashido-and-teachable-machine-a8b)
 - [Dev.to/JS] [Beginner JavaScript Tutorial: How to build your own Mad Libs game](https://dev.to/codergirl1991/beginner-javascript-tutorial-how-to-build-your-own-mad-libs-game-4hf8)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Website Snowfall Effect](https://dev.to/ahmetilhan24/website-snowfall-effect-5hh5)
 - [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
 - [Dev.to/JS] [Print Particular part of the screen easily when using CMD/CTRL + P in HTML/CSS](https://dev.to/shrihari/print-particular-part-of-the-screen-easily-when-using-cmdctrl-p-5c5)
-- [Dev.to/JS] [Best Design Trends for 2023](https://dev.to/atharvashankar/best-design-trends-for-2023-3bd1)
-- [Dev.to/JS] [Crack Apps](https://dev.to/prosverisons/crack-apps-123f)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
