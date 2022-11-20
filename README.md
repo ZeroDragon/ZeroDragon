@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Structures Exercices Sets of Data](https://dev.to/thiagocolen/data-structures-exercices-sets-of-data-1n07)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
-- [Dev.to/JS] [Animated Node.js: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
+- [Dev.to/JS] [Node.js visualized: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
 - [Dev.to/JS] [Use your decision tree model in your Javascript project today](https://dev.to/patrikkaura/use-your-decision-tree-model-in-your-javascript-project-today-with-m2cgen-4mog)
 - [Dev.to/JS] [6-JS OOP: Class Members](https://dev.to/hassanzohdy/6-js-oop-class-members-1h3g)
 - [Dev.to/JS] [Do you know what &quot;use strict&quot; does in JavaScript ?](https://dev.to/kritikapattalam/do-you-know-what-use-strict-does-in-javascript--1b35)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your files go to Cloud : Uploading Images with Express to Cloudinary](https://dev.to/suyious/your-files-go-to-cloud-uploading-images-with-express-to-cloudinary-3k2)
 - [Dev.to/JS] [What are &quot;transpilers&quot;?](https://dev.to/rounit08/what-are-transpilers-3o6d)
 - [Dev.to/JS] [5-TS OOP: Abstract Classes](https://dev.to/hassanzohdy/5-ts-oop-abstract-classes-3kgg)
-- [Dev.to/JS] [Good project ideas in web development for beginners](https://dev.to/ridhisingla001/good-project-ideas-in-web-development-for-beginners-1h79)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
