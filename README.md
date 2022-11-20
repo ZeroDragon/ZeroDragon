@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
+- [Dev.to/JS] [Print Particular part of the screen easily when using CMD/CTRL + P in HTML/CSS](https://dev.to/shrihari/print-particular-part-of-the-screen-easily-when-using-cmdctrl-p-5c5)
+- [Dev.to/JS] [Best Design Trends for 2023](https://dev.to/atharvashankar/best-design-trends-for-2023-3bd1)
+- [Dev.to/JS] [Crack Apps](https://dev.to/prosverisons/crack-apps-123f)
+- [Dev.to/JS] [IPVanish VPN 4.1.1.124 Crack + Serial Key 2022 New Download](https://dev.to/prosverisons/ipvanish-vpn-411124-crack-serial-key-2022-new-download-22c3)
 - [Dev.to/JS] [Navbar CSS Tutorial: Create a Navigation Bar with Flexbox.](https://dev.to/ziontutorial/navbar-css-tutorial-create-a-navigation-bar-with-flexbox-4h71)
 - [Dev.to/JS] [How to add ESLint, Prettier, and Husky to your Web / NodeJS project](https://dev.to/seanyasno/how-to-add-eslint-prettier-and-husky-to-your-web-nodejs-project-4h5j)
 - [Dev.to/JS] [JSON and PHP Array Converter](https://dev.to/joelwmulongo/json-and-php-array-converter-2c06)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adapter pattern in TypeScript](https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl)
 - [Dev.to/JS] [Deals for devs for Black Friday &lpar;up to 100%&rpar;](https://dev.to/mdbootstrap/deals-for-devs-for-black-friday-up-to-100-495k)
 - [Dev.to/JS] [Go Series: Defer, Finally...](https://dev.to/achristoph/go-series-defer-finally-51le)
-- [Dev.to/JS] [How to use echart chart more gracefully in Vue3](https://dev.to/_island/ru-he-zai-vue3zhong-geng-you-ya-de-shi-yong-echarttu-biao-1lhf)
-- [Dev.to/JS] [Best fuzzy search module](https://dev.to/shreyvijayvargiya/best-fuzzy-search-module-4ce2)
-- [Dev.to/JS] [Creating a Medium-like text highlighter to report typo](https://dev.to/geoffreybr/creating-a-medium-like-text-highlighter-to-report-typo-5dip)
-- [Dev.to/JS] [Frontend Help](https://dev.to/potential17/frontend-help-15lk)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
 - [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
 - [Lifehacker] [Signs That It&#39;s Time to Replace Your Toilet](https://lifehacker.com/signs-that-its-time-to-replace-your-toilet-1849796702)
-- [Lifehacker] [Where to &lpar;and Where Not to&rpar; Install Home Security Cameras](https://lifehacker.com/where-to-and-where-not-to-install-home-security-camer-1849797448)
-- [Lifehacker] [These Are the Worst States for Drunk Driving](https://lifehacker.com/these-are-the-worst-states-for-drunk-driving-1849797194)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to &lpar;and Where Not to&rpar; Install Home Security Cameras](https://lifehacker.com/where-to-and-where-not-to-install-home-security-camer-1849797448)<!-- TECH-POSTS:END -->
 
 ---
 
