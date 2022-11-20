@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive SVG animation w. vanilla Javascript](https://dev.to/steinarvdesign/responsive-svg-animation-w-vanilla-javascript-49hj)
 - [Dev.to/JS] [Learning the elements of the Modern Periodic Table through a web application using SashiDo and Teachable Machine](https://dev.to/haripriya2002145/learning-the-elements-of-the-modern-periodic-table-through-a-web-application-using-sashido-and-teachable-machine-a8b)
 - [Dev.to/JS] [Beginner JavaScript Tutorial: How to build your own Mad Libs game](https://dev.to/codergirl1991/beginner-javascript-tutorial-how-to-build-your-own-mad-libs-game-4hf8)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Print Particular part of the screen easily when using CMD/CTRL + P in HTML/CSS](https://dev.to/shrihari/print-particular-part-of-the-screen-easily-when-using-cmdctrl-p-5c5)
 - [Dev.to/JS] [Best Design Trends for 2023](https://dev.to/atharvashankar/best-design-trends-for-2023-3bd1)
 - [Dev.to/JS] [Crack Apps](https://dev.to/prosverisons/crack-apps-123f)
-- [Dev.to/JS] [IPVanish VPN 4.1.1.124 Crack + Serial Key 2022 New Download](https://dev.to/prosverisons/ipvanish-vpn-411124-crack-serial-key-2022-new-download-22c3)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
