@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend Help](https://dev.to/potential17/frontend-help-15lk)
 - [Dev.to/JS] [Neomorphic Analog Clock using HTML, CSS &amp; JavaScript](https://dev.to/piyushpatil1243/neomorphic-analog-clock-using-html-css-javascript-5g42)
 - [Dev.to/JS] [11-ES6++: Map and Set in Javascript](https://dev.to/hassanzohdy/11-es6-map-and-set-in-javascript-217p)
 - [Dev.to/JS] [First mobile Game](https://dev.to/vikneshg3/first-mobile-ngame-912)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Dev.to/JS] [Node.js visualized: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
 - [Dev.to/JS] [Use your decision tree model in your Javascript project today](https://dev.to/patrikkaura/use-your-decision-tree-model-in-your-javascript-project-today-with-m2cgen-4mog)
-- [Dev.to/JS] [6-JS OOP: Class Members](https://dev.to/hassanzohdy/6-js-oop-class-members-1h3g)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
