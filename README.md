@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript: No More callbacks use promisify to convert callback to promise](https://dev.to/devsmitra/javascript-no-more-callbacks-use-promisify-to-convert-callback-to-promise-3pg)
 - [Dev.to/JS] [7-JS/TS OOP: Class Access Modifiers](https://dev.to/hassanzohdy/7-jsts-oop-class-access-modifiers-5b47)
 - [Dev.to/JS] [Timeouts/Intervals vs Eventloops](https://dev.to/odrumond/timeoutsintervals-vs-eventloops-39c)
 - [Dev.to/JS] [Data Structures Exercices Sets of Data](https://dev.to/thiagocolen/data-structures-exercices-sets-of-data-1n07)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML element to absolute XPath selector - JavaScript](https://dev.to/abkarim/html-element-to-absolute-xpath-selector-javascript-4g82)
 - [Dev.to/JS] [Caching the React Query Way!](https://dev.to/imayush15/caching-the-react-query-way-jkl)
 - [Dev.to/JS] [Code Smell 180 - BitWise Optimizations](https://dev.to/mcsee/code-smell-180-bitwise-optimizations-2072)
-- [Dev.to/JS] [Your files go to Cloud : Uploading Images with Express to Cloudinary](https://dev.to/suyious/your-files-go-to-cloud-uploading-images-with-express-to-cloudinary-3k2)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
