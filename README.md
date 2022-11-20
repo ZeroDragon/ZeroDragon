@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Go Series: Defer, Finally...](https://dev.to/achristoph/go-series-defer-finally-51le)
+- [Dev.to/JS] [How to use echart chart more gracefully in Vue3](https://dev.to/_island/ru-he-zai-vue3zhong-geng-you-ya-de-shi-yong-echarttu-biao-1lhf)
+- [Dev.to/JS] [Best fuzzy search module](https://dev.to/shreyvijayvargiya/best-fuzzy-search-module-4ce2)
 - [Dev.to/JS] [Creating a Medium-like text highlighter to report typo](https://dev.to/geoffreybr/creating-a-medium-like-text-highlighter-to-report-typo-5dip)
 - [Dev.to/JS] [Frontend Help](https://dev.to/potential17/frontend-help-15lk)
 - [Dev.to/JS] [Neomorphic Analog Clock using HTML, CSS &amp; JavaScript](https://dev.to/piyushpatil1243/neomorphic-analog-clock-using-html-css-javascript-5g42)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DOM Element Observer](https://dev.to/ganeshpatil0101/dom-element-observer-97a)
 - [Dev.to/JS] [Javascript: No More callbacks use promisify to convert callback to promise](https://dev.to/devsmitra/javascript-no-more-callbacks-use-promisify-to-convert-callback-to-promise-3pg)
 - [Dev.to/JS] [7-JS/TS OOP: Class Access Modifiers](https://dev.to/hassanzohdy/7-jsts-oop-class-access-modifiers-5b47)
-- [Dev.to/JS] [Timeouts/Intervals vs Eventloops](https://dev.to/odrumond/timeoutsintervals-vs-eventloops-39c)
-- [Dev.to/JS] [Data Structures Exercices Sets of Data](https://dev.to/thiagocolen/data-structures-exercices-sets-of-data-1n07)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
-- [Dev.to/JS] [Node.js visualized: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
