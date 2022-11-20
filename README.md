@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Find The Smallest Positive Integer Not Occurring In An Array - 3 Approaches](https://dev.to/yuridevat/find-the-smallest-positive-integer-not-occurring-in-an-array-3-approaches-53ka)
 - [Dev.to/JS] [Website Snowfall Effect](https://dev.to/ahmetilhan24/website-snowfall-effect-5hh5)
 - [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
 - [Dev.to/JS] [Print Particular part of the screen easily when using CMD/CTRL + P in HTML/CSS](https://dev.to/shrihari/print-particular-part-of-the-screen-easily-when-using-cmdctrl-p-5c5)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Structure React Project Files](https://dev.to/seanyasno/how-to-structure-react-project-files-31dg)
 - [Dev.to/JS] [Singleton pattern in TypeScript](https://dev.to/jmalvarez/singleton-pattern-in-typescript-2le7)
 - [Dev.to/JS] [Adapter pattern in TypeScript](https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl)
-- [Dev.to/JS] [Deals for devs for Black Friday &lpar;up to 100%&rpar;](https://dev.to/mdbootstrap/deals-for-devs-for-black-friday-up-to-100-495k)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
