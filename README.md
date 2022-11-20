@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing a feature with Vanilla JavaScript](https://dev.to/mnosov622/implementing-a-feature-with-vanilla-javascript-ook)
+- [Dev.to/JS] [代码随想录day6 | 242.Valid Anagram, 349. 两个数组的交集, 202.快乐数, 1. two sum](https://dev.to/986913/dai-ma-sui-xiang-lu-day6-242valid-anagram-349-liang-ge-shu-zu-de-jiao-ji-202kuai-le-shu-1-two-sum-7kb)
+- [Dev.to/JS] [Most used JavaScript methods I use in my day to day job](https://dev.to/mohitkumartoshniwal/most-used-javascript-methods-i-use-in-my-day-to-day-job-613)
+- [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
+- [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
 - [Dev.to/JS] [Find The Smallest Positive Integer Not Occurring In An Array - 3 Approaches](https://dev.to/yuridevat/find-the-smallest-positive-integer-not-occurring-in-an-array-3-approaches-53ka)
 - [Dev.to/JS] [Website Snowfall Effect](https://dev.to/ahmetilhan24/website-snowfall-effect-5hh5)
 - [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navbar CSS Tutorial: Create a Navigation Bar with Flexbox.](https://dev.to/ziontutorial/navbar-css-tutorial-create-a-navigation-bar-with-flexbox-4h71)
 - [Dev.to/JS] [How to add ESLint, Prettier, and Husky to your Web / NodeJS project](https://dev.to/seanyasno/how-to-add-eslint-prettier-and-husky-to-your-web-nodejs-project-4h5j)
 - [Dev.to/JS] [JSON and PHP Array Converter](https://dev.to/joelwmulongo/json-and-php-array-converter-2c06)
-- [Dev.to/JS] [How To Structure React Project Files](https://dev.to/seanyasno/how-to-structure-react-project-files-31dg)
-- [Dev.to/JS] [Singleton pattern in TypeScript](https://dev.to/jmalvarez/singleton-pattern-in-typescript-2le7)
-- [Dev.to/JS] [Adapter pattern in TypeScript](https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need More &#39;Tiny Relationships&#39; &lpar;and How to Get Them&rpar;](https://lifehacker.com/why-you-need-more-tiny-relationships-and-how-to-get-th-1849792425)
 - [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
 - [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)
-- [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)
-- [Lifehacker] [Signs That It&#39;s Time to Replace Your Toilet](https://lifehacker.com/signs-that-its-time-to-replace-your-toilet-1849796702)
-- [Lifehacker] [Where to &lpar;and Where Not to&rpar; Install Home Security Cameras](https://lifehacker.com/where-to-and-where-not-to-install-home-security-camer-1849797448)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Download Every Issue of Nintendo Power Ever](https://lifehacker.com/how-to-download-every-issue-of-nintendo-power-ever-1849797319)<!-- TECH-POSTS:END -->
 
 ---
 
