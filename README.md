@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beginner JavaScript Tutorial: How to build your own Mad Libs game](https://dev.to/codergirl1991/beginner-javascript-tutorial-how-to-build-your-own-mad-libs-game-4hf8)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Dev.to/JS] [JS Classes](https://dev.to/sandytrolling/js-classes-37ej)
 - [Dev.to/JS] [Implementing a feature with Vanilla JavaScript](https://dev.to/mnosov622/implementing-a-feature-with-vanilla-javascript-ook)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crack Apps](https://dev.to/prosverisons/crack-apps-123f)
 - [Dev.to/JS] [IPVanish VPN 4.1.1.124 Crack + Serial Key 2022 New Download](https://dev.to/prosverisons/ipvanish-vpn-411124-crack-serial-key-2022-new-download-22c3)
 - [Dev.to/JS] [Navbar CSS Tutorial: Create a Navigation Bar with Flexbox.](https://dev.to/ziontutorial/navbar-css-tutorial-create-a-navigation-bar-with-flexbox-4h71)
-- [Dev.to/JS] [How to add ESLint, Prettier, and Husky to your Web / NodeJS project](https://dev.to/seanyasno/how-to-add-eslint-prettier-and-husky-to-your-web-nodejs-project-4h5j)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
