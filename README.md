@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Structure React Project Files](https://dev.to/seanyasno/how-to-structure-react-project-files-31dg)
+- [Dev.to/JS] [Singleton pattern in TypeScript](https://dev.to/jmalvarez/singleton-pattern-in-typescript-2le7)
+- [Dev.to/JS] [Adapter pattern in TypeScript](https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl)
+- [Dev.to/JS] [Deals for devs for Black Friday &lpar;up to 100%&rpar;](https://dev.to/mdbootstrap/deals-for-devs-for-black-friday-up-to-100-495k)
 - [Dev.to/JS] [Go Series: Defer, Finally...](https://dev.to/achristoph/go-series-defer-finally-51le)
 - [Dev.to/JS] [How to use echart chart more gracefully in Vue3](https://dev.to/_island/ru-he-zai-vue3zhong-geng-you-ya-de-shi-yong-echarttu-biao-1lhf)
 - [Dev.to/JS] [Best fuzzy search module](https://dev.to/shreyvijayvargiya/best-fuzzy-search-module-4ce2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Neomorphic Analog Clock using HTML, CSS &amp; JavaScript](https://dev.to/piyushpatil1243/neomorphic-analog-clock-using-html-css-javascript-5g42)
 - [Dev.to/JS] [11-ES6++: Map and Set in Javascript](https://dev.to/hassanzohdy/11-es6-map-and-set-in-javascript-217p)
 - [Dev.to/JS] [First mobile Game](https://dev.to/vikneshg3/first-mobile-ngame-912)
-- [Dev.to/JS] [Whatsapp BOT with nodeJs](https://dev.to/pawandeore/whatsapp-bot-with-nodejs-43d4)
-- [Dev.to/JS] [DOM Element Observer](https://dev.to/ganeshpatil0101/dom-element-observer-97a)
-- [Dev.to/JS] [Javascript: No More callbacks use promisify to convert callback to promise](https://dev.to/devsmitra/javascript-no-more-callbacks-use-promisify-to-convert-callback-to-promise-3pg)
-- [Dev.to/JS] [7-JS/TS OOP: Class Access Modifiers](https://dev.to/hassanzohdy/7-jsts-oop-class-access-modifiers-5b47)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
