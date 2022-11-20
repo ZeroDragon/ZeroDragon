@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bubble sort](https://dev.to/986913/bubble-sort-3ne0)
+- [Dev.to/JS] [. DOM manipulation](https://dev.to/yaalese1/-dom-manipulation-17hc)
+- [Dev.to/JS] [Switch to Switch Statement?](https://dev.to/kassmoreno/why-switch-to-switch-statement-4eoi)
+- [Dev.to/JS] [¿Como convertir un objeto en query strings?](https://dev.to/retronauta/como-convertir-un-objeto-en-query-strings-44dg)
 - [Dev.to/JS] [Fun with console.log&lpar;&rpar; 💿](https://dev.to/lissy93/fun-with-consolelog-3i59)
 - [Dev.to/JS] [Cloning a simple NFT shop with scroll animations!](https://dev.to/lensco825/cloning-a-simple-nft-shop-with-scroll-animations-k0k)
 - [Dev.to/JS] [Responsive SVG animation w. vanilla Javascript](https://dev.to/steinarvdesign/responsive-svg-animation-w-vanilla-javascript-49hj)
@@ -32,13 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Classes](https://dev.to/sandytrolling/js-classes-37ej)
 - [Dev.to/JS] [Implementing a feature with Vanilla JavaScript](https://dev.to/mnosov622/implementing-a-feature-with-vanilla-javascript-ook)
 - [Dev.to/JS] [代码随想录day6 | 242.Valid Anagram, 349. 两个数组的交集, 202.快乐数, 1. two sum](https://dev.to/986913/dai-ma-sui-xiang-lu-day6-242valid-anagram-349-liang-ge-shu-zu-de-jiao-ji-202kuai-le-shu-1-two-sum-7kb)
-- [Dev.to/JS] [Most used JavaScript methods I use in my day to day job](https://dev.to/mohitkumartoshniwal/most-used-javascript-methods-i-use-in-my-day-to-day-job-613)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
-- [Dev.to/JS] [Find The Smallest Positive Integer Not Occurring In An Array - 3 Approaches](https://dev.to/yuridevat/find-the-smallest-positive-integer-not-occurring-in-an-array-3-approaches-53ka)
-- [Dev.to/JS] [Website Snowfall Effect](https://dev.to/ahmetilhan24/website-snowfall-effect-5hh5)
 - [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
-- [Dev.to/JS] [Print Particular part of the screen easily when using CMD/CTRL + P in HTML/CSS](https://dev.to/shrihari/print-particular-part-of-the-screen-easily-when-using-cmdctrl-p-5c5)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
