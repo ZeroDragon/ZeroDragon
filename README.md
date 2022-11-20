@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Timeouts/Intervals vs Eventloops](https://dev.to/odrumond/timeoutsintervals-vs-eventloops-39c)
 - [Dev.to/JS] [Data Structures Exercices Sets of Data](https://dev.to/thiagocolen/data-structures-exercices-sets-of-data-1n07)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Dev.to/JS] [Node.js visualized: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 180 - BitWise Optimizations](https://dev.to/mcsee/code-smell-180-bitwise-optimizations-2072)
 - [Dev.to/JS] [Your files go to Cloud : Uploading Images with Express to Cloudinary](https://dev.to/suyious/your-files-go-to-cloud-uploading-images-with-express-to-cloudinary-3k2)
 - [Dev.to/JS] [What are &quot;transpilers&quot;?](https://dev.to/rounit08/what-are-transpilers-3o6d)
-- [Dev.to/JS] [5-TS OOP: Abstract Classes](https://dev.to/hassanzohdy/5-ts-oop-abstract-classes-3kgg)
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
