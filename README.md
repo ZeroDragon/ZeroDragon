@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Zip and Unzip Files on Your iPhone](https://lifehacker.com/the-easiest-way-to-zip-and-unzip-files-on-your-iphone-1849800176)
+- [Dev.to/JS] [Xóa thuộc tính khỏi Object trong Javascript &lpar;2 cách&rpar;](https://dev.to/vntalking/xoa-thuoc-tinh-khoi-object-trong-javascript-2-cach-4ajh)
+- [Dev.to/JS] [Universal File Access Gateway - How I turn my own Web Desktop OS into a gateway for all my file servers](https://dev.to/tobychui/universal-file-access-gateway-how-i-turn-my-own-web-desktop-os-into-a-gateway-for-all-my-file-servers-3oi8)
+- [Dev.to/JS] [Formatting dates and times without a library in JavaScript](https://dev.to/daryllukas/formatting-dates-and-times-without-a-library-in-javascript-18he)
+- [Dev.to/JS] [Create React App craete[ Chat web application]](https://dev.to/omprakash2929/create-react-app-craete-chat-web-application-f1m)
+- [Dev.to/JS] [How to use c language in python](https://dev.to/sajidkhansahil3/how-to-use-c-language-in-python-1da3)
 - [Dev.to/JS] [Free subdomain registration service&lpar; is-really.cool &rpar;](https://dev.to/joabutt/free-subdomain-registration-service-is-reallycool--4adn)
 - [Dev.to/JS] [A simple JavaScript Challenge](https://dev.to/katongole_isaac/a-simple-javascript-challenge-5752)
 - [Dev.to/JS] [Journal 12-21-22](https://dev.to/rm_coder/journal-12-21-22-1mj1)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Winston Logger - Full tutorial with a sample Nodejs application](https://dev.to/signoz/winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9)
 - [Dev.to/JS] [Why Another React DataGrid?](https://dev.to/get_infinite/why-another-react-datagrid-j34)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🔥.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2l70)
-- [Dev.to/JS] [Awesome Websites for UI Components](https://dev.to/surajondev/awesome-websites-for-ui-components-2c5g)
-- [Dev.to/JS] [How Wasp reached all-time high PR count during HacktoberFest: tips for OSS maintainers](https://dev.to/wasp/how-wasp-reached-all-time-high-pr-count-during-hacktoberfest-tips-for-oss-maintainers-4in0)
-- [Dev.to/JS] [Learn Closure in JavaScript with examples in &lt; 16 mins](https://dev.to/efkumah/learn-closure-in-javascript-with-examples-in-16-mins-3k5p)
-- [Dev.to/JS] [What Are The Most Important Benefits of Sunscreen](https://dev.to/blebur1/what-are-the-most-important-benefits-of-sunscreen-4mk7)
-- [Dev.to/JS] [Tip Calculator using HTML, CSS &amp; JavaScript](https://dev.to/piyushpatil1243/tip-calculator-using-html-css-javascript-4773)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This No-Bake Fall Dessert If You Suck at Decorating](https://lifehacker.com/make-this-no-bake-fall-dessert-if-you-suck-at-decoratin-1849800752)
 - [Lifehacker] [The 12 Most Egregious Snubs in Grammy History](https://lifehacker.com/the-12-most-egregious-snubs-in-grammy-history-1849798849)
 - [Lifehacker] [Why You Need More &#39;Tiny Relationships&#39; &lpar;and How to Get Them&rpar;](https://lifehacker.com/why-you-need-more-tiny-relationships-and-how-to-get-th-1849792425)
-- [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
-- [Lifehacker] [What to Do When You Feel Yourself Getting Carsick](https://lifehacker.com/what-to-do-when-you-feel-yourself-getting-carsick-1849798438)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)<!-- TECH-POSTS:END -->
 
 ---
 
