@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)
 - [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
 - [Dev.to/JS] [8-TS OOP: Interfaces: Contracts](https://dev.to/hassanzohdy/8-ts-oop-interfaces-contracts-3m45)
 - [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
 - [Lifehacker] [12 Pop Music Podcasts That Slap](https://lifehacker.com/12-pop-music-podcasts-that-slap-1849781966)
-- [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297)
-- [Lifehacker] [How to Accept Help &lpar;Even When It Feels Awkward&rpar;](https://lifehacker.com/how-to-accept-help-even-when-it-feels-awkward-1849799612)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297)<!-- TECH-POSTS:END -->
 
 ---
 
