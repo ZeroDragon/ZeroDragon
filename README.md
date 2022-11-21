@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [12-ES6++: New Built In Functions in Javascript](https://dev.to/hassanzohdy/12-es6-new-built-in-functions-in-javascript-1hno)
+- [Dev.to/JS] [useTransition : The new react 18 hook you probably missed](https://dev.to/rkjain119/usetransition-the-new-react-18-hook-you-probably-missed-35g2)
+- [Dev.to/JS] [HTML5Datepicker &amp; Laravel](https://dev.to/debo2696/html5datepicker-laravel-4oma)
+- [Dev.to/JS] [Frontend vs Backend &lpar;To Go or not to Go&rpar;](https://dev.to/andreygermanov/frontend-vs-backend-to-go-or-not-to-go-3bfl)
 - [Dev.to/JS] [Big O Notation in JavaScript](https://dev.to/imbios/big-o-notation-in-javascript-196j)
 - [Dev.to/JS] [Changing the Game of Ticketing Using Revise and NFTs](https://dev.to/anil_from_revise/changing-the-game-of-ticketing-using-revise-and-nfts-23ck)
 - [Dev.to/JS] [Changing The Game of Ticketing Using Revise and NFTs](https://dev.to/bloc_ogs/changing-the-game-of-ticketing-using-revise-and-nfts-2d0e)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Plotting 100k+ records in JavaScript](https://dev.to/kheersagar/plotting-100k-records-in-javascript-2ja5)
 - [Dev.to/JS] [Release 0.3 Internal Pull Request](https://dev.to/rudychung/release-03-internal-pull-request-200g)
 - [Dev.to/JS] [Release 0.3 Code Reviews](https://dev.to/rudychung/release-03-code-reviews-3872)
-- [Dev.to/JS] [Why React Is Bad &lpar;alternatives&rpar;](https://dev.to/atharvashankar/why-react-is-bad-alternatives-9ck)
-- [Dev.to/JS] [Ever wondered 🤔 how data binding works in modern UI frameworks &amp; libraries ?](https://dev.to/jp024556/ever-wondered-how-data-binding-works-in-modern-ui-frameworks-libraries--mi7)
-- [Dev.to/JS] [Using Controlled and Uncontrolled Components in React, Quick Review](https://dev.to/ericksong91/using-controlled-and-uncontrolled-components-in-react-quick-review-1llp)
-- [Dev.to/JS] [How to create a UIKit website: a tutorial for beginners](https://dev.to/asayerio_techblog/how-to-create-a-uikit-website-a-tutorial-for-beginners-3i5d)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
