@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tip Calculator using HTML, CSS &amp; JavaScript](https://dev.to/piyushpatil1243/tip-calculator-using-html-css-javascript-4773)
+- [Dev.to/JS] [Unit testing to cleaner code](https://dev.to/hi_iam_chris/unit-testing-to-cleaner-code-20l1)
+- [Dev.to/JS] [Bad Coding Habits Every Developer should Avoid](https://dev.to/monasoliman009/bad-coding-habits-every-developer-should-avoid-c3g)
 - [Dev.to/JS] [DJANGO HTMX LOAD MORE OBJECTS](https://dev.to/arthurobo/django-htmx-load-more-objects-3jg3)
 - [Dev.to/JS] [Make Your Own Lazy Loading Image Component In React](https://dev.to/kunalukey/make-your-own-lazy-loading-image-component-in-react-2j7m)
 - [Dev.to/JS] [12-ES6++: New Built In Functions in Javascript](https://dev.to/hassanzohdy/12-es6-new-built-in-functions-in-javascript-1hno)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Big O Notation in JavaScript](https://dev.to/imbios/big-o-notation-in-javascript-196j)
 - [Dev.to/JS] [Changing the Game of Ticketing Using Revise and NFTs](https://dev.to/anil_from_revise/changing-the-game-of-ticketing-using-revise-and-nfts-23ck)
 - [Dev.to/JS] [Changing The Game of Ticketing Using Revise and NFTs](https://dev.to/bloc_ogs/changing-the-game-of-ticketing-using-revise-and-nfts-2d0e)
-- [Dev.to/JS] [Data types in JavaScript](https://dev.to/manthanank/data-types-in-javascript-4ehg)
-- [Dev.to/JS] [Changing The Game of Ticketing Using Revise and NFTs](https://dev.to/web3blob/changing-the-game-of-ticketing-using-revise-and-nfts-10jl)
-- [Dev.to/JS] [Plotting 100k+ records in JavaScript](https://dev.to/kheersagar/plotting-100k-records-in-javascript-2ja5)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
