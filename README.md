@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [interprocess: 💬 A scalable and type-safe Electron IPC management tool with enhanced DX](https://dev.to/daltonmenezes/interprocess-a-scalable-and-type-safe-electron-ipc-management-tool-with-enhanced-dx-49ka)
+- [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Dev.to/JS] [Ng-News: Episode 22/46 - Angular 15](https://dev.to/ng_news/ng-news-episode-2246-angular-15-2cnl)
-- [Lifehacker] [9 Lies We Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
+- [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
 - [Dev.to/JS] [Why IP address geolocation is better and more effective than HTML5 geolocation](https://dev.to/legaciespanda/why-ip-address-geolocation-is-better-and-more-effective-than-html5-geolocation-24id)
 - [Lifehacker] [How to Reduce Energy Costs While You&#39;re Cooking](https://lifehacker.com/how-to-reduce-energy-costs-while-youre-cooking-1849809431)
 - [Dev.to/JS] [How can you use IP geolocation tools to prevent phishing attacks in your website and software?](https://dev.to/legaciespanda/how-can-you-use-ip-geolocation-tools-to-prevent-phishing-attacks-in-your-website-and-software-58kn)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Identity Theft Protection Is Mostly Worthless](https://lifehacker.com/identity-theft-protection-is-mostly-bullshit-1849808486)
 - [Dev.to/JS] [How Control Flow Works in JavaScript](https://dev.to/angelinewang/how-control-flow-works-in-javascript-3ope)
 - [Lifehacker] [Don’t Roll Out Your Pie Crusts and Do This Instead](https://lifehacker.com/don-t-roll-out-your-pie-crusts-and-do-this-instead-1849808624)
-- [Dev.to/JS] [How to learn JavaScript at home &lpar;step-by-step&rpar; + 5 FREE Resources](https://dev.to/fullstackvault/how-to-learn-javascript-at-home-step-by-step-5-free-resources-3bpo)
 - [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)
 - [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
 - [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
 - [Lifehacker] [Here&#39;s How Many Streams It Takes to Equal an Album Sale](https://lifehacker.com/heres-how-many-streams-it-takes-to-equal-an-album-sale-1849801652)
-- [Lifehacker] [Stop What You&#39;re Doing and Freeze Your Cranberries](https://lifehacker.com/stop-what-youre-doing-and-freeze-your-cranberries-1849801424)
-- [Lifehacker] [What to Know About the Deadly Mosquito-Borne Disease Showing Up in Arizona](https://lifehacker.com/what-to-know-about-the-deadly-mosquito-borne-disease-sh-1849801939)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop What You&#39;re Doing and Freeze Your Cranberries](https://lifehacker.com/stop-what-youre-doing-and-freeze-your-cranberries-1849801424)<!-- TECH-POSTS:END -->
 
 ---
 
