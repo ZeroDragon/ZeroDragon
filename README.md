@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using one smart contract address across multiple Blockchains.](https://dev.to/ayoseun/first-post-1mp0)
+- [Dev.to/JS] [BUILDING CONFIDENCE AS AN INSPIRING DEVELOPER](https://dev.to/onwuemene/building-confidence-as-an-inspiring-developer-2cik)
 - [Dev.to/JS] [Bubble sort](https://dev.to/986913/bubble-sort-3ne0)
 - [Dev.to/JS] [. DOM manipulation](https://dev.to/yaalese1/-dom-manipulation-17hc)
 - [Dev.to/JS] [Switch to Switch Statement?](https://dev.to/kassmoreno/why-switch-to-switch-statement-4eoi)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner JavaScript Tutorial: How to build your own Mad Libs game](https://dev.to/codergirl1991/beginner-javascript-tutorial-how-to-build-your-own-mad-libs-game-4hf8)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Dev.to/JS] [JS Classes](https://dev.to/sandytrolling/js-classes-37ej)
-- [Dev.to/JS] [Implementing a feature with Vanilla JavaScript](https://dev.to/mnosov622/implementing-a-feature-with-vanilla-javascript-ook)
-- [Dev.to/JS] [代码随想录day6 | 242.Valid Anagram, 349. 两个数组的交集, 202.快乐数, 1. two sum](https://dev.to/986913/dai-ma-sui-xiang-lu-day6-242valid-anagram-349-liang-ge-shu-zu-de-jiao-ji-202kuai-le-shu-1-two-sum-7kb)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
 - [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
