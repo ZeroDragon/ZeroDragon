@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is the Fastest Way to Launch Apps on Your Mac](https://lifehacker.com/this-is-the-fastest-way-to-launch-apps-on-your-mac-1849807414)
+- [Lifehacker] [You Should Add Tofu to Your Meatballs](https://lifehacker.com/you-should-add-tofu-to-your-meatballs-1849803334)
+- [Dev.to/JS] [Create a Modern Express Boilerplate with Typescript](https://dev.to/mohammadfaisal/create-a-modern-express-boilerplate-with-typescript-3aof)
+- [Dev.to/JS] [Matching search Text become small like google suggestions in Js](https://dev.to/khalid7487/matching-search-text-become-small-like-google-suggestions-in-js-24ml)
 - [Lifehacker] [This Club Only Lets You in If You&#39;re Really Good at Video Games](https://lifehacker.com/this-club-only-lets-you-in-if-youre-really-good-at-vide-1849803085)
 - [Dev.to/JS] [Spread Operator](https://dev.to/estotriramdani/spread-operator-66a)
 - [Lifehacker] [The 7 Deadly Sins of Decorating Your House for the Holidays](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-house-for-the-holi-1849803224)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use c language in python](https://dev.to/sajidkhansahil3/how-to-use-c-language-in-python-1da3)
 - [Dev.to/JS] [Free subdomain registration service&lpar; is-really.cool &rpar;](https://dev.to/joabutt/free-subdomain-registration-service-is-reallycool--4adn)
 - [Dev.to/JS] [A simple JavaScript Challenge](https://dev.to/katongole_isaac/a-simple-javascript-challenge-5752)
-- [Dev.to/JS] [Journal 12-21-22](https://dev.to/rm_coder/journal-12-21-22-1mj1)
-- [Dev.to/JS] [Refactor Like a Superhero: New Web UI for the Book](https://dev.to/bespoyasov/refactor-like-a-superhero-new-web-ui-for-the-book-4b06)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297)
 - [Lifehacker] [How to Accept Help &lpar;Even When It Feels Awkward&rpar;](https://lifehacker.com/how-to-accept-help-even-when-it-feels-awkward-1849799612)
 - [Lifehacker] [The Best and Worst Times to Hit the Road for Thanksgiving, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-hit-the-road-for-thanksgivi-1849798694)
-- [Lifehacker] [Buy This T-Shirt to Get Free Denny’s for a Year](https://lifehacker.com/buy-this-t-shirt-to-get-free-denny-s-for-a-year-1849798485)
-- [Lifehacker] [Make This No-Bake Fall Dessert If You Suck at Decorating](https://lifehacker.com/make-this-no-bake-fall-dessert-if-you-suck-at-decoratin-1849800752)
-- [Lifehacker] [The 12 Most Egregious Snubs in Grammy History](https://lifehacker.com/the-12-most-egregious-snubs-in-grammy-history-1849798849)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Buy This T-Shirt to Get Free Denny’s for a Year](https://lifehacker.com/buy-this-t-shirt-to-get-free-denny-s-for-a-year-1849798485)<!-- TECH-POSTS:END -->
 
 ---
 
