@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why IP address geolocation is better and more effective than HTML5 geolocation](https://dev.to/legaciespanda/why-ip-address-geolocation-is-better-and-more-effective-than-html5-geolocation-24id)
+- [Lifehacker] [How to Reduce Energy Costs While You&#39;re Cooking](https://lifehacker.com/how-to-reduce-energy-costs-while-youre-cooking-1849809431)
+- [Dev.to/JS] [How can you use IP geolocation tools to prevent phishing attacks in your website and software?](https://dev.to/legaciespanda/how-can-you-use-ip-geolocation-tools-to-prevent-phishing-attacks-in-your-website-and-software-58kn)
 - [Lifehacker] [6 of the Best Videos to Help You Understand This Housing Market](https://lifehacker.com/6-of-the-best-videos-to-help-you-understand-this-housin-1849808743)
 - [Dev.to/JS] [Adding internationalization to a Next.js app](https://dev.to/noahflk/adding-internationalization-to-a-nextjs-app-53kn)
 - [Dev.to/JS] [Infisical: Open-source tool to manage/sync environment variables](https://dev.to/dangtony98/infisical-open-source-tool-to-managesync-environment-variables-n22)
@@ -39,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)
 - [Dev.to/JS] [Getting started with webpack - Tutorial for absolute beginners](https://dev.to/bgopikrishna/getting-started-with-webpack-tutorial-for-absolute-beginners-1jdk)
 - [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
-- [Dev.to/JS] [8-TS OOP: Interfaces: Contracts](https://dev.to/hassanzohdy/8-ts-oop-interfaces-contracts-3m45)
 - [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)
-- [Dev.to/JS] [Adding your discord status to a website](https://dev.to/posandu/adding-your-discord-status-to-a-website-44lg)
 - [Lifehacker] [This Is the Fastest Way to Launch Apps on Your Mac](https://lifehacker.com/this-is-the-fastest-way-to-launch-apps-on-your-mac-1849807414)
 - [Lifehacker] [You Should Add Tofu to Your Meatballs](https://lifehacker.com/you-should-add-tofu-to-your-meatballs-1849803334)
 - [Lifehacker] [This Club Only Lets You in If You&#39;re Really Good at Video Games](https://lifehacker.com/this-club-only-lets-you-in-if-youre-really-good-at-vide-1849803085)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop What You&#39;re Doing and Freeze Your Cranberries](https://lifehacker.com/stop-what-youre-doing-and-freeze-your-cranberries-1849801424)
 - [Lifehacker] [What to Know About the Deadly Mosquito-Borne Disease Showing Up in Arizona](https://lifehacker.com/what-to-know-about-the-deadly-mosquito-borne-disease-sh-1849801939)
 - [Lifehacker] [All the Stuff Homeowners Insurance Doesn’t Cover](https://lifehacker.com/all-the-stuff-homeowners-insurance-doesn-t-cover-1849801541)
-- [Lifehacker] [These Trucks Are Being Recalled Before They Catch Fire](https://lifehacker.com/these-trucks-are-being-recalled-before-they-catch-fire-1849796883)
-- [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Trucks Are Being Recalled Before They Catch Fire](https://lifehacker.com/these-trucks-are-being-recalled-before-they-catch-fire-1849796883)<!-- TECH-POSTS:END -->
 
 ---
 
