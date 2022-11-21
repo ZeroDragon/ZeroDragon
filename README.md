@@ -23,27 +23,30 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [6 of the Best Videos to Help You Understand This Housing Market](https://lifehacker.com/6-of-the-best-videos-to-help-you-understand-this-housin-1849808743)
+- [Dev.to/JS] [Adding internationalization to a Next.js app](https://dev.to/noahflk/adding-internationalization-to-a-nextjs-app-53kn)
+- [Dev.to/JS] [Infisical: Open-source tool to manage/sync environment variables](https://dev.to/dangtony98/infisical-open-source-tool-to-managesync-environment-variables-n22)
+- [Dev.to/JS] [Parsing JSON in C](https://dev.to/velydev/parsing-json-in-c-with-vely-1mlf)
+- [Dev.to/JS] [Gatsby for beginners pt1](https://dev.to/julio_santacruz/gatsby-for-beginners-pt1-5e11)
+- [Lifehacker] [Do This to Seamlessly Connect Guests to Your Wifi](https://lifehacker.com/do-this-to-seamlessly-connect-guests-to-your-wifi-1849808406)
+- [Dev.to/JS] [Movies app in 7 frameworks - which is fastest and why?](https://dev.to/builderio/movies-app-in-7-frameworks-which-is-fastest-and-why-5h3k)
+- [Dev.to/JS] [A guide to Intersection Observer](https://dev.to/uploadcare/a-guide-to-intersection-observer-517p)
+- [Dev.to/JS] [Conditional Rendering in Nuxt](https://dev.to/davidemaye/conditional-rendering-in-nuxt-5c7n)
+- [Lifehacker] [Identity Theft Protection Is Mostly Worthless](https://lifehacker.com/identity-theft-protection-is-mostly-bullshit-1849808486)
 - [Dev.to/JS] [How Control Flow Works in JavaScript](https://dev.to/angelinewang/how-control-flow-works-in-javascript-3ope)
 - [Lifehacker] [Don’t Roll Out Your Pie Crusts and Do This Instead](https://lifehacker.com/don-t-roll-out-your-pie-crusts-and-do-this-instead-1849808624)
 - [Dev.to/JS] [How to learn JavaScript at home &lpar;step-by-step&rpar; + 5 FREE Resources](https://dev.to/fullstackvault/how-to-learn-javascript-at-home-step-by-step-5-free-resources-3bpo)
 - [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)
+- [Dev.to/JS] [Getting started with webpack - Tutorial for absolute beginners](https://dev.to/bgopikrishna/getting-started-with-webpack-tutorial-for-absolute-beginners-1jdk)
 - [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
 - [Dev.to/JS] [8-TS OOP: Interfaces: Contracts](https://dev.to/hassanzohdy/8-ts-oop-interfaces-contracts-3m45)
 - [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)
 - [Dev.to/JS] [Adding your discord status to a website](https://dev.to/posandu/adding-your-discord-status-to-a-website-44lg)
 - [Lifehacker] [This Is the Fastest Way to Launch Apps on Your Mac](https://lifehacker.com/this-is-the-fastest-way-to-launch-apps-on-your-mac-1849807414)
 - [Lifehacker] [You Should Add Tofu to Your Meatballs](https://lifehacker.com/you-should-add-tofu-to-your-meatballs-1849803334)
-- [Dev.to/JS] [Create a Modern Express Boilerplate with Typescript](https://dev.to/mohammadfaisal/create-a-modern-express-boilerplate-with-typescript-3aof)
-- [Dev.to/JS] [Matching search Text become small like google suggestions in Js](https://dev.to/khalid7487/matching-search-text-become-small-like-google-suggestions-in-js-24ml)
 - [Lifehacker] [This Club Only Lets You in If You&#39;re Really Good at Video Games](https://lifehacker.com/this-club-only-lets-you-in-if-youre-really-good-at-vide-1849803085)
-- [Dev.to/JS] [Spread Operator](https://dev.to/estotriramdani/spread-operator-66a)
 - [Lifehacker] [The 7 Deadly Sins of Decorating Your House for the Holidays](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-house-for-the-holi-1849803224)
-- [Dev.to/JS] [Randomizing Array Elements](https://dev.to/juliannehuynh/randomizing-array-elements-21o5)
-- [Dev.to/JS] [Improving Render Performance in React](https://dev.to/redbit/improving-render-performance-in-react-46ij)
 - [Lifehacker] [The Easiest Way to Zip and Unzip Files on Your iPhone](https://lifehacker.com/the-easiest-way-to-zip-and-unzip-files-on-your-iphone-1849800176)
-- [Dev.to/JS] [Xóa thuộc tính khỏi Object trong Javascript &lpar;2 cách&rpar;](https://dev.to/vntalking/xoa-thuoc-tinh-khoi-object-trong-javascript-2-cach-4ajh)
-- [Dev.to/JS] [Universal File Access Gateway - How I turn my own Web Desktop OS into a gateway for all my file servers](https://dev.to/tobychui/universal-file-access-gateway-how-i-turn-my-own-web-desktop-os-into-a-gateway-for-all-my-file-servers-3oi8)
-- [Dev.to/JS] [Formatting dates and times without a library in JavaScript](https://dev.to/daryllukas/formatting-dates-and-times-without-a-library-in-javascript-18he)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Know About the Deadly Mosquito-Borne Disease Showing Up in Arizona](https://lifehacker.com/what-to-know-about-the-deadly-mosquito-borne-disease-sh-1849801939)
 - [Lifehacker] [All the Stuff Homeowners Insurance Doesn’t Cover](https://lifehacker.com/all-the-stuff-homeowners-insurance-doesn-t-cover-1849801541)
 - [Lifehacker] [These Trucks Are Being Recalled Before They Catch Fire](https://lifehacker.com/these-trucks-are-being-recalled-before-they-catch-fire-1849796883)
-- [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)
-- [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
-- [Lifehacker] [12 Pop Music Podcasts That Slap](https://lifehacker.com/12-pop-music-podcasts-that-slap-1849781966)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)<!-- TECH-POSTS:END -->
 
 ---
 
