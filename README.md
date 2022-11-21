@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Big O Notation in JavaScript](https://dev.to/imbios/big-o-notation-in-javascript-196j)
+- [Dev.to/JS] [Changing the Game of Ticketing Using Revise and NFTs](https://dev.to/anil_from_revise/changing-the-game-of-ticketing-using-revise-and-nfts-23ck)
+- [Dev.to/JS] [Changing The Game of Ticketing Using Revise and NFTs](https://dev.to/bloc_ogs/changing-the-game-of-ticketing-using-revise-and-nfts-2d0e)
 - [Dev.to/JS] [Data types in JavaScript](https://dev.to/manthanank/data-types-in-javascript-4ehg)
 - [Dev.to/JS] [Changing The Game of Ticketing Using Revise and NFTs](https://dev.to/web3blob/changing-the-game-of-ticketing-using-revise-and-nfts-10jl)
 - [Dev.to/JS] [Plotting 100k+ records in JavaScript](https://dev.to/kheersagar/plotting-100k-records-in-javascript-2ja5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ever wondered 🤔 how data binding works in modern UI frameworks &amp; libraries ?](https://dev.to/jp024556/ever-wondered-how-data-binding-works-in-modern-ui-frameworks-libraries--mi7)
 - [Dev.to/JS] [Using Controlled and Uncontrolled Components in React, Quick Review](https://dev.to/ericksong91/using-controlled-and-uncontrolled-components-in-react-quick-review-1llp)
 - [Dev.to/JS] [How to create a UIKit website: a tutorial for beginners](https://dev.to/asayerio_techblog/how-to-create-a-uikit-website-a-tutorial-for-beginners-3i5d)
-- [Dev.to/JS] [Understanding React&#39;s useRef&lpar;&rpar; hook](https://dev.to/asayerio_techblog/understanding-reacts-useref-hook-h4a)
-- [Dev.to/JS] [Laravel project](https://dev.to/asadullohruziev/laravel-project-3bmc)
-- [Dev.to/JS] [Using one smart contract address across multiple Blockchains.](https://dev.to/ayoseun/first-post-1mp0)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
