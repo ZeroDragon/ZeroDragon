@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Club Only Lets You in If You&#39;re Really Good at Video Games](https://lifehacker.com/this-club-only-lets-you-in-if-youre-really-good-at-vide-1849803085)
+- [Dev.to/JS] [Spread Operator](https://dev.to/estotriramdani/spread-operator-66a)
+- [Lifehacker] [The 7 Deadly Sins of Decorating Your House for the Holidays](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-house-for-the-holi-1849803224)
+- [Dev.to/JS] [Randomizing Array Elements](https://dev.to/juliannehuynh/randomizing-array-elements-21o5)
+- [Dev.to/JS] [Improving Render Performance in React](https://dev.to/redbit/improving-render-performance-in-react-46ij)
 - [Lifehacker] [The Easiest Way to Zip and Unzip Files on Your iPhone](https://lifehacker.com/the-easiest-way-to-zip-and-unzip-files-on-your-iphone-1849800176)
 - [Dev.to/JS] [Xóa thuộc tính khỏi Object trong Javascript &lpar;2 cách&rpar;](https://dev.to/vntalking/xoa-thuoc-tinh-khoi-object-trong-javascript-2-cach-4ajh)
 - [Dev.to/JS] [Universal File Access Gateway - How I turn my own Web Desktop OS into a gateway for all my file servers](https://dev.to/tobychui/universal-file-access-gateway-how-i-turn-my-own-web-desktop-os-into-a-gateway-for-all-my-file-servers-3oi8)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A simple JavaScript Challenge](https://dev.to/katongole_isaac/a-simple-javascript-challenge-5752)
 - [Dev.to/JS] [Journal 12-21-22](https://dev.to/rm_coder/journal-12-21-22-1mj1)
 - [Dev.to/JS] [Refactor Like a Superhero: New Web UI for the Book](https://dev.to/bespoyasov/refactor-like-a-superhero-new-web-ui-for-the-book-4b06)
-- [Dev.to/JS] [Winston Logger - Full tutorial with a sample Nodejs application](https://dev.to/signoz/winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9)
-- [Dev.to/JS] [Why Another React DataGrid?](https://dev.to/get_infinite/why-another-react-datagrid-j34)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🔥.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2l70)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best and Worst Times to Hit the Road for Thanksgiving, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-hit-the-road-for-thanksgivi-1849798694)
 - [Lifehacker] [Buy This T-Shirt to Get Free Denny’s for a Year](https://lifehacker.com/buy-this-t-shirt-to-get-free-denny-s-for-a-year-1849798485)
 - [Lifehacker] [Make This No-Bake Fall Dessert If You Suck at Decorating](https://lifehacker.com/make-this-no-bake-fall-dessert-if-you-suck-at-decoratin-1849800752)
-- [Lifehacker] [The 12 Most Egregious Snubs in Grammy History](https://lifehacker.com/the-12-most-egregious-snubs-in-grammy-history-1849798849)
-- [Lifehacker] [Why You Need More &#39;Tiny Relationships&#39; &lpar;and How to Get Them&rpar;](https://lifehacker.com/why-you-need-more-tiny-relationships-and-how-to-get-th-1849792425)
-- [Lifehacker] [You Can &lpar;Basically&rpar; Get an Xbox Series S for $200 Right Now](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 12 Most Egregious Snubs in Grammy History](https://lifehacker.com/the-12-most-egregious-snubs-in-grammy-history-1849798849)<!-- TECH-POSTS:END -->
 
 ---
 
