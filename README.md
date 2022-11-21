@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Control Flow Works in JavaScript](https://dev.to/angelinewang/how-control-flow-works-in-javascript-3ope)
+- [Lifehacker] [Don’t Roll Out Your Pie Crusts and Do This Instead](https://lifehacker.com/don-t-roll-out-your-pie-crusts-and-do-this-instead-1849808624)
+- [Dev.to/JS] [How to learn JavaScript at home &lpar;step-by-step&rpar; + 5 FREE Resources](https://dev.to/fullstackvault/how-to-learn-javascript-at-home-step-by-step-5-free-resources-3bpo)
 - [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)
 - [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
 - [Dev.to/JS] [8-TS OOP: Interfaces: Contracts](https://dev.to/hassanzohdy/8-ts-oop-interfaces-contracts-3m45)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Xóa thuộc tính khỏi Object trong Javascript &lpar;2 cách&rpar;](https://dev.to/vntalking/xoa-thuoc-tinh-khoi-object-trong-javascript-2-cach-4ajh)
 - [Dev.to/JS] [Universal File Access Gateway - How I turn my own Web Desktop OS into a gateway for all my file servers](https://dev.to/tobychui/universal-file-access-gateway-how-i-turn-my-own-web-desktop-os-into-a-gateway-for-all-my-file-servers-3oi8)
 - [Dev.to/JS] [Formatting dates and times without a library in JavaScript](https://dev.to/daryllukas/formatting-dates-and-times-without-a-library-in-javascript-18he)
-- [Dev.to/JS] [Create React App craete[ Chat web application]](https://dev.to/omprakash2929/create-react-app-craete-chat-web-application-f1m)
-- [Dev.to/JS] [How to use c language in python](https://dev.to/sajidkhansahil3/how-to-use-c-language-in-python-1da3)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Shortcut for Your iPhone Downloads](https://lifehacker.com/make-this-shortcut-for-your-iphone-downloads-1849800112)
 - [Lifehacker] [&#39;Yellowstone,&#39; and 9 More Super Popular Shows Coastal Elites Have Never Heard Of](https://lifehacker.com/yellowstone-and-9-more-super-popular-shows-coastal-eli-1849796893)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
-- [Lifehacker] [12 Pop Music Podcasts That Slap](https://lifehacker.com/12-pop-music-podcasts-that-slap-1849781966)
-- [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Pop Music Podcasts That Slap](https://lifehacker.com/12-pop-music-podcasts-that-slap-1849781966)<!-- TECH-POSTS:END -->
 
 ---
 
