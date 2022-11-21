@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data types in JavaScript](https://dev.to/manthanank/data-types-in-javascript-4ehg)
+- [Dev.to/JS] [Changing The Game of Ticketing Using Revise and NFTs](https://dev.to/web3blob/changing-the-game-of-ticketing-using-revise-and-nfts-10jl)
+- [Dev.to/JS] [Plotting 100k+ records in JavaScript](https://dev.to/kheersagar/plotting-100k-records-in-javascript-2ja5)
 - [Dev.to/JS] [Release 0.3 Internal Pull Request](https://dev.to/rudychung/release-03-internal-pull-request-200g)
 - [Dev.to/JS] [Release 0.3 Code Reviews](https://dev.to/rudychung/release-03-code-reviews-3872)
 - [Dev.to/JS] [Why React Is Bad &lpar;alternatives&rpar;](https://dev.to/atharvashankar/why-react-is-bad-alternatives-9ck)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding React&#39;s useRef&lpar;&rpar; hook](https://dev.to/asayerio_techblog/understanding-reacts-useref-hook-h4a)
 - [Dev.to/JS] [Laravel project](https://dev.to/asadullohruziev/laravel-project-3bmc)
 - [Dev.to/JS] [Using one smart contract address across multiple Blockchains.](https://dev.to/ayoseun/first-post-1mp0)
-- [Dev.to/JS] [BUILDING CONFIDENCE AS AN INSPIRING DEVELOPER](https://dev.to/onwuemene/building-confidence-as-an-inspiring-developer-2cik)
-- [Dev.to/JS] [Bubble sort](https://dev.to/986913/bubble-sort-3ne0)
-- [Dev.to/JS] [. DOM manipulation](https://dev.to/yaalese1/-dom-manipulation-17hc)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
