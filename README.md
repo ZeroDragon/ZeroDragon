@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Release 0.3 Internal Pull Request](https://dev.to/rudychung/release-03-internal-pull-request-200g)
+- [Dev.to/JS] [Release 0.3 Code Reviews](https://dev.to/rudychung/release-03-code-reviews-3872)
 - [Dev.to/JS] [Why React Is Bad &lpar;alternatives&rpar;](https://dev.to/atharvashankar/why-react-is-bad-alternatives-9ck)
 - [Dev.to/JS] [Ever wondered 🤔 how data binding works in modern UI frameworks &amp; libraries ?](https://dev.to/jp024556/ever-wondered-how-data-binding-works-in-modern-ui-frameworks-libraries--mi7)
 - [Dev.to/JS] [Using Controlled and Uncontrolled Components in React, Quick Review](https://dev.to/ericksong91/using-controlled-and-uncontrolled-components-in-react-quick-review-1llp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BUILDING CONFIDENCE AS AN INSPIRING DEVELOPER](https://dev.to/onwuemene/building-confidence-as-an-inspiring-developer-2cik)
 - [Dev.to/JS] [Bubble sort](https://dev.to/986913/bubble-sort-3ne0)
 - [Dev.to/JS] [. DOM manipulation](https://dev.to/yaalese1/-dom-manipulation-17hc)
-- [Dev.to/JS] [Switch to Switch Statement?](https://dev.to/kassmoreno/why-switch-to-switch-statement-4eoi)
-- [Dev.to/JS] [¿Como convertir un objeto en query strings?](https://dev.to/retronauta/como-convertir-un-objeto-en-query-strings-44dg)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
