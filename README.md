@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a UIKit website: a tutorial for beginners](https://dev.to/asayerio_techblog/how-to-create-a-uikit-website-a-tutorial-for-beginners-3i5d)
+- [Dev.to/JS] [Understanding React&#39;s useRef&lpar;&rpar; hook](https://dev.to/asayerio_techblog/understanding-reacts-useref-hook-h4a)
+- [Dev.to/JS] [Laravel project](https://dev.to/asadullohruziev/laravel-project-3bmc)
 - [Dev.to/JS] [Using one smart contract address across multiple Blockchains.](https://dev.to/ayoseun/first-post-1mp0)
 - [Dev.to/JS] [BUILDING CONFIDENCE AS AN INSPIRING DEVELOPER](https://dev.to/onwuemene/building-confidence-as-an-inspiring-developer-2cik)
 - [Dev.to/JS] [Bubble sort](https://dev.to/986913/bubble-sort-3ne0)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fun with console.log&lpar;&rpar; 💿](https://dev.to/lissy93/fun-with-consolelog-3i59)
 - [Dev.to/JS] [Cloning a simple NFT shop with scroll animations!](https://dev.to/lensco825/cloning-a-simple-nft-shop-with-scroll-animations-k0k)
 - [Dev.to/JS] [Responsive SVG animation w. vanilla Javascript](https://dev.to/steinarvdesign/responsive-svg-animation-w-vanilla-javascript-49hj)
-- [Dev.to/JS] [Learning the elements of the Modern Periodic Table through a web application using SashiDo and Teachable Machine](https://dev.to/haripriya2002145/learning-the-elements-of-the-modern-periodic-table-through-a-web-application-using-sashido-and-teachable-machine-a8b)
-- [Dev.to/JS] [Beginner JavaScript Tutorial: How to build your own Mad Libs game](https://dev.to/codergirl1991/beginner-javascript-tutorial-how-to-build-your-own-mad-libs-game-4hf8)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
-- [Dev.to/JS] [JS Classes](https://dev.to/sandytrolling/js-classes-37ej)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
 - [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
