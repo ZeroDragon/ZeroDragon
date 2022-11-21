@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Controlled and Uncontrolled Components in React, Quick Review](https://dev.to/ericksong91/using-controlled-and-uncontrolled-components-in-react-quick-review-1llp)
 - [Dev.to/JS] [How to create a UIKit website: a tutorial for beginners](https://dev.to/asayerio_techblog/how-to-create-a-uikit-website-a-tutorial-for-beginners-3i5d)
 - [Dev.to/JS] [Understanding React&#39;s useRef&lpar;&rpar; hook](https://dev.to/asayerio_techblog/understanding-reacts-useref-hook-h4a)
 - [Dev.to/JS] [Laravel project](https://dev.to/asadullohruziev/laravel-project-3bmc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [¿Como convertir un objeto en query strings?](https://dev.to/retronauta/como-convertir-un-objeto-en-query-strings-44dg)
 - [Dev.to/JS] [Fun with console.log&lpar;&rpar; 💿](https://dev.to/lissy93/fun-with-consolelog-3i59)
 - [Dev.to/JS] [Cloning a simple NFT shop with scroll animations!](https://dev.to/lensco825/cloning-a-simple-nft-shop-with-scroll-animations-k0k)
-- [Dev.to/JS] [Responsive SVG animation w. vanilla Javascript](https://dev.to/steinarvdesign/responsive-svg-animation-w-vanilla-javascript-49hj)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
