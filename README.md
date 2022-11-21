@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Free subdomain registration service&lpar; is-really.cool &rpar;](https://dev.to/joabutt/free-subdomain-registration-service-is-reallycool--4adn)
+- [Dev.to/JS] [A simple JavaScript Challenge](https://dev.to/katongole_isaac/a-simple-javascript-challenge-5752)
+- [Dev.to/JS] [Journal 12-21-22](https://dev.to/rm_coder/journal-12-21-22-1mj1)
+- [Dev.to/JS] [Refactor Like a Superhero: New Web UI for the Book](https://dev.to/bespoyasov/refactor-like-a-superhero-new-web-ui-for-the-book-4b06)
 - [Dev.to/JS] [Winston Logger - Full tutorial with a sample Nodejs application](https://dev.to/signoz/winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9)
 - [Dev.to/JS] [Why Another React DataGrid?](https://dev.to/get_infinite/why-another-react-datagrid-j34)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🔥.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2l70)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Closure in JavaScript with examples in &lt; 16 mins](https://dev.to/efkumah/learn-closure-in-javascript-with-examples-in-16-mins-3k5p)
 - [Dev.to/JS] [What Are The Most Important Benefits of Sunscreen](https://dev.to/blebur1/what-are-the-most-important-benefits-of-sunscreen-4mk7)
 - [Dev.to/JS] [Tip Calculator using HTML, CSS &amp; JavaScript](https://dev.to/piyushpatil1243/tip-calculator-using-html-css-javascript-4773)
-- [Dev.to/JS] [Unit testing to cleaner code](https://dev.to/hi_iam_chris/unit-testing-to-cleaner-code-20l1)
-- [Dev.to/JS] [Bad Coding Habits Every Developer should Avoid](https://dev.to/monasoliman009/bad-coding-habits-every-developer-should-avoid-c3g)
-- [Dev.to/JS] [DJANGO HTMX LOAD MORE OBJECTS](https://dev.to/arthurobo/django-htmx-load-more-objects-3jg3)
-- [Dev.to/JS] [Make Your Own Lazy Loading Image Component In React](https://dev.to/kunalukey/make-your-own-lazy-loading-image-component-in-react-2j7m)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
