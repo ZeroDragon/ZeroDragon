@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
+- [Dev.to/JS] [8-TS OOP: Interfaces: Contracts](https://dev.to/hassanzohdy/8-ts-oop-interfaces-contracts-3m45)
+- [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)
+- [Dev.to/JS] [Adding your discord status to a website](https://dev.to/posandu/adding-your-discord-status-to-a-website-44lg)
 - [Lifehacker] [This Is the Fastest Way to Launch Apps on Your Mac](https://lifehacker.com/this-is-the-fastest-way-to-launch-apps-on-your-mac-1849807414)
 - [Lifehacker] [You Should Add Tofu to Your Meatballs](https://lifehacker.com/you-should-add-tofu-to-your-meatballs-1849803334)
 - [Dev.to/JS] [Create a Modern Express Boilerplate with Typescript](https://dev.to/mohammadfaisal/create-a-modern-express-boilerplate-with-typescript-3aof)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Formatting dates and times without a library in JavaScript](https://dev.to/daryllukas/formatting-dates-and-times-without-a-library-in-javascript-18he)
 - [Dev.to/JS] [Create React App craete[ Chat web application]](https://dev.to/omprakash2929/create-react-app-craete-chat-web-application-f1m)
 - [Dev.to/JS] [How to use c language in python](https://dev.to/sajidkhansahil3/how-to-use-c-language-in-python-1da3)
-- [Dev.to/JS] [Free subdomain registration service&lpar; is-really.cool &rpar;](https://dev.to/joabutt/free-subdomain-registration-service-is-reallycool--4adn)
-- [Dev.to/JS] [A simple JavaScript Challenge](https://dev.to/katongole_isaac/a-simple-javascript-challenge-5752)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Took the First Selfie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-took-1849801169)
 - [Lifehacker] [12 Pop Music Podcasts That Slap](https://lifehacker.com/12-pop-music-podcasts-that-slap-1849781966)
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297)
-- [Lifehacker] [How to Accept Help &lpar;Even When It Feels Awkward&rpar;](https://lifehacker.com/how-to-accept-help-even-when-it-feels-awkward-1849799612)
-- [Lifehacker] [The Best and Worst Times to Hit the Road for Thanksgiving, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-hit-the-road-for-thanksgivi-1849798694)
-- [Lifehacker] [Buy This T-Shirt to Get Free Denny’s for a Year](https://lifehacker.com/buy-this-t-shirt-to-get-free-denny-s-for-a-year-1849798485)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Accept Help &lpar;Even When It Feels Awkward&rpar;](https://lifehacker.com/how-to-accept-help-even-when-it-feels-awkward-1849799612)<!-- TECH-POSTS:END -->
 
 ---
 
