@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My First Experience with Three.js](https://dev.to/kirillinoz/my-first-experience-with-threejs-15d8)
+- [Dev.to/JS] [Decoding Unknown Facts About React Version 16.8](https://dev.to/surinder_rawat/decoding-unknown-facts-about-react-version-168-15nk)
+- [Dev.to/JS] [Top 4 Free Fake API](https://dev.to/shreyvijayvargiya/top-4-free-fake-api-21mc)
+- [Dev.to/JS] [The 2022 State of JavaScript Survey Is Now Open. Here&#39;s What&#39;s New](https://dev.to/sachagreif/take-the-2022-state-of-javascript-survey-5ap6)
 - [Dev.to/JS] [All you need to know about Azure DevOps!!](https://dev.to/postwell45/all-you-need-to-know-about-azure-devops-4kl2)
+- [Dev.to/JS] [Null vs. Undefined in JavaScript](https://dev.to/syncfusion/null-vs-undefined-in-javascript-3fj)
 - [Dev.to/JS] [Tailwind CSS and Next/Image Z-index not working](https://dev.to/ekremgunden/tailwind-css-and-nextimage-z-index-not-working-1p07)
 - [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week👀.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-5bh3)
 - [Dev.to/JS] [Day 02 - 100DayOfCode Challenge](https://dev.to/highnitin/day-02-100dayofcode-challenge-1h0f)
 - [Dev.to/JS] [React Query](https://dev.to/ifeanyichima/react-query-ain)
 - [Dev.to/JS] [Why you should come to the brighter front end](https://dev.to/zenstack/why-you-should-come-to-the-brighter-front-end-mm0)
 - [Dev.to/JS] [Error Handling With try, catch and finally Blocks in JavaScript](https://dev.to/refine/error-handling-with-try-catch-and-finally-blocks-in-javascript-35gm)
-- [Dev.to/JS] [What&#39;s Manual Testing?](https://dev.to/postwell45/whats-manual-testing-41km)
-- [Dev.to/JS] [50+ Github Repositories Every Front-end Developer Needs](https://dev.to/nftslab/50-github-repositories-every-front-end-developer-needs-1m5j)
-- [Dev.to/JS] [Block scope Vs Global scope var, let, const !!!](https://dev.to/kheersagar/block-scope-vs-global-scope-var-let-const--454j)
-- [Dev.to/JS] [let vs var keyword](https://dev.to/mikefazekas/let-vs-var-keyword-3mf3)
-- [Dev.to/JS] [Style your SolidJS website faster with StylifyCSS](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
