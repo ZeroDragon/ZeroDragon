@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Block scope Vs Global scope var, let, const !!!](https://dev.to/kheersagar/block-scope-vs-global-scope-var-let-const--454j)
+- [Dev.to/JS] [let vs var keyword](https://dev.to/mikefazekas/let-vs-var-keyword-3mf3)
+- [Dev.to/JS] [Style your SolidJS website faster with StylifyCSS](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
+- [Dev.to/JS] [REACT VS ANGULAR](https://dev.to/shehzadaliqadri/react-vs-angular-n93)
+- [Dev.to/JS] [Including JS code in TypeScript projects](https://dev.to/zarinabi/including-js-code-in-typescript-projects-1oki)
 - [Dev.to/JS] [Asynchronous to Synchronous JavaScript](https://dev.to/kheersagar/asynchronous-to-synchronous-javascript-3ml5)
 - [Dev.to/JS] [Why Do You Need to Hire Dedicated AngularJS Developers?](https://dev.to/scalacode/why-do-you-need-to-hire-dedicated-angularjs-developers-1fej)
 - [Dev.to/JS] [One More Developer On Dev,to](https://dev.to/awaispirkale/one-more-developer-on-devto-2505)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why developers don&#39;t use svelteKit?](https://dev.to/ahmed_onour/why-developers-dont-use-sveltekit-2o9g)
 - [Dev.to/JS] [7 Fascinating Reasons People Like React.js](https://dev.to/onurdesk/7-fascinating-reasons-people-like-reactjs-i5h)
 - [Dev.to/JS] [Q. What is JavaScript/Socket.io, node.js for Perl?](https://dev.to/yukikimoto/q-what-is-javascriptsocketio-nodejs-for-perl-36o4)
-- [Dev.to/JS] [Improve Your Git Commit Message Like a Pro](https://dev.to/rifkiandriyanto/improve-your-git-commit-message-like-a-pro-1mk4)
-- [Dev.to/JS] [Simple Tricks To Find Overflow In The Web Page Just 1 Second.](https://dev.to/joysuperman/simple-tricks-to-find-overflow-in-the-web-page-just-1-second-c03)
-- [Dev.to/JS] [Conditional Operators](https://dev.to/shaikhk2/conditional-operators-505p)
-- [Dev.to/JS] [Array.prototype.filter](https://dev.to/986913/arrayprototypefilter-4kcb)
-- [Dev.to/JS] [flatten](https://dev.to/986913/flatten-5e80)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
