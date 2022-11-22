@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day7 | 383.赎金信, 454.四数相加||, 15. 3Sum, 18.4Sum](https://dev.to/986913/dai-ma-sui-xiang-lu-day7-383shu-jin-xin-454si-shu-xiang-jia-15-3sum-184sum-5bn7)
 - [Dev.to/JS] [top 3 JavaScript one-liners](https://dev.to/atharvashankar/top-3-javascript-one-liners-dd7)
 - [Dev.to/JS] [Zero to SaaS - Bookmarksy.io Initial Data Model approach](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyioinitial-data-model-approach-e8e)
 - [Dev.to/JS] [20 SITES THAT REGULARLY POST REMOTE JOBS](https://dev.to/csituma/20-sites-that-regularly-post-remote-jobs-5b3)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding internationalization to a Next.js app](https://dev.to/noahflk/adding-internationalization-to-a-nextjs-app-53kn)
 - [Dev.to/JS] [Infisical: Open-source tool to manage/sync environment variables](https://dev.to/dangtony98/infisical-open-source-tool-to-managesync-environment-variables-n22)
 - [Dev.to/JS] [Parsing JSON in C](https://dev.to/velydev/parsing-json-in-c-with-vely-1mlf)
-- [Dev.to/JS] [Gatsby for beginners pt1](https://dev.to/julio_santacruz/gatsby-for-beginners-pt1-5e11)
 - [Lifehacker] [Do This to Seamlessly Connect Guests to Your Wifi](https://lifehacker.com/do-this-to-seamlessly-connect-guests-to-your-wifi-1849808406)
 - [Lifehacker] [Identity Theft Protection Is Mostly Worthless](https://lifehacker.com/identity-theft-protection-is-mostly-bullshit-1849808486)
 - [Lifehacker] [Don’t Roll Out Your Pie Crusts and Do This Instead](https://lifehacker.com/don-t-roll-out-your-pie-crusts-and-do-this-instead-1849808624)
