@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [top 3 JavaScript one-liners](https://dev.to/atharvashankar/top-3-javascript-one-liners-dd7)
+- [Dev.to/JS] [Zero to SaaS - Bookmarksy.io Initial Data Model approach](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyioinitial-data-model-approach-e8e)
+- [Dev.to/JS] [20 SITES THAT REGULARLY POST REMOTE JOBS](https://dev.to/csituma/20-sites-that-regularly-post-remote-jobs-5b3)
 - [Dev.to/JS] [Fallback en composition - web components](https://dev.to/dezkareid/fallback-en-composition-web-components-2mgp)
 - [Dev.to/JS] [interprocess: 💬 A scalable and type-safe Electron IPC management tool with enhanced DX](https://dev.to/daltonmenezes/interprocess-a-scalable-and-type-safe-electron-ipc-management-tool-with-enhanced-dx-49ka)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Parsing JSON in C](https://dev.to/velydev/parsing-json-in-c-with-vely-1mlf)
 - [Dev.to/JS] [Gatsby for beginners pt1](https://dev.to/julio_santacruz/gatsby-for-beginners-pt1-5e11)
 - [Lifehacker] [Do This to Seamlessly Connect Guests to Your Wifi](https://lifehacker.com/do-this-to-seamlessly-connect-guests-to-your-wifi-1849808406)
-- [Dev.to/JS] [Movies app in 7 frameworks - which is fastest and why?](https://dev.to/builderio/movies-app-in-7-frameworks-which-is-fastest-and-why-5h3k)
-- [Dev.to/JS] [A guide to Intersection Observer](https://dev.to/uploadcare/a-guide-to-intersection-observer-517p)
-- [Dev.to/JS] [Conditional Rendering in Nuxt](https://dev.to/davidemaye/conditional-rendering-in-nuxt-5c7n)
 - [Lifehacker] [Identity Theft Protection Is Mostly Worthless](https://lifehacker.com/identity-theft-protection-is-mostly-bullshit-1849808486)
 - [Lifehacker] [Don’t Roll Out Your Pie Crusts and Do This Instead](https://lifehacker.com/don-t-roll-out-your-pie-crusts-and-do-this-instead-1849808624)
 - [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)
