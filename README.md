@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One More Developer On Dev,to](https://dev.to/awaispirkale/one-more-developer-on-devto-2505)
+- [Dev.to/JS] [Free Next.js Finance Dashboard Template](https://dev.to/theplugjumbo/free-nextjs-finance-dashboard-template-16h0)
+- [Dev.to/JS] [Why developers don&#39;t use svelteKit?](https://dev.to/ahmed_onour/why-developers-dont-use-sveltekit-2o9g)
 - [Dev.to/JS] [7 Fascinating Reasons People Like React.js](https://dev.to/onurdesk/7-fascinating-reasons-people-like-reactjs-i5h)
 - [Dev.to/JS] [Q. What is JavaScript/Socket.io, node.js for Perl?](https://dev.to/yukikimoto/q-what-is-javascriptsocketio-nodejs-for-perl-36o4)
 - [Dev.to/JS] [Improve Your Git Commit Message Like a Pro](https://dev.to/rifkiandriyanto/improve-your-git-commit-message-like-a-pro-1mk4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [flatten](https://dev.to/986913/flatten-5e80)
 - [Dev.to/JS] [How to Make Typing Game in React](https://dev.to/reactjsguru/how-to-make-typing-game-in-react-48en)
 - [Dev.to/JS] [代码随想录day7 | 383.赎金信, 454.四数相加||, 15. 3Sum, 18.4Sum](https://dev.to/986913/dai-ma-sui-xiang-lu-day7-383shu-jin-xin-454si-shu-xiang-jia-15-3sum-184sum-5bn7)
-- [Dev.to/JS] [top 3 JavaScript one-liners](https://dev.to/atharvashankar/top-3-javascript-one-liners-dd7)
-- [Dev.to/JS] [Zero to SaaS - Bookmarksy.io Initial Data Model approach](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyioinitial-data-model-approach-e8e)
-- [Dev.to/JS] [20 SITES THAT REGULARLY POST REMOTE JOBS](https://dev.to/csituma/20-sites-that-regularly-post-remote-jobs-5b3)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
