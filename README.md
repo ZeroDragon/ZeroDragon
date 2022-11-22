@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to customize/add logic in Strapi CMS Relation-Ship](https://dev.to/jacksonkasi/how-to-customizeadd-logic-in-strapi-cms-relation-ship-1pn4)
+- [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)
+- [Dev.to/JS] [Project: Digital Clock](https://dev.to/salmaab/project-digital-clock-2291)
+- [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
 - [Dev.to/JS] [Going serverless using Cloudflare Workers](https://dev.to/tdaw/going-serverless-using-cloudflare-workers-3o9j)
 - [Dev.to/JS] [Integrating Mastodon with Astro](https://dev.to/lindsaykwardell/integrating-mastodon-with-astro-4na6)
-- [Dev.to/JS] [Proper ⚠ error handling🍵](https://dev.to/mishrabhavesh/proper-error-handling-2jjk)
+- [Dev.to/JS] [⚠ error handling🍵 understanding](https://dev.to/mishrabhavesh/proper-error-handling-2jjk)
 - [Lifehacker] [Every Samsung Phone Has a Hidden Chihuahua for Some Reason](https://lifehacker.com/every-samsung-phone-has-a-hidden-chihuahua-for-some-rea-1849812864)
 - [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)
 - [Dev.to/JS] [Next.js and React Project Starter CLI with 30+ Plugins🚀](https://dev.to/necatiozmen/nextjs-and-react-project-starter-cli-with-30-plugins-20po)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stimulus MultiSelect](https://dev.to/wizardhealth/stimulus-multiselect-4m8p)
 - [Dev.to/JS] [f-of-xstate: run some logic on your logic](https://dev.to/abrgr/f-of-xstate-run-some-logic-on-your-logic-3273)
 - [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)
-- [Dev.to/JS] [Limited 50% BF discount at the Trendiest Admin Template for React](https://dev.to/fredy/limited-50-bf-discount-at-the-trendiest-admin-template-for-react-34o1)
-- [Dev.to/JS] [Next.js 13 Finance Dashboard Template](https://dev.to/theplugjumbo/nextjs-13-fintech-dashboard-template-3ong)
 - [Lifehacker] [Stop Following New Finance &#39;Trends&#39;](https://lifehacker.com/stop-following-new-finance-trends-1849809947)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2022](https://lifehacker.com/whats-new-on-disney-in-december-2022-1849811792)
 - [Lifehacker] [How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)
 - [Lifehacker] [This Is the Fastest Way to Launch Apps on Your Mac](https://lifehacker.com/this-is-the-fastest-way-to-launch-apps-on-your-mac-1849807414)
 - [Lifehacker] [You Should Add Tofu to Your Meatballs](https://lifehacker.com/you-should-add-tofu-to-your-meatballs-1849803334)
-- [Lifehacker] [This Club Only Lets You in If You&#39;re Really Good at Video Games](https://lifehacker.com/this-club-only-lets-you-in-if-youre-really-good-at-vide-1849803085)
-- [Lifehacker] [The 7 Deadly Sins of Decorating Your House for the Holidays](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-house-for-the-holi-1849803224)
-- [Lifehacker] [The Easiest Way to Zip and Unzip Files on Your iPhone](https://lifehacker.com/the-easiest-way-to-zip-and-unzip-files-on-your-iphone-1849800176)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Club Only Lets You in If You&#39;re Really Good at Video Games](https://lifehacker.com/this-club-only-lets-you-in-if-youre-really-good-at-vide-1849803085)<!-- TECH-POSTS:END -->
 
 ---
 
