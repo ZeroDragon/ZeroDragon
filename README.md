@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Going serverless using Cloudflare Workers](https://dev.to/tdaw/going-serverless-using-cloudflare-workers-3o9j)
+- [Dev.to/JS] [Integrating Mastodon with Astro](https://dev.to/lindsaykwardell/integrating-mastodon-with-astro-4na6)
+- [Dev.to/JS] [Proper ⚠ error handling🍵](https://dev.to/mishrabhavesh/proper-error-handling-2jjk)
+- [Lifehacker] [Every Samsung Phone Has a Hidden Chihuahua for Some Reason](https://lifehacker.com/every-samsung-phone-has-a-hidden-chihuahua-for-some-rea-1849812864)
+- [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)
 - [Dev.to/JS] [Next.js and React Project Starter CLI with 30+ Plugins🚀](https://dev.to/necatiozmen/nextjs-and-react-project-starter-cli-with-30-plugins-20po)
 - [Lifehacker] [How to Tell If an Ex Is ‘Winter Coating’ You This Holiday Season](https://lifehacker.com/how-to-tell-if-an-ex-is-winter-coating-you-this-holid-1849811113)
 - [Dev.to/JS] [Data Structures and Algorithms - Part II](https://dev.to/jonnynotbravo/data-structures-and-algorithms-part-ii-a90)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js 13 Finance Dashboard Template](https://dev.to/theplugjumbo/nextjs-13-fintech-dashboard-template-3ong)
 - [Lifehacker] [Stop Following New Finance &#39;Trends&#39;](https://lifehacker.com/stop-following-new-finance-trends-1849809947)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2022](https://lifehacker.com/whats-new-on-disney-in-december-2022-1849811792)
-- [Dev.to/JS] [The Reactor Pattern in NodeJS](https://dev.to/olatisunkanmi/the-reactor-pattern-in-nodejs-49j6)
-- [Dev.to/JS] [My first ever JS project](https://dev.to/aneeqakhan/my-first-ever-js-project-2kb9)
 - [Lifehacker] [How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
-- [Dev.to/JS] [Process Payment &lpar;React + Flutterwave&rpar;](https://dev.to/drsimplegraffiti/process-payment-react-flutterwave-1f1)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Add Tofu to Your Meatballs](https://lifehacker.com/you-should-add-tofu-to-your-meatballs-1849803334)
 - [Lifehacker] [This Club Only Lets You in If You&#39;re Really Good at Video Games](https://lifehacker.com/this-club-only-lets-you-in-if-youre-really-good-at-vide-1849803085)
 - [Lifehacker] [The 7 Deadly Sins of Decorating Your House for the Holidays](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-house-for-the-holi-1849803224)
-- [Lifehacker] [The Easiest Way to Zip and Unzip Files on Your iPhone](https://lifehacker.com/the-easiest-way-to-zip-and-unzip-files-on-your-iphone-1849800176)
-- [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
-- [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Zip and Unzip Files on Your iPhone](https://lifehacker.com/the-easiest-way-to-zip-and-unzip-files-on-your-iphone-1849800176)<!-- TECH-POSTS:END -->
 
 ---
 
