@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fallback en composition - web components](https://dev.to/dezkareid/fallback-en-composition-web-components-2mgp)
 - [Dev.to/JS] [interprocess: 💬 A scalable and type-safe Electron IPC management tool with enhanced DX](https://dev.to/daltonmenezes/interprocess-a-scalable-and-type-safe-electron-ipc-management-tool-with-enhanced-dx-49ka)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A guide to Intersection Observer](https://dev.to/uploadcare/a-guide-to-intersection-observer-517p)
 - [Dev.to/JS] [Conditional Rendering in Nuxt](https://dev.to/davidemaye/conditional-rendering-in-nuxt-5c7n)
 - [Lifehacker] [Identity Theft Protection Is Mostly Worthless](https://lifehacker.com/identity-theft-protection-is-mostly-bullshit-1849808486)
-- [Dev.to/JS] [How Control Flow Works in JavaScript](https://dev.to/angelinewang/how-control-flow-works-in-javascript-3ope)
 - [Lifehacker] [Don’t Roll Out Your Pie Crusts and Do This Instead](https://lifehacker.com/don-t-roll-out-your-pie-crusts-and-do-this-instead-1849808624)
 - [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)
 - [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
