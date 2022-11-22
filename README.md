@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Fascinating Reasons People Like React.js](https://dev.to/onurdesk/7-fascinating-reasons-people-like-reactjs-i5h)
+- [Dev.to/JS] [Q. What is JavaScript/Socket.io, node.js for Perl?](https://dev.to/yukikimoto/q-what-is-javascriptsocketio-nodejs-for-perl-36o4)
+- [Dev.to/JS] [Improve Your Git Commit Message Like a Pro](https://dev.to/rifkiandriyanto/improve-your-git-commit-message-like-a-pro-1mk4)
 - [Dev.to/JS] [Simple Tricks To Find Overflow In The Web Page Just 1 Second.](https://dev.to/joysuperman/simple-tricks-to-find-overflow-in-the-web-page-just-1-second-c03)
 - [Dev.to/JS] [Conditional Operators](https://dev.to/shaikhk2/conditional-operators-505p)
 - [Dev.to/JS] [Array.prototype.filter](https://dev.to/986913/arrayprototypefilter-4kcb)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [top 3 JavaScript one-liners](https://dev.to/atharvashankar/top-3-javascript-one-liners-dd7)
 - [Dev.to/JS] [Zero to SaaS - Bookmarksy.io Initial Data Model approach](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyioinitial-data-model-approach-e8e)
 - [Dev.to/JS] [20 SITES THAT REGULARLY POST REMOTE JOBS](https://dev.to/csituma/20-sites-that-regularly-post-remote-jobs-5b3)
-- [Dev.to/JS] [Fallback en composition - web components](https://dev.to/dezkareid/fallback-en-composition-web-components-2mgp)
-- [Dev.to/JS] [interprocess: 💬 A scalable and type-safe Electron IPC management tool with enhanced DX](https://dev.to/daltonmenezes/interprocess-a-scalable-and-type-safe-electron-ipc-management-tool-with-enhanced-dx-49ka)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
-- [Dev.to/JS] [Ng-News: Episode 22/46 - Angular 15](https://dev.to/ng_news/ng-news-episode-2246-angular-15-2cnl)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
 - [Lifehacker] [How to Reduce Energy Costs While You&#39;re Cooking](https://lifehacker.com/how-to-reduce-energy-costs-while-youre-cooking-1849809431)
 - [Lifehacker] [6 of the Best Videos to Help You Understand This Housing Market](https://lifehacker.com/6-of-the-best-videos-to-help-you-understand-this-housin-1849808743)
