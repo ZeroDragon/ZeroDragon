@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Infinite-Scroll And GitHub REST API](https://dev.to/willochs316/infinite-scroll-and-github-rest-api-51c4)
+- [Dev.to/JS] [Need help on ReactJS chart library...](https://dev.to/laryhills/reactjs-chart-library-4dc6)
+- [Dev.to/JS] [Apprendre à coder en 2022 et au-delà](https://dev.to/njimsrane/apprendre-a-coder-en-2022-et-au-dela-4n0g)
+- [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
 - [Dev.to/JS] [How to customize/add logic in Strapi CMS Relation-Ship](https://dev.to/jacksonkasi/how-to-customizeadd-logic-in-strapi-cms-relation-ship-1pn4)
 - [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)
 - [Dev.to/JS] [Project: Digital Clock](https://dev.to/salmaab/project-digital-clock-2291)
@@ -41,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in December 2022](https://lifehacker.com/whats-new-on-netflix-in-december-2022-1849812600)
 - [Lifehacker] [10 of the Best Subscription Kits to Give Kids This Year](https://lifehacker.com/10-of-the-best-subscription-kits-to-give-kids-this-year-1849812007)
 - [Dev.to/JS] [Folder Structure Can Bite You](https://dev.to/mattferrin/folder-structure-can-bite-you-1i7o)
-- [Dev.to/JS] [Hoisting](https://dev.to/calebmccoy04/hoisting-4l5g)
 - [Lifehacker] [Don’t Just Roast Your Turkey, Roulade It](https://lifehacker.com/don-t-just-roast-your-turkey-roulade-it-1849811890)
-- [Dev.to/JS] [Stimulus MultiSelect](https://dev.to/wizardhealth/stimulus-multiselect-4m8p)
-- [Dev.to/JS] [f-of-xstate: run some logic on your logic](https://dev.to/abrgr/f-of-xstate-run-some-logic-on-your-logic-3273)
 - [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)
 - [Lifehacker] [Stop Following New Finance &#39;Trends&#39;](https://lifehacker.com/stop-following-new-finance-trends-1849809947)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2022](https://lifehacker.com/whats-new-on-disney-in-december-2022-1849811792)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
 - [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)
 - [Lifehacker] [This Is the Fastest Way to Launch Apps on Your Mac](https://lifehacker.com/this-is-the-fastest-way-to-launch-apps-on-your-mac-1849807414)
-- [Lifehacker] [You Should Add Tofu to Your Meatballs](https://lifehacker.com/you-should-add-tofu-to-your-meatballs-1849803334)
-- [Lifehacker] [This Club Only Lets You in If You&#39;re Really Good at Video Games](https://lifehacker.com/this-club-only-lets-you-in-if-youre-really-good-at-vide-1849803085)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Add Tofu to Your Meatballs](https://lifehacker.com/you-should-add-tofu-to-your-meatballs-1849803334)<!-- TECH-POSTS:END -->
 
 ---
 
