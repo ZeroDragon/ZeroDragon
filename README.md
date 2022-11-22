@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [No, Space Heaters Aren’t Really Cheaper Than Turning Up the Thermostat](https://lifehacker.com/no-space-heaters-aren-t-really-cheaper-than-turning-up-1849810019)
+- [Lifehacker] [Improve Your Safari Browsing Experience With These Automatic Redirects](https://lifehacker.com/improve-your-safari-browsing-experience-with-these-auto-1849812013)
+- [Dev.to/JS] [RxJS Observables vs Promises](https://dev.to/nischal_dutt/rxjs-observables-vs-promises-572f)
 - [Lifehacker] [What&#39;s New on Netflix in December 2022](https://lifehacker.com/whats-new-on-netflix-in-december-2022-1849812600)
 - [Lifehacker] [10 of the Best Subscription Kits to Give Kids This Year](https://lifehacker.com/10-of-the-best-subscription-kits-to-give-kids-this-year-1849812007)
 - [Dev.to/JS] [Folder Structure Can Bite You](https://dev.to/mattferrin/folder-structure-can-bite-you-1i7o)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Process Payment &lpar;React + Flutterwave&rpar;](https://dev.to/drsimplegraffiti/process-payment-react-flutterwave-1f1)
 - [Dev.to/JS] [My First Experience with Three.js](https://dev.to/kirillinoz/my-first-experience-with-threejs-15d8)
 - [Dev.to/JS] [Decoding Unknown Facts About React Version 16.8](https://dev.to/surinder_rawat/decoding-unknown-facts-about-react-version-168-15nk)
-- [Dev.to/JS] [Top 4 Free Fake API](https://dev.to/shreyvijayvargiya/top-4-free-fake-api-21mc)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Zip and Unzip Files on Your iPhone](https://lifehacker.com/the-easiest-way-to-zip-and-unzip-files-on-your-iphone-1849800176)
 - [Lifehacker] [Set These Boundaries Before Your Thanksgiving Guests Arrive](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
-- [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
-- [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
-- [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)<!-- TECH-POSTS:END -->
 
 ---
 
