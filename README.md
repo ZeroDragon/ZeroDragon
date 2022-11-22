@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
+- [Dev.to/JS] [Process Payment &lpar;React + Flutterwave&rpar;](https://dev.to/drsimplegraffiti/process-payment-react-flutterwave-1f1)
 - [Dev.to/JS] [My First Experience with Three.js](https://dev.to/kirillinoz/my-first-experience-with-threejs-15d8)
 - [Dev.to/JS] [Decoding Unknown Facts About React Version 16.8](https://dev.to/surinder_rawat/decoding-unknown-facts-about-react-version-168-15nk)
 - [Dev.to/JS] [Top 4 Free Fake API](https://dev.to/shreyvijayvargiya/top-4-free-fake-api-21mc)
+- [Dev.to/JS] [Multithreading in the DOM in JavaScript](https://dev.to/one-beyond/multithreading-in-the-dom-in-javascript-48mg)
 - [Dev.to/JS] [The 2022 State of JavaScript Survey Is Now Open. Here&#39;s What&#39;s New](https://dev.to/sachagreif/take-the-2022-state-of-javascript-survey-5ap6)
 - [Dev.to/JS] [All you need to know about Azure DevOps!!](https://dev.to/postwell45/all-you-need-to-know-about-azure-devops-4kl2)
 - [Dev.to/JS] [Null vs. Undefined in JavaScript](https://dev.to/syncfusion/null-vs-undefined-in-javascript-3fj)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week👀.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-5bh3)
 - [Dev.to/JS] [Day 02 - 100DayOfCode Challenge](https://dev.to/highnitin/day-02-100dayofcode-challenge-1h0f)
 - [Dev.to/JS] [React Query](https://dev.to/ifeanyichima/react-query-ain)
-- [Dev.to/JS] [Why you should come to the brighter front end](https://dev.to/zenstack/why-you-should-come-to-the-brighter-front-end-mm0)
-- [Dev.to/JS] [Error Handling With try, catch and finally Blocks in JavaScript](https://dev.to/refine/error-handling-with-try-catch-and-finally-blocks-in-javascript-35gm)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
 - [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
-- [Lifehacker] [Here&#39;s How Many Streams It Takes to Equal an Album Sale](https://lifehacker.com/heres-how-many-streams-it-takes-to-equal-an-album-sale-1849801652)
-- [Lifehacker] [Stop What You&#39;re Doing and Freeze Your Cranberries](https://lifehacker.com/stop-what-youre-doing-and-freeze-your-cranberries-1849801424)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Many Streams It Takes to Equal an Album Sale](https://lifehacker.com/heres-how-many-streams-it-takes-to-equal-an-album-sale-1849801652)<!-- TECH-POSTS:END -->
 
 ---
 
