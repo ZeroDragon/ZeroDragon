@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error Handling With try, catch and finally Blocks in JavaScript](https://dev.to/refine/error-handling-with-try-catch-and-finally-blocks-in-javascript-35gm)
+- [Dev.to/JS] [What&#39;s Manual Testing?](https://dev.to/postwell45/whats-manual-testing-41km)
+- [Dev.to/JS] [50+ Github Repositories Every Front-end Developer Needs](https://dev.to/nftslab/50-github-repositories-every-front-end-developer-needs-1m5j)
 - [Dev.to/JS] [Block scope Vs Global scope var, let, const !!!](https://dev.to/kheersagar/block-scope-vs-global-scope-var-let-const--454j)
 - [Dev.to/JS] [let vs var keyword](https://dev.to/mikefazekas/let-vs-var-keyword-3mf3)
 - [Dev.to/JS] [Style your SolidJS website faster with StylifyCSS](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Do You Need to Hire Dedicated AngularJS Developers?](https://dev.to/scalacode/why-do-you-need-to-hire-dedicated-angularjs-developers-1fej)
 - [Dev.to/JS] [One More Developer On Dev,to](https://dev.to/awaispirkale/one-more-developer-on-devto-2505)
 - [Dev.to/JS] [Free Next.js Finance Dashboard Template](https://dev.to/theplugjumbo/free-nextjs-finance-dashboard-template-16h0)
-- [Dev.to/JS] [Why developers don&#39;t use svelteKit?](https://dev.to/ahmed_onour/why-developers-dont-use-sveltekit-2o9g)
-- [Dev.to/JS] [7 Fascinating Reasons People Like React.js](https://dev.to/onurdesk/7-fascinating-reasons-people-like-reactjs-i5h)
-- [Dev.to/JS] [Q. What is JavaScript/Socket.io, node.js for Perl?](https://dev.to/yukikimoto/q-what-is-javascriptsocketio-nodejs-for-perl-36o4)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
