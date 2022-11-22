@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
+- [Dev.to/JS] [Shipping quickly, safely and asynchronously with GraphQL](https://dev.to/drummerjolev/shipping-quickly-safely-and-asynchronously-with-graphql-52np)
+- [Dev.to/JS] [What tool can you suggest to deal with A/B testing?](https://dev.to/pavelkeyzik/what-tool-can-you-suggest-to-deal-with-ab-testing-4g67)
+- [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Dev.to/JS] [Infinite-Scroll And GitHub REST API](https://dev.to/willochs316/infinite-scroll-and-github-rest-api-51c4)
 - [Dev.to/JS] [Need help on ReactJS chart library...](https://dev.to/laryhills/reactjs-chart-library-4dc6)
 - [Dev.to/JS] [Apprendre à coder en 2022 et au-delà](https://dev.to/njimsrane/apprendre-a-coder-en-2022-et-au-dela-4n0g)
@@ -41,10 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Structures and Algorithms - Part II](https://dev.to/jonnynotbravo/data-structures-and-algorithms-part-ii-a90)
 - [Lifehacker] [No, Space Heaters Aren’t Really Cheaper Than Turning Up the Thermostat](https://lifehacker.com/no-space-heaters-aren-t-really-cheaper-than-turning-up-1849810019)
 - [Lifehacker] [Improve Your Safari Browsing Experience With These Automatic Redirects](https://lifehacker.com/improve-your-safari-browsing-experience-with-these-auto-1849812013)
-- [Dev.to/JS] [RxJS Observables vs Promises](https://dev.to/nischal_dutt/rxjs-observables-vs-promises-572f)
 - [Lifehacker] [What&#39;s New on Netflix in December 2022](https://lifehacker.com/whats-new-on-netflix-in-december-2022-1849812600)
 - [Lifehacker] [10 of the Best Subscription Kits to Give Kids This Year](https://lifehacker.com/10-of-the-best-subscription-kits-to-give-kids-this-year-1849812007)
-- [Dev.to/JS] [Folder Structure Can Bite You](https://dev.to/mattferrin/folder-structure-can-bite-you-1i7o)
 - [Lifehacker] [Don’t Just Roast Your Turkey, Roulade It](https://lifehacker.com/don-t-just-roast-your-turkey-roulade-it-1849811890)
 - [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)
 - [Lifehacker] [Stop Following New Finance &#39;Trends&#39;](https://lifehacker.com/stop-following-new-finance-trends-1849809947)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Roll Out Your Pie Crusts and Do This Instead](https://lifehacker.com/don-t-roll-out-your-pie-crusts-and-do-this-instead-1849808624)
 - [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)
 - [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
-- [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)
-- [Lifehacker] [This Is the Fastest Way to Launch Apps on Your Mac](https://lifehacker.com/this-is-the-fastest-way-to-launch-apps-on-your-mac-1849807414)
-- [Lifehacker] [You Should Add Tofu to Your Meatballs](https://lifehacker.com/you-should-add-tofu-to-your-meatballs-1849803334)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)<!-- TECH-POSTS:END -->
 
 ---
 
