@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Just Roast Your Turkey, Roulade It](https://lifehacker.com/don-t-just-roast-your-turkey-roulade-it-1849811890)
+- [Dev.to/JS] [f-of-xstate: run some logic on your logic](https://dev.to/abrgr/f-of-xstate-run-some-logic-on-your-logic-3273)
+- [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)
+- [Dev.to/JS] [Limited 50% BF discount at the Trendiest Admin Template for React](https://dev.to/fredy/limited-50-bf-discount-at-the-trendiest-admin-template-for-react-34o1)
+- [Dev.to/JS] [Next.js 13 Finance Dashboard Template](https://dev.to/theplugjumbo/nextjs-13-fintech-dashboard-template-3ong)
+- [Lifehacker] [Stop Following New Finance &#39;Trends&#39;](https://lifehacker.com/stop-following-new-finance-trends-1849809947)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2022](https://lifehacker.com/whats-new-on-disney-in-december-2022-1849811792)
 - [Dev.to/JS] [The Reactor Pattern in NodeJS](https://dev.to/olatisunkanmi/the-reactor-pattern-in-nodejs-49j6)
 - [Dev.to/JS] [My first ever JS project](https://dev.to/aneeqakhan/my-first-ever-js-project-2kb9)
@@ -34,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multithreading in the DOM in JavaScript](https://dev.to/one-beyond/multithreading-in-the-dom-in-javascript-48mg)
 - [Dev.to/JS] [The 2022 State of JavaScript Survey Is Now Open. Here&#39;s What&#39;s New](https://dev.to/sachagreif/take-the-2022-state-of-javascript-survey-5ap6)
 - [Dev.to/JS] [All you need to know about Azure DevOps!!](https://dev.to/postwell45/all-you-need-to-know-about-azure-devops-4kl2)
-- [Dev.to/JS] [Null vs. Undefined in JavaScript](https://dev.to/syncfusion/null-vs-undefined-in-javascript-3fj)
-- [Dev.to/JS] [Tailwind CSS and Next/Image Z-index not working](https://dev.to/ekremgunden/tailwind-css-and-nextimage-z-index-not-working-1p07)
-- [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week👀.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-5bh3)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
 - [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
 - [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
-- [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
-- [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
-- [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
-- [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)<!-- TECH-POSTS:END -->
 
 ---
 
