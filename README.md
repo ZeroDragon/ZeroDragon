@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asynchronous to Synchronous JavaScript](https://dev.to/kheersagar/asynchronous-to-synchronous-javascript-3ml5)
+- [Dev.to/JS] [Why Do You Need to Hire Dedicated AngularJS Developers?](https://dev.to/scalacode/why-do-you-need-to-hire-dedicated-angularjs-developers-1fej)
 - [Dev.to/JS] [One More Developer On Dev,to](https://dev.to/awaispirkale/one-more-developer-on-devto-2505)
 - [Dev.to/JS] [Free Next.js Finance Dashboard Template](https://dev.to/theplugjumbo/free-nextjs-finance-dashboard-template-16h0)
 - [Dev.to/JS] [Why developers don&#39;t use svelteKit?](https://dev.to/ahmed_onour/why-developers-dont-use-sveltekit-2o9g)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conditional Operators](https://dev.to/shaikhk2/conditional-operators-505p)
 - [Dev.to/JS] [Array.prototype.filter](https://dev.to/986913/arrayprototypefilter-4kcb)
 - [Dev.to/JS] [flatten](https://dev.to/986913/flatten-5e80)
-- [Dev.to/JS] [How to Make Typing Game in React](https://dev.to/reactjsguru/how-to-make-typing-game-in-react-48en)
-- [Dev.to/JS] [代码随想录day7 | 383.赎金信, 454.四数相加||, 15. 3Sum, 18.4Sum](https://dev.to/986913/dai-ma-sui-xiang-lu-day7-383shu-jin-xin-454si-shu-xiang-jia-15-3sum-184sum-5bn7)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
