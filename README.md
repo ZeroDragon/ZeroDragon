@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Netflix in December 2022](https://lifehacker.com/whats-new-on-netflix-in-december-2022-1849812600)
+- [Lifehacker] [10 of the Best Subscription Kits to Give Kids This Year](https://lifehacker.com/10-of-the-best-subscription-kits-to-give-kids-this-year-1849812007)
+- [Dev.to/JS] [Folder Structure Can Bite You](https://dev.to/mattferrin/folder-structure-can-bite-you-1i7o)
+- [Dev.to/JS] [Hoisting](https://dev.to/calebmccoy04/hoisting-4l5g)
 - [Lifehacker] [Don’t Just Roast Your Turkey, Roulade It](https://lifehacker.com/don-t-just-roast-your-turkey-roulade-it-1849811890)
+- [Dev.to/JS] [Stimulus MultiSelect](https://dev.to/wizardhealth/stimulus-multiselect-4m8p)
 - [Dev.to/JS] [f-of-xstate: run some logic on your logic](https://dev.to/abrgr/f-of-xstate-run-some-logic-on-your-logic-3273)
 - [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)
 - [Dev.to/JS] [Limited 50% BF discount at the Trendiest Admin Template for React](https://dev.to/fredy/limited-50-bf-discount-at-the-trendiest-admin-template-for-react-34o1)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My First Experience with Three.js](https://dev.to/kirillinoz/my-first-experience-with-threejs-15d8)
 - [Dev.to/JS] [Decoding Unknown Facts About React Version 16.8](https://dev.to/surinder_rawat/decoding-unknown-facts-about-react-version-168-15nk)
 - [Dev.to/JS] [Top 4 Free Fake API](https://dev.to/shreyvijayvargiya/top-4-free-fake-api-21mc)
-- [Dev.to/JS] [Multithreading in the DOM in JavaScript](https://dev.to/one-beyond/multithreading-in-the-dom-in-javascript-48mg)
-- [Dev.to/JS] [The 2022 State of JavaScript Survey Is Now Open. Here&#39;s What&#39;s New](https://dev.to/sachagreif/take-the-2022-state-of-javascript-survey-5ap6)
-- [Dev.to/JS] [All you need to know about Azure DevOps!!](https://dev.to/postwell45/all-you-need-to-know-about-azure-devops-4kl2)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Sorry, but Your Microwave Needs Maintenance](https://lifehacker.com/sorry-but-your-microwave-needs-maintenance-1849803456)
 - [Crazy Programmer] [A Winning Strategy for Students Learning C++](https://www.thecrazyprogrammer.com/2022/11/a-winning-strategy-for-students-learning-c.html)
 - [Lifehacker] [The Best Black Friday Food Deals and Freebies](https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447)
-- [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)
-- [Lifehacker] [The Best Day to Browse Discounted Real Estate Listings](https://lifehacker.com/the-best-day-to-browse-discounted-real-estate-listings-1849803576)
-- [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Jerk Stores Will Be Open on Thanksgiving](https://lifehacker.com/these-jerk-stores-will-be-open-on-thanksgiving-1849803608)<!-- TECH-POSTS:END -->
 
 ---
 
