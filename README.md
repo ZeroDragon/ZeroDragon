@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Disney+ in December 2022](https://lifehacker.com/whats-new-on-disney-in-december-2022-1849811792)
+- [Dev.to/JS] [The Reactor Pattern in NodeJS](https://dev.to/olatisunkanmi/the-reactor-pattern-in-nodejs-49j6)
+- [Dev.to/JS] [My first ever JS project](https://dev.to/aneeqakhan/my-first-ever-js-project-2kb9)
 - [Lifehacker] [How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
 - [Dev.to/JS] [Process Payment &lpar;React + Flutterwave&rpar;](https://dev.to/drsimplegraffiti/process-payment-react-flutterwave-1f1)
 - [Dev.to/JS] [My First Experience with Three.js](https://dev.to/kirillinoz/my-first-experience-with-threejs-15d8)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Null vs. Undefined in JavaScript](https://dev.to/syncfusion/null-vs-undefined-in-javascript-3fj)
 - [Dev.to/JS] [Tailwind CSS and Next/Image Z-index not working](https://dev.to/ekremgunden/tailwind-css-and-nextimage-z-index-not-working-1p07)
 - [Dev.to/JS] [Top 10 trending github repos for CSS developers in this week👀.](https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-5bh3)
-- [Dev.to/JS] [Day 02 - 100DayOfCode Challenge](https://dev.to/highnitin/day-02-100dayofcode-challenge-1h0f)
-- [Dev.to/JS] [React Query](https://dev.to/ifeanyichima/react-query-ain)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Miss These USPS Holiday Shipping Deadlines](https://lifehacker.com/dont-miss-these-usps-holiday-shipping-deadlines-1849803569)
 - [Lifehacker] [Check Yourself Before Investing in Limited Edition Sneakers](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
 - [Lifehacker] [Toxic Christmas Tree Water, and Other Holiday Pet Dangers You Never Knew About](https://lifehacker.com/toxic-christmas-tree-water-and-other-holiday-pet-dange-1849802189)
-- [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)
-- [Lifehacker] [Here&#39;s How Many Streams It Takes to Equal an Album Sale](https://lifehacker.com/heres-how-many-streams-it-takes-to-equal-an-album-sale-1849801652)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Free Chipotle for Watching the World Cup](https://lifehacker.com/you-can-get-free-chipotle-for-watching-the-world-cup-1849786155)<!-- TECH-POSTS:END -->
 
 ---
 
