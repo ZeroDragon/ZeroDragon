@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Yes, You Can Really Have a Heart Attack From Shoveling Snow](https://lifehacker.com/yes-you-can-really-have-a-heart-attack-from-shoveling-1849818044)
+- [Dev.to/JS] [Curry](https://dev.to/986913/curry-3pjk)
+- [Lifehacker] [This Shortcut Makes a Kid-Friendly Version of Your Explicit Apple Music Playlists](https://lifehacker.com/this-shortcut-makes-a-kid-friendly-version-of-your-expl-1849816768)
+- [Dev.to/JS] [Releasing package to npm](https://dev.to/ririio/releasing-package-to-npm-2ina)
+- [Dev.to/JS] [Danfo-JS in svelte?](https://dev.to/svenar/danfo-js-in-svelte-4d7h)
+- [Dev.to/JS] [Speed up your code with Promise.all](https://dev.to/dperrymorrow/speed-up-your-code-with-promiseall-3d4i)
+- [Lifehacker] [The Best Way to Budget When Your Income Fluctuates](https://lifehacker.com/the-best-way-to-budget-when-your-income-fluctuates-1849817240)
 - [Dev.to/JS] [Free Course - Learn: A Full Stack Application with Azure SQL and Prisma](https://dev.to/azure/free-course-learn-a-full-stack-application-with-azure-sql-and-prisma-42kp)
 - [Lifehacker] [What&#39;s New on Paramount+ in December 2022](https://lifehacker.com/whats-new-on-paramount-in-december-2022-1849817476)
 - [Dev.to/JS] [Beginner JavaScript Project: How to reverse a sentence and display it on screen](https://dev.to/codergirl1991/beginner-javascript-project-how-to-reverse-a-sentence-and-display-it-on-screen-4d03)
@@ -34,13 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in December 2022](https://lifehacker.com/whats-new-on-hbo-max-in-december-2022-1849817318)
 - [Dev.to/JS] [Módulos 04/05 &lpar;Vídeos: 42 à 63&rpar; - TypeScript Zero to Hero](https://dev.to/azure/modulos-0405-videos-42-a-63-typescript-zero-to-hero-4bo4)
 - [Dev.to/JS] [Using hotwired/turbo but patch the DOM vs Replacing](https://dev.to/dperrymorrow/using-hotwiredturbo-but-patch-the-dom-vs-replacing-5176)
-- [Dev.to/JS] [How To Test An Application Running On Node.js Using Mocha and Chai](https://dev.to/itsvinayak/how-to-test-an-application-running-on-nodejs-using-mocha-and-chai-1c5o)
 - [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)
 - [Lifehacker] [How to Hold a Coworker Accountable When Your Boss Won&#39;t](https://lifehacker.com/how-to-hold-a-coworker-accountable-when-your-boss-wont-1849816741)
-- [Dev.to/JS] [RxJS and React: basics](https://dev.to/crowdozer/rxjs-and-react-basics-5gig)
-- [Dev.to/JS] [JavaScript | Mutability vs Immutability](https://dev.to/moyfdzz/javascript-mutability-vs-immutability-20on)
 - [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
-- [Dev.to/JS] [Tier v0.5.2](https://dev.to/tier/tier-v052-2o61)
 - [Lifehacker] [It&#39;s Never Been Easier to Digitize Your Life](https://lifehacker.com/its-never-been-easier-to-digitize-your-life-1849816670)
 - [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
 - [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If an Ex Is ‘Winter Coating’ You This Holiday Season](https://lifehacker.com/how-to-tell-if-an-ex-is-winter-coating-you-this-holid-1849811113)
 - [Lifehacker] [No, Space Heaters Aren’t Really Cheaper Than Turning Up the Thermostat](https://lifehacker.com/no-space-heaters-aren-t-really-cheaper-than-turning-up-1849810019)
 - [Lifehacker] [Improve Your Safari Browsing Experience With These Automatic Redirects](https://lifehacker.com/improve-your-safari-browsing-experience-with-these-auto-1849812013)
-- [Lifehacker] [What&#39;s New on Netflix in December 2022](https://lifehacker.com/whats-new-on-netflix-in-december-2022-1849812600)
-- [Lifehacker] [10 of the Best Subscription Kits to Give Kids This Year](https://lifehacker.com/10-of-the-best-subscription-kits-to-give-kids-this-year-1849812007)
-- [Lifehacker] [Don’t Just Roast Your Turkey, Roulade It](https://lifehacker.com/don-t-just-roast-your-turkey-roulade-it-1849811890)
-- [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in December 2022](https://lifehacker.com/whats-new-on-netflix-in-december-2022-1849812600)<!-- TECH-POSTS:END -->
 
 ---
 
