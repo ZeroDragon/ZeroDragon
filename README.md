@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js 13 Finance Dashboard Template](https://dev.to/theplugjumbo/nextjs-13-finance-dashboard-template-1p7d)
+- [Dev.to/JS] [How to use JS Gamepad API and Build a Gamepad Tester in 12 minutes](https://dev.to/codingwithadam/how-to-use-js-gamepad-api-and-build-a-gamepad-tester-in-12-minutes-26if)
 - [Dev.to/JS] [Todo List](https://dev.to/986913/todo-list-4n58)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Dev.to/JS] [Shipping quickly, safely and asynchronously with GraphQL](https://dev.to/drummerjolev/shipping-quickly-safely-and-asynchronously-with-graphql-52np)
@@ -38,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
 - [Dev.to/JS] [Going serverless using Cloudflare Workers](https://dev.to/tdaw/going-serverless-using-cloudflare-workers-3o9j)
 - [Dev.to/JS] [Integrating Mastodon with Astro](https://dev.to/lindsaykwardell/integrating-mastodon-with-astro-4na6)
-- [Dev.to/JS] [⚠ error handling🍵 understanding](https://dev.to/mishrabhavesh/proper-error-handling-2jjk)
 - [Lifehacker] [Every Samsung Phone Has a Hidden Chihuahua for Some Reason](https://lifehacker.com/every-samsung-phone-has-a-hidden-chihuahua-for-some-rea-1849812864)
 - [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)
-- [Dev.to/JS] [Next.js and React Project Starter CLI with 30+ Plugins🚀](https://dev.to/necatiozmen/nextjs-and-react-project-starter-cli-with-30-plugins-20po)
 - [Lifehacker] [How to Tell If an Ex Is ‘Winter Coating’ You This Holiday Season](https://lifehacker.com/how-to-tell-if-an-ex-is-winter-coating-you-this-holid-1849811113)
 - [Lifehacker] [No, Space Heaters Aren’t Really Cheaper Than Turning Up the Thermostat](https://lifehacker.com/no-space-heaters-aren-t-really-cheaper-than-turning-up-1849810019)
 - [Lifehacker] [Improve Your Safari Browsing Experience With These Automatic Redirects](https://lifehacker.com/improve-your-safari-browsing-experience-with-these-auto-1849812013)
