@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Feature flags at the edge with Progressively and Vercel &lpar;recipe&rpar;](https://dev.to/mfrachet/feature-flags-at-the-edge-with-progressively-and-vercel-recipe-4hj0)
+- [Dev.to/JS] [Weekly web development resources #125](https://dev.to/vincenius/weekly-web-development-resources-125-2lih)
+- [Dev.to/JS] [Regular Function VS Fat Arrow Function](https://dev.to/kheersagar/regular-function-vs-fat-arrow-function-5c14)
+- [Dev.to/JS] [Create React App is Dead?](https://dev.to/thevinitgupta/create-react-app-is-dead-3igo)
 - [Dev.to/JS] [Help me rename `typescript-json` package to another one](https://dev.to/samchon/help-me-rename-typescript-json-package-to-another-one-1mpj)
 - [Dev.to/JS] [Build a Shopping Cart with NextJS, Xata and Cloudinary](https://dev.to/hackmamba/build-a-shopping-cart-with-nextjs-xata-and-cloudinary-13k)
 - [Dev.to/JS] [String to character array](https://dev.to/wizdomtek/string-to-character-array-457d)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Account Balance Masking - Because Why Not Have More Privacy?](https://dev.to/jdvert/account-balance-masking-because-why-not-have-a-bit-more-privacy-3m30)
 - [Dev.to/JS] [Add Multiple Attribute to an Element using javaScript](https://dev.to/ahonerd/add-multiple-attribute-to-an-element-using-javascript-19lb)
 - [Dev.to/JS] [Add Multiple Inline Style to an Element using javaScript](https://dev.to/ahonerd/add-multiple-inline-style-to-an-element-using-javascript-429j)
-- [Dev.to/JS] [A Gentle Introduction To The ++ Operator In Javascript](https://dev.to/changalancl/a-gentle-introduction-to-the-operator-in-javascript-2782)
-- [Dev.to/JS] [A gentle introduction to Domain Driven Design](https://dev.to/ancyrweb/a-gentle-introduction-to-domain-driven-design-589e)
-- [Dev.to/JS] [Next.js 13 Finance Dashboard Template](https://dev.to/theplugjumbo/nextjs-13-finance-dashboard-template-1p7d)
-- [Dev.to/JS] [How to use JS Gamepad API and Build a Gamepad Tester in 12 minutes](https://dev.to/codingwithadam/how-to-use-js-gamepad-api-and-build-a-gamepad-tester-in-12-minutes-26if)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
