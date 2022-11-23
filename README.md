@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
+- [Dev.to/JS] [The Future of the Crypto Market: Who Will Die and Who Will Thrive?](https://dev.to/nftslab/the-future-of-the-crypto-market-who-will-die-and-who-will-thrive-1kam)
+- [Dev.to/JS] [How to build the most beautiful Todolist with React Native and Socket.io 🎉](https://dev.to/novu/how-to-build-the-most-beautiful-todolist-with-react-native-and-socketio-df5)
+- [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)
 - [Dev.to/JS] [Luxon Timezones and JS-Date interop](https://dev.to/nidomiro/luxon-timezones-and-js-date-interop-5ceg)
+- [Lifehacker] [Black Friday Has a Lot of Good Streaming Deals](https://lifehacker.com/black-friday-has-a-lot-of-good-streaming-deals-1849813362)
 - [Dev.to/JS] [Tech podcasts worth following](https://dev.to/jluterek/tech-podcasts-worth-following-mgc)
 - [Dev.to/JS] [2023: YouTube keyboard shortcuts](https://dev.to/imtousifalam/2023-youtube-keyboard-shortcuts-3gpm)
 - [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)
@@ -36,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
 - [Dev.to/JS] [JavaScript - All You Know about JS](https://dev.to/riyadhossain/javascript-all-you-know-about-js-46gn)
 - [Dev.to/JS] [Image and Video Upload to Cloudinary using NextJs Server-Side, Multer, and Xata Database](https://dev.to/hackmamba/image-and-video-upload-to-cloudinary-using-nextjs-server-side-multer-and-xata-database-3l9f)
-- [Dev.to/JS] [How to check running time in javascript](https://dev.to/yeonseong/how-to-check-time-in-javascript-4i8l)
 - [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)
-- [Dev.to/JS] [Fibonacci Day!](https://dev.to/mattryanmtl/fibonacci-day-2m2k)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
 - [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
 - [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
-- [Lifehacker] [How to Reduce Energy Costs While You&#39;re Cooking](https://lifehacker.com/how-to-reduce-energy-costs-while-youre-cooking-1849809431)
-- [Lifehacker] [6 of the Best Videos to Help You Understand This Housing Market](https://lifehacker.com/6-of-the-best-videos-to-help-you-understand-this-housin-1849808743)
-- [Lifehacker] [Do This to Seamlessly Connect Guests to Your Wifi](https://lifehacker.com/do-this-to-seamlessly-connect-guests-to-your-wifi-1849808406)
-- [Lifehacker] [Identity Theft Protection Is Mostly Worthless](https://lifehacker.com/identity-theft-protection-is-mostly-bullshit-1849808486)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Reduce Energy Costs While You&#39;re Cooking](https://lifehacker.com/how-to-reduce-energy-costs-while-youre-cooking-1849809431)<!-- TECH-POSTS:END -->
 
 ---
 
