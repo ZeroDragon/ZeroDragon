@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)
+- [Dev.to/JS] [Dfpdf](https://dev.to/vsergeev88/dfpdf-18lm)
+- [Lifehacker] [How to Hold a Coworker Accountable When Your Boss Won&#39;t](https://lifehacker.com/how-to-hold-a-coworker-accountable-when-your-boss-wont-1849816741)
+- [Dev.to/JS] [RxJS and React: basics](https://dev.to/crowdozer/rxjs-and-react-basics-5gig)
+- [Dev.to/JS] [JavaScript | Mutability vs Immutability](https://dev.to/moyfdzz/javascript-mutability-vs-immutability-20on)
 - [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
 - [Dev.to/JS] [Tier v0.5.2](https://dev.to/tier/tier-v052-2o61)
 - [Dev.to/JS] [How to create an e-commerce website with React, Cloudinary, and Xata](https://dev.to/hackmamba/how-to-create-an-e-commerce-website-with-react-cloudinary-and-xata-1875)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tech podcasts worth following](https://dev.to/jluterek/tech-podcasts-worth-following-mgc)
 - [Dev.to/JS] [2023: YouTube keyboard shortcuts](https://dev.to/imtousifalam/2023-youtube-keyboard-shortcuts-3gpm)
 - [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)
-- [Dev.to/JS] [Build Time, Runtime, Execution time... What &quot;time&quot; is it in Javascript?](https://dev.to/jenc/build-time-runtime-execution-time-what-time-is-it-in-javascript-42ea)
-- [Dev.to/JS] [Why we don&#39;t have actor model instead of promises in JavaScript &lpar;or Nodejs&rpar;.](https://dev.to/devash/why-we-dont-have-actor-model-instead-of-promises-in-javascript-or-nodejs-2aj7)
 - [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)
-- [Dev.to/JS] [Navigation With Animated HERO Section](https://dev.to/farhadi/navigation-with-animated-hero-section-46fi)
 - [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
 - [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)
 - [Lifehacker] [Stop Following New Finance &#39;Trends&#39;](https://lifehacker.com/stop-following-new-finance-trends-1849809947)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2022](https://lifehacker.com/whats-new-on-disney-in-december-2022-1849811792)
-- [Lifehacker] [How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
-- [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
-- [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)<!-- TECH-POSTS:END -->
 
 ---
 
