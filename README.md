@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
+- [Dev.to/JS] [Tier v0.5.2](https://dev.to/tier/tier-v052-2o61)
+- [Dev.to/JS] [How to create an e-commerce website with React, Cloudinary, and Xata](https://dev.to/hackmamba/how-to-create-an-e-commerce-website-with-react-cloudinary-and-xata-1875)
+- [Lifehacker] [It&#39;s Never Been Easier to Digitize Your Life](https://lifehacker.com/its-never-been-easier-to-digitize-your-life-1849816670)
+- [Dev.to/JS] [How to build an e-commerce website using Next.js, Xata, and Cloudinary.](https://dev.to/hackmamba/how-to-build-an-e-commerce-website-using-nextjs-xata-and-cloudinary-1nnb)
+- [Dev.to/JS] [代码随想录day9 | 双指针总结帖](https://dev.to/986913/dai-ma-sui-xiang-lu-day9-shuang-zhi-zhen-zong-jie-tie-2kn5)
 - [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
 - [Dev.to/JS] [The Future of the Crypto Market: Who Will Die and Who Will Thrive?](https://dev.to/nftslab/the-future-of-the-crypto-market-who-will-die-and-who-will-thrive-1kam)
 - [Dev.to/JS] [How to build the most beautiful Todolist with React Native and Socket.io 🎉](https://dev.to/novu/how-to-build-the-most-beautiful-todolist-with-react-native-and-socketio-df5)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why we don&#39;t have actor model instead of promises in JavaScript &lpar;or Nodejs&rpar;.](https://dev.to/devash/why-we-dont-have-actor-model-instead-of-promises-in-javascript-or-nodejs-2aj7)
 - [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)
 - [Dev.to/JS] [Navigation With Animated HERO Section](https://dev.to/farhadi/navigation-with-animated-hero-section-46fi)
-- [Dev.to/JS] [All You Need to Know About Building a JAMstack Application](https://dev.to/hackmamba/all-you-need-to-know-about-building-a-jamstack-application-45jd)
-- [Dev.to/JS] [Prodentim - Read Reviews, Pros, Cons, Price &amp; Ingredients?](https://dev.to/prodent16450904/prodentim-read-reviews-pros-cons-price-ingredients-ip9)
 - [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
-- [Dev.to/JS] [JavaScript - All You Know about JS](https://dev.to/riyadhossain/javascript-all-you-know-about-js-46gn)
-- [Dev.to/JS] [Image and Video Upload to Cloudinary using NextJs Server-Side, Multer, and Xata Database](https://dev.to/hackmamba/image-and-video-upload-to-cloudinary-using-nextjs-server-side-multer-and-xata-database-3l9f)
 - [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in December 2022](https://lifehacker.com/whats-new-on-disney-in-december-2022-1849811792)
 - [Lifehacker] [How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
 - [Lifehacker] [Your Gmail Account Has Unlimited Addresses](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
-- [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)
-- [Lifehacker] [9 Lies You Were Told About the First Thanksgiving](https://lifehacker.com/9-lies-we-were-told-about-the-first-thanksgiving-1849808182)
-- [Lifehacker] [How to Reduce Energy Costs While You&#39;re Cooking](https://lifehacker.com/how-to-reduce-energy-costs-while-youre-cooking-1849809431)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Whether You Really Need to Pee After Sex, According to Science](https://lifehacker.com/whether-you-really-need-to-pee-after-sex-according-to-1849809823)<!-- TECH-POSTS:END -->
 
 ---
 
