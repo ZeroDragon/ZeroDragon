@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Never Put Essential Oils in Your Humidifier Water &lpar;but Do This Instead&rpar;](https://lifehacker.com/never-put-essential-oils-in-your-humidifier-water-but-1849816664)
+- [Dev.to/JS] [tiktok video without watermark download.](https://dev.to/ttdownloader/tiktok-video-without-watermark-download-38j)
+- [Dev.to/JS] [How To Build An Online Library In Next.js With Xata And Cloudinary](https://dev.to/hackmamba/how-to-build-an-online-library-in-nextjs-with-xata-and-cloudinary-26b4)
+- [Lifehacker] [What&#39;s New on HBO Max in December 2022](https://lifehacker.com/whats-new-on-hbo-max-in-december-2022-1849817318)
+- [Dev.to/JS] [Módulos 04/05 &lpar;Vídeos: 42 à 63&rpar; - TypeScript Zero to Hero](https://dev.to/azure/modulos-0405-videos-42-a-63-typescript-zero-to-hero-4bo4)
+- [Dev.to/JS] [Using hotwired/turbo but patch the DOM vs Replacing](https://dev.to/dperrymorrow/using-hotwiredturbo-but-patch-the-dom-vs-replacing-5176)
+- [Dev.to/JS] [How To Test An Application Running On Node.js Using Mocha and Chai](https://dev.to/itsvinayak/how-to-test-an-application-running-on-nodejs-using-mocha-and-chai-1c5o)
 - [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)
 - [Dev.to/JS] [Dfpdf](https://dev.to/vsergeev88/dfpdf-18lm)
 - [Lifehacker] [How to Hold a Coworker Accountable When Your Boss Won&#39;t](https://lifehacker.com/how-to-hold-a-coworker-accountable-when-your-boss-wont-1849816741)
@@ -35,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build an e-commerce website using Next.js, Xata, and Cloudinary.](https://dev.to/hackmamba/how-to-build-an-e-commerce-website-using-nextjs-xata-and-cloudinary-1nnb)
 - [Dev.to/JS] [代码随想录day9 | 双指针总结帖](https://dev.to/986913/dai-ma-sui-xiang-lu-day9-shuang-zhi-zhen-zong-jie-tie-2kn5)
 - [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
-- [Dev.to/JS] [The Future of the Crypto Market: Who Will Die and Who Will Thrive?](https://dev.to/nftslab/the-future-of-the-crypto-market-who-will-die-and-who-will-thrive-1kam)
-- [Dev.to/JS] [How to build the most beautiful Todolist with React Native and Socket.io 🎉](https://dev.to/novu/how-to-build-the-most-beautiful-todolist-with-react-native-and-socketio-df5)
 - [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)
-- [Dev.to/JS] [Luxon Timezones and JS-Date interop](https://dev.to/nidomiro/luxon-timezones-and-js-date-interop-5ceg)
 - [Lifehacker] [Black Friday Has a Lot of Good Streaming Deals](https://lifehacker.com/black-friday-has-a-lot-of-good-streaming-deals-1849813362)
-- [Dev.to/JS] [Tech podcasts worth following](https://dev.to/jluterek/tech-podcasts-worth-following-mgc)
-- [Dev.to/JS] [2023: YouTube keyboard shortcuts](https://dev.to/imtousifalam/2023-youtube-keyboard-shortcuts-3gpm)
 - [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)
 - [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)
 - [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Subscription Kits to Give Kids This Year](https://lifehacker.com/10-of-the-best-subscription-kits-to-give-kids-this-year-1849812007)
 - [Lifehacker] [Don’t Just Roast Your Turkey, Roulade It](https://lifehacker.com/don-t-just-roast-your-turkey-roulade-it-1849811890)
 - [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)
-- [Lifehacker] [Stop Following New Finance &#39;Trends&#39;](https://lifehacker.com/stop-following-new-finance-trends-1849809947)
-- [Lifehacker] [What&#39;s New on Disney+ in December 2022](https://lifehacker.com/whats-new-on-disney-in-december-2022-1849811792)
-- [Lifehacker] [How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Following New Finance &#39;Trends&#39;](https://lifehacker.com/stop-following-new-finance-trends-1849809947)<!-- TECH-POSTS:END -->
 
 ---
 
