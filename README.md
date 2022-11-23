@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Free Course - Learn: A Full Stack Application with Azure SQL and Prisma](https://dev.to/azure/free-course-learn-a-full-stack-application-with-azure-sql-and-prisma-42kp)
+- [Lifehacker] [What&#39;s New on Paramount+ in December 2022](https://lifehacker.com/whats-new-on-paramount-in-december-2022-1849817476)
+- [Dev.to/JS] [Beginner JavaScript Project: How to reverse a sentence and display it on screen](https://dev.to/codergirl1991/beginner-javascript-project-how-to-reverse-a-sentence-and-display-it-on-screen-4d03)
+- [Dev.to/JS] [Javascript Library Vs Framework | What is the Difference ? | Sacesta Technologies](https://dev.to/sacesta/javascript-library-vs-framework-what-is-the-difference-sacesta-technologies-f83)
+- [Dev.to/JS] [Selection sort](https://dev.to/986913/selection-sort-13p2)
 - [Lifehacker] [Never Put Essential Oils in Your Humidifier Water &lpar;but Do This Instead&rpar;](https://lifehacker.com/never-put-essential-oils-in-your-humidifier-water-but-1849816664)
 - [Dev.to/JS] [tiktok video without watermark download.](https://dev.to/ttdownloader/tiktok-video-without-watermark-download-38j)
 - [Dev.to/JS] [How To Build An Online Library In Next.js With Xata And Cloudinary](https://dev.to/hackmamba/how-to-build-an-online-library-in-nextjs-with-xata-and-cloudinary-26b4)
@@ -31,16 +36,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using hotwired/turbo but patch the DOM vs Replacing](https://dev.to/dperrymorrow/using-hotwiredturbo-but-patch-the-dom-vs-replacing-5176)
 - [Dev.to/JS] [How To Test An Application Running On Node.js Using Mocha and Chai](https://dev.to/itsvinayak/how-to-test-an-application-running-on-nodejs-using-mocha-and-chai-1c5o)
 - [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)
-- [Dev.to/JS] [Dfpdf](https://dev.to/vsergeev88/dfpdf-18lm)
 - [Lifehacker] [How to Hold a Coworker Accountable When Your Boss Won&#39;t](https://lifehacker.com/how-to-hold-a-coworker-accountable-when-your-boss-wont-1849816741)
 - [Dev.to/JS] [RxJS and React: basics](https://dev.to/crowdozer/rxjs-and-react-basics-5gig)
 - [Dev.to/JS] [JavaScript | Mutability vs Immutability](https://dev.to/moyfdzz/javascript-mutability-vs-immutability-20on)
 - [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
 - [Dev.to/JS] [Tier v0.5.2](https://dev.to/tier/tier-v052-2o61)
-- [Dev.to/JS] [How to create an e-commerce website with React, Cloudinary, and Xata](https://dev.to/hackmamba/how-to-create-an-e-commerce-website-with-react-cloudinary-and-xata-1875)
 - [Lifehacker] [It&#39;s Never Been Easier to Digitize Your Life](https://lifehacker.com/its-never-been-easier-to-digitize-your-life-1849816670)
-- [Dev.to/JS] [How to build an e-commerce website using Next.js, Xata, and Cloudinary.](https://dev.to/hackmamba/how-to-build-an-e-commerce-website-using-nextjs-xata-and-cloudinary-1nnb)
-- [Dev.to/JS] [代码随想录day9 | 双指针总结帖](https://dev.to/986913/dai-ma-sui-xiang-lu-day9-shuang-zhi-zhen-zong-jie-tie-2kn5)
 - [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
 - [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)
 - [Lifehacker] [Black Friday Has a Lot of Good Streaming Deals](https://lifehacker.com/black-friday-has-a-lot-of-good-streaming-deals-1849813362)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in December 2022](https://lifehacker.com/whats-new-on-netflix-in-december-2022-1849812600)
 - [Lifehacker] [10 of the Best Subscription Kits to Give Kids This Year](https://lifehacker.com/10-of-the-best-subscription-kits-to-give-kids-this-year-1849812007)
 - [Lifehacker] [Don’t Just Roast Your Turkey, Roulade It](https://lifehacker.com/don-t-just-roast-your-turkey-roulade-it-1849811890)
-- [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)
-- [Lifehacker] [Stop Following New Finance &#39;Trends&#39;](https://lifehacker.com/stop-following-new-finance-trends-1849809947)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Most Banned Books &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/10-of-the-most-banned-books-and-what-we-can-learn-from-1849810897)<!-- TECH-POSTS:END -->
 
 ---
 
