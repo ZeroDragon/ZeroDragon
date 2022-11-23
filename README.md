@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Luxon Timezones and JS-Date interop](https://dev.to/nidomiro/luxon-timezones-and-js-date-interop-5ceg)
+- [Dev.to/JS] [Tech podcasts worth following](https://dev.to/jluterek/tech-podcasts-worth-following-mgc)
+- [Dev.to/JS] [2023: YouTube keyboard shortcuts](https://dev.to/imtousifalam/2023-youtube-keyboard-shortcuts-3gpm)
+- [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)
+- [Dev.to/JS] [Build Time, Runtime, Execution time... What &quot;time&quot; is it in Javascript?](https://dev.to/jenc/build-time-runtime-execution-time-what-time-is-it-in-javascript-42ea)
+- [Dev.to/JS] [Why we don&#39;t have actor model instead of promises in JavaScript &lpar;or Nodejs&rpar;.](https://dev.to/devash/why-we-dont-have-actor-model-instead-of-promises-in-javascript-or-nodejs-2aj7)
+- [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)
 - [Dev.to/JS] [Navigation With Animated HERO Section](https://dev.to/farhadi/navigation-with-animated-hero-section-46fi)
 - [Dev.to/JS] [All You Need to Know About Building a JAMstack Application](https://dev.to/hackmamba/all-you-need-to-know-about-building-a-jamstack-application-45jd)
 - [Dev.to/JS] [Prodentim - Read Reviews, Pros, Cons, Price &amp; Ingredients?](https://dev.to/prodent16450904/prodentim-read-reviews-pros-cons-price-ingredients-ip9)
-- [Lifehacker] [20 of the Silliest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
+- [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
 - [Dev.to/JS] [JavaScript - All You Know about JS](https://dev.to/riyadhossain/javascript-all-you-know-about-js-46gn)
 - [Dev.to/JS] [Image and Video Upload to Cloudinary using NextJs Server-Side, Multer, and Xata Database](https://dev.to/hackmamba/image-and-video-upload-to-cloudinary-using-nextjs-server-side-multer-and-xata-database-3l9f)
 - [Dev.to/JS] [How to check running time in javascript](https://dev.to/yeonseong/how-to-check-time-in-javascript-4i8l)
 - [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)
 - [Dev.to/JS] [Fibonacci Day!](https://dev.to/mattryanmtl/fibonacci-day-2m2k)
-- [Dev.to/JS] [What Technical Skills to Check While Hiring Web Developers?](https://dev.to/jackwil77516601/what-technical-skills-to-check-while-hiring-web-developers-1474)
-- [Dev.to/JS] [Collect emoji feedback on your blog or website](https://dev.to/alexanderschau/collect-emoji-feedback-on-your-blog-or-website-2klg)
-- [Dev.to/JS] [GitHub Actions for NPM packages](https://dev.to/darkmavis1980/github-actions-for-npm-packages-b10)
-- [Dev.to/JS] [How to run all Specs /or selected Spec in Cypress v11.2.0](https://dev.to/kailashpathak7/how-to-run-all-specs-or-selected-spec-in-cypress-v1120-20p6)
-- [Dev.to/JS] [Bucket sort](https://dev.to/wizdomtek/bucket-sort-2m53)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Reduce Energy Costs While You&#39;re Cooking](https://lifehacker.com/how-to-reduce-energy-costs-while-youre-cooking-1849809431)
 - [Lifehacker] [6 of the Best Videos to Help You Understand This Housing Market](https://lifehacker.com/6-of-the-best-videos-to-help-you-understand-this-housin-1849808743)
 - [Lifehacker] [Do This to Seamlessly Connect Guests to Your Wifi](https://lifehacker.com/do-this-to-seamlessly-connect-guests-to-your-wifi-1849808406)
-- [Lifehacker] [Identity Theft Protection Is Mostly Worthless](https://lifehacker.com/identity-theft-protection-is-mostly-bullshit-1849808486)
-- [Lifehacker] [Don’t Roll Out Your Pie Crusts and Do This Instead](https://lifehacker.com/don-t-roll-out-your-pie-crusts-and-do-this-instead-1849808624)
-- [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Identity Theft Protection Is Mostly Worthless](https://lifehacker.com/identity-theft-protection-is-mostly-bullshit-1849808486)<!-- TECH-POSTS:END -->
 
 ---
 
