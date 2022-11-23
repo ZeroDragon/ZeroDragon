@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
+- [Dev.to/JS] [Component Queries](https://dev.to/prasan2421/component-queries-7ko)
 - [Lifehacker] [Yes, You Can Really Have a Heart Attack From Shoveling Snow](https://lifehacker.com/yes-you-can-really-have-a-heart-attack-from-shoveling-1849818044)
 - [Dev.to/JS] [Curry](https://dev.to/986913/curry-3pjk)
 - [Lifehacker] [This Shortcut Makes a Kid-Friendly Version of Your Explicit Apple Music Playlists](https://lifehacker.com/this-shortcut-makes-a-kid-friendly-version-of-your-expl-1849816768)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Build An Online Library In Next.js With Xata And Cloudinary](https://dev.to/hackmamba/how-to-build-an-online-library-in-nextjs-with-xata-and-cloudinary-26b4)
 - [Lifehacker] [What&#39;s New on HBO Max in December 2022](https://lifehacker.com/whats-new-on-hbo-max-in-december-2022-1849817318)
 - [Dev.to/JS] [Módulos 04/05 &lpar;Vídeos: 42 à 63&rpar; - TypeScript Zero to Hero](https://dev.to/azure/modulos-0405-videos-42-a-63-typescript-zero-to-hero-4bo4)
-- [Dev.to/JS] [Using hotwired/turbo but patch the DOM vs Replacing](https://dev.to/dperrymorrow/using-hotwiredturbo-but-patch-the-dom-vs-replacing-5176)
 - [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)
 - [Lifehacker] [How to Hold a Coworker Accountable When Your Boss Won&#39;t](https://lifehacker.com/how-to-hold-a-coworker-accountable-when-your-boss-wont-1849816741)
 - [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)
 - [Lifehacker] [How to Tell If an Ex Is ‘Winter Coating’ You This Holiday Season](https://lifehacker.com/how-to-tell-if-an-ex-is-winter-coating-you-this-holid-1849811113)
 - [Lifehacker] [No, Space Heaters Aren’t Really Cheaper Than Turning Up the Thermostat](https://lifehacker.com/no-space-heaters-aren-t-really-cheaper-than-turning-up-1849810019)
-- [Lifehacker] [Improve Your Safari Browsing Experience With These Automatic Redirects](https://lifehacker.com/improve-your-safari-browsing-experience-with-these-auto-1849812013)
-- [Lifehacker] [What&#39;s New on Netflix in December 2022](https://lifehacker.com/whats-new-on-netflix-in-december-2022-1849812600)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Improve Your Safari Browsing Experience With These Automatic Redirects](https://lifehacker.com/improve-your-safari-browsing-experience-with-these-auto-1849812013)<!-- TECH-POSTS:END -->
 
 ---
 
