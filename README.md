@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get Absolute Position of Element](https://dev.to/ahonerd/get-absolute-position-of-element-382d)
+- [Dev.to/JS] [How to create the app using JSX without React](https://dev.to/devsmitra/how-to-create-the-app-using-jsx-without-react-k08)
+- [Dev.to/JS] [Random Hex Color Code Generator](https://dev.to/wizdomtek/random-hex-color-code-generator-4k0n)
 - [Dev.to/JS] [7 Best Ways to Debug Node.js Application Code](https://dev.to/errsole/7-best-ways-to-debug-nodejs-application-code-151j)
 - [Dev.to/JS] [Ask the Experts – Office Hour - 30 Days of Microsoft Graph Challenge 25 November 3PM GMT](https://dev.to/azure/ask-the-experts-office-hour-30-days-of-microsoft-graph-challenge-25-november-3pm-gmt-1kf3)
 - [Dev.to/JS] [How to Create a Resume Builder App with Xata and Cloudinary Using NextJs](https://dev.to/hackmamba/how-to-create-a-resume-builder-app-with-xata-and-cloudinary-using-nextjs-4e5c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MSBI Training in Chennai](https://dev.to/natasha258/msbi-training-in-chennai-ifa)
 - [Dev.to/JS] [Building an E-commerce Storefront using Nextjs, Cloudinary, and Xata](https://dev.to/hackmamba/building-an-e-commerce-storefront-using-nextjs-cloudinary-and-xata-50pk)
 - [Dev.to/JS] [How to build an Express REST API for a simple blog app](https://dev.to/danielstai/how-to-build-an-express-rest-api-for-a-simple-blog-app-2m6k)
-- [Dev.to/JS] [Feature flags at the edge with Progressively and Vercel &lpar;recipe&rpar;](https://dev.to/mfrachet/feature-flags-at-the-edge-with-progressively-and-vercel-recipe-4hj0)
-- [Dev.to/JS] [Weekly web development resources #125](https://dev.to/vincenius/weekly-web-development-resources-125-2lih)
-- [Dev.to/JS] [Regular Function VS Fat Arrow Function](https://dev.to/kheersagar/regular-function-vs-fat-arrow-function-5c14)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
