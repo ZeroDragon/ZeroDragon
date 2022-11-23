@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Announcing Launch of A Full Stack Course With Bonus Content](https://dev.to/myogeshchavan97/announcing-launch-of-a-full-stack-course-with-bonus-content-2c70)
 - [Dev.to/JS] [代码随想录day8 | 344.Reverse String, 541.Reverse String II, 剑指Offer 05.替换空格, 151.Reverse Words in a String, 剑指Offer58-II.左旋转字符串](https://dev.to/986913/dai-ma-sui-xiang-lu-day8-344reverse-string-541reverse-string-ii-jian-zhi-offer-05ti-huan-kong-ge-151reverse-words-in-a-string-jian-zhi-offer58-iizuo-xuan-zhuan-zi-fu-chuan-1j7l)
 - [Dev.to/JS] [Account Balance Masking - Because Why Not Have More Privacy?](https://dev.to/jdvert/account-balance-masking-because-why-not-have-a-bit-more-privacy-3m30)
 - [Dev.to/JS] [Add Multiple Attribute to an Element using javaScript](https://dev.to/ahonerd/add-multiple-attribute-to-an-element-using-javascript-19lb)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shipping quickly, safely and asynchronously with GraphQL](https://dev.to/drummerjolev/shipping-quickly-safely-and-asynchronously-with-graphql-52np)
 - [Dev.to/JS] [What tool can you suggest to deal with A/B testing?](https://dev.to/pavelkeyzik/what-tool-can-you-suggest-to-deal-with-ab-testing-4g67)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
-- [Dev.to/JS] [Infinite-Scroll And GitHub REST API](https://dev.to/willochs316/infinite-scroll-and-github-rest-api-51c4)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
 - [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)
 - [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
