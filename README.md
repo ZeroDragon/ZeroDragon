@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)
+- [Dev.to/JS] [Fibonacci Day!](https://dev.to/mattryanmtl/fibonacci-day-2m2k)
+- [Dev.to/JS] [What Technical Skills to Check While Hiring Web Developers?](https://dev.to/jackwil77516601/what-technical-skills-to-check-while-hiring-web-developers-1474)
+- [Dev.to/JS] [Collect emoji feedback on your blog or website](https://dev.to/alexanderschau/collect-emoji-feedback-on-your-blog-or-website-2klg)
+- [Dev.to/JS] [need explanation](https://dev.to/amreshg99144629/need-explanation-45l7)
+- [Dev.to/JS] [GitHub Actions for NPM packages](https://dev.to/darkmavis1980/github-actions-for-npm-packages-b10)
+- [Dev.to/JS] [How to run all Specs /or selected Spec in Cypress v11.2.0](https://dev.to/kailashpathak7/how-to-run-all-specs-or-selected-spec-in-cypress-v1120-20p6)
 - [Dev.to/JS] [Bucket sort](https://dev.to/wizdomtek/bucket-sort-2m53)
 - [Dev.to/JS] [Reasons to Choose Cloud Testing for Digital Transformation](https://dev.to/kavithar/reasons-to-choose-cloud-testing-for-digital-transformation-42lp)
 - [Dev.to/JS] [Array](https://dev.to/suantech/array-2m71)
 - [Dev.to/JS] [Why ReactJS Makes a Perfect Choice For Your Next Project](https://dev.to/infiraise/why-reactjs-makes-a-perfect-choice-for-your-next-project-48no)
 - [Dev.to/JS] [Modern eCommerce storefront with Xata and Cloudinary Gallery Widget](https://dev.to/hackmamba/modern-ecommerce-storefront-with-xata-and-cloudinary-gallery-widget-kki)
 - [Dev.to/JS] [How to Handle Async Code in JavaScript](https://dev.to/appsignal/how-to-handle-async-code-in-javascript-3bg3)
-- [Dev.to/JS] [Alpha Testing Program: post-mortem](https://dev.to/wasp/alpha-testing-program-post-mortem-18hl)
-- [Dev.to/JS] [How to run all .specs /selected .spec in Cypress Latest v11.2.0](https://dev.to/kailashpathak7/how-to-run-all-specs-selected-spec-in-cypress-latest-v1120-7m8)
-- [Dev.to/JS] [NFT Landing Pages](https://dev.to/imhamad/nft-landing-pages-1oio)
-- [Dev.to/JS] [Get Absolute Position of Element](https://dev.to/ahonerd/get-absolute-position-of-element-382d)
-- [Dev.to/JS] [How to create the app using JSX without React](https://dev.to/devsmitra/how-to-create-the-app-using-jsx-without-react-k08)
-- [Dev.to/JS] [Random Hex Color Code Generator](https://dev.to/wizdomtek/random-hex-color-code-generator-4k0n)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Identity Theft Protection Is Mostly Worthless](https://lifehacker.com/identity-theft-protection-is-mostly-bullshit-1849808486)
 - [Lifehacker] [Don’t Roll Out Your Pie Crusts and Do This Instead](https://lifehacker.com/don-t-roll-out-your-pie-crusts-and-do-this-instead-1849808624)
 - [Lifehacker] [Stop Paying Full Price for Video Games](https://lifehacker.com/stop-paying-full-price-for-video-games-1849808186)
-- [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)
-- [Lifehacker] [Here’s How Long a Used Car Can Really ‘Last’](https://lifehacker.com/here-s-how-long-a-used-car-can-really-last-1849808094)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Bug Lets You Play &#39;Pokémon Scarlet&#39; and &#39;Violet&#39; Faster Than You Think](https://lifehacker.com/this-bug-lets-you-play-pokemon-scarlet-and-violet-faste-1849807956)<!-- TECH-POSTS:END -->
 
 ---
 
