@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Todo List](https://dev.to/986913/todo-list-4n58)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Dev.to/JS] [Shipping quickly, safely and asynchronously with GraphQL](https://dev.to/drummerjolev/shipping-quickly-safely-and-asynchronously-with-graphql-52np)
 - [Dev.to/JS] [What tool can you suggest to deal with A/B testing?](https://dev.to/pavelkeyzik/what-tool-can-you-suggest-to-deal-with-ab-testing-4g67)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)
 - [Dev.to/JS] [Next.js and React Project Starter CLI with 30+ Plugins🚀](https://dev.to/necatiozmen/nextjs-and-react-project-starter-cli-with-30-plugins-20po)
 - [Lifehacker] [How to Tell If an Ex Is ‘Winter Coating’ You This Holiday Season](https://lifehacker.com/how-to-tell-if-an-ex-is-winter-coating-you-this-holid-1849811113)
-- [Dev.to/JS] [Data Structures and Algorithms - Part II](https://dev.to/jonnynotbravo/data-structures-and-algorithms-part-ii-a90)
 - [Lifehacker] [No, Space Heaters Aren’t Really Cheaper Than Turning Up the Thermostat](https://lifehacker.com/no-space-heaters-aren-t-really-cheaper-than-turning-up-1849810019)
 - [Lifehacker] [Improve Your Safari Browsing Experience With These Automatic Redirects](https://lifehacker.com/improve-your-safari-browsing-experience-with-these-auto-1849812013)
 - [Lifehacker] [What&#39;s New on Netflix in December 2022](https://lifehacker.com/whats-new-on-netflix-in-december-2022-1849812600)
