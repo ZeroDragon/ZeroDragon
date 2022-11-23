@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Best Ways to Debug Node.js Application Code](https://dev.to/errsole/7-best-ways-to-debug-nodejs-application-code-151j)
+- [Dev.to/JS] [Ask the Experts – Office Hour - 30 Days of Microsoft Graph Challenge 25 November 3PM GMT](https://dev.to/azure/ask-the-experts-office-hour-30-days-of-microsoft-graph-challenge-25-november-3pm-gmt-1kf3)
+- [Dev.to/JS] [How to Create a Resume Builder App with Xata and Cloudinary Using NextJs](https://dev.to/hackmamba/how-to-create-a-resume-builder-app-with-xata-and-cloudinary-using-nextjs-4e5c)
 - [Dev.to/JS] [How to Build a Full Stack Content Management System using Next.js, Xata, and Cloudinary](https://dev.to/hackmamba/how-to-build-a-full-stack-content-management-system-using-nextjs-xata-and-cloudinary-iaa)
 - [Dev.to/JS] [Fake Data API](https://dev.to/devsimc/fake-data-api-5123)
 - [Dev.to/JS] [What is PRINCE2 Project Management?](https://dev.to/postwell45/what-is-prince2-project-management-1n02)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Feature flags at the edge with Progressively and Vercel &lpar;recipe&rpar;](https://dev.to/mfrachet/feature-flags-at-the-edge-with-progressively-and-vercel-recipe-4hj0)
 - [Dev.to/JS] [Weekly web development resources #125](https://dev.to/vincenius/weekly-web-development-resources-125-2lih)
 - [Dev.to/JS] [Regular Function VS Fat Arrow Function](https://dev.to/kheersagar/regular-function-vs-fat-arrow-function-5c14)
-- [Dev.to/JS] [Create React App is Dead?](https://dev.to/thevinitgupta/create-react-app-is-dead-3igo)
-- [Dev.to/JS] [Help me rename `typescript-json` package to another one](https://dev.to/samchon/help-me-rename-typescript-json-package-to-another-one-1mpj)
-- [Dev.to/JS] [Build a Shopping Cart with NextJS, Xata and Cloudinary](https://dev.to/hackmamba/build-a-shopping-cart-with-nextjs-xata-and-cloudinary-13k)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
