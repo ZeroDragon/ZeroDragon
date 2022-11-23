@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alpha Testing Program: post-mortem](https://dev.to/wasp/alpha-testing-program-post-mortem-18hl)
+- [Dev.to/JS] [How to run all .specs /selected .spec in Cypress Latest v11.2.0](https://dev.to/kailashpathak7/how-to-run-all-specs-selected-spec-in-cypress-latest-v1120-7m8)
 - [Dev.to/JS] [NFT Landing Pages](https://dev.to/imhamad/nft-landing-pages-1oio)
 - [Dev.to/JS] [Get Absolute Position of Element](https://dev.to/ahonerd/get-absolute-position-of-element-382d)
 - [Dev.to/JS] [How to create the app using JSX without React](https://dev.to/devsmitra/how-to-create-the-app-using-jsx-without-react-k08)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Full Stack Content Management System using Next.js, Xata, and Cloudinary](https://dev.to/hackmamba/how-to-build-a-full-stack-content-management-system-using-nextjs-xata-and-cloudinary-iaa)
 - [Dev.to/JS] [Fake Data API](https://dev.to/devsimc/fake-data-api-5123)
 - [Dev.to/JS] [Building an E-commerce Storefront using Nextjs, Cloudinary, and Xata](https://dev.to/hackmamba/building-an-e-commerce-storefront-using-nextjs-cloudinary-and-xata-50pk)
-- [Dev.to/JS] [How to build an Express REST API for a simple blog app](https://dev.to/danielstai/how-to-build-an-express-rest-api-for-a-simple-blog-app-2m6k)
-- [Dev.to/JS] [Feature flags at the edge with Progressively and Vercel &lpar;recipe&rpar;](https://dev.to/mfrachet/feature-flags-at-the-edge-with-progressively-and-vercel-recipe-4hj0)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
