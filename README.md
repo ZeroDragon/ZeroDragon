@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Gentle Introduction To The ++ Operator In Javascript](https://dev.to/changalancl/a-gentle-introduction-to-the-operator-in-javascript-2782)
+- [Dev.to/JS] [A gentle introduction to Domain Driven Design](https://dev.to/ancyrweb/a-gentle-introduction-to-domain-driven-design-589e)
 - [Dev.to/JS] [Next.js 13 Finance Dashboard Template](https://dev.to/theplugjumbo/nextjs-13-finance-dashboard-template-1p7d)
 - [Dev.to/JS] [How to use JS Gamepad API and Build a Gamepad Tester in 12 minutes](https://dev.to/codingwithadam/how-to-use-js-gamepad-api-and-build-a-gamepad-tester-in-12-minutes-26if)
 - [Dev.to/JS] [Todo List](https://dev.to/986913/todo-list-4n58)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)
 - [Dev.to/JS] [Project: Digital Clock](https://dev.to/salmaab/project-digital-clock-2291)
 - [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
-- [Dev.to/JS] [Going serverless using Cloudflare Workers](https://dev.to/tdaw/going-serverless-using-cloudflare-workers-3o9j)
-- [Dev.to/JS] [Integrating Mastodon with Astro](https://dev.to/lindsaykwardell/integrating-mastodon-with-astro-4na6)
 - [Lifehacker] [Every Samsung Phone Has a Hidden Chihuahua for Some Reason](https://lifehacker.com/every-samsung-phone-has-a-hidden-chihuahua-for-some-rea-1849812864)
 - [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)
 - [Lifehacker] [How to Tell If an Ex Is ‘Winter Coating’ You This Holiday Season](https://lifehacker.com/how-to-tell-if-an-ex-is-winter-coating-you-this-holid-1849811113)
