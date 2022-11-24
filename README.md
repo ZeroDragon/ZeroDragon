@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Perform Web Scraping With JavaScript And Selenium](https://dev.to/lambdatest/how-to-perform-web-scraping-with-javascript-and-selenium-1d0k)
+- [Dev.to/JS] [JavaScript Tutorial for Beginners: Learn JavaScript](https://dev.to/digitech404/javascript-tutorial-for-beginners-learn-javascript-85e)
+- [Dev.to/JS] [Traverse The DOM With Depth First Search Recursion](https://dev.to/gregpetropoulos/traverse-the-dom-with-depth-first-search-recursion-3f79)
+- [Dev.to/JS] [Building a Waitlisting Application in Vue using Xata and Cloudinary](https://dev.to/moerayo/building-a-waitlisting-application-in-vue-using-xata-and-cloudinary-1a4)
+- [Dev.to/JS] [Integrating Salesforce with NodeJs using JsForce](https://dev.to/leelasairam/integrating-salesforce-with-nodejs-using-jsforce-a51)
 - [Dev.to/JS] [Update State After API Response React!!!](https://dev.to/kheersagar/update-state-after-api-response-react-2jo1)
 - [Dev.to/JS] [Create an Invoice Generator using Cloudinary and Xata](https://dev.to/moerayo/create-an-invoice-generator-using-cloudinary-and-xata-484c)
 - [Dev.to/JS] [The JavaScript `Array.push&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-arraypush-method-explained-5d4m)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an In-App Bell Notification in React using Novu](https://dev.to/documatic/building-in-app-bell-notification-in-react-using-novu-325o)
 - [Dev.to/JS] [Nest JS Part 1: Creating Your First API](https://dev.to/nandhakumar/nest-js-part-1-creating-your-first-api-5f2a)
 - [Dev.to/JS] [Build a CV Generator Using Cloudinary and Xata in Vue](https://dev.to/hackmamba/build-a-cv-generator-using-cloudinary-and-xata-in-vue-27pj)
-- [Dev.to/JS] [Configure git user information](https://dev.to/wizdomtek/configure-git-user-information-ehh)
-- [Dev.to/JS] [How to make a logic circuit with Conway&#39;s Game of Life](https://dev.to/swensson/how-to-make-a-logic-circuit-with-conways-game-of-life-1f54)
-- [Dev.to/JS] [Build a Job Board with Next Using Xata and Cloudinary](https://dev.to/hackmamba/build-a-job-board-with-next-using-xata-and-cloudinary-l56)
-- [Dev.to/JS] [Digital Twin simulates a subway train station](https://dev.to/hightopo/digital-twin-simulates-a-subway-train-station-3082)
-- [Dev.to/JS] [Meet the Microsoft Graph Product Group Leaders 28th November 3PM GMT](https://dev.to/azure/meet-the-microsoft-graph-product-group-leaders-28th-november-3pm-gmt-4f20)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
