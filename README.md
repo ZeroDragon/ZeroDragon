@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Colors with Tailwindcss](https://dev.to/blackevilgoblin/colors-with-tailwindcss-8bp)
+- [Dev.to/JS] [How to Create a Product Review Application in Next.js](https://dev.to/hackmamba/how-to-create-a-product-review-application-in-nextjs-1043)
 - [Dev.to/JS] [Documenting JavaScript code with JSDoc](https://dev.to/zsevic/documenting-javascript-code-with-jsdoc-ilf)
 - [Dev.to/JS] [Nodejs Boilerplate with Typescript and Express](https://dev.to/shivamblog/nodejs-boilerplate-with-typescript-and-express-288j)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 3:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-3-try-catch-javascript-syntax-2i31)
 - [Dev.to/JS] [The new beggining](https://dev.to/actionpulse/the-new-beggining-3fi3)
 - [Dev.to/JS] [Part 2:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-2-try-catch-javascript-syntax-15fh)
-- [Dev.to/JS] [Build a Waitlisting Application in Vue using Xata and Cloudinary](https://dev.to/hackmamba/build-a-waitlisting-application-in-vue-using-xata-and-cloudinary-1anf)
-- [Dev.to/JS] [Part 1:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-1-try-catch-javascript-syntax-2307)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
