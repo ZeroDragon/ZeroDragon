@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A dream of scalable and enriched GraphQL subscriptions](https://dev.to/tot_ra/a-dream-of-scalable-and-enriched-graphql-subscriptions-1dlo)
+- [Dev.to/JS] [Scalable &#39;BorderLayout&#39; inside a browser window &lpar;JavaScript&rpar;](https://dev.to/infalliblyfallible/scalable-borderlayout-inside-a-browser-window-javascript-4ac0)
+- [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
+- [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
 - [Dev.to/JS] [Component Queries](https://dev.to/prasan2421/component-queries-7ko)
 - [Lifehacker] [Yes, You Can Really Have a Heart Attack From Shoveling Snow](https://lifehacker.com/yes-you-can-really-have-a-heart-attack-from-shoveling-1849818044)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Selection sort](https://dev.to/986913/selection-sort-13p2)
 - [Lifehacker] [Never Put Essential Oils in Your Humidifier Water &lpar;but Do This Instead&rpar;](https://lifehacker.com/never-put-essential-oils-in-your-humidifier-water-but-1849816664)
 - [Dev.to/JS] [tiktok video without watermark download.](https://dev.to/ttdownloader/tiktok-video-without-watermark-download-38j)
-- [Dev.to/JS] [How To Build An Online Library In Next.js With Xata And Cloudinary](https://dev.to/hackmamba/how-to-build-an-online-library-in-nextjs-with-xata-and-cloudinary-26b4)
 - [Lifehacker] [What&#39;s New on HBO Max in December 2022](https://lifehacker.com/whats-new-on-hbo-max-in-december-2022-1849817318)
-- [Dev.to/JS] [Módulos 04/05 &lpar;Vídeos: 42 à 63&rpar; - TypeScript Zero to Hero](https://dev.to/azure/modulos-0405-videos-42-a-63-typescript-zero-to-hero-4bo4)
 - [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)
 - [Lifehacker] [How to Hold a Coworker Accountable When Your Boss Won&#39;t](https://lifehacker.com/how-to-hold-a-coworker-accountable-when-your-boss-wont-1849816741)
 - [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
 - [Lifehacker] [Every Samsung Phone Has a Hidden Chihuahua for Some Reason](https://lifehacker.com/every-samsung-phone-has-a-hidden-chihuahua-for-some-rea-1849812864)
 - [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)
-- [Lifehacker] [How to Tell If an Ex Is ‘Winter Coating’ You This Holiday Season](https://lifehacker.com/how-to-tell-if-an-ex-is-winter-coating-you-this-holid-1849811113)
-- [Lifehacker] [No, Space Heaters Aren’t Really Cheaper Than Turning Up the Thermostat](https://lifehacker.com/no-space-heaters-aren-t-really-cheaper-than-turning-up-1849810019)
-- [Lifehacker] [Improve Your Safari Browsing Experience With These Automatic Redirects](https://lifehacker.com/improve-your-safari-browsing-experience-with-these-auto-1849812013)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If an Ex Is ‘Winter Coating’ You This Holiday Season](https://lifehacker.com/how-to-tell-if-an-ex-is-winter-coating-you-this-holid-1849811113)<!-- TECH-POSTS:END -->
 
 ---
 
