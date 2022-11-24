@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Documenting JavaScript code with JSDoc](https://dev.to/zsevic/documenting-javascript-code-with-jsdoc-ilf)
+- [Dev.to/JS] [Nodejs Boilerplate with Typescript and Express](https://dev.to/shivamblog/nodejs-boilerplate-with-typescript-and-express-288j)
+- [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
+- [Dev.to/JS] [End of Beginning: Release v1.0.0](https://dev.to/cychu42/end-of-beginning-release-v100-48l0)
+- [Dev.to/JS] [Combining the Command Pattern with State Pattern in JavaScript](https://dev.to/jsmanifest/combining-the-command-pattern-with-state-pattern-in-javascript-2bja)
 - [Dev.to/JS] [Simplifying Flutter App Automation](https://dev.to/bhadmus/simplifying-flutter-app-automation-2abe)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Dev.to/JS] [Wierd JS Behavior 😳](https://dev.to/itsvinayak/wierd-js-behavior-4nie)
@@ -32,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 2:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-2-try-catch-javascript-syntax-15fh)
 - [Dev.to/JS] [Build a Waitlisting Application in Vue using Xata and Cloudinary](https://dev.to/hackmamba/build-a-waitlisting-application-in-vue-using-xata-and-cloudinary-1anf)
 - [Dev.to/JS] [Part 1:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-1-try-catch-javascript-syntax-2307)
-- [Dev.to/JS] [Building an Invoice Generator using Cloudinary and Xata](https://dev.to/hackmamba/building-an-invoice-generator-using-cloudinary-and-xata-2b1d)
-- [Dev.to/JS] [Best 5 Sexy Lingerie Models plus size](https://dev.to/zeeshan71435842/best-5-sexy-lingerie-models-plus-size-2j6g)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
-- [Dev.to/JS] [How To Make Pagination In React Without Using Npm Package?](https://dev.to/musayazlik/how-to-make-pagination-in-react-without-using-npm-package-2fgh)
-- [Dev.to/JS] [How to check if a variable is defined in JavaScript](https://dev.to/collegewap/how-to-check-if-a-variable-is-defined-in-javascript-42p2)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
 - [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)
-- [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
-- [Lifehacker] [Every Samsung Phone Has a Hidden Chihuahua for Some Reason](https://lifehacker.com/every-samsung-phone-has-a-hidden-chihuahua-for-some-rea-1849812864)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)<!-- TECH-POSTS:END -->
 
 ---
 
