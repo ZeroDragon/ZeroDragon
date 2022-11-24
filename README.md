@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Digital Twin simulates a subway train station](https://dev.to/hightopo/digital-twin-simulates-a-subway-train-station-3082)
 - [Dev.to/JS] [Meet the Microsoft Graph Product Group Leaders 28th November 3PM GMT](https://dev.to/azure/meet-the-microsoft-graph-product-group-leaders-28th-november-3pm-gmt-4f20)
 - [Dev.to/JS] [Ceramic and Unstoppable Domains React App](https://dev.to/pfedprog/ceramic-and-unstoppable-domains-react-app-3i97)
 - [Dev.to/JS] [Contributing to open source can open doors to your future programming job](https://dev.to/sleeplessyogi/contributing-to-open-source-can-open-doors-to-your-future-programming-job-1d8p)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [low competition gigs on fiverr](https://dev.to/webireviews/low-competition-gigs-on-fiverr-1aa7)
 - [Dev.to/JS] [eset internet security license key 2022 working](https://dev.to/webireviews/eset-internet-security-license-key-2022-working-2lhb)
 - [Dev.to/JS] [Dummy Proof: Callback Functions](https://dev.to/jennman/dummy-proof-callback-functions-2akl)
-- [Dev.to/JS] [Top Visual Studio Code extensions for React Developers](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-react-developers-3h2a)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
