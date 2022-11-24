@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplifying Flutter App Automation](https://dev.to/bhadmus/simplifying-flutter-app-automation-2abe)
+- [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
+- [Dev.to/JS] [Wierd JS Behavior 😳](https://dev.to/itsvinayak/wierd-js-behavior-4nie)
 - [Dev.to/JS] [Part 4:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-4-try-catch-javascript-syntax-565g)
 - [Dev.to/JS] [Part 3:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-3-try-catch-javascript-syntax-2i31)
 - [Dev.to/JS] [The new beggining](https://dev.to/actionpulse/the-new-beggining-3fi3)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
 - [Dev.to/JS] [How To Make Pagination In React Without Using Npm Package?](https://dev.to/musayazlik/how-to-make-pagination-in-react-without-using-npm-package-2fgh)
 - [Dev.to/JS] [How to check if a variable is defined in JavaScript](https://dev.to/collegewap/how-to-check-if-a-variable-is-defined-in-javascript-42p2)
-- [Dev.to/JS] [Mtech Projects For ECE](https://dev.to/arunprakash142/mtech-projects-for-ece-3fmg)
-- [Dev.to/JS] [Interesting middlewares in Node.js and Express.js API for security](https://dev.to/luizcalaca/interesting-middlewares-in-nodejs-and-expressjs-api-for-security-1elh)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
 - [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)
 - [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
-- [Lifehacker] [Every Samsung Phone Has a Hidden Chihuahua for Some Reason](https://lifehacker.com/every-samsung-phone-has-a-hidden-chihuahua-for-some-rea-1849812864)
-- [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every Samsung Phone Has a Hidden Chihuahua for Some Reason](https://lifehacker.com/every-samsung-phone-has-a-hidden-chihuahua-for-some-rea-1849812864)<!-- TECH-POSTS:END -->
 
 ---
 
