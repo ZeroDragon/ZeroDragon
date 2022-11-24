@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
+- [Dev.to/JS] [How To Make Pagination In React Without Using Npm Package?](https://dev.to/musayazlik/how-to-make-pagination-in-react-without-using-npm-package-2fgh)
+- [Dev.to/JS] [How to check if a variable is defined in JavaScript](https://dev.to/collegewap/how-to-check-if-a-variable-is-defined-in-javascript-42p2)
+- [Dev.to/JS] [Mtech Projects For ECE](https://dev.to/arunprakash142/mtech-projects-for-ece-3fmg)
+- [Dev.to/JS] [Dost Ki Patni Ko Pela](https://dev.to/appjwalamukhi/dost-ki-patni-ko-pela-45ff)
+- [Dev.to/JS] [Interesting middlewares in Node.js and Express.js API for security](https://dev.to/luizcalaca/interesting-middlewares-in-nodejs-and-expressjs-api-for-security-1elh)
+- [Dev.to/JS] [Bhabhi Ko Pela](https://dev.to/appjwalamukhi/bhabhi-ko-pela-2n0b)
+- [Dev.to/JS] [Bua Ki Bhookh Mitayi](https://dev.to/appjwalamukhi/bua-ki-bhookh-mitayi-1ejk)
+- [Dev.to/JS] [Chachi Ko Pela](https://dev.to/appjwalamukhi/chachi-ko-pela-57ea)
+- [Dev.to/JS] [Biwi Ka Sauda](https://dev.to/appjwalamukhi/biwi-ka-sauda-1cb3)
 - [Dev.to/JS] [How To Perform Web Scraping With JavaScript And Selenium](https://dev.to/lambdatest/how-to-perform-web-scraping-with-javascript-and-selenium-1d0k)
 - [Dev.to/JS] [JavaScript Tutorial for Beginners: Learn JavaScript](https://dev.to/digitech404/javascript-tutorial-for-beginners-learn-javascript-85e)
 - [Dev.to/JS] [Traverse The DOM With Depth First Search Recursion](https://dev.to/gregpetropoulos/traverse-the-dom-with-depth-first-search-recursion-3f79)
-- [Dev.to/JS] [Building a Waitlisting Application in Vue using Xata and Cloudinary](https://dev.to/moerayo/building-a-waitlisting-application-in-vue-using-xata-and-cloudinary-1a4)
-- [Dev.to/JS] [Integrating Salesforce with NodeJs using JsForce](https://dev.to/leelasairam/integrating-salesforce-with-nodejs-using-jsforce-a51)
-- [Dev.to/JS] [Update State After API Response React!!!](https://dev.to/kheersagar/update-state-after-api-response-react-2jo1)
-- [Dev.to/JS] [Create an Invoice Generator using Cloudinary and Xata](https://dev.to/moerayo/create-an-invoice-generator-using-cloudinary-and-xata-484c)
-- [Dev.to/JS] [The JavaScript `Array.push&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-arraypush-method-explained-5d4m)
-- [Dev.to/JS] [How to Build Forms in Next Using Xata and Cloudinary](https://dev.to/hackmamba/how-to-build-forms-in-next-using-xata-and-cloudinary-49fo)
-- [Dev.to/JS] [Building an In-App Bell Notification in React using Novu](https://dev.to/documatic/building-in-app-bell-notification-in-react-using-novu-325o)
-- [Dev.to/JS] [Nest JS Part 1: Creating Your First API](https://dev.to/nandhakumar/nest-js-part-1-creating-your-first-api-5f2a)
-- [Dev.to/JS] [Build a CV Generator Using Cloudinary and Xata in Vue](https://dev.to/hackmamba/build-a-cv-generator-using-cloudinary-and-xata-in-vue-27pj)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)
 - [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
 - [Lifehacker] [Every Samsung Phone Has a Hidden Chihuahua for Some Reason](https://lifehacker.com/every-samsung-phone-has-a-hidden-chihuahua-for-some-rea-1849812864)
-- [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)
-- [Lifehacker] [How to Tell If an Ex Is ‘Winter Coating’ You This Holiday Season](https://lifehacker.com/how-to-tell-if-an-ex-is-winter-coating-you-this-holid-1849811113)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Hulu in December 2022](https://lifehacker.com/whats-new-on-hulu-in-december-2022-1849813413)<!-- TECH-POSTS:END -->
 
 ---
 
