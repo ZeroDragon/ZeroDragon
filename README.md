@@ -23,12 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dummy Proof: Callback Functions](https://dev.to/jennman/dummy-proof-callback-functions-2akl)
 - [Dev.to/JS] [Top Visual Studio Code extensions for React Developers](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-react-developers-3h2a)
 - [Dev.to/JS] [Build a full-stack application with Amplication](https://dev.to/asayerio_techblog/build-a-full-stack-application-with-amplication-1o3)
 - [Dev.to/JS] [Inheritance in JavaScript object-oriented programming](https://dev.to/asayerio_techblog/inheritance-in-javascript-object-oriented-programming-18k9)
 - [Dev.to/JS] [Drag-and-drop events in JavaScript](https://dev.to/asayerio_techblog/drag-and-drop-events-in-javascript-44ih)
 - [Dev.to/JS] [I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo](https://dev.to/lewisl9029/i-compared-deploy-speeds-for-reflame-vercel-netlify-cloudflare-pages-on-the-same-repo-4efe)
-- [Dev.to/JS] [Build Facebook clone with REACT JS AND THE MERN STACK 2022 Download For Free](https://dev.to/provjd/build-facebook-clone-with-react-js-and-the-mern-stack-2022-download-for-free-3d35)
 - [Dev.to/JS] [Is React going anywhere?](https://dev.to/infoxicator/is-react-going-anywhere-6ji)
 - [Dev.to/JS] [A dream of scalable and enriched GraphQL subscriptions](https://dev.to/tot_ra/a-dream-of-scalable-and-enriched-graphql-subscriptions-1dlo)
 - [Dev.to/JS] [Scalable &#39;BorderLayout&#39; inside a browser window &lpar;JavaScript&rpar;](https://dev.to/infalliblyfallible/scalable-borderlayout-inside-a-browser-window-javascript-4ac0)
