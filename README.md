@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day10 | 232.Implement Queue using Stacks , 225. Implement Stack using Queues](https://dev.to/986913/dai-ma-sui-xiang-lu-day10-232implement-queue-using-stacks-225-implement-stack-using-queues-4d6e)
+- [Dev.to/JS] [How to Create a Product Catalog using Cloudinary and Xata.io in Next.js](https://dev.to/hackmamba/how-to-create-a-product-catalog-using-cloudinary-and-xataio-in-nextjs-57la)
+- [Dev.to/JS] [What is title generator why Viral mirrors among top 10 title generator these days](https://dev.to/corptocorp/what-is-title-generator-why-viral-mirrors-among-top-10-title-generator-these-days-2nic)
 - [Dev.to/JS] [Colors with Tailwindcss](https://dev.to/blackevilgoblin/colors-with-tailwindcss-8bp)
 - [Dev.to/JS] [How to Create a Product Review Application in Next.js](https://dev.to/hackmamba/how-to-create-a-product-review-application-in-nextjs-1043)
 - [Dev.to/JS] [Documenting JavaScript code with JSDoc](https://dev.to/zsevic/documenting-javascript-code-with-jsdoc-ilf)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Dev.to/JS] [Wierd JS Behavior 😳](https://dev.to/itsvinayak/wierd-js-behavior-4nie)
 - [Dev.to/JS] [Part 4:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-4-try-catch-javascript-syntax-565g)
-- [Dev.to/JS] [Part 3:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-3-try-catch-javascript-syntax-2i31)
-- [Dev.to/JS] [The new beggining](https://dev.to/actionpulse/the-new-beggining-3fi3)
-- [Dev.to/JS] [Part 2:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-2-try-catch-javascript-syntax-15fh)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
