@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 4:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-4-try-catch-javascript-syntax-565g)
+- [Dev.to/JS] [Part 3:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-3-try-catch-javascript-syntax-2i31)
+- [Dev.to/JS] [The new beggining](https://dev.to/actionpulse/the-new-beggining-3fi3)
+- [Dev.to/JS] [Part 2:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-2-try-catch-javascript-syntax-15fh)
 - [Dev.to/JS] [Build a Waitlisting Application in Vue using Xata and Cloudinary](https://dev.to/hackmamba/build-a-waitlisting-application-in-vue-using-xata-and-cloudinary-1anf)
 - [Dev.to/JS] [Part 1:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-1-try-catch-javascript-syntax-2307)
 - [Dev.to/JS] [Building an Invoice Generator using Cloudinary and Xata](https://dev.to/hackmamba/building-an-invoice-generator-using-cloudinary-and-xata-2b1d)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to check if a variable is defined in JavaScript](https://dev.to/collegewap/how-to-check-if-a-variable-is-defined-in-javascript-42p2)
 - [Dev.to/JS] [Mtech Projects For ECE](https://dev.to/arunprakash142/mtech-projects-for-ece-3fmg)
 - [Dev.to/JS] [Interesting middlewares in Node.js and Express.js API for security](https://dev.to/luizcalaca/interesting-middlewares-in-nodejs-and-expressjs-api-for-security-1elh)
-- [Dev.to/JS] [How To Perform Web Scraping With JavaScript And Selenium](https://dev.to/lambdatest/how-to-perform-web-scraping-with-javascript-and-selenium-1d0k)
-- [Dev.to/JS] [JavaScript Tutorial for Beginners: Learn JavaScript](https://dev.to/digitech404/javascript-tutorial-for-beginners-learn-javascript-85e)
-- [Dev.to/JS] [Traverse The DOM With Depth First Search Recursion](https://dev.to/gregpetropoulos/traverse-the-dom-with-depth-first-search-recursion-3f79)
-- [Dev.to/JS] [Integrating Salesforce with NodeJs using JsForce](https://dev.to/leelasairam/integrating-salesforce-with-nodejs-using-jsforce-a51)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
