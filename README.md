@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Waitlisting Application in Vue using Xata and Cloudinary](https://dev.to/hackmamba/build-a-waitlisting-application-in-vue-using-xata-and-cloudinary-1anf)
+- [Dev.to/JS] [Part 1:- Try Catch javascript Syntax](https://dev.to/akshdesai1/part-1-try-catch-javascript-syntax-2307)
+- [Dev.to/JS] [Building an Invoice Generator using Cloudinary and Xata](https://dev.to/hackmamba/building-an-invoice-generator-using-cloudinary-and-xata-2b1d)
 - [Dev.to/JS] [Best 5 Sexy Lingerie Models plus size](https://dev.to/zeeshan71435842/best-5-sexy-lingerie-models-plus-size-2j6g)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
 - [Dev.to/JS] [How To Make Pagination In React Without Using Npm Package?](https://dev.to/musayazlik/how-to-make-pagination-in-react-without-using-npm-package-2fgh)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Perform Web Scraping With JavaScript And Selenium](https://dev.to/lambdatest/how-to-perform-web-scraping-with-javascript-and-selenium-1d0k)
 - [Dev.to/JS] [JavaScript Tutorial for Beginners: Learn JavaScript](https://dev.to/digitech404/javascript-tutorial-for-beginners-learn-javascript-85e)
 - [Dev.to/JS] [Traverse The DOM With Depth First Search Recursion](https://dev.to/gregpetropoulos/traverse-the-dom-with-depth-first-search-recursion-3f79)
-- [Dev.to/JS] [Building a Waitlisting Application in Vue using Xata and Cloudinary](https://dev.to/moerayo/building-a-waitlisting-application-in-vue-using-xata-and-cloudinary-1a4)
 - [Dev.to/JS] [Integrating Salesforce with NodeJs using JsForce](https://dev.to/leelasairam/integrating-salesforce-with-nodejs-using-jsforce-a51)
-- [Dev.to/JS] [Update State After API Response React!!!](https://dev.to/kheersagar/update-state-after-api-response-react-2jo1)
-- [Dev.to/JS] [Create an Invoice Generator using Cloudinary and Xata](https://dev.to/moerayo/create-an-invoice-generator-using-cloudinary-and-xata-484c)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
