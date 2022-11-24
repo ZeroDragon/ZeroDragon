@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [low competition gigs on fiverr](https://dev.to/webireviews/low-competition-gigs-on-fiverr-1aa7)
 - [Dev.to/JS] [eset internet security license key 2022 working](https://dev.to/webireviews/eset-internet-security-license-key-2022-working-2lhb)
 - [Dev.to/JS] [Dummy Proof: Callback Functions](https://dev.to/jennman/dummy-proof-callback-functions-2akl)
 - [Dev.to/JS] [Top Visual Studio Code extensions for React Developers](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-react-developers-3h2a)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
 - [Dev.to/JS] [Component Queries](https://dev.to/prasan2421/component-queries-7ko)
 - [Lifehacker] [Yes, You Can Really Have a Heart Attack From Shoveling Snow](https://lifehacker.com/yes-you-can-really-have-a-heart-attack-from-shoveling-1849818044)
-- [Dev.to/JS] [Curry](https://dev.to/986913/curry-3pjk)
 - [Lifehacker] [This Shortcut Makes a Kid-Friendly Version of Your Explicit Apple Music Playlists](https://lifehacker.com/this-shortcut-makes-a-kid-friendly-version-of-your-expl-1849816768)
 - [Lifehacker] [The Best Way to Budget When Your Income Fluctuates](https://lifehacker.com/the-best-way-to-budget-when-your-income-fluctuates-1849817240)
 - [Lifehacker] [What&#39;s New on Paramount+ in December 2022](https://lifehacker.com/whats-new-on-paramount-in-december-2022-1849817476)
