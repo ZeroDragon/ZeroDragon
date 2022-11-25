@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Docker Compose, Hello World](https://dev.to/davidsabine/docker-compose-hello-world-1p14)
 - [Dev.to/JS] [?? in Javascript -Nullish coalescing operator-](https://dev.to/yeonseong/-in-javascript-nullish-coalescing-operator--4cgd)
 - [Dev.to/JS] [Positioning notification messages with accessibility in mind](https://dev.to/codepo8/positioning-notification-messages-with-accessibility-in-mind-nlf)
 - [Dev.to/JS] [Web Scraping Google Events Results](https://dev.to/darshan0_1/web-scraping-google-events-results-36lp)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript : var, let, const.](https://dev.to/manthanank/javascript-var-let-const-5f53)
 - [Dev.to/JS] [CAN IA WRITE MY DOCUMENTACION OF MY CODE?](https://dev.to/elianxd55/can-ia-write-my-documentacion-of-my-code-1dip)
 - [Dev.to/JS] [What&#39;s new in Node.js version 19?](https://dev.to/devsmitra/whats-new-in-nodejs-version-19-o9j)
-- [Dev.to/JS] [Christmas Brownies Recipe: A Beautiful And Healthy Food For Christmas- Global Continent](https://dev.to/scotttlin1/christmas-brownies-recipe-a-beautiful-and-healthy-food-for-christmas-global-continent-7mh)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
