@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [?? in Javascript -Nullish coalescing operator-](https://dev.to/yeonseong/-in-javascript-nullish-coalescing-operator--4cgd)
+- [Dev.to/JS] [Positioning notification messages with accessibility in mind](https://dev.to/codepo8/positioning-notification-messages-with-accessibility-in-mind-nlf)
 - [Dev.to/JS] [Web Scraping Google Events Results](https://dev.to/darshan0_1/web-scraping-google-events-results-36lp)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Dev.to/JS] [Set Up ESLint and Prettier in a React TypeScript App &lpar;2022&rpar;](https://dev.to/eshankvaish/set-up-eslint-and-prettier-in-a-react-typescript-app-2022-29c9)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s new in Node.js version 19?](https://dev.to/devsmitra/whats-new-in-nodejs-version-19-o9j)
 - [Dev.to/JS] [Christmas Brownies Recipe: A Beautiful And Healthy Food For Christmas- Global Continent](https://dev.to/scotttlin1/christmas-brownies-recipe-a-beautiful-and-healthy-food-for-christmas-global-continent-7mh)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
-- [Dev.to/JS] [I thought I&#39;d share two dev wallpapers with you](https://dev.to/danwalsh/i-thought-id-share-two-dev-wallpapers-with-you-10eg)
-- [Dev.to/JS] [Minimal TypeScript Crash Course For React - With Interactive Code Exercises](https://dev.to/jkettmann/minimal-typescript-crash-course-for-react-with-interactive-code-exercises-43cl)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
