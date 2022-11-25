@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ADD Meta tag in react app](https://dev.to/hat52/add-meta-tag-in-react-app-526b)
+- [Dev.to/JS] [Svelte Script Code Execution Order](https://dev.to/idosius/svelte-script-code-execution-order-4n1m)
+- [Dev.to/JS] [8 Must-Have Strapi Plugins for Your Corporate Website](https://dev.to/strapi/8-must-have-strapi-plugins-for-your-corporate-website-5aph)
+- [Dev.to/JS] [State of the Developer Nation 23rd edition: the fall of web frameworks, coding languages, blockchain, and more!](https://dev.to/slashdatahq/state-of-the-developer-nation-23rd-edition-the-fall-of-web-frameworks-coding-languages-blockchain-and-more-5gn6)
 - [Dev.to/JS] [Angular Addicts Issue #7: Standalone components and routers, Native Federation 1.0 &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-7-standalone-components-and-routers-native-federation-10-more-53kb)
 - [Dev.to/JS] [Build an API in less than 3 minutes](https://dev.to/mitchiemt11/build-an-api-in-less-than-3-minutes-b21)
 - [Dev.to/JS] [Engine 3D visualization system based on HTML5 WebGL](https://dev.to/hightopo/engine-3d-visualization-system-based-on-html5-webgl-lo7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [should we scan yarn.lock files inside node_modules for CVEs?](https://dev.to/monika_kl_c18cabe9c2b01b5/should-we-scan-yarnlock-files-inside-nodemodules-for-cves-3h23)
 - [Dev.to/JS] [Ecommerce Website Development](https://dev.to/accoretech/ecommerce-website-development-70c)
 - [Dev.to/JS] [SAFe 5 Agilist Exam Study Guide &lpar;5.1&rpar; | PDF](https://dev.to/cheyshasid/safe-5-agilist-exam-study-guide-51-pdf-53fn)
-- [Dev.to/JS] [Responsive Sidebar Navigation in css](https://dev.to/shubhamtiwari909/responsive-sidebar-navigation-in-css-500k)
-- [Dev.to/JS] [What Are The Most Important Benefits of Sunscreen](https://dev.to/onlineitpark/what-are-the-most-important-benefits-of-sunscreen-4ipf)
-- [Dev.to/JS] [Create an Observable Object using Proxy](https://dev.to/dperrymorrow/create-an-observable-object-using-proxy-3h62)
-- [Dev.to/JS] [Win79uk](https://dev.to/win79uk/win79uk-5967)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
