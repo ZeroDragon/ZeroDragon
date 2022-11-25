@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Scraping Google Events Results](https://dev.to/darshan0_1/web-scraping-google-events-results-36lp)
+- [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
+- [Dev.to/JS] [Set Up ESLint and Prettier in a React TypeScript App &lpar;2022&rpar;](https://dev.to/eshankvaish/set-up-eslint-and-prettier-in-a-react-typescript-app-2022-29c9)
+- [Dev.to/JS] [Migrating my website from Gatsby to Astro](https://dev.to/flashblaze/migrating-my-website-from-gatsby-to-astro-2ej5)
+- [Dev.to/JS] [Understanding this in JavaScrip](https://dev.to/w3tsa/understanding-this-in-javascrip-3c7l)
+- [Dev.to/JS] [-10% On Programming Flashcards](https://dev.to/tomaszs2/-10-on-programming-flashcards-71e)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Dev.to/JS] [useState&lpar;&rpar; Hook in React](https://dev.to/mrityunjaypalled/usestate-hook-in-react-1l6f)
 - [Dev.to/JS] [JavaScript : var, let, const.](https://dev.to/manthanank/javascript-var-let-const-5f53)
@@ -32,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
 - [Dev.to/JS] [I thought I&#39;d share two dev wallpapers with you](https://dev.to/danwalsh/i-thought-id-share-two-dev-wallpapers-with-you-10eg)
 - [Dev.to/JS] [Minimal TypeScript Crash Course For React - With Interactive Code Exercises](https://dev.to/jkettmann/minimal-typescript-crash-course-for-react-with-interactive-code-exercises-43cl)
-- [Dev.to/JS] [Fetch Current Script Tag Attributes in Javascript](https://dev.to/clavinjune/fetch-current-script-tag-attributes-in-javascript-3o5o)
-- [Dev.to/JS] [Using RxJS/BLoC as a state management solution for React](https://dev.to/karimelghamry/using-rxjsbloc-as-a-state-management-solution-for-react-3cla)
-- [Dev.to/JS] [Decoding URL params with special characters](https://dev.to/debug_dave/decoding-url-params-with-special-characters-2cbj)
-- [Dev.to/JS] [My React Native Journey](https://dev.to/ponikar/my-react-native-experience-2pcm)
-- [Dev.to/JS] [Passing emails with special characters as a URL query](https://dev.to/debug_dave/passing-emails-with-special-characters-as-a-url-query-267a)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
 - [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
-- [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
-- [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)<!-- TECH-POSTS:END -->
 
 ---
 
