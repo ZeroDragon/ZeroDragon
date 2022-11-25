@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I thought I&#39;d share two dev wallpapers with you](https://dev.to/danwalsh/i-thought-id-share-two-dev-wallpapers-with-you-10eg)
 - [Dev.to/JS] [Minimal TypeScript Crash Course For React - With Interactive Code Exercises](https://dev.to/jkettmann/minimal-typescript-crash-course-for-react-with-interactive-code-exercises-43cl)
+- [Dev.to/JS] [Fetch Current Script Tag Attributes in Javascript](https://dev.to/clavinjune/fetch-current-script-tag-attributes-in-javascript-3o5o)
 - [Dev.to/JS] [Using RxJS/BLoC as a state management solution for React](https://dev.to/karimelghamry/using-rxjsbloc-as-a-state-management-solution-for-react-3cla)
 - [Dev.to/JS] [Decoding URL params with special characters](https://dev.to/debug_dave/decoding-url-params-with-special-characters-2cbj)
 - [Dev.to/JS] [My React Native Journey](https://dev.to/ponikar/my-react-native-experience-2pcm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This Week @ Grafbase - Nov 25](https://dev.to/grafbase/this-week-grafbase-nov-25-149i)
 - [Dev.to/JS] [Unlock Multiple Revenue Streams in Web3 Through Dynamic NFTs - Revise Network](https://dev.to/web3blob/unlock-multiple-revenue-streams-in-web3-through-dynamic-nfts-revise-network-1nke)
 - [Dev.to/JS] [Unlock Multiple Revenue Streams in Web3 Through Dynamic NFTs - Revise Network](https://dev.to/anil_from_revise/unlock-multiple-revenue-streams-in-web3-through-dynamic-nfts-revise-network-58i3)
-- [Dev.to/JS] [Add meta tag in react app](https://dev.to/hat52/add-meta-tag-in-react-app-526b)
-- [Dev.to/JS] [Svelte Script Code Execution Order](https://dev.to/idosius/svelte-script-code-execution-order-4n1m)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
