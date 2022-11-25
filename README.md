@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quais são os tipos primitivos em Javascript](https://dev.to/lazarocontato/quais-sao-os-tipos-primitivos-em-javascript-347a)
+- [Dev.to/JS] [Afinal, o que é Stack Overflow?](https://dev.to/hiago75/afinal-o-que-e-stack-overflow-4bpn)
 - [Dev.to/JS] [What it feels working in a startup &lpar;Honest Review&rpar; ahead](https://dev.to/enyelsequeira/what-it-feels-working-in-a-startup-honest-review-ahead-194g)
 - [Dev.to/JS] [How to import code editor in web](https://dev.to/arnosolo/how-to-import-code-editor-in-web-21dj)
 - [Dev.to/JS] [代码随想录day10 | 232.Implement Queue using Stacks , 225. Implement Stack using Queues](https://dev.to/986913/dai-ma-sui-xiang-lu-day10-232implement-queue-using-stacks-225-implement-stack-using-queues-4d6e)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nodejs Boilerplate with Typescript and Express](https://dev.to/shivamblog/nodejs-boilerplate-with-typescript-and-express-288j)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Dev.to/JS] [End of Beginning: Release v1.0.0](https://dev.to/cychu42/end-of-beginning-release-v100-48l0)
-- [Dev.to/JS] [Combining the Command Pattern with State Pattern in JavaScript](https://dev.to/jsmanifest/combining-the-command-pattern-with-state-pattern-in-javascript-2bja)
-- [Dev.to/JS] [Simplifying Flutter App Automation](https://dev.to/bhadmus/simplifying-flutter-app-automation-2abe)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
