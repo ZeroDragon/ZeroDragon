@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
+- [Dev.to/JS] [useState&lpar;&rpar; Hook in React](https://dev.to/mrityunjaypalled/usestate-hook-in-react-1l6f)
 - [Dev.to/JS] [JavaScript : var, let, const.](https://dev.to/manthanank/javascript-var-let-const-5f53)
 - [Dev.to/JS] [CAN IA WRITE MY DOCUMENTACION OF MY CODE?](https://dev.to/elianxd55/can-ia-write-my-documentacion-of-my-code-1dip)
 - [Dev.to/JS] [What&#39;s new in Node.js version 19?](https://dev.to/devsmitra/whats-new-in-nodejs-version-19-o9j)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Decoding URL params with special characters](https://dev.to/debug_dave/decoding-url-params-with-special-characters-2cbj)
 - [Dev.to/JS] [My React Native Journey](https://dev.to/ponikar/my-react-native-experience-2pcm)
 - [Dev.to/JS] [Passing emails with special characters as a URL query](https://dev.to/debug_dave/passing-emails-with-special-characters-as-a-url-query-267a)
-- [Dev.to/JS] [Passwordless Authentication of the users](https://dev.to/shreyvijayvargiya/passwordless-authentication-of-the-users-57mh)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
-- [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
-- [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)<!-- TECH-POSTS:END -->
 
 ---
 
