@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript : var, let, const.](https://dev.to/manthanank/javascript-var-let-const-5f53)
+- [Dev.to/JS] [CAN IA WRITE MY DOCUMENTACION OF MY CODE?](https://dev.to/elianxd55/can-ia-write-my-documentacion-of-my-code-1dip)
+- [Dev.to/JS] [What&#39;s new in Node.js version 19?](https://dev.to/devsmitra/whats-new-in-nodejs-version-19-o9j)
+- [Dev.to/JS] [Christmas Brownies Recipe: A Beautiful And Healthy Food For Christmas- Global Continent](https://dev.to/scotttlin1/christmas-brownies-recipe-a-beautiful-and-healthy-food-for-christmas-global-continent-7mh)
+- [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
 - [Dev.to/JS] [I thought I&#39;d share two dev wallpapers with you](https://dev.to/danwalsh/i-thought-id-share-two-dev-wallpapers-with-you-10eg)
 - [Dev.to/JS] [Minimal TypeScript Crash Course For React - With Interactive Code Exercises](https://dev.to/jkettmann/minimal-typescript-crash-course-for-react-with-interactive-code-exercises-43cl)
 - [Dev.to/JS] [Fetch Current Script Tag Attributes in Javascript](https://dev.to/clavinjune/fetch-current-script-tag-attributes-in-javascript-3o5o)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My React Native Journey](https://dev.to/ponikar/my-react-native-experience-2pcm)
 - [Dev.to/JS] [Passing emails with special characters as a URL query](https://dev.to/debug_dave/passing-emails-with-special-characters-as-a-url-query-267a)
 - [Dev.to/JS] [Passwordless Authentication of the users](https://dev.to/shreyvijayvargiya/passwordless-authentication-of-the-users-57mh)
-- [Dev.to/JS] [React Black Friday Deals - 2022](https://dev.to/sebastienlorber/react-black-friday-deals-2022-5e7p)
-- [Dev.to/JS] [This Week @ Grafbase - Nov 25](https://dev.to/grafbase/this-week-grafbase-nov-25-149i)
-- [Dev.to/JS] [Unlock Multiple Revenue Streams in Web3 Through Dynamic NFTs - Revise Network](https://dev.to/web3blob/unlock-multiple-revenue-streams-in-web3-through-dynamic-nfts-revise-network-1nke)
-- [Dev.to/JS] [Unlock Multiple Revenue Streams in Web3 Through Dynamic NFTs - Revise Network](https://dev.to/anil_from_revise/unlock-multiple-revenue-streams-in-web3-through-dynamic-nfts-revise-network-58i3)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
 - [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)
 - [Lifehacker] [10 Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/10-common-thanksgiving-stains-and-how-to-remove-them-1849813939)
-- [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)
-- [Lifehacker] [These Easy Batch-Baked Eggs Are Perfect for Thanksgiving Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Add a Wee Emoji to Your iPhone’s Clock, Because You Deserve a Little Happiness](https://lifehacker.com/add-a-wee-emoji-to-your-iphone-s-clock-because-you-des-1849813558)<!-- TECH-POSTS:END -->
 
 ---
 
