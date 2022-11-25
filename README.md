@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My React Native Journey](https://dev.to/ponikar/my-react-native-experience-2pcm)
 - [Dev.to/JS] [Passing emails with special characters as a URL query](https://dev.to/debug_dave/passing-emails-with-special-characters-as-a-url-query-267a)
 - [Dev.to/JS] [Passwordless Authentication of the users](https://dev.to/shreyvijayvargiya/passwordless-authentication-of-the-users-57mh)
 - [Dev.to/JS] [React Black Friday Deals - 2022](https://dev.to/sebastienlorber/react-black-friday-deals-2022-5e7p)
 - [Dev.to/JS] [This Week @ Grafbase - Nov 25](https://dev.to/grafbase/this-week-grafbase-nov-25-149i)
 - [Dev.to/JS] [Unlock Multiple Revenue Streams in Web3 Through Dynamic NFTs - Revise Network](https://dev.to/web3blob/unlock-multiple-revenue-streams-in-web3-through-dynamic-nfts-revise-network-1nke)
 - [Dev.to/JS] [Unlock Multiple Revenue Streams in Web3 Through Dynamic NFTs - Revise Network](https://dev.to/anil_from_revise/unlock-multiple-revenue-streams-in-web3-through-dynamic-nfts-revise-network-58i3)
-- [Dev.to/JS] [ADD Meta tag in react app](https://dev.to/hat52/add-meta-tag-in-react-app-526b)
+- [Dev.to/JS] [Add meta tag in react app](https://dev.to/hat52/add-meta-tag-in-react-app-526b)
 - [Dev.to/JS] [Svelte Script Code Execution Order](https://dev.to/idosius/svelte-script-code-execution-order-4n1m)
 - [Dev.to/JS] [8 Must-Have Strapi Plugins for Your Corporate Website](https://dev.to/strapi/8-must-have-strapi-plugins-for-your-corporate-website-5aph)
 - [Dev.to/JS] [State of the Developer Nation 23rd edition: the fall of web frameworks, coding languages, blockchain, and more!](https://dev.to/slashdatahq/state-of-the-developer-nation-23rd-edition-the-fall-of-web-frameworks-coding-languages-blockchain-and-more-5gn6)
 - [Dev.to/JS] [Angular Addicts Issue #7: Standalone components and routers, Native Federation 1.0 &amp; more](https://dev.to/gergelyszerovay/angular-addicts-issue-7-standalone-components-and-routers-native-federation-10-more-53kb)
-- [Dev.to/JS] [Build an API in less than 3 minutes](https://dev.to/mitchiemt11/build-an-api-in-less-than-3-minutes-b21)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
