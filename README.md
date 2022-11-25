@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create an Observable Object using Proxy](https://dev.to/dperrymorrow/create-an-observable-object-using-proxy-3h62)
 - [Dev.to/JS] [Win79uk](https://dev.to/win79uk/win79uk-5967)
 - [Dev.to/JS] [Why default values for environment variables should be avoided](https://dev.to/clickpesa/why-default-values-for-environment-variables-should-be-avoided-1n1i)
 - [Dev.to/JS] [Quais são os tipos primitivos em Javascript](https://dev.to/lazarocontato/quais-sao-os-tipos-primitivos-em-javascript-347a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is title generator why Viral mirrors among top 10 title generator these days](https://dev.to/corptocorp/what-is-title-generator-why-viral-mirrors-among-top-10-title-generator-these-days-2nic)
 - [Dev.to/JS] [Colors with Tailwindcss](https://dev.to/blackevilgoblin/colors-with-tailwindcss-8bp)
 - [Dev.to/JS] [How to Create a Product Review Application in Next.js](https://dev.to/hackmamba/how-to-create-a-product-review-application-in-nextjs-1043)
-- [Dev.to/JS] [Documenting JavaScript code with JSDoc](https://dev.to/zsevic/documenting-javascript-code-with-jsdoc-ilf)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
