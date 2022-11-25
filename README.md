@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day11 | 20.Valid Parentheses, 1047. Remove All Adjacent Duplicates In String, 150. Evaluate Reverse Polish Notation](https://dev.to/986913/dai-ma-sui-xiang-lu-day11-20valid-parentheses-1047-remove-all-adjacent-duplicates-in-string-150-evaluate-reverse-polish-notation-ii2)
+- [Dev.to/JS] [Josh Comeau - CSS for JavaScript Developers](https://dev.to/provjd/josh-comeau-css-for-javascript-developers-bpi)
+- [Dev.to/JS] [Write to the console.log with styles from Blazor](https://dev.to/kasuken/write-to-the-consolelog-with-styles-from-blazor-1937)
 - [Dev.to/JS] [Why TypeScript?](https://dev.to/1solation/why-typescript-11gj)
 - [Dev.to/JS] [Build a Timeline Tracker with Cloudinary, Xata, and Next.js](https://dev.to/hackmamba/build-a-timeline-tracker-with-cloudinary-xata-and-nextjs-3p4k)
 - [Dev.to/JS] [How to make your library tree-shakable](https://dev.to/leduc1901/how-to-make-your-library-tree-shakable-1iib)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Dev.to/JS] [Set Up ESLint and Prettier in a React TypeScript App &lpar;2022&rpar;](https://dev.to/eshankvaish/set-up-eslint-and-prettier-in-a-react-typescript-app-2022-29c9)
 - [Dev.to/JS] [Migrating my website from Gatsby to Astro](https://dev.to/flashblaze/migrating-my-website-from-gatsby-to-astro-2ej5)
-- [Dev.to/JS] [Understanding this in JavaScrip](https://dev.to/w3tsa/understanding-this-in-javascrip-3c7l)
-- [Dev.to/JS] [-10% On Programming Flashcards](https://dev.to/tomaszs2/-10-on-programming-flashcards-71e)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
-- [Dev.to/JS] [useState&lpar;&rpar; Hook in React](https://dev.to/mrityunjaypalled/usestate-hook-in-react-1l6f)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
