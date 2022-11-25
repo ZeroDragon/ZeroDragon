@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why TypeScript?](https://dev.to/1solation/why-typescript-11gj)
+- [Dev.to/JS] [Build a Timeline Tracker with Cloudinary, Xata, and Next.js](https://dev.to/hackmamba/build-a-timeline-tracker-with-cloudinary-xata-and-nextjs-3p4k)
 - [Dev.to/JS] [How to make your library tree-shakable](https://dev.to/leduc1901/how-to-make-your-library-tree-shakable-1iib)
 - [Dev.to/JS] [Docker Compose, Hello World](https://dev.to/davidsabine/docker-compose-hello-world-1p14)
 - [Dev.to/JS] [?? in Javascript -Nullish coalescing operator-](https://dev.to/yeonseong/-in-javascript-nullish-coalescing-operator--4cgd)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [-10% On Programming Flashcards](https://dev.to/tomaszs2/-10-on-programming-flashcards-71e)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Dev.to/JS] [useState&lpar;&rpar; Hook in React](https://dev.to/mrityunjaypalled/usestate-hook-in-react-1l6f)
-- [Dev.to/JS] [JavaScript : var, let, const.](https://dev.to/manthanank/javascript-var-let-const-5f53)
-- [Dev.to/JS] [CAN IA WRITE MY DOCUMENTACION OF MY CODE?](https://dev.to/elianxd55/can-ia-write-my-documentacion-of-my-code-1dip)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
