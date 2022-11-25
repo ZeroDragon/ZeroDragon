@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Merge a branch and create a merge commit](https://dev.to/wizdomtek/merge-a-branch-and-create-a-merge-commit-5057)
+- [Dev.to/JS] [✨Today I learned: Using Octokit! 🐙✨](https://dev.to/saminarp/today-i-learned-using-octokit-2bdm)
+- [Dev.to/JS] [should we scan yarn.lock files inside node_modules for CVEs?](https://dev.to/monika_kl_c18cabe9c2b01b5/should-we-scan-yarnlock-files-inside-nodemodules-for-cves-3h23)
 - [Dev.to/JS] [Ecommerce Website Development](https://dev.to/accoretech/ecommerce-website-development-70c)
 - [Dev.to/JS] [SAFe 5 Agilist Exam Study Guide &lpar;5.1&rpar; | PDF](https://dev.to/cheyshasid/safe-5-agilist-exam-study-guide-51-pdf-53fn)
 - [Dev.to/JS] [Responsive Sidebar Navigation in css](https://dev.to/shubhamtiwari909/responsive-sidebar-navigation-in-css-500k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why default values for environment variables should be avoided](https://dev.to/clickpesa/why-default-values-for-environment-variables-should-be-avoided-1n1i)
 - [Dev.to/JS] [Quais são os tipos primitivos em Javascript](https://dev.to/lazarocontato/quais-sao-os-tipos-primitivos-em-javascript-347a)
 - [Dev.to/JS] [Afinal, o que é Stack Overflow?](https://dev.to/hiago75/afinal-o-que-e-stack-overflow-4bpn)
-- [Dev.to/JS] [What it feels working in a startup &lpar;Honest Review&rpar; ahead](https://dev.to/enyelsequeira/what-it-feels-working-in-a-startup-honest-review-ahead-194g)
-- [Dev.to/JS] [How to import code editor in web](https://dev.to/arnosolo/how-to-import-code-editor-in-web-21dj)
-- [Dev.to/JS] [代码随想录day10 | 232.Implement Queue using Stacks , 225. Implement Stack using Queues](https://dev.to/986913/dai-ma-sui-xiang-lu-day10-232implement-queue-using-stacks-225-implement-stack-using-queues-4d6e)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
