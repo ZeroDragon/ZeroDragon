@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
+- [Dev.to/JS] [Accessibility Dashboard Written In Typescript](https://dev.to/theplugjumbo/accessibility-dashboard-written-in-typescript-4ho5)
+- [Dev.to/JS] [Zod Typesafe User Input](https://dev.to/perkinsjr/zod-typesafe-user-input-4pll)
 - [Dev.to/JS] [Wasp Beta Launch Week announcement](https://dev.to/wasp/wasp-beta-launch-week-announcement-2363)
 - [Dev.to/JS] [Audio and Video HTML Tutorial – Learn how to add sound effects, videos and Youtube videos to your website](https://dev.to/salmaab/audio-and-video-html-tutorial-learn-how-to-add-sound-effects-videos-and-youtube-videos-to-your-website-44gb)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Approach to Develop Internal Tools](https://dev.to/c6z3h/approach-to-develop-internal-tools-2334)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
 - [Dev.to/JS] [Data Structures: Map &amp; Hash Table](https://dev.to/thiagocolen/data-structures-map-hash-table-186c)
-- [Dev.to/JS] [Enumerating JavaScript Object properties and its usage in React](https://dev.to/kipyegonline/enumerating-javascript-object-properties-and-its-usage-in-react-1i2d)
-- [Dev.to/JS] [What is the Fastest Loop Type in JavaScript?](https://dev.to/leduc1901/what-is-the-fastest-loop-type-in-javascript-469f)
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)
 - [Lifehacker] [Black Friday Has a Lot of Good Streaming Deals](https://lifehacker.com/black-friday-has-a-lot-of-good-streaming-deals-1849813362)
 - [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)
-- [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)
-- [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)<!-- TECH-POSTS:END -->
 
 ---
 
