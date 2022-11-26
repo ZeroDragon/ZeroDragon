@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My JavaScript Pseudocode steps.](https://dev.to/jdoud1993/my-javascript-pseudocode-steps-105h)
+- [Dev.to/JS] [What should you concern about developing a Discord Bot &lpar;Jet Brawley&rpar;](https://dev.to/leecheeyong/what-should-you-concern-about-developing-a-discord-bot-jet-brawley-30e9)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Dev.to/JS] [Accessibility Dashboard Written In Typescript](https://dev.to/theplugjumbo/accessibility-dashboard-written-in-typescript-4ho5)
 - [Dev.to/JS] [Zod Typesafe User Input](https://dev.to/perkinsjr/zod-typesafe-user-input-4pll)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Skeleton Loading React &lpar;Native&rpar; JS Code](https://dev.to/c6z3h/skeleton-loading-react-native-js-code-29gc)
 - [Dev.to/JS] [Buzzify — Host &amp; manage waitlist for your new product. [pre-launch]](https://dev.to/vaibhavacharya/buzzify-host-manage-waitlist-for-your-new-product-pre-launch-4f80)
 - [Dev.to/JS] [Super Simple Select Implementation Using Angular CDK Selection Model](https://dev.to/angular/super-simple-select-implementation-using-angular-cdk-selection-model-52gb)
-- [Dev.to/JS] [Approach to Develop Internal Tools](https://dev.to/c6z3h/approach-to-develop-internal-tools-2334)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
-- [Dev.to/JS] [Data Structures: Map &amp; Hash Table](https://dev.to/thiagocolen/data-structures-map-hash-table-186c)
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
