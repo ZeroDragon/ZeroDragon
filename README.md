@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Panic on change of Request!](https://dev.to/fharpr4/panic-on-change-of-request-40ic)
+- [Dev.to/JS] [The Rising Coder - Week 13/13 &lpar;Project Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1313-project-week-33-1aln)
+- [Dev.to/JS] [Software Release Via NPM](https://dev.to/lostbutton/software-release-via-npm-3j25)
+- [Dev.to/JS] [Insertion Sort](https://dev.to/986913/insertion-sort-39fm)
 - [Dev.to/JS] [代码随想录day11 | 20.Valid Parentheses, 1047. Remove All Adjacent Duplicates In String, 150. Evaluate Reverse Polish Notation](https://dev.to/986913/dai-ma-sui-xiang-lu-day11-20valid-parentheses-1047-remove-all-adjacent-duplicates-in-string-150-evaluate-reverse-polish-notation-ii2)
 - [Dev.to/JS] [Josh Comeau - CSS for JavaScript Developers](https://dev.to/provjd/josh-comeau-css-for-javascript-developers-bpi)
 - [Dev.to/JS] [Write to the console.log with styles from Blazor](https://dev.to/kasuken/write-to-the-consolelog-with-styles-from-blazor-1937)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Timeline Tracker with Cloudinary, Xata, and Next.js](https://dev.to/hackmamba/build-a-timeline-tracker-with-cloudinary-xata-and-nextjs-3p4k)
 - [Dev.to/JS] [How to make your library tree-shakable](https://dev.to/leduc1901/how-to-make-your-library-tree-shakable-1iib)
 - [Dev.to/JS] [Docker Compose, Hello World](https://dev.to/davidsabine/docker-compose-hello-world-1p14)
-- [Dev.to/JS] [?? in Javascript -Nullish coalescing operator-](https://dev.to/yeonseong/-in-javascript-nullish-coalescing-operator--4cgd)
-- [Dev.to/JS] [Positioning notification messages with accessibility in mind](https://dev.to/codepo8/positioning-notification-messages-with-accessibility-in-mind-nlf)
-- [Dev.to/JS] [Web Scraping Google Events Results](https://dev.to/darshan0_1/web-scraping-google-events-results-36lp)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
-- [Dev.to/JS] [Set Up ESLint and Prettier in a React TypeScript App &lpar;2022&rpar;](https://dev.to/eshankvaish/set-up-eslint-and-prettier-in-a-react-typescript-app-2022-29c9)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
