@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Binary Data In JavaScript](https://dev.to/lucasdamianjohnson/using-binary-data-in-javascript-3fn2)
+- [Dev.to/JS] [Best female weight loss plan || Weight loss](https://dev.to/healthtipsbd/best-female-weight-loss-plan-weight-loss-1h2b)
 - [Dev.to/JS] [Animating keyline on scroll with React and TypeScript](https://dev.to/joanammoreira/animating-keyline-on-scroll-with-react-and-typescript-3hbi)
 - [Dev.to/JS] [Skeleton Loading React &lpar;Native&rpar; JS Code](https://dev.to/c6z3h/skeleton-loading-react-native-js-code-29gc)
+- [Dev.to/JS] [Buzzify — Host &amp; manage waitlist for your new product. [pre-launch]](https://dev.to/vaibhavacharya/buzzify-host-manage-waitlist-for-your-new-product-pre-launch-4f80)
 - [Dev.to/JS] [Super Simple Select Implementation Using Angular CDK Selection Model](https://dev.to/angular/super-simple-select-implementation-using-angular-cdk-selection-model-52gb)
 - [Dev.to/JS] [Approach to Develop Internal Tools](https://dev.to/c6z3h/approach-to-develop-internal-tools-2334)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the Fastest Loop Type in JavaScript?](https://dev.to/leduc1901/what-is-the-fastest-loop-type-in-javascript-469f)
 - [Dev.to/JS] [Why Is There A Chip Shortage- Indigenization Of Chip Manufacturing And Its Strategic Importance](https://dev.to/rahulglobals/why-is-there-a-chip-shortage-indigenization-of-chip-manufacturing-and-its-strategic-importance-297i)
 - [Dev.to/JS] [Things you can do with your Browser developer console](https://dev.to/niza/things-you-can-do-with-your-browser-developer-console-gmn)
-- [Dev.to/JS] [table: make the columns swappable](https://dev.to/gohomewho/table-make-the-columns-swappable-1mij)
-- [Dev.to/JS] [Metered Billing](https://dev.to/gspteck/metered-billing-1i3g)
-- [Dev.to/JS] [Map, Reduce, and Filter - JS Array Functions Explained with Code](https://dev.to/neeraj1997dev/map-reduce-and-filter-js-array-functions-explained-with-code-2b2o)
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
