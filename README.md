@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wasp Beta Launch Week announcement](https://dev.to/wasp/wasp-beta-launch-week-announcement-2363)
+- [Dev.to/JS] [Audio and Video HTML Tutorial – Learn how to add sound effects, videos and Youtube videos to your website](https://dev.to/salmaab/audio-and-video-html-tutorial-learn-how-to-add-sound-effects-videos-and-youtube-videos-to-your-website-44gb)
+- [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Dev.to/JS] [Using Binary Data In JavaScript](https://dev.to/lucasdamianjohnson/using-binary-data-in-javascript-3fn2)
 - [Dev.to/JS] [Best female weight loss plan || Weight loss](https://dev.to/healthtipsbd/best-female-weight-loss-plan-weight-loss-1h2b)
 - [Dev.to/JS] [Animating keyline on scroll with React and TypeScript](https://dev.to/joanammoreira/animating-keyline-on-scroll-with-react-and-typescript-3hbi)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Structures: Map &amp; Hash Table](https://dev.to/thiagocolen/data-structures-map-hash-table-186c)
 - [Dev.to/JS] [Enumerating JavaScript Object properties and its usage in React](https://dev.to/kipyegonline/enumerating-javascript-object-properties-and-its-usage-in-react-1i2d)
 - [Dev.to/JS] [What is the Fastest Loop Type in JavaScript?](https://dev.to/leduc1901/what-is-the-fastest-loop-type-in-javascript-469f)
-- [Dev.to/JS] [Why Is There A Chip Shortage- Indigenization Of Chip Manufacturing And Its Strategic Importance](https://dev.to/rahulglobals/why-is-there-a-chip-shortage-indigenization-of-chip-manufacturing-and-its-strategic-importance-297i)
-- [Dev.to/JS] [Things you can do with your Browser developer console](https://dev.to/niza/things-you-can-do-with-your-browser-developer-console-gmn)
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Black Friday Has a Lot of Good Streaming Deals](https://lifehacker.com/black-friday-has-a-lot-of-good-streaming-deals-1849813362)
 - [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)
 - [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)
-- [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
-- [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)<!-- TECH-POSTS:END -->
 
 ---
 
