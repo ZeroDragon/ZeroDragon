@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Map, Reduce, and Filter - JS Array Functions Explained with Code](https://dev.to/neeraj1997dev/map-reduce-and-filter-js-array-functions-explained-with-code-2b2o)
+- [Dev.to/JS] [Let&#39;s Keto Gummies - Weight Loss Results, Reviews, Uses And Benefits?](https://dev.to/letsketogummie1/lets-keto-gummies-weight-loss-results-reviews-uses-and-benefits-3aca)
+- [Dev.to/JS] [Simplest Way to create and pass props in React](https://dev.to/b1st4nd3r/simplest-way-to-create-and-pass-props-in-react-4o5l)
+- [Dev.to/JS] [14-ES6++: Null Coalescing in Javascript](https://dev.to/hassanzohdy/14-es6-null-coalescing-in-javascript-eol)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;26-11-2022&rpar; - Geopolitics, Money and Football](https://dev.to/mjgs/this-weeks-newsletter-is-out-26-11-2022-geopolitics-money-and-football-357d)
 - [Dev.to/JS] [Crudlify: simple CRUD REST API&#39;s for a NoSQL database](https://dev.to/restdbjones/crudlify-simple-crud-rest-apis-for-a-nosql-database-3g0i)
 - [Dev.to/JS] [Validate Binary Tree Nodes](https://dev.to/zeeshanali0704/validate-binary-tree-nodes-19ln)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add Code Box In Blogger Post](https://dev.to/theakashkumarr/how-to-add-code-box-in-blogger-post-5101)
 - [Dev.to/JS] [Top 5 Companies to Work for in Machine Learning in 2023](https://dev.to/artinte92/top-5-companies-to-work-for-in-machine-learning-in-2023-4mck)
 - [Dev.to/JS] [Angular and RxJS on Mastodon](https://dev.to/spierala/angular-and-rxjs-on-mastodon-7c3)
-- [Dev.to/JS] [How to Access Local Sever on Other Devices](https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1)
-- [Dev.to/JS] [9-JS OOP: Getters And Setters In Javascript Classes](https://dev.to/hassanzohdy/9-js-oop-getters-and-setters-in-javascript-classes-56cd)
-- [Dev.to/JS] [Mumbai Call Girls Profile are eye-catching and fully prepared](https://dev.to/vanikarawat/mumbai-call-girls-profile-are-eye-catching-and-fully-prepared-4fbp)
-- [Dev.to/JS] [Error monitoring and its best practices](https://dev.to/kanikaagarwal/error-monitoring-and-its-best-practices-17dg)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
