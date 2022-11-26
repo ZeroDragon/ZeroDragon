@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Analytics Dashboard](https://dev.to/theplugjumbo/open-source-analytics-dashboard-4cck)
+- [Dev.to/JS] [top 10 tips for problem-solving](https://dev.to/mahmoudsayed/top-10-tips-for-problem-solving-5197)
+- [Dev.to/JS] [Throttle](https://dev.to/986913/throttle-bmg)
+- [Dev.to/JS] [Debounce](https://dev.to/986913/debounce-1bja)
 - [Dev.to/JS] [Gatsby blog as PWA &lpar;Progressive Web App&rpar;](https://dev.to/zsevic/gatsby-blog-as-pwa-progressive-web-app-3eo7)
 - [Dev.to/JS] [Controlled vs uncontrolled inputs](https://dev.to/bashebr/controlled-vs-uncontrolled-inputs-3h69)
 - [Dev.to/JS] [My JavaScript Pseudocode steps.](https://dev.to/jdoud1993/my-javascript-pseudocode-steps-105h)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Audio and Video HTML Tutorial – Learn how to add sound effects, videos and Youtube videos to your website](https://dev.to/salmaab/audio-and-video-html-tutorial-learn-how-to-add-sound-effects-videos-and-youtube-videos-to-your-website-44gb)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Dev.to/JS] [Using Binary Data In JavaScript](https://dev.to/lucasdamianjohnson/using-binary-data-in-javascript-3fn2)
-- [Dev.to/JS] [Animating keyline on scroll with React and TypeScript](https://dev.to/joanammoreira/animating-keyline-on-scroll-with-react-and-typescript-3hbi)
-- [Dev.to/JS] [Skeleton Loading React &lpar;Native&rpar; JS Code](https://dev.to/c6z3h/skeleton-loading-react-native-js-code-29gc)
-- [Dev.to/JS] [Buzzify — Host &amp; manage waitlist for your new product. [pre-launch]](https://dev.to/vaibhavacharya/buzzify-host-manage-waitlist-for-your-new-product-pre-launch-4f80)
-- [Dev.to/JS] [Super Simple Select Implementation Using Angular CDK Selection Model](https://dev.to/angular/super-simple-select-implementation-using-angular-cdk-selection-model-52gb)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
