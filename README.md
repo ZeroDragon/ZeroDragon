@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Skeleton Loader with React](https://dev.to/ljaviertovar/how-to-build-a-skeleton-loader-with-react-3k9o)
+- [Dev.to/JS] [13-ES6++: Optional Chaining in Javascript](https://dev.to/hassanzohdy/13-es6-optional-chaining-in-javascript-2jd0)
 - [Dev.to/JS] [Introducing Notastic - Because notes have emotions too! | MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/anasdew/introducing-notastic-because-notes-have-emotions-too-mongodb-atlas-hackathon-2022-on-dev-4ce7)
 - [Dev.to/JS] [Panic on change of Request!](https://dev.to/fharpr4/panic-on-change-of-request-40ic)
 - [Dev.to/JS] [The Rising Coder - Week 13/13 &lpar;Project Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1313-project-week-33-1aln)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Tests for ESM using Jest framework](https://dev.to/tdaw/adding-tests-for-esm-using-jest-framework-1nao)
 - [Dev.to/JS] [Why TypeScript?](https://dev.to/1solation/why-typescript-11gj)
 - [Dev.to/JS] [Build a Timeline Tracker with Cloudinary, Xata, and Next.js](https://dev.to/hackmamba/build-a-timeline-tracker-with-cloudinary-xata-and-nextjs-3p4k)
-- [Dev.to/JS] [How to make your library tree-shakable](https://dev.to/leduc1901/how-to-make-your-library-tree-shakable-1iib)
-- [Dev.to/JS] [Docker Compose, Hello World](https://dev.to/davidsabine/docker-compose-hello-world-1p14)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
