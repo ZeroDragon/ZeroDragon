@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [table: make the columns swappable](https://dev.to/gohomewho/table-make-the-columns-swappable-1mij)
+- [Dev.to/JS] [Metered Billing](https://dev.to/gspteck/metered-billing-1i3g)
 - [Dev.to/JS] [Map, Reduce, and Filter - JS Array Functions Explained with Code](https://dev.to/neeraj1997dev/map-reduce-and-filter-js-array-functions-explained-with-code-2b2o)
 - [Dev.to/JS] [Let&#39;s Keto Gummies - Weight Loss Results, Reviews, Uses And Benefits?](https://dev.to/letsketogummie1/lets-keto-gummies-weight-loss-results-reviews-uses-and-benefits-3aca)
 - [Dev.to/JS] [Simplest Way to create and pass props in React](https://dev.to/b1st4nd3r/simplest-way-to-create-and-pass-props-in-react-4o5l)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
 - [Dev.to/JS] [Creating Stacked Image Swap Animation](https://dev.to/calebpitan/creating-stacked-image-swap-animation-4kh2)
 - [Dev.to/JS] [How to Add Code Box In Blogger Post](https://dev.to/theakashkumarr/how-to-add-code-box-in-blogger-post-5101)
-- [Dev.to/JS] [Top 5 Companies to Work for in Machine Learning in 2023](https://dev.to/artinte92/top-5-companies-to-work-for-in-machine-learning-in-2023-4mck)
-- [Dev.to/JS] [Angular and RxJS on Mastodon](https://dev.to/spierala/angular-and-rxjs-on-mastodon-7c3)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
