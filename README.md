@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Loops: The Ins and Out](https://dev.to/mwendwabundi/javascript-loops-the-ins-and-out-dhh)
+- [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
+- [Dev.to/JS] [Creating Stacked Image Swap Animation](https://dev.to/calebpitan/creating-stacked-image-swap-animation-4kh2)
 - [Dev.to/JS] [How to Add Code Box In Blogger Post](https://dev.to/theakashkumarr/how-to-add-code-box-in-blogger-post-5101)
 - [Dev.to/JS] [Top 5 Companies to Work for in Machine Learning in 2023](https://dev.to/artinte92/top-5-companies-to-work-for-in-machine-learning-in-2023-4mck)
 - [Dev.to/JS] [Angular and RxJS on Mastodon](https://dev.to/spierala/angular-and-rxjs-on-mastodon-7c3)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to remove a specific item from an array in JavaScript](https://dev.to/collegewap/how-to-remove-a-specific-item-from-an-array-in-javascript-3n7b)
 - [Dev.to/JS] [Top mistakes developer should avoid while learning programming](https://dev.to/wizdomtek/top-mistakes-developer-should-avoid-while-learning-programming-318l)
 - [Dev.to/JS] [How to Build a Skeleton Loader with React](https://dev.to/ljaviertovar/how-to-build-a-skeleton-loader-with-react-3k9o)
-- [Dev.to/JS] [13-ES6++: Optional Chaining in Javascript](https://dev.to/hassanzohdy/13-es6-optional-chaining-in-javascript-2jd0)
-- [Dev.to/JS] [Introducing Notastic - Because notes have emotions too! | MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/anasdew/introducing-notastic-because-notes-have-emotions-too-mongodb-atlas-hackathon-2022-on-dev-4ce7)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)
 - [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
 - [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)
-- [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
-- [Lifehacker] [Why Black Friday Is a Bad Day to Impulse Buy Electronics](https://lifehacker.com/why-black-friday-is-a-bad-day-to-impulse-buy-electronic-1849814063)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)<!-- TECH-POSTS:END -->
 
 ---
 
