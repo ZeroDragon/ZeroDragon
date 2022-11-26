@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animating keyline on scroll with React and TypeScript](https://dev.to/joanammoreira/animating-keyline-on-scroll-with-react-and-typescript-3hbi)
+- [Dev.to/JS] [Skeleton Loading React &lpar;Native&rpar; JS Code](https://dev.to/c6z3h/skeleton-loading-react-native-js-code-29gc)
+- [Dev.to/JS] [Super Simple Select Implementation Using Angular CDK Selection Model](https://dev.to/angular/super-simple-select-implementation-using-angular-cdk-selection-model-52gb)
+- [Dev.to/JS] [Approach to Develop Internal Tools](https://dev.to/c6z3h/approach-to-develop-internal-tools-2334)
+- [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
 - [Dev.to/JS] [Data Structures: Map &amp; Hash Table](https://dev.to/thiagocolen/data-structures-map-hash-table-186c)
 - [Dev.to/JS] [Enumerating JavaScript Object properties and its usage in React](https://dev.to/kipyegonline/enumerating-javascript-object-properties-and-its-usage-in-react-1i2d)
 - [Dev.to/JS] [What is the Fastest Loop Type in JavaScript?](https://dev.to/leduc1901/what-is-the-fastest-loop-type-in-javascript-469f)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [table: make the columns swappable](https://dev.to/gohomewho/table-make-the-columns-swappable-1mij)
 - [Dev.to/JS] [Metered Billing](https://dev.to/gspteck/metered-billing-1i3g)
 - [Dev.to/JS] [Map, Reduce, and Filter - JS Array Functions Explained with Code](https://dev.to/neeraj1997dev/map-reduce-and-filter-js-array-functions-explained-with-code-2b2o)
-- [Dev.to/JS] [Let&#39;s Keto Gummies - Weight Loss Results, Reviews, Uses And Benefits?](https://dev.to/letsketogummie1/lets-keto-gummies-weight-loss-results-reviews-uses-and-benefits-3aca)
-- [Dev.to/JS] [Simplest Way to create and pass props in React](https://dev.to/b1st4nd3r/simplest-way-to-create-and-pass-props-in-react-4o5l)
-- [Dev.to/JS] [14-ES6++: Null Coalescing in Javascript](https://dev.to/hassanzohdy/14-es6-null-coalescing-in-javascript-eol)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;26-11-2022&rpar; - Geopolitics, Money and Football](https://dev.to/mjgs/this-weeks-newsletter-is-out-26-11-2022-geopolitics-money-and-football-357d)
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)
 - [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)
 - [Lifehacker] [20 of the Weirdest Holiday Movies Ever Made](https://lifehacker.com/20-of-the-silliest-holiday-movies-ever-made-1849807913)
-- [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)
-- [Lifehacker] [What&#39;s New on Prime Video in December 2022](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Psychology Terms You&#39;re Misusing, According to Psychologists](https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611)<!-- TECH-POSTS:END -->
 
 ---
 
