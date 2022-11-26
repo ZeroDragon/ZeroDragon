@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;26-11-2022&rpar; - Geopolitics, Money and Football](https://dev.to/mjgs/this-weeks-newsletter-is-out-26-11-2022-geopolitics-money-and-football-357d)
+- [Dev.to/JS] [Crudlify: simple CRUD REST API&#39;s for a NoSQL database](https://dev.to/restdbjones/crudlify-simple-crud-rest-apis-for-a-nosql-database-3g0i)
+- [Dev.to/JS] [Validate Binary Tree Nodes](https://dev.to/zeeshanali0704/validate-binary-tree-nodes-19ln)
 - [Dev.to/JS] [JavaScript Loops: The Ins and Out](https://dev.to/mwendwabundi/javascript-loops-the-ins-and-out-dhh)
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
 - [Dev.to/JS] [Creating Stacked Image Swap Animation](https://dev.to/calebpitan/creating-stacked-image-swap-animation-4kh2)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [9-JS OOP: Getters And Setters In Javascript Classes](https://dev.to/hassanzohdy/9-js-oop-getters-and-setters-in-javascript-classes-56cd)
 - [Dev.to/JS] [Mumbai Call Girls Profile are eye-catching and fully prepared](https://dev.to/vanikarawat/mumbai-call-girls-profile-are-eye-catching-and-fully-prepared-4fbp)
 - [Dev.to/JS] [Error monitoring and its best practices](https://dev.to/kanikaagarwal/error-monitoring-and-its-best-practices-17dg)
-- [Dev.to/JS] [How to remove a specific item from an array in JavaScript](https://dev.to/collegewap/how-to-remove-a-specific-item-from-an-array-in-javascript-3n7b)
-- [Dev.to/JS] [Top mistakes developer should avoid while learning programming](https://dev.to/wizdomtek/top-mistakes-developer-should-avoid-while-learning-programming-318l)
-- [Dev.to/JS] [How to Build a Skeleton Loader with React](https://dev.to/ljaviertovar/how-to-build-a-skeleton-loader-with-react-3k9o)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
