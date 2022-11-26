@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Companies to Work for in Machine Learning in 2023](https://dev.to/artinte92/top-5-companies-to-work-for-in-machine-learning-in-2023-4mck)
+- [Dev.to/JS] [Angular and RxJS on Mastodon](https://dev.to/spierala/angular-and-rxjs-on-mastodon-7c3)
 - [Dev.to/JS] [How to Access Local Sever on Other Devices](https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1)
 - [Dev.to/JS] [9-JS OOP: Getters And Setters In Javascript Classes](https://dev.to/hassanzohdy/9-js-oop-getters-and-setters-in-javascript-classes-56cd)
 - [Dev.to/JS] [Mumbai Call Girls Profile are eye-catching and fully prepared](https://dev.to/vanikarawat/mumbai-call-girls-profile-are-eye-catching-and-fully-prepared-4fbp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [13-ES6++: Optional Chaining in Javascript](https://dev.to/hassanzohdy/13-es6-optional-chaining-in-javascript-2jd0)
 - [Dev.to/JS] [Introducing Notastic - Because notes have emotions too! | MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/anasdew/introducing-notastic-because-notes-have-emotions-too-mongodb-atlas-hackathon-2022-on-dev-4ce7)
 - [Dev.to/JS] [Panic on change of Request!](https://dev.to/fharpr4/panic-on-change-of-request-40ic)
-- [Dev.to/JS] [The Rising Coder - Week 13/13 &lpar;Project Week 3/3&rpar;](https://dev.to/clam119/the-rising-coder-week-1313-project-week-33-1aln)
-- [Dev.to/JS] [Software Release Via NPM](https://dev.to/lostbutton/software-release-via-npm-3j25)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
