@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to remove a specific item from an array in JavaScript](https://dev.to/collegewap/how-to-remove-a-specific-item-from-an-array-in-javascript-3n7b)
+- [Dev.to/JS] [Top mistakes developer should avoid while learning programming](https://dev.to/wizdomtek/top-mistakes-developer-should-avoid-while-learning-programming-318l)
 - [Dev.to/JS] [How to Build a Skeleton Loader with React](https://dev.to/ljaviertovar/how-to-build-a-skeleton-loader-with-react-3k9o)
 - [Dev.to/JS] [13-ES6++: Optional Chaining in Javascript](https://dev.to/hassanzohdy/13-es6-optional-chaining-in-javascript-2jd0)
 - [Dev.to/JS] [Introducing Notastic - Because notes have emotions too! | MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/anasdew/introducing-notastic-because-notes-have-emotions-too-mongodb-atlas-hackathon-2022-on-dev-4ce7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [代码随想录day11 | 20.Valid Parentheses, 1047. Remove All Adjacent Duplicates In String, 150. Evaluate Reverse Polish Notation](https://dev.to/986913/dai-ma-sui-xiang-lu-day11-20valid-parentheses-1047-remove-all-adjacent-duplicates-in-string-150-evaluate-reverse-polish-notation-ii2)
 - [Dev.to/JS] [Write to the console.log with styles from Blazor](https://dev.to/kasuken/write-to-the-consolelog-with-styles-from-blazor-1937)
 - [Dev.to/JS] [Adding Tests for ESM using Jest framework](https://dev.to/tdaw/adding-tests-for-esm-using-jest-framework-1nao)
-- [Dev.to/JS] [Why TypeScript?](https://dev.to/1solation/why-typescript-11gj)
-- [Dev.to/JS] [Build a Timeline Tracker with Cloudinary, Xata, and Next.js](https://dev.to/hackmamba/build-a-timeline-tracker-with-cloudinary-xata-and-nextjs-3p4k)
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
