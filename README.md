@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deno Basics: Deno&#39;s config file, dependencies and the Lock file](https://dev.to/dmawardi/deno-basics-denos-config-file-dependencies-and-the-lock-file-55ik)
+- [Dev.to/JS] [Card reveal on hover](https://dev.to/sarmunbustillo/card-reveal-on-hover-36id)
 - [Dev.to/JS] [tbs.com/activate](https://dev.to/marthajean08/tbscomactivate-hj2)
 - [Dev.to/JS] [Dynamically Create an Array of Arrays](https://dev.to/smilesforgood/dynamically-create-an-array-of-arrays-3gd1)
 - [Dev.to/JS] [vudu.com/start](https://dev.to/marthajean08/vuducomstart-3j7o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML5 and CSS3 Masterclass: In-depth Web Design Training with Geolocation, and More](https://dev.to/legaciespanda/html5-and-css3-masterclass-in-depth-web-design-training-with-geolocation-and-more-363c)
 - [Dev.to/JS] [Release 0.4 - Week 1](https://dev.to/lostbutton/release-04-week-1-li5)
 - [Dev.to/JS] [How to make a to-do list using Javascript](https://dev.to/lensco825/how-to-make-a-to-do-list-using-javascript-23j0)
-- [Dev.to/JS] [OSD600: Adding CI to Siteit](https://dev.to/tdaw/osd600-adding-ci-to-siteit-c71)
-- [Dev.to/JS] [The Best Country API to use for Your Next Coding Project in 2022](https://dev.to/ralph0909/the-best-country-api-to-use-for-your-next-coding-project-in-2022-20pi)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
