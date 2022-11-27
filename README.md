@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
+- [Dev.to/JS] [How to publish your GitHub project to npm?](https://dev.to/gulyapulya/how-to-publish-your-github-project-to-npm-52kd)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Nov 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-nov-2022-45b2)
 - [Dev.to/JS] [Thus Spoke OpenAPI](https://dev.to/dagdrom/thus-spoke-openapi-47nm)
 - [Dev.to/JS] [Git and GitHub](https://dev.to/damian_chisom/git-and-github-4jga)
 - [Dev.to/JS] [What is JSON with padding?](https://dev.to/sametcodes/what-is-json-with-padding-4pik)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [APIs del DOM](https://dev.to/voyagerdevil/apis-del-dom-4aff)
 - [Dev.to/JS] [Object Destructuring in JavaScript ES6](https://dev.to/devvsakib/object-destructuring-in-javascript-es6-13d9)
 - [Dev.to/JS] [JS equivalent for pydantic or dataclasses in python?](https://dev.to/soumyaranjannaik/js-equivalent-for-pydantic-or-dataclasses-in-python-43oo)
-- [Dev.to/JS] [代码随想录day12 | 239.Sliding Window Maximum, 347. Top K Frequent Elements](https://dev.to/986913/dai-ma-sui-xiang-lu-day12-239sliding-window-maximum-347-top-k-frequent-elements-5di0)
-- [Dev.to/JS] [Two Ways to Check an Object for Keys](https://dev.to/smilesforgood/two-ways-to-check-an-object-for-keys-h2m)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
-- [Dev.to/JS] [OpenOps is adding Google Analytics Integration](https://dev.to/theplugjumbo/openops-is-adding-google-analytics-integration-42gp)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
