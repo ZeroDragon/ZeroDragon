@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML5 and CSS3 Masterclass: In-depth Web Design Training with Geolocation, and More](https://dev.to/legaciespanda/html5-and-css3-masterclass-in-depth-web-design-training-with-geolocation-and-more-363c)
+- [Dev.to/JS] [Dynamically Create an of Arrays](https://dev.to/smilesforgood/dynamically-create-an-of-arrays-4ip3)
 - [Dev.to/JS] [Release 0.4 - Week 1](https://dev.to/lostbutton/release-04-week-1-li5)
 - [Dev.to/JS] [How to make a to-do list using Javascript](https://dev.to/lensco825/how-to-make-a-to-do-list-using-javascript-23j0)
 - [Dev.to/JS] [OSD600: Adding CI to Siteit](https://dev.to/tdaw/osd600-adding-ci-to-siteit-c71)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debounce](https://dev.to/986913/debounce-1bja)
 - [Dev.to/JS] [Gatsby blog as PWA &lpar;Progressive Web App&rpar;](https://dev.to/zsevic/gatsby-blog-as-pwa-progressive-web-app-3eo7)
 - [Dev.to/JS] [Controlled vs uncontrolled inputs](https://dev.to/bashebr/controlled-vs-uncontrolled-inputs-3h69)
-- [Dev.to/JS] [My JavaScript Pseudocode steps.](https://dev.to/jdoud1993/my-javascript-pseudocode-steps-105h)
-- [Dev.to/JS] [What should you concern about developing a Discord Bot &lpar;Jet Brawley&rpar;](https://dev.to/leecheeyong/what-should-you-concern-about-developing-a-discord-bot-jet-brawley-30e9)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
