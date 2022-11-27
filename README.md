@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use Preact in Next.js 13](https://dev.to/dephraiim/use-preact-in-nextjs-13-24pp)
+- [Dev.to/JS] [100+ JavaScript concepts, same app using 7 frameworks &amp; CSS flex explained the right way](https://dev.to/kokaneka/100-javascript-concepts-same-app-using-7-frameworks-css-flex-explained-the-right-way-5cdf)
 - [Dev.to/JS] [Why do you prefer using a scripting language?](https://dev.to/mikenakis/why-do-you-prefer-using-a-scripting-language-4f4b)
 - [Dev.to/JS] [Bridge pattern in TypeScript](https://dev.to/jmalvarez/bridge-pattern-in-typescript-3hmj)
 - [Dev.to/JS] [best free video editing software](https://dev.to/itsidris7/best-free-video-editing-software-4d81)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Delete Local and Remote Git Branches](https://dev.to/refine/how-to-delete-local-and-remote-git-branches-311f)
 - [Dev.to/JS] [Build Animated Navigation Bar with JavaScript](https://dev.to/johongirr/build-animation-navigation-bar-with-javascript-5f27)
 - [Dev.to/JS] [Let&#39;s Fix It: Can&#39;t Use My Own Site](https://dev.to/fazzaamiarso/lets-fix-it-cant-use-my-own-site-3mkn)
-- [Dev.to/JS] [A Glimpse of the Quantum Future Is Provided by New Data](https://dev.to/artinte92/a-glimpse-of-the-quantum-future-is-provided-by-new-data-5dmm)
-- [Dev.to/JS] [Deno Basics: Deno&#39;s config file, dependencies and the Lock file](https://dev.to/dmawardi/deno-basics-denos-config-file-dependencies-and-the-lock-file-55ik)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
