@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
+- [Dev.to/JS] [6 Killer JavaScript One-Liners — for beginners](https://dev.to/hy_piyush/6-killer-javascript-one-liners-for-beginners-i5a)
 - [Dev.to/JS] [Use Preact in Next.js 13](https://dev.to/dephraiim/use-preact-in-nextjs-13-24pp)
 - [Dev.to/JS] [100+ JavaScript concepts, same app using 7 frameworks &amp; CSS flex explained the right way](https://dev.to/kokaneka/100-javascript-concepts-same-app-using-7-frameworks-css-flex-explained-the-right-way-5cdf)
 - [Dev.to/JS] [Why do you prefer using a scripting language?](https://dev.to/mikenakis/why-do-you-prefer-using-a-scripting-language-4f4b)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React-select drag and drop advanced](https://dev.to/tejendrasrajawat/react-select-drag-and-drop-advanced-5g05)
 - [Dev.to/JS] [How to Delete Local and Remote Git Branches](https://dev.to/refine/how-to-delete-local-and-remote-git-branches-311f)
 - [Dev.to/JS] [Build Animated Navigation Bar with JavaScript](https://dev.to/johongirr/build-animation-navigation-bar-with-javascript-5f27)
-- [Dev.to/JS] [Let&#39;s Fix It: Can&#39;t Use My Own Site](https://dev.to/fazzaamiarso/lets-fix-it-cant-use-my-own-site-3mkn)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
 - [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)
 - [Lifehacker] [Black Friday Has a Lot of Good Streaming Deals](https://lifehacker.com/black-friday-has-a-lot-of-good-streaming-deals-1849813362)
-- [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)
-- [Lifehacker] [Here&#39;s How Long the Latest Freeze on Student Loan Payments Will Last](https://lifehacker.com/heres-how-long-the-latest-freeze-on-student-loan-paymen-1849816263)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)<!-- TECH-POSTS:END -->
 
 ---
 
