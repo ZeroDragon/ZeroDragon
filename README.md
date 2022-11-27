@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Neat console tricks to try out](https://dev.to/khenhey/neat-console-tricks-to-try-out-3cei)
+- [Dev.to/JS] [Now What : How To Keep Learning after Landing the 1st Tech job](https://dev.to/nerajno/now-what-how-to-keep-learning-after-landing-the-1st-tech-job-3nhj)
 - [Dev.to/JS] [How to scrape Google Search Results](https://dev.to/serpdogapi/how-to-scrape-google-search-results-1gfb)
 - [Dev.to/JS] [APIs del DOM](https://dev.to/voyagerdevil/apis-del-dom-4aff)
 - [Dev.to/JS] [Object Destructuring in JavaScript ES6](https://dev.to/devvsakib/object-destructuring-in-javascript-es6-13d9)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make your websites even more responsive!](https://dev.to/milandev/make-your-websites-more-responsive-hf8)
 - [Dev.to/JS] [BemtvJS - Overview](https://dev.to/diogoneves07/bemtvjs-overview-e51)
 - [Dev.to/JS] [BemtvJS - Visão geral](https://dev.to/diogoneves07/bemtvjs-visao-geral-2fi1)
-- [Dev.to/JS] [49 Free Online Courses - November 27, 2022](https://dev.to/theprogramminbuddyclub/49-free-online-courses-november-27-2022-27ec)
-- [Dev.to/JS] [Create a package-based Monorepo with Nx](https://dev.to/leduc1901/create-a-package-based-monorepo-with-nx-3990)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
