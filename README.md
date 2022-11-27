@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
+- [Dev.to/JS] [OpenOps is adding Google Analytics Integration](https://dev.to/theplugjumbo/openops-is-adding-google-analytics-integration-42gp)
+- [Dev.to/JS] [How to make your websites even more responsive!](https://dev.to/milandev/make-your-websites-more-responsive-hf8)
 - [Dev.to/JS] [BemtvJS - Overview](https://dev.to/diogoneves07/bemtvjs-overview-e51)
 - [Dev.to/JS] [BemtvJS - Visão geral](https://dev.to/diogoneves07/bemtvjs-visao-geral-2fi1)
 - [Dev.to/JS] [49 Free Online Courses - November 27, 2022](https://dev.to/theprogramminbuddyclub/49-free-online-courses-november-27-2022-27ec)
@@ -34,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guide: How to become front end developer in 2023?](https://dev.to/learnnhq/guide-how-to-become-front-end-developer-in-2023-479c)
 - [Dev.to/JS] [Building “.ignore” mechanism with 30 lines of code](https://dev.to/ahmedsudani/building-ignore-mechanism-with-30-lines-of-code-4hkg)
 - [Dev.to/JS] [Customization with Tailwindcss](https://dev.to/blackevilgoblin/customization-with-tailwindcss-1jfm)
-- [Dev.to/JS] [Nyan Profile: A simple and extensible scaffold for building personal profile website.](https://dev.to/memochou1993/nyan-profile-a-simple-and-extensible-scaffold-for-building-personal-profile-website-4ci)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
-- [Dev.to/JS] [6 Killer JavaScript One-Liners — for beginners](https://dev.to/hy_piyush/6-killer-javascript-one-liners-for-beginners-i5a)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
 - [Lifehacker] [It&#39;s Never Been Easier to Digitize Your Life](https://lifehacker.com/its-never-been-easier-to-digitize-your-life-1849816670)
 - [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
-- [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)
-- [Lifehacker] [Black Friday Has a Lot of Good Streaming Deals](https://lifehacker.com/black-friday-has-a-lot-of-good-streaming-deals-1849813362)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)<!-- TECH-POSTS:END -->
 
 ---
 
