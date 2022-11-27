@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Thus Spoke OpenAPI](https://dev.to/dagdrom/thus-spoke-openapi-47nm)
+- [Dev.to/JS] [Git and GitHub](https://dev.to/damian_chisom/git-and-github-4jga)
+- [Dev.to/JS] [What is JSON with padding?](https://dev.to/sametcodes/what-is-json-with-padding-4pik)
 - [Dev.to/JS] [Neat console tricks to try out](https://dev.to/khenhey/neat-console-tricks-to-try-out-3cei)
 - [Dev.to/JS] [Now What : How To Keep Learning after Landing the 1st Tech job](https://dev.to/nerajno/now-what-how-to-keep-learning-after-landing-the-1st-tech-job-3nhj)
 - [Dev.to/JS] [How to scrape Google Search Results](https://dev.to/serpdogapi/how-to-scrape-google-search-results-1gfb)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Two Ways to Check an Object for Keys](https://dev.to/smilesforgood/two-ways-to-check-an-object-for-keys-h2m)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Dev.to/JS] [OpenOps is adding Google Analytics Integration](https://dev.to/theplugjumbo/openops-is-adding-google-analytics-integration-42gp)
-- [Dev.to/JS] [How to make your websites even more responsive!](https://dev.to/milandev/make-your-websites-more-responsive-hf8)
-- [Dev.to/JS] [BemtvJS - Overview](https://dev.to/diogoneves07/bemtvjs-overview-e51)
-- [Dev.to/JS] [BemtvJS - Visão geral](https://dev.to/diogoneves07/bemtvjs-visao-geral-2fi1)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
