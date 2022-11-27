@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the plans for this week?](https://dev.to/mitchiemt11/what-are-the-plans-for-this-week-5336)
 - [Dev.to/JS] [Guide: How to become front end developer in 2023?](https://dev.to/learnnhq/guide-how-to-become-front-end-developer-in-2023-479c)
+- [Dev.to/JS] [Building “.ignore” mechanism with 30 lines of code](https://dev.to/ahmedsudani/building-ignore-mechanism-with-30-lines-of-code-4hkg)
 - [Dev.to/JS] [Customization with Tailwindcss](https://dev.to/blackevilgoblin/customization-with-tailwindcss-1jfm)
 - [Dev.to/JS] [Nyan Profile: A simple and extensible scaffold for building personal profile website.](https://dev.to/memochou1993/nyan-profile-a-simple-and-extensible-scaffold-for-building-personal-profile-website-4ci)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bridge pattern in TypeScript](https://dev.to/jmalvarez/bridge-pattern-in-typescript-3hmj)
 - [Dev.to/JS] [best free video editing software](https://dev.to/itsidris7/best-free-video-editing-software-4d81)
 - [Dev.to/JS] [How to Create a Table with Inline CRUD with Angular 14+](https://dev.to/chadwinjdeysel/how-to-create-a-table-with-inline-crud-with-angular-14-19e9)
-- [Dev.to/JS] [4 Steps to Create Google Authentication API in Node.js](https://dev.to/shreyvijayvargiya/4-steps-to-create-google-authentication-api-in-nodejs-41d3)
-- [Dev.to/JS] [Hi Devs](https://dev.to/mariameneji/hi-devs-17n2)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
