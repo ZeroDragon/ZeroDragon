@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS equivalent for pydantic or dataclasses in python?](https://dev.to/soumyaranjannaik/js-equivalent-for-pydantic-or-dataclasses-in-python-43oo)
+- [Dev.to/JS] [代码随想录day12 | 239.Sliding Window Maximum, 347. Top K Frequent Elements](https://dev.to/986913/dai-ma-sui-xiang-lu-day12-239sliding-window-maximum-347-top-k-frequent-elements-5di0)
+- [Dev.to/JS] [Two Ways to Check an Object for Keys](https://dev.to/smilesforgood/two-ways-to-check-an-object-for-keys-h2m)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Dev.to/JS] [OpenOps is adding Google Analytics Integration](https://dev.to/theplugjumbo/openops-is-adding-google-analytics-integration-42gp)
 - [Dev.to/JS] [How to make your websites even more responsive!](https://dev.to/milandev/make-your-websites-more-responsive-hf8)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fancy Text Generator 𝕐𝕠𝕦𝕣 𝕋𝕖𝕩𝕥 &lpar;𝓬𝓸𝓹𝔂 𝓪𝓷𝓭 𝓹𝓪𝓼𝓽𝓮&rpar;](https://dev.to/elinabey/fancy-text-generator--20oe)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Dev.to/JS] [What are the plans for this week?](https://dev.to/mitchiemt11/what-are-the-plans-for-this-week-5336)
-- [Dev.to/JS] [Guide: How to become front end developer in 2023?](https://dev.to/learnnhq/guide-how-to-become-front-end-developer-in-2023-479c)
-- [Dev.to/JS] [Building “.ignore” mechanism with 30 lines of code](https://dev.to/ahmedsudani/building-ignore-mechanism-with-30-lines-of-code-4hkg)
-- [Dev.to/JS] [Customization with Tailwindcss](https://dev.to/blackevilgoblin/customization-with-tailwindcss-1jfm)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
