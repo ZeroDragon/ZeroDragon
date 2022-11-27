@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why do you prefer using a scripting language?](https://dev.to/mikenakis/why-do-you-prefer-using-a-scripting-language-4f4b)
+- [Dev.to/JS] [Bridge pattern in TypeScript](https://dev.to/jmalvarez/bridge-pattern-in-typescript-3hmj)
 - [Dev.to/JS] [best free video editing software](https://dev.to/itsidris7/best-free-video-editing-software-4d81)
 - [Dev.to/JS] [How to Create a Table with Inline CRUD with Angular 14+](https://dev.to/chadwinjdeysel/how-to-create-a-table-with-inline-crud-with-angular-14-19e9)
 - [Dev.to/JS] [4 Steps to Create Google Authentication API in Node.js](https://dev.to/shreyvijayvargiya/4-steps-to-create-google-authentication-api-in-nodejs-41d3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s Fix It: Can&#39;t Use My Own Site](https://dev.to/fazzaamiarso/lets-fix-it-cant-use-my-own-site-3mkn)
 - [Dev.to/JS] [A Glimpse of the Quantum Future Is Provided by New Data](https://dev.to/artinte92/a-glimpse-of-the-quantum-future-is-provided-by-new-data-5dmm)
 - [Dev.to/JS] [Deno Basics: Deno&#39;s config file, dependencies and the Lock file](https://dev.to/dmawardi/deno-basics-denos-config-file-dependencies-and-the-lock-file-55ik)
-- [Dev.to/JS] [Card reveal on hover](https://dev.to/sarmunbustillo/card-reveal-on-hover-36id)
-- [Dev.to/JS] [tbs.com/activate](https://dev.to/marthajean08/tbscomactivate-hj2)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
