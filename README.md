@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BemtvJS - Overview](https://dev.to/diogoneves07/bemtvjs-overview-e51)
+- [Dev.to/JS] [BemtvJS - Visão geral](https://dev.to/diogoneves07/bemtvjs-visao-geral-2fi1)
+- [Dev.to/JS] [49 Free Online Courses - November 27, 2022](https://dev.to/theprogramminbuddyclub/49-free-online-courses-november-27-2022-27ec)
+- [Dev.to/JS] [Create a package-based Monorepo with Nx](https://dev.to/leduc1901/create-a-package-based-monorepo-with-nx-3990)
+- [Dev.to/JS] [The Difference Between the Java &amp; Javascript](https://dev.to/snehasishkonger/the-difference-between-the-java-javascript-4mf2)
+- [Dev.to/JS] [Fancy Text Generator 𝕐𝕠𝕦𝕣 𝕋𝕖𝕩𝕥 &lpar;𝓬𝓸𝓹𝔂 𝓪𝓷𝓭 𝓹𝓪𝓼𝓽𝓮&rpar;](https://dev.to/elinabey/fancy-text-generator--20oe)
+- [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Dev.to/JS] [What are the plans for this week?](https://dev.to/mitchiemt11/what-are-the-plans-for-this-week-5336)
 - [Dev.to/JS] [Guide: How to become front end developer in 2023?](https://dev.to/learnnhq/guide-how-to-become-front-end-developer-in-2023-479c)
 - [Dev.to/JS] [Building “.ignore” mechanism with 30 lines of code](https://dev.to/ahmedsudani/building-ignore-mechanism-with-30-lines-of-code-4hkg)
@@ -30,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nyan Profile: A simple and extensible scaffold for building personal profile website.](https://dev.to/memochou1993/nyan-profile-a-simple-and-extensible-scaffold-for-building-personal-profile-website-4ci)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
 - [Dev.to/JS] [6 Killer JavaScript One-Liners — for beginners](https://dev.to/hy_piyush/6-killer-javascript-one-liners-for-beginners-i5a)
-- [Dev.to/JS] [Use Preact in Next.js 13](https://dev.to/dephraiim/use-preact-in-nextjs-13-24pp)
-- [Dev.to/JS] [100+ JavaScript concepts, same app using 7 frameworks &amp; CSS flex explained the right way](https://dev.to/kokaneka/100-javascript-concepts-same-app-using-7-frameworks-css-flex-explained-the-right-way-5cdf)
-- [Dev.to/JS] [Why do you prefer using a scripting language?](https://dev.to/mikenakis/why-do-you-prefer-using-a-scripting-language-4f4b)
-- [Dev.to/JS] [Bridge pattern in TypeScript](https://dev.to/jmalvarez/bridge-pattern-in-typescript-3hmj)
-- [Dev.to/JS] [best free video editing software](https://dev.to/itsidris7/best-free-video-editing-software-4d81)
-- [Dev.to/JS] [How to Create a Table with Inline CRUD with Angular 14+](https://dev.to/chadwinjdeysel/how-to-create-a-table-with-inline-crud-with-angular-14-19e9)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Never Been Easier to Digitize Your Life](https://lifehacker.com/its-never-been-easier-to-digitize-your-life-1849816670)
 - [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
 - [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)
-- [Lifehacker] [Black Friday Has a Lot of Good Streaming Deals](https://lifehacker.com/black-friday-has-a-lot-of-good-streaming-deals-1849813362)
-- [Lifehacker] [8 of the Best Non-Tech Gift Ideas for Techies](https://lifehacker.com/8-of-the-best-non-tech-gift-ideas-for-techies-1849811282)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Black Friday Has a Lot of Good Streaming Deals](https://lifehacker.com/black-friday-has-a-lot-of-good-streaming-deals-1849813362)<!-- TECH-POSTS:END -->
 
 ---
 
