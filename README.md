@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Release 0.4 - Week 1](https://dev.to/lostbutton/release-04-week-1-li5)
+- [Dev.to/JS] [How to make a to-do list using Javascript](https://dev.to/lensco825/how-to-make-a-to-do-list-using-javascript-23j0)
 - [Dev.to/JS] [OSD600: Adding CI to Siteit](https://dev.to/tdaw/osd600-adding-ci-to-siteit-c71)
 - [Dev.to/JS] [The Best Country API to use for Your Next Coding Project in 2022](https://dev.to/ralph0909/the-best-country-api-to-use-for-your-next-coding-project-in-2022-20pi)
 - [Dev.to/JS] [Open Source Analytics Dashboard](https://dev.to/theplugjumbo/open-source-analytics-dashboard-4cck)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My JavaScript Pseudocode steps.](https://dev.to/jdoud1993/my-javascript-pseudocode-steps-105h)
 - [Dev.to/JS] [What should you concern about developing a Discord Bot &lpar;Jet Brawley&rpar;](https://dev.to/leecheeyong/what-should-you-concern-about-developing-a-discord-bot-jet-brawley-30e9)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
-- [Dev.to/JS] [Zod Typesafe User Input](https://dev.to/perkinsjr/zod-typesafe-user-input-4pll)
-- [Dev.to/JS] [Wasp Beta Launch Week announcement](https://dev.to/wasp/wasp-beta-launch-week-announcement-2363)
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
