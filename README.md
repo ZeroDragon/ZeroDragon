@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bitdefender Family Pack 2022 26.0.32 Crack 2022 Free Download](https://dev.to/softcracker/bitdefender-family-pack-2022-26032-crack-2022-free-download-8c)
+- [Dev.to/JS] [Tips: Array destructuring in javascript ES6](https://dev.to/devvsakib/tips-array-destructuring-in-javascript-es6-3clg)
+- [Dev.to/JS] [Finding all children of a node in a tree](https://dev.to/bijishjs/finding-all-children-of-a-node-in-a-tree-2cbn)
+- [Lifehacker] [The Best Privacy-Focused Browsers You’ve Never Heard Of](https://lifehacker.com/the-best-privacy-focused-browsers-you-ve-never-heard-of-1849823243)
+- [Dev.to/JS] [Manage Google Analytics, PayPal, Stripe from one app](https://dev.to/theplugjumbo/manage-google-analytics-paypal-stripe-from-one-app-5854)
+- [Dev.to/JS] [Get started with Chakra-UI](https://dev.to/devsuite/get-started-with-chakra-ui-242d)
+- [Lifehacker] [How to Avoid an Online Shopping Fail](https://lifehacker.com/how-to-avoid-an-online-shopping-fail-1849825985)
 - [Dev.to/JS] [Compress &amp; Decompress An ArrayBuffer Client Side in JS](https://dev.to/lucasdamianjohnson/compress-decompress-an-arraybuffer-client-side-in-js-2nf6)
 - [Dev.to/JS] [50 Free Online Courses - November 28, 2022](https://dev.to/theprogramminbuddyclub/50-free-online-courses-november-28-2022-3m68)
 - [Lifehacker] [30 of Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
@@ -33,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)
 - [Dev.to/JS] [Micro frontends using webpack’s module federation with create-react-app](https://dev.to/xtrinch/micro-frontends-using-webpacks-module-federation-with-create-react-app-45oe)
 - [Dev.to/JS] [React js best practices you must know as a developer](https://dev.to/documatic/react-js-best-practices-you-must-know-as-a-developer-1lm9)
-- [Dev.to/JS] [React with MUI](https://dev.to/m_shkreli21/react-with-mui-1a0f)
-- [Dev.to/JS] [🚀 Building a Decentralized Chat App using GUN.js and Svelte](https://dev.to/envoy_/building-a-decentralized-chat-app-using-gunjs-and-svelte-29h6)
 - [Lifehacker] [The Easiest Way to Clean Couches and Fabrics, According to TikTok](https://lifehacker.com/the-easiest-way-to-clean-couches-and-fabrics-according-1849817454)
-- [Dev.to/JS] [Best of Weekly Resources 2019-2022](https://dev.to/vincenius/best-of-weekly-resources-2019-2022-24l9)
 - [Lifehacker] [Unexpected Ways to Use Old Cardboard Around the House](https://lifehacker.com/unexpected-ways-to-use-old-cardboard-around-the-house-1849817365)
-- [Dev.to/JS] [Don&#39;t use res.json&lpar;&rpar; twice in a single POST request...](https://dev.to/arpitharajeev1/dont-use-resjson-twice-in-a-single-post-request-1jna)
-- [Dev.to/JS] [What makes TypeScript important to learn?](https://dev.to/nidhisharma63/what-makes-typescript-important-to-learn-1k7a)
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, You Can Really Have a Heart Attack From Shoveling Snow](https://lifehacker.com/yes-you-can-really-have-a-heart-attack-from-shoveling-1849818044)
 - [Lifehacker] [This Shortcut Makes a Kid-Friendly Version of Your Explicit Apple Music Playlists](https://lifehacker.com/this-shortcut-makes-a-kid-friendly-version-of-your-expl-1849816768)
 - [Lifehacker] [The Best Way to Budget When Your Income Fluctuates](https://lifehacker.com/the-best-way-to-budget-when-your-income-fluctuates-1849817240)
-- [Lifehacker] [What&#39;s New on Paramount+ in December 2022](https://lifehacker.com/whats-new-on-paramount-in-december-2022-1849817476)
-- [Lifehacker] [Never Put Essential Oils in Your Humidifier Water &lpar;but Do This Instead&rpar;](https://lifehacker.com/never-put-essential-oils-in-your-humidifier-water-but-1849816664)
-- [Lifehacker] [What&#39;s New on HBO Max in December 2022](https://lifehacker.com/whats-new-on-hbo-max-in-december-2022-1849817318)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ in December 2022](https://lifehacker.com/whats-new-on-paramount-in-december-2022-1849817476)<!-- TECH-POSTS:END -->
 
 ---
 
