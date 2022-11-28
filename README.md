@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [11-JS/TS OOP: Polymorphism In OOP](https://dev.to/hassanzohdy/11-jsts-oop-polymorphism-in-oop-4oo8)
+- [Dev.to/JS] [How to Build a Blog App Using Blazor WASM and Strapi](https://dev.to/strapi/how-to-build-a-blog-app-using-blazor-wasm-and-strapi-4o05)
+- [Dev.to/JS] [Top 10 AngularJS Development Companies](https://dev.to/codersnews/top-10-angularjs-development-companies-3a26)
+- [Dev.to/JS] [Solid Start auth – the secure way &lpar;with BCrypt &amp; PSQL&rpar;](https://dev.to/aneshodza/solid-start-auth-the-secure-way-with-bcrypt-psql-52ap)
 - [Dev.to/JS] [Creating REST API routes in Node.js](https://dev.to/aneeqakhan/creating-rest-api-routes-in-nodejs-207k)
 - [Dev.to/JS] [How do you implement the &quot; Command+P&quot; function?](https://dev.to/dk_bfm/how-do-you-implement-the-p-function-1596)
 - [Dev.to/JS] [REST API vs GraphQL](https://dev.to/documatic/rest-api-vs-graphql-1a0n)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a counter using HTML and CSS](https://dev.to/folasayosamuel/how-to-create-a-counter-using-html-and-css-3dob)
 - [Dev.to/JS] [Web Development Full Course](https://dev.to/tejashwinivijaykumar/web-development-full-course-3cdk)
 - [Dev.to/JS] [10-JS/TS OOP: Level Two: OOP Principles](https://dev.to/hassanzohdy/10-jsts-oop-level-two-oop-principles-4hon)
-- [Dev.to/JS] [Which Industry Needs Digital Marketing?](https://dev.to/azeeem42606885/which-industry-needs-digital-marketing-3oib)
-- [Dev.to/JS] [Vite multi-environment setup](https://dev.to/jicking/vite-multi-environment-setup-5d2)
-- [Dev.to/JS] [OpenOps is adding PayPal and Stripe integrations](https://dev.to/theplugjumbo/openops-is-adding-paypal-and-stripe-integrations-31bo)
-- [Dev.to/JS] [What make you confused on Crypto-Js package for Node.js](https://dev.to/akashcsemu/what-make-you-confused-on-crypto-js-package-for-nodejs-5c2a)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
