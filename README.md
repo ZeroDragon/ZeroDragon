@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)
+- [Dev.to/JS] [Let&#39;s create Pinterest&#39;s home feed layout using tailwind CSS &amp; a Simple CSS Trick](https://dev.to/sabinbaniya/lets-create-pinterests-home-feed-layout-using-tailwind-css-a-simple-css-trick-3l38)
+- [Dev.to/JS] [NEW Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/new-personal-portfolio-website-using-html-css-javascript-k83)
+- [Dev.to/JS] [Undoh](https://dev.to/ekadagami/undoh-2297)
+- [Dev.to/JS] [Introducing Template Widgets for Flatlogic Platform](https://dev.to/flatlogic/introducing-template-widgets-for-flatlogic-platform-4ldm)
 - [Dev.to/JS] [React JS Sample Project Step-by-Step with source code and live demo](https://dev.to/fullstackvault/react-js-sample-project-step-by-step-with-source-code-and-live-demo-2bn)
 - [Dev.to/JS] [How Michael Curry chose Wasp to build Grabbit: an internal tool for managing dev resources at StudentBeans](https://dev.to/wasp/how-michael-curry-chose-wasp-to-build-grabbit-an-internal-tool-for-managing-dev-resources-at-studentbeans-12dm)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week☀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-mfe)
@@ -30,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2225. Leetcode Solution javascript](https://dev.to/chiki1601/2225-leetcode-solution-javascript-59ia)
 - [Dev.to/JS] [How To SELECT, COUNT and JOIN Supabase Data](https://dev.to/thisisisheanesu/how-to-select-count-and-join-supabase-data-3ihk)
 - [Dev.to/JS] [Why Full Stack Web Development?](https://dev.to/tejashwinivijaykumar/why-full-stack-web-development-44pd)
-- [Dev.to/JS] [Free your mind and start creating useful automations with Znote 🤖](https://dev.to/alagrede/free-your-mind-and-start-creating-useful-automations-with-znote-27pc)
 - [Dev.to/JS] [Replaying network requests on puppeteer](https://dev.to/sametcodes/replaying-network-requests-on-puppeteer-2j3o)
-- [Dev.to/JS] [What Is the Idea Behind the ASP.NET Core Web API?](https://dev.to/folasayosamuel/what-is-the-idea-behind-the-aspnet-core-web-api-4d1g)
-- [Dev.to/JS] [11-JS/TS OOP: Polymorphism In OOP](https://dev.to/hassanzohdy/11-jsts-oop-polymorphism-in-oop-4oo8)
-- [Dev.to/JS] [How to Build a Blog App Using Blazor WASM and Strapi](https://dev.to/strapi/how-to-build-a-blog-app-using-blazor-wasm-and-strapi-4o05)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hold a Coworker Accountable When Your Boss Won&#39;t](https://lifehacker.com/how-to-hold-a-coworker-accountable-when-your-boss-wont-1849816741)
 - [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
 - [Lifehacker] [It&#39;s Never Been Easier to Digitize Your Life](https://lifehacker.com/its-never-been-easier-to-digitize-your-life-1849816670)
-- [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
-- [Lifehacker] [These Are the Best Black Friday Deals for Popular Apps](https://lifehacker.com/these-are-the-best-black-friday-deals-for-popular-apps-1849816196)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)<!-- TECH-POSTS:END -->
 
 ---
 
