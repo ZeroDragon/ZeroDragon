@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vite multi environment setup](https://dev.to/jicking/vite-multi-environment-setup-5d2)
+- [Dev.to/JS] [OpenOps is adding PayPal and Stripe integrations](https://dev.to/theplugjumbo/openops-is-adding-paypal-and-stripe-integrations-31bo)
+- [Dev.to/JS] [What make you confused on Crypto-Js package for Node.js](https://dev.to/akashcsemu/what-make-you-confused-on-crypto-js-package-for-nodejs-5c2a)
 - [Dev.to/JS] [Beginning JavaScript Tutorial: Master JavaScript](https://dev.to/juannharr/beginning-javascript-tutorial-master-javascript-579m)
 - [Dev.to/JS] [InstaNext13](https://dev.to/tookooltech/instanext13-1fai)
 - [Dev.to/JS] [First Update Since Starting To Refresh My React Skill - Not...](https://dev.to/ty_51/first-update-since-starting-to-refresh-my-react-skill-not-1p2o)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pogress on my study](https://dev.to/elianxd55/pogress-on-my-study-24ja)
 - [Dev.to/JS] [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
 - [Dev.to/JS] [How to publish your project to npm?](https://dev.to/gulyapulya/how-to-publish-your-github-project-to-npm-52kd)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Nov 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-nov-2022-45b2)
-- [Dev.to/JS] [Thus Spoke OpenAPI](https://dev.to/dagdrom/thus-spoke-openapi-47nm)
-- [Dev.to/JS] [Git and GitHub](https://dev.to/damian_chisom/git-and-github-4jga)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
