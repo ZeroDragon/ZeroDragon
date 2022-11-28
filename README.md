@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Vite multi environment setup](https://dev.to/jicking/vite-multi-environment-setup-5d2)
+- [Dev.to/JS] [Which Industry Needs Digital Marketing?](https://dev.to/azeeem42606885/which-industry-needs-digital-marketing-3oib)
+- [Dev.to/JS] [Vite multi-environment setup](https://dev.to/jicking/vite-multi-environment-setup-5d2)
 - [Dev.to/JS] [OpenOps is adding PayPal and Stripe integrations](https://dev.to/theplugjumbo/openops-is-adding-paypal-and-stripe-integrations-31bo)
 - [Dev.to/JS] [What make you confused on Crypto-Js package for Node.js](https://dev.to/akashcsemu/what-make-you-confused-on-crypto-js-package-for-nodejs-5c2a)
 - [Dev.to/JS] [Beginning JavaScript Tutorial: Master JavaScript](https://dev.to/juannharr/beginning-javascript-tutorial-master-javascript-579m)
@@ -31,7 +32,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First Update Since Starting To Refresh My React Skill - Not...](https://dev.to/ty_51/first-update-since-starting-to-refresh-my-react-skill-not-1p2o)
 - [Dev.to/JS] [InstaNext](https://dev.to/tookooltech/instanext-3fe)
 - [Dev.to/JS] [Text Search](https://dev.to/986913/text-search-3l53)
-- [Dev.to/JS] [Example of Tagging](https://dev.to/chanelle_qi/on-using-tags-4n06)
 - [Dev.to/JS] [Pogress on my study](https://dev.to/elianxd55/pogress-on-my-study-24ja)
 - [Dev.to/JS] [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
 - [Dev.to/JS] [How to publish your project to npm?](https://dev.to/gulyapulya/how-to-publish-your-github-project-to-npm-52kd)
