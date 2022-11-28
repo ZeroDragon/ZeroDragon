@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Never Miss a Spot Sweeping](https://lifehacker.com/the-easiest-way-to-never-miss-a-spot-sweeping-1849827093)
+- [Dev.to/JS] [Planning: Enhance a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/plan-enhance-a-slack-bot-to-announce-sign-ups-58c2)
+- [Dev.to/JS] [Introduction to Lexers, Parsers and Interpreters with Chevrotain](https://dev.to/codingwithadam/introduction-to-lexers-parsers-and-interpreters-with-chevrotain-5c7b)
+- [Lifehacker] [Stop Your Unconscious Spending](https://lifehacker.com/stop-your-unconscious-spending-1849826638)
+- [Dev.to/JS] [Gatsby: a modern tool for creating fast websites](https://dev.to/maxikius/gatsby-a-modern-tool-for-creating-fast-websites-1nhb)
+- [Lifehacker] [The Best App to Always Win at Music Trivia](https://lifehacker.com/the-best-app-to-always-win-at-music-trivia-1849820484)
 - [Dev.to/JS] [let&#39;s learn container queries and how to do them in tailwind.](https://dev.to/mr_mornin_star/lets-learn-container-queries-and-how-to-do-them-in-tailwind-27m5)
 - [Lifehacker] [What to Do When Your Kid Starts Tattling That Santa Isn’t Real](https://lifehacker.com/what-to-do-when-your-kid-starts-tattling-that-santa-isn-1849774102)
 - [Dev.to/JS] [Understanding equality in JavaScript](https://dev.to/rmmgc/understanding-equality-in-javascript-47ol)
@@ -36,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get started with Chakra-UI](https://dev.to/devsuite/get-started-with-chakra-ui-242d)
 - [Lifehacker] [How to Avoid an Online Shopping Fail](https://lifehacker.com/how-to-avoid-an-online-shopping-fail-1849825985)
 - [Dev.to/JS] [Compress &amp; Decompress An ArrayBuffer Client Side in JS](https://dev.to/lucasdamianjohnson/compress-decompress-an-arraybuffer-client-side-in-js-2nf6)
-- [Dev.to/JS] [50 Free Online Courses - November 28, 2022](https://dev.to/theprogramminbuddyclub/50-free-online-courses-november-28-2022-3m68)
-- [Lifehacker] [30 of Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
-- [Dev.to/JS] [Angular Material Mobile App with Capacitor](https://dev.to/simon/angular-material-mobile-app-with-capacitor-2pjl)
-- [Dev.to/JS] [How I improved my JS code with these 3 functions](https://dev.to/vhutov/how-i-improved-my-js-code-with-these-3-functions-54j6)
+- [Lifehacker] [30 of the Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
 - [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)
 - [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)
 - [Lifehacker] [The Easiest Way to Clean Couches and Fabrics, According to TikTok](https://lifehacker.com/the-easiest-way-to-clean-couches-and-fabrics-according-1849817454)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
 - [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
 - [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
-- [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
-- [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
-- [Lifehacker] [Yes, You Can Really Have a Heart Attack From Shoveling Snow](https://lifehacker.com/yes-you-can-really-have-a-heart-attack-from-shoveling-1849818044)
-- [Lifehacker] [This Shortcut Makes a Kid-Friendly Version of Your Explicit Apple Music Playlists](https://lifehacker.com/this-shortcut-makes-a-kid-friendly-version-of-your-expl-1849816768)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)<!-- TECH-POSTS:END -->
 
 ---
 
