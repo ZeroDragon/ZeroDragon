@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)
+- [Dev.to/JS] [How Can I achieve this interaction?](https://dev.to/itsazzam/how-can-i-achieve-this-interaction-3915)
+- [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)
+- [Dev.to/JS] [Micro frontends using webpack’s module federation with create-react-app](https://dev.to/xtrinch/micro-frontends-using-webpacks-module-federation-with-create-react-app-45oe)
+- [Dev.to/JS] [React js best practices you must know as a developer](https://dev.to/documatic/react-js-best-practices-you-must-know-as-a-developer-1lm9)
+- [Dev.to/JS] [React with MUI](https://dev.to/m_shkreli21/react-with-mui-1a0f)
+- [Dev.to/JS] [🚀 Building a Decentralized Chat App using GUN.js and Svelte](https://dev.to/envoy_/building-a-decentralized-chat-app-using-gunjs-and-svelte-29h6)
 - [Lifehacker] [The Easiest Way to Clean Couches and Fabrics, According to TikTok](https://lifehacker.com/the-easiest-way-to-clean-couches-and-fabrics-according-1849817454)
 - [Dev.to/JS] [Best of Weekly Resources 2019-2022](https://dev.to/vincenius/best-of-weekly-resources-2019-2022-24l9)
 - [Lifehacker] [Unexpected Ways to Use Old Cardboard Around the House](https://lifehacker.com/unexpected-ways-to-use-old-cardboard-around-the-house-1849817365)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s create Pinterest&#39;s home feed layout using tailwind CSS &amp; a Simple CSS Trick](https://dev.to/sabinbaniya/lets-create-pinterests-home-feed-layout-using-tailwind-css-a-simple-css-trick-3l38)
 - [Dev.to/JS] [NEW Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/new-personal-portfolio-website-using-html-css-javascript-k83)
 - [Dev.to/JS] [Undoh](https://dev.to/ekadagami/undoh-2297)
-- [Dev.to/JS] [Introducing Template Widgets for Flatlogic Platform](https://dev.to/flatlogic/introducing-template-widgets-for-flatlogic-platform-4ldm)
-- [Dev.to/JS] [React JS Sample Project Step-by-Step with source code and live demo](https://dev.to/fullstackvault/react-js-sample-project-step-by-step-with-source-code-and-live-demo-2bn)
-- [Dev.to/JS] [How Michael Curry chose Wasp to build Grabbit: an internal tool for managing dev resources at StudentBeans](https://dev.to/wasp/how-michael-curry-chose-wasp-to-build-grabbit-an-internal-tool-for-managing-dev-resources-at-studentbeans-12dm)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week☀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-mfe)
-- [Dev.to/JS] [Grouping and aggregation in React - made easy by Infinite Table](https://dev.to/get_infinite/grouping-and-aggregation-in-react-made-easy-by-infinite-table-564)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in December 2022](https://lifehacker.com/whats-new-on-paramount-in-december-2022-1849817476)
 - [Lifehacker] [Never Put Essential Oils in Your Humidifier Water &lpar;but Do This Instead&rpar;](https://lifehacker.com/never-put-essential-oils-in-your-humidifier-water-but-1849816664)
 - [Lifehacker] [What&#39;s New on HBO Max in December 2022](https://lifehacker.com/whats-new-on-hbo-max-in-december-2022-1849817318)
-- [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)
-- [Lifehacker] [How to Hold a Coworker Accountable When Your Boss Won&#39;t](https://lifehacker.com/how-to-hold-a-coworker-accountable-when-your-boss-wont-1849816741)
-- [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)<!-- TECH-POSTS:END -->
 
 ---
 
