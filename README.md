@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React JS Sample Project Step-by-Step with source code and live demo](https://dev.to/fullstackvault/react-js-sample-project-step-by-step-with-source-code-and-live-demo-2bn)
 - [Dev.to/JS] [How Michael Curry chose Wasp to build Grabbit: an internal tool for managing dev resources at StudentBeans](https://dev.to/wasp/how-michael-curry-chose-wasp-to-build-grabbit-an-internal-tool-for-managing-dev-resources-at-studentbeans-12dm)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week☀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-mfe)
 - [Dev.to/JS] [Grouping and aggregation in React - made easy by Infinite Table](https://dev.to/get_infinite/grouping-and-aggregation-in-react-made-easy-by-infinite-table-564)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Is the Idea Behind the ASP.NET Core Web API?](https://dev.to/folasayosamuel/what-is-the-idea-behind-the-aspnet-core-web-api-4d1g)
 - [Dev.to/JS] [11-JS/TS OOP: Polymorphism In OOP](https://dev.to/hassanzohdy/11-jsts-oop-polymorphism-in-oop-4oo8)
 - [Dev.to/JS] [How to Build a Blog App Using Blazor WASM and Strapi](https://dev.to/strapi/how-to-build-a-blog-app-using-blazor-wasm-and-strapi-4o05)
-- [Dev.to/JS] [Top 10 AngularJS Development Companies](https://dev.to/codersnews/top-10-angularjs-development-companies-3a26)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
