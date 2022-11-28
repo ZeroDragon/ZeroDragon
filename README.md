@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Example of Tagging](https://dev.to/chanelle_qi/on-using-tags-4n06)
 - [Dev.to/JS] [Pogress on my study](https://dev.to/elianxd55/pogress-on-my-study-24ja)
 - [Dev.to/JS] [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
 - [Dev.to/JS] [How to publish your project to npm?](https://dev.to/gulyapulya/how-to-publish-your-github-project-to-npm-52kd)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Now What : How To Keep Learning after Landing the 1st Tech job](https://dev.to/nerajno/now-what-how-to-keep-learning-after-landing-the-1st-tech-job-3nhj)
 - [Dev.to/JS] [How to scrape Google Search Results](https://dev.to/serpdogapi/how-to-scrape-google-search-results-1gfb)
 - [Dev.to/JS] [APIs del DOM](https://dev.to/voyagerdevil/apis-del-dom-4aff)
-- [Dev.to/JS] [Object Destructuring in JavaScript ES6](https://dev.to/devvsakib/object-destructuring-in-javascript-es6-13d9)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
