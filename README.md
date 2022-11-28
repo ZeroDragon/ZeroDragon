@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Compress &amp; Decompress An ArrayBuffer Client Side in JS](https://dev.to/lucasdamianjohnson/compress-decompress-an-arraybuffer-client-side-in-js-2nf6)
+- [Dev.to/JS] [50 Free Online Courses - November 28, 2022](https://dev.to/theprogramminbuddyclub/50-free-online-courses-november-28-2022-3m68)
+- [Lifehacker] [30 of Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
+- [Dev.to/JS] [Angular Material Mobile App with Capacitor](https://dev.to/simon/angular-material-mobile-app-with-capacitor-2pjl)
+- [Dev.to/JS] [How I improved my JS code with these 3 functions](https://dev.to/vhutov/how-i-improved-my-js-code-with-these-3-functions-54j6)
 - [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)
 - [Dev.to/JS] [How Can I achieve this interaction?](https://dev.to/itsazzam/how-can-i-achieve-this-interaction-3915)
 - [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)
@@ -35,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Unexpected Ways to Use Old Cardboard Around the House](https://lifehacker.com/unexpected-ways-to-use-old-cardboard-around-the-house-1849817365)
 - [Dev.to/JS] [Don&#39;t use res.json&lpar;&rpar; twice in a single POST request...](https://dev.to/arpitharajeev1/dont-use-resjson-twice-in-a-single-post-request-1jna)
 - [Dev.to/JS] [What makes TypeScript important to learn?](https://dev.to/nidhisharma63/what-makes-typescript-important-to-learn-1k7a)
-- [Dev.to/JS] [Style your Angular website faster with Stylify CSS](https://dev.to/machy8/style-your-angular-website-faster-with-stylify-css-2i6p)
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)
-- [Dev.to/JS] [Let&#39;s create Pinterest&#39;s home feed layout using tailwind CSS &amp; a Simple CSS Trick](https://dev.to/sabinbaniya/lets-create-pinterests-home-feed-layout-using-tailwind-css-a-simple-css-trick-3l38)
-- [Dev.to/JS] [NEW Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/new-personal-portfolio-website-using-html-css-javascript-k83)
-- [Dev.to/JS] [Undoh](https://dev.to/ekadagami/undoh-2297)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Budget When Your Income Fluctuates](https://lifehacker.com/the-best-way-to-budget-when-your-income-fluctuates-1849817240)
 - [Lifehacker] [What&#39;s New on Paramount+ in December 2022](https://lifehacker.com/whats-new-on-paramount-in-december-2022-1849817476)
 - [Lifehacker] [Never Put Essential Oils in Your Humidifier Water &lpar;but Do This Instead&rpar;](https://lifehacker.com/never-put-essential-oils-in-your-humidifier-water-but-1849816664)
-- [Lifehacker] [What&#39;s New on HBO Max in December 2022](https://lifehacker.com/whats-new-on-hbo-max-in-december-2022-1849817318)
-- [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on HBO Max in December 2022](https://lifehacker.com/whats-new-on-hbo-max-in-december-2022-1849817318)<!-- TECH-POSTS:END -->
 
 ---
 
