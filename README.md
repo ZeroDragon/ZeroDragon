@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Recalled Sippy Cups and Bottles Pose a Lead-Poisoning Hazard](https://lifehacker.com/these-recalled-sippy-cups-and-bottles-pose-a-lead-poiso-1849827055)
+- [Dev.to/JS] [Understanding The Difference Between Cross Browser Testing &amp; Responsive Testing](https://dev.to/andreamaxwell/understanding-the-difference-between-cross-browser-testing-responsive-testing-il6)
+- [Dev.to/JS] [Coding is a Superpower](https://dev.to/chamberezigbo/coding-is-a-superpower-4og1)
+- [Lifehacker] [Here’s How Much Data Companies Will Harvest From You on Cyber Monday](https://lifehacker.com/here-s-how-much-data-companies-will-harvest-from-you-on-1849826050)
 - [Lifehacker] [The Easiest Way to Never Miss a Spot Sweeping](https://lifehacker.com/the-easiest-way-to-never-miss-a-spot-sweeping-1849827093)
-- [Dev.to/JS] [Planning: Enhance a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/plan-enhance-a-slack-bot-to-announce-sign-ups-58c2)
+- [Dev.to/JS] [Planning: Enhancing a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/plan-enhance-a-slack-bot-to-announce-sign-ups-58c2)
 - [Dev.to/JS] [Introduction to Lexers, Parsers and Interpreters with Chevrotain](https://dev.to/codingwithadam/introduction-to-lexers-parsers-and-interpreters-with-chevrotain-5c7b)
 - [Lifehacker] [Stop Your Unconscious Spending](https://lifehacker.com/stop-your-unconscious-spending-1849826638)
 - [Dev.to/JS] [Gatsby: a modern tool for creating fast websites](https://dev.to/maxikius/gatsby-a-modern-tool-for-creating-fast-websites-1nhb)
@@ -34,14 +38,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding equality in JavaScript](https://dev.to/rmmgc/understanding-equality-in-javascript-47ol)
 - [Dev.to/JS] [Adding comments to my Astro blog with PlanetScale &amp; Prisma on Vercel Edge](https://dev.to/thomasledoux1/adding-comments-to-my-astro-blog-with-planetscale-prisma-on-vercel-edge-1a3j)
 - [Lifehacker] [12 of the Best Ways to Use Up Leftover Cranberry Sauce](https://lifehacker.com/12-of-the-best-ways-to-use-up-leftover-cranberry-sauce-1849826614)
-- [Dev.to/JS] [Bitdefender Family Pack 2022 26.0.32 Crack 2022 Free Download](https://dev.to/softcracker/bitdefender-family-pack-2022-26032-crack-2022-free-download-8c)
 - [Dev.to/JS] [Tips: Array destructuring in javascript ES6](https://dev.to/devvsakib/tips-array-destructuring-in-javascript-es6-3clg)
 - [Dev.to/JS] [Finding all children of a node in a tree](https://dev.to/bijishjs/finding-all-children-of-a-node-in-a-tree-2cbn)
 - [Lifehacker] [The Best Privacy-Focused Browsers You’ve Never Heard Of](https://lifehacker.com/the-best-privacy-focused-browsers-you-ve-never-heard-of-1849823243)
 - [Dev.to/JS] [Manage Google Analytics, PayPal, Stripe from one app](https://dev.to/theplugjumbo/manage-google-analytics-paypal-stripe-from-one-app-5854)
 - [Dev.to/JS] [Get started with Chakra-UI](https://dev.to/devsuite/get-started-with-chakra-ui-242d)
 - [Lifehacker] [How to Avoid an Online Shopping Fail](https://lifehacker.com/how-to-avoid-an-online-shopping-fail-1849825985)
-- [Dev.to/JS] [Compress &amp; Decompress An ArrayBuffer Client Side in JS](https://dev.to/lucasdamianjohnson/compress-decompress-an-arraybuffer-client-side-in-js-2nf6)
 - [Lifehacker] [30 of the Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
 - [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)
 - [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
 - [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
 - [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
-- [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)
-- [Lifehacker] [Don&#39;t Fall for These 8 Modern Thanksgiving Lies](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
-- [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)<!-- TECH-POSTS:END -->
 
 ---
 
