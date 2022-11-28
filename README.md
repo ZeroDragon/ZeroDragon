@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Clean Couches and Fabrics, According to TikTok](https://lifehacker.com/the-easiest-way-to-clean-couches-and-fabrics-according-1849817454)
+- [Dev.to/JS] [Best of Weekly Resources 2019-2022](https://dev.to/vincenius/best-of-weekly-resources-2019-2022-24l9)
+- [Lifehacker] [Unexpected Ways to Use Old Cardboard Around the House](https://lifehacker.com/unexpected-ways-to-use-old-cardboard-around-the-house-1849817365)
+- [Dev.to/JS] [Don&#39;t use res.json&lpar;&rpar; twice in a single POST request...](https://dev.to/arpitharajeev1/dont-use-resjson-twice-in-a-single-post-request-1jna)
+- [Dev.to/JS] [What makes TypeScript important to learn?](https://dev.to/nidhisharma63/what-makes-typescript-important-to-learn-1k7a)
+- [Dev.to/JS] [Style your Angular website faster with Stylify CSS](https://dev.to/machy8/style-your-angular-website-faster-with-stylify-css-2i6p)
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)
 - [Dev.to/JS] [Let&#39;s create Pinterest&#39;s home feed layout using tailwind CSS &amp; a Simple CSS Trick](https://dev.to/sabinbaniya/lets-create-pinterests-home-feed-layout-using-tailwind-css-a-simple-css-trick-3l38)
 - [Dev.to/JS] [NEW Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/new-personal-portfolio-website-using-html-css-javascript-k83)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Michael Curry chose Wasp to build Grabbit: an internal tool for managing dev resources at StudentBeans](https://dev.to/wasp/how-michael-curry-chose-wasp-to-build-grabbit-an-internal-tool-for-managing-dev-resources-at-studentbeans-12dm)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week☀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-mfe)
 - [Dev.to/JS] [Grouping and aggregation in React - made easy by Infinite Table](https://dev.to/get_infinite/grouping-and-aggregation-in-react-made-easy-by-infinite-table-564)
-- [Dev.to/JS] [2225. Leetcode Solution javascript](https://dev.to/chiki1601/2225-leetcode-solution-javascript-59ia)
-- [Dev.to/JS] [How To SELECT, COUNT and JOIN Supabase Data](https://dev.to/thisisisheanesu/how-to-select-count-and-join-supabase-data-3ihk)
-- [Dev.to/JS] [Why Full Stack Web Development?](https://dev.to/tejashwinivijaykumar/why-full-stack-web-development-44pd)
-- [Dev.to/JS] [Replaying network requests on puppeteer](https://dev.to/sametcodes/replaying-network-requests-on-puppeteer-2j3o)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in December 2022](https://lifehacker.com/whats-new-on-hbo-max-in-december-2022-1849817318)
 - [Lifehacker] [Save This USDA Hotline for Emergency Food-Safety Questions](https://lifehacker.com/save-this-usda-hotline-for-emergency-food-safety-questi-1849817203)
 - [Lifehacker] [How to Hold a Coworker Accountable When Your Boss Won&#39;t](https://lifehacker.com/how-to-hold-a-coworker-accountable-when-your-boss-wont-1849816741)
-- [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)
-- [Lifehacker] [It&#39;s Never Been Easier to Digitize Your Life](https://lifehacker.com/its-never-been-easier-to-digitize-your-life-1849816670)
-- [Lifehacker] [Make This Casual, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Keep These Things in Mind Before Buying a House in the Winter](https://lifehacker.com/keep-these-things-in-mind-before-buying-a-house-in-the-1849817071)<!-- TECH-POSTS:END -->
 
 ---
 
