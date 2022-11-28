@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Michael Curry chose Wasp to build Grabbit: an internal tool for managing dev resources at StudentBeans](https://dev.to/wasp/how-michael-curry-chose-wasp-to-build-grabbit-an-internal-tool-for-managing-dev-resources-at-studentbeans-12dm)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week☀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-mfe)
+- [Dev.to/JS] [Grouping and aggregation in React - made easy by Infinite Table](https://dev.to/get_infinite/grouping-and-aggregation-in-react-made-easy-by-infinite-table-564)
+- [Dev.to/JS] [2225. Leetcode Solution javascript](https://dev.to/chiki1601/2225-leetcode-solution-javascript-59ia)
 - [Dev.to/JS] [How To SELECT, COUNT and JOIN Supabase Data](https://dev.to/thisisisheanesu/how-to-select-count-and-join-supabase-data-3ihk)
 - [Dev.to/JS] [Why Full Stack Web Development?](https://dev.to/tejashwinivijaykumar/why-full-stack-web-development-44pd)
 - [Dev.to/JS] [Free your mind and start creating useful automations with Znote 🤖](https://dev.to/alagrede/free-your-mind-and-start-creating-useful-automations-with-znote-27pc)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [11-JS/TS OOP: Polymorphism In OOP](https://dev.to/hassanzohdy/11-jsts-oop-polymorphism-in-oop-4oo8)
 - [Dev.to/JS] [How to Build a Blog App Using Blazor WASM and Strapi](https://dev.to/strapi/how-to-build-a-blog-app-using-blazor-wasm-and-strapi-4o05)
 - [Dev.to/JS] [Top 10 AngularJS Development Companies](https://dev.to/codersnews/top-10-angularjs-development-companies-3a26)
-- [Dev.to/JS] [Solid Start auth – the secure way &lpar;with BCrypt &amp; PSQL&rpar;](https://dev.to/aneshodza/solid-start-auth-the-secure-way-with-bcrypt-psql-52ap)
-- [Dev.to/JS] [Creating REST API routes in Node.js](https://dev.to/aneeqakhan/creating-rest-api-routes-in-nodejs-207k)
-- [Dev.to/JS] [How do you implement the &quot; Command+P&quot; function?](https://dev.to/dk_bfm/how-do-you-implement-the-p-function-1596)
-- [Dev.to/JS] [REST API vs GraphQL](https://dev.to/documatic/rest-api-vs-graphql-1a0n)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
