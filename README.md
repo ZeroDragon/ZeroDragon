@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [let&#39;s learn container queries and how to do them in tailwind.](https://dev.to/mr_mornin_star/lets-learn-container-queries-and-how-to-do-them-in-tailwind-27m5)
+- [Lifehacker] [What to Do When Your Kid Starts Tattling That Santa Isn’t Real](https://lifehacker.com/what-to-do-when-your-kid-starts-tattling-that-santa-isn-1849774102)
+- [Dev.to/JS] [Understanding equality in JavaScript](https://dev.to/rmmgc/understanding-equality-in-javascript-47ol)
+- [Dev.to/JS] [Adding comments to my Astro blog with PlanetScale &amp; Prisma on Vercel Edge](https://dev.to/thomasledoux1/adding-comments-to-my-astro-blog-with-planetscale-prisma-on-vercel-edge-1a3j)
+- [Lifehacker] [12 of the Best Ways to Use Up Leftover Cranberry Sauce](https://lifehacker.com/12-of-the-best-ways-to-use-up-leftover-cranberry-sauce-1849826614)
 - [Dev.to/JS] [Bitdefender Family Pack 2022 26.0.32 Crack 2022 Free Download](https://dev.to/softcracker/bitdefender-family-pack-2022-26032-crack-2022-free-download-8c)
 - [Dev.to/JS] [Tips: Array destructuring in javascript ES6](https://dev.to/devvsakib/tips-array-destructuring-in-javascript-es6-3clg)
 - [Dev.to/JS] [Finding all children of a node in a tree](https://dev.to/bijishjs/finding-all-children-of-a-node-in-a-tree-2cbn)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Material Mobile App with Capacitor](https://dev.to/simon/angular-material-mobile-app-with-capacitor-2pjl)
 - [Dev.to/JS] [How I improved my JS code with these 3 functions](https://dev.to/vhutov/how-i-improved-my-js-code-with-these-3-functions-54j6)
 - [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)
-- [Dev.to/JS] [How Can I achieve this interaction?](https://dev.to/itsazzam/how-can-i-achieve-this-interaction-3915)
 - [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)
-- [Dev.to/JS] [Micro frontends using webpack’s module federation with create-react-app](https://dev.to/xtrinch/micro-frontends-using-webpacks-module-federation-with-create-react-app-45oe)
-- [Dev.to/JS] [React js best practices you must know as a developer](https://dev.to/documatic/react-js-best-practices-you-must-know-as-a-developer-1lm9)
 - [Lifehacker] [The Easiest Way to Clean Couches and Fabrics, According to TikTok](https://lifehacker.com/the-easiest-way-to-clean-couches-and-fabrics-according-1849817454)
 - [Lifehacker] [Unexpected Ways to Use Old Cardboard Around the House](https://lifehacker.com/unexpected-ways-to-use-old-cardboard-around-the-house-1849817365)
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream &#39;Goncharov,&#39; Martin Scorsese&#39;s Lost Masterpiece](https://lifehacker.com/where-to-stream-goncharov-martin-scorseses-lost-master-1849817752)
 - [Lifehacker] [Make This Truly Unhinged Thanksgiving Leftovers Sandwich](https://lifehacker.com/make-this-truly-unhinged-thanksgiving-leftovers-sandwic-1849818057)
 - [Lifehacker] [Yes, You Can Really Have a Heart Attack From Shoveling Snow](https://lifehacker.com/yes-you-can-really-have-a-heart-attack-from-shoveling-1849818044)
-- [Lifehacker] [This Shortcut Makes a Kid-Friendly Version of Your Explicit Apple Music Playlists](https://lifehacker.com/this-shortcut-makes-a-kid-friendly-version-of-your-expl-1849816768)
-- [Lifehacker] [The Best Way to Budget When Your Income Fluctuates](https://lifehacker.com/the-best-way-to-budget-when-your-income-fluctuates-1849817240)
-- [Lifehacker] [What&#39;s New on Paramount+ in December 2022](https://lifehacker.com/whats-new-on-paramount-in-december-2022-1849817476)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Shortcut Makes a Kid-Friendly Version of Your Explicit Apple Music Playlists](https://lifehacker.com/this-shortcut-makes-a-kid-friendly-version-of-your-expl-1849816768)<!-- TECH-POSTS:END -->
 
 ---
 
