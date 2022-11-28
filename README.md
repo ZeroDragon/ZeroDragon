@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beginning JavaScript Tutorial: Master JavaScript](https://dev.to/juannharr/beginning-javascript-tutorial-master-javascript-579m)
+- [Dev.to/JS] [InstaNext13](https://dev.to/tookooltech/instanext13-1fai)
+- [Dev.to/JS] [First Update Since Starting To Refresh My React Skill - Not...](https://dev.to/ty_51/first-update-since-starting-to-refresh-my-react-skill-not-1p2o)
+- [Dev.to/JS] [InstaNext](https://dev.to/tookooltech/instanext-3fe)
+- [Dev.to/JS] [Text Search](https://dev.to/986913/text-search-3l53)
 - [Dev.to/JS] [Example of Tagging](https://dev.to/chanelle_qi/on-using-tags-4n06)
 - [Dev.to/JS] [Pogress on my study](https://dev.to/elianxd55/pogress-on-my-study-24ja)
 - [Dev.to/JS] [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Nov 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-nov-2022-45b2)
 - [Dev.to/JS] [Thus Spoke OpenAPI](https://dev.to/dagdrom/thus-spoke-openapi-47nm)
 - [Dev.to/JS] [Git and GitHub](https://dev.to/damian_chisom/git-and-github-4jga)
-- [Dev.to/JS] [What is JSON with padding?](https://dev.to/sametcodes/what-is-json-with-padding-4pik)
-- [Dev.to/JS] [Neat console tricks to try out](https://dev.to/khenhey/neat-console-tricks-to-try-out-3cei)
-- [Dev.to/JS] [Now What : How To Keep Learning after Landing the 1st Tech job](https://dev.to/nerajno/now-what-how-to-keep-learning-after-landing-the-1st-tech-job-3nhj)
-- [Dev.to/JS] [How to scrape Google Search Results](https://dev.to/serpdogapi/how-to-scrape-google-search-results-1gfb)
-- [Dev.to/JS] [APIs del DOM](https://dev.to/voyagerdevil/apis-del-dom-4aff)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
