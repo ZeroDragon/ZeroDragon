@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get a Refund on &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/how-to-get-a-refund-on-pokemon-scarlet-and-violet-1849827702)
+- [Lifehacker] [You Can Test a Couch’s Stain Resistance Before You Even Buy It](https://lifehacker.com/you-can-test-a-couch-s-stain-resistance-before-you-even-1849828050)
 - [Lifehacker] [These Recalled Sippy Cups and Bottles Pose a Lead-Poisoning Hazard](https://lifehacker.com/these-recalled-sippy-cups-and-bottles-pose-a-lead-poiso-1849827055)
 - [Dev.to/JS] [Understanding The Difference Between Cross Browser Testing &amp; Responsive Testing](https://dev.to/andreamaxwell/understanding-the-difference-between-cross-browser-testing-responsive-testing-il6)
 - [Dev.to/JS] [Coding is a Superpower](https://dev.to/chamberezigbo/coding-is-a-superpower-4og1)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
 - [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
 - [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
-- [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
-- [Lifehacker] [The Right Way to Recork Wine &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-right-way-to-recork-wine-and-why-it-matters-1849819025)
-- [Lifehacker] [Here’s How to Disagree at Thanksgiving Dinner](https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)<!-- TECH-POSTS:END -->
 
 ---
 
