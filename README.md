@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10-JS/TS OOP: Level Two: OOP Principles](https://dev.to/hassanzohdy/10-jsts-oop-level-two-oop-principles-4hon)
 - [Dev.to/JS] [Which Industry Needs Digital Marketing?](https://dev.to/azeeem42606885/which-industry-needs-digital-marketing-3oib)
 - [Dev.to/JS] [Vite multi-environment setup](https://dev.to/jicking/vite-multi-environment-setup-5d2)
 - [Dev.to/JS] [OpenOps is adding PayPal and Stripe integrations](https://dev.to/theplugjumbo/openops-is-adding-paypal-and-stripe-integrations-31bo)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Text Search](https://dev.to/986913/text-search-3l53)
 - [Dev.to/JS] [Pogress on my study](https://dev.to/elianxd55/pogress-on-my-study-24ja)
 - [Dev.to/JS] [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
-- [Dev.to/JS] [How to publish your project to npm?](https://dev.to/gulyapulya/how-to-publish-your-github-project-to-npm-52kd)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
