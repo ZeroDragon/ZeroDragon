@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating REST API routes in Node.js](https://dev.to/aneeqakhan/creating-rest-api-routes-in-nodejs-207k)
+- [Dev.to/JS] [How do you implement the &quot; Command+P&quot; function?](https://dev.to/dk_bfm/how-do-you-implement-the-p-function-1596)
+- [Dev.to/JS] [REST API vs GraphQL](https://dev.to/documatic/rest-api-vs-graphql-1a0n)
+- [Dev.to/JS] [Improving Performance of Nuxt with Fontaine 🚀](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-with-fontaine-5dim)
 - [Dev.to/JS] [The illusion of speed – why perceived performance matters](https://dev.to/enterspeed/the-illusion-of-speed-why-perceived-performance-matters-f38)
 - [Dev.to/JS] [How to create a counter using HTML and CSS](https://dev.to/folasayosamuel/how-to-create-a-counter-using-html-and-css-3dob)
 - [Dev.to/JS] [Web Development Full Course](https://dev.to/tejashwinivijaykumar/web-development-full-course-3cdk)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vite multi-environment setup](https://dev.to/jicking/vite-multi-environment-setup-5d2)
 - [Dev.to/JS] [OpenOps is adding PayPal and Stripe integrations](https://dev.to/theplugjumbo/openops-is-adding-paypal-and-stripe-integrations-31bo)
 - [Dev.to/JS] [What make you confused on Crypto-Js package for Node.js](https://dev.to/akashcsemu/what-make-you-confused-on-crypto-js-package-for-nodejs-5c2a)
-- [Dev.to/JS] [Beginning JavaScript Tutorial: Master JavaScript](https://dev.to/juannharr/beginning-javascript-tutorial-master-javascript-579m)
-- [Dev.to/JS] [InstaNext13](https://dev.to/tookooltech/instanext13-1fai)
-- [Dev.to/JS] [First Update Since Starting To Refresh My React Skill - Not...](https://dev.to/ty_51/first-update-since-starting-to-refresh-my-react-skill-not-1p2o)
-- [Dev.to/JS] [InstaNext](https://dev.to/tookooltech/instanext-3fe)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
