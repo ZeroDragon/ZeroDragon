@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The illusion of speed – why perceived performance matters](https://dev.to/enterspeed/the-illusion-of-speed-why-perceived-performance-matters-f38)
+- [Dev.to/JS] [How to create a counter using HTML and CSS](https://dev.to/folasayosamuel/how-to-create-a-counter-using-html-and-css-3dob)
+- [Dev.to/JS] [Web Development Full Course](https://dev.to/tejashwinivijaykumar/web-development-full-course-3cdk)
 - [Dev.to/JS] [10-JS/TS OOP: Level Two: OOP Principles](https://dev.to/hassanzohdy/10-jsts-oop-level-two-oop-principles-4hon)
 - [Dev.to/JS] [Which Industry Needs Digital Marketing?](https://dev.to/azeeem42606885/which-industry-needs-digital-marketing-3oib)
 - [Dev.to/JS] [Vite multi-environment setup](https://dev.to/jicking/vite-multi-environment-setup-5d2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [InstaNext13](https://dev.to/tookooltech/instanext13-1fai)
 - [Dev.to/JS] [First Update Since Starting To Refresh My React Skill - Not...](https://dev.to/ty_51/first-update-since-starting-to-refresh-my-react-skill-not-1p2o)
 - [Dev.to/JS] [InstaNext](https://dev.to/tookooltech/instanext-3fe)
-- [Dev.to/JS] [Text Search](https://dev.to/986913/text-search-3l53)
-- [Dev.to/JS] [Pogress on my study](https://dev.to/elianxd55/pogress-on-my-study-24ja)
-- [Dev.to/JS] [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
