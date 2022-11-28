@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To SELECT, COUNT and JOIN Supabase Data](https://dev.to/thisisisheanesu/how-to-select-count-and-join-supabase-data-3ihk)
+- [Dev.to/JS] [Why Full Stack Web Development?](https://dev.to/tejashwinivijaykumar/why-full-stack-web-development-44pd)
+- [Dev.to/JS] [Free your mind and start creating useful automations with Znote 🤖](https://dev.to/alagrede/free-your-mind-and-start-creating-useful-automations-with-znote-27pc)
+- [Dev.to/JS] [Replaying network requests on puppeteer](https://dev.to/sametcodes/replaying-network-requests-on-puppeteer-2j3o)
+- [Dev.to/JS] [What Is the Idea Behind the ASP.NET Core Web API?](https://dev.to/folasayosamuel/what-is-the-idea-behind-the-aspnet-core-web-api-4d1g)
 - [Dev.to/JS] [11-JS/TS OOP: Polymorphism In OOP](https://dev.to/hassanzohdy/11-jsts-oop-polymorphism-in-oop-4oo8)
 - [Dev.to/JS] [How to Build a Blog App Using Blazor WASM and Strapi](https://dev.to/strapi/how-to-build-a-blog-app-using-blazor-wasm-and-strapi-4o05)
 - [Dev.to/JS] [Top 10 AngularJS Development Companies](https://dev.to/codersnews/top-10-angularjs-development-companies-3a26)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating REST API routes in Node.js](https://dev.to/aneeqakhan/creating-rest-api-routes-in-nodejs-207k)
 - [Dev.to/JS] [How do you implement the &quot; Command+P&quot; function?](https://dev.to/dk_bfm/how-do-you-implement-the-p-function-1596)
 - [Dev.to/JS] [REST API vs GraphQL](https://dev.to/documatic/rest-api-vs-graphql-1a0n)
-- [Dev.to/JS] [Improving Performance of Nuxt with Fontaine 🚀](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-with-fontaine-5dim)
-- [Dev.to/JS] [The illusion of speed – why perceived performance matters](https://dev.to/enterspeed/the-illusion-of-speed-why-perceived-performance-matters-f38)
-- [Dev.to/JS] [How to create a counter using HTML and CSS](https://dev.to/folasayosamuel/how-to-create-a-counter-using-html-and-css-3dob)
-- [Dev.to/JS] [Web Development Full Course](https://dev.to/tejashwinivijaykumar/web-development-full-course-3cdk)
-- [Dev.to/JS] [10-JS/TS OOP: Level Two: OOP Principles](https://dev.to/hassanzohdy/10-jsts-oop-level-two-oop-principles-4hon)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
