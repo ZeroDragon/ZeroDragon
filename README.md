@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A 1KB javascript library for DOM manipulation](https://dev.to/mboussaid/a-1kb-javascript-library-for-dom-manipulation-1d1c)
 - [Dev.to/JS] [Build Contact Phone Directory with NextJS using Xata and Cloudinary](https://dev.to/hackmamba/build-contact-phone-directory-with-nextjs-using-xata-and-cloudinary-4ggb)
 - [Dev.to/JS] [Some Reasons You Should Learn Web Development](https://dev.to/muskans20859390/some-reasons-you-should-learn-web-development-4g95)
 - [Dev.to/JS] [Planning to Work on Project from Scratch](https://dev.to/genne23v/planning-to-work-on-project-from-scratch-532m)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [代码随想录day14 | DFS, BFS](https://dev.to/986913/dai-ma-sui-xiang-lu-day14-binary-tree-2g7n)
 - [Dev.to/JS] [Mocking API servers with Mock Service Worker - MSW](https://dev.to/asayerio_techblog/mocking-api-servers-with-mock-service-worker-msw-3e88)
 - [Dev.to/JS] [All about the JSON format](https://dev.to/asayerio_techblog/all-about-the-json-format-20g1)
-- [Dev.to/JS] [Top alternatives to Create-React-App](https://dev.to/asayerio_techblog/top-alternatives-to-create-react-app-467b)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
