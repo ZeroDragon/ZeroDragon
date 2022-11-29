@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
+- [Dev.to/JS] [Regex 101: A primer](https://dev.to/xtrinch/regex-101-a-primer-18np)
+- [Lifehacker] [Why Economists Predict Home Prices Will Fall Next Year](https://lifehacker.com/why-economists-predict-home-prices-will-fall-next-year-1849832197)
+- [Dev.to/JS] [Top 30 Open Source Projects&lpar; JavaScript ,Java, and more&rpar;](https://dev.to/elliot_brenyasarfo_18749/top-30-open-source-projects-javascript-java-and-more-2n90)
+- [Lifehacker] [You Can Get Free McDonald&#39;s for Life](https://lifehacker.com/you-can-get-free-mcdonalds-for-life-1849832084)
 - [Dev.to/JS] [Multithreading in JavaScript with Web Workers](https://dev.to/honeybadger/multithreading-in-javascript-with-web-workers-2ff)
 - [Lifehacker] [Add One of These Holiday Countdown Widgets to Your iPhone](https://lifehacker.com/add-one-of-these-holiday-countdown-widgets-to-your-ipho-1849703382)
 - [Dev.to/JS] [Making integration between RSS and LinkedIn](https://dev.to/arisamiga/making-integration-between-rss-and-linkedin-95c)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is SCOPE in JavaScript?](https://dev.to/devvsakib/what-is-scope-in-javascript-17ed)
 - [Lifehacker] [Apple Music Finally Has Its Version of &#39;Spotify Wrapped&#39;](https://lifehacker.com/apple-music-finally-has-its-version-of-spotify-wrapped-1849831503)
 - [Dev.to/JS] [Arrow Function vs Function](https://dev.to/vivaluv/arrow-function-vs-function-3h5j)
-- [Dev.to/JS] [Array.from VS Array.prototype.map](https://dev.to/ashik155/arrayfrom-vs-arrayprototypemap-52i6)
-- [Dev.to/JS] [How to Build Applications With Fewer APIs Bundling](https://dev.to/hackmamba/how-to-build-applications-with-fewer-apis-bundling-5d69)
 - [Lifehacker] [Your Next Party Needs This Giant Grilled Cheese Sandwich](https://lifehacker.com/your-next-party-needs-this-giant-grilled-cheese-sandwic-1849830549)
 - [Lifehacker] [How to Stop Texts From Going to Your Old Phone](https://lifehacker.com/how-to-stop-texts-from-going-to-your-old-phone-1849830857)
 - [Lifehacker] [Being Disorganized Is Costing You Money](https://lifehacker.com/stop-wasting-money-by-being-disorganized-1849831059)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best App to Always Win at Music Trivia](https://lifehacker.com/the-best-app-to-always-win-at-music-trivia-1849820484)
 - [Lifehacker] [What to Do When Your Kid Starts Tattling That Santa Isn’t Real](https://lifehacker.com/what-to-do-when-your-kid-starts-tattling-that-santa-isn-1849774102)
 - [Lifehacker] [12 of the Best Ways to Use Up Leftover Cranberry Sauce](https://lifehacker.com/12-of-the-best-ways-to-use-up-leftover-cranberry-sauce-1849826614)
-- [Lifehacker] [The Best Privacy-Focused Browsers You’ve Never Heard Of](https://lifehacker.com/the-best-privacy-focused-browsers-you-ve-never-heard-of-1849823243)
-- [Lifehacker] [How to Avoid an Online Shopping Fail](https://lifehacker.com/how-to-avoid-an-online-shopping-fail-1849825985)
-- [Lifehacker] [30 of the Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
-- [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Privacy-Focused Browsers You’ve Never Heard Of](https://lifehacker.com/the-best-privacy-focused-browsers-you-ve-never-heard-of-1849823243)<!-- TECH-POSTS:END -->
 
 ---
 
