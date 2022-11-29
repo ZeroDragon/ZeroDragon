@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bikaner Escort](https://dev.to/depika77/bikaner-escort-54f4)
 - [Dev.to/JS] [State Management in Next.js - All you need to know!](https://dev.to/solutelabs/state-management-in-nextjs-all-you-need-to-know-102g)
 - [Dev.to/JS] [How to add generic style in Vue Styleguidist](https://dev.to/raphbensimon/how-to-add-generic-style-in-vuestyleguidist-3fjj)
 - [Dev.to/JS] [How create and use github package with VueJS](https://dev.to/raphbensimon/how-create-and-use-github-package-with-vuejs-822)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A 1KB javascript library for DOM manipulation](https://dev.to/mboussaid/a-1kb-javascript-library-for-dom-manipulation-1d1c)
 - [Dev.to/JS] [Build Contact Phone Directory with NextJS using Xata and Cloudinary](https://dev.to/hackmamba/build-contact-phone-directory-with-nextjs-using-xata-and-cloudinary-4ggb)
 - [Dev.to/JS] [Some Reasons You Should Learn Web Development](https://dev.to/muskans20859390/some-reasons-you-should-learn-web-development-4g95)
-- [Dev.to/JS] [Planning to Work on Project from Scratch](https://dev.to/genne23v/planning-to-work-on-project-from-scratch-532m)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
