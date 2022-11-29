@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using localStorage with React Hooks in TypeScript](https://dev.to/arpitharajeev1/using-localstorage-with-react-hooks-in-typescript-3l2o)
+- [Dev.to/JS] [What is SCOPE in JavaScript?](https://dev.to/devvsakib/what-is-scope-in-javascript-17ed)
+- [Lifehacker] [Apple Music Finally Has Its Version of &#39;Spotify Wrapped&#39;](https://lifehacker.com/apple-music-finally-has-its-version-of-spotify-wrapped-1849831503)
+- [Dev.to/JS] [Arrow Function vs Function](https://dev.to/vivaluv/arrow-function-vs-function-3h5j)
+- [Dev.to/JS] [Array.from VS Array.prototype.map](https://dev.to/ashik155/arrayfrom-vs-arrayprototypemap-52i6)
 - [Dev.to/JS] [How to Build Applications With Fewer APIs Bundling](https://dev.to/hackmamba/how-to-build-applications-with-fewer-apis-bundling-5d69)
 - [Lifehacker] [Your Next Party Needs This Giant Grilled Cheese Sandwich](https://lifehacker.com/your-next-party-needs-this-giant-grilled-cheese-sandwic-1849830549)
 - [Lifehacker] [How to Stop Texts From Going to Your Old Phone](https://lifehacker.com/how-to-stop-texts-from-going-to-your-old-phone-1849830857)
@@ -35,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make your GitHub profile Stand out by adding tweet integration](https://dev.to/pushkarydv/make-your-github-profile-stand-out-by-adding-tweet-integration-1aa6)
 - [Dev.to/JS] [Test Orchestration: What, Why, and How?](https://dev.to/lambdatest/test-orchestration-what-why-and-how-4m4)
 - [Lifehacker] [Never Ask Your Friend These Money Questions &lpar;and What to Say Instead&rpar;](https://lifehacker.com/never-ask-your-friend-these-money-questions-and-what-t-1849828588)
-- [Dev.to/JS] [Web Server, HTML Elements and Live Server](https://dev.to/nitinsonicoder/web-server-html-elements-and-live-server-4lbo)
-- [Dev.to/JS] [Install Tailwindcss in Svelte with 1 command](https://dev.to/codingcatdev/install-tailwindcss-in-svelte-with-1-command-2gnm)
 - [Lifehacker] [Don’t Get Tricked Into Buying a Crappy TV](https://lifehacker.com/don-t-get-tricked-into-buying-a-crappy-tv-1849829183)
-- [Dev.to/JS] [Entendendo A Função Reduce - Parte 2](https://dev.to/marcusxavierr/entendendo-a-funcao-reduce-parte-2-5608)
 - [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)
-- [Dev.to/JS] [How to use Material UI Tooltip](https://dev.to/refine/how-to-use-material-ui-tooltip-3f99)
 - [Lifehacker] [These SUVs Have Been Recalled Because They Might Catch on Fire](https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)
 - [Lifehacker] [The Easiest Way to Clean Couches and Fabrics, According to TikTok](https://lifehacker.com/the-easiest-way-to-clean-couches-and-fabrics-according-1849817454)
 - [Lifehacker] [Unexpected Ways to Use Old Cardboard Around the House](https://lifehacker.com/unexpected-ways-to-use-old-cardboard-around-the-house-1849817365)
-- [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)
-- [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)<!-- TECH-POSTS:END -->
 
 ---
 
