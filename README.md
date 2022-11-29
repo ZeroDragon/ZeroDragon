@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mocking API servers with Mock Service Worker - MSW](https://dev.to/asayerio_techblog/mocking-api-servers-with-mock-service-worker-msw-3e88)
+- [Dev.to/JS] [All about the JSON format](https://dev.to/asayerio_techblog/all-about-the-json-format-20g1)
+- [Dev.to/JS] [Top alternatives to Create-React-App](https://dev.to/asayerio_techblog/top-alternatives-to-create-react-app-467b)
+- [Dev.to/JS] [Zero to SaaS - Bookmarksy.io Working around Twitter API Limitations](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-working-around-twitter-api-limitations-55p8)
+- [Dev.to/JS] [How HTML, CSS, and JavaScript work](https://dev.to/scrimba/how-html-css-and-javascript-work-10k)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Dev.to/JS] [Data Structures: Linked Lists](https://dev.to/thiagocolen/data-structures-linked-lists-ffb)
@@ -41,13 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best App to Always Win at Music Trivia](https://lifehacker.com/the-best-app-to-always-win-at-music-trivia-1849820484)
 - [Dev.to/JS] [let&#39;s learn container queries and how to do them in tailwind.](https://dev.to/mr_mornin_star/lets-learn-container-queries-and-how-to-do-them-in-tailwind-27m5)
 - [Lifehacker] [What to Do When Your Kid Starts Tattling That Santa Isn’t Real](https://lifehacker.com/what-to-do-when-your-kid-starts-tattling-that-santa-isn-1849774102)
-- [Dev.to/JS] [Understanding equality in JavaScript](https://dev.to/rmmgc/understanding-equality-in-javascript-47ol)
-- [Dev.to/JS] [Adding comments to my Astro blog with PlanetScale &amp; Prisma on Vercel Edge](https://dev.to/thomasledoux1/adding-comments-to-my-astro-blog-with-planetscale-prisma-on-vercel-edge-1a3j)
 - [Lifehacker] [12 of the Best Ways to Use Up Leftover Cranberry Sauce](https://lifehacker.com/12-of-the-best-ways-to-use-up-leftover-cranberry-sauce-1849826614)
-- [Dev.to/JS] [Tips: Array destructuring in javascript ES6](https://dev.to/devvsakib/tips-array-destructuring-in-javascript-es6-3clg)
-- [Dev.to/JS] [Finding all children of a node in a tree](https://dev.to/bijishjs/finding-all-children-of-a-node-in-a-tree-2cbn)
 - [Lifehacker] [The Best Privacy-Focused Browsers You’ve Never Heard Of](https://lifehacker.com/the-best-privacy-focused-browsers-you-ve-never-heard-of-1849823243)
-- [Dev.to/JS] [Manage Google Analytics, PayPal, Stripe from one app](https://dev.to/theplugjumbo/manage-google-analytics-paypal-stripe-from-one-app-5854)
 - [Lifehacker] [How to Avoid an Online Shopping Fail](https://lifehacker.com/how-to-avoid-an-online-shopping-fail-1849825985)
 - [Lifehacker] [30 of the Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
 - [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)
