@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
+- [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
+- [Dev.to/JS] [Data Structures: Linked Lists](https://dev.to/thiagocolen/data-structures-linked-lists-ffb)
+- [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
 - [Lifehacker] [How to Get a Refund on &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/how-to-get-a-refund-on-pokemon-scarlet-and-violet-1849827702)
 - [Lifehacker] [You Can Test a Couch’s Stain Resistance Before You Even Buy It](https://lifehacker.com/you-can-test-a-couch-s-stain-resistance-before-you-even-1849828050)
 - [Lifehacker] [These Recalled Sippy Cups and Bottles Pose a Lead-Poisoning Hazard](https://lifehacker.com/these-recalled-sippy-cups-and-bottles-pose-a-lead-poiso-1849827055)
@@ -44,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Finding all children of a node in a tree](https://dev.to/bijishjs/finding-all-children-of-a-node-in-a-tree-2cbn)
 - [Lifehacker] [The Best Privacy-Focused Browsers You’ve Never Heard Of](https://lifehacker.com/the-best-privacy-focused-browsers-you-ve-never-heard-of-1849823243)
 - [Dev.to/JS] [Manage Google Analytics, PayPal, Stripe from one app](https://dev.to/theplugjumbo/manage-google-analytics-paypal-stripe-from-one-app-5854)
-- [Dev.to/JS] [Get started with Chakra-UI](https://dev.to/devsuite/get-started-with-chakra-ui-242d)
 - [Lifehacker] [How to Avoid an Online Shopping Fail](https://lifehacker.com/how-to-avoid-an-online-shopping-fail-1849825985)
 - [Lifehacker] [30 of the Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
 - [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
 - [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
 - [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
-- [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
-- [Lifehacker] [Your Christmas Decorations Don’t Need to Use Electricity](https://lifehacker.com/your-christmas-decorations-don-t-need-to-use-electricit-1849820832)
-- [Lifehacker] [Use This Interactive Map to Explore 200K Galaxies](https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835)
-- [Lifehacker] [The Best-Smelling Types of Live Christmas Trees](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)<!-- TECH-POSTS:END -->
 
 ---
 
