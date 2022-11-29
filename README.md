@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Contact Phone Directory with NextJS using Xata and Cloudinary](https://dev.to/hackmamba/build-contact-phone-directory-with-nextjs-using-xata-and-cloudinary-4ggb)
+- [Dev.to/JS] [Some Reasons You Should Learn Web Development](https://dev.to/muskans20859390/some-reasons-you-should-learn-web-development-4g95)
 - [Dev.to/JS] [Planning to Work on Project from Scratch](https://dev.to/genne23v/planning-to-work-on-project-from-scratch-532m)
 - [Dev.to/JS] [TOP 10 websites to learn Programming for FREE!](https://dev.to/hy_piyush/top-10-websites-to-learn-programming-for-free-135)
 - [Dev.to/JS] [Implement a Stack with a Singly Linked List](https://dev.to/smilesforgood/implement-a-stack-with-a-singly-linked-list-gjg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mocking API servers with Mock Service Worker - MSW](https://dev.to/asayerio_techblog/mocking-api-servers-with-mock-service-worker-msw-3e88)
 - [Dev.to/JS] [All about the JSON format](https://dev.to/asayerio_techblog/all-about-the-json-format-20g1)
 - [Dev.to/JS] [Top alternatives to Create-React-App](https://dev.to/asayerio_techblog/top-alternatives-to-create-react-app-467b)
-- [Dev.to/JS] [Zero to SaaS - Bookmarksy.io Working around Twitter API Limitations](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-working-around-twitter-api-limitations-55p8)
-- [Dev.to/JS] [How HTML, CSS, and JavaScript work](https://dev.to/scrimba/how-html-css-and-javascript-work-10k)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
