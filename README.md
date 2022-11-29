@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can you brief me Vue.js?](https://dev.to/yashkapure06/can-you-brief-me-vuejs-25f9)
+- [Dev.to/JS] [代码随想录day14 | DFS, BFS](https://dev.to/986913/dai-ma-sui-xiang-lu-day14-binary-tree-2g7n)
 - [Dev.to/JS] [Mocking API servers with Mock Service Worker - MSW](https://dev.to/asayerio_techblog/mocking-api-servers-with-mock-service-worker-msw-3e88)
 - [Dev.to/JS] [All about the JSON format](https://dev.to/asayerio_techblog/all-about-the-json-format-20g1)
 - [Dev.to/JS] [Top alternatives to Create-React-App](https://dev.to/asayerio_techblog/top-alternatives-to-create-react-app-467b)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Planning: Enhancing a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/plan-enhance-a-slack-bot-to-announce-sign-ups-58c2)
 - [Dev.to/JS] [Introduction to Lexers, Parsers and Interpreters with Chevrotain](https://dev.to/codingwithadam/introduction-to-lexers-parsers-and-interpreters-with-chevrotain-5c7b)
 - [Lifehacker] [Stop Your Unconscious Spending](https://lifehacker.com/stop-your-unconscious-spending-1849826638)
-- [Dev.to/JS] [Gatsby: a modern tool for creating fast websites](https://dev.to/maxikius/gatsby-a-modern-tool-for-creating-fast-websites-1nhb)
 - [Lifehacker] [The Best App to Always Win at Music Trivia](https://lifehacker.com/the-best-app-to-always-win-at-music-trivia-1849820484)
-- [Dev.to/JS] [let&#39;s learn container queries and how to do them in tailwind.](https://dev.to/mr_mornin_star/lets-learn-container-queries-and-how-to-do-them-in-tailwind-27m5)
 - [Lifehacker] [What to Do When Your Kid Starts Tattling That Santa Isn’t Real](https://lifehacker.com/what-to-do-when-your-kid-starts-tattling-that-santa-isn-1849774102)
 - [Lifehacker] [12 of the Best Ways to Use Up Leftover Cranberry Sauce](https://lifehacker.com/12-of-the-best-ways-to-use-up-leftover-cranberry-sauce-1849826614)
 - [Lifehacker] [The Best Privacy-Focused Browsers You’ve Never Heard Of](https://lifehacker.com/the-best-privacy-focused-browsers-you-ve-never-heard-of-1849823243)
