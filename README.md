@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multithreading in JavaScript with Web Workers](https://dev.to/honeybadger/multithreading-in-javascript-with-web-workers-2ff)
+- [Lifehacker] [Add One of These Holiday Countdown Widgets to Your iPhone](https://lifehacker.com/add-one-of-these-holiday-countdown-widgets-to-your-ipho-1849703382)
+- [Dev.to/JS] [Making integration between RSS and LinkedIn](https://dev.to/arisamiga/making-integration-between-rss-and-linkedin-95c)
+- [Dev.to/JS] [A better Node version manager: Volta vs nvm](https://dev.to/duncanlew/a-better-node-version-manager-volta-vs-nvm-3f2h)
+- [Dev.to/JS] [Node.js v19.2.0 Release](https://dev.to/ruyadorno/nodejs-v1920-release-d4)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/10-fancy-gifts-for-experienced-coffee-drinkers-1849831911)
-- [Dev.to/JS] [vee-validate a form in a Modal | useForm&lpar;&rpar; issue with form in Modal](https://dev.to/nickap/vee-validate-a-form-in-a-modal-useform-issue-when-used-in-a-modal-51ei)
+- [Dev.to/JS] [vee-validate form in Modal | Issue using useForm with a Modal](https://dev.to/nickap/vee-validate-a-form-in-a-modal-useform-issue-when-used-in-a-modal-51ei)
 - [Dev.to/JS] [Creating Async Task Runner with Concurrency in JavaScript](https://dev.to/officialbidisha/creating-async-task-runner-with-concurrency-in-javascript-49j9)
 - [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)
 - [Dev.to/JS] [Fluent Insights EP4: Slots](https://dev.to/paulgildea/fluent-insights-ep4-slots-2d0l)
@@ -37,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build Applications With Fewer APIs Bundling](https://dev.to/hackmamba/how-to-build-applications-with-fewer-apis-bundling-5d69)
 - [Lifehacker] [Your Next Party Needs This Giant Grilled Cheese Sandwich](https://lifehacker.com/your-next-party-needs-this-giant-grilled-cheese-sandwic-1849830549)
 - [Lifehacker] [How to Stop Texts From Going to Your Old Phone](https://lifehacker.com/how-to-stop-texts-from-going-to-your-old-phone-1849830857)
-- [Dev.to/JS] [Font style &amp; typography in Tailwindcss](https://dev.to/guillaumeduhan/font-style-typography-in-tailwindcss-47a5)
-- [Dev.to/JS] [Resilient and Performant Data Fetching in Next.js](https://dev.to/farisaziz12/resilient-and-performant-data-fetching-in-nextjs-12em)
-- [Dev.to/JS] [How to Build a CRUD Application in Angular 14 +](https://dev.to/chadwinjdeysel/how-to-build-a-crud-application-in-angular-14--59fg)
 - [Lifehacker] [Being Disorganized Is Costing You Money](https://lifehacker.com/stop-wasting-money-by-being-disorganized-1849831059)
-- [Dev.to/JS] [About My Digital Garden](https://dev.to/abbeyperini/about-my-digital-garden-2o4h)
 - [Lifehacker] [Never Ask Your Friend These Money Questions &lpar;and What to Say Instead&rpar;](https://lifehacker.com/never-ask-your-friend-these-money-questions-and-what-t-1849828588)
 - [Lifehacker] [Don’t Get Tricked Into Buying a Crappy TV](https://lifehacker.com/don-t-get-tricked-into-buying-a-crappy-tv-1849829183)
 - [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Privacy-Focused Browsers You’ve Never Heard Of](https://lifehacker.com/the-best-privacy-focused-browsers-you-ve-never-heard-of-1849823243)
 - [Lifehacker] [How to Avoid an Online Shopping Fail](https://lifehacker.com/how-to-avoid-an-online-shopping-fail-1849825985)
 - [Lifehacker] [30 of the Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
-- [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)
-- [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)<!-- TECH-POSTS:END -->
 
 ---
 
