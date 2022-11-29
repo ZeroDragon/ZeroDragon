@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/10-fancy-gifts-for-experienced-coffee-drinkers-1849831911)
+- [Dev.to/JS] [vee-validate a form in a Modal | useForm&lpar;&rpar; issue with form in Modal](https://dev.to/nickap/vee-validate-a-form-in-a-modal-useform-issue-when-used-in-a-modal-51ei)
+- [Dev.to/JS] [Creating Async Task Runner with Concurrency in JavaScript](https://dev.to/officialbidisha/creating-async-task-runner-with-concurrency-in-javascript-49j9)
+- [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)
+- [Dev.to/JS] [Fluent Insights EP4: Slots](https://dev.to/paulgildea/fluent-insights-ep4-slots-2d0l)
+- [Lifehacker] [The Best Ways to Store Leftover Pizza](https://lifehacker.com/the-best-ways-to-store-leftover-pizza-1849831705)
 - [Dev.to/JS] [Using localStorage with React Hooks in TypeScript](https://dev.to/arpitharajeev1/using-localstorage-with-react-hooks-in-typescript-3l2o)
 - [Dev.to/JS] [What is SCOPE in JavaScript?](https://dev.to/devvsakib/what-is-scope-in-javascript-17ed)
 - [Lifehacker] [Apple Music Finally Has Its Version of &#39;Spotify Wrapped&#39;](https://lifehacker.com/apple-music-finally-has-its-version-of-spotify-wrapped-1849831503)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a CRUD Application in Angular 14 +](https://dev.to/chadwinjdeysel/how-to-build-a-crud-application-in-angular-14--59fg)
 - [Lifehacker] [Being Disorganized Is Costing You Money](https://lifehacker.com/stop-wasting-money-by-being-disorganized-1849831059)
 - [Dev.to/JS] [About My Digital Garden](https://dev.to/abbeyperini/about-my-digital-garden-2o4h)
-- [Dev.to/JS] [You are writing tests wrong](https://dev.to/documatic/you-are-writing-tests-wrong-hln)
-- [Dev.to/JS] [Make your GitHub profile Stand out by adding tweet integration](https://dev.to/pushkarydv/make-your-github-profile-stand-out-by-adding-tweet-integration-1aa6)
-- [Dev.to/JS] [Test Orchestration: What, Why, and How?](https://dev.to/lambdatest/test-orchestration-what-why-and-how-4m4)
 - [Lifehacker] [Never Ask Your Friend These Money Questions &lpar;and What to Say Instead&rpar;](https://lifehacker.com/never-ask-your-friend-these-money-questions-and-what-t-1849828588)
 - [Lifehacker] [Don’t Get Tricked Into Buying a Crappy TV](https://lifehacker.com/don-t-get-tricked-into-buying-a-crappy-tv-1849829183)
 - [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid an Online Shopping Fail](https://lifehacker.com/how-to-avoid-an-online-shopping-fail-1849825985)
 - [Lifehacker] [30 of the Greatest Movie Soundtracks Ever](https://lifehacker.com/30-of-greatest-movie-soundtracks-ever-1849817648)
 - [Lifehacker] [How to Choose the Perfect Heated Mattress Pad for You](https://lifehacker.com/how-to-choose-the-perfect-heated-mattress-pad-for-you-1849823505)
-- [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)
-- [Lifehacker] [The Easiest Way to Clean Couches and Fabrics, According to TikTok](https://lifehacker.com/the-easiest-way-to-clean-couches-and-fabrics-according-1849817454)
-- [Lifehacker] [Unexpected Ways to Use Old Cardboard Around the House](https://lifehacker.com/unexpected-ways-to-use-old-cardboard-around-the-house-1849817365)
-- [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Pack for an Extended Trip](https://lifehacker.com/the-best-way-to-pack-for-an-extended-trip-1849817569)<!-- TECH-POSTS:END -->
 
 ---
 
