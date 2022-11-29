@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Objects in JavaScript.](https://dev.to/jindalkeshav82/objects-in-javascript-31bh)
+- [Dev.to/JS] [Announcing the Ark Protocol Hackathon, with $12,000 in Prizes](https://dev.to/decentdotland/announcing-the-ark-protocol-hackathon-with-12000-in-prizes-1n30)
+- [Dev.to/JS] [My Experience with Svelte and SvelteKit](https://dev.to/bespoyasov/my-experience-with-svelte-and-sveltekit-342e)
+- [Dev.to/JS] [12-JS/TS OOP: Encapsulation In OOP](https://dev.to/hassanzohdy/12-jsts-oop-encapsulation-in-oop-1bkd)
 - [Dev.to/JS] [Bikaner Escort](https://dev.to/depika77/bikaner-escort-54f4)
 - [Dev.to/JS] [State Management in Next.js - All you need to know!](https://dev.to/solutelabs/state-management-in-nextjs-all-you-need-to-know-102g)
 - [Dev.to/JS] [How to add generic style in Vue Styleguidist](https://dev.to/raphbensimon/how-to-add-generic-style-in-vuestyleguidist-3fjj)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Import Strategies for Performance Optimization⚡](https://dev.to/nuko_suke/import-strategies-for-performance-optimization-1gee)
 - [Dev.to/JS] [How to create a 3D snake game with Javascript &lpar;attached source code and game link&rpar;](https://dev.to/hightopo/how-to-create-a-3d-snake-game-with-javascript-attached-source-code-and-game-link-3bci)
 - [Dev.to/JS] [CSS Offscreen tricks that make hidden text readable by screen readers.](https://dev.to/folasayosamuel/css-offscreen-tricks-that-make-hidden-text-readable-by-screen-readers-59hd)
-- [Dev.to/JS] [Change color in each click using JavaScript](https://dev.to/sarozpradhan64/change-color-in-each-click-using-javascript-1gb5)
-- [Dev.to/JS] [A 1KB javascript library for DOM manipulation](https://dev.to/mboussaid/a-1kb-javascript-library-for-dom-manipulation-1d1c)
-- [Dev.to/JS] [Build Contact Phone Directory with NextJS using Xata and Cloudinary](https://dev.to/hackmamba/build-contact-phone-directory-with-nextjs-using-xata-and-cloudinary-4ggb)
-- [Dev.to/JS] [Some Reasons You Should Learn Web Development](https://dev.to/muskans20859390/some-reasons-you-should-learn-web-development-4g95)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
