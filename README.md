@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build Applications With Fewer APIs Bundling](https://dev.to/hackmamba/how-to-build-applications-with-fewer-apis-bundling-5d69)
+- [Lifehacker] [Your Next Party Needs This Giant Grilled Cheese Sandwich](https://lifehacker.com/your-next-party-needs-this-giant-grilled-cheese-sandwic-1849830549)
+- [Lifehacker] [How to Stop Texts From Going to Your Old Phone](https://lifehacker.com/how-to-stop-texts-from-going-to-your-old-phone-1849830857)
 - [Dev.to/JS] [Font style &amp; typography in Tailwindcss](https://dev.to/guillaumeduhan/font-style-typography-in-tailwindcss-47a5)
 - [Dev.to/JS] [Resilient and Performant Data Fetching in Next.js](https://dev.to/farisaziz12/resilient-and-performant-data-fetching-in-nextjs-12em)
 - [Dev.to/JS] [How to Build a CRUD Application in Angular 14 +](https://dev.to/chadwinjdeysel/how-to-build-a-crud-application-in-angular-14--59fg)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo A Função Reduce - Parte 2](https://dev.to/marcusxavierr/entendendo-a-funcao-reduce-parte-2-5608)
 - [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)
 - [Dev.to/JS] [How to use Material UI Tooltip](https://dev.to/refine/how-to-use-material-ui-tooltip-3f99)
-- [Dev.to/JS] [Revive Daily – Reviews, Price, Benefits, Ingredients And Results?](https://dev.to/revivedaily1/revive-daily-reviews-price-benefits-ingredients-and-results-1d82)
 - [Lifehacker] [These SUVs Have Been Recalled Because They Might Catch on Fire](https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Clean Couches and Fabrics, According to TikTok](https://lifehacker.com/the-easiest-way-to-clean-couches-and-fabrics-according-1849817454)
 - [Lifehacker] [Unexpected Ways to Use Old Cardboard Around the House](https://lifehacker.com/unexpected-ways-to-use-old-cardboard-around-the-house-1849817365)
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)
-- [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
-- [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
-- [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)<!-- TECH-POSTS:END -->
 
 ---
 
