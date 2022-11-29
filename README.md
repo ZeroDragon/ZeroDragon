@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Get Tricked Into Buying a Crappy TV](https://lifehacker.com/don-t-get-tricked-into-buying-a-crappy-tv-1849829183)
+- [Dev.to/JS] [Entendendo A Função Reduce - Parte 2](https://dev.to/marcusxavierr/entendendo-a-funcao-reduce-parte-2-5608)
+- [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)
+- [Dev.to/JS] [How to use Material UI Tooltip](https://dev.to/refine/how-to-use-material-ui-tooltip-3f99)
+- [Dev.to/JS] [Revive Daily – Reviews, Price, Benefits, Ingredients And Results?](https://dev.to/revivedaily1/revive-daily-reviews-price-benefits-ingredients-and-results-1d82)
+- [Dev.to/JS] [JavaScript Explained in Plain English: A Beginner&#39;s Guide to Getting Started](https://dev.to/evansifyke/javascript-explained-in-plain-english-a-beginners-guide-to-getting-started-g17)
+- [Dev.to/JS] [How to create React Higher-Order Component in TypeScript](https://dev.to/jcubic/how-to-create-react-higher-order-component-in-typescript-157p)
+- [Dev.to/JS] [📚 RTK Query Tutorial &lpar;CRUD&rpar;](https://dev.to/raaynaldo/rtk-query-tutorial-crud-51hl)
+- [Lifehacker] [These SUVs Have Been Recalled Because They Might Catch on Fire](https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467)
 - [Dev.to/JS] [Web Scraping With Java](https://dev.to/oxylabs-io/web-scraping-with-java-1ca2)
 - [Dev.to/JS] [Next.js is a backend framework](https://dev.to/zenstack/nextjs-is-a-backend-framework-1mb9)
 - [Dev.to/JS] [How To Implement A Continuous Testing Strategy For DevOps](https://dev.to/lambdatest/how-to-implement-a-continuous-testing-strategy-for-devops-hi2)
 - [Dev.to/JS] [Easily Set Up an Ecommerce Store with Docker and Medusa](https://dev.to/medusajs/easily-set-up-an-ecommerce-store-with-docker-and-medusa-1610)
 - [Dev.to/JS] [Custom Dropdown with HTML,CSS and JS](https://dev.to/shubhamtiwari909/custom-dropdown-with-htmlcss-and-js-20oc)
 - [Dev.to/JS] [Notworthy, In-Person React Conferences 2023](https://dev.to/theme_selection/notworthy-in-person-react-conferences-2023-4j0c)
-- [Dev.to/JS] [Objects in JavaScript.](https://dev.to/jindalkeshav82/objects-in-javascript-31bh)
-- [Dev.to/JS] [Announcing the Ark Protocol Hackathon, with $12,000 in Prizes](https://dev.to/decentdotland/announcing-the-ark-protocol-hackathon-with-12000-in-prizes-1n30)
-- [Dev.to/JS] [My Experience with Svelte and SvelteKit](https://dev.to/bespoyasov/my-experience-with-svelte-and-sveltekit-342e)
-- [Dev.to/JS] [12-JS/TS OOP: Encapsulation In OOP](https://dev.to/hassanzohdy/12-jsts-oop-encapsulation-in-oop-1bkd)
-- [Dev.to/JS] [Bikaner Escort](https://dev.to/depika77/bikaner-escort-54f4)
-- [Dev.to/JS] [State Management in Next.js - All you need to know!](https://dev.to/solutelabs/state-management-in-nextjs-all-you-need-to-know-102g)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
 - [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
-- [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)
-- [Lifehacker] [Go to These Cheap &lpar;or Free&rpar; Holiday Events This Year](https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194)
-- [Crazy Programmer] [Linus Torvalds Biography](https://www.thecrazyprogrammer.com/2022/11/linus-torvalds-biography.html)
-- [Lifehacker] [The Best Personalized Gift Under $5](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)<!-- TECH-POSTS:END -->
 
 ---
 
