@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State Management in Next.js - All you need to know!](https://dev.to/solutelabs/state-management-in-nextjs-all-you-need-to-know-102g)
+- [Dev.to/JS] [How to add generic style in Vue Styleguidist](https://dev.to/raphbensimon/how-to-add-generic-style-in-vuestyleguidist-3fjj)
+- [Dev.to/JS] [How create and use github package with VueJS](https://dev.to/raphbensimon/how-create-and-use-github-package-with-vuejs-822)
+- [Dev.to/JS] [Close out - 30 Days of Microsoft Graph Challenge - 30th November](https://dev.to/azure/close-out-30-days-of-microsoft-graph-challenge-30th-november-2bf8)
+- [Dev.to/JS] [Import Strategies for Performance Optimization⚡](https://dev.to/nuko_suke/import-strategies-for-performance-optimization-1gee)
 - [Dev.to/JS] [How to create a 3D snake game with Javascript &lpar;attached source code and game link&rpar;](https://dev.to/hightopo/how-to-create-a-3d-snake-game-with-javascript-attached-source-code-and-game-link-3bci)
 - [Dev.to/JS] [CSS Offscreen tricks that make hidden text readable by screen readers.](https://dev.to/folasayosamuel/css-offscreen-tricks-that-make-hidden-text-readable-by-screen-readers-59hd)
 - [Dev.to/JS] [Change color in each click using JavaScript](https://dev.to/sarozpradhan64/change-color-in-each-click-using-javascript-1gb5)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Contact Phone Directory with NextJS using Xata and Cloudinary](https://dev.to/hackmamba/build-contact-phone-directory-with-nextjs-using-xata-and-cloudinary-4ggb)
 - [Dev.to/JS] [Some Reasons You Should Learn Web Development](https://dev.to/muskans20859390/some-reasons-you-should-learn-web-development-4g95)
 - [Dev.to/JS] [Planning to Work on Project from Scratch](https://dev.to/genne23v/planning-to-work-on-project-from-scratch-532m)
-- [Dev.to/JS] [TOP 10 websites to learn Programming for FREE!](https://dev.to/hy_piyush/top-10-websites-to-learn-programming-for-free-135)
-- [Dev.to/JS] [Implement a Stack with a Singly Linked List](https://dev.to/smilesforgood/implement-a-stack-with-a-singly-linked-list-gjg)
-- [Dev.to/JS] [7 JavaScript Concepts You Should Be Familiar With As a Developer](https://dev.to/vivaluv/7-javascript-concepts-you-should-be-familiar-with-as-a-developer-3oc0)
-- [Dev.to/JS] [Lib to create docs in NextJS projects](https://dev.to/hernandemonteiro/lib-to-create-docs-in-nextjs-projects-e71)
-- [Dev.to/JS] [Can you brief me Vue.js?](https://dev.to/yashkapure06/can-you-brief-me-vuejs-25f9)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
