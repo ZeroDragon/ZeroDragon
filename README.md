@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Planning to Work on Project from Scratch](https://dev.to/genne23v/planning-to-work-on-project-from-scratch-532m)
 - [Dev.to/JS] [TOP 10 websites to learn Programming for FREE!](https://dev.to/hy_piyush/top-10-websites-to-learn-programming-for-free-135)
 - [Dev.to/JS] [Implement a Stack with a Singly Linked List](https://dev.to/smilesforgood/implement-a-stack-with-a-singly-linked-list-gjg)
 - [Dev.to/JS] [7 JavaScript Concepts You Should Be Familiar With As a Developer](https://dev.to/vivaluv/7-javascript-concepts-you-should-be-familiar-with-as-a-developer-3oc0)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How HTML, CSS, and JavaScript work](https://dev.to/scrimba/how-html-css-and-javascript-work-10k)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
-- [Dev.to/JS] [Data Structures: Linked Lists](https://dev.to/thiagocolen/data-structures-linked-lists-ffb)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
 - [Lifehacker] [How to Get a Refund on &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/how-to-get-a-refund-on-pokemon-scarlet-and-violet-1849827702)
 - [Lifehacker] [You Can Test a Couch’s Stain Resistance Before You Even Buy It](https://lifehacker.com/you-can-test-a-couch-s-stain-resistance-before-you-even-1849828050)
