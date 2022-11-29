@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make your GitHub profile Stand out by adding tweet integration](https://dev.to/pushkarydv/make-your-github-profile-stand-out-by-adding-tweet-integration-1aa6)
+- [Dev.to/JS] [Test Orchestration: What, Why, and How?](https://dev.to/lambdatest/test-orchestration-what-why-and-how-4m4)
+- [Lifehacker] [Never Ask Your Friend These Money Questions &lpar;and What to Say Instead&rpar;](https://lifehacker.com/never-ask-your-friend-these-money-questions-and-what-t-1849828588)
+- [Dev.to/JS] [Web Server, HTML Elements and Live Server](https://dev.to/nitinsonicoder/web-server-html-elements-and-live-server-4lbo)
+- [Dev.to/JS] [Install Tailwindcss in Svelte with 1 command](https://dev.to/codingcatdev/install-tailwindcss-in-svelte-with-1-command-2gnm)
 - [Lifehacker] [Don’t Get Tricked Into Buying a Crappy TV](https://lifehacker.com/don-t-get-tricked-into-buying-a-crappy-tv-1849829183)
 - [Dev.to/JS] [Entendendo A Função Reduce - Parte 2](https://dev.to/marcusxavierr/entendendo-a-funcao-reduce-parte-2-5608)
 - [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These SUVs Have Been Recalled Because They Might Catch on Fire](https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467)
 - [Dev.to/JS] [Web Scraping With Java](https://dev.to/oxylabs-io/web-scraping-with-java-1ca2)
 - [Dev.to/JS] [Next.js is a backend framework](https://dev.to/zenstack/nextjs-is-a-backend-framework-1mb9)
-- [Dev.to/JS] [How To Implement A Continuous Testing Strategy For DevOps](https://dev.to/lambdatest/how-to-implement-a-continuous-testing-strategy-for-devops-hi2)
-- [Dev.to/JS] [Easily Set Up an Ecommerce Store with Docker and Medusa](https://dev.to/medusajs/easily-set-up-an-ecommerce-store-with-docker-and-medusa-1610)
-- [Dev.to/JS] [Custom Dropdown with HTML,CSS and JS](https://dev.to/shubhamtiwari909/custom-dropdown-with-htmlcss-and-js-20oc)
-- [Dev.to/JS] [Notworthy, In-Person React Conferences 2023](https://dev.to/theme_selection/notworthy-in-person-react-conferences-2023-4j0c)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
 - [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
-- [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
-- [Lifehacker] [These Houseplants Don&#39;t Need Pots With Drainage](https://lifehacker.com/these-houseplants-dont-need-pots-with-drainage-1849822191)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)<!-- TECH-POSTS:END -->
 
 ---
 
