@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Font style &amp; typography in Tailwindcss](https://dev.to/guillaumeduhan/font-style-typography-in-tailwindcss-47a5)
+- [Dev.to/JS] [Resilient and Performant Data Fetching in Next.js](https://dev.to/farisaziz12/resilient-and-performant-data-fetching-in-nextjs-12em)
+- [Dev.to/JS] [How to Build a CRUD Application in Angular 14 +](https://dev.to/chadwinjdeysel/how-to-build-a-crud-application-in-angular-14--59fg)
+- [Lifehacker] [Being Disorganized Is Costing You Money](https://lifehacker.com/stop-wasting-money-by-being-disorganized-1849831059)
+- [Dev.to/JS] [About My Digital Garden](https://dev.to/abbeyperini/about-my-digital-garden-2o4h)
+- [Dev.to/JS] [You are writing tests wrong](https://dev.to/documatic/you-are-writing-tests-wrong-hln)
 - [Dev.to/JS] [Make your GitHub profile Stand out by adding tweet integration](https://dev.to/pushkarydv/make-your-github-profile-stand-out-by-adding-tweet-integration-1aa6)
 - [Dev.to/JS] [Test Orchestration: What, Why, and How?](https://dev.to/lambdatest/test-orchestration-what-why-and-how-4m4)
 - [Lifehacker] [Never Ask Your Friend These Money Questions &lpar;and What to Say Instead&rpar;](https://lifehacker.com/never-ask-your-friend-these-money-questions-and-what-t-1849828588)
@@ -33,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)
 - [Dev.to/JS] [How to use Material UI Tooltip](https://dev.to/refine/how-to-use-material-ui-tooltip-3f99)
 - [Dev.to/JS] [Revive Daily – Reviews, Price, Benefits, Ingredients And Results?](https://dev.to/revivedaily1/revive-daily-reviews-price-benefits-ingredients-and-results-1d82)
-- [Dev.to/JS] [JavaScript Explained in Plain English: A Beginner&#39;s Guide to Getting Started](https://dev.to/evansifyke/javascript-explained-in-plain-english-a-beginners-guide-to-getting-started-g17)
-- [Dev.to/JS] [How to create React Higher-Order Component in TypeScript](https://dev.to/jcubic/how-to-create-react-higher-order-component-in-typescript-157p)
-- [Dev.to/JS] [📚 RTK Query Tutorial &lpar;CRUD&rpar;](https://dev.to/raaynaldo/rtk-query-tutorial-crud-51hl)
 - [Lifehacker] [These SUVs Have Been Recalled Because They Might Catch on Fire](https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467)
-- [Dev.to/JS] [Web Scraping With Java](https://dev.to/oxylabs-io/web-scraping-with-java-1ca2)
-- [Dev.to/JS] [Next.js is a backend framework](https://dev.to/zenstack/nextjs-is-a-backend-framework-1mb9)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446)
 - [Lifehacker] [Stop Using These Arrogant-Sounding Phrases at Work](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
 - [Lifehacker] [Use Nature for Free Christmas Decorations](https://lifehacker.com/use-nature-for-free-christmas-decorations-1849822221)
-- [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)
-- [Lifehacker] [Send Your Kids on a Christmas Treasure Hunt](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, You Really Can Gift Your Little Kid a Cardboard Box](https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223)<!-- TECH-POSTS:END -->
 
 ---
 
