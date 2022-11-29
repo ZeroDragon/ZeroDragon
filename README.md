@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rails + Stimulus.js sorting filter on select](https://dev.to/marelons1337/rails-stimulusjs-sorting-filter-on-select-27oi)
+- [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
+- [Dev.to/JS] [Understanding the Different Strategies of Depth First Search Tree Traversal](https://dev.to/smilesforgood/understanding-the-different-strategies-of-depth-first-search-tree-traversal-3bn3)
+- [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
+- [Dev.to/JS] [Rethinking the reducer pattern 🧑‍🏭](https://dev.to/x0s3/rethinking-the-reducer-pattern-jag)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
 - [Dev.to/JS] [Regex 101: A primer](https://dev.to/xtrinch/regex-101-a-primer-18np)
 - [Lifehacker] [Why Economists Predict Home Prices Will Fall Next Year](https://lifehacker.com/why-economists-predict-home-prices-will-fall-next-year-1849832197)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)
 - [Dev.to/JS] [Fluent Insights EP4: Slots](https://dev.to/paulgildea/fluent-insights-ep4-slots-2d0l)
 - [Lifehacker] [The Best Ways to Store Leftover Pizza](https://lifehacker.com/the-best-ways-to-store-leftover-pizza-1849831705)
-- [Dev.to/JS] [Using localStorage with React Hooks in TypeScript](https://dev.to/arpitharajeev1/using-localstorage-with-react-hooks-in-typescript-3l2o)
-- [Dev.to/JS] [What is SCOPE in JavaScript?](https://dev.to/devvsakib/what-is-scope-in-javascript-17ed)
 - [Lifehacker] [Apple Music Finally Has Its Version of &#39;Spotify Wrapped&#39;](https://lifehacker.com/apple-music-finally-has-its-version-of-spotify-wrapped-1849831503)
-- [Dev.to/JS] [Arrow Function vs Function](https://dev.to/vivaluv/arrow-function-vs-function-3h5j)
 - [Lifehacker] [Your Next Party Needs This Giant Grilled Cheese Sandwich](https://lifehacker.com/your-next-party-needs-this-giant-grilled-cheese-sandwic-1849830549)
 - [Lifehacker] [How to Stop Texts From Going to Your Old Phone](https://lifehacker.com/how-to-stop-texts-from-going-to-your-old-phone-1849830857)
 - [Lifehacker] [Being Disorganized Is Costing You Money](https://lifehacker.com/stop-wasting-money-by-being-disorganized-1849831059)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Never Miss a Spot Sweeping](https://lifehacker.com/the-easiest-way-to-never-miss-a-spot-sweeping-1849827093)
 - [Lifehacker] [Stop Your Unconscious Spending](https://lifehacker.com/stop-your-unconscious-spending-1849826638)
 - [Lifehacker] [The Best App to Always Win at Music Trivia](https://lifehacker.com/the-best-app-to-always-win-at-music-trivia-1849820484)
-- [Lifehacker] [What to Do When Your Kid Starts Tattling That Santa Isn’t Real](https://lifehacker.com/what-to-do-when-your-kid-starts-tattling-that-santa-isn-1849774102)
-- [Lifehacker] [12 of the Best Ways to Use Up Leftover Cranberry Sauce](https://lifehacker.com/12-of-the-best-ways-to-use-up-leftover-cranberry-sauce-1849826614)
-- [Lifehacker] [The Best Privacy-Focused Browsers You’ve Never Heard Of](https://lifehacker.com/the-best-privacy-focused-browsers-you-ve-never-heard-of-1849823243)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When Your Kid Starts Tattling That Santa Isn’t Real](https://lifehacker.com/what-to-do-when-your-kid-starts-tattling-that-santa-isn-1849774102)<!-- TECH-POSTS:END -->
 
 ---
 
