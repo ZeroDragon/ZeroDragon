@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lib to create docs in NextJS projects](https://dev.to/hernandemonteiro/lib-to-create-docs-in-nextjs-projects-e71)
 - [Dev.to/JS] [Can you brief me Vue.js?](https://dev.to/yashkapure06/can-you-brief-me-vuejs-25f9)
 - [Dev.to/JS] [代码随想录day14 | DFS, BFS](https://dev.to/986913/dai-ma-sui-xiang-lu-day14-binary-tree-2g7n)
 - [Dev.to/JS] [Mocking API servers with Mock Service Worker - MSW](https://dev.to/asayerio_techblog/mocking-api-servers-with-mock-service-worker-msw-3e88)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Much Data Companies Will Harvest From You on Cyber Monday](https://lifehacker.com/here-s-how-much-data-companies-will-harvest-from-you-on-1849826050)
 - [Lifehacker] [The Easiest Way to Never Miss a Spot Sweeping](https://lifehacker.com/the-easiest-way-to-never-miss-a-spot-sweeping-1849827093)
 - [Dev.to/JS] [Planning: Enhancing a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/plan-enhance-a-slack-bot-to-announce-sign-ups-58c2)
-- [Dev.to/JS] [Introduction to Lexers, Parsers and Interpreters with Chevrotain](https://dev.to/codingwithadam/introduction-to-lexers-parsers-and-interpreters-with-chevrotain-5c7b)
 - [Lifehacker] [Stop Your Unconscious Spending](https://lifehacker.com/stop-your-unconscious-spending-1849826638)
 - [Lifehacker] [The Best App to Always Win at Music Trivia](https://lifehacker.com/the-best-app-to-always-win-at-music-trivia-1849820484)
 - [Lifehacker] [What to Do When Your Kid Starts Tattling That Santa Isn’t Real](https://lifehacker.com/what-to-do-when-your-kid-starts-tattling-that-santa-isn-1849774102)
