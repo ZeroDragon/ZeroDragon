@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TOP 10 websites to learn Programming for FREE!](https://dev.to/hy_piyush/top-10-websites-to-learn-programming-for-free-135)
+- [Dev.to/JS] [Implement a Stack with a Singly Linked List](https://dev.to/smilesforgood/implement-a-stack-with-a-singly-linked-list-gjg)
 - [Dev.to/JS] [7 JavaScript Concepts You Should Be Familiar With As a Developer](https://dev.to/vivaluv/7-javascript-concepts-you-should-be-familiar-with-as-a-developer-3oc0)
 - [Dev.to/JS] [Lib to create docs in NextJS projects](https://dev.to/hernandemonteiro/lib-to-create-docs-in-nextjs-projects-e71)
 - [Dev.to/JS] [Can you brief me Vue.js?](https://dev.to/yashkapure06/can-you-brief-me-vuejs-25f9)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Refund on &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/how-to-get-a-refund-on-pokemon-scarlet-and-violet-1849827702)
 - [Lifehacker] [You Can Test a Couch’s Stain Resistance Before You Even Buy It](https://lifehacker.com/you-can-test-a-couch-s-stain-resistance-before-you-even-1849828050)
 - [Lifehacker] [These Recalled Sippy Cups and Bottles Pose a Lead-Poisoning Hazard](https://lifehacker.com/these-recalled-sippy-cups-and-bottles-pose-a-lead-poiso-1849827055)
-- [Dev.to/JS] [Understanding The Difference Between Cross Browser Testing &amp; Responsive Testing](https://dev.to/andreamaxwell/understanding-the-difference-between-cross-browser-testing-responsive-testing-il6)
-- [Dev.to/JS] [Coding is a Superpower](https://dev.to/chamberezigbo/coding-is-a-superpower-4og1)
 - [Lifehacker] [Here’s How Much Data Companies Will Harvest From You on Cyber Monday](https://lifehacker.com/here-s-how-much-data-companies-will-harvest-from-you-on-1849826050)
 - [Lifehacker] [The Easiest Way to Never Miss a Spot Sweeping](https://lifehacker.com/the-easiest-way-to-never-miss-a-spot-sweeping-1849827093)
 - [Lifehacker] [Stop Your Unconscious Spending](https://lifehacker.com/stop-your-unconscious-spending-1849826638)
