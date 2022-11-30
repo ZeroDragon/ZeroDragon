@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
+- [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
+- [Dev.to/JS] [Exploring Communicating Sequential Processes in Javascript](https://dev.to/artydev/exploring-communicating-sequential-processes-in-javascript-dkh)
+- [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
+- [Dev.to/JS] [Patching it up, Part 1: Planning](https://dev.to/cychu42/patching-it-up-part-1-planning-cje)
+- [Dev.to/JS] [Top 5 JavaScript Podcasts for 2023](https://dev.to/rwwagner90/top-5-javascript-podcasts-for-2023-4lmb)
 - [Lifehacker] [Those Big Red Bows From Car Commercials are Real and You Can Buy One](https://lifehacker.com/those-big-red-bows-from-car-commercials-are-real-and-yo-1849837101)
 - [Dev.to/JS] [🤖 ED-209 BOT is coming &lpar;for you&rpar;](https://dev.to/devops-heroes/ed-209-bot-is-coming-for-you-1gil)
 - [Lifehacker] [10 Morally Grey Sci-Fi Shows to Watch After &#39;Andor&#39;](https://lifehacker.com/10-morally-grey-sci-fi-shows-to-watch-after-andor-1849835682)
@@ -37,14 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is VueJS](https://dev.to/hermitex/what-is-vuejs-537h)
 - [Lifehacker] [9 Gifts for Your Favorite Wine Lover](https://lifehacker.com/9-gifts-for-your-favorite-wine-lover-1849836931)
 - [Dev.to/JS] [WebAssembly With Zig, Pt. II](https://dev.to/sleibrock/webassembly-with-zig-pt-ii-ei7)
-- [Dev.to/JS] [creative website business tutorial](https://dev.to/dosti_life/creative-website-business-tutorial-22p1)
-- [Dev.to/JS] [Rails: Resources for a Secure Database](https://dev.to/jordantaylorj/rails-resources-for-a-secure-database-fo1)
 - [Lifehacker] [How to Unclog the Dishwasher Yourself](https://lifehacker.com/how-to-unclog-the-dishwasher-yourself-1849834454)
-- [Dev.to/JS] [Text scrolling with css animation](https://dev.to/abkarim/text-scrolling-with-css-animation-1p34)
 - [Lifehacker] [These Glitches Let You Cheat in &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/these-glitches-let-you-cheat-in-pokemon-scarlet-and-vio-1849835824)
 - [Lifehacker] [9 Mostly Untrue Myths About Witch Hunts](https://lifehacker.com/9-mostly-untrue-myths-about-witch-hunts-1849828760)
 - [Lifehacker] [Layer Your Leftovers Into a Lasagna](https://lifehacker.com/layer-your-leftovers-into-a-lasagna-1849835857)
-- [Dev.to/JS] [Night Mode](https://dev.to/prayas/night-mode-jpb)
 - [Lifehacker] [Here Are Some Actually Good Stocking Stuffer Ideas for You](https://lifehacker.com/here-are-some-actually-good-stocking-stuffer-ideas-for-1849832773)
 - [Lifehacker] [There’s Finally a Hidden Setting to Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/there-s-finally-a-hidden-setting-to-stop-chrome-from-ki-1849835503)
 - [Lifehacker] [Kids Can Get the ‘Winter Blues’ Too](https://lifehacker.com/kids-can-get-the-winter-blues-too-1849834071)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)
 - [Lifehacker] [The Best Ways to Store Leftover Pizza](https://lifehacker.com/the-best-ways-to-store-leftover-pizza-1849831705)
 - [Lifehacker] [Apple Music Finally Has Its Version of &#39;Spotify Wrapped&#39;](https://lifehacker.com/apple-music-finally-has-its-version-of-spotify-wrapped-1849831503)
-- [Lifehacker] [Your Next Party Needs This Giant Grilled Cheese Sandwich](https://lifehacker.com/your-next-party-needs-this-giant-grilled-cheese-sandwic-1849830549)
-- [Lifehacker] [How to Stop Texts From Going to Your Old Phone](https://lifehacker.com/how-to-stop-texts-from-going-to-your-old-phone-1849830857)
-- [Lifehacker] [Being Disorganized Is Costing You Money](https://lifehacker.com/stop-wasting-money-by-being-disorganized-1849831059)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Next Party Needs This Giant Grilled Cheese Sandwich](https://lifehacker.com/your-next-party-needs-this-giant-grilled-cheese-sandwic-1849830549)<!-- TECH-POSTS:END -->
 
 ---
 
