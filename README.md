@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Finding a bug after writing a test, an example](https://dev.to/buaiscia/finding-a-bug-after-writing-a-test-an-example-em4)
+- [Lifehacker] [There’s Finally a Hidden Setting to Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/there-s-finally-a-hidden-setting-to-stop-chrome-from-ki-1849835503)
+- [Dev.to/JS] [Will Vue Become the Most Popular Front-end Framework in 2023?](https://dev.to/adambiggs/will-vue-become-the-most-popular-front-end-framework-in-2023-65h)
+- [Lifehacker] [Kids Can Get the ‘Winter Blues’ Too](https://lifehacker.com/kids-can-get-the-winter-blues-too-1849834071)
 - [Lifehacker] [This TikTok Thirst Trap Is Tricking People Into Downloading Malware](https://lifehacker.com/don-t-get-fooled-into-downloading-malware-by-this-liter-1849833006)
 - [Dev.to/JS] [Protect a route with a RouteGuard component](https://dev.to/tonycaputo/protect-a-route-with-a-routeguard-component-2bbp)
 - [Lifehacker] [How to Write a To-Do List You’ll Actually Do](https://lifehacker.com/how-to-write-a-to-do-list-you-ll-actually-do-1849831092)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/bloc_ogs/building-dynamic-nfts-on-tezos-4gnl)
 - [Dev.to/JS] [What’s new in Handsontable Data Grid: November 2022](https://dev.to/handsontable/whats-new-in-handsontable-data-grid-november-2022-2l10)
 - [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/anil_from_revise/building-dynamic-nfts-on-tezos-5dfb)
-- [Dev.to/JS] [Google Sheets API，在 Google Apps Script 上的好用部份](https://dev.to/letswrite/google-sheets-apizai-google-apps-script-shang-de-hao-yong-bu-fen-119j)
-- [Dev.to/JS] [Top 𝟱 𝗙𝗿𝗲𝗲 𝗔𝗣𝗜𝘀 𝗙𝗼𝗿 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀](https://dev.to/ridhisingla001/top-39g8)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Refund on &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/how-to-get-a-refund-on-pokemon-scarlet-and-violet-1849827702)
 - [Lifehacker] [You Can Test a Couch’s Stain Resistance Before You Even Buy It](https://lifehacker.com/you-can-test-a-couch-s-stain-resistance-before-you-even-1849828050)
 - [Lifehacker] [These Recalled Sippy Cups and Bottles Pose a Lead-Poisoning Hazard](https://lifehacker.com/these-recalled-sippy-cups-and-bottles-pose-a-lead-poiso-1849827055)
-- [Lifehacker] [Here’s How Much Data Companies Will Harvest From You on Cyber Monday](https://lifehacker.com/here-s-how-much-data-companies-will-harvest-from-you-on-1849826050)
-- [Lifehacker] [The Easiest Way to Never Miss a Spot Sweeping](https://lifehacker.com/the-easiest-way-to-never-miss-a-spot-sweeping-1849827093)
-- [Lifehacker] [Stop Your Unconscious Spending](https://lifehacker.com/stop-your-unconscious-spending-1849826638)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s How Much Data Companies Will Harvest From You on Cyber Monday](https://lifehacker.com/here-s-how-much-data-companies-will-harvest-from-you-on-1849826050)<!-- TECH-POSTS:END -->
 
 ---
 
