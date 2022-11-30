@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rendering Strategies: which one is best for you?](https://dev.to/frontend_house/rendering-strategies-which-one-is-best-for-you-26np)
+- [Dev.to/JS] [I am looking for a full remotely freelance mission I am a senior frontend developer reactjs based in Paris](https://dev.to/ayoubyoub/i-am-looking-for-a-full-remotely-freelance-mission-i-am-a-senior-reactjs-developer-based-in-paris-1cp4)
+- [Dev.to/JS] [JavaScript News and Updates: November 2022 Edition](https://dev.to/plazarev/javascript-news-and-updates-november-2022-edition-26m7)
+- [Dev.to/JS] [Unlimited Free Udemy Courses](https://dev.to/freeudemycourses/unlimited-free-udemy-courses-36bl)
+- [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/web3blob/building-dynamic-nfts-on-tezos-gm4)
 - [Dev.to/JS] [How to find and get HTML Elements in JavaScript](https://dev.to/max88git/how-to-find-and-get-html-elements-in-javascript-ke2)
 - [Dev.to/JS] [Top SaaS App Boilerplates](https://dev.to/flatlogic/top-saas-app-boilerplates-2l21)
 - [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/bloc_ogs/building-dynamic-nfts-on-tezos-4gnl)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/anil_from_revise/building-dynamic-nfts-on-tezos-5dfb)
 - [Dev.to/JS] [Google Sheets API，在 Google Apps Script 上的好用部份](https://dev.to/letswrite/google-sheets-apizai-google-apps-script-shang-de-hao-yong-bu-fen-119j)
 - [Dev.to/JS] [Top 𝟱 𝗙𝗿𝗲𝗲 𝗔𝗣𝗜𝘀 𝗙𝗼𝗿 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀](https://dev.to/ridhisingla001/top-39g8)
-- [Dev.to/JS] [How To Build An NFT Minting Dapp On Flow](https://dev.to/johnjvester/how-to-build-an-nft-minting-dapp-on-flow-4l8d)
-- [Dev.to/JS] [Cypress Website Testing - Javascript for Frontend Testing](https://dev.to/ncatestify/cypress-website-testing-javascript-for-frontend-testing-29e1)
-- [Dev.to/JS] [How to involve your customers in Cypress Testing?](https://dev.to/simosleepwalker/how-to-involve-your-customers-in-cypress-testing-576g)
-- [Dev.to/JS] [How to show or hide component on basis of url in Angular.](https://dev.to/deepachaurasia1/how-to-show-or-hide-component-on-basis-of-url-in-angular-5134)
-- [Dev.to/JS] [淺談即時通訊系統以及Socket.io、Socket、WebSocket 差異](https://dev.to/angushyx/socketio-socket-websocket-chai-yi-602)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
