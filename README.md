@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to show or hide component on basis of url in Angular.](https://dev.to/deepachaurasia1/how-to-show-or-hide-component-on-basis-of-url-in-angular-5134)
+- [Dev.to/JS] [淺談即時通訊系統以及Socket.io、Socket、WebSocket 差異](https://dev.to/angushyx/socketio-socket-websocket-chai-yi-602)
+- [Dev.to/JS] [How To Use Functional Router Guards in Angular](https://dev.to/danywalls/how-to-use-functional-router-guards-in-angular-23kf)
 - [Dev.to/JS] [firebase-9 with javascript &lpar;net-ninja&rpar; :](https://dev.to/akshdesai1/firebase-9-with-javascript-net-ninja--357e)
 - [Dev.to/JS] [How to Build Web Apps to Scan Documents by Edge Detection Using JavaScript and Flutter](https://dev.to/yushulx/how-to-build-web-apps-to-scan-documents-by-edge-detection-using-javascript-and-flutter-3dfc)
 - [Dev.to/JS] [Weekly web development resources #126](https://dev.to/vincenius/weekly-web-development-resources-126-1dfp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do lawnmower have alternators?](https://dev.to/green_47/do-lawnmower-have-alternators-21nd)
 - [Dev.to/JS] [Chrome Extensions of the Month - November 2022](https://dev.to/j471n/chrome-extensions-of-the-month-november-2022-364k)
 - [Dev.to/JS] [Java Training in Chennai](https://dev.to/shanvi357/java-training-in-chennai-4873)
-- [Dev.to/JS] [How to capture 3D animation and encode it into video by WebCodecs](https://dev.to/sabigara/how-to-capture-3d-animation-and-encode-it-into-video-by-webcodecs-3505)
-- [Dev.to/JS] [gdfgdf](https://dev.to/jeevanjose1/gdfgdf-2a1o)
-- [Dev.to/JS] [E2E Testing using TestCafe](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
