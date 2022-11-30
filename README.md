@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 𝟱 𝗙𝗿𝗲𝗲 𝗔𝗣𝗜𝘀 𝗙𝗼𝗿 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀](https://dev.to/ridhisingla001/top-39g8)
+- [Dev.to/JS] [How To Build An NFT Minting Dapp On Flow](https://dev.to/johnjvester/how-to-build-an-nft-minting-dapp-on-flow-4l8d)
+- [Dev.to/JS] [Cypress Website Testing - Javascript for Frontend Testing](https://dev.to/ncatestify/cypress-website-testing-javascript-for-frontend-testing-29e1)
 - [Dev.to/JS] [How to involve your customers in Cypress Testing?](https://dev.to/simosleepwalker/how-to-involve-your-customers-in-cypress-testing-576g)
 - [Dev.to/JS] [How to show or hide component on basis of url in Angular.](https://dev.to/deepachaurasia1/how-to-show-or-hide-component-on-basis-of-url-in-angular-5134)
 - [Dev.to/JS] [淺談即時通訊系統以及Socket.io、Socket、WebSocket 差異](https://dev.to/angushyx/socketio-socket-websocket-chai-yi-602)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly web development resources #126](https://dev.to/vincenius/weekly-web-development-resources-126-1dfp)
 - [Dev.to/JS] [How to Create an Expandable Card Using IONIC REACT](https://dev.to/simon/how-to-create-an-expandable-card-using-ionic-react-3oc9)
 - [Dev.to/JS] [what is the difference b/w Array.from&lpar;&rpar; and map&lpar;&rpar; funtions?](https://dev.to/shijug/what-is-the-difference-bw-arrayfrom-and-map-funtions-5ben)
-- [Dev.to/JS] [Angular Change Detection](https://dev.to/subhash_16/angular-change-detection-217o)
-- [Dev.to/JS] [Do lawnmower have alternators?](https://dev.to/green_47/do-lawnmower-have-alternators-21nd)
-- [Dev.to/JS] [Chrome Extensions of the Month - November 2022](https://dev.to/j471n/chrome-extensions-of-the-month-november-2022-364k)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
