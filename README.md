@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chrome Extensions of the Month - November 2022](https://dev.to/j471n/chrome-extensions-of-the-month-november-2022-364k)
+- [Dev.to/JS] [Java Training in Chennai](https://dev.to/shanvi357/java-training-in-chennai-4873)
 - [Dev.to/JS] [How to capture 3D animation and encode it into video by WebCodecs](https://dev.to/sabigara/how-to-capture-3d-animation-and-encode-it-into-video-by-webcodecs-3505)
 - [Dev.to/JS] [gdfgdf](https://dev.to/jeevanjose1/gdfgdf-2a1o)
 - [Dev.to/JS] [E2E Testing using TestCafe](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SurrealDB - We&#39;re hiring! 🚀](https://dev.to/jaimemh/surrealdb-were-hiring-5fgl)
 - [Dev.to/JS] [代码随想录day15 | BFS template LC problems, 226.Invert Binary Tree, 101. Symmetric Tree](https://dev.to/986913/dai-ma-sui-xiang-lu-day15-bfs-template-lc-problems-226invert-binary-tree-101-symmetric-tree-1hh)
 - [Dev.to/JS] [Implementing Email validation and verification on our website](https://dev.to/asayerio_techblog/implementing-email-validation-and-verification-on-our-website-1kbn)
-- [Dev.to/JS] [Rails + Stimulus.js sorting filter on select](https://dev.to/marelons1337/rails-stimulusjs-sorting-filter-on-select-27oi)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
-- [Dev.to/JS] [Understanding the Different Strategies of Depth First Search Tree Traversal](https://dev.to/smilesforgood/understanding-the-different-strategies-of-depth-first-search-tree-traversal-3bn3)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
 - [Lifehacker] [Why Economists Predict Home Prices Will Fall Next Year](https://lifehacker.com/why-economists-predict-home-prices-will-fall-next-year-1849832197)
