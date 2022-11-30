@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Gifts for Your Favorite Wine Lover](https://lifehacker.com/9-gifts-for-your-favorite-wine-lover-1849836931)
+- [Dev.to/JS] [WebAssembly With Zig, Pt. II](https://dev.to/sleibrock/webassembly-with-zig-pt-ii-ei7)
+- [Dev.to/JS] [creative website business tutorial](https://dev.to/dosti_life/creative-website-business-tutorial-22p1)
+- [Dev.to/JS] [Rails: Resources for a Secure Database](https://dev.to/jordantaylorj/rails-resources-for-a-secure-database-fo1)
+- [Lifehacker] [How to Unclog the Dishwasher Yourself](https://lifehacker.com/how-to-unclog-the-dishwasher-yourself-1849834454)
+- [Dev.to/JS] [Text scrolling with css animation](https://dev.to/abkarim/text-scrolling-with-css-animation-1p34)
 - [Lifehacker] [These Glitches Let You Cheat in &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/these-glitches-let-you-cheat-in-pokemon-scarlet-and-vio-1849835824)
 - [Lifehacker] [9 Mostly Untrue Myths About Witch Hunts](https://lifehacker.com/9-mostly-untrue-myths-about-witch-hunts-1849828760)
 - [Lifehacker] [Layer Your Leftovers Into a Lasagna](https://lifehacker.com/layer-your-leftovers-into-a-lasagna-1849835857)
@@ -39,10 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I am looking for a full remotely freelance mission I am a senior frontend developer reactjs based in Paris](https://dev.to/ayoubyoub/i-am-looking-for-a-full-remotely-freelance-mission-i-am-a-senior-reactjs-developer-based-in-paris-1cp4)
 - [Dev.to/JS] [JavaScript News, Updates, and Tutorials: November 2022 Edition](https://dev.to/plazarev/javascript-news-and-updates-november-2022-edition-26m7)
 - [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/web3blob/building-dynamic-nfts-on-tezos-gm4)
-- [Dev.to/JS] [How to find and get HTML Elements in JavaScript](https://dev.to/max88git/how-to-find-and-get-html-elements-in-javascript-ke2)
-- [Dev.to/JS] [Top SaaS App Boilerplates](https://dev.to/flatlogic/top-saas-app-boilerplates-2l21)
-- [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/bloc_ogs/building-dynamic-nfts-on-tezos-4gnl)
-- [Dev.to/JS] [What’s new in Handsontable Data Grid: November 2022](https://dev.to/handsontable/whats-new-in-handsontable-data-grid-november-2022-2l10)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Get Tricked Into Buying a Crappy TV](https://lifehacker.com/don-t-get-tricked-into-buying-a-crappy-tv-1849829183)
 - [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)
 - [Lifehacker] [These SUVs Have Been Recalled Because They Might Catch on Fire](https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467)
-- [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
-- [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
-- [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)<!-- TECH-POSTS:END -->
 
 ---
 
