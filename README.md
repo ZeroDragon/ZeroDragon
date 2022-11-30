@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Glitches Let You Cheat in &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/these-glitches-let-you-cheat-in-pokemon-scarlet-and-vio-1849835824)
 - [Lifehacker] [9 Mostly Untrue Myths About Witch Hunts](https://lifehacker.com/9-mostly-untrue-myths-about-witch-hunts-1849828760)
 - [Lifehacker] [Layer Your Leftovers Into a Lasagna](https://lifehacker.com/layer-your-leftovers-into-a-lasagna-1849835857)
 - [Dev.to/JS] [Night Mode](https://dev.to/prayas/night-mode-jpb)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These SUVs Have Been Recalled Because They Might Catch on Fire](https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467)
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
-- [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
-- [Lifehacker] [How to Get a Refund on &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/how-to-get-a-refund-on-pokemon-scarlet-and-violet-1849827702)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)<!-- TECH-POSTS:END -->
 
 ---
 
