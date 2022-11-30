@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Mostly Untrue Myths About Witch Hunts](https://lifehacker.com/9-mostly-untrue-myths-about-witch-hunts-1849828760)
+- [Lifehacker] [Layer Your Leftovers Into a Lasagna](https://lifehacker.com/layer-your-leftovers-into-a-lasagna-1849835857)
+- [Dev.to/JS] [Night Mode](https://dev.to/prayas/night-mode-jpb)
+- [Lifehacker] [Here Are Some Actually Good Stocking Stuffer Ideas for You](https://lifehacker.com/here-are-some-actually-good-stocking-stuffer-ideas-for-1849832773)
 - [Dev.to/JS] [Finding a bug after writing a test, an example](https://dev.to/buaiscia/finding-a-bug-after-writing-a-test-an-example-em4)
 - [Lifehacker] [There’s Finally a Hidden Setting to Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/there-s-finally-a-hidden-setting-to-stop-chrome-from-ki-1849835503)
 - [Dev.to/JS] [Will Vue Become the Most Popular Front-end Framework in 2023?](https://dev.to/adambiggs/will-vue-become-the-most-popular-front-end-framework-in-2023-65h)
@@ -38,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top SaaS App Boilerplates](https://dev.to/flatlogic/top-saas-app-boilerplates-2l21)
 - [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/bloc_ogs/building-dynamic-nfts-on-tezos-4gnl)
 - [Dev.to/JS] [What’s new in Handsontable Data Grid: November 2022](https://dev.to/handsontable/whats-new-in-handsontable-data-grid-november-2022-2l10)
-- [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/anil_from_revise/building-dynamic-nfts-on-tezos-5dfb)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 - [Lifehacker] [Three Things to Do When You Can’t Quit Your Job](https://lifehacker.com/three-things-to-do-when-you-can-t-quit-your-job-1849827293)
 - [Lifehacker] [Make a DIY &#39;Drybox&#39; to Protect Your Holiday Lights From the Elements](https://lifehacker.com/make-a-diy-drybox-to-protect-your-holiday-lights-from-t-1849827666)
-- [Lifehacker] [How to Get a Refund on &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/how-to-get-a-refund-on-pokemon-scarlet-and-violet-1849827702)
-- [Lifehacker] [You Can Test a Couch’s Stain Resistance Before You Even Buy It](https://lifehacker.com/you-can-test-a-couch-s-stain-resistance-before-you-even-1849828050)
-- [Lifehacker] [These Recalled Sippy Cups and Bottles Pose a Lead-Poisoning Hazard](https://lifehacker.com/these-recalled-sippy-cups-and-bottles-pose-a-lead-poiso-1849827055)
-- [Lifehacker] [Here’s How Much Data Companies Will Harvest From You on Cyber Monday](https://lifehacker.com/here-s-how-much-data-companies-will-harvest-from-you-on-1849826050)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get a Refund on &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/how-to-get-a-refund-on-pokemon-scarlet-and-violet-1849827702)<!-- TECH-POSTS:END -->
 
 ---
 
