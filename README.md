@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to capture 3D animation and encode it into video by WebCodecs](https://dev.to/sabigara/how-to-capture-3d-animation-and-encode-it-into-video-by-webcodecs-3505)
+- [Dev.to/JS] [gdfgdf](https://dev.to/jeevanjose1/gdfgdf-2a1o)
+- [Dev.to/JS] [E2E Testing using TestCafe](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
 - [Dev.to/JS] [Build a concert tickets generator with NextJS using Xata and Cloudinary](https://dev.to/hackmamba/build-a-concert-tickets-generator-with-nextjs-using-xata-and-cloudinary-2ig)
 - [Dev.to/JS] [How to manipulate strings by character](https://dev.to/noahveenstra/how-to-manipulate-strings-by-character-146i)
 - [Dev.to/JS] [Web components: composition techniques](https://dev.to/joanllenas/web-components-composition-techniques-1997)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Dev.to/JS] [Understanding the Different Strategies of Depth First Search Tree Traversal](https://dev.to/smilesforgood/understanding-the-different-strategies-of-depth-first-search-tree-traversal-3bn3)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
-- [Dev.to/JS] [Rethinking the reducer pattern 🧑‍🏭](https://dev.to/x0s3/rethinking-the-reducer-pattern-jag)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
-- [Dev.to/JS] [Regex 101: A primer](https://dev.to/xtrinch/regex-101-a-primer-18np)
 - [Lifehacker] [Why Economists Predict Home Prices Will Fall Next Year](https://lifehacker.com/why-economists-predict-home-prices-will-fall-next-year-1849832197)
-- [Dev.to/JS] [Top 30 Open Source Projects&lpar; JavaScript ,Java, and more&rpar;](https://dev.to/elliot_brenyasarfo_18749/top-30-open-source-projects-javascript-java-and-more-2n90)
 - [Lifehacker] [You Can Get Free McDonald&#39;s for Life](https://lifehacker.com/you-can-get-free-mcdonalds-for-life-1849832084)
 - [Lifehacker] [Add One of These Holiday Countdown Widgets to Your iPhone](https://lifehacker.com/add-one-of-these-holiday-countdown-widgets-to-your-ipho-1849703382)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/10-fancy-gifts-for-experienced-coffee-drinkers-1849831911)
