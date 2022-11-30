@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s How to Make Your Instafest Concert Lineup](https://lifehacker.com/heres-how-to-make-your-instafest-concert-lineup-1849836938)
+- [Dev.to/JS] [Guide to Layouts and Page Specific Layouts in NextJS](https://dev.to/jaredm/guide-to-layouts-and-page-specific-layouts-in-nextjs-k2m)
+- [Dev.to/JS] [Permissions &lpar;access control&rpar; in web apps](https://dev.to/wasp/permissions-access-control-in-web-apps-j6b)
+- [Dev.to/JS] [I tried Google Cloud products and here is what every beginner should know](https://dev.to/amersikira/i-tried-google-cloud-products-and-here-is-what-every-beginner-should-know-29op)
+- [Lifehacker] [You’re Doing Winter Recycling All Wrong](https://lifehacker.com/you-re-doing-winter-recycling-all-wrong-1849837034)
+- [Dev.to/JS] [DOM Manipulation: part II](https://dev.to/crispitipina/dom-manipulation-part-ii-4pka)
+- [Dev.to/JS] [What is VueJS](https://dev.to/hermitex/what-is-vuejs-537h)
 - [Lifehacker] [9 Gifts for Your Favorite Wine Lover](https://lifehacker.com/9-gifts-for-your-favorite-wine-lover-1849836931)
 - [Dev.to/JS] [WebAssembly With Zig, Pt. II](https://dev.to/sleibrock/webassembly-with-zig-pt-ii-ei7)
 - [Dev.to/JS] [creative website business tutorial](https://dev.to/dosti_life/creative-website-business-tutorial-22p1)
@@ -39,12 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Will Vue Become the Most Popular Front-end Framework in 2023?](https://dev.to/adambiggs/will-vue-become-the-most-popular-front-end-framework-in-2023-65h)
 - [Lifehacker] [Kids Can Get the ‘Winter Blues’ Too](https://lifehacker.com/kids-can-get-the-winter-blues-too-1849834071)
 - [Lifehacker] [This TikTok Thirst Trap Is Tricking People Into Downloading Malware](https://lifehacker.com/don-t-get-fooled-into-downloading-malware-by-this-liter-1849833006)
-- [Dev.to/JS] [Protect a route with a RouteGuard component](https://dev.to/tonycaputo/protect-a-route-with-a-routeguard-component-2bbp)
 - [Lifehacker] [How to Write a To-Do List You’ll Actually Do](https://lifehacker.com/how-to-write-a-to-do-list-you-ll-actually-do-1849831092)
-- [Dev.to/JS] [Rendering Strategies: which one is best for you?](https://dev.to/frontend_house/rendering-strategies-which-one-is-best-for-you-26np)
-- [Dev.to/JS] [I am looking for a full remotely freelance mission I am a senior frontend developer reactjs based in Paris](https://dev.to/ayoubyoub/i-am-looking-for-a-full-remotely-freelance-mission-i-am-a-senior-reactjs-developer-based-in-paris-1cp4)
-- [Dev.to/JS] [JavaScript News, Updates, and Tutorials: November 2022 Edition](https://dev.to/plazarev/javascript-news-and-updates-november-2022-edition-26m7)
-- [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/web3blob/building-dynamic-nfts-on-tezos-gm4)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Being Disorganized Is Costing You Money](https://lifehacker.com/stop-wasting-money-by-being-disorganized-1849831059)
 - [Lifehacker] [Never Ask Your Friend These Money Questions &lpar;and What to Say Instead&rpar;](https://lifehacker.com/never-ask-your-friend-these-money-questions-and-what-t-1849828588)
 - [Lifehacker] [Don’t Get Tricked Into Buying a Crappy TV](https://lifehacker.com/don-t-get-tricked-into-buying-a-crappy-tv-1849829183)
-- [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)
-- [Lifehacker] [These SUVs Have Been Recalled Because They Might Catch on Fire](https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467)
-- [Lifehacker] [The Best Questions to Ask a Hiring Manager During an Interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)<!-- TECH-POSTS:END -->
 
 ---
 
