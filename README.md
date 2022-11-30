@@ -23,10 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This TikTok Thirst Trap Is Tricking People Into Downloading Malware](https://lifehacker.com/don-t-get-fooled-into-downloading-malware-by-this-liter-1849833006)
+- [Dev.to/JS] [Protect a route with a RouteGuard component](https://dev.to/tonycaputo/protect-a-route-with-a-routeguard-component-2bbp)
+- [Lifehacker] [How to Write a To-Do List You’ll Actually Do](https://lifehacker.com/how-to-write-a-to-do-list-you-ll-actually-do-1849831092)
 - [Dev.to/JS] [Rendering Strategies: which one is best for you?](https://dev.to/frontend_house/rendering-strategies-which-one-is-best-for-you-26np)
 - [Dev.to/JS] [I am looking for a full remotely freelance mission I am a senior frontend developer reactjs based in Paris](https://dev.to/ayoubyoub/i-am-looking-for-a-full-remotely-freelance-mission-i-am-a-senior-reactjs-developer-based-in-paris-1cp4)
-- [Dev.to/JS] [JavaScript News and Updates: November 2022 Edition](https://dev.to/plazarev/javascript-news-and-updates-november-2022-edition-26m7)
-- [Dev.to/JS] [Unlimited Free Udemy Courses](https://dev.to/freeudemycourses/unlimited-free-udemy-courses-36bl)
+- [Dev.to/JS] [JavaScript News, Updates, and Tutorials: November 2022 Edition](https://dev.to/plazarev/javascript-news-and-updates-november-2022-edition-26m7)
 - [Dev.to/JS] [Building Dynamic NFTs on Tezos](https://dev.to/web3blob/building-dynamic-nfts-on-tezos-gm4)
 - [Dev.to/JS] [How to find and get HTML Elements in JavaScript](https://dev.to/max88git/how-to-find-and-get-html-elements-in-javascript-ke2)
 - [Dev.to/JS] [Top SaaS App Boilerplates](https://dev.to/flatlogic/top-saas-app-boilerplates-2l21)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Recalled Sippy Cups and Bottles Pose a Lead-Poisoning Hazard](https://lifehacker.com/these-recalled-sippy-cups-and-bottles-pose-a-lead-poiso-1849827055)
 - [Lifehacker] [Here’s How Much Data Companies Will Harvest From You on Cyber Monday](https://lifehacker.com/here-s-how-much-data-companies-will-harvest-from-you-on-1849826050)
 - [Lifehacker] [The Easiest Way to Never Miss a Spot Sweeping](https://lifehacker.com/the-easiest-way-to-never-miss-a-spot-sweeping-1849827093)
-- [Lifehacker] [Stop Your Unconscious Spending](https://lifehacker.com/stop-your-unconscious-spending-1849826638)
-- [Lifehacker] [The Best App to Always Win at Music Trivia](https://lifehacker.com/the-best-app-to-always-win-at-music-trivia-1849820484)
-- [Lifehacker] [What to Do When Your Kid Starts Tattling That Santa Isn’t Real](https://lifehacker.com/what-to-do-when-your-kid-starts-tattling-that-santa-isn-1849774102)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Your Unconscious Spending](https://lifehacker.com/stop-your-unconscious-spending-1849826638)<!-- TECH-POSTS:END -->
 
 ---
 
