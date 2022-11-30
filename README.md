@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to involve your customers in Cypress Testing?](https://dev.to/simosleepwalker/how-to-involve-your-customers-in-cypress-testing-576g)
 - [Dev.to/JS] [How to show or hide component on basis of url in Angular.](https://dev.to/deepachaurasia1/how-to-show-or-hide-component-on-basis-of-url-in-angular-5134)
 - [Dev.to/JS] [淺談即時通訊系統以及Socket.io、Socket、WebSocket 差異](https://dev.to/angushyx/socketio-socket-websocket-chai-yi-602)
 - [Dev.to/JS] [How To Use Functional Router Guards in Angular](https://dev.to/danywalls/how-to-use-functional-router-guards-in-angular-23kf)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Change Detection](https://dev.to/subhash_16/angular-change-detection-217o)
 - [Dev.to/JS] [Do lawnmower have alternators?](https://dev.to/green_47/do-lawnmower-have-alternators-21nd)
 - [Dev.to/JS] [Chrome Extensions of the Month - November 2022](https://dev.to/j471n/chrome-extensions-of-the-month-november-2022-364k)
-- [Dev.to/JS] [Java Training in Chennai](https://dev.to/shanvi357/java-training-in-chennai-4873)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
