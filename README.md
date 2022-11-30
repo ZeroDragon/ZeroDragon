@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SurrealDB - We&#39;re hiring! 🚀](https://dev.to/jaimemh/surrealdb-were-hiring-5fgl)
+- [Dev.to/JS] [代码随想录day15 | BFS template LC problems, 226.Invert Binary Tree, 101. Symmetric Tree](https://dev.to/986913/dai-ma-sui-xiang-lu-day15-bfs-template-lc-problems-226invert-binary-tree-101-symmetric-tree-1hh)
+- [Dev.to/JS] [Implementing Email validation and verification on our website](https://dev.to/asayerio_techblog/implementing-email-validation-and-verification-on-our-website-1kbn)
 - [Dev.to/JS] [Rails + Stimulus.js sorting filter on select](https://dev.to/marelons1337/rails-stimulusjs-sorting-filter-on-select-27oi)
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Dev.to/JS] [Understanding the Different Strategies of Depth First Search Tree Traversal](https://dev.to/smilesforgood/understanding-the-different-strategies-of-depth-first-search-tree-traversal-3bn3)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A better Node version manager: Volta vs nvm](https://dev.to/duncanlew/a-better-node-version-manager-volta-vs-nvm-3f2h)
 - [Dev.to/JS] [Node.js v19.2.0 Release](https://dev.to/ruyadorno/nodejs-v1920-release-d4)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/10-fancy-gifts-for-experienced-coffee-drinkers-1849831911)
-- [Dev.to/JS] [vee-validate form in Modal | Issue using useForm with a Modal](https://dev.to/nickap/vee-validate-a-form-in-a-modal-useform-issue-when-used-in-a-modal-51ei)
-- [Dev.to/JS] [Creating Async Task Runner with Concurrency in JavaScript](https://dev.to/officialbidisha/creating-async-task-runner-with-concurrency-in-javascript-49j9)
 - [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)
-- [Dev.to/JS] [Fluent Insights EP4: Slots](https://dev.to/paulgildea/fluent-insights-ep4-slots-2d0l)
 - [Lifehacker] [The Best Ways to Store Leftover Pizza](https://lifehacker.com/the-best-ways-to-store-leftover-pizza-1849831705)
 - [Lifehacker] [Apple Music Finally Has Its Version of &#39;Spotify Wrapped&#39;](https://lifehacker.com/apple-music-finally-has-its-version-of-spotify-wrapped-1849831503)
 - [Lifehacker] [Your Next Party Needs This Giant Grilled Cheese Sandwich](https://lifehacker.com/your-next-party-needs-this-giant-grilled-cheese-sandwic-1849830549)
