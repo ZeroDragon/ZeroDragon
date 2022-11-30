@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Formatting data like a pro in JavaScript](https://dev.to/milandev/formatting-data-like-a-pro-in-javascript-332m)
+- [Lifehacker] [The Easy Way to Freeze &lpar;and Thaw&rpar; Leftover Turkey](https://lifehacker.com/the-easy-way-to-freeze-and-thaw-leftover-turkey-1849837026)
 - [Lifehacker] [Here&#39;s How to Make Your Instafest Concert Lineup](https://lifehacker.com/heres-how-to-make-your-instafest-concert-lineup-1849836938)
 - [Dev.to/JS] [Guide to Layouts and Page Specific Layouts in NextJS](https://dev.to/jaredm/guide-to-layouts-and-page-specific-layouts-in-nextjs-k2m)
 - [Dev.to/JS] [Permissions &lpar;access control&rpar; in web apps](https://dev.to/wasp/permissions-access-control-in-web-apps-j6b)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are Some Actually Good Stocking Stuffer Ideas for You](https://lifehacker.com/here-are-some-actually-good-stocking-stuffer-ideas-for-1849832773)
 - [Dev.to/JS] [Finding a bug after writing a test, an example](https://dev.to/buaiscia/finding-a-bug-after-writing-a-test-an-example-em4)
 - [Lifehacker] [There’s Finally a Hidden Setting to Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/there-s-finally-a-hidden-setting-to-stop-chrome-from-ki-1849835503)
-- [Dev.to/JS] [Will Vue Become the Most Popular Front-end Framework in 2023?](https://dev.to/adambiggs/will-vue-become-the-most-popular-front-end-framework-in-2023-65h)
 - [Lifehacker] [Kids Can Get the ‘Winter Blues’ Too](https://lifehacker.com/kids-can-get-the-winter-blues-too-1849834071)
 - [Lifehacker] [This TikTok Thirst Trap Is Tricking People Into Downloading Malware](https://lifehacker.com/don-t-get-fooled-into-downloading-malware-by-this-liter-1849833006)
 - [Lifehacker] [How to Write a To-Do List You’ll Actually Do](https://lifehacker.com/how-to-write-a-to-do-list-you-ll-actually-do-1849831092)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Texts From Going to Your Old Phone](https://lifehacker.com/how-to-stop-texts-from-going-to-your-old-phone-1849830857)
 - [Lifehacker] [Being Disorganized Is Costing You Money](https://lifehacker.com/stop-wasting-money-by-being-disorganized-1849831059)
 - [Lifehacker] [Never Ask Your Friend These Money Questions &lpar;and What to Say Instead&rpar;](https://lifehacker.com/never-ask-your-friend-these-money-questions-and-what-t-1849828588)
-- [Lifehacker] [Don’t Get Tricked Into Buying a Crappy TV](https://lifehacker.com/don-t-get-tricked-into-buying-a-crappy-tv-1849829183)
-- [Lifehacker] [Why ‘Positive’ Jewish Stereotypes Are Bad Too](https://lifehacker.com/why-positive-jewish-stereotypes-are-bad-too-1849829352)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Get Tricked Into Buying a Crappy TV](https://lifehacker.com/don-t-get-tricked-into-buying-a-crappy-tv-1849829183)<!-- TECH-POSTS:END -->
 
 ---
 
