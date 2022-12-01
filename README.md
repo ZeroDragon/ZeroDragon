@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Win a Free Steam Deck While Watching Video Games Win Awards](https://lifehacker.com/win-a-free-steam-deck-while-watching-video-games-win-aw-1849840788)
+- [Lifehacker] [Don&#39;t Make Cookies Without a Fish Spatula](https://lifehacker.com/dont-make-cookies-without-a-fish-spatula-1849840982)
+- [Dev.to/JS] [Chat moderation in Wix with TensorflowJS and Velo](https://dev.to/amandamartindev/chat-moderation-in-wix-with-tensorflowjs-and-velo-4dd2)
+- [Dev.to/JS] [Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos](https://dev.to/koalitos/desenvolvimento-web-completo-2021-20-cursos-20-projetos-nn2)
+- [Dev.to/JS] [Solving day 01 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-01-of-advent-of-code-2022-in-javascript-5dip)
 - [Lifehacker] [15 of the Best ‘CleanTok’ Accounts to Follow on TikTok](https://lifehacker.com/15-of-the-best-cleantok-accounts-to-follow-on-tiktok-1849838334)
 - [Dev.to/JS] [Why typescript not JS?](https://dev.to/deepachaurasia1/why-typescript-not-js-20l3)
 - [Lifehacker] [Wordle Has Themes Now, so You Should Change Your Strategy](https://lifehacker.com/wordle-has-themes-now-so-you-should-change-your-strate-1849840529)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Free Pizza Hut If You Ruin Your Dinner This Month](https://lifehacker.com/you-can-get-free-pizza-hut-if-you-ruin-your-dinner-this-1849838743)
 - [Dev.to/JS] [Minimum Index Sum of Two Lists](https://dev.to/zeeshanali0704/minimum-index-sum-of-two-lists-50ob)
 - [Dev.to/JS] [Traditional CMS vs. Headless CMS - The Full Comparison](https://dev.to/momciloo/traditional-cms-vs-headless-cms-the-full-comparison-4e2j)
-- [Dev.to/JS] [Working with Currency Values in TypeScript](https://dev.to/joshuaslate/working-with-currency-values-in-typescript-1b3d)
 - [Lifehacker] [How to Tell If an Instagram Account Is Fake](https://lifehacker.com/how-to-tell-if-an-instagram-account-is-fake-1849838074)
-- [Dev.to/JS] [How Configure a MongoDB Atlas Database for your Parse Server](https://dev.to/zciwor/how-configure-a-mongodb-atlas-database-for-your-parse-server-e8f)
-- [Dev.to/JS] [How to set up a Parse Server backend with Typescript](https://dev.to/zciwor/how-to-set-up-a-parse-server-backend-with-typescript-3hk6)
 - [Crazy Programmer] [Tim Berners-Lee Biography](https://www.thecrazyprogrammer.com/2022/12/tim-berners-lee-biography.html)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There’s Finally a Hidden Setting to Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/there-s-finally-a-hidden-setting-to-stop-chrome-from-ki-1849835503)
 - [Lifehacker] [Kids Can Get the ‘Winter Blues’ Too](https://lifehacker.com/kids-can-get-the-winter-blues-too-1849834071)
 - [Lifehacker] [This TikTok Thirst Trap Is Tricking People Into Downloading Malware](https://lifehacker.com/don-t-get-fooled-into-downloading-malware-by-this-liter-1849833006)
-- [Lifehacker] [How to Write a To-Do List You’ll Actually Do](https://lifehacker.com/how-to-write-a-to-do-list-you-ll-actually-do-1849831092)
-- [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
-- [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Write a To-Do List You’ll Actually Do](https://lifehacker.com/how-to-write-a-to-do-list-you-ll-actually-do-1849831092)<!-- TECH-POSTS:END -->
 
 ---
 
