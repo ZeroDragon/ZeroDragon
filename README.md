@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create useful automations with plain Javascript 🧑‍💻](https://dev.to/alagrede/create-useful-automations-with-plain-javascript-1871)
+- [Dev.to/JS] [Understanding the Map, Filter &amp; Reduce Methods in JavaScript](https://dev.to/shreyvijayvargiya/understanding-the-map-filter-reduce-methods-in-javascript-1deo)
+- [Crazy Programmer] [Tim Berners-Lee Biography](https://www.thecrazyprogrammer.com/2022/12/tim-berners-lee-biography.html)
 - [Dev.to/JS] [Transition Effect in React JS without any package](https://dev.to/akshanvic/transition-effect-in-react-js-without-any-package-32mb)
 - [Dev.to/JS] [JS Variables](https://dev.to/armenzet/js-variables-1dj4)
 - [Dev.to/JS] [5 Entry Level React Native Bugs That Might Frustrate Your Life [With Solutions]](https://dev.to/sparklesix/5-entry-level-react-native-bugs-that-might-frustrate-your-life-with-solutions-3abp)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promises, on your mark... set... Go!](https://dev.to/tobshub/promises-on-your-mark-set-go-1ieg)
 - [Dev.to/JS] [How to deploy your NestJS apps on Vercel](https://dev.to/leduc1901/how-to-deploy-your-nestjs-apps-on-vercel-3nh9)
 - [Dev.to/JS] [Resources for Creating Websites](https://dev.to/pramith/resources-for-creating-websites-16ip)
-- [Dev.to/JS] [All you need to know about Google Summer of Code GSoC 2023](https://dev.to/manandev/all-you-need-to-know-about-google-summer-of-code-gsoc-2023-143l)
-- [Dev.to/JS] [Maximum Width of Binary Tree - with null count](https://dev.to/zeeshanali0704/maximum-width-of-binary-tree-with-null-count-45ii)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add One of These Holiday Countdown Widgets to Your iPhone](https://lifehacker.com/add-one-of-these-holiday-countdown-widgets-to-your-ipho-1849703382)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/10-fancy-gifts-for-experienced-coffee-drinkers-1849831911)
 - [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)
-- [Lifehacker] [The Best Ways to Store Leftover Pizza](https://lifehacker.com/the-best-ways-to-store-leftover-pizza-1849831705)
-- [Lifehacker] [Apple Music Finally Has Its Version of &#39;Spotify Wrapped&#39;](https://lifehacker.com/apple-music-finally-has-its-version-of-spotify-wrapped-1849831503)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Store Leftover Pizza](https://lifehacker.com/the-best-ways-to-store-leftover-pizza-1849831705)<!-- TECH-POSTS:END -->
 
 ---
 
