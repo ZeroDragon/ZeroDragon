@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day16 | 104. Maximum Depth of Binary Tree, 111.Minimum Depth of Binary Tree, 222.Count Complete Tree Nodes](https://dev.to/986913/dai-ma-sui-xiang-lu-day16-104-maximum-depth-of-binary-tree-111minimum-depth-of-binary-tree-222count-complete-tree-nodes-19ie)
+- [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
+- [Dev.to/JS] [6 React Native UI Kits for 2023](https://dev.to/mauro_codes/6-react-native-ui-kits-for-2023-3h8a)
 - [Dev.to/JS] [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Dev.to/JS] [Exploring Communicating Sequential Processes in Javascript](https://dev.to/artydev/exploring-communicating-sequential-processes-in-javascript-dkh)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I tried Google Cloud products and here is what every beginner should know](https://dev.to/amersikira/i-tried-google-cloud-products-and-here-is-what-every-beginner-should-know-29op)
 - [Lifehacker] [You’re Doing Winter Recycling All Wrong](https://lifehacker.com/you-re-doing-winter-recycling-all-wrong-1849837034)
 - [Dev.to/JS] [DOM Manipulation: part II](https://dev.to/crispitipina/dom-manipulation-part-ii-4pka)
-- [Dev.to/JS] [What is VueJS](https://dev.to/hermitex/what-is-vuejs-537h)
 - [Lifehacker] [9 Gifts for Your Favorite Wine Lover](https://lifehacker.com/9-gifts-for-your-favorite-wine-lover-1849836931)
-- [Dev.to/JS] [WebAssembly With Zig, Pt. II](https://dev.to/sleibrock/webassembly-with-zig-pt-ii-ei7)
 - [Lifehacker] [How to Unclog the Dishwasher Yourself](https://lifehacker.com/how-to-unclog-the-dishwasher-yourself-1849834454)
 - [Lifehacker] [These Glitches Let You Cheat in &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/these-glitches-let-you-cheat-in-pokemon-scarlet-and-vio-1849835824)
 - [Lifehacker] [9 Mostly Untrue Myths About Witch Hunts](https://lifehacker.com/9-mostly-untrue-myths-about-witch-hunts-1849828760)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/10-fancy-gifts-for-experienced-coffee-drinkers-1849831911)
 - [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)
 - [Lifehacker] [The Best Ways to Store Leftover Pizza](https://lifehacker.com/the-best-ways-to-store-leftover-pizza-1849831705)
-- [Lifehacker] [Apple Music Finally Has Its Version of &#39;Spotify Wrapped&#39;](https://lifehacker.com/apple-music-finally-has-its-version-of-spotify-wrapped-1849831503)
-- [Lifehacker] [Your Next Party Needs This Giant Grilled Cheese Sandwich](https://lifehacker.com/your-next-party-needs-this-giant-grilled-cheese-sandwic-1849830549)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Music Finally Has Its Version of &#39;Spotify Wrapped&#39;](https://lifehacker.com/apple-music-finally-has-its-version-of-spotify-wrapped-1849831503)<!-- TECH-POSTS:END -->
 
 ---
 
