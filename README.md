@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9. Palindrome Number - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/9-palindrome-number-javascript-solution-by-abu-saleh-faysal-113j)
 - [Dev.to/JS] [Create useful automations with plain Javascript 🧑‍💻](https://dev.to/alagrede/create-useful-automations-with-plain-javascript-1871)
 - [Dev.to/JS] [Understanding the Map, Filter &amp; Reduce Methods in JavaScript](https://dev.to/shreyvijayvargiya/understanding-the-map-filter-reduce-methods-in-javascript-1deo)
 - [Crazy Programmer] [Tim Berners-Lee Biography](https://www.thecrazyprogrammer.com/2022/12/tim-berners-lee-biography.html)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you should start using ChakraUI &lpar;Part 1&rpar;.](https://dev.to/iamabdulazeez/why-you-should-start-using-chakraui-part-1-57f1)
 - [Dev.to/JS] [Promises, on your mark... set... Go!](https://dev.to/tobshub/promises-on-your-mark-set-go-1ieg)
 - [Dev.to/JS] [How to deploy your NestJS apps on Vercel](https://dev.to/leduc1901/how-to-deploy-your-nestjs-apps-on-vercel-3nh9)
-- [Dev.to/JS] [Resources for Creating Websites](https://dev.to/pramith/resources-for-creating-websites-16ip)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
