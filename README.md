@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with Currency Values in TypeScript](https://dev.to/joshuaslate/working-with-currency-values-in-typescript-1b3d)
+- [Lifehacker] [How to Tell If an Instagram Account Is Fake](https://lifehacker.com/how-to-tell-if-an-instagram-account-is-fake-1849838074)
+- [Dev.to/JS] [How Configure a MongoDB Atlas Database for your Parse Server](https://dev.to/zciwor/how-configure-a-mongodb-atlas-database-for-your-parse-server-e8f)
+- [Dev.to/JS] [How to set up a Parse Server backend with Typescript](https://dev.to/zciwor/how-to-set-up-a-parse-server-backend-with-typescript-3hk6)
 - [Dev.to/JS] [How Project Wallace extracts all CSS from any webpage](https://dev.to/bartveneman/how-project-wallace-extracts-all-css-from-any-webpage-18kp)
 - [Dev.to/JS] [React forms: Formik and Yup intro](https://dev.to/hi_iam_chris/react-forms-formik-and-yup-intro-154g)
-- [Dev.to/JS] [Awesome time-saving tools for developers](https://dev.to/documatic/awesome-time-saving-tools-for-developers-1df5)
+- [Dev.to/JS] [Awesome time-saving tools for developers](https://dev.to/surajondev/awesome-time-saving-tools-for-developers-1df5)
 - [Dev.to/JS] [9. Palindrome Number - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/9-palindrome-number-javascript-solution-by-abu-saleh-faysal-113j)
 - [Dev.to/JS] [Create useful automations with plain Javascript 🧑‍💻](https://dev.to/alagrede/create-useful-automations-with-plain-javascript-1871)
 - [Dev.to/JS] [Understanding the Map, Filter &amp; Reduce Methods in JavaScript](https://dev.to/shreyvijayvargiya/understanding-the-map-filter-reduce-methods-in-javascript-1deo)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transition Effect in React JS without any package](https://dev.to/akshanvic/transition-effect-in-react-js-without-any-package-32mb)
 - [Dev.to/JS] [JS Variables](https://dev.to/armenzet/js-variables-1dj4)
 - [Dev.to/JS] [5 Entry Level React Native Bugs That Might Frustrate Your Life [With Solutions]](https://dev.to/sparklesix/5-entry-level-react-native-bugs-that-might-frustrate-your-life-with-solutions-3abp)
-- [Dev.to/JS] [How Do Closure and Scope Work In JS?](https://dev.to/quokkalabs/how-do-closure-and-scope-work-in-js-56gn)
-- [Dev.to/JS] [Exodus Effect – Price, Benefits, Ingredients, Reviews And Results?](https://dev.to/exoduseffect10/exodus-effect-price-benefits-ingredients-reviews-and-results-33mg)
-- [Dev.to/JS] [Detecting if the user is online with JavaScript](https://dev.to/dailydevtips1/detecting-if-the-user-is-online-with-javascript-58ne)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Free McDonald&#39;s for Life](https://lifehacker.com/you-can-get-free-mcdonalds-for-life-1849832084)
 - [Lifehacker] [Add One of These Holiday Countdown Widgets to Your iPhone](https://lifehacker.com/add-one-of-these-holiday-countdown-widgets-to-your-ipho-1849703382)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/10-fancy-gifts-for-experienced-coffee-drinkers-1849831911)
-- [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)
-- [Lifehacker] [The Best Ways to Store Leftover Pizza](https://lifehacker.com/the-best-ways-to-store-leftover-pizza-1849831705)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)<!-- TECH-POSTS:END -->
 
 ---
 
