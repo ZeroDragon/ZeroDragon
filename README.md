@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Autocomplete Algorithms](https://dev.to/khald/autocomplete-algorithms-1pb2)
+- [Dev.to/JS] [How JavaScript works ?](https://dev.to/ashik155/how-javascript-works--od7)
+- [Dev.to/JS] [Variadic Functions in JavaScript - Understand the Basic Usage and Benefits](https://dev.to/sarahokolo/variadic-functions-in-javascript-understand-the-basic-usage-and-benefits-4m8n)
+- [Dev.to/JS] [Introducing a2k - A UI library designed to capture that retro 2000s feeling](https://dev.to/andrico1234/introducing-a2k-a-ui-library-designed-to-capture-that-retro-2000s-feeling-192j)
+- [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
+- [Dev.to/JS] [代码随想录day17 | 110. Balanced Binary Tree, 257. Binary Tree Paths, 404. Sum of Left Leaves](https://dev.to/986913/dai-ma-sui-xiang-lu-day17-110-balanced-binary-tree-257-binary-tree-paths-404-sum-of-left-leaves-5c64)
+- [Dev.to/JS] [How Blockchain Generates Each Block&#39;s Hash](https://dev.to/ebereplenty/how-blockchain-generates-each-blocks-hash-e1l)
 - [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)
 - [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)
 - [Dev.to/JS] [Fun Facts about JavaScript Arrays](https://dev.to/cooty/fun-facts-about-javascript-arrays-3j3g)
@@ -34,13 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
 - [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #1: ¡Automatizando envolver regalos de navidad!](https://dev.to/duxtech/adventjs-reto-1-automatizando-envolver-regalos-de-navidad-133n)
-- [Dev.to/JS] [Bypassing SignUp Blurred Content](https://dev.to/f53/bypassing-signup-blurred-content-pbo)
-- [Dev.to/JS] [Best 49 Free Udemy Courses - December 1, 2022](https://dev.to/theprogramminbuddyclub/best-49-free-udemy-courses-december-1-2022-89o)
-- [Dev.to/JS] [Create a CRUD Application with Inline Table Editing in Angular 14 +](https://dev.to/chadwinjdeysel/create-an-crud-application-with-inline-table-editing-in-angular-14--1edl)
-- [Dev.to/JS] [Advent.js 2022, una iniciativa navideña para mejorar tu lógica de programación🎄](https://dev.to/duxtech/adventjs-2022-una-iniciativa-navidena-para-mejorar-tu-logica-de-programacion-1k0)
-- [Dev.to/JS] [Common Types in TypeScript &lpar;part 1&rpar;](https://dev.to/1solation/common-types-in-typescript-part-1-5f9l)
 - [Lifehacker] [11 of the Best Gifts for the DIYer on Your List](https://lifehacker.com/11-of-the-best-gifts-for-the-diyer-on-your-list-1849839705)
-- [Dev.to/JS] [Testing React+Node JS app with Jest and Upload coverage report to CodeClimate with Github Action](https://dev.to/shang8024/testing-reactnode-js-app-with-jest-and-upload-coverage-report-to-codeclimate-with-github-action-4d9p)
 - [Lifehacker] [Win a Free Steam Deck While Watching Video Games Win Awards](https://lifehacker.com/win-a-free-steam-deck-while-watching-video-games-win-aw-1849840788)
 - [Lifehacker] [Don&#39;t Make Cookies Without a Fish Spatula](https://lifehacker.com/dont-make-cookies-without-a-fish-spatula-1849840982)
 - [Lifehacker] [15 of the Best ‘CleanTok’ Accounts to Follow on TikTok](https://lifehacker.com/15-of-the-best-cleantok-accounts-to-follow-on-tiktok-1849838334)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You’re Doing Winter Recycling All Wrong](https://lifehacker.com/you-re-doing-winter-recycling-all-wrong-1849837034)
 - [Lifehacker] [9 Gifts for Your Favorite Wine Lover](https://lifehacker.com/9-gifts-for-your-favorite-wine-lover-1849836931)
 - [Lifehacker] [How to Unclog the Dishwasher Yourself](https://lifehacker.com/how-to-unclog-the-dishwasher-yourself-1849834454)
-- [Lifehacker] [These Glitches Let You Cheat in &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/these-glitches-let-you-cheat-in-pokemon-scarlet-and-vio-1849835824)
-- [Lifehacker] [9 Mostly Untrue Myths About Witch Hunts](https://lifehacker.com/9-mostly-untrue-myths-about-witch-hunts-1849828760)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Glitches Let You Cheat in &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/these-glitches-let-you-cheat-in-pokemon-scarlet-and-vio-1849835824)<!-- TECH-POSTS:END -->
 
 ---
 
