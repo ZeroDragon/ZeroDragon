@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)
+- [Dev.to/JS] [JavaScript : Variables and Constants &lpar;A beginner&#39;s Perspective&rpar;](https://dev.to/damilolaweb/javascript-variables-and-constants-a-beginners-perspective-12i7)
+- [Dev.to/JS] [5 ways to declare a function in JavaScript](https://dev.to/salmaab/5-ways-to-declare-a-function-in-javascript-5ehh)
+- [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
 - [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #1: ¡Automatizando envolver regalos de navidad!](https://dev.to/duxtech/adventjs-reto-1-automatizando-envolver-regalos-de-navidad-133n)
 - [Dev.to/JS] [Bypassing SignUp Blurred Content](https://dev.to/f53/bypassing-signup-blurred-content-pbo)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Make Cookies Without a Fish Spatula](https://lifehacker.com/dont-make-cookies-without-a-fish-spatula-1849840982)
 - [Dev.to/JS] [Chat moderation in Wix with TensorflowJS and Velo](https://dev.to/amandamartindev/chat-moderation-in-wix-with-tensorflowjs-and-velo-4dd2)
 - [Dev.to/JS] [Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos](https://dev.to/koalitos/desenvolvimento-web-completo-2021-20-cursos-20-projetos-nn2)
-- [Dev.to/JS] [Solving day 01 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-01-of-advent-of-code-2022-in-javascript-5dip)
 - [Lifehacker] [15 of the Best ‘CleanTok’ Accounts to Follow on TikTok](https://lifehacker.com/15-of-the-best-cleantok-accounts-to-follow-on-tiktok-1849838334)
-- [Dev.to/JS] [Why typescript not JS?](https://dev.to/deepachaurasia1/why-typescript-not-js-20l3)
 - [Lifehacker] [Wordle Has Themes Now, so You Should Change Your Strategy](https://lifehacker.com/wordle-has-themes-now-so-you-should-change-your-strate-1849840529)
 - [Lifehacker] [12 Podcasts You Can Listen to in the Car With Your Kids](https://lifehacker.com/12-podcasts-you-can-listen-to-in-the-car-with-your-kids-1849806601)
 - [Lifehacker] [Here&#39;s When It&#39;s Time to Repot an Indoor Plant](https://lifehacker.com/heres-when-its-time-to-repot-an-indoor-plant-1849839763)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Glitches Let You Cheat in &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/these-glitches-let-you-cheat-in-pokemon-scarlet-and-vio-1849835824)
 - [Lifehacker] [9 Mostly Untrue Myths About Witch Hunts](https://lifehacker.com/9-mostly-untrue-myths-about-witch-hunts-1849828760)
 - [Lifehacker] [Layer Your Leftovers Into a Lasagna](https://lifehacker.com/layer-your-leftovers-into-a-lasagna-1849835857)
-- [Lifehacker] [Here Are Some Actually Good Stocking Stuffer Ideas for You](https://lifehacker.com/here-are-some-actually-good-stocking-stuffer-ideas-for-1849832773)
-- [Lifehacker] [There’s Finally a Hidden Setting to Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/there-s-finally-a-hidden-setting-to-stop-chrome-from-ki-1849835503)
-- [Lifehacker] [Kids Can Get the ‘Winter Blues’ Too](https://lifehacker.com/kids-can-get-the-winter-blues-too-1849834071)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here Are Some Actually Good Stocking Stuffer Ideas for You](https://lifehacker.com/here-are-some-actually-good-stocking-stuffer-ideas-for-1849832773)<!-- TECH-POSTS:END -->
 
 ---
 
