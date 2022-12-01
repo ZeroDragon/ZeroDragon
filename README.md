@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Entry Level React Native Bugs That Might Frustrate Your Life [With Solutions]](https://dev.to/sparklesix/5-entry-level-react-native-bugs-that-might-frustrate-your-life-with-solutions-3abp)
+- [Dev.to/JS] [How Do Closure and Scope Work In JS?](https://dev.to/quokkalabs/how-do-closure-and-scope-work-in-js-56gn)
 - [Dev.to/JS] [Exodus Effect – Price, Benefits, Ingredients, Reviews And Results?](https://dev.to/exoduseffect10/exodus-effect-price-benefits-ingredients-reviews-and-results-33mg)
 - [Dev.to/JS] [Detecting if the user is online with JavaScript](https://dev.to/dailydevtips1/detecting-if-the-user-is-online-with-javascript-58ne)
 - [Dev.to/JS] [Why you should start using ChakraUI &lpar;Part 1&rpar;.](https://dev.to/iamabdulazeez/why-you-should-start-using-chakraui-part-1-57f1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Maximum Width of Binary Tree - with null count](https://dev.to/zeeshanali0704/maximum-width-of-binary-tree-with-null-count-45ii)
 - [Dev.to/JS] [React Real-time Form Validation Quick and Easy with js-flex-validator](https://dev.to/paterson1720/react-form-validation-quick-and-easy-with-js-flex-validator-29di)
 - [Dev.to/JS] [How to Set Up &amp; Deploy Fake REST API Server Using JSON Server?](https://dev.to/eshankvaish/how-to-set-up-deploy-fake-rest-api-server-using-json-server-9k5)
-- [Dev.to/JS] [React 101: Getting started with create-react-app](https://dev.to/asayerio_techblog/react-101-getting-started-with-create-react-app-540c)
-- [Dev.to/JS] [JavaScript: Asynchronous](https://dev.to/antelove19/javascript-asynchronous-182d)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
