@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Symptoms Are &lpar;Fairly&rpar; Normal After Having Sex](https://lifehacker.com/these-symptoms-are-fairly-normal-after-having-sex-1849839450)
+- [Dev.to/JS] [Listnr | Made with Next JS](https://dev.to/madewithjavascript/listnr-made-with-next-js-4de)
+- [Lifehacker] [You Can Get Free Pizza Hut If You Ruin Your Dinner This Month](https://lifehacker.com/you-can-get-free-pizza-hut-if-you-ruin-your-dinner-this-1849838743)
+- [Dev.to/JS] [Minimum Index Sum of Two Lists](https://dev.to/zeeshanali0704/minimum-index-sum-of-two-lists-50ob)
+- [Dev.to/JS] [Traditional CMS vs. Headless CMS - The Full Comparison](https://dev.to/momciloo/traditional-cms-vs-headless-cms-the-full-comparison-4e2j)
 - [Dev.to/JS] [Working with Currency Values in TypeScript](https://dev.to/joshuaslate/working-with-currency-values-in-typescript-1b3d)
 - [Lifehacker] [How to Tell If an Instagram Account Is Fake](https://lifehacker.com/how-to-tell-if-an-instagram-account-is-fake-1849838074)
 - [Dev.to/JS] [How Configure a MongoDB Atlas Database for your Parse Server](https://dev.to/zciwor/how-configure-a-mongodb-atlas-database-for-your-parse-server-e8f)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create useful automations with plain Javascript 🧑‍💻](https://dev.to/alagrede/create-useful-automations-with-plain-javascript-1871)
 - [Dev.to/JS] [Understanding the Map, Filter &amp; Reduce Methods in JavaScript](https://dev.to/shreyvijayvargiya/understanding-the-map-filter-reduce-methods-in-javascript-1deo)
 - [Crazy Programmer] [Tim Berners-Lee Biography](https://www.thecrazyprogrammer.com/2022/12/tim-berners-lee-biography.html)
-- [Dev.to/JS] [Transition Effect in React JS without any package](https://dev.to/akshanvic/transition-effect-in-react-js-without-any-package-32mb)
-- [Dev.to/JS] [JS Variables](https://dev.to/armenzet/js-variables-1dj4)
-- [Dev.to/JS] [5 Entry Level React Native Bugs That Might Frustrate Your Life [With Solutions]](https://dev.to/sparklesix/5-entry-level-react-native-bugs-that-might-frustrate-your-life-with-solutions-3abp)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
 - [Lifehacker] [Why Economists Predict Home Prices Will Fall Next Year](https://lifehacker.com/why-economists-predict-home-prices-will-fall-next-year-1849832197)
 - [Lifehacker] [You Can Get Free McDonald&#39;s for Life](https://lifehacker.com/you-can-get-free-mcdonalds-for-life-1849832084)
-- [Lifehacker] [Add One of These Holiday Countdown Widgets to Your iPhone](https://lifehacker.com/add-one-of-these-holiday-countdown-widgets-to-your-ipho-1849703382)
-- [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/10-fancy-gifts-for-experienced-coffee-drinkers-1849831911)
-- [Lifehacker] [10 Ingenious Ways to Use Up Your Leftover Turkey](https://lifehacker.com/10-ingenious-ways-to-use-up-your-leftover-turkey-1849831819)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Add One of These Holiday Countdown Widgets to Your iPhone](https://lifehacker.com/add-one-of-these-holiday-countdown-widgets-to-your-ipho-1849703382)<!-- TECH-POSTS:END -->
 
 ---
 
