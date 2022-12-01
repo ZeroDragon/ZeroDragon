@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)
+- [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)
+- [Dev.to/JS] [Fun Facts about JavaScript Arrays](https://dev.to/cooty/fun-facts-about-javascript-arrays-3j3g)
+- [Dev.to/JS] [Integrate Google Analytics, PayPal, Stripe into one dashboard](https://dev.to/theplugjumbo/integrate-google-analytics-paypal-stripe-into-one-dashboard-310p)
 - [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)
+- [Dev.to/JS] [Calorie Counting](https://dev.to/rmion/calorie-counting-bp3)
 - [Dev.to/JS] [JavaScript : Variables and Constants &lpar;A beginner&#39;s Perspective&rpar;](https://dev.to/damilolaweb/javascript-variables-and-constants-a-beginners-perspective-12i7)
 - [Dev.to/JS] [5 ways to declare a function in JavaScript](https://dev.to/salmaab/5-ways-to-declare-a-function-in-javascript-5ehh)
 - [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
@@ -36,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common Types in TypeScript &lpar;part 1&rpar;](https://dev.to/1solation/common-types-in-typescript-part-1-5f9l)
 - [Lifehacker] [11 of the Best Gifts for the DIYer on Your List](https://lifehacker.com/11-of-the-best-gifts-for-the-diyer-on-your-list-1849839705)
 - [Dev.to/JS] [Testing React+Node JS app with Jest and Upload coverage report to CodeClimate with Github Action](https://dev.to/shang8024/testing-reactnode-js-app-with-jest-and-upload-coverage-report-to-codeclimate-with-github-action-4d9p)
-- [Dev.to/JS] [Internationalizing and Localizing a React App: i18n Made Easy](https://dev.to/joshuaslate/internationalizing-and-localizing-a-react-app-i18n-made-easy-3fbm)
 - [Lifehacker] [Win a Free Steam Deck While Watching Video Games Win Awards](https://lifehacker.com/win-a-free-steam-deck-while-watching-video-games-win-aw-1849840788)
 - [Lifehacker] [Don&#39;t Make Cookies Without a Fish Spatula](https://lifehacker.com/dont-make-cookies-without-a-fish-spatula-1849840982)
-- [Dev.to/JS] [Chat moderation in Wix with TensorflowJS and Velo](https://dev.to/amandamartindev/chat-moderation-in-wix-with-tensorflowjs-and-velo-4dd2)
-- [Dev.to/JS] [Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos](https://dev.to/koalitos/desenvolvimento-web-completo-2021-20-cursos-20-projetos-nn2)
 - [Lifehacker] [15 of the Best ‘CleanTok’ Accounts to Follow on TikTok](https://lifehacker.com/15-of-the-best-cleantok-accounts-to-follow-on-tiktok-1849838334)
 - [Lifehacker] [Wordle Has Themes Now, so You Should Change Your Strategy](https://lifehacker.com/wordle-has-themes-now-so-you-should-change-your-strate-1849840529)
 - [Lifehacker] [12 Podcasts You Can Listen to in the Car With Your Kids](https://lifehacker.com/12-podcasts-you-can-listen-to-in-the-car-with-your-kids-1849806601)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Gifts for Your Favorite Wine Lover](https://lifehacker.com/9-gifts-for-your-favorite-wine-lover-1849836931)
 - [Lifehacker] [How to Unclog the Dishwasher Yourself](https://lifehacker.com/how-to-unclog-the-dishwasher-yourself-1849834454)
 - [Lifehacker] [These Glitches Let You Cheat in &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/these-glitches-let-you-cheat-in-pokemon-scarlet-and-vio-1849835824)
-- [Lifehacker] [9 Mostly Untrue Myths About Witch Hunts](https://lifehacker.com/9-mostly-untrue-myths-about-witch-hunts-1849828760)
-- [Lifehacker] [Layer Your Leftovers Into a Lasagna](https://lifehacker.com/layer-your-leftovers-into-a-lasagna-1849835857)
-- [Lifehacker] [Here Are Some Actually Good Stocking Stuffer Ideas for You](https://lifehacker.com/here-are-some-actually-good-stocking-stuffer-ideas-for-1849832773)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Mostly Untrue Myths About Witch Hunts](https://lifehacker.com/9-mostly-untrue-myths-about-witch-hunts-1849828760)<!-- TECH-POSTS:END -->
 
 ---
 
