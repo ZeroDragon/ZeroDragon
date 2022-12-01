@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to deploy your NestJS apps on Vercel](https://dev.to/leduc1901/how-to-deploy-your-nestjs-apps-on-vercel-3nh9)
+- [Dev.to/JS] [Resources for Creating Websites](https://dev.to/pramith/resources-for-creating-websites-16ip)
 - [Dev.to/JS] [All you need to know about Google Summer of Code GSoC 2023](https://dev.to/manandev/all-you-need-to-know-about-google-summer-of-code-gsoc-2023-143l)
 - [Dev.to/JS] [Maximum Width of Binary Tree - with null count](https://dev.to/zeeshanali0704/maximum-width-of-binary-tree-with-null-count-45ii)
 - [Dev.to/JS] [React Real-time Form Validation Quick and Easy with js-flex-validator](https://dev.to/paterson1720/react-form-validation-quick-and-easy-with-js-flex-validator-29di)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Identical DOM Trees](https://dev.to/986913/identical-dom-trees-1kp4)
 - [Dev.to/JS] [The meaning of Imposter Syndrome](https://dev.to/ezuniga1999/the-meaning-of-imposter-syndrome-401l)
 - [Dev.to/JS] [forEach VS Map.](https://dev.to/ashik155/foreach-vs-map-hei)
-- [Dev.to/JS] [Aspectual Opinion of Java Script](https://dev.to/ezuniga1999/aspectual-opinion-of-java-script-2oa0)
-- [Dev.to/JS] [🎄JS Advent #1 - Truthy and Falsy values🎄](https://dev.to/jtlavs/js-advent-1-truthy-and-falsy-values-41b1)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
