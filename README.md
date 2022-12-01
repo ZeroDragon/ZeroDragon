@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React 101: Getting started with create-react-app](https://dev.to/asayerio_techblog/react-101-getting-started-with-create-react-app-540c)
+- [Dev.to/JS] [JavaScript: Asynchronous](https://dev.to/antelove19/javascript-asynchronous-182d)
 - [Dev.to/JS] [The saga of async JavaScript: CSP](https://dev.to/romansarder/the-saga-of-async-javascript-csp-75e)
 - [Dev.to/JS] [Identical DOM Trees](https://dev.to/986913/identical-dom-trees-1kp4)
 - [Dev.to/JS] [The meaning of Imposter Syndrome](https://dev.to/ezuniga1999/the-meaning-of-imposter-syndrome-401l)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 React Native UI Kits for 2023](https://dev.to/mauro_codes/6-react-native-ui-kits-for-2023-3h8a)
 - [Dev.to/JS] [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
-- [Dev.to/JS] [Exploring Communicating Sequential Processes in Javascript](https://dev.to/artydev/exploring-communicating-sequential-processes-in-javascript-dkh)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
-- [Dev.to/JS] [Patching it up, Part 1: Planning](https://dev.to/cychu42/patching-it-up-part-1-planning-cje)
 - [Lifehacker] [Those Big Red Bows From Car Commercials are Real and You Can Buy One](https://lifehacker.com/those-big-red-bows-from-car-commercials-are-real-and-yo-1849837101)
 - [Lifehacker] [10 Morally Grey Sci-Fi Shows to Watch After &#39;Andor&#39;](https://lifehacker.com/10-morally-grey-sci-fi-shows-to-watch-after-andor-1849835682)
 - [Lifehacker] [The Easy Way to Freeze &lpar;and Thaw&rpar; Leftover Turkey](https://lifehacker.com/the-easy-way-to-freeze-and-thaw-leftover-turkey-1849837026)
