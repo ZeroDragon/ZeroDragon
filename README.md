@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Project Wallace extracts all CSS from any webpage](https://dev.to/bartveneman/how-project-wallace-extracts-all-css-from-any-webpage-18kp)
 - [Dev.to/JS] [React forms: Formik and Yup intro](https://dev.to/hi_iam_chris/react-forms-formik-and-yup-intro-154g)
 - [Dev.to/JS] [Awesome time-saving tools for developers](https://dev.to/documatic/awesome-time-saving-tools-for-developers-1df5)
 - [Dev.to/JS] [9. Palindrome Number - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/9-palindrome-number-javascript-solution-by-abu-saleh-faysal-113j)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Do Closure and Scope Work In JS?](https://dev.to/quokkalabs/how-do-closure-and-scope-work-in-js-56gn)
 - [Dev.to/JS] [Exodus Effect – Price, Benefits, Ingredients, Reviews And Results?](https://dev.to/exoduseffect10/exodus-effect-price-benefits-ingredients-reviews-and-results-33mg)
 - [Dev.to/JS] [Detecting if the user is online with JavaScript](https://dev.to/dailydevtips1/detecting-if-the-user-is-online-with-javascript-58ne)
-- [Dev.to/JS] [Why you should start using ChakraUI &lpar;Part 1&rpar;.](https://dev.to/iamabdulazeez/why-you-should-start-using-chakraui-part-1-57f1)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
