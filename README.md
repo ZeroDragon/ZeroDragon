@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Set Up &amp; Deploy Fake REST API Server Using JSON Server?](https://dev.to/eshankvaish/how-to-set-up-deploy-fake-rest-api-server-using-json-server-9k5)
 - [Dev.to/JS] [React 101: Getting started with create-react-app](https://dev.to/asayerio_techblog/react-101-getting-started-with-create-react-app-540c)
 - [Dev.to/JS] [JavaScript: Asynchronous](https://dev.to/antelove19/javascript-asynchronous-182d)
 - [Dev.to/JS] [The saga of async JavaScript: CSP](https://dev.to/romansarder/the-saga-of-async-javascript-csp-75e)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [代码随想录day16 | 104. Maximum Depth of Binary Tree, 111.Minimum Depth of Binary Tree, 222.Count Complete Tree Nodes](https://dev.to/986913/dai-ma-sui-xiang-lu-day16-104-maximum-depth-of-binary-tree-111minimum-depth-of-binary-tree-222count-complete-tree-nodes-19ie)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Dev.to/JS] [6 React Native UI Kits for 2023](https://dev.to/mauro_codes/6-react-native-ui-kits-for-2023-3h8a)
-- [Dev.to/JS] [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
 - [Lifehacker] [Those Big Red Bows From Car Commercials are Real and You Can Buy One](https://lifehacker.com/those-big-red-bows-from-car-commercials-are-real-and-yo-1849837101)
