@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AWS Text-To-Speech Serverless Application](https://dev.to/eelayoubi/aws-text-to-speech-serverless-application-n6f)
+- [Lifehacker] [12 Podcasts You Can Listen to in the Car With Your Kids](https://lifehacker.com/12-podcasts-you-can-listen-to-in-the-car-with-your-kids-1849806601)
+- [Dev.to/JS] [Ultimate Guide to JavaScript](https://dev.to/strangeratyourdoor/ultimate-guide-to-javascript-4fp6)
+- [Dev.to/JS] [#ThisMonthInSWA - November 2022](https://dev.to/azure/thismonthinswa-november-2022-igp)
+- [Lifehacker] [Here&#39;s When It&#39;s Time to Repot an Indoor Plant](https://lifehacker.com/heres-when-its-time-to-repot-an-indoor-plant-1849839763)
+- [Dev.to/JS] [4 Beginner Friendly Open Source Projects](https://dev.to/this-is-learning/4-beginner-friendly-open-source-projects-26g3)
 - [Lifehacker] [These Symptoms Are &lpar;Fairly&rpar; Normal After Having Sex](https://lifehacker.com/these-symptoms-are-fairly-normal-after-having-sex-1849839450)
 - [Dev.to/JS] [Listnr | Made with Next JS](https://dev.to/madewithjavascript/listnr-made-with-next-js-4de)
 - [Lifehacker] [You Can Get Free Pizza Hut If You Ruin Your Dinner This Month](https://lifehacker.com/you-can-get-free-pizza-hut-if-you-ruin-your-dinner-this-1849838743)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to set up a Parse Server backend with Typescript](https://dev.to/zciwor/how-to-set-up-a-parse-server-backend-with-typescript-3hk6)
 - [Dev.to/JS] [How Project Wallace extracts all CSS from any webpage](https://dev.to/bartveneman/how-project-wallace-extracts-all-css-from-any-webpage-18kp)
 - [Dev.to/JS] [React forms: Formik and Yup intro](https://dev.to/hi_iam_chris/react-forms-formik-and-yup-intro-154g)
-- [Dev.to/JS] [Awesome time-saving tools for developers](https://dev.to/surajondev/awesome-time-saving-tools-for-developers-1df5)
-- [Dev.to/JS] [9. Palindrome Number - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/9-palindrome-number-javascript-solution-by-abu-saleh-faysal-113j)
-- [Dev.to/JS] [Create useful automations with plain Javascript 🧑‍💻](https://dev.to/alagrede/create-useful-automations-with-plain-javascript-1871)
-- [Dev.to/JS] [Understanding the Map, Filter &amp; Reduce Methods in JavaScript](https://dev.to/shreyvijayvargiya/understanding-the-map-filter-reduce-methods-in-javascript-1deo)
 - [Crazy Programmer] [Tim Berners-Lee Biography](https://www.thecrazyprogrammer.com/2022/12/tim-berners-lee-biography.html)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Buy Gifts That Aren’t Cliché or Insulting This Year](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
 - [Lifehacker] [How to Buy the Right Knife](https://lifehacker.com/how-to-buy-the-right-knife-1849833093)
 - [Lifehacker] [Life Lessons With Ernie Hudson](https://lifehacker.com/life-lessons-with-ernie-hudson-1849832880)
-- [Lifehacker] [Why Economists Predict Home Prices Will Fall Next Year](https://lifehacker.com/why-economists-predict-home-prices-will-fall-next-year-1849832197)
-- [Lifehacker] [You Can Get Free McDonald&#39;s for Life](https://lifehacker.com/you-can-get-free-mcdonalds-for-life-1849832084)
-- [Lifehacker] [Add One of These Holiday Countdown Widgets to Your iPhone](https://lifehacker.com/add-one-of-these-holiday-countdown-widgets-to-your-ipho-1849703382)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Economists Predict Home Prices Will Fall Next Year](https://lifehacker.com/why-economists-predict-home-prices-will-fall-next-year-1849832197)<!-- TECH-POSTS:END -->
 
 ---
 
