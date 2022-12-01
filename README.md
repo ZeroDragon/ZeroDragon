@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
+- [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Dev.to/JS] [Autocomplete Algorithms](https://dev.to/khald/autocomplete-algorithms-1pb2)
 - [Dev.to/JS] [How JavaScript works ?](https://dev.to/ashik155/how-javascript-works--od7)
 - [Dev.to/JS] [Variadic Functions in JavaScript - Understand the Basic Usage and Benefits](https://dev.to/sarahokolo/variadic-functions-in-javascript-understand-the-basic-usage-and-benefits-4m8n)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easy Way to Freeze &lpar;and Thaw&rpar; Leftover Turkey](https://lifehacker.com/the-easy-way-to-freeze-and-thaw-leftover-turkey-1849837026)
 - [Lifehacker] [Here&#39;s How to Make Your Instafest Concert Lineup](https://lifehacker.com/heres-how-to-make-your-instafest-concert-lineup-1849836938)
 - [Lifehacker] [You’re Doing Winter Recycling All Wrong](https://lifehacker.com/you-re-doing-winter-recycling-all-wrong-1849837034)
-- [Lifehacker] [9 Gifts for Your Favorite Wine Lover](https://lifehacker.com/9-gifts-for-your-favorite-wine-lover-1849836931)
-- [Lifehacker] [How to Unclog the Dishwasher Yourself](https://lifehacker.com/how-to-unclog-the-dishwasher-yourself-1849834454)
-- [Lifehacker] [These Glitches Let You Cheat in &#39;Pokémon Scarlet&#39; and &#39;Violet&#39;](https://lifehacker.com/these-glitches-let-you-cheat-in-pokemon-scarlet-and-vio-1849835824)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Gifts for Your Favorite Wine Lover](https://lifehacker.com/9-gifts-for-your-favorite-wine-lover-1849836931)<!-- TECH-POSTS:END -->
 
 ---
 
