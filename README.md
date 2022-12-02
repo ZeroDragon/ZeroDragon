@@ -23,13 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Events: Bubbling, Capturing, and Propagation](https://dev.to/mitchiemt11/javascript-events-bubbling-capturing-and-propagation-56ab)
 - [Dev.to/JS] [What is TurboPack?](https://dev.to/omher/what-is-turbopack-58ll)
 - [Dev.to/JS] [Google Keep style input form in VanillaJS](https://dev.to/tanishqsingla/google-keep-style-input-form-in-vanillajs-19d3)
 - [Dev.to/JS] [How to Make Chrome Extension](https://dev.to/naemazam/how-to-make-chrome-extension-elb)
 - [Dev.to/JS] [Scrape Google Play Apps Results](https://dev.to/serpdogapi/scrape-google-play-apps-results-aim)
 - [Dev.to/JS] [JavascriptUI is finally here!](https://dev.to/tulburg/javascriptui-is-finally-here-4mko)
 - [Dev.to/JS] [A Script Tells Me What To Test](https://dev.to/mattferrin/a-script-tells-me-what-to-test-dla)
-- [Dev.to/JS] [Media Queries in JS done right](https://dev.to/this-is-learning/media-queries-in-js-done-right-38bh)
 - [Dev.to/JS] [Always use &quot;inject&quot;](https://dev.to/this-is-angular/always-use-inject-2do4)
 - [Dev.to/JS] [Nervogen Pro – Pain Relief Reviews, Benefits, Price And Results?](https://dev.to/nervogenprofact/nervogen-pro-pain-relief-reviews-benefits-price-and-results-13kp)
 - [Dev.to/JS] [Create Velocity Scroll Animation in React with Framer Motion](https://dev.to/leduc1901/create-velocity-scroll-animation-in-react-with-framer-motion-ko7)
