@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day18 | 513. Find Bottom Left Tree Value, 112&amp;113. Path Sum, 106/105. make Binary Tree from Inorder and Postorder/Preorder](https://dev.to/986913/dai-ma-sui-xiang-lu-day18-513-find-bottom-left-tree-value-112113-path-sum-106105-make-binary-tree-from-inorder-and-postorderpreorder-1pmb)
+- [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #2: Nadie quiere hacer horas extra](https://dev.to/duxtech/adventjs-reto-2-nadie-quiere-hacer-horas-extra-2eh4)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
 - [Lifehacker] [How to Sharpen a Knife With a Whet Stone](https://lifehacker.com/how-to-sharpen-a-knife-with-a-whet-stone-1849848333)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use the &#39;forkJoin&#39; RxJS operator](https://dev.to/blamb31/how-to-use-the-forkjoin-rxjs-operator-5ci9)
 - [Dev.to/JS] [Why I decided to become a developer](https://dev.to/salmandotweb/why-i-decided-to-become-a-developer-2kk8)
 - [Dev.to/JS] [How To Use The &#39;Concat&#39; RxJS Operator To Make Synchronous HTTP Calls](https://dev.to/blamb31/how-to-use-the-concat-rxjs-operator-to-make-synchronous-http-calls-58f1)
-- [Dev.to/JS] [Creating an Express Server using Node.js](https://dev.to/blamb31/creating-an-express-server-using-nodejs-48ia)
 - [Lifehacker] [Why a Tiny House Might Not Be As Affordable As You Think](https://lifehacker.com/why-a-tiny-house-might-not-be-as-affordable-as-you-thin-1849847134)
 - [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
 - [Lifehacker] [All the Social Media ‘Algospeak’ You Don’t Understand](https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)
 - [Lifehacker] [11 of the Best Gifts for the DIYer on Your List](https://lifehacker.com/11-of-the-best-gifts-for-the-diyer-on-your-list-1849839705)
 - [Lifehacker] [Win a Free Steam Deck While Watching Video Games Win Awards](https://lifehacker.com/win-a-free-steam-deck-while-watching-video-games-win-aw-1849840788)
-- [Lifehacker] [Don&#39;t Make Cookies Without a Fish Spatula](https://lifehacker.com/dont-make-cookies-without-a-fish-spatula-1849840982)
-- [Lifehacker] [15 of the Best ‘CleanTok’ Accounts to Follow on TikTok](https://lifehacker.com/15-of-the-best-cleantok-accounts-to-follow-on-tiktok-1849838334)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Make Cookies Without a Fish Spatula](https://lifehacker.com/dont-make-cookies-without-a-fish-spatula-1849840982)<!-- TECH-POSTS:END -->
 
 ---
 
