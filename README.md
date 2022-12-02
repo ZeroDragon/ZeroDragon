@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All Client SDKs were updated for Reduct Storage v1.1.0](https://dev.to/reduct-storage/all-client-sdks-were-updated-for-reduct-storage-v110-1f94)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Dev.to/JS] [Autocomplete Algorithms](https://dev.to/khald/autocomplete-algorithms-1pb2)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 ways to declare a function in JavaScript](https://dev.to/salmaab/5-ways-to-declare-a-function-in-javascript-5ehh)
 - [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
 - [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)
-- [Dev.to/JS] [Advent.js🎅🏼| Reto #1: ¡Automatizando envolver regalos de navidad!](https://dev.to/duxtech/adventjs-reto-1-automatizando-envolver-regalos-de-navidad-133n)
 - [Lifehacker] [11 of the Best Gifts for the DIYer on Your List](https://lifehacker.com/11-of-the-best-gifts-for-the-diyer-on-your-list-1849839705)
 - [Lifehacker] [Win a Free Steam Deck While Watching Video Games Win Awards](https://lifehacker.com/win-a-free-steam-deck-while-watching-video-games-win-aw-1849840788)
 - [Lifehacker] [Don&#39;t Make Cookies Without a Fish Spatula](https://lifehacker.com/dont-make-cookies-without-a-fish-spatula-1849840982)
