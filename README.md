@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Android’s ‘Find My’ Alternative Might Be Better Than Apple’s](https://lifehacker.com/android-s-find-my-alternative-might-be-better-than-ap-1849846349)
+- [Lifehacker] [10 Bingeable Shows That Are the Best Kind of Podcast Junk Food](https://lifehacker.com/10-bingeable-shows-that-are-the-best-kind-of-podcast-ju-1849844998)
 - [Dev.to/JS] [Making API calls in JavaScript.](https://dev.to/codenay/making-api-calls-in-javascript-2f82)
 - [Lifehacker] [Beware of Holiday Shipping Notification Scams](https://lifehacker.com/beware-of-holiday-shipping-notification-scams-1849844168)
 - [Dev.to/JS] [Django and React Chat App: part-2](https://dev.to/mousaaboubaker/django-and-react-chat-app-part-2-268i)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Free Pizza Hut If You Ruin Your Dinner This Month](https://lifehacker.com/you-can-get-free-pizza-hut-if-you-ruin-your-dinner-this-1849838743)
 - [Lifehacker] [How to Tell If an Instagram Account Is Fake](https://lifehacker.com/how-to-tell-if-an-instagram-account-is-fake-1849838074)
 - [Crazy Programmer] [Tim Berners-Lee Biography](https://www.thecrazyprogrammer.com/2022/12/tim-berners-lee-biography.html)
-- [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
-- [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
-- [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)<!-- TECH-POSTS:END -->
 
 ---
 
