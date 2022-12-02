@@ -23,25 +23,28 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Tuna Mayo Rice Bowl Is the Best WFH Lunch](https://lifehacker.com/this-tuna-mayo-rice-bowl-is-the-best-wfh-lunch-1849847558)
+- [Dev.to/JS] [Rock Paper Scissors](https://dev.to/rmion/rock-paper-scissors-3428)
+- [Lifehacker] [7 of the Best White Elephant Gifts for Less Than $30](https://lifehacker.com/7-of-the-best-white-elephant-gifts-for-less-than-30-1849847394)
+- [Dev.to/JS] [Using clearTimeout in JavaScript](https://dev.to/blamb31/using-cleartimeout-in-javascript-55f2)
+- [Dev.to/JS] [Writing Your Own Discord Bot](https://dev.to/blamb31/writing-your-own-discord-bot-1ddm)
+- [Dev.to/JS] [Nullish Coalescing Operator](https://dev.to/blamb31/nullish-coalescing-operator-4amf)
+- [Dev.to/JS] [Getting To Know TypeScript&#39;s Partial Type](https://dev.to/blamb31/getting-to-know-typescripts-partial-type-107d)
+- [Dev.to/JS] [How to use the &#39;forkJoin&#39; RxJS operator](https://dev.to/blamb31/how-to-use-the-forkjoin-rxjs-operator-5ci9)
+- [Dev.to/JS] [Why I decided to become a developer](https://dev.to/salmandotweb/why-i-decided-to-become-a-developer-2kk8)
+- [Dev.to/JS] [How To Use The &#39;Concat&#39; RxJS Operator To Make Synchronous HTTP Calls](https://dev.to/blamb31/how-to-use-the-concat-rxjs-operator-to-make-synchronous-http-calls-58f1)
+- [Dev.to/JS] [Creating an Express Server using Node.js](https://dev.to/blamb31/creating-an-express-server-using-nodejs-48ia)
 - [Dev.to/JS] [What is the difference between flexbox and grid?](https://dev.to/salmandotweb/what-is-the-difference-between-flexbox-and-grid-4407)
+- [Lifehacker] [Why a Tiny House Might Not Be As Affordable As You Think](https://lifehacker.com/why-a-tiny-house-might-not-be-as-affordable-as-you-thin-1849847134)
 - [Dev.to/JS] [My Experience At DevMountain](https://dev.to/blamb31/my-experience-at-devmountain-4l1c)
 - [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
 - [Dev.to/JS] [7 Cara merawat laptop agar tidak cepat rusak | www.teknowae.com](https://dev.to/teknowae_com/7-cara-merawat-laptop-agar-tidak-cepat-rusak-wwwteknowaecom-5dkf)
-- [Dev.to/JS] [Cara memilih hp samsung yang bagus ram gede buat gaming - www.teknowae.com](https://dev.to/teknowae_com/cara-memilih-hp-samsung-yang-bagus-ram-gede-buat-gaming-wwwteknowaecom-2oli)
 - [Lifehacker] [All the Social Media ‘Algospeak’ You Don’t Understand](https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027)
 - [Lifehacker] [Android’s ‘Find My’ Alternative Might Be Better Than Apple’s](https://lifehacker.com/android-s-find-my-alternative-might-be-better-than-ap-1849846349)
 - [Lifehacker] [10 Bingeable Shows That Are the Best Kind of Podcast Junk Food](https://lifehacker.com/10-bingeable-shows-that-are-the-best-kind-of-podcast-ju-1849844998)
-- [Dev.to/JS] [Making API calls in JavaScript.](https://dev.to/codenay/making-api-calls-in-javascript-2f82)
 - [Lifehacker] [Beware of Holiday Shipping Notification Scams](https://lifehacker.com/beware-of-holiday-shipping-notification-scams-1849844168)
-- [Dev.to/JS] [Django and React Chat App: part-2](https://dev.to/mousaaboubaker/django-and-react-chat-app-part-2-268i)
-- [Dev.to/JS] [Patching It Up, Part 2: Progress](https://dev.to/cychu42/patching-it-up-part-2-progress-2nm0)
 - [Lifehacker] [A Water Spill Can Break Your Audi](https://lifehacker.com/a-water-spill-can-break-your-audi-1849843494)
-- [Dev.to/JS] [Send Push notification with Firebase and React](https://dev.to/basskibo/send-push-notification-with-firebase-and-react-29hh)
-- [Dev.to/JS] [Running webOS project](https://dev.to/basskibo/running-webos-project-29a7)
-- [Dev.to/JS] [Long running process in NodeJS](https://dev.to/vishalraj82/long-running-process-in-nodejs-59e)
 - [Lifehacker] [The Right Way to Hone a Knife](https://lifehacker.com/the-right-way-to-hone-a-knife-1849845256)
-- [Dev.to/JS] [Making a Build System Using NPM Scripts](https://dev.to/kl13nt/making-a-build-system-using-npm-scripts-40oh)
-- [Dev.to/JS] [How To Maximize Browser In Selenium Ruby](https://dev.to/lambdatest/how-to-maximize-browser-in-selenium-ruby-5152)
 - [Lifehacker] [15 of the Best Luxury Gifts for Gamers](https://lifehacker.com/15-of-the-best-luxury-gifts-for-gamers-1849844923)
 - [Lifehacker] [How to Avoid Paying the &#39;Single Tax&#39;](https://lifehacker.com/how-to-avoid-paying-the-single-tax-1849837004)
 - [Lifehacker] [Do This Now to Get a Head Start on Your Holiday Baking](https://lifehacker.com/do-this-now-to-get-a-head-start-on-your-holiday-baking-1849842282)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best ‘CleanTok’ Accounts to Follow on TikTok](https://lifehacker.com/15-of-the-best-cleantok-accounts-to-follow-on-tiktok-1849838334)
 - [Lifehacker] [Wordle Has Themes Now, so You Should Change Your Strategy](https://lifehacker.com/wordle-has-themes-now-so-you-should-change-your-strate-1849840529)
 - [Lifehacker] [12 Podcasts You Can Listen to in the Car With Your Kids](https://lifehacker.com/12-podcasts-you-can-listen-to-in-the-car-with-your-kids-1849806601)
-- [Lifehacker] [Here&#39;s When It&#39;s Time to Repot an Indoor Plant](https://lifehacker.com/heres-when-its-time-to-repot-an-indoor-plant-1849839763)
-- [Lifehacker] [These Symptoms Are &lpar;Fairly&rpar; Normal After Having Sex](https://lifehacker.com/these-symptoms-are-fairly-normal-after-having-sex-1849839450)
-- [Lifehacker] [You Can Get Free Pizza Hut If You Ruin Your Dinner This Month](https://lifehacker.com/you-can-get-free-pizza-hut-if-you-ruin-your-dinner-this-1849838743)
-- [Lifehacker] [How to Tell If an Instagram Account Is Fake](https://lifehacker.com/how-to-tell-if-an-instagram-account-is-fake-1849838074)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s When It&#39;s Time to Repot an Indoor Plant](https://lifehacker.com/heres-when-its-time-to-repot-an-indoor-plant-1849839763)<!-- TECH-POSTS:END -->
 
 ---
 
