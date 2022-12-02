@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving day 02 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-02-of-advent-of-code-2022-in-javascript-48f9)
+- [Dev.to/JS] [Como exibir o progresso das promessas em JavaScript](https://dev.to/jeffersonanderson/como-exibir-o-progresso-das-promessas-em-javascript-4cpd)
+- [Dev.to/JS] [Take advantage of closure](https://dev.to/machy44/take-advantage-of-closure-4b69)
 - [Dev.to/JS] [JavaScript Events: Bubbling, Capturing, and Propagation](https://dev.to/mitchiemt11/javascript-events-bubbling-capturing-and-propagation-56ab)
 - [Dev.to/JS] [What is TurboPack?](https://dev.to/omher/what-is-turbopack-58ll)
 - [Dev.to/JS] [Google Keep style input form in VanillaJS](https://dev.to/tanishqsingla/google-keep-style-input-form-in-vanillajs-19d3)
@@ -30,11 +33,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scrape Google Play Apps Results](https://dev.to/serpdogapi/scrape-google-play-apps-results-aim)
 - [Dev.to/JS] [JavascriptUI is finally here!](https://dev.to/tulburg/javascriptui-is-finally-here-4mko)
 - [Dev.to/JS] [A Script Tells Me What To Test](https://dev.to/mattferrin/a-script-tells-me-what-to-test-dla)
+- [Dev.to/JS] [Media Queries in JS done right](https://dev.to/this-is-learning/media-queries-in-js-done-right-38bh)
 - [Dev.to/JS] [Always use &quot;inject&quot;](https://dev.to/this-is-angular/always-use-inject-2do4)
-- [Dev.to/JS] [Nervogen Pro – Pain Relief Reviews, Benefits, Price And Results?](https://dev.to/nervogenprofact/nervogen-pro-pain-relief-reviews-benefits-price-and-results-13kp)
-- [Dev.to/JS] [Create Velocity Scroll Animation in React with Framer Motion](https://dev.to/leduc1901/create-velocity-scroll-animation-in-react-with-framer-motion-ko7)
-- [Dev.to/JS] [Hello world! Serverless JavaScript with codehooks.io](https://dev.to/restdbjones/hello-world-serverless-javascript-with-codehooksio-538l)
-- [Dev.to/JS] [How to properly check the code?](https://dev.to/daniel56790/how-to-properly-check-the-code-43jo)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
