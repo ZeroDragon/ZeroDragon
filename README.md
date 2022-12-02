@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to React](https://dev.to/mctraore/intro-to-react-1dlc)
 - [Dev.to/JS] [Nest JS Tutorial #2: HTTP Request &amp; Data Validation](https://dev.to/nandhakumar/nest-js-tutorial-2-http-request-data-validation-2bjn)
 - [Dev.to/JS] [Largest Positive Integer That Exists With Its Negative](https://dev.to/zeeshanali0704/largest-positive-integer-that-exists-with-its-negative-l53)
 - [Dev.to/JS] [Code Smell 183 - Obsolete Comments](https://dev.to/mcsee/code-smell-183-obsolete-comments-3mmo)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Autocomplete Algorithms](https://dev.to/khald/autocomplete-algorithms-1pb2)
 - [Dev.to/JS] [How JavaScript works ?](https://dev.to/ashik155/how-javascript-works--od7)
 - [Dev.to/JS] [Variadic Functions in JavaScript - Understand the Basic Usage and Benefits](https://dev.to/sarahokolo/variadic-functions-in-javascript-understand-the-basic-usage-and-benefits-4m8n)
-- [Dev.to/JS] [Introducing a2k - A UI library designed to capture that retro 2000s feeling](https://dev.to/andrico1234/introducing-a2k-a-ui-library-designed-to-capture-that-retro-2000s-feeling-192j)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
 - [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)
 - [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)
