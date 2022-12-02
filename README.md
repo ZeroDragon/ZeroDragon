@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A Water Spill Can Break Your Audi](https://lifehacker.com/a-water-spill-can-break-your-audi-1849843494)
+- [Dev.to/JS] [Send Push notification with Firebase and React](https://dev.to/basskibo/send-push-notification-with-firebase-and-react-29hh)
+- [Dev.to/JS] [Running webOS project](https://dev.to/basskibo/running-webos-project-29a7)
+- [Dev.to/JS] [Long running process in NodeJS](https://dev.to/vishalraj82/long-running-process-in-nodejs-59e)
+- [Lifehacker] [The Right Way to Hone a Knife](https://lifehacker.com/the-right-way-to-hone-a-knife-1849845256)
+- [Dev.to/JS] [Making a Build System Using NPM Scripts](https://dev.to/kl13nt/making-a-build-system-using-npm-scripts-40oh)
+- [Dev.to/JS] [How To Maximize Browser In Selenium Ruby](https://dev.to/lambdatest/how-to-maximize-browser-in-selenium-ruby-5152)
+- [Lifehacker] [15 of the Best Luxury Gifts for Gamers](https://lifehacker.com/15-of-the-best-luxury-gifts-for-gamers-1849844923)
 - [Dev.to/JS] [Ecommerce Website](https://dev.to/sanketbodake/ecommerce-website-3a9e)
 - [Lifehacker] [How to Avoid Paying the &#39;Single Tax&#39;](https://lifehacker.com/how-to-avoid-paying-the-single-tax-1849837004)
 - [Dev.to/JS] [Wasp Beta brings major IDE improvements](https://dev.to/wasp/wasp-beta-brings-major-ide-improvements-2h7a)
@@ -31,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Git stash command](https://dev.to/refine/git-stash-command-5fj6)
 - [Dev.to/JS] [Let&#39;s do something](https://dev.to/prems5/lets-do-something-201j)
 - [Dev.to/JS] [5 Top Node.js Streams Resources You Should Learn to Level Up Your Node.js Skills 🚀💯](https://dev.to/nodedoctors/5-top-nodejs-streams-resources-you-should-learn-to-level-up-your-nodejs-skills-3d88)
-- [Dev.to/JS] [Hire Dedicated Developers](https://dev.to/kanhasoft/hire-dedicated-developers-i01)
 - [Dev.to/JS] [Want to create attractive, interactive docs? Use these amazing documentation tools and examples](https://dev.to/robole/want-to-create-attractive-interactive-docs-use-these-amazing-documentation-tools-and-examples-562l)
-- [Dev.to/JS] [What CSS Cascading Style Sheets Means?](https://dev.to/digitech404/what-css-cascading-style-sheets-means-3gl8)
-- [Dev.to/JS] [Analyzing the Role of NFTs in the Gaming Industry](https://dev.to/nftslab/analyzing-the-role-of-nfts-in-the-gaming-industry-1j5h)
-- [Dev.to/JS] [Solving day 02 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-02-of-advent-of-code-2022-in-javascript-48f9)
-- [Dev.to/JS] [Como exibir o progresso das promessas em JavaScript](https://dev.to/jeffersonanderson/como-exibir-o-progresso-das-promessas-em-javascript-4cpd)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
 - [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
-- [Lifehacker] [Those Big Red Bows From Car Commercials are Real and You Can Buy One](https://lifehacker.com/those-big-red-bows-from-car-commercials-are-real-and-yo-1849837101)
-- [Lifehacker] [10 Morally Grey Sci-Fi Shows to Watch After &#39;Andor&#39;](https://lifehacker.com/10-morally-grey-sci-fi-shows-to-watch-after-andor-1849835682)
-- [Lifehacker] [The Easy Way to Freeze &lpar;and Thaw&rpar; Leftover Turkey](https://lifehacker.com/the-easy-way-to-freeze-and-thaw-leftover-turkey-1849837026)
-- [Lifehacker] [Here&#39;s How to Make Your Instafest Concert Lineup](https://lifehacker.com/heres-how-to-make-your-instafest-concert-lineup-1849836938)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Those Big Red Bows From Car Commercials are Real and You Can Buy One](https://lifehacker.com/those-big-red-bows-from-car-commercials-are-real-and-yo-1849837101)<!-- TECH-POSTS:END -->
 
 ---
 
