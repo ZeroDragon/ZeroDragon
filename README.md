@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [JavaScript: Promises](https://dev.to/antelove19/javascript-promises-5kf)
+- [Dev.to/JS] [Code Smell 183 - Obsolete Comments](https://dev.to/mcsee/code-smell-183-obsolete-comments-3mmo)
+- [Dev.to/JS] [JavaScript: Promise](https://dev.to/antelove19/javascript-promises-5kf)
 - [Dev.to/JS] [How to Optimize Full-stack Development with Monorepos &amp; Nx Monorepo](https://dev.to/tevanb/how-to-optimize-full-stack-development-with-monorepos-nx-monorepo-2gfg)
 - [Dev.to/JS] [Deep clone I](https://dev.to/986913/deep-clone-i-cip)
 - [Dev.to/JS] [Progress with feature implementation](https://dev.to/ririio/progress-with-feature-implementation-4c0)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Blockchain Generates Each Block&#39;s Hash](https://dev.to/ebereplenty/how-blockchain-generates-each-blocks-hash-e1l)
 - [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)
 - [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)
-- [Dev.to/JS] [Fun Facts about JavaScript Arrays](https://dev.to/cooty/fun-facts-about-javascript-arrays-3j3g)
 - [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)
 - [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
 - [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)
