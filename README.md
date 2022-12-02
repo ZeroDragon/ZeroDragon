@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Do This Now to Get a Head Start on Your Holiday Baking](https://lifehacker.com/do-this-now-to-get-a-head-start-on-your-holiday-baking-1849842282)
+- [Dev.to/JS] [Single Event Listener for all elements in JS](https://dev.to/shubhamtiwari909/single-event-listener-for-all-elements-in-js-32o6)
 - [Dev.to/JS] [Git stash command](https://dev.to/refine/git-stash-command-5fj6)
 - [Dev.to/JS] [Let&#39;s do something](https://dev.to/prems5/lets-do-something-201j)
 - [Dev.to/JS] [5 Top Node.js Streams Resources You Should Learn to Level Up Your Node.js Skills 🚀💯](https://dev.to/nodedoctors/5-top-nodejs-streams-resources-you-should-learn-to-level-up-your-nodejs-skills-3d88)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Como exibir o progresso das promessas em JavaScript](https://dev.to/jeffersonanderson/como-exibir-o-progresso-das-promessas-em-javascript-4cpd)
 - [Dev.to/JS] [Take advantage of closure](https://dev.to/machy44/take-advantage-of-closure-4b69)
 - [Dev.to/JS] [JavaScript Events: Bubbling, Capturing, and Propagation](https://dev.to/mitchiemt11/javascript-events-bubbling-capturing-and-propagation-56ab)
-- [Dev.to/JS] [What is TurboPack?](https://dev.to/omher/what-is-turbopack-58ll)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Morally Grey Sci-Fi Shows to Watch After &#39;Andor&#39;](https://lifehacker.com/10-morally-grey-sci-fi-shows-to-watch-after-andor-1849835682)
 - [Lifehacker] [The Easy Way to Freeze &lpar;and Thaw&rpar; Leftover Turkey](https://lifehacker.com/the-easy-way-to-freeze-and-thaw-leftover-turkey-1849837026)
 - [Lifehacker] [Here&#39;s How to Make Your Instafest Concert Lineup](https://lifehacker.com/heres-how-to-make-your-instafest-concert-lineup-1849836938)
-- [Lifehacker] [You’re Doing Winter Recycling All Wrong](https://lifehacker.com/you-re-doing-winter-recycling-all-wrong-1849837034)
-- [Lifehacker] [9 Gifts for Your Favorite Wine Lover](https://lifehacker.com/9-gifts-for-your-favorite-wine-lover-1849836931)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You’re Doing Winter Recycling All Wrong](https://lifehacker.com/you-re-doing-winter-recycling-all-wrong-1849837034)<!-- TECH-POSTS:END -->
 
 ---
 
