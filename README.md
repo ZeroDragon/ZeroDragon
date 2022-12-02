@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Largest Positive Integer That Exists With Its Negative](https://dev.to/zeeshanali0704/largest-positive-integer-that-exists-with-its-negative-l53)
 - [Dev.to/JS] [Code Smell 183 - Obsolete Comments](https://dev.to/mcsee/code-smell-183-obsolete-comments-3mmo)
 - [Dev.to/JS] [JavaScript: Promise](https://dev.to/antelove19/javascript-promises-5kf)
 - [Dev.to/JS] [How to Optimize Full-stack Development with Monorepos &amp; Nx Monorepo](https://dev.to/tevanb/how-to-optimize-full-stack-development-with-monorepos-nx-monorepo-2gfg)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing a2k - A UI library designed to capture that retro 2000s feeling](https://dev.to/andrico1234/introducing-a2k-a-ui-library-designed-to-capture-that-retro-2000s-feeling-192j)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
 - [Dev.to/JS] [代码随想录day17 | 110. Balanced Binary Tree, 257. Binary Tree Paths, 404. Sum of Left Leaves](https://dev.to/986913/dai-ma-sui-xiang-lu-day17-110-balanced-binary-tree-257-binary-tree-paths-404-sum-of-left-leaves-5c64)
-- [Dev.to/JS] [How Blockchain Generates Each Block&#39;s Hash](https://dev.to/ebereplenty/how-blockchain-generates-each-blocks-hash-e1l)
 - [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)
 - [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)
 - [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)
