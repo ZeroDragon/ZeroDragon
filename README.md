@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the difference between flexbox and grid?](https://dev.to/salmandotweb/what-is-the-difference-between-flexbox-and-grid-4407)
+- [Dev.to/JS] [My Experience At DevMountain](https://dev.to/blamb31/my-experience-at-devmountain-4l1c)
+- [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
+- [Dev.to/JS] [7 Cara merawat laptop agar tidak cepat rusak | www.teknowae.com](https://dev.to/teknowae_com/7-cara-merawat-laptop-agar-tidak-cepat-rusak-wwwteknowaecom-5dkf)
+- [Dev.to/JS] [Cara memilih hp samsung yang bagus ram gede buat gaming - www.teknowae.com](https://dev.to/teknowae_com/cara-memilih-hp-samsung-yang-bagus-ram-gede-buat-gaming-wwwteknowaecom-2oli)
+- [Lifehacker] [All the Social Media ‘Algospeak’ You Don’t Understand](https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027)
 - [Lifehacker] [Android’s ‘Find My’ Alternative Might Be Better Than Apple’s](https://lifehacker.com/android-s-find-my-alternative-might-be-better-than-ap-1849846349)
 - [Lifehacker] [10 Bingeable Shows That Are the Best Kind of Podcast Junk Food](https://lifehacker.com/10-bingeable-shows-that-are-the-best-kind-of-podcast-ju-1849844998)
 - [Dev.to/JS] [Making API calls in JavaScript.](https://dev.to/codenay/making-api-calls-in-javascript-2f82)
@@ -37,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making a Build System Using NPM Scripts](https://dev.to/kl13nt/making-a-build-system-using-npm-scripts-40oh)
 - [Dev.to/JS] [How To Maximize Browser In Selenium Ruby](https://dev.to/lambdatest/how-to-maximize-browser-in-selenium-ruby-5152)
 - [Lifehacker] [15 of the Best Luxury Gifts for Gamers](https://lifehacker.com/15-of-the-best-luxury-gifts-for-gamers-1849844923)
-- [Dev.to/JS] [Ecommerce Website](https://dev.to/sanketbodake/ecommerce-website-3a9e)
 - [Lifehacker] [How to Avoid Paying the &#39;Single Tax&#39;](https://lifehacker.com/how-to-avoid-paying-the-single-tax-1849837004)
-- [Dev.to/JS] [Wasp Beta brings major IDE improvements](https://dev.to/wasp/wasp-beta-brings-major-ide-improvements-2h7a)
 - [Lifehacker] [Do This Now to Get a Head Start on Your Holiday Baking](https://lifehacker.com/do-this-now-to-get-a-head-start-on-your-holiday-baking-1849842282)
-- [Dev.to/JS] [Single Event Listener for all elements in JS](https://dev.to/shubhamtiwari909/single-event-listener-for-all-elements-in-js-32o6)
-- [Dev.to/JS] [Git stash command](https://dev.to/refine/git-stash-command-5fj6)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s When It&#39;s Time to Repot an Indoor Plant](https://lifehacker.com/heres-when-its-time-to-repot-an-indoor-plant-1849839763)
 - [Lifehacker] [These Symptoms Are &lpar;Fairly&rpar; Normal After Having Sex](https://lifehacker.com/these-symptoms-are-fairly-normal-after-having-sex-1849839450)
 - [Lifehacker] [You Can Get Free Pizza Hut If You Ruin Your Dinner This Month](https://lifehacker.com/you-can-get-free-pizza-hut-if-you-ruin-your-dinner-this-1849838743)
-- [Lifehacker] [How to Tell If an Instagram Account Is Fake](https://lifehacker.com/how-to-tell-if-an-instagram-account-is-fake-1849838074)
-- [Crazy Programmer] [Tim Berners-Lee Biography](https://www.thecrazyprogrammer.com/2022/12/tim-berners-lee-biography.html)
-- [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If an Instagram Account Is Fake](https://lifehacker.com/how-to-tell-if-an-instagram-account-is-fake-1849838074)<!-- TECH-POSTS:END -->
 
 ---
 
