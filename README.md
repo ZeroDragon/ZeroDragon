@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Optimize Full-stack Development with Monorepos &amp; Nx Monorepo](https://dev.to/tevanb/how-to-optimize-full-stack-development-with-monorepos-nx-monorepo-2gfg)
+- [Dev.to/JS] [Deep clone I](https://dev.to/986913/deep-clone-i-cip)
+- [Dev.to/JS] [Progress with feature implementation](https://dev.to/ririio/progress-with-feature-implementation-4c0)
 - [Dev.to/JS] [All Client SDKs were updated for Reduct Storage v1.1.0](https://dev.to/reduct-storage/all-client-sdks-were-updated-for-reduct-storage-v110-1f94)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fun Facts about JavaScript Arrays](https://dev.to/cooty/fun-facts-about-javascript-arrays-3j3g)
 - [Dev.to/JS] [Integrate Google Analytics, PayPal, Stripe into one dashboard](https://dev.to/theplugjumbo/integrate-google-analytics-paypal-stripe-into-one-dashboard-310p)
 - [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)
-- [Dev.to/JS] [Calorie Counting](https://dev.to/rmion/calorie-counting-bp3)
-- [Dev.to/JS] [JavaScript : Variables and Constants &lpar;A beginner&#39;s Perspective&rpar;](https://dev.to/damilolaweb/javascript-variables-and-constants-a-beginners-perspective-12i7)
-- [Dev.to/JS] [5 ways to declare a function in JavaScript](https://dev.to/salmaab/5-ways-to-declare-a-function-in-javascript-5ehh)
 - [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
 - [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)
 - [Lifehacker] [11 of the Best Gifts for the DIYer on Your List](https://lifehacker.com/11-of-the-best-gifts-for-the-diyer-on-your-list-1849839705)
