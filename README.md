@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [16 of the Best Gifts for the Fitness Fanatic&#39;s Gym Bag](https://lifehacker.com/16-of-the-best-gifts-for-the-fitness-fanatics-gym-bag-1849847762)
+- [Dev.to/JS] [NextJS - Access window and localStorage](https://dev.to/ariyou2000/nextjs-access-window-and-localstorage-10i3)
 - [Lifehacker] [This Tuna Mayo Rice Bowl Is the Best WFH Lunch](https://lifehacker.com/this-tuna-mayo-rice-bowl-is-the-best-wfh-lunch-1849847558)
 - [Dev.to/JS] [Rock Paper Scissors](https://dev.to/rmion/rock-paper-scissors-3428)
 - [Lifehacker] [7 of the Best White Elephant Gifts for Less Than $30](https://lifehacker.com/7-of-the-best-white-elephant-gifts-for-less-than-30-1849847394)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why a Tiny House Might Not Be As Affordable As You Think](https://lifehacker.com/why-a-tiny-house-might-not-be-as-affordable-as-you-thin-1849847134)
 - [Dev.to/JS] [My Experience At DevMountain](https://dev.to/blamb31/my-experience-at-devmountain-4l1c)
 - [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
-- [Dev.to/JS] [7 Cara merawat laptop agar tidak cepat rusak | www.teknowae.com](https://dev.to/teknowae_com/7-cara-merawat-laptop-agar-tidak-cepat-rusak-wwwteknowaecom-5dkf)
 - [Lifehacker] [All the Social Media ‘Algospeak’ You Don’t Understand](https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027)
 - [Lifehacker] [Android’s ‘Find My’ Alternative Might Be Better Than Apple’s](https://lifehacker.com/android-s-find-my-alternative-might-be-better-than-ap-1849846349)
 - [Lifehacker] [10 Bingeable Shows That Are the Best Kind of Podcast Junk Food](https://lifehacker.com/10-bingeable-shows-that-are-the-best-kind-of-podcast-ju-1849844998)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Make Cookies Without a Fish Spatula](https://lifehacker.com/dont-make-cookies-without-a-fish-spatula-1849840982)
 - [Lifehacker] [15 of the Best ‘CleanTok’ Accounts to Follow on TikTok](https://lifehacker.com/15-of-the-best-cleantok-accounts-to-follow-on-tiktok-1849838334)
 - [Lifehacker] [Wordle Has Themes Now, so You Should Change Your Strategy](https://lifehacker.com/wordle-has-themes-now-so-you-should-change-your-strate-1849840529)
-- [Lifehacker] [12 Podcasts You Can Listen to in the Car With Your Kids](https://lifehacker.com/12-podcasts-you-can-listen-to-in-the-car-with-your-kids-1849806601)
-- [Lifehacker] [Here&#39;s When It&#39;s Time to Repot an Indoor Plant](https://lifehacker.com/heres-when-its-time-to-repot-an-indoor-plant-1849839763)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Podcasts You Can Listen to in the Car With Your Kids](https://lifehacker.com/12-podcasts-you-can-listen-to-in-the-car-with-your-kids-1849806601)<!-- TECH-POSTS:END -->
 
 ---
 
