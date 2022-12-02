@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What CSS Cascading Style Sheets Means?](https://dev.to/digitech404/what-css-cascading-style-sheets-means-3gl8)
+- [Dev.to/JS] [Analyzing the Role of NFTs in the Gaming Industry](https://dev.to/nftslab/analyzing-the-role-of-nfts-in-the-gaming-industry-1j5h)
 - [Dev.to/JS] [Solving day 02 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-02-of-advent-of-code-2022-in-javascript-48f9)
 - [Dev.to/JS] [Como exibir o progresso das promessas em JavaScript](https://dev.to/jeffersonanderson/como-exibir-o-progresso-das-promessas-em-javascript-4cpd)
 - [Dev.to/JS] [Take advantage of closure](https://dev.to/machy44/take-advantage-of-closure-4b69)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scrape Google Play Apps Results](https://dev.to/serpdogapi/scrape-google-play-apps-results-aim)
 - [Dev.to/JS] [JavascriptUI is finally here!](https://dev.to/tulburg/javascriptui-is-finally-here-4mko)
 - [Dev.to/JS] [A Script Tells Me What To Test](https://dev.to/mattferrin/a-script-tells-me-what-to-test-dla)
-- [Dev.to/JS] [Media Queries in JS done right](https://dev.to/this-is-learning/media-queries-in-js-done-right-38bh)
-- [Dev.to/JS] [Always use &quot;inject&quot;](https://dev.to/this-is-angular/always-use-inject-2do4)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
