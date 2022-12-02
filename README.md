@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making API calls in JavaScript.](https://dev.to/codenay/making-api-calls-in-javascript-2f82)
+- [Lifehacker] [Beware of Holiday Shipping Notification Scams](https://lifehacker.com/beware-of-holiday-shipping-notification-scams-1849844168)
+- [Dev.to/JS] [Django and React Chat App: part-2](https://dev.to/mousaaboubaker/django-and-react-chat-app-part-2-268i)
+- [Dev.to/JS] [Patching It Up, Part 2: Progress](https://dev.to/cychu42/patching-it-up-part-2-progress-2nm0)
 - [Lifehacker] [A Water Spill Can Break Your Audi](https://lifehacker.com/a-water-spill-can-break-your-audi-1849843494)
 - [Dev.to/JS] [Send Push notification with Firebase and React](https://dev.to/basskibo/send-push-notification-with-firebase-and-react-29hh)
 - [Dev.to/JS] [Running webOS project](https://dev.to/basskibo/running-webos-project-29a7)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do This Now to Get a Head Start on Your Holiday Baking](https://lifehacker.com/do-this-now-to-get-a-head-start-on-your-holiday-baking-1849842282)
 - [Dev.to/JS] [Single Event Listener for all elements in JS](https://dev.to/shubhamtiwari909/single-event-listener-for-all-elements-in-js-32o6)
 - [Dev.to/JS] [Git stash command](https://dev.to/refine/git-stash-command-5fj6)
-- [Dev.to/JS] [Let&#39;s do something](https://dev.to/prems5/lets-do-something-201j)
-- [Dev.to/JS] [5 Top Node.js Streams Resources You Should Learn to Level Up Your Node.js Skills 🚀💯](https://dev.to/nodedoctors/5-top-nodejs-streams-resources-you-should-learn-to-level-up-your-nodejs-skills-3d88)
-- [Dev.to/JS] [Want to create attractive, interactive docs? Use these amazing documentation tools and examples](https://dev.to/robole/want-to-create-attractive-interactive-docs-use-these-amazing-documentation-tools-and-examples-562l)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Tim Berners-Lee Biography](https://www.thecrazyprogrammer.com/2022/12/tim-berners-lee-biography.html)
 - [Lifehacker] [Why You Should Start Your New Fitness Routine Before the New Year](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
 - [Lifehacker] [Apple Might Owe You Money for Your MacBook&#39;s Butterfly Keyboard](https://lifehacker.com/apple-might-owe-you-money-for-your-macbooks-butterfly-k-1849837945)
-- [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)
-- [Lifehacker] [Those Big Red Bows From Car Commercials are Real and You Can Buy One](https://lifehacker.com/those-big-red-bows-from-car-commercials-are-real-and-yo-1849837101)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s Why &lpar;and How&rpar; You Should Hang Your TV From the Ceiling](https://lifehacker.com/heres-why-and-how-you-should-hang-your-tv-from-the-ce-1849837776)<!-- TECH-POSTS:END -->
 
 ---
 
