@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ecommerce Website](https://dev.to/sanketbodake/ecommerce-website-3a9e)
+- [Lifehacker] [How to Avoid Paying the &#39;Single Tax&#39;](https://lifehacker.com/how-to-avoid-paying-the-single-tax-1849837004)
+- [Dev.to/JS] [Wasp Beta brings major IDE improvements](https://dev.to/wasp/wasp-beta-brings-major-ide-improvements-2h7a)
 - [Lifehacker] [Do This Now to Get a Head Start on Your Holiday Baking](https://lifehacker.com/do-this-now-to-get-a-head-start-on-your-holiday-baking-1849842282)
 - [Dev.to/JS] [Single Event Listener for all elements in JS](https://dev.to/shubhamtiwari909/single-event-listener-for-all-elements-in-js-32o6)
 - [Dev.to/JS] [Git stash command](https://dev.to/refine/git-stash-command-5fj6)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Analyzing the Role of NFTs in the Gaming Industry](https://dev.to/nftslab/analyzing-the-role-of-nfts-in-the-gaming-industry-1j5h)
 - [Dev.to/JS] [Solving day 02 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-02-of-advent-of-code-2022-in-javascript-48f9)
 - [Dev.to/JS] [Como exibir o progresso das promessas em JavaScript](https://dev.to/jeffersonanderson/como-exibir-o-progresso-das-promessas-em-javascript-4cpd)
-- [Dev.to/JS] [Take advantage of closure](https://dev.to/machy44/take-advantage-of-closure-4b69)
-- [Dev.to/JS] [JavaScript Events: Bubbling, Capturing, and Propagation](https://dev.to/mitchiemt11/javascript-events-bubbling-capturing-and-propagation-56ab)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Those Big Red Bows From Car Commercials are Real and You Can Buy One](https://lifehacker.com/those-big-red-bows-from-car-commercials-are-real-and-yo-1849837101)
 - [Lifehacker] [10 Morally Grey Sci-Fi Shows to Watch After &#39;Andor&#39;](https://lifehacker.com/10-morally-grey-sci-fi-shows-to-watch-after-andor-1849835682)
 - [Lifehacker] [The Easy Way to Freeze &lpar;and Thaw&rpar; Leftover Turkey](https://lifehacker.com/the-easy-way-to-freeze-and-thaw-leftover-turkey-1849837026)
-- [Lifehacker] [Here&#39;s How to Make Your Instafest Concert Lineup](https://lifehacker.com/heres-how-to-make-your-instafest-concert-lineup-1849836938)
-- [Lifehacker] [You’re Doing Winter Recycling All Wrong](https://lifehacker.com/you-re-doing-winter-recycling-all-wrong-1849837034)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How to Make Your Instafest Concert Lineup](https://lifehacker.com/heres-how-to-make-your-instafest-concert-lineup-1849836938)<!-- TECH-POSTS:END -->
 
 ---
 
