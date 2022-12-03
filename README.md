@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Updates from the 93rd TC39 meeting](https://dev.to/hemanth/updates-from-the-93rd-tc39-meeting-2n8f)
+- [Dev.to/JS] [Why a Hash Table is a Performant Data Structure](https://dev.to/smilesforgood/why-a-hash-table-is-a-performant-data-structure-1abb)
+- [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Dev.to/JS] [代码随想录day18 | 513. Find Bottom Left Tree Value, 112&amp;113. Path Sum, 106/105. make Binary Tree from Inorder and Postorder/Preorder](https://dev.to/986913/dai-ma-sui-xiang-lu-day18-513-find-bottom-left-tree-value-112113-path-sum-106105-make-binary-tree-from-inorder-and-postorderpreorder-1pmb)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #2: Nadie quiere hacer horas extra](https://dev.to/duxtech/adventjs-reto-2-nadie-quiere-hacer-horas-extra-2eh4)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nullish Coalescing Operator](https://dev.to/blamb31/nullish-coalescing-operator-4amf)
 - [Dev.to/JS] [Getting To Know TypeScript&#39;s Partial Type](https://dev.to/blamb31/getting-to-know-typescripts-partial-type-107d)
 - [Dev.to/JS] [How to use the &#39;forkJoin&#39; RxJS operator](https://dev.to/blamb31/how-to-use-the-forkjoin-rxjs-operator-5ci9)
-- [Dev.to/JS] [Why I decided to become a developer](https://dev.to/salmandotweb/why-i-decided-to-become-a-developer-2kk8)
-- [Dev.to/JS] [How To Use The &#39;Concat&#39; RxJS Operator To Make Synchronous HTTP Calls](https://dev.to/blamb31/how-to-use-the-concat-rxjs-operator-to-make-synchronous-http-calls-58f1)
 - [Lifehacker] [Why a Tiny House Might Not Be As Affordable As You Think](https://lifehacker.com/why-a-tiny-house-might-not-be-as-affordable-as-you-thin-1849847134)
 - [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
 - [Lifehacker] [All the Social Media ‘Algospeak’ You Don’t Understand](https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
 - [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)
 - [Lifehacker] [11 of the Best Gifts for the DIYer on Your List](https://lifehacker.com/11-of-the-best-gifts-for-the-diyer-on-your-list-1849839705)
-- [Lifehacker] [Win a Free Steam Deck While Watching Video Games Win Awards](https://lifehacker.com/win-a-free-steam-deck-while-watching-video-games-win-aw-1849840788)
-- [Lifehacker] [Don&#39;t Make Cookies Without a Fish Spatula](https://lifehacker.com/dont-make-cookies-without-a-fish-spatula-1849840982)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Win a Free Steam Deck While Watching Video Games Win Awards](https://lifehacker.com/win-a-free-steam-deck-while-watching-video-games-win-aw-1849840788)<!-- TECH-POSTS:END -->
 
 ---
 
