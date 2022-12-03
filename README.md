@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎄 JS Advent #3 - Object.hasOwnProperty&lpar;&rpar;🎄](https://dev.to/jtlavs/js-advent-3-objecthasownproperty-4l0c)
 - [Dev.to/JS] [Deterministic React Avatar Fallbacks](https://dev.to/joshuaslate/deterministic-react-avatar-fallbacks-5ghb)
 - [Dev.to/JS] [Course Data Algorithm](https://dev.to/ahmaud/course-data-algorithm-4jc2)
+- [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Dev.to/JS] [VSCode: my 5 vital extensions to be productive](https://dev.to/this-is-learning/vscode-my-5-vital-extensions-to-be-productive-11db)
 - [Dev.to/JS] [State vs Props in reactjs](https://dev.to/devvsakib/state-vs-props-in-reactjs-3e9n)
 - [Dev.to/JS] [Electron vs Tauri for your next project](https://dev.to/alxnddr/electron-vs-tauri-for-your-next-project-2dna)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make Quiz App in React](https://dev.to/reactjsguru/how-to-make-quiz-app-in-react-34l0)
 - [Dev.to/JS] [Depth-First Search of a Binary Tree](https://dev.to/niemet0502/depth-first-search-of-a-binary-tree-1fpf)
 - [Dev.to/JS] [URGENT HELP PLEASE](https://dev.to/golombi/urgent-help-please-42bo)
-- [Dev.to/JS] [Alpha Heater - Results, Price, Reviews, Uses And Benefits?](https://dev.to/heater_alpha/alpha-heater-results-price-reviews-uses-and-benefits-1j82)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)
 - [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
 - [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)
-- [Lifehacker] [11 of the Best Gifts for the DIYer on Your List](https://lifehacker.com/11-of-the-best-gifts-for-the-diyer-on-your-list-1849839705)
-- [Lifehacker] [Win a Free Steam Deck While Watching Video Games Win Awards](https://lifehacker.com/win-a-free-steam-deck-while-watching-video-games-win-aw-1849840788)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 of the Best Gifts for the DIYer on Your List](https://lifehacker.com/11-of-the-best-gifts-for-the-diyer-on-your-list-1849839705)<!-- TECH-POSTS:END -->
 
 ---
 
