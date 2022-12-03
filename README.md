@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Post your best portfolio, GO!](https://dev.to/albuhrrito/post-your-best-portfolio-go-4017)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;03-12-2022&rpar; - Digital Fashion, Odious Debt, and Flaming Bonfires](https://dev.to/mjgs/this-weeks-newsletter-is-out-03-12-2022-digital-fashion-odious-debt-and-flaming-bonfires-je5)
 - [Dev.to/JS] [Get the sum of quantities grouped by an Id that is not in the current table](https://dev.to/oussama_he/get-the-sum-of-quantities-grouped-by-an-id-that-is-not-in-the-current-table-20j2)
 - [Dev.to/JS] [Can AI convert React to RxJS?](https://dev.to/crowdozer/can-ai-convert-react-to-rxjs-4l41)
 - [Dev.to/JS] [Safari Destinations](https://dev.to/vakinduphilliam/safari-destinations-cjb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hey Tech Recruiter, Here Are Some Tips from a Developer](https://dev.to/eevajonnapanula/hey-tech-recruiter-here-are-some-tips-from-a-developer-4hl8)
 - [Dev.to/JS] [Count 1&#39;s in a Sorted Binary Array](https://dev.to/zeeshanali0704/count-1s-in-a-sorted-binary-array-25b3)
 - [Dev.to/JS] [Find First and Last Position of Element in Sorted Array](https://dev.to/zeeshanali0704/find-first-and-last-position-of-element-in-sorted-array-33oc)
-- [Dev.to/JS] [sorry been very busy and had to fix my laptop but got back started here are so far](https://dev.to/judahsullivan/sorry-been-very-busy-and-had-to-fix-my-laptop-but-got-back-started-here-are-so-far-4ch)
-- [Dev.to/JS] [Function.prototype.bind](https://dev.to/986913/functionprototypebind-3hca)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
