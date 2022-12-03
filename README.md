@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array.prototype.map](https://dev.to/986913/arrayprototypemap-78o)
+- [Dev.to/JS] [Rucksack Reorganization](https://dev.to/rmion/rucksack-reorganization-8oj)
+- [Dev.to/JS] [Solving day 03 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-03-of-advent-of-code-2022-in-javascript-4066)
+- [Dev.to/JS] [Advent.js🎅🏼| Reto #3: ¿Cuántas cajas de regalos puede llevar Papá Noel?](https://dev.to/duxtech/adventjs-reto-3-cuantas-cajas-de-regalos-puede-llevar-papa-noel-52ne)
 - [Dev.to/JS] [🎄 JS Advent #3 - Object.hasOwnProperty&lpar;&rpar;🎄](https://dev.to/jtlavs/js-advent-3-objecthasownproperty-4l0c)
 - [Dev.to/JS] [Deterministic React Avatar Fallbacks](https://dev.to/joshuaslate/deterministic-react-avatar-fallbacks-5ghb)
 - [Dev.to/JS] [Course Data Algorithm](https://dev.to/ahmaud/course-data-algorithm-4jc2)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Electron vs Tauri for your next project](https://dev.to/alxnddr/electron-vs-tauri-for-your-next-project-2dna)
 - [Dev.to/JS] [How to write a list page faster](https://dev.to/_island/it-is-faster-and-more-efficient-to-write-list-pages-like-this-in-vue3-1n7n)
 - [Dev.to/JS] [Breaking Down the Benefits of JavaScript over Typescript](https://dev.to/snehasishkonger/breaking-down-the-benefits-of-javascript-over-typescript-1inm)
-- [Dev.to/JS] [Responsive Business Agency Website Using Html CSS JavaScript](https://dev.to/codewithsadee/responsive-business-agency-website-using-html-css-javascript-54kj)
-- [Dev.to/JS] [How to Make Quiz App in React](https://dev.to/reactjsguru/how-to-make-quiz-app-in-react-34l0)
-- [Dev.to/JS] [Depth-First Search of a Binary Tree](https://dev.to/niemet0502/depth-first-search-of-a-binary-tree-1fpf)
-- [Dev.to/JS] [URGENT HELP PLEASE](https://dev.to/golombi/urgent-help-please-42bo)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
