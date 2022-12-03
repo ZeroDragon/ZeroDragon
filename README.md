@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can AI convert React to RxJS?](https://dev.to/crowdozer/can-ai-convert-react-to-rxjs-4l41)
+- [Dev.to/JS] [Safari Destinations](https://dev.to/vakinduphilliam/safari-destinations-cjb)
 - [Dev.to/JS] [Let&#39;s Keto Gummies](https://dev.to/letsketoinfo/lets-keto-gummies-5cho)
 - [Dev.to/JS] [Flatiron Phase 2 Blogpost - React](https://dev.to/nicolaigorden/flatiron-phase-2-blogpost-react-gph)
 - [Dev.to/JS] [Unique Number of Occurrences](https://dev.to/zeeshanali0704/unique-number-of-occurrences-5h78)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [sorry been very busy and had to fix my laptop but got back started here are so far](https://dev.to/judahsullivan/sorry-been-very-busy-and-had-to-fix-my-laptop-but-got-back-started-here-are-so-far-4ch)
 - [Dev.to/JS] [Function.prototype.bind](https://dev.to/986913/functionprototypebind-3hca)
 - [Dev.to/JS] [An Introduction to JavaScript in Hindi](https://dev.to/jagveergagaan/an-introduction-to-javascript-in-hindi-b51)
-- [Dev.to/JS] [Save chatGPT conversation as HTML file](https://dev.to/jcubic/save-chatgpt-as-html-file-dhh)
-- [Dev.to/JS] [Updates from the 93rd TC39 meeting](https://dev.to/hemanth/updates-from-the-93rd-tc39-meeting-2n8f)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
