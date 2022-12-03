@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Depth-First Search of a Binary Tree](https://dev.to/niemet0502/depth-first-search-of-a-binary-tree-1fpf)
 - [Dev.to/JS] [Alpha Heater - Results, Price, Reviews, Uses And Benefits?](https://dev.to/heater_alpha/alpha-heater-results-price-reviews-uses-and-benefits-1j82)
 - [Dev.to/JS] [CRDTs: A Beginner&#39;s overview for building a collaborative app](https://dev.to/justrox/crdts-a-beginners-overview-for-building-a-collaborative-app-1a38)
 - [Dev.to/JS] [Setting up reCAPTCHA in your React Application](https://dev.to/zt4ff_1/setting-up-recaptcha-in-your-react-application-2213)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Can AI convert React to RxJS?](https://dev.to/crowdozer/can-ai-convert-react-to-rxjs-4l41)
 - [Dev.to/JS] [Safari Destinations](https://dev.to/vakinduphilliam/safari-destinations-cjb)
 - [Dev.to/JS] [Let&#39;s Keto Gummies](https://dev.to/letsketoinfo/lets-keto-gummies-5cho)
-- [Dev.to/JS] [Flatiron Phase 2 Blogpost - React](https://dev.to/nicolaigorden/flatiron-phase-2-blogpost-react-gph)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
