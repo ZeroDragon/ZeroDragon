@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to negotiate when getting a job offer](https://dev.to/salmandotweb/how-to-negotiate-when-getting-a-job-offer-2k0f)
+- [Dev.to/JS] [Array.prototype.reduce](https://dev.to/986913/arrayprototypereduce-3bf1)
 - [Dev.to/JS] [Array.prototype.map](https://dev.to/986913/arrayprototypemap-78o)
 - [Dev.to/JS] [Rucksack Reorganization](https://dev.to/rmion/rucksack-reorganization-8oj)
 - [Dev.to/JS] [Solving day 03 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-03-of-advent-of-code-2022-in-javascript-4066)
+- [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #3: ¿Cuántas cajas de regalos puede llevar Papá Noel?](https://dev.to/duxtech/adventjs-reto-3-cuantas-cajas-de-regalos-puede-llevar-papa-noel-52ne)
 - [Dev.to/JS] [🎄 JS Advent #3 - Object.hasOwnProperty&lpar;&rpar;🎄](https://dev.to/jtlavs/js-advent-3-objecthasownproperty-4l0c)
 - [Dev.to/JS] [Deterministic React Avatar Fallbacks](https://dev.to/joshuaslate/deterministic-react-avatar-fallbacks-5ghb)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VSCode: my 5 vital extensions to be productive](https://dev.to/this-is-learning/vscode-my-5-vital-extensions-to-be-productive-11db)
 - [Dev.to/JS] [State vs Props in reactjs](https://dev.to/devvsakib/state-vs-props-in-reactjs-3e9n)
 - [Dev.to/JS] [Electron vs Tauri for your next project](https://dev.to/alxnddr/electron-vs-tauri-for-your-next-project-2dna)
-- [Dev.to/JS] [How to write a list page faster](https://dev.to/_island/it-is-faster-and-more-efficient-to-write-list-pages-like-this-in-vue3-1n7n)
-- [Dev.to/JS] [Breaking Down the Benefits of JavaScript over Typescript](https://dev.to/snehasishkonger/breaking-down-the-benefits-of-javascript-over-typescript-1inm)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)
 - [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)
 - [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
-- [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)
-- [Lifehacker] [11 of the Best Gifts for the DIYer on Your List](https://lifehacker.com/11-of-the-best-gifts-for-the-diyer-on-your-list-1849839705)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)<!-- TECH-POSTS:END -->
 
 ---
 
