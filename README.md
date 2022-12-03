@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ready? Set. Code! 👨‍💻](https://dev.to/paulxcodes/ready-set-go-1aok)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - General &lpar;Generic, N-ary&rpar; tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-general-generic-n-ary-tree-3lch)
 - [Dev.to/JS] [Deep Equal](https://dev.to/986913/deep-equal-337o)
 - [Dev.to/JS] [It&#39;s a CANVAS PARTY!](https://dev.to/yoav_mendelson/its-a-canvas-party-47kg)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #3: ¿Cuántas cajas de regalos puede llevar Papá Noel?](https://dev.to/duxtech/adventjs-reto-3-cuantas-cajas-de-regalos-puede-llevar-papa-noel-52ne)
 - [Dev.to/JS] [🎄 JS Advent #3 - Object.hasOwnProperty&lpar;&rpar;🎄](https://dev.to/jtlavs/js-advent-3-objecthasownproperty-4l0c)
-- [Dev.to/JS] [Deterministic React Avatar Fallbacks](https://dev.to/joshuaslate/deterministic-react-avatar-fallbacks-5ghb)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
