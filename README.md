@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Element Appearing More Than 25% In Sorted Array](https://dev.to/zeeshanali0704/element-appearing-more-than-25-in-sorted-array-272g)
+- [Dev.to/JS] [Hey Tech Recruiter, Here Are Some Tips from a Developer](https://dev.to/eevajonnapanula/hey-tech-recruiter-here-are-some-tips-from-a-developer-4hl8)
 - [Dev.to/JS] [Count 1&#39;s in a Sorted Binary Array](https://dev.to/zeeshanali0704/count-1s-in-a-sorted-binary-array-25b3)
 - [Dev.to/JS] [Find First and Last Position of Element in Sorted Array](https://dev.to/zeeshanali0704/find-first-and-last-position-of-element-in-sorted-array-33oc)
 - [Dev.to/JS] [sorry been very busy and had to fix my laptop but got back started here are so far](https://dev.to/judahsullivan/sorry-been-very-busy-and-had-to-fix-my-laptop-but-got-back-started-here-are-so-far-4ch)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #2: Nadie quiere hacer horas extra](https://dev.to/duxtech/adventjs-reto-2-nadie-quiere-hacer-horas-extra-2eh4)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
 - [Lifehacker] [How to Sharpen a Knife With a Whet Stone](https://lifehacker.com/how-to-sharpen-a-knife-with-a-whet-stone-1849848333)
-- [Dev.to/JS] [Delete all node_modules folders from your system ?](https://dev.to/mnathani/delete-all-nodemodules-folders-from-your-system--4805)
 - [Lifehacker] [16 of the Best Gifts for the Fitness Fanatic&#39;s Gym Bag](https://lifehacker.com/16-of-the-best-gifts-for-the-fitness-fanatics-gym-bag-1849847762)
-- [Dev.to/JS] [NextJS - Access window and localStorage](https://dev.to/ariyou2000/nextjs-access-window-and-localstorage-10i3)
 - [Lifehacker] [This Tuna Mayo Rice Bowl Is the Best WFH Lunch](https://lifehacker.com/this-tuna-mayo-rice-bowl-is-the-best-wfh-lunch-1849847558)
 - [Lifehacker] [7 of the Best White Elephant Gifts for Less Than $30](https://lifehacker.com/7-of-the-best-white-elephant-gifts-for-less-than-30-1849847394)
 - [Lifehacker] [Why a Tiny House Might Not Be As Affordable As You Think](https://lifehacker.com/why-a-tiny-house-might-not-be-as-affordable-as-you-thin-1849847134)
