@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Introduction to JavaScript in Hindi](https://dev.to/jagveergagaan/an-introduction-to-javascript-in-hindi-b51)
 - [Dev.to/JS] [Save chatGPT conversation as HTML file](https://dev.to/jcubic/save-chatgpt-as-html-file-dhh)
 - [Dev.to/JS] [Updates from the 93rd TC39 meeting](https://dev.to/hemanth/updates-from-the-93rd-tc39-meeting-2n8f)
 - [Dev.to/JS] [Why a Hash Table is a Performant Data Structure](https://dev.to/smilesforgood/why-a-hash-table-is-a-performant-data-structure-1abb)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using clearTimeout in JavaScript](https://dev.to/blamb31/using-cleartimeout-in-javascript-55f2)
 - [Dev.to/JS] [Writing Your Own Discord Bot](https://dev.to/blamb31/writing-your-own-discord-bot-1ddm)
 - [Dev.to/JS] [Nullish Coalescing Operator](https://dev.to/blamb31/nullish-coalescing-operator-4amf)
-- [Dev.to/JS] [Getting To Know TypeScript&#39;s Partial Type](https://dev.to/blamb31/getting-to-know-typescripts-partial-type-107d)
 - [Lifehacker] [Why a Tiny House Might Not Be As Affordable As You Think](https://lifehacker.com/why-a-tiny-house-might-not-be-as-affordable-as-you-thin-1849847134)
 - [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
 - [Lifehacker] [All the Social Media ‘Algospeak’ You Don’t Understand](https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027)
