@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VSCode: my 5 vital extensions to be productive](https://dev.to/this-is-learning/vscode-my-5-vital-extensions-to-be-productive-11db)
+- [Dev.to/JS] [State vs Props in reactjs](https://dev.to/devvsakib/state-vs-props-in-reactjs-3e9n)
 - [Dev.to/JS] [Electron vs Tauri for your next project](https://dev.to/alxnddr/electron-vs-tauri-for-your-next-project-2dna)
-- [Dev.to/JS] [It is faster and more efficient to write list pages like this in Vue3](https://dev.to/_island/it-is-faster-and-more-efficient-to-write-list-pages-like-this-in-vue3-1n7n)
+- [Dev.to/JS] [How to write a list page faster](https://dev.to/_island/it-is-faster-and-more-efficient-to-write-list-pages-like-this-in-vue3-1n7n)
 - [Dev.to/JS] [Breaking Down the Benefits of JavaScript over Typescript](https://dev.to/snehasishkonger/breaking-down-the-benefits-of-javascript-over-typescript-1inm)
 - [Dev.to/JS] [Responsive Business Agency Website Using Html CSS JavaScript](https://dev.to/codewithsadee/responsive-business-agency-website-using-html-css-javascript-54kj)
 - [Dev.to/JS] [How to Make Quiz App in React](https://dev.to/reactjsguru/how-to-make-quiz-app-in-react-34l0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Alpha Heater - Results, Price, Reviews, Uses And Benefits?](https://dev.to/heater_alpha/alpha-heater-results-price-reviews-uses-and-benefits-1j82)
 - [Dev.to/JS] [CRDTs: A Beginner&#39;s overview for building a collaborative app](https://dev.to/justrox/crdts-a-beginners-overview-for-building-a-collaborative-app-1a38)
 - [Dev.to/JS] [Setting up reCAPTCHA in your React Application](https://dev.to/zt4ff_1/setting-up-recaptcha-in-your-react-application-2213)
-- [Dev.to/JS] [Removing all vowels with JavaScript](https://dev.to/dailydevtips1/removing-all-vowels-with-javascript-2c70)
-- [Dev.to/JS] [An Introduction to Next.js](https://dev.to/brandonbawe/an-introduction-to-nextjs-3npa)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
