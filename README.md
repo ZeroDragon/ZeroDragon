@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unique Number of Occurrences](https://dev.to/zeeshanali0704/unique-number-of-occurrences-5h78)
 - [Dev.to/JS] [Element Appearing More Than 25% In Sorted Array](https://dev.to/zeeshanali0704/element-appearing-more-than-25-in-sorted-array-272g)
 - [Dev.to/JS] [Hey Tech Recruiter, Here Are Some Tips from a Developer](https://dev.to/eevajonnapanula/hey-tech-recruiter-here-are-some-tips-from-a-developer-4hl8)
 - [Dev.to/JS] [Count 1&#39;s in a Sorted Binary Array](https://dev.to/zeeshanali0704/count-1s-in-a-sorted-binary-array-25b3)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Dev.to/JS] [代码随想录day18 | 513. Find Bottom Left Tree Value, 112&amp;113. Path Sum, 106/105. make Binary Tree from Inorder and Postorder/Preorder](https://dev.to/986913/dai-ma-sui-xiang-lu-day18-513-find-bottom-left-tree-value-112113-path-sum-106105-make-binary-tree-from-inorder-and-postorderpreorder-1pmb)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
-- [Dev.to/JS] [Advent.js🎅🏼| Reto #2: Nadie quiere hacer horas extra](https://dev.to/duxtech/adventjs-reto-2-nadie-quiere-hacer-horas-extra-2eh4)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
 - [Lifehacker] [How to Sharpen a Knife With a Whet Stone](https://lifehacker.com/how-to-sharpen-a-knife-with-a-whet-stone-1849848333)
 - [Lifehacker] [16 of the Best Gifts for the Fitness Fanatic&#39;s Gym Bag](https://lifehacker.com/16-of-the-best-gifts-for-the-fitness-fanatics-gym-bag-1849847762)
