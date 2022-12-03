@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s a CANVAS PARTY!](https://dev.to/yoav_mendelson/its-a-canvas-party-47kg)
+- [Dev.to/JS] [5 Movies that are a must-watch for Developers](https://dev.to/thenomadevel/5-movies-that-are-a-must-watch-for-developers-3mnm)
 - [Dev.to/JS] [How to negotiate when getting a job offer](https://dev.to/salmandotweb/how-to-negotiate-when-getting-a-job-offer-2k0f)
 - [Dev.to/JS] [Array.prototype.reduce](https://dev.to/986913/arrayprototypereduce-3bf1)
 - [Dev.to/JS] [Array.prototype.map](https://dev.to/986913/arrayprototypemap-78o)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Course Data Algorithm](https://dev.to/ahmaud/course-data-algorithm-4jc2)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Dev.to/JS] [VSCode: my 5 vital extensions to be productive](https://dev.to/this-is-learning/vscode-my-5-vital-extensions-to-be-productive-11db)
-- [Dev.to/JS] [State vs Props in reactjs](https://dev.to/devvsakib/state-vs-props-in-reactjs-3e9n)
-- [Dev.to/JS] [Electron vs Tauri for your next project](https://dev.to/alxnddr/electron-vs-tauri-for-your-next-project-2dna)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
