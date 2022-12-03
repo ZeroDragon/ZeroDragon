@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Count 1&#39;s in a Sorted Binary Array](https://dev.to/zeeshanali0704/count-1s-in-a-sorted-binary-array-25b3)
+- [Dev.to/JS] [Find First and Last Position of Element in Sorted Array](https://dev.to/zeeshanali0704/find-first-and-last-position-of-element-in-sorted-array-33oc)
+- [Dev.to/JS] [sorry been very busy and had to fix my laptop but got back started here are so far](https://dev.to/judahsullivan/sorry-been-very-busy-and-had-to-fix-my-laptop-but-got-back-started-here-are-so-far-4ch)
+- [Dev.to/JS] [Function.prototype.bind](https://dev.to/986913/functionprototypebind-3hca)
 - [Dev.to/JS] [An Introduction to JavaScript in Hindi](https://dev.to/jagveergagaan/an-introduction-to-javascript-in-hindi-b51)
 - [Dev.to/JS] [Save chatGPT conversation as HTML file](https://dev.to/jcubic/save-chatgpt-as-html-file-dhh)
 - [Dev.to/JS] [Updates from the 93rd TC39 meeting](https://dev.to/hemanth/updates-from-the-93rd-tc39-meeting-2n8f)
@@ -37,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 of the Best Gifts for the Fitness Fanatic&#39;s Gym Bag](https://lifehacker.com/16-of-the-best-gifts-for-the-fitness-fanatics-gym-bag-1849847762)
 - [Dev.to/JS] [NextJS - Access window and localStorage](https://dev.to/ariyou2000/nextjs-access-window-and-localstorage-10i3)
 - [Lifehacker] [This Tuna Mayo Rice Bowl Is the Best WFH Lunch](https://lifehacker.com/this-tuna-mayo-rice-bowl-is-the-best-wfh-lunch-1849847558)
-- [Dev.to/JS] [Rock Paper Scissors](https://dev.to/rmion/rock-paper-scissors-3428)
 - [Lifehacker] [7 of the Best White Elephant Gifts for Less Than $30](https://lifehacker.com/7-of-the-best-white-elephant-gifts-for-less-than-30-1849847394)
-- [Dev.to/JS] [Using clearTimeout in JavaScript](https://dev.to/blamb31/using-cleartimeout-in-javascript-55f2)
-- [Dev.to/JS] [Writing Your Own Discord Bot](https://dev.to/blamb31/writing-your-own-discord-bot-1ddm)
-- [Dev.to/JS] [Nullish Coalescing Operator](https://dev.to/blamb31/nullish-coalescing-operator-4amf)
 - [Lifehacker] [Why a Tiny House Might Not Be As Affordable As You Think](https://lifehacker.com/why-a-tiny-house-might-not-be-as-affordable-as-you-thin-1849847134)
 - [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
 - [Lifehacker] [All the Social Media ‘Algospeak’ You Don’t Understand](https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027)
