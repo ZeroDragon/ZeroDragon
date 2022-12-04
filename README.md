@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎄JS Advent #4 - call&lpar;&rpar; and apply&lpar;&rpar; 🎄](https://dev.to/jtlavs/js-advent-4-call-and-apply-24il)
+- [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Dev.to/JS] [Solving day 04 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-04-of-advent-of-code-2022-in-javascript-aj3)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
 - [Dev.to/JS] [table: fix moving columns bug](https://dev.to/gohomewho/table-fix-moving-columns-bug-55c0)
+- [Dev.to/JS] [Hundreds of micro-frontend applications in the company, How to smoothly upgrade mf from umd](https://dev.to/zhanghongen/hundreds-of-micro-frontend-applications-in-the-company-how-to-smoothly-upgrade-mf-from-umd-485n)
 - [Dev.to/JS] [Notes on the Monorepo Pattern](https://dev.to/david_whitney/notes-on-the-monorepo-pattern-5egc)
 - [Dev.to/JS] [Type Assertions, Trucks, and Aliens](https://dev.to/about14sheep/type-assertions-trucks-and-aliens-be2)
 - [Dev.to/JS] [Advent of Code 2022](https://dev.to/jesseskinner/advent-of-code-2022-44f7)
@@ -34,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reto # 2 del adventJs: Nadie quiere hacer horas extra](https://dev.to/retronauta/reto-2-nadie-quiere-hacer-horas-extra-5871)
 - [Dev.to/JS] [My rule of thumb when making software architecture decisions](https://dev.to/kunaljaydesai/my-rule-of-thumb-when-making-software-architecture-decisions-4fig)
 - [Dev.to/JS] [What is Docker and How it works | DevOps](https://dev.to/lovepreetsingh/what-is-docker-and-how-it-works-devops-424n)
-- [Dev.to/JS] [Reto #1 del adventJs: ¡Automatizando envolver regalos de navidad!](https://dev.to/retronauta/reto-1-del-adventjs-automatizando-envolver-regalos-de-navidad-1323)
 - [Lifehacker] [The Right Way to Get Rid of Your Old Couch](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
-- [Dev.to/JS] [Know these fundamental concepts to become JavaScript developer.](https://dev.to/tilakkhatri/know-these-fundamental-concepts-to-become-javascript-developer-18ee)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
 - [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)
-- [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)
-- [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)<!-- TECH-POSTS:END -->
 
 ---
 
