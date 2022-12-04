@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Right Way to Get Rid of Your Old Couch](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
 - [Dev.to/JS] [Know these fundamental concepts to become JavaScript developer.](https://dev.to/tilakkhatri/know-these-fundamental-concepts-to-become-javascript-developer-18ee)
 - [Dev.to/JS] [Learn ReactJS for Free | ReactJS Resources](https://dev.to/ishratumar/learn-reactjs-for-free-reactjs-resources-4nhl)
 - [Dev.to/JS] [Anime JS Background Animation Effects](https://dev.to/sanketbodake/anime-js-background-animation-effects-3ni4)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)
 - [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)
 - [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)
-- [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)
-- [Lifehacker] [You Can Power Your House With Wind, but Should You?](https://lifehacker.com/you-can-power-your-house-with-wind-but-should-you-1849840860)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)<!-- TECH-POSTS:END -->
 
 ---
 
