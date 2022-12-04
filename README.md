@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Webly, Find and Sell Online Webinar Tickets](https://dev.to/fazzaamiarso/webly-find-and-sell-online-webinar-tickets-n4o)
+- [Dev.to/JS] [Guess Number Higher or Lower](https://dev.to/zeeshanali0704/guess-number-higher-or-lower-1khc)
+- [Dev.to/JS] [Responsive Landing Page Design using HTML CSS &amp; JAVASCRIPT | Responsive FIFA Website](https://dev.to/dailywebdesign/responsive-landing-page-design-using-html-css-javascript-responsive-fifa-website-39oe)
+- [Dev.to/JS] [How To Create A Responsive Anime Website | How To Make Anime Website](https://dev.to/dailywebdesign/how-to-create-a-responsive-anime-website-how-to-make-anime-website-54eg)
+- [Dev.to/JS] [I Created My Own Portfolio Using Nextjs](https://dev.to/ethand91/i-created-my-own-portfolio-using-nextjs-4dh2)
+- [Dev.to/JS] [Memo: How to create a React and relative framework project for AWS Amplify](https://dev.to/aws-builders/memo-how-to-create-a-react-and-relative-framework-project-for-aws-amplify-34ja)
 - [Dev.to/JS] [[JS]forではなくmapを使う](https://dev.to/kokitakishita/jsfordehanakumapwoshi-u-4jb5)
 - [Dev.to/JS] [Handling Error in express application using typescript](https://dev.to/henoktsegaye/handling-error-in-express-application-using-typescript-1n43)
 - [Dev.to/JS] [&quot;REACT&quot; is dying](https://dev.to/atharvashankar/react-is-dying-1f52)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Generate sitemap.xml and robots.txt in Nextjs](https://dev.to/basskibo/generate-sitemapxml-and-robotstxt-in-nextjs-4nl5)
 - [Dev.to/JS] [5 Small and Hidden React libraries You Should Already Be Using](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
 - [Dev.to/JS] [Why you should create new GraphQL queries: How I caused an incident expanding an existing query and the lessons learned](https://dev.to/jwwnz/why-you-should-create-new-graphql-queries-how-i-caused-an-incident-expanding-an-existing-query-and-the-lessons-learned-4okk)
-- [Dev.to/JS] [JavaScript in the `file:` protocol isn&#39;t ONLY being used for backwards compatibility. - Is it?](https://dev.to/baenencalin/javascript-in-the-file-protocol-isnt-only-being-used-for-backwards-compatibility-is-it-201n)
-- [Dev.to/JS] [What is the future of a web dev? What is your destiny?](https://dev.to/naubit/what-is-the-future-of-a-web-dev-what-is-your-destiny-50j0)
-- [Dev.to/JS] [A hacker view of your github profile](https://dev.to/junsantilla/githux-3m7e)
-- [Dev.to/JS] [AngularJS ngBootstrap5](https://dev.to/adamclayd/angularjs-ngbootstrap5-1183)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
