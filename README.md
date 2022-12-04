@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Webly, Find and Sell Online Webinar Tickets](https://dev.to/fazzaamiarso/webly-find-and-sell-online-webinar-tickets-n4o)
+- [Dev.to/JS] [[JS]forではなくmapを使う](https://dev.to/kokitakishita/jsfordehanakumapwoshi-u-4jb5)
+- [Dev.to/JS] [Handling Error in express application using typescript](https://dev.to/henoktsegaye/handling-error-in-express-application-using-typescript-1n43)
 - [Dev.to/JS] [&quot;REACT&quot; is dying](https://dev.to/atharvashankar/react-is-dying-1f52)
 - [Dev.to/JS] [Discord bots are cool!](https://dev.to/devils2ndself/discord-bots-are-cool-2pli)
 - [Dev.to/JS] [Generate sitemap.xml and robots.txt in Nextjs](https://dev.to/basskibo/generate-sitemapxml-and-robotstxt-in-nextjs-4nl5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the future of a web dev? What is your destiny?](https://dev.to/naubit/what-is-the-future-of-a-web-dev-what-is-your-destiny-50j0)
 - [Dev.to/JS] [A hacker view of your github profile](https://dev.to/junsantilla/githux-3m7e)
 - [Dev.to/JS] [AngularJS ngBootstrap5](https://dev.to/adamclayd/angularjs-ngbootstrap5-1183)
-- [Dev.to/JS] [Ready? Set. Code! 👨‍💻](https://dev.to/paulxcodes/ready-set-go-1aok)
-- [Dev.to/JS] [Deep Dive into Data structures using Javascript - General &lpar;Generic, N-ary&rpar; tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-general-generic-n-ary-tree-3lch)
-- [Dev.to/JS] [Deep Equal](https://dev.to/986913/deep-equal-337o)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
