@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving day 04 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-04-of-advent-of-code-2022-in-javascript-aj3)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
 - [Dev.to/JS] [table: fix moving columns bug](https://dev.to/gohomewho/table-fix-moving-columns-bug-55c0)
 - [Dev.to/JS] [Notes on the Monorepo Pattern](https://dev.to/david_whitney/notes-on-the-monorepo-pattern-5egc)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reto #1 del adventJs: ¡Automatizando envolver regalos de navidad!](https://dev.to/retronauta/reto-1-del-adventjs-automatizando-envolver-regalos-de-navidad-1323)
 - [Lifehacker] [The Right Way to Get Rid of Your Old Couch](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
 - [Dev.to/JS] [Know these fundamental concepts to become JavaScript developer.](https://dev.to/tilakkhatri/know-these-fundamental-concepts-to-become-javascript-developer-18ee)
-- [Dev.to/JS] [Learn ReactJS for Free | ReactJS Resources](https://dev.to/ishratumar/learn-reactjs-for-free-reactjs-resources-4nhl)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
