@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IT Development Company](https://dev.to/tatepaule/it-development-company-4j9p)
+- [Dev.to/JS] [4 FREE Resources To Boost Your Node.js Developer Career ⚡](https://dev.to/nodedoctors/4-free-resources-to-boost-your-nodejs-developer-career-1bpe)
+- [Dev.to/JS] [Como buscar posts no TabNews - Google Hacking](https://dev.to/jjeanjacques10/como-buscar-posts-no-tabnews-google-hacking-1m95)
+- [Dev.to/JS] [Code Smell 184 - Exception Arrow Code](https://dev.to/mcsee/code-smell-184-exception-arrow-code-2cia)
 - [Dev.to/JS] [OSD600 r0.4 planning](https://dev.to/dadolhay/osd600-r04-planning-m03)
 - [Dev.to/JS] [Via Keto Jean Coutu Pro Advantage and Reviews - Read These Buy Tips](https://dev.to/viajeancoutu/via-keto-jean-coutu-pro-advantage-and-reviews-read-these-buy-tips-4im0)
 - [Dev.to/JS] [Barrel Exports considered harmful](https://dev.to/castarco/barrel-exports-considered-harmful-38p6)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Dev.to/JS] [Camp Cleanup](https://dev.to/rmion/camp-cleanup-33ai)
 - [Dev.to/JS] [Important Git Commands which every developer needs in his day to day life](https://dev.to/imshivanshpatel/important-git-commands-which-every-developer-needs-in-his-day-to-day-life-2ba5)
-- [Dev.to/JS] [How&#39;d we access our Api](https://dev.to/franciscobenjamn/howd-we-access-our-api-3650)
-- [Dev.to/JS] [AdventJS, JavaScript/TypeScript coding challenges](https://dev.to/midudev/adventjs-javascripttypescript-coding-challenges-3l13)
-- [Dev.to/JS] [🎄JS Advent #4 - call&lpar;&rpar; and apply&lpar;&rpar; 🎄](https://dev.to/jtlavs/js-advent-4-call-and-apply-24il)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
-- [Dev.to/JS] [Solving day 04 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-04-of-advent-of-code-2022-in-javascript-aj3)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
 - [Lifehacker] [The Right Way to Get Rid of Your Old Couch](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
