@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
+- [Dev.to/JS] [table: fix moving columns bug](https://dev.to/gohomewho/table-fix-moving-columns-bug-55c0)
+- [Dev.to/JS] [Notes on the Monorepo Pattern](https://dev.to/david_whitney/notes-on-the-monorepo-pattern-5egc)
 - [Dev.to/JS] [Type Assertions, Trucks, and Aliens](https://dev.to/about14sheep/type-assertions-trucks-and-aliens-be2)
 - [Dev.to/JS] [Advent of Code 2022](https://dev.to/jesseskinner/advent-of-code-2022-44f7)
 - [Dev.to/JS] [Best Financial Blogs in 2022 from MoneyTap](https://dev.to/pkoli4843/best-financial-blogs-in-2022-from-moneytap-4j0a)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Right Way to Get Rid of Your Old Couch](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
 - [Dev.to/JS] [Know these fundamental concepts to become JavaScript developer.](https://dev.to/tilakkhatri/know-these-fundamental-concepts-to-become-javascript-developer-18ee)
 - [Dev.to/JS] [Learn ReactJS for Free | ReactJS Resources](https://dev.to/ishratumar/learn-reactjs-for-free-reactjs-resources-4nhl)
-- [Dev.to/JS] [Anime JS Background Animation Effects](https://dev.to/sanketbodake/anime-js-background-animation-effects-3ni4)
-- [Dev.to/JS] [“THIS” in Javascript.](https://dev.to/piyushsh/this-in-javascript-174d)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
 - [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)
 - [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)
-- [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)
-- [Lifehacker] [Keep Your Christmas Tree Away From Windows, and Other Ways to Avoid a Holiday Break-In](https://lifehacker.com/keep-your-christmas-tree-away-from-windows-and-other-w-1849842462)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Get Free Cookies This Weekend for National Cookie Day](https://lifehacker.com/where-to-get-free-cookies-this-weekend-for-national-coo-1849842289)<!-- TECH-POSTS:END -->
 
 ---
 
