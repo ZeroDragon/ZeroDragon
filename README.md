@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generate sitemap.xml and robots.txt in Nextjs](https://dev.to/basskibo/generate-sitemapxml-and-robotstxt-in-nextjs-4nl5)
+- [Dev.to/JS] [5 Small and Hidden React libraries You Should Already Be Using](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
+- [Dev.to/JS] [Why you should create new GraphQL queries: How I caused an incident expanding an existing query and the lessons learned](https://dev.to/jwwnz/why-you-should-create-new-graphql-queries-how-i-caused-an-incident-expanding-an-existing-query-and-the-lessons-learned-4okk)
+- [Dev.to/JS] [JavaScript in the `file:` protocol isn&#39;t ONLY being used for backwards compatibility. - Is it?](https://dev.to/baenencalin/javascript-in-the-file-protocol-isnt-only-being-used-for-backwards-compatibility-is-it-201n)
+- [Dev.to/JS] [What is the future of a web dev? What is your destiny?](https://dev.to/naubit/what-is-the-future-of-a-web-dev-what-is-your-destiny-50j0)
 - [Dev.to/JS] [A hacker view of your github profile](https://dev.to/junsantilla/githux-3m7e)
 - [Dev.to/JS] [AngularJS ngBootstrap5](https://dev.to/adamclayd/angularjs-ngbootstrap5-1183)
 - [Dev.to/JS] [Ready? Set. Code! 👨‍💻](https://dev.to/paulxcodes/ready-set-go-1aok)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deep Equal](https://dev.to/986913/deep-equal-337o)
 - [Dev.to/JS] [It&#39;s a CANVAS PARTY!](https://dev.to/yoav_mendelson/its-a-canvas-party-47kg)
 - [Dev.to/JS] [5 Movies that are a must-watch for Developers](https://dev.to/thenomadevel/5-movies-that-are-a-must-watch-for-developers-3mnm)
-- [Dev.to/JS] [How to negotiate when getting a job offer](https://dev.to/salmandotweb/how-to-negotiate-when-getting-a-job-offer-2k0f)
-- [Dev.to/JS] [Array.prototype.reduce](https://dev.to/986913/arrayprototypereduce-3bf1)
-- [Dev.to/JS] [Array.prototype.map](https://dev.to/986913/arrayprototypemap-78o)
-- [Dev.to/JS] [Rucksack Reorganization](https://dev.to/rmion/rucksack-reorganization-8oj)
-- [Dev.to/JS] [Solving day 03 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-03-of-advent-of-code-2022-in-javascript-4066)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
