@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Some amazing JS components](https://dev.to/oleanji/some-amazing-js-components-50fk)
+- [Dev.to/JS] [The Logic behind Array.prototype.sort](https://dev.to/ugorji_simon/the-logic-behind-arrayprototypesort-1pf)
+- [Dev.to/JS] [Javascript: Async/Await](https://dev.to/antelove19/javascript-asyncawait-ao9)
 - [Dev.to/JS] [Space Website With Background Image Slider | Space Landing Page Design](https://dev.to/dailywebdesign/space-website-with-background-image-slider-space-landing-page-design-57o9)
 - [Dev.to/JS] [Search in Rotated Sorted Array](https://dev.to/zeeshanali0704/search-in-rotated-sorted-array-3f9f)
 - [Dev.to/JS] [Authentication is hard. Let FACEIO handle it for you](https://dev.to/sonu_sharma/authentication-is-hard-let-faceio-handle-it-for-you-140c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Created My Own Portfolio Using Nextjs](https://dev.to/ethand91/i-created-my-own-portfolio-using-nextjs-4dh2)
 - [Dev.to/JS] [Memo: How to create a React and relative framework project for AWS Amplify](https://dev.to/aws-builders/memo-how-to-create-a-react-and-relative-framework-project-for-aws-amplify-34ja)
 - [Dev.to/JS] [[JS]forではなくmapを使う](https://dev.to/kokitakishita/jsfordehanakumapwoshi-u-4jb5)
-- [Dev.to/JS] [Handling Error in express application using typescript](https://dev.to/henoktsegaye/handling-error-in-express-application-using-typescript-1n43)
-- [Dev.to/JS] [&quot;REACT&quot; is dying](https://dev.to/atharvashankar/react-is-dying-1f52)
-- [Dev.to/JS] [Discord bots are cool!](https://dev.to/devils2ndself/discord-bots-are-cool-2pli)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
