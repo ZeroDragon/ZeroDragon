@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [OSD600 r0.4 planning](https://dev.to/dadolhay/osd600-r04-planning-m03)
+- [Dev.to/JS] [Via Keto Jean Coutu Pro Advantage and Reviews - Read These Buy Tips](https://dev.to/viajeancoutu/via-keto-jean-coutu-pro-advantage-and-reviews-read-these-buy-tips-4im0)
+- [Dev.to/JS] [Barrel Exports considered harmful](https://dev.to/castarco/barrel-exports-considered-harmful-38p6)
 - [Dev.to/JS] [IIFE&lpar;immediately-Invoked function Expression&rpar;](https://dev.to/hat52/iifeimmediately-invoked-function-expression-a9p)
 - [Dev.to/JS] [Progression: Enhancing a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/progress-enhancing-a-slack-bot-to-announce-sign-ups-5fe2)
 - [Dev.to/JS] [How does React work?](https://dev.to/neeraj1997dev/how-does-react-work-17ai)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Dev.to/JS] [Solving day 04 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-04-of-advent-of-code-2022-in-javascript-aj3)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
-- [Dev.to/JS] [Saving in local storage](https://dev.to/ghandicode/saving-in-local-storage-2hig)
-- [Dev.to/JS] [table: fix moving columns bug](https://dev.to/gohomewho/table-fix-moving-columns-bug-55c0)
-- [Dev.to/JS] [Hundreds of micro-frontend applications in the company, How to smoothly upgrade mf from umd](https://dev.to/zhanghongen/hundreds-of-micro-frontend-applications-in-the-company-how-to-smoothly-upgrade-mf-from-umd-485n)
 - [Lifehacker] [The Right Way to Get Rid of Your Old Couch](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
