@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IIFE&lpar;immediately-Invoked function Expression&rpar;](https://dev.to/hat52/iifeimmediately-invoked-function-expression-a9p)
+- [Dev.to/JS] [Progression: Enhancing a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/progress-enhancing-a-slack-bot-to-announce-sign-ups-5fe2)
+- [Dev.to/JS] [How does React work?](https://dev.to/neeraj1997dev/how-does-react-work-17ai)
+- [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Dev.to/JS] [Camp Cleanup](https://dev.to/rmion/camp-cleanup-33ai)
 - [Dev.to/JS] [Important Git Commands which every developer needs in his day to day life](https://dev.to/imshivanshpatel/important-git-commands-which-every-developer-needs-in-his-day-to-day-life-2ba5)
 - [Dev.to/JS] [How&#39;d we access our Api](https://dev.to/franciscobenjamn/howd-we-access-our-api-3650)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Saving in local storage](https://dev.to/ghandicode/saving-in-local-storage-2hig)
 - [Dev.to/JS] [table: fix moving columns bug](https://dev.to/gohomewho/table-fix-moving-columns-bug-55c0)
 - [Dev.to/JS] [Hundreds of micro-frontend applications in the company, How to smoothly upgrade mf from umd](https://dev.to/zhanghongen/hundreds-of-micro-frontend-applications-in-the-company-how-to-smoothly-upgrade-mf-from-umd-485n)
-- [Dev.to/JS] [Notes on the Monorepo Pattern](https://dev.to/david_whitney/notes-on-the-monorepo-pattern-5egc)
-- [Dev.to/JS] [Type Assertions, Trucks, and Aliens](https://dev.to/about14sheep/type-assertions-trucks-and-aliens-be2)
-- [Dev.to/JS] [Advent of Code 2022](https://dev.to/jesseskinner/advent-of-code-2022-44f7)
 - [Lifehacker] [The Right Way to Get Rid of Your Old Couch](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
 - [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
 - [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
-- [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)
-- [Lifehacker] [What to Gift Someone You Don&#39;t Like, According to Reddit](https://lifehacker.com/what-to-gift-someone-you-dont-like-according-to-reddit-1849842632)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)<!-- TECH-POSTS:END -->
 
 ---
 
