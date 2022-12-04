@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;REACT&quot; is dying](https://dev.to/atharvashankar/react-is-dying-1f52)
 - [Dev.to/JS] [Discord bots are cool!](https://dev.to/devils2ndself/discord-bots-are-cool-2pli)
 - [Dev.to/JS] [Generate sitemap.xml and robots.txt in Nextjs](https://dev.to/basskibo/generate-sitemapxml-and-robotstxt-in-nextjs-4nl5)
 - [Dev.to/JS] [5 Small and Hidden React libraries You Should Already Be Using](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ready? Set. Code! 👨‍💻](https://dev.to/paulxcodes/ready-set-go-1aok)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - General &lpar;Generic, N-ary&rpar; tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-general-generic-n-ary-tree-3lch)
 - [Dev.to/JS] [Deep Equal](https://dev.to/986913/deep-equal-337o)
-- [Dev.to/JS] [It&#39;s a CANVAS PARTY!](https://dev.to/yoav_mendelson/its-a-canvas-party-47kg)
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
