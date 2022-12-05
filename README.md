@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Setup Error Middleware and async Handler](https://dev.to/aneeqakhan/setup-error-middleware-and-async-handler-299i)
+- [Dev.to/JS] [Top 10 React Chrome Extensions](https://dev.to/mahmoudsayed/to-10-react-chrome-extensions-2mp8)
+- [Dev.to/JS] [Getting Started with JavaScript Fetch API](https://dev.to/mr_ali3n/getting-started-with-javascript-fetch-api-1272)
+- [Dev.to/JS] [Setup Error Middleware and async Handler in Node.js](https://dev.to/aneeqakhan/setup-error-middleware-and-async-handler-299i)
 - [Dev.to/JS] [The Exodus Effect: Some 4 Reason To Use?](https://dev.to/tryexoduseffect/the-exodus-effect-some-4-reason-to-use-8fk)
 - [Dev.to/JS] [Fastest swap of JS syntax using vim macros ⚡️](https://dev.to/jareechang/fastest-swap-of-js-syntax-using-vim-macros-4kgh)
 - [Dev.to/JS] [Tips To Become A Productive Developer](https://dev.to/wizdomtek/tips-to-become-a-productive-developer-4d1g)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I need a guild please](https://dev.to/peilu2478/i-need-a-guild-please-3l9m)
 - [Dev.to/JS] [The &quot;MERN&quot; Stack is getting replaced](https://dev.to/atharvashankar/the-mern-stack-is-getting-replaced-16e)
 - [Dev.to/JS] [代码随想录day20 | 654.Maximum BT, 617.Merge Two Binary Trees, 700.Search in a Binary Search Tree, 98.Validate BST](https://dev.to/986913/dai-ma-sui-xiang-lu-day20-654maximum-bt-617merge-two-binary-trees-700search-in-a-binary-search-tree-98validate-bst-1o9d)
-- [Dev.to/JS] [React and express.js form validations with Zod](https://dev.to/dawsoncodes/react-and-expressjs-form-validations-with-zod-2998)
-- [Dev.to/JS] [React Router](https://dev.to/codingmustache/react-router-1dkl)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
