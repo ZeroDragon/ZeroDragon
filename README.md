@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to record videos with puppeter](https://dev.to/phantasm0009/how-to-record-videos-with-puppeter-2fji)
+- [Lifehacker] [How to Instantly Measure Someone&#39;s Height on Your iPhone](https://lifehacker.com/how-to-instantly-measure-someones-height-on-your-iphone-1849854921)
+- [Dev.to/JS] [Build serverless AWS announcements email service with AWS Application Composer and AWS SAM](https://dev.to/aws-builders/build-serverless-aws-announcements-email-service-with-aws-application-composer-and-aws-sam-2e74)
+- [Lifehacker] [Never Vacuum Up These Common Household Messes](https://lifehacker.com/never-vacuum-up-these-common-household-messes-1849853932)
 - [Dev.to/JS] [Inside Javascript Hoisting](https://dev.to/mihirverma7781/inside-javascript-hoisting-304o)
 - [Dev.to/JS] [Using Node.js to steal £10,000: Introduction](https://dev.to/gleroux/introduction-16i5)
 - [Lifehacker] [The Cheap Way to Update Christmas Ornaments, According to TikTok](https://lifehacker.com/the-cheap-way-to-update-christmas-ornaments-according-1849854018)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supply Stacks](https://dev.to/rmion/supply-stacks-3of1)
 - [Dev.to/JS] [Boots on!!](https://dev.to/sally077/boots-on-1dk5)
 - [Dev.to/JS] [Interesting Facts about Top Indian Bloggers &lpar;Must Read&rpar;](https://dev.to/pkoli4843/interesting-facts-about-top-indian-bloggers-must-read-1o72)
-- [Dev.to/JS] [How to Setup a Complete Discord.JS Template Through the Command Line](https://dev.to/elitezen/how-to-setup-a-complete-discordjs-template-through-the-command-line-48pp)
-- [Dev.to/JS] [Why is your website slow? Common causes and how to fix them](https://dev.to/momciloo/why-is-your-website-slow-common-causes-and-how-to-fix-them-4k13)
 - [Lifehacker] [Don’t Fall for This Crypto ‘Front Running’ Scam on YouTube](https://lifehacker.com/don-t-fall-for-this-crypto-front-running-scam-on-yout-1849849521)
 - [Lifehacker] [Does Hive&#39;s Security Problem Make It Unsafe to Use?](https://lifehacker.com/does-hives-security-problem-make-it-unsafe-to-use-1849849175)
 - [Lifehacker] [Do These Things Before You Hire a Contractor for Your Next Home Repair Project](https://lifehacker.com/do-these-things-before-you-hire-a-contractor-for-your-n-1849853328)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Tuna Mayo Rice Bowl Is the Best WFH Lunch](https://lifehacker.com/this-tuna-mayo-rice-bowl-is-the-best-wfh-lunch-1849847558)
 - [Lifehacker] [7 of the Best White Elephant Gifts for Less Than $30](https://lifehacker.com/7-of-the-best-white-elephant-gifts-for-less-than-30-1849847394)
 - [Lifehacker] [Why a Tiny House Might Not Be As Affordable As You Think](https://lifehacker.com/why-a-tiny-house-might-not-be-as-affordable-as-you-thin-1849847134)
-- [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
-- [Lifehacker] [All the Social Media ‘Algospeak’ You Don’t Understand](https://lifehacker.com/all-the-social-media-algospeak-you-don-t-understand-1849841027)
-- [Lifehacker] [Android’s ‘Find My’ Alternative Might Be Better Than Apple’s](https://lifehacker.com/android-s-find-my-alternative-might-be-better-than-ap-1849846349)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)<!-- TECH-POSTS:END -->
 
 ---
 
