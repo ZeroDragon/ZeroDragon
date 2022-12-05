@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Media Queries in JS/TS done right](https://dev.to/this-is-learning/media-queries-in-jsts-done-right-l6o)
+- [Lifehacker] [Don’t Get Hepatitis From These Recalled Frozen Berries](https://lifehacker.com/don-t-get-hepatitis-from-these-recalled-frozen-berries-1849853884)
 - [Lifehacker] [Claim Your Free PS Plus Games Before They’re Gone Forever](https://lifehacker.com/claim-your-free-ps-plus-games-before-they-re-gone-forev-1849853454)
 - [Dev.to/JS] [Supply Stacks](https://dev.to/rmion/supply-stacks-3of1)
 - [Dev.to/JS] [Boots on!!](https://dev.to/sally077/boots-on-1dk5)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating an upvote system with React and Socket.io 🥳 🔝](https://dev.to/novu/creating-an-upvote-system-with-react-and-socketio-5aoj)
 - [Lifehacker] [Stop &#39;Gaslighting&#39; Your Kids](https://lifehacker.com/stop-gaslighting-your-kids-1849852275)
 - [Dev.to/JS] [Create your own blog with MDX and NextJS](https://dev.to/tifanide/create-your-own-blog-with-mdx-and-nextjs-7d9)
-- [Dev.to/JS] [Webly, Find and Sell Online Webinar Tickets](https://dev.to/fazzaamiarso/webly-find-and-sell-online-webinar-tickets-2gbb)
 - [Lifehacker] [11 of the Best Gifts for Amateur Astronomers](https://lifehacker.com/11-of-the-best-gifts-for-amateur-astronomers-1849849765)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Bingeable Shows That Are the Best Kind of Podcast Junk Food](https://lifehacker.com/10-bingeable-shows-that-are-the-best-kind-of-podcast-ju-1849844998)
 - [Lifehacker] [Beware of Holiday Shipping Notification Scams](https://lifehacker.com/beware-of-holiday-shipping-notification-scams-1849844168)
 - [Lifehacker] [A Water Spill Can Break Your Audi](https://lifehacker.com/a-water-spill-can-break-your-audi-1849843494)
-- [Lifehacker] [The Right Way to Hone a Knife](https://lifehacker.com/the-right-way-to-hone-a-knife-1849845256)
-- [Lifehacker] [15 of the Best Luxury Gifts for Gamers](https://lifehacker.com/15-of-the-best-luxury-gifts-for-gamers-1849844923)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Hone a Knife](https://lifehacker.com/the-right-way-to-hone-a-knife-1849845256)<!-- TECH-POSTS:END -->
 
 ---
 
