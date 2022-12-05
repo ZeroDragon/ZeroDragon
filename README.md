@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
+- [Dev.to/JS] [NodeJS Buffer module](https://dev.to/hellonehha/nodejs-buffer-module-3o60)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Dev.to/JS] [NODE.JS: Interview Questions](https://dev.to/mitchiemt11/nodejs-interview-questions-mlp)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Get Hepatitis From These Recalled Frozen Berries](https://lifehacker.com/don-t-get-hepatitis-from-these-recalled-frozen-berries-1849853884)
 - [Lifehacker] [Claim Your Free PS Plus Games Before They’re Gone Forever](https://lifehacker.com/claim-your-free-ps-plus-games-before-they-re-gone-forev-1849853454)
 - [Dev.to/JS] [Supply Stacks](https://dev.to/rmion/supply-stacks-3of1)
-- [Dev.to/JS] [Boots on!!](https://dev.to/sally077/boots-on-1dk5)
 - [Lifehacker] [Don’t Fall for This Crypto ‘Front Running’ Scam on YouTube](https://lifehacker.com/don-t-fall-for-this-crypto-front-running-scam-on-yout-1849849521)
 - [Lifehacker] [Does Hive&#39;s Security Problem Make It Unsafe to Use?](https://lifehacker.com/does-hives-security-problem-make-it-unsafe-to-use-1849849175)
 - [Lifehacker] [Do These Things Before You Hire a Contractor for Your Next Home Repair Project](https://lifehacker.com/do-these-things-before-you-hire-a-contractor-for-your-n-1849853328)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
 - [Lifehacker] [How to Sharpen a Knife With a Whet Stone](https://lifehacker.com/how-to-sharpen-a-knife-with-a-whet-stone-1849848333)
 - [Lifehacker] [16 of the Best Gifts for the Fitness Fanatic&#39;s Gym Bag](https://lifehacker.com/16-of-the-best-gifts-for-the-fitness-fanatics-gym-bag-1849847762)
-- [Lifehacker] [This Tuna Mayo Rice Bowl Is the Best WFH Lunch](https://lifehacker.com/this-tuna-mayo-rice-bowl-is-the-best-wfh-lunch-1849847558)
-- [Lifehacker] [7 of the Best White Elephant Gifts for Less Than $30](https://lifehacker.com/7-of-the-best-white-elephant-gifts-for-less-than-30-1849847394)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Tuna Mayo Rice Bowl Is the Best WFH Lunch](https://lifehacker.com/this-tuna-mayo-rice-bowl-is-the-best-wfh-lunch-1849847558)<!-- TECH-POSTS:END -->
 
 ---
 
