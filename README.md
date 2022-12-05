@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup Error Middleware and async Handler](https://dev.to/aneeqakhan/setup-error-middleware-and-async-handler-299i)
+- [Dev.to/JS] [The Exodus Effect: Some 4 Reason To Use?](https://dev.to/tryexoduseffect/the-exodus-effect-some-4-reason-to-use-8fk)
+- [Dev.to/JS] [Fastest swap of JS syntax using vim macros ⚡️](https://dev.to/jareechang/fastest-swap-of-js-syntax-using-vim-macros-4kgh)
+- [Dev.to/JS] [Tips To Become A Productive Developer](https://dev.to/wizdomtek/tips-to-become-a-productive-developer-4d1g)
 - [Dev.to/JS] [5 famous websites - built in JAMstack](https://dev.to/momciloo/5-famous-websites-built-in-jamstack-3klp)
 - [Dev.to/JS] [Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
 - [Dev.to/JS] [How to render components in javascript?](https://dev.to/camplejs/how-to-render-components-in-javascript-18b1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [代码随想录day20 | 654.Maximum BT, 617.Merge Two Binary Trees, 700.Search in a Binary Search Tree, 98.Validate BST](https://dev.to/986913/dai-ma-sui-xiang-lu-day20-654maximum-bt-617merge-two-binary-trees-700search-in-a-binary-search-tree-98validate-bst-1o9d)
 - [Dev.to/JS] [React and express.js form validations with Zod](https://dev.to/dawsoncodes/react-and-expressjs-form-validations-with-zod-2998)
 - [Dev.to/JS] [React Router](https://dev.to/codingmustache/react-router-1dkl)
-- [Dev.to/JS] [Exploring ES6: Sets and Maps](https://dev.to/colinwilliams91/exploring-es6-sets-and-maps-12ni)
-- [Dev.to/JS] [An introduction to JavaScript maps](https://dev.to/asayerio_techblog/an-introduction-to-javascript-maps-314d)
-- [Dev.to/JS] [Web Development Best Practices](https://dev.to/asayerio_techblog/web-development-best-practices-5a7m)
-- [Dev.to/JS] [How to deploy a Next.js app to production](https://dev.to/asayerio_techblog/how-to-deploy-a-nextjs-app-to-production-3m26)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
