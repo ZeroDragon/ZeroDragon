@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [IT Development Company](https://dev.to/tatepaule/it-development-company-4j9p)
+- [Dev.to/JS] [Power up your web apps with TensorFlow.js](https://dev.to/360macky/power-up-your-web-apps-with-tensorflowjs-15o5)
+- [Dev.to/JS] [Workerd : le moteur d’exécution JavaScript / Wasm qui alimente les Workers de Cloudflare …](https://dev.to/deep75/workerd-le-moteur-dexecution-javascript-wasm-qui-alimente-les-workers-de-cloudflare--bc)
 - [Dev.to/JS] [4 FREE Resources To Boost Your Node.js Developer Career ⚡](https://dev.to/nodedoctors/4-free-resources-to-boost-your-nodejs-developer-career-1bpe)
+- [Dev.to/JS] [Introduction to JavaScript](https://dev.to/damian_chisom/introduction-to-javascript-5g95)
 - [Dev.to/JS] [Como buscar posts no TabNews - Google Hacking](https://dev.to/jjeanjacques10/como-buscar-posts-no-tabnews-google-hacking-1m95)
 - [Dev.to/JS] [Code Smell 184 - Exception Arrow Code](https://dev.to/mcsee/code-smell-184-exception-arrow-code-2cia)
 - [Dev.to/JS] [OSD600 r0.4 planning](https://dev.to/dadolhay/osd600-r04-planning-m03)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Progression: Enhancing a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/progress-enhancing-a-slack-bot-to-announce-sign-ups-5fe2)
 - [Dev.to/JS] [How does React work?](https://dev.to/neeraj1997dev/how-does-react-work-17ai)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
-- [Dev.to/JS] [Camp Cleanup](https://dev.to/rmion/camp-cleanup-33ai)
-- [Dev.to/JS] [Important Git Commands which every developer needs in his day to day life](https://dev.to/imshivanshpatel/important-git-commands-which-every-developer-needs-in-his-day-to-day-life-2ba5)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
 - [Lifehacker] [The Right Way to Get Rid of Your Old Couch](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
