@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 famous websites - built in JAMstack](https://dev.to/momciloo/5-famous-websites-built-in-jamstack-3klp)
+- [Dev.to/JS] [Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
+- [Dev.to/JS] [How to render components in javascript?](https://dev.to/camplejs/how-to-render-components-in-javascript-18b1)
+- [Dev.to/JS] [I need a guild please](https://dev.to/peilu2478/i-need-a-guild-please-3l9m)
+- [Dev.to/JS] [The &quot;MERN&quot; Stack is getting replaced](https://dev.to/atharvashankar/the-mern-stack-is-getting-replaced-16e)
 - [Dev.to/JS] [代码随想录day20 | 654.Maximum BT, 617.Merge Two Binary Trees, 700.Search in a Binary Search Tree, 98.Validate BST](https://dev.to/986913/dai-ma-sui-xiang-lu-day20-654maximum-bt-617merge-two-binary-trees-700search-in-a-binary-search-tree-98validate-bst-1o9d)
 - [Dev.to/JS] [React and express.js form validations with Zod](https://dev.to/dawsoncodes/react-and-expressjs-form-validations-with-zod-2998)
 - [Dev.to/JS] [React Router](https://dev.to/codingmustache/react-router-1dkl)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An introduction to JavaScript maps](https://dev.to/asayerio_techblog/an-introduction-to-javascript-maps-314d)
 - [Dev.to/JS] [Web Development Best Practices](https://dev.to/asayerio_techblog/web-development-best-practices-5a7m)
 - [Dev.to/JS] [How to deploy a Next.js app to production](https://dev.to/asayerio_techblog/how-to-deploy-a-nextjs-app-to-production-3m26)
-- [Dev.to/JS] [Building React components with DaisyUI](https://dev.to/asayerio_techblog/building-react-components-with-daisyui-3i4k)
-- [Dev.to/JS] [Power up your web apps with TensorFlow.js](https://dev.to/360macky/power-up-your-web-apps-with-tensorflowjs-15o5)
-- [Dev.to/JS] [Workerd : le moteur d’exécution JavaScript / Wasm qui alimente les Workers de Cloudflare …](https://dev.to/deep75/workerd-le-moteur-dexecution-javascript-wasm-qui-alimente-les-workers-de-cloudflare--bc)
-- [Dev.to/JS] [4 FREE Resources To Boost Your Node.js Developer Career ⚡](https://dev.to/nodedoctors/4-free-resources-to-boost-your-nodejs-developer-career-1bpe)
-- [Dev.to/JS] [Introduction to JavaScript](https://dev.to/damian_chisom/introduction-to-javascript-5g95)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
