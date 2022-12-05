@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
+- [Dev.to/JS] [NODE.JS: Interview Questions](https://dev.to/mitchiemt11/nodejs-interview-questions-mlp)
+- [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
 - [Dev.to/JS] [How to record videos with puppeter](https://dev.to/phantasm0009/how-to-record-videos-with-puppeter-2fji)
 - [Lifehacker] [How to Instantly Measure Someone&#39;s Height on Your iPhone](https://lifehacker.com/how-to-instantly-measure-someones-height-on-your-iphone-1849854921)
 - [Dev.to/JS] [Build serverless AWS announcements email service with AWS Application Composer and AWS SAM](https://dev.to/aws-builders/build-serverless-aws-announcements-email-service-with-aws-application-composer-and-aws-sam-2e74)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Claim Your Free PS Plus Games Before They’re Gone Forever](https://lifehacker.com/claim-your-free-ps-plus-games-before-they-re-gone-forev-1849853454)
 - [Dev.to/JS] [Supply Stacks](https://dev.to/rmion/supply-stacks-3of1)
 - [Dev.to/JS] [Boots on!!](https://dev.to/sally077/boots-on-1dk5)
-- [Dev.to/JS] [Interesting Facts about Top Indian Bloggers &lpar;Must Read&rpar;](https://dev.to/pkoli4843/interesting-facts-about-top-indian-bloggers-must-read-1o72)
 - [Lifehacker] [Don’t Fall for This Crypto ‘Front Running’ Scam on YouTube](https://lifehacker.com/don-t-fall-for-this-crypto-front-running-scam-on-yout-1849849521)
 - [Lifehacker] [Does Hive&#39;s Security Problem Make It Unsafe to Use?](https://lifehacker.com/does-hives-security-problem-make-it-unsafe-to-use-1849849175)
 - [Lifehacker] [Do These Things Before You Hire a Contractor for Your Next Home Repair Project](https://lifehacker.com/do-these-things-before-you-hire-a-contractor-for-your-n-1849853328)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Sharpen a Knife With a Whet Stone](https://lifehacker.com/how-to-sharpen-a-knife-with-a-whet-stone-1849848333)
 - [Lifehacker] [16 of the Best Gifts for the Fitness Fanatic&#39;s Gym Bag](https://lifehacker.com/16-of-the-best-gifts-for-the-fitness-fanatics-gym-bag-1849847762)
 - [Lifehacker] [This Tuna Mayo Rice Bowl Is the Best WFH Lunch](https://lifehacker.com/this-tuna-mayo-rice-bowl-is-the-best-wfh-lunch-1849847558)
-- [Lifehacker] [7 of the Best White Elephant Gifts for Less Than $30](https://lifehacker.com/7-of-the-best-white-elephant-gifts-for-less-than-30-1849847394)
-- [Lifehacker] [Why a Tiny House Might Not Be As Affordable As You Think](https://lifehacker.com/why-a-tiny-house-might-not-be-as-affordable-as-you-thin-1849847134)
-- [Lifehacker] [11 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 of the Best White Elephant Gifts for Less Than $30](https://lifehacker.com/7-of-the-best-white-elephant-gifts-for-less-than-30-1849847394)<!-- TECH-POSTS:END -->
 
 ---
 
