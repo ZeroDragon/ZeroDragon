@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I am a Google Developer Expert! 🚀](https://dev.to/jacobandrewsky/i-am-a-google-developer-expert-49ai)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🐍.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-7j)
+- [Dev.to/JS] [Solving day 05 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-05-of-advent-of-code-2022-in-javascript-31eb)
 - [Dev.to/JS] [How to record videos with Puppeteer](https://dev.to/krasun/how-to-record-videos-with-puppeteer-2f1d)
 - [Dev.to/JS] [An Introduction to Storybook JS](https://dev.to/quokkalabs/an-introduction-to-storybook-js-2n34)
 - [Dev.to/JS] [What is the difference between Low Code &amp; No Code](https://dev.to/flatlogic/what-is-the-difference-between-low-code-no-code-ni5)
 - [Dev.to/JS] [Composite pattern in TypeScript](https://dev.to/jmalvarez/composite-pattern-in-typescript-19ij)
 - [Dev.to/JS] [How to automatically receive messages in discord when a platform is down](https://dev.to/reinforz/how-to-automatically-receive-messages-in-discord-when-a-platform-is-down-3ii)
-- [Dev.to/JS] [Building Image Grids with react-visual-grid &lpar;a powerful virtualized grid library&rpar;](https://dev.to/prabhuignoto/how-to-build-image-grids-with-react-visual-grid-10fh)
+- [Dev.to/JS] [Introducing react-visual-grid, a smart image grid component for React](https://dev.to/prabhuignoto/how-to-build-image-grids-with-react-visual-grid-10fh)
 - [Dev.to/JS] [Top 10 React Chrome Extensions](https://dev.to/mahmoudsayed/to-10-react-chrome-extensions-2mp8)
 - [Dev.to/JS] [Getting Started with JavaScript Fetch API](https://dev.to/mr_ali3n/getting-started-with-javascript-fetch-api-1272)
 - [Dev.to/JS] [Setup Error Middleware and async Handler in Node.js](https://dev.to/aneeqakhan/setup-error-middleware-and-async-handler-299i)
-- [Dev.to/JS] [The Exodus Effect: Some 4 Reason To Use?](https://dev.to/tryexoduseffect/the-exodus-effect-some-4-reason-to-use-8fk)
-- [Dev.to/JS] [Fastest swap of JS syntax using vim macros ⚡️](https://dev.to/jareechang/fastest-swap-of-js-syntax-using-vim-macros-4kgh)
-- [Dev.to/JS] [Tips To Become A Productive Developer](https://dev.to/wizdomtek/tips-to-become-a-productive-developer-4d1g)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
