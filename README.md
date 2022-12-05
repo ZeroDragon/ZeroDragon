@@ -23,6 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Claim Your Free PS Plus Games Before They’re Gone Forever](https://lifehacker.com/claim-your-free-ps-plus-games-before-they-re-gone-forev-1849853454)
+- [Dev.to/JS] [Supply Stacks](https://dev.to/rmion/supply-stacks-3of1)
+- [Dev.to/JS] [Boots on!!](https://dev.to/sally077/boots-on-1dk5)
+- [Dev.to/JS] [Interesting Facts about Top Indian Bloggers &lpar;Must Read&rpar;](https://dev.to/pkoli4843/interesting-facts-about-top-indian-bloggers-must-read-1o72)
+- [Dev.to/JS] [How to Setup a Complete Discord.JS Template Through the Command Line](https://dev.to/elitezen/how-to-setup-a-complete-discordjs-template-through-the-command-line-48pp)
+- [Dev.to/JS] [Why is your website slow? Common causes and how to fix them](https://dev.to/momciloo/why-is-your-website-slow-common-causes-and-how-to-fix-them-4k13)
+- [Dev.to/JS] [New TypeScript’s “satisfies” Operator](https://dev.to/mdmostafizurrahaman/new-typescripts-satisfies-operator-4dmp)
+- [Lifehacker] [Don’t Fall for This Crypto ‘Front Running’ Scam on YouTube](https://lifehacker.com/don-t-fall-for-this-crypto-front-running-scam-on-yout-1849849521)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-dec-2022-292p)
+- [Dev.to/JS] [hello_world](https://dev.to/guying/helloworld-41ng)
+- [Dev.to/JS] [Find Minimum in Rotated Sorted Array](https://dev.to/zeeshanali0704/find-minimum-in-rotated-sorted-array-k7)
 - [Lifehacker] [Does Hive&#39;s Security Problem Make It Unsafe to Use?](https://lifehacker.com/does-hives-security-problem-make-it-unsafe-to-use-1849849175)
 - [Lifehacker] [Do These Things Before You Hire a Contractor for Your Next Home Repair Project](https://lifehacker.com/do-these-things-before-you-hire-a-contractor-for-your-n-1849853328)
 - [Dev.to/JS] [Creating an upvote system with React and Socket.io 🥳 🔝](https://dev.to/novu/creating-an-upvote-system-with-react-and-socketio-5aoj)
@@ -30,15 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create your own blog with MDX and NextJS](https://dev.to/tifanide/create-your-own-blog-with-mdx-and-nextjs-7d9)
 - [Dev.to/JS] [Webly, Find and Sell Online Webinar Tickets](https://dev.to/fazzaamiarso/webly-find-and-sell-online-webinar-tickets-2gbb)
 - [Lifehacker] [11 of the Best Gifts for Amateur Astronomers](https://lifehacker.com/11-of-the-best-gifts-for-amateur-astronomers-1849849765)
-- [Dev.to/JS] [[Code snippets] Testing html anchor links in Cypress](https://dev.to/darkmavis1980/code-snippets-testing-html-anchor-links-in-cypress-2ol8)
-- [Dev.to/JS] [JavaScriptmas 2022 - Issue 1](https://dev.to/scrimba/javascriptmas-2022-issue-1-200b)
-- [Dev.to/JS] [Playwright with Typescript tutorial on FIFA World cup site](https://dev.to/dilpreetjohal/playwright-with-typescript-tutorial-on-fifa-world-cup-site-1map)
-- [Dev.to/JS] [Simulate a Mouse Click Using JavaScript](https://dev.to/mavensingh/simulate-a-mouse-click-using-javascript-549b)
-- [Dev.to/JS] [30 useful javascript methods to spice-up your coding](https://dev.to/freakynit/30-useful-javascript-methods-to-spice-up-your-coding-1gf2)
-- [Dev.to/JS] [I am a Google Developer Expert! 🚀](https://dev.to/jacobandrewsky/i-am-a-google-developer-expert-49ai)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🐍.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-7j)
-- [Dev.to/JS] [Solving day 05 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-05-of-advent-of-code-2022-in-javascript-31eb)
-- [Dev.to/JS] [How to record videos with Puppeteer](https://dev.to/krasun/how-to-record-videos-with-puppeteer-2f1d)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beware of Holiday Shipping Notification Scams](https://lifehacker.com/beware-of-holiday-shipping-notification-scams-1849844168)
 - [Lifehacker] [A Water Spill Can Break Your Audi](https://lifehacker.com/a-water-spill-can-break-your-audi-1849843494)
 - [Lifehacker] [The Right Way to Hone a Knife](https://lifehacker.com/the-right-way-to-hone-a-knife-1849845256)
-- [Lifehacker] [15 of the Best Luxury Gifts for Gamers](https://lifehacker.com/15-of-the-best-luxury-gifts-for-gamers-1849844923)
-- [Lifehacker] [How to Avoid Paying the &#39;Single Tax&#39;](https://lifehacker.com/how-to-avoid-paying-the-single-tax-1849837004)
-- [Lifehacker] [Do This Now to Get a Head Start on Your Holiday Baking](https://lifehacker.com/do-this-now-to-get-a-head-start-on-your-holiday-baking-1849842282)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of the Best Luxury Gifts for Gamers](https://lifehacker.com/15-of-the-best-luxury-gifts-for-gamers-1849844923)<!-- TECH-POSTS:END -->
 
 ---
 
