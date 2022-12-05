@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to record videos with Puppeteer](https://dev.to/krasun/how-to-record-videos-with-puppeteer-2f1d)
+- [Dev.to/JS] [An Introduction to Storybook JS](https://dev.to/quokkalabs/an-introduction-to-storybook-js-2n34)
 - [Dev.to/JS] [What is the difference between Low Code &amp; No Code](https://dev.to/flatlogic/what-is-the-difference-between-low-code-no-code-ni5)
 - [Dev.to/JS] [Composite pattern in TypeScript](https://dev.to/jmalvarez/composite-pattern-in-typescript-19ij)
 - [Dev.to/JS] [How to automatically receive messages in discord when a platform is down](https://dev.to/reinforz/how-to-automatically-receive-messages-in-discord-when-a-platform-is-down-3ii)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Exodus Effect: Some 4 Reason To Use?](https://dev.to/tryexoduseffect/the-exodus-effect-some-4-reason-to-use-8fk)
 - [Dev.to/JS] [Fastest swap of JS syntax using vim macros ⚡️](https://dev.to/jareechang/fastest-swap-of-js-syntax-using-vim-macros-4kgh)
 - [Dev.to/JS] [Tips To Become A Productive Developer](https://dev.to/wizdomtek/tips-to-become-a-productive-developer-4d1g)
-- [Dev.to/JS] [5 famous websites - built in JAMstack](https://dev.to/momciloo/5-famous-websites-built-in-jamstack-3klp)
-- [Dev.to/JS] [Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
