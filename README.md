@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the difference between Low Code &amp; No Code](https://dev.to/flatlogic/what-is-the-difference-between-low-code-no-code-ni5)
 - [Dev.to/JS] [Composite pattern in TypeScript](https://dev.to/jmalvarez/composite-pattern-in-typescript-19ij)
 - [Dev.to/JS] [How to automatically receive messages in discord when a platform is down](https://dev.to/reinforz/how-to-automatically-receive-messages-in-discord-when-a-platform-is-down-3ii)
 - [Dev.to/JS] [Building Image Grids with react-visual-grid &lpar;a powerful virtualized grid library&rpar;](https://dev.to/prabhuignoto/how-to-build-image-grids-with-react-visual-grid-10fh)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tips To Become A Productive Developer](https://dev.to/wizdomtek/tips-to-become-a-productive-developer-4d1g)
 - [Dev.to/JS] [5 famous websites - built in JAMstack](https://dev.to/momciloo/5-famous-websites-built-in-jamstack-3klp)
 - [Dev.to/JS] [Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
-- [Dev.to/JS] [How to render components in javascript?](https://dev.to/camplejs/how-to-render-components-in-javascript-18b1)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
