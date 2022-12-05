@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop &#39;Gaslighting&#39; Your Kids](https://lifehacker.com/stop-gaslighting-your-kids-1849852275)
+- [Dev.to/JS] [Create your own blog with MDX and NextJS](https://dev.to/tifanide/create-your-own-blog-with-mdx-and-nextjs-7d9)
+- [Dev.to/JS] [Webly, Find and Sell Online Webinar Tickets](https://dev.to/fazzaamiarso/webly-find-and-sell-online-webinar-tickets-2gbb)
+- [Lifehacker] [11 of the Best Gifts for Amateur Astronomers](https://lifehacker.com/11-of-the-best-gifts-for-amateur-astronomers-1849849765)
 - [Dev.to/JS] [[Code snippets] Testing html anchor links in Cypress](https://dev.to/darkmavis1980/code-snippets-testing-html-anchor-links-in-cypress-2ol8)
 - [Dev.to/JS] [JavaScriptmas 2022 - Issue 1](https://dev.to/scrimba/javascriptmas-2022-issue-1-200b)
 - [Dev.to/JS] [Playwright with Typescript tutorial on FIFA World cup site](https://dev.to/dilpreetjohal/playwright-with-typescript-tutorial-on-fifa-world-cup-site-1map)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solving day 05 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-05-of-advent-of-code-2022-in-javascript-31eb)
 - [Dev.to/JS] [How to record videos with Puppeteer](https://dev.to/krasun/how-to-record-videos-with-puppeteer-2f1d)
 - [Dev.to/JS] [An Introduction to Storybook JS](https://dev.to/quokkalabs/an-introduction-to-storybook-js-2n34)
-- [Dev.to/JS] [What is the difference between Low Code &amp; No Code](https://dev.to/flatlogic/what-is-the-difference-between-low-code-no-code-ni5)
-- [Dev.to/JS] [Composite pattern in TypeScript](https://dev.to/jmalvarez/composite-pattern-in-typescript-19ij)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid Paying the &#39;Single Tax&#39;](https://lifehacker.com/how-to-avoid-paying-the-single-tax-1849837004)
 - [Lifehacker] [Do This Now to Get a Head Start on Your Holiday Baking](https://lifehacker.com/do-this-now-to-get-a-head-start-on-your-holiday-baking-1849842282)
 - [Lifehacker] [9 of the Best New Things to Stream in December 2022](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
-- [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)
-- [Lifehacker] [Your iPhone Might Call the Police on You for Skiing](https://lifehacker.com/your-iphone-might-call-the-police-on-you-for-skiing-1849841895)
-- [Lifehacker] [Six Ways to Use Swiffers Around the House &lpar;Besides Swiffering&rpar;](https://lifehacker.com/six-ways-to-use-swiffers-around-the-house-besides-swif-1849842819)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Respond to Unfair Feedback at Work](https://lifehacker.com/the-best-ways-to-respond-to-unfair-feedback-at-work-1849842552)<!-- TECH-POSTS:END -->
 
 ---
 
