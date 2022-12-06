@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tsParticles 2.6.0 Released](https://dev.to/tsparticles/tsparticles-260-released-7l8)
 - [Dev.to/JS] [The Art of Code Generator](https://dev.to/adam_cyclones/the-art-of-code-generator-54fa)
 - [Dev.to/JS] [Implementing reCAPTCHA in React](https://dev.to/asayerio_techblog/implementing-recaptcha-in-react-57hg)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strategies for improving website performance and loading speed.](https://dev.to/vaibhavacharya/strategies-for-improving-website-performance-and-loading-speed-20dl)
 - [Dev.to/JS] [Split a commit into 2 commits with `git rebase`](https://dev.to/thelarkinn/split-a-commit-into-2-commits-with-git-rebase-31ee)
 - [Lifehacker] [Stop Buying Bad &#39;Cashmere&#39; Sweaters](https://lifehacker.com/stop-buying-bad-cashmere-sweaters-1849854041)
-- [Dev.to/JS] [How does JavaScript work?🧐](https://dev.to/klc/how-does-javascript-work-3fpl)
 - [Lifehacker] [Delete These Malware Apps From Your Android ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-asap-1849854104)
 - [Lifehacker] [Don’t Get Hepatitis From These Recalled Frozen Berries](https://lifehacker.com/don-t-get-hepatitis-from-these-recalled-frozen-berries-1849853884)
 - [Lifehacker] [Claim Your Free PS Plus Games Before They’re Gone Forever](https://lifehacker.com/claim-your-free-ps-plus-games-before-they-re-gone-forev-1849853454)
