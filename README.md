@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advent.js🎅🏼| Reto #4: Una caja dentro de otra caja y otra...](https://dev.to/duxtech/adventjs-reto-4-una-caja-dentro-de-otra-caja-y-otra-2nd4)
+- [Dev.to/JS] [My Journey Through Array Iteration Methods](https://dev.to/creasser/my-journey-through-array-iteration-methods-41pj)
 - [Dev.to/JS] [tsParticles 2.6.0 Released](https://dev.to/tsparticles/tsparticles-260-released-7l8)
 - [Dev.to/JS] [The Art of Code Generator](https://dev.to/adam_cyclones/the-art-of-code-generator-54fa)
 - [Dev.to/JS] [Implementing reCAPTCHA in React](https://dev.to/asayerio_techblog/implementing-recaptcha-in-react-57hg)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Cheap Way to Update Christmas Ornaments, According to TikTok](https://lifehacker.com/the-cheap-way-to-update-christmas-ornaments-according-1849854018)
 - [Dev.to/JS] [Projects you can build as a frontend web developer newbie](https://dev.to/salmandotweb/projects-you-can-build-as-a-frontend-web-developer-newbie-35lm)
 - [Lifehacker] [Listen to Your Farts](https://lifehacker.com/listen-to-your-farts-1849853421)
-- [Dev.to/JS] [Strategies for improving website performance and loading speed.](https://dev.to/vaibhavacharya/strategies-for-improving-website-performance-and-loading-speed-20dl)
-- [Dev.to/JS] [Split a commit into 2 commits with `git rebase`](https://dev.to/thelarkinn/split-a-commit-into-2-commits-with-git-rebase-31ee)
 - [Lifehacker] [Stop Buying Bad &#39;Cashmere&#39; Sweaters](https://lifehacker.com/stop-buying-bad-cashmere-sweaters-1849854041)
 - [Lifehacker] [Delete These Malware Apps From Your Android ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-asap-1849854104)
 - [Lifehacker] [Don’t Get Hepatitis From These Recalled Frozen Berries](https://lifehacker.com/don-t-get-hepatitis-from-these-recalled-frozen-berries-1849853884)
