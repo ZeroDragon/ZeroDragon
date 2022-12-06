@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ng-News: Episode 22/48 - NgRx 15, Chrome 108, FormsModule](https://dev.to/ng_news/ng-news-episode-2248-ngrx-15-chrome-108-formsmodule-3688)
+- [Lifehacker] [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)
+- [Dev.to/JS] [Create a Static Site using VitePress for Beautiful Help Documentation](https://dev.to/mbcrump/create-a-static-site-using-vitepress-for-beautiful-help-documentation-d3)
+- [Dev.to/JS] [Release 0.4 Progress](https://dev.to/rudychung/release-04-progress-5h6m)
+- [Lifehacker] [12 of the Most Riveting Storytelling Podcasts Running](https://lifehacker.com/12-of-the-most-riveting-storytelling-podcasts-running-1849856104)
+- [Dev.to/JS] [Stripe Glossary](https://dev.to/tier/stripe-glossary-4aed)
+- [Lifehacker] [Don&#39;t Eat This Oscar Mayer Ham, USDA Says](https://lifehacker.com/dont-eat-this-oscar-mayer-ham-usda-says-1849859469)
 - [Dev.to/JS] [Release 0.4 Planning](https://dev.to/rudychung/release-04-planning-3ip8)
 - [Lifehacker] [A Complete Guide to Selling Stock Photos, Videos, and Music](https://lifehacker.com/a-complete-guide-to-selling-stock-photos-videos-and-m-1849859140)
 - [Lifehacker] [Fix Your Own Wobbly Toilet Seat](https://lifehacker.com/fix-your-own-wobbly-toilet-seat-1849857567)
@@ -37,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Impact-Driven Automation Testing For Ecommerce Websites](https://dev.to/lambdatest/impact-driven-automation-testing-for-ecommerce-websites-1gbl)
 - [Lifehacker] [Listing Your Apartment on Airbnb Is a Little More Legal Now](https://lifehacker.com/listing-your-apartment-on-airbnb-is-a-little-more-legal-1849853450)
 - [Dev.to/JS] [16-ES6++: Reflection In JavaScript](https://dev.to/hassanzohdy/16-es6-reflection-in-javascript-18p2)
-- [Dev.to/JS] [Nx 15.3 - Standalone Projects, Vite, Task Graph and more!](https://dev.to/nx/nx-153-standalone-projects-vite-task-graph-and-more-49ic)
 - [Lifehacker] [10 of History&#39;s Most Successful Pirates &lpar;and What They Teach Us About Work&rpar;](https://lifehacker.com/10-of-the-most-successful-pirates-and-what-they-teach-1849857211)
-- [Dev.to/JS] [Build An Application With Internationalization Using Gatsby and Strapi i18n Plugin](https://dev.to/strapi/build-an-application-with-internationalization-using-gatsby-and-strapi-i18n-plugin-19df)
-- [Dev.to/JS] [Tuning Trouble](https://dev.to/rmion/tuning-trouble-4g2l)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in December 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849856381)
-- [Dev.to/JS] [React Hooks - definitive guide for beginners](https://dev.to/meatboy/react-hooks-definitive-guide-for-beginners-3817)
 - [Lifehacker] [10 of the Best Gifts for Book Enthusiasts &lpar;That Aren&#39;t Books&rpar;](https://lifehacker.com/10-of-the-best-gifts-for-book-enthusiasts-that-arent-b-1849854507)
 - [Lifehacker] [You Can Still &lpar;Probably&rpar; Make a Killing on I Bonds](https://lifehacker.com/you-can-still-probably-make-a-killing-on-i-bonds-1849855295)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Fall for This Crypto ‘Front Running’ Scam on YouTube](https://lifehacker.com/don-t-fall-for-this-crypto-front-running-scam-on-yout-1849849521)
 - [Lifehacker] [Does Hive&#39;s Security Problem Make It Unsafe to Use?](https://lifehacker.com/does-hives-security-problem-make-it-unsafe-to-use-1849849175)
 - [Lifehacker] [Do These Things Before You Hire a Contractor for Your Next Home Repair Project](https://lifehacker.com/do-these-things-before-you-hire-a-contractor-for-your-n-1849853328)
-- [Lifehacker] [Stop &#39;Gaslighting&#39; Your Kids](https://lifehacker.com/stop-gaslighting-your-kids-1849852275)
-- [Lifehacker] [11 of the Best Gifts for Amateur Astronomers](https://lifehacker.com/11-of-the-best-gifts-for-amateur-astronomers-1849849765)
-- [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
-- [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop &#39;Gaslighting&#39; Your Kids](https://lifehacker.com/stop-gaslighting-your-kids-1849852275)<!-- TECH-POSTS:END -->
 
 ---
 
