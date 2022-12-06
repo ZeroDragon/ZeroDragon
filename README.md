@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ruby on Rails Security: 8 Best Practices](https://dev.to/solutelabs/ruby-on-rails-security-8-best-practices-4pe1)
+- [Dev.to/JS] [How I build Register and Login page using Supabase](https://dev.to/surajondev/how-i-build-register-and-login-page-using-supabase-5h43)
 - [Dev.to/JS] [JavaScript puzzle oneliner - get unique values from list](https://dev.to/jankapunkt/javascript-puzzle-oneliner-get-unique-values-from-list-4iap)
 - [Dev.to/JS] [How To Handle Scroll Events In JavaScript](https://dev.to/nnekajenny/how-to-handle-scroll-events-in-javascript-2jne)
 - [Dev.to/JS] [I&#39;m having trouble merging arrays in reactjs](https://dev.to/dducnv0712/im-having-trouble-merging-arrays-in-reactjs-1jpp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Client side error exception](https://dev.to/negi789/client-side-error-exception-52j6)
 - [Dev.to/JS] [Install NVM on Mac, Windows and Linux](https://dev.to/csituma/install-nvm-on-mac-windows-and-linux-1aj9)
 - [Dev.to/JS] [Frontend Machine Coding Interview | Video Explanation | HTML | CSS | Javascript](https://dev.to/vj98/frontend-machine-coding-interview-video-explanation-html-css-javascript-4f8n)
-- [Dev.to/JS] [Revisiting Postgres](https://dev.to/kunaljaydesai/revisiting-postgres-3ncd)
-- [Dev.to/JS] [ElectronJS for Beginners](https://dev.to/b1bxonty/electronjs-for-beginners-56f5)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
