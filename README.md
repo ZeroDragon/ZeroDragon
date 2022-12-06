@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to React Email &lpar;react.email&rpar;](https://dev.to/elliot_brenyasarfo_18749/introduction-to-react-email-reactemail-530h)
+- [Dev.to/JS] [Understanding XSS with ChatGPT](https://dev.to/bscript/understanding-xss-with-chatgpt-2l5d)
+- [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
+- [Dev.to/JS] [Electron Chat App Tutorial: Building a Desktop Chat App](https://dev.to/alakkadshaw/electron-chat-app-tutorial-building-a-desktop-chat-app-352p)
+- [Dev.to/JS] [Announcing Keystrokes, successor to KeyboardJS](https://dev.to/robertwhurst/announcing-keystrokes-successor-to-keyboardjs-1b6f)
 - [Dev.to/JS] [JavaScript and HTML snake game tutorial: Build a simple, interactive game](https://dev.to/educative/javascript-and-html-snake-game-tutorial-build-a-simple-interactive-game-1ga1)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Dev.to/JS] [Difference between SSG and SSR](https://dev.to/manuel__dev/difference-between-ssg-and-ssr-3ffb)
@@ -35,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Point-and-Shoot Cameras Are Back, Baby](https://lifehacker.com/point-and-shoot-cameras-are-back-baby-1849859515)
 - [Dev.to/JS] [JavaScript: 5 types of functions with 5 reasons to use each function](https://dev.to/nathannosudo/javascript-5-types-of-functions-with-5-reasons-to-use-each-function-me3)
 - [Dev.to/JS] [React clicker game: useState vs redux toolkit](https://dev.to/dataseyo/react-clicker-game-usestate-vs-redux-toolkit-31f)
-- [Dev.to/JS] [Ng-News: Episode 22/48 - NgRx 15, Chrome 108, FormsModule](https://dev.to/ng_news/ng-news-episode-2248-ngrx-15-chrome-108-formsmodule-3688)
 - [Lifehacker] [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)
-- [Dev.to/JS] [Create a Static Site using VitePress for Beautiful Help Documentation](https://dev.to/mbcrump/create-a-static-site-using-vitepress-for-beautiful-help-documentation-d3)
-- [Dev.to/JS] [Release 0.4 Progress](https://dev.to/rudychung/release-04-progress-5h6m)
 - [Lifehacker] [12 of the Most Riveting Storytelling Podcasts Running](https://lifehacker.com/12-of-the-most-riveting-storytelling-podcasts-running-1849856104)
-- [Dev.to/JS] [Stripe Glossary](https://dev.to/tier/stripe-glossary-4aed)
 - [Lifehacker] [Don&#39;t Eat This Oscar Mayer Ham, USDA Says](https://lifehacker.com/dont-eat-this-oscar-mayer-ham-usda-says-1849859469)
 - [Lifehacker] [A Complete Guide to Selling Stock Photos, Videos, and Music](https://lifehacker.com/a-complete-guide-to-selling-stock-photos-videos-and-m-1849859140)
 - [Lifehacker] [Fix Your Own Wobbly Toilet Seat](https://lifehacker.com/fix-your-own-wobbly-toilet-seat-1849857567)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Listen to Your Farts](https://lifehacker.com/listen-to-your-farts-1849853421)
 - [Lifehacker] [Stop Buying Bad &#39;Cashmere&#39; Sweaters](https://lifehacker.com/stop-buying-bad-cashmere-sweaters-1849854041)
 - [Lifehacker] [Delete These Malware Apps From Your Android ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-asap-1849854104)
-- [Lifehacker] [Don’t Get Hepatitis From These Recalled Frozen Berries](https://lifehacker.com/don-t-get-hepatitis-from-these-recalled-frozen-berries-1849853884)
-- [Lifehacker] [Claim Your Free PS Plus Games Before They’re Gone Forever](https://lifehacker.com/claim-your-free-ps-plus-games-before-they-re-gone-forev-1849853454)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Get Hepatitis From These Recalled Frozen Berries](https://lifehacker.com/don-t-get-hepatitis-from-these-recalled-frozen-berries-1849853884)<!-- TECH-POSTS:END -->
 
 ---
 
