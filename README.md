@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nx 15.3 - Standalone Projects, Vite, Task Graph and more!](https://dev.to/nx/nx-153-standalone-projects-vite-task-graph-and-more-49ic)
+- [Lifehacker] [10 of the Most Successful Pirates &lpar;and What They Teach Us About Work&rpar;](https://lifehacker.com/10-of-the-most-successful-pirates-and-what-they-teach-1849857211)
+- [Dev.to/JS] [Build An Application With Internationalization Using Gatsby and Strapi i18n Plugin](https://dev.to/strapi/build-an-application-with-internationalization-using-gatsby-and-strapi-i18n-plugin-19df)
+- [Dev.to/JS] [Tuning Trouble](https://dev.to/rmion/tuning-trouble-4g2l)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in December 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849856381)
 - [Dev.to/JS] [React Hooks - definitive guide for beginners](https://dev.to/meatboy/react-hooks-definitive-guide-for-beginners-3817)
 - [Lifehacker] [10 of the Best Gifts for Book Enthusiasts &lpar;That Aren&#39;t Books&rpar;](https://lifehacker.com/10-of-the-best-gifts-for-book-enthusiasts-that-arent-b-1849854507)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which is the best free/paid cryptocurrency prices widget?](https://dev.to/ryjanx/which-is-the-best-freepaid-cryptocurrency-prices-widget-42id)
 - [Dev.to/JS] [Find My Free Course](https://dev.to/zainbinfurqan/find-my-free-course-3k0a)
 - [Dev.to/JS] [Nomad Security Camera](https://dev.to/nomadsecurityc2/nomad-security-camera-2hao)
-- [Dev.to/JS] [Real-time Location tracking App build with MongoDB Change Streams and Socket.io](https://dev.to/ashiqsultan/real-time-location-tracking-app-build-with-mongodb-change-streams-and-socketio-3d4i)
-- [Dev.to/JS] [Ruby on Rails Security: 8 Best Practices](https://dev.to/solutelabs/ruby-on-rails-security-8-best-practices-4pe1)
-- [Dev.to/JS] [How I build Register and Login page using Supabase](https://dev.to/surajondev/how-i-build-register-and-login-page-using-supabase-5h43)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
-- [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
-- [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)<!-- TECH-POSTS:END -->
 
 ---
 
