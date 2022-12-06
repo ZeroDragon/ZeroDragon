@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Electronics And Communication Engineering Projects](https://dev.to/arunprakash142/electronics-and-communication-engineering-projects-25pm)
+- [Dev.to/JS] [We built MERN stack book discovery platform](https://dev.to/isaacyeock1994/we-built-mern-stack-book-discovery-platform-59n1)
+- [Dev.to/JS] [Client side error exception](https://dev.to/negi789/client-side-error-exception-52j6)
 - [Dev.to/JS] [Frontend Machine Coding Interview | Video Explanation | HTML | CSS | Javascript](https://dev.to/vj98/frontend-machine-coding-interview-video-explanation-html-css-javascript-4f8n)
 - [Dev.to/JS] [Revisiting Postgres](https://dev.to/kunaljaydesai/revisiting-postgres-3ncd)
 - [Dev.to/JS] [ElectronJS for Beginners](https://dev.to/b1bxonty/electronjs-for-beginners-56f5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple State Management with RxJS — a To-do List example](https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m)
 - [Dev.to/JS] [代码随想录day21 | 530. Minimum Absolute Difference in BST, 501. Find Mode in BST, 236. Lowest Common Ancestor of a Binary Tree](https://dev.to/986913/dai-ma-sui-xiang-lu-day21-530-minimum-absolute-difference-in-bst-501-find-mode-in-bst-236-lowest-common-ancestor-of-a-binary-tree-1294)
 - [Dev.to/JS] [JavaScript callback functions explained in plain English](https://dev.to/geomukkath/javascript-callback-functions-explained-in-plain-english-3n6e)
-- [Dev.to/JS] [Svelte beats react: faster, simpler, and better for your next web app!](https://dev.to/fershopls/svelte-beats-react-faster-simpler-and-better-for-your-next-web-app-1i77)
-- [Dev.to/JS] [Advent.js🎅🏼| Reto #4: Una caja dentro de otra caja y otra...](https://dev.to/duxtech/adventjs-reto-4-una-caja-dentro-de-otra-caja-y-otra-2nd4)
-- [Dev.to/JS] [My Journey Through Array Iteration Methods](https://dev.to/creasser/my-journey-through-array-iteration-methods-41pj)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
