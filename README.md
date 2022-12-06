@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Still &lpar;Probably&rpar; Make a Killing on I Bonds](https://lifehacker.com/you-can-still-probably-make-a-killing-on-i-bonds-1849855295)
+- [Dev.to/JS] [Why use NextJS?](https://dev.to/qbentil/why-use-nextjs-mn3)
+- [Dev.to/JS] [Find Minimum in Rotated Sorted Array](https://dev.to/zeeshanali0704/find-minimum-in-rotated-sorted-array-7c8)
+- [Dev.to/JS] [Mocking Error, Empty and Loading states with MSW](https://dev.to/cathalmacdonnacha/mocking-error-empty-and-loading-states-with-msw-1255)
 - [Dev.to/JS] [Which is the best free/paid cryptocurrency prices widget?](https://dev.to/ryjanx/which-is-the-best-freepaid-cryptocurrency-prices-widget-42id)
 - [Dev.to/JS] [Find My Free Course](https://dev.to/zainbinfurqan/find-my-free-course-3k0a)
 - [Dev.to/JS] [Nomad Security Camera](https://dev.to/nomadsecurityc2/nomad-security-camera-2hao)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript puzzle oneliner - get unique values from list](https://dev.to/jankapunkt/javascript-puzzle-oneliner-get-unique-values-from-list-4iap)
 - [Dev.to/JS] [How To Handle Scroll Events In JavaScript](https://dev.to/nnekajenny/how-to-handle-scroll-events-in-javascript-2jne)
 - [Dev.to/JS] [I&#39;m having trouble merging arrays in reactjs](https://dev.to/dducnv0712/im-having-trouble-merging-arrays-in-reactjs-1jpp)
-- [Dev.to/JS] [Solving day 06 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-06-of-advent-of-code-2022-in-javascript-2l24)
-- [Dev.to/JS] [Unit Testing of React Apps using JEST.](https://dev.to/danrez_/unit-testing-of-react-apps-using-jest-2nl9)
-- [Dev.to/JS] [Electronics And Communication Engineering Projects](https://dev.to/arunprakash142/electronics-and-communication-engineering-projects-25pm)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
 - [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
 - [Lifehacker] [How to Sharpen a Knife With a Whet Stone](https://lifehacker.com/how-to-sharpen-a-knife-with-a-whet-stone-1849848333)
-- [Lifehacker] [16 of the Best Gifts for the Fitness Fanatic&#39;s Gym Bag](https://lifehacker.com/16-of-the-best-gifts-for-the-fitness-fanatics-gym-bag-1849847762)
-- [Lifehacker] [This Tuna Mayo Rice Bowl Is the Best WFH Lunch](https://lifehacker.com/this-tuna-mayo-rice-bowl-is-the-best-wfh-lunch-1849847558)<!-- TECH-POSTS:END -->
+- [Lifehacker] [16 of the Best Gifts for the Fitness Fanatic&#39;s Gym Bag](https://lifehacker.com/16-of-the-best-gifts-for-the-fitness-fanatics-gym-bag-1849847762)<!-- TECH-POSTS:END -->
 
 ---
 
