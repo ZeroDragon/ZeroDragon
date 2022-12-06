@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [kerassentials - Nail Fungus Results, Uses, Price, Reviews And Benefits?](https://dev.to/kerassentials4/kerassentials-nail-fungus-results-uses-price-reviews-and-benefits-4nh6)
 - [Dev.to/JS] [Understanding the keyword “this” in JavaScript](https://dev.to/onwuemene/understanding-the-keyword-this-in-javascript-2c8o)
 - [Dev.to/JS] [Simple State Management with RxJS — a To-do List example](https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m)
 - [Dev.to/JS] [代码随想录day21 | 530. Minimum Absolute Difference in BST, 501. Find Mode in BST, 236. Lowest Common Ancestor of a Binary Tree](https://dev.to/986913/dai-ma-sui-xiang-lu-day21-530-minimum-absolute-difference-in-bst-501-find-mode-in-bst-236-lowest-common-ancestor-of-a-binary-tree-1294)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Dev.to/JS] [NodeJS Buffer module](https://dev.to/hellonehha/nodejs-buffer-module-3o60)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
-- [Dev.to/JS] [NODE.JS: Interview Questions](https://dev.to/mitchiemt11/nodejs-interview-questions-mlp)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
 - [Lifehacker] [How to Instantly Measure Someone&#39;s Height on Your iPhone](https://lifehacker.com/how-to-instantly-measure-someones-height-on-your-iphone-1849854921)
 - [Lifehacker] [Never Vacuum Up These Common Household Messes](https://lifehacker.com/never-vacuum-up-these-common-household-messes-1849853932)
