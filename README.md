@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Release 0.4 Planning](https://dev.to/rudychung/release-04-planning-3ip8)
+- [Lifehacker] [A Complete Guide to Selling Stock Photos, Videos, and Music](https://lifehacker.com/a-complete-guide-to-selling-stock-photos-videos-and-m-1849859140)
 - [Lifehacker] [Fix Your Own Wobbly Toilet Seat](https://lifehacker.com/fix-your-own-wobbly-toilet-seat-1849857567)
 - [Dev.to/JS] [Code faster with custom VScode snippets](https://dev.to/antoine_m/code-faster-with-custom-vscode-snippets-4j79)
 - [Dev.to/JS] [OSD600 r0.4 progress](https://dev.to/dadolhay/osd600-r04-progress-3612)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in December 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849856381)
 - [Dev.to/JS] [React Hooks - definitive guide for beginners](https://dev.to/meatboy/react-hooks-definitive-guide-for-beginners-3817)
 - [Lifehacker] [10 of the Best Gifts for Book Enthusiasts &lpar;That Aren&#39;t Books&rpar;](https://lifehacker.com/10-of-the-best-gifts-for-book-enthusiasts-that-arent-b-1849854507)
-- [Dev.to/JS] [10+ Must Use Static Site Generator 2023](https://dev.to/theme_selection/static-site-generator-1fp4)
 - [Lifehacker] [You Can Still &lpar;Probably&rpar; Make a Killing on I Bonds](https://lifehacker.com/you-can-still-probably-make-a-killing-on-i-bonds-1849855295)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop &#39;Gaslighting&#39; Your Kids](https://lifehacker.com/stop-gaslighting-your-kids-1849852275)
 - [Lifehacker] [11 of the Best Gifts for Amateur Astronomers](https://lifehacker.com/11-of-the-best-gifts-for-amateur-astronomers-1849849765)
 - [Lifehacker] [The Difference Between Plant Food and Fertilizer](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
-- [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
-- [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)<!-- TECH-POSTS:END -->
 
 ---
 
