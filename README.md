@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript callback functions explained in plain English](https://dev.to/geomukkath/javascript-callback-functions-explained-in-plain-english-3n6e)
+- [Dev.to/JS] [Svelte beats react: faster, simpler, and better for your next web app!](https://dev.to/fershopls/svelte-beats-react-faster-simpler-and-better-for-your-next-web-app-1i77)
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #4: Una caja dentro de otra caja y otra...](https://dev.to/duxtech/adventjs-reto-4-una-caja-dentro-de-otra-caja-y-otra-2nd4)
 - [Dev.to/JS] [My Journey Through Array Iteration Methods](https://dev.to/creasser/my-journey-through-array-iteration-methods-41pj)
 - [Dev.to/JS] [tsParticles 2.6.0 Released](https://dev.to/tsparticles/tsparticles-260-released-7l8)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build serverless AWS announcements email service with AWS Application Composer and AWS SAM](https://dev.to/aws-builders/build-serverless-aws-announcements-email-service-with-aws-application-composer-and-aws-sam-2e74)
 - [Lifehacker] [Never Vacuum Up These Common Household Messes](https://lifehacker.com/never-vacuum-up-these-common-household-messes-1849853932)
 - [Dev.to/JS] [Inside Javascript Hoisting](https://dev.to/mihirverma7781/inside-javascript-hoisting-304o)
-- [Dev.to/JS] [Using Node.js to steal £10,000: Introduction](https://dev.to/gleroux/introduction-16i5)
 - [Lifehacker] [The Cheap Way to Update Christmas Ornaments, According to TikTok](https://lifehacker.com/the-cheap-way-to-update-christmas-ornaments-according-1849854018)
-- [Dev.to/JS] [Projects you can build as a frontend web developer newbie](https://dev.to/salmandotweb/projects-you-can-build-as-a-frontend-web-developer-newbie-35lm)
 - [Lifehacker] [Listen to Your Farts](https://lifehacker.com/listen-to-your-farts-1849853421)
 - [Lifehacker] [Stop Buying Bad &#39;Cashmere&#39; Sweaters](https://lifehacker.com/stop-buying-bad-cashmere-sweaters-1849854041)
 - [Lifehacker] [Delete These Malware Apps From Your Android ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-asap-1849854104)
