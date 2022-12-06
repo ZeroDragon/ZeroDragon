@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the keyword “this” in JavaScript](https://dev.to/onwuemene/understanding-the-keyword-this-in-javascript-2c8o)
+- [Dev.to/JS] [Simple State Management with RxJS — a To-do List example](https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m)
+- [Dev.to/JS] [代码随想录day21 | 530. Minimum Absolute Difference in BST, 501. Find Mode in BST, 236. Lowest Common Ancestor of a Binary Tree](https://dev.to/986913/dai-ma-sui-xiang-lu-day21-530-minimum-absolute-difference-in-bst-501-find-mode-in-bst-236-lowest-common-ancestor-of-a-binary-tree-1294)
 - [Dev.to/JS] [JavaScript callback functions explained in plain English](https://dev.to/geomukkath/javascript-callback-functions-explained-in-plain-english-3n6e)
 - [Dev.to/JS] [Svelte beats react: faster, simpler, and better for your next web app!](https://dev.to/fershopls/svelte-beats-react-faster-simpler-and-better-for-your-next-web-app-1i77)
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #4: Una caja dentro de otra caja y otra...](https://dev.to/duxtech/adventjs-reto-4-una-caja-dentro-de-otra-caja-y-otra-2nd4)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Dev.to/JS] [NODE.JS: Interview Questions](https://dev.to/mitchiemt11/nodejs-interview-questions-mlp)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
-- [Dev.to/JS] [How to record videos with puppeter](https://dev.to/phantasm0009/how-to-record-videos-with-puppeter-2fji)
 - [Lifehacker] [How to Instantly Measure Someone&#39;s Height on Your iPhone](https://lifehacker.com/how-to-instantly-measure-someones-height-on-your-iphone-1849854921)
-- [Dev.to/JS] [Build serverless AWS announcements email service with AWS Application Composer and AWS SAM](https://dev.to/aws-builders/build-serverless-aws-announcements-email-service-with-aws-application-composer-and-aws-sam-2e74)
 - [Lifehacker] [Never Vacuum Up These Common Household Messes](https://lifehacker.com/never-vacuum-up-these-common-household-messes-1849853932)
-- [Dev.to/JS] [Inside Javascript Hoisting](https://dev.to/mihirverma7781/inside-javascript-hoisting-304o)
 - [Lifehacker] [The Cheap Way to Update Christmas Ornaments, According to TikTok](https://lifehacker.com/the-cheap-way-to-update-christmas-ornaments-according-1849854018)
 - [Lifehacker] [Listen to Your Farts](https://lifehacker.com/listen-to-your-farts-1849853421)
 - [Lifehacker] [Stop Buying Bad &#39;Cashmere&#39; Sweaters](https://lifehacker.com/stop-buying-bad-cashmere-sweaters-1849854041)
