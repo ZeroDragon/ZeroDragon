@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revisiting Postgres](https://dev.to/kunaljaydesai/revisiting-postgres-3ncd)
+- [Dev.to/JS] [ElectronJS for Beginners](https://dev.to/b1bxonty/electronjs-for-beginners-56f5)
+- [Dev.to/JS] [undefined VS. null - know the difference](https://dev.to/karakaan/undefined-vs-null-know-the-difference-4d9c)
 - [Dev.to/JS] [kerassentials - Nail Fungus Results, Uses, Price, Reviews And Benefits?](https://dev.to/kerassentials4/kerassentials-nail-fungus-results-uses-price-reviews-and-benefits-4nh6)
 - [Dev.to/JS] [Understanding the keyword “this” in JavaScript](https://dev.to/onwuemene/understanding-the-keyword-this-in-javascript-2c8o)
 - [Dev.to/JS] [Simple State Management with RxJS — a To-do List example](https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advent.js🎅🏼| Reto #4: Una caja dentro de otra caja y otra...](https://dev.to/duxtech/adventjs-reto-4-una-caja-dentro-de-otra-caja-y-otra-2nd4)
 - [Dev.to/JS] [My Journey Through Array Iteration Methods](https://dev.to/creasser/my-journey-through-array-iteration-methods-41pj)
 - [Dev.to/JS] [tsParticles 2.6.0 Released](https://dev.to/tsparticles/tsparticles-260-released-7l8)
-- [Dev.to/JS] [The Art of Code Generator](https://dev.to/adam_cyclones/the-art-of-code-generator-54fa)
-- [Dev.to/JS] [Implementing reCAPTCHA in React](https://dev.to/asayerio_techblog/implementing-recaptcha-in-react-57hg)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
-- [Dev.to/JS] [NodeJS Buffer module](https://dev.to/hellonehha/nodejs-buffer-module-3o60)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
 - [Lifehacker] [How to Instantly Measure Someone&#39;s Height on Your iPhone](https://lifehacker.com/how-to-instantly-measure-someones-height-on-your-iphone-1849854921)
