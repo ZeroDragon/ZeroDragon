@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in December 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849856381)
+- [Dev.to/JS] [React Hooks - definitive guide for beginners](https://dev.to/meatboy/react-hooks-definitive-guide-for-beginners-3817)
+- [Lifehacker] [10 of the Best Gifts for Book Enthusiasts &lpar;That Aren&#39;t Books&rpar;](https://lifehacker.com/10-of-the-best-gifts-for-book-enthusiasts-that-arent-b-1849854507)
+- [Dev.to/JS] [10+ Must Use Static Site Generator 2023](https://dev.to/theme_selection/static-site-generator-1fp4)
+- [Dev.to/JS] [Find Minimum in Rotated Sorted Array II](https://dev.to/zeeshanali0704/find-minimum-in-rotated-sorted-array-ii-4ecd)
 - [Lifehacker] [You Can Still &lpar;Probably&rpar; Make a Killing on I Bonds](https://lifehacker.com/you-can-still-probably-make-a-killing-on-i-bonds-1849855295)
-- [Dev.to/JS] [Why use NextJS?](https://dev.to/qbentil/why-use-nextjs-mn3)
+- [Dev.to/JS] [Why use NextJS?](https://dev.to/documatic/why-use-nextjs-mn3)
 - [Dev.to/JS] [Find Minimum in Rotated Sorted Array](https://dev.to/zeeshanali0704/find-minimum-in-rotated-sorted-array-7c8)
 - [Dev.to/JS] [Mocking Error, Empty and Loading states with MSW](https://dev.to/cathalmacdonnacha/mocking-error-empty-and-loading-states-with-msw-1255)
 - [Dev.to/JS] [Which is the best free/paid cryptocurrency prices widget?](https://dev.to/ryjanx/which-is-the-best-freepaid-cryptocurrency-prices-widget-42id)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Real-time Location tracking App build with MongoDB Change Streams and Socket.io](https://dev.to/ashiqsultan/real-time-location-tracking-app-build-with-mongodb-change-streams-and-socketio-3d4i)
 - [Dev.to/JS] [Ruby on Rails Security: 8 Best Practices](https://dev.to/solutelabs/ruby-on-rails-security-8-best-practices-4pe1)
 - [Dev.to/JS] [How I build Register and Login page using Supabase](https://dev.to/surajondev/how-i-build-register-and-login-page-using-supabase-5h43)
-- [Dev.to/JS] [JavaScript puzzle oneliner - get unique values from list](https://dev.to/jankapunkt/javascript-puzzle-oneliner-get-unique-values-from-list-4iap)
-- [Dev.to/JS] [How To Handle Scroll Events In JavaScript](https://dev.to/nnekajenny/how-to-handle-scroll-events-in-javascript-2jne)
-- [Dev.to/JS] [I&#39;m having trouble merging arrays in reactjs](https://dev.to/dducnv0712/im-having-trouble-merging-arrays-in-reactjs-1jpp)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
 - [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
 - [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)
-- [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)
-- [Lifehacker] [How to Sharpen a Knife With a Whet Stone](https://lifehacker.com/how-to-sharpen-a-knife-with-a-whet-stone-1849848333)
-- [Lifehacker] [16 of the Best Gifts for the Fitness Fanatic&#39;s Gym Bag](https://lifehacker.com/16-of-the-best-gifts-for-the-fitness-fanatics-gym-bag-1849847762)<!-- TECH-POSTS:END -->
+- [Lifehacker] [17 of the Best Gifts for Gamers That Cost Under $50](https://lifehacker.com/17-of-the-best-gifts-for-gamers-that-cost-under-50-1849843651)<!-- TECH-POSTS:END -->
 
 ---
 
