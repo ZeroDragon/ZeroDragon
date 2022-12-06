@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript and HTML snake game tutorial: Build a simple, interactive game](https://dev.to/educative/javascript-and-html-snake-game-tutorial-build-a-simple-interactive-game-1ga1)
+- [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
+- [Dev.to/JS] [Difference between SSG and SSR](https://dev.to/manuel__dev/difference-between-ssg-and-ssr-3ffb)
+- [Dev.to/JS] [Homework: Brackets Check in JS](https://dev.to/decker67/homework-brackets-check-in-js-1bck)
+- [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
+- [Dev.to/JS] [Animated Navbar &lpar;only CSS&rpar;](https://dev.to/hecker69/animated-navbar-only-css-3j3m)
+- [Lifehacker] [Re-Crispify Stale Crackers, Chips, and Cookies in Your Oven](https://lifehacker.com/re-crispify-stale-crackers-chips-and-cookies-in-your-1849860577)
+- [Dev.to/JS] [What is ChatGPT? Will it take your jobs !?](https://dev.to/thenomadevel/what-is-chatgpt-will-it-take-your-jobs--2892)
 - [Dev.to/JS] [React: generating elements wherever you click on the screen](https://dev.to/dataseyo/react-generating-elements-wherever-you-click-on-the-screen-1jbh)
 - [Lifehacker] [Point-and-Shoot Cameras Are Back, Baby](https://lifehacker.com/point-and-shoot-cameras-are-back-baby-1849859515)
 - [Dev.to/JS] [JavaScript: 5 types of functions with 5 reasons to use each function](https://dev.to/nathannosudo/javascript-5-types-of-functions-with-5-reasons-to-use-each-function-me3)
@@ -34,14 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Most Riveting Storytelling Podcasts Running](https://lifehacker.com/12-of-the-most-riveting-storytelling-podcasts-running-1849856104)
 - [Dev.to/JS] [Stripe Glossary](https://dev.to/tier/stripe-glossary-4aed)
 - [Lifehacker] [Don&#39;t Eat This Oscar Mayer Ham, USDA Says](https://lifehacker.com/dont-eat-this-oscar-mayer-ham-usda-says-1849859469)
-- [Dev.to/JS] [Release 0.4 Planning](https://dev.to/rudychung/release-04-planning-3ip8)
 - [Lifehacker] [A Complete Guide to Selling Stock Photos, Videos, and Music](https://lifehacker.com/a-complete-guide-to-selling-stock-photos-videos-and-m-1849859140)
 - [Lifehacker] [Fix Your Own Wobbly Toilet Seat](https://lifehacker.com/fix-your-own-wobbly-toilet-seat-1849857567)
-- [Dev.to/JS] [Code faster with custom VScode snippets](https://dev.to/antoine_m/code-faster-with-custom-vscode-snippets-4j79)
-- [Dev.to/JS] [OSD600 r0.4 progress](https://dev.to/dadolhay/osd600-r04-progress-3612)
-- [Dev.to/JS] [🎄JS Advent #5 - Strict vs loose equality🎄](https://dev.to/jtlavs/js-advent-5-strict-vs-loose-equality-38h8)
 - [Lifehacker] [Don’t Miss NVIDIA’s Free ‘Portal’ Graphics Upgrade](https://lifehacker.com/don-t-miss-nvidia-s-free-portal-graphics-upgrade-1849858421)
-- [Dev.to/JS] [Invoking Legacy JavaScript from Blazor WebAssembly using the JSRuntime](https://dev.to/aztecconsulting/invoking-legacy-javascript-from-blazor-webassembly-using-the-jsruntime-1df3)
 - [Lifehacker] [Your REAL ID Procrastinating Just Paid Off](https://lifehacker.com/your-real-id-procrastinating-just-paid-off-1849858524)
 - [Lifehacker] [11 of the Best Gifts for the Green Thumb in Your Life](https://lifehacker.com/11-of-the-best-gifts-for-the-green-thumb-in-your-life-1849857506)
 - [Lifehacker] [Listing Your Apartment on Airbnb Is a Little More Legal Now](https://lifehacker.com/listing-your-apartment-on-airbnb-is-a-little-more-legal-1849853450)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Buying Bad &#39;Cashmere&#39; Sweaters](https://lifehacker.com/stop-buying-bad-cashmere-sweaters-1849854041)
 - [Lifehacker] [Delete These Malware Apps From Your Android ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-asap-1849854104)
 - [Lifehacker] [Don’t Get Hepatitis From These Recalled Frozen Berries](https://lifehacker.com/don-t-get-hepatitis-from-these-recalled-frozen-berries-1849853884)
-- [Lifehacker] [Claim Your Free PS Plus Games Before They’re Gone Forever](https://lifehacker.com/claim-your-free-ps-plus-games-before-they-re-gone-forev-1849853454)
-- [Lifehacker] [Don’t Fall for This Crypto ‘Front Running’ Scam on YouTube](https://lifehacker.com/don-t-fall-for-this-crypto-front-running-scam-on-yout-1849849521)
-- [Lifehacker] [Does Hive&#39;s Security Problem Make It Unsafe to Use?](https://lifehacker.com/does-hives-security-problem-make-it-unsafe-to-use-1849849175)
-- [Lifehacker] [Do These Things Before You Hire a Contractor for Your Next Home Repair Project](https://lifehacker.com/do-these-things-before-you-hire-a-contractor-for-your-n-1849853328)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Claim Your Free PS Plus Games Before They’re Gone Forever](https://lifehacker.com/claim-your-free-ps-plus-games-before-they-re-gone-forev-1849853454)<!-- TECH-POSTS:END -->
 
 ---
 
