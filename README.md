@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React: generating elements wherever you click on the screen](https://dev.to/dataseyo/react-generating-elements-wherever-you-click-on-the-screen-1jbh)
+- [Lifehacker] [Point-and-Shoot Cameras Are Back, Baby](https://lifehacker.com/point-and-shoot-cameras-are-back-baby-1849859515)
+- [Dev.to/JS] [JavaScript: 5 types of functions with 5 reasons to use each function](https://dev.to/nathannosudo/javascript-5-types-of-functions-with-5-reasons-to-use-each-function-me3)
+- [Dev.to/JS] [React clicker game: useState vs redux toolkit](https://dev.to/dataseyo/react-clicker-game-usestate-vs-redux-toolkit-31f)
 - [Dev.to/JS] [Ng-News: Episode 22/48 - NgRx 15, Chrome 108, FormsModule](https://dev.to/ng_news/ng-news-episode-2248-ngrx-15-chrome-108-formsmodule-3688)
 - [Lifehacker] [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)
 - [Dev.to/JS] [Create a Static Site using VitePress for Beautiful Help Documentation](https://dev.to/mbcrump/create-a-static-site-using-vitepress-for-beautiful-help-documentation-d3)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Invoking Legacy JavaScript from Blazor WebAssembly using the JSRuntime](https://dev.to/aztecconsulting/invoking-legacy-javascript-from-blazor-webassembly-using-the-jsruntime-1df3)
 - [Lifehacker] [Your REAL ID Procrastinating Just Paid Off](https://lifehacker.com/your-real-id-procrastinating-just-paid-off-1849858524)
 - [Lifehacker] [11 of the Best Gifts for the Green Thumb in Your Life](https://lifehacker.com/11-of-the-best-gifts-for-the-green-thumb-in-your-life-1849857506)
-- [Dev.to/JS] [Getting started with React](https://dev.to/codenay/getting-started-with-react-1dia)
-- [Dev.to/JS] [Impact-Driven Automation Testing For Ecommerce Websites](https://dev.to/lambdatest/impact-driven-automation-testing-for-ecommerce-websites-1gbl)
 - [Lifehacker] [Listing Your Apartment on Airbnb Is a Little More Legal Now](https://lifehacker.com/listing-your-apartment-on-airbnb-is-a-little-more-legal-1849853450)
-- [Dev.to/JS] [16-ES6++: Reflection In JavaScript](https://dev.to/hassanzohdy/16-es6-reflection-in-javascript-18p2)
 - [Lifehacker] [10 of History&#39;s Most Successful Pirates &lpar;and What They Teach Us About Work&rpar;](https://lifehacker.com/10-of-the-most-successful-pirates-and-what-they-teach-1849857211)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in December 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849856381)
 - [Lifehacker] [10 of the Best Gifts for Book Enthusiasts &lpar;That Aren&#39;t Books&rpar;](https://lifehacker.com/10-of-the-best-gifts-for-book-enthusiasts-that-arent-b-1849854507)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Claim Your Free PS Plus Games Before They’re Gone Forever](https://lifehacker.com/claim-your-free-ps-plus-games-before-they-re-gone-forev-1849853454)
 - [Lifehacker] [Don’t Fall for This Crypto ‘Front Running’ Scam on YouTube](https://lifehacker.com/don-t-fall-for-this-crypto-front-running-scam-on-yout-1849849521)
 - [Lifehacker] [Does Hive&#39;s Security Problem Make It Unsafe to Use?](https://lifehacker.com/does-hives-security-problem-make-it-unsafe-to-use-1849849175)
-- [Lifehacker] [Do These Things Before You Hire a Contractor for Your Next Home Repair Project](https://lifehacker.com/do-these-things-before-you-hire-a-contractor-for-your-n-1849853328)
-- [Lifehacker] [Stop &#39;Gaslighting&#39; Your Kids](https://lifehacker.com/stop-gaslighting-your-kids-1849852275)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do These Things Before You Hire a Contractor for Your Next Home Repair Project](https://lifehacker.com/do-these-things-before-you-hire-a-contractor-for-your-n-1849853328)<!-- TECH-POSTS:END -->
 
 ---
 
