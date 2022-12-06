@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your REAL ID Procrastinating Just Paid Off](https://lifehacker.com/your-real-id-procrastinating-just-paid-off-1849858524)
+- [Lifehacker] [11 of the Best Gifts for the Green Thumb in Your Life](https://lifehacker.com/11-of-the-best-gifts-for-the-green-thumb-in-your-life-1849857506)
+- [Dev.to/JS] [Getting started with React](https://dev.to/codenay/getting-started-with-react-1dia)
+- [Dev.to/JS] [Impact-Driven Automation Testing For Ecommerce Websites](https://dev.to/lambdatest/impact-driven-automation-testing-for-ecommerce-websites-1gbl)
+- [Lifehacker] [Listing Your Apartment on Airbnb Is a Little More Legal Now](https://lifehacker.com/listing-your-apartment-on-airbnb-is-a-little-more-legal-1849853450)
+- [Dev.to/JS] [16-ES6++: Reflection In JavaScript](https://dev.to/hassanzohdy/16-es6-reflection-in-javascript-18p2)
 - [Dev.to/JS] [Nx 15.3 - Standalone Projects, Vite, Task Graph and more!](https://dev.to/nx/nx-153-standalone-projects-vite-task-graph-and-more-49ic)
-- [Lifehacker] [10 of the Most Successful Pirates &lpar;and What They Teach Us About Work&rpar;](https://lifehacker.com/10-of-the-most-successful-pirates-and-what-they-teach-1849857211)
+- [Lifehacker] [10 of History&#39;s Most Successful Pirates &lpar;and What They Teach Us About Work&rpar;](https://lifehacker.com/10-of-the-most-successful-pirates-and-what-they-teach-1849857211)
 - [Dev.to/JS] [Build An Application With Internationalization Using Gatsby and Strapi i18n Plugin](https://dev.to/strapi/build-an-application-with-internationalization-using-gatsby-and-strapi-i18n-plugin-19df)
 - [Dev.to/JS] [Tuning Trouble](https://dev.to/rmion/tuning-trouble-4g2l)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in December 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849856381)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why use NextJS?](https://dev.to/documatic/why-use-nextjs-mn3)
 - [Dev.to/JS] [Find Minimum in Rotated Sorted Array](https://dev.to/zeeshanali0704/find-minimum-in-rotated-sorted-array-7c8)
 - [Dev.to/JS] [Mocking Error, Empty and Loading states with MSW](https://dev.to/cathalmacdonnacha/mocking-error-empty-and-loading-states-with-msw-1255)
-- [Dev.to/JS] [Which is the best free/paid cryptocurrency prices widget?](https://dev.to/ryjanx/which-is-the-best-freepaid-cryptocurrency-prices-widget-42id)
-- [Dev.to/JS] [Find My Free Course](https://dev.to/zainbinfurqan/find-my-free-course-3k0a)
-- [Dev.to/JS] [Nomad Security Camera](https://dev.to/nomadsecurityc2/nomad-security-camera-2hao)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Decomposition in DBMS – Lossless and Lossy](https://www.thecrazyprogrammer.com/2022/12/decomposition-in-dbms.html)
 - [Lifehacker] [Maybe Dogs Are Allergic to You, Have You Ever Thought of That?](https://lifehacker.com/maybe-dogs-are-allergic-to-you-have-you-ever-thought-o-1849842681)
 - [Lifehacker] [The Right Way to Get Rid of Your Old Couch](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
-- [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
-- [Lifehacker] [The Best Ways to Fix a Leaky Air Mattress Without a Patch Kit](https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829)
-- [Lifehacker] [9 of the Best Gifts for the Soccer Player on Your List](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
-- [Lifehacker] [The 7 Deadly Sins of Holiday Gift-Giving](https://lifehacker.com/the-7-deadly-sins-of-holiday-gift-giving-1849848847)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, You Need to Clean Your Artificial Christmas Tree](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)<!-- TECH-POSTS:END -->
 
 ---
 
