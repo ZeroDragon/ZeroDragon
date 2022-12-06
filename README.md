@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which is the best free/paid cryptocurrency prices widget?](https://dev.to/ryjanx/which-is-the-best-freepaid-cryptocurrency-prices-widget-42id)
+- [Dev.to/JS] [Find My Free Course](https://dev.to/zainbinfurqan/find-my-free-course-3k0a)
+- [Dev.to/JS] [Nomad Security Camera](https://dev.to/nomadsecurityc2/nomad-security-camera-2hao)
+- [Dev.to/JS] [Real-time Location tracking App build with MongoDB Change Streams and Socket.io](https://dev.to/ashiqsultan/real-time-location-tracking-app-build-with-mongodb-change-streams-and-socketio-3d4i)
 - [Dev.to/JS] [Ruby on Rails Security: 8 Best Practices](https://dev.to/solutelabs/ruby-on-rails-security-8-best-practices-4pe1)
 - [Dev.to/JS] [How I build Register and Login page using Supabase](https://dev.to/surajondev/how-i-build-register-and-login-page-using-supabase-5h43)
 - [Dev.to/JS] [JavaScript puzzle oneliner - get unique values from list](https://dev.to/jankapunkt/javascript-puzzle-oneliner-get-unique-values-from-list-4iap)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solving day 06 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-06-of-advent-of-code-2022-in-javascript-2l24)
 - [Dev.to/JS] [Unit Testing of React Apps using JEST.](https://dev.to/danrez_/unit-testing-of-react-apps-using-jest-2nl9)
 - [Dev.to/JS] [Electronics And Communication Engineering Projects](https://dev.to/arunprakash142/electronics-and-communication-engineering-projects-25pm)
-- [Dev.to/JS] [We built MERN stack book discovery platform](https://dev.to/isaacyeock1994/we-built-mern-stack-book-discovery-platform-59n1)
-- [Dev.to/JS] [Client side error exception](https://dev.to/negi789/client-side-error-exception-52j6)
-- [Dev.to/JS] [Install NVM on Mac, Windows and Linux](https://dev.to/csituma/install-nvm-on-mac-windows-and-linux-1aj9)
-- [Dev.to/JS] [Frontend Machine Coding Interview | Video Explanation | HTML | CSS | Javascript](https://dev.to/vj98/frontend-machine-coding-interview-video-explanation-html-css-javascript-4f8n)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
