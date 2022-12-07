@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Switch vs Routes in React V5 vs. V6](https://dev.to/calebmccoy04/switch-vs-routes-in-react-v5-vs-v6-2be)
+- [Dev.to/JS] [Persistencia de Datos en Javascript &lpar;LocalStorage&rpar;](https://dev.to/maxwellnewage/persistencia-de-datos-en-javascript-localstorage-419m)
+- [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
+- [Dev.to/JS] [Como enlazar vistas en Pug con ExpressJS](https://dev.to/maxwellnewage/como-enlazar-vistas-en-pug-con-expressjs-4403)
+- [Dev.to/JS] [How I Built a Vue.js Ecommerce Store with a Node.js Backend](https://dev.to/medusajs/how-i-created-a-vuejs-ecommerce-store-with-medusa-plf)
+- [Dev.to/JS] [Como crear vistas en ExpressJS](https://dev.to/maxwellnewage/como-crear-vistas-en-expressjs-2ppe)
+- [Dev.to/JS] [Integration vs Unit Testing. ELI5](https://dev.to/iamcdmx/integration-vs-unit-testing-eli5-4e71)
+- [Dev.to/JS] [Como crear una API con ExpressJS y Node](https://dev.to/maxwellnewage/como-crear-una-api-con-expressjs-y-nodejs-3hbb)
 - [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
 - [Dev.to/JS] [Javascript Higher order functions map,reduce and filter for beginners](https://dev.to/nikeshkumartk/javascript-higher-order-functions-mapreduce-and-filter-for-beginners-3f2o)
 - [Dev.to/JS] [What is JAMstack, and why you should consider it for your next project](https://dev.to/momciloo/what-is-jamstack-and-why-you-should-consider-it-for-your-next-project-4949)
@@ -31,13 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Introduction to PCI Compliance](https://dev.to/briansclubcc/httpsforumxda-developerscomtdumps-ccv-and-fullz-updated3181800-1hjd)
 - [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
 - [Dev.to/JS] [DEVCODE - Grow, Share and Connect with Developers. MongoDB Hackathon Submission On Dev](https://dev.to/devarshishimpi/devcode-grow-share-and-connect-with-developers-mongodb-hackathon-submission-on-dev-4lo4)
-- [Dev.to/JS] [10+ Best React Codebase Generators](https://dev.to/flatlogic/10-best-react-codebase-generators-4j3a)
-- [Dev.to/JS] [Web Scraping Yelp.com](https://dev.to/serpdogapi/web-scraping-yelpcom-187i)
-- [Dev.to/JS] [Do You Need A Text Editor For Your React Web App?](https://dev.to/ideradevtools/do-you-need-a-text-editor-for-your-react-web-app-5947)
-- [Dev.to/JS] [Regroot - Search Job Listings &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/sidjs/regroot-search-job-listings-2j4j)
-- [Dev.to/JS] [Use console.log&lpar;&rpar; like a pro](https://dev.to/rahul3002/use-consolelog-like-a-pro-3leg)
-- [Dev.to/JS] [I’ve Got 99 Problems but Learning TypeScript Ain’t One](https://dev.to/codewithvoid/ive-got-99-problems-but-learning-typescript-aint-one-o70)
-- [Dev.to/JS] [Solving day 07 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-07-of-advent-of-code-2022-in-javascript-4ldm)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
 - [Lifehacker] [How to Instantly Measure Someone&#39;s Height on Your iPhone](https://lifehacker.com/how-to-instantly-measure-someones-height-on-your-iphone-1849854921)
 - [Lifehacker] [Never Vacuum Up These Common Household Messes](https://lifehacker.com/never-vacuum-up-these-common-household-messes-1849853932)
-- [Lifehacker] [The Cheap Way to Update Christmas Ornaments, According to TikTok](https://lifehacker.com/the-cheap-way-to-update-christmas-ornaments-according-1849854018)
-- [Lifehacker] [Listen to Your Farts](https://lifehacker.com/listen-to-your-farts-1849853421)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Cheap Way to Update Christmas Ornaments, According to TikTok](https://lifehacker.com/the-cheap-way-to-update-christmas-ornaments-according-1849854018)<!-- TECH-POSTS:END -->
 
 ---
 
