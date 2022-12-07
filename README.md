@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Solved] error: package com.facebook.react.bridge does not exist](https://dev.to/perfectans/solved-error-package-comfacebookreactbridge-does-not-exist-2b6m)
 - [Dev.to/JS] [3 Ways To Optimize Lists Rendering](https://dev.to/serhii_kucherenko/3-ways-to-optimize-lists-rendering-59gh)
 - [Dev.to/JS] [In case of error redirect to your mirror at archive.org](https://dev.to/digfish/in-case-of-error-redirect-to-your-mirror-at-archiveorg-44h7)
 - [Dev.to/JS] [代码随想录day22 | 235. Lowest Common Ancestor of a BST, 701. Insert into a Binary Search Tree, 450. Delete Node in a BST](https://dev.to/986913/dai-ma-sui-xiang-lu-day22-235-lowest-common-ancestor-of-a-bst-701-insert-into-a-binary-search-tree-22fo)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to React Email &lpar;react.email&rpar;](https://dev.to/elliot_brenyasarfo_18749/introduction-to-react-email-reactemail-530h)
 - [Dev.to/JS] [Understanding XSS with ChatGPT](https://dev.to/bscript/understanding-xss-with-chatgpt-2l5d)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
-- [Dev.to/JS] [Electron Chat App Tutorial: Building a Desktop Chat App](https://dev.to/alakkadshaw/electron-chat-app-tutorial-building-a-desktop-chat-app-352p)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
 - [Lifehacker] [Re-Crispify Stale Crackers, Chips, and Cookies in Your Oven](https://lifehacker.com/re-crispify-stale-crackers-chips-and-cookies-in-your-1849860577)
