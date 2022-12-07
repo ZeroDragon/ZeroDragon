@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Prue Leith&#39;s Favorite Low-Fuss, High-Happiness Dessert](https://lifehacker.com/prue-leiths-favorite-low-fuss-high-happiness-dessert-1849864864)
+- [Dev.to/JS] [13. Roman to Integer - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/13-roman-to-integer-javascript-solution-by-abu-saleh-faysal-20ka)
+- [Lifehacker] [Make a Disinfectant Using Your Christmas Tree](https://lifehacker.com/make-a-disinfectant-using-your-christmas-tree-1849865101)
+- [Lifehacker] [12 White Elephant Gifts That Are Just Barely Appropriate](https://lifehacker.com/12-white-elephant-gifts-that-are-just-barely-appropriat-1849864639)
 - [Lifehacker] [Here’s What Happens When You Don’t Clean Your Bellybutton](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424)
 - [Lifehacker] [Make Sad, Dusty Granola Better With Butter](https://lifehacker.com/make-sad-dusty-granola-better-with-butter-1849864603)
 - [Lifehacker] [No, Metallica Isn&#39;t Giving Away Free Crypto](https://lifehacker.com/no-metallica-isnt-giving-away-free-crypto-1849864418)
@@ -43,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Persistencia de Datos en Javascript &lpar;LocalStorage&rpar;](https://dev.to/maxwellnewage/persistencia-de-datos-en-javascript-localstorage-419m)
 - [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
 - [Dev.to/JS] [Como enlazar vistas en Pug con ExpressJS](https://dev.to/maxwellnewage/como-enlazar-vistas-en-pug-con-expressjs-4403)
-- [Dev.to/JS] [How I Built a Vue.js Ecommerce Store with a Node.js Backend](https://dev.to/medusajs/how-i-created-a-vuejs-ecommerce-store-with-medusa-plf)
 - [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
 - [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)
 - [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fix Your Own Wobbly Toilet Seat](https://lifehacker.com/fix-your-own-wobbly-toilet-seat-1849857567)
 - [Lifehacker] [Don’t Miss NVIDIA’s Free ‘Portal’ Graphics Upgrade](https://lifehacker.com/don-t-miss-nvidia-s-free-portal-graphics-upgrade-1849858421)
 - [Lifehacker] [Your REAL ID Procrastinating Just Paid Off](https://lifehacker.com/your-real-id-procrastinating-just-paid-off-1849858524)
-- [Lifehacker] [11 of the Best Gifts for the Green Thumb in Your Life](https://lifehacker.com/11-of-the-best-gifts-for-the-green-thumb-in-your-life-1849857506)
-- [Lifehacker] [Listing Your Apartment on Airbnb Is a Little More Legal Now](https://lifehacker.com/listing-your-apartment-on-airbnb-is-a-little-more-legal-1849853450)
-- [Lifehacker] [10 of History&#39;s Most Successful Pirates &lpar;and What They Teach Us About Work&rpar;](https://lifehacker.com/10-of-the-most-successful-pirates-and-what-they-teach-1849857211)
-- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in December 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849856381)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 of the Best Gifts for the Green Thumb in Your Life](https://lifehacker.com/11-of-the-best-gifts-for-the-green-thumb-in-your-life-1849857506)<!-- TECH-POSTS:END -->
 
 ---
 
