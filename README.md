@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
+- [Dev.to/JS] [Javascript Higher order functions map,reduce and filter for beginners](https://dev.to/nikeshkumartk/javascript-higher-order-functions-mapreduce-and-filter-for-beginners-3f2o)
+- [Dev.to/JS] [What is JAMstack, and why you should consider it for your next project](https://dev.to/momciloo/what-is-jamstack-and-why-you-should-consider-it-for-your-next-project-4949)
+- [Dev.to/JS] [3 ways to add npm package in your chrome extension.](https://dev.to/anilkumarum/3-ways-to-add-npm-package-in-chrome-extension-3e3b)
+- [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)
+- [Dev.to/JS] [An Introduction to PCI Compliance](https://dev.to/briansclubcc/httpsforumxda-developerscomtdumps-ccv-and-fullz-updated3181800-1hjd)
 - [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
 - [Dev.to/JS] [DEVCODE - Grow, Share and Connect with Developers. MongoDB Hackathon Submission On Dev](https://dev.to/devarshishimpi/devcode-grow-share-and-connect-with-developers-mongodb-hackathon-submission-on-dev-4lo4)
 - [Dev.to/JS] [10+ Best React Codebase Generators](https://dev.to/flatlogic/10-best-react-codebase-generators-4j3a)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use console.log&lpar;&rpar; like a pro](https://dev.to/rahul3002/use-consolelog-like-a-pro-3leg)
 - [Dev.to/JS] [I’ve Got 99 Problems but Learning TypeScript Ain’t One](https://dev.to/codewithvoid/ive-got-99-problems-but-learning-typescript-aint-one-o70)
 - [Dev.to/JS] [Solving day 07 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-07-of-advent-of-code-2022-in-javascript-4ldm)
-- [Dev.to/JS] [HOW TO CREATE CUSTOM INPUT COMPONENTS WITH FORMIK, YUP AND MATERIAL-UI](https://dev.to/isiakaabd/how-to-create-custom-input-components-with-formik-yup-and-material-ui-4oh9)
-- [Dev.to/JS] [Sending SMS with nodejs using sendchamp SMS API](https://dev.to/sadiqful/sending-sms-with-nodejs-using-sendchamp-sms-api-482m)
-- [Dev.to/JS] [Proven Ways to Improve &amp; Boost React Performance](https://dev.to/rachgrey/proven-ways-to-improve-boost-react-performance-49bb)
-- [Dev.to/JS] [5 Tips for Using React Table](https://dev.to/omerwow/5-tips-for-using-react-table-1779)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Instantly Measure Someone&#39;s Height on Your iPhone](https://lifehacker.com/how-to-instantly-measure-someones-height-on-your-iphone-1849854921)
 - [Lifehacker] [Never Vacuum Up These Common Household Messes](https://lifehacker.com/never-vacuum-up-these-common-household-messes-1849853932)
 - [Lifehacker] [The Cheap Way to Update Christmas Ornaments, According to TikTok](https://lifehacker.com/the-cheap-way-to-update-christmas-ornaments-according-1849854018)
-- [Lifehacker] [Listen to Your Farts](https://lifehacker.com/listen-to-your-farts-1849853421)
-- [Lifehacker] [Stop Buying Bad &#39;Cashmere&#39; Sweaters](https://lifehacker.com/stop-buying-bad-cashmere-sweaters-1849854041)
-- [Lifehacker] [Delete These Malware Apps From Your Android ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-asap-1849854104)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Listen to Your Farts](https://lifehacker.com/listen-to-your-farts-1849853421)<!-- TECH-POSTS:END -->
 
 ---
 
