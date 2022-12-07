@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Functions](https://dev.to/armenzet/js-functions-d96)
+- [Dev.to/JS] [Data Structures using JavaScript for beginners](https://dev.to/meatboy/definitive-guide-to-data-structures-using-javascript-for-beginners-1ea9)
 - [Dev.to/JS] [5 Addictive games to learn Web Development](https://dev.to/freebeliever/5-addictive-games-to-learn-web-development-1f6c)
 - [Dev.to/JS] [I Build an Uninstallation Tracker](https://dev.to/riyadhossain/i-build-an-uninstallation-tracker-4pm3)
 - [Dev.to/JS] [Exploring the benefits of using Appwrite over Firebase](https://dev.to/jibrilmohamod/exploring-the-benefits-of-using-appwrite-over-firebase-h6e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My New Design for my portfolio](https://dev.to/ahmed_onour/my-new-design-for-my-portfolio-2o7g)
 - [Dev.to/JS] [How to add an emoji picker in React](https://dev.to/coder4_life/how-to-add-an-emoji-picker-in-react-4504)
 - [Dev.to/JS] [Building a Real-Time Chat App with React and Socket.io](https://dev.to/nftslab/building-a-real-time-chat-app-with-react-and-socketio-d15)
-- [Dev.to/JS] [The horror of useEffect](https://dev.to/uponthesky/the-horror-of-useeffect-3op8)
-- [Dev.to/JS] [What is ChatGPT? Will it take your jobs !?](https://dev.to/thenomadevel/what-is-chatgpt-will-it-take-your-jobs--2508)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
