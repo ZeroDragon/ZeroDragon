@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn ECMAScript 6 from Beginner to advanced 🚀](https://dev.to/ernerdo/learn-ecmascript-6-from-beginner-to-advanced-hm2)
+- [Dev.to/JS] [Bun.js](https://dev.to/ahmed_onour/bunjs-1gj5)
 - [Dev.to/JS] [How To Convert Binary, Octal, and Hexadecimal into Decimals in JavaScript](https://dev.to/mkday/how-to-convert-binary-octal-and-hexadecimal-into-decimals-in-javascript-2dpg)
 - [Dev.to/JS] [[Solved] error: package com.facebook.react.bridge does not exist](https://dev.to/perfectans/solved-error-package-comfacebookreactbridge-does-not-exist-2b6m)
 - [Dev.to/JS] [3 Ways To Optimize Lists Rendering](https://dev.to/serhii_kucherenko/3-ways-to-optimize-lists-rendering-59gh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meta-Script :: A meta-language for the Meta-OS &lpar;GreyOS&rpar;](https://dev.to/g0d/meta-script-a-meta-language-for-the-meta-os-greyos-44ni)
 - [Dev.to/JS] [PHAISTOS - A generalized data exchange framework and validation tool](https://dev.to/g0d/phaistos-a-generalized-data-exchange-framework-and-validation-tool-3pin)
 - [Dev.to/JS] [Learning TypeScript ep.1](https://dev.to/tmontobbio/learning-typescript-ep1-l42)
-- [Dev.to/JS] [Why Reading Documentation is Important](https://dev.to/gatesvert81/why-reading-documentation-is-important-9k3)
-- [Dev.to/JS] [Introduction to React Email &lpar;react.email&rpar;](https://dev.to/elliot_brenyasarfo_18749/introduction-to-react-email-reactemail-530h)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
