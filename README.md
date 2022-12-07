@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Secret to Clean and Efficient Code: How to Denest Your Code](https://dev.to/naubit/the-secret-to-clean-and-efficient-code-how-to-denest-your-code-af1)
+- [Dev.to/JS] [Setting up MongoDB and Mongoose for your project](https://dev.to/danielstai/setting-up-mongodb-and-mongoose-for-your-project-5bob)
+- [Dev.to/JS] [Lifeline Keto Gummies - Fat Loss Solution, Price, Benefits And Reviews?](https://dev.to/keto_lifeline/lifeline-keto-gummies-fat-loss-solution-price-benefits-and-reviews-1j61)
+- [Dev.to/JS] [Revision on JavaScript arrays and it&#39;s operations.](https://dev.to/jagveergagaan/revision-on-javascript-arrays-and-its-operations-44ni)
+- [Dev.to/JS] [Better two factor authentication experiences with WebOTP](https://dev.to/philnash/better-two-factor-authentication-experiences-with-webotp-1ncm)
 - [Dev.to/JS] [Learn ECMAScript 6 from Beginner to advanced 🚀](https://dev.to/ernerdo/learn-ecmascript-6-from-beginner-to-advanced-hm2)
 - [Dev.to/JS] [Bun.js](https://dev.to/ahmed_onour/bunjs-1gj5)
 - [Dev.to/JS] [How To Convert Binary, Octal, and Hexadecimal into Decimals in JavaScript](https://dev.to/mkday/how-to-convert-binary-octal-and-hexadecimal-into-decimals-in-javascript-2dpg)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Ways To Optimize Lists Rendering](https://dev.to/serhii_kucherenko/3-ways-to-optimize-lists-rendering-59gh)
 - [Dev.to/JS] [In case of error redirect to your mirror at archive.org](https://dev.to/digfish/in-case-of-error-redirect-to-your-mirror-at-archiveorg-44h7)
 - [Dev.to/JS] [代码随想录day22 | 235. Lowest Common Ancestor of a BST, 701. Insert into a Binary Search Tree, 450. Delete Node in a BST](https://dev.to/986913/dai-ma-sui-xiang-lu-day22-235-lowest-common-ancestor-of-a-bst-701-insert-into-a-binary-search-tree-22fo)
-- [Dev.to/JS] [Introducing: Siteit v1.0.6](https://dev.to/tdaw/introducing-siteit-v106-51p2)
-- [Dev.to/JS] [JavaScript Test #1: Arrays](https://dev.to/nathannosudo/javascript-test-1-arrays-1h03)
-- [Dev.to/JS] [Meta-Script :: A meta-language for the Meta-OS &lpar;GreyOS&rpar;](https://dev.to/g0d/meta-script-a-meta-language-for-the-meta-os-greyos-44ni)
-- [Dev.to/JS] [PHAISTOS - A generalized data exchange framework and validation tool](https://dev.to/g0d/phaistos-a-generalized-data-exchange-framework-and-validation-tool-3pin)
-- [Dev.to/JS] [Learning TypeScript ep.1](https://dev.to/tmontobbio/learning-typescript-ep1-l42)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
