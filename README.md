@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [No, Metallica Isn&#39;t Giving Away Free Crypto](https://lifehacker.com/no-metallica-isnt-giving-away-free-crypto-1849864418)
+- [Lifehacker] [Use This Shortcut to Search Your Chrome Tabs, Bookmarks, and History](https://lifehacker.com/use-this-shortcut-to-search-your-chrome-tabs-bookmarks-1849863963)
 - [Dev.to/JS] [Easiest way to add HMR in your chrome extension](https://dev.to/anilkumarum/easiest-way-to-add-hmr-in-your-chrome-extension-3898)
 - [Dev.to/JS] [Quickest JS string generator](https://dev.to/kradford/quickest-js-string-generator-3ndf)
 - [Lifehacker] [How to Prevent &#39;Human-Giver Syndrome&#39; This Holiday Season](https://lifehacker.com/how-to-prevent-human-giver-syndrome-this-holiday-season-1849862145)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of History&#39;s Most Successful Pirates &lpar;and What They Teach Us About Work&rpar;](https://lifehacker.com/10-of-the-most-successful-pirates-and-what-they-teach-1849857211)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in December 2022](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1849856381)
 - [Lifehacker] [10 of the Best Gifts for Book Enthusiasts &lpar;That Aren&#39;t Books&rpar;](https://lifehacker.com/10-of-the-best-gifts-for-book-enthusiasts-that-arent-b-1849854507)
-- [Lifehacker] [You Can Still &lpar;Probably&rpar; Make a Killing on I Bonds](https://lifehacker.com/you-can-still-probably-make-a-killing-on-i-bonds-1849855295)
-- [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
-- [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Still &lpar;Probably&rpar; Make a Killing on I Bonds](https://lifehacker.com/you-can-still-probably-make-a-killing-on-i-bonds-1849855295)<!-- TECH-POSTS:END -->
 
 ---
 
