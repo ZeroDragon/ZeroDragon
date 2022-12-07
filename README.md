@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
 - [Lifehacker] [Prue Leith&#39;s Favorite Low-Fuss, High-Happiness Dessert](https://lifehacker.com/prue-leiths-favorite-low-fuss-high-happiness-dessert-1849864864)
 - [Dev.to/JS] [13. Roman to Integer - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/13-roman-to-integer-javascript-solution-by-abu-saleh-faysal-20ka)
 - [Lifehacker] [Make a Disinfectant Using Your Christmas Tree](https://lifehacker.com/make-a-disinfectant-using-your-christmas-tree-1849865101)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Complete Guide to Selling Stock Photos, Videos, and Music](https://lifehacker.com/a-complete-guide-to-selling-stock-photos-videos-and-m-1849859140)
 - [Lifehacker] [Fix Your Own Wobbly Toilet Seat](https://lifehacker.com/fix-your-own-wobbly-toilet-seat-1849857567)
 - [Lifehacker] [Don’t Miss NVIDIA’s Free ‘Portal’ Graphics Upgrade](https://lifehacker.com/don-t-miss-nvidia-s-free-portal-graphics-upgrade-1849858421)
-- [Lifehacker] [Your REAL ID Procrastinating Just Paid Off](https://lifehacker.com/your-real-id-procrastinating-just-paid-off-1849858524)
-- [Lifehacker] [11 of the Best Gifts for the Green Thumb in Your Life](https://lifehacker.com/11-of-the-best-gifts-for-the-green-thumb-in-your-life-1849857506)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your REAL ID Procrastinating Just Paid Off](https://lifehacker.com/your-real-id-procrastinating-just-paid-off-1849858524)<!-- TECH-POSTS:END -->
 
 ---
 
