@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sending SMS with nodejs using sendchamp SMS API](https://dev.to/sadiqful/sending-sms-with-nodejs-using-sendchamp-sms-api-482m)
+- [Dev.to/JS] [Proven Ways to Improve &amp; Boost React Performance](https://dev.to/rachgrey/proven-ways-to-improve-boost-react-performance-49bb)
+- [Dev.to/JS] [5 Tips for Using React Table](https://dev.to/omerwow/5-tips-for-using-react-table-1779)
 - [Dev.to/JS] [JS Functions](https://dev.to/armenzet/js-functions-d96)
 - [Dev.to/JS] [Data Structures using JavaScript for beginners](https://dev.to/meatboy/definitive-guide-to-data-structures-using-javascript-for-beginners-1ea9)
 - [Dev.to/JS] [5 Addictive games to learn Web Development](https://dev.to/freebeliever/5-addictive-games-to-learn-web-development-1f6c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debugging and Error Tracing in Playwright](https://dev.to/jankaritech/debugging-and-error-tracing-in-playwright-516o)
 - [Dev.to/JS] [Amazing Things You Can Do with JavaScript](https://dev.to/denis_miriti/amazing-things-you-can-do-with-javascript-1mc)
 - [Dev.to/JS] [React Efficiency with React.memo](https://dev.to/catur/react-efficiency-with-reactmemo-3moc)
-- [Dev.to/JS] [My New Design for my portfolio](https://dev.to/ahmed_onour/my-new-design-for-my-portfolio-2o7g)
-- [Dev.to/JS] [How to add an emoji picker in React](https://dev.to/coder4_life/how-to-add-an-emoji-picker-in-react-4504)
-- [Dev.to/JS] [Building a Real-Time Chat App with React and Socket.io](https://dev.to/nftslab/building-a-real-time-chat-app-with-react-and-socketio-d15)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
