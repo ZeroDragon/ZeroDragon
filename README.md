@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Addictive games to learn Web Development](https://dev.to/freebeliever/5-addictive-games-to-learn-web-development-1f6c)
+- [Dev.to/JS] [I Build an Uninstallation Tracker](https://dev.to/riyadhossain/i-build-an-uninstallation-tracker-4pm3)
 - [Dev.to/JS] [Exploring the benefits of using Appwrite over Firebase](https://dev.to/jibrilmohamod/exploring-the-benefits-of-using-appwrite-over-firebase-h6e)
 - [Dev.to/JS] [Top 10 React UI Frameworks to Build Web Applications](https://dev.to/katleenbrown440/top-10-react-ui-frameworks-to-build-web-applications-17po)
 - [Dev.to/JS] [Debugging and Error Tracing in Playwright](https://dev.to/jankaritech/debugging-and-error-tracing-in-playwright-516o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Real-Time Chat App with React and Socket.io](https://dev.to/nftslab/building-a-real-time-chat-app-with-react-and-socketio-d15)
 - [Dev.to/JS] [The horror of useEffect](https://dev.to/uponthesky/the-horror-of-useeffect-3op8)
 - [Dev.to/JS] [What is ChatGPT? Will it take your jobs !?](https://dev.to/thenomadevel/what-is-chatgpt-will-it-take-your-jobs--2508)
-- [Dev.to/JS] [Build a REST API with Node JS &amp; Express for Beginner](https://dev.to/bipon68/build-a-rest-api-with-node-js-express-for-beginner-4eom)
-- [Dev.to/JS] [Ifc web converter](https://dev.to/jonloo/ifc-web-converter-239c)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
