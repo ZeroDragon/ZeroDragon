@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easiest way to add HMR in your chrome extension](https://dev.to/anilkumarum/easiest-way-to-add-hmr-in-your-chrome-extension-3898)
+- [Dev.to/JS] [Quickest JS string generator](https://dev.to/kradford/quickest-js-string-generator-3ndf)
+- [Lifehacker] [How to Prevent &#39;Human-Giver Syndrome&#39; This Holiday Season](https://lifehacker.com/how-to-prevent-human-giver-syndrome-this-holiday-season-1849862145)
+- [Dev.to/JS] [The binary option scam](https://dev.to/tony93/the-binary-option-scam-3cli)
 - [Lifehacker] [10 of the Hottest Holiday Gift Ideas for Kids](https://lifehacker.com/10-of-the-hottest-holiday-gift-ideas-for-kids-1849861941)
 - [Dev.to/JS] [Avoiding Common Pitfalls when Working with React JS 🚫](https://dev.to/namanvyas/avoiding-common-pitfalls-when-working-with-react-js-58pp)
 - [Lifehacker] [How to Manage Your Anxiety During the Holidays](https://lifehacker.com/how-to-manage-your-anxiety-during-the-holidays-1849862228)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
 - [Dev.to/JS] [Como enlazar vistas en Pug con ExpressJS](https://dev.to/maxwellnewage/como-enlazar-vistas-en-pug-con-expressjs-4403)
 - [Dev.to/JS] [How I Built a Vue.js Ecommerce Store with a Node.js Backend](https://dev.to/medusajs/how-i-created-a-vuejs-ecommerce-store-with-medusa-plf)
-- [Dev.to/JS] [Como crear vistas en ExpressJS](https://dev.to/maxwellnewage/como-crear-vistas-en-expressjs-2ppe)
-- [Dev.to/JS] [Integration vs Unit Testing. ELI5](https://dev.to/iamcdmx/integration-vs-unit-testing-eli5-4e71)
-- [Dev.to/JS] [Como crear una API con ExpressJS y Node](https://dev.to/maxwellnewage/como-crear-una-api-con-expressjs-y-nodejs-3hbb)
 - [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
 - [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)
 - [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Gifts for Book Enthusiasts &lpar;That Aren&#39;t Books&rpar;](https://lifehacker.com/10-of-the-best-gifts-for-book-enthusiasts-that-arent-b-1849854507)
 - [Lifehacker] [You Can Still &lpar;Probably&rpar; Make a Killing on I Bonds](https://lifehacker.com/you-can-still-probably-make-a-killing-on-i-bonds-1849855295)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
-- [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
-- [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)<!-- TECH-POSTS:END -->
 
 ---
 
