@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
+- [Dev.to/JS] [DEVCODE - Grow, Share and Connect with Developers. MongoDB Hackathon Submission On Dev](https://dev.to/devarshishimpi/devcode-grow-share-and-connect-with-developers-mongodb-hackathon-submission-on-dev-4lo4)
+- [Dev.to/JS] [10+ Best React Codebase Generators](https://dev.to/flatlogic/10-best-react-codebase-generators-4j3a)
+- [Dev.to/JS] [Web Scraping Yelp.com](https://dev.to/serpdogapi/web-scraping-yelpcom-187i)
 - [Dev.to/JS] [Do You Need A Text Editor For Your React Web App?](https://dev.to/ideradevtools/do-you-need-a-text-editor-for-your-react-web-app-5947)
-- [Dev.to/JS] [Regroot - Search Job Listings &lpar;MongoDB Atlas Hackathon 2022 Submission &rpar;](https://dev.to/sidjs/regroot-search-job-listings-2j4j)
+- [Dev.to/JS] [Regroot - Search Job Listings &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/sidjs/regroot-search-job-listings-2j4j)
 - [Dev.to/JS] [Use console.log&lpar;&rpar; like a pro](https://dev.to/rahul3002/use-consolelog-like-a-pro-3leg)
 - [Dev.to/JS] [I’ve Got 99 Problems but Learning TypeScript Ain’t One](https://dev.to/codewithvoid/ive-got-99-problems-but-learning-typescript-aint-one-o70)
 - [Dev.to/JS] [Solving day 07 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-07-of-advent-of-code-2022-in-javascript-4ldm)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sending SMS with nodejs using sendchamp SMS API](https://dev.to/sadiqful/sending-sms-with-nodejs-using-sendchamp-sms-api-482m)
 - [Dev.to/JS] [Proven Ways to Improve &amp; Boost React Performance](https://dev.to/rachgrey/proven-ways-to-improve-boost-react-performance-49bb)
 - [Dev.to/JS] [5 Tips for Using React Table](https://dev.to/omerwow/5-tips-for-using-react-table-1779)
-- [Dev.to/JS] [JS Functions](https://dev.to/armenzet/js-functions-d96)
-- [Dev.to/JS] [Data Structures using JavaScript for beginners](https://dev.to/meatboy/definitive-guide-to-data-structures-using-javascript-for-beginners-1ea9)
-- [Dev.to/JS] [5 Addictive games to learn Web Development](https://dev.to/freebeliever/5-addictive-games-to-learn-web-development-1f6c)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Cheap Way to Update Christmas Ornaments, According to TikTok](https://lifehacker.com/the-cheap-way-to-update-christmas-ornaments-according-1849854018)
 - [Lifehacker] [Listen to Your Farts](https://lifehacker.com/listen-to-your-farts-1849853421)
 - [Lifehacker] [Stop Buying Bad &#39;Cashmere&#39; Sweaters](https://lifehacker.com/stop-buying-bad-cashmere-sweaters-1849854041)
-- [Lifehacker] [Delete These Malware Apps From Your Android ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-asap-1849854104)
-- [Lifehacker] [Don’t Get Hepatitis From These Recalled Frozen Berries](https://lifehacker.com/don-t-get-hepatitis-from-these-recalled-frozen-berries-1849853884)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Delete These Malware Apps From Your Android ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-asap-1849854104)<!-- TECH-POSTS:END -->
 
 ---
 
