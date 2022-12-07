@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add an Image Editor to your app with Pintura](https://dev.to/asayerio_techblog/add-an-image-editor-to-your-app-with-pintura-om1)
+- [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
+- [Dev.to/JS] [JavaScript for Interviews](https://dev.to/satejbidvai/javascript-for-interviews-4k6e)
+- [Lifehacker] [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
 - [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
 - [Lifehacker] [Prue Leith&#39;s Favorite Low-Fuss, High-Happiness Dessert](https://lifehacker.com/prue-leiths-favorite-low-fuss-high-happiness-dessert-1849864864)
 - [Dev.to/JS] [13. Roman to Integer - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/13-roman-to-integer-javascript-solution-by-abu-saleh-faysal-20ka)
@@ -45,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Long-ass Video Games You Can Play All Winter](https://lifehacker.com/11-long-ass-video-games-you-can-play-all-winter-1849862267)
 - [Dev.to/JS] [La Senda del Desarrollador Full Stack &lpar;Parte 1: Introducción&rpar;](https://dev.to/maxwellnewage/la-senda-del-desarrollador-full-stack-parte-1-introduccion-244b)
 - [Dev.to/JS] [Switch vs Routes in React V5 vs. V6](https://dev.to/calebmccoy04/switch-vs-routes-in-react-v5-vs-v6-2be)
-- [Dev.to/JS] [Persistencia de Datos en Javascript &lpar;LocalStorage&rpar;](https://dev.to/maxwellnewage/persistencia-de-datos-en-javascript-localstorage-419m)
 - [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
-- [Dev.to/JS] [Como enlazar vistas en Pug con ExpressJS](https://dev.to/maxwellnewage/como-enlazar-vistas-en-pug-con-expressjs-4403)
 - [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
 - [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)
 - [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Most Riveting Storytelling Podcasts Running](https://lifehacker.com/12-of-the-most-riveting-storytelling-podcasts-running-1849856104)
 - [Lifehacker] [Don&#39;t Eat This Oscar Mayer Ham, USDA Says](https://lifehacker.com/dont-eat-this-oscar-mayer-ham-usda-says-1849859469)
 - [Lifehacker] [A Complete Guide to Selling Stock Photos, Videos, and Music](https://lifehacker.com/a-complete-guide-to-selling-stock-photos-videos-and-m-1849859140)
-- [Lifehacker] [Fix Your Own Wobbly Toilet Seat](https://lifehacker.com/fix-your-own-wobbly-toilet-seat-1849857567)
-- [Lifehacker] [Don’t Miss NVIDIA’s Free ‘Portal’ Graphics Upgrade](https://lifehacker.com/don-t-miss-nvidia-s-free-portal-graphics-upgrade-1849858421)
-- [Lifehacker] [Your REAL ID Procrastinating Just Paid Off](https://lifehacker.com/your-real-id-procrastinating-just-paid-off-1849858524)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fix Your Own Wobbly Toilet Seat](https://lifehacker.com/fix-your-own-wobbly-toilet-seat-1849857567)<!-- TECH-POSTS:END -->
 
 ---
 
