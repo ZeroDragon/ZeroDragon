@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Ways To Optimize Lists Rendering](https://dev.to/serhii_kucherenko/3-ways-to-optimize-lists-rendering-59gh)
+- [Dev.to/JS] [In case of error redirect to your mirror at archive.org](https://dev.to/digfish/in-case-of-error-redirect-to-your-mirror-at-archiveorg-44h7)
+- [Dev.to/JS] [代码随想录day22 | 235. Lowest Common Ancestor of a BST, 701. Insert into a Binary Search Tree, 450. Delete Node in a BST](https://dev.to/986913/dai-ma-sui-xiang-lu-day22-235-lowest-common-ancestor-of-a-bst-701-insert-into-a-binary-search-tree-22fo)
+- [Dev.to/JS] [Introducing: Siteit v1.0.6](https://dev.to/tdaw/introducing-siteit-v106-51p2)
+- [Dev.to/JS] [JavaScript Test #1: Arrays](https://dev.to/nathannosudo/javascript-test-1-arrays-1h03)
 - [Dev.to/JS] [Meta-Script :: A meta-language for the Meta-OS &lpar;GreyOS&rpar;](https://dev.to/g0d/meta-script-a-meta-language-for-the-meta-os-greyos-44ni)
 - [Dev.to/JS] [PHAISTOS - A generalized data exchange framework and validation tool](https://dev.to/g0d/phaistos-a-generalized-data-exchange-framework-and-validation-tool-3pin)
 - [Dev.to/JS] [Learning TypeScript ep.1](https://dev.to/tmontobbio/learning-typescript-ep1-l42)
@@ -31,13 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding XSS with ChatGPT](https://dev.to/bscript/understanding-xss-with-chatgpt-2l5d)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Dev.to/JS] [Electron Chat App Tutorial: Building a Desktop Chat App](https://dev.to/alakkadshaw/electron-chat-app-tutorial-building-a-desktop-chat-app-352p)
-- [Dev.to/JS] [Announcing Keystrokes, successor to KeyboardJS](https://dev.to/robertwhurst/announcing-keystrokes-successor-to-keyboardjs-1b6f)
-- [Dev.to/JS] [JavaScript and HTML snake game tutorial: Build a simple, interactive game](https://dev.to/educative/javascript-and-html-snake-game-tutorial-build-a-simple-interactive-game-1ga1)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
-- [Dev.to/JS] [Difference between SSG and SSR](https://dev.to/manuel__dev/difference-between-ssg-and-ssr-3ffb)
-- [Dev.to/JS] [Homework: Brackets Check in JS](https://dev.to/decker67/homework-brackets-check-in-js-1bck)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
-- [Dev.to/JS] [Animated Navbar &lpar;only CSS&rpar;](https://dev.to/hecker69/animated-navbar-only-css-3j3m)
 - [Lifehacker] [Re-Crispify Stale Crackers, Chips, and Cookies in Your Oven](https://lifehacker.com/re-crispify-stale-crackers-chips-and-cookies-in-your-1849860577)
 - [Lifehacker] [Point-and-Shoot Cameras Are Back, Baby](https://lifehacker.com/point-and-shoot-cameras-are-back-baby-1849859515)
 - [Lifehacker] [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)
