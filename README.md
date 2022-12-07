@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meta-Script :: A meta-language for the Meta-OS &lpar;GreyOS&rpar;](https://dev.to/g0d/meta-script-a-meta-language-for-the-meta-os-greyos-44ni)
+- [Dev.to/JS] [PHAISTOS - A generalized data exchange framework and validation tool](https://dev.to/g0d/phaistos-a-generalized-data-exchange-framework-and-validation-tool-3pin)
+- [Dev.to/JS] [Learning TypeScript ep.1](https://dev.to/tmontobbio/learning-typescript-ep1-l42)
+- [Dev.to/JS] [Why Reading Documentation is Important](https://dev.to/gatesvert81/why-reading-documentation-is-important-9k3)
 - [Dev.to/JS] [Introduction to React Email &lpar;react.email&rpar;](https://dev.to/elliot_brenyasarfo_18749/introduction-to-react-email-reactemail-530h)
 - [Dev.to/JS] [Understanding XSS with ChatGPT](https://dev.to/bscript/understanding-xss-with-chatgpt-2l5d)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
 - [Dev.to/JS] [Animated Navbar &lpar;only CSS&rpar;](https://dev.to/hecker69/animated-navbar-only-css-3j3m)
 - [Lifehacker] [Re-Crispify Stale Crackers, Chips, and Cookies in Your Oven](https://lifehacker.com/re-crispify-stale-crackers-chips-and-cookies-in-your-1849860577)
-- [Dev.to/JS] [What is ChatGPT? Will it take your jobs !?](https://dev.to/thenomadevel/what-is-chatgpt-will-it-take-your-jobs--2892)
-- [Dev.to/JS] [React: generating elements wherever you click on the screen](https://dev.to/dataseyo/react-generating-elements-wherever-you-click-on-the-screen-1jbh)
 - [Lifehacker] [Point-and-Shoot Cameras Are Back, Baby](https://lifehacker.com/point-and-shoot-cameras-are-back-baby-1849859515)
-- [Dev.to/JS] [JavaScript: 5 types of functions with 5 reasons to use each function](https://dev.to/nathannosudo/javascript-5-types-of-functions-with-5-reasons-to-use-each-function-me3)
-- [Dev.to/JS] [React clicker game: useState vs redux toolkit](https://dev.to/dataseyo/react-clicker-game-usestate-vs-redux-toolkit-31f)
 - [Lifehacker] [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)
 - [Lifehacker] [12 of the Most Riveting Storytelling Podcasts Running](https://lifehacker.com/12-of-the-most-riveting-storytelling-podcasts-running-1849856104)
 - [Lifehacker] [Don&#39;t Eat This Oscar Mayer Ham, USDA Says](https://lifehacker.com/dont-eat-this-oscar-mayer-ham-usda-says-1849859469)
