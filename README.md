@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 of the Hottest Holiday Gift Ideas for Kids](https://lifehacker.com/10-of-the-hottest-holiday-gift-ideas-for-kids-1849861941)
+- [Dev.to/JS] [Avoiding Common Pitfalls when Working with React JS 🚫](https://dev.to/namanvyas/avoiding-common-pitfalls-when-working-with-react-js-58pp)
+- [Lifehacker] [How to Manage Your Anxiety During the Holidays](https://lifehacker.com/how-to-manage-your-anxiety-during-the-holidays-1849862228)
+- [Dev.to/JS] [Ultimate CSS guide for beginners: Build 3 card components.](https://dev.to/sfundomhlungu/ultimate-css-guide-for-beginners-build-3-card-components-4doh)
+- [Dev.to/JS] [Paracetamol.js💊| #191: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-191-explica-este-codigo-javascript-506k)
+- [Dev.to/JS] [Watch us build a *truly* full-stack app in just 9 minutes w/ Wasp &amp; ChatGPT 🚀 🤯](https://dev.to/wasp/watch-us-build-a-truly-full-stack-app-in-just-9-minutes-w-wasp-chatgpt-iee)
+- [Lifehacker] [11 Long-ass Video Games You Can Play All Winter](https://lifehacker.com/11-long-ass-video-games-you-can-play-all-winter-1849862267)
+- [Dev.to/JS] [La Senda del Desarrollador Full Stack &lpar;Parte 1: Introducción&rpar;](https://dev.to/maxwellnewage/la-senda-del-desarrollador-full-stack-parte-1-introduccion-244b)
 - [Dev.to/JS] [Switch vs Routes in React V5 vs. V6](https://dev.to/calebmccoy04/switch-vs-routes-in-react-v5-vs-v6-2be)
 - [Dev.to/JS] [Persistencia de Datos en Javascript &lpar;LocalStorage&rpar;](https://dev.to/maxwellnewage/persistencia-de-datos-en-javascript-localstorage-419m)
 - [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
@@ -32,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integration vs Unit Testing. ELI5](https://dev.to/iamcdmx/integration-vs-unit-testing-eli5-4e71)
 - [Dev.to/JS] [Como crear una API con ExpressJS y Node](https://dev.to/maxwellnewage/como-crear-una-api-con-expressjs-y-nodejs-3hbb)
 - [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
-- [Dev.to/JS] [Javascript Higher order functions map,reduce and filter for beginners](https://dev.to/nikeshkumartk/javascript-higher-order-functions-mapreduce-and-filter-for-beginners-3f2o)
-- [Dev.to/JS] [What is JAMstack, and why you should consider it for your next project](https://dev.to/momciloo/what-is-jamstack-and-why-you-should-consider-it-for-your-next-project-4949)
-- [Dev.to/JS] [3 ways to add npm package in your chrome extension.](https://dev.to/anilkumarum/3-ways-to-add-npm-package-in-chrome-extension-3e3b)
 - [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)
-- [Dev.to/JS] [An Introduction to PCI Compliance](https://dev.to/briansclubcc/httpsforumxda-developerscomtdumps-ccv-and-fullz-updated3181800-1hjd)
 - [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
-- [Dev.to/JS] [DEVCODE - Grow, Share and Connect with Developers. MongoDB Hackathon Submission On Dev](https://dev.to/devarshishimpi/devcode-grow-share-and-connect-with-developers-mongodb-hackathon-submission-on-dev-4lo4)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Still &lpar;Probably&rpar; Make a Killing on I Bonds](https://lifehacker.com/you-can-still-probably-make-a-killing-on-i-bonds-1849855295)
 - [Lifehacker] [Winterize Your Gin Cocktail](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
 - [Lifehacker] [Make Sure You Buy the Right Kind of Snow Melt](https://lifehacker.com/make-sure-you-buy-the-right-kind-of-snow-melt-1849854066)
-- [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)
-- [Lifehacker] [How to Instantly Measure Someone&#39;s Height on Your iPhone](https://lifehacker.com/how-to-instantly-measure-someones-height-on-your-iphone-1849854921)
-- [Lifehacker] [Never Vacuum Up These Common Household Messes](https://lifehacker.com/never-vacuum-up-these-common-household-messes-1849853932)
-- [Lifehacker] [The Cheap Way to Update Christmas Ornaments, According to TikTok](https://lifehacker.com/the-cheap-way-to-update-christmas-ornaments-according-1849854018)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Follow These Steps to Keep Your Garbage Disposal Working](https://lifehacker.com/follow-these-steps-to-keep-your-garbage-disposal-workin-1849853488)<!-- TECH-POSTS:END -->
 
 ---
 
