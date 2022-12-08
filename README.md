@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day23 | 669. Trim a Binary Search Tree, 108. Convert Sorted Array to BST, 538. Convert BST to Greater Tree](https://dev.to/986913/dai-ma-sui-xiang-lu-day23-669-trim-a-binary-search-tree-108-convert-sorted-array-to-bst-538-convert-bst-to-greater-tree-3g5o)
+- [Dev.to/JS] [How to set up an Express.js project with TypeScript](https://dev.to/serhii_kucherenko/how-to-set-up-an-expressjs-project-with-typescript-353a)
 - [Dev.to/JS] [Add an Image Editor to your app with Pintura](https://dev.to/asayerio_techblog/add-an-image-editor-to-your-app-with-pintura-om1)
 - [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
 - [Dev.to/JS] [JavaScript for Interviews](https://dev.to/satejbidvai/javascript-for-interviews-4k6e)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #191: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-191-explica-este-codigo-javascript-506k)
 - [Dev.to/JS] [Watch us build a *truly* full-stack app in just 9 minutes w/ Wasp &amp; ChatGPT 🚀 🤯](https://dev.to/wasp/watch-us-build-a-truly-full-stack-app-in-just-9-minutes-w-wasp-chatgpt-iee)
 - [Lifehacker] [11 Long-ass Video Games You Can Play All Winter](https://lifehacker.com/11-long-ass-video-games-you-can-play-all-winter-1849862267)
-- [Dev.to/JS] [La Senda del Desarrollador Full Stack &lpar;Parte 1: Introducción&rpar;](https://dev.to/maxwellnewage/la-senda-del-desarrollador-full-stack-parte-1-introduccion-244b)
-- [Dev.to/JS] [Switch vs Routes in React V5 vs. V6](https://dev.to/calebmccoy04/switch-vs-routes-in-react-v5-vs-v6-2be)
 - [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
 - [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
 - [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)
