@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m looking for at react js 2 months internship &lpar;remote only&rpar;](https://dev.to/prtsl/im-looking-for-at-react-js-2-months-internship-remote-only-43pe)
+- [Dev.to/JS] [JavaScript web__constants &lpar;Node.js-friendly&rpar;](https://dev.to/projektorius96/javascript-webconstants-nodejs-friendly-3h27)
+- [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
+- [Dev.to/JS] [One finished Discord poll feature!](https://dev.to/devils2ndself/one-finished-discord-poll-feature-5b34)
+- [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)
+- [Dev.to/JS] [MongoDB Atlas Hackathon 2022 and my first Dev Post](https://dev.to/dovidmoishe/mongodb-atlas-hackathon-2022-and-my-first-dev-post-2kbl)
 - [Dev.to/JS] [JOBPKDO- you may be the next one who gets the job through Twitter](https://dev.to/gulshanaggarwal/jobpkdo-you-may-be-the-next-one-who-gets-the-job-through-twitter-31oh)
 - [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)
 - [Dev.to/JS] [Sigh, what AI supported Web Component development will look like](https://dev.to/dannyengelman/sigh-what-ai-supported-web-component-development-will-look-like-1phe)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing easyblog - write once share to many !](https://dev.to/rajeshkhadka/introducing-easyblog-for-mongodb-atlas-hackathon-2gbk)
 - [Dev.to/JS] [&quot;Of&quot; vs &quot;For&quot; - How to use each and what is the difference?](https://dev.to/blamb31/of-vs-for-how-to-use-each-and-what-is-the-difference-1h9n)
 - [Dev.to/JS] [DOM manipulation - using Array method on HTML tags](https://dev.to/yuridevat/dom-manipulation-using-array-method-on-html-tags-3mgp)
-- [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/rajeshj3/mongodb-atlas-hackathon-2022-on-dev-5300)
-- [Dev.to/JS] [SneakerShop: Tutorial ReactNative &amp; Tailwind ⚛️ + 🎨 = ✨👟✨ &lpar;Part 1&rpar;](https://dev.to/maj07/sneakershop-tutorial-reactnative-tailwind-part-1-18nd)
-- [Dev.to/JS] [What is Sanity.io? A Customer-Centered Deep Dive](https://dev.to/dsalinasgardon/what-is-sanityio-a-customer-centered-deep-dive-53h0)
 - [Lifehacker] [Use Cling Wrap to Keep Your Refrigerator Clean](https://lifehacker.com/use-cling-wrap-to-keep-your-refrigerator-clean-1849869857)
-- [Dev.to/JS] [Build a Free Twitter Scheduler with Next.js](https://dev.to/ixartz/build-a-free-twitter-scheduler-with-nextjs-41jf)
 - [Lifehacker] [Use House Sitting to Travel on a Budget](https://lifehacker.com/use-house-sitting-to-travel-on-a-budget-1849869548)
 - [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)
 - [Lifehacker] [Stop Buying New Apple Devices](https://lifehacker.com/stop-buying-new-apple-devices-1849868903)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Hottest Holiday Gift Ideas for Kids](https://lifehacker.com/10-of-the-hottest-holiday-gift-ideas-for-kids-1849861941)
 - [Lifehacker] [How to Manage Your Anxiety During the Holidays](https://lifehacker.com/how-to-manage-your-anxiety-during-the-holidays-1849862228)
 - [Lifehacker] [11 Long-ass Video Games You Can Play All Winter](https://lifehacker.com/11-long-ass-video-games-you-can-play-all-winter-1849862267)
-- [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
-- [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
-- [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)<!-- TECH-POSTS:END -->
 
 ---
 
