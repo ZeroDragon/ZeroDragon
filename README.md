@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrate JS into the browser](https://dev.to/kellilil/integrate-js-into-the-browser-1o6f)
+- [Dev.to/JS] [PHP8.2: the modern PHP](https://dev.to/bashebr/php82-the-modern-php-252o)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
 - [Dev.to/JS] [ezy – open-source gRPC client, alternative to Postman and Insomnia](https://dev.to/notmedia/ezy-open-source-grpc-client-alternative-to-postman-and-insomnia-1djn)
@@ -35,14 +37,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
 - [Dev.to/JS] [One finished Discord poll feature!](https://dev.to/devils2ndself/one-finished-discord-poll-feature-5b34)
 - [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)
-- [Dev.to/JS] [MongoDB Atlas Hackathon 2022 and my first Dev Post](https://dev.to/dovidmoishe/mongodb-atlas-hackathon-2022-and-my-first-dev-post-2kbl)
+- [Dev.to/JS] [Challenge app - MongoDB Atlas Hackathon 2022 and my first Dev Post](https://dev.to/dovidmoishe/mongodb-atlas-hackathon-2022-and-my-first-dev-post-2kbl)
 - [Dev.to/JS] [JOBPKDO- you may be the next one who gets the job through Twitter](https://dev.to/gulshanaggarwal/jobpkdo-you-may-be-the-next-one-who-gets-the-job-through-twitter-31oh)
 - [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)
 - [Dev.to/JS] [Sigh, what AI supported Web Component development will look like](https://dev.to/dannyengelman/sigh-what-ai-supported-web-component-development-will-look-like-1phe)
-- [Dev.to/JS] [JavaScript Regular/Normal vs Arrow Function: My Beef with Arrow Functions.](https://dev.to/niza/javascript-regularnormal-vs-arrow-function-my-beef-with-arrow-functions-3b49)
 - [Lifehacker] [11 Deeply Strange U.S. Tourist Spots](https://lifehacker.com/11-deeply-strange-u-s-tourist-spots-1849870496)
 - [Lifehacker] [Marcus Samuelsson’s Favorite Dish to Cook With His Son](https://lifehacker.com/marcus-samuelsson-s-favorite-dish-to-cook-with-his-son-1849864949)
-- [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV ji](https://dev.to/harshsinghrajput/mongodb-atlas-hackathon-2022-on-dev-15am)
 - [Lifehacker] [Use Cling Wrap to Keep Your Refrigerator Clean](https://lifehacker.com/use-cling-wrap-to-keep-your-refrigerator-clean-1849869857)
 - [Lifehacker] [Use House Sitting to Travel on a Budget](https://lifehacker.com/use-house-sitting-to-travel-on-a-budget-1849869548)
 - [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)
