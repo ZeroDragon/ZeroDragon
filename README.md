@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #192: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-192-explica-este-codigo-javascript-foc)
+- [Dev.to/JS] [Getting Started With SolidJS](https://dev.to/get_pieces/getting-started-with-solidjs-8l8)
+- [Dev.to/JS] [Solving day 08 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-08-of-advent-of-code-2022-in-javascript-27pe)
+- [Dev.to/JS] [Calling all talented developers AROUND THE GLOBE!](https://dev.to/shoaib310/calling-all-talented-developers-around-the-globe-43i8)
+- [Lifehacker] [Four Ways to DIY a Christmas Tree](https://lifehacker.com/four-ways-to-diy-a-christmas-tree-1849867789)
+- [Dev.to/JS] [i18n with Next.js 13 and app directory](https://dev.to/adrai/i18n-with-nextjs-13-and-app-directory-18dm)
+- [Dev.to/JS] [No Space Left On Device](https://dev.to/rmion/no-space-left-on-device-4kod)
+- [Dev.to/JS] [Pre-Generated SDK Libraries That Help You Build Apps Faster](https://dev.to/hackmamba/pre-generated-sdk-libraries-that-help-you-build-apps-faster-4fig)
+- [Dev.to/JS] [AI-generated explanations and comments for JavaScript code](https://dev.to/lgrammel/ai-generated-explanations-and-comments-for-javascript-code-1i96)
+- [Dev.to/JS] [What is Node.js?](https://dev.to/meddy672/what-is-nodejs-2fa6)
+- [Lifehacker] [10 of the Best Gifts for Soccer Fans](https://lifehacker.com/10-of-the-best-gifts-for-soccer-fans-1849866009)
 - [Dev.to/JS] [JavaScript Higher Order Functions and Callback functions](https://dev.to/michellebuchiokonicha/javascript-higher-order-functions-and-callback-functions-33mm)
 - [Dev.to/JS] [Max Consecutive Ones III](https://dev.to/zeeshanali0704/max-consecutive-ones-iii-1c8e)
 - [Dev.to/JS] [Cules Coding - A blogging website &lpar;MongoDB Atlas Hackathon 2022 submission&rpar;](https://dev.to/thatanjan/cules-coding-a-blogging-website-mongodb-atlas-hackathon-2022-submission-2736)
 - [Lifehacker] [How to Make a Tofu Scramble That Doesn&#39;t Suck](https://lifehacker.com/how-to-make-a-tofu-scramble-that-doesnt-suck-1849865839)
-- [Dev.to/JS] [12 Useful JavaScript Libraries You’ve Probably Never Used](https://dev.to/devland/12-useful-javascript-libraries-youve-probably-never-used-221b)
-- [Dev.to/JS] [Convert and Execute JS code as React Component](https://dev.to/ariyou2000/convert-and-execute-js-code-as-react-component-4m1j)
 - [Lifehacker] [Make the Best Lazy Chicken Pot Pie From a Can of Soup](https://lifehacker.com/make-the-best-lazy-chicken-pot-pie-from-a-can-of-soup-1849865516)
-- [Dev.to/JS] [Client-side object validation with Yup](https://dev.to/hi_iam_chris/client-side-object-validation-with-yup-4f7a)
-- [Dev.to/JS] [I Automated Daily Standups for Developers](https://dev.to/codewithbernard/i-automated-daily-standups-for-developers-1oc8)
-- [Dev.to/JS] [Senior Full-stack JavaScript Engineer Needed](https://dev.to/hrchamp/senior-full-stack-javascript-engineer-needed-4h7n)
-- [Dev.to/JS] [Assignment Writing Help in UK](https://dev.to/jenifierjeni/assignment-writing-help-in-uk-351)
-- [Dev.to/JS] [What&#39;s New in Next.js 13? All you need to Know!](https://dev.to/solutelabs/whats-new-in-nextjs-13-all-you-need-to-know-3e5e)
-- [Dev.to/JS] [20 Common NodeJS tools / packages for your backend production app](https://dev.to/siddiqus/20-common-nodejs-tools-packages-for-your-backend-production-app-14p9)
-- [Dev.to/JS] [Do i need to use cleanup function on useEffect?](https://dev.to/csituma/do-i-need-to-use-cleanup-function-on-useeffect-300d)
 - [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
 - [Lifehacker] [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
 - [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
 - [Lifehacker] [Re-Crispify Stale Crackers, Chips, and Cookies in Your Oven](https://lifehacker.com/re-crispify-stale-crackers-chips-and-cookies-in-your-1849860577)
 - [Lifehacker] [Point-and-Shoot Cameras Are Back, Baby](https://lifehacker.com/point-and-shoot-cameras-are-back-baby-1849859515)
-- [Lifehacker] [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)
-- [Lifehacker] [12 of the Most Riveting Storytelling Podcasts Running](https://lifehacker.com/12-of-the-most-riveting-storytelling-podcasts-running-1849856104)
-- [Lifehacker] [Don&#39;t Eat This Oscar Mayer Ham, USDA Says](https://lifehacker.com/dont-eat-this-oscar-mayer-ham-usda-says-1849859469)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)<!-- TECH-POSTS:END -->
 
 ---
 
