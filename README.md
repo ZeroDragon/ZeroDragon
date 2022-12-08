@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React: Switch background images when they are ready](https://dev.to/syeo66/react-switch-background-images-when-they-are-ready-896)
+- [Dev.to/JS] [Why we use empty array with UseEffect](https://dev.to/csituma/why-we-use-empty-array-with-useeffect-iok)
+- [Dev.to/JS] [How to refactor for js](https://dev.to/harryrefact/how-to-refactor-for-js-35k6)
 - [Dev.to/JS] [How To Use Extremely Large Numbers in JavaScript - JavaScript BigInt](https://dev.to/mkday/how-to-use-extremely-large-numbers-in-javascript-javascript-bigint-n42)
 - [Dev.to/JS] [How to Get Started With Node and NVM on MacOS &lpar;M1/ M2&rpar; in 2023](https://dev.to/gerryaballa/how-to-get-started-with-node-and-nvm-on-mac-m1-m2-in-2023-4bol)
 - [Dev.to/JS] [Things don&#39;t always go as planned](https://dev.to/ririio/things-dont-always-go-as-planned-361d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Higher Order function and Callback function in Javascript?](https://dev.to/abdullah5xm/what-is-callback-function-in-javascript-231b)
 - [Dev.to/JS] [Explaining JavaScript closures in one simple program. 3 minute read.](https://dev.to/geomukkath/explaining-javascript-closures-in-one-simple-program-3-minute-read-p33)
 - [Dev.to/JS] [Why We Need Jotai v2 API](https://dev.to/dai_shi/why-we-need-jotai-v2-api-4ak1)
-- [Dev.to/JS] [代码随想录day23 | 669. Trim a Binary Search Tree, 108. Convert Sorted Array to BST, 538. Convert BST to Greater Tree](https://dev.to/986913/dai-ma-sui-xiang-lu-day23-669-trim-a-binary-search-tree-108-convert-sorted-array-to-bst-538-convert-bst-to-greater-tree-3g5o)
-- [Dev.to/JS] [How to set up an Express.js project with TypeScript](https://dev.to/serhii_kucherenko/how-to-set-up-an-expressjs-project-with-typescript-353a)
-- [Dev.to/JS] [Add an Image Editor to your app with Pintura](https://dev.to/asayerio_techblog/add-an-image-editor-to-your-app-with-pintura-om1)
 - [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
 - [Lifehacker] [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
 - [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
