@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s New in Next.js 13? All you need to Know!](https://dev.to/solutelabs/whats-new-in-nextjs-13-all-you-need-to-know-3e5e)
+- [Dev.to/JS] [20 Common NodeJS tools / packages for your backend production app](https://dev.to/siddiqus/20-common-nodejs-tools-packages-for-your-backend-production-app-14p9)
+- [Dev.to/JS] [Do i need to use cleanup function on useEffect?](https://dev.to/csituma/do-i-need-to-use-cleanup-function-on-useeffect-300d)
 - [Dev.to/JS] [JavaScript Functions: Why They&#39;re Essential to Understand? | Easy Guide - Part2](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
 - [Dev.to/JS] [Playing with colors: useful tools for your next project](https://dev.to/toviszsolt/playing-with-colors-useful-tools-for-your-next-project-2aj7)
 - [Dev.to/JS] [Do you know MOD-CSS, the new utility-first CSS framework ?](https://dev.to/dev_geos/do-you-know-mod-css-the-new-utility-first-css-framework--350g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Use Extremely Large Numbers in JavaScript - JavaScript BigInt](https://dev.to/mkday/how-to-use-extremely-large-numbers-in-javascript-javascript-bigint-n42)
 - [Dev.to/JS] [How to Get Started With Node and NVM on MacOS &lpar;M1/ M2&rpar; in 2023](https://dev.to/gerryaballa/how-to-get-started-with-node-and-nvm-on-mac-m1-m2-in-2023-4bol)
 - [Dev.to/JS] [Things don&#39;t always go as planned](https://dev.to/ririio/things-dont-always-go-as-planned-361d)
-- [Dev.to/JS] [vn88chinhthuc](https://dev.to/vn88chinhthuc/vn88chinhthuc-4bl0)
-- [Dev.to/JS] [Hello World, from Somaliland in Horn of Africa](https://dev.to/sadamyusuf/hello-world-from-somaliland-in-horn-of-africa-21fm)
-- [Dev.to/JS] [How to be consistent in learning JavaScript](https://dev.to/danities316/how-to-be-consistent-in-learning-javascript-4p5n)
 - [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
 - [Lifehacker] [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
 - [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
