@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JOBPKDO- you may be the next one who gets the job through Twitter](https://dev.to/gulshanaggarwal/jobpkdo-you-may-be-the-next-one-who-gets-the-job-through-twitter-31oh)
+- [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)
+- [Dev.to/JS] [Sigh, what AI supported Web Component development will look like](https://dev.to/dannyengelman/sigh-what-ai-supported-web-component-development-will-look-like-1phe)
+- [Dev.to/JS] [JavaScript Regular/Normal vs Arrow Function: My Beef with Arrow Functions.](https://dev.to/niza/javascript-regularnormal-vs-arrow-function-my-beef-with-arrow-functions-3b49)
+- [Lifehacker] [11 Deeply Strange U.S. Tourist Spots](https://lifehacker.com/11-deeply-strange-u-s-tourist-spots-1849870496)
 - [Lifehacker] [Marcus Samuelsson’s Favorite Dish to Cook With His Son](https://lifehacker.com/marcus-samuelsson-s-favorite-dish-to-cook-with-his-son-1849864949)
 - [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV ji](https://dev.to/harshsinghrajput/mongodb-atlas-hackathon-2022-on-dev-15am)
 - [Dev.to/JS] [SignLanguage - Learn ASL Practically - &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/narottam04/signlanguage-learn-asl-practically-mongodb-atlas-hackathon-2022-submission-2cl7)
@@ -34,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Sanity.io? A Customer-Centered Deep Dive](https://dev.to/dsalinasgardon/what-is-sanityio-a-customer-centered-deep-dive-53h0)
 - [Lifehacker] [Use Cling Wrap to Keep Your Refrigerator Clean](https://lifehacker.com/use-cling-wrap-to-keep-your-refrigerator-clean-1849869857)
 - [Dev.to/JS] [Build a Free Twitter Scheduler with Next.js](https://dev.to/ixartz/build-a-free-twitter-scheduler-with-nextjs-41jf)
-- [Dev.to/JS] [How to reverse a string in JavaScript](https://dev.to/moibra/how-to-reverse-a-string-in-javascript-4ap0)
-- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/moyfdzz/asynchronous-javascript-4o04)
 - [Lifehacker] [Use House Sitting to Travel on a Budget](https://lifehacker.com/use-house-sitting-to-travel-on-a-budget-1849869548)
-- [Dev.to/JS] [Introducing Lootle - for MongoDB Atlas Hackathon](https://dev.to/aashishpanthi/introducing-lootle-for-mongodb-atlas-hackathon-5f9n)
 - [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)
 - [Lifehacker] [Stop Buying New Apple Devices](https://lifehacker.com/stop-buying-new-apple-devices-1849868903)
 - [Lifehacker] [Four Ways to DIY a Christmas Tree](https://lifehacker.com/four-ways-to-diy-a-christmas-tree-1849867789)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Long-ass Video Games You Can Play All Winter](https://lifehacker.com/11-long-ass-video-games-you-can-play-all-winter-1849862267)
 - [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
 - [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
-- [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)
-- [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
-- [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)<!-- TECH-POSTS:END -->
+- [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)<!-- TECH-POSTS:END -->
 
 ---
 
