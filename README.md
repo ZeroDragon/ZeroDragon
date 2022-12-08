@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Things don&#39;t always go as planned](https://dev.to/ririio/things-dont-always-go-as-planned-361d)
+- [Dev.to/JS] [vn88chinhthuc](https://dev.to/vn88chinhthuc/vn88chinhthuc-4bl0)
 - [Dev.to/JS] [Hello World, from Somaliland in Horn of Africa](https://dev.to/sadamyusuf/hello-world-from-somaliland-in-horn-of-africa-21fm)
 - [Dev.to/JS] [How to be consistent in learning JavaScript](https://dev.to/danities316/how-to-be-consistent-in-learning-javascript-4p5n)
 - [Dev.to/JS] [What is Higher Order function and Callback function in Javascript?](https://dev.to/abdullah5xm/what-is-callback-function-in-javascript-231b)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Sad, Dusty Granola Better With Butter](https://lifehacker.com/make-sad-dusty-granola-better-with-butter-1849864603)
 - [Lifehacker] [No, Metallica Isn&#39;t Giving Away Free Crypto](https://lifehacker.com/no-metallica-isnt-giving-away-free-crypto-1849864418)
 - [Lifehacker] [Use This Shortcut to Search Your Chrome Tabs, Bookmarks, and History](https://lifehacker.com/use-this-shortcut-to-search-your-chrome-tabs-bookmarks-1849863963)
-- [Dev.to/JS] [Easiest way to add HMR in your chrome extension](https://dev.to/anilkumarum/easiest-way-to-add-hmr-in-your-chrome-extension-3898)
-- [Dev.to/JS] [Quickest JS string generator](https://dev.to/kradford/quickest-js-string-generator-3ndf)
 - [Lifehacker] [How to Prevent &#39;Human-Giver Syndrome&#39; This Holiday Season](https://lifehacker.com/how-to-prevent-human-giver-syndrome-this-holiday-season-1849862145)
 - [Lifehacker] [10 of the Hottest Holiday Gift Ideas for Kids](https://lifehacker.com/10-of-the-hottest-holiday-gift-ideas-for-kids-1849861941)
 - [Lifehacker] [How to Manage Your Anxiety During the Holidays](https://lifehacker.com/how-to-manage-your-anxiety-during-the-holidays-1849862228)
