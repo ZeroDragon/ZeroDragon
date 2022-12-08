@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Higher Order function and Callback function in Javascript?](https://dev.to/abdullah5xm/what-is-callback-function-in-javascript-231b)
 - [Dev.to/JS] [Explaining JavaScript closures in one simple program. 3 minute read.](https://dev.to/geomukkath/explaining-javascript-closures-in-one-simple-program-3-minute-read-p33)
 - [Dev.to/JS] [Why We Need Jotai v2 API](https://dev.to/dai_shi/why-we-need-jotai-v2-api-4ak1)
 - [Dev.to/JS] [代码随想录day23 | 669. Trim a Binary Search Tree, 108. Convert Sorted Array to BST, 538. Convert BST to Greater Tree](https://dev.to/986913/dai-ma-sui-xiang-lu-day23-669-trim-a-binary-search-tree-108-convert-sorted-array-to-bst-538-convert-bst-to-greater-tree-3g5o)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Hottest Holiday Gift Ideas for Kids](https://lifehacker.com/10-of-the-hottest-holiday-gift-ideas-for-kids-1849861941)
 - [Dev.to/JS] [Avoiding Common Pitfalls when Working with React JS 🚫](https://dev.to/namanvyas/avoiding-common-pitfalls-when-working-with-react-js-58pp)
 - [Lifehacker] [How to Manage Your Anxiety During the Holidays](https://lifehacker.com/how-to-manage-your-anxiety-during-the-holidays-1849862228)
-- [Dev.to/JS] [Paracetamol.js💊| #191: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-191-explica-este-codigo-javascript-506k)
 - [Lifehacker] [11 Long-ass Video Games You Can Play All Winter](https://lifehacker.com/11-long-ass-video-games-you-can-play-all-winter-1849862267)
 - [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
 - [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
