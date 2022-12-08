@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
+- [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
+- [Dev.to/JS] [ezy – open-source gRPC client, alternative to Postman and Insomnia](https://dev.to/notmedia/ezy-open-source-grpc-client-alternative-to-postman-and-insomnia-1djn)
+- [Dev.to/JS] [Hyperiondev - Web Dev bootcamp - Day 4](https://dev.to/whippetcode/hyperiondev-web-dev-bootcamp-day-4-565n)
+- [Dev.to/JS] [My First Front-End Portfolio](https://dev.to/chabulsqu/my-first-front-end-portfolio-34o4)
+- [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
+- [Dev.to/JS] [Treetop Tree House](https://dev.to/rmion/treetop-tree-house-354c)
 - [Dev.to/JS] [I&#39;m looking for at react js 2 months internship &lpar;remote only&rpar;](https://dev.to/prtsl/im-looking-for-at-react-js-2-months-internship-remote-only-43pe)
 - [Dev.to/JS] [JavaScript web__constants &lpar;Node.js-friendly&rpar;](https://dev.to/projektorius96/javascript-webconstants-nodejs-friendly-3h27)
 - [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
@@ -36,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Deeply Strange U.S. Tourist Spots](https://lifehacker.com/11-deeply-strange-u-s-tourist-spots-1849870496)
 - [Lifehacker] [Marcus Samuelsson’s Favorite Dish to Cook With His Son](https://lifehacker.com/marcus-samuelsson-s-favorite-dish-to-cook-with-his-son-1849864949)
 - [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV ji](https://dev.to/harshsinghrajput/mongodb-atlas-hackathon-2022-on-dev-15am)
-- [Dev.to/JS] [SignLanguage - Learn ASL Practically - &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/narottam04/signlanguage-learn-asl-practically-mongodb-atlas-hackathon-2022-submission-2cl7)
-- [Dev.to/JS] [Introducing easyblog - write once share to many !](https://dev.to/rajeshkhadka/introducing-easyblog-for-mongodb-atlas-hackathon-2gbk)
-- [Dev.to/JS] [&quot;Of&quot; vs &quot;For&quot; - How to use each and what is the difference?](https://dev.to/blamb31/of-vs-for-how-to-use-each-and-what-is-the-difference-1h9n)
-- [Dev.to/JS] [DOM manipulation - using Array method on HTML tags](https://dev.to/yuridevat/dom-manipulation-using-array-method-on-html-tags-3mgp)
 - [Lifehacker] [Use Cling Wrap to Keep Your Refrigerator Clean](https://lifehacker.com/use-cling-wrap-to-keep-your-refrigerator-clean-1849869857)
 - [Lifehacker] [Use House Sitting to Travel on a Budget](https://lifehacker.com/use-house-sitting-to-travel-on-a-budget-1849869548)
 - [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, Metallica Isn&#39;t Giving Away Free Crypto](https://lifehacker.com/no-metallica-isnt-giving-away-free-crypto-1849864418)
 - [Lifehacker] [Use This Shortcut to Search Your Chrome Tabs, Bookmarks, and History](https://lifehacker.com/use-this-shortcut-to-search-your-chrome-tabs-bookmarks-1849863963)
 - [Lifehacker] [How to Prevent &#39;Human-Giver Syndrome&#39; This Holiday Season](https://lifehacker.com/how-to-prevent-human-giver-syndrome-this-holiday-season-1849862145)
-- [Lifehacker] [10 of the Hottest Holiday Gift Ideas for Kids](https://lifehacker.com/10-of-the-hottest-holiday-gift-ideas-for-kids-1849861941)
-- [Lifehacker] [How to Manage Your Anxiety During the Holidays](https://lifehacker.com/how-to-manage-your-anxiety-during-the-holidays-1849862228)
-- [Lifehacker] [11 Long-ass Video Games You Can Play All Winter](https://lifehacker.com/11-long-ass-video-games-you-can-play-all-winter-1849862267)
-- [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Hottest Holiday Gift Ideas for Kids](https://lifehacker.com/10-of-the-hottest-holiday-gift-ideas-for-kids-1849861941)<!-- TECH-POSTS:END -->
 
 ---
 
