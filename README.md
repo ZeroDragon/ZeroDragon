@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Client-side object validation with Yup](https://dev.to/hi_iam_chris/client-side-object-validation-with-yup-4f7a)
+- [Dev.to/JS] [I Automated Daily Standups for Developers](https://dev.to/codewithbernard/i-automated-daily-standups-for-developers-1oc8)
+- [Dev.to/JS] [Senior Full-stack JavaScript Engineer Needed](https://dev.to/hrchamp/senior-full-stack-javascript-engineer-needed-4h7n)
+- [Dev.to/JS] [Assignment Writing Help in UK](https://dev.to/jenifierjeni/assignment-writing-help-in-uk-351)
 - [Dev.to/JS] [What&#39;s New in Next.js 13? All you need to Know!](https://dev.to/solutelabs/whats-new-in-nextjs-13-all-you-need-to-know-3e5e)
 - [Dev.to/JS] [20 Common NodeJS tools / packages for your backend production app](https://dev.to/siddiqus/20-common-nodejs-tools-packages-for-your-backend-production-app-14p9)
 - [Dev.to/JS] [Do i need to use cleanup function on useEffect?](https://dev.to/csituma/do-i-need-to-use-cleanup-function-on-useeffect-300d)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do you know MOD-CSS, the new utility-first CSS framework ?](https://dev.to/dev_geos/do-you-know-mod-css-the-new-utility-first-css-framework--350g)
 - [Dev.to/JS] [React: Switch background images when they are ready](https://dev.to/syeo66/react-switch-background-images-when-they-are-ready-896)
 - [Dev.to/JS] [Why we use empty array with UseEffect](https://dev.to/csituma/why-we-use-empty-array-with-useeffect-iok)
-- [Dev.to/JS] [How to refactor for js](https://dev.to/harryrefact/how-to-refactor-for-js-35k6)
-- [Dev.to/JS] [How To Use Extremely Large Numbers in JavaScript - JavaScript BigInt](https://dev.to/mkday/how-to-use-extremely-large-numbers-in-javascript-javascript-bigint-n42)
-- [Dev.to/JS] [How to Get Started With Node and NVM on MacOS &lpar;M1/ M2&rpar; in 2023](https://dev.to/gerryaballa/how-to-get-started-with-node-and-nvm-on-mac-m1-m2-in-2023-4bol)
-- [Dev.to/JS] [Things don&#39;t always go as planned](https://dev.to/ririio/things-dont-always-go-as-planned-361d)
 - [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
 - [Lifehacker] [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
 - [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
