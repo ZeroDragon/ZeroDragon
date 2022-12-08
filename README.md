@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello World, from Somaliland in Horn of Africa](https://dev.to/sadamyusuf/hello-world-from-somaliland-in-horn-of-africa-21fm)
+- [Dev.to/JS] [How to be consistent in learning JavaScript](https://dev.to/danities316/how-to-be-consistent-in-learning-javascript-4p5n)
 - [Dev.to/JS] [What is Higher Order function and Callback function in Javascript?](https://dev.to/abdullah5xm/what-is-callback-function-in-javascript-231b)
 - [Dev.to/JS] [Explaining JavaScript closures in one simple program. 3 minute read.](https://dev.to/geomukkath/explaining-javascript-closures-in-one-simple-program-3-minute-read-p33)
 - [Dev.to/JS] [Why We Need Jotai v2 API](https://dev.to/dai_shi/why-we-need-jotai-v2-api-4ak1)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easiest way to add HMR in your chrome extension](https://dev.to/anilkumarum/easiest-way-to-add-hmr-in-your-chrome-extension-3898)
 - [Dev.to/JS] [Quickest JS string generator](https://dev.to/kradford/quickest-js-string-generator-3ndf)
 - [Lifehacker] [How to Prevent &#39;Human-Giver Syndrome&#39; This Holiday Season](https://lifehacker.com/how-to-prevent-human-giver-syndrome-this-holiday-season-1849862145)
-- [Dev.to/JS] [The binary option scam](https://dev.to/tony93/the-binary-option-scam-3cli)
 - [Lifehacker] [10 of the Hottest Holiday Gift Ideas for Kids](https://lifehacker.com/10-of-the-hottest-holiday-gift-ideas-for-kids-1849861941)
-- [Dev.to/JS] [Avoiding Common Pitfalls when Working with React JS 🚫](https://dev.to/namanvyas/avoiding-common-pitfalls-when-working-with-react-js-58pp)
 - [Lifehacker] [How to Manage Your Anxiety During the Holidays](https://lifehacker.com/how-to-manage-your-anxiety-during-the-holidays-1849862228)
 - [Lifehacker] [11 Long-ass Video Games You Can Play All Winter](https://lifehacker.com/11-long-ass-video-games-you-can-play-all-winter-1849862267)
 - [Lifehacker] [You&#39;re Most Likely to Break Up In January](https://lifehacker.com/youre-most-likely-to-break-up-in-january-1849862208)
