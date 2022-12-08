@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SneakerShop: Tutorial ReactNative &amp; Tailwind ⚛️ + 🎨 = ✨👟✨ &lpar;Part 1&rpar;](https://dev.to/maj07/sneakershop-tutorial-reactnative-tailwind-part-1-18nd)
+- [Dev.to/JS] [What is Sanity.io? A Customer-Centered Deep Dive](https://dev.to/dsalinasgardon/what-is-sanityio-a-customer-centered-deep-dive-53h0)
+- [Lifehacker] [Use Cling Wrap to Keep Your Refrigerator Clean](https://lifehacker.com/use-cling-wrap-to-keep-your-refrigerator-clean-1849869857)
+- [Dev.to/JS] [Build a Free Twitter Scheduler with Next.js](https://dev.to/ixartz/build-a-free-twitter-scheduler-with-nextjs-41jf)
+- [Dev.to/JS] [How to reverse a string in JavaScript](https://dev.to/moibra/how-to-reverse-a-string-in-javascript-4ap0)
+- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/moyfdzz/asynchronous-javascript-4o04)
+- [Lifehacker] [Use House Sitting to Travel on a Budget](https://lifehacker.com/use-house-sitting-to-travel-on-a-budget-1849869548)
 - [Dev.to/JS] [Introducing Lootle - for MongoDB Atlas Hackathon](https://dev.to/aashishpanthi/introducing-lootle-for-mongodb-atlas-hackathon-5f9n)
 - [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)
 - [Dev.to/JS] [Learn GraphQL and Apollo Client With a Simple React Project](https://dev.to/nitinfab/learn-graphql-and-apollo-client-with-a-simple-react-project-13fd)
@@ -32,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Buying New Apple Devices](https://lifehacker.com/stop-buying-new-apple-devices-1849868903)
 - [Dev.to/JS] [Getting Started With SolidJS](https://dev.to/get_pieces/getting-started-with-solidjs-8l8)
 - [Dev.to/JS] [Solving day 08 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-08-of-advent-of-code-2022-in-javascript-27pe)
-- [Dev.to/JS] [Calling all talented developers AROUND THE GLOBE!](https://dev.to/shoaib310/calling-all-talented-developers-around-the-globe-43i8)
 - [Lifehacker] [Four Ways to DIY a Christmas Tree](https://lifehacker.com/four-ways-to-diy-a-christmas-tree-1849867789)
-- [Dev.to/JS] [i18n with Next.js 13 and app directory](https://dev.to/adrai/i18n-with-nextjs-13-and-app-directory-18dm)
-- [Dev.to/JS] [No Space Left On Device](https://dev.to/rmion/no-space-left-on-device-4kod)
-- [Dev.to/JS] [Pre-Generated SDK Libraries That Help You Build Apps Faster](https://dev.to/hackmamba/pre-generated-sdk-libraries-that-help-you-build-apps-faster-4fig)
-- [Dev.to/JS] [AI-generated explanations and comments for JavaScript code](https://dev.to/lgrammel/ai-generated-explanations-and-comments-for-javascript-code-1i96)
 - [Lifehacker] [10 of the Best Gifts for Soccer Fans](https://lifehacker.com/10-of-the-best-gifts-for-soccer-fans-1849866009)
 - [Lifehacker] [How to Make a Tofu Scramble That Doesn&#39;t Suck](https://lifehacker.com/how-to-make-a-tofu-scramble-that-doesnt-suck-1849865839)
 - [Lifehacker] [Make the Best Lazy Chicken Pot Pie From a Can of Soup](https://lifehacker.com/make-the-best-lazy-chicken-pot-pie-from-a-can-of-soup-1849865516)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)
 - [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
-- [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
-- [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
-- [Lifehacker] [Re-Crispify Stale Crackers, Chips, and Cookies in Your Oven](https://lifehacker.com/re-crispify-stale-crackers-chips-and-cookies-in-your-1849860577)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)<!-- TECH-POSTS:END -->
 
 ---
 
