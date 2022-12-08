@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Marcus Samuelsson’s Favorite Dish to Cook With His Son](https://lifehacker.com/marcus-samuelsson-s-favorite-dish-to-cook-with-his-son-1849864949)
+- [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV ji](https://dev.to/harshsinghrajput/mongodb-atlas-hackathon-2022-on-dev-15am)
+- [Dev.to/JS] [SignLanguage - Learn ASL Practically - &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/narottam04/signlanguage-learn-asl-practically-mongodb-atlas-hackathon-2022-submission-2cl7)
+- [Dev.to/JS] [Introducing easyblog - write once share to many !](https://dev.to/rajeshkhadka/introducing-easyblog-for-mongodb-atlas-hackathon-2gbk)
+- [Dev.to/JS] [&quot;Of&quot; vs &quot;For&quot; - How to use each and what is the difference?](https://dev.to/blamb31/of-vs-for-how-to-use-each-and-what-is-the-difference-1h9n)
+- [Dev.to/JS] [DOM manipulation - using Array method on HTML tags](https://dev.to/yuridevat/dom-manipulation-using-array-method-on-html-tags-3mgp)
+- [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/rajeshj3/mongodb-atlas-hackathon-2022-on-dev-5300)
 - [Dev.to/JS] [SneakerShop: Tutorial ReactNative &amp; Tailwind ⚛️ + 🎨 = ✨👟✨ &lpar;Part 1&rpar;](https://dev.to/maj07/sneakershop-tutorial-reactnative-tailwind-part-1-18nd)
 - [Dev.to/JS] [What is Sanity.io? A Customer-Centered Deep Dive](https://dev.to/dsalinasgardon/what-is-sanityio-a-customer-centered-deep-dive-53h0)
 - [Lifehacker] [Use Cling Wrap to Keep Your Refrigerator Clean](https://lifehacker.com/use-cling-wrap-to-keep-your-refrigerator-clean-1849869857)
@@ -32,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use House Sitting to Travel on a Budget](https://lifehacker.com/use-house-sitting-to-travel-on-a-budget-1849869548)
 - [Dev.to/JS] [Introducing Lootle - for MongoDB Atlas Hackathon](https://dev.to/aashishpanthi/introducing-lootle-for-mongodb-atlas-hackathon-5f9n)
 - [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)
-- [Dev.to/JS] [Learn GraphQL and Apollo Client With a Simple React Project](https://dev.to/nitinfab/learn-graphql-and-apollo-client-with-a-simple-react-project-13fd)
-- [Dev.to/JS] [Code Smell 185 - Evil Regular Expressions](https://dev.to/mcsee/code-smell-185-evil-regular-expressions-47ko)
-- [Dev.to/JS] [Create a free OpenAI GPT-3 Bot to Have Someone to Talk to at Work via a Slack app with Serverless](https://dev.to/lolo_code/create-a-free-openai-gpt-3-bot-to-have-someone-to-talk-to-at-work-via-a-slack-app-with-serverless-2fm3)
-- [Dev.to/JS] [Paracetamol.js💊| #192: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-192-explica-este-codigo-javascript-foc)
 - [Lifehacker] [Stop Buying New Apple Devices](https://lifehacker.com/stop-buying-new-apple-devices-1849868903)
-- [Dev.to/JS] [Getting Started With SolidJS](https://dev.to/get_pieces/getting-started-with-solidjs-8l8)
-- [Dev.to/JS] [Solving day 08 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-08-of-advent-of-code-2022-in-javascript-27pe)
 - [Lifehacker] [Four Ways to DIY a Christmas Tree](https://lifehacker.com/four-ways-to-diy-a-christmas-tree-1849867789)
 - [Lifehacker] [10 of the Best Gifts for Soccer Fans](https://lifehacker.com/10-of-the-best-gifts-for-soccer-fans-1849866009)
 - [Lifehacker] [How to Make a Tofu Scramble That Doesn&#39;t Suck](https://lifehacker.com/how-to-make-a-tofu-scramble-that-doesnt-suck-1849865839)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fold Your Charcuterie, You Slobs](https://lifehacker.com/fold-your-charcuterie-you-slobs-1849861101)
 - [Lifehacker] [18 Movies to Snort Before &#39;Cocaine Bear&#39;](https://lifehacker.com/18-movies-to-snort-before-cocaine-bear-1849855262)
 - [Lifehacker] [Always Keep Soy Milk in Your Pantry](https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421)
-- [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
-- [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)<!-- TECH-POSTS:END -->
 
 ---
 
