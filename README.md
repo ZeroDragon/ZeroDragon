@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use Extremely Large Numbers in JavaScript - JavaScript BigInt](https://dev.to/mkday/how-to-use-extremely-large-numbers-in-javascript-javascript-bigint-n42)
+- [Dev.to/JS] [How to Get Started With Node and NVM on MacOS &lpar;M1/ M2&rpar; in 2023](https://dev.to/gerryaballa/how-to-get-started-with-node-and-nvm-on-mac-m1-m2-in-2023-4bol)
 - [Dev.to/JS] [Things don&#39;t always go as planned](https://dev.to/ririio/things-dont-always-go-as-planned-361d)
 - [Dev.to/JS] [vn88chinhthuc](https://dev.to/vn88chinhthuc/vn88chinhthuc-4bl0)
 - [Dev.to/JS] [Hello World, from Somaliland in Horn of Africa](https://dev.to/sadamyusuf/hello-world-from-somaliland-in-horn-of-africa-21fm)
@@ -34,11 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to set up an Express.js project with TypeScript](https://dev.to/serhii_kucherenko/how-to-set-up-an-expressjs-project-with-typescript-353a)
 - [Dev.to/JS] [Add an Image Editor to your app with Pintura](https://dev.to/asayerio_techblog/add-an-image-editor-to-your-app-with-pintura-om1)
 - [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
-- [Dev.to/JS] [JavaScript for Interviews](https://dev.to/satejbidvai/javascript-for-interviews-4k6e)
 - [Lifehacker] [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
 - [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
 - [Lifehacker] [Prue Leith&#39;s Favorite Low-Fuss, High-Happiness Dessert](https://lifehacker.com/prue-leiths-favorite-low-fuss-high-happiness-dessert-1849864864)
-- [Dev.to/JS] [13. Roman to Integer - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/13-roman-to-integer-javascript-solution-by-abu-saleh-faysal-20ka)
 - [Lifehacker] [Make a Disinfectant Using Your Christmas Tree](https://lifehacker.com/make-a-disinfectant-using-your-christmas-tree-1849865101)
 - [Lifehacker] [12 White Elephant Gifts That Are Just Barely Appropriate](https://lifehacker.com/12-white-elephant-gifts-that-are-just-barely-appropriat-1849864639)
 - [Lifehacker] [Here’s What Happens When You Don’t Clean Your Bellybutton](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424)
