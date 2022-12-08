@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Lootle - for MongoDB Atlas Hackathon](https://dev.to/aashishpanthi/introducing-lootle-for-mongodb-atlas-hackathon-5f9n)
+- [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)
+- [Dev.to/JS] [Learn GraphQL and Apollo Client With a Simple React Project](https://dev.to/nitinfab/learn-graphql-and-apollo-client-with-a-simple-react-project-13fd)
+- [Dev.to/JS] [Code Smell 185 - Evil Regular Expressions](https://dev.to/mcsee/code-smell-185-evil-regular-expressions-47ko)
+- [Dev.to/JS] [Create a free OpenAI GPT-3 Bot to Have Someone to Talk to at Work via a Slack app with Serverless](https://dev.to/lolo_code/create-a-free-openai-gpt-3-bot-to-have-someone-to-talk-to-at-work-via-a-slack-app-with-serverless-2fm3)
 - [Dev.to/JS] [Paracetamol.js💊| #192: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-192-explica-este-codigo-javascript-foc)
+- [Lifehacker] [Stop Buying New Apple Devices](https://lifehacker.com/stop-buying-new-apple-devices-1849868903)
 - [Dev.to/JS] [Getting Started With SolidJS](https://dev.to/get_pieces/getting-started-with-solidjs-8l8)
 - [Dev.to/JS] [Solving day 08 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-08-of-advent-of-code-2022-in-javascript-27pe)
 - [Dev.to/JS] [Calling all talented developers AROUND THE GLOBE!](https://dev.to/shoaib310/calling-all-talented-developers-around-the-globe-43i8)
@@ -32,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [No Space Left On Device](https://dev.to/rmion/no-space-left-on-device-4kod)
 - [Dev.to/JS] [Pre-Generated SDK Libraries That Help You Build Apps Faster](https://dev.to/hackmamba/pre-generated-sdk-libraries-that-help-you-build-apps-faster-4fig)
 - [Dev.to/JS] [AI-generated explanations and comments for JavaScript code](https://dev.to/lgrammel/ai-generated-explanations-and-comments-for-javascript-code-1i96)
-- [Dev.to/JS] [What is Node.js?](https://dev.to/meddy672/what-is-nodejs-2fa6)
 - [Lifehacker] [10 of the Best Gifts for Soccer Fans](https://lifehacker.com/10-of-the-best-gifts-for-soccer-fans-1849866009)
-- [Dev.to/JS] [JavaScript Higher Order Functions and Callback functions](https://dev.to/michellebuchiokonicha/javascript-higher-order-functions-and-callback-functions-33mm)
-- [Dev.to/JS] [Max Consecutive Ones III](https://dev.to/zeeshanali0704/max-consecutive-ones-iii-1c8e)
-- [Dev.to/JS] [Cules Coding - A blogging website &lpar;MongoDB Atlas Hackathon 2022 submission&rpar;](https://dev.to/thatanjan/cules-coding-a-blogging-website-mongodb-atlas-hackathon-2022-submission-2736)
 - [Lifehacker] [How to Make a Tofu Scramble That Doesn&#39;t Suck](https://lifehacker.com/how-to-make-a-tofu-scramble-that-doesnt-suck-1849865839)
 - [Lifehacker] [Make the Best Lazy Chicken Pot Pie From a Can of Soup](https://lifehacker.com/make-the-best-lazy-chicken-pot-pie-from-a-can-of-soup-1849865516)
 - [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 &#39;Digital&#39; Gifts That Are Still Thoughtful](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
 - [Lifehacker] [Try the ‘FlyLady’ Cleaning Method](https://lifehacker.com/try-the-flylady-cleaning-method-1849861050)
 - [Lifehacker] [Don’t Get Scammed Buying Gift Cards This Year](https://lifehacker.com/don-t-get-scammed-buying-gift-cards-this-year-1849860691)
-- [Lifehacker] [Re-Crispify Stale Crackers, Chips, and Cookies in Your Oven](https://lifehacker.com/re-crispify-stale-crackers-chips-and-cookies-in-your-1849860577)
-- [Lifehacker] [Point-and-Shoot Cameras Are Back, Baby](https://lifehacker.com/point-and-shoot-cameras-are-back-baby-1849859515)
-- [Lifehacker] [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Re-Crispify Stale Crackers, Chips, and Cookies in Your Oven](https://lifehacker.com/re-crispify-stale-crackers-chips-and-cookies-in-your-1849860577)<!-- TECH-POSTS:END -->
 
 ---
 
