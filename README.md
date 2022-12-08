@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Higher Order Functions and Callback functions](https://dev.to/michellebuchiokonicha/javascript-higher-order-functions-and-callback-functions-33mm)
+- [Dev.to/JS] [Max Consecutive Ones III](https://dev.to/zeeshanali0704/max-consecutive-ones-iii-1c8e)
+- [Dev.to/JS] [Cules Coding - A blogging website &lpar;MongoDB Atlas Hackathon 2022 submission&rpar;](https://dev.to/thatanjan/cules-coding-a-blogging-website-mongodb-atlas-hackathon-2022-submission-2736)
+- [Lifehacker] [How to Make a Tofu Scramble That Doesn&#39;t Suck](https://lifehacker.com/how-to-make-a-tofu-scramble-that-doesnt-suck-1849865839)
+- [Dev.to/JS] [12 Useful JavaScript Libraries You’ve Probably Never Used](https://dev.to/devland/12-useful-javascript-libraries-youve-probably-never-used-221b)
+- [Dev.to/JS] [Convert and Execute JS code as React Component](https://dev.to/ariyou2000/convert-and-execute-js-code-as-react-component-4m1j)
+- [Lifehacker] [Make the Best Lazy Chicken Pot Pie From a Can of Soup](https://lifehacker.com/make-the-best-lazy-chicken-pot-pie-from-a-can-of-soup-1849865516)
 - [Dev.to/JS] [Client-side object validation with Yup](https://dev.to/hi_iam_chris/client-side-object-validation-with-yup-4f7a)
 - [Dev.to/JS] [I Automated Daily Standups for Developers](https://dev.to/codewithbernard/i-automated-daily-standups-for-developers-1oc8)
 - [Dev.to/JS] [Senior Full-stack JavaScript Engineer Needed](https://dev.to/hrchamp/senior-full-stack-javascript-engineer-needed-4h7n)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s New in Next.js 13? All you need to Know!](https://dev.to/solutelabs/whats-new-in-nextjs-13-all-you-need-to-know-3e5e)
 - [Dev.to/JS] [20 Common NodeJS tools / packages for your backend production app](https://dev.to/siddiqus/20-common-nodejs-tools-packages-for-your-backend-production-app-14p9)
 - [Dev.to/JS] [Do i need to use cleanup function on useEffect?](https://dev.to/csituma/do-i-need-to-use-cleanup-function-on-useeffect-300d)
-- [Dev.to/JS] [JavaScript Functions: Why They&#39;re Essential to Understand? | Easy Guide - Part2](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
-- [Dev.to/JS] [Playing with colors: useful tools for your next project](https://dev.to/toviszsolt/playing-with-colors-useful-tools-for-your-next-project-2aj7)
-- [Dev.to/JS] [Do you know MOD-CSS, the new utility-first CSS framework ?](https://dev.to/dev_geos/do-you-know-mod-css-the-new-utility-first-css-framework--350g)
-- [Dev.to/JS] [React: Switch background images when they are ready](https://dev.to/syeo66/react-switch-background-images-when-they-are-ready-896)
-- [Dev.to/JS] [Why we use empty array with UseEffect](https://dev.to/csituma/why-we-use-empty-array-with-useeffect-iok)
 - [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
 - [Lifehacker] [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
 - [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Point-and-Shoot Cameras Are Back, Baby](https://lifehacker.com/point-and-shoot-cameras-are-back-baby-1849859515)
 - [Lifehacker] [7 Ways to Open a Bottle of Wine Without a Corkscrew](https://lifehacker.com/7-ways-to-open-a-bottle-of-wine-without-a-corkscrew-1849859701)
 - [Lifehacker] [12 of the Most Riveting Storytelling Podcasts Running](https://lifehacker.com/12-of-the-most-riveting-storytelling-podcasts-running-1849856104)
-- [Lifehacker] [Don&#39;t Eat This Oscar Mayer Ham, USDA Says](https://lifehacker.com/dont-eat-this-oscar-mayer-ham-usda-says-1849859469)
-- [Lifehacker] [A Complete Guide to Selling Stock Photos, Videos, and Music](https://lifehacker.com/a-complete-guide-to-selling-stock-photos-videos-and-m-1849859140)
-- [Lifehacker] [Fix Your Own Wobbly Toilet Seat](https://lifehacker.com/fix-your-own-wobbly-toilet-seat-1849857567)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Eat This Oscar Mayer Ham, USDA Says](https://lifehacker.com/dont-eat-this-oscar-mayer-ham-usda-says-1849859469)<!-- TECH-POSTS:END -->
 
 ---
 
