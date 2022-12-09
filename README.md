@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Might Be Using the Wrong Plunger](https://lifehacker.com/you-might-be-using-the-wrong-plunger-1849875131)
+- [Lifehacker] [&#39;Eco-Friendly&#39; Marketing Is Usually BS](https://lifehacker.com/eco-friendly-marketing-is-usually-bullshit-1849875042)
+- [Crazy Programmer] [C++ Iterate Over Vector – 4 Ways](https://www.thecrazyprogrammer.com/2022/12/c-iterate-over-vector.html)
+- [Dev.to/JS] [OSD600 r0.4 release](https://dev.to/dadolhay/osd600-r04-release-3fc)
+- [Dev.to/JS] [OAUTH for beginners and Key Terms.](https://dev.to/shrihari/oauth-for-beginners-and-key-terms-1plo)
+- [Dev.to/JS] [Controlled Forms - Why do we need them?](https://dev.to/keffdu/controlled-forms-why-do-we-need-them-5g23)
 - [Dev.to/JS] [What Are Regular Expressions? A Simple JavaScript Regex to Format Phone Numbers](https://dev.to/johnnyturco/what-are-regular-expressions-using-a-simple-javascript-regular-expression-to-format-phone-numbers-2cgh)
 - [Lifehacker] [The &#39;Nice&#39; Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
 - [Dev.to/JS] [recursion function](https://dev.to/gagecantrelle/recursion-function-7i8)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TW Classed - Make reusable Tailwind components](https://dev.to/sannajammeh/tw-classed-make-reusable-tailwind-components-13lp)
 - [Lifehacker] [Don’t Fall for This ‘Virtual Kidnapping’ Scam](https://lifehacker.com/don-t-fall-for-this-virtual-kidnapping-scam-1849871660)
 - [Dev.to/JS] [Best extensions to use in vscode](https://dev.to/johnbraga45/best-extensions-to-use-in-vscode-2naa)
-- [Dev.to/JS] [Developing and testing sortable Drag and Drop components. Part 2 - Testing.](https://dev.to/wolfriend/developing-and-testing-sortable-drag-and-drop-components-part-2-testing-13lj)
-- [Dev.to/JS] [deployment error from vercel having dependencies of node 16v](https://dev.to/keshri95/deployment-error-from-vercel-having-dependencies-of-node-16v-3ibl)
-- [Dev.to/JS] [The Advantages of Using Solid.js for Web Development](https://dev.to/exelord/the-advantages-of-using-solidjs-for-web-development-pn4)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Wednesday Addams?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-we-1849872960)
 - [Lifehacker] [There&#39;s Actually a Difference Between &#39;Snowfall&#39; and &#39;Snow Depth&#39;](https://lifehacker.com/theres-actually-a-difference-between-snowfall-and-snow-1849873485)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make the Best Lazy Chicken Pot Pie From a Can of Soup](https://lifehacker.com/make-the-best-lazy-chicken-pot-pie-from-a-can-of-soup-1849865516)
 - [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
 - [Lifehacker] [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
-- [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
-- [Lifehacker] [Prue Leith&#39;s Favorite Low-Fuss, High-Happiness Dessert](https://lifehacker.com/prue-leiths-favorite-low-fuss-high-happiness-dessert-1849864864)
-- [Lifehacker] [Make a Disinfectant Using Your Christmas Tree](https://lifehacker.com/make-a-disinfectant-using-your-christmas-tree-1849865101)
-- [Lifehacker] [12 White Elephant Gifts That Are Just Barely Appropriate](https://lifehacker.com/12-white-elephant-gifts-that-are-just-barely-appropriat-1849864639)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)<!-- TECH-POSTS:END -->
 
 ---
 
