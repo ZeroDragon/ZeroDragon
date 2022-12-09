@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Are Regular Expressions? A Simple JavaScript Regex to Format Phone Numbers](https://dev.to/johnnyturco/what-are-regular-expressions-using-a-simple-javascript-regular-expression-to-format-phone-numbers-2cgh)
+- [Lifehacker] [The &#39;Nice&#39; Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
+- [Dev.to/JS] [recursion function](https://dev.to/gagecantrelle/recursion-function-7i8)
+- [Dev.to/JS] [How To Set Up An Express Server in a Nodejs Project](https://dev.to/mariamadeyemi/how-to-set-up-an-express-server-in-a-nodejs-project-31k4)
+- [Dev.to/JS] [Hyperiondev - Web Dev bootcamp - day 5](https://dev.to/whippetcode/hyperiondev-web-dev-bootcamp-day-5-38eb)
 - [Lifehacker] [You Can Finally Encrypt These iCloud Backups](https://lifehacker.com/you-can-finally-encrypt-these-icloud-backups-1849873576)
 - [Dev.to/JS] [Create a Job Board Website Using React and Strapi](https://dev.to/strapi/create-a-job-board-website-using-react-and-strapi-4gfb)
 - [Lifehacker] [Your Fireplace Doesn&#39;t Have to Dry Out the Air](https://lifehacker.com/your-fireplace-doesnt-have-to-dry-out-the-air-1849871595)
@@ -34,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developing and testing sortable Drag and Drop components. Part 2 - Testing.](https://dev.to/wolfriend/developing-and-testing-sortable-drag-and-drop-components-part-2-testing-13lj)
 - [Dev.to/JS] [deployment error from vercel having dependencies of node 16v](https://dev.to/keshri95/deployment-error-from-vercel-having-dependencies-of-node-16v-3ibl)
 - [Dev.to/JS] [The Advantages of Using Solid.js for Web Development](https://dev.to/exelord/the-advantages-of-using-solidjs-for-web-development-pn4)
-- [Dev.to/JS] [QuantiMat - Reduce of 20x some colors within 88ms ! &lpar;down to 2000&rpar;](https://dev.to/vipert/quantimat-reduce-of-20x-some-colors-within-88ms-down-to-2000-2pho)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Wednesday Addams?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-we-1849872960)
 - [Lifehacker] [There&#39;s Actually a Difference Between &#39;Snowfall&#39; and &#39;Snow Depth&#39;](https://lifehacker.com/theres-actually-a-difference-between-snowfall-and-snow-1849873485)
-- [Dev.to/JS] [Adding Tailwind to Nuxt 3](https://dev.to/thesameeric/adding-tailwind-to-nuxt-3-39n6)
-- [Dev.to/JS] [Revive Daily - Price, Reviews, Pros, Cons, Uses &amp; Benefits?](https://dev.to/revivedaily2/revive-daily-price-reviews-pros-cons-uses-benefits-6m0)
-- [Dev.to/JS] [Set up Argos with Cypress and GitHub Actions in minutes](https://dev.to/jsfez/set-up-argos-with-cypress-and-github-actions-in-minutes-4g33)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)
 - [Lifehacker] [Prue Leith&#39;s Favorite Low-Fuss, High-Happiness Dessert](https://lifehacker.com/prue-leiths-favorite-low-fuss-high-happiness-dessert-1849864864)
 - [Lifehacker] [Make a Disinfectant Using Your Christmas Tree](https://lifehacker.com/make-a-disinfectant-using-your-christmas-tree-1849865101)
-- [Lifehacker] [12 White Elephant Gifts That Are Just Barely Appropriate](https://lifehacker.com/12-white-elephant-gifts-that-are-just-barely-appropriat-1849864639)
-- [Lifehacker] [Here’s What Happens When You Don’t Clean Your Bellybutton](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 White Elephant Gifts That Are Just Barely Appropriate](https://lifehacker.com/12-white-elephant-gifts-that-are-just-barely-appropriat-1849864639)<!-- TECH-POSTS:END -->
 
 ---
 
