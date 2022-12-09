@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React useMemo for optimization](https://dev.to/nikeshkumartk/react-usememo-for-optimization-150p)
 - [Dev.to/JS] [Avoid These Common Pitfalls Of React useState](https://dev.to/jkettmann/avoid-these-common-pitfalls-of-react-usestate-4d2a)
 - [Dev.to/JS] [6 Awesome tools to write better code](https://dev.to/surajondev/6-awesome-tools-to-write-better-code-3p26)
 - [Dev.to/JS] [Solving day 09 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-09-of-advent-of-code-2022-in-javascript-1f41)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My first CLI app](https://dev.to/learnersaurabh/my-first-cli-app-127p)
 - [Dev.to/JS] [Build a custom Javascript linter in 5 minutes](https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j)
 - [Dev.to/JS] [Family Lawyers 80766 08322](https://dev.to/vinaypratapasf/family-lawyers-80766-08322-11jp)
-- [Dev.to/JS] [Best Divorce Lawyers,&lpar; 80766 08322 &rpar;Divorce Lawyers, Property Lawyers,](https://dev.to/vinaypratapasf/best-divorce-lawyers-80766-08322-divorce-lawyers-property-lawyers-134c)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
