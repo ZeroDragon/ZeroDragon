@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Secret Trick to Making Sure Your Users Enter Valid Usernames and Passwords!](https://dev.to/akshansh773/the-secret-trick-to-making-sure-your-users-enter-valid-usernames-and-passwords-3gk4)
 - [Lifehacker] [You Might Be Using the Wrong Plunger](https://lifehacker.com/you-might-be-using-the-wrong-plunger-1849875131)
 - [Lifehacker] [&#39;Eco-Friendly&#39; Marketing Is Usually BS](https://lifehacker.com/eco-friendly-marketing-is-usually-bullshit-1849875042)
 - [Crazy Programmer] [C++ Iterate Over Vector – 4 Ways](https://www.thecrazyprogrammer.com/2022/12/c-iterate-over-vector.html)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [𝟱 𝗙𝗿𝗲𝗲 𝗔𝗣𝗜𝘀 𝗙𝗼𝗿 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 🔥](https://dev.to/johnbraga45/-3d0p)
 - [Dev.to/JS] [TW Classed - Make reusable Tailwind components](https://dev.to/sannajammeh/tw-classed-make-reusable-tailwind-components-13lp)
 - [Lifehacker] [Don’t Fall for This ‘Virtual Kidnapping’ Scam](https://lifehacker.com/don-t-fall-for-this-virtual-kidnapping-scam-1849871660)
-- [Dev.to/JS] [Best extensions to use in vscode](https://dev.to/johnbraga45/best-extensions-to-use-in-vscode-2naa)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Wednesday Addams?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-we-1849872960)
 - [Lifehacker] [There&#39;s Actually a Difference Between &#39;Snowfall&#39; and &#39;Snow Depth&#39;](https://lifehacker.com/theres-actually-a-difference-between-snowfall-and-snow-1849873485)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
