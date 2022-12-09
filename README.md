@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 Easy WFH Lunches You Can Make Between Meetings](https://lifehacker.com/11-easy-wfh-lunches-you-can-make-between-meetings-1849871913)
+- [Dev.to/JS] [How I can upload a javascript file using ajax once I resize an image in a manner where $_FILES can be used in php](https://dev.to/pcmagas/how-i-can-upload-a-javascript-file-using-ajax-once-i-resize-an-image-in-a-manner-where-files-can-be-used-in-php-3ig0)
+- [Lifehacker] [The Weirdest Things You Never Knew You Could Insure](https://lifehacker.com/the-weirdest-things-you-never-knew-you-could-insure-1849875325)
+- [Dev.to/JS] [Javascript For Loop](https://dev.to/codingclaw/javascript-for-loop-imp)
+- [Dev.to/JS] [Simple Project HTML, JavaScript, CSS](https://dev.to/jccaropino7786/simple-project-html-javascript-css-54dc)
+- [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New Tech of 2022](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-tech-o-1849874899)
 - [Dev.to/JS] [The Secret Trick to Making Sure Your Users Enter Valid Usernames and Passwords!](https://dev.to/akshansh773/the-secret-trick-to-making-sure-your-users-enter-valid-usernames-and-passwords-3gk4)
 - [Lifehacker] [You Might Be Using the Wrong Plunger](https://lifehacker.com/you-might-be-using-the-wrong-plunger-1849875131)
 - [Lifehacker] [&#39;Eco-Friendly&#39; Marketing Is Usually BS](https://lifehacker.com/eco-friendly-marketing-is-usually-bullshit-1849875042)
@@ -38,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Encrypt These iCloud Backups](https://lifehacker.com/you-can-finally-encrypt-these-icloud-backups-1849873576)
 - [Dev.to/JS] [Create a Job Board Website Using React and Strapi](https://dev.to/strapi/create-a-job-board-website-using-react-and-strapi-4gfb)
 - [Lifehacker] [Your Fireplace Doesn&#39;t Have to Dry Out the Air](https://lifehacker.com/your-fireplace-doesnt-have-to-dry-out-the-air-1849871595)
-- [Dev.to/JS] [JavaScript Loops](https://dev.to/matthewpmi/javascript-loops-4mli)
-- [Dev.to/JS] [𝟱 𝗙𝗿𝗲𝗲 𝗔𝗣𝗜𝘀 𝗙𝗼𝗿 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 🔥](https://dev.to/johnbraga45/-3d0p)
-- [Dev.to/JS] [TW Classed - Make reusable Tailwind components](https://dev.to/sannajammeh/tw-classed-make-reusable-tailwind-components-13lp)
 - [Lifehacker] [Don’t Fall for This ‘Virtual Kidnapping’ Scam](https://lifehacker.com/don-t-fall-for-this-virtual-kidnapping-scam-1849871660)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Wednesday Addams?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-we-1849872960)
 - [Lifehacker] [There&#39;s Actually a Difference Between &#39;Snowfall&#39; and &#39;Snow Depth&#39;](https://lifehacker.com/theres-actually-a-difference-between-snowfall-and-snow-1849873485)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to DIY a Christmas Tree](https://lifehacker.com/four-ways-to-diy-a-christmas-tree-1849867789)
 - [Lifehacker] [10 of the Best Gifts for Soccer Fans](https://lifehacker.com/10-of-the-best-gifts-for-soccer-fans-1849866009)
 - [Lifehacker] [How to Make a Tofu Scramble That Doesn&#39;t Suck](https://lifehacker.com/how-to-make-a-tofu-scramble-that-doesnt-suck-1849865839)
-- [Lifehacker] [Make the Best Lazy Chicken Pot Pie From a Can of Soup](https://lifehacker.com/make-the-best-lazy-chicken-pot-pie-from-a-can-of-soup-1849865516)
-- [Lifehacker] [How &#39;Planned Happenstance&#39; Can Add Luck to Your Career](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
-- [Lifehacker] [You Can Now Turn Apple Music Into a Free Karaoke Machine](https://lifehacker.com/you-can-now-turn-apple-music-into-a-free-karaoke-machin-1849865397)
-- [Lifehacker] [Why So Many Homes Are Being Taken Off the Market Right Now](https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make the Best Lazy Chicken Pot Pie From a Can of Soup](https://lifehacker.com/make-the-best-lazy-chicken-pot-pie-from-a-can-of-soup-1849865516)<!-- TECH-POSTS:END -->
 
 ---
 
