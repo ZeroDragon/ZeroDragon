@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Finally Encrypt These iCloud Backups](https://lifehacker.com/you-can-finally-encrypt-these-icloud-backups-1849873576)
+- [Dev.to/JS] [Create a Job Board Website Using React and Strapi](https://dev.to/strapi/create-a-job-board-website-using-react-and-strapi-4gfb)
+- [Lifehacker] [Your Fireplace Doesn&#39;t Have to Dry Out the Air](https://lifehacker.com/your-fireplace-doesnt-have-to-dry-out-the-air-1849871595)
+- [Dev.to/JS] [JavaScript Loops](https://dev.to/matthewpmi/javascript-loops-4mli)
+- [Dev.to/JS] [𝟱 𝗙𝗿𝗲𝗲 𝗔𝗣𝗜𝘀 𝗙𝗼𝗿 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 🔥](https://dev.to/johnbraga45/-3d0p)
 - [Dev.to/JS] [TW Classed - Make reusable Tailwind components](https://dev.to/sannajammeh/tw-classed-make-reusable-tailwind-components-13lp)
+- [Lifehacker] [Don’t Fall for This ‘Virtual Kidnapping’ Scam](https://lifehacker.com/don-t-fall-for-this-virtual-kidnapping-scam-1849871660)
 - [Dev.to/JS] [Best extensions to use in vscode](https://dev.to/johnbraga45/best-extensions-to-use-in-vscode-2naa)
 - [Dev.to/JS] [Developing and testing sortable Drag and Drop components. Part 2 - Testing.](https://dev.to/wolfriend/developing-and-testing-sortable-drag-and-drop-components-part-2-testing-13lj)
 - [Dev.to/JS] [deployment error from vercel having dependencies of node 16v](https://dev.to/keshri95/deployment-error-from-vercel-having-dependencies-of-node-16v-3ibl)
@@ -34,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Tailwind to Nuxt 3](https://dev.to/thesameeric/adding-tailwind-to-nuxt-3-39n6)
 - [Dev.to/JS] [Revive Daily - Price, Reviews, Pros, Cons, Uses &amp; Benefits?](https://dev.to/revivedaily2/revive-daily-price-reviews-pros-cons-uses-benefits-6m0)
 - [Dev.to/JS] [Set up Argos with Cypress and GitHub Actions in minutes](https://dev.to/jsfez/set-up-argos-with-cypress-and-github-actions-in-minutes-4g33)
-- [Dev.to/JS] [This Week @ Grafbase - Dec 9](https://dev.to/grafbase/this-week-grafbase-dec-9-54jc)
-- [Dev.to/JS] [Supercharge your NodeJS Express application](https://dev.to/thesameeric/supercharge-your-nodejs-express-application-14mj)
-- [Dev.to/JS] [Search in Rotated Sorted Array II](https://dev.to/zeeshanali0704/search-in-rotated-sorted-array-ii-17d3)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prue Leith&#39;s Favorite Low-Fuss, High-Happiness Dessert](https://lifehacker.com/prue-leiths-favorite-low-fuss-high-happiness-dessert-1849864864)
 - [Lifehacker] [Make a Disinfectant Using Your Christmas Tree](https://lifehacker.com/make-a-disinfectant-using-your-christmas-tree-1849865101)
 - [Lifehacker] [12 White Elephant Gifts That Are Just Barely Appropriate](https://lifehacker.com/12-white-elephant-gifts-that-are-just-barely-appropriat-1849864639)
-- [Lifehacker] [Here’s What Happens When You Don’t Clean Your Bellybutton](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424)
-- [Lifehacker] [Make Sad, Dusty Granola Better With Butter](https://lifehacker.com/make-sad-dusty-granola-better-with-butter-1849864603)
-- [Lifehacker] [No, Metallica Isn&#39;t Giving Away Free Crypto](https://lifehacker.com/no-metallica-isnt-giving-away-free-crypto-1849864418)
-- [Lifehacker] [Use This Shortcut to Search Your Chrome Tabs, Bookmarks, and History](https://lifehacker.com/use-this-shortcut-to-search-your-chrome-tabs-bookmarks-1849863963)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s What Happens When You Don’t Clean Your Bellybutton](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424)<!-- TECH-POSTS:END -->
 
 ---
 
