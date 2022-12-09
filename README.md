@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Riffr - Create Photo Montages in the Browser with some ML Magic✨](https://dev.to/gulliblelamb/riffr-create-photo-montages-in-the-browser-with-some-ml-magic-5271)
+- [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/ankitbrijwasi/mongodb-atlas-hackathon-2022-on-dev-15im)
+- [Dev.to/JS] [Rewind - MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/dephraiim/rewind-mongodb-atlas-hackathon-2022-on-dev-4pg7)
+- [Dev.to/JS] [Animated Gosper Curves in JS](https://dev.to/castarco/animated-gosper-curves-in-js-4mg4)
 - [Dev.to/JS] [Integrate JS into the browser](https://dev.to/kellilil/integrate-js-into-the-browser-1o6f)
 - [Dev.to/JS] [PHP8.2: the modern PHP](https://dev.to/bashebr/php82-the-modern-php-252o)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I&#39;m looking for at react js 2 months internship &lpar;remote only&rpar;](https://dev.to/prtsl/im-looking-for-at-react-js-2-months-internship-remote-only-43pe)
 - [Dev.to/JS] [JavaScript web__constants &lpar;Node.js-friendly&rpar;](https://dev.to/projektorius96/javascript-webconstants-nodejs-friendly-3h27)
 - [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
-- [Dev.to/JS] [One finished Discord poll feature!](https://dev.to/devils2ndself/one-finished-discord-poll-feature-5b34)
 - [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)
-- [Dev.to/JS] [Challenge app - MongoDB Atlas Hackathon 2022 and my first Dev Post](https://dev.to/dovidmoishe/mongodb-atlas-hackathon-2022-and-my-first-dev-post-2kbl)
-- [Dev.to/JS] [JOBPKDO- you may be the next one who gets the job through Twitter](https://dev.to/gulshanaggarwal/jobpkdo-you-may-be-the-next-one-who-gets-the-job-through-twitter-31oh)
 - [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)
-- [Dev.to/JS] [Sigh, what AI supported Web Component development will look like](https://dev.to/dannyengelman/sigh-what-ai-supported-web-component-development-will-look-like-1phe)
 - [Lifehacker] [11 Deeply Strange U.S. Tourist Spots](https://lifehacker.com/11-deeply-strange-u-s-tourist-spots-1849870496)
 - [Lifehacker] [Marcus Samuelsson’s Favorite Dish to Cook With His Son](https://lifehacker.com/marcus-samuelsson-s-favorite-dish-to-cook-with-his-son-1849864949)
 - [Lifehacker] [Use Cling Wrap to Keep Your Refrigerator Clean](https://lifehacker.com/use-cling-wrap-to-keep-your-refrigerator-clean-1849869857)
