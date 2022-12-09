@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day24 | 77. Combinations](https://dev.to/986913/dai-ma-sui-xiang-lu-day24-77-combinations-2fk7)
+- [Dev.to/JS] [Como fazer um projeto sem travar](https://dev.to/rafinhadev/como-fazer-um-projeto-sem-travar-1ja5)
 - [Dev.to/JS] [Working With Javascript Date &amp; Time: A Cheat Sheet](https://dev.to/jessewei/working-with-javascript-date-time-a-cheat-sheet-1bjo)
 - [Dev.to/JS] [Riffr - Create Photo Montages in the Browser with some ML Magic✨](https://dev.to/gulliblelamb/riffr-create-photo-montages-in-the-browser-with-some-ml-magic-5271)
 - [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/ankitbrijwasi/mongodb-atlas-hackathon-2022-on-dev-15im)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hyperiondev - Web Dev bootcamp - Day 4](https://dev.to/whippetcode/hyperiondev-web-dev-bootcamp-day-4-565n)
 - [Dev.to/JS] [My First Front-End Portfolio](https://dev.to/chabulsqu/my-first-front-end-portfolio-34o4)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
-- [Dev.to/JS] [Treetop Tree House](https://dev.to/rmion/treetop-tree-house-354c)
-- [Dev.to/JS] [I&#39;m looking for at react js 2 months internship &lpar;remote only&rpar;](https://dev.to/prtsl/im-looking-for-at-react-js-2-months-internship-remote-only-43pe)
 - [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
 - [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)
 - [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)
