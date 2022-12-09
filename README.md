@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Avoid These Common Pitfalls Of React useState](https://dev.to/jkettmann/avoid-these-common-pitfalls-of-react-usestate-4d2a)
+- [Dev.to/JS] [6 Awesome tools to write better code](https://dev.to/surajondev/6-awesome-tools-to-write-better-code-3p26)
+- [Dev.to/JS] [Solving day 09 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-09-of-advent-of-code-2022-in-javascript-1f41)
+- [Dev.to/JS] [A Complete Guide To CSS Grid](https://dev.to/lambdatest/a-complete-guide-to-css-grid-3cpl)
 - [Dev.to/JS] [WebAssembly based Calculator](https://dev.to/b1bxonty/webassembly-based-calculator-4ab3)
 - [Dev.to/JS] [Javascript: El operador nullish-coalescing](https://dev.to/matiasfha/javascript-el-operador-nullish-coalescing-4l8j)
 - [Dev.to/JS] [React interview question - Detect overlapping circles](https://dev.to/learnersbucket/react-interview-question-detect-overlapping-circles-4l2i)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a custom Javascript linter in 5 minutes](https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j)
 - [Dev.to/JS] [Family Lawyers 80766 08322](https://dev.to/vinaypratapasf/family-lawyers-80766-08322-11jp)
 - [Dev.to/JS] [Best Divorce Lawyers,&lpar; 80766 08322 &rpar;Divorce Lawyers, Property Lawyers,](https://dev.to/vinaypratapasf/best-divorce-lawyers-80766-08322-divorce-lawyers-property-lawyers-134c)
-- [Dev.to/JS] [Best Divorce Lawyers,&lpar; 80766 08322 &rpar;Divorce Lawyers](https://dev.to/vinaypratapasf/best-divorce-lawyers-80766-08322-divorce-lawyers-3ho7)
-- [Dev.to/JS] [Best Lawyers In Delhi :- &lpar;&lpar;80766 08322&rpar;&rpar;](https://dev.to/vinaypratapasf/best-lawyers-in-delhi-80766-08322-1e4c)
-- [Dev.to/JS] [How to get your background to become disco light](https://dev.to/titlexp/how-to-get-your-background-to-become-disco-light-4ida)
-- [Dev.to/JS] [Best Lawyers In Delhi :- &lpar;&lpar;80766 08322&rpar;&rpar; Top Lawyers in Delhi, Best Advocates in Delhi &lpar;India&rpar;](https://dev.to/vinaypratapasf/best-lawyers-in-delhi-80766-08322-top-lawyers-in-delhi-best-advocates-in-delhi-india-115h)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
