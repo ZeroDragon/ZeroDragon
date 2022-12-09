@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ecommerce Website Using HTML CSS &amp; JavaScript &lpar;Source Code&rpar;](https://dev.to/dailywebdesign/ecommerce-website-using-html-css-javascript-source-code-4a47)
+- [Dev.to/JS] [Responsive Movie Website Landing Page HTML CSS JAVASCRIPT With Video Trailer](https://dev.to/dailywebdesign/responsive-movie-website-landing-page-html-css-javascript-with-video-trailer-227l)
+- [Dev.to/JS] [How to show Image upload preview](https://dev.to/thecoollearner/how-to-show-image-upload-preview-44g5)
+- [Dev.to/JS] [JavaScript vs Typescript: Know the Difference](https://dev.to/alishaas11/javascript-vs-typescript-know-the-difference-4dg6)
 - [Dev.to/JS] [JavaScript #game](https://dev.to/asish0sahu/javascript-game-18gl)
 - [Dev.to/JS] [HTML Custom Element as a Feature API](https://dev.to/begin/html-custom-element-as-a-feature-api-3h0g)
 - [Dev.to/JS] [GraphQL](https://dev.to/abbhiishek/graphql-2hc2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working With Javascript Date &amp; Time: A Cheat Sheet](https://dev.to/jessewei/working-with-javascript-date-time-a-cheat-sheet-1bjo)
 - [Dev.to/JS] [Riffr - Create Photo Montages in the Browser with some ML Magic✨](https://dev.to/gulliblelamb/riffr-create-photo-montages-in-the-browser-with-some-ml-magic-5271)
 - [Dev.to/JS] [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/ankitbrijwasi/mongodb-atlas-hackathon-2022-on-dev-15im)
-- [Dev.to/JS] [Rewind - MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/dephraiim/rewind-mongodb-atlas-hackathon-2022-on-dev-4pg7)
-- [Dev.to/JS] [Animated Gosper Curves in JS](https://dev.to/castarco/animated-gosper-curves-in-js-4mg4)
-- [Dev.to/JS] [Integrate JS into the browser](https://dev.to/kellilil/integrate-js-into-the-browser-1o6f)
-- [Dev.to/JS] [PHP8.2: the modern PHP](https://dev.to/bashebr/php82-the-modern-php-252o)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
