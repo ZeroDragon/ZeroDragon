@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript #game](https://dev.to/asish0sahu/javascript-game-18gl)
+- [Dev.to/JS] [HTML Custom Element as a Feature API](https://dev.to/begin/html-custom-element-as-a-feature-api-3h0g)
+- [Dev.to/JS] [GraphQL](https://dev.to/abbhiishek/graphql-2hc2)
 - [Dev.to/JS] [代码随想录day24 | 77. Combinations](https://dev.to/986913/dai-ma-sui-xiang-lu-day24-77-combinations-2fk7)
 - [Dev.to/JS] [Como fazer um projeto sem travar](https://dev.to/rafinhadev/como-fazer-um-projeto-sem-travar-1ja5)
 - [Dev.to/JS] [Working With Javascript Date &amp; Time: A Cheat Sheet](https://dev.to/jessewei/working-with-javascript-date-time-a-cheat-sheet-1bjo)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PHP8.2: the modern PHP](https://dev.to/bashebr/php82-the-modern-php-252o)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
-- [Dev.to/JS] [ezy – open-source gRPC client, alternative to Postman and Insomnia](https://dev.to/notmedia/ezy-open-source-grpc-client-alternative-to-postman-and-insomnia-1djn)
-- [Dev.to/JS] [Hyperiondev - Web Dev bootcamp - Day 4](https://dev.to/whippetcode/hyperiondev-web-dev-bootcamp-day-4-565n)
-- [Dev.to/JS] [My First Front-End Portfolio](https://dev.to/chabulsqu/my-first-front-end-portfolio-34o4)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
 - [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
 - [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)
