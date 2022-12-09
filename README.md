@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Enable This Setting to Stop Chrome From Hogging So Much Memory](https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138)
+- [Dev.to/JS] [Rope Bridge](https://dev.to/rmion/rope-bridge-ab4)
+- [Lifehacker] [Put a Turkey Baster in Your Punch Bowl](https://lifehacker.com/put-a-turkey-baster-in-your-punch-bowl-1849876149)
+- [Dev.to/JS] [A Very Basic JavaScript Intro by Dannohh and chatGPT!](https://dev.to/dannohh/a-very-basic-javascript-intro-by-dannohh-and-chatgpt-5dj5)
+- [Dev.to/JS] [20 JavaScript Array Methods](https://dev.to/salmaab/20-javascript-array-methods-503k)
 - [Lifehacker] [11 Easy WFH Lunches You Can Make Between Meetings](https://lifehacker.com/11-easy-wfh-lunches-you-can-make-between-meetings-1849871913)
 - [Dev.to/JS] [How I can upload a javascript file using ajax once I resize an image in a manner where $_FILES can be used in php](https://dev.to/pcmagas/how-i-can-upload-a-javascript-file-using-ajax-once-i-resize-an-image-in-a-manner-where-files-can-be-used-in-php-3ig0)
 - [Lifehacker] [The Weirdest Things You Never Knew You Could Insure](https://lifehacker.com/the-weirdest-things-you-never-knew-you-could-insure-1849875325)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Are Regular Expressions? A Simple JavaScript Regex to Format Phone Numbers](https://dev.to/johnnyturco/what-are-regular-expressions-using-a-simple-javascript-regular-expression-to-format-phone-numbers-2cgh)
 - [Lifehacker] [The &#39;Nice&#39; Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
 - [Dev.to/JS] [recursion function](https://dev.to/gagecantrelle/recursion-function-7i8)
-- [Dev.to/JS] [How To Set Up An Express Server in a Nodejs Project](https://dev.to/mariamadeyemi/how-to-set-up-an-express-server-in-a-nodejs-project-31k4)
-- [Dev.to/JS] [Hyperiondev - Web Dev bootcamp - day 5](https://dev.to/whippetcode/hyperiondev-web-dev-bootcamp-day-5-38eb)
 - [Lifehacker] [You Can Finally Encrypt These iCloud Backups](https://lifehacker.com/you-can-finally-encrypt-these-icloud-backups-1849873576)
-- [Dev.to/JS] [Create a Job Board Website Using React and Strapi](https://dev.to/strapi/create-a-job-board-website-using-react-and-strapi-4gfb)
 - [Lifehacker] [Your Fireplace Doesn&#39;t Have to Dry Out the Air](https://lifehacker.com/your-fireplace-doesnt-have-to-dry-out-the-air-1849871595)
 - [Lifehacker] [Don’t Fall for This ‘Virtual Kidnapping’ Scam](https://lifehacker.com/don-t-fall-for-this-virtual-kidnapping-scam-1849871660)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Wednesday Addams?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-we-1849872960)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)
 - [Lifehacker] [Stop Buying New Apple Devices](https://lifehacker.com/stop-buying-new-apple-devices-1849868903)
 - [Lifehacker] [Four Ways to DIY a Christmas Tree](https://lifehacker.com/four-ways-to-diy-a-christmas-tree-1849867789)
-- [Lifehacker] [10 of the Best Gifts for Soccer Fans](https://lifehacker.com/10-of-the-best-gifts-for-soccer-fans-1849866009)
-- [Lifehacker] [How to Make a Tofu Scramble That Doesn&#39;t Suck](https://lifehacker.com/how-to-make-a-tofu-scramble-that-doesnt-suck-1849865839)
-- [Lifehacker] [Make the Best Lazy Chicken Pot Pie From a Can of Soup](https://lifehacker.com/make-the-best-lazy-chicken-pot-pie-from-a-can-of-soup-1849865516)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Best Gifts for Soccer Fans](https://lifehacker.com/10-of-the-best-gifts-for-soccer-fans-1849866009)<!-- TECH-POSTS:END -->
 
 ---
 
