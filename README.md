@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing a &#39;Median of Three&#39; Pivot Helper for QuickSort](https://dev.to/smilesforgood/writing-a-median-of-three-pivot-helper-for-quicksort-289m)
+- [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
 - [Lifehacker] [Enable This Setting to Stop Chrome From Hogging So Much Memory](https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138)
 - [Dev.to/JS] [Rope Bridge](https://dev.to/rmion/rope-bridge-ab4)
 - [Lifehacker] [Put a Turkey Baster in Your Punch Bowl](https://lifehacker.com/put-a-turkey-baster-in-your-punch-bowl-1849876149)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Controlled Forms - Why do we need them?](https://dev.to/keffdu/controlled-forms-why-do-we-need-them-5g23)
 - [Dev.to/JS] [What Are Regular Expressions? A Simple JavaScript Regex to Format Phone Numbers](https://dev.to/johnnyturco/what-are-regular-expressions-using-a-simple-javascript-regular-expression-to-format-phone-numbers-2cgh)
 - [Lifehacker] [The &#39;Nice&#39; Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
-- [Dev.to/JS] [recursion function](https://dev.to/gagecantrelle/recursion-function-7i8)
 - [Lifehacker] [You Can Finally Encrypt These iCloud Backups](https://lifehacker.com/you-can-finally-encrypt-these-icloud-backups-1849873576)
 - [Lifehacker] [Your Fireplace Doesn&#39;t Have to Dry Out the Air](https://lifehacker.com/your-fireplace-doesnt-have-to-dry-out-the-air-1849871595)
 - [Lifehacker] [Don’t Fall for This ‘Virtual Kidnapping’ Scam](https://lifehacker.com/don-t-fall-for-this-virtual-kidnapping-scam-1849871660)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use House Sitting to Travel on a Budget](https://lifehacker.com/use-house-sitting-to-travel-on-a-budget-1849869548)
 - [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)
 - [Lifehacker] [Stop Buying New Apple Devices](https://lifehacker.com/stop-buying-new-apple-devices-1849868903)
-- [Lifehacker] [Four Ways to DIY a Christmas Tree](https://lifehacker.com/four-ways-to-diy-a-christmas-tree-1849867789)
-- [Lifehacker] [10 of the Best Gifts for Soccer Fans](https://lifehacker.com/10-of-the-best-gifts-for-soccer-fans-1849866009)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four Ways to DIY a Christmas Tree](https://lifehacker.com/four-ways-to-diy-a-christmas-tree-1849867789)<!-- TECH-POSTS:END -->
 
 ---
 
