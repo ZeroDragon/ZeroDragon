@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebAssembly based Calculator](https://dev.to/b1bxonty/webassembly-based-calculator-4ab3)
+- [Dev.to/JS] [Javascript: El operador nullish-coalescing](https://dev.to/matiasfha/javascript-el-operador-nullish-coalescing-4l8j)
 - [Dev.to/JS] [React interview question - Detect overlapping circles](https://dev.to/learnersbucket/react-interview-question-detect-overlapping-circles-4l2i)
 - [Dev.to/JS] [Mocha and Chai Unit Testing &lpar;node js&rpar;](https://dev.to/shrey802/mocha-and-chai-unit-testing-node-js-3oen)
 - [Dev.to/JS] [My first CLI app](https://dev.to/learnersaurabh/my-first-cli-app-127p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Lawyers In Delhi :- &lpar;&lpar;80766 08322&rpar;&rpar;](https://dev.to/vinaypratapasf/best-lawyers-in-delhi-80766-08322-1e4c)
 - [Dev.to/JS] [How to get your background to become disco light](https://dev.to/titlexp/how-to-get-your-background-to-become-disco-light-4ida)
 - [Dev.to/JS] [Best Lawyers In Delhi :- &lpar;&lpar;80766 08322&rpar;&rpar; Top Lawyers in Delhi, Best Advocates in Delhi &lpar;India&rpar;](https://dev.to/vinaypratapasf/best-lawyers-in-delhi-80766-08322-top-lawyers-in-delhi-best-advocates-in-delhi-india-115h)
-- [Dev.to/JS] [Build Chatbot and Activate in Flutter App in 10 minutes](https://dev.to/devashishmamgain/build-chatbot-and-activate-in-flutter-app-in-10-minutes-2hbf)
-- [Dev.to/JS] [What Technology Software Developers Need to Know in 2022](https://dev.to/katholder/what-technology-software-developers-need-to-know-in-2022-i)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
