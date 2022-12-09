@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TW Classed - Make reusable Tailwind components](https://dev.to/sannajammeh/tw-classed-make-reusable-tailwind-components-13lp)
+- [Dev.to/JS] [Best extensions to use in vscode](https://dev.to/johnbraga45/best-extensions-to-use-in-vscode-2naa)
+- [Dev.to/JS] [Developing and testing sortable Drag and Drop components. Part 2 - Testing.](https://dev.to/wolfriend/developing-and-testing-sortable-drag-and-drop-components-part-2-testing-13lj)
+- [Dev.to/JS] [deployment error from vercel having dependencies of node 16v](https://dev.to/keshri95/deployment-error-from-vercel-having-dependencies-of-node-16v-3ibl)
+- [Dev.to/JS] [The Advantages of Using Solid.js for Web Development](https://dev.to/exelord/the-advantages-of-using-solidjs-for-web-development-pn4)
+- [Dev.to/JS] [QuantiMat - Reduce of 20x some colors within 88ms ! &lpar;down to 2000&rpar;](https://dev.to/vipert/quantimat-reduce-of-20x-some-colors-within-88ms-down-to-2000-2pho)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Wednesday Addams?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-we-1849872960)
+- [Lifehacker] [There&#39;s Actually a Difference Between &#39;Snowfall&#39; and &#39;Snow Depth&#39;](https://lifehacker.com/theres-actually-a-difference-between-snowfall-and-snow-1849873485)
 - [Dev.to/JS] [Adding Tailwind to Nuxt 3](https://dev.to/thesameeric/adding-tailwind-to-nuxt-3-39n6)
 - [Dev.to/JS] [Revive Daily - Price, Reviews, Pros, Cons, Uses &amp; Benefits?](https://dev.to/revivedaily2/revive-daily-price-reviews-pros-cons-uses-benefits-6m0)
 - [Dev.to/JS] [Set up Argos with Cypress and GitHub Actions in minutes](https://dev.to/jsfez/set-up-argos-with-cypress-and-github-actions-in-minutes-4g33)
 - [Dev.to/JS] [This Week @ Grafbase - Dec 9](https://dev.to/grafbase/this-week-grafbase-dec-9-54jc)
 - [Dev.to/JS] [Supercharge your NodeJS Express application](https://dev.to/thesameeric/supercharge-your-nodejs-express-application-14mj)
 - [Dev.to/JS] [Search in Rotated Sorted Array II](https://dev.to/zeeshanali0704/search-in-rotated-sorted-array-ii-17d3)
-- [Dev.to/JS] [How to install MongoDB on Ubuntu 22.0 LTS](https://dev.to/ihteshamulhaq510/how-to-install-mongodb-on-ubuntu-220-lts-1g)
-- [Dev.to/JS] [React useMemo for optimization](https://dev.to/nikeshkumartk/react-usememo-for-optimization-150p)
-- [Dev.to/JS] [Avoid These Common Pitfalls Of React useState &lpar;incl exercises&rpar;](https://dev.to/jkettmann/avoid-these-common-pitfalls-of-react-usestate-4d2a)
-- [Dev.to/JS] [6 Awesome tools to write better code](https://dev.to/surajondev/6-awesome-tools-to-write-better-code-3p26)
-- [Dev.to/JS] [Solving day 09 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-09-of-advent-of-code-2022-in-javascript-1f41)
-- [Dev.to/JS] [A Complete Guide To CSS Grid](https://dev.to/lambdatest/a-complete-guide-to-css-grid-3cpl)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s What Happens When You Don’t Clean Your Bellybutton](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424)
 - [Lifehacker] [Make Sad, Dusty Granola Better With Butter](https://lifehacker.com/make-sad-dusty-granola-better-with-butter-1849864603)
 - [Lifehacker] [No, Metallica Isn&#39;t Giving Away Free Crypto](https://lifehacker.com/no-metallica-isnt-giving-away-free-crypto-1849864418)
-- [Lifehacker] [Use This Shortcut to Search Your Chrome Tabs, Bookmarks, and History](https://lifehacker.com/use-this-shortcut-to-search-your-chrome-tabs-bookmarks-1849863963)
-- [Lifehacker] [How to Prevent &#39;Human-Giver Syndrome&#39; This Holiday Season](https://lifehacker.com/how-to-prevent-human-giver-syndrome-this-holiday-season-1849862145)
-- [Lifehacker] [10 of the Hottest Holiday Gift Ideas for Kids](https://lifehacker.com/10-of-the-hottest-holiday-gift-ideas-for-kids-1849861941)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Shortcut to Search Your Chrome Tabs, Bookmarks, and History](https://lifehacker.com/use-this-shortcut-to-search-your-chrome-tabs-bookmarks-1849863963)<!-- TECH-POSTS:END -->
 
 ---
 
