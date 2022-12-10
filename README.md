@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t hide if you want to rank: how display none and visibility hidden endanger SEO efforts](https://dev.to/pedrodrocha/dont-hide-if-you-want-to-rank-how-display-none-and-visibility-hidden-endanger-seo-efforts-122n)
+- [Dev.to/JS] [Cathode-Ray Tube](https://dev.to/rmion/cathode-ray-tube-2il3)
+- [Dev.to/JS] [Add Voice &amp; Video calling Feature in React Native using ZEGOCLOUD](https://dev.to/zainbinfurqan/add-voice-video-calling-feature-in-react-native-using-zegocloud-9i7)
+- [Dev.to/JS] [Release 0.4 - Finale](https://dev.to/lostbutton/release-04-finale-g33)
 - [Dev.to/JS] [Reviewing what I learned from Vanilla JS course](https://dev.to/ghandicode/reviewing-what-i-learned-from-vanilla-js-course-9k7)
 - [Dev.to/JS] [ASSISTIR Avatar: O Caminho da Água Filme Online&lpar;2022&rpar;Dublado Filmes Grátis PT](https://dev.to/miutane/assistir-avatar-o-caminho-da-agua-filme-online2022dublado-filmes-gratis-pt-140j)
 - [Dev.to/JS] [[HDFILMYCZ]* SLEDUJ Avatar: The Way Of Water &lpar;2022&rpar; CELÝ FILM ONLINE CZ TITULKY ZDARMA](https://dev.to/miutane/hdfilmycz-sleduj-avatar-the-way-of-water-2022-cely-film-online-cz-titulky-zdarma-k5)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the 5 best options to monetize an open-source javascript library? [ChatGPT answer]](https://dev.to/paydevs/what-are-the-5-best-options-to-monetize-an-open-source-javascript-library-chatgpt-answer-2aa)
 - [Dev.to/JS] [Solving day 10 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-10-of-advent-of-code-2022-in-javascript-4o9a)
 - [Dev.to/JS] [How to Become a Hot Cake Blockchain Developer](https://dev.to/elliot_brenyasarfo_18749/how-to-become-a-hot-cake-blockchain-developer-5d51)
-- [Dev.to/JS] [Node.js: different ways of fetching data](https://dev.to/cbogdan01/nodejs-different-ways-of-fetching-data-3ebc)
-- [Dev.to/JS] [For the ones who is starting out](https://dev.to/aayush99910/for-the-ones-who-is-starting-out-31em)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
-- [Dev.to/JS] [Create Modal Component with React Hooks](https://dev.to/nabillatrisnani/create-modal-component-with-react-hooks-5hk)
-- [Dev.to/JS] [ES6 Symbol in JavaScript](https://dev.to/moazamdev/es6-symbol-in-javascript-1l12)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
