@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Top Most Used Development Tool - Tabnine](https://dev.to/devjaiye/my-top-most-used-development-tool-tabnine-1jlc)
 - [Dev.to/JS] [Props and styled components](https://dev.to/medeiroscode/props-and-styled-components-4pe7)
 - [Dev.to/JS] [Optimizing useEffect in React](https://dev.to/huzaima/optimizing-useeffect-in-react-2aci)
 - [Dev.to/JS] [[How to] JS to Python - Core Concepts](https://dev.to/devneagu/how-to-js-to-python-23ph)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WHY YOUR STATE IS BEHIND.&lpar;react.js&rpar;](https://dev.to/csituma/why-your-state-is-one-character-behindreactjs-16im)
 - [Dev.to/JS] [&lt;script&gt;alert&lpar;&quot;Hello World&quot;&rpar;&lt;/script&gt;](https://dev.to/hecker/alerthello-world-43d4)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;10-12-2022&rpar; - Fear and Loathing in the Multiverse](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-12-2022-fear-and-loathing-in-the-multiverse-485h)
-- [Dev.to/JS] [NodeJS virtual environment in Fedora Toolbox](https://dev.to/alantsui5/create-nodejs-virtual-environment-in-fedora-toolbox-56gp)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
