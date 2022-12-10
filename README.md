@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Amyl Guard - Weight Loss Pills, Results, Pros, Cons, Scam Or Legit?](https://dev.to/amylguardfact/amyl-guard-weight-loss-pills-results-pros-cons-scam-or-legit-2106)
+- [Dev.to/JS] [The Electron Saga 1️⃣: Setup](https://dev.to/scriptjayt/the-electron-saga-1-setup-53ld)
+- [Dev.to/JS] [Ultimate Frontend Development Roadmap](https://dev.to/shreyvijayvargiya/ultimate-frontend-development-roadmap-4inn)
 - [Dev.to/JS] [My Top Most Used Development Tool - Tabnine](https://dev.to/devjaiye/my-top-most-used-development-tool-tabnine-1jlc)
-- [Dev.to/JS] [Props and styled components](https://dev.to/medeiroscode/props-and-styled-components-4pe7)
+- [Dev.to/JS] [Components](https://dev.to/medeiroscode/props-and-styled-components-4pe7)
 - [Dev.to/JS] [Optimizing useEffect in React](https://dev.to/huzaima/optimizing-useeffect-in-react-2aci)
 - [Dev.to/JS] [[How to] JS to Python - Core Concepts](https://dev.to/devneagu/how-to-js-to-python-23ph)
 - [Dev.to/JS] [7 Techniques to Optimize React Applications Performance](https://dev.to/sanikommushirisha/efficient-components-techniques-to-optimise-react-applications-performance-3l9l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create your own blockchain on cosmos](https://dev.to/pankajrathore9599/create-your-own-blockchain-on-cosmos-5efg)
 - [Dev.to/JS] [[How to] write abstract functions in JS](https://dev.to/devneagu/how-to-write-abstract-functional-functions-in-js-1db)
 - [Dev.to/JS] [Plugin &quot;react&quot; was conflicted between &quot;package.json...&quot; and &quot;BaseConfig...&quot;](https://dev.to/elohe_charisma/plugin-react-was-conflicted-between-packagejson-and-baseconfig-6nj)
-- [Dev.to/JS] [WHY YOUR STATE IS BEHIND.&lpar;react.js&rpar;](https://dev.to/csituma/why-your-state-is-one-character-behindreactjs-16im)
-- [Dev.to/JS] [&lt;script&gt;alert&lpar;&quot;Hello World&quot;&rpar;&lt;/script&gt;](https://dev.to/hecker/alerthello-world-43d4)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;10-12-2022&rpar; - Fear and Loathing in the Multiverse](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-12-2022-fear-and-loathing-in-the-multiverse-485h)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
