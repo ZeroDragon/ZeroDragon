@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to useEffect Cleanup](https://dev.to/racheljoyh/a-guide-to-useeffect-cleanup-27dj)
 - [Dev.to/JS] [You Can Count On Me](https://dev.to/megdiv/you-can-count-on-me-534j)
 - [Dev.to/JS] [Next.js 13 with Tailwind and MUI Boilerplate](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
 - [Dev.to/JS] [Import &amp; Export](https://dev.to/yukinoyamiko/import-export-3ce3)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [InfluxDB - What, When, Why](https://dev.to/devneagu/influxdb-what-when-why-4lmf)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Dev.to/JS] [HTML canvas, web components and pianos.](https://dev.to/hyenast2/html-canvas-web-components-and-pianos-mo7)
-- [Dev.to/JS] [Writing a &#39;Median of Three&#39; Pivot Helper for QuickSort](https://dev.to/smilesforgood/writing-a-median-of-three-pivot-helper-for-quicksort-289m)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
 - [Lifehacker] [Enable This Setting to Stop Chrome From Hogging So Much Memory](https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138)
 - [Lifehacker] [Put a Turkey Baster in Your Punch Bowl](https://lifehacker.com/put-a-turkey-baster-in-your-punch-bowl-1849876149)
