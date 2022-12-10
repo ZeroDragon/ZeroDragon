@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AdventJS 2022 - Retos de código para Javascript cada día de diciembre](https://dev.to/joseayram/adventjs-2022-retos-de-codigo-para-javascript-cada-dia-de-diciembre-3o17)
+- [Dev.to/JS] [why I cannot get the domain names out of a certificate in nodejs?](https://dev.to/pcmagas/why-i-cannot-get-the-domain-names-out-of-a-certificate-in-nodejs-1kl1)
 - [Dev.to/JS] [[How to] use CSS Variables in React Component](https://dev.to/devneagu/how-to-use-css-variables-in-react-component-1a08)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Dev.to/JS] [InfluxDB - What, When, Why](https://dev.to/devneagu/influxdb-what-when-why-4lmf)
@@ -41,11 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript For Loop](https://dev.to/codingclaw/javascript-for-loop-imp)
 - [Dev.to/JS] [Simple Project HTML, JavaScript, CSS](https://dev.to/jccaropino7786/simple-project-html-javascript-css-54dc)
 - [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New Tech of 2022](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-tech-o-1849874899)
-- [Dev.to/JS] [The Secret Trick to Making Sure Your Users Enter Valid Usernames and Passwords!](https://dev.to/akshansh773/the-secret-trick-to-making-sure-your-users-enter-valid-usernames-and-passwords-3gk4)
 - [Lifehacker] [You Might Be Using the Wrong Plunger](https://lifehacker.com/you-might-be-using-the-wrong-plunger-1849875131)
 - [Lifehacker] [&#39;Eco-Friendly&#39; Marketing Is Usually BS](https://lifehacker.com/eco-friendly-marketing-is-usually-bullshit-1849875042)
 - [Crazy Programmer] [C++ Iterate Over Vector – 4 Ways](https://www.thecrazyprogrammer.com/2022/12/c-iterate-over-vector.html)
-- [Dev.to/JS] [OSD600 r0.4 release](https://dev.to/dadolhay/osd600-r04-release-3fc)
 - [Lifehacker] [The &#39;Nice&#39; Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
 - [Lifehacker] [You Can Finally Encrypt These iCloud Backups](https://lifehacker.com/you-can-finally-encrypt-these-icloud-backups-1849873576)
 - [Lifehacker] [Your Fireplace Doesn&#39;t Have to Dry Out the Air](https://lifehacker.com/your-fireplace-doesnt-have-to-dry-out-the-air-1849871595)
