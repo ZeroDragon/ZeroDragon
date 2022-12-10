@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weight loss drugs like Work](https://dev.to/reviewsfigur/weight-loss-drugs-like-work-2pgo)
+- [Dev.to/JS] [Iterator and Generator](https://dev.to/kaziusan/iterator-and-generator-40nm)
 - [Dev.to/JS] [AdventJS - Reto #2: Nadie quiere hacer horas extras](https://dev.to/joseayram/adventjs-reto2-nadie-quiere-hacer-horas-extras-ojj)
 - [Dev.to/JS] [Asynchronism in JavaScript](https://dev.to/ernerdo/asynchronism-in-javascript-471a)
 - [Dev.to/JS] [A Guide to useEffect Cleanup](https://dev.to/racheljoyh/a-guide-to-useeffect-cleanup-27dj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AdventJS - Reto #1: ¡Automatizando envolver regalos de navidad!](https://dev.to/joseayram/adventjs-reto-1-automatizando-envolver-regalos-de-navidad-3gb5)
 - [Dev.to/JS] [Paracetamol.js💊| #193: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-193-explica-este-codigo-javascript-1m2n)
 - [Dev.to/JS] [AdventJS 2022 - Retos de código para Javascript cada día de diciembre](https://dev.to/joseayram/adventjs-2022-retos-de-codigo-para-javascript-cada-dia-de-diciembre-3o17)
-- [Dev.to/JS] [why I cannot get the domain names out of a certificate in nodejs?](https://dev.to/pcmagas/why-i-cannot-get-the-domain-names-out-of-a-certificate-in-nodejs-1kl1)
-- [Dev.to/JS] [[How to] use CSS Variables in React Component](https://dev.to/devneagu/how-to-use-css-variables-in-react-component-1a08)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
