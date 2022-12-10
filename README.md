@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Props and styled components](https://dev.to/medeiroscode/props-and-styled-components-4pe7)
+- [Dev.to/JS] [Optimizing useEffect in React](https://dev.to/huzaima/optimizing-useeffect-in-react-2aci)
+- [Dev.to/JS] [[How to] JS to Python - Core Concepts](https://dev.to/devneagu/how-to-js-to-python-23ph)
+- [Dev.to/JS] [7 Techniques to Optimize React Applications Performance](https://dev.to/sanikommushirisha/efficient-components-techniques-to-optimise-react-applications-performance-3l9l)
 - [Dev.to/JS] [Flex with Tailwindcss](https://dev.to/guillaumeduhan/flex-with-tailwindcss-733)
 - [Dev.to/JS] [Create your own blockchain on cosmos](https://dev.to/pankajrathore9599/create-your-own-blockchain-on-cosmos-5efg)
 - [Dev.to/JS] [[How to] write abstract functions in JS](https://dev.to/devneagu/how-to-write-abstract-functional-functions-in-js-1db)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&lt;script&gt;alert&lpar;&quot;Hello World&quot;&rpar;&lt;/script&gt;](https://dev.to/hecker/alerthello-world-43d4)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;10-12-2022&rpar; - Fear and Loathing in the Multiverse](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-12-2022-fear-and-loathing-in-the-multiverse-485h)
 - [Dev.to/JS] [NodeJS virtual environment in Fedora Toolbox](https://dev.to/alantsui5/create-nodejs-virtual-environment-in-fedora-toolbox-56gp)
-- [Dev.to/JS] [Weight loss drugs like Work](https://dev.to/reviewsfigur/weight-loss-drugs-like-work-2pgo)
-- [Dev.to/JS] [Iterator and Generator](https://dev.to/kaziusan/iterator-and-generator-40nm)
-- [Dev.to/JS] [AdventJS - Reto #2: Nadie quiere hacer horas extras](https://dev.to/joseayram/adventjs-reto2-nadie-quiere-hacer-horas-extras-ojj)
-- [Dev.to/JS] [Asynchronism in JavaScript](https://dev.to/ernerdo/asynchronism-in-javascript-471a)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
