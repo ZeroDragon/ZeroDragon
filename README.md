@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reviewing what I learned from Vanilla JS course](https://dev.to/ghandicode/reviewing-what-i-learned-from-vanilla-js-course-9k7)
+- [Dev.to/JS] [ASSISTIR Avatar: O Caminho da Água Filme Online&lpar;2022&rpar;Dublado Filmes Grátis PT](https://dev.to/miutane/assistir-avatar-o-caminho-da-agua-filme-online2022dublado-filmes-gratis-pt-140j)
+- [Dev.to/JS] [[HDFILMYCZ]* SLEDUJ Avatar: The Way Of Water &lpar;2022&rpar; CELÝ FILM ONLINE CZ TITULKY ZDARMA](https://dev.to/miutane/hdfilmycz-sleduj-avatar-the-way-of-water-2022-cely-film-online-cz-titulky-zdarma-k5)
+- [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Dev.to/JS] [Need to minify js file in next js](https://dev.to/poomarimurugan/need-to-minify-js-file-in-next-js-537)
 - [Dev.to/JS] [Social Proof Marketing - An Effective Way To Grow Your Business](https://dev.to/arpitharajeev1/social-proof-marketing-an-effective-way-to-grow-your-business-4bi3)
 - [Dev.to/JS] [What are the 5 best options to monetize an open-source javascript library? [ChatGPT answer]](https://dev.to/paydevs/what-are-the-5-best-options-to-monetize-an-open-source-javascript-library-chatgpt-answer-2aa)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Dev.to/JS] [Create Modal Component with React Hooks](https://dev.to/nabillatrisnani/create-modal-component-with-react-hooks-5hk)
 - [Dev.to/JS] [ES6 Symbol in JavaScript](https://dev.to/moazamdev/es6-symbol-in-javascript-1l12)
-- [Dev.to/JS] [🤔 For what prototype??](https://dev.to/kaziusan/for-what-prototype-536e)
-- [Dev.to/JS] [Adding Vercel og:image generation to Astro project with Edge functions](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
-- [Dev.to/JS] [Everything you should know about var, const, and let](https://dev.to/arpitharajeev1/everything-you-should-know-about-var-const-and-let-2ce9)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)
 - [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)
 - [Lifehacker] [11 Deeply Strange U.S. Tourist Spots](https://lifehacker.com/11-deeply-strange-u-s-tourist-spots-1849870496)
-- [Lifehacker] [Marcus Samuelsson’s Favorite Dish to Cook With His Son](https://lifehacker.com/marcus-samuelsson-s-favorite-dish-to-cook-with-his-son-1849864949)
-- [Lifehacker] [Use Cling Wrap to Keep Your Refrigerator Clean](https://lifehacker.com/use-cling-wrap-to-keep-your-refrigerator-clean-1849869857)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Marcus Samuelsson’s Favorite Dish to Cook With His Son](https://lifehacker.com/marcus-samuelsson-s-favorite-dish-to-cook-with-his-son-1849864949)<!-- TECH-POSTS:END -->
 
 ---
 
