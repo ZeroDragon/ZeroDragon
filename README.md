@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the 5 best options to monetize an open-source javascript library? [ChatGPT answer]](https://dev.to/paydevs/what-are-the-5-best-options-to-monetize-an-open-source-javascript-library-chatgpt-answer-2aa)
+- [Dev.to/JS] [Solving day 10 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-10-of-advent-of-code-2022-in-javascript-4o9a)
+- [Dev.to/JS] [How to Become a Hot Cake Blockchain Developer](https://dev.to/elliot_brenyasarfo_18749/how-to-become-a-hot-cake-blockchain-developer-5d51)
+- [Dev.to/JS] [Node.js: different ways of fetching data](https://dev.to/cbogdan01/nodejs-different-ways-of-fetching-data-3ebc)
+- [Dev.to/JS] [For the ones who is starting out](https://dev.to/aayush99910/for-the-ones-who-is-starting-out-31em)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Dev.to/JS] [Create Modal Component with React Hooks](https://dev.to/nabillatrisnani/create-modal-component-with-react-hooks-5hk)
 - [Dev.to/JS] [ES6 Symbol in JavaScript](https://dev.to/moazamdev/es6-symbol-in-javascript-1l12)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created my own custom blog, Does it cool?](https://dev.to/anasdew/i-created-my-own-custom-blog-does-it-cool-2eep)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
 - [Dev.to/JS] [Amyl Guard - Weight Loss Pills, Results, Pros, Cons, Scam Or Legit?](https://dev.to/amylguardfact/amyl-guard-weight-loss-pills-results-pros-cons-scam-or-legit-2106)
-- [Dev.to/JS] [The Electron Saga 1️⃣: Setup](https://dev.to/scriptjayt/the-electron-saga-1-setup-53ld)
-- [Dev.to/JS] [Ultimate Frontend Development Roadmap](https://dev.to/shreyvijayvargiya/ultimate-frontend-development-roadmap-4inn)
-- [Dev.to/JS] [My Top Most Used Development Tool - Tabnine](https://dev.to/devjaiye/my-top-most-used-development-tool-tabnine-1jlc)
-- [Dev.to/JS] [Components](https://dev.to/medeiroscode/props-and-styled-components-4pe7)
-- [Dev.to/JS] [Optimizing useEffect in React](https://dev.to/huzaima/optimizing-useeffect-in-react-2aci)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
