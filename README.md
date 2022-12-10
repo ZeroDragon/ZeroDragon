@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js 13 with Tailwind and MUI Boilerplate](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
+- [Dev.to/JS] [Import &amp; Export](https://dev.to/yukinoyamiko/import-export-3ce3)
+- [Dev.to/JS] [So what is Effector ☄️ ?](https://dev.to/js2me/so-what-is-effector--3fl1)
+- [Dev.to/JS] [AdventJS - Reto #1: ¡Automatizando envolver regalos de navidad!](https://dev.to/joseayram/adventjs-reto-1-automatizando-envolver-regalos-de-navidad-3gb5)
+- [Dev.to/JS] [Paracetamol.js💊| #193: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-193-explica-este-codigo-javascript-1m2n)
 - [Dev.to/JS] [AdventJS 2022 - Retos de código para Javascript cada día de diciembre](https://dev.to/joseayram/adventjs-2022-retos-de-codigo-para-javascript-cada-dia-de-diciembre-3o17)
 - [Dev.to/JS] [why I cannot get the domain names out of a certificate in nodejs?](https://dev.to/pcmagas/why-i-cannot-get-the-domain-names-out-of-a-certificate-in-nodejs-1kl1)
 - [Dev.to/JS] [[How to] use CSS Variables in React Component](https://dev.to/devneagu/how-to-use-css-variables-in-react-component-1a08)
@@ -35,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Enable This Setting to Stop Chrome From Hogging So Much Memory](https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138)
 - [Dev.to/JS] [Rope Bridge](https://dev.to/rmion/rope-bridge-ab4)
 - [Lifehacker] [Put a Turkey Baster in Your Punch Bowl](https://lifehacker.com/put-a-turkey-baster-in-your-punch-bowl-1849876149)
-- [Dev.to/JS] [A Very Basic JavaScript Intro by Dannohh and chatGPT!](https://dev.to/dannohh/a-very-basic-javascript-intro-by-dannohh-and-chatgpt-5dj5)
-- [Dev.to/JS] [20 JavaScript Array Methods](https://dev.to/salmaab/20-javascript-array-methods-503k)
 - [Lifehacker] [11 Easy WFH Lunches You Can Make Between Meetings](https://lifehacker.com/11-easy-wfh-lunches-you-can-make-between-meetings-1849871913)
-- [Dev.to/JS] [How I can upload a javascript file using ajax once I resize an image in a manner where $_FILES can be used in php](https://dev.to/pcmagas/how-i-can-upload-a-javascript-file-using-ajax-once-i-resize-an-image-in-a-manner-where-files-can-be-used-in-php-3ig0)
 - [Lifehacker] [The Weirdest Things You Never Knew You Could Insure](https://lifehacker.com/the-weirdest-things-you-never-knew-you-could-insure-1849875325)
-- [Dev.to/JS] [Javascript For Loop](https://dev.to/codingclaw/javascript-for-loop-imp)
-- [Dev.to/JS] [Simple Project HTML, JavaScript, CSS](https://dev.to/jccaropino7786/simple-project-html-javascript-css-54dc)
 - [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New Tech of 2022](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-tech-o-1849874899)
 - [Lifehacker] [You Might Be Using the Wrong Plunger](https://lifehacker.com/you-might-be-using-the-wrong-plunger-1849875131)
 - [Lifehacker] [&#39;Eco-Friendly&#39; Marketing Is Usually BS](https://lifehacker.com/eco-friendly-marketing-is-usually-bullshit-1849875042)
