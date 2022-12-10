@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You Can Count On Me](https://dev.to/megdiv/you-can-count-on-me-534j)
 - [Dev.to/JS] [Next.js 13 with Tailwind and MUI Boilerplate](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
 - [Dev.to/JS] [Import &amp; Export](https://dev.to/yukinoyamiko/import-export-3ce3)
 - [Dev.to/JS] [So what is Effector ☄️ ?](https://dev.to/js2me/so-what-is-effector--3fl1)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing a &#39;Median of Three&#39; Pivot Helper for QuickSort](https://dev.to/smilesforgood/writing-a-median-of-three-pivot-helper-for-quicksort-289m)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
 - [Lifehacker] [Enable This Setting to Stop Chrome From Hogging So Much Memory](https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138)
-- [Dev.to/JS] [Rope Bridge](https://dev.to/rmion/rope-bridge-ab4)
 - [Lifehacker] [Put a Turkey Baster in Your Punch Bowl](https://lifehacker.com/put-a-turkey-baster-in-your-punch-bowl-1849876149)
 - [Lifehacker] [11 Easy WFH Lunches You Can Make Between Meetings](https://lifehacker.com/11-easy-wfh-lunches-you-can-make-between-meetings-1849871913)
 - [Lifehacker] [The Weirdest Things You Never Knew You Could Insure](https://lifehacker.com/the-weirdest-things-you-never-knew-you-could-insure-1849875325)
