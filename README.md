@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤔 For what prototype??](https://dev.to/kaziusan/for-what-prototype-536e)
+- [Dev.to/JS] [Adding Vercel og:image generation to Astro project with Edge functions](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
+- [Dev.to/JS] [Everything you should know about var, const, and let](https://dev.to/arpitharajeev1/everything-you-should-know-about-var-const-and-let-2ce9)
+- [Dev.to/JS] [I created my own custom blog, Does it cool?](https://dev.to/anasdew/i-created-my-own-custom-blog-does-it-cool-2eep)
+- [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
 - [Dev.to/JS] [Amyl Guard - Weight Loss Pills, Results, Pros, Cons, Scam Or Legit?](https://dev.to/amylguardfact/amyl-guard-weight-loss-pills-results-pros-cons-scam-or-legit-2106)
 - [Dev.to/JS] [The Electron Saga 1️⃣: Setup](https://dev.to/scriptjayt/the-electron-saga-1-setup-53ld)
 - [Dev.to/JS] [Ultimate Frontend Development Roadmap](https://dev.to/shreyvijayvargiya/ultimate-frontend-development-roadmap-4inn)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing useEffect in React](https://dev.to/huzaima/optimizing-useeffect-in-react-2aci)
 - [Dev.to/JS] [[How to] JS to Python - Core Concepts](https://dev.to/devneagu/how-to-js-to-python-23ph)
 - [Dev.to/JS] [7 Techniques to Optimize React Applications Performance](https://dev.to/sanikommushirisha/efficient-components-techniques-to-optimise-react-applications-performance-3l9l)
-- [Dev.to/JS] [Flex with Tailwindcss](https://dev.to/guillaumeduhan/flex-with-tailwindcss-733)
-- [Dev.to/JS] [Create your own blockchain on cosmos](https://dev.to/pankajrathore9599/create-your-own-blockchain-on-cosmos-5efg)
-- [Dev.to/JS] [[How to] write abstract functions in JS](https://dev.to/devneagu/how-to-write-abstract-functional-functions-in-js-1db)
-- [Dev.to/JS] [Plugin &quot;react&quot; was conflicted between &quot;package.json...&quot; and &quot;BaseConfig...&quot;](https://dev.to/elohe_charisma/plugin-react-was-conflicted-between-packagejson-and-baseconfig-6nj)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Deeply Strange U.S. Tourist Spots](https://lifehacker.com/11-deeply-strange-u-s-tourist-spots-1849870496)
 - [Lifehacker] [Marcus Samuelsson’s Favorite Dish to Cook With His Son](https://lifehacker.com/marcus-samuelsson-s-favorite-dish-to-cook-with-his-son-1849864949)
 - [Lifehacker] [Use Cling Wrap to Keep Your Refrigerator Clean](https://lifehacker.com/use-cling-wrap-to-keep-your-refrigerator-clean-1849869857)
-- [Lifehacker] [Use House Sitting to Travel on a Budget](https://lifehacker.com/use-house-sitting-to-travel-on-a-budget-1849869548)
-- [Lifehacker] [20 of the Saddest Christmas Movies of All Time](https://lifehacker.com/20-of-the-saddest-christmas-movies-of-all-time-1849865801)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use House Sitting to Travel on a Budget](https://lifehacker.com/use-house-sitting-to-travel-on-a-budget-1849869548)<!-- TECH-POSTS:END -->
 
 ---
 
