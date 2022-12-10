@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create your own blockchain on cosmos](https://dev.to/pankajrathore9599/create-your-own-blockchain-on-cosmos-5efg)
+- [Dev.to/JS] [[How to] write abstract functions in JS](https://dev.to/devneagu/how-to-write-abstract-functional-functions-in-js-1db)
+- [Dev.to/JS] [Plugin &quot;react&quot; was conflicted between &quot;package.json...&quot; and &quot;BaseConfig...&quot;](https://dev.to/elohe_charisma/plugin-react-was-conflicted-between-packagejson-and-baseconfig-6nj)
 - [Dev.to/JS] [WHY YOUR STATE IS BEHIND.&lpar;react.js&rpar;](https://dev.to/csituma/why-your-state-is-one-character-behindreactjs-16im)
 - [Dev.to/JS] [&lt;script&gt;alert&lpar;&quot;Hello World&quot;&rpar;&lt;/script&gt;](https://dev.to/hecker/alerthello-world-43d4)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;10-12-2022&rpar; - Fear and Loathing in the Multiverse](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-12-2022-fear-and-loathing-in-the-multiverse-485h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AdventJS - Reto #2: Nadie quiere hacer horas extras](https://dev.to/joseayram/adventjs-reto2-nadie-quiere-hacer-horas-extras-ojj)
 - [Dev.to/JS] [Asynchronism in JavaScript](https://dev.to/ernerdo/asynchronism-in-javascript-471a)
 - [Dev.to/JS] [A Guide to useEffect Cleanup](https://dev.to/racheljoyh/a-guide-to-useeffect-cleanup-27dj)
-- [Dev.to/JS] [You Can Count On Me](https://dev.to/megdiv/you-can-count-on-me-534j)
-- [Dev.to/JS] [Next.js 13 with Tailwind and MUI Boilerplate](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
-- [Dev.to/JS] [Import &amp; Export](https://dev.to/yukinoyamiko/import-export-3ce3)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
