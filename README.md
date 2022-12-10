@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AdventJS - Reto #2: Nadie quiere hacer horas extras](https://dev.to/joseayram/adventjs-reto2-nadie-quiere-hacer-horas-extras-ojj)
+- [Dev.to/JS] [Asynchronism in JavaScript](https://dev.to/ernerdo/asynchronism-in-javascript-471a)
 - [Dev.to/JS] [A Guide to useEffect Cleanup](https://dev.to/racheljoyh/a-guide-to-useeffect-cleanup-27dj)
 - [Dev.to/JS] [You Can Count On Me](https://dev.to/megdiv/you-can-count-on-me-534j)
 - [Dev.to/JS] [Next.js 13 with Tailwind and MUI Boilerplate](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [why I cannot get the domain names out of a certificate in nodejs?](https://dev.to/pcmagas/why-i-cannot-get-the-domain-names-out-of-a-certificate-in-nodejs-1kl1)
 - [Dev.to/JS] [[How to] use CSS Variables in React Component](https://dev.to/devneagu/how-to-use-css-variables-in-react-component-1a08)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
-- [Dev.to/JS] [InfluxDB - What, When, Why](https://dev.to/devneagu/influxdb-what-when-why-4lmf)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
-- [Dev.to/JS] [HTML canvas, web components and pianos.](https://dev.to/hyenast2/html-canvas-web-components-and-pianos-mo7)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
 - [Lifehacker] [Enable This Setting to Stop Chrome From Hogging So Much Memory](https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138)
 - [Lifehacker] [Put a Turkey Baster in Your Punch Bowl](https://lifehacker.com/put-a-turkey-baster-in-your-punch-bowl-1849876149)
