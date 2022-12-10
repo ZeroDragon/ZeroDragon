@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WHY YOUR STATE IS BEHIND.&lpar;react.js&rpar;](https://dev.to/csituma/why-your-state-is-one-character-behindreactjs-16im)
+- [Dev.to/JS] [&lt;script&gt;alert&lpar;&quot;Hello World&quot;&rpar;&lt;/script&gt;](https://dev.to/hecker/alerthello-world-43d4)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;10-12-2022&rpar; - Fear and Loathing in the Multiverse](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-12-2022-fear-and-loathing-in-the-multiverse-485h)
 - [Dev.to/JS] [NodeJS virtual environment in Fedora Toolbox](https://dev.to/alantsui5/create-nodejs-virtual-environment-in-fedora-toolbox-56gp)
 - [Dev.to/JS] [Weight loss drugs like Work](https://dev.to/reviewsfigur/weight-loss-drugs-like-work-2pgo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [You Can Count On Me](https://dev.to/megdiv/you-can-count-on-me-534j)
 - [Dev.to/JS] [Next.js 13 with Tailwind and MUI Boilerplate](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
 - [Dev.to/JS] [Import &amp; Export](https://dev.to/yukinoyamiko/import-export-3ce3)
-- [Dev.to/JS] [So what is Effector ☄️ ?](https://dev.to/js2me/so-what-is-effector--3fl1)
-- [Dev.to/JS] [AdventJS - Reto #1: ¡Automatizando envolver regalos de navidad!](https://dev.to/joseayram/adventjs-reto-1-automatizando-envolver-regalos-de-navidad-3gb5)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
