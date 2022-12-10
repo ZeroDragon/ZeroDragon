@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need to minify js file in next js](https://dev.to/poomarimurugan/need-to-minify-js-file-in-next-js-537)
+- [Dev.to/JS] [Social Proof Marketing - An Effective Way To Grow Your Business](https://dev.to/arpitharajeev1/social-proof-marketing-an-effective-way-to-grow-your-business-4bi3)
 - [Dev.to/JS] [What are the 5 best options to monetize an open-source javascript library? [ChatGPT answer]](https://dev.to/paydevs/what-are-the-5-best-options-to-monetize-an-open-source-javascript-library-chatgpt-answer-2aa)
 - [Dev.to/JS] [Solving day 10 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-10-of-advent-of-code-2022-in-javascript-4o9a)
 - [Dev.to/JS] [How to Become a Hot Cake Blockchain Developer](https://dev.to/elliot_brenyasarfo_18749/how-to-become-a-hot-cake-blockchain-developer-5d51)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🤔 For what prototype??](https://dev.to/kaziusan/for-what-prototype-536e)
 - [Dev.to/JS] [Adding Vercel og:image generation to Astro project with Edge functions](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
 - [Dev.to/JS] [Everything you should know about var, const, and let](https://dev.to/arpitharajeev1/everything-you-should-know-about-var-const-and-let-2ce9)
-- [Dev.to/JS] [I created my own custom blog, Does it cool?](https://dev.to/anasdew/i-created-my-own-custom-blog-does-it-cool-2eep)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
-- [Dev.to/JS] [Amyl Guard - Weight Loss Pills, Results, Pros, Cons, Scam Or Legit?](https://dev.to/amylguardfact/amyl-guard-weight-loss-pills-results-pros-cons-scam-or-legit-2106)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
