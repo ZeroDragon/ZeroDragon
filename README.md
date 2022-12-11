@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reducing the Size of Your React Applications with Tree Shaking and Code Splitting](https://dev.to/_itsglover/reducing-the-size-of-your-react-applications-with-tree-shaking-and-code-splitting-1650)
 - [Dev.to/JS] [7 Best Tools for Monitoring Node.js Servers](https://dev.to/devland/7-best-tools-for-monitoring-nodejs-servers-168h)
 - [Dev.to/JS] [📦 loop and block scope. difference between VAR and CONST with image](https://dev.to/kaziusan/loop-and-block-scope-1bga)
 - [Dev.to/JS] [Challenge: Your ugliest code](https://dev.to/andersbjorkland/challenge-your-ugliest-code-1cbp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [One Click to Optimize Images, Create Repo and Making Commit](https://dev.to/genne23v/one-click-to-optimize-images-create-repo-and-making-commit-2203)
 - [Dev.to/JS] [Making Asynchronous Requests with Promise and Await Functions](https://dev.to/juliannehuynh/making-asynchronous-requests-with-promise-and-await-functions-3cb9)
 - [Dev.to/JS] [Uncaught Typeerror: cannot read properties of undefined &lpar;reading &#39;render&#39;&rpar;](https://dev.to/elohe_charisma/uncaught-typeerror-cannot-read-properties-of-undefined-reading-render-2lnb)
-- [Dev.to/JS] [How to make a dark mode toggle with CSS and Javascript](https://dev.to/lensco825/how-to-make-a-dark-mode-toggle-with-css-and-javascript-4o8e)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
