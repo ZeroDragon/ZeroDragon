@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Uncaught Typeerror: cannot read properties of undefined &lpar;reading &#39;render&#39;&rpar;](https://dev.to/elohe_charisma/uncaught-typeerror-cannot-read-properties-of-undefined-reading-render-2lnb)
 - [Dev.to/JS] [How to make a dark mode toggle with CSS and Javascript](https://dev.to/lensco825/how-to-make-a-dark-mode-toggle-with-css-and-javascript-4o8e)
 - [Dev.to/JS] [Don&#39;t hide if you want to rank: how display none and visibility hidden endanger SEO efforts](https://dev.to/pedrodrocha/dont-hide-if-you-want-to-rank-how-display-none-and-visibility-hidden-endanger-seo-efforts-122n)
 - [Dev.to/JS] [Cathode-Ray Tube](https://dev.to/rmion/cathode-ray-tube-2il3)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Need to minify js file in next js](https://dev.to/poomarimurugan/need-to-minify-js-file-in-next-js-537)
 - [Dev.to/JS] [Social Proof Marketing - An Effective Way To Grow Your Business](https://dev.to/arpitharajeev1/social-proof-marketing-an-effective-way-to-grow-your-business-4bi3)
 - [Dev.to/JS] [What are the 5 best options to monetize an open-source javascript library? [ChatGPT answer]](https://dev.to/paydevs/what-are-the-5-best-options-to-monetize-an-open-source-javascript-library-chatgpt-answer-2aa)
-- [Dev.to/JS] [Solving day 10 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-10-of-advent-of-code-2022-in-javascript-4o9a)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
