@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can i start my first step toward learnig web development on JavaScript. Please advise](https://dev.to/ask_pawan/how-can-i-start-my-first-step-toward-learnig-web-development-on-javascript-please-advise-po0)
 - [Dev.to/JS] [How to Make Responsive Accordion in HTML](https://dev.to/patelrohan750/how-to-make-responsive-accordion-in-html-48e9)
 - [Dev.to/JS] [How to Make Hangman Game in JavaScript](https://dev.to/patelrohan750/how-to-make-hangman-game-in-javascript-3089)
 - [Dev.to/JS] [How Long Does It Take to Learn JavaScript?](https://dev.to/salmaab/how-long-does-it-take-to-learn-javascript-19n5)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
 - [Dev.to/JS] [How to add Prisma to a Next.js project](https://dev.to/posandu/how-to-add-prisma-to-a-nextjs-project-3pf5)
 - [Dev.to/JS] [Why there can be multiple console output with one console.log&lpar;&rpar; in ReactJS](https://dev.to/bladearya/why-there-can-be-multiple-console-output-with-one-consolelog-in-reactjs-5f10)
-- [Dev.to/JS] [The missing sum&lpar;&rpar; method](https://dev.to/tracygjg/the-missing-sum-method-4g8m)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
