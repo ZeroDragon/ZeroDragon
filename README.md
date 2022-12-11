@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Responsive Accordion in HTML](https://dev.to/patelrohan750/how-to-make-responsive-accordion-in-html-48e9)
+- [Dev.to/JS] [How to Make Hangman Game in JavaScript](https://dev.to/patelrohan750/how-to-make-hangman-game-in-javascript-3089)
+- [Dev.to/JS] [How Long Does It Take to Learn JavaScript?](https://dev.to/salmaab/how-long-does-it-take-to-learn-javascript-19n5)
+- [Dev.to/JS] [How to Make Dynamic Calendar in HTML &amp; JavaScript](https://dev.to/patelrohan750/how-to-make-dynamic-calendar-in-html-javascript-18l5)
+- [Dev.to/JS] [How to Save Text as File in JavaScript](https://dev.to/patelrohan750/how-to-save-text-as-file-in-javascript-1mjg)
+- [Dev.to/JS] [How to Make File Downloader Using JavaScript](https://dev.to/patelrohan750/how-to-make-file-downloader-using-javascript-5g60)
+- [Dev.to/JS] [How to Make Price Range Slider Using JavaScript](https://dev.to/patelrohan750/how-to-make-price-range-slider-using-javascript-4153)
+- [Dev.to/JS] [API Automation using SuperTest Mocha ChaiJS and FakerJS](https://dev.to/codewithmmak/api-automation-using-supertest-mocha-chaijs-and-fakerjs-1bc7)
+- [Dev.to/JS] [How to create custom Hooks in React.Js?](https://dev.to/esraaismail/how-to-create-custom-hooks-in-reactjs-5ej7)
+- [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
 - [Dev.to/JS] [How to add Prisma to a Next.js project](https://dev.to/posandu/how-to-add-prisma-to-a-nextjs-project-3pf5)
 - [Dev.to/JS] [Why there can be multiple console output with one console.log&lpar;&rpar; in ReactJS](https://dev.to/bladearya/why-there-can-be-multiple-console-output-with-one-consolelog-in-reactjs-5f10)
 - [Dev.to/JS] [The missing sum&lpar;&rpar; method](https://dev.to/tracygjg/the-missing-sum-method-4g8m)
-- [Dev.to/JS] [I&#39;m SPRUNG! A react-spring series // Part 1: Intro &amp; the useSpring hook 🦘](https://dev.to/kevinqtogitty/part-1-intro-the-usespring-hook-gjb)
-- [Dev.to/JS] [Reducing the Size of Your React Applications with Tree Shaking and Code Splitting](https://dev.to/_itsglover/reducing-the-size-of-your-react-applications-with-tree-shaking-and-code-splitting-1650)
-- [Dev.to/JS] [7 Best Tools for Monitoring Node.js Servers](https://dev.to/devland/7-best-tools-for-monitoring-nodejs-servers-168h)
-- [Dev.to/JS] [📦 loop and block scope. difference between VAR and CONST with image](https://dev.to/kaziusan/loop-and-block-scope-1bga)
-- [Dev.to/JS] [Challenge: Your ugliest code](https://dev.to/andersbjorkland/challenge-your-ugliest-code-1cbp)
-- [Dev.to/JS] [Invalidating JSON Web Tokens &lpar;JWT&rpar;: NodeJS + Express](https://dev.to/webjose/invalidating-json-web-tokens-jwt-nodejs-express-4ak7)
-- [Dev.to/JS] [Finite State Machine w. vanilla JavaScript example](https://dev.to/steinarvdesign/finite-state-machine-w-vanilla-javascript-example-381e)
-- [Dev.to/JS] [It is a Mini-Calculator Which made by HTML5,CSS3,JavaScript.](https://dev.to/sujatrodas96/it-is-a-mini-calculator-4nfp)
-- [Dev.to/JS] [Build a Simple API with Express](https://dev.to/sweetpapa/build-a-simple-api-with-express-3oeh)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
 - [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)
 - [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)
-- [Lifehacker] [11 Deeply Strange U.S. Tourist Spots](https://lifehacker.com/11-deeply-strange-u-s-tourist-spots-1849870496)
-- [Lifehacker] [Marcus Samuelsson’s Favorite Dish to Cook With His Son](https://lifehacker.com/marcus-samuelsson-s-favorite-dish-to-cook-with-his-son-1849864949)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Deeply Strange U.S. Tourist Spots](https://lifehacker.com/11-deeply-strange-u-s-tourist-spots-1849870496)<!-- TECH-POSTS:END -->
 
 ---
 
