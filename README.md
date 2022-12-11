@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Orientado a Objeto](https://dev.to/rubenslferreira/javascript-orientado-a-objeto-j5h)
 - [Dev.to/JS] [One Click to Optimize Images, Create Repo and Making Commit](https://dev.to/genne23v/one-click-to-optimize-images-create-repo-and-making-commit-2203)
 - [Dev.to/JS] [Making Asynchronous Requests with Promise and Await Functions](https://dev.to/juliannehuynh/making-asynchronous-requests-with-promise-and-await-functions-3cb9)
 - [Dev.to/JS] [Uncaught Typeerror: cannot read properties of undefined &lpar;reading &#39;render&#39;&rpar;](https://dev.to/elohe_charisma/uncaught-typeerror-cannot-read-properties-of-undefined-reading-render-2lnb)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ASSISTIR Avatar: O Caminho da Água Filme Online&lpar;2022&rpar;Dublado Filmes Grátis PT](https://dev.to/miutane/assistir-avatar-o-caminho-da-agua-filme-online2022dublado-filmes-gratis-pt-140j)
 - [Dev.to/JS] [[HDFILMYCZ]* SLEDUJ Avatar: The Way Of Water &lpar;2022&rpar; CELÝ FILM ONLINE CZ TITULKY ZDARMA](https://dev.to/miutane/hdfilmycz-sleduj-avatar-the-way-of-water-2022-cely-film-online-cz-titulky-zdarma-k5)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
-- [Dev.to/JS] [Need to minify js file in next js](https://dev.to/poomarimurugan/need-to-minify-js-file-in-next-js-537)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
