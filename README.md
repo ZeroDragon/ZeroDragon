@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Finite State Machine w. vanilla JavaScript example](https://dev.to/steinarvdesign/finite-state-machine-w-vanilla-javascript-example-381e)
+- [Dev.to/JS] [It is a Mini-Calculator Which made by HTML5,CSS3,JavaScript.](https://dev.to/sujatrodas96/it-is-a-mini-calculator-4nfp)
 - [Dev.to/JS] [Build a Simple API with Express](https://dev.to/sweetpapa/build-a-simple-api-with-express-3oeh)
 - [Dev.to/JS] [JavaScript Orientado a Objeto 🚀](https://dev.to/rubenslferreira/javascript-orientado-a-objeto-j5h)
 - [Dev.to/JS] [One Click to Optimize Images, Create Repo and Making Commit](https://dev.to/genne23v/one-click-to-optimize-images-create-repo-and-making-commit-2203)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cathode-Ray Tube](https://dev.to/rmion/cathode-ray-tube-2il3)
 - [Dev.to/JS] [Add Voice &amp; Video calling Feature in React Native using ZEGOCLOUD](https://dev.to/zainbinfurqan/add-voice-video-calling-feature-in-react-native-using-zegocloud-9i7)
 - [Dev.to/JS] [Release 0.4 - Finale](https://dev.to/lostbutton/release-04-finale-g33)
-- [Dev.to/JS] [Reviewing what I learned from Vanilla JS course](https://dev.to/ghandicode/reviewing-what-i-learned-from-vanilla-js-course-9k7)
-- [Dev.to/JS] [ASSISTIR Avatar: O Caminho da Água Filme Online&lpar;2022&rpar;Dublado Filmes Grátis PT](https://dev.to/miutane/assistir-avatar-o-caminho-da-agua-filme-online2022dublado-filmes-gratis-pt-140j)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
