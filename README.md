@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Yet Another Newsletter LOL: Super Charge!](https://dev.to/nickytonline/yet-another-newsletter-lol-super-charge-5gl5)
+- [Dev.to/JS] [🛑 Why You Should Avoid the onclick Attribute in Your Code](https://dev.to/maxprogramming/why-you-should-avoid-the-onclick-attribute-in-your-code-560d)
+- [Dev.to/JS] [代码随想录day25 | 216.Combination Sum III, 17. Letter Combinations of a Phone Number](https://dev.to/986913/dai-ma-sui-xiang-lu-day25--4ekn)
+- [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Dev.to/JS] [How can i start my first step toward learnig web development on JavaScript. Please advise](https://dev.to/ask_pawan/how-can-i-start-my-first-step-toward-learnig-web-development-on-javascript-please-advise-po0)
 - [Dev.to/JS] [How to Make Responsive Accordion in HTML](https://dev.to/patelrohan750/how-to-make-responsive-accordion-in-html-48e9)
 - [Dev.to/JS] [How to Make Hangman Game in JavaScript](https://dev.to/patelrohan750/how-to-make-hangman-game-in-javascript-3089)
@@ -32,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make File Downloader Using JavaScript](https://dev.to/patelrohan750/how-to-make-file-downloader-using-javascript-5g60)
 - [Dev.to/JS] [How to Make Price Range Slider Using JavaScript](https://dev.to/patelrohan750/how-to-make-price-range-slider-using-javascript-4153)
 - [Dev.to/JS] [API Automation using SuperTest Mocha ChaiJS and FakerJS](https://dev.to/codewithmmak/api-automation-using-supertest-mocha-chaijs-and-fakerjs-1bc7)
-- [Dev.to/JS] [How to create custom Hooks in React.Js?](https://dev.to/esraaismail/how-to-create-custom-hooks-in-reactjs-5ej7)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
-- [Dev.to/JS] [How to add Prisma to a Next.js project](https://dev.to/posandu/how-to-add-prisma-to-a-nextjs-project-3pf5)
-- [Dev.to/JS] [Why there can be multiple console output with one console.log&lpar;&rpar; in ReactJS](https://dev.to/bladearya/why-there-can-be-multiple-console-output-with-one-consolelog-in-reactjs-5f10)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
 - [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
 - [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)
-- [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)
-- [Lifehacker] [11 Deeply Strange U.S. Tourist Spots](https://lifehacker.com/11-deeply-strange-u-s-tourist-spots-1849870496)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)<!-- TECH-POSTS:END -->
 
 ---
 
