@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Best Tools for Monitoring Node.js Servers](https://dev.to/devland/7-best-tools-for-monitoring-nodejs-servers-168h)
+- [Dev.to/JS] [📦 loop and block scope. difference between VAR and CONST with image](https://dev.to/kaziusan/loop-and-block-scope-1bga)
 - [Dev.to/JS] [Challenge: Your ugliest code](https://dev.to/andersbjorkland/challenge-your-ugliest-code-1cbp)
 - [Dev.to/JS] [Invalidating JSON Web Tokens &lpar;JWT&rpar;: NodeJS + Express](https://dev.to/webjose/invalidating-json-web-tokens-jwt-nodejs-express-4ak7)
 - [Dev.to/JS] [Finite State Machine w. vanilla JavaScript example](https://dev.to/steinarvdesign/finite-state-machine-w-vanilla-javascript-example-381e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making Asynchronous Requests with Promise and Await Functions](https://dev.to/juliannehuynh/making-asynchronous-requests-with-promise-and-await-functions-3cb9)
 - [Dev.to/JS] [Uncaught Typeerror: cannot read properties of undefined &lpar;reading &#39;render&#39;&rpar;](https://dev.to/elohe_charisma/uncaught-typeerror-cannot-read-properties-of-undefined-reading-render-2lnb)
 - [Dev.to/JS] [How to make a dark mode toggle with CSS and Javascript](https://dev.to/lensco825/how-to-make-a-dark-mode-toggle-with-css-and-javascript-4o8e)
-- [Dev.to/JS] [Don&#39;t hide if you want to rank: how display none and visibility hidden endanger SEO efforts](https://dev.to/pedrodrocha/dont-hide-if-you-want-to-rank-how-display-none-and-visibility-hidden-endanger-seo-efforts-122n)
-- [Dev.to/JS] [Cathode-Ray Tube](https://dev.to/rmion/cathode-ray-tube-2il3)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
