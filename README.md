@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Equality of values in JavaScript](https://dev.to/jmalvarez/equality-of-values-in-javascript-hgd)
+- [Dev.to/JS] [Seeding the Query Cache](https://dev.to/tkdodo/seeding-the-query-cache-5g6g)
+- [Dev.to/JS] [My Devfest Experince as Speaker](https://dev.to/deepachaurasia1/my-devfest-experince-as-speaker-51am)
+- [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Dev.to/JS] [WTF is Jamstack: The Best Way to Build Content Sites?](https://dev.to/nitinfab/wtf-is-jamstack-the-best-way-to-build-content-sites-3p45)
 - [Dev.to/JS] [Top JS frameworks in 2023](https://dev.to/pulkitsingh/top-js-frameworks-in-2023-28m4)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Super Charge!](https://dev.to/nickytonline/yet-another-newsletter-lol-super-charge-5gl5)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make Responsive Accordion in HTML](https://dev.to/patelrohan750/how-to-make-responsive-accordion-in-html-48e9)
 - [Dev.to/JS] [How to Make Hangman Game in JavaScript](https://dev.to/patelrohan750/how-to-make-hangman-game-in-javascript-3089)
 - [Dev.to/JS] [How Long Does It Take to Learn JavaScript?](https://dev.to/salmaab/how-long-does-it-take-to-learn-javascript-19n5)
-- [Dev.to/JS] [How to Make Dynamic Calendar in HTML &amp; JavaScript](https://dev.to/patelrohan750/how-to-make-dynamic-calendar-in-html-javascript-18l5)
-- [Dev.to/JS] [How to Save Text as File in JavaScript](https://dev.to/patelrohan750/how-to-save-text-as-file-in-javascript-1mjg)
-- [Dev.to/JS] [How to Make File Downloader Using JavaScript](https://dev.to/patelrohan750/how-to-make-file-downloader-using-javascript-5g60)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
 - [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
 - [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
-- [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)
-- [Lifehacker] [Your Jeep&#39;s Engine Might Just Shut Down](https://lifehacker.com/these-jeeps-are-being-recalled-for-a-possible-sudden-en-1849870560)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)<!-- TECH-POSTS:END -->
 
 ---
 
