@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Challenge: Your ugliest code](https://dev.to/andersbjorkland/challenge-your-ugliest-code-1cbp)
 - [Dev.to/JS] [Invalidating JSON Web Tokens &lpar;JWT&rpar;: NodeJS + Express](https://dev.to/webjose/invalidating-json-web-tokens-jwt-nodejs-express-4ak7)
 - [Dev.to/JS] [Finite State Machine w. vanilla JavaScript example](https://dev.to/steinarvdesign/finite-state-machine-w-vanilla-javascript-example-381e)
 - [Dev.to/JS] [It is a Mini-Calculator Which made by HTML5,CSS3,JavaScript.](https://dev.to/sujatrodas96/it-is-a-mini-calculator-4nfp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make a dark mode toggle with CSS and Javascript](https://dev.to/lensco825/how-to-make-a-dark-mode-toggle-with-css-and-javascript-4o8e)
 - [Dev.to/JS] [Don&#39;t hide if you want to rank: how display none and visibility hidden endanger SEO efforts](https://dev.to/pedrodrocha/dont-hide-if-you-want-to-rank-how-display-none-and-visibility-hidden-endanger-seo-efforts-122n)
 - [Dev.to/JS] [Cathode-Ray Tube](https://dev.to/rmion/cathode-ray-tube-2il3)
-- [Dev.to/JS] [Add Voice &amp; Video calling Feature in React Native using ZEGOCLOUD](https://dev.to/zainbinfurqan/add-voice-video-calling-feature-in-react-native-using-zegocloud-9i7)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
