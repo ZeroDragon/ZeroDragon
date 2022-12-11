@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Data Types in Depth&lpar;2&rpar;](https://dev.to/waqasongithub/javascript-data-types-in-depth2-3i2l)
+- [Dev.to/JS] [Solving day 11 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-11-of-advent-of-code-2022-in-javascript-3blb)
+- [Dev.to/JS] [useImperativeHandle React Hook](https://dev.to/findniya/useimperativehandle-react-hook-3kd2)
 - [Dev.to/JS] [Equality of values in JavaScript](https://dev.to/jmalvarez/equality-of-values-in-javascript-hgd)
 - [Dev.to/JS] [Seeding the Query Cache](https://dev.to/tkdodo/seeding-the-query-cache-5g6g)
 - [Dev.to/JS] [My Devfest Experince as Speaker](https://dev.to/deepachaurasia1/my-devfest-experince-as-speaker-51am)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [代码随想录day25 | 216.Combination Sum III, 17. Letter Combinations of a Phone Number](https://dev.to/986913/dai-ma-sui-xiang-lu-day25--4ekn)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Dev.to/JS] [How can i start my first step toward learnig web development on JavaScript. Please advise](https://dev.to/ask_pawan/how-can-i-start-my-first-step-toward-learnig-web-development-on-javascript-please-advise-po0)
-- [Dev.to/JS] [How to Make Responsive Accordion in HTML](https://dev.to/patelrohan750/how-to-make-responsive-accordion-in-html-48e9)
-- [Dev.to/JS] [How to Make Hangman Game in JavaScript](https://dev.to/patelrohan750/how-to-make-hangman-game-in-javascript-3089)
-- [Dev.to/JS] [How Long Does It Take to Learn JavaScript?](https://dev.to/salmaab/how-long-does-it-take-to-learn-javascript-19n5)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
