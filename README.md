@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keywords in Svelte](https://dev.to/ijay/keywords-in-svelte-3lkm)
+- [Dev.to/JS] [Show Validation Error Messages for Reactive Forms in Angular](https://dev.to/stevenmclintock/show-validation-error-messages-for-reactive-forms-in-angular-4ehg)
 - [Dev.to/JS] [Javascript Data Types in Depth&lpar;2&rpar;](https://dev.to/waqasongithub/javascript-data-types-in-depth2-3i2l)
 - [Dev.to/JS] [Solving day 11 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-11-of-advent-of-code-2022-in-javascript-3blb)
 - [Dev.to/JS] [useImperativeHandle React Hook](https://dev.to/findniya/useimperativehandle-react-hook-3kd2)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top JS frameworks in 2023](https://dev.to/pulkitsingh/top-js-frameworks-in-2023-28m4)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Super Charge!](https://dev.to/nickytonline/yet-another-newsletter-lol-super-charge-5gl5)
 - [Dev.to/JS] [🛑 Why You Should Avoid the onclick Attribute in Your Code](https://dev.to/maxprogramming/why-you-should-avoid-the-onclick-attribute-in-your-code-560d)
-- [Dev.to/JS] [代码随想录day25 | 216.Combination Sum III, 17. Letter Combinations of a Phone Number](https://dev.to/986913/dai-ma-sui-xiang-lu-day25--4ekn)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
-- [Dev.to/JS] [How can i start my first step toward learnig web development on JavaScript. Please advise](https://dev.to/ask_pawan/how-can-i-start-my-first-step-toward-learnig-web-development-on-javascript-please-advise-po0)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
