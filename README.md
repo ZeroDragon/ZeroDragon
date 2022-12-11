@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Turn a Micro:bit into a Dreidle](https://dev.to/bennypowers/turn-a-microbit-into-a-dreidle-482k)
+- [Dev.to/JS] [Release 0.4 Final](https://dev.to/rudychung/release-04-final-321)
+- [Dev.to/JS] [Load Laravel Env variables into client code with Vite](https://dev.to/arielmejiadev/load-laravel-env-variables-into-client-code-with-vite-9ld)
+- [Dev.to/JS] [SQL vs NoSQL](https://dev.to/mradamus/sql-vs-nosql-2igo)
 - [Dev.to/JS] [Keywords in Svelte](https://dev.to/ijay/keywords-in-svelte-3lkm)
 - [Dev.to/JS] [Show Validation Error Messages for Reactive Forms in Angular](https://dev.to/stevenmclintock/show-validation-error-messages-for-reactive-forms-in-angular-4ehg)
 - [Dev.to/JS] [Javascript Data Types in Depth&lpar;2&rpar;](https://dev.to/waqasongithub/javascript-data-types-in-depth2-3i2l)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Seeding the Query Cache](https://dev.to/tkdodo/seeding-the-query-cache-5g6g)
 - [Dev.to/JS] [My Devfest Experince as Speaker](https://dev.to/deepachaurasia1/my-devfest-experince-as-speaker-51am)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
-- [Dev.to/JS] [WTF is Jamstack: The Best Way to Build Content Sites?](https://dev.to/nitinfab/wtf-is-jamstack-the-best-way-to-build-content-sites-3p45)
-- [Dev.to/JS] [Top JS frameworks in 2023](https://dev.to/pulkitsingh/top-js-frameworks-in-2023-28m4)
-- [Dev.to/JS] [Yet Another Newsletter LOL: Super Charge!](https://dev.to/nickytonline/yet-another-newsletter-lol-super-charge-5gl5)
-- [Dev.to/JS] [🛑 Why You Should Avoid the onclick Attribute in Your Code](https://dev.to/maxprogramming/why-you-should-avoid-the-onclick-attribute-in-your-code-560d)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
