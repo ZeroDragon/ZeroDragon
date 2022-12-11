@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WTF is Jamstack: The Best Way to Build Content Sites?](https://dev.to/nitinfab/wtf-is-jamstack-the-best-way-to-build-content-sites-3p45)
+- [Dev.to/JS] [Top JS frameworks in 2023](https://dev.to/pulkitsingh/top-js-frameworks-in-2023-28m4)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Super Charge!](https://dev.to/nickytonline/yet-another-newsletter-lol-super-charge-5gl5)
 - [Dev.to/JS] [🛑 Why You Should Avoid the onclick Attribute in Your Code](https://dev.to/maxprogramming/why-you-should-avoid-the-onclick-attribute-in-your-code-560d)
 - [Dev.to/JS] [代码随想录day25 | 216.Combination Sum III, 17. Letter Combinations of a Phone Number](https://dev.to/986913/dai-ma-sui-xiang-lu-day25--4ekn)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make Dynamic Calendar in HTML &amp; JavaScript](https://dev.to/patelrohan750/how-to-make-dynamic-calendar-in-html-javascript-18l5)
 - [Dev.to/JS] [How to Save Text as File in JavaScript](https://dev.to/patelrohan750/how-to-save-text-as-file-in-javascript-1mjg)
 - [Dev.to/JS] [How to Make File Downloader Using JavaScript](https://dev.to/patelrohan750/how-to-make-file-downloader-using-javascript-5g60)
-- [Dev.to/JS] [How to Make Price Range Slider Using JavaScript](https://dev.to/patelrohan750/how-to-make-price-range-slider-using-javascript-4153)
-- [Dev.to/JS] [API Automation using SuperTest Mocha ChaiJS and FakerJS](https://dev.to/codewithmmak/api-automation-using-supertest-mocha-chaijs-and-fakerjs-1bc7)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
