@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LibreGrid : The Only React Component You&#39;ll Ever Need](https://dev.to/raddevus/libregrid-the-only-react-component-youll-ever-need-44o3)
+- [Dev.to/JS] [7 Insanely Useful React Libraries For Your Next Project - No BS](https://dev.to/nitinfab/7-insanely-useful-react-libraries-for-your-next-project-no-bs-56k7)
+- [Lifehacker] [The Most Common Reasons Your Ice Maker Is Malfunctioning](https://lifehacker.com/the-most-common-reasons-your-ice-maker-is-malfunctionin-1849881088)
+- [Dev.to/JS] [[How to] send react code via API Call](https://dev.to/devneagu/how-to-send-react-code-via-api-call-e96)
+- [Dev.to/JS] [Detect Operating System using javascript.](https://dev.to/nikeshkumartk/detect-operating-system-using-javascript-301f)
+- [Lifehacker] [Five Small Job-Search Tasks You Can Do While Watching TV](https://lifehacker.com/five-small-job-search-tasks-you-can-do-while-watching-t-1849871421)
+- [Dev.to/JS] [C ++ ga kirish](https://dev.to/etibor2006/c-ga-kirish-7gm)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-dec-2022-i4p)
 - [Lifehacker] [Scammers Are Lurking on Etsy](https://lifehacker.com/scammers-are-lurking-on-etsy-1849877094)
 - [Dev.to/JS] [How to Make a Restaurant Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-restaurant-website-using-html-css-javascript-2mpn)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [B2B Commerce w. Medusa: Set up a Next.js storefront &lpar;2/2&rpar;](https://dev.to/medusajs/b2b-commerce-w-medusa-set-up-a-nextjs-storefront-22-2jbi)
 - [Dev.to/JS] [B2B Commerce w. Medusa: Set up a headless Node.js backend &lpar;1/2&rpar;](https://dev.to/medusajs/b2b-commerce-w-medusa-set-up-a-headless-nodejs-backend-12-2n7m)
 - [Dev.to/JS] [How is this dirty code](https://dev.to/harryrefact/how-is-this-dirty-code-47l7)
-- [Dev.to/JS] [5 USEFUL javascript array methods you might NOT know!](https://dev.to/codeystein/5-useful-javascript-array-methods-you-might-not-know-gje)
-- [Dev.to/JS] [Understanding Map, Filter &amp; Reduce functions.](https://dev.to/klc/understanding-map-filter-reduce-functions-22b)
-- [Dev.to/JS] [React Resume - uploader Website &lpar;Geekyshows&rpar;](https://dev.to/akshdesai1/react-resume-uploader-website-geekyshows-2d9j)
-- [Dev.to/JS] [10+ Top User Management Templates](https://dev.to/flatlogic/10-top-user-management-templates-12p4)
-- [Dev.to/JS] [How to Build a Blog App Using Blazor WASM and Strapi](https://dev.to/sanjana67222181/how-to-build-a-blog-app-using-blazor-wasm-and-strapi-3a3c)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Fall for This ‘Virtual Kidnapping’ Scam](https://lifehacker.com/don-t-fall-for-this-virtual-kidnapping-scam-1849871660)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Wednesday Addams?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-we-1849872960)
 - [Lifehacker] [There&#39;s Actually a Difference Between &#39;Snowfall&#39; and &#39;Snow Depth&#39;](https://lifehacker.com/theres-actually-a-difference-between-snowfall-and-snow-1849873485)
-- [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
-- [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
-- [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)<!-- TECH-POSTS:END -->
 
 ---
 
