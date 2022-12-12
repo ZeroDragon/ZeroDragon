@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom hooks are user-defined functions.](https://dev.to/ajmalp5/custom-hooks-are-user-defined-functions-38de)
+- [Dev.to/JS] [3 Awesome frameworks I learned this year🥳](https://dev.to/atenad86/3-awesome-frameworks-i-learned-this-year-3od4)
 - [Dev.to/JS] [Event Bubbling 101 🤔](https://dev.to/vaibhavacharya/event-bubbling-101-c0)
 - [Dev.to/JS] [To create a new project with Vite and React](https://dev.to/ajmalp5/to-create-a-new-project-with-vite-and-react-42h1)
 - [Dev.to/JS] [How to get the user’s timezone in JavaScript with Edge Functions](https://dev.to/whitep4nth3r/how-to-get-the-users-timezone-in-javascript-with-edge-functions-2m4b)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solving day 12 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-12-of-advent-of-code-2022-in-javascript-39m0)
 - [Dev.to/JS] [Shared layouts in React](https://dev.to/hugaidas/shared-layouts-in-react-dch)
 - [Dev.to/JS] [InversifyJS has reached 100,000,000 downloads on npm 🎉 🚀](https://dev.to/remojansen/inversifyjs-has-reached-100000000-downloads-on-npm-1hhd)
-- [Dev.to/JS] [Will your app fail when throttled?](https://dev.to/waldekmastykarz/will-your-app-fail-when-throttled-2fbm)
-- [Dev.to/JS] [How does Vuex work and what to use it for?](https://dev.to/bcostaaa01/how-does-vuex-work-and-what-to-use-it-for-4d8k)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
