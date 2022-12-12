@@ -25,6 +25,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Chat-gpt is killing jobs!](https://dev.to/atharvashankar/chat-gpt-is-killing-jobs-2i9o)
 - [Dev.to/JS] [Client-side image compression with Supabase Storage](https://dev.to/mikeesto/client-side-image-compression-with-supabase-storage-1193)
+- [Dev.to/JS] [Gamify JS: resources for easy browser roguelike creation](https://dev.to/colinwilliams91/gamify-js-resources-for-easy-browser-roguelike-creation-2b16)
 - [Dev.to/JS] [4 Design Patterns para usar no frontend](https://dev.to/stefanyrepetcki/4-design-patterns-para-usar-no-frontend-18k9)
 - [Dev.to/JS] [Patching It Up, Part 3: Release](https://dev.to/cychu42/patching-it-up-part-3-release-1n0o)
 - [Dev.to/JS] [The digital twin of the world&#39;s largest airport](https://dev.to/hightopo/the-digital-twin-of-the-worlds-largest-airport-25ll)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [代码随想录day27 | 39. Combination Sum, 40. Combination Sum II, 131. Palindrome Partitioning](https://dev.to/986913/dai-ma-sui-xiang-lu-day27-39-combination-sum-40-combination-sum-ii-131-palindrome-partitioning-119p)
 - [Dev.to/JS] [How to append to GitHub Env via JavaScript Action](https://dev.to/mbround18/how-to-append-to-github-env-via-javascript-action-9nj)
 - [Dev.to/JS] [Turn a Micro:bit into a Dreidle](https://dev.to/bennypowers/turn-a-microbit-into-a-dreidle-482k)
-- [Dev.to/JS] [Release 0.4 Final](https://dev.to/rudychung/release-04-final-321)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
