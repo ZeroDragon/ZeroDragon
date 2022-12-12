@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
+- [Dev.to/JS] [Custom Event Names and the Bubbling Problem](https://dev.to/claviska/custom-event-names-and-the-bubbling-problem-d3)
+- [Dev.to/JS] [Atomic commits](https://dev.to/rafinhadev/atomic-commits-2dcj)
+- [Dev.to/JS] [JS Test #2: Type conversion in JavaScript](https://dev.to/nathannosudo/js-test-2-type-conversion-in-javascript-2mb5)
+- [Lifehacker] [Don’t Let a Future Breakup Ruin This Year’s Holiday Photos](https://lifehacker.com/don-t-let-a-future-breakup-ruin-this-year-s-holiday-pho-1849883978)
 - [Lifehacker] [12 of the Best Gifts for Someone Who Needs Help Relaxing](https://lifehacker.com/12-of-the-best-gifts-for-someone-who-needs-help-relaxin-1849883700)
 - [Lifehacker] [How to Feel More at Home When Traveling for the Holidays](https://lifehacker.com/how-to-feel-more-at-home-when-traveling-for-the-holiday-1849882815)
 - [Dev.to/JS] [TypeScript Hate](https://dev.to/meleeman01/typescript-hate-ep1)
@@ -43,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Your MacBook Charger From Falling Off the Wall](https://lifehacker.com/stop-your-macbook-charger-from-falling-off-the-wall-1849882528)
 - [Lifehacker] [The 20 Best TV Shows of 2022](https://lifehacker.com/the-20-best-tv-shows-of-2022-1849880017)
 - [Lifehacker] [You Can Still Buy These Apple Devices as Holiday Gifts](https://lifehacker.com/you-can-still-buy-these-apple-devices-as-holiday-gifts-1849878232)
-- [Dev.to/JS] [My first openSource React mini game!](https://dev.to/emanuelecaurio/my-first-opensource-react-mini-game-dg3)
-- [Dev.to/JS] [Monkey in the Middle](https://dev.to/rmion/monkey-in-the-middle-4fep)
-- [Dev.to/JS] [Ordenar un arreglo de objetos por propiedad en JavaScript](https://dev.to/asjordi/ordenar-un-arreglo-de-objetos-por-propiedad-en-javascript-4h87)
 - [Lifehacker] [These Mini Baked Potatoes Are Party Potatoes](https://lifehacker.com/these-mini-baked-potatoes-are-party-potatoes-1849882015)
 - [Lifehacker] [The Most Common Reasons Your Ice Maker Is Malfunctioning](https://lifehacker.com/the-most-common-reasons-your-ice-maker-is-malfunctionin-1849881088)
 - [Lifehacker] [Five Small Job-Search Tasks You Can Do While Watching TV](https://lifehacker.com/five-small-job-search-tasks-you-can-do-while-watching-t-1849871421)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
 - [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
-- [Lifehacker] [Enable This Setting to Stop Chrome From Hogging So Much Memory](https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138)
-- [Lifehacker] [Put a Turkey Baster in Your Punch Bowl](https://lifehacker.com/put-a-turkey-baster-in-your-punch-bowl-1849876149)
-- [Lifehacker] [11 Easy WFH Lunches You Can Make Between Meetings](https://lifehacker.com/11-easy-wfh-lunches-you-can-make-between-meetings-1849871913)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Enable This Setting to Stop Chrome From Hogging So Much Memory](https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138)<!-- TECH-POSTS:END -->
 
 ---
 
