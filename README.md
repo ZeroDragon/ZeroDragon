@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
+- [Dev.to/JS] [Imposter Syndrome 2.0](https://dev.to/charlesshrout/imposter-syndrome-20-4k15)
+- [Lifehacker] [Stop Using These ‘Hacks’ That Will Dry Out Your Christmas Tree](https://lifehacker.com/stop-using-these-hacks-that-will-kill-your-christmas-1849883207)
+- [Dev.to/JS] [The importance of using array methods in JavaScript](https://dev.to/stevensmithcode/the-importance-of-using-array-methods-in-javascript-1ml8)
+- [Lifehacker] [Eight of the Best Reusable Alternatives to Traditional Wrapping Paper](https://lifehacker.com/eight-of-the-best-reusable-alternatives-to-traditional-1849881129)
 - [Dev.to/JS] [Light DOM and Lightning Web Components in Salesforce](https://dev.to/salesforcedevs/light-dom-and-lightning-web-components-in-salesforce-4d66)
 - [Dev.to/JS] [How VuePress can save your time?](https://dev.to/pulkitsingh/how-vuepress-can-save-your-time-1i6f)
 - [Lifehacker] [Stop Your MacBook Charger From Falling Off the Wall](https://lifehacker.com/stop-your-macbook-charger-from-falling-off-the-wall-1849882528)
@@ -35,13 +40,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LibreGrid : The Only React Component You&#39;ll Ever Need](https://dev.to/raddevus/libregrid-the-only-react-component-youll-ever-need-44o3)
 - [Dev.to/JS] [7 Insanely Useful React Libraries For Your Next Project - No BS](https://dev.to/nitinfab/7-insanely-useful-react-libraries-for-your-next-project-no-bs-56k7)
 - [Lifehacker] [The Most Common Reasons Your Ice Maker Is Malfunctioning](https://lifehacker.com/the-most-common-reasons-your-ice-maker-is-malfunctionin-1849881088)
-- [Dev.to/JS] [[How to] send react code via API Call](https://dev.to/devneagu/how-to-send-react-code-via-api-call-e96)
+- [Dev.to/JS] [How to create a SSR Application in React](https://dev.to/devneagu/how-to-send-react-code-via-api-call-e96)
 - [Dev.to/JS] [Detect Operating System using javascript.](https://dev.to/nikeshkumartk/detect-operating-system-using-javascript-301f)
 - [Lifehacker] [Five Small Job-Search Tasks You Can Do While Watching TV](https://lifehacker.com/five-small-job-search-tasks-you-can-do-while-watching-t-1849871421)
 - [Dev.to/JS] [C ++ ga kirish](https://dev.to/etibor2006/c-ga-kirish-7gm)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-dec-2022-i4p)
 - [Lifehacker] [Scammers Are Lurking on Etsy](https://lifehacker.com/scammers-are-lurking-on-etsy-1849877094)
-- [Dev.to/JS] [How to Make a Restaurant Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-restaurant-website-using-html-css-javascript-2mpn)
 - [Lifehacker] [Schedule These Maintenance Tasks to Keep Your Robot Vacuum Running](https://lifehacker.com/schedule-these-maintenance-tasks-to-keep-your-robot-vac-1849880400)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New Tech of 2022](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-tech-o-1849874899)
 - [Lifehacker] [You Might Be Using the Wrong Plunger](https://lifehacker.com/you-might-be-using-the-wrong-plunger-1849875131)
 - [Lifehacker] [&#39;Eco-Friendly&#39; Marketing Is Usually BS](https://lifehacker.com/eco-friendly-marketing-is-usually-bullshit-1849875042)
-- [Crazy Programmer] [C++ Iterate Over Vector – 4 Ways](https://www.thecrazyprogrammer.com/2022/12/c-iterate-over-vector.html)
-- [Lifehacker] [The &#39;Nice&#39; Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
-- [Lifehacker] [You Can Finally Encrypt These iCloud Backups](https://lifehacker.com/you-can-finally-encrypt-these-icloud-backups-1849873576)
-- [Lifehacker] [Your Fireplace Doesn&#39;t Have to Dry Out the Air](https://lifehacker.com/your-fireplace-doesnt-have-to-dry-out-the-air-1849871595)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [C++ Iterate Over Vector – 4 Ways](https://www.thecrazyprogrammer.com/2022/12/c-iterate-over-vector.html)<!-- TECH-POSTS:END -->
 
 ---
 
