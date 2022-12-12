@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building universal JS/TS plugins with unplugin](https://dev.to/jacobandrewsky/building-universal-jsts-plugins-with-unplugin-5328)
+- [Dev.to/JS] [Unexpected token in JSON at position 0 error](https://dev.to/refine/unexpected-token-in-json-at-position-0-error-1okm)
 - [Dev.to/JS] [Writing maintainable js code](https://dev.to/aneshodza/writing-maintainable-js-code-1gm6)
 - [Dev.to/JS] [The Power of AJAX ? Why to use?](https://dev.to/devvsakib/the-power-of-ajax-why-to-use-5hh1)
 - [Dev.to/JS] [&quot;Unleash the Power of Your Google Drive Images: How to Correctly Display Images on Your Website&quot;](https://dev.to/limalex71/unleash-the-power-of-your-google-drive-images-how-to-correctly-display-images-on-your-website-4amm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [4 Design Patterns para usar no frontend](https://dev.to/stefanyrepetcki/4-design-patterns-para-usar-no-frontend-18k9)
 - [Dev.to/JS] [Patching It Up, Part 3: Release](https://dev.to/cychu42/patching-it-up-part-3-release-1n0o)
 - [Dev.to/JS] [The digital twin of the world&#39;s largest airport](https://dev.to/hightopo/the-digital-twin-of-the-worlds-largest-airport-25ll)
-- [Dev.to/JS] [47 Free Udemy Courses - December 11, 2022](https://dev.to/theprogramminbuddyclub/47-free-udemy-courses-december-11-2022-4m21)
-- [Dev.to/JS] [telescope-bot: A new user has joined the Telescope community](https://dev.to/tdaw/telescope-bot-a-new-user-has-joined-the-telescope-community-3k9h)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
