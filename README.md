@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 of the Best Gifts for Someone Who Needs Help Relaxing](https://lifehacker.com/12-of-the-best-gifts-for-someone-who-needs-help-relaxin-1849883700)
+- [Lifehacker] [How to Feel More at Home When Traveling for the Holidays](https://lifehacker.com/how-to-feel-more-at-home-when-traveling-for-the-holiday-1849882815)
+- [Dev.to/JS] [TypeScript Hate](https://dev.to/meleeman01/typescript-hate-ep1)
 - [Dev.to/JS] [Client-side image compression with Firebase and Compressor.js](https://dev.to/devneagu/client-side-image-compression-with-firebase-and-compressorjs-2oac)
 - [Lifehacker] [That Terrifying Call From Your ‘Mom’ Might Be a Scam](https://lifehacker.com/that-terrifying-call-from-your-mom-might-be-a-scam-1849883646)
 - [Dev.to/JS] [Patterns And Best Practices In JavaScript: Dealing With Callback Functions](https://dev.to/paulknulst/patterns-and-best-practices-in-javascript-dealing-with-callback-functions-109o)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Monkey in the Middle](https://dev.to/rmion/monkey-in-the-middle-4fep)
 - [Dev.to/JS] [Ordenar un arreglo de objetos por propiedad en JavaScript](https://dev.to/asjordi/ordenar-un-arreglo-de-objetos-por-propiedad-en-javascript-4h87)
 - [Lifehacker] [These Mini Baked Potatoes Are Party Potatoes](https://lifehacker.com/these-mini-baked-potatoes-are-party-potatoes-1849882015)
-- [Dev.to/JS] [LibreGrid : The Only React Component You&#39;ll Ever Need](https://dev.to/raddevus/libregrid-the-only-react-component-youll-ever-need-44o3)
 - [Lifehacker] [The Most Common Reasons Your Ice Maker Is Malfunctioning](https://lifehacker.com/the-most-common-reasons-your-ice-maker-is-malfunctionin-1849881088)
 - [Lifehacker] [Five Small Job-Search Tasks You Can Do While Watching TV](https://lifehacker.com/five-small-job-search-tasks-you-can-do-while-watching-t-1849871421)
 - [Lifehacker] [Scammers Are Lurking on Etsy](https://lifehacker.com/scammers-are-lurking-on-etsy-1849877094)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)
 - [Lifehacker] [Enable This Setting to Stop Chrome From Hogging So Much Memory](https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138)
 - [Lifehacker] [Put a Turkey Baster in Your Punch Bowl](https://lifehacker.com/put-a-turkey-baster-in-your-punch-bowl-1849876149)
-- [Lifehacker] [11 Easy WFH Lunches You Can Make Between Meetings](https://lifehacker.com/11-easy-wfh-lunches-you-can-make-between-meetings-1849871913)
-- [Lifehacker] [The Weirdest Things You Never Knew You Could Insure](https://lifehacker.com/the-weirdest-things-you-never-knew-you-could-insure-1849875325)
-- [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New Tech of 2022](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-tech-o-1849874899)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Easy WFH Lunches You Can Make Between Meetings](https://lifehacker.com/11-easy-wfh-lunches-you-can-make-between-meetings-1849871913)<!-- TECH-POSTS:END -->
 
 ---
 
