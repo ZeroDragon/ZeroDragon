@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing maintainable js code](https://dev.to/ajmalp5/writing-maintainable-js-code-2b01)
+- [Dev.to/JS] [How To Cut and Paste &lpar;Move&rpar; Files In macOS Finder](https://dev.to/dev_neil_a/how-to-cut-and-paste-move-files-in-macos-finder-2jhj)
+- [Dev.to/JS] [B2B Commerce w. Medusa: Set up a Next.js storefront &lpar;2/2&rpar;](https://dev.to/medusajs/b2b-commerce-w-medusa-set-up-a-nextjs-storefront-22-2jbi)
+- [Dev.to/JS] [B2B Commerce w. Medusa: Set up a headless Node.js backend &lpar;1/2&rpar;](https://dev.to/medusajs/b2b-commerce-w-medusa-set-up-a-headless-nodejs-backend-12-2n7m)
+- [Dev.to/JS] [How is this dirty code](https://dev.to/harryrefact/how-is-this-dirty-code-47l7)
 - [Dev.to/JS] [5 USEFUL javascript array methods you might NOT know!](https://dev.to/codeystein/5-useful-javascript-array-methods-you-might-not-know-gje)
 - [Dev.to/JS] [Understanding Map, Filter &amp; Reduce functions.](https://dev.to/klc/understanding-map-filter-reduce-functions-22b)
 - [Dev.to/JS] [React Resume - uploader Website &lpar;Geekyshows&rpar;](https://dev.to/akshdesai1/react-resume-uploader-website-geekyshows-2d9j)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Blog App Using Blazor WASM and Strapi](https://dev.to/sanjana67222181/how-to-build-a-blog-app-using-blazor-wasm-and-strapi-3a3c)
 - [Dev.to/JS] [Custom hooks are user-defined functions.](https://dev.to/ajmalp5/custom-hooks-are-user-defined-functions-38de)
 - [Dev.to/JS] [3 Awesome frameworks I learned this year🥳](https://dev.to/atenad86/3-awesome-frameworks-i-learned-this-year-3od4)
-- [Dev.to/JS] [Event Bubbling 101 🤔](https://dev.to/vaibhavacharya/event-bubbling-101-c0)
-- [Dev.to/JS] [To create a new project with Vite and React](https://dev.to/ajmalp5/to-create-a-new-project-with-vite-and-react-42h1)
-- [Dev.to/JS] [How to get the user’s timezone in JavaScript with Edge Functions](https://dev.to/whitep4nth3r/how-to-get-the-users-timezone-in-javascript-with-edge-functions-2m4b)
-- [Dev.to/JS] [Responsive Navbar with CSS and JS](https://dev.to/shubhamtiwari909/responsive-navbar-with-css-and-js-5e8f)
-- [Dev.to/JS] [To create a login page for a React application.](https://dev.to/ajmalp5/to-create-a-login-page-for-a-react-application-2d6)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
