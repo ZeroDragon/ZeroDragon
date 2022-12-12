@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Client-side image compression with Firebase and Compressor.js](https://dev.to/devneagu/client-side-image-compression-with-firebase-and-compressorjs-2oac)
+- [Lifehacker] [That Terrifying Call From Your ‘Mom’ Might Be a Scam](https://lifehacker.com/that-terrifying-call-from-your-mom-might-be-a-scam-1849883646)
+- [Dev.to/JS] [Patterns And Best Practices In JavaScript: Dealing With Callback Functions](https://dev.to/paulknulst/patterns-and-best-practices-in-javascript-dealing-with-callback-functions-109o)
+- [Lifehacker] [Why You Should Slice the Potatoes for Your Next Mash](https://lifehacker.com/why-you-should-slice-the-potatoes-for-your-next-mash-1849883620)
 - [Lifehacker] [You Can Get a Free McDonald’s Crispy Chicken Sandwich Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-crispy-chicken-sandwich-r-1849883072)
 - [Dev.to/JS] [[Video] Deep Dive Into Vue.js](https://dev.to/keyholesoftwareteam/video-deep-dive-into-vuejs-26nl)
 - [Dev.to/JS] [How google keep does input form](https://dev.to/tanishqsingla/how-google-keep-does-input-form-2p3o)
@@ -41,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ordenar un arreglo de objetos por propiedad en JavaScript](https://dev.to/asjordi/ordenar-un-arreglo-de-objetos-por-propiedad-en-javascript-4h87)
 - [Lifehacker] [These Mini Baked Potatoes Are Party Potatoes](https://lifehacker.com/these-mini-baked-potatoes-are-party-potatoes-1849882015)
 - [Dev.to/JS] [LibreGrid : The Only React Component You&#39;ll Ever Need](https://dev.to/raddevus/libregrid-the-only-react-component-youll-ever-need-44o3)
-- [Dev.to/JS] [7 Insanely Useful React Libraries For Your Next Project - No BS](https://dev.to/nitinfab/7-insanely-useful-react-libraries-for-your-next-project-no-bs-56k7)
 - [Lifehacker] [The Most Common Reasons Your Ice Maker Is Malfunctioning](https://lifehacker.com/the-most-common-reasons-your-ice-maker-is-malfunctionin-1849881088)
-- [Dev.to/JS] [How to create a SSR Application in React](https://dev.to/devneagu/how-to-send-react-code-via-api-call-e96)
 - [Lifehacker] [Five Small Job-Search Tasks You Can Do While Watching TV](https://lifehacker.com/five-small-job-search-tasks-you-can-do-while-watching-t-1849871421)
 - [Lifehacker] [Scammers Are Lurking on Etsy](https://lifehacker.com/scammers-are-lurking-on-etsy-1849877094)
 - [Lifehacker] [Schedule These Maintenance Tasks to Keep Your Robot Vacuum Running](https://lifehacker.com/schedule-these-maintenance-tasks-to-keep-your-robot-vac-1849880400)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Put a Turkey Baster in Your Punch Bowl](https://lifehacker.com/put-a-turkey-baster-in-your-punch-bowl-1849876149)
 - [Lifehacker] [11 Easy WFH Lunches You Can Make Between Meetings](https://lifehacker.com/11-easy-wfh-lunches-you-can-make-between-meetings-1849871913)
 - [Lifehacker] [The Weirdest Things You Never Knew You Could Insure](https://lifehacker.com/the-weirdest-things-you-never-knew-you-could-insure-1849875325)
-- [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New Tech of 2022](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-tech-o-1849874899)
-- [Lifehacker] [You Might Be Using the Wrong Plunger](https://lifehacker.com/you-might-be-using-the-wrong-plunger-1849875131)
-- [Lifehacker] [&#39;Eco-Friendly&#39; Marketing Is Usually BS](https://lifehacker.com/eco-friendly-marketing-is-usually-bullshit-1849875042)<!-- TECH-POSTS:END -->
+- [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New Tech of 2022](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-tech-o-1849874899)<!-- TECH-POSTS:END -->
 
 ---
 
