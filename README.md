@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [47 Free Udemy Courses - December 11, 2022](https://dev.to/theprogramminbuddyclub/47-free-udemy-courses-december-11-2022-4m21)
 - [Dev.to/JS] [TS Part 2: Getting Started with TypeScript](https://dev.to/samlittellmds/ts-part-2-getting-started-with-typescript-16fm)
 - [Dev.to/JS] [代码随想录day27 | 39. Combination Sum, 40. Combination Sum II, 131. Palindrome Partitioning](https://dev.to/986913/dai-ma-sui-xiang-lu-day27-39-combination-sum-40-combination-sum-ii-131-palindrome-partitioning-119p)
 - [Dev.to/JS] [How to append to GitHub Env via JavaScript Action](https://dev.to/mbround18/how-to-append-to-github-env-via-javascript-action-9nj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Show Validation Error Messages for Reactive Forms in Angular](https://dev.to/stevenmclintock/show-validation-error-messages-for-reactive-forms-in-angular-4ehg)
 - [Dev.to/JS] [Javascript Data Types in Depth&lpar;2&rpar;](https://dev.to/waqasongithub/javascript-data-types-in-depth2-3i2l)
 - [Dev.to/JS] [Solving day 11 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-11-of-advent-of-code-2022-in-javascript-3blb)
-- [Dev.to/JS] [useImperativeHandle React Hook](https://dev.to/findniya/useimperativehandle-react-hook-3kd2)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
