@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [代码随想录day27 | 39. Combination Sum, 40. Combination Sum II, 131. Palindrome Partitioning](https://dev.to/986913/dai-ma-sui-xiang-lu-day27-39-combination-sum-40-combination-sum-ii-131-palindrome-partitioning-119p)
+- [Dev.to/JS] [How to append to GitHub Env via JavaScript Action](https://dev.to/mbround18/how-to-append-to-github-env-via-javascript-action-9nj)
 - [Dev.to/JS] [Turn a Micro:bit into a Dreidle](https://dev.to/bennypowers/turn-a-microbit-into-a-dreidle-482k)
 - [Dev.to/JS] [Release 0.4 Final](https://dev.to/rudychung/release-04-final-321)
 - [Dev.to/JS] [Load Laravel Env variables into client code with Vite](https://dev.to/arielmejiadev/load-laravel-env-variables-into-client-code-with-vite-9ld)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solving day 11 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-11-of-advent-of-code-2022-in-javascript-3blb)
 - [Dev.to/JS] [useImperativeHandle React Hook](https://dev.to/findniya/useimperativehandle-react-hook-3kd2)
 - [Dev.to/JS] [Equality of values in JavaScript](https://dev.to/jmalvarez/equality-of-values-in-javascript-hgd)
-- [Dev.to/JS] [Seeding the Query Cache](https://dev.to/tkdodo/seeding-the-query-cache-5g6g)
-- [Dev.to/JS] [My Devfest Experince as Speaker](https://dev.to/deepachaurasia1/my-devfest-experince-as-speaker-51am)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
