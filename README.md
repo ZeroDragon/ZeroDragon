@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing maintainable js code](https://dev.to/aneshodza/writing-maintainable-js-code-1gm6)
+- [Dev.to/JS] [The Power of AJAX ? Why to use?](https://dev.to/devvsakib/the-power-of-ajax-why-to-use-5hh1)
 - [Dev.to/JS] [&quot;Unleash the Power of Your Google Drive Images: How to Correctly Display Images on Your Website&quot;](https://dev.to/limalex71/unleash-the-power-of-your-google-drive-images-how-to-correctly-display-images-on-your-website-4amm)
 - [Dev.to/JS] [Vendure headless commerce - part 1](https://dev.to/dailydevtips1/vendure-headless-commerce-part-1-3pm4)
 - [Dev.to/JS] [Chat-gpt is killing jobs!](https://dev.to/atharvashankar/chat-gpt-is-killing-jobs-2i9o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The digital twin of the world&#39;s largest airport](https://dev.to/hightopo/the-digital-twin-of-the-worlds-largest-airport-25ll)
 - [Dev.to/JS] [47 Free Udemy Courses - December 11, 2022](https://dev.to/theprogramminbuddyclub/47-free-udemy-courses-december-11-2022-4m21)
 - [Dev.to/JS] [telescope-bot: A new user has joined the Telescope community](https://dev.to/tdaw/telescope-bot-a-new-user-has-joined-the-telescope-community-3k9h)
-- [Dev.to/JS] [TS Part 2: Getting Started with TypeScript](https://dev.to/samlittellmds/ts-part-2-getting-started-with-typescript-16fm)
-- [Dev.to/JS] [代码随想录day27 | 39. Combination Sum, 40. Combination Sum II, 131. Palindrome Partitioning](https://dev.to/986913/dai-ma-sui-xiang-lu-day27-39-combination-sum-40-combination-sum-ii-131-palindrome-partitioning-119p)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
