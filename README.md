@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-dec-2022-i4p)
+- [Lifehacker] [Scammers Are Lurking on Etsy](https://lifehacker.com/scammers-are-lurking-on-etsy-1849877094)
+- [Dev.to/JS] [How to Make a Restaurant Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-restaurant-website-using-html-css-javascript-2mpn)
+- [Lifehacker] [Schedule These Maintenance Tasks to Keep Your Robot Vacuum Running](https://lifehacker.com/schedule-these-maintenance-tasks-to-keep-your-robot-vac-1849880400)
 - [Dev.to/JS] [Writing maintainable js code](https://dev.to/ajmalp5/writing-maintainable-js-code-2b01)
 - [Dev.to/JS] [How To Cut and Paste &lpar;Move&rpar; Files In macOS Finder](https://dev.to/dev_neil_a/how-to-cut-and-paste-move-files-in-macos-finder-2jhj)
 - [Dev.to/JS] [B2B Commerce w. Medusa: Set up a Next.js storefront &lpar;2/2&rpar;](https://dev.to/medusajs/b2b-commerce-w-medusa-set-up-a-nextjs-storefront-22-2jbi)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Resume - uploader Website &lpar;Geekyshows&rpar;](https://dev.to/akshdesai1/react-resume-uploader-website-geekyshows-2d9j)
 - [Dev.to/JS] [10+ Top User Management Templates](https://dev.to/flatlogic/10-top-user-management-templates-12p4)
 - [Dev.to/JS] [How to Build a Blog App Using Blazor WASM and Strapi](https://dev.to/sanjana67222181/how-to-build-a-blog-app-using-blazor-wasm-and-strapi-3a3c)
-- [Dev.to/JS] [Custom hooks are user-defined functions.](https://dev.to/ajmalp5/custom-hooks-are-user-defined-functions-38de)
-- [Dev.to/JS] [3 Awesome frameworks I learned this year🥳](https://dev.to/atenad86/3-awesome-frameworks-i-learned-this-year-3od4)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s Actually a Difference Between &#39;Snowfall&#39; and &#39;Snow Depth&#39;](https://lifehacker.com/theres-actually-a-difference-between-snowfall-and-snow-1849873485)
 - [Lifehacker] [Be a Finance Squirrel](https://lifehacker.com/be-a-finance-squirrel-1849871811)
 - [Lifehacker] [Turn &lpar;Almost&rpar; Any Store-Bought Cookie Into a Truffle](https://lifehacker.com/turn-almost-any-store-bought-cookie-into-a-truffle-1849871666)
-- [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)
-- [Lifehacker] [The 10 Best Chrome Extensions for Holiday Shopping](https://lifehacker.com/the-10-best-chrome-extensions-for-holiday-shopping-1849869457)
-- [Lifehacker] [TikTok&#39;s Stupid Heating &#39;Hack&#39; Is Dangerous, People](https://lifehacker.com/tiktoks-stupid-heating-hack-is-dangerous-people-1849870601)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Savory Choux Puffs Are Where the Party&#39;s At](https://lifehacker.com/savory-choux-puffs-are-where-the-partys-at-1849871346)<!-- TECH-POSTS:END -->
 
 ---
 
