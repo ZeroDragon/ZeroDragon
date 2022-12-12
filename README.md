@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Light DOM and Lightning Web Components in Salesforce](https://dev.to/salesforcedevs/light-dom-and-lightning-web-components-in-salesforce-4d66)
+- [Dev.to/JS] [How VuePress can save your time?](https://dev.to/pulkitsingh/how-vuepress-can-save-your-time-1i6f)
+- [Lifehacker] [Stop Your MacBook Charger From Falling Off the Wall](https://lifehacker.com/stop-your-macbook-charger-from-falling-off-the-wall-1849882528)
 - [Lifehacker] [The 20 Best TV Shows of 2022](https://lifehacker.com/the-20-best-tv-shows-of-2022-1849880017)
 - [Lifehacker] [You Can Still Buy These Apple Devices as Holiday Gifts](https://lifehacker.com/you-can-still-buy-these-apple-devices-as-holiday-gifts-1849878232)
 - [Dev.to/JS] [My first openSource React mini game!](https://dev.to/emanuelecaurio/my-first-opensource-react-mini-game-dg3)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Scammers Are Lurking on Etsy](https://lifehacker.com/scammers-are-lurking-on-etsy-1849877094)
 - [Dev.to/JS] [How to Make a Restaurant Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-restaurant-website-using-html-css-javascript-2mpn)
 - [Lifehacker] [Schedule These Maintenance Tasks to Keep Your Robot Vacuum Running](https://lifehacker.com/schedule-these-maintenance-tasks-to-keep-your-robot-vac-1849880400)
-- [Dev.to/JS] [Writing maintainable js code](https://dev.to/ajmalp5/writing-maintainable-js-code-2b01)
-- [Dev.to/JS] [How To Cut and Paste &lpar;Move&rpar; Files In macOS Finder](https://dev.to/dev_neil_a/how-to-cut-and-paste-move-files-in-macos-finder-2jhj)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [C++ Iterate Over Vector – 4 Ways](https://www.thecrazyprogrammer.com/2022/12/c-iterate-over-vector.html)
 - [Lifehacker] [The &#39;Nice&#39; Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
 - [Lifehacker] [You Can Finally Encrypt These iCloud Backups](https://lifehacker.com/you-can-finally-encrypt-these-icloud-backups-1849873576)
-- [Lifehacker] [Your Fireplace Doesn&#39;t Have to Dry Out the Air](https://lifehacker.com/your-fireplace-doesnt-have-to-dry-out-the-air-1849871595)
-- [Lifehacker] [Don’t Fall for This ‘Virtual Kidnapping’ Scam](https://lifehacker.com/don-t-fall-for-this-virtual-kidnapping-scam-1849871660)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Fireplace Doesn&#39;t Have to Dry Out the Air](https://lifehacker.com/your-fireplace-doesnt-have-to-dry-out-the-air-1849871595)<!-- TECH-POSTS:END -->
 
 ---
 
