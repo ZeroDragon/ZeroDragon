@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Proof-of-Work in JavaScript](https://dev.to/samdeny/simple-proof-of-work-in-javascript-3kgm)
+- [Dev.to/JS] [Computer network blog](https://dev.to/sanjana67222181/computer-network-blog-b3e)
+- [Dev.to/JS] [A practical method for managing environment variables in microservices running on AWS ECS](https://dev.to/asifroyal/a-practical-method-for-managing-environment-variables-in-microservices-running-on-aws-ecs-4ad)
+- [Dev.to/JS] [The most popular Backend framework with Node.js](https://dev.to/hshoja/the-most-popular-backend-framework-with-nodejs-1o8l)
+- [Dev.to/JS] [Shake the tree and make your app smaller](https://dev.to/brightdevs/shake-the-tree-and-make-your-app-smaller-5ckb)
 - [Dev.to/JS] [Solving day 13 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-13-of-advent-of-code-2022-in-javascript-lie)
 - [Dev.to/JS] [Caching images from Amazon S3 in React Native](https://dev.to/romansytnyk/caching-images-from-amazon-s3-in-react-native-11ki)
 - [Dev.to/JS] [Deploy a monorepo React app on Firebase on multiple environments](https://dev.to/thb/deploy-a-monorepo-react-app-on-firebase-on-multiple-environments-5b27)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamically Add/Remove items from list using Javascript](https://dev.to/ahmadad62/dynamically-addremove-items-from-list-using-javascript-2j7l)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Dev.to/JS] [Develop desktop application by html/javascript !](https://dev.to/casualwriter/powerchrome-for-desktop-application-by-htmljavascript--3af6)
-- [Dev.to/JS] [How to Use Dynamic Web TWAIN UI-less API to Build a Web Document Scanning Application](https://dev.to/yushulx/how-to-use-dynamic-web-twain-ui-less-api-to-build-a-web-document-scanning-application-4m4i)
-- [Dev.to/JS] [Container With Most Water](https://dev.to/zeeshanali0704/container-with-most-water-4ahn)
-- [Dev.to/JS] [Vendure - Quick setup](https://dev.to/dailydevtips1/vendure-quick-setup-51d8)
-- [Dev.to/JS] [5 Unsung HTML Tags You Really Should Know🤔](https://dev.to/freebeliever/5-unsung-html-tags-you-really-should-know-4l33)
-- [Dev.to/JS] [LeanBiome - Weight Loss Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/leanbiomebuys/leanbiome-weight-loss-reviews-pros-cons-scam-or-legit-1ih9)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
 - [Lifehacker] [Don’t Let a Future Breakup Ruin This Year’s Holiday Photos](https://lifehacker.com/don-t-let-a-future-breakup-ruin-this-year-s-holiday-pho-1849883978)
