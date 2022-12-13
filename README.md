@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Dev.to/JS] [Array.sort&lpar;&rpar; in JavaScript - I was asked about this in an interview](https://dev.to/mhm13dev/arraysort-in-javascript-i-was-asked-about-this-in-an-interview-387)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Slice the Potatoes for Your Next Mash](https://lifehacker.com/why-you-should-slice-the-potatoes-for-your-next-mash-1849883620)
 - [Lifehacker] [You Can Get a Free McDonald’s Crispy Chicken Sandwich Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-crispy-chicken-sandwich-r-1849883072)
 - [Lifehacker] [Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
-- [Lifehacker] [Stop Using These ‘Hacks’ That Will Dry Out Your Christmas Tree](https://lifehacker.com/stop-using-these-hacks-that-will-kill-your-christmas-1849883207)
-- [Lifehacker] [Eight of the Best Reusable Alternatives to Traditional Wrapping Paper](https://lifehacker.com/eight-of-the-best-reusable-alternatives-to-traditional-1849881129)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Using These ‘Hacks’ That Will Dry Out Your Christmas Tree](https://lifehacker.com/stop-using-these-hacks-that-will-kill-your-christmas-1849883207)<!-- TECH-POSTS:END -->
 
 ---
 
