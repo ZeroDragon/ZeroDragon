@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nest VS Express Hangi Framework&#39;ü Seçmeliyim?](https://dev.to/femresirvan/nest-vs-express-hangi-frameworku-secmeliyim-2871)
+- [Lifehacker] [Ten Incredibly Useful Menu Bar Apps You Should Install on Your Mac](https://lifehacker.com/ten-incredibly-useful-menu-bar-apps-you-should-install-1849887075)
+- [Dev.to/JS] [Why Do You Need a JavaScript Framework anyways?? How React, Vue, Can Save You Time and Effort](https://dev.to/shreyaan/why-do-you-need-a-javascript-framework-anyways-how-react-vue-can-save-you-time-and-effort-1h32)
+- [Dev.to/JS] [Using Supabase with Autocode](https://dev.to/immattdavison/using-supabase-with-autocode-p5b)
+- [Lifehacker] [The Easiest Ways to Soundproof a Room](https://lifehacker.com/the-easiest-ways-to-soundproof-a-room-1849886154)
+- [Dev.to/JS] [React Resume - uploader Website &lpar;Geekyshows&rpar;](https://dev.to/akshdesai1/react-resume-uploader-website-geekyshows-4j6o)
 - [Lifehacker] [The Best Way to Split an Egg When You’re Cutting a Recipe in Half](https://lifehacker.com/the-best-way-to-split-an-egg-when-you-re-cutting-a-reci-1849887360)
 - [Dev.to/JS] [React Components](https://dev.to/calvinjimenez/react-components-413k)
 - [Lifehacker] [You Need a Home Maintenance Binder &lpar;and What to Put in It&rpar;](https://lifehacker.com/you-need-a-home-maintenance-binder-and-what-to-put-in-1849886014)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Subaru SUVs Need to Be Parked Outside Before They Catch Fire](https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954)
 - [Dev.to/JS] [5 best open source platforms for B2B ecommerce](https://dev.to/medusajs/5-best-open-source-platforms-for-b2b-ecommerce-1kg4)
 - [Dev.to/JS] [Design a RESTful API](https://dev.to/bellatrix/design-a-restful-api-jam)
-- [Dev.to/JS] [Why Learning Vanilla 🍦JavaScript Is So Important](https://dev.to/jadm1992/why-learning-vanilla-javascript-is-so-important-4pme)
-- [Dev.to/JS] [Coding Bits: Applying programming knowledge X Algorithms and data structures for web dev](https://dev.to/sleeplessyogi/coding-bits-applying-programming-knowledge-x-algorithms-and-data-structures-for-web-dev-53i4)
-- [Dev.to/JS] [React: Using children instead of dedicated render slots](https://dev.to/codecoolture/react-using-children-instead-of-dedicated-render-slots-g7p)
-- [Dev.to/JS] [Career in IT: How to gain experience?](https://dev.to/albericojr/career-in-it-how-to-gain-experience-2dpn)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common Reasons Your Ice Maker Is Malfunctioning](https://lifehacker.com/the-most-common-reasons-your-ice-maker-is-malfunctionin-1849881088)
 - [Lifehacker] [Five Small Job-Search Tasks You Can Do While Watching TV](https://lifehacker.com/five-small-job-search-tasks-you-can-do-while-watching-t-1849871421)
 - [Lifehacker] [Scammers Are Lurking on Etsy](https://lifehacker.com/scammers-are-lurking-on-etsy-1849877094)
-- [Lifehacker] [Schedule These Maintenance Tasks to Keep Your Robot Vacuum Running](https://lifehacker.com/schedule-these-maintenance-tasks-to-keep-your-robot-vac-1849880400)
-- [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
-- [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Schedule These Maintenance Tasks to Keep Your Robot Vacuum Running](https://lifehacker.com/schedule-these-maintenance-tasks-to-keep-your-robot-vac-1849880400)<!-- TECH-POSTS:END -->
 
 ---
 
