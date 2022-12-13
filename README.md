@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use Dynamic Web TWAIN UI-less API to Build a Web Document Scanning Application](https://dev.to/yushulx/how-to-use-dynamic-web-twain-ui-less-api-to-build-a-web-document-scanning-application-4m4i)
+- [Dev.to/JS] [Container With Most Water](https://dev.to/zeeshanali0704/container-with-most-water-4ahn)
+- [Dev.to/JS] [Vendure - Quick setup](https://dev.to/dailydevtips1/vendure-quick-setup-51d8)
+- [Dev.to/JS] [5 Unsung HTML Tags You Really Should Know🤔](https://dev.to/freebeliever/5-unsung-html-tags-you-really-should-know-4l33)
 - [Dev.to/JS] [LeanBiome - Weight Loss Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/leanbiomebuys/leanbiome-weight-loss-reviews-pros-cons-scam-or-legit-1ih9)
 - [Dev.to/JS] [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
 - [Dev.to/JS] [Note abont JavaScript DOM objects](https://dev.to/moogoo78/note-abont-javascript-dom-objects-118o)
@@ -31,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make Accordion in React](https://dev.to/reactjsguru/how-to-make-accordion-in-react-1nb0)
 - [Dev.to/JS] [Add Google Analytics to React/Next in 5 minutes](https://dev.to/leduc1901/add-google-analytics-to-reactnext-in-5-minutes-fbb)
 - [Dev.to/JS] [How to work remotely without overseas experience](https://dev.to/jay325k/how-to-work-remotely-without-overseas-experience-18ln)
-- [Dev.to/JS] [Hill Climbing Algorithm](https://dev.to/rmion/hill-climbing-algorithm-278a)
-- [Dev.to/JS] [Propriedade as em componentes React com Typescript](https://dev.to/guiselair/propriedade-as-em-componentes-react-com-typescript-3p8a)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
-- [Dev.to/JS] [Custom Event Names and the Bubbling Problem](https://dev.to/claviska/custom-event-names-and-the-bubbling-problem-d3)
-- [Dev.to/JS] [Atomic commits](https://dev.to/rafinhadev/atomic-commits-2dcj)
 - [Lifehacker] [Don’t Let a Future Breakup Ruin This Year’s Holiday Photos](https://lifehacker.com/don-t-let-a-future-breakup-ruin-this-year-s-holiday-pho-1849883978)
 - [Lifehacker] [12 of the Best Gifts for Someone Who Needs Help Relaxing](https://lifehacker.com/12-of-the-best-gifts-for-someone-who-needs-help-relaxin-1849883700)
 - [Lifehacker] [How to Feel More at Home When Traveling for the Holidays](https://lifehacker.com/how-to-feel-more-at-home-when-traveling-for-the-holiday-1849882815)
