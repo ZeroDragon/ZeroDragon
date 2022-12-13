@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Note abont JavaScript DOM objects](https://dev.to/moogoo78/note-abont-javascript-dom-objects-118o)
+- [Dev.to/JS] [JavaScript: Live vs. Static NodeLists](https://dev.to/moogoo78/javascript-live-vs-static-nodelists-367f)
+- [Dev.to/JS] [Using Speech Synthesis Utterance to enhance user experience](https://dev.to/covelitein/using-speech-synthesis-utterance-to-enhance-user-experience-1e7o)
+- [Dev.to/JS] [How to Make Accordion in React](https://dev.to/reactjsguru/how-to-make-accordion-in-react-1nb0)
 - [Dev.to/JS] [Add Google Analytics to React/Next in 5 minutes](https://dev.to/leduc1901/add-google-analytics-to-reactnext-in-5-minutes-fbb)
 - [Dev.to/JS] [How to work remotely without overseas experience](https://dev.to/jay325k/how-to-work-remotely-without-overseas-experience-18ln)
 - [Dev.to/JS] [Hill Climbing Algorithm](https://dev.to/rmion/hill-climbing-algorithm-278a)
@@ -36,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best Gifts for Someone Who Needs Help Relaxing](https://lifehacker.com/12-of-the-best-gifts-for-someone-who-needs-help-relaxin-1849883700)
 - [Lifehacker] [How to Feel More at Home When Traveling for the Holidays](https://lifehacker.com/how-to-feel-more-at-home-when-traveling-for-the-holiday-1849882815)
 - [Dev.to/JS] [TypeScript Hate](https://dev.to/meleeman01/typescript-hate-ep1)
-- [Dev.to/JS] [Client-side image compression with Firebase and Compressor.js](https://dev.to/devneagu/client-side-image-compression-with-firebase-and-compressorjs-2oac)
 - [Lifehacker] [That Terrifying Call From Your ‘Mom’ Might Be a Scam](https://lifehacker.com/that-terrifying-call-from-your-mom-might-be-a-scam-1849883646)
-- [Dev.to/JS] [Patterns And Best Practices In JavaScript: Dealing With Callback Functions](https://dev.to/paulknulst/patterns-and-best-practices-in-javascript-dealing-with-callback-functions-109o)
 - [Lifehacker] [Why You Should Slice the Potatoes for Your Next Mash](https://lifehacker.com/why-you-should-slice-the-potatoes-for-your-next-mash-1849883620)
 - [Lifehacker] [You Can Get a Free McDonald’s Crispy Chicken Sandwich Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-crispy-chicken-sandwich-r-1849883072)
-- [Dev.to/JS] [[Video] Deep Dive Into Vue.js](https://dev.to/keyholesoftwareteam/video-deep-dive-into-vuejs-26nl)
-- [Dev.to/JS] [How google keep does input form](https://dev.to/tanishqsingla/how-google-keep-does-input-form-2p3o)
 - [Lifehacker] [Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
 - [Lifehacker] [Stop Using These ‘Hacks’ That Will Dry Out Your Christmas Tree](https://lifehacker.com/stop-using-these-hacks-that-will-kill-your-christmas-1849883207)
 - [Lifehacker] [Eight of the Best Reusable Alternatives to Traditional Wrapping Paper](https://lifehacker.com/eight-of-the-best-reusable-alternatives-to-traditional-1849881129)
