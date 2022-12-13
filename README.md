@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
+- [Dev.to/JS] [Stylify CSS: Automagic CSS bundles splitting into CSS layers in Astro.build](https://dev.to/machy8/stylify-css-automagic-css-bundles-splitting-into-css-layers-in-astrobuild-3po9)
+- [Dev.to/JS] [What is the difference between TypeScript and JavaScript?](https://dev.to/dadyasasha/what-is-the-difference-between-typescript-and-javascript-2dn3)
 - [Lifehacker] [Throw Away These Recalled COVID Test Kits](https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056)
 - [Lifehacker] [LASIK Has More Risks Than You Probably Realize](https://lifehacker.com/lasik-has-more-risks-than-you-probably-realize-1849888998)
 - [Dev.to/JS] [Flatten a nested object in JS](https://dev.to/binarysingh/flatten-a-nested-object-in-js-556g)
@@ -44,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Weirdest Video Game Peripherals Ever Made](https://lifehacker.com/12-of-the-weirdest-video-game-peripherals-ever-made-1849886219)
 - [Dev.to/JS] [Default Parameters in JavaScript](https://dev.to/moazamdev/default-parameters-in-javascript-3f36)
 - [Lifehacker] [You Can Get ‘Saints Row IV Re-Elected’ for Free Right Now](https://lifehacker.com/you-can-get-saints-row-iv-re-elected-for-free-right-n-1849884926)
-- [Dev.to/JS] [Recursion in JavaScript and React Components](https://dev.to/dephraiim/recursion-in-javascript-and-react-components-352e)
-- [Dev.to/JS] [Here&#39;s My 2023 Plan to Become a Web Dev](https://dev.to/colbyjax/heres-my-2023-plan-to-become-a-web-dev-4323)
 - [Lifehacker] [How to Know It&#39;s Time to Say Goodbye to a Kitchen Appliance](https://lifehacker.com/how-to-know-its-time-to-say-goodbye-to-a-kitchen-applia-1849883895)
 - [Lifehacker] [These Subaru SUVs Need to Be Parked Outside Before They Catch Fire](https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using These ‘Hacks’ That Will Dry Out Your Christmas Tree](https://lifehacker.com/stop-using-these-hacks-that-will-kill-your-christmas-1849883207)
 - [Lifehacker] [Eight of the Best Reusable Alternatives to Traditional Wrapping Paper](https://lifehacker.com/eight-of-the-best-reusable-alternatives-to-traditional-1849881129)
 - [Lifehacker] [Stop Your MacBook Charger From Falling Off the Wall](https://lifehacker.com/stop-your-macbook-charger-from-falling-off-the-wall-1849882528)
-- [Lifehacker] [The 20 Best TV Shows of 2022](https://lifehacker.com/the-20-best-tv-shows-of-2022-1849880017)
-- [Lifehacker] [You Can Still Buy These Apple Devices as Holiday Gifts](https://lifehacker.com/you-can-still-buy-these-apple-devices-as-holiday-gifts-1849878232)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 20 Best TV Shows of 2022](https://lifehacker.com/the-20-best-tv-shows-of-2022-1849880017)<!-- TECH-POSTS:END -->
 
 ---
 
