@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get ‘Saints Row IV Re-Elected’ for Free Right Now](https://lifehacker.com/you-can-get-saints-row-iv-re-elected-for-free-right-n-1849884926)
+- [Dev.to/JS] [Recursion in JavaScript and React Components](https://dev.to/dephraiim/recursion-in-javascript-and-react-components-352e)
+- [Dev.to/JS] [Here&#39;s My 2023 Plan to Become a Web Dev](https://dev.to/colbyjax/heres-my-2023-plan-to-become-a-web-dev-4323)
+- [Lifehacker] [How to Know It&#39;s Time to Say Goodbye to a Kitchen Appliance](https://lifehacker.com/how-to-know-its-time-to-say-goodbye-to-a-kitchen-applia-1849883895)
+- [Dev.to/JS] [How to use Axios interceptors to handle 401 API errors and refresh tokens in typescript.](https://dev.to/kuntadev/how-to-use-axios-interceptors-to-handle-401-api-errors-and-refresh-tokens-in-typescript-2cjo)
+- [Dev.to/JS] [Ditching .NET and finding faith again after 10 years!](https://dev.to/fx/ditching-net-and-finding-faith-again-after-10-years-4d7b)
 - [Lifehacker] [These Subaru SUVs Need to Be Parked Outside Before They Catch Fire](https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954)
 - [Dev.to/JS] [5 best open source platforms for B2B ecommerce](https://dev.to/medusajs/5-best-open-source-platforms-for-b2b-ecommerce-1kg4)
 - [Dev.to/JS] [Design a RESTful API](https://dev.to/bellatrix/design-a-restful-api-jam)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Career in IT: How to gain experience?](https://dev.to/albericojr/career-in-it-how-to-gain-experience-2dpn)
 - [Dev.to/JS] [JavaScript code puzzle - can you call this function?](https://dev.to/jankapunkt/javascript-code-puzzle-can-you-call-this-function-4o2f)
 - [Dev.to/JS] [React Drag and Drop File Upload example](https://dev.to/tienbku/react-drag-and-drop-file-upload-example-bac)
-- [Dev.to/JS] [Top 10 trending github repos for Java developers in this week🍉.](https://dev.to/ksengine/top-10-trending-github-repos-for-java-developers-in-this-week-235e)
-- [Dev.to/JS] [CSS Grid vs. Flexbox: Which Should You Use?](https://dev.to/pawan67/css-grid-vs-flexbox-which-should-you-use-11m6)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Responsive Design](https://dev.to/pawan67/a-beginners-guide-to-responsive-design-191k)
-- [Dev.to/JS] [🎄 New year open-source giveaway: $100 Amazon Gift Card + Full Swag Kit](https://dev.to/necatiozmen/new-year-open-source-giveaway-100-amazon-gift-card-full-swag-kit-2f3e)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
-- [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
-- [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
-- [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)<!-- TECH-POSTS:END -->
 
 ---
 
