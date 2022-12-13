@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add Google Analytics to React/Next in 5 minutes](https://dev.to/leduc1901/add-google-analytics-to-reactnext-in-5-minutes-fbb)
 - [Dev.to/JS] [How to work remotely without overseas experience](https://dev.to/jay325k/how-to-work-remotely-without-overseas-experience-18ln)
 - [Dev.to/JS] [Hill Climbing Algorithm](https://dev.to/rmion/hill-climbing-algorithm-278a)
 - [Dev.to/JS] [Propriedade as em componentes React com Typescript](https://dev.to/guiselair/propriedade-as-em-componentes-react-com-typescript-3p8a)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Video] Deep Dive Into Vue.js](https://dev.to/keyholesoftwareteam/video-deep-dive-into-vuejs-26nl)
 - [Dev.to/JS] [How google keep does input form](https://dev.to/tanishqsingla/how-google-keep-does-input-form-2p3o)
 - [Lifehacker] [Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
-- [Dev.to/JS] [Imposter Syndrome 2.0](https://dev.to/charlesshrout/imposter-syndrome-20-4k15)
 - [Lifehacker] [Stop Using These ‘Hacks’ That Will Dry Out Your Christmas Tree](https://lifehacker.com/stop-using-these-hacks-that-will-kill-your-christmas-1849883207)
 - [Lifehacker] [Eight of the Best Reusable Alternatives to Traditional Wrapping Paper](https://lifehacker.com/eight-of-the-best-reusable-alternatives-to-traditional-1849881129)
 - [Lifehacker] [Stop Your MacBook Charger From Falling Off the Wall](https://lifehacker.com/stop-your-macbook-charger-from-falling-off-the-wall-1849882528)
