@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving day 13 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-13-of-advent-of-code-2022-in-javascript-lie)
+- [Dev.to/JS] [Caching images from Amazon S3 in React Native](https://dev.to/romansytnyk/caching-images-from-amazon-s3-in-react-native-11ki)
+- [Dev.to/JS] [Deploy a monorepo React app on Firebase on multiple environments](https://dev.to/thb/deploy-a-monorepo-react-app-on-firebase-on-multiple-environments-5b27)
+- [Dev.to/JS] [Is Edge Compute Really Faster? Benchmarking Edge Platforms &lpar;With Databases&rpar;](https://dev.to/marcelthomas/is-edge-compute-really-faster-benchmarking-edge-platforms-with-databases-49cl)
+- [Dev.to/JS] [Procedure to Access QuickBooks Desktop Remotely](https://dev.to/qbsenterprisesupport/procedure-to-access-quickbooks-desktop-remotely-2l5g)
 - [Dev.to/JS] [Dynamically Add/Remove items from list using Javascript](https://dev.to/ahmadad62/dynamically-addremove-items-from-list-using-javascript-2j7l)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Dev.to/JS] [Develop desktop application by html/javascript !](https://dev.to/casualwriter/powerchrome-for-desktop-application-by-htmljavascript--3af6)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vendure - Quick setup](https://dev.to/dailydevtips1/vendure-quick-setup-51d8)
 - [Dev.to/JS] [5 Unsung HTML Tags You Really Should Know🤔](https://dev.to/freebeliever/5-unsung-html-tags-you-really-should-know-4l33)
 - [Dev.to/JS] [LeanBiome - Weight Loss Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/leanbiomebuys/leanbiome-weight-loss-reviews-pros-cons-scam-or-legit-1ih9)
-- [Dev.to/JS] [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
-- [Dev.to/JS] [Note abont JavaScript DOM objects](https://dev.to/moogoo78/note-abont-javascript-dom-objects-118o)
-- [Dev.to/JS] [JavaScript: Live vs. Static NodeLists](https://dev.to/moogoo78/javascript-live-vs-static-nodelists-367f)
-- [Dev.to/JS] [Using Speech Synthesis Utterance to enhance user experience](https://dev.to/covelitein/using-speech-synthesis-utterance-to-enhance-user-experience-1e7o)
-- [Dev.to/JS] [How to Make Accordion in React](https://dev.to/reactjsguru/how-to-make-accordion-in-react-1nb0)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
 - [Lifehacker] [Don’t Let a Future Breakup Ruin This Year’s Holiday Photos](https://lifehacker.com/don-t-let-a-future-breakup-ruin-this-year-s-holiday-pho-1849883978)
