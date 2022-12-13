@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Nest VS Express Hangi Framework&#39;ü Seçmeliyim?](https://dev.to/femresirvan/nest-vs-express-hangi-frameworku-secmeliyim-2871)
+- [Lifehacker] [Take This Test to Know Which Smartphone Camera You Really Like the Most](https://lifehacker.com/take-this-test-to-know-which-smartphone-camera-you-real-1849887577)
+- [Dev.to/JS] [On to JavaScript](https://dev.to/hethinksthrice/on-to-javascript-40l0)
+- [Dev.to/JS] [JavaScriptmas 2022 - Issue 2](https://dev.to/michaellarocca/javascriptmas-2022-issue-2-4jg5)
+- [Lifehacker] [The Safest Way to &#39;Delete&#39; Your Twitter Account](https://lifehacker.com/the-safest-way-to-delete-your-twitter-account-1849888259)
+- [Dev.to/JS] [Nest 🆚 Express Hangi Framework&#39;ü Seçmeliyim?](https://dev.to/femresirvan/nest-vs-express-hangi-frameworku-secmeliyim-2871)
 - [Lifehacker] [Ten Incredibly Useful Menu Bar Apps You Should Install on Your Mac](https://lifehacker.com/ten-incredibly-useful-menu-bar-apps-you-should-install-1849887075)
 - [Dev.to/JS] [Why Do You Need a JavaScript Framework anyways?? How React, Vue, Can Save You Time and Effort](https://dev.to/shreyaan/why-do-you-need-a-javascript-framework-anyways-how-react-vue-can-save-you-time-and-effort-1h32)
 - [Dev.to/JS] [Using Supabase with Autocode](https://dev.to/immattdavison/using-supabase-with-autocode-p5b)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Axios interceptors to handle 401 API errors and refresh tokens in typescript.](https://dev.to/kuntadev/how-to-use-axios-interceptors-to-handle-401-api-errors-and-refresh-tokens-in-typescript-2cjo)
 - [Dev.to/JS] [Ditching .NET and finding faith again after 10 years!](https://dev.to/fx/ditching-net-and-finding-faith-again-after-10-years-4d7b)
 - [Lifehacker] [These Subaru SUVs Need to Be Parked Outside Before They Catch Fire](https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954)
-- [Dev.to/JS] [5 best open source platforms for B2B ecommerce](https://dev.to/medusajs/5-best-open-source-platforms-for-b2b-ecommerce-1kg4)
-- [Dev.to/JS] [Design a RESTful API](https://dev.to/bellatrix/design-a-restful-api-jam)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Still Buy These Apple Devices as Holiday Gifts](https://lifehacker.com/you-can-still-buy-these-apple-devices-as-holiday-gifts-1849878232)
 - [Lifehacker] [These Mini Baked Potatoes Are Party Potatoes](https://lifehacker.com/these-mini-baked-potatoes-are-party-potatoes-1849882015)
 - [Lifehacker] [The Most Common Reasons Your Ice Maker Is Malfunctioning](https://lifehacker.com/the-most-common-reasons-your-ice-maker-is-malfunctionin-1849881088)
-- [Lifehacker] [Five Small Job-Search Tasks You Can Do While Watching TV](https://lifehacker.com/five-small-job-search-tasks-you-can-do-while-watching-t-1849871421)
-- [Lifehacker] [Scammers Are Lurking on Etsy](https://lifehacker.com/scammers-are-lurking-on-etsy-1849877094)
-- [Lifehacker] [Schedule These Maintenance Tasks to Keep Your Robot Vacuum Running](https://lifehacker.com/schedule-these-maintenance-tasks-to-keep-your-robot-vac-1849880400)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Small Job-Search Tasks You Can Do While Watching TV](https://lifehacker.com/five-small-job-search-tasks-you-can-do-while-watching-t-1849871421)<!-- TECH-POSTS:END -->
 
 ---
 
