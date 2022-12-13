@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Throw Away These Recalled COVID Test Kits](https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056)
+- [Lifehacker] [LASIK Has More Risks Than You Probably Realize](https://lifehacker.com/lasik-has-more-risks-than-you-probably-realize-1849888998)
+- [Dev.to/JS] [Flatten a nested object in JS](https://dev.to/binarysingh/flatten-a-nested-object-in-js-556g)
+- [Dev.to/JS] [Integrating HTML and JavaScript](https://dev.to/kellilil/integrating-html-and-javascript-43pc)
+- [Lifehacker] [HBO Max Has a Hidden ‘Yule Log’ Horror Movie](https://lifehacker.com/hbo-max-has-a-hidden-yule-log-horror-movie-1849888811)
 - [Lifehacker] [Take This Test to Know Which Smartphone Camera You Really Like the Most](https://lifehacker.com/take-this-test-to-know-which-smartphone-camera-you-real-1849887577)
 - [Dev.to/JS] [On to JavaScript](https://dev.to/hethinksthrice/on-to-javascript-40l0)
 - [Dev.to/JS] [JavaScriptmas 2022 - Issue 2](https://dev.to/michaellarocca/javascriptmas-2022-issue-2-4jg5)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recursion in JavaScript and React Components](https://dev.to/dephraiim/recursion-in-javascript-and-react-components-352e)
 - [Dev.to/JS] [Here&#39;s My 2023 Plan to Become a Web Dev](https://dev.to/colbyjax/heres-my-2023-plan-to-become-a-web-dev-4323)
 - [Lifehacker] [How to Know It&#39;s Time to Say Goodbye to a Kitchen Appliance](https://lifehacker.com/how-to-know-its-time-to-say-goodbye-to-a-kitchen-applia-1849883895)
-- [Dev.to/JS] [How to use Axios interceptors to handle 401 API errors and refresh tokens in typescript.](https://dev.to/kuntadev/how-to-use-axios-interceptors-to-handle-401-api-errors-and-refresh-tokens-in-typescript-2cjo)
-- [Dev.to/JS] [Ditching .NET and finding faith again after 10 years!](https://dev.to/fx/ditching-net-and-finding-faith-again-after-10-years-4d7b)
 - [Lifehacker] [These Subaru SUVs Need to Be Parked Outside Before They Catch Fire](https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight of the Best Reusable Alternatives to Traditional Wrapping Paper](https://lifehacker.com/eight-of-the-best-reusable-alternatives-to-traditional-1849881129)
 - [Lifehacker] [Stop Your MacBook Charger From Falling Off the Wall](https://lifehacker.com/stop-your-macbook-charger-from-falling-off-the-wall-1849882528)
 - [Lifehacker] [The 20 Best TV Shows of 2022](https://lifehacker.com/the-20-best-tv-shows-of-2022-1849880017)
-- [Lifehacker] [You Can Still Buy These Apple Devices as Holiday Gifts](https://lifehacker.com/you-can-still-buy-these-apple-devices-as-holiday-gifts-1849878232)
-- [Lifehacker] [These Mini Baked Potatoes Are Party Potatoes](https://lifehacker.com/these-mini-baked-potatoes-are-party-potatoes-1849882015)
-- [Lifehacker] [The Most Common Reasons Your Ice Maker Is Malfunctioning](https://lifehacker.com/the-most-common-reasons-your-ice-maker-is-malfunctionin-1849881088)
-- [Lifehacker] [Five Small Job-Search Tasks You Can Do While Watching TV](https://lifehacker.com/five-small-job-search-tasks-you-can-do-while-watching-t-1849871421)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Still Buy These Apple Devices as Holiday Gifts](https://lifehacker.com/you-can-still-buy-these-apple-devices-as-holiday-gifts-1849878232)<!-- TECH-POSTS:END -->
 
 ---
 
