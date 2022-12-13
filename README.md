@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 of the Weirdest Video Game Peripherals Ever Made](https://lifehacker.com/12-of-the-weirdest-video-game-peripherals-ever-made-1849886219)
+- [Dev.to/JS] [Default Parameters in JavaScript](https://dev.to/moazamdev/default-parameters-in-javascript-3f36)
 - [Lifehacker] [You Can Get ‘Saints Row IV Re-Elected’ for Free Right Now](https://lifehacker.com/you-can-get-saints-row-iv-re-elected-for-free-right-n-1849884926)
 - [Dev.to/JS] [Recursion in JavaScript and React Components](https://dev.to/dephraiim/recursion-in-javascript-and-react-components-352e)
 - [Dev.to/JS] [Here&#39;s My 2023 Plan to Become a Web Dev](https://dev.to/colbyjax/heres-my-2023-plan-to-become-a-web-dev-4323)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: Using children instead of dedicated render slots](https://dev.to/codecoolture/react-using-children-instead-of-dedicated-render-slots-g7p)
 - [Dev.to/JS] [Career in IT: How to gain experience?](https://dev.to/albericojr/career-in-it-how-to-gain-experience-2dpn)
 - [Dev.to/JS] [JavaScript code puzzle - can you call this function?](https://dev.to/jankapunkt/javascript-code-puzzle-can-you-call-this-function-4o2f)
-- [Dev.to/JS] [React Drag and Drop File Upload example](https://dev.to/tienbku/react-drag-and-drop-file-upload-example-bac)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
 - [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
 - [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
-- [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
-- [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)<!-- TECH-POSTS:END -->
 
 ---
 
