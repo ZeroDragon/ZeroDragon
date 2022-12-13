@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Design a RESTful API](https://dev.to/bellatrix/design-a-restful-api-jam)
+- [Dev.to/JS] [Why Learning Vanilla 🍦JavaScript Is So Important](https://dev.to/jadm1992/why-learning-vanilla-javascript-is-so-important-4pme)
+- [Dev.to/JS] [Coding Bits: Applying programming knowledge X Algorithms and data structures for web dev](https://dev.to/sleeplessyogi/coding-bits-applying-programming-knowledge-x-algorithms-and-data-structures-for-web-dev-53i4)
+- [Dev.to/JS] [React: Using children instead of dedicated render slots](https://dev.to/codecoolture/react-using-children-instead-of-dedicated-render-slots-g7p)
+- [Dev.to/JS] [Career in IT: How to gain experience?](https://dev.to/albericojr/career-in-it-how-to-gain-experience-2dpn)
 - [Dev.to/JS] [JavaScript code puzzle - can you call this function?](https://dev.to/jankapunkt/javascript-code-puzzle-can-you-call-this-function-4o2f)
 - [Dev.to/JS] [React Drag and Drop File Upload example](https://dev.to/tienbku/react-drag-and-drop-file-upload-example-bac)
 - [Dev.to/JS] [Top 10 trending github repos for Java developers in this week🍉.](https://dev.to/ksengine/top-10-trending-github-repos-for-java-developers-in-this-week-235e)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Responsive Design](https://dev.to/pawan67/a-beginners-guide-to-responsive-design-191k)
 - [Dev.to/JS] [🎄 New year open-source giveaway: $100 Amazon Gift Card + Full Swag Kit](https://dev.to/necatiozmen/new-year-open-source-giveaway-100-amazon-gift-card-full-swag-kit-2f3e)
 - [Dev.to/JS] [10 Essential Tools for Frontend Developers](https://dev.to/pawan67/10-essential-tools-for-frontend-developers-1iih)
-- [Dev.to/JS] [A Roadmap for Frontend Developers: Essential Skills and Best Practices](https://dev.to/pawan67/a-roadmap-for-frontend-developers-essential-skills-and-best-practices-40hb)
-- [Dev.to/JS] [Simple Proof-of-Work in JavaScript](https://dev.to/samdeny/simple-proof-of-work-in-javascript-3kgm)
-- [Dev.to/JS] [Computer network blog](https://dev.to/sanjana67222181/computer-network-blog-b3e)
-- [Dev.to/JS] [A practical method for managing environment variables in microservices running on AWS ECS](https://dev.to/asifroyal/a-practical-method-for-managing-environment-variables-in-microservices-running-on-aws-ecs-4ad)
-- [Dev.to/JS] [The most popular Backend framework with Node.js](https://dev.to/hshoja/the-most-popular-backend-framework-with-nodejs-1o8l)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
