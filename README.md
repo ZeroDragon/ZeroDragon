@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeanBiome - Weight Loss Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/leanbiomebuys/leanbiome-weight-loss-reviews-pros-cons-scam-or-legit-1ih9)
+- [Dev.to/JS] [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
 - [Dev.to/JS] [Note abont JavaScript DOM objects](https://dev.to/moogoo78/note-abont-javascript-dom-objects-118o)
 - [Dev.to/JS] [JavaScript: Live vs. Static NodeLists](https://dev.to/moogoo78/javascript-live-vs-static-nodelists-367f)
 - [Dev.to/JS] [Using Speech Synthesis Utterance to enhance user experience](https://dev.to/covelitein/using-speech-synthesis-utterance-to-enhance-user-experience-1e7o)
@@ -35,11 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
 - [Dev.to/JS] [Custom Event Names and the Bubbling Problem](https://dev.to/claviska/custom-event-names-and-the-bubbling-problem-d3)
 - [Dev.to/JS] [Atomic commits](https://dev.to/rafinhadev/atomic-commits-2dcj)
-- [Dev.to/JS] [JS Test #2: Type conversion in JavaScript](https://dev.to/nathannosudo/js-test-2-type-conversion-in-javascript-2mb5)
 - [Lifehacker] [Don’t Let a Future Breakup Ruin This Year’s Holiday Photos](https://lifehacker.com/don-t-let-a-future-breakup-ruin-this-year-s-holiday-pho-1849883978)
 - [Lifehacker] [12 of the Best Gifts for Someone Who Needs Help Relaxing](https://lifehacker.com/12-of-the-best-gifts-for-someone-who-needs-help-relaxin-1849883700)
 - [Lifehacker] [How to Feel More at Home When Traveling for the Holidays](https://lifehacker.com/how-to-feel-more-at-home-when-traveling-for-the-holiday-1849882815)
-- [Dev.to/JS] [TypeScript Hate](https://dev.to/meleeman01/typescript-hate-ep1)
 - [Lifehacker] [That Terrifying Call From Your ‘Mom’ Might Be a Scam](https://lifehacker.com/that-terrifying-call-from-your-mom-might-be-a-scam-1849883646)
 - [Lifehacker] [Why You Should Slice the Potatoes for Your Next Mash](https://lifehacker.com/why-you-should-slice-the-potatoes-for-your-next-mash-1849883620)
 - [Lifehacker] [You Can Get a Free McDonald’s Crispy Chicken Sandwich Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-crispy-chicken-sandwich-r-1849883072)
