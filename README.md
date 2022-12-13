@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Split an Egg When You’re Cutting a Recipe in Half](https://lifehacker.com/the-best-way-to-split-an-egg-when-you-re-cutting-a-reci-1849887360)
+- [Dev.to/JS] [React Components](https://dev.to/calvinjimenez/react-components-413k)
+- [Lifehacker] [You Need a Home Maintenance Binder &lpar;and What to Put in It&rpar;](https://lifehacker.com/you-need-a-home-maintenance-binder-and-what-to-put-in-1849886014)
 - [Lifehacker] [12 of the Weirdest Video Game Peripherals Ever Made](https://lifehacker.com/12-of-the-weirdest-video-game-peripherals-ever-made-1849886219)
 - [Dev.to/JS] [Default Parameters in JavaScript](https://dev.to/moazamdev/default-parameters-in-javascript-3f36)
 - [Lifehacker] [You Can Get ‘Saints Row IV Re-Elected’ for Free Right Now](https://lifehacker.com/you-can-get-saints-row-iv-re-elected-for-free-right-n-1849884926)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coding Bits: Applying programming knowledge X Algorithms and data structures for web dev](https://dev.to/sleeplessyogi/coding-bits-applying-programming-knowledge-x-algorithms-and-data-structures-for-web-dev-53i4)
 - [Dev.to/JS] [React: Using children instead of dedicated render slots](https://dev.to/codecoolture/react-using-children-instead-of-dedicated-render-slots-g7p)
 - [Dev.to/JS] [Career in IT: How to gain experience?](https://dev.to/albericojr/career-in-it-how-to-gain-experience-2dpn)
-- [Dev.to/JS] [JavaScript code puzzle - can you call this function?](https://dev.to/jankapunkt/javascript-code-puzzle-can-you-call-this-function-4o2f)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Scammers Are Lurking on Etsy](https://lifehacker.com/scammers-are-lurking-on-etsy-1849877094)
 - [Lifehacker] [Schedule These Maintenance Tasks to Keep Your Robot Vacuum Running](https://lifehacker.com/schedule-these-maintenance-tasks-to-keep-your-robot-vac-1849880400)
 - [Lifehacker] [Don&#39;t Make These Mistakes As a Guest in Someone&#39;s House](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
-- [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)
-- [Lifehacker] [Avoid These Mistakes When Washing Wool](https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701)
-- [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Killing Your Lawn in the Winter](https://lifehacker.com/stop-killing-your-lawn-in-the-winter-1849874688)<!-- TECH-POSTS:END -->
 
 ---
 
