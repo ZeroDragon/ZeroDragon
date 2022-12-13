@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamically Add/Remove items from list using Javascript](https://dev.to/ahmadad62/dynamically-addremove-items-from-list-using-javascript-2j7l)
+- [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
+- [Dev.to/JS] [Develop desktop application by html/javascript !](https://dev.to/casualwriter/powerchrome-for-desktop-application-by-htmljavascript--3af6)
 - [Dev.to/JS] [How to Use Dynamic Web TWAIN UI-less API to Build a Web Document Scanning Application](https://dev.to/yushulx/how-to-use-dynamic-web-twain-ui-less-api-to-build-a-web-document-scanning-application-4m4i)
 - [Dev.to/JS] [Container With Most Water](https://dev.to/zeeshanali0704/container-with-most-water-4ahn)
 - [Dev.to/JS] [Vendure - Quick setup](https://dev.to/dailydevtips1/vendure-quick-setup-51d8)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: Live vs. Static NodeLists](https://dev.to/moogoo78/javascript-live-vs-static-nodelists-367f)
 - [Dev.to/JS] [Using Speech Synthesis Utterance to enhance user experience](https://dev.to/covelitein/using-speech-synthesis-utterance-to-enhance-user-experience-1e7o)
 - [Dev.to/JS] [How to Make Accordion in React](https://dev.to/reactjsguru/how-to-make-accordion-in-react-1nb0)
-- [Dev.to/JS] [Add Google Analytics to React/Next in 5 minutes](https://dev.to/leduc1901/add-google-analytics-to-reactnext-in-5-minutes-fbb)
-- [Dev.to/JS] [How to work remotely without overseas experience](https://dev.to/jay325k/how-to-work-remotely-without-overseas-experience-18ln)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
 - [Lifehacker] [Don’t Let a Future Breakup Ruin This Year’s Holiday Photos](https://lifehacker.com/don-t-let-a-future-breakup-ruin-this-year-s-holiday-pho-1849883978)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
 - [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
-- [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)
-- [Lifehacker] [Charcuterie Is the Perfect Christmas Breakfast, Actually](https://lifehacker.com/charcuterie-is-the-perfect-christmas-breakfast-actuall-1849876608)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)<!-- TECH-POSTS:END -->
 
 ---
 
