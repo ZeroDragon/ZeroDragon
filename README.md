@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to work remotely without overseas experience](https://dev.to/jay325k/how-to-work-remotely-without-overseas-experience-18ln)
 - [Dev.to/JS] [Hill Climbing Algorithm](https://dev.to/rmion/hill-climbing-algorithm-278a)
 - [Dev.to/JS] [Propriedade as em componentes React com Typescript](https://dev.to/guiselair/propriedade-as-em-componentes-react-com-typescript-3p8a)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
 - [Dev.to/JS] [Imposter Syndrome 2.0](https://dev.to/charlesshrout/imposter-syndrome-20-4k15)
 - [Lifehacker] [Stop Using These ‘Hacks’ That Will Dry Out Your Christmas Tree](https://lifehacker.com/stop-using-these-hacks-that-will-kill-your-christmas-1849883207)
-- [Dev.to/JS] [The importance of using array methods in JavaScript](https://dev.to/stevensmithcode/the-importance-of-using-array-methods-in-javascript-1ml8)
 - [Lifehacker] [Eight of the Best Reusable Alternatives to Traditional Wrapping Paper](https://lifehacker.com/eight-of-the-best-reusable-alternatives-to-traditional-1849881129)
 - [Lifehacker] [Stop Your MacBook Charger From Falling Off the Wall](https://lifehacker.com/stop-your-macbook-charger-from-falling-off-the-wall-1849882528)
 - [Lifehacker] [The 20 Best TV Shows of 2022](https://lifehacker.com/the-20-best-tv-shows-of-2022-1849880017)
