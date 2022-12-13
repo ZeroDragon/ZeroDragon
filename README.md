@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Subaru SUVs Need to Be Parked Outside Before They Catch Fire](https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954)
+- [Dev.to/JS] [5 best open source platforms for B2B ecommerce](https://dev.to/medusajs/5-best-open-source-platforms-for-b2b-ecommerce-1kg4)
 - [Dev.to/JS] [Design a RESTful API](https://dev.to/bellatrix/design-a-restful-api-jam)
 - [Dev.to/JS] [Why Learning Vanilla 🍦JavaScript Is So Important](https://dev.to/jadm1992/why-learning-vanilla-javascript-is-so-important-4pme)
 - [Dev.to/JS] [Coding Bits: Applying programming knowledge X Algorithms and data structures for web dev](https://dev.to/sleeplessyogi/coding-bits-applying-programming-knowledge-x-algorithms-and-data-structures-for-web-dev-53i4)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CSS Grid vs. Flexbox: Which Should You Use?](https://dev.to/pawan67/css-grid-vs-flexbox-which-should-you-use-11m6)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Responsive Design](https://dev.to/pawan67/a-beginners-guide-to-responsive-design-191k)
 - [Dev.to/JS] [🎄 New year open-source giveaway: $100 Amazon Gift Card + Full Swag Kit](https://dev.to/necatiozmen/new-year-open-source-giveaway-100-amazon-gift-card-full-swag-kit-2f3e)
-- [Dev.to/JS] [10 Essential Tools for Frontend Developers](https://dev.to/pawan67/10-essential-tools-for-frontend-developers-1iih)
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Throw Out Your Soap Ends](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
 - [Lifehacker] [Avoid These Mistakes When Storing Your Cleaning Supplies](https://lifehacker.com/avoid-these-mistakes-when-storing-your-cleaning-supplie-1849874964)
 - [Lifehacker] [Make Your Christmas Lights Less Dangerous](https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988)
-- [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
-- [Lifehacker] [Don’t Return the Money Someone ‘Accidentally’ Sends You on Venmo](https://lifehacker.com/don-t-return-the-money-someone-accidentally-sends-you-1849876552)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Use This Viral TikTok Hack to Fix Window Condensation](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)<!-- TECH-POSTS:END -->
 
 ---
 
