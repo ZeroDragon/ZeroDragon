@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When do you use setState with a callback?](https://dev.to/csituma/when-do-you-use-setstate-with-a-callback-1f3g)
 - [Dev.to/JS] [Part 1 - Fullstack Journey](https://dev.to/lleamancio/part-1-fullstack-journey-2o44)
 - [Dev.to/JS] [7 Best Node.js Logging Libraries for Your Next Projects](https://dev.to/devland/7-best-nodejs-logging-libraries-for-your-next-projects-38df)
 - [Dev.to/JS] [A little about Typescript Utility Types](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [On to JavaScript](https://dev.to/hethinksthrice/on-to-javascript-40l0)
 - [Dev.to/JS] [JavaScriptmas 2022 - Issue 2](https://dev.to/michaellarocca/javascriptmas-2022-issue-2-4jg5)
 - [Lifehacker] [The Safest Way to &#39;Delete&#39; Your Twitter Account](https://lifehacker.com/the-safest-way-to-delete-your-twitter-account-1849888259)
-- [Dev.to/JS] [Nest 🆚 Express Hangi Framework&#39;ü Seçmeliyim?](https://dev.to/femresirvan/nest-vs-express-hangi-frameworku-secmeliyim-2871)
 - [Lifehacker] [Ten Incredibly Useful Menu Bar Apps You Should Install on Your Mac](https://lifehacker.com/ten-incredibly-useful-menu-bar-apps-you-should-install-1849887075)
 - [Lifehacker] [The Easiest Ways to Soundproof a Room](https://lifehacker.com/the-easiest-ways-to-soundproof-a-room-1849886154)
 - [Lifehacker] [The Best Way to Split an Egg When You’re Cutting a Recipe in Half](https://lifehacker.com/the-best-way-to-split-an-egg-when-you-re-cutting-a-reci-1849887360)
