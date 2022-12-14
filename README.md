@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MathemaQuizzo: My First Web App](https://dev.to/ananfito/mathemaquizzo-my-first-web-app-3ck7)
+- [Dev.to/JS] [Typescript Generate Full Path Type And Get Value Type Of Nested Object](https://dev.to/tylim88/typescript-generate-full-path-type-and-get-value-type-for-nested-object-4hi)
 - [Dev.to/JS] [NestJS vs ExpressJs- A battle of NodeJs framework](https://dev.to/errsole/nestjs-vs-expressjs-a-battle-of-nodejs-framework-3c7n)
 - [Dev.to/JS] [Top 7 Featured DEV Posts &lpar;#javascript&rpar; from the Past Week](https://dev.to/c4r4x35/top-7-featured-dev-posts-javascript-from-the-past-week-3ig1)
 - [Dev.to/JS] [Applying Design Patterns in React: Strategy Pattern](https://dev.to/itshugo/applying-design-patterns-in-react-strategy-pattern-enn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the shortest way to describe product development?](https://dev.to/amelia792/what-is-the-shortest-way-to-describe-product-development-1bgk)
 - [Dev.to/JS] [Weekly web development resources #128](https://dev.to/vincenius/weekly-web-development-resources-128-2nh7)
 - [Dev.to/JS] [Java Script And Their Application](https://dev.to/infiraise/java-script-and-their-application-28il)
-- [Dev.to/JS] [198. Leetcode Solution in javascript](https://dev.to/chiki1601/198-leetcode-solution-in-javascript-492f)
-- [Dev.to/JS] [When do you use setState with a callback?](https://dev.to/csituma/when-do-you-use-setstate-with-a-callback-1f3g)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
