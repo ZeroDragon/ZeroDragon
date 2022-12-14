@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
+- [Dev.to/JS] [Fixing Class Composition in Tailwind CSS](https://dev.to/areknawo/fixing-class-composition-in-tailwind-css-1k4d)
+- [Lifehacker] [Use This App to Reduce Battery Drain on Your MacBook](https://lifehacker.com/use-this-app-to-reduce-battery-drain-on-your-macbook-1849892452)
+- [Dev.to/JS] [Beware of integer division in Elm 0.19.1](https://dev.to/dwayne/beware-of-integer-division-in-elm-0191-3ig4)
+- [Lifehacker] [Your Nintendo Switch Has a Spotify Wrapped-style ‘Year in Review’](https://lifehacker.com/your-nintendo-switch-has-a-spotify-wrapped-style-year-1849893792)
 - [Dev.to/JS] [🎄JS Advent #7 - Destructuring 🎄](https://dev.to/jtlavs/js-advent-7-destructuring-onm)
 - [Dev.to/JS] [🎄JS Advent #6 - Host vs Native objects🎄](https://dev.to/jtlavs/js-advent-6-host-vs-native-objects-4opg)
 - [Lifehacker] [11 of the Dopest Weed Gadgets to Give a Tech-Savvy Stoner](https://lifehacker.com/11-of-the-dopest-weed-gadgets-to-give-a-tech-savvy-ston-1849894383)
@@ -41,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlock Next Level Web Design: 15 Inspirational Websites!](https://dev.to/nftslab/unlock-next-level-web-design-15-inspirational-websites-26al)
 - [Lifehacker] [7 Apps to Get the Best Mac Features on Windows](https://lifehacker.com/7-apps-to-get-the-best-mac-features-on-windows-1849891578)
 - [Dev.to/JS] [Distress Signal](https://dev.to/rmion/distress-signal-35hk)
-- [Dev.to/JS] [react useEffect&lpar;&rpar; Hook &lpar;Web Dev Simplified&rpar;](https://dev.to/akshdesai1/react-useeffect-hook-web-dev-simplified-7f7)
 - [Lifehacker] [Stop Putting Dryer Sheets in Your Vents](https://lifehacker.com/stop-putting-dryer-sheets-in-your-vents-1849891225)
-- [Dev.to/JS] [Creating a scheduling app: I wish somebody showed me this technique when I first started coding 🤔](https://dev.to/novu/creating-a-scheduling-app-i-wish-somebody-showed-me-this-technique-when-i-first-started-coding-2icd)
 - [Lifehacker] [Why Does Hanukkah Move Around Every Year?](https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312)
 - [Lifehacker] [12 Criminally Overlooked Video Games You Can Still Play Today](https://lifehacker.com/12-criminally-overlooked-video-games-you-can-still-play-1849890477)
 - [Lifehacker] [Get a Cheap Thrill With Sweetened Cream Cheese](https://lifehacker.com/get-a-cheap-thrill-with-sweetened-cream-cheese-1849890869)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take This Test to Know Which Smartphone Camera You Really Like the Most](https://lifehacker.com/take-this-test-to-know-which-smartphone-camera-you-real-1849887577)
 - [Lifehacker] [The Safest Way to &#39;Delete&#39; Your Twitter Account](https://lifehacker.com/the-safest-way-to-delete-your-twitter-account-1849888259)
 - [Lifehacker] [Ten Incredibly Useful Menu Bar Apps You Should Install on Your Mac](https://lifehacker.com/ten-incredibly-useful-menu-bar-apps-you-should-install-1849887075)
-- [Lifehacker] [The Easiest Ways to Soundproof a Room](https://lifehacker.com/the-easiest-ways-to-soundproof-a-room-1849886154)
-- [Lifehacker] [The Best Way to Split an Egg When You’re Cutting a Recipe in Half](https://lifehacker.com/the-best-way-to-split-an-egg-when-you-re-cutting-a-reci-1849887360)
-- [Lifehacker] [You Need a Home Maintenance Binder &lpar;and What to Put in It&rpar;](https://lifehacker.com/you-need-a-home-maintenance-binder-and-what-to-put-in-1849886014)
-- [Lifehacker] [12 of the Weirdest Video Game Peripherals Ever Made](https://lifehacker.com/12-of-the-weirdest-video-game-peripherals-ever-made-1849886219)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Soundproof a Room](https://lifehacker.com/the-easiest-ways-to-soundproof-a-room-1849886154)<!-- TECH-POSTS:END -->
 
 ---
 
