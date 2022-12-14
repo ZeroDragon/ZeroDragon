@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Advance Array Methods You Should Know](https://dev.to/shivamblog/javascript-advance-array-methods-you-should-know-3el3)
+- [Lifehacker] [12 Criminally Overlooked Video Games You Can Still Play Today](https://lifehacker.com/12-criminally-overlooked-video-games-you-can-still-play-1849890477)
 - [Dev.to/JS] [Comparar dos Objetos en JavaScript](https://dev.to/asjordi/comparar-dos-objetos-en-javascript-3bmk)
 - [Lifehacker] [Get a Cheap Thrill With Sweetened Cream Cheese](https://lifehacker.com/get-a-cheap-thrill-with-sweetened-cream-cheese-1849890869)
 - [Dev.to/JS] [C++ga kirish](https://dev.to/charos1mm/cga-kirish-35d8)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create Personal Blog Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-create-personal-blog-website-using-html-css-javascript-27c3)
 - [Dev.to/JS] [Calculator with History Function in HTML, CSS, and JavaScript](https://dev.to/maxim_maeder/calculator-with-history-function-in-html-css-and-javascript-2ggd)
 - [Dev.to/JS] [Notifying Subscribers when an Amazon IVS Stream Is Online](https://dev.to/aws/notifying-subscribers-when-an-amazon-ivs-stream-is-online-f1c)
-- [Dev.to/JS] [Moonly weekly progress update #27](https://dev.to/moonly/moonly-weekly-progress-update-27-1p2m)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Let a Future Breakup Ruin This Year’s Holiday Photos](https://lifehacker.com/don-t-let-a-future-breakup-ruin-this-year-s-holiday-pho-1849883978)
 - [Lifehacker] [12 of the Best Gifts for Someone Who Needs Help Relaxing](https://lifehacker.com/12-of-the-best-gifts-for-someone-who-needs-help-relaxin-1849883700)
 - [Lifehacker] [How to Feel More at Home When Traveling for the Holidays](https://lifehacker.com/how-to-feel-more-at-home-when-traveling-for-the-holiday-1849882815)
-- [Lifehacker] [That Terrifying Call From Your ‘Mom’ Might Be a Scam](https://lifehacker.com/that-terrifying-call-from-your-mom-might-be-a-scam-1849883646)
-- [Lifehacker] [Why You Should Slice the Potatoes for Your Next Mash](https://lifehacker.com/why-you-should-slice-the-potatoes-for-your-next-mash-1849883620)<!-- TECH-POSTS:END -->
+- [Lifehacker] [That Terrifying Call From Your ‘Mom’ Might Be a Scam](https://lifehacker.com/that-terrifying-call-from-your-mom-might-be-a-scam-1849883646)<!-- TECH-POSTS:END -->
 
 ---
 
