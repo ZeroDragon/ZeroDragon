@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arrays in JavaScript](https://dev.to/indirakumar/arrays-in-javascript-3041)
+- [Dev.to/JS] [What is the shortest way to describe product development?](https://dev.to/amelia792/what-is-the-shortest-way-to-describe-product-development-1bgk)
+- [Dev.to/JS] [Weekly web development resources #128](https://dev.to/vincenius/weekly-web-development-resources-128-2nh7)
+- [Dev.to/JS] [Java Script And Their Application](https://dev.to/infiraise/java-script-and-their-application-28il)
+- [Dev.to/JS] [198. Leetcode Solution in javascript](https://dev.to/chiki1601/198-leetcode-solution-in-javascript-492f)
 - [Dev.to/JS] [When do you use setState with a callback?](https://dev.to/csituma/when-do-you-use-setstate-with-a-callback-1f3g)
 - [Dev.to/JS] [Part 1 - Fullstack Journey](https://dev.to/lleamancio/part-1-fullstack-journey-2o44)
 - [Dev.to/JS] [7 Best Node.js Logging Libraries for Your Next Projects](https://dev.to/devland/7-best-nodejs-logging-libraries-for-your-next-projects-38df)
@@ -34,15 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
 - [Lifehacker] [11 of the Best New Features in iOS 16.2](https://lifehacker.com/11-of-the-best-new-features-in-ios-16-2-1849888579)
 - [Dev.to/JS] [Stylify CSS: Automagic CSS bundles splitting into CSS layers in Astro.build](https://dev.to/machy8/stylify-css-automagic-css-bundles-splitting-into-css-layers-in-astrobuild-3po9)
-- [Dev.to/JS] [What is the difference between TypeScript and JavaScript?](https://dev.to/dadyasasha/what-is-the-difference-between-typescript-and-javascript-2dn3)
 - [Lifehacker] [Throw Away These Recalled COVID Test Kits](https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056)
 - [Lifehacker] [LASIK Has More Risks Than You Probably Realize](https://lifehacker.com/lasik-has-more-risks-than-you-probably-realize-1849888998)
-- [Dev.to/JS] [Flatten a nested object in JS](https://dev.to/binarysingh/flatten-a-nested-object-in-js-556g)
-- [Dev.to/JS] [Integrating HTML and JavaScript](https://dev.to/kellilil/integrating-html-and-javascript-43pc)
 - [Lifehacker] [HBO Max Has a Hidden ‘Yule Log’ Horror Movie](https://lifehacker.com/hbo-max-has-a-hidden-yule-log-horror-movie-1849888811)
 - [Lifehacker] [Take This Test to Know Which Smartphone Camera You Really Like the Most](https://lifehacker.com/take-this-test-to-know-which-smartphone-camera-you-real-1849887577)
-- [Dev.to/JS] [On to JavaScript](https://dev.to/hethinksthrice/on-to-javascript-40l0)
-- [Dev.to/JS] [JavaScriptmas 2022 - Issue 2](https://dev.to/michaellarocca/javascriptmas-2022-issue-2-4jg5)
 - [Lifehacker] [The Safest Way to &#39;Delete&#39; Your Twitter Account](https://lifehacker.com/the-safest-way-to-delete-your-twitter-account-1849888259)
 - [Lifehacker] [Ten Incredibly Useful Menu Bar Apps You Should Install on Your Mac](https://lifehacker.com/ten-incredibly-useful-menu-bar-apps-you-should-install-1849887075)
 - [Lifehacker] [The Easiest Ways to Soundproof a Room](https://lifehacker.com/the-easiest-ways-to-soundproof-a-room-1849886154)
