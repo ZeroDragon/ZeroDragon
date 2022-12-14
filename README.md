@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Mystery of &#39;Mario Kart 7&#39;s Strange Update](https://lifehacker.com/the-mystery-of-mario-kart-7s-strange-update-1849893179)
+- [Dev.to/JS] [Don&#39;t use &#39;&amp;&amp;&#39; for conditional reasoning](https://dev.to/aishanipach/dont-use-for-conditional-reasoning-3525)
+- [Dev.to/JS] [Introduction to Vite: the lightning-fast module bundler](https://dev.to/codemaker2015/introduction-to-vite-the-lightning-fast-module-bundler-32mm)
+- [Dev.to/JS] [Paracetamol.js💊| #194: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-194-explica-este-codigo-javascript-36bl)
+- [Lifehacker] [12 Holiday Cookie Recipes With Five Ingredients or Fewer](https://lifehacker.com/12-holiday-cookie-recipes-with-five-ingredients-or-fewe-1849893325)
 - [Lifehacker] [22 of the Best Movies of 2022 That Won&#39;t Get Nominated for Oscars](https://lifehacker.com/22-of-the-best-movies-of-2022-that-wont-get-nominated-f-1849888235)
 - [Lifehacker] [6 of the Best TV Deals You Can Still Get Before Christmas](https://lifehacker.com/6-of-the-best-tv-deals-you-can-still-get-before-christm-1849890432)
 - [Dev.to/JS] [15 Javascript Browser APIs](https://dev.to/hidaytrahman/15-javascript-browser-apis-3d17)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comparar dos Objetos en JavaScript](https://dev.to/asjordi/comparar-dos-objetos-en-javascript-3bmk)
 - [Lifehacker] [Get a Cheap Thrill With Sweetened Cream Cheese](https://lifehacker.com/get-a-cheap-thrill-with-sweetened-cream-cheese-1849890869)
 - [Dev.to/JS] [C++ga kirish](https://dev.to/charos1mm/cga-kirish-35d8)
-- [Dev.to/JS] [Tailwindcss vs Bootstrap: Which is Better for Your Project?](https://dev.to/ariellun/tailwindcss-vs-bootstrap-which-is-better-for-your-project-5b3o)
 - [Lifehacker] [This Might Be the Best Way to Stop Falling for Misinformation](https://lifehacker.com/this-might-be-the-best-way-to-stop-falling-for-bullshit-1849890110)
-- [Dev.to/JS] [Resources You Need As a DevRel](https://dev.to/patilganesh1010/resources-you-need-as-a-devrel-pl0)
-- [Dev.to/JS] [How to build a pomodoro timer in JavaScrpt](https://dev.to/jospinkanane/how-to-build-a-pomodoro-timer-in-javascrpt-1mmd)
 - [Lifehacker] [Why You Should Be Air-Frying Your Tofu Before Marinating It](https://lifehacker.com/why-you-should-be-air-frying-your-tofu-before-marinatin-1849889987)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Weirdest Video Game Peripherals Ever Made](https://lifehacker.com/12-of-the-weirdest-video-game-peripherals-ever-made-1849886219)
 - [Lifehacker] [You Can Get ‘Saints Row IV Re-Elected’ for Free Right Now](https://lifehacker.com/you-can-get-saints-row-iv-re-elected-for-free-right-n-1849884926)
 - [Lifehacker] [How to Know It&#39;s Time to Say Goodbye to a Kitchen Appliance](https://lifehacker.com/how-to-know-its-time-to-say-goodbye-to-a-kitchen-applia-1849883895)
-- [Lifehacker] [These Subaru SUVs Need to Be Parked Outside Before They Catch Fire](https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954)
-- [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
-- [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Subaru SUVs Need to Be Parked Outside Before They Catch Fire](https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954)<!-- TECH-POSTS:END -->
 
 ---
 
