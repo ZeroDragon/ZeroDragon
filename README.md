@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Be Air-Frying Your Tofu Before Marinating It](https://lifehacker.com/why-you-should-be-air-frying-your-tofu-before-marinatin-1849889987)
+- [Dev.to/JS] [Uncovering Open Source B2B Ecommerce](https://dev.to/medusajs/uncovering-open-source-b2b-ecommerce-4lbp)
+- [Dev.to/JS] [What is bubble Sort in JavaScript how it is used](https://dev.to/asish0sahu/what-is-bubble-sort-in-javascript-how-it-is-used-djk)
+- [Dev.to/JS] [Animating a Div in Framer Motion: Using the animate Prop without useEffect](https://dev.to/aykacode/animating-a-div-in-framer-motion-using-the-animate-prop-without-useeffect-2f9f)
+- [Dev.to/JS] [How to Create Personal Blog Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-create-personal-blog-website-using-html-css-javascript-27c3)
+- [Dev.to/JS] [Calculator with History Function in HTML, CSS, and JavaScript](https://dev.to/maxim_maeder/calculator-with-history-function-in-html-css-and-javascript-2ggd)
 - [Dev.to/JS] [Notifying Subscribers when an Amazon IVS Stream Is Online](https://dev.to/aws/notifying-subscribers-when-an-amazon-ivs-stream-is-online-f1c)
 - [Dev.to/JS] [Moonly weekly progress update #27](https://dev.to/moonly/moonly-weekly-progress-update-27-1p2m)
 - [Dev.to/JS] [How to Create Admin Panel Application](https://dev.to/flatlogic/how-to-create-admin-panel-application-5cm)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [dfsd](https://dev.to/jeevanjose1/dfsd-4p30)
 - [Dev.to/JS] [Angular vs React vs Vue: Which Framework is Best to Choose in 2023?](https://dev.to/himadripatelace/angular-vs-react-vs-vue-which-framework-is-best-to-choose-in-2023-4mgp)
 - [Dev.to/JS] [Solving day 14 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-14-of-advent-of-code-2022-in-javascript-37j8)
-- [Dev.to/JS] [Business Challenge](https://dev.to/gruffduck/business-challenge-3h84)
-- [Dev.to/JS] [How to Hire React Developers](https://dev.to/veronica_ross1/how-to-hire-react-developers-2dgg)
-- [Dev.to/JS] [Create a JavaScript Promise with timeout](https://dev.to/jankapunkt/create-a-javascript-promise-with-timeout-dmn)
-- [Dev.to/JS] [MathemaQuizzo: My First Web App](https://dev.to/ananfito/mathemaquizzo-my-first-web-app-3ck7)
-- [Dev.to/JS] [Typescript Generate Full Path Type And Get Value Type Of Nested Object](https://dev.to/tylim88/typescript-generate-full-path-type-and-get-value-type-for-nested-object-4hi)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [That Terrifying Call From Your ‘Mom’ Might Be a Scam](https://lifehacker.com/that-terrifying-call-from-your-mom-might-be-a-scam-1849883646)
 - [Lifehacker] [Why You Should Slice the Potatoes for Your Next Mash](https://lifehacker.com/why-you-should-slice-the-potatoes-for-your-next-mash-1849883620)
 - [Lifehacker] [You Can Get a Free McDonald’s Crispy Chicken Sandwich Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-crispy-chicken-sandwich-r-1849883072)
-- [Lifehacker] [Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
-- [Lifehacker] [Stop Using These ‘Hacks’ That Will Dry Out Your Christmas Tree](https://lifehacker.com/stop-using-these-hacks-that-will-kill-your-christmas-1849883207)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)<!-- TECH-POSTS:END -->
 
 ---
 
