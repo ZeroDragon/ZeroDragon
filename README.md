@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NestJS vs ExpressJs- A battle of NodeJs framework](https://dev.to/errsole/nestjs-vs-expressjs-a-battle-of-nodejs-framework-3c7n)
 - [Dev.to/JS] [Top 7 Featured DEV Posts &lpar;#javascript&rpar; from the Past Week](https://dev.to/c4r4x35/top-7-featured-dev-posts-javascript-from-the-past-week-3ig1)
 - [Dev.to/JS] [Applying Design Patterns in React: Strategy Pattern](https://dev.to/itshugo/applying-design-patterns-in-react-strategy-pattern-enn)
 - [Dev.to/JS] [Amarose Skin Tag Removar - Skin Care Solution, Price, Benefits And Reviews?](https://dev.to/ydsakhbsa/amarose-skin-tag-removar-skin-care-solution-price-benefits-and-reviews-5dei)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Java Script And Their Application](https://dev.to/infiraise/java-script-and-their-application-28il)
 - [Dev.to/JS] [198. Leetcode Solution in javascript](https://dev.to/chiki1601/198-leetcode-solution-in-javascript-492f)
 - [Dev.to/JS] [When do you use setState with a callback?](https://dev.to/csituma/when-do-you-use-setstate-with-a-callback-1f3g)
-- [Dev.to/JS] [Part 1 - Fullstack Journey](https://dev.to/lleamancio/part-1-fullstack-journey-2o44)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
