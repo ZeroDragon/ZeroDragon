@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Business Challenge](https://dev.to/gruffduck/business-challenge-3h84)
+- [Dev.to/JS] [How to Hire React Developers](https://dev.to/veronica_ross1/how-to-hire-react-developers-2dgg)
+- [Dev.to/JS] [Create a JavaScript Promise with timeout](https://dev.to/jankapunkt/create-a-javascript-promise-with-timeout-dmn)
 - [Dev.to/JS] [MathemaQuizzo: My First Web App](https://dev.to/ananfito/mathemaquizzo-my-first-web-app-3ck7)
 - [Dev.to/JS] [Typescript Generate Full Path Type And Get Value Type Of Nested Object](https://dev.to/tylim88/typescript-generate-full-path-type-and-get-value-type-for-nested-object-4hi)
 - [Dev.to/JS] [NestJS vs ExpressJs- A battle of NodeJs framework](https://dev.to/errsole/nestjs-vs-expressjs-a-battle-of-nodejs-framework-3c7n)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crea una función Lambda con Serverless Framework y Datadog](https://dev.to/dani_avila7/crea-una-funcion-lambda-con-serverless-framework-y-datadog-2ol8)
 - [Dev.to/JS] [Best Way to Create Dynamic Modules in NestJS](https://dev.to/nooptoday/best-way-to-create-dynamic-modules-in-nestjs-5003)
 - [Dev.to/JS] [Arrays in JavaScript](https://dev.to/indirakumar/arrays-in-javascript-3041)
-- [Dev.to/JS] [What is the shortest way to describe product development?](https://dev.to/amelia792/what-is-the-shortest-way-to-describe-product-development-1bgk)
-- [Dev.to/JS] [Weekly web development resources #128](https://dev.to/vincenius/weekly-web-development-resources-128-2nh7)
-- [Dev.to/JS] [Java Script And Their Application](https://dev.to/infiraise/java-script-and-their-application-28il)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
