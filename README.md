@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [7 Apps to Get the Best Mac Features on Windows](https://lifehacker.com/7-apps-to-get-the-best-mac-features-on-windows-1849891578)
+- [Dev.to/JS] [Distress Signal](https://dev.to/rmion/distress-signal-35hk)
+- [Dev.to/JS] [react useEffect&lpar;&rpar; Hook &lpar;Web Dev Simplified&rpar;](https://dev.to/akshdesai1/react-useeffect-hook-web-dev-simplified-7f7)
+- [Lifehacker] [Stop Putting Dryer Sheets in Your Vents](https://lifehacker.com/stop-putting-dryer-sheets-in-your-vents-1849891225)
+- [Dev.to/JS] [Creating a scheduling app: I wish somebody showed me this technique when I first started coding 🤔](https://dev.to/novu/creating-a-scheduling-app-i-wish-somebody-showed-me-this-technique-when-i-first-started-coding-2icd)
+- [Dev.to/JS] [JavaScript Callback Functions explained in their simplest form.](https://dev.to/dustin4d/javascript-callback-functions-explained-in-their-simplest-form-45p6)
+- [Lifehacker] [Why Does Hanukkah Move Around Every Year?](https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312)
 - [Dev.to/JS] [Javascript Advance Array Methods You Should Know](https://dev.to/shivamblog/javascript-advance-array-methods-you-should-know-3el3)
 - [Lifehacker] [12 Criminally Overlooked Video Games You Can Still Play Today](https://lifehacker.com/12-criminally-overlooked-video-games-you-can-still-play-1849890477)
 - [Dev.to/JS] [Comparar dos Objetos en JavaScript](https://dev.to/asjordi/comparar-dos-objetos-en-javascript-3bmk)
@@ -35,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Be Air-Frying Your Tofu Before Marinating It](https://lifehacker.com/why-you-should-be-air-frying-your-tofu-before-marinatin-1849889987)
 - [Dev.to/JS] [Uncovering Open Source B2B Ecommerce](https://dev.to/medusajs/uncovering-open-source-b2b-ecommerce-4lbp)
 - [Dev.to/JS] [What is bubble Sort in JavaScript how it is used](https://dev.to/asish0sahu/what-is-bubble-sort-in-javascript-how-it-is-used-djk)
-- [Dev.to/JS] [Animating a Div in Framer Motion: Using the animate Prop without useEffect](https://dev.to/aykacode/animating-a-div-in-framer-motion-using-the-animate-prop-without-useeffect-2f9f)
-- [Dev.to/JS] [How to Create Personal Blog Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-create-personal-blog-website-using-html-css-javascript-27c3)
-- [Dev.to/JS] [Calculator with History Function in HTML, CSS, and JavaScript](https://dev.to/maxim_maeder/calculator-with-history-function-in-html-css-and-javascript-2ggd)
-- [Dev.to/JS] [Notifying Subscribers when an Amazon IVS Stream Is Online](https://dev.to/aws/notifying-subscribers-when-an-amazon-ivs-stream-is-online-f1c)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Pointer to Derived Class in C++](https://www.thecrazyprogrammer.com/2022/12/pointer-to-derived-class-in-c.html)
 - [Lifehacker] [7 of the Best Videos to Start &lpar;or Perfect&rpar; Your Deadlift](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
 - [Lifehacker] [The Geminid Meteor Shower Is About to Peak](https://lifehacker.com/the-geminid-meteor-shower-is-about-to-peak-1849884314)
-- [Lifehacker] [Don’t Let a Future Breakup Ruin This Year’s Holiday Photos](https://lifehacker.com/don-t-let-a-future-breakup-ruin-this-year-s-holiday-pho-1849883978)
-- [Lifehacker] [12 of the Best Gifts for Someone Who Needs Help Relaxing](https://lifehacker.com/12-of-the-best-gifts-for-someone-who-needs-help-relaxin-1849883700)
-- [Lifehacker] [How to Feel More at Home When Traveling for the Holidays](https://lifehacker.com/how-to-feel-more-at-home-when-traveling-for-the-holiday-1849882815)
-- [Lifehacker] [That Terrifying Call From Your ‘Mom’ Might Be a Scam](https://lifehacker.com/that-terrifying-call-from-your-mom-might-be-a-scam-1849883646)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Let a Future Breakup Ruin This Year’s Holiday Photos](https://lifehacker.com/don-t-let-a-future-breakup-ruin-this-year-s-holiday-pho-1849883978)<!-- TECH-POSTS:END -->
 
 ---
 
