@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Notifying Subscribers when an Amazon IVS Stream Is Online](https://dev.to/aws/notifying-subscribers-when-an-amazon-ivs-stream-is-online-f1c)
+- [Dev.to/JS] [Moonly weekly progress update #27](https://dev.to/moonly/moonly-weekly-progress-update-27-1p2m)
+- [Dev.to/JS] [How to Create Admin Panel Application](https://dev.to/flatlogic/how-to-create-admin-panel-application-5cm)
+- [Dev.to/JS] [Code Smell 186 - Hardcoded Business Conditions](https://dev.to/mcsee/code-smell-186-hardcoded-business-conditions-3m5h)
 - [Dev.to/JS] [dfsd](https://dev.to/jeevanjose1/dfsd-4p30)
 - [Dev.to/JS] [Angular vs React vs Vue: Which Framework is Best to Choose in 2023?](https://dev.to/himadripatelace/angular-vs-react-vs-vue-which-framework-is-best-to-choose-in-2023-4mgp)
 - [Dev.to/JS] [Solving day 14 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-14-of-advent-of-code-2022-in-javascript-37j8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a JavaScript Promise with timeout](https://dev.to/jankapunkt/create-a-javascript-promise-with-timeout-dmn)
 - [Dev.to/JS] [MathemaQuizzo: My First Web App](https://dev.to/ananfito/mathemaquizzo-my-first-web-app-3ck7)
 - [Dev.to/JS] [Typescript Generate Full Path Type And Get Value Type Of Nested Object](https://dev.to/tylim88/typescript-generate-full-path-type-and-get-value-type-for-nested-object-4hi)
-- [Dev.to/JS] [NestJS vs ExpressJs- A battle of NodeJs framework](https://dev.to/errsole/nestjs-vs-expressjs-a-battle-of-nodejs-framework-3c7n)
-- [Dev.to/JS] [Top 7 Featured DEV Posts &lpar;#javascript&rpar; from the Past Week](https://dev.to/c4r4x35/top-7-featured-dev-posts-javascript-from-the-past-week-3ig1)
-- [Dev.to/JS] [Applying Design Patterns in React: Strategy Pattern](https://dev.to/itshugo/applying-design-patterns-in-react-strategy-pattern-enn)
-- [Dev.to/JS] [Amarose Skin Tag Removar - Skin Care Solution, Price, Benefits And Reviews?](https://dev.to/ydsakhbsa/amarose-skin-tag-removar-skin-care-solution-price-benefits-and-reviews-5dei)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
