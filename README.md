@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 1 - Fullstack Journey](https://dev.to/lleamancio/part-1-fullstack-journey-2o44)
 - [Dev.to/JS] [7 Best Node.js Logging Libraries for Your Next Projects](https://dev.to/devland/7-best-nodejs-logging-libraries-for-your-next-projects-38df)
 - [Dev.to/JS] [A little about Typescript Utility Types](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)
 - [Dev.to/JS] [Zod - Validate your API inputs with ease](https://dev.to/sammy1999/zod-validate-your-api-inputs-with-ease-2on9)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Safest Way to &#39;Delete&#39; Your Twitter Account](https://lifehacker.com/the-safest-way-to-delete-your-twitter-account-1849888259)
 - [Dev.to/JS] [Nest 🆚 Express Hangi Framework&#39;ü Seçmeliyim?](https://dev.to/femresirvan/nest-vs-express-hangi-frameworku-secmeliyim-2871)
 - [Lifehacker] [Ten Incredibly Useful Menu Bar Apps You Should Install on Your Mac](https://lifehacker.com/ten-incredibly-useful-menu-bar-apps-you-should-install-1849887075)
-- [Dev.to/JS] [Why Do You Need a JavaScript Framework anyways?? How React, Vue, Can Save You Time and Effort](https://dev.to/shreyaan/why-do-you-need-a-javascript-framework-anyways-how-react-vue-can-save-you-time-and-effort-1h32)
 - [Lifehacker] [The Easiest Ways to Soundproof a Room](https://lifehacker.com/the-easiest-ways-to-soundproof-a-room-1849886154)
 - [Lifehacker] [The Best Way to Split an Egg When You’re Cutting a Recipe in Half](https://lifehacker.com/the-best-way-to-split-an-egg-when-you-re-cutting-a-reci-1849887360)
 - [Lifehacker] [You Need a Home Maintenance Binder &lpar;and What to Put in It&rpar;](https://lifehacker.com/you-need-a-home-maintenance-binder-and-what-to-put-in-1849886014)
