@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 7 Featured DEV Posts &lpar;#javascript&rpar; from the Past Week](https://dev.to/c4r4x35/top-7-featured-dev-posts-javascript-from-the-past-week-3ig1)
+- [Dev.to/JS] [Applying Design Patterns in React: Strategy Pattern](https://dev.to/itshugo/applying-design-patterns-in-react-strategy-pattern-enn)
+- [Dev.to/JS] [Amarose Skin Tag Removar - Skin Care Solution, Price, Benefits And Reviews?](https://dev.to/ydsakhbsa/amarose-skin-tag-removar-skin-care-solution-price-benefits-and-reviews-5dei)
+- [Dev.to/JS] [Crea una función Lambda con Serverless Framework y Datadog](https://dev.to/dani_avila7/crea-una-funcion-lambda-con-serverless-framework-y-datadog-2ol8)
+- [Dev.to/JS] [Best Way to Create Dynamic Modules in NestJS](https://dev.to/nooptoday/best-way-to-create-dynamic-modules-in-nestjs-5003)
 - [Dev.to/JS] [Arrays in JavaScript](https://dev.to/indirakumar/arrays-in-javascript-3041)
 - [Dev.to/JS] [What is the shortest way to describe product development?](https://dev.to/amelia792/what-is-the-shortest-way-to-describe-product-development-1bgk)
 - [Dev.to/JS] [Weekly web development resources #128](https://dev.to/vincenius/weekly-web-development-resources-128-2nh7)
@@ -30,15 +35,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [198. Leetcode Solution in javascript](https://dev.to/chiki1601/198-leetcode-solution-in-javascript-492f)
 - [Dev.to/JS] [When do you use setState with a callback?](https://dev.to/csituma/when-do-you-use-setstate-with-a-callback-1f3g)
 - [Dev.to/JS] [Part 1 - Fullstack Journey](https://dev.to/lleamancio/part-1-fullstack-journey-2o44)
-- [Dev.to/JS] [7 Best Node.js Logging Libraries for Your Next Projects](https://dev.to/devland/7-best-nodejs-logging-libraries-for-your-next-projects-38df)
-- [Dev.to/JS] [A little about Typescript Utility Types](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)
-- [Dev.to/JS] [Zod - Validate your API inputs with ease](https://dev.to/sammy1999/zod-validate-your-api-inputs-with-ease-2on9)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
-- [Dev.to/JS] [Array.sort&lpar;&rpar; in JavaScript - I was asked about this in an interview](https://dev.to/mhm13dev/arraysort-in-javascript-i-was-asked-about-this-in-an-interview-387)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
 - [Lifehacker] [11 of the Best New Features in iOS 16.2](https://lifehacker.com/11-of-the-best-new-features-in-ios-16-2-1849888579)
-- [Dev.to/JS] [Stylify CSS: Automagic CSS bundles splitting into CSS layers in Astro.build](https://dev.to/machy8/stylify-css-automagic-css-bundles-splitting-into-css-layers-in-astrobuild-3po9)
 - [Lifehacker] [Throw Away These Recalled COVID Test Kits](https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056)
 - [Lifehacker] [LASIK Has More Risks Than You Probably Realize](https://lifehacker.com/lasik-has-more-risks-than-you-probably-realize-1849888998)
 - [Lifehacker] [HBO Max Has a Hidden ‘Yule Log’ Horror Movie](https://lifehacker.com/hbo-max-has-a-hidden-yule-log-horror-movie-1849888811)
