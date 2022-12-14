@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [No, the ‘Salad Dressing Cleaning Hack’ Doesn’t Work &lpar;but This Does&rpar;](https://lifehacker.com/no-the-salad-dressing-cleaning-hack-doesn-t-work-bu-1849893452)
+- [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free Right Now](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-right-now-1849893884)
 - [Lifehacker] [The Mystery of &#39;Mario Kart 7&#39;s Strange Update](https://lifehacker.com/the-mystery-of-mario-kart-7s-strange-update-1849893179)
 - [Dev.to/JS] [Don&#39;t use &#39;&amp;&amp;&#39; for conditional reasoning](https://dev.to/aishanipach/dont-use-for-conditional-reasoning-3525)
 - [Dev.to/JS] [Introduction to Vite: the lightning-fast module bundler](https://dev.to/codemaker2015/introduction-to-vite-the-lightning-fast-module-bundler-32mm)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Split an Egg When You’re Cutting a Recipe in Half](https://lifehacker.com/the-best-way-to-split-an-egg-when-you-re-cutting-a-reci-1849887360)
 - [Lifehacker] [You Need a Home Maintenance Binder &lpar;and What to Put in It&rpar;](https://lifehacker.com/you-need-a-home-maintenance-binder-and-what-to-put-in-1849886014)
 - [Lifehacker] [12 of the Weirdest Video Game Peripherals Ever Made](https://lifehacker.com/12-of-the-weirdest-video-game-peripherals-ever-made-1849886219)
-- [Lifehacker] [You Can Get ‘Saints Row IV Re-Elected’ for Free Right Now](https://lifehacker.com/you-can-get-saints-row-iv-re-elected-for-free-right-n-1849884926)
-- [Lifehacker] [How to Know It&#39;s Time to Say Goodbye to a Kitchen Appliance](https://lifehacker.com/how-to-know-its-time-to-say-goodbye-to-a-kitchen-applia-1849883895)
-- [Lifehacker] [These Subaru SUVs Need to Be Parked Outside Before They Catch Fire](https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get ‘Saints Row IV Re-Elected’ for Free Right Now](https://lifehacker.com/you-can-get-saints-row-iv-re-elected-for-free-right-n-1849884926)<!-- TECH-POSTS:END -->
 
 ---
 
