@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
+- [Dev.to/JS] [Demystifying Linked Lists](https://dev.to/ladoppiaesse/demystifying-linked-lists-1bno)
+- [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
 - [Dev.to/JS] [Fixing Class Composition in Tailwind CSS](https://dev.to/areknawo/fixing-class-composition-in-tailwind-css-1k4d)
 - [Lifehacker] [Use This App to Reduce Battery Drain on Your MacBook](https://lifehacker.com/use-this-app-to-reduce-battery-drain-on-your-macbook-1849892452)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [15 Javascript Browser APIs](https://dev.to/hidaytrahman/15-javascript-browser-apis-3d17)
 - [Dev.to/JS] [Unlock Next Level Web Design: 15 Inspirational Websites!](https://dev.to/nftslab/unlock-next-level-web-design-15-inspirational-websites-26al)
 - [Lifehacker] [7 Apps to Get the Best Mac Features on Windows](https://lifehacker.com/7-apps-to-get-the-best-mac-features-on-windows-1849891578)
-- [Dev.to/JS] [Distress Signal](https://dev.to/rmion/distress-signal-35hk)
 - [Lifehacker] [Stop Putting Dryer Sheets in Your Vents](https://lifehacker.com/stop-putting-dryer-sheets-in-your-vents-1849891225)
 - [Lifehacker] [Why Does Hanukkah Move Around Every Year?](https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312)
 - [Lifehacker] [12 Criminally Overlooked Video Games You Can Still Play Today](https://lifehacker.com/12-criminally-overlooked-video-games-you-can-still-play-1849890477)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [LASIK Has More Risks Than You Probably Realize](https://lifehacker.com/lasik-has-more-risks-than-you-probably-realize-1849888998)
 - [Lifehacker] [HBO Max Has a Hidden ‘Yule Log’ Horror Movie](https://lifehacker.com/hbo-max-has-a-hidden-yule-log-horror-movie-1849888811)
 - [Lifehacker] [Take This Test to Know Which Smartphone Camera You Really Like the Most](https://lifehacker.com/take-this-test-to-know-which-smartphone-camera-you-real-1849887577)
-- [Lifehacker] [The Safest Way to &#39;Delete&#39; Your Twitter Account](https://lifehacker.com/the-safest-way-to-delete-your-twitter-account-1849888259)
-- [Lifehacker] [Ten Incredibly Useful Menu Bar Apps You Should Install on Your Mac](https://lifehacker.com/ten-incredibly-useful-menu-bar-apps-you-should-install-1849887075)
-- [Lifehacker] [The Easiest Ways to Soundproof a Room](https://lifehacker.com/the-easiest-ways-to-soundproof-a-room-1849886154)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Safest Way to &#39;Delete&#39; Your Twitter Account](https://lifehacker.com/the-safest-way-to-delete-your-twitter-account-1849888259)<!-- TECH-POSTS:END -->
 
 ---
 
