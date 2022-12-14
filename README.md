@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎄JS Advent #7 - Destructuring 🎄](https://dev.to/jtlavs/js-advent-7-destructuring-onm)
+- [Dev.to/JS] [🎄JS Advent #6 - Host vs Native objects🎄](https://dev.to/jtlavs/js-advent-6-host-vs-native-objects-4opg)
+- [Lifehacker] [11 of the Dopest Weed Gadgets to Give a Tech-Savvy Stoner](https://lifehacker.com/11-of-the-dopest-weed-gadgets-to-give-a-tech-savvy-ston-1849894383)
+- [Dev.to/JS] [Understanding Syntax While Writing a Function in JS](https://dev.to/kellilil/understanding-syntax-while-writing-a-function-in-js-2133)
+- [Dev.to/JS] [Back to the future: Navigation API](https://dev.to/romaintrotard/back-to-the-future-navigation-api-2j7f)
 - [Lifehacker] [No, the ‘Salad Dressing Cleaning Hack’ Doesn’t Work &lpar;but This Does&rpar;](https://lifehacker.com/no-the-salad-dressing-cleaning-hack-doesn-t-work-bu-1849893452)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free Right Now](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-right-now-1849893884)
 - [Lifehacker] [The Mystery of &#39;Mario Kart 7&#39;s Strange Update](https://lifehacker.com/the-mystery-of-mario-kart-7s-strange-update-1849893179)
@@ -39,13 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [react useEffect&lpar;&rpar; Hook &lpar;Web Dev Simplified&rpar;](https://dev.to/akshdesai1/react-useeffect-hook-web-dev-simplified-7f7)
 - [Lifehacker] [Stop Putting Dryer Sheets in Your Vents](https://lifehacker.com/stop-putting-dryer-sheets-in-your-vents-1849891225)
 - [Dev.to/JS] [Creating a scheduling app: I wish somebody showed me this technique when I first started coding 🤔](https://dev.to/novu/creating-a-scheduling-app-i-wish-somebody-showed-me-this-technique-when-i-first-started-coding-2icd)
-- [Dev.to/JS] [JavaScript Callback Functions explained in their simplest form.](https://dev.to/dustin4d/javascript-callback-functions-explained-in-their-simplest-form-45p6)
 - [Lifehacker] [Why Does Hanukkah Move Around Every Year?](https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312)
-- [Dev.to/JS] [Javascript Advance Array Methods You Should Know](https://dev.to/shivamblog/javascript-advance-array-methods-you-should-know-3el3)
 - [Lifehacker] [12 Criminally Overlooked Video Games You Can Still Play Today](https://lifehacker.com/12-criminally-overlooked-video-games-you-can-still-play-1849890477)
-- [Dev.to/JS] [Comparar dos Objetos en JavaScript](https://dev.to/asjordi/comparar-dos-objetos-en-javascript-3bmk)
 - [Lifehacker] [Get a Cheap Thrill With Sweetened Cream Cheese](https://lifehacker.com/get-a-cheap-thrill-with-sweetened-cream-cheese-1849890869)
-- [Dev.to/JS] [C++ga kirish](https://dev.to/charos1mm/cga-kirish-35d8)
 - [Lifehacker] [This Might Be the Best Way to Stop Falling for Misinformation](https://lifehacker.com/this-might-be-the-best-way-to-stop-falling-for-bullshit-1849890110)
 - [Lifehacker] [Why You Should Be Air-Frying Your Tofu Before Marinating It](https://lifehacker.com/why-you-should-be-air-frying-your-tofu-before-marinatin-1849889987)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Soundproof a Room](https://lifehacker.com/the-easiest-ways-to-soundproof-a-room-1849886154)
 - [Lifehacker] [The Best Way to Split an Egg When You’re Cutting a Recipe in Half](https://lifehacker.com/the-best-way-to-split-an-egg-when-you-re-cutting-a-reci-1849887360)
 - [Lifehacker] [You Need a Home Maintenance Binder &lpar;and What to Put in It&rpar;](https://lifehacker.com/you-need-a-home-maintenance-binder-and-what-to-put-in-1849886014)
-- [Lifehacker] [12 of the Weirdest Video Game Peripherals Ever Made](https://lifehacker.com/12-of-the-weirdest-video-game-peripherals-ever-made-1849886219)
-- [Lifehacker] [You Can Get ‘Saints Row IV Re-Elected’ for Free Right Now](https://lifehacker.com/you-can-get-saints-row-iv-re-elected-for-free-right-n-1849884926)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 of the Weirdest Video Game Peripherals Ever Made](https://lifehacker.com/12-of-the-weirdest-video-game-peripherals-ever-made-1849886219)<!-- TECH-POSTS:END -->
 
 ---
 
