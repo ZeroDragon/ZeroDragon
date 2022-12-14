@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comparar dos Objetos en JavaScript](https://dev.to/asjordi/comparar-dos-objetos-en-javascript-3bmk)
+- [Lifehacker] [Get a Cheap Thrill With Sweetened Cream Cheese](https://lifehacker.com/get-a-cheap-thrill-with-sweetened-cream-cheese-1849890869)
+- [Dev.to/JS] [C++ga kirish](https://dev.to/charos1mm/cga-kirish-35d8)
+- [Dev.to/JS] [Tailwindcss vs Bootstrap: Which is Better for Your Project?](https://dev.to/ariellun/tailwindcss-vs-bootstrap-which-is-better-for-your-project-5b3o)
+- [Lifehacker] [This Might Be the Best Way to Stop Falling for Misinformation](https://lifehacker.com/this-might-be-the-best-way-to-stop-falling-for-bullshit-1849890110)
+- [Dev.to/JS] [Resources You Need As a DevRel](https://dev.to/patilganesh1010/resources-you-need-as-a-devrel-pl0)
+- [Dev.to/JS] [How to build a pomodoro timer in JavaScrpt](https://dev.to/jospinkanane/how-to-build-a-pomodoro-timer-in-javascrpt-1mmd)
 - [Lifehacker] [Why You Should Be Air-Frying Your Tofu Before Marinating It](https://lifehacker.com/why-you-should-be-air-frying-your-tofu-before-marinatin-1849889987)
 - [Dev.to/JS] [Uncovering Open Source B2B Ecommerce](https://dev.to/medusajs/uncovering-open-source-b2b-ecommerce-4lbp)
 - [Dev.to/JS] [What is bubble Sort in JavaScript how it is used](https://dev.to/asish0sahu/what-is-bubble-sort-in-javascript-how-it-is-used-djk)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Calculator with History Function in HTML, CSS, and JavaScript](https://dev.to/maxim_maeder/calculator-with-history-function-in-html-css-and-javascript-2ggd)
 - [Dev.to/JS] [Notifying Subscribers when an Amazon IVS Stream Is Online](https://dev.to/aws/notifying-subscribers-when-an-amazon-ivs-stream-is-online-f1c)
 - [Dev.to/JS] [Moonly weekly progress update #27](https://dev.to/moonly/moonly-weekly-progress-update-27-1p2m)
-- [Dev.to/JS] [How to Create Admin Panel Application](https://dev.to/flatlogic/how-to-create-admin-panel-application-5cm)
-- [Dev.to/JS] [Code Smell 186 - Hardcoded Business Conditions](https://dev.to/mcsee/code-smell-186-hardcoded-business-conditions-3m5h)
-- [Dev.to/JS] [dfsd](https://dev.to/jeevanjose1/dfsd-4p30)
-- [Dev.to/JS] [Angular vs React vs Vue: Which Framework is Best to Choose in 2023?](https://dev.to/himadripatelace/angular-vs-react-vs-vue-which-framework-is-best-to-choose-in-2023-4mgp)
-- [Dev.to/JS] [Solving day 14 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-14-of-advent-of-code-2022-in-javascript-37j8)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best Gifts for Someone Who Needs Help Relaxing](https://lifehacker.com/12-of-the-best-gifts-for-someone-who-needs-help-relaxin-1849883700)
 - [Lifehacker] [How to Feel More at Home When Traveling for the Holidays](https://lifehacker.com/how-to-feel-more-at-home-when-traveling-for-the-holiday-1849882815)
 - [Lifehacker] [That Terrifying Call From Your ‘Mom’ Might Be a Scam](https://lifehacker.com/that-terrifying-call-from-your-mom-might-be-a-scam-1849883646)
-- [Lifehacker] [Why You Should Slice the Potatoes for Your Next Mash](https://lifehacker.com/why-you-should-slice-the-potatoes-for-your-next-mash-1849883620)
-- [Lifehacker] [You Can Get a Free McDonald’s Crispy Chicken Sandwich Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-crispy-chicken-sandwich-r-1849883072)
-- [Lifehacker] [Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Slice the Potatoes for Your Next Mash](https://lifehacker.com/why-you-should-slice-the-potatoes-for-your-next-mash-1849883620)<!-- TECH-POSTS:END -->
 
 ---
 
