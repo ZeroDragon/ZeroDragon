@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10+ Best Vue Starter Kits and Boilerplates](https://dev.to/flatlogic/10-best-vue-starter-kits-and-boilerplates-1i09)
+- [Dev.to/JS] [Transform image to base64 with promise based function](https://dev.to/javihornero/transform-image-to-base64-with-promise-based-function-19d6)
+- [Dev.to/JS] [useReducer hook in React &lpar;No redux here&rpar;](https://dev.to/csituma/usereducer-hook-in-react-no-redux-here-4mb5)
+- [Dev.to/JS] [Unexpected end of form when sending form data with Postman- Multer](https://dev.to/brightmiledaniel/unexpected-end-of-form-when-sending-form-data-with-postman-multer-24bj)
+- [Dev.to/JS] [Automating basic website creation with Node.js](https://dev.to/aykacode/automating-basic-website-creation-with-nodejs-1d0i)
 - [Dev.to/JS] [Set the theme of a website based on the time of the day &lpar;no external library&rpar;](https://dev.to/mohsenkamrani/set-the-theme-of-a-website-based-on-the-time-of-the-day-no-external-library-5ank)
 - [Dev.to/JS] [Angular Support for SurveyJS Form Library and Creator](https://dev.to/surveyjs/angular-support-for-surveyjs-form-library-and-creator-14g9)
 - [Dev.to/JS] [TypeScript One Liners](https://dev.to/preethamntp/typescript-one-liners-455e)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TIL; JavaScript Jest - matchers](https://dev.to/seyofori/javascript-jest-til-matchers-1coh)
 - [Dev.to/JS] [Vendure - Importing data](https://dev.to/dailydevtips1/vendure-importing-data-1g15)
 - [Dev.to/JS] [How to make Flappy Bird game using HTML5?](https://dev.to/trackhuynk/how-to-make-flappy-bird-game-using-html5-7kj)
-- [Dev.to/JS] [Nest JS Tutorial #3 - Query &amp; Route Params](https://dev.to/nandhakumar/nest-js-tutorial-3-query-route-params-3gi4)
-- [Dev.to/JS] [How would I start learning Web development : 5 Steps to Become a Proficient Web Developer](https://dev.to/pawan67/how-would-i-start-learning-web-development-5-steps-to-become-a-proficient-web-developer-1an2)
-- [Dev.to/JS] [Best Free Resources for Web development](https://dev.to/pawan67/best-free-resource-for-web-development-15np)
-- [Dev.to/JS] [Nextjs is Powerful than Reactjs ????](https://dev.to/develop92001047/nextjs-is-powerful-than-reactjs--1kbm)
-- [Dev.to/JS] [My Internship Journey at Dragonfruit AI](https://dev.to/sidmohanty11/my-internship-journey-at-dragonfruit-ai-51j4)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
