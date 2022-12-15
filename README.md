@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TIL; JavaScript Jest - matchers](https://dev.to/seyofori/javascript-jest-til-matchers-1coh)
+- [Dev.to/JS] [Vendure - Importing data](https://dev.to/dailydevtips1/vendure-importing-data-1g15)
 - [Dev.to/JS] [How to make Flappy Bird game using HTML5?](https://dev.to/trackhuynk/how-to-make-flappy-bird-game-using-html5-7kj)
 - [Dev.to/JS] [Nest JS Tutorial #3 - Query &amp; Route Params](https://dev.to/nandhakumar/nest-js-tutorial-3-query-route-params-3gi4)
 - [Dev.to/JS] [How would I start learning Web development : 5 Steps to Become a Proficient Web Developer](https://dev.to/pawan67/how-would-i-start-learning-web-development-5-steps-to-become-a-proficient-web-developer-1an2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Previewing Markdown code with React](https://dev.to/asayerio_techblog/previewing-markdown-code-with-react-22h3)
 - [Dev.to/JS] [Optimistic UI with SWR2](https://dev.to/nicolasmontone/optimistic-ui-with-swr2-5ebf)
 - [Dev.to/JS] [How to embed live code editor for React components in MDX docs](https://dev.to/sabigara/how-to-embed-live-code-editor-for-react-components-in-mdx-docs-1655)
-- [Dev.to/JS] [How to Create and Manage Virtual Domains using Node.js](https://dev.to/devland/how-to-create-and-manage-virtual-domains-using-nodejs-3h14)
-- [Dev.to/JS] [Gatsby SEO: Manage robot text file in different environments](https://dev.to/mylifeforaiur/gatsby-seo-manage-robot-text-file-in-different-environments-2lb)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
