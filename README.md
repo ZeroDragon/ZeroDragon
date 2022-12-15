@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Set the theme of a website based on the time of the day &lpar;no external library&rpar;](https://dev.to/mohsenkamrani/set-the-theme-of-a-website-based-on-the-time-of-the-day-no-external-library-5ank)
+- [Dev.to/JS] [Angular Support for SurveyJS Form Library and Creator](https://dev.to/surveyjs/angular-support-for-surveyjs-form-library-and-creator-14g9)
+- [Dev.to/JS] [TypeScript One Liners](https://dev.to/preethamntp/typescript-one-liners-455e)
+- [Dev.to/JS] [The benefits of DevOps Strategies](https://dev.to/kanishedureka/the-benefits-of-devops-strategies-a5g)
 - [Dev.to/JS] [TIL; JavaScript Jest - matchers](https://dev.to/seyofori/javascript-jest-til-matchers-1coh)
 - [Dev.to/JS] [Vendure - Importing data](https://dev.to/dailydevtips1/vendure-importing-data-1g15)
 - [Dev.to/JS] [How to make Flappy Bird game using HTML5?](https://dev.to/trackhuynk/how-to-make-flappy-bird-game-using-html5-7kj)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Free Resources for Web development](https://dev.to/pawan67/best-free-resource-for-web-development-15np)
 - [Dev.to/JS] [Nextjs is Powerful than Reactjs ????](https://dev.to/develop92001047/nextjs-is-powerful-than-reactjs--1kbm)
 - [Dev.to/JS] [My Internship Journey at Dragonfruit AI](https://dev.to/sidmohanty11/my-internship-journey-at-dragonfruit-ai-51j4)
-- [Dev.to/JS] [Javascript map&lpar;&rpar; function](https://dev.to/atharvashankar/javascript-map-function-2kfd)
-- [Dev.to/JS] [Previewing Markdown code with React](https://dev.to/asayerio_techblog/previewing-markdown-code-with-react-22h3)
-- [Dev.to/JS] [Optimistic UI with SWR2](https://dev.to/nicolasmontone/optimistic-ui-with-swr2-5ebf)
-- [Dev.to/JS] [How to embed live code editor for React components in MDX docs](https://dev.to/sabigara/how-to-embed-live-code-editor-for-react-components-in-mdx-docs-1655)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
