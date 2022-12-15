@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Best Free Resource for Web development](https://dev.to/pawan67/best-free-resource-for-web-development-15np)
+- [Dev.to/JS] [How to make Flappy Bird game using HTML5?](https://dev.to/trackhuynk/how-to-make-flappy-bird-game-using-html5-7kj)
+- [Dev.to/JS] [Nest JS Tutorial #3 - Query &amp; Route Params](https://dev.to/nandhakumar/nest-js-tutorial-3-query-route-params-3gi4)
+- [Dev.to/JS] [How would I start learning Web development : 5 Steps to Become a Proficient Web Developer](https://dev.to/pawan67/how-would-i-start-learning-web-development-5-steps-to-become-a-proficient-web-developer-1an2)
+- [Dev.to/JS] [Best Free Resources for Web development](https://dev.to/pawan67/best-free-resource-for-web-development-15np)
 - [Dev.to/JS] [Nextjs is Powerful than Reactjs ????](https://dev.to/develop92001047/nextjs-is-powerful-than-reactjs--1kbm)
 - [Dev.to/JS] [My Internship Journey at Dragonfruit AI](https://dev.to/sidmohanty11/my-internship-journey-at-dragonfruit-ai-51j4)
 - [Dev.to/JS] [Javascript map&lpar;&rpar; function](https://dev.to/atharvashankar/javascript-map-function-2kfd)
@@ -33,11 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create and Manage Virtual Domains using Node.js](https://dev.to/devland/how-to-create-and-manage-virtual-domains-using-nodejs-3h14)
 - [Dev.to/JS] [Gatsby SEO: Manage robot text file in different environments](https://dev.to/mylifeforaiur/gatsby-seo-manage-robot-text-file-in-different-environments-2lb)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
-- [Dev.to/JS] [SvelteKit 1.0 Has Been Released! 🥳](https://dev.to/kvetoslavnovak/sveltekit-10-has-been-released-23me)
-- [Dev.to/JS] [Demystifying Linked Lists](https://dev.to/ladoppiaesse/demystifying-linked-lists-1bno)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
-- [Dev.to/JS] [Fixing Class Composition in Tailwind CSS](https://dev.to/areknawo/fixing-class-composition-in-tailwind-css-1k4d)
 - [Lifehacker] [Use This App to Reduce Battery Drain on Your MacBook](https://lifehacker.com/use-this-app-to-reduce-battery-drain-on-your-macbook-1849892452)
 - [Lifehacker] [Your Nintendo Switch Has a Spotify Wrapped-style ‘Year in Review’](https://lifehacker.com/your-nintendo-switch-has-a-spotify-wrapped-style-year-1849893792)
 - [Lifehacker] [11 of the Dopest Weed Gadgets to Give a Tech-Savvy Stoner](https://lifehacker.com/11-of-the-dopest-weed-gadgets-to-give-a-tech-savvy-ston-1849894383)
