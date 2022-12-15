@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript map&lpar;&rpar; function](https://dev.to/atharvashankar/javascript-map-function-2kfd)
 - [Dev.to/JS] [Previewing Markdown code with React](https://dev.to/asayerio_techblog/previewing-markdown-code-with-react-22h3)
 - [Dev.to/JS] [Optimistic UI with SWR2](https://dev.to/nicolasmontone/optimistic-ui-with-swr2-5ebf)
 - [Dev.to/JS] [How to embed live code editor for React components in MDX docs](https://dev.to/sabigara/how-to-embed-live-code-editor-for-react-components-in-mdx-docs-1655)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎄JS Advent #7 - Destructuring 🎄](https://dev.to/jtlavs/js-advent-7-destructuring-onm)
 - [Dev.to/JS] [🎄JS Advent #6 - Host vs Native objects🎄](https://dev.to/jtlavs/js-advent-6-host-vs-native-objects-4opg)
 - [Lifehacker] [11 of the Dopest Weed Gadgets to Give a Tech-Savvy Stoner](https://lifehacker.com/11-of-the-dopest-weed-gadgets-to-give-a-tech-savvy-ston-1849894383)
-- [Dev.to/JS] [Understanding Syntax While Writing a Function in JS](https://dev.to/kellilil/understanding-syntax-while-writing-a-function-in-js-2133)
 - [Lifehacker] [No, the ‘Salad Dressing Cleaning Hack’ Doesn’t Work &lpar;but This Does&rpar;](https://lifehacker.com/no-the-salad-dressing-cleaning-hack-doesn-t-work-bu-1849893452)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free Right Now](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-right-now-1849893884)
 - [Lifehacker] [The Mystery of &#39;Mario Kart 7&#39;s Strange Update](https://lifehacker.com/the-mystery-of-mario-kart-7s-strange-update-1849893179)
