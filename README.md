@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pagination with Javascript](https://dev.to/shubhamtiwari909/pagination-with-javascript-2a0)
+- [Dev.to/JS] [Two-phase Model-based Testing](https://dev.to/lambdatest/two-phase-model-based-testing-5ckh)
+- [Dev.to/JS] [Fault-Based Testing and the Pesticide Paradox](https://dev.to/lambdatest/fault-based-testing-and-the-pesticide-paradox-4i8b)
+- [Dev.to/JS] [Não só de Teoria vive um Programador](https://dev.to/viniciosragazzi/nao-so-de-teoria-vive-um-programador-3605)
+- [Dev.to/JS] [Essential CBD Gummies Price](https://dev.to/essentialcbdg19/essential-cbd-gummies-price-1fl0)
 - [Dev.to/JS] [How to build a piano with only HTML, CSS, Javascript ?](https://dev.to/lotfijb/how-to-create-a-piano-with-only-html-css-javascript--3lk3)
 - [Dev.to/JS] [Student Management System | Django |](https://dev.to/madhubankhatri/student-management-system-django--316m)
 - [Dev.to/JS] [JavaScript Fundamentals: Number Variable, Multiple Variables, Booleans, Strings](https://dev.to/astrodevil/javascript-fundamentals-number-variable-multiple-variables-booleans-strings-6nm)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NEWBIE](https://dev.to/tjojas/newbie-2mm8)
 - [Dev.to/JS] [Better conditional rendering](https://dev.to/adelit/better-conditional-rendering-45i6)
 - [Dev.to/JS] [10+ Best Vue Starter Kits and Boilerplates](https://dev.to/flatlogic/10-best-vue-starter-kits-and-boilerplates-1i09)
-- [Dev.to/JS] [Transform image to base64 with promise based function](https://dev.to/javihornero/transform-image-to-base64-with-promise-based-function-19d6)
-- [Dev.to/JS] [useReducer hook in React &lpar;No redux here&rpar;](https://dev.to/csituma/usereducer-hook-in-react-no-redux-here-4mb5)
-- [Dev.to/JS] [Unexpected end of form when sending form data with Postman- Multer](https://dev.to/brightmiledaniel/unexpected-end-of-form-when-sending-form-data-with-postman-multer-24bj)
-- [Dev.to/JS] [Automating basic website creation with Node.js](https://dev.to/aykacode/automating-basic-website-creation-with-nodejs-1d0i)
-- [Dev.to/JS] [Set the theme of a website based on the time of the day &lpar;no external library&rpar;](https://dev.to/mohsenkamrani/set-the-theme-of-a-website-based-on-the-time-of-the-day-no-external-library-5ank)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
