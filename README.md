@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build a piano with only HTML, CSS, Javascript ?](https://dev.to/lotfijb/how-to-create-a-piano-with-only-html-css-javascript--3lk3)
+- [Dev.to/JS] [Student Management System | Django |](https://dev.to/madhubankhatri/student-management-system-django--316m)
+- [Dev.to/JS] [JavaScript Fundamentals: Number Variable, Multiple Variables, Booleans, Strings](https://dev.to/astrodevil/javascript-fundamentals-number-variable-multiple-variables-booleans-strings-6nm)
 - [Dev.to/JS] [React reconciliation](https://dev.to/fpaghar/react-reconciliation-1gai)
 - [Dev.to/JS] [NEWBIE](https://dev.to/tjojas/newbie-2mm8)
 - [Dev.to/JS] [Better conditional rendering](https://dev.to/adelit/better-conditional-rendering-45i6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unexpected end of form when sending form data with Postman- Multer](https://dev.to/brightmiledaniel/unexpected-end-of-form-when-sending-form-data-with-postman-multer-24bj)
 - [Dev.to/JS] [Automating basic website creation with Node.js](https://dev.to/aykacode/automating-basic-website-creation-with-nodejs-1d0i)
 - [Dev.to/JS] [Set the theme of a website based on the time of the day &lpar;no external library&rpar;](https://dev.to/mohsenkamrani/set-the-theme-of-a-website-based-on-the-time-of-the-day-no-external-library-5ank)
-- [Dev.to/JS] [Angular Support for SurveyJS Form Library and Creator](https://dev.to/surveyjs/angular-support-for-surveyjs-form-library-and-creator-14g9)
-- [Dev.to/JS] [TypeScript One Liners](https://dev.to/preethamntp/typescript-one-liners-455e)
-- [Dev.to/JS] [The benefits of DevOps Strategies](https://dev.to/kanishedureka/the-benefits-of-devops-strategies-a5g)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
