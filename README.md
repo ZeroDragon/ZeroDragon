@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GraphQL cursor base Pagination with Apollo](https://dev.to/fpaghar/graphql-cursor-base-pagination-with-apollo-3fjg)
+- [Lifehacker] [Human Towers, Wine Horses, and 12 Other Bits of &#39;Intangible Cultural Heritage&#39; Worth Celebrating](https://lifehacker.com/human-towers-wine-horses-and-12-other-bits-of-intangi-1849894190)
+- [Dev.to/JS] [Solving day 15 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-15-of-advent-of-code-2022-in-javascript-3n9c)
+- [Lifehacker] [14 of the Best Gifts for Someone in the Hospital, According to Nurses](https://lifehacker.com/14-of-the-best-gifts-for-someone-in-the-hospital-accor-1849894755)
+- [Dev.to/JS] [If we create a responsive web application with HTML5 &amp; CSS3 why do we still need JavaScript?](https://dev.to/bisiolayemi/if-we-create-a-responsive-web-application-with-html5-css3-why-do-we-still-need-javascript-1m03)
 - [Lifehacker] [Make Even Better Tempeh by Steaming It First](https://lifehacker.com/make-even-better-tempeh-by-steaming-it-first-1849895182)
 - [Dev.to/JS] [How to create a React app for a complete Beginner](https://dev.to/darkxenium/how-to-create-a-react-app-for-a-complete-beginner-50ph)
 - [Dev.to/JS] [From Zero to Hero: An Ultimate Guide to Acing Google Summer of Code](https://dev.to/thenomadevel/from-zero-to-hero-an-ultimate-guide-to-acing-google-summer-of-code-577p)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Essential CBD Gummies Price](https://dev.to/essentialcbdg19/essential-cbd-gummies-price-1fl0)
 - [Dev.to/JS] [How to build a piano with only HTML, CSS, Javascript ?](https://dev.to/lotfijb/how-to-create-a-piano-with-only-html-css-javascript--3lk3)
 - [Dev.to/JS] [Student Management System | Django |](https://dev.to/madhubankhatri/student-management-system-django--316m)
-- [Dev.to/JS] [JavaScript Fundamentals: Number Variable, Multiple Variables, Booleans, Strings](https://dev.to/astrodevil/javascript-fundamentals-number-variable-multiple-variables-booleans-strings-6nm)
-- [Dev.to/JS] [React reconciliation](https://dev.to/fpaghar/react-reconciliation-1gai)
-- [Dev.to/JS] [NEWBIE](https://dev.to/tjojas/newbie-2mm8)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
 - [Lifehacker] [11 of the Best New Features in iOS 16.2](https://lifehacker.com/11-of-the-best-new-features-in-ios-16-2-1849888579)
 - [Lifehacker] [Throw Away These Recalled COVID Test Kits](https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056)
-- [Lifehacker] [LASIK Has More Risks Than You Probably Realize](https://lifehacker.com/lasik-has-more-risks-than-you-probably-realize-1849888998)
-- [Lifehacker] [HBO Max Has a Hidden ‘Yule Log’ Horror Movie](https://lifehacker.com/hbo-max-has-a-hidden-yule-log-horror-movie-1849888811)
-- [Lifehacker] [Take This Test to Know Which Smartphone Camera You Really Like the Most](https://lifehacker.com/take-this-test-to-know-which-smartphone-camera-you-real-1849887577)<!-- TECH-POSTS:END -->
+- [Lifehacker] [LASIK Has More Risks Than You Probably Realize](https://lifehacker.com/lasik-has-more-risks-than-you-probably-realize-1849888998)<!-- TECH-POSTS:END -->
 
 ---
 
