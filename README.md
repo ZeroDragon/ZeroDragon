@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 of the Best Gifts for Teachers, According to Teachers](https://lifehacker.com/8-of-the-best-gifts-for-teachers-according-to-teachers-1849899654)
+- [Dev.to/JS] [What is prototypes and how it works in JavaScript ?](https://dev.to/erhaneth/what-is-prototypes-and-how-it-works-in-javascript--32hk)
+- [Dev.to/JS] [How can ChatGPT help junior web programmers in learning and work?](https://dev.to/naskovic/how-can-chatgpt-help-junior-web-programmers-in-learning-and-work-4af6)
+- [Dev.to/JS] [Typescript Exceed Recursion Limitation](https://dev.to/tylim88/typescript-exceed-recursion-limitation-18pm)
+- [Dev.to/JS] [Journey Of Being Diploma Computer Engineer 🎓](https://dev.to/karansanghvi/journey-of-being-diploma-computer-engineer-23g)
+- [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)
+- [Lifehacker] [14 of the Best Gifts for Anyone Who Loves Cheese](https://lifehacker.com/14-of-the-best-gifts-for-anyone-who-loves-cheese-1849899389)
 - [Dev.to/JS] [If I would rewrite React from scratch it would look like this](https://dev.to/xania/if-i-would-rewrite-react-from-scratch-it-would-look-like-this-553d)
 - [Dev.to/JS] [Cadl: a new IDL](https://dev.to/tedneward/cadl-a-new-idl-5b1e)
 - [Lifehacker] [The 12 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)
@@ -38,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Concat Arrays Type](https://dev.to/tylim88/typescript-concat-arrays-type-1db)
 - [Lifehacker] [10 Movies That Tricked People Into Watching Them](https://lifehacker.com/10-movies-that-tricked-people-into-watching-them-1849896041)
 - [Dev.to/JS] [Barry](https://dev.to/aboucodeur/barry-28h2)
-- [Dev.to/JS] [Why use NotifyLog?](https://dev.to/notifylog/why-use-notifylog-1hc7)
-- [Dev.to/JS] [GraphQL cursor base Pagination with Apollo](https://dev.to/fpaghar/graphql-cursor-base-pagination-with-apollo-3fjg)
 - [Lifehacker] [Human Towers, Wine Horses, and 12 Other Bits of &#39;Intangible Cultural Heritage&#39; Worth Celebrating](https://lifehacker.com/human-towers-wine-horses-and-12-other-bits-of-intangi-1849894190)
-- [Dev.to/JS] [Solving day 15 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-15-of-advent-of-code-2022-in-javascript-3n9c)
 - [Lifehacker] [14 of the Best Gifts for Someone in the Hospital, According to Nurses](https://lifehacker.com/14-of-the-best-gifts-for-someone-in-the-hospital-accor-1849894755)
-- [Dev.to/JS] [If we create a responsive web application with HTML5 &amp; CSS3 why do we still need JavaScript?](https://dev.to/bisiolayemi/if-we-create-a-responsive-web-application-with-html5-css3-why-do-we-still-need-javascript-1m03)
 - [Lifehacker] [Make Even Better Tempeh by Steaming It First](https://lifehacker.com/make-even-better-tempeh-by-steaming-it-first-1849895182)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 of the Best TV Deals You Can Still Get Before Christmas](https://lifehacker.com/6-of-the-best-tv-deals-you-can-still-get-before-christm-1849890432)
 - [Lifehacker] [7 Apps to Get the Best Mac Features on Windows](https://lifehacker.com/7-apps-to-get-the-best-mac-features-on-windows-1849891578)
 - [Lifehacker] [Stop Putting Dryer Sheets in Your Vents](https://lifehacker.com/stop-putting-dryer-sheets-in-your-vents-1849891225)
-- [Lifehacker] [Why Does Hanukkah Move Around Every Year?](https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312)
-- [Lifehacker] [12 Criminally Overlooked Video Games You Can Still Play Today](https://lifehacker.com/12-criminally-overlooked-video-games-you-can-still-play-1849890477)
-- [Lifehacker] [Get a Cheap Thrill With Sweetened Cream Cheese](https://lifehacker.com/get-a-cheap-thrill-with-sweetened-cream-cheese-1849890869)
-- [Lifehacker] [This Might Be the Best Way to Stop Falling for Misinformation](https://lifehacker.com/this-might-be-the-best-way-to-stop-falling-for-bullshit-1849890110)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Does Hanukkah Move Around Every Year?](https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312)<!-- TECH-POSTS:END -->
 
 ---
 
