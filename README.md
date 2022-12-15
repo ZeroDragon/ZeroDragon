@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Concat Arrays Type](https://dev.to/tylim88/typescript-concat-arrays-type-1db)
+- [Lifehacker] [10 Movies That Tricked People Into Watching Them](https://lifehacker.com/10-movies-that-tricked-people-into-watching-them-1849896041)
+- [Dev.to/JS] [Barry](https://dev.to/aboucodeur/barry-28h2)
+- [Dev.to/JS] [Why use NotifyLog?](https://dev.to/notifylog/why-use-notifylog-1hc7)
 - [Dev.to/JS] [GraphQL cursor base Pagination with Apollo](https://dev.to/fpaghar/graphql-cursor-base-pagination-with-apollo-3fjg)
 - [Lifehacker] [Human Towers, Wine Horses, and 12 Other Bits of &#39;Intangible Cultural Heritage&#39; Worth Celebrating](https://lifehacker.com/human-towers-wine-horses-and-12-other-bits-of-intangi-1849894190)
 - [Dev.to/JS] [Solving day 15 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-15-of-advent-of-code-2022-in-javascript-3n9c)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Two-phase Model-based Testing](https://dev.to/lambdatest/two-phase-model-based-testing-5ckh)
 - [Dev.to/JS] [Fault-Based Testing and the Pesticide Paradox](https://dev.to/lambdatest/fault-based-testing-and-the-pesticide-paradox-4i8b)
 - [Dev.to/JS] [Não só de Teoria vive um Programador](https://dev.to/viniciosragazzi/nao-so-de-teoria-vive-um-programador-3605)
-- [Dev.to/JS] [Essential CBD Gummies Price](https://dev.to/essentialcbdg19/essential-cbd-gummies-price-1fl0)
-- [Dev.to/JS] [How to build a piano with only HTML, CSS, Javascript ?](https://dev.to/lotfijb/how-to-create-a-piano-with-only-html-css-javascript--3lk3)
-- [Dev.to/JS] [Student Management System | Django |](https://dev.to/madhubankhatri/student-management-system-django--316m)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
 - [Lifehacker] [11 of the Best New Features in iOS 16.2](https://lifehacker.com/11-of-the-best-new-features-in-ios-16-2-1849888579)
-- [Lifehacker] [Throw Away These Recalled COVID Test Kits](https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056)
-- [Lifehacker] [LASIK Has More Risks Than You Probably Realize](https://lifehacker.com/lasik-has-more-risks-than-you-probably-realize-1849888998)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Throw Away These Recalled COVID Test Kits](https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056)<!-- TECH-POSTS:END -->
 
 ---
 
