@@ -23,14 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
+- [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
+- [Lifehacker] [What&#39;s New on Disney+ in January 2023](https://lifehacker.com/whats-new-on-disney-in-january-2023-1849900350)
 - [Dev.to/JS] [Ng-News: Episode 22/49 - Versatile Angular Style, Pro Template-Driven Forms](https://dev.to/ng_news/ng-news-episode-2249-versatile-angular-style-pro-template-driven-forms-d8n)
 - [Dev.to/JS] [Jest Mocking: Behind the scene](https://dev.to/asifzcpe/jest-mocking-behind-the-scene-4mho)
 - [Dev.to/JS] [Equality of Values in Javascript](https://dev.to/eminebozdag/equality-of-values-in-javascript-294c)
 - [Dev.to/JS] [Temperature Converter](https://dev.to/986913/temperature-converter-7e6)
+- [Dev.to/JS] [My portfolio so far](https://dev.to/devjbyrd/my-portfolio-so-far-4nep)
 - [Lifehacker] [Bet You Can&#39;t Spot the Elusive &#39;Christmas Asteroid&#39;](https://lifehacker.com/bet-you-cant-spot-the-elusive-christmas-asteroid-1849899845)
 - [Lifehacker] [8 of the Best Gifts for Teachers, According to Teachers](https://lifehacker.com/8-of-the-best-gifts-for-teachers-according-to-teachers-1849899654)
 - [Dev.to/JS] [What is prototypes and how it works in JavaScript ?](https://dev.to/erhaneth/what-is-prototypes-and-how-it-works-in-javascript--32hk)
-- [Dev.to/JS] [How can ChatGPT help junior web programmers in learning and work?](https://dev.to/naskovic/how-can-chatgpt-help-junior-web-programmers-in-learning-and-work-4af6)
+- [Dev.to/JS] [How can AI help junior web programmers in learning and work?](https://dev.to/naskovic/how-can-chatgpt-help-junior-web-programmers-in-learning-and-work-4af6)
 - [Dev.to/JS] [Typescript Exceed Recursion Limitation](https://dev.to/tylim88/typescript-exceed-recursion-limitation-18pm)
 - [Dev.to/JS] [Journey Of Being Diploma Computer Engineer 🎓](https://dev.to/karansanghvi/journey-of-being-diploma-computer-engineer-23g)
 - [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)
@@ -41,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Free COVID Tests Are Back](https://lifehacker.com/free-covid-tests-are-back-1849898138)
 - [Dev.to/JS] [You.com Open Platform helps developers put their search apps in front of millions of users](https://dev.to/youcom/youcom-open-platform-helps-developers-put-their-search-apps-in-front-of-millions-of-users-4km0)
 - [Lifehacker] [Stop Adding Friends to Your Relationship Fights](https://lifehacker.com/stop-adding-friends-to-your-relationship-fights-1849891055)
-- [Dev.to/JS] [test](https://dev.to/testunfo/test-44fn)
 - [Lifehacker] [Delete Your Phone Number From Twitter Before They Sell It](https://lifehacker.com/delete-your-phone-number-from-twitter-before-they-sell-1849897919)
 - [Lifehacker] [You Can Now Stream Games Directly From Your Google Results](https://lifehacker.com/you-can-now-stream-games-directly-from-your-google-resu-1849895566)
 - [Lifehacker] [Class Up Your Christmas Morning Mimosa With Cocktail Bitters](https://lifehacker.com/class-up-your-christmas-morning-mimosa-with-cocktail-bi-1849895777)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free Right Now](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-right-now-1849893884)
 - [Lifehacker] [The Mystery of &#39;Mario Kart 7&#39;s Strange Update](https://lifehacker.com/the-mystery-of-mario-kart-7s-strange-update-1849893179)
 - [Lifehacker] [12 Holiday Cookie Recipes With Five Ingredients or Fewer](https://lifehacker.com/12-holiday-cookie-recipes-with-five-ingredients-or-fewe-1849893325)
-- [Lifehacker] [22 of the Best Movies of 2022 That Won&#39;t Get Nominated for Oscars](https://lifehacker.com/22-of-the-best-movies-of-2022-that-wont-get-nominated-f-1849888235)
-- [Lifehacker] [6 of the Best TV Deals You Can Still Get Before Christmas](https://lifehacker.com/6-of-the-best-tv-deals-you-can-still-get-before-christm-1849890432)
-- [Lifehacker] [7 Apps to Get the Best Mac Features on Windows](https://lifehacker.com/7-apps-to-get-the-best-mac-features-on-windows-1849891578)
-- [Lifehacker] [Stop Putting Dryer Sheets in Your Vents](https://lifehacker.com/stop-putting-dryer-sheets-in-your-vents-1849891225)<!-- TECH-POSTS:END -->
+- [Lifehacker] [22 of the Best Movies of 2022 That Won&#39;t Get Nominated for Oscars](https://lifehacker.com/22-of-the-best-movies-of-2022-that-wont-get-nominated-f-1849888235)<!-- TECH-POSTS:END -->
 
 ---
 
