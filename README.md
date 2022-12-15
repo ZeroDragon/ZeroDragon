@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React reconciliation](https://dev.to/fpaghar/react-reconciliation-1gai)
+- [Dev.to/JS] [NEWBIE](https://dev.to/tjojas/newbie-2mm8)
+- [Dev.to/JS] [Better conditional rendering](https://dev.to/adelit/better-conditional-rendering-45i6)
 - [Dev.to/JS] [10+ Best Vue Starter Kits and Boilerplates](https://dev.to/flatlogic/10-best-vue-starter-kits-and-boilerplates-1i09)
 - [Dev.to/JS] [Transform image to base64 with promise based function](https://dev.to/javihornero/transform-image-to-base64-with-promise-based-function-19d6)
 - [Dev.to/JS] [useReducer hook in React &lpar;No redux here&rpar;](https://dev.to/csituma/usereducer-hook-in-react-no-redux-here-4mb5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Support for SurveyJS Form Library and Creator](https://dev.to/surveyjs/angular-support-for-surveyjs-form-library-and-creator-14g9)
 - [Dev.to/JS] [TypeScript One Liners](https://dev.to/preethamntp/typescript-one-liners-455e)
 - [Dev.to/JS] [The benefits of DevOps Strategies](https://dev.to/kanishedureka/the-benefits-of-devops-strategies-a5g)
-- [Dev.to/JS] [TIL; JavaScript Jest - matchers](https://dev.to/seyofori/javascript-jest-til-matchers-1coh)
-- [Dev.to/JS] [Vendure - Importing data](https://dev.to/dailydevtips1/vendure-importing-data-1g15)
-- [Dev.to/JS] [How to make Flappy Bird game using HTML5?](https://dev.to/trackhuynk/how-to-make-flappy-bird-game-using-html5-7kj)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
