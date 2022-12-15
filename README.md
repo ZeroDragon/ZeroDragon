@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Even Better Tempeh by Steaming It First](https://lifehacker.com/make-even-better-tempeh-by-steaming-it-first-1849895182)
+- [Dev.to/JS] [How to create a React app for a complete Beginner](https://dev.to/darkxenium/how-to-create-a-react-app-for-a-complete-beginner-50ph)
+- [Dev.to/JS] [From Zero to Hero: An Ultimate Guide to Acing Google Summer of Code](https://dev.to/thenomadevel/from-zero-to-hero-an-ultimate-guide-to-acing-google-summer-of-code-577p)
 - [Dev.to/JS] [Pagination with Javascript](https://dev.to/shubhamtiwari909/pagination-with-javascript-2a0)
 - [Dev.to/JS] [Two-phase Model-based Testing](https://dev.to/lambdatest/two-phase-model-based-testing-5ckh)
 - [Dev.to/JS] [Fault-Based Testing and the Pesticide Paradox](https://dev.to/lambdatest/fault-based-testing-and-the-pesticide-paradox-4i8b)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals: Number Variable, Multiple Variables, Booleans, Strings](https://dev.to/astrodevil/javascript-fundamentals-number-variable-multiple-variables-booleans-strings-6nm)
 - [Dev.to/JS] [React reconciliation](https://dev.to/fpaghar/react-reconciliation-1gai)
 - [Dev.to/JS] [NEWBIE](https://dev.to/tjojas/newbie-2mm8)
-- [Dev.to/JS] [Better conditional rendering](https://dev.to/adelit/better-conditional-rendering-45i6)
-- [Dev.to/JS] [10+ Best Vue Starter Kits and Boilerplates](https://dev.to/flatlogic/10-best-vue-starter-kits-and-boilerplates-1i09)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Away These Recalled COVID Test Kits](https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056)
 - [Lifehacker] [LASIK Has More Risks Than You Probably Realize](https://lifehacker.com/lasik-has-more-risks-than-you-probably-realize-1849888998)
 - [Lifehacker] [HBO Max Has a Hidden ‘Yule Log’ Horror Movie](https://lifehacker.com/hbo-max-has-a-hidden-yule-log-horror-movie-1849888811)
-- [Lifehacker] [Take This Test to Know Which Smartphone Camera You Really Like the Most](https://lifehacker.com/take-this-test-to-know-which-smartphone-camera-you-real-1849887577)
-- [Lifehacker] [The Safest Way to &#39;Delete&#39; Your Twitter Account](https://lifehacker.com/the-safest-way-to-delete-your-twitter-account-1849888259)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take This Test to Know Which Smartphone Camera You Really Like the Most](https://lifehacker.com/take-this-test-to-know-which-smartphone-camera-you-real-1849887577)<!-- TECH-POSTS:END -->
 
 ---
 
