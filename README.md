@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Delete Your Phone Number From Twitter Before They Sell It](https://lifehacker.com/delete-your-phone-number-from-twitter-before-they-sell-1849897919)
+- [Dev.to/JS] [Top 7 Featured DEV Posts from the Past Week](https://dev.to/c4r4x35/top-7-featured-dev-posts-from-the-past-week-1k01)
+- [Dev.to/JS] [Destructuring Assignment is a Typescript](https://dev.to/kaustavkarmakar2/destructuring-assignment-is-a-typescript-l83)
+- [Lifehacker] [You Can Now Stream Games Directly From Your Google Results](https://lifehacker.com/you-can-now-stream-games-directly-from-your-google-resu-1849895566)
+- [Lifehacker] [Class Up Your Christmas Morning Mimosa With Cocktail Bitters](https://lifehacker.com/class-up-your-christmas-morning-mimosa-with-cocktail-bi-1849895777)
 - [Dev.to/JS] [Typescript Concat Arrays Type](https://dev.to/tylim88/typescript-concat-arrays-type-1db)
 - [Lifehacker] [10 Movies That Tricked People Into Watching Them](https://lifehacker.com/10-movies-that-tricked-people-into-watching-them-1849896041)
 - [Dev.to/JS] [Barry](https://dev.to/aboucodeur/barry-28h2)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Zero to Hero: An Ultimate Guide to Acing Google Summer of Code](https://dev.to/thenomadevel/from-zero-to-hero-an-ultimate-guide-to-acing-google-summer-of-code-577p)
 - [Dev.to/JS] [Pagination with Javascript](https://dev.to/shubhamtiwari909/pagination-with-javascript-2a0)
 - [Dev.to/JS] [Two-phase Model-based Testing](https://dev.to/lambdatest/two-phase-model-based-testing-5ckh)
-- [Dev.to/JS] [Fault-Based Testing and the Pesticide Paradox](https://dev.to/lambdatest/fault-based-testing-and-the-pesticide-paradox-4i8b)
-- [Dev.to/JS] [Não só de Teoria vive um Programador](https://dev.to/viniciosragazzi/nao-so-de-teoria-vive-um-programador-3605)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Might Be the Best Way to Stop Falling for Misinformation](https://lifehacker.com/this-might-be-the-best-way-to-stop-falling-for-bullshit-1849890110)
 - [Lifehacker] [Why You Should Be Air-Frying Your Tofu Before Marinating It](https://lifehacker.com/why-you-should-be-air-frying-your-tofu-before-marinatin-1849889987)
 - [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
-- [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
-- [Lifehacker] [10 of the Best &lpar;and Worst&rpar; TikTok Cleaning Trends of 2022](https://lifehacker.com/10-of-the-best-and-worst-tiktok-cleaning-trends-of-20-1849888910)
-- [Lifehacker] [11 of the Best New Features in iOS 16.2](https://lifehacker.com/11-of-the-best-new-features-in-ios-16-2-1849888579)
-- [Lifehacker] [Throw Away These Recalled COVID Test Kits](https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056)<!-- TECH-POSTS:END -->
+- [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)<!-- TECH-POSTS:END -->
 
 ---
 
