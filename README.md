@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gatsby SEO: Manage robot text file in different environments](https://dev.to/mylifeforaiur/gatsby-seo-manage-robot-text-file-in-different-environments-2lb)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
+- [Dev.to/JS] [SvelteKit 1.0 Has Been Released! 🥳](https://dev.to/kvetoslavnovak/sveltekit-10-has-been-released-23me)
 - [Dev.to/JS] [Demystifying Linked Lists](https://dev.to/ladoppiaesse/demystifying-linked-lists-1bno)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
@@ -40,13 +42,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free Right Now](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-right-now-1849893884)
 - [Lifehacker] [The Mystery of &#39;Mario Kart 7&#39;s Strange Update](https://lifehacker.com/the-mystery-of-mario-kart-7s-strange-update-1849893179)
 - [Dev.to/JS] [Don&#39;t use &#39;&amp;&amp;&#39; for conditional reasoning](https://dev.to/aishanipach/dont-use-for-conditional-reasoning-3525)
+- [Dev.to/JS] [Move a user&#39;s country to the top of a select element with Netlify Edge Functions and geolocation](https://dev.to/philw_/move-a-users-country-to-the-top-of-a-select-element-dropdown-list-with-netlify-edge-functions-and-geolocation-1nhd)
 - [Dev.to/JS] [Introduction to Vite: the lightning-fast module bundler](https://dev.to/codemaker2015/introduction-to-vite-the-lightning-fast-module-bundler-32mm)
-- [Dev.to/JS] [Paracetamol.js💊| #194: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-194-explica-este-codigo-javascript-36bl)
 - [Lifehacker] [12 Holiday Cookie Recipes With Five Ingredients or Fewer](https://lifehacker.com/12-holiday-cookie-recipes-with-five-ingredients-or-fewe-1849893325)
 - [Lifehacker] [22 of the Best Movies of 2022 That Won&#39;t Get Nominated for Oscars](https://lifehacker.com/22-of-the-best-movies-of-2022-that-wont-get-nominated-f-1849888235)
 - [Lifehacker] [6 of the Best TV Deals You Can Still Get Before Christmas](https://lifehacker.com/6-of-the-best-tv-deals-you-can-still-get-before-christm-1849890432)
-- [Dev.to/JS] [15 Javascript Browser APIs](https://dev.to/hidaytrahman/15-javascript-browser-apis-3d17)
-- [Dev.to/JS] [Unlock Next Level Web Design: 15 Inspirational Websites!](https://dev.to/nftslab/unlock-next-level-web-design-15-inspirational-websites-26al)
 - [Lifehacker] [7 Apps to Get the Best Mac Features on Windows](https://lifehacker.com/7-apps-to-get-the-best-mac-features-on-windows-1849891578)
 - [Lifehacker] [Stop Putting Dryer Sheets in Your Vents](https://lifehacker.com/stop-putting-dryer-sheets-in-your-vents-1849891225)
 - [Lifehacker] [Why Does Hanukkah Move Around Every Year?](https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312)
