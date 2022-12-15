@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Previewing Markdown code with React](https://dev.to/asayerio_techblog/previewing-markdown-code-with-react-22h3)
+- [Dev.to/JS] [Optimistic UI with SWR2](https://dev.to/nicolasmontone/optimistic-ui-with-swr2-5ebf)
 - [Dev.to/JS] [How to embed live code editor for React components in MDX docs](https://dev.to/sabigara/how-to-embed-live-code-editor-for-react-components-in-mdx-docs-1655)
 - [Dev.to/JS] [How to Create and Manage Virtual Domains using Node.js](https://dev.to/devland/how-to-create-and-manage-virtual-domains-using-nodejs-3h14)
 - [Dev.to/JS] [Gatsby SEO: Manage robot text file in different environments](https://dev.to/mylifeforaiur/gatsby-seo-manage-robot-text-file-in-different-environments-2lb)
@@ -39,11 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎄JS Advent #6 - Host vs Native objects🎄](https://dev.to/jtlavs/js-advent-6-host-vs-native-objects-4opg)
 - [Lifehacker] [11 of the Dopest Weed Gadgets to Give a Tech-Savvy Stoner](https://lifehacker.com/11-of-the-dopest-weed-gadgets-to-give-a-tech-savvy-ston-1849894383)
 - [Dev.to/JS] [Understanding Syntax While Writing a Function in JS](https://dev.to/kellilil/understanding-syntax-while-writing-a-function-in-js-2133)
-- [Dev.to/JS] [Back to the future: Navigation API](https://dev.to/romaintrotard/back-to-the-future-navigation-api-2j7f)
 - [Lifehacker] [No, the ‘Salad Dressing Cleaning Hack’ Doesn’t Work &lpar;but This Does&rpar;](https://lifehacker.com/no-the-salad-dressing-cleaning-hack-doesn-t-work-bu-1849893452)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free Right Now](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-right-now-1849893884)
 - [Lifehacker] [The Mystery of &#39;Mario Kart 7&#39;s Strange Update](https://lifehacker.com/the-mystery-of-mario-kart-7s-strange-update-1849893179)
-- [Dev.to/JS] [Don&#39;t use &#39;&amp;&amp;&#39; for conditional reasoning](https://dev.to/aishanipach/dont-use-for-conditional-reasoning-3525)
 - [Lifehacker] [12 Holiday Cookie Recipes With Five Ingredients or Fewer](https://lifehacker.com/12-holiday-cookie-recipes-with-five-ingredients-or-fewe-1849893325)
 - [Lifehacker] [22 of the Best Movies of 2022 That Won&#39;t Get Nominated for Oscars](https://lifehacker.com/22-of-the-best-movies-of-2022-that-wont-get-nominated-f-1849888235)
 - [Lifehacker] [6 of the Best TV Deals You Can Still Get Before Christmas](https://lifehacker.com/6-of-the-best-tv-deals-you-can-still-get-before-christm-1849890432)
