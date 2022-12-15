@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Free Resource for Web development](https://dev.to/pawan67/best-free-resource-for-web-development-15np)
+- [Dev.to/JS] [Nextjs is Powerful than Reactjs ????](https://dev.to/develop92001047/nextjs-is-powerful-than-reactjs--1kbm)
+- [Dev.to/JS] [My Internship Journey at Dragonfruit AI](https://dev.to/sidmohanty11/my-internship-journey-at-dragonfruit-ai-51j4)
 - [Dev.to/JS] [Javascript map&lpar;&rpar; function](https://dev.to/atharvashankar/javascript-map-function-2kfd)
 - [Dev.to/JS] [Previewing Markdown code with React](https://dev.to/asayerio_techblog/previewing-markdown-code-with-react-22h3)
 - [Dev.to/JS] [Optimistic UI with SWR2](https://dev.to/nicolasmontone/optimistic-ui-with-swr2-5ebf)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
 - [Dev.to/JS] [Fixing Class Composition in Tailwind CSS](https://dev.to/areknawo/fixing-class-composition-in-tailwind-css-1k4d)
 - [Lifehacker] [Use This App to Reduce Battery Drain on Your MacBook](https://lifehacker.com/use-this-app-to-reduce-battery-drain-on-your-macbook-1849892452)
-- [Dev.to/JS] [Beware of integer division in Elm 0.19.1](https://dev.to/dwayne/beware-of-integer-division-in-elm-0191-3ig4)
 - [Lifehacker] [Your Nintendo Switch Has a Spotify Wrapped-style ‘Year in Review’](https://lifehacker.com/your-nintendo-switch-has-a-spotify-wrapped-style-year-1849893792)
-- [Dev.to/JS] [🎄JS Advent #7 - Destructuring 🎄](https://dev.to/jtlavs/js-advent-7-destructuring-onm)
-- [Dev.to/JS] [🎄JS Advent #6 - Host vs Native objects🎄](https://dev.to/jtlavs/js-advent-6-host-vs-native-objects-4opg)
 - [Lifehacker] [11 of the Dopest Weed Gadgets to Give a Tech-Savvy Stoner](https://lifehacker.com/11-of-the-dopest-weed-gadgets-to-give-a-tech-savvy-ston-1849894383)
 - [Lifehacker] [No, the ‘Salad Dressing Cleaning Hack’ Doesn’t Work &lpar;but This Does&rpar;](https://lifehacker.com/no-the-salad-dressing-cleaning-hack-doesn-t-work-bu-1849893452)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free Right Now](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-right-now-1849893884)
