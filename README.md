@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You.com Open Platform helps developers put their search apps in front of millions of users](https://dev.to/youcom/youcom-open-platform-helps-developers-put-their-search-apps-in-front-of-millions-of-users-4km0)
+- [Lifehacker] [Stop Adding Friends to Your Relationship Fights](https://lifehacker.com/stop-adding-friends-to-your-relationship-fights-1849891055)
+- [Dev.to/JS] [test](https://dev.to/testunfo/test-44fn)
 - [Lifehacker] [Delete Your Phone Number From Twitter Before They Sell It](https://lifehacker.com/delete-your-phone-number-from-twitter-before-they-sell-1849897919)
 - [Dev.to/JS] [Top 7 Featured DEV Posts from the Past Week](https://dev.to/c4r4x35/top-7-featured-dev-posts-from-the-past-week-1k01)
 - [Dev.to/JS] [Destructuring Assignment is a Typescript](https://dev.to/kaustavkarmakar2/destructuring-assignment-is-a-typescript-l83)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Even Better Tempeh by Steaming It First](https://lifehacker.com/make-even-better-tempeh-by-steaming-it-first-1849895182)
 - [Dev.to/JS] [How to create a React app for a complete Beginner](https://dev.to/darkxenium/how-to-create-a-react-app-for-a-complete-beginner-50ph)
 - [Dev.to/JS] [From Zero to Hero: An Ultimate Guide to Acing Google Summer of Code](https://dev.to/thenomadevel/from-zero-to-hero-an-ultimate-guide-to-acing-google-summer-of-code-577p)
-- [Dev.to/JS] [Pagination with Javascript](https://dev.to/shubhamtiwari909/pagination-with-javascript-2a0)
-- [Dev.to/JS] [Two-phase Model-based Testing](https://dev.to/lambdatest/two-phase-model-based-testing-5ckh)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Cheap Thrill With Sweetened Cream Cheese](https://lifehacker.com/get-a-cheap-thrill-with-sweetened-cream-cheese-1849890869)
 - [Lifehacker] [This Might Be the Best Way to Stop Falling for Misinformation](https://lifehacker.com/this-might-be-the-best-way-to-stop-falling-for-bullshit-1849890110)
 - [Lifehacker] [Why You Should Be Air-Frying Your Tofu Before Marinating It](https://lifehacker.com/why-you-should-be-air-frying-your-tofu-before-marinatin-1849889987)
-- [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
-- [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Add This Not-so-Secret Ingredient to All Your Party Snacks](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)<!-- TECH-POSTS:END -->
 
 ---
 
