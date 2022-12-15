@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing Node.js Code with &quot;lodash.memoize&quot;](https://dev.to/aykacode/optimizing-nodejs-code-with-lodashmemoize-3ol6)
+- [Dev.to/JS] [Advanced Techniques for Improving Performance with React Virtualization](https://dev.to/basskibo/advanced-techniques-for-improving-performance-with-react-virtualization-fd1)
+- [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
+- [Dev.to/JS] [Validating email addresses using regular expressions in JavaScript](https://dev.to/aykacode/validating-email-addresses-using-regular-expressions-in-javascript-gca)
 - [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
 - [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
 - [Lifehacker] [What&#39;s New on Disney+ in January 2023](https://lifehacker.com/whats-new-on-disney-in-january-2023-1849900350)
@@ -39,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Journey Of Being Diploma Computer Engineer 🎓](https://dev.to/karansanghvi/journey-of-being-diploma-computer-engineer-23g)
 - [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)
 - [Lifehacker] [14 of the Best Gifts for Anyone Who Loves Cheese](https://lifehacker.com/14-of-the-best-gifts-for-anyone-who-loves-cheese-1849899389)
-- [Dev.to/JS] [If I would rewrite React from scratch it would look like this](https://dev.to/xania/if-i-would-rewrite-react-from-scratch-it-would-look-like-this-553d)
-- [Dev.to/JS] [Cadl: a new IDL](https://dev.to/tedneward/cadl-a-new-idl-5b1e)
 - [Lifehacker] [The 12 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)
 - [Lifehacker] [Free COVID Tests Are Back](https://lifehacker.com/free-covid-tests-are-back-1849898138)
-- [Dev.to/JS] [You.com Open Platform helps developers put their search apps in front of millions of users](https://dev.to/youcom/youcom-open-platform-helps-developers-put-their-search-apps-in-front-of-millions-of-users-4km0)
 - [Lifehacker] [Stop Adding Friends to Your Relationship Fights](https://lifehacker.com/stop-adding-friends-to-your-relationship-fights-1849891055)
 - [Lifehacker] [Delete Your Phone Number From Twitter Before They Sell It](https://lifehacker.com/delete-your-phone-number-from-twitter-before-they-sell-1849897919)
 - [Lifehacker] [You Can Now Stream Games Directly From Your Google Results](https://lifehacker.com/you-can-now-stream-games-directly-from-your-google-resu-1849895566)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, the ‘Salad Dressing Cleaning Hack’ Doesn’t Work &lpar;but This Does&rpar;](https://lifehacker.com/no-the-salad-dressing-cleaning-hack-doesn-t-work-bu-1849893452)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free Right Now](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-right-now-1849893884)
 - [Lifehacker] [The Mystery of &#39;Mario Kart 7&#39;s Strange Update](https://lifehacker.com/the-mystery-of-mario-kart-7s-strange-update-1849893179)
-- [Lifehacker] [12 Holiday Cookie Recipes With Five Ingredients or Fewer](https://lifehacker.com/12-holiday-cookie-recipes-with-five-ingredients-or-fewe-1849893325)
-- [Lifehacker] [22 of the Best Movies of 2022 That Won&#39;t Get Nominated for Oscars](https://lifehacker.com/22-of-the-best-movies-of-2022-that-wont-get-nominated-f-1849888235)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Holiday Cookie Recipes With Five Ingredients or Fewer](https://lifehacker.com/12-holiday-cookie-recipes-with-five-ingredients-or-fewe-1849893325)<!-- TECH-POSTS:END -->
 
 ---
 
