@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ChatGPT the Future Jobs Killer: An Amazing yet Scary Invention](https://dev.to/josephyaduvanshi/chatgpt-the-future-jobs-killer-an-amazing-yet-scary-invention-3efk)
+- [Dev.to/JS] [You must implement DevOps in your business!](https://dev.to/kanishedureka/you-must-implement-devops-in-your-business-3fff)
 - [Dev.to/JS] [Protetox - Weight Loss Results, Benefits, Uses &amp; Side Effects?](https://dev.to/protetoxfact2/protetox-weight-loss-results-benefits-uses-side-effects-2moc)
 - [Dev.to/JS] [Vendure - Assets to an S3 bucket](https://dev.to/dailydevtips1/vendure-assets-to-an-s3-bucket-3fag)
 - [Dev.to/JS] [Use your third-party scripts without the performance hit with Partytown](https://dev.to/leduc1901/use-your-third-party-scripts-without-the-performance-hit-with-partytown-2bdf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authorize Users Like a Pro: Libraries That Help You Implement Access Control With Node.JS](https://dev.to/zenstack/authorize-users-like-a-pro-libraries-that-help-you-implement-access-control-with-nodejs-5109)
 - [Dev.to/JS] [Now it is fully Done!](https://dev.to/devjbyrd/now-it-is-fully-done-5cgn)
 - [Dev.to/JS] [Create a simple Node Server Skeleton.](https://dev.to/luckey/create-a-simple-node-server-skeleton-1m2i)
-- [Dev.to/JS] [Automated Frontend Workflow](https://dev.to/helmuthdu/automated-frontend-workflow-4665)
-- [Dev.to/JS] [Typescript Why You Should Avoid Explicit Function Generics If Possible](https://dev.to/tylim88/typescript-why-you-may-not-want-to-explicitly-specify-function-generics-315m)
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
 - [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
 - [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
