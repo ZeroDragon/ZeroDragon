@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the &#39;Feynman Method&#39; to Learn New Things](https://lifehacker.com/use-the-feynman-method-to-learn-new-things-1849905388)
+- [Lifehacker] [13 TV Shows and Movies to Watch If You Miss the Cast of &#39;The White Lotus&#39;](https://lifehacker.com/13-tv-shows-and-movies-to-watch-if-you-miss-the-cast-of-1849904811)
+- [Dev.to/JS] [Regolith Reservoir](https://dev.to/rmion/regolith-reservoir-mmh)
+- [Dev.to/JS] [Understanding Higher-Order Functions](https://dev.to/parenttobias/understanding-higher-order-functions-4f6d)
+- [Lifehacker] [This TikTok Dryer Sheet ‘Hack’ Could Set Your House on Fire](https://lifehacker.com/this-tiktok-dryer-sheet-hack-could-set-your-house-on-1849905164)
 - [Dev.to/JS] [ReactJs Chat Component: Easily add chat to your react app.](https://dev.to/alakkadshaw/reactjs-chat-component-easily-add-chat-to-your-react-app-j08)
 - [Dev.to/JS] [The top JavaScript framework to land a job in 2023](https://dev.to/mehdimed/the-top-javascript-framework-to-land-a-job-in-2023-3do1)
 - [Lifehacker] [Here Are the 2022 Christmas Shipping Deadlines](https://lifehacker.com/here-are-the-2022-holiday-shipping-deadlines-1849904837)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Medusa 1.7.0: Performance Improvement, B2B Launch, and more!](https://dev.to/medusajs/medusa-170-performance-improvement-b2b-launch-and-more-15pe)
 - [Lifehacker] [Five of the Best Ways to Increase Your Stress Resilience](https://lifehacker.com/five-of-the-best-ways-to-increase-your-stress-resilienc-1849903411)
 - [Dev.to/JS] [JavaScript Fundamentals: Mutable let,Comments, Functions](https://dev.to/astrodevil/javascript-fundamentals-mutable-letcomments-functions-5c1)
-- [Dev.to/JS] [Amazing Rating Card Using HTML CSS JavaScript | Fronend mentor](https://dev.to/codewithsadee/amazing-rating-card-using-html-css-javascript-fronend-mentor-13bn)
-- [Dev.to/JS] [ReactJs vs NextJs : All you need to know!](https://dev.to/darkxenium/reactjs-vs-nextjs-all-you-need-to-know-ln2)
 - [Lifehacker] [The Best Safari Ad Blockers of 2022](https://lifehacker.com/the-best-safari-ad-blockers-of-2022-1849902684)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Apps of 2022](https://lifehacker.com/lifehackers-22-favorite-apps-of-2022-1849898715)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Happened to Henry Cavill&#39;s Superman?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-happ-1849902395)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Adding Friends to Your Relationship Fights](https://lifehacker.com/stop-adding-friends-to-your-relationship-fights-1849891055)
 - [Lifehacker] [Delete Your Phone Number From Twitter Before They Sell It](https://lifehacker.com/delete-your-phone-number-from-twitter-before-they-sell-1849897919)
 - [Lifehacker] [You Can Now Stream Games Directly From Your Google Results](https://lifehacker.com/you-can-now-stream-games-directly-from-your-google-resu-1849895566)
-- [Lifehacker] [Class Up Your Christmas Morning Mimosa With Cocktail Bitters](https://lifehacker.com/class-up-your-christmas-morning-mimosa-with-cocktail-bi-1849895777)
-- [Lifehacker] [10 Movies That Tricked People Into Watching Them](https://lifehacker.com/10-movies-that-tricked-people-into-watching-them-1849896041)
-- [Lifehacker] [Human Towers, Wine Horses, and 12 Other Bits of &#39;Intangible Cultural Heritage&#39; Worth Celebrating](https://lifehacker.com/human-towers-wine-horses-and-12-other-bits-of-intangi-1849894190)
-- [Lifehacker] [14 of the Best Gifts for Someone in the Hospital, According to Nurses](https://lifehacker.com/14-of-the-best-gifts-for-someone-in-the-hospital-accor-1849894755)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Class Up Your Christmas Morning Mimosa With Cocktail Bitters](https://lifehacker.com/class-up-your-christmas-morning-mimosa-with-cocktail-bi-1849895777)<!-- TECH-POSTS:END -->
 
 ---
 
