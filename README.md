@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔴 Live - Data Modeling and Databases with Node.js and Prisma](https://dev.to/clarkio/live-data-modeling-and-databases-with-nodejs-and-prisma-3ifg)
+- [Dev.to/JS] [Promise.all](https://dev.to/986913/promiseall-1op7)
+- [Lifehacker] [What&#39;s New on Hulu in January 2023](https://lifehacker.com/whats-new-on-hulu-in-january-2023-1849903701)
+- [Dev.to/JS] [Medusa 1.7.0: Performance Improvement, B2B Launch, and more!](https://dev.to/medusajs/medusa-170-performance-improvement-b2b-launch-and-more-15pe)
+- [Lifehacker] [Five of the Best Ways to Increase Your Stress Resilience](https://lifehacker.com/five-of-the-best-ways-to-increase-your-stress-resilienc-1849903411)
 - [Dev.to/JS] [JavaScript Fundamentals: Mutable let,Comments, Functions](https://dev.to/astrodevil/javascript-fundamentals-mutable-letcomments-functions-5c1)
 - [Dev.to/JS] [Amazing Rating Card Using HTML CSS JavaScript | Fronend mentor](https://dev.to/codewithsadee/amazing-rating-card-using-html-css-javascript-fronend-mentor-13bn)
 - [Dev.to/JS] [ReactJs vs NextJs : All you need to know!](https://dev.to/darkxenium/reactjs-vs-nextjs-all-you-need-to-know-ln2)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create MongoDB database and connect with Mongoose](https://dev.to/aneeqakhan/create-mongodb-database-and-connect-with-mongoose-1ii2)
 - [Dev.to/JS] [What is bcrypt.js?](https://dev.to/karaca19/what-is-bcryptjs-4pla)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Happened to Henry Cavill&#39;s Superman?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-happ-1849902395)
-- [Dev.to/JS] [Building a Music Player in React](https://dev.to/documatic/building-a-music-player-in-react-2aa4)
-- [Dev.to/JS] [Comment construire un Pomodoro en JavaScript](https://dev.to/bonheur93/comment-construire-un-pomodoro-en-javascript-3an9)
-- [Dev.to/JS] [Responsive Navigation Menu Bar Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/responsive-navigation-menu-bar-using-html-css-javascript-3pdn)
 - [Lifehacker] [These 3-Ingredient Pecan Bites Are a Perfect Amuse Bouche](https://lifehacker.com/these-3-ingredient-pecan-bites-are-a-perfect-amuse-bouc-1849900542)
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
 - [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
 - [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
-- [Lifehacker] [Use This App to Reduce Battery Drain on Your MacBook](https://lifehacker.com/use-this-app-to-reduce-battery-drain-on-your-macbook-1849892452)
-- [Lifehacker] [Your Nintendo Switch Has a Spotify Wrapped-style ‘Year in Review’](https://lifehacker.com/your-nintendo-switch-has-a-spotify-wrapped-style-year-1849893792)
-- [Lifehacker] [11 of the Dopest Weed Gadgets to Give a Tech-Savvy Stoner](https://lifehacker.com/11-of-the-dopest-weed-gadgets-to-give-a-tech-savvy-ston-1849894383)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This App to Reduce Battery Drain on Your MacBook](https://lifehacker.com/use-this-app-to-reduce-battery-drain-on-your-macbook-1849892452)<!-- TECH-POSTS:END -->
 
 ---
 
