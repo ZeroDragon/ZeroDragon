@@ -23,21 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Fundamentals: Mutable let,Comments, Functions](https://dev.to/astrodevil/javascript-fundamentals-mutable-letcomments-functions-5c1)
+- [Dev.to/JS] [Amazing Rating Card Using HTML CSS JavaScript | Fronend mentor](https://dev.to/codewithsadee/amazing-rating-card-using-html-css-javascript-fronend-mentor-13bn)
+- [Dev.to/JS] [ReactJs vs NextJs : All you need to know!](https://dev.to/darkxenium/reactjs-vs-nextjs-all-you-need-to-know-ln2)
+- [Dev.to/JS] [Modern Web Development with Docker and Docker Compose](https://dev.to/naskovic/modern-web-development-with-docker-and-docker-compose-p3c)
+- [Lifehacker] [The Best Safari Ad Blockers of 2022](https://lifehacker.com/the-best-safari-ad-blockers-of-2022-1849902684)
+- [Dev.to/JS] [SOLID Principle](https://dev.to/ebukaodini/solid-principle-3gl6)
+- [Dev.to/JS] [Strict object type using Proxy in JavaScript](https://dev.to/hidaytrahman/strict-object-type-using-proxy-in-javascript-32p0)
+- [Dev.to/JS] [What are Headless CMS?](https://dev.to/pulkitsingh/what-are-headless-cms-2hpb)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Apps of 2022](https://lifehacker.com/lifehackers-22-favorite-apps-of-2022-1849898715)
+- [Dev.to/JS] [Create MongoDB database and connect with Mongoose](https://dev.to/aneeqakhan/create-mongodb-database-and-connect-with-mongoose-1ii2)
 - [Dev.to/JS] [What is bcrypt.js?](https://dev.to/karaca19/what-is-bcryptjs-4pla)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Happened to Henry Cavill&#39;s Superman?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-happ-1849902395)
 - [Dev.to/JS] [Building a Music Player in React](https://dev.to/documatic/building-a-music-player-in-react-2aa4)
 - [Dev.to/JS] [Comment construire un Pomodoro en JavaScript](https://dev.to/bonheur93/comment-construire-un-pomodoro-en-javascript-3an9)
 - [Dev.to/JS] [Responsive Navigation Menu Bar Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/responsive-navigation-menu-bar-using-html-css-javascript-3pdn)
-- [Dev.to/JS] [What is JWT?](https://dev.to/karaca19/what-is-jwt-1i9l)
 - [Lifehacker] [These 3-Ingredient Pecan Bites Are a Perfect Amuse Bouche](https://lifehacker.com/these-3-ingredient-pecan-bites-are-a-perfect-amuse-bouc-1849900542)
-- [Dev.to/JS] [Top 5 React Hooks and Their Use Cases](https://dev.to/karaca19/top-5-react-hooks-and-their-use-cases-2e44)
-- [Dev.to/JS] [Build a Production-ready Ecomrermerce Application with Remix and Appwrite](https://dev.to/hackmamba/build-a-production-ready-ecomrermerce-application-with-remix-and-appwrite-4f1n)
-- [Dev.to/JS] [Scrape Play Store App Data](https://dev.to/serpdogapi/scrape-play-store-app-data-4k4m)
-- [Dev.to/JS] [What is React Router and Why Should I Care?](https://dev.to/karaca19/what-is-react-router-and-why-should-i-care-5d2f)
-- [Dev.to/JS] [What is Express.js?](https://dev.to/karaca19/what-is-expressjs-25l)
-- [Dev.to/JS] [So happy](https://dev.to/ibrahima_yafa_646d8e94fef/so-happy-20lj)
-- [Dev.to/JS] [What is Hydration &amp; why does it concern us?](https://dev.to/geekybiz/what-is-hydration-why-does-it-concern-us-377j)
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
 - [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
 - [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
 - [Lifehacker] [Use This App to Reduce Battery Drain on Your MacBook](https://lifehacker.com/use-this-app-to-reduce-battery-drain-on-your-macbook-1849892452)
 - [Lifehacker] [Your Nintendo Switch Has a Spotify Wrapped-style ‘Year in Review’](https://lifehacker.com/your-nintendo-switch-has-a-spotify-wrapped-style-year-1849893792)
-- [Lifehacker] [11 of the Dopest Weed Gadgets to Give a Tech-Savvy Stoner](https://lifehacker.com/11-of-the-dopest-weed-gadgets-to-give-a-tech-savvy-ston-1849894383)
-- [Lifehacker] [No, the ‘Salad Dressing Cleaning Hack’ Doesn’t Work &lpar;but This Does&rpar;](https://lifehacker.com/no-the-salad-dressing-cleaning-hack-doesn-t-work-bu-1849893452)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 of the Dopest Weed Gadgets to Give a Tech-Savvy Stoner](https://lifehacker.com/11-of-the-dopest-weed-gadgets-to-give-a-tech-savvy-ston-1849894383)<!-- TECH-POSTS:END -->
 
 ---
 
