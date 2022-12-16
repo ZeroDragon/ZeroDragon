@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Why You May Not Want To Explicitly Specifying Function Generics](https://dev.to/tylim88/typescript-why-you-may-not-want-to-explicitly-specify-function-generics-315m)
+- [Dev.to/JS] [Custom Radio button Using react component and Material UI](https://dev.to/mradamus/custom-radio-button-using-react-component-and-material-ui-f15)
 - [Dev.to/JS] [Optimizing Node.js Code with &quot;lodash.memoize&quot;](https://dev.to/aykacode/optimizing-nodejs-code-with-lodashmemoize-3ol6)
 - [Dev.to/JS] [Advanced Techniques for Improving Performance with React Virtualization](https://dev.to/basskibo/advanced-techniques-for-improving-performance-with-react-virtualization-fd1)
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the Best Gifts for Teachers, According to Teachers](https://lifehacker.com/8-of-the-best-gifts-for-teachers-according-to-teachers-1849899654)
 - [Dev.to/JS] [What is prototypes and how it works in JavaScript ?](https://dev.to/erhaneth/what-is-prototypes-and-how-it-works-in-javascript--32hk)
 - [Dev.to/JS] [How can AI help junior web programmers in learning and work?](https://dev.to/naskovic/how-can-chatgpt-help-junior-web-programmers-in-learning-and-work-4af6)
-- [Dev.to/JS] [Typescript Exceed Recursion Limitation](https://dev.to/tylim88/typescript-exceed-recursion-limitation-18pm)
-- [Dev.to/JS] [Journey Of Being Diploma Computer Engineer 🎓](https://dev.to/karansanghvi/journey-of-being-diploma-computer-engineer-23g)
 - [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)
 - [Lifehacker] [14 of the Best Gifts for Anyone Who Loves Cheese](https://lifehacker.com/14-of-the-best-gifts-for-anyone-who-loves-cheese-1849899389)
 - [Lifehacker] [The 12 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)
