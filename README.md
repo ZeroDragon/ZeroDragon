@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Upholster Your Furniture With an Old Sweater](https://lifehacker.com/upholster-your-furniture-with-an-old-sweater-1849901598)
+- [Dev.to/JS] [Building a full stack app with Deno Fresh and Fauna](https://dev.to/shadid12/building-a-full-stack-app-with-deno-fresh-and-fauna-223p)
+- [Dev.to/JS] [Promise.race](https://dev.to/986913/promiserace-52cf)
+- [Lifehacker] [Upgrade Your Baked Goods With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)
 - [Dev.to/JS] [🔴 Live - Data Modeling and Databases with Node.js and Prisma](https://dev.to/clarkio/live-data-modeling-and-databases-with-nodejs-and-prisma-3ifg)
 - [Dev.to/JS] [Promise.all](https://dev.to/986913/promiseall-1op7)
 - [Lifehacker] [What&#39;s New on Hulu in January 2023](https://lifehacker.com/whats-new-on-hulu-in-january-2023-1849903701)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strict object type using Proxy in JavaScript](https://dev.to/hidaytrahman/strict-object-type-using-proxy-in-javascript-32p0)
 - [Dev.to/JS] [What are Headless CMS?](https://dev.to/pulkitsingh/what-are-headless-cms-2hpb)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Apps of 2022](https://lifehacker.com/lifehackers-22-favorite-apps-of-2022-1849898715)
-- [Dev.to/JS] [Create MongoDB database and connect with Mongoose](https://dev.to/aneeqakhan/create-mongodb-database-and-connect-with-mongoose-1ii2)
-- [Dev.to/JS] [What is bcrypt.js?](https://dev.to/karaca19/what-is-bcryptjs-4pla)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Happened to Henry Cavill&#39;s Superman?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-happ-1849902395)
 - [Lifehacker] [These 3-Ingredient Pecan Bites Are a Perfect Amuse Bouche](https://lifehacker.com/these-3-ingredient-pecan-bites-are-a-perfect-amuse-bouc-1849900542)
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
@@ -49,7 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the Best Gifts for Teachers, According to Teachers](https://lifehacker.com/8-of-the-best-gifts-for-teachers-according-to-teachers-1849899654)
 - [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)
 - [Lifehacker] [14 of the Best Gifts for Anyone Who Loves Cheese](https://lifehacker.com/14-of-the-best-gifts-for-anyone-who-loves-cheese-1849899389)
-- [Lifehacker] [The 12 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)
+- [Lifehacker] [The 13 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)
 - [Lifehacker] [Free COVID Tests Are Back](https://lifehacker.com/free-covid-tests-are-back-1849898138)
 - [Lifehacker] [Stop Adding Friends to Your Relationship Fights](https://lifehacker.com/stop-adding-friends-to-your-relationship-fights-1849891055)
 - [Lifehacker] [Delete Your Phone Number From Twitter Before They Sell It](https://lifehacker.com/delete-your-phone-number-from-twitter-before-they-sell-1849897919)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 of the Best Gifts for Someone in the Hospital, According to Nurses](https://lifehacker.com/14-of-the-best-gifts-for-someone-in-the-hospital-accor-1849894755)
 - [Lifehacker] [Make Even Better Tempeh by Steaming It First](https://lifehacker.com/make-even-better-tempeh-by-steaming-it-first-1849895182)
 - [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
-- [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)
-- [Lifehacker] [16 of the Worst Gifts to Give Your Foodie Friend](https://lifehacker.com/16-of-the-worst-gifts-to-give-your-foodie-friend-1849885694)
-- [Lifehacker] [Use This App to Reduce Battery Drain on Your MacBook](https://lifehacker.com/use-this-app-to-reduce-battery-drain-on-your-macbook-1849892452)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)<!-- TECH-POSTS:END -->
 
 ---
 
