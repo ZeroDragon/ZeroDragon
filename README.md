@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJs Chat Component: Easily add chat to your react app.](https://dev.to/alakkadshaw/reactjs-chat-component-easily-add-chat-to-your-react-app-j08)
+- [Dev.to/JS] [The top JavaScript framework to land a job in 2023](https://dev.to/mehdimed/the-top-javascript-framework-to-land-a-job-in-2023-3do1)
+- [Lifehacker] [Here Are the 2022 Christmas Shipping Deadlines](https://lifehacker.com/here-are-the-2022-holiday-shipping-deadlines-1849904837)
+- [Dev.to/JS] [EasyTailwind: a package to supercharge your Tailwind](https://dev.to/noriller/easytailwind-a-package-to-supercharge-your-tailwind-13ah)
+- [Lifehacker] [My Favorite Christmas Canapé Starts With a Can of Salmon](https://lifehacker.com/my-favorite-christmas-canape-starts-with-a-can-of-salmo-1849904893)
 - [Lifehacker] [Try EmuVR to Relive ’90s Gaming](https://lifehacker.com/try-emuvr-to-relive-90s-gaming-1849904148)
 - [Dev.to/JS] [Zustand 101: A Beginner&#39;s Guide to Global State Management in React](https://dev.to/jaredm/zustand-101-a-beginners-guide-to-global-state-management-in-react-lml)
 - [Lifehacker] [Upholster Your Furniture With an Old Sweater](https://lifehacker.com/upholster-your-furniture-with-an-old-sweater-1849901598)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals: Mutable let,Comments, Functions](https://dev.to/astrodevil/javascript-fundamentals-mutable-letcomments-functions-5c1)
 - [Dev.to/JS] [Amazing Rating Card Using HTML CSS JavaScript | Fronend mentor](https://dev.to/codewithsadee/amazing-rating-card-using-html-css-javascript-fronend-mentor-13bn)
 - [Dev.to/JS] [ReactJs vs NextJs : All you need to know!](https://dev.to/darkxenium/reactjs-vs-nextjs-all-you-need-to-know-ln2)
-- [Dev.to/JS] [Modern Web Development with Docker and Docker Compose](https://dev.to/naskovic/modern-web-development-with-docker-and-docker-compose-p3c)
 - [Lifehacker] [The Best Safari Ad Blockers of 2022](https://lifehacker.com/the-best-safari-ad-blockers-of-2022-1849902684)
-- [Dev.to/JS] [SOLID Principle](https://dev.to/ebukaodini/solid-principle-3gl6)
-- [Dev.to/JS] [Strict object type using Proxy in JavaScript](https://dev.to/hidaytrahman/strict-object-type-using-proxy-in-javascript-32p0)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Apps of 2022](https://lifehacker.com/lifehackers-22-favorite-apps-of-2022-1849898715)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Happened to Henry Cavill&#39;s Superman?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-happ-1849902395)
 - [Lifehacker] [These 3-Ingredient Pecan Bites Are a Perfect Amuse Bouche](https://lifehacker.com/these-3-ingredient-pecan-bites-are-a-perfect-amuse-bouc-1849900542)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Class Up Your Christmas Morning Mimosa With Cocktail Bitters](https://lifehacker.com/class-up-your-christmas-morning-mimosa-with-cocktail-bi-1849895777)
 - [Lifehacker] [10 Movies That Tricked People Into Watching Them](https://lifehacker.com/10-movies-that-tricked-people-into-watching-them-1849896041)
 - [Lifehacker] [Human Towers, Wine Horses, and 12 Other Bits of &#39;Intangible Cultural Heritage&#39; Worth Celebrating](https://lifehacker.com/human-towers-wine-horses-and-12-other-bits-of-intangi-1849894190)
-- [Lifehacker] [14 of the Best Gifts for Someone in the Hospital, According to Nurses](https://lifehacker.com/14-of-the-best-gifts-for-someone-in-the-hospital-accor-1849894755)
-- [Lifehacker] [Make Even Better Tempeh by Steaming It First](https://lifehacker.com/make-even-better-tempeh-by-steaming-it-first-1849895182)
-- [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)<!-- TECH-POSTS:END -->
+- [Lifehacker] [14 of the Best Gifts for Someone in the Hospital, According to Nurses](https://lifehacker.com/14-of-the-best-gifts-for-someone-in-the-hospital-accor-1849894755)<!-- TECH-POSTS:END -->
 
 ---
 
