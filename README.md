@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React + TypeScript + Webpack + Module Federation Plugin - MicroFrontend Application](https://dev.to/harish_soni/react-typescript-webpack-module-federation-plugin-microfrontend-application-3g85)
 - [Dev.to/JS] [DAMAC Safa ONE](https://dev.to/akarastyd/damac-safa-one-11em)
 - [Dev.to/JS] [Introduction to HTML DOM](https://dev.to/hermitex/introduction-to-html-dom-2g0i)
 - [Dev.to/JS] [ChatGPT the Future Jobs Killer: An Amazing yet Scary Invention](https://dev.to/josephyaduvanshi/chatgpt-the-future-jobs-killer-an-amazing-yet-scary-invention-3efk)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Real-time Posting App with Socket.io in React.js and Node server. &lpar;Client Side Tutorial&rpar;](https://dev.to/luckey/create-a-real-time-posting-app-with-socketio-in-reactjs-and-node-server-client-side-tutorial-188a)
 - [Dev.to/JS] [Consistent Command-Line Execution of ES6 Module Entry Points](https://dev.to/tythos/consistent-command-line-execution-of-es6-module-entry-points-2o7k)
 - [Dev.to/JS] [Create a Real-time Posting App with Socket.io in React.js and Node server. &lpar;Server Side Tutorial&rpar;](https://dev.to/luckey/create-a-real-time-posting-app-with-socketio-in-reactjs-and-node-server-server-side-tutorial-fn2)
-- [Dev.to/JS] [Authorize Users Like a Pro: Libraries That Help You Implement Access Control With Node.JS](https://dev.to/zenstack/authorize-users-like-a-pro-libraries-that-help-you-implement-access-control-with-nodejs-5109)
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
 - [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
 - [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
