@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Bloom’s taxonomy is noteworthy to Software Testing professionals?](https://dev.to/lambdatest/why-blooms-taxonomy-is-noteworthy-to-software-testing-professionals-5bd6)
+- [Dev.to/JS] [Solving day 16 of Advent of Code 2022 in JavaScript](https://dev.to/thibpat/solving-day-16-of-advent-of-code-2022-in-javascript-3fmn)
+- [Dev.to/JS] [How to fix Converting circular structure to JSON](https://dev.to/fritzlolpro/how-to-fix-converting-circular-structure-to-json-5ddc)
 - [Dev.to/JS] [What is Node.js](https://dev.to/karaca19/what-is-nodejs-27a0)
 - [Dev.to/JS] [What is Server Side Rendering &lpar;SSR&rpar;?](https://dev.to/karaca19/what-is-server-side-rendering-ssr-316l)
 - [Dev.to/JS] [What is Asynchronous Programming?](https://dev.to/karaca19/what-is-asynchronous-programming-gii)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DAMAC Safa ONE](https://dev.to/akarastyd/damac-safa-one-11em)
 - [Dev.to/JS] [Introduction to HTML DOM](https://dev.to/hermitex/introduction-to-html-dom-2g0i)
 - [Dev.to/JS] [ChatGPT the Future Jobs Killer: An Amazing yet Scary Invention](https://dev.to/josephyaduvanshi/chatgpt-the-future-jobs-killer-an-amazing-yet-scary-invention-3efk)
-- [Dev.to/JS] [You must implement DevOps in your business!](https://dev.to/kanishedureka/you-must-implement-devops-in-your-business-3fff)
-- [Dev.to/JS] [Protetox - Weight Loss Results, Benefits, Uses &amp; Side Effects?](https://dev.to/protetoxfact2/protetox-weight-loss-results-benefits-uses-side-effects-2moc)
-- [Dev.to/JS] [Vendure - Assets to an S3 bucket](https://dev.to/dailydevtips1/vendure-assets-to-an-s3-bucket-3fag)
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
 - [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
 - [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
