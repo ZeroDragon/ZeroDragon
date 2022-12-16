@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use your third-party scripts without the performance hit with Partytown](https://dev.to/leduc1901/use-your-third-party-scripts-without-the-performance-hit-with-partytown-2bdf)
+- [Dev.to/JS] [Are You a Collector?](https://dev.to/parenttobias/are-you-a-collector-2ll8)
 - [Dev.to/JS] [Create a Real-time Posting App with Socket.io in React.js and Node server. &lpar;Client Side Tutorial&rpar;](https://dev.to/luckey/create-a-real-time-posting-app-with-socketio-in-reactjs-and-node-server-client-side-tutorial-188a)
 - [Dev.to/JS] [Consistent Command-Line Execution of ES6 Module Entry Points](https://dev.to/tythos/consistent-command-line-execution-of-es6-module-entry-points-2o7k)
 - [Dev.to/JS] [Create a Real-time Posting App with Socket.io in React.js and Node server. &lpar;Server Side Tutorial&rpar;](https://dev.to/luckey/create-a-real-time-posting-app-with-socketio-in-reactjs-and-node-server-server-side-tutorial-fn2)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Why You Should Avoid Explicit Function Generics If Possible](https://dev.to/tylim88/typescript-why-you-may-not-want-to-explicitly-specify-function-generics-315m)
 - [Dev.to/JS] [Custom Radio button Using react component and Material UI](https://dev.to/mradamus/custom-radio-button-using-react-component-and-material-ui-f15)
 - [Dev.to/JS] [Optimizing Node.js Code with &quot;lodash.memoize&quot;](https://dev.to/aykacode/optimizing-nodejs-code-with-lodashmemoize-3ol6)
-- [Dev.to/JS] [Advanced Techniques for Improving Performance with React Virtualization](https://dev.to/basskibo/advanced-techniques-for-improving-performance-with-react-virtualization-fd1)
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
-- [Dev.to/JS] [Validating email addresses using regular expressions in JavaScript](https://dev.to/aykacode/validating-email-addresses-using-regular-expressions-in-javascript-gca)
 - [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
 - [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
 - [Lifehacker] [What&#39;s New on Disney+ in January 2023](https://lifehacker.com/whats-new-on-disney-in-january-2023-1849900350)
