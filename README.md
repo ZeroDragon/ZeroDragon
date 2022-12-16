@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Forever 21](https://dev.to/megdiv/forever-21-268m)
+- [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
+- [Dev.to/JS] [A/B testing development - A developer overview &lpar;Part - 1&rpar;](https://dev.to/faroqueabdullah/ab-testing-development-a-developer-overview-part-1-16ln)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Dev.to/JS] [JAMstack - an introduction](https://dev.to/canuto/jamstack-an-introduction-74d)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
@@ -43,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promise.race](https://dev.to/986913/promiserace-52cf)
 - [Lifehacker] [Upgrade Your Desserts With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)
 - [Dev.to/JS] [🔴 Live - Data Modeling and Databases with Node.js and Prisma](https://dev.to/clarkio/live-data-modeling-and-databases-with-nodejs-and-prisma-3ifg)
-- [Dev.to/JS] [Promise.all](https://dev.to/986913/promiseall-1op7)
 - [Lifehacker] [What&#39;s New on Hulu in January 2023](https://lifehacker.com/whats-new-on-hulu-in-january-2023-1849903701)
-- [Dev.to/JS] [Medusa 1.7.0: Performance Improvement, B2B Launch, and more!](https://dev.to/medusajs/medusa-170-performance-improvement-b2b-launch-and-more-15pe)
 - [Lifehacker] [Five of the Best Ways to Increase Your Stress Resilience](https://lifehacker.com/five-of-the-best-ways-to-increase-your-stress-resilienc-1849903411)
 - [Lifehacker] [The Best Safari Ad Blockers of 2022](https://lifehacker.com/the-best-safari-ad-blockers-of-2022-1849902684)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Apps of 2022](https://lifehacker.com/lifehackers-22-favorite-apps-of-2022-1849898715)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 of the Best Gifts for Anyone Who Loves Cheese](https://lifehacker.com/14-of-the-best-gifts-for-anyone-who-loves-cheese-1849899389)
 - [Lifehacker] [The 13 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)
 - [Lifehacker] [Free COVID Tests Are Back](https://lifehacker.com/free-covid-tests-are-back-1849898138)
-- [Lifehacker] [Stop Adding Friends to Your Relationship Fights](https://lifehacker.com/stop-adding-friends-to-your-relationship-fights-1849891055)
-- [Lifehacker] [Delete Your Phone Number From Twitter Before They Sell It](https://lifehacker.com/delete-your-phone-number-from-twitter-before-they-sell-1849897919)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Adding Friends to Your Relationship Fights](https://lifehacker.com/stop-adding-friends-to-your-relationship-fights-1849891055)<!-- TECH-POSTS:END -->
 
 ---
 
