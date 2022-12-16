@@ -23,10 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Try EmuVR to Relive ’90s Gaming](https://lifehacker.com/try-emuvr-to-relive-90s-gaming-1849904148)
+- [Dev.to/JS] [Zustand 101: A Beginner&#39;s Guide to Global State Management in React](https://dev.to/jaredm/zustand-101-a-beginners-guide-to-global-state-management-in-react-lml)
 - [Lifehacker] [Upholster Your Furniture With an Old Sweater](https://lifehacker.com/upholster-your-furniture-with-an-old-sweater-1849901598)
 - [Dev.to/JS] [Building a full stack app with Deno Fresh and Fauna](https://dev.to/shadid12/building-a-full-stack-app-with-deno-fresh-and-fauna-223p)
 - [Dev.to/JS] [Promise.race](https://dev.to/986913/promiserace-52cf)
-- [Lifehacker] [Upgrade Your Baked Goods With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)
+- [Lifehacker] [Upgrade Your Desserts With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)
 - [Dev.to/JS] [🔴 Live - Data Modeling and Databases with Node.js and Prisma](https://dev.to/clarkio/live-data-modeling-and-databases-with-nodejs-and-prisma-3ifg)
 - [Dev.to/JS] [Promise.all](https://dev.to/986913/promiseall-1op7)
 - [Lifehacker] [What&#39;s New on Hulu in January 2023](https://lifehacker.com/whats-new-on-hulu-in-january-2023-1849903701)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Safari Ad Blockers of 2022](https://lifehacker.com/the-best-safari-ad-blockers-of-2022-1849902684)
 - [Dev.to/JS] [SOLID Principle](https://dev.to/ebukaodini/solid-principle-3gl6)
 - [Dev.to/JS] [Strict object type using Proxy in JavaScript](https://dev.to/hidaytrahman/strict-object-type-using-proxy-in-javascript-32p0)
-- [Dev.to/JS] [What are Headless CMS?](https://dev.to/pulkitsingh/what-are-headless-cms-2hpb)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Apps of 2022](https://lifehacker.com/lifehackers-22-favorite-apps-of-2022-1849898715)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Happened to Henry Cavill&#39;s Superman?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-happ-1849902395)
 - [Lifehacker] [These 3-Ingredient Pecan Bites Are a Perfect Amuse Bouche](https://lifehacker.com/these-3-ingredient-pecan-bites-are-a-perfect-amuse-bouc-1849900542)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Human Towers, Wine Horses, and 12 Other Bits of &#39;Intangible Cultural Heritage&#39; Worth Celebrating](https://lifehacker.com/human-towers-wine-horses-and-12-other-bits-of-intangi-1849894190)
 - [Lifehacker] [14 of the Best Gifts for Someone in the Hospital, According to Nurses](https://lifehacker.com/14-of-the-best-gifts-for-someone-in-the-hospital-accor-1849894755)
 - [Lifehacker] [Make Even Better Tempeh by Steaming It First](https://lifehacker.com/make-even-better-tempeh-by-steaming-it-first-1849895182)
-- [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
-- [Lifehacker] [This Is Probably the Best Xbox Deal You’ll Find Before Christmas](https://lifehacker.com/this-is-probably-the-best-xbox-deal-you-ll-find-before-1849894852)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prevent Holiday Kitchen Disasters](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)<!-- TECH-POSTS:END -->
 
 ---
 
