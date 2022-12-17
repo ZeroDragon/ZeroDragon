@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Event คืออะไร? และใช้งานอย่างไร?](https://dev.to/wteja/javascript-event-khuueaair-aelaaichngaanyaangair-5enk)
+- [Dev.to/JS] [Day 17: A JavaScript bug and GitHub Workflow CI for the four-pillars Ruby gem](https://dev.to/szabgab/a-javascript-bug-and-github-workflow-ci-for-the-four-pillars-ruby-gem-1gbg)
+- [Dev.to/JS] [How to use Array.map to render a list of items in React](https://dev.to/daz4126/how-to-use-arraymap-to-render-a-list-of-items-in-react-4d01)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
 - [Dev.to/JS] [Peak Index In Mountain Array](https://dev.to/zeeshanali0704/peak-index-in-mountain-array-2nif)
 - [Dev.to/JS] [How I Created a Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-text-sharing-website-using-simple-javascript-nbd)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Image Preview with jQuery](https://dev.to/nabillatrisnani/create-image-preview-with-jquery-3jel)
 - [Dev.to/JS] [MiroTalk - WebRTC - C2C - Simple, Secure, Fast, Real-Time, Cam2Cam Video Conferences](https://dev.to/miroslavpejic85/mirotalk-webrtc-c2c-simple-secure-fast-real-time-cam2cam-video-conferences-403l)
 - [Dev.to/JS] [Fundamental React Concepts Explained](https://dev.to/karaca19/fundamental-react-concepts-explained-15m1)
-- [Dev.to/JS] [Node.js Event Loop 101](https://dev.to/karaca19/nodejs-event-loop-101-3ma6)
-- [Dev.to/JS] [What is a Front-End Framework?](https://dev.to/karaca19/what-is-a-front-end-framework-jo2)
-- [Dev.to/JS] [Asynchronous JavaScript: An Introduction to Handling Async Tasks](https://dev.to/octobreak/asynchronous-javascript-an-introduction-to-handling-async-tasks-2238)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
