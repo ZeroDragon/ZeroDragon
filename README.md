@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Styled Components in React: A comprehensive step by step guide.](https://dev.to/umschaudhary/getting-started-with-styled-components-in-react-a-comprehensive-step-by-step-guide-42dn)
 - [Dev.to/JS] [table: improve moving column UI &amp; UX](https://dev.to/gohomewho/table-improve-moving-column-ui-ux-4mpi)
 - [Dev.to/JS] [VS Code Extensions You Should Use As a React Developer](https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i)
 - [Dev.to/JS] [Common Errors in JavaScript](https://dev.to/luckey/common-errors-in-javascript-30li)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
 - [Lifehacker] [Use the &#39;Feynman Method&#39; to Learn New Things](https://lifehacker.com/use-the-feynman-method-to-learn-new-things-1849905388)
 - [Lifehacker] [13 TV Shows and Movies to Watch If You Miss the Cast of &#39;The White Lotus&#39;](https://lifehacker.com/13-tv-shows-and-movies-to-watch-if-you-miss-the-cast-of-1849904811)
-- [Dev.to/JS] [Regolith Reservoir](https://dev.to/rmion/regolith-reservoir-mmh)
 - [Lifehacker] [This TikTok Dryer Sheet ‘Hack’ Could Set Your House on Fire](https://lifehacker.com/this-tiktok-dryer-sheet-hack-could-set-your-house-on-1849905164)
 - [Lifehacker] [Here Are the 2022 Christmas Shipping Deadlines](https://lifehacker.com/here-are-the-2022-holiday-shipping-deadlines-1849904837)
 - [Lifehacker] [My Favorite Christmas Canapé Starts With a Can of Salmon](https://lifehacker.com/my-favorite-christmas-canape-starts-with-a-can-of-salmo-1849904893)
