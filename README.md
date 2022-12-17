@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prodentim - Read Reviews, Uses, Pros, Cons, Price &amp; Results?](https://dev.to/prodent68912820/prodentim-read-reviews-uses-pros-cons-price-results-a6a)
+- [Dev.to/JS] [How to create a Google Maps clone using OpenStreetMap API](https://dev.to/theplugjumbo/how-to-create-a-google-maps-clone-using-openstreetmap-api-1gfg)
+- [Dev.to/JS] [Vendure - Setting up facets](https://dev.to/dailydevtips1/vendure-setting-up-facets-39f7)
 - [Dev.to/JS] [Getting Started with Styled Components in React: A comprehensive step by step guide.](https://dev.to/umschaudhary/getting-started-with-styled-components-in-react-a-comprehensive-step-by-step-guide-42dn)
 - [Dev.to/JS] [table: improve moving column UI &amp; UX](https://dev.to/gohomewho/table-improve-moving-column-ui-ux-4mpi)
 - [Dev.to/JS] [VS Code Extensions You Should Use As a React Developer](https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Extending Collections](https://dev.to/parenttobias/extending-collections-25kg)
 - [Dev.to/JS] [How to use React with Perl/Mojolicious web frame work](https://dev.to/yukikimoto/how-to-use-react-with-perlmojolicious-web-frame-work-8id)
 - [Dev.to/JS] [Introduction to SwiftUI for NativeScript](https://dev.to/valorsoftware/introduction-to-swiftui-for-nativescript-4m1b)
-- [Dev.to/JS] [Forever 21](https://dev.to/megdiv/forever-21-268m)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
-- [Dev.to/JS] [A/B testing development - A developer overview &lpar;Part - 1&rpar;](https://dev.to/faroqueabdullah/ab-testing-development-a-developer-overview-part-1-16ln)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
-- [Dev.to/JS] [JAMstack - an introduction](https://dev.to/canuto/jamstack-an-introduction-74d)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
 - [Lifehacker] [Use the &#39;Feynman Method&#39; to Learn New Things](https://lifehacker.com/use-the-feynman-method-to-learn-new-things-1849905388)
 - [Lifehacker] [13 TV Shows and Movies to Watch If You Miss the Cast of &#39;The White Lotus&#39;](https://lifehacker.com/13-tv-shows-and-movies-to-watch-if-you-miss-the-cast-of-1849904811)
