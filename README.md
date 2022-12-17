@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
+- [Dev.to/JS] [Peak Index In Mountain Array](https://dev.to/zeeshanali0704/peak-index-in-mountain-array-2nif)
+- [Dev.to/JS] [How I Created a Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-text-sharing-website-using-simple-javascript-nbd)
 - [Dev.to/JS] [Making adaptive UI layout in Pixi.JS easy with DOM](https://dev.to/schmooky/making-adaptive-ui-layout-in-pixijs-easy-with-dom-186j)
 - [Lifehacker] [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
 - [Dev.to/JS] [JavaScript&#39;s Tiers of Immutability](https://dev.to/synthetic_rain/javascripts-tiers-of-immutability-31k7)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js Event Loop 101](https://dev.to/karaca19/nodejs-event-loop-101-3ma6)
 - [Dev.to/JS] [What is a Front-End Framework?](https://dev.to/karaca19/what-is-a-front-end-framework-jo2)
 - [Dev.to/JS] [Asynchronous JavaScript: An Introduction to Handling Async Tasks](https://dev.to/octobreak/asynchronous-javascript-an-introduction-to-handling-async-tasks-2238)
-- [Dev.to/JS] [SvelteKit Vs ReactJs](https://dev.to/ahmed_onour/sveltekit-vs-reactjs-35fi)
-- [Dev.to/JS] [to had been made at facilities which](https://dev.to/avisglucotrust/to-had-been-made-at-facilities-which-2cfh)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the Best Gifts for Teachers, According to Teachers](https://lifehacker.com/8-of-the-best-gifts-for-teachers-according-to-teachers-1849899654)
 - [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)
 - [Lifehacker] [14 of the Best Gifts for Anyone Who Loves Cheese](https://lifehacker.com/14-of-the-best-gifts-for-anyone-who-loves-cheese-1849899389)
-- [Lifehacker] [The 13 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)
-- [Lifehacker] [Free COVID Tests Are Back](https://lifehacker.com/free-covid-tests-are-back-1849898138)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 13 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)<!-- TECH-POSTS:END -->
 
 ---
 
