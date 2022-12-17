@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript&#39;s Tiers of Immutability](https://dev.to/synthetic_rain/javascripts-tiers-of-immutability-31k7)
+- [Dev.to/JS] [Are you using useEffect efficiently? 🤔](https://dev.to/rohan220217/are-you-using-useeffect-efficiently-1fcl)
 - [Dev.to/JS] [Streamlining My Business Website with the Jamstack: A Case Study](https://dev.to/salttechno/streamlining-my-business-website-with-the-jamstack-a-case-study-41f4)
 - [Dev.to/JS] [Create Image Preview with jQuery](https://dev.to/nabillatrisnani/create-image-preview-with-jquery-3jel)
 - [Dev.to/JS] [MiroTalk - WebRTC - C2C - Simple, Secure, Fast, Real-Time, Cam2Cam Video Conferences](https://dev.to/miroslavpejic85/mirotalk-webrtc-c2c-simple-secure-fast-real-time-cam2cam-video-conferences-403l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SvelteKit Vs ReactJs](https://dev.to/ahmed_onour/sveltekit-vs-reactjs-35fi)
 - [Dev.to/JS] [to had been made at facilities which](https://dev.to/avisglucotrust/to-had-been-made-at-facilities-which-2cfh)
 - [Dev.to/JS] [Connect Polkadot to a Next.js website with @polkadot/extension-dapp](https://dev.to/andriishupta/connect-polkadot-to-a-nextjs-website-with-polkadotextension-dapp-55d1)
-- [Dev.to/JS] [VueJS Computed Property](https://dev.to/vkbishu/vuejs-computed-property-54mo)
-- [Dev.to/JS] [ES6 Concepts for React JS](https://dev.to/shubhamtiwari909/es6-concepts-for-react-js-51ok)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
