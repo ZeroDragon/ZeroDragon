@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making adaptive UI layout in Pixi.JS easy with DOM](https://dev.to/schmooky/making-adaptive-ui-layout-in-pixijs-easy-with-dom-186j)
+- [Lifehacker] [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
 - [Dev.to/JS] [JavaScript&#39;s Tiers of Immutability](https://dev.to/synthetic_rain/javascripts-tiers-of-immutability-31k7)
 - [Dev.to/JS] [Are you using useEffect efficiently? 🤔](https://dev.to/rohan220217/are-you-using-useeffect-efficiently-1fcl)
 - [Dev.to/JS] [Streamlining My Business Website with the Jamstack: A Case Study](https://dev.to/salttechno/streamlining-my-business-website-with-the-jamstack-a-case-study-41f4)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asynchronous JavaScript: An Introduction to Handling Async Tasks](https://dev.to/octobreak/asynchronous-javascript-an-introduction-to-handling-async-tasks-2238)
 - [Dev.to/JS] [SvelteKit Vs ReactJs](https://dev.to/ahmed_onour/sveltekit-vs-reactjs-35fi)
 - [Dev.to/JS] [to had been made at facilities which](https://dev.to/avisglucotrust/to-had-been-made-at-facilities-which-2cfh)
-- [Dev.to/JS] [Connect Polkadot to a Next.js website with @polkadot/extension-dapp](https://dev.to/andriishupta/connect-polkadot-to-a-nextjs-website-with-polkadotextension-dapp-55d1)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)
 - [Lifehacker] [14 of the Best Gifts for Anyone Who Loves Cheese](https://lifehacker.com/14-of-the-best-gifts-for-anyone-who-loves-cheese-1849899389)
 - [Lifehacker] [The 13 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)
-- [Lifehacker] [Free COVID Tests Are Back](https://lifehacker.com/free-covid-tests-are-back-1849898138)
-- [Lifehacker] [Stop Adding Friends to Your Relationship Fights](https://lifehacker.com/stop-adding-friends-to-your-relationship-fights-1849891055)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Free COVID Tests Are Back](https://lifehacker.com/free-covid-tests-are-back-1849898138)<!-- TECH-POSTS:END -->
 
 ---
 
