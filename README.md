@@ -23,12 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ㄥ8Ɩ llǝɯS ǝpoƆ - spɹɐʍʞɔɐq ǝslƎ/ℲI](https://dev.to/mcsee/eng8i-llws-poo-sprawkoaq-sl3i-1e0i)
 - [Dev.to/JS] [Top 3 React Testing Library mistakes I should have spotted earlier 🚀](https://dev.to/jozsefdevs/top-3-react-testing-library-mistakes-i-should-have-spotted-earlier-9hd)
 - [Dev.to/JS] [How to add robots.txt to Next.js Application](https://dev.to/uniquewebdev/how-to-add-robotstxt-to-nextjs-application-en0)
 - [Dev.to/JS] [Angular Universal with Standalone Component](https://dev.to/chocho01/angular-universal-with-standalone-component-206c)
 - [Dev.to/JS] [Vue 3 Composition API vs Options API](https://dev.to/ratracegrad/vue-3-composition-api-vs-options-api-59mk)
 - [Dev.to/JS] [Beacon Exclusion Zone](https://dev.to/rmion/beacon-exclusion-zone-1dkc)
 - [Dev.to/JS] [Animated Doritos Landing Page](https://dev.to/blueycode/animated-doritos-landing-page-4lej)
+- [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Dev.to/JS] [🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications](https://dev.to/maxprogramming/webhooks-101-how-i-use-discord-webhooks-for-personal-notifications-440p)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Dev.to/JS] [JavaScript Event คืออะไร? และใช้งานอย่างไร?](https://dev.to/wteja/javascript-event-khuueaair-aelaaichngaanyaangair-5enk)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Array.map to render a list of items in React](https://dev.to/daz4126/how-to-use-arraymap-to-render-a-list-of-items-in-react-4d01)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
 - [Dev.to/JS] [Peak Index In Mountain Array](https://dev.to/zeeshanali0704/peak-index-in-mountain-array-2nif)
-- [Dev.to/JS] [How I Created a Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-text-sharing-website-using-simple-javascript-nbd)
 - [Lifehacker] [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in January 2023](https://lifehacker.com/whats-new-on-disney-in-january-2023-1849900350)
 - [Lifehacker] [Bet You Can&#39;t Spot the Elusive &#39;Christmas Asteroid&#39;](https://lifehacker.com/bet-you-cant-spot-the-elusive-christmas-asteroid-1849899845)
 - [Lifehacker] [8 of the Best Gifts for Teachers, According to Teachers](https://lifehacker.com/8-of-the-best-gifts-for-teachers-according-to-teachers-1849899654)
-- [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)
-- [Lifehacker] [14 of the Best Gifts for Anyone Who Loves Cheese](https://lifehacker.com/14-of-the-best-gifts-for-anyone-who-loves-cheese-1849899389)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)<!-- TECH-POSTS:END -->
 
 ---
 
