@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asynchronous JavaScript: An Introduction to Handling Async Tasks](https://dev.to/octobreak/asynchronous-javascript-an-introduction-to-handling-async-tasks-2238)
 - [Dev.to/JS] [SvelteKit Vs ReactJs](https://dev.to/ahmed_onour/sveltekit-vs-reactjs-35fi)
 - [Dev.to/JS] [to had been made at facilities which](https://dev.to/avisglucotrust/to-had-been-made-at-facilities-which-2cfh)
 - [Dev.to/JS] [Connect Polkadot to a Next.js website with @polkadot/extension-dapp](https://dev.to/andriishupta/connect-polkadot-to-a-nextjs-website-with-polkadotextension-dapp-55d1)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prodentim - Read Reviews, Uses, Pros, Cons, Price &amp; Results?](https://dev.to/prodent68912820/prodentim-read-reviews-uses-pros-cons-price-results-a6a)
 - [Dev.to/JS] [How to create a Google Maps clone using OpenStreetMap API](https://dev.to/brandonbyr4/how-to-create-a-google-maps-clone-using-openstreetmap-api-1gfg)
 - [Dev.to/JS] [Vendure - Setting up facets](https://dev.to/dailydevtips1/vendure-setting-up-facets-39f7)
-- [Dev.to/JS] [Getting Started with Styled Components in React: A comprehensive step by step guide.](https://dev.to/umschaudhary/getting-started-with-styled-components-in-react-a-comprehensive-step-by-step-guide-42dn)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
