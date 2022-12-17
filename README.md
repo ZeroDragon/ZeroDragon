@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
+- [Dev.to/JS] [🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications](https://dev.to/maxprogramming/webhooks-101-how-i-use-discord-webhooks-for-personal-notifications-440p)
+- [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Dev.to/JS] [JavaScript Event คืออะไร? และใช้งานอย่างไร?](https://dev.to/wteja/javascript-event-khuueaair-aelaaichngaanyaangair-5enk)
 - [Dev.to/JS] [Day 17: A JavaScript bug and GitHub Workflow CI for the four-pillars Ruby gem](https://dev.to/szabgab/a-javascript-bug-and-github-workflow-ci-for-the-four-pillars-ruby-gem-1gbg)
 - [Dev.to/JS] [How to use Array.map to render a list of items in React](https://dev.to/daz4126/how-to-use-arraymap-to-render-a-list-of-items-in-react-4d01)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Streamlining My Business Website with the Jamstack: A Case Study](https://dev.to/salttechno/streamlining-my-business-website-with-the-jamstack-a-case-study-41f4)
 - [Dev.to/JS] [Create Image Preview with jQuery](https://dev.to/nabillatrisnani/create-image-preview-with-jquery-3jel)
 - [Dev.to/JS] [MiroTalk - WebRTC - C2C - Simple, Secure, Fast, Real-Time, Cam2Cam Video Conferences](https://dev.to/miroslavpejic85/mirotalk-webrtc-c2c-simple-secure-fast-real-time-cam2cam-video-conferences-403l)
-- [Dev.to/JS] [Fundamental React Concepts Explained](https://dev.to/karaca19/fundamental-react-concepts-explained-15m1)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in January 2023](https://lifehacker.com/whats-new-on-disney-in-january-2023-1849900350)
 - [Lifehacker] [Bet You Can&#39;t Spot the Elusive &#39;Christmas Asteroid&#39;](https://lifehacker.com/bet-you-cant-spot-the-elusive-christmas-asteroid-1849899845)
 - [Lifehacker] [8 of the Best Gifts for Teachers, According to Teachers](https://lifehacker.com/8-of-the-best-gifts-for-teachers-according-to-teachers-1849899654)
-- [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)
-- [Lifehacker] [14 of the Best Gifts for Anyone Who Loves Cheese](https://lifehacker.com/14-of-the-best-gifts-for-anyone-who-loves-cheese-1849899389)
-- [Lifehacker] [The 13 Best New Podcasts of 2022](https://lifehacker.com/the-12-best-podcasts-of-2022-1849879055)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)<!-- TECH-POSTS:END -->
 
 ---
 
