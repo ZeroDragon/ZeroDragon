@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Finished SCRIMBA beginner js course](https://dev.to/yosefgeda/finished-scrimba-beginner-js-course-1fi3)
 - [Dev.to/JS] [Getting started withJavaScript](https://dev.to/devpriyash/getting-started-withjavascript-1c9o)
 - [Dev.to/JS] [150. Leetcode Solution in javascript](https://dev.to/chiki1601/150-leetcode-solution-in-cpp-22m3)
 - [Dev.to/JS] [Prodentim - Read Reviews, Uses, Pros, Cons, Price &amp; Results?](https://dev.to/prodent68912820/prodentim-read-reviews-uses-pros-cons-price-results-a6a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common Errors in JavaScript](https://dev.to/luckey/common-errors-in-javascript-30li)
 - [Dev.to/JS] [Tips for Improving Code Length and Making Your Code More Concise](https://dev.to/luckey/tips-for-improving-code-length-and-making-your-code-more-concise-33d0)
 - [Dev.to/JS] [Tips for Improving Productivity in JavaScript](https://dev.to/luckey/tips-for-improving-productivity-in-javascript-2dnh)
-- [Dev.to/JS] [Extending Collections](https://dev.to/parenttobias/extending-collections-25kg)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
