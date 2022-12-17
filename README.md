@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 3 React Testing Library mistakes I should have spotted earlier 🚀](https://dev.to/jozsefdevs/top-3-react-testing-library-mistakes-i-should-have-spotted-earlier-9hd)
+- [Dev.to/JS] [How to add robots.txt to Next.js Application](https://dev.to/uniquewebdev/how-to-add-robotstxt-to-nextjs-application-en0)
+- [Dev.to/JS] [Angular Universal with Standalone Component](https://dev.to/chocho01/angular-universal-with-standalone-component-206c)
 - [Dev.to/JS] [Vue 3 Composition API vs Options API](https://dev.to/ratracegrad/vue-3-composition-api-vs-options-api-59mk)
 - [Dev.to/JS] [Beacon Exclusion Zone](https://dev.to/rmion/beacon-exclusion-zone-1dkc)
 - [Dev.to/JS] [Animated Doritos Landing Page](https://dev.to/blueycode/animated-doritos-landing-page-4lej)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
 - [Dev.to/JS] [Peak Index In Mountain Array](https://dev.to/zeeshanali0704/peak-index-in-mountain-array-2nif)
 - [Dev.to/JS] [How I Created a Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-text-sharing-website-using-simple-javascript-nbd)
-- [Dev.to/JS] [Making adaptive UI layout in Pixi.JS easy with DOM](https://dev.to/schmooky/making-adaptive-ui-layout-in-pixijs-easy-with-dom-186j)
 - [Lifehacker] [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
-- [Dev.to/JS] [JavaScript&#39;s Tiers of Immutability](https://dev.to/synthetic_rain/javascripts-tiers-of-immutability-31k7)
-- [Dev.to/JS] [Are you using useEffect efficiently? 🤔](https://dev.to/rohan220217/are-you-using-useeffect-efficiently-1fcl)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
