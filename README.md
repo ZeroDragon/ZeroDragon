@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VS Code Extensions You Should Use As a React Developer](https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i)
+- [Dev.to/JS] [Common Errors in JavaScript](https://dev.to/luckey/common-errors-in-javascript-30li)
 - [Dev.to/JS] [Tips for Improving Code Length and Making Your Code More Concise](https://dev.to/luckey/tips-for-improving-code-length-and-making-your-code-more-concise-33d0)
 - [Dev.to/JS] [Tips for Improving Productivity in JavaScript](https://dev.to/luckey/tips-for-improving-productivity-in-javascript-2dnh)
 - [Dev.to/JS] [Extending Collections](https://dev.to/parenttobias/extending-collections-25kg)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Regolith Reservoir](https://dev.to/rmion/regolith-reservoir-mmh)
 - [Dev.to/JS] [Understanding Higher-Order Functions](https://dev.to/parenttobias/understanding-higher-order-functions-4f6d)
 - [Lifehacker] [This TikTok Dryer Sheet ‘Hack’ Could Set Your House on Fire](https://lifehacker.com/this-tiktok-dryer-sheet-hack-could-set-your-house-on-1849905164)
-- [Dev.to/JS] [ReactJs Chat Component: Easily add chat to your react app.](https://dev.to/alakkadshaw/reactjs-chat-component-easily-add-chat-to-your-react-app-j08)
-- [Dev.to/JS] [The top JavaScript framework to land a job in 2023](https://dev.to/mehdimed/the-top-javascript-framework-to-land-a-job-in-2023-3do1)
 - [Lifehacker] [Here Are the 2022 Christmas Shipping Deadlines](https://lifehacker.com/here-are-the-2022-holiday-shipping-deadlines-1849904837)
 - [Lifehacker] [My Favorite Christmas Canapé Starts With a Can of Salmon](https://lifehacker.com/my-favorite-christmas-canape-starts-with-a-can-of-salmo-1849904893)
 - [Lifehacker] [Try EmuVR to Relive ’90s Gaming](https://lifehacker.com/try-emuvr-to-relive-90s-gaming-1849904148)
