@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tips for Improving Code Length and Making Your Code More Concise](https://dev.to/luckey/tips-for-improving-code-length-and-making-your-code-more-concise-33d0)
+- [Dev.to/JS] [Tips for Improving Productivity in JavaScript](https://dev.to/luckey/tips-for-improving-productivity-in-javascript-2dnh)
+- [Dev.to/JS] [Extending Collections](https://dev.to/parenttobias/extending-collections-25kg)
+- [Dev.to/JS] [How to use React with Perl/Mojolicious web frame work](https://dev.to/yukikimoto/how-to-use-react-with-perlmojolicious-web-frame-work-8id)
+- [Dev.to/JS] [Introduction to SwiftUI for NativeScript](https://dev.to/valorsoftware/introduction-to-swiftui-for-nativescript-4m1b)
 - [Dev.to/JS] [Forever 21](https://dev.to/megdiv/forever-21-268m)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Dev.to/JS] [A/B testing development - A developer overview &lpar;Part - 1&rpar;](https://dev.to/faroqueabdullah/ab-testing-development-a-developer-overview-part-1-16ln)
@@ -37,15 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReactJs Chat Component: Easily add chat to your react app.](https://dev.to/alakkadshaw/reactjs-chat-component-easily-add-chat-to-your-react-app-j08)
 - [Dev.to/JS] [The top JavaScript framework to land a job in 2023](https://dev.to/mehdimed/the-top-javascript-framework-to-land-a-job-in-2023-3do1)
 - [Lifehacker] [Here Are the 2022 Christmas Shipping Deadlines](https://lifehacker.com/here-are-the-2022-holiday-shipping-deadlines-1849904837)
-- [Dev.to/JS] [EasyTailwind: a package to supercharge your Tailwind](https://dev.to/noriller/easytailwind-a-package-to-supercharge-your-tailwind-13ah)
 - [Lifehacker] [My Favorite Christmas Canapé Starts With a Can of Salmon](https://lifehacker.com/my-favorite-christmas-canape-starts-with-a-can-of-salmo-1849904893)
 - [Lifehacker] [Try EmuVR to Relive ’90s Gaming](https://lifehacker.com/try-emuvr-to-relive-90s-gaming-1849904148)
-- [Dev.to/JS] [Zustand 101: A Beginner&#39;s Guide to Global State Management in React](https://dev.to/jaredm/zustand-101-a-beginners-guide-to-global-state-management-in-react-lml)
 - [Lifehacker] [Upholster Your Furniture With an Old Sweater](https://lifehacker.com/upholster-your-furniture-with-an-old-sweater-1849901598)
-- [Dev.to/JS] [Building a full stack app with Deno Fresh and Fauna](https://dev.to/shadid12/building-a-full-stack-app-with-deno-fresh-and-fauna-223p)
-- [Dev.to/JS] [Promise.race](https://dev.to/986913/promiserace-52cf)
 - [Lifehacker] [Upgrade Your Desserts With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)
-- [Dev.to/JS] [🔴 Live - Data Modeling and Databases with Node.js and Prisma](https://dev.to/clarkio/live-data-modeling-and-databases-with-nodejs-and-prisma-3ifg)
 - [Lifehacker] [What&#39;s New on Hulu in January 2023](https://lifehacker.com/whats-new-on-hulu-in-january-2023-1849903701)
 - [Lifehacker] [Five of the Best Ways to Increase Your Stress Resilience](https://lifehacker.com/five-of-the-best-ways-to-increase-your-stress-resilienc-1849903411)
 - [Lifehacker] [The Best Safari Ad Blockers of 2022](https://lifehacker.com/the-best-safari-ad-blockers-of-2022-1849902684)
