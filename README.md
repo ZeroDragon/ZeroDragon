@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FTO formation menu](https://dev.to/lordoomer/fto-formation-menu-a5o)
+- [Dev.to/JS] [Testing your inputs and dependencies like a boss](https://dev.to/noriller/testing-your-inputs-and-dependencies-like-a-boss-21eb)
+- [Dev.to/JS] [How to Create Toast Notifications in a React Applications](https://dev.to/code_queen/how-to-create-toast-notifications-in-a-react-applications-3aeo)
 - [Dev.to/JS] [Rapid Html development with Emmet formula in VS code](https://dev.to/sk063675488/rapid-html-development-with-emmet-formula-in-vs-code-24mh)
 - [Dev.to/JS] [How to create color piker &lpar;HTML/CSS/JS&rpar;](https://dev.to/simosamaa/how-to-create-color-piker-htmlcssjs-4677)
 - [Dev.to/JS] [Decorator pattern in TypeScript](https://dev.to/jmalvarez/decorator-pattern-in-typescript-na5)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Environment Variables in JavaScript, Python, Java, PHP, C#, C++, C, Perl, and Operating systems](https://dev.to/covelitein/mastering-environment-variables-in-javascript-python-java-php-c-c-c-perl-and-operating-systems-27h8)
 - [Dev.to/JS] [How to integrate kafka with nodejs ?](https://dev.to/chafroudtarek/how-to-integrate-kafka-with-nodejs--4bil)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
-- [Dev.to/JS] [JS Test #3: try/catch](https://dev.to/nathannosudo/js-test-3-trycatch-3he3)
-- [Dev.to/JS] [Let&#39;s code a Robot with JavaScript](https://dev.to/tsolawoyin/lets-code-a-robot-with-javascript-5192)
-- [Dev.to/JS] [[Typia] 15,000x faster TypeScript Validator and its histories](https://dev.to/samchon/typia-15000x-faster-validator-and-its-histories-1fmg)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
