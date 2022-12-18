@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Customizing vendure](https://dev.to/dailydevtips1/customizing-vendure-4a8k)
+- [Dev.to/JS] [Timer using React.](https://dev.to/vikas13114562/timer-using-react-2gj4)
+- [Dev.to/JS] [Using Fontsource With 11ty](https://dev.to/murtuzaalisurti/using-fontsource-with-11ty-4b82)
+- [Dev.to/JS] [react useRef&lpar;&rpar; hook &lpar;web dev simplified&rpar;](https://dev.to/akshdesai1/react-useref-hook-web-dev-simplified-1obm)
+- [Dev.to/JS] [Common Programming Case Types](https://dev.to/yusufalp/common-programming-case-types-2ec)
 - [Dev.to/JS] [Help with a react component](https://dev.to/dstr88/help-with-a-react-component-4l8d)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;17-12-2022&rpar; - Ensuring the Enable Maximiser Doesn’t Destroy the Multiverse](https://dev.to/mjgs/this-weeks-newsletter-is-out-17-12-2022-ensuring-the-enable-maximiser-doesnt-destroy-the-multiverse-3m7a)
 - [Dev.to/JS] [Vorms: Vue form validation with Composition API](https://dev.to/minighost/vorms-vue-form-validation-with-composition-api-5dhg)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Default vs named module export in Javascript](https://dev.to/basskibo/default-vs-named-module-export-in-javascript-1j7b)
 - [Dev.to/JS] [How To Setup Cypress Testing Library? A Smarter Way To Select Elements.](https://dev.to/pthapa1/how-to-setup-cypress-testing-library-41f8)
 - [Dev.to/JS] [Conditional Wrapping in React - An Advanced Approach](https://dev.to/ayka_code/conditional-wrapping-in-react-an-advanced-approach-50jk)
-- [Dev.to/JS] [ㄥ8Ɩ llǝɯS ǝpoƆ - spɹɐʍʞɔɐq ǝslƎ/ℲI](https://dev.to/mcsee/eng8i-llws-poo-sprawkoaq-sl3i-1e0i)
-- [Dev.to/JS] [Top 3 React Testing Library mistakes I should have spotted earlier 🚀](https://dev.to/jozsefdevs/top-3-react-testing-library-mistakes-i-should-have-spotted-earlier-9hd)
-- [Dev.to/JS] [How to add robots.txt to Next.js Application](https://dev.to/uniquewebdev/how-to-add-robotstxt-to-nextjs-application-en0)
-- [Dev.to/JS] [Angular Universal with Standalone Component](https://dev.to/chocho01/angular-universal-with-standalone-component-206c)
-- [Dev.to/JS] [Vue 3 Composition API vs Options API](https://dev.to/ratracegrad/vue-3-composition-api-vs-options-api-59mk)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
