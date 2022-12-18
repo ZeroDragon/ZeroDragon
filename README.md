@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Default vs named module export in Javascript](https://dev.to/basskibo/default-vs-named-module-export-in-javascript-1j7b)
+- [Dev.to/JS] [How To Setup Cypress Testing Library? A Smarter Way To Select Elements.](https://dev.to/pthapa1/how-to-setup-cypress-testing-library-41f8)
 - [Dev.to/JS] [Conditional Wrapping in React - An Advanced Approach](https://dev.to/ayka_code/conditional-wrapping-in-react-an-advanced-approach-50jk)
 - [Dev.to/JS] [ㄥ8Ɩ llǝɯS ǝpoƆ - spɹɐʍʞɔɐq ǝslƎ/ℲI](https://dev.to/mcsee/eng8i-llws-poo-sprawkoaq-sl3i-1e0i)
 - [Dev.to/JS] [Top 3 React Testing Library mistakes I should have spotted earlier 🚀](https://dev.to/jozsefdevs/top-3-react-testing-library-mistakes-i-should-have-spotted-earlier-9hd)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications](https://dev.to/maxprogramming/webhooks-101-how-i-use-discord-webhooks-for-personal-notifications-440p)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Dev.to/JS] [JavaScript Event คืออะไร? และใช้งานอย่างไร?](https://dev.to/wteja/javascript-event-khuueaair-aelaaichngaanyaangair-5enk)
-- [Dev.to/JS] [Day 17: A JavaScript bug and GitHub Workflow CI for the four-pillars Ruby gem](https://dev.to/szabgab/a-javascript-bug-and-github-workflow-ci-for-the-four-pillars-ruby-gem-1gbg)
-- [Dev.to/JS] [How to use Array.map to render a list of items in React](https://dev.to/daz4126/how-to-use-arraymap-to-render-a-list-of-items-in-react-4d01)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
 - [Lifehacker] [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
