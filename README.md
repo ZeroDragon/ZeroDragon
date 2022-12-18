@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help with a react component](https://dev.to/dstr88/help-with-a-react-component-4l8d)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;17-12-2022&rpar; - Ensuring the Enable Maximiser Doesn’t Destroy the Multiverse](https://dev.to/mjgs/this-weeks-newsletter-is-out-17-12-2022-ensuring-the-enable-maximiser-doesnt-destroy-the-multiverse-3m7a)
 - [Dev.to/JS] [Vorms: Vue form validation with Composition API](https://dev.to/minighost/vorms-vue-form-validation-with-composition-api-5dhg)
 - [Dev.to/JS] [Promise.any](https://dev.to/986913/promiseany-5097)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add robots.txt to Next.js Application](https://dev.to/uniquewebdev/how-to-add-robotstxt-to-nextjs-application-en0)
 - [Dev.to/JS] [Angular Universal with Standalone Component](https://dev.to/chocho01/angular-universal-with-standalone-component-206c)
 - [Dev.to/JS] [Vue 3 Composition API vs Options API](https://dev.to/ratracegrad/vue-3-composition-api-vs-options-api-59mk)
-- [Dev.to/JS] [Beacon Exclusion Zone](https://dev.to/rmion/beacon-exclusion-zone-1dkc)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
