@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vorms: Vue form validation with Composition API](https://dev.to/minighost/vorms-vue-form-validation-with-composition-api-5dhg)
+- [Dev.to/JS] [Promise.any](https://dev.to/986913/promiseany-5097)
 - [Dev.to/JS] [Default vs named module export in Javascript](https://dev.to/basskibo/default-vs-named-module-export-in-javascript-1j7b)
 - [Dev.to/JS] [How To Setup Cypress Testing Library? A Smarter Way To Select Elements.](https://dev.to/pthapa1/how-to-setup-cypress-testing-library-41f8)
 - [Dev.to/JS] [Conditional Wrapping in React - An Advanced Approach](https://dev.to/ayka_code/conditional-wrapping-in-react-an-advanced-approach-50jk)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beacon Exclusion Zone](https://dev.to/rmion/beacon-exclusion-zone-1dkc)
 - [Dev.to/JS] [Animated Doritos Landing Page](https://dev.to/blueycode/animated-doritos-landing-page-4lej)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
-- [Dev.to/JS] [🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications](https://dev.to/maxprogramming/webhooks-101-how-i-use-discord-webhooks-for-personal-notifications-440p)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
-- [Dev.to/JS] [JavaScript Event คืออะไร? และใช้งานอย่างไร?](https://dev.to/wteja/javascript-event-khuueaair-aelaaichngaanyaangair-5enk)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
 - [Lifehacker] [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
