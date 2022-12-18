@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AI and Frontend Development: A Match Made in Tech Heaven?](https://dev.to/chainguns/ai-and-frontend-development-a-match-made-in-tech-heaven-5c55)
+- [Dev.to/JS] [Upgrading old Imba 1 apps to run on modern Node](https://dev.to/taw/upgrading-old-imba-1-apps-to-run-on-modern-node-jf7)
+- [Dev.to/JS] [Create Digital Clock Using JavaScript](https://dev.to/mavensingh/create-digital-clock-using-javascript-4gk8)
 - [Dev.to/JS] [React best practices](https://dev.to/yoavsbg17/react-best-practices-5bm6)
 - [Dev.to/JS] [How to Make Responsive eSports Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-esports-website-using-html-css-javascript-23fm)
 - [Dev.to/JS] [How to Create A Simple Dual ListBox Component In React?](https://dev.to/radhe65gupta/how-to-create-a-simple-dual-listbox-component-in-react-409f)
 - [Dev.to/JS] [A/B testing development - A developer overview &lpar;Part - 2&rpar;](https://dev.to/faroqueabdullah/ab-testing-development-a-developer-overview-part-2-39la)
 - [Dev.to/JS] [Containerizing Node.js Applications with Docker](https://dev.to/c4r4x35/containerizing-nodejs-applications-with-docker-3020)
-- [Dev.to/JS] [Javascript Array.from&lpar;&rpar; second argument](https://dev.to/trinityyi/javascript-arrayfrom-second-argument-16b9)
 - [Dev.to/JS] [Javascript Prototype: The Basics](https://dev.to/jessewei/javascript-prototype-the-basics-3n16)
+- [Dev.to/JS] [Javascript Array.from&lpar;&rpar; second argument](https://dev.to/trinityyi/javascript-arrayfrom-second-argument-16b9)
 - [Dev.to/JS] [Hoisting](https://dev.to/vikas2426/hoisting-12)
 - [Dev.to/JS] [Mastering MongoDB and Mongoose in Node.js](https://dev.to/abbhiishek/mastering-mongodb-and-mongoose-in-nodejs-1be5)
-- [Dev.to/JS] [Add S.N&lpar;Serial Number&rpar; Column in React-Tables v7.](https://dev.to/sarozpradhan64/add-snserial-number-column-in-react-tables-v7-3jpk)
-- [Dev.to/JS] [How to use map&lpar;&rpar; to iterate over array in ReactJS](https://dev.to/priyankdeep78/how-to-use-map-to-iterate-over-array-in-reactjs-4280)
-- [Dev.to/JS] [Customizing vendure](https://dev.to/dailydevtips1/customizing-vendure-4a8k)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
