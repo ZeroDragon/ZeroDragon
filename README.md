@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do you deploy a React app on digitalocean?](https://dev.to/michthebrandofficial/how-do-you-deploy-a-react-app-on-digitalocean-1o2b)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Dev.to/JS] [JavaScript Fundamentals: Math Object](https://dev.to/astrodevil/javascript-fundamentals-math-object-570c)
 - [Dev.to/JS] [JavaScript Fundamentals: Parameters, Arguments and Operators](https://dev.to/astrodevil/javascript-fundamentals-parameters-arguments-and-operators-5eh5)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tutorial part-1: Key-value store](https://dev.to/restdbjones/part-1-key-value-store-bji)
 - [Dev.to/JS] [Eslint rule to restrict imports](https://dev.to/krzysztofzuraw/eslint-rule-to-restrict-imports-4a4p)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
-- [Dev.to/JS] [Firebase: Applying Feature Flag using Remote Config](https://dev.to/burhanahmeed/firebase-applying-feature-flag-using-remote-config-332d)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
