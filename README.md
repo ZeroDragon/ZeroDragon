@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use map&lpar;&rpar; to iterate over array in ReactJS](https://dev.to/priyankdeep78/how-to-use-map-to-iterate-over-array-in-reactjs-4280)
 - [Dev.to/JS] [Customizing vendure](https://dev.to/dailydevtips1/customizing-vendure-4a8k)
 - [Dev.to/JS] [Timer using React.](https://dev.to/vikas13114562/timer-using-react-2gj4)
 - [Dev.to/JS] [Using Fontsource With 11ty](https://dev.to/murtuzaalisurti/using-fontsource-with-11ty-4b82)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promise.any](https://dev.to/986913/promiseany-5097)
 - [Dev.to/JS] [Default vs named module export in Javascript](https://dev.to/basskibo/default-vs-named-module-export-in-javascript-1j7b)
 - [Dev.to/JS] [How To Setup Cypress Testing Library? A Smarter Way To Select Elements.](https://dev.to/pthapa1/how-to-setup-cypress-testing-library-41f8)
-- [Dev.to/JS] [Conditional Wrapping in React - An Advanced Approach](https://dev.to/ayka_code/conditional-wrapping-in-react-an-advanced-approach-50jk)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
