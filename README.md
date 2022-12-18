@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tutorial part-1: Key-value store](https://dev.to/restdbjones/part-1-key-value-store-bji)
+- [Dev.to/JS] [Eslint rule to restrict imports](https://dev.to/krzysztofzuraw/eslint-rule-to-restrict-imports-4a4p)
+- [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
+- [Dev.to/JS] [Firebase: Applying Feature Flag using Remote Config](https://dev.to/burhanahmeed/firebase-applying-feature-flag-using-remote-config-332d)
 - [Dev.to/JS] [AI and Frontend Development: A Match Made in Tech Heaven?](https://dev.to/chainguns/ai-and-frontend-development-a-match-made-in-tech-heaven-5c55)
 - [Dev.to/JS] [Upgrading old Imba 1 apps to run on modern Node](https://dev.to/taw/upgrading-old-imba-1-apps-to-run-on-modern-node-jf7)
 - [Dev.to/JS] [Create Digital Clock Using JavaScript](https://dev.to/mavensingh/create-digital-clock-using-javascript-4gk8)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A/B testing development - A developer overview &lpar;Part - 2&rpar;](https://dev.to/faroqueabdullah/ab-testing-development-a-developer-overview-part-2-39la)
 - [Dev.to/JS] [Containerizing Node.js Applications with Docker](https://dev.to/c4r4x35/containerizing-nodejs-applications-with-docker-3020)
 - [Dev.to/JS] [Javascript Prototype: The Basics](https://dev.to/jessewei/javascript-prototype-the-basics-3n16)
-- [Dev.to/JS] [Javascript Array.from&lpar;&rpar; second argument](https://dev.to/trinityyi/javascript-arrayfrom-second-argument-16b9)
-- [Dev.to/JS] [Hoisting](https://dev.to/vikas2426/hoisting-12)
-- [Dev.to/JS] [Mastering MongoDB and Mongoose in Node.js](https://dev.to/abbhiishek/mastering-mongodb-and-mongoose-in-nodejs-1be5)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
 - [Lifehacker] [What&#39;s New on Disney+ in January 2023](https://lifehacker.com/whats-new-on-disney-in-january-2023-1849900350)
 - [Lifehacker] [Bet You Can&#39;t Spot the Elusive &#39;Christmas Asteroid&#39;](https://lifehacker.com/bet-you-cant-spot-the-elusive-christmas-asteroid-1849899845)
-- [Lifehacker] [8 of the Best Gifts for Teachers, According to Teachers](https://lifehacker.com/8-of-the-best-gifts-for-teachers-according-to-teachers-1849899654)
-- [Lifehacker] [Why You Should Make Your Latkes With Potatoes and Nothing Else](https://lifehacker.com/why-you-should-make-your-latkes-with-potatoes-and-nothi-1849896871)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 of the Best Gifts for Teachers, According to Teachers](https://lifehacker.com/8-of-the-best-gifts-for-teachers-according-to-teachers-1849899654)<!-- TECH-POSTS:END -->
 
 ---
 
