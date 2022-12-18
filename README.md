@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
+- [Dev.to/JS] [JavaScript Fundamentals: Math Object](https://dev.to/astrodevil/javascript-fundamentals-math-object-570c)
+- [Dev.to/JS] [JavaScript Fundamentals: Parameters, Arguments and Operators](https://dev.to/astrodevil/javascript-fundamentals-parameters-arguments-and-operators-5eh5)
 - [Dev.to/JS] [Async Await v/s Promises?](https://dev.to/pulkitsingh/async-await-vs-promises-560m)
 - [Dev.to/JS] [Mastering Environment Variables in JavaScript, Python, Java, PHP, C#, C++, C, Perl, and Operating systems](https://dev.to/covelitein/mastering-environment-variables-in-javascript-python-java-php-c-c-c-perl-and-operating-systems-27h8)
 - [Dev.to/JS] [How to integrate kafka with nodejs ?](https://dev.to/chafroudtarek/how-to-integrate-kafka-with-nodejs--4bil)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Eslint rule to restrict imports](https://dev.to/krzysztofzuraw/eslint-rule-to-restrict-imports-4a4p)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Dev.to/JS] [Firebase: Applying Feature Flag using Remote Config](https://dev.to/burhanahmeed/firebase-applying-feature-flag-using-remote-config-332d)
-- [Dev.to/JS] [AI and Frontend Development: A Match Made in Tech Heaven?](https://dev.to/chainguns/ai-and-frontend-development-a-match-made-in-tech-heaven-5c55)
-- [Dev.to/JS] [Upgrading old Imba 1 apps to run on modern Node](https://dev.to/taw/upgrading-old-imba-1-apps-to-run-on-modern-node-jf7)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
 - [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
 - [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
-- [Lifehacker] [What&#39;s New on Disney+ in January 2023](https://lifehacker.com/whats-new-on-disney-in-january-2023-1849900350)
-- [Lifehacker] [Bet You Can&#39;t Spot the Elusive &#39;Christmas Asteroid&#39;](https://lifehacker.com/bet-you-cant-spot-the-elusive-christmas-asteroid-1849899845)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Disney+ in January 2023](https://lifehacker.com/whats-new-on-disney-in-january-2023-1849900350)<!-- TECH-POSTS:END -->
 
 ---
 
