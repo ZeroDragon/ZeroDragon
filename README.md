@@ -23,10 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async Await v/s Promises?](https://dev.to/pulkitsingh/async-await-vs-promises-560m)
+- [Dev.to/JS] [Mastering Environment Variables in JavaScript, Python, Java, PHP, C#, C++, C, Perl, and Operating systems](https://dev.to/covelitein/mastering-environment-variables-in-javascript-python-java-php-c-c-c-perl-and-operating-systems-27h8)
+- [Dev.to/JS] [How to integrate kafka with nodejs ?](https://dev.to/chafroudtarek/how-to-integrate-kafka-with-nodejs--4bil)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Dev.to/JS] [JS Test #3: try/catch](https://dev.to/nathannosudo/js-test-3-trycatch-3he3)
 - [Dev.to/JS] [Let&#39;s code a Robot with JavaScript](https://dev.to/tsolawoyin/lets-code-a-robot-with-javascript-5192)
-- [Dev.to/JS] [[Typia] 15,000x faster validator and its histories](https://dev.to/samchon/typia-15000x-faster-validator-and-its-histories-1fmg)
+- [Dev.to/JS] [[Typia] 15,000x faster TypeScript Validator and its histories](https://dev.to/samchon/typia-15000x-faster-validator-and-its-histories-1fmg)
 - [Dev.to/JS] [Why We Dropped Framer Motion from Client Projects](https://dev.to/mikesilverstone/why-we-dropped-framer-motion-from-client-projects-1ip3)
 - [Dev.to/JS] [Tutorial part-1: Key-value store](https://dev.to/restdbjones/part-1-key-value-store-bji)
 - [Dev.to/JS] [Eslint rule to restrict imports](https://dev.to/krzysztofzuraw/eslint-rule-to-restrict-imports-4a4p)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Firebase: Applying Feature Flag using Remote Config](https://dev.to/burhanahmeed/firebase-applying-feature-flag-using-remote-config-332d)
 - [Dev.to/JS] [AI and Frontend Development: A Match Made in Tech Heaven?](https://dev.to/chainguns/ai-and-frontend-development-a-match-made-in-tech-heaven-5c55)
 - [Dev.to/JS] [Upgrading old Imba 1 apps to run on modern Node](https://dev.to/taw/upgrading-old-imba-1-apps-to-run-on-modern-node-jf7)
-- [Dev.to/JS] [Create Digital Clock Using JavaScript](https://dev.to/mavensingh/create-digital-clock-using-javascript-4gk8)
-- [Dev.to/JS] [React best practices](https://dev.to/yoavsbg17/react-best-practices-5bm6)
-- [Dev.to/JS] [How to Make Responsive eSports Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-esports-website-using-html-css-javascript-23fm)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
