@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting](https://dev.to/vikas2426/hoisting-12)
 - [Dev.to/JS] [Mastering MongoDB and Mongoose in Node.js](https://dev.to/abbhiishek/mastering-mongodb-and-mongoose-in-nodejs-1be5)
 - [Dev.to/JS] [Add S.N&lpar;Serial Number&rpar; Column in React-Tables v7.](https://dev.to/sarozpradhan64/add-snserial-number-column-in-react-tables-v7-3jpk)
 - [Dev.to/JS] [How to use map&lpar;&rpar; to iterate over array in ReactJS](https://dev.to/priyankdeep78/how-to-use-map-to-iterate-over-array-in-reactjs-4280)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Help with a react component](https://dev.to/dstr88/help-with-a-react-component-4l8d)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;17-12-2022&rpar; - Ensuring the Enable Maximiser Doesn’t Destroy the Multiverse](https://dev.to/mjgs/this-weeks-newsletter-is-out-17-12-2022-ensuring-the-enable-maximiser-doesnt-destroy-the-multiverse-3m7a)
 - [Dev.to/JS] [Vorms: Vue form validation with Composition API](https://dev.to/minighost/vorms-vue-form-validation-with-composition-api-5dhg)
-- [Dev.to/JS] [Promise.any](https://dev.to/986913/promiseany-5097)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
