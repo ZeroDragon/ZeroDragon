@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use jest test.each function](https://dev.to/codever/how-to-use-jest-testeach-function-3jog)
+- [Dev.to/JS] [Pomodoro avec Html, CSS et Javascript.](https://dev.to/bedjoi/pomodoro-avec-html-css-et-javascript-3daa)
+- [Dev.to/JS] [15 best low-code platforms &amp; how to use them](https://dev.to/momciloo/15-best-low-code-platforms-how-to-use-them-hf5)
 - [Dev.to/JS] [Becoming a Web Developer](https://dev.to/shasheeshpurohit/becoming-a-web-developer-5fc5)
 - [Dev.to/JS] [1971. Leetcode Solution in javascript](https://dev.to/chiki1601/1971-leetcode-solution-in-javascript-4806)
 - [Dev.to/JS] [Improve Your Next.js App’s Performance in 10 Minutes](https://dev.to/leduc1901/improve-your-nextjs-apps-performance-in-10-minutes-1gn2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue.js Framework](https://dev.to/awaisbutt/vuejs-framework-19ke)
 - [Dev.to/JS] [Vendure - Overwriting email templates](https://dev.to/dailydevtips1/vendure-overwriting-email-templates-47nh)
 - [Dev.to/JS] [Remove Invalid File uploaded to input type=file in JavaScript](https://dev.to/bikashgosai/remove-invalid-file-uploaded-to-input-typefile-in-javascript-2jn9)
-- [Dev.to/JS] [Clean Code &lpar;2&rpar;: Stability](https://dev.to/codingalgorithm/clean-code-2-stability-5d01)
-- [Dev.to/JS] [A deep dive into Rematch -- State Management for React](https://dev.to/asayerio_techblog/a-deep-dive-into-rematch-state-management-for-react-30o5)
-- [Dev.to/JS] [Working with the DOM in JavaScript](https://dev.to/asayerio_techblog/working-with-the-dom-in-javascript-2njd)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
