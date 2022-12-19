@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remove Invalid File uploaded to input type=file in JavaScript](https://dev.to/bikashgosai/remove-invalid-file-uploaded-to-input-typefile-in-javascript-2jn9)
+- [Dev.to/JS] [Clean Code &lpar;2&rpar;: Stability](https://dev.to/codingalgorithm/clean-code-2-stability-5d01)
 - [Dev.to/JS] [A deep dive into Rematch -- State Management for React](https://dev.to/asayerio_techblog/a-deep-dive-into-rematch-state-management-for-react-30o5)
 - [Dev.to/JS] [Working with the DOM in JavaScript](https://dev.to/asayerio_techblog/working-with-the-dom-in-javascript-2njd)
 - [Dev.to/JS] [Maps and React](https://dev.to/codingmustache/maps-and-react-1nlm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a REACT app](https://dev.to/mdadul/how-to-create-a-react-app-5djf)
 - [Dev.to/JS] [Using Emailjs To Send Emails From The Frontend](https://dev.to/ethand91/using-emailjs-to-send-emails-from-the-frontend-ka9)
 - [Dev.to/JS] [FTO formation menu](https://dev.to/lordoomer/fto-formation-menu-a5o)
-- [Dev.to/JS] [Testing your inputs and dependencies like a boss](https://dev.to/noriller/testing-your-inputs-and-dependencies-like-a-boss-21eb)
-- [Dev.to/JS] [How to Create Toast Notifications in a React Applications](https://dev.to/code_queen/how-to-create-toast-notifications-in-a-react-applications-3aeo)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
