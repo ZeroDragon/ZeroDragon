@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Four Ways to Make a Better Spinach and Artichoke Dip](https://lifehacker.com/four-ways-to-make-a-better-spinach-and-artichoke-dip-1849905427)
+- [Dev.to/JS] [30+Best Programming Memes](https://dev.to/theme_selection/best-programming-memes-8nb)
+- [Dev.to/JS] [TypeGuards in TypeScript](https://dev.to/codingchuck/typeguards-in-typescript-2c0g)
+- [Lifehacker] [The 7 Deadly Sins of Setting Your New Year&#39;s Resolutions](https://lifehacker.com/the-7-deadly-sins-of-setting-your-new-years-resolutions-1849908667)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-dec-2022-494g)
 - [Dev.to/JS] [How to calculate Average Directional Index &lpar;ADX&rpar; using JavaScript](https://dev.to/onurcelik/how-to-calculate-average-directional-index-adx-using-javascript-2n40)
 - [Dev.to/JS] [How to use Angular Provider](https://dev.to/2kabhishek/how-to-use-angular-provider-10c)
 - [Lifehacker] [You Actually Do Need to Engage in Office Politics](https://lifehacker.com/you-actually-do-need-to-engage-in-office-politics-1849903141)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JavaScript Promises👩‍💻👨‍💻](https://dev.to/klc/understanding-javascript-promises-1hp1)
 - [Dev.to/JS] [st2: a fork of &quot;string-table&quot; with more enhancements.](https://dev.to/foxgem/st2-a-fork-of-string-table-with-more-enhancements-324h)
 - [Dev.to/JS] [Setting up a server and database connection using nodejs, express, and postgresql](https://dev.to/yemiklein/setting-up-a-server-and-database-connection-using-nodejs-express-and-postgresql-28jo)
-- [Dev.to/JS] [14 reasons why you shouldn’t ignore JAMstack](https://dev.to/momciloo/14-reasons-why-you-shouldnt-ignore-jamstack-56j0)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😡.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3di)
-- [Dev.to/JS] [Concepts behind modern frameworks](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Apps of 2022](https://lifehacker.com/lifehackers-22-favorite-apps-of-2022-1849898715)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Happened to Henry Cavill&#39;s Superman?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-happ-1849902395)
 - [Lifehacker] [These 3-Ingredient Pecan Bites Are a Perfect Amuse Bouche](https://lifehacker.com/these-3-ingredient-pecan-bites-are-a-perfect-amuse-bouc-1849900542)
-- [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
-- [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
-- [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)<!-- TECH-POSTS:END -->
 
 ---
 
