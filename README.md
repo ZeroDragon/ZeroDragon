@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
+- [Lifehacker] [Your Spin Bike Needs Pedal Adapters](https://lifehacker.com/your-spin-bike-needs-pedal-adapters-1849911520)
+- [Dev.to/JS] [New personal domain](https://dev.to/devjbyrd/new-personal-domain-49hi)
 - [Dev.to/JS] [Concatenation of Strings and Arrays in JavaScript](https://dev.to/jrcharney/concatenation-of-strings-and-arrays-in-javascript-4i5a)
+- [Lifehacker] [12 Unexpected Ways to Use Bubble Wrap Around the House](https://lifehacker.com/12-unexpected-ways-to-use-bubble-wrap-around-the-house-1849911360)
 - [Dev.to/JS] [Star Rating Feedback using Javascript](https://dev.to/rajamanickam/star-rating-feedback-using-javascript-4ipa)
-- [Dev.to/JS] [React.js - Custom hooks](https://dev.to/ra1nbow1/reactjs-custom-hooks-5abc)
+- [Dev.to/JS] [React.js - Custom hooks](https://dev.to/rbs/reactjs-custom-hooks-5abc)
 - [Dev.to/JS] [React vs React Native: How Different Are They, Really?](https://dev.to/mcavaliere/react-vs-react-native-how-different-are-they-really-2h69)
 - [Dev.to/JS] [Split and Join: The Dichotomy of Strings and Arrays](https://dev.to/jrcharney/split-and-join-the-dichotomy-of-strings-and-arrays-2hb)
 - [Lifehacker] [Don&#39;t Remove a Stolen iPhone From Your Apple ID &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-remove-a-stolen-iphone-from-your-apple-id-do-this-1849910519)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to predict direction with orderbook data](https://dev.to/onurcelik/how-to-determine-predict-direction-with-buy-sell-orders-46f9)
 - [Lifehacker] [Here’s Your Year-End Financial Checklist](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
 - [Dev.to/JS] [JavaScript Fundamentals: Conditionals](https://dev.to/astrodevil/javascript-fundamentals-conditionals-1pi2)
-- [Dev.to/JS] [Transform Your dev.to Experience with a Custom Extension!](https://dev.to/deeeyae/transform-your-devto-experience-with-a-custom-extension-1e67)
 - [Lifehacker] [15 Delayed Movies That Are Finally Coming Out in 2023](https://lifehacker.com/15-delayed-movies-that-are-finally-coming-out-in-2023-1849908964)
 - [Lifehacker] [9 Ways to Give Your ‘Performance’ Oatmeal a Competitive Edge](https://lifehacker.com/9-ways-to-give-your-performance-oatmeal-a-competitive-1849905042)
 - [Lifehacker] [The 10 Best Chrome Extensions of 2022, According to Google](https://lifehacker.com/the-10-best-chrome-extensions-of-2022-according-to-goo-1849909441)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
 - [Lifehacker] [Use the &#39;Feynman Method&#39; to Learn New Things](https://lifehacker.com/use-the-feynman-method-to-learn-new-things-1849905388)
 - [Lifehacker] [13 TV Shows and Movies to Watch If You Miss the Cast of &#39;The White Lotus&#39;](https://lifehacker.com/13-tv-shows-and-movies-to-watch-if-you-miss-the-cast-of-1849904811)
-- [Lifehacker] [This TikTok Dryer Sheet ‘Hack’ Could Set Your House on Fire](https://lifehacker.com/this-tiktok-dryer-sheet-hack-could-set-your-house-on-1849905164)
-- [Lifehacker] [Here Are the 2022 Christmas Shipping Deadlines](https://lifehacker.com/here-are-the-2022-holiday-shipping-deadlines-1849904837)
-- [Lifehacker] [My Favorite Christmas Canapé Starts With a Can of Salmon](https://lifehacker.com/my-favorite-christmas-canape-starts-with-a-can-of-salmo-1849904893)
-- [Lifehacker] [Try EmuVR to Relive ’90s Gaming](https://lifehacker.com/try-emuvr-to-relive-90s-gaming-1849904148)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This TikTok Dryer Sheet ‘Hack’ Could Set Your House on Fire](https://lifehacker.com/this-tiktok-dryer-sheet-hack-could-set-your-house-on-1849905164)<!-- TECH-POSTS:END -->
 
 ---
 
