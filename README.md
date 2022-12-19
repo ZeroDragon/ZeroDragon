@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improve Your Next.js App’s Performance in 10 Minutes](https://dev.to/leduc1901/improve-your-nextjs-apps-performance-in-10-minutes-1gn2)
+- [Dev.to/JS] [How to create an NFT with Ternoa-js SDK](https://dev.to/dhammani/how-to-create-an-nft-with-ternoa-js-sdk-42n2)
+- [Dev.to/JS] [Better DX in JS apps with unplugin-auto-import](https://dev.to/jacobandrewsky/better-dx-in-js-apps-with-unplugin-auto-import-193e)
 - [Dev.to/JS] [Make Your Video Player Float Using PiP API](https://dev.to/j471n/make-your-video-player-float-using-pip-api-3l72)
 - [Dev.to/JS] [Vue.js Framework](https://dev.to/awaisbutt/vuejs-framework-19ke)
 - [Dev.to/JS] [Vendure - Overwriting email templates](https://dev.to/dailydevtips1/vendure-overwriting-email-templates-47nh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working with the DOM in JavaScript](https://dev.to/asayerio_techblog/working-with-the-dom-in-javascript-2njd)
 - [Dev.to/JS] [Maps and React](https://dev.to/codingmustache/maps-and-react-1nlm)
 - [Dev.to/JS] [10 gợi ý mua quà Tết cho gia đình, người thân](https://dev.to/gquatet/10-goi-y-mua-qua-tet-cho-gia-dinh-nguoi-than-n3n)
-- [Dev.to/JS] [What wrong with this codes?](https://dev.to/zerohour/what-wrong-with-this-codes-18oi)
-- [Dev.to/JS] [GIT Commands Summary](https://dev.to/thalhatou/git-commands-summary-1dbl)
-- [Dev.to/JS] [Java Script Events](https://dev.to/theocita/java-script-events-537c)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
