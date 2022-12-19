@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 10 Best Chrome Extensions of 2022, According to Google](https://lifehacker.com/the-10-best-chrome-extensions-of-2022-according-to-goo-1849909441)
+- [Lifehacker] [What&#39;s New on Prime Video in January 2023](https://lifehacker.com/whats-new-on-prime-video-in-january-2023-1849909928)
+- [Dev.to/JS] [JavaScript support hits 1.0 milestone on Compute@Edge](https://dev.to/fastly/javascript-support-hits-10-milestone-on-computeedge-2n61)
 - [Lifehacker] [You Deserve This Gorgonzola Caramelized Onion Tarte Tatin](https://lifehacker.com/you-deserve-this-gorgonzola-caramelized-onion-tarte-tat-1849909867)
 - [Dev.to/JS] [Oh boy, this is exciting!](https://dev.to/webjose/oh-boy-this-is-exciting-3mee)
 - [Dev.to/JS] [10 Most-Liked Programming Languages that Humans Will Use in 2050](https://dev.to/abhinav0334/10-most-liked-programming-languages-that-humans-will-use-in-2050-4a9e)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vamos Argentina: lionel Messi finally gets his world cup!](https://dev.to/jon_snow789/vamos-argentina-lionel-messi-finally-gets-his-world-cup-c7c)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-dec-2022-494g)
 - [Dev.to/JS] [How to calculate Average Directional Index &lpar;ADX&rpar; using JavaScript](https://dev.to/onurcelik/how-to-calculate-average-directional-index-adx-using-javascript-2n40)
-- [Dev.to/JS] [How to use Angular Provider](https://dev.to/2kabhishek/how-to-use-angular-provider-10c)
 - [Lifehacker] [You Actually Do Need to Engage in Office Politics](https://lifehacker.com/you-actually-do-need-to-engage-in-office-politics-1849903141)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Upgrade Your Desserts With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)
 - [Lifehacker] [What&#39;s New on Hulu in January 2023](https://lifehacker.com/whats-new-on-hulu-in-january-2023-1849903701)
 - [Lifehacker] [Five of the Best Ways to Increase Your Stress Resilience](https://lifehacker.com/five-of-the-best-ways-to-increase-your-stress-resilienc-1849903411)
-- [Lifehacker] [The Best Safari Ad Blockers of 2022](https://lifehacker.com/the-best-safari-ad-blockers-of-2022-1849902684)
-- [Lifehacker] [Lifehacker&#39;s 22 Favorite Apps of 2022](https://lifehacker.com/lifehackers-22-favorite-apps-of-2022-1849898715)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Happened to Henry Cavill&#39;s Superman?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-happ-1849902395)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Safari Ad Blockers of 2022](https://lifehacker.com/the-best-safari-ad-blockers-of-2022-1849902684)<!-- TECH-POSTS:END -->
 
 ---
 
