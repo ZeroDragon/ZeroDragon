@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Set up a Node.js App with ESLint and Prettier](https://dev.to/devland/set-up-a-nodejs-app-with-eslint-and-prettier-4i7p)
+- [Dev.to/JS] [Add Quotes to your Unquoted JSON Objects](https://dev.to/clickpesa/add-quotes-to-your-unquoted-json-objects-3clc)
+- [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/kanishedureka/6-reasons-why-devops-are-important-for-business-organizations-3a8j)
 - [Dev.to/JS] [How to use jest test.each function](https://dev.to/codever/how-to-use-jest-testeach-function-3jog)
 - [Dev.to/JS] [Pomodoro avec Html, CSS et Javascript.](https://dev.to/bedjoi/pomodoro-avec-html-css-et-javascript-3daa)
 - [Dev.to/JS] [15 best low-code platforms &amp; how to use them](https://dev.to/momciloo/15-best-low-code-platforms-how-to-use-them-hf5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create an NFT with Ternoa-js SDK](https://dev.to/dhammani/how-to-create-an-nft-with-ternoa-js-sdk-42n2)
 - [Dev.to/JS] [Better DX in JS apps with unplugin-auto-import](https://dev.to/jacobandrewsky/better-dx-in-js-apps-with-unplugin-auto-import-193e)
 - [Dev.to/JS] [Make Your Video Player Float Using PiP API](https://dev.to/j471n/make-your-video-player-float-using-pip-api-3l72)
-- [Dev.to/JS] [Vue.js Framework](https://dev.to/awaisbutt/vuejs-framework-19ke)
-- [Dev.to/JS] [Vendure - Overwriting email templates](https://dev.to/dailydevtips1/vendure-overwriting-email-templates-47nh)
-- [Dev.to/JS] [Remove Invalid File uploaded to input type=file in JavaScript](https://dev.to/bikashgosai/remove-invalid-file-uploaded-to-input-typefile-in-javascript-2jn9)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
