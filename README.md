@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A deep dive into Rematch -- State Management for React](https://dev.to/asayerio_techblog/a-deep-dive-into-rematch-state-management-for-react-30o5)
+- [Dev.to/JS] [Working with the DOM in JavaScript](https://dev.to/asayerio_techblog/working-with-the-dom-in-javascript-2njd)
 - [Dev.to/JS] [Maps and React](https://dev.to/codingmustache/maps-and-react-1nlm)
 - [Dev.to/JS] [10 gợi ý mua quà Tết cho gia đình, người thân](https://dev.to/gquatet/10-goi-y-mua-qua-tet-cho-gia-dinh-nguoi-than-n3n)
 - [Dev.to/JS] [What wrong with this codes?](https://dev.to/zerohour/what-wrong-with-this-codes-18oi)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FTO formation menu](https://dev.to/lordoomer/fto-formation-menu-a5o)
 - [Dev.to/JS] [Testing your inputs and dependencies like a boss](https://dev.to/noriller/testing-your-inputs-and-dependencies-like-a-boss-21eb)
 - [Dev.to/JS] [How to Create Toast Notifications in a React Applications](https://dev.to/code_queen/how-to-create-toast-notifications-in-a-react-applications-3aeo)
-- [Dev.to/JS] [Rapid Html development with Emmet formula in VS code](https://dev.to/sk063675488/rapid-html-development-with-emmet-formula-in-vs-code-24mh)
-- [Dev.to/JS] [How to create color piker &lpar;HTML/CSS/JS&rpar;](https://dev.to/simosamaa/how-to-create-color-piker-htmlcssjs-4677)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
