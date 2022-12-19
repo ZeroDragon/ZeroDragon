@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Emailjs To Send Emails From The Frontend](https://dev.to/ethand91/using-emailjs-to-send-emails-from-the-frontend-ka9)
 - [Dev.to/JS] [FTO formation menu](https://dev.to/lordoomer/fto-formation-menu-a5o)
 - [Dev.to/JS] [Testing your inputs and dependencies like a boss](https://dev.to/noriller/testing-your-inputs-and-dependencies-like-a-boss-21eb)
 - [Dev.to/JS] [How to Create Toast Notifications in a React Applications](https://dev.to/code_queen/how-to-create-toast-notifications-in-a-react-applications-3aeo)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals: Parameters, Arguments and Operators](https://dev.to/astrodevil/javascript-fundamentals-parameters-arguments-and-operators-5eh5)
 - [Dev.to/JS] [Async Await v/s Promises?](https://dev.to/pulkitsingh/async-await-vs-promises-560m)
 - [Dev.to/JS] [Mastering Environment Variables in JavaScript, Python, Java, PHP, C#, C++, C, Perl, and Operating systems](https://dev.to/covelitein/mastering-environment-variables-in-javascript-python-java-php-c-c-c-perl-and-operating-systems-27h8)
-- [Dev.to/JS] [How to integrate kafka with nodejs ?](https://dev.to/chafroudtarek/how-to-integrate-kafka-with-nodejs--4bil)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
