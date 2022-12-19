@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GIT Commands Summary](https://dev.to/thalhatou/git-commands-summary-1dbl)
+- [Dev.to/JS] [Java Script Events](https://dev.to/theocita/java-script-events-537c)
+- [Dev.to/JS] [How to create a REACT app](https://dev.to/mdadul/how-to-create-a-react-app-5djf)
 - [Dev.to/JS] [Using Emailjs To Send Emails From The Frontend](https://dev.to/ethand91/using-emailjs-to-send-emails-from-the-frontend-ka9)
 - [Dev.to/JS] [FTO formation menu](https://dev.to/lordoomer/fto-formation-menu-a5o)
 - [Dev.to/JS] [Testing your inputs and dependencies like a boss](https://dev.to/noriller/testing-your-inputs-and-dependencies-like-a-boss-21eb)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do you deploy a React app on digitalocean?](https://dev.to/michthebrandofficial/how-do-you-deploy-a-react-app-on-digitalocean-1o2b)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Dev.to/JS] [JavaScript Fundamentals: Math Object](https://dev.to/astrodevil/javascript-fundamentals-math-object-570c)
-- [Dev.to/JS] [JavaScript Fundamentals: Parameters, Arguments and Operators](https://dev.to/astrodevil/javascript-fundamentals-parameters-arguments-and-operators-5eh5)
-- [Dev.to/JS] [Async Await v/s Promises?](https://dev.to/pulkitsingh/async-await-vs-promises-560m)
-- [Dev.to/JS] [Mastering Environment Variables in JavaScript, Python, Java, PHP, C#, C++, C, Perl, and Operating systems](https://dev.to/covelitein/mastering-environment-variables-in-javascript-python-java-php-c-c-c-perl-and-operating-systems-27h8)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
