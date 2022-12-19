@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make Your Video Player Float Using PiP API](https://dev.to/j471n/make-your-video-player-float-using-pip-api-3l72)
+- [Dev.to/JS] [Vue.js Framework](https://dev.to/awaisbutt/vuejs-framework-19ke)
+- [Dev.to/JS] [Vendure - Overwriting email templates](https://dev.to/dailydevtips1/vendure-overwriting-email-templates-47nh)
 - [Dev.to/JS] [Remove Invalid File uploaded to input type=file in JavaScript](https://dev.to/bikashgosai/remove-invalid-file-uploaded-to-input-typefile-in-javascript-2jn9)
 - [Dev.to/JS] [Clean Code &lpar;2&rpar;: Stability](https://dev.to/codingalgorithm/clean-code-2-stability-5d01)
 - [Dev.to/JS] [A deep dive into Rematch -- State Management for React](https://dev.to/asayerio_techblog/a-deep-dive-into-rematch-state-management-for-react-30o5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What wrong with this codes?](https://dev.to/zerohour/what-wrong-with-this-codes-18oi)
 - [Dev.to/JS] [GIT Commands Summary](https://dev.to/thalhatou/git-commands-summary-1dbl)
 - [Dev.to/JS] [Java Script Events](https://dev.to/theocita/java-script-events-537c)
-- [Dev.to/JS] [How to create a REACT app](https://dev.to/mdadul/how-to-create-a-react-app-5djf)
-- [Dev.to/JS] [Using Emailjs To Send Emails From The Frontend](https://dev.to/ethand91/using-emailjs-to-send-emails-from-the-frontend-ka9)
-- [Dev.to/JS] [FTO formation menu](https://dev.to/lordoomer/fto-formation-menu-a5o)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
