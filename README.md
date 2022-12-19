@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can javascript variables have numbers?](https://dev.to/mwansix/can-javascript-variables-have-numbers-3nh9)
+- [Dev.to/JS] [How to create a simple range function in JS?](https://dev.to/rraneem/how-to-create-a-simple-range-function-in-js-n1a)
+- [Lifehacker] [9 Ways to Give Your ‘Performance’ Oatmeal a Competitive Edge](https://lifehacker.com/9-ways-to-give-your-performance-oatmeal-a-competitive-1849905042)
+- [Dev.to/JS] [React vs Vue.js: A Comparison](https://dev.to/ilovenuggets/react-vs-vuejs-a-comparison-4ca1)
+- [Dev.to/JS] [The top 10 extensions for Google Chrome for developers &lpar;You must have&rpar;](https://dev.to/thenomadevel/the-top-10-extensions-for-google-chrome-for-developers-you-must-have-2cc6)
 - [Lifehacker] [The 10 Best Chrome Extensions of 2022, According to Google](https://lifehacker.com/the-10-best-chrome-extensions-of-2022-according-to-goo-1849909441)
 - [Lifehacker] [What&#39;s New on Prime Video in January 2023](https://lifehacker.com/whats-new-on-prime-video-in-january-2023-1849909928)
 - [Dev.to/JS] [JavaScript support hits 1.0 milestone on Compute@Edge](https://dev.to/fastly/javascript-support-hits-10-milestone-on-computeedge-2n61)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DevTools for your Backend Server](https://dev.to/theonly1me/devtools-for-your-backend-server-jph)
 - [Lifehacker] [Four Ways to Make a Better Spinach and Artichoke Dip](https://lifehacker.com/four-ways-to-make-a-better-spinach-and-artichoke-dip-1849905427)
 - [Dev.to/JS] [30+Best Programming Memes](https://dev.to/theme_selection/best-programming-memes-8nb)
-- [Dev.to/JS] [TypeGuards in TypeScript](https://dev.to/codingchuck/typeguards-in-typescript-2c0g)
 - [Lifehacker] [The 7 Deadly Sins of Setting Your New Year&#39;s Resolutions](https://lifehacker.com/the-7-deadly-sins-of-setting-your-new-years-resolutions-1849908667)
-- [Dev.to/JS] [Vamos Argentina: lionel Messi finally gets his world cup!](https://dev.to/jon_snow789/vamos-argentina-lionel-messi-finally-gets-his-world-cup-c7c)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-dec-2022-494g)
-- [Dev.to/JS] [How to calculate Average Directional Index &lpar;ADX&rpar; using JavaScript](https://dev.to/onurcelik/how-to-calculate-average-directional-index-adx-using-javascript-2n40)
 - [Lifehacker] [You Actually Do Need to Engage in Office Politics](https://lifehacker.com/you-actually-do-need-to-engage-in-office-politics-1849903141)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Upholster Your Furniture With an Old Sweater](https://lifehacker.com/upholster-your-furniture-with-an-old-sweater-1849901598)
 - [Lifehacker] [Upgrade Your Desserts With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)
 - [Lifehacker] [What&#39;s New on Hulu in January 2023](https://lifehacker.com/whats-new-on-hulu-in-january-2023-1849903701)
-- [Lifehacker] [Five of the Best Ways to Increase Your Stress Resilience](https://lifehacker.com/five-of-the-best-ways-to-increase-your-stress-resilienc-1849903411)
-- [Lifehacker] [The Best Safari Ad Blockers of 2022](https://lifehacker.com/the-best-safari-ad-blockers-of-2022-1849902684)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five of the Best Ways to Increase Your Stress Resilience](https://lifehacker.com/five-of-the-best-ways-to-increase-your-stress-resilienc-1849903411)<!-- TECH-POSTS:END -->
 
 ---
 
