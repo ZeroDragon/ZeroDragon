@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to calculate Average Directional Index &lpar;ADX&rpar; using JavaScript](https://dev.to/onurcelik/how-to-calculate-average-directional-index-adx-using-javascript-2n40)
+- [Dev.to/JS] [How to use Angular Provider](https://dev.to/2kabhishek/how-to-use-angular-provider-10c)
+- [Lifehacker] [You Actually Do Need to Engage in Office Politics](https://lifehacker.com/you-actually-do-need-to-engage-in-office-politics-1849903141)
+- [Dev.to/JS] [Calculating DMI &lpar;Directional Movement Index&rpar; with JavaScript](https://dev.to/onurcelik/calculating-dmi-directional-movement-index-with-javascript-2lmb)
+- [Dev.to/JS] [Calculating ATR &lpar;Average True Range&rpar; using JavaScript](https://dev.to/onurcelik/calculating-atr-average-true-range-using-javascript-2akn)
+- [Dev.to/JS] [How I Drew a Christmas Tree with ChatGPT](https://dev.to/sdhglobal/how-i-drew-a-christmas-tree-with-chatgpt-3775)
+- [Dev.to/JS] [The Essential JavaScript Libraries for Frontend Development](https://dev.to/omerwow/the-essential-javascript-libraries-for-frontend-development-19ca)
 - [Dev.to/JS] [Understanding JavaScript Promises👩‍💻👨‍💻](https://dev.to/klc/understanding-javascript-promises-1hp1)
 - [Dev.to/JS] [st2: a fork of &quot;string-table&quot; with more enhancements.](https://dev.to/foxgem/st2-a-fork-of-string-table-with-more-enhancements-324h)
 - [Dev.to/JS] [Setting up a server and database connection using nodejs, express, and postgresql](https://dev.to/yemiklein/setting-up-a-server-and-database-connection-using-nodejs-express-and-postgresql-28jo)
 - [Dev.to/JS] [14 reasons why you shouldn’t ignore JAMstack](https://dev.to/momciloo/14-reasons-why-you-shouldnt-ignore-jamstack-56j0)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😡.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3di)
 - [Dev.to/JS] [Concepts behind modern frameworks](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
-- [Dev.to/JS] [How to scale node js applications](https://dev.to/isaacttonyloi/how-to-scale-node-js-applications-2n9d)
-- [Dev.to/JS] [Getting started with TypeScript + React](https://dev.to/bcostaaa01/getting-started-with-typescript-react-10i5)
-- [Dev.to/JS] [Set up a Node.js App with ESLint and Prettier](https://dev.to/devland/set-up-a-nodejs-app-with-eslint-and-prettier-4i7p)
-- [Dev.to/JS] [Add Quotes to your Unquoted JSON Objects](https://dev.to/clickpesa/add-quotes-to-your-unquoted-json-objects-3clc)
-- [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/kanishedureka/6-reasons-why-devops-are-important-for-business-organizations-3a8j)
-- [Dev.to/JS] [How to use jest test.each function](https://dev.to/codever/how-to-use-jest-testeach-function-3jog)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These 3-Ingredient Pecan Bites Are a Perfect Amuse Bouche](https://lifehacker.com/these-3-ingredient-pecan-bites-are-a-perfect-amuse-bouc-1849900542)
 - [Lifehacker] [The Difference Between Puff Pastry and Phyllo Dough](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
 - [Lifehacker] [Don’t Get Too Excited About That Nuclear Fusion Breakthrough](https://lifehacker.com/don-t-get-too-excited-about-that-nuclear-fusion-breakth-1849900076)
-- [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)
-- [Lifehacker] [What&#39;s New on Disney+ in January 2023](https://lifehacker.com/whats-new-on-disney-in-january-2023-1849900350)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 of the Best Gifts for Your First Christmas Together](https://lifehacker.com/9-of-the-best-gifts-for-your-first-christmas-together-1849900324)<!-- TECH-POSTS:END -->
 
 ---
 
