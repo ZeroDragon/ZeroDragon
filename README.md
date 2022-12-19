@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JavaScript Promises👩‍💻👨‍💻](https://dev.to/klc/understanding-javascript-promises-1hp1)
+- [Dev.to/JS] [st2: a fork of &quot;string-table&quot; with more enhancements.](https://dev.to/foxgem/st2-a-fork-of-string-table-with-more-enhancements-324h)
+- [Dev.to/JS] [Setting up a server and database connection using nodejs, express, and postgresql](https://dev.to/yemiklein/setting-up-a-server-and-database-connection-using-nodejs-express-and-postgresql-28jo)
 - [Dev.to/JS] [14 reasons why you shouldn’t ignore JAMstack](https://dev.to/momciloo/14-reasons-why-you-shouldnt-ignore-jamstack-56j0)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😡.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3di)
 - [Dev.to/JS] [Concepts behind modern frameworks](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Quotes to your Unquoted JSON Objects](https://dev.to/clickpesa/add-quotes-to-your-unquoted-json-objects-3clc)
 - [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/kanishedureka/6-reasons-why-devops-are-important-for-business-organizations-3a8j)
 - [Dev.to/JS] [How to use jest test.each function](https://dev.to/codever/how-to-use-jest-testeach-function-3jog)
-- [Dev.to/JS] [Pomodoro avec Html, CSS et Javascript.](https://dev.to/bedjoi/pomodoro-avec-html-css-et-javascript-3daa)
-- [Dev.to/JS] [15 best low-code platforms &amp; how to use them](https://dev.to/momciloo/15-best-low-code-platforms-how-to-use-them-hf5)
-- [Dev.to/JS] [Becoming a Web Developer](https://dev.to/shasheeshpurohit/becoming-a-web-developer-5fc5)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
