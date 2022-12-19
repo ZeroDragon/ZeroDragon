@@ -23,24 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Concatenation of Strings and Arrays in JavaScript](https://dev.to/jrcharney/concatenation-of-strings-and-arrays-in-javascript-4i5a)
+- [Dev.to/JS] [Star Rating Feedback using Javascript](https://dev.to/rajamanickam/star-rating-feedback-using-javascript-4ipa)
+- [Dev.to/JS] [React.js - Custom hooks](https://dev.to/ra1nbow1/reactjs-custom-hooks-5abc)
+- [Dev.to/JS] [React vs React Native: How Different Are They, Really?](https://dev.to/mcavaliere/react-vs-react-native-how-different-are-they-really-2h69)
+- [Dev.to/JS] [Split and Join: The Dichotomy of Strings and Arrays](https://dev.to/jrcharney/split-and-join-the-dichotomy-of-strings-and-arrays-2hb)
+- [Lifehacker] [Don&#39;t Remove a Stolen iPhone From Your Apple ID &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-remove-a-stolen-iphone-from-your-apple-id-do-this-1849910519)
+- [Dev.to/JS] [How to setup Vitest with React Testing Library](https://dev.to/coder4_life/how-to-setup-vitest-with-react-testing-library-326f)
+- [Dev.to/JS] [Voxel Airplanes 3D WebGL demo](https://dev.to/keaukraine/voxel-airplanes-3d-webgl-demo-1k65)
+- [Lifehacker] [Use This Site to Get Your Instagram Back After Getting Locked Out](https://lifehacker.com/use-this-site-to-get-your-instagram-back-after-getting-1849910487)
 - [Dev.to/JS] [Backtesting a trading strategy with JavaScript](https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj)
 - [Dev.to/JS] [Back to the future: Navigation API](https://dev.to/romaintrotard/back-to-the-future-navigation-api-4pil)
 - [Dev.to/JS] [How to predict direction with orderbook data](https://dev.to/onurcelik/how-to-determine-predict-direction-with-buy-sell-orders-46f9)
 - [Lifehacker] [Here’s Your Year-End Financial Checklist](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
 - [Dev.to/JS] [JavaScript Fundamentals: Conditionals](https://dev.to/astrodevil/javascript-fundamentals-conditionals-1pi2)
 - [Dev.to/JS] [Transform Your dev.to Experience with a Custom Extension!](https://dev.to/deeeyae/transform-your-devto-experience-with-a-custom-extension-1e67)
-- [Dev.to/JS] [Bola88 Slot Games Online](https://dev.to/bola88slot/bola88-slot-games-online-3763)
 - [Lifehacker] [15 Delayed Movies That Are Finally Coming Out in 2023](https://lifehacker.com/15-delayed-movies-that-are-finally-coming-out-in-2023-1849908964)
-- [Dev.to/JS] [Can javascript variables have numbers?](https://dev.to/mwansix/can-javascript-variables-have-numbers-3nh9)
-- [Dev.to/JS] [How to create a simple range function in JS?](https://dev.to/rraneem/how-to-create-a-simple-range-function-in-js-n1a)
 - [Lifehacker] [9 Ways to Give Your ‘Performance’ Oatmeal a Competitive Edge](https://lifehacker.com/9-ways-to-give-your-performance-oatmeal-a-competitive-1849905042)
-- [Dev.to/JS] [React vs Vue.js: A Comparison](https://dev.to/ilovenuggets/react-vs-vuejs-a-comparison-4ca1)
-- [Dev.to/JS] [The top 10 extensions for Google Chrome for developers &lpar;You must have&rpar;](https://dev.to/thenomadevel/the-top-10-extensions-for-google-chrome-for-developers-you-must-have-2cc6)
 - [Lifehacker] [The 10 Best Chrome Extensions of 2022, According to Google](https://lifehacker.com/the-10-best-chrome-extensions-of-2022-according-to-goo-1849909441)
 - [Lifehacker] [What&#39;s New on Prime Video in January 2023](https://lifehacker.com/whats-new-on-prime-video-in-january-2023-1849909928)
-- [Dev.to/JS] [JavaScript support hits 1.0 milestone on Compute@Edge](https://dev.to/fastly/javascript-support-hits-10-milestone-on-computeedge-2n61)
 - [Lifehacker] [You Deserve This Gorgonzola Caramelized Onion Tarte Tatin](https://lifehacker.com/you-deserve-this-gorgonzola-caramelized-onion-tarte-tat-1849909867)
-- [Dev.to/JS] [Oh boy, this is exciting!](https://dev.to/webjose/oh-boy-this-is-exciting-3mee)
 - [Lifehacker] [5 Smartwatches You Can Buy for Under $200](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [Four Ways to Make a Better Spinach and Artichoke Dip](https://lifehacker.com/four-ways-to-make-a-better-spinach-and-artichoke-dip-1849905427)
 - [Lifehacker] [The 7 Deadly Sins of Setting Your New Year&#39;s Resolutions](https://lifehacker.com/the-7-deadly-sins-of-setting-your-new-years-resolutions-1849908667)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This TikTok Dryer Sheet ‘Hack’ Could Set Your House on Fire](https://lifehacker.com/this-tiktok-dryer-sheet-hack-could-set-your-house-on-1849905164)
 - [Lifehacker] [Here Are the 2022 Christmas Shipping Deadlines](https://lifehacker.com/here-are-the-2022-holiday-shipping-deadlines-1849904837)
 - [Lifehacker] [My Favorite Christmas Canapé Starts With a Can of Salmon](https://lifehacker.com/my-favorite-christmas-canape-starts-with-a-can-of-salmo-1849904893)
-- [Lifehacker] [Try EmuVR to Relive ’90s Gaming](https://lifehacker.com/try-emuvr-to-relive-90s-gaming-1849904148)
-- [Lifehacker] [Upholster Your Furniture With an Old Sweater](https://lifehacker.com/upholster-your-furniture-with-an-old-sweater-1849901598)
-- [Lifehacker] [Upgrade Your Desserts With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try EmuVR to Relive ’90s Gaming](https://lifehacker.com/try-emuvr-to-relive-90s-gaming-1849904148)<!-- TECH-POSTS:END -->
 
 ---
 
