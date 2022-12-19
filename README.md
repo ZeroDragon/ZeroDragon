@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Becoming a Web Developer](https://dev.to/shasheeshpurohit/becoming-a-web-developer-5fc5)
+- [Dev.to/JS] [1971. Leetcode Solution in javascript](https://dev.to/chiki1601/1971-leetcode-solution-in-javascript-4806)
 - [Dev.to/JS] [Improve Your Next.js App’s Performance in 10 Minutes](https://dev.to/leduc1901/improve-your-nextjs-apps-performance-in-10-minutes-1gn2)
 - [Dev.to/JS] [How to create an NFT with Ternoa-js SDK](https://dev.to/dhammani/how-to-create-an-nft-with-ternoa-js-sdk-42n2)
 - [Dev.to/JS] [Better DX in JS apps with unplugin-auto-import](https://dev.to/jacobandrewsky/better-dx-in-js-apps-with-unplugin-auto-import-193e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clean Code &lpar;2&rpar;: Stability](https://dev.to/codingalgorithm/clean-code-2-stability-5d01)
 - [Dev.to/JS] [A deep dive into Rematch -- State Management for React](https://dev.to/asayerio_techblog/a-deep-dive-into-rematch-state-management-for-react-30o5)
 - [Dev.to/JS] [Working with the DOM in JavaScript](https://dev.to/asayerio_techblog/working-with-the-dom-in-javascript-2njd)
-- [Dev.to/JS] [Maps and React](https://dev.to/codingmustache/maps-and-react-1nlm)
-- [Dev.to/JS] [10 gợi ý mua quà Tết cho gia đình, người thân](https://dev.to/gquatet/10-goi-y-mua-qua-tet-cho-gia-dinh-nguoi-than-n3n)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
