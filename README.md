@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Backtesting a trading strategy with JavaScript](https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj)
+- [Dev.to/JS] [Back to the future: Navigation API](https://dev.to/romaintrotard/back-to-the-future-navigation-api-4pil)
+- [Dev.to/JS] [How to predict direction with orderbook data](https://dev.to/onurcelik/how-to-determine-predict-direction-with-buy-sell-orders-46f9)
+- [Lifehacker] [Here’s Your Year-End Financial Checklist](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
+- [Dev.to/JS] [JavaScript Fundamentals: Conditionals](https://dev.to/astrodevil/javascript-fundamentals-conditionals-1pi2)
+- [Dev.to/JS] [Transform Your dev.to Experience with a Custom Extension!](https://dev.to/deeeyae/transform-your-devto-experience-with-a-custom-extension-1e67)
+- [Dev.to/JS] [Bola88 Slot Games Online](https://dev.to/bola88slot/bola88-slot-games-online-3763)
+- [Lifehacker] [15 Delayed Movies That Are Finally Coming Out in 2023](https://lifehacker.com/15-delayed-movies-that-are-finally-coming-out-in-2023-1849908964)
 - [Dev.to/JS] [Can javascript variables have numbers?](https://dev.to/mwansix/can-javascript-variables-have-numbers-3nh9)
 - [Dev.to/JS] [How to create a simple range function in JS?](https://dev.to/rraneem/how-to-create-a-simple-range-function-in-js-n1a)
 - [Lifehacker] [9 Ways to Give Your ‘Performance’ Oatmeal a Competitive Edge](https://lifehacker.com/9-ways-to-give-your-performance-oatmeal-a-competitive-1849905042)
@@ -33,14 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript support hits 1.0 milestone on Compute@Edge](https://dev.to/fastly/javascript-support-hits-10-milestone-on-computeedge-2n61)
 - [Lifehacker] [You Deserve This Gorgonzola Caramelized Onion Tarte Tatin](https://lifehacker.com/you-deserve-this-gorgonzola-caramelized-onion-tarte-tat-1849909867)
 - [Dev.to/JS] [Oh boy, this is exciting!](https://dev.to/webjose/oh-boy-this-is-exciting-3mee)
-- [Dev.to/JS] [10 Most-Liked Programming Languages that Humans Will Use in 2050](https://dev.to/abhinav0334/10-most-liked-programming-languages-that-humans-will-use-in-2050-4a9e)
-- [Dev.to/JS] [Express Kickoff](https://dev.to/konstantinstanmeyer/express-kickoff-2m8j)
 - [Lifehacker] [5 Smartwatches You Can Buy for Under $200](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
-- [Dev.to/JS] [table: refactor our code](https://dev.to/gohomewho/table-refactor-our-code-4j02)
-- [Dev.to/JS] [Proboscidea Volcanium](https://dev.to/rmion/proboscidea-volcanium-ok0)
-- [Dev.to/JS] [DevTools for your Backend Server](https://dev.to/theonly1me/devtools-for-your-backend-server-jph)
 - [Lifehacker] [Four Ways to Make a Better Spinach and Artichoke Dip](https://lifehacker.com/four-ways-to-make-a-better-spinach-and-artichoke-dip-1849905427)
-- [Dev.to/JS] [30+Best Programming Memes](https://dev.to/theme_selection/best-programming-memes-8nb)
 - [Lifehacker] [The 7 Deadly Sins of Setting Your New Year&#39;s Resolutions](https://lifehacker.com/the-7-deadly-sins-of-setting-your-new-years-resolutions-1849908667)
 - [Lifehacker] [You Actually Do Need to Engage in Office Politics](https://lifehacker.com/you-actually-do-need-to-engage-in-office-politics-1849903141)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite Christmas Canapé Starts With a Can of Salmon](https://lifehacker.com/my-favorite-christmas-canape-starts-with-a-can-of-salmo-1849904893)
 - [Lifehacker] [Try EmuVR to Relive ’90s Gaming](https://lifehacker.com/try-emuvr-to-relive-90s-gaming-1849904148)
 - [Lifehacker] [Upholster Your Furniture With an Old Sweater](https://lifehacker.com/upholster-your-furniture-with-an-old-sweater-1849901598)
-- [Lifehacker] [Upgrade Your Desserts With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)
-- [Lifehacker] [What&#39;s New on Hulu in January 2023](https://lifehacker.com/whats-new-on-hulu-in-january-2023-1849903701)
-- [Lifehacker] [Five of the Best Ways to Increase Your Stress Resilience](https://lifehacker.com/five-of-the-best-ways-to-increase-your-stress-resilienc-1849903411)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Upgrade Your Desserts With Almond Extract](https://lifehacker.com/upgrade-your-baked-goods-with-almond-extract-1849903982)<!-- TECH-POSTS:END -->
 
 ---
 
