@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [⚛️Componentes Funcionais e de Classe em React⚛️](https://dev.to/mpetry/componentes-funcionais-e-de-classe-em-react-150c)
+- [Dev.to/JS] [All You Need To Know About Arrays In JavaScript &lpar;1&rpar;](https://dev.to/waqasongithub/all-you-need-to-know-about-arrays-in-javascript-1-4ikc)
+- [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
+- [Dev.to/JS] [Implement Lodash&#39;s Get method](https://dev.to/986913/implement-lodashs-get-method-2gcd)
 - [Dev.to/JS] [How To Use Async/Await](https://dev.to/ksowah/how-to-use-asyncawait-1egb)
 - [Dev.to/JS] [Promise.allSettled](https://dev.to/986913/promiseallsettled-46jm)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React vs React Native: How Different Are They, Really?](https://dev.to/mcavaliere/react-vs-react-native-how-different-are-they-really-2h69)
 - [Dev.to/JS] [Split and Join: The Dichotomy of Strings and Arrays](https://dev.to/jrcharney/split-and-join-the-dichotomy-of-strings-and-arrays-2hb)
 - [Lifehacker] [Don&#39;t Remove a Stolen iPhone From Your Apple ID &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-remove-a-stolen-iphone-from-your-apple-id-do-this-1849910519)
-- [Dev.to/JS] [How to setup Vitest with React Testing Library](https://dev.to/coder4_life/how-to-setup-vitest-with-react-testing-library-326f)
-- [Dev.to/JS] [Voxel Airplanes 3D WebGL demo](https://dev.to/keaukraine/voxel-airplanes-3d-webgl-demo-1k65)
 - [Lifehacker] [Use This Site to Get Your Instagram Back After Getting Locked Out](https://lifehacker.com/use-this-site-to-get-your-instagram-back-after-getting-1849910487)
-- [Dev.to/JS] [Backtesting a trading strategy with JavaScript](https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj)
 - [Lifehacker] [Here’s Your Year-End Financial Checklist](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
 - [Lifehacker] [15 Delayed Movies That Are Finally Coming Out in 2023](https://lifehacker.com/15-delayed-movies-that-are-finally-coming-out-in-2023-1849908964)
 - [Lifehacker] [9 Ways to Give Your ‘Performance’ Oatmeal a Competitive Edge](https://lifehacker.com/9-ways-to-give-your-performance-oatmeal-a-competitive-1849905042)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
-- [Lifehacker] [Use the &#39;Feynman Method&#39; to Learn New Things](https://lifehacker.com/use-the-feynman-method-to-learn-new-things-1849905388)
-- [Lifehacker] [13 TV Shows and Movies to Watch If You Miss the Cast of &#39;The White Lotus&#39;](https://lifehacker.com/13-tv-shows-and-movies-to-watch-if-you-miss-the-cast-of-1849904811)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the &#39;Feynman Method&#39; to Learn New Things](https://lifehacker.com/use-the-feynman-method-to-learn-new-things-1849905388)<!-- TECH-POSTS:END -->
 
 ---
 
