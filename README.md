@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use Async/Await](https://dev.to/ksowah/how-to-use-asyncawait-1egb)
+- [Dev.to/JS] [Promise.allSettled](https://dev.to/986913/promiseallsettled-46jm)
+- [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
+- [Dev.to/JS] [Coding Garden Log - Entry 0](https://dev.to/w3cj/coding-garden-log-entry-0-g39)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
 - [Lifehacker] [Your Spin Bike Needs Pedal Adapters](https://lifehacker.com/your-spin-bike-needs-pedal-adapters-1849911520)
 - [Dev.to/JS] [New personal domain](https://dev.to/devjbyrd/new-personal-domain-49hi)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Voxel Airplanes 3D WebGL demo](https://dev.to/keaukraine/voxel-airplanes-3d-webgl-demo-1k65)
 - [Lifehacker] [Use This Site to Get Your Instagram Back After Getting Locked Out](https://lifehacker.com/use-this-site-to-get-your-instagram-back-after-getting-1849910487)
 - [Dev.to/JS] [Backtesting a trading strategy with JavaScript](https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj)
-- [Dev.to/JS] [Back to the future: Navigation API](https://dev.to/romaintrotard/back-to-the-future-navigation-api-4pil)
-- [Dev.to/JS] [How to predict direction with orderbook data](https://dev.to/onurcelik/how-to-determine-predict-direction-with-buy-sell-orders-46f9)
 - [Lifehacker] [Here’s Your Year-End Financial Checklist](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
-- [Dev.to/JS] [JavaScript Fundamentals: Conditionals](https://dev.to/astrodevil/javascript-fundamentals-conditionals-1pi2)
 - [Lifehacker] [15 Delayed Movies That Are Finally Coming Out in 2023](https://lifehacker.com/15-delayed-movies-that-are-finally-coming-out-in-2023-1849908964)
 - [Lifehacker] [9 Ways to Give Your ‘Performance’ Oatmeal a Competitive Edge](https://lifehacker.com/9-ways-to-give-your-performance-oatmeal-a-competitive-1849905042)
 - [Lifehacker] [The 10 Best Chrome Extensions of 2022, According to Google](https://lifehacker.com/the-10-best-chrome-extensions-of-2022-according-to-goo-1849909441)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
 - [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
 - [Lifehacker] [Use the &#39;Feynman Method&#39; to Learn New Things](https://lifehacker.com/use-the-feynman-method-to-learn-new-things-1849905388)
-- [Lifehacker] [13 TV Shows and Movies to Watch If You Miss the Cast of &#39;The White Lotus&#39;](https://lifehacker.com/13-tv-shows-and-movies-to-watch-if-you-miss-the-cast-of-1849904811)
-- [Lifehacker] [This TikTok Dryer Sheet ‘Hack’ Could Set Your House on Fire](https://lifehacker.com/this-tiktok-dryer-sheet-hack-could-set-your-house-on-1849905164)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 TV Shows and Movies to Watch If You Miss the Cast of &#39;The White Lotus&#39;](https://lifehacker.com/13-tv-shows-and-movies-to-watch-if-you-miss-the-cast-of-1849904811)<!-- TECH-POSTS:END -->
 
 ---
 
