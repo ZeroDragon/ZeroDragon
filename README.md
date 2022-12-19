@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Maps and React](https://dev.to/codingmustache/maps-and-react-1nlm)
+- [Dev.to/JS] [10 gợi ý mua quà Tết cho gia đình, người thân](https://dev.to/gquatet/10-goi-y-mua-qua-tet-cho-gia-dinh-nguoi-than-n3n)
+- [Dev.to/JS] [What wrong with this codes?](https://dev.to/zerohour/what-wrong-with-this-codes-18oi)
 - [Dev.to/JS] [GIT Commands Summary](https://dev.to/thalhatou/git-commands-summary-1dbl)
 - [Dev.to/JS] [Java Script Events](https://dev.to/theocita/java-script-events-537c)
 - [Dev.to/JS] [How to create a REACT app](https://dev.to/mdadul/how-to-create-a-react-app-5djf)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create Toast Notifications in a React Applications](https://dev.to/code_queen/how-to-create-toast-notifications-in-a-react-applications-3aeo)
 - [Dev.to/JS] [Rapid Html development with Emmet formula in VS code](https://dev.to/sk063675488/rapid-html-development-with-emmet-formula-in-vs-code-24mh)
 - [Dev.to/JS] [How to create color piker &lpar;HTML/CSS/JS&rpar;](https://dev.to/simosamaa/how-to-create-color-piker-htmlcssjs-4677)
-- [Dev.to/JS] [Decorator pattern in TypeScript](https://dev.to/jmalvarez/decorator-pattern-in-typescript-na5)
-- [Dev.to/JS] [How do you deploy a React app on digitalocean?](https://dev.to/michthebrandofficial/how-do-you-deploy-a-react-app-on-digitalocean-1o2b)
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
-- [Dev.to/JS] [JavaScript Fundamentals: Math Object](https://dev.to/astrodevil/javascript-fundamentals-math-object-570c)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
