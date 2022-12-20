@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why use Tableau Finance Dashboard?](https://dev.to/kanishedureka/why-use-tableau-finance-dashboard-i4j)
+- [Dev.to/JS] [Frontend Magic: All tools at one place](https://dev.to/shreyvijayvargiya/frontend-magic-all-tools-at-one-place-30mp)
+- [Dev.to/JS] [Drag n Drop Walkthrough in React.](https://dev.to/aydotvin/react-drag-n-drop-walkthrough-3fnc)
+- [Dev.to/JS] [5 Methods DevOps Will Immediately Change Your business](https://dev.to/kanishedureka/5-methods-devops-will-immediately-change-your-business-3mdo)
+- [Dev.to/JS] [What is Shared Hosting ? and How you can buy one in $1.99/M](https://dev.to/hostinginfoh/what-is-shared-hosting-and-how-you-can-buy-one-in-199m-31j9)
 - [Dev.to/JS] [Quick notes on cryptography for js devs](https://dev.to/foxgem/quick-notes-on-cryptography-for-js-devs-2h3b)
 - [Dev.to/JS] [Everything About Medusa - An Open-Source Alternative to Shopify](https://dev.to/tyaga001/everything-about-medusa-an-open-source-alternative-to-shopify-4ald)
 - [Dev.to/JS] [But I know for sure that being](https://dev.to/heaterheatwell/but-i-know-for-sure-that-being-21po)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Objects](https://dev.to/amplication/javascript-objects-157e)
 - [Dev.to/JS] [JavaScript course in Scrimba](https://dev.to/jeyagurunathang/javascript-course-in-scrimba-4f74)
 - [Dev.to/JS] [How do I deploy my website for free?](https://dev.to/sleeplessyogi/how-do-i-deploy-my-website-for-free-4mp)
-- [Dev.to/JS] [Error: Minified React error #130 in vite Projects](https://dev.to/rkjain119/error-minified-react-error-130-in-vite-projects-4bkm)
-- [Dev.to/JS] [Avatar The Way of Water Movie Download](https://dev.to/wateravatar3/avatar-the-way-of-water-movie-download-3nd6)
-- [Dev.to/JS] [In-App chat in react.js with ZEGOCLOUD](https://dev.to/zainbinfurqan/in-app-chat-in-reactjs-with-zegocloud-1o7b)
-- [Dev.to/JS] [Deploying Vendure](https://dev.to/dailydevtips1/deploying-vendure-3fa3)
-- [Dev.to/JS] [How to Set Up a Cron Job to Update Your Firebase Collection](https://dev.to/asifroyal/how-to-set-up-a-cron-job-to-update-your-firebase-collection-55ka)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
