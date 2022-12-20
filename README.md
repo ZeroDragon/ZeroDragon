@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Website Theme Changer](https://dev.to/b1bxonty/website-theme-changer-l6g)
 - [Dev.to/JS] [Extract dynamic text using regex capturing group](https://dev.to/jiantengtoo/extract-dynamic-text-using-regex-capturing-group-ham)
 - [Dev.to/JS] [Import and animate an external SVG file with Javascript and Gsap.](https://dev.to/steinarvdesign/import-and-animate-an-external-svg-file-with-javascript-and-gsap-4ikb)
 - [Dev.to/JS] [⚠150+ Expressões JavaScript Que Você Precisa Conhecer⚠](https://dev.to/mpetry/150-expressoes-javascript-que-voce-precisa-conhecer-2on)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
 - [Lifehacker] [Your Spin Bike Needs Pedal Adapters](https://lifehacker.com/your-spin-bike-needs-pedal-adapters-1849911520)
 - [Dev.to/JS] [New personal domain](https://dev.to/devjbyrd/new-personal-domain-49hi)
-- [Dev.to/JS] [Concatenation of Strings and Arrays in JavaScript](https://dev.to/jrcharney/concatenation-of-strings-and-arrays-in-javascript-4i5a)
 - [Lifehacker] [12 Unexpected Ways to Use Bubble Wrap Around the House](https://lifehacker.com/12-unexpected-ways-to-use-bubble-wrap-around-the-house-1849911360)
 - [Lifehacker] [Don&#39;t Remove a Stolen iPhone From Your Apple ID &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-remove-a-stolen-iphone-from-your-apple-id-do-this-1849910519)
 - [Lifehacker] [Use This Site to Get Your Instagram Back After Getting Locked Out](https://lifehacker.com/use-this-site-to-get-your-instagram-back-after-getting-1849910487)
