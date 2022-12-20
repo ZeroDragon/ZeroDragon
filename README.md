@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Promises in Simple Term](https://dev.to/imkrunalkanojiya/javascript-promises-in-simple-term-327c)
+- [Dev.to/JS] [IndexDb data is removed automatically.](https://dev.to/kuldeepchopra/indexdb-data-is-remove-automatically-53n6)
+- [Dev.to/JS] [Unable to fetch firebase realtime database data into website using reactjs.](https://dev.to/ikhizarwork/unable-to-fetch-firebase-realtime-database-data-into-website-using-reactjs-k5l)
 - [Dev.to/JS] [POST Request in Javascript with Fetch&lpar;&rpar; and XMLHttpRequest](https://dev.to/imkrunalkanojiya/post-request-in-javascript-with-fetch-xmlhttprequest-2lob)
 - [Dev.to/JS] [Top 10 React Libraries in 2023](https://dev.to/imkrunalkanojiya/top-10-react-libraries-in-2023-56ad)
 - [Dev.to/JS] [The tilde&lpar;~&rpar; operator: the secret weapon for efficient integer conversion](https://dev.to/aniketcodes/the-tilde-operator-the-secret-weapon-for-efficient-integer-conversion-2028)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Extract dynamic text using regex capturing group](https://dev.to/jiantengtoo/extract-dynamic-text-using-regex-capturing-group-ham)
 - [Dev.to/JS] [Import and animate an external SVG file with Javascript and Gsap.](https://dev.to/steinarvdesign/import-and-animate-an-external-svg-file-with-javascript-and-gsap-4ikb)
 - [Dev.to/JS] [⚠150+ Expressões JavaScript Que Você Precisa Conhecer⚠](https://dev.to/mpetry/150-expressoes-javascript-que-voce-precisa-conhecer-2on)
-- [Dev.to/JS] [How to use ChatGPT AI to Create the Game Snake in JavaScript](https://dev.to/codingwithadam/how-to-use-chatgpt-ai-to-create-the-game-snake-in-javascript-113i)
-- [Dev.to/JS] [⚛️Componentes Funcionais e de Classe em React⚛️](https://dev.to/mpetry/componentes-funcionais-e-de-classe-em-react-150c)
-- [Dev.to/JS] [All You Need To Know About Arrays In JavaScript &lpar;1&rpar;](https://dev.to/waqasongithub/all-you-need-to-know-about-arrays-in-javascript-1-4ikc)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
