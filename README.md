@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything About Medusa - An Open-Source Alternative to Shopify](https://dev.to/tyaga001/everything-about-medusa-an-open-source-alternative-to-shopify-4ald)
+- [Dev.to/JS] [But I know for sure that being](https://dev.to/heaterheatwell/but-i-know-for-sure-that-being-21po)
+- [Dev.to/JS] [Let Nest.js take your Node backend framework to the next level](https://dev.to/errsole/let-nestjs-take-your-node-backend-framework-to-the-next-level-50o4)
+- [Dev.to/JS] [JavaScript Objects](https://dev.to/amplication/javascript-objects-157e)
 - [Dev.to/JS] [JavaScript course in Scrimba](https://dev.to/jeyagurunathang/javascript-course-in-scrimba-4f74)
 - [Dev.to/JS] [How do I deploy my website for free?](https://dev.to/sleeplessyogi/how-do-i-deploy-my-website-for-free-4mp)
 - [Dev.to/JS] [Error: Minified React error #130 in vite Projects](https://dev.to/rkjain119/error-minified-react-error-130-in-vite-projects-4bkm)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploying Vendure](https://dev.to/dailydevtips1/deploying-vendure-3fa3)
 - [Dev.to/JS] [How to Set Up a Cron Job to Update Your Firebase Collection](https://dev.to/asifroyal/how-to-set-up-a-cron-job-to-update-your-firebase-collection-55ka)
 - [Dev.to/JS] [Hộp quà Tết dinh dưỡng đẹp &amp; sang trọng 2023](https://dev.to/quatethcm/hop-qua-tet-dinh-duong-dep-sang-trong-2023-k6i)
-- [Dev.to/JS] [Why Reactive Programming is so awesome ?](https://dev.to/lifaon74/why-reactive-programming-is-so-awesome--73a)
-- [Dev.to/JS] [Javascript Promises in Simple Term](https://dev.to/imkrunalkanojiya/javascript-promises-in-simple-term-327c)
-- [Dev.to/JS] [IndexDb data is removed automatically.](https://dev.to/kuldeepchopra/indexdb-data-is-remove-automatically-53n6)
-- [Dev.to/JS] [Unable to fetch firebase realtime database data into website using reactjs.](https://dev.to/ikhizarwork/unable-to-fetch-firebase-realtime-database-data-into-website-using-reactjs-k5l)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
