@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best iOS 16.1 Features You Might&#39;ve Missed](https://lifehacker.com/the-best-ios-16-1-features-you-mightve-missed-1849910887)
+- [Dev.to/JS] [&lpar;re-&rpar;Introduction](https://dev.to/martinhicks/re-introduction-3b1c)
+- [Dev.to/JS] [Introduction to variables in JavaScript](https://dev.to/lordsonsilver/introduction-to-variables-in-javascript-49nm)
+- [Dev.to/JS] [Add auto-save to your website with javascript](https://dev.to/mohsenkamrani/add-auto-save-to-your-website-with-javascript-559f)
+- [Dev.to/JS] [On Page SEO Checker](https://dev.to/hostinginfoh/on-page-seo-checker-300b)
+- [Dev.to/JS] [Free Bulk URL Checker for Your Website](https://dev.to/hostinginfoh/free-bulk-url-checker-for-your-website-3odi)
 - [Dev.to/JS] [How to create a video streaming app using React and Vime](https://dev.to/gbadeboife/how-to-create-a-video-streaming-app-using-react-and-vime-4fb3)
 - [Dev.to/JS] [export default](https://dev.to/behrangsa/export-default-21fj)
 - [Dev.to/JS] [First impressions of Go as a JavaScript developer](https://dev.to/elpol/first-impressions-of-go-as-a-javascript-developer-ibk)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why use Tableau Finance Dashboard?](https://dev.to/kanishedureka/why-use-tableau-finance-dashboard-i4j)
 - [Dev.to/JS] [Frontend Magic: All tools at one place](https://dev.to/shreyvijayvargiya/frontend-magic-all-tools-at-one-place-30mp)
 - [Dev.to/JS] [Drag n Drop Walkthrough in React](https://dev.to/aydotvin/react-drag-n-drop-walkthrough-3fnc)
-- [Dev.to/JS] [5 Methods DevOps Will Immediately Change Your business](https://dev.to/kanishedureka/5-methods-devops-will-immediately-change-your-business-3mdo)
-- [Dev.to/JS] [What is Shared Hosting ? and How you can buy one in $1.99/M](https://dev.to/hostinginfoh/what-is-shared-hosting-and-how-you-can-buy-one-in-199m-31j9)
-- [Dev.to/JS] [Quick notes on cryptography for js devs](https://dev.to/foxgem/quick-notes-on-cryptography-for-js-devs-2h3b)
-- [Dev.to/JS] [Everything About Medusa - An Open-Source Alternative to Shopify](https://dev.to/tyaga001/everything-about-medusa-an-open-source-alternative-to-shopify-4ald)
-- [Dev.to/JS] [But I know for sure that being](https://dev.to/heaterheatwell/but-i-know-for-sure-that-being-21po)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
 - [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
 - [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
-- [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)
-- [Lifehacker] [Use the &#39;Feynman Method&#39; to Learn New Things](https://lifehacker.com/use-the-feynman-method-to-learn-new-things-1849905388)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)<!-- TECH-POSTS:END -->
 
 ---
 
