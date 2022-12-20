@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Fetching from an API using React Query - useQuery Hook Explained in Plain English](https://dev.to/abeinevincent/data-fetching-from-an-api-using-react-query-usequery-hook-explained-in-plain-english-4eei)
+- [Lifehacker] [5 Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
+- [Dev.to/JS] [[Dashboard] Máscara de Campo](https://dev.to/jsobralgitpush/dashboard-mascara-de-campo-3ine)
 - [Lifehacker] [The Easiest Way to Actually Quit a Mac App](https://lifehacker.com/the-easiest-way-to-actually-quit-a-mac-app-1849913743)
 - [Lifehacker] [Fight the Winter Doldrums With These Fruity Pickles](https://lifehacker.com/fight-the-winter-doldrums-with-these-fruity-pickles-1849913637)
 - [Lifehacker] [How to Always Find Free Wifi](https://lifehacker.com/how-to-always-find-free-wifi-1849914769)
@@ -45,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best iOS 16.1 Features You Might&#39;ve Missed](https://lifehacker.com/the-best-ios-16-1-features-you-mightve-missed-1849910887)
 - [Dev.to/JS] [&lpar;re-&rpar;Introduction](https://dev.to/martinhicks/re-introduction-3b1c)
 - [Dev.to/JS] [Introduction to variables in JavaScript](https://dev.to/lordsonsilver/introduction-to-variables-in-javascript-49nm)
-- [Dev.to/JS] [Add auto-save to your website with javascript](https://dev.to/mohsenkamrani/add-auto-save-to-your-website-with-javascript-559f)
-- [Dev.to/JS] [On Page SEO Checker](https://dev.to/hostinginfoh/on-page-seo-checker-300b)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video in January 2023](https://lifehacker.com/whats-new-on-prime-video-in-january-2023-1849909928)
 - [Lifehacker] [You Deserve This Gorgonzola Caramelized Onion Tarte Tatin](https://lifehacker.com/you-deserve-this-gorgonzola-caramelized-onion-tarte-tat-1849909867)
 - [Lifehacker] [5 Smartwatches You Can Buy for Under $200](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
-- [Lifehacker] [Four Ways to Make a Better Spinach and Artichoke Dip](https://lifehacker.com/four-ways-to-make-a-better-spinach-and-artichoke-dip-1849905427)
-- [Lifehacker] [The 7 Deadly Sins of Setting Your New Year&#39;s Resolutions](https://lifehacker.com/the-7-deadly-sins-of-setting-your-new-years-resolutions-1849908667)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four Ways to Make a Better Spinach and Artichoke Dip](https://lifehacker.com/four-ways-to-make-a-better-spinach-and-artichoke-dip-1849905427)<!-- TECH-POSTS:END -->
 
 ---
 
