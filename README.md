@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)
+- [Dev.to/JS] [LEARN - Authentication App with Next.Js &amp; Microsoft Graph](https://dev.to/azure/learn-authentication-app-with-nextjs-microsoft-graph-4i0p)
+- [Lifehacker] [14 of the Best Wordle Variants of 2022](https://lifehacker.com/14-of-the-best-wordle-variants-of-2022-1849915931)
+- [Dev.to/JS] [How To Use LocalStorage](https://dev.to/ksowah/how-to-use-localstorage-il0)
+- [Dev.to/JS] [A very tiny Observable using Generators &lpar;157 bytes compressed&rpar;](https://dev.to/artydev/a-very-tiny-observable-using-generators-157-bytes-compressed-14cc)
+- [Lifehacker] [Plan Your 2023 Travel Around These Long Weekends](https://lifehacker.com/plan-your-2023-travel-around-these-long-weekends-1849915406)
+- [Dev.to/JS] [JavaScriptmas 2022 - Issue 3](https://dev.to/michaellarocca/javascriptmas-2022-issue-3-3hl1)
+- [Dev.to/JS] [How To Add External Scripts in NextJS](https://dev.to/codablack23/how-to-add-external-scripts-in-nextjs-196b)
 - [Dev.to/JS] [Data Fetching from an API using React Query - useQuery Hook Explained in Plain English](https://dev.to/abeinevincent/data-fetching-from-an-api-using-react-query-usequery-hook-explained-in-plain-english-4eei)
 - [Lifehacker] [5 Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
 - [Dev.to/JS] [[Dashboard] Máscara de Campo](https://dev.to/jsobralgitpush/dashboard-mascara-de-campo-3ine)
@@ -39,15 +47,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Function Rest Parameters in JavaScript](https://dev.to/moazamdev/function-rest-parameters-in-javascript-2f1)
 - [Lifehacker] [13 Christmas Movies You Definitely Shouldn&#39;t Watch With Your Family](https://lifehacker.com/13-christmas-movies-you-definitely-shouldnt-watch-with-1849909685)
 - [Dev.to/JS] [Building a free Open-source portfolio template using HTML, CSS and JS](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-568b)
-- [Dev.to/JS] [react useContext&lpar;&rpar; Hook - web dev simplified](https://dev.to/akshdesai1/react-usecontext-hook-web-dev-simplified-3o9p)
-- [Dev.to/JS] [My Journey In The Open Source World](https://dev.to/cadienvan/my-journey-in-the-open-source-world-3ni8)
 - [Lifehacker] [10 of the Biggest Video Game Adaptations Coming in 2023](https://lifehacker.com/10-of-the-biggest-video-game-adaptations-coming-in-2023-1849913317)
 - [Crazy Programmer] [5 Fundamental Concepts of Object Oriented Programming](https://www.thecrazyprogrammer.com/2022/12/concepts-of-object-oriented-programming.html)
 - [Lifehacker] [Do This to Make Your Lemon Zest Zestier](https://lifehacker.com/do-this-to-make-your-lemon-zest-zestier-1849911296)
-- [Dev.to/JS] [The Trap of the useState hook with forms](https://dev.to/ahmedsarhan/the-trap-of-the-usestate-hook-with-forms-2d86)
 - [Lifehacker] [The Best iOS 16.1 Features You Might&#39;ve Missed](https://lifehacker.com/the-best-ios-16-1-features-you-mightve-missed-1849910887)
-- [Dev.to/JS] [&lpar;re-&rpar;Introduction](https://dev.to/martinhicks/re-introduction-3b1c)
-- [Dev.to/JS] [Introduction to variables in JavaScript](https://dev.to/lordsonsilver/introduction-to-variables-in-javascript-49nm)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Delayed Movies That Are Finally Coming Out in 2023](https://lifehacker.com/15-delayed-movies-that-are-finally-coming-out-in-2023-1849908964)
 - [Lifehacker] [9 Ways to Give Your ‘Performance’ Oatmeal a Competitive Edge](https://lifehacker.com/9-ways-to-give-your-performance-oatmeal-a-competitive-1849905042)
 - [Lifehacker] [The 10 Best Chrome Extensions of 2022, According to Google](https://lifehacker.com/the-10-best-chrome-extensions-of-2022-according-to-goo-1849909441)
-- [Lifehacker] [What&#39;s New on Prime Video in January 2023](https://lifehacker.com/whats-new-on-prime-video-in-january-2023-1849909928)
-- [Lifehacker] [You Deserve This Gorgonzola Caramelized Onion Tarte Tatin](https://lifehacker.com/you-deserve-this-gorgonzola-caramelized-onion-tarte-tat-1849909867)
-- [Lifehacker] [5 Smartwatches You Can Buy for Under $200](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
-- [Lifehacker] [Four Ways to Make a Better Spinach and Artichoke Dip](https://lifehacker.com/four-ways-to-make-a-better-spinach-and-artichoke-dip-1849905427)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Prime Video in January 2023](https://lifehacker.com/whats-new-on-prime-video-in-january-2023-1849909928)<!-- TECH-POSTS:END -->
 
 ---
 
