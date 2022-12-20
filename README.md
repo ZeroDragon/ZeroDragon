@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ask These Money Questions to See If You’re Financially Compatible](https://lifehacker.com/ask-these-money-questions-to-see-if-you-re-financially-1849912470)
+- [Dev.to/JS] [Function Rest Parameters in JavaScript](https://dev.to/moazamdev/function-rest-parameters-in-javascript-2f1)
+- [Lifehacker] [13 Christmas Movies You Definitely Shouldn&#39;t Watch With Your Family](https://lifehacker.com/13-christmas-movies-you-definitely-shouldnt-watch-with-1849909685)
+- [Dev.to/JS] [Building a free Open-source portfolio template using HTML, CSS and JS](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-568b)
+- [Dev.to/JS] [react useContext&lpar;&rpar; Hook - web dev simplified](https://dev.to/akshdesai1/react-usecontext-hook-web-dev-simplified-3o9p)
+- [Dev.to/JS] [My Journey In The Open Source World](https://dev.to/cadienvan/my-journey-in-the-open-source-world-3ni8)
+- [Lifehacker] [10 of the Biggest Video Game Adaptations Coming in 2023](https://lifehacker.com/10-of-the-biggest-video-game-adaptations-coming-in-2023-1849913317)
 - [Crazy Programmer] [5 Fundamental Concepts of Object Oriented Programming](https://www.thecrazyprogrammer.com/2022/12/concepts-of-object-oriented-programming.html)
 - [Lifehacker] [Do This to Make Your Lemon Zest Zestier](https://lifehacker.com/do-this-to-make-your-lemon-zest-zestier-1849911296)
 - [Dev.to/JS] [The Trap of the useState hook with forms](https://dev.to/ahmedsarhan/the-trap-of-the-usestate-hook-with-forms-2d86)
@@ -34,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free Bulk URL Checker for Your Website](https://dev.to/hostinginfoh/free-bulk-url-checker-for-your-website-3odi)
 - [Dev.to/JS] [How to create a video streaming app using React and Vime](https://dev.to/gbadeboife/how-to-create-a-video-streaming-app-using-react-and-vime-4fb3)
 - [Dev.to/JS] [export default](https://dev.to/behrangsa/export-default-21fj)
-- [Dev.to/JS] [First impressions of Go as a JavaScript developer](https://dev.to/elpol/first-impressions-of-go-as-a-javascript-developer-ibk)
-- [Dev.to/JS] [* / % + -bugungi darsimiza](https://dev.to/charos1mm/-bugungi-darsimiza-2hoh)
-- [Dev.to/JS] [Why use Tableau Finance Dashboard?](https://dev.to/kanishedureka/why-use-tableau-finance-dashboard-i4j)
-- [Dev.to/JS] [Frontend Magic: All tools at one place](https://dev.to/shreyvijayvargiya/frontend-magic-all-tools-at-one-place-30mp)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
-- [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
-- [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
-- [Lifehacker] [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
-- [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)<!-- TECH-POSTS:END -->
 
 ---
 
