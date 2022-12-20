@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Typescript WTF Moments 9: Empty Array any[]? never[]?](https://dev.to/tylim88/typescript-wtf-moments-9-empty-array-any-never-bfn)
+- [Dev.to/JS] [JavaScript Async/Await: A Beginner&#39;s Guide](https://dev.to/nathannosudo/javascript-asyncawait-a-beginners-guide-232l)
+- [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
+- [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
+- [Dev.to/JS] [Typescript WTF Moments 9: Empty Array never? annotated any[]? never[]?](https://dev.to/tylim88/typescript-wtf-moments-9-empty-array-any-never-bfn)
 - [Dev.to/JS] [How to Use ChatGPT as an Educational Chatbot in a Next.js Frontend](https://dev.to/wundergraph/how-to-use-chatgpt-as-an-educational-chatbot-in-a-nextjs-frontend-1m0e)
 - [Dev.to/JS] [I’ve switched from nvm to Volta - Why?](https://dev.to/pierre/switch-from-nvm-to-volta-384a)
 - [Dev.to/JS] [Exploring the Power of Typescript Decorators: Real-World Examples and Best Practices](https://dev.to/ayka_code/exploring-the-power-of-typescript-decorators-real-world-examples-and-best-practices-2b72)
@@ -33,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LEARN - Authentication App with Next.Js &amp; Microsoft Graph](https://dev.to/azure/learn-authentication-app-with-nextjs-microsoft-graph-4i0p)
 - [Lifehacker] [14 of the Best Wordle Variants of 2022](https://lifehacker.com/14-of-the-best-wordle-variants-of-2022-1849915931)
 - [Dev.to/JS] [How To Use LocalStorage](https://dev.to/ksowah/how-to-use-localstorage-il0)
-- [Dev.to/JS] [A very tiny Observable using Generators &lpar;157 bytes compressed&rpar;](https://dev.to/artydev/a-very-tiny-observable-using-generators-157-bytes-compressed-14cc)
 - [Lifehacker] [Plan Your 2023 Travel Around These Long Weekends](https://lifehacker.com/plan-your-2023-travel-around-these-long-weekends-1849915406)
 - [Dev.to/JS] [JavaScriptmas 2022 - Issue 3](https://dev.to/michaellarocca/javascriptmas-2022-issue-3-3hl1)
 - [Dev.to/JS] [How To Add External Scripts in NextJS](https://dev.to/codablack23/how-to-add-external-scripts-in-nextjs-196b)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Remove a Stolen iPhone From Your Apple ID &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-remove-a-stolen-iphone-from-your-apple-id-do-this-1849910519)
 - [Lifehacker] [Use This Site to Get Your Instagram Back After Getting Locked Out](https://lifehacker.com/use-this-site-to-get-your-instagram-back-after-getting-1849910487)
 - [Lifehacker] [Here’s Your Year-End Financial Checklist](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
-- [Lifehacker] [15 Delayed Movies That Are Finally Coming Out in 2023](https://lifehacker.com/15-delayed-movies-that-are-finally-coming-out-in-2023-1849908964)
-- [Lifehacker] [9 Ways to Give Your ‘Performance’ Oatmeal a Competitive Edge](https://lifehacker.com/9-ways-to-give-your-performance-oatmeal-a-competitive-1849905042)
-- [Lifehacker] [The 10 Best Chrome Extensions of 2022, According to Google](https://lifehacker.com/the-10-best-chrome-extensions-of-2022-according-to-goo-1849909441)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Delayed Movies That Are Finally Coming Out in 2023](https://lifehacker.com/15-delayed-movies-that-are-finally-coming-out-in-2023-1849908964)<!-- TECH-POSTS:END -->
 
 ---
 
