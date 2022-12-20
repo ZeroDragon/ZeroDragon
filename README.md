@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick notes on cryptography for js devs](https://dev.to/foxgem/quick-notes-on-cryptography-for-js-devs-2h3b)
 - [Dev.to/JS] [Everything About Medusa - An Open-Source Alternative to Shopify](https://dev.to/tyaga001/everything-about-medusa-an-open-source-alternative-to-shopify-4ald)
 - [Dev.to/JS] [But I know for sure that being](https://dev.to/heaterheatwell/but-i-know-for-sure-that-being-21po)
 - [Dev.to/JS] [Let Nest.js take your Node backend framework to the next level](https://dev.to/errsole/let-nestjs-take-your-node-backend-framework-to-the-next-level-50o4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [In-App chat in react.js with ZEGOCLOUD](https://dev.to/zainbinfurqan/in-app-chat-in-reactjs-with-zegocloud-1o7b)
 - [Dev.to/JS] [Deploying Vendure](https://dev.to/dailydevtips1/deploying-vendure-3fa3)
 - [Dev.to/JS] [How to Set Up a Cron Job to Update Your Firebase Collection](https://dev.to/asifroyal/how-to-set-up-a-cron-job-to-update-your-firebase-collection-55ka)
-- [Dev.to/JS] [Hộp quà Tết dinh dưỡng đẹp &amp; sang trọng 2023](https://dev.to/quatethcm/hop-qua-tet-dinh-duong-dep-sang-trong-2023-k6i)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
