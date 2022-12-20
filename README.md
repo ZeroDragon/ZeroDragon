@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [POST Request in Javascript with Fetch&lpar;&rpar; and XMLHttpRequest](https://dev.to/imkrunalkanojiya/post-request-in-javascript-with-fetch-xmlhttprequest-2lob)
+- [Dev.to/JS] [Top 10 React Libraries in 2023](https://dev.to/imkrunalkanojiya/top-10-react-libraries-in-2023-56ad)
+- [Dev.to/JS] [The tilde&lpar;~&rpar; operator: the secret weapon for efficient integer conversion](https://dev.to/aniketcodes/the-tilde-operator-the-secret-weapon-for-efficient-integer-conversion-2028)
+- [Dev.to/JS] [50+ hộp quà Tết hạt dinh dưỡng cao cấp, giá tốt nhất 2023](https://dev.to/quatetdoanhnghiep202/50-hop-qua-tet-hat-dinh-duong-cao-cap-gia-tot-nhat-2023-4c9a)
 - [Dev.to/JS] [[Solved] Fatal error: Allowed memory size of 1610612736 bytes exhausted &lpar;tried to allocat e 4096 bytes&rpar;](https://dev.to/perfectans/solved-fatal-error-allowed-memory-size-of-1610612736-bytes-exhausted-tried-to-allocat-e-4096-bytes-2cca)
 - [Dev.to/JS] [Website Theme Changer](https://dev.to/b1bxonty/website-theme-changer-l6g)
 - [Dev.to/JS] [Extract dynamic text using regex capturing group](https://dev.to/jiantengtoo/extract-dynamic-text-using-regex-capturing-group-ham)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⚛️Componentes Funcionais e de Classe em React⚛️](https://dev.to/mpetry/componentes-funcionais-e-de-classe-em-react-150c)
 - [Dev.to/JS] [All You Need To Know About Arrays In JavaScript &lpar;1&rpar;](https://dev.to/waqasongithub/all-you-need-to-know-about-arrays-in-javascript-1-4ikc)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
-- [Dev.to/JS] [Implement Lodash&#39;s Get method](https://dev.to/986913/implement-lodashs-get-method-2gcd)
-- [Dev.to/JS] [How To Use Async/Await](https://dev.to/ksowah/how-to-use-asyncawait-1egb)
-- [Dev.to/JS] [Promise.allSettled](https://dev.to/986913/promiseallsettled-46jm)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
-- [Dev.to/JS] [Coding Garden Log - Entry 0](https://dev.to/w3cj/coding-garden-log-entry-0-g39)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
 - [Lifehacker] [Your Spin Bike Needs Pedal Adapters](https://lifehacker.com/your-spin-bike-needs-pedal-adapters-1849911520)
 - [Lifehacker] [12 Unexpected Ways to Use Bubble Wrap Around the House](https://lifehacker.com/12-unexpected-ways-to-use-bubble-wrap-around-the-house-1849911360)
