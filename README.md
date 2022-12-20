@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Actually Quit a Mac App](https://lifehacker.com/the-easiest-way-to-actually-quit-a-mac-app-1849913743)
+- [Lifehacker] [Fight the Winter Doldrums With These Fruity Pickles](https://lifehacker.com/fight-the-winter-doldrums-with-these-fruity-pickles-1849913637)
 - [Lifehacker] [How to Always Find Free Wifi](https://lifehacker.com/how-to-always-find-free-wifi-1849914769)
 - [Dev.to/JS] [Benchmarking Deno vs Node with GraphQL](https://dev.to/andresribeiro/benchmarking-deno-vs-node-with-graphql-3ma3)
 - [Lifehacker] [Cannoli Crackers Deserve a Place on Your Cheese Board](https://lifehacker.com/cannoli-crackers-deserve-a-place-on-your-cheese-board-1849914856)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Deserve This Gorgonzola Caramelized Onion Tarte Tatin](https://lifehacker.com/you-deserve-this-gorgonzola-caramelized-onion-tarte-tat-1849909867)
 - [Lifehacker] [5 Smartwatches You Can Buy for Under $200](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [Four Ways to Make a Better Spinach and Artichoke Dip](https://lifehacker.com/four-ways-to-make-a-better-spinach-and-artichoke-dip-1849905427)
-- [Lifehacker] [The 7 Deadly Sins of Setting Your New Year&#39;s Resolutions](https://lifehacker.com/the-7-deadly-sins-of-setting-your-new-years-resolutions-1849908667)
-- [Lifehacker] [You Actually Do Need to Engage in Office Politics](https://lifehacker.com/you-actually-do-need-to-engage-in-office-politics-1849903141)
-- [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Setting Your New Year&#39;s Resolutions](https://lifehacker.com/the-7-deadly-sins-of-setting-your-new-years-resolutions-1849908667)<!-- TECH-POSTS:END -->
 
 ---
 
