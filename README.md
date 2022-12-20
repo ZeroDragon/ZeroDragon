@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [5 Fundamental Concepts of Object Oriented Programming](https://www.thecrazyprogrammer.com/2022/12/concepts-of-object-oriented-programming.html)
+- [Lifehacker] [Do This to Make Your Lemon Zest Zestier](https://lifehacker.com/do-this-to-make-your-lemon-zest-zestier-1849911296)
+- [Dev.to/JS] [The Trap of the useState hook with forms](https://dev.to/ahmedsarhan/the-trap-of-the-usestate-hook-with-forms-2d86)
 - [Lifehacker] [The Best iOS 16.1 Features You Might&#39;ve Missed](https://lifehacker.com/the-best-ios-16-1-features-you-mightve-missed-1849910887)
 - [Dev.to/JS] [&lpar;re-&rpar;Introduction](https://dev.to/martinhicks/re-introduction-3b1c)
 - [Dev.to/JS] [Introduction to variables in JavaScript](https://dev.to/lordsonsilver/introduction-to-variables-in-javascript-49nm)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [* / % + -bugungi darsimiza](https://dev.to/charos1mm/-bugungi-darsimiza-2hoh)
 - [Dev.to/JS] [Why use Tableau Finance Dashboard?](https://dev.to/kanishedureka/why-use-tableau-finance-dashboard-i4j)
 - [Dev.to/JS] [Frontend Magic: All tools at one place](https://dev.to/shreyvijayvargiya/frontend-magic-all-tools-at-one-place-30mp)
-- [Dev.to/JS] [Drag n Drop Walkthrough in React](https://dev.to/aydotvin/react-drag-n-drop-walkthrough-3fnc)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
 - [Lifehacker] [Take These Proactive Steps to Fend Off Holiday Blues](https://lifehacker.com/take-these-proactive-steps-to-fend-off-holiday-blues-1849900197)
 - [Lifehacker] [Feed Your SAD Some Free Wendy’s](https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962)
-- [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
-- [Lifehacker] [5 Bluetooth Speakers You Can Gift for Under $100](https://lifehacker.com/5-bluetooth-speakers-you-can-gift-for-under-100-1849905523)
-- [Lifehacker] [You Should Definitely Replay &#39;The Legend of Zelda&#39; in First Person](https://lifehacker.com/you-should-definitely-replay-the-legend-of-zelda-in-fir-1849905337)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Relive the Inanity of 2022 With Google’s ‘Year in Search’](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)<!-- TECH-POSTS:END -->
 
 ---
 
