@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Always Find Free Wifi](https://lifehacker.com/how-to-always-find-free-wifi-1849914769)
+- [Dev.to/JS] [Benchmarking Deno vs Node with GraphQL](https://dev.to/andresribeiro/benchmarking-deno-vs-node-with-graphql-3ma3)
+- [Lifehacker] [Cannoli Crackers Deserve a Place on Your Cheese Board](https://lifehacker.com/cannoli-crackers-deserve-a-place-on-your-cheese-board-1849914856)
+- [Lifehacker] [This Is the Best Free Scanning App on iPhone](https://lifehacker.com/this-is-the-best-free-scanning-app-on-iphone-1849913793)
 - [Dev.to/JS] [Var and Let in for loop with setTimeout - Event loop and block scoping](https://dev.to/saver711/var-and-let-in-for-loop-with-settimeout-event-loop-and-block-scoping-1l72)
 - [Lifehacker] [You Can Disable Google Sign-in Pop-ups on All Websites](https://lifehacker.com/you-can-disable-google-sign-in-pop-ups-on-all-websites-1849913714)
 - [Dev.to/JS] [Using TypeORM with PostgreSQL in a Node.js and Express Application](https://dev.to/ayka_code/using-typeorm-with-postgresql-in-a-nodejs-and-express-application-4gma)
@@ -41,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to variables in JavaScript](https://dev.to/lordsonsilver/introduction-to-variables-in-javascript-49nm)
 - [Dev.to/JS] [Add auto-save to your website with javascript](https://dev.to/mohsenkamrani/add-auto-save-to-your-website-with-javascript-559f)
 - [Dev.to/JS] [On Page SEO Checker](https://dev.to/hostinginfoh/on-page-seo-checker-300b)
-- [Dev.to/JS] [Free Bulk URL Checker for Your Website](https://dev.to/hostinginfoh/free-bulk-url-checker-for-your-website-3odi)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Make a Better Spinach and Artichoke Dip](https://lifehacker.com/four-ways-to-make-a-better-spinach-and-artichoke-dip-1849905427)
 - [Lifehacker] [The 7 Deadly Sins of Setting Your New Year&#39;s Resolutions](https://lifehacker.com/the-7-deadly-sins-of-setting-your-new-years-resolutions-1849908667)
 - [Lifehacker] [You Actually Do Need to Engage in Office Politics](https://lifehacker.com/you-actually-do-need-to-engage-in-office-politics-1849903141)
-- [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
-- [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
-- [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
-- [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)<!-- TECH-POSTS:END -->
 
 ---
 
