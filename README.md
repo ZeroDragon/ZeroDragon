@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use ChatGPT AI to Create the Game Snake in JavaScript](https://dev.to/codingwithadam/how-to-use-chatgpt-ai-to-create-the-game-snake-in-javascript-113i)
 - [Dev.to/JS] [⚛️Componentes Funcionais e de Classe em React⚛️](https://dev.to/mpetry/componentes-funcionais-e-de-classe-em-react-150c)
 - [Dev.to/JS] [All You Need To Know About Arrays In JavaScript &lpar;1&rpar;](https://dev.to/waqasongithub/all-you-need-to-know-about-arrays-in-javascript-1-4ikc)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Star Rating Feedback using Javascript](https://dev.to/rajamanickam/star-rating-feedback-using-javascript-4ipa)
 - [Dev.to/JS] [React.js - Custom hooks](https://dev.to/rbs/reactjs-custom-hooks-5abc)
 - [Dev.to/JS] [React vs React Native: How Different Are They, Really?](https://dev.to/mcavaliere/react-vs-react-native-how-different-are-they-really-2h69)
-- [Dev.to/JS] [Split and Join: The Dichotomy of Strings and Arrays](https://dev.to/jrcharney/split-and-join-the-dichotomy-of-strings-and-arrays-2hb)
 - [Lifehacker] [Don&#39;t Remove a Stolen iPhone From Your Apple ID &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-remove-a-stolen-iphone-from-your-apple-id-do-this-1849910519)
 - [Lifehacker] [Use This Site to Get Your Instagram Back After Getting Locked Out](https://lifehacker.com/use-this-site-to-get-your-instagram-back-after-getting-1849910487)
 - [Lifehacker] [Here’s Your Year-End Financial Checklist](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
