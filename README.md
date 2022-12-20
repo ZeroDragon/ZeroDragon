@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript WTF Moments 9: Empty Array any[]? never[]?](https://dev.to/tylim88/typescript-wtf-moments-9-empty-array-any-never-bfn)
+- [Dev.to/JS] [How to Use ChatGPT as an Educational Chatbot in a Next.js Frontend](https://dev.to/wundergraph/how-to-use-chatgpt-as-an-educational-chatbot-in-a-nextjs-frontend-1m0e)
+- [Dev.to/JS] [I’ve switched from nvm to Volta - Why?](https://dev.to/pierre/switch-from-nvm-to-volta-384a)
+- [Dev.to/JS] [Exploring the Power of Typescript Decorators: Real-World Examples and Best Practices](https://dev.to/ayka_code/exploring-the-power-of-typescript-decorators-real-world-examples-and-best-practices-2b72)
+- [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
+- [Dev.to/JS] [How to use effects &amp; transition with Tailwindcss](https://dev.to/guillaumeduhan/how-to-use-effects-transition-with-tailwindcss-142n)
 - [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)
 - [Dev.to/JS] [LEARN - Authentication App with Next.Js &amp; Microsoft Graph](https://dev.to/azure/learn-authentication-app-with-nextjs-microsoft-graph-4i0p)
 - [Lifehacker] [14 of the Best Wordle Variants of 2022](https://lifehacker.com/14-of-the-best-wordle-variants-of-2022-1849915931)
@@ -37,16 +43,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Actually Quit a Mac App](https://lifehacker.com/the-easiest-way-to-actually-quit-a-mac-app-1849913743)
 - [Lifehacker] [Fight the Winter Doldrums With These Fruity Pickles](https://lifehacker.com/fight-the-winter-doldrums-with-these-fruity-pickles-1849913637)
 - [Lifehacker] [How to Always Find Free Wifi](https://lifehacker.com/how-to-always-find-free-wifi-1849914769)
-- [Dev.to/JS] [Benchmarking Deno vs Node with GraphQL](https://dev.to/andresribeiro/benchmarking-deno-vs-node-with-graphql-3ma3)
 - [Lifehacker] [Cannoli Crackers Deserve a Place on Your Cheese Board](https://lifehacker.com/cannoli-crackers-deserve-a-place-on-your-cheese-board-1849914856)
 - [Lifehacker] [This Is the Best Free Scanning App on iPhone](https://lifehacker.com/this-is-the-best-free-scanning-app-on-iphone-1849913793)
-- [Dev.to/JS] [Var and Let in for loop with setTimeout - Event loop and block scoping](https://dev.to/saver711/var-and-let-in-for-loop-with-settimeout-event-loop-and-block-scoping-1l72)
 - [Lifehacker] [You Can Disable Google Sign-in Pop-ups on All Websites](https://lifehacker.com/you-can-disable-google-sign-in-pop-ups-on-all-websites-1849913714)
-- [Dev.to/JS] [Using TypeORM with PostgreSQL in a Node.js and Express Application](https://dev.to/ayka_code/using-typeorm-with-postgresql-in-a-nodejs-and-express-application-4gma)
 - [Lifehacker] [Ask These Money Questions to See If You’re Financially Compatible](https://lifehacker.com/ask-these-money-questions-to-see-if-you-re-financially-1849912470)
-- [Dev.to/JS] [Function Rest Parameters in JavaScript](https://dev.to/moazamdev/function-rest-parameters-in-javascript-2f1)
 - [Lifehacker] [13 Christmas Movies You Definitely Shouldn&#39;t Watch With Your Family](https://lifehacker.com/13-christmas-movies-you-definitely-shouldnt-watch-with-1849909685)
-- [Dev.to/JS] [Building a free Open-source portfolio template using HTML, CSS and JS](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-568b)
 - [Lifehacker] [10 of the Biggest Video Game Adaptations Coming in 2023](https://lifehacker.com/10-of-the-biggest-video-game-adaptations-coming-in-2023-1849913317)
 - [Crazy Programmer] [5 Fundamental Concepts of Object Oriented Programming](https://www.thecrazyprogrammer.com/2022/12/concepts-of-object-oriented-programming.html)
 - [Lifehacker] [Do This to Make Your Lemon Zest Zestier](https://lifehacker.com/do-this-to-make-your-lemon-zest-zestier-1849911296)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s Your Year-End Financial Checklist](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
 - [Lifehacker] [15 Delayed Movies That Are Finally Coming Out in 2023](https://lifehacker.com/15-delayed-movies-that-are-finally-coming-out-in-2023-1849908964)
 - [Lifehacker] [9 Ways to Give Your ‘Performance’ Oatmeal a Competitive Edge](https://lifehacker.com/9-ways-to-give-your-performance-oatmeal-a-competitive-1849905042)
-- [Lifehacker] [The 10 Best Chrome Extensions of 2022, According to Google](https://lifehacker.com/the-10-best-chrome-extensions-of-2022-according-to-goo-1849909441)
-- [Lifehacker] [What&#39;s New on Prime Video in January 2023](https://lifehacker.com/whats-new-on-prime-video-in-january-2023-1849909928)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 10 Best Chrome Extensions of 2022, According to Google](https://lifehacker.com/the-10-best-chrome-extensions-of-2022-according-to-goo-1849909441)<!-- TECH-POSTS:END -->
 
 ---
 
