@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Var and Let in for loop with setTimeout - Event loop and block scoping](https://dev.to/saver711/var-and-let-in-for-loop-with-settimeout-event-loop-and-block-scoping-1l72)
+- [Lifehacker] [You Can Disable Google Sign-in Pop-ups on All Websites](https://lifehacker.com/you-can-disable-google-sign-in-pop-ups-on-all-websites-1849913714)
+- [Dev.to/JS] [Using TypeORM with PostgreSQL in a Node.js and Express Application](https://dev.to/ayka_code/using-typeorm-with-postgresql-in-a-nodejs-and-express-application-4gma)
 - [Lifehacker] [Ask These Money Questions to See If You’re Financially Compatible](https://lifehacker.com/ask-these-money-questions-to-see-if-you-re-financially-1849912470)
 - [Dev.to/JS] [Function Rest Parameters in JavaScript](https://dev.to/moazamdev/function-rest-parameters-in-javascript-2f1)
 - [Lifehacker] [13 Christmas Movies You Definitely Shouldn&#39;t Watch With Your Family](https://lifehacker.com/13-christmas-movies-you-definitely-shouldnt-watch-with-1849909685)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add auto-save to your website with javascript](https://dev.to/mohsenkamrani/add-auto-save-to-your-website-with-javascript-559f)
 - [Dev.to/JS] [On Page SEO Checker](https://dev.to/hostinginfoh/on-page-seo-checker-300b)
 - [Dev.to/JS] [Free Bulk URL Checker for Your Website](https://dev.to/hostinginfoh/free-bulk-url-checker-for-your-website-3odi)
-- [Dev.to/JS] [How to create a video streaming app using React and Vime](https://dev.to/gbadeboife/how-to-create-a-video-streaming-app-using-react-and-vime-4fb3)
-- [Dev.to/JS] [export default](https://dev.to/behrangsa/export-default-21fj)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Sit Your Kids In Front of This Free Santa Tracker](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
 - [Lifehacker] [Everyone Should Know These Unexpected Ways to Use Peanut Butter](https://lifehacker.com/everyone-should-know-these-unexpected-ways-to-use-peanu-1849899595)
 - [Lifehacker] [Stop Putting Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
-- [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)
-- [Lifehacker] [You Should Get In on Keurig&#39;s $10 Million K-Cup Settlement](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [C++ new vs malloc with Example](https://www.thecrazyprogrammer.com/2022/12/new-vs-malloc.html)<!-- TECH-POSTS:END -->
 
 ---
 
