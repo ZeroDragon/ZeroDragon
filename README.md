@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React&#39;s new killer documentation focused only on functional components](https://dev.to/diogorodrigues/reacts-new-killer-documentation-focused-only-on-functional-components-jnk)
+- [Dev.to/JS] [How to build Neumorphism calculator using javascript, html, and css](https://dev.to/yemiklein/how-to-build-neumorphism-calculator-using-javascript-html-and-css-ikk)
+- [Dev.to/JS] [A dive into Interfaces vs. Type Aliases in TypeScript](https://dev.to/murillonahvs/a-dive-into-type-aliases-vs-interfaces-in-typescript-4f44)
 - [Dev.to/JS] [Javascript Callback Hell and how to avoid it](https://dev.to/yemiklein/javascript-callback-hell-and-how-to-avoid-it-12nk)
 - [Dev.to/JS] [Immutability is overrated](https://dev.to/xania/immutability-is-overrated-3k9o)
 - [Dev.to/JS] [2.47 - Build Healthy OSS Communities with OpenSauced](https://dev.to/codingcatdev/247-build-healthy-oss-communities-with-opensauced-5eh4)
@@ -31,14 +34,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Async/Await: A Beginner&#39;s Guide](https://dev.to/nathannosudo/javascript-asyncawait-a-beginners-guide-232l)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
 - [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
-- [Dev.to/JS] [Typescript WTF Moments 9: Empty Array never? annotated any[]? never[]?](https://dev.to/tylim88/typescript-wtf-moments-9-empty-array-any-never-bfn)
+- [Dev.to/JS] [Typescript WTF Moment 9: Inferred Empty Array any[] Is Not any[]](https://dev.to/tylim88/typescript-wtf-moments-9-empty-array-any-never-bfn)
 - [Dev.to/JS] [How to Use ChatGPT as an Educational Chatbot in a Next.js Frontend](https://dev.to/wundergraph/how-to-use-chatgpt-as-an-educational-chatbot-in-a-nextjs-frontend-1m0e)
 - [Dev.to/JS] [I’ve switched from nvm to Volta - Why?](https://dev.to/pierre/switch-from-nvm-to-volta-384a)
-- [Dev.to/JS] [Exploring the Power of Typescript Decorators: Real-World Examples and Best Practices](https://dev.to/ayka_code/exploring-the-power-of-typescript-decorators-real-world-examples-and-best-practices-2b72)
 - [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
-- [Dev.to/JS] [How to use effects &amp; transition with Tailwindcss](https://dev.to/guillaumeduhan/how-to-use-effects-transition-with-tailwindcss-142n)
 - [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)
-- [Dev.to/JS] [LEARN - Authentication App with Next.Js &amp; Microsoft Graph](https://dev.to/azure/learn-authentication-app-with-nextjs-microsoft-graph-4i0p)
 - [Lifehacker] [14 of the Best Wordle Variants of 2022](https://lifehacker.com/14-of-the-best-wordle-variants-of-2022-1849915931)
 - [Lifehacker] [Plan Your 2023 Travel Around These Long Weekends](https://lifehacker.com/plan-your-2023-travel-around-these-long-weekends-1849915406)
 - [Lifehacker] [5 Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
