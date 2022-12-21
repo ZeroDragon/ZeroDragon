@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Seven Ways to Speed Up Your Old Android](https://lifehacker.com/seven-ways-to-speed-up-your-old-android-1849918015)
+- [Dev.to/JS] [My attempt at programming a design to code translator in Figma](https://dev.to/tdesero/my-attempt-at-programming-a-design-to-code-translator-in-figma-4hdp)
+- [Lifehacker] [What&#39;s New on HBO Max in January 2023](https://lifehacker.com/whats-new-on-hbo-max-in-january-2023-1849917362)
 - [Dev.to/JS] [The importance of React-query and why you should use it](https://dev.to/arafat4693/the-importance-of-react-query-and-why-you-should-use-it-1n1o)
 - [Lifehacker] [The Easiest Ways to Clean Wax From Your Menorah](https://lifehacker.com/the-easiest-ways-to-clean-wax-from-your-menorah-1849916801)
 - [Dev.to/JS] [Compilation vs. Transpilation](https://dev.to/tupe12334/compilation-vs-transpilation-4917)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating file upload feature to a nodejs project](https://dev.to/kumarkalyan/integrating-file-upload-feature-to-a-nodejs-project-o83)
 - [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
 - [Dev.to/JS] [Important Node.js Modules You Should Know](https://dev.to/mariamadeyemi/important-nodejs-modules-you-should-know-2knm)
-- [Dev.to/JS] [The Qase for Qwik: Love At First TTI](https://dev.to/builderio/the-qase-for-qwik-love-at-first-tti-3ef6)
 - [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)
 - [Lifehacker] [You Can Visit a National Park for Free on These Days in 2023](https://lifehacker.com/you-can-visit-a-national-park-for-free-on-these-days-in-1849916124)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [5 Fundamental Concepts of Object Oriented Programming](https://www.thecrazyprogrammer.com/2022/12/concepts-of-object-oriented-programming.html)
 - [Lifehacker] [Do This to Make Your Lemon Zest Zestier](https://lifehacker.com/do-this-to-make-your-lemon-zest-zestier-1849911296)
 - [Lifehacker] [The Best iOS 16.1 Features You Might&#39;ve Missed](https://lifehacker.com/the-best-ios-16-1-features-you-mightve-missed-1849910887)
-- [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
-- [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
-- [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)<!-- TECH-POSTS:END -->
+- [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)<!-- TECH-POSTS:END -->
 
 ---
 
