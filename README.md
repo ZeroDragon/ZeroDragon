@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
+- [Dev.to/JS] [The Dreaded Phase 1 Assessment](https://dev.to/marthaeochoa/the-dreaded-phase-1-assessment-34pa)
+- [Dev.to/JS] [Add One Day to Date in JavaScript](https://dev.to/gaelgthomas/add-one-day-to-date-in-javascript-45n2)
+- [Dev.to/JS] [Promises and Asynchronous Javascript - Part 1](https://dev.to/mayankkashyap681/promises-and-asynchronous-javascript-part-1-151)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Dev.to/JS] [Useful VS Code Extensions](https://dev.to/ksowah/useful-vs-code-extensions-336b)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
@@ -42,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Clean Wax From Your Menorah](https://lifehacker.com/the-easiest-ways-to-clean-wax-from-your-menorah-1849916801)
 - [Dev.to/JS] [Compilation vs. Transpilation](https://dev.to/tupe12334/compilation-vs-transpilation-4917)
 - [Dev.to/JS] [Different Types Of Console Methods You Must Know](https://dev.to/shivamblog/different-types-of-console-methods-you-must-know-53mm)
-- [Dev.to/JS] [Cómo evitar bucles anidados en JavaScript](https://dev.to/asjordi/como-evitar-bucles-anidados-en-javascript-50b7)
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
-- [Dev.to/JS] [Advanced js: iterable objects &lpar;@@iterator&rpar;](https://dev.to/manuartero/advanced-js-iterable-objects-iterator-fj4)
-- [Dev.to/JS] [Why You Should Ignore the Naysayers and Keep Learning](https://dev.to/as00r/why-you-should-ignore-the-naysayers-and-keep-learning-54bb)
 - [Lifehacker] [What&#39;s New on Paramount+ in January 2023](https://lifehacker.com/whats-new-on-paramount-in-january-2023-1849917039)
 - [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
 - [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fight the Winter Doldrums With These Fruity Pickles](https://lifehacker.com/fight-the-winter-doldrums-with-these-fruity-pickles-1849913637)
 - [Lifehacker] [How to Always Find Free Wifi](https://lifehacker.com/how-to-always-find-free-wifi-1849914769)
 - [Lifehacker] [Cannoli Crackers Deserve a Place on Your Cheese Board](https://lifehacker.com/cannoli-crackers-deserve-a-place-on-your-cheese-board-1849914856)
-- [Lifehacker] [This Is the Best Free Scanning App on iPhone](https://lifehacker.com/this-is-the-best-free-scanning-app-on-iphone-1849913793)
-- [Lifehacker] [You Can Disable Google Sign-in Pop-ups on All Websites](https://lifehacker.com/you-can-disable-google-sign-in-pop-ups-on-all-websites-1849913714)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Best Free Scanning App on iPhone](https://lifehacker.com/this-is-the-best-free-scanning-app-on-iphone-1849913793)<!-- TECH-POSTS:END -->
 
 ---
 
