@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Bet You&#39;ve Been Doing Async/Await Wrong](https://dev.to/webjose/i-bet-youve-been-doing-asyncawait-wrong-1jdf)
+- [Dev.to/JS] [How to simulate neural network with JavaScript and WebGL &lpar;attached source code&rpar;](https://dev.to/hightopo/how-to-simulate-neural-network-with-javascript-and-webgl-attached-source-code-2ikb)
+- [Dev.to/JS] [Resources ! Resources !! Resources !!!](https://dev.to/avinashvagh/resources-resources-resources--3e7f)
+- [Dev.to/JS] [5 lý hạt điều quà Tết luôn được yêu thích và lựa chọn](https://dev.to/hopquatetsagogifts/5-ly-hat-dieu-qua-tet-luon-duoc-yeu-thich-va-lua-chon-1k44)
 - [Dev.to/JS] [React&#39;s new killer documentation focused only on functional components](https://dev.to/diogorodrigues/reacts-new-killer-documentation-focused-only-on-functional-components-jnk)
 - [Dev.to/JS] [How to build Neumorphism calculator using javascript, html, and css](https://dev.to/yemiklein/how-to-build-neumorphism-calculator-using-javascript-html-and-css-ikk)
 - [Dev.to/JS] [A dive into Interfaces vs. Type Aliases in TypeScript](https://dev.to/murillonahvs/a-dive-into-type-aliases-vs-interfaces-in-typescript-4f44)
@@ -31,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2.47 - Build Healthy OSS Communities with OpenSauced](https://dev.to/codingcatdev/247-build-healthy-oss-communities-with-opensauced-5eh4)
 - [Dev.to/JS] [✂Destructuring em JavaScript e React⚛](https://dev.to/mpetry/destructuring-em-javascript-e-react-5ch5)
 - [Dev.to/JS] [LET’S EXPLORE THE IMPROVED ROUTING, LAYOUTS &amp; RENDERING IN NEXTJS 13](https://dev.to/mushfiqweb/lets-explore-the-improved-routing-layouts-rendering-in-nextjs-13-3jkl)
-- [Dev.to/JS] [JavaScript Async/Await: A Beginner&#39;s Guide](https://dev.to/nathannosudo/javascript-asyncawait-a-beginners-guide-232l)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
 - [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
-- [Dev.to/JS] [Typescript WTF Moment 9: Inferred Empty Array any[] Is Not any[]](https://dev.to/tylim88/typescript-wtf-moments-9-empty-array-any-never-bfn)
-- [Dev.to/JS] [How to Use ChatGPT as an Educational Chatbot in a Next.js Frontend](https://dev.to/wundergraph/how-to-use-chatgpt-as-an-educational-chatbot-in-a-nextjs-frontend-1m0e)
-- [Dev.to/JS] [I’ve switched from nvm to Volta - Why?](https://dev.to/pierre/switch-from-nvm-to-volta-384a)
 - [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
 - [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)
 - [Lifehacker] [14 of the Best Wordle Variants of 2022](https://lifehacker.com/14-of-the-best-wordle-variants-of-2022-1849915931)
