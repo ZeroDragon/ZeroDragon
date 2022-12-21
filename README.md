@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Front end design think simple not complexity](https://dev.to/shawonkst15/front-end-design-think-simple-not-complexity-4onl)
+- [Dev.to/JS] [Yet Another Newsletter LOL: Just in time](https://dev.to/nickytonline/yet-another-newsletter-lol-just-in-time-3675)
+- [Dev.to/JS] [A question of FizzBuzz](https://dev.to/megdiv/fizzbuzz-1c8h)
 - [Dev.to/JS] [I Bet You&#39;ve Been Doing Async/Await Wrong](https://dev.to/webjose/i-bet-youve-been-doing-asyncawait-wrong-1jdf)
 - [Dev.to/JS] [How to simulate neural network with JavaScript and WebGL &lpar;attached source code&rpar;](https://dev.to/hightopo/how-to-simulate-neural-network-with-javascript-and-webgl-attached-source-code-2ikb)
 - [Dev.to/JS] [Resources ! Resources !! Resources !!!](https://dev.to/avinashvagh/resources-resources-resources--3e7f)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A dive into Interfaces vs. Type Aliases in TypeScript](https://dev.to/murillonahvs/a-dive-into-type-aliases-vs-interfaces-in-typescript-4f44)
 - [Dev.to/JS] [Javascript Callback Hell and how to avoid it](https://dev.to/yemiklein/javascript-callback-hell-and-how-to-avoid-it-12nk)
 - [Dev.to/JS] [Immutability is overrated](https://dev.to/xania/immutability-is-overrated-3k9o)
-- [Dev.to/JS] [2.47 - Build Healthy OSS Communities with OpenSauced](https://dev.to/codingcatdev/247-build-healthy-oss-communities-with-opensauced-5eh4)
-- [Dev.to/JS] [✂Destructuring em JavaScript e React⚛](https://dev.to/mpetry/destructuring-em-javascript-e-react-5ch5)
-- [Dev.to/JS] [LET’S EXPLORE THE IMPROVED ROUTING, LAYOUTS &amp; RENDERING IN NEXTJS 13](https://dev.to/mushfiqweb/lets-explore-the-improved-routing-layouts-rendering-in-nextjs-13-3jkl)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
 - [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
 - [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
