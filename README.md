@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The importance of React-query and why you should use it](https://dev.to/arafat4693/the-importance-of-react-query-and-why-you-should-use-it-1n1o)
+- [Lifehacker] [The Easiest Ways to Clean Wax From Your Menorah](https://lifehacker.com/the-easiest-ways-to-clean-wax-from-your-menorah-1849916801)
+- [Dev.to/JS] [Compilation vs. Transpilation](https://dev.to/tupe12334/compilation-vs-transpilation-4917)
+- [Dev.to/JS] [Different Types Of Console Methods You Must Know](https://dev.to/shivamblog/different-types-of-console-methods-you-must-know-53mm)
+- [Dev.to/JS] [Cómo evitar bucles anidados en JavaScript](https://dev.to/asjordi/como-evitar-bucles-anidados-en-javascript-50b7)
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
-- [Dev.to/JS] [advanced js: iterable objects &lpar;@@iterator&rpar;](https://dev.to/manuartero/advanced-js-iterable-objects-iterator-fj4)
+- [Dev.to/JS] [Advanced js: iterable objects &lpar;@@iterator&rpar;](https://dev.to/manuartero/advanced-js-iterable-objects-iterator-fj4)
 - [Dev.to/JS] [Why You Should Ignore the Naysayers and Keep Learning](https://dev.to/as00r/why-you-should-ignore-the-naysayers-and-keep-learning-54bb)
 - [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-1pbk)
 - [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-2dng)
@@ -34,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
 - [Dev.to/JS] [Important Node.js Modules You Should Know](https://dev.to/mariamadeyemi/important-nodejs-modules-you-should-know-2knm)
 - [Dev.to/JS] [The Qase for Qwik: Love At First TTI](https://dev.to/builderio/the-qase-for-qwik-love-at-first-tti-3ef6)
-- [Dev.to/JS] [Cypress automation login with csrftoken](https://dev.to/ranafge/cypress-automatin-login-with-csrftoken-h21)
 - [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)
-- [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 01 - useState⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-01-usestate-2c6n)
-- [Dev.to/JS] [Find the Town Judge](https://dev.to/zeeshanali0704/find-the-town-judge-3791)
-- [Dev.to/JS] [React Hooks personalizados: por que precisamos de um contexto](https://dev.to/trinitypath/react-hooks-personalizados-por-que-precisamos-de-um-contexto-4hii)
 - [Lifehacker] [You Can Visit a National Park for Free on These Days in 2023](https://lifehacker.com/you-can-visit-a-national-park-for-free-on-these-days-in-1849916124)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
 - [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best iOS 16.1 Features You Might&#39;ve Missed](https://lifehacker.com/the-best-ios-16-1-features-you-mightve-missed-1849910887)
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
-- [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
-- [Lifehacker] [Your Spin Bike Needs Pedal Adapters](https://lifehacker.com/your-spin-bike-needs-pedal-adapters-1849911520)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)<!-- TECH-POSTS:END -->
 
 ---
 
