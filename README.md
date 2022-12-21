@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)
+- [Lifehacker] [You&#39;re Flipping Your Pancakes Too Hard](https://lifehacker.com/youre-flipping-your-pancakes-too-hard-1849919013)
 - [Lifehacker] [8 Myths About Christmas That Some People Really Believe](https://lifehacker.com/8-myths-about-christmas-that-some-people-really-believe-1849916899)
 - [Dev.to/JS] [Using Notion as a Content Management System &lpar;CMS&rpar; for your applications](https://dev.to/kelebeklabs/using-notion-as-a-content-management-system-cms-for-your-applications-4ald)
 - [Dev.to/JS] [Building an accessible theme picker with HTML, CSS and JavaScript.](https://dev.to/fossheim/building-an-accessible-theme-picker-with-html-css-and-javascript-p5d)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Free Scanning App on iPhone](https://lifehacker.com/this-is-the-best-free-scanning-app-on-iphone-1849913793)
 - [Lifehacker] [You Can Disable Google Sign-in Pop-ups on All Websites](https://lifehacker.com/you-can-disable-google-sign-in-pop-ups-on-all-websites-1849913714)
 - [Lifehacker] [Ask These Money Questions to See If You’re Financially Compatible](https://lifehacker.com/ask-these-money-questions-to-see-if-you-re-financially-1849912470)
-- [Lifehacker] [13 Christmas Movies You Definitely Shouldn&#39;t Watch With Your Family](https://lifehacker.com/13-christmas-movies-you-definitely-shouldnt-watch-with-1849909685)
-- [Lifehacker] [10 of the Biggest Video Game Adaptations Coming in 2023](https://lifehacker.com/10-of-the-biggest-video-game-adaptations-coming-in-2023-1849913317)
-- [Crazy Programmer] [5 Fundamental Concepts of Object Oriented Programming](https://www.thecrazyprogrammer.com/2022/12/concepts-of-object-oriented-programming.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 Christmas Movies You Definitely Shouldn&#39;t Watch With Your Family](https://lifehacker.com/13-christmas-movies-you-definitely-shouldnt-watch-with-1849909685)<!-- TECH-POSTS:END -->
 
 ---
 
