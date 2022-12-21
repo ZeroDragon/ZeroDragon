@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
+- [Dev.to/JS] [Useful VS Code Extensions](https://dev.to/ksowah/useful-vs-code-extensions-336b)
+- [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
+- [Dev.to/JS] [What is an API](https://dev.to/farhanacsebd/what-is-an-api-318c)
 - [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)
 - [Lifehacker] [You&#39;re Flipping Your Pancakes Too Hard](https://lifehacker.com/youre-flipping-your-pancakes-too-hard-1849919013)
 - [Lifehacker] [8 Myths About Christmas That Some People Really Believe](https://lifehacker.com/8-myths-about-christmas-that-some-people-really-believe-1849916899)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced js: iterable objects &lpar;@@iterator&rpar;](https://dev.to/manuartero/advanced-js-iterable-objects-iterator-fj4)
 - [Dev.to/JS] [Why You Should Ignore the Naysayers and Keep Learning](https://dev.to/as00r/why-you-should-ignore-the-naysayers-and-keep-learning-54bb)
 - [Lifehacker] [What&#39;s New on Paramount+ in January 2023](https://lifehacker.com/whats-new-on-paramount-in-january-2023-1849917039)
-- [Dev.to/JS] [JavaScript data structures: Object and Map deep dive.](https://dev.to/sfundomhlungu/javascript-data-structures-object-and-map-deep-dive-mm8)
-- [Dev.to/JS] [Integrating file upload feature to a nodejs project](https://dev.to/kumarkalyan/integrating-file-upload-feature-to-a-nodejs-project-o83)
 - [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
 - [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)
 - [Lifehacker] [You Can Visit a National Park for Free on These Days in 2023](https://lifehacker.com/you-can-visit-a-national-park-for-free-on-these-days-in-1849916124)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Always Find Free Wifi](https://lifehacker.com/how-to-always-find-free-wifi-1849914769)
 - [Lifehacker] [Cannoli Crackers Deserve a Place on Your Cheese Board](https://lifehacker.com/cannoli-crackers-deserve-a-place-on-your-cheese-board-1849914856)
 - [Lifehacker] [This Is the Best Free Scanning App on iPhone](https://lifehacker.com/this-is-the-best-free-scanning-app-on-iphone-1849913793)
-- [Lifehacker] [You Can Disable Google Sign-in Pop-ups on All Websites](https://lifehacker.com/you-can-disable-google-sign-in-pop-ups-on-all-websites-1849913714)
-- [Lifehacker] [Ask These Money Questions to See If You’re Financially Compatible](https://lifehacker.com/ask-these-money-questions-to-see-if-you-re-financially-1849912470)
-- [Lifehacker] [13 Christmas Movies You Definitely Shouldn&#39;t Watch With Your Family](https://lifehacker.com/13-christmas-movies-you-definitely-shouldnt-watch-with-1849909685)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Disable Google Sign-in Pop-ups on All Websites](https://lifehacker.com/you-can-disable-google-sign-in-pop-ups-on-all-websites-1849913714)<!-- TECH-POSTS:END -->
 
 ---
 
