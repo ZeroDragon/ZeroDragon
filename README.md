@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
+- [Dev.to/JS] [Important Node.js Modules You Should Know](https://dev.to/mariamadeyemi/important-nodejs-modules-you-should-know-2knm)
+- [Dev.to/JS] [The Qase for Qwik: Love At First TTI](https://dev.to/builderio/the-qase-for-qwik-love-at-first-tti-3ef6)
+- [Dev.to/JS] [Cypress automation login with csrftoken](https://dev.to/ranafge/cypress-automatin-login-with-csrftoken-h21)
+- [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)
+- [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 01 - useState⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-01-usestate-2c6n)
+- [Dev.to/JS] [Find the Town Judge](https://dev.to/zeeshanali0704/find-the-town-judge-3791)
+- [Dev.to/JS] [React Hooks personalizados: por que precisamos de um contexto](https://dev.to/trinitypath/react-hooks-personalizados-por-que-precisamos-de-um-contexto-4hii)
 - [Lifehacker] [You Can Visit a National Park for Free on These Days in 2023](https://lifehacker.com/you-can-visit-a-national-park-for-free-on-these-days-in-1849916124)
 - [Dev.to/JS] [How to Make Your Own Personal Website Using HTML CSS and JS](https://dev.to/codewithsadee/how-to-make-your-own-personal-website-using-html-css-and-js-4pp)
 - [Dev.to/JS] [How to make a 3D slider effect with HTML CSS &amp; JavaScript from Scratch](https://dev.to/hojjatbandani/how-to-make-a-3d-slider-effect-with-html-css-javascript-from-scratch-3m9f)
@@ -30,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [list of coordinates to an image](https://dev.to/suharyadi2112/list-of-coordinates-to-an-image-oc7)
 - [Dev.to/JS] [Typescript: Type guards with zod](https://dev.to/sachitsac/typescript-type-guards-with-zod-1m12)
 - [Dev.to/JS] [Using Truffle L2 Boxes to Bridge Blockchain Networks](https://dev.to/johnjvester/using-truffle-l2-boxes-to-bridge-blockchain-networks-3fac)
-- [Dev.to/JS] [Javascript ORMs If You Know Nothing Like Me](https://dev.to/jakinyang/javascript-orms-if-you-know-nothing-like-me-g0j)
-- [Dev.to/JS] [JSON API&#39;s and JSON data: introduction](https://dev.to/sfundomhlungu/json-apis-and-json-data-introduction-5eb1)
-- [Dev.to/JS] [JavaScript Array methods](https://dev.to/mitchiemt11/javascript-array-methods-17i)
-- [Dev.to/JS] [Build an Intercom clone in Nuxt.js using Appwrite - Part One](https://dev.to/hackmamba/build-an-intercom-clone-in-nuxtjs-using-appwrite-part-one-20og)
-- [Dev.to/JS] [📱Control your AWS Apps with a simple message.](https://dev.to/aws-builders/control-your-aws-apps-with-a-simple-message-1595)
-- [Dev.to/JS] [Why use Tableau Finance Dashboard?](https://dev.to/kanishedureka/why-use-tableau-finance-dashboard-4h4n)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
 - [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
 - [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
 - [Lifehacker] [Your Spin Bike Needs Pedal Adapters](https://lifehacker.com/your-spin-bike-needs-pedal-adapters-1849911520)
 - [Lifehacker] [12 Unexpected Ways to Use Bubble Wrap Around the House](https://lifehacker.com/12-unexpected-ways-to-use-bubble-wrap-around-the-house-1849911360)
-- [Lifehacker] [Don&#39;t Remove a Stolen iPhone From Your Apple ID &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-remove-a-stolen-iphone-from-your-apple-id-do-this-1849910519)
-- [Lifehacker] [Use This Site to Get Your Instagram Back After Getting Locked Out](https://lifehacker.com/use-this-site-to-get-your-instagram-back-after-getting-1849910487)
-- [Lifehacker] [Here’s Your Year-End Financial Checklist](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Remove a Stolen iPhone From Your Apple ID &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-remove-a-stolen-iphone-from-your-apple-id-do-this-1849910519)<!-- TECH-POSTS:END -->
 
 ---
 
