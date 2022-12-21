@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Playwright Python Tutorial: Getting Started With Python End To End Testing](https://dev.to/lambdatest/playwright-python-tutorial-getting-started-with-python-end-to-end-testing-27bk)
+- [Dev.to/JS] [Como Usar o Spread Operator &lpar;…&rpar; em React ⚛](https://dev.to/mpetry/como-usar-o-spread-operator-em-react-22jb)
+- [Dev.to/JS] [Understanding the Role of Arrow Functions in JavaScript](https://dev.to/erhaneth/what-are-fat-arrow-functions-354p)
+- [Dev.to/JS] [Don&#39;t use useEffect in forms](https://dev.to/paulorievrs/dont-use-useeffect-in-forms-2l5f)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Dev.to/JS] [The Dreaded Phase 1 Assessment](https://dev.to/marthaeochoa/the-dreaded-phase-1-assessment-34pa)
 - [Dev.to/JS] [Add One Day to Date in JavaScript](https://dev.to/gaelgthomas/add-one-day-to-date-in-javascript-45n2)
@@ -40,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in January 2023](https://lifehacker.com/whats-new-on-netflix-in-january-2023-1849919201)
 - [Lifehacker] [16 of the Best Memes From 2022 That You&#39;ve Already Forgotten](https://lifehacker.com/16-of-the-best-memes-from-2022-that-youve-already-forgo-1849917713)
 - [Lifehacker] [Seven Ways to Speed Up Your Old Android](https://lifehacker.com/seven-ways-to-speed-up-your-old-android-1849918015)
-- [Dev.to/JS] [My attempt at programming a design to code translator in Figma](https://dev.to/tdesero/my-attempt-at-programming-a-design-to-code-translator-in-figma-4hdp)
 - [Lifehacker] [What&#39;s New on HBO Max in January 2023](https://lifehacker.com/whats-new-on-hbo-max-in-january-2023-1849917362)
-- [Dev.to/JS] [The importance of React-query and why you should use it](https://dev.to/arafat4693/the-importance-of-react-query-and-why-you-should-use-it-1n1o)
 - [Lifehacker] [The Easiest Ways to Clean Wax From Your Menorah](https://lifehacker.com/the-easiest-ways-to-clean-wax-from-your-menorah-1849916801)
-- [Dev.to/JS] [Compilation vs. Transpilation](https://dev.to/tupe12334/compilation-vs-transpilation-4917)
-- [Dev.to/JS] [Different Types Of Console Methods You Must Know](https://dev.to/shivamblog/different-types-of-console-methods-you-must-know-53mm)
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
 - [Lifehacker] [What&#39;s New on Paramount+ in January 2023](https://lifehacker.com/whats-new-on-paramount-in-january-2023-1849917039)
 - [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
