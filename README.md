@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Starting with React Native UI Design](https://dev.to/silentashish/starting-with-react-native-ui-design-3nh1)
+- [Dev.to/JS] [Weekly web development resources #129](https://dev.to/vincenius/weekly-web-development-resources-129-206e)
 - [Dev.to/JS] [My Journey in Open Source - react-hooks](https://dev.to/cadienvan/my-journey-in-open-source-react-hooks-133)
 - [Dev.to/JS] [Follow 7 Step and Dockerize your ReactJS Project](https://dev.to/imkrunalkanojiya/follow-7-step-and-dockerize-your-reactjs-project-4j7b)
 - [Dev.to/JS] [Is it possible to sell barcodes labels via shopify](https://dev.to/munirah01032011/is-it-possible-to-sell-barcodes-labels-via-shopify-30pe)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vendure community and more](https://dev.to/dailydevtips1/vendure-community-and-more-49ei)
 - [Dev.to/JS] [ChatGPT Everywhere 🤖✨](https://dev.to/vaibhavacharya/chatgpt-everywhere-aje)
 - [Dev.to/JS] [Alpha Heater - Benefits, Uses, Price, Results, Does It Work?](https://dev.to/alphaheater2/alpha-heater-benefits-uses-price-results-does-it-work-3n68)
-- [Dev.to/JS] [git switch and git checkout – How to switch branches in git](https://dev.to/refine/git-switch-and-git-checkout-how-to-switch-branches-in-git-29nj)
-- [Dev.to/JS] [How to Create Modal Popup In React](https://dev.to/nyomansunima/how-to-create-modal-popup-in-react-3mk)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
 - [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
 - [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
