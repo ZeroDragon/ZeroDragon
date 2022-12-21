@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
+- [Dev.to/JS] [advanced js: iterable objects &lpar;@@iterator&rpar;](https://dev.to/manuartero/advanced-js-iterable-objects-iterator-fj4)
+- [Dev.to/JS] [Why You Should Ignore the Naysayers and Keep Learning](https://dev.to/as00r/why-you-should-ignore-the-naysayers-and-keep-learning-54bb)
+- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-1pbk)
+- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-2dng)
+- [Lifehacker] [What&#39;s New on Paramount+ in January 2023](https://lifehacker.com/whats-new-on-paramount-in-january-2023-1849917039)
+- [Dev.to/JS] [JavaScript data structures: Object and Map deep dive.](https://dev.to/sfundomhlungu/javascript-data-structures-object-and-map-deep-dive-mm8)
+- [Dev.to/JS] [Integrating file upload feature to a nodejs project](https://dev.to/kumarkalyan/integrating-file-upload-feature-to-a-nodejs-project-o83)
 - [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
 - [Dev.to/JS] [Important Node.js Modules You Should Know](https://dev.to/mariamadeyemi/important-nodejs-modules-you-should-know-2knm)
 - [Dev.to/JS] [The Qase for Qwik: Love At First TTI](https://dev.to/builderio/the-qase-for-qwik-love-at-first-tti-3ef6)
@@ -32,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Find the Town Judge](https://dev.to/zeeshanali0704/find-the-town-judge-3791)
 - [Dev.to/JS] [React Hooks personalizados: por que precisamos de um contexto](https://dev.to/trinitypath/react-hooks-personalizados-por-que-precisamos-de-um-contexto-4hii)
 - [Lifehacker] [You Can Visit a National Park for Free on These Days in 2023](https://lifehacker.com/you-can-visit-a-national-park-for-free-on-these-days-in-1849916124)
-- [Dev.to/JS] [How to Make Your Own Personal Website Using HTML CSS and JS](https://dev.to/codewithsadee/how-to-make-your-own-personal-website-using-html-css-and-js-4pp)
-- [Dev.to/JS] [How to make a 3D slider effect with HTML CSS &amp; JavaScript from Scratch](https://dev.to/hojjatbandani/how-to-make-a-3d-slider-effect-with-html-css-javascript-from-scratch-3m9f)
-- [Dev.to/JS] [Deployment of NPM Repositories with Artipie](https://dev.to/andpopov/deployment-of-npm-repositories-with-artipie-30co)
-- [Dev.to/JS] [list of coordinates to an image](https://dev.to/suharyadi2112/list-of-coordinates-to-an-image-oc7)
-- [Dev.to/JS] [Typescript: Type guards with zod](https://dev.to/sachitsac/typescript-type-guards-with-zod-1m12)
-- [Dev.to/JS] [Using Truffle L2 Boxes to Bridge Blockchain Networks](https://dev.to/johnjvester/using-truffle-l2-boxes-to-bridge-blockchain-networks-3fac)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
 - [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
 - [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
 - [Lifehacker] [Five Cheesy Party Snacks You Can Make With Two Ingredients &lpar;or Fewer&rpar;](https://lifehacker.com/five-cheesy-party-snacks-you-can-make-with-two-ingredie-1849910916)
 - [Lifehacker] [Your Windows PC Has Hidden Themes](https://lifehacker.com/your-windows-pc-has-hidden-themes-1849911491)
-- [Lifehacker] [Your Spin Bike Needs Pedal Adapters](https://lifehacker.com/your-spin-bike-needs-pedal-adapters-1849911520)
-- [Lifehacker] [12 Unexpected Ways to Use Bubble Wrap Around the House](https://lifehacker.com/12-unexpected-ways-to-use-bubble-wrap-around-the-house-1849911360)
-- [Lifehacker] [Don&#39;t Remove a Stolen iPhone From Your Apple ID &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-remove-a-stolen-iphone-from-your-apple-id-do-this-1849910519)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Spin Bike Needs Pedal Adapters](https://lifehacker.com/your-spin-bike-needs-pedal-adapters-1849911520)<!-- TECH-POSTS:END -->
 
 ---
 
