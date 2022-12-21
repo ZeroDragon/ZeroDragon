@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 Myths About Christmas That Some People Really Believe](https://lifehacker.com/8-myths-about-christmas-that-some-people-really-believe-1849916899)
+- [Dev.to/JS] [Using Notion as a Content Management System &lpar;CMS&rpar; for your applications](https://dev.to/kelebeklabs/using-notion-as-a-content-management-system-cms-for-your-applications-4ald)
+- [Dev.to/JS] [Building an accessible theme picker with HTML, CSS and JavaScript.](https://dev.to/fossheim/building-an-accessible-theme-picker-with-html-css-and-javascript-p5d)
+- [Dev.to/JS] [JavaScript Fundamentals: For Loop and Modulus Operator](https://dev.to/astrodevil/javascript-fundamentals-for-loop-and-modulus-operator-375e)
+- [Lifehacker] [What&#39;s New on Netflix in January 2023](https://lifehacker.com/whats-new-on-netflix-in-january-2023-1849919201)
+- [Lifehacker] [16 of the Best Memes From 2022 That You&#39;ve Already Forgotten](https://lifehacker.com/16-of-the-best-memes-from-2022-that-youve-already-forgo-1849917713)
 - [Lifehacker] [Seven Ways to Speed Up Your Old Android](https://lifehacker.com/seven-ways-to-speed-up-your-old-android-1849918015)
 - [Dev.to/JS] [My attempt at programming a design to code translator in Figma](https://dev.to/tdesero/my-attempt-at-programming-a-design-to-code-translator-in-figma-4hdp)
 - [Lifehacker] [What&#39;s New on HBO Max in January 2023](https://lifehacker.com/whats-new-on-hbo-max-in-january-2023-1849917362)
@@ -34,13 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
 - [Dev.to/JS] [Advanced js: iterable objects &lpar;@@iterator&rpar;](https://dev.to/manuartero/advanced-js-iterable-objects-iterator-fj4)
 - [Dev.to/JS] [Why You Should Ignore the Naysayers and Keep Learning](https://dev.to/as00r/why-you-should-ignore-the-naysayers-and-keep-learning-54bb)
-- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-1pbk)
-- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-2dng)
 - [Lifehacker] [What&#39;s New on Paramount+ in January 2023](https://lifehacker.com/whats-new-on-paramount-in-january-2023-1849917039)
 - [Dev.to/JS] [JavaScript data structures: Object and Map deep dive.](https://dev.to/sfundomhlungu/javascript-data-structures-object-and-map-deep-dive-mm8)
 - [Dev.to/JS] [Integrating file upload feature to a nodejs project](https://dev.to/kumarkalyan/integrating-file-upload-feature-to-a-nodejs-project-o83)
 - [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
-- [Dev.to/JS] [Important Node.js Modules You Should Know](https://dev.to/mariamadeyemi/important-nodejs-modules-you-should-know-2knm)
 - [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)
 - [Lifehacker] [You Can Visit a National Park for Free on These Days in 2023](https://lifehacker.com/you-can-visit-a-national-park-for-free-on-these-days-in-1849916124)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask These Money Questions to See If You’re Financially Compatible](https://lifehacker.com/ask-these-money-questions-to-see-if-you-re-financially-1849912470)
 - [Lifehacker] [13 Christmas Movies You Definitely Shouldn&#39;t Watch With Your Family](https://lifehacker.com/13-christmas-movies-you-definitely-shouldnt-watch-with-1849909685)
 - [Lifehacker] [10 of the Biggest Video Game Adaptations Coming in 2023](https://lifehacker.com/10-of-the-biggest-video-game-adaptations-coming-in-2023-1849913317)
-- [Crazy Programmer] [5 Fundamental Concepts of Object Oriented Programming](https://www.thecrazyprogrammer.com/2022/12/concepts-of-object-oriented-programming.html)
-- [Lifehacker] [Do This to Make Your Lemon Zest Zestier](https://lifehacker.com/do-this-to-make-your-lemon-zest-zestier-1849911296)
-- [Lifehacker] [The Best iOS 16.1 Features You Might&#39;ve Missed](https://lifehacker.com/the-best-ios-16-1-features-you-mightve-missed-1849910887)
-- [Lifehacker] [5 Headphones You Can Buy Right Now for Under $100](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [5 Fundamental Concepts of Object Oriented Programming](https://www.thecrazyprogrammer.com/2022/12/concepts-of-object-oriented-programming.html)<!-- TECH-POSTS:END -->
 
 ---
 
