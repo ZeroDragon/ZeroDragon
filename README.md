@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Callback Hell and how to avoid it](https://dev.to/yemiklein/javascript-callback-hell-and-how-to-avoid-it-12nk)
+- [Dev.to/JS] [Immutability is overrated](https://dev.to/xania/immutability-is-overrated-3k9o)
+- [Dev.to/JS] [2.47 - Build Healthy OSS Communities with OpenSauced](https://dev.to/codingcatdev/247-build-healthy-oss-communities-with-opensauced-5eh4)
+- [Dev.to/JS] [✂Destructuring em JavaScript e React⚛](https://dev.to/mpetry/destructuring-em-javascript-e-react-5ch5)
+- [Dev.to/JS] [LET’S EXPLORE THE IMPROVED ROUTING, LAYOUTS &amp; RENDERING IN NEXTJS 13](https://dev.to/mushfiqweb/lets-explore-the-improved-routing-layouts-rendering-in-nextjs-13-3jkl)
 - [Dev.to/JS] [JavaScript Async/Await: A Beginner&#39;s Guide](https://dev.to/nathannosudo/javascript-asyncawait-a-beginners-guide-232l)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
 - [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
@@ -35,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)
 - [Dev.to/JS] [LEARN - Authentication App with Next.Js &amp; Microsoft Graph](https://dev.to/azure/learn-authentication-app-with-nextjs-microsoft-graph-4i0p)
 - [Lifehacker] [14 of the Best Wordle Variants of 2022](https://lifehacker.com/14-of-the-best-wordle-variants-of-2022-1849915931)
-- [Dev.to/JS] [How To Use LocalStorage](https://dev.to/ksowah/how-to-use-localstorage-il0)
 - [Lifehacker] [Plan Your 2023 Travel Around These Long Weekends](https://lifehacker.com/plan-your-2023-travel-around-these-long-weekends-1849915406)
-- [Dev.to/JS] [JavaScriptmas 2022 - Issue 3](https://dev.to/michaellarocca/javascriptmas-2022-issue-3-3hl1)
-- [Dev.to/JS] [How To Add External Scripts in NextJS](https://dev.to/codablack23/how-to-add-external-scripts-in-nextjs-196b)
-- [Dev.to/JS] [Data Fetching from an API using React Query - useQuery Hook Explained in Plain English](https://dev.to/abeinevincent/data-fetching-from-an-api-using-react-query-usequery-hook-explained-in-plain-english-4eei)
 - [Lifehacker] [5 Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
-- [Dev.to/JS] [[Dashboard] Máscara de Campo](https://dev.to/jsobralgitpush/dashboard-mascara-de-campo-3ine)
 - [Lifehacker] [The Easiest Way to Actually Quit a Mac App](https://lifehacker.com/the-easiest-way-to-actually-quit-a-mac-app-1849913743)
 - [Lifehacker] [Fight the Winter Doldrums With These Fruity Pickles](https://lifehacker.com/fight-the-winter-doldrums-with-these-fruity-pickles-1849913637)
 - [Lifehacker] [How to Always Find Free Wifi](https://lifehacker.com/how-to-always-find-free-wifi-1849914769)
