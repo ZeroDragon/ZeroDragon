@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Taiga UI: Year of the Tiger](https://dev.to/angular/taiga-ui-year-of-the-tiger-9ih)
 - [Dev.to/JS] [How To Create a Magic Loading Animation Using Html &amp; CSS Step By Step](https://dev.to/hojjatbandani/how-to-create-a-magic-loading-animation-using-html-css-step-by-step-127c)
 - [Dev.to/JS] [React SEO: manage sitemaps](https://dev.to/mylifeforaiur/react-seo-manage-sitemaps-34o9)
 - [Dev.to/JS] [An Overview of the Popular Frontend Frameworks](https://dev.to/ariellun/an-overview-of-the-popular-frontend-frameworks-bm2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TIL - The easiest way to handle index overflow...](https://dev.to/jtoscani/til-the-easiest-way-to-handle-index-overflow-38np)
 - [Dev.to/JS] [Quà Tết cho bố mẹ vợ ấn tượng](https://dev.to/gioquatetsagogifts2023/qua-tet-cho-bo-me-vo-an-tuong-3a9l)
 - [Dev.to/JS] [The problem of singletons](https://dev.to/revoltez/the-problem-of-singletons-a5b)
-- [Dev.to/JS] [How to Create TO-DO list with Node and React simple steps.](https://dev.to/adarshagupta/how-to-create-to-do-list-with-node-and-react-simple-steps-1d9f)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
