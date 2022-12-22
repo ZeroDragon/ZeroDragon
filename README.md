@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)
+- [Dev.to/JS] [Nx 15.4 - Vite 4 Support, a new Nx Watch Command, and more!](https://dev.to/nx/nx-154-vite-4-support-a-new-nx-watch-command-and-more-548)
+- [Dev.to/JS] [Pyroclastic Flow](https://dev.to/rmion/pyroclastic-flow-3lc7)
+- [Lifehacker] [Where to Get $400 Worth of Xbox Gift Cards for Only $320](https://lifehacker.com/where-to-get-400-worth-of-xbox-gift-cards-for-only-32-1849924399)
 - [Dev.to/JS] [Why you should learn react](https://dev.to/simonayo/why-you-should-learn-react-41hi)
 - [Dev.to/JS] [Add Snow to Your Website with Snowify: A Simple JS Library](https://dev.to/gauravkrp/add-snow-to-your-website-with-snowify-a-simple-js-library-29k4)
 - [Dev.to/JS] [Higher Order Functions in JavaScript](https://dev.to/basskibo/higher-order-functions-in-javascript-2bj8)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of Lifehacker&#39;s Best Personal Finance Hacks in 2022](https://lifehacker.com/8-of-lifehackers-best-personal-finance-hacks-in-2022-1849922761)
 - [Dev.to/JS] [Working with Operators and Expressions in JavaScript](https://dev.to/lordsonsilver/working-with-operators-and-expressions-in-javascript-30k7)
 - [Dev.to/JS] [GraphQL support has landed in Bruno](https://dev.to/helloanoop/graphql-support-has-landed-in-bruno-16ll)
-- [Dev.to/JS] [All 4 JavaScript Scopes that you must know](https://dev.to/arafat4693/all-4-javascript-scopes-that-you-must-know-4h7e)
-- [Dev.to/JS] [Middleware &amp; Project structure.](https://dev.to/mahich123/middleware-project-structure-22bc)
 - [Lifehacker] [10 of Lifehacker’s Favorite Home Safety Tips of 2022](https://lifehacker.com/10-of-lifehacker-s-favorite-home-safety-tips-of-2022-1849923686)
 - [Lifehacker] [How to Get McDonald’s Double Cheeseburgers for 50 Cents Right Now](https://lifehacker.com/how-to-get-mcdonald-s-double-cheeseburgers-for-50-cents-1849923216)
 - [Lifehacker] [45 of Lifehacker&#39;s Favorite iPhone Hacks of 2022](https://lifehacker.com/45-of-lifehackers-favorite-iphone-hacks-of-2022-1849920815)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Ways to Speed Up Your Old Android](https://lifehacker.com/seven-ways-to-speed-up-your-old-android-1849918015)
 - [Lifehacker] [What&#39;s New on HBO Max in January 2023](https://lifehacker.com/whats-new-on-hbo-max-in-january-2023-1849917362)
 - [Lifehacker] [The Easiest Ways to Clean Wax From Your Menorah](https://lifehacker.com/the-easiest-ways-to-clean-wax-from-your-menorah-1849916801)
-- [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
-- [Lifehacker] [What&#39;s New on Paramount+ in January 2023](https://lifehacker.com/whats-new-on-paramount-in-january-2023-1849917039)
-- [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)<!-- TECH-POSTS:END -->
 
 ---
 
