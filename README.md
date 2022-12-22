@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Common Queries of Data Science with Python in 2023](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-in-2023-468o)
+- [Dev.to/JS] [Simple Chat App using Socket.io in NodeJS](https://dev.to/imkrunalkanojiya/simple-chat-app-using-socketio-in-nodejs-22ah)
+- [Dev.to/JS] [6 Awesome frameworks for Web Development](https://dev.to/surajondev/6-awesome-frameworks-for-web-development-2408)
 - [Dev.to/JS] [Taiga UI: Year of the Tiger](https://dev.to/angular/taiga-ui-year-of-the-tiger-9ih)
 - [Dev.to/JS] [How To Create a Magic Loading Animation Using Html &amp; CSS Step By Step](https://dev.to/hojjatbandani/how-to-create-a-magic-loading-animation-using-html-css-step-by-step-127c)
 - [Dev.to/JS] [React SEO: manage sitemaps](https://dev.to/mylifeforaiur/react-seo-manage-sitemaps-34o9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎁 New giveaway for the new year](https://dev.to/refine/new-giveaway-for-the-new-year-7ch)
 - [Dev.to/JS] [🎁 New giveaway for the new year](https://dev.to/necatiozmen/new-giveaway-for-the-new-year-ec)
 - [Dev.to/JS] [Create PopUp Modal Using State Manager in React](https://dev.to/nyomansunima/create-popup-modal-using-state-manager-in-react-5f62)
-- [Dev.to/JS] [TIL - The easiest way to handle index overflow...](https://dev.to/jtoscani/til-the-easiest-way-to-handle-index-overflow-38np)
-- [Dev.to/JS] [Quà Tết cho bố mẹ vợ ấn tượng](https://dev.to/gioquatetsagogifts2023/qua-tet-cho-bo-me-vo-an-tuong-3a9l)
-- [Dev.to/JS] [The problem of singletons](https://dev.to/revoltez/the-problem-of-singletons-a5b)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
