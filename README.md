@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create a Magic Loading Animation Using Html &amp; CSS Step By Step](https://dev.to/hojjatbandani/how-to-create-a-magic-loading-animation-using-html-css-step-by-step-127c)
+- [Dev.to/JS] [React SEO: manage sitemaps](https://dev.to/mylifeforaiur/react-seo-manage-sitemaps-34o9)
+- [Dev.to/JS] [An Overview of the Popular Frontend Frameworks](https://dev.to/ariellun/an-overview-of-the-popular-frontend-frameworks-bm2)
+- [Dev.to/JS] [Scraping upwork jobs using NodeJS](https://dev.to/ridaennasry/scraping-upwork-jobs-using-nodejs-2apa)
+- [Dev.to/JS] [My Journey in Open Source - event-emitter](https://dev.to/cadienvan/my-journey-in-open-source-event-emitter-43e)
 - [Dev.to/JS] [🎁 New giveaway for the new year](https://dev.to/refine/new-giveaway-for-the-new-year-7ch)
 - [Dev.to/JS] [🎁 New giveaway for the new year](https://dev.to/necatiozmen/new-giveaway-for-the-new-year-ec)
 - [Dev.to/JS] [Create PopUp Modal Using State Manager in React](https://dev.to/nyomansunima/create-popup-modal-using-state-manager-in-react-5f62)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quà Tết cho bố mẹ vợ ấn tượng](https://dev.to/gioquatetsagogifts2023/qua-tet-cho-bo-me-vo-an-tuong-3a9l)
 - [Dev.to/JS] [The problem of singletons](https://dev.to/revoltez/the-problem-of-singletons-a5b)
 - [Dev.to/JS] [How to Create TO-DO list with Node and React simple steps.](https://dev.to/adarshagupta/how-to-create-to-do-list-with-node-and-react-simple-steps-1d9f)
-- [Dev.to/JS] [BlackBird 4K Drone Results](https://dev.to/4kblackbird/blackbird-4k-drone-results-8oe)
-- [Dev.to/JS] [10 Tools and Tech every frontend developer must use.](https://dev.to/hy_piyush/10-tools-and-tech-every-frontend-developer-must-use-2689)
-- [Dev.to/JS] [7 GitHub Repositories that every front-end developer must know.](https://dev.to/hy_piyush/7-github-repositories-that-every-front-end-developer-must-know-300l)
-- [Dev.to/JS] [rem vs em - Everything you need to know](https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342)
-- [Dev.to/JS] [Building a Real-Time Web App with Node.js](https://dev.to/katleenbrown440/building-a-real-time-web-app-with-nodejs-59i)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
