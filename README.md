@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why you should learn react](https://dev.to/simonayo/why-you-should-learn-react-41hi)
+- [Dev.to/JS] [Add Snow to Your Website with Snowify: A Simple JS Library](https://dev.to/gauravkrp/add-snow-to-your-website-with-snowify-a-simple-js-library-29k4)
+- [Dev.to/JS] [Higher Order Functions in JavaScript](https://dev.to/basskibo/higher-order-functions-in-javascript-2bj8)
+- [Dev.to/JS] [How much JavaScript to create a project...](https://dev.to/bena1998/how-much-javascript-to-create-a-project-473c)
+- [Lifehacker] [Make Mini Yule Logs From a Box of HoHos](https://lifehacker.com/make-mini-yule-logs-from-a-box-of-hohos-1849923463)
+- [Dev.to/JS] [What field to switch to after a couple of years of full stack web development?](https://dev.to/lacexd/what-field-to-switch-to-after-a-couple-of-years-of-full-stack-web-development-10c0)
+- [Dev.to/JS] [Pagination Concept using JavaScript](https://dev.to/mayankkashyap681/pagination-concept-using-javascript-5coo)
 - [Lifehacker] [How to Stop Your Toilet Brush From Dripping Everywhere](https://lifehacker.com/how-to-stop-your-toilet-brush-from-dripping-everywhere-1849923532)
 - [Dev.to/JS] [A Brief History of Javascript](https://dev.to/techthatconnect/a-brief-history-of-javascript-1eb5)
 - [Dev.to/JS] [Socket.io and NodeJS Chat Application Tutorial](https://dev.to/alakkadshaw/socketio-and-nodejs-chat-application-tutorial-2p38)
@@ -32,15 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All 4 JavaScript Scopes that you must know](https://dev.to/arafat4693/all-4-javascript-scopes-that-you-must-know-4h7e)
 - [Dev.to/JS] [Middleware &amp; Project structure.](https://dev.to/mahich123/middleware-project-structure-22bc)
 - [Lifehacker] [10 of Lifehacker’s Favorite Home Safety Tips of 2022](https://lifehacker.com/10-of-lifehacker-s-favorite-home-safety-tips-of-2022-1849923686)
-- [Dev.to/JS] [Cloud Resumé CHALLENGE](https://dev.to/thomasrauffenbart/cloud-resume-challenge-1jej)
-- [Dev.to/JS] [Edit PNG, JPEG, GIF and Other Images with a JavaScript Image Viewer](https://dev.to/grapecity/edit-png-jpeg-gif-and-other-images-with-a-javascript-image-viewer-5aop)
 - [Lifehacker] [How to Get McDonald’s Double Cheeseburgers for 50 Cents Right Now](https://lifehacker.com/how-to-get-mcdonald-s-double-cheeseburgers-for-50-cents-1849923216)
-- [Dev.to/JS] [DOM Manipulation Basics: Vanilla JS](https://dev.to/darealdyl/dom-manipulation-basics-vanilla-js-3n5o)
-- [Dev.to/JS] [JavaScript VS TypeScript : which one better.](https://dev.to/dk201833/javascript-vs-typescript-which-one-better-3ih5)
 - [Lifehacker] [45 of Lifehacker&#39;s Favorite iPhone Hacks of 2022](https://lifehacker.com/45-of-lifehackers-favorite-iphone-hacks-of-2022-1849920815)
-- [Dev.to/JS] [Vue.js directives: Form binding and event handling](https://dev.to/xinnks/vuejs-directives-form-binding-and-event-handling-5hnh)
 - [Lifehacker] [8 of Lifehacker&#39;s Best Job Survival Hacks of 2022](https://lifehacker.com/8-of-lifehackers-best-job-survival-hacks-of-2022-1849919870)
-- [Dev.to/JS] [Do I need TypeScript?](https://dev.to/qbentil/do-i-need-typescript-lmk)
 - [Lifehacker] [Cranberry Meringue Pie Is the Perfect Holiday Dessert](https://lifehacker.com/cranberry-meringue-pie-is-the-perfect-holiday-dessert-1849921307)
 - [Lifehacker] [12 More Actors You Didn&#39;t Know Are &#39;Nepotism Babies&#39;](https://lifehacker.com/12-more-actors-you-didnt-know-are-nepotism-babies-1849921029)
 - [Lifehacker] [Please Prepare Now for This Incoming Arctic Freeze](https://lifehacker.com/please-prepare-now-for-this-incoming-arctic-freeze-1849921562)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Clean Wax From Your Menorah](https://lifehacker.com/the-easiest-ways-to-clean-wax-from-your-menorah-1849916801)
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
 - [Lifehacker] [What&#39;s New on Paramount+ in January 2023](https://lifehacker.com/whats-new-on-paramount-in-january-2023-1849917039)
-- [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
-- [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)<!-- TECH-POSTS:END -->
 
 ---
 
