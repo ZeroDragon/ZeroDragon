@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Inheritance vs Composition: Using a Role-Playing Game in JavaScript as an Example](https://dev.to/kliukovkin/inheritance-vs-composition-using-a-role-playing-game-in-javascript-as-an-example-4b5g)
+- [Dev.to/JS] [Es mala práctica renderizar JSX en React Hook?](https://dev.to/doublem_m/es-mala-practica-renderizar-jsx-en-react-hook-15dp)
 - [Dev.to/JS] [Awesome JavaScript hacks](https://dev.to/mitchiemt11/awesome-javascript-hacks-35e3)
 - [Dev.to/JS] [Playwright Python Tutorial: Getting Started With Python End To End Testing](https://dev.to/lambdatest/playwright-python-tutorial-getting-started-with-python-end-to-end-testing-27bk)
 - [Dev.to/JS] [Como Usar o Spread Operator &lpar;…&rpar; em React ⚛](https://dev.to/mpetry/como-usar-o-spread-operator-em-react-22jb)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)
 - [Lifehacker] [You&#39;re Flipping Your Pancakes Too Hard](https://lifehacker.com/youre-flipping-your-pancakes-too-hard-1849919013)
 - [Lifehacker] [8 Myths About Christmas That Some People Really Believe](https://lifehacker.com/8-myths-about-christmas-that-some-people-really-believe-1849916899)
-- [Dev.to/JS] [Using Notion as a Content Management System &lpar;CMS&rpar; for your applications](https://dev.to/kelebeklabs/using-notion-as-a-content-management-system-cms-for-your-applications-4ald)
-- [Dev.to/JS] [Building an accessible theme picker with HTML, CSS and JavaScript.](https://dev.to/fossheim/building-an-accessible-theme-picker-with-html-css-and-javascript-p5d)
 - [Lifehacker] [What&#39;s New on Netflix in January 2023](https://lifehacker.com/whats-new-on-netflix-in-january-2023-1849919201)
 - [Lifehacker] [16 of the Best Memes From 2022 That You&#39;ve Already Forgotten](https://lifehacker.com/16-of-the-best-memes-from-2022-that-youve-already-forgo-1849917713)
 - [Lifehacker] [Seven Ways to Speed Up Your Old Android](https://lifehacker.com/seven-ways-to-speed-up-your-old-android-1849918015)
