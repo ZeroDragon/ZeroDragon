@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue.js directives: Form binding and event handling](https://dev.to/xinnks/vuejs-directives-form-binding-and-event-handling-5hnh)
+- [Lifehacker] [8 of Lifehacker&#39;s Best Job Survival Hacks of 2022](https://lifehacker.com/8-of-lifehackers-best-job-survival-hacks-of-2022-1849919870)
+- [Dev.to/JS] [Do I need TypeScript?](https://dev.to/qbentil/do-i-need-typescript-lmk)
+- [Lifehacker] [Cranberry Meringue Pie Is the Perfect Holiday Dessert](https://lifehacker.com/cranberry-meringue-pie-is-the-perfect-holiday-dessert-1849921307)
 - [Lifehacker] [12 More Actors You Didn&#39;t Know Are &#39;Nepotism Babies&#39;](https://lifehacker.com/12-more-actors-you-didnt-know-are-nepotism-babies-1849921029)
 - [Dev.to/JS] [How to Use an Angular Pivot Table Component in Your Web Application](https://dev.to/grapecity/how-to-use-an-angular-pivot-table-component-in-your-web-application-o8h)
 - [Dev.to/JS] [JavaScript Fundamentals: While Loop, Break and Questions for Practice](https://dev.to/astrodevil/javascript-fundamentals-while-loop-break-and-questions-for-practice-5f5o)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Java Burn - Weight Loss Benefits, Uses, Results, Does It Work?](https://dev.to/javaburnfact/java-burn-weight-loss-benefits-uses-results-does-it-work-mh3)
 - [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)
 - [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)
-- [Dev.to/JS] [Intersection Observer - Lazy loading, animações em scroll e scroll infinito de forma nativa e sem libs](https://dev.to/caramelo-dev/intersection-observer-lazy-loading-animacoes-em-scroll-e-scroll-infinito-de-forma-nativa-e-sem-libs-4bf)
-- [Dev.to/JS] [How To Access And Render Data Attributes With CSS &amp; JavaScript](https://dev.to/olaoyevick/how-to-access-and-render-data-attributes-with-css-javascript-12o6)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
 - [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
 - [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
-- [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)
-- [Lifehacker] [14 of the Best Wordle Variants of 2022](https://lifehacker.com/14-of-the-best-wordle-variants-of-2022-1849915931)
-- [Lifehacker] [Plan Your 2023 Travel Around These Long Weekends](https://lifehacker.com/plan-your-2023-travel-around-these-long-weekends-1849915406)<!-- TECH-POSTS:END -->
+- [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)<!-- TECH-POSTS:END -->
 
 ---
 
