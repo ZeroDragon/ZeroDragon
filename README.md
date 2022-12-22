@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Six Best Ways of Finding a Job Without LinkedIn or Indeed](https://lifehacker.com/the-six-best-ways-of-finding-a-job-without-linkedin-or-1849909999)
+- [Dev.to/JS] [Top 20+ Free and Premium Bootstrap Dashboard Templates to Consider in 2023](https://dev.to/flatlogic_manager/top-20-free-and-premium-bootstrap-dashboard-templates-to-consider-in-2023-423p)
+- [Dev.to/JS] [How to Use a JavaScript Reporting Tool Within an ASP.NET Core Application](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-within-an-aspnet-core-application-2ap1)
+- [Dev.to/JS] [SWR vs React-Query](https://dev.to/lvieira268/swr-vs-react-query-5el0)
+- [Dev.to/JS] [Java Burn - Weight Loss Benefits, Uses, Results, Does It Work?](https://dev.to/javaburnfact/java-burn-weight-loss-benefits-uses-results-does-it-work-mh3)
+- [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)
+- [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)
 - [Dev.to/JS] [Intersection Observer - Lazy loading, animações em scroll e scroll infinito de forma nativa e sem libs](https://dev.to/caramelo-dev/intersection-observer-lazy-loading-animacoes-em-scroll-e-scroll-infinito-de-forma-nativa-e-sem-libs-4bf)
+- [Dev.to/JS] [How To Access And Render Data Attributes With CSS &amp; JavaScript](https://dev.to/olaoyevick/how-to-access-and-render-data-attributes-with-css-javascript-12o6)
 - [Dev.to/JS] [The Beginner&#39;s Guide to Asynchronous JavaScript](https://dev.to/codelabsacademy/the-beginners-guide-to-asynchronous-javascript-23e8)
 - [Dev.to/JS] [How To Profile Card With Modal Using Html CSS &amp; JavaScript Step By Step](https://dev.to/hojjatbandani/how-to-profile-card-with-modal-using-html-css-javascript-step-by-step-2053)
 - [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/kanishedureka/6-reasons-why-devops-are-important-for-business-organizations-2hpp)
 - [Dev.to/JS] [TypeScript VS JavaScript](https://dev.to/bimochanshrest1/typescript-vs-javascript-55kf)
 - [Dev.to/JS] [Methods vs Functions](https://dev.to/saloni137/methods-vs-functions-4c9j)
 - [Dev.to/JS] [JAVASCRIPT NECESSITIES&lpar;things you need to emphasis on&rpar;:](https://dev.to/jane49cloud/javascript-necessitiesthings-you-need-to-emphasis-on-1dn1)
-- [Dev.to/JS] [Reasons Why Businesses Prefer React.js for Front-end Development](https://dev.to/manojtr/reasons-why-businesses-prefer-reactjs-for-front-end-development-168)
-- [Dev.to/JS] [Common Queries of Data Science with Python in 2023](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-in-2023-468o)
-- [Dev.to/JS] [Simple Chat App using Socket.io in NodeJS](https://dev.to/imkrunalkanojiya/simple-chat-app-using-socketio-in-nodejs-22ah)
-- [Dev.to/JS] [6 Awesome frameworks for Web Development](https://dev.to/surajondev/6-awesome-frameworks-for-web-development-2408)
-- [Dev.to/JS] [Taiga UI: Year of the Tiger](https://dev.to/angular/taiga-ui-year-of-the-tiger-9ih)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Plan Your 2023 Travel Around These Long Weekends](https://lifehacker.com/plan-your-2023-travel-around-these-long-weekends-1849915406)
 - [Lifehacker] [5 Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
 - [Lifehacker] [The Easiest Way to Actually Quit a Mac App](https://lifehacker.com/the-easiest-way-to-actually-quit-a-mac-app-1849913743)
-- [Lifehacker] [Fight the Winter Doldrums With These Fruity Pickles](https://lifehacker.com/fight-the-winter-doldrums-with-these-fruity-pickles-1849913637)
-- [Lifehacker] [How to Always Find Free Wifi](https://lifehacker.com/how-to-always-find-free-wifi-1849914769)
-- [Lifehacker] [Cannoli Crackers Deserve a Place on Your Cheese Board](https://lifehacker.com/cannoli-crackers-deserve-a-place-on-your-cheese-board-1849914856)
-- [Lifehacker] [This Is the Best Free Scanning App on iPhone](https://lifehacker.com/this-is-the-best-free-scanning-app-on-iphone-1849913793)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fight the Winter Doldrums With These Fruity Pickles](https://lifehacker.com/fight-the-winter-doldrums-with-these-fruity-pickles-1849913637)<!-- TECH-POSTS:END -->
 
 ---
 
