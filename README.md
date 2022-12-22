@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Please Prepare Now for This Incoming Arctic Freeze](https://lifehacker.com/please-prepare-now-for-this-incoming-arctic-freeze-1849921562)
+- [Lifehacker] [You Should Add Eggnog to Your Christmas Morning Pancakes](https://lifehacker.com/you-should-add-eggnog-to-your-christmas-morning-pancake-1849919573)
+- [Dev.to/JS] [What is Prompt Engineering?](https://dev.to/airbrake/what-is-prompt-engineering-2oo)
+- [Dev.to/JS] [React VS React Native : Basic Understanding](https://dev.to/dk201833/react-vs-react-native-basic-understanding-4bca)
+- [Dev.to/JS] [For badge i need 3 stars](https://dev.to/b1bxonty/for-badge-i-need-3-stars-4g6l)
 - [Lifehacker] [The Six Best Ways of Finding a Job Without LinkedIn or Indeed](https://lifehacker.com/the-six-best-ways-of-finding-a-job-without-linkedin-or-1849909999)
 - [Dev.to/JS] [Top 20+ Free and Premium Bootstrap Dashboard Templates to Consider in 2023](https://dev.to/flatlogic_manager/top-20-free-and-premium-bootstrap-dashboard-templates-to-consider-in-2023-423p)
 - [Dev.to/JS] [How to Use a JavaScript Reporting Tool Within an ASP.NET Core Application](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-within-an-aspnet-core-application-2ap1)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Beginner&#39;s Guide to Asynchronous JavaScript](https://dev.to/codelabsacademy/the-beginners-guide-to-asynchronous-javascript-23e8)
 - [Dev.to/JS] [How To Profile Card With Modal Using Html CSS &amp; JavaScript Step By Step](https://dev.to/hojjatbandani/how-to-profile-card-with-modal-using-html-css-javascript-step-by-step-2053)
 - [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/kanishedureka/6-reasons-why-devops-are-important-for-business-organizations-2hpp)
-- [Dev.to/JS] [TypeScript VS JavaScript](https://dev.to/bimochanshrest1/typescript-vs-javascript-55kf)
-- [Dev.to/JS] [Methods vs Functions](https://dev.to/saloni137/methods-vs-functions-4c9j)
-- [Dev.to/JS] [JAVASCRIPT NECESSITIES&lpar;things you need to emphasis on&rpar;:](https://dev.to/jane49cloud/javascript-necessitiesthings-you-need-to-emphasis-on-1dn1)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)
 - [Lifehacker] [14 of the Best Wordle Variants of 2022](https://lifehacker.com/14-of-the-best-wordle-variants-of-2022-1849915931)
 - [Lifehacker] [Plan Your 2023 Travel Around These Long Weekends](https://lifehacker.com/plan-your-2023-travel-around-these-long-weekends-1849915406)
-- [Lifehacker] [5 Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
-- [Lifehacker] [The Easiest Way to Actually Quit a Mac App](https://lifehacker.com/the-easiest-way-to-actually-quit-a-mac-app-1849913743)
-- [Lifehacker] [Fight the Winter Doldrums With These Fruity Pickles](https://lifehacker.com/fight-the-winter-doldrums-with-these-fruity-pickles-1849913637)<!-- TECH-POSTS:END -->
+- [Lifehacker] [5 Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)<!-- TECH-POSTS:END -->
 
 ---
 
