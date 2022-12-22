@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to run a function in background?](https://dev.to/ekamid/how-to-run-a-function-in-background-2c7g)
 - [Dev.to/JS] [JavaScript Palindrome Checker](https://dev.to/nicholasgalante/javascript-palindrome-checker-1pf4)
 - [Dev.to/JS] [Inheritance vs Composition: Using a Role-Playing Game in JavaScript as an Example](https://dev.to/kliukovkin/inheritance-vs-composition-using-a-role-playing-game-in-javascript-as-an-example-4b5g)
 - [Dev.to/JS] [Es mala práctica renderizar JSX en React Hook?](https://dev.to/doublem_m/es-mala-practica-renderizar-jsx-en-react-hook-15dp)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add One Day to Date in JavaScript](https://dev.to/gaelgthomas/add-one-day-to-date-in-javascript-45n2)
 - [Dev.to/JS] [Promises and Asynchronous Javascript - Part 1](https://dev.to/mayankkashyap681/promises-and-asynchronous-javascript-part-1-151)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
-- [Dev.to/JS] [Useful VS Code Extensions](https://dev.to/ksowah/useful-vs-code-extensions-336b)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
 - [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)
 - [Lifehacker] [You&#39;re Flipping Your Pancakes Too Hard](https://lifehacker.com/youre-flipping-your-pancakes-too-hard-1849919013)
