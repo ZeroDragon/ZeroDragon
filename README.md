@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript Vs JavaScript](https://dev.to/bimochanshrest1/typescript-vs-javascript-55kf)
+- [Dev.to/JS] [JAVASCRIPT NECESSITIES&lpar;things you need to emphasis on&rpar;:](https://dev.to/jane49cloud/javascript-necessitiesthings-you-need-to-emphasis-on-1dn1)
+- [Dev.to/JS] [Reasons Why Businesses Prefer React.js for Front-end Development](https://dev.to/manojtr/reasons-why-businesses-prefer-reactjs-for-front-end-development-168)
 - [Dev.to/JS] [Common Queries of Data Science with Python in 2023](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-in-2023-468o)
 - [Dev.to/JS] [Simple Chat App using Socket.io in NodeJS](https://dev.to/imkrunalkanojiya/simple-chat-app-using-socketio-in-nodejs-22ah)
 - [Dev.to/JS] [6 Awesome frameworks for Web Development](https://dev.to/surajondev/6-awesome-frameworks-for-web-development-2408)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Overview of the Popular Frontend Frameworks](https://dev.to/ariellun/an-overview-of-the-popular-frontend-frameworks-bm2)
 - [Dev.to/JS] [Scraping upwork jobs using NodeJS](https://dev.to/ridaennasry/scraping-upwork-jobs-using-nodejs-2apa)
 - [Dev.to/JS] [My Journey in Open Source - event-emitter](https://dev.to/cadienvan/my-journey-in-open-source-event-emitter-43e)
-- [Dev.to/JS] [🎁 New giveaway for the new year](https://dev.to/refine/new-giveaway-for-the-new-year-7ch)
-- [Dev.to/JS] [🎁 New giveaway for the new year](https://dev.to/necatiozmen/new-giveaway-for-the-new-year-ec)
-- [Dev.to/JS] [Create PopUp Modal Using State Manager in React](https://dev.to/nyomansunima/create-popup-modal-using-state-manager-in-react-5f62)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
