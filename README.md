@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Your Toilet Brush From Dripping Everywhere](https://lifehacker.com/how-to-stop-your-toilet-brush-from-dripping-everywhere-1849923532)
+- [Dev.to/JS] [A Brief History of Javascript](https://dev.to/techthatconnect/a-brief-history-of-javascript-1eb5)
+- [Dev.to/JS] [Socket.io and NodeJS Chat Application Tutorial](https://dev.to/alakkadshaw/socketio-and-nodejs-chat-application-tutorial-2p38)
+- [Lifehacker] [8 of Lifehacker&#39;s Best Personal Finance Hacks in 2022](https://lifehacker.com/8-of-lifehackers-best-personal-finance-hacks-in-2022-1849922761)
+- [Dev.to/JS] [Working with Operators and Expressions in JavaScript](https://dev.to/lordsonsilver/working-with-operators-and-expressions-in-javascript-30k7)
+- [Dev.to/JS] [GraphQL support has landed in Bruno](https://dev.to/helloanoop/graphql-support-has-landed-in-bruno-16ll)
+- [Dev.to/JS] [All 4 JavaScript Scopes that you must know](https://dev.to/arafat4693/all-4-javascript-scopes-that-you-must-know-4h7e)
+- [Dev.to/JS] [Middleware &amp; Project structure.](https://dev.to/mahich123/middleware-project-structure-22bc)
+- [Lifehacker] [10 of Lifehacker’s Favorite Home Safety Tips of 2022](https://lifehacker.com/10-of-lifehacker-s-favorite-home-safety-tips-of-2022-1849923686)
 - [Dev.to/JS] [Cloud Resumé CHALLENGE](https://dev.to/thomasrauffenbart/cloud-resume-challenge-1jej)
 - [Dev.to/JS] [Edit PNG, JPEG, GIF and Other Images with a JavaScript Image Viewer](https://dev.to/grapecity/edit-png-jpeg-gif-and-other-images-with-a-javascript-image-viewer-5aop)
 - [Lifehacker] [How to Get McDonald’s Double Cheeseburgers for 50 Cents Right Now](https://lifehacker.com/how-to-get-mcdonald-s-double-cheeseburgers-for-50-cents-1849923216)
@@ -34,14 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do I need TypeScript?](https://dev.to/qbentil/do-i-need-typescript-lmk)
 - [Lifehacker] [Cranberry Meringue Pie Is the Perfect Holiday Dessert](https://lifehacker.com/cranberry-meringue-pie-is-the-perfect-holiday-dessert-1849921307)
 - [Lifehacker] [12 More Actors You Didn&#39;t Know Are &#39;Nepotism Babies&#39;](https://lifehacker.com/12-more-actors-you-didnt-know-are-nepotism-babies-1849921029)
-- [Dev.to/JS] [How to Use an Angular Pivot Table Component in Your Web Application](https://dev.to/grapecity/how-to-use-an-angular-pivot-table-component-in-your-web-application-o8h)
-- [Dev.to/JS] [JavaScript Fundamentals: While Loop, Break and Questions for Practice](https://dev.to/astrodevil/javascript-fundamentals-while-loop-break-and-questions-for-practice-5f5o)
 - [Lifehacker] [Please Prepare Now for This Incoming Arctic Freeze](https://lifehacker.com/please-prepare-now-for-this-incoming-arctic-freeze-1849921562)
-- [Dev.to/JS] [Top 10 Strapi Blog Posts of 2022 You Should Read](https://dev.to/strapi/top-10-strapi-blog-posts-of-2022-you-should-read-3cc2)
 - [Lifehacker] [You Should Add Eggnog to Your Christmas Morning Pancakes](https://lifehacker.com/you-should-add-eggnog-to-your-christmas-morning-pancake-1849919573)
-- [Dev.to/JS] [What is Prompt Engineering?](https://dev.to/airbrake/what-is-prompt-engineering-2oo)
-- [Dev.to/JS] [React VS React Native : Basic Understanding](https://dev.to/dk201833/react-vs-react-native-basic-understanding-4bca)
-- [Dev.to/JS] [For badge i need 3 stars](https://dev.to/b1bxonty/for-badge-i-need-3-stars-4g6l)
 - [Lifehacker] [The Six Best Ways of Finding a Job Without LinkedIn or Indeed](https://lifehacker.com/the-six-best-ways-of-finding-a-job-without-linkedin-or-1849909999)
 - [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)
 - [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
 - [Lifehacker] [What&#39;s New on Paramount+ in January 2023](https://lifehacker.com/whats-new-on-paramount-in-january-2023-1849917039)
 - [Lifehacker] [How to Calculate Your FIRE Number to Retire Early](https://lifehacker.com/how-to-calculate-your-fire-number-to-retire-early-1849916204)
-- [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)
-- [Lifehacker] [You Can Visit a National Park for Free on These Days in 2023](https://lifehacker.com/you-can-visit-a-national-park-for-free-on-these-days-in-1849916124)
-- [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
-- [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)<!-- TECH-POSTS:END -->
 
 ---
 
