@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cloud Resumé CHALLENGE](https://dev.to/thomasrauffenbart/cloud-resume-challenge-1jej)
+- [Dev.to/JS] [Edit PNG, JPEG, GIF and Other Images with a JavaScript Image Viewer](https://dev.to/grapecity/edit-png-jpeg-gif-and-other-images-with-a-javascript-image-viewer-5aop)
+- [Lifehacker] [How to Get McDonald’s Double Cheeseburgers for 50 Cents Right Now](https://lifehacker.com/how-to-get-mcdonald-s-double-cheeseburgers-for-50-cents-1849923216)
+- [Dev.to/JS] [DOM Manipulation Basics: Vanilla JS](https://dev.to/darealdyl/dom-manipulation-basics-vanilla-js-3n5o)
+- [Dev.to/JS] [JavaScript VS TypeScript : which one better.](https://dev.to/dk201833/javascript-vs-typescript-which-one-better-3ih5)
+- [Lifehacker] [45 of Lifehacker&#39;s Favorite iPhone Hacks of 2022](https://lifehacker.com/45-of-lifehackers-favorite-iphone-hacks-of-2022-1849920815)
 - [Dev.to/JS] [Vue.js directives: Form binding and event handling](https://dev.to/xinnks/vuejs-directives-form-binding-and-event-handling-5hnh)
 - [Lifehacker] [8 of Lifehacker&#39;s Best Job Survival Hacks of 2022](https://lifehacker.com/8-of-lifehackers-best-job-survival-hacks-of-2022-1849919870)
 - [Dev.to/JS] [Do I need TypeScript?](https://dev.to/qbentil/do-i-need-typescript-lmk)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React VS React Native : Basic Understanding](https://dev.to/dk201833/react-vs-react-native-basic-understanding-4bca)
 - [Dev.to/JS] [For badge i need 3 stars](https://dev.to/b1bxonty/for-badge-i-need-3-stars-4g6l)
 - [Lifehacker] [The Six Best Ways of Finding a Job Without LinkedIn or Indeed](https://lifehacker.com/the-six-best-ways-of-finding-a-job-without-linkedin-or-1849909999)
-- [Dev.to/JS] [Top 20+ Free and Premium Bootstrap Dashboard Templates to Consider in 2023](https://dev.to/flatlogic_manager/top-20-free-and-premium-bootstrap-dashboard-templates-to-consider-in-2023-423p)
-- [Dev.to/JS] [How to Use a JavaScript Reporting Tool Within an ASP.NET Core Application](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-within-an-aspnet-core-application-2ap1)
-- [Dev.to/JS] [SWR vs React-Query](https://dev.to/lvieira268/swr-vs-react-query-5el0)
-- [Dev.to/JS] [Java Burn - Weight Loss Benefits, Uses, Results, Does It Work?](https://dev.to/javaburnfact/java-burn-weight-loss-benefits-uses-results-does-it-work-mh3)
 - [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)
 - [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Extra Indulgent French Toast With Babka](https://lifehacker.com/make-extra-indulgent-french-toast-with-babka-1849915628)
 - [Lifehacker] [You Can Visit a National Park for Free on These Days in 2023](https://lifehacker.com/you-can-visit-a-national-park-for-free-on-these-days-in-1849916124)
 - [Lifehacker] [7 Last-Minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
-- [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)
-- [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
-- [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Update a Tech Present Before Gifting It](https://lifehacker.com/when-to-update-a-tech-present-before-gifting-it-1849915760)<!-- TECH-POSTS:END -->
 
 ---
 
