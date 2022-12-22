@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 More Actors You Didn&#39;t Know Are &#39;Nepotism Babies&#39;](https://lifehacker.com/12-more-actors-you-didnt-know-are-nepotism-babies-1849921029)
+- [Dev.to/JS] [How to Use an Angular Pivot Table Component in Your Web Application](https://dev.to/grapecity/how-to-use-an-angular-pivot-table-component-in-your-web-application-o8h)
+- [Dev.to/JS] [JavaScript Fundamentals: While Loop, Break and Questions for Practice](https://dev.to/astrodevil/javascript-fundamentals-while-loop-break-and-questions-for-practice-5f5o)
 - [Lifehacker] [Please Prepare Now for This Incoming Arctic Freeze](https://lifehacker.com/please-prepare-now-for-this-incoming-arctic-freeze-1849921562)
+- [Dev.to/JS] [Top 10 Strapi Blog Posts of 2022 You Should Read](https://dev.to/strapi/top-10-strapi-blog-posts-of-2022-you-should-read-3cc2)
 - [Lifehacker] [You Should Add Eggnog to Your Christmas Morning Pancakes](https://lifehacker.com/you-should-add-eggnog-to-your-christmas-morning-pancake-1849919573)
 - [Dev.to/JS] [What is Prompt Engineering?](https://dev.to/airbrake/what-is-prompt-engineering-2oo)
 - [Dev.to/JS] [React VS React Native : Basic Understanding](https://dev.to/dk201833/react-vs-react-native-basic-understanding-4bca)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)
 - [Dev.to/JS] [Intersection Observer - Lazy loading, animações em scroll e scroll infinito de forma nativa e sem libs](https://dev.to/caramelo-dev/intersection-observer-lazy-loading-animacoes-em-scroll-e-scroll-infinito-de-forma-nativa-e-sem-libs-4bf)
 - [Dev.to/JS] [How To Access And Render Data Attributes With CSS &amp; JavaScript](https://dev.to/olaoyevick/how-to-access-and-render-data-attributes-with-css-javascript-12o6)
-- [Dev.to/JS] [The Beginner&#39;s Guide to Asynchronous JavaScript](https://dev.to/codelabsacademy/the-beginners-guide-to-asynchronous-javascript-23e8)
-- [Dev.to/JS] [How To Profile Card With Modal Using Html CSS &amp; JavaScript Step By Step](https://dev.to/hojjatbandani/how-to-profile-card-with-modal-using-html-css-javascript-step-by-step-2053)
-- [Dev.to/JS] [6 Reasons why &#39;DevOps&#39; are important for business Organizations](https://dev.to/kanishedureka/6-reasons-why-devops-are-important-for-business-organizations-2hpp)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gifts to Donate to Kids, According to Reddit](https://lifehacker.com/the-best-gifts-to-donate-to-kids-according-to-reddit-1849915324)
 - [Lifehacker] [PlayStation 5 Controllers Are at Their Lowest-Ever Price Right Now](https://lifehacker.com/playstation-5-controllers-are-at-their-lowest-ever-pric-1849915503)
 - [Lifehacker] [14 of the Best Wordle Variants of 2022](https://lifehacker.com/14-of-the-best-wordle-variants-of-2022-1849915931)
-- [Lifehacker] [Plan Your 2023 Travel Around These Long Weekends](https://lifehacker.com/plan-your-2023-travel-around-these-long-weekends-1849915406)
-- [Lifehacker] [5 Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Plan Your 2023 Travel Around These Long Weekends](https://lifehacker.com/plan-your-2023-travel-around-these-long-weekends-1849915406)<!-- TECH-POSTS:END -->
 
 ---
 
