@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Real-Time Web App with Node.js](https://dev.to/katleenbrown440/building-a-real-time-web-app-with-nodejs-59i)
 - [Dev.to/JS] [Build an 80 line JS Framework](https://dev.to/dperrymorrow/build-a-js-framework-with-80-lines-of-javascript-1bne)
-- [Dev.to/JS] [Realtime Static Website Search using Pure JavaScript](https://dev.to/itsaomi/realtime-static-website-search-using-pure-javascript-35hi)
+- [Dev.to/JS] [ii](https://dev.to/itsaomi/realtime-static-website-search-using-pure-javascript-35hi)
 - [Dev.to/JS] [5 lý hạt điều quà Tết luôn được yêu thích và lựa chọn](https://dev.to/hopquatetsagogifts2023/5-ly-hat-dieu-qua-tet-luon-duoc-yeu-thich-va-lua-chon-531m)
 - [Dev.to/JS] [How to run a function in background?](https://dev.to/ekamid/how-to-run-a-function-in-background-2c7g)
 - [Dev.to/JS] [JavaScript Palindrome Checker](https://dev.to/nicholasgalante/javascript-palindrome-checker-1pf4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Playwright Python Tutorial: Getting Started With Python End To End Testing](https://dev.to/lambdatest/playwright-python-tutorial-getting-started-with-python-end-to-end-testing-27bk)
 - [Dev.to/JS] [Como Usar o Spread Operator &lpar;…&rpar; em React ⚛](https://dev.to/mpetry/como-usar-o-spread-operator-em-react-22jb)
 - [Dev.to/JS] [Understanding the Role of Arrow Functions in JavaScript](https://dev.to/erhaneth/what-are-fat-arrow-functions-354p)
-- [Dev.to/JS] [Don&#39;t use useEffect in forms](https://dev.to/paulorievrs/dont-use-useeffect-in-forms-2l5f)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
