@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Realtime Static Website Search using Pure JavaScript](https://dev.to/itsaomi/realtime-static-website-search-using-pure-javascript-35hi)
+- [Dev.to/JS] [5 lý hạt điều quà Tết luôn được yêu thích và lựa chọn](https://dev.to/hopquatetsagogifts2023/5-ly-hat-dieu-qua-tet-luon-duoc-yeu-thich-va-lua-chon-531m)
 - [Dev.to/JS] [How to run a function in background?](https://dev.to/ekamid/how-to-run-a-function-in-background-2c7g)
 - [Dev.to/JS] [JavaScript Palindrome Checker](https://dev.to/nicholasgalante/javascript-palindrome-checker-1pf4)
 - [Dev.to/JS] [Inheritance vs Composition: Using a Role-Playing Game in JavaScript as an Example](https://dev.to/kliukovkin/inheritance-vs-composition-using-a-role-playing-game-in-javascript-as-an-example-4b5g)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don&#39;t use useEffect in forms](https://dev.to/paulorievrs/dont-use-useeffect-in-forms-2l5f)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Dev.to/JS] [The Dreaded Phase 1 Assessment](https://dev.to/marthaeochoa/the-dreaded-phase-1-assessment-34pa)
-- [Dev.to/JS] [Add One Day to Date in JavaScript](https://dev.to/gaelgthomas/add-one-day-to-date-in-javascript-45n2)
-- [Dev.to/JS] [Promises and Asynchronous Javascript - Part 1](https://dev.to/mayankkashyap681/promises-and-asynchronous-javascript-part-1-151)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
 - [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)
