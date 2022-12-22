@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Tools and Tech every frontend developer must use.](https://dev.to/hy_piyush/10-tools-and-tech-every-frontend-developer-must-use-2689)
+- [Dev.to/JS] [7 GitHub Repositories that every front-end developer must know.](https://dev.to/hy_piyush/7-github-repositories-that-every-front-end-developer-must-know-300l)
+- [Dev.to/JS] [rem vs em - Everything you need to know](https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342)
 - [Dev.to/JS] [Building a Real-Time Web App with Node.js](https://dev.to/katleenbrown440/building-a-real-time-web-app-with-nodejs-59i)
 - [Dev.to/JS] [Build an 80 line JS Framework](https://dev.to/dperrymorrow/build-a-js-framework-with-80-lines-of-javascript-1bne)
 - [Dev.to/JS] [ii](https://dev.to/itsaomi/realtime-static-website-search-using-pure-javascript-35hi)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Inheritance vs Composition: Using a Role-Playing Game in JavaScript as an Example](https://dev.to/kliukovkin/inheritance-vs-composition-using-a-role-playing-game-in-javascript-as-an-example-4b5g)
 - [Dev.to/JS] [Es mala práctica renderizar JSX en React Hook?](https://dev.to/doublem_m/es-mala-practica-renderizar-jsx-en-react-hook-15dp)
 - [Dev.to/JS] [Awesome JavaScript hacks](https://dev.to/mitchiemt11/awesome-javascript-hacks-35e3)
-- [Dev.to/JS] [Playwright Python Tutorial: Getting Started With Python End To End Testing](https://dev.to/lambdatest/playwright-python-tutorial-getting-started-with-python-end-to-end-testing-27bk)
-- [Dev.to/JS] [Como Usar o Spread Operator &lpar;…&rpar; em React ⚛](https://dev.to/mpetry/como-usar-o-spread-operator-em-react-22jb)
-- [Dev.to/JS] [Understanding the Role of Arrow Functions in JavaScript](https://dev.to/erhaneth/what-are-fat-arrow-functions-354p)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
