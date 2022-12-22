@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BlackBird 4K Drone Results](https://dev.to/4kblackbird/blackbird-4k-drone-results-8oe)
 - [Dev.to/JS] [10 Tools and Tech every frontend developer must use.](https://dev.to/hy_piyush/10-tools-and-tech-every-frontend-developer-must-use-2689)
 - [Dev.to/JS] [7 GitHub Repositories that every front-end developer must know.](https://dev.to/hy_piyush/7-github-repositories-that-every-front-end-developer-must-know-300l)
 - [Dev.to/JS] [rem vs em - Everything you need to know](https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Palindrome Checker](https://dev.to/nicholasgalante/javascript-palindrome-checker-1pf4)
 - [Dev.to/JS] [Inheritance vs Composition: Using a Role-Playing Game in JavaScript as an Example](https://dev.to/kliukovkin/inheritance-vs-composition-using-a-role-playing-game-in-javascript-as-an-example-4b5g)
 - [Dev.to/JS] [Es mala práctica renderizar JSX en React Hook?](https://dev.to/doublem_m/es-mala-practica-renderizar-jsx-en-react-hook-15dp)
-- [Dev.to/JS] [Awesome JavaScript hacks](https://dev.to/mitchiemt11/awesome-javascript-hacks-35e3)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
