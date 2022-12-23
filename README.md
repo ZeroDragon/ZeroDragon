@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript WTF Moments: The Special Case: T[] extends B[]](https://dev.to/tylim88/typescript-wtf-moments-the-special-case-t-extends-b-215o)
+- [Dev.to/JS] [5 Methods DevOps Will Immediately Change Your business](https://dev.to/kanishedureka/5-methods-devops-will-immediately-change-your-business-3bo5)
+- [Dev.to/JS] [Quickly add role-based access control &lpar;RBAC&rpar; to a blog dashboard in Nuxt.js](https://dev.to/hackmamba/quickly-add-role-based-access-control-rbac-to-a-blog-dashboard-in-nuxtjs-3bbk)
+- [Dev.to/JS] [Array Or Object In JavaScript language.](https://dev.to/anateotfw/array-or-object-in-javascript-language-1i6n)
 - [Dev.to/JS] [Neurodrine - Brain Booster Benefits, Reviews, Uses And Results?](https://dev.to/neurodrineinfo1/neurodrine-brain-booster-benefits-reviews-uses-and-results-29p)
 - [Dev.to/JS] [Easy and Clean Way to Use Fastest-Validator in Your Express.js App](https://dev.to/augustae/easy-and-clean-way-to-use-fastest-validator-in-your-expressjs-app-3npp)
 - [Dev.to/JS] [Officially quieting Dev.to !!](https://dev.to/rajeshkhadka/officially-quieting-devto--1okk)
@@ -31,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Steps to Becoming a Successful Open Source Contributor as a Beginner](https://dev.to/graciousdev/5-steps-to-becoming-a-successful-open-source-contributor-as-a-beginner-4lic)
 - [Dev.to/JS] [11 Tips That Make You a Better Typescript Programmer](https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1)
 - [Dev.to/JS] [Boiling Boulders](https://dev.to/rmion/boiling-boulders-jl5)
-- [Dev.to/JS] [If/else statements in JavaScript](https://dev.to/patricklcarrera/ifelse-statements-in-javascript-50b0)
-- [Dev.to/JS] [Building a MacOS Clone in TypeScript React 🍏](https://dev.to/gianlucajahn/macos-clone-in-typescript-react-ji5)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
-- [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 02 - useEffect⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-02-useeffect-34di)
 - [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
-- [Dev.to/JS] [Fetch Statements](https://dev.to/turbodiesel92/fetch-statements-4g8n)
 - [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)
 - [Lifehacker] [Where to Get $400 Worth of Xbox Gift Cards for Only $320](https://lifehacker.com/where-to-get-400-worth-of-xbox-gift-cards-for-only-32-1849924399)
 - [Lifehacker] [Make Mini Yule Logs From a Box of HoHos](https://lifehacker.com/make-mini-yule-logs-from-a-box-of-hohos-1849923463)
