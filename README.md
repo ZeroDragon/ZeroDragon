@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a MacOS Clone in TypeScript React 🍏](https://dev.to/gianlucajahn/macos-clone-in-typescript-react-ji5)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
 - [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 02 - useEffect⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-02-useeffect-34di)
 - [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
@@ -32,7 +33,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pyroclastic Flow](https://dev.to/rmion/pyroclastic-flow-3lc7)
 - [Lifehacker] [Where to Get $400 Worth of Xbox Gift Cards for Only $320](https://lifehacker.com/where-to-get-400-worth-of-xbox-gift-cards-for-only-32-1849924399)
 - [Dev.to/JS] [Why you should learn react](https://dev.to/simonayo/why-you-should-learn-react-41hi)
-- [Dev.to/JS] [Add Snow to Your Website with Snowify: A Simple JS Library](https://dev.to/gauravkrp/add-snow-to-your-website-with-snowify-a-simple-js-library-29k4)
+- [Dev.to/JS] [Add Snow to Your Website with Snowify: 2 lines of JavaScript](https://dev.to/gauravkrp/add-snow-to-your-website-with-snowify-a-simple-js-library-29k4)
 - [Dev.to/JS] [Higher Order Functions in JavaScript](https://dev.to/basskibo/higher-order-functions-in-javascript-2bj8)
 - [Dev.to/JS] [How much JavaScript to create a project...](https://dev.to/bena1998/how-much-javascript-to-create-a-project-473c)
 - [Lifehacker] [Make Mini Yule Logs From a Box of HoHos](https://lifehacker.com/make-mini-yule-logs-from-a-box-of-hohos-1849923463)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pagination Concept using JavaScript](https://dev.to/mayankkashyap681/pagination-concept-using-javascript-5coo)
 - [Lifehacker] [How to Stop Your Toilet Brush From Dripping Everywhere](https://lifehacker.com/how-to-stop-your-toilet-brush-from-dripping-everywhere-1849923532)
 - [Dev.to/JS] [A Brief History of Javascript](https://dev.to/techthatconnect/a-brief-history-of-javascript-1eb5)
-- [Dev.to/JS] [Socket.io and NodeJS Chat Application Tutorial](https://dev.to/alakkadshaw/socketio-and-nodejs-chat-application-tutorial-2p38)
 - [Lifehacker] [8 of Lifehacker&#39;s Best Personal Finance Hacks in 2022](https://lifehacker.com/8-of-lifehackers-best-personal-finance-hacks-in-2022-1849922761)
 - [Lifehacker] [10 of Lifehacker’s Favorite Home Safety Tips of 2022](https://lifehacker.com/10-of-lifehacker-s-favorite-home-safety-tips-of-2022-1849923686)
 - [Lifehacker] [How to Get McDonald’s Double Cheeseburgers for 50 Cents Right Now](https://lifehacker.com/how-to-get-mcdonald-s-double-cheeseburgers-for-50-cents-1849923216)
