@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro To The [ngSwitch] Directive](https://dev.to/blamb31/intro-to-the-ngswitch-directive-23bm)
+- [Dev.to/JS] [JavaScript Fundamentals: String Manipulation](https://dev.to/astrodevil/javascript-fundamentals-string-manipulation-240m)
+- [Dev.to/JS] [Tablas vs Cards](https://dev.to/manuemorales/tablas-vs-cards-c53)
 - [Dev.to/JS] [20 JavaScript Tricks for Improved Code Efficiency](https://dev.to/mradamus/20-javascript-tricks-for-improved-code-efficiency-32oi)
 - [Dev.to/JS] [How to use Animations &amp; Transitions in Tailwindcss](https://dev.to/guillaumeduhan/how-to-use-animations-transitions-in-tailwindcss-1iam)
 - [Dev.to/JS] [SvelteKit 1.0 Overview](https://dev.to/ahmed_onour/sveltekit-10-overview-1nac)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimize your data fetching with React Query ⚛️](https://dev.to/christopherkade/introduction-to-react-query-in-2023-537)
 - [Dev.to/JS] [Scopes](https://dev.to/shawnsmith24/scoping-out-the-programscopes-1if0)
 - [Lifehacker] [Where to Get Emergency Ice on Christmas Day](https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036)
-- [Dev.to/JS] [Creating a draggable element with limits and smooth animations using Framer-Motion](https://dev.to/ayka_code/creating-a-draggable-element-with-limits-and-smooth-animations-using-framer-motion-2cki)
-- [Dev.to/JS] [To SQL or to NoSQL &lpar;with a simple NoSQL Example&rpar;](https://dev.to/rickdelpo1/to-sql-or-to-nosql-with-a-simple-nosql-example-2ime)
-- [Dev.to/JS] [ASSIGMENT](https://dev.to/charos1mm/assigment-3l1j)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
 - [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
 - [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)
