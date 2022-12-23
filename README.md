@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get the length of object in JavaScript](https://dev.to/moibra/how-to-get-the-length-of-map-in-javascript-5aj5)
 - [Dev.to/JS] [Here is a general roadmap for learning web development](https://dev.to/gilbertkitetu/here-is-a-general-roadmap-for-learning-web-development-27mc)
 - [Dev.to/JS] [Pagination in Strapi using GraphQL](https://dev.to/strapi/pagination-in-strapi-using-graphql-172g)
 - [Dev.to/JS] [thanks to all](https://dev.to/chingamaxwell/thanks-to-all-520)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
 - [Dev.to/JS] [Episode 22/50: Angular Gaming Show, Ryan Carniato learning Angular](https://dev.to/ng_news/episode-2250-angular-gaming-show-ryan-carniato-learning-angular-4lhn)
 - [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
-- [Dev.to/JS] [เล่นแร่แปรวิญญาณภาค 2 Alchemy Of Souls ภาค 2 ตอนเต็ม EP 5 ไทยออนไลน์ แบบย้อนหลัง พากย์](https://dev.to/alchemyofsouls2ep5thaitv/elnaeraeprwiyyaanphaakh-2-alchemy-of-souls-phaakh-2-tnetm-ep-5-aithynailn-aebbynhlang-phaaky-536i)
 - [Lifehacker] [Where to Get Emergency Ice on Christmas Day](https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
 - [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
