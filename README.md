@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Announcing gluestack - Open source framework to build full-stack apps faster.](https://dev.to/aswathyanil17/announcing-gluestack-open-source-framework-to-build-full-stack-apps-faster-527l)
+- [Dev.to/JS] [Why React.js is So Popular ?](https://dev.to/jagroop2000/why-reactjs-is-so-popular--51ho)
+- [Dev.to/JS] [Build and Deploy Your Own ChatGPT AI App in JavaScript](https://dev.to/codeswithrocky/build-and-deploy-your-own-chatgpt-ai-app-in-javascript-opf)
+- [Dev.to/JS] [Flipping Card with CSS and Javascript](https://dev.to/shubhamtiwari909/flipping-card-with-css-and-javascript-2182)
+- [Dev.to/JS] [tsParticles 2.7.0 Released](https://dev.to/tsparticles/tsparticles-270-released-2g3m)
 - [Dev.to/JS] [2022 Review](https://dev.to/csheba/tech-journey-51ce)
 - [Dev.to/JS] [GET, POST, PUT and DELETE Todos from the database using MongoDB](https://dev.to/aneeqakhan/create-get-update-and-delete-todos-from-the-database-using-mongodb-1hbl)
 - [Dev.to/JS] [React - Error Boundaries](https://dev.to/vivekalhat/react-error-boundaries-16j5)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Advanced Concepts: How to Use Utility Types Like a Pro](https://dev.to/devsmitra/typescript-advanced-concepts-how-to-use-utility-types-like-a-pro-5bl0)
 - [Dev.to/JS] [How to Generate and Use an SSL Certificate in Node.js](https://dev.to/devland/how-to-generate-and-use-an-ssl-certificate-in-nodejs-2996)
 - [Dev.to/JS] [From Notion to Eleventy, but faster](https://dev.to/iamschulz/from-notion-to-eleventy-but-faster-3848)
-- [Dev.to/JS] [Typescript WTF Moments 10: The Special Case: T[] extends B[]](https://dev.to/tylim88/typescript-wtf-moments-the-special-case-t-extends-b-215o)
-- [Dev.to/JS] [5 Methods DevOps Will Immediately Change Your business](https://dev.to/kanishedureka/5-methods-devops-will-immediately-change-your-business-3bo5)
-- [Dev.to/JS] [Quickly add role-based access control &lpar;RBAC&rpar; to a blog dashboard in Nuxt.js](https://dev.to/hackmamba/quickly-add-role-based-access-control-rbac-to-a-blog-dashboard-in-nuxtjs-3bbk)
-- [Dev.to/JS] [Array Or Object In JavaScript language.](https://dev.to/anateotfw/array-or-object-in-javascript-language-1i6n)
-- [Dev.to/JS] [Neurodrine - Brain Booster Benefits, Reviews, Uses And Results?](https://dev.to/neurodrineinfo1/neurodrine-brain-booster-benefits-reviews-uses-and-results-29p)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
 - [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
 - [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)
