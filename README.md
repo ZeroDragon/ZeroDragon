@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
+- [Dev.to/JS] [เล่นแร่แปรวิญญาณภาค 2 Alchemy Of Souls ภาค 2 ตอนเต็ม EP 5 ไทยออนไลน์ แบบย้อนหลัง พากย์](https://dev.to/alchemyofsouls2ep5thaitv/elnaeraeprwiyyaanphaakh-2-alchemy-of-souls-phaakh-2-tnetm-ep-5-aithynailn-aebbynhlang-phaaky-536i)
+- [Dev.to/JS] [2.48 - Fully Passwordless Authentication with Passage](https://dev.to/codingcatdev/248-fully-passwordless-authentication-with-passage-23ce)
+- [Dev.to/JS] [Introduction to React Query in 2023 ⚛️](https://dev.to/christopherkade/introduction-to-react-query-in-2023-537)
+- [Dev.to/JS] [Scoping out the program&lpar;Scopes&rpar;](https://dev.to/shawnsmith24/scoping-out-the-programscopes-1if0)
 - [Lifehacker] [Where to Get Emergency Ice on Christmas Day](https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036)
+- [Dev.to/JS] [Creating a draggable element with limits and smooth animations using Framer-Motion](https://dev.to/ayka_code/creating-a-draggable-element-with-limits-and-smooth-animations-using-framer-motion-2cki)
 - [Dev.to/JS] [To SQL or to NoSQL &lpar;with a simple NoSQL Example&rpar;](https://dev.to/rickdelpo1/to-sql-or-to-nosql-with-a-simple-nosql-example-2ime)
 - [Dev.to/JS] [ASSIGMENT](https://dev.to/charos1mm/assigment-3l1j)
 - [Dev.to/JS] [Announcing gluestack - Open source framework to build full-stack apps faster.](https://dev.to/aswathyanil17/announcing-gluestack-open-source-framework-to-build-full-stack-apps-faster-527l)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build and Deploy Your Own ChatGPT AI App in JavaScript](https://dev.to/codeswithrocky/build-and-deploy-your-own-chatgpt-ai-app-in-javascript-opf)
 - [Dev.to/JS] [Flipping Card with CSS and Javascript](https://dev.to/shubhamtiwari909/flipping-card-with-css-and-javascript-2182)
 - [Dev.to/JS] [tsParticles 2.7.0 Released](https://dev.to/tsparticles/tsparticles-270-released-2g3m)
-- [Dev.to/JS] [2022 Review](https://dev.to/csheba/tech-journey-51ce)
-- [Dev.to/JS] [GET, POST, PUT and DELETE Todos from the database using MongoDB](https://dev.to/aneeqakhan/create-get-update-and-delete-todos-from-the-database-using-mongodb-1hbl)
-- [Dev.to/JS] [React - Error Boundaries](https://dev.to/vivekalhat/react-error-boundaries-16j5)
-- [Dev.to/JS] [How to import or use js file configuration into any vue page in your nuxt app](https://dev.to/nonciok89/how-to-import-or-use-js-file-configuration-into-any-vue-page-in-your-nuxt-app-2he3)
-- [Dev.to/JS] [TypeScript Advanced Concepts: How to Use Utility Types Like a Pro](https://dev.to/devsmitra/typescript-advanced-concepts-how-to-use-utility-types-like-a-pro-5bl0)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
 - [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
 - [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Flipping Your Pancakes Too Hard](https://lifehacker.com/youre-flipping-your-pancakes-too-hard-1849919013)
 - [Lifehacker] [8 Myths About Christmas That Some People Really Believe](https://lifehacker.com/8-myths-about-christmas-that-some-people-really-believe-1849916899)
 - [Lifehacker] [What&#39;s New on Netflix in January 2023](https://lifehacker.com/whats-new-on-netflix-in-january-2023-1849919201)
-- [Lifehacker] [16 of the Best Memes From 2022 That You&#39;ve Already Forgotten](https://lifehacker.com/16-of-the-best-memes-from-2022-that-youve-already-forgo-1849917713)
-- [Lifehacker] [Seven Ways to Speed Up Your Old Android](https://lifehacker.com/seven-ways-to-speed-up-your-old-android-1849918015)<!-- TECH-POSTS:END -->
+- [Lifehacker] [16 of the Best Memes From 2022 That You&#39;ve Already Forgotten](https://lifehacker.com/16-of-the-best-memes-from-2022-that-youve-already-forgo-1849917713)<!-- TECH-POSTS:END -->
 
 ---
 
