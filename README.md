@@ -23,20 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [20 JavaScript Tricks for Improved Code Efficiency](https://dev.to/mradamus/20-javascript-tricks-for-improved-code-efficiency-32oi)
+- [Dev.to/JS] [How to use Animations &amp; Transitions in Tailwindcss](https://dev.to/guillaumeduhan/how-to-use-animations-transitions-in-tailwindcss-1iam)
 - [Dev.to/JS] [SvelteKit 1.0 Overview](https://dev.to/ahmed_onour/sveltekit-10-overview-1nac)
+- [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
 - [Dev.to/JS] [Episode 22/50: Angular Gaming Show, Ryan Carniato learning Angular](https://dev.to/ng_news/episode-2250-angular-gaming-show-ryan-carniato-learning-angular-4lhn)
 - [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
 - [Dev.to/JS] [เล่นแร่แปรวิญญาณภาค 2 Alchemy Of Souls ภาค 2 ตอนเต็ม EP 5 ไทยออนไลน์ แบบย้อนหลัง พากย์](https://dev.to/alchemyofsouls2ep5thaitv/elnaeraeprwiyyaanphaakh-2-alchemy-of-souls-phaakh-2-tnetm-ep-5-aithynailn-aebbynhlang-phaaky-536i)
 - [Dev.to/JS] [2.48 - Fully Passwordless Authentication with Passage](https://dev.to/codingcatdev/248-fully-passwordless-authentication-with-passage-23ce)
 - [Dev.to/JS] [From Brendan Eich&#39;s Heroic Decision to the Modern Web: The Evolution of JavaScript](https://dev.to/mezbahalam/from-brendan-eichs-heroic-decision-to-the-modern-web-the-evolution-of-javascript-4pig)
-- [Dev.to/JS] [Introduction to React Query in 2023 ⚛️](https://dev.to/christopherkade/introduction-to-react-query-in-2023-537)
+- [Dev.to/JS] [Optimize your data fetching with React Query ⚛️](https://dev.to/christopherkade/introduction-to-react-query-in-2023-537)
 - [Dev.to/JS] [Scopes](https://dev.to/shawnsmith24/scoping-out-the-programscopes-1if0)
 - [Lifehacker] [Where to Get Emergency Ice on Christmas Day](https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036)
 - [Dev.to/JS] [Creating a draggable element with limits and smooth animations using Framer-Motion](https://dev.to/ayka_code/creating-a-draggable-element-with-limits-and-smooth-animations-using-framer-motion-2cki)
 - [Dev.to/JS] [To SQL or to NoSQL &lpar;with a simple NoSQL Example&rpar;](https://dev.to/rickdelpo1/to-sql-or-to-nosql-with-a-simple-nosql-example-2ime)
 - [Dev.to/JS] [ASSIGMENT](https://dev.to/charos1mm/assigment-3l1j)
-- [Dev.to/JS] [Announcing gluestack - Open source framework to build full-stack apps faster.](https://dev.to/aswathyanil17/announcing-gluestack-open-source-framework-to-build-full-stack-apps-faster-527l)
-- [Dev.to/JS] [Why React.js is So Popular ?](https://dev.to/jagroop2000/why-reactjs-is-so-popular--51ho)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
 - [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
 - [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)
 - [Lifehacker] [You&#39;re Flipping Your Pancakes Too Hard](https://lifehacker.com/youre-flipping-your-pancakes-too-hard-1849919013)
 - [Lifehacker] [8 Myths About Christmas That Some People Really Believe](https://lifehacker.com/8-myths-about-christmas-that-some-people-really-believe-1849916899)
-- [Lifehacker] [What&#39;s New on Netflix in January 2023](https://lifehacker.com/whats-new-on-netflix-in-january-2023-1849919201)
-- [Lifehacker] [16 of the Best Memes From 2022 That You&#39;ve Already Forgotten](https://lifehacker.com/16-of-the-best-memes-from-2022-that-youve-already-forgo-1849917713)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in January 2023](https://lifehacker.com/whats-new-on-netflix-in-january-2023-1849919201)<!-- TECH-POSTS:END -->
 
 ---
 
