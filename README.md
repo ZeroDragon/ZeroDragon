@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [If/else statements in JavaScript](https://dev.to/patricklcarrera/ifelse-statements-in-javascript-50b0)
 - [Dev.to/JS] [Building a MacOS Clone in TypeScript React 🍏](https://dev.to/gianlucajahn/macos-clone-in-typescript-react-ji5)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
 - [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 02 - useEffect⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-02-useeffect-34di)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What field to switch to after a couple of years of full stack web development?](https://dev.to/lacexd/what-field-to-switch-to-after-a-couple-of-years-of-full-stack-web-development-10c0)
 - [Dev.to/JS] [Pagination Concept using JavaScript](https://dev.to/mayankkashyap681/pagination-concept-using-javascript-5coo)
 - [Lifehacker] [How to Stop Your Toilet Brush From Dripping Everywhere](https://lifehacker.com/how-to-stop-your-toilet-brush-from-dripping-everywhere-1849923532)
-- [Dev.to/JS] [A Brief History of Javascript](https://dev.to/techthatconnect/a-brief-history-of-javascript-1eb5)
 - [Lifehacker] [8 of Lifehacker&#39;s Best Personal Finance Hacks in 2022](https://lifehacker.com/8-of-lifehackers-best-personal-finance-hacks-in-2022-1849922761)
 - [Lifehacker] [10 of Lifehacker’s Favorite Home Safety Tips of 2022](https://lifehacker.com/10-of-lifehacker-s-favorite-home-safety-tips-of-2022-1849923686)
 - [Lifehacker] [How to Get McDonald’s Double Cheeseburgers for 50 Cents Right Now](https://lifehacker.com/how-to-get-mcdonald-s-double-cheeseburgers-for-50-cents-1849923216)
