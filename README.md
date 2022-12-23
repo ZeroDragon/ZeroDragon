@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Here is a general roadmap for learning web development](https://dev.to/gilbertkitetu/here-is-a-general-roadmap-for-learning-web-development-27mc)
+- [Dev.to/JS] [Pagination in Strapi using GraphQL](https://dev.to/strapi/pagination-in-strapi-using-graphql-172g)
+- [Dev.to/JS] [thanks to all](https://dev.to/chingamaxwell/thanks-to-all-520)
+- [Dev.to/JS] [Earn free badge on GitHub](https://dev.to/b1bxonty/earn-free-badge-on-github-1gek)
 - [Dev.to/JS] [Intro To The [ngSwitch] Directive](https://dev.to/blamb31/intro-to-the-ngswitch-directive-23bm)
+- [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Dev.to/JS] [JavaScript Fundamentals: String Manipulation](https://dev.to/astrodevil/javascript-fundamentals-string-manipulation-240m)
 - [Dev.to/JS] [Tablas vs Cards](https://dev.to/manuemorales/tablas-vs-cards-c53)
 - [Dev.to/JS] [20 JavaScript Tricks for Improved Code Efficiency](https://dev.to/mradamus/20-javascript-tricks-for-improved-code-efficiency-32oi)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Episode 22/50: Angular Gaming Show, Ryan Carniato learning Angular](https://dev.to/ng_news/episode-2250-angular-gaming-show-ryan-carniato-learning-angular-4lhn)
 - [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
 - [Dev.to/JS] [เล่นแร่แปรวิญญาณภาค 2 Alchemy Of Souls ภาค 2 ตอนเต็ม EP 5 ไทยออนไลน์ แบบย้อนหลัง พากย์](https://dev.to/alchemyofsouls2ep5thaitv/elnaeraeprwiyyaanphaakh-2-alchemy-of-souls-phaakh-2-tnetm-ep-5-aithynailn-aebbynhlang-phaaky-536i)
-- [Dev.to/JS] [2.48 - Fully Passwordless Authentication with Passage](https://dev.to/codingcatdev/248-fully-passwordless-authentication-with-passage-23ce)
-- [Dev.to/JS] [From Brendan Eich&#39;s Heroic Decision to the Modern Web: The Evolution of JavaScript](https://dev.to/mezbahalam/from-brendan-eichs-heroic-decision-to-the-modern-web-the-evolution-of-javascript-4pig)
-- [Dev.to/JS] [Optimize your data fetching with React Query ⚛️](https://dev.to/christopherkade/introduction-to-react-query-in-2023-537)
-- [Dev.to/JS] [Scopes](https://dev.to/shawnsmith24/scoping-out-the-programscopes-1if0)
 - [Lifehacker] [Where to Get Emergency Ice on Christmas Day](https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
 - [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
 - [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)
 - [Lifehacker] [You&#39;re Flipping Your Pancakes Too Hard](https://lifehacker.com/youre-flipping-your-pancakes-too-hard-1849919013)
-- [Lifehacker] [8 Myths About Christmas That Some People Really Believe](https://lifehacker.com/8-myths-about-christmas-that-some-people-really-believe-1849916899)
-- [Lifehacker] [What&#39;s New on Netflix in January 2023](https://lifehacker.com/whats-new-on-netflix-in-january-2023-1849919201)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 Myths About Christmas That Some People Really Believe](https://lifehacker.com/8-myths-about-christmas-that-some-people-really-believe-1849916899)<!-- TECH-POSTS:END -->
 
 ---
 
