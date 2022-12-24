@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New Year Countdown Using JavaScript](https://dev.to/nabinbhatt/new-year-countdown-using-javascript-2eoi)
+- [Dev.to/JS] [Introduction of HTML](https://dev.to/nitjsr12/introduction-of-html-36ho)
 - [Dev.to/JS] [Roadmap of web development](https://dev.to/nitjsr12/roadmap-of-web-development-3e7d)
 - [Dev.to/JS] [Customizing chrome dev tools as we customize our code editor](https://dev.to/shihab91/customizing-chrome-dev-tools-as-we-customize-our-code-editor-1j8p)
 - [Dev.to/JS] [React Date Range Picker](https://dev.to/nasreenkhalid/react-date-range-picker-1m1c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [table: improve moving column UI &amp; UX &lpar;2&rpar;](https://dev.to/gohomewho/table-improve-moving-column-ui-ux-2-1gl6)
 - [Dev.to/JS] [Local storage and Session storage and useful tips for debugging in Chrome](https://dev.to/mohsenkamrani/local-storage-and-session-storage-and-useful-tips-for-debugging-in-chrome-3588)
 - [Dev.to/JS] [Typescript WTF Moments 11: Function Unions: any Param Is Not any](https://dev.to/tylim88/typescript-wtf-moments-11-function-unions-any-param-is-not-any-5fg)
-- [Dev.to/JS] [The JavaScript `String.trim&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-stringtrim-method-explained-4b61)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;24-12-2022&rpar; - Happy Christmas Edition](https://dev.to/mjgs/this-weeks-newsletter-is-out-24-12-2022-happy-christmas-5bd1)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
