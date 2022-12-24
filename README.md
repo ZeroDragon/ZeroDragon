@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do I need TypeScript?](https://dev.to/documatic/do-i-need-typescript-4n49)
+- [Dev.to/JS] [Functional Programming - Javascript](https://dev.to/shavidze/functional-programming-javascript-3daa)
 - [Dev.to/JS] [Mapbox Geocoding, Directions integration with React Native Mapbox](https://dev.to/ajmal_hasan/mapbox-geocoding-directions-integration-with-react-native-mapbox-49i6)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Dev.to/JS] [const a = [ ] is not an array?! 😱](https://dev.to/bhaveek424/const-a-is-not-an-array-3obb)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PyScript: Second Impressions](https://dev.to/taw/pyscript-second-impressions-12e5)
 - [Dev.to/JS] [PageSpeed vs. Real User Monitoring: What&#39;s the Difference?](https://dev.to/_nill_/pagespeed-vs-real-user-monitoring-whats-the-difference-5flo)
 - [Dev.to/JS] [Merry Christmas Developers!](https://dev.to/ecaterinateodo3/merry-christmas-developers-1p60)
-- [Dev.to/JS] [Refactoring. TS Types.](https://dev.to/dnim/refactoring-ts-types-4hob)
-- [Dev.to/JS] [ดู-&lpar;Between Us&rpar; เชือกป่าน EP8 ซีรี่ย์ออนไลน์ ซีรี่ย์ ฟรี!](https://dev.to/betweenusep8thai/duu-between-us-echuuekpaan-ep8-chiiriiynailn-chiiriiy-frii-eim)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
