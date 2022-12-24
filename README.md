@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [const a = [ ] is not an array?! 😱](https://dev.to/bhaveek424/const-a-is-not-an-array-3obb)
+- [Dev.to/JS] [Code refactoring](https://dev.to/amarachi_maduforo_371ff51/code-refactoring-4ndn)
+- [Dev.to/JS] [How to Find Duplicate Elements in a Given Array?](https://dev.to/patelrohan750/how-to-find-duplicate-elements-in-a-given-array-5dda)
+- [Dev.to/JS] [How to Find The Count of Duplicates in an Array?](https://dev.to/patelrohan750/how-to-find-the-count-of-duplicates-in-an-array-3c9n)
+- [Dev.to/JS] [Slidebar from mini-sidebar](https://dev.to/tawsifxd/slidebar-from-mini-sidebar-3fel)
+- [Dev.to/JS] [Building a Counter App with React](https://dev.to/darkerarcher/building-a-counter-app-with-react-9oh)
+- [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
 - [Dev.to/JS] [PyScript: Second Impressions](https://dev.to/taw/pyscript-second-impressions-12e5)
 - [Dev.to/JS] [PageSpeed vs. Real User Monitoring: What&#39;s the Difference?](https://dev.to/_nill_/pagespeed-vs-real-user-monitoring-whats-the-difference-5flo)
 - [Dev.to/JS] [Merry Christmas Developers!](https://dev.to/ecaterinateodo3/merry-christmas-developers-1p60)
 - [Dev.to/JS] [Refactoring. TS Types.](https://dev.to/dnim/refactoring-ts-types-4hob)
 - [Dev.to/JS] [ดู-&lpar;Between Us&rpar; เชือกป่าน EP8 ซีรี่ย์ออนไลน์ ซีรี่ย์ ฟรี!](https://dev.to/betweenusep8thai/duu-between-us-echuuekpaan-ep8-chiiriiynailn-chiiriiy-frii-eim)
 - [Dev.to/JS] [Staircase problem in JS](https://dev.to/binarysingh/staircase-problem-in-js-42kh)
-- [Dev.to/JS] [New Year Countdown Using JavaScript](https://dev.to/nabinbhatt/new-year-countdown-using-javascript-2eoi)
-- [Dev.to/JS] [Introduction of HTML](https://dev.to/nitjsr12/introduction-of-html-36ho)
-- [Dev.to/JS] [Roadmap of web development](https://dev.to/nitjsr12/roadmap-of-web-development-3e7d)
-- [Dev.to/JS] [Customizing chrome dev tools as we customize our code editor](https://dev.to/shihab91/customizing-chrome-dev-tools-as-we-customize-our-code-editor-1j8p)
-- [Dev.to/JS] [React Date Range Picker](https://dev.to/nasreenkhalid/react-date-range-picker-1m1c)
-- [Dev.to/JS] [How to build a todo app with search functionality with React with CSS](https://dev.to/yemiklein/how-to-build-a-todo-app-with-search-functionality-with-react-with-css-1ol6)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
 - [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
-- [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)
-- [Lifehacker] [You&#39;re Flipping Your Pancakes Too Hard](https://lifehacker.com/youre-flipping-your-pancakes-too-hard-1849919013)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)<!-- TECH-POSTS:END -->
 
 ---
 
