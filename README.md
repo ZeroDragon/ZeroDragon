@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Useful High Order Functions in JavaScript](https://dev.to/ksowah/useful-high-order-functions-in-javascript-4dl4)
 - [Dev.to/JS] [WHY ETHEREUM ALWAYS WINS!](https://dev.to/ayaaneth/why-ethereum-always-wins-1ne9)
 - [Dev.to/JS] [Iterando sobre arrays](https://dev.to/lucaswll/iterando-sobre-arrays-59d6)
 - [Dev.to/JS] [Angular CLI - Quick Guide](https://dev.to/omerko96/angular-cli-quick-guide-59lg)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Earn free badge on GitHub](https://dev.to/b1bxonty/earn-free-badge-on-github-1gek)
 - [Dev.to/JS] [Intro To The [ngSwitch] Directive](https://dev.to/blamb31/intro-to-the-ngswitch-directive-23bm)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
-- [Dev.to/JS] [JavaScript Fundamentals: String Manipulation](https://dev.to/astrodevil/javascript-fundamentals-string-manipulation-240m)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
 - [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
 - [Lifehacker] [Where to Get Emergency Ice on Christmas Day](https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036)
