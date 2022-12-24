@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ดูซีรีย์เกาหลี Reborn Rich ตอนที่ 16 ซับไทย THAI-DUB &lpar;FINALE&rpar;](https://dev.to/rebornrichfullep16thaidub/duuchiiriiyekaahlii-reborn-rich-tnthii-16-chabaithy-thai-dub-finale-5bl1)
+- [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 03 - useContext⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-03-usecontext-469f)
 - [Dev.to/JS] [Not Enough Minerals](https://dev.to/rmion/not-enough-minerals-4c3e)
 - [Dev.to/JS] [Creating a New Nuxt 3 Application with Pinia and TailwindCSS](https://dev.to/detwiler_amy/creating-a-new-nuxt-3-application-with-pinia-and-tailwindcss-5938)
 - [Dev.to/JS] [Useful High Order Functions in JavaScript](https://dev.to/ksowah/useful-high-order-functions-in-javascript-4dl4)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Dev.to/JS] [How to get the length of object in JavaScript](https://dev.to/moibra/how-to-get-the-length-of-map-in-javascript-5aj5)
 - [Dev.to/JS] [Here is a general roadmap for learning web development](https://dev.to/gilbertkitetu/here-is-a-general-roadmap-for-learning-web-development-27mc)
-- [Dev.to/JS] [Pagination in Strapi using GraphQL](https://dev.to/strapi/pagination-in-strapi-using-graphql-172g)
-- [Dev.to/JS] [thanks to all](https://dev.to/chingamaxwell/thanks-to-all-520)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
 - [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
