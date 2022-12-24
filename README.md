@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Santa Claus Can&#39;t Inherit from Human: A Festive OOP Lesson](https://dev.to/noriller/why-santa-claus-cant-inherit-from-human-a-festive-oop-lesson-3n34)
+- [Dev.to/JS] [LeetCode - Longest Consecutive Subsequence](https://dev.to/_alkesh26/leetcode-longest-consecutive-subsequence-69k)
+- [Dev.to/JS] [The Collab Lab TCL-50 recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-50-recap-2gob)
+- [Dev.to/JS] [React without JSX](https://dev.to/abhionly009/react-without-jsx-3g1)
+- [Dev.to/JS] [React Error Boundaries at the Route Level](https://dev.to/franciscomendes10866/react-error-boundaries-at-the-route-level-1cn0)
+- [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Dev.to/JS] [Do I need TypeScript?](https://dev.to/documatic/do-i-need-typescript-4n49)
 - [Dev.to/JS] [Functional Programming - Javascript](https://dev.to/shavidze/functional-programming-javascript-3daa)
 - [Dev.to/JS] [Mapbox Geocoding, Directions integration with React Native Mapbox](https://dev.to/ajmal_hasan/mapbox-geocoding-directions-integration-with-react-native-mapbox-49i6)
@@ -31,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code refactoring](https://dev.to/amarachi_maduforo_371ff51/code-refactoring-4ndn)
 - [Dev.to/JS] [How to Find Duplicate Elements in a Given Array?](https://dev.to/patelrohan750/how-to-find-duplicate-elements-in-a-given-array-5dda)
 - [Dev.to/JS] [How to Find The Count of Duplicates in an Array?](https://dev.to/patelrohan750/how-to-find-the-count-of-duplicates-in-an-array-3c9n)
-- [Dev.to/JS] [Slidebar from mini-sidebar](https://dev.to/tawsifxd/slidebar-from-mini-sidebar-3fel)
-- [Dev.to/JS] [Building a Counter App with React](https://dev.to/darkerarcher/building-a-counter-app-with-react-9oh)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
-- [Dev.to/JS] [PyScript: Second Impressions](https://dev.to/taw/pyscript-second-impressions-12e5)
-- [Dev.to/JS] [PageSpeed vs. Real User Monitoring: What&#39;s the Difference?](https://dev.to/_nill_/pagespeed-vs-real-user-monitoring-whats-the-difference-5flo)
-- [Dev.to/JS] [Merry Christmas Developers!](https://dev.to/ecaterinateodo3/merry-christmas-developers-1p60)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)
 - [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
-- [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
-- [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)<!-- TECH-POSTS:END -->
 
 ---
 
