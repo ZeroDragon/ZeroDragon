@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Prototype: Prototype Chain and Shadowing](https://dev.to/jessewei/javascript-prototype-prototype-chain-and-shadowing-3oe2)
+- [Dev.to/JS] [table: improve moving column UI &amp; UX &lpar;2&rpar;](https://dev.to/gohomewho/table-improve-moving-column-ui-ux-2-1gl6)
+- [Dev.to/JS] [Local storage and Session storage and useful tips for debugging in Chrome](https://dev.to/mohsenkamrani/local-storage-and-session-storage-and-useful-tips-for-debugging-in-chrome-3588)
+- [Dev.to/JS] [Typescript WTF Moments 11: Function Unions: any Param Is Not any](https://dev.to/tylim88/typescript-wtf-moments-11-function-unions-any-param-is-not-any-5fg)
 - [Dev.to/JS] [The JavaScript `String.trim&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-stringtrim-method-explained-4b61)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;24-12-2022&rpar; - Happy Christmas Edition](https://dev.to/mjgs/this-weeks-newsletter-is-out-24-12-2022-happy-christmas-5bd1)
 - [Dev.to/JS] [Ikaria Lean Belly Juice - Fat Loss Solution, Reviews, Uses And Results?](https://dev.to/ikarialeanbel11/ikaria-lean-belly-juice-fat-loss-solution-reviews-uses-and-results-1dh9)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sign out of all tabs if logged out from one - Angular &amp; Storage Events](https://dev.to/shrihari/sign-out-of-all-tabs-if-logged-out-from-one-angular-storage-events-5cdf)
 - [Dev.to/JS] [React Configuration Preview!](https://dev.to/webjose/react-configuration-preview-11oh)
 - [Dev.to/JS] [ดู-หนัง Avatar 2 &lpar;อวตาร 2 วิถีแห่งสายน้ำ&rpar; 2022 เต็ม เรื่อง พากย์ ไทย ดูหนังออนไลน์VFX](https://dev.to/avatar2thaisubvsx/duu-hnang-avatar-2-wtaar-2-withiiaehngsaaynam-2022-etm-eruueng-phaaky-aithy-duuhnangnailnvfx-3ed2)
-- [Dev.to/JS] [Creating a simple search site](https://dev.to/melissaajohnson/creating-a-simple-search-site-hlm)
-- [Dev.to/JS] [アバター 2 日 浦 フルムービーオンラインで見る|AVATAR 2-4K-JP](https://dev.to/avatar2jpsub/abata-2-ri-pu-hurumubionraindejian-ruavatar-2-4k-jp-42ai)
-- [Dev.to/JS] [Reactivity in Javascript](https://dev.to/tanmoysarkar/reactivity-in-javascript-2833)
-- [Dev.to/JS] [ดูซีรีย์เกาหลี Reborn Rich ตอนที่ 16 ซับไทย THAI-DUB &lpar;FINALE&rpar;](https://dev.to/rebornrichfullep16thaidub/duuchiiriiyekaahlii-reborn-rich-tnthii-16-chabaithy-thai-dub-finale-5bl1)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
