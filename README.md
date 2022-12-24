@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PyScript: Second Impressions](https://dev.to/taw/pyscript-second-impressions-12e5)
+- [Dev.to/JS] [PageSpeed vs. Real User Monitoring: What&#39;s the Difference?](https://dev.to/_nill_/pagespeed-vs-real-user-monitoring-whats-the-difference-5flo)
+- [Dev.to/JS] [Merry Christmas Developers!](https://dev.to/ecaterinateodo3/merry-christmas-developers-1p60)
 - [Dev.to/JS] [Refactoring. TS Types.](https://dev.to/dnim/refactoring-ts-types-4hob)
 - [Dev.to/JS] [ดู-&lpar;Between Us&rpar; เชือกป่าน EP8 ซีรี่ย์ออนไลน์ ซีรี่ย์ ฟรี!](https://dev.to/betweenusep8thai/duu-between-us-echuuekpaan-ep8-chiiriiynailn-chiiriiy-frii-eim)
 - [Dev.to/JS] [Staircase problem in JS](https://dev.to/binarysingh/staircase-problem-in-js-42kh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Customizing chrome dev tools as we customize our code editor](https://dev.to/shihab91/customizing-chrome-dev-tools-as-we-customize-our-code-editor-1j8p)
 - [Dev.to/JS] [React Date Range Picker](https://dev.to/nasreenkhalid/react-date-range-picker-1m1c)
 - [Dev.to/JS] [How to build a todo app with search functionality with React with CSS](https://dev.to/yemiklein/how-to-build-a-todo-app-with-search-functionality-with-react-with-css-1ol6)
-- [Dev.to/JS] [Which is the Best programming language](https://dev.to/gilbertkitetu/which-is-the-best-programming-language-40mh)
-- [Dev.to/JS] [Configuring Absolute path in React Projects](https://dev.to/isiakaabd/configuring-absolute-path-in-react-projects-4h9o)
-- [Dev.to/JS] [Javascript Prototype: Prototype Chain and Shadowing](https://dev.to/jessewei/javascript-prototype-prototype-chain-and-shadowing-3oe2)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
