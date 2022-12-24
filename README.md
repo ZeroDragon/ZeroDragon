@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 Best Video Games For Web Developers](https://dev.to/souptikdn/8-best-video-games-for-web-developers-4jle)
+- [Dev.to/JS] [Sign out of all tabs if logged out from one - Angular &amp; Storage Events](https://dev.to/shrihari/sign-out-of-all-tabs-if-logged-out-from-one-angular-storage-events-5cdf)
+- [Dev.to/JS] [React Configuration Preview!](https://dev.to/webjose/react-configuration-preview-11oh)
 - [Dev.to/JS] [ดู-หนัง Avatar 2 &lpar;อวตาร 2 วิถีแห่งสายน้ำ&rpar; 2022 เต็ม เรื่อง พากย์ ไทย ดูหนังออนไลน์VFX](https://dev.to/avatar2thaisubvsx/duu-hnang-avatar-2-wtaar-2-withiiaehngsaaynam-2022-etm-eruueng-phaaky-aithy-duuhnangnailnvfx-3ed2)
 - [Dev.to/JS] [Creating a simple search site](https://dev.to/melissaajohnson/creating-a-simple-search-site-hlm)
 - [Dev.to/JS] [アバター 2 日 浦 フルムービーオンラインで見る|AVATAR 2-4K-JP](https://dev.to/avatar2jpsub/abata-2-ri-pu-hurumubionraindejian-ruavatar-2-4k-jp-42ai)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Not Enough Minerals](https://dev.to/rmion/not-enough-minerals-4c3e)
 - [Dev.to/JS] [Creating a New Nuxt 3 Application with Pinia and TailwindCSS](https://dev.to/detwiler_amy/creating-a-new-nuxt-3-application-with-pinia-and-tailwindcss-5938)
 - [Dev.to/JS] [Useful High Order Functions in JavaScript](https://dev.to/ksowah/useful-high-order-functions-in-javascript-4dl4)
-- [Dev.to/JS] [WHY ETHEREUM ALWAYS WINS!](https://dev.to/ayaaneth/why-ethereum-always-wins-1ne9)
-- [Dev.to/JS] [Iterando sobre arrays](https://dev.to/lucaswll/iterando-sobre-arrays-59d6)
-- [Dev.to/JS] [Angular CLI - Quick Guide](https://dev.to/omerko96/angular-cli-quick-guide-59lg)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
