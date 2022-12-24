@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Grove Positioning System](https://dev.to/rmion/grove-positioning-system-4bon)
+- [Dev.to/JS] [implement getElementsByClassName](https://dev.to/986913/implement-getelementsbyclassname-4a2g)
 - [Dev.to/JS] [ARTIFICIAL INTELLIGENCE](https://dev.to/joshgreat001/ai-cah)
 - [Dev.to/JS] [BASICS ON WEB3](https://dev.to/joshgreat001/basics-on-web3-pi3)
 - [Dev.to/JS] [Create Collapsible components using react hooks](https://dev.to/yaldram/create-collapsible-components-using-react-hooks-383k)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Error Boundaries at the Route Level](https://dev.to/franciscomendes10866/react-error-boundaries-at-the-route-level-1cn0)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Dev.to/JS] [Do I need TypeScript?](https://dev.to/documatic/do-i-need-typescript-4n49)
-- [Dev.to/JS] [Functional Programming - Javascript](https://dev.to/shavidze/functional-programming-javascript-3daa)
-- [Dev.to/JS] [Mapbox Geocoding, Directions integration with React Native Mapbox](https://dev.to/ajmal_hasan/mapbox-geocoding-directions-integration-with-react-native-mapbox-49i6)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
