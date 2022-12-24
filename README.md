@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ARTIFICIAL INTELLIGENCE](https://dev.to/joshgreat001/ai-cah)
+- [Dev.to/JS] [BASICS ON WEB3](https://dev.to/joshgreat001/basics-on-web3-pi3)
+- [Dev.to/JS] [Create Collapsible components using react hooks](https://dev.to/yaldram/create-collapsible-components-using-react-hooks-383k)
+- [Dev.to/JS] [implement getElementsByTagName](https://dev.to/986913/implement-getelementsbytagname-5fbi)
 - [Dev.to/JS] [Why Santa Claus Can&#39;t Inherit from Human: A Festive OOP Lesson](https://dev.to/noriller/why-santa-claus-cant-inherit-from-human-a-festive-oop-lesson-3n34)
 - [Dev.to/JS] [LeetCode - Longest Consecutive Subsequence](https://dev.to/_alkesh26/leetcode-longest-consecutive-subsequence-69k)
 - [Dev.to/JS] [The Collab Lab TCL-50 recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-50-recap-2gob)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functional Programming - Javascript](https://dev.to/shavidze/functional-programming-javascript-3daa)
 - [Dev.to/JS] [Mapbox Geocoding, Directions integration with React Native Mapbox](https://dev.to/ajmal_hasan/mapbox-geocoding-directions-integration-with-react-native-mapbox-49i6)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
-- [Dev.to/JS] [const a = [ ] is not an array?! 😱](https://dev.to/bhaveek424/const-a-is-not-an-array-3obb)
-- [Dev.to/JS] [Code refactoring](https://dev.to/amarachi_maduforo_371ff51/code-refactoring-4ndn)
-- [Dev.to/JS] [How to Find Duplicate Elements in a Given Array?](https://dev.to/patelrohan750/how-to-find-duplicate-elements-in-a-given-array-5dda)
-- [Dev.to/JS] [How to Find The Count of Duplicates in an Array?](https://dev.to/patelrohan750/how-to-find-the-count-of-duplicates-in-an-array-3c9n)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
