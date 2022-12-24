@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a New Nuxt 3 Application with Pinia and TailwindCSS](https://dev.to/detwiler_amy/creating-a-new-nuxt-3-application-with-pinia-and-tailwindcss-5938)
 - [Dev.to/JS] [Useful High Order Functions in JavaScript](https://dev.to/ksowah/useful-high-order-functions-in-javascript-4dl4)
 - [Dev.to/JS] [WHY ETHEREUM ALWAYS WINS!](https://dev.to/ayaaneth/why-ethereum-always-wins-1ne9)
 - [Dev.to/JS] [Iterando sobre arrays](https://dev.to/lucaswll/iterando-sobre-arrays-59d6)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pagination in Strapi using GraphQL](https://dev.to/strapi/pagination-in-strapi-using-graphql-172g)
 - [Dev.to/JS] [thanks to all](https://dev.to/chingamaxwell/thanks-to-all-520)
 - [Dev.to/JS] [Earn free badge on GitHub](https://dev.to/b1bxonty/earn-free-badge-on-github-1gek)
-- [Dev.to/JS] [Intro To The [ngSwitch] Directive](https://dev.to/blamb31/intro-to-the-ngswitch-directive-23bm)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
 - [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
