@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Refactoring. TS Types.](https://dev.to/dnim/refactoring-ts-types-4hob)
+- [Dev.to/JS] [ดู-&lpar;Between Us&rpar; เชือกป่าน EP8 ซีรี่ย์ออนไลน์ ซีรี่ย์ ฟรี!](https://dev.to/betweenusep8thai/duu-between-us-echuuekpaan-ep8-chiiriiynailn-chiiriiy-frii-eim)
+- [Dev.to/JS] [Staircase problem in JS](https://dev.to/binarysingh/staircase-problem-in-js-42kh)
 - [Dev.to/JS] [New Year Countdown Using JavaScript](https://dev.to/nabinbhatt/new-year-countdown-using-javascript-2eoi)
 - [Dev.to/JS] [Introduction of HTML](https://dev.to/nitjsr12/introduction-of-html-36ho)
 - [Dev.to/JS] [Roadmap of web development](https://dev.to/nitjsr12/roadmap-of-web-development-3e7d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which is the Best programming language](https://dev.to/gilbertkitetu/which-is-the-best-programming-language-40mh)
 - [Dev.to/JS] [Configuring Absolute path in React Projects](https://dev.to/isiakaabd/configuring-absolute-path-in-react-projects-4h9o)
 - [Dev.to/JS] [Javascript Prototype: Prototype Chain and Shadowing](https://dev.to/jessewei/javascript-prototype-prototype-chain-and-shadowing-3oe2)
-- [Dev.to/JS] [table: improve moving column UI &amp; UX &lpar;2&rpar;](https://dev.to/gohomewho/table-improve-moving-column-ui-ux-2-1gl6)
-- [Dev.to/JS] [Local storage and Session storage and useful tips for debugging in Chrome](https://dev.to/mohsenkamrani/local-storage-and-session-storage-and-useful-tips-for-debugging-in-chrome-3588)
-- [Dev.to/JS] [Typescript WTF Moments 11: Function Unions: any Param Is Not any](https://dev.to/tylim88/typescript-wtf-moments-11-function-unions-any-param-is-not-any-5fg)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
