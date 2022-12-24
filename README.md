@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Roadmap of web development](https://dev.to/nitjsr12/roadmap-of-web-development-3e7d)
+- [Dev.to/JS] [Customizing chrome dev tools as we customize our code editor](https://dev.to/shihab91/customizing-chrome-dev-tools-as-we-customize-our-code-editor-1j8p)
+- [Dev.to/JS] [React Date Range Picker](https://dev.to/nasreenkhalid/react-date-range-picker-1m1c)
+- [Dev.to/JS] [How to build a todo app with search functionality with React with CSS](https://dev.to/yemiklein/how-to-build-a-todo-app-with-search-functionality-with-react-with-css-1ol6)
 - [Dev.to/JS] [Which is the Best programming language](https://dev.to/gilbertkitetu/which-is-the-best-programming-language-40mh)
 - [Dev.to/JS] [Configuring Absolute path in React Projects](https://dev.to/isiakaabd/configuring-absolute-path-in-react-projects-4h9o)
 - [Dev.to/JS] [Javascript Prototype: Prototype Chain and Shadowing](https://dev.to/jessewei/javascript-prototype-prototype-chain-and-shadowing-3oe2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript WTF Moments 11: Function Unions: any Param Is Not any](https://dev.to/tylim88/typescript-wtf-moments-11-function-unions-any-param-is-not-any-5fg)
 - [Dev.to/JS] [The JavaScript `String.trim&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-stringtrim-method-explained-4b61)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;24-12-2022&rpar; - Happy Christmas Edition](https://dev.to/mjgs/this-weeks-newsletter-is-out-24-12-2022-happy-christmas-5bd1)
-- [Dev.to/JS] [Ikaria Lean Belly Juice - Fat Loss Solution, Reviews, Uses And Results?](https://dev.to/ikarialeanbel11/ikaria-lean-belly-juice-fat-loss-solution-reviews-uses-and-results-1dh9)
-- [Dev.to/JS] [Hello React, Goodbye useEffect &lpar;I Hope&rpar;](https://dev.to/imbios/hello-react-goodbye-useeffect-i-hope-4mf1)
-- [Dev.to/JS] [8 Best Video Games For Web Developers](https://dev.to/souptikdn/8-best-video-games-for-web-developers-4jle)
-- [Dev.to/JS] [Sign out of all tabs if logged out from one - Angular &amp; Storage Events](https://dev.to/shrihari/sign-out-of-all-tabs-if-logged-out-from-one-angular-storage-events-5cdf)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
