@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mapbox Geocoding, Directions integration with React Native Mapbox](https://dev.to/ajmal_hasan/mapbox-geocoding-directions-integration-with-react-native-mapbox-49i6)
+- [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Dev.to/JS] [const a = [ ] is not an array?! 😱](https://dev.to/bhaveek424/const-a-is-not-an-array-3obb)
 - [Dev.to/JS] [Code refactoring](https://dev.to/amarachi_maduforo_371ff51/code-refactoring-4ndn)
 - [Dev.to/JS] [How to Find Duplicate Elements in a Given Array?](https://dev.to/patelrohan750/how-to-find-duplicate-elements-in-a-given-array-5dda)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Merry Christmas Developers!](https://dev.to/ecaterinateodo3/merry-christmas-developers-1p60)
 - [Dev.to/JS] [Refactoring. TS Types.](https://dev.to/dnim/refactoring-ts-types-4hob)
 - [Dev.to/JS] [ดู-&lpar;Between Us&rpar; เชือกป่าน EP8 ซีรี่ย์ออนไลน์ ซีรี่ย์ ฟรี!](https://dev.to/betweenusep8thai/duu-between-us-echuuekpaan-ep8-chiiriiynailn-chiiriiy-frii-eim)
-- [Dev.to/JS] [Staircase problem in JS](https://dev.to/binarysingh/staircase-problem-in-js-42kh)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)
 - [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
 - [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)
-- [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)
-- [Lifehacker] [The Real Reason You Should Schedule Your Worst Meetings on Mondays](https://lifehacker.com/the-real-reason-you-should-schedule-your-worst-meetings-1849918960)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Our 10 Favorite Cleaning Hacks of 2022](https://lifehacker.com/our-10-favorite-cleaning-hacks-of-2022-1849919374)<!-- TECH-POSTS:END -->
 
 ---
 
