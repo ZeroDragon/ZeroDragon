@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ดู-หนัง Avatar 2 &lpar;อวตาร 2 วิถีแห่งสายน้ำ&rpar; 2022 เต็ม เรื่อง พากย์ ไทย ดูหนังออนไลน์VFX](https://dev.to/avatar2thaisubvsx/duu-hnang-avatar-2-wtaar-2-withiiaehngsaaynam-2022-etm-eruueng-phaaky-aithy-duuhnangnailnvfx-3ed2)
+- [Dev.to/JS] [Creating a simple search site](https://dev.to/melissaajohnson/creating-a-simple-search-site-hlm)
+- [Dev.to/JS] [アバター 2 日 浦 フルムービーオンラインで見る|AVATAR 2-4K-JP](https://dev.to/avatar2jpsub/abata-2-ri-pu-hurumubionraindejian-ruavatar-2-4k-jp-42ai)
+- [Dev.to/JS] [Reactivity in Javascript](https://dev.to/tanmoysarkar/reactivity-in-javascript-2833)
 - [Dev.to/JS] [ดูซีรีย์เกาหลี Reborn Rich ตอนที่ 16 ซับไทย THAI-DUB &lpar;FINALE&rpar;](https://dev.to/rebornrichfullep16thaidub/duuchiiriiyekaahlii-reborn-rich-tnthii-16-chabaithy-thai-dub-finale-5bl1)
 - [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 03 - useContext⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-03-usecontext-469f)
 - [Dev.to/JS] [Not Enough Minerals](https://dev.to/rmion/not-enough-minerals-4c3e)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WHY ETHEREUM ALWAYS WINS!](https://dev.to/ayaaneth/why-ethereum-always-wins-1ne9)
 - [Dev.to/JS] [Iterando sobre arrays](https://dev.to/lucaswll/iterando-sobre-arrays-59d6)
 - [Dev.to/JS] [Angular CLI - Quick Guide](https://dev.to/omerko96/angular-cli-quick-guide-59lg)
-- [Dev.to/JS] [Mastering React Hooks: A Comprehensive Guide to Enhancing Your Components](https://dev.to/salmandotweb/mastering-react-hooks-a-comprehensive-guide-to-enhancing-your-components-3748)
-- [Dev.to/JS] [Bye Bye, Annoying Twitter Login Banner!](https://dev.to/stagefright5/bye-bye-annoying-twitter-login-banner-4apo)
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
-- [Dev.to/JS] [How to get the length of object in JavaScript](https://dev.to/moibra/how-to-get-the-length-of-map-in-javascript-5aj5)
-- [Dev.to/JS] [Here is a general roadmap for learning web development](https://dev.to/gilbertkitetu/here-is-a-general-roadmap-for-learning-web-development-27mc)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
 - [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
