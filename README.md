@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fields to Explore in 2023](https://dev.to/keshavgbpecdel/fields-to-explore-in-2023-1jme)
+- [Dev.to/JS] [Merry Christmas](https://dev.to/lazo2212/merry-christmas-4m1a)
 - [Dev.to/JS] [Hello everyone! Need help](https://dev.to/kalifasenou/hello-everyone-need-help-14ce)
 - [Dev.to/JS] [Chrome Extensions of the Month - December 2022](https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp)
 - [Dev.to/JS] [Which for-loop is the fastest in JavaScript?](https://dev.to/siddiqus/which-for-loop-is-the-fastest-in-javascript-4hdf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My new portfolio which is built on top of next 13 app directory](https://dev.to/amm834/my-new-portfolio-which-is-build-on-top-of-next-13-app-directory-1o6i)
 - [Dev.to/JS] [7 free Tools for the Modern Web Developers of 2023](https://dev.to/ruppysuppy/7-free-tools-for-the-modern-web-developers-of-2023-4lhh)
 - [Dev.to/JS] [5 of the best website for junior front end developer](https://dev.to/ahmed_onour/5-of-the-best-website-for-junior-front-end-developer-k28)
-- [Dev.to/JS] [Hello world](https://dev.to/iamkrishnaind/hello-world-2llh)
-- [Dev.to/JS] [BLEACH บลีชเทพมรณะสงครามเลือดพันปี EP.12 พากย์ ไทย hd ออนไลน์ THAI](https://dev.to/bleachkessenhenep12thaidub/bleach-bliichethphmrnasngkhraameluuedphanpii-ep12-phaaky-aithy-hd-nailn-thai-1pmb)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
