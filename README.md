@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NPM Scripts summary](https://dev.to/asap/npm-scripts-summary-5012)
+- [Dev.to/JS] [Typescript Loop Tuple With Length &gt; 1000](https://dev.to/tylim88/typescript-loop-tuple-with-length-1000-4kg)
 - [Dev.to/JS] [ChatGPT is helping me learn JavaScript](https://dev.to/bolouie/chatgpt-is-helping-me-learn-javascript-15n1)
 - [Dev.to/JS] [MongoDB cheat sheet](https://dev.to/arafat4693/mongodb-cheat-sheet-2f9o)
 - [Dev.to/JS] [What is clean-schema?](https://dev.to/kamtoeddy/what-is-clean-schema-41p7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Collapsible components using react hooks](https://dev.to/yaldram/create-collapsible-components-using-react-hooks-383k)
 - [Dev.to/JS] [implement getElementsByTagName](https://dev.to/986913/implement-getelementsbytagname-5fbi)
 - [Dev.to/JS] [Why Santa Claus Can&#39;t Inherit from Human: A Festive OOP Lesson](https://dev.to/noriller/why-santa-claus-cant-inherit-from-human-a-festive-oop-lesson-3n34)
-- [Dev.to/JS] [LeetCode - Longest Consecutive Subsequence](https://dev.to/_alkesh26/leetcode-longest-consecutive-subsequence-69k)
-- [Dev.to/JS] [The Collab Lab TCL-50 recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-50-recap-2gob)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
