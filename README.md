@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chrome Extensions of the Month - December 2022](https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp)
+- [Dev.to/JS] [Which for-loop is the fastest in JavaScript?](https://dev.to/siddiqus/which-for-loop-is-the-fastest-in-javascript-4hdf)
+- [Dev.to/JS] [post four about spring boot](https://dev.to/devgithinji/post-four-about-spring-boot-1l21)
+- [Dev.to/JS] [post three about spring boot](https://dev.to/devgithinji/post-three-about-spring-boot-3m7m)
 - [Dev.to/JS] [post one updated](https://dev.to/devgithinji/post-one-updated-5gh6)
 - [Dev.to/JS] [Yet another 4 JavaScript tips for shorter code](https://dev.to/abhi_vp_/yet-another-4-javascript-tips-for-shorter-code-2hnh)
 - [Dev.to/JS] [My new portfolio which is built on top of next 13 app directory](https://dev.to/amm834/my-new-portfolio-which-is-build-on-top-of-next-13-app-directory-1o6i)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello world](https://dev.to/iamkrishnaind/hello-world-2llh)
 - [Dev.to/JS] [BLEACH บลีชเทพมรณะสงครามเลือดพันปี EP.12 พากย์ ไทย hd ออนไลน์ THAI](https://dev.to/bleachkessenhenep12thaidub/bleach-bliichethphmrnasngkhraameluuedphanpii-ep12-phaaky-aithy-hd-nailn-thai-1pmb)
 - [Dev.to/JS] [How To Create Custom GitHub Codespaces Template](https://dev.to/sachinchaurasiya/how-to-create-custom-github-codespaces-template-10bg)
-- [Dev.to/JS] [วิลโลว์ &lpar;Willow&rpar; ตอน ที่ EP.6 ซับ ไทย HD ออนไลน์ THAI](https://dev.to/willowep6thai/wilolw-willow-tn-thii-ep6-chab-aithy-hd-nailn-thai-43ah)
-- [Dev.to/JS] [The Most Common JavaScript Pitfalls for New Programmers and How to Face them.](https://dev.to/graciousdev/the-most-common-javascript-pitfalls-for-new-programmers-and-how-to-face-them-1pe0)
-- [Dev.to/JS] [Create custom operators to sum and sort RxJS streams](https://dev.to/railsstudent/create-custom-operators-to-sum-and-sort-rxjs-streams-4p4k)
-- [Dev.to/JS] [FlatIron Phase 1 Project](https://dev.to/vivianho/flatiron-phase-1-project-3do)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
