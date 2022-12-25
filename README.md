@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dockerizing Your Code: A Step-by-Step Guide](https://dev.to/adgamerx/dockerizing-your-code-a-step-by-step-guide-205c)
+- [Dev.to/JS] [ReactJS - Introduction and Features](https://dev.to/shivang_purrohit/reactjs-introduction-and-features-1m6)
+- [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Dev.to/JS] [JavaScript Fundamentals: String Looping, Index Of and Slicing Strings](https://dev.to/astrodevil/javascript-fundamentals-string-looping-index-of-and-slicing-strings-372c)
+- [Dev.to/JS] [Scope, Scope Chain and Lexical Environment](https://dev.to/shivang_purrohit/scope-scope-chain-and-lexical-environment-2pp1)
 - [Dev.to/JS] [Baby Steps to Learn Web Development and land your first internship!](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
 - [Dev.to/JS] [Migrate a 60k LOC TypeScript &lpar;NodeJS&rpar; repo to ESM and testing become 4x faster &lpar;1/2&rpar;](https://dev.to/gaosun/migrate-a-60k-loc-typescript-nodejs-repo-to-esm-and-testing-become-4x-faster-12-5f82)
 - [Dev.to/JS] [How to Transition into Backend Development as a Frontend Web Developer](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Dev.to/JS] [Chatbot using OpenAI API](https://dev.to/ayazmirza54/chatbot-using-openai-api-3g70)
 - [Dev.to/JS] [Buy google voice accounts with paypal | Buy google voice accounts](https://dev.to/pvalist/buy-google-voice-accounts-with-paypal-buy-google-voice-accounts-59dj)
-- [Dev.to/JS] [Status Codes Explained &lpar;FAQ&rpar;. A List Of Every Vital HTTP Response Status Code And What They Mean.](https://dev.to/arafat4693/ive-made-a-complete-list-of-every-vital-http-status-code-now-you-dont-have-to-4i5h)
-- [Dev.to/JS] [How to make a JS function wait after executing a specific line of code](https://dev.to/adithyana/how-to-make-a-js-function-wait-after-executing-a-specific-line-of-code-ali)
-- [Dev.to/JS] [[ดู-ซีรี่ย์] เพื่อนายแค่หนึ่งเดียว EP 3 ตอนล่าสุด แบบย้อนหลัง THAI-BL!](https://dev.to/neverletmegoep3thaibl/duu-chiiriiy-ephuuenaayaekhhnuengediiyw-ep-3-tnlaasud-aebbynhlang-thai-bl-j9i)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Please Prepare Now for This Incoming Arctic Freeze](https://lifehacker.com/please-prepare-now-for-this-incoming-arctic-freeze-1849921562)
 - [Lifehacker] [You Should Add Eggnog to Your Christmas Morning Pancakes](https://lifehacker.com/you-should-add-eggnog-to-your-christmas-morning-pancake-1849919573)
 - [Lifehacker] [The Six Best Ways of Finding a Job Without LinkedIn or Indeed](https://lifehacker.com/the-six-best-ways-of-finding-a-job-without-linkedin-or-1849909999)
-- [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)
-- [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)<!-- TECH-POSTS:END -->
+- [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)<!-- TECH-POSTS:END -->
 
 ---
 
