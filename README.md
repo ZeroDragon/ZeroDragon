@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Fundamentals: String Looping, Index Of and Slicing Strings](https://dev.to/astrodevil/javascript-fundamentals-string-looping-index-of-and-slicing-strings-372c)
+- [Dev.to/JS] [Baby Steps to Learn Web Development and land your first internship!](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
+- [Dev.to/JS] [Migrate a 60k LOC TypeScript &lpar;NodeJS&rpar; repo to ESM and testing become 4x faster &lpar;1/2&rpar;](https://dev.to/gaosun/migrate-a-60k-loc-typescript-nodejs-repo-to-esm-and-testing-become-4x-faster-12-5f82)
 - [Dev.to/JS] [How to Transition into Backend Development as a Frontend Web Developer](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
 - [Dev.to/JS] [CORS Error in 5 minutes](https://dev.to/alestor_123/cors-error-in-5-minutes-2doa)
 - [Dev.to/JS] [Top vs code extensions for WEB DEVELOPMENT](https://dev.to/yogeshtewari/top-vs-code-extensions-for-web-development-hai)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Status Codes Explained &lpar;FAQ&rpar;. A List Of Every Vital HTTP Response Status Code And What They Mean.](https://dev.to/arafat4693/ive-made-a-complete-list-of-every-vital-http-status-code-now-you-dont-have-to-4i5h)
 - [Dev.to/JS] [How to make a JS function wait after executing a specific line of code](https://dev.to/adithyana/how-to-make-a-js-function-wait-after-executing-a-specific-line-of-code-ali)
 - [Dev.to/JS] [[ดู-ซีรี่ย์] เพื่อนายแค่หนึ่งเดียว EP 3 ตอนล่าสุด แบบย้อนหลัง THAI-BL!](https://dev.to/neverletmegoep3thaibl/duu-chiiriiy-ephuuenaayaekhhnuengediiyw-ep-3-tnlaasud-aebbynhlang-thai-bl-j9i)
-- [Dev.to/JS] [Multiple Checkbox Form in React Js](https://dev.to/mayankkashyap681/multiple-checkbox-form-in-react-js-3elb)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
-- [Dev.to/JS] [Missing The Other Side 2 ตอนที่ EP3 ซีรีย์เกาหลี พากย์ ไทย [THAI-DUB]](https://dev.to/missingtheotherside2ep3thai/missing-the-other-side-2-tnthii-ep3-chiiriiyekaahlii-phaaky-aithy-thai-dub-444f)
-- [Dev.to/JS] [What is HTML headings with example?](https://dev.to/nitjsr12/what-is-html-headings-with-example-40kf)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
