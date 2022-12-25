@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
+- [Dev.to/JS] [Missing The Other Side 2 ตอนที่ EP3 ซีรีย์เกาหลี พากย์ ไทย [THAI-DUB]](https://dev.to/missingtheotherside2ep3thai/missing-the-other-side-2-tnthii-ep3-chiiriiyekaahlii-phaaky-aithy-thai-dub-444f)
+- [Dev.to/JS] [What is HTML headings with example?](https://dev.to/nitjsr12/what-is-html-headings-with-example-40kf)
+- [Dev.to/JS] [Managing React State Like A Superhero 🚀](https://dev.to/majdsufian/managing-react-state-like-a-superhero-5gnp)
 - [Dev.to/JS] [The Problem with a Headless CMS](https://dev.to/builderio/the-problem-with-a-headless-cms-cmp)
 - [Dev.to/JS] [Securing your Express.js app with Helmet.js](https://dev.to/lewis1063/securing-your-expressjs-app-with-helmetjs-2m3e)
 - [Dev.to/JS] [Fields to Explore in 2023](https://dev.to/keshavgbpecdel/fields-to-explore-in-2023-1jme)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which for-loop is the fastest in JavaScript?](https://dev.to/siddiqus/which-for-loop-is-the-fastest-in-javascript-4hdf)
 - [Dev.to/JS] [Yet another 4 JavaScript tips for shorter code](https://dev.to/abhi_vp_/yet-another-4-javascript-tips-for-shorter-code-2hnh)
 - [Dev.to/JS] [My new portfolio which is built on top of next 13 app directory](https://dev.to/amm834/my-new-portfolio-which-is-build-on-top-of-next-13-app-directory-1o6i)
-- [Dev.to/JS] [7 free Tools for the Modern Web Developers of 2023](https://dev.to/ruppysuppy/7-free-tools-for-the-modern-web-developers-of-2023-4lhh)
-- [Dev.to/JS] [5 of the best website for junior front end developer](https://dev.to/ahmed_onour/5-of-the-best-website-for-junior-front-end-developer-k28)
-- [Dev.to/JS] [Hello world](https://dev.to/iamkrishnaind/hello-world-2llh)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Six Best Ways of Finding a Job Without LinkedIn or Indeed](https://lifehacker.com/the-six-best-ways-of-finding-a-job-without-linkedin-or-1849909999)
 - [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)
 - [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)
-- [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)
-- [Lifehacker] [8 of the Best Last-Minute Christmas Gifts Under $30](https://lifehacker.com/8-of-the-best-last-minute-christmas-gifts-under-30-1849919385)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)<!-- TECH-POSTS:END -->
 
 ---
 
