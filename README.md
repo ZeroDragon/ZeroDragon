@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [I&#39;ve Made A Complete List Of Every Vital HTTP Status Code. Now You Don&#39;t Have To.](https://dev.to/arafat4693/ive-made-a-complete-list-of-every-vital-http-status-code-now-you-dont-have-to-4i5h)
+- [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
+- [Dev.to/JS] [Chatbot using OpenAI API](https://dev.to/ayazmirza54/chatbot-using-openai-api-3g70)
+- [Dev.to/JS] [Buy google voice accounts with paypal | Buy google voice accounts](https://dev.to/pvalist/buy-google-voice-accounts-with-paypal-buy-google-voice-accounts-59dj)
+- [Dev.to/JS] [Status Codes Explained &lpar;FAQ&rpar;. A List Of Every Vital HTTP Response Status Code And What They Mean.](https://dev.to/arafat4693/ive-made-a-complete-list-of-every-vital-http-status-code-now-you-dont-have-to-4i5h)
 - [Dev.to/JS] [How to make a JS function wait after executing a specific line of code](https://dev.to/adithyana/how-to-make-a-js-function-wait-after-executing-a-specific-line-of-code-ali)
 - [Dev.to/JS] [[ดู-ซีรี่ย์] เพื่อนายแค่หนึ่งเดียว EP 3 ตอนล่าสุด แบบย้อนหลัง THAI-BL!](https://dev.to/neverletmegoep3thaibl/duu-chiiriiy-ephuuenaayaekhhnuengediiyw-ep-3-tnlaasud-aebbynhlang-thai-bl-j9i)
 - [Dev.to/JS] [Multiple Checkbox Form in React Js](https://dev.to/mayankkashyap681/multiple-checkbox-form-in-react-js-3elb)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Problem with a Headless CMS](https://dev.to/builderio/the-problem-with-a-headless-cms-cmp)
 - [Dev.to/JS] [Securing your Express.js app with Helmet.js](https://dev.to/lewis1063/securing-your-expressjs-app-with-helmetjs-2m3e)
 - [Dev.to/JS] [Fields to Explore in 2023](https://dev.to/keshavgbpecdel/fields-to-explore-in-2023-1jme)
-- [Dev.to/JS] [Merry Christmas](https://dev.to/lazo2212/merry-christmas-4m1a)
-- [Dev.to/JS] [Hello everyone! Need help](https://dev.to/kalifasenou/hello-everyone-need-help-14ce)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Add Eggnog to Your Christmas Morning Pancakes](https://lifehacker.com/you-should-add-eggnog-to-your-christmas-morning-pancake-1849919573)
 - [Lifehacker] [The Six Best Ways of Finding a Job Without LinkedIn or Indeed](https://lifehacker.com/the-six-best-ways-of-finding-a-job-without-linkedin-or-1849909999)
 - [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)
-- [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)
-- [Lifehacker] [Lifehacker&#39;s 22 Favorite Android Hacks of 2022](https://lifehacker.com/lifehackers-22-favorite-android-hacks-of-2022-1849916274)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Guide to Having Quiet, Sneaky Sex When You&#39;re Home for the Holidays](https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772)<!-- TECH-POSTS:END -->
 
 ---
 
