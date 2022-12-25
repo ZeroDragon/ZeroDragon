@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [วิลโลว์ &lpar;Willow&rpar; ตอน ที่ EP.6 ซับ ไทย HD ออนไลน์ THAI](https://dev.to/willowep6thai/wilolw-willow-tn-thii-ep6-chab-aithy-hd-nailn-thai-43ah)
+- [Dev.to/JS] [The Most Common JavaScript Pitfalls for New Programmers and How to Face them.](https://dev.to/graciousdev/the-most-common-javascript-pitfalls-for-new-programmers-and-how-to-face-them-1pe0)
 - [Dev.to/JS] [Create custom operators to sum and sort RxJS streams](https://dev.to/railsstudent/create-custom-operators-to-sum-and-sort-rxjs-streams-4p4k)
 - [Dev.to/JS] [FlatIron Phase 1 Project](https://dev.to/vivianho/flatiron-phase-1-project-3do)
 - [Dev.to/JS] [NPM Scripts summary](https://dev.to/asap/npm-scripts-summary-5012)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Grove Positioning System](https://dev.to/rmion/grove-positioning-system-4bon)
 - [Dev.to/JS] [implement getElementsByClassName](https://dev.to/986913/implement-getelementsbyclassname-4a2g)
 - [Dev.to/JS] [ARTIFICIAL INTELLIGENCE](https://dev.to/joshgreat001/ai-cah)
-- [Dev.to/JS] [BASICS ON WEB3](https://dev.to/joshgreat001/basics-on-web3-pi3)
-- [Dev.to/JS] [Create Collapsible components using react hooks](https://dev.to/yaldram/create-collapsible-components-using-react-hooks-383k)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
