@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello everyone! Need help](https://dev.to/kalifasenou/hello-everyone-need-help-14ce)
 - [Dev.to/JS] [Chrome Extensions of the Month - December 2022](https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp)
 - [Dev.to/JS] [Which for-loop is the fastest in JavaScript?](https://dev.to/siddiqus/which-for-loop-is-the-fastest-in-javascript-4hdf)
 - [Dev.to/JS] [post four about spring boot](https://dev.to/devgithinji/post-four-about-spring-boot-1l21)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 of the best website for junior front end developer](https://dev.to/ahmed_onour/5-of-the-best-website-for-junior-front-end-developer-k28)
 - [Dev.to/JS] [Hello world](https://dev.to/iamkrishnaind/hello-world-2llh)
 - [Dev.to/JS] [BLEACH บลีชเทพมรณะสงครามเลือดพันปี EP.12 พากย์ ไทย hd ออนไลน์ THAI](https://dev.to/bleachkessenhenep12thaidub/bleach-bliichethphmrnasngkhraameluuedphanpii-ep12-phaaky-aithy-hd-nailn-thai-1pmb)
-- [Dev.to/JS] [How To Create Custom GitHub Codespaces Template](https://dev.to/sachinchaurasiya/how-to-create-custom-github-codespaces-template-10bg)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
