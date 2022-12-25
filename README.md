@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Transition into Backend Development as a Frontend Web Developer](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
+- [Dev.to/JS] [CORS Error in 5 minutes](https://dev.to/alestor_123/cors-error-in-5-minutes-2doa)
+- [Dev.to/JS] [Top vs code extensions for WEB DEVELOPMENT](https://dev.to/yogeshtewari/top-vs-code-extensions-for-web-development-hai)
+- [Dev.to/JS] [React Error Boundaries at the Granular Level](https://dev.to/franciscomendes10866/react-error-boundaries-at-the-granular-level-9je)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Dev.to/JS] [Chatbot using OpenAI API](https://dev.to/ayazmirza54/chatbot-using-openai-api-3g70)
 - [Dev.to/JS] [Buy google voice accounts with paypal | Buy google voice accounts](https://dev.to/pvalist/buy-google-voice-accounts-with-paypal-buy-google-voice-accounts-59dj)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
 - [Dev.to/JS] [Missing The Other Side 2 ตอนที่ EP3 ซีรีย์เกาหลี พากย์ ไทย [THAI-DUB]](https://dev.to/missingtheotherside2ep3thai/missing-the-other-side-2-tnthii-ep3-chiiriiyekaahlii-phaaky-aithy-thai-dub-444f)
 - [Dev.to/JS] [What is HTML headings with example?](https://dev.to/nitjsr12/what-is-html-headings-with-example-40kf)
-- [Dev.to/JS] [Managing React State Like A Superhero 🚀](https://dev.to/majdsufian/managing-react-state-like-a-superhero-5gnp)
-- [Dev.to/JS] [The Problem with a Headless CMS](https://dev.to/builderio/the-problem-with-a-headless-cms-cmp)
-- [Dev.to/JS] [Securing your Express.js app with Helmet.js](https://dev.to/lewis1063/securing-your-expressjs-app-with-helmetjs-2m3e)
-- [Dev.to/JS] [Fields to Explore in 2023](https://dev.to/keshavgbpecdel/fields-to-explore-in-2023-1jme)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
