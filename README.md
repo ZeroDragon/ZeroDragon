@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Monkey Math](https://dev.to/rmion/monkey-math-4dmf)
+- [Dev.to/JS] [LeetCode - Single Number III](https://dev.to/_alkesh26/leetcode-single-number-iii-d8b)
+- [Dev.to/JS] [Is a Self-Taught Developer&#39;s Future Scary and Unpredictable?](https://dev.to/ayka_code/is-a-self-taught-developers-future-scary-and-unpredictable-4d96)
 - [Dev.to/JS] [Dockerizing Your Code: A Step-by-Step Guide](https://dev.to/adgamerx/dockerizing-your-code-a-step-by-step-guide-205c)
 - [Dev.to/JS] [ReactJS - Introduction and Features](https://dev.to/shivang_purrohit/reactjs-introduction-and-features-1m6)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Transition into Backend Development as a Frontend Web Developer](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
 - [Dev.to/JS] [CORS Error in 5 minutes](https://dev.to/alestor_123/cors-error-in-5-minutes-2doa)
 - [Dev.to/JS] [Top vs code extensions for WEB DEVELOPMENT](https://dev.to/yogeshtewari/top-vs-code-extensions-for-web-development-hai)
-- [Dev.to/JS] [React Error Boundaries at the Granular Level](https://dev.to/franciscomendes10866/react-error-boundaries-at-the-granular-level-9je)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
-- [Dev.to/JS] [Chatbot using OpenAI API](https://dev.to/ayazmirza54/chatbot-using-openai-api-3g70)
-- [Dev.to/JS] [Buy google voice accounts with paypal | Buy google voice accounts](https://dev.to/pvalist/buy-google-voice-accounts-with-paypal-buy-google-voice-accounts-59dj)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
