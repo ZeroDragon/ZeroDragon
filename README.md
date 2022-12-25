@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Reasons for Learning Javascript](https://dev.to/boluwatifeajayi/top-reasons-for-learning-javascript-4086)
+- [Dev.to/JS] [Understanding the useReducer hook in react](https://dev.to/boluwatifeajayi/understanding-the-usereducer-hook-in-react-2o3o)
+- [Dev.to/JS] [Promises in javascript simply explained](https://dev.to/boluwatifeajayi/promises-in-javascript-simply-explained-4mo8)
 - [Dev.to/JS] [What the hell are React Server Components ?](https://dev.to/shivamjjha/what-the-hell-are-react-server-components--14md)
 - [Dev.to/JS] [Monkey Math](https://dev.to/rmion/monkey-math-4dmf)
 - [Dev.to/JS] [LeetCode - Single Number III](https://dev.to/_alkesh26/leetcode-single-number-iii-d8b)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals: String Looping, Index Of and Slicing Strings](https://dev.to/astrodevil/javascript-fundamentals-string-looping-index-of-and-slicing-strings-372c)
 - [Dev.to/JS] [Scope, Scope Chain and Lexical Environment](https://dev.to/shivang_purrohit/scope-scope-chain-and-lexical-environment-2pp1)
 - [Dev.to/JS] [Baby Steps to Learn Web Development and land your first internship!](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
-- [Dev.to/JS] [Migrate a 60k LOC TypeScript &lpar;NodeJS&rpar; repo to ESM and testing become 4x faster &lpar;1/2&rpar;](https://dev.to/gaosun/migrate-a-60k-loc-typescript-nodejs-repo-to-esm-and-testing-become-4x-faster-12-5f82)
-- [Dev.to/JS] [How to Transition into Backend Development as a Frontend Web Developer](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
-- [Dev.to/JS] [CORS Error in 5 minutes](https://dev.to/alestor_123/cors-error-in-5-minutes-2doa)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
