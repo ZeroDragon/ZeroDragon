@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;ve Made A Complete List Of Every Vital HTTP Status Code. Now You Don&#39;t Have To.](https://dev.to/arafat4693/ive-made-a-complete-list-of-every-vital-http-status-code-now-you-dont-have-to-4i5h)
+- [Dev.to/JS] [How to make a JS function wait after executing a specific line of code](https://dev.to/adithyana/how-to-make-a-js-function-wait-after-executing-a-specific-line-of-code-ali)
+- [Dev.to/JS] [[ดู-ซีรี่ย์] เพื่อนายแค่หนึ่งเดียว EP 3 ตอนล่าสุด แบบย้อนหลัง THAI-BL!](https://dev.to/neverletmegoep3thaibl/duu-chiiriiy-ephuuenaayaekhhnuengediiyw-ep-3-tnlaasud-aebbynhlang-thai-bl-j9i)
+- [Dev.to/JS] [Multiple Checkbox Form in React Js](https://dev.to/mayankkashyap681/multiple-checkbox-form-in-react-js-3elb)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
 - [Dev.to/JS] [Missing The Other Side 2 ตอนที่ EP3 ซีรีย์เกาหลี พากย์ ไทย [THAI-DUB]](https://dev.to/missingtheotherside2ep3thai/missing-the-other-side-2-tnthii-ep3-chiiriiyekaahlii-phaaky-aithy-thai-dub-444f)
 - [Dev.to/JS] [What is HTML headings with example?](https://dev.to/nitjsr12/what-is-html-headings-with-example-40kf)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fields to Explore in 2023](https://dev.to/keshavgbpecdel/fields-to-explore-in-2023-1jme)
 - [Dev.to/JS] [Merry Christmas](https://dev.to/lazo2212/merry-christmas-4m1a)
 - [Dev.to/JS] [Hello everyone! Need help](https://dev.to/kalifasenou/hello-everyone-need-help-14ce)
-- [Dev.to/JS] [Chrome Extensions of the Month - December 2022](https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp)
-- [Dev.to/JS] [Which for-loop is the fastest in JavaScript?](https://dev.to/siddiqus/which-for-loop-is-the-fastest-in-javascript-4hdf)
-- [Dev.to/JS] [Yet another 4 JavaScript tips for shorter code](https://dev.to/abhi_vp_/yet-another-4-javascript-tips-for-shorter-code-2hnh)
-- [Dev.to/JS] [My new portfolio which is built on top of next 13 app directory](https://dev.to/amm834/my-new-portfolio-which-is-build-on-top-of-next-13-app-directory-1o6i)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
