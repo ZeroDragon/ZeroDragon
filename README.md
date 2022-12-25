@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello world](https://dev.to/iamkrishnaind/hello-world-2llh)
 - [Dev.to/JS] [BLEACH บลีชเทพมรณะสงครามเลือดพันปี EP.12 พากย์ ไทย hd ออนไลน์ THAI](https://dev.to/bleachkessenhenep12thaidub/bleach-bliichethphmrnasngkhraameluuedphanpii-ep12-phaaky-aithy-hd-nailn-thai-1pmb)
 - [Dev.to/JS] [How To Create Custom GitHub Codespaces Template](https://dev.to/sachinchaurasiya/how-to-create-custom-github-codespaces-template-10bg)
 - [Dev.to/JS] [วิลโลว์ &lpar;Willow&rpar; ตอน ที่ EP.6 ซับ ไทย HD ออนไลน์ THAI](https://dev.to/willowep6thai/wilolw-willow-tn-thii-ep6-chab-aithy-hd-nailn-thai-43ah)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ChatGPT is helping me learn JavaScript](https://dev.to/bolouie/chatgpt-is-helping-me-learn-javascript-15n1)
 - [Dev.to/JS] [MongoDB cheat sheet](https://dev.to/arafat4693/mongodb-cheat-sheet-2f9o)
 - [Dev.to/JS] [What is clean-schema?](https://dev.to/kamtoeddy/what-is-clean-schema-41p7)
-- [Dev.to/JS] [Grove Positioning System](https://dev.to/rmion/grove-positioning-system-4bon)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
 - [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
