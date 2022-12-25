@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tsParticles 2.7.1 Released](https://dev.to/matteobruni/tsparticles-271-released-4iam)
+- [Dev.to/JS] [How To Give your React App a Holiday Theme with react-snowfall](https://dev.to/jaredm/how-to-give-your-react-app-a-holiday-theme-with-react-snowfall-13ba)
+- [Dev.to/JS] [The Javascript higher order array methods with reactjs examples](https://dev.to/boluwatifeajayi/the-javascript-higher-order-array-methods-implemented-with-react-2gpd)
 - [Dev.to/JS] [Top Reasons for Learning Javascript](https://dev.to/boluwatifeajayi/top-reasons-for-learning-javascript-4086)
 - [Dev.to/JS] [Understanding the useReducer hook in react](https://dev.to/boluwatifeajayi/understanding-the-usereducer-hook-in-react-2o3o)
 - [Dev.to/JS] [Promises in javascript simply explained](https://dev.to/boluwatifeajayi/promises-in-javascript-simply-explained-4mo8)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dockerizing Your Code: A Step-by-Step Guide](https://dev.to/adgamerx/dockerizing-your-code-a-step-by-step-guide-205c)
 - [Dev.to/JS] [ReactJS - Introduction and Features](https://dev.to/shivang_purrohit/reactjs-introduction-and-features-1m6)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
-- [Dev.to/JS] [JavaScript Fundamentals: String Looping, Index Of and Slicing Strings](https://dev.to/astrodevil/javascript-fundamentals-string-looping-index-of-and-slicing-strings-372c)
-- [Dev.to/JS] [Scope, Scope Chain and Lexical Environment](https://dev.to/shivang_purrohit/scope-scope-chain-and-lexical-environment-2pp1)
-- [Dev.to/JS] [Baby Steps to Learn Web Development and land your first internship!](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
