@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a cartoon profile picture with javascript](https://dev.to/brandonbyr4/how-to-create-a-cartoon-profile-picture-with-javascript-5cjf)
 - [Dev.to/JS] [What is Redux?](https://dev.to/nothanii/what-is-redux-45n0)
 - [Dev.to/JS] [Top 10 python tips](https://dev.to/kelas_teknisi/top-10-python-tips-54id)
 - [Dev.to/JS] [Service workers tutorial](https://dev.to/uploadcare/service-workers-tutorial-1b7h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the useReducer hook in react](https://dev.to/boluwatifeajayi/understanding-the-usereducer-hook-in-react-2o3o)
 - [Dev.to/JS] [Promises in javascript simply explained](https://dev.to/boluwatifeajayi/promises-in-javascript-simply-explained-4mo8)
 - [Dev.to/JS] [What the hell are React Server Components ?](https://dev.to/shivamjjha/what-the-hell-are-react-server-components--14md)
-- [Dev.to/JS] [Monkey Math](https://dev.to/rmion/monkey-math-4dmf)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
