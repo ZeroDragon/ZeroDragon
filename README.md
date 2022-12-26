@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Cheapest Way to Ship a Car](https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771)
+- [Dev.to/JS] [How To Perform Modern Web Testing With TestCafe Using JavaScript And Selenium](https://dev.to/lambdatest/how-to-perform-modern-web-testing-with-testcafe-using-javascript-and-selenium-f9b)
+- [Dev.to/JS] [JavaScript tricks that you Must know 🤯](https://dev.to/objectuser/javascript-tricks-that-you-must-know-27fe)
+- [Dev.to/JS] [TonyEdit](https://dev.to/ashutosh_pandey/tonyedit-7p7)
+- [Dev.to/JS] [How to Make Most Beautiful eCommerce Website](https://dev.to/codewithsadee/how-to-make-most-beautiful-ecommerce-website-19he)
 - [Dev.to/JS] [Getting started with JS loops](https://dev.to/klc/getting-started-with-js-loops-20pf)
 - [Dev.to/JS] [6 Incredible Ways Data Science Is Changing The Real Estate Sector](https://dev.to/johnalex12345/6-incredible-ways-data-science-is-changing-the-real-estate-sector-45a0)
 - [Dev.to/JS] [jQuery](https://dev.to/hassanshan/jquery-276g)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing CSS Performance in Nuxt with Critters](https://dev.to/jacobandrewsky/optimizing-css-performance-in-nuxt-with-critters-4k8i)
 - [Dev.to/JS] [Course Schedule I &amp; II](https://dev.to/zeeshanali0704/course-schedule-i-ii-3229)
 - [Dev.to/JS] [Explain X Like I&#39;m Five](https://dev.to/yurisoma/explain-x-like-im-five-4klh)
-- [Dev.to/JS] [Commonly Answered Questions about Data Science in 2023 -Part 3](https://dev.to/kanishedureka/commonly-answered-questions-about-data-science-in-2023-part-3-m61)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍎.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-16pk)
-- [Dev.to/JS] [Intro to Redux-Toolkit](https://dev.to/sarthakpant772/intro-to-redux-toolkit-3f48)
-- [Dev.to/JS] [Null vs Undefined - Everything you need to know](https://dev.to/arafat4693/null-vs-undefined-everything-you-need-to-know-24fo)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 More Actors You Didn&#39;t Know Are &#39;Nepotism Babies&#39;](https://lifehacker.com/12-more-actors-you-didnt-know-are-nepotism-babies-1849921029)
 - [Lifehacker] [Please Prepare Now for This Incoming Arctic Freeze](https://lifehacker.com/please-prepare-now-for-this-incoming-arctic-freeze-1849921562)
 - [Lifehacker] [You Should Add Eggnog to Your Christmas Morning Pancakes](https://lifehacker.com/you-should-add-eggnog-to-your-christmas-morning-pancake-1849919573)
-- [Lifehacker] [The Six Best Ways of Finding a Job Without LinkedIn or Indeed](https://lifehacker.com/the-six-best-ways-of-finding-a-job-without-linkedin-or-1849909999)
-- [Lifehacker] [31 of Our Favorite TV Shows That Were Canceled in 2022](https://lifehacker.com/31-of-our-favorite-tv-shows-that-were-canceled-in-2022-1849916745)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Six Best Ways of Finding a Job Without LinkedIn or Indeed](https://lifehacker.com/the-six-best-ways-of-finding-a-job-without-linkedin-or-1849909999)<!-- TECH-POSTS:END -->
 
 ---
 
