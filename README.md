@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Four Ws of Serverless Computing - who, what, when, and why](https://dev.to/momciloo/four-ws-of-serverless-computing-who-what-when-and-why-98c)
+- [Dev.to/JS] [How to use async await process inside map function with Promise all in Javascript](https://dev.to/harithzainudin/how-to-use-async-await-process-inside-map-function-with-promise-all-in-javascript-5ce1)
+- [Dev.to/JS] [JavaScript Fundamentals: Syntax &amp; Structure](https://dev.to/timothyrobards/javascript-fundamentals-syntax-structure-544i)
 - [Dev.to/JS] [Express State Management of the Frontend Framework with Plain Javascript](https://dev.to/ysi831/express-state-management-of-the-frontend-framework-with-plain-javascript-20p6)
 - [Dev.to/JS] [How to create a cartoon profile picture with javascript](https://dev.to/brandonbyr4/how-to-create-a-cartoon-profile-picture-with-javascript-5cjf)
 - [Dev.to/JS] [What is Redux?](https://dev.to/nothanii/what-is-redux-45n0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 2.7.1 Released](https://dev.to/matteobruni/tsparticles-271-released-4iam)
 - [Dev.to/JS] [How To Give your React App a Holiday Theme with react-snowfall](https://dev.to/jaredm/how-to-give-your-react-app-a-holiday-theme-with-react-snowfall-13ba)
 - [Dev.to/JS] [The Javascript higher order array methods with reactjs examples](https://dev.to/boluwatifeajayi/the-javascript-higher-order-array-methods-implemented-with-react-2gpd)
-- [Dev.to/JS] [Top Reasons for Learning Javascript](https://dev.to/boluwatifeajayi/top-reasons-for-learning-javascript-4086)
-- [Dev.to/JS] [Understanding the useReducer hook in react](https://dev.to/boluwatifeajayi/understanding-the-usereducer-hook-in-react-2o3o)
-- [Dev.to/JS] [Promises in javascript simply explained](https://dev.to/boluwatifeajayi/promises-in-javascript-simply-explained-4mo8)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
