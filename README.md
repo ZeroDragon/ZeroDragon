@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Null vs Undefined - Everything you need to know](https://dev.to/arafat4693/null-vs-undefined-everything-you-need-to-know-24fo)
 - [Dev.to/JS] [Design system with Tailwindcss](https://dev.to/guillaumeduhan/design-system-with-tailwindcss-3ihc)
 - [Dev.to/JS] [Migrate a 60k LOC TypeScript &lpar;NodeJS&rpar; repo to ESM and testing become 4x faster &lpar;2/2&rpar;](https://dev.to/gaosun/migrate-a-60k-loc-typescript-nodejs-repo-to-esm-and-testing-become-4x-faster-22-4a4k)
 - [Dev.to/JS] [Introduction to Data Structures and Algorithms](https://dev.to/brilliance/introduction-to-data-structures-and-algorithms-5b6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get started with Hyperledger Fabric](https://dev.to/akshaykurhekar/how-to-get-started-with-hyperledger-fabric-1ef)
 - [Dev.to/JS] [My Journey in Open Source - key-value-cache](https://dev.to/cadienvan/my-journey-in-open-source-key-value-cache-4ngh)
 - [Dev.to/JS] [What is Binding and How It Works In JavaScprit ?](https://dev.to/erhaneth/what-is-binding--hao)
-- [Dev.to/JS] [The fastest way to learn react](https://dev.to/ahmed_onour/the-fastest-way-to-learn-react-218g)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
