@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The fastest way to learn react](https://dev.to/ahmed_onour/the-fastest-way-to-learn-react-218g)
 - [Dev.to/JS] [Implement FormControl to ensure form accessibility in React](https://dev.to/sabigara/implement-formcontrol-to-ensure-form-accessibility-in-react-595d)
 - [Dev.to/JS] [7 killers VS code extensions every JavaScript developer must have.](https://dev.to/hy_piyush/7-killers-vs-code-extensions-every-javascript-developer-must-have-35b)
 - [Dev.to/JS] [10 Killer Websites that’ll change the way you learn Web Development](https://dev.to/hy_piyush/10-killer-websites-thatll-change-the-way-you-learn-web-development-2n0k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals: Syntax &amp; Structure](https://dev.to/timothyrobards/javascript-fundamentals-syntax-structure-544i)
 - [Dev.to/JS] [Express State Management of the Frontend Framework with Plain Javascript](https://dev.to/ysi831/express-state-management-of-the-frontend-framework-with-plain-javascript-20p6)
 - [Dev.to/JS] [How to create a cartoon profile picture with javascript](https://dev.to/brandonbyr4/how-to-create-a-cartoon-profile-picture-with-javascript-5cjf)
-- [Dev.to/JS] [What is Redux?](https://dev.to/nothanii/what-is-redux-45n0)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
