@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add an unread mail count badge to Gmail](https://dev.to/jboxman/add-an-unread-mail-count-badge-to-gmail-40p)
+- [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
+- [Dev.to/JS] [Building a Radar Chart in JavaScript](https://dev.to/andreykh1985/building-a-radar-chart-in-javascript-13pa)
+- [Dev.to/JS] [JavaScript Date: Get Date methods](https://dev.to/salmaab/javascript-date-get-date-methods-2c4i)
+- [Dev.to/JS] [9 Best Developer Communities On Discord](https://dev.to/mayank0255/9-best-developer-communities-on-discord-207i)
+- [Dev.to/JS] [Dot Notation Type Accessor in TypeScript](https://dev.to/calebpitan/dot-notation-type-accessor-in-typescript-136j)
+- [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Dev.to/JS] [Master Notifications With ChatGPT, React and NodeJS 🧨](https://dev.to/novu/master-notifications-with-chatgpt-react-and-nodejs-1ea9)
 - [Dev.to/JS] [Redux Toolkit with Node js](https://dev.to/mohamed1255847/redux-toolkit-with-node-js-4c3m)
 - [Dev.to/JS] [Every abbreviation used in JavaScript explained](https://dev.to/rahulbhai9/every-abbreviation-used-in-javascript-explained-29p2)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Cheapest Way to Ship a Car](https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771)
 - [Dev.to/JS] [How To Perform Modern Web Testing With TestCafe Using JavaScript And Selenium](https://dev.to/lambdatest/how-to-perform-modern-web-testing-with-testcafe-using-javascript-and-selenium-f9b)
 - [Dev.to/JS] [JavaScript tricks 🤯 that every developer should know](https://dev.to/objectuser/javascript-tricks-that-you-must-know-27fe)
-- [Dev.to/JS] [TonyEdit](https://dev.to/ashutosh_pandey/tonyedit-7p7)
-- [Dev.to/JS] [How to Make Most Beautiful eCommerce Website](https://dev.to/codewithsadee/how-to-make-most-beautiful-ecommerce-website-19he)
-- [Dev.to/JS] [Getting started with JS loops](https://dev.to/klc/getting-started-with-js-loops-20pf)
-- [Dev.to/JS] [6 Incredible Ways Data Science Is Changing The Real Estate Sector](https://dev.to/johnalex12345/6-incredible-ways-data-science-is-changing-the-real-estate-sector-45a0)
-- [Dev.to/JS] [jQuery](https://dev.to/hassanshan/jquery-276g)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [45 of Lifehacker&#39;s Favorite iPhone Hacks of 2022](https://lifehacker.com/45-of-lifehackers-favorite-iphone-hacks-of-2022-1849920815)
 - [Lifehacker] [8 of Lifehacker&#39;s Best Job Survival Hacks of 2022](https://lifehacker.com/8-of-lifehackers-best-job-survival-hacks-of-2022-1849919870)
 - [Lifehacker] [Cranberry Meringue Pie Is the Perfect Holiday Dessert](https://lifehacker.com/cranberry-meringue-pie-is-the-perfect-holiday-dessert-1849921307)
-- [Lifehacker] [12 More Actors You Didn&#39;t Know Are &#39;Nepotism Babies&#39;](https://lifehacker.com/12-more-actors-you-didnt-know-are-nepotism-babies-1849921029)
-- [Lifehacker] [Please Prepare Now for This Incoming Arctic Freeze](https://lifehacker.com/please-prepare-now-for-this-incoming-arctic-freeze-1849921562)
-- [Lifehacker] [You Should Add Eggnog to Your Christmas Morning Pancakes](https://lifehacker.com/you-should-add-eggnog-to-your-christmas-morning-pancake-1849919573)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 More Actors You Didn&#39;t Know Are &#39;Nepotism Babies&#39;](https://lifehacker.com/12-more-actors-you-didnt-know-are-nepotism-babies-1849921029)<!-- TECH-POSTS:END -->
 
 ---
 
