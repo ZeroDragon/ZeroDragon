@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Redux?](https://dev.to/nothanii/what-is-redux-45n0)
+- [Dev.to/JS] [Top 10 python tips](https://dev.to/kelas_teknisi/top-10-python-tips-54id)
+- [Dev.to/JS] [Service workers tutorial](https://dev.to/uploadcare/service-workers-tutorial-1b7h)
+- [Dev.to/JS] [How to Set Up Google Tag Manager &lpar;GTM&rpar; on Your Website Quickly](https://dev.to/analyticsinstitute/how-to-set-up-google-tag-manager-gtm-on-your-website-quickly-4c9o)
 - [Dev.to/JS] [tsParticles 2.7.1 Released](https://dev.to/matteobruni/tsparticles-271-released-4iam)
 - [Dev.to/JS] [How To Give your React App a Holiday Theme with react-snowfall](https://dev.to/jaredm/how-to-give-your-react-app-a-holiday-theme-with-react-snowfall-13ba)
 - [Dev.to/JS] [The Javascript higher order array methods with reactjs examples](https://dev.to/boluwatifeajayi/the-javascript-higher-order-array-methods-implemented-with-react-2gpd)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promises in javascript simply explained](https://dev.to/boluwatifeajayi/promises-in-javascript-simply-explained-4mo8)
 - [Dev.to/JS] [What the hell are React Server Components ?](https://dev.to/shivamjjha/what-the-hell-are-react-server-components--14md)
 - [Dev.to/JS] [Monkey Math](https://dev.to/rmion/monkey-math-4dmf)
-- [Dev.to/JS] [LeetCode - Single Number III](https://dev.to/_alkesh26/leetcode-single-number-iii-d8b)
-- [Dev.to/JS] [Is a Self-Taught Developer&#39;s Future Scary and Unpredictable?](https://dev.to/ayka_code/is-a-self-taught-developers-future-scary-and-unpredictable-4d96)
-- [Dev.to/JS] [Dockerizing Your Code: A Step-by-Step Guide](https://dev.to/adgamerx/dockerizing-your-code-a-step-by-step-guide-205c)
-- [Dev.to/JS] [ReactJS - Introduction and Features](https://dev.to/shivang_purrohit/reactjs-introduction-and-features-1m6)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
