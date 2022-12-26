@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The best Angular 15 Starter Project](https://dev.to/wlucha/the-best-angular-15-starter-project-576o)
 - [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 04 - useRef⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-04-useref-4kbi)
 - [Dev.to/JS] [Why javascript is So Popular with good points and example.....](https://dev.to/nitjsr12/why-javascript-is-so-popular-with-good-points-and-example-2i3h)
 - [Dev.to/JS] [I want to start advance Java. What is the first step???](https://dev.to/dk119819/i-want-to-start-advance-java-what-is-the-first-step-1nm0)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Dev.to/JS] [Master Notifications With ChatGPT, React and NodeJS 🧨](https://dev.to/novu/master-notifications-with-chatgpt-react-and-nodejs-1ea9)
 - [Dev.to/JS] [Redux Toolkit with Node js](https://dev.to/mohamed1255847/redux-toolkit-with-node-js-4c3m)
-- [Dev.to/JS] [Every abbreviation used in JavaScript explained](https://dev.to/rahulbhai9/every-abbreviation-used-in-javascript-explained-29p2)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
 - [Lifehacker] [The Cheapest Way to Ship a Car](https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
