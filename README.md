@@ -25,7 +25,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Lifehacker] [The Cheapest Way to Ship a Car](https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771)
 - [Dev.to/JS] [How To Perform Modern Web Testing With TestCafe Using JavaScript And Selenium](https://dev.to/lambdatest/how-to-perform-modern-web-testing-with-testcafe-using-javascript-and-selenium-f9b)
-- [Dev.to/JS] [JavaScript tricks that you Must know 🤯](https://dev.to/objectuser/javascript-tricks-that-you-must-know-27fe)
+- [Dev.to/JS] [JavaScript tricks 🤯 that every developer should know](https://dev.to/objectuser/javascript-tricks-that-you-must-know-27fe)
 - [Dev.to/JS] [TonyEdit](https://dev.to/ashutosh_pandey/tonyedit-7p7)
 - [Dev.to/JS] [How to Make Most Beautiful eCommerce Website](https://dev.to/codewithsadee/how-to-make-most-beautiful-ecommerce-website-19he)
 - [Dev.to/JS] [Getting started with JS loops](https://dev.to/klc/getting-started-with-js-loops-20pf)
