@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 04 - useRef⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-04-useref-4kbi)
+- [Dev.to/JS] [Why javascript is So Popular with good points and example.....](https://dev.to/nitjsr12/why-javascript-is-so-popular-with-good-points-and-example-2i3h)
 - [Dev.to/JS] [I want to start advance Java. What is the first step???](https://dev.to/dk119819/i-want-to-start-advance-java-what-is-the-first-step-1nm0)
 - [Dev.to/JS] [Alternatives to Git.](https://dev.to/niza/alternatives-to-git-4p6m)
 - [Dev.to/JS] [Add an unread mail count badge to Gmail](https://dev.to/jboxman/add-an-unread-mail-count-badge-to-gmail-40p)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux Toolkit with Node js](https://dev.to/mohamed1255847/redux-toolkit-with-node-js-4c3m)
 - [Dev.to/JS] [Every abbreviation used in JavaScript explained](https://dev.to/rahulbhai9/every-abbreviation-used-in-javascript-explained-29p2)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
-- [Dev.to/JS] [What is SWR and How Can It Improve Your React Apps?](https://dev.to/basskibo/what-is-swr-and-how-can-it-improve-your-react-apps-2016)
-- [Dev.to/JS] [React Components to PDF API with CloudRun and Terraform](https://dev.to/mharrvic/react-components-to-pdf-api-with-cloudrun-and-terraform-39eg)
 - [Lifehacker] [The Cheapest Way to Ship a Car](https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
