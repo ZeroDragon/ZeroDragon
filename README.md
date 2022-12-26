@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Course Schedule I &amp; II](https://dev.to/zeeshanali0704/course-schedule-i-ii-3229)
+- [Dev.to/JS] [Explain X Like I&#39;m Five](https://dev.to/yurisoma/explain-x-like-im-five-4klh)
+- [Dev.to/JS] [Commonly Answered Questions about Data Science in 2023 -Part 3](https://dev.to/kanishedureka/commonly-answered-questions-about-data-science-in-2023-part-3-m61)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍎.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-16pk)
+- [Dev.to/JS] [Intro to Redux-Toolkit](https://dev.to/sarthakpant772/intro-to-redux-toolkit-3f48)
 - [Dev.to/JS] [Null vs Undefined - Everything you need to know](https://dev.to/arafat4693/null-vs-undefined-everything-you-need-to-know-24fo)
 - [Dev.to/JS] [Design system with Tailwindcss](https://dev.to/guillaumeduhan/design-system-with-tailwindcss-3ihc)
 - [Dev.to/JS] [Migrate a 60k LOC TypeScript &lpar;NodeJS&rpar; repo to ESM and testing become 4x faster &lpar;2/2&rpar;](https://dev.to/gaosun/migrate-a-60k-loc-typescript-nodejs-repo-to-esm-and-testing-become-4x-faster-22-4a4k)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-dec-2022-5b2l)
 - [Dev.to/JS] [What is the Systems Development Life Cycle: A Comprehensive Review](https://dev.to/flatlogic/what-is-the-systems-development-life-cycle-a-comprehensive-review-ddo)
 - [Dev.to/JS] [React Context API](https://dev.to/shubhamtiwari909/global-state-using-context-api-react-1l08)
-- [Dev.to/JS] [How HTTP works](https://dev.to/pandaquests/how-http-works-3p6m)
-- [Dev.to/JS] [I want to make One page Static website for Fun](https://dev.to/taskmaster101/i-want-to-make-one-page-static-website-for-fun-56gl)
-- [Dev.to/JS] [How to get started with Hyperledger Fabric](https://dev.to/akshaykurhekar/how-to-get-started-with-hyperledger-fabric-1ef)
-- [Dev.to/JS] [My Journey in Open Source - key-value-cache](https://dev.to/cadienvan/my-journey-in-open-source-key-value-cache-4ngh)
-- [Dev.to/JS] [What is Binding and How It Works In JavaScprit ?](https://dev.to/erhaneth/what-is-binding--hao)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
