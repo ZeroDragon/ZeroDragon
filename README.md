@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building reusable components in ReactJS](https://dev.to/jagroop2000/building-reusable-components-in-reactjs-56f3)
+- [Dev.to/JS] [Complete List Of The Best CSS Frameworks](https://dev.to/antarikshgoyal/complete-list-of-the-best-css-frameworks-lco)
+- [Dev.to/JS] [Pipy proxy: Creating HTTP Tunnel with 10 lines of code](https://dev.to/naqvis/pipy-proxy-creating-http-tunnel-with-10-lines-of-code-2d62)
+- [Dev.to/JS] [use @change/onChange event listener when file is picked](https://dev.to/michellebuchiokonicha/making-a-rule-in-vuevuetify-work-only-when-a-new-file-is-picked-51ag)
+- [Dev.to/JS] [Top Benefits for Business of DevOps You Must Know](https://dev.to/kanishedureka/top-benefits-for-business-of-devops-you-must-know-2cp7)
 - [Dev.to/JS] [Common Queries of Data Science with Python - 2023](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-2023-ihn)
 - [Dev.to/JS] [Become a Full Stack Web Developer in 2023 🤩🔥 Complete Roadmap and resources](https://dev.to/sanket00900/become-a-full-stack-web-developer-in-2023-complete-roadmap-and-resources-3beh)
 - [Dev.to/JS] [Vite vs Create react app&lpar;CRA&rpar;](https://dev.to/orqoncom/vite-vs-create-react-appcra-2d9o)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Where is the safest place to hold JSON Web Token?](https://dev.to/orqoncom/where-is-the-safest-place-to-hold-jwt-c25)
 - [Dev.to/JS] [Agile Development Frameworks for mobile](https://dev.to/orqoncom/agile-development-frameworks-fap)
 - [Dev.to/JS] [Code warriors, coding all day and night - A short poem](https://dev.to/lakincoder/code-warriors-coding-all-day-and-night-a-short-poem-5emf)
-- [Dev.to/JS] [Developers, oh developers](https://dev.to/lakincoder/developers-oh-developers-29pk)
-- [Dev.to/JS] [Tutorial part-3: key-value store - increment and decrement operations](https://dev.to/restdbjones/tutorial-part-3-key-value-store-increment-and-decrement-operations-297o)
-- [Dev.to/JS] [Javascript: Promises](https://dev.to/deepak1jha/javascript-promises-1nc9)
-- [Dev.to/JS] [How to Validate Password Strength Using Regex and JavaScript](https://dev.to/ayka_code/how-to-validate-password-strength-using-regex-and-javascript-4083)
-- [Dev.to/JS] [I am creating a new ✨JavaScript✨ Framework](https://dev.to/ohayouarmaan/i-am-creating-a-new-javascript-framework-46af)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
