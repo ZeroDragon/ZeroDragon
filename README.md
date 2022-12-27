@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Want to have all hot fun in your life with Hyderabad Escorts Girls](https://dev.to/hyderabadescorts/want-to-have-all-hot-fun-in-your-life-with-hyderabad-escorts-girls-3105)
+- [Dev.to/JS] [5 Ways to Get the Most From Your AI Chatbot](https://dev.to/imshibaji/5-ways-to-get-the-most-from-your-ai-chatbot-69p)
+- [Dev.to/JS] [Author&#39;s, Happy New Year :&rpar;](https://dev.to/suharyadi2112/authors-happy-new-year--llk)
 - [Dev.to/JS] [5 🔥 JavaScript Tricks that you should know](https://dev.to/danfrmspace/5-javascript-tricks-that-you-should-know-502m)
 - [Dev.to/JS] [Via Keto Gummies – Fat Loss Results, Benefits, Price And Ingredients?](https://dev.to/viaketo48990558/via-keto-gummies-fat-loss-results-benefits-price-and-ingredients-emo)
 - [Dev.to/JS] [CSS Cheat Sheet – A Basic Guide to CSS](https://dev.to/backlinkss/css-cheat-sheet-a-basic-guide-to-css-2b6p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Scan Documents from eSCL Scanners in Web Applications](https://dev.to/yushulx/how-to-scan-documents-from-escl-scanners-in-web-applications-3ogk)
 - [Dev.to/JS] [A Comprehensive Guide to Modern Database Technologies](https://dev.to/notreeceharris/a-comprehensive-guide-to-modern-database-technologies-17p8)
 - [Dev.to/JS] [What you should know about React Key Prop](https://dev.to/rem0nfawzi/what-you-should-know-about-react-key-prop-4f8p)
-- [Dev.to/JS] [Python Django chat app tutorial](https://dev.to/alakkadshaw/python-django-chat-app-tutorial-1ba1)
-- [Dev.to/JS] [La solución definitiva: &lpar;Dependency injection, Dependency inversion, Inversion of control y Hexagonal architecture&rpar;](https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol)
-- [Dev.to/JS] [The Ultimate Guide To localStorage in JavaScript](https://dev.to/asayerio_techblog/the-ultimate-guide-to-localstorage-in-javascript-49eo)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
