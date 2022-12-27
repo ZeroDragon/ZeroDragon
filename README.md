@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)
+- [Dev.to/JS] [How to make a custom cursor + cursor hover effects](https://dev.to/lensco825/how-to-make-a-custom-cursor-cursor-hover-effects-1ikg)
+- [Lifehacker] [You Should Try Steaming an Egg &lpar;Instead of Boiling It&rpar;](https://lifehacker.com/you-should-try-steaming-an-egg-instead-of-boiling-it-1849762587)
+- [Dev.to/JS] [พุซ อิน บู๊ทส์ 2 The Last Wish &lpar;2022&rpar; ซูม [THAI-SUB] ออนไลน์ เต็มเรื่อง 4K](https://dev.to/pussinboots2thelastwishthaidub/phuch-in-buuths-2-the-last-wish-2022-chuum-thai-sub-nailn-etmeruueng-4k-568m)
 - [Lifehacker] [All the Ways You&#39;re Annoying Your Server Without Knowing It](https://lifehacker.com/all-the-ways-youre-annoying-your-server-without-knowing-1849705131)
 - [Dev.to/JS] [Next.js vs. Gatsby: A Full Comparison](https://dev.to/maxikius/nextjs-vs-gatsby-a-full-comparison-aid)
 - [Dev.to/JS] [Moonly weekly progress update #29](https://dev.to/moonly/moonly-weekly-progress-update-29-5452)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [use @change/onChange event listener when file is picked](https://dev.to/michellebuchiokonicha/making-a-rule-in-vuevuetify-work-only-when-a-new-file-is-picked-51ag)
 - [Dev.to/JS] [Top Benefits for Business of DevOps You Must Know](https://dev.to/kanishedureka/top-benefits-for-business-of-devops-you-must-know-2cp7)
 - [Dev.to/JS] [Common Queries of Data Science with Python - 2023](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-2023-ihn)
-- [Dev.to/JS] [Become a Full Stack Web Developer in 2023 🤩🔥 Complete Roadmap and resources](https://dev.to/sanket00900/become-a-full-stack-web-developer-in-2023-complete-roadmap-and-resources-3beh)
-- [Dev.to/JS] [Vite vs Create react app&lpar;CRA&rpar;](https://dev.to/orqoncom/vite-vs-create-react-appcra-2d9o)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Your Toilet Brush From Dripping Everywhere](https://lifehacker.com/how-to-stop-your-toilet-brush-from-dripping-everywhere-1849923532)
 - [Lifehacker] [8 of Lifehacker&#39;s Best Personal Finance Hacks in 2022](https://lifehacker.com/8-of-lifehackers-best-personal-finance-hacks-in-2022-1849922761)
 - [Lifehacker] [10 of Lifehacker’s Favorite Home Safety Tips of 2022](https://lifehacker.com/10-of-lifehacker-s-favorite-home-safety-tips-of-2022-1849923686)
-- [Lifehacker] [How to Get McDonald’s Double Cheeseburgers for 50 Cents Right Now](https://lifehacker.com/how-to-get-mcdonald-s-double-cheeseburgers-for-50-cents-1849923216)
-- [Lifehacker] [45 of Lifehacker&#39;s Favorite iPhone Hacks of 2022](https://lifehacker.com/45-of-lifehackers-favorite-iphone-hacks-of-2022-1849920815)
-- [Lifehacker] [8 of Lifehacker&#39;s Best Job Survival Hacks of 2022](https://lifehacker.com/8-of-lifehackers-best-job-survival-hacks-of-2022-1849919870)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get McDonald’s Double Cheeseburgers for 50 Cents Right Now](https://lifehacker.com/how-to-get-mcdonald-s-double-cheeseburgers-for-50-cents-1849923216)<!-- TECH-POSTS:END -->
 
 ---
 
