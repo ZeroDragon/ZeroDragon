@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways You&#39;re Annoying Your Server Without Knowing It](https://lifehacker.com/all-the-ways-youre-annoying-your-server-without-knowing-1849705131)
+- [Dev.to/JS] [Next.js vs. Gatsby: A Full Comparison](https://dev.to/maxikius/nextjs-vs-gatsby-a-full-comparison-aid)
+- [Dev.to/JS] [Moonly weekly progress update #29](https://dev.to/moonly/moonly-weekly-progress-update-29-5452)
+- [Lifehacker] [25 of the Greatest Viral Videos of 2022](https://lifehacker.com/25-of-the-greatest-viral-videos-of-2022-1849917629)
+- [Dev.to/JS] [Shortest Path in Unweighted Graph](https://dev.to/zeeshanali0704/shortest-path-in-unweighted-graph-2863)
+- [Dev.to/JS] [React Hooks](https://dev.to/soham0047/react-hooks-243i)
 - [Dev.to/JS] [Building reusable components in ReactJS](https://dev.to/jagroop2000/building-reusable-components-in-reactjs-56f3)
-- [Dev.to/JS] [Complete List Of The Best CSS Frameworks](https://dev.to/antarikshgoyal/complete-list-of-the-best-css-frameworks-lco)
+- [Dev.to/JS] [Complete List Of The Best CSS Frameworks](https://dev.to/lambdatest/complete-list-of-the-best-css-frameworks-lco)
 - [Dev.to/JS] [Pipy proxy: Creating HTTP Tunnel with 10 lines of code](https://dev.to/naqvis/pipy-proxy-creating-http-tunnel-with-10-lines-of-code-2d62)
 - [Dev.to/JS] [use @change/onChange event listener when file is picked](https://dev.to/michellebuchiokonicha/making-a-rule-in-vuevuetify-work-only-when-a-new-file-is-picked-51ag)
 - [Dev.to/JS] [Top Benefits for Business of DevOps You Must Know](https://dev.to/kanishedureka/top-benefits-for-business-of-devops-you-must-know-2cp7)
 - [Dev.to/JS] [Common Queries of Data Science with Python - 2023](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-2023-ihn)
 - [Dev.to/JS] [Become a Full Stack Web Developer in 2023 🤩🔥 Complete Roadmap and resources](https://dev.to/sanket00900/become-a-full-stack-web-developer-in-2023-complete-roadmap-and-resources-3beh)
 - [Dev.to/JS] [Vite vs Create react app&lpar;CRA&rpar;](https://dev.to/orqoncom/vite-vs-create-react-appcra-2d9o)
-- [Dev.to/JS] [11 Tips That Make You a Better JavaScript Programmer...](https://dev.to/nitjsr12/11-tips-that-make-you-a-better-javascript-programmer-amg)
-- [Dev.to/JS] [Where is the safest place to hold JSON Web Token?](https://dev.to/orqoncom/where-is-the-safest-place-to-hold-jwt-c25)
-- [Dev.to/JS] [Agile Development Frameworks for mobile](https://dev.to/orqoncom/agile-development-frameworks-fap)
-- [Dev.to/JS] [Code warriors, coding all day and night - A short poem](https://dev.to/lakincoder/code-warriors-coding-all-day-and-night-a-short-poem-5emf)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of Lifehacker’s Favorite Home Safety Tips of 2022](https://lifehacker.com/10-of-lifehacker-s-favorite-home-safety-tips-of-2022-1849923686)
 - [Lifehacker] [How to Get McDonald’s Double Cheeseburgers for 50 Cents Right Now](https://lifehacker.com/how-to-get-mcdonald-s-double-cheeseburgers-for-50-cents-1849923216)
 - [Lifehacker] [45 of Lifehacker&#39;s Favorite iPhone Hacks of 2022](https://lifehacker.com/45-of-lifehackers-favorite-iphone-hacks-of-2022-1849920815)
-- [Lifehacker] [8 of Lifehacker&#39;s Best Job Survival Hacks of 2022](https://lifehacker.com/8-of-lifehackers-best-job-survival-hacks-of-2022-1849919870)
-- [Lifehacker] [Cranberry Meringue Pie Is the Perfect Holiday Dessert](https://lifehacker.com/cranberry-meringue-pie-is-the-perfect-holiday-dessert-1849921307)
-- [Lifehacker] [12 More Actors You Didn&#39;t Know Are &#39;Nepotism Babies&#39;](https://lifehacker.com/12-more-actors-you-didnt-know-are-nepotism-babies-1849921029)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 of Lifehacker&#39;s Best Job Survival Hacks of 2022](https://lifehacker.com/8-of-lifehackers-best-job-survival-hacks-of-2022-1849919870)<!-- TECH-POSTS:END -->
 
 ---
 
