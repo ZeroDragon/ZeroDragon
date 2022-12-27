@@ -23,11 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Nine Changes You Should Make With Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
+- [Dev.to/JS] [useDeferredValue Hook](https://dev.to/fpaghar/usedeferredvalue-hook-29m9)
+- [Dev.to/JS] [VS Code extensions every web dev needs to know](https://dev.to/zuzexx/vs-code-extensions-every-web-dev-needs-to-know-670)
+- [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
 - [Lifehacker] [How Much Hair Is Normal to Lose in a Day?](https://lifehacker.com/how-much-hair-is-normal-to-lose-in-a-day-1849711637)
 - [Lifehacker] [Your Intense Co-Dependency Might Be a ‘Karmic Relationship’](https://lifehacker.com/your-intense-co-dependency-might-be-a-karmic-relations-1849811105)
 - [Dev.to/JS] [NodeList vs HtmlCollection](https://dev.to/lucaswll/nodelist-vs-htmlcollection-e5)
 - [Dev.to/JS] [5 B2B Ecommerce Sites You Should Learn UX From](https://dev.to/medusajs/5-b2b-ecommerce-sites-you-should-learn-ux-from-4l08)
-- [Dev.to/JS] [Monorepos with pnpm - Part 1: A performant package manager](https://dev.to/hotjar/monorepos-with-pnpm-part-1-a-performant-package-manager-5g41)
+- [Dev.to/JS] [Monorepos - pnpm: a performant npm](https://dev.to/hotjar/monorepos-with-pnpm-part-1-a-performant-package-manager-5g41)
 - [Lifehacker] [Don&#39;t Waste Money on Food Allergy Tests &lpar;and What to Do Instead&rpar;](https://lifehacker.com/dont-waste-money-on-food-allergy-tests-and-what-to-do-1849699553)
 - [Dev.to/JS] [Reset User Passwords](https://dev.to/konstantinstanmeyer/reset-user-passwords-4hco)
 - [Dev.to/JS] [Tail Call Optimization](https://dev.to/justinethier/tail-call-optimization-d5l)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to TypeScript](https://dev.to/shihab91/introduction-to-typescript-2k16)
 - [Dev.to/JS] [String.includes&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringprototypeincludes-in-javascript-52ea)
 - [Lifehacker] [How to &lpar;Safely&rpar; Shovel Snow Off Your Roof](https://lifehacker.com/how-to-safely-shovel-snow-off-your-roof-1849762679)
-- [Dev.to/JS] [Uniqueness of JavaScript](https://dev.to/rahulbhai9/uniqueness-of-javascript-2nb2)
-- [Dev.to/JS] [18 Best JavaScript Gantt Chart Components](https://dev.to/plazarev/18-best-javascript-gantt-chart-components-2d78)
 - [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)
 - [Lifehacker] [You Should Try Steaming an Egg &lpar;Instead of Boiling It&rpar;](https://lifehacker.com/you-should-try-steaming-an-egg-instead-of-boiling-it-1849762587)
 - [Lifehacker] [All the Ways You&#39;re Annoying Your Server Without Knowing It](https://lifehacker.com/all-the-ways-youre-annoying-your-server-without-knowing-1849705131)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
 - [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
 - [Lifehacker] [Where to Get Emergency Ice on Christmas Day](https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036)
-- [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
-- [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
-- [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)<!-- TECH-POSTS:END -->
 
 ---
 
