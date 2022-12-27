@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the limitations of ReactJS?](https://dev.to/pankajkumar/what-are-the-limitations-of-reactjs-l88)
+- [Dev.to/JS] [ดู-วัยอลวน 5【Wai Onlawon Haa】เต็ม เรื่อง ออนไลน์ 123](https://dev.to/waionlawonhafullstory123thai/duu-waylwn-5wai-onlawon-haa-etm-eruueng-nailn-123-3e9g)
 - [Dev.to/JS] [How to Scan Documents from eSCL Scanners in Web Applications](https://dev.to/yushulx/how-to-scan-documents-from-escl-scanners-in-web-applications-3ogk)
 - [Dev.to/JS] [A Comprehensive Guide to Modern Database Technologies](https://dev.to/notreeceharris/a-comprehensive-guide-to-modern-database-technologies-17p8)
 - [Dev.to/JS] [What you should know about React Key Prop](https://dev.to/rem0nfawzi/what-you-should-know-about-react-key-prop-4f8p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The best Angular 15 Starter Project](https://dev.to/wlucha/the-best-angular-15-starter-project-576o)
 - [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 04 - useRef⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-04-useref-4kbi)
 - [Dev.to/JS] [Why javascript is So Popular with good points and example.....](https://dev.to/nitjsr12/why-javascript-is-so-popular-with-good-points-and-example-2i3h)
-- [Dev.to/JS] [I want to start advance Java. What is the first step???](https://dev.to/dk119819/i-want-to-start-advance-java-what-is-the-first-step-1nm0)
-- [Dev.to/JS] [Alternatives to Git.](https://dev.to/niza/alternatives-to-git-4p6m)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
