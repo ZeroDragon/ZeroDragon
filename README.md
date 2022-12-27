@@ -23,12 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
+- [Dev.to/JS] [Como criar seu próprio sistema de gerenciamento de estado com vanilla JS?](https://dev.to/diogoneves07/como-criar-seu-proprio-sistema-de-gerenciamento-de-estado-com-vanilla-js-29fm)
+- [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
+- [Dev.to/JS] [Code Optimization Ideas For LLazyEmail templates](https://dev.to/atherdon/code-optimization-ideas-for-llazyemail-templates-44b5)
+- [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
 - [Dev.to/JS] [Key React 18 release features in 2022](https://dev.to/diogorodrigues/key-react-18-release-features-in-2022-2fi0)
 - [Dev.to/JS] [React Router Data Fetching](https://dev.to/franciscomendes10866/react-router-data-fetching-2ikh)
 - [Dev.to/JS] [Looking for a WordPress alternative? React Bricks is a great CMS.](https://dev.to/hiteshnalamwar/looking-for-a-wordpress-alternative-react-bricks-is-a-great-cms-4aga)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)
 - [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
-- [Dev.to/JS] [Java vs Javascript - What&#39;s the differences and Which is better?](https://dev.to/souravghose/java-vs-javascript-whats-the-differences-and-which-is-better-3bhl)
+- [Dev.to/JS] [Java vs Javascript - What&#39;s the difference and Which is better?](https://dev.to/souravghose/java-vs-javascript-whats-the-differences-and-which-is-better-3bhl)
 - [Dev.to/JS] [Leaving the comfort zone](https://dev.to/frtmnml/leaving-the-comfort-zone-3llm)
 - [Dev.to/JS] [The top 5 books that every entrepreneur should read](https://dev.to/thenomadevel/the-top-5-books-that-every-entrepreneur-should-read-2mc3)
 - [Dev.to/JS] [O que é uma Promise no Javascript?](https://dev.to/cristuker/o-que-e-uma-promise-3lfd)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
 - [Lifehacker] [How Much Hair Is Normal to Lose in a Day?](https://lifehacker.com/how-much-hair-is-normal-to-lose-in-a-day-1849711637)
 - [Lifehacker] [Your Intense Co-Dependency Might Be a ‘Karmic Relationship’](https://lifehacker.com/your-intense-co-dependency-might-be-a-karmic-relations-1849811105)
-- [Dev.to/JS] [NodeList vs HtmlCollection](https://dev.to/lucaswll/nodelist-vs-htmlcollection-e5)
-- [Dev.to/JS] [5 B2B Ecommerce Sites You Should Learn UX From](https://dev.to/medusajs/5-b2b-ecommerce-sites-you-should-learn-ux-from-4l08)
 - [Lifehacker] [Don&#39;t Waste Money on Food Allergy Tests &lpar;and What to Do Instead&rpar;](https://lifehacker.com/dont-waste-money-on-food-allergy-tests-and-what-to-do-1849699553)
 - [Lifehacker] [How to Retire in Phases &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-phases-and-why-you-should-1849762897)
 - [Lifehacker] [How Training a Puppy Improved My Parenting](https://lifehacker.com/how-training-a-puppy-improved-my-parenting-1849706173)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
 - [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
-- [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)
-- [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
-- [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
-- [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)<!-- TECH-POSTS:END -->
 
 ---
 
