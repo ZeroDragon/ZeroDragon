@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Much Hair Is Normal to Lose in a Day?](https://lifehacker.com/how-much-hair-is-normal-to-lose-in-a-day-1849711637)
+- [Lifehacker] [Your Intense Co-Dependency Might Be a ‘Karmic Relationship’](https://lifehacker.com/your-intense-co-dependency-might-be-a-karmic-relations-1849811105)
+- [Dev.to/JS] [NodeList vs HtmlCollection](https://dev.to/lucaswll/nodelist-vs-htmlcollection-e5)
+- [Dev.to/JS] [5 B2B Ecommerce Sites You Should Learn UX From](https://dev.to/medusajs/5-b2b-ecommerce-sites-you-should-learn-ux-from-4l08)
 - [Dev.to/JS] [Monorepos with pnpm - Part 1: A performant package manager](https://dev.to/hotjar/monorepos-with-pnpm-part-1-a-performant-package-manager-5g41)
+- [Lifehacker] [Don&#39;t Waste Money on Food Allergy Tests &lpar;and What to Do Instead&rpar;](https://lifehacker.com/dont-waste-money-on-food-allergy-tests-and-what-to-do-1849699553)
 - [Dev.to/JS] [Reset User Passwords](https://dev.to/konstantinstanmeyer/reset-user-passwords-4hco)
 - [Dev.to/JS] [Tail Call Optimization](https://dev.to/justinethier/tail-call-optimization-d5l)
 - [Lifehacker] [How to Retire in Phases &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-phases-and-why-you-should-1849762897)
@@ -37,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Uniqueness of JavaScript](https://dev.to/rahulbhai9/uniqueness-of-javascript-2nb2)
 - [Dev.to/JS] [18 Best JavaScript Gantt Chart Components](https://dev.to/plazarev/18-best-javascript-gantt-chart-components-2d78)
 - [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)
-- [Dev.to/JS] [How to make a custom cursor + cursor hover effects](https://dev.to/lensco825/how-to-make-a-custom-cursor-cursor-hover-effects-1ikg)
 - [Lifehacker] [You Should Try Steaming an Egg &lpar;Instead of Boiling It&rpar;](https://lifehacker.com/you-should-try-steaming-an-egg-instead-of-boiling-it-1849762587)
-- [Dev.to/JS] [พุซ อิน บู๊ทส์ 2 The Last Wish &lpar;2022&rpar; ซูม [THAI-SUB] ออนไลน์ เต็มเรื่อง 4K](https://dev.to/pussinboots2thelastwishthaidub/phuch-in-buuths-2-the-last-wish-2022-chuum-thai-sub-nailn-etmeruueng-4k-568m)
 - [Lifehacker] [All the Ways You&#39;re Annoying Your Server Without Knowing It](https://lifehacker.com/all-the-ways-youre-annoying-your-server-without-knowing-1849705131)
 - [Lifehacker] [25 of the Greatest Viral Videos of 2022](https://lifehacker.com/25-of-the-greatest-viral-videos-of-2022-1849917629)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Get Emergency Ice on Christmas Day](https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036)
 - [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
 - [Lifehacker] [Why You Should Melt the Cream Cheese in Your Cheesecake](https://lifehacker.com/why-you-should-melt-the-cream-cheese-in-your-cheesecake-1849924745)
-- [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)
-- [Lifehacker] [Where to Get $400 Worth of Xbox Gift Cards for Only $320](https://lifehacker.com/where-to-get-400-worth-of-xbox-gift-cards-for-only-32-1849924399)
-- [Lifehacker] [Make Mini Yule Logs From a Box of HoHos](https://lifehacker.com/make-mini-yule-logs-from-a-box-of-hohos-1849923463)
-- [Lifehacker] [How to Stop Your Toilet Brush From Dripping Everywhere](https://lifehacker.com/how-to-stop-your-toilet-brush-from-dripping-everywhere-1849923532)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)<!-- TECH-POSTS:END -->
 
 ---
 
