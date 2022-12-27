@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [Nine Changes You Should Make With Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
+- [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
+- [Dev.to/JS] [O que é uma Promise no Javascript?](https://dev.to/cristuker/o-que-e-uma-promise-3lfd)
+- [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)
+- [Dev.to/JS] [Disable the button, until the full page is read within the iframe | React JS Iframe](https://dev.to/srikanthp_/disable-the-button-until-the-full-page-is-read-within-the-iframe-react-js-iframe-l6k)
+- [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
 - [Dev.to/JS] [useDeferredValue Hook](https://dev.to/fpaghar/usedeferredvalue-hook-29m9)
 - [Dev.to/JS] [VS Code extensions every web dev needs to know](https://dev.to/zuzexx/vs-code-extensions-every-web-dev-needs-to-know-670)
 - [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Mistakes That Every Typescript Deverloper Should Avoid](https://dev.to/arafat4693/5-mistakes-that-every-typescript-deverloper-should-avoid-33b)
 - [Lifehacker] [How Training a Puppy Improved My Parenting](https://lifehacker.com/how-training-a-puppy-improved-my-parenting-1849706173)
 - [Dev.to/JS] [Add Mastodon replies to your blog](https://dev.to/jesseskinner/add-mastodon-replies-to-your-blog-5842)
-- [Dev.to/JS] [Introduction to TypeScript](https://dev.to/shihab91/introduction-to-typescript-2k16)
-- [Dev.to/JS] [String.includes&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringprototypeincludes-in-javascript-52ea)
 - [Lifehacker] [How to &lpar;Safely&rpar; Shovel Snow Off Your Roof](https://lifehacker.com/how-to-safely-shovel-snow-off-your-roof-1849762679)
 - [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)
 - [Lifehacker] [You Should Try Steaming an Egg &lpar;Instead of Boiling It&rpar;](https://lifehacker.com/you-should-try-steaming-an-egg-instead-of-boiling-it-1849762587)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Free Popeyes Chicken Sandwiches for the Rest of the Year](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
 - [Lifehacker] [Not All After-Christmas Sales Start on December 26](https://lifehacker.com/not-all-after-christmas-sales-start-on-december-26-1849922870)
 - [Lifehacker] [Use These Canned Responses to Answer Nosy or Inappropriate Questions](https://lifehacker.com/use-these-canned-responses-to-answer-nosy-or-inappropri-1849922885)
-- [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)
-- [Lifehacker] [Where to Get Emergency Ice on Christmas Day](https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036)
-- [Lifehacker] [How to Survive Your Toxic Family Over the Holidays](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Chevy Bolt EV Is Being Recalled Again](https://lifehacker.com/the-chevy-bolt-ev-is-being-recalled-again-1849925272)<!-- TECH-POSTS:END -->
 
 ---
 
