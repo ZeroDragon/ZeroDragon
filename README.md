@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get your first job as a web developer](https://dev.to/taysongermano/how-to-get-your-first-job-as-a-web-developer-264i)
+- [Dev.to/JS] [Hoisting in Javascript for beginners](https://dev.to/itsmohamedyahia/hoisting-in-javascript-for-beginners-1200)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Dev.to/JS] [Como criar seu próprio sistema de gerenciamento de estado com vanilla JS?](https://dev.to/diogoneves07/como-criar-seu-proprio-sistema-de-gerenciamento-de-estado-com-vanilla-js-29fm)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
+- [Dev.to/JS] [Javascript para idiotas &lpar;como eu&rpar; - Iterando objetos](https://dev.to/edusantsouza/javascript-para-idiotas-como-eu-iterando-objetos-hlb)
 - [Dev.to/JS] [Code Optimization Ideas For LLazyEmail templates](https://dev.to/atherdon/code-optimization-ideas-for-llazyemail-templates-44b5)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
 - [Dev.to/JS] [Key React 18 release features in 2022](https://dev.to/diogorodrigues/key-react-18-release-features-in-2022-2fi0)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The top 5 books that every entrepreneur should read](https://dev.to/thenomadevel/the-top-5-books-that-every-entrepreneur-should-read-2mc3)
 - [Dev.to/JS] [O que é uma Promise no Javascript?](https://dev.to/cristuker/o-que-e-uma-promise-3lfd)
 - [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)
-- [Dev.to/JS] [Disable the button, until the full page is read within the iframe | React JS Iframe](https://dev.to/srikanthp_/disable-the-button-until-the-full-page-is-read-within-the-iframe-react-js-iframe-l6k)
 - [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
-- [Dev.to/JS] [useDeferredValue Hook](https://dev.to/fpaghar/usedeferredvalue-hook-29m9)
-- [Dev.to/JS] [VS Code extensions every web dev needs to know](https://dev.to/zuzexx/vs-code-extensions-every-web-dev-needs-to-know-670)
 - [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
 - [Lifehacker] [How Much Hair Is Normal to Lose in a Day?](https://lifehacker.com/how-much-hair-is-normal-to-lose-in-a-day-1849711637)
 - [Lifehacker] [Your Intense Co-Dependency Might Be a ‘Karmic Relationship’](https://lifehacker.com/your-intense-co-dependency-might-be-a-karmic-relations-1849811105)
