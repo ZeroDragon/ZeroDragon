@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Monorepos with pnpm - Part 1: A performant package manager](https://dev.to/hotjar/monorepos-with-pnpm-part-1-a-performant-package-manager-5g41)
+- [Dev.to/JS] [Reset User Passwords](https://dev.to/konstantinstanmeyer/reset-user-passwords-4hco)
+- [Dev.to/JS] [Tail Call Optimization](https://dev.to/justinethier/tail-call-optimization-d5l)
+- [Lifehacker] [How to Retire in Phases &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-phases-and-why-you-should-1849762897)
+- [Dev.to/JS] [Exploring the Power of new.target in JavaScript](https://dev.to/devsmitra/exploring-the-power-of-newtarget-in-javascript-2p66)
 - [Dev.to/JS] [5 Mistakes That Every Typescript Deverloper Should Avoid](https://dev.to/arafat4693/5-mistakes-that-every-typescript-deverloper-should-avoid-33b)
 - [Lifehacker] [How Training a Puppy Improved My Parenting](https://lifehacker.com/how-training-a-puppy-improved-my-parenting-1849706173)
+- [Dev.to/JS] [Add Mastodon replies to your blog](https://dev.to/jesseskinner/add-mastodon-replies-to-your-blog-5842)
 - [Dev.to/JS] [Introduction to TypeScript](https://dev.to/shihab91/introduction-to-typescript-2k16)
 - [Dev.to/JS] [String.includes&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringprototypeincludes-in-javascript-52ea)
 - [Lifehacker] [How to &lpar;Safely&rpar; Shovel Snow Off Your Roof](https://lifehacker.com/how-to-safely-shovel-snow-off-your-roof-1849762679)
@@ -35,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Try Steaming an Egg &lpar;Instead of Boiling It&rpar;](https://lifehacker.com/you-should-try-steaming-an-egg-instead-of-boiling-it-1849762587)
 - [Dev.to/JS] [พุซ อิน บู๊ทส์ 2 The Last Wish &lpar;2022&rpar; ซูม [THAI-SUB] ออนไลน์ เต็มเรื่อง 4K](https://dev.to/pussinboots2thelastwishthaidub/phuch-in-buuths-2-the-last-wish-2022-chuum-thai-sub-nailn-etmeruueng-4k-568m)
 - [Lifehacker] [All the Ways You&#39;re Annoying Your Server Without Knowing It](https://lifehacker.com/all-the-ways-youre-annoying-your-server-without-knowing-1849705131)
-- [Dev.to/JS] [Next.js vs. Gatsby: A Full Comparison](https://dev.to/maxikius/nextjs-vs-gatsby-a-full-comparison-aid)
-- [Dev.to/JS] [Moonly weekly progress update #29](https://dev.to/moonly/moonly-weekly-progress-update-29-5452)
 - [Lifehacker] [25 of the Greatest Viral Videos of 2022](https://lifehacker.com/25-of-the-greatest-viral-videos-of-2022-1849917629)
-- [Dev.to/JS] [Shortest Path in Unweighted Graph](https://dev.to/zeeshanali0704/shortest-path-in-unweighted-graph-2863)
-- [Dev.to/JS] [React Hooks](https://dev.to/soham0047/react-hooks-243i)
-- [Dev.to/JS] [Building reusable components in ReactJS](https://dev.to/jagroop2000/building-reusable-components-in-reactjs-56f3)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 13 Worst Health and Fitness Trends of 2022](https://lifehacker.com/the-13-worst-health-and-fitness-trends-of-2022-1849924373)
 - [Lifehacker] [Where to Get $400 Worth of Xbox Gift Cards for Only $320](https://lifehacker.com/where-to-get-400-worth-of-xbox-gift-cards-for-only-32-1849924399)
 - [Lifehacker] [Make Mini Yule Logs From a Box of HoHos](https://lifehacker.com/make-mini-yule-logs-from-a-box-of-hohos-1849923463)
-- [Lifehacker] [How to Stop Your Toilet Brush From Dripping Everywhere](https://lifehacker.com/how-to-stop-your-toilet-brush-from-dripping-everywhere-1849923532)
-- [Lifehacker] [8 of Lifehacker&#39;s Best Personal Finance Hacks in 2022](https://lifehacker.com/8-of-lifehackers-best-personal-finance-hacks-in-2022-1849922761)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop Your Toilet Brush From Dripping Everywhere](https://lifehacker.com/how-to-stop-your-toilet-brush-from-dripping-everywhere-1849923532)<!-- TECH-POSTS:END -->
 
 ---
 
