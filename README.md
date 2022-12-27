@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS Cheat Sheet – A Basic Guide to CSS](https://dev.to/backlinkss/css-cheat-sheet-a-basic-guide-to-css-2b6p)
+- [Dev.to/JS] [Dive into JavaScript Closures.](https://dev.to/imsabodetocode/dive-into-javascript-closures-j7)
 - [Dev.to/JS] [What are the limitations of ReactJS?](https://dev.to/pankajkumar/what-are-the-limitations-of-reactjs-l88)
 - [Dev.to/JS] [ดู-วัยอลวน 5【Wai Onlawon Haa】เต็ม เรื่อง ออนไลน์ 123](https://dev.to/waionlawonhafullstory123thai/duu-waylwn-5wai-onlawon-haa-etm-eruueng-nailn-123-3e9g)
 - [Dev.to/JS] [How to Scan Documents from eSCL Scanners in Web Applications](https://dev.to/yushulx/how-to-scan-documents-from-escl-scanners-in-web-applications-3ogk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Ultimate Guide To localStorage in JavaScript](https://dev.to/asayerio_techblog/the-ultimate-guide-to-localstorage-in-javascript-49eo)
 - [Dev.to/JS] [GraphQL Oversimplified](https://dev.to/arafat4693/graphql-oversimplified-1g23)
 - [Dev.to/JS] [The best Angular 15 Starter Project](https://dev.to/wlucha/the-best-angular-15-starter-project-576o)
-- [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 04 - useRef⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-04-useref-4kbi)
-- [Dev.to/JS] [Why javascript is So Popular with good points and example.....](https://dev.to/nitjsr12/why-javascript-is-so-popular-with-good-points-and-example-2i3h)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
