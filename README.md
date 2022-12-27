@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Scan Documents from eSCL Scanners in Web Applications](https://dev.to/yushulx/how-to-scan-documents-from-escl-scanners-in-web-applications-3ogk)
+- [Dev.to/JS] [A Comprehensive Guide to Modern Database Technologies](https://dev.to/notreeceharris/a-comprehensive-guide-to-modern-database-technologies-17p8)
 - [Dev.to/JS] [What you should know about React Key Prop](https://dev.to/rem0nfawzi/what-you-should-know-about-react-key-prop-4f8p)
 - [Dev.to/JS] [Python Django chat app tutorial](https://dev.to/alakkadshaw/python-django-chat-app-tutorial-1ba1)
 - [Dev.to/JS] [La solución definitiva: &lpar;Dependency injection, Dependency inversion, Inversion of control y Hexagonal architecture&rpar;](https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why javascript is So Popular with good points and example.....](https://dev.to/nitjsr12/why-javascript-is-so-popular-with-good-points-and-example-2i3h)
 - [Dev.to/JS] [I want to start advance Java. What is the first step???](https://dev.to/dk119819/i-want-to-start-advance-java-what-is-the-first-step-1nm0)
 - [Dev.to/JS] [Alternatives to Git.](https://dev.to/niza/alternatives-to-git-4p6m)
-- [Dev.to/JS] [Add an unread mail count badge to Gmail](https://dev.to/jboxman/add-an-unread-mail-count-badge-to-gmail-40p)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
-- [Dev.to/JS] [Building a Radar Chart in JavaScript](https://dev.to/andreykh1985/building-a-radar-chart-in-javascript-13pa)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
 - [Lifehacker] [The Cheapest Way to Ship a Car](https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771)
