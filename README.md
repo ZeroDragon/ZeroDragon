@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Array find&lpar;&rpar; method works in JavaScript](https://dev.to/capscode/how-array-find-method-works-in-javascript-299c)
+- [Dev.to/JS] [How to build a book summary AI for your Amazon wishlist](https://dev.to/simplescraper/how-to-build-a-book-summary-ai-for-your-amazon-wishlist-2p40)
 - [Dev.to/JS] [A Simple Introduction to Typescript for JavaScript Dev](https://dev.to/codewithonye/a-simple-introduction-to-typescript-for-javascript-dev-4npb)
 - [Dev.to/JS] [Introduction to OAuth and OAuth Flow](https://dev.to/chaharsumit/introduction-to-oauth-and-oauth-flow-2l8g)
 - [Dev.to/JS] [Drag and Drop File using Javascript](https://dev.to/shubhamtiwari909/drag-and-drop-file-using-javascript-2h99)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [REST API vs GraphQL : The Battle for API Supremacy 🥷](https://dev.to/kyar/rest-apis-vs-graphql-the-battle-for-api-supremacy-1o55)
 - [Dev.to/JS] [Easiest way to understand Pub/Sub System &lpar;kid friendly&rpar;](https://dev.to/csituma/easiest-way-to-understand-pubsub-system-kid-friendly-3h5k)
 - [Dev.to/JS] [Want to have all hot fun in your life with Hyderabad Escorts Girls](https://dev.to/hyderabadescorts/want-to-have-all-hot-fun-in-your-life-with-hyderabad-escorts-girls-3105)
-- [Dev.to/JS] [5 Ways to Get the Most From Your AI Chatbot](https://dev.to/imshibaji/5-ways-to-get-the-most-from-your-ai-chatbot-69p)
-- [Dev.to/JS] [Author&#39;s, Happy New Year :&rpar;](https://dev.to/suharyadi2112/authors-happy-new-year--llk)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
