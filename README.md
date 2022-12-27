@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Validate Password Strength Using Regex and JavaScript](https://dev.to/ayka_code/how-to-validate-password-strength-using-regex-and-javascript-4083)
+- [Dev.to/JS] [I am creating a new ✨JavaScript✨ Framework](https://dev.to/ohayouarmaan/i-am-creating-a-new-javascript-framework-46af)
 - [Dev.to/JS] [How Array find&lpar;&rpar; method works in JavaScript](https://dev.to/capscode/how-array-find-method-works-in-javascript-299c)
 - [Dev.to/JS] [How to build a book summary AI for your Amazon wishlist](https://dev.to/simplescraper/how-to-build-a-book-summary-ai-for-your-amazon-wishlist-2p40)
 - [Dev.to/JS] [A Simple Introduction to Typescript for JavaScript Dev](https://dev.to/codewithonye/a-simple-introduction-to-typescript-for-javascript-dev-4npb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Cookie is preferable compared to localStorage when it comes to authentication](https://dev.to/leduc1901/why-cookie-is-preferable-compared-to-localstorage-when-it-comes-to-authentication-48mb)
 - [Dev.to/JS] [Why are the results like this?](https://dev.to/abrahamlawson/why-are-the-results-like-this-475m)
 - [Dev.to/JS] [REST API vs GraphQL : The Battle for API Supremacy 🥷](https://dev.to/kyar/rest-apis-vs-graphql-the-battle-for-api-supremacy-1o55)
-- [Dev.to/JS] [Easiest way to understand Pub/Sub System &lpar;kid friendly&rpar;](https://dev.to/csituma/easiest-way-to-understand-pubsub-system-kid-friendly-3h5k)
-- [Dev.to/JS] [Want to have all hot fun in your life with Hyderabad Escorts Girls](https://dev.to/hyderabadescorts/want-to-have-all-hot-fun-in-your-life-with-hyderabad-escorts-girls-3105)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
