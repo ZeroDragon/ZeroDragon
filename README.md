@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What you should know about React Key Prop](https://dev.to/rem0nfawzi/what-you-should-know-about-react-key-prop-4f8p)
+- [Dev.to/JS] [Python Django chat app tutorial](https://dev.to/alakkadshaw/python-django-chat-app-tutorial-1ba1)
+- [Dev.to/JS] [La solución definitiva: &lpar;Dependency injection, Dependency inversion, Inversion of control y Hexagonal architecture&rpar;](https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol)
+- [Dev.to/JS] [The Ultimate Guide To localStorage in JavaScript](https://dev.to/asayerio_techblog/the-ultimate-guide-to-localstorage-in-javascript-49eo)
+- [Dev.to/JS] [GraphQL Oversimplified](https://dev.to/arafat4693/graphql-oversimplified-1g23)
 - [Dev.to/JS] [The best Angular 15 Starter Project](https://dev.to/wlucha/the-best-angular-15-starter-project-576o)
 - [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 04 - useRef⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-04-useref-4kbi)
 - [Dev.to/JS] [Why javascript is So Popular with good points and example.....](https://dev.to/nitjsr12/why-javascript-is-so-popular-with-good-points-and-example-2i3h)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add an unread mail count badge to Gmail](https://dev.to/jboxman/add-an-unread-mail-count-badge-to-gmail-40p)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Dev.to/JS] [Building a Radar Chart in JavaScript](https://dev.to/andreykh1985/building-a-radar-chart-in-javascript-13pa)
-- [Dev.to/JS] [JavaScript Date: Get Date methods](https://dev.to/salmaab/javascript-date-get-date-methods-2c4i)
-- [Dev.to/JS] [9 Best Developer Communities On Discord](https://dev.to/mayank0255/9-best-developer-communities-on-discord-207i)
-- [Dev.to/JS] [Dot Notation Type Accessor in TypeScript](https://dev.to/calebpitan/dot-notation-type-accessor-in-typescript-136j)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
-- [Dev.to/JS] [Master Notifications With ChatGPT, React and NodeJS 🧨](https://dev.to/novu/master-notifications-with-chatgpt-react-and-nodejs-1ea9)
-- [Dev.to/JS] [Redux Toolkit with Node js](https://dev.to/mohamed1255847/redux-toolkit-with-node-js-4c3m)
 - [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
 - [Lifehacker] [The Cheapest Way to Ship a Car](https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
