@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)
+- [Dev.to/JS] [Remembering how to make a website without React](https://dev.to/itsjoekent/remembering-how-to-make-a-website-without-react-m36)
+- [Dev.to/JS] [JavaScriptmas 2022 - Issue 4](https://dev.to/michaellarocca/javascriptmas-2022-issue-4-1167)
+- [Lifehacker] [15 of the Best Indie Games to Play on Your New PS5](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-ps5-1849921544)
+- [Lifehacker] [Hotwire Your Broken Thermostat in a Weather Emergency](https://lifehacker.com/hotwire-your-broken-thermostat-in-a-weather-emergency-1849836412)
 - [Dev.to/JS] [Data management for dApps built on Ternoa 🫧](https://dev.to/dontelmo/data-management-for-dapps-built-on-ternoa-114d)
 - [Dev.to/JS] [My first Svelte component](https://dev.to/robertobutti/my-first-svelte-component-5e1k)
 - [Dev.to/JS] [Anyone familiar with GSAP?](https://dev.to/yashkapure06/anyone-familiar-with-gsap-39b1)
@@ -39,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [22 of Our Best Parenting Hacks of 2022](https://lifehacker.com/22-of-our-best-parenting-hacks-of-2022-1849892795)
 - [Dev.to/JS] [Blob Maker Step By Step Using HTML, CSS &amp; JavaScript](https://dev.to/ziontutorial/blob-maker-step-by-step-using-html-css-javascript-42fj)
 - [Lifehacker] [Here&#39;s How to Actually Get Closure From an Ex](https://lifehacker.com/heres-how-to-actually-get-closure-from-an-ex-1849811120)
-- [Dev.to/JS] [React Hooks](https://dev.to/tanbiralam/react-hooks-13pc)
 - [Lifehacker] [15 of Lifehacker&#39;s Best Weight Lifting Tips of 2022](https://lifehacker.com/15-of-lifehackers-best-weight-lifting-tips-of-2022-1849925049)
-- [Dev.to/JS] [Is JavaScript a feature rich or mess?](https://dev.to/rahulbhai9/is-javascript-a-feature-rich-or-mess-1fl9)
 - [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)
 - [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)
 - [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Retire in Phases &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-phases-and-why-you-should-1849762897)
 - [Lifehacker] [How Training a Puppy Improved My Parenting](https://lifehacker.com/how-training-a-puppy-improved-my-parenting-1849706173)
 - [Lifehacker] [How to &lpar;Safely&rpar; Shovel Snow Off Your Roof](https://lifehacker.com/how-to-safely-shovel-snow-off-your-roof-1849762679)
-- [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)
-- [Lifehacker] [You Should Try Steaming an Egg &lpar;Instead of Boiling It&rpar;](https://lifehacker.com/you-should-try-steaming-an-egg-instead-of-boiling-it-1849762587)
-- [Lifehacker] [All the Ways You&#39;re Annoying Your Server Without Knowing It](https://lifehacker.com/all-the-ways-youre-annoying-your-server-without-knowing-1849705131)
-- [Lifehacker] [25 of the Greatest Viral Videos of 2022](https://lifehacker.com/25-of-the-greatest-viral-videos-of-2022-1849917629)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)<!-- TECH-POSTS:END -->
 
 ---
 
