@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
+- [Dev.to/JS] [Code 👨‍💻 on your Phone 📱 with these 4 Mobile Apps](https://dev.to/c_yatteau/code-on-your-phone-with-these-4-mobile-apps-55cm)
+- [Dev.to/JS] [Why listen to relaxing music while programming](https://dev.to/mveckovic/why-listen-to-relaxing-music-while-programming-5flm)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
 - [Lifehacker] [13 of the Cheapest Hobbies You Can Teach Yourself](https://lifehacker.com/13-of-the-cheapest-hobbies-you-can-teach-yourself-1849888411)
@@ -42,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Anyone familiar with GSAP?](https://dev.to/yashkapure06/anyone-familiar-with-gsap-39b1)
 - [Lifehacker] [How to Get People to Actually Listen Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)
 - [Lifehacker] [A Complete Guide to Manifesting Love Into Your Life](https://lifehacker.com/a-complete-guide-to-manifesting-love-into-your-life-1849700646)
-- [Dev.to/JS] [WeakMape WeakSet: Compreendendo referências fracas de JavaScript](https://dev.to/trinitypath/weakmape-weakset-compreendendo-referencias-fracas-de-javascript-318e)
 - [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)
-- [Dev.to/JS] [What is Angular?](https://dev.to/nussyy/what-is-angular-566d)
 - [Lifehacker] [Allow Me to Troublechoux’t Your Cream Puff Problems](https://lifehacker.com/allow-me-to-troublechoux-t-your-cream-puff-problems-1849706299)
 - [Lifehacker] [22 of Our Best Parenting Hacks of 2022](https://lifehacker.com/22-of-our-best-parenting-hacks-of-2022-1849892795)
 - [Lifehacker] [Here&#39;s How to Actually Get Closure From an Ex](https://lifehacker.com/heres-how-to-actually-get-closure-from-an-ex-1849811120)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
 - [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
 - [Lifehacker] [How Much Hair Is Normal to Lose in a Day?](https://lifehacker.com/how-much-hair-is-normal-to-lose-in-a-day-1849711637)
-- [Lifehacker] [Your Intense Co-Dependency Might Be a ‘Karmic Relationship’](https://lifehacker.com/your-intense-co-dependency-might-be-a-karmic-relations-1849811105)
-- [Lifehacker] [Don&#39;t Waste Money on Food Allergy Tests &lpar;and What to Do Instead&rpar;](https://lifehacker.com/dont-waste-money-on-food-allergy-tests-and-what-to-do-1849699553)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Intense Co-Dependency Might Be a ‘Karmic Relationship’](https://lifehacker.com/your-intense-co-dependency-might-be-a-karmic-relations-1849811105)<!-- TECH-POSTS:END -->
 
 ---
 
