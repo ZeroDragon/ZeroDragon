@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data management for dApps built on Ternoa 🫧](https://dev.to/dontelmo/data-management-for-dapps-built-on-ternoa-114d)
+- [Dev.to/JS] [My first Svelte component](https://dev.to/robertobutti/my-first-svelte-component-5e1k)
+- [Dev.to/JS] [Anyone familiar with GSAP?](https://dev.to/yashkapure06/anyone-familiar-with-gsap-39b1)
+- [Lifehacker] [How to Get People to Actually Listen Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)
+- [Lifehacker] [A Complete Guide to Manifesting Love Into Your Life](https://lifehacker.com/a-complete-guide-to-manifesting-love-into-your-life-1849700646)
 - [Dev.to/JS] [WeakMape WeakSet: Compreendendo referências fracas de JavaScript](https://dev.to/trinitypath/weakmape-weakset-compreendendo-referencias-fracas-de-javascript-318e)
 - [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)
 - [Dev.to/JS] [What is Angular?](https://dev.to/nussyy/what-is-angular-566d)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of Lifehacker&#39;s Best Weight Lifting Tips of 2022](https://lifehacker.com/15-of-lifehackers-best-weight-lifting-tips-of-2022-1849925049)
 - [Dev.to/JS] [Is JavaScript a feature rich or mess?](https://dev.to/rahulbhai9/is-javascript-a-feature-rich-or-mess-1fl9)
 - [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)
-- [Dev.to/JS] [Different ways to create objects in JavaScript](https://dev.to/samridhi0545/different-ways-to-create-objects-in-javascript-2jpm)
-- [Dev.to/JS] [5 Beginner-Friendly Projects to Build with HTML, CSS, and JavaScript 💻](https://dev.to/pooja_belaramani/5-beginner-friendly-projects-to-build-with-html-css-and-javascript-1m89)
-- [Dev.to/JS] [What&#39;s involved with NativeScript open source?](https://dev.to/nathanwalker/whats-involved-with-nativescript-open-source-55jc)
 - [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)
 - [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)
 - [Lifehacker] [You Should Try Steaming an Egg &lpar;Instead of Boiling It&rpar;](https://lifehacker.com/you-should-try-steaming-an-egg-instead-of-boiling-it-1849762587)
 - [Lifehacker] [All the Ways You&#39;re Annoying Your Server Without Knowing It](https://lifehacker.com/all-the-ways-youre-annoying-your-server-without-knowing-1849705131)
-- [Lifehacker] [25 of the Greatest Viral Videos of 2022](https://lifehacker.com/25-of-the-greatest-viral-videos-of-2022-1849917629)
-- [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
-- [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [25 of the Greatest Viral Videos of 2022](https://lifehacker.com/25-of-the-greatest-viral-videos-of-2022-1849917629)<!-- TECH-POSTS:END -->
 
 ---
 
