@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Allow Me to Troublechoux’t Your Cream Puff Problems](https://lifehacker.com/allow-me-to-troublechoux-t-your-cream-puff-problems-1849706299)
+- [Dev.to/JS] [React error](https://dev.to/olamiwale/react-error-1g6c)
+- [Dev.to/JS] [Node JS Intro](https://dev.to/khushis26/node-js-intro-36p8)
+- [Lifehacker] [22 of Our Best Parenting Hacks of 2022](https://lifehacker.com/22-of-our-best-parenting-hacks-of-2022-1849892795)
+- [Dev.to/JS] [Blob Maker Step By Step Using HTML, CSS &amp; JavaScript](https://dev.to/ziontutorial/blob-maker-step-by-step-using-html-css-javascript-42fj)
+- [Lifehacker] [Here&#39;s How to Actually Get Closure From an Ex](https://lifehacker.com/heres-how-to-actually-get-closure-from-an-ex-1849811120)
 - [Dev.to/JS] [React Hooks](https://dev.to/tanbiralam/react-hooks-13pc)
 - [Lifehacker] [15 of Lifehacker&#39;s Best Weight Lifting Tips of 2022](https://lifehacker.com/15-of-lifehackers-best-weight-lifting-tips-of-2022-1849925049)
 - [Dev.to/JS] [Is JavaScript a feature rich or mess?](https://dev.to/rahulbhai9/is-javascript-a-feature-rich-or-mess-1fl9)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Ways of looping through an array in JavaScript.](https://dev.to/wainainapeter/7-ways-of-looping-through-an-array-in-javascript-17ep)
 - [Dev.to/JS] [Resumability vs Hydration](https://dev.to/builderio/resumability-vs-hydration-4mn9)
 - [Dev.to/JS] [React useEffect only on Update](https://dev.to/fpaghar/react-useeffect-only-on-update-4oj7)
-- [Dev.to/JS] [Estrutura do NestJS](https://dev.to/anapaulanoleto/estrutura-do-nestjs-38dm)
-- [Dev.to/JS] [1962. Leetcode Solution in Javascript](https://dev.to/chiki1601/-leetcode-solution-in-javascript-26m9)
-- [Dev.to/JS] [Why use Typescript?](https://dev.to/shasheeshpurohit/why-use-typescript-flh)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Greatest Viral Videos of 2022](https://lifehacker.com/25-of-the-greatest-viral-videos-of-2022-1849917629)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
 - [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
-- [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)
-- [Lifehacker] [The Cheapest Way to Ship a Car](https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771)
-- [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
-- [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)<!-- TECH-POSTS:END -->
 
 ---
 
