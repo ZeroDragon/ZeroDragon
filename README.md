@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
+- [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
 - [Lifehacker] [13 of the Cheapest Hobbies You Can Teach Yourself](https://lifehacker.com/13-of-the-cheapest-hobbies-you-can-teach-yourself-1849888411)
 - [Dev.to/JS] [Os 10 React Hooks Mais Úteis: 05 - useReducer](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-05-usereducer-f9j)
 - [Dev.to/JS] [⚡3 Technologies Developers Learn Too Late &lpar;and where to learn them&rpar;](https://dev.to/mistval/3-technologies-developers-learn-too-late-and-where-to-learn-them-4h38)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
 - [Lifehacker] [How Much Hair Is Normal to Lose in a Day?](https://lifehacker.com/how-much-hair-is-normal-to-lose-in-a-day-1849711637)
 - [Lifehacker] [Your Intense Co-Dependency Might Be a ‘Karmic Relationship’](https://lifehacker.com/your-intense-co-dependency-might-be-a-karmic-relations-1849811105)
-- [Lifehacker] [Don&#39;t Waste Money on Food Allergy Tests &lpar;and What to Do Instead&rpar;](https://lifehacker.com/dont-waste-money-on-food-allergy-tests-and-what-to-do-1849699553)
-- [Lifehacker] [How to Retire in Phases &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-phases-and-why-you-should-1849762897)
-- [Lifehacker] [How Training a Puppy Improved My Parenting](https://lifehacker.com/how-training-a-puppy-improved-my-parenting-1849706173)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Waste Money on Food Allergy Tests &lpar;and What to Do Instead&rpar;](https://lifehacker.com/dont-waste-money-on-food-allergy-tests-and-what-to-do-1849699553)<!-- TECH-POSTS:END -->
 
 ---
 
