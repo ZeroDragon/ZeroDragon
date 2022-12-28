@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to React Suspense](https://dev.to/gokul1630/introduction-to-react-suspense-1713)
+- [Dev.to/JS] [6 Fantastic websites that’ll make you a 10X better developer](https://dev.to/hy_piyush/6-fantastic-websites-thatll-make-you-a-10x-better-developer-2h88)
+- [Dev.to/JS] [3D Animated Cube](https://dev.to/nagvanshi9275/3d-animated-cube-36k4)
 - [Dev.to/JS] [Build the most basic DJ App in Vanilla JS](https://dev.to/manontherun/build-the-most-basic-dj-app-in-vanilla-js-4kdn)
 - [Dev.to/JS] [Update on ✨Ramen 🍜✨ A new JavaScript Framework!](https://dev.to/ohayouarmaan/update-on-ramen-a-new-javascript-framework-239g)
 - [Dev.to/JS] [Object Oriented Programming: Working With Classes in JavaScript.](https://dev.to/pthapa1/object-oriented-programming-working-with-classes-in-javascript-239b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use APP_INITIALIZER token in Angular](https://dev.to/harshallimaye/how-to-use-appinitializer-token-in-angular-422f)
 - [Dev.to/JS] [Cache Next.js for faster application rebuilds](https://dev.to/jongwooo/cache-nextjs-for-faster-application-rebuilds-in-github-actions-38io)
 - [Dev.to/JS] [Popular React Interview Questions, one needs to know. &lpar;Part 1&rpar;](https://dev.to/harishgh8/popular-react-interview-questions-one-needs-to-know-part-1-34c9)
-- [Dev.to/JS] [Nest JS Websockets - Rate Limiting and Acknowledgements](https://dev.to/delightfulengineering/nest-js-websockets-rate-limiting-and-acknowledgements-57oa)
-- [Dev.to/JS] [We Rebuilt Our Website– Here&#39;s What We Learned.](https://dev.to/williammcgonagle/we-rebuilt-our-website-heres-what-we-learned-a6m)
-- [Dev.to/JS] [Software Trends for 2023](https://dev.to/goddydev/software-trends-for-2023-ogf)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
