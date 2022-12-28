@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nest JS Websockets - Rate Limiting and Acknowledgements](https://dev.to/delightfulengineering/nest-js-websockets-rate-limiting-and-acknowledgements-57oa)
+- [Dev.to/JS] [We Rebuilt Our Website– Here&#39;s What We Learned.](https://dev.to/williammcgonagle/we-rebuilt-our-website-heres-what-we-learned-a6m)
+- [Dev.to/JS] [Software Trends for 2023](https://dev.to/goddydev/software-trends-for-2023-ogf)
 - [Dev.to/JS] [How to get your first job as a web developer](https://dev.to/taysongermano/how-to-get-your-first-job-as-a-web-developer-264i)
 - [Dev.to/JS] [Hoisting in Javascript for beginners](https://dev.to/itsmohamedyahia/hoisting-in-javascript-for-beginners-1200)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)
 - [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
 - [Dev.to/JS] [Java vs Javascript - What&#39;s the difference and Which is better?](https://dev.to/souravghose/java-vs-javascript-whats-the-differences-and-which-is-better-3bhl)
-- [Dev.to/JS] [Leaving the comfort zone](https://dev.to/frtmnml/leaving-the-comfort-zone-3llm)
-- [Dev.to/JS] [The top 5 books that every entrepreneur should read](https://dev.to/thenomadevel/the-top-5-books-that-every-entrepreneur-should-read-2mc3)
-- [Dev.to/JS] [O que é uma Promise no Javascript?](https://dev.to/cristuker/o-que-e-uma-promise-3lfd)
 - [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)
 - [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
 - [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
