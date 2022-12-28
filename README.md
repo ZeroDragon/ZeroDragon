@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
+- [Dev.to/JS] [7 Ways of looping through an array in JavaScript.](https://dev.to/wainainapeter/7-ways-of-looping-through-an-array-in-javascript-17ep)
+- [Dev.to/JS] [Resumability vs Hydration](https://dev.to/builderio/resumability-vs-hydration-4mn9)
+- [Dev.to/JS] [React useEffect only on Update](https://dev.to/fpaghar/react-useeffect-only-on-update-4oj7)
+- [Dev.to/JS] [Estrutura do NestJS](https://dev.to/anapaulanoleto/estrutura-do-nestjs-38dm)
+- [Dev.to/JS] [1962. Leetcode Solution in Javascript](https://dev.to/chiki1601/-leetcode-solution-in-javascript-26m9)
 - [Dev.to/JS] [Why use Typescript?](https://dev.to/shasheeshpurohit/why-use-typescript-flh)
 - [Dev.to/JS] [Design Pattern list](https://dev.to/fpaghar/design-pattern-list-c70)
 - [Dev.to/JS] [React Microservice cloning NY Times sidebar widget](https://dev.to/muhammadazfaraslam/react-microservice-cloning-ny-times-sidebar-widget-ldg)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common Queries of Data Science with Python in 2023 - Part 5](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-in-2023-part-5-bh9)
 - [Dev.to/JS] [Shortest Path In DAG](https://dev.to/zeeshanali0704/shortest-path-in-dag-2f2b)
 - [Dev.to/JS] [Core JavaScript: Hoisting](https://dev.to/ioanat94/core-javascript-hoisting-oca)
-- [Dev.to/JS] [Scalable and Maintainable React Project Structure Every Developer Should Use.](https://dev.to/devland/scalable-and-maintainable-react-project-structure-every-developer-should-use-3om4)
-- [Dev.to/JS] [Update Webpage&#39;s Background to a Random Color](https://dev.to/shafiemoji/update-webpages-background-to-a-random-color-5066)
-- [Dev.to/JS] [How To Generate Automation Script Using ChatGPT for Automation tool Playwright](https://dev.to/kailashpathak7/how-to-generate-automation-script-using-chatgpt-for-automation-tool-playwright-3pap)
-- [Dev.to/JS] [Weekly web development resources #130](https://dev.to/vincenius/weekly-web-development-resources-130-57gf)
-- [Dev.to/JS] [Benefits for Business of DevOps You Must Know](https://dev.to/kanishedureka/benefits-for-business-of-devops-you-must-know-i4b)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
 - [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
 - [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
-- [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)
-- [Lifehacker] [Stop Donating at the Cash Register, Already](https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)<!-- TECH-POSTS:END -->
 
 ---
 
