@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build the most basic DJ App in Vanilla JS](https://dev.to/manontherun/build-the-most-basic-dj-app-in-vanilla-js-4kdn)
+- [Dev.to/JS] [Update on ✨Ramen 🍜✨ A new JavaScript Framework!](https://dev.to/ohayouarmaan/update-on-ramen-a-new-javascript-framework-239g)
+- [Dev.to/JS] [Object Oriented Programming: Working With Classes in JavaScript.](https://dev.to/pthapa1/object-oriented-programming-working-with-classes-in-javascript-239b)
+- [Dev.to/JS] [&quot;JavaScript Beyond the Browser: How to Use JS for Desktop and Mobile App Development&quot;](https://dev.to/rahul3002/javascript-beyond-the-browser-how-to-use-js-for-desktop-and-mobile-app-development-1c73)
+- [Dev.to/JS] [Preview JavaScript Build Artifacts Directly in Pull Request with Stoat](https://dev.to/tuliren/preview-javascript-typescript-build-artifacts-directly-in-pull-request-with-stoat-3nd1)
 - [Dev.to/JS] [Urmăriți-HD🆓! Avatar 2 &lpar;Film 2022&rpar; Online Subtitrat in Româna](https://dev.to/urmaritiaavatar2subtiratromana/urmariti-hd-avatar-2-film-2022-online-subtitrat-in-romana-8ig)
 - [Dev.to/JS] [How to use APP_INITIALIZER token in Angular](https://dev.to/harshallimaye/how-to-use-appinitializer-token-in-angular-422f)
 - [Dev.to/JS] [Cache Next.js for faster application rebuilds](https://dev.to/jongwooo/cache-nextjs-for-faster-application-rebuilds-in-github-actions-38io)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nest JS Websockets - Rate Limiting and Acknowledgements](https://dev.to/delightfulengineering/nest-js-websockets-rate-limiting-and-acknowledgements-57oa)
 - [Dev.to/JS] [We Rebuilt Our Website– Here&#39;s What We Learned.](https://dev.to/williammcgonagle/we-rebuilt-our-website-heres-what-we-learned-a6m)
 - [Dev.to/JS] [Software Trends for 2023](https://dev.to/goddydev/software-trends-for-2023-ogf)
-- [Dev.to/JS] [How to get your first job as a web developer](https://dev.to/taysongermano/how-to-get-your-first-job-as-a-web-developer-264i)
-- [Dev.to/JS] [Hoisting in Javascript for beginners](https://dev.to/itsmohamedyahia/hoisting-in-javascript-for-beginners-1200)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
-- [Dev.to/JS] [Como criar seu próprio sistema de gerenciamento de estado com vanilla JS?](https://dev.to/diogoneves07/como-criar-seu-proprio-sistema-de-gerenciamento-de-estado-com-vanilla-js-29fm)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
-- [Dev.to/JS] [Javascript para idiotas &lpar;como eu&rpar; - Iterando objetos](https://dev.to/edusantsouza/javascript-para-idiotas-como-eu-iterando-objetos-hlb)
-- [Dev.to/JS] [Code Optimization Ideas For LLazyEmail templates](https://dev.to/atherdon/code-optimization-ideas-for-llazyemail-templates-44b5)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)
 - [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
