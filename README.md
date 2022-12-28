@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Urmăriți-HD🆓! Avatar 2 &lpar;Film 2022&rpar; Online Subtitrat in Româna](https://dev.to/urmaritiaavatar2subtiratromana/urmariti-hd-avatar-2-film-2022-online-subtitrat-in-romana-8ig)
+- [Dev.to/JS] [How to use APP_INITIALIZER token in Angular](https://dev.to/harshallimaye/how-to-use-appinitializer-token-in-angular-422f)
 - [Dev.to/JS] [Cache Next.js for faster application rebuilds](https://dev.to/jongwooo/cache-nextjs-for-faster-application-rebuilds-in-github-actions-38io)
 - [Dev.to/JS] [Popular React Interview Questions, one needs to know. &lpar;Part 1&rpar;](https://dev.to/harishgh8/popular-react-interview-questions-one-needs-to-know-part-1-34c9)
 - [Dev.to/JS] [Nest JS Websockets - Rate Limiting and Acknowledgements](https://dev.to/delightfulengineering/nest-js-websockets-rate-limiting-and-acknowledgements-57oa)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript para idiotas &lpar;como eu&rpar; - Iterando objetos](https://dev.to/edusantsouza/javascript-para-idiotas-como-eu-iterando-objetos-hlb)
 - [Dev.to/JS] [Code Optimization Ideas For LLazyEmail templates](https://dev.to/atherdon/code-optimization-ideas-for-llazyemail-templates-44b5)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
-- [Dev.to/JS] [Key React 18 release features in 2022](https://dev.to/diogorodrigues/key-react-18-release-features-in-2022-2fi0)
-- [Dev.to/JS] [React Router Data Fetching](https://dev.to/franciscomendes10866/react-router-data-fetching-2ikh)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)
 - [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
 - [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)
