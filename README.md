@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supercharge your Firebase App Development using NX](https://dev.to/this-is-learning/supercharge-your-firebase-app-development-using-nx-301n)
+- [Dev.to/JS] [Integrating Firebase to Web Application](https://dev.to/0chiranjeevim0/integrating-firebase-to-web-application-5h3n)
+- [Dev.to/JS] [5 Ways to make money as a frontend developer](https://dev.to/yogeshtewari/5-ways-to-make-money-as-a-frontend-developer-1kg4)
 - [Dev.to/JS] [A poem on Linkedin by ChatGPT](https://dev.to/lakincoder/a-poem-on-linkedin-by-chatgpt-4ho6)
 - [Dev.to/JS] [Vue The World.](https://dev.to/ihustleharder/vue-the-world-4k6)
 - [Dev.to/JS] [Building 3D Smart City Based on JavaScript and WebGL](https://dev.to/hightopo/building-3d-smart-city-based-on-javascript-and-webgl-e0l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating an OAuth application with Express &amp; Passport in 5 simple steps](https://dev.to/chaharsumit/creating-an-oauth-application-with-express-passport-in-5-simple-steps-5dh2)
 - [Dev.to/JS] [How To make Product slider using HTML5 CSS3 and JS?](https://dev.to/zainmuhammad/how-to-make-product-slider-using-html5-css3-and-js-kfb)
 - [Dev.to/JS] [JavaScript 3D Library - Three.JS with Example](https://dev.to/imkrunalkanojiya/javascript-3d-library-threejs-with-example-57k2)
-- [Dev.to/JS] [Successfully Deployed over 150+ Smart Contracts on different Blockchain Networks](https://dev.to/anfalcrypto/successfully-deployed-over-150-smart-contracts-on-different-blockchain-networks-147j)
-- [Dev.to/JS] [Introduction to React Suspense](https://dev.to/gokul1630/introduction-to-react-suspense-1713)
-- [Dev.to/JS] [6 Fantastic websites that’ll make you a 10X better developer](https://dev.to/hy_piyush/6-fantastic-websites-thatll-make-you-a-10x-better-developer-2h88)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
