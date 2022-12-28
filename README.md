@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cache Next.js for faster application rebuilds](https://dev.to/jongwooo/cache-nextjs-for-faster-application-rebuilds-in-github-actions-38io)
+- [Dev.to/JS] [Popular React Interview Questions, one needs to know. &lpar;Part 1&rpar;](https://dev.to/harishgh8/popular-react-interview-questions-one-needs-to-know-part-1-34c9)
 - [Dev.to/JS] [Nest JS Websockets - Rate Limiting and Acknowledgements](https://dev.to/delightfulengineering/nest-js-websockets-rate-limiting-and-acknowledgements-57oa)
 - [Dev.to/JS] [We Rebuilt Our Website– Here&#39;s What We Learned.](https://dev.to/williammcgonagle/we-rebuilt-our-website-heres-what-we-learned-a6m)
 - [Dev.to/JS] [Software Trends for 2023](https://dev.to/goddydev/software-trends-for-2023-ogf)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
 - [Dev.to/JS] [Key React 18 release features in 2022](https://dev.to/diogorodrigues/key-react-18-release-features-in-2022-2fi0)
 - [Dev.to/JS] [React Router Data Fetching](https://dev.to/franciscomendes10866/react-router-data-fetching-2ikh)
-- [Dev.to/JS] [Looking for a WordPress alternative? React Bricks is a great CMS.](https://dev.to/hiteshnalamwar/looking-for-a-wordpress-alternative-react-bricks-is-a-great-cms-4aga)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)
 - [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
-- [Dev.to/JS] [Java vs Javascript - What&#39;s the difference and Which is better?](https://dev.to/souravghose/java-vs-javascript-whats-the-differences-and-which-is-better-3bhl)
 - [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)
 - [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
 - [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
