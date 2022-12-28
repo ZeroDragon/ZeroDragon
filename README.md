@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A poem on Linkedin by ChatGPT](https://dev.to/lakincoder/a-poem-on-linkedin-by-chatgpt-4ho6)
+- [Dev.to/JS] [Vue The World.](https://dev.to/ihustleharder/vue-the-world-4k6)
+- [Dev.to/JS] [Building 3D Smart City Based on JavaScript and WebGL](https://dev.to/hightopo/building-3d-smart-city-based-on-javascript-and-webgl-e0l)
 - [Dev.to/JS] [Strict Equality Comparison](https://dev.to/sensorario/strict-equality-comparison-3mnb)
 - [Dev.to/JS] [Lifeline Keto Gummies - Fat Loss Results, Pros, Cons, Scam Or Legit?](https://dev.to/dsahrnba/lifeline-keto-gummies-fat-loss-results-pros-cons-scam-or-legit-2h17)
 - [Dev.to/JS] [How WebPrerender Crawls and Renders JavaScript Websites?](https://dev.to/webprerender123/how-webprerender-crawls-and-renders-javascript-websites-me8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Successfully Deployed over 150+ Smart Contracts on different Blockchain Networks](https://dev.to/anfalcrypto/successfully-deployed-over-150-smart-contracts-on-different-blockchain-networks-147j)
 - [Dev.to/JS] [Introduction to React Suspense](https://dev.to/gokul1630/introduction-to-react-suspense-1713)
 - [Dev.to/JS] [6 Fantastic websites that’ll make you a 10X better developer](https://dev.to/hy_piyush/6-fantastic-websites-thatll-make-you-a-10x-better-developer-2h88)
-- [Dev.to/JS] [3D Animated Cube](https://dev.to/nagvanshi9275/3d-animated-cube-36k4)
-- [Dev.to/JS] [Build the most basic DJ App in Vanilla JS](https://dev.to/manontherun/build-the-most-basic-dj-app-in-vanilla-js-4kdn)
-- [Dev.to/JS] [Update on ✨Ramen 🍜✨ A new JavaScript Framework!](https://dev.to/ohayouarmaan/update-on-ramen-a-new-javascript-framework-239g)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
