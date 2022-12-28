@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [13 of the Cheapest Hobbies You Can Teach Yourself](https://lifehacker.com/13-of-the-cheapest-hobbies-you-can-teach-yourself-1849888411)
+- [Dev.to/JS] [Os 10 React Hooks Mais Úteis: 05 - useReducer](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-05-usereducer-f9j)
+- [Dev.to/JS] [⚡3 Technologies Developers Learn Too Late &lpar;and where to learn them&rpar;](https://dev.to/mistval/3-technologies-developers-learn-too-late-and-where-to-learn-them-4h38)
+- [Lifehacker] [12 of Lifehacker’s Most Delicious Beverage Hacks of 2022](https://lifehacker.com/12-of-lifehacker-s-most-delicious-beverage-hacks-of-202-1849921203)
+- [Dev.to/JS] [Código limpo de JavaScript - práticas recomendadas rápidas](https://dev.to/trinitypath/codigo-limpo-de-javascript-praticas-recomendadas-rapidas-2fbe)
+- [Dev.to/JS] [Is a Javascript for loop giving you the what-for?](https://dev.to/greenteaisgreat/is-a-javascript-for-loop-giving-you-the-what-for-12ij)
+- [Dev.to/JS] [#1: Two Sum](https://dev.to/jd2r/1-two-sum-5d5g)
 - [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)
 - [Dev.to/JS] [Remembering how to make a website without React](https://dev.to/itsjoekent/remembering-how-to-make-a-website-without-react-m36)
 - [Dev.to/JS] [JavaScriptmas 2022 - Issue 4](https://dev.to/michaellarocca/javascriptmas-2022-issue-4-1167)
@@ -36,13 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WeakMape WeakSet: Compreendendo referências fracas de JavaScript](https://dev.to/trinitypath/weakmape-weakset-compreendendo-referencias-fracas-de-javascript-318e)
 - [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)
 - [Dev.to/JS] [What is Angular?](https://dev.to/nussyy/what-is-angular-566d)
-- [Dev.to/JS] [ดูซีรีย์วาย พี่จะตีนะเนย EP 7 ย้อนหลัง ออนไลน์ ซีรีย์ฟรี THAI-WEB](https://dev.to/iwillknockyoufullep7thai/duuchiiriiywaay-phiicchatiinaeny-ep-7-ynhlang-nailn-chiiriiyfrii-thai-web-48n3)
-- [Dev.to/JS] [Definisanje varijabli u JavaScriptu - var, let ili const](https://dev.to/bslaven/definisanje-varijabli-u-javascriptu-var-let-ili-const-2gge)
 - [Lifehacker] [Allow Me to Troublechoux’t Your Cream Puff Problems](https://lifehacker.com/allow-me-to-troublechoux-t-your-cream-puff-problems-1849706299)
-- [Dev.to/JS] [React error](https://dev.to/olamiwale/react-error-1g6c)
-- [Dev.to/JS] [Node JS Intro](https://dev.to/khushis26/node-js-intro-36p8)
 - [Lifehacker] [22 of Our Best Parenting Hacks of 2022](https://lifehacker.com/22-of-our-best-parenting-hacks-of-2022-1849892795)
-- [Dev.to/JS] [Blob Maker Step By Step Using HTML, CSS &amp; JavaScript](https://dev.to/ziontutorial/blob-maker-step-by-step-using-html-css-javascript-42fj)
 - [Lifehacker] [Here&#39;s How to Actually Get Closure From an Ex](https://lifehacker.com/heres-how-to-actually-get-closure-from-an-ex-1849811120)
 - [Lifehacker] [15 of Lifehacker&#39;s Best Weight Lifting Tips of 2022](https://lifehacker.com/15-of-lifehackers-best-weight-lifting-tips-of-2022-1849925049)
 - [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Intense Co-Dependency Might Be a ‘Karmic Relationship’](https://lifehacker.com/your-intense-co-dependency-might-be-a-karmic-relations-1849811105)
 - [Lifehacker] [Don&#39;t Waste Money on Food Allergy Tests &lpar;and What to Do Instead&rpar;](https://lifehacker.com/dont-waste-money-on-food-allergy-tests-and-what-to-do-1849699553)
 - [Lifehacker] [How to Retire in Phases &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-retire-in-phases-and-why-you-should-1849762897)
-- [Lifehacker] [How Training a Puppy Improved My Parenting](https://lifehacker.com/how-training-a-puppy-improved-my-parenting-1849706173)
-- [Lifehacker] [How to &lpar;Safely&rpar; Shovel Snow Off Your Roof](https://lifehacker.com/how-to-safely-shovel-snow-off-your-roof-1849762679)
-- [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Training a Puppy Improved My Parenting](https://lifehacker.com/how-training-a-puppy-improved-my-parenting-1849706173)<!-- TECH-POSTS:END -->
 
 ---
 
