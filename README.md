@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why use Typescript?](https://dev.to/shasheeshpurohit/why-use-typescript-flh)
+- [Dev.to/JS] [Design Pattern list](https://dev.to/fpaghar/design-pattern-list-c70)
+- [Dev.to/JS] [React Microservice cloning NY Times sidebar widget](https://dev.to/muhammadazfaraslam/react-microservice-cloning-ny-times-sidebar-widget-ldg)
 - [Dev.to/JS] [Why we need HTTP methods](https://dev.to/capscode/why-we-need-http-methods-7ge)
 - [Dev.to/JS] [Common Queries of Data Science with Python in 2023 - Part 5](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-in-2023-part-5-bh9)
 - [Dev.to/JS] [Shortest Path In DAG](https://dev.to/zeeshanali0704/shortest-path-in-dag-2f2b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Generate Automation Script Using ChatGPT for Automation tool Playwright](https://dev.to/kailashpathak7/how-to-generate-automation-script-using-chatgpt-for-automation-tool-playwright-3pap)
 - [Dev.to/JS] [Weekly web development resources #130](https://dev.to/vincenius/weekly-web-development-resources-130-57gf)
 - [Dev.to/JS] [Benefits for Business of DevOps You Must Know](https://dev.to/kanishedureka/benefits-for-business-of-devops-you-must-know-i4b)
-- [Dev.to/JS] [Interacting with Metamask using vanilla Javascript](https://dev.to/ismaventuras/interacting-with-metamask-using-vanilla-javascript-36nd)
-- [Dev.to/JS] [Supercharge your Firebase App Development using NX](https://dev.to/this-is-learning/supercharge-your-firebase-app-development-using-nx-301n)
-- [Dev.to/JS] [Integrating Firebase to Web Application](https://dev.to/0chiranjeevim0/integrating-firebase-to-web-application-5h3n)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
