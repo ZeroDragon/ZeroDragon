@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)
+- [Dev.to/JS] [Different ways to create objects in JavaScript](https://dev.to/samridhi0545/different-ways-to-create-objects-in-javascript-2jpm)
+- [Dev.to/JS] [The Software 2.0 Revolution Starts with AI and Front-End Development](https://dev.to/sip/the-software-20-revolution-starts-with-ai-and-front-end-development-34a8)
+- [Dev.to/JS] [5 Beginner-Friendly Projects to Build with HTML, CSS, and JavaScript 💻](https://dev.to/pooja_belaramani/5-beginner-friendly-projects-to-build-with-html-css-and-javascript-1m89)
+- [Dev.to/JS] [What&#39;s involved with NativeScript open source?](https://dev.to/nathanwalker/whats-involved-with-nativescript-open-source-55jc)
+- [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)
+- [Dev.to/JS] [How to use Hooks &lpar;useState and useEffect&rpar; in Reactjs](https://dev.to/iyaremeyo/how-to-use-hooks-usestate-and-useeffect-in-reactjs-156g)
 - [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
 - [Dev.to/JS] [7 Ways of looping through an array in JavaScript.](https://dev.to/wainainapeter/7-ways-of-looping-through-an-array-in-javascript-17ep)
 - [Dev.to/JS] [Resumability vs Hydration](https://dev.to/builderio/resumability-vs-hydration-4mn9)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [1962. Leetcode Solution in Javascript](https://dev.to/chiki1601/-leetcode-solution-in-javascript-26m9)
 - [Dev.to/JS] [Why use Typescript?](https://dev.to/shasheeshpurohit/why-use-typescript-flh)
 - [Dev.to/JS] [Design Pattern list](https://dev.to/fpaghar/design-pattern-list-c70)
-- [Dev.to/JS] [React Microservice cloning NY Times sidebar widget](https://dev.to/muhammadazfaraslam/react-microservice-cloning-ny-times-sidebar-widget-ldg)
-- [Dev.to/JS] [Why we need HTTP methods](https://dev.to/capscode/why-we-need-http-methods-7ge)
-- [Dev.to/JS] [Common Queries of Data Science with Python in 2023 - Part 5](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-in-2023-part-5-bh9)
-- [Dev.to/JS] [Shortest Path In DAG](https://dev.to/zeeshanali0704/shortest-path-in-dag-2f2b)
-- [Dev.to/JS] [Core JavaScript: Hoisting](https://dev.to/ioanat94/core-javascript-hoisting-oca)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Cheapest Way to Ship a Car](https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771)
 - [Lifehacker] [The Best Places to Catch the Northern Lights in 2023](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
 - [Lifehacker] [You Should Get In on T-Mobile&#39;s $350 Million Settlement](https://lifehacker.com/you-should-get-in-on-t-mobiles-350-million-settlement-1849924214)
-- [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)
-- [Lifehacker] [The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
-- [Lifehacker] [Use a Candle to Find Mystery Air Leaks in Your House](https://lifehacker.com/use-a-candle-to-find-mystery-air-leaks-in-your-house-1849923633)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Cities Are Expected to See the Biggest Real Estate Growth in 2023](https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191)<!-- TECH-POSTS:END -->
 
 ---
 
