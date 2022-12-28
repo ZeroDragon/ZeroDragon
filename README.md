@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WeakMape WeakSet: Compreendendo referências fracas de JavaScript](https://dev.to/trinitypath/weakmape-weakset-compreendendo-referencias-fracas-de-javascript-318e)
+- [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)
+- [Dev.to/JS] [What is Angular?](https://dev.to/nussyy/what-is-angular-566d)
+- [Dev.to/JS] [ดูซีรีย์วาย พี่จะตีนะเนย EP 7 ย้อนหลัง ออนไลน์ ซีรีย์ฟรี THAI-WEB](https://dev.to/iwillknockyoufullep7thai/duuchiiriiywaay-phiicchatiinaeny-ep-7-ynhlang-nailn-chiiriiyfrii-thai-web-48n3)
+- [Dev.to/JS] [Definisanje varijabli u JavaScriptu - var, let ili const](https://dev.to/bslaven/definisanje-varijabli-u-javascriptu-var-let-ili-const-2gge)
 - [Lifehacker] [Allow Me to Troublechoux’t Your Cream Puff Problems](https://lifehacker.com/allow-me-to-troublechoux-t-your-cream-puff-problems-1849706299)
 - [Dev.to/JS] [React error](https://dev.to/olamiwale/react-error-1g6c)
 - [Dev.to/JS] [Node JS Intro](https://dev.to/khushis26/node-js-intro-36p8)
@@ -37,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Beginner-Friendly Projects to Build with HTML, CSS, and JavaScript 💻](https://dev.to/pooja_belaramani/5-beginner-friendly-projects-to-build-with-html-css-and-javascript-1m89)
 - [Dev.to/JS] [What&#39;s involved with NativeScript open source?](https://dev.to/nathanwalker/whats-involved-with-nativescript-open-source-55jc)
 - [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)
-- [Dev.to/JS] [How to use Hooks &lpar;useState and useEffect&rpar; in Reactjs](https://dev.to/iyaremeyo/how-to-use-hooks-usestate-and-useeffect-in-reactjs-156g)
 - [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
-- [Dev.to/JS] [7 Ways of looping through an array in JavaScript.](https://dev.to/wainainapeter/7-ways-of-looping-through-an-array-in-javascript-17ep)
-- [Dev.to/JS] [Resumability vs Hydration](https://dev.to/builderio/resumability-vs-hydration-4mn9)
-- [Dev.to/JS] [React useEffect only on Update](https://dev.to/fpaghar/react-useeffect-only-on-update-4oj7)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You&#39;re Annoying Your Server Without Knowing It](https://lifehacker.com/all-the-ways-youre-annoying-your-server-without-knowing-1849705131)
 - [Lifehacker] [25 of the Greatest Viral Videos of 2022](https://lifehacker.com/25-of-the-greatest-viral-videos-of-2022-1849917629)
 - [Lifehacker] [Use These Phrases to Sound More Credible at Work](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
-- [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)
-- [Lifehacker] [How to Overcome &#39;Overwhelm Freeze&#39; and Get Stuff Done](https://lifehacker.com/how-to-overcome-overwhelm-freeze-and-get-stuff-done-1849924752)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [ASCII vs UNICODE – Difference Between Both](https://www.thecrazyprogrammer.com/2022/12/ascii-vs-unicode.html)<!-- TECH-POSTS:END -->
 
 ---
 
