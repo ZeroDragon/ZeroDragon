@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I created a Word Search Game for my Portfolio &lpar;React&rpar; Part 1](https://dev.to/singhimat99/how-i-created-a-word-search-game-for-my-portfolio-react-part-1-138n)
+- [Dev.to/JS] [Why javascript for everything?](https://dev.to/looph0le/why-javascript-for-everything-19m)
+- [Dev.to/JS] [Web Components:Observed Attributes](https://dev.to/jwp/web-components-color-span-3dai)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Dev.to/JS] [Code 👨‍💻 on your Phone 📱 with these 4 Mobile Apps](https://dev.to/c_yatteau/code-on-your-phone-with-these-4-mobile-apps-55cm)
 - [Dev.to/JS] [Why listen to relaxing music while programming](https://dev.to/mveckovic/why-listen-to-relaxing-music-while-programming-5flm)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScriptmas 2022 - Issue 4](https://dev.to/michaellarocca/javascriptmas-2022-issue-4-1167)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New PS5](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-ps5-1849921544)
 - [Lifehacker] [Hotwire Your Broken Thermostat in a Weather Emergency](https://lifehacker.com/hotwire-your-broken-thermostat-in-a-weather-emergency-1849836412)
-- [Dev.to/JS] [Data management for dApps built on Ternoa 🫧](https://dev.to/dontelmo/data-management-for-dapps-built-on-ternoa-114d)
-- [Dev.to/JS] [My first Svelte component](https://dev.to/robertobutti/my-first-svelte-component-5e1k)
-- [Dev.to/JS] [Anyone familiar with GSAP?](https://dev.to/yashkapure06/anyone-familiar-with-gsap-39b1)
 - [Lifehacker] [How to Get People to Actually Listen Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)
 - [Lifehacker] [A Complete Guide to Manifesting Love Into Your Life](https://lifehacker.com/a-complete-guide-to-manifesting-love-into-your-life-1849700646)
 - [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)
