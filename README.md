@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tail Call Optimization in JavaScript](https://dev.to/justinethier/tail-call-optimization-in-javascript-59db)
+- [Dev.to/JS] [These 5 AI Tools Will Make You A Superhuman!!](https://dev.to/thenomadevel/these-5-ai-tools-will-make-you-a-superhuman-36m3)
+- [Dev.to/JS] [Creating a Github Action that adds a Pokemon Sprite to your repo README](https://dev.to/imohammd/creating-a-github-action-that-adds-a-pokemon-sprite-to-your-repo-readme-1lcd)
 - [Dev.to/JS] [Reflecting on 2022 - The Year in Review](https://dev.to/nx/reflecting-on-2022-the-year-in-review-i66)
 - [Dev.to/JS] [Tasty Recipes for React &amp; D3. The Ranking Bar.](https://dev.to/valorsoftware/tasty-recipes-for-react-d3-the-ranking-bar-37fa)
 - [Dev.to/JS] [JavaScript Fundamentals: Arrays](https://dev.to/astrodevil/javascript-fundamentals-arrays-2aid)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Planning a new JavaScript Framework](https://dev.to/ohayouarmaan/ramen-devlog-3-5be2)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Dev.to/JS] [What Is &quot;NaN&quot;](https://dev.to/semihgkl/what-is-nan-3e0i)
-- [Dev.to/JS] [A JavaScript framework with web component](https://dev.to/kstdx/a-javascript-framework-with-web-component-3080)
-- [Dev.to/JS] [2022 Wrapped: Communities, Public Speaking, and Other DevRel Stuff From a Non-DevRel Engineer](https://dev.to/ythecombinator/2022-wrapped-communities-public-speaking-and-other-devrel-stuff-from-a-non-devrel-engineer-2403)
-- [Dev.to/JS] [Flowchart editor dgrm.net / announcement / I halved the source code](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-i-halved-the-source-code-3b5e)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
