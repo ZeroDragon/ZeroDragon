@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What’s the Difference Between Jest and Mocha?](https://dev.to/get_pieces/whats-the-difference-between-jest-and-mocha-1i1h)
+- [Dev.to/JS] [Ramen DevLog #3](https://dev.to/ohayouarmaan/ramen-devlog-3-5be2)
+- [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Dev.to/JS] [What Is &quot;NaN&quot;](https://dev.to/semihgkl/what-is-nan-3e0i)
 - [Dev.to/JS] [A JavaScript framework with web component](https://dev.to/kstdx/a-javascript-framework-with-web-component-3080)
 - [Dev.to/JS] [2022 Wrapped: Communities, Public Speaking, and Other DevRel Stuff From a Non-DevRel Engineer](https://dev.to/ythecombinator/2022-wrapped-communities-public-speaking-and-other-devrel-stuff-from-a-non-devrel-engineer-2403)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Improve Website Performance In 2023](https://dev.to/builderio/how-to-improve-website-performance-in-2023-4e0d)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
 - [Dev.to/JS] [6 Best practices for react state management.](https://dev.to/hithesh__k/6-best-practices-for-react-state-management-n2f)
-- [Dev.to/JS] [Get Yesterday Date in JavaScript](https://dev.to/gaelgthomas/get-yesterday-date-in-javascript-1841)
-- [Dev.to/JS] [瀏覽器上的儲存空間：IndexedDB](https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-indexeddb-1mpk)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
 - [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)
 - [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
-- [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
-- [Lifehacker] [How Much Hair Is Normal to Lose in a Day?](https://lifehacker.com/how-much-hair-is-normal-to-lose-in-a-day-1849711637)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)<!-- TECH-POSTS:END -->
 
 ---
 
