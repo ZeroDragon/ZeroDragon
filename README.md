@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [https://ftp.gnu.org/gnu/gengetopt/?C=M;O=A](https://dev.to/iceventura/httpsftpgnuorggnugengetoptcmoa-787)
+- [Dev.to/JS] [I built a Saas to make emails sending easy for front-end developers](https://dev.to/yusufgkl/i-developed-a-saas-to-make-emails-sending-easy-for-front-end-developers-1ccp)
 - [Dev.to/JS] [What’s the Difference Between Jest and Mocha?](https://dev.to/get_pieces/whats-the-difference-between-jest-and-mocha-1i1h)
-- [Dev.to/JS] [Ramen DevLog #3](https://dev.to/ohayouarmaan/ramen-devlog-3-5be2)
+- [Dev.to/JS] [Planning a new JavaScript Framework](https://dev.to/ohayouarmaan/ramen-devlog-3-5be2)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Dev.to/JS] [What Is &quot;NaN&quot;](https://dev.to/semihgkl/what-is-nan-3e0i)
 - [Dev.to/JS] [A JavaScript framework with web component](https://dev.to/kstdx/a-javascript-framework-with-web-component-3080)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add an Estimated Reading Time to your Astro Blog with Javascript &amp; Markdown Plugins](https://dev.to/surjithctly/how-to-add-an-estimated-reading-time-to-your-astro-blog-with-javascript-4i7b)
 - [Dev.to/JS] [Monkey Map](https://dev.to/rmion/monkey-map-444k)
 - [Dev.to/JS] [Streams em Node.js para iniciantes &lpar;guia básico&rpar;](https://dev.to/leeodev/introducao-a-streams-em-nodejs-o-que-sao-e-como-usar-4p71)
-- [Dev.to/JS] [How To Improve Website Performance In 2023](https://dev.to/builderio/how-to-improve-website-performance-in-2023-4e0d)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
-- [Dev.to/JS] [6 Best practices for react state management.](https://dev.to/hithesh__k/6-best-practices-for-react-state-management-n2f)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
