@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Basic Introduction!](https://dev.to/darkxenium/javascript-basic-introduction-3na1)
+- [Dev.to/JS] [Steps To Build Resources With CSS Flexbox](https://dev.to/scofieldidehen/steps-to-build-resources-with-css-flexbox-ipe)
+- [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/backlinkss/javascript-cheatsheet-32eg)
 - [Dev.to/JS] [Slot Gacor | situs slot judi online terpercaya](https://dev.to/slot_gacor/slot-gacor-situs-slot-judi-online-terpercaya-iif)
 - [Dev.to/JS] [How I created a Word Search Game for my Portfolio &lpar;React&rpar; Part 1](https://dev.to/singhimat99/how-i-created-a-word-search-game-for-my-portfolio-react-part-1-138n)
 - [Dev.to/JS] [Why javascript for everything?](https://dev.to/looph0le/why-javascript-for-everything-19m)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⚡3 Technologies Developers Learn Too Late &lpar;and where to learn them&rpar;](https://dev.to/mistval/3-technologies-developers-learn-too-late-and-where-to-learn-them-4h38)
 - [Lifehacker] [12 of Lifehacker’s Most Delicious Beverage Hacks of 2022](https://lifehacker.com/12-of-lifehacker-s-most-delicious-beverage-hacks-of-202-1849921203)
 - [Dev.to/JS] [Código limpo de JavaScript - práticas recomendadas rápidas](https://dev.to/trinitypath/codigo-limpo-de-javascript-praticas-recomendadas-rapidas-2fbe)
-- [Dev.to/JS] [Is a Javascript for loop giving you the what-for?](https://dev.to/greenteaisgreat/is-a-javascript-for-loop-giving-you-the-what-for-12ij)
-- [Dev.to/JS] [#1: Two Sum](https://dev.to/jd2r/1-two-sum-5d5g)
 - [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)
-- [Dev.to/JS] [Remembering how to make a website without React](https://dev.to/itsjoekent/remembering-how-to-make-a-website-without-react-m36)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New PS5](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-ps5-1849921544)
 - [Lifehacker] [Hotwire Your Broken Thermostat in a Weather Emergency](https://lifehacker.com/hotwire-your-broken-thermostat-in-a-weather-emergency-1849836412)
 - [Lifehacker] [How to Get People to Actually Listen Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)
