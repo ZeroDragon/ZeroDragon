@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Python of Revenge!](https://dev.to/ayka_code/the-python-of-revenge-1bcl)
+- [Dev.to/JS] [Javascript: Map e Set](https://dev.to/trinitypath/javascript-map-e-set-370k)
+- [Dev.to/JS] [JavaScript Frameworks - Heading into 2023](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2023-nln)
+- [Dev.to/JS] [Top 5 Best Chat SDKs in 2023](https://dev.to/alakkadshaw/top-5-best-chat-sdks-in-2023-7f4)
+- [Dev.to/JS] [JS tests: mocking best practices](https://dev.to/alexpladev/js-tests-mocking-best-practices-10kp)
 - [Dev.to/JS] [Tail Call Optimization in JavaScript](https://dev.to/justinethier/tail-call-optimization-in-javascript-59db)
 - [Dev.to/JS] [These 5 AI Tools Will Make You A Superhuman!!](https://dev.to/thenomadevel/these-5-ai-tools-will-make-you-a-superhuman-36m3)
 - [Dev.to/JS] [Creating a Github Action that adds a Pokemon Sprite to your repo README](https://dev.to/imohammd/creating-a-github-action-that-adds-a-pokemon-sprite-to-your-repo-readme-1lcd)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals: Arrays](https://dev.to/astrodevil/javascript-fundamentals-arrays-2aid)
 - [Dev.to/JS] [JavaScript Loops: while e for](https://dev.to/trinitypath/javascript-loops-while-e-for-38a8)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
-- [Dev.to/JS] [https://ftp.gnu.org/gnu/gengetopt/?C=M;O=A](https://dev.to/iceventura/httpsftpgnuorggnugengetoptcmoa-787)
-- [Dev.to/JS] [I built a Saas to make emails sending easy for front-end developers](https://dev.to/yusufgkl/i-developed-a-saas-to-make-emails-sending-easy-for-front-end-developers-1ccp)
-- [Dev.to/JS] [What’s the Difference Between Jest and Mocha?](https://dev.to/get_pieces/whats-the-difference-between-jest-and-mocha-1i1h)
-- [Dev.to/JS] [Planning a new JavaScript Framework](https://dev.to/ohayouarmaan/ramen-devlog-3-5be2)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
-- [Dev.to/JS] [What Is &quot;NaN&quot;](https://dev.to/semihgkl/what-is-nan-3e0i)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
