@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 Benefits of DevOps Companies Cannot Stay Away from](https://dev.to/kanishedureka/8-benefits-of-devops-companies-cannot-stay-away-from-45b6)
 - [Dev.to/JS] [cleanCode mean a readable code for other developers to understand better and easily.](https://dev.to/d_officialdev/cleancode-mean-a-readable-code-for-other-developers-to-understand-better-and-easily-321b)
 - [Dev.to/JS] [Closures in JavaScript](https://dev.to/shasheeshpurohit/closures-in-javascript-4jb)
 - [Dev.to/JS] [How to Access Scanner and Scan Documents from iOS Web Browsers via Network](https://dev.to/yushulx/how-to-access-scanner-and-scan-documents-from-ios-web-browsers-via-network-1399)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Steps To Build Resources With CSS Flexbox](https://dev.to/scofieldidehen/steps-to-build-resources-with-css-flexbox-ipe)
 - [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/backlinkss/javascript-cheatsheet-32eg)
 - [Dev.to/JS] [Slot Gacor | situs slot judi online terpercaya](https://dev.to/slot_gacor/slot-gacor-situs-slot-judi-online-terpercaya-iif)
-- [Dev.to/JS] [How I created a Word Search Game for my Portfolio &lpar;React&rpar; Part 1](https://dev.to/singhimat99/how-i-created-a-word-search-game-for-my-portfolio-react-part-1-138n)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
