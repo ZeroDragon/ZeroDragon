@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Is &quot;NaN&quot;](https://dev.to/semihgkl/what-is-nan-3e0i)
+- [Dev.to/JS] [A JavaScript framework with web component](https://dev.to/kstdx/a-javascript-framework-with-web-component-3080)
 - [Dev.to/JS] [2022 Wrapped: Communities, Public Speaking, and Other DevRel Stuff From a Non-DevRel Engineer](https://dev.to/ythecombinator/2022-wrapped-communities-public-speaking-and-other-devrel-stuff-from-a-non-devrel-engineer-2403)
 - [Dev.to/JS] [Flowchart editor dgrm.net / announcement / I halved the source code](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-i-halved-the-source-code-3b5e)
 - [Dev.to/JS] [How to Create Custom Cursor Without Using Frameworks](https://dev.to/codewithsadee/how-to-create-custom-cursor-without-using-frameworks-2dbh)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 Best practices for react state management.](https://dev.to/hithesh__k/6-best-practices-for-react-state-management-n2f)
 - [Dev.to/JS] [Get Yesterday Date in JavaScript](https://dev.to/gaelgthomas/get-yesterday-date-in-javascript-1841)
 - [Dev.to/JS] [瀏覽器上的儲存空間：IndexedDB](https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-indexeddb-1mpk)
-- [Dev.to/JS] [🔥 CORS explained: Error fixing on both client and server side](https://dev.to/hartajsinghdev/cors-explained-error-fixing-on-both-client-and-server-side-5bb3)
-- [Dev.to/JS] [The Beginner&#39;s Guide to Using Node Mailer with Node.js](https://dev.to/arafat4693/the-beginners-guide-to-using-node-mailer-with-nodejs-3g8h)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
