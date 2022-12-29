@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Slot Gacor | situs slot judi online terpercaya](https://dev.to/slot_gacor/slot-gacor-situs-slot-judi-online-terpercaya-iif)
 - [Dev.to/JS] [How I created a Word Search Game for my Portfolio &lpar;React&rpar; Part 1](https://dev.to/singhimat99/how-i-created-a-word-search-game-for-my-portfolio-react-part-1-138n)
 - [Dev.to/JS] [Why javascript for everything?](https://dev.to/looph0le/why-javascript-for-everything-19m)
 - [Dev.to/JS] [Web Components:Observed Attributes](https://dev.to/jwp/web-components-color-span-3dai)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#1: Two Sum](https://dev.to/jd2r/1-two-sum-5d5g)
 - [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)
 - [Dev.to/JS] [Remembering how to make a website without React](https://dev.to/itsjoekent/remembering-how-to-make-a-website-without-react-m36)
-- [Dev.to/JS] [JavaScriptmas 2022 - Issue 4](https://dev.to/michaellarocca/javascriptmas-2022-issue-4-1167)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New PS5](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-ps5-1849921544)
 - [Lifehacker] [Hotwire Your Broken Thermostat in a Weather Emergency](https://lifehacker.com/hotwire-your-broken-thermostat-in-a-weather-emergency-1849836412)
 - [Lifehacker] [How to Get People to Actually Listen Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)
