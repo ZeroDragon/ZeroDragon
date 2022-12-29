@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first steps learning ReactJs](https://dev.to/enriqueedelberto/my-first-steps-learning-reactjs-3mbl)
+- [Dev.to/JS] [TIL: setting up proxy server on vite](https://dev.to/ghacosta/til-setting-up-proxy-server-on-vite-2cng)
 - [Dev.to/JS] [The Python of Revenge!](https://dev.to/ayka_code/the-python-of-revenge-1bcl)
 - [Dev.to/JS] [Javascript: Map e Set](https://dev.to/trinitypath/javascript-map-e-set-370k)
 - [Dev.to/JS] [JavaScript Frameworks - Heading into 2023](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2023-nln)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Github Action that adds a Pokemon Sprite to your repo README](https://dev.to/imohammd/creating-a-github-action-that-adds-a-pokemon-sprite-to-your-repo-readme-1lcd)
 - [Dev.to/JS] [Reflecting on 2022 - The Year in Review](https://dev.to/nx/reflecting-on-2022-the-year-in-review-i66)
 - [Dev.to/JS] [Tasty Recipes for React &amp; D3. The Ranking Bar.](https://dev.to/valorsoftware/tasty-recipes-for-react-d3-the-ranking-bar-37fa)
-- [Dev.to/JS] [JavaScript Fundamentals: Arrays](https://dev.to/astrodevil/javascript-fundamentals-arrays-2aid)
-- [Dev.to/JS] [JavaScript Loops: while e for](https://dev.to/trinitypath/javascript-loops-while-e-for-38a8)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
