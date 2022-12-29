@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Spread and Rest Operators: An Essential Guide for Beginners](https://dev.to/abhijitdotsharma/javascript-spread-and-rest-operators-an-essential-guide-for-beginners-53fc)
+- [Dev.to/JS] [React Hooks vs. Redux](https://dev.to/qbentil/react-hooks-vs-redux-51p7)
+- [Dev.to/JS] [Single Responsibility Principle in React](https://dev.to/zahidhasan24/single-responsibility-principle-in-react-169i)
 - [Dev.to/JS] [Common Queries of Data Science with Python in 2023 - Part 5](https://dev.to/kanishedureka/common-queries-of-data-science-with-python-in-2023-part-5-1nib)
 - [Dev.to/JS] [Deep copy object in JS / ES6](https://dev.to/olaj/deep-copy-object-in-js-es6-47c3)
 - [Dev.to/JS] [Search and Replace: Getting Started with the Notion API SDK for JavaScript](https://dev.to/andreiparfenov/search-and-replace-getting-started-with-the-notion-api-sdk-for-javascript-47j2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [is Data Structures and Algorithms necessary for frontend developer ?](https://dev.to/shacodes/is-data-structures-and-algorithms-necessary-for-frontend-developer--o4n)
 - [Dev.to/JS] [How to become frontend developer](https://dev.to/shacodes/how-to-become-frontend-developer-md1)
 - [Dev.to/JS] [8 Benefits of DevOps Companies Cannot Stay Away from](https://dev.to/kanishedureka/8-benefits-of-devops-companies-cannot-stay-away-from-45b6)
-- [Dev.to/JS] [cleanCode mean a readable code for other developers to understand better and easily.](https://dev.to/d_officialdev/cleancode-mean-a-readable-code-for-other-developers-to-understand-better-and-easily-321b)
-- [Dev.to/JS] [Closures in JavaScript](https://dev.to/shasheeshpurohit/closures-in-javascript-4jb)
-- [Dev.to/JS] [How to Access Scanner and Scan Documents from iOS Web Browsers via Network](https://dev.to/yushulx/how-to-access-scanner-and-scan-documents-from-ios-web-browsers-via-network-1399)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
