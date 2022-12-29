@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reflecting on 2022 - The Year in Review](https://dev.to/nx/reflecting-on-2022-the-year-in-review-i66)
+- [Dev.to/JS] [Tasty Recipes for React &amp; D3. The Ranking Bar.](https://dev.to/valorsoftware/tasty-recipes-for-react-d3-the-ranking-bar-37fa)
+- [Dev.to/JS] [JavaScript Fundamentals: Arrays](https://dev.to/astrodevil/javascript-fundamentals-arrays-2aid)
+- [Dev.to/JS] [JavaScript Loops: while e for](https://dev.to/trinitypath/javascript-loops-while-e-for-38a8)
+- [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Dev.to/JS] [https://ftp.gnu.org/gnu/gengetopt/?C=M;O=A](https://dev.to/iceventura/httpsftpgnuorggnugengetoptcmoa-787)
 - [Dev.to/JS] [I built a Saas to make emails sending easy for front-end developers](https://dev.to/yusufgkl/i-developed-a-saas-to-make-emails-sending-easy-for-front-end-developers-1ccp)
 - [Dev.to/JS] [What’s the Difference Between Jest and Mocha?](https://dev.to/get_pieces/whats-the-difference-between-jest-and-mocha-1i1h)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A JavaScript framework with web component](https://dev.to/kstdx/a-javascript-framework-with-web-component-3080)
 - [Dev.to/JS] [2022 Wrapped: Communities, Public Speaking, and Other DevRel Stuff From a Non-DevRel Engineer](https://dev.to/ythecombinator/2022-wrapped-communities-public-speaking-and-other-devrel-stuff-from-a-non-devrel-engineer-2403)
 - [Dev.to/JS] [Flowchart editor dgrm.net / announcement / I halved the source code](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-i-halved-the-source-code-3b5e)
-- [Dev.to/JS] [How to Create Custom Cursor Without Using Frameworks](https://dev.to/codewithsadee/how-to-create-custom-cursor-without-using-frameworks-2dbh)
-- [Dev.to/JS] [How to add an Estimated Reading Time to your Astro Blog with Javascript &amp; Markdown Plugins](https://dev.to/surjithctly/how-to-add-an-estimated-reading-time-to-your-astro-blog-with-javascript-4i7b)
-- [Dev.to/JS] [Monkey Map](https://dev.to/rmion/monkey-map-444k)
-- [Dev.to/JS] [Streams em Node.js para iniciantes &lpar;guia básico&rpar;](https://dev.to/leeodev/introducao-a-streams-em-nodejs-o-que-sao-e-como-usar-4p71)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)
 - [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
 - [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)
-- [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
-- [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)<!-- TECH-POSTS:END -->
 
 ---
 
