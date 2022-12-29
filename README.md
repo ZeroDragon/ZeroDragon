@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [In-App Chatting UIKit](https://dev.to/zainbinfurqan/in-app-chatting-uikit-328e)
+- [Dev.to/JS] [Alpha Heater – Reviews, Benefits, Uses, Price And Results?](https://dev.to/alphaheater3/alpha-heater-reviews-benefits-uses-price-and-results-565k)
+- [Dev.to/JS] [เล่นแร่แปรวิญญาณ Alchemy of Souls 2 ตอนที่ EP7 ไทยออนไลน์ ฟรี THAI-SUB!](https://dev.to/alchemyofsouls2ep7thaiweb/elnaeraeprwiyyaan-alchemy-of-souls-2-tnthii-ep7-aithynailn-frii-thai-sub-3bhf)
+- [Dev.to/JS] [ดูซีรีย์ Alchemy of Souls 2 Ep 7 ดูซีรีย์ซับไทย เต็มเรื่อง ดูซีรีย์ [THAI-Sub] ฟรี](https://dev.to/alchemyofsouls2ep7thai_1/duuchiiriiy-alchemy-of-souls-2-ep-7-duuchiiriiychabaithy-etmeruueng-duuchiiriiy-thai-sub-frii-2l8f)
 - [Dev.to/JS] [JavaScript Basic Introduction!](https://dev.to/darkxenium/javascript-basic-introduction-3na1)
 - [Dev.to/JS] [Steps To Build Resources With CSS Flexbox](https://dev.to/scofieldidehen/steps-to-build-resources-with-css-flexbox-ipe)
 - [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/backlinkss/javascript-cheatsheet-32eg)
@@ -32,14 +36,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Components:Observed Attributes](https://dev.to/jwp/web-components-color-span-3dai)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Dev.to/JS] [Code 👨‍💻 on your Phone 📱 with these 4 Mobile Apps](https://dev.to/c_yatteau/code-on-your-phone-with-these-4-mobile-apps-55cm)
-- [Dev.to/JS] [Why listen to relaxing music while programming](https://dev.to/mveckovic/why-listen-to-relaxing-music-while-programming-5flm)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
 - [Lifehacker] [13 of the Cheapest Hobbies You Can Teach Yourself](https://lifehacker.com/13-of-the-cheapest-hobbies-you-can-teach-yourself-1849888411)
-- [Dev.to/JS] [Os 10 React Hooks Mais Úteis: 05 - useReducer](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-05-usereducer-f9j)
-- [Dev.to/JS] [⚡3 Technologies Developers Learn Too Late &lpar;and where to learn them&rpar;](https://dev.to/mistval/3-technologies-developers-learn-too-late-and-where-to-learn-them-4h38)
 - [Lifehacker] [12 of Lifehacker’s Most Delicious Beverage Hacks of 2022](https://lifehacker.com/12-of-lifehacker-s-most-delicious-beverage-hacks-of-202-1849921203)
-- [Dev.to/JS] [Código limpo de JavaScript - práticas recomendadas rápidas](https://dev.to/trinitypath/codigo-limpo-de-javascript-praticas-recomendadas-rapidas-2fbe)
 - [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New PS5](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-ps5-1849921544)
 - [Lifehacker] [Hotwire Your Broken Thermostat in a Weather Emergency](https://lifehacker.com/hotwire-your-broken-thermostat-in-a-weather-emergency-1849836412)
