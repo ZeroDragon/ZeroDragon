@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [cleanCode mean a readable code for other developers to understand better and easily.](https://dev.to/d_officialdev/cleancode-mean-a-readable-code-for-other-developers-to-understand-better-and-easily-321b)
+- [Dev.to/JS] [Closures in JavaScript](https://dev.to/shasheeshpurohit/closures-in-javascript-4jb)
+- [Dev.to/JS] [How to Access Scanner and Scan Documents from iOS Web Browsers via Network](https://dev.to/yushulx/how-to-access-scanner-and-scan-documents-from-ios-web-browsers-via-network-1399)
 - [Dev.to/JS] [In-App Chatting UIKit](https://dev.to/zainbinfurqan/in-app-chatting-uikit-328e)
 - [Dev.to/JS] [Alpha Heater – Reviews, Benefits, Uses, Price And Results?](https://dev.to/alphaheater3/alpha-heater-reviews-benefits-uses-price-and-results-565k)
 - [Dev.to/JS] [เล่นแร่แปรวิญญาณ Alchemy of Souls 2 ตอนที่ EP7 ไทยออนไลน์ ฟรี THAI-SUB!](https://dev.to/alchemyofsouls2ep7thaiweb/elnaeraeprwiyyaan-alchemy-of-souls-2-tnthii-ep7-aithynailn-frii-thai-sub-3bhf)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/backlinkss/javascript-cheatsheet-32eg)
 - [Dev.to/JS] [Slot Gacor | situs slot judi online terpercaya](https://dev.to/slot_gacor/slot-gacor-situs-slot-judi-online-terpercaya-iif)
 - [Dev.to/JS] [How I created a Word Search Game for my Portfolio &lpar;React&rpar; Part 1](https://dev.to/singhimat99/how-i-created-a-word-search-game-for-my-portfolio-react-part-1-138n)
-- [Dev.to/JS] [Why javascript for everything?](https://dev.to/looph0le/why-javascript-for-everything-19m)
-- [Dev.to/JS] [Web Components:Observed Attributes](https://dev.to/jwp/web-components-color-span-3dai)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
-- [Dev.to/JS] [Code 👨‍💻 on your Phone 📱 with these 4 Mobile Apps](https://dev.to/c_yatteau/code-on-your-phone-with-these-4-mobile-apps-55cm)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
 - [Lifehacker] [13 of the Cheapest Hobbies You Can Teach Yourself](https://lifehacker.com/13-of-the-cheapest-hobbies-you-can-teach-yourself-1849888411)
