@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey in Open Source - expirables](https://dev.to/cadienvan/my-journey-in-open-source-expirables-43g)
+- [Dev.to/JS] [Conversões de tipos Javascript](https://dev.to/trinitypath/conversoes-de-tipos-javascript-14i9)
+- [Dev.to/JS] [Primitive values vs Reference values - Javascript](https://dev.to/arafat4693/primitive-values-vs-reference-values-javascript-4a88)
+- [Dev.to/JS] [My answer to &quot;What is JavaScript?&quot;](https://dev.to/parthmty/my-answer-to-what-is-javascript-11n0)
 - [Dev.to/JS] [JavaScript Spread and Rest Operators: An Essential Guide for Beginners](https://dev.to/abhijitdotsharma/javascript-spread-and-rest-operators-an-essential-guide-for-beginners-53fc)
 - [Dev.to/JS] [React Hooks vs. Redux](https://dev.to/qbentil/react-hooks-vs-redux-51p7)
 - [Dev.to/JS] [Single Responsibility Principle in React](https://dev.to/zahidhasan24/single-responsibility-principle-in-react-169i)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Search and Replace: Getting Started with the Notion API SDK for JavaScript](https://dev.to/andreiparfenov/search-and-replace-getting-started-with-the-notion-api-sdk-for-javascript-47j2)
 - [Dev.to/JS] [How can i use google my business api to my web app](https://dev.to/deepakcet25/how-can-i-use-google-my-business-api-to-my-web-app-2aka)
 - [Dev.to/JS] [flat array from the multi dimensional zig-zag array](https://dev.to/hidaytrahman/flat-array-from-the-multi-dimensional-zig-zag-array-4l4e)
-- [Dev.to/JS] [How to become css master ?](https://dev.to/shacodes/how-to-become-css-master--3ea8)
-- [Dev.to/JS] [is Data Structures and Algorithms necessary for frontend developer ?](https://dev.to/shacodes/is-data-structures-and-algorithms-necessary-for-frontend-developer--o4n)
-- [Dev.to/JS] [How to become frontend developer](https://dev.to/shacodes/how-to-become-frontend-developer-md1)
-- [Dev.to/JS] [8 Benefits of DevOps Companies Cannot Stay Away from](https://dev.to/kanishedureka/8-benefits-of-devops-companies-cannot-stay-away-from-45b6)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
