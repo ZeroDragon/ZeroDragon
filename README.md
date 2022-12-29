@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2022 Wrapped: Communities, Public Speaking, and Other DevRel Stuff From a Non-DevRel Engineer](https://dev.to/ythecombinator/2022-wrapped-communities-public-speaking-and-other-devrel-stuff-from-a-non-devrel-engineer-2403)
+- [Dev.to/JS] [Flowchart editor dgrm.net / announcement / I halved the source code](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-i-halved-the-source-code-3b5e)
+- [Dev.to/JS] [How to Create Custom Cursor Without Using Frameworks](https://dev.to/codewithsadee/how-to-create-custom-cursor-without-using-frameworks-2dbh)
+- [Dev.to/JS] [How to add an Estimated Reading Time to your Astro Blog with Javascript &amp; Markdown Plugins](https://dev.to/surjithctly/how-to-add-an-estimated-reading-time-to-your-astro-blog-with-javascript-4i7b)
+- [Dev.to/JS] [Monkey Map](https://dev.to/rmion/monkey-map-444k)
+- [Dev.to/JS] [Streams em Node.js para iniciantes &lpar;guia básico&rpar;](https://dev.to/leeodev/introducao-a-streams-em-nodejs-o-que-sao-e-como-usar-4p71)
+- [Dev.to/JS] [How To Improve Website Performance In 2023](https://dev.to/builderio/how-to-improve-website-performance-in-2023-4e0d)
+- [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
 - [Dev.to/JS] [6 Best practices for react state management.](https://dev.to/hithesh__k/6-best-practices-for-react-state-management-n2f)
 - [Dev.to/JS] [Get Yesterday Date in JavaScript](https://dev.to/gaelgthomas/get-yesterday-date-in-javascript-1841)
 - [Dev.to/JS] [瀏覽器上的儲存空間：IndexedDB](https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-indexeddb-1mpk)
 - [Dev.to/JS] [🔥 CORS explained: Error fixing on both client and server side](https://dev.to/hartajsinghdev/cors-explained-error-fixing-on-both-client-and-server-side-5bb3)
 - [Dev.to/JS] [The Beginner&#39;s Guide to Using Node Mailer with Node.js](https://dev.to/arafat4693/the-beginners-guide-to-using-node-mailer-with-nodejs-3g8h)
-- [Dev.to/JS] [What Are The Top Business Advantages Of Digital Product Development?](https://dev.to/etelligens/what-are-the-top-business-advantages-of-digital-product-development-347o)
-- [Dev.to/JS] [My Journey in Open Source - expirables](https://dev.to/cadienvan/my-journey-in-open-source-expirables-43g)
-- [Dev.to/JS] [Conversões de tipos Javascript](https://dev.to/trinitypath/conversoes-de-tipos-javascript-14i9)
-- [Dev.to/JS] [Primitive values vs Reference values - Javascript](https://dev.to/arafat4693/primitive-values-vs-reference-values-javascript-4a88)
-- [Dev.to/JS] [My answer to &quot;What is JavaScript?&quot;](https://dev.to/parthmty/my-answer-to-what-is-javascript-11n0)
-- [Dev.to/JS] [JavaScript Spread and Rest Operators: An Essential Guide for Beginners](https://dev.to/abhijitdotsharma/javascript-spread-and-rest-operators-an-essential-guide-for-beginners-53fc)
-- [Dev.to/JS] [React Hooks vs. Redux](https://dev.to/qbentil/react-hooks-vs-redux-51p7)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)
 - [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)
 - [Lifehacker] [The 7 Deadly Sins of Celebrating New Year&#39;s Eve](https://lifehacker.com/the-7-deadly-sins-of-celebrating-new-years-eve-1849876845)
-- [Lifehacker] [How Much Hair Is Normal to Lose in a Day?](https://lifehacker.com/how-much-hair-is-normal-to-lose-in-a-day-1849711637)
-- [Lifehacker] [Your Intense Co-Dependency Might Be a ‘Karmic Relationship’](https://lifehacker.com/your-intense-co-dependency-might-be-a-karmic-relations-1849811105)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Much Hair Is Normal to Lose in a Day?](https://lifehacker.com/how-much-hair-is-normal-to-lose-in-a-day-1849711637)<!-- TECH-POSTS:END -->
 
 ---
 
