@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a Nuxt 3 app](https://dev.to/guillaumeduhan/how-to-create-a-nuxt-3-app-4ng8)
+- [Dev.to/JS] [Drupal: Active Links in Views](https://dev.to/ryanr/drupal-active-links-in-views-2ill)
 - [Dev.to/JS] [Asymmetric encryption](https://dev.to/niza/asymmetric-encryption-55np)
 - [Dev.to/JS] [Escopo Lexical em JavaScript – O que exatamente é escopo em JS?](https://dev.to/trinitypath/escopo-lexical-em-javascript-o-que-exatamente-e-escopo-em-js-c0k)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Qwik integration for Nx](https://dev.to/valorsoftware/introducing-qwik-integration-for-nx-1k5b)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
 - [Dev.to/JS] [O ciclo de vida da memória JavaScript](https://dev.to/trinitypath/o-ciclo-de-vida-da-memoria-javascript-3m3j)
-- [Dev.to/JS] [📫How To Make A Popup | HTML, CSS &amp; JavaScript](https://dev.to/robsonmuniz16/how-to-make-a-popup-html-css-javascript-18ml)
-- [Dev.to/JS] [Manage Forms in React Like Pro](https://dev.to/sharmakushal/manage-forms-in-react-like-pro-2ei0)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
