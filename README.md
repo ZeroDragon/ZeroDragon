@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unstable Diffusion](https://dev.to/rmion/unstable-diffusion-b8j)
+- [Dev.to/JS] [7 tips to measure and analyze JavaScript performance](https://dev.to/durosly/7-tips-to-measure-and-analyze-javascript-performance-gc6)
+- [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Dev.to/JS] [How to use Angular Provider](https://dev.to/incubyte/how-to-use-angular-provider-42la)
 - [Dev.to/JS] [The Role of Mocks and Spies in Unit Testing](https://dev.to/danywalls/the-role-of-mocks-and-spies-in-unit-testing-3i97)
 - [Dev.to/JS] [Introducing Qwik integration for Nx](https://dev.to/valorsoftware/introducing-qwik-integration-for-nx-1k5b)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Proxies allow you to intercept and customize operations performed on objects](https://dev.to/anower77/javascript-proxies-allow-you-to-intercept-and-customize-operations-performed-on-objects-3k09)
 - [Dev.to/JS] [Small issue.](https://dev.to/evelyngosselin/psa-1850)
 - [Dev.to/JS] [JavaScript is my name](https://dev.to/oluwatobiss/javascript-is-my-name-38ml)
-- [Dev.to/JS] [Discover the magic of the TypeScript type system and how it works its magic on your code](https://dev.to/codewithonye/discover-the-magic-of-the-typescript-type-system-and-how-it-works-its-magic-on-your-code-2em9)
-- [Dev.to/JS] [Custom hooks in React](https://dev.to/shasheeshpurohit/custom-hooks-in-react-32k2)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)
-- [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
-- [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)<!-- TECH-POSTS:END -->
 
 ---
 
