@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which skill is best for freelancing 2023?](https://dev.to/soumenmaity106/which-skill-is-best-for-freelancing-2023-10lf)
+- [Dev.to/JS] [How to use Jest for JavaScript code testing](https://dev.to/durosly/how-to-use-jest-for-javascript-testing-28nl)
 - [Dev.to/JS] [Outlook of Javascript Full-Stack Development for 2023](https://dev.to/zenstack/outlook-of-javascript-full-stack-development-for-2023-58al)
 - [Dev.to/JS] [ดูซีรีย์ Alchemy of Souls 2 Ep 8 ดูซีรีย์ซับไทย เต็มเรื่อง ดูซีรีย์ [THAI] ฟรี](https://dev.to/alchemyofsouls2ep8hd/duuchiiriiy-alchemy-of-souls-2-ep-8-duuchiiriiychabaithy-etmeruueng-duuchiiriiy-thai-frii-284)
 - [Dev.to/JS] [Hyper Fetch 3.0 is out! 🎉](https://dev.to/prc995/hyper-fetch-30-is-out-3ek8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UNDERSTANDING HOISTING IN JAVASCRIPT](https://dev.to/onwuemene/understanding-hoisting-in-javascript-43oa)
 - [Dev.to/JS] [Semantic Search with OpenAI Embeddings and Pinecone](https://dev.to/mharrvic/semantic-search-with-openai-embeddings-and-pinecone-4b0m)
 - [Dev.to/JS] [A Beginner’s Guide to Javascript Operators and Conditional Statements](https://dev.to/jjpark987/a-beginners-guide-to-javascript-operators-and-conditional-statements-3kn1)
-- [Dev.to/JS] [My first steps learning ReactJs](https://dev.to/enriqueedelberto/my-first-steps-learning-reactjs-3mbl)
-- [Dev.to/JS] [TIL: setting up proxy server on vite](https://dev.to/ghacosta/til-setting-up-proxy-server-on-vite-2cng)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
