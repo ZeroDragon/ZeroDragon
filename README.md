@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Firebase Chat App Tutorial | Jan 2023](https://dev.to/alakkadshaw/firebase-chat-app-tutorial-jan-2023-5e2e)
 - [Dev.to/JS] [5 easy ways to reduce DOM manipulations](https://dev.to/durosly/5-easy-ways-to-reduce-dom-manipulations-4l29)
 - [Dev.to/JS] [#7: Reverse Integer](https://dev.to/jd2r/7-reverse-integer-dji)
 - [Dev.to/JS] [How to create a Nuxt 3 app](https://dev.to/guillaumeduhan/how-to-create-a-nuxt-3-app-4ng8)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 tips to measure and analyze JavaScript performance](https://dev.to/durosly/7-tips-to-measure-and-analyze-javascript-performance-gc6)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Dev.to/JS] [How to use Angular Provider](https://dev.to/incubyte/how-to-use-angular-provider-42la)
-- [Dev.to/JS] [The Role of Mocks and Spies in Unit Testing](https://dev.to/danywalls/the-role-of-mocks-and-spies-in-unit-testing-3i97)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
