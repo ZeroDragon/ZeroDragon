@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Great tutorial by @nsebhastian on .map&lpar;&rpar;](https://dev.to/realisedprophets/great-tutorial-by-nsebhastian-on-map-39ia)
+- [Dev.to/JS] [What Is the Data Layer and Why Do You Need It?](https://dev.to/analyticsinstitute/what-is-the-data-layer-and-why-do-you-need-it-2hp4)
 - [Dev.to/JS] [Unstable Diffusion](https://dev.to/rmion/unstable-diffusion-b8j)
 - [Dev.to/JS] [7 tips to measure and analyze JavaScript performance](https://dev.to/durosly/7-tips-to-measure-and-analyze-javascript-performance-gc6)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Manage Forms in React Like Pro](https://dev.to/sharmakushal/manage-forms-in-react-like-pro-2ei0)
 - [Dev.to/JS] [Custom i18n library](https://dev.to/rezanazari/my-own-i18n-library-153p)
 - [Dev.to/JS] [JavaScript Proxies allow you to intercept and customize operations performed on objects](https://dev.to/anower77/javascript-proxies-allow-you-to-intercept-and-customize-operations-performed-on-objects-3k09)
-- [Dev.to/JS] [Small issue.](https://dev.to/evelyngosselin/psa-1850)
-- [Dev.to/JS] [JavaScript is my name](https://dev.to/oluwatobiss/javascript-is-my-name-38ml)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
