@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Small issue.](https://dev.to/evelyngosselin/psa-1850)
 - [Dev.to/JS] [JavaScript is my name](https://dev.to/oluwatobiss/javascript-is-my-name-38ml)
 - [Dev.to/JS] [Discover the magic of the TypeScript type system and how it works its magic on your code](https://dev.to/codewithonye/discover-the-magic-of-the-typescript-type-system-and-how-it-works-its-magic-on-your-code-2em9)
 - [Dev.to/JS] [Custom hooks in React](https://dev.to/shasheeshpurohit/custom-hooks-in-react-32k2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add Calendly to Your ReactJS Project](https://dev.to/sachinchaurasiya/how-to-add-calendly-to-your-reactjs-project-2jkb)
 - [Dev.to/JS] [3D heat map &lpar;thermal cloud&rpar; based on HTML5 Canvas](https://dev.to/hightopo/3d-heat-map-thermal-cloud-based-on-html5-canvas-40mj)
 - [Dev.to/JS] [Why Should You Learn React Js in 2023?](https://dev.to/fahimulkabir/why-should-you-learn-react-js-in-2023-ci3)
-- [Dev.to/JS] [Best Leading Jaipur Model Service for you Book now](https://dev.to/mahajanritu2/best-leading-jaipur-model-service-for-you-book-now-1g4b)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
