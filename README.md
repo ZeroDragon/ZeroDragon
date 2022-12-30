@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Semantic Search with OpenAI Embeddings and Pinecone](https://dev.to/mharrvic/semantic-search-with-openai-embeddings-and-pinecone-4b0m)
 - [Dev.to/JS] [A Beginner’s Guide to Javascript Operators and Conditional Statements](https://dev.to/jjpark987/a-beginners-guide-to-javascript-operators-and-conditional-statements-3kn1)
 - [Dev.to/JS] [My first steps learning ReactJs](https://dev.to/enriqueedelberto/my-first-steps-learning-reactjs-3mbl)
 - [Dev.to/JS] [TIL: setting up proxy server on vite](https://dev.to/ghacosta/til-setting-up-proxy-server-on-vite-2cng)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tail Call Optimization in JavaScript](https://dev.to/justinethier/tail-call-optimization-in-javascript-59db)
 - [Dev.to/JS] [These 5 AI Tools Will Make You A Superhuman!!](https://dev.to/thenomadevel/these-5-ai-tools-will-make-you-a-superhuman-36m3)
 - [Dev.to/JS] [Creating a Github Action that adds a Pokemon Sprite to your repo README](https://dev.to/imohammd/creating-a-github-action-that-adds-a-pokemon-sprite-to-your-repo-readme-1lcd)
-- [Dev.to/JS] [Reflecting on 2022 - The Year in Review](https://dev.to/nx/reflecting-on-2022-the-year-in-review-i66)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
