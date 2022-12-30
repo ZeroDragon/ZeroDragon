@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3D heat map &lpar;thermal cloud&rpar; based on HTML5 Canvas](https://dev.to/hightopo/3d-heat-map-thermal-cloud-based-on-html5-canvas-40mj)
+- [Dev.to/JS] [Why Should You Learn React Js in 2023?](https://dev.to/fahimulkabir/why-should-you-learn-react-js-in-2023-ci3)
+- [Dev.to/JS] [Best Leading Jaipur Model Service for you Book now](https://dev.to/mahajanritu2/best-leading-jaipur-model-service-for-you-book-now-1g4b)
+- [Dev.to/JS] [Your First Steps with the Astro Framework](https://dev.to/danywalls/your-first-steps-with-the-astro-framework-4kec)
 - [Dev.to/JS] [Why Front-End Developers Should Start Learning Cloud Now](https://dev.to/danywalls/why-front-end-developers-should-start-learning-cloud-now-287i)
 - [Dev.to/JS] [Year 2022: A Personal Recap and What I&#39;ve Learned Along the Way](https://dev.to/danywalls/year-2022-a-personal-recap-and-what-ive-learned-along-the-way-1j76)
 - [Dev.to/JS] [Learn React Router 6 And build this beautiful application](https://dev.to/myogeshchavan97/learn-react-router-6-and-build-this-beautiful-application-56mb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Full-Stack Development Outlook for 2023](https://dev.to/zenstack/outlook-of-javascript-full-stack-development-for-2023-58al)
 - [Dev.to/JS] [ดูซีรีย์ Alchemy of Souls 2 Ep 8 ดูซีรีย์ซับไทย เต็มเรื่อง ดูซีรีย์ [THAI] ฟรี](https://dev.to/alchemyofsouls2ep8hd/duuchiiriiy-alchemy-of-souls-2-ep-8-duuchiiriiychabaithy-etmeruueng-duuchiiriiy-thai-frii-284)
 - [Dev.to/JS] [Hyper Fetch 3.0 is out! 🎉](https://dev.to/prc995/hyper-fetch-30-is-out-3ek8)
-- [Dev.to/JS] [⚛ React Lifecycle 🔃](https://dev.to/mpetry/react-lifecycle-a87)
-- [Dev.to/JS] [A checklist for good re-usable functions and APIs](https://dev.to/michael_flores23/a-checklist-for-good-re-usable-functions-and-apis-1c07)
-- [Dev.to/JS] [Returning To The FUNdamentals](https://dev.to/austinbagwell/returning-to-the-fundamentals-1lil)
-- [Dev.to/JS] [Another Humbling Challenge](https://dev.to/openworldprojectowp/another-humbling-challenge-4hah)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
