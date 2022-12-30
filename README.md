@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Qwik integration for Nx](https://dev.to/valorsoftware/introducing-qwik-integration-for-nx-1k5b)
+- [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
 - [Dev.to/JS] [O ciclo de vida da memória JavaScript](https://dev.to/trinitypath/o-ciclo-de-vida-da-memoria-javascript-3m3j)
 - [Dev.to/JS] [📫How To Make A Popup | HTML, CSS &amp; JavaScript](https://dev.to/robsonmuniz16/how-to-make-a-popup-html-css-javascript-18ml)
 - [Dev.to/JS] [Manage Forms in React Like Pro](https://dev.to/sharmakushal/manage-forms-in-react-like-pro-2ei0)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom hooks in React](https://dev.to/shasheeshpurohit/custom-hooks-in-react-32k2)
 - [Dev.to/JS] [Vite or Webpack](https://dev.to/hshoja/vite-or-webpack-afd)
 - [Dev.to/JS] [Awesome Weather UI with real time and date, Backdrop filters too.](https://dev.to/amiruweerathunga/awesome-weather-ui-with-real-time-and-date-backdrop-filters-too-5e9c)
-- [Dev.to/JS] [Synogut - Health Reviews, price, Uses And Benefits?](https://dev.to/synogut4/synogut-health-reviews-price-uses-and-benefits-54n)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)
 - [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)
-- [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)
-- [Lifehacker] [Nine Changes You Should Make on Your iPhone Before the New Year](https://lifehacker.com/nine-changes-you-should-make-with-your-iphone-before-th-1849926146)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 of the Best Fitness Books I Read in 2022](https://lifehacker.com/9-of-the-best-fitness-books-i-read-in-2022-1849920246)<!-- TECH-POSTS:END -->
 
 ---
 
