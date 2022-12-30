@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom hooks in React](https://dev.to/shasheeshpurohit/custom-hooks-in-react-32k2)
+- [Dev.to/JS] [Vite or Webpack](https://dev.to/hshoja/vite-or-webpack-afd)
 - [Dev.to/JS] [Awesome Weather UI with real time and date, Backdrop filters too.](https://dev.to/amiruweerathunga/awesome-weather-ui-with-real-time-and-date-backdrop-filters-too-5e9c)
 - [Dev.to/JS] [Synogut - Health Reviews, price, Uses And Benefits?](https://dev.to/synogut4/synogut-health-reviews-price-uses-and-benefits-54n)
 - [Dev.to/JS] [Godrej Park Retreat Amenities](https://dev.to/contactus_g/godrej-park-retreat-amenities-5g7k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Leading Jaipur Model Service for you Book now](https://dev.to/mahajanritu2/best-leading-jaipur-model-service-for-you-book-now-1g4b)
 - [Dev.to/JS] [Your First Steps with the Astro Framework](https://dev.to/danywalls/your-first-steps-with-the-astro-framework-4kec)
 - [Dev.to/JS] [Why Front-End Developers Should Start Learning Cloud Now](https://dev.to/danywalls/why-front-end-developers-should-start-learning-cloud-now-287i)
-- [Dev.to/JS] [Year 2022: A Personal Recap and What I&#39;ve Learned Along the Way](https://dev.to/danywalls/year-2022-a-personal-recap-and-what-ive-learned-along-the-way-1j76)
-- [Dev.to/JS] [Learn React Router 6 And build this beautiful application](https://dev.to/myogeshchavan97/learn-react-router-6-and-build-this-beautiful-application-56mb)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
