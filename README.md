@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asymmetric encryption](https://dev.to/niza/asymmetric-encryption-55np)
+- [Dev.to/JS] [Escopo Lexical em JavaScript – O que exatamente é escopo em JS?](https://dev.to/trinitypath/escopo-lexical-em-javascript-o-que-exatamente-e-escopo-em-js-c0k)
+- [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Dev.to/JS] [Great tutorial by @nsebhastian on .map&lpar;&rpar;](https://dev.to/realisedprophets/great-tutorial-by-nsebhastian-on-map-39ia)
 - [Dev.to/JS] [What Is the Data Layer and Why Do You Need It?](https://dev.to/analyticsinstitute/what-is-the-data-layer-and-why-do-you-need-it-2hp4)
 - [Dev.to/JS] [Unstable Diffusion](https://dev.to/rmion/unstable-diffusion-b8j)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [O ciclo de vida da memória JavaScript](https://dev.to/trinitypath/o-ciclo-de-vida-da-memoria-javascript-3m3j)
 - [Dev.to/JS] [📫How To Make A Popup | HTML, CSS &amp; JavaScript](https://dev.to/robsonmuniz16/how-to-make-a-popup-html-css-javascript-18ml)
 - [Dev.to/JS] [Manage Forms in React Like Pro](https://dev.to/sharmakushal/manage-forms-in-react-like-pro-2ei0)
-- [Dev.to/JS] [Custom i18n library](https://dev.to/rezanazari/my-own-i18n-library-153p)
-- [Dev.to/JS] [JavaScript Proxies allow you to intercept and customize operations performed on objects](https://dev.to/anower77/javascript-proxies-allow-you-to-intercept-and-customize-operations-performed-on-objects-3k09)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
 - [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
-- [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)
-- [Lifehacker] [How to Get Rid of &lpar;and Prevent&rpar; Black Ice on Your Driveway and Walkways](https://lifehacker.com/how-to-get-rid-of-and-prevent-black-ice-on-your-drive-1849750779)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)<!-- TECH-POSTS:END -->
 
 ---
 
