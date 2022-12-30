@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Angular Provider](https://dev.to/incubyte/how-to-use-angular-provider-42la)
+- [Dev.to/JS] [The Role of Mocks and Spies in Unit Testing](https://dev.to/danywalls/the-role-of-mocks-and-spies-in-unit-testing-3i97)
 - [Dev.to/JS] [Introducing Qwik integration for Nx](https://dev.to/valorsoftware/introducing-qwik-integration-for-nx-1k5b)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
 - [Dev.to/JS] [O ciclo de vida da memória JavaScript](https://dev.to/trinitypath/o-ciclo-de-vida-da-memoria-javascript-3m3j)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript is my name](https://dev.to/oluwatobiss/javascript-is-my-name-38ml)
 - [Dev.to/JS] [Discover the magic of the TypeScript type system and how it works its magic on your code](https://dev.to/codewithonye/discover-the-magic-of-the-typescript-type-system-and-how-it-works-its-magic-on-your-code-2em9)
 - [Dev.to/JS] [Custom hooks in React](https://dev.to/shasheeshpurohit/custom-hooks-in-react-32k2)
-- [Dev.to/JS] [Vite or Webpack](https://dev.to/hshoja/vite-or-webpack-afd)
-- [Dev.to/JS] [Awesome Weather UI with real time and date, Backdrop filters too.](https://dev.to/amiruweerathunga/awesome-weather-ui-with-real-time-and-date-backdrop-filters-too-5e9c)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
