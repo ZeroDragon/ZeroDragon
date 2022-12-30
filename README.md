@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Awesome Weather UI with real time and date, Backdrop filters too.](https://dev.to/amiruweerathunga/awesome-weather-ui-with-real-time-and-date-backdrop-filters-too-5e9c)
+- [Dev.to/JS] [Synogut - Health Reviews, price, Uses And Benefits?](https://dev.to/synogut4/synogut-health-reviews-price-uses-and-benefits-54n)
+- [Dev.to/JS] [Godrej Park Retreat Amenities](https://dev.to/contactus_g/godrej-park-retreat-amenities-5g7k)
 - [Dev.to/JS] [Adding JPEG XL &amp; QOI Support to my Website OS](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
 - [Dev.to/JS] [How to Add Calendly to Your ReactJS Project](https://dev.to/sachinchaurasiya/how-to-add-calendly-to-your-reactjs-project-2jkb)
 - [Dev.to/JS] [3D heat map &lpar;thermal cloud&rpar; based on HTML5 Canvas](https://dev.to/hightopo/3d-heat-map-thermal-cloud-based-on-html5-canvas-40mj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Front-End Developers Should Start Learning Cloud Now](https://dev.to/danywalls/why-front-end-developers-should-start-learning-cloud-now-287i)
 - [Dev.to/JS] [Year 2022: A Personal Recap and What I&#39;ve Learned Along the Way](https://dev.to/danywalls/year-2022-a-personal-recap-and-what-ive-learned-along-the-way-1j76)
 - [Dev.to/JS] [Learn React Router 6 And build this beautiful application](https://dev.to/myogeshchavan97/learn-react-router-6-and-build-this-beautiful-application-56mb)
-- [Dev.to/JS] [Which skill is best for freelancing 2023?](https://dev.to/soumenmaity106/which-skill-is-best-for-freelancing-2023-10lf)
-- [Dev.to/JS] [How to use Jest for JavaScript code testing](https://dev.to/durosly/how-to-use-jest-for-javascript-testing-28nl)
-- [Dev.to/JS] [Javascript Full-Stack Development Outlook for 2023](https://dev.to/zenstack/outlook-of-javascript-full-stack-development-for-2023-58al)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
