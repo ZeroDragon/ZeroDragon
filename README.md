@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding JPEG XL &amp; QOI Support to my Website OS](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
+- [Dev.to/JS] [How to Add Calendly to Your ReactJS Project](https://dev.to/sachinchaurasiya/how-to-add-calendly-to-your-reactjs-project-2jkb)
 - [Dev.to/JS] [3D heat map &lpar;thermal cloud&rpar; based on HTML5 Canvas](https://dev.to/hightopo/3d-heat-map-thermal-cloud-based-on-html5-canvas-40mj)
 - [Dev.to/JS] [Why Should You Learn React Js in 2023?](https://dev.to/fahimulkabir/why-should-you-learn-react-js-in-2023-ci3)
 - [Dev.to/JS] [Best Leading Jaipur Model Service for you Book now](https://dev.to/mahajanritu2/best-leading-jaipur-model-service-for-you-book-now-1g4b)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which skill is best for freelancing 2023?](https://dev.to/soumenmaity106/which-skill-is-best-for-freelancing-2023-10lf)
 - [Dev.to/JS] [How to use Jest for JavaScript code testing](https://dev.to/durosly/how-to-use-jest-for-javascript-testing-28nl)
 - [Dev.to/JS] [Javascript Full-Stack Development Outlook for 2023](https://dev.to/zenstack/outlook-of-javascript-full-stack-development-for-2023-58al)
-- [Dev.to/JS] [ดูซีรีย์ Alchemy of Souls 2 Ep 8 ดูซีรีย์ซับไทย เต็มเรื่อง ดูซีรีย์ [THAI] ฟรี](https://dev.to/alchemyofsouls2ep8hd/duuchiiriiy-alchemy-of-souls-2-ep-8-duuchiiriiychabaithy-etmeruueng-duuchiiriiy-thai-frii-284)
-- [Dev.to/JS] [Hyper Fetch 3.0 is out! 🎉](https://dev.to/prc995/hyper-fetch-30-is-out-3ek8)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
