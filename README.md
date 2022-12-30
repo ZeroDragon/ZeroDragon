@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Outlook of Javascript Full-Stack Development for 2023](https://dev.to/zenstack/outlook-of-javascript-full-stack-development-for-2023-58al)
+- [Dev.to/JS] [ดูซีรีย์ Alchemy of Souls 2 Ep 8 ดูซีรีย์ซับไทย เต็มเรื่อง ดูซีรีย์ [THAI] ฟรี](https://dev.to/alchemyofsouls2ep8hd/duuchiiriiy-alchemy-of-souls-2-ep-8-duuchiiriiychabaithy-etmeruueng-duuchiiriiy-thai-frii-284)
 - [Dev.to/JS] [Hyper Fetch 3.0 is out! 🎉](https://dev.to/prc995/hyper-fetch-30-is-out-3ek8)
 - [Dev.to/JS] [⚛ React Lifecycle 🔃](https://dev.to/mpetry/react-lifecycle-a87)
 - [Dev.to/JS] [A checklist for good re-usable functions and APIs](https://dev.to/michael_flores23/a-checklist-for-good-re-usable-functions-and-apis-1c07)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner’s Guide to Javascript Operators and Conditional Statements](https://dev.to/jjpark987/a-beginners-guide-to-javascript-operators-and-conditional-statements-3kn1)
 - [Dev.to/JS] [My first steps learning ReactJs](https://dev.to/enriqueedelberto/my-first-steps-learning-reactjs-3mbl)
 - [Dev.to/JS] [TIL: setting up proxy server on vite](https://dev.to/ghacosta/til-setting-up-proxy-server-on-vite-2cng)
-- [Dev.to/JS] [The Python of Revenge!](https://dev.to/ayka_code/the-python-of-revenge-1bcl)
-- [Dev.to/JS] [Javascript: Map e Set](https://dev.to/trinitypath/javascript-map-e-set-370k)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
