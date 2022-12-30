@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [O ciclo de vida da memória JavaScript](https://dev.to/trinitypath/o-ciclo-de-vida-da-memoria-javascript-3m3j)
+- [Dev.to/JS] [📫How To Make A Popup | HTML, CSS &amp; JavaScript](https://dev.to/robsonmuniz16/how-to-make-a-popup-html-css-javascript-18ml)
+- [Dev.to/JS] [Manage Forms in React Like Pro](https://dev.to/sharmakushal/manage-forms-in-react-like-pro-2ei0)
 - [Dev.to/JS] [Custom i18n library](https://dev.to/rezanazari/my-own-i18n-library-153p)
 - [Dev.to/JS] [JavaScript Proxies allow you to intercept and customize operations performed on objects](https://dev.to/anower77/javascript-proxies-allow-you-to-intercept-and-customize-operations-performed-on-objects-3k09)
 - [Dev.to/JS] [Small issue.](https://dev.to/evelyngosselin/psa-1850)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vite or Webpack](https://dev.to/hshoja/vite-or-webpack-afd)
 - [Dev.to/JS] [Awesome Weather UI with real time and date, Backdrop filters too.](https://dev.to/amiruweerathunga/awesome-weather-ui-with-real-time-and-date-backdrop-filters-too-5e9c)
 - [Dev.to/JS] [Synogut - Health Reviews, price, Uses And Benefits?](https://dev.to/synogut4/synogut-health-reviews-price-uses-and-benefits-54n)
-- [Dev.to/JS] [Godrej Park Retreat Amenities](https://dev.to/contactus_g/godrej-park-retreat-amenities-5g7k)
-- [Dev.to/JS] [Adding JPEG XL &amp; QOI Support to my Website OS](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
-- [Dev.to/JS] [How to Add Calendly to Your ReactJS Project](https://dev.to/sachinchaurasiya/how-to-add-calendly-to-your-reactjs-project-2jkb)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
 - [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
