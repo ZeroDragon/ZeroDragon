@@ -23,9 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I created a mesh circle in JS with TS and NodeJS](https://dev.to/lightningchart/i-created-a-mesh-circle-in-js-with-ts-and-nodejs-1i6d)
+- [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
 - [Dev.to/JS] [10 ways to earn as softwere developer](https://dev.to/shacodes/10-ways-to-earn-as-softwere-developer-18b)
 - [Dev.to/JS] [Const vs Var vs Let: When and where to use them?](https://dev.to/iayeshasahar/const-vs-var-vs-let-when-and-where-to-use-them-38fl)
-- [Dev.to/JS] [How to use Google Analytics Data API](https://dev.to/j471n/how-to-use-google-analytics-data-api-5gb9)
 - [Dev.to/JS] [You should know about the filter&lpar;Boolean&rpar; trick 💡](https://dev.to/majdsufian/you-should-know-aobut-the-filterboolean-trick-4g0)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;31-12-2022&rpar; - Happy New Year Edition](https://dev.to/mjgs/this-weeks-newsletter-is-out-31-12-2022-happy-new-year-edition-aj9)
 - [Dev.to/JS] [Optimizing Performance with the SplitChunksPlugin in Webpack](https://dev.to/himanshugupta714/optimizing-performance-with-the-splitchunksplugin-in-webpack-3e72)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
 - [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
-- [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)
-- [Lifehacker] [15 of the Best Indie Games to Play on Your New Xbox](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-xbox-1849917255)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)<!-- TECH-POSTS:END -->
 
 ---
 
