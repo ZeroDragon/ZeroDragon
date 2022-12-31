@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
+- [Dev.to/JS] [table: animate swapping columns](https://dev.to/gohomewho/table-animate-swapping-columns-2d62)
 - [Dev.to/JS] [How do TensorFlow.js models load in the browser?](https://dev.to/360macky/how-do-tensorflowjs-models-load-in-the-browser-3fbj)
 - [Dev.to/JS] [&quot;Unlock the power of Shadow DOM - a must-know for every web developer!&quot;](https://dev.to/chiranjit2020/unlock-the-power-of-shadow-dom-a-must-know-for-every-web-developer-184g)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [You should know about the filter&lpar;Boolean&rpar; trick 💡](https://dev.to/majdsufian/you-should-know-aobut-the-filterboolean-trick-4g0)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;31-12-2022&rpar; - Happy New Year Edition](https://dev.to/mjgs/this-weeks-newsletter-is-out-31-12-2022-happy-new-year-edition-aj9)
 - [Dev.to/JS] [Optimizing Performance with the SplitChunksPlugin in Webpack](https://dev.to/himanshugupta714/optimizing-performance-with-the-splitchunksplugin-in-webpack-3e72)
-- [Dev.to/JS] [Attention JS developers!](https://dev.to/restdbjones/attention-js-developers-351b)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)
 - [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)
 - [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
-- [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
-- [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)<!-- TECH-POSTS:END -->
 
 ---
 
