@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop using if...else ✋🚫](https://dev.to/dshaw0004/stop-using-ifelse-1jmn)
+- [Dev.to/JS] [Mutative - 10x faster than Immer](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060)
+- [Dev.to/JS] [Get an in-depth understanding of how React&#39;s virtual DOM works.](https://dev.to/chiranjit2020/get-an-in-depth-understanding-of-how-reacts-virtual-dom-works-1014)
 - [Dev.to/JS] [I created a mesh circle in JS with TS and NodeJS](https://dev.to/lightningchart/i-created-a-mesh-circle-in-js-with-ts-and-nodejs-1i6d)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
-- [Dev.to/JS] [10 ways to earn as softwere developer](https://dev.to/shacodes/10-ways-to-earn-as-softwere-developer-18b)
+- [Dev.to/JS] [10 ways to earn as software developer](https://dev.to/shacodes/10-ways-to-earn-as-softwere-developer-18b)
 - [Dev.to/JS] [Const vs Var vs Let: When and where to use them?](https://dev.to/iayeshasahar/const-vs-var-vs-let-when-and-where-to-use-them-38fl)
 - [Dev.to/JS] [You should know about the filter&lpar;Boolean&rpar; trick 💡](https://dev.to/majdsufian/you-should-know-aobut-the-filterboolean-trick-4g0)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;31-12-2022&rpar; - Happy New Year Edition](https://dev.to/mjgs/this-weeks-newsletter-is-out-31-12-2022-happy-new-year-edition-aj9)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Attention JS developers!](https://dev.to/restdbjones/attention-js-developers-351b)
 - [Dev.to/JS] [How to save to Local storage](https://dev.to/ukaypromise/how-to-save-to-local-storage-4438)
 - [Dev.to/JS] [Happy New Year 2023](https://dev.to/prayas/happy-new-year-2023-1p4o)
-- [Dev.to/JS] [Top 10 FREE websites to get jobs - Turn your career around in 2023](https://dev.to/timokonkwo/top-10-free-websites-to-get-jobs-turn-your-career-around-in-2023-2fi3)
-- [Dev.to/JS] [Recap my 2022 Year](https://dev.to/asmaibrahimbutt/recap-my-2022-year-121d)
-- [Dev.to/JS] [Custom image handler pada React-Quill](https://dev.to/ridhopamungkas/custom-image-handler-pada-react-quill-39g3)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
