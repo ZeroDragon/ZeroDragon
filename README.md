@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do TensorFlow.js models load in the browser?](https://dev.to/360macky/how-do-tensorflowjs-models-load-in-the-browser-3fbj)
+- [Dev.to/JS] [&quot;Unlock the power of Shadow DOM - a must-know for every web developer!&quot;](https://dev.to/chiranjit2020/unlock-the-power-of-shadow-dom-a-must-know-for-every-web-developer-184g)
+- [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
 - [Dev.to/JS] [Stop using if...else ✋🚫](https://dev.to/dshaw0004/stop-using-ifelse-1jmn)
 - [Dev.to/JS] [Mutative - 10x faster than Immer](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060)
 - [Dev.to/JS] [Get an in-depth understanding of how React&#39;s virtual DOM works.](https://dev.to/chiranjit2020/get-an-in-depth-understanding-of-how-reacts-virtual-dom-works-1014)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;31-12-2022&rpar; - Happy New Year Edition](https://dev.to/mjgs/this-weeks-newsletter-is-out-31-12-2022-happy-new-year-edition-aj9)
 - [Dev.to/JS] [Optimizing Performance with the SplitChunksPlugin in Webpack](https://dev.to/himanshugupta714/optimizing-performance-with-the-splitchunksplugin-in-webpack-3e72)
 - [Dev.to/JS] [Attention JS developers!](https://dev.to/restdbjones/attention-js-developers-351b)
-- [Dev.to/JS] [How to save to Local storage](https://dev.to/ukaypromise/how-to-save-to-local-storage-4438)
-- [Dev.to/JS] [Happy New Year 2023](https://dev.to/prayas/happy-new-year-2023-1p4o)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)
 - [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
 - [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
-- [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)
-- [Lifehacker] [You Should Try ‘Intuitive Dating’](https://lifehacker.com/you-should-try-intuitive-dating-1849754708)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of the Cheesiest Ideas We Had in 2022](https://lifehacker.com/15-of-the-cheesiest-ideas-we-had-in-2022-1849912592)<!-- TECH-POSTS:END -->
 
 ---
 
