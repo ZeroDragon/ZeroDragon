@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Accesslink.fr](https://dev.to/ahmedinachima/accesslinkfr-c54)
+- [Dev.to/JS] [First day in the community](https://dev.to/oluwagb/first-day-in-the-community-9jc)
 - [Dev.to/JS] [Bright Data](https://dev.to/ahmedinachima/bright-data-3ob0)
 - [Dev.to/JS] [Everyone NEEDS to use this API!!](https://dev.to/scupdev/the-api-is-done-3ni3)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created a mesh circle in JS with TS and NodeJS](https://dev.to/lightningchart/i-created-a-mesh-circle-in-js-with-ts-and-nodejs-1i6d)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
 - [Dev.to/JS] [10 ways to earn as software developer](https://dev.to/shacodes/10-ways-to-earn-as-softwere-developer-18b)
-- [Dev.to/JS] [Const vs Var vs Let: When and where to use them?](https://dev.to/iayeshasahar/const-vs-var-vs-let-when-and-where-to-use-them-38fl)
-- [Dev.to/JS] [You should know about the filter&lpar;Boolean&rpar; trick 💡](https://dev.to/majdsufian/you-should-know-aobut-the-filterboolean-trick-4g0)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
