@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prodentim - Teeth Reviews, Pros, Cons, Uses &amp; Results?](https://dev.to/prodent00121916/prodentim-teeth-reviews-pros-cons-uses-results-3mpa)
+- [Dev.to/JS] [Create Toast Component with React Hooks](https://dev.to/nabillatrisnani/create-toast-component-with-react-hooks-28aa)
+- [Dev.to/JS] [Integrate React Error Boundary with Slack](https://dev.to/nilanth/integrate-react-error-boundary-with-slack-4g44)
 - [Dev.to/JS] [2fa-otp-qr-generator](https://dev.to/b1bxonty/2fa-otp-qr-generator-1dpo)
 - [Dev.to/JS] [Some useful websites for your Frontend design](https://dev.to/kherkatary/some-useful-websites-for-your-frontend-design-26p1)
 - [Dev.to/JS] [My New Portfolio](https://dev.to/liftoffstudios/my-new-portfolio-353e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to optimize your JavaScript by reducing the number of function calls](https://dev.to/durosly/how-to-optimize-your-javascript-by-reducing-the-number-of-function-calls-2o9i)
 - [Dev.to/JS] [Using efficient data structures and algorithms to optimize your JavaScript](https://dev.to/durosly/using-efficient-data-structures-and-algorithms-to-optimize-your-javascript-14ok)
 - [Dev.to/JS] [Introduction to ReactJS &lpar;Beginners guide&rpar;](https://dev.to/haltim/introduction-to-reactjs-beginners-guide-25jb)
-- [Dev.to/JS] [Everything You Need to Know About HTTP Response Status Codes](https://dev.to/devland/everything-you-need-to-know-about-http-response-status-codes-2mfb)
-- [Dev.to/JS] [Firebase Chat App Tutorial | Jan 2023](https://dev.to/alakkadshaw/firebase-chat-app-tutorial-jan-2023-5e2e)
-- [Dev.to/JS] [5 easy ways to reduce DOM manipulations](https://dev.to/durosly/5-easy-ways-to-reduce-dom-manipulations-4l29)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
