@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to fix Duplicate identifier IteratorResult](https://dev.to/pierre/how-to-fix-duplicate-identifier-iteratorresult-5b73)
 - [Dev.to/JS] [A complete guide to JavaScript&#39;s .reduce&lpar;&rpar; function &lpar;with real-world examples&rpar;](https://dev.to/gustavupp/a-complete-guide-to-javascripts-reduce-function-with-real-world-examples-5h6k)
 - [Dev.to/JS] [What is the layouts folder role in VueJS ?](https://dev.to/sem1colons/what-is-the-layouts-folder-role-in-vuejs--5afk)
 - [Dev.to/JS] [How to optimize your JavaScript by reducing the number of function calls](https://dev.to/durosly/how-to-optimize-your-javascript-by-reducing-the-number-of-function-calls-2o9i)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#7: Reverse Integer](https://dev.to/jd2r/7-reverse-integer-dji)
 - [Dev.to/JS] [How to create a Nuxt 3 app](https://dev.to/guillaumeduhan/how-to-create-a-nuxt-3-app-4ng8)
 - [Dev.to/JS] [Drupal: Active Links in Views](https://dev.to/ryanr/drupal-active-links-in-views-2ill)
-- [Dev.to/JS] [Asymmetric encryption](https://dev.to/niza/asymmetric-encryption-55np)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
