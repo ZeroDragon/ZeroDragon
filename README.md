@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A complete guide to JavaScript&#39;s .reduce&lpar;&rpar; function &lpar;with real-world examples&rpar;](https://dev.to/gustavupp/a-complete-guide-to-javascripts-reduce-function-with-real-world-examples-5h6k)
+- [Dev.to/JS] [What is the layouts folder role in VueJS ?](https://dev.to/sem1colons/what-is-the-layouts-folder-role-in-vuejs--5afk)
+- [Dev.to/JS] [How to optimize your JavaScript by reducing the number of function calls](https://dev.to/durosly/how-to-optimize-your-javascript-by-reducing-the-number-of-function-calls-2o9i)
+- [Dev.to/JS] [Using efficient data structures and algorithms to optimize your JavaScript](https://dev.to/durosly/using-efficient-data-structures-and-algorithms-to-optimize-your-javascript-14ok)
 - [Dev.to/JS] [Introduction to ReactJS &lpar;Beginners guide&rpar;](https://dev.to/haltim/introduction-to-reactjs-beginners-guide-25jb)
 - [Dev.to/JS] [Everything You Need to Know About HTTP Response Status Codes](https://dev.to/devland/everything-you-need-to-know-about-http-response-status-codes-2mfb)
 - [Dev.to/JS] [Firebase Chat App Tutorial | Jan 2023](https://dev.to/alakkadshaw/firebase-chat-app-tutorial-jan-2023-5e2e)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a Nuxt 3 app](https://dev.to/guillaumeduhan/how-to-create-a-nuxt-3-app-4ng8)
 - [Dev.to/JS] [Drupal: Active Links in Views](https://dev.to/ryanr/drupal-active-links-in-views-2ill)
 - [Dev.to/JS] [Asymmetric encryption](https://dev.to/niza/asymmetric-encryption-55np)
-- [Dev.to/JS] [Escopo Lexical em JavaScript – O que exatamente é escopo em JS?](https://dev.to/trinitypath/escopo-lexical-em-javascript-o-que-exatamente-e-escopo-em-js-c0k)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
-- [Dev.to/JS] [Great tutorial by @nsebhastian on .map&lpar;&rpar;](https://dev.to/realisedprophets/great-tutorial-by-nsebhastian-on-map-39ia)
-- [Dev.to/JS] [What Is the Data Layer and Why Do You Need It?](https://dev.to/analyticsinstitute/what-is-the-data-layer-and-why-do-you-need-it-2hp4)
-- [Dev.to/JS] [Unstable Diffusion](https://dev.to/rmion/unstable-diffusion-b8j)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
 - [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
