@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;31-12-2022&rpar; - Happy New Year Edition](https://dev.to/mjgs/this-weeks-newsletter-is-out-31-12-2022-happy-new-year-edition-aj9)
+- [Dev.to/JS] [Optimizing Performance with the SplitChunksPlugin in Webpack](https://dev.to/himanshugupta714/optimizing-performance-with-the-splitchunksplugin-in-webpack-3e72)
+- [Dev.to/JS] [Attention JS developers!](https://dev.to/restdbjones/attention-js-developers-351b)
 - [Dev.to/JS] [How to save to Local storage](https://dev.to/ukaypromise/how-to-save-to-local-storage-4438)
 - [Dev.to/JS] [Happy New Year 2023](https://dev.to/prayas/happy-new-year-2023-1p4o)
 - [Dev.to/JS] [Top 10 FREE websites to get jobs - Turn your career around in 2023](https://dev.to/timokonkwo/top-10-free-websites-to-get-jobs-turn-your-career-around-in-2023-2fi3)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Bitwise Operators](https://dev.to/theophilus784/javascript-bitwise-operators-22f9)
 - [Dev.to/JS] [A function by any other name would work as well &lpar;part one&rpar;](https://dev.to/tracygjg/a-function-by-any-other-name-would-work-as-well-part-one-1n6c)
 - [Dev.to/JS] [Number of Enclaves](https://dev.to/zeeshanali0704/number-of-enclaves-3jk6)
-- [Dev.to/JS] [Prodentim - Teeth Reviews, Pros, Cons, Uses &amp; Results?](https://dev.to/prodent00121916/prodentim-teeth-reviews-pros-cons-uses-results-3mpa)
-- [Dev.to/JS] [Create Toast Component with React Hooks](https://dev.to/nabillatrisnani/create-toast-component-with-react-hooks-28aa)
-- [Dev.to/JS] [Integrate React Error Boundary with Slack](https://dev.to/nilanth/integrate-react-error-boundary-with-slack-4g44)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
