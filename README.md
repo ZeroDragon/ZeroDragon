@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a basic react application. &lpar;Simplified guide&rpar;](https://dev.to/haltim/how-to-create-a-basic-react-application-simplified-guide-1h96)
+- [Dev.to/JS] [HTML Template Tag Explained](https://dev.to/arafat4693/html-template-tag-explained-3859)
+- [Dev.to/JS] [Immutability: what a monster...](https://dev.to/effect-ts/immutability-what-a-monster-3aj4)
+- [Dev.to/JS] [JavaScript Import Map](https://dev.to/aminnairi/javascript-import-map-5h12)
+- [Dev.to/JS] [React Fundamentals: The essential skills for its developers.](https://dev.to/haltim/react-fundamentals-the-essential-skills-for-its-developers-17k6)
+- [Dev.to/JS] [React query - The juicy parts](https://dev.to/dawkaka/react-query-the-juicy-parts-172i)
+- [Dev.to/JS] [Blizzard Basin](https://dev.to/rmion/blizzard-basin-1k4j)
+- [Dev.to/JS] [New Year Countdown](https://dev.to/jagadeeshkj/new-year-countdown-531k)
+- [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
 - [Dev.to/JS] [Why transform:translate&lpar;-50%, -50%&rpar; to center element?](https://dev.to/urstrulyvishwak/why-transformtranslate-50-50-to-center-element-15m1)
 - [Dev.to/JS] [SolidJS Crash Course - Building a REST API Client - Part 1](https://dev.to/codewithahsan/solidjs-crash-course-building-a-rest-api-client-part-1-57ee)
 - [Dev.to/JS] [Hello World!](https://dev.to/hiumesh/hello-world-49fe)
 - [Dev.to/JS] [Logto New Year Release: Web hook, advanced search API, OAuth and OIDC connectors](https://dev.to/gaosun/logto-new-year-release-web-hook-advanced-search-api-oauth-and-oidc-connectors-3mek)
-- [Dev.to/JS] [Why To-Do List should be your first web-app](https://dev.to/divyanshchahar/why-to-do-list-should-be-your-first-web-app-5425)
-- [Dev.to/JS] [React Query Implementation And Why Should You Use It](https://dev.to/elbarryamine/react-query-implementation-and-why-should-you-use-it-4j73)
-- [Dev.to/JS] [useReducer&lpar;&rpar; Hook - Web dev Simplified](https://dev.to/akshdesai1/usereducer-hook-web-dev-simplified-4egn)
-- [Dev.to/JS] [How to fetch data using Axios in React](https://dev.to/zubeco/how-to-fetch-data-using-axios-in-react-3obm)
-- [Dev.to/JS] [Build a Bot with ZettaBlock GraphQL API](https://dev.to/kamalthedev/build-a-bot-with-zettablock-graphql-api-4h8f)
-- [Dev.to/JS] [5 Reasons Why Every Web Developer Should Build a Progressive Web App](https://dev.to/andrewatef/5-reasons-why-every-web-developer-should-build-a-progressive-web-app-1cd6)
-- [Dev.to/JS] [Search &amp; Save to list Button only with HTML CSS with awesome gradients](https://dev.to/amiruweerathunga/search-save-to-list-button-only-with-html-css-with-awesome-gradients-47ha)
-- [Dev.to/JS] [Utilizing Chat GPT as a Web Developer](https://dev.to/shrihari/utilizing-chat-gpt-as-a-web-developer-1ek5)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of Lifehacker&#39;s Best Weight Lifting Tips of 2022](https://lifehacker.com/15-of-lifehackers-best-weight-lifting-tips-of-2022-1849925049)
 - [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)
 - [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)
-- [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)
-- [Lifehacker] [This Is How ‘Hard’ Your Typical Workout Should Be](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)<!-- TECH-POSTS:END -->
 
 ---
 
