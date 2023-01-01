@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How much website development does it cost?](https://dev.to/momciloo/how-much-website-development-does-it-cost-184c)
+- [Dev.to/JS] [Understanding Fetch API in Javascript with an exercise](https://dev.to/themahekunnisa/understanding-fetch-api-in-javascript-with-an-exercise-53dh)
 - [Dev.to/JS] [The Rails/Laravel experience in JS/TS](https://dev.to/redbar0n/the-railslaravel-experience-in-jsts-4n1c)
+- [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Dev.to/JS] [JavaScript - Primitive and Non-Primitive Datatypes](https://dev.to/bakardev/javascript-primitive-and-non-primitive-datatypes-3co0)
 - [Dev.to/JS] [Syair Sdy](https://dev.to/resulttaiwan/syair-sdy-3b9m)
 - [Dev.to/JS] [The benefits of knowing two high demand programming languages](https://dev.to/andrewbaisden/the-benefits-of-knowing-two-high-demand-programming-languages-4ak0)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Immutability: what a monster...](https://dev.to/effect-ts/immutability-what-a-monster-3aj4)
 - [Dev.to/JS] [JavaScript Import Map](https://dev.to/aminnairi/javascript-import-map-5h12)
 - [Dev.to/JS] [React Fundamentals: The essential skills for its developers.](https://dev.to/haltim/react-fundamentals-the-essential-skills-for-its-developers-17k6)
-- [Dev.to/JS] [React query - The juicy parts](https://dev.to/dawkaka/react-query-the-juicy-parts-172i)
-- [Dev.to/JS] [Blizzard Basin](https://dev.to/rmion/blizzard-basin-1k4j)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How to Actually Get Closure From an Ex](https://lifehacker.com/heres-how-to-actually-get-closure-from-an-ex-1849811120)
 - [Lifehacker] [15 of Lifehacker&#39;s Best Weight Lifting Tips of 2022](https://lifehacker.com/15-of-lifehackers-best-weight-lifting-tips-of-2022-1849925049)
 - [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)
-- [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)
-- [Lifehacker] [How to Chop Like a Chef](https://lifehacker.com/how-to-chop-like-a-chef-1849763199)<!-- TECH-POSTS:END -->
+- [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)<!-- TECH-POSTS:END -->
 
 ---
 
