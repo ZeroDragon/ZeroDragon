@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Query Implementation And Why Should You Use It](https://dev.to/elbarryamine/react-query-implementation-and-why-should-you-use-it-4j73)
+- [Dev.to/JS] [useReducer&lpar;&rpar; Hook - Web dev Simplified](https://dev.to/akshdesai1/usereducer-hook-web-dev-simplified-4egn)
+- [Dev.to/JS] [How to fetch data using Axios in React](https://dev.to/zubeco/how-to-fetch-data-using-axios-in-react-3obm)
+- [Dev.to/JS] [Build a Bot with ZettaBlock GraphQL API](https://dev.to/kamalthedev/build-a-bot-with-zettablock-graphql-api-4h8f)
 - [Dev.to/JS] [5 Reasons Why Every Web Developer Should Build a Progressive Web App](https://dev.to/andrewatef/5-reasons-why-every-web-developer-should-build-a-progressive-web-app-1cd6)
 - [Dev.to/JS] [Search &amp; Save to list Button only with HTML CSS with awesome gradients](https://dev.to/amiruweerathunga/search-save-to-list-button-only-with-html-css-with-awesome-gradients-47ha)
 - [Dev.to/JS] [Utilizing Chat GPT as a Web Developer](https://dev.to/shrihari/utilizing-chat-gpt-as-a-web-developer-1ek5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pure vs Impure Functions in JavaScript](https://dev.to/indirakumar/pure-vs-impure-functions-in-javascript-1m85)
 - [Dev.to/JS] [CSS Variables end to end](https://dev.to/urstrulyvishwak/css-variables-end-to-end-4dej)
 - [Dev.to/JS] [Understanding Generics in Typescript](https://dev.to/shashwatnautiyal/understanding-generics-in-typescript-1p7l)
-- [Dev.to/JS] [5 Best AI Writing Software You May Not Be Aware Of 🔥 😱](https://dev.to/thenomadevel/5-best-ai-writing-software-you-may-not-be-aware-of-i5p)
-- [Dev.to/JS] [How To Create Login &amp; Registration Form Using HTML CSS &amp; JavaScript Step By Step For Beginners](https://dev.to/hojjatbandani/how-to-create-login-registration-form-using-html-css-javascript-step-by-step-for-beginners-i3k)
-- [Dev.to/JS] [Security Vulnerabilities and Prevention in HTML5](https://dev.to/mainak0907/security-vulnerabilities-and-prevention-in-html5-p0m)
-- [Dev.to/JS] [How to Optimize Your Website for Mobile Devices](https://dev.to/ariellun/how-to-optimize-your-website-for-mobile-devices-1a2e)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
