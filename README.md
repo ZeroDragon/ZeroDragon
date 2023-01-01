@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Similarity and difference between JavaScript Array.forEach&lpar;&rpar; and Array.map&lpar;&rpar;](https://dev.to/chandrasekar_vi/similarity-and-difference-between-javascript-arrayforeach-and-arraymap-559k)
 - [Dev.to/JS] [JavaScript Infinite Hex Generator](https://dev.to/shafiemoji/javascript-infinite-hex-generator-33fj)
 - [Dev.to/JS] [2fa-otp-qr-generator](https://dev.to/b1bxonty/2fa-otp-qr-generator-m7l)
 - [Dev.to/JS] [Become an Animation Master with Anime.js - Part 1: Setting up the Environment and Basic Animations](https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everyone NEEDS to use this API!!](https://dev.to/scupdev/the-api-is-done-3ni3)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Dev.to/JS] [table: animate swapping columns](https://dev.to/gohomewho/table-animate-swapping-columns-2d62)
-- [Dev.to/JS] [How do TensorFlow.js models load in the browser?](https://dev.to/360macky/how-do-tensorflowjs-models-load-in-the-browser-3fbj)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
