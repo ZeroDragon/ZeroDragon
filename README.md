@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2fa-otp-qr-generator](https://dev.to/b1bxonty/2fa-otp-qr-generator-m7l)
 - [Dev.to/JS] [Become an Animation Master with Anime.js - Part 1: Setting up the Environment and Basic Animations](https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad)
 - [Dev.to/JS] [How to deploy a NestJS Application that is in Nx Monorepo to Vercel](https://dev.to/mrsrv7/how-to-deploy-a-nestjs-application-that-is-in-nx-monorepo-to-vercel-1n1f)
 - [Dev.to/JS] [Data Modelling with clean-schema Part I](https://dev.to/kamtoeddy/data-modelling-with-clean-schema-part-i-2o1m)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do TensorFlow.js models load in the browser?](https://dev.to/360macky/how-do-tensorflowjs-models-load-in-the-browser-3fbj)
 - [Dev.to/JS] [&quot;Unlock the power of Shadow DOM - a must-know for every web developer!&quot;](https://dev.to/chiranjit2020/unlock-the-power-of-shadow-dom-a-must-know-for-every-web-developer-184g)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
-- [Dev.to/JS] [Stop using if...else ✋🚫](https://dev.to/dshaw0004/stop-using-ifelse-1jmn)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
