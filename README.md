@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Eventos em Node.js: a magia por trás da comunicação entre módulos](https://dev.to/leeodev/eventos-em-nodejs-a-magia-por-tras-da-comunicacao-entre-modulos-6mk)
 - [Dev.to/JS] [Accesslink.fr](https://dev.to/ahmedinachima/accesslinkfr-c54)
 - [Dev.to/JS] [First day in the community](https://dev.to/oluwagb/first-day-in-the-community-9jc)
 - [Dev.to/JS] [Bright Data](https://dev.to/ahmedinachima/bright-data-3ob0)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get an in-depth understanding of how React&#39;s virtual DOM works.](https://dev.to/chiranjit2020/get-an-in-depth-understanding-of-how-reacts-virtual-dom-works-1014)
 - [Dev.to/JS] [I created a mesh circle in JS with TS and NodeJS](https://dev.to/lightningchart/i-created-a-mesh-circle-in-js-with-ts-and-nodejs-1i6d)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
-- [Dev.to/JS] [10 ways to earn as software developer](https://dev.to/shacodes/10-ways-to-earn-as-softwere-developer-18b)
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
