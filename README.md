@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multi-Factor&lpar;MFA&rpar; Authentication in React JS using firebase](https://dev.to/hasnain01hub/multi-factormfa-authentication-in-react-js-using-firebase-ljo)
+- [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Dev.to/JS] [Mastering JSX: The key to unlocking the power of react](https://dev.to/haltim/mastering-jsx-the-key-to-unlocking-the-power-of-react-4839)
 - [Dev.to/JS] [Import vs Require in JavaScript. CommonJS vs ES modules.](https://dev.to/pthapa1/import-vs-require-in-javascript-commonjs-vs-es-modules-25jl)
 - [Dev.to/JS] [💅🏻If you&#39;re beautiful, follow this JS Code Style](https://dev.to/pulkitsingh/if-youre-beautiful-follow-this-js-code-style-3m99)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Syair Sdy](https://dev.to/resulttaiwan/syair-sdy-3b9m)
 - [Dev.to/JS] [The benefits of knowing two high demand programming languages](https://dev.to/andrewbaisden/the-benefits-of-knowing-two-high-demand-programming-languages-4ak0)
 - [Dev.to/JS] [React Router Actions Form Submission and Validation](https://dev.to/franciscomendes10866/react-router-actions-form-submission-and-validation-3k8l)
-- [Dev.to/JS] [How to create a basic react application. &lpar;Simplified guide&rpar;](https://dev.to/haltim/how-to-create-a-basic-react-application-simplified-guide-1h96)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [22 of Our Best Parenting Hacks of 2022](https://lifehacker.com/22-of-our-best-parenting-hacks-of-2022-1849892795)
 - [Lifehacker] [Here&#39;s How to Actually Get Closure From an Ex](https://lifehacker.com/heres-how-to-actually-get-closure-from-an-ex-1849811120)
 - [Lifehacker] [15 of Lifehacker&#39;s Best Weight Lifting Tips of 2022](https://lifehacker.com/15-of-lifehackers-best-weight-lifting-tips-of-2022-1849925049)
-- [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)
-- [Lifehacker] [14 of Lifehacker’s Best Bakes of 2022](https://lifehacker.com/14-of-lifehacker-s-best-bakes-of-2022-1849922859)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)<!-- TECH-POSTS:END -->
 
 ---
 
