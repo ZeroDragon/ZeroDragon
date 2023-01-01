@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JSX: The key to unlocking the power of react](https://dev.to/haltim/mastering-jsx-the-key-to-unlocking-the-power-of-react-4839)
+- [Dev.to/JS] [Import vs Require in JavaScript. CommonJS vs ES modules.](https://dev.to/pthapa1/import-vs-require-in-javascript-commonjs-vs-es-modules-25jl)
+- [Dev.to/JS] [💅🏻If you&#39;re beautiful, follow this JS Code Style](https://dev.to/pulkitsingh/if-youre-beautiful-follow-this-js-code-style-3m99)
+- [Dev.to/JS] [Adding Framer motion to your react websites!](https://dev.to/darkxenium/adding-framer-motion-to-your-react-websites-9ln)
 - [Dev.to/JS] [How much website development does it cost?](https://dev.to/momciloo/how-much-website-development-does-it-cost-184c)
 - [Dev.to/JS] [Understanding Fetch API in Javascript with an exercise](https://dev.to/themahekunnisa/understanding-fetch-api-in-javascript-with-an-exercise-53dh)
 - [Dev.to/JS] [The Rails/Laravel experience in JS/TS](https://dev.to/redbar0n/the-railslaravel-experience-in-jsts-4n1c)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The benefits of knowing two high demand programming languages](https://dev.to/andrewbaisden/the-benefits-of-knowing-two-high-demand-programming-languages-4ak0)
 - [Dev.to/JS] [React Router Actions Form Submission and Validation](https://dev.to/franciscomendes10866/react-router-actions-form-submission-and-validation-3k8l)
 - [Dev.to/JS] [How to create a basic react application. &lpar;Simplified guide&rpar;](https://dev.to/haltim/how-to-create-a-basic-react-application-simplified-guide-1h96)
-- [Dev.to/JS] [HTML Template Tag Explained](https://dev.to/arafat4693/html-template-tag-explained-3859)
-- [Dev.to/JS] [Immutability: what a monster...](https://dev.to/effect-ts/immutability-what-a-monster-3aj4)
-- [Dev.to/JS] [JavaScript Import Map](https://dev.to/aminnairi/javascript-import-map-5h12)
-- [Dev.to/JS] [React Fundamentals: The essential skills for its developers.](https://dev.to/haltim/react-fundamentals-the-essential-skills-for-its-developers-17k6)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
