@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Rails/Laravel experience in JS/TS](https://dev.to/redbar0n/the-railslaravel-experience-in-jsts-4n1c)
+- [Dev.to/JS] [JavaScript - Primitive and Non-Primitive Datatypes](https://dev.to/bakardev/javascript-primitive-and-non-primitive-datatypes-3co0)
+- [Dev.to/JS] [Syair Sdy](https://dev.to/resulttaiwan/syair-sdy-3b9m)
+- [Dev.to/JS] [The benefits of knowing two high demand programming languages](https://dev.to/andrewbaisden/the-benefits-of-knowing-two-high-demand-programming-languages-4ak0)
+- [Dev.to/JS] [React Router Actions Form Submission and Validation](https://dev.to/franciscomendes10866/react-router-actions-form-submission-and-validation-3k8l)
 - [Dev.to/JS] [How to create a basic react application. &lpar;Simplified guide&rpar;](https://dev.to/haltim/how-to-create-a-basic-react-application-simplified-guide-1h96)
 - [Dev.to/JS] [HTML Template Tag Explained](https://dev.to/arafat4693/html-template-tag-explained-3859)
 - [Dev.to/JS] [Immutability: what a monster...](https://dev.to/effect-ts/immutability-what-a-monster-3aj4)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Fundamentals: The essential skills for its developers.](https://dev.to/haltim/react-fundamentals-the-essential-skills-for-its-developers-17k6)
 - [Dev.to/JS] [React query - The juicy parts](https://dev.to/dawkaka/react-query-the-juicy-parts-172i)
 - [Dev.to/JS] [Blizzard Basin](https://dev.to/rmion/blizzard-basin-1k4j)
-- [Dev.to/JS] [New Year Countdown](https://dev.to/jagadeeshkj/new-year-countdown-531k)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
-- [Dev.to/JS] [Why transform:translate&lpar;-50%, -50%&rpar; to center element?](https://dev.to/urstrulyvishwak/why-transformtranslate-50-50-to-center-element-15m1)
-- [Dev.to/JS] [SolidJS Crash Course - Building a REST API Client - Part 1](https://dev.to/codewithahsan/solidjs-crash-course-building-a-rest-api-client-part-1-57ee)
-- [Dev.to/JS] [Hello World!](https://dev.to/hiumesh/hello-world-49fe)
-- [Dev.to/JS] [Logto New Year Release: Web hook, advanced search API, OAuth and OIDC connectors](https://dev.to/gaosun/logto-new-year-release-web-hook-advanced-search-api-oauth-and-oidc-connectors-3mek)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
