@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Best AI Writing Software You May Not Be Aware Of 🔥 😱](https://dev.to/thenomadevel/5-best-ai-writing-software-you-may-not-be-aware-of-i5p)
+- [Dev.to/JS] [How To Create Login &amp; Registration Form Using HTML CSS &amp; JavaScript Step By Step For Beginners](https://dev.to/hojjatbandani/how-to-create-login-registration-form-using-html-css-javascript-step-by-step-for-beginners-i3k)
 - [Dev.to/JS] [Security Vulnerabilities and Prevention in HTML5](https://dev.to/mainak0907/security-vulnerabilities-and-prevention-in-html5-p0m)
 - [Dev.to/JS] [How to Optimize Your Website for Mobile Devices](https://dev.to/ariellun/how-to-optimize-your-website-for-mobile-devices-1a2e)
 - [Dev.to/JS] [What is the difference between ‘for’ loop and other iterations in JavaScript](https://dev.to/limjinda/what-is-the-difference-between-for-loop-and-other-iterations-in-javascript-1nkb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to deploy a NestJS Application that is in Nx Monorepo to Vercel](https://dev.to/mrsrv7/how-to-deploy-a-nestjs-application-that-is-in-nx-monorepo-to-vercel-1n1f)
 - [Dev.to/JS] [Data Modelling with clean-schema Part I](https://dev.to/kamtoeddy/data-modelling-with-clean-schema-part-i-2o1m)
 - [Dev.to/JS] [Eventos em Node.js: a magia por trás da comunicação entre módulos](https://dev.to/leeodev/eventos-em-nodejs-a-magia-por-tras-da-comunicacao-entre-modulos-6mk)
-- [Dev.to/JS] [Accesslink.fr](https://dev.to/ahmedinachima/accesslinkfr-c54)
-- [Dev.to/JS] [First day in the community](https://dev.to/oluwagb/first-day-in-the-community-9jc)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
