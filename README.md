@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Try this game](https://dev.to/vikneshg3/try-this-game-3o7j)
+- [Dev.to/JS] [Pure vs Impure Functions in JavaScript](https://dev.to/indirakumar/pure-vs-impure-functions-in-javascript-1m85)
+- [Dev.to/JS] [CSS Variables end to end](https://dev.to/urstrulyvishwak/css-variables-end-to-end-4dej)
 - [Dev.to/JS] [5 Best AI Writing Software You May Not Be Aware Of 🔥 😱](https://dev.to/thenomadevel/5-best-ai-writing-software-you-may-not-be-aware-of-i5p)
 - [Dev.to/JS] [How To Create Login &amp; Registration Form Using HTML CSS &amp; JavaScript Step By Step For Beginners](https://dev.to/hojjatbandani/how-to-create-login-registration-form-using-html-css-javascript-step-by-step-for-beginners-i3k)
 - [Dev.to/JS] [Security Vulnerabilities and Prevention in HTML5](https://dev.to/mainak0907/security-vulnerabilities-and-prevention-in-html5-p0m)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Infinite Hex Generator](https://dev.to/shafiemoji/javascript-infinite-hex-generator-33fj)
 - [Dev.to/JS] [2fa-otp-qr-generator](https://dev.to/b1bxonty/2fa-otp-qr-generator-m7l)
 - [Dev.to/JS] [Become an Animation Master with Anime.js - Setting up the Environment and Basic Animations](https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad)
-- [Dev.to/JS] [How to deploy a NestJS Application that is in Nx Monorepo to Vercel](https://dev.to/mrsrv7/how-to-deploy-a-nestjs-application-that-is-in-nx-monorepo-to-vercel-1n1f)
-- [Dev.to/JS] [Data Modelling with clean-schema Part I](https://dev.to/kamtoeddy/data-modelling-with-clean-schema-part-i-2o1m)
-- [Dev.to/JS] [Eventos em Node.js: a magia por trás da comunicação entre módulos](https://dev.to/leeodev/eventos-em-nodejs-a-magia-por-tras-da-comunicacao-entre-modulos-6mk)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
