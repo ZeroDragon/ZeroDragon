@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Assignment Operators💻🧮 Explained with Canvas API🎨](https://dev.to/shemjay/javascript-assignment-operators-explained-with-canvas-api-mon)
+- [Dev.to/JS] [1. JS challenge - book keeping](https://dev.to/zuzexx/1-js-challenge-book-keeping-3kp3)
 - [Dev.to/JS] [Pages with Nuxt 3](https://dev.to/guillaumeduhan/pages-with-nuxt-3-4epl)
 - [Dev.to/JS] [Don&#39;t Forgo the &#39;Basics&#39; When Learning Shiny New Things ✨](https://dev.to/pharaohnutz/dont-forgo-the-basics-when-learning-shiny-new-things-51f0)
 - [Dev.to/JS] [How to use caching to improve JavaScript performance](https://dev.to/durosly/how-to-use-caching-to-improve-javascript-performance-4jl0)
 - [Dev.to/JS] [Full of Hot Air](https://dev.to/rmion/full-of-hot-air-3pf9)
-- [Dev.to/JS] [Using prototype to extend function](https://dev.to/ruchernchong/using-prototype-to-extend-function-1bi5)
+- [Dev.to/JS] [Using prototype to extend function in JavaScript](https://dev.to/ruchernchong/using-prototype-to-extend-function-1bi5)
 - [Dev.to/JS] [Multi-Factor&lpar;MFA&rpar; Authentication in React JS using firebase](https://dev.to/hasnain01hub/multi-factormfa-authentication-in-react-js-using-firebase-ljo)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Dev.to/JS] [Mastering JSX: The key to unlocking the power of react](https://dev.to/haltim/mastering-jsx-the-key-to-unlocking-the-power-of-react-4839)
 - [Dev.to/JS] [Import vs Require in JavaScript. CommonJS vs ES modules.](https://dev.to/pthapa1/import-vs-require-in-javascript-commonjs-vs-es-modules-25jl)
 - [Dev.to/JS] [💅🏻If you&#39;re beautiful, follow this JS Code Style](https://dev.to/pulkitsingh/if-youre-beautiful-follow-this-js-code-style-3m99)
 - [Dev.to/JS] [Adding Framer motion to your react websites!](https://dev.to/darkxenium/adding-framer-motion-to-your-react-websites-9ln)
-- [Dev.to/JS] [How much website development does it cost?](https://dev.to/momciloo/how-much-website-development-does-it-cost-184c)
-- [Dev.to/JS] [Understanding Fetch API in Javascript with an exercise](https://dev.to/themahekunnisa/understanding-fetch-api-in-javascript-with-an-exercise-53dh)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
