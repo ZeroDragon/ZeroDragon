@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why To-Do List should be your first web-app](https://dev.to/divyanshchahar/why-to-do-list-should-be-your-first-web-app-5425)
 - [Dev.to/JS] [React Query Implementation And Why Should You Use It](https://dev.to/elbarryamine/react-query-implementation-and-why-should-you-use-it-4j73)
 - [Dev.to/JS] [useReducer&lpar;&rpar; Hook - Web dev Simplified](https://dev.to/akshdesai1/usereducer-hook-web-dev-simplified-4egn)
 - [Dev.to/JS] [How to fetch data using Axios in React](https://dev.to/zubeco/how-to-fetch-data-using-axios-in-react-3obm)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Try this game](https://dev.to/vikneshg3/try-this-game-3o7j)
 - [Dev.to/JS] [Pure vs Impure Functions in JavaScript](https://dev.to/indirakumar/pure-vs-impure-functions-in-javascript-1m85)
 - [Dev.to/JS] [CSS Variables end to end](https://dev.to/urstrulyvishwak/css-variables-end-to-end-4dej)
-- [Dev.to/JS] [Understanding Generics in Typescript](https://dev.to/shashwatnautiyal/understanding-generics-in-typescript-1p7l)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
