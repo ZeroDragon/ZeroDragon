@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SSR in javascript is hard](https://dev.to/xania/ssr-in-javascript-is-hard-1i72)
+- [Dev.to/JS] [Generate OpenGraph Images Dynamically](https://dev.to/otterlord/generate-opengraph-images-dynamically-i1j)
+- [Dev.to/JS] [Angular Internals: How Reactivity Works with Zone.js](https://dev.to/this-is-angular/angular-internals-how-reactivity-works-with-zonejs-302m)
 - [Dev.to/JS] [The Best Programming Language for Beginners: How to Choose Without Overthinking](https://dev.to/maderin/the-best-programming-language-for-beginners-how-to-choose-without-overthinking-30ef)
 - [Dev.to/JS] [find&lpar;&rpar; vs filter&lpar;&rpar; em JavaScript - Explicando diferenças com exemplos](https://dev.to/trinitypath/find-vs-filter-em-javascript-explicando-diferencas-com-exemplos-54mb)
 - [Dev.to/JS] [React.js Roadmap for Beginners](https://dev.to/mariamadeyemi/reactjs-roadmap-for-beginners-6g9)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Telegram Bot using Typescript &amp; Node.js](https://dev.to/eludadev/how-to-build-a-telegram-bot-using-typescript-nodejs-3j5e)
 - [Dev.to/JS] [Stylify CSS: Code your SvelteKit website faster with CSS-like utilities](https://dev.to/machy8/stylify-css-code-your-sveltekit-website-faster-with-css-like-utilities-l7a)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
-- [Dev.to/JS] [🛠 MiroTalk&#39;s WebRTC rooms scheduler server.](https://dev.to/miroslavpejic85/mirotalks-webrtc-rooms-scheduler-server-4b5p)
-- [Dev.to/JS] [How to add Discord like QR Code Login](https://dev.to/abdadeel/how-to-add-discord-like-qr-code-login-cn2)
-- [Dev.to/JS] [Using SimpleRPC with SvelteKit 1.0/Typescript](https://dev.to/alexmercedcoder/using-simplerpc-with-sveltekit-10typescript-22pc)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
