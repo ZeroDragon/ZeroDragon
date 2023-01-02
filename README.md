@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Event คืออะไร? และใช้งานอย่างไร?](https://dev.to/wteja/javascript-event-khuueaair-aelaaichngaanyaangair-2mbg)
+- [Dev.to/JS] [Glucofort - &lpar;Legit or Scam&rpar; Ingredients, Price, Uses &amp; Benefits?](https://dev.to/glucofortbuys/glucofort-legit-or-scam-ingredients-price-uses-benefits-1oim)
 - [Dev.to/JS] [Measuring Nuxt Performance with Web Vitals](https://dev.to/jacobandrewsky/measuring-nuxt-performance-with-web-vitals-1l1e)
 - [Dev.to/JS] [DEVOPS TRAINING IN HYDERABAD](https://dev.to/saikumarsambat1/devops-training-in-hyderabad-1ke3)
 - [Dev.to/JS] [how we can implement white board](https://dev.to/umarsohail565/how-we-implement-white-board-281j)
 - [Dev.to/JS] [Top 5 Featured DEV Tag&lpar;#javascript&rpar; Posts from the year 2022](https://dev.to/c4r4x35/top-5-featured-dev-tagjavascript-posts-from-the-year-2022-57p7)
+- [Dev.to/JS] [How JavaScript Works?](https://dev.to/amrataabdallh/how-javascript-works-174k)
 - [Dev.to/JS] [Update single row of table in template page using ajax in Django](https://dev.to/ahsan_44/httpsstackoverflowcomquestions74948000update-single-row-of-table-in-template-page-using-ajax-in-django-2485)
 - [Dev.to/JS] [My favorite tech stack for building every personal project](https://dev.to/callmehongmaybe/my-favorite-tech-stack-for-building-every-personal-project-3i75)
 - [Dev.to/JS] [How Babel transforms JSX to React.createElement&lpar;&rpar;](https://dev.to/jinn_khan/how-babel-transforms-jsx-to-reactcreateelement-442p)
 - [Dev.to/JS] [Top ReactJS Development Companies](https://dev.to/codersnews/top-reactjs-development-companies-3ell)
 - [Dev.to/JS] [How To Become a JavaScript Developer](https://dev.to/scofieldidehen/how-to-become-a-javascript-developer-i4h)
-- [Dev.to/JS] [They are handy smooth eat and delicious](https://dev.to/figurdiet1/they-are-handy-smooth-eat-and-delicious-5926)
-- [Dev.to/JS] [😅 スクロールで動かなくなります！ をどうやってchrome dev tool使用してfrontの問題を解決したのか](https://dev.to/kaziusan/sukurorudedong-kanakunarimasu-wodouyatutechrome-dev-toolshi-yong-sitefrontnowen-ti-wojie-jue-sitanoka-53a2)
-- [Dev.to/JS] [Advantages of using Dictionary or Map Object in Angular](https://dev.to/kptengco/advantages-of-using-dictionary-or-map-object-in-angular-1ben)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
