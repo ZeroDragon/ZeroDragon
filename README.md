@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2. JS challenge - get movie information](https://dev.to/zuzexx/2-js-challenge-get-movie-information-441l)
+- [Dev.to/JS] [Eureka! The Ultimate Beginner’s Guide to Understanding Functions in Programming](https://dev.to/chiranjit2020/eureka-the-ultimate-beginners-guide-ti-understanding-functions-in-programming-3n64)
+- [Dev.to/JS] [Learning To Program: 5 Brilliant Steps To Succeed](https://dev.to/calvinochieng/learning-to-program-5-brilliant-steps-to-succeed-4fci)
 - [Dev.to/JS] [JavaScript Event คืออะไร? และใช้งานอย่างไร?](https://dev.to/wteja/javascript-event-khuueaair-aelaaichngaanyaangair-2mbg)
 - [Dev.to/JS] [Glucofort - &lpar;Legit or Scam&rpar; Ingredients, Price, Uses &amp; Benefits?](https://dev.to/glucofortbuys/glucofort-legit-or-scam-ingredients-price-uses-benefits-1oim)
 - [Dev.to/JS] [Measuring Nuxt Performance with Web Vitals](https://dev.to/jacobandrewsky/measuring-nuxt-performance-with-web-vitals-1l1e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How JavaScript Works?](https://dev.to/amrataabdallh/how-javascript-works-174k)
 - [Dev.to/JS] [Update single row of table in template page using ajax in Django](https://dev.to/ahsan_44/httpsstackoverflowcomquestions74948000update-single-row-of-table-in-template-page-using-ajax-in-django-2485)
 - [Dev.to/JS] [My favorite tech stack for building every personal project](https://dev.to/callmehongmaybe/my-favorite-tech-stack-for-building-every-personal-project-3i75)
-- [Dev.to/JS] [How Babel transforms JSX to React.createElement&lpar;&rpar;](https://dev.to/jinn_khan/how-babel-transforms-jsx-to-reactcreateelement-442p)
-- [Dev.to/JS] [Top ReactJS Development Companies](https://dev.to/codersnews/top-reactjs-development-companies-3ell)
-- [Dev.to/JS] [How To Become a JavaScript Developer](https://dev.to/scofieldidehen/how-to-become-a-javascript-developer-i4h)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
