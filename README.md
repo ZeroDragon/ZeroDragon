@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everyday objects as JavaScript objects](https://dev.to/cdavid2020/everyday-objects-as-javascript-objects-21jl)
 - [Dev.to/JS] [Succeed in your job search for 2023](https://dev.to/nipunsanjula/succeed-in-your-job-search-for-2023-127e)
 - [Dev.to/JS] [Reading a CSV file in Cypress using fixture](https://dev.to/dilpreetjohal/reading-a-csv-file-in-cypress-using-fixture-35ne)
 - [Dev.to/JS] [Exploring Metaprogramming, Proxying and Reflection in JavaScript](https://dev.to/asayerio_techblog/exploring-metaprogramming-proxying-and-reflection-in-javascript-12ob)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Sitemap File for a Next.js Project](https://dev.to/ayka_code/creating-a-sitemap-file-for-a-nextjs-project-3ed6)
 - [Dev.to/JS] [JavaScript Assignment Operators💻🧮 Explained with Canvas API🎨](https://dev.to/shemjay/javascript-assignment-operators-explained-with-canvas-api-mon)
 - [Dev.to/JS] [1. JS challenge - book keeping](https://dev.to/zuzexx/1-js-challenge-book-keeping-3kp3)
-- [Dev.to/JS] [Pages with Nuxt 3](https://dev.to/guillaumeduhan/pages-with-nuxt-3-4epl)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
