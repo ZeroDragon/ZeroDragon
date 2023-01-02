@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Telegram Bot using Typescript &amp; Node.js](https://dev.to/eludadev/how-to-build-a-telegram-bot-using-typescript-nodejs-3j5e)
+- [Dev.to/JS] [Stylify CSS: Code your SvelteKit website faster with CSS-like utilities](https://dev.to/machy8/stylify-css-code-your-sveltekit-website-faster-with-css-like-utilities-l7a)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Dev.to/JS] [🛠 MiroTalk&#39;s WebRTC rooms scheduler server.](https://dev.to/miroslavpejic85/mirotalks-webrtc-rooms-scheduler-server-4b5p)
 - [Dev.to/JS] [How to add Discord like QR Code Login](https://dev.to/abdadeel/how-to-add-discord-like-qr-code-login-cn2)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [17 Compelling Reasons To Start Ditching TypeScript Now.](https://dev.to/wiseai/17-compelling-reasons-to-start-ditching-typescript-now-249b)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Dev.to/JS] [How to import a library from another library](https://dev.to/gitcloned/how-to-import-a-library-from-another-library-3phj)
-- [Dev.to/JS] [Why did JS Introduce Arrow Functions?](https://dev.to/rusydy/why-did-js-introduce-arrow-functions-22mj)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 5, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-5-dec-2022-3jji)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
