@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JSX?](https://dev.to/iamsaqib24/what-is-jsx-1684)
+- [Dev.to/JS] [Supercharge your Cypress E2E tests using Vite](https://dev.to/mammadataei/supercharge-your-cypress-e2e-tests-using-vite-5028)
+- [Dev.to/JS] [How to Use Docker Copy Command](https://dev.to/refine/how-to-use-docker-copy-command-216g)
+- [Dev.to/JS] [Mobile app framework Titanium SDK 12 available](https://dev.to/miga/mobile-app-framework-titanium-sdk-12-available-4kik)
+- [Dev.to/JS] [New year plans to become a JavaScript Developer - 2023](https://dev.to/bakardev/new-year-plans-to-become-a-javascript-developer-2023-1p0)
+- [Dev.to/JS] [How To Automate iOS App Using Appium](https://dev.to/lambdatest/how-to-automate-ios-app-using-appium-3l55)
+- [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
 - [Dev.to/JS] [JavaScript Splice Method Explained in Detail](https://dev.to/mavensingh/javascript-splice-method-explained-in-detail-3mmf)
 - [Dev.to/JS] [My Experience Using Reactjs](https://dev.to/devshuaib/my-experience-using-reactjs-4llf)
 - [Dev.to/JS] [How to Validate URLs in JavaScript](https://dev.to/davidemaye/how-to-validate-urls-in-javascript-adm)
-- [Dev.to/JS] [Get a Head Start on Your Career with React! A short intro](https://dev.to/mattwilliams/get-a-head-start-on-your-career-with-react-a-short-intro-536)
+- [Dev.to/JS] [Get a Head Start on Your Career with React! A short intro](https://dev.to/tech-dev-blog/get-a-head-start-on-your-career-with-react-a-short-intro-536)
 - [Dev.to/JS] [Building SAAS](https://dev.to/bolendra/building-saas-27n5)
 - [Dev.to/JS] [BeJS : A Look Back at 2022](https://dev.to/o_jilla/bejs-a-look-back-at-2022-142k)
-- [Dev.to/JS] [Get Remote Job as a Developer](https://dev.to/avinashvagh/get-remote-job-as-a-developer-30b4)
-- [Dev.to/JS] [O que é runtime javascript ?](https://dev.to/h1bertobarbosa/o-que-e-runtime-javascript--55bd)
-- [Dev.to/JS] [Creational Design Patterns In TypeScript](https://dev.to/kalashin1/creational-design-patterns-in-typescript-3aeh)
-- [Dev.to/JS] [Pince dilli wala | | prince pandat ncr](https://dev.to/princegola007/pince-dilli-wala-prince-pandat-ncr-3nc5)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-4i95)
-- [Dev.to/JS] [ChatGPT and Tech articles](https://dev.to/wanoo21/chatgpt-and-tech-articles-1ca3)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
@@ -55,14 +56,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New PS5](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-ps5-1849921544)
 - [Lifehacker] [Hotwire Your Broken Thermostat in a Weather Emergency](https://lifehacker.com/hotwire-your-broken-thermostat-in-a-weather-emergency-1849836412)
-- [Lifehacker] [How to Get People to Actually Listen Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)
+- [Lifehacker] [How to Get People to Actually Listen to Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)
 - [Lifehacker] [A Complete Guide to Manifesting Love Into Your Life](https://lifehacker.com/a-complete-guide-to-manifesting-love-into-your-life-1849700646)
 - [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)
 - [Lifehacker] [Allow Me to Troublechoux’t Your Cream Puff Problems](https://lifehacker.com/allow-me-to-troublechoux-t-your-cream-puff-problems-1849706299)
 - [Lifehacker] [22 of Our Best Parenting Hacks of 2022](https://lifehacker.com/22-of-our-best-parenting-hacks-of-2022-1849892795)
 - [Lifehacker] [Here&#39;s How to Actually Get Closure From an Ex](https://lifehacker.com/heres-how-to-actually-get-closure-from-an-ex-1849811120)
-- [Lifehacker] [15 of Lifehacker&#39;s Best Weight Lifting Tips of 2022](https://lifehacker.com/15-of-lifehackers-best-weight-lifting-tips-of-2022-1849925049)
-- [Lifehacker] [Seven Ways to Declutter Your Mac Before the New Year](https://lifehacker.com/seven-ways-to-declutter-your-mac-before-the-new-year-1849926459)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of Lifehacker&#39;s Best Weight Lifting Tips of 2022](https://lifehacker.com/15-of-lifehackers-best-weight-lifting-tips-of-2022-1849925049)<!-- TECH-POSTS:END -->
 
 ---
 
