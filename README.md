@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
+- [Dev.to/JS] [🛠 MiroTalk&#39;s WebRTC rooms scheduler server.](https://dev.to/miroslavpejic85/mirotalks-webrtc-rooms-scheduler-server-4b5p)
+- [Dev.to/JS] [How to add Discord like QR Code Login](https://dev.to/abdadeel/how-to-add-discord-like-qr-code-login-cn2)
+- [Dev.to/JS] [Using SimpleRPC with SvelteKit 1.0/Typescript](https://dev.to/alexmercedcoder/using-simplerpc-with-sveltekit-10typescript-22pc)
+- [Dev.to/JS] [Building Web Applications with React and Python](https://dev.to/kboskin/building-web-applications-with-react-and-python-2d8c)
+- [Dev.to/JS] [Web Development Frameworks in 2023](https://dev.to/tehczpad/web-development-frameworks-in-2023-3o1e)
 - [Dev.to/JS] [Coding Garden Log - Entry 1](https://dev.to/w3cj/coding-garden-log-entry-1-3a11)
 - [Dev.to/JS] [Chugging on... Day 2/100 Days of Code](https://dev.to/tinkersdev/chugging-on-day-2100-days-of-code-c7d)
 - [Dev.to/JS] [Node JS Basics :&rpar;](https://dev.to/khushis26/node-js-basics--4455)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to import a library from another library](https://dev.to/gitcloned/how-to-import-a-library-from-another-library-3phj)
 - [Dev.to/JS] [Why did JS Introduce Arrow Functions?](https://dev.to/rusydy/why-did-js-introduce-arrow-functions-22mj)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 5, Dec 2022&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-5-dec-2022-3jji)
-- [Dev.to/JS] [What are different](https://dev.to/alestor_123/what-are-different-177e)
-- [Dev.to/JS] [Boost your JavaScript application&#39;s performance](https://dev.to/dmtrshat/boost-your-javascript-applications-performance-aok)
-- [Dev.to/JS] [324242](https://dev.to/hungchihsueh/324242-3dpm)
-- [Dev.to/JS] [Debounce in Next.js](https://dev.to/codeofrelevancy/debounce-in-nextjs-4b4m)
-- [Dev.to/JS] [What is JSX?](https://dev.to/iamsaqib24/what-is-jsx-1684)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Complete Guide to Manifesting Love Into Your Life](https://lifehacker.com/a-complete-guide-to-manifesting-love-into-your-life-1849700646)
 - [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)
 - [Lifehacker] [Allow Me to Troublechoux’t Your Cream Puff Problems](https://lifehacker.com/allow-me-to-troublechoux-t-your-cream-puff-problems-1849706299)
-- [Lifehacker] [22 of Our Best Parenting Hacks of 2022](https://lifehacker.com/22-of-our-best-parenting-hacks-of-2022-1849892795)
-- [Lifehacker] [Here&#39;s How to Actually Get Closure From an Ex](https://lifehacker.com/heres-how-to-actually-get-closure-from-an-ex-1849811120)<!-- TECH-POSTS:END -->
+- [Lifehacker] [22 of Our Best Parenting Hacks of 2022](https://lifehacker.com/22-of-our-best-parenting-hacks-of-2022-1849892795)<!-- TECH-POSTS:END -->
 
 ---
 
