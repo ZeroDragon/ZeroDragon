@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [😅 スクロールで動かなくなります！ をどうやってchrome dev tool使用してfrontの問題を解決したのか](https://dev.to/kaziusan/sukurorudedong-kanakunarimasu-wodouyatutechrome-dev-toolshi-yong-sitefrontnowen-ti-wojie-jue-sitanoka-53a2)
+- [Dev.to/JS] [Advantages of using Dictionary or Map Object in Angular](https://dev.to/kptengco/advantages-of-using-dictionary-or-map-object-in-angular-1ben)
+- [Dev.to/JS] [2fa-otp-generator](https://dev.to/b1bxonty/2fa-otp-generator-1p1o)
+- [Dev.to/JS] [Number of Closed Islands](https://dev.to/zeeshanali0704/number-of-closed-islands-3bkg)
 - [Dev.to/JS] [Monorepo with PNPM workspace](https://dev.to/anasrin/monorepo-with-pnpm-workspace-2i3c)
 - [Dev.to/JS] [Succeed in your job search for 2023](https://dev.to/nipunsanjula/succeed-in-your-job-search-for-2023-127e)
 - [Dev.to/JS] [Reading a CSV file in Cypress using fixture](https://dev.to/dilpreetjohal/reading-a-csv-file-in-cypress-using-fixture-35ne)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A 30-Day challenge in backend web development](https://dev.to/efkumah/a-30-day-challenge-in-backend-web-development-3g1f)
 - [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 06 - useCallback⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-06-usecallback-4di)
 - [Dev.to/JS] [Remaking my first website after a year of web dev🎉](https://dev.to/lensco825/remaking-my-first-website-after-a-year-of-web-dev-3m83)
-- [Dev.to/JS] [TRPC: The Future of Fullstack Web Development](https://dev.to/thomasmorice/trpc-the-future-of-fullstack-web-development-2o22)
-- [Dev.to/JS] [Creating a Sitemap File for a Next.js Project](https://dev.to/ayka_code/creating-a-sitemap-file-for-a-nextjs-project-3ed6)
-- [Dev.to/JS] [JavaScript Assignment Operators💻🧮 Explained with Canvas API🎨](https://dev.to/shemjay/javascript-assignment-operators-explained-with-canvas-api-mon)
-- [Dev.to/JS] [1. JS challenge - book keeping](https://dev.to/zuzexx/1-js-challenge-book-keeping-3kp3)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
