@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js Roadmap for Beginners](https://dev.to/mariamadeyemi/reactjs-roadmap-for-beginners-6g9)
+- [Dev.to/JS] [How to Manipulate Complex Objects in JavaScript](https://dev.to/yusfulcoder/how-to-manipulate-complex-objects-in-javascript-43b2)
+- [Dev.to/JS] [How to get Wallet Addresses from Comment section of a Tweet](https://dev.to/ycrydev/how-to-get-wallet-addresses-from-comment-section-of-a-tweet-2ada)
 - [Dev.to/JS] [Javascript Engine and Call Stack explained](https://dev.to/mcwiise/javascript-engine-and-call-stack-explained-20l0)
 - [Dev.to/JS] [#58: Length of Last Word](https://dev.to/jd2r/58-length-of-last-word-kki)
 - [Dev.to/JS] [How to Build a Telegram Bot using Typescript &amp; Node.js](https://dev.to/eludadev/how-to-build-a-telegram-bot-using-typescript-nodejs-3j5e)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using SimpleRPC with SvelteKit 1.0/Typescript](https://dev.to/alexmercedcoder/using-simplerpc-with-sveltekit-10typescript-22pc)
 - [Dev.to/JS] [Building Web Applications with React and Python](https://dev.to/kboskin/building-web-applications-with-react-and-python-2d8c)
 - [Dev.to/JS] [Web Development Frameworks in 2023](https://dev.to/tehczpad/web-development-frameworks-in-2023-3o1e)
-- [Dev.to/JS] [Coding Garden Log - Entry 1](https://dev.to/w3cj/coding-garden-log-entry-1-3a11)
-- [Dev.to/JS] [Chugging on... Day 2/100 Days of Code](https://dev.to/tinkersdev/chugging-on-day-2100-days-of-code-c7d)
-- [Dev.to/JS] [Node JS Basics :&rpar;](https://dev.to/khushis26/node-js-basics--4455)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
