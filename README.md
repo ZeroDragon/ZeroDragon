@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Best Programming Language for Beginners: How to Choose Without Overthinking](https://dev.to/maderin/the-best-programming-language-for-beginners-how-to-choose-without-overthinking-30ef)
+- [Dev.to/JS] [find&lpar;&rpar; vs filter&lpar;&rpar; em JavaScript - Explicando diferenças com exemplos](https://dev.to/trinitypath/find-vs-filter-em-javascript-explicando-diferencas-com-exemplos-54mb)
 - [Dev.to/JS] [React.js Roadmap for Beginners](https://dev.to/mariamadeyemi/reactjs-roadmap-for-beginners-6g9)
 - [Dev.to/JS] [How to Manipulate Complex Objects in JavaScript](https://dev.to/yusfulcoder/how-to-manipulate-complex-objects-in-javascript-43b2)
 - [Dev.to/JS] [How to get Wallet Addresses from Comment section of a Tweet](https://dev.to/ycrydev/how-to-get-wallet-addresses-from-comment-section-of-a-tweet-2ada)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🛠 MiroTalk&#39;s WebRTC rooms scheduler server.](https://dev.to/miroslavpejic85/mirotalks-webrtc-rooms-scheduler-server-4b5p)
 - [Dev.to/JS] [How to add Discord like QR Code Login](https://dev.to/abdadeel/how-to-add-discord-like-qr-code-login-cn2)
 - [Dev.to/JS] [Using SimpleRPC with SvelteKit 1.0/Typescript](https://dev.to/alexmercedcoder/using-simplerpc-with-sveltekit-10typescript-22pc)
-- [Dev.to/JS] [Building Web Applications with React and Python](https://dev.to/kboskin/building-web-applications-with-react-and-python-2d8c)
-- [Dev.to/JS] [Web Development Frameworks in 2023](https://dev.to/tehczpad/web-development-frameworks-in-2023-3o1e)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
