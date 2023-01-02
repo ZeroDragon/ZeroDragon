@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding Garden Log - Entry 1](https://dev.to/w3cj/coding-garden-log-entry-1-3a11)
+- [Dev.to/JS] [Chugging on... Day 2/100 Days of Code](https://dev.to/tinkersdev/chugging-on-day-2100-days-of-code-c7d)
+- [Dev.to/JS] [Node JS Basics :&rpar;](https://dev.to/khushis26/node-js-basics--4455)
+- [Dev.to/JS] [17 Compelling Reasons To Start Ditching TypeScript Now.](https://dev.to/wiseai/17-compelling-reasons-to-start-ditching-typescript-now-249b)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Dev.to/JS] [How to import a library from another library](https://dev.to/gitcloned/how-to-import-a-library-from-another-library-3phj)
 - [Dev.to/JS] [Why did JS Introduce Arrow Functions?](https://dev.to/rusydy/why-did-js-introduce-arrow-functions-22mj)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [324242](https://dev.to/hungchihsueh/324242-3dpm)
 - [Dev.to/JS] [Debounce in Next.js](https://dev.to/codeofrelevancy/debounce-in-nextjs-4b4m)
 - [Dev.to/JS] [What is JSX?](https://dev.to/iamsaqib24/what-is-jsx-1684)
-- [Dev.to/JS] [Supercharge your Cypress E2E tests using Vite](https://dev.to/mammadataei/supercharge-your-cypress-e2e-tests-using-vite-5028)
-- [Dev.to/JS] [How to Use Docker Copy Command](https://dev.to/refine/how-to-use-docker-copy-command-216g)
-- [Dev.to/JS] [Mobile app framework Titanium SDK 12 available](https://dev.to/miga/mobile-app-framework-titanium-sdk-12-available-4kik)
-- [Dev.to/JS] [New year plans to become a JavaScript Developer - 2023](https://dev.to/bakardev/new-year-plans-to-become-a-javascript-developer-2023-1p0)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
