@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A 30-Day challenge in backend web development](https://dev.to/efkumah/a-30-day-challenge-in-backend-web-development-3g1f)
+- [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 06 - useCallback⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-06-usecallback-4di)
 - [Dev.to/JS] [Remaking my first website after a year of web dev🎉](https://dev.to/lensco825/remaking-my-first-website-after-a-year-of-web-dev-3m83)
 - [Dev.to/JS] [TRPC: The Future of Fullstack Web Development](https://dev.to/thomasmorice/trpc-the-future-of-fullstack-web-development-2o22)
 - [Dev.to/JS] [Creating a Sitemap File for a Next.js Project](https://dev.to/ayka_code/creating-a-sitemap-file-for-a-nextjs-project-3ed6)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use caching to improve JavaScript performance](https://dev.to/durosly/how-to-use-caching-to-improve-javascript-performance-4jl0)
 - [Dev.to/JS] [Full of Hot Air](https://dev.to/rmion/full-of-hot-air-3pf9)
 - [Dev.to/JS] [Using prototype to extend function in JavaScript](https://dev.to/ruchernchong/using-prototype-to-extend-function-1bi5)
-- [Dev.to/JS] [Multi-Factor&lpar;MFA&rpar; Authentication in React JS using firebase](https://dev.to/hasnain01hub/multi-factormfa-authentication-in-react-js-using-firebase-ljo)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
-- [Dev.to/JS] [Mastering JSX: The key to unlocking the power of react](https://dev.to/haltim/mastering-jsx-the-key-to-unlocking-the-power-of-react-4839)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
