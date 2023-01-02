@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creational Design Patterns In TypeScript](https://dev.to/kalashin1/creational-design-patterns-in-typescript-3aeh)
+- [Dev.to/JS] [Pince dilli wala | | prince pandat ncr](https://dev.to/princegola007/pince-dilli-wala-prince-pandat-ncr-3nc5)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-4i95)
+- [Dev.to/JS] [ChatGPT and Tech articles](https://dev.to/wanoo21/chatgpt-and-tech-articles-1ca3)
 - [Dev.to/JS] [Help, my Angular bundle is growing!](https://dev.to/this-is-angular/help-my-angular-bundle-is-growing-1jkj)
 - [Dev.to/JS] [AnimationRenderer: listening and playing](https://dev.to/this-is-angular/animationrenderer-listening-and-playing-4i3a)
 - [Dev.to/JS] [Function Composition Vs Inheritance](https://dev.to/indirakumar/function-composition-vs-inheritance-21n6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Role of Automation in Replacing Human Jobs: A Detailed Examination](https://dev.to/1stepgrow/the-role-of-automation-in-replacing-human-jobs-a-detailed-examination-4n07)
 - [Dev.to/JS] [2. JS challenge - get movie information](https://dev.to/zuzexx/2-js-challenge-get-movie-information-441l)
 - [Dev.to/JS] [Eureka! The Ultimate Beginner’s Guide to Understanding Functions in Programming](https://dev.to/chiranjit2020/eureka-the-ultimate-beginners-guide-ti-understanding-functions-in-programming-3n64)
-- [Dev.to/JS] [Learning To Program: 5 Brilliant Steps To Succeed](https://dev.to/calvinochieng/learning-to-program-5-brilliant-steps-to-succeed-4fci)
-- [Dev.to/JS] [JavaScript Event คืออะไร? และใช้งานอย่างไร?](https://dev.to/wteja/javascript-event-khuueaair-aelaaichngaanyaangair-2mbg)
-- [Dev.to/JS] [Glucofort - &lpar;Legit or Scam&rpar; Ingredients, Price, Uses &amp; Benefits?](https://dev.to/glucofortbuys/glucofort-legit-or-scam-ingredients-price-uses-benefits-1oim)
-- [Dev.to/JS] [Measuring Nuxt Performance with Web Vitals](https://dev.to/jacobandrewsky/measuring-nuxt-performance-with-web-vitals-1l1e)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
