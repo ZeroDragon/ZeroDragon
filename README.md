@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Engine and Call Stack explained](https://dev.to/mcwiise/javascript-engine-and-call-stack-explained-20l0)
+- [Dev.to/JS] [#58: Length of Last Word](https://dev.to/jd2r/58-length-of-last-word-kki)
 - [Dev.to/JS] [How to Build a Telegram Bot using Typescript &amp; Node.js](https://dev.to/eludadev/how-to-build-a-telegram-bot-using-typescript-nodejs-3j5e)
 - [Dev.to/JS] [Stylify CSS: Code your SvelteKit website faster with CSS-like utilities](https://dev.to/machy8/stylify-css-code-your-sveltekit-website-faster-with-css-like-utilities-l7a)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coding Garden Log - Entry 1](https://dev.to/w3cj/coding-garden-log-entry-1-3a11)
 - [Dev.to/JS] [Chugging on... Day 2/100 Days of Code](https://dev.to/tinkersdev/chugging-on-day-2100-days-of-code-c7d)
 - [Dev.to/JS] [Node JS Basics :&rpar;](https://dev.to/khushis26/node-js-basics--4455)
-- [Dev.to/JS] [17 Compelling Reasons To Start Ditching TypeScript Now.](https://dev.to/wiseai/17-compelling-reasons-to-start-ditching-typescript-now-249b)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
-- [Dev.to/JS] [How to import a library from another library](https://dev.to/gitcloned/how-to-import-a-library-from-another-library-3phj)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
