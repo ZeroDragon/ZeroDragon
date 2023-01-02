@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Everyday objects as JavaScript objects](https://dev.to/cdavid2020/everyday-objects-as-javascript-objects-21jl)
+- [Dev.to/JS] [Monorepo with PNPM workspace](https://dev.to/anasrin/monorepo-with-pnpm-workspace-2i3c)
 - [Dev.to/JS] [Succeed in your job search for 2023](https://dev.to/nipunsanjula/succeed-in-your-job-search-for-2023-127e)
 - [Dev.to/JS] [Reading a CSV file in Cypress using fixture](https://dev.to/dilpreetjohal/reading-a-csv-file-in-cypress-using-fixture-35ne)
 - [Dev.to/JS] [Exploring Metaprogramming, Proxying and Reflection in JavaScript](https://dev.to/asayerio_techblog/exploring-metaprogramming-proxying-and-reflection-in-javascript-12ob)
