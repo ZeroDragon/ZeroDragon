@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get Remote Job as a Developer](https://dev.to/avinashvagh/get-remote-job-as-a-developer-30b4)
+- [Dev.to/JS] [O que é runtime javascript ?](https://dev.to/h1bertobarbosa/o-que-e-runtime-javascript--55bd)
 - [Dev.to/JS] [Creational Design Patterns In TypeScript](https://dev.to/kalashin1/creational-design-patterns-in-typescript-3aeh)
 - [Dev.to/JS] [Pince dilli wala | | prince pandat ncr](https://dev.to/princegola007/pince-dilli-wala-prince-pandat-ncr-3nc5)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-4i95)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Functional Concepts: Pipe and Compose](https://dev.to/joelbonetr/js-functional-concepts-pipe-and-compose-1mho)
 - [Dev.to/JS] [ChatGPT: How it may help in typescript development?](https://dev.to/josephciullo/chatgpt-how-it-may-help-in-typescript-development-bd5)
 - [Dev.to/JS] [The Role of Automation in Replacing Human Jobs: A Detailed Examination](https://dev.to/1stepgrow/the-role-of-automation-in-replacing-human-jobs-a-detailed-examination-4n07)
-- [Dev.to/JS] [2. JS challenge - get movie information](https://dev.to/zuzexx/2-js-challenge-get-movie-information-441l)
-- [Dev.to/JS] [Eureka! The Ultimate Beginner’s Guide to Understanding Functions in Programming](https://dev.to/chiranjit2020/eureka-the-ultimate-beginners-guide-ti-understanding-functions-in-programming-3n64)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
