@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Discover the ultimate non-technical skills for software developers: Boost your career today!](https://dev.to/lakincoder/discover-the-ultimate-non-technical-skills-for-software-developers-boost-your-career-today-10hc)
+- [Dev.to/JS] [How to Write a Recursive Function in JavaScript for Beginners](https://dev.to/michaellarocca/how-to-write-a-recursive-function-in-javascript-for-beginners-39o5)
+- [Dev.to/JS] [Validate the order of parenthese in an expression](https://dev.to/katongole_isaac/validate-the-order-of-parenthese-in-an-expressions-2hj7)
+- [Dev.to/JS] [Instagram Graph API Explained: How to log in users](https://dev.to/superface/instagram-graph-api-explained-how-to-log-in-users-lp8)
 - [Dev.to/JS] [What are JavaScript Template Literals?](https://dev.to/max88git/what-are-javascript-template-literals-3go1)
 - [Dev.to/JS] [How to Save Unmatched Text in a jQuery Select2 Dropdown with an AJAX Call](https://dev.to/asifroyal/how-to-save-unmatched-text-in-a-jquery-select2-dropdown-with-an-ajax-call-34j2)
 - [Dev.to/JS] [Effortless Email Integration for front-end devs](https://dev.to/yusufgkl/effortless-email-integration-for-front-end-devs-4463)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When Should You Scale a Node.js App?](https://dev.to/devland/when-should-you-scale-a-nodejs-app-24dk)
 - [Dev.to/JS] [arguments object in arrow functions](https://dev.to/thelegendski/array-of-arguments-in-arrow-functions-ob3)
 - [Dev.to/JS] [Beesy: Record Google Meet | Browser extension](https://dev.to/rahulkurup/beesy-record-google-meet-browser-extension-2lel)
-- [Dev.to/JS] [Microsoft Azure Training in Chennai](https://dev.to/igsakak1/microsoft-azure-training-in-chennai-lhj)
-- [Dev.to/JS] [Java Training in Chennai](https://dev.to/maansi26/java-training-in-chennai-1ig3)
-- [Dev.to/JS] [Enum : A Fun Way to Improved Code Readability and Quality 🌟🌟🌟](https://dev.to/codewithonye/enum-a-fun-way-to-improved-code-readability-and-quality-1fd1)
-- [Dev.to/JS] [Front End Development : Easy or Hard](https://dev.to/jagroop2000/front-end-development-easy-or-hard-1cpo)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
