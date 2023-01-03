@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microsoft Azure Training in Chennai](https://dev.to/igsakak1/microsoft-azure-training-in-chennai-lhj)
+- [Dev.to/JS] [Java Training in Chennai](https://dev.to/maansi26/java-training-in-chennai-1ig3)
+- [Dev.to/JS] [Enum : A Fun Way to Improved Code Readability and Quality 🌟🌟🌟](https://dev.to/codewithonye/enum-a-fun-way-to-improved-code-readability-and-quality-1fd1)
 - [Dev.to/JS] [Add dynamic class in react](https://dev.to/himanshupal0001/add-dynamic-class-in-react-675)
 - [Dev.to/JS] [Hosting your app for production – an overview](https://dev.to/livechat/hosting-your-app-for-production-4ce4)
 - [Dev.to/JS] [Amarose Skin Tag Removar - Is It Naturally Reviews &amp; Benefits For Skin Care?](https://dev.to/tagremovar/amarose-skin-tag-removar-is-it-naturally-reviews-benefits-for-skin-care-53c2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use “? … : …” instead of “if… else…”](https://dev.to/amrataabdallh/use-instead-of-if-else-29ac)
 - [Dev.to/JS] [How can I decouple the socket event emitter and listener from the io connection in server?](https://dev.to/ekamid/how-i-can-decouple-the-socket-event-emitter-and-listener-from-the-io-connection-in-server-28hh)
 - [Dev.to/JS] [Single Responsibility Principle using TypeScript](https://dev.to/kalashin1/single-responsibility-principle-using-typescript-44h6)
-- [Dev.to/JS] [Callback and Microtask Queues Explained](https://dev.to/mcwiise/callback-and-microtask-queues-explained-2pen)
-- [Dev.to/JS] [My Journey in Open Source - async-task-packer](https://dev.to/cadienvan/my-journey-in-open-source-async-task-packer-4f21)
-- [Dev.to/JS] [hello this is just a test](https://dev.to/karen/hello-this-is-just-a-test-445k)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
