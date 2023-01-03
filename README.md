@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use “? … : …” instead of “if… else…”](https://dev.to/amrataabdallh/use-instead-of-if-else-29ac)
+- [Dev.to/JS] [How can I decouple the socket event emitter and listener from the io connection in server?](https://dev.to/ekamid/how-i-can-decouple-the-socket-event-emitter-and-listener-from-the-io-connection-in-server-28hh)
+- [Dev.to/JS] [Single Responsibility Principle using TypeScript](https://dev.to/kalashin1/single-responsibility-principle-using-typescript-44h6)
 - [Dev.to/JS] [Callback and Microtask Queues Explained](https://dev.to/mcwiise/callback-and-microtask-queues-explained-2pen)
 - [Dev.to/JS] [My Journey in Open Source - async-task-packer](https://dev.to/cadienvan/my-journey-in-open-source-async-task-packer-4f21)
 - [Dev.to/JS] [hello this is just a test](https://dev.to/karen/hello-this-is-just-a-test-445k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From any to unknown: A Guide to Upgrading Your TypeScript Typing](https://dev.to/lynxgsm/from-any-to-unknown-a-guide-to-upgrading-your-typescript-typing-46fo)
 - [Dev.to/JS] [In-App Chatting in React Native](https://dev.to/zainbinfurqan/in-app-chatting-in-react-native-16gm)
 - [Dev.to/JS] [Svelte&lpar;Kit&rpar; Top 10 Wishlist for 2023](https://dev.to/jdgamble555/sveltekit-top-10-wishlist-for-2023-4ie2)
-- [Dev.to/JS] [Easily create UUIDs without a package](https://dev.to/kitanga_nday/easily-create-uuids-without-a-package-1j4j)
-- [Dev.to/JS] [Pengenalan ReactJS #1](https://dev.to/mancode/pengenalan-reactjs-1-31la)
-- [Dev.to/JS] [Diário de Bordo #1](https://dev.to/analuisadev/diario-de-bordo-1-22ji)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
