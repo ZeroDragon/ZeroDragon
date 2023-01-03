@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Var vs Let vs Const keyword in JavaScript](https://dev.to/indirakumar/var-vs-let-vs-const-keyword-in-javascript-32pk)
+- [Lifehacker] [How to Bring Back the Classic Taskbar on Windows 11](https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317)
+- [Dev.to/JS] [Full Text Search is Easy with Lunr.js](https://dev.to/tonylecode/full-text-search-is-easy-with-lunrjs-3fll)
+- [Lifehacker] [Why You Should Replace Your Old iPhone’s Battery Right Now](https://lifehacker.com/why-you-should-replace-your-old-iphone-s-battery-right-1849944388)
+- [Dev.to/JS] [How To Create A Follower Recommendation System Like Instagram Using PostgreSQL](https://dev.to/ndohjapan/how-to-create-a-follower-recommendation-system-like-instagram-using-postgresql-2e53)
+- [Dev.to/JS] [JavaScript Fundamentals: Objects 1](https://dev.to/astrodevil/javascript-fundamentals-objects-1-190)
+- [Dev.to/JS] [No code is the future](https://dev.to/vogel/no-code-is-the-future-146i)
 - [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)
 - [Dev.to/JS] [One App 5 Frameworks - Chapter 1: React](https://dev.to/killswitchh/one-app-5-frameworks-chapter-1-react-4kjh)
 - [Dev.to/JS] [Building an app using 5 JavaScript Frameworks - Introduction](https://dev.to/killswitchh/building-an-app-using-5-javascript-frameworks-introduction-phc)
@@ -33,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Interactive Charts with D3.js](https://dev.to/ayka_code/creating-interactive-charts-with-d3js-152o)
 - [Dev.to/JS] [Recursion](https://dev.to/magerman714/recursion-2093)
 - [Lifehacker] [18 of the Wildest Stunts in Movie History](https://lifehacker.com/18-of-the-wildest-stunts-in-movie-history-1849931236)
-- [Dev.to/JS] [Steps using useState Hooks in react app.](https://dev.to/smrpdl1991/different-steps-in-react-app-using-usestate-hooks-d8j)
-- [Dev.to/JS] [Why JavaScript Developers Should Learn Node.js and Backend Databases](https://dev.to/andrewbaisden/why-javascript-developers-should-learn-nodejs-and-backend-databases-4c06)
-- [Dev.to/JS] [String.startsWith&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringstartswith-in-javascript-3bbf)
 - [Lifehacker] [12 Private Islands You Can Rent Without Being Rich](https://lifehacker.com/12-private-islands-you-can-rent-without-being-rich-1849705088)
-- [Dev.to/JS] [Cleaner JavaScript Code? Read this...](https://dev.to/oluwatrillions/cleaner-javascript-code-read-this-4lfb)
-- [Dev.to/JS] [Understanding Steams in Nodejs](https://dev.to/adarsh12/understanding-steams-in-nodejs-4mj5)
 - [Lifehacker] [12 Celebrities Your Kids Love but You’ve Never Heard Of](https://lifehacker.com/12-celebrities-your-kids-love-but-you-ve-never-heard-of-1849925330)
 - [Lifehacker] [10 of the Best Apps to Track Every New Year&#39;s Resolution](https://lifehacker.com/10-of-the-best-apps-to-track-every-new-years-resolution-1849922019)
 - [Lifehacker] [Actually, You Should Try a Bladeless Ceiling Fan](https://lifehacker.com/actually-you-should-try-a-bladeless-ceiling-fan-1849893069)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
-- [Lifehacker] [13 of the Cheapest Hobbies You Can Teach Yourself](https://lifehacker.com/13-of-the-cheapest-hobbies-you-can-teach-yourself-1849888411)
-- [Lifehacker] [12 of Lifehacker’s Most Delicious Beverage Hacks of 2022](https://lifehacker.com/12-of-lifehacker-s-most-delicious-beverage-hacks-of-202-1849921203)
-- [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 of the Cheapest Hobbies You Can Teach Yourself](https://lifehacker.com/13-of-the-cheapest-hobbies-you-can-teach-yourself-1849888411)<!-- TECH-POSTS:END -->
 
 ---
 
