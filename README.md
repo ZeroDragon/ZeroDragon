@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
+- [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
+- [Dev.to/JS] [Tips on how to follow a tutorial](https://dev.to/audreymengue/tips-on-how-to-follow-a-tutorial-4h2j)
+- [Dev.to/JS] [This might be slowing down your code!](https://dev.to/tsuyusk/this-might-be-slowing-down-your-code-187m)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
 - [Lifehacker] [Winterize Your Panzanella](https://lifehacker.com/winterize-your-panzanella-1849945154)
 - [Dev.to/JS] [As possibilidades e escalabilidade do React Native](https://dev.to/altencirsilvajr/as-possibilidades-e-escalabilidade-do-react-native-1ehh)
@@ -43,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Key to Warming Up Your Home’s Frigid Floors Is in the Basement](https://lifehacker.com/the-key-to-warming-up-your-home-s-frigid-floors-is-in-t-1849904576)
 - [Dev.to/JS] [Var vs Let vs Const keyword in JavaScript](https://dev.to/indirakumar/var-vs-let-vs-const-keyword-in-javascript-32pk)
 - [Lifehacker] [How to Bring Back the Classic Taskbar on Windows 11](https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317)
-- [Dev.to/JS] [Full Text Search is Easy with Lunr.js](https://dev.to/tonylecode/full-text-search-is-easy-with-lunrjs-3fll)
 - [Lifehacker] [Why You Should Replace Your Old iPhone’s Battery Right Now](https://lifehacker.com/why-you-should-replace-your-old-iphone-s-battery-right-1849944388)
-- [Dev.to/JS] [How To Create A Follower Recommendation System Like Instagram Using PostgreSQL](https://dev.to/ndohjapan/how-to-create-a-follower-recommendation-system-like-instagram-using-postgresql-2e53)
 - [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)
 - [Lifehacker] [17 Types of Bed Frames &lpar;and Which One Is Best for You&rpar;](https://lifehacker.com/17-types-of-bed-frames-and-which-one-is-best-for-you-1849773417)
 - [Lifehacker] [18 of the Wildest Stunts in Movie History](https://lifehacker.com/18-of-the-wildest-stunts-in-movie-history-1849931236)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
-- [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
-- [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
-- [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)<!-- TECH-POSTS:END -->
 
 ---
 
