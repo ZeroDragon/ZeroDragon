@@ -23,22 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)
+- [Dev.to/JS] [One App 5 Frameworks - Chapter 1: React](https://dev.to/killswitchh/one-app-5-frameworks-chapter-1-react-4kjh)
+- [Dev.to/JS] [Building an app using 5 JavaScript Frameworks - Introduction](https://dev.to/killswitchh/building-an-app-using-5-javascript-frameworks-introduction-phc)
+- [Dev.to/JS] [JavaScript Array Methods: A Comprehensive Guide](https://dev.to/93lucasp/javascript-array-methods-a-comprehensive-guide-1fbb)
+- [Dev.to/JS] [Why is Tailwind CSS better than CSS3?](https://dev.to/prajwal080501/why-is-tailwind-css-better-than-css3-hed)
+- [Dev.to/JS] [Moonly weekly progress update #30](https://dev.to/moonly/moonly-weekly-progress-update-30-11ei)
+- [Lifehacker] [17 Types of Bed Frames &lpar;and Which One Is Best for You&rpar;](https://lifehacker.com/17-types-of-bed-frames-and-which-one-is-best-for-you-1849773417)
+- [Dev.to/JS] [Creating Interactive Charts with D3.js](https://dev.to/ayka_code/creating-interactive-charts-with-d3js-152o)
+- [Dev.to/JS] [Recursion](https://dev.to/magerman714/recursion-2093)
+- [Lifehacker] [18 of the Wildest Stunts in Movie History](https://lifehacker.com/18-of-the-wildest-stunts-in-movie-history-1849931236)
 - [Dev.to/JS] [Steps using useState Hooks in react app.](https://dev.to/smrpdl1991/different-steps-in-react-app-using-usestate-hooks-d8j)
 - [Dev.to/JS] [Why JavaScript Developers Should Learn Node.js and Backend Databases](https://dev.to/andrewbaisden/why-javascript-developers-should-learn-nodejs-and-backend-databases-4c06)
 - [Dev.to/JS] [String.startsWith&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringstartswith-in-javascript-3bbf)
 - [Lifehacker] [12 Private Islands You Can Rent Without Being Rich](https://lifehacker.com/12-private-islands-you-can-rent-without-being-rich-1849705088)
 - [Dev.to/JS] [Cleaner JavaScript Code? Read this...](https://dev.to/oluwatrillions/cleaner-javascript-code-read-this-4lfb)
 - [Dev.to/JS] [Understanding Steams in Nodejs](https://dev.to/adarsh12/understanding-steams-in-nodejs-4mj5)
-- [Dev.to/JS] [Components in Nuxt 3](https://dev.to/guillaumeduhan/components-in-nuxt-3-5a88)
 - [Lifehacker] [12 Celebrities Your Kids Love but You’ve Never Heard Of](https://lifehacker.com/12-celebrities-your-kids-love-but-you-ve-never-heard-of-1849925330)
-- [Dev.to/JS] [JavaScript to Java - A Comprehensive Comparison](https://dev.to/shahirk48/javascript-to-java-a-comprehensive-comparison-4cin)
-- [Dev.to/JS] [News Scraping: Everything You Need to Know](https://dev.to/oxylabs-io/news-scraping-everything-you-need-to-know-49bg)
 - [Lifehacker] [10 of the Best Apps to Track Every New Year&#39;s Resolution](https://lifehacker.com/10-of-the-best-apps-to-track-every-new-years-resolution-1849922019)
 - [Lifehacker] [Actually, You Should Try a Bladeless Ceiling Fan](https://lifehacker.com/actually-you-should-try-a-bladeless-ceiling-fan-1849893069)
-- [Dev.to/JS] [Discover the ultimate non-technical skills for software developers: Boost your career today!](https://dev.to/lakincoder/discover-the-ultimate-non-technical-skills-for-software-developers-boost-your-career-today-10hc)
-- [Dev.to/JS] [How to Write a Recursive Function in JavaScript for Beginners](https://dev.to/michaellarocca/how-to-write-a-recursive-function-in-javascript-for-beginners-39o5)
-- [Dev.to/JS] [Validate the order of parenthese in an expression](https://dev.to/katongole_isaac/validate-the-order-of-parenthese-in-an-expressions-2hj7)
-- [Dev.to/JS] [Instagram Graph API Explained: How to log in users](https://dev.to/superface/instagram-graph-api-explained-how-to-log-in-users-lp8)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
 - [Lifehacker] [13 of the Cheapest Hobbies You Can Teach Yourself](https://lifehacker.com/13-of-the-cheapest-hobbies-you-can-teach-yourself-1849888411)
 - [Lifehacker] [12 of Lifehacker’s Most Delicious Beverage Hacks of 2022](https://lifehacker.com/12-of-lifehacker-s-most-delicious-beverage-hacks-of-202-1849921203)
-- [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)
-- [Lifehacker] [15 of the Best Indie Games to Play on Your New PS5](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-ps5-1849921544)
-- [Lifehacker] [Hotwire Your Broken Thermostat in a Weather Emergency](https://lifehacker.com/hotwire-your-broken-thermostat-in-a-weather-emergency-1849836412)
-- [Lifehacker] [How to Get People to Actually Listen to Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)<!-- TECH-POSTS:END -->
 
 ---
 
