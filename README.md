@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript to Java - A Comprehensive Comparison](https://dev.to/shahirk48/javascript-to-java-a-comprehensive-comparison-4cin)
+- [Dev.to/JS] [News Scraping: Everything You Need to Know](https://dev.to/oxylabs-io/news-scraping-everything-you-need-to-know-49bg)
+- [Lifehacker] [10 of the Best Apps to Track Every New Year&#39;s Resolution](https://lifehacker.com/10-of-the-best-apps-to-track-every-new-years-resolution-1849922019)
+- [Lifehacker] [Actually, You Should Try a Bladeless Ceiling Fan](https://lifehacker.com/actually-you-should-try-a-bladeless-ceiling-fan-1849893069)
 - [Dev.to/JS] [Discover the ultimate non-technical skills for software developers: Boost your career today!](https://dev.to/lakincoder/discover-the-ultimate-non-technical-skills-for-software-developers-boost-your-career-today-10hc)
 - [Dev.to/JS] [How to Write a Recursive Function in JavaScript for Beginners](https://dev.to/michaellarocca/how-to-write-a-recursive-function-in-javascript-for-beginners-39o5)
 - [Dev.to/JS] [Validate the order of parenthese in an expression](https://dev.to/katongole_isaac/validate-the-order-of-parenthese-in-an-expressions-2hj7)
 - [Dev.to/JS] [Instagram Graph API Explained: How to log in users](https://dev.to/superface/instagram-graph-api-explained-how-to-log-in-users-lp8)
 - [Dev.to/JS] [What are JavaScript Template Literals?](https://dev.to/max88git/what-are-javascript-template-literals-3go1)
+- [Dev.to/JS] [Why TypeScript and ReScript are Worth Considering: A Comprehensive Look at JavaScript Alternatives](https://dev.to/tech-dev-blog/why-typescript-and-rescript-are-worth-considering-a-comprehensive-look-at-javascript-alternatives-1e01)
 - [Dev.to/JS] [How to Save Unmatched Text in a jQuery Select2 Dropdown with an AJAX Call](https://dev.to/asifroyal/how-to-save-unmatched-text-in-a-jquery-select2-dropdown-with-an-ajax-call-34j2)
 - [Dev.to/JS] [Effortless Email Integration for front-end devs](https://dev.to/yusufgkl/effortless-email-integration-for-front-end-devs-4463)
 - [Dev.to/JS] [6 ways we improved our documentation in 2022](https://dev.to/medusajs/6-ways-we-improved-our-documentation-in-2022-1hnp)
 - [Dev.to/JS] [Server in Node JS](https://dev.to/khushis26/server-in-node-js-2e91)
-- [Dev.to/JS] [When Should You Scale a Node.js App?](https://dev.to/devland/when-should-you-scale-a-nodejs-app-24dk)
-- [Dev.to/JS] [arguments object in arrow functions](https://dev.to/thelegendski/array-of-arguments-in-arrow-functions-ob3)
-- [Dev.to/JS] [Beesy: Record Google Meet | Browser extension](https://dev.to/rahulkurup/beesy-record-google-meet-browser-extension-2lel)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hotwire Your Broken Thermostat in a Weather Emergency](https://lifehacker.com/hotwire-your-broken-thermostat-in-a-weather-emergency-1849836412)
 - [Lifehacker] [How to Get People to Actually Listen to Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)
 - [Lifehacker] [A Complete Guide to Manifesting Love Into Your Life](https://lifehacker.com/a-complete-guide-to-manifesting-love-into-your-life-1849700646)
-- [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)
-- [Lifehacker] [Allow Me to Troublechoux’t Your Cream Puff Problems](https://lifehacker.com/allow-me-to-troublechoux-t-your-cream-puff-problems-1849706299)
-- [Lifehacker] [22 of Our Best Parenting Hacks of 2022](https://lifehacker.com/22-of-our-best-parenting-hacks-of-2022-1849892795)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)<!-- TECH-POSTS:END -->
 
 ---
 
