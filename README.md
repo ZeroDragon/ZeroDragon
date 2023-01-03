@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Callback and Microtask Queues Explained](https://dev.to/mcwiise/callback-and-microtask-queues-explained-2pen)
+- [Dev.to/JS] [My Journey in Open Source - async-task-packer](https://dev.to/cadienvan/my-journey-in-open-source-async-task-packer-4f21)
 - [Dev.to/JS] [hello this is just a test](https://dev.to/karen/hello-this-is-just-a-test-445k)
 - [Dev.to/JS] [New Technology To Learn in 2023](https://dev.to/varshithvhegde/new-technology-to-learn-in-2023-27l8)
 - [Dev.to/JS] [How to become a better Javascript developer in 2023](https://dev.to/coderkhalid/how-to-become-a-better-javascript-developer-in-2023-a39)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easily create UUIDs without a package](https://dev.to/kitanga_nday/easily-create-uuids-without-a-package-1j4j)
 - [Dev.to/JS] [Pengenalan ReactJS #1](https://dev.to/mancode/pengenalan-reactjs-1-31la)
 - [Dev.to/JS] [Diário de Bordo #1](https://dev.to/analuisadev/diario-de-bordo-1-22ji)
-- [Dev.to/JS] [How To Reverse A String](https://dev.to/djeylani/how-to-reverse-a-string-5730)
-- [Dev.to/JS] [SSR in javascript is hard](https://dev.to/xania/ssr-in-javascript-is-hard-1i72)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
