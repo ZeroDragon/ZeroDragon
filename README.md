@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pengenalan ReactJS #1](https://dev.to/mancode/pengenalan-reactjs-1-31la)
 - [Dev.to/JS] [Diário de Bordo #1](https://dev.to/analuisadev/diario-de-bordo-1-22ji)
 - [Dev.to/JS] [How To Reverse A String](https://dev.to/djeylani/how-to-reverse-a-string-5730)
 - [Dev.to/JS] [SSR in javascript is hard](https://dev.to/xania/ssr-in-javascript-is-hard-1i72)
@@ -30,11 +31,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Internals: How Reactivity Works with Zone.js](https://dev.to/this-is-angular/angular-internals-how-reactivity-works-with-zonejs-302m)
 - [Dev.to/JS] [The Best Programming Language for Beginners: How to Choose Without Overthinking](https://dev.to/maderin/the-best-programming-language-for-beginners-how-to-choose-without-overthinking-30ef)
 - [Dev.to/JS] [find&lpar;&rpar; vs filter&lpar;&rpar; em JavaScript - Explicando diferenças com exemplos](https://dev.to/trinitypath/find-vs-filter-em-javascript-explicando-diferencas-com-exemplos-54mb)
+- [Dev.to/JS] [Effortlessly handle dates and times in JavaScript with Luxon](https://dev.to/tech-dev-blog/effortlessly-handle-dates-and-times-in-javascript-with-luxon-3lak)
 - [Dev.to/JS] [React.js Roadmap for Beginners](https://dev.to/mariamadeyemi/reactjs-roadmap-for-beginners-6g9)
 - [Dev.to/JS] [How to Manipulate Complex Objects in JavaScript](https://dev.to/yusfulcoder/how-to-manipulate-complex-objects-in-javascript-43b2)
 - [Dev.to/JS] [How to get Wallet Addresses from Comment section of a Tweet](https://dev.to/ycrydev/how-to-get-wallet-addresses-from-comment-section-of-a-tweet-2ada)
-- [Dev.to/JS] [#58: Length of Last Word](https://dev.to/jd2r/58-length-of-last-word-kki)
-- [Dev.to/JS] [How to Build a Telegram Bot using Typescript &amp; Node.js](https://dev.to/eludadev/how-to-build-a-telegram-bot-using-typescript-nodejs-3j5e)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
