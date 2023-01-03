@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn JavaScript while Playing Games - Gamify Your Learning](https://dev.to/paulknulst/learn-javascript-while-playing-games-gamify-your-learning-3c5h)
+- [Dev.to/JS] [Counter Example: Vanilla JavaScript](https://dev.to/szabgab/counter-example-vanilla-javascript-1n6l)
+- [Dev.to/JS] [[5x5] Simple number game in JavaScript](https://dev.to/ssk/5x5-simple-number-game-in-javascript-2mlk)
+- [Lifehacker] [The Key to Warming Up Your Home’s Frigid Floors Is in the Basement](https://lifehacker.com/the-key-to-warming-up-your-home-s-frigid-floors-is-in-t-1849904576)
 - [Dev.to/JS] [Var vs Let vs Const keyword in JavaScript](https://dev.to/indirakumar/var-vs-let-vs-const-keyword-in-javascript-32pk)
 - [Lifehacker] [How to Bring Back the Classic Taskbar on Windows 11](https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317)
 - [Dev.to/JS] [Full Text Search is Easy with Lunr.js](https://dev.to/tonylecode/full-text-search-is-easy-with-lunrjs-3fll)
@@ -35,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an app using 5 JavaScript Frameworks - Introduction](https://dev.to/killswitchh/building-an-app-using-5-javascript-frameworks-introduction-phc)
 - [Dev.to/JS] [JavaScript Array Methods: A Comprehensive Guide](https://dev.to/93lucasp/javascript-array-methods-a-comprehensive-guide-1fbb)
 - [Dev.to/JS] [Why is Tailwind CSS better than CSS3?](https://dev.to/prajwal080501/why-is-tailwind-css-better-than-css3-hed)
-- [Dev.to/JS] [Moonly weekly progress update #30](https://dev.to/moonly/moonly-weekly-progress-update-30-11ei)
 - [Lifehacker] [17 Types of Bed Frames &lpar;and Which One Is Best for You&rpar;](https://lifehacker.com/17-types-of-bed-frames-and-which-one-is-best-for-you-1849773417)
-- [Dev.to/JS] [Creating Interactive Charts with D3.js](https://dev.to/ayka_code/creating-interactive-charts-with-d3js-152o)
-- [Dev.to/JS] [Recursion](https://dev.to/magerman714/recursion-2093)
 - [Lifehacker] [18 of the Wildest Stunts in Movie History](https://lifehacker.com/18-of-the-wildest-stunts-in-movie-history-1849931236)
 - [Lifehacker] [12 Private Islands You Can Rent Without Being Rich](https://lifehacker.com/12-private-islands-you-can-rent-without-being-rich-1849705088)
 - [Lifehacker] [12 Celebrities Your Kids Love but You’ve Never Heard Of](https://lifehacker.com/12-celebrities-your-kids-love-but-you-ve-never-heard-of-1849925330)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
 - [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Try These Positions If Sex Is Painful for You](https://lifehacker.com/try-these-positions-if-sex-is-painful-for-you-1849891072)
-- [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)
-- [Lifehacker] [13 of the Cheapest Hobbies You Can Teach Yourself](https://lifehacker.com/13-of-the-cheapest-hobbies-you-can-teach-yourself-1849888411)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Biggest Scams of 2022](https://lifehacker.com/10-of-the-biggest-scams-of-2022-1849916555)<!-- TECH-POSTS:END -->
 
 ---
 
