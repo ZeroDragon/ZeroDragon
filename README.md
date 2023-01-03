@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Steps using useState Hooks in react app.](https://dev.to/smrpdl1991/different-steps-in-react-app-using-usestate-hooks-d8j)
+- [Dev.to/JS] [Why JavaScript Developers Should Learn Node.js and Backend Databases](https://dev.to/andrewbaisden/why-javascript-developers-should-learn-nodejs-and-backend-databases-4c06)
+- [Dev.to/JS] [String.startsWith&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringstartswith-in-javascript-3bbf)
+- [Lifehacker] [12 Private Islands You Can Rent Without Being Rich](https://lifehacker.com/12-private-islands-you-can-rent-without-being-rich-1849705088)
+- [Dev.to/JS] [Cleaner JavaScript Code? Read this...](https://dev.to/oluwatrillions/cleaner-javascript-code-read-this-4lfb)
+- [Dev.to/JS] [Understanding Steams in Nodejs](https://dev.to/adarsh12/understanding-steams-in-nodejs-4mj5)
+- [Dev.to/JS] [Components in Nuxt 3](https://dev.to/guillaumeduhan/components-in-nuxt-3-5a88)
+- [Lifehacker] [12 Celebrities Your Kids Love but You’ve Never Heard Of](https://lifehacker.com/12-celebrities-your-kids-love-but-you-ve-never-heard-of-1849925330)
 - [Dev.to/JS] [JavaScript to Java - A Comprehensive Comparison](https://dev.to/shahirk48/javascript-to-java-a-comprehensive-comparison-4cin)
 - [Dev.to/JS] [News Scraping: Everything You Need to Know](https://dev.to/oxylabs-io/news-scraping-everything-you-need-to-know-49bg)
 - [Lifehacker] [10 of the Best Apps to Track Every New Year&#39;s Resolution](https://lifehacker.com/10-of-the-best-apps-to-track-every-new-years-resolution-1849922019)
@@ -31,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Write a Recursive Function in JavaScript for Beginners](https://dev.to/michaellarocca/how-to-write-a-recursive-function-in-javascript-for-beginners-39o5)
 - [Dev.to/JS] [Validate the order of parenthese in an expression](https://dev.to/katongole_isaac/validate-the-order-of-parenthese-in-an-expressions-2hj7)
 - [Dev.to/JS] [Instagram Graph API Explained: How to log in users](https://dev.to/superface/instagram-graph-api-explained-how-to-log-in-users-lp8)
-- [Dev.to/JS] [What are JavaScript Template Literals?](https://dev.to/max88git/what-are-javascript-template-literals-3go1)
-- [Dev.to/JS] [Why TypeScript and ReScript are Worth Considering: A Comprehensive Look at JavaScript Alternatives](https://dev.to/tech-dev-blog/why-typescript-and-rescript-are-worth-considering-a-comprehensive-look-at-javascript-alternatives-1e01)
-- [Dev.to/JS] [How to Save Unmatched Text in a jQuery Select2 Dropdown with an AJAX Call](https://dev.to/asifroyal/how-to-save-unmatched-text-in-a-jquery-select2-dropdown-with-an-ajax-call-34j2)
-- [Dev.to/JS] [Effortless Email Integration for front-end devs](https://dev.to/yusufgkl/effortless-email-integration-for-front-end-devs-4463)
-- [Dev.to/JS] [6 ways we improved our documentation in 2022](https://dev.to/medusajs/6-ways-we-improved-our-documentation-in-2022-1hnp)
-- [Dev.to/JS] [Server in Node JS](https://dev.to/khushis26/server-in-node-js-2e91)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Signs Your Child May Be Depressed](https://lifehacker.com/these-are-the-signs-your-child-may-be-depressed-1849861283)
 - [Lifehacker] [15 of the Best Indie Games to Play on Your New PS5](https://lifehacker.com/15-of-the-best-indie-games-to-play-on-your-new-ps5-1849921544)
 - [Lifehacker] [Hotwire Your Broken Thermostat in a Weather Emergency](https://lifehacker.com/hotwire-your-broken-thermostat-in-a-weather-emergency-1849836412)
-- [Lifehacker] [How to Get People to Actually Listen to Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)
-- [Lifehacker] [A Complete Guide to Manifesting Love Into Your Life](https://lifehacker.com/a-complete-guide-to-manifesting-love-into-your-life-1849700646)
-- [Lifehacker] [Lifehacker’s 12 Favorite Party Foods of 2022](https://lifehacker.com/lifehacker-s-12-favorite-party-foods-of-2022-1849924556)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get People to Actually Listen to Your Ideas at Work](https://lifehacker.com/how-to-get-people-to-actually-listen-your-ideas-at-work-1849893100)<!-- TECH-POSTS:END -->
 
 ---
 
