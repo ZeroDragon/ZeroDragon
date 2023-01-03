@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are JavaScript Template Literals?](https://dev.to/max88git/what-are-javascript-template-literals-3go1)
+- [Dev.to/JS] [How to Save Unmatched Text in a jQuery Select2 Dropdown with an AJAX Call](https://dev.to/asifroyal/how-to-save-unmatched-text-in-a-jquery-select2-dropdown-with-an-ajax-call-34j2)
+- [Dev.to/JS] [Effortless Email Integration for front-end devs](https://dev.to/yusufgkl/effortless-email-integration-for-front-end-devs-4463)
 - [Dev.to/JS] [6 ways we improved our documentation in 2022](https://dev.to/medusajs/6-ways-we-improved-our-documentation-in-2022-1hnp)
 - [Dev.to/JS] [Server in Node JS](https://dev.to/khushis26/server-in-node-js-2e91)
 - [Dev.to/JS] [When Should You Scale a Node.js App?](https://dev.to/devland/when-should-you-scale-a-nodejs-app-24dk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Java Training in Chennai](https://dev.to/maansi26/java-training-in-chennai-1ig3)
 - [Dev.to/JS] [Enum : A Fun Way to Improved Code Readability and Quality 🌟🌟🌟](https://dev.to/codewithonye/enum-a-fun-way-to-improved-code-readability-and-quality-1fd1)
 - [Dev.to/JS] [Front End Development : Easy or Hard](https://dev.to/jagroop2000/front-end-development-easy-or-hard-1cpo)
-- [Dev.to/JS] [Add dynamic class in react](https://dev.to/himanshupal0001/add-dynamic-class-in-react-675)
-- [Dev.to/JS] [Hosting your app for production – what do you need?](https://dev.to/livechat/hosting-your-app-for-production-4ce4)
-- [Dev.to/JS] [Amarose Skin Tag Removar - Is It Naturally Reviews &amp; Benefits For Skin Care?](https://dev.to/tagremovar/amarose-skin-tag-removar-is-it-naturally-reviews-benefits-for-skin-care-53c2)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
