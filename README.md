@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [Ken Thompson Biography](https://www.thecrazyprogrammer.com/2023/01/ken-thompson-biography.html)
+- [Lifehacker] [Make Mini Beef Wellingtons for Your Fancy Football Party](https://lifehacker.com/make-mini-beef-wellingtons-for-your-fancy-football-part-1849944627)
+- [Lifehacker] [You’ve Been Playing ‘Super Mario Bros.’ Wrong This Whole Time](https://lifehacker.com/you-ve-been-playing-super-mario-bros-wrong-this-whol-1849944297)
+- [Dev.to/JS] [Handling Automatic ID Generation in PostgreSQL with Node.js and Sequelize](https://dev.to/yugabyte/handling-automatic-id-generation-in-postgresql-with-nodejs-and-sequelize-2420)
 - [Dev.to/JS] [Module Federation Shared API](https://dev.to/infoxicator/module-federation-shared-api-ach)
 - [Dev.to/JS] [RxJS and Angular: Why and how to use](https://dev.to/educative/rxjs-and-angular-why-and-how-to-use-37a1)
 - [Lifehacker] [20 New Podcasts to Add to Your Queue in 2023](https://lifehacker.com/20-new-podcasts-to-add-to-your-queue-in-2023-1849914950)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals: Objects 1](https://dev.to/astrodevil/javascript-fundamentals-objects-1-190)
 - [Dev.to/JS] [No code is the future](https://dev.to/vogel/no-code-is-the-future-146i)
 - [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)
-- [Dev.to/JS] [One App 5 Frameworks - Chapter 1: React](https://dev.to/killswitchh/one-app-5-frameworks-chapter-1-react-4kjh)
 - [Lifehacker] [17 Types of Bed Frames &lpar;and Which One Is Best for You&rpar;](https://lifehacker.com/17-types-of-bed-frames-and-which-one-is-best-for-you-1849773417)
 - [Lifehacker] [18 of the Wildest Stunts in Movie History](https://lifehacker.com/18-of-the-wildest-stunts-in-movie-history-1849931236)
 - [Lifehacker] [12 Private Islands You Can Rent Without Being Rich](https://lifehacker.com/12-private-islands-you-can-rent-without-being-rich-1849705088)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
 - [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
 - [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
-- [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
-- [Lifehacker] [The Easiest Ways to Clean Up Your Christmas Tree&#39;s Sap and Needles](https://lifehacker.com/the-easiest-ways-to-clean-up-your-christmas-trees-sap-a-1849936395)
-- [Lifehacker] [Get One-Way Flights for $19 During Frontier&#39;s Latest Sale](https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455)
-- [Lifehacker] [15 Awesome Indie Games You Should Play on Your New Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)<!-- TECH-POSTS:END -->
 
 ---
 
