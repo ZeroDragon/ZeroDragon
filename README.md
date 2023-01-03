@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte&lpar;Kit&rpar; Top 10 Wishlist for 2023](https://dev.to/jdgamble555/sveltekit-top-10-wishlist-for-2023-4ie2)
+- [Dev.to/JS] [Easily create UUIDs without a package](https://dev.to/kitanga_nday/easily-create-uuids-without-a-package-1j4j)
 - [Dev.to/JS] [Pengenalan ReactJS #1](https://dev.to/mancode/pengenalan-reactjs-1-31la)
 - [Dev.to/JS] [Diário de Bordo #1](https://dev.to/analuisadev/diario-de-bordo-1-22ji)
 - [Dev.to/JS] [How To Reverse A String](https://dev.to/djeylani/how-to-reverse-a-string-5730)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [find&lpar;&rpar; vs filter&lpar;&rpar; em JavaScript - Explicando diferenças com exemplos](https://dev.to/trinitypath/find-vs-filter-em-javascript-explicando-diferencas-com-exemplos-54mb)
 - [Dev.to/JS] [Effortlessly handle dates and times in JavaScript with Luxon](https://dev.to/tech-dev-blog/effortlessly-handle-dates-and-times-in-javascript-with-luxon-3lak)
 - [Dev.to/JS] [React.js Roadmap for Beginners](https://dev.to/mariamadeyemi/reactjs-roadmap-for-beginners-6g9)
-- [Dev.to/JS] [How to Manipulate Complex Objects in JavaScript](https://dev.to/yusfulcoder/how-to-manipulate-complex-objects-in-javascript-43b2)
-- [Dev.to/JS] [How to get Wallet Addresses from Comment section of a Tweet](https://dev.to/ycrydev/how-to-get-wallet-addresses-from-comment-section-of-a-tweet-2ada)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
