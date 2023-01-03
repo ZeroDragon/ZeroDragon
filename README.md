@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
+- [Lifehacker] [Winterize Your Panzanella](https://lifehacker.com/winterize-your-panzanella-1849945154)
+- [Dev.to/JS] [As possibilidades e escalabilidade do React Native](https://dev.to/altencirsilvajr/as-possibilidades-e-escalabilidade-do-react-native-1ehh)
+- [Dev.to/JS] [Skills you need to become a successful Software Engineer](https://dev.to/nuraddeenmisah1/skills-you-need-to-become-a-successful-software-engineer-4fg4)
+- [Lifehacker] [How to Choose Art for Your Home When You Know Nothing About Art](https://lifehacker.com/how-to-choose-art-for-your-home-when-you-know-nothing-a-1849912711)
 - [Crazy Programmer] [Ken Thompson Biography](https://www.thecrazyprogrammer.com/2023/01/ken-thompson-biography.html)
 - [Lifehacker] [Make Mini Beef Wellingtons for Your Fancy Football Party](https://lifehacker.com/make-mini-beef-wellingtons-for-your-fancy-football-part-1849944627)
 - [Lifehacker] [You’ve Been Playing ‘Super Mario Bros.’ Wrong This Whole Time](https://lifehacker.com/you-ve-been-playing-super-mario-bros-wrong-this-whol-1849944297)
@@ -41,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full Text Search is Easy with Lunr.js](https://dev.to/tonylecode/full-text-search-is-easy-with-lunrjs-3fll)
 - [Lifehacker] [Why You Should Replace Your Old iPhone’s Battery Right Now](https://lifehacker.com/why-you-should-replace-your-old-iphone-s-battery-right-1849944388)
 - [Dev.to/JS] [How To Create A Follower Recommendation System Like Instagram Using PostgreSQL](https://dev.to/ndohjapan/how-to-create-a-follower-recommendation-system-like-instagram-using-postgresql-2e53)
-- [Dev.to/JS] [JavaScript Fundamentals: Objects 1](https://dev.to/astrodevil/javascript-fundamentals-objects-1-190)
-- [Dev.to/JS] [No code is the future](https://dev.to/vogel/no-code-is-the-future-146i)
 - [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)
 - [Lifehacker] [17 Types of Bed Frames &lpar;and Which One Is Best for You&rpar;](https://lifehacker.com/17-types-of-bed-frames-and-which-one-is-best-for-you-1849773417)
 - [Lifehacker] [18 of the Wildest Stunts in Movie History](https://lifehacker.com/18-of-the-wildest-stunts-in-movie-history-1849931236)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
 - [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)
 - [Lifehacker] [Don&#39;t Wait to Return Your Unwanted Holiday Gifts](https://lifehacker.com/dont-wait-to-return-your-unwanted-holiday-gifts-1849940138)
-- [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
-- [Lifehacker] [You Don&#39;t Need a Separate Stain-Removing Spray for Your Laundry](https://lifehacker.com/you-dont-need-a-separate-stain-removing-spray-for-your-1849939184)
-- [Lifehacker] [The Best Free and Cheap Food for New Year&#39;s Day](https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195)
-- [Lifehacker] [You Should Make an &#39;Old Year&#39;s Resolution&#39; Instead](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Get In on Wesson&#39;s $3 Million False Advertising Settlement](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)<!-- TECH-POSTS:END -->
 
 ---
 
