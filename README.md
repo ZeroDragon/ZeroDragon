@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State of ReactJS in 2023?](https://dev.to/raxraj/state-of-reactjs-in-2023-4961)
+- [Dev.to/JS] [32 best JavaScript snippets &lpar;one-liners&rpar; in 2023](https://dev.to/rahxuls/32-best-javascript-snippets-one-liners-in-2023-70k)
+- [Lifehacker] [Why You Might Lose Medicaid Coverage in 2023](https://lifehacker.com/why-you-might-lose-medicaid-coverage-in-2023-1849948935)
+- [Dev.to/JS] [3. JS challenge - a running sum](https://dev.to/zuzexx/3-js-challenge-a-running-sum-mje)
 - [Lifehacker] [TikTok Is Wrong About Boiling Air Freshener Wicks](https://lifehacker.com/tiktok-is-wrong-about-boiling-air-freshener-wicks-1849948436)
 - [Dev.to/JS] [Calculator](https://dev.to/katongole_isaac/calculator-18f7)
 - [Dev.to/JS] [Exploring Anime.js with an example site animation project](https://dev.to/logrocket/exploring-animejs-with-an-example-site-animation-project-fb8)
@@ -37,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2022 Rewind feat. StackOverflow Dev Survey](https://dev.to/arjuncodess/2022-rewind-feat-stackoverflow-dev-survey-1i8j)
 - [Lifehacker] [When to Use Chocolate Chips, Chunks, and Shavings](https://lifehacker.com/when-to-use-chocolate-chips-chunks-and-shavings-1849946405)
 - [Dev.to/JS] [Building a Custom YAML Loader for Webpack](https://dev.to/redbit/building-a-custom-yaml-loader-for-webpack-45b3)
-- [Dev.to/JS] [How &quot;this&quot; Works](https://dev.to/dnelson35/how-this-works-2bj3)
 - [Lifehacker] [11 Ways to Actually Eat Healthier in the New Year](https://lifehacker.com/11-ways-to-actually-eat-healthier-in-the-new-year-1849946165)
-- [Dev.to/JS] [useTransition - Web Dev Simplified](https://dev.to/akshdesai1/usetransition-web-dev-simplified-1bn7)
 - [Lifehacker] [This Is Your New Favorite Way to Eat Tinned Fish](https://lifehacker.com/this-is-your-new-favorite-way-to-eat-tinned-fish-1849945786)
-- [Dev.to/JS] [Arrow function explained simply](https://dev.to/sakethkowtha/arrow-function-explained-simply-3ij3)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Private Islands You Can Rent Without Being Rich](https://lifehacker.com/12-private-islands-you-can-rent-without-being-rich-1849705088)
 - [Lifehacker] [12 Celebrities Your Kids Love but You’ve Never Heard Of](https://lifehacker.com/12-celebrities-your-kids-love-but-you-ve-never-heard-of-1849925330)
 - [Lifehacker] [10 of the Best Apps to Track Every New Year&#39;s Resolution](https://lifehacker.com/10-of-the-best-apps-to-track-every-new-years-resolution-1849922019)
-- [Lifehacker] [Actually, You Should Try a Bladeless Ceiling Fan](https://lifehacker.com/actually-you-should-try-a-bladeless-ceiling-fan-1849893069)
-- [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Actually, You Should Try a Bladeless Ceiling Fan](https://lifehacker.com/actually-you-should-try-a-bladeless-ceiling-fan-1849893069)<!-- TECH-POSTS:END -->
 
 ---
 
