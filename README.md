@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Pick a Bagged Salad That Is Actually Good](https://lifehacker.com/how-to-pick-a-bagged-salad-that-is-actually-good-1849949525)
+- [Dev.to/JS] [Build a custom video chat with ReactJS and ApiRTC](https://dev.to/rvailleux/build-a-custom-video-chat-with-reactjs-and-apirtc-4j5h)
+- [Lifehacker] [Burger King Wants to Give You Free Fries for Six Months](https://lifehacker.com/burger-king-wants-to-give-you-free-fries-for-six-months-1849949487)
+- [Dev.to/JS] [Regex for lazy developers](https://dev.to/sineni/regex-for-lazy-developers-cg1)
+- [Dev.to/JS] [How to useEffect hook in your React components](https://dev.to/fabienschlegel/how-to-useeffect-hook-in-your-react-components-a00)
 - [Lifehacker] [Make This Spinach and Artichoke Dip With Three Ingredients and a Microwave](https://lifehacker.com/make-this-spinach-and-artichoke-dip-with-three-ingredie-1849949518)
 - [Dev.to/JS] [Dicas sobre Javascript que podem ajudar:](https://dev.to/altencirsilvajr/dicas-sobre-javascript-que-podem-ajudar-1a0i)
 - [Dev.to/JS] [Open-Closed Principle In React](https://dev.to/zahidhasan24/open-closed-principle-in-react-j2)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Calculator](https://dev.to/katongole_isaac/calculator-18f7)
 - [Dev.to/JS] [Exploring Anime.js with an example site animation project](https://dev.to/logrocket/exploring-animejs-with-an-example-site-animation-project-fb8)
 - [Lifehacker] [You Can Actually Grow Weed As a Houseplant](https://lifehacker.com/you-can-actually-grow-weed-as-a-houseplant-1849948405)
-- [Dev.to/JS] [zoetic-xumm, A template xApp for XRP and xumm](https://dev.to/claytantor/zoetic-xumm-a-template-xapp-for-xrp-and-xumm-1g71)
-- [Dev.to/JS] [useDeferredValue&lpar;&rpar; Hook - web dev simplified](https://dev.to/akshdesai1/usedeferredvalue-hook-web-dev-simplified-4del)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
-- [Dev.to/JS] [How To Learn React in 2023](https://dev.to/webdevhero-com/how-to-learn-react-in-2023-3kef)
 - [Lifehacker] [All the New Federal and State Laws You Should Know About in 2023](https://lifehacker.com/all-the-new-federal-and-state-laws-you-should-know-abou-1849947186)
 - [Lifehacker] [When to Use Chocolate Chips, Chunks, and Shavings](https://lifehacker.com/when-to-use-chocolate-chips-chunks-and-shavings-1849946405)
 - [Lifehacker] [11 Ways to Actually Eat Healthier in the New Year](https://lifehacker.com/11-ways-to-actually-eat-healthier-in-the-new-year-1849946165)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Bring Back the Classic Taskbar on Windows 11](https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317)
 - [Lifehacker] [Why You Should Replace Your Old iPhone’s Battery Right Now](https://lifehacker.com/why-you-should-replace-your-old-iphone-s-battery-right-1849944388)
 - [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)
-- [Lifehacker] [17 Types of Bed Frames &lpar;and Which One Is Best for You&rpar;](https://lifehacker.com/17-types-of-bed-frames-and-which-one-is-best-for-you-1849773417)
-- [Lifehacker] [18 of the Wildest Stunts in Movie History](https://lifehacker.com/18-of-the-wildest-stunts-in-movie-history-1849931236)
-- [Lifehacker] [12 Private Islands You Can Rent Without Being Rich](https://lifehacker.com/12-private-islands-you-can-rent-without-being-rich-1849705088)<!-- TECH-POSTS:END -->
+- [Lifehacker] [17 Types of Bed Frames &lpar;and Which One Is Best for You&rpar;](https://lifehacker.com/17-types-of-bed-frames-and-which-one-is-best-for-you-1849773417)<!-- TECH-POSTS:END -->
 
 ---
 
