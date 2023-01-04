@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Fast Food Website Using HTML CSS JS](https://dev.to/codewithsadee/how-to-make-fast-food-website-using-html-css-js-3iep)
+- [Dev.to/JS] [Regex #1: Understanding Regex, Regex-Based String Methods and Regex Flags](https://dev.to/nandhakumar/regex-1-understanding-regex-regex-based-string-methods-and-regex-flags-533p)
+- [Dev.to/JS] [SCOPE IN JAVASCRIPT](https://dev.to/onwuemene/scope-in-javascript-ejl)
+- [Dev.to/JS] [How to pass parameters to useQuery using Axios](https://dev.to/calvin087/how-to-pass-parameters-to-usequery-using-axios-62a)
 - [Dev.to/JS] [Best Programming Languages to Learn for Web Development in 2023](https://dev.to/jigar_online/best-programming-languages-to-learn-for-web-development-in-2023-48c3)
 - [Dev.to/JS] [Introducing Myself as a Full-Stack Developer and My Interests in Web3, Blockchain, Web Dev, AI, and ML](https://dev.to/abhaysinghr1/introducing-myself-as-a-full-stack-developer-and-my-interests-in-web3-blockchain-web-dev-ai-and-ml-2b91)
 - [Dev.to/JS] [Building a Video Player in React](https://dev.to/documatic/building-a-video-player-in-react-1mlf)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Connect Your Node.js Project to MySQL Database Locally](https://dev.to/mariamadeyemi/connect-your-nodejs-project-to-mysql-database-locally-3opm)
 - [Dev.to/JS] [Entendendo sobre Callback Hell em JavaScript](https://dev.to/trinitypath/entendendo-sobre-callback-hell-em-javascript-blh)
 - [Dev.to/JS] [Datepicker Bootstrap 5](https://dev.to/atatanasov/bootstrap-5-datepicker-i9c)
-- [Dev.to/JS] [So, why Server Components?](https://dev.to/jankoritak/so-why-server-components-2nk3)
-- [Dev.to/JS] [How To Use Annotations In Cucumber Framework [Tutorial]](https://dev.to/lambdatest/how-to-use-annotations-in-cucumber-framework-tutorial-4l4g)
-- [Dev.to/JS] [What are the Recent Techniques to Build a Website?](https://dev.to/uplogictech/what-are-the-recent-techniques-to-build-a-website-23ff)
-- [Dev.to/JS] [How to trigger useQuery with a button click - React Query](https://dev.to/calvin087/how-to-trigger-usequery-with-a-button-click-react-query-4en)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
