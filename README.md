@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Does One Transition From Basic Front End Development to Intermediate?](https://dev.to/arbrazil/how-does-one-transition-from-basic-front-end-development-to-intermediate-4h7g)
+- [Dev.to/JS] [JS map&lpar;&rpar;, filter&lpar;&rpar; e reduce&lpar;&rpar; em React](https://dev.to/mpetry/js-map-filter-e-reduce-em-react-2o5c)
 - [Dev.to/JS] [E-Commerce Platform](https://dev.to/shacktimemonco/e-commerce-platform-1648)
 - [Dev.to/JS] [Automated LinkedIn Invites Withdrawn](https://dev.to/dessygil/automated-linkedin-invites-withdrawn-3gld)
 - [Dev.to/JS] [Switching blog.](https://dev.to/sonicx180/switching-blog-1eac)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You’ve Been Playing ‘Super Mario Bros.’ Wrong This Whole Time](https://lifehacker.com/you-ve-been-playing-super-mario-bros-wrong-this-whol-1849944297)
 - [Dev.to/JS] [Handling Automatic ID Generation in PostgreSQL with Node.js and Sequelize](https://dev.to/yugabyte/handling-automatic-id-generation-in-postgresql-with-nodejs-and-sequelize-2420)
 - [Dev.to/JS] [Module Federation Shared API](https://dev.to/infoxicator/module-federation-shared-api-ach)
-- [Dev.to/JS] [RxJS and Angular: Why and how to use](https://dev.to/educative/rxjs-and-angular-why-and-how-to-use-37a1)
 - [Lifehacker] [20 New Podcasts to Add to Your Queue in 2023](https://lifehacker.com/20-new-podcasts-to-add-to-your-queue-in-2023-1849914950)
-- [Dev.to/JS] [Modernization with Module Federation, Nx and React](https://dev.to/zchapple/modernization-with-module-federation-nx-and-react-4kj5)
 - [Lifehacker] [How to Help the New People at the Gym Without Being Condescending](https://lifehacker.com/how-to-help-the-new-people-at-the-gym-without-being-con-1849944396)
 - [Lifehacker] [The Key to Warming Up Your Home’s Frigid Floors Is in the Basement](https://lifehacker.com/the-key-to-warming-up-your-home-s-frigid-floors-is-in-t-1849904576)
 - [Lifehacker] [How to Bring Back the Classic Taskbar on Windows 11](https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317)
