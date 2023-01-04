@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Google Chrome Is About to Be Problem on Your Parents’ PC](https://lifehacker.com/google-chrome-is-about-to-be-problem-on-your-parents-p-1849949009)
+- [Dev.to/JS] [Gluon - A new Electron-like framework but with a new approach](https://dev.to/canadahonk/gluon-a-new-electron-like-framework-but-with-a-new-approach-5ejl)
 - [Lifehacker] [How to Pick a Bagged Salad That Is Actually Good](https://lifehacker.com/how-to-pick-a-bagged-salad-that-is-actually-good-1849949525)
 - [Dev.to/JS] [Build a custom video chat with ReactJS and ApiRTC](https://dev.to/rvailleux/build-a-custom-video-chat-with-reactjs-and-apirtc-4j5h)
 - [Lifehacker] [Burger King Wants to Give You Free Fries for Six Months](https://lifehacker.com/burger-king-wants-to-give-you-free-fries-for-six-months-1849949487)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3. JS challenge - a running sum](https://dev.to/zuzexx/3-js-challenge-a-running-sum-mje)
 - [Lifehacker] [TikTok Is Wrong About Boiling Air Freshener Wicks](https://lifehacker.com/tiktok-is-wrong-about-boiling-air-freshener-wicks-1849948436)
 - [Dev.to/JS] [Calculator](https://dev.to/katongole_isaac/calculator-18f7)
-- [Dev.to/JS] [Exploring Anime.js with an example site animation project](https://dev.to/logrocket/exploring-animejs-with-an-example-site-animation-project-fb8)
 - [Lifehacker] [You Can Actually Grow Weed As a Houseplant](https://lifehacker.com/you-can-actually-grow-weed-as-a-houseplant-1849948405)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
 - [Lifehacker] [All the New Federal and State Laws You Should Know About in 2023](https://lifehacker.com/all-the-new-federal-and-state-laws-you-should-know-abou-1849947186)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Key to Warming Up Your Home’s Frigid Floors Is in the Basement](https://lifehacker.com/the-key-to-warming-up-your-home-s-frigid-floors-is-in-t-1849904576)
 - [Lifehacker] [How to Bring Back the Classic Taskbar on Windows 11](https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317)
 - [Lifehacker] [Why You Should Replace Your Old iPhone’s Battery Right Now](https://lifehacker.com/why-you-should-replace-your-old-iphone-s-battery-right-1849944388)
-- [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)
-- [Lifehacker] [17 Types of Bed Frames &lpar;and Which One Is Best for You&rpar;](https://lifehacker.com/17-types-of-bed-frames-and-which-one-is-best-for-you-1849773417)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)<!-- TECH-POSTS:END -->
 
 ---
 
