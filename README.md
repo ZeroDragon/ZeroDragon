@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 Ways to create an object in JS](https://dev.to/pcoch/4-ways-to-create-an-object-in-js-5b38)
 - [Dev.to/JS] [Create a Birthday Reminder with React App](https://dev.to/chenyibo406/create-a-birthday-reminder-with-react-app-1fi9)
 - [Dev.to/JS] [6 Array methods every JavaScript developer must know](https://dev.to/awaisalwaisy/6-array-methods-every-javascript-developer-must-know-3mof)
 - [Dev.to/JS] [Getting started with NodeJs and Express &lpar;Backend development&rpar;](https://dev.to/haltim/getting-started-with-nodejs-and-express-backend-development-4iaj)
+- [Dev.to/JS] [Which Framework is Most Suitable for Your Project or Learning in 2023: Angular vs React vs Vue](https://dev.to/umangnaik/which-framework-is-most-suitable-for-your-project-or-learning-in-2023-angular-vs-react-vs-vue-3ljd)
 - [Dev.to/JS] [How to use States and Props like a Pro in React](https://dev.to/haltim/how-to-use-states-and-props-like-a-pro-in-react-21im)
 - [Dev.to/JS] [JS Video Player](https://dev.to/smackdh/js-video-player-37m1)
 - [Dev.to/JS] [How Does One Transition From Basic Front End Development to Intermediate?](https://dev.to/arbrazil/how-does-one-transition-from-basic-front-end-development-to-intermediate-4h7g)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Switching blog.](https://dev.to/sonicx180/switching-blog-1eac)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
-- [Dev.to/JS] [Tips on how to follow a tutorial](https://dev.to/audreymengue/tips-on-how-to-follow-a-tutorial-4h2j)
-- [Dev.to/JS] [This might be slowing down your code!](https://dev.to/tsuyusk/this-might-be-slowing-down-your-code-187m)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
 - [Lifehacker] [Winterize Your Panzanella](https://lifehacker.com/winterize-your-panzanella-1849945154)
 - [Lifehacker] [How to Choose Art for Your Home When You Know Nothing About Art](https://lifehacker.com/how-to-choose-art-for-your-home-when-you-know-nothing-a-1849912711)
