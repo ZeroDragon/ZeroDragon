@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [E-Commerce Platform](https://dev.to/shacktimemonco/e-commerce-platform-1648)
+- [Dev.to/JS] [Automated LinkedIn Invites Withdrawn](https://dev.to/dessygil/automated-linkedin-invites-withdrawn-3gld)
+- [Dev.to/JS] [Switching blog.](https://dev.to/sonicx180/switching-blog-1eac)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Dev.to/JS] [Tips on how to follow a tutorial](https://dev.to/audreymengue/tips-on-how-to-follow-a-tutorial-4h2j)
@@ -33,6 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Skills you need to become a successful Software Engineer](https://dev.to/nuraddeenmisah1/skills-you-need-to-become-a-successful-software-engineer-4fg4)
 - [Lifehacker] [How to Choose Art for Your Home When You Know Nothing About Art](https://lifehacker.com/how-to-choose-art-for-your-home-when-you-know-nothing-a-1849912711)
 - [Crazy Programmer] [Ken Thompson Biography](https://www.thecrazyprogrammer.com/2023/01/ken-thompson-biography.html)
+- [Dev.to/JS] [Add Some Whiskers to Your Website with the Cat Facts API](https://dev.to/tech-dev-blog/add-some-whiskers-to-your-website-with-the-cat-facts-api-4mak)
 - [Lifehacker] [Make Mini Beef Wellingtons for Your Fancy Football Party](https://lifehacker.com/make-mini-beef-wellingtons-for-your-fancy-football-part-1849944627)
 - [Lifehacker] [You’ve Been Playing ‘Super Mario Bros.’ Wrong This Whole Time](https://lifehacker.com/you-ve-been-playing-super-mario-bros-wrong-this-whol-1849944297)
 - [Dev.to/JS] [Handling Automatic ID Generation in PostgreSQL with Node.js and Sequelize](https://dev.to/yugabyte/handling-automatic-id-generation-in-postgresql-with-nodejs-and-sequelize-2420)
@@ -40,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [RxJS and Angular: Why and how to use](https://dev.to/educative/rxjs-and-angular-why-and-how-to-use-37a1)
 - [Lifehacker] [20 New Podcasts to Add to Your Queue in 2023](https://lifehacker.com/20-new-podcasts-to-add-to-your-queue-in-2023-1849914950)
 - [Dev.to/JS] [Modernization with Module Federation, Nx and React](https://dev.to/zchapple/modernization-with-module-federation-nx-and-react-4kj5)
-- [Dev.to/JS] [Learn JavaScript while Playing Games - Gamify Your Learning](https://dev.to/paulknulst/learn-javascript-while-playing-games-gamify-your-learning-3c5h)
 - [Lifehacker] [How to Help the New People at the Gym Without Being Condescending](https://lifehacker.com/how-to-help-the-new-people-at-the-gym-without-being-con-1849944396)
-- [Dev.to/JS] [Counter Example: Vanilla JavaScript](https://dev.to/szabgab/counter-example-vanilla-javascript-1n6l)
-- [Dev.to/JS] [[5x5] Simple number game in JavaScript](https://dev.to/ssk/5x5-simple-number-game-in-javascript-2mlk)
 - [Lifehacker] [The Key to Warming Up Your Home’s Frigid Floors Is in the Basement](https://lifehacker.com/the-key-to-warming-up-your-home-s-frigid-floors-is-in-t-1849904576)
-- [Dev.to/JS] [Var vs Let vs Const keyword in JavaScript](https://dev.to/indirakumar/var-vs-let-vs-const-keyword-in-javascript-32pk)
 - [Lifehacker] [How to Bring Back the Classic Taskbar on Windows 11](https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317)
 - [Lifehacker] [Why You Should Replace Your Old iPhone’s Battery Right Now](https://lifehacker.com/why-you-should-replace-your-old-iphone-s-battery-right-1849944388)
 - [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)
