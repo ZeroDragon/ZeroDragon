@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Best JavaScript Projects for Beginners [With Source Code]](https://dev.to/backlinkss/10-best-javascript-projects-for-beginners-with-source-code-3d34)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Variable Declarations in JavaScript: When to Use const, let, and var](https://dev.to/mohsenkamrani/a-beginners-guide-to-variable-declarations-in-javascript-when-to-use-const-let-and-var-2eoj)
+- [Dev.to/JS] [Weekly web development resources #131](https://dev.to/vincenius/weekly-web-development-resources-131-3d3a)
+- [Dev.to/JS] [Top NodeJS Development Firms in 2023](https://dev.to/codersnews/top-nodejs-development-firms-in-2023-5flf)
+- [Dev.to/JS] [Building a CRUD App with Next.js, React Query, React Hook Form, and Yup](https://dev.to/integridsolutions/building-a-crud-app-with-nextjs-react-query-react-hook-form-and-yup-46o9)
 - [Dev.to/JS] [4 Ways to create an object in JS](https://dev.to/pcoch/4-ways-to-create-an-object-in-js-5b38)
 - [Dev.to/JS] [Create a Birthday Reminder with React App](https://dev.to/chenyibo406/create-a-birthday-reminder-with-react-app-1fi9)
 - [Dev.to/JS] [6 Array methods every JavaScript developer must know](https://dev.to/awaisalwaisy/6-array-methods-every-javascript-developer-must-know-3mof)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which Framework is Most Suitable for Your Project or Learning in 2023: Angular vs React vs Vue](https://dev.to/umangnaik/which-framework-is-most-suitable-for-your-project-or-learning-in-2023-angular-vs-react-vs-vue-3ljd)
 - [Dev.to/JS] [How to use States and Props like a Pro in React](https://dev.to/haltim/how-to-use-states-and-props-like-a-pro-in-react-21im)
 - [Dev.to/JS] [JS Video Player](https://dev.to/smackdh/js-video-player-37m1)
-- [Dev.to/JS] [How Does One Transition From Basic Front End Development to Intermediate?](https://dev.to/arbrazil/how-does-one-transition-from-basic-front-end-development-to-intermediate-4h7g)
-- [Dev.to/JS] [JS map&lpar;&rpar;, filter&lpar;&rpar; e reduce&lpar;&rpar; em React](https://dev.to/mpetry/js-map-filter-e-reduce-em-react-2o5c)
-- [Dev.to/JS] [E-Commerce Platform](https://dev.to/shacktimemonco/e-commerce-platform-1648)
-- [Dev.to/JS] [Automate LinkedIn Invites To Be Withdrawn](https://dev.to/dessygil/automated-linkedin-invites-withdrawn-3gld)
-- [Dev.to/JS] [Switching blog.](https://dev.to/sonicx180/switching-blog-1eac)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
