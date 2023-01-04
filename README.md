@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
+- [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
+- [Dev.to/JS] [Welcome!](https://dev.to/mataoseeker/welcome-3f3o)
+- [Dev.to/JS] [A dive into JavaScript](https://dev.to/oluwatrillions/a-dive-into-javascript-455k)
+- [Dev.to/JS] [What is Asynchronous JavaScript?](https://dev.to/documatic/what-is-asynchronous-javascript-4k4n)
+- [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
 - [Dev.to/JS] [Is TS simply another excuse not to write test in JS?](https://dev.to/decker67/is-ts-simply-another-excuse-not-to-write-test-in-js-5ca0)
 - [Dev.to/JS] [Introduction to NodeJS &lpar;Day 2/30&rpar;](https://dev.to/efkumah/introduction-to-nodejs-day-230-3l00)
 - [Lifehacker] [The Secret Way to Restart Your iPhone](https://lifehacker.com/the-secret-way-to-restart-your-iphone-1849950169)
@@ -38,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open-Closed Principle In React](https://dev.to/zahidhasan24/open-closed-principle-in-react-j2)
 - [Dev.to/JS] [How to make Google&#39;s &quot;Report issue&quot; feedback form](https://dev.to/colonelparrot/how-to-make-googles-report-issue-feedback-form-5h71)
 - [Lifehacker] [What the ‘Mediterranean Diet’ Is, and How to Actually Follow It](https://lifehacker.com/wtf-even-is-the-mediterranean-diet-1849948645)
-- [Dev.to/JS] [Create an Easy Slider for an E-commerce Dashboard With Swiper.js](https://dev.to/get_pieces/create-an-easy-slider-for-an-e-commerce-dashboard-with-swiperjs-383l)
 - [Lifehacker] [How to Take a Hot Shower If Your Water Heater’s Busted](https://lifehacker.com/how-to-take-a-hot-shower-if-your-water-heater-s-busted-1849949148)
-- [Dev.to/JS] [State of ReactJS in 2023?](https://dev.to/raxraj/state-of-reactjs-in-2023-4961)
-- [Dev.to/JS] [32 best JavaScript snippets &lpar;one-liners&rpar; in 2023](https://dev.to/rahxuls/32-best-javascript-snippets-one-liners-in-2023-70k)
 - [Lifehacker] [Why You Might Lose Medicaid Coverage in 2023](https://lifehacker.com/why-you-might-lose-medicaid-coverage-in-2023-1849948935)
 - [Lifehacker] [TikTok Is Wrong About Boiling Air Freshener Wicks](https://lifehacker.com/tiktok-is-wrong-about-boiling-air-freshener-wicks-1849948436)
 - [Lifehacker] [You Can Actually Grow Weed As a Houseplant](https://lifehacker.com/you-can-actually-grow-weed-as-a-houseplant-1849948405)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Mini Beef Wellingtons for Your Fancy Football Party](https://lifehacker.com/make-mini-beef-wellingtons-for-your-fancy-football-part-1849944627)
 - [Lifehacker] [You’ve Been Playing ‘Super Mario Bros.’ Wrong This Whole Time](https://lifehacker.com/you-ve-been-playing-super-mario-bros-wrong-this-whol-1849944297)
 - [Lifehacker] [20 New Podcasts to Add to Your Queue in 2023](https://lifehacker.com/20-new-podcasts-to-add-to-your-queue-in-2023-1849914950)
-- [Lifehacker] [How to Help the New People at the Gym Without Being Condescending](https://lifehacker.com/how-to-help-the-new-people-at-the-gym-without-being-con-1849944396)
-- [Lifehacker] [The Key to Warming Up Your Home’s Frigid Floors Is in the Basement](https://lifehacker.com/the-key-to-warming-up-your-home-s-frigid-floors-is-in-t-1849904576)
-- [Lifehacker] [How to Bring Back the Classic Taskbar on Windows 11](https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317)
-- [Lifehacker] [Why You Should Replace Your Old iPhone’s Battery Right Now](https://lifehacker.com/why-you-should-replace-your-old-iphone-s-battery-right-1849944388)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Help the New People at the Gym Without Being Condescending](https://lifehacker.com/how-to-help-the-new-people-at-the-gym-without-being-con-1849944396)<!-- TECH-POSTS:END -->
 
 ---
 
