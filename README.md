@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useTransition - Web Dev Simplified](https://dev.to/akshdesai1/usetransition-web-dev-simplified-1bn7)
+- [Lifehacker] [This Is Your New Favorite Way to Eat Tinned Fish](https://lifehacker.com/this-is-your-new-favorite-way-to-eat-tinned-fish-1849945786)
+- [Dev.to/JS] [Arrow function explained simply](https://dev.to/sakethkowtha/arrow-function-explained-simply-3ij3)
+- [Dev.to/JS] [About javascript!](https://dev.to/sakethkowtha/about-javascript-42og)
+- [Dev.to/JS] [Tinkering Human Anatomy with SVG](https://dev.to/mahtab/tinkering-human-anatomy-with-svg-2597)
 - [Dev.to/JS] [How to Make Fast Food Website Using HTML CSS JS](https://dev.to/codewithsadee/how-to-make-fast-food-website-using-html-css-js-3iep)
 - [Dev.to/JS] [Regex #1: Understanding Regex, Regex-Based String Methods and Regex Flags](https://dev.to/nandhakumar/regex-1-understanding-regex-regex-based-string-methods-and-regex-flags-533p)
 - [Dev.to/JS] [SCOPE IN JAVASCRIPT](https://dev.to/onwuemene/scope-in-javascript-ejl)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Myself as a Full-Stack Developer and My Interests in Web3, Blockchain, Web Dev, AI, and ML](https://dev.to/abhaysinghr1/introducing-myself-as-a-full-stack-developer-and-my-interests-in-web3-blockchain-web-dev-ai-and-ml-2b91)
 - [Dev.to/JS] [Building a Video Player in React](https://dev.to/documatic/building-a-video-player-in-react-1mlf)
 - [Dev.to/JS] [Fix: No QueryClient set, use QueryClientProvider to set one](https://dev.to/calvin087/fix-no-queryclient-set-use-queryclientprovider-to-set-one-2hlb)
-- [Dev.to/JS] [I Created an OpenSource Portfolio Template for Developers 🚀](https://dev.to/rammcodes/i-created-an-opensource-portfolio-template-for-developers-7m4)
-- [Dev.to/JS] [Connect Your Node.js Project to MySQL Database Locally](https://dev.to/mariamadeyemi/connect-your-nodejs-project-to-mysql-database-locally-3opm)
-- [Dev.to/JS] [Entendendo sobre Callback Hell em JavaScript](https://dev.to/trinitypath/entendendo-sobre-callback-hell-em-javascript-blh)
-- [Dev.to/JS] [Datepicker Bootstrap 5](https://dev.to/atatanasov/bootstrap-5-datepicker-i9c)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
 - [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
 - [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
-- [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)
-- [Lifehacker] [The Easiest Way to Clean Cooking Grease](https://lifehacker.com/the-easiest-way-to-clean-cooking-grease-1849940135)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)<!-- TECH-POSTS:END -->
 
 ---
 
