@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [TikTok Is Wrong About Boiling Air Freshener Wicks](https://lifehacker.com/tiktok-is-wrong-about-boiling-air-freshener-wicks-1849948436)
+- [Dev.to/JS] [Calculator](https://dev.to/katongole_isaac/calculator-18f7)
+- [Dev.to/JS] [Exploring Anime.js with an example site animation project](https://dev.to/logrocket/exploring-animejs-with-an-example-site-animation-project-fb8)
+- [Lifehacker] [You Can Actually Grow Weed As a Houseplant](https://lifehacker.com/you-can-actually-grow-weed-as-a-houseplant-1849948405)
+- [Dev.to/JS] [zoetic-xumm, A template xApp for XRP and xumm](https://dev.to/claytantor/zoetic-xumm-a-template-xapp-for-xrp-and-xumm-1g71)
+- [Dev.to/JS] [useDeferredValue&lpar;&rpar; Hook - web dev simplified](https://dev.to/akshdesai1/usedeferredvalue-hook-web-dev-simplified-4del)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
 - [Dev.to/JS] [How To Learn React in 2023](https://dev.to/webdevhero-com/how-to-learn-react-in-2023-3kef)
 - [Dev.to/JS] [This Week In React #130: Next.js, callback ref, Zod, Redux, React-Hook-Form, Redux, mdxjs-rs, Tamagui, Skia, Shopify, Solid...](https://dev.to/sebastienlorber/this-week-in-react-130-nextjs-callback-ref-zod-redux-react-hook-form-redux-mdxjs-rs-tamagui-skia-shopify-solid-3cli)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useTransition - Web Dev Simplified](https://dev.to/akshdesai1/usetransition-web-dev-simplified-1bn7)
 - [Lifehacker] [This Is Your New Favorite Way to Eat Tinned Fish](https://lifehacker.com/this-is-your-new-favorite-way-to-eat-tinned-fish-1849945786)
 - [Dev.to/JS] [Arrow function explained simply](https://dev.to/sakethkowtha/arrow-function-explained-simply-3ij3)
-- [Dev.to/JS] [About javascript!](https://dev.to/sakethkowtha/about-javascript-42og)
-- [Dev.to/JS] [Tinkering Human Anatomy with SVG](https://dev.to/mahtab/tinkering-human-anatomy-with-svg-2597)
-- [Dev.to/JS] [How to Make Fast Food Website Using HTML CSS JS](https://dev.to/codewithsadee/how-to-make-fast-food-website-using-html-css-js-3iep)
-- [Dev.to/JS] [Regex #1: Understanding Regex, Regex-Based String Methods and Regex Flags](https://dev.to/nandhakumar/regex-1-understanding-regex-regex-based-string-methods-and-regex-flags-533p)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Celebrities Your Kids Love but You’ve Never Heard Of](https://lifehacker.com/12-celebrities-your-kids-love-but-you-ve-never-heard-of-1849925330)
 - [Lifehacker] [10 of the Best Apps to Track Every New Year&#39;s Resolution](https://lifehacker.com/10-of-the-best-apps-to-track-every-new-years-resolution-1849922019)
 - [Lifehacker] [Actually, You Should Try a Bladeless Ceiling Fan](https://lifehacker.com/actually-you-should-try-a-bladeless-ceiling-fan-1849893069)
-- [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
-- [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
-- [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)<!-- TECH-POSTS:END -->
 
 ---
 
