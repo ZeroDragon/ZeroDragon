@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with NodeJs and Express &lpar;Backend development&rpar;](https://dev.to/haltim/getting-started-with-nodejs-and-express-backend-development-4iaj)
 - [Dev.to/JS] [How to use States and Props like a Pro in React](https://dev.to/haltim/how-to-use-states-and-props-like-a-pro-in-react-21im)
 - [Dev.to/JS] [JS Video Player](https://dev.to/smackdh/js-video-player-37m1)
 - [Dev.to/JS] [How Does One Transition From Basic Front End Development to Intermediate?](https://dev.to/arbrazil/how-does-one-transition-from-basic-front-end-development-to-intermediate-4h7g)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Skills you need to become a successful Software Engineer](https://dev.to/nuraddeenmisah1/skills-you-need-to-become-a-successful-software-engineer-4fg4)
 - [Lifehacker] [How to Choose Art for Your Home When You Know Nothing About Art](https://lifehacker.com/how-to-choose-art-for-your-home-when-you-know-nothing-a-1849912711)
 - [Crazy Programmer] [Ken Thompson Biography](https://www.thecrazyprogrammer.com/2023/01/ken-thompson-biography.html)
-- [Dev.to/JS] [Add Some Whiskers to Your Website with the Cat Facts API](https://dev.to/tech-dev-blog/add-some-whiskers-to-your-website-with-the-cat-facts-api-4mak)
 - [Lifehacker] [Make Mini Beef Wellingtons for Your Fancy Football Party](https://lifehacker.com/make-mini-beef-wellingtons-for-your-fancy-football-part-1849944627)
 - [Lifehacker] [You’ve Been Playing ‘Super Mario Bros.’ Wrong This Whole Time](https://lifehacker.com/you-ve-been-playing-super-mario-bros-wrong-this-whol-1849944297)
 - [Lifehacker] [20 New Podcasts to Add to Your Queue in 2023](https://lifehacker.com/20-new-podcasts-to-add-to-your-queue-in-2023-1849914950)
