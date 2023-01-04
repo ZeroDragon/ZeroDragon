@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
+- [Dev.to/JS] [How To Learn React in 2023](https://dev.to/webdevhero-com/how-to-learn-react-in-2023-3kef)
+- [Dev.to/JS] [This Week In React #130: Next.js, callback ref, Zod, Redux, React-Hook-Form, Redux, mdxjs-rs, Tamagui, Skia, Shopify, Solid...](https://dev.to/sebastienlorber/this-week-in-react-130-nextjs-callback-ref-zod-redux-react-hook-form-redux-mdxjs-rs-tamagui-skia-shopify-solid-3cli)
+- [Dev.to/JS] [Integration testing Passwordless authentication with Playwright](https://dev.to/perfect7m/integration-testing-passwordless-authentication-with-playwright-2k6c)
+- [Lifehacker] [All the New Federal and State Laws You Should Know About in 2023](https://lifehacker.com/all-the-new-federal-and-state-laws-you-should-know-abou-1849947186)
+- [Dev.to/JS] [2022 Rewind feat. StackOverflow Dev Survey](https://dev.to/arjuncodess/2022-rewind-feat-stackoverflow-dev-survey-1i8j)
 - [Lifehacker] [When to Use Chocolate Chips, Chunks, and Shavings](https://lifehacker.com/when-to-use-chocolate-chips-chunks-and-shavings-1849946405)
 - [Dev.to/JS] [Building a Custom YAML Loader for Webpack](https://dev.to/redbit/building-a-custom-yaml-loader-for-webpack-45b3)
 - [Dev.to/JS] [How &quot;this&quot; Works](https://dev.to/dnelson35/how-this-works-2bj3)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tinkering Human Anatomy with SVG](https://dev.to/mahtab/tinkering-human-anatomy-with-svg-2597)
 - [Dev.to/JS] [How to Make Fast Food Website Using HTML CSS JS](https://dev.to/codewithsadee/how-to-make-fast-food-website-using-html-css-js-3iep)
 - [Dev.to/JS] [Regex #1: Understanding Regex, Regex-Based String Methods and Regex Flags](https://dev.to/nandhakumar/regex-1-understanding-regex-regex-based-string-methods-and-regex-flags-533p)
-- [Dev.to/JS] [SCOPE IN JAVASCRIPT](https://dev.to/onwuemene/scope-in-javascript-ejl)
-- [Dev.to/JS] [How to pass parameters to useQuery using Axios](https://dev.to/calvin087/how-to-pass-parameters-to-usequery-using-axios-62a)
-- [Dev.to/JS] [Best Programming Languages to Learn for Web Development in 2023](https://dev.to/jigar_online/best-programming-languages-to-learn-for-web-development-in-2023-48c3)
-- [Dev.to/JS] [Introducing Myself as a Full-Stack Developer and My Interests in Web3, Blockchain, Web Dev, AI, and ML](https://dev.to/abhaysinghr1/introducing-myself-as-a-full-stack-developer-and-my-interests-in-web3-blockchain-web-dev-ai-and-ml-2b91)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Actually, You Should Try a Bladeless Ceiling Fan](https://lifehacker.com/actually-you-should-try-a-bladeless-ceiling-fan-1849893069)
 - [Lifehacker] [How to Remove Rust From Stainless Steel Appliances](https://lifehacker.com/how-to-remove-rust-from-stainless-steel-appliances-1849940370)
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
-- [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
-- [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
-- [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)<!-- TECH-POSTS:END -->
 
 ---
 
