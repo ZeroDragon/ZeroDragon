@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is TS simply another excuse not to write test in JS?](https://dev.to/decker67/is-ts-simply-another-excuse-not-to-write-test-in-js-5ca0)
+- [Dev.to/JS] [Introduction to NodeJS &lpar;Day 2/30&rpar;](https://dev.to/efkumah/introduction-to-nodejs-day-230-3l00)
+- [Lifehacker] [The Secret Way to Restart Your iPhone](https://lifehacker.com/the-secret-way-to-restart-your-iphone-1849950169)
 - [Lifehacker] [Google Chrome Is About to Be Problem on Your Parents’ PC](https://lifehacker.com/google-chrome-is-about-to-be-problem-on-your-parents-p-1849949009)
 - [Dev.to/JS] [Gluon - A new Electron-like framework but with a new approach](https://dev.to/canadahonk/gluon-a-new-electron-like-framework-but-with-a-new-approach-5ejl)
 - [Lifehacker] [How to Pick a Bagged Salad That Is Actually Good](https://lifehacker.com/how-to-pick-a-bagged-salad-that-is-actually-good-1849949525)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State of ReactJS in 2023?](https://dev.to/raxraj/state-of-reactjs-in-2023-4961)
 - [Dev.to/JS] [32 best JavaScript snippets &lpar;one-liners&rpar; in 2023](https://dev.to/rahxuls/32-best-javascript-snippets-one-liners-in-2023-70k)
 - [Lifehacker] [Why You Might Lose Medicaid Coverage in 2023](https://lifehacker.com/why-you-might-lose-medicaid-coverage-in-2023-1849948935)
-- [Dev.to/JS] [3. JS challenge - a running sum](https://dev.to/zuzexx/3-js-challenge-a-running-sum-mje)
 - [Lifehacker] [TikTok Is Wrong About Boiling Air Freshener Wicks](https://lifehacker.com/tiktok-is-wrong-about-boiling-air-freshener-wicks-1849948436)
-- [Dev.to/JS] [Calculator](https://dev.to/katongole_isaac/calculator-18f7)
 - [Lifehacker] [You Can Actually Grow Weed As a Houseplant](https://lifehacker.com/you-can-actually-grow-weed-as-a-houseplant-1849948405)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
 - [Lifehacker] [All the New Federal and State Laws You Should Know About in 2023](https://lifehacker.com/all-the-new-federal-and-state-laws-you-should-know-abou-1849947186)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Help the New People at the Gym Without Being Condescending](https://lifehacker.com/how-to-help-the-new-people-at-the-gym-without-being-con-1849944396)
 - [Lifehacker] [The Key to Warming Up Your Home’s Frigid Floors Is in the Basement](https://lifehacker.com/the-key-to-warming-up-your-home-s-frigid-floors-is-in-t-1849904576)
 - [Lifehacker] [How to Bring Back the Classic Taskbar on Windows 11](https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317)
-- [Lifehacker] [Why You Should Replace Your Old iPhone’s Battery Right Now](https://lifehacker.com/why-you-should-replace-your-old-iphone-s-battery-right-1849944388)
-- [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Replace Your Old iPhone’s Battery Right Now](https://lifehacker.com/why-you-should-replace-your-old-iphone-s-battery-right-1849944388)<!-- TECH-POSTS:END -->
 
 ---
 
