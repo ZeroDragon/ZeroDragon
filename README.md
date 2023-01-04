@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Use Chocolate Chips, Chunks, and Shavings](https://lifehacker.com/when-to-use-chocolate-chips-chunks-and-shavings-1849946405)
+- [Dev.to/JS] [Building a Custom YAML Loader for Webpack](https://dev.to/redbit/building-a-custom-yaml-loader-for-webpack-45b3)
+- [Dev.to/JS] [How &quot;this&quot; Works](https://dev.to/dnelson35/how-this-works-2bj3)
+- [Lifehacker] [11 Ways to Actually Eat Healthier in the New Year](https://lifehacker.com/11-ways-to-actually-eat-healthier-in-the-new-year-1849946165)
 - [Dev.to/JS] [useTransition - Web Dev Simplified](https://dev.to/akshdesai1/usetransition-web-dev-simplified-1bn7)
 - [Lifehacker] [This Is Your New Favorite Way to Eat Tinned Fish](https://lifehacker.com/this-is-your-new-favorite-way-to-eat-tinned-fish-1849945786)
 - [Dev.to/JS] [Arrow function explained simply](https://dev.to/sakethkowtha/arrow-function-explained-simply-3ij3)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to pass parameters to useQuery using Axios](https://dev.to/calvin087/how-to-pass-parameters-to-usequery-using-axios-62a)
 - [Dev.to/JS] [Best Programming Languages to Learn for Web Development in 2023](https://dev.to/jigar_online/best-programming-languages-to-learn-for-web-development-in-2023-48c3)
 - [Dev.to/JS] [Introducing Myself as a Full-Stack Developer and My Interests in Web3, Blockchain, Web Dev, AI, and ML](https://dev.to/abhaysinghr1/introducing-myself-as-a-full-stack-developer-and-my-interests-in-web3-blockchain-web-dev-ai-and-ml-2b91)
-- [Dev.to/JS] [Building a Video Player in React](https://dev.to/documatic/building-a-video-player-in-react-1mlf)
-- [Dev.to/JS] [Fix: No QueryClient set, use QueryClientProvider to set one](https://dev.to/calvin087/fix-no-queryclient-set-use-queryclientprovider-to-set-one-2hlb)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Always Add These Skills to Your Résumé, If You Can](https://lifehacker.com/always-add-these-skills-to-your-resume-if-you-can-1849940373)
 - [Lifehacker] [How to Calibrate Your Oven&#39;s Temperature](https://lifehacker.com/how-to-calibrate-your-ovens-temperature-1849940378)
 - [Lifehacker] [Stop Making Your Bed So Accessible to Spiders](https://lifehacker.com/stop-making-your-bed-so-accessible-to-spiders-1849940335)
-- [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)
-- [Lifehacker] [Avoid These Mistakes When Running a Generator](https://lifehacker.com/avoid-these-mistakes-when-running-a-generator-1849940340)
-- [Lifehacker] [&#39;Koselig&#39; Isn&#39;t the Same as &#39;Hygge&#39;](https://lifehacker.com/koselig-isnt-the-same-as-hygge-1849940133)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Claim Part of Avis and Budget&#39;s $45 Million Rental Car Settlement](https://lifehacker.com/you-should-claim-part-of-avis-and-budgets-45-million-r-1849940337)<!-- TECH-POSTS:END -->
 
 ---
 
