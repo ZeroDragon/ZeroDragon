@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Run Cypress Tests In Azure DevOps Pipeline](https://dev.to/lambdatest/how-to-run-cypress-tests-in-azure-devops-pipeline-4m09)
+- [Dev.to/JS] [What are the Recent Techniques to Build a Website?](https://dev.to/uplogictech/what-are-the-recent-techniques-to-build-a-website-23ff)
+- [Dev.to/JS] [How to trigger useQuery with a button click - React Query](https://dev.to/calvin087/how-to-trigger-usequery-with-a-button-click-react-query-4en)
+- [Dev.to/JS] [Top 10+ Best React Native UI Components for Mobile App Development](https://dev.to/flatlogic/top-10-best-react-native-ui-components-for-mobile-app-development-4nn5)
 - [Dev.to/JS] [How to use Redux for State Management in your React application](https://dev.to/iyaremeyo/how-to-use-redux-for-state-management-in-your-react-application-1le8)
 - [Dev.to/JS] [Beginner knowledge | how website works?](https://dev.to/mdirfan/beginner-knowledge-how-website-works-4gb3)
 - [Dev.to/JS] [How to create custom Decorator for Circuit Breaker in Typescript/Javascript Applications](https://dev.to/architectak/how-to-create-custom-decorator-for-circuit-breaker-in-typescriptjavascript-applications-186k)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fake Data API](https://dev.to/devsimc/fake-data-api-5ghp)
 - [Dev.to/JS] [Become a JavaScript Pro with These Top Lodash Tips](https://dev.to/tech-dev-blog/become-a-javascript-pro-with-these-top-lodash-tips-1cj)
 - [Dev.to/JS] [Prestige Park Grove Modern Apartments](https://dev.to/prestigeparkgrovesale/prestige-park-grove-modern-apartments-35ij)
-- [Dev.to/JS] [forEach, a JavaScript Iterator](https://dev.to/michellebuchiokonicha/javascript-higher-order-function-3jeh)
-- [Dev.to/JS] [Website Change Monitoring](https://dev.to/oxylabs-io/website-change-monitoring-3jm9)
-- [Dev.to/JS] [10 Best JavaScript Projects for Beginners [With Source Code]](https://dev.to/backlinkss/10-best-javascript-projects-for-beginners-with-source-code-3d34)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Variable Declarations in JavaScript: When to Use const, let, and var](https://dev.to/mohsenkamrani/a-beginners-guide-to-variable-declarations-in-javascript-when-to-use-const-let-and-var-2eoj)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
