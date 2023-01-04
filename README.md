@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Spinach and Artichoke Dip With Three Ingredients and a Microwave](https://lifehacker.com/make-this-spinach-and-artichoke-dip-with-three-ingredie-1849949518)
+- [Dev.to/JS] [Dicas sobre Javascript que podem ajudar:](https://dev.to/altencirsilvajr/dicas-sobre-javascript-que-podem-ajudar-1a0i)
+- [Dev.to/JS] [Open-Closed Principle In React](https://dev.to/zahidhasan24/open-closed-principle-in-react-j2)
+- [Dev.to/JS] [How to make Google&#39;s &quot;Report issue&quot; feedback form](https://dev.to/colonelparrot/how-to-make-googles-report-issue-feedback-form-5h71)
+- [Lifehacker] [What the ‘Mediterranean Diet’ Is, and How to Actually Follow It](https://lifehacker.com/wtf-even-is-the-mediterranean-diet-1849948645)
+- [Dev.to/JS] [Create an Easy Slider for an E-commerce Dashboard With Swiper.js](https://dev.to/get_pieces/create-an-easy-slider-for-an-e-commerce-dashboard-with-swiperjs-383l)
+- [Lifehacker] [How to Take a Hot Shower If Your Water Heater’s Busted](https://lifehacker.com/how-to-take-a-hot-shower-if-your-water-heater-s-busted-1849949148)
 - [Dev.to/JS] [State of ReactJS in 2023?](https://dev.to/raxraj/state-of-reactjs-in-2023-4961)
 - [Dev.to/JS] [32 best JavaScript snippets &lpar;one-liners&rpar; in 2023](https://dev.to/rahxuls/32-best-javascript-snippets-one-liners-in-2023-70k)
 - [Lifehacker] [Why You Might Lose Medicaid Coverage in 2023](https://lifehacker.com/why-you-might-lose-medicaid-coverage-in-2023-1849948935)
@@ -35,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useDeferredValue&lpar;&rpar; Hook - web dev simplified](https://dev.to/akshdesai1/usedeferredvalue-hook-web-dev-simplified-4del)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
 - [Dev.to/JS] [How To Learn React in 2023](https://dev.to/webdevhero-com/how-to-learn-react-in-2023-3kef)
-- [Dev.to/JS] [This Week In React #130: Next.js, callback ref, Zod, Redux, React-Hook-Form, Redux, mdxjs-rs, Tamagui, Skia, Shopify, Solid...](https://dev.to/sebastienlorber/this-week-in-react-130-nextjs-callback-ref-zod-redux-react-hook-form-redux-mdxjs-rs-tamagui-skia-shopify-solid-3cli)
-- [Dev.to/JS] [Integration testing Passwordless authentication with Playwright](https://dev.to/perfect7m/integration-testing-passwordless-authentication-with-playwright-2k6c)
 - [Lifehacker] [All the New Federal and State Laws You Should Know About in 2023](https://lifehacker.com/all-the-new-federal-and-state-laws-you-should-know-abou-1849947186)
-- [Dev.to/JS] [2022 Rewind feat. StackOverflow Dev Survey](https://dev.to/arjuncodess/2022-rewind-feat-stackoverflow-dev-survey-1i8j)
 - [Lifehacker] [When to Use Chocolate Chips, Chunks, and Shavings](https://lifehacker.com/when-to-use-chocolate-chips-chunks-and-shavings-1849946405)
-- [Dev.to/JS] [Building a Custom YAML Loader for Webpack](https://dev.to/redbit/building-a-custom-yaml-loader-for-webpack-45b3)
 - [Lifehacker] [11 Ways to Actually Eat Healthier in the New Year](https://lifehacker.com/11-ways-to-actually-eat-healthier-in-the-new-year-1849946165)
 - [Lifehacker] [This Is Your New Favorite Way to Eat Tinned Fish](https://lifehacker.com/this-is-your-new-favorite-way-to-eat-tinned-fish-1849945786)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Actually Can Repel Dust](https://lifehacker.com/you-actually-can-repel-dust-1849944393)
 - [Lifehacker] [17 Types of Bed Frames &lpar;and Which One Is Best for You&rpar;](https://lifehacker.com/17-types-of-bed-frames-and-which-one-is-best-for-you-1849773417)
 - [Lifehacker] [18 of the Wildest Stunts in Movie History](https://lifehacker.com/18-of-the-wildest-stunts-in-movie-history-1849931236)
-- [Lifehacker] [12 Private Islands You Can Rent Without Being Rich](https://lifehacker.com/12-private-islands-you-can-rent-without-being-rich-1849705088)
-- [Lifehacker] [12 Celebrities Your Kids Love but You’ve Never Heard Of](https://lifehacker.com/12-celebrities-your-kids-love-but-you-ve-never-heard-of-1849925330)
-- [Lifehacker] [10 of the Best Apps to Track Every New Year&#39;s Resolution](https://lifehacker.com/10-of-the-best-apps-to-track-every-new-years-resolution-1849922019)
-- [Lifehacker] [Actually, You Should Try a Bladeless Ceiling Fan](https://lifehacker.com/actually-you-should-try-a-bladeless-ceiling-fan-1849893069)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Private Islands You Can Rent Without Being Rich](https://lifehacker.com/12-private-islands-you-can-rent-without-being-rich-1849705088)<!-- TECH-POSTS:END -->
 
 ---
 
