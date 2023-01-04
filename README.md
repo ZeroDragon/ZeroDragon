@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How To Run Cypress Tests In Azure DevOps Pipeline](https://dev.to/lambdatest/how-to-run-cypress-tests-in-azure-devops-pipeline-4m09)
+- [Dev.to/JS] [Connect Your Node.js Project to MySQL Database Locally](https://dev.to/mariamadeyemi/connect-your-nodejs-project-to-mysql-database-locally-3opm)
+- [Dev.to/JS] [Entendendo sobre Callback Hell em JavaScript](https://dev.to/trinitypath/entendendo-sobre-callback-hell-em-javascript-blh)
+- [Dev.to/JS] [Datepicker Bootstrap 5](https://dev.to/atatanasov/bootstrap-5-datepicker-i9c)
+- [Dev.to/JS] [So, why Server Components?](https://dev.to/jankoritak/so-why-server-components-2nk3)
+- [Dev.to/JS] [How To Use Annotations In Cucumber Framework [Tutorial]](https://dev.to/lambdatest/how-to-use-annotations-in-cucumber-framework-tutorial-4l4g)
 - [Dev.to/JS] [What are the Recent Techniques to Build a Website?](https://dev.to/uplogictech/what-are-the-recent-techniques-to-build-a-website-23ff)
 - [Dev.to/JS] [How to trigger useQuery with a button click - React Query](https://dev.to/calvin087/how-to-trigger-usequery-with-a-button-click-react-query-4en)
 - [Dev.to/JS] [Top 10+ Best React Native UI Components for Mobile App Development](https://dev.to/flatlogic/top-10-best-react-native-ui-components-for-mobile-app-development-4nn5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner knowledge | how website works?](https://dev.to/mdirfan/beginner-knowledge-how-website-works-4gb3)
 - [Dev.to/JS] [How to create custom Decorator for Circuit Breaker in Typescript/Javascript Applications](https://dev.to/architectak/how-to-create-custom-decorator-for-circuit-breaker-in-typescriptjavascript-applications-186k)
 - [Dev.to/JS] [Creating An Auth System In NodeJS](https://dev.to/kalashin1/creating-an-auth-system-in-nodejs-1ke0)
-- [Dev.to/JS] [How JavaScript Works?](https://dev.to/sadiqshah786/how-javascript-works-4pjk)
-- [Dev.to/JS] [Fake Data API](https://dev.to/devsimc/fake-data-api-5ghp)
-- [Dev.to/JS] [Become a JavaScript Pro with These Top Lodash Tips](https://dev.to/tech-dev-blog/become-a-javascript-pro-with-these-top-lodash-tips-1cj)
-- [Dev.to/JS] [Prestige Park Grove Modern Apartments](https://dev.to/prestigeparkgrovesale/prestige-park-grove-modern-apartments-35ij)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
