@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)
+- [Dev.to/JS] [How to create a Steps Progress Bar](https://dev.to/jolamemushaj/how-to-create-a-steps-progress-bar-4m2b)
+- [Dev.to/JS] [Journeying into frontend development](https://dev.to/oluwatrillions/journeying-into-frontend-development-14m4)
 - [Dev.to/JS] [Mind-Blowing CSS Tips and Tricks](https://dev.to/raghavmri/mind-blowing-css-tips-and-tricks-3hgh)
 - [Dev.to/JS] [My logging strategy for Express](https://dev.to/elmatella/my-logging-strategy-for-express-1mk8)
 - [Dev.to/JS] [Layouts with Nuxt 3](https://dev.to/guillaumeduhan/layouts-with-nuxt-3-2g2f)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hook Form: Multiple Yup validation schemas](https://dev.to/feijens/react-hook-form-multiple-yup-validation-schemas-5a22)
 - [Dev.to/JS] [how to stop Multiple rerendering of console.log in react project](https://dev.to/vkspatil/muliple-rerendering-of-consolelog-in-react-project-h3m)
 - [Dev.to/JS] [Asynchronous and synchronous JavaScript Basics!](https://dev.to/darkxenium/asynchronous-and-synchronous-javascript-basics-40d1)
-- [Dev.to/JS] [Building Secure Applications with JavaScript and Typescript Security Best Practices](https://dev.to/kalashin1/building-secure-applications-with-javascript-and-typescript-security-best-practices-59d2)
-- [Dev.to/JS] [How increase your productivity as a developer in 2023](https://dev.to/thalhatou/how-increase-your-productivity-as-a-developer-in-2023-1ad4)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Ken Thompson Biography](https://www.thecrazyprogrammer.com/2023/01/ken-thompson-biography.html)
 - [Lifehacker] [Make Mini Beef Wellingtons for Your Fancy Football Party](https://lifehacker.com/make-mini-beef-wellingtons-for-your-fancy-football-part-1849944627)
 - [Lifehacker] [You’ve Been Playing ‘Super Mario Bros.’ Wrong This Whole Time](https://lifehacker.com/you-ve-been-playing-super-mario-bros-wrong-this-whol-1849944297)
-- [Lifehacker] [20 New Podcasts to Add to Your Queue in 2023](https://lifehacker.com/20-new-podcasts-to-add-to-your-queue-in-2023-1849914950)
-- [Lifehacker] [How to Help the New People at the Gym Without Being Condescending](https://lifehacker.com/how-to-help-the-new-people-at-the-gym-without-being-con-1849944396)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 New Podcasts to Add to Your Queue in 2023](https://lifehacker.com/20-new-podcasts-to-add-to-your-queue-in-2023-1849914950)<!-- TECH-POSTS:END -->
 
 ---
 
