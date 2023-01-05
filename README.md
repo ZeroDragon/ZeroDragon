@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First post, lets see where this goes.](https://dev.to/taptapyap/first-post-lets-see-where-this-goes-429o)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Javascript Promises - A Blog Post Written By ChatGPT](https://dev.to/camskithedev/a-beginners-guide-to-javascript-promises-a-blog-post-written-by-chatgpt-3p6a)
+- [Dev.to/JS] [For...in Loops...demystified!](https://dev.to/greenteaisgreat/forin-loopsdemystified-446l)
+- [Dev.to/JS] [Using vue-clickaway for your dropdowns](https://dev.to/ayoazeez26/using-vue-clickaway-for-your-dropdowns-3lkb)
+- [Dev.to/JS] [Build a GPT3-powered Shopify app that generates product descriptions &lpar;15 min tutorial&rpar;](https://dev.to/ralfelfving/build-a-gpt3-powered-shopify-app-that-generates-product-descriptions-1b94)
 - [Dev.to/JS] [To-Do List Application with Tailwind CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/to-do-list-application-with-tailwind-css-and-javascript-88g)
 - [Dev.to/JS] [I asked ChatGPT to build a calculator](https://dev.to/mfahadiqbal/i-asked-chatgpt-to-build-a-calculator-505)
 - [Dev.to/JS] [18 Reasons to Use TypeScript Since Yesterday.](https://dev.to/louisgv/18-reasons-to-use-typescript-since-yesterday-42ci)
@@ -32,15 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Dev.to/JS] [Welcome!](https://dev.to/mataoseeker/welcome-3f3o)
 - [Dev.to/JS] [A dive into JavaScript](https://dev.to/oluwatrillions/a-dive-into-javascript-455k)
-- [Dev.to/JS] [What is Asynchronous JavaScript?](https://dev.to/documatic/what-is-asynchronous-javascript-4k4n)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
-- [Dev.to/JS] [Is TS simply another excuse not to write test in JS?](https://dev.to/decker67/is-ts-simply-another-excuse-not-to-write-test-in-js-5ca0)
-- [Dev.to/JS] [Introduction to NodeJS &lpar;Day 2/30&rpar;](https://dev.to/efkumah/introduction-to-nodejs-day-230-3l00)
 - [Lifehacker] [The Secret Way to Restart Your iPhone](https://lifehacker.com/the-secret-way-to-restart-your-iphone-1849950169)
 - [Lifehacker] [Google Chrome Is About to Be Problem on Your Parents’ PC](https://lifehacker.com/google-chrome-is-about-to-be-problem-on-your-parents-p-1849949009)
-- [Dev.to/JS] [Gluon - A new Electron-like framework but with a new approach](https://dev.to/canadahonk/gluon-a-new-electron-like-framework-but-with-a-new-approach-5ejl)
 - [Lifehacker] [How to Pick a Bagged Salad That Is Actually Good](https://lifehacker.com/how-to-pick-a-bagged-salad-that-is-actually-good-1849949525)
-- [Dev.to/JS] [Build a custom video chat with ReactJS and ApiRTC](https://dev.to/rvailleux/build-a-custom-video-chat-with-reactjs-and-apirtc-4j5h)
 - [Lifehacker] [Burger King Wants to Give You Free Fries for Six Months](https://lifehacker.com/burger-king-wants-to-give-you-free-fries-for-six-months-1849949487)
 - [Lifehacker] [Make This Spinach and Artichoke Dip With Three Ingredients and a Microwave](https://lifehacker.com/make-this-spinach-and-artichoke-dip-with-three-ingredie-1849949518)
 - [Lifehacker] [What the ‘Mediterranean Diet’ Is, and How to Actually Follow It](https://lifehacker.com/wtf-even-is-the-mediterranean-diet-1849948645)
