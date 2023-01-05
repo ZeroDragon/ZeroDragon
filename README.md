@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modal Box](https://dev.to/calebmccoy04/modal-box-19l)
+- [Dev.to/JS] [MERN Interview Questions asked to me in Various Interviews.](https://dev.to/viveksinra/mern-interview-questions-asked-to-me-in-various-interviews-2c8j)
+- [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)
+- [Dev.to/JS] [How to debug JavaScript like a pro?](https://dev.to/pulkitsingh/how-to-debug-javascript-like-a-pro-1ph2)
+- [Lifehacker] [Use This App to Control External Displays From Your Mac](https://lifehacker.com/use-this-app-to-control-external-displays-from-your-mac-1849952583)
 - [Dev.to/JS] [Day 4 / #100DaysOfCode](https://dev.to/tinkersdev/day-4-100daysofcode-3cm2)
 - [Dev.to/JS] [React JS Training in Hyderabad with 100% Placement Assistance](https://dev.to/reactgeeks_/react-js-training-in-hyderabad-with-100-placement-assistance-4i3e)
 - [Lifehacker] [Start Growing These Seeds Indoors Now for Spring Planting](https://lifehacker.com/start-growing-these-seeds-indoors-now-for-spring-planti-1849951942)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing CSS style inheritance in React Native](https://dev.to/builderio/implementing-css-style-inheritance-in-react-native-5abd)
 - [Dev.to/JS] [GraphQL errors: the Good, the Bad and the Ugly](https://dev.to/escape/graphql-errors-the-good-the-bad-and-the-ugly-2ah0)
 - [Lifehacker] [The 7 Best Weather Apps to Replace Dark Sky on iPhone and Android](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
-- [Dev.to/JS] [Configure Angular environment injector with Standalone Component](https://dev.to/mchoraine/configure-angular-environment-injector-with-standalone-component-3ncl)
-- [Dev.to/JS] [Selenium Java Interview Questions and Answers || That Every QA should Know - Part 2](https://dev.to/promode/selenium-java-interview-questions-and-answers-that-every-qa-should-know-part-2-14gc)
-- [Dev.to/JS] [Astro? Let&#39;s try it](https://dev.to/mirkosaugo/astro-lets-try-it-23m2)
 - [Lifehacker] [Don&#39;t Dry Your Bed Sheets All the Way](https://lifehacker.com/dont-dry-your-bed-sheets-all-the-way-1849949255)
 - [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Ways to Actually Eat Healthier in the New Year](https://lifehacker.com/11-ways-to-actually-eat-healthier-in-the-new-year-1849946165)
 - [Lifehacker] [This Is Your New Favorite Way to Eat Tinned Fish](https://lifehacker.com/this-is-your-new-favorite-way-to-eat-tinned-fish-1849945786)
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
-- [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
-- [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
-- [Lifehacker] [Winterize Your Panzanella](https://lifehacker.com/winterize-your-panzanella-1849945154)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)<!-- TECH-POSTS:END -->
 
 ---
 
