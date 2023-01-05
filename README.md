@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [To-Do List Application with Tailwind CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/to-do-list-application-with-tailwind-css-and-javascript-88g)
+- [Dev.to/JS] [I asked ChatGPT to build a calculator](https://dev.to/mfahadiqbal/i-asked-chatgpt-to-build-a-calculator-505)
+- [Dev.to/JS] [18 Reasons to Use TypeScript Since Yesterday.](https://dev.to/louisgv/18-reasons-to-use-typescript-since-yesterday-42ci)
+- [Dev.to/JS] [Using React without JSX == no build](https://dev.to/dperrymorrow/using-react-without-jsx-no-build-14gg)
+- [Dev.to/JS] [Please don&#39;t forget to specify your file type](https://dev.to/titlexp/please-dont-forget-to-specify-your-file-type-323n)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Dev.to/JS] [Welcome!](https://dev.to/mataoseeker/welcome-3f3o)
@@ -37,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Pick a Bagged Salad That Is Actually Good](https://lifehacker.com/how-to-pick-a-bagged-salad-that-is-actually-good-1849949525)
 - [Dev.to/JS] [Build a custom video chat with ReactJS and ApiRTC](https://dev.to/rvailleux/build-a-custom-video-chat-with-reactjs-and-apirtc-4j5h)
 - [Lifehacker] [Burger King Wants to Give You Free Fries for Six Months](https://lifehacker.com/burger-king-wants-to-give-you-free-fries-for-six-months-1849949487)
-- [Dev.to/JS] [Regex for lazy developers](https://dev.to/sineni/regex-for-lazy-developers-cg1)
-- [Dev.to/JS] [How to useEffect hook in your React components](https://dev.to/fabienschlegel/how-to-useeffect-hook-in-your-react-components-a00)
 - [Lifehacker] [Make This Spinach and Artichoke Dip With Three Ingredients and a Microwave](https://lifehacker.com/make-this-spinach-and-artichoke-dip-with-three-ingredie-1849949518)
-- [Dev.to/JS] [Dicas sobre Javascript que podem ajudar:](https://dev.to/altencirsilvajr/dicas-sobre-javascript-que-podem-ajudar-1a0i)
-- [Dev.to/JS] [Open-Closed Principle In React](https://dev.to/zahidhasan24/open-closed-principle-in-react-j2)
-- [Dev.to/JS] [How to make Google&#39;s &quot;Report issue&quot; feedback form](https://dev.to/colonelparrot/how-to-make-googles-report-issue-feedback-form-5h71)
 - [Lifehacker] [What the ‘Mediterranean Diet’ Is, and How to Actually Follow It](https://lifehacker.com/wtf-even-is-the-mediterranean-diet-1849948645)
 - [Lifehacker] [How to Take a Hot Shower If Your Water Heater’s Busted](https://lifehacker.com/how-to-take-a-hot-shower-if-your-water-heater-s-busted-1849949148)
 - [Lifehacker] [Why You Might Lose Medicaid Coverage in 2023](https://lifehacker.com/why-you-might-lose-medicaid-coverage-in-2023-1849948935)
