@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Topological sort and why you&#39;re getting cyclic dependency errors](https://dev.to/dawkaka/topological-sort-and-why-youre-getting-cyclic-dependency-errors-20g6)
+- [Dev.to/JS] [I imagined a programming language Silk](https://dev.to/starevan/i-imagined-a-programming-language-silk-24li)
+- [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)
+- [Dev.to/JS] [Send and Receive SMS Messages With Node.js and Express](https://dev.to/mbcrump/send-and-receive-sms-messages-with-nodejs-and-express-46p0)
+- [Dev.to/JS] [My &lpar;frontend&rpar; dev learning journey, part 2: the break and the continuation](https://dev.to/georgem_it/my-frontend-dev-learning-journey-part-2-the-break-and-the-continuation-2ac8)
+- [Dev.to/JS] [Greetings](https://dev.to/gilimted/greetings-2k7m)
 - [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)
+- [Dev.to/JS] [What I Googled Today &lpar;WIGT&rpar; #1](https://dev.to/mariel/what-i-googled-today-wigt-1-3075)
+- [Dev.to/JS] [O que é, e como funciona a sintaxe JSX?](https://dev.to/altencirsilvajr/o-que-e-e-como-funciona-a-sintaxe-jsx-18df)
 - [Dev.to/JS] [Hack to Run React Application inside Service Worker](https://dev.to/jcubic/hack-to-run-react-application-inside-service-worker-4p2f)
 - [Dev.to/JS] [UraniumJS ☢️ - LZ4-compress &amp; BASE92-encode ✔️](https://dev.to/vipert/uraniumjs-lz4-compress-base92-encode-16f1)
 - [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)
@@ -32,16 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modal Box](https://dev.to/calebmccoy04/modal-box-19l)
 - [Dev.to/JS] [MERN Interview Questions asked to me in Various Interviews.](https://dev.to/viveksinra/mern-interview-questions-asked-to-me-in-various-interviews-2c8j)
 - [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)
-- [Dev.to/JS] [How to debug JavaScript like a pro?](https://dev.to/pulkitsingh/how-to-debug-javascript-like-a-pro-1ph2)
 - [Lifehacker] [Use This App to Control External Displays From Your Mac](https://lifehacker.com/use-this-app-to-control-external-displays-from-your-mac-1849952583)
-- [Dev.to/JS] [Day 4 / #100DaysOfCode](https://dev.to/tinkersdev/day-4-100daysofcode-3cm2)
-- [Dev.to/JS] [React JS Training in Hyderabad with 100% Placement Assistance](https://dev.to/reactgeeks_/react-js-training-in-hyderabad-with-100-placement-assistance-4i3e)
 - [Lifehacker] [Start Growing These Seeds Indoors Now for Spring Planting](https://lifehacker.com/start-growing-these-seeds-indoors-now-for-spring-planti-1849951942)
-- [Dev.to/JS] [6 React questions for technical interviews and their answers](https://dev.to/jgamaraalv/6-react-questions-for-technical-interviews-and-their-answers-10p3)
-- [Dev.to/JS] [Need Guidance](https://dev.to/abhii321/need-guidance-4k8l)
 - [Lifehacker] [Turn Leftover Apple Cider Into a Batch of Caramels](https://lifehacker.com/turn-leftover-apple-cider-into-a-batch-of-caramels-1849950632)
-- [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 07 - useMemo⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-07-usememo-cpi)
-- [Dev.to/JS] [You Might Not Need Module Federation: Orchestrate your Microfrontends at Runtime with Import Maps](https://dev.to/zaikivla/you-might-not-need-module-federation-orchestrate-your-microfrontends-at-runtime-with-import-maps-3n82)
 - [Lifehacker] [All the Coolest Stuff Happening in Space in 2023](https://lifehacker.com/all-the-coolest-shit-happening-in-space-in-2023-1849951152)
 - [Lifehacker] [The 7 Best Weather Apps to Replace Dark Sky on iPhone and Android](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
 - [Lifehacker] [Don&#39;t Dry Your Bed Sheets All the Way](https://lifehacker.com/dont-dry-your-bed-sheets-all-the-way-1849949255)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Actually Grow Weed As a Houseplant](https://lifehacker.com/you-can-actually-grow-weed-as-a-houseplant-1849948405)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
 - [Lifehacker] [All the New Federal and State Laws You Should Know About in 2023](https://lifehacker.com/all-the-new-federal-and-state-laws-you-should-know-abou-1849947186)
-- [Lifehacker] [When to Use Chocolate Chips, Chunks, and Shavings](https://lifehacker.com/when-to-use-chocolate-chips-chunks-and-shavings-1849946405)
-- [Lifehacker] [11 Ways to Actually Eat Healthier in the New Year](https://lifehacker.com/11-ways-to-actually-eat-healthier-in-the-new-year-1849946165)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Use Chocolate Chips, Chunks, and Shavings](https://lifehacker.com/when-to-use-chocolate-chips-chunks-and-shavings-1849946405)<!-- TECH-POSTS:END -->
 
 ---
 
