@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Diving into Promises](https://dev.to/ryan_pierce/diving-into-promises-5gjn)
 - [Dev.to/JS] [First post, lets see where this goes.](https://dev.to/taptapyap/first-post-lets-see-where-this-goes-429o)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Javascript Promises - A Blog Post Written By ChatGPT](https://dev.to/camskithedev/a-beginners-guide-to-javascript-promises-a-blog-post-written-by-chatgpt-3p6a)
 - [Dev.to/JS] [For...in Loops...demystified!](https://dev.to/greenteaisgreat/forin-loopsdemystified-446l)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Dev.to/JS] [Welcome!](https://dev.to/mataoseeker/welcome-3f3o)
-- [Dev.to/JS] [A dive into JavaScript](https://dev.to/oluwatrillions/a-dive-into-javascript-455k)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
 - [Lifehacker] [The Secret Way to Restart Your iPhone](https://lifehacker.com/the-secret-way-to-restart-your-iphone-1849950169)
 - [Lifehacker] [Google Chrome Is About to Be Problem on Your Parents’ PC](https://lifehacker.com/google-chrome-is-about-to-be-problem-on-your-parents-p-1849949009)
