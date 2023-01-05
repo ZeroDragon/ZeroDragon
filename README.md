@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scrum Master Training in Chennai](https://dev.to/maansi26/scrum-master-training-in-chennai-2528)
+- [Dev.to/JS] [React Hook Form: Multiple Yup validation schemas](https://dev.to/feijens/react-hook-form-multiple-yup-validation-schemas-5a22)
+- [Dev.to/JS] [how to stop Multiple rerendering of console.log in react project](https://dev.to/vkspatil/muliple-rerendering-of-consolelog-in-react-project-h3m)
 - [Dev.to/JS] [Asynchronous and synchronous JavaScript Basics!](https://dev.to/darkxenium/asynchronous-and-synchronous-javascript-basics-40d1)
 - [Dev.to/JS] [Building Secure Applications with JavaScript and Typescript Security Best Practices](https://dev.to/kalashin1/building-secure-applications-with-javascript-and-typescript-security-best-practices-59d2)
 - [Dev.to/JS] [How increase your productivity as a developer in 2023](https://dev.to/thalhatou/how-increase-your-productivity-as-a-developer-in-2023-1ad4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hi family](https://dev.to/keevinlarsen555/hi-family-4bg4)
 - [Dev.to/JS] [How do I get the data from useQuery in onSuccess callback?](https://dev.to/calvin087/how-do-i-get-the-data-from-usequery-in-onsuccess-callback-1o7k)
 - [Dev.to/JS] [Responsive Sidebar Menu Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/responsive-sidebar-menu-using-html-css-and-javascript-3ahp)
-- [Dev.to/JS] [How to Create Sticky Navbar using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-create-sticky-navbar-using-html-css-and-javascript-10b8)
-- [Dev.to/JS] [How to use Material UI Card Component](https://dev.to/refine/how-to-use-material-ui-card-component-2l2k)
-- [Dev.to/JS] [Building a Node.js Webserver with HTTP Module is super easy!](https://dev.to/dashsaurabh/building-a-nodejs-webserver-with-http-module-is-super-easy-3mj2)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
