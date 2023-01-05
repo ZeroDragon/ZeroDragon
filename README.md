@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mind-Blowing CSS Tips and Tricks](https://dev.to/raghavmri/mind-blowing-css-tips-and-tricks-3hgh)
+- [Dev.to/JS] [My logging strategy for Express](https://dev.to/elmatella/my-logging-strategy-for-express-1mk8)
+- [Dev.to/JS] [Layouts with Nuxt 3](https://dev.to/guillaumeduhan/layouts-with-nuxt-3-2g2f)
 - [Dev.to/JS] [Map x flatMap, entendendo a diferença na prática](https://dev.to/trinitypath/map-x-flatmap-entendendo-a-diferenca-na-pratica-1ded)
 - [Dev.to/JS] [Generate Image From HTML Using Satori and Resvg](https://dev.to/anasrin/generate-image-from-html-using-satori-and-resvg-46j6)
 - [Dev.to/JS] [Building Clock through HTML, CSS, and JS | Build&amp;Learn](https://dev.to/rahxuls/building-clock-through-html-css-and-js-buildlearn-4jcm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asynchronous and synchronous JavaScript Basics!](https://dev.to/darkxenium/asynchronous-and-synchronous-javascript-basics-40d1)
 - [Dev.to/JS] [Building Secure Applications with JavaScript and Typescript Security Best Practices](https://dev.to/kalashin1/building-secure-applications-with-javascript-and-typescript-security-best-practices-59d2)
 - [Dev.to/JS] [How increase your productivity as a developer in 2023](https://dev.to/thalhatou/how-increase-your-productivity-as-a-developer-in-2023-1ad4)
-- [Dev.to/JS] [20 JavaScript: Shorthand Techniques that will save your time](https://dev.to/kalhong90s/top-20-javascript-shorthand-techniques-that-will-save-your-time-1bck)
-- [Dev.to/JS] [How to do copy to clipboard on DuckDuckGo Android programmatically](https://dev.to/ra_jeeves/how-to-do-copy-to-clipboard-on-duckduckgo-android-programmatically-4ch)
-- [Dev.to/JS] [crackers](https://dev.to/fantom_81/crackers-j0g)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
