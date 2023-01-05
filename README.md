@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google Logo](https://dev.to/leandrobarbosafr/google-logo-3kd1)
+- [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
+- [Dev.to/JS] [Uncovering and conquering async bugs: A trick to testing undesired effects](https://dev.to/codecoolture/uncovering-and-conquering-async-bugs-a-trick-to-testing-undesired-effects-4egj)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
 - [Dev.to/JS] [Đăng ký hdbet88 – Nhận Quà Liền Tay 150K](https://dev.to/hdbet88/dang-ky-hdbet88-nhan-qua-lien-tay-150k-4pi1)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Greetings](https://dev.to/gilimted/greetings-2k7m)
 - [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)
 - [Dev.to/JS] [What I Googled Today &lpar;WIGT&rpar; #1](https://dev.to/mariel/what-i-googled-today-wigt-1-3075)
-- [Dev.to/JS] [O que é, e como funciona a sintaxe JSX?](https://dev.to/altencirsilvajr/o-que-e-e-como-funciona-a-sintaxe-jsx-18df)
-- [Dev.to/JS] [Hack to Run React Application inside Service Worker](https://dev.to/jcubic/hack-to-run-react-application-inside-service-worker-4p2f)
 - [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)
 - [Lifehacker] [Three Things You Need in Your First Adult Kitchen](https://lifehacker.com/three-things-you-need-in-your-first-adult-kitchen-1849954362)
 - [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Burger King Wants to Give You Free Fries for Six Months](https://lifehacker.com/burger-king-wants-to-give-you-free-fries-for-six-months-1849949487)
 - [Lifehacker] [Make This Spinach and Artichoke Dip With Three Ingredients and a Microwave](https://lifehacker.com/make-this-spinach-and-artichoke-dip-with-three-ingredie-1849949518)
 - [Lifehacker] [What the ‘Mediterranean Diet’ Is, and How to Actually Follow It](https://lifehacker.com/wtf-even-is-the-mediterranean-diet-1849948645)
-- [Lifehacker] [How to Take a Hot Shower If Your Water Heater’s Busted](https://lifehacker.com/how-to-take-a-hot-shower-if-your-water-heater-s-busted-1849949148)
-- [Lifehacker] [Why You Might Lose Medicaid Coverage in 2023](https://lifehacker.com/why-you-might-lose-medicaid-coverage-in-2023-1849948935)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Take a Hot Shower If Your Water Heater’s Busted](https://lifehacker.com/how-to-take-a-hot-shower-if-your-water-heater-s-busted-1849949148)<!-- TECH-POSTS:END -->
 
 ---
 
