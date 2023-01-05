@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Minimum Number of Arrows to Burst Balloons](https://dev.to/zeeshanali0704/minimum-number-of-arrows-to-burst-balloons-1130)
+- [Dev.to/JS] [Handling Network Status in Your React App](https://dev.to/thelamina/handling-network-status-in-your-react-app-4222)
 - [Dev.to/JS] [Leetcode question 58 Lenght of Last Word js solution](https://dev.to/bhendi/leetcode-question-58-lenght-of-last-word-js-solution-5h5i)
 - [Dev.to/JS] [20 JavaScript: Array Methods](https://dev.to/kalhong90s/20-javascript-array-methods-276j)
 - [Dev.to/JS] [Simplest react pagination with API call from scratch](https://dev.to/slimpython/simplest-react-pagination-with-api-call-from-scratch-8nd)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Javascript Promises - A Blog Post Written By ChatGPT](https://dev.to/camskithedev/a-beginners-guide-to-javascript-promises-a-blog-post-written-by-chatgpt-3p6a)
 - [Dev.to/JS] [For...in Loops...demystified!](https://dev.to/greenteaisgreat/forin-loopsdemystified-446l)
 - [Dev.to/JS] [Using vue-clickaway for your dropdowns](https://dev.to/ayoazeez26/using-vue-clickaway-for-your-dropdowns-3lkb)
-- [Dev.to/JS] [Build a GPT3-powered Shopify app that generates product descriptions &lpar;15 min tutorial&rpar;](https://dev.to/ralfelfving/build-a-gpt3-powered-shopify-app-that-generates-product-descriptions-1b94)
-- [Dev.to/JS] [To-Do List Application with Tailwind CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/to-do-list-application-with-tailwind-css-and-javascript-88g)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
