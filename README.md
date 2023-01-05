@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Turn Leftover Apple Cider Into a Batch of Caramels](https://lifehacker.com/turn-leftover-apple-cider-into-a-batch-of-caramels-1849950632)
+- [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 07 - useMemo⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-07-usememo-cpi)
+- [Dev.to/JS] [You Might Not Need Module Federation: Orchestrate your Microfrontends at Runtime with Import Maps](https://dev.to/zaikivla/you-might-not-need-module-federation-orchestrate-your-microfrontends-at-runtime-with-import-maps-3n82)
+- [Lifehacker] [All the Coolest Stuff Happening in Space in 2023](https://lifehacker.com/all-the-coolest-shit-happening-in-space-in-2023-1849951152)
+- [Dev.to/JS] [Top 10 Coding Challenges in JavaScript for beginners](https://dev.to/sagars01/top-10-coding-challenges-in-javascript-for-beginners-5bl4)
+- [Dev.to/JS] [Implementing CSS style inheritance in React Native](https://dev.to/builderio/implementing-css-style-inheritance-in-react-native-5abd)
+- [Dev.to/JS] [GraphQL errors: the Good, the Bad and the Ugly](https://dev.to/escape/graphql-errors-the-good-the-bad-and-the-ugly-2ah0)
 - [Lifehacker] [The 7 Best Weather Apps to Replace Dark Sky on iPhone and Android](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
+- [Dev.to/JS] [Configure Angular environment injector with Standalone Component](https://dev.to/mchoraine/configure-angular-environment-injector-with-standalone-component-3ncl)
 - [Dev.to/JS] [Selenium Java Interview Questions and Answers || That Every QA should Know - Part 2](https://dev.to/promode/selenium-java-interview-questions-and-answers-that-every-qa-should-know-part-2-14gc)
 - [Dev.to/JS] [Astro? Let&#39;s try it](https://dev.to/mirkosaugo/astro-lets-try-it-23m2)
 - [Dev.to/JS] [New Year Resolution](https://dev.to/dheenorao11/new-year-resolution-28h5)
@@ -32,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Built a Food Ecommerce Restaurant with Next.js, Paystack and Medusa](https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0)
 - [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)
 - [Dev.to/JS] [How to create a Steps Progress Bar](https://dev.to/jolamemushaj/how-to-create-a-steps-progress-bar-4m2b)
-- [Dev.to/JS] [Journeying into frontend development](https://dev.to/oluwatrillions/journeying-into-frontend-development-14m4)
-- [Dev.to/JS] [Mind-Blowing CSS Tips and Tricks](https://dev.to/raghavmri/mind-blowing-css-tips-and-tricks-3hgh)
-- [Dev.to/JS] [My logging strategy for Express](https://dev.to/elmatella/my-logging-strategy-for-express-1mk8)
-- [Dev.to/JS] [Layouts with Nuxt 3](https://dev.to/guillaumeduhan/layouts-with-nuxt-3-2g2f)
-- [Dev.to/JS] [Map x flatMap, entendendo a diferença na prática](https://dev.to/trinitypath/map-x-flatmap-entendendo-a-diferenca-na-pratica-1ded)
-- [Dev.to/JS] [Generate Image From HTML Using Satori and Resvg](https://dev.to/anasrin/generate-image-from-html-using-satori-and-resvg-46j6)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
 - [Lifehacker] [Winterize Your Panzanella](https://lifehacker.com/winterize-your-panzanella-1849945154)
-- [Lifehacker] [How to Choose Art for Your Home When You Know Nothing About Art](https://lifehacker.com/how-to-choose-art-for-your-home-when-you-know-nothing-a-1849912711)
-- [Crazy Programmer] [Ken Thompson Biography](https://www.thecrazyprogrammer.com/2023/01/ken-thompson-biography.html)
-- [Lifehacker] [Make Mini Beef Wellingtons for Your Fancy Football Party](https://lifehacker.com/make-mini-beef-wellingtons-for-your-fancy-football-part-1849944627)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Art for Your Home When You Know Nothing About Art](https://lifehacker.com/how-to-choose-art-for-your-home-when-you-know-nothing-a-1849912711)<!-- TECH-POSTS:END -->
 
 ---
 
