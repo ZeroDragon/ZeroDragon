@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Truth about Low-code Development: Common Myths Debunked](https://dev.to/hellenwrites19/the-truth-about-low-code-development-common-myths-debunked-4o9j)
+- [Dev.to/JS] [Introduction to MetaMask API](https://dev.to/metamask/introduction-to-metamask-api-1c37)
 - [Dev.to/JS] [Diving into Promises](https://dev.to/ryan_pierce/diving-into-promises-5gjn)
 - [Dev.to/JS] [First post, lets see where this goes.](https://dev.to/taptapyap/first-post-lets-see-where-this-goes-429o)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Javascript Promises - A Blog Post Written By ChatGPT](https://dev.to/camskithedev/a-beginners-guide-to-javascript-promises-a-blog-post-written-by-chatgpt-3p6a)
@@ -33,10 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I asked ChatGPT to build a calculator](https://dev.to/mfahadiqbal/i-asked-chatgpt-to-build-a-calculator-505)
 - [Dev.to/JS] [18 Reasons to Use TypeScript Since Yesterday.](https://dev.to/louisgv/18-reasons-to-use-typescript-since-yesterday-42ci)
 - [Dev.to/JS] [Using React without JSX == no build](https://dev.to/dperrymorrow/using-react-without-jsx-no-build-14gg)
-- [Dev.to/JS] [Please don&#39;t forget to specify your file type](https://dev.to/titlexp/please-dont-forget-to-specify-your-file-type-323n)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
-- [Dev.to/JS] [Welcome!](https://dev.to/mataoseeker/welcome-3f3o)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
 - [Lifehacker] [The Secret Way to Restart Your iPhone](https://lifehacker.com/the-secret-way-to-restart-your-iphone-1849950169)
 - [Lifehacker] [Google Chrome Is About to Be Problem on Your Parents’ PC](https://lifehacker.com/google-chrome-is-about-to-be-problem-on-your-parents-p-1849949009)
