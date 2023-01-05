@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Best Weather Apps to Replace Dark Sky on iPhone and Android](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
+- [Dev.to/JS] [Selenium Java Interview Questions and Answers || That Every QA should Know - Part 2](https://dev.to/promode/selenium-java-interview-questions-and-answers-that-every-qa-should-know-part-2-14gc)
+- [Dev.to/JS] [Astro? Let&#39;s try it](https://dev.to/mirkosaugo/astro-lets-try-it-23m2)
+- [Dev.to/JS] [New Year Resolution](https://dev.to/dheenorao11/new-year-resolution-28h5)
+- [Lifehacker] [Don&#39;t Dry Your Bed Sheets All the Way](https://lifehacker.com/dont-dry-your-bed-sheets-all-the-way-1849949255)
+- [Dev.to/JS] [React applications are functions](https://dev.to/zeke/react-applications-are-functions-2193)
+- [Dev.to/JS] [How I Built a Food Ecommerce Restaurant with Next.js, Paystack and Medusa](https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0)
 - [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)
 - [Dev.to/JS] [How to create a Steps Progress Bar](https://dev.to/jolamemushaj/how-to-create-a-steps-progress-bar-4m2b)
 - [Dev.to/JS] [Journeying into frontend development](https://dev.to/oluwatrillions/journeying-into-frontend-development-14m4)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Layouts with Nuxt 3](https://dev.to/guillaumeduhan/layouts-with-nuxt-3-2g2f)
 - [Dev.to/JS] [Map x flatMap, entendendo a diferença na prática](https://dev.to/trinitypath/map-x-flatmap-entendendo-a-diferenca-na-pratica-1ded)
 - [Dev.to/JS] [Generate Image From HTML Using Satori and Resvg](https://dev.to/anasrin/generate-image-from-html-using-satori-and-resvg-46j6)
-- [Dev.to/JS] [Building Clock through HTML, CSS, and JS | Build&amp;Learn](https://dev.to/rahxuls/building-clock-through-html-css-and-js-buildlearn-4jcm)
-- [Dev.to/JS] [Scrum Master Training in Chennai](https://dev.to/maansi26/scrum-master-training-in-chennai-2528)
-- [Dev.to/JS] [React Hook Form: Multiple Yup validation schemas](https://dev.to/feijens/react-hook-form-multiple-yup-validation-schemas-5a22)
-- [Dev.to/JS] [how to stop Multiple rerendering of console.log in react project](https://dev.to/vkspatil/muliple-rerendering-of-consolelog-in-react-project-h3m)
-- [Dev.to/JS] [Asynchronous and synchronous JavaScript Basics!](https://dev.to/darkxenium/asynchronous-and-synchronous-javascript-basics-40d1)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Winterize Your Panzanella](https://lifehacker.com/winterize-your-panzanella-1849945154)
 - [Lifehacker] [How to Choose Art for Your Home When You Know Nothing About Art](https://lifehacker.com/how-to-choose-art-for-your-home-when-you-know-nothing-a-1849912711)
 - [Crazy Programmer] [Ken Thompson Biography](https://www.thecrazyprogrammer.com/2023/01/ken-thompson-biography.html)
-- [Lifehacker] [Make Mini Beef Wellingtons for Your Fancy Football Party](https://lifehacker.com/make-mini-beef-wellingtons-for-your-fancy-football-part-1849944627)
-- [Lifehacker] [You’ve Been Playing ‘Super Mario Bros.’ Wrong This Whole Time](https://lifehacker.com/you-ve-been-playing-super-mario-bros-wrong-this-whol-1849944297)
-- [Lifehacker] [20 New Podcasts to Add to Your Queue in 2023](https://lifehacker.com/20-new-podcasts-to-add-to-your-queue-in-2023-1849914950)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Mini Beef Wellingtons for Your Fancy Football Party](https://lifehacker.com/make-mini-beef-wellingtons-for-your-fancy-football-part-1849944627)<!-- TECH-POSTS:END -->
 
 ---
 
