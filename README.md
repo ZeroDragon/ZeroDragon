@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 4 / #100DaysOfCode](https://dev.to/tinkersdev/day-4-100daysofcode-3cm2)
+- [Dev.to/JS] [React JS Training in Hyderabad with 100% Placement Assistance](https://dev.to/reactgeeks_/react-js-training-in-hyderabad-with-100-placement-assistance-4i3e)
+- [Lifehacker] [Start Growing These Seeds Indoors Now for Spring Planting](https://lifehacker.com/start-growing-these-seeds-indoors-now-for-spring-planti-1849951942)
+- [Dev.to/JS] [6 React questions for technical interviews and their answers](https://dev.to/jgamaraalv/6-react-questions-for-technical-interviews-and-their-answers-10p3)
+- [Dev.to/JS] [Need Guidance](https://dev.to/abhii321/need-guidance-4k8l)
 - [Lifehacker] [Turn Leftover Apple Cider Into a Batch of Caramels](https://lifehacker.com/turn-leftover-apple-cider-into-a-batch-of-caramels-1849950632)
 - [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 07 - useMemo⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-07-usememo-cpi)
 - [Dev.to/JS] [You Might Not Need Module Federation: Orchestrate your Microfrontends at Runtime with Import Maps](https://dev.to/zaikivla/you-might-not-need-module-federation-orchestrate-your-microfrontends-at-runtime-with-import-maps-3n82)
@@ -34,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Configure Angular environment injector with Standalone Component](https://dev.to/mchoraine/configure-angular-environment-injector-with-standalone-component-3ncl)
 - [Dev.to/JS] [Selenium Java Interview Questions and Answers || That Every QA should Know - Part 2](https://dev.to/promode/selenium-java-interview-questions-and-answers-that-every-qa-should-know-part-2-14gc)
 - [Dev.to/JS] [Astro? Let&#39;s try it](https://dev.to/mirkosaugo/astro-lets-try-it-23m2)
-- [Dev.to/JS] [New Year Resolution](https://dev.to/dheenorao11/new-year-resolution-28h5)
 - [Lifehacker] [Don&#39;t Dry Your Bed Sheets All the Way](https://lifehacker.com/dont-dry-your-bed-sheets-all-the-way-1849949255)
-- [Dev.to/JS] [React applications are functions](https://dev.to/zeke/react-applications-are-functions-2193)
-- [Dev.to/JS] [How I Built a Food Ecommerce Restaurant with Next.js, Paystack and Medusa](https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0)
 - [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)
-- [Dev.to/JS] [How to create a Steps Progress Bar](https://dev.to/jolamemushaj/how-to-create-a-steps-progress-bar-4m2b)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
 - [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)
 - [Lifehacker] [Your Complete Guide to a New Year&#39;s Relationship Check-In](https://lifehacker.com/your-complete-guide-to-a-new-years-relationship-check-i-1849945083)
-- [Lifehacker] [Winterize Your Panzanella](https://lifehacker.com/winterize-your-panzanella-1849945154)
-- [Lifehacker] [How to Choose Art for Your Home When You Know Nothing About Art](https://lifehacker.com/how-to-choose-art-for-your-home-when-you-know-nothing-a-1849912711)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Winterize Your Panzanella](https://lifehacker.com/winterize-your-panzanella-1849945154)<!-- TECH-POSTS:END -->
 
 ---
 
