@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mistakes to avoid when working in a fast-paced environment.](https://dev.to/audreymengue/mistakes-to-avoid-when-working-in-a-fast-paced-environment-2gmo)
+- [Dev.to/JS] [choose a bitcoin casino](https://dev.to/romanchsk/choose-a-bitcoin-casino-4jbb)
+- [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)
+- [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)
 - [Dev.to/JS] [Topological sort and why you&#39;re getting cyclic dependency errors](https://dev.to/dawkaka/topological-sort-and-why-youre-getting-cyclic-dependency-errors-20g6)
 - [Dev.to/JS] [I imagined a programming language Silk](https://dev.to/starevan/i-imagined-a-programming-language-silk-24li)
 - [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)
 - [Dev.to/JS] [How you should not use &lpar;only&rpar; console.log](https://dev.to/thedevcaptain/how-you-should-not-use-only-consolelog-1fbb)
 - [Lifehacker] [Three Things You Need in Your First Adult Kitchen](https://lifehacker.com/three-things-you-need-in-your-first-adult-kitchen-1849954362)
-- [Dev.to/JS] [Modal Box](https://dev.to/calebmccoy04/modal-box-19l)
-- [Dev.to/JS] [MERN Interview Questions asked to me in Various Interviews.](https://dev.to/viveksinra/mern-interview-questions-asked-to-me-in-various-interviews-2c8j)
 - [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)
 - [Lifehacker] [Use This App to Control External Displays From Your Mac](https://lifehacker.com/use-this-app-to-control-external-displays-from-your-mac-1849952583)
 - [Lifehacker] [Start Growing These Seeds Indoors Now for Spring Planting](https://lifehacker.com/start-growing-these-seeds-indoors-now-for-spring-planti-1849951942)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Might Lose Medicaid Coverage in 2023](https://lifehacker.com/why-you-might-lose-medicaid-coverage-in-2023-1849948935)
 - [Lifehacker] [TikTok Is Wrong About Boiling Air Freshener Wicks](https://lifehacker.com/tiktok-is-wrong-about-boiling-air-freshener-wicks-1849948436)
 - [Lifehacker] [You Can Actually Grow Weed As a Houseplant](https://lifehacker.com/you-can-actually-grow-weed-as-a-houseplant-1849948405)
-- [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
-- [Lifehacker] [All the New Federal and State Laws You Should Know About in 2023](https://lifehacker.com/all-the-new-federal-and-state-laws-you-should-know-abou-1849947186)
-- [Lifehacker] [When to Use Chocolate Chips, Chunks, and Shavings](https://lifehacker.com/when-to-use-chocolate-chips-chunks-and-shavings-1849946405)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)<!-- TECH-POSTS:END -->
 
 ---
 
