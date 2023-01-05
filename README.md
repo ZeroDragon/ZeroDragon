@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)
+- [Dev.to/JS] [Hack to Run React Application inside Service Worker](https://dev.to/jcubic/hack-to-run-react-application-inside-service-worker-4p2f)
+- [Dev.to/JS] [UraniumJS ☢️ - LZ4-compress &amp; BASE92-encode ✔️](https://dev.to/vipert/uraniumjs-lz4-compress-base92-encode-16f1)
+- [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)
+- [Dev.to/JS] [How you should not use &lpar;only&rpar; console.log](https://dev.to/thedevcaptain/how-you-should-not-use-only-consolelog-1fbb)
+- [Lifehacker] [Three Things You Need in Your First Adult Kitchen](https://lifehacker.com/three-things-you-need-in-your-first-adult-kitchen-1849954362)
 - [Dev.to/JS] [Modal Box](https://dev.to/calebmccoy04/modal-box-19l)
 - [Dev.to/JS] [MERN Interview Questions asked to me in Various Interviews.](https://dev.to/viveksinra/mern-interview-questions-asked-to-me-in-various-interviews-2c8j)
 - [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)
@@ -37,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⚛Os 10 React Hooks Mais Úteis: 07 - useMemo⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-07-usememo-cpi)
 - [Dev.to/JS] [You Might Not Need Module Federation: Orchestrate your Microfrontends at Runtime with Import Maps](https://dev.to/zaikivla/you-might-not-need-module-federation-orchestrate-your-microfrontends-at-runtime-with-import-maps-3n82)
 - [Lifehacker] [All the Coolest Stuff Happening in Space in 2023](https://lifehacker.com/all-the-coolest-shit-happening-in-space-in-2023-1849951152)
-- [Dev.to/JS] [Top 10 Coding Challenges in JavaScript for beginners](https://dev.to/sagars01/top-10-coding-challenges-in-javascript-for-beginners-5bl4)
-- [Dev.to/JS] [Implementing CSS style inheritance in React Native](https://dev.to/builderio/implementing-css-style-inheritance-in-react-native-5abd)
-- [Dev.to/JS] [GraphQL errors: the Good, the Bad and the Ugly](https://dev.to/escape/graphql-errors-the-good-the-bad-and-the-ugly-2ah0)
 - [Lifehacker] [The 7 Best Weather Apps to Replace Dark Sky on iPhone and Android](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
 - [Lifehacker] [Don&#39;t Dry Your Bed Sheets All the Way](https://lifehacker.com/dont-dry-your-bed-sheets-all-the-way-1849949255)
 - [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in January 2023 &lpar;So Far&rpar;](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1849946592)
 - [Lifehacker] [All the New Federal and State Laws You Should Know About in 2023](https://lifehacker.com/all-the-new-federal-and-state-laws-you-should-know-abou-1849947186)
 - [Lifehacker] [When to Use Chocolate Chips, Chunks, and Shavings](https://lifehacker.com/when-to-use-chocolate-chips-chunks-and-shavings-1849946405)
-- [Lifehacker] [11 Ways to Actually Eat Healthier in the New Year](https://lifehacker.com/11-ways-to-actually-eat-healthier-in-the-new-year-1849946165)
-- [Lifehacker] [This Is Your New Favorite Way to Eat Tinned Fish](https://lifehacker.com/this-is-your-new-favorite-way-to-eat-tinned-fish-1849945786)
-- [Lifehacker] [Why Apple&#39;s AirTags Are a Must for Frequent Fliers](https://lifehacker.com/the-best-way-to-track-your-luggage-on-your-next-flight-1849945825)
-- [Lifehacker] [Start Cash Stuffing to Curb Your Spending](https://lifehacker.com/start-cash-stuffing-to-curb-your-spending-1849945750)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Ways to Actually Eat Healthier in the New Year](https://lifehacker.com/11-ways-to-actually-eat-healthier-in-the-new-year-1849946165)<!-- TECH-POSTS:END -->
 
 ---
 
