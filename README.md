@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hi family](https://dev.to/keevinlarsen555/hi-family-4bg4)
+- [Dev.to/JS] [How do I get the data from useQuery in onSuccess callback?](https://dev.to/calvin087/how-do-i-get-the-data-from-usequery-in-onsuccess-callback-1o7k)
 - [Dev.to/JS] [Responsive Sidebar Menu Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/responsive-sidebar-menu-using-html-css-and-javascript-3ahp)
 - [Dev.to/JS] [How to Create Sticky Navbar using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-create-sticky-navbar-using-html-css-and-javascript-10b8)
 - [Dev.to/JS] [How to use Material UI Card Component](https://dev.to/refine/how-to-use-material-ui-card-component-2l2k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode question 58 Lenght of Last Word js solution](https://dev.to/bhendi/leetcode-question-58-lenght-of-last-word-js-solution-5h5i)
 - [Dev.to/JS] [20 JavaScript: Array Methods](https://dev.to/kalhong90s/20-javascript-array-methods-276j)
 - [Dev.to/JS] [Simplest react pagination with API call from scratch](https://dev.to/slimpython/simplest-react-pagination-with-api-call-from-scratch-8nd)
-- [Dev.to/JS] [The Truth about Low-code Development: Common Myths Debunked](https://dev.to/hellenwrites19/the-truth-about-low-code-development-common-myths-debunked-4o9j)
-- [Dev.to/JS] [Introduction to MetaMask API](https://dev.to/metamask/introduction-to-metamask-api-1c37)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
