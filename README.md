@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Clock through HTML, CSS, and JS | Build&amp;Learn](https://dev.to/rahxuls/building-clock-through-html-css-and-js-buildlearn-4jcm)
 - [Dev.to/JS] [Scrum Master Training in Chennai](https://dev.to/maansi26/scrum-master-training-in-chennai-2528)
 - [Dev.to/JS] [React Hook Form: Multiple Yup validation schemas](https://dev.to/feijens/react-hook-form-multiple-yup-validation-schemas-5a22)
 - [Dev.to/JS] [how to stop Multiple rerendering of console.log in react project](https://dev.to/vkspatil/muliple-rerendering-of-consolelog-in-react-project-h3m)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [crackers](https://dev.to/fantom_81/crackers-j0g)
 - [Dev.to/JS] [Hi family](https://dev.to/keevinlarsen555/hi-family-4bg4)
 - [Dev.to/JS] [How do I get the data from useQuery in onSuccess callback?](https://dev.to/calvin087/how-do-i-get-the-data-from-usequery-in-onsuccess-callback-1o7k)
-- [Dev.to/JS] [Responsive Sidebar Menu Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/responsive-sidebar-menu-using-html-css-and-javascript-3ahp)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
