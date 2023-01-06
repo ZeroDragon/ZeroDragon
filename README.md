@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 Surprising Household Uses for Boiling Water](https://lifehacker.com/11-surprising-household-uses-for-boiling-water-1849959610)
+- [Lifehacker] [Six of the Most Ridiculous Food Challenges Across the US](https://lifehacker.com/six-of-the-most-ridiculous-food-challenges-across-the-u-1849956686)
+- [Dev.to/JS] [Images &amp; assets in Nuxt 3](https://dev.to/guillaumeduhan/images-assets-in-nuxt-3-55o8)
+- [Lifehacker] [10 of Our Favorite High Protein Snacks](https://lifehacker.com/10-of-our-favorite-high-protein-snacks-1849958812)
 - [Dev.to/JS] [5 Vue.js slot tricks to watch out for](https://dev.to/trueromanus/5-vuejs-slot-tricks-to-watch-out-for-5g6o)
 - [Lifehacker] [Use This Gesture to Select Multiple Items on Your iPhone](https://lifehacker.com/use-this-gesture-to-select-multiple-items-on-your-iphon-1849957641)
 - [Lifehacker] [You Should Automate Your Financial Goals](https://lifehacker.com/you-should-automate-your-financial-goals-1849958883)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prepare Your House Now for the Next Bad Winter Storm](https://lifehacker.com/how-to-prepare-your-house-now-for-the-next-bad-winter-s-1849957252)
 - [Dev.to/JS] [Reactjs, o 80/20 do seu melhor e mais performático código](https://dev.to/mechamoclayton/reactjs-o-8020-do-seu-melhor-e-mais-performatico-codigo-3ag2)
 - [Dev.to/JS] [I&#39;m in trouble... can anyone assist me?](https://dev.to/zihan/im-in-trouble-can-anyone-assist-me-2o1g)
-- [Dev.to/JS] [Skeleton Loader using Vue &amp; Tailwind](https://dev.to/kouts/skeleton-loader-using-vue-tailwind-422a)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do You Really Need ID to Watch Porn in Louisiana?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-you-re-1849957375)
 - [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)
 - [Lifehacker] [The Easiest Way to Make Your Winter Tomato Sauce Taste More Summery](https://lifehacker.com/the-easiest-way-to-make-your-winter-tomato-sauce-taste-1849956192)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)
 - [Lifehacker] [Use This App to Control External Displays From Your Mac](https://lifehacker.com/use-this-app-to-control-external-displays-from-your-mac-1849952583)
 - [Lifehacker] [Start Growing These Seeds Indoors Now for Spring Planting](https://lifehacker.com/start-growing-these-seeds-indoors-now-for-spring-planti-1849951942)
-- [Lifehacker] [Turn Leftover Apple Cider Into a Batch of Caramels](https://lifehacker.com/turn-leftover-apple-cider-into-a-batch-of-caramels-1849950632)
-- [Lifehacker] [All the Coolest Stuff Happening in Space in 2023](https://lifehacker.com/all-the-coolest-shit-happening-in-space-in-2023-1849951152)
-- [Lifehacker] [The 7 Best Weather Apps to Replace Dark Sky on iPhone and Android](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
-- [Lifehacker] [Don&#39;t Dry Your Bed Sheets All the Way](https://lifehacker.com/dont-dry-your-bed-sheets-all-the-way-1849949255)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Leftover Apple Cider Into a Batch of Caramels](https://lifehacker.com/turn-leftover-apple-cider-into-a-batch-of-caramels-1849950632)<!-- TECH-POSTS:END -->
 
 ---
 
