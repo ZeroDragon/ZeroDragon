@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to quickly get started building web app with Express JS](https://dev.to/efkumah/how-to-quickly-get-started-building-web-app-with-express-js-2g03)
+- [Dev.to/JS] [Create a Bare Minimum Chrome Extension App &lpar;Taskan&rpar;](https://dev.to/itskenzylimon/create-a-bare-minimum-chrome-extension-app-taskan-2n59)
+- [Dev.to/JS] [Everyday objects as JavaScript objects](https://dev.to/cdavid2020/everyday-objects-as-javascript-objects-5af2)
+- [Dev.to/JS] [Should you still learn React in 2023?](https://dev.to/haltim/should-you-still-learn-react-in-2023-1lfi)
+- [Dev.to/JS] [What is an API? &lpar;Beginners guide&rpar;](https://dev.to/haltim/what-is-an-api-beginners-guide-2j6p)
 - [Dev.to/JS] [Master Async/Await in JavaScript: A Practical Guide for Asynchronous Programming](https://dev.to/camskithedev/master-asyncawait-in-javascript-a-practical-guide-for-asynchronous-programming-1dg1)
 - [Dev.to/JS] [Google Logo](https://dev.to/leandrobarbosafr/google-logo-3kd1)
 - [Dev.to/JS] [When not to use forEach&lpar;&rpar;](https://dev.to/mandy_petrakis/when-not-to-use-foreach-5aj2)
@@ -34,14 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Post Editor Similar to Twitter with a Responsive Images Grid with tailwindcss](https://dev.to/ayka_code/create-a-post-editor-similar-to-twitter-with-a-responsive-images-grid-with-tailwindcss-j7a)
 - [Lifehacker] [You Should Grate Dried Mushrooms All Over Everything](https://lifehacker.com/you-should-grate-dried-mushrooms-all-over-everything-1849955064)
 - [Dev.to/JS] [Mistakes to avoid when working in a fast-paced environment.](https://dev.to/audreymengue/mistakes-to-avoid-when-working-in-a-fast-paced-environment-2gmo)
-- [Dev.to/JS] [choose a bitcoin casino](https://dev.to/romanchsk/choose-a-bitcoin-casino-4jbb)
 - [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)
 - [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)
-- [Dev.to/JS] [Topological sort and why you&#39;re getting cyclic dependency errors](https://dev.to/dawkaka/topological-sort-and-why-youre-getting-cyclic-dependency-errors-20g6)
-- [Dev.to/JS] [I imagined a programming language Silk](https://dev.to/starevan/i-imagined-a-programming-language-silk-24li)
 - [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)
-- [Dev.to/JS] [Send and Receive SMS Messages With Node.js and Express](https://dev.to/mbcrump/send-and-receive-sms-messages-with-nodejs-and-express-46p0)
-- [Dev.to/JS] [My &lpar;frontend&rpar; dev learning journey, part 2: the break and the continuation](https://dev.to/georgem_it/my-frontend-dev-learning-journey-part-2-the-break-and-the-continuation-2ac8)
 - [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)
 - [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)
 - [Lifehacker] [Three Things You Need in Your First Adult Kitchen](https://lifehacker.com/three-things-you-need-in-your-first-adult-kitchen-1849954362)
