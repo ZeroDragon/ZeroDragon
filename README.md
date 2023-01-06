@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Master Async/Await in JavaScript: A Practical Guide for Asynchronous Programming](https://dev.to/camskithedev/master-asyncawait-in-javascript-a-practical-guide-for-asynchronous-programming-1dg1)
 - [Dev.to/JS] [Google Logo](https://dev.to/leandrobarbosafr/google-logo-3kd1)
+- [Dev.to/JS] [When not to use forEach&lpar;&rpar;](https://dev.to/mandy_petrakis/when-not-to-use-foreach-5aj2)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Dev.to/JS] [Uncovering and conquering async bugs: A trick to testing undesired effects](https://dev.to/codecoolture/uncovering-and-conquering-async-bugs-a-trick-to-testing-undesired-effects-4egj)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)
 - [Dev.to/JS] [Send and Receive SMS Messages With Node.js and Express](https://dev.to/mbcrump/send-and-receive-sms-messages-with-nodejs-and-express-46p0)
 - [Dev.to/JS] [My &lpar;frontend&rpar; dev learning journey, part 2: the break and the continuation](https://dev.to/georgem_it/my-frontend-dev-learning-journey-part-2-the-break-and-the-continuation-2ac8)
-- [Dev.to/JS] [Greetings](https://dev.to/gilimted/greetings-2k7m)
 - [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)
-- [Dev.to/JS] [What I Googled Today &lpar;WIGT&rpar; #1](https://dev.to/mariel/what-i-googled-today-wigt-1-3075)
 - [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)
 - [Lifehacker] [Three Things You Need in Your First Adult Kitchen](https://lifehacker.com/three-things-you-need-in-your-first-adult-kitchen-1849954362)
 - [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)
