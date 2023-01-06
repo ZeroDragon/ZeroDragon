@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prepare Your House Now for the Next Bad Winter Storm](https://lifehacker.com/how-to-prepare-your-house-now-for-the-next-bad-winter-s-1849957252)
+- [Dev.to/JS] [Reactjs, o 80/20 do seu melhor e mais performático código](https://dev.to/mechamoclayton/reactjs-o-8020-do-seu-melhor-e-mais-performatico-codigo-3ag2)
+- [Dev.to/JS] [I&#39;m in trouble... can anyone assist me?](https://dev.to/zihan/im-in-trouble-can-anyone-assist-me-2o1g)
+- [Dev.to/JS] [Skeleton Loader using Vue &amp; Tailwind](https://dev.to/kouts/skeleton-loader-using-vue-tailwind-422a)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do You Really Need ID to Watch Porn in Louisiana?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-you-re-1849957375)
+- [Dev.to/JS] [It&#39;s A Circus](https://dev.to/megdiv/its-a-circus-3jm8)
+- [Dev.to/JS] [Redux: Seu useSelector hook mais perfomático.](https://dev.to/mechamoclayton/redux-seu-useselector-hook-mais-perfomatico-3bo2)
+- [Dev.to/JS] [Create a React Project From Scratch Without any Framework](https://dev.to/gethackteam/create-a-react-project-from-scratch-without-any-framework-1n6o)
+- [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)
 - [Lifehacker] [The Easiest Way to Make Your Winter Tomato Sauce Taste More Summery](https://lifehacker.com/the-easiest-way-to-make-your-winter-tomato-sauce-taste-1849956192)
 - [Dev.to/JS] [Dandelion](https://dev.to/_shivendra_pawar/dandelion-2dbd)
 - [Dev.to/JS] [AWS Certifications](https://dev.to/eduardobet/aws-certifications-2g2f)
@@ -32,12 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Waste Your Time With These Terrible Diet Tips](https://lifehacker.com/dont-waste-your-time-with-these-terrible-diet-tips-1849954846)
 - [Dev.to/JS] [Checking and unchecking a checkbox with JavaScript: a quick lesson on HTML IDL attributes](https://dev.to/aileenr/checking-and-unchecking-a-checkbox-with-javascript-a-quick-lesson-on-html-idl-attributes-nf8)
 - [Dev.to/JS] [Awesome Social Media Icons With Hover Effects &lpar;Font Awesome Icons &amp; SVG Icons&rpar;](https://dev.to/amiruweerathunga/awesome-social-media-icons-with-hover-effects-font-awesome-icons-svg-icons-k0i)
-- [Dev.to/JS] [7 Must-Learn Things About JavaScript](https://dev.to/isabellaguran22/7-must-learn-things-about-javascript-15d)
-- [Dev.to/JS] [What language or framework are you planning to learn in 2023?](https://dev.to/medusajs/what-language-or-framework-are-you-planning-to-learn-in-2023-2lc8)
-- [Dev.to/JS] [Empower your front-end developers](https://dev.to/amrataabdallh/empower-your-front-end-developers-4o20)
-- [Dev.to/JS] [QA Management – Tips for leading Global teams](https://dev.to/lambdatest/qa-management-tips-for-leading-global-teams-24cl)
-- [Dev.to/JS] [What is e.defaultPrevented and why library authors MUST use it](https://dev.to/voltra/what-is-edefaultprevented-and-why-library-authors-must-use-it-2n8m)
-- [Dev.to/JS] [type of NaN === “number” কেনো বা কি?](https://dev.to/sonjoybarmon/type-of-nan-number-keno-baa-ki-4fao)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
-- [Lifehacker] [The Secret Way to Restart Your iPhone](https://lifehacker.com/the-secret-way-to-restart-your-iphone-1849950169)
-- [Lifehacker] [Google Chrome Is About to Be a Problem on Your Parents’ PC](https://lifehacker.com/google-chrome-is-about-to-be-problem-on-your-parents-p-1849949009)
-- [Lifehacker] [How to Pick a Bagged Salad That Is Actually Good](https://lifehacker.com/how-to-pick-a-bagged-salad-that-is-actually-good-1849949525)
-- [Lifehacker] [Burger King Wants to Give You Free Fries for Six Months](https://lifehacker.com/burger-king-wants-to-give-you-free-fries-for-six-months-1849949487)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Secret Way to Restart Your iPhone](https://lifehacker.com/the-secret-way-to-restart-your-iphone-1849950169)<!-- TECH-POSTS:END -->
 
 ---
 
