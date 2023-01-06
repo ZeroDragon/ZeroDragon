@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Vue.js slot tricks to watch out for](https://dev.to/trueromanus/5-vuejs-slot-tricks-to-watch-out-for-5g6o)
+- [Lifehacker] [Use This Gesture to Select Multiple Items on Your iPhone](https://lifehacker.com/use-this-gesture-to-select-multiple-items-on-your-iphon-1849957641)
 - [Lifehacker] [You Should Automate Your Financial Goals](https://lifehacker.com/you-should-automate-your-financial-goals-1849958883)
 - [Dev.to/JS] [Day5: Building a local audio transcription engine running on your web browser with JavaScript](https://dev.to/picovoice/day5-building-a-local-audio-transcription-engine-running-on-your-web-browser-with-javascript-28ab)
 - [Lifehacker] [How to Disable Those Annoying &#39;Suggestion&#39; Ads on Your Windows PC](https://lifehacker.com/how-to-disable-those-annoying-suggestion-ads-on-your-wi-1849957475)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I&#39;m in trouble... can anyone assist me?](https://dev.to/zihan/im-in-trouble-can-anyone-assist-me-2o1g)
 - [Dev.to/JS] [Skeleton Loader using Vue &amp; Tailwind](https://dev.to/kouts/skeleton-loader-using-vue-tailwind-422a)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do You Really Need ID to Watch Porn in Louisiana?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-you-re-1849957375)
-- [Dev.to/JS] [It&#39;s A Circus](https://dev.to/megdiv/its-a-circus-3jm8)
 - [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)
 - [Lifehacker] [The Easiest Way to Make Your Winter Tomato Sauce Taste More Summery](https://lifehacker.com/the-easiest-way-to-make-your-winter-tomato-sauce-taste-1849956192)
 - [Lifehacker] [The Best Deals You Can Find in January &lpar;and What Not to Buy&rpar;](https://lifehacker.com/the-best-deals-you-can-find-in-january-and-what-not-to-1849954638)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Leftover Apple Cider Into a Batch of Caramels](https://lifehacker.com/turn-leftover-apple-cider-into-a-batch-of-caramels-1849950632)
 - [Lifehacker] [All the Coolest Stuff Happening in Space in 2023](https://lifehacker.com/all-the-coolest-shit-happening-in-space-in-2023-1849951152)
 - [Lifehacker] [The 7 Best Weather Apps to Replace Dark Sky on iPhone and Android](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
-- [Lifehacker] [Don&#39;t Dry Your Bed Sheets All the Way](https://lifehacker.com/dont-dry-your-bed-sheets-all-the-way-1849949255)
-- [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Dry Your Bed Sheets All the Way](https://lifehacker.com/dont-dry-your-bed-sheets-all-the-way-1849949255)<!-- TECH-POSTS:END -->
 
 ---
 
