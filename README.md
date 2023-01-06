@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ดูหนัง เล่นแร่แปรวิญญาณ 2/Alchemy of Souls 2 Ep 9 ดูซีรีย์ไทยเต็ม ดูซีรีย์ฟรี 【THAI-Sub】](https://dev.to/alchemyofsouls2ep9hd/duuhnang-elnaeraeprwiyyaan-2alchemy-of-souls-2-ep-9-duuchiiriiyaithyetm-duuchiiriiyfrii-thai-sub-33g0)
+- [Dev.to/JS] [What Are People Building With WebAssembly?](https://dev.to/zenstack/what-are-people-building-with-webassembly-2eh4)
+- [Dev.to/JS] [It&#39;s not much but it&#39;s honest work.](https://dev.to/taptapyap/its-not-much-but-its-honest-work-c0g)
 - [Dev.to/JS] [Secure Password Generator with HTML, CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/secure-password-generator-with-html-css-and-javascript-46pa)
 - [Dev.to/JS] [How to quickly get started building web app with Express JS](https://dev.to/efkumah/how-to-quickly-get-started-building-web-app-with-express-js-2g03)
 - [Dev.to/JS] [Create a Bare Minimum Chrome Extension App &lpar;Taskan&rpar;](https://dev.to/itskenzylimon/create-a-bare-minimum-chrome-extension-app-taskan-2n59)
@@ -33,11 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google Logo](https://dev.to/leandrobarbosafr/google-logo-3kd1)
 - [Dev.to/JS] [When not to use forEach&lpar;&rpar;](https://dev.to/mandy_petrakis/when-not-to-use-foreach-5aj2)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
-- [Dev.to/JS] [Uncovering and conquering async bugs: A trick to testing undesired effects](https://dev.to/codecoolture/uncovering-and-conquering-async-bugs-a-trick-to-testing-undesired-effects-4egj)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
-- [Dev.to/JS] [Đăng ký hdbet88 – Nhận Quà Liền Tay 150K](https://dev.to/hdbet88/dang-ky-hdbet88-nhan-qua-lien-tay-150k-4pi1)
-- [Dev.to/JS] [Create a Post Editor Similar to Twitter with a Responsive Images Grid with tailwindcss](https://dev.to/ayka_code/create-a-post-editor-similar-to-twitter-with-a-responsive-images-grid-with-tailwindcss-j7a)
 - [Lifehacker] [You Should Grate Dried Mushrooms All Over Everything](https://lifehacker.com/you-should-grate-dried-mushrooms-all-over-everything-1849955064)
 - [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)
 - [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)
