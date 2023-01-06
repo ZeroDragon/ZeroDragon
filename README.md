@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
+- [Dev.to/JS] [How to improve test coverage in a JavaScript React project](https://dev.to/andrewbaisden/how-to-improve-test-coverage-in-a-javascript-react-project-235p)
+- [Dev.to/JS] [My request](https://dev.to/oluwagb/my-request-49km)
+- [Dev.to/JS] [What is the purpose of Node.js and why is it so useful?](https://dev.to/kuldudecs50/what-is-the-purpose-of-nodejs-and-why-is-it-so-useful-34ch)
 - [Dev.to/JS] [Creating Auto Dynamic OG Images for Your Next.js Application with Serverless Functions](https://dev.to/ayka_code/creating-auto-dynamic-og-images-for-your-nextjs-application-with-serverless-functions-35cf)
 - [Dev.to/JS] [Closure and event listeners](https://dev.to/mattishida/closure-and-event-listeners-1fn3)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
@@ -41,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day5: Building a local audio transcription engine running on your web browser with JavaScript](https://dev.to/picovoice/day5-building-a-local-audio-transcription-engine-running-on-your-web-browser-with-javascript-28ab)
 - [Lifehacker] [How to Disable Those Annoying &#39;Suggestion&#39; Ads on Your Windows PC](https://lifehacker.com/how-to-disable-those-annoying-suggestion-ads-on-your-wi-1849957475)
 - [Dev.to/JS] [Reducing time complexity using a map](https://dev.to/kaustavkarmakar2/reducing-time-complexity-using-a-map-4opb)
-- [Dev.to/JS] [How to test a component passed as prop with Jest](https://dev.to/peterlidee/how-to-test-a-component-passed-as-prop-with-jest-4pgn)
-- [Dev.to/JS] [Memory Management: Introduction to How Weak References Work in JavaScript](https://dev.to/get_pieces/memory-management-introduction-to-how-weak-references-work-in-javascript-53k2)
 - [Lifehacker] [13 Cinematic Dolls at Least As Creepy As M3GAN](https://lifehacker.com/13-cinematic-dolls-at-least-as-creepy-as-m3gan-1849955931)
-- [Dev.to/JS] [ดูซีรีย์ เล่นแร่แปรวิญญาณ 2/Alchemy of Souls 2 Ep 9 ออนไลน์ตอนเต็มฟรี พากย์ไทย/ซับไทย HD [THAI-Sub]](https://dev.to/alchemyofsouls2ep9thai/duuchiiriiy-elnaeraeprwiyyaan-2alchemy-of-souls-2-ep-9-nailntnetmfrii-phaakyaithychabaithy-hd-thai-sub-2a18)
 - [Lifehacker] [Get Free Fast Food for Taking These Customer Surveys](https://lifehacker.com/get-free-fast-food-for-taking-these-customer-surveys-1849955725)
 - [Lifehacker] [How to Prepare Your House Now for the Next Bad Winter Storm](https://lifehacker.com/how-to-prepare-your-house-now-for-the-next-bad-winter-s-1849957252)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do You Really Need ID to Watch Porn in Louisiana?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-you-re-1849957375)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)
 - [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)
 - [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)
-- [Lifehacker] [Three Things You Need in Your First Adult Kitchen](https://lifehacker.com/three-things-you-need-in-your-first-adult-kitchen-1849954362)
-- [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Things You Need in Your First Adult Kitchen](https://lifehacker.com/three-things-you-need-in-your-first-adult-kitchen-1849954362)<!-- TECH-POSTS:END -->
 
 ---
 
