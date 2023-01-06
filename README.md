@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Make Your Winter Tomato Sauce Taste More Summery](https://lifehacker.com/the-easiest-way-to-make-your-winter-tomato-sauce-taste-1849956192)
+- [Dev.to/JS] [Dandelion](https://dev.to/_shivendra_pawar/dandelion-2dbd)
+- [Dev.to/JS] [AWS Certifications](https://dev.to/eduardobet/aws-certifications-2g2f)
+- [Lifehacker] [The Best Deals You Can Find in January &lpar;and What Not to Buy&rpar;](https://lifehacker.com/the-best-deals-you-can-find-in-january-and-what-not-to-1849954638)
 - [Dev.to/JS] [I started learning Next.JS, and here&#39;s what I understand!](https://dev.to/mahadbaig/i-started-learning-nextjs-and-heres-what-i-understand-1l29)
 - [Dev.to/JS] [Responsive Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-personal-portfolio-website-using-html-css-javascript-15e2)
 - [Lifehacker] [Don&#39;t Waste Your Time With These Terrible Diet Tips](https://lifehacker.com/dont-waste-your-time-with-these-terrible-diet-tips-1849954846)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [QA Management – Tips for leading Global teams](https://dev.to/lambdatest/qa-management-tips-for-leading-global-teams-24cl)
 - [Dev.to/JS] [What is e.defaultPrevented and why library authors MUST use it](https://dev.to/voltra/what-is-edefaultprevented-and-why-library-authors-must-use-it-2n8m)
 - [Dev.to/JS] [type of NaN === “number” কেনো বা কি?](https://dev.to/sonjoybarmon/type-of-nan-number-keno-baa-ki-4fao)
-- [Dev.to/JS] [Flexbox grid to list toggle using JavaScript](https://dev.to/ratracegrad/flexbox-grid-to-list-toggle-using-javascript-8jo)
-- [Dev.to/JS] [Essential CBD Gummies - Pain Relief Reviews, Price, Results, Does It Work?](https://dev.to/essentialcbdin1/essential-cbd-gummies-pain-relief-reviews-price-results-does-it-work-19oj)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
@@ -58,11 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
 - [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
 - [Lifehacker] [The Secret Way to Restart Your iPhone](https://lifehacker.com/the-secret-way-to-restart-your-iphone-1849950169)
-- [Lifehacker] [Google Chrome Is About to Be Problem on Your Parents’ PC](https://lifehacker.com/google-chrome-is-about-to-be-problem-on-your-parents-p-1849949009)
+- [Lifehacker] [Google Chrome Is About to Be a Problem on Your Parents’ PC](https://lifehacker.com/google-chrome-is-about-to-be-problem-on-your-parents-p-1849949009)
 - [Lifehacker] [How to Pick a Bagged Salad That Is Actually Good](https://lifehacker.com/how-to-pick-a-bagged-salad-that-is-actually-good-1849949525)
-- [Lifehacker] [Burger King Wants to Give You Free Fries for Six Months](https://lifehacker.com/burger-king-wants-to-give-you-free-fries-for-six-months-1849949487)
-- [Lifehacker] [Make This Spinach and Artichoke Dip With Three Ingredients and a Microwave](https://lifehacker.com/make-this-spinach-and-artichoke-dip-with-three-ingredie-1849949518)
-- [Lifehacker] [What the ‘Mediterranean Diet’ Is, and How to Actually Follow It](https://lifehacker.com/wtf-even-is-the-mediterranean-diet-1849948645)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Burger King Wants to Give You Free Fries for Six Months](https://lifehacker.com/burger-king-wants-to-give-you-free-fries-for-six-months-1849949487)<!-- TECH-POSTS:END -->
 
 ---
 
