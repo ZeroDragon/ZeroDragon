@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Auto Dynamic OG Images for Your Next.js Application with Serverless Functions](https://dev.to/ayka_code/creating-auto-dynamic-og-images-for-your-nextjs-application-with-serverless-functions-35cf)
+- [Dev.to/JS] [Closure and event listeners](https://dev.to/mattishida/closure-and-event-listeners-1fn3)
+- [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
+- [Dev.to/JS] [Quais são os tipos de dados encontrados no JavaScript e como funcionam?](https://dev.to/altencirsilvajr/quais-sao-os-tipos-de-dados-encontrados-no-javascript-e-como-funcionam-37j8)
+- [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
 - [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)
 - [Dev.to/JS] [Testing Code](https://dev.to/konstantinstanmeyer/testing-code-1po0)
 - [Dev.to/JS] [Counter Styled &amp; JavaScripted](https://dev.to/djeylani/counter-styled-javascripted-gbc)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Memory Management: Introduction to How Weak References Work in JavaScript](https://dev.to/get_pieces/memory-management-introduction-to-how-weak-references-work-in-javascript-53k2)
 - [Lifehacker] [13 Cinematic Dolls at Least As Creepy As M3GAN](https://lifehacker.com/13-cinematic-dolls-at-least-as-creepy-as-m3gan-1849955931)
 - [Dev.to/JS] [ดูซีรีย์ เล่นแร่แปรวิญญาณ 2/Alchemy of Souls 2 Ep 9 ออนไลน์ตอนเต็มฟรี พากย์ไทย/ซับไทย HD [THAI-Sub]](https://dev.to/alchemyofsouls2ep9thai/duuchiiriiy-elnaeraeprwiyyaan-2alchemy-of-souls-2-ep-9-nailntnetmfrii-phaakyaithychabaithy-hd-thai-sub-2a18)
-- [Dev.to/JS] [Pin Save: Revolutionizing Content Creation with Decentralized Technology](https://dev.to/pfedprog/pin-save-revolutionizing-content-creation-with-decentralized-technology-3oi7)
 - [Lifehacker] [Get Free Fast Food for Taking These Customer Surveys](https://lifehacker.com/get-free-fast-food-for-taking-these-customer-surveys-1849955725)
-- [Dev.to/JS] [Why I don&#39;t like front-end developer roadmaps](https://dev.to/nicozerpa/why-i-dont-like-front-end-developer-roadmaps-5d98)
-- [Dev.to/JS] [Paracetamol.js💊| #195: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-195-explica-este-codigo-javascript-2oj2)
 - [Lifehacker] [How to Prepare Your House Now for the Next Bad Winter Storm](https://lifehacker.com/how-to-prepare-your-house-now-for-the-next-bad-winter-s-1849957252)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do You Really Need ID to Watch Porn in Louisiana?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-you-re-1849957375)
 - [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)
 - [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)
 - [Lifehacker] [Three Things You Need in Your First Adult Kitchen](https://lifehacker.com/three-things-you-need-in-your-first-adult-kitchen-1849954362)
-- [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)
-- [Lifehacker] [Use This App to Control External Displays From Your Mac](https://lifehacker.com/use-this-app-to-control-external-displays-from-your-mac-1849952583)
-- [Lifehacker] [Start Growing These Seeds Indoors Now for Spring Planting](https://lifehacker.com/start-growing-these-seeds-indoors-now-for-spring-planti-1849951942)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why the Chevy Bolt Is Such a Great Deal Right Now](https://lifehacker.com/why-the-chevy-bolt-is-such-a-great-deal-right-now-1849951365)<!-- TECH-POSTS:END -->
 
 ---
 
