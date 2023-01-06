@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create react elements with JSX | React Recipes](https://dev.to/rahxuls/how-to-create-react-elements-with-jsx-react-recipes-10le)
+- [Dev.to/JS] [How can DevOps helping businesses expand?](https://dev.to/kanishedureka/how-can-devops-helping-businesses-expand-16jn)
 - [Dev.to/JS] [Test Rail integration for Cypress autotests](https://dev.to/smoliarick/test-rail-integration-for-cypress-autotests-11g2)
 - [Dev.to/JS] [Project Ideas For Junior Frontend Developers 👨‍💻🦄](https://dev.to/rammcodes/project-ideas-for-junior-frontend-developers-55mh)
 - [Dev.to/JS] [My Journey in Open Source - hook-fn](https://dev.to/cadienvan/my-journey-in-open-source-hook-fn-2b11)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Developer Interviews: Be Prepared to Ace Your Next Job Interview](https://dev.to/ashishpandey/react-developer-interviews-be-prepared-to-ace-your-next-job-interview-3n83)
 - [Dev.to/JS] [Numbers According to Computers](https://dev.to/rhieger/numbers-according-to-computers-3beb)
 - [Dev.to/JS] [ดูหนัง เล่นแร่แปรวิญญาณ 2/Alchemy of Souls 2 Ep 9 ดูซีรีย์ไทยเต็ม ดูซีรีย์ฟรี 【THAI-Sub】](https://dev.to/alchemyofsouls2ep9hd/duuhnang-elnaeraeprwiyyaan-2alchemy-of-souls-2-ep-9-duuchiiriiyaithyetm-duuchiiriiyfrii-thai-sub-33g0)
-- [Dev.to/JS] [What Are People Building With WebAssembly?](https://dev.to/zenstack/what-are-people-building-with-webassembly-2eh4)
-- [Dev.to/JS] [It&#39;s not much but it&#39;s honest work.](https://dev.to/taptapyap/its-not-much-but-its-honest-work-c0g)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
