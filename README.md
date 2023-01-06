@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 JavaScript Frameworks &amp; Libraries For Building Games In 2023](https://dev.to/nnekajenny/top-10-javascript-frameworks-libraries-for-building-games-in-2023-ap0)
+- [Dev.to/JS] [Como funciona o JavaScript: um guia visual🔥 🤖](https://dev.to/trinitypath/como-funciona-o-javascript-um-guia-visual-4cf8)
 - [Dev.to/JS] [How to implement CAPTCHAs or reCAPTCHAs?](https://dev.to/codeofrelevancy/how-to-implement-captchas-or-recaptchas-2i17)
 - [Dev.to/JS] [10 Bizarre JavaScript One-Liners That Will Blow Your Mind](https://dev.to/ashishpandey/10-bizarre-javascript-one-liners-that-will-blow-your-mind-2d16)
 - [Dev.to/JS] [Using Generators to Create Powerful Iterators in JavaScript and Typescript](https://dev.to/kalashin1/using-generators-to-create-powerful-iterators-in-javascript-and-typescript-3kb5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Commonly Answered Questions about Data Science in 2023 - Summary](https://dev.to/kanishedureka/commonly-answered-questions-about-data-science-in-2023-summary-32i8)
 - [Dev.to/JS] [var, let, and const](https://dev.to/merecka/var-let-and-const-4e9d)
 - [Dev.to/JS] [How to create react elements with JSX | React Recipes](https://dev.to/rahxuls/how-to-create-react-elements-with-jsx-react-recipes-10le)
-- [Dev.to/JS] [How can DevOps helping businesses expand?](https://dev.to/kanishedureka/how-can-devops-helping-businesses-expand-16jn)
-- [Dev.to/JS] [Test Rail integration for Cypress autotests](https://dev.to/smoliarick/test-rail-integration-for-cypress-autotests-11g2)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
