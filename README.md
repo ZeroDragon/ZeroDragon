@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I started learning Next.JS, and here&#39;s what I understand!](https://dev.to/mahadbaig/i-started-learning-nextjs-and-heres-what-i-understand-1l29)
+- [Dev.to/JS] [Responsive Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-personal-portfolio-website-using-html-css-javascript-15e2)
+- [Lifehacker] [Don&#39;t Waste Your Time With These Terrible Diet Tips](https://lifehacker.com/dont-waste-your-time-with-these-terrible-diet-tips-1849954846)
+- [Dev.to/JS] [Checking and unchecking a checkbox with JavaScript: a quick lesson on HTML IDL attributes](https://dev.to/aileenr/checking-and-unchecking-a-checkbox-with-javascript-a-quick-lesson-on-html-idl-attributes-nf8)
+- [Dev.to/JS] [Awesome Social Media Icons With Hover Effects &lpar;Font Awesome Icons &amp; SVG Icons&rpar;](https://dev.to/amiruweerathunga/awesome-social-media-icons-with-hover-effects-font-awesome-icons-svg-icons-k0i)
+- [Dev.to/JS] [7 Must-Learn Things About JavaScript](https://dev.to/isabellaguran22/7-must-learn-things-about-javascript-15d)
+- [Dev.to/JS] [What language or framework are you planning to learn in 2023?](https://dev.to/medusajs/what-language-or-framework-are-you-planning-to-learn-in-2023-2lc8)
+- [Dev.to/JS] [Empower your front-end developers](https://dev.to/amrataabdallh/empower-your-front-end-developers-4o20)
 - [Dev.to/JS] [QA Management – Tips for leading Global teams](https://dev.to/lambdatest/qa-management-tips-for-leading-global-teams-24cl)
 - [Dev.to/JS] [What is e.defaultPrevented and why library authors MUST use it](https://dev.to/voltra/what-is-edefaultprevented-and-why-library-authors-must-use-it-2n8m)
 - [Dev.to/JS] [type of NaN === “number” কেনো বা কি?](https://dev.to/sonjoybarmon/type-of-nan-number-keno-baa-ki-4fao)
 - [Dev.to/JS] [Flexbox grid to list toggle using JavaScript](https://dev.to/ratracegrad/flexbox-grid-to-list-toggle-using-javascript-8jo)
 - [Dev.to/JS] [Essential CBD Gummies - Pain Relief Reviews, Price, Results, Does It Work?](https://dev.to/essentialcbdin1/essential-cbd-gummies-pain-relief-reviews-price-results-does-it-work-19oj)
-- [Dev.to/JS] [Refactoring A Junior’s React Code - Reduced Complexity With A Single Source Of Truth](https://dev.to/jkettmann/refactoring-a-juniors-react-code-reduced-complexity-with-a-single-source-of-truth-4dcm)
-- [Dev.to/JS] [Organizing your React code: Cohesion and Coupling](https://dev.to/cloudx/organizing-your-react-code-cohesion-and-coupling-579)
-- [Dev.to/JS] [Image Transformation: Everything You Need to Know](https://dev.to/ideradevtools/image-transformation-everything-you-need-to-know-30dg)
-- [Dev.to/JS] [Top 10 JavaScript Frameworks &amp; Libraries For Building Games In 2023](https://dev.to/nnekajenny/top-10-javascript-frameworks-libraries-for-building-games-in-2023-ap0)
-- [Dev.to/JS] [Como funciona o JavaScript: um guia visual🔥 🤖](https://dev.to/trinitypath/como-funciona-o-javascript-um-guia-visual-4cf8)
-- [Dev.to/JS] [How to implement CAPTCHAs or reCAPTCHAs?](https://dev.to/codeofrelevancy/how-to-implement-captchas-or-recaptchas-2i17)
-- [Dev.to/JS] [10 Bizarre JavaScript One-Liners That Will Blow Your Mind](https://dev.to/ashishpandey/10-bizarre-javascript-one-liners-that-will-blow-your-mind-2d16)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Pick a Bagged Salad That Is Actually Good](https://lifehacker.com/how-to-pick-a-bagged-salad-that-is-actually-good-1849949525)
 - [Lifehacker] [Burger King Wants to Give You Free Fries for Six Months](https://lifehacker.com/burger-king-wants-to-give-you-free-fries-for-six-months-1849949487)
 - [Lifehacker] [Make This Spinach and Artichoke Dip With Three Ingredients and a Microwave](https://lifehacker.com/make-this-spinach-and-artichoke-dip-with-three-ingredie-1849949518)
-- [Lifehacker] [What the ‘Mediterranean Diet’ Is, and How to Actually Follow It](https://lifehacker.com/wtf-even-is-the-mediterranean-diet-1849948645)
-- [Lifehacker] [How to Take a Hot Shower If Your Water Heater’s Busted](https://lifehacker.com/how-to-take-a-hot-shower-if-your-water-heater-s-busted-1849949148)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What the ‘Mediterranean Diet’ Is, and How to Actually Follow It](https://lifehacker.com/wtf-even-is-the-mediterranean-diet-1849948645)<!-- TECH-POSTS:END -->
 
 ---
 
