@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Secure Password Generator with HTML, CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/secure-password-generator-with-html-css-and-javascript-46pa)
 - [Dev.to/JS] [How to quickly get started building web app with Express JS](https://dev.to/efkumah/how-to-quickly-get-started-building-web-app-with-express-js-2g03)
 - [Dev.to/JS] [Create a Bare Minimum Chrome Extension App &lpar;Taskan&rpar;](https://dev.to/itskenzylimon/create-a-bare-minimum-chrome-extension-app-taskan-2n59)
 - [Dev.to/JS] [Everyday objects as JavaScript objects](https://dev.to/cdavid2020/everyday-objects-as-javascript-objects-5af2)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Đăng ký hdbet88 – Nhận Quà Liền Tay 150K](https://dev.to/hdbet88/dang-ky-hdbet88-nhan-qua-lien-tay-150k-4pi1)
 - [Dev.to/JS] [Create a Post Editor Similar to Twitter with a Responsive Images Grid with tailwindcss](https://dev.to/ayka_code/create-a-post-editor-similar-to-twitter-with-a-responsive-images-grid-with-tailwindcss-j7a)
 - [Lifehacker] [You Should Grate Dried Mushrooms All Over Everything](https://lifehacker.com/you-should-grate-dried-mushrooms-all-over-everything-1849955064)
-- [Dev.to/JS] [Mistakes to avoid when working in a fast-paced environment.](https://dev.to/audreymengue/mistakes-to-avoid-when-working-in-a-fast-paced-environment-2gmo)
 - [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)
 - [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)
 - [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)
