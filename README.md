@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement CAPTCHAs or reCAPTCHAs?](https://dev.to/codeofrelevancy/how-to-implement-captchas-or-recaptchas-2i17)
+- [Dev.to/JS] [10 Bizarre JavaScript One-Liners That Will Blow Your Mind](https://dev.to/ashishpandey/10-bizarre-javascript-one-liners-that-will-blow-your-mind-2d16)
+- [Dev.to/JS] [Using Generators to Create Powerful Iterators in JavaScript and Typescript](https://dev.to/kalashin1/using-generators-to-create-powerful-iterators-in-javascript-and-typescript-3kb5)
 - [Dev.to/JS] [Let&#39;s talk about Types in javascript](https://dev.to/leandrobarbosafr/lets-talk-about-types-in-javascript-5dcb)
 - [Dev.to/JS] [Enjoy The Best Adult Companion For Your Loneliness And To Fulfill your Inner Desire Of Feelings](https://dev.to/topbangaloreescort/enjoy-the-best-adult-companion-for-your-loneliness-and-to-fulfill-your-inner-desire-of-feelings-5bp4)
 - [Dev.to/JS] [Which is the best career option for me in software design or development i Know SEO and HTML CSS](https://dev.to/deepakcet25/which-is-the-best-career-option-for-me-in-software-design-or-development-i-know-seo-and-html-css-2j6k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create react elements with JSX | React Recipes](https://dev.to/rahxuls/how-to-create-react-elements-with-jsx-react-recipes-10le)
 - [Dev.to/JS] [How can DevOps helping businesses expand?](https://dev.to/kanishedureka/how-can-devops-helping-businesses-expand-16jn)
 - [Dev.to/JS] [Test Rail integration for Cypress autotests](https://dev.to/smoliarick/test-rail-integration-for-cypress-autotests-11g2)
-- [Dev.to/JS] [Project Ideas For Junior Frontend Developers 👨‍💻🦄](https://dev.to/rammcodes/project-ideas-for-junior-frontend-developers-55mh)
-- [Dev.to/JS] [My Journey in Open Source - hook-fn](https://dev.to/cadienvan/my-journey-in-open-source-hook-fn-2b11)
-- [Dev.to/JS] [How State in React works?](https://dev.to/kinginthenorthcodez/how-state-in-react-works-41ha)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
