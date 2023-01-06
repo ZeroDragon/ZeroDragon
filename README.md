@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey in Open Source - hook-fn](https://dev.to/cadienvan/my-journey-in-open-source-hook-fn-2b11)
+- [Dev.to/JS] [How State in React works?](https://dev.to/kinginthenorthcodez/how-state-in-react-works-41ha)
+- [Dev.to/JS] [Remote Job Hunter&#39;s Handbook: A Practical Guide to Landing Your Dream Work From-Home Opportunity](https://dev.to/thenomadevel/remote-job-hunters-handbook-a-practical-guide-to-landing-your-dream-work-from-home-opportunity-p49)
+- [Dev.to/JS] [What is a Web Development!](https://dev.to/nasirovelchin/what-is-a-web-development-1l4c)
+- [Dev.to/JS] [Synogut – Health Results, Benefits, Reviews And Price?](https://dev.to/synogut5/synogut-health-results-benefits-reviews-and-price-5c48)
 - [Dev.to/JS] [React Developer Interviews: Be Prepared to Ace Your Next Job Interview](https://dev.to/ashishpandey/react-developer-interviews-be-prepared-to-ace-your-next-job-interview-3n83)
 - [Dev.to/JS] [Numbers According to Computers](https://dev.to/rhieger/numbers-according-to-computers-3beb)
 - [Dev.to/JS] [ดูหนัง เล่นแร่แปรวิญญาณ 2/Alchemy of Souls 2 Ep 9 ดูซีรีย์ไทยเต็ม ดูซีรีย์ฟรี 【THAI-Sub】](https://dev.to/alchemyofsouls2ep9hd/duuhnang-elnaeraeprwiyyaan-2alchemy-of-souls-2-ep-9-duuchiiriiyaithyetm-duuchiiriiyfrii-thai-sub-33g0)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [It&#39;s not much but it&#39;s honest work.](https://dev.to/taptapyap/its-not-much-but-its-honest-work-c0g)
 - [Dev.to/JS] [Use &quot;console.log&quot; with objects](https://dev.to/_faridjunior/consolelog-sometimes-print-wrong-data-116h)
 - [Dev.to/JS] [Secure Password Generator with HTML, CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/secure-password-generator-with-html-css-and-javascript-46pa)
-- [Dev.to/JS] [How to quickly get started building web app with Express JS](https://dev.to/efkumah/how-to-quickly-get-started-building-web-app-with-express-js-2g03)
-- [Dev.to/JS] [Create a Bare Minimum Chrome Extension App &lpar;Taskan&rpar;](https://dev.to/itskenzylimon/create-a-bare-minimum-chrome-extension-app-taskan-2n59)
-- [Dev.to/JS] [Everyday objects as JavaScript objects](https://dev.to/cdavid2020/everyday-objects-as-javascript-objects-5af2)
-- [Dev.to/JS] [Should you still learn React in 2023?](https://dev.to/haltim/should-you-still-learn-react-in-2023-1lfi)
-- [Dev.to/JS] [What is an API? &lpar;Beginners guide&rpar;](https://dev.to/haltim/what-is-an-api-beginners-guide-2j6p)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
