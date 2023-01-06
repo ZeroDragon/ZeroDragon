@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ดูซีรีย์ เล่นแร่แปรวิญญาณ 2/Alchemy of Souls 2 Ep 9 ออนไลน์ตอนเต็มฟรี พากย์ไทย/ซับไทย HD [THAI-Sub]](https://dev.to/alchemyofsouls2ep9thai/duuchiiriiy-elnaeraeprwiyyaan-2alchemy-of-souls-2-ep-9-nailntnetmfrii-phaakyaithychabaithy-hd-thai-sub-2a18)
+- [Dev.to/JS] [Pin Save: Revolutionizing Content Creation with Decentralized Technology](https://dev.to/pfedprog/pin-save-revolutionizing-content-creation-with-decentralized-technology-3oi7)
+- [Lifehacker] [Get Free Fast Food for Taking These Customer Surveys](https://lifehacker.com/get-free-fast-food-for-taking-these-customer-surveys-1849955725)
+- [Dev.to/JS] [Why I don&#39;t like front-end developer roadmaps](https://dev.to/nicozerpa/why-i-dont-like-front-end-developer-roadmaps-5d98)
+- [Dev.to/JS] [Paracetamol.js💊| #195: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-195-explica-este-codigo-javascript-2oj2)
 - [Lifehacker] [How to Prepare Your House Now for the Next Bad Winter Storm](https://lifehacker.com/how-to-prepare-your-house-now-for-the-next-bad-winter-s-1849957252)
 - [Dev.to/JS] [Reactjs, o 80/20 do seu melhor e mais performático código](https://dev.to/mechamoclayton/reactjs-o-8020-do-seu-melhor-e-mais-performatico-codigo-3ag2)
 - [Dev.to/JS] [I&#39;m in trouble... can anyone assist me?](https://dev.to/zihan/im-in-trouble-can-anyone-assist-me-2o1g)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dandelion](https://dev.to/_shivendra_pawar/dandelion-2dbd)
 - [Dev.to/JS] [AWS Certifications](https://dev.to/eduardobet/aws-certifications-2g2f)
 - [Lifehacker] [The Best Deals You Can Find in January &lpar;and What Not to Buy&rpar;](https://lifehacker.com/the-best-deals-you-can-find-in-january-and-what-not-to-1849954638)
-- [Dev.to/JS] [I started learning Next.JS, and here&#39;s what I understand!](https://dev.to/mahadbaig/i-started-learning-nextjs-and-heres-what-i-understand-1l29)
-- [Dev.to/JS] [Responsive Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-personal-portfolio-website-using-html-css-javascript-15e2)
 - [Lifehacker] [Don&#39;t Waste Your Time With These Terrible Diet Tips](https://lifehacker.com/dont-waste-your-time-with-these-terrible-diet-tips-1849954846)
-- [Dev.to/JS] [Checking and unchecking a checkbox with JavaScript: a quick lesson on HTML IDL attributes](https://dev.to/aileenr/checking-and-unchecking-a-checkbox-with-javascript-a-quick-lesson-on-html-idl-attributes-nf8)
-- [Dev.to/JS] [Awesome Social Media Icons With Hover Effects &lpar;Font Awesome Icons &amp; SVG Icons&rpar;](https://dev.to/amiruweerathunga/awesome-social-media-icons-with-hover-effects-font-awesome-icons-svg-icons-k0i)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)
 - [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
 - [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
-- [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)
-- [Lifehacker] [The Secret Way to Restart Your iPhone](https://lifehacker.com/the-secret-way-to-restart-your-iphone-1849950169)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)<!-- TECH-POSTS:END -->
 
 ---
 
