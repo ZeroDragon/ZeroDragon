@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Automate Your Financial Goals](https://lifehacker.com/you-should-automate-your-financial-goals-1849958883)
+- [Dev.to/JS] [Day5: Building a local audio transcription engine running on your web browser with JavaScript](https://dev.to/picovoice/day5-building-a-local-audio-transcription-engine-running-on-your-web-browser-with-javascript-28ab)
+- [Lifehacker] [How to Disable Those Annoying &#39;Suggestion&#39; Ads on Your Windows PC](https://lifehacker.com/how-to-disable-those-annoying-suggestion-ads-on-your-wi-1849957475)
+- [Dev.to/JS] [Reducing time complexity using a map](https://dev.to/kaustavkarmakar2/reducing-time-complexity-using-a-map-4opb)
+- [Dev.to/JS] [How to test a component passed as prop with Jest](https://dev.to/peterlidee/how-to-test-a-component-passed-as-prop-with-jest-4pgn)
+- [Dev.to/JS] [Memory Management: Introduction to How Weak References Work in JavaScript](https://dev.to/get_pieces/memory-management-introduction-to-how-weak-references-work-in-javascript-53k2)
+- [Lifehacker] [13 Cinematic Dolls at Least As Creepy As M3GAN](https://lifehacker.com/13-cinematic-dolls-at-least-as-creepy-as-m3gan-1849955931)
 - [Dev.to/JS] [ดูซีรีย์ เล่นแร่แปรวิญญาณ 2/Alchemy of Souls 2 Ep 9 ออนไลน์ตอนเต็มฟรี พากย์ไทย/ซับไทย HD [THAI-Sub]](https://dev.to/alchemyofsouls2ep9thai/duuchiiriiy-elnaeraeprwiyyaan-2alchemy-of-souls-2-ep-9-nailntnetmfrii-phaakyaithychabaithy-hd-thai-sub-2a18)
 - [Dev.to/JS] [Pin Save: Revolutionizing Content Creation with Decentralized Technology](https://dev.to/pfedprog/pin-save-revolutionizing-content-creation-with-decentralized-technology-3oi7)
 - [Lifehacker] [Get Free Fast Food for Taking These Customer Surveys](https://lifehacker.com/get-free-fast-food-for-taking-these-customer-surveys-1849955725)
@@ -34,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Skeleton Loader using Vue &amp; Tailwind](https://dev.to/kouts/skeleton-loader-using-vue-tailwind-422a)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do You Really Need ID to Watch Porn in Louisiana?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-you-re-1849957375)
 - [Dev.to/JS] [It&#39;s A Circus](https://dev.to/megdiv/its-a-circus-3jm8)
-- [Dev.to/JS] [Redux: Seu useSelector hook mais perfomático.](https://dev.to/mechamoclayton/redux-seu-useselector-hook-mais-perfomatico-3bo2)
-- [Dev.to/JS] [Create a React Project From Scratch Without any Framework](https://dev.to/gethackteam/create-a-react-project-from-scratch-without-any-framework-1n6o)
 - [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)
 - [Lifehacker] [The Easiest Way to Make Your Winter Tomato Sauce Taste More Summery](https://lifehacker.com/the-easiest-way-to-make-your-winter-tomato-sauce-taste-1849956192)
-- [Dev.to/JS] [Dandelion](https://dev.to/_shivendra_pawar/dandelion-2dbd)
-- [Dev.to/JS] [AWS Certifications](https://dev.to/eduardobet/aws-certifications-2g2f)
 - [Lifehacker] [The Best Deals You Can Find in January &lpar;and What Not to Buy&rpar;](https://lifehacker.com/the-best-deals-you-can-find-in-january-and-what-not-to-1849954638)
 - [Lifehacker] [Don&#39;t Waste Your Time With These Terrible Diet Tips](https://lifehacker.com/dont-waste-your-time-with-these-terrible-diet-tips-1849954846)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Coolest Stuff Happening in Space in 2023](https://lifehacker.com/all-the-coolest-shit-happening-in-space-in-2023-1849951152)
 - [Lifehacker] [The 7 Best Weather Apps to Replace Dark Sky on iPhone and Android](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
 - [Lifehacker] [Don&#39;t Dry Your Bed Sheets All the Way](https://lifehacker.com/dont-dry-your-bed-sheets-all-the-way-1849949255)
-- [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)
-- [Lifehacker] [How to Choose Between a Bank and a Credit Union](https://lifehacker.com/how-to-choose-between-a-bank-and-a-credit-union-1849950399)
-- [Lifehacker] [All the New Electric Vehicles Eligible for the Clean Vehicle Tax Credit](https://lifehacker.com/all-the-new-electric-vehicles-eligible-for-the-clean-ve-1849950515)
-- [Lifehacker] [The 10 Best Sandbag Exercises to Try at the Gym &lpar;or at Home&rpar;](https://lifehacker.com/the-10-best-sandbag-exercises-to-try-at-the-gym-or-at-1849950563)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prevent Sour Cream From Curdling in Soups and Sauces](https://lifehacker.com/how-to-prevent-sour-cream-from-curdling-in-soups-and-sa-1849950277)<!-- TECH-POSTS:END -->
 
 ---
 
