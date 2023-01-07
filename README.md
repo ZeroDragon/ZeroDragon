@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Finding Ghost elements with Ghost CSS !](https://dev.to/shrihari/finding-ghost-elements-with-ghost-css--1fa0)
+- [Dev.to/JS] [How to Create a QR-Code with React](https://dev.to/franciscomendes10866/how-to-create-a-qr-code-with-react-5aj9)
+- [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
+- [Dev.to/JS] [Build Electron App with Vue in 3 easy steps](https://dev.to/alakkadshaw/build-electron-app-with-vue-in-3-easy-steps-203l)
+- [Dev.to/JS] [What is versioning all about?](https://dev.to/tijan_io/what-is-versioning-all-about-1lob)
+- [Dev.to/JS] [Become a FullStack DEV](https://dev.to/gdi3d/become-a-fullstack-dev-3kej)
 - [Dev.to/JS] [Setup Next.js blog under a minute](https://dev.to/msaaddev/setup-nextjs-blog-under-a-minute-56l7)
 - [Dev.to/JS] [Cycling Challenge Dashboard with HTML &amp; CSS](https://dev.to/crayoncode/cycling-challenge-dashboard-with-html-css-1gi8)
 - [Dev.to/JS] [Customising a file input using Tailwind CSS](https://dev.to/devjameshay/customising-a-file-input-using-tailwind-css-37o9)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #196: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-196-explica-este-codigo-javascript-akj)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Dev.to/JS] [Looking for Roadmap of Blockchain](https://dev.to/iamfarooqi/roadmap-for-blockchain-222n)
-- [Dev.to/JS] [Building a Github Profile using reactjs](https://dev.to/kuicpet/building-a-github-profile-using-reactjs-1b8b)
-- [Dev.to/JS] [Create Tabs with React Hooks](https://dev.to/nabillatrisnani/create-tabs-with-react-hooks-1o1a)
-- [Dev.to/JS] [Blog API using Express, JWT and MongoDB](https://dev.to/barnyvic/blog-api-using-express-jwt-and-mongodb-5gj5)
-- [Dev.to/JS] [Refactoring. From 6 to 180 lines.](https://dev.to/dnim/refactoring-from-6-to-180-lines-4fmh)
-- [Dev.to/JS] [Script Tags: Do They Belong in the Body or the Head Section?](https://dev.to/nitinfab/script-tags-do-they-belong-in-the-body-or-the-head-section-4f55)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)
 - [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)
 - [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)
-- [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)
-- [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)<!-- TECH-POSTS:END -->
 
 ---
 
