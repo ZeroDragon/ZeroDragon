@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WTF is Higher Order Function ?](https://dev.to/dipakkr/wtf-is-higher-order-function--3lfo)
+- [Dev.to/JS] [If JavaScript would have interfaces: pseudo_c0de](https://dev.to/projektorius96/if-javascript-would-have-interfaces-pseudoc0de-51e9)
+- [Dev.to/JS] [Performant React scroll hook &lpar;BETA&rpar;](https://dev.to/elsyng/performant-react-scroll-hook-beta-793)
+- [Dev.to/JS] [Frontend Mentor - Interactive rating component](https://dev.to/dwz_wong/frontend-mentor-interactive-rating-component-4pl8)
 - [Dev.to/JS] [I want to start to learn a javascript framework](https://dev.to/fabiodev30/i-want-to-start-to-learn-a-javascript-framework-5he4)
 - [Dev.to/JS] [The role of empathy and emotional intelligence in effective leadership within a web development team](https://dev.to/hisachin/the-role-of-empathy-and-emotional-intelligence-in-effective-leadership-within-a-web-development-team-jgg)
 - [Dev.to/JS] [Mastering Technical Team Leadership for Mid to Senior Level Engineers](https://dev.to/hisachin/mastering-technical-team-leadership-for-mid-to-senior-level-engineers-1fjl)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Dev.to/JS] [Build Electron App with Vue in 3 easy steps](https://dev.to/alakkadshaw/build-electron-app-with-vue-in-3-easy-steps-203l)
 - [Dev.to/JS] [What is versioning all about?](https://dev.to/tijan_io/what-is-versioning-all-about-1lob)
-- [Dev.to/JS] [Become a FullStack DEV](https://dev.to/gdi3d/become-a-fullstack-dev-3kej)
-- [Dev.to/JS] [Setup Next.js blog under a minute](https://dev.to/msaaddev/setup-nextjs-blog-under-a-minute-56l7)
-- [Dev.to/JS] [Cycling Challenge Dashboard with HTML &amp; CSS](https://dev.to/crayoncode/cycling-challenge-dashboard-with-html-css-1gi8)
-- [Dev.to/JS] [Customising a file input using Tailwind CSS](https://dev.to/devjameshay/customising-a-file-input-using-tailwind-css-37o9)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
