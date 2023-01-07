@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Github Profile using reactjs](https://dev.to/kuicpet/building-a-github-profile-using-reactjs-1b8b)
+- [Dev.to/JS] [Create Tabs with React Hooks](https://dev.to/nabillatrisnani/create-tabs-with-react-hooks-1o1a)
+- [Dev.to/JS] [Blog API using Express, JWT and MongoDB](https://dev.to/barnyvic/blog-api-using-express-jwt-and-mongodb-5gj5)
+- [Dev.to/JS] [Refactoring. From 6 to 180 lines.](https://dev.to/dnim/refactoring-from-6-to-180-lines-4fmh)
+- [Dev.to/JS] [Script Tags: Do They Belong in the Body or the Head Section?](https://dev.to/nitinfab/script-tags-do-they-belong-in-the-body-or-the-head-section-4f55)
 - [Dev.to/JS] [10 Fun and Challenging Game Projects to Try in ReactJS](https://dev.to/divij2599/10-fun-and-challenging-game-projects-to-try-in-reactjs-4h5i)
 - [Dev.to/JS] [Diário de bordo #2](https://dev.to/analuisadev/diario-de-bordo-2-1l2c)
 - [Dev.to/JS] [What If “Burning Out” Is Our Soul Crying For Adventure?](https://dev.to/sashevuchkov/what-if-burning-out-is-our-soul-crying-for-adventure-1ll)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Kerassentials - Nail Fungus Reviews, Pros, Cons, Uses &amp; Benefits?](https://dev.to/kerassentials5/kerassentials-nail-fungus-reviews-pros-cons-uses-benefits-27ih)
 - [Dev.to/JS] [How to Use Morgan in Your Node.js Project](https://dev.to/devland/how-to-use-morgan-in-your-nodejs-project-21im)
 - [Dev.to/JS] [Cloudflare Workers + Twilio + Mailgun: A DIY Uptime Monitoring Solution](https://dev.to/dhanushreddy29/cloudflare-workers-twilio-mailgun-a-diy-uptime-monitoring-solution-2cjf)
-- [Dev.to/JS] [Convert srt to text regex javascript](https://dev.to/backlinkss/convert-srt-to-text-regex-javascript-3bak)
-- [Dev.to/JS] [Simple XSS Prevention Method in Javascript](https://dev.to/bl4ckst0n3/simple-xss-prevention-method-in-javascript-16n6)
-- [Dev.to/JS] [My first attempt to make script for Lazy-load images](https://dev.to/lestrae/my-first-attempt-to-make-script-for-lazy-load-images-5f06)
-- [Dev.to/JS] [Real-world Chrome extensions for web developers](https://dev.to/vitomohagheghian/chrome-extensions-for-web-developers-541n)
-- [Dev.to/JS] [How to handle multiple queries with React-Query](https://dev.to/calvin087/how-to-handle-multiple-queries-with-react-query-24gn)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
