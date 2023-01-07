@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to effortlessly set up an Express development environment](https://dev.to/efkumah/how-to-effortlessly-set-up-an-express-development-environment-15mm)
+- [Dev.to/JS] [How to make substring bold in JSON?](https://dev.to/hardiquedasore/how-to-make-substring-bold-in-json-ho3)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Dev.to/JS] [How to improve test coverage in a JavaScript React project](https://dev.to/andrewbaisden/how-to-improve-test-coverage-in-a-javascript-react-project-235p)
 - [Dev.to/JS] [My request](https://dev.to/oluwagb/my-request-49km)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Vue.js slot tricks to watch out for](https://dev.to/trueromanus/5-vuejs-slot-tricks-to-watch-out-for-5g6o)
 - [Lifehacker] [Use This Gesture to Select Multiple Items on Your iPhone](https://lifehacker.com/use-this-gesture-to-select-multiple-items-on-your-iphon-1849957641)
 - [Lifehacker] [You Should Automate Your Financial Goals](https://lifehacker.com/you-should-automate-your-financial-goals-1849958883)
-- [Dev.to/JS] [Day5: Building a local audio transcription engine running on your web browser with JavaScript](https://dev.to/picovoice/day5-building-a-local-audio-transcription-engine-running-on-your-web-browser-with-javascript-28ab)
 - [Lifehacker] [How to Disable Those Annoying &#39;Suggestion&#39; Ads on Your Windows PC](https://lifehacker.com/how-to-disable-those-annoying-suggestion-ads-on-your-wi-1849957475)
-- [Dev.to/JS] [Reducing time complexity using a map](https://dev.to/kaustavkarmakar2/reducing-time-complexity-using-a-map-4opb)
 - [Lifehacker] [13 Cinematic Dolls at Least As Creepy As M3GAN](https://lifehacker.com/13-cinematic-dolls-at-least-as-creepy-as-m3gan-1849955931)
 - [Lifehacker] [Get Free Fast Food for Taking These Customer Surveys](https://lifehacker.com/get-free-fast-food-for-taking-these-customer-surveys-1849955725)
 - [Lifehacker] [How to Prepare Your House Now for the Next Bad Winter Storm](https://lifehacker.com/how-to-prepare-your-house-now-for-the-next-bad-winter-s-1849957252)
