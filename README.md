@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ดูหนัง【ลูกโป่งสีแดง】- Red Balloon Ep 7 ออนไลน์ตอนเต็มฟรี ซับไทย HD-THAI TV](https://dev.to/redballoonep7thaisub/duuhnangluukopngsiiaedng-red-balloon-ep-7-nailntnetmfrii-chabaithy-hd-thai-tv-34ai)
 - [Dev.to/JS] [JavaScript: variables, datatypes and operators and loops](https://dev.to/i_am_surendra_/javascript-variables-datatypes-and-operators-2f6h)
 - [Dev.to/JS] [5 Simple Steps to Creating Your Very Own npm Module](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
 - [Dev.to/JS] [How to effortlessly set up an Express development environment](https://dev.to/efkumah/how-to-effortlessly-set-up-an-express-development-environment-15mm)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
 - [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)
 - [Dev.to/JS] [Testing Code](https://dev.to/konstantinstanmeyer/testing-code-1po0)
-- [Dev.to/JS] [Counter Styled &amp; JavaScripted](https://dev.to/djeylani/counter-styled-javascripted-gbc)
 - [Lifehacker] [11 Surprising Household Uses for Boiling Water](https://lifehacker.com/11-surprising-household-uses-for-boiling-water-1849959610)
 - [Lifehacker] [Six of the Most Ridiculous Food Challenges Across the US](https://lifehacker.com/six-of-the-most-ridiculous-food-challenges-across-the-u-1849956686)
 - [Lifehacker] [10 of Our Favorite High Protein Snacks](https://lifehacker.com/10-of-our-favorite-high-protein-snacks-1849958812)
