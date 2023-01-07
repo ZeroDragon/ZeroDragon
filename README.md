@@ -23,10 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup Next.js blog under a minute](https://dev.to/msaaddev/setup-nextjs-blog-under-a-minute-56l7)
+- [Dev.to/JS] [Cycling Challenge Dashboard with HTML &amp; CSS](https://dev.to/crayoncode/cycling-challenge-dashboard-with-html-css-1gi8)
+- [Dev.to/JS] [Customising a file input using Tailwind CSS](https://dev.to/devjameshay/customising-a-file-input-using-tailwind-css-37o9)
 - [Dev.to/JS] [What Is The Difference Between Synchronous Vs Asynchronous In Node.js](https://dev.to/uniquewebdev/what-is-the-difference-between-synchronous-vs-asynchronous-in-nodejs-5b42)
 - [Dev.to/JS] [5 Reasons Why Fat Arrow Functions are the Future of JavaScript](https://dev.to/javaoneworld/5-reasons-why-fat-arrow-functions-are-the-future-of-javascript-3cl)
 - [Dev.to/JS] [Paracetamol.js💊| #196: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-196-explica-este-codigo-javascript-akj)
-- [Dev.to/JS] [Light/Dark theme toggle | 52 weeks of code](https://dev.to/ota200/lightdark-theme-toggle-52-weeks-of-code-35n3)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Dev.to/JS] [Looking for Roadmap of Blockchain](https://dev.to/iamfarooqi/roadmap-for-blockchain-222n)
 - [Dev.to/JS] [Building a Github Profile using reactjs](https://dev.to/kuicpet/building-a-github-profile-using-reactjs-1b8b)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blog API using Express, JWT and MongoDB](https://dev.to/barnyvic/blog-api-using-express-jwt-and-mongodb-5gj5)
 - [Dev.to/JS] [Refactoring. From 6 to 180 lines.](https://dev.to/dnim/refactoring-from-6-to-180-lines-4fmh)
 - [Dev.to/JS] [Script Tags: Do They Belong in the Body or the Head Section?](https://dev.to/nitinfab/script-tags-do-they-belong-in-the-body-or-the-head-section-4f55)
-- [Dev.to/JS] [10 Fun and Challenging Game Projects to Try in ReactJS](https://dev.to/divij2599/10-fun-and-challenging-game-projects-to-try-in-reactjs-4h5i)
-- [Dev.to/JS] [Diário de bordo #2](https://dev.to/analuisadev/diario-de-bordo-2-1l2c)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
