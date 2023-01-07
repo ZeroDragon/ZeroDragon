@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to handle multiple queries with React-Query](https://dev.to/calvin087/how-to-handle-multiple-queries-with-react-query-24gn)
+- [Dev.to/JS] [Double pendulums, how do they work? | Physics | Simulation | TypeScript](https://dev.to/nordicbeaver/double-pendulums-how-do-they-work-physics-simulation-typescript-2cg1)
+- [Dev.to/JS] [Keto Clean+ Gummies - Fat Loss Reviews, Price, Benefits And Side Effects?](https://dev.to/gummies_clean/keto-clean-gummies-fat-loss-reviews-price-benefits-and-side-effects-18kc)
 - [Dev.to/JS] [Reasons Why You Should Learn JavaScript in 2023 [A Must read]](https://dev.to/d1_codes/reasons-why-you-should-learn-javascript-in-2023-a-must-read-c0e)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;07-01-2023&rpar; - Locked Out Again](https://dev.to/mjgs/this-weeks-newsletter-is-out-07-01-2023-locked-out-again-4mn5)
 - [Dev.to/JS] [VIRTUAL PIANO](https://dev.to/nagvanshi9275/virtual-piano-1gi7)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ดูหนัง【ลูกโป่งสีแดง】- Red Balloon Ep 7 ออนไลน์ตอนเต็มฟรี ซับไทย HD-THAI TV](https://dev.to/redballoonep7thaisub/duuhnangluukopngsiiaedng-red-balloon-ep-7-nailntnetmfrii-chabaithy-hd-thai-tv-34ai)
 - [Dev.to/JS] [JavaScript: variables, datatypes and operators and loops](https://dev.to/i_am_surendra_/javascript-variables-datatypes-and-operators-2f6h)
 - [Dev.to/JS] [5 Simple Steps to Creating Your Very Own npm Module](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
-- [Dev.to/JS] [How to effortlessly set up an Express development environment](https://dev.to/efkumah/how-to-effortlessly-set-up-an-express-development-environment-15mm)
-- [Dev.to/JS] [How to make substring bold in JSON?](https://dev.to/hardiquedasore/how-to-make-substring-bold-in-json-ho3)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
-- [Dev.to/JS] [How to improve test coverage in a JavaScript React project](https://dev.to/andrewbaisden/how-to-improve-test-coverage-in-a-javascript-react-project-235p)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
 - [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)
