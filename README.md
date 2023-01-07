@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Fun and Challenging Game Projects to Try in ReactJS](https://dev.to/divij2599/10-fun-and-challenging-game-projects-to-try-in-reactjs-4h5i)
+- [Dev.to/JS] [Diário de bordo #2](https://dev.to/analuisadev/diario-de-bordo-2-1l2c)
+- [Dev.to/JS] [What If “Burning Out” Is Our Soul Crying For Adventure?](https://dev.to/sashevuchkov/what-if-burning-out-is-our-soul-crying-for-adventure-1ll)
 - [Dev.to/JS] [How to start a project with NuxtJS 3 and Tailwindcss ?](https://dev.to/devyann/how-to-start-a-project-with-nuxtjs-3-and-tailwindcss--4oef)
 - [Dev.to/JS] [Kerassentials - Nail Fungus Reviews, Pros, Cons, Uses &amp; Benefits?](https://dev.to/kerassentials5/kerassentials-nail-fungus-reviews-pros-cons-uses-benefits-27ih)
 - [Dev.to/JS] [How to Use Morgan in Your Node.js Project](https://dev.to/devland/how-to-use-morgan-in-your-nodejs-project-21im)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My first attempt to make script for Lazy-load images](https://dev.to/lestrae/my-first-attempt-to-make-script-for-lazy-load-images-5f06)
 - [Dev.to/JS] [Real-world Chrome extensions for web developers](https://dev.to/vitomohagheghian/chrome-extensions-for-web-developers-541n)
 - [Dev.to/JS] [How to handle multiple queries with React-Query](https://dev.to/calvin087/how-to-handle-multiple-queries-with-react-query-24gn)
-- [Dev.to/JS] [Double pendulums, how do they work? | Physics | Simulation | TypeScript](https://dev.to/nordicbeaver/double-pendulums-how-do-they-work-physics-simulation-typescript-2cg1)
-- [Dev.to/JS] [NextJS + GPT-3: Build a cover letter generator](https://dev.to/orlando70/nextjs-gpt-3-build-a-cover-letter-generator-28gc)
-- [Dev.to/JS] [Keto Clean+ Gummies - Fat Loss Reviews, Price, Benefits And Side Effects?](https://dev.to/gummies_clean/keto-clean-gummies-fat-loss-reviews-price-benefits-and-side-effects-18kc)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
