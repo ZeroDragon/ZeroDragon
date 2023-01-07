@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating A Markdown Blog With Nextjs](https://dev.to/ethand91/creating-a-markdown-blog-with-nextjs-1dci)
+- [Dev.to/JS] [How to use gravatar API to render user public avatar](https://dev.to/sachinchaurasiya/how-to-use-gravatar-api-to-render-user-public-avatar-4jip)
+- [Dev.to/JS] [9 Essential Array Puzzles To Level Up Your JavaScript [JS Foundation]](https://dev.to/gustavupp/9-essential-array-puzzles-to-level-up-your-javascript-js-foundation-2oim)
 - [Dev.to/JS] [ดูหนัง【ลูกโป่งสีแดง】- Red Balloon Ep 7 ออนไลน์ตอนเต็มฟรี ซับไทย HD-THAI TV](https://dev.to/redballoonep7thaisub/duuhnangluukopngsiiaedng-red-balloon-ep-7-nailntnetmfrii-chabaithy-hd-thai-tv-34ai)
 - [Dev.to/JS] [JavaScript: variables, datatypes and operators and loops](https://dev.to/i_am_surendra_/javascript-variables-datatypes-and-operators-2f6h)
 - [Dev.to/JS] [5 Simple Steps to Creating Your Very Own npm Module](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
@@ -33,12 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My request](https://dev.to/oluwagb/my-request-49km)
 - [Dev.to/JS] [What is the purpose of Node.js and why is it so useful?](https://dev.to/kuldudecs50/what-is-the-purpose-of-nodejs-and-why-is-it-so-useful-34ch)
 - [Dev.to/JS] [Creating Auto Dynamic OG Images for Your Next.js Application with Serverless Functions](https://dev.to/ayka_code/creating-auto-dynamic-og-images-for-your-nextjs-application-with-serverless-functions-35cf)
-- [Dev.to/JS] [Closure and event listeners](https://dev.to/mattishida/closure-and-event-listeners-1fn3)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
-- [Dev.to/JS] [Quais são os tipos de dados encontrados no JavaScript e como funcionam?](https://dev.to/altencirsilvajr/quais-sao-os-tipos-de-dados-encontrados-no-javascript-e-como-funcionam-37j8)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
 - [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)
-- [Dev.to/JS] [Testing Code](https://dev.to/konstantinstanmeyer/testing-code-1po0)
 - [Lifehacker] [11 Surprising Household Uses for Boiling Water](https://lifehacker.com/11-surprising-household-uses-for-boiling-water-1849959610)
 - [Lifehacker] [Six of the Most Ridiculous Food Challenges Across the US](https://lifehacker.com/six-of-the-most-ridiculous-food-challenges-across-the-u-1849956686)
 - [Lifehacker] [10 of Our Favorite High Protein Snacks](https://lifehacker.com/10-of-our-favorite-high-protein-snacks-1849958812)
