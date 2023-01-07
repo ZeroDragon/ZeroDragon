@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reasons Why You Should Learn JavaScript in 2023 [A Must read]](https://dev.to/d1_codes/reasons-why-you-should-learn-javascript-in-2023-a-must-read-c0e)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;07-01-2023&rpar; - Locked Out Again](https://dev.to/mjgs/this-weeks-newsletter-is-out-07-01-2023-locked-out-again-4mn5)
 - [Dev.to/JS] [VIRTUAL PIANO](https://dev.to/nagvanshi9275/virtual-piano-1gi7)
 - [Dev.to/JS] [Creating A Markdown Blog With Nextjs](https://dev.to/ethand91/creating-a-markdown-blog-with-nextjs-1dci)
 - [Dev.to/JS] [How to use gravatar API to render user public avatar](https://dev.to/sachinchaurasiya/how-to-use-gravatar-api-to-render-user-public-avatar-4jip)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make substring bold in JSON?](https://dev.to/hardiquedasore/how-to-make-substring-bold-in-json-ho3)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Dev.to/JS] [How to improve test coverage in a JavaScript React project](https://dev.to/andrewbaisden/how-to-improve-test-coverage-in-a-javascript-react-project-235p)
-- [Dev.to/JS] [My request](https://dev.to/oluwagb/my-request-49km)
-- [Dev.to/JS] [What is the purpose of Node.js and why is it so useful?](https://dev.to/kuldudecs50/what-is-the-purpose-of-nodejs-and-why-is-it-so-useful-34ch)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
 - [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)
