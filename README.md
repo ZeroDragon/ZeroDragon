@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Light/Dark theme toggle | 52 weeks of code](https://dev.to/ota200/lightdark-theme-toggle-52-weeks-of-code-35n3)
+- [Dev.to/JS] [Looking for Roadmap of Blockchain](https://dev.to/iamfarooqi/roadmap-for-blockchain-222n)
 - [Dev.to/JS] [Building a Github Profile using reactjs](https://dev.to/kuicpet/building-a-github-profile-using-reactjs-1b8b)
 - [Dev.to/JS] [Create Tabs with React Hooks](https://dev.to/nabillatrisnani/create-tabs-with-react-hooks-1o1a)
 - [Dev.to/JS] [Blog API using Express, JWT and MongoDB](https://dev.to/barnyvic/blog-api-using-express-jwt-and-mongodb-5gj5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What If “Burning Out” Is Our Soul Crying For Adventure?](https://dev.to/sashevuchkov/what-if-burning-out-is-our-soul-crying-for-adventure-1ll)
 - [Dev.to/JS] [How to start a project with NuxtJS 3 and Tailwindcss ?](https://dev.to/devyann/how-to-start-a-project-with-nuxtjs-3-and-tailwindcss--4oef)
 - [Dev.to/JS] [Kerassentials - Nail Fungus Reviews, Pros, Cons, Uses &amp; Benefits?](https://dev.to/kerassentials5/kerassentials-nail-fungus-reviews-pros-cons-uses-benefits-27ih)
-- [Dev.to/JS] [How to Use Morgan in Your Node.js Project](https://dev.to/devland/how-to-use-morgan-in-your-nodejs-project-21im)
-- [Dev.to/JS] [Cloudflare Workers + Twilio + Mailgun: A DIY Uptime Monitoring Solution](https://dev.to/dhanushreddy29/cloudflare-workers-twilio-mailgun-a-diy-uptime-monitoring-solution-2cjf)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
