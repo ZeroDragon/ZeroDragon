@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Is The Difference Between Synchronous Vs Asynchronous In Node.js](https://dev.to/uniquewebdev/what-is-the-difference-between-synchronous-vs-asynchronous-in-nodejs-5b42)
+- [Dev.to/JS] [5 Reasons Why Fat Arrow Functions are the Future of JavaScript](https://dev.to/javaoneworld/5-reasons-why-fat-arrow-functions-are-the-future-of-javascript-3cl)
+- [Dev.to/JS] [Paracetamol.js💊| #196: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-196-explica-este-codigo-javascript-akj)
 - [Dev.to/JS] [Light/Dark theme toggle | 52 weeks of code](https://dev.to/ota200/lightdark-theme-toggle-52-weeks-of-code-35n3)
+- [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Dev.to/JS] [Looking for Roadmap of Blockchain](https://dev.to/iamfarooqi/roadmap-for-blockchain-222n)
 - [Dev.to/JS] [Building a Github Profile using reactjs](https://dev.to/kuicpet/building-a-github-profile-using-reactjs-1b8b)
 - [Dev.to/JS] [Create Tabs with React Hooks](https://dev.to/nabillatrisnani/create-tabs-with-react-hooks-1o1a)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Script Tags: Do They Belong in the Body or the Head Section?](https://dev.to/nitinfab/script-tags-do-they-belong-in-the-body-or-the-head-section-4f55)
 - [Dev.to/JS] [10 Fun and Challenging Game Projects to Try in ReactJS](https://dev.to/divij2599/10-fun-and-challenging-game-projects-to-try-in-reactjs-4h5i)
 - [Dev.to/JS] [Diário de bordo #2](https://dev.to/analuisadev/diario-de-bordo-2-1l2c)
-- [Dev.to/JS] [What If “Burning Out” Is Our Soul Crying For Adventure?](https://dev.to/sashevuchkov/what-if-burning-out-is-our-soul-crying-for-adventure-1ll)
-- [Dev.to/JS] [How to start a project with NuxtJS 3 and Tailwindcss ?](https://dev.to/devyann/how-to-start-a-project-with-nuxtjs-3-and-tailwindcss--4oef)
-- [Dev.to/JS] [Kerassentials - Nail Fungus Reviews, Pros, Cons, Uses &amp; Benefits?](https://dev.to/kerassentials5/kerassentials-nail-fungus-reviews-pros-cons-uses-benefits-27ih)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)
 - [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)
 - [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)
-- [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)
-- [Lifehacker] [Three Things You Need in Your First Adult Kitchen](https://lifehacker.com/three-things-you-need-in-your-first-adult-kitchen-1849954362)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 of the Most Enduring Movie Debates Ever](https://lifehacker.com/12-of-the-most-enduring-movie-debates-ever-1849950082)<!-- TECH-POSTS:END -->
 
 ---
 
