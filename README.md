@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I want to start to learn a javascript framework](https://dev.to/fabiodev30/i-want-to-start-to-learn-a-javascript-framework-5he4)
+- [Dev.to/JS] [The role of empathy and emotional intelligence in effective leadership within a web development team](https://dev.to/hisachin/the-role-of-empathy-and-emotional-intelligence-in-effective-leadership-within-a-web-development-team-jgg)
+- [Dev.to/JS] [Mastering Technical Team Leadership for Mid to Senior Level Engineers](https://dev.to/hisachin/mastering-technical-team-leadership-for-mid-to-senior-level-engineers-1fjl)
+- [Dev.to/JS] [Difference Between Arguments and Parameters](https://dev.to/kellilil/difference-between-arguments-and-parameters-6kl)
 - [Dev.to/JS] [Finding Ghost elements with Ghost CSS !](https://dev.to/shrihari/finding-ghost-elements-with-ghost-css--1fa0)
 - [Dev.to/JS] [How to Create a QR-Code with React](https://dev.to/franciscomendes10866/how-to-create-a-qr-code-with-react-5aj9)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setup Next.js blog under a minute](https://dev.to/msaaddev/setup-nextjs-blog-under-a-minute-56l7)
 - [Dev.to/JS] [Cycling Challenge Dashboard with HTML &amp; CSS](https://dev.to/crayoncode/cycling-challenge-dashboard-with-html-css-1gi8)
 - [Dev.to/JS] [Customising a file input using Tailwind CSS](https://dev.to/devjameshay/customising-a-file-input-using-tailwind-css-37o9)
-- [Dev.to/JS] [What Is The Difference Between Synchronous Vs Asynchronous In Node.js](https://dev.to/uniquewebdev/what-is-the-difference-between-synchronous-vs-asynchronous-in-nodejs-5b42)
-- [Dev.to/JS] [5 Reasons Why Fat Arrow Functions are the Future of JavaScript](https://dev.to/javaoneworld/5-reasons-why-fat-arrow-functions-are-the-future-of-javascript-3cl)
-- [Dev.to/JS] [Paracetamol.js💊| #196: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-196-explica-este-codigo-javascript-akj)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
-- [Dev.to/JS] [Looking for Roadmap of Blockchain](https://dev.to/iamfarooqi/roadmap-for-blockchain-222n)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
