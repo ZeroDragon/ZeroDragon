@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Simple Steps to Creating Your Very Own npm Module](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
 - [Dev.to/JS] [How to effortlessly set up an Express development environment](https://dev.to/efkumah/how-to-effortlessly-set-up-an-express-development-environment-15mm)
 - [Dev.to/JS] [How to make substring bold in JSON?](https://dev.to/hardiquedasore/how-to-make-substring-bold-in-json-ho3)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six of the Most Ridiculous Food Challenges Across the US](https://lifehacker.com/six-of-the-most-ridiculous-food-challenges-across-the-u-1849956686)
 - [Dev.to/JS] [Images &amp; assets in Nuxt 3](https://dev.to/guillaumeduhan/images-assets-in-nuxt-3-55o8)
 - [Lifehacker] [10 of Our Favorite High Protein Snacks](https://lifehacker.com/10-of-our-favorite-high-protein-snacks-1849958812)
-- [Dev.to/JS] [5 Vue.js slot tricks to watch out for](https://dev.to/trueromanus/5-vuejs-slot-tricks-to-watch-out-for-5g6o)
 - [Lifehacker] [Use This Gesture to Select Multiple Items on Your iPhone](https://lifehacker.com/use-this-gesture-to-select-multiple-items-on-your-iphon-1849957641)
 - [Lifehacker] [You Should Automate Your Financial Goals](https://lifehacker.com/you-should-automate-your-financial-goals-1849958883)
 - [Lifehacker] [How to Disable Those Annoying &#39;Suggestion&#39; Ads on Your Windows PC](https://lifehacker.com/how-to-disable-those-annoying-suggestion-ads-on-your-wi-1849957475)
