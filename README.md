@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to start a project with NuxtJS 3 and Tailwindcss ?](https://dev.to/devyann/how-to-start-a-project-with-nuxtjs-3-and-tailwindcss--4oef)
+- [Dev.to/JS] [Kerassentials - Nail Fungus Reviews, Pros, Cons, Uses &amp; Benefits?](https://dev.to/kerassentials5/kerassentials-nail-fungus-reviews-pros-cons-uses-benefits-27ih)
+- [Dev.to/JS] [How to Use Morgan in Your Node.js Project](https://dev.to/devland/how-to-use-morgan-in-your-nodejs-project-21im)
+- [Dev.to/JS] [Cloudflare Workers + Twilio + Mailgun: A DIY Uptime Monitoring Solution](https://dev.to/dhanushreddy29/cloudflare-workers-twilio-mailgun-a-diy-uptime-monitoring-solution-2cjf)
 - [Dev.to/JS] [Convert srt to text regex javascript](https://dev.to/backlinkss/convert-srt-to-text-regex-javascript-3bak)
 - [Dev.to/JS] [Simple XSS Prevention Method in Javascript](https://dev.to/bl4ckst0n3/simple-xss-prevention-method-in-javascript-16n6)
 - [Dev.to/JS] [My first attempt to make script for Lazy-load images](https://dev.to/lestrae/my-first-attempt-to-make-script-for-lazy-load-images-5f06)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Double pendulums, how do they work? | Physics | Simulation | TypeScript](https://dev.to/nordicbeaver/double-pendulums-how-do-they-work-physics-simulation-typescript-2cg1)
 - [Dev.to/JS] [NextJS + GPT-3: Build a cover letter generator](https://dev.to/orlando70/nextjs-gpt-3-build-a-cover-letter-generator-28gc)
 - [Dev.to/JS] [Keto Clean+ Gummies - Fat Loss Reviews, Price, Benefits And Side Effects?](https://dev.to/gummies_clean/keto-clean-gummies-fat-loss-reviews-price-benefits-and-side-effects-18kc)
-- [Dev.to/JS] [Reasons Why You Should Learn JavaScript in 2023 [A Must read]](https://dev.to/d1_codes/reasons-why-you-should-learn-javascript-in-2023-a-must-read-c0e)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;07-01-2023&rpar; - Locked Out Again](https://dev.to/mjgs/this-weeks-newsletter-is-out-07-01-2023-locked-out-again-4mn5)
-- [Dev.to/JS] [VIRTUAL PIANO](https://dev.to/nagvanshi9275/virtual-piano-1gi7)
-- [Dev.to/JS] [Creating A Markdown Blog With Nextjs](https://dev.to/ethand91/creating-a-markdown-blog-with-nextjs-1dci)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
