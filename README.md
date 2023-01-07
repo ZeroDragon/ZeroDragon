@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chrome extensions for web developers](https://dev.to/vitomohagheghian/chrome-extensions-for-web-developers-541n)
 - [Dev.to/JS] [How to handle multiple queries with React-Query](https://dev.to/calvin087/how-to-handle-multiple-queries-with-react-query-24gn)
 - [Dev.to/JS] [Double pendulums, how do they work? | Physics | Simulation | TypeScript](https://dev.to/nordicbeaver/double-pendulums-how-do-they-work-physics-simulation-typescript-2cg1)
 - [Dev.to/JS] [Keto Clean+ Gummies - Fat Loss Reviews, Price, Benefits And Side Effects?](https://dev.to/gummies_clean/keto-clean-gummies-fat-loss-reviews-price-benefits-and-side-effects-18kc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [9 Essential Array Puzzles To Level Up Your JavaScript [JS Foundation]](https://dev.to/gustavupp/9-essential-array-puzzles-to-level-up-your-javascript-js-foundation-2oim)
 - [Dev.to/JS] [ดูหนัง【ลูกโป่งสีแดง】- Red Balloon Ep 7 ออนไลน์ตอนเต็มฟรี ซับไทย HD-THAI TV](https://dev.to/redballoonep7thaisub/duuhnangluukopngsiiaedng-red-balloon-ep-7-nailntnetmfrii-chabaithy-hd-thai-tv-34ai)
 - [Dev.to/JS] [JavaScript: variables, datatypes and operators and loops](https://dev.to/i_am_surendra_/javascript-variables-datatypes-and-operators-2f6h)
-- [Dev.to/JS] [5 Simple Steps to Creating Your Very Own npm Module](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
