@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VIRTUAL PIANO](https://dev.to/nagvanshi9275/virtual-piano-1gi7)
 - [Dev.to/JS] [Creating A Markdown Blog With Nextjs](https://dev.to/ethand91/creating-a-markdown-blog-with-nextjs-1dci)
 - [Dev.to/JS] [How to use gravatar API to render user public avatar](https://dev.to/sachinchaurasiya/how-to-use-gravatar-api-to-render-user-public-avatar-4jip)
 - [Dev.to/JS] [9 Essential Array Puzzles To Level Up Your JavaScript [JS Foundation]](https://dev.to/gustavupp/9-essential-array-puzzles-to-level-up-your-javascript-js-foundation-2oim)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to improve test coverage in a JavaScript React project](https://dev.to/andrewbaisden/how-to-improve-test-coverage-in-a-javascript-react-project-235p)
 - [Dev.to/JS] [My request](https://dev.to/oluwagb/my-request-49km)
 - [Dev.to/JS] [What is the purpose of Node.js and why is it so useful?](https://dev.to/kuldudecs50/what-is-the-purpose-of-nodejs-and-why-is-it-so-useful-34ch)
-- [Dev.to/JS] [Creating Auto Dynamic OG Images for Your Next.js Application with Serverless Functions](https://dev.to/ayka_code/creating-auto-dynamic-og-images-for-your-nextjs-application-with-serverless-functions-35cf)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
 - [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)
