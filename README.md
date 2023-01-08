@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Test your React Components with Nightwatch and Testing Library](https://dev.to/andreirusu_/test-your-react-components-with-nightwatch-and-testing-library-5f3g)
+- [Dev.to/JS] [5 superpowers of JAMstack that makes him a real superhero](https://dev.to/momciloo/5-superpowers-of-jamstackthat-makes-him-a-real-superhero-4h54)
+- [Dev.to/JS] [8 React Projects to Build in 2023](https://dev.to/reedbarger/8-react-projects-to-build-in-2023-49c8)
+- [Dev.to/JS] [Cancel HTTP Request by Using AbortController in Web App](https://dev.to/cakrads/cancel-http-request-by-using-abortcontroller-in-web-app-16di)
+- [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Dev.to/JS] [The useDeferredValue hook - React 17.0 beta features](https://dev.to/alfredosalzillo/the-usedeferredvalue-hook-react-170-beta-features-5bpo)
 - [Dev.to/JS] [ดู-โตเกียวรีเวนเจอร์ส ภาค 2 ซับไทย EP.1 ออนไลน์ THAI-HD](https://dev.to/toktorevengers2ep1thaidub/duu-otekiiywriiewnecchrs-phaakh-2-chabaithy-ep1-nailn-thai-hd-1gh4)
 - [Dev.to/JS] [Angular Server Side Rendering: A Comprehensive Guide for Developers](https://dev.to/wardvisual/angular-server-side-rendering-a-comprehensive-guide-for-developers-16mp)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/text-sharing-website-using-simple-javascript-2dp5)
 - [Dev.to/JS] [JavaScript Datatypes in Detail](https://dev.to/sammaji15/javascript-datatypes-in-detail-5f0g)
 - [Dev.to/JS] [10 Best Developer Swags for 2023](https://dev.to/j471n/10-best-developer-swags-for-2023-4oek)
-- [Dev.to/JS] [My Open-Source Project Got More Than 2.3K Github Stars 🤯⭐](https://dev.to/rammcodes/my-open-source-project-got-more-than-23k-github-stars-5deo)
-- [Dev.to/JS] [Important Regular Expression&lpar;REGEX&rpar; Patterns For Everyone](https://dev.to/arafat4693/maximize-your-productivity-with-these-handy-regular-expressionregex-patterns-14dh)
-- [Dev.to/JS] [SIMPLE NODE.JS SERVER EXAMPLE USING THE WATSON ASSISTANT API V2](https://dev.to/tsuedbroecker/simple-nodejs-server-example-using-the-watson-assistant-api-v2-19ao)
-- [Dev.to/JS] [With The Form Input element, I create a LOREM IPSUM Generating React App](https://dev.to/chenyibo406/with-the-form-input-element-create-a-lorem-ipsum-generating-react-app-3eme)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
 - [Lifehacker] [You Should Grate Dried Mushrooms All Over Everything](https://lifehacker.com/you-should-grate-dried-mushrooms-all-over-everything-1849955064)
 - [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)
-- [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)
-- [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)<!-- TECH-POSTS:END -->
 
 ---
 
