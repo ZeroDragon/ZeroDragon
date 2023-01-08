@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to SolidJS: How to Create Fast, Reactive Web Apps](https://dev.to/omher/intro-to-solidjs-how-to-create-fast-reactive-web-apps-15cn)
+- [Dev.to/JS] [Creating a Menu using React.js](https://dev.to/ijay/creating-a-menu-using-reactjs-526p)
+- [Dev.to/JS] [⚡️React Performance Optimization: useMemo vs useCallback](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)
 - [Dev.to/JS] [Create an HTTP server using 1 command](https://dev.to/devsmitra/create-an-http-server-using-1-command-4d6g)
 - [Dev.to/JS] [https://www.nectw721.com](https://dev.to/twcctz2000/httpswwwnectw721com-ngh)
 - [Dev.to/JS] [Building a website that sets up fake userAuthContext that carries out authentication.](https://dev.to/mataoseeker/building-a-website-that-sets-up-fake-userauthcontext-that-carries-out-authentication-3cnb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transform Your Input Fields with HTMLInputElement.setSelectionRange&lpar;&rpar;](https://dev.to/ashishpandey/transform-your-input-fields-with-htmlinputelementsetselectionrange-bje)
 - [Dev.to/JS] [The Crucial Concept of the Temporal Dead Zone: Don&#39;t Get Caught Off Guard in Your Next Interview!](https://dev.to/ashishpandey/the-crucial-concept-of-the-temporal-dead-zone-dont-get-caught-off-guard-in-your-next-interview-19jl)
 - [Dev.to/JS] [Developing a UI for Dash &lpar;Ð&rpar; CrowdNode.js - Mark III [Vanilla HTML, JS &amp; CSS] 📺 Episode 3 😵‍💫](https://dev.to/jojobyte/developing-a-ui-for-dash-d-crowdnodejs-mark-iii-vanilla-html-js-css-episode-3-2k1k)
-- [Dev.to/JS] [Introduction to Tailwind CSS](https://dev.to/basskibo/introduction-to-tailwind-css-2g3)
-- [Dev.to/JS] [JavaScript: reduce a profundidad con ejemplos](https://dev.to/duxtech/javascript-reduce-a-profundidad-con-ejemplos-1ldj)
-- [Dev.to/JS] [How to learn a web framework &lpar;time-efficiently&rpar;](https://dev.to/yasiendwieb/how-to-learn-a-web-framework-time-efficiently-4o01)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
