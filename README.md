@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
+- [Dev.to/JS] [6 Ways to loop over arrays in Javascript](https://dev.to/mitchiemt11/6-ways-to-loop-over-arrays-in-javascript-lgl)
+- [Dev.to/JS] [Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/text-sharing-website-using-simple-javascript-2dp5)
+- [Dev.to/JS] [JavaScript Datatypes in Detail](https://dev.to/sammaji15/javascript-datatypes-in-detail-5f0g)
+- [Dev.to/JS] [10 Best Developer Swags for 2023](https://dev.to/j471n/10-best-developer-swags-for-2023-4oek)
 - [Dev.to/JS] [My Open-Source Project Got More Than 2.3K Github Stars 🤯⭐](https://dev.to/rammcodes/my-open-source-project-got-more-than-23k-github-stars-5deo)
-- [Dev.to/JS] [Juicy Regular Expression&lpar;REGEX&rpar; Patterns For Everyone](https://dev.to/arafat4693/maximize-your-productivity-with-these-handy-regular-expressionregex-patterns-14dh)
+- [Dev.to/JS] [Important Regular Expression&lpar;REGEX&rpar; Patterns For Everyone](https://dev.to/arafat4693/maximize-your-productivity-with-these-handy-regular-expressionregex-patterns-14dh)
 - [Dev.to/JS] [SIMPLE NODE.JS SERVER EXAMPLE USING THE WATSON ASSISTANT API V2](https://dev.to/tsuedbroecker/simple-nodejs-server-example-using-the-watson-assistant-api-v2-19ao)
 - [Dev.to/JS] [With The Form Input element, I create a LOREM IPSUM Generating React App](https://dev.to/chenyibo406/with-the-form-input-element-create-a-lorem-ipsum-generating-react-app-3eme)
 - [Dev.to/JS] [How to download fancy QR Codes with React](https://dev.to/anshsaini/how-to-download-fancy-qr-codes-with-react-b25)
 - [Dev.to/JS] [How to use wildcards in ExpressJs and Fastify monitoring libraries](https://dev.to/inspector/how-to-use-wildcards-in-expressjs-and-fastify-monitoring-libraries-41ac)
 - [Dev.to/JS] [JavaScript null is weird](https://dev.to/niza/javascript-null-is-weird-33o9)
 - [Dev.to/JS] [Intro to SolidJS: How to Create Fast, Reactive Web Apps](https://dev.to/omher/intro-to-solidjs-how-to-create-fast-reactive-web-apps-15cn)
-- [Dev.to/JS] [Creating a Menu using React.js](https://dev.to/ijay/creating-a-menu-using-reactjs-526p)
-- [Dev.to/JS] [⚡️React Performance Optimization: useMemo vs useCallback](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)
-- [Dev.to/JS] [Create an HTTP server using 1 command](https://dev.to/devsmitra/create-an-http-server-using-1-command-4d6g)
-- [Dev.to/JS] [https://www.nectw721.com](https://dev.to/twcctz2000/httpswwwnectw721com-ngh)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Grate Dried Mushrooms All Over Everything](https://lifehacker.com/you-should-grate-dried-mushrooms-all-over-everything-1849955064)
 - [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)
 - [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)
-- [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)
-- [Lifehacker] [The Easiest Way to Get Dents Out of Wood](https://lifehacker.com/the-easiest-way-to-get-dents-out-of-wood-1849952032)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your PS5 Can Have Faster Internet](https://lifehacker.com/your-ps5-can-have-faster-internet-1849953810)<!-- TECH-POSTS:END -->
 
 ---
 
