@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Facade pattern in TypeScript](https://dev.to/jmalvarez/facade-pattern-in-typescript-37n)
+- [Dev.to/JS] [Creating a toast notification system for you react web app](https://dev.to/gatesvert81/creating-a-toast-notification-system-for-you-react-web-app-fl0)
 - [Dev.to/JS] [Create a project in React without create-react-app/vite 2023 &lpar;Spanish&rpar;](https://dev.to/alfredocu/create-a-project-in-react-without-create-react-appvite-2023-spanish-12nd)
 - [Dev.to/JS] [How to Use the Call, Apply, and Bind Functions in JavaScript .](https://dev.to/neeraj1997dev/how-to-use-the-call-apply-and-bind-functions-in-javascript--o7)
 - [Dev.to/JS] [Add TOC with Scroll Spy in Astro](https://dev.to/fazzaamiarso/add-toc-with-scroll-spy-in-astro-3d25)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The useDeferredValue hook - React 17.0 beta features](https://dev.to/alfredosalzillo/the-usedeferredvalue-hook-react-170-beta-features-5bpo)
 - [Dev.to/JS] [ดู-โตเกียวรีเวนเจอร์ส ภาค 2 ซับไทย EP.1 ออนไลน์ THAI-HD](https://dev.to/toktorevengers2ep1thaidub/duu-otekiiywriiewnecchrs-phaakh-2-chabaithy-ep1-nailn-thai-hd-1gh4)
 - [Dev.to/JS] [Angular Server Side Rendering: A Comprehensive Guide for Developers](https://dev.to/wardvisual/angular-server-side-rendering-a-comprehensive-guide-for-developers-16mp)
-- [Dev.to/JS] [LeetCode - Binary Tree Level Order Traversal II](https://dev.to/_alkesh26/leetcode-binary-tree-level-order-traversal-ii-1e4o)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
-- [Dev.to/JS] [6 Ways to loop over arrays in Javascript](https://dev.to/mitchiemt11/6-ways-to-loop-over-arrays-in-javascript-lgl)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
