@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a Counter Application using custom hooks and useReducer in React with good SEO, Error Boundary and 404 page](https://dev.to/buchman/how-to-create-a-counter-application-using-custom-hooks-and-usereducer-in-react-with-good-seo-error-boundary-and-404-page-16cj)
+- [Dev.to/JS] [React Router with nested route](https://dev.to/adeagbotoheeb/react-router-with-nested-route-2552)
+- [Dev.to/JS] [State Management in Frontend Development: An Overview and Case Study](https://dev.to/hitonomi_0/state-management-in-frontend-development-an-overview-and-case-study-2a)
 - [Dev.to/JS] [How to use Typescript Package in Javascript React?](https://dev.to/yuqingma/how-to-use-typescript-package-in-javascript-react-3igk)
 - [Dev.to/JS] [React Interviews: The Most Important Topics to Review](https://dev.to/kanav/react-interviews-the-most-important-topics-to-review-1pnl)
 - [Dev.to/JS] [LeetCode - Minimum Size Subarray Sum](https://dev.to/_alkesh26/leetcode-minimum-size-subarray-sum-1f9o)
@@ -30,11 +33,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React counter component two different ways - useReducer and customHooks.](https://dev.to/agwa/react-counter-component-two-different-ways-usereducer-and-customhooks-4plc)
 - [Dev.to/JS] [Composables with Nuxt 3](https://dev.to/guillaumeduhan/composables-with-nuxt-3-5hc)
 - [Dev.to/JS] [How to keep a healthy package.json](https://dev.to/mayruiz27/how-to-keep-a-healthy-packagejson-55pe)
-- [Dev.to/JS] [How I cloned LeetCode with React, GraphQL, Express, Monaco](https://dev.to/kacperturon/how-i-cloned-leetcode-with-react-graphql-express-monaco-46h0)
 - [Dev.to/JS] [Zod: The Next Biggest thing after Typescript](https://dev.to/jareechang/zod-the-next-biggest-thing-after-typescript-4phh)
 - [Dev.to/JS] [IP Geolocation and Threat Intelligence - Detect your visitors IP with this API!](https://dev.to/goktugerol/ip-geolocation-and-threat-intelligence-detect-your-visitors-ip-with-this-api-2e4i)
-- [Dev.to/JS] [How to use Service Workers with React and Vite](https://dev.to/franciscomendes10866/how-to-use-service-workers-with-react-17p2)
-- [Dev.to/JS] [Scrape Yelp Business Reviews](https://dev.to/serpdogapi/scrape-yelp-business-reviews-2b42)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
