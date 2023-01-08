@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [With The Form Input element, I create a LOREM IPSUM Generating React App](https://dev.to/chenyibo406/with-the-form-input-element-create-a-lorem-ipsum-generating-react-app-3eme)
+- [Dev.to/JS] [How to download fancy QR Codes with React](https://dev.to/anshsaini/how-to-download-fancy-qr-codes-with-react-b25)
+- [Dev.to/JS] [How to use wildcards in ExpressJs and Fastify monitoring libraries](https://dev.to/inspector/how-to-use-wildcards-in-expressjs-and-fastify-monitoring-libraries-41ac)
+- [Dev.to/JS] [JavaScript null is weird](https://dev.to/niza/javascript-null-is-weird-33o9)
 - [Dev.to/JS] [Intro to SolidJS: How to Create Fast, Reactive Web Apps](https://dev.to/omher/intro-to-solidjs-how-to-create-fast-reactive-web-apps-15cn)
 - [Dev.to/JS] [Creating a Menu using React.js](https://dev.to/ijay/creating-a-menu-using-reactjs-526p)
 - [Dev.to/JS] [⚡️React Performance Optimization: useMemo vs useCallback](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a website that sets up fake userAuthContext that carries out authentication.](https://dev.to/mataoseeker/building-a-website-that-sets-up-fake-userauthcontext-that-carries-out-authentication-3cnb)
 - [Dev.to/JS] [How to create components in React &lpar;create custom components&rpar; | React Recipes](https://dev.to/rahxuls/how-to-create-components-in-react-create-custom-components-react-recipes-j40)
 - [Dev.to/JS] [How to Create an Astro JS Project - Quick Start Guide](https://dev.to/danidiaztech/how-to-create-an-astro-js-project-quick-start-guide-1hgm)
-- [Dev.to/JS] [5 Steps to Become a React Pro in 2023!](https://dev.to/dhairyashah/5-steps-to-become-a-react-pro-in-2023-52ee)
-- [Dev.to/JS] [Transform Your Input Fields with HTMLInputElement.setSelectionRange&lpar;&rpar;](https://dev.to/ashishpandey/transform-your-input-fields-with-htmlinputelementsetselectionrange-bje)
-- [Dev.to/JS] [The Crucial Concept of the Temporal Dead Zone: Don&#39;t Get Caught Off Guard in Your Next Interview!](https://dev.to/ashishpandey/the-crucial-concept-of-the-temporal-dead-zone-dont-get-caught-off-guard-in-your-next-interview-19jl)
-- [Dev.to/JS] [Developing a UI for Dash &lpar;Ð&rpar; CrowdNode.js - Mark III [Vanilla HTML, JS &amp; CSS] 📺 Episode 3 😵‍💫](https://dev.to/jojobyte/developing-a-ui-for-dash-d-crowdnodejs-mark-iii-vanilla-html-js-css-episode-3-2k1k)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
