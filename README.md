@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Typescript Package in Javascript React?](https://dev.to/yuqingma/how-to-use-typescript-package-in-javascript-react-3igk)
+- [Dev.to/JS] [React Interviews: The Most Important Topics to Review](https://dev.to/kanav/react-interviews-the-most-important-topics-to-review-1pnl)
+- [Dev.to/JS] [LeetCode - Minimum Size Subarray Sum](https://dev.to/_alkesh26/leetcode-minimum-size-subarray-sum-1f9o)
+- [Dev.to/JS] [Dive Into the World of Open Source: From Novice to Contributor in 6 Steps](https://dev.to/thenomadevel/dive-into-the-world-of-open-source-from-novice-to-contributor-in-6-steps-1bh1)
 - [Dev.to/JS] [React counter component two different ways - useReducer and customHooks.](https://dev.to/agwa/react-counter-component-two-different-ways-usereducer-and-customhooks-4plc)
 - [Dev.to/JS] [Composables with Nuxt 3](https://dev.to/guillaumeduhan/composables-with-nuxt-3-5hc)
 - [Dev.to/JS] [How to keep a healthy package.json](https://dev.to/mayruiz27/how-to-keep-a-healthy-packagejson-55pe)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [IP Geolocation and Threat Intelligence - Detect your visitors IP with this API!](https://dev.to/goktugerol/ip-geolocation-and-threat-intelligence-detect-your-visitors-ip-with-this-api-2e4i)
 - [Dev.to/JS] [How to use Service Workers with React and Vite](https://dev.to/franciscomendes10866/how-to-use-service-workers-with-react-17p2)
 - [Dev.to/JS] [Scrape Yelp Business Reviews](https://dev.to/serpdogapi/scrape-yelp-business-reviews-2b42)
-- [Dev.to/JS] [How I approach testing in Angular and React.](https://dev.to/mikesimmonds/how-i-approach-testing-in-angular-and-react-37ni)
-- [Dev.to/JS] [Facade pattern in TypeScript](https://dev.to/jmalvarez/facade-pattern-in-typescript-37n)
-- [Dev.to/JS] [Creating a toast notification system for you react web app](https://dev.to/gatesvert81/creating-a-toast-notification-system-for-you-react-web-app-fl0)
-- [Dev.to/JS] [Create a project in React without create-react-app/vite 2023 &lpar;Spanish&rpar;](https://dev.to/alfredocu/create-a-project-in-react-without-create-react-appvite-2023-spanish-12nd)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
