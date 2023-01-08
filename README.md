@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Open-Source Project Got More Than 2.3K Github Stars 🤯⭐](https://dev.to/rammcodes/my-open-source-project-got-more-than-23k-github-stars-5deo)
+- [Dev.to/JS] [Juicy Regular Expression&lpar;REGEX&rpar; Patterns For Everyone](https://dev.to/arafat4693/maximize-your-productivity-with-these-handy-regular-expressionregex-patterns-14dh)
+- [Dev.to/JS] [SIMPLE NODE.JS SERVER EXAMPLE USING THE WATSON ASSISTANT API V2](https://dev.to/tsuedbroecker/simple-nodejs-server-example-using-the-watson-assistant-api-v2-19ao)
 - [Dev.to/JS] [With The Form Input element, I create a LOREM IPSUM Generating React App](https://dev.to/chenyibo406/with-the-form-input-element-create-a-lorem-ipsum-generating-react-app-3eme)
 - [Dev.to/JS] [How to download fancy QR Codes with React](https://dev.to/anshsaini/how-to-download-fancy-qr-codes-with-react-b25)
 - [Dev.to/JS] [How to use wildcards in ExpressJs and Fastify monitoring libraries](https://dev.to/inspector/how-to-use-wildcards-in-expressjs-and-fastify-monitoring-libraries-41ac)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⚡️React Performance Optimization: useMemo vs useCallback](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)
 - [Dev.to/JS] [Create an HTTP server using 1 command](https://dev.to/devsmitra/create-an-http-server-using-1-command-4d6g)
 - [Dev.to/JS] [https://www.nectw721.com](https://dev.to/twcctz2000/httpswwwnectw721com-ngh)
-- [Dev.to/JS] [Building a website that sets up fake userAuthContext that carries out authentication.](https://dev.to/mataoseeker/building-a-website-that-sets-up-fake-userauthcontext-that-carries-out-authentication-3cnb)
-- [Dev.to/JS] [How to create components in React &lpar;create custom components&rpar; | React Recipes](https://dev.to/rahxuls/how-to-create-components-in-react-create-custom-components-react-recipes-j40)
-- [Dev.to/JS] [How to Create an Astro JS Project - Quick Start Guide](https://dev.to/danidiaztech/how-to-create-an-astro-js-project-quick-start-guide-1hgm)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
