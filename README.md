@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Crucial Concept of the Temporal Dead Zone: Don&#39;t Get Caught Off Guard in Your Next Interview!](https://dev.to/ashishpandey/the-crucial-concept-of-the-temporal-dead-zone-dont-get-caught-off-guard-in-your-next-interview-19jl)
 - [Dev.to/JS] [Introduction to Tailwind CSS](https://dev.to/basskibo/introduction-to-tailwind-css-2g3)
 - [Dev.to/JS] [JavaScript: reduce a profundidad con ejemplos](https://dev.to/duxtech/javascript-reduce-a-profundidad-con-ejemplos-1ldj)
 - [Dev.to/JS] [How to learn a web framework &lpar;time-efficiently&rpar;](https://dev.to/yasiendwieb/how-to-learn-a-web-framework-time-efficiently-4o01)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is destructuring in JavaScript?](https://dev.to/ezinne_anne/what-is-destructuring-in-javascript-1aae)
 - [Dev.to/JS] [The difference between functional and object orientated programming](https://dev.to/andrewbaisden/the-difference-between-functional-and-object-orientated-programming-833)
 - [Dev.to/JS] [Full Stack Web Developemnt Roadmap 2023](https://dev.to/keshavop/full-stack-web-developemnt-roadmap-2023-4bae)
-- [Dev.to/JS] [Easy Rock Paper Scissor’s game with JavaScript](https://dev.to/pandersail/easy-rock-paper-scissors-game-with-javascript-382d)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
