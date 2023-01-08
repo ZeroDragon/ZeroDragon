@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create an HTTP server using 1 command](https://dev.to/devsmitra/create-an-http-server-using-1-command-4d6g)
+- [Dev.to/JS] [https://www.nectw721.com](https://dev.to/twcctz2000/httpswwwnectw721com-ngh)
+- [Dev.to/JS] [Building a website that sets up fake userAuthContext that carries out authentication.](https://dev.to/mataoseeker/building-a-website-that-sets-up-fake-userauthcontext-that-carries-out-authentication-3cnb)
+- [Dev.to/JS] [How to create components in React &lpar;create custom components&rpar; | React Recipes](https://dev.to/rahxuls/how-to-create-components-in-react-create-custom-components-react-recipes-j40)
 - [Dev.to/JS] [How to Create an Astro JS Project - Quick Start Guide](https://dev.to/danidiaztech/how-to-create-an-astro-js-project-quick-start-guide-1hgm)
 - [Dev.to/JS] [5 Steps to Become a React Pro in 2023!](https://dev.to/dhairyashah/5-steps-to-become-a-react-pro-in-2023-52ee)
 - [Dev.to/JS] [Transform Your Input Fields with HTMLInputElement.setSelectionRange&lpar;&rpar;](https://dev.to/ashishpandey/transform-your-input-fields-with-htmlinputelementsetselectionrange-bje)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Tailwind CSS](https://dev.to/basskibo/introduction-to-tailwind-css-2g3)
 - [Dev.to/JS] [JavaScript: reduce a profundidad con ejemplos](https://dev.to/duxtech/javascript-reduce-a-profundidad-con-ejemplos-1ldj)
 - [Dev.to/JS] [How to learn a web framework &lpar;time-efficiently&rpar;](https://dev.to/yasiendwieb/how-to-learn-a-web-framework-time-efficiently-4o01)
-- [Dev.to/JS] [Supercharge Your Skills: 7 Tips for Writing Clean and Efficient JavaScript](https://dev.to/mohsenkamrani/supercharge-your-skills-7-tips-for-writing-clean-and-efficient-javascript-1gjf)
-- [Dev.to/JS] [Jamstack: Modern Web Development Made Easy](https://dev.to/pul/jamstack-modern-web-development-made-easy-52dg)
-- [Dev.to/JS] [How do you check for valid email input?](https://dev.to/bolouie/how-do-you-check-for-valid-email-input-3b3j)
-- [Dev.to/JS] [No to Imperative Code! Because Debugging Spaghetti is No Fun](https://dev.to/noriller/no-to-imperative-code-because-debugging-spaghetti-is-no-fun-4hle)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
