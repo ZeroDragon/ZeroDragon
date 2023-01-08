@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create an Astro JS Project - Quick Start Guide](https://dev.to/danidiaztech/how-to-create-an-astro-js-project-quick-start-guide-1hgm)
+- [Dev.to/JS] [5 Steps to Become a React Pro in 2023!](https://dev.to/dhairyashah/5-steps-to-become-a-react-pro-in-2023-52ee)
 - [Dev.to/JS] [Transform Your Input Fields with HTMLInputElement.setSelectionRange&lpar;&rpar;](https://dev.to/ashishpandey/transform-your-input-fields-with-htmlinputelementsetselectionrange-bje)
 - [Dev.to/JS] [The Crucial Concept of the Temporal Dead Zone: Don&#39;t Get Caught Off Guard in Your Next Interview!](https://dev.to/ashishpandey/the-crucial-concept-of-the-temporal-dead-zone-dont-get-caught-off-guard-in-your-next-interview-19jl)
 - [Dev.to/JS] [Introduction to Tailwind CSS](https://dev.to/basskibo/introduction-to-tailwind-css-2g3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do you check for valid email input?](https://dev.to/bolouie/how-do-you-check-for-valid-email-input-3b3j)
 - [Dev.to/JS] [No to Imperative Code! Because Debugging Spaghetti is No Fun](https://dev.to/noriller/no-to-imperative-code-because-debugging-spaghetti-is-no-fun-4hle)
 - [Dev.to/JS] [New Node.js ORM&lpar;Opensql&rpar;](https://dev.to/aliazmoodeh/new-nodejs-ormopensql-18ii)
-- [Dev.to/JS] [What is destructuring in JavaScript?](https://dev.to/ezinne_anne/what-is-destructuring-in-javascript-1aae)
-- [Dev.to/JS] [The difference between functional and object orientated programming](https://dev.to/andrewbaisden/the-difference-between-functional-and-object-orientated-programming-833)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
