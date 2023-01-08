@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a project in React without create-react-app/vite 2023 &lpar;Spanish&rpar;](https://dev.to/alfredocu/create-a-project-in-react-without-create-react-appvite-2023-spanish-12nd)
+- [Dev.to/JS] [How to Use the Call, Apply, and Bind Functions in JavaScript .](https://dev.to/neeraj1997dev/how-to-use-the-call-apply-and-bind-functions-in-javascript--o7)
+- [Dev.to/JS] [Add TOC with Scroll Spy in Astro](https://dev.to/fazzaamiarso/add-toc-with-scroll-spy-in-astro-3d25)
 - [Dev.to/JS] [Test your React Components with Nightwatch and Testing Library](https://dev.to/andreirusu_/test-your-react-components-with-nightwatch-and-testing-library-5f3g)
 - [Dev.to/JS] [5 superpowers of JAMstack that makes him a real superhero](https://dev.to/momciloo/5-superpowers-of-jamstackthat-makes-him-a-real-superhero-4h54)
 - [Dev.to/JS] [8 React Projects to Build in 2023](https://dev.to/reedbarger/8-react-projects-to-build-in-2023-49c8)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Binary Tree Level Order Traversal II](https://dev.to/_alkesh26/leetcode-binary-tree-level-order-traversal-ii-1e4o)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Dev.to/JS] [6 Ways to loop over arrays in Javascript](https://dev.to/mitchiemt11/6-ways-to-loop-over-arrays-in-javascript-lgl)
-- [Dev.to/JS] [Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/text-sharing-website-using-simple-javascript-2dp5)
-- [Dev.to/JS] [JavaScript Datatypes in Detail](https://dev.to/sammaji15/javascript-datatypes-in-detail-5f0g)
-- [Dev.to/JS] [10 Best Developer Swags for 2023](https://dev.to/j471n/10-best-developer-swags-for-2023-4oek)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
