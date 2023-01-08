@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to learn a web framework &lpar;time-efficiently&rpar;](https://dev.to/yasiendwieb/how-to-learn-a-web-framework-time-efficiently-4o01)
+- [Dev.to/JS] [Supercharge Your Skills: 7 Tips for Writing Clean and Efficient JavaScript](https://dev.to/mohsenkamrani/supercharge-your-skills-7-tips-for-writing-clean-and-efficient-javascript-1gjf)
 - [Dev.to/JS] [Jamstack: Modern Web Development Made Easy](https://dev.to/pul/jamstack-modern-web-development-made-easy-52dg)
 - [Dev.to/JS] [How do you check for valid email input?](https://dev.to/bolouie/how-do-you-check-for-valid-email-input-3b3j)
 - [Dev.to/JS] [No to Imperative Code! Because Debugging Spaghetti is No Fun](https://dev.to/noriller/no-to-imperative-code-because-debugging-spaghetti-is-no-fun-4hle)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy Rock Paper Scissor’s game with JavaScript](https://dev.to/pandersail/easy-rock-paper-scissors-game-with-javascript-382d)
 - [Dev.to/JS] [Important JavaScript Concepts](https://dev.to/oluwatrillions/important-javascript-concepts-4e4c)
 - [Dev.to/JS] [WTF is Higher Order Function ?](https://dev.to/dipakkr/wtf-is-higher-order-function--3lfo)
-- [Dev.to/JS] [If JavaScript would have interfaces: pseudo_c0de](https://dev.to/projektorius96/if-javascript-would-have-interfaces-pseudoc0de-51e9)
-- [Dev.to/JS] [Performant React scroll hook &lpar;BETA&rpar;](https://dev.to/elsyng/performant-react-scroll-hook-beta-793)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
