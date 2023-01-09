@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use Node RED to Read Barcode and QR Code in JavaScript](https://dev.to/yushulx/how-to-use-node-red-to-read-barcode-and-qr-code-in-javascript-l0p)
+- [Dev.to/JS] [E-commerce Web App Using React Storefronts Build &amp; Deploy an Amazing App](https://dev.to/jessica020799/e-commerce-web-app-using-react-storefronts-build-deploy-an-amazing-app-3pbc)
+- [Dev.to/JS] [Implementing Microservice Architecture In Node JS](https://dev.to/lovepreetsingh/implementing-microservice-architecture-in-node-js-1fg3)
 - [Dev.to/JS] [IOT &amp; NETWORKING](https://dev.to/trixtec/iot-and-networking-3kpc)
 - [Dev.to/JS] [Simple Landing Page in HTML](https://dev.to/manawariqbal/simple-landing-page-in-html-430c)
 - [Dev.to/JS] [How Efficient is Delegation Design Pattern in Angular](https://dev.to/kptengco/how-efficient-is-delegation-design-pattern-in-angular-67h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Want to Setup and Configure TailwindCSS in React, Here&#39;s How You Can](https://dev.to/nitinfab/want-to-setup-and-configure-tailwindcss-in-react-heres-how-you-can-2j42)
 - [Dev.to/JS] [Podcasts and why I love them for Computer Science](https://dev.to/adamaslan/podcasts-and-why-i-love-them-for-computer-science-2mhc)
 - [Dev.to/JS] [Progressive Web Apps : An introduction](https://dev.to/vnaydev/progressive-web-apps-an-introduction-1k5j)
-- [Dev.to/JS] [Dream Garage: My First Project](https://dev.to/fredie_aponte_28c04a9b601/dream-garage-my-first-project-33bj)
-- [Dev.to/JS] [IT Staff is Among Jobs with Highest Burnout Rate – How to Avoid IT Staff Burnout](https://dev.to/hellenwrites19/it-staff-is-among-jobs-with-highest-burnout-rate-how-to-avoid-it-staff-burnout-14d8)
-- [Dev.to/JS] [How to debounce a input text on React](https://dev.to/rick1196/how-to-debounce-a-input-text-on-react-1g60)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
