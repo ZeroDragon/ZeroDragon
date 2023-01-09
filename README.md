@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IOT &amp; NETWORKING](https://dev.to/trixtec/iot-and-networking-3kpc)
+- [Dev.to/JS] [Simple Landing Page in HTML](https://dev.to/manawariqbal/simple-landing-page-in-html-430c)
+- [Dev.to/JS] [How Efficient is Delegation Design Pattern in Angular](https://dev.to/kptengco/how-efficient-is-delegation-design-pattern-in-angular-67h)
+- [Dev.to/JS] [IOT INTEGRATION WITH NETWORK](https://dev.to/hqmn/iot-integration-with-network-2gkk)
 - [Dev.to/JS] [GlucoTrust - Blood Sugar Solution, Price, Benefits And Reviews?](https://dev.to/glucotrust14/glucotrust-blood-sugar-solution-price-benefits-and-reviews-47mg)
 - [Dev.to/JS] [Create a Node.js command-line library with NRWL NX workspace](https://dev.to/eransakal/create-a-nodejs-command-line-library-with-nrwl-nx-workspace-5hin)
 - [Dev.to/JS] [Want to Setup and Configure TailwindCSS in React, Here&#39;s How You Can](https://dev.to/nitinfab/want-to-setup-and-configure-tailwindcss-in-react-heres-how-you-can-2j42)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dream Garage: My First Project](https://dev.to/fredie_aponte_28c04a9b601/dream-garage-my-first-project-33bj)
 - [Dev.to/JS] [IT Staff is Among Jobs with Highest Burnout Rate – How to Avoid IT Staff Burnout](https://dev.to/hellenwrites19/it-staff-is-among-jobs-with-highest-burnout-rate-how-to-avoid-it-staff-burnout-14d8)
 - [Dev.to/JS] [How to debounce a input text on React](https://dev.to/rick1196/how-to-debounce-a-input-text-on-react-1g60)
-- [Dev.to/JS] [10 Node.js Frameworks Every Developer Should Know](https://dev.to/devland/10-nodejs-frameworks-every-developer-should-know-12dg)
-- [Dev.to/JS] [LEARN: Take a Break Reminder App with NextJs and Microsoft Graph](https://dev.to/azure/learn-take-a-break-reminder-app-3gj6)
-- [Dev.to/JS] [Five JavaScript Animation Libraries to try out](https://dev.to/asayerio_techblog/five-javascript-animation-libraries-to-try-out-14a9)
-- [Dev.to/JS] [Code Smell 191 - Misplaced Responsibility](https://dev.to/mcsee/code-smell-191-misplaced-responsibility-53ik)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
