@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Next Baked Potato Should Be a Yukon, Not a Russet](https://lifehacker.com/your-next-baked-potato-should-be-a-yukon-not-a-russet-1849961269)
+- [Dev.to/JS] [Make Your Code Self-Documenting with Descriptive Event Handler Names](https://dev.to/albertoforni/make-your-code-self-documenting-with-descriptive-event-handler-names-210i)
+- [Lifehacker] [How to Start Editing Wikipedia Articles On Your Own](https://lifehacker.com/how-to-start-editing-wikipedia-articles-on-your-own-1849963125)
+- [Dev.to/JS] [Returning object literals using Javascript arrow function](https://dev.to/jdx_code/returning-object-literals-using-javascript-arrow-function-3h7)
 - [Lifehacker] [15 of the Best Movies About Huge Liars](https://lifehacker.com/15-of-the-best-movies-about-huge-liars-1849953754)
-- [Dev.to/JS] [Creating Animations and Transitions with CSS](https://dev.to/ariellun/creating-animations-and-transitions-with-css-2eo3)
 - [Dev.to/JS] [An introduction to recursion in Javascript](https://dev.to/tqbit/an-introduction-to-recursion-in-javascript-2b3n)
 - [Lifehacker] [Use Old Wine Bottles to Water Your Houseplants](https://lifehacker.com/use-old-wine-bottles-to-water-your-houseplants-1849960542)
 - [Dev.to/JS] [Have you learned Javascript yet?](https://dev.to/stateofdevnation/have-you-learned-javascript-yet-3k63)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Journey in Open Source - ab-test-fn](https://dev.to/cadienvan/my-journey-in-open-source-ab-test-fn-1afo)
 - [Dev.to/JS] [A Software Developer’s Guide to Writing](https://dev.to/tyaga001/a-software-developers-guide-to-writing-bgj)
 - [Dev.to/JS] [Complete React tutorials](https://dev.to/ministryofjavascript/complete-react-tutorials-k4j)
-- [Dev.to/JS] [Effortlessly manage configuration data in your Node.js microservices with nconf](https://dev.to/asifroyal/effortlessly-manage-configuration-data-in-your-nodejs-microservices-with-nconf-1hl6)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)
 - [Lifehacker] [The Easiest Way to Make Your Winter Tomato Sauce Taste More Summery](https://lifehacker.com/the-easiest-way-to-make-your-winter-tomato-sauce-taste-1849956192)
 - [Lifehacker] [The Best Deals You Can Find in January &lpar;and What Not to Buy&rpar;](https://lifehacker.com/the-best-deals-you-can-find-in-january-and-what-not-to-1849954638)
-- [Lifehacker] [Don&#39;t Waste Your Time With These Terrible Diet Tips](https://lifehacker.com/dont-waste-your-time-with-these-terrible-diet-tips-1849954846)
-- [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
-- [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Waste Your Time With These Terrible Diet Tips](https://lifehacker.com/dont-waste-your-time-with-these-terrible-diet-tips-1849954846)<!-- TECH-POSTS:END -->
 
 ---
 
