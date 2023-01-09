@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
+- [Lifehacker] [9 Unexpected Ways to Use Your Cooling Rack](https://lifehacker.com/9-unexpected-ways-to-use-your-cooling-rack-1849966446)
+- [Dev.to/JS] [O funcionamento das Conversões de Tipo e sua prática:](https://dev.to/altencirsilvajr/o-funcionamento-das-conversoes-de-tipo-e-sua-pratica-2nfc)
 - [Lifehacker] [Don&#39;t Pay for This Scammy ChatGPT Clone](https://lifehacker.com/dont-pay-for-this-scammy-chatgpt-clone-1849965653)
 - [Dev.to/JS] [How to build a counter app using useReducer and customHooks with react.js](https://dev.to/kathykay/how-to-build-a-counter-app-using-usereducer-and-customhooks-with-reactjs-5bj5)
 - [Lifehacker] [Is That Crack in Your Foundation Worth Worrying About?](https://lifehacker.com/is-that-crack-in-your-foundation-worth-worrying-about-1849964611)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to React: Setting up Your First React Project](https://dev.to/devarshishimpi/introduction-to-react-setting-up-your-first-react-project-39mh)
 - [Lifehacker] [Where to Find Discounted Home Gym Equipment Right Now](https://lifehacker.com/where-to-find-discounted-home-gym-equipment-right-now-1849961075)
 - [Dev.to/JS] [How To fetch data from an API in a React application](https://dev.to/ikamran/how-to-fetch-data-from-an-api-in-a-react-application-212f)
-- [Dev.to/JS] [Criando uma paginação do zero com React usando Hooks](https://dev.to/trinitypath/criando-uma-paginacao-do-zero-com-react-usando-hooks-3e13)
 - [Lifehacker] [This Coffee Brewing Method Delivers the Biggest Jolt of Caffeine](https://lifehacker.com/this-coffee-brewing-method-delivers-the-biggest-jolt-of-1849964718)
 - [Lifehacker] [You Can Make Your Giant iPhone Easier to Use With One Hand](https://lifehacker.com/you-can-make-your-giant-iphone-easier-to-use-with-one-h-1849964552)
 - [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
 - [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)
 - [Lifehacker] [11 Surprising Household Uses for Boiling Water](https://lifehacker.com/11-surprising-household-uses-for-boiling-water-1849959610)
-- [Lifehacker] [Six of the Most Ridiculous Food Challenges Across the US](https://lifehacker.com/six-of-the-most-ridiculous-food-challenges-across-the-u-1849956686)
-- [Lifehacker] [10 of Our Favorite High Protein Snacks](https://lifehacker.com/10-of-our-favorite-high-protein-snacks-1849958812)
-- [Lifehacker] [Use This Gesture to Select Multiple Items on Your iPhone](https://lifehacker.com/use-this-gesture-to-select-multiple-items-on-your-iphon-1849957641)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Six of the Most Ridiculous Food Challenges Across the US](https://lifehacker.com/six-of-the-most-ridiculous-food-challenges-across-the-u-1849956686)<!-- TECH-POSTS:END -->
 
 ---
 
