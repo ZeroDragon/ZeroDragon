@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Pay for This Scammy ChatGPT Clone](https://lifehacker.com/dont-pay-for-this-scammy-chatgpt-clone-1849965653)
+- [Dev.to/JS] [How to build a counter app using useReducer and customHooks with react.js](https://dev.to/kathykay/how-to-build-a-counter-app-using-usereducer-and-customhooks-with-reactjs-5bj5)
+- [Lifehacker] [Is That Crack in Your Foundation Worth Worrying About?](https://lifehacker.com/is-that-crack-in-your-foundation-worth-worrying-about-1849964611)
+- [Dev.to/JS] [Enhance your Docsify experience with your own plugin](https://dev.to/corentinleberre/enhance-your-docsify-experience-with-your-own-plugin-33aj)
+- [Dev.to/JS] [Diário de bordo #3](https://dev.to/analuisadev/diario-de-bordo-3-hfa)
+- [Dev.to/JS] [- What are the top programming languages to learn in 2023.](https://dev.to/cute6269/-what-are-the-top-programming-languages-to-learn-in-2023-23mk)
 - [Lifehacker] [Windows 7 Is Officially Dead](https://lifehacker.com/windows-7-is-officially-dead-1849966248)
 - [Dev.to/JS] [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
 - [Lifehacker] [Pay Attention to Your Cash Back Rewards Bonus Categories](https://lifehacker.com/pay-attention-to-your-cash-back-rewards-bonus-categorie-1849965980)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To fetch data from an API in a React application](https://dev.to/ikamran/how-to-fetch-data-from-an-api-in-a-react-application-212f)
 - [Dev.to/JS] [Criando uma paginação do zero com React usando Hooks](https://dev.to/trinitypath/criando-uma-paginacao-do-zero-com-react-usando-hooks-3e13)
 - [Lifehacker] [This Coffee Brewing Method Delivers the Biggest Jolt of Caffeine](https://lifehacker.com/this-coffee-brewing-method-delivers-the-biggest-jolt-of-1849964718)
-- [Dev.to/JS] [Coding Garden Log - Entry 2](https://dev.to/w3cj/coding-garden-log-entry-2-1i11)
 - [Lifehacker] [You Can Make Your Giant iPhone Easier to Use With One Hand](https://lifehacker.com/you-can-make-your-giant-iphone-easier-to-use-with-one-h-1849964552)
-- [Dev.to/JS] [Axios GET and POST examples](https://dev.to/alakkadshaw/axios-get-and-post-examples-npi)
-- [Dev.to/JS] [Real-Time Two-Way Communication Between Frontend And Backend Using Sockets](https://dev.to/jszutkowski/real-time-two-way-communication-between-frontend-and-backend-using-sockets-5ghc)
-- [Dev.to/JS] [Deploying a Node.js application on Amazon Elastic Container Service &lpar;ECS&rpar;](https://dev.to/ibraheemmawwal/deploying-a-nodejs-application-on-amazon-elastic-container-service-ecs-4b3a)
 - [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
 - [Lifehacker] [How to Write a Layoff Announcement That Will Get You a New Job](https://lifehacker.com/how-to-write-a-layoff-announcement-that-will-get-you-a-1849964234)
 - [Lifehacker] [Your Next Baked Potato Should Be a Yukon, Not a Russet](https://lifehacker.com/your-next-baked-potato-should-be-a-yukon-not-a-russet-1849961269)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Surprising Household Uses for Boiling Water](https://lifehacker.com/11-surprising-household-uses-for-boiling-water-1849959610)
 - [Lifehacker] [Six of the Most Ridiculous Food Challenges Across the US](https://lifehacker.com/six-of-the-most-ridiculous-food-challenges-across-the-u-1849956686)
 - [Lifehacker] [10 of Our Favorite High Protein Snacks](https://lifehacker.com/10-of-our-favorite-high-protein-snacks-1849958812)
-- [Lifehacker] [Use This Gesture to Select Multiple Items on Your iPhone](https://lifehacker.com/use-this-gesture-to-select-multiple-items-on-your-iphon-1849957641)
-- [Lifehacker] [You Should Automate Your Financial Goals](https://lifehacker.com/you-should-automate-your-financial-goals-1849958883)
-- [Lifehacker] [How to Disable Those Annoying &#39;Suggestion&#39; Ads on Your Windows PC](https://lifehacker.com/how-to-disable-those-annoying-suggestion-ads-on-your-wi-1849957475)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Gesture to Select Multiple Items on Your iPhone](https://lifehacker.com/use-this-gesture-to-select-multiple-items-on-your-iphon-1849957641)<!-- TECH-POSTS:END -->
 
 ---
 
