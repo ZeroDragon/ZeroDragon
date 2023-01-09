@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Software Developer’s Guide to Writing](https://dev.to/tyaga001/a-software-developers-guide-to-writing-bgj)
+- [Dev.to/JS] [Complete React tutorials](https://dev.to/ministryofjavascript/complete-react-tutorials-k4j)
+- [Dev.to/JS] [Effortlessly manage configuration data in your Node.js microservices with nconf](https://dev.to/asifroyal/effortlessly-manage-configuration-data-in-your-nodejs-microservices-with-nconf-1hl6)
 - [Dev.to/JS] [Meteor Community Packages Async migration](https://dev.to/storytellercz/meteor-community-packages-async-migration-58hc)
 - [Dev.to/JS] [Here are some tips and best practices for optimizing your Javascript code](https://dev.to/ikamran/here-are-some-tips-and-best-practices-for-optimizing-your-javascript-code-2ea6)
 - [Dev.to/JS] [Blogging with Next.js and MDX: The ultimate combination for dynamic content](https://dev.to/basskibo/blogging-with-nextjs-and-mdx-the-ultimate-combination-for-dynamic-content-4ooe)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the salary of a fresher mern stack developer?](https://dev.to/khannkalam/hello-every-i-am-fresher-mern-stack-developer-4nej)
 - [Dev.to/JS] [Angular forms: checkbox disabling controls](https://dev.to/this-is-angular/angular-forms-checkbox-disabling-controls-29np)
 - [Dev.to/JS] [Understanding MongoDB Aggregation Pipeline](https://dev.to/qbentil/understanding-mongodb-aggregation-pipeline-3964)
-- [Dev.to/JS] [React-JS Prevent re-rendering](https://dev.to/moudarafifeh/react-js-prevent-re-rendering-4p7p)
-- [Dev.to/JS] [How to find twitter accounts with similar profile picture?](https://dev.to/sandipbasnet/how-to-find-twitter-accounts-with-similar-profile-picture-19e9)
-- [Dev.to/JS] [Github Profile Finder Project: A Walkthrough](https://dev.to/eyesaidyo/github-profile-finder-project-a-walkthrough-51f4)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
