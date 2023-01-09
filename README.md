@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding Garden Log - Entry 2](https://dev.to/w3cj/coding-garden-log-entry-2-1i11)
+- [Lifehacker] [You Can Make Your Giant iPhone Easier to Use With One Hand](https://lifehacker.com/you-can-make-your-giant-iphone-easier-to-use-with-one-h-1849964552)
+- [Dev.to/JS] [Axios GET and POST examples](https://dev.to/alakkadshaw/axios-get-and-post-examples-npi)
+- [Dev.to/JS] [Real-Time Two-Way Communication Between Frontend And Backend Using Sockets](https://dev.to/jszutkowski/real-time-two-way-communication-between-frontend-and-backend-using-sockets-5ghc)
+- [Dev.to/JS] [Deploying a Node.js application on Amazon Elastic Container Service &lpar;ECS&rpar;](https://dev.to/ibraheemmawwal/deploying-a-nodejs-application-on-amazon-elastic-container-service-ecs-4b3a)
+- [Dev.to/JS] [What bootcamps, programs or online learning have you done?](https://dev.to/vschool_/what-bootcamps-programs-or-online-learning-have-you-done-47ca)
 - [Dev.to/JS] [Top 5+ useful ReactJS Plugins for 2023](https://dev.to/fredy/top-5-useful-reactjs-plugins-for-2023-e97)
 - [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
 - [Dev.to/JS] [Auth Guarding in react](https://dev.to/tigawanna/auth-guarding-in-react-392o)
@@ -36,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An introduction to recursion in Javascript](https://dev.to/tqbit/an-introduction-to-recursion-in-javascript-2b3n)
 - [Lifehacker] [Use Old Wine Bottles to Water Your Houseplants](https://lifehacker.com/use-old-wine-bottles-to-water-your-houseplants-1849960542)
 - [Dev.to/JS] [Have you learned Javascript yet?](https://dev.to/stateofdevnation/have-you-learned-javascript-yet-3k63)
-- [Dev.to/JS] [Create a color generator React App with Clipboard-Copy function function.](https://dev.to/chenyibo406/create-a-color-generator-react-app-with-clipboard-copy-function-function-3c57)
-- [Dev.to/JS] [useId&lpar;&rpar; Hook - web dev simplified](https://dev.to/akshdesai1/useid-hook-web-dev-simplified-1kig)
 - [Lifehacker] [Why We Actually Need More Mindless Activities](https://lifehacker.com/why-we-actually-need-more-mindless-activities-1849958757)
-- [Dev.to/JS] [The 10 Medusa Posts of 2022 that you need to read](https://dev.to/medusajs/the-10-medusa-posts-of-2022-that-you-need-to-read-5ak0)
 - [Lifehacker] [You&#39;re Using Your Ice Scraper Wrong](https://lifehacker.com/youre-using-your-ice-scraper-wrong-1849960175)
-- [Dev.to/JS] [How to Create a real-time chat application with WebSocket](https://dev.to/scofieldidehen/how-to-create-a-real-time-chat-application-with-websocket-55hh)
-- [Dev.to/JS] [Developing Cross Browser Compatible AMP pages](https://dev.to/lambdatest/typeerror-javascript-30ka)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Free Fast Food for Taking These Customer Surveys](https://lifehacker.com/get-free-fast-food-for-taking-these-customer-surveys-1849955725)
 - [Lifehacker] [How to Prepare Your House Now for the Next Bad Winter Storm](https://lifehacker.com/how-to-prepare-your-house-now-for-the-next-bad-winter-s-1849957252)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do You Really Need ID to Watch Porn in Louisiana?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-you-re-1849957375)
-- [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)
-- [Lifehacker] [The Easiest Way to Make Your Winter Tomato Sauce Taste More Summery](https://lifehacker.com/the-easiest-way-to-make-your-winter-tomato-sauce-taste-1849956192)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)<!-- TECH-POSTS:END -->
 
 ---
 
