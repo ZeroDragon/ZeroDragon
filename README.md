@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 10 Best Mental Health Podcasts to Get You Through 2023](https://lifehacker.com/the-10-best-mental-health-podcasts-to-get-you-through-2-1849932046)
+- [Dev.to/JS] [Hosting providers to deploy your Next.js app](https://dev.to/siglave/hosting-providers-to-deploy-your-nextjs-app-3df2)
+- [Dev.to/JS] [HTML Validation for Nuxt](https://dev.to/jacobandrewsky/html-validation-for-nuxt-gj4)
+- [Dev.to/JS] [Introduction to React: Setting up Your First React Project](https://dev.to/devarshishimpi/introduction-to-react-setting-up-your-first-react-project-39mh)
+- [Lifehacker] [Where to Find Discounted Home Gym Equipment Right Now](https://lifehacker.com/where-to-find-discounted-home-gym-equipment-right-now-1849961075)
+- [Dev.to/JS] [How To fetch data from an API in a React application](https://dev.to/ikamran/how-to-fetch-data-from-an-api-in-a-react-application-212f)
+- [Dev.to/JS] [Criando uma paginação do zero com React usando Hooks](https://dev.to/trinitypath/criando-uma-paginacao-do-zero-com-react-usando-hooks-3e13)
+- [Lifehacker] [This Coffee Brewing Method Delivers the Biggest Jolt of Caffeine](https://lifehacker.com/this-coffee-brewing-method-delivers-the-biggest-jolt-of-1849964718)
 - [Dev.to/JS] [Coding Garden Log - Entry 2](https://dev.to/w3cj/coding-garden-log-entry-2-1i11)
 - [Lifehacker] [You Can Make Your Giant iPhone Easier to Use With One Hand](https://lifehacker.com/you-can-make-your-giant-iphone-easier-to-use-with-one-h-1849964552)
 - [Dev.to/JS] [Axios GET and POST examples](https://dev.to/alakkadshaw/axios-get-and-post-examples-npi)
@@ -33,15 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
 - [Dev.to/JS] [Auth Guarding in react](https://dev.to/tigawanna/auth-guarding-in-react-392o)
 - [Lifehacker] [How to Write a Layoff Announcement That Will Get You a New Job](https://lifehacker.com/how-to-write-a-layoff-announcement-that-will-get-you-a-1849964234)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Jan 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-jan-2023-3567)
 - [Lifehacker] [Your Next Baked Potato Should Be a Yukon, Not a Russet](https://lifehacker.com/your-next-baked-potato-should-be-a-yukon-not-a-russet-1849961269)
-- [Dev.to/JS] [Make Your Code Self-Documenting with Descriptive Event Handler Names](https://dev.to/albertoforni/make-your-code-self-documenting-with-descriptive-event-handler-names-210i)
 - [Lifehacker] [How to Start Editing Wikipedia Articles On Your Own](https://lifehacker.com/how-to-start-editing-wikipedia-articles-on-your-own-1849963125)
-- [Dev.to/JS] [Returning object literals using Javascript arrow function](https://dev.to/jdx_code/returning-object-literals-using-javascript-arrow-function-3h7)
 - [Lifehacker] [15 of the Best Movies About Huge Liars](https://lifehacker.com/15-of-the-best-movies-about-huge-liars-1849953754)
-- [Dev.to/JS] [An introduction to recursion in Javascript](https://dev.to/tqbit/an-introduction-to-recursion-in-javascript-2b3n)
 - [Lifehacker] [Use Old Wine Bottles to Water Your Houseplants](https://lifehacker.com/use-old-wine-bottles-to-water-your-houseplants-1849960542)
-- [Dev.to/JS] [Have you learned Javascript yet?](https://dev.to/stateofdevnation/have-you-learned-javascript-yet-3k63)
 - [Lifehacker] [Why We Actually Need More Mindless Activities](https://lifehacker.com/why-we-actually-need-more-mindless-activities-1849958757)
 - [Lifehacker] [You&#39;re Using Your Ice Scraper Wrong](https://lifehacker.com/youre-using-your-ice-scraper-wrong-1849960175)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Automate Your Financial Goals](https://lifehacker.com/you-should-automate-your-financial-goals-1849958883)
 - [Lifehacker] [How to Disable Those Annoying &#39;Suggestion&#39; Ads on Your Windows PC](https://lifehacker.com/how-to-disable-those-annoying-suggestion-ads-on-your-wi-1849957475)
 - [Lifehacker] [13 Cinematic Dolls at Least As Creepy As M3GAN](https://lifehacker.com/13-cinematic-dolls-at-least-as-creepy-as-m3gan-1849955931)
-- [Lifehacker] [Get Free Fast Food for Taking These Customer Surveys](https://lifehacker.com/get-free-fast-food-for-taking-these-customer-surveys-1849955725)
-- [Lifehacker] [How to Prepare Your House Now for the Next Bad Winter Storm](https://lifehacker.com/how-to-prepare-your-house-now-for-the-next-bad-winter-s-1849957252)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do You Really Need ID to Watch Porn in Louisiana?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-you-re-1849957375)
-- [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Free Fast Food for Taking These Customer Surveys](https://lifehacker.com/get-free-fast-food-for-taking-these-customer-surveys-1849955725)<!-- TECH-POSTS:END -->
 
 ---
 
