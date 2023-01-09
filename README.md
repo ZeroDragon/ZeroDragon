@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Issues that I encountered and how to deal with them while migrating from CRA to Vite](https://dev.to/lico/issues-that-i-encountered-and-how-to-deal-with-them-while-migrating-from-cra-to-vite-51pg)
+- [Dev.to/JS] [Promises in JavaScript and Typescript](https://dev.to/bcostaaa01/promises-in-javascript-and-typescript-5eh9)
 - [Dev.to/JS] [Programação Funcional com JavaScript](https://dev.to/pedroaugusto2305/programacao-funcional-com-javascript-2e9m)
 - [Dev.to/JS] [The useTransition hook - React 17.0 beta features](https://dev.to/alfredosalzillo/the-usetransition-hook-react-170-beta-features-20kj)
 - [Dev.to/JS] [Minimal Typescript + Express Boilerplate which focus on speed](https://dev.to/amm834/minimal-typescript-express-boilerplate-which-focus-on-speed-3npc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State Management in Frontend Development: An Overview and Case Study](https://dev.to/hitonomi_0/state-management-in-frontend-development-an-overview-and-case-study-2a)
 - [Dev.to/JS] [How to use Typescript Package in Javascript React?](https://dev.to/yuqingma/how-to-use-typescript-package-in-javascript-react-3igk)
 - [Dev.to/JS] [React Interviews: The Most Important Topics to Review](https://dev.to/kanav/react-interviews-the-most-important-topics-to-review-1pnl)
-- [Dev.to/JS] [LeetCode - Minimum Size Subarray Sum](https://dev.to/_alkesh26/leetcode-minimum-size-subarray-sum-1f9o)
-- [Dev.to/JS] [Dive Into the World of Open Source: From Novice to Contributor in 6 Steps](https://dev.to/thenomadevel/dive-into-the-world-of-open-source-from-novice-to-contributor-in-6-steps-1bh1)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
