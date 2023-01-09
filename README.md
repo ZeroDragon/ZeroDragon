@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Windows 7 Is Officially Dead](https://lifehacker.com/windows-7-is-officially-dead-1849966248)
+- [Dev.to/JS] [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
+- [Lifehacker] [Pay Attention to Your Cash Back Rewards Bonus Categories](https://lifehacker.com/pay-attention-to-your-cash-back-rewards-bonus-categorie-1849965980)
+- [Dev.to/JS] [Building Server-Side Components in Next.js: A Step-by-Step Guide](https://dev.to/hitonomi_0/building-server-side-components-in-nextjs-a-step-by-step-guide-451f)
+- [Dev.to/JS] [Objetos imutáveis em JS](https://dev.to/netojocelino/objetos-imutaveis-em-js-219f)
 - [Lifehacker] [The 10 Best Mental Health Podcasts to Get You Through 2023](https://lifehacker.com/the-10-best-mental-health-podcasts-to-get-you-through-2-1849932046)
 - [Dev.to/JS] [Hosting providers to deploy your Next.js app](https://dev.to/siglave/hosting-providers-to-deploy-your-nextjs-app-3df2)
 - [Dev.to/JS] [HTML Validation for Nuxt](https://dev.to/jacobandrewsky/html-validation-for-nuxt-gj4)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Axios GET and POST examples](https://dev.to/alakkadshaw/axios-get-and-post-examples-npi)
 - [Dev.to/JS] [Real-Time Two-Way Communication Between Frontend And Backend Using Sockets](https://dev.to/jszutkowski/real-time-two-way-communication-between-frontend-and-backend-using-sockets-5ghc)
 - [Dev.to/JS] [Deploying a Node.js application on Amazon Elastic Container Service &lpar;ECS&rpar;](https://dev.to/ibraheemmawwal/deploying-a-nodejs-application-on-amazon-elastic-container-service-ecs-4b3a)
-- [Dev.to/JS] [What bootcamps, programs or online learning have you done?](https://dev.to/vschool_/what-bootcamps-programs-or-online-learning-have-you-done-47ca)
-- [Dev.to/JS] [Top 5+ useful ReactJS Plugins for 2023](https://dev.to/fredy/top-5-useful-reactjs-plugins-for-2023-e97)
 - [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
-- [Dev.to/JS] [Auth Guarding in react](https://dev.to/tigawanna/auth-guarding-in-react-392o)
 - [Lifehacker] [How to Write a Layoff Announcement That Will Get You a New Job](https://lifehacker.com/how-to-write-a-layoff-announcement-that-will-get-you-a-1849964234)
 - [Lifehacker] [Your Next Baked Potato Should Be a Yukon, Not a Russet](https://lifehacker.com/your-next-baked-potato-should-be-a-yukon-not-a-russet-1849961269)
 - [Lifehacker] [How to Start Editing Wikipedia Articles On Your Own](https://lifehacker.com/how-to-start-editing-wikipedia-articles-on-your-own-1849963125)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of Our Favorite High Protein Snacks](https://lifehacker.com/10-of-our-favorite-high-protein-snacks-1849958812)
 - [Lifehacker] [Use This Gesture to Select Multiple Items on Your iPhone](https://lifehacker.com/use-this-gesture-to-select-multiple-items-on-your-iphon-1849957641)
 - [Lifehacker] [You Should Automate Your Financial Goals](https://lifehacker.com/you-should-automate-your-financial-goals-1849958883)
-- [Lifehacker] [How to Disable Those Annoying &#39;Suggestion&#39; Ads on Your Windows PC](https://lifehacker.com/how-to-disable-those-annoying-suggestion-ads-on-your-wi-1849957475)
-- [Lifehacker] [13 Cinematic Dolls at Least As Creepy As M3GAN](https://lifehacker.com/13-cinematic-dolls-at-least-as-creepy-as-m3gan-1849955931)
-- [Lifehacker] [Get Free Fast Food for Taking These Customer Surveys](https://lifehacker.com/get-free-fast-food-for-taking-these-customer-surveys-1849955725)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Disable Those Annoying &#39;Suggestion&#39; Ads on Your Windows PC](https://lifehacker.com/how-to-disable-those-annoying-suggestion-ads-on-your-wi-1849957475)<!-- TECH-POSTS:END -->
 
 ---
 
