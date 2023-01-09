@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 of the Best Movies About Huge Liars](https://lifehacker.com/15-of-the-best-movies-about-huge-liars-1849953754)
+- [Dev.to/JS] [Creating Animations and Transitions with CSS](https://dev.to/ariellun/creating-animations-and-transitions-with-css-2eo3)
+- [Dev.to/JS] [An introduction to recursion in Javascript](https://dev.to/tqbit/an-introduction-to-recursion-in-javascript-2b3n)
+- [Lifehacker] [Use Old Wine Bottles to Water Your Houseplants](https://lifehacker.com/use-old-wine-bottles-to-water-your-houseplants-1849960542)
+- [Dev.to/JS] [Have you learned Javascript yet?](https://dev.to/stateofdevnation/have-you-learned-javascript-yet-3k63)
+- [Dev.to/JS] [Create a color generator React App with Clipboard-Copy function function.](https://dev.to/chenyibo406/create-a-color-generator-react-app-with-clipboard-copy-function-function-3c57)
+- [Dev.to/JS] [useId&lpar;&rpar; Hook - web dev simplified](https://dev.to/akshdesai1/useid-hook-web-dev-simplified-1kig)
+- [Lifehacker] [Why We Actually Need More Mindless Activities](https://lifehacker.com/why-we-actually-need-more-mindless-activities-1849958757)
 - [Dev.to/JS] [The 10 Medusa Posts of 2022 that you need to read](https://dev.to/medusajs/the-10-medusa-posts-of-2022-that-you-need-to-read-5ak0)
 - [Lifehacker] [You&#39;re Using Your Ice Scraper Wrong](https://lifehacker.com/youre-using-your-ice-scraper-wrong-1849960175)
 - [Dev.to/JS] [How to Create a real-time chat application with WebSocket](https://dev.to/scofieldidehen/how-to-create-a-real-time-chat-application-with-websocket-55hh)
@@ -31,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Software Developer’s Guide to Writing](https://dev.to/tyaga001/a-software-developers-guide-to-writing-bgj)
 - [Dev.to/JS] [Complete React tutorials](https://dev.to/ministryofjavascript/complete-react-tutorials-k4j)
 - [Dev.to/JS] [Effortlessly manage configuration data in your Node.js microservices with nconf](https://dev.to/asifroyal/effortlessly-manage-configuration-data-in-your-nodejs-microservices-with-nconf-1hl6)
-- [Dev.to/JS] [Meteor Community Packages Async migration](https://dev.to/storytellercz/meteor-community-packages-async-migration-58hc)
-- [Dev.to/JS] [Here are some tips and best practices for optimizing your Javascript code](https://dev.to/ikamran/here-are-some-tips-and-best-practices-for-optimizing-your-javascript-code-2ea6)
-- [Dev.to/JS] [Blogging with Next.js and MDX: The ultimate combination for dynamic content](https://dev.to/basskibo/blogging-with-nextjs-and-mdx-the-ultimate-combination-for-dynamic-content-4ooe)
-- [Dev.to/JS] [React Native will use TypeScript by default](https://dev.to/aneeqakhan/react-native-will-use-typescript-by-default-1fe0)
-- [Dev.to/JS] [Episode 23/01: Performance Content &lpar;Zone.js, refreshView&rpar;](https://dev.to/ng_news/episode-2301-performance-content-zonejs-refreshview-1mkn)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Deals You Can Find in January &lpar;and What Not to Buy&rpar;](https://lifehacker.com/the-best-deals-you-can-find-in-january-and-what-not-to-1849954638)
 - [Lifehacker] [Don&#39;t Waste Your Time With These Terrible Diet Tips](https://lifehacker.com/dont-waste-your-time-with-these-terrible-diet-tips-1849954846)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
-- [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
-- [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
-- [Lifehacker] [You Should Grate Dried Mushrooms All Over Everything](https://lifehacker.com/you-should-grate-dried-mushrooms-all-over-everything-1849955064)
-- [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)<!-- TECH-POSTS:END -->
 
 ---
 
