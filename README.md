@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The 10 Medusa Posts of 2022 that you need to read](https://dev.to/medusajs/the-10-medusa-posts-of-2022-that-you-need-to-read-5ak0)
+- [Lifehacker] [You&#39;re Using Your Ice Scraper Wrong](https://lifehacker.com/youre-using-your-ice-scraper-wrong-1849960175)
+- [Dev.to/JS] [How to Create a real-time chat application with WebSocket](https://dev.to/scofieldidehen/how-to-create-a-real-time-chat-application-with-websocket-55hh)
+- [Dev.to/JS] [Developing Cross Browser Compatible AMP pages](https://dev.to/lambdatest/typeerror-javascript-30ka)
+- [Dev.to/JS] [My Journey in Open Source - ab-test-fn](https://dev.to/cadienvan/my-journey-in-open-source-ab-test-fn-1afo)
 - [Dev.to/JS] [A Software Developer’s Guide to Writing](https://dev.to/tyaga001/a-software-developers-guide-to-writing-bgj)
 - [Dev.to/JS] [Complete React tutorials](https://dev.to/ministryofjavascript/complete-react-tutorials-k4j)
 - [Dev.to/JS] [Effortlessly manage configuration data in your Node.js microservices with nconf](https://dev.to/asifroyal/effortlessly-manage-configuration-data-in-your-nodejs-microservices-with-nconf-1hl6)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blogging with Next.js and MDX: The ultimate combination for dynamic content](https://dev.to/basskibo/blogging-with-nextjs-and-mdx-the-ultimate-combination-for-dynamic-content-4ooe)
 - [Dev.to/JS] [React Native will use TypeScript by default](https://dev.to/aneeqakhan/react-native-will-use-typescript-by-default-1fe0)
 - [Dev.to/JS] [Episode 23/01: Performance Content &lpar;Zone.js, refreshView&rpar;](https://dev.to/ng_news/episode-2301-performance-content-zonejs-refreshview-1mkn)
-- [Dev.to/JS] [Sino](https://dev.to/liangyuhuang66/sino-57i7)
-- [Dev.to/JS] [What is the salary of a fresher mern stack developer?](https://dev.to/khannkalam/hello-every-i-am-fresher-mern-stack-developer-4nej)
-- [Dev.to/JS] [Angular forms: checkbox disabling controls](https://dev.to/this-is-angular/angular-forms-checkbox-disabling-controls-29np)
-- [Dev.to/JS] [Understanding MongoDB Aggregation Pipeline](https://dev.to/qbentil/understanding-mongodb-aggregation-pipeline-3964)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It Might Be Time to Ditch Arlo Cameras](https://lifehacker.com/it-might-be-time-to-ditch-arlo-cameras-1849945570)
 - [Lifehacker] [11 of the Wildest Theme Park Coasters and Attractions Opening This Year](https://lifehacker.com/11-of-the-wildest-theme-park-coasters-and-attractions-o-1849954649)
 - [Lifehacker] [You Should Grate Dried Mushrooms All Over Everything](https://lifehacker.com/you-should-grate-dried-mushrooms-all-over-everything-1849955064)
-- [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)
-- [Lifehacker] [You’re Letting Your Faucets Drip Wrong in Winter](https://lifehacker.com/you-re-letting-your-faucets-drip-wrong-in-winter-1849954235)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Opening Store Credit Cards at Checkout](https://lifehacker.com/stop-opening-store-credit-cards-at-checkout-1849954734)<!-- TECH-POSTS:END -->
 
 ---
 
