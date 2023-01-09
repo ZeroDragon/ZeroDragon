@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Progressive Web Apps : An introduction](https://dev.to/vnaydev/progressive-web-apps-an-introduction-1k5j)
+- [Dev.to/JS] [Dream Garage: My First Project](https://dev.to/fredie_aponte_28c04a9b601/dream-garage-my-first-project-33bj)
 - [Dev.to/JS] [IT Staff is Among Jobs with Highest Burnout Rate – How to Avoid IT Staff Burnout](https://dev.to/hellenwrites19/it-staff-is-among-jobs-with-highest-burnout-rate-how-to-avoid-it-staff-burnout-14d8)
 - [Dev.to/JS] [How to debounce a input text on React](https://dev.to/rick1196/how-to-debounce-a-input-text-on-react-1g60)
 - [Dev.to/JS] [10 Node.js Frameworks Every Developer Should Know](https://dev.to/devland/10-nodejs-frameworks-every-developer-should-know-12dg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Issues that I encountered and how to deal with them while migrating from CRA to Vite](https://dev.to/lico/issues-that-i-encountered-and-how-to-deal-with-them-while-migrating-from-cra-to-vite-51pg)
 - [Dev.to/JS] [Promises in JavaScript and Typescript](https://dev.to/bcostaaa01/promises-in-javascript-and-typescript-5eh9)
 - [Dev.to/JS] [Programação Funcional com JavaScript](https://dev.to/pedroaugusto2305/programacao-funcional-com-javascript-2e9m)
-- [Dev.to/JS] [The useTransition hook - React 17.0 beta features](https://dev.to/alfredosalzillo/the-usetransition-hook-react-170-beta-features-20kj)
-- [Dev.to/JS] [Minimal Typescript + Express Boilerplate which focus on speed](https://dev.to/amm834/minimal-typescript-express-boilerplate-which-focus-on-speed-3npc)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
