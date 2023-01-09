@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meteor Community Packages Async migration](https://dev.to/storytellercz/meteor-community-packages-async-migration-58hc)
+- [Dev.to/JS] [Here are some tips and best practices for optimizing your Javascript code](https://dev.to/ikamran/here-are-some-tips-and-best-practices-for-optimizing-your-javascript-code-2ea6)
+- [Dev.to/JS] [Blogging with Next.js and MDX: The ultimate combination for dynamic content](https://dev.to/basskibo/blogging-with-nextjs-and-mdx-the-ultimate-combination-for-dynamic-content-4ooe)
+- [Dev.to/JS] [React Native will use TypeScript by default](https://dev.to/aneeqakhan/react-native-will-use-typescript-by-default-1fe0)
 - [Dev.to/JS] [Episode 23/01: Performance Content &lpar;Zone.js, refreshView&rpar;](https://dev.to/ng_news/episode-2301-performance-content-zonejs-refreshview-1mkn)
 - [Dev.to/JS] [Sino](https://dev.to/liangyuhuang66/sino-57i7)
 - [Dev.to/JS] [What is the salary of a fresher mern stack developer?](https://dev.to/khannkalam/hello-every-i-am-fresher-mern-stack-developer-4nej)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React-JS Prevent re-rendering](https://dev.to/moudarafifeh/react-js-prevent-re-rendering-4p7p)
 - [Dev.to/JS] [How to find twitter accounts with similar profile picture?](https://dev.to/sandipbasnet/how-to-find-twitter-accounts-with-similar-profile-picture-19e9)
 - [Dev.to/JS] [Github Profile Finder Project: A Walkthrough](https://dev.to/eyesaidyo/github-profile-finder-project-a-walkthrough-51f4)
-- [Dev.to/JS] [Master the Art of Making HTTP Requests with Javascript](https://dev.to/ikamran/how-to-make-http-request-javascript-4056)
-- [Dev.to/JS] [Laravel + Vue 3 &lpar;Vite, TypeScript&rpar; SPA Setup](https://dev.to/brojenuel/laravel-vue-3-vite-typescript-spa-setup-32l9)
-- [Dev.to/JS] [How to Prepare for CTF &lpar;10 Proven Steps&rpar;](https://dev.to/codeswithrocky/how-to-prepare-for-ctf-10-proven-steps-med)
-- [Dev.to/JS] [How to Create a Web Form of Any Complexity and Add It to Your JavaScript App in Minutes with SurveyJS](https://dev.to/surveyjs/how-to-create-a-web-form-of-any-complexity-and-add-it-to-your-javascript-app-in-minutes-with-surveyjs-31ko)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
