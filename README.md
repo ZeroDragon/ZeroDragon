@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5+ useful ReactJS Plugins for 2023](https://dev.to/fredy/top-5-useful-reactjs-plugins-for-2023-e97)
+- [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
+- [Dev.to/JS] [Auth Guarding in react](https://dev.to/tigawanna/auth-guarding-in-react-392o)
+- [Lifehacker] [How to Write a Layoff Announcement That Will Get You a New Job](https://lifehacker.com/how-to-write-a-layoff-announcement-that-will-get-you-a-1849964234)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Jan 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-jan-2023-3567)
 - [Lifehacker] [Your Next Baked Potato Should Be a Yukon, Not a Russet](https://lifehacker.com/your-next-baked-potato-should-be-a-yukon-not-a-russet-1849961269)
 - [Dev.to/JS] [Make Your Code Self-Documenting with Descriptive Event Handler Names](https://dev.to/albertoforni/make-your-code-self-documenting-with-descriptive-event-handler-names-210i)
 - [Lifehacker] [How to Start Editing Wikipedia Articles On Your Own](https://lifehacker.com/how-to-start-editing-wikipedia-articles-on-your-own-1849963125)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Using Your Ice Scraper Wrong](https://lifehacker.com/youre-using-your-ice-scraper-wrong-1849960175)
 - [Dev.to/JS] [How to Create a real-time chat application with WebSocket](https://dev.to/scofieldidehen/how-to-create-a-real-time-chat-application-with-websocket-55hh)
 - [Dev.to/JS] [Developing Cross Browser Compatible AMP pages](https://dev.to/lambdatest/typeerror-javascript-30ka)
-- [Dev.to/JS] [My Journey in Open Source - ab-test-fn](https://dev.to/cadienvan/my-journey-in-open-source-ab-test-fn-1afo)
-- [Dev.to/JS] [A Software Developer’s Guide to Writing](https://dev.to/tyaga001/a-software-developers-guide-to-writing-bgj)
-- [Dev.to/JS] [Complete React tutorials](https://dev.to/ministryofjavascript/complete-react-tutorials-k4j)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prepare Your House Now for the Next Bad Winter Storm](https://lifehacker.com/how-to-prepare-your-house-now-for-the-next-bad-winter-s-1849957252)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do You Really Need ID to Watch Porn in Louisiana?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-you-re-1849957375)
 - [Lifehacker] [The Easiest Way to Avoid Paying for Checked Luggage](https://lifehacker.com/the-easiest-way-to-avoid-paying-for-checked-luggage-1849955793)
-- [Lifehacker] [The Easiest Way to Make Your Winter Tomato Sauce Taste More Summery](https://lifehacker.com/the-easiest-way-to-make-your-winter-tomato-sauce-taste-1849956192)
-- [Lifehacker] [The Best Deals You Can Find in January &lpar;and What Not to Buy&rpar;](https://lifehacker.com/the-best-deals-you-can-find-in-january-and-what-not-to-1849954638)
-- [Lifehacker] [Don&#39;t Waste Your Time With These Terrible Diet Tips](https://lifehacker.com/dont-waste-your-time-with-these-terrible-diet-tips-1849954846)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Make Your Winter Tomato Sauce Taste More Summery](https://lifehacker.com/the-easiest-way-to-make-your-winter-tomato-sauce-taste-1849956192)<!-- TECH-POSTS:END -->
 
 ---
 
