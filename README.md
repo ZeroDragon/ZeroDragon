@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
+- [Dev.to/JS] [What are code refactoring techniques?](https://dev.to/cute6269/what-are-code-refactoring-techniques-jbb)
+- [Dev.to/JS] [What are the most common causes of code refactoring problems?](https://dev.to/cute6269/what-are-the-most-common-causes-of-code-refactoring-problems-k87)
+- [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
 - [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
 - [Lifehacker] [9 Unexpected Ways to Use Your Cooling Rack](https://lifehacker.com/9-unexpected-ways-to-use-your-cooling-rack-1849966446)
 - [Dev.to/JS] [O funcionamento das Conversões de Tipo e sua prática:](https://dev.to/altencirsilvajr/o-funcionamento-das-conversoes-de-tipo-e-sua-pratica-2nfc)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 10 Best Mental Health Podcasts to Get You Through 2023](https://lifehacker.com/the-10-best-mental-health-podcasts-to-get-you-through-2-1849932046)
 - [Dev.to/JS] [Hosting providers to deploy your Next.js app](https://dev.to/siglave/hosting-providers-to-deploy-your-nextjs-app-3df2)
 - [Dev.to/JS] [HTML Validation for Nuxt](https://dev.to/jacobandrewsky/html-validation-for-nuxt-gj4)
-- [Dev.to/JS] [Introduction to React: Setting up Your First React Project](https://dev.to/devarshishimpi/introduction-to-react-setting-up-your-first-react-project-39mh)
 - [Lifehacker] [Where to Find Discounted Home Gym Equipment Right Now](https://lifehacker.com/where-to-find-discounted-home-gym-equipment-right-now-1849961075)
-- [Dev.to/JS] [How To fetch data from an API in a React application](https://dev.to/ikamran/how-to-fetch-data-from-an-api-in-a-react-application-212f)
 - [Lifehacker] [This Coffee Brewing Method Delivers the Biggest Jolt of Caffeine](https://lifehacker.com/this-coffee-brewing-method-delivers-the-biggest-jolt-of-1849964718)
 - [Lifehacker] [You Can Make Your Giant iPhone Easier to Use With One Hand](https://lifehacker.com/you-can-make-your-giant-iphone-easier-to-use-with-one-h-1849964552)
 - [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
 - [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
-- [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)
-- [Lifehacker] [11 Surprising Household Uses for Boiling Water](https://lifehacker.com/11-surprising-household-uses-for-boiling-water-1849959610)
-- [Lifehacker] [Six of the Most Ridiculous Food Challenges Across the US](https://lifehacker.com/six-of-the-most-ridiculous-food-challenges-across-the-u-1849956686)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)<!-- TECH-POSTS:END -->
 
 ---
 
