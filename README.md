@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to find twitter accounts with similar profile picture?](https://dev.to/sandipbasnet/how-to-find-twitter-accounts-with-similar-profile-picture-19e9)
+- [Dev.to/JS] [Github Profile Finder Project: A Walkthrough](https://dev.to/eyesaidyo/github-profile-finder-project-a-walkthrough-51f4)
+- [Dev.to/JS] [How to Make HTTP Request, Javascript](https://dev.to/ikamran/how-to-make-http-request-javascript-4056)
 - [Dev.to/JS] [Laravel + Vue 3 &lpar;Vite, TypeScript&rpar; SPA Setup](https://dev.to/brojenuel/laravel-vue-3-vite-typescript-spa-setup-32l9)
 - [Dev.to/JS] [How to Prepare for CTF &lpar;10 Proven Steps&rpar;](https://dev.to/codeswithrocky/how-to-prepare-for-ctf-10-proven-steps-med)
 - [Dev.to/JS] [How to Create a Web Form of Any Complexity and Add It to Your JavaScript App in Minutes with SurveyJS](https://dev.to/surveyjs/how-to-create-a-web-form-of-any-complexity-and-add-it-to-your-javascript-app-in-minutes-with-surveyjs-31ko)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Microservice Architecture In Node JS](https://dev.to/lovepreetsingh/implementing-microservice-architecture-in-node-js-1fg3)
 - [Dev.to/JS] [IOT &amp; NETWORKING](https://dev.to/trixtec/iot-and-networking-3kpc)
 - [Dev.to/JS] [Simple Landing Page in HTML](https://dev.to/manawariqbal/simple-landing-page-in-html-430c)
-- [Dev.to/JS] [How Efficient is Delegation Design Pattern in Angular](https://dev.to/kptengco/how-efficient-is-delegation-design-pattern-in-angular-67h)
-- [Dev.to/JS] [IOT INTEGRATION WITH NETWORK](https://dev.to/hqmn/iot-integration-with-network-2gkk)
-- [Dev.to/JS] [GlucoTrust - Blood Sugar Solution, Price, Benefits And Reviews?](https://dev.to/glucotrust14/glucotrust-blood-sugar-solution-price-benefits-and-reviews-47mg)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
