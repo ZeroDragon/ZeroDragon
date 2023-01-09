@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programação Funcional com JavaScript](https://dev.to/pedroaugusto2305/programacao-funcional-com-javascript-2e9m)
 - [Dev.to/JS] [The useTransition hook - React 17.0 beta features](https://dev.to/alfredosalzillo/the-usetransition-hook-react-170-beta-features-20kj)
 - [Dev.to/JS] [Minimal Typescript + Express Boilerplate which focus on speed](https://dev.to/amm834/minimal-typescript-express-boilerplate-which-focus-on-speed-3npc)
 - [Dev.to/JS] [I created a dev.to clone with nodejs.](https://dev.to/blakcoder/i-created-a-devto-clone-with-nodejs-1bc4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Interviews: The Most Important Topics to Review](https://dev.to/kanav/react-interviews-the-most-important-topics-to-review-1pnl)
 - [Dev.to/JS] [LeetCode - Minimum Size Subarray Sum](https://dev.to/_alkesh26/leetcode-minimum-size-subarray-sum-1f9o)
 - [Dev.to/JS] [Dive Into the World of Open Source: From Novice to Contributor in 6 Steps](https://dev.to/thenomadevel/dive-into-the-world-of-open-source-from-novice-to-contributor-in-6-steps-1bh1)
-- [Dev.to/JS] [React counter component two different ways - useReducer and customHooks.](https://dev.to/agwa/react-counter-component-two-different-ways-usereducer-and-customhooks-4plc)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
