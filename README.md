@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Node.js command-line library with NRWL NX workspace](https://dev.to/eransakal/create-a-nodejs-command-line-library-with-nrwl-nx-workspace-5hin)
+- [Dev.to/JS] [Want to Setup and Configure TailwindCSS in React, Here&#39;s How You Can](https://dev.to/nitinfab/want-to-setup-and-configure-tailwindcss-in-react-heres-how-you-can-2j42)
+- [Dev.to/JS] [Podcasts and why I love them for Computer Science](https://dev.to/adamaslan/podcasts-and-why-i-love-them-for-computer-science-2mhc)
 - [Dev.to/JS] [Progressive Web Apps : An introduction](https://dev.to/vnaydev/progressive-web-apps-an-introduction-1k5j)
 - [Dev.to/JS] [Dream Garage: My First Project](https://dev.to/fredie_aponte_28c04a9b601/dream-garage-my-first-project-33bj)
 - [Dev.to/JS] [IT Staff is Among Jobs with Highest Burnout Rate – How to Avoid IT Staff Burnout](https://dev.to/hellenwrites19/it-staff-is-among-jobs-with-highest-burnout-rate-how-to-avoid-it-staff-burnout-14d8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Five JavaScript Animation Libraries to try out](https://dev.to/asayerio_techblog/five-javascript-animation-libraries-to-try-out-14a9)
 - [Dev.to/JS] [Code Smell 191 - Misplaced Responsibility](https://dev.to/mcsee/code-smell-191-misplaced-responsibility-53ik)
 - [Dev.to/JS] [React para devs Angular](https://dev.to/ricmello/react-para-devs-angular-2fhm)
-- [Dev.to/JS] [Issues that I encountered and how to deal with them while migrating from CRA to Vite](https://dev.to/lico/issues-that-i-encountered-and-how-to-deal-with-them-while-migrating-from-cra-to-vite-51pg)
-- [Dev.to/JS] [Promises in JavaScript and Typescript](https://dev.to/bcostaaa01/promises-in-javascript-and-typescript-5eh9)
-- [Dev.to/JS] [Programação Funcional com JavaScript](https://dev.to/pedroaugusto2305/programacao-funcional-com-javascript-2e9m)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
