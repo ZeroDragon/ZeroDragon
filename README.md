@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LEARN: Take a Break Reminder App with NextJs and Microsoft Graph](https://dev.to/azure/learn-take-a-break-reminder-app-3gj6)
+- [Dev.to/JS] [Five JavaScript Animation Libraries to try out](https://dev.to/asayerio_techblog/five-javascript-animation-libraries-to-try-out-14a9)
+- [Dev.to/JS] [Code Smell 191 - Misplaced Responsibility](https://dev.to/mcsee/code-smell-191-misplaced-responsibility-53ik)
+- [Dev.to/JS] [React para devs Angular](https://dev.to/ricmello/react-para-devs-angular-2fhm)
 - [Dev.to/JS] [Issues that I encountered and how to deal with them while migrating from CRA to Vite](https://dev.to/lico/issues-that-i-encountered-and-how-to-deal-with-them-while-migrating-from-cra-to-vite-51pg)
 - [Dev.to/JS] [Promises in JavaScript and Typescript](https://dev.to/bcostaaa01/promises-in-javascript-and-typescript-5eh9)
 - [Dev.to/JS] [Programação Funcional com JavaScript](https://dev.to/pedroaugusto2305/programacao-funcional-com-javascript-2e9m)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created a dev.to clone with nodejs.](https://dev.to/blakcoder/i-created-a-devto-clone-with-nodejs-1bc4)
 - [Dev.to/JS] [Scaling Node.js Applications: Strategies and Techniques](https://dev.to/ayka_code/scaling-nodejs-applications-strategies-and-techniques-3ofp)
 - [Dev.to/JS] [How to create a Counter Application using custom hooks and useReducer in React with good SEO, Error Boundary and 404 page](https://dev.to/buchman/how-to-create-a-counter-application-using-custom-hooks-and-usereducer-in-react-with-good-seo-error-boundary-and-404-page-16cj)
-- [Dev.to/JS] [React Router with nested route](https://dev.to/adeagbotoheeb/react-router-with-nested-route-2552)
-- [Dev.to/JS] [State Management in Frontend Development: An Overview and Case Study](https://dev.to/hitonomi_0/state-management-in-frontend-development-an-overview-and-case-study-2a)
-- [Dev.to/JS] [How to use Typescript Package in Javascript React?](https://dev.to/yuqingma/how-to-use-typescript-package-in-javascript-react-3igk)
-- [Dev.to/JS] [React Interviews: The Most Important Topics to Review](https://dev.to/kanav/react-interviews-the-most-important-topics-to-review-1pnl)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
