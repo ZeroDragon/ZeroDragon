@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GlucoTrust - Blood Sugar Solution, Price, Benefits And Reviews?](https://dev.to/glucotrust14/glucotrust-blood-sugar-solution-price-benefits-and-reviews-47mg)
 - [Dev.to/JS] [Create a Node.js command-line library with NRWL NX workspace](https://dev.to/eransakal/create-a-nodejs-command-line-library-with-nrwl-nx-workspace-5hin)
 - [Dev.to/JS] [Want to Setup and Configure TailwindCSS in React, Here&#39;s How You Can](https://dev.to/nitinfab/want-to-setup-and-configure-tailwindcss-in-react-heres-how-you-can-2j42)
 - [Dev.to/JS] [Podcasts and why I love them for Computer Science](https://dev.to/adamaslan/podcasts-and-why-i-love-them-for-computer-science-2mhc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LEARN: Take a Break Reminder App with NextJs and Microsoft Graph](https://dev.to/azure/learn-take-a-break-reminder-app-3gj6)
 - [Dev.to/JS] [Five JavaScript Animation Libraries to try out](https://dev.to/asayerio_techblog/five-javascript-animation-libraries-to-try-out-14a9)
 - [Dev.to/JS] [Code Smell 191 - Misplaced Responsibility](https://dev.to/mcsee/code-smell-191-misplaced-responsibility-53ik)
-- [Dev.to/JS] [React para devs Angular](https://dev.to/ricmello/react-para-devs-angular-2fhm)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
