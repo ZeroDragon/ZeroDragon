@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel + Vue 3 &lpar;Vite, TypeScript&rpar; SPA Setup](https://dev.to/brojenuel/laravel-vue-3-vite-typescript-spa-setup-32l9)
+- [Dev.to/JS] [How to Prepare for CTF &lpar;10 Proven Steps&rpar;](https://dev.to/codeswithrocky/how-to-prepare-for-ctf-10-proven-steps-med)
+- [Dev.to/JS] [How to Create a Web Form of Any Complexity and Add It to Your JavaScript App in Minutes with SurveyJS](https://dev.to/surveyjs/how-to-create-a-web-form-of-any-complexity-and-add-it-to-your-javascript-app-in-minutes-with-surveyjs-31ko)
+- [Dev.to/JS] [Refresh Token implementation in Reactjs](https://dev.to/chafroudtarek/refresh-token-implementation-in-reactjs-53f7)
 - [Dev.to/JS] [How to Use Node RED to Read Barcode and QR Code in JavaScript](https://dev.to/yushulx/how-to-use-node-red-to-read-barcode-and-qr-code-in-javascript-l0p)
 - [Dev.to/JS] [E-commerce Web App Using React Storefronts Build &amp; Deploy an Amazing App](https://dev.to/jessica020799/e-commerce-web-app-using-react-storefronts-build-deploy-an-amazing-app-3pbc)
 - [Dev.to/JS] [Implementing Microservice Architecture In Node JS](https://dev.to/lovepreetsingh/implementing-microservice-architecture-in-node-js-1fg3)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Efficient is Delegation Design Pattern in Angular](https://dev.to/kptengco/how-efficient-is-delegation-design-pattern-in-angular-67h)
 - [Dev.to/JS] [IOT INTEGRATION WITH NETWORK](https://dev.to/hqmn/iot-integration-with-network-2gkk)
 - [Dev.to/JS] [GlucoTrust - Blood Sugar Solution, Price, Benefits And Reviews?](https://dev.to/glucotrust14/glucotrust-blood-sugar-solution-price-benefits-and-reviews-47mg)
-- [Dev.to/JS] [Create a Node.js command-line library with NRWL NX workspace](https://dev.to/eransakal/create-a-nodejs-command-line-library-with-nrwl-nx-workspace-5hin)
-- [Dev.to/JS] [Want to Setup and Configure TailwindCSS in React, Here&#39;s How You Can](https://dev.to/nitinfab/want-to-setup-and-configure-tailwindcss-in-react-heres-how-you-can-2j42)
-- [Dev.to/JS] [Podcasts and why I love them for Computer Science](https://dev.to/adamaslan/podcasts-and-why-i-love-them-for-computer-science-2mhc)
-- [Dev.to/JS] [Progressive Web Apps : An introduction](https://dev.to/vnaydev/progressive-web-apps-an-introduction-1k5j)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
