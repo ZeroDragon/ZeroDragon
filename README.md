@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blogospot &lpar;Blog API&rpar;](https://dev.to/samuelume/blogospot-blog-api-3ai2)
 - [Dev.to/JS] [500 Internal Server Error In Laravel 9 AJAX](https://dev.to/techsolutionstuff/500-internal-server-error-in-laravel-9-ajax-32hk)
 - [Dev.to/JS] [Higher-Order Components in ReactJS: Simply Explained](https://dev.to/hy_piyush/higher-order-components-in-reactjs-simply-explained-3k00)
 - [Dev.to/JS] [How To Customize React Components with Props](https://dev.to/rahxuls/how-to-customize-react-components-with-props-knj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setup for Telescope](https://dev.to/cychu42/setup-for-telescope-6nk)
 - [Dev.to/JS] [Hello Guys! i&#39;m new here and a i have a little question](https://dev.to/maelvalentin/hello-guys-im-new-here-and-a-i-have-a-little-question-212o)
 - [Dev.to/JS] [How to Create a GitHub Profile Application With React and GitHub APIs](https://dev.to/nefejames/how-to-create-a-github-profile-application-with-react-and-github-apis-3ifl)
-- [Dev.to/JS] [#217: Contains Duplicate](https://dev.to/jd2r/217-contains-duplicate-5g5d)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
 - [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
