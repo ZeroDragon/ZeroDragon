@@ -23,12 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [6 of the Best Videos to Help You Actually Understand Crypto](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-cr-1849875305)
+- [Dev.to/JS] [Estruturas de dados no JavaScript, o que são e qual sua utilidade?](https://dev.to/altencirsilvajr/estruturas-de-dadosno-javascript-o-que-sao-e-qual-sua-utilidade-4245)
+- [Lifehacker] [Use a Hairdryer on Your Sheets This Winter](https://lifehacker.com/use-a-hairdryer-on-your-sheets-this-winter-1849970380)
+- [Dev.to/JS] [Adventures with JavaScript Arrays: Random Numbers Array](https://dev.to/juniordevforlife/adventures-with-javascript-arrays-random-numbers-array-4io1)
 - [Lifehacker] [Stop Tilting Your Head Back To Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)
 - [Dev.to/JS] [How to Implement and use Feature Flags in a Svelte Application](https://dev.to/daveyhert/how-to-implement-and-use-feature-flags-in-a-svelte-application-bh1)
 - [Dev.to/JS] [Building web components with WebC in vanilla JavaScript](https://dev.to/logrocket/building-web-components-with-webc-in-vanilla-javascript-4b4k)
 - [Dev.to/JS] [How many of thing that a proper website should develop in WordPress is better or html,css , js](https://dev.to/asish0sahu/how-many-of-thing-that-a-proper-website-should-develop-in-wordpress-is-better-or-htmlcss-js-9e)
 - [Lifehacker] [These Are the Best Browser Extensions for PC Gamers on Steam](https://lifehacker.com/these-are-the-best-browser-extensions-for-pc-gamers-on-1849969079)
-- [Dev.to/JS] [How to Create a Stunning GitHub Readme Profile](https://dev.to/patilganesh1010/how-to-create-a-stunning-github-readme-profile-5gg0)
 - [Dev.to/JS] [How to use Sentiment Analysis API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-sentiment-analysis-api-with-javascript-in-5-minutes-4d90)
 - [Lifehacker] [The 10 Best Home Improvement Projects to Do in Winter](https://lifehacker.com/the-10-best-home-improvement-projects-to-do-in-winter-1849967319)
 - [Dev.to/JS] [Timeout with Fetch API](https://dev.to/zsevic/timeout-with-fetch-api-49o3)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Telescope to work](https://dev.to/ririio/getting-telescope-to-work-21a0)
 - [Dev.to/JS] [3 Ways To Remove Duplicates in an Array with JavaScript](https://dev.to/ratracegrad/3-ways-to-remove-duplicates-in-an-array-with-javascript-3do1)
 - [Lifehacker] [13 Great Works of Art That Entered the Public Domain in 2023](https://lifehacker.com/13-great-works-of-art-that-entered-the-public-domain-in-1849968600)
-- [Dev.to/JS] [How to use Invoice Parsing API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-invoice-parsing-api-with-javascript-in-5-minutes-k5l)
 - [Lifehacker] [12 of the Best Movie Detectives Ever](https://lifehacker.com/12-of-the-best-movie-detectives-ever-1849964148)
 - [Lifehacker] [These Pharmacies May Soon Start Stocking Abortion Pills](https://lifehacker.com/these-pharmacies-may-soon-start-stocking-abortion-pills-1849967053)
 - [Lifehacker] [Panera Wants to Give Some of You a Free Baguette](https://lifehacker.com/panera-wants-to-give-some-of-you-a-free-baguette-1849966970)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Write a Layoff Announcement That Will Get You a New Job](https://lifehacker.com/how-to-write-a-layoff-announcement-that-will-get-you-a-1849964234)
 - [Lifehacker] [Your Next Baked Potato Should Be a Yukon, Not a Russet](https://lifehacker.com/your-next-baked-potato-should-be-a-yukon-not-a-russet-1849961269)
 - [Lifehacker] [How to Start Editing Wikipedia Articles On Your Own](https://lifehacker.com/how-to-start-editing-wikipedia-articles-on-your-own-1849963125)
-- [Lifehacker] [15 of the Best Movies About Huge Liars](https://lifehacker.com/15-of-the-best-movies-about-huge-liars-1849953754)
-- [Lifehacker] [Use Old Wine Bottles to Water Your Houseplants](https://lifehacker.com/use-old-wine-bottles-to-water-your-houseplants-1849960542)
-- [Lifehacker] [Why We Actually Need More Mindless Activities](https://lifehacker.com/why-we-actually-need-more-mindless-activities-1849958757)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of the Best Movies About Huge Liars](https://lifehacker.com/15-of-the-best-movies-about-huge-liars-1849953754)<!-- TECH-POSTS:END -->
 
 ---
 
