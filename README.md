@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Visual JavaScript Array Cheatsheet That Went Viral on Linkedin 🤯🔥](https://dev.to/rammcodes/my-visual-javascript-array-cheatsheet-that-went-viral-on-linkedin-44bb)
+- [Dev.to/JS] [Building a Website on the Mortal Kombat Video Game](https://dev.to/nnamdikurus/building-a-website-on-the-mortal-kombat-video-game-o06)
+- [Dev.to/JS] [Gantt chart and histogram d3js](https://dev.to/haonguyen39/gantt-chart-and-histogram-d3js-1c36)
 - [Dev.to/JS] [Scrape Yelp Business Reviews](https://dev.to/darshan_12/scrape-yelp-business-reviews-32nk)
 - [Dev.to/JS] [Implementing custom functions in Arrays](https://dev.to/riturathin/implementing-custom-functions-in-arrays-13ia)
 - [Dev.to/JS] [Gorilla Flow - Ingredients, Side Effects, Warning &amp; Complaints?](https://dev.to/gorillaflow2/gorilla-flow-ingredients-side-effects-warning-complaints-1jdb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Higher-Order Components in ReactJS: Simply Explained](https://dev.to/hy_piyush/higher-order-components-in-reactjs-simply-explained-3k00)
 - [Dev.to/JS] [How To Customize React Components with Props](https://dev.to/rahxuls/how-to-customize-react-components-with-props-knj)
 - [Dev.to/JS] [Building a blog Api with Nodejs](https://dev.to/omotega/building-a-blog-api-with-nodejs-18pb)
-- [Dev.to/JS] [Mongoose ODM Best Practices Part One.](https://dev.to/elhamnajeebullah/mongoose-odm-best-practices-part-one-e6e)
-- [Dev.to/JS] [How to store HTML form value in an array](https://dev.to/awaisalwaisy/how-to-store-html-form-value-in-an-array-5pf)
-- [Dev.to/JS] [5 websites will make you a smarter 🏆 developer👩‍💻](https://dev.to/mahmoudessam/5-websites-will-make-you-a-smarter-developer-2jld)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
 - [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
