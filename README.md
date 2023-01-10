@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mongoose ODM Best Practices Part One.](https://dev.to/elhamnajeebullah/mongoose-odm-best-practices-part-one-e6e)
+- [Dev.to/JS] [How to store HTML form value in an array](https://dev.to/awaisalwaisy/how-to-store-html-form-value-in-an-array-5pf)
 - [Dev.to/JS] [5 websites will make you a smarter 🏆 developer👩‍💻](https://dev.to/mahmoudessam/5-websites-will-make-you-a-smarter-developer-2jld)
 - [Dev.to/JS] [A blogging api](https://dev.to/temitopeagbaje/a-blogging-api-30ni)
 - [Dev.to/JS] [Setup for Telescope](https://dev.to/cychu42/setup-for-telescope-6nk)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Pay for This Scammy ChatGPT Clone](https://lifehacker.com/dont-pay-for-this-scammy-chatgpt-clone-1849965653)
 - [Dev.to/JS] [How to build a counter app using useReducer and customHooks with react.js](https://dev.to/kathykay/how-to-build-a-counter-app-using-usereducer-and-customhooks-with-reactjs-5bj5)
 - [Lifehacker] [Is That Crack in Your Foundation Worth Worrying About?](https://lifehacker.com/is-that-crack-in-your-foundation-worth-worrying-about-1849964611)
-- [Dev.to/JS] [Enhance your Docsify experience with your own plugin](https://dev.to/corentinleberre/enhance-your-docsify-experience-with-your-own-plugin-33aj)
-- [Dev.to/JS] [Diário de bordo #3](https://dev.to/analuisadev/diario-de-bordo-3-hfa)
 - [Lifehacker] [Windows 7 Is Officially Dead](https://lifehacker.com/windows-7-is-officially-dead-1849966248)
 - [Lifehacker] [Pay Attention to Your Cash Back Rewards Bonus Categories](https://lifehacker.com/pay-attention-to-your-cash-back-rewards-bonus-categorie-1849965980)
 - [Lifehacker] [The 10 Best Mental Health Podcasts to Get You Through 2023](https://lifehacker.com/the-10-best-mental-health-podcasts-to-get-you-through-2-1849932046)
