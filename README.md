@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [500 Internal Server Error In Laravel 9 AJAX](https://dev.to/techsolutionstuff/500-internal-server-error-in-laravel-9-ajax-32hk)
+- [Dev.to/JS] [Higher-Order Components in ReactJS: Simply Explained](https://dev.to/hy_piyush/higher-order-components-in-reactjs-simply-explained-3k00)
 - [Dev.to/JS] [How To Customize React Components with Props](https://dev.to/rahxuls/how-to-customize-react-components-with-props-knj)
 - [Dev.to/JS] [Building a blog Api with Nodejs](https://dev.to/omotega/building-a-blog-api-with-nodejs-18pb)
 - [Dev.to/JS] [Mongoose ODM Best Practices Part One.](https://dev.to/elhamnajeebullah/mongoose-odm-best-practices-part-one-e6e)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a GitHub Profile Application With React and GitHub APIs](https://dev.to/nefejames/how-to-create-a-github-profile-application-with-react-and-github-apis-3ifl)
 - [Dev.to/JS] [#217: Contains Duplicate](https://dev.to/jd2r/217-contains-duplicate-5g5d)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
-- [Dev.to/JS] [What are code refactoring techniques?](https://dev.to/cute6269/what-are-code-refactoring-techniques-jbb)
-- [Dev.to/JS] [What are the most common causes of code refactoring problems?](https://dev.to/cute6269/what-are-the-most-common-causes-of-code-refactoring-problems-k87)
 - [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
 - [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
 - [Lifehacker] [9 Unexpected Ways to Use Your Cooling Rack](https://lifehacker.com/9-unexpected-ways-to-use-your-cooling-rack-1849966446)
