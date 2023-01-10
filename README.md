@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
+- [Dev.to/JS] [Easy steps to create an ExpressJs application](https://dev.to/efkumah/easy-steps-to-create-an-expressjs-application-3gb8)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
 - [Dev.to/JS] [Creating an &quot;Authentication&quot; with &quot;React Context API&quot;](https://dev.to/bello_wrld/creating-an-authentication-with-react-context-api-2e24)
 - [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Preparing tsParticles v3](https://dev.to/tsparticles/preparing-tsparticles-v3-5bai)
 - [Dev.to/JS] [Synapses: Event-driven Alternative to React Context](https://dev.to/nucleoid/synapses-event-driven-alternative-to-react-context-2mdm)
 - [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
-- [Dev.to/JS] [The difference between test-driven development and observability-driven development](https://dev.to/kubeshop/the-difference-between-test-driven-development-and-observability-driven-development-65b)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Crypto](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-cr-1849875305)
 - [Lifehacker] [Use a Hairdryer on Your Sheets This Winter](https://lifehacker.com/use-a-hairdryer-on-your-sheets-this-winter-1849970380)
 - [Lifehacker] [Stop Tilting Your Head Back to Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Windows 7 Is Officially Dead](https://lifehacker.com/windows-7-is-officially-dead-1849966248)
 - [Lifehacker] [Pay Attention to Your Cash Back Rewards Bonus Categories](https://lifehacker.com/pay-attention-to-your-cash-back-rewards-bonus-categorie-1849965980)
 - [Lifehacker] [The 10 Best Mental Health Podcasts to Get You Through 2023](https://lifehacker.com/the-10-best-mental-health-podcasts-to-get-you-through-2-1849932046)
-- [Lifehacker] [Where to Find Discounted Home Gym Equipment Right Now](https://lifehacker.com/where-to-find-discounted-home-gym-equipment-right-now-1849961075)
-- [Lifehacker] [This Coffee Brewing Method Delivers the Biggest Jolt of Caffeine](https://lifehacker.com/this-coffee-brewing-method-delivers-the-biggest-jolt-of-1849964718)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Find Discounted Home Gym Equipment Right Now](https://lifehacker.com/where-to-find-discounted-home-gym-equipment-right-now-1849961075)<!-- TECH-POSTS:END -->
 
 ---
 
