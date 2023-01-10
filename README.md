@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup for Telescope](https://dev.to/cychu42/setup-for-telescope-6nk)
+- [Dev.to/JS] [Hello Guys! i&#39;m new here and a i have a little question](https://dev.to/maelvalentin/hello-guys-im-new-here-and-a-i-have-a-little-question-212o)
+- [Dev.to/JS] [How to Create a GitHub Profile Application With React and GitHub APIs](https://dev.to/nefejames/how-to-create-a-github-profile-application-with-react-and-github-apis-3ifl)
+- [Dev.to/JS] [#217: Contains Duplicate](https://dev.to/jd2r/217-contains-duplicate-5g5d)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Dev.to/JS] [What are code refactoring techniques?](https://dev.to/cute6269/what-are-code-refactoring-techniques-jbb)
 - [Dev.to/JS] [What are the most common causes of code refactoring problems?](https://dev.to/cute6269/what-are-the-most-common-causes-of-code-refactoring-problems-k87)
@@ -39,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Windows 7 Is Officially Dead](https://lifehacker.com/windows-7-is-officially-dead-1849966248)
 - [Dev.to/JS] [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
 - [Lifehacker] [Pay Attention to Your Cash Back Rewards Bonus Categories](https://lifehacker.com/pay-attention-to-your-cash-back-rewards-bonus-categorie-1849965980)
-- [Dev.to/JS] [Building Server-Side Components in Next.js: A Step-by-Step Guide](https://dev.to/hitonomi_0/building-server-side-components-in-nextjs-a-step-by-step-guide-451f)
-- [Dev.to/JS] [Objetos imutáveis em JS](https://dev.to/netojocelino/objetos-imutaveis-em-js-219f)
 - [Lifehacker] [The 10 Best Mental Health Podcasts to Get You Through 2023](https://lifehacker.com/the-10-best-mental-health-podcasts-to-get-you-through-2-1849932046)
-- [Dev.to/JS] [Hosting providers to deploy your Next.js app](https://dev.to/siglave/hosting-providers-to-deploy-your-nextjs-app-3df2)
-- [Dev.to/JS] [HTML Validation for Nuxt](https://dev.to/jacobandrewsky/html-validation-for-nuxt-gj4)
 - [Lifehacker] [Where to Find Discounted Home Gym Equipment Right Now](https://lifehacker.com/where-to-find-discounted-home-gym-equipment-right-now-1849961075)
 - [Lifehacker] [This Coffee Brewing Method Delivers the Biggest Jolt of Caffeine](https://lifehacker.com/this-coffee-brewing-method-delivers-the-biggest-jolt-of-1849964718)
 - [Lifehacker] [You Can Make Your Giant iPhone Easier to Use With One Hand](https://lifehacker.com/you-can-make-your-giant-iphone-easier-to-use-with-one-h-1849964552)
