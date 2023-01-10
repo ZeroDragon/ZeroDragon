@@ -23,11 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
+- [Dev.to/JS] [Synapses: Event-driven Alternative to React Context](https://dev.to/nucleoid/synapses-event-driven-alternative-to-react-context-2mdm)
+- [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
+- [Dev.to/JS] [The difference between test-driven development and observability-driven development](https://dev.to/kubeshop/the-difference-between-test-driven-development-and-observability-driven-development-65b)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Crypto](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-cr-1849875305)
 - [Dev.to/JS] [Estruturas de dados no JavaScript, o que são e qual sua utilidade?](https://dev.to/altencirsilvajr/estruturas-de-dadosno-javascript-o-que-sao-e-qual-sua-utilidade-4245)
 - [Lifehacker] [Use a Hairdryer on Your Sheets This Winter](https://lifehacker.com/use-a-hairdryer-on-your-sheets-this-winter-1849970380)
 - [Dev.to/JS] [Adventures with JavaScript Arrays: Random Numbers Array](https://dev.to/juniordevforlife/adventures-with-javascript-arrays-random-numbers-array-4io1)
-- [Lifehacker] [Stop Tilting Your Head Back To Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)
+- [Lifehacker] [Stop Tilting Your Head Back to Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)
 - [Dev.to/JS] [How to Implement and use Feature Flags in a Svelte Application](https://dev.to/daveyhert/how-to-implement-and-use-feature-flags-in-a-svelte-application-bh1)
 - [Dev.to/JS] [Building web components with WebC in vanilla JavaScript](https://dev.to/logrocket/building-web-components-with-webc-in-vanilla-javascript-4b4k)
 - [Dev.to/JS] [How many of thing that a proper website should develop in WordPress is better or html,css , js](https://dev.to/asish0sahu/how-many-of-thing-that-a-proper-website-should-develop-in-wordpress-is-better-or-htmlcss-js-9e)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wrapping useContext in custom hook and HOC adapter](https://dev.to/amanshaw4511/wrapping-usecontext-in-custom-hook-and-hoc-adapter-3kob)
 - [Dev.to/JS] [VIDEO | How to use Sentiment Analysis API with JavaScript &lpar;Vue.js&rpar;?](https://dev.to/edenai/video-how-to-use-sentiment-analysis-api-with-javascript-vuejs-3fl2)
 - [Lifehacker] [What to Do If Your Child Is a ‘Know-It-All’](https://lifehacker.com/what-to-do-if-your-child-is-a-know-it-all-1849967323)
-- [Dev.to/JS] [Getting Telescope to work](https://dev.to/ririio/getting-telescope-to-work-21a0)
-- [Dev.to/JS] [3 Ways To Remove Duplicates in an Array with JavaScript](https://dev.to/ratracegrad/3-ways-to-remove-duplicates-in-an-array-with-javascript-3do1)
 - [Lifehacker] [13 Great Works of Art That Entered the Public Domain in 2023](https://lifehacker.com/13-great-works-of-art-that-entered-the-public-domain-in-1849968600)
 - [Lifehacker] [12 of the Best Movie Detectives Ever](https://lifehacker.com/12-of-the-best-movie-detectives-ever-1849964148)
 - [Lifehacker] [These Pharmacies May Soon Start Stocking Abortion Pills](https://lifehacker.com/these-pharmacies-may-soon-start-stocking-abortion-pills-1849967053)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Your Giant iPhone Easier to Use With One Hand](https://lifehacker.com/you-can-make-your-giant-iphone-easier-to-use-with-one-h-1849964552)
 - [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
 - [Lifehacker] [How to Write a Layoff Announcement That Will Get You a New Job](https://lifehacker.com/how-to-write-a-layoff-announcement-that-will-get-you-a-1849964234)
-- [Lifehacker] [Your Next Baked Potato Should Be a Yukon, Not a Russet](https://lifehacker.com/your-next-baked-potato-should-be-a-yukon-not-a-russet-1849961269)
-- [Lifehacker] [How to Start Editing Wikipedia Articles On Your Own](https://lifehacker.com/how-to-start-editing-wikipedia-articles-on-your-own-1849963125)
-- [Lifehacker] [15 of the Best Movies About Huge Liars](https://lifehacker.com/15-of-the-best-movies-about-huge-liars-1849953754)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Next Baked Potato Should Be a Yukon, Not a Russet](https://lifehacker.com/your-next-baked-potato-should-be-a-yukon-not-a-russet-1849961269)<!-- TECH-POSTS:END -->
 
 ---
 
