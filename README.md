@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Serving Your Cheeses on Wooden Boards](https://lifehacker.com/stop-serving-your-cheeses-on-wooden-boards-1849966881)
+- [Dev.to/JS] [How I built Nike’s Ecommerce Features with Medusa](https://dev.to/medusajs/how-i-built-nikes-ecommerce-features-with-medusa-131)
 - [Dev.to/JS] [You Must-Have This Effect on Your Website](https://dev.to/codewithsadee/you-must-have-this-effect-on-your-website-225e)
 - [Dev.to/JS] [Leveraging Generics to Create Reusable Typescript Code](https://dev.to/kalashin1/leveraging-generics-to-create-reusable-typescript-code-42h6)
 - [Dev.to/JS] [React | POST API call using custom hook😎](https://dev.to/krishna7852/react-post-api-call-using-custom-hook-40fb)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✏️ RECURSION IN JAVASCRIPT](https://dev.to/gulcanc/recursion-in-javascript-2ch4)
 - [Dev.to/JS] [React: Infinite Scrolling with &quot;react-infinite-scroll-component&quot; npm package](https://dev.to/elhamnajeebullah/react-infinite-scrolling-with-react-infinite-scroll-component-npm-package-2dil)
 - [Dev.to/JS] [A Qwik View of the Ranking Bar](https://dev.to/valorsoftware/a-qwik-view-of-the-ranking-bar-543d)
-- [Dev.to/JS] [A Foolproof Guide To &#39;this&#39; In JavaScript](https://dev.to/thelamina/a-foolproof-guide-to-this-in-javascript-582)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
 - [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
 - [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
-- [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)
-- [Lifehacker] [Your Guide to the World of Ridiculously Oversized Mattresses](https://lifehacker.com/your-guide-to-ridiculously-oversize-mattresses-1849959167)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)<!-- TECH-POSTS:END -->
 
 ---
 
