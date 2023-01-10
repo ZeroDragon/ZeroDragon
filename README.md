@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [13 Great Works of Art That Entered the Public Domain in 2023](https://lifehacker.com/13-great-works-of-art-that-entered-the-public-domain-in-1849968600)
+- [Dev.to/JS] [7 React Hooks for Every Project](https://dev.to/webdevhero-com/7-react-hooks-for-every-project-1jdo)
+- [Dev.to/JS] [Building a Twitter bot with Node.js and OpenAI](https://dev.to/sojinsamuel/building-a-twitter-bot-with-nodejs-and-openai-2poa)
+- [Dev.to/JS] [String.endsWith&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringendswith-in-javascript-3kfd)
+- [Lifehacker] [12 of the Best Movie Detectives Ever](https://lifehacker.com/12-of-the-best-movie-detectives-ever-1849964148)
+- [Dev.to/JS] [8 reasons to use Angular for web applications](https://dev.to/claudemotoba/8-reasons-to-use-angular-for-web-applications-3nha)
+- [Dev.to/JS] [A step-by-step Guide to Creating a Blogging API/App with Nodejs/Express and MongoDb](https://dev.to/muyixone/a-step-by-step-guide-to-creating-a-blogging-apiapp-with-nodejsexpress-and-mongodb-27dj)
+- [Dev.to/JS] [Introducing the Twitter Comment Bot: Generate and Reply to Tweets with OpenAI API](https://dev.to/sojinsamuel/introducing-the-twitter-comment-bot-generate-and-reply-to-tweets-with-openai-api-5e99)
+- [Dev.to/JS] [How to use Video Object Tracking API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-video-object-tracking-api-with-javascript-in-5-minutes-1g1p)
+- [Lifehacker] [These Pharmacies May Soon Start Stocking Abortion Pills](https://lifehacker.com/these-pharmacies-may-soon-start-stocking-abortion-pills-1849967053)
 - [Lifehacker] [Panera Wants to Give Some of You a Free Baguette](https://lifehacker.com/panera-wants-to-give-some-of-you-a-free-baguette-1849966970)
 - [Dev.to/JS] [7 Must-Have Tools for Developers to Boost Productivity that nobody told you about !!](https://dev.to/thenomadevel/7-must-have-tools-for-developers-to-boost-productivity-that-nobody-told-you-about--3ea2)
 - [Dev.to/JS] [What to Expect in Web Development and JavaScript in 2023](https://dev.to/plazarev/what-to-expect-in-web-development-and-javascript-in-2023-5g33)
@@ -30,13 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I built Nike’s Ecommerce Features with Medusa](https://dev.to/medusajs/how-i-built-nikes-ecommerce-features-with-medusa-131)
 - [Dev.to/JS] [You Must-Have This Effect on Your Website](https://dev.to/codewithsadee/you-must-have-this-effect-on-your-website-225e)
 - [Dev.to/JS] [Leveraging Generics to Create Reusable Typescript Code](https://dev.to/kalashin1/leveraging-generics-to-create-reusable-typescript-code-42h6)
-- [Dev.to/JS] [React | POST API call using custom hook😎](https://dev.to/krishna7852/react-post-api-call-using-custom-hook-40fb)
-- [Dev.to/JS] [Top 10+ Angular Libraries for Your Next Web App](https://dev.to/flatlogic/top-10-angular-libraries-for-your-next-web-app-21hc)
-- [Dev.to/JS] [Moonly weekly progress update #31](https://dev.to/moonly/moonly-weekly-progress-update-31-5hch)
-- [Dev.to/JS] [Binding event handlers in React](https://dev.to/thecodess/binding-event-handlers-in-react-2d34)
-- [Dev.to/JS] [Implementing GitHub content API with custom hook &amp; Context API](https://dev.to/js_lover/implementing-github-content-api-with-custom-hook-context-api-4ekk)
-- [Dev.to/JS] [How to improve the page speed index of your website?](https://dev.to/canopassoftware/how-to-improve-the-page-speed-index-of-your-website-2n07)
-- [Dev.to/JS] [✏️ RECURSION IN JAVASCRIPT](https://dev.to/gulcanc/recursion-in-javascript-2ch4)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
 - [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Using Your Ice Scraper Wrong](https://lifehacker.com/youre-using-your-ice-scraper-wrong-1849960175)
 - [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
 - [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)
-- [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
-- [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
-- [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
-- [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)<!-- TECH-POSTS:END -->
 
 ---
 
