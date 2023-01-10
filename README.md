@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Tilting Your Head Back To Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)
+- [Dev.to/JS] [How to Implement and use Feature Flags in a Svelte Application](https://dev.to/daveyhert/how-to-implement-and-use-feature-flags-in-a-svelte-application-bh1)
+- [Dev.to/JS] [Building web components with WebC in vanilla JavaScript](https://dev.to/logrocket/building-web-components-with-webc-in-vanilla-javascript-4b4k)
+- [Dev.to/JS] [How many of thing that a proper website should develop in WordPress is better or html,css , js](https://dev.to/asish0sahu/how-many-of-thing-that-a-proper-website-should-develop-in-wordpress-is-better-or-htmlcss-js-9e)
+- [Lifehacker] [These Are the Best Browser Extensions for PC Gamers on Steam](https://lifehacker.com/these-are-the-best-browser-extensions-for-pc-gamers-on-1849969079)
+- [Dev.to/JS] [How to Create a Stunning GitHub Readme Profile](https://dev.to/patilganesh1010/how-to-create-a-stunning-github-readme-profile-5gg0)
+- [Dev.to/JS] [How to use Sentiment Analysis API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-sentiment-analysis-api-with-javascript-in-5-minutes-4d90)
+- [Lifehacker] [The 10 Best Home Improvement Projects to Do in Winter](https://lifehacker.com/the-10-best-home-improvement-projects-to-do-in-winter-1849967319)
 - [Dev.to/JS] [Timeout with Fetch API](https://dev.to/zsevic/timeout-with-fetch-api-49o3)
 - [Dev.to/JS] [Create a ChatGPT WhatsApp Bot on Cyclic in Just 5 minutes](https://dev.to/balsimpson/create-a-chatgpt-whatsapp-bot-on-cyclic-in-just-5-minutes-l4a)
 - [Dev.to/JS] [Wrapping useContext in custom hook and HOC adapter](https://dev.to/amanshaw4511/wrapping-usecontext-in-custom-hook-and-hoc-adapter-3kob)
@@ -32,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Ways To Remove Duplicates in an Array with JavaScript](https://dev.to/ratracegrad/3-ways-to-remove-duplicates-in-an-array-with-javascript-3do1)
 - [Lifehacker] [13 Great Works of Art That Entered the Public Domain in 2023](https://lifehacker.com/13-great-works-of-art-that-entered-the-public-domain-in-1849968600)
 - [Dev.to/JS] [How to use Invoice Parsing API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-invoice-parsing-api-with-javascript-in-5-minutes-k5l)
-- [Dev.to/JS] [7 React Hooks for Every Project](https://dev.to/webdevhero-com/7-react-hooks-for-every-project-1jdo)
-- [Dev.to/JS] [Building a Twitter bot with Node.js and OpenAI](https://dev.to/sojinsamuel/building-a-twitter-bot-with-nodejs-and-openai-2poa)
-- [Dev.to/JS] [String.endsWith&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringendswith-in-javascript-3kfd)
 - [Lifehacker] [12 of the Best Movie Detectives Ever](https://lifehacker.com/12-of-the-best-movie-detectives-ever-1849964148)
-- [Dev.to/JS] [8 reasons to use Angular for web applications](https://dev.to/claudemotoba/8-reasons-to-use-angular-for-web-applications-3nha)
-- [Dev.to/JS] [A step-by-step Guide to Creating a Blogging API/App with Nodejs/Express and MongoDb](https://dev.to/muyixone/a-step-by-step-guide-to-creating-a-blogging-apiapp-with-nodejsexpress-and-mongodb-27dj)
 - [Lifehacker] [These Pharmacies May Soon Start Stocking Abortion Pills](https://lifehacker.com/these-pharmacies-may-soon-start-stocking-abortion-pills-1849967053)
 - [Lifehacker] [Panera Wants to Give Some of You a Free Baguette](https://lifehacker.com/panera-wants-to-give-some-of-you-a-free-baguette-1849966970)
 - [Lifehacker] [Stop Serving Your Cheeses on Wooden Boards](https://lifehacker.com/stop-serving-your-cheeses-on-wooden-boards-1849966881)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Start Editing Wikipedia Articles On Your Own](https://lifehacker.com/how-to-start-editing-wikipedia-articles-on-your-own-1849963125)
 - [Lifehacker] [15 of the Best Movies About Huge Liars](https://lifehacker.com/15-of-the-best-movies-about-huge-liars-1849953754)
 - [Lifehacker] [Use Old Wine Bottles to Water Your Houseplants](https://lifehacker.com/use-old-wine-bottles-to-water-your-houseplants-1849960542)
-- [Lifehacker] [Why We Actually Need More Mindless Activities](https://lifehacker.com/why-we-actually-need-more-mindless-activities-1849958757)
-- [Lifehacker] [You&#39;re Using Your Ice Scraper Wrong](https://lifehacker.com/youre-using-your-ice-scraper-wrong-1849960175)
-- [Lifehacker] [The Difference Between Mineral Spirits and Mineral Oil](https://lifehacker.com/the-difference-between-mineral-spirits-and-mineral-oil-1849958009)
-- [Lifehacker] [You Should Be Rotating Your Houseplants](https://lifehacker.com/you-should-be-rotating-your-houseplants-1849958014)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why We Actually Need More Mindless Activities](https://lifehacker.com/why-we-actually-need-more-mindless-activities-1849958757)<!-- TECH-POSTS:END -->
 
 ---
 
