@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✏️ RECURSION IN JAVASCRIPT](https://dev.to/gulcanc/recursion-in-javascript-2ch4)
+- [Dev.to/JS] [React: Infinite Scrolling with &quot;react-infinite-scroll-component&quot; npm package](https://dev.to/elhamnajeebullah/react-infinite-scrolling-with-react-infinite-scroll-component-npm-package-2dil)
+- [Dev.to/JS] [A Foolproof Guide To &#39;this&#39; In JavaScript](https://dev.to/thelamina/a-foolproof-guide-to-this-in-javascript-582)
 - [Dev.to/JS] [Node.js microservice architecture🤗.](https://dev.to/krishna7852/nodejs-microservice-architecture-58lp)
 - [Dev.to/JS] [The Hype of Solopreneurship and Entrepreneurship: Separating Reality from Illusion](https://dev.to/lakincoder/the-hype-of-solopreneurship-and-entrepreneurship-separating-reality-from-illusion-4gdj)
 - [Dev.to/JS] [Building a React Counter App with useState and useReducer.](https://dev.to/fizzbaba/building-a-react-counter-app-with-usestate-and-usereducer-2a42)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gantt chart and histogram d3js](https://dev.to/haonguyen39/gantt-chart-and-histogram-d3js-1c36)
 - [Dev.to/JS] [Scrape Yelp Business Reviews](https://dev.to/darshan_12/scrape-yelp-business-reviews-32nk)
 - [Dev.to/JS] [Implementing custom functions in Arrays](https://dev.to/riturathin/implementing-custom-functions-in-arrays-13ia)
-- [Dev.to/JS] [Gorilla Flow - Ingredients, Side Effects, Warning &amp; Complaints?](https://dev.to/gorillaflow2/gorilla-flow-ingredients-side-effects-warning-complaints-1jdb)
-- [Dev.to/JS] [Why You Should Learn Vue js 3 In 2023](https://dev.to/shoyeb001/why-you-should-learn-vue-js-3-in-2023-e46)
-- [Dev.to/JS] [Blogospot &lpar;Blog API&rpar;](https://dev.to/samuelume/blogospot-blog-api-3ai2)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
 - [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
