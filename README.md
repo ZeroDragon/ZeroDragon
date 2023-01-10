@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Callbacks](https://dev.to/catherineisonline/javascript-callbacks-24cp)
+- [Dev.to/JS] [Why you should ALWAYS use return before res.send in Express APIs and Applications](https://dev.to/adamkatora/why-you-should-always-use-return-before-ressend-in-express-apis-and-applications-k9k)
+- [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)
+- [Dev.to/JS] [Import maps 101](https://dev.to/uploadcare/import-maps-101-2f28)
+- [Dev.to/JS] [Safer URL reading and writing in modern JavaScript](https://dev.to/builderio/safer-url-reading-and-writing-in-modern-javascript-4m02)
 - [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
+- [Dev.to/JS] [Preparing tsParticles v3](https://dev.to/tsparticles/preparing-tsparticles-v3-5bai)
 - [Dev.to/JS] [Synapses: Event-driven Alternative to React Context](https://dev.to/nucleoid/synapses-event-driven-alternative-to-react-context-2mdm)
 - [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
 - [Dev.to/JS] [The difference between test-driven development and observability-driven development](https://dev.to/kubeshop/the-difference-between-test-driven-development-and-observability-driven-development-65b)
@@ -36,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building web components with WebC in vanilla JavaScript](https://dev.to/logrocket/building-web-components-with-webc-in-vanilla-javascript-4b4k)
 - [Dev.to/JS] [How many of thing that a proper website should develop in WordPress is better or html,css , js](https://dev.to/asish0sahu/how-many-of-thing-that-a-proper-website-should-develop-in-wordpress-is-better-or-htmlcss-js-9e)
 - [Lifehacker] [These Are the Best Browser Extensions for PC Gamers on Steam](https://lifehacker.com/these-are-the-best-browser-extensions-for-pc-gamers-on-1849969079)
-- [Dev.to/JS] [How to use Sentiment Analysis API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-sentiment-analysis-api-with-javascript-in-5-minutes-4d90)
 - [Lifehacker] [The 10 Best Home Improvement Projects to Do in Winter](https://lifehacker.com/the-10-best-home-improvement-projects-to-do-in-winter-1849967319)
-- [Dev.to/JS] [Timeout with Fetch API](https://dev.to/zsevic/timeout-with-fetch-api-49o3)
-- [Dev.to/JS] [Create a ChatGPT WhatsApp Bot on Cyclic in Just 5 minutes](https://dev.to/balsimpson/create-a-chatgpt-whatsapp-bot-on-cyclic-in-just-5-minutes-l4a)
-- [Dev.to/JS] [Wrapping useContext in custom hook and HOC adapter](https://dev.to/amanshaw4511/wrapping-usecontext-in-custom-hook-and-hoc-adapter-3kob)
-- [Dev.to/JS] [VIDEO | How to use Sentiment Analysis API with JavaScript &lpar;Vue.js&rpar;?](https://dev.to/edenai/video-how-to-use-sentiment-analysis-api-with-javascript-vuejs-3fl2)
 - [Lifehacker] [What to Do If Your Child Is a ‘Know-It-All’](https://lifehacker.com/what-to-do-if-your-child-is-a-know-it-all-1849967323)
 - [Lifehacker] [13 Great Works of Art That Entered the Public Domain in 2023](https://lifehacker.com/13-great-works-of-art-that-entered-the-public-domain-in-1849968600)
 - [Lifehacker] [12 of the Best Movie Detectives Ever](https://lifehacker.com/12-of-the-best-movie-detectives-ever-1849964148)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Coffee Brewing Method Delivers the Biggest Jolt of Caffeine](https://lifehacker.com/this-coffee-brewing-method-delivers-the-biggest-jolt-of-1849964718)
 - [Lifehacker] [You Can Make Your Giant iPhone Easier to Use With One Hand](https://lifehacker.com/you-can-make-your-giant-iphone-easier-to-use-with-one-h-1849964552)
 - [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
-- [Lifehacker] [How to Write a Layoff Announcement That Will Get You a New Job](https://lifehacker.com/how-to-write-a-layoff-announcement-that-will-get-you-a-1849964234)
-- [Lifehacker] [Your Next Baked Potato Should Be a Yukon, Not a Russet](https://lifehacker.com/your-next-baked-potato-should-be-a-yukon-not-a-russet-1849961269)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Write a Layoff Announcement That Will Get You a New Job](https://lifehacker.com/how-to-write-a-layoff-announcement-that-will-get-you-a-1849964234)<!-- TECH-POSTS:END -->
 
 ---
 
