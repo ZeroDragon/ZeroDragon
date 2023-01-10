@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
+- [Dev.to/JS] [Creating an &quot;Authentication&quot; with &quot;React Context API&quot;](https://dev.to/bello_wrld/creating-an-authentication-with-react-context-api-2e24)
+- [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
+- [Dev.to/JS] [Reduce a JSON Object to just Entries of a Specific Type with jq](https://dev.to/jbranchaud/reduce-a-json-object-to-just-entries-of-a-specific-type-with-jq-2b2o)
+- [Dev.to/JS] [A beautiful TUI for caniuse.com](https://dev.to/fkhadra/a-beautiful-tui-for-caniusecom-3a37)
+- [Dev.to/JS] [Frontend Engineering: The Crucial Role it Plays in the Development Process](https://dev.to/hitonomi_0/frontend-engineering-the-crucial-role-it-plays-in-the-development-process-47n)
+- [Lifehacker] [The Best Coffee Loyalty Programs, Ranked by What You Actually Get](https://lifehacker.com/the-best-coffee-loyalty-programs-ranked-by-what-you-ac-1849970675)
 - [Dev.to/JS] [JavaScript Callbacks](https://dev.to/catherineisonline/javascript-callbacks-24cp)
+- [Dev.to/JS] [How to create a Blog API with Node.js and Express.js Framework](https://dev.to/spaceracedev/how-to-create-a-blog-api-with-nodejs-and-expressjs-framework-47ob)
 - [Dev.to/JS] [Why you should ALWAYS use return before res.send in Express APIs and Applications](https://dev.to/adamkatora/why-you-should-always-use-return-before-ressend-in-express-apis-and-applications-k9k)
 - [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)
 - [Dev.to/JS] [Import maps 101](https://dev.to/uploadcare/import-maps-101-2f28)
@@ -34,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
 - [Dev.to/JS] [The difference between test-driven development and observability-driven development](https://dev.to/kubeshop/the-difference-between-test-driven-development-and-observability-driven-development-65b)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Crypto](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-cr-1849875305)
-- [Dev.to/JS] [Estruturas de dados no JavaScript, o que são e qual sua utilidade?](https://dev.to/altencirsilvajr/estruturas-de-dadosno-javascript-o-que-sao-e-qual-sua-utilidade-4245)
 - [Lifehacker] [Use a Hairdryer on Your Sheets This Winter](https://lifehacker.com/use-a-hairdryer-on-your-sheets-this-winter-1849970380)
-- [Dev.to/JS] [Adventures with JavaScript Arrays: Random Numbers Array](https://dev.to/juniordevforlife/adventures-with-javascript-arrays-random-numbers-array-4io1)
 - [Lifehacker] [Stop Tilting Your Head Back to Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)
-- [Dev.to/JS] [How to Implement and use Feature Flags in a Svelte Application](https://dev.to/daveyhert/how-to-implement-and-use-feature-flags-in-a-svelte-application-bh1)
-- [Dev.to/JS] [Building web components with WebC in vanilla JavaScript](https://dev.to/logrocket/building-web-components-with-webc-in-vanilla-javascript-4b4k)
-- [Dev.to/JS] [How many of thing that a proper website should develop in WordPress is better or html,css , js](https://dev.to/asish0sahu/how-many-of-thing-that-a-proper-website-should-develop-in-wordpress-is-better-or-htmlcss-js-9e)
 - [Lifehacker] [These Are the Best Browser Extensions for PC Gamers on Steam](https://lifehacker.com/these-are-the-best-browser-extensions-for-pc-gamers-on-1849969079)
 - [Lifehacker] [The 10 Best Home Improvement Projects to Do in Winter](https://lifehacker.com/the-10-best-home-improvement-projects-to-do-in-winter-1849967319)
 - [Lifehacker] [What to Do If Your Child Is a ‘Know-It-All’](https://lifehacker.com/what-to-do-if-your-child-is-a-know-it-all-1849967323)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pay Attention to Your Cash Back Rewards Bonus Categories](https://lifehacker.com/pay-attention-to-your-cash-back-rewards-bonus-categorie-1849965980)
 - [Lifehacker] [The 10 Best Mental Health Podcasts to Get You Through 2023](https://lifehacker.com/the-10-best-mental-health-podcasts-to-get-you-through-2-1849932046)
 - [Lifehacker] [Where to Find Discounted Home Gym Equipment Right Now](https://lifehacker.com/where-to-find-discounted-home-gym-equipment-right-now-1849961075)
-- [Lifehacker] [This Coffee Brewing Method Delivers the Biggest Jolt of Caffeine](https://lifehacker.com/this-coffee-brewing-method-delivers-the-biggest-jolt-of-1849964718)
-- [Lifehacker] [You Can Make Your Giant iPhone Easier to Use With One Hand](https://lifehacker.com/you-can-make-your-giant-iphone-easier-to-use-with-one-h-1849964552)
-- [Lifehacker] [Why Everyone Is Arguing About Tame, the New Dating App](https://lifehacker.com/why-everyone-is-arguing-about-tame-the-new-dating-app-1849964508)
-- [Lifehacker] [How to Write a Layoff Announcement That Will Get You a New Job](https://lifehacker.com/how-to-write-a-layoff-announcement-that-will-get-you-a-1849964234)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Coffee Brewing Method Delivers the Biggest Jolt of Caffeine](https://lifehacker.com/this-coffee-brewing-method-delivers-the-biggest-jolt-of-1849964718)<!-- TECH-POSTS:END -->
 
 ---
 
