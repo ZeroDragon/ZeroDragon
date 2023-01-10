@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Panera Wants to Give Some of You a Free Baguette](https://lifehacker.com/panera-wants-to-give-some-of-you-a-free-baguette-1849966970)
+- [Dev.to/JS] [7 Must-Have Tools for Developers to Boost Productivity that nobody told you about !!](https://dev.to/thenomadevel/7-must-have-tools-for-developers-to-boost-productivity-that-nobody-told-you-about--3ea2)
+- [Dev.to/JS] [What to Expect in Web Development and JavaScript in 2023](https://dev.to/plazarev/what-to-expect-in-web-development-and-javascript-in-2023-5g33)
 - [Lifehacker] [Stop Serving Your Cheeses on Wooden Boards](https://lifehacker.com/stop-serving-your-cheeses-on-wooden-boards-1849966881)
 - [Dev.to/JS] [How I built Nike’s Ecommerce Features with Medusa](https://dev.to/medusajs/how-i-built-nikes-ecommerce-features-with-medusa-131)
 - [Dev.to/JS] [You Must-Have This Effect on Your Website](https://dev.to/codewithsadee/you-must-have-this-effect-on-your-website-225e)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing GitHub content API with custom hook &amp; Context API](https://dev.to/js_lover/implementing-github-content-api-with-custom-hook-context-api-4ekk)
 - [Dev.to/JS] [How to improve the page speed index of your website?](https://dev.to/canopassoftware/how-to-improve-the-page-speed-index-of-your-website-2n07)
 - [Dev.to/JS] [✏️ RECURSION IN JAVASCRIPT](https://dev.to/gulcanc/recursion-in-javascript-2ch4)
-- [Dev.to/JS] [React: Infinite Scrolling with &quot;react-infinite-scroll-component&quot; npm package](https://dev.to/elhamnajeebullah/react-infinite-scrolling-with-react-infinite-scroll-component-npm-package-2dil)
-- [Dev.to/JS] [A Qwik View of the Ranking Bar](https://dev.to/valorsoftware/a-qwik-view-of-the-ranking-bar-543d)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
 - [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Get Rid of Old Wallpaper](https://lifehacker.com/the-easiest-way-to-get-rid-of-old-wallpaper-1849958038)
 - [Lifehacker] [Save More Money by Stacking Your Coupons](https://lifehacker.com/save-more-money-by-stacking-your-coupons-1849958093)
 - [Lifehacker] [You&#39;re Wrong About Your iPhone&#39;s Always-On Wallpaper Draining Its Battery](https://lifehacker.com/youre-wrong-about-your-iphones-always-on-wallpaper-drai-1849958965)
-- [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)
-- [Lifehacker] [How to Wrangle Removable Sports Bra Pads on Laundry Day](https://lifehacker.com/how-to-wrangle-removable-sports-bra-pads-on-laundry-day-1849959864)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Add a Little MSG to Your Next Pickle Brine](https://lifehacker.com/add-a-little-msg-to-your-next-pickle-brine-1849959556)<!-- TECH-POSTS:END -->
 
 ---
 
