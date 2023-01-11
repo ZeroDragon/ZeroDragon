@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a design system with TailwindCss and NuxtJs ?](https://dev.to/devyann/how-to-create-a-design-system-with-tailwindcss-and-nuxtjs--2p87)
+- [Dev.to/JS] [How to use Question Answering API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-question-answering-api-with-javascript-in-5-minutes-4o0g)
+- [Dev.to/JS] [How to use Node JS with your Project?](https://dev.to/darkxenium/how-to-use-node-js-with-your-project-5gfe)
+- [Dev.to/JS] [Diário de bordo #4](https://dev.to/analuisadev/diario-de-bordo-4-1hp5)
+- [Dev.to/JS] [Creating a website aggregator with ChatGPT, React, and Node.js 🚀](https://dev.to/novu/creating-a-website-aggregator-with-chatgpt-react-and-nodejs-4dij)
 - [Dev.to/JS] [Guide to Choosing the best frontend development framework in 2023](https://dev.to/katleenbrown440/guide-to-choosing-the-best-frontend-development-framework-in-2023-2ng3)
 - [Dev.to/JS] [Spies and mocking with Jest](https://dev.to/zsevic/spies-and-mocking-with-jest-21op)
 - [Dev.to/JS] [Zod: Handle external api errors gracefully](https://dev.to/sachitsac/zod-handle-external-api-errors-gracefully-4k3c)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2023 Frontend Full Stack Repository](https://dev.to/shreyvijayvargiya/2023-frontend-full-stack-repository-6l8)
 - [Dev.to/JS] [Ramen has file Downloads now! &lpar;New Backend Framework&rpar;](https://dev.to/ohayouarmaan/ramen-has-file-downloads-now-new-backend-framework-3ajk)
 - [Dev.to/JS] [A Brief History of API: RPC, REST, GraphQL, tRPC](https://dev.to/zenstack/a-brief-history-of-api-rpc-rest-graphql-trpc-fme)
-- [Dev.to/JS] [A nice work queue for TypeScript/JavaScript](https://dev.to/insidewhy/a-nice-work-queue-for-typescriptjavascript-2439)
-- [Dev.to/JS] [Mastering React in One Month: A Step-by-Step Guide](https://dev.to/ayka_code/mastering-react-in-one-month-a-step-by-step-guide-29j2)
-- [Dev.to/JS] [Electron bilen kompyuter programma doretmek](https://dev.to/jenap/electron-bilen-kompyuter-programma-doretmek-3dgn)
-- [Dev.to/JS] [How to Choose the Right Frontend Framework for Your Application: A Guide to Popular Choices and Key Factors to Consider](https://dev.to/deepanshutiwari/how-to-choose-the-right-frontend-framework-for-your-application-a-guide-to-popular-choices-and-key-factors-to-consider-2hhe)
-- [Dev.to/JS] [Using ChatGPT: Examples of POST and GET API Call in JavaScript](https://dev.to/one/using-chatgpt-examples-of-post-and-get-api-call-in-javascript-jpi)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
 - [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
