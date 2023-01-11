@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECMAScript: all versions and new features](https://dev.to/uncle_ben/ecmascript-all-versions-and-new-features-2fph)
+- [Dev.to/JS] [Don&#39;t use useEffect](https://dev.to/rem0nfawzi/dont-use-useeffect-3ca8)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Dev.to/JS] [Easy steps to create an ExpressJs application](https://dev.to/efkumah/easy-steps-to-create-an-expressjs-application-3gb8)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Import maps 101](https://dev.to/uploadcare/import-maps-101-2f28)
 - [Dev.to/JS] [Safer URL reading and writing in modern JavaScript](https://dev.to/builderio/safer-url-reading-and-writing-in-modern-javascript-4m02)
 - [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
-- [Dev.to/JS] [Preparing tsParticles v3](https://dev.to/tsparticles/preparing-tsparticles-v3-5bai)
-- [Dev.to/JS] [Synapses: Event-driven Alternative to React Context](https://dev.to/nucleoid/synapses-event-driven-alternative-to-react-context-2mdm)
 - [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Crypto](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-cr-1849875305)
 - [Lifehacker] [Use a Hairdryer on Your Sheets This Winter](https://lifehacker.com/use-a-hairdryer-on-your-sheets-this-winter-1849970380)
