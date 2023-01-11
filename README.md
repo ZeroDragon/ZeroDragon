@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Real Ways to Improve Your Recovery From Exercise](https://lifehacker.com/the-real-ways-to-improve-your-recovery-from-exercise-1849971349)
+- [Dev.to/JS] [How to use Image Anonymization API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-image-anonymization-api-with-javascript-in-5-minutes-1dbn)
+- [Dev.to/JS] [,,Relation Operator&#39;&#39;](https://dev.to/charos1mm/relation-operator-452j)
+- [Lifehacker] [The One Thing You Should Always Do Before Freezing Chicken Breasts](https://lifehacker.com/the-one-thing-you-should-always-do-before-freezing-chic-1849971357)
+- [Dev.to/JS] [LOGICAL OPERATOR](https://dev.to/charos1mm/logical-operator-4811)
+- [Dev.to/JS] [How to use Video Person Tracking API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-video-person-tracking-api-with-javascript-in-5-minutes-4b9e)
+- [Dev.to/JS] [This is a very small ChatGPT conversation downloader](https://dev.to/shinshin86/this-is-a-very-small-chatgpt-conversation-downloader-m3h)
+- [Dev.to/JS] [Super Simple Approach to JavaScript Array](https://dev.to/yusfulcoder/super-simple-approach-to-javascript-array-km0)
+- [Dev.to/JS] [Test Automation with AI &lpar;ChatGPT&rpar; from scratch!](https://dev.to/dilpreetjohal/test-automation-with-ai-chatgpt-from-scratch-o82)
+- [Lifehacker] [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
 - [Dev.to/JS] [How to create a design system with TailwindCss and NuxtJs ?](https://dev.to/devyann/how-to-create-a-design-system-with-tailwindcss-and-nuxtjs--2p87)
 - [Dev.to/JS] [How to use Question Answering API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-question-answering-api-with-javascript-in-5-minutes-4o0g)
 - [Dev.to/JS] [How to use Node JS with your Project?](https://dev.to/darkxenium/how-to-use-node-js-with-your-project-5gfe)
 - [Dev.to/JS] [Diário de bordo #4](https://dev.to/analuisadev/diario-de-bordo-4-1hp5)
 - [Dev.to/JS] [Creating a website aggregator with ChatGPT, React, and Node.js 🚀](https://dev.to/novu/creating-a-website-aggregator-with-chatgpt-react-and-nodejs-4dij)
-- [Dev.to/JS] [Guide to Choosing the best frontend development framework in 2023](https://dev.to/katleenbrown440/guide-to-choosing-the-best-frontend-development-framework-in-2023-2ng3)
-- [Dev.to/JS] [Spies and mocking with Jest](https://dev.to/zsevic/spies-and-mocking-with-jest-21op)
-- [Dev.to/JS] [Zod: Handle external api errors gracefully](https://dev.to/sachitsac/zod-handle-external-api-errors-gracefully-4k3c)
-- [Dev.to/JS] [Using JavaScript Gantt Chart in SharePoint Web Parts for Effective Project Management: Part 1](https://dev.to/syncfusion/using-javascript-gantt-chart-in-sharepoint-web-parts-for-effective-project-management-part-1-364k)
-- [Dev.to/JS] [2023 Frontend Full Stack Repository](https://dev.to/shreyvijayvargiya/2023-frontend-full-stack-repository-6l8)
-- [Dev.to/JS] [Ramen has file Downloads now! &lpar;New Backend Framework&rpar;](https://dev.to/ohayouarmaan/ramen-has-file-downloads-now-new-backend-framework-3ajk)
-- [Dev.to/JS] [A Brief History of API: RPC, REST, GraphQL, tRPC](https://dev.to/zenstack/a-brief-history-of-api-rpc-rest-graphql-trpc-fme)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
 - [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Unexpected Ways to Use Your Cooling Rack](https://lifehacker.com/9-unexpected-ways-to-use-your-cooling-rack-1849966446)
 - [Lifehacker] [Don&#39;t Pay for This Scammy ChatGPT Clone](https://lifehacker.com/dont-pay-for-this-scammy-chatgpt-clone-1849965653)
 - [Lifehacker] [Is That Crack in Your Foundation Worth Worrying About?](https://lifehacker.com/is-that-crack-in-your-foundation-worth-worrying-about-1849964611)
-- [Lifehacker] [Windows 7 Is Officially Dead](https://lifehacker.com/windows-7-is-officially-dead-1849966248)
-- [Lifehacker] [Pay Attention to Your Cash Back Rewards Bonus Categories](https://lifehacker.com/pay-attention-to-your-cash-back-rewards-bonus-categorie-1849965980)
-- [Lifehacker] [The 10 Best Mental Health Podcasts to Get You Through 2023](https://lifehacker.com/the-10-best-mental-health-podcasts-to-get-you-through-2-1849932046)
-- [Lifehacker] [Where to Find Discounted Home Gym Equipment Right Now](https://lifehacker.com/where-to-find-discounted-home-gym-equipment-right-now-1849961075)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Windows 7 Is Officially Dead](https://lifehacker.com/windows-7-is-officially-dead-1849966248)<!-- TECH-POSTS:END -->
 
 ---
 
