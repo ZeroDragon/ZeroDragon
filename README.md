@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 of the Weirdest Careers for Creative People](https://lifehacker.com/11-of-the-weirdest-careers-for-creative-people-1849973103)
+- [Lifehacker] [You Can Get Free Stuff From Target for Reviewing Products](https://lifehacker.com/you-can-get-free-stuff-from-target-for-reviewing-produc-1849972037)
+- [Dev.to/JS] [5 best programming games to improve your skills](https://dev.to/onlydevs_/5-best-programming-games-to-improve-your-skills-18mh)
+- [Dev.to/JS] [How to use Machine Translation API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-machine-translation-api-with-javascript-in-5-minutes-16mp)
+- [Dev.to/JS] [How to use Video Explicit Content Detection API with JavaScritp in 5 minutes?](https://dev.to/edenai/how-to-use-video-explicit-content-detection-api-with-javascritp-in-5-minutes-4122)
 - [Lifehacker] [The Real Ways to Improve Your Recovery From Exercise](https://lifehacker.com/the-real-ways-to-improve-your-recovery-from-exercise-1849971349)
 - [Dev.to/JS] [How to use Image Anonymization API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-image-anonymization-api-with-javascript-in-5-minutes-1dbn)
 - [Dev.to/JS] [,,Relation Operator&#39;&#39;](https://dev.to/charos1mm/relation-operator-452j)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
 - [Dev.to/JS] [How to create a design system with TailwindCss and NuxtJs ?](https://dev.to/devyann/how-to-create-a-design-system-with-tailwindcss-and-nuxtjs--2p87)
 - [Dev.to/JS] [How to use Question Answering API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-question-answering-api-with-javascript-in-5-minutes-4o0g)
-- [Dev.to/JS] [How to use Node JS with your Project?](https://dev.to/darkxenium/how-to-use-node-js-with-your-project-5gfe)
-- [Dev.to/JS] [Diário de bordo #4](https://dev.to/analuisadev/diario-de-bordo-4-1hp5)
-- [Dev.to/JS] [Creating a website aggregator with ChatGPT, React, and Node.js 🚀](https://dev.to/novu/creating-a-website-aggregator-with-chatgpt-react-and-nodejs-4dij)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
 - [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
 - [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
 - [Lifehacker] [9 Unexpected Ways to Use Your Cooling Rack](https://lifehacker.com/9-unexpected-ways-to-use-your-cooling-rack-1849966446)
-- [Lifehacker] [Don&#39;t Pay for This Scammy ChatGPT Clone](https://lifehacker.com/dont-pay-for-this-scammy-chatgpt-clone-1849965653)
-- [Lifehacker] [Is That Crack in Your Foundation Worth Worrying About?](https://lifehacker.com/is-that-crack-in-your-foundation-worth-worrying-about-1849964611)
-- [Lifehacker] [Windows 7 Is Officially Dead](https://lifehacker.com/windows-7-is-officially-dead-1849966248)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Pay for This Scammy ChatGPT Clone](https://lifehacker.com/dont-pay-for-this-scammy-chatgpt-clone-1849965653)<!-- TECH-POSTS:END -->
 
 ---
 
