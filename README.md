@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A chrome extension that lets you select any text and run it through ChatGPT](https://dev.to/mihiraggarwal/a-chrome-extension-that-lets-you-select-any-text-and-run-it-through-chatgpt-13i6)
+- [Dev.to/JS] [Language and Syntax](https://dev.to/bryhim4code/language-and-syntax-48kd)
+- [Lifehacker] [Make Better Egg White Wraps With Roasted Red Peppers](https://lifehacker.com/make-better-egg-white-wraps-with-roasted-red-peppers-1849975927)
+- [Dev.to/JS] [Embedding YouTube Videos in HTML: A Step-by-Step Guide](https://dev.to/hat52/embedding-youtube-videos-in-html-a-step-by-step-guide-2946)
+- [Dev.to/JS] [How to Create Guarded Routes using React Router](https://dev.to/eshankvaish/how-to-create-guarded-routes-using-react-router-1cai)
 - [Lifehacker] [Stop Spewing Ancient Aliens&#39; Racist Theories](https://lifehacker.com/stop-spewing-ancient-aliens-racist-theories-1849975831)
 - [Dev.to/JS] [4 different ways of removing spaces from a string](https://dev.to/capeladev/4-different-ways-of-removing-spaces-from-a-string-29kg)
 - [Dev.to/JS] [Why Is My Jest Test Suite So Slow?](https://dev.to/twynsicle/why-is-my-jest-test-suite-so-slow-1od)
@@ -37,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Make Better Chocolate Chip Cookies](https://lifehacker.com/the-easiest-way-to-make-better-chocolate-chip-cookies-1849971632)
 - [Dev.to/JS] [Setting up Module Federation with Server-Side Rendering for Angular](https://dev.to/coly010/setting-up-module-federation-with-server-side-rendering-for-angular-1ho)
 - [Dev.to/JS] [make your JavaScript code more efficient, readable, and maintainable.&lpar;Part 1&rpar;](https://dev.to/malikhaziq/make-your-javascript-code-more-efficient-readable-and-maintainable-3h12)
-- [Dev.to/JS] [How I Built a chrome extension that finds Ghost CSS : Ghost-CSS-Detector](https://dev.to/shrihari/how-i-built-a-chrome-extension-that-finds-ghost-css-ghost-css-detector-4aj0)
 - [Lifehacker] [11 of the Weirdest Careers for Creative People](https://lifehacker.com/11-of-the-weirdest-careers-for-creative-people-1849973103)
 - [Lifehacker] [You Can Get Free Stuff From Target for Reviewing Products](https://lifehacker.com/you-can-get-free-stuff-from-target-for-reviewing-produc-1849972037)
-- [Dev.to/JS] [5 best programming games to improve your skills](https://dev.to/onlydevs_/5-best-programming-games-to-improve-your-skills-18mh)
-- [Dev.to/JS] [How to use Machine Translation API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-machine-translation-api-with-javascript-in-5-minutes-16mp)
-- [Dev.to/JS] [How to use Video Explicit Content Detection API with JavaScritp in 5 minutes?](https://dev.to/edenai/how-to-use-video-explicit-content-detection-api-with-javascritp-in-5-minutes-4122)
 - [Lifehacker] [The Real Ways to Improve Your Recovery From Exercise](https://lifehacker.com/the-real-ways-to-improve-your-recovery-from-exercise-1849971349)
 - [Lifehacker] [The One Thing You Should Always Do Before Freezing Chicken Breasts](https://lifehacker.com/the-one-thing-you-should-always-do-before-freezing-chic-1849971357)
 - [Lifehacker] [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If Your Child Is a ‘Know-It-All’](https://lifehacker.com/what-to-do-if-your-child-is-a-know-it-all-1849967323)
 - [Lifehacker] [13 Great Works of Art That Entered the Public Domain in 2023](https://lifehacker.com/13-great-works-of-art-that-entered-the-public-domain-in-1849968600)
 - [Lifehacker] [12 of the Best Movie Detectives Ever](https://lifehacker.com/12-of-the-best-movie-detectives-ever-1849964148)
-- [Lifehacker] [These Pharmacies May Soon Start Stocking Abortion Pills](https://lifehacker.com/these-pharmacies-may-soon-start-stocking-abortion-pills-1849967053)
-- [Lifehacker] [Panera Wants to Give Some of You a Free Baguette](https://lifehacker.com/panera-wants-to-give-some-of-you-a-free-baguette-1849966970)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Pharmacies May Soon Start Stocking Abortion Pills](https://lifehacker.com/these-pharmacies-may-soon-start-stocking-abortion-pills-1849967053)<!-- TECH-POSTS:END -->
 
 ---
 
