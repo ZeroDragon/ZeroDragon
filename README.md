@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Rendering Patterns for your Next Web App](https://dev.to/pulkitsingh/top-rendering-patterns-for-your-next-web-app-12f4)
+- [Dev.to/JS] [How to compare date &lpar;no time&rpar; with current day in javascript](https://dev.to/codever/how-to-compare-date-no-time-with-current-day-in-javascript-41l9)
 - [Dev.to/JS] [How to use Resume Parsing API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-resume-parsing-api-with-javascript-in-5-minutes-48ng)
 - [Dev.to/JS] [Angular 15: interceptor as a function](https://dev.to/this-is-angular/angular-15-interceptor-as-a-function-2g44)
 - [Dev.to/JS] [How to perform transactions in MongoDB using Node.js](https://dev.to/folasayosamuel/how-to-perform-transactions-in-mongodb-using-nodejs-2pij)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Ansys Training Institute in Chennai](https://dev.to/prohithigs/best-ansys-training-institute-in-chennai-28a3)
 - [Dev.to/JS] [Best Node JS Training Institute in Chennai](https://dev.to/prohithigs/best-node-js-training-institute-in-chennai-4i22)
 - [Dev.to/JS] [7 Things You Should Know About ReactJS Before You Use It](https://dev.to/sleeplessyogi/7-things-you-should-know-about-reactjs-before-you-use-it-3bk1)
-- [Dev.to/JS] [Prostadine - Prostate Health Benefits, Pros, Cons, Scam Or Legit?](https://dev.to/prostadine3/prostadine-prostate-health-benefits-pros-cons-scam-or-legit-4loi)
-- [Dev.to/JS] [Weekly web development resources #132](https://dev.to/vincenius/weekly-web-development-resources-132-5d3c)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
 - [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
