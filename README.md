@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Copy vs Reference in Javascript](https://dev.to/rahulj9a/copy-vs-reference-in-javascript-2p1g)
+- [Dev.to/JS] [Best Ansys Training Institute in Chennai](https://dev.to/prohithigs/best-ansys-training-institute-in-chennai-28a3)
+- [Dev.to/JS] [Best Node JS Training Institute in Chennai](https://dev.to/prohithigs/best-node-js-training-institute-in-chennai-4i22)
+- [Dev.to/JS] [Reverse Engineering the Hiring Process](https://dev.to/avinashvagh/reverse-engineering-the-hiring-process-5hbm)
+- [Dev.to/JS] [7 Things You Should Know About ReactJS Before You Use It](https://dev.to/sleeplessyogi/7-things-you-should-know-about-reactjs-before-you-use-it-3bk1)
 - [Dev.to/JS] [Prostadine - Prostate Health Benefits, Pros, Cons, Scam Or Legit?](https://dev.to/prostadine3/prostadine-prostate-health-benefits-pros-cons-scam-or-legit-4loi)
 - [Dev.to/JS] [Weekly web development resources #132](https://dev.to/vincenius/weekly-web-development-resources-132-5d3c)
 - [Dev.to/JS] [Use “+” to convert string to number](https://dev.to/amrataabdallh/use-to-convert-string-to-number-3mcf)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [To-Do List Using JavaScript](https://dev.to/smackdh/to-do-list-using-javascript-1e0n)
 - [Dev.to/JS] [Thông gió là gì ? Tìm hiểu cùng NP Viêt Nam](https://dev.to/npvietnam1/thong-gio-la-gi-tim-hieu-cung-np-viet-nam-163o)
 - [Dev.to/JS] [Update to Homework Tracker Project](https://dev.to/hluis91/update-to-homework-tracker-project-1k54)
-- [Dev.to/JS] [How to Code Chrome Dino Game with JavaScript and a HTML Canvas](https://dev.to/codingwithadam/how-to-code-chrome-dino-game-with-javascript-and-a-html-canvas-l17)
-- [Dev.to/JS] [Console.trace in JavaScript](https://dev.to/ratracegrad/consoletrace-in-javascript-5c2g)
-- [Dev.to/JS] [ECMAScript: all versions and new features](https://dev.to/uncle_ben/ecmascript-all-versions-and-new-features-2fph)
-- [Dev.to/JS] [Don&#39;t use useEffect](https://dev.to/rem0nfawzi/dont-use-useeffect-3ca8)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
-- [Dev.to/JS] [Easy steps to create an ExpressJs application](https://dev.to/efkumah/easy-steps-to-create-an-expressjs-application-3gb8)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
 - [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
 - [Lifehacker] [The Best Coffee Loyalty Programs, Ranked by What You Actually Get](https://lifehacker.com/the-best-coffee-loyalty-programs-ranked-by-what-you-ac-1849970675)
