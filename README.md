@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Update to Homework Tracker Project](https://dev.to/hluis91/update-to-homework-tracker-project-1k54)
 - [Dev.to/JS] [How to Code Chrome Dino Game with JavaScript and a HTML Canvas](https://dev.to/codingwithadam/how-to-code-chrome-dino-game-with-javascript-and-a-html-canvas-l17)
 - [Dev.to/JS] [Console.trace in JavaScript](https://dev.to/ratracegrad/consoletrace-in-javascript-5c2g)
 - [Dev.to/JS] [ECMAScript: all versions and new features](https://dev.to/uncle_ben/ecmascript-all-versions-and-new-features-2fph)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Coffee Loyalty Programs, Ranked by What You Actually Get](https://lifehacker.com/the-best-coffee-loyalty-programs-ranked-by-what-you-ac-1849970675)
 - [Dev.to/JS] [JavaScript Callbacks](https://dev.to/catherineisonline/javascript-callbacks-24cp)
 - [Dev.to/JS] [How to create a Blog API with Node.js and Express.js Framework](https://dev.to/spaceracedev/how-to-create-a-blog-api-with-nodejs-and-expressjs-framework-47ob)
-- [Dev.to/JS] [Why you should ALWAYS use return before res.send in Express APIs and Applications](https://dev.to/adamkatora/why-you-should-always-use-return-before-ressend-in-express-apis-and-applications-k9k)
 - [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)
 - [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
 - [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
