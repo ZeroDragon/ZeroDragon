@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular 15: interceptor as a function](https://dev.to/this-is-angular/angular-15-interceptor-as-a-function-2g44)
+- [Dev.to/JS] [How to perform transactions in MongoDB using Node.js](https://dev.to/folasayosamuel/how-to-perform-transactions-in-mongodb-using-nodejs-2pij)
+- [Dev.to/JS] [Effective End-to-End Testing: A Beginner&#39;s Guide to Playwright](https://dev.to/parmcoder/effective-end-to-end-testing-a-beginners-guide-to-playwright-bc4)
+- [Dev.to/JS] [Javascript Programming for beginners.](https://dev.to/raghavkumar09/javascript-programming-for-beginners-1obo)
+- [Dev.to/JS] [How To Overload Functions in TypeScript](https://dev.to/zirkelc/how-to-overload-functions-in-typescript-22c3)
 - [Dev.to/JS] [Copy vs Reference in Javascript](https://dev.to/rahulj9a/copy-vs-reference-in-javascript-2p1g)
 - [Dev.to/JS] [Best Ansys Training Institute in Chennai](https://dev.to/prohithigs/best-ansys-training-institute-in-chennai-28a3)
 - [Dev.to/JS] [Best Node JS Training Institute in Chennai](https://dev.to/prohithigs/best-node-js-training-institute-in-chennai-4i22)
-- [Dev.to/JS] [Reverse Engineering the Hiring Process](https://dev.to/avinashvagh/reverse-engineering-the-hiring-process-5hbm)
 - [Dev.to/JS] [7 Things You Should Know About ReactJS Before You Use It](https://dev.to/sleeplessyogi/7-things-you-should-know-about-reactjs-before-you-use-it-3bk1)
 - [Dev.to/JS] [Prostadine - Prostate Health Benefits, Pros, Cons, Scam Or Legit?](https://dev.to/prostadine3/prostadine-prostate-health-benefits-pros-cons-scam-or-legit-4loi)
 - [Dev.to/JS] [Weekly web development resources #132](https://dev.to/vincenius/weekly-web-development-resources-132-5d3c)
 - [Dev.to/JS] [Use “+” to convert string to number](https://dev.to/amrataabdallh/use-to-convert-string-to-number-3mcf)
-- [Dev.to/JS] [A Fun Game Dev Journey :&rpar;](https://dev.to/tjstoll/game-development-4ehd)
-- [Dev.to/JS] [To-Do List Using JavaScript](https://dev.to/smackdh/to-do-list-using-javascript-1e0n)
-- [Dev.to/JS] [Thông gió là gì ? Tìm hiểu cùng NP Viêt Nam](https://dev.to/npvietnam1/thong-gio-la-gi-tim-hieu-cung-np-viet-nam-163o)
-- [Dev.to/JS] [Update to Homework Tracker Project](https://dev.to/hluis91/update-to-homework-tracker-project-1k54)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
 - [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
