@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Turn a Bag of Frozen Hash Browns Into a Pot of Soup](https://lifehacker.com/you-can-turn-a-bag-of-frozen-hash-browns-into-a-pot-of-1849975944)
+- [Lifehacker] [Standing Your PS5 Up Vertically Is Fine, Actually](https://lifehacker.com/standing-your-ps5-up-vertically-is-fine-actually-1849975426)
 - [Dev.to/JS] [A chrome extension that lets you select any text and run it through ChatGPT](https://dev.to/mihiraggarwal/a-chrome-extension-that-lets-you-select-any-text-and-run-it-through-chatgpt-13i6)
 - [Dev.to/JS] [Language and Syntax](https://dev.to/bryhim4code/language-and-syntax-48kd)
 - [Lifehacker] [Make Better Egg White Wraps With Roasted Red Peppers](https://lifehacker.com/make-better-egg-white-wraps-with-roasted-red-peppers-1849975927)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Browser Extensions for PC Gamers on Steam](https://lifehacker.com/these-are-the-best-browser-extensions-for-pc-gamers-on-1849969079)
 - [Lifehacker] [The 10 Best Home Improvement Projects to Do in Winter](https://lifehacker.com/the-10-best-home-improvement-projects-to-do-in-winter-1849967319)
 - [Lifehacker] [What to Do If Your Child Is a ‘Know-It-All’](https://lifehacker.com/what-to-do-if-your-child-is-a-know-it-all-1849967323)
-- [Lifehacker] [13 Great Works of Art That Entered the Public Domain in 2023](https://lifehacker.com/13-great-works-of-art-that-entered-the-public-domain-in-1849968600)
-- [Lifehacker] [12 of the Best Movie Detectives Ever](https://lifehacker.com/12-of-the-best-movie-detectives-ever-1849964148)
-- [Lifehacker] [These Pharmacies May Soon Start Stocking Abortion Pills](https://lifehacker.com/these-pharmacies-may-soon-start-stocking-abortion-pills-1849967053)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 Great Works of Art That Entered the Public Domain in 2023](https://lifehacker.com/13-great-works-of-art-that-entered-the-public-domain-in-1849968600)<!-- TECH-POSTS:END -->
 
 ---
 
