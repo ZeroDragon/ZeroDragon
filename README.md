@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PHP-like namespaces in JavaScript using Unicode identifiers](https://dev.to/projektorius96/php-like-namespaces-in-javascript-using-unicode-identifiers-339e)
+- [Dev.to/JS] [What is callback hell?](https://dev.to/catherineisonline/what-is-callback-hell-3emp)
+- [Dev.to/JS] [.this keyword](https://dev.to/bolouie/this-keyword-2chh)
+- [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
+- [Dev.to/JS] [JWT Authentication Using Express.js &amp; MongoDB With TypeScript](https://dev.to/said_mounaim/jwt-authentication-using-expressjs-mongodb-with-typescript-3ngn)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
 - [Dev.to/JS] [Migrating from the Agora Video SDK to the Zoom Video SDK](https://dev.to/zoom/migrating-from-the-agora-video-sdk-to-the-zoom-video-sdk-31b8)
 - [Lifehacker] [How to Destink Your Diaper Pail &lpar;and Keep It Destunk&rpar;](https://lifehacker.com/how-to-destink-your-diaper-pail-and-keep-it-destunk-1849975562)
@@ -38,14 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Is My Jest Test Suite So Slow?](https://dev.to/twynsicle/why-is-my-jest-test-suite-so-slow-1od)
 - [Lifehacker] [How to Approximate Long-Exposure Photos on Your iPhone](https://lifehacker.com/how-to-approximate-long-exposure-photos-on-your-iphone-1849974985)
 - [Dev.to/JS] [How I can mock an incomming http request in jest using node.js http?](https://dev.to/pcmagas/how-i-can-mock-an-incomming-http-request-in-jest-using-nodejs-http-4i56)
-- [Dev.to/JS] [A handy dandy range function in JavaScript](https://dev.to/theonly1me/a-handy-dandy-range-function-in-javascript-242b)
-- [Dev.to/JS] [7 React Projects for Beginners in 2023 &lpar;+ Code&rpar;](https://dev.to/webdevhero-com/7-react-projects-for-beginners-in-2023-code-dp7)
 - [Lifehacker] [Take Samsung&#39;s Money](https://lifehacker.com/take-samsungs-money-1849974910)
-- [Dev.to/JS] [Pointer events in JS](https://dev.to/rounit08/pointer-events-in-js-1ihd)
 - [Lifehacker] [How to Avoid Copyright Strikes on Private and Unlisted YouTube Videos](https://lifehacker.com/how-to-avoid-copyright-strikes-on-private-and-unlisted-1849972221)
 - [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)
 - [Lifehacker] [The Easiest Way to Make Better Chocolate Chip Cookies](https://lifehacker.com/the-easiest-way-to-make-better-chocolate-chip-cookies-1849971632)
-- [Dev.to/JS] [Setting up Module Federation with Server-Side Rendering for Angular](https://dev.to/coly010/setting-up-module-federation-with-server-side-rendering-for-angular-1ho)
 - [Lifehacker] [11 of the Weirdest Careers for Creative People](https://lifehacker.com/11-of-the-weirdest-careers-for-creative-people-1849973103)
 - [Lifehacker] [You Can Get Free Stuff From Target for Reviewing Products](https://lifehacker.com/you-can-get-free-stuff-from-target-for-reviewing-produc-1849972037)
 - [Lifehacker] [The Real Ways to Improve Your Recovery From Exercise](https://lifehacker.com/the-real-ways-to-improve-your-recovery-from-exercise-1849971349)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Crypto](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-cr-1849875305)
 - [Lifehacker] [Use a Hairdryer on Your Sheets This Winter](https://lifehacker.com/use-a-hairdryer-on-your-sheets-this-winter-1849970380)
 - [Lifehacker] [Stop Tilting Your Head Back to Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)
-- [Lifehacker] [These Are the Best Browser Extensions for PC Gamers on Steam](https://lifehacker.com/these-are-the-best-browser-extensions-for-pc-gamers-on-1849969079)
-- [Lifehacker] [The 10 Best Home Improvement Projects to Do in Winter](https://lifehacker.com/the-10-best-home-improvement-projects-to-do-in-winter-1849967319)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Browser Extensions for PC Gamers on Steam](https://lifehacker.com/these-are-the-best-browser-extensions-for-pc-gamers-on-1849969079)<!-- TECH-POSTS:END -->
 
 ---
 
