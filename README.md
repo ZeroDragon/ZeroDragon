@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [To-Do List Using JavaScript](https://dev.to/smackdh/to-do-list-using-javascript-1e0n)
+- [Dev.to/JS] [Thông gió là gì ? Tìm hiểu cùng NP Viêt Nam](https://dev.to/npvietnam1/thong-gio-la-gi-tim-hieu-cung-np-viet-nam-163o)
 - [Dev.to/JS] [Update to Homework Tracker Project](https://dev.to/hluis91/update-to-homework-tracker-project-1k54)
 - [Dev.to/JS] [How to Code Chrome Dino Game with JavaScript and a HTML Canvas](https://dev.to/codingwithadam/how-to-code-chrome-dino-game-with-javascript-and-a-html-canvas-l17)
 - [Dev.to/JS] [Console.trace in JavaScript](https://dev.to/ratracegrad/consoletrace-in-javascript-5c2g)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A beautiful TUI for caniuse.com](https://dev.to/fkhadra/a-beautiful-tui-for-caniusecom-3a37)
 - [Dev.to/JS] [Frontend Engineering: The Crucial Role it Plays in the Development Process](https://dev.to/hitonomi_0/frontend-engineering-the-crucial-role-it-plays-in-the-development-process-47n)
 - [Lifehacker] [The Best Coffee Loyalty Programs, Ranked by What You Actually Get](https://lifehacker.com/the-best-coffee-loyalty-programs-ranked-by-what-you-ac-1849970675)
-- [Dev.to/JS] [JavaScript Callbacks](https://dev.to/catherineisonline/javascript-callbacks-24cp)
-- [Dev.to/JS] [How to create a Blog API with Node.js and Express.js Framework](https://dev.to/spaceracedev/how-to-create-a-blog-api-with-nodejs-and-expressjs-framework-47ob)
 - [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)
 - [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
 - [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
