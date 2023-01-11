@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Spewing Ancient Aliens&#39; Racist Theories](https://lifehacker.com/stop-spewing-ancient-aliens-racist-theories-1849975831)
+- [Dev.to/JS] [4 different ways of removing spaces from a string](https://dev.to/capeladev/4-different-ways-of-removing-spaces-from-a-string-29kg)
+- [Dev.to/JS] [Why Is My Jest Test Suite So Slow?](https://dev.to/twynsicle/why-is-my-jest-test-suite-so-slow-1od)
+- [Lifehacker] [How to Approximate Long-Exposure Photos on Your iPhone](https://lifehacker.com/how-to-approximate-long-exposure-photos-on-your-iphone-1849974985)
+- [Dev.to/JS] [How I can mock an incomming http request in jest using node.js http?](https://dev.to/pcmagas/how-i-can-mock-an-incomming-http-request-in-jest-using-nodejs-http-4i56)
+- [Dev.to/JS] [A handy dandy range function in JavaScript](https://dev.to/theonly1me/a-handy-dandy-range-function-in-javascript-242b)
+- [Dev.to/JS] [7 React Projects for Beginners in 2023 &lpar;+ Code&rpar;](https://dev.to/webdevhero-com/7-react-projects-for-beginners-in-2023-code-dp7)
+- [Lifehacker] [Take Samsung&#39;s Money](https://lifehacker.com/take-samsungs-money-1849974910)
 - [Dev.to/JS] [Pointer events in JS](https://dev.to/rounit08/pointer-events-in-js-1ihd)
 - [Lifehacker] [How to Avoid Copyright Strikes on Private and Unlisted YouTube Videos](https://lifehacker.com/how-to-avoid-copyright-strikes-on-private-and-unlisted-1849972221)
 - [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)
@@ -36,16 +44,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Machine Translation API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-machine-translation-api-with-javascript-in-5-minutes-16mp)
 - [Dev.to/JS] [How to use Video Explicit Content Detection API with JavaScritp in 5 minutes?](https://dev.to/edenai/how-to-use-video-explicit-content-detection-api-with-javascritp-in-5-minutes-4122)
 - [Lifehacker] [The Real Ways to Improve Your Recovery From Exercise](https://lifehacker.com/the-real-ways-to-improve-your-recovery-from-exercise-1849971349)
-- [Dev.to/JS] [How to use Image Anonymization API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-image-anonymization-api-with-javascript-in-5-minutes-1dbn)
-- [Dev.to/JS] [,,Relation Operator&#39;&#39;](https://dev.to/charos1mm/relation-operator-452j)
 - [Lifehacker] [The One Thing You Should Always Do Before Freezing Chicken Breasts](https://lifehacker.com/the-one-thing-you-should-always-do-before-freezing-chic-1849971357)
-- [Dev.to/JS] [LOGICAL OPERATOR](https://dev.to/charos1mm/logical-operator-4811)
-- [Dev.to/JS] [How to use Video Person Tracking API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-video-person-tracking-api-with-javascript-in-5-minutes-4b9e)
-- [Dev.to/JS] [This is a very small ChatGPT conversation downloader](https://dev.to/shinshin86/this-is-a-very-small-chatgpt-conversation-downloader-m3h)
 - [Lifehacker] [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
-- [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
+- [Lifehacker] [Sustain Yourself With BOGO $1 Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
 - [Lifehacker] [The Best Coffee Loyalty Programs, Ranked by What You Actually Get](https://lifehacker.com/the-best-coffee-loyalty-programs-ranked-by-what-you-ac-1849970675)
 - [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)
 - [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Great Works of Art That Entered the Public Domain in 2023](https://lifehacker.com/13-great-works-of-art-that-entered-the-public-domain-in-1849968600)
 - [Lifehacker] [12 of the Best Movie Detectives Ever](https://lifehacker.com/12-of-the-best-movie-detectives-ever-1849964148)
 - [Lifehacker] [These Pharmacies May Soon Start Stocking Abortion Pills](https://lifehacker.com/these-pharmacies-may-soon-start-stocking-abortion-pills-1849967053)
-- [Lifehacker] [Panera Wants to Give Some of You a Free Baguette](https://lifehacker.com/panera-wants-to-give-some-of-you-a-free-baguette-1849966970)
-- [Lifehacker] [Stop Serving Your Cheeses on Wooden Boards](https://lifehacker.com/stop-serving-your-cheeses-on-wooden-boards-1849966881)
-- [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
-- [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Panera Wants to Give Some of You a Free Baguette](https://lifehacker.com/panera-wants-to-give-some-of-you-a-free-baguette-1849966970)<!-- TECH-POSTS:END -->
 
 ---
 
