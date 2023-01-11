@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)
+- [Lifehacker] [The Easiest Way to Make Better Chocolate Chip Cookies](https://lifehacker.com/the-easiest-way-to-make-better-chocolate-chip-cookies-1849971632)
+- [Dev.to/JS] [Setting up Module Federation with Server-Side Rendering for Angular](https://dev.to/coly010/setting-up-module-federation-with-server-side-rendering-for-angular-1ho)
+- [Dev.to/JS] [make your JavaScript code more efficient, readable, and maintainable.&lpar;Part 1&rpar;](https://dev.to/malikhaziq/make-your-javascript-code-more-efficient-readable-and-maintainable-3h12)
+- [Dev.to/JS] [How I Built a chrome extension that finds Ghost CSS : Ghost-CSS-Detector](https://dev.to/shrihari/how-i-built-a-chrome-extension-that-finds-ghost-css-ghost-css-detector-4aj0)
 - [Lifehacker] [11 of the Weirdest Careers for Creative People](https://lifehacker.com/11-of-the-weirdest-careers-for-creative-people-1849973103)
 - [Lifehacker] [You Can Get Free Stuff From Target for Reviewing Products](https://lifehacker.com/you-can-get-free-stuff-from-target-for-reviewing-produc-1849972037)
 - [Dev.to/JS] [5 best programming games to improve your skills](https://dev.to/onlydevs_/5-best-programming-games-to-improve-your-skills-18mh)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Video Person Tracking API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-video-person-tracking-api-with-javascript-in-5-minutes-4b9e)
 - [Dev.to/JS] [This is a very small ChatGPT conversation downloader](https://dev.to/shinshin86/this-is-a-very-small-chatgpt-conversation-downloader-m3h)
 - [Dev.to/JS] [Super Simple Approach to JavaScript Array](https://dev.to/yusfulcoder/super-simple-approach-to-javascript-array-km0)
-- [Dev.to/JS] [Test Automation with AI &lpar;ChatGPT&rpar; from scratch!](https://dev.to/dilpreetjohal/test-automation-with-ai-chatgpt-from-scratch-o82)
 - [Lifehacker] [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
-- [Dev.to/JS] [How to create a design system with TailwindCss and NuxtJs ?](https://dev.to/devyann/how-to-create-a-design-system-with-tailwindcss-and-nuxtjs--2p87)
-- [Dev.to/JS] [How to use Question Answering API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-question-answering-api-with-javascript-in-5-minutes-4o0g)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
 - [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Serving Your Cheeses on Wooden Boards](https://lifehacker.com/stop-serving-your-cheeses-on-wooden-boards-1849966881)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
-- [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)
-- [Lifehacker] [9 Unexpected Ways to Use Your Cooling Rack](https://lifehacker.com/9-unexpected-ways-to-use-your-cooling-rack-1849966446)
-- [Lifehacker] [Don&#39;t Pay for This Scammy ChatGPT Clone](https://lifehacker.com/dont-pay-for-this-scammy-chatgpt-clone-1849965653)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)<!-- TECH-POSTS:END -->
 
 ---
 
