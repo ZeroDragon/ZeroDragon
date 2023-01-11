@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prostadine - Prostate Health Benefits, Pros, Cons, Scam Or Legit?](https://dev.to/prostadine3/prostadine-prostate-health-benefits-pros-cons-scam-or-legit-4loi)
+- [Dev.to/JS] [Weekly web development resources #132](https://dev.to/vincenius/weekly-web-development-resources-132-5d3c)
+- [Dev.to/JS] [Use “+” to convert string to number](https://dev.to/amrataabdallh/use-to-convert-string-to-number-3mcf)
+- [Dev.to/JS] [A Fun Game Dev Journey :&rpar;](https://dev.to/tjstoll/game-development-4ehd)
 - [Dev.to/JS] [To-Do List Using JavaScript](https://dev.to/smackdh/to-do-list-using-javascript-1e0n)
 - [Dev.to/JS] [Thông gió là gì ? Tìm hiểu cùng NP Viêt Nam](https://dev.to/npvietnam1/thong-gio-la-gi-tim-hieu-cung-np-viet-nam-163o)
 - [Dev.to/JS] [Update to Homework Tracker Project](https://dev.to/hluis91/update-to-homework-tracker-project-1k54)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Dev.to/JS] [Easy steps to create an ExpressJs application](https://dev.to/efkumah/easy-steps-to-create-an-expressjs-application-3gb8)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
-- [Dev.to/JS] [Creating an &quot;Authentication&quot; with &quot;React Context API&quot;](https://dev.to/bello_wrld/creating-an-authentication-with-react-context-api-2e24)
 - [Lifehacker] [Sustain Yourself With $1 BOGO Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
-- [Dev.to/JS] [Reduce a JSON Object to just Entries of a Specific Type with jq](https://dev.to/jbranchaud/reduce-a-json-object-to-just-entries-of-a-specific-type-with-jq-2b2o)
-- [Dev.to/JS] [A beautiful TUI for caniuse.com](https://dev.to/fkhadra/a-beautiful-tui-for-caniusecom-3a37)
-- [Dev.to/JS] [Frontend Engineering: The Crucial Role it Plays in the Development Process](https://dev.to/hitonomi_0/frontend-engineering-the-crucial-role-it-plays-in-the-development-process-47n)
 - [Lifehacker] [The Best Coffee Loyalty Programs, Ranked by What You Actually Get](https://lifehacker.com/the-best-coffee-loyalty-programs-ranked-by-what-you-ac-1849970675)
 - [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)
 - [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
