@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pointer events in JS](https://dev.to/rounit08/pointer-events-in-js-1ihd)
+- [Lifehacker] [How to Avoid Copyright Strikes on Private and Unlisted YouTube Videos](https://lifehacker.com/how-to-avoid-copyright-strikes-on-private-and-unlisted-1849972221)
 - [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)
 - [Lifehacker] [The Easiest Way to Make Better Chocolate Chip Cookies](https://lifehacker.com/the-easiest-way-to-make-better-chocolate-chip-cookies-1849971632)
 - [Dev.to/JS] [Setting up Module Federation with Server-Side Rendering for Angular](https://dev.to/coly010/setting-up-module-federation-with-server-side-rendering-for-angular-1ho)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LOGICAL OPERATOR](https://dev.to/charos1mm/logical-operator-4811)
 - [Dev.to/JS] [How to use Video Person Tracking API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-video-person-tracking-api-with-javascript-in-5-minutes-4b9e)
 - [Dev.to/JS] [This is a very small ChatGPT conversation downloader](https://dev.to/shinshin86/this-is-a-very-small-chatgpt-conversation-downloader-m3h)
-- [Dev.to/JS] [Super Simple Approach to JavaScript Array](https://dev.to/yusfulcoder/super-simple-approach-to-javascript-array-km0)
 - [Lifehacker] [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Panera Wants to Give Some of You a Free Baguette](https://lifehacker.com/panera-wants-to-give-some-of-you-a-free-baguette-1849966970)
 - [Lifehacker] [Stop Serving Your Cheeses on Wooden Boards](https://lifehacker.com/stop-serving-your-cheeses-on-wooden-boards-1849966881)
 - [Lifehacker] [Don&#39;t Let SMART Fitness Goals Stop You From Dreaming Big](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
-- [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)
-- [Lifehacker] [How to Fix a Sump Pump That Never Stops Running](https://lifehacker.com/how-to-fix-a-sump-pump-that-never-stops-running-1849965685)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Places to Find Free Audiobooks](https://lifehacker.com/the-best-places-to-find-free-audiobooks-1849966393)<!-- TECH-POSTS:END -->
 
 ---
 
