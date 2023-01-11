@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Code Chrome Dino Game with JavaScript and a HTML Canvas](https://dev.to/codingwithadam/how-to-code-chrome-dino-game-with-javascript-and-a-html-canvas-l17)
+- [Dev.to/JS] [Console.trace in JavaScript](https://dev.to/ratracegrad/consoletrace-in-javascript-5c2g)
 - [Dev.to/JS] [ECMAScript: all versions and new features](https://dev.to/uncle_ben/ecmascript-all-versions-and-new-features-2fph)
 - [Dev.to/JS] [Don&#39;t use useEffect](https://dev.to/rem0nfawzi/dont-use-useeffect-3ca8)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a Blog API with Node.js and Express.js Framework](https://dev.to/spaceracedev/how-to-create-a-blog-api-with-nodejs-and-expressjs-framework-47ob)
 - [Dev.to/JS] [Why you should ALWAYS use return before res.send in Express APIs and Applications](https://dev.to/adamkatora/why-you-should-always-use-return-before-ressend-in-express-apis-and-applications-k9k)
 - [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)
-- [Dev.to/JS] [Import maps 101](https://dev.to/uploadcare/import-maps-101-2f28)
-- [Dev.to/JS] [Safer URL reading and writing in modern JavaScript](https://dev.to/builderio/safer-url-reading-and-writing-in-modern-javascript-4m02)
 - [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
 - [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Crypto](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-cr-1849875305)
