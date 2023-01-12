@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✨ Day 1 of the #100DaysofCode challenge ✨](https://dev.to/shhiru/day-1-of-the-100daysofcode-challenge-4g2a)
+- [Dev.to/JS] [Can I examine C++ as a beginner?](https://dev.to/ali543/can-i-examine-c-as-a-beginner-4pb7)
+- [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
+- [Dev.to/JS] [Yet another post about SolidJS vs React](https://dev.to/binarykoan/yet-another-post-about-solidjs-vs-react-3i1a)
 - [Lifehacker] [You Should Cook Oatmeal in a Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-a-cup-of-tea-1849980924)
 - [Dev.to/JS] [How To Create A Toast Notification in Javascript](https://dev.to/arafat4693/how-to-create-a-toast-notification-in-javascript-261d)
 - [Dev.to/JS] [Non-Blockchain Dapps](https://dev.to/isommie/non-blockchain-dapps-86p)
@@ -39,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [O Conceito de Hooks e como o utilizar.](https://dev.to/altencirsilvajr/o-conceito-de-hooks-e-como-o-utilizar-3fi7)
 - [Lifehacker] [How to Keep Your Gym Gear From Stinking](https://lifehacker.com/how-to-keep-your-gym-gear-from-stinking-1849979797)
 - [Lifehacker] [11 of the Best Home Improvement Shows &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)
-- [Dev.to/JS] [Angular Application From Scratch - Angular Project Blog App For Your Portfolio](https://dev.to/asma921208/angular-application-from-scratch-angular-project-blog-app-for-your-portfolio-58ab)
-- [Dev.to/JS] [Introdução ao desenvolvimento web&lpar;Front-end&rpar;](https://dev.to/carmichaelf/introducao-ao-desenvolvimento-webfront-end-1pfi)
-- [Dev.to/JS] [Unveiling Breakthroughs Found In The State Of JS 2022 Survey](https://dev.to/wiseai/unveiling-breakthroughs-found-in-the-state-of-js-2022-survey-4bkj)
 - [Lifehacker] [You Can Use Apple AirPlay to Stream From a Windows PC Too](https://lifehacker.com/you-can-use-apple-airplay-to-stream-from-a-windows-pc-t-1849978309)
 - [Lifehacker] [You Can Turn Any Beverage Into Cake Icing](https://lifehacker.com/you-can-turn-any-beverage-into-cake-icing-1849976961)
 - [Lifehacker] [How to Spot the International Space Station in the Sky](https://lifehacker.com/how-to-spot-the-international-space-station-in-the-sky-1849978203)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Approximate Long-Exposure Photos on Your iPhone](https://lifehacker.com/how-to-approximate-long-exposure-photos-on-your-iphone-1849974985)
 - [Lifehacker] [Take Samsung&#39;s Money](https://lifehacker.com/take-samsungs-money-1849974910)
 - [Lifehacker] [How to Avoid Copyright Strikes on Private and Unlisted YouTube Videos](https://lifehacker.com/how-to-avoid-copyright-strikes-on-private-and-unlisted-1849972221)
-- [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)
-- [Lifehacker] [The Easiest Way to Make Better Chocolate Chip Cookies](https://lifehacker.com/the-easiest-way-to-make-better-chocolate-chip-cookies-1849971632)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)<!-- TECH-POSTS:END -->
 
 ---
 
