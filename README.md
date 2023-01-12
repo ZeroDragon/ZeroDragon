@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Regular Expressions—A Rite of Passage for Web Developers](https://dev.to/rhieger/regular-expressions-a-rite-of-passage-for-web-developers-3pfj)
 - [Dev.to/JS] [Hey everyone first post so be kind lol](https://dev.to/jack0194/hey-everyone-first-post-so-be-kind-lol-15o0)
 - [Dev.to/JS] [Variables and Keywords](https://dev.to/royelwilliams/variables-and-keywords-3h7j)
 - [Dev.to/JS] [How setup Firebase on your Frontend project](https://dev.to/nicolasmontielf/how-setup-firebase-on-your-frontend-project-1ap)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Efficient State Management in JavaScript Apps with Statemanjs](https://dev.to/dmtrshat/efficient-state-management-in-javascript-apps-with-statemanjs-3oml)
 - [Dev.to/JS] [JavaScript Clipboard API: Take Control of Your Copy, Cut, and Paste](https://dev.to/mohsenkamrani/javascript-clipboard-api-take-control-of-your-copy-cut-and-paste-3ekd)
 - [Dev.to/JS] [React JSX for Beginners: How to Build Dynamic Components](https://dev.to/mr_walkr/react-jsx-for-beginners-how-to-build-dynamic-components-13gc)
-- [Dev.to/JS] [A Quick Guide to Event Listeners](https://dev.to/succorro/a-quick-guide-to-event-listeners-464b)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
