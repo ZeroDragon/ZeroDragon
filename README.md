@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Cook Oatmeal in a Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-a-cup-of-tea-1849980924)
+- [Dev.to/JS] [How To Create A Toast Notification in Javascript](https://dev.to/arafat4693/how-to-create-a-toast-notification-in-javascript-261d)
+- [Dev.to/JS] [Non-Blockchain Dapps](https://dev.to/isommie/non-blockchain-dapps-86p)
+- [Lifehacker] [Do This When Your Device Won’t Charge](https://lifehacker.com/do-this-when-your-device-won-t-charge-1849980760)
 - [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)
 - [Dev.to/JS] [Primeiro FrontEnd](https://dev.to/isaacdel23/primeiro-frontend-gbf)
 - [Dev.to/JS] [Give me some advice, which Reacts open-source project is suitable to contribute for intermediate React developers?](https://dev.to/fpaghar/give-me-some-advice-which-reacts-open-source-project-is-suitable-to-contribute-for-intermediate-react-developers-4d1m)
@@ -38,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Application From Scratch - Angular Project Blog App For Your Portfolio](https://dev.to/asma921208/angular-application-from-scratch-angular-project-blog-app-for-your-portfolio-58ab)
 - [Dev.to/JS] [Introdução ao desenvolvimento web&lpar;Front-end&rpar;](https://dev.to/carmichaelf/introducao-ao-desenvolvimento-webfront-end-1pfi)
 - [Dev.to/JS] [Unveiling Breakthroughs Found In The State Of JS 2022 Survey](https://dev.to/wiseai/unveiling-breakthroughs-found-in-the-state-of-js-2022-survey-4bkj)
-- [Dev.to/JS] [How to use react three fiber in grafana](https://dev.to/jakovglavac/how-to-use-react-three-fiber-in-grafana-4ol3)
 - [Lifehacker] [You Can Use Apple AirPlay to Stream From a Windows PC Too](https://lifehacker.com/you-can-use-apple-airplay-to-stream-from-a-windows-pc-t-1849978309)
 - [Lifehacker] [You Can Turn Any Beverage Into Cake Icing](https://lifehacker.com/you-can-turn-any-beverage-into-cake-icing-1849976961)
-- [Dev.to/JS] [Building reusable components with Tailwind css &amp; vuejs](https://dev.to/tailland_/building-reusable-components-with-tailwind-css-vuejs-4a84)
 - [Lifehacker] [How to Spot the International Space Station in the Sky](https://lifehacker.com/how-to-spot-the-international-space-station-in-the-sky-1849978203)
 - [Lifehacker] [20 Actually Great Movies Unceremoniously Dumped in January](https://lifehacker.com/20-actually-great-movies-unceremoniously-dumped-in-janu-1849970338)
 - [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take Samsung&#39;s Money](https://lifehacker.com/take-samsungs-money-1849974910)
 - [Lifehacker] [How to Avoid Copyright Strikes on Private and Unlisted YouTube Videos](https://lifehacker.com/how-to-avoid-copyright-strikes-on-private-and-unlisted-1849972221)
 - [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)
-- [Lifehacker] [The Easiest Way to Make Better Chocolate Chip Cookies](https://lifehacker.com/the-easiest-way-to-make-better-chocolate-chip-cookies-1849971632)
-- [Lifehacker] [11 of the Weirdest Careers for Creative People](https://lifehacker.com/11-of-the-weirdest-careers-for-creative-people-1849973103)
-- [Lifehacker] [You Can Get Free Stuff From Target for Reviewing Products](https://lifehacker.com/you-can-get-free-stuff-from-target-for-reviewing-produc-1849972037)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Make Better Chocolate Chip Cookies](https://lifehacker.com/the-easiest-way-to-make-better-chocolate-chip-cookies-1849971632)<!-- TECH-POSTS:END -->
 
 ---
 
