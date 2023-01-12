@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 - [Dev.to/JS] [PHP-like namespaces in JavaScript using Unicode identifiers](https://dev.to/projektorius96/php-like-namespaces-in-javascript-using-unicode-identifiers-339e)
 - [Dev.to/JS] [What is callback hell?](https://dev.to/catherineisonline/what-is-callback-hell-3emp)
 - [Dev.to/JS] [.this keyword](https://dev.to/bolouie/this-keyword-2chh)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
 - [Lifehacker] [6 of the Best Videos to Help You Actually Understand Crypto](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-cr-1849875305)
 - [Lifehacker] [Use a Hairdryer on Your Sheets This Winter](https://lifehacker.com/use-a-hairdryer-on-your-sheets-this-winter-1849970380)
-- [Lifehacker] [Stop Tilting Your Head Back to Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)
-- [Lifehacker] [These Are the Best Browser Extensions for PC Gamers on Steam](https://lifehacker.com/these-are-the-best-browser-extensions-for-pc-gamers-on-1849969079)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Tilting Your Head Back to Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)<!-- TECH-POSTS:END -->
 
 ---
 
