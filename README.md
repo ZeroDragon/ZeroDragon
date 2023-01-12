@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Turn Any Beverage Into Cake Icing](https://lifehacker.com/you-can-turn-any-beverage-into-cake-icing-1849976961)
+- [Dev.to/JS] [Building reusable components with Tailwind css &amp; vuejs](https://dev.to/tailland_/building-reusable-components-with-tailwind-css-vuejs-4a84)
+- [Dev.to/JS] [How to update React state on nested objects that are serialized in Rails](https://dev.to/marskimiko/how-to-update-react-state-on-nested-objects-that-are-serialized-in-rails-2040)
+- [Lifehacker] [How to Spot the International Space Station in the Sky](https://lifehacker.com/how-to-spot-the-international-space-station-in-the-sky-1849978203)
+- [Dev.to/JS] [One-Click Code Block Copying in React with react-copy-to-clipboard](https://dev.to/basskibo/one-click-code-block-copying-in-react-with-react-copy-to-clipboard-4pb6)
+- [Dev.to/JS] [How to produce type-safe GraphQL queries using TypeScript 💥](https://dev.to/livecycle/how-to-produce-type-safe-graphql-queries-using-typescript-52pe)
 - [Lifehacker] [20 Actually Great Movies Unceremoniously Dumped in January](https://lifehacker.com/20-actually-great-movies-unceremoniously-dumped-in-janu-1849970338)
 - [Dev.to/JS] [10 Steps to become a frontend developer in 2023](https://dev.to/rafikadir/10-steps-to-become-a-frontend-developer-in-2023-4ihj)
 - [Dev.to/JS] [Lazy Loading Collections in JavaScript](https://dev.to/cryptogeekus/lazy-loading-collections-in-javascript-1ee1)
@@ -34,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Free Wendy&#39;s French Fries for a Week](https://lifehacker.com/you-can-get-free-wendys-french-fries-for-a-week-1849977152)
 - [Dev.to/JS] [Effortlessly Create Responsive Flex Layouts with TailwindCSS: An In-Depth Guide](https://dev.to/nitinfab/effortlessly-create-responsive-flex-layouts-with-tailwindcss-an-in-depth-guide-4gla)
 - [Dev.to/JS] [Migrate traditional promise syntax to async/await](https://dev.to/capeladev/migrate-traditional-promise-syntax-to-asyncawait-3bp9)
-- [Dev.to/JS] [A cure for React useState hell?](https://dev.to/builderio/a-cure-for-react-usestate-hell-1ldi)
 - [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)
-- [Dev.to/JS] [How to Build a React component library?](https://dev.to/alirezace/how-to-build-a-react-component-library-3c67)
 - [Lifehacker] [The 7 Deadly Sins of Attending a Music Festival](https://lifehacker.com/the-7-deadly-sins-of-attending-a-music-festival-1849977106)
-- [Dev.to/JS] [Configure Jest and usage in UmiJS 🥳](https://dev.to/nitinreddy3/configure-jest-and-usage-in-umijs-34ph)
-- [Dev.to/JS] [Make over $200 with these ideas](https://dev.to/oluwatrillions/make-over-200-with-these-ideas-817)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
-- [Lifehacker] [Sustain Yourself With BOGO $1 Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
-- [Lifehacker] [The Best Coffee Loyalty Programs, Ranked by What You Actually Get](https://lifehacker.com/the-best-coffee-loyalty-programs-ranked-by-what-you-ac-1849970675)
-- [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Sustain Yourself With BOGO $1 Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)<!-- TECH-POSTS:END -->
 
 ---
 
