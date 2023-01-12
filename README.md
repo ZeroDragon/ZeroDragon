@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 Ways to Delete a Property In JavaScript You Must Know](https://dev.to/mohsenkamrani/6-ways-to-delete-a-property-in-javascript-you-must-know-912)
+- [Dev.to/JS] [I just made my first fullstack application. Here&#39;s how.](https://dev.to/stcollier/i-just-made-my-first-fullstack-application-heres-how-1am9)
+- [Dev.to/JS] [How to make a card carousel with CSS &amp; JS](https://dev.to/lensco825/how-to-make-a-card-carousel-with-css-js-1702)
 - [Dev.to/JS] [Efficient State Management in JavaScript Apps with Statemanjs](https://dev.to/dmtrshat/efficient-state-management-in-javascript-apps-with-statemanjs-3oml)
 - [Dev.to/JS] [JavaScript Clipboard API: Take Control of Your Copy, Cut, and Paste](https://dev.to/mohsenkamrani/javascript-clipboard-api-take-control-of-your-copy-cut-and-paste-3ekd)
 - [Dev.to/JS] [React JSX for Beginners: How to Build Dynamic Components](https://dev.to/mr_walkr/react-jsx-for-beginners-how-to-build-dynamic-components-13gc)
@@ -34,13 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is callback hell?](https://dev.to/catherineisonline/what-is-callback-hell-3emp)
 - [Dev.to/JS] [.this keyword](https://dev.to/bolouie/this-keyword-2chh)
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
-- [Dev.to/JS] [JWT Authentication Using Express.js &amp; MongoDB With TypeScript](https://dev.to/said_mounaim/jwt-authentication-using-expressjs-mongodb-with-typescript-3ngn)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
-- [Dev.to/JS] [Migrating from the Agora Video SDK to the Zoom Video SDK](https://dev.to/zoom/migrating-from-the-agora-video-sdk-to-the-zoom-video-sdk-31b8)
 - [Lifehacker] [How to Destink Your Diaper Pail &lpar;and Keep It Destunk&rpar;](https://lifehacker.com/how-to-destink-your-diaper-pail-and-keep-it-destunk-1849975562)
 - [Lifehacker] [You Can Turn a Bag of Frozen Hash Browns Into a Pot of Soup](https://lifehacker.com/you-can-turn-a-bag-of-frozen-hash-browns-into-a-pot-of-1849975944)
 - [Lifehacker] [Standing Your PS5 Up Vertically Is Fine, Actually](https://lifehacker.com/standing-your-ps5-up-vertically-is-fine-actually-1849975426)
-- [Dev.to/JS] [A chrome extension that lets you select any text and run it through ChatGPT](https://dev.to/mihiraggarwal/a-chrome-extension-that-lets-you-select-any-text-and-run-it-through-chatgpt-13i6)
 - [Lifehacker] [Make Better Egg White Wraps With Roasted Red Peppers](https://lifehacker.com/make-better-egg-white-wraps-with-roasted-red-peppers-1849975927)
 - [Lifehacker] [Stop Spewing Ancient Aliens&#39; Racist Theories](https://lifehacker.com/stop-spewing-ancient-aliens-racist-theories-1849975831)
 - [Lifehacker] [How to Approximate Long-Exposure Photos on Your iPhone](https://lifehacker.com/how-to-approximate-long-exposure-photos-on-your-iphone-1849974985)
