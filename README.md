@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Application From Scratch - Angular Project Blog App For Your Portfolio](https://dev.to/asma921208/angular-application-from-scratch-angular-project-blog-app-for-your-portfolio-58ab)
+- [Dev.to/JS] [Introdução ao desenvolvimento web&lpar;Front-end&rpar;](https://dev.to/carmichaelf/introducao-ao-desenvolvimento-webfront-end-1pfi)
+- [Dev.to/JS] [Unveiling Breakthroughs Found In The State Of JS 2022 Survey](https://dev.to/wiseai/unveiling-breakthroughs-found-in-the-state-of-js-2022-survey-4bkj)
+- [Dev.to/JS] [How to use react three fiber in grafana](https://dev.to/jakovglavac/how-to-use-react-three-fiber-in-grafana-4ol3)
+- [Lifehacker] [You Can Use Apple AirPlay to Stream From a Windows PC Too](https://lifehacker.com/you-can-use-apple-airplay-to-stream-from-a-windows-pc-t-1849978309)
 - [Lifehacker] [You Can Turn Any Beverage Into Cake Icing](https://lifehacker.com/you-can-turn-any-beverage-into-cake-icing-1849976961)
 - [Dev.to/JS] [Building reusable components with Tailwind css &amp; vuejs](https://dev.to/tailland_/building-reusable-components-with-tailwind-css-vuejs-4a84)
 - [Dev.to/JS] [How to update React state on nested objects that are serialized in Rails](https://dev.to/marskimiko/how-to-update-react-state-on-nested-objects-that-are-serialized-in-rails-2040)
@@ -34,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lazy Loading Collections in JavaScript](https://dev.to/cryptogeekus/lazy-loading-collections-in-javascript-1ee1)
 - [Dev.to/JS] [React, Vite and TypeScript: Get started in under 2 minutes](https://dev.to/nx/react-vite-and-typescript-get-started-in-under-2-minutes-56f)
 - [Dev.to/JS] [Day 1 of 100 - 2023](https://dev.to/sampreethd/day-1-of-100-2023-2b9d)
-- [Dev.to/JS] [How to Add Ajax Search to WordPress Without Using a Plugin?](https://dev.to/stackfindover/how-to-add-ajax-search-to-wordpress-without-using-a-plugin-52d5)
 - [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)
-- [Dev.to/JS] [9 Effective ways to be productive as a developer?](https://dev.to/rafikadir/9-effective-ways-to-be-productive-as-a-developer-39ep)
 - [Lifehacker] [You Can Get Free Wendy&#39;s French Fries for a Week](https://lifehacker.com/you-can-get-free-wendys-french-fries-for-a-week-1849977152)
-- [Dev.to/JS] [Effortlessly Create Responsive Flex Layouts with TailwindCSS: An In-Depth Guide](https://dev.to/nitinfab/effortlessly-create-responsive-flex-layouts-with-tailwindcss-an-in-depth-guide-4gla)
-- [Dev.to/JS] [Migrate traditional promise syntax to async/await](https://dev.to/capeladev/migrate-traditional-promise-syntax-to-asyncawait-3bp9)
 - [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)
 - [Lifehacker] [The 7 Deadly Sins of Attending a Music Festival](https://lifehacker.com/the-7-deadly-sins-of-attending-a-music-festival-1849977106)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The One Thing You Should Always Do Before Freezing Chicken Breasts](https://lifehacker.com/the-one-thing-you-should-always-do-before-freezing-chic-1849971357)
 - [Lifehacker] [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
 - [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
-- [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
-- [Lifehacker] [Sustain Yourself With BOGO $1 Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)<!-- TECH-POSTS:END -->
 
 ---
 
