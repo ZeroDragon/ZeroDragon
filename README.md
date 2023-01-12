@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Efficient State Management in JavaScript Apps with Statemanjs](https://dev.to/dmtrshat/efficient-state-management-in-javascript-apps-with-statemanjs-3oml)
+- [Dev.to/JS] [JavaScript Clipboard API: Take Control of Your Copy, Cut, and Paste](https://dev.to/mohsenkamrani/javascript-clipboard-api-take-control-of-your-copy-cut-and-paste-3ekd)
+- [Dev.to/JS] [React JSX for Beginners: How to Build Dynamic Components](https://dev.to/mr_walkr/react-jsx-for-beginners-how-to-build-dynamic-components-13gc)
+- [Dev.to/JS] [A Quick Guide to Event Listeners](https://dev.to/succorro/a-quick-guide-to-event-listeners-464b)
+- [Dev.to/JS] [How to Use Axios for HTTP Requests](https://dev.to/ksowah/how-to-use-axios-for-http-requests-p1l)
+- [Dev.to/JS] [LeetCode #1 two sum with JavaScript](https://dev.to/masaki82/leetcode-1-two-sum-with-javascript-2k8b)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 - [Dev.to/JS] [PHP-like namespaces in JavaScript using Unicode identifiers](https://dev.to/projektorius96/php-like-namespaces-in-javascript-using-unicode-identifiers-339e)
 - [Dev.to/JS] [What is callback hell?](https://dev.to/catherineisonline/what-is-callback-hell-3emp)
@@ -35,15 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Turn a Bag of Frozen Hash Browns Into a Pot of Soup](https://lifehacker.com/you-can-turn-a-bag-of-frozen-hash-browns-into-a-pot-of-1849975944)
 - [Lifehacker] [Standing Your PS5 Up Vertically Is Fine, Actually](https://lifehacker.com/standing-your-ps5-up-vertically-is-fine-actually-1849975426)
 - [Dev.to/JS] [A chrome extension that lets you select any text and run it through ChatGPT](https://dev.to/mihiraggarwal/a-chrome-extension-that-lets-you-select-any-text-and-run-it-through-chatgpt-13i6)
-- [Dev.to/JS] [Language and Syntax](https://dev.to/bryhim4code/language-and-syntax-48kd)
 - [Lifehacker] [Make Better Egg White Wraps With Roasted Red Peppers](https://lifehacker.com/make-better-egg-white-wraps-with-roasted-red-peppers-1849975927)
-- [Dev.to/JS] [Embedding YouTube Videos in HTML: A Step-by-Step Guide](https://dev.to/hat52/embedding-youtube-videos-in-html-a-step-by-step-guide-2946)
-- [Dev.to/JS] [How to Create Guarded Routes using React Router](https://dev.to/eshankvaish/how-to-create-guarded-routes-using-react-router-1cai)
 - [Lifehacker] [Stop Spewing Ancient Aliens&#39; Racist Theories](https://lifehacker.com/stop-spewing-ancient-aliens-racist-theories-1849975831)
-- [Dev.to/JS] [4 different ways of removing spaces from a string](https://dev.to/capeladev/4-different-ways-of-removing-spaces-from-a-string-29kg)
-- [Dev.to/JS] [Why Is My Jest Test Suite So Slow?](https://dev.to/twynsicle/why-is-my-jest-test-suite-so-slow-1od)
 - [Lifehacker] [How to Approximate Long-Exposure Photos on Your iPhone](https://lifehacker.com/how-to-approximate-long-exposure-photos-on-your-iphone-1849974985)
-- [Dev.to/JS] [How I can mock an incomming http request in jest using node.js http?](https://dev.to/pcmagas/how-i-can-mock-an-incomming-http-request-in-jest-using-nodejs-http-4i56)
 - [Lifehacker] [Take Samsung&#39;s Money](https://lifehacker.com/take-samsungs-money-1849974910)
 - [Lifehacker] [How to Avoid Copyright Strikes on Private and Unlisted YouTube Videos](https://lifehacker.com/how-to-avoid-copyright-strikes-on-private-and-unlisted-1849972221)
 - [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)
