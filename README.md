@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Front End Development](https://dev.to/mataoseeker/front-end-development-1697)
+- [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
+- [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
 - [Dev.to/JS] [✨ Day 1 of the #100DaysofCode challenge ✨](https://dev.to/shhiru/day-1-of-the-100daysofcode-challenge-4g2a)
 - [Dev.to/JS] [Can I examine C++ as a beginner?](https://dev.to/ali543/can-i-examine-c-as-a-beginner-4pb7)
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix a Sticky Lock Without Calling a Locksmith](https://lifehacker.com/how-to-fix-a-sticky-lock-without-calling-a-locksmith-1849978387)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/itsbrotherdan/higher-order-functions-3di0)
 - [Dev.to/JS] [Setup Google Analytics with Next.js &lpar;4 easy steps&rpar;](https://dev.to/acidop/setup-google-analytics-with-nextjs-4-easy-steps-3140)
-- [Dev.to/JS] [O Conceito de Hooks e como o utilizar.](https://dev.to/altencirsilvajr/o-conceito-de-hooks-e-como-o-utilizar-3fi7)
 - [Lifehacker] [How to Keep Your Gym Gear From Stinking](https://lifehacker.com/how-to-keep-your-gym-gear-from-stinking-1849979797)
 - [Lifehacker] [11 of the Best Home Improvement Shows &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)
 - [Lifehacker] [You Can Use Apple AirPlay to Stream From a Windows PC Too](https://lifehacker.com/you-can-use-apple-airplay-to-stream-from-a-windows-pc-t-1849978309)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better Egg White Wraps With Roasted Red Peppers](https://lifehacker.com/make-better-egg-white-wraps-with-roasted-red-peppers-1849975927)
 - [Lifehacker] [Stop Spewing Ancient Aliens&#39; Racist Theories](https://lifehacker.com/stop-spewing-ancient-aliens-racist-theories-1849975831)
 - [Lifehacker] [How to Approximate Long-Exposure Photos on Your iPhone](https://lifehacker.com/how-to-approximate-long-exposure-photos-on-your-iphone-1849974985)
-- [Lifehacker] [Take Samsung&#39;s Money](https://lifehacker.com/take-samsungs-money-1849974910)
-- [Lifehacker] [How to Avoid Copyright Strikes on Private and Unlisted YouTube Videos](https://lifehacker.com/how-to-avoid-copyright-strikes-on-private-and-unlisted-1849972221)
-- [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take Samsung&#39;s Money](https://lifehacker.com/take-samsungs-money-1849974910)<!-- TECH-POSTS:END -->
 
 ---
 
