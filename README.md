@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix a Sticky Lock Without Calling a Locksmith](https://lifehacker.com/how-to-fix-a-sticky-lock-without-calling-a-locksmith-1849978387)
+- [Dev.to/JS] [Higher Order Functions](https://dev.to/itsbrotherdan/higher-order-functions-3di0)
+- [Dev.to/JS] [Setup Google Analytics with Next.js &lpar;4 easy steps&rpar;](https://dev.to/acidop/setup-google-analytics-with-nextjs-4-easy-steps-3140)
+- [Dev.to/JS] [O Conceito de Hooks e como o utilizar.](https://dev.to/altencirsilvajr/o-conceito-de-hooks-e-como-o-utilizar-3fi7)
+- [Lifehacker] [How to Keep Your Gym Gear From Stinking](https://lifehacker.com/how-to-keep-your-gym-gear-from-stinking-1849979797)
+- [Lifehacker] [11 of the Best Home Improvement Shows &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)
 - [Dev.to/JS] [Angular Application From Scratch - Angular Project Blog App For Your Portfolio](https://dev.to/asma921208/angular-application-from-scratch-angular-project-blog-app-for-your-portfolio-58ab)
 - [Dev.to/JS] [Introdução ao desenvolvimento web&lpar;Front-end&rpar;](https://dev.to/carmichaelf/introducao-ao-desenvolvimento-webfront-end-1pfi)
 - [Dev.to/JS] [Unveiling Breakthroughs Found In The State Of JS 2022 Survey](https://dev.to/wiseai/unveiling-breakthroughs-found-in-the-state-of-js-2022-survey-4bkj)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to produce type-safe GraphQL queries using TypeScript 💥](https://dev.to/livecycle/how-to-produce-type-safe-graphql-queries-using-typescript-52pe)
 - [Lifehacker] [20 Actually Great Movies Unceremoniously Dumped in January](https://lifehacker.com/20-actually-great-movies-unceremoniously-dumped-in-janu-1849970338)
 - [Dev.to/JS] [10 Steps to become a frontend developer in 2023](https://dev.to/rafikadir/10-steps-to-become-a-frontend-developer-in-2023-4ihj)
-- [Dev.to/JS] [Lazy Loading Collections in JavaScript](https://dev.to/cryptogeekus/lazy-loading-collections-in-javascript-1ee1)
-- [Dev.to/JS] [React, Vite and TypeScript: Get started in under 2 minutes](https://dev.to/nx/react-vite-and-typescript-get-started-in-under-2-minutes-56f)
-- [Dev.to/JS] [Day 1 of 100 - 2023](https://dev.to/sampreethd/day-1-of-100-2023-2b9d)
 - [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)
 - [Lifehacker] [You Can Get Free Wendy&#39;s French Fries for a Week](https://lifehacker.com/you-can-get-free-wendys-french-fries-for-a-week-1849977152)
 - [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 of the Weirdest Careers for Creative People](https://lifehacker.com/11-of-the-weirdest-careers-for-creative-people-1849973103)
 - [Lifehacker] [You Can Get Free Stuff From Target for Reviewing Products](https://lifehacker.com/you-can-get-free-stuff-from-target-for-reviewing-produc-1849972037)
 - [Lifehacker] [The Real Ways to Improve Your Recovery From Exercise](https://lifehacker.com/the-real-ways-to-improve-your-recovery-from-exercise-1849971349)
-- [Lifehacker] [The One Thing You Should Always Do Before Freezing Chicken Breasts](https://lifehacker.com/the-one-thing-you-should-always-do-before-freezing-chic-1849971357)
-- [Lifehacker] [What You Should ‘Unlearn’ to Actually Succeed at Work](https://lifehacker.com/what-you-should-unlearn-to-actually-succeed-at-work-1849970973)
-- [Lifehacker] [Stop Serving Massive Slices of Prosciutto](https://lifehacker.com/stop-serving-massive-slices-of-prosciutto-1849970089)
-- [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The One Thing You Should Always Do Before Freezing Chicken Breasts](https://lifehacker.com/the-one-thing-you-should-always-do-before-freezing-chic-1849971357)<!-- TECH-POSTS:END -->
 
 ---
 
