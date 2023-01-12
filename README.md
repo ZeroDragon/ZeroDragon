@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Free Wendy&#39;s French Fries for a Week](https://lifehacker.com/you-can-get-free-wendys-french-fries-for-a-week-1849977152)
+- [Dev.to/JS] [Migrate traditional promise syntax to async/await](https://dev.to/capeladev/migrate-traditional-promise-syntax-to-asyncawait-3bp9)
+- [Dev.to/JS] [A cure for React useState hell?](https://dev.to/builderio/a-cure-for-react-usestate-hell-1ldi)
+- [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)
+- [Dev.to/JS] [How to Build a React component library?](https://dev.to/alirezace/how-to-build-a-react-component-library-3c67)
+- [Lifehacker] [The 7 Deadly Sins of Attending a Music Festival](https://lifehacker.com/the-7-deadly-sins-of-attending-a-music-festival-1849977106)
 - [Dev.to/JS] [Configure Jest and usage in UmiJS 🥳](https://dev.to/nitinreddy3/configure-jest-and-usage-in-umijs-34ph)
 - [Dev.to/JS] [Make over $200 with these ideas](https://dev.to/oluwatrillions/make-over-200-with-these-ideas-817)
 - [Dev.to/JS] [How To Blur The Image On Load In Next.js](https://dev.to/uniquewebdev/how-to-blur-the-image-on-load-in-nextjs-8k9)
 - [Dev.to/JS] [11 Stages To Become A JavaScript Full-Stack Engineer](https://dev.to/paulknulst/11-stages-to-become-a-javascript-full-stack-engineer-ngm)
 - [Dev.to/JS] [Medusa v1.7.3: Sales Channels out of Beta, Improvements to events, and more!](https://dev.to/medusajs/medusa-v173-sales-channels-out-of-beta-improvements-to-events-and-more-29o9)
-- [Dev.to/JS] [My First Server and REST API: Essentials for Frontenders](https://dev.to/bishopwm/my-first-server-and-rest-api-essentials-for-frontenders-2gnk)
 - [Dev.to/JS] [Should You Add React to Existing Projects Or Websites?](https://dev.to/ideradevtools/should-you-add-react-to-existing-projects-or-websites-2009)
 - [Dev.to/JS] [A Comprehensive Guide To Blockchain Development Services](https://dev.to/etelligens/a-comprehensive-guide-to-blockchain-development-services-451f)
 - [Dev.to/JS] [Don&#39;t Unleash Zalgo in your Node.js Application!](https://dev.to/dashsaurabh/dont-unleash-zalgo-in-your-nodejs-application-3akm)
 - [Dev.to/JS] [VSCode snippet: New React component &lpar;ts&rpar;](https://dev.to/manuartero/vscode-snippet-new-react-component-ts-4d0d)
-- [Dev.to/JS] [Server-Sent Events 101](https://dev.to/zsevic/server-sent-events-101-17p5)
-- [Dev.to/JS] [Java Diploma Projects](https://dev.to/arunprakash142/java-diploma-projects-3gjm)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Coffee Loyalty Programs, Ranked by What You Actually Get](https://lifehacker.com/the-best-coffee-loyalty-programs-ranked-by-what-you-ac-1849970675)
 - [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)
 - [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
-- [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)
-- [Lifehacker] [6 of the Best Videos to Help You Actually Understand Crypto](https://lifehacker.com/6-of-the-best-videos-to-help-you-actually-understand-cr-1849875305)
-- [Lifehacker] [Use a Hairdryer on Your Sheets This Winter](https://lifehacker.com/use-a-hairdryer-on-your-sheets-this-winter-1849970380)
-- [Lifehacker] [Stop Tilting Your Head Back to Swallow Pills](https://lifehacker.com/stop-tilting-your-head-back-to-swallow-pills-1849969700)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)<!-- TECH-POSTS:END -->
 
 ---
 
