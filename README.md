@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Managing Hybrid Teams 2](https://dev.to/fpaghar/managing-hybrid-teams-2-1j8b)
 - [Dev.to/JS] [Super excited to announce the SPONSORS for Code Night 2023!](https://dev.to/square_boat/super-excited-to-announce-the-sponsors-for-code-night-2023-2k79)
 - [Dev.to/JS] [Code refactoring is the process of making changes that essentially don’t change functionality.](https://dev.to/sanskriti121/code-refactoring-is-the-process-of-making-changes-that-essentially-dont-change-functionality-4p2m)
 - [Dev.to/JS] [Core JavaScript: Scope](https://dev.to/ioanat94/core-javascript-scope-29cm)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variables and Keywords](https://dev.to/royelwilliams/variables-and-keywords-3h7j)
 - [Dev.to/JS] [How setup Firebase on your Frontend project](https://dev.to/nicolasmontielf/how-setup-firebase-on-your-frontend-project-1ap)
 - [Dev.to/JS] [7 God Mode JavaScript Projects for Beginners + Source Codes](https://dev.to/elliot_brenyasarfo_18749/7-god-mode-javascript-projects-for-beginners-source-codes-3gd)
-- [Dev.to/JS] [Filtering an array of objects by multiple parameters](https://dev.to/austinbagwell/filtering-an-array-of-objects-by-multiple-parameters-a97)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
