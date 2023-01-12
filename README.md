@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VSCode snippet: New React component &lpar;ts&rpar;](https://dev.to/manuartero/vscode-snippet-new-react-component-ts-4d0d)
+- [Dev.to/JS] [Server-Sent Events 101](https://dev.to/zsevic/server-sent-events-101-17p5)
+- [Dev.to/JS] [Java Diploma Projects](https://dev.to/arunprakash142/java-diploma-projects-3gjm)
 - [Dev.to/JS] [React Router Nested Dom - GeekyShows](https://dev.to/akshdesai1/react-router-nested-dom-geekyshows-31oc)
 - [Dev.to/JS] [Date and math](https://dev.to/i_am_surendra_/date-and-math-1829)
 - [Dev.to/JS] [Managing Hybrid Teams 2](https://dev.to/fpaghar/managing-hybrid-teams-2-1j8b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to debounce and throttle in React without losing your mind](https://dev.to/adevnadia/how-to-debounce-and-throttle-in-react-without-losing-your-mind-pg5)
 - [Dev.to/JS] [Guarantee Your Success for CIW JavaScript Specialist Exam Certification 1D0-735](https://dev.to/certswarrior/guarantee-your-success-for-ciw-javascript-specialist-exam-certification-1d0-735-2nl3)
 - [Dev.to/JS] [Example of a #React functional &lpar;a.k.a. stateless&rpar; component w/ typechecking &amp; default](https://dev.to/mohammedhafiz/example-of-a-react-functional-aka-stateless-component-w-typechecking-default-3mj5)
-- [Dev.to/JS] [Regular Expressions—A Rite of Passage for Web Developers](https://dev.to/rhieger/regular-expressions-a-rite-of-passage-for-web-developers-3pfj)
-- [Dev.to/JS] [Hey everyone first post so be kind lol](https://dev.to/jack0194/hey-everyone-first-post-so-be-kind-lol-15o0)
-- [Dev.to/JS] [Variables and Keywords](https://dev.to/royelwilliams/variables-and-keywords-3h7j)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
