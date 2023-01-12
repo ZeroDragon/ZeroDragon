@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)
+- [Dev.to/JS] [Primeiro FrontEnd](https://dev.to/isaacdel23/primeiro-frontend-gbf)
+- [Dev.to/JS] [Give me some advice, which Reacts open-source project is suitable to contribute for intermediate React developers?](https://dev.to/fpaghar/give-me-some-advice-which-reacts-open-source-project-is-suitable-to-contribute-for-intermediate-react-developers-4d1m)
+- [Dev.to/JS] [Middlewares with Nuxt 3](https://dev.to/guillaumeduhan/middlewares-with-nuxt-3-1581)
+- [Lifehacker] [How to Back Up Your Gmails to Avoid Paying for Storage](https://lifehacker.com/how-to-back-up-your-gmails-to-avoid-paying-for-storage-1849979762)
+- [Dev.to/JS] [Using async-await with arr.map&lpar;&rpar;](https://dev.to/satejbidvai/using-async-await-with-arrmap-587f)
 - [Lifehacker] [How to Fix a Sticky Lock Without Calling a Locksmith](https://lifehacker.com/how-to-fix-a-sticky-lock-without-calling-a-locksmith-1849978387)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/itsbrotherdan/higher-order-functions-3di0)
 - [Dev.to/JS] [Setup Google Analytics with Next.js &lpar;4 easy steps&rpar;](https://dev.to/acidop/setup-google-analytics-with-nextjs-4-easy-steps-3140)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Apple AirPlay to Stream From a Windows PC Too](https://lifehacker.com/you-can-use-apple-airplay-to-stream-from-a-windows-pc-t-1849978309)
 - [Lifehacker] [You Can Turn Any Beverage Into Cake Icing](https://lifehacker.com/you-can-turn-any-beverage-into-cake-icing-1849976961)
 - [Dev.to/JS] [Building reusable components with Tailwind css &amp; vuejs](https://dev.to/tailland_/building-reusable-components-with-tailwind-css-vuejs-4a84)
-- [Dev.to/JS] [How to update React state on nested objects that are serialized in Rails](https://dev.to/marskimiko/how-to-update-react-state-on-nested-objects-that-are-serialized-in-rails-2040)
 - [Lifehacker] [How to Spot the International Space Station in the Sky](https://lifehacker.com/how-to-spot-the-international-space-station-in-the-sky-1849978203)
-- [Dev.to/JS] [One-Click Code Block Copying in React with react-copy-to-clipboard](https://dev.to/basskibo/one-click-code-block-copying-in-react-with-react-copy-to-clipboard-4pb6)
-- [Dev.to/JS] [How to produce type-safe GraphQL queries using TypeScript 💥](https://dev.to/livecycle/how-to-produce-type-safe-graphql-queries-using-typescript-52pe)
 - [Lifehacker] [20 Actually Great Movies Unceremoniously Dumped in January](https://lifehacker.com/20-actually-great-movies-unceremoniously-dumped-in-janu-1849970338)
-- [Dev.to/JS] [10 Steps to become a frontend developer in 2023](https://dev.to/rafikadir/10-steps-to-become-a-frontend-developer-in-2023-4ihj)
 - [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)
 - [Lifehacker] [You Can Get Free Wendy&#39;s French Fries for a Week](https://lifehacker.com/you-can-get-free-wendys-french-fries-for-a-week-1849977152)
 - [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Split and Load a Baked Potato](https://lifehacker.com/the-best-way-to-split-and-load-a-baked-potato-1849971671)
 - [Lifehacker] [The Easiest Way to Make Better Chocolate Chip Cookies](https://lifehacker.com/the-easiest-way-to-make-better-chocolate-chip-cookies-1849971632)
 - [Lifehacker] [11 of the Weirdest Careers for Creative People](https://lifehacker.com/11-of-the-weirdest-careers-for-creative-people-1849973103)
-- [Lifehacker] [You Can Get Free Stuff From Target for Reviewing Products](https://lifehacker.com/you-can-get-free-stuff-from-target-for-reviewing-produc-1849972037)
-- [Lifehacker] [The Real Ways to Improve Your Recovery From Exercise](https://lifehacker.com/the-real-ways-to-improve-your-recovery-from-exercise-1849971349)
-- [Lifehacker] [The One Thing You Should Always Do Before Freezing Chicken Breasts](https://lifehacker.com/the-one-thing-you-should-always-do-before-freezing-chic-1849971357)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Free Stuff From Target for Reviewing Products](https://lifehacker.com/you-can-get-free-stuff-from-target-for-reviewing-produc-1849972037)<!-- TECH-POSTS:END -->
 
 ---
 
