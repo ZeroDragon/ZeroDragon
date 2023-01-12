@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Super excited to announce the SPONSORS for Code Night 2023!](https://dev.to/square_boat/super-excited-to-announce-the-sponsors-for-code-night-2023-2k79)
+- [Dev.to/JS] [Code refactoring is the process of making changes that essentially don’t change functionality.](https://dev.to/sanskriti121/code-refactoring-is-the-process-of-making-changes-that-essentially-dont-change-functionality-4p2m)
+- [Dev.to/JS] [Core JavaScript: Scope](https://dev.to/ioanat94/core-javascript-scope-29cm)
 - [Dev.to/JS] [How to debounce and throttle in React without losing your mind](https://dev.to/adevnadia/how-to-debounce-and-throttle-in-react-without-losing-your-mind-pg5)
 - [Dev.to/JS] [Guarantee Your Success for CIW JavaScript Specialist Exam Certification 1D0-735](https://dev.to/certswarrior/guarantee-your-success-for-ciw-javascript-specialist-exam-certification-1d0-735-2nl3)
 - [Dev.to/JS] [Example of a #React functional &lpar;a.k.a. stateless&rpar; component w/ typechecking &amp; default](https://dev.to/mohammedhafiz/example-of-a-react-functional-aka-stateless-component-w-typechecking-default-3mj5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How setup Firebase on your Frontend project](https://dev.to/nicolasmontielf/how-setup-firebase-on-your-frontend-project-1ap)
 - [Dev.to/JS] [7 God Mode JavaScript Projects for Beginners + Source Codes](https://dev.to/elliot_brenyasarfo_18749/7-god-mode-javascript-projects-for-beginners-source-codes-3gd)
 - [Dev.to/JS] [Filtering an array of objects by multiple parameters](https://dev.to/austinbagwell/filtering-an-array-of-objects-by-multiple-parameters-a97)
-- [Dev.to/JS] [6 Ways to Delete a Property In JavaScript You Must Know](https://dev.to/mohsenkamrani/6-ways-to-delete-a-property-in-javascript-you-must-know-912)
-- [Dev.to/JS] [I just made my first fullstack application. Here&#39;s how.](https://dev.to/stcollier/i-just-made-my-first-fullstack-application-heres-how-1am9)
-- [Dev.to/JS] [How to make a card carousel with CSS &amp; JS](https://dev.to/lensco825/how-to-make-a-card-carousel-with-css-js-1702)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
