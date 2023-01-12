@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hey everyone first post so be kind lol](https://dev.to/jack0194/hey-everyone-first-post-so-be-kind-lol-15o0)
+- [Dev.to/JS] [Variables and Keywords](https://dev.to/royelwilliams/variables-and-keywords-3h7j)
+- [Dev.to/JS] [How setup Firebase on your Frontend project](https://dev.to/nicolasmontielf/how-setup-firebase-on-your-frontend-project-1ap)
 - [Dev.to/JS] [7 God Mode JavaScript Projects for Beginners + Source Codes](https://dev.to/elliot_brenyasarfo_18749/7-god-mode-javascript-projects-for-beginners-source-codes-3gd)
 - [Dev.to/JS] [Filtering an array of objects by multiple parameters](https://dev.to/austinbagwell/filtering-an-array-of-objects-by-multiple-parameters-a97)
 - [Dev.to/JS] [6 Ways to Delete a Property In JavaScript You Must Know](https://dev.to/mohsenkamrani/6-ways-to-delete-a-property-in-javascript-you-must-know-912)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Clipboard API: Take Control of Your Copy, Cut, and Paste](https://dev.to/mohsenkamrani/javascript-clipboard-api-take-control-of-your-copy-cut-and-paste-3ekd)
 - [Dev.to/JS] [React JSX for Beginners: How to Build Dynamic Components](https://dev.to/mr_walkr/react-jsx-for-beginners-how-to-build-dynamic-components-13gc)
 - [Dev.to/JS] [A Quick Guide to Event Listeners](https://dev.to/succorro/a-quick-guide-to-event-listeners-464b)
-- [Dev.to/JS] [How to Use Axios for HTTP Requests](https://dev.to/ksowah/how-to-use-axios-for-http-requests-p1l)
-- [Dev.to/JS] [LeetCode #1 two sum with JavaScript](https://dev.to/masaki82/leetcode-1-two-sum-with-javascript-2k8b)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
-- [Dev.to/JS] [PHP-like namespaces in JavaScript using Unicode identifiers](https://dev.to/projektorius96/php-like-namespaces-in-javascript-using-unicode-identifiers-339e)
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
 - [Lifehacker] [How to Destink Your Diaper Pail &lpar;and Keep It Destunk&rpar;](https://lifehacker.com/how-to-destink-your-diaper-pail-and-keep-it-destunk-1849975562)
