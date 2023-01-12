@@ -23,7 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [20 Actually Great Movies Unceremoniously Dumped in January](https://lifehacker.com/20-actually-great-movies-unceremoniously-dumped-in-janu-1849970338)
+- [Dev.to/JS] [10 Steps to become a frontend developer in 2023](https://dev.to/rafikadir/10-steps-to-become-a-frontend-developer-in-2023-4ihj)
+- [Dev.to/JS] [Lazy Loading Collections in JavaScript](https://dev.to/cryptogeekus/lazy-loading-collections-in-javascript-1ee1)
+- [Dev.to/JS] [React, Vite and TypeScript: Get started in under 2 minutes](https://dev.to/nx/react-vite-and-typescript-get-started-in-under-2-minutes-56f)
+- [Dev.to/JS] [Day 1 of 100 - 2023](https://dev.to/sampreethd/day-1-of-100-2023-2b9d)
+- [Dev.to/JS] [How to Add Ajax Search to WordPress Without Using a Plugin?](https://dev.to/stackfindover/how-to-add-ajax-search-to-wordpress-without-using-a-plugin-52d5)
+- [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)
+- [Dev.to/JS] [9 Effective ways to be productive as a developer?](https://dev.to/rafikadir/9-effective-ways-to-be-productive-as-a-developer-39ep)
 - [Lifehacker] [You Can Get Free Wendy&#39;s French Fries for a Week](https://lifehacker.com/you-can-get-free-wendys-french-fries-for-a-week-1849977152)
+- [Dev.to/JS] [Effortlessly Create Responsive Flex Layouts with TailwindCSS: An In-Depth Guide](https://dev.to/nitinfab/effortlessly-create-responsive-flex-layouts-with-tailwindcss-an-in-depth-guide-4gla)
 - [Dev.to/JS] [Migrate traditional promise syntax to async/await](https://dev.to/capeladev/migrate-traditional-promise-syntax-to-asyncawait-3bp9)
 - [Dev.to/JS] [A cure for React useState hell?](https://dev.to/builderio/a-cure-for-react-usestate-hell-1ldi)
 - [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)
@@ -31,13 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Attending a Music Festival](https://lifehacker.com/the-7-deadly-sins-of-attending-a-music-festival-1849977106)
 - [Dev.to/JS] [Configure Jest and usage in UmiJS 🥳](https://dev.to/nitinreddy3/configure-jest-and-usage-in-umijs-34ph)
 - [Dev.to/JS] [Make over $200 with these ideas](https://dev.to/oluwatrillions/make-over-200-with-these-ideas-817)
-- [Dev.to/JS] [How To Blur The Image On Load In Next.js](https://dev.to/uniquewebdev/how-to-blur-the-image-on-load-in-nextjs-8k9)
-- [Dev.to/JS] [11 Stages To Become A JavaScript Full-Stack Engineer](https://dev.to/paulknulst/11-stages-to-become-a-javascript-full-stack-engineer-ngm)
-- [Dev.to/JS] [Medusa v1.7.3: Sales Channels out of Beta, Improvements to events, and more!](https://dev.to/medusajs/medusa-v173-sales-channels-out-of-beta-improvements-to-events-and-more-29o9)
-- [Dev.to/JS] [Should You Add React to Existing Projects Or Websites?](https://dev.to/ideradevtools/should-you-add-react-to-existing-projects-or-websites-2009)
-- [Dev.to/JS] [A Comprehensive Guide To Blockchain Development Services](https://dev.to/etelligens/a-comprehensive-guide-to-blockchain-development-services-451f)
-- [Dev.to/JS] [Don&#39;t Unleash Zalgo in your Node.js Application!](https://dev.to/dashsaurabh/dont-unleash-zalgo-in-your-nodejs-application-3akm)
-- [Dev.to/JS] [VSCode snippet: New React component &lpar;ts&rpar;](https://dev.to/manuartero/vscode-snippet-new-react-component-ts-4d0d)
 - [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island While Screen Recording](https://lifehacker.com/you-can-hide-your-iphone-s-dynamic-island-while-screen-1849970759)
 - [Lifehacker] [Sustain Yourself With BOGO $1 Wendy’s Chicken Sandwiches All This Month](https://lifehacker.com/sustain-yourself-with-1-bogo-wendy-s-chicken-sandwiche-1849971552)
 - [Lifehacker] [The Best Coffee Loyalty Programs, Ranked by What You Actually Get](https://lifehacker.com/the-best-coffee-loyalty-programs-ranked-by-what-you-ac-1849970675)
-- [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)
-- [Lifehacker] [You May Qualify for a Free Tree for Your Yard](https://lifehacker.com/you-may-qualify-for-a-free-tree-for-your-yard-1849970563)
-- [Lifehacker] [You Can Use Your Apple Watch to Retrace Your Steps](https://lifehacker.com/you-can-use-your-apple-watch-to-retrace-your-steps-1849969451)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Unleash Your Gmail Account’s Infinite Addresses](https://lifehacker.com/unleash-your-gmail-account-s-infinite-addresses-1849970099)<!-- TECH-POSTS:END -->
 
 ---
 
