@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub Copilot discovered me something isn&#39;t documented](https://dev.to/manuartero/github-copilot-discovered-me-something-isnt-documented-1p6)
+- [Dev.to/JS] [Passwordless authentication for your website in 5 minutes!](https://dev.to/dagnelies/passwordless-authentication-for-your-website-in-5-minutes-1c31)
+- [Dev.to/JS] [Java Diploma Projects](https://dev.to/prakashreddy05/java-diploma-projects-3akb)
 - [Dev.to/JS] [✨UseCases for useState vs useReducer in React](https://dev.to/ahmedgmurtaza/usecases-for-usestate-vs-usereducer-in-react-43o9)
 - [Dev.to/JS] [Longest Path With Different Adjacent Characters](https://dev.to/zeeshanali0704/longest-path-with-different-adjacent-characters-539p)
 - [Dev.to/JS] [Cleaner JS Module Imports](https://dev.to/mmvergara/cleaner-js-module-imports-56dk)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Types of Solidity Storage](https://dev.to/scofieldidehen/types-of-solidity-storage-59bg)
 - [Dev.to/JS] [How to create API Documentation?](https://dev.to/devsimc/how-to-create-api-documentation-jfh)
 - [Dev.to/JS] [animation in box](https://dev.to/nagvanshi9275/animation-in-box-3h0)
-- [Dev.to/JS] [AI and Software Professionals : A Match Made in Tech Heaven](https://dev.to/lakincoder/-53kk)
-- [Dev.to/JS] [kerassentials - Nail Fungus Results, Pros, Cons, Benefits &amp; Reviews?](https://dev.to/kerassentials6/kerassentials-nail-fungus-results-pros-cons-benefits-reviews-dch)
-- [Dev.to/JS] [Introducing RxTutor - An interactive sandbox for RxJS observables](https://dev.to/lgpage/introducing-rxtutor-an-interactive-sandbox-for-rxjs-observables-49mb)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
