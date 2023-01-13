@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✨UseCases for useState vs useReducer in React](https://dev.to/ahmedgmurtaza/usecases-for-usestate-vs-usereducer-in-react-43o9)
+- [Dev.to/JS] [Longest Path With Different Adjacent Characters](https://dev.to/zeeshanali0704/longest-path-with-different-adjacent-characters-539p)
+- [Dev.to/JS] [Cleaner JS Module Imports](https://dev.to/mmvergara/cleaner-js-module-imports-56dk)
+- [Dev.to/JS] [How to import and export in CommonJS and ES Modules](https://dev.to/lico/how-to-import-and-export-in-commonjs-and-es-modules-43m1)
+- [Dev.to/JS] [Spread operator in JavaScript VS Python.](https://dev.to/extinctsion/spread-operator-in-javascript-vs-python-1h7i)
 - [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
 - [Dev.to/JS] [Writing Cleaner JavaScript with Modules](https://dev.to/honeybadger/writing-cleaner-javascript-with-modules-an)
 - [Dev.to/JS] [Types of Solidity Storage](https://dev.to/scofieldidehen/types-of-solidity-storage-59bg)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AI and Software Professionals : A Match Made in Tech Heaven](https://dev.to/lakincoder/-53kk)
 - [Dev.to/JS] [kerassentials - Nail Fungus Results, Pros, Cons, Benefits &amp; Reviews?](https://dev.to/kerassentials6/kerassentials-nail-fungus-results-pros-cons-benefits-reviews-dch)
 - [Dev.to/JS] [Introducing RxTutor - An interactive sandbox for RxJS observables](https://dev.to/lgpage/introducing-rxtutor-an-interactive-sandbox-for-rxjs-observables-49mb)
-- [Dev.to/JS] [How To Get Duplicate Object From Array in JavaScript?](https://dev.to/patelrohan750/how-to-get-duplicate-object-from-array-in-javascript-1656)
-- [Dev.to/JS] [Computing Fibonacci Sequence in JavaScript](https://dev.to/patelrohan750/computing-fibonacci-sequence-in-javascript-5gld)
-- [Dev.to/JS] [Learn Everything about React Hooks in 10 Mins](https://dev.to/hy_piyush/learn-everything-about-react-hooks-in-10-mins-2fhb)
-- [Dev.to/JS] [Refresh Datatable Without Reloading Page In Laravel 9](https://dev.to/techsolutionstuff/refresh-datatable-without-reloading-page-in-laravel-9-2jkf)
-- [Dev.to/JS] [JavaScript Console Types and Tricks](https://dev.to/akashkumaravel/javascript-console-types-and-tricks-1lef)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
