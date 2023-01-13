@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Choose a Statement Chandelier That Isn’t Tacky](https://lifehacker.com/how-to-choose-a-statement-chandelier-that-isn-t-tacky-1849976287)
+- [Dev.to/JS] [Protect Your System from Install Scripts in npm packages](https://dev.to/danielp/protect-your-system-from-install-scripts-in-npm-packages-43ob)
+- [Lifehacker] [Seven iPhone Automations You Deserve to Make Life Easier](https://lifehacker.com/seven-iphone-automations-you-deserve-to-make-life-easie-1849969049)
+- [Dev.to/JS] [Master the Art of Making HTTP Requests with Javascript](https://dev.to/ikamran/master-the-art-of-making-http-requests-with-javascript-3nh1)
+- [Dev.to/JS] [Express vs Fastify | Qual é o melhor?](https://dev.to/devdoido/express-vs-fastify-qual-e-o-melhor-12kk)
+- [Dev.to/JS] [4 Steps to Prepare for System Design Interview in 2023?[with Resources]](https://dev.to/javinpaul/4-steps-to-prepare-for-system-design-interview-in-2023with-resources-dg5)
+- [Dev.to/JS] [Paracetamol.js💊| #197: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-197-explica-este-codigo-javascript-45oi)
 - [Lifehacker] [What to Do When You’re Blinded by Another Car’s High Beams](https://lifehacker.com/what-to-do-when-you-re-blinded-by-another-car-s-high-be-1849970220)
+- [Dev.to/JS] [times&lpar;n:number&rpar; in JS/TS.](https://dev.to/dnim/timesnnumber-in-jsts-5c5h)
 - [Dev.to/JS] [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-6ag)
 - [Dev.to/JS] [8 Must-Use VS Code Extensions For Web Developers😈](https://dev.to/arafat4693/8-must-use-vs-code-extensions-for-web-developers-39)
 - [Dev.to/JS] [How to paginated data in ant design table](https://dev.to/jahidulsaeid/how-to-paginated-data-in-ant-design-table-4cne)
 - [Dev.to/JS] [Custom Notification Template with JS](https://dev.to/shubhamtiwari909/custom-notification-template-with-js-5bc)
 - [Dev.to/JS] [How do you optimize code for performance?](https://dev.to/patildevendram/how-do-you-optimize-code-for-performance-2da7)
 - [Dev.to/JS] [8 Tools Every Web Developers Should Learn in 2023](https://dev.to/qmoniqs/8-tools-every-web-developers-should-learn-in-2023-1l08)
-- [Dev.to/JS] [How to rapidly build a basic RESTful API using ExpressJS](https://dev.to/efkumah/how-to-rapidly-build-a-basic-restful-api-using-expressjs-iho)
-- [Dev.to/JS] [You need to implement this email check](https://dev.to/harishteens/you-need-to-implement-this-email-check-nhp)
-- [Dev.to/JS] [What Is Roblox &lpar;Explained Roblox Game&rpar;](https://dev.to/jimmyydonaldsonn/what-is-roblox-explained-roblox-game-5cb2)
-- [Dev.to/JS] [GitHub Copilot discovered me something isn&#39;t documented](https://dev.to/manuartero/github-copilot-discovered-me-something-isnt-documented-1p6)
-- [Dev.to/JS] [Passwordless authentication for your website in 5 minutes!](https://dev.to/dagnelies/passwordless-authentication-for-your-website-in-5-minutes-1c31)
-- [Dev.to/JS] [Java Diploma Projects](https://dev.to/prakashreddy05/java-diploma-projects-3akb)
 - [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
 - [Lifehacker] [How to Destink Your Diaper Pail &lpar;and Keep It Destunk&rpar;](https://lifehacker.com/how-to-destink-your-diaper-pail-and-keep-it-destunk-1849975562)
 - [Lifehacker] [You Can Turn a Bag of Frozen Hash Browns Into a Pot of Soup](https://lifehacker.com/you-can-turn-a-bag-of-frozen-hash-browns-into-a-pot-of-1849975944)
-- [Lifehacker] [Standing Your PS5 Up Vertically Is Fine, Actually](https://lifehacker.com/standing-your-ps5-up-vertically-is-fine-actually-1849975426)
-- [Lifehacker] [Make Better Egg White Wraps With Roasted Red Peppers](https://lifehacker.com/make-better-egg-white-wraps-with-roasted-red-peppers-1849975927)
-- [Lifehacker] [Stop Spewing Ancient Aliens&#39; Racist Theories](https://lifehacker.com/stop-spewing-ancient-aliens-racist-theories-1849975831)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Standing Your PS5 Up Vertically Is Fine, Actually](https://lifehacker.com/standing-your-ps5-up-vertically-is-fine-actually-1849975426)<!-- TECH-POSTS:END -->
 
 ---
 
