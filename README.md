@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Tips, Tricks, and Features you Probably Don&#39;t Know](https://dev.to/jaredm/nextjs-tips-tricks-and-features-you-probably-dont-know-1oa5)
+- [Lifehacker] [Don’t Buy Apple’s iPhone Cases](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
+- [Dev.to/JS] [How To Stream A Video With NodeJS](https://dev.to/fredabod/how-to-stream-a-video-with-nodejs-58gn)
+- [Dev.to/JS] [RxJS Tutorial: Observables, Operators, and beyond](https://dev.to/educative/rxjs-tutorial-observables-operators-and-beyond-5717)
+- [Dev.to/JS] [How To Start An Educational Blog ?](https://dev.to/usmanmustafvi/how-to-start-an-educational-blog--3g4h)
+- [Lifehacker] [How to Get the Most Money Possible From a Canceled Flight](https://lifehacker.com/how-to-get-the-most-money-possible-from-a-canceled-flig-1849981717)
 - [Dev.to/JS] [Solidity Visibility State/Modifiers &lpar;Series - part 2&rpar;](https://dev.to/scofieldidehen/solidity-visibility-statemodifiers-series-part-2-2m9c)
 - [Dev.to/JS] [Brainwash yourself everyday to success!🧠😍](https://dev.to/evansifyke/brainwash-yourself-everyday-to-success-114p)
 - [Dev.to/JS] [Design Patterns in JavaScript](https://dev.to/thesanjeevsharma/design-patterns-in-javascript-3fmb)
@@ -35,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how to add zendesk chat widget in react js](https://dev.to/slimpython/how-to-add-zendesk-chat-widget-in-react-js-1jhm)
 - [Dev.to/JS] [Building a composable query generator for GraphQL](https://dev.to/aha/building-a-composable-query-generator-for-graphql-36mn)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
-- [Dev.to/JS] [Your headless CMS workflow doesn&#39;t have to suck](https://dev.to/builderio/your-headless-cms-workflow-doesnt-have-to-suck-2pi4)
 - [Lifehacker] [The Out-of-Touch Adult&#39;s Guide to Kid Culture: What&#39;s Going on With &#39;Dungeons &amp; Dragons&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-goi-1849982988)
-- [Dev.to/JS] [Github Code Brushes - VS Code Extension](https://dev.to/codingmoney/github-code-brushes-vs-code-extension-ml9)
 - [Lifehacker] [Use a Muffin Tin As a Big Ol&#39; Trivet](https://lifehacker.com/use-a-muffin-tin-as-a-big-ol-trivet-1849980930)
-- [Dev.to/JS] [Next Experience: Record Watchers](https://dev.to/quixomatic/next-experience-record-watchers-275p)
-- [Dev.to/JS] [How I solved my async await vs .then syntax confusion.](https://dev.to/stevepurpose/how-i-solved-my-async-await-vs-then-syntax-confusion-4nid)
 - [Lifehacker] [The Easiest Way to Twist Homemade Pretzels](https://lifehacker.com/the-easiest-way-to-twist-homemade-pretzels-1849981457)
 - [Lifehacker] [How to Tell If You Got a ‘Quiet Promotion’ &lpar;and Why That’s Not a Good Thing&rpar;](https://lifehacker.com/how-to-tell-if-you-got-a-quiet-promotion-and-why-tha-1849980890)
 - [Lifehacker] [Maybe Your Divorce Deserves a Party](https://lifehacker.com/maybe-your-divorce-deserves-a-party-1849977489)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 of the Best Home Improvement Shows &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)
 - [Lifehacker] [You Can Use Apple AirPlay to Stream From a Windows PC Too](https://lifehacker.com/you-can-use-apple-airplay-to-stream-from-a-windows-pc-t-1849978309)
 - [Lifehacker] [You Can Turn Any Beverage Into Cake Icing](https://lifehacker.com/you-can-turn-any-beverage-into-cake-icing-1849976961)
-- [Lifehacker] [How to Spot the International Space Station in the Sky](https://lifehacker.com/how-to-spot-the-international-space-station-in-the-sky-1849978203)
-- [Lifehacker] [20 Actually Great Movies Unceremoniously Dumped in January](https://lifehacker.com/20-actually-great-movies-unceremoniously-dumped-in-janu-1849970338)
-- [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot the International Space Station in the Sky](https://lifehacker.com/how-to-spot-the-international-space-station-in-the-sky-1849978203)<!-- TECH-POSTS:END -->
 
 ---
 
