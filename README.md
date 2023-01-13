@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
+- [Dev.to/JS] [All the Ways to Remove an Item from an Array](https://dev.to/mohsenkamrani/all-the-ways-to-remove-an-item-from-an-array-1m60)
+- [Dev.to/JS] [Cap V: Atreverse a eliminar lo implementado, El libro negro del programador.](https://dev.to/duxtech/cap-v-atreverse-a-eliminar-lo-implementado-el-libro-negro-del-programador-4h02)
+- [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
+- [Dev.to/JS] [The Dark side of Decentralized Apps: Is Your Data actually Yours, is it Secure?](https://dev.to/zenodavids/the-dark-side-of-decentralized-apps-is-your-data-actually-yours-is-it-secure-4kmi)
 - [Lifehacker] [This App Uses AI to Generate Custom Playlists](https://lifehacker.com/this-app-uses-ai-to-generate-custom-playlists-1849983912)
 - [Lifehacker] [12 Killer Supersets to Add to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
 - [Dev.to/JS] [Comparing Vue.js and React.js key aspects](https://dev.to/kboskin/comparing-vuejs-and-reactjs-key-aspects-1d43)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Design Patterns in JavaScript](https://dev.to/thesanjeevsharma/design-patterns-in-javascript-3fmb)
 - [Lifehacker] [Why Antibiotics Don&#39;t Work on Colds](https://lifehacker.com/why-antibiotics-dont-work-on-colds-1849981989)
 - [Lifehacker] [Electric Stoves Are Good, Actually](https://lifehacker.com/electric-stoves-are-good-actually-1849981561)
-- [Dev.to/JS] [Make your JavaScript code more efficient, readable, and maintainable.&lpar;Part 2&rpar;](https://dev.to/malikhaziq/make-your-javascript-code-more-efficient-readable-and-maintainablepart-2-1n8k)
-- [Dev.to/JS] [How to Create a Dynamic Routing using the Params&lpar;&rpar; in ReactJS?](https://dev.to/raynecoder/how-to-create-a-dynamic-routing-using-the-params-in-reactjs-61k)
 - [Lifehacker] [13 of Best TV Rewatch Podcasts](https://lifehacker.com/13-of-best-tv-rewatch-podcasts-1849977332)
-- [Dev.to/JS] [How I try to build my portfolio with three.js and the help of AI](https://dev.to/nevoo/how-i-try-to-build-my-portfolio-with-threejs-and-the-help-of-ai-4cgf)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
 - [Lifehacker] [The Out-of-Touch Adult&#39;s Guide to Kid Culture: What&#39;s Going on With &#39;Dungeons &amp; Dragons&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-goi-1849982988)
 - [Lifehacker] [Use a Muffin Tin As a Big Ol&#39; Trivet](https://lifehacker.com/use-a-muffin-tin-as-a-big-ol-trivet-1849980930)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do This When Your Device Won’t Charge](https://lifehacker.com/do-this-when-your-device-won-t-charge-1849980760)
 - [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)
 - [Lifehacker] [How to Back Up Your Gmails to Avoid Paying for Storage](https://lifehacker.com/how-to-back-up-your-gmails-to-avoid-paying-for-storage-1849979762)
-- [Lifehacker] [How to Fix a Sticky Lock Without Calling a Locksmith](https://lifehacker.com/how-to-fix-a-sticky-lock-without-calling-a-locksmith-1849978387)
-- [Lifehacker] [How to Keep Your Gym Gear From Stinking](https://lifehacker.com/how-to-keep-your-gym-gear-from-stinking-1849979797)
-- [Lifehacker] [11 of the Best Home Improvement Shows &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fix a Sticky Lock Without Calling a Locksmith](https://lifehacker.com/how-to-fix-a-sticky-lock-without-calling-a-locksmith-1849978387)<!-- TECH-POSTS:END -->
 
 ---
 
