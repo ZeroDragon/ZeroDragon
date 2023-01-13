@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solidity Visibility State/Modifiers &lpar;Series - part 2&rpar;](https://dev.to/scofieldidehen/solidity-visibility-statemodifiers-series-part-2-2m9c)
+- [Dev.to/JS] [Brainwash yourself everyday to success!🧠😍](https://dev.to/evansifyke/brainwash-yourself-everyday-to-success-114p)
+- [Dev.to/JS] [Design Patterns in JavaScript](https://dev.to/thesanjeevsharma/design-patterns-in-javascript-3fmb)
+- [Lifehacker] [Why Antibiotics Don&#39;t Work on Colds](https://lifehacker.com/why-antibiotics-dont-work-on-colds-1849981989)
+- [Lifehacker] [Electric Stoves Are Good, Actually](https://lifehacker.com/electric-stoves-are-good-actually-1849981561)
 - [Dev.to/JS] [Make your JavaScript code more efficient, readable, and maintainable.&lpar;Part 2&rpar;](https://dev.to/malikhaziq/make-your-javascript-code-more-efficient-readable-and-maintainablepart-2-1n8k)
 - [Dev.to/JS] [How to Create a Dynamic Routing using the Params&lpar;&rpar; in ReactJS?](https://dev.to/raynecoder/how-to-create-a-dynamic-routing-using-the-params-in-reactjs-61k)
 - [Lifehacker] [13 of Best TV Rewatch Podcasts](https://lifehacker.com/13-of-best-tv-rewatch-podcasts-1849977332)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a Muffin Tin As a Big Ol&#39; Trivet](https://lifehacker.com/use-a-muffin-tin-as-a-big-ol-trivet-1849980930)
 - [Dev.to/JS] [Next Experience: Record Watchers](https://dev.to/quixomatic/next-experience-record-watchers-275p)
 - [Dev.to/JS] [How I solved my async await vs .then syntax confusion.](https://dev.to/stevepurpose/how-i-solved-my-async-await-vs-then-syntax-confusion-4nid)
-- [Dev.to/JS] [Build a Full Stack Translation Web App Using React JS, ExpressJS, TypeScript &lpar;Part 1&rpar; | Free Video](https://dev.to/jochen/build-a-full-stack-translation-web-app-using-react-js-expressjs-typescript-part-1-free-video-1og)
 - [Lifehacker] [The Easiest Way to Twist Homemade Pretzels](https://lifehacker.com/the-easiest-way-to-twist-homemade-pretzels-1849981457)
-- [Dev.to/JS] [How to manipulate text strings in java script](https://dev.to/imsan/how-to-manipulate-text-strings-in-java-script-2epm)
-- [Dev.to/JS] [Vue Theme - Theme for Visual Studio Code](https://dev.to/mariorodeghiero/vue-theme-theme-for-visual-studio-code-2bnb)
 - [Lifehacker] [How to Tell If You Got a ‘Quiet Promotion’ &lpar;and Why That’s Not a Good Thing&rpar;](https://lifehacker.com/how-to-tell-if-you-got-a-quiet-promotion-and-why-tha-1849980890)
 - [Lifehacker] [Maybe Your Divorce Deserves a Party](https://lifehacker.com/maybe-your-divorce-deserves-a-party-1849977489)
 - [Lifehacker] [How to Choose a Statement Chandelier That Isn’t Tacky](https://lifehacker.com/how-to-choose-a-statement-chandelier-that-isn-t-tacky-1849976287)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Turn Any Beverage Into Cake Icing](https://lifehacker.com/you-can-turn-any-beverage-into-cake-icing-1849976961)
 - [Lifehacker] [How to Spot the International Space Station in the Sky](https://lifehacker.com/how-to-spot-the-international-space-station-in-the-sky-1849978203)
 - [Lifehacker] [20 Actually Great Movies Unceremoniously Dumped in January](https://lifehacker.com/20-actually-great-movies-unceremoniously-dumped-in-janu-1849970338)
-- [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)
-- [Lifehacker] [You Can Get Free Wendy&#39;s French Fries for a Week](https://lifehacker.com/you-can-get-free-wendys-french-fries-for-a-week-1849977152)
-- [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)<!-- TECH-POSTS:END -->
 
 ---
 
