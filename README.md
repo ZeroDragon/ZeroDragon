@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
+- [Dev.to/JS] [Your headless CMS workflow doesn&#39;t have to suck](https://dev.to/builderio/your-headless-cms-workflow-doesnt-have-to-suck-2pi4)
+- [Lifehacker] [The Out-of-Touch Adult&#39;s Guide to Kid Culture: What&#39;s Going on With Dungeons &amp; Dragons?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-goi-1849982988)
+- [Dev.to/JS] [Github Code Brushes - VS Code Extension](https://dev.to/codingmoney/github-code-brushes-vs-code-extension-ml9)
 - [Lifehacker] [Use a Muffin Tin As a Big Ol&#39; Trivet](https://lifehacker.com/use-a-muffin-tin-as-a-big-ol-trivet-1849980930)
 - [Dev.to/JS] [Next Experience: Record Watchers](https://dev.to/quixomatic/next-experience-record-watchers-275p)
 - [Dev.to/JS] [How I solved my async await vs .then syntax confusion.](https://dev.to/stevepurpose/how-i-solved-my-async-await-vs-then-syntax-confusion-4nid)
@@ -38,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [EPHELOG](https://dev.to/asherms/ephelog-3pp)
 - [Dev.to/JS] [Maximizing the Power of Child Processes in Node.js: Real-world Examples](https://dev.to/ayka_code/maximizing-the-power-of-child-processes-in-nodejs-real-world-examples-1954)
 - [Lifehacker] [How to Choose a Statement Chandelier That Isn’t Tacky](https://lifehacker.com/how-to-choose-a-statement-chandelier-that-isn-t-tacky-1849976287)
-- [Dev.to/JS] [Protect Your System from Install Scripts in npm packages](https://dev.to/danielp/protect-your-system-from-install-scripts-in-npm-packages-43ob)
 - [Lifehacker] [Seven iPhone Automations You Deserve to Make Life Easier](https://lifehacker.com/seven-iphone-automations-you-deserve-to-make-life-easie-1849969049)
-- [Dev.to/JS] [Master the Art of Making HTTP Requests with Javascript](https://dev.to/ikamran/master-the-art-of-making-http-requests-with-javascript-3nh1)
 - [Lifehacker] [What to Do When You’re Blinded by Another Car’s High Beams](https://lifehacker.com/what-to-do-when-you-re-blinded-by-another-car-s-high-be-1849970220)
 - [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)
 - [Lifehacker] [You Can Get Free Wendy&#39;s French Fries for a Week](https://lifehacker.com/you-can-get-free-wendys-french-fries-for-a-week-1849977152)
 - [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)
-- [Lifehacker] [The 7 Deadly Sins of Attending a Music Festival](https://lifehacker.com/the-7-deadly-sins-of-attending-a-music-festival-1849977106)
-- [Lifehacker] [Use These Tactics to Get the Best Deal on a Gym Membership This Month](https://lifehacker.com/use-these-tactics-to-get-the-best-deal-on-a-gym-members-1849976904)
-- [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Attending a Music Festival](https://lifehacker.com/the-7-deadly-sins-of-attending-a-music-festival-1849977106)<!-- TECH-POSTS:END -->
 
 ---
 
