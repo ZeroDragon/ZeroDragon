@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
+- [Dev.to/JS] [Writing Cleaner JavaScript with Modules](https://dev.to/honeybadger/writing-cleaner-javascript-with-modules-an)
+- [Dev.to/JS] [Types of Solidity Storage](https://dev.to/scofieldidehen/types-of-solidity-storage-59bg)
 - [Dev.to/JS] [How to create API Documentation?](https://dev.to/devsimc/how-to-create-api-documentation-jfh)
 - [Dev.to/JS] [animation in box](https://dev.to/nagvanshi9275/animation-in-box-3h0)
 - [Dev.to/JS] [AI and Software Professionals : A Match Made in Tech Heaven](https://dev.to/lakincoder/-53kk)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Everything about React Hooks in 10 Mins](https://dev.to/hy_piyush/learn-everything-about-react-hooks-in-10-mins-2fhb)
 - [Dev.to/JS] [Refresh Datatable Without Reloading Page In Laravel 9](https://dev.to/techsolutionstuff/refresh-datatable-without-reloading-page-in-laravel-9-2jkf)
 - [Dev.to/JS] [JavaScript Console Types and Tricks](https://dev.to/akashkumaravel/javascript-console-types-and-tricks-1lef)
-- [Dev.to/JS] [How To Link HTML CSS And JavaScript?](https://dev.to/ekmarc/how-to-link-html-css-and-javascript-3od5)
-- [Dev.to/JS] [The Most important Aspects of Learning to Code](https://dev.to/shannondenton/the-most-important-aspects-of-learning-to-code-2i32)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Standing Your PS5 Up Vertically Is Fine, Actually](https://lifehacker.com/standing-your-ps5-up-vertically-is-fine-actually-1849975426)
 - [Lifehacker] [Make Better Egg White Wraps With Roasted Red Peppers](https://lifehacker.com/make-better-egg-white-wraps-with-roasted-red-peppers-1849975927)
 - [Lifehacker] [Stop Spewing Ancient Aliens&#39; Racist Theories](https://lifehacker.com/stop-spewing-ancient-aliens-racist-theories-1849975831)
-- [Lifehacker] [How to Approximate Long-Exposure Photos on Your iPhone](https://lifehacker.com/how-to-approximate-long-exposure-photos-on-your-iphone-1849974985)
-- [Lifehacker] [Take Samsung&#39;s Money](https://lifehacker.com/take-samsungs-money-1849974910)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Approximate Long-Exposure Photos on Your iPhone](https://lifehacker.com/how-to-approximate-long-exposure-photos-on-your-iphone-1849974985)<!-- TECH-POSTS:END -->
 
 ---
 
