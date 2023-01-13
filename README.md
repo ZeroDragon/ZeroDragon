@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Get Duplicate Object From Array in JavaScript?](https://dev.to/patelrohan750/how-to-get-duplicate-object-from-array-in-javascript-1656)
+- [Dev.to/JS] [Computing Fibonacci Sequence in JavaScript](https://dev.to/patelrohan750/computing-fibonacci-sequence-in-javascript-5gld)
+- [Dev.to/JS] [Learn Everything about React Hooks in 10 Mins](https://dev.to/hy_piyush/learn-everything-about-react-hooks-in-10-mins-2fhb)
+- [Dev.to/JS] [Refresh Datatable Without Reloading Page In Laravel 9](https://dev.to/techsolutionstuff/refresh-datatable-without-reloading-page-in-laravel-9-2jkf)
 - [Dev.to/JS] [JavaScript Console Types and Tricks](https://dev.to/akashkumaravel/javascript-console-types-and-tricks-1lef)
 - [Dev.to/JS] [How To Link HTML CSS And JavaScript?](https://dev.to/ekmarc/how-to-link-html-css-and-javascript-3od5)
 - [Dev.to/JS] [The Most important Aspects of Learning to Code](https://dev.to/shannondenton/the-most-important-aspects-of-learning-to-code-2i32)
@@ -31,13 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Layr v2 Is Out, but You May Never Use It](https://dev.to/mvila/layr-v2-is-out-but-you-may-never-use-it-34ja)
 - [Dev.to/JS] [Portfolio Website Inspired by VS Code](https://dev.to/lotfijb/portfolio-website-inspired-by-vs-code-103k)
 - [Dev.to/JS] [LeetCode #9 Palindrome Number with JavaScript](https://dev.to/masaki82/leetcode-9-palindrome-number-with-javascript-3llg)
-- [Dev.to/JS] [Front End Development](https://dev.to/mataoseeker/front-end-development-1697)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
-- [Dev.to/JS] [✨ Day 1 of the #100DaysofCode challenge ✨](https://dev.to/shhiru/day-1-of-the-100daysofcode-challenge-4g2a)
-- [Dev.to/JS] [Can I examine C++ as a beginner?](https://dev.to/ali543/can-i-examine-c-as-a-beginner-4pb7)
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
-- [Dev.to/JS] [Yet another post about SolidJS vs React](https://dev.to/binarykoan/yet-another-post-about-solidjs-vs-react-3i1a)
 - [Lifehacker] [You Should Cook Oatmeal in a Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-a-cup-of-tea-1849980924)
 - [Lifehacker] [Do This When Your Device Won’t Charge](https://lifehacker.com/do-this-when-your-device-won-t-charge-1849980760)
 - [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)
