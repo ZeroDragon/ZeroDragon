@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Most important Aspects of Learning to Code](https://dev.to/shannondenton/the-most-important-aspects-of-learning-to-code-2i32)
+- [Dev.to/JS] [Some Websites for hosting and fetching JSON](https://dev.to/darkxenium/some-websites-for-hosting-and-fetching-json-58c6)
 - [Dev.to/JS] [How to Create an Astro Search component 🔍🤔](https://dev.to/danidiaztech/how-to-create-an-astro-search-component-2731)
 - [Dev.to/JS] [Layr v2 Is Out, but You May Never Use It](https://dev.to/mvila/layr-v2-is-out-but-you-may-never-use-it-34ja)
 - [Dev.to/JS] [Portfolio Website Inspired by VS Code](https://dev.to/lotfijb/portfolio-website-inspired-by-vs-code-103k)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Non-Blockchain Dapps](https://dev.to/isommie/non-blockchain-dapps-86p)
 - [Lifehacker] [Do This When Your Device Won’t Charge](https://lifehacker.com/do-this-when-your-device-won-t-charge-1849980760)
 - [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)
-- [Dev.to/JS] [Primeiro FrontEnd](https://dev.to/isaacdel23/primeiro-frontend-gbf)
-- [Dev.to/JS] [Give me some advice, which Reacts open-source project is suitable to contribute for intermediate React developers?](https://dev.to/fpaghar/give-me-some-advice-which-reacts-open-source-project-is-suitable-to-contribute-for-intermediate-react-developers-4d1m)
 - [Lifehacker] [How to Back Up Your Gmails to Avoid Paying for Storage](https://lifehacker.com/how-to-back-up-your-gmails-to-avoid-paying-for-storage-1849979762)
 - [Lifehacker] [How to Fix a Sticky Lock Without Calling a Locksmith](https://lifehacker.com/how-to-fix-a-sticky-lock-without-calling-a-locksmith-1849978387)
 - [Lifehacker] [How to Keep Your Gym Gear From Stinking](https://lifehacker.com/how-to-keep-your-gym-gear-from-stinking-1849979797)
