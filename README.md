@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to paginated data in ant design table](https://dev.to/jahidulsaeid/how-to-paginated-data-in-ant-design-table-4cne)
+- [Dev.to/JS] [Custom Notification Template with JS](https://dev.to/shubhamtiwari909/custom-notification-template-with-js-5bc)
 - [Dev.to/JS] [How do you optimize code for performance?](https://dev.to/patildevendram/how-do-you-optimize-code-for-performance-2da7)
 - [Dev.to/JS] [8 Tools Every Web Developers Should Learn in 2023](https://dev.to/qmoniqs/8-tools-every-web-developers-should-learn-in-2023-1l08)
 - [Dev.to/JS] [How to rapidly build a basic RESTful API using ExpressJS](https://dev.to/efkumah/how-to-rapidly-build-a-basic-restful-api-using-expressjs-iho)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Java Diploma Projects](https://dev.to/prakashreddy05/java-diploma-projects-3akb)
 - [Dev.to/JS] [✨UseState vs UseReducer in React](https://dev.to/ahmedgmurtaza/usecases-for-usestate-vs-usereducer-in-react-43o9)
 - [Dev.to/JS] [Longest Path With Different Adjacent Characters](https://dev.to/zeeshanali0704/longest-path-with-different-adjacent-characters-539p)
-- [Dev.to/JS] [How to import and export in CommonJS and ES Modules](https://dev.to/lico/how-to-import-and-export-in-commonjs-and-es-modules-43m1)
-- [Dev.to/JS] [Spread operator in JavaScript VS Python.](https://dev.to/extinctsion/spread-operator-in-javascript-vs-python-1h7i)
 - [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
