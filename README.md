@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This App Uses AI to Generate Custom Playlists](https://lifehacker.com/this-app-uses-ai-to-generate-custom-playlists-1849983912)
+- [Lifehacker] [12 Killer Supersets to Add to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
+- [Dev.to/JS] [Comparing Vue.js and React.js key aspects](https://dev.to/kboskin/comparing-vuejs-and-reactjs-key-aspects-1d43)
+- [Dev.to/JS] [Entendendo e utilizando Coleções Codificadas &lpar;Keyed Collections&rpar; em JavaScript](https://dev.to/altencirsilvajr/entendendo-e-utilizando-colecoes-codificadas-keyed-collections-em-javascript-2mc)
+- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Date Someone Newly Single](https://lifehacker.com/when-you-should-and-shouldnt-date-someone-newly-singl-1849982790)
 - [Dev.to/JS] [Next.js Tips, Tricks, and Features you Probably Don&#39;t Know](https://dev.to/jaredm/nextjs-tips-tricks-and-features-you-probably-dont-know-1oa5)
 - [Lifehacker] [Don’t Buy Apple’s iPhone Cases](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
 - [Dev.to/JS] [How To Stream A Video With NodeJS](https://dev.to/fredabod/how-to-stream-a-video-with-nodejs-58gn)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a Dynamic Routing using the Params&lpar;&rpar; in ReactJS?](https://dev.to/raynecoder/how-to-create-a-dynamic-routing-using-the-params-in-reactjs-61k)
 - [Lifehacker] [13 of Best TV Rewatch Podcasts](https://lifehacker.com/13-of-best-tv-rewatch-podcasts-1849977332)
 - [Dev.to/JS] [How I try to build my portfolio with three.js and the help of AI](https://dev.to/nevoo/how-i-try-to-build-my-portfolio-with-threejs-and-the-help-of-ai-4cgf)
-- [Dev.to/JS] [how to add zendesk chat widget in react js](https://dev.to/slimpython/how-to-add-zendesk-chat-widget-in-react-js-1jhm)
-- [Dev.to/JS] [Building a composable query generator for GraphQL](https://dev.to/aha/building-a-composable-query-generator-for-graphql-36mn)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
 - [Lifehacker] [The Out-of-Touch Adult&#39;s Guide to Kid Culture: What&#39;s Going on With &#39;Dungeons &amp; Dragons&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-goi-1849982988)
 - [Lifehacker] [Use a Muffin Tin As a Big Ol&#39; Trivet](https://lifehacker.com/use-a-muffin-tin-as-a-big-ol-trivet-1849980930)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Back Up Your Gmails to Avoid Paying for Storage](https://lifehacker.com/how-to-back-up-your-gmails-to-avoid-paying-for-storage-1849979762)
 - [Lifehacker] [How to Fix a Sticky Lock Without Calling a Locksmith](https://lifehacker.com/how-to-fix-a-sticky-lock-without-calling-a-locksmith-1849978387)
 - [Lifehacker] [How to Keep Your Gym Gear From Stinking](https://lifehacker.com/how-to-keep-your-gym-gear-from-stinking-1849979797)
-- [Lifehacker] [11 of the Best Home Improvement Shows &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)
-- [Lifehacker] [You Can Use Apple AirPlay to Stream From a Windows PC Too](https://lifehacker.com/you-can-use-apple-airplay-to-stream-from-a-windows-pc-t-1849978309)
-- [Lifehacker] [You Can Turn Any Beverage Into Cake Icing](https://lifehacker.com/you-can-turn-any-beverage-into-cake-icing-1849976961)
-- [Lifehacker] [How to Spot the International Space Station in the Sky](https://lifehacker.com/how-to-spot-the-international-space-station-in-the-sky-1849978203)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 of the Best Home Improvement Shows &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)<!-- TECH-POSTS:END -->
 
 ---
 
