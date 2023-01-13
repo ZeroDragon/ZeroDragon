@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When You’re Blinded by Another Car’s High Beams](https://lifehacker.com/what-to-do-when-you-re-blinded-by-another-car-s-high-be-1849970220)
+- [Dev.to/JS] [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-6ag)
+- [Dev.to/JS] [8 Must-Use VS Code Extensions For Web Developers😈](https://dev.to/arafat4693/8-must-use-vs-code-extensions-for-web-developers-39)
 - [Dev.to/JS] [How to paginated data in ant design table](https://dev.to/jahidulsaeid/how-to-paginated-data-in-ant-design-table-4cne)
 - [Dev.to/JS] [Custom Notification Template with JS](https://dev.to/shubhamtiwari909/custom-notification-template-with-js-5bc)
 - [Dev.to/JS] [How do you optimize code for performance?](https://dev.to/patildevendram/how-do-you-optimize-code-for-performance-2da7)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GitHub Copilot discovered me something isn&#39;t documented](https://dev.to/manuartero/github-copilot-discovered-me-something-isnt-documented-1p6)
 - [Dev.to/JS] [Passwordless authentication for your website in 5 minutes!](https://dev.to/dagnelies/passwordless-authentication-for-your-website-in-5-minutes-1c31)
 - [Dev.to/JS] [Java Diploma Projects](https://dev.to/prakashreddy05/java-diploma-projects-3akb)
-- [Dev.to/JS] [✨UseState vs UseReducer in React](https://dev.to/ahmedgmurtaza/usecases-for-usestate-vs-usereducer-in-react-43o9)
-- [Dev.to/JS] [Longest Path With Different Adjacent Characters](https://dev.to/zeeshanali0704/longest-path-with-different-adjacent-characters-539p)
 - [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Turn a Bag of Frozen Hash Browns Into a Pot of Soup](https://lifehacker.com/you-can-turn-a-bag-of-frozen-hash-browns-into-a-pot-of-1849975944)
 - [Lifehacker] [Standing Your PS5 Up Vertically Is Fine, Actually](https://lifehacker.com/standing-your-ps5-up-vertically-is-fine-actually-1849975426)
 - [Lifehacker] [Make Better Egg White Wraps With Roasted Red Peppers](https://lifehacker.com/make-better-egg-white-wraps-with-roasted-red-peppers-1849975927)
-- [Lifehacker] [Stop Spewing Ancient Aliens&#39; Racist Theories](https://lifehacker.com/stop-spewing-ancient-aliens-racist-theories-1849975831)
-- [Lifehacker] [How to Approximate Long-Exposure Photos on Your iPhone](https://lifehacker.com/how-to-approximate-long-exposure-photos-on-your-iphone-1849974985)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Spewing Ancient Aliens&#39; Racist Theories](https://lifehacker.com/stop-spewing-ancient-aliens-racist-theories-1849975831)<!-- TECH-POSTS:END -->
 
 ---
 
