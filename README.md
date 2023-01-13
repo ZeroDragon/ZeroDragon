@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create an Astro Search component 🔍🤔](https://dev.to/danidiaztech/how-to-create-an-astro-search-component-2731)
+- [Dev.to/JS] [Layr v2 Is Out, but You May Never Use It](https://dev.to/mvila/layr-v2-is-out-but-you-may-never-use-it-34ja)
 - [Dev.to/JS] [Portfolio Website Inspired by VS Code](https://dev.to/lotfijb/portfolio-website-inspired-by-vs-code-103k)
 - [Dev.to/JS] [LeetCode #9 Palindrome Number with JavaScript](https://dev.to/masaki82/leetcode-9-palindrome-number-with-javascript-3llg)
 - [Dev.to/JS] [Front End Development](https://dev.to/mataoseeker/front-end-development-1697)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)
 - [Dev.to/JS] [Primeiro FrontEnd](https://dev.to/isaacdel23/primeiro-frontend-gbf)
 - [Dev.to/JS] [Give me some advice, which Reacts open-source project is suitable to contribute for intermediate React developers?](https://dev.to/fpaghar/give-me-some-advice-which-reacts-open-source-project-is-suitable-to-contribute-for-intermediate-react-developers-4d1m)
-- [Dev.to/JS] [Middlewares with Nuxt 3](https://dev.to/guillaumeduhan/middlewares-with-nuxt-3-1581)
 - [Lifehacker] [How to Back Up Your Gmails to Avoid Paying for Storage](https://lifehacker.com/how-to-back-up-your-gmails-to-avoid-paying-for-storage-1849979762)
-- [Dev.to/JS] [Using async-await with arr.map&lpar;&rpar;](https://dev.to/satejbidvai/using-async-await-with-arrmap-587f)
 - [Lifehacker] [How to Fix a Sticky Lock Without Calling a Locksmith](https://lifehacker.com/how-to-fix-a-sticky-lock-without-calling-a-locksmith-1849978387)
 - [Lifehacker] [How to Keep Your Gym Gear From Stinking](https://lifehacker.com/how-to-keep-your-gym-gear-from-stinking-1849979797)
 - [Lifehacker] [11 of the Best Home Improvement Shows &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)
