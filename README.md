@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Portfolio Website Inspired by VS Code](https://dev.to/lotfijb/portfolio-website-inspired-by-vs-code-103k)
+- [Dev.to/JS] [LeetCode #9 Palindrome Number with JavaScript](https://dev.to/masaki82/leetcode-9-palindrome-number-with-javascript-3llg)
 - [Dev.to/JS] [Front End Development](https://dev.to/mataoseeker/front-end-development-1697)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Back Up Your Gmails to Avoid Paying for Storage](https://lifehacker.com/how-to-back-up-your-gmails-to-avoid-paying-for-storage-1849979762)
 - [Dev.to/JS] [Using async-await with arr.map&lpar;&rpar;](https://dev.to/satejbidvai/using-async-await-with-arrmap-587f)
 - [Lifehacker] [How to Fix a Sticky Lock Without Calling a Locksmith](https://lifehacker.com/how-to-fix-a-sticky-lock-without-calling-a-locksmith-1849978387)
-- [Dev.to/JS] [Higher Order Functions](https://dev.to/itsbrotherdan/higher-order-functions-3di0)
-- [Dev.to/JS] [Setup Google Analytics with Next.js &lpar;4 easy steps&rpar;](https://dev.to/acidop/setup-google-analytics-with-nextjs-4-easy-steps-3140)
 - [Lifehacker] [How to Keep Your Gym Gear From Stinking](https://lifehacker.com/how-to-keep-your-gym-gear-from-stinking-1849979797)
 - [Lifehacker] [11 of the Best Home Improvement Shows &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/11-of-the-best-home-improvement-shows-and-where-to-str-1849978367)
 - [Lifehacker] [You Can Use Apple AirPlay to Stream From a Windows PC Too](https://lifehacker.com/you-can-use-apple-airplay-to-stream-from-a-windows-pc-t-1849978309)
