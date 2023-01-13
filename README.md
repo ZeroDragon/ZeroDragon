@@ -23,9 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make your JavaScript code more efficient, readable, and maintainable.&lpar;Part 2&rpar;](https://dev.to/malikhaziq/make-your-javascript-code-more-efficient-readable-and-maintainablepart-2-1n8k)
+- [Dev.to/JS] [How to Create a Dynamic Routing using the Params&lpar;&rpar; in ReactJS?](https://dev.to/raynecoder/how-to-create-a-dynamic-routing-using-the-params-in-reactjs-61k)
+- [Lifehacker] [13 of Best TV Rewatch Podcasts](https://lifehacker.com/13-of-best-tv-rewatch-podcasts-1849977332)
+- [Dev.to/JS] [How I try to build my portfolio with three.js and the help of AI](https://dev.to/nevoo/how-i-try-to-build-my-portfolio-with-threejs-and-the-help-of-ai-4cgf)
+- [Dev.to/JS] [how to add zendesk chat widget in react js](https://dev.to/slimpython/how-to-add-zendesk-chat-widget-in-react-js-1jhm)
+- [Dev.to/JS] [Building a composable query generator for GraphQL](https://dev.to/aha/building-a-composable-query-generator-for-graphql-36mn)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
 - [Dev.to/JS] [Your headless CMS workflow doesn&#39;t have to suck](https://dev.to/builderio/your-headless-cms-workflow-doesnt-have-to-suck-2pi4)
-- [Lifehacker] [The Out-of-Touch Adult&#39;s Guide to Kid Culture: What&#39;s Going on With Dungeons &amp; Dragons?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-goi-1849982988)
+- [Lifehacker] [The Out-of-Touch Adult&#39;s Guide to Kid Culture: What&#39;s Going on With &#39;Dungeons &amp; Dragons&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-goi-1849982988)
 - [Dev.to/JS] [Github Code Brushes - VS Code Extension](https://dev.to/codingmoney/github-code-brushes-vs-code-extension-ml9)
 - [Lifehacker] [Use a Muffin Tin As a Big Ol&#39; Trivet](https://lifehacker.com/use-a-muffin-tin-as-a-big-ol-trivet-1849980930)
 - [Dev.to/JS] [Next Experience: Record Watchers](https://dev.to/quixomatic/next-experience-record-watchers-275p)
@@ -34,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Twist Homemade Pretzels](https://lifehacker.com/the-easiest-way-to-twist-homemade-pretzels-1849981457)
 - [Dev.to/JS] [How to manipulate text strings in java script](https://dev.to/imsan/how-to-manipulate-text-strings-in-java-script-2epm)
 - [Dev.to/JS] [Vue Theme - Theme for Visual Studio Code](https://dev.to/mariorodeghiero/vue-theme-theme-for-visual-studio-code-2bnb)
-- [Dev.to/JS] [5 GitHub Repositories That Will Make Your Life Easier](https://dev.to/onlydevs_/5-github-repositories-that-will-make-your-life-easier-l0j)
-- [Dev.to/JS] [Unlocking the Power of Polymorphism in JavaScript: A Deep Dive](https://dev.to/rahxuls/unlocking-the-power-of-polymorphism-in-javascript-a-deep-dive-5ebc)
 - [Lifehacker] [How to Tell If You Got a ‘Quiet Promotion’ &lpar;and Why That’s Not a Good Thing&rpar;](https://lifehacker.com/how-to-tell-if-you-got-a-quiet-promotion-and-why-tha-1849980890)
-- [Dev.to/JS] [Liskov Substitution Principle in React](https://dev.to/zahidhasan24/liskov-substitution-principle-in-react-1185)
 - [Lifehacker] [Maybe Your Divorce Deserves a Party](https://lifehacker.com/maybe-your-divorce-deserves-a-party-1849977489)
-- [Dev.to/JS] [EPHELOG](https://dev.to/asherms/ephelog-3pp)
-- [Dev.to/JS] [Maximizing the Power of Child Processes in Node.js: Real-world Examples](https://dev.to/ayka_code/maximizing-the-power-of-child-processes-in-nodejs-real-world-examples-1954)
 - [Lifehacker] [How to Choose a Statement Chandelier That Isn’t Tacky](https://lifehacker.com/how-to-choose-a-statement-chandelier-that-isn-t-tacky-1849976287)
 - [Lifehacker] [Seven iPhone Automations You Deserve to Make Life Easier](https://lifehacker.com/seven-iphone-automations-you-deserve-to-make-life-easie-1849969049)
 - [Lifehacker] [What to Do When You’re Blinded by Another Car’s High Beams](https://lifehacker.com/what-to-do-when-you-re-blinded-by-another-car-s-high-be-1849970220)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 Actually Great Movies Unceremoniously Dumped in January](https://lifehacker.com/20-actually-great-movies-unceremoniously-dumped-in-janu-1849970338)
 - [Lifehacker] [Your Freezer Needs an Ice Bag](https://lifehacker.com/your-freezer-needs-an-ice-bag-1849977432)
 - [Lifehacker] [You Can Get Free Wendy&#39;s French Fries for a Week](https://lifehacker.com/you-can-get-free-wendys-french-fries-for-a-week-1849977152)
-- [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)
-- [Lifehacker] [The 7 Deadly Sins of Attending a Music Festival](https://lifehacker.com/the-7-deadly-sins-of-attending-a-music-festival-1849977106)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Into Position for a Goblet Squat With a Heavy Kettlebell](https://lifehacker.com/how-to-get-into-position-for-a-goblet-squat-with-a-heav-1849976206)<!-- TECH-POSTS:END -->
 
 ---
 
