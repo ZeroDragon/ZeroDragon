@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Liskov Substitution Principle in React](https://dev.to/zahidhasan24/liskov-substitution-principle-in-react-1185)
+- [Lifehacker] [Maybe Your Divorce Deserves a Party](https://lifehacker.com/maybe-your-divorce-deserves-a-party-1849977489)
+- [Dev.to/JS] [EPHELOG](https://dev.to/asherms/ephelog-3pp)
+- [Dev.to/JS] [Maximizing the Power of Child Processes in Node.js: Real-world Examples](https://dev.to/ayka_code/maximizing-the-power-of-child-processes-in-nodejs-real-world-examples-1954)
 - [Lifehacker] [How to Choose a Statement Chandelier That Isn’t Tacky](https://lifehacker.com/how-to-choose-a-statement-chandelier-that-isn-t-tacky-1849976287)
 - [Dev.to/JS] [Protect Your System from Install Scripts in npm packages](https://dev.to/danielp/protect-your-system-from-install-scripts-in-npm-packages-43ob)
 - [Lifehacker] [Seven iPhone Automations You Deserve to Make Life Easier](https://lifehacker.com/seven-iphone-automations-you-deserve-to-make-life-easie-1849969049)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-6ag)
 - [Dev.to/JS] [8 Must-Use VS Code Extensions For Web Developers😈](https://dev.to/arafat4693/8-must-use-vs-code-extensions-for-web-developers-39)
 - [Dev.to/JS] [How to paginated data in ant design table](https://dev.to/jahidulsaeid/how-to-paginated-data-in-ant-design-table-4cne)
-- [Dev.to/JS] [Custom Notification Template with JS](https://dev.to/shubhamtiwari909/custom-notification-template-with-js-5bc)
-- [Dev.to/JS] [How do you optimize code for performance?](https://dev.to/patildevendram/how-do-you-optimize-code-for-performance-2da7)
-- [Dev.to/JS] [8 Tools Every Web Developers Should Learn in 2023](https://dev.to/qmoniqs/8-tools-every-web-developers-should-learn-in-2023-1l08)
 - [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This &#39;Breath of the Wild&#39; Glitch Gives You Invincibility and Unlimited Stamina](https://lifehacker.com/this-breath-of-the-wild-glitch-gives-you-invincibility-1849976022)
 - [Lifehacker] [These Prices Are Expected to Drop This Year](https://lifehacker.com/these-prices-are-expected-to-drop-this-year-1849976190)
 - [Lifehacker] [How to Destink Your Diaper Pail &lpar;and Keep It Destunk&rpar;](https://lifehacker.com/how-to-destink-your-diaper-pail-and-keep-it-destunk-1849975562)
-- [Lifehacker] [You Can Turn a Bag of Frozen Hash Browns Into a Pot of Soup](https://lifehacker.com/you-can-turn-a-bag-of-frozen-hash-browns-into-a-pot-of-1849975944)
-- [Lifehacker] [Standing Your PS5 Up Vertically Is Fine, Actually](https://lifehacker.com/standing-your-ps5-up-vertically-is-fine-actually-1849975426)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Turn a Bag of Frozen Hash Browns Into a Pot of Soup](https://lifehacker.com/you-can-turn-a-bag-of-frozen-hash-browns-into-a-pot-of-1849975944)<!-- TECH-POSTS:END -->
 
 ---
 
