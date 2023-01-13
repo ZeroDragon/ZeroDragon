@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create API Documentation?](https://dev.to/devsimc/how-to-create-api-documentation-jfh)
+- [Dev.to/JS] [animation in box](https://dev.to/nagvanshi9275/animation-in-box-3h0)
 - [Dev.to/JS] [AI and Software Professionals : A Match Made in Tech Heaven](https://dev.to/lakincoder/-53kk)
 - [Dev.to/JS] [kerassentials - Nail Fungus Results, Pros, Cons, Benefits &amp; Reviews?](https://dev.to/kerassentials6/kerassentials-nail-fungus-results-pros-cons-benefits-reviews-dch)
 - [Dev.to/JS] [Introducing RxTutor - An interactive sandbox for RxJS observables](https://dev.to/lgpage/introducing-rxtutor-an-interactive-sandbox-for-rxjs-observables-49mb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Console Types and Tricks](https://dev.to/akashkumaravel/javascript-console-types-and-tricks-1lef)
 - [Dev.to/JS] [How To Link HTML CSS And JavaScript?](https://dev.to/ekmarc/how-to-link-html-css-and-javascript-3od5)
 - [Dev.to/JS] [The Most important Aspects of Learning to Code](https://dev.to/shannondenton/the-most-important-aspects-of-learning-to-code-2i32)
-- [Dev.to/JS] [Some Websites for hosting and fetching JSON](https://dev.to/darkxenium/some-websites-for-hosting-and-fetching-json-58c6)
-- [Dev.to/JS] [How to Create an Astro Search component 🔍🤔](https://dev.to/danidiaztech/how-to-create-an-astro-search-component-2731)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
