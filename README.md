@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Console Types and Tricks](https://dev.to/akashkumaravel/javascript-console-types-and-tricks-1lef)
+- [Dev.to/JS] [How To Link HTML CSS And JavaScript?](https://dev.to/ekmarc/how-to-link-html-css-and-javascript-3od5)
 - [Dev.to/JS] [The Most important Aspects of Learning to Code](https://dev.to/shannondenton/the-most-important-aspects-of-learning-to-code-2i32)
 - [Dev.to/JS] [Some Websites for hosting and fetching JSON](https://dev.to/darkxenium/some-websites-for-hosting-and-fetching-json-58c6)
 - [Dev.to/JS] [How to Create an Astro Search component 🔍🤔](https://dev.to/danidiaztech/how-to-create-an-astro-search-component-2731)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
 - [Dev.to/JS] [Yet another post about SolidJS vs React](https://dev.to/binarykoan/yet-another-post-about-solidjs-vs-react-3i1a)
 - [Lifehacker] [You Should Cook Oatmeal in a Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-a-cup-of-tea-1849980924)
-- [Dev.to/JS] [How To Create A Toast Notification in Javascript](https://dev.to/arafat4693/how-to-create-a-toast-notification-in-javascript-261d)
-- [Dev.to/JS] [Non-Blockchain Dapps](https://dev.to/isommie/non-blockchain-dapps-86p)
 - [Lifehacker] [Do This When Your Device Won’t Charge](https://lifehacker.com/do-this-when-your-device-won-t-charge-1849980760)
 - [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)
 - [Lifehacker] [How to Back Up Your Gmails to Avoid Paying for Storage](https://lifehacker.com/how-to-back-up-your-gmails-to-avoid-paying-for-storage-1849979762)
