@@ -23,20 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [proto and prototype chaining](https://dev.to/i_am_surendra_/proto-and-prototype-chaining-13je)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;14-01-2023&rpar; - Communism vs the Infiniti Simulacrum](https://dev.to/mjgs/this-weeks-newsletter-is-out-14-01-2023-communism-vs-the-infiniti-simulacrum-59ha)
 - [Dev.to/JS] [Integrating JavaScript with OpenAI: A Beginner’s Guide](https://dev.to/kanehooper/integrating-javascript-with-openai-a-beginners-guide-gp6)
 - [Dev.to/JS] [BlackBird 4K Drone - Benefits, Results, Pros, Cons, Scam Or Legit?](https://dev.to/blackbird4k/blackbird-4k-drone-benefits-results-pros-cons-scam-or-legit-5cji)
 - [Dev.to/JS] [Getting Started With React Query&lpar;@tanstack/react-query&rpar;](https://dev.to/coxmd/getting-started-with-react-querytanstackreact-query-10bp)
+- [Dev.to/JS] [Writing as a form of learning new concepts](https://dev.to/arinze19/writing-as-a-form-of-learning-new-concepts-3p4e)
 - [Dev.to/JS] [The Sequelize library simplifies developer life.](https://dev.to/krishna7852/the-sequelize-library-simplifies-developer-life-21kh)
 - [Dev.to/JS] [FileOrganizer: Organize your files in a simple command](https://dev.to/plsankar/fileorganizer-organize-your-files-in-a-simple-command-4hkn)
 - [Dev.to/JS] [Recursive Fetching In Javascript](https://dev.to/alexmcdgit/recursive-fetching-in-javascript-4f0b)
 - [Dev.to/JS] [9 Common JavaScript Interview Questions You Might Not Know The Answer For.](https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g)
 - [Dev.to/JS] [Bliss Skin Tag Remover - Skin Care Results, Benefits, Price &amp; Reviews?](https://dev.to/blissskintagin1/bliss-skin-tag-remover-skin-care-results-benefits-price-reviews-204h)
 - [Dev.to/JS] [&quot;Building with Node.js: Navigating the World of Best Practices and Best Tools&quot;](https://dev.to/hanishrao/building-with-nodejs-navigating-the-world-of-best-practices-and-best-tools-2c2n)
-- [Dev.to/JS] [Zero-Knowledge Proofs Using SnarkJS and Circom](https://dev.to/thebojda/zero-knowledge-proofs-using-snarkjs-and-circom-536n)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
-- [Dev.to/JS] [All the Ways to Remove an Item from an Array](https://dev.to/mohsenkamrani/all-the-ways-to-remove-an-item-from-an-array-1m60)
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
 - [Lifehacker] [This App Uses AI to Generate Custom Playlists](https://lifehacker.com/this-app-uses-ai-to-generate-custom-playlists-1849983912)
 - [Lifehacker] [12 Killer Supersets to Add to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
