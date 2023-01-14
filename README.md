@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - Partition List](https://dev.to/_alkesh26/leetcode-partition-list-4735)
+- [Dev.to/JS] [Solidity Contracts Within Contracts: A Dive into Solidity Mapping &lpar;Series - Part 3&rpar;](https://dev.to/scofieldidehen/solidity-contracts-within-contracts-a-dive-into-solidity-mapping-series-part-3-303)
+- [Dev.to/JS] [Responsive Navigation Menu Bar Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/responsive-navigation-menu-bar-using-html-css-javascript-4b0)
+- [Dev.to/JS] [Reading, Writing and Pipelining Streams in Node.js](https://dev.to/mrityunjaypalled/reading-writing-and-pipelining-streams-in-nodejs-48f1)
 - [Dev.to/JS] [Responsive Portfolio Website Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/responsive-portfolio-website-using-html-css-and-javascript-1h1m)
 - [Dev.to/JS] [Top 10 extensiones para VSCode](https://dev.to/anthonytrillo/top-10-extensiones-para-vscode-2lgi)
 - [Dev.to/JS] [Tea Burn - Fat Loss Results, Pros, Cons, Scam Or Legit?](https://dev.to/teaburnfact/tea-burn-fat-loss-results-pros-cons-scam-or-legit-4fkk)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Architecting A Highly Dynamic Card List In Angular](https://dev.to/angular/architecting-a-highly-dynamic-card-list-in-angular-53e)
 - [Dev.to/JS] [proto and prototype chaining](https://dev.to/i_am_surendra_/proto-and-prototype-chaining-13je)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;14-01-2023&rpar; - Communism vs the Infiniti Simulacrum](https://dev.to/mjgs/this-weeks-newsletter-is-out-14-01-2023-communism-vs-the-infiniti-simulacrum-59ha)
-- [Dev.to/JS] [Integrating JavaScript with OpenAI: A Beginner’s Guide](https://dev.to/kanehooper/integrating-javascript-with-openai-a-beginners-guide-gp6)
-- [Dev.to/JS] [BlackBird 4K Drone - Benefits, Results, Pros, Cons, Scam Or Legit?](https://dev.to/blackbird4k/blackbird-4k-drone-benefits-results-pros-cons-scam-or-legit-5cji)
-- [Dev.to/JS] [Getting Started With React Query&lpar;@tanstack/react-query&rpar;](https://dev.to/coxmd/getting-started-with-react-querytanstackreact-query-10bp)
-- [Dev.to/JS] [Writing as a form of learning new concepts](https://dev.to/arinze19/writing-as-a-form-of-learning-new-concepts-3p4e)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
