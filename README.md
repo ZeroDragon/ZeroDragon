@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating and Downloading a CSV File Using Pure JavaScript - A Step by Step Guide](https://dev.to/hat52/creating-and-downloading-a-csv-file-using-pure-javascript-a-step-by-step-guide-4ogg)
+- [Dev.to/JS] [Padrão - Singleton](https://dev.to/higordiego/padrao-singleton-4chj)
+- [Dev.to/JS] [What&#39;s your current tech stack for web development?](https://dev.to/arafat4693/which-tech-stack-are-you-currently-using-as-a-web-dev-30k5)
+- [Dev.to/JS] [Back to the Basics with HTML Forms](https://dev.to/duncanlew/back-to-the-basics-with-html-forms-1l0j)
 - [Dev.to/JS] [So when will I finally get to Kill Baby Hitler?!](https://dev.to/jacklehamster/so-when-will-i-finally-get-to-kill-baby-hitler-3j7b)
 - [Dev.to/JS] [about .this keyword in JavaScript](https://dev.to/bolouie/about-this-keyword-in-javascript-4b2i)
 - [Dev.to/JS] [Mastering the Fundamentals: Essential JavaScript Concepts Every Developer Must Know](https://dev.to/hsn0x/mastering-the-fundamentals-essential-javascript-concepts-every-developer-must-know-b37)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avoiding common pitfalls with ControlValueAccessors in Angular](https://dev.to/valorsoftware/avoiding-common-pitfalls-with-controlvalueaccessors-in-angular-4m57)
 - [Dev.to/JS] [Using Beautiful Material Themes from Material Theme Builder in Stylify CSS](https://dev.to/machy8/using-beautiful-material-themes-from-material-theme-builder-in-stylify-css-430k)
 - [Dev.to/JS] [Y U NO USE the JS native APIs?](https://dev.to/noriller/y-u-no-use-the-js-native-apis-39dh)
-- [Dev.to/JS] [Pattern - Prototype](https://dev.to/higordiego/pattern-prototype-1ei9)
-- [Dev.to/JS] [Padrão - Prototype](https://dev.to/higordiego/padrao-prototype-1269)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
-- [Dev.to/JS] [HOW TO BECOME A GREAT FRONTEND DEVELOPER](https://dev.to/hrithikbansal/how-to-become-a-great-frontend-developer-1pjo)
-- [Dev.to/JS] [Supporting Multiple Languages With NextJS](https://dev.to/ethand91/supporting-multiple-languages-with-nextjs-1939)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
