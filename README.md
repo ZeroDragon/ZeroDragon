@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9 Common JavaScript Interview Questions You Might Not Know The Answer For.](https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g)
+- [Dev.to/JS] [Bliss Skin Tag Remover - Skin Care Results, Benefits, Price &amp; Reviews?](https://dev.to/blissskintagin1/bliss-skin-tag-remover-skin-care-results-benefits-price-reviews-204h)
 - [Dev.to/JS] [&quot;Building with Node.js: Navigating the World of Best Practices and Best Tools&quot;](https://dev.to/hanishrao/building-with-nodejs-navigating-the-world-of-best-practices-and-best-tools-2c2n)
 - [Dev.to/JS] [Zero-Knowledge Proofs Using SnarkJS and Circom](https://dev.to/thebojda/zero-knowledge-proofs-using-snarkjs-and-circom-536n)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Buy Apple’s iPhone Cases](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
 - [Dev.to/JS] [How To Stream A Video With NodeJS](https://dev.to/fredabod/how-to-stream-a-video-with-nodejs-58gn)
 - [Dev.to/JS] [RxJS Tutorial: Observables, Operators, and beyond](https://dev.to/educative/rxjs-tutorial-observables-operators-and-beyond-5717)
-- [Dev.to/JS] [How To Start An Educational Blog ?](https://dev.to/usmanmustafvi/how-to-start-an-educational-blog--3g4h)
 - [Lifehacker] [How to Get the Most Money Possible From a Canceled Flight](https://lifehacker.com/how-to-get-the-most-money-possible-from-a-canceled-flig-1849981717)
-- [Dev.to/JS] [Solidity Visibility State/Modifiers &lpar;Series - part 2&rpar;](https://dev.to/scofieldidehen/solidity-visibility-statemodifiers-series-part-2-2m9c)
 - [Lifehacker] [Why Antibiotics Don&#39;t Work on Colds](https://lifehacker.com/why-antibiotics-dont-work-on-colds-1849981989)
 - [Lifehacker] [Electric Stoves Are Good, Actually](https://lifehacker.com/electric-stoves-are-good-actually-1849981561)
 - [Lifehacker] [13 of Best TV Rewatch Podcasts](https://lifehacker.com/13-of-best-tv-rewatch-podcasts-1849977332)
