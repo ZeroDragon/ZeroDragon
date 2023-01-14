@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [&quot;Building with Node.js: Navigating the World of Best Practices and Best Tools&quot;](https://dev.to/hyraze/building-with-nodejs-navigating-the-world-of-best-practices-and-best-tools-2c2n)
+- [Dev.to/JS] [&quot;Building with Node.js: Navigating the World of Best Practices and Best Tools&quot;](https://dev.to/hanishrao/building-with-nodejs-navigating-the-world-of-best-practices-and-best-tools-2c2n)
 - [Dev.to/JS] [Zero-Knowledge Proofs Using SnarkJS and Circom](https://dev.to/thebojda/zero-knowledge-proofs-using-snarkjs-and-circom-536n)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
