@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Dev.to/JS] [HOW TO BECOME A GREAT FRONTEND DEVELOPER](https://dev.to/hrithikbansal/how-to-become-a-great-frontend-developer-1pjo)
 - [Dev.to/JS] [Supporting Multiple Languages With NextJS](https://dev.to/ethand91/supporting-multiple-languages-with-nextjs-1939)
 - [Dev.to/JS] [10 Chrome Extensions Every Web Developer Should Know](https://dev.to/onlydevs_/10-chrome-extensions-every-web-developer-should-know-3kp5)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
 - [Lifehacker] [You Should Cook Oatmeal in a Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-a-cup-of-tea-1849980924)
 - [Lifehacker] [Do This When Your Device Won’t Charge](https://lifehacker.com/do-this-when-your-device-won-t-charge-1849980760)
-- [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)
-- [Lifehacker] [How to Back Up Your Gmails to Avoid Paying for Storage](https://lifehacker.com/how-to-back-up-your-gmails-to-avoid-paying-for-storage-1849979762)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)<!-- TECH-POSTS:END -->
 
 ---
 
