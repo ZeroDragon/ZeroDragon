@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive Portfolio Website Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/responsive-portfolio-website-using-html-css-and-javascript-1h1m)
+- [Dev.to/JS] [Top 10 extensiones para VSCode](https://dev.to/anthonytrillo/top-10-extensiones-para-vscode-2lgi)
 - [Dev.to/JS] [Tea Burn - Fat Loss Results, Pros, Cons, Scam Or Legit?](https://dev.to/teaburnfact/tea-burn-fat-loss-results-pros-cons-scam-or-legit-4fkk)
 - [Dev.to/JS] [Google clone with React JS](https://dev.to/mofijulhaque/google-clone-with-react-js-41ag)
 - [Dev.to/JS] [custom cycling jerseys](https://dev.to/vysakaidan/custom-cycling-jerseys-3gjc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BlackBird 4K Drone - Benefits, Results, Pros, Cons, Scam Or Legit?](https://dev.to/blackbird4k/blackbird-4k-drone-benefits-results-pros-cons-scam-or-legit-5cji)
 - [Dev.to/JS] [Getting Started With React Query&lpar;@tanstack/react-query&rpar;](https://dev.to/coxmd/getting-started-with-react-querytanstackreact-query-10bp)
 - [Dev.to/JS] [Writing as a form of learning new concepts](https://dev.to/arinze19/writing-as-a-form-of-learning-new-concepts-3p4e)
-- [Dev.to/JS] [The Sequelize library simplifies developer life.](https://dev.to/krishna7852/the-sequelize-library-simplifies-developer-life-21kh)
-- [Dev.to/JS] [FileOrganizer: Organize your files in a simple command](https://dev.to/plsankar/fileorganizer-organize-your-files-in-a-simple-command-4hkn)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
