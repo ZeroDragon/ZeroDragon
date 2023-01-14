@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using ChatGPT to Optimize your code.](https://dev.to/oluwatrillions/using-chatgpt-to-optimize-your-code-19oh)
+- [Dev.to/JS] [React Router v6 in React Js with Complete Project Of 2022](https://dev.to/ziontutorial/react-router-v6-in-react-js-with-complete-project-of-2022-29j7)
+- [Dev.to/JS] [requirements for react developers](https://dev.to/amirrezaheydari/requirements-for-react-developers-9pd)
 - [Dev.to/JS] [Creating and Downloading a CSV File Using Pure JavaScript - A Step by Step Guide](https://dev.to/hat52/creating-and-downloading-a-csv-file-using-pure-javascript-a-step-by-step-guide-4ogg)
 - [Dev.to/JS] [Padrão - Singleton](https://dev.to/higordiego/padrao-singleton-4chj)
 - [Dev.to/JS] [What&#39;s your current tech stack for web development?](https://dev.to/arafat4693/which-tech-stack-are-you-currently-using-as-a-web-dev-30k5)
 - [Dev.to/JS] [Back to the Basics with HTML Forms](https://dev.to/duncanlew/back-to-the-basics-with-html-forms-1l0j)
+- [Dev.to/JS] [Circular Text Within an HTML5 Canvas](https://dev.to/infalliblyfallible/circular-text-within-an-html5-canvas-3fba)
 - [Dev.to/JS] [So when will I finally get to Kill Baby Hitler?!](https://dev.to/jacklehamster/so-when-will-i-finally-get-to-kill-baby-hitler-3j7b)
 - [Dev.to/JS] [about .this keyword in JavaScript](https://dev.to/bolouie/about-this-keyword-in-javascript-4b2i)
 - [Dev.to/JS] [Mastering the Fundamentals: Essential JavaScript Concepts Every Developer Must Know](https://dev.to/hsn0x/mastering-the-fundamentals-essential-javascript-concepts-every-developer-must-know-b37)
 - [Dev.to/JS] [Unlocking the Power and Versatility of JavaScript: Why Every Developer Should Love this Language](https://dev.to/hsn0x/unlocking-the-power-and-versatility-of-javascript-why-every-developer-should-love-this-language-50bg)
-- [Dev.to/JS] [Best way to Inspect JSON in Chrome DevTools](https://dev.to/ashu96/best-way-to-inspect-json-in-chrome-devtools-26ad)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
-- [Dev.to/JS] [Avoiding common pitfalls with ControlValueAccessors in Angular](https://dev.to/valorsoftware/avoiding-common-pitfalls-with-controlvalueaccessors-in-angular-4m57)
-- [Dev.to/JS] [Using Beautiful Material Themes from Material Theme Builder in Stylify CSS](https://dev.to/machy8/using-beautiful-material-themes-from-material-theme-builder-in-stylify-css-430k)
-- [Dev.to/JS] [Y U NO USE the JS native APIs?](https://dev.to/noriller/y-u-no-use-the-js-native-apis-39dh)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
