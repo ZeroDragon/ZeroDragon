@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tea Burn - Fat Loss Results, Pros, Cons, Scam Or Legit?](https://dev.to/teaburnfact/tea-burn-fat-loss-results-pros-cons-scam-or-legit-4fkk)
+- [Dev.to/JS] [Google clone with React JS](https://dev.to/mofijulhaque/google-clone-with-react-js-41ag)
+- [Dev.to/JS] [custom cycling jerseys](https://dev.to/vysakaidan/custom-cycling-jerseys-3gjc)
 - [Dev.to/JS] [Architecting A Highly Dynamic Card List In Angular](https://dev.to/angular/architecting-a-highly-dynamic-card-list-in-angular-53e)
 - [Dev.to/JS] [proto and prototype chaining](https://dev.to/i_am_surendra_/proto-and-prototype-chaining-13je)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;14-01-2023&rpar; - Communism vs the Infiniti Simulacrum](https://dev.to/mjgs/this-weeks-newsletter-is-out-14-01-2023-communism-vs-the-infiniti-simulacrum-59ha)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing as a form of learning new concepts](https://dev.to/arinze19/writing-as-a-form-of-learning-new-concepts-3p4e)
 - [Dev.to/JS] [The Sequelize library simplifies developer life.](https://dev.to/krishna7852/the-sequelize-library-simplifies-developer-life-21kh)
 - [Dev.to/JS] [FileOrganizer: Organize your files in a simple command](https://dev.to/plsankar/fileorganizer-organize-your-files-in-a-simple-command-4hkn)
-- [Dev.to/JS] [Recursive Fetching In Javascript](https://dev.to/alexmcdgit/recursive-fetching-in-javascript-4f0b)
-- [Dev.to/JS] [9 Common JavaScript Interview Questions You Might Not Know The Answer For.](https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g)
-- [Dev.to/JS] [Bliss Skin Tag Remover - Skin Care Results, Benefits, Price &amp; Reviews?](https://dev.to/blissskintagin1/bliss-skin-tag-remover-skin-care-results-benefits-price-reviews-204h)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
