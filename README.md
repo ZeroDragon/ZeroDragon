@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering the Fundamentals: Essential JavaScript Concepts Every Developer Must Know](https://dev.to/hsn0x/mastering-the-fundamentals-essential-javascript-concepts-every-developer-must-know-b37)
+- [Dev.to/JS] [Unlocking the Power and Versatility of JavaScript: Why Every Developer Should Love this Language](https://dev.to/hsn0x/unlocking-the-power-and-versatility-of-javascript-why-every-developer-should-love-this-language-50bg)
+- [Dev.to/JS] [Best way to Inspect JSON in Chrome DevTools](https://dev.to/ashu96/best-way-to-inspect-json-in-chrome-devtools-26ad)
+- [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
+- [Dev.to/JS] [Avoiding common pitfalls with ControlValueAccessors in Angular](https://dev.to/valorsoftware/avoiding-common-pitfalls-with-controlvalueaccessors-in-angular-4m57)
 - [Dev.to/JS] [Using Beautiful Material Themes from Material Theme Builder in Stylify CSS](https://dev.to/machy8/using-beautiful-material-themes-from-material-theme-builder-in-stylify-css-430k)
 - [Dev.to/JS] [Y U NO USE the JS native APIs?](https://dev.to/noriller/y-u-no-use-the-js-native-apis-39dh)
 - [Dev.to/JS] [Pattern - Prototype](https://dev.to/higordiego/pattern-prototype-1ei9)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supporting Multiple Languages With NextJS](https://dev.to/ethand91/supporting-multiple-languages-with-nextjs-1939)
 - [Dev.to/JS] [10 Chrome Extensions Every Web Developer Should Know](https://dev.to/onlydevs_/10-chrome-extensions-every-web-developer-should-know-3kp5)
 - [Dev.to/JS] [Upload file in Sveltekit](https://dev.to/sinasafari/upload-file-in-sveltekit-2jnl)
-- [Dev.to/JS] [Unlock Your Full Potential as a JavaScript Developer: Dive into these Top GitHub Repositories and supercharge your skills!](https://dev.to/rahul3002/unlock-your-full-potential-as-a-javascript-developer-dive-into-these-top-github-repositories-and-supercharge-your-skills-3n38)
-- [Dev.to/JS] [LeetCode - Partition List](https://dev.to/_alkesh26/leetcode-partition-list-4735)
-- [Dev.to/JS] [Solidity Contracts Within Contracts: A Dive into Solidity Mapping &lpar;Series - Part 3&rpar;](https://dev.to/scofieldidehen/solidity-contracts-within-contracts-a-dive-into-solidity-mapping-series-part-3-303)
-- [Dev.to/JS] [Responsive Navigation Menu Bar Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/responsive-navigation-menu-bar-using-html-css-javascript-4b0)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
 - [Lifehacker] [You Should Cook Oatmeal in a Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-a-cup-of-tea-1849980924)
-- [Lifehacker] [Do This When Your Device Won’t Charge](https://lifehacker.com/do-this-when-your-device-won-t-charge-1849980760)
-- [Lifehacker] [This Is the Easiest, Cheesiest Chicken and Rice Casserole](https://lifehacker.com/this-is-the-easiest-cheesiest-chicken-and-rice-cassero-1849980622)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do This When Your Device Won’t Charge](https://lifehacker.com/do-this-when-your-device-won-t-charge-1849980760)<!-- TECH-POSTS:END -->
 
 ---
 
