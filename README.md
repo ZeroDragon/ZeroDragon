@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BlackBird 4K Drone - Benefits, Results, Pros, Cons, Scam Or Legit?](https://dev.to/blackbird4k/blackbird-4k-drone-benefits-results-pros-cons-scam-or-legit-5cji)
+- [Dev.to/JS] [Getting Started With React Query&lpar;@tanstack/react-query&rpar;](https://dev.to/coxmd/getting-started-with-react-querytanstackreact-query-10bp)
 - [Dev.to/JS] [The Sequelize library simplifies developer life.](https://dev.to/krishna7852/the-sequelize-library-simplifies-developer-life-21kh)
 - [Dev.to/JS] [FileOrganizer: Organize your files in a simple command](https://dev.to/plsankar/fileorganizer-organize-your-files-in-a-simple-command-4hkn)
 - [Dev.to/JS] [Recursive Fetching In Javascript](https://dev.to/alexmcdgit/recursive-fetching-in-javascript-4f0b)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Dark side of Decentralized Apps: Is Your Data actually Yours, is it Secure?](https://dev.to/zenodavids/the-dark-side-of-decentralized-apps-is-your-data-actually-yours-is-it-secure-4kmi)
 - [Lifehacker] [This App Uses AI to Generate Custom Playlists](https://lifehacker.com/this-app-uses-ai-to-generate-custom-playlists-1849983912)
 - [Lifehacker] [12 Killer Supersets to Add to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
-- [Dev.to/JS] [Comparing Vue.js and React.js key aspects](https://dev.to/kboskin/comparing-vuejs-and-reactjs-key-aspects-1d43)
-- [Dev.to/JS] [Entendendo e utilizando Coleções Codificadas &lpar;Keyed Collections&rpar; em JavaScript](https://dev.to/altencirsilvajr/entendendo-e-utilizando-colecoes-codificadas-keyed-collections-em-javascript-2mc)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Date Someone Newly Single](https://lifehacker.com/when-you-should-and-shouldnt-date-someone-newly-singl-1849982790)
 - [Lifehacker] [Don’t Buy Apple’s iPhone Cases](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
 - [Lifehacker] [How to Get the Most Money Possible From a Canceled Flight](https://lifehacker.com/how-to-get-the-most-money-possible-from-a-canceled-flig-1849981717)
