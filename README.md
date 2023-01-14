@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;14-01-2023&rpar; - Communism vs the Infiniti Simulacrum](https://dev.to/mjgs/this-weeks-newsletter-is-out-14-01-2023-communism-vs-the-infiniti-simulacrum-59ha)
+- [Dev.to/JS] [Integrating JavaScript with OpenAI: A Beginner’s Guide](https://dev.to/kanehooper/integrating-javascript-with-openai-a-beginners-guide-gp6)
 - [Dev.to/JS] [BlackBird 4K Drone - Benefits, Results, Pros, Cons, Scam Or Legit?](https://dev.to/blackbird4k/blackbird-4k-drone-benefits-results-pros-cons-scam-or-legit-5cji)
 - [Dev.to/JS] [Getting Started With React Query&lpar;@tanstack/react-query&rpar;](https://dev.to/coxmd/getting-started-with-react-querytanstackreact-query-10bp)
 - [Dev.to/JS] [The Sequelize library simplifies developer life.](https://dev.to/krishna7852/the-sequelize-library-simplifies-developer-life-21kh)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
 - [Dev.to/JS] [All the Ways to Remove an Item from an Array](https://dev.to/mohsenkamrani/all-the-ways-to-remove-an-item-from-an-array-1m60)
-- [Dev.to/JS] [Cap V: Atreverse a eliminar lo implementado, El libro negro del programador.](https://dev.to/duxtech/cap-v-atreverse-a-eliminar-lo-implementado-el-libro-negro-del-programador-4h02)
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
-- [Dev.to/JS] [The Dark side of Decentralized Apps: Is Your Data actually Yours, is it Secure?](https://dev.to/zenodavids/the-dark-side-of-decentralized-apps-is-your-data-actually-yours-is-it-secure-4kmi)
 - [Lifehacker] [This App Uses AI to Generate Custom Playlists](https://lifehacker.com/this-app-uses-ai-to-generate-custom-playlists-1849983912)
 - [Lifehacker] [12 Killer Supersets to Add to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Date Someone Newly Single](https://lifehacker.com/when-you-should-and-shouldnt-date-someone-newly-singl-1849982790)
