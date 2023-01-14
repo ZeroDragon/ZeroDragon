@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Docker Node.js and MongoDB: A Guide to MVC](https://dev.to/malikidrees/docker-nodejs-and-mongodb-a-guide-to-mvc-ocg)
 - [Dev.to/JS] [Using ChatGPT to Optimize your code.](https://dev.to/oluwatrillions/using-chatgpt-to-optimize-your-code-19oh)
 - [Dev.to/JS] [React Router v6 in React Js with Complete Project Of 2022](https://dev.to/ziontutorial/react-router-v6-in-react-js-with-complete-project-of-2022-29j7)
 - [Dev.to/JS] [requirements for react developers](https://dev.to/amirrezaheydari/requirements-for-react-developers-9pd)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [So when will I finally get to Kill Baby Hitler?!](https://dev.to/jacklehamster/so-when-will-i-finally-get-to-kill-baby-hitler-3j7b)
 - [Dev.to/JS] [about .this keyword in JavaScript](https://dev.to/bolouie/about-this-keyword-in-javascript-4b2i)
 - [Dev.to/JS] [Mastering the Fundamentals: Essential JavaScript Concepts Every Developer Must Know](https://dev.to/hsn0x/mastering-the-fundamentals-essential-javascript-concepts-every-developer-must-know-b37)
-- [Dev.to/JS] [Unlocking the Power and Versatility of JavaScript: Why Every Developer Should Love this Language](https://dev.to/hsn0x/unlocking-the-power-and-versatility-of-javascript-why-every-developer-should-love-this-language-50bg)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
