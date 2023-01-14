@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [So when will I finally get to Kill Baby Hitler?!](https://dev.to/jacklehamster/so-when-will-i-finally-get-to-kill-baby-hitler-3j7b)
 - [Dev.to/JS] [about .this keyword in JavaScript](https://dev.to/bolouie/about-this-keyword-in-javascript-4b2i)
 - [Dev.to/JS] [Mastering the Fundamentals: Essential JavaScript Concepts Every Developer Must Know](https://dev.to/hsn0x/mastering-the-fundamentals-essential-javascript-concepts-every-developer-must-know-b37)
 - [Dev.to/JS] [Unlocking the Power and Versatility of JavaScript: Why Every Developer Should Love this Language](https://dev.to/hsn0x/unlocking-the-power-and-versatility-of-javascript-why-every-developer-should-love-this-language-50bg)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Dev.to/JS] [HOW TO BECOME A GREAT FRONTEND DEVELOPER](https://dev.to/hrithikbansal/how-to-become-a-great-frontend-developer-1pjo)
 - [Dev.to/JS] [Supporting Multiple Languages With NextJS](https://dev.to/ethand91/supporting-multiple-languages-with-nextjs-1939)
-- [Dev.to/JS] [10 Chrome Extensions Every Web Developer Should Know](https://dev.to/onlydevs_/10-chrome-extensions-every-web-developer-should-know-3kp5)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
