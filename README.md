@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Sequelize library simplifies developer life.](https://dev.to/krishna7852/the-sequelize-library-simplifies-developer-life-21kh)
+- [Dev.to/JS] [FileOrganizer: Organize your files in a simple command](https://dev.to/plsankar/fileorganizer-organize-your-files-in-a-simple-command-4hkn)
 - [Dev.to/JS] [Recursive Fetching In Javascript](https://dev.to/alexmcdgit/recursive-fetching-in-javascript-4f0b)
 - [Dev.to/JS] [9 Common JavaScript Interview Questions You Might Not Know The Answer For.](https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g)
 - [Dev.to/JS] [Bliss Skin Tag Remover - Skin Care Results, Benefits, Price &amp; Reviews?](https://dev.to/blissskintagin1/bliss-skin-tag-remover-skin-care-results-benefits-price-reviews-204h)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comparing Vue.js and React.js key aspects](https://dev.to/kboskin/comparing-vuejs-and-reactjs-key-aspects-1d43)
 - [Dev.to/JS] [Entendendo e utilizando Coleções Codificadas &lpar;Keyed Collections&rpar; em JavaScript](https://dev.to/altencirsilvajr/entendendo-e-utilizando-colecoes-codificadas-keyed-collections-em-javascript-2mc)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Date Someone Newly Single](https://lifehacker.com/when-you-should-and-shouldnt-date-someone-newly-singl-1849982790)
-- [Dev.to/JS] [Next.js Tips, Tricks, and Features you Probably Don&#39;t Know](https://dev.to/jaredm/nextjs-tips-tricks-and-features-you-probably-dont-know-1oa5)
 - [Lifehacker] [Don’t Buy Apple’s iPhone Cases](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
-- [Dev.to/JS] [How To Stream A Video With NodeJS](https://dev.to/fredabod/how-to-stream-a-video-with-nodejs-58gn)
 - [Lifehacker] [How to Get the Most Money Possible From a Canceled Flight](https://lifehacker.com/how-to-get-the-most-money-possible-from-a-canceled-flig-1849981717)
 - [Lifehacker] [Why Antibiotics Don&#39;t Work on Colds](https://lifehacker.com/why-antibiotics-dont-work-on-colds-1849981989)
 - [Lifehacker] [Electric Stoves Are Good, Actually](https://lifehacker.com/electric-stoves-are-good-actually-1849981561)
