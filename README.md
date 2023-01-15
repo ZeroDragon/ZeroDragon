@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-224p)
+- [Dev.to/JS] [15 Gatsby developers to follow in 2022](https://dev.to/momciloo/15-gatsby-developers-to-follow-in-2022-3ca9)
+- [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
 - [Dev.to/JS] [How to implement a design system in your project.](https://dev.to/gatesvert81/how-to-implement-a-design-system-in-your-project-4ehi)
 - [Dev.to/JS] [Introduction to [ES6 vs ES5 &amp; Why,How to Transpile code] 2023](https://dev.to/andriken/introduction-to-es6-vs-es5-whyhow-to-transpile-code-2023-5emk)
 - [Dev.to/JS] [Guaranteeing webhook delivery in NextJS Application](https://dev.to/bharathvajganesan/guaranteeing-webhook-delivery-in-nextjs-application-217c)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 &quot;Three.js: Unleashing the Power of 3D Animations on the Web 🌟&quot;](https://dev.to/jyoti_prakash_25/threejs-unleashing-the-power-of-3d-animations-on-the-web--34bd)
 - [Dev.to/JS] [How to use alt text in accessible images](https://dev.to/nikolasbarwicki/how-to-use-alt-text-in-accessible-images-4lko)
 - [Dev.to/JS] [How to keep the type of storage value unchanged?](https://dev.to/kidjoker/how-to-keep-the-type-of-storage-value-unchanged-3b3h)
-- [Dev.to/JS] [Modules in Nuxt 3](https://dev.to/guillaumeduhan/modules-in-nuxt-3-4oe3)
-- [Dev.to/JS] [Learn JavaScript from this GitHub repo](https://dev.to/manthanank/learn-javascript-from-this-github-repo-36bp)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
-- [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
-- [Lifehacker] [You Should Cook Oatmeal in a Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-a-cup-of-tea-1849980924)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)<!-- TECH-POSTS:END -->
 
 ---
 
