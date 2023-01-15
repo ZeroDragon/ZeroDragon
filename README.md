@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to [ES6 vs ES5 &amp; Why,How to Transpile code] 2023](https://dev.to/andriken/introduction-to-es6-vs-es5-whyhow-to-transpile-code-2023-5emk)
+- [Dev.to/JS] [Guaranteeing webhook delivery in NextJS Application](https://dev.to/bharathvajganesan/guaranteeing-webhook-delivery-in-nextjs-application-217c)
+- [Dev.to/JS] [Implement Dark Mode on Any Website Effortlessly](https://dev.to/dawkaka/implement-dark-mode-on-any-website-effortlessly-3822)
+- [Dev.to/JS] [Controlled form in React js](https://dev.to/suman373_30/controlled-form-in-react-js-2blg)
+- [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
 - [Dev.to/JS] [15 Useful React Custom Hooks That You Can Use In Any Project](https://dev.to/arafat4693/15-useful-react-custom-hooks-that-you-can-use-in-any-project-2ll8)
 - [Dev.to/JS] [LeetCode - Remove Nodes From Linked List](https://dev.to/_alkesh26/leetcode-remove-nodes-from-linked-list-1670)
 - [Dev.to/JS] [🚀 &quot;Three.js: Unleashing the Power of 3D Animations on the Web 🌟&quot;](https://dev.to/jyoti_prakash_25/threejs-unleashing-the-power-of-3d-animations-on-the-web--34bd)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modules in Nuxt 3](https://dev.to/guillaumeduhan/modules-in-nuxt-3-4oe3)
 - [Dev.to/JS] [Learn JavaScript from this GitHub repo](https://dev.to/manthanank/learn-javascript-from-this-github-repo-36bp)
 - [Dev.to/JS] [How to Center a Div with CSS - 6 simple ways](https://dev.to/sourov444/how-to-center-a-div-with-css-6-simple-ways-49ed)
-- [Dev.to/JS] [🚀Top Bootstrap Admin Templates🚀](https://dev.to/flatlogic_manager/top-bootstrap-admin-templates-3ld9)
-- [Dev.to/JS] [How to get out of Regex hell using GPT-3 &lpar;OpenAI&rpar;](https://dev.to/kanehooper/how-to-get-out-of-regex-hell-using-gpt-3-openai-59a9)
-- [Dev.to/JS] [Ether.js Overview!](https://dev.to/darkxenium/etherjs-overview-2aoi)
-- [Dev.to/JS] [Easy integration of Supabase into your Vue.js application](https://dev.to/benoitpetit/easy-integration-of-supabase-into-your-vuejs-application-2lbc)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
 - [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
 - [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)
-- [Lifehacker] [You Should Cook Oatmeal in a Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-a-cup-of-tea-1849980924)
-- [Lifehacker] [Do This When Your Device Won’t Charge](https://lifehacker.com/do-this-when-your-device-won-t-charge-1849980760)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Cook Oatmeal in a Cup of Tea](https://lifehacker.com/you-should-cook-oatmeal-in-a-cup-of-tea-1849980924)<!-- TECH-POSTS:END -->
 
 ---
 
