@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adventures with JavaScript Arrays: Sorting an Array of Numbers](https://dev.to/juniordevforlife/adventures-with-javascript-arrays-sorting-an-array-of-numbers-571p)
+- [Dev.to/JS] [My diamond wallet https://ton.diamonds/soriyatelagram](https://dev.to/chamreunsoriya/my-diamond-wallet-httpstondiamondssoriyatelagram-2olo)
+- [Dev.to/JS] [Unlock Faster Performance: A Beginner&#39;s Guide to Using Redis for Database Caching](https://dev.to/orlando70/unlock-faster-performance-a-beginners-guide-to-using-redis-for-database-caching-4bci)
 - [Dev.to/JS] [NPM -i utf-zap // ~175% the speed of TextCoder&lpar;&quot;utf-8&quot;&rpar;](https://dev.to/vipert/npm-i-utf-zap-175-the-speed-of-textcoderutf-8-3clg)
 - [Dev.to/JS] [my pal JSON should be your Friend too](https://dev.to/rickdelpo1/my-pal-json-should-be-your-friend-too-6oe)
 - [Dev.to/JS] [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-224p)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to [ES6 vs ES5 &amp; Why,How to Transpile code] 2023](https://dev.to/andriken/introduction-to-es6-vs-es5-whyhow-to-transpile-code-2023-5emk)
 - [Dev.to/JS] [Guaranteeing webhook delivery in NextJS Application](https://dev.to/bharathvajganesan/guaranteeing-webhook-delivery-in-nextjs-application-217c)
 - [Dev.to/JS] [Implement Dark Mode on Any Website Effortlessly](https://dev.to/dawkaka/implement-dark-mode-on-any-website-effortlessly-3822)
-- [Dev.to/JS] [Controlled form in React js](https://dev.to/suman373_30/controlled-form-in-react-js-2blg)
+- [Dev.to/JS] [What is state controlled form in React js?](https://dev.to/suman373_30/controlled-form-in-react-js-2blg)
 - [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
-- [Dev.to/JS] [15 Useful React Custom Hooks That You Can Use In Any Project](https://dev.to/arafat4693/15-useful-react-custom-hooks-that-you-can-use-in-any-project-2ll8)
-- [Dev.to/JS] [LeetCode - Remove Nodes From Linked List](https://dev.to/_alkesh26/leetcode-remove-nodes-from-linked-list-1670)
-- [Dev.to/JS] [🚀 &quot;Three.js: Unleashing the Power of 3D Animations on the Web 🌟&quot;](https://dev.to/jyoti_prakash_25/threejs-unleashing-the-power-of-3d-animations-on-the-web--34bd)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
