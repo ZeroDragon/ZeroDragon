@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript&#39;s Unsung Hero: How to .addEventListener&lpar;&rpar;](https://dev.to/sjamescarter/javascripts-unsung-hero-how-to-addeventlistener-32cc)
 - [Dev.to/JS] [Deploy a Next Js Application on Amazon Amplify Service](https://dev.to/mayorscript/deploy-a-next-js-application-on-amazon-amplify-service-1h48)
 - [Dev.to/JS] [WebStorm&#39;s Advanced Features Justify its Price](https://dev.to/josefheld/webstorms-advanced-features-justify-its-price-4784)
 - [Dev.to/JS] [How to use Chart.js to create a Chart for Your Project](https://dev.to/ijay/how-to-use-chartjs-to-create-a-chart-for-your-project-3kk2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating and Downloading a CSV File Using Pure JavaScript - A Step by Step Guide](https://dev.to/hat52/creating-and-downloading-a-csv-file-using-pure-javascript-a-step-by-step-guide-4ogg)
 - [Dev.to/JS] [Padrão - Singleton](https://dev.to/higordiego/padrao-singleton-4chj)
 - [Dev.to/JS] [What&#39;s your current tech stack for web development?](https://dev.to/arafat4693/which-tech-stack-are-you-currently-using-as-a-web-dev-30k5)
-- [Dev.to/JS] [Back to the Basics with HTML Forms](https://dev.to/duncanlew/back-to-the-basics-with-html-forms-1l0j)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
