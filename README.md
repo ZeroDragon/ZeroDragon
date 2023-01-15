@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement a design system in your project.](https://dev.to/gatesvert81/how-to-implement-a-design-system-in-your-project-4ehi)
 - [Dev.to/JS] [Introduction to [ES6 vs ES5 &amp; Why,How to Transpile code] 2023](https://dev.to/andriken/introduction-to-es6-vs-es5-whyhow-to-transpile-code-2023-5emk)
 - [Dev.to/JS] [Guaranteeing webhook delivery in NextJS Application](https://dev.to/bharathvajganesan/guaranteeing-webhook-delivery-in-nextjs-application-217c)
 - [Dev.to/JS] [Implement Dark Mode on Any Website Effortlessly](https://dev.to/dawkaka/implement-dark-mode-on-any-website-effortlessly-3822)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to keep the type of storage value unchanged?](https://dev.to/kidjoker/how-to-keep-the-type-of-storage-value-unchanged-3b3h)
 - [Dev.to/JS] [Modules in Nuxt 3](https://dev.to/guillaumeduhan/modules-in-nuxt-3-4oe3)
 - [Dev.to/JS] [Learn JavaScript from this GitHub repo](https://dev.to/manthanank/learn-javascript-from-this-github-repo-36bp)
-- [Dev.to/JS] [How to Center a Div with CSS - 6 simple ways](https://dev.to/sourov444/how-to-center-a-div-with-css-6-simple-ways-49ed)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
