@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Events removed in Ionic 5](https://dev.to/captainmor/events-removed-in-ionic-5-5b2b)
+- [Dev.to/JS] [JavaScript as your first programming language](https://dev.to/voidmain1812/javascript-as-your-first-programming-language-3fcl)
 - [Dev.to/JS] [Alpha Heater - Price, Results, Pros, Cons, Scam Or Legit?](https://dev.to/alphaheaterinfo/alpha-heater-price-results-pros-cons-scam-or-legit-59c)
 - [Dev.to/JS] [Why Every Developer Should Learn React.js?](https://dev.to/elmonickcool/why-every-developer-should-learn-reactjs-1d4m)
 - [Dev.to/JS] [9 Fantastic websites every developer must know](https://dev.to/hy_piyush/9-fantastic-websites-every-developer-must-know-580a)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Google Analytics Data API](https://dev.to/j471n/how-to-use-google-analytics-data-api-2133)
 - [Dev.to/JS] [Releasing a Web game onto Steam](https://dev.to/jacklehamster/releasing-a-web-game-onto-steam-47cd)
 - [Dev.to/JS] [JavaScript&#39;s Unsung Hero: How to .addEventListener&lpar;&rpar;](https://dev.to/sjamescarter/javascripts-unsung-hero-how-to-addeventlistener-32cc)
-- [Dev.to/JS] [Deploy a Next Js Application on Amazon Amplify Service](https://dev.to/mayorscript/deploy-a-next-js-application-on-amazon-amplify-service-1h48)
-- [Dev.to/JS] [WebStorm&#39;s Advanced Features Justify its Price](https://dev.to/josefheld/webstorms-advanced-features-justify-its-price-4784)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
