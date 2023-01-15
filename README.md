@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Templates: The Key to Building Dynamic and Responsive User Interfaces](https://dev.to/ayushdev_24/angular-templates-the-key-to-building-dynamic-and-responsive-user-interfaces-1fgl)
+- [Dev.to/JS] [LeetCode #20 Valid Parentheses with JavaScript](https://dev.to/masaki82/leetcode-20-valid-parentheses-with-javascript-4mme)
+- [Dev.to/JS] [Palindrome Partitioning](https://dev.to/zeeshanali0704/palindrome-partitioning-1ahm)
+- [Dev.to/JS] [How to use Google Analytics Data API](https://dev.to/j471n/how-to-use-google-analytics-data-api-2133)
 - [Dev.to/JS] [Releasing a Web game onto Steam](https://dev.to/jacklehamster/releasing-a-web-game-onto-steam-47cd)
 - [Dev.to/JS] [JavaScript&#39;s Unsung Hero: How to .addEventListener&lpar;&rpar;](https://dev.to/sjamescarter/javascripts-unsung-hero-how-to-addeventlistener-32cc)
 - [Dev.to/JS] [Deploy a Next Js Application on Amazon Amplify Service](https://dev.to/mayorscript/deploy-a-next-js-application-on-amazon-amplify-service-1h48)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular DevTools](https://dev.to/adonispavlis/angular-devtools-1dm3)
 - [Dev.to/JS] [Docker Node.js and MongoDB: A Guide to MVC](https://dev.to/malikidrees/docker-nodejs-and-mongodb-a-guide-to-mvc-ocg)
 - [Dev.to/JS] [Using ChatGPT to Optimize your code.](https://dev.to/oluwatrillions/using-chatgpt-to-optimize-your-code-19oh)
-- [Dev.to/JS] [React Router v6 in React Js with Complete Project Of 2022](https://dev.to/ziontutorial/react-router-v6-in-react-js-with-complete-project-of-2022-29j7)
-- [Dev.to/JS] [requirements for react developers](https://dev.to/amirrezaheydari/requirements-for-react-developers-9pd)
-- [Dev.to/JS] [Creating and Downloading a CSV File Using Pure JavaScript - A Step by Step Guide](https://dev.to/hat52/creating-and-downloading-a-csv-file-using-pure-javascript-a-step-by-step-guide-4ogg)
-- [Dev.to/JS] [Padrão - Singleton](https://dev.to/higordiego/padrao-singleton-4chj)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
