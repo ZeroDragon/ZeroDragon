@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NPM -i utf-zap // ~175% the speed of TextCoder&lpar;&quot;utf-8&quot;&rpar;](https://dev.to/vipert/npm-i-utf-zap-175-the-speed-of-textcoderutf-8-3clg)
+- [Dev.to/JS] [my pal JSON should be your Friend too](https://dev.to/rickdelpo1/my-pal-json-should-be-your-friend-too-6oe)
 - [Dev.to/JS] [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-224p)
 - [Dev.to/JS] [15 Gatsby developers to follow in 2022](https://dev.to/momciloo/15-gatsby-developers-to-follow-in-2022-3ca9)
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [15 Useful React Custom Hooks That You Can Use In Any Project](https://dev.to/arafat4693/15-useful-react-custom-hooks-that-you-can-use-in-any-project-2ll8)
 - [Dev.to/JS] [LeetCode - Remove Nodes From Linked List](https://dev.to/_alkesh26/leetcode-remove-nodes-from-linked-list-1670)
 - [Dev.to/JS] [🚀 &quot;Three.js: Unleashing the Power of 3D Animations on the Web 🌟&quot;](https://dev.to/jyoti_prakash_25/threejs-unleashing-the-power-of-3d-animations-on-the-web--34bd)
-- [Dev.to/JS] [How to use alt text in accessible images](https://dev.to/nikolasbarwicki/how-to-use-alt-text-in-accessible-images-4lko)
-- [Dev.to/JS] [How to keep the type of storage value unchanged?](https://dev.to/kidjoker/how-to-keep-the-type-of-storage-value-unchanged-3b3h)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
