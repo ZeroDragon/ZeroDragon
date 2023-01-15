@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can functional programming improve the reliability and maintainability of your programs?](https://dev.to/uncle_ben/how-can-functional-programming-improve-the-reliability-and-maintainability-of-your-programs-2ib)
+- [Dev.to/JS] [Career Success: 5 Tips on How To Take It To The Next Level &lpar;with resources&rpar;](https://dev.to/jareechang/career-success-5-tips-on-how-to-take-it-to-the-next-level-with-resources-5796)
 - [Dev.to/JS] [Javascript Array Methods Ep.5](https://dev.to/theadeshkhanna/javascript-array-methods-ep5-4nhc)
 - [Dev.to/JS] [How to create a Password Generator using JavaScript](https://dev.to/pandersail/how-to-create-a-password-generator-using-javascript-2321)
 - [Dev.to/JS] [Redux Vs Redux Toolkit](https://dev.to/azadulkabir455/redux-vs-redux-toolkit-472b)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-224p)
 - [Dev.to/JS] [15 Gatsby developers to follow in 2022](https://dev.to/momciloo/15-gatsby-developers-to-follow-in-2022-3ca9)
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
-- [Dev.to/JS] [How to implement a design system in your project.](https://dev.to/gatesvert81/how-to-implement-a-design-system-in-your-project-4ehi)
-- [Dev.to/JS] [Introduction to [ES6 vs ES5 &amp; Why,How to Transpile code] 2023](https://dev.to/andriken/introduction-to-es6-vs-es5-whyhow-to-transpile-code-2023-5emk)
 - [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
