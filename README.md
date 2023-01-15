@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebStorm&#39;s Advanced Features Justify its Price](https://dev.to/josefheld/webstorms-advanced-features-justify-its-price-4784)
 - [Dev.to/JS] [How to use Chart.js to create a Chart for Your Project](https://dev.to/ijay/how-to-use-chartjs-to-create-a-chart-for-your-project-3kk2)
 - [Dev.to/JS] [Angular DevTools](https://dev.to/adonispavlis/angular-devtools-1dm3)
 - [Dev.to/JS] [Docker Node.js and MongoDB: A Guide to MVC](https://dev.to/malikidrees/docker-nodejs-and-mongodb-a-guide-to-mvc-ocg)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s your current tech stack for web development?](https://dev.to/arafat4693/which-tech-stack-are-you-currently-using-as-a-web-dev-30k5)
 - [Dev.to/JS] [Back to the Basics with HTML Forms](https://dev.to/duncanlew/back-to-the-basics-with-html-forms-1l0j)
 - [Dev.to/JS] [Circular Text Within an HTML5 Canvas](https://dev.to/infalliblyfallible/circular-text-within-an-html5-canvas-3fba)
-- [Dev.to/JS] [So when will I finally get to Kill Baby Hitler?!](https://dev.to/jacklehamster/so-when-will-i-finally-get-to-kill-baby-hitler-3j7b)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
