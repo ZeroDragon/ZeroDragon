@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5+ Best Free ReactJS Admin Dashboard Templates for 2023](https://dev.to/fredy/top-5-best-free-reactjs-admin-dashboard-templates-for-2023-1eh7)
+- [Dev.to/JS] [Finally finished my first project!](https://dev.to/taptapyap/finally-finished-my-first-project-ii3)
+- [Dev.to/JS] [JS-X-Ray 6.0](https://dev.to/nodesecure/js-x-ray-60-49ah)
+- [Dev.to/JS] [Eloquent JavaScript Exercise -Range and Sum Function](https://dev.to/patelrohan750/eloquent-javascript-exercise-range-and-sum-function-4n7i)
+- [Dev.to/JS] [LeetCode Palindrome Number Solution in JavaScript](https://dev.to/shubhamb/leetcode-palindrome-number-solution-in-javascript-3o0e)
+- [Dev.to/JS] [5 GitHub Repositories to Prepare for JavaScript Interviews](https://dev.to/onlydevs_/5-github-repositories-to-prepare-for-javascript-interviews-20lk)
+- [Dev.to/JS] [You don&#39;t need to know everything in javascript before you start making use of it](https://dev.to/habeebability/you-dont-need-to-know-everything-in-javascript-before-you-start-making-use-of-it-nj1)
 - [Lifehacker] [All the Free Food You Can Get at Del Taco This Month](https://lifehacker.com/all-the-free-food-you-can-get-at-del-taco-this-month-1849982304)
 - [Dev.to/JS] [ECMAScript 6 ⚡ Shorthand Properties and Method Names](https://dev.to/iamdevmarcos/ecmascript-6-shorthand-properties-and-method-names-174n)
 - [Dev.to/JS] [How to pass a variable into your onClick function](https://dev.to/muhdmirzamz/how-to-pass-a-variable-into-your-onclick-function-19l1)
@@ -30,13 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Ignore These Hidden Costs of Electric Vehicles](https://lifehacker.com/dont-ignore-these-hidden-costs-of-electric-vehicles-1849989463)
 - [Dev.to/JS] [Creating my Interactive 3D portfolio: Getting sidetracked with Blender](https://dev.to/nevoo/creating-my-interactive-3d-portfolio-getting-sidetracked-with-blender-5ge)
 - [Dev.to/JS] [Improve Responsiveness to User Interactions](https://dev.to/nuko_suke/improve-responsiveness-to-user-interactions-4a3p)
-- [Dev.to/JS] [Understanding and Utilising TypeScript, by example](https://dev.to/wearethreebears/understanding-and-utilising-typescript-by-example-1c0k)
-- [Dev.to/JS] [Deploy a Medusa Server on AWS with Microtica](https://dev.to/medusajs/deploy-a-medusa-server-on-aws-with-microtica-4840)
-- [Dev.to/JS] [How to use Landmark Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-landmark-detection-api-with-javascript-in-5-minutes-51ai)
-- [Dev.to/JS] [Creating a Node.js Command-line Tool, Linux Terminal CLI and NPM Package](https://dev.to/basskibo/creating-a-nodejs-command-line-tool-linux-terminal-cli-and-npm-package-50na)
-- [Dev.to/JS] [ReactJs commonly used Hooks](https://dev.to/koushikweb/reactjs-commonly-used-hooks-4gbo)
-- [Dev.to/JS] [The Role of Transpilers in Web Development](https://dev.to/brightdevs/the-role-of-transpilers-in-web-development-3g1j)
-- [Dev.to/JS] [Navigating the Future of Coding: How to Ensure the Survival of Your Career in an Evolving Industry](https://dev.to/navyn/navigating-the-future-of-coding-how-to-ensure-the-survival-of-your-career-in-an-evolving-industry-29lg)
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
 - [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
