@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Managing State in React: An Overview of the setState Method](https://dev.to/devarshishimpi/managing-state-in-react-an-overview-of-the-setstate-method-25dd)
 - [Dev.to/JS] [The Secret Behind Bug-Free Games: QA Automation](https://dev.to/imshaiknasir/the-secret-behind-bug-free-games-qa-automation-4l3h)
 - [Dev.to/JS] [&#39;B&#39; is assignable to the constraint of type &#39;T&#39;, but &#39;T&#39; could be instantiated with a different subtype of constraint &#39;A&#39;.](https://dev.to/wes/b-is-assignable-to-the-constraint-of-type-t-but-t-could-be-instantiated-with-a-different-subtype-of-constraint-a-2l38)
 - [Dev.to/JS] [How can functional programming improve the reliability and maintainability of your programs?](https://dev.to/uncle_ben/how-can-functional-programming-improve-the-reliability-and-maintainability-of-your-programs-2ib)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlock Faster Performance: A Beginner&#39;s Guide to Using Redis for Database Caching](https://dev.to/orlando70/unlock-faster-performance-a-beginners-guide-to-using-redis-for-database-caching-4bci)
 - [Dev.to/JS] [Yet Another Newsletter LOL: &#39;Sup 2023?](https://dev.to/nickytonline/yet-another-newsletter-lol-sup-2023-17jm)
 - [Dev.to/JS] [NPM -i utf-zap // ~175% the speed of TextCoder&lpar;&quot;utf-8&quot;&rpar;](https://dev.to/vipert/npm-i-utf-zap-175-the-speed-of-textcoderutf-8-3clg)
-- [Dev.to/JS] [my pal JSON should be your Friend too](https://dev.to/rickdelpo1/my-pal-json-should-be-your-friend-too-6oe)
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
 - [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
