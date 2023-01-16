@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom Software Development Company in Canada | Codepaper](https://dev.to/codepaper/custom-software-development-company-in-canada-codepaper-2ak6)
 - [Dev.to/JS] [Beginner Calculator Project: html, javaScript &amp; css](https://dev.to/mene_demogul/beginner-calculator-project-html-javascript-css-349n)
 - [Dev.to/JS] [Build a podcast platform in Nuxt.js using Appwrite](https://dev.to/hackmamba/build-a-podcast-platform-in-nuxtjs-using-appwrite-2d10)
 - [Dev.to/JS] [📣 Infinite Table is Here 🎉](https://dev.to/radubrehar/infinite-table-is-here-3f6h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend React Engineer wanted for Low-Code Platform](https://dev.to/kenniko/frontend-react-engineer-wanted-for-low-code-platform-48o7)
 - [Dev.to/JS] [React &amp; TypeScript: useReducer Hook](https://dev.to/elhamnajeebullah/react-typescript-usereducer-hook-4037)
 - [Dev.to/JS] [Unlock the Power of Web Development: From Static Websites to E-commerce Solutions](https://dev.to/embaya01/unlock-the-power-of-web-development-from-static-websites-to-e-commerce-solutions-5ao1)
-- [Dev.to/JS] [What Is The Best Java Framework For Desktop Applications?](https://dev.to/infiraise/what-is-the-best-java-framework-for-desktop-applications-56a8)
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
 - [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
