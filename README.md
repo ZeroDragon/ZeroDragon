@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
+- [Dev.to/JS] [Affiliate Tracking System for Networks — Part 1](https://dev.to/codercrux/affiliate-tracking-system-for-networks-part-1-58f7)
+- [Dev.to/JS] [Firebase V9 Firestore DELETE Document Using deleteDoc&lpar;&rpar;](https://dev.to/hirajatamil/firebase-v9-firestore-delete-document-using-deletedoc-5bjh)
+- [Dev.to/JS] [Difference between HTTP and HTTPS](https://dev.to/pcabreram1234/difference-between-http-and-https-5n9)
 - [Dev.to/JS] [Top 5+ Best Free ReactJS Admin Dashboard Templates for 2023](https://dev.to/fredy/top-5-best-free-reactjs-admin-dashboard-templates-for-2023-1eh7)
+- [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
 - [Dev.to/JS] [Finally finished my first project!](https://dev.to/taptapyap/finally-finished-my-first-project-ii3)
 - [Dev.to/JS] [JS-X-Ray 6.0](https://dev.to/nodesecure/js-x-ray-60-49ah)
 - [Dev.to/JS] [Eloquent JavaScript Exercise -Range and Sum Function](https://dev.to/patelrohan750/eloquent-javascript-exercise-range-and-sum-function-4n7i)
@@ -31,12 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 GitHub Repositories to Prepare for JavaScript Interviews](https://dev.to/onlydevs_/5-github-repositories-to-prepare-for-javascript-interviews-20lk)
 - [Dev.to/JS] [You don&#39;t need to know everything in javascript before you start making use of it](https://dev.to/habeebability/you-dont-need-to-know-everything-in-javascript-before-you-start-making-use-of-it-nj1)
 - [Lifehacker] [All the Free Food You Can Get at Del Taco This Month](https://lifehacker.com/all-the-free-food-you-can-get-at-del-taco-this-month-1849982304)
-- [Dev.to/JS] [ECMAScript 6 ⚡ Shorthand Properties and Method Names](https://dev.to/iamdevmarcos/ecmascript-6-shorthand-properties-and-method-names-174n)
+- [Dev.to/JS] [ECMAScript 6 ⚡ Shorthand Properties &amp; Method Names](https://dev.to/iamdevmarcos/ecmascript-6-shorthand-properties-and-method-names-174n)
 - [Dev.to/JS] [How to pass a variable into your onClick function](https://dev.to/muhdmirzamz/how-to-pass-a-variable-into-your-onclick-function-19l1)
-- [Dev.to/JS] [Light/dark mode: Corrections](https://dev.to/ayc0/lightdark-mode-corrections-5e19)
 - [Lifehacker] [Don&#39;t Ignore These Hidden Costs of Electric Vehicles](https://lifehacker.com/dont-ignore-these-hidden-costs-of-electric-vehicles-1849989463)
-- [Dev.to/JS] [Creating my Interactive 3D portfolio: Getting sidetracked with Blender](https://dev.to/nevoo/creating-my-interactive-3d-portfolio-getting-sidetracked-with-blender-5ge)
-- [Dev.to/JS] [Improve Responsiveness to User Interactions](https://dev.to/nuko_suke/improve-responsiveness-to-user-interactions-4a3p)
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
 - [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Maybe Your Divorce Deserves a Party](https://lifehacker.com/maybe-your-divorce-deserves-a-party-1849977489)
 - [Lifehacker] [How to Choose a Statement Chandelier That Isn’t Tacky](https://lifehacker.com/how-to-choose-a-statement-chandelier-that-isn-t-tacky-1849976287)
 - [Lifehacker] [Seven iPhone Automations You Deserve to Make Life Easier](https://lifehacker.com/seven-iphone-automations-you-deserve-to-make-life-easie-1849969049)
-- [Lifehacker] [What to Do When You’re Blinded by Another Car’s High Beams](https://lifehacker.com/what-to-do-when-you-re-blinded-by-another-car-s-high-be-1849970220)
-- [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
-- [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When You’re Blinded by Another Car’s High Beams](https://lifehacker.com/what-to-do-when-you-re-blinded-by-another-car-s-high-be-1849970220)<!-- TECH-POSTS:END -->
 
 ---
 
