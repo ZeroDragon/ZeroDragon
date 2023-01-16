@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A beginner&#39;s guide to regex: Understanding the basics](https://dev.to/cedriking/a-beginners-guide-to-regex-understanding-the-basics-2j4m)
+- [Dev.to/JS] [Entendendo comparações de igualdade estrita e suave no JavaScript.](https://dev.to/altencirsilvajr/entendendo-comparacoes-de-igualdade-estrita-e-suave-no-javascript-2gm3)
 - [Dev.to/JS] [Scroll Animations](https://dev.to/jansellopez/scroll-animations-3aeh)
 - [Dev.to/JS] [Diário de bordo #5](https://dev.to/analuisadev/diario-de-bordo-5-3bpg)
 - [Dev.to/JS] [Dependency Injection for JavaScript Developers](https://dev.to/branch/dependency-injection-for-javascript-developers-5e3l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to access the request context anywhere in your application ?](https://dev.to/earthboundmisfit/what-to-do-if-you-lose-track-of-request-context-before-an-async-function-execution-completes-55om)
 - [Dev.to/JS] [What is Node.js? A beginner&#39;s introduction to JavaScript runtime](https://dev.to/educative/what-is-nodejs-a-beginners-introduction-to-javascript-runtime-1iki)
 - [Dev.to/JS] [Filter: A JavaScript Iterator](https://dev.to/michellebuchiokonicha/filter-a-javascript-iterator-15i6)
-- [Dev.to/JS] [Why you should consider using the MERN stack for your next web development project](https://dev.to/hsn0x/why-you-should-consider-using-the-mern-stack-for-your-next-web-development-project-415m)
-- [Dev.to/JS] [Unleashing the Power of the MERN Stack: Building Scalable, High-Performance Web Applications](https://dev.to/hsn0x/unleashing-the-power-of-the-mern-stack-building-scalable-high-performance-web-applications-41gg)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
