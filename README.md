@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [What to do if you lose track of request context before an async function execution completes?](https://dev.to/earthboundmisfit/what-to-do-if-you-lose-track-of-request-context-before-an-async-function-execution-completes-55om)
+- [Dev.to/JS] [The limitations of JavaScript as a programming language](https://dev.to/malikhaziq/the-limitations-of-javascript-as-a-programming-language-2fd7)
+- [Dev.to/JS] [The Ultimate Guide to internationalization &lpar;i18n&rpar; in Next.js 13](https://dev.to/ajones_codes/the-ultimate-guide-to-internationalization-i18n-in-nextjs-13-ed0)
+- [Dev.to/JS] [Кастомный React хук— useDebounce](https://dev.to/mukhammadsobirov/kastomnyi-react-khuk-usedebounce-2b3l)
+- [Dev.to/JS] [Amazing Conferences for Developers in 2023](https://dev.to/michaellarocca/amazing-conferences-for-developers-in-2023-344b)
+- [Dev.to/JS] [How to access the request context anywhere in your application ?](https://dev.to/earthboundmisfit/what-to-do-if-you-lose-track-of-request-context-before-an-async-function-execution-completes-55om)
 - [Dev.to/JS] [What is Node.js? A beginner&#39;s introduction to JavaScript runtime](https://dev.to/educative/what-is-nodejs-a-beginners-introduction-to-javascript-runtime-1iki)
 - [Dev.to/JS] [Filter: A JavaScript Iterator](https://dev.to/michellebuchiokonicha/filter-a-javascript-iterator-15i6)
 - [Dev.to/JS] [Why you should consider using the MERN stack for your next web development project](https://dev.to/hsn0x/why-you-should-consider-using-the-mern-stack-for-your-next-web-development-project-415m)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Signup/Login/Account Settings application With Amplify](https://dev.to/erikch/react-signuplogindelete-user-application-with-amplify-1722)
 - [Dev.to/JS] [Safe Data Fetching in Modern JavaScript](https://dev.to/builderio/safe-data-fetching-in-modern-javascript-dp4)
 - [Dev.to/JS] [JavaScript: Desempenho de forEach, map e reduce vs for e for...of](https://dev.to/trinitypath/javascript-desempenho-de-foreach-map-e-reduce-vs-for-e-forof-52i7)
-- [Dev.to/JS] [Automating Advent Calendar with Github Actions and Eleventy](https://dev.to/eevajonnapanula/automating-advent-calendar-with-github-actions-and-eleventy-4fnp)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
-- [Dev.to/JS] [Affiliate Tracking System for Networks — Part 1](https://dev.to/codercrux/affiliate-tracking-system-for-networks-part-1-58f7)
-- [Dev.to/JS] [Firebase V9 Firestore DELETE Document Using deleteDoc&lpar;&rpar;](https://dev.to/hirajatamil/firebase-v9-firestore-delete-document-using-deletedoc-5bjh)
-- [Dev.to/JS] [Difference between HTTP and HTTPS](https://dev.to/pcabreram1234/difference-between-http-and-https-5n9)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
 - [Lifehacker] [All the Free Food You Can Get at Del Taco This Month](https://lifehacker.com/all-the-free-food-you-can-get-at-del-taco-this-month-1849982304)
 - [Lifehacker] [Don&#39;t Ignore These Hidden Costs of Electric Vehicles](https://lifehacker.com/dont-ignore-these-hidden-costs-of-electric-vehicles-1849989463)
