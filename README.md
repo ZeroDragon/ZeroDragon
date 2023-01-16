@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Free Food You Can Get at Del Taco This Month](https://lifehacker.com/all-the-free-food-you-can-get-at-del-taco-this-month-1849982304)
+- [Dev.to/JS] [ECMAScript 6 ⚡ Shorthand Properties and Method Names](https://dev.to/iamdevmarcos/ecmascript-6-shorthand-properties-and-method-names-174n)
+- [Dev.to/JS] [How to pass a variable into your onClick function](https://dev.to/muhdmirzamz/how-to-pass-a-variable-into-your-onclick-function-19l1)
+- [Dev.to/JS] [Light/dark mode: Corrections](https://dev.to/ayc0/lightdark-mode-corrections-5e19)
+- [Lifehacker] [Don&#39;t Ignore These Hidden Costs of Electric Vehicles](https://lifehacker.com/dont-ignore-these-hidden-costs-of-electric-vehicles-1849989463)
 - [Dev.to/JS] [Creating my Interactive 3D portfolio: Getting sidetracked with Blender](https://dev.to/nevoo/creating-my-interactive-3d-portfolio-getting-sidetracked-with-blender-5ge)
 - [Dev.to/JS] [Improve Responsiveness to User Interactions](https://dev.to/nuko_suke/improve-responsiveness-to-user-interactions-4a3p)
 - [Dev.to/JS] [Understanding and Utilising TypeScript, by example](https://dev.to/wearethreebears/understanding-and-utilising-typescript-by-example-1c0k)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReactJs commonly used Hooks](https://dev.to/koushikweb/reactjs-commonly-used-hooks-4gbo)
 - [Dev.to/JS] [The Role of Transpilers in Web Development](https://dev.to/brightdevs/the-role-of-transpilers-in-web-development-3g1j)
 - [Dev.to/JS] [Navigating the Future of Coding: How to Ensure the Survival of Your Career in an Evolving Industry](https://dev.to/navyn/navigating-the-future-of-coding-how-to-ensure-the-survival-of-your-career-in-an-evolving-industry-29lg)
-- [Dev.to/JS] [The Main Challenges a React Form Library Should Solve](https://dev.to/pmbanugo/the-main-challenges-a-react-form-library-should-solve-e72)
-- [Dev.to/JS] [How to Integrate FormKit and Bootstrap](https://dev.to/morgenstern2573/how-to-integrate-formkit-and-bootstrap-2571)
-- [Dev.to/JS] [Episode 23/02: Angular 15.1, State of JavaScript 2022](https://dev.to/ng_news/episode-2302-angular-151-state-of-javascript-2022-2pim)
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
 - [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven iPhone Automations You Deserve to Make Life Easier](https://lifehacker.com/seven-iphone-automations-you-deserve-to-make-life-easie-1849969049)
 - [Lifehacker] [What to Do When You’re Blinded by Another Car’s High Beams](https://lifehacker.com/what-to-do-when-you-re-blinded-by-another-car-s-high-be-1849970220)
 - [Crazy Programmer] [Charles Babbage Biography – Father of Computer](https://www.thecrazyprogrammer.com/2023/01/charles-babbage-biography.html)
-- [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)
-- [Lifehacker] [Why You Really Shouldn’t Spend a Lot on a Standing Desk](https://lifehacker.com/why-you-really-shouldn-t-spend-a-lot-on-a-standing-desk-1849980122)
-- [Lifehacker] [10 of the Best Ways to Eat Potato Chips &lpar;Other Than Smashing Them Directly in Your Mouth&rpar;](https://lifehacker.com/10-of-the-best-ways-to-eat-potato-chips-other-than-sma-1849980276)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Prices Are Expected to Increase This Year](https://lifehacker.com/these-prices-are-expected-to-increase-this-year-1849981418)<!-- TECH-POSTS:END -->
 
 ---
 
