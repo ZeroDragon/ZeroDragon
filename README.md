@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scroll Animations](https://dev.to/jansellopez/scroll-animations-3aeh)
+- [Dev.to/JS] [Diário de bordo #5](https://dev.to/analuisadev/diario-de-bordo-5-3bpg)
+- [Dev.to/JS] [Dependency Injection for JavaScript Developers](https://dev.to/branch/dependency-injection-for-javascript-developers-5e3l)
 - [Dev.to/JS] [The limitations of JavaScript as a programming language](https://dev.to/malikhaziq/the-limitations-of-javascript-as-a-programming-language-2fd7)
 - [Dev.to/JS] [The Ultimate Guide to internationalization &lpar;i18n&rpar; in Next.js 13](https://dev.to/ajones_codes/the-ultimate-guide-to-internationalization-i18n-in-nextjs-13-ed0)
 - [Dev.to/JS] [Кастомный React хук— useDebounce](https://dev.to/mukhammadsobirov/kastomnyi-react-khuk-usedebounce-2b3l)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you should consider using the MERN stack for your next web development project](https://dev.to/hsn0x/why-you-should-consider-using-the-mern-stack-for-your-next-web-development-project-415m)
 - [Dev.to/JS] [Unleashing the Power of the MERN Stack: Building Scalable, High-Performance Web Applications](https://dev.to/hsn0x/unleashing-the-power-of-the-mern-stack-building-scalable-high-performance-web-applications-41gg)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
-- [Dev.to/JS] [React Signup/Login/Account Settings application With Amplify](https://dev.to/erikch/react-signuplogindelete-user-application-with-amplify-1722)
-- [Dev.to/JS] [Safe Data Fetching in Modern JavaScript](https://dev.to/builderio/safe-data-fetching-in-modern-javascript-dp4)
-- [Dev.to/JS] [JavaScript: Desempenho de forEach, map e reduce vs for e for...of](https://dev.to/trinitypath/javascript-desempenho-de-foreach-map-e-reduce-vs-for-e-forof-52i7)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
 - [Lifehacker] [All the Free Food You Can Get at Del Taco This Month](https://lifehacker.com/all-the-free-food-you-can-get-at-del-taco-this-month-1849982304)
