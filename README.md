@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating my Interactive 3D portfolio: Getting sidetracked with Blender](https://dev.to/nevoo/creating-my-interactive-3d-portfolio-getting-sidetracked-with-blender-5ge)
+- [Dev.to/JS] [Improve Responsiveness to User Interactions](https://dev.to/nuko_suke/improve-responsiveness-to-user-interactions-4a3p)
+- [Dev.to/JS] [Understanding and Utilising TypeScript, by example](https://dev.to/wearethreebears/understanding-and-utilising-typescript-by-example-1c0k)
+- [Dev.to/JS] [Deploy a Medusa Server on AWS with Microtica](https://dev.to/medusajs/deploy-a-medusa-server-on-aws-with-microtica-4840)
+- [Dev.to/JS] [How to use Landmark Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-landmark-detection-api-with-javascript-in-5-minutes-51ai)
 - [Dev.to/JS] [Creating a Node.js Command-line Tool, Linux Terminal CLI and NPM Package](https://dev.to/basskibo/creating-a-nodejs-command-line-tool-linux-terminal-cli-and-npm-package-50na)
 - [Dev.to/JS] [ReactJs commonly used Hooks](https://dev.to/koushikweb/reactjs-commonly-used-hooks-4gbo)
 - [Dev.to/JS] [The Role of Transpilers in Web Development](https://dev.to/brightdevs/the-role-of-transpilers-in-web-development-3g1j)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Main Challenges a React Form Library Should Solve](https://dev.to/pmbanugo/the-main-challenges-a-react-form-library-should-solve-e72)
 - [Dev.to/JS] [How to Integrate FormKit and Bootstrap](https://dev.to/morgenstern2573/how-to-integrate-formkit-and-bootstrap-2571)
 - [Dev.to/JS] [Episode 23/02: Angular 15.1, State of JavaScript 2022](https://dev.to/ng_news/episode-2302-angular-151-state-of-javascript-2022-2pim)
-- [Dev.to/JS] [Custom Software Development Company in Canada | Codepaper](https://dev.to/codepaper/custom-software-development-company-in-canada-codepaper-2ak6)
-- [Dev.to/JS] [Beginner Calculator Project: html, javaScript &amp; css](https://dev.to/mene_demogul/beginner-calculator-project-html-javascript-css-349n)
-- [Dev.to/JS] [Build a podcast platform in Nuxt.js using Appwrite](https://dev.to/hackmamba/build-a-podcast-platform-in-nuxtjs-using-appwrite-2d10)
-- [Dev.to/JS] [📣 Infinite Table is Here 🎉](https://dev.to/radubrehar/infinite-table-is-here-3f6h)
-- [Dev.to/JS] [Dream Jamstack with Nuxt and Storyblok 🚀](https://dev.to/jacobandrewsky/dream-jamstack-with-nuxt-and-storyblok-3afj)
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
 - [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
