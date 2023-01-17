@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub resources to level up your JavaScript coding skills](https://dev.to/fpaghar/github-resources-to-level-up-your-javascript-coding-skills-49oi)
+- [Dev.to/JS] [Top 10 most useful react hooks.](https://dev.to/nisalk/top-10-most-useful-react-hooks-393p)
+- [Dev.to/JS] [Random Gradient Generator](https://dev.to/arsallanshahab/random-gradient-generator-20e8)
+- [Lifehacker] [The Two Biggest Mistakes Beginners Make on the Rowing Machine](https://lifehacker.com/the-two-biggest-mistakes-beginners-make-on-the-rowing-m-1849995496)
+- [Dev.to/JS] [Better Configuration in TypeScript with the `satisfies` Operator](https://dev.to/builderio/better-configuration-in-typescript-with-the-satisfies-operator-20ig)
+- [Dev.to/JS] [Resturant App](https://dev.to/aaradj/resturant-app-3h1i)
 - [Lifehacker] [Clever Ways to Manage All Your Cords and Cables](https://lifehacker.com/clever-ways-to-manage-all-your-cords-and-cables-1849991866)
 - [Dev.to/JS] [Deploy your React App on GitHub](https://dev.to/payalsasmal/deploy-your-react-app-on-github-3i26)
 - [Dev.to/JS] [JavaScript: O que são funções IIFE?](https://dev.to/cristuker/javascript-o-que-sao-funcoes-iife-2d4e)
@@ -34,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo POO em JavaScript](https://dev.to/trinitypath/entendendo-poo-em-javascript-3736)
 - [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)
 - [Lifehacker] [How to Get the Most Money When You’re Bumped From a Flight](https://lifehacker.com/how-to-get-the-most-money-when-you-re-bumped-from-a-fli-1849985286)
-- [Dev.to/JS] [Learn how to build apps with LiveChat Developer Platform 🧐](https://dev.to/livechat/video-course-learn-how-to-build-apps-with-livechat-developer-platform-2njm)
-- [Dev.to/JS] [Declarative Conditional Wrappers in React](https://dev.to/khald/declarative-conditional-wrappers-in-react-j52)
 - [Lifehacker] [Seven Clever Ways to Spark Your Kid’s Creativity](https://lifehacker.com/seven-clever-ways-to-spark-your-kid-s-creativity-1849983664)
-- [Dev.to/JS] [Show One Tooltip At A Time Using a Singleton](https://dev.to/mimafogeus2/show-one-tooltip-at-a-time-using-a-singleton-1dho)
-- [Dev.to/JS] [Diário de bordo #6](https://dev.to/analuisadev/diario-de-bordo-6-86k)
 - [Lifehacker] [Eight of the Best Self-Soothing Techniques for Little Kids](https://lifehacker.com/eight-of-the-best-self-soothing-techniques-for-little-k-1849985033)
-- [Dev.to/JS] [The Benefit of the Ternary Operator](https://dev.to/kellilil/the-benefit-of-the-ternary-operator-5dop)
 - [Lifehacker] [These Are the Best Free Delivery Meal Deals Right Now](https://lifehacker.com/these-are-the-best-free-delivery-meal-deals-right-now-1849982168)
 - [Lifehacker] [There&#39;s Yet Another Reason to Save Those Cheese Rinds](https://lifehacker.com/theres-yet-another-reason-to-save-those-cheese-rinds-1849981391)
 - [Lifehacker] [Try Having an ‘Abundance Mindset’ to Increase Your Wealth](https://lifehacker.com/try-having-an-abundance-mindset-to-increase-your-weal-1849977458)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Date Someone Newly Single](https://lifehacker.com/when-you-should-and-shouldnt-date-someone-newly-singl-1849982790)
 - [Lifehacker] [Don’t Buy Apple’s iPhone Cases](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
 - [Lifehacker] [How to Get the Most Money Possible From a Canceled Flight](https://lifehacker.com/how-to-get-the-most-money-possible-from-a-canceled-flig-1849981717)
-- [Lifehacker] [Why Antibiotics Don&#39;t Work on Colds](https://lifehacker.com/why-antibiotics-dont-work-on-colds-1849981989)
-- [Lifehacker] [Electric Stoves Are Good, Actually](https://lifehacker.com/electric-stoves-are-good-actually-1849981561)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Antibiotics Don&#39;t Work on Colds](https://lifehacker.com/why-antibiotics-dont-work-on-colds-1849981989)<!-- TECH-POSTS:END -->
 
 ---
 
