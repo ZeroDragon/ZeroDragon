@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scale Node JS App using Cluster Module](https://dev.to/lovepreetsingh/scale-node-js-app-using-cluster-module-3bg8)
+- [Dev.to/JS] [AI Tools for Developers](https://dev.to/rahul3002/ai-tools-for-developers-g79)
+- [Dev.to/JS] [5 Must-Know Features in JavaScript ES2022: Enhance Your Code and Boost Your Productivity](https://dev.to/deep1144/5-must-know-features-in-javascript-es2022-enhance-your-code-and-boost-your-productivity-p3n)
+- [Dev.to/JS] [Mastering JavaScript Generators: Understanding and Using the Power of Pausable Functions](https://dev.to/luispa/mastering-javascript-generators-understanding-and-using-the-power-of-pausable-functions-1l5i)
+- [Dev.to/JS] [Mastering the useState Hook in React](https://dev.to/sidddabdullah/mastering-the-usestate-hook-in-react-380o)
 - [Dev.to/JS] [Code Smell 192 - Optional Attributes](https://dev.to/mcsee/code-smell-192-optional-attributes-263m)
 - [Dev.to/JS] [La Arquitectura Hexagonal: un enfoque para desarrollar aplicaciones robustas en React, Angular y Vue con ejemplos de código](https://dev.to/dennysjmarquez/la-arquitectura-hexagonal-un-enfoque-para-desarrollar-aplicaciones-robustas-en-react-angular-y-vue-con-ejemplos-de-codigo-l4l)
 - [Dev.to/JS] [Building a Wordle helper with Vue.js 3.0](https://dev.to/skydler/building-a-wordle-helper-with-vuejs-30-29c)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ai can replace developers ??? Answer in one word &lpar;yes/no&rpar;.](https://dev.to/develop92001047/ai-can-replace-developers-answer-in-one-word-yesno-3akj)
 - [Dev.to/JS] [A Better Way to Work With Number and Date Inputs in JS](https://dev.to/builderio/a-better-way-to-work-with-number-and-date-inputs-in-js-no7)
 - [Dev.to/JS] [What is React.cloneElement&lpar;&rpar; function?](https://dev.to/lvieira268/what-is-reactcloneelement-function-3nb5)
-- [Dev.to/JS] [RegExp Basics: It&#39;s Not That Hard!](https://dev.to/codeystein/regexp-basics-its-not-that-hard-2dl3)
-- [Dev.to/JS] [A beginner&#39;s guide to regex: Understanding the basics](https://dev.to/cedriking/a-beginners-guide-to-regex-understanding-the-basics-2j4m)
-- [Dev.to/JS] [Entendendo comparações de igualdade estrita e suave no JavaScript.](https://dev.to/altencirsilvajr/entendendo-comparacoes-de-igualdade-estrita-e-suave-no-javascript-2gm3)
-- [Dev.to/JS] [Scroll Animations](https://dev.to/jansellopez/scroll-animations-3aeh)
-- [Dev.to/JS] [Diário de bordo #5](https://dev.to/analuisadev/diario-de-bordo-5-3bpg)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
