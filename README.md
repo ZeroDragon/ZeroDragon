@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [M - Coloring](https://dev.to/zeeshanali0704/m-coloring-2alj)
+- [Dev.to/JS] [Fetch with Typescript for better HTTP API Clients](https://dev.to/simonireilly/fetch-with-typescript-for-better-http-api-clients-2d71)
+- [Dev.to/JS] [0 -&gt; Senior](https://dev.to/pokerek/0-senior-1fcn)
 - [Dev.to/JS] [My Journey in Open Source - conditional-fn](https://dev.to/cadienvan/my-journey-in-open-source-conditional-fn-545k)
 - [Dev.to/JS] [Arguments vs Parameters 🚀](https://dev.to/himanshupal0001/arguments-vs-parameters-49b7)
 - [Dev.to/JS] [WHAT IS CODE REFACTORING PROCESS](https://dev.to/pkumar7899/what-is-code-refactoring-process-bb3)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Consistency - How to be consistent](https://dev.to/vincod/consistency-how-to-be-consistent-1mm6)
 - [Dev.to/JS] [8 mistakes you must never make as a programmer](https://dev.to/hy_piyush/8-mistakes-you-must-never-make-as-a-programmer-5418)
 - [Dev.to/JS] [jQuery Drag And Drop Div Example](https://dev.to/techsolutionstuff/jquery-drag-and-drop-div-example-eb3)
-- [Dev.to/JS] [CARD Flipping with JS](https://dev.to/walternascimentobarroso/card-flipping-with-js-4mdd)
-- [Dev.to/JS] [The best new feature in Next.js 13](https://dev.to/aman2221/the-best-new-feature-in-nextjs-13-4bi0)
-- [Dev.to/JS] [Scale Node JS App using Cluster Module](https://dev.to/lovepreetsingh/scale-node-js-app-using-cluster-module-3bg8)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
