@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Wordle helper with Vue.js 3.0](https://dev.to/skydler/building-a-wordle-helper-with-vuejs-30-29c)
 - [Dev.to/JS] [Progressively loading CSR pages](https://dev.to/exactrealty/progressively-loading-csr-pages-5bmi)
 - [Dev.to/JS] [Ai can replace developers ??? Answer in one word &lpar;yes/no&rpar;.](https://dev.to/develop92001047/ai-can-replace-developers-answer-in-one-word-yesno-3akj)
 - [Dev.to/JS] [A Better Way to Work With Number and Date Inputs in JS](https://dev.to/builderio/a-better-way-to-work-with-number-and-date-inputs-in-js-no7)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Diário de bordo #5](https://dev.to/analuisadev/diario-de-bordo-5-3bpg)
 - [Dev.to/JS] [Dependency Injection for JavaScript Developers](https://dev.to/branch/dependency-injection-for-javascript-developers-5e3l)
 - [Dev.to/JS] [The limitations of JavaScript as a programming language](https://dev.to/malikhaziq/the-limitations-of-javascript-as-a-programming-language-2fd7)
-- [Dev.to/JS] [The Ultimate Guide to internationalization &lpar;i18n&rpar; in Next.js 13](https://dev.to/ajones_codes/the-ultimate-guide-to-internationalization-i18n-in-nextjs-13-ed0)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
