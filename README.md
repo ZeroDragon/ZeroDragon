@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Clever Ways to Manage All Your Cords and Cables](https://lifehacker.com/clever-ways-to-manage-all-your-cords-and-cables-1849991866)
+- [Dev.to/JS] [Deploy your React App on GitHub](https://dev.to/payalsasmal/deploy-your-react-app-on-github-3i26)
+- [Dev.to/JS] [JavaScript: O que são funções IIFE?](https://dev.to/cristuker/javascript-o-que-sao-funcoes-iife-2d4e)
+- [Dev.to/JS] [Some popular JS topics](https://dev.to/shubhamgupta00/some-popular-js-topics-3gkd)
+- [Dev.to/JS] [3 Big Changes in The New Next.js App Folder Architecture](https://dev.to/thetombomb/3-big-changes-in-the-new-nextjs-app-folder-architecture-2dgm)
+- [Dev.to/JS] [How JavaScript Works Under the Hood, Explained for Dummies](https://dev.to/ali11mustafa/how-javascript-works-under-the-hood-explained-for-dummies-2hp1)
+- [Dev.to/JS] [Simple Express server](https://dev.to/muckitymuck/simple-express-server-3d4l)
+- [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)
+- [Dev.to/JS] [Entendendo POO em JavaScript](https://dev.to/trinitypath/entendendo-poo-em-javascript-3736)
 - [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)
 - [Lifehacker] [How to Get the Most Money When You’re Bumped From a Flight](https://lifehacker.com/how-to-get-the-most-money-when-you-re-bumped-from-a-fli-1849985286)
 - [Dev.to/JS] [Learn how to build apps with LiveChat Developer Platform 🧐](https://dev.to/livechat/video-course-learn-how-to-build-apps-with-livechat-developer-platform-2njm)
@@ -32,15 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Diário de bordo #6](https://dev.to/analuisadev/diario-de-bordo-6-86k)
 - [Lifehacker] [Eight of the Best Self-Soothing Techniques for Little Kids](https://lifehacker.com/eight-of-the-best-self-soothing-techniques-for-little-k-1849985033)
 - [Dev.to/JS] [The Benefit of the Ternary Operator](https://dev.to/kellilil/the-benefit-of-the-ternary-operator-5dop)
-- [Dev.to/JS] [Runtimes JavaScript [pt-br]](https://dev.to/ninetails/runtimes-javascript-4b65)
-- [Dev.to/JS] [A Complete Guide to PactumJS](https://dev.to/mdmoeenajazkhan/a-complete-guide-to-pactumjs-3ea6)
-- [Dev.to/JS] [How to Become a MERN Stack Developer In 2023?](https://dev.to/uniquewebdev/how-to-become-a-mern-stack-developer-in-2023-46n)
 - [Lifehacker] [These Are the Best Free Delivery Meal Deals Right Now](https://lifehacker.com/these-are-the-best-free-delivery-meal-deals-right-now-1849982168)
-- [Dev.to/JS] [Less reacting, more deriving](https://dev.to/zeke/less-reacting-more-deriving-556h)
-- [Dev.to/JS] [January 2023 - A glimpse into our roadmap](https://dev.to/medusajs/a-glimpse-into-our-2023-roadmap-21oj)
 - [Lifehacker] [There&#39;s Yet Another Reason to Save Those Cheese Rinds](https://lifehacker.com/theres-yet-another-reason-to-save-those-cheese-rinds-1849981391)
-- [Dev.to/JS] [Auto Sliding Carousel with Javascript](https://dev.to/shubhamtiwari909/auto-sliding-carousel-with-javascript-5h47)
-- [Dev.to/JS] [7 Popular React Native UI Component Libraries You Should Know](https://dev.to/devland/7-popular-react-native-ui-component-libraries-you-should-know-2n48)
 - [Lifehacker] [Try Having an ‘Abundance Mindset’ to Increase Your Wealth](https://lifehacker.com/try-having-an-abundance-mindset-to-increase-your-weal-1849977458)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Buy Apple’s iPhone Cases](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
 - [Lifehacker] [How to Get the Most Money Possible From a Canceled Flight](https://lifehacker.com/how-to-get-the-most-money-possible-from-a-canceled-flig-1849981717)
 - [Lifehacker] [Why Antibiotics Don&#39;t Work on Colds](https://lifehacker.com/why-antibiotics-dont-work-on-colds-1849981989)
-- [Lifehacker] [Electric Stoves Are Good, Actually](https://lifehacker.com/electric-stoves-are-good-actually-1849981561)
-- [Lifehacker] [13 of Best TV Rewatch Podcasts](https://lifehacker.com/13-of-best-tv-rewatch-podcasts-1849977332)
-- [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Electric Stoves Are Good, Actually](https://lifehacker.com/electric-stoves-are-good-actually-1849981561)<!-- TECH-POSTS:END -->
 
 ---
 
