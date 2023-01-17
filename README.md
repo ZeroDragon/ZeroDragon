@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Free Delivery Meal Deals Right Now](https://lifehacker.com/these-are-the-best-free-delivery-meal-deals-right-now-1849982168)
+- [Dev.to/JS] [Less reacting, more deriving](https://dev.to/zeke/less-reacting-more-deriving-556h)
+- [Dev.to/JS] [A glimpse into our 2023 roadmap](https://dev.to/medusajs/a-glimpse-into-our-2023-roadmap-21oj)
+- [Lifehacker] [There&#39;s Yet Another Reason to Save Those Cheese Rinds](https://lifehacker.com/theres-yet-another-reason-to-save-those-cheese-rinds-1849981391)
+- [Dev.to/JS] [Auto Sliding Carousel with Javascript](https://dev.to/shubhamtiwari909/auto-sliding-carousel-with-javascript-5h47)
+- [Dev.to/JS] [7 Popular React Native UI Component Libraries You Should Know](https://dev.to/devland/7-popular-react-native-ui-component-libraries-you-should-know-2n48)
+- [Dev.to/JS] [Understanding Browser Rendering and Performance Optimization](https://dev.to/omerwow/understanding-browser-rendering-and-performance-optimization-5f81)
+- [Dev.to/JS] [Nodejs fetch API: The Complete Guide](https://dev.to/alakkadshaw/nodejs-fetch-api-the-complete-guide-2nmi)
+- [Dev.to/JS] [Introduction to programming languages](https://dev.to/dptechinfo/introduction-to-programming-languages-21hi)
 - [Dev.to/JS] [Paracetamol.js💊| #198: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-198-explica-este-codigo-javascript-5dbo)
 - [Lifehacker] [Try Having an ‘Abundance Mindset’ to Increase Your Wealth](https://lifehacker.com/try-having-an-abundance-mindset-to-increase-your-weal-1849977458)
 - [Dev.to/JS] [⚛️ React Hooks - useState](https://dev.to/iamdevmarcos/react-hooks-usestate-1fpl)
 - [Dev.to/JS] [⚛️⚡️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-5alj)
 - [Dev.to/JS] [Learn JSON in Just 15 Minutes - JSON Crash Course](https://dev.to/omerko96/learn-json-in-just-15-minutes-json-crash-course-2fo7)
 - [Dev.to/JS] [Lazy Loading React Components using intersection observer](https://dev.to/huzaima/lazy-loading-react-components-using-intersection-observer-3phd)
-- [Dev.to/JS] [Free Resources To Become a Job Ready React Developer](https://dev.to/onlydevs_/free-resources-to-become-a-job-ready-react-developer-2667)
-- [Dev.to/JS] [How to preload images for canvas in JavaScript](https://dev.to/alejandroakbal/how-to-preload-images-for-canvas-in-javascript-251c)
-- [Dev.to/JS] [Affiliate Tracking System for Networks — Part 2](https://dev.to/codercrux/affiliate-tracking-system-for-networks-part-2-hnj)
-- [Dev.to/JS] [M - Coloring / Flower Planting With No Adjacent](https://dev.to/zeeshanali0704/m-coloring-2alj)
-- [Dev.to/JS] [Fetch with Typescript for better HTTP API Clients](https://dev.to/simonireilly/fetch-with-typescript-for-better-http-api-clients-2d71)
-- [Dev.to/JS] [0 -&gt; Senior](https://dev.to/pokerek/0-senior-1fcn)
-- [Dev.to/JS] [My Journey in Open Source - conditional-fn](https://dev.to/cadienvan/my-journey-in-open-source-conditional-fn-545k)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adult&#39;s Guide to Kid Culture: What&#39;s Going on With &#39;Dungeons &amp; Dragons&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-goi-1849982988)
 - [Lifehacker] [Use a Muffin Tin As a Big Ol&#39; Trivet](https://lifehacker.com/use-a-muffin-tin-as-a-big-ol-trivet-1849980930)
 - [Lifehacker] [The Easiest Way to Twist Homemade Pretzels](https://lifehacker.com/the-easiest-way-to-twist-homemade-pretzels-1849981457)
-- [Lifehacker] [How to Tell If You Got a ‘Quiet Promotion’ &lpar;and Why That’s Not a Good Thing&rpar;](https://lifehacker.com/how-to-tell-if-you-got-a-quiet-promotion-and-why-tha-1849980890)
-- [Lifehacker] [Maybe Your Divorce Deserves a Party](https://lifehacker.com/maybe-your-divorce-deserves-a-party-1849977489)
-- [Lifehacker] [How to Choose a Statement Chandelier That Isn’t Tacky](https://lifehacker.com/how-to-choose-a-statement-chandelier-that-isn-t-tacky-1849976287)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If You Got a ‘Quiet Promotion’ &lpar;and Why That’s Not a Good Thing&rpar;](https://lifehacker.com/how-to-tell-if-you-got-a-quiet-promotion-and-why-tha-1849980890)<!-- TECH-POSTS:END -->
 
 ---
 
