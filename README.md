@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 192 - Optional Attributes](https://dev.to/mcsee/code-smell-192-optional-attributes-263m)
+- [Dev.to/JS] [La Arquitectura Hexagonal: un enfoque para desarrollar aplicaciones robustas en React, Angular y Vue con ejemplos de código](https://dev.to/dennysjmarquez/la-arquitectura-hexagonal-un-enfoque-para-desarrollar-aplicaciones-robustas-en-react-angular-y-vue-con-ejemplos-de-codigo-l4l)
 - [Dev.to/JS] [Building a Wordle helper with Vue.js 3.0](https://dev.to/skydler/building-a-wordle-helper-with-vuejs-30-29c)
 - [Dev.to/JS] [Progressively loading CSR pages](https://dev.to/exactrealty/progressively-loading-csr-pages-5bmi)
 - [Dev.to/JS] [Ai can replace developers ??? Answer in one word &lpar;yes/no&rpar;.](https://dev.to/develop92001047/ai-can-replace-developers-answer-in-one-word-yesno-3akj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo comparações de igualdade estrita e suave no JavaScript.](https://dev.to/altencirsilvajr/entendendo-comparacoes-de-igualdade-estrita-e-suave-no-javascript-2gm3)
 - [Dev.to/JS] [Scroll Animations](https://dev.to/jansellopez/scroll-animations-3aeh)
 - [Dev.to/JS] [Diário de bordo #5](https://dev.to/analuisadev/diario-de-bordo-5-3bpg)
-- [Dev.to/JS] [Dependency Injection for JavaScript Developers](https://dev.to/branch/dependency-injection-for-javascript-developers-5e3l)
-- [Dev.to/JS] [The limitations of JavaScript as a programming language](https://dev.to/malikhaziq/the-limitations-of-javascript-as-a-programming-language-2fd7)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
