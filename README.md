@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)
+- [Dev.to/JS] [Ray Liotta Net Worth](https://dev.to/networthon993/ray-liotta-net-worth-31ai)
+- [Lifehacker] [Buy ‘Hitman 3’ Now, Get ‘Hitman’ 1 and 2 for Free Later](https://lifehacker.com/buy-hitman-3-now-get-hitman-1-and-2-for-free-later-1849996113)
+- [Lifehacker] [You Need to Do Laundry Differently If You Have Hard Water](https://lifehacker.com/you-need-to-do-laundry-differently-if-you-have-hard-wat-1849994467)
 - [Dev.to/JS] [GitHub resources to level up your JavaScript coding skills](https://dev.to/fpaghar/github-resources-to-level-up-your-javascript-coding-skills-49oi)
 - [Dev.to/JS] [Top 10 most useful react hooks.](https://dev.to/nisalk/top-10-most-useful-react-hooks-393p)
 - [Dev.to/JS] [Random Gradient Generator](https://dev.to/arsallanshahab/random-gradient-generator-20e8)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How JavaScript Works Under the Hood, Explained for Dummies](https://dev.to/ali11mustafa/how-javascript-works-under-the-hood-explained-for-dummies-2hp1)
 - [Dev.to/JS] [Simple Express server](https://dev.to/muckitymuck/simple-express-server-3d4l)
 - [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)
-- [Dev.to/JS] [Entendendo POO em JavaScript](https://dev.to/trinitypath/entendendo-poo-em-javascript-3736)
 - [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)
 - [Lifehacker] [How to Get the Most Money When You’re Bumped From a Flight](https://lifehacker.com/how-to-get-the-most-money-when-you-re-bumped-from-a-fli-1849985286)
 - [Lifehacker] [Seven Clever Ways to Spark Your Kid’s Creativity](https://lifehacker.com/seven-clever-ways-to-spark-your-kid-s-creativity-1849983664)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
 - [Lifehacker] [This App Uses AI to Generate Custom Playlists](https://lifehacker.com/this-app-uses-ai-to-generate-custom-playlists-1849983912)
 - [Lifehacker] [12 Killer Supersets to Add to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
-- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Date Someone Newly Single](https://lifehacker.com/when-you-should-and-shouldnt-date-someone-newly-singl-1849982790)
-- [Lifehacker] [Don’t Buy Apple’s iPhone Cases](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
-- [Lifehacker] [How to Get the Most Money Possible From a Canceled Flight](https://lifehacker.com/how-to-get-the-most-money-possible-from-a-canceled-flig-1849981717)
-- [Lifehacker] [Why Antibiotics Don&#39;t Work on Colds](https://lifehacker.com/why-antibiotics-dont-work-on-colds-1849981989)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Date Someone Newly Single](https://lifehacker.com/when-you-should-and-shouldnt-date-someone-newly-singl-1849982790)<!-- TECH-POSTS:END -->
 
 ---
 
