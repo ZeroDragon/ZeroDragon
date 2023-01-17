@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Design Trends of 2023](https://dev.to/arafat4693/best-design-trends-of-2023-1die)
+- [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
+- [Dev.to/JS] [Javascript in the terminal](https://dev.to/semihgkl/javascript-in-the-terminal-514k)
+- [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
 - [Dev.to/JS] [Syntax, logical and runtime errors](https://dev.to/matthewoluwabusayoopoola/syntax-logical-and-runtime-errors-1721)
 - [Lifehacker] [You Still Don&#39;t Need the New MacBook Pro](https://lifehacker.com/you-still-dont-need-the-new-macbook-pro-1849995439)
 - [Dev.to/JS] [𝟭𝟬 𝗪𝗲𝗯 𝗔𝗽𝗽𝘀 𝘁𝗼 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆](https://dev.to/fpaghar/-ia3)
@@ -34,13 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GitHub resources to level up your JavaScript coding skills](https://dev.to/fpaghar/github-resources-to-level-up-your-javascript-coding-skills-49oi)
 - [Dev.to/JS] [Top 10 most useful react hooks.](https://dev.to/nisalk/top-10-most-useful-react-hooks-393p)
 - [Dev.to/JS] [Random Gradient Generator](https://dev.to/arsallanshahab/random-gradient-generator-20e8)
+- [Dev.to/JS] [React Library Builder using Rollup.js and Storybook](https://dev.to/flaviodelgrosso/react-library-builder-using-rollupjs-and-storybook-2n4i)
 - [Lifehacker] [The Two Biggest Mistakes Beginners Make on the Rowing Machine](https://lifehacker.com/the-two-biggest-mistakes-beginners-make-on-the-rowing-m-1849995496)
 - [Dev.to/JS] [Better Configuration in TypeScript with the `satisfies` Operator](https://dev.to/builderio/better-configuration-in-typescript-with-the-satisfies-operator-20ig)
 - [Dev.to/JS] [Resturant App](https://dev.to/aaradj/resturant-app-3h1i)
 - [Lifehacker] [Clever Ways to Manage All Your Cords and Cables](https://lifehacker.com/clever-ways-to-manage-all-your-cords-and-cables-1849991866)
-- [Dev.to/JS] [Deploy your React App on GitHub](https://dev.to/payalsasmal/deploy-your-react-app-on-github-3i26)
-- [Dev.to/JS] [JavaScript: O que são funções IIFE?](https://dev.to/cristuker/javascript-o-que-sao-funcoes-iife-2d4e)
-- [Dev.to/JS] [Some popular JS topics](https://dev.to/shubhamgupta00/some-popular-js-topics-3gkd)
 - [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)
 - [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)
 - [Lifehacker] [How to Get the Most Money When You’re Bumped From a Flight](https://lifehacker.com/how-to-get-the-most-money-when-you-re-bumped-from-a-fli-1849985286)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
 - [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
-- [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
-- [Lifehacker] [This App Uses AI to Generate Custom Playlists](https://lifehacker.com/this-app-uses-ai-to-generate-custom-playlists-1849983912)
-- [Lifehacker] [12 Killer Supersets to Add to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)<!-- TECH-POSTS:END -->
 
 ---
 
