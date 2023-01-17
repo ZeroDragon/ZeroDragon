@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Affiliate Tracking System for Networks — Part 2](https://dev.to/codercrux/affiliate-tracking-system-for-networks-part-2-hnj)
 - [Dev.to/JS] [M - Coloring](https://dev.to/zeeshanali0704/m-coloring-2alj)
 - [Dev.to/JS] [Fetch with Typescript for better HTTP API Clients](https://dev.to/simonireilly/fetch-with-typescript-for-better-http-api-clients-2d71)
 - [Dev.to/JS] [0 -&gt; Senior](https://dev.to/pokerek/0-senior-1fcn)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Survey Creator / Form Builder to Your Angular Application](https://dev.to/surveyjs/add-survey-creator-form-builder-to-your-angular-application-1nop)
 - [Dev.to/JS] [Consistency - How to be consistent](https://dev.to/vincod/consistency-how-to-be-consistent-1mm6)
 - [Dev.to/JS] [8 mistakes you must never make as a programmer](https://dev.to/hy_piyush/8-mistakes-you-must-never-make-as-a-programmer-5418)
-- [Dev.to/JS] [jQuery Drag And Drop Div Example](https://dev.to/techsolutionstuff/jquery-drag-and-drop-div-example-eb3)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
