@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lazy Loading React Components using intersection observer](https://dev.to/huzaima/lazy-loading-react-components-using-intersection-observer-3phd)
+- [Dev.to/JS] [⚛️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-5443)
 - [Dev.to/JS] [Free Resources To Become a Job Ready React Developer](https://dev.to/onlydevs_/free-resources-to-become-a-job-ready-react-developer-2667)
 - [Dev.to/JS] [How to preload images for canvas in JavaScript](https://dev.to/alejandroakbal/how-to-preload-images-for-canvas-in-javascript-251c)
 - [Dev.to/JS] [Affiliate Tracking System for Networks — Part 2](https://dev.to/codercrux/affiliate-tracking-system-for-networks-part-2-hnj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arguments vs Parameters 🚀](https://dev.to/himanshupal0001/arguments-vs-parameters-49b7)
 - [Dev.to/JS] [WHAT IS CODE REFACTORING PROCESS](https://dev.to/pkumar7899/what-is-code-refactoring-process-bb3)
 - [Dev.to/JS] [Prostadine - Prostate Health Reviews, Benefits, Price &amp; Results?](https://dev.to/prostadineinfo/prostadine-prostate-health-reviews-benefits-price-results-34jd)
-- [Dev.to/JS] [Achieving Reusability With React Composition](https://dev.to/hemant1101/achieving-reusability-with-react-composition-1eo8)
-- [Dev.to/JS] [Add Survey Creator / Form Builder to Your Angular Application](https://dev.to/surveyjs/add-survey-creator-form-builder-to-your-angular-application-1nop)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
 - [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
