@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)
+- [Lifehacker] [How to Get the Most Money When You’re Bumped From a Flight](https://lifehacker.com/how-to-get-the-most-money-when-you-re-bumped-from-a-fli-1849985286)
+- [Dev.to/JS] [Learn how to build apps with LiveChat Developer Platform 🧐](https://dev.to/livechat/video-course-learn-how-to-build-apps-with-livechat-developer-platform-2njm)
+- [Dev.to/JS] [Declarative Conditional Wrappers in React](https://dev.to/khald/declarative-conditional-wrappers-in-react-j52)
 - [Lifehacker] [Seven Clever Ways to Spark Your Kid’s Creativity](https://lifehacker.com/seven-clever-ways-to-spark-your-kid-s-creativity-1849983664)
 - [Dev.to/JS] [Show One Tooltip At A Time Using a Singleton](https://dev.to/mimafogeus2/show-one-tooltip-at-a-time-using-a-singleton-1dho)
 - [Dev.to/JS] [Diário de bordo #6](https://dev.to/analuisadev/diario-de-bordo-6-86k)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s Yet Another Reason to Save Those Cheese Rinds](https://lifehacker.com/theres-yet-another-reason-to-save-those-cheese-rinds-1849981391)
 - [Dev.to/JS] [Auto Sliding Carousel with Javascript](https://dev.to/shubhamtiwari909/auto-sliding-carousel-with-javascript-5h47)
 - [Dev.to/JS] [7 Popular React Native UI Component Libraries You Should Know](https://dev.to/devland/7-popular-react-native-ui-component-libraries-you-should-know-2n48)
-- [Dev.to/JS] [Understanding Browser Rendering and Performance Optimization](https://dev.to/omerwow/understanding-browser-rendering-and-performance-optimization-5f81)
-- [Dev.to/JS] [Nodejs fetch API: The Complete Guide](https://dev.to/alakkadshaw/nodejs-fetch-api-the-complete-guide-2nmi)
 - [Lifehacker] [Try Having an ‘Abundance Mindset’ to Increase Your Wealth](https://lifehacker.com/try-having-an-abundance-mindset-to-increase-your-weal-1849977458)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
 - [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Antibiotics Don&#39;t Work on Colds](https://lifehacker.com/why-antibiotics-dont-work-on-colds-1849981989)
 - [Lifehacker] [Electric Stoves Are Good, Actually](https://lifehacker.com/electric-stoves-are-good-actually-1849981561)
 - [Lifehacker] [13 of Best TV Rewatch Podcasts](https://lifehacker.com/13-of-best-tv-rewatch-podcasts-1849977332)
-- [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
-- [Lifehacker] [The Out-of-Touch Adult&#39;s Guide to Kid Culture: What&#39;s Going on With &#39;Dungeons &amp; Dragons&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-whats-goi-1849982988)
-- [Lifehacker] [Use a Muffin Tin As a Big Ol&#39; Trivet](https://lifehacker.com/use-a-muffin-tin-as-a-big-ol-trivet-1849980930)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)<!-- TECH-POSTS:END -->
 
 ---
 
