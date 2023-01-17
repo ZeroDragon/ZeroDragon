@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Syntax, logical and runtime errors](https://dev.to/matthewoluwabusayoopoola/syntax-logical-and-runtime-errors-1721)
+- [Lifehacker] [You Still Don&#39;t Need the New MacBook Pro](https://lifehacker.com/you-still-dont-need-the-new-macbook-pro-1849995439)
+- [Dev.to/JS] [𝟭𝟬 𝗪𝗲𝗯 𝗔𝗽𝗽𝘀 𝘁𝗼 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆](https://dev.to/fpaghar/-ia3)
+- [Dev.to/JS] [Mastering finally clause in JavaScript, for beginners](https://dev.to/ashu96/mastering-finally-clause-in-javascript-for-beginners-im)
 - [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)
 - [Dev.to/JS] [Ray Liotta Net Worth](https://dev.to/networthon993/ray-liotta-net-worth-31ai)
 - [Lifehacker] [Buy ‘Hitman 3’ Now, Get ‘Hitman’ 1 and 2 for Free Later](https://lifehacker.com/buy-hitman-3-now-get-hitman-1-and-2-for-free-later-1849996113)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploy your React App on GitHub](https://dev.to/payalsasmal/deploy-your-react-app-on-github-3i26)
 - [Dev.to/JS] [JavaScript: O que são funções IIFE?](https://dev.to/cristuker/javascript-o-que-sao-funcoes-iife-2d4e)
 - [Dev.to/JS] [Some popular JS topics](https://dev.to/shubhamgupta00/some-popular-js-topics-3gkd)
-- [Dev.to/JS] [3 Big Changes in The New Next.js App Folder Architecture](https://dev.to/thetombomb/3-big-changes-in-the-new-nextjs-app-folder-architecture-2dgm)
-- [Dev.to/JS] [How JavaScript Works Under the Hood, Explained for Dummies](https://dev.to/ali11mustafa/how-javascript-works-under-the-hood-explained-for-dummies-2hp1)
-- [Dev.to/JS] [Simple Express server](https://dev.to/muckitymuck/simple-express-server-3d4l)
 - [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)
 - [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)
 - [Lifehacker] [How to Get the Most Money When You’re Bumped From a Flight](https://lifehacker.com/how-to-get-the-most-money-when-you-re-bumped-from-a-fli-1849985286)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)
 - [Lifehacker] [You Need to Know Your Roof&#39;s &#39;Snow Load&#39;](https://lifehacker.com/you-need-to-know-your-roofs-snow-load-1849983752)
 - [Lifehacker] [This App Uses AI to Generate Custom Playlists](https://lifehacker.com/this-app-uses-ai-to-generate-custom-playlists-1849983912)
-- [Lifehacker] [12 Killer Supersets to Add to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
-- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Date Someone Newly Single](https://lifehacker.com/when-you-should-and-shouldnt-date-someone-newly-singl-1849982790)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Killer Supersets to Add to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)<!-- TECH-POSTS:END -->
 
 ---
 
