@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
+- [Dev.to/JS] [Top 5 Node.js REST API Frameworks](https://dev.to/moesif/top-5-nodejs-rest-api-frameworks-447f)
+- [Lifehacker] [The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)
+- [Dev.to/JS] [Advent of Code 2022 Day 2 Part 1 - Solution Only](https://dev.to/benboorstein/advent-of-code-2022-day-2-part-1-solution-only-130d)
+- [Lifehacker] [50 of the Most Controversial Films Ever Made](https://lifehacker.com/50-of-the-most-controversial-films-ever-made-1849991335)
 - [Dev.to/JS] [Advent of Code 2022 Day 1 Part 2 - Solution Only](https://dev.to/benboorstein/advent-of-code-2022-day-1-part-2-solution-only-22je)
 - [Dev.to/JS] [Node.js vs React.js: which to choose for your web app project](https://dev.to/educative/nodejs-vs-reactjs-which-to-choose-for-your-web-app-project-3g83)
 - [Lifehacker] [You Can Get a Sam&#39;s Club Membership for Half Off Right Now](https://lifehacker.com/you-can-get-a-sams-club-membership-for-half-off-right-n-1850001794)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [19 Kitchen Knives You Might Encounter &lpar;and What They’re Actually For&rpar;](https://lifehacker.com/18-kitchen-knives-you-might-encounter-and-what-they-re-1849995810)
 - [Dev.to/JS] [Our Journey In The Open Source World](https://dev.to/cadienvan/our-journey-in-the-open-source-world-43h5)
 - [Lifehacker] [Hitler&#39;s Globe, the Lost Dutchman&#39;s Mine, and 7 More Historical Treasures to Hunt For](https://lifehacker.com/hitlers-globe-the-lost-dutchmans-mine-and-7-more-hist-1849999720)
-- [Dev.to/JS] [How to Send Emails in Node.js using Nodemailer](https://dev.to/scofieldidehen/how-to-send-emails-in-nodejs-using-nodemailer-10h9)
-- [Dev.to/JS] [Deep Cloning Objects in JavaScript, the Modern Way](https://dev.to/builderio/deep-cloning-objects-in-javascript-the-modern-way-17kf)
 - [Lifehacker] [13 Ways to Get Weird With Pickles](https://lifehacker.com/13-ways-to-get-weird-with-pickles-1849998044)
 - [Lifehacker] [It Matters Which Rubbing Alcohol You Use for Disinfecting](https://lifehacker.com/it-matters-which-rubbing-alcohol-you-use-for-disinfecti-1849997605)
 - [Lifehacker] [How to Deal With a Coworker Who Won’t Stop Complaining](https://lifehacker.com/how-to-deal-with-a-coworker-who-won-t-stop-complaining-1849996037)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)
 - [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)
 - [Lifehacker] [How to Get the Most Money When You’re Bumped From a Flight](https://lifehacker.com/how-to-get-the-most-money-when-you-re-bumped-from-a-fli-1849985286)
-- [Lifehacker] [Seven Clever Ways to Spark Your Kid’s Creativity](https://lifehacker.com/seven-clever-ways-to-spark-your-kid-s-creativity-1849983664)
-- [Lifehacker] [Eight of the Best Self-Soothing Techniques for Little Kids](https://lifehacker.com/eight-of-the-best-self-soothing-techniques-for-little-k-1849985033)
-- [Lifehacker] [These Are the Best Free Delivery Meal Deals Right Now](https://lifehacker.com/these-are-the-best-free-delivery-meal-deals-right-now-1849982168)
-- [Lifehacker] [There&#39;s Yet Another Reason to Save Those Cheese Rinds](https://lifehacker.com/theres-yet-another-reason-to-save-those-cheese-rinds-1849981391)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Clever Ways to Spark Your Kid’s Creativity](https://lifehacker.com/seven-clever-ways-to-spark-your-kid-s-creativity-1849983664)<!-- TECH-POSTS:END -->
 
 ---
 
