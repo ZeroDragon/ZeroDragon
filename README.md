@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Front-end Developer Roadmap](https://dev.to/priyanshi_sharma/front-end-developer-roadmap-2b6i)
+- [Dev.to/JS] [How to Hire Remote Java Developers Efficiently in 2022?](https://dev.to/infiraise/how-to-hire-remote-java-developers-efficiently-in-2022-13l0)
+- [Dev.to/JS] [Essential CBD Gummies - Pain Relief Reviews, Benefits, Price &amp; Results?](https://dev.to/essentialcbdg20/essential-cbd-gummies-pain-relief-reviews-benefits-price-results-2gld)
+- [Dev.to/JS] [Weekly web development resources #133](https://dev.to/vincenius/weekly-web-development-resources-133-690)
+- [Dev.to/JS] [Front-end Developer Roadmap](https://dev.to/decipherzonetech/front-end-developer-roadmap-2b6i)
 - [Dev.to/JS] [How To Create Parallax Scrolling Effect Using jQuery](https://dev.to/techsolutionstuff/how-to-create-parallax-scrolling-effect-using-jquery-3jm2)
 - [Dev.to/JS] [&quot;this&quot; keyword in JavaScript](https://dev.to/rahul_jindal/this-keyword-in-javascript-4a08)
 - [Dev.to/JS] [Does MERN Stack Make Sense in 2023?](https://dev.to/nitinfab/does-mern-stack-make-sense-in-2023-2op)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use Swiper JS in Vue Vite](https://dev.to/kareemsulaimon/how-to-use-swiper-js-in-vue-vite-5doa)
 - [Dev.to/JS] [Package Publishing Reading &amp; Resources](https://dev.to/laurenashpole/package-publishing-reading-resources-34dc)
 - [Dev.to/JS] [&quot;The future is now old man&quot; | The Start Of My ReactJourney.](https://dev.to/gabe/the-future-is-now-old-man-the-start-of-my-react-js-journey-1ge4)
-- [Dev.to/JS] [How to Optimize Your JavaScript Code for Better Performance](https://dev.to/rxy/how-to-optimize-your-javascript-code-for-better-performance-fg)
-- [Dev.to/JS] [Life Simulator dApp using Thirdweb](https://dev.to/alexandergekov/life-simulator-dapp-using-thirdweb-o49)
-- [Dev.to/JS] [The Best Free React tutorials in 2023](https://dev.to/kutnickclose/the-best-free-react-tutorials-in-2023-29hc)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
