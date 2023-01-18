@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Asked ChatGPT to Code Web Components and This is What Happened](https://dev.to/steveblue/i-asked-chatgpt-to-code-web-components-and-this-is-what-happened-13a1)
+- [Dev.to/JS] [QR Code Generator + Download QR as Image](https://dev.to/developedbyjk/qr-code-generator-download-qr-as-image-15gg)
 - [Dev.to/JS] [How to Hire Remote Java Developers Efficiently in 2022?](https://dev.to/infiraise/how-to-hire-remote-java-developers-efficiently-in-2022-13l0)
 - [Dev.to/JS] [Essential CBD Gummies - Pain Relief Reviews, Benefits, Price &amp; Results?](https://dev.to/essentialcbdg20/essential-cbd-gummies-pain-relief-reviews-benefits-price-results-2gld)
 - [Dev.to/JS] [Weekly web development resources #133](https://dev.to/vincenius/weekly-web-development-resources-133-690)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to become a full-stack developer in 2023](https://dev.to/rahul3002/how-to-become-a-full-stack-developer-in-2023-46mi)
 - [Dev.to/JS] [React State Management: When to Use useState and useReducer Hooks](https://dev.to/a_gaoba/react-state-management-when-to-use-usestate-and-usereducer-hooks-3pep)
 - [Dev.to/JS] [How to Use Swiper JS in Vue Vite](https://dev.to/kareemsulaimon/how-to-use-swiper-js-in-vue-vite-5doa)
-- [Dev.to/JS] [Package Publishing Reading &amp; Resources](https://dev.to/laurenashpole/package-publishing-reading-resources-34dc)
-- [Dev.to/JS] [&quot;The future is now old man&quot; | The Start Of My ReactJourney.](https://dev.to/gabe/the-future-is-now-old-man-the-start-of-my-react-js-journey-1ge4)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
