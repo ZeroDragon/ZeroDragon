@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;this&quot; keyword in JavaScript](https://dev.to/rahul_jindal/this-keyword-in-javascript-4a08)
+- [Dev.to/JS] [Does MERN Stack Make Sense in 2023?](https://dev.to/nitinfab/does-mern-stack-make-sense-in-2023-2op)
 - [Dev.to/JS] [How to become a full-stack developer in 2023](https://dev.to/rahul3002/how-to-become-a-full-stack-developer-in-2023-46mi)
 - [Dev.to/JS] [React State Management: When to Use useState and useReducer Hooks](https://dev.to/a_gaoba/react-state-management-when-to-use-usestate-and-usereducer-hooks-3pep)
 - [Dev.to/JS] [How to Use Swiper JS in Vue Vite](https://dev.to/kareemsulaimon/how-to-use-swiper-js-in-vue-vite-5doa)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Dev.to/JS] [Javascript in the terminal](https://dev.to/semihgkl/javascript-in-the-terminal-514k)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
-- [Dev.to/JS] [Syntax, logical and runtime errors](https://dev.to/matthewoluwabusayoopoola/syntax-logical-and-runtime-errors-1721)
 - [Lifehacker] [You Still Don&#39;t Need the New MacBook Pro](https://lifehacker.com/you-still-dont-need-the-new-macbook-pro-1849995439)
-- [Dev.to/JS] [𝟭𝟬 𝗪𝗲𝗯 𝗔𝗽𝗽𝘀 𝘁𝗼 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆](https://dev.to/fpaghar/-ia3)
 - [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)
 - [Lifehacker] [Buy ‘Hitman 3’ Now, Get ‘Hitman’ 1 and 2 for Free Later](https://lifehacker.com/buy-hitman-3-now-get-hitman-1-and-2-for-free-later-1849996113)
 - [Lifehacker] [You Need to Do Laundry Differently If You Have Hard Water](https://lifehacker.com/you-need-to-do-laundry-differently-if-you-have-hard-wat-1849994467)
