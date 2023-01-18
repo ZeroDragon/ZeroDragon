@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best &quot;Free&quot; Resources To Learn Node.js From Beginner to Advanced](https://dev.to/onlydevs_/best-free-resources-to-learn-nodejs-from-beginner-to-advanced-975)
+- [Dev.to/JS] [⚛️⚡️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-2m4f)
+- [Dev.to/JS] [Vanilla Service Workers in React](https://dev.to/llleeeaaannn/vanilla-service-workers-in-react-138)
 - [Dev.to/JS] [OSD700 - Setting up Telescope and more](https://dev.to/tdaw/osd700-setting-up-telescope-and-more-18bf)
 - [Dev.to/JS] [Passing Data in React: The Power of Props](https://dev.to/mr_walkr/passing-data-in-react-the-power-of-props-4n1)
 - [Dev.to/JS] [Multi-highlighting for DraftJS](https://dev.to/valorsoftware/multi-highlighting-for-draftjs-25m8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Game Aether SX2 - The Next Generation of Open-World Exploration](https://dev.to/dedifaster/game-aether-sx2-the-next-generation-of-open-world-exploration-3e)
 - [Dev.to/JS] [33+ Exclusive In-house Free Templates for 2023](https://dev.to/themewagon/33-exclusive-in-house-free-templates-for-2023-2abf)
 - [Dev.to/JS] [How to handle re-renders in react forms? 🚀](https://dev.to/himanshupal0001/how-to-handle-re-renders-in-react-forms-521e)
-- [Dev.to/JS] [I Asked ChatGPT to Code Web Components and This is What Happened](https://dev.to/steveblue/i-asked-chatgpt-to-code-web-components-and-this-is-what-happened-13a1)
-- [Dev.to/JS] [QR Code Generator + Download QR as Image](https://dev.to/developedbyjk/qr-code-generator-download-qr-as-image-15gg)
-- [Dev.to/JS] [How to Hire Remote Java Developers Efficiently in 2022?](https://dev.to/infiraise/how-to-hire-remote-java-developers-efficiently-in-2022-13l0)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
