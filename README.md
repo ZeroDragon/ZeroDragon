@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advent of Code 2022 Day 1 Part 2 - Solution Only](https://dev.to/benboorstein/advent-of-code-2022-day-1-part-2-solution-only-22je)
+- [Dev.to/JS] [Node.js vs React.js: which to choose for your web app project](https://dev.to/educative/nodejs-vs-reactjs-which-to-choose-for-your-web-app-project-3g83)
+- [Lifehacker] [You Can Get a Sam&#39;s Club Membership for Half Off Right Now](https://lifehacker.com/you-can-get-a-sams-club-membership-for-half-off-right-n-1850001794)
+- [Dev.to/JS] [Function declarations &amp; Function expressions](https://dev.to/catherineisonline/function-declarations-function-expressions-2o5k)
 - [Lifehacker] [How to Troubleshoot an &#39;iMessage Activation Unsuccessful&#39; Alert](https://lifehacker.com/how-to-troubleshoot-an-imessage-activation-unsuccessful-1850001190)
 - [Dev.to/JS] [Unleashing the Power of JavaScript Modules: A Beginner&#39;s Guide](https://dev.to/rahxuls/unleashing-the-power-of-javascript-modules-a-beginners-guide-3ek5)
 - [Lifehacker] [What&#39;s New on Hulu in February 2023](https://lifehacker.com/whats-new-on-hulu-in-february-2023-1850001470)
@@ -35,16 +39,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a rewards system with JavaScript](https://dev.to/posandu/creating-a-rewards-system-with-javascript-47ep)
 - [Lifehacker] [You Can Get a Better Deal on Basically Any Gift Card](https://lifehacker.com/you-can-get-a-better-deal-on-basically-any-gift-card-1849997569)
 - [Dev.to/JS] [Advent of Code 2022 Day 1 Part 1 - Solution Only](https://dev.to/benboorstein/advent-of-code-2022-day-1-part-1-solution-only-219e)
-- [Lifehacker] [18 Kitchen Knives You Might Encounter &lpar;and What They’re Actually For&rpar;](https://lifehacker.com/18-kitchen-knives-you-might-encounter-and-what-they-re-1849995810)
+- [Lifehacker] [19 Kitchen Knives You Might Encounter &lpar;and What They’re Actually For&rpar;](https://lifehacker.com/18-kitchen-knives-you-might-encounter-and-what-they-re-1849995810)
 - [Dev.to/JS] [Our Journey In The Open Source World](https://dev.to/cadienvan/our-journey-in-the-open-source-world-43h5)
 - [Lifehacker] [Hitler&#39;s Globe, the Lost Dutchman&#39;s Mine, and 7 More Historical Treasures to Hunt For](https://lifehacker.com/hitlers-globe-the-lost-dutchmans-mine-and-7-more-hist-1849999720)
 - [Dev.to/JS] [How to Send Emails in Node.js using Nodemailer](https://dev.to/scofieldidehen/how-to-send-emails-in-nodejs-using-nodemailer-10h9)
 - [Dev.to/JS] [Deep Cloning Objects in JavaScript, the Modern Way](https://dev.to/builderio/deep-cloning-objects-in-javascript-the-modern-way-17kf)
-- [Dev.to/JS] [Paracetamol.js💊| #198: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-198-explica-este-codigo-javascript-4mm7)
 - [Lifehacker] [13 Ways to Get Weird With Pickles](https://lifehacker.com/13-ways-to-get-weird-with-pickles-1849998044)
-- [Dev.to/JS] [Scoping in JavaScript:JS#2](https://dev.to/srishtikprasad/scoping-in-javascriptjs2-4k31)
 - [Lifehacker] [It Matters Which Rubbing Alcohol You Use for Disinfecting](https://lifehacker.com/it-matters-which-rubbing-alcohol-you-use-for-disinfecti-1849997605)
-- [Dev.to/JS] [Benchmarking web servers in different languages](https://dev.to/0x96f/benchmarking-web-servers-in-different-languages-202l)
 - [Lifehacker] [How to Deal With a Coworker Who Won’t Stop Complaining](https://lifehacker.com/how-to-deal-with-a-coworker-who-won-t-stop-complaining-1849996037)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Clever Ways to Spark Your Kid’s Creativity](https://lifehacker.com/seven-clever-ways-to-spark-your-kid-s-creativity-1849983664)
 - [Lifehacker] [Eight of the Best Self-Soothing Techniques for Little Kids](https://lifehacker.com/eight-of-the-best-self-soothing-techniques-for-little-k-1849985033)
 - [Lifehacker] [These Are the Best Free Delivery Meal Deals Right Now](https://lifehacker.com/these-are-the-best-free-delivery-meal-deals-right-now-1849982168)
-- [Lifehacker] [There&#39;s Yet Another Reason to Save Those Cheese Rinds](https://lifehacker.com/theres-yet-another-reason-to-save-those-cheese-rinds-1849981391)
-- [Lifehacker] [Try Having an ‘Abundance Mindset’ to Increase Your Wealth](https://lifehacker.com/try-having-an-abundance-mindset-to-increase-your-weal-1849977458)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There&#39;s Yet Another Reason to Save Those Cheese Rinds](https://lifehacker.com/theres-yet-another-reason-to-save-those-cheese-rinds-1849981391)<!-- TECH-POSTS:END -->
 
 ---
 
