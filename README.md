@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Dev.to/JS] [Techniques for optimizing JavaScript performance and reducing load times](https://dev.to/malikhaziq/techniques-for-optimizing-javascript-performance-and-reducing-load-times-552l)
 - [Dev.to/JS] [Tendo poder sobre seu código - Controle de Fluxo, Declarações de Condicionais e Manipulação de exceção.](https://dev.to/altencirsilvajr/tendo-poder-sobre-seu-codigo-controle-de-fluxo-declaracoes-de-condicionais-e-manipulacao-de-excecao-4a04)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Two Biggest Mistakes Beginners Make on the Rowing Machine](https://lifehacker.com/the-two-biggest-mistakes-beginners-make-on-the-rowing-m-1849995496)
 - [Lifehacker] [Clever Ways to Manage All Your Cords and Cables](https://lifehacker.com/clever-ways-to-manage-all-your-cords-and-cables-1849991866)
 - [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)
-- [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)
-- [Lifehacker] [How to Get the Most Money When You’re Bumped From a Flight](https://lifehacker.com/how-to-get-the-most-money-when-you-re-bumped-from-a-fli-1849985286)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)<!-- TECH-POSTS:END -->
 
 ---
 
