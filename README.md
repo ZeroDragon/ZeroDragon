@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React State Management: When to Use useState and useReducer Hooks](https://dev.to/a_gaoba/react-state-management-when-to-use-usestate-and-usereducer-hooks-3pep)
 - [Dev.to/JS] [How to Use Swiper JS in Vue Vite](https://dev.to/kareemsulaimon/how-to-use-swiper-js-in-vue-vite-5doa)
 - [Dev.to/JS] [Package Publishing Reading &amp; Resources](https://dev.to/laurenashpole/package-publishing-reading-resources-34dc)
 - [Dev.to/JS] [&quot;The future is now old man&quot; | The Start Of My ReactJourney.](https://dev.to/gabe/the-future-is-now-old-man-the-start-of-my-react-js-journey-1ge4)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [𝟭𝟬 𝗪𝗲𝗯 𝗔𝗽𝗽𝘀 𝘁𝗼 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆](https://dev.to/fpaghar/-ia3)
 - [Dev.to/JS] [Mastering finally clause in JavaScript, for beginners](https://dev.to/ashu96/mastering-finally-clause-in-javascript-for-beginners-im)
 - [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)
-- [Dev.to/JS] [Ray Liotta Net Worth](https://dev.to/networthon993/ray-liotta-net-worth-31ai)
 - [Lifehacker] [Buy ‘Hitman 3’ Now, Get ‘Hitman’ 1 and 2 for Free Later](https://lifehacker.com/buy-hitman-3-now-get-hitman-1-and-2-for-free-later-1849996113)
 - [Lifehacker] [You Need to Do Laundry Differently If You Have Hard Water](https://lifehacker.com/you-need-to-do-laundry-differently-if-you-have-hard-wat-1849994467)
 - [Lifehacker] [The Two Biggest Mistakes Beginners Make on the Rowing Machine](https://lifehacker.com/the-two-biggest-mistakes-beginners-make-on-the-rowing-m-1849995496)
