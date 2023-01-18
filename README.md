@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Front-end Developer Roadmap](https://dev.to/priyanshi_sharma/front-end-developer-roadmap-2b6i)
+- [Dev.to/JS] [How To Create Parallax Scrolling Effect Using jQuery](https://dev.to/techsolutionstuff/how-to-create-parallax-scrolling-effect-using-jquery-3jm2)
 - [Dev.to/JS] [&quot;this&quot; keyword in JavaScript](https://dev.to/rahul_jindal/this-keyword-in-javascript-4a08)
 - [Dev.to/JS] [Does MERN Stack Make Sense in 2023?](https://dev.to/nitinfab/does-mern-stack-make-sense-in-2023-2op)
 - [Dev.to/JS] [How to become a full-stack developer in 2023](https://dev.to/rahul3002/how-to-become-a-full-stack-developer-in-2023-46mi)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Life Simulator dApp using Thirdweb](https://dev.to/alexandergekov/life-simulator-dapp-using-thirdweb-o49)
 - [Dev.to/JS] [The Best Free React tutorials in 2023](https://dev.to/kutnickclose/the-best-free-react-tutorials-in-2023-29hc)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
-- [Dev.to/JS] [Best Design Trends of 2023](https://dev.to/arafat4693/best-design-trends-of-2023-1die)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
-- [Dev.to/JS] [Javascript in the terminal](https://dev.to/semihgkl/javascript-in-the-terminal-514k)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
 - [Lifehacker] [You Still Don&#39;t Need the New MacBook Pro](https://lifehacker.com/you-still-dont-need-the-new-macbook-pro-1849995439)
 - [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)
