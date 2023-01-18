@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [33+ Exclusive In-house Free Templates for 2023](https://dev.to/themewagon/33-exclusive-in-house-free-templates-for-2023-2abf)
+- [Dev.to/JS] [How to handle re-renders in react forms? 🚀](https://dev.to/himanshupal0001/how-to-handle-re-renders-in-react-forms-521e)
 - [Dev.to/JS] [I Asked ChatGPT to Code Web Components and This is What Happened](https://dev.to/steveblue/i-asked-chatgpt-to-code-web-components-and-this-is-what-happened-13a1)
 - [Dev.to/JS] [QR Code Generator + Download QR as Image](https://dev.to/developedbyjk/qr-code-generator-download-qr-as-image-15gg)
 - [Dev.to/JS] [How to Hire Remote Java Developers Efficiently in 2022?](https://dev.to/infiraise/how-to-hire-remote-java-developers-efficiently-in-2022-13l0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;this&quot; keyword in JavaScript](https://dev.to/rahul_jindal/this-keyword-in-javascript-4a08)
 - [Dev.to/JS] [Does MERN Stack Make Sense in 2023?](https://dev.to/nitinfab/does-mern-stack-make-sense-in-2023-2op)
 - [Dev.to/JS] [How to become a full-stack developer in 2023](https://dev.to/rahul3002/how-to-become-a-full-stack-developer-in-2023-46mi)
-- [Dev.to/JS] [React State Management: When to Use useState and useReducer Hooks](https://dev.to/a_gaoba/react-state-management-when-to-use-usestate-and-usereducer-hooks-3pep)
-- [Dev.to/JS] [How to Use Swiper JS in Vue Vite](https://dev.to/kareemsulaimon/how-to-use-swiper-js-in-vue-vite-5doa)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
