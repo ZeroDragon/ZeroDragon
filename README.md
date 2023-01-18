@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scoping in JavaScript:JS#2](https://dev.to/srishtikprasad/scoping-in-javascriptjs2-4k31)
+- [Lifehacker] [It Matters Which Rubbing Alcohol You Use for Disinfecting](https://lifehacker.com/it-matters-which-rubbing-alcohol-you-use-for-disinfecti-1849997605)
+- [Dev.to/JS] [Benchmarking web servers in different languages](https://dev.to/0x96f/benchmarking-web-servers-in-different-languages-202l)
+- [Dev.to/JS] [How to find an SRI hash on jsdelivr](https://dev.to/rrees/how-to-find-an-sri-hash-on-jsdelivr-4c2f)
+- [Lifehacker] [How to Deal With a Coworker Who Won’t Stop Complaining](https://lifehacker.com/how-to-deal-with-a-coworker-who-won-t-stop-complaining-1849996037)
 - [Dev.to/JS] [Implementing Bubble Sort in Javascript - with an interactive webapp](https://dev.to/tqbit/implementing-bubble-sort-in-javascript-with-an-interactive-webapp-2b33)
 - [Dev.to/JS] [How to Build a Real world Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-real-world-website-using-html-css-javascript-3gap)
 - [Dev.to/JS] [Array.every&lpar;&rpar; et new Set&lpar;&rpar; sauvent LeMOT](https://dev.to/michelc/arrayevery-et-new-set-sauvent-lemot-3h3m)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vanilla Service Workers in React](https://dev.to/llleeeaaannn/vanilla-service-workers-in-react-138)
 - [Dev.to/JS] [OSD700 - Setting up Telescope and more](https://dev.to/tdaw/osd700-setting-up-telescope-and-more-18bf)
 - [Dev.to/JS] [Passing Data in React: The Power of Props](https://dev.to/mr_walkr/passing-data-in-react-the-power-of-props-4n1)
-- [Dev.to/JS] [Multi-highlighting for DraftJS](https://dev.to/valorsoftware/multi-highlighting-for-draftjs-25m8)
-- [Dev.to/JS] [TagTide library: make your HTML editor-friendly and more](https://dev.to/valorsoftware/tagtide-library-make-your-html-editor-friendly-and-more-26pm)
-- [Dev.to/JS] [How to Create App Chat in Easy Steps](https://dev.to/zegocloud_dev/how-to-create-app-chat-in-easy-steps-4m4g)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
 - [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
 - [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
-- [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)
-- [Lifehacker] [Halo Top Will Give You Free Ice Cream for Sticking to a New Goal](https://lifehacker.com/halo-top-will-give-you-free-ice-cream-for-sticking-to-a-1849985992)
-- [Lifehacker] [Baking Soda Will Completely Wreck Your Carpet](https://lifehacker.com/baking-soda-will-fuck-up-your-carpet-1849984622)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)<!-- TECH-POSTS:END -->
 
 ---
 
