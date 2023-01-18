@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Our Journey In The Open Source World](https://dev.to/cadienvan/our-journey-in-the-open-source-world-43h5)
+- [Lifehacker] [Hitler&#39;s Globe, the Lost Dutchman&#39;s Mine, and 7 More Historical Treasures to Hunt For](https://lifehacker.com/hitlers-globe-the-lost-dutchmans-mine-and-7-more-hist-1849999720)
+- [Dev.to/JS] [How to Send Emails in Node.js using Nodemailer](https://dev.to/scofieldidehen/how-to-send-emails-in-nodejs-using-nodemailer-10h9)
+- [Dev.to/JS] [Deep Cloning Objects in JavaScript, the Modern Way](https://dev.to/builderio/deep-cloning-objects-in-javascript-the-modern-way-17kf)
+- [Dev.to/JS] [Paracetamol.js💊| #198: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-198-explica-este-codigo-javascript-4mm7)
+- [Lifehacker] [13 Ways to Get Weird With Pickles](https://lifehacker.com/13-ways-to-get-weird-with-pickles-1849998044)
 - [Dev.to/JS] [Scoping in JavaScript:JS#2](https://dev.to/srishtikprasad/scoping-in-javascriptjs2-4k31)
 - [Lifehacker] [It Matters Which Rubbing Alcohol You Use for Disinfecting](https://lifehacker.com/it-matters-which-rubbing-alcohol-you-use-for-disinfecti-1849997605)
 - [Dev.to/JS] [Benchmarking web servers in different languages](https://dev.to/0x96f/benchmarking-web-servers-in-different-languages-202l)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.every&lpar;&rpar; et new Set&lpar;&rpar; sauvent LeMOT](https://dev.to/michelc/arrayevery-et-new-set-sauvent-lemot-3h3m)
 - [Dev.to/JS] [flatMap&lpar;&rpar; - JavaScript Array method - ES2021](https://dev.to/mrsrv7/flatmap-javascript-array-method-es2021-50hg)
 - [Dev.to/JS] [Best &quot;Free&quot; Resources To Learn Node.js From Beginner to Advanced](https://dev.to/onlydevs_/best-free-resources-to-learn-nodejs-from-beginner-to-advanced-975)
-- [Dev.to/JS] [⚛️⚡️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-2m4f)
-- [Dev.to/JS] [Vanilla Service Workers in React](https://dev.to/llleeeaaannn/vanilla-service-workers-in-react-138)
-- [Dev.to/JS] [OSD700 - Setting up Telescope and more](https://dev.to/tdaw/osd700-setting-up-telescope-and-more-18bf)
-- [Dev.to/JS] [Passing Data in React: The Power of Props](https://dev.to/mr_walkr/passing-data-in-react-the-power-of-props-4n1)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Free Food You Can Get at Del Taco This Month](https://lifehacker.com/all-the-free-food-you-can-get-at-del-taco-this-month-1849982304)
 - [Lifehacker] [Don&#39;t Ignore These Hidden Costs of Electric Vehicles](https://lifehacker.com/dont-ignore-these-hidden-costs-of-electric-vehicles-1849989463)
 - [Lifehacker] [The Best Plants to Grow in Your Shower](https://lifehacker.com/the-best-plants-to-grow-in-your-shower-1849977961)
-- [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)
-- [Lifehacker] [You Can Get $200 Off Amtrak&#39;s Rail Pass Right Now](https://lifehacker.com/you-can-get-200-off-amtraks-rail-pass-right-now-1849977980)
-- [Lifehacker] [How to Tell If a Wall Is Drywall or Plaster](https://lifehacker.com/how-to-tell-if-a-wall-is-drywall-or-plaster-1849977986)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Bid Your Way to Discounted Airline Upgrades](https://lifehacker.com/how-to-bid-your-way-to-discounted-airline-upgrades-1849989460)<!-- TECH-POSTS:END -->
 
 ---
 
