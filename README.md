@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Troubleshoot an &#39;iMessage Activation Unsuccessful&#39; Alert](https://lifehacker.com/how-to-troubleshoot-an-imessage-activation-unsuccessful-1850001190)
+- [Dev.to/JS] [Unleashing the Power of JavaScript Modules: A Beginner&#39;s Guide](https://dev.to/rahxuls/unleashing-the-power-of-javascript-modules-a-beginners-guide-3ek5)
+- [Lifehacker] [What&#39;s New on Hulu in February 2023](https://lifehacker.com/whats-new-on-hulu-in-february-2023-1850001470)
 - [Lifehacker] [When It&#39;s OK to Date an Ex&#39;s Friend &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-its-ok-to-date-an-exs-friend-and-when-you-shouldn-1849998402)
 - [Lifehacker] [Make a Better Ice Cream Sandwich With Frozen Pop-Tarts](https://lifehacker.com/make-a-better-ice-cream-sandwich-with-frozen-pop-tarts-1849998087)
 - [Dev.to/JS] [JSTools Weekly - 2023#2](https://dev.to/jstoolsweekly/jstools-weekly-20232-4den)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scoping in JavaScript:JS#2](https://dev.to/srishtikprasad/scoping-in-javascriptjs2-4k31)
 - [Lifehacker] [It Matters Which Rubbing Alcohol You Use for Disinfecting](https://lifehacker.com/it-matters-which-rubbing-alcohol-you-use-for-disinfecti-1849997605)
 - [Dev.to/JS] [Benchmarking web servers in different languages](https://dev.to/0x96f/benchmarking-web-servers-in-different-languages-202l)
-- [Dev.to/JS] [How to find an SRI hash on jsdelivr](https://dev.to/rrees/how-to-find-an-sri-hash-on-jsdelivr-4c2f)
 - [Lifehacker] [How to Deal With a Coworker Who Won’t Stop Complaining](https://lifehacker.com/how-to-deal-with-a-coworker-who-won-t-stop-complaining-1849996037)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight of the Best Self-Soothing Techniques for Little Kids](https://lifehacker.com/eight-of-the-best-self-soothing-techniques-for-little-k-1849985033)
 - [Lifehacker] [These Are the Best Free Delivery Meal Deals Right Now](https://lifehacker.com/these-are-the-best-free-delivery-meal-deals-right-now-1849982168)
 - [Lifehacker] [There&#39;s Yet Another Reason to Save Those Cheese Rinds](https://lifehacker.com/theres-yet-another-reason-to-save-those-cheese-rinds-1849981391)
-- [Lifehacker] [Try Having an ‘Abundance Mindset’ to Increase Your Wealth](https://lifehacker.com/try-having-an-abundance-mindset-to-increase-your-weal-1849977458)
-- [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
-- [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try Having an ‘Abundance Mindset’ to Increase Your Wealth](https://lifehacker.com/try-having-an-abundance-mindset-to-increase-your-weal-1849977458)<!-- TECH-POSTS:END -->
 
 ---
 
