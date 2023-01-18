@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing Bubble Sort in Javascript - with an interactive webapp](https://dev.to/tqbit/implementing-bubble-sort-in-javascript-with-an-interactive-webapp-2b33)
+- [Dev.to/JS] [How to Build a Real world Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-real-world-website-using-html-css-javascript-3gap)
+- [Dev.to/JS] [Array.every&lpar;&rpar; et new Set&lpar;&rpar; sauvent LeMOT](https://dev.to/michelc/arrayevery-et-new-set-sauvent-lemot-3h3m)
+- [Dev.to/JS] [flatMap&lpar;&rpar; - JavaScript Array method - ES2021](https://dev.to/mrsrv7/flatmap-javascript-array-method-es2021-50hg)
 - [Dev.to/JS] [Best &quot;Free&quot; Resources To Learn Node.js From Beginner to Advanced](https://dev.to/onlydevs_/best-free-resources-to-learn-nodejs-from-beginner-to-advanced-975)
 - [Dev.to/JS] [⚛️⚡️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-2m4f)
 - [Dev.to/JS] [Vanilla Service Workers in React](https://dev.to/llleeeaaannn/vanilla-service-workers-in-react-138)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multi-highlighting for DraftJS](https://dev.to/valorsoftware/multi-highlighting-for-draftjs-25m8)
 - [Dev.to/JS] [TagTide library: make your HTML editor-friendly and more](https://dev.to/valorsoftware/tagtide-library-make-your-html-editor-friendly-and-more-26pm)
 - [Dev.to/JS] [How to Create App Chat in Easy Steps](https://dev.to/zegocloud_dev/how-to-create-app-chat-in-easy-steps-4m4g)
-- [Dev.to/JS] [Which programming language should one learn in 2023?](https://dev.to/mubirueltonfelix/which-programming-language-should-one-learn-in-2023-1ejp)
-- [Dev.to/JS] [Game Aether SX2 - The Next Generation of Open-World Exploration](https://dev.to/dedifaster/game-aether-sx2-the-next-generation-of-open-world-exploration-3e)
-- [Dev.to/JS] [33+ Exclusive In-house Free Templates for 2023](https://dev.to/themewagon/33-exclusive-in-house-free-templates-for-2023-2abf)
-- [Dev.to/JS] [How to handle re-renders in react forms? 🚀](https://dev.to/himanshupal0001/how-to-handle-re-renders-in-react-forms-521e)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
