@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When It&#39;s OK to Date an Ex&#39;s Friend &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-its-ok-to-date-an-exs-friend-and-when-you-shouldn-1849998402)
+- [Lifehacker] [Make a Better Ice Cream Sandwich With Frozen Pop-Tarts](https://lifehacker.com/make-a-better-ice-cream-sandwich-with-frozen-pop-tarts-1849998087)
+- [Dev.to/JS] [JSTools Weekly - 2023#2](https://dev.to/jstoolsweekly/jstools-weekly-20232-4den)
+- [Lifehacker] [What&#39;s New on Disney+ in February 2023](https://lifehacker.com/whats-new-on-disney-in-february-2023-1850000827)
 - [Dev.to/JS] [7 Habits of Highly Effective Developers](https://dev.to/oluwatrillions/7-habits-of-highly-effective-developers-3lo9)
 - [Dev.to/JS] [Responsive Restaurant Website Using HTML CSS &amp; JS](https://dev.to/onlineittutstutorials/responsive-restaurant-website-using-html-css-js-47j0)
 - [Dev.to/JS] [Creating a rewards system with JavaScript](https://dev.to/posandu/creating-a-rewards-system-with-javascript-47ep)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Benchmarking web servers in different languages](https://dev.to/0x96f/benchmarking-web-servers-in-different-languages-202l)
 - [Dev.to/JS] [How to find an SRI hash on jsdelivr](https://dev.to/rrees/how-to-find-an-sri-hash-on-jsdelivr-4c2f)
 - [Lifehacker] [How to Deal With a Coworker Who Won’t Stop Complaining](https://lifehacker.com/how-to-deal-with-a-coworker-who-won-t-stop-complaining-1849996037)
-- [Dev.to/JS] [Implementing Bubble Sort in Javascript - with an interactive webapp](https://dev.to/tqbit/implementing-bubble-sort-in-javascript-with-an-interactive-webapp-2b33)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s Yet Another Reason to Save Those Cheese Rinds](https://lifehacker.com/theres-yet-another-reason-to-save-those-cheese-rinds-1849981391)
 - [Lifehacker] [Try Having an ‘Abundance Mindset’ to Increase Your Wealth](https://lifehacker.com/try-having-an-abundance-mindset-to-increase-your-weal-1849977458)
 - [Lifehacker] [Beware These Red Flags at Your Next Open House](https://lifehacker.com/beware-these-red-flags-at-your-next-open-house-1849986319)
-- [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)
-- [Lifehacker] [This Is the Most Common New Year&#39;s Resolution Mistake](https://lifehacker.com/this-is-the-most-common-new-years-resolution-mistake-1849977966)
-- [Lifehacker] [All the Free Food You Can Get at Del Taco This Month](https://lifehacker.com/all-the-free-food-you-can-get-at-del-taco-this-month-1849982304)
-- [Lifehacker] [Don&#39;t Ignore These Hidden Costs of Electric Vehicles](https://lifehacker.com/dont-ignore-these-hidden-costs-of-electric-vehicles-1849989463)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Clean and Reuse &#39;Single-Use&#39; Plastic Bags](https://lifehacker.com/the-right-way-to-clean-and-reuse-single-use-plastic-bag-1849982092)<!-- TECH-POSTS:END -->
 
 ---
 
