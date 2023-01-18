@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multi-highlighting for DraftJS](https://dev.to/valorsoftware/multi-highlighting-for-draftjs-25m8)
+- [Dev.to/JS] [TagTide library: make your HTML editor-friendly and more](https://dev.to/valorsoftware/tagtide-library-make-your-html-editor-friendly-and-more-26pm)
+- [Dev.to/JS] [How to Create App Chat in Easy Steps](https://dev.to/zegocloud_dev/how-to-create-app-chat-in-easy-steps-4m4g)
+- [Dev.to/JS] [Which programming language should one learn in 2023?](https://dev.to/mubirueltonfelix/which-programming-language-should-one-learn-in-2023-1ejp)
+- [Dev.to/JS] [Game Aether SX2 - The Next Generation of Open-World Exploration](https://dev.to/dedifaster/game-aether-sx2-the-next-generation-of-open-world-exploration-3e)
 - [Dev.to/JS] [33+ Exclusive In-house Free Templates for 2023](https://dev.to/themewagon/33-exclusive-in-house-free-templates-for-2023-2abf)
 - [Dev.to/JS] [How to handle re-renders in react forms? 🚀](https://dev.to/himanshupal0001/how-to-handle-re-renders-in-react-forms-521e)
 - [Dev.to/JS] [I Asked ChatGPT to Code Web Components and This is What Happened](https://dev.to/steveblue/i-asked-chatgpt-to-code-web-components-and-this-is-what-happened-13a1)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Hire Remote Java Developers Efficiently in 2022?](https://dev.to/infiraise/how-to-hire-remote-java-developers-efficiently-in-2022-13l0)
 - [Dev.to/JS] [Essential CBD Gummies - Pain Relief Reviews, Benefits, Price &amp; Results?](https://dev.to/essentialcbdg20/essential-cbd-gummies-pain-relief-reviews-benefits-price-results-2gld)
 - [Dev.to/JS] [Weekly web development resources #133](https://dev.to/vincenius/weekly-web-development-resources-133-690)
-- [Dev.to/JS] [Front-end Developer Roadmap](https://dev.to/decipherzonetech/front-end-developer-roadmap-2b6i)
-- [Dev.to/JS] [How To Create Parallax Scrolling Effect Using jQuery](https://dev.to/techsolutionstuff/how-to-create-parallax-scrolling-effect-using-jquery-3jm2)
-- [Dev.to/JS] [&quot;this&quot; keyword in JavaScript](https://dev.to/rahul_jindal/this-keyword-in-javascript-4a08)
-- [Dev.to/JS] [Does MERN Stack Make Sense in 2023?](https://dev.to/nitinfab/does-mern-stack-make-sense-in-2023-2op)
-- [Dev.to/JS] [How to become a full-stack developer in 2023](https://dev.to/rahul3002/how-to-become-a-full-stack-developer-in-2023-46mi)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
