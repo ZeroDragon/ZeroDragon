@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Package Publishing Reading &amp; Resources](https://dev.to/laurenashpole/package-publishing-reading-resources-34dc)
+- [Dev.to/JS] [&quot;The future is now old man&quot; | The Start Of My ReactJourney.](https://dev.to/gabe/the-future-is-now-old-man-the-start-of-my-react-js-journey-1ge4)
+- [Dev.to/JS] [How to Optimize Your JavaScript Code for Better Performance](https://dev.to/rxy/how-to-optimize-your-javascript-code-for-better-performance-fg)
+- [Dev.to/JS] [Life Simulator dApp using Thirdweb](https://dev.to/alexandergekov/life-simulator-dapp-using-thirdweb-o49)
+- [Dev.to/JS] [The Best Free React tutorials in 2023](https://dev.to/kutnickclose/the-best-free-react-tutorials-in-2023-29hc)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Dev.to/JS] [Best Design Trends of 2023](https://dev.to/arafat4693/best-design-trends-of-2023-1die)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
@@ -37,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Buy ‘Hitman 3’ Now, Get ‘Hitman’ 1 and 2 for Free Later](https://lifehacker.com/buy-hitman-3-now-get-hitman-1-and-2-for-free-later-1849996113)
 - [Lifehacker] [You Need to Do Laundry Differently If You Have Hard Water](https://lifehacker.com/you-need-to-do-laundry-differently-if-you-have-hard-wat-1849994467)
 - [Dev.to/JS] [GitHub resources to level up your JavaScript coding skills](https://dev.to/fpaghar/github-resources-to-level-up-your-javascript-coding-skills-49oi)
-- [Dev.to/JS] [Top 10 most useful react hooks.](https://dev.to/nisalk/top-10-most-useful-react-hooks-393p)
-- [Dev.to/JS] [Random Gradient Generator](https://dev.to/arsallanshahab/random-gradient-generator-20e8)
-- [Dev.to/JS] [React Library Builder using Rollup.js and Storybook](https://dev.to/flaviodelgrosso/react-library-builder-using-rollupjs-and-storybook-2n4i)
 - [Lifehacker] [The Two Biggest Mistakes Beginners Make on the Rowing Machine](https://lifehacker.com/the-two-biggest-mistakes-beginners-make-on-the-rowing-m-1849995496)
-- [Dev.to/JS] [Better Configuration in TypeScript with the `satisfies` Operator](https://dev.to/builderio/better-configuration-in-typescript-with-the-satisfies-operator-20ig)
-- [Dev.to/JS] [Resturant App](https://dev.to/aaradj/resturant-app-3h1i)
 - [Lifehacker] [Clever Ways to Manage All Your Cords and Cables](https://lifehacker.com/clever-ways-to-manage-all-your-cords-and-cables-1849991866)
 - [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)
 - [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)
