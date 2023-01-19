@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Types in Javascript](https://dev.to/deboraquintal/data-types-in-javascript-1ef6)
+- [Dev.to/JS] [Como implementar um scroll infinito no React.js criando um clone do TikTok](https://dev.to/trinitypath/como-implementar-um-scroll-infinito-no-reactjs-criando-um-clone-do-tiktok-33cn)
+- [Lifehacker] [The Easiest Way to Make Cinnamon Rolls If You Suck at Baking](https://lifehacker.com/the-easiest-way-to-make-cinnamon-rolls-if-you-suck-at-b-1850002850)
+- [Dev.to/JS] [How to add Custom Network in Metamask using Window.Ethereum](https://dev.to/0x24karthick/how-to-add-custom-network-in-metamask-using-windowethereum-3mg)
+- [Lifehacker] [You Should Join a Local ‘Maker Space’ If You’re a DIYer](https://lifehacker.com/you-should-join-a-local-maker-space-if-you-re-a-diyer-1849991901)
 - [Lifehacker] [You Should Definitely Make These Creamed Peppers](https://lifehacker.com/you-should-definitely-make-these-creamed-peppers-1850004188)
 - [Dev.to/JS] [Dutch Government&#39;s DigiD iOS App Code Snippet](https://dev.to/jesterxl/dutch-governments-digid-ios-app-code-snippet-7e3)
 - [Dev.to/JS] [A useful function that does nothing](https://dev.to/uploadcare/a-useful-function-that-does-nothing-1bfk)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: First-class Functions](https://dev.to/zakariaels/javascript-first-class-functions-4hp2)
 - [Dev.to/JS] [11 Cool HTML Tricks To Make Your Web Pages Stand Out](https://dev.to/prakashmishr2529/11-cool-html-tricks-to-make-your-web-pages-stand-out-178j)
 - [Lifehacker] [Use &#39;Solomon&#39;s Paradox&#39; to Make Better Life Decisions](https://lifehacker.com/use-solomons-paradox-to-make-better-life-decisions-1850004993)
-- [Dev.to/JS] [When to use function expressions?](https://dev.to/catherineisonline/when-to-use-function-expressions-1g84)
 - [Lifehacker] [When to See February&#39;s Full &#39;Micromoon&#39;](https://lifehacker.com/when-to-see-februarys-full-micromoon-1850002771)
-- [Dev.to/JS] [Responsive Landing Page using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/responsive-landing-page-using-html-css-and-javascript-33di)
-- [Dev.to/JS] [React: best practices and design patterns](https://dev.to/zakariaels/react-best-practices-and-design-patterns-j81)
 - [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)
 - [Lifehacker] [You Can Export Your Entire iMessage History](https://lifehacker.com/you-can-export-your-entire-imessage-history-1850000632)
 - [Lifehacker] [The Easiest Ways to Sync iMessages Across All Your Devices](https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Ways to Get Weird With Pickles](https://lifehacker.com/13-ways-to-get-weird-with-pickles-1849998044)
 - [Lifehacker] [It Matters Which Rubbing Alcohol You Use for Disinfecting](https://lifehacker.com/it-matters-which-rubbing-alcohol-you-use-for-disinfecti-1849997605)
 - [Lifehacker] [How to Deal With a Coworker Who Won’t Stop Complaining](https://lifehacker.com/how-to-deal-with-a-coworker-who-won-t-stop-complaining-1849996037)
-- [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
-- [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
-- [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)<!-- TECH-POSTS:END -->
 
 ---
 
