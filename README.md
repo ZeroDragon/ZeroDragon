@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Thinking about JavaScript Libraries and Frameworks for User Interface](https://dev.to/bullmouse/thinking-about-javascript-libraries-and-frameworks-for-user-interface-ohm)
+- [Dev.to/JS] [Thinking about JavaScript Libraries and Frameworks for User Interface](https://dev.to/bullmouse/thinking-about-javascript-libraries-and-frameworks-for-user-interface-1799)
 - [Dev.to/JS] [Deploying a NodeJS - Express API to AWS Lambda](https://dev.to/juanpireslima/deploying-a-nodejs-express-api-to-aws-lambda-hgc)
 - [Dev.to/JS] [How to Count Words and Characters in JavaScript](https://dev.to/thedevdrawer/how-to-count-words-and-characters-in-javascript-1hb)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
