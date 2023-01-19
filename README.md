@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Definitely Make These Creamed Peppers](https://lifehacker.com/you-should-definitely-make-these-creamed-peppers-1850004188)
+- [Dev.to/JS] [Dutch Government&#39;s DigiD iOS App Code Snippet](https://dev.to/jesterxl/dutch-governments-digid-ios-app-code-snippet-7e3)
+- [Dev.to/JS] [A useful function that does nothing](https://dev.to/uploadcare/a-useful-function-that-does-nothing-1bfk)
+- [Dev.to/JS] [Creating a CRUD Application with React: Mastering useState and useEffect](https://dev.to/darealdyl/creating-a-crud-application-with-react-mastering-usestate-and-useeffect-441h)
+- [Lifehacker] [You Can Attend Sundance Without Going to Utah](https://lifehacker.com/you-can-attend-sundance-without-going-to-utah-1850004589)
 - [Dev.to/JS] [useQuery Hook &lpar;React Query&rpar;](https://dev.to/respect17/usequery-hook-react-query-bb0)
 - [Dev.to/JS] [Revolutionizing Twitter Experience with AI-powered Comment Bot](https://dev.to/sojinsamuel/revolutionizing-twitter-experience-with-ai-powered-comment-bot-56b6)
 - [Dev.to/JS] [Why to use React.js?](https://dev.to/itskunal/why-to-use-reactjs-2e9n)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See February&#39;s Full &#39;Micromoon&#39;](https://lifehacker.com/when-to-see-februarys-full-micromoon-1850002771)
 - [Dev.to/JS] [Responsive Landing Page using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/responsive-landing-page-using-html-css-and-javascript-33di)
 - [Dev.to/JS] [React: best practices and design patterns](https://dev.to/zakariaels/react-best-practices-and-design-patterns-j81)
-- [Dev.to/JS] [ArtDraw SVG Editor](https://dev.to/sysmaya/artdraw-svg-editor-1b1h)
-- [Dev.to/JS] [FireBase Authentication - wds](https://dev.to/akshdesai1/firebase-authentication-wds-2p6m)
-- [Dev.to/JS] [Beeble’s Secure Cloud Platform Now Available To The General Public](https://dev.to/beeble/beebles-secure-cloud-platform-now-available-to-the-general-public-3a)
 - [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)
 - [Lifehacker] [You Can Export Your Entire iMessage History](https://lifehacker.com/you-can-export-your-entire-imessage-history-1850000632)
 - [Lifehacker] [The Easiest Ways to Sync iMessages Across All Your Devices](https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Deal With a Coworker Who Won’t Stop Complaining](https://lifehacker.com/how-to-deal-with-a-coworker-who-won-t-stop-complaining-1849996037)
 - [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
-- [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
-- [Lifehacker] [You Still Don&#39;t Need the New MacBook Pro](https://lifehacker.com/you-still-dont-need-the-new-macbook-pro-1849995439)
-- [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)<!-- TECH-POSTS:END -->
 
 ---
 
