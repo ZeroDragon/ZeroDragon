@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)
+- [Dev.to/JS] [GraphQL vs REST: A simplified explanation on pros, cons, and API design best practices](https://dev.to/mufassirkazi/graphql-vs-rest-a-simplified-explanation-on-pros-cons-and-api-design-best-practices-2)
+- [Dev.to/JS] [The ultimate form library that you will need](https://dev.to/jucian0/the-ultimate-form-library-that-you-will-need-3am2)
+- [Lifehacker] [You Can Export Your Entire iMessage History](https://lifehacker.com/you-can-export-your-entire-imessage-history-1850000632)
+- [Dev.to/JS] [Build Discord Clone using Dead Simple Chat](https://dev.to/alakkadshaw/build-discord-clone-using-dead-simple-chat-aio)
+- [Dev.to/JS] [Circular Progress Bar CSS](https://dev.to/shubhamtiwari909/circular-progress-bar-css-1bi9)
+- [Dev.to/JS] [Writing efficient and reusable code in JavaScript &lpar;OOPs&rpar;:#JS:3](https://dev.to/srishtikprasad/writing-efficient-and-reusable-code-in-javascript-oopsjs3-a55)
 - [Lifehacker] [The Easiest Ways to Sync iMessages Across All Your Devices](https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677)
 - [Dev.to/JS] [Tips and Tricks for Debugging React Applications](https://dev.to/abhaysinghr1/tips-and-tricks-for-debugging-react-applications-j75)
 - [Dev.to/JS] [Retry async function using axios](https://dev.to/fccampelo/retry-async-function-using-axios-jem)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Java Technology Trends that you must know](https://dev.to/infiraise/java-technology-trends-that-you-must-know-1ipo)
 - [Dev.to/JS] [Exploring Chainlink: The Decentralized Oracle Network and Its Key Features &lpar;Series - Part 5&rpar;](https://dev.to/scofieldidehen/exploring-chainlink-the-decentralized-oracle-network-and-its-key-features-series-part-5-5ae1)
 - [Dev.to/JS] [State management with Nuxt 3](https://dev.to/guillaumeduhan/state-management-with-nuxt-3-4885)
-- [Dev.to/JS] [&quot;ChatGPT: The problem-solving pro in a NodeJs app&quot;](https://dev.to/drsimplegraffiti/chatgpt-the-problem-solving-pro-in-a-nodejs-app-cf4)
-- [Dev.to/JS] [Is Javascript a bad programming language?](https://dev.to/bilalkumrani/is-javascript-a-bad-programming-language-1mko)
-- [Dev.to/JS] [Optimizing a Webpack project to improve the performance and user experience](https://dev.to/lorandmarton/optimizing-a-webpack-project-to-improve-the-performance-and-user-experience-2loi)
-- [Dev.to/JS] [Why React is the Perfect Choice for Building User Interfaces?](https://dev.to/delia_code/why-react-is-the-perfect-choice-for-building-user-interfaces-2jp6)
-- [Dev.to/JS] [Part1 : Insya Allah, this year I can work as a Frontend Engineer](https://dev.to/muhammadiqbalid83/part1-insya-allah-this-year-i-can-work-as-a-frontend-engineer-lja)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)
 - [Lifehacker] [Buy ‘Hitman 3’ Now, Get ‘Hitman’ 1 and 2 for Free Later](https://lifehacker.com/buy-hitman-3-now-get-hitman-1-and-2-for-free-later-1849996113)
 - [Lifehacker] [You Need to Do Laundry Differently If You Have Hard Water](https://lifehacker.com/you-need-to-do-laundry-differently-if-you-have-hard-wat-1849994467)
-- [Lifehacker] [The Two Biggest Mistakes Beginners Make on the Rowing Machine](https://lifehacker.com/the-two-biggest-mistakes-beginners-make-on-the-rowing-m-1849995496)
-- [Lifehacker] [Clever Ways to Manage All Your Cords and Cables](https://lifehacker.com/clever-ways-to-manage-all-your-cords-and-cables-1849991866)
-- [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Two Biggest Mistakes Beginners Make on the Rowing Machine](https://lifehacker.com/the-two-biggest-mistakes-beginners-make-on-the-rowing-m-1849995496)<!-- TECH-POSTS:END -->
 
 ---
 
