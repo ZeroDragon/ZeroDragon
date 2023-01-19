@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object Basics We Should Know Before Solving Coding Problems](https://dev.to/ayako_yk/object-basics-we-should-know-before-solving-coding-problems-4acp)
+- [Dev.to/JS] [How To Get Multiple Checkbox Value In jQuery](https://dev.to/techsolutionstuff/how-to-get-multiple-checkbox-value-in-jquery-2l05)
+- [Dev.to/JS] [8 Ways to master web development in 2023](https://dev.to/hy_piyush/8-ways-to-master-web-development-in-2023-3dl2)
+- [Dev.to/JS] [HYPERBEAM TOOL](https://dev.to/mafiaonespot/hyperbeam-tool-4k3m)
 - [Dev.to/JS] [12 JS Conferences in 2023](https://dev.to/jeffchavez_dev/12-js-conferences-in-2023-42ih)
+- [Dev.to/JS] [Alternatives To Node Js](https://dev.to/niza/alternatives-to-node-js-48h9)
 - [Dev.to/JS] [Which Programming Language is good to learn in 2023](https://dev.to/abhi18cs/which-programming-language-is-good-to-learn-in-2023-31m3)
 - [Dev.to/JS] [Building A &lpar;Really&rpar; Simple Blog with Google Sheets as the Database](https://dev.to/daviduzondu/building-a-really-simple-blog-with-google-sheets-as-the-database-4db4)
 - [Dev.to/JS] [CSS Generators](https://dev.to/rahul3002/css-generators-m2n)
@@ -32,14 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Count Words and Characters in JavaScript](https://dev.to/thedevdrawer/how-to-count-words-and-characters-in-javascript-1hb)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
-- [Dev.to/JS] [Techniques for optimizing JavaScript performance and reducing load times](https://dev.to/malikhaziq/techniques-for-optimizing-javascript-performance-and-reducing-load-times-552l)
-- [Dev.to/JS] [Tendo poder sobre seu código - Controle de Fluxo, Declarações de Condicionais e Manipulação de exceção.](https://dev.to/altencirsilvajr/tendo-poder-sobre-seu-codigo-controle-de-fluxo-declaracoes-de-condicionais-e-manipulacao-de-excecao-4a04)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
-- [Dev.to/JS] [Top 5 Node.js REST API Frameworks](https://dev.to/moesif/top-5-nodejs-rest-api-frameworks-447f)
 - [Lifehacker] [The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)
-- [Dev.to/JS] [Advent of Code 2022 Day 2 Part 1 - Solution Only](https://dev.to/benboorstein/advent-of-code-2022-day-2-part-1-solution-only-130d)
 - [Lifehacker] [50 of the Most Controversial Films Ever Made](https://lifehacker.com/50-of-the-most-controversial-films-ever-made-1849991335)
-- [Dev.to/JS] [Advent of Code 2022 Day 1 Part 2 - Solution Only](https://dev.to/benboorstein/advent-of-code-2022-day-1-part-2-solution-only-22je)
 - [Lifehacker] [You Can Get a Sam&#39;s Club Membership for Half Off Right Now](https://lifehacker.com/you-can-get-a-sams-club-membership-for-half-off-right-n-1850001794)
 - [Lifehacker] [How to Troubleshoot an &#39;iMessage Activation Unsuccessful&#39; Alert](https://lifehacker.com/how-to-troubleshoot-an-imessage-activation-unsuccessful-1850001190)
 - [Lifehacker] [What&#39;s New on Hulu in February 2023](https://lifehacker.com/whats-new-on-hulu-in-february-2023-1850001470)
