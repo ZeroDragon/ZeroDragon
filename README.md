@@ -23,23 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)
+- [Dev.to/JS] [JavaScript/TypeScript monorepo setup with PNPM Workspaces, Vite, VueJS and TailwindCSS!](https://dev.to/mihailtd/javascripttypescript-monorepo-setup-with-pnpm-workspaces-vite-vuejs-and-tailwindcss-nki)
+- [Dev.to/JS] [A busy day](https://dev.to/soumocoder/a-busy-day-4afg)
+- [Lifehacker] [11 of our Best Dips for Any Dip-Worthy Event](https://lifehacker.com/11-of-our-best-dips-for-any-dip-worthy-event-1850007389)
+- [Dev.to/JS] [How you can convince your employer to attend ngIndia?](https://dev.to/pankajparkar/how-you-can-convince-your-employer-to-attend-ngindia-41nd)
+- [Dev.to/JS] [10 VS Code Extensions I Couldn’t Live Without](https://dev.to/dsibinski/10-vs-code-extensions-i-couldnt-live-without-4npa)
+- [Dev.to/JS] [JavaScript: O que é callstack?](https://dev.to/cristuker/javascript-o-que-e-callstack-3358)
+- [Dev.to/JS] [How to use Vercel CLI for deployment](https://dev.to/terieyenike/how-to-use-vercel-cli-for-deployment-361f)
+- [Dev.to/JS] [Why Functional Testing: A Real-Life Perspective](https://dev.to/thelamina/why-functional-testing-a-real-life-perspective-4b1o)
+- [Dev.to/JS] [How To Create A Online Html Editor](https://dev.to/akhilathuluri/how-to-create-a-online-html-editor-43if)
+- [Dev.to/JS] [TypeScript&#39;s &quot;Omit&quot; Utility Type](https://dev.to/blamb31/typescripts-omit-utility-type-514g)
+- [Lifehacker] [How to Shop for Tech That Actually Lasts](https://lifehacker.com/how-to-shop-for-tech-that-actually-lasts-1850001386)
 - [Dev.to/JS] [Data Types in Javascript](https://dev.to/deboraquintal/data-types-in-javascript-1ef6)
 - [Dev.to/JS] [Como implementar um scroll infinito no React.js criando um clone do TikTok](https://dev.to/trinitypath/como-implementar-um-scroll-infinito-no-reactjs-criando-um-clone-do-tiktok-33cn)
 - [Lifehacker] [The Easiest Way to Make Cinnamon Rolls If You Suck at Baking](https://lifehacker.com/the-easiest-way-to-make-cinnamon-rolls-if-you-suck-at-b-1850002850)
 - [Dev.to/JS] [How to add Custom Network in Metamask using Window.Ethereum](https://dev.to/0x24karthick/how-to-add-custom-network-in-metamask-using-windowethereum-3mg)
 - [Lifehacker] [You Should Join a Local ‘Maker Space’ If You’re a DIYer](https://lifehacker.com/you-should-join-a-local-maker-space-if-you-re-a-diyer-1849991901)
 - [Lifehacker] [You Should Definitely Make These Creamed Peppers](https://lifehacker.com/you-should-definitely-make-these-creamed-peppers-1850004188)
-- [Dev.to/JS] [Dutch Government&#39;s DigiD iOS App Code Snippet](https://dev.to/jesterxl/dutch-governments-digid-ios-app-code-snippet-7e3)
-- [Dev.to/JS] [A useful function that does nothing](https://dev.to/uploadcare/a-useful-function-that-does-nothing-1bfk)
-- [Dev.to/JS] [Creating a CRUD Application with React: Mastering useState and useEffect](https://dev.to/darealdyl/creating-a-crud-application-with-react-mastering-usestate-and-useeffect-441h)
 - [Lifehacker] [You Can Attend Sundance Without Going to Utah](https://lifehacker.com/you-can-attend-sundance-without-going-to-utah-1850004589)
-- [Dev.to/JS] [useQuery Hook &lpar;React Query&rpar;](https://dev.to/respect17/usequery-hook-react-query-bb0)
-- [Dev.to/JS] [Revolutionizing Twitter Experience with AI-powered Comment Bot](https://dev.to/sojinsamuel/revolutionizing-twitter-experience-with-ai-powered-comment-bot-56b6)
-- [Dev.to/JS] [Why to use React.js?](https://dev.to/itskunal/why-to-use-reactjs-2e9n)
 - [Lifehacker] [Don&#39;t Believe These Myths About Gas Stoves](https://lifehacker.com/dont-believe-these-myths-about-gas-stoves-1850006371)
-- [Dev.to/JS] [3.1 - Content Creation with Richard Bray](https://dev.to/codingcatdev/31-content-creation-with-richard-bray-4e58)
-- [Dev.to/JS] [JavaScript: First-class Functions](https://dev.to/zakariaels/javascript-first-class-functions-4hp2)
-- [Dev.to/JS] [11 Cool HTML Tricks To Make Your Web Pages Stand Out](https://dev.to/prakashmishr2529/11-cool-html-tricks-to-make-your-web-pages-stand-out-178j)
 - [Lifehacker] [Use &#39;Solomon&#39;s Paradox&#39; to Make Better Life Decisions](https://lifehacker.com/use-solomons-paradox-to-make-better-life-decisions-1850004993)
 - [Lifehacker] [When to See February&#39;s Full &#39;Micromoon&#39;](https://lifehacker.com/when-to-see-februarys-full-micromoon-1850002771)
 - [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Better Deal on Basically Any Gift Card](https://lifehacker.com/you-can-get-a-better-deal-on-basically-any-gift-card-1849997569)
 - [Lifehacker] [19 Kitchen Knives You Might Encounter &lpar;and What They’re Actually For&rpar;](https://lifehacker.com/18-kitchen-knives-you-might-encounter-and-what-they-re-1849995810)
 - [Lifehacker] [Hitler&#39;s Globe, the Lost Dutchman&#39;s Mine, and 7 More Historical Treasures to Hunt For](https://lifehacker.com/hitlers-globe-the-lost-dutchmans-mine-and-7-more-hist-1849999720)
-- [Lifehacker] [13 Ways to Get Weird With Pickles](https://lifehacker.com/13-ways-to-get-weird-with-pickles-1849998044)
-- [Lifehacker] [It Matters Which Rubbing Alcohol You Use for Disinfecting](https://lifehacker.com/it-matters-which-rubbing-alcohol-you-use-for-disinfecti-1849997605)
-- [Lifehacker] [How to Deal With a Coworker Who Won’t Stop Complaining](https://lifehacker.com/how-to-deal-with-a-coworker-who-won-t-stop-complaining-1849996037)
-- [Lifehacker] [How &#39;SECURE 2.0&#39; Could Boost Your Retirement Plans](https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 Ways to Get Weird With Pickles](https://lifehacker.com/13-ways-to-get-weird-with-pickles-1849998044)<!-- TECH-POSTS:END -->
 
 ---
 
