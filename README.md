@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Backend é mais fácil que frontend?](https://dev.to/devdoido/backend-e-mais-facil-que-frontend-2c9j)
+- [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
+- [Dev.to/JS] [JS Promises #3: Garbage collection and memory leaks](https://dev.to/xnimorz/js-promises-3-garbage-collection-and-memory-leaks-2oi7)
+- [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
 - [Dev.to/JS] [JavaScript para iniciantes: Aprendendo sobre expressões e operadores.](https://dev.to/altencirsilvajr/javascript-para-iniciantes-aprendendo-sobre-expressoes-e-operadores-1ibi)
 - [Dev.to/JS] [Props: What you need to know](https://dev.to/oluwatrillions/props-what-you-need-to-know-4pn3)
 - [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How you can convince your employer to attend ngIndia?](https://dev.to/pankajparkar/how-you-can-convince-your-employer-to-attend-ngindia-41nd)
 - [Dev.to/JS] [10 VS Code Extensions I Couldn’t Live Without](https://dev.to/dsibinski/10-vs-code-extensions-i-couldnt-live-without-4npa)
 - [Dev.to/JS] [JavaScript: O que é callstack?](https://dev.to/cristuker/javascript-o-que-e-callstack-3358)
-- [Dev.to/JS] [How to use Vercel CLI for deployment](https://dev.to/terieyenike/how-to-use-vercel-cli-for-deployment-361f)
-- [Dev.to/JS] [Why Functional Testing: A Real-Life Perspective](https://dev.to/thelamina/why-functional-testing-a-real-life-perspective-4b1o)
 - [Lifehacker] [How to Shop for Tech That Actually Lasts](https://lifehacker.com/how-to-shop-for-tech-that-actually-lasts-1850001386)
 - [Lifehacker] [The Easiest Way to Make Cinnamon Rolls If You Suck at Baking](https://lifehacker.com/the-easiest-way-to-make-cinnamon-rolls-if-you-suck-at-b-1850002850)
 - [Lifehacker] [You Should Join a Local ‘Maker Space’ If You’re a DIYer](https://lifehacker.com/you-should-join-a-local-maker-space-if-you-re-a-diyer-1849991901)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When It&#39;s OK to Date an Ex&#39;s Friend &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-its-ok-to-date-an-exs-friend-and-when-you-shouldn-1849998402)
 - [Lifehacker] [Make a Better Ice Cream Sandwich With Frozen Pop-Tarts](https://lifehacker.com/make-a-better-ice-cream-sandwich-with-frozen-pop-tarts-1849998087)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2023](https://lifehacker.com/whats-new-on-disney-in-february-2023-1850000827)
-- [Lifehacker] [You Can Get a Better Deal on Basically Any Gift Card](https://lifehacker.com/you-can-get-a-better-deal-on-basically-any-gift-card-1849997569)
-- [Lifehacker] [19 Kitchen Knives You Might Encounter &lpar;and What They’re Actually For&rpar;](https://lifehacker.com/18-kitchen-knives-you-might-encounter-and-what-they-re-1849995810)
-- [Lifehacker] [Hitler&#39;s Globe, the Lost Dutchman&#39;s Mine, and 7 More Historical Treasures to Hunt For](https://lifehacker.com/hitlers-globe-the-lost-dutchmans-mine-and-7-more-hist-1849999720)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Better Deal on Basically Any Gift Card](https://lifehacker.com/you-can-get-a-better-deal-on-basically-any-gift-card-1849997569)<!-- TECH-POSTS:END -->
 
 ---
 
