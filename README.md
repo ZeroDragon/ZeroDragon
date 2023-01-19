@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript para iniciantes: Aprendendo sobre expressões e operadores.](https://dev.to/altencirsilvajr/javascript-para-iniciantes-aprendendo-sobre-expressoes-e-operadores-1ibi)
+- [Dev.to/JS] [Props: What you need to know](https://dev.to/oluwatrillions/props-what-you-need-to-know-4pn3)
+- [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)
+- [Dev.to/JS] [PUT v PATCH](https://dev.to/nadia4206/put-v-patch-1fbd)
+- [Dev.to/JS] [5 Ways to Better Debug Failing Cypress Tests in CI](https://dev.to/mikeshi/5-ways-to-better-debug-failing-cypress-tests-in-ci-133n)
+- [Dev.to/JS] [The ultimate form library that you will need](https://dev.to/jucian0/the-ultimate-form-library-that-you-will-need-1nak)
 - [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)
 - [Dev.to/JS] [JavaScript/TypeScript monorepo setup with PNPM Workspaces, Vite, VueJS and TailwindCSS!](https://dev.to/mihailtd/javascripttypescript-monorepo-setup-with-pnpm-workspaces-vite-vuejs-and-tailwindcss-nki)
 - [Dev.to/JS] [A busy day](https://dev.to/soumocoder/a-busy-day-4afg)
@@ -32,13 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: O que é callstack?](https://dev.to/cristuker/javascript-o-que-e-callstack-3358)
 - [Dev.to/JS] [How to use Vercel CLI for deployment](https://dev.to/terieyenike/how-to-use-vercel-cli-for-deployment-361f)
 - [Dev.to/JS] [Why Functional Testing: A Real-Life Perspective](https://dev.to/thelamina/why-functional-testing-a-real-life-perspective-4b1o)
-- [Dev.to/JS] [How To Create A Online Html Editor](https://dev.to/akhilathuluri/how-to-create-a-online-html-editor-43if)
-- [Dev.to/JS] [TypeScript&#39;s &quot;Omit&quot; Utility Type](https://dev.to/blamb31/typescripts-omit-utility-type-514g)
 - [Lifehacker] [How to Shop for Tech That Actually Lasts](https://lifehacker.com/how-to-shop-for-tech-that-actually-lasts-1850001386)
-- [Dev.to/JS] [Data Types in Javascript](https://dev.to/deboraquintal/data-types-in-javascript-1ef6)
-- [Dev.to/JS] [Como implementar um scroll infinito no React.js criando um clone do TikTok](https://dev.to/trinitypath/como-implementar-um-scroll-infinito-no-reactjs-criando-um-clone-do-tiktok-33cn)
 - [Lifehacker] [The Easiest Way to Make Cinnamon Rolls If You Suck at Baking](https://lifehacker.com/the-easiest-way-to-make-cinnamon-rolls-if-you-suck-at-b-1850002850)
-- [Dev.to/JS] [How to add Custom Network in Metamask using Window.Ethereum](https://dev.to/0x24karthick/how-to-add-custom-network-in-metamask-using-windowethereum-3mg)
 - [Lifehacker] [You Should Join a Local ‘Maker Space’ If You’re a DIYer](https://lifehacker.com/you-should-join-a-local-maker-space-if-you-re-a-diyer-1849991901)
 - [Lifehacker] [You Should Definitely Make These Creamed Peppers](https://lifehacker.com/you-should-definitely-make-these-creamed-peppers-1850004188)
 - [Lifehacker] [You Can Attend Sundance Without Going to Utah](https://lifehacker.com/you-can-attend-sundance-without-going-to-utah-1850004589)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in February 2023](https://lifehacker.com/whats-new-on-disney-in-february-2023-1850000827)
 - [Lifehacker] [You Can Get a Better Deal on Basically Any Gift Card](https://lifehacker.com/you-can-get-a-better-deal-on-basically-any-gift-card-1849997569)
 - [Lifehacker] [19 Kitchen Knives You Might Encounter &lpar;and What They’re Actually For&rpar;](https://lifehacker.com/18-kitchen-knives-you-might-encounter-and-what-they-re-1849995810)
-- [Lifehacker] [Hitler&#39;s Globe, the Lost Dutchman&#39;s Mine, and 7 More Historical Treasures to Hunt For](https://lifehacker.com/hitlers-globe-the-lost-dutchmans-mine-and-7-more-hist-1849999720)
-- [Lifehacker] [13 Ways to Get Weird With Pickles](https://lifehacker.com/13-ways-to-get-weird-with-pickles-1849998044)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Hitler&#39;s Globe, the Lost Dutchman&#39;s Mine, and 7 More Historical Treasures to Hunt For](https://lifehacker.com/hitlers-globe-the-lost-dutchmans-mine-and-7-more-hist-1849999720)<!-- TECH-POSTS:END -->
 
 ---
 
