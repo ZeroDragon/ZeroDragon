@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What can you make using JavaScript ?](https://dev.to/looph0le/what-can-you-make-using-javascript--gob)
+- [Dev.to/JS] [Disrupting the Node caching panorama - Our Journey In The Open Source World - cache-candidate](https://dev.to/cadienvan/disrupting-the-node-caching-panorama-our-journey-in-the-open-source-world-cache-candidate-4gnb)
+- [Dev.to/JS] [LeanBiome - Weight Loss Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/biomelean/leanbiome-weight-loss-reviews-pros-cons-scam-or-legit-52ip)
 - [Dev.to/JS] [Object Basics We Should Know Before Solving Coding Problems](https://dev.to/ayako_yk/object-basics-we-should-know-before-solving-coding-problems-4acp)
 - [Dev.to/JS] [How To Get Multiple Checkbox Value In jQuery](https://dev.to/techsolutionstuff/how-to-get-multiple-checkbox-value-in-jquery-2l05)
 - [Dev.to/JS] [8 Ways to master web development in 2023](https://dev.to/hy_piyush/8-ways-to-master-web-development-in-2023-3dl2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which Programming Language is good to learn in 2023](https://dev.to/abhi18cs/which-programming-language-is-good-to-learn-in-2023-31m3)
 - [Dev.to/JS] [Building A &lpar;Really&rpar; Simple Blog with Google Sheets as the Database](https://dev.to/daviduzondu/building-a-really-simple-blog-with-google-sheets-as-the-database-4db4)
 - [Dev.to/JS] [CSS Generators](https://dev.to/rahul3002/css-generators-m2n)
-- [Dev.to/JS] [Thinking about JavaScript Libraries and Frameworks for User Interface](https://dev.to/bullmouse/thinking-about-javascript-libraries-and-frameworks-for-user-interface-1799)
-- [Dev.to/JS] [Deploying a NodeJS - Express API to AWS Lambda](https://dev.to/juanpireslima/deploying-a-nodejs-express-api-to-aws-lambda-hgc)
-- [Dev.to/JS] [How to Count Words and Characters in JavaScript](https://dev.to/thedevdrawer/how-to-count-words-and-characters-in-javascript-1hb)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
