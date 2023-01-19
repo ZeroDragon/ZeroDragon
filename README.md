@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A JavaScript roadmap is a plan or guide for learning and mastering the JavaScript programming language](https://dev.to/vamsi_76_89/a-javascript-roadmap-is-a-plan-or-guide-for-learning-and-mastering-the-javascript-programming-language-57e5)
+- [Dev.to/JS] [Java Technology Trends that you must know](https://dev.to/infiraise/java-technology-trends-that-you-must-know-1ipo)
+- [Dev.to/JS] [Exploring Chainlink: The Decentralized Oracle Network and Its Key Features &lpar;Series - Part 5&rpar;](https://dev.to/scofieldidehen/exploring-chainlink-the-decentralized-oracle-network-and-its-key-features-series-part-5-5ae1)
+- [Dev.to/JS] [State management with Nuxt 3](https://dev.to/guillaumeduhan/state-management-with-nuxt-3-4885)
+- [Dev.to/JS] [&quot;ChatGPT: The problem-solving pro in a NodeJs app&quot;](https://dev.to/drsimplegraffiti/chatgpt-the-problem-solving-pro-in-a-nodejs-app-cf4)
 - [Dev.to/JS] [Is Javascript a bad programming language?](https://dev.to/bilalkumrani/is-javascript-a-bad-programming-language-1mko)
 - [Dev.to/JS] [Optimizing a Webpack project to improve the performance and user experience](https://dev.to/lorandmarton/optimizing-a-webpack-project-to-improve-the-performance-and-user-experience-2loi)
 - [Dev.to/JS] [Why React is the Perfect Choice for Building User Interfaces?](https://dev.to/delia_code/why-react-is-the-perfect-choice-for-building-user-interfaces-2jp6)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript VS Javascript - Which one is better?](https://dev.to/bilalkumrani/typescript-vs-javascript-which-one-is-better-5b4p)
 - [Dev.to/JS] [Why to choose React?](https://dev.to/bilalkumrani/why-to-choose-react-13hg)
 - [Dev.to/JS] [What are stateful and stateless web applications?](https://dev.to/bilalkumrani/what-are-stateful-and-stateless-web-applications-lh2)
-- [Dev.to/JS] [Vue 3: Options API vs Composition API](https://dev.to/delia_code/vue-3-options-api-vs-composition-api-31m8)
-- [Dev.to/JS] [Display random emoji on page reload](https://dev.to/joeynweke/display-random-emoji-on-page-reload-37j2)
-- [Dev.to/JS] [Should a programmer be worried?](https://dev.to/mubirueltonfelix/should-a-programmer-be-worried-7m)
-- [Dev.to/JS] [This Week In React #131: useReducer, Controlled Inputs, Async React, DevTools, React-Query, Storybook, Remix, RN , Expo...](https://dev.to/sebastienlorber/this-week-in-react-131-usereducer-controlled-inputs-async-react-devtools-react-query-storybook-remix-rn-expo-mcp)
-- [Dev.to/JS] [Online Final Cut Pro Course](https://dev.to/ppikomal07/online-final-cut-pro-course-1f4h)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
