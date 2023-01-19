@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Write Your First JavaScript REST Client &lpar;Server Side&rpar;](https://dev.to/shridhargv/how-to-write-your-first-javascript-rest-client-server-side-3kmo)
+- [Dev.to/JS] [tsParticles 2.8.0 Released](https://dev.to/tsparticles/tsparticles-280-released-311i)
 - [Dev.to/JS] [What can you make using JavaScript ?](https://dev.to/looph0le/what-can-you-make-using-javascript--gob)
 - [Dev.to/JS] [Disrupting the Node caching panorama - Our Journey In The Open Source World - cache-candidate](https://dev.to/cadienvan/disrupting-the-node-caching-panorama-our-journey-in-the-open-source-world-cache-candidate-4gnb)
 - [Dev.to/JS] [LeanBiome - Weight Loss Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/biomelean/leanbiome-weight-loss-reviews-pros-cons-scam-or-legit-52ip)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 JS Conferences in 2023](https://dev.to/jeffchavez_dev/12-js-conferences-in-2023-42ih)
 - [Dev.to/JS] [Alternatives To Node Js](https://dev.to/niza/alternatives-to-node-js-48h9)
 - [Dev.to/JS] [Which Programming Language is good to learn in 2023](https://dev.to/abhi18cs/which-programming-language-is-good-to-learn-in-2023-31m3)
-- [Dev.to/JS] [Building A &lpar;Really&rpar; Simple Blog with Google Sheets as the Database](https://dev.to/daviduzondu/building-a-really-simple-blog-with-google-sheets-as-the-database-4db4)
-- [Dev.to/JS] [CSS Generators](https://dev.to/rahul3002/css-generators-m2n)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
