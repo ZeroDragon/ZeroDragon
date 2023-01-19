@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilizing React error boundaries with Google Analytics to track production errors in React apps.](https://dev.to/kipyegonline/tracking-react-apps-production-errors-using-google-analytics-and-react-error-boundary-35o6)
+- [Dev.to/JS] [KIZZY TOOL](https://dev.to/mafiaonespot/kizzy-tool-ef6)
+- [Dev.to/JS] [Remitano clone script - Deploy your P2P crypto exchange like Remitano](https://dev.to/keevinlarsen555/remitano-clone-script-deploy-your-p2p-crypto-exchange-like-remitano-5dgd)
 - [Dev.to/JS] [How to Write Your First JavaScript REST Client &lpar;Server Side&rpar;](https://dev.to/shridhargv/how-to-write-your-first-javascript-rest-client-server-side-3kmo)
 - [Dev.to/JS] [tsParticles 2.8.0 Released](https://dev.to/tsparticles/tsparticles-280-released-311i)
 - [Dev.to/JS] [What can you make using JavaScript ?](https://dev.to/looph0le/what-can-you-make-using-javascript--gob)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Get Multiple Checkbox Value In jQuery](https://dev.to/techsolutionstuff/how-to-get-multiple-checkbox-value-in-jquery-2l05)
 - [Dev.to/JS] [8 Ways to master web development in 2023](https://dev.to/hy_piyush/8-ways-to-master-web-development-in-2023-3dl2)
 - [Dev.to/JS] [HYPERBEAM TOOL](https://dev.to/mafiaonespot/hyperbeam-tool-4k3m)
-- [Dev.to/JS] [12 JS Conferences in 2023](https://dev.to/jeffchavez_dev/12-js-conferences-in-2023-42ih)
-- [Dev.to/JS] [Alternatives To Node Js](https://dev.to/niza/alternatives-to-node-js-48h9)
-- [Dev.to/JS] [Which Programming Language is good to learn in 2023](https://dev.to/abhi18cs/which-programming-language-is-good-to-learn-in-2023-31m3)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
