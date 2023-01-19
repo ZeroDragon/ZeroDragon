@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue 3: Options API vs Composition API](https://dev.to/delia_code/vue-3-options-api-vs-composition-api-31m8)
+- [Dev.to/JS] [Display random emoji on page reload](https://dev.to/joeynweke/display-random-emoji-on-page-reload-37j2)
+- [Dev.to/JS] [Should a programmer be worried?](https://dev.to/mubirueltonfelix/should-a-programmer-be-worried-7m)
 - [Dev.to/JS] [This Week In React #131: useReducer, Controlled Inputs, Async React, DevTools, React-Query, Storybook, Remix, RN , Expo...](https://dev.to/sebastienlorber/this-week-in-react-131-usereducer-controlled-inputs-async-react-devtools-react-query-storybook-remix-rn-expo-mcp)
 - [Dev.to/JS] [Online Final Cut Pro Course](https://dev.to/ppikomal07/online-final-cut-pro-course-1f4h)
 - [Dev.to/JS] [How to make a Rating Component with React &amp; Typescript](https://dev.to/mdmostafizurrahaman/how-to-make-a-rating-component-with-react-typescript-396p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Utilizing React error boundary class with Google Analytics to track production errors in React apps.](https://dev.to/kipyegonline/tracking-react-apps-production-errors-using-google-analytics-and-react-error-boundary-35o6)
 - [Dev.to/JS] [KIZZY TOOL](https://dev.to/mafiaonespot/kizzy-tool-ef6)
 - [Dev.to/JS] [Remitano clone script - Deploy your P2P crypto exchange like Remitano](https://dev.to/keevinlarsen555/remitano-clone-script-deploy-your-p2p-crypto-exchange-like-remitano-5dgd)
-- [Dev.to/JS] [How to Write Your First JavaScript REST Client &lpar;Server Side&rpar;](https://dev.to/shridhargv/how-to-write-your-first-javascript-rest-client-server-side-3kmo)
-- [Dev.to/JS] [tsParticles 2.8.0 Released](https://dev.to/tsparticles/tsparticles-280-released-311i)
-- [Dev.to/JS] [What can you make using JavaScript ?](https://dev.to/looph0le/what-can-you-make-using-javascript--gob)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
