@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to See February&#39;s Full &#39;Micromoon&#39;](https://lifehacker.com/when-to-see-februarys-full-micromoon-1850002771)
+- [Dev.to/JS] [Responsive Landing Page using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/responsive-landing-page-using-html-css-and-javascript-33di)
+- [Dev.to/JS] [React: best practices and design patterns](https://dev.to/zakariaels/react-best-practices-and-design-patterns-j81)
+- [Dev.to/JS] [ArtDraw SVG Editor](https://dev.to/sysmaya/artdraw-svg-editor-1b1h)
+- [Dev.to/JS] [FireBase Authentication - wds](https://dev.to/akshdesai1/firebase-authentication-wds-2p6m)
+- [Dev.to/JS] [Beeble’s Secure Cloud Platform Now Available To The General Public](https://dev.to/beeble/beebles-secure-cloud-platform-now-available-to-the-general-public-3a)
+- [Dev.to/JS] [Creating automated product descriptions with ChatGPT, React, and Node.js](https://dev.to/medusajs/creating-automated-product-descriptions-with-chatgpt-react-and-nodejs-526h)
 - [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)
 - [Dev.to/JS] [GraphQL vs REST: A simplified explanation on pros, cons, and API design best practices](https://dev.to/mufassirkazi/graphql-vs-rest-a-simplified-explanation-on-pros-cons-and-api-design-best-practices-2)
 - [Dev.to/JS] [The ultimate form library that you will need](https://dev.to/jucian0/the-ultimate-form-library-that-you-will-need-3am2)
@@ -32,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing efficient and reusable code in JavaScript &lpar;OOPs&rpar;:#JS:3](https://dev.to/srishtikprasad/writing-efficient-and-reusable-code-in-javascript-oopsjs3-a55)
 - [Lifehacker] [The Easiest Ways to Sync iMessages Across All Your Devices](https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677)
 - [Dev.to/JS] [Tips and Tricks for Debugging React Applications](https://dev.to/abhaysinghr1/tips-and-tricks-for-debugging-react-applications-j75)
-- [Dev.to/JS] [Retry async function using axios](https://dev.to/fccampelo/retry-async-function-using-axios-jem)
-- [Dev.to/JS] [Restrict Angular input to number only](https://dev.to/dilika/restrict-angular-input-to-number-only-4o4k)
-- [Dev.to/JS] [A JavaScript roadmap is a plan or guide for learning and mastering the JavaScript programming language](https://dev.to/vamsi_76_89/a-javascript-roadmap-is-a-plan-or-guide-for-learning-and-mastering-the-javascript-programming-language-57e5)
-- [Dev.to/JS] [Java Technology Trends that you must know](https://dev.to/infiraise/java-technology-trends-that-you-must-know-1ipo)
-- [Dev.to/JS] [Exploring Chainlink: The Decentralized Oracle Network and Its Key Features &lpar;Series - Part 5&rpar;](https://dev.to/scofieldidehen/exploring-chainlink-the-decentralized-oracle-network-and-its-key-features-series-part-5-5ae1)
-- [Dev.to/JS] [State management with Nuxt 3](https://dev.to/guillaumeduhan/state-management-with-nuxt-3-4885)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Still Don&#39;t Need the New MacBook Pro](https://lifehacker.com/you-still-dont-need-the-new-macbook-pro-1849995439)
 - [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)
 - [Lifehacker] [Buy ‘Hitman 3’ Now, Get ‘Hitman’ 1 and 2 for Free Later](https://lifehacker.com/buy-hitman-3-now-get-hitman-1-and-2-for-free-later-1849996113)
-- [Lifehacker] [You Need to Do Laundry Differently If You Have Hard Water](https://lifehacker.com/you-need-to-do-laundry-differently-if-you-have-hard-wat-1849994467)
-- [Lifehacker] [The Two Biggest Mistakes Beginners Make on the Rowing Machine](https://lifehacker.com/the-two-biggest-mistakes-beginners-make-on-the-rowing-m-1849995496)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Do Laundry Differently If You Have Hard Water](https://lifehacker.com/you-need-to-do-laundry-differently-if-you-have-hard-wat-1849994467)<!-- TECH-POSTS:END -->
 
 ---
 
