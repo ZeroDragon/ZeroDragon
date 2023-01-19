@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Thinking about JavaScript Libraries and Frameworks for User Interface](https://dev.to/bullmouse/thinking-about-javascript-libraries-and-frameworks-for-user-interface-ohm)
+- [Dev.to/JS] [Deploying a NodeJS - Express API to AWS Lambda](https://dev.to/juanpireslima/deploying-a-nodejs-express-api-to-aws-lambda-hgc)
 - [Dev.to/JS] [How to Count Words and Characters in JavaScript](https://dev.to/thedevdrawer/how-to-count-words-and-characters-in-javascript-1hb)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Better Ice Cream Sandwich With Frozen Pop-Tarts](https://lifehacker.com/make-a-better-ice-cream-sandwich-with-frozen-pop-tarts-1849998087)
 - [Dev.to/JS] [JSTools Weekly - 2023#2](https://dev.to/jstoolsweekly/jstools-weekly-20232-4den)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2023](https://lifehacker.com/whats-new-on-disney-in-february-2023-1850000827)
-- [Dev.to/JS] [7 Habits of Highly Effective Developers](https://dev.to/oluwatrillions/7-habits-of-highly-effective-developers-3lo9)
-- [Dev.to/JS] [Responsive Restaurant Website Using HTML CSS &amp; JS](https://dev.to/onlineittutstutorials/responsive-restaurant-website-using-html-css-js-47j0)
 - [Lifehacker] [You Can Get a Better Deal on Basically Any Gift Card](https://lifehacker.com/you-can-get-a-better-deal-on-basically-any-gift-card-1849997569)
 - [Lifehacker] [19 Kitchen Knives You Might Encounter &lpar;and What They’re Actually For&rpar;](https://lifehacker.com/18-kitchen-knives-you-might-encounter-and-what-they-re-1849995810)
 - [Lifehacker] [Hitler&#39;s Globe, the Lost Dutchman&#39;s Mine, and 7 More Historical Treasures to Hunt For](https://lifehacker.com/hitlers-globe-the-lost-dutchmans-mine-and-7-more-hist-1849999720)
