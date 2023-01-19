@@ -23,22 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useQuery Hook &lpar;React Query&rpar;](https://dev.to/respect17/usequery-hook-react-query-bb0)
+- [Dev.to/JS] [Revolutionizing Twitter Experience with AI-powered Comment Bot](https://dev.to/sojinsamuel/revolutionizing-twitter-experience-with-ai-powered-comment-bot-56b6)
+- [Dev.to/JS] [Why to use React.js?](https://dev.to/itskunal/why-to-use-reactjs-2e9n)
+- [Lifehacker] [Don&#39;t Believe These Myths About Gas Stoves](https://lifehacker.com/dont-believe-these-myths-about-gas-stoves-1850006371)
+- [Dev.to/JS] [3.1 - Content Creation with Richard Bray](https://dev.to/codingcatdev/31-content-creation-with-richard-bray-4e58)
+- [Dev.to/JS] [JavaScript: First-class Functions](https://dev.to/zakariaels/javascript-first-class-functions-4hp2)
+- [Dev.to/JS] [11 Cool HTML Tricks To Make Your Web Pages Stand Out](https://dev.to/prakashmishr2529/11-cool-html-tricks-to-make-your-web-pages-stand-out-178j)
+- [Lifehacker] [Use &#39;Solomon&#39;s Paradox&#39; to Make Better Life Decisions](https://lifehacker.com/use-solomons-paradox-to-make-better-life-decisions-1850004993)
+- [Dev.to/JS] [When to use function expressions?](https://dev.to/catherineisonline/when-to-use-function-expressions-1g84)
 - [Lifehacker] [When to See February&#39;s Full &#39;Micromoon&#39;](https://lifehacker.com/when-to-see-februarys-full-micromoon-1850002771)
 - [Dev.to/JS] [Responsive Landing Page using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/responsive-landing-page-using-html-css-and-javascript-33di)
 - [Dev.to/JS] [React: best practices and design patterns](https://dev.to/zakariaels/react-best-practices-and-design-patterns-j81)
 - [Dev.to/JS] [ArtDraw SVG Editor](https://dev.to/sysmaya/artdraw-svg-editor-1b1h)
 - [Dev.to/JS] [FireBase Authentication - wds](https://dev.to/akshdesai1/firebase-authentication-wds-2p6m)
 - [Dev.to/JS] [Beeble’s Secure Cloud Platform Now Available To The General Public](https://dev.to/beeble/beebles-secure-cloud-platform-now-available-to-the-general-public-3a)
-- [Dev.to/JS] [Creating automated product descriptions with ChatGPT, React, and Node.js](https://dev.to/medusajs/creating-automated-product-descriptions-with-chatgpt-react-and-nodejs-526h)
 - [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)
-- [Dev.to/JS] [GraphQL vs REST: A simplified explanation on pros, cons, and API design best practices](https://dev.to/mufassirkazi/graphql-vs-rest-a-simplified-explanation-on-pros-cons-and-api-design-best-practices-2)
-- [Dev.to/JS] [The ultimate form library that you will need](https://dev.to/jucian0/the-ultimate-form-library-that-you-will-need-3am2)
 - [Lifehacker] [You Can Export Your Entire iMessage History](https://lifehacker.com/you-can-export-your-entire-imessage-history-1850000632)
-- [Dev.to/JS] [Build Discord Clone using Dead Simple Chat](https://dev.to/alakkadshaw/build-discord-clone-using-dead-simple-chat-aio)
-- [Dev.to/JS] [Circular Progress Bar CSS](https://dev.to/shubhamtiwari909/circular-progress-bar-css-1bi9)
-- [Dev.to/JS] [Writing efficient and reusable code in JavaScript &lpar;OOPs&rpar;:#JS:3](https://dev.to/srishtikprasad/writing-efficient-and-reusable-code-in-javascript-oopsjs3-a55)
 - [Lifehacker] [The Easiest Ways to Sync iMessages Across All Your Devices](https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677)
-- [Dev.to/JS] [Tips and Tricks for Debugging React Applications](https://dev.to/abhaysinghr1/tips-and-tricks-for-debugging-react-applications-j75)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Regret to Inform You Tom Hanks&#39; &#39;Diet Cokagne&#39; is Pretty Good](https://lifehacker.com/i-regret-to-inform-you-tom-hanks-diet-cokagne-is-pretty-1849997105)
 - [Lifehacker] [Google Maps Is Android’s Answer to Apple’s &#39;Find My&#39;](https://lifehacker.com/google-maps-is-android-s-answer-to-apple-s-find-my-1849997405)
 - [Lifehacker] [You Still Don&#39;t Need the New MacBook Pro](https://lifehacker.com/you-still-dont-need-the-new-macbook-pro-1849995439)
-- [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)
-- [Lifehacker] [Buy ‘Hitman 3’ Now, Get ‘Hitman’ 1 and 2 for Free Later](https://lifehacker.com/buy-hitman-3-now-get-hitman-1-and-2-for-free-later-1849996113)
-- [Lifehacker] [You Need to Do Laundry Differently If You Have Hard Water](https://lifehacker.com/you-need-to-do-laundry-differently-if-you-have-hard-wat-1849994467)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get These Electric Stoves for Free From the Government](https://lifehacker.com/you-can-get-these-electric-stoves-for-free-from-the-gov-1849987396)<!-- TECH-POSTS:END -->
 
 ---
 
