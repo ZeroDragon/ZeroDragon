@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building A &lpar;Really&rpar; Simple Blog with Google Sheets as the Database](https://dev.to/daviduzondu/building-a-really-simple-blog-with-google-sheets-as-the-database-4db4)
+- [Dev.to/JS] [CSS Generators](https://dev.to/rahul3002/css-generators-m2n)
 - [Dev.to/JS] [Thinking about JavaScript Libraries and Frameworks for User Interface](https://dev.to/bullmouse/thinking-about-javascript-libraries-and-frameworks-for-user-interface-1799)
 - [Dev.to/JS] [Deploying a NodeJS - Express API to AWS Lambda](https://dev.to/juanpireslima/deploying-a-nodejs-express-api-to-aws-lambda-hgc)
 - [Dev.to/JS] [How to Count Words and Characters in JavaScript](https://dev.to/thedevdrawer/how-to-count-words-and-characters-in-javascript-1hb)
@@ -40,11 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Sam&#39;s Club Membership for Half Off Right Now](https://lifehacker.com/you-can-get-a-sams-club-membership-for-half-off-right-n-1850001794)
 - [Dev.to/JS] [Function declarations &amp; Function expressions](https://dev.to/catherineisonline/function-declarations-function-expressions-2o5k)
 - [Lifehacker] [How to Troubleshoot an &#39;iMessage Activation Unsuccessful&#39; Alert](https://lifehacker.com/how-to-troubleshoot-an-imessage-activation-unsuccessful-1850001190)
-- [Dev.to/JS] [Unleashing the Power of JavaScript Modules: A Beginner&#39;s Guide](https://dev.to/rahxuls/unleashing-the-power-of-javascript-modules-a-beginners-guide-3ek5)
 - [Lifehacker] [What&#39;s New on Hulu in February 2023](https://lifehacker.com/whats-new-on-hulu-in-february-2023-1850001470)
 - [Lifehacker] [When It&#39;s OK to Date an Ex&#39;s Friend &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-its-ok-to-date-an-exs-friend-and-when-you-shouldn-1849998402)
 - [Lifehacker] [Make a Better Ice Cream Sandwich With Frozen Pop-Tarts](https://lifehacker.com/make-a-better-ice-cream-sandwich-with-frozen-pop-tarts-1849998087)
-- [Dev.to/JS] [JSTools Weekly - 2023#2](https://dev.to/jstoolsweekly/jstools-weekly-20232-4den)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2023](https://lifehacker.com/whats-new-on-disney-in-february-2023-1850000827)
 - [Lifehacker] [You Can Get a Better Deal on Basically Any Gift Card](https://lifehacker.com/you-can-get-a-better-deal-on-basically-any-gift-card-1849997569)
 - [Lifehacker] [19 Kitchen Knives You Might Encounter &lpar;and What They’re Actually For&rpar;](https://lifehacker.com/18-kitchen-knives-you-might-encounter-and-what-they-re-1849995810)
