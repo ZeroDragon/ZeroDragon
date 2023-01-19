@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Ways to Sync iMessages Across All Your Devices](https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677)
+- [Dev.to/JS] [Tips and Tricks for Debugging React Applications](https://dev.to/abhaysinghr1/tips-and-tricks-for-debugging-react-applications-j75)
+- [Dev.to/JS] [Retry async function using axios](https://dev.to/fccampelo/retry-async-function-using-axios-jem)
+- [Dev.to/JS] [Restrict Angular input to number only](https://dev.to/dilika/restrict-angular-input-to-number-only-4o4k)
 - [Dev.to/JS] [A JavaScript roadmap is a plan or guide for learning and mastering the JavaScript programming language](https://dev.to/vamsi_76_89/a-javascript-roadmap-is-a-plan-or-guide-for-learning-and-mastering-the-javascript-programming-language-57e5)
 - [Dev.to/JS] [Java Technology Trends that you must know](https://dev.to/infiraise/java-technology-trends-that-you-must-know-1ipo)
 - [Dev.to/JS] [Exploring Chainlink: The Decentralized Oracle Network and Its Key Features &lpar;Series - Part 5&rpar;](https://dev.to/scofieldidehen/exploring-chainlink-the-decentralized-oracle-network-and-its-key-features-series-part-5-5ae1)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing a Webpack project to improve the performance and user experience](https://dev.to/lorandmarton/optimizing-a-webpack-project-to-improve-the-performance-and-user-experience-2loi)
 - [Dev.to/JS] [Why React is the Perfect Choice for Building User Interfaces?](https://dev.to/delia_code/why-react-is-the-perfect-choice-for-building-user-interfaces-2jp6)
 - [Dev.to/JS] [Part1 : Insya Allah, this year I can work as a Frontend Engineer](https://dev.to/muhammadiqbalid83/part1-insya-allah-this-year-i-can-work-as-a-frontend-engineer-lja)
-- [Dev.to/JS] [Typescript VS Javascript - Which one is better?](https://dev.to/bilalkumrani/typescript-vs-javascript-which-one-is-better-5b4p)
-- [Dev.to/JS] [Why to choose React?](https://dev.to/bilalkumrani/why-to-choose-react-13hg)
-- [Dev.to/JS] [What are stateful and stateless web applications?](https://dev.to/bilalkumrani/what-are-stateful-and-stateless-web-applications-lh2)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Do Laundry Differently If You Have Hard Water](https://lifehacker.com/you-need-to-do-laundry-differently-if-you-have-hard-wat-1849994467)
 - [Lifehacker] [The Two Biggest Mistakes Beginners Make on the Rowing Machine](https://lifehacker.com/the-two-biggest-mistakes-beginners-make-on-the-rowing-m-1849995496)
 - [Lifehacker] [Clever Ways to Manage All Your Cords and Cables](https://lifehacker.com/clever-ways-to-manage-all-your-cords-and-cables-1849991866)
-- [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)
-- [Lifehacker] [15 Awesome Games From 2022 You Probably Missed](https://lifehacker.com/15-awesome-games-from-2022-you-probably-missed-1849987467)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Keeping a Secret](https://lifehacker.com/the-7-deadly-sins-of-keeping-a-secret-1849987858)<!-- TECH-POSTS:END -->
 
 ---
 
