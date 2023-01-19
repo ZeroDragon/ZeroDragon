@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [12 JS Conferences in 2023](https://dev.to/jeffchavez_dev/12-js-conferences-in-2023-42ih)
+- [Dev.to/JS] [Which Programming Language is good to learn in 2023](https://dev.to/abhi18cs/which-programming-language-is-good-to-learn-in-2023-31m3)
 - [Dev.to/JS] [Building A &lpar;Really&rpar; Simple Blog with Google Sheets as the Database](https://dev.to/daviduzondu/building-a-really-simple-blog-with-google-sheets-as-the-database-4db4)
 - [Dev.to/JS] [CSS Generators](https://dev.to/rahul3002/css-generators-m2n)
 - [Dev.to/JS] [Thinking about JavaScript Libraries and Frameworks for User Interface](https://dev.to/bullmouse/thinking-about-javascript-libraries-and-frameworks-for-user-interface-1799)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advent of Code 2022 Day 2 Part 1 - Solution Only](https://dev.to/benboorstein/advent-of-code-2022-day-2-part-1-solution-only-130d)
 - [Lifehacker] [50 of the Most Controversial Films Ever Made](https://lifehacker.com/50-of-the-most-controversial-films-ever-made-1849991335)
 - [Dev.to/JS] [Advent of Code 2022 Day 1 Part 2 - Solution Only](https://dev.to/benboorstein/advent-of-code-2022-day-1-part-2-solution-only-22je)
-- [Dev.to/JS] [Node.js vs React.js: which to choose for your web app project](https://dev.to/educative/nodejs-vs-reactjs-which-to-choose-for-your-web-app-project-3g83)
 - [Lifehacker] [You Can Get a Sam&#39;s Club Membership for Half Off Right Now](https://lifehacker.com/you-can-get-a-sams-club-membership-for-half-off-right-n-1850001794)
-- [Dev.to/JS] [Function declarations &amp; Function expressions](https://dev.to/catherineisonline/function-declarations-function-expressions-2o5k)
 - [Lifehacker] [How to Troubleshoot an &#39;iMessage Activation Unsuccessful&#39; Alert](https://lifehacker.com/how-to-troubleshoot-an-imessage-activation-unsuccessful-1850001190)
 - [Lifehacker] [What&#39;s New on Hulu in February 2023](https://lifehacker.com/whats-new-on-hulu-in-february-2023-1850001470)
 - [Lifehacker] [When It&#39;s OK to Date an Ex&#39;s Friend &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-its-ok-to-date-an-exs-friend-and-when-you-shouldn-1849998402)
