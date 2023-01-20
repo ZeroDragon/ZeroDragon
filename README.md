@@ -23,11 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Usando o useEffect de modo assincrono](https://dev.to/narradorww/usando-o-useeffect-de-modo-assincrono-4jco)
+- [Lifehacker] [9 Things That Suck About Setting Up a New iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/9-things-that-suck-about-setting-up-a-new-iphone-and-h-1850011322)
+- [Dev.to/JS] [Pin Save - decentalized Pinterest Canto Update](https://dev.to/pfedprog/pin-save-decentalized-pinterest-canto-update-1o9j)
+- [Lifehacker] [The Important Differences Between At-Home Dementia Care and a Long-Term Care Facility](https://lifehacker.com/the-important-differences-between-at-home-dementia-care-1850012343)
 - [Dev.to/JS] [Don&#39;t use Enums in Typescript, they are very dangerous 😨](https://dev.to/ivanzm123/dont-use-enums-in-typescript-they-are-very-dangerous-57bh)
 - [Lifehacker] [You Might Score Free Wifi on Delta Flights Starting in February](https://lifehacker.com/you-might-score-free-wifi-on-delta-flights-starting-in-1850012845)
 - [Dev.to/JS] [15 Must-Have Cheatsheets for Developers🚀](https://dev.to/ishratumar/15-must-have-cheatsheets-for-developers-1n92)
 - [Lifehacker] [Here Are the Best Deals You Can Get on Winter Clothing Right Now](https://lifehacker.com/here-are-the-best-deals-you-can-get-on-winter-clothing-1850002554)
 - [Dev.to/JS] [Convert Canvas To Image | Use with react-image-crop](https://dev.to/deepakjaiswal/convert-canvas-to-image-4l1j)
+- [Dev.to/JS] [Thinking functionally about React components](https://dev.to/mattishida/thinking-functionally-about-react-components-3270)
 - [Lifehacker] [9 Ways to Make a Cookie Without an Oven](https://lifehacker.com/9-ways-to-make-a-cookie-without-an-oven-1850012499)
 - [Dev.to/JS] [A short guide on Event Listeners](https://dev.to/lensco825/a-short-guide-on-event-listeners-2mh1)
 - [Dev.to/JS] [Reasons why you should learn javascript](https://dev.to/archijain/reasons-why-you-should-learn-javascript-1p81)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explain Nodejs Like I&#39;m Five](https://dev.to/archijain/explain-nodejs-like-im-five-aj2)
 - [Dev.to/JS] [LeetCode #509 Fibonacci Number with JavaScript](https://dev.to/masakifukunishi/leetcode-509-fibonacci-number-with-javascript-5bj4)
 - [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
-- [Dev.to/JS] [14. Longest Common Prefix - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/14-longest-common-prefix-javascript-solution-by-abu-saleh-faysal-2fle)
-- [Dev.to/JS] [Working with Common Data Structures In JavaScript](https://dev.to/sawincp/working-with-common-data-structures-in-javascript-5dg6)
 - [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)
-- [Dev.to/JS] [Agen Domino Cahayapoker](https://dev.to/cahayaqq301/agen-domino-cahayapoker-28l2)
 - [Lifehacker] [22 of the Best Movies About Movies](https://lifehacker.com/22-of-the-best-movies-about-movies-1850006992)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Does Everyone Hate &#39;Velma&#39;?](https://lifehacker.com/why-does-everyone-hate-velma-1850009913)
 - [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Join a Local ‘Maker Space’ If You’re a DIYer](https://lifehacker.com/you-should-join-a-local-maker-space-if-you-re-a-diyer-1849991901)
 - [Lifehacker] [You Should Definitely Make These Creamed Peppers](https://lifehacker.com/you-should-definitely-make-these-creamed-peppers-1850004188)
 - [Lifehacker] [You Can Attend Sundance Without Going to Utah](https://lifehacker.com/you-can-attend-sundance-without-going-to-utah-1850004589)
-- [Lifehacker] [Don&#39;t Believe These Myths About Gas Stoves](https://lifehacker.com/dont-believe-these-myths-about-gas-stoves-1850006371)
-- [Lifehacker] [Use &#39;Solomon&#39;s Paradox&#39; to Make Better Life Decisions](https://lifehacker.com/use-solomons-paradox-to-make-better-life-decisions-1850004993)
-- [Lifehacker] [When to See February&#39;s Full &#39;Micromoon&#39;](https://lifehacker.com/when-to-see-februarys-full-micromoon-1850002771)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Believe These Myths About Gas Stoves](https://lifehacker.com/dont-believe-these-myths-about-gas-stoves-1850006371)<!-- TECH-POSTS:END -->
 
 ---
 
