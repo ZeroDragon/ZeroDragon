@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)
+- [Dev.to/JS] [Agen Domino Cahayapoker](https://dev.to/cahayaqq301/agen-domino-cahayapoker-28l2)
+- [Dev.to/JS] [Currying in Javascript](https://dev.to/sharu24/currying-in-javascript-55b2)
+- [Lifehacker] [22 of the Best Movies About Movies](https://lifehacker.com/22-of-the-best-movies-about-movies-1850006992)
+- [Dev.to/JS] [Firebase + Nextjs](https://dev.to/abbhiishek/firebase-nextjs-511a)
+- [Dev.to/JS] [hello](https://dev.to/hewout/hello-738)
+- [Dev.to/JS] [How to get started with the basics of front end development](https://dev.to/catherineisonline/how-to-get-started-with-the-basics-of-front-end-development-1bh5)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Does Everyone Hate &#39;Velma&#39;?](https://lifehacker.com/why-does-everyone-hate-velma-1850009913)
 - [Dev.to/JS] [Procura-se um mestre jedi pra nossa empresa](https://dev.to/devdoido/procura-se-um-mestre-jedi-pra-nossa-empresa-3koo)
 - [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)
@@ -35,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Marinate Your Chicken in Feta Cheese and Capers](https://lifehacker.com/marinate-your-chicken-in-feta-cheese-and-capers-1850008205)
 - [Dev.to/JS] [Deploy your functions and use them everywhere⚡⚡](https://dev.to/dhravya/deploy-your-functions-and-use-them-everywhere-43p3)
 - [Dev.to/JS] [ArtDraw Online Graphic Design Software](https://dev.to/sysmaya/artdraw-online-graphic-design-software-4g3e)
-- [Dev.to/JS] [A realidade do sênior de 2 anos](https://dev.to/devdoido/a-realidade-do-senior-de-2-anos-hde)
-- [Dev.to/JS] [HOW TO GOOGLE LIKE A PRO](https://dev.to/danmusembi/how-to-google-like-a-pro-3nl6)
 - [Lifehacker] [This Calculator Will Tell You If You Can Afford to Be a Digital Nomad](https://lifehacker.com/this-calculator-will-tell-you-if-you-can-afford-to-be-a-1850007114)
-- [Dev.to/JS] [Geração dinâmica de arquivos com Plop.js](https://dev.to/devdoido/geracao-dinamica-de-arquivos-com-plopjs-3km2)
-- [Dev.to/JS] [Tabs Components - JavaScript](https://dev.to/shubhamtiwari909/custom-tabs-with-sass-and-javascript-4dej)
-- [Dev.to/JS] [How to become Web3 UI Dev?](https://dev.to/spheron/how-to-become-web3-ui-dev-4937)
 - [Lifehacker] [When to Call in Professional Cleaners](https://lifehacker.com/when-to-call-in-professional-cleaners-1849986317)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Export Your Entire iMessage History](https://lifehacker.com/you-can-export-your-entire-imessage-history-1850000632)
 - [Lifehacker] [The Easiest Ways to Sync iMessages Across All Your Devices](https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
-- [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
-- [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
-- [Lifehacker] [The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)<!-- TECH-POSTS:END -->
 
 ---
 
