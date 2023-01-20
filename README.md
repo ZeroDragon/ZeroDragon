@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy your functions and use them everywhere⚡⚡](https://dev.to/dhravya/deploy-your-functions-and-use-them-everywhere-43p3)
+- [Dev.to/JS] [ArtDraw Online Graphic Design Software](https://dev.to/sysmaya/artdraw-online-graphic-design-software-4g3e)
+- [Dev.to/JS] [A realidade do sênior de 2 anos](https://dev.to/devdoido/a-realidade-do-senior-de-2-anos-hde)
+- [Dev.to/JS] [HOW TO GOOGLE LIKE A PRO](https://dev.to/danmusembi/how-to-google-like-a-pro-3nl6)
+- [Lifehacker] [This Calculator Will Tell You If You Can Afford to Be a Digital Nomad](https://lifehacker.com/this-calculator-will-tell-you-if-you-can-afford-to-be-a-1850007114)
+- [Dev.to/JS] [Geração dinâmica de arquivos com Plop.js](https://dev.to/devdoido/geracao-dinamica-de-arquivos-com-plopjs-3km2)
+- [Dev.to/JS] [Custom Tabs with SASS and Javascript](https://dev.to/shubhamtiwari909/custom-tabs-with-sass-and-javascript-4dej)
+- [Dev.to/JS] [How to become Web3 UI Dev?](https://dev.to/spheron/how-to-become-web3-ui-dev-4937)
+- [Dev.to/JS] [What you should learn to become a good front-end developer?](https://dev.to/codewithlua/what-you-should-learn-to-become-a-good-front-end-developer-34pg)
+- [Dev.to/JS] [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://dev.to/olanetsoft/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript-3e3o)
+- [Lifehacker] [When to Call in Professional Cleaners](https://lifehacker.com/when-to-call-in-professional-cleaners-1849986317)
 - [Dev.to/JS] [Baidu Map with react-leaflet](https://dev.to/chrollo4ki/baidu-map-with-react-leaflet-5im)
 - [Dev.to/JS] [Free Google Maps in React](https://dev.to/chrollo4ki/free-google-maps-in-react-3iln)
-- [Dev.to/JS] [Vale a pena investir minha carreira no Javascript?](https://dev.to/devdoido/vale-a-pena-investir-minha-carreira-no-javascript-lnc)
-- [Dev.to/JS] [O PHP vai morrer?](https://dev.to/devdoido/o-php-vai-morrer-39fo)
-- [Dev.to/JS] [Jornada pelo DevLinks - Rocketseat](https://dev.to/luigibelanda/jornada-pelo-devlinks-rocketseat-3jcc)
-- [Dev.to/JS] [Javascript Guide: Basics of JS](https://dev.to/anujnegi_/javascript-guide-basics-of-js-39ma)
-- [Dev.to/JS] [⚡Introduction to Next.js](https://dev.to/iamdevmarcos/introduction-to-nextjs-5f9b)
-- [Dev.to/JS] [Unlocking the Power of Promises: Mastering Asynchronous JavaScript with Ease](https://dev.to/ahmed_onour/unlocking-the-power-of-promises-mastering-asynchronous-javascript-with-ease-iak)
-- [Dev.to/JS] [What, Why and How Javascript Static Initialization Blocks?](https://dev.to/devsmitra/what-why-and-how-javascript-static-initialization-blocks-4n41)
-- [Dev.to/JS] [Why I am happy to be a Javascript developer?](https://dev.to/hadnazzar/why-i-am-happy-to-be-a-javascript-developer-h62)
-- [Dev.to/JS] [What You Should Know About JavaScript pop&lpar;&rpar; function for beginners](https://dev.to/emmykolic/what-you-should-know-about-javascript-pop-function-for-beginners-3k9g)
-- [Dev.to/JS] [Text To Speech Converter with JavaScript](https://dev.to/shantanu_jana/text-to-speech-converter-with-javascript-30oo)
+- [Dev.to/JS] [É possível se destacar com Javascript em poucos meses?](https://dev.to/devdoido/vale-a-pena-investir-minha-carreira-no-javascript-lnc)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Sam&#39;s Club Membership for Half Off Right Now](https://lifehacker.com/you-can-get-a-sams-club-membership-for-half-off-right-n-1850001794)
 - [Lifehacker] [How to Troubleshoot an &#39;iMessage Activation Unsuccessful&#39; Alert](https://lifehacker.com/how-to-troubleshoot-an-imessage-activation-unsuccessful-1850001190)
 - [Lifehacker] [What&#39;s New on Hulu in February 2023](https://lifehacker.com/whats-new-on-hulu-in-february-2023-1850001470)
-- [Lifehacker] [When It&#39;s OK to Date an Ex&#39;s Friend &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-its-ok-to-date-an-exs-friend-and-when-you-shouldn-1849998402)
-- [Lifehacker] [Make a Better Ice Cream Sandwich With Frozen Pop-Tarts](https://lifehacker.com/make-a-better-ice-cream-sandwich-with-frozen-pop-tarts-1849998087)
-- [Lifehacker] [What&#39;s New on Disney+ in February 2023](https://lifehacker.com/whats-new-on-disney-in-february-2023-1850000827)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When It&#39;s OK to Date an Ex&#39;s Friend &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-its-ok-to-date-an-exs-friend-and-when-you-shouldn-1849998402)<!-- TECH-POSTS:END -->
 
 ---
 
