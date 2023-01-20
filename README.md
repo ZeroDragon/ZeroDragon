@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
+- [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
+- [Dev.to/JS] [Easy Guide To Understanding ExpressJS Middleware For Rapid App Development](https://dev.to/efkumah/easy-guide-to-understanding-expressjs-middleware-for-rapid-app-development-143g)
+- [Dev.to/JS] [Javascript new features that introduced in ECMAScript 2020](https://dev.to/malikhaziq/javascript-new-features-that-introduced-in-ecmascript-2020-2cop)
+- [Lifehacker] [You Should Consider Painting Old Wood Floors &lpar;Hear Me Out&rpar;](https://lifehacker.com/you-should-consider-painting-old-wood-floors-hear-me-o-1850012146)
 - [Dev.to/JS] [Usando o useEffect de modo assincrono](https://dev.to/narradorww/usando-o-useeffect-de-modo-assincrono-4jco)
 - [Lifehacker] [9 Things That Suck About Setting Up a New iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/9-things-that-suck-about-setting-up-a-new-iphone-and-h-1850011322)
 - [Dev.to/JS] [Pin Save - decentalized Pinterest Canto Update](https://dev.to/pfedprog/pin-save-decentalized-pinterest-canto-update-1o9j)
@@ -39,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Array Methods: Understand By Implementing](https://dev.to/biraj21/javascript-array-methods-understand-by-implementing-54g3)
 - [Dev.to/JS] [I made a website to rickroll my friends](https://dev.to/pranshuj73/i-made-a-website-to-rickroll-my-friends-183h)
 - [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)
-- [Dev.to/JS] [Explain Nodejs Like I&#39;m Five](https://dev.to/archijain/explain-nodejs-like-im-five-aj2)
-- [Dev.to/JS] [LeetCode #509 Fibonacci Number with JavaScript](https://dev.to/masakifukunishi/leetcode-509-fibonacci-number-with-javascript-5bj4)
 - [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
 - [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)
 - [Lifehacker] [22 of the Best Movies About Movies](https://lifehacker.com/22-of-the-best-movies-about-movies-1850006992)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 of our Best Dips for Any Dip-Worthy Event](https://lifehacker.com/11-of-our-best-dips-for-any-dip-worthy-event-1850007389)
 - [Lifehacker] [How to Shop for Tech That Actually Lasts](https://lifehacker.com/how-to-shop-for-tech-that-actually-lasts-1850001386)
 - [Lifehacker] [The Easiest Way to Make Cinnamon Rolls If You Suck at Baking](https://lifehacker.com/the-easiest-way-to-make-cinnamon-rolls-if-you-suck-at-b-1850002850)
-- [Lifehacker] [You Should Join a Local ‘Maker Space’ If You’re a DIYer](https://lifehacker.com/you-should-join-a-local-maker-space-if-you-re-a-diyer-1849991901)
-- [Lifehacker] [You Should Definitely Make These Creamed Peppers](https://lifehacker.com/you-should-definitely-make-these-creamed-peppers-1850004188)
-- [Lifehacker] [You Can Attend Sundance Without Going to Utah](https://lifehacker.com/you-can-attend-sundance-without-going-to-utah-1850004589)
-- [Lifehacker] [Don&#39;t Believe These Myths About Gas Stoves](https://lifehacker.com/dont-believe-these-myths-about-gas-stoves-1850006371)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Join a Local ‘Maker Space’ If You’re a DIYer](https://lifehacker.com/you-should-join-a-local-maker-space-if-you-re-a-diyer-1849991901)<!-- TECH-POSTS:END -->
 
 ---
 
