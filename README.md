@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2023&#39;s Top Development Projects for Programmers: A Complete List of Tutorials and Tools for Mastering the Latest Technologies](https://dev.to/rahul3002/2023s-top-development-projects-for-programmers-a-complete-list-of-tutorials-and-tools-for-mastering-the-latest-technologies-37o3)
 - [Dev.to/JS] [Animate on scroll](https://dev.to/karamkoujan/animate-on-scroll-29ki)
 - [Dev.to/JS] [Charting the Starchart](https://dev.to/cychu42/charting-the-starchart-2lkm)
 - [Dev.to/JS] [Adicionando o Prettier ao seu projeto JavaScript/TypeScript](https://dev.to/alanfabricio/adicionando-o-prettier-ao-seu-projeto-javascripttypescript-226g)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Dev.to/JS] [JS Promises #3: Garbage collection and memory leaks](https://dev.to/xnimorz/js-promises-3-garbage-collection-and-memory-leaks-2oi7)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
-- [Dev.to/JS] [JavaScript para iniciantes: Aprendendo sobre expressões e operadores.](https://dev.to/altencirsilvajr/javascript-para-iniciantes-aprendendo-sobre-expressoes-e-operadores-1ibi)
 - [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)
 - [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)
 - [Lifehacker] [11 of our Best Dips for Any Dip-Worthy Event](https://lifehacker.com/11-of-our-best-dips-for-any-dip-worthy-event-1850007389)
