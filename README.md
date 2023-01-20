@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Really Shouldn&#39;t Clean Your Stove Until It Cools Down](https://lifehacker.com/why-you-really-shouldnt-clean-your-stove-until-it-cools-1850007101)
+- [Dev.to/JS] [Build a Real-Time Chat App using Node.js and WebSocket](https://dev.to/devland/build-a-real-time-chat-app-using-nodejs-and-websocket-441g)
+- [Lifehacker] [I Am Begging You to Dip a Clementine in Cinnamon Sugar](https://lifehacker.com/i-am-begging-you-to-dip-a-clementine-in-cinnamon-sugar-1850008803)
+- [Lifehacker] [Marinate Your Chicken in Feta Cheese and Capers](https://lifehacker.com/marinate-your-chicken-in-feta-cheese-and-capers-1850008205)
 - [Dev.to/JS] [Deploy your functions and use them everywhere⚡⚡](https://dev.to/dhravya/deploy-your-functions-and-use-them-everywhere-43p3)
 - [Dev.to/JS] [ArtDraw Online Graphic Design Software](https://dev.to/sysmaya/artdraw-online-graphic-design-software-4g3e)
 - [Dev.to/JS] [A realidade do sênior de 2 anos](https://dev.to/devdoido/a-realidade-do-senior-de-2-anos-hde)
@@ -36,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Call in Professional Cleaners](https://lifehacker.com/when-to-call-in-professional-cleaners-1849986317)
 - [Dev.to/JS] [Baidu Map with react-leaflet](https://dev.to/chrollo4ki/baidu-map-with-react-leaflet-5im)
 - [Dev.to/JS] [Free Google Maps in React](https://dev.to/chrollo4ki/free-google-maps-in-react-3iln)
-- [Dev.to/JS] [É possível se destacar com Javascript em poucos meses?](https://dev.to/devdoido/vale-a-pena-investir-minha-carreira-no-javascript-lnc)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
 - [Lifehacker] [The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)
 - [Lifehacker] [50 of the Most Controversial Films Ever Made](https://lifehacker.com/50-of-the-most-controversial-films-ever-made-1849991335)
-- [Lifehacker] [You Can Get a Sam&#39;s Club Membership for Half Off Right Now](https://lifehacker.com/you-can-get-a-sams-club-membership-for-half-off-right-n-1850001794)
-- [Lifehacker] [How to Troubleshoot an &#39;iMessage Activation Unsuccessful&#39; Alert](https://lifehacker.com/how-to-troubleshoot-an-imessage-activation-unsuccessful-1850001190)
-- [Lifehacker] [What&#39;s New on Hulu in February 2023](https://lifehacker.com/whats-new-on-hulu-in-february-2023-1850001470)
-- [Lifehacker] [When It&#39;s OK to Date an Ex&#39;s Friend &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-its-ok-to-date-an-exs-friend-and-when-you-shouldn-1849998402)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Sam&#39;s Club Membership for Half Off Right Now](https://lifehacker.com/you-can-get-a-sams-club-membership-for-half-off-right-n-1850001794)<!-- TECH-POSTS:END -->
 
 ---
 
