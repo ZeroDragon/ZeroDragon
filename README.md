@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Charting the Starchart](https://dev.to/cychu42/charting-the-starchart-2lkm)
+- [Dev.to/JS] [Adicionando o Prettier ao seu projeto JavaScript/TypeScript](https://dev.to/alanfabricio/adicionando-o-prettier-ao-seu-projeto-javascripttypescript-226g)
+- [Dev.to/JS] [Getting to know mermaid JS](https://dev.to/walternascimentobarroso/getting-to-know-mermaid-js-13gl)
 - [Dev.to/JS] [Modals with React Router 6 and Remix](https://dev.to/infoxicator/modals-with-react-router-6-and-remix-1e35)
 - [Dev.to/JS] [Hash Maps](https://dev.to/megdiv/hash-maps-o71)
 - [Dev.to/JS] [Checking NextJS Hydration on chrome](https://dev.to/mehediasif/checking-nextjs-hydration-on-chrome-22cn)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript para iniciantes: Aprendendo sobre expressões e operadores.](https://dev.to/altencirsilvajr/javascript-para-iniciantes-aprendendo-sobre-expressoes-e-operadores-1ibi)
 - [Dev.to/JS] [Props: What you need to know](https://dev.to/oluwatrillions/props-what-you-need-to-know-4pn3)
 - [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)
-- [Dev.to/JS] [PUT v PATCH](https://dev.to/nadia4206/put-v-patch-1fbd)
-- [Dev.to/JS] [5 Ways to Better Debug Failing Cypress Tests in CI](https://dev.to/mikeshi/5-ways-to-better-debug-failing-cypress-tests-in-ci-133n)
-- [Dev.to/JS] [The ultimate form library that you will need](https://dev.to/jucian0/the-ultimate-form-library-that-you-will-need-1nak)
 - [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)
 - [Lifehacker] [11 of our Best Dips for Any Dip-Worthy Event](https://lifehacker.com/11-of-our-best-dips-for-any-dip-worthy-event-1850007389)
 - [Lifehacker] [How to Shop for Tech That Actually Lasts](https://lifehacker.com/how-to-shop-for-tech-that-actually-lasts-1850001386)
