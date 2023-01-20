@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here Are the Best Deals You Can Get on Winter Clothing Right Now](https://lifehacker.com/here-are-the-best-deals-you-can-get-on-winter-clothing-1850002554)
+- [Dev.to/JS] [Convert Canvas To Image | Use with react-image-crop](https://dev.to/deepakjaiswal/convert-canvas-to-image-4l1j)
+- [Lifehacker] [9 Ways to Make a Cookie Without an Oven](https://lifehacker.com/9-ways-to-make-a-cookie-without-an-oven-1850012499)
+- [Dev.to/JS] [A short guide on Event Listeners](https://dev.to/lensco825/a-short-guide-on-event-listeners-2mh1)
+- [Dev.to/JS] [Reasons why you should learn javascript](https://dev.to/archijain/reasons-why-you-should-learn-javascript-1p81)
+- [Dev.to/JS] [JavaScript Array Methods: Understand By Implementing](https://dev.to/biraj21/javascript-array-methods-understand-by-implementing-54g3)
+- [Dev.to/JS] [I made a website to rickroll my friends](https://dev.to/pranshuj73/i-made-a-website-to-rickroll-my-friends-183h)
+- [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)
 - [Dev.to/JS] [Explain Nodejs Like I&#39;m Five](https://dev.to/archijain/explain-nodejs-like-im-five-aj2)
 - [Dev.to/JS] [LeetCode #509 Fibonacci Number with JavaScript](https://dev.to/masakifukunishi/leetcode-509-fibonacci-number-with-javascript-5bj4)
 - [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich”](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
@@ -33,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Currying in Javascript](https://dev.to/sharu24/currying-in-javascript-55b2)
 - [Lifehacker] [22 of the Best Movies About Movies](https://lifehacker.com/22-of-the-best-movies-about-movies-1850006992)
 - [Dev.to/JS] [Firebase + Nextjs](https://dev.to/abbhiishek/firebase-nextjs-511a)
-- [Dev.to/JS] [hello](https://dev.to/hewout/hello-738)
-- [Dev.to/JS] [How to get started with the basics of front end development](https://dev.to/catherineisonline/how-to-get-started-with-the-basics-of-front-end-development-1bh5)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Does Everyone Hate &#39;Velma&#39;?](https://lifehacker.com/why-does-everyone-hate-velma-1850009913)
-- [Dev.to/JS] [Procura-se um mestre jedi pra nossa empresa](https://dev.to/devdoido/procura-se-um-mestre-jedi-pra-nossa-empresa-3koo)
 - [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)
-- [Dev.to/JS] [Interesting facts about javascript](https://dev.to/archijain/interesting-facts-about-javascript-had)
-- [Dev.to/JS] [Gentle introduction to Relay framework &lpar;React + GraphQL&rpar;](https://dev.to/rinatrezyapov/gentle-introduction-to-relay-framework-react-graphql-ji0)
 - [Lifehacker] [Why You Really Shouldn&#39;t Clean Your Stove Until It Cools Down](https://lifehacker.com/why-you-really-shouldnt-clean-your-stove-until-it-cools-1850007101)
 - [Lifehacker] [I Am Begging You to Dip a Clementine in Cinnamon Sugar](https://lifehacker.com/i-am-begging-you-to-dip-a-clementine-in-cinnamon-sugar-1850008803)
 - [Lifehacker] [Marinate Your Chicken in Feta Cheese and Capers](https://lifehacker.com/marinate-your-chicken-in-feta-cheese-and-capers-1850008205)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Believe These Myths About Gas Stoves](https://lifehacker.com/dont-believe-these-myths-about-gas-stoves-1850006371)
 - [Lifehacker] [Use &#39;Solomon&#39;s Paradox&#39; to Make Better Life Decisions](https://lifehacker.com/use-solomons-paradox-to-make-better-life-decisions-1850004993)
 - [Lifehacker] [When to See February&#39;s Full &#39;Micromoon&#39;](https://lifehacker.com/when-to-see-februarys-full-micromoon-1850002771)
-- [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)
-- [Lifehacker] [You Can Export Your Entire iMessage History](https://lifehacker.com/you-can-export-your-entire-imessage-history-1850000632)
-- [Lifehacker] [The Easiest Ways to Sync iMessages Across All Your Devices](https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677)
-- [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)<!-- TECH-POSTS:END -->
 
 ---
 
