@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Guide: Basics of JS](https://dev.to/anujnegi_/javascript-guide-basics-of-js-39ma)
+- [Dev.to/JS] [⚡Introduction to Next.js](https://dev.to/iamdevmarcos/introduction-to-nextjs-5f9b)
+- [Dev.to/JS] [Unlocking the Power of Promises: Mastering Asynchronous JavaScript with Ease](https://dev.to/ahmed_onour/unlocking-the-power-of-promises-mastering-asynchronous-javascript-with-ease-iak)
+- [Dev.to/JS] [What, Why and How Javascript Static Initialization Blocks?](https://dev.to/devsmitra/what-why-and-how-javascript-static-initialization-blocks-4n41)
+- [Dev.to/JS] [Why I am happy to be a Javascript developer?](https://dev.to/hadnazzar/why-i-am-happy-to-be-a-javascript-developer-h62)
 - [Dev.to/JS] [What You Should Know About JavaScript pop&lpar;&rpar; function for beginners](https://dev.to/emmykolic/what-you-should-know-about-javascript-pop-function-for-beginners-3k9g)
 - [Dev.to/JS] [Text To Speech Converter with JavaScript](https://dev.to/shantanu_jana/text-to-speech-converter-with-javascript-30oo)
-- [Dev.to/JS] [Prima Weight Loss – Weight Loss Reviews, Benefits, Price And Results?](https://dev.to/primawe93328524/prima-weight-loss-weight-loss-reviews-benefits-price-and-results-192e)
 - [Dev.to/JS] [Shallow Copy vs Deep Copy JS &amp; Reference Part-1🚀](https://dev.to/himanshupal0001/shallow-copy-vs-deep-copy-js-reference-part-1-onf)
 - [Dev.to/JS] [Balancing Speed and Thoroughness: Best Practices for Reviewing and Approving Pull Requests](https://dev.to/khalidahmada/balancing-speed-and-thoroughness-best-practices-for-reviewing-and-approving-pull-requests-36gg)
 - [Dev.to/JS] [How to configure and use Environment Variables in NestJS](https://dev.to/one-beyond/how-to-configure-and-use-environment-variables-in-nestjs-3cm2)
 - [Dev.to/JS] [Become a JavaScript Testing Pro: 14 Resources for Developers](https://dev.to/mbarzeev/become-a-javascript-testing-pro-14-resources-for-developers-4pkm)
 - [Dev.to/JS] [Localbitcoins clone script- Create a P2P crypto exchange like Localbitcoins](https://dev.to/keevinlarsen555/localbitcoins-clone-script-create-a-p2p-crypto-exchange-like-localbitcoins-a86)
-- [Dev.to/JS] [Last react library form that you need](https://dev.to/jucian0/last-react-library-form-that-you-need-1m73)
-- [Dev.to/JS] [Parlons un peu du WebRTC](https://dev.to/malodev_38/parlons-un-peu-du-webrtc-5fhk)
-- [Dev.to/JS] [How To Setup Automatic Redirects In Your React Application](https://dev.to/ugorji_simon/how-to-setup-automatic-redirects-in-your-react-application-5c7l)
-- [Dev.to/JS] [React 18: Automatic Batching](https://dev.to/tanzeelkhan/react-18-automatic-batching-118g)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
