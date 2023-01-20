@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Reasons To Choose Java](https://dev.to/infiraise/top-5-reasons-to-choose-java-2c59)
+- [Dev.to/JS] [How To Get Checked And Unchecked Checkbox Value In jQuery](https://dev.to/techsolutionstuff/how-to-get-checked-and-unchecked-checkbox-value-in-jquery-50do)
+- [Dev.to/JS] [NextJS vs. RedwoodJS: Which One is Better](https://dev.to/eunit/nextjs-vs-redwoodjs-which-one-is-better-3jl3)
 - [Dev.to/JS] [Subsequence-Get All Subsequnce + Get All strictly increasing Subsequnce](https://dev.to/zeeshanali0704/sunsequence-get-all-subsequnce-get-all-strict-increasing-subsequnce-o7f)
 - [Dev.to/JS] [How to deploy your app on Netlify, Firebase or Heroku? A video course.](https://dev.to/livechat/how-to-deploy-your-app-on-netlify-firebase-or-heroku-a-video-course-204g)
 - [Dev.to/JS] [2023&#39;s Top Development Projects for Programmers: A Complete List of Tutorials and Tools for Mastering the Latest Technologies](https://dev.to/rahul3002/2023s-top-development-projects-for-programmers-a-complete-list-of-tutorials-and-tools-for-mastering-the-latest-technologies-37o3)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting to know mermaid JS](https://dev.to/walternascimentobarroso/getting-to-know-mermaid-js-13gl)
 - [Dev.to/JS] [Modals with React Router 6 and Remix](https://dev.to/infoxicator/modals-with-react-router-6-and-remix-1e35)
 - [Dev.to/JS] [Hash Maps](https://dev.to/megdiv/hash-maps-o71)
-- [Dev.to/JS] [Checking NextJS Hydration on chrome](https://dev.to/mehediasif/checking-nextjs-hydration-on-chrome-22cn)
-- [Dev.to/JS] [Desenvolvimento de software para iniciantes: o mesmo conteúdo de sempre, mas com roupa diferente](https://dev.to/devdoido/desenvolvimento-de-software-para-iniciantes-o-mesmo-conteudo-de-sempre-mas-com-roupa-diferente-4pj9)
-- [Dev.to/JS] [Destructuring Assignment and Shorthand Properties/Methods - Javascript](https://dev.to/renancferro/destructuring-assignment-and-shorthand-propertiesmethods-javascript-52d6)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
