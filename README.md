@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Setup Automatic Redirects In Your React Application](https://dev.to/ugorji_simon/how-to-setup-automatic-redirects-in-your-react-application-5c7l)
+- [Dev.to/JS] [React 18: Automatic Batching](https://dev.to/tanzeelkhan/react-18-automatic-batching-118g)
 - [Dev.to/JS] [Script to manipulate user history](https://dev.to/ahmadhidayatullah/script-to-manipulate-user-history-37eg)
 - [Dev.to/JS] [How To Setup Redux Slices with Redux Toolkit](https://dev.to/quokkalabs/how-to-setup-redux-slices-with-redux-toolkit-337o)
 - [Dev.to/JS] [Projects for Diploma Students](https://dev.to/arunprakash142/projects-for-diploma-students-4hhd)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Alpilean - Fat Loss Reviews, Results, Price, Does It Work?](https://dev.to/alpilean7/alpilean-fat-loss-reviews-results-price-does-it-work-e8n)
 - [Dev.to/JS] [Backend Portfolio Projects for Developers Who Dread CSS](https://dev.to/maximization/backend-portfolio-projects-for-developers-who-dread-css-1mbn)
 - [Dev.to/JS] [Top 5 Reasons To Choose Java](https://dev.to/infiraise/top-5-reasons-to-choose-java-2c59)
-- [Dev.to/JS] [How To Get Checked And Unchecked Checkbox Value In jQuery](https://dev.to/techsolutionstuff/how-to-get-checked-and-unchecked-checkbox-value-in-jquery-50do)
-- [Dev.to/JS] [NextJS vs. RedwoodJS: Which One is Better](https://dev.to/eunit/nextjs-vs-redwoodjs-which-one-is-better-3jl3)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
