@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Subsequence-Get All Subsequnce + Get All strictly increasing Subsequnce](https://dev.to/zeeshanali0704/sunsequence-get-all-subsequnce-get-all-strict-increasing-subsequnce-o7f)
+- [Dev.to/JS] [How to deploy your app on Netlify, Firebase or Heroku? A video course.](https://dev.to/livechat/how-to-deploy-your-app-on-netlify-firebase-or-heroku-a-video-course-204g)
 - [Dev.to/JS] [2023&#39;s Top Development Projects for Programmers: A Complete List of Tutorials and Tools for Mastering the Latest Technologies](https://dev.to/rahul3002/2023s-top-development-projects-for-programmers-a-complete-list-of-tutorials-and-tools-for-mastering-the-latest-technologies-37o3)
 - [Dev.to/JS] [Animate on scroll](https://dev.to/karamkoujan/animate-on-scroll-29ki)
 - [Dev.to/JS] [Charting the Starchart](https://dev.to/cychu42/charting-the-starchart-2lkm)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Desenvolvimento de software para iniciantes: o mesmo conteúdo de sempre, mas com roupa diferente](https://dev.to/devdoido/desenvolvimento-de-software-para-iniciantes-o-mesmo-conteudo-de-sempre-mas-com-roupa-diferente-4pj9)
 - [Dev.to/JS] [Destructuring Assignment and Shorthand Properties/Methods - Javascript](https://dev.to/renancferro/destructuring-assignment-and-shorthand-propertiesmethods-javascript-52d6)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
-- [Dev.to/JS] [Backend é mais fácil que frontend?](https://dev.to/devdoido/backend-e-mais-facil-que-frontend-2c9j)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
-- [Dev.to/JS] [JS Promises #3: Garbage collection and memory leaks](https://dev.to/xnimorz/js-promises-3-garbage-collection-and-memory-leaks-2oi7)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
 - [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)
 - [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)
