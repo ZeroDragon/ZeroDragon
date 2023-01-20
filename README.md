@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Localbitcoins clone script- Create a P2P crypto exchange like Localbitcoins](https://dev.to/keevinlarsen555/localbitcoins-clone-script-create-a-p2p-crypto-exchange-like-localbitcoins-a86)
+- [Dev.to/JS] [Last react library form that you need](https://dev.to/jucian0/last-react-library-form-that-you-need-1m73)
+- [Dev.to/JS] [Parlons un peu du WebRTC](https://dev.to/malodev_38/parlons-un-peu-du-webrtc-5fhk)
 - [Dev.to/JS] [How To Setup Automatic Redirects In Your React Application](https://dev.to/ugorji_simon/how-to-setup-automatic-redirects-in-your-react-application-5c7l)
 - [Dev.to/JS] [React 18: Automatic Batching](https://dev.to/tanzeelkhan/react-18-automatic-batching-118g)
 - [Dev.to/JS] [Script to manipulate user history](https://dev.to/ahmadhidayatullah/script-to-manipulate-user-history-37eg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Benefits of Cyber Security](https://dev.to/qmoniqs/benefits-of-cyber-security-3a3b)
 - [Dev.to/JS] [Building a Serverless Web Application with Static-Site-Generator Like Gatsby](https://dev.to/scofieldidehen/building-a-serverless-web-application-with-static-site-generator-like-gatsby-2hcn)
 - [Dev.to/JS] [Porting from RequireJS to ES6](https://dev.to/tythos/porting-from-requirejs-to-es6-ip)
-- [Dev.to/JS] [Alpilean - Fat Loss Reviews, Results, Price, Does It Work?](https://dev.to/alpilean7/alpilean-fat-loss-reviews-results-price-does-it-work-e8n)
-- [Dev.to/JS] [Backend Portfolio Projects for Developers Who Dread CSS](https://dev.to/maximization/backend-portfolio-projects-for-developers-who-dread-css-1mbn)
-- [Dev.to/JS] [Top 5 Reasons To Choose Java](https://dev.to/infiraise/top-5-reasons-to-choose-java-2c59)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
