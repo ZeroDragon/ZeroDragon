@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Does Everyone Hate &#39;Velma&#39;?](https://lifehacker.com/why-does-everyone-hate-velma-1850009913)
+- [Dev.to/JS] [Procura-se um mestre jedi pra nossa empresa](https://dev.to/devdoido/procura-se-um-mestre-jedi-pra-nossa-empresa-3koo)
+- [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)
+- [Dev.to/JS] [Interesting facts about javascript](https://dev.to/archijain/interesting-facts-about-javascript-had)
+- [Dev.to/JS] [Gentle introduction to Relay framework &lpar;React + GraphQL&rpar;](https://dev.to/rinatrezyapov/gentle-introduction-to-relay-framework-react-graphql-ji0)
+- [Dev.to/JS] [Effective Promise Concurrency in JavaScript](https://dev.to/builderio/effective-promise-concurrency-in-javascript-2i0)
 - [Lifehacker] [Why You Really Shouldn&#39;t Clean Your Stove Until It Cools Down](https://lifehacker.com/why-you-really-shouldnt-clean-your-stove-until-it-cools-1850007101)
 - [Dev.to/JS] [Build a Real-Time Chat App using Node.js and WebSocket](https://dev.to/devland/build-a-real-time-chat-app-using-nodejs-and-websocket-441g)
 - [Lifehacker] [I Am Begging You to Dip a Clementine in Cinnamon Sugar](https://lifehacker.com/i-am-begging-you-to-dip-a-clementine-in-cinnamon-sugar-1850008803)
@@ -33,13 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HOW TO GOOGLE LIKE A PRO](https://dev.to/danmusembi/how-to-google-like-a-pro-3nl6)
 - [Lifehacker] [This Calculator Will Tell You If You Can Afford to Be a Digital Nomad](https://lifehacker.com/this-calculator-will-tell-you-if-you-can-afford-to-be-a-1850007114)
 - [Dev.to/JS] [Geração dinâmica de arquivos com Plop.js](https://dev.to/devdoido/geracao-dinamica-de-arquivos-com-plopjs-3km2)
-- [Dev.to/JS] [Custom Tabs with SASS and Javascript](https://dev.to/shubhamtiwari909/custom-tabs-with-sass-and-javascript-4dej)
+- [Dev.to/JS] [Tabs Components - JavaScript](https://dev.to/shubhamtiwari909/custom-tabs-with-sass-and-javascript-4dej)
 - [Dev.to/JS] [How to become Web3 UI Dev?](https://dev.to/spheron/how-to-become-web3-ui-dev-4937)
-- [Dev.to/JS] [What you should learn to become a good front-end developer?](https://dev.to/codewithlua/what-you-should-learn-to-become-a-good-front-end-developer-34pg)
-- [Dev.to/JS] [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://dev.to/olanetsoft/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript-3e3o)
 - [Lifehacker] [When to Call in Professional Cleaners](https://lifehacker.com/when-to-call-in-professional-cleaners-1849986317)
-- [Dev.to/JS] [Baidu Map with react-leaflet](https://dev.to/chrollo4ki/baidu-map-with-react-leaflet-5im)
-- [Dev.to/JS] [Free Google Maps in React](https://dev.to/chrollo4ki/free-google-maps-in-react-3iln)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
 - [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)
 - [Lifehacker] [The Easiest Way to Turn a Plain Bagel Into an Everything Bagel](https://lifehacker.com/the-easiest-way-to-turn-a-plain-bagel-into-an-everythin-1850001238)
-- [Lifehacker] [The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)
-- [Lifehacker] [50 of the Most Controversial Films Ever Made](https://lifehacker.com/50-of-the-most-controversial-films-ever-made-1849991335)
-- [Lifehacker] [You Can Get a Sam&#39;s Club Membership for Half Off Right Now](https://lifehacker.com/you-can-get-a-sams-club-membership-for-half-off-right-n-1850001794)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)<!-- TECH-POSTS:END -->
 
 ---
 
