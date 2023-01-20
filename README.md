@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t use Enums in Typescript, they are very dangerous 😨](https://dev.to/ivanzm123/dont-use-enums-in-typescript-they-are-very-dangerous-57bh)
+- [Lifehacker] [You Might Score Free Wifi on Delta Flights Starting in February](https://lifehacker.com/you-might-score-free-wifi-on-delta-flights-starting-in-1850012845)
+- [Dev.to/JS] [15 Must-Have Cheatsheets for Developers🚀](https://dev.to/ishratumar/15-must-have-cheatsheets-for-developers-1n92)
 - [Lifehacker] [Here Are the Best Deals You Can Get on Winter Clothing Right Now](https://lifehacker.com/here-are-the-best-deals-you-can-get-on-winter-clothing-1850002554)
 - [Dev.to/JS] [Convert Canvas To Image | Use with react-image-crop](https://dev.to/deepakjaiswal/convert-canvas-to-image-4l1j)
 - [Lifehacker] [9 Ways to Make a Cookie Without an Oven](https://lifehacker.com/9-ways-to-make-a-cookie-without-an-oven-1850012499)
@@ -33,14 +36,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)
 - [Dev.to/JS] [Explain Nodejs Like I&#39;m Five](https://dev.to/archijain/explain-nodejs-like-im-five-aj2)
 - [Dev.to/JS] [LeetCode #509 Fibonacci Number with JavaScript](https://dev.to/masakifukunishi/leetcode-509-fibonacci-number-with-javascript-5bj4)
-- [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich”](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
+- [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
 - [Dev.to/JS] [14. Longest Common Prefix - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/14-longest-common-prefix-javascript-solution-by-abu-saleh-faysal-2fle)
 - [Dev.to/JS] [Working with Common Data Structures In JavaScript](https://dev.to/sawincp/working-with-common-data-structures-in-javascript-5dg6)
 - [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)
 - [Dev.to/JS] [Agen Domino Cahayapoker](https://dev.to/cahayaqq301/agen-domino-cahayapoker-28l2)
-- [Dev.to/JS] [Currying in Javascript](https://dev.to/sharu24/currying-in-javascript-55b2)
 - [Lifehacker] [22 of the Best Movies About Movies](https://lifehacker.com/22-of-the-best-movies-about-movies-1850006992)
-- [Dev.to/JS] [Firebase + Nextjs](https://dev.to/abbhiishek/firebase-nextjs-511a)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Does Everyone Hate &#39;Velma&#39;?](https://lifehacker.com/why-does-everyone-hate-velma-1850009913)
 - [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)
 - [Lifehacker] [Why You Really Shouldn&#39;t Clean Your Stove Until It Cools Down](https://lifehacker.com/why-you-really-shouldnt-clean-your-stove-until-it-cools-1850007101)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Attend Sundance Without Going to Utah](https://lifehacker.com/you-can-attend-sundance-without-going-to-utah-1850004589)
 - [Lifehacker] [Don&#39;t Believe These Myths About Gas Stoves](https://lifehacker.com/dont-believe-these-myths-about-gas-stoves-1850006371)
 - [Lifehacker] [Use &#39;Solomon&#39;s Paradox&#39; to Make Better Life Decisions](https://lifehacker.com/use-solomons-paradox-to-make-better-life-decisions-1850004993)
-- [Lifehacker] [When to See February&#39;s Full &#39;Micromoon&#39;](https://lifehacker.com/when-to-see-februarys-full-micromoon-1850002771)
-- [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to See February&#39;s Full &#39;Micromoon&#39;](https://lifehacker.com/when-to-see-februarys-full-micromoon-1850002771)<!-- TECH-POSTS:END -->
 
 ---
 
