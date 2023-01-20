@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explain Nodejs Like I&#39;m Five](https://dev.to/archijain/explain-nodejs-like-im-five-aj2)
+- [Dev.to/JS] [LeetCode #509 Fibonacci Number with JavaScript](https://dev.to/masakifukunishi/leetcode-509-fibonacci-number-with-javascript-5bj4)
+- [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich”](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
+- [Dev.to/JS] [14. Longest Common Prefix - JavaScript Solution - by Abu Saleh Faysal](https://dev.to/abusalehfaysal/14-longest-common-prefix-javascript-solution-by-abu-saleh-faysal-2fle)
+- [Dev.to/JS] [Working with Common Data Structures In JavaScript](https://dev.to/sawincp/working-with-common-data-structures-in-javascript-5dg6)
 - [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)
 - [Dev.to/JS] [Agen Domino Cahayapoker](https://dev.to/cahayaqq301/agen-domino-cahayapoker-28l2)
 - [Dev.to/JS] [Currying in Javascript](https://dev.to/sharu24/currying-in-javascript-55b2)
@@ -35,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)
 - [Dev.to/JS] [Interesting facts about javascript](https://dev.to/archijain/interesting-facts-about-javascript-had)
 - [Dev.to/JS] [Gentle introduction to Relay framework &lpar;React + GraphQL&rpar;](https://dev.to/rinatrezyapov/gentle-introduction-to-relay-framework-react-graphql-ji0)
-- [Dev.to/JS] [Effective Promise Concurrency in JavaScript](https://dev.to/builderio/effective-promise-concurrency-in-javascript-2i0)
 - [Lifehacker] [Why You Really Shouldn&#39;t Clean Your Stove Until It Cools Down](https://lifehacker.com/why-you-really-shouldnt-clean-your-stove-until-it-cools-1850007101)
-- [Dev.to/JS] [Build a Real-Time Chat App using Node.js and WebSocket](https://dev.to/devland/build-a-real-time-chat-app-using-nodejs-and-websocket-441g)
 - [Lifehacker] [I Am Begging You to Dip a Clementine in Cinnamon Sugar](https://lifehacker.com/i-am-begging-you-to-dip-a-clementine-in-cinnamon-sugar-1850008803)
 - [Lifehacker] [Marinate Your Chicken in Feta Cheese and Capers](https://lifehacker.com/marinate-your-chicken-in-feta-cheese-and-capers-1850008205)
-- [Dev.to/JS] [Deploy your functions and use them everywhere⚡⚡](https://dev.to/dhravya/deploy-your-functions-and-use-them-everywhere-43p3)
-- [Dev.to/JS] [ArtDraw Online Graphic Design Software](https://dev.to/sysmaya/artdraw-online-graphic-design-software-4g3e)
 - [Lifehacker] [This Calculator Will Tell You If You Can Afford to Be a Digital Nomad](https://lifehacker.com/this-calculator-will-tell-you-if-you-can-afford-to-be-a-1850007114)
 - [Lifehacker] [When to Call in Professional Cleaners](https://lifehacker.com/when-to-call-in-professional-cleaners-1849986317)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Skincare Routine Every Tween Needs, According to a Dermatologist](https://lifehacker.com/the-skincare-routine-every-tween-needs-according-to-a-1850000963)
 - [Lifehacker] [You Can Export Your Entire iMessage History](https://lifehacker.com/you-can-export-your-entire-imessage-history-1850000632)
 - [Lifehacker] [The Easiest Ways to Sync iMessages Across All Your Devices](https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677)
-- [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)
-- [Lifehacker] [Blend Bacon Into Your Creamy Soups and Chowders](https://lifehacker.com/blend-bacon-into-your-creamy-soups-and-chowders-1850002202)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-or-at-least-slow-down-porch-pirates-1850001676)<!-- TECH-POSTS:END -->
 
 ---
 
