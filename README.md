@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Baidu Map with react-leaflet](https://dev.to/chrollo4ki/baidu-map-with-react-leaflet-5im)
+- [Dev.to/JS] [Free Google Maps in React](https://dev.to/chrollo4ki/free-google-maps-in-react-3iln)
+- [Dev.to/JS] [Vale a pena investir minha carreira no Javascript?](https://dev.to/devdoido/vale-a-pena-investir-minha-carreira-no-javascript-lnc)
+- [Dev.to/JS] [O PHP vai morrer?](https://dev.to/devdoido/o-php-vai-morrer-39fo)
+- [Dev.to/JS] [Jornada pelo DevLinks - Rocketseat](https://dev.to/luigibelanda/jornada-pelo-devlinks-rocketseat-3jcc)
 - [Dev.to/JS] [Javascript Guide: Basics of JS](https://dev.to/anujnegi_/javascript-guide-basics-of-js-39ma)
 - [Dev.to/JS] [⚡Introduction to Next.js](https://dev.to/iamdevmarcos/introduction-to-nextjs-5f9b)
 - [Dev.to/JS] [Unlocking the Power of Promises: Mastering Asynchronous JavaScript with Ease](https://dev.to/ahmed_onour/unlocking-the-power-of-promises-mastering-asynchronous-javascript-with-ease-iak)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I am happy to be a Javascript developer?](https://dev.to/hadnazzar/why-i-am-happy-to-be-a-javascript-developer-h62)
 - [Dev.to/JS] [What You Should Know About JavaScript pop&lpar;&rpar; function for beginners](https://dev.to/emmykolic/what-you-should-know-about-javascript-pop-function-for-beginners-3k9g)
 - [Dev.to/JS] [Text To Speech Converter with JavaScript](https://dev.to/shantanu_jana/text-to-speech-converter-with-javascript-30oo)
-- [Dev.to/JS] [Shallow Copy vs Deep Copy JS &amp; Reference Part-1🚀](https://dev.to/himanshupal0001/shallow-copy-vs-deep-copy-js-reference-part-1-onf)
-- [Dev.to/JS] [Balancing Speed and Thoroughness: Best Practices for Reviewing and Approving Pull Requests](https://dev.to/khalidahmada/balancing-speed-and-thoroughness-best-practices-for-reviewing-and-approving-pull-requests-36gg)
-- [Dev.to/JS] [How to configure and use Environment Variables in NestJS](https://dev.to/one-beyond/how-to-configure-and-use-environment-variables-in-nestjs-3cm2)
-- [Dev.to/JS] [Become a JavaScript Testing Pro: 14 Resources for Developers](https://dev.to/mbarzeev/become-a-javascript-testing-pro-14-resources-for-developers-4pkm)
-- [Dev.to/JS] [Localbitcoins clone script- Create a P2P crypto exchange like Localbitcoins](https://dev.to/keevinlarsen555/localbitcoins-clone-script-create-a-p2p-crypto-exchange-like-localbitcoins-a86)
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
