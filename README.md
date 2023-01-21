@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Dev.to/JS] [Learn to Deploy Smart Contracts more Professionally with Hardhat](https://dev.to/alymurtazamemon/learn-to-deploy-smart-contracts-more-professionally-with-hardhat-3253)
 - [Dev.to/JS] [How to Add Form Validation in React using React useRef&lpar;&rpar; Hook ?](https://dev.to/radhe65gupta/how-to-add-form-validation-in-react-using-react-useref-hook--1ie5)
 - [Dev.to/JS] [What is pipeline operator in JavaScript?](https://dev.to/nisalk/what-is-pipeline-operator-in-javascript-2g5p)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)
 - [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)
 - [Lifehacker] [11 of our Best Dips for Any Dip-Worthy Event](https://lifehacker.com/11-of-our-best-dips-for-any-dip-worthy-event-1850007389)
-- [Lifehacker] [How to Shop for Tech That Actually Lasts](https://lifehacker.com/how-to-shop-for-tech-that-actually-lasts-1850001386)
-- [Lifehacker] [The Easiest Way to Make Cinnamon Rolls If You Suck at Baking](https://lifehacker.com/the-easiest-way-to-make-cinnamon-rolls-if-you-suck-at-b-1850002850)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Shop for Tech That Actually Lasts](https://lifehacker.com/how-to-shop-for-tech-that-actually-lasts-1850001386)<!-- TECH-POSTS:END -->
 
 ---
 
