@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 best reasons why one should learn programming in 2023](https://dev.to/hy_piyush/5-best-reasons-why-one-should-learn-programming-in-2023-25h7)
+- [Dev.to/JS] [TypeScript Being a Good Boy](https://dev.to/2devyank/typescript-being-a-good-boy-2fj1)
+- [Dev.to/JS] [Exploring the Power of useRef hook.✨](https://dev.to/sidddabdullah/exploring-the-power-of-useref-hook-1ok0)
 - [Dev.to/JS] [Publish a Typescript React library to NPM in a monorepo](https://dev.to/tresorama/publish-a-typescript-react-library-to-npm-in-a-monorepo-1ah1)
 - [Dev.to/JS] [Master JavaScript Array Methods with One Simple Image](https://dev.to/dipeshjaiswal/master-javascript-array-methods-with-one-simple-image-3m1o)
 - [Dev.to/JS] [Restore IP Address](https://dev.to/zeeshanali0704/restore-ip-address-5acg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Random Number Draw](https://dev.to/walternascimentobarroso/random-number-draw-5bn2)
 - [Dev.to/JS] [The Top 5 Websites for Effective Coding](https://dev.to/rahul3002/the-top-5-websites-for-effective-coding-20o9)
 - [Dev.to/JS] [The last form library for React you will ever need](https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42)
-- [Dev.to/JS] [Let’s play around with Carousel marquee ✌️](https://dev.to/nitinreddy3/lets-play-around-with-carousel-marquee-15f1)
-- [Dev.to/JS] [Best Web Development Practice](https://dev.to/yisuscode/best-web-development-practice-3pb6)
-- [Dev.to/JS] [Cook a recipe with AWS: A Web application which calls a webservice and displays result, using AWS Amplify](https://dev.to/aws-builders/cook-a-recipe-create-a-web-application-using-aws-amplify-3128)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
