@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Load balancing for beginners](https://dev.to/arinze19/load-balancing-for-beginners-466k)
+- [Dev.to/JS] [Function to Efficiently Reverse Alternate K-length Chunks of a String In Javascript](https://dev.to/monukmodi/function-to-efficiently-reverse-alternate-k-length-chunks-of-a-string-in-javascript-lan)
 - [Dev.to/JS] [Use Live Time/Date in the ReactJS](https://dev.to/raynecoder/use-live-timedate-in-the-reactjs-1fjh)
 - [Dev.to/JS] [Web apps - my mental cheat-sheet](https://dev.to/costica/web-apps-my-mental-cheat-sheet-41ah)
 - [Dev.to/JS] [Protected Routes in React Router V6](https://dev.to/mehrab18/protected-routes-in-react-router-v6-12oa)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Power of useRef hook.✨](https://dev.to/sidddabdullah/exploring-the-power-of-useref-hook-1ok0)
 - [Dev.to/JS] [Publish a Typescript React library to NPM in a monorepo](https://dev.to/tresorama/publish-a-typescript-react-library-to-npm-in-a-monorepo-1ah1)
 - [Dev.to/JS] [Master JavaScript Array Methods with One Simple Image](https://dev.to/dipeshjaiswal/master-javascript-array-methods-with-one-simple-image-3m1o)
-- [Dev.to/JS] [Restore IP Address](https://dev.to/zeeshanali0704/restore-ip-address-5acg)
-- [Dev.to/JS] [How to Make a Color Picker in JavaScript?](https://dev.to/shantanu_jana/how-to-make-a-color-picker-in-javascript-15lc)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
