@@ -23,10 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Top 5 Websites for Effective Coding](https://dev.to/rahul3002/the-top-5-websites-for-effective-coding-20o9)
 - [Dev.to/JS] [The last form library for React you will ever need](https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42)
 - [Dev.to/JS] [Let’s play around with Carousel marquee ✌️](https://dev.to/nitinreddy3/lets-play-around-with-carousel-marquee-15f1)
 - [Dev.to/JS] [Best Web Development Practice](https://dev.to/yisuscode/best-web-development-practice-3pb6)
-- [Dev.to/JS] [Cook a Recipe: Create a Web application using AWS Amplify](https://dev.to/aws-builders/cook-a-recipe-create-a-web-application-using-aws-amplify-3128)
+- [Dev.to/JS] [Cook a recipe with AWS: A Web application which calls a webservice and displays result using AWS Amplify](https://dev.to/aws-builders/cook-a-recipe-create-a-web-application-using-aws-amplify-3128)
 - [Dev.to/JS] [JS Pipeline Operator](https://dev.to/wadecodez/js-pipeline-operator-n5j)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Dev.to/JS] [A Jr. Frontend’s development journey #1](https://dev.to/hakanbudak/a-jr-frontends-development-journey-1-4o8f)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Important Differences Between At-Home Dementia Care and a Long-Term Care Facility](https://lifehacker.com/the-important-differences-between-at-home-dementia-care-1850012343)
 - [Dev.to/JS] [Don&#39;t use Enums in Typescript, they are very dangerous 😨](https://dev.to/ivanzm123/dont-use-enums-in-typescript-they-are-very-dangerous-57bh)
 - [Lifehacker] [You Might Score Free Wifi on Delta Flights Starting in February](https://lifehacker.com/you-might-score-free-wifi-on-delta-flights-starting-in-1850012845)
-- [Dev.to/JS] [15 Must-Have Cheatsheets for Developers🚀](https://dev.to/ishratumar/15-must-have-cheatsheets-for-developers-1n92)
 - [Lifehacker] [Here Are the Best Deals You Can Get on Winter Clothing Right Now](https://lifehacker.com/here-are-the-best-deals-you-can-get-on-winter-clothing-1850002554)
 - [Lifehacker] [9 Ways to Make a Cookie Without an Oven](https://lifehacker.com/9-ways-to-make-a-cookie-without-an-oven-1850012499)
 - [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)
