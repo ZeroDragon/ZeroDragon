@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use Live Time/Date in the ReactJS](https://dev.to/raynecoder/use-live-timedate-in-the-reactjs-1fjh)
+- [Dev.to/JS] [Web apps - my mental cheat-sheet](https://dev.to/costica/web-apps-my-mental-cheat-sheet-41ah)
+- [Dev.to/JS] [Protected Routes in React Router V6](https://dev.to/mehrab18/protected-routes-in-react-router-v6-12oa)
+- [Dev.to/JS] [Chaining in Javascript](https://dev.to/sharu24/chaining-in-javascript-jmm)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;21-01-2023&rpar; - Browsers and Music and Vikings &amp; War](https://dev.to/mjgs/this-weeks-newsletter-is-out-21-01-2023-browsers-and-music-and-vikings-war-6hb)
 - [Dev.to/JS] [5 best reasons why one should learn programming in 2023](https://dev.to/hy_piyush/5-best-reasons-why-one-should-learn-programming-in-2023-25h7)
 - [Dev.to/JS] [TypeScript Being a Good Boy](https://dev.to/2devyank/typescript-being-a-good-boy-2fj1)
 - [Dev.to/JS] [Exploring the Power of useRef hook.✨](https://dev.to/sidddabdullah/exploring-the-power-of-useref-hook-1ok0)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Master JavaScript Array Methods with One Simple Image](https://dev.to/dipeshjaiswal/master-javascript-array-methods-with-one-simple-image-3m1o)
 - [Dev.to/JS] [Restore IP Address](https://dev.to/zeeshanali0704/restore-ip-address-5acg)
 - [Dev.to/JS] [How to Make a Color Picker in JavaScript?](https://dev.to/shantanu_jana/how-to-make-a-color-picker-in-javascript-15lc)
-- [Dev.to/JS] [Using SQLite in the Browser](https://dev.to/krowemoh/using-sqlite-in-the-browser-3kml)
-- [Dev.to/JS] [Building sql.js-httpvfs for the Browser](https://dev.to/krowemoh/building-sqljs-httpvfs-for-the-browser-2e2d)
-- [Dev.to/JS] [Random Number Draw](https://dev.to/walternascimentobarroso/random-number-draw-5bn2)
-- [Dev.to/JS] [The Top 5 Websites for Effective Coding](https://dev.to/rahul3002/the-top-5-websites-for-effective-coding-20o9)
-- [Dev.to/JS] [The last form library for React you will ever need](https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
