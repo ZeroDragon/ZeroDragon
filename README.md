@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-cme)
+- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-37gg)
+- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-4om4)
+- [Dev.to/JS] [JAVASCRIPT WHATSAPP BOT](https://dev.to/shizo_the_techie/javascript-whatsapp-bot-4egg)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Dev.to/JS] [C++ GA KIRISH.](https://dev.to/jo1dasbekov/c-ga-kirish-4dma)
 - [Dev.to/JS] [2-DARS: O&#39;ZGARUVCHILAR.](https://dev.to/jo1dasbekov/2-dars-ozgaruvchilar-57oi)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I made Chart.js sane by wrapping it in a web component](https://dev.to/kokozaurus/how-i-made-chartjs-sane-by-wrapping-it-in-a-web-component-pao)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Dev.to/JS] [Learn to Deploy Smart Contracts more Professionally with Hardhat](https://dev.to/alymurtazamemon/learn-to-deploy-smart-contracts-more-professionally-with-hardhat-3253)
-- [Dev.to/JS] [How to Add Form Validation in React using React useRef&lpar;&rpar; Hook ?](https://dev.to/radhe65gupta/how-to-add-form-validation-in-react-using-react-useref-hook--1ie5)
-- [Dev.to/JS] [What is pipeline operator in JavaScript?](https://dev.to/nisalk/what-is-pipeline-operator-in-javascript-2g5p)
-- [Dev.to/JS] [C++ vs JavaScript. The Differences and The Similarities.](https://dev.to/amanrai/c-vs-javascript-the-differences-and-the-similarities-jkk)
-- [Dev.to/JS] [Why React Router is excellent for Micro-Frontends](https://dev.to/infoxicator/why-react-router-is-excellent-for-micro-frontends-2a21)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
