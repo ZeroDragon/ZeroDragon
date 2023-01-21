@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
+- [Dev.to/JS] [C++ GA KIRISH.](https://dev.to/jo1dasbekov/c-ga-kirish-4dma)
+- [Dev.to/JS] [2-DARS: O&#39;ZGARUVCHILAR.](https://dev.to/jo1dasbekov/2-dars-ozgaruvchilar-57oi)
+- [Dev.to/JS] [Get Internship As a Developer](https://dev.to/patilganesh1010/get-internship-as-a-developer-1k06)
 - [Dev.to/JS] [What is ICDS? : the class part](https://dev.to/ota200/what-is-icds-the-class-part-3l1c)
 - [Dev.to/JS] [Infinite Scroll Using Intersection Observer API 😉](https://dev.to/thedeepakyadav/infinite-scroll-using-intersection-observer-api-3527)
 - [Dev.to/JS] [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-11bj)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is pipeline operator in JavaScript?](https://dev.to/nisalk/what-is-pipeline-operator-in-javascript-2g5p)
 - [Dev.to/JS] [C++ vs JavaScript. The Differences and The Similarities.](https://dev.to/amanrai/c-vs-javascript-the-differences-and-the-similarities-jkk)
 - [Dev.to/JS] [Why React Router is excellent for Micro-Frontends](https://dev.to/infoxicator/why-react-router-is-excellent-for-micro-frontends-2a21)
-- [Dev.to/JS] [Easiest way to make Google and Local authentication using Passport.js](https://dev.to/muhammadabir/easiest-way-to-make-google-and-local-authentication-using-passportjs-a5m)
-- [Dev.to/JS] [JS Object Immutablity](https://dev.to/akashkumaravel/js-object-immutablity-gl0)
-- [Dev.to/JS] [5 Reasons To Choose JavaScript Maps Over Objects For Storing Key-Value Pairs&lpar;With Examples&rpar;](https://dev.to/gustavupp/5-reasons-to-choose-javascript-maps-over-objects-for-storing-key-value-pairswith-examples-39dd)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
 - [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)
 - [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)
-- [Lifehacker] [11 of our Best Dips for Any Dip-Worthy Event](https://lifehacker.com/11-of-our-best-dips-for-any-dip-worthy-event-1850007389)
-- [Lifehacker] [How to Shop for Tech That Actually Lasts](https://lifehacker.com/how-to-shop-for-tech-that-actually-lasts-1850001386)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 of our Best Dips for Any Dip-Worthy Event](https://lifehacker.com/11-of-our-best-dips-for-any-dip-worthy-event-1850007389)<!-- TECH-POSTS:END -->
 
 ---
 
