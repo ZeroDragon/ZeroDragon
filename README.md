@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Publish a Typescript React library to NPM in a monorepo](https://dev.to/tresorama/publish-a-typescript-react-library-to-npm-in-a-monorepo-1ah1)
+- [Dev.to/JS] [Master JavaScript Array Methods with One Simple Image](https://dev.to/dipeshjaiswal/master-javascript-array-methods-with-one-simple-image-3m1o)
+- [Dev.to/JS] [Restore IP Address](https://dev.to/zeeshanali0704/restore-ip-address-5acg)
 - [Dev.to/JS] [How to Make a Color Picker in JavaScript?](https://dev.to/shantanu_jana/how-to-make-a-color-picker-in-javascript-15lc)
 - [Dev.to/JS] [Using SQLite in the Browser](https://dev.to/krowemoh/using-sqlite-in-the-browser-3kml)
 - [Dev.to/JS] [Building sql.js-httpvfs for the Browser](https://dev.to/krowemoh/building-sqljs-httpvfs-for-the-browser-2e2d)
@@ -32,12 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let’s play around with Carousel marquee ✌️](https://dev.to/nitinreddy3/lets-play-around-with-carousel-marquee-15f1)
 - [Dev.to/JS] [Best Web Development Practice](https://dev.to/yisuscode/best-web-development-practice-3pb6)
 - [Dev.to/JS] [Cook a recipe with AWS: A Web application which calls a webservice and displays result, using AWS Amplify](https://dev.to/aws-builders/cook-a-recipe-create-a-web-application-using-aws-amplify-3128)
-- [Dev.to/JS] [JS Pipeline Operator](https://dev.to/wadecodez/js-pipeline-operator-n5j)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
-- [Dev.to/JS] [A Jr. Frontend’s development journey #1](https://dev.to/hakanbudak/a-jr-frontends-development-journey-1-4o8f)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
-- [Dev.to/JS] [Easy Guide To Understanding ExpressJS Middleware For Rapid App Development](https://dev.to/efkumah/easy-guide-to-understanding-expressjs-middleware-for-rapid-app-development-143g)
 - [Lifehacker] [You Should Consider Painting Old Wood Floors &lpar;Hear Me Out&rpar;](https://lifehacker.com/you-should-consider-painting-old-wood-floors-hear-me-o-1850012146)
 - [Lifehacker] [9 Things That Suck About Setting Up a New iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/9-things-that-suck-about-setting-up-a-new-iphone-and-h-1850011322)
 - [Lifehacker] [The Important Differences Between At-Home Dementia Care and a Long-Term Care Facility](https://lifehacker.com/the-important-differences-between-at-home-dementia-care-1850012343)
