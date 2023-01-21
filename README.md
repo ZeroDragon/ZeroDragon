@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is ICDS? : the class part](https://dev.to/ota200/what-is-icds-the-class-part-3l1c)
+- [Dev.to/JS] [Infinite Scroll Using Intersection Observer API 😉](https://dev.to/thedeepakyadav/infinite-scroll-using-intersection-observer-api-3527)
+- [Dev.to/JS] [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-11bj)
+- [Dev.to/JS] [How I made Chart.js sane by wrapping it in a web component](https://dev.to/kokozaurus/how-i-made-chartjs-sane-by-wrapping-it-in-a-web-component-pao)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Dev.to/JS] [Learn to Deploy Smart Contracts more Professionally with Hardhat](https://dev.to/alymurtazamemon/learn-to-deploy-smart-contracts-more-professionally-with-hardhat-3253)
 - [Dev.to/JS] [How to Add Form Validation in React using React useRef&lpar;&rpar; Hook ?](https://dev.to/radhe65gupta/how-to-add-form-validation-in-react-using-react-useref-hook--1ie5)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easiest way to make Google and Local authentication using Passport.js](https://dev.to/muhammadabir/easiest-way-to-make-google-and-local-authentication-using-passportjs-a5m)
 - [Dev.to/JS] [JS Object Immutablity](https://dev.to/akashkumaravel/js-object-immutablity-gl0)
 - [Dev.to/JS] [5 Reasons To Choose JavaScript Maps Over Objects For Storing Key-Value Pairs&lpar;With Examples&rpar;](https://dev.to/gustavupp/5-reasons-to-choose-javascript-maps-over-objects-for-storing-key-value-pairswith-examples-39dd)
-- [Dev.to/JS] [&quot;Magento solutions for customizable, scalable, and profitable eCommerce&quot;](https://dev.to/melissasullivan/magento-solutions-for-customizable-scalable-and-profitable-ecommerce-4nkl)
-- [Dev.to/JS] [AI Time-Savers: 25 Tools to Unlock Your Potential and Boost Productivity by 90%](https://dev.to/thenomadevel/ai-time-savers-25-tools-to-unlock-your-potential-and-boost-productivity-by-90-239p)
-- [Dev.to/JS] [Google map how to show city boundaries](https://dev.to/ismailravian/google-map-how-to-show-city-boundaries-1kh3)
-- [Dev.to/JS] [Create an simple blockchain application using NodeJS &amp; Crypto library](https://dev.to/muhammadabir/create-an-simple-blockchain-application-using-nodejs-crypto-library-25pp)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
