@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The last form library for React you will ever need](https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42)
 - [Dev.to/JS] [Let’s play around with Carousel marquee ✌️](https://dev.to/nitinreddy3/lets-play-around-with-carousel-marquee-15f1)
 - [Dev.to/JS] [Best Web Development Practice](https://dev.to/yisuscode/best-web-development-practice-3pb6)
 - [Dev.to/JS] [Cook a Recipe: Create a Web application using AWS Amplify](https://dev.to/aws-builders/cook-a-recipe-create-a-web-application-using-aws-amplify-3128)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Might Score Free Wifi on Delta Flights Starting in February](https://lifehacker.com/you-might-score-free-wifi-on-delta-flights-starting-in-1850012845)
 - [Dev.to/JS] [15 Must-Have Cheatsheets for Developers🚀](https://dev.to/ishratumar/15-must-have-cheatsheets-for-developers-1n92)
 - [Lifehacker] [Here Are the Best Deals You Can Get on Winter Clothing Right Now](https://lifehacker.com/here-are-the-best-deals-you-can-get-on-winter-clothing-1850002554)
-- [Dev.to/JS] [Convert Canvas To Image | Use with react-image-crop](https://dev.to/deepakjaiswal/convert-canvas-to-image-4l1j)
 - [Lifehacker] [9 Ways to Make a Cookie Without an Oven](https://lifehacker.com/9-ways-to-make-a-cookie-without-an-oven-1850012499)
 - [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)
 - [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
