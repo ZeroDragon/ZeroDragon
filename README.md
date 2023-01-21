@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is pipeline operator in JavaScript?](https://dev.to/nisalk/what-is-pipeline-operator-in-javascript-2g5p)
+- [Dev.to/JS] [C++ vs JavaScript. The Differences and The Similarities.](https://dev.to/amanrai/c-vs-javascript-the-differences-and-the-similarities-jkk)
+- [Dev.to/JS] [What can you build with WASM?](https://dev.to/pulkitsingh/what-can-you-build-with-wasm-1k39)
 - [Dev.to/JS] [Why React Router is excellent for Micro-Frontends](https://dev.to/infoxicator/why-react-router-is-excellent-for-micro-frontends-2a21)
 - [Dev.to/JS] [Easiest way to make Google and Local authentication using Passport.js](https://dev.to/muhammadabir/easiest-way-to-make-google-and-local-authentication-using-passportjs-a5m)
 - [Dev.to/JS] [JS Object Immutablity](https://dev.to/akashkumaravel/js-object-immutablity-gl0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google map how to show city boundaries](https://dev.to/ismailravian/google-map-how-to-show-city-boundaries-1kh3)
 - [Dev.to/JS] [Create an simple blockchain application using NodeJS &amp; Crypto library](https://dev.to/muhammadabir/create-an-simple-blockchain-application-using-nodejs-crypto-library-25pp)
 - [Dev.to/JS] [3 Best Node Js Project Ideas to Get Quick Job](https://dev.to/shoyeb001/3-best-node-js-project-ideas-to-get-quick-job-3728)
-- [Dev.to/JS] [Load balancing for beginners](https://dev.to/arinze19/load-balancing-for-beginners-466k)
-- [Dev.to/JS] [Function to Efficiently Reverse Alternate K-length Chunks of a String In Javascript](https://dev.to/monukmodi/function-to-efficiently-reverse-alternate-k-length-chunks-of-a-string-in-javascript-lan)
-- [Dev.to/JS] [Use Live Time/Date in the ReactJS](https://dev.to/raynecoder/use-live-timedate-in-the-reactjs-1fjh)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
