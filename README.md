@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Scraping - A Complete Guide](https://dev.to/serpdogapi/web-scraping-a-complete-guide-1lk2)
+- [Dev.to/JS] [Animate everything with Framer Motion](https://dev.to/ariburaco/animate-everything-with-framer-motion-mpd)
 - [Dev.to/JS] [pneumonoultramicroscopicsilicovolcanoconiosis something here, more title title title title title title title title title more ss](https://dev.to/ghazidev/pneumonoultramicroscopicsilicovolcanoconiosis-something-here-more-title-title-title-title-title-title-title-title-title-3l82)
 - [Dev.to/JS] [LeetCode - Path Sum III](https://dev.to/_alkesh26/leetcode-path-sum-iii-44hh)
 - [Dev.to/JS] [ChatGPT, Gift or Curse?](https://dev.to/oluwatrillions/chatgpt-gift-or-curse-3mdi)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-37gg)
 - [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-4om4)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
-- [Dev.to/JS] [C++ GA KIRISH.](https://dev.to/jo1dasbekov/c-ga-kirish-4dma)
-- [Dev.to/JS] [2-DARS: O&#39;ZGARUVCHILAR.](https://dev.to/jo1dasbekov/2-dars-ozgaruvchilar-57oi)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
