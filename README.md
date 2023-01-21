@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Pipeline Operator](https://dev.to/wadecodez/js-pipeline-operator-n5j)
+- [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
+- [Dev.to/JS] [A Jr. Frontend’s development journey #1](https://dev.to/hakanbudak/a-jr-frontends-development-journey-1-4o8f)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
 - [Dev.to/JS] [Easy Guide To Understanding ExpressJS Middleware For Rapid App Development](https://dev.to/efkumah/easy-guide-to-understanding-expressjs-middleware-for-rapid-app-development-143g)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Ways to Make a Cookie Without an Oven](https://lifehacker.com/9-ways-to-make-a-cookie-without-an-oven-1850012499)
 - [Dev.to/JS] [A short guide on Event Listeners](https://dev.to/lensco825/a-short-guide-on-event-listeners-2mh1)
 - [Dev.to/JS] [Reasons why you should learn javascript](https://dev.to/archijain/reasons-why-you-should-learn-javascript-1p81)
-- [Dev.to/JS] [JavaScript Array Methods: Understand By Implementing](https://dev.to/biraj21/javascript-array-methods-understand-by-implementing-54g3)
-- [Dev.to/JS] [I made a website to rickroll my friends](https://dev.to/pranshuj73/i-made-a-website-to-rickroll-my-friends-183h)
 - [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)
 - [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
 - [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)
 - [Lifehacker] [11 of our Best Dips for Any Dip-Worthy Event](https://lifehacker.com/11-of-our-best-dips-for-any-dip-worthy-event-1850007389)
 - [Lifehacker] [How to Shop for Tech That Actually Lasts](https://lifehacker.com/how-to-shop-for-tech-that-actually-lasts-1850001386)
-- [Lifehacker] [The Easiest Way to Make Cinnamon Rolls If You Suck at Baking](https://lifehacker.com/the-easiest-way-to-make-cinnamon-rolls-if-you-suck-at-b-1850002850)
-- [Lifehacker] [You Should Join a Local ‘Maker Space’ If You’re a DIYer](https://lifehacker.com/you-should-join-a-local-maker-space-if-you-re-a-diyer-1849991901)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Make Cinnamon Rolls If You Suck at Baking](https://lifehacker.com/the-easiest-way-to-make-cinnamon-rolls-if-you-suck-at-b-1850002850)<!-- TECH-POSTS:END -->
 
 ---
 
