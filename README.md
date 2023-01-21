@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dark Mode Toggle ↔️](https://dev.to/mihir_chhatre/dark-mode-toggle--4m0b)
 - [Dev.to/JS] [JavaScript more efficient and readable code for make a calculator with only 20 lines with](https://dev.to/sayyedasad786/javascript-more-efficient-code-for-make-a-calculator-with-only-20-lines-3fpc)
 - [Dev.to/JS] [Sending Emails with React Email and Next.js](https://dev.to/devkiran/sending-emails-with-react-email-and-nextjs-32p6)
 - [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-cme)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is ICDS? : the class part](https://dev.to/ota200/what-is-icds-the-class-part-3l1c)
 - [Dev.to/JS] [Infinite Scroll Using Intersection Observer API 😉](https://dev.to/thedeepakyadav/infinite-scroll-using-intersection-observer-api-3527)
 - [Dev.to/JS] [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-11bj)
-- [Dev.to/JS] [How I made Chart.js sane by wrapping it in a web component](https://dev.to/kokozaurus/how-i-made-chartjs-sane-by-wrapping-it-in-a-web-component-pao)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
