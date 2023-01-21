@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why React Router is excellent for Micro-Frontends](https://dev.to/infoxicator/why-react-router-is-excellent-for-micro-frontends-2a21)
+- [Dev.to/JS] [Easiest way to make Google and Local authentication using Passport.js](https://dev.to/muhammadabir/easiest-way-to-make-google-and-local-authentication-using-passportjs-a5m)
+- [Dev.to/JS] [JS Object Immutablity](https://dev.to/akashkumaravel/js-object-immutablity-gl0)
 - [Dev.to/JS] [5 Reasons To Choose JavaScript Maps Over Objects For Storing Key-Value Pairs&lpar;With Examples&rpar;](https://dev.to/gustavupp/5-reasons-to-choose-javascript-maps-over-objects-for-storing-key-value-pairswith-examples-39dd)
 - [Dev.to/JS] [&quot;Magento solutions for customizable, scalable, and profitable eCommerce&quot;](https://dev.to/melissasullivan/magento-solutions-for-customizable-scalable-and-profitable-ecommerce-4nkl)
 - [Dev.to/JS] [AI Time-Savers: 25 Tools to Unlock Your Potential and Boost Productivity by 90%](https://dev.to/thenomadevel/ai-time-savers-25-tools-to-unlock-your-potential-and-boost-productivity-by-90-239p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Load balancing for beginners](https://dev.to/arinze19/load-balancing-for-beginners-466k)
 - [Dev.to/JS] [Function to Efficiently Reverse Alternate K-length Chunks of a String In Javascript](https://dev.to/monukmodi/function-to-efficiently-reverse-alternate-k-length-chunks-of-a-string-in-javascript-lan)
 - [Dev.to/JS] [Use Live Time/Date in the ReactJS](https://dev.to/raynecoder/use-live-timedate-in-the-reactjs-1fjh)
-- [Dev.to/JS] [Web apps - my mental cheat-sheet](https://dev.to/costica/web-apps-my-mental-cheat-sheet-41ah)
-- [Dev.to/JS] [Protected Routes in React Router V6](https://dev.to/mehrab18/protected-routes-in-react-router-v6-12oa)
-- [Dev.to/JS] [Chaining in Javascript](https://dev.to/sharu24/chaining-in-javascript-jmm)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
