@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Essential Tools Every programmer must know](https://dev.to/vincod/essential-tools-every-programmer-must-know-3f5e)
+- [Dev.to/JS] [Astro / DevTo RestAPI - Solving the Unexpected Token R Error in JSON&quot;](https://dev.to/mmvergara/astro-devto-restapi-solving-the-unexpected-token-r-error-in-json-56an)
+- [Dev.to/JS] [JavaScript in 2023: Why you should learn it&lpar;Blog-1&rpar; | Shah Stavan?](https://dev.to/shahstavan/javascript-in-2023-why-you-should-learn-it-29ki)
+- [Dev.to/JS] [HOW TO USE JAVASCRIPT IN YOUR IDE WITHOUT BROWSER](https://dev.to/voidmain1812/how-to-use-javascript-in-your-ide-without-browser-2dhc)
 - [Dev.to/JS] [Understanding and Using the useContext Hook in React](https://dev.to/a_gaoba/understanding-and-using-the-usecontext-hook-in-react-45if)
 - [Dev.to/JS] [Top 10 Most Popular CSS Interview Questions 🦄](https://dev.to/rammcodes/top-10-most-popular-css-interview-questions-47cj)
 - [Dev.to/JS] [I bet you don’t know about these 11 functional HTML elements](https://dev.to/hy_piyush/i-bet-you-dont-know-about-these-11-functional-html-elements-1gpe)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are hooks in WordPress?](https://dev.to/stackfindover/what-are-hooks-in-wordpress-10d3)
 - [Dev.to/JS] [5 Front-end Development Skills to Land Your First Job in 2023](https://dev.to/anjankarmakar/5-front-end-development-skills-to-land-your-first-job-in-2023-38mj)
 - [Dev.to/JS] [Wassup TypeScript Interfaces!](https://dev.to/nitinreddy3/wassup-typescript-interfaces-46bi)
-- [Dev.to/JS] [ProDentim - Dentel Results, Price, Pros, Cons, Scam Or Legit?](https://dev.to/prodent47914468/prodentim-dentel-results-price-pros-cons-scam-or-legit-1a9n)
-- [Dev.to/JS] [Will passing &lpar;a,b&rpar; =&gt; b - a in JavaScript builit-in sort a be in ascending or descending order? Why?](https://dev.to/alaster/will-passing-ab-b-a-in-javascript-builit-in-sort-a-be-in-ascending-or-descending-order-why-1f04)
-- [Dev.to/JS] [I built a file manager, so I can use my crappy laptop.](https://dev.to/fadhilsaheer/i-built-a-file-manager-so-i-can-use-my-crappy-laptop-34bi)
-- [Dev.to/JS] [Toggling inside [array] in React](https://dev.to/taiseen/toggling-inside-array-in-react-1dpd)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
