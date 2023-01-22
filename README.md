@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wassup TypeScript Interfaces!](https://dev.to/nitinreddy3/wassup-typescript-interfaces-46bi)
+- [Dev.to/JS] [ProDentim - Dentel Results, Price, Pros, Cons, Scam Or Legit?](https://dev.to/prodent47914468/prodentim-dentel-results-price-pros-cons-scam-or-legit-1a9n)
+- [Dev.to/JS] [Will passing &lpar;a,b&rpar; =&gt; b - a in JavaScript builit-in sort a be in ascending or descending order? Why?](https://dev.to/alaster/will-passing-ab-b-a-in-javascript-builit-in-sort-a-be-in-ascending-or-descending-order-why-1f04)
 - [Dev.to/JS] [I built a file manager, so I can use my crappy laptop.](https://dev.to/fadhilsaheer/i-built-a-file-manager-so-i-can-use-my-crappy-laptop-34bi)
 - [Dev.to/JS] [Toggling inside [array] in React](https://dev.to/taiseen/toggling-inside-array-in-react-1dpd)
 - [Dev.to/JS] [&quot;Utils.ts&quot; Security?](https://dev.to/mmvergara/utilsts-security-23bf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [pneumonoultramicroscopicsilicovolcanoconiosis something here, more title title title title title title title title title more ss](https://dev.to/ghazidev/pneumonoultramicroscopicsilicovolcanoconiosis-something-here-more-title-title-title-title-title-title-title-title-title-3l82)
 - [Dev.to/JS] [LeetCode - Path Sum III](https://dev.to/_alkesh26/leetcode-path-sum-iii-44hh)
 - [Dev.to/JS] [ChatGPT, Gift or Curse?](https://dev.to/oluwatrillions/chatgpt-gift-or-curse-3mdi)
-- [Dev.to/JS] [JSON maping in ReactJS](https://dev.to/raynecoder/json-maping-in-reactjs-1f84)
-- [Dev.to/JS] [Dark Mode Toggle ↔️](https://dev.to/mihir_chhatre/dark-mode-toggle--4m0b)
-- [Dev.to/JS] [JavaScript more efficient and readable code for make a calculator with only 20 lines with](https://dev.to/sayyedasad786/javascript-more-efficient-code-for-make-a-calculator-with-only-20-lines-3fpc)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
