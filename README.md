@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Responsive Image Slider in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/how-to-make-responsive-image-slider-in-html-css-javascript-4hm9)
+- [Dev.to/JS] [LeetCode #94 Binary Tree Inorder Traversal with JavaScript](https://dev.to/masakifukunishi/leetcode-94-binary-tree-inorder-traversal-with-javascript-j5p)
 - [Dev.to/JS] [Building an Ecommerce Store with Nextjs and Commerce Layer Demo Store](https://dev.to/bolajiayodeji/building-an-ecommerce-store-with-nextjs-and-commerce-layer-demo-store-37hp)
 - [Dev.to/JS] [Is headless CMS a secure CMS?](https://dev.to/momciloo/is-headless-cms-a-secure-cms-1327)
 - [Dev.to/JS] [Build A Simple Alarm Clock in JavaScript](https://dev.to/wirelessqna/build-a-simple-alarm-clock-in-javascript-533g)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Titanium News #14](https://dev.to/miga/titanium-news-14-bdp)
 - [Dev.to/JS] [3 Quick Tips for Input Validation](https://dev.to/dennistraub/3-quick-tips-for-input-validation-25jn)
 - [Dev.to/JS] [Starchart: Choosing a technology](https://dev.to/ririio/starchart-choosing-chakra-3hie)
-- [Dev.to/JS] [Promise to Innovate: The Cutting-edge of Asynchronous JavaScript](https://dev.to/shubhamb/promise-to-innovate-the-cutting-edge-of-asynchronous-javascript-7in)
-- [Dev.to/JS] [Get started with Svelte + VSCode devcontainers](https://dev.to/jonesrussell/get-started-with-svelte-vscode-devcontainers-3jnf)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
