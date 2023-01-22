@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My attempt at creating a viral game.](https://dev.to/munemprionto/my-attempt-at-creating-a-viral-game-5fba)
+- [Dev.to/JS] [Introduction To 11 Core JavaScript Functions To Improve Code Quality](https://dev.to/paulknulst/introduction-to-11-core-javascript-functions-to-improve-code-quality-5hce)
 - [Dev.to/JS] [...Here goes our first post: Mastering Responsive Web Design&lpar;RWD&rpar;](https://dev.to/techpaxuk/here-goes-our-first-post-mastering-responsive-web-designrwd-18c5)
 - [Dev.to/JS] [Certificate Viewer](https://dev.to/outofideasexception/certificate-viewer-4905)
 - [Dev.to/JS] [Spice Up Your Junior Side Projects With These Five Flavours](https://dev.to/etrandafir93/spice-up-your-junior-side-projects-with-these-five-flavours-4082)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an Ecommerce Store with Nextjs and Commerce Layer Demo Store](https://dev.to/bolajiayodeji/building-an-ecommerce-store-with-nextjs-and-commerce-layer-demo-store-37hp)
 - [Dev.to/JS] [Is headless CMS a secure CMS?](https://dev.to/momciloo/is-headless-cms-a-secure-cms-1327)
 - [Dev.to/JS] [Build A Simple Alarm Clock in JavaScript](https://dev.to/wirelessqna/build-a-simple-alarm-clock-in-javascript-533g)
-- [Dev.to/JS] [How to fight repetitive tests in JS/TS with parameterisation](https://dev.to/dchowitz/how-to-fight-repetitive-tests-in-jsts-with-parameterisation-3i67)
-- [Dev.to/JS] [LeetCode - Binary Tree Right Side View](https://dev.to/_alkesh26/leetcode-path-sum-iii-32pf)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
