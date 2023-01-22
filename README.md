@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [...Here goes our first post: Mastering Responsive Web Design&lpar;RWD&rpar;](https://dev.to/techpaxuk/here-goes-our-first-post-mastering-responsive-web-designrwd-18c5)
+- [Dev.to/JS] [Certificate Viewer](https://dev.to/outofideasexception/certificate-viewer-4905)
+- [Dev.to/JS] [Spice Up Your Junior Side Projects With These Five Flavours](https://dev.to/etrandafir93/spice-up-your-junior-side-projects-with-these-five-flavours-4082)
+- [Dev.to/JS] [Auto Clicker Auto Fill](https://dev.to/dharmeshhemaram/auto-clicker-auto-fill-2kn8)
+- [Dev.to/JS] [I Was created an Analog clock in javascript](https://dev.to/mdnawazish/i-was-created-an-analog-clock-in-javascript-5074)
 - [Dev.to/JS] [How to Make Responsive Image Slider in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/how-to-make-responsive-image-slider-in-html-css-javascript-4hm9)
 - [Dev.to/JS] [LeetCode #94 Binary Tree Inorder Traversal with JavaScript](https://dev.to/masakifukunishi/leetcode-94-binary-tree-inorder-traversal-with-javascript-j5p)
 - [Dev.to/JS] [Building an Ecommerce Store with Nextjs and Commerce Layer Demo Store](https://dev.to/bolajiayodeji/building-an-ecommerce-store-with-nextjs-and-commerce-layer-demo-store-37hp)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build A Simple Alarm Clock in JavaScript](https://dev.to/wirelessqna/build-a-simple-alarm-clock-in-javascript-533g)
 - [Dev.to/JS] [How to fight repetitive tests in JS/TS with parameterisation](https://dev.to/dchowitz/how-to-fight-repetitive-tests-in-jsts-with-parameterisation-3i67)
 - [Dev.to/JS] [LeetCode - Binary Tree Right Side View](https://dev.to/_alkesh26/leetcode-path-sum-iii-32pf)
-- [Dev.to/JS] [Refatorando Ifs Aninhados com Chain of Responsibility](https://dev.to/abelsouzacosta/refatorando-ifs-aninhados-com-chain-of-responsibility-4l7p)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
-- [Dev.to/JS] [I do HTML and CSS for a living](https://dev.to/starbist/i-do-html-and-css-for-a-living-20lj)
-- [Dev.to/JS] [Titanium News #14](https://dev.to/miga/titanium-news-14-bdp)
-- [Dev.to/JS] [3 Quick Tips for Input Validation](https://dev.to/dennistraub/3-quick-tips-for-input-validation-25jn)
-- [Dev.to/JS] [Starchart: Choosing a technology](https://dev.to/ririio/starchart-choosing-chakra-3hie)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
