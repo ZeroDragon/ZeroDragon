@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are hooks in WordPress?](https://dev.to/stackfindover/what-are-hooks-in-wordpress-10d3)
+- [Dev.to/JS] [5 Front-end Development Skills to Land Your First Job in 2023](https://dev.to/anjankarmakar/5-front-end-development-skills-to-land-your-first-job-in-2023-38mj)
 - [Dev.to/JS] [Wassup TypeScript Interfaces!](https://dev.to/nitinreddy3/wassup-typescript-interfaces-46bi)
 - [Dev.to/JS] [ProDentim - Dentel Results, Price, Pros, Cons, Scam Or Legit?](https://dev.to/prodent47914468/prodentim-dentel-results-price-pros-cons-scam-or-legit-1a9n)
 - [Dev.to/JS] [Will passing &lpar;a,b&rpar; =&gt; b - a in JavaScript builit-in sort a be in ascending or descending order? Why?](https://dev.to/alaster/will-passing-ab-b-a-in-javascript-builit-in-sort-a-be-in-ascending-or-descending-order-why-1f04)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Scraping - A Complete Guide](https://dev.to/serpdogapi/web-scraping-a-complete-guide-1lk2)
 - [Dev.to/JS] [Animate everything with Framer Motion](https://dev.to/ariburaco/animate-everything-with-framer-motion-mpd)
 - [Dev.to/JS] [pneumonoultramicroscopicsilicovolcanoconiosis something here, more title title title title title title title title title more ss](https://dev.to/ghazidev/pneumonoultramicroscopicsilicovolcanoconiosis-something-here-more-title-title-title-title-title-title-title-title-title-3l82)
-- [Dev.to/JS] [LeetCode - Path Sum III](https://dev.to/_alkesh26/leetcode-path-sum-iii-44hh)
-- [Dev.to/JS] [ChatGPT, Gift or Curse?](https://dev.to/oluwatrillions/chatgpt-gift-or-curse-3mdi)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
