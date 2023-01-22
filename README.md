@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I built a file manager, so I can use my crappy laptop.](https://dev.to/fadhilsaheer/i-built-a-file-manager-so-i-can-use-my-crappy-laptop-34bi)
+- [Dev.to/JS] [Toggling inside [array] in React](https://dev.to/taiseen/toggling-inside-array-in-react-1dpd)
+- [Dev.to/JS] [&quot;Utils.ts&quot; Security?](https://dev.to/mmvergara/utilsts-security-23bf)
+- [Dev.to/JS] [Poem on Web Development](https://dev.to/efecollins/poem-on-web-development-11da)
 - [Dev.to/JS] [Web Scraping - A Complete Guide](https://dev.to/serpdogapi/web-scraping-a-complete-guide-1lk2)
 - [Dev.to/JS] [Animate everything with Framer Motion](https://dev.to/ariburaco/animate-everything-with-framer-motion-mpd)
 - [Dev.to/JS] [pneumonoultramicroscopicsilicovolcanoconiosis something here, more title title title title title title title title title more ss](https://dev.to/ghazidev/pneumonoultramicroscopicsilicovolcanoconiosis-something-here-more-title-title-title-title-title-title-title-title-title-3l82)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSON maping in ReactJS](https://dev.to/raynecoder/json-maping-in-reactjs-1f84)
 - [Dev.to/JS] [Dark Mode Toggle ↔️](https://dev.to/mihir_chhatre/dark-mode-toggle--4m0b)
 - [Dev.to/JS] [JavaScript more efficient and readable code for make a calculator with only 20 lines with](https://dev.to/sayyedasad786/javascript-more-efficient-code-for-make-a-calculator-with-only-20-lines-3fpc)
-- [Dev.to/JS] [Sending Emails with React Email and Next.js](https://dev.to/devkiran/sending-emails-with-react-email-and-nextjs-32p6)
-- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-cme)
-- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak182/kamal-acharya-37gg)
-- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-4om4)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
