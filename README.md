@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Uma introdução ao Protractor - Angular Testing E2E](https://dev.to/ruanvalente/uma-introducao-ao-protractor-angular-testing-e2e-1gm0)
 - [Dev.to/JS] [DDD + CQRS + AWS + NESTJS: A solution from scratch](https://dev.to/eduardo_bl/ddd-cqrs-aws-nestjs-a-solution-from-scratch-4431)
 - [Dev.to/JS] [Is There a Complete In-Depth Reading/Tutorials/Guide for Full-Stack Development?](https://dev.to/mitchelln11/is-there-a-complete-in-depth-readingtutorialsguide-for-full-stack-development-1b2g)
 - [Dev.to/JS] [File-based Routing using Vite and React Router](https://dev.to/franciscomendes10866/file-based-routing-using-vite-and-react-router-3fdo)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Auto Clicker Auto Fill](https://dev.to/dharmeshhemaram/auto-clicker-auto-fill-2kn8)
 - [Dev.to/JS] [I Was created an Analog clock in javascript](https://dev.to/mdnawazish/i-was-created-an-analog-clock-in-javascript-5074)
 - [Dev.to/JS] [How to Make Responsive Image Slider in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/how-to-make-responsive-image-slider-in-html-css-javascript-4hm9)
-- [Dev.to/JS] [LeetCode #94 Binary Tree Inorder Traversal with JavaScript](https://dev.to/masakifukunishi/leetcode-94-binary-tree-inorder-traversal-with-javascript-j5p)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
