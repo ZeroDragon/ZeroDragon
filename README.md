@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding and Using the useContext Hook in React](https://dev.to/a_gaoba/understanding-and-using-the-usecontext-hook-in-react-45if)
+- [Dev.to/JS] [Top 10 Most Popular CSS Interview Questions 🦄](https://dev.to/rammcodes/top-10-most-popular-css-interview-questions-47cj)
+- [Dev.to/JS] [I bet you don’t know about these 11 functional HTML elements](https://dev.to/hy_piyush/i-bet-you-dont-know-about-these-11-functional-html-elements-1gpe)
+- [Dev.to/JS] [5 Front-end Project Ideas for Every Level of Experience](https://dev.to/skidee/5-front-end-project-ideas-for-every-level-of-experience-5f9j)
+- [Dev.to/JS] [6 GitHub Repositories You Can&#39;t Live Without](https://dev.to/rahul3002/6-github-repositories-you-cant-live-without-1mka)
 - [Dev.to/JS] [What are hooks in WordPress?](https://dev.to/stackfindover/what-are-hooks-in-wordpress-10d3)
 - [Dev.to/JS] [5 Front-end Development Skills to Land Your First Job in 2023](https://dev.to/anjankarmakar/5-front-end-development-skills-to-land-your-first-job-in-2023-38mj)
 - [Dev.to/JS] [Wassup TypeScript Interfaces!](https://dev.to/nitinreddy3/wassup-typescript-interfaces-46bi)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Will passing &lpar;a,b&rpar; =&gt; b - a in JavaScript builit-in sort a be in ascending or descending order? Why?](https://dev.to/alaster/will-passing-ab-b-a-in-javascript-builit-in-sort-a-be-in-ascending-or-descending-order-why-1f04)
 - [Dev.to/JS] [I built a file manager, so I can use my crappy laptop.](https://dev.to/fadhilsaheer/i-built-a-file-manager-so-i-can-use-my-crappy-laptop-34bi)
 - [Dev.to/JS] [Toggling inside [array] in React](https://dev.to/taiseen/toggling-inside-array-in-react-1dpd)
-- [Dev.to/JS] [&quot;Utils.ts&quot; Security?](https://dev.to/mmvergara/utilsts-security-23bf)
-- [Dev.to/JS] [Poem on Web Development](https://dev.to/efecollins/poem-on-web-development-11da)
-- [Dev.to/JS] [Web Scraping - A Complete Guide](https://dev.to/serpdogapi/web-scraping-a-complete-guide-1lk2)
-- [Dev.to/JS] [Animate everything with Framer Motion](https://dev.to/ariburaco/animate-everything-with-framer-motion-mpd)
-- [Dev.to/JS] [pneumonoultramicroscopicsilicovolcanoconiosis something here, more title title title title title title title title title more ss](https://dev.to/ghazidev/pneumonoultramicroscopicsilicovolcanoconiosis-something-here-more-title-title-title-title-title-title-title-title-title-3l82)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
