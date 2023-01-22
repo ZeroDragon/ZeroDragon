@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [table: make columns resizable](https://dev.to/gohomewho/table-make-columns-resizable-2l3h)
 - [Dev.to/JS] [Mastering function overloading in Typescript](https://dev.to/nikolasbarwicki/mastering-function-overloading-in-typescript-40f7)
 - [Dev.to/JS] [How does React 18 work inside?](https://dev.to/ktmouk/how-does-react-18-work-inside-1c8l)
 - [Dev.to/JS] [GlucoTrust - Blood Sugar Results, Pros, Cons, Scam Or Legit?](https://dev.to/glucotrust15/glucotrust-blood-sugar-results-pros-cons-scam-or-legit-6hk)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HOW TO USE JAVASCRIPT IN YOUR IDE WITHOUT BROWSER](https://dev.to/voidmain1812/how-to-use-javascript-in-your-ide-without-browser-2dhc)
 - [Dev.to/JS] [Understanding and Using the useContext Hook in React](https://dev.to/a_gaoba/understanding-and-using-the-usecontext-hook-in-react-45if)
 - [Dev.to/JS] [Top 10 Most Popular CSS Interview Questions 🦄](https://dev.to/rammcodes/top-10-most-popular-css-interview-questions-47cj)
-- [Dev.to/JS] [I bet you don’t know about these 11 functional HTML elements](https://dev.to/hy_piyush/i-bet-you-dont-know-about-these-11-functional-html-elements-1gpe)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
