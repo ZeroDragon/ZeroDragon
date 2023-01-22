@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New series for 2023](https://dev.to/kumarkalyan/new-series-for-2023-3o5a)
+- [Dev.to/JS] [Refatorando Ifs Aninhados com Chain of Responsibility](https://dev.to/abelsouzacosta/refatorando-ifs-aninhados-com-chain-of-responsibility-4l7p)
+- [Dev.to/JS] [I do HTML and CSS for a living](https://dev.to/starbist/i-do-html-and-css-for-a-living-20lj)
+- [Dev.to/JS] [Titanium News #14](https://dev.to/miga/titanium-news-14-bdp)
+- [Dev.to/JS] [3 Quick Tips for Input Validation](https://dev.to/dennistraub/3-quick-tips-for-input-validation-25jn)
+- [Dev.to/JS] [Starchart: Choosing a technology](https://dev.to/ririio/starchart-choosing-chakra-3hie)
 - [Dev.to/JS] [Promise to Innovate: The Cutting-edge of Asynchronous JavaScript](https://dev.to/shubhamb/promise-to-innovate-the-cutting-edge-of-asynchronous-javascript-7in)
 - [Dev.to/JS] [Get started with Svelte + VSCode devcontainers](https://dev.to/jonesrussell/get-started-with-svelte-vscode-devcontainers-3jnf)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS puro é melhor que usar framework? Reinventar a roda é legal ?](https://dev.to/devdoido/js-puro-e-melhor-que-usar-framework-reinventar-a-roda-e-legal--2p8b)
 - [Dev.to/JS] [How To Protect Your Web Applications From Common Exploits](https://dev.to/accordbaba/how-to-protect-your-web-applications-from-common-exploits-3kk9)
 - [Dev.to/JS] [Form validation with react hook form and yup](https://dev.to/tasfiaislam/form-validation-with-react-hook-form-and-yup-2chb)
-- [Dev.to/JS] [Web Assembly With Rust](https://dev.to/chaudharypraveen98/web-assembly-with-rust-4gaf)
-- [Dev.to/JS] [How I learned JavaScript.](https://dev.to/brianmhlanga/how-i-learned-javascript-53fd)
-- [Dev.to/JS] [Linkvertise Ad-Link Bypasser](https://dev.to/ienforcer/linkvertise-ad-link-bypasser-3bi7)
-- [Dev.to/JS] [131. Leetcode Solution in Javascript](https://dev.to/chiki1601/131-leetcode-solution-in-javascript-4d7p)
-- [Dev.to/JS] [Effective way to solve Promise Concurrency in Javascript](https://dev.to/mr_7/effective-way-to-solve-promise-concurrency-in-javascript-4emd)
-- [Dev.to/JS] [table: make columns resizable](https://dev.to/gohomewho/table-make-columns-resizable-2l3h)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
