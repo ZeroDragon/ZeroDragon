@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 passos pra ser um dev melhor](https://dev.to/devdoido/5-passos-pra-melhorar-como-dev-5a82)
+- [Dev.to/JS] [JS puro é melhor que usar framework? Reinventar a roda é legal ?](https://dev.to/devdoido/js-puro-e-melhor-que-usar-framework-reinventar-a-roda-e-legal--2p8b)
+- [Dev.to/JS] [How To Protect Your Web Applications From Common Exploits](https://dev.to/accordbaba/how-to-protect-your-web-applications-from-common-exploits-3kk9)
+- [Dev.to/JS] [Form validation with react hook form and yup](https://dev.to/tasfiaislam/form-validation-with-react-hook-form-and-yup-2chb)
 - [Dev.to/JS] [Web Assembly With Rust](https://dev.to/chaudharypraveen98/web-assembly-with-rust-4gaf)
 - [Dev.to/JS] [How I learned JavaScript.](https://dev.to/brianmhlanga/how-i-learned-javascript-53fd)
 - [Dev.to/JS] [Linkvertise Ad-Link Bypasser](https://dev.to/ienforcer/linkvertise-ad-link-bypasser-3bi7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [table: make columns resizable](https://dev.to/gohomewho/table-make-columns-resizable-2l3h)
 - [Dev.to/JS] [Mastering function overloading in Typescript](https://dev.to/nikolasbarwicki/mastering-function-overloading-in-typescript-40f7)
 - [Dev.to/JS] [How does React 18 work inside?](https://dev.to/ktmouk/how-does-react-18-work-inside-1c8l)
-- [Dev.to/JS] [GlucoTrust - Blood Sugar Results, Pros, Cons, Scam Or Legit?](https://dev.to/glucotrust15/glucotrust-blood-sugar-results-pros-cons-scam-or-legit-6hk)
-- [Dev.to/JS] [Difference Between DOM and Virtual DOM](https://dev.to/vamsi_76_89/difference-between-dom-and-virtual-dom-2g8g)
-- [Dev.to/JS] [Here&#39;s a few examples of features from ECMAScript 2021&lpar;ES11&rpar;:](https://dev.to/iprinceroyy/heres-a-few-examples-of-features-from-ecmascript-2021es11-438a)
-- [Dev.to/JS] [Essential Tools Every programmer must know](https://dev.to/vincod/essential-tools-every-programmer-must-know-3f5e)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
