@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Promise to Innovate: The Cutting-edge of Asynchronous JavaScript](https://dev.to/shubhamb/promise-to-innovate-the-cutting-edge-of-asynchronous-javascript-7in)
+- [Dev.to/JS] [Get started with Svelte + VSCode devcontainers](https://dev.to/jonesrussell/get-started-with-svelte-vscode-devcontainers-3jnf)
+- [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Dev.to/JS] [5 passos pra ser um dev melhor](https://dev.to/devdoido/5-passos-pra-melhorar-como-dev-5a82)
 - [Dev.to/JS] [JS puro é melhor que usar framework? Reinventar a roda é legal ?](https://dev.to/devdoido/js-puro-e-melhor-que-usar-framework-reinventar-a-roda-e-legal--2p8b)
 - [Dev.to/JS] [How To Protect Your Web Applications From Common Exploits](https://dev.to/accordbaba/how-to-protect-your-web-applications-from-common-exploits-3kk9)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [131. Leetcode Solution in Javascript](https://dev.to/chiki1601/131-leetcode-solution-in-javascript-4d7p)
 - [Dev.to/JS] [Effective way to solve Promise Concurrency in Javascript](https://dev.to/mr_7/effective-way-to-solve-promise-concurrency-in-javascript-4emd)
 - [Dev.to/JS] [table: make columns resizable](https://dev.to/gohomewho/table-make-columns-resizable-2l3h)
-- [Dev.to/JS] [Mastering function overloading in Typescript](https://dev.to/nikolasbarwicki/mastering-function-overloading-in-typescript-40f7)
-- [Dev.to/JS] [How does React 18 work inside?](https://dev.to/ktmouk/how-does-react-18-work-inside-1c8l)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
 - [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)
-- [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)
-- [Lifehacker] [11 of our Best Dips for Any Dip-Worthy Event](https://lifehacker.com/11-of-our-best-dips-for-any-dip-worthy-event-1850007389)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)<!-- TECH-POSTS:END -->
 
 ---
 
