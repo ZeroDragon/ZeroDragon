@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [New series for 2023](https://dev.to/kumarkalyan/new-series-for-2023-3o5a)
+- [Dev.to/JS] [Building an Ecommerce Store with Nextjs and Commerce Layer Demo Store](https://dev.to/bolajiayodeji/building-an-ecommerce-store-with-nextjs-and-commerce-layer-demo-store-37hp)
+- [Dev.to/JS] [Is headless CMS a secure CMS?](https://dev.to/momciloo/is-headless-cms-a-secure-cms-1327)
+- [Dev.to/JS] [Build A Simple Alarm Clock in JavaScript](https://dev.to/wirelessqna/build-a-simple-alarm-clock-in-javascript-533g)
+- [Dev.to/JS] [How to fight repetitive tests in JS/TS with parameterisation](https://dev.to/dchowitz/how-to-fight-repetitive-tests-in-jsts-with-parameterisation-3i67)
+- [Dev.to/JS] [LeetCode - Binary Tree Right Side View](https://dev.to/_alkesh26/leetcode-path-sum-iii-32pf)
 - [Dev.to/JS] [Refatorando Ifs Aninhados com Chain of Responsibility](https://dev.to/abelsouzacosta/refatorando-ifs-aninhados-com-chain-of-responsibility-4l7p)
+- [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Dev.to/JS] [I do HTML and CSS for a living](https://dev.to/starbist/i-do-html-and-css-for-a-living-20lj)
 - [Dev.to/JS] [Titanium News #14](https://dev.to/miga/titanium-news-14-bdp)
 - [Dev.to/JS] [3 Quick Tips for Input Validation](https://dev.to/dennistraub/3-quick-tips-for-input-validation-25jn)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promise to Innovate: The Cutting-edge of Asynchronous JavaScript](https://dev.to/shubhamb/promise-to-innovate-the-cutting-edge-of-asynchronous-javascript-7in)
 - [Dev.to/JS] [Get started with Svelte + VSCode devcontainers](https://dev.to/jonesrussell/get-started-with-svelte-vscode-devcontainers-3jnf)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
-- [Dev.to/JS] [5 passos pra ser um dev melhor](https://dev.to/devdoido/5-passos-pra-melhorar-como-dev-5a82)
-- [Dev.to/JS] [JS puro é melhor que usar framework? Reinventar a roda é legal ?](https://dev.to/devdoido/js-puro-e-melhor-que-usar-framework-reinventar-a-roda-e-legal--2p8b)
-- [Dev.to/JS] [How To Protect Your Web Applications From Common Exploits](https://dev.to/accordbaba/how-to-protect-your-web-applications-from-common-exploits-3kk9)
-- [Dev.to/JS] [Form validation with react hook form and yup](https://dev.to/tasfiaislam/form-validation-with-react-hook-form-and-yup-2chb)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
 - [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
 - [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
-- [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)
-- [Lifehacker] [Get Free Wendy’s Chicken Nuggets This Weekend](https://lifehacker.com/get-free-wendy-s-chicken-nuggets-this-weekend-1850006856)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)<!-- TECH-POSTS:END -->
 
 ---
 
