@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#2.React Virtual DOM](https://dev.to/nazmulislam007/2react-virtual-dom-4j4n)
+- [Dev.to/JS] [𝗔𝗯𝗼𝗿𝘁𝗶𝗻𝗴 𝗼𝗻𝗴𝗼𝗶𝗻𝗴 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗯𝗼𝗿𝘁𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲.](https://dev.to/zakariaels/-60k)
+- [Dev.to/JS] [NeuroTonix - Brain Booster Benefits, Pros, Cons, Uses &amp; Price?](https://dev.to/neurotonixinfo/neurotonix-brain-booster-benefits-pros-cons-uses-price-1a3e)
 - [Dev.to/JS] [React&#39;s Fiber Reconciliation Algorithm](https://dev.to/zakariaels/reacts-fiber-reconciliation-algorithm-1ci6)
 - [Dev.to/JS] [Rescript React useStateMachine without useEffect usage](https://dev.to/srikanthkyatham/rescript-react-usestatemachine-without-useeffect-usage-34oh)
 - [Dev.to/JS] [Firebase V9 Firestore DELETE Document Field Using updateDoc&lpar;&rpar;](https://dev.to/hirajatamil/firebase-v9-firestore-delete-document-field-using-updatedoc-5gpk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why we chose vite over create-react-app](https://dev.to/walosha/why-we-chose-vite-over-create-react-app-2pdl)
 - [Dev.to/JS] [4 Ways To Reduce And Simplify Test Cases](https://dev.to/lambdatest/4-ways-to-reduce-and-simplify-test-cases-5c4g)
 - [Dev.to/JS] [What array traversal methods are there in JavaScript? &lpar;for loop, for...in, for...of, forEach, map, filter, every, some&rpar;](https://dev.to/alaster/what-array-traversal-methods-are-there-in-javascript-for-loop-forin-forof-foreach-map-filter-every-some-mpm)
-- [Dev.to/JS] [Kotlin Web Framework Ktor: What&#39;s New and How It Can Benefit Your Project?](https://dev.to/quokkalabs/kotlin-web-framework-ktor-whats-new-and-how-it-can-benefit-your-project-21b5)
-- [Dev.to/JS] [How to get better at coding](https://dev.to/documatic/how-to-get-better-at-coding-on)
-- [Dev.to/JS] [The ultimate guide to async JavaScript](https://dev.to/veronikasimic_56/the-ultimate-guide-to-asnyc-javascript-3lg5)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
