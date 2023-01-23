@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to upload images to S3 from a react application](https://dev.to/shadid12/how-to-upload-images-to-s3-in-a-react-application-4lm)
+- [Dev.to/JS] [TypeScript: type vs interface](https://dev.to/udayanmaurya/type-vs-interface-45o7)
+- [Dev.to/JS] [Create an array of all values in an object](https://dev.to/juniordevforlife/create-an-array-of-all-values-in-an-object-2mop)
+- [Dev.to/JS] [Hello World](https://dev.to/funkrogers/hello-world-159f)
 - [Dev.to/JS] [The Most Effective Tutorial on Tests You Will Ever Read](https://dev.to/ameerrah9/the-most-effective-tutorial-on-tests-you-will-ever-read-5f2d)
 - [Dev.to/JS] [Uma introdução ao Protractor - Angular Testing E2E](https://dev.to/ruanvalente/uma-introducao-ao-protractor-angular-testing-e2e-1gm0)
 - [Dev.to/JS] [DDD + CQRS + AWS + NESTJS: A solution from scratch](https://dev.to/eduardo_bl/ddd-cqrs-aws-nestjs-a-solution-from-scratch-4431)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My attempt at creating a viral game.](https://dev.to/munemprionto/my-attempt-at-creating-a-viral-game-5fba)
 - [Dev.to/JS] [Introduction To 11 Core JavaScript Functions To Improve Code Quality](https://dev.to/paulknulst/introduction-to-11-core-javascript-functions-to-improve-code-quality-5hce)
 - [Dev.to/JS] [...Here goes our first post: Mastering Responsive Web Design&lpar;RWD&rpar;](https://dev.to/techpaxuk/here-goes-our-first-post-mastering-responsive-web-designrwd-18c5)
-- [Dev.to/JS] [Certificate Viewer](https://dev.to/outofideasexception/certificate-viewer-4905)
-- [Dev.to/JS] [Spice Up Your Junior Side Projects With These Five Flavours](https://dev.to/etrandafir93/spice-up-your-junior-side-projects-with-these-five-flavours-4082)
-- [Dev.to/JS] [Auto Clicker Auto Fill](https://dev.to/dharmeshhemaram/auto-clicker-auto-fill-2kn8)
-- [Dev.to/JS] [I Was created an Analog clock in javascript](https://dev.to/mdnawazish/i-was-created-an-analog-clock-in-javascript-5074)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
