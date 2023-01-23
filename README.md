@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything New in iOS 16.3](https://lifehacker.com/everything-new-in-ios-16-3-1850019181)
 - [Dev.to/JS] [How to add Google Translate to your website](https://dev.to/fanmixco/how-to-add-google-translate-to-your-website-59cc)
 - [Lifehacker] [Why Every Homeowner Should Have a HELOC Ready to Go](https://lifehacker.com/why-every-homeowner-should-have-a-heloc-ready-to-go-1850018785)
 - [Dev.to/JS] [Parlons un peu du TDD](https://dev.to/malodev_38/parlons-un-peu-du-tdd-2jkh)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Ways to Make a Cookie Without an Oven](https://lifehacker.com/9-ways-to-make-a-cookie-without-an-oven-1850012499)
 - [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)
 - [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
-- [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)
-- [Lifehacker] [22 of the Best Movies About Movies](https://lifehacker.com/22-of-the-best-movies-about-movies-1850006992)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)<!-- TECH-POSTS:END -->
 
 ---
 
