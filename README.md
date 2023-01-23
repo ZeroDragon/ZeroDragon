@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add Google Translate to your website](https://dev.to/fanmixco/how-to-add-google-translate-to-your-website-59cc)
+- [Lifehacker] [Why Every Homeowner Should Have a HELOC Ready to Go](https://lifehacker.com/why-every-homeowner-should-have-a-heloc-ready-to-go-1850018785)
+- [Dev.to/JS] [Parlons un peu du TDD](https://dev.to/malodev_38/parlons-un-peu-du-tdd-2jkh)
+- [Dev.to/JS] [16 Github Repos to master React](https://dev.to/emrekaradag11/16-github-repos-to-master-react-2hnh)
+- [Dev.to/JS] [SSR, SWR &amp; Hybrid with Nuxt 3](https://dev.to/guillaumeduhan/ssr-swr-hybrid-with-nuxt-3-18b7)
+- [Dev.to/JS] [Exploring the World of Indie Game Development: My Journey from Pixel Art to JavaScript Frameworks and Beyond](https://dev.to/reggi/exploring-the-world-of-indie-game-development-my-journey-from-pixel-art-to-javascript-frameworks-and-beyond-pnb)
+- [Lifehacker] [How to Build a Parenting ‘Village’ When You Feel Isolated](https://lifehacker.com/how-to-build-a-parenting-village-when-you-feel-isolat-1850018379)
 - [Lifehacker] [You&#39;re Defogging Your Car Windows Wrong](https://lifehacker.com/youre-defogging-your-car-windows-wrong-1850018118)
 - [Lifehacker] [How to Get a Free Wendy&#39;s Jr. Bacon Cheeseburger This Week](https://lifehacker.com/how-to-get-a-free-wendys-jr-bacon-cheeseburger-this-we-1850018610)
 - [Dev.to/JS] [# ARRAY](https://dev.to/jhonatanmarquess/-array-3lmc)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build an Ovulation Calculator App with Next.js, TypeScript, Tailwind CSS and useReducer Hook](https://dev.to/codeofrelevancy/build-an-ovulation-calculator-app-with-nextjs-typescript-tailwind-css-and-usereducer-hook-kja)
 - [Dev.to/JS] [I&#39;ve just created frontend Todo app with clean architecture](https://dev.to/kaziusan/ive-just-created-frontend-todo-app-with-clean-architecture-2n0f)
 - [Lifehacker] [You Should Consider a Pasta and Dip Dinner](https://lifehacker.com/you-should-consider-a-pasta-and-dip-dinner-1850017914)
-- [Dev.to/JS] [Cancel HTTP Requests Using RxJS](https://dev.to/jobayer6735/cancel-http-requests-using-rxjs-4igf)
-- [Dev.to/JS] [Promises, Thenables, &amp; Lazy-evaluation: What, Why, How](https://dev.to/austingil/promises-thenables-lazy-evaluation-what-why-how-574)
-- [Dev.to/JS] [How to use Language Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-language-detection-api-with-javascript-in-5-minutes-2bn)
-- [Dev.to/JS] [Example of role tests in JavaScript with Jest](https://dev.to/trikitrok/example-of-role-tests-in-javascript-with-jest-22nb)
-- [Dev.to/JS] [Assertion Functions in TypeScript](https://dev.to/bennycode/assertion-functions-in-typescript-5hb8)
 - [Lifehacker] [7 Deadly Sins of Buying Your First House](https://lifehacker.com/7-deadly-sins-of-buying-your-first-house-1850014596)
 - [Lifehacker] [This Setting Turns Your iPhone Into a Professional Video Camera](https://lifehacker.com/this-setting-turns-your-iphone-into-a-professional-vide-1850014040)
 - [Lifehacker] [9 Ways to Have Fun With Olives and Capers](https://lifehacker.com/9-ways-to-have-fun-with-olives-and-capers-1850013089)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)
 - [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
 - [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)
-- [Lifehacker] [22 of the Best Movies About Movies](https://lifehacker.com/22-of-the-best-movies-about-movies-1850006992)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Does Everyone Hate &#39;Velma&#39;?](https://lifehacker.com/why-does-everyone-hate-velma-1850009913)
-- [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)<!-- TECH-POSTS:END -->
+- [Lifehacker] [22 of the Best Movies About Movies](https://lifehacker.com/22-of-the-best-movies-about-movies-1850006992)<!-- TECH-POSTS:END -->
 
 ---
 
