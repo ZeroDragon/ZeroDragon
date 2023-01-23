@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vite plugin for converting images from png, jpg to webp](https://dev.to/liv3rise/vite-plugin-for-converting-images-from-png-jpg-to-webp-4o4f)
+- [Dev.to/JS] [Why Hiring a High-Quality and experienced developer is essential to your site?](https://dev.to/99magento/why-hiring-a-high-quality-and-experienced-developer-is-essential-to-your-site-23m7)
+- [Dev.to/JS] [Learn React in 5 minutes](https://dev.to/gethackteam/learn-react-in-5-minutes-3e7k)
 - [Dev.to/JS] [How to add Algolia to Nuxt](https://dev.to/jacobandrewsky/how-to-add-algolia-to-nuxt-2hdm)
 - [Dev.to/JS] [Whats the best way to branch code repo?](https://dev.to/cricketsamya/whats-the-best-way-branching-code-repo-46ak)
 - [Dev.to/JS] [TypeScript Vs JavaScript: Which One To Choose?](https://dev.to/infiraise/typescript-vs-javascript-which-one-to-choose-36m7)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Challenges faced by Developers in 2023](https://dev.to/ritugosavi/challenges-faced-by-developers-in-2023-1nd8)
 - [Dev.to/JS] [The Best Way to Learn Frontend Web Development](https://dev.to/anjankarmakar/the-best-way-to-learn-frontend-web-development-425d)
 - [Dev.to/JS] [Utilizando Patch Package](https://dev.to/arthu0x07/utilizando-patch-package-3emd)
-- [Dev.to/JS] [Prostadine - Price, Benefits, Pros, Cons, Uses &amp; Reviews?](https://dev.to/prostadinebuy/prostadine-price-benefits-pros-cons-uses-reviews-2244)
-- [Dev.to/JS] [10 Important JavaScript Object Methods everyone must know in 2023](https://dev.to/hy_piyush/10-important-javascript-object-methods-everyone-must-know-in-2023-398k)
-- [Dev.to/JS] [How To Get Radio Button Checked Value In jQuery](https://dev.to/techsolutionstuff/how-to-get-radio-button-checked-value-in-jquery-50lb)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
