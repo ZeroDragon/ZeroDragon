@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jest: The Fast and Effective Framework for Unit Testing](https://dev.to/decentrotech/jest-the-fast-and-effective-framework-for-unit-testing-n2p)
+- [Dev.to/JS] [Challenges faced by Developers in 2023](https://dev.to/ritugosavi/challenges-faced-by-developers-in-2023-1nd8)
+- [Dev.to/JS] [The Best Way to Learn Frontend Web Development](https://dev.to/anjankarmakar/the-best-way-to-learn-frontend-web-development-425d)
+- [Dev.to/JS] [Utilizando Patch Package](https://dev.to/arthu0x07/utilizando-patch-package-3emd)
 - [Dev.to/JS] [Prostadine - Price, Benefits, Pros, Cons, Uses &amp; Reviews?](https://dev.to/prostadinebuy/prostadine-price-benefits-pros-cons-uses-reviews-2244)
 - [Dev.to/JS] [10 Important JavaScript Object Methods everyone must know in 2023](https://dev.to/hy_piyush/10-important-javascript-object-methods-everyone-must-know-in-2023-398k)
 - [Dev.to/JS] [How To Get Radio Button Checked Value In jQuery](https://dev.to/techsolutionstuff/how-to-get-radio-button-checked-value-in-jquery-50lb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Datatypes in Javascript](https://dev.to/denismacharia/datatypes-in-javascript-5hio)
 - [Dev.to/JS] [A Native JavaScript Route / Router Proposal](https://dev.to/reggi/a-native-javascript-route-router-proposal-28c0)
 - [Dev.to/JS] [How to upload images to S3 from a react application](https://dev.to/shadid12/how-to-upload-images-to-s3-in-a-react-application-4lm)
-- [Dev.to/JS] [TypeScript: type vs interface](https://dev.to/udayanmaurya/type-vs-interface-45o7)
-- [Dev.to/JS] [Create an array of all values in an object](https://dev.to/juniordevforlife/create-an-array-of-all-values-in-an-object-2mop)
-- [Dev.to/JS] [Hello World](https://dev.to/funkrogers/hello-world-159f)
-- [Dev.to/JS] [The Most Effective Tutorial on Tests You Will Ever Read](https://dev.to/ameerrah9/the-most-effective-tutorial-on-tests-you-will-ever-read-5f2d)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
