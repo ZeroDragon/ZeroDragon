@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Native JavaScript Route / Router Proposal](https://dev.to/reggi/a-native-javascript-route-router-proposal-28c0)
 - [Dev.to/JS] [How to upload images to S3 from a react application](https://dev.to/shadid12/how-to-upload-images-to-s3-in-a-react-application-4lm)
 - [Dev.to/JS] [TypeScript: type vs interface](https://dev.to/udayanmaurya/type-vs-interface-45o7)
 - [Dev.to/JS] [Create an array of all values in an object](https://dev.to/juniordevforlife/create-an-array-of-all-values-in-an-object-2mop)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [File-based Routing using Vite and React Router](https://dev.to/franciscomendes10866/file-based-routing-using-vite-and-react-router-3fdo)
 - [Dev.to/JS] [My attempt at creating a viral game.](https://dev.to/munemprionto/my-attempt-at-creating-a-viral-game-5fba)
 - [Dev.to/JS] [Introduction To 11 Core JavaScript Functions To Improve Code Quality](https://dev.to/paulknulst/introduction-to-11-core-javascript-functions-to-improve-code-quality-5hce)
-- [Dev.to/JS] [...Here goes our first post: Mastering Responsive Web Design&lpar;RWD&rpar;](https://dev.to/techpaxuk/here-goes-our-first-post-mastering-responsive-web-designrwd-18c5)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
