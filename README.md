@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Ways to Have Fun With Olives and Capers](https://lifehacker.com/9-ways-to-have-fun-with-olives-and-capers-1850013089)
+- [Dev.to/JS] [🤔 What Fetch Examples Always Miss](https://dev.to/mistval/what-fetch-examples-always-miss-1798)
+- [Lifehacker] [The Grossest Part of Your Refrigerator &lpar;and How to Clean It&rpar;](https://lifehacker.com/the-grossest-part-of-your-refrigerator-and-how-to-clea-1850012229)
+- [Dev.to/JS] [My first experience with react native](https://dev.to/suman373_30/my-first-experience-with-react-native-2jj2)
+- [Dev.to/JS] [Postman Data Driven Testing with CSV file](https://dev.to/dilpreetjohal/postman-data-driven-testing-with-csv-file-jo4)
+- [Dev.to/JS] [Decentralized exchange script- Create a DEX exchange instantly](https://dev.to/keevinlarsen555/decentralized-exchange-script-create-a-dex-exchange-instantly-3529)
+- [Lifehacker] [8 Mostly Untrue Myths About Pirates](https://lifehacker.com/8-mostly-untrue-myths-about-pirates-1850008950)
 - [Dev.to/JS] [#2.React Virtual DOM](https://dev.to/nazmulislam007/2react-virtual-dom-4j4n)
 - [Dev.to/JS] [𝗔𝗯𝗼𝗿𝘁𝗶𝗻𝗴 𝗼𝗻𝗴𝗼𝗶𝗻𝗴 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗯𝗼𝗿𝘁𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲.](https://dev.to/zakariaels/-60k)
 - [Dev.to/JS] [NeuroTonix - Brain Booster Benefits, Pros, Cons, Uses &amp; Price?](https://dev.to/neurotonixinfo/neurotonix-brain-booster-benefits-pros-cons-uses-price-1a3e)
@@ -31,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Firebase V9 Firestore DELETE Document Field Using updateDoc&lpar;&rpar;](https://dev.to/hirajatamil/firebase-v9-firestore-delete-document-field-using-updatedoc-5gpk)
 - [Dev.to/JS] [Using Javascript Snippets in Outsystems](https://dev.to/carlosjuniordev/using-javascript-snippets-in-outsystems-29ch)
 - [Dev.to/JS] [Using Cloudflare Workers KV Storage in action](https://dev.to/isnan__h/using-cloudflare-workers-kv-storage-in-action-3ik3)
-- [Dev.to/JS] [Developers are entering Web3, but not fast enough. If only the process was easier …](https://dev.to/apillon/developers-are-entering-web3-but-not-fast-enough-if-only-the-process-was-easier--3c47)
-- [Dev.to/JS] [Why we chose vite over create-react-app](https://dev.to/walosha/why-we-chose-vite-over-create-react-app-2pdl)
-- [Dev.to/JS] [4 Ways To Reduce And Simplify Test Cases](https://dev.to/lambdatest/4-ways-to-reduce-and-simplify-test-cases-5c4g)
-- [Dev.to/JS] [What array traversal methods are there in JavaScript? &lpar;for loop, for...in, for...of, forEach, map, filter, every, some&rpar;](https://dev.to/alaster/what-array-traversal-methods-are-there-in-javascript-for-loop-forin-forof-foreach-map-filter-every-some-mpm)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Marinate Your Chicken in Feta Cheese and Capers](https://lifehacker.com/marinate-your-chicken-in-feta-cheese-and-capers-1850008205)
 - [Lifehacker] [This Calculator Will Tell You If You Can Afford to Be a Digital Nomad](https://lifehacker.com/this-calculator-will-tell-you-if-you-can-afford-to-be-a-1850007114)
 - [Lifehacker] [When to Call in Professional Cleaners](https://lifehacker.com/when-to-call-in-professional-cleaners-1849986317)
-- [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)
-- [Lifehacker] [You Should Make a Pop-Tarts Ice Cream Sandwich](https://lifehacker.com/you-should-make-a-pop-tarts-ice-cream-sandwich-1850006741)
-- [Lifehacker] [What to Do If Your iPhone Camera Breaks](https://lifehacker.com/what-to-do-if-your-iphone-camera-breaks-1850007047)
-- [Lifehacker] [All-Clad Kitchenware Is Having a Massive Sale](https://lifehacker.com/all-clad-kitchenware-is-having-a-massive-sale-1850007687)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There Are Way More Types of Erasers in the World Than You Realize](https://lifehacker.com/there-are-way-more-types-of-erasers-in-the-world-than-y-1850006968)<!-- TECH-POSTS:END -->
 
 ---
 
