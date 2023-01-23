@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add Algolia to Nuxt](https://dev.to/jacobandrewsky/how-to-add-algolia-to-nuxt-2hdm)
+- [Dev.to/JS] [Whats the best way to branch code repo?](https://dev.to/cricketsamya/whats-the-best-way-branching-code-repo-46ak)
 - [Dev.to/JS] [TypeScript Vs JavaScript: Which One To Choose?](https://dev.to/infiraise/typescript-vs-javascript-which-one-to-choose-36m7)
 - [Dev.to/JS] [Arrays and Objects in JS](https://dev.to/sharu24/arrays-and-objects-in-js-28bn)
 - [Dev.to/JS] [5 Websites To Learn Web Development For Free In 2023](https://dev.to/rahul3002/5-websites-to-learn-web-development-for-free-in-2023-2gj5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prostadine - Price, Benefits, Pros, Cons, Uses &amp; Reviews?](https://dev.to/prostadinebuy/prostadine-price-benefits-pros-cons-uses-reviews-2244)
 - [Dev.to/JS] [10 Important JavaScript Object Methods everyone must know in 2023](https://dev.to/hy_piyush/10-important-javascript-object-methods-everyone-must-know-in-2023-398k)
 - [Dev.to/JS] [How To Get Radio Button Checked Value In jQuery](https://dev.to/techsolutionstuff/how-to-get-radio-button-checked-value-in-jquery-50lb)
-- [Dev.to/JS] [Python Training in Pune](https://dev.to/ayra12/python-training-in-pune-4861)
-- [Dev.to/JS] [Arrays Cheat Sheet - JavaScript](https://dev.to/moibra/arrays-cheat-sheet-javascript-3mie)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
