@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
+- [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
 - [Lifehacker] [You&#39;re Watching Fetish Videos on TikTok Without Even Knowing It](https://lifehacker.com/youre-watching-fetish-videos-on-tiktok-without-even-kno-1850019997)
 - [Dev.to/JS] [I Took &lpar;and Passed&rpar; Four LinkedIn Assessment Tests: My Experience](https://dev.to/alvyynm/i-took-and-passed-four-linkedin-assessment-tests-my-experience-541o)
 - [Dev.to/JS] [Should I really make my project open source???](https://dev.to/michthebrandofficial/should-i-really-make-my-project-open-source-5764)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
 - [Lifehacker] [You Should Consider Painting Old Wood Floors &lpar;Hear Me Out&rpar;](https://lifehacker.com/you-should-consider-painting-old-wood-floors-hear-me-o-1850012146)
-- [Lifehacker] [9 Things That Suck About Setting Up a New iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/9-things-that-suck-about-setting-up-a-new-iphone-and-h-1850011322)
-- [Lifehacker] [The Important Differences Between At-Home Dementia Care and a Long-Term Care Facility](https://lifehacker.com/the-important-differences-between-at-home-dementia-care-1850012343)
-- [Lifehacker] [You Might Score Free Wifi on Delta Flights Starting in February](https://lifehacker.com/you-might-score-free-wifi-on-delta-flights-starting-in-1850012845)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Things That Suck About Setting Up a New iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/9-things-that-suck-about-setting-up-a-new-iphone-and-h-1850011322)<!-- TECH-POSTS:END -->
 
 ---
 
