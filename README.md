@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Switch to Particular Network using Window.Ethereum](https://dev.to/0x24karthick/how-to-switch-to-particular-network-using-windowethereum-j0a)
+- [Dev.to/JS] [Build an Ovulation Calculator App with Next.js, TypeScript, Tailwind CSS and useReducer Hook](https://dev.to/codeofrelevancy/build-an-ovulation-calculator-app-with-nextjs-typescript-tailwind-css-and-usereducer-hook-kja)
+- [Dev.to/JS] [I&#39;ve just created frontend Todo app with clean architecture](https://dev.to/kaziusan/ive-just-created-frontend-todo-app-with-clean-architecture-2n0f)
+- [Lifehacker] [You Should Consider a Pasta and Dip Dinner](https://lifehacker.com/you-should-consider-a-pasta-and-dip-dinner-1850017914)
+- [Dev.to/JS] [Cancel HTTP Requests Using RxJS](https://dev.to/jobayer6735/cancel-http-requests-using-rxjs-4igf)
+- [Dev.to/JS] [Promises, Thenables, &amp; Lazy-evaluation: What, Why, How](https://dev.to/austingil/promises-thenables-lazy-evaluation-what-why-how-574)
+- [Dev.to/JS] [How to use Language Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-language-detection-api-with-javascript-in-5-minutes-2bn)
+- [Dev.to/JS] [Example of role tests in JavaScript with Jest](https://dev.to/trikitrok/example-of-role-tests-in-javascript-with-jest-22nb)
 - [Dev.to/JS] [Assertion Functions in TypeScript](https://dev.to/bennycode/assertion-functions-in-typescript-5hb8)
 - [Lifehacker] [7 Deadly Sins of Buying Your First House](https://lifehacker.com/7-deadly-sins-of-buying-your-first-house-1850014596)
 - [Dev.to/JS] [Getting started with Pinia for VueJS and NuxtJS🍍](https://dev.to/bcostaaa01/getting-started-with-pinia-for-vuejs-and-nuxtjs-1m2p)
@@ -32,14 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🤔 What Fetch Examples Always Miss](https://dev.to/mistval/what-fetch-examples-always-miss-1798)
 - [Lifehacker] [The Grossest Part of Your Refrigerator &lpar;and How to Clean It&rpar;](https://lifehacker.com/the-grossest-part-of-your-refrigerator-and-how-to-clea-1850012229)
 - [Dev.to/JS] [From React in web to react in mobile](https://dev.to/suman373_30/my-first-experience-with-react-native-2jj2)
-- [Dev.to/JS] [Postman Data Driven Testing with CSV file](https://dev.to/dilpreetjohal/postman-data-driven-testing-with-csv-file-jo4)
-- [Dev.to/JS] [Decentralized exchange script- Create a DEX exchange instantly](https://dev.to/keevinlarsen555/decentralized-exchange-script-create-a-dex-exchange-instantly-3529)
 - [Lifehacker] [8 Mostly Untrue Myths About Pirates](https://lifehacker.com/8-mostly-untrue-myths-about-pirates-1850008950)
-- [Dev.to/JS] [#2.React Virtual DOM](https://dev.to/nazmulislam007/2react-virtual-dom-4j4n)
-- [Dev.to/JS] [𝗔𝗯𝗼𝗿𝘁𝗶𝗻𝗴 𝗼𝗻𝗴𝗼𝗶𝗻𝗴 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗯𝗼𝗿𝘁𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲.](https://dev.to/zakariaels/-60k)
-- [Dev.to/JS] [NeuroTonix - Brain Booster Benefits, Pros, Cons, Uses &amp; Price?](https://dev.to/neurotonixinfo/neurotonix-brain-booster-benefits-pros-cons-uses-price-1a3e)
-- [Dev.to/JS] [React&#39;s Fiber Reconciliation Algorithm](https://dev.to/zakariaels/reacts-fiber-reconciliation-algorithm-1ci6)
-- [Dev.to/JS] [Rescript React useStateMachine without useEffect usage](https://dev.to/srikanthkyatham/rescript-react-usestatemachine-without-useeffect-usage-34oh)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)
 - [Lifehacker] [Why You Really Shouldn&#39;t Clean Your Stove Until It Cools Down](https://lifehacker.com/why-you-really-shouldnt-clean-your-stove-until-it-cools-1850007101)
 - [Lifehacker] [I Am Begging You to Dip a Clementine in Cinnamon Sugar](https://lifehacker.com/i-am-begging-you-to-dip-a-clementine-in-cinnamon-sugar-1850008803)
-- [Lifehacker] [Marinate Your Chicken in Feta Cheese and Capers](https://lifehacker.com/marinate-your-chicken-in-feta-cheese-and-capers-1850008205)
-- [Lifehacker] [This Calculator Will Tell You If You Can Afford to Be a Digital Nomad](https://lifehacker.com/this-calculator-will-tell-you-if-you-can-afford-to-be-a-1850007114)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Marinate Your Chicken in Feta Cheese and Capers](https://lifehacker.com/marinate-your-chicken-in-feta-cheese-and-capers-1850008205)<!-- TECH-POSTS:END -->
 
 ---
 
