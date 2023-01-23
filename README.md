@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Folder Structuring Techniques for Beginner to Advanced React Projects](https://dev.to/fpaghar/folder-structuring-techniques-for-beginner-to-advanced-react-projects-30d7)
+- [Dev.to/JS] [Micro Frontends - An exploration](https://dev.to/harshitakanal/micro-frontends-an-exploration-3nfc)
+- [Dev.to/JS] [How to connect your domain from Namecheap to Amazon Route 53](https://dev.to/mayorscript/how-to-connect-your-domain-from-namecheap-to-amazon-route-53-4g3g)
+- [Lifehacker] [14 Unexpected Household Uses for the Humble Pool Noodle](https://lifehacker.com/14-unexpected-household-uses-for-the-humble-pool-noodle-1850019454)
+- [Dev.to/JS] [Como criar e utilizar funções em JavaScript.](https://dev.to/altencirsilvajr/como-criar-e-utilizar-funcoes-em-javascript-2bpe)
+- [Lifehacker] [These Joystick Replacements Might Fix Your Joy-Con Drift for Good](https://lifehacker.com/these-joystick-replacements-might-fix-your-joy-con-drif-1850018788)
 - [Lifehacker] [Everything New in iOS 16.3](https://lifehacker.com/everything-new-in-ios-16-3-1850019181)
 - [Dev.to/JS] [How to add Google Translate to your website](https://dev.to/fanmixco/how-to-add-google-translate-to-your-website-59cc)
 - [Lifehacker] [Why Every Homeowner Should Have a HELOC Ready to Go](https://lifehacker.com/why-every-homeowner-should-have-a-heloc-ready-to-go-1850018785)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [# ARRAY](https://dev.to/jhonatanmarquess/-array-3lmc)
 - [Dev.to/JS] [[TSTL] My open source failure stories](https://dev.to/samchon/tstl-my-open-source-failure-stories-5f7o)
 - [Dev.to/JS] [which framework should I use for front-end development Reactjs or Nextjs?](https://dev.to/archijain/which-framework-should-i-use-for-front-end-development-reactjs-or-nextjs-2pb3)
-- [Dev.to/JS] [JavaScript Closures](https://dev.to/zakariaels/javascript-closures-3h7m)
 - [Lifehacker] [Record Your Own Morning Alarm on Your Pixel](https://lifehacker.com/record-your-own-morning-alarm-on-your-pixel-1850018289)
-- [Dev.to/JS] [How to Switch to Particular Network using Window.Ethereum](https://dev.to/0x24karthick/how-to-switch-to-particular-network-using-windowethereum-j0a)
-- [Dev.to/JS] [Build an Ovulation Calculator App with Next.js, TypeScript, Tailwind CSS and useReducer Hook](https://dev.to/codeofrelevancy/build-an-ovulation-calculator-app-with-nextjs-typescript-tailwind-css-and-usereducer-hook-kja)
-- [Dev.to/JS] [I&#39;ve just created frontend Todo app with clean architecture](https://dev.to/kaziusan/ive-just-created-frontend-todo-app-with-clean-architecture-2n0f)
 - [Lifehacker] [You Should Consider a Pasta and Dip Dinner](https://lifehacker.com/you-should-consider-a-pasta-and-dip-dinner-1850017914)
 - [Lifehacker] [7 Deadly Sins of Buying Your First House](https://lifehacker.com/7-deadly-sins-of-buying-your-first-house-1850014596)
 - [Lifehacker] [This Setting Turns Your iPhone Into a Professional Video Camera](https://lifehacker.com/this-setting-turns-your-iphone-into-a-professional-vide-1850014040)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Might Score Free Wifi on Delta Flights Starting in February](https://lifehacker.com/you-might-score-free-wifi-on-delta-flights-starting-in-1850012845)
 - [Lifehacker] [Here Are the Best Deals You Can Get on Winter Clothing Right Now](https://lifehacker.com/here-are-the-best-deals-you-can-get-on-winter-clothing-1850002554)
 - [Lifehacker] [9 Ways to Make a Cookie Without an Oven](https://lifehacker.com/9-ways-to-make-a-cookie-without-an-oven-1850012499)
-- [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)
-- [Lifehacker] [The Best Cheeses for Your Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-your-grilled-cheese-sandwich-1850009055)
-- [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Tab Is Not Indent, and Other Formatting Problems You Cause Yourself](https://lifehacker.com/tab-is-not-indent-and-other-formatting-problems-you-ca-1850012082)<!-- TECH-POSTS:END -->
 
 ---
 
