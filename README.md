@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You&#39;re Defogging Your Car Windows Wrong](https://lifehacker.com/youre-defogging-your-car-windows-wrong-1850018118)
+- [Lifehacker] [How to Get a Free Wendy&#39;s Jr. Bacon Cheeseburger This Week](https://lifehacker.com/how-to-get-a-free-wendys-jr-bacon-cheeseburger-this-we-1850018610)
+- [Dev.to/JS] [# ARRAY](https://dev.to/jhonatanmarquess/-array-3lmc)
+- [Dev.to/JS] [[TSTL] My open source failure stories](https://dev.to/samchon/tstl-my-open-source-failure-stories-5f7o)
+- [Dev.to/JS] [which framework should I use for front-end development Reactjs or Nextjs?](https://dev.to/archijain/which-framework-should-i-use-for-front-end-development-reactjs-or-nextjs-2pb3)
+- [Dev.to/JS] [JavaScript Closures](https://dev.to/zakariaels/javascript-closures-3h7m)
+- [Lifehacker] [Record Your Own Morning Alarm on Your Pixel](https://lifehacker.com/record-your-own-morning-alarm-on-your-pixel-1850018289)
 - [Dev.to/JS] [How to Switch to Particular Network using Window.Ethereum](https://dev.to/0x24karthick/how-to-switch-to-particular-network-using-windowethereum-j0a)
 - [Dev.to/JS] [Build an Ovulation Calculator App with Next.js, TypeScript, Tailwind CSS and useReducer Hook](https://dev.to/codeofrelevancy/build-an-ovulation-calculator-app-with-nextjs-typescript-tailwind-css-and-usereducer-hook-kja)
 - [Dev.to/JS] [I&#39;ve just created frontend Todo app with clean architecture](https://dev.to/kaziusan/ive-just-created-frontend-todo-app-with-clean-architecture-2n0f)
@@ -33,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Example of role tests in JavaScript with Jest](https://dev.to/trikitrok/example-of-role-tests-in-javascript-with-jest-22nb)
 - [Dev.to/JS] [Assertion Functions in TypeScript](https://dev.to/bennycode/assertion-functions-in-typescript-5hb8)
 - [Lifehacker] [7 Deadly Sins of Buying Your First House](https://lifehacker.com/7-deadly-sins-of-buying-your-first-house-1850014596)
-- [Dev.to/JS] [Getting started with Pinia for VueJS and NuxtJS🍍](https://dev.to/bcostaaa01/getting-started-with-pinia-for-vuejs-and-nuxtjs-1m2p)
 - [Lifehacker] [This Setting Turns Your iPhone Into a Professional Video Camera](https://lifehacker.com/this-setting-turns-your-iphone-into-a-professional-vide-1850014040)
-- [Dev.to/JS] [Best practices for optimizing the performance of your React application](https://dev.to/sarahokolo/best-practices-for-optimizing-the-performance-of-your-react-application-2e4c)
 - [Lifehacker] [9 Ways to Have Fun With Olives and Capers](https://lifehacker.com/9-ways-to-have-fun-with-olives-and-capers-1850013089)
-- [Dev.to/JS] [🤔 What Fetch Examples Always Miss](https://dev.to/mistval/what-fetch-examples-always-miss-1798)
 - [Lifehacker] [The Grossest Part of Your Refrigerator &lpar;and How to Clean It&rpar;](https://lifehacker.com/the-grossest-part-of-your-refrigerator-and-how-to-clea-1850012229)
-- [Dev.to/JS] [From React in web to react in mobile](https://dev.to/suman373_30/my-first-experience-with-react-native-2jj2)
 - [Lifehacker] [8 Mostly Untrue Myths About Pirates](https://lifehacker.com/8-mostly-untrue-myths-about-pirates-1850008950)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Paid to Drive the Oscar Mayer Wienermobile](https://lifehacker.com/you-can-get-paid-to-drive-the-oscar-mayer-wienermobile-1850008766)
 - [Lifehacker] [22 of the Best Movies About Movies](https://lifehacker.com/22-of-the-best-movies-about-movies-1850006992)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Does Everyone Hate &#39;Velma&#39;?](https://lifehacker.com/why-does-everyone-hate-velma-1850009913)
-- [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)
-- [Lifehacker] [Why You Really Shouldn&#39;t Clean Your Stove Until It Cools Down](https://lifehacker.com/why-you-really-shouldnt-clean-your-stove-until-it-cools-1850007101)
-- [Lifehacker] [I Am Begging You to Dip a Clementine in Cinnamon Sugar](https://lifehacker.com/i-am-begging-you-to-dip-a-clementine-in-cinnamon-sugar-1850008803)
-- [Lifehacker] [Marinate Your Chicken in Feta Cheese and Capers](https://lifehacker.com/marinate-your-chicken-in-feta-cheese-and-capers-1850008205)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 Podcasts That Changed Podcasting](https://lifehacker.com/12-podcasts-that-changed-podcasting-1850003445)<!-- TECH-POSTS:END -->
 
 ---
 
