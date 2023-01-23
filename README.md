@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript Vs JavaScript: Which One To Choose?](https://dev.to/infiraise/typescript-vs-javascript-which-one-to-choose-36m7)
+- [Dev.to/JS] [Arrays and Objects in JS](https://dev.to/sharu24/arrays-and-objects-in-js-28bn)
+- [Dev.to/JS] [5 Websites To Learn Web Development For Free In 2023](https://dev.to/rahul3002/5-websites-to-learn-web-development-for-free-in-2023-2gj5)
 - [Dev.to/JS] [Jest: The Fast and Effective Framework for Unit Testing](https://dev.to/decentrotech/jest-the-fast-and-effective-framework-for-unit-testing-n2p)
 - [Dev.to/JS] [Challenges faced by Developers in 2023](https://dev.to/ritugosavi/challenges-faced-by-developers-in-2023-1nd8)
 - [Dev.to/JS] [The Best Way to Learn Frontend Web Development](https://dev.to/anjankarmakar/the-best-way-to-learn-frontend-web-development-425d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Get Radio Button Checked Value In jQuery](https://dev.to/techsolutionstuff/how-to-get-radio-button-checked-value-in-jquery-50lb)
 - [Dev.to/JS] [Python Training in Pune](https://dev.to/ayra12/python-training-in-pune-4861)
 - [Dev.to/JS] [Arrays Cheat Sheet - JavaScript](https://dev.to/moibra/arrays-cheat-sheet-javascript-3mie)
-- [Dev.to/JS] [Datatypes in Javascript](https://dev.to/denismacharia/datatypes-in-javascript-5hio)
-- [Dev.to/JS] [A Native JavaScript Route / Router Proposal](https://dev.to/reggi/a-native-javascript-route-router-proposal-28c0)
-- [Dev.to/JS] [How to upload images to S3 from a react application](https://dev.to/shadid12/how-to-upload-images-to-s3-in-a-react-application-4lm)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
