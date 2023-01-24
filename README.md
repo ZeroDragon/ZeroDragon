@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Powerful Forms with Ease: An Introduction to Vue-formulate](https://dev.to/benoitpetit/building-powerful-forms-with-ease-an-introduction-to-vue-formulate-3bba)
+- [Dev.to/JS] [why chatbots are better than Mobile apps](https://dev.to/yugasa_chatbot/why-chatbots-are-better-than-mobile-apps-20kb)
+- [Dev.to/JS] [How to Build a React Native Video Calling App with Callkeep using Firebase and Video SDK](https://dev.to/video-sdk/react-native-video-calling-app-with-callkeep-1o73)
 - [Dev.to/JS] [How to start a crypto exchange instantly in just 7 days](https://dev.to/keevinlarsen555/how-to-start-a-crypto-exchange-instantly-in-just-7-days-2pf9)
 - [Dev.to/JS] [Build a ChatGPT bot for Whatsapp](https://dev.to/akhilathuluri/build-a-chatgpt-bot-for-whatsapp-30ga)
 - [Dev.to/JS] [Major Projects In Electronics And Communication](https://dev.to/arunprakash142/major-projects-in-electronics-and-communication-14fa)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scop in Javascript with example](https://dev.to/said7388/scop-in-javascript-with-example-2doe)
 - [Dev.to/JS] [The Journal of My Coding](https://dev.to/dragonjanelyoops/the-journal-of-my-coding-1a87)
 - [Dev.to/JS] [filter [array] base on other [array]](https://dev.to/taiseen/filter-array-base-on-other-array-21fb)
-- [Dev.to/JS] [Better React](https://dev.to/xania/how-to-use-async-await-without-useeffect-in-react-h05)
-- [Dev.to/JS] [React-Phaser](https://dev.to/4rokis/react-phaser-km8)
-- [Dev.to/JS] [Handling errors in react 👩‍🚀🚀](https://dev.to/himanshupal0001/handling-errors-in-react-5aok)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
