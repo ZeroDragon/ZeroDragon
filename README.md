@@ -23,22 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [GoPro&#39;s Hero11 Black Mini Is Half Off Right Now](https://lifehacker.com/gopros-hero11-black-mini-is-half-off-right-now-1850024900)
+- [Dev.to/JS] [7 Techniques for optimizing JavaScript performance and reducing load times](https://dev.to/archijain/7-techniques-for-optimizing-javascript-performance-and-reducing-load-times-39c2)
+- [Dev.to/JS] [Moonly weekly progress update #33](https://dev.to/moonly/moonly-weekly-progress-update-33-2h6)
+- [Lifehacker] [Three Ways to Clean Under Your Oven and Refrigerator Without Moving Them](https://lifehacker.com/three-ways-to-clean-under-your-oven-and-refrigerator-wi-1850024896)
+- [Dev.to/JS] [Angular 15 New Features | Angular v15 is now available!](https://dev.to/srinathsree66/angular-15-new-features-angular-v15-is-now-available-g24)
+- [Dev.to/JS] [NodeJs user authentication](https://dev.to/forgetpasses/nodejs-user-authentication-1j89)
+- [Dev.to/JS] [Sparse arrays hackerrank solution JavaScript and Python](https://dev.to/hecodesit/sparse-arrays-hackerrank-solution-javascript-and-python-53ne)
+- [Dev.to/JS] [One Crate a Day: has-flag](https://dev.to/thelarkinn/one-rust-crate-a-day-has-flag-26ph)
+- [Dev.to/JS] [Create your eCommerce website with Gatsby](https://dev.to/monsieur_riz/create-your-ecommerce-site-with-gatsby-1h12)
+- [Dev.to/JS] [Real time battery level using javascript](https://dev.to/rajamanickam/real-time-battery-level-using-javascript-24n3)
+- [Lifehacker] [&#39;The Last of Us,&#39; and 11 Other Things to Never Watch If You Hate Body Horror](https://lifehacker.com/the-last-of-us-and-11-other-things-to-never-watch-if-y-1850022213)
 - [Dev.to/JS] [Fast and Light Relative Time Strings in JS](https://dev.to/builderio/fast-and-light-relative-time-strings-in-js-khg)
 - [Dev.to/JS] [Different Ways to fetch data from API in Reactjs](https://dev.to/ikamran/different-ways-to-fetch-data-from-api-in-reactjs-4ad1)
 - [Lifehacker] [35 Movies Nominated for the 2023 Oscars &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/35-movies-nominated-for-the-2023-oscars-and-where-to-s-1850024206)
 - [Dev.to/JS] [Server-Side Fun with Next.js](https://dev.to/keyholesoftware/server-side-fun-with-nextjs-5ac5)
 - [Dev.to/JS] [Vue - App Architecture](https://dev.to/michaldulik/vue-modular-architecture-1d4e)
-- [Dev.to/JS] [What is Deno Part 1](https://dev.to/nfuhs/what-is-deno-part-1-dgo)
 - [Lifehacker] [This Corn Dog Casserole Will Be Your New Favorite Super Bowl Dish](https://lifehacker.com/this-corn-dog-casserole-will-be-your-new-favorite-super-1850024106)
-- [Dev.to/JS] [Upgrade your Application to v15 🚀](https://dev.to/muhammadawaisshaikh/upgrade-your-application-to-v15-4k67)
-- [Dev.to/JS] [I just wanted to buy pants. How excessive JavaScript is costing you money](https://dev.to/begin/i-just-wanted-to-buy-pants-how-excessive-javascript-is-costing-you-money-1mgp)
-- [Dev.to/JS] [Internationalize the paragraphs with JS](https://dev.to/walternascimentobarroso/internationalize-the-paragraphs-with-js-2m4g)
-- [Dev.to/JS] [Regular Expressions&lpar;RegEx&rpar;](https://dev.to/oluwatrillions/regular-expressionsregex-19bo)
 - [Lifehacker] [How to Shovel Snow Without Hurting Your Back](https://lifehacker.com/how-to-shovel-snow-without-hurting-your-back-1850023424)
-- [Dev.to/JS] [How SvelteKit makes type-safe data fetching easier and better!](https://dev.to/asheeshh/how-sveltekit-makes-type-safe-data-fetching-easier-and-better-1g7k)
 - [Lifehacker] [Why You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/why-you-should-start-texting-yourself-in-whatsapp-1850023373)
-- [Dev.to/JS] [Little React Things: Cleaning up dependencies](https://dev.to/zeke/little-react-things-cleaning-up-dependencies-4fg1)
-- [Dev.to/JS] [Optimizing to find the top 3 numbers from an array](https://dev.to/mnathani/optimizing-to-find-the-top-3-numbers-from-an-array-15gn)
 - [Lifehacker] [Three Ways Personality Tests Can Do More Harm Than Good](https://lifehacker.com/three-ways-personality-tests-can-do-more-harm-than-good-1850023002)
 - [Lifehacker] [You Can Now Book an Apartment Tour in the Zillow App](https://lifehacker.com/you-can-now-book-an-apartment-tour-in-the-zillow-app-1850020877)
 - [Lifehacker] [The Eight Types of Cheese You Should Have in Your Fridge at All Times](https://lifehacker.com/the-eight-types-of-cheese-you-should-have-in-your-fridg-1850020300)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Consider a Pasta and Dip Dinner](https://lifehacker.com/you-should-consider-a-pasta-and-dip-dinner-1850017914)
 - [Lifehacker] [7 Deadly Sins of Buying Your First House](https://lifehacker.com/7-deadly-sins-of-buying-your-first-house-1850014596)
 - [Lifehacker] [This Setting Turns Your iPhone Into a Professional Video Camera](https://lifehacker.com/this-setting-turns-your-iphone-into-a-professional-vide-1850014040)
-- [Lifehacker] [9 Ways to Have Fun With Olives and Capers](https://lifehacker.com/9-ways-to-have-fun-with-olives-and-capers-1850013089)
-- [Lifehacker] [The Grossest Part of Your Refrigerator &lpar;and How to Clean It&rpar;](https://lifehacker.com/the-grossest-part-of-your-refrigerator-and-how-to-clea-1850012229)
-- [Lifehacker] [8 Mostly Untrue Myths About Pirates](https://lifehacker.com/8-mostly-untrue-myths-about-pirates-1850008950)
-- [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Ways to Have Fun With Olives and Capers](https://lifehacker.com/9-ways-to-have-fun-with-olives-and-capers-1850013089)<!-- TECH-POSTS:END -->
 
 ---
 
