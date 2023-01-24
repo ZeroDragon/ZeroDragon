@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Shovel Snow Without Hurting Your Back](https://lifehacker.com/how-to-shovel-snow-without-hurting-your-back-1850023424)
+- [Dev.to/JS] [How SvelteKit makes type-safe data fetching easier and better!](https://dev.to/asheeshh/how-sveltekit-makes-type-safe-data-fetching-easier-and-better-1g7k)
+- [Lifehacker] [Why You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/why-you-should-start-texting-yourself-in-whatsapp-1850023373)
+- [Dev.to/JS] [Little React Things: Cleaning up dependencies](https://dev.to/zeke/little-react-things-cleaning-up-dependencies-4fg1)
 - [Dev.to/JS] [Optimizing to find the top 3 numbers from an array](https://dev.to/mnathani/optimizing-to-find-the-top-3-numbers-from-an-array-15gn)
 - [Dev.to/JS] [Things learned from AdventOfCode 2022](https://dev.to/mnathani/things-learned-from-adventofcode-2022-54o3)
+- [Lifehacker] [Three Ways Personality Tests Can Do More Harm Than Good](https://lifehacker.com/three-ways-personality-tests-can-do-more-harm-than-good-1850023002)
 - [Dev.to/JS] [⭐️Back-End Developer Step by Step Roadmap Guide 2023⭐️](https://dev.to/iarchitsharma/back-end-developer-step-by-step-roadmap-guide-2023-4f7c)
 - [Dev.to/JS] [Looking for Senior Frontend developer working remotely in Europe/Greece or Kyrgyzstan](https://dev.to/parkradmila/looking-for-senior-frontend-developer-working-remotely-in-europegreece-or-kyrgyzstan-25dm)
 - [Lifehacker] [You Can Now Book an Apartment Tour in the Zillow App](https://lifehacker.com/you-can-now-book-an-apartment-tour-in-the-zillow-app-1850020877)
@@ -35,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pattern - Adapter](https://dev.to/higordiego/pattern-adapter-39b9)
 - [Dev.to/JS] [Padrão - Adapter](https://dev.to/higordiego/padrao-adapter-5h93)
 - [Dev.to/JS] [ForgetPasses](https://dev.to/forgetpasses/forgetpasses-1dlg)
-- [Dev.to/JS] [A Beginner’s Guide to ESLint](https://dev.to/thawkin3/a-beginners-guide-to-eslint-2mp5)
-- [Dev.to/JS] [Getting Started with Vue3 - Project Setup](https://dev.to/britzdylan/getting-started-with-vue3-project-setup-3omk)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Mostly Untrue Myths About Pirates](https://lifehacker.com/8-mostly-untrue-myths-about-pirates-1850008950)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
 - [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
-- [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
-- [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
-- [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
-- [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)<!-- TECH-POSTS:END -->
 
 ---
 
