@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Building Powerful Forms with Ease: An Introduction to Vue-formulate](https://dev.to/benoitpetit/building-powerful-forms-with-ease-an-introduction-to-vue-formulate-3bba)
+- [Dev.to/JS] [How To Make A Calculator Using HTML CSS And JavaScript](https://dev.to/onlineittutstutorials/how-to-make-a-calculator-using-html-css-and-javascript-5ghe)
+- [Dev.to/JS] [Paracetamol.js💊| #200: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-200-explica-este-codigo-javascript-3pnc)
+- [Dev.to/JS] [I am trying to send data into supabase, but when I send them it doesn&#39;t navigate to thank you page](https://dev.to/revaycolizer/i-am-trying-to-send-data-into-supabase-but-when-i-send-them-it-doesnt-navigate-to-thank-you-page-2fm9)
+- [Dev.to/JS] [React Memory Leaks: what, why, and how to clean them up!](https://dev.to/himanshudevgupta/react-memory-leaks-what-why-and-how-to-clean-them-up-mm0)
+- [Dev.to/JS] [Creating Dynamic Forms with Ease: Example to Using FormKit with Vue.js 3](https://dev.to/benoitpetit/building-powerful-forms-with-ease-an-introduction-to-vue-formulate-3bba)
 - [Dev.to/JS] [why chatbots are better than Mobile apps](https://dev.to/yugasa_chatbot/why-chatbots-are-better-than-mobile-apps-20kb)
 - [Dev.to/JS] [How to Build a React Native Video Calling App with Callkeep using Firebase and Video SDK](https://dev.to/video-sdk/react-native-video-calling-app-with-callkeep-1o73)
 - [Dev.to/JS] [How to start a crypto exchange instantly in just 7 days](https://dev.to/keevinlarsen555/how-to-start-a-crypto-exchange-instantly-in-just-7-days-2pf9)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Major Projects In Electronics And Communication](https://dev.to/arunprakash142/major-projects-in-electronics-and-communication-14fa)
 - [Dev.to/JS] [Introducing backhooks: hooks for the backend &lpar;nodeJS&rpar;](https://dev.to/elmatella/introducing-backhooks-hooks-for-the-backend-nodejs-4p2o)
 - [Dev.to/JS] [Javascript MicroTask vs MacroTask Queue - Visually Explained 🤯🔥](https://dev.to/rammcodes/javascript-microtask-vs-macrotask-queue-visually-explained-2209)
-- [Dev.to/JS] [nav bar animation with javascript](https://dev.to/nagvanshi9275/nav-bar-animation-with-javascript-2b4d)
-- [Dev.to/JS] [Scop in Javascript with example](https://dev.to/said7388/scop-in-javascript-with-example-2doe)
-- [Dev.to/JS] [The Journal of My Coding](https://dev.to/dragonjanelyoops/the-journal-of-my-coding-1a87)
-- [Dev.to/JS] [filter [array] base on other [array]](https://dev.to/taiseen/filter-array-base-on-other-array-21fb)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
