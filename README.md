@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to start a crypto exchange instantly in just 7 days](https://dev.to/keevinlarsen555/how-to-start-a-crypto-exchange-instantly-in-just-7-days-2pf9)
+- [Dev.to/JS] [Build a ChatGPT bot for Whatsapp](https://dev.to/akhilathuluri/build-a-chatgpt-bot-for-whatsapp-30ga)
+- [Dev.to/JS] [Major Projects In Electronics And Communication](https://dev.to/arunprakash142/major-projects-in-electronics-and-communication-14fa)
 - [Dev.to/JS] [Introducing backhooks: hooks for the backend &lpar;nodeJS&rpar;](https://dev.to/elmatella/introducing-backhooks-hooks-for-the-backend-nodejs-4p2o)
 - [Dev.to/JS] [Javascript MicroTask vs MacroTask Queue - Visually Explained 🤯🔥](https://dev.to/rammcodes/javascript-microtask-vs-macrotask-queue-visually-explained-2209)
 - [Dev.to/JS] [nav bar animation with javascript](https://dev.to/nagvanshi9275/nav-bar-animation-with-javascript-2b4d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Better React](https://dev.to/xania/how-to-use-async-await-without-useeffect-in-react-h05)
 - [Dev.to/JS] [React-Phaser](https://dev.to/4rokis/react-phaser-km8)
 - [Dev.to/JS] [Handling errors in react 👩‍🚀🚀](https://dev.to/himanshupal0001/handling-errors-in-react-5aok)
-- [Dev.to/JS] [JavaScriptda ma&#39;lumot turlari &lpar;Data Types&rpar;](https://dev.to/diyordev/javascriptda-malumot-turlari-data-types-2omi)
-- [Dev.to/JS] [Full Laravel Splade Tutorial | Laravel Vuejs Tutorial](https://dev.to/laravellercom/full-laravel-splade-tutorial-laravel-vuejs-tutorial-8hh)
-- [Dev.to/JS] [How to get data from realtime database to react from parents to child?](https://dev.to/emmanuelkadominah/how-to-get-data-from-realtime-database-to-react-from-parents-to-child-5521)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
