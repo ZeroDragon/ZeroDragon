@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode #101 Symmetric Tree with JavaScript](https://dev.to/masakifukunishi/leetcode-101-symmetric-tree-with-javascript-37e0)
+- [Dev.to/JS] [LinkedIn Learning Free Lifetime Access!!!](https://dev.to/vincod/linkedin-learning-free-lifetime-access-13md)
+- [Dev.to/JS] [Shallow Copy vs Deep Copy JS &amp; Reference Part-2🚀](https://dev.to/himanshupal0001/shallow-copy-vs-deep-copy-js-reference-part-2-1ld0)
 - [Dev.to/JS] [Top 5 Backbone JS Development Agencies](https://dev.to/codersnews/top-5-backbone-js-development-agencies-54gb)
 - [Dev.to/JS] [Building Reliable Distributed Systems in Node](https://dev.to/lorendsr/building-reliable-distributed-systems-in-node-44i)
 - [Dev.to/JS] [Next.js issue](https://dev.to/pantcr7/nextjs-issue-210d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Lessons I wish someone have told me before I started coding](https://dev.to/hy_piyush/5-lessons-i-wish-someone-have-told-me-before-i-started-coding-mom)
 - [Dev.to/JS] [Top 10 React js interview questions.](https://dev.to/said7388/top-10-react-js-interview-questions-48dc)
 - [Dev.to/JS] [Curated THE BEST Programing Articles from Hundreds Newsletter!](https://dev.to/rahmanbite/curated-the-best-programing-articles-from-hundreds-newsletter-5eih)
-- [Dev.to/JS] [Web-Based Programming Tools for Everyone](https://dev.to/rahul3002/web-based-programming-tools-for-everyone-np5)
-- [Dev.to/JS] [Routing in Next.js](https://dev.to/asayerio_techblog/routing-in-nextjs-h6d)
-- [Dev.to/JS] [My Rick and Morty Search App: A Retrospective](https://dev.to/sawincp/my-rick-and-morty-search-app-a-retrospective-52j9)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
