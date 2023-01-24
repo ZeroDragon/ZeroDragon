@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing to find the top 3 numbers from an array](https://dev.to/mnathani/optimizing-to-find-the-top-3-numbers-from-an-array-15gn)
+- [Dev.to/JS] [Things learned from AdventOfCode 2022](https://dev.to/mnathani/things-learned-from-adventofcode-2022-54o3)
+- [Dev.to/JS] [⭐️Back-End Developer Step by Step Roadmap Guide 2023⭐️](https://dev.to/iarchitsharma/back-end-developer-step-by-step-roadmap-guide-2023-4f7c)
+- [Dev.to/JS] [Looking for Senior Frontend developer working remotely in Europe/Greece or Kyrgyzstan](https://dev.to/parkradmila/looking-for-senior-frontend-developer-working-remotely-in-europegreece-or-kyrgyzstan-25dm)
+- [Lifehacker] [You Can Now Book an Apartment Tour in the Zillow App](https://lifehacker.com/you-can-now-book-an-apartment-tour-in-the-zillow-app-1850020877)
+- [Dev.to/JS] [My Journey in Open Source - rate-limiter-fn](https://dev.to/cadienvan/my-journey-in-open-source-rate-limiter-fn-735)
 - [Lifehacker] [The Eight Types of Cheese You Should Have in Your Fridge at All Times](https://lifehacker.com/the-eight-types-of-cheese-you-should-have-in-your-fridg-1850020300)
 - [Dev.to/JS] [refine vs RedwoodJS](https://dev.to/refine/refine-vs-redwoodjs-37p9)
 - [Dev.to/JS] [Smooth Scrolling with JS](https://dev.to/shubhamtiwari909/smooth-scrolling-with-js-n56)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ForgetPasses](https://dev.to/forgetpasses/forgetpasses-1dlg)
 - [Dev.to/JS] [A Beginner’s Guide to ESLint](https://dev.to/thawkin3/a-beginners-guide-to-eslint-2mp5)
 - [Dev.to/JS] [Getting Started with Vue3 - Project Setup](https://dev.to/britzdylan/getting-started-with-vue3-project-setup-3omk)
-- [Dev.to/JS] [How To Make A Calculator Using HTML CSS And JavaScript](https://dev.to/onlineittutstutorials/how-to-make-a-calculator-using-html-css-and-javascript-5ghe)
-- [Dev.to/JS] [Paracetamol.js💊| #200: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-200-explica-este-codigo-javascript-3pnc)
-- [Dev.to/JS] [I am trying to send data into supabase, but when I send them it doesn&#39;t navigate to thank you page](https://dev.to/revaycolizer/i-am-trying-to-send-data-into-supabase-but-when-i-send-them-it-doesnt-navigate-to-thank-you-page-2fm9)
-- [Dev.to/JS] [React Memory Leaks: what, why, and how to clean them up!](https://dev.to/himanshudevgupta/react-memory-leaks-what-why-and-how-to-clean-them-up-mm0)
-- [Dev.to/JS] [Creating Dynamic Forms with Ease: Example to Using FormKit with Vue.js 3](https://dev.to/benoitpetit/building-powerful-forms-with-ease-an-introduction-to-vue-formulate-3bba)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
-- [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
-- [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)<!-- TECH-POSTS:END -->
 
 ---
 
