@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Eight Types of Cheese You Should Have in Your Fridge at All Times](https://lifehacker.com/the-eight-types-of-cheese-you-should-have-in-your-fridg-1850020300)
+- [Dev.to/JS] [refine vs RedwoodJS](https://dev.to/refine/refine-vs-redwoodjs-37p9)
+- [Dev.to/JS] [Smooth Scrolling with JS](https://dev.to/shubhamtiwari909/smooth-scrolling-with-js-n56)
+- [Dev.to/JS] [Pattern - Adapter](https://dev.to/higordiego/pattern-adapter-39b9)
+- [Dev.to/JS] [Padrão - Adapter](https://dev.to/higordiego/padrao-adapter-5h93)
+- [Dev.to/JS] [ForgetPasses](https://dev.to/forgetpasses/forgetpasses-1dlg)
+- [Dev.to/JS] [A Beginner’s Guide to ESLint](https://dev.to/thawkin3/a-beginners-guide-to-eslint-2mp5)
+- [Dev.to/JS] [Getting Started with Vue3 - Project Setup](https://dev.to/britzdylan/getting-started-with-vue3-project-setup-3omk)
 - [Dev.to/JS] [How To Make A Calculator Using HTML CSS And JavaScript](https://dev.to/onlineittutstutorials/how-to-make-a-calculator-using-html-css-and-javascript-5ghe)
 - [Dev.to/JS] [Paracetamol.js💊| #200: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-200-explica-este-codigo-javascript-3pnc)
 - [Dev.to/JS] [I am trying to send data into supabase, but when I send them it doesn&#39;t navigate to thank you page](https://dev.to/revaycolizer/i-am-trying-to-send-data-into-supabase-but-when-i-send-them-it-doesnt-navigate-to-thank-you-page-2fm9)
 - [Dev.to/JS] [React Memory Leaks: what, why, and how to clean them up!](https://dev.to/himanshudevgupta/react-memory-leaks-what-why-and-how-to-clean-them-up-mm0)
 - [Dev.to/JS] [Creating Dynamic Forms with Ease: Example to Using FormKit with Vue.js 3](https://dev.to/benoitpetit/building-powerful-forms-with-ease-an-introduction-to-vue-formulate-3bba)
-- [Dev.to/JS] [why chatbots are better than Mobile apps](https://dev.to/yugasa_chatbot/why-chatbots-are-better-than-mobile-apps-20kb)
-- [Dev.to/JS] [How to Build a React Native Video Calling App with Callkeep using Firebase and Video SDK](https://dev.to/video-sdk/react-native-video-calling-app-with-callkeep-1o73)
-- [Dev.to/JS] [How to start a crypto exchange instantly in just 7 days](https://dev.to/keevinlarsen555/how-to-start-a-crypto-exchange-instantly-in-just-7-days-2pf9)
-- [Dev.to/JS] [Build a ChatGPT bot for Whatsapp](https://dev.to/akhilathuluri/build-a-chatgpt-bot-for-whatsapp-30ga)
-- [Dev.to/JS] [Major Projects In Electronics And Communication](https://dev.to/arunprakash142/major-projects-in-electronics-and-communication-14fa)
-- [Dev.to/JS] [Introducing backhooks: hooks for the backend &lpar;nodeJS&rpar;](https://dev.to/elmatella/introducing-backhooks-hooks-for-the-backend-nodejs-4p2o)
-- [Dev.to/JS] [Javascript MicroTask vs MacroTask Queue - Visually Explained 🤯🔥](https://dev.to/rammcodes/javascript-microtask-vs-macrotask-queue-visually-explained-2209)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Consider &#39;Ungardening&#39;](https://lifehacker.com/why-you-should-consider-ungardening-1850012644)
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
-- [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
-- [Lifehacker] [You Should Consider Painting Old Wood Floors &lpar;Hear Me Out&rpar;](https://lifehacker.com/you-should-consider-painting-old-wood-floors-hear-me-o-1850012146)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)<!-- TECH-POSTS:END -->
 
 ---
 
