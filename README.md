@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Curated THE BEST Programing Articles from Hundreds Newsletter!](https://dev.to/rahmanbite/curated-the-best-programing-articles-from-hundreds-newsletter-5eih)
+- [Dev.to/JS] [Web-Based Programming Tools for Everyone](https://dev.to/rahul3002/web-based-programming-tools-for-everyone-np5)
 - [Dev.to/JS] [Routing in Next.js](https://dev.to/asayerio_techblog/routing-in-nextjs-h6d)
 - [Dev.to/JS] [My Rick and Morty Search App: A Retrospective](https://dev.to/sawincp/my-rick-and-morty-search-app-a-retrospective-52j9)
 - [Dev.to/JS] [ChatGPT vilão ou Mocinho?](https://dev.to/andrerodriguesdevweb/chatgpt-vilao-ou-mocinho-45an)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Should I really make my project open source???](https://dev.to/michthebrandofficial/should-i-really-make-my-project-open-source-5764)
 - [Lifehacker] [You Should Claim Money From These Class-Action Settlements](https://lifehacker.com/you-should-claim-money-from-these-class-action-settleme-1850020120)
 - [Dev.to/JS] [How to Become a Full Stack Designer in 2023](https://dev.to/michaellarocca/how-to-become-a-full-stack-designer-in-2023-1moe)
-- [Dev.to/JS] [Clonar un objeto en JavaScript: 4 mejores formas [Ejemplos]](https://dev.to/khriztianmoreno/clonar-un-objeto-en-javascript-4-mejores-formas-ejemplos-1bke)
-- [Dev.to/JS] [Better Alternatives to React&#39;s useState Hook](https://dev.to/cedricagoliki/better-reacts-usestate-hook-cg4)
 - [Lifehacker] [You’re Frying Your Chicken in the Wrong Oil](https://lifehacker.com/you-re-frying-your-chicken-in-the-wrong-oil-1850018801)
 - [Lifehacker] [14 Unexpected Household Uses for the Humble Pool Noodle](https://lifehacker.com/14-unexpected-household-uses-for-the-humble-pool-noodle-1850019454)
 - [Lifehacker] [These Joystick Replacements Might Fix Your Joy-Con Drift for Good](https://lifehacker.com/these-joystick-replacements-might-fix-your-joy-con-drif-1850018788)
