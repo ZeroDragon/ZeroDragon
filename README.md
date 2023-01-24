@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fast and Light Relative Time Strings in JS](https://dev.to/builderio/fast-and-light-relative-time-strings-in-js-khg)
+- [Dev.to/JS] [Different Ways to fetch data from API in Reactjs](https://dev.to/ikamran/different-ways-to-fetch-data-from-api-in-reactjs-4ad1)
+- [Lifehacker] [35 Movies Nominated for the 2023 Oscars &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/35-movies-nominated-for-the-2023-oscars-and-where-to-s-1850024206)
+- [Dev.to/JS] [Server-Side Fun with Next.js](https://dev.to/keyholesoftware/server-side-fun-with-nextjs-5ac5)
+- [Dev.to/JS] [Vue - App Architecture](https://dev.to/michaldulik/vue-modular-architecture-1d4e)
 - [Dev.to/JS] [What is Deno Part 1](https://dev.to/nfuhs/what-is-deno-part-1-dgo)
 - [Lifehacker] [This Corn Dog Casserole Will Be Your New Favorite Super Bowl Dish](https://lifehacker.com/this-corn-dog-casserole-will-be-your-new-favorite-super-1850024106)
 - [Dev.to/JS] [Upgrade your Application to v15 🚀](https://dev.to/muhammadawaisshaikh/upgrade-your-application-to-v15-4k67)
@@ -34,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/why-you-should-start-texting-yourself-in-whatsapp-1850023373)
 - [Dev.to/JS] [Little React Things: Cleaning up dependencies](https://dev.to/zeke/little-react-things-cleaning-up-dependencies-4fg1)
 - [Dev.to/JS] [Optimizing to find the top 3 numbers from an array](https://dev.to/mnathani/optimizing-to-find-the-top-3-numbers-from-an-array-15gn)
-- [Dev.to/JS] [Things learned from AdventOfCode 2022](https://dev.to/mnathani/things-learned-from-adventofcode-2022-54o3)
 - [Lifehacker] [Three Ways Personality Tests Can Do More Harm Than Good](https://lifehacker.com/three-ways-personality-tests-can-do-more-harm-than-good-1850023002)
-- [Dev.to/JS] [⭐️Back-End Developer Step by Step Roadmap Guide 2023⭐️](https://dev.to/iarchitsharma/back-end-developer-step-by-step-roadmap-guide-2023-4f7c)
-- [Dev.to/JS] [Looking for Senior Frontend developer working remotely in Europe/Greece or Kyrgyzstan](https://dev.to/parkradmila/looking-for-senior-frontend-developer-working-remotely-in-europegreece-or-kyrgyzstan-25dm)
 - [Lifehacker] [You Can Now Book an Apartment Tour in the Zillow App](https://lifehacker.com/you-can-now-book-an-apartment-tour-in-the-zillow-app-1850020877)
-- [Dev.to/JS] [My Journey in Open Source - rate-limiter-fn](https://dev.to/cadienvan/my-journey-in-open-source-rate-limiter-fn-735)
 - [Lifehacker] [The Eight Types of Cheese You Should Have in Your Fridge at All Times](https://lifehacker.com/the-eight-types-of-cheese-you-should-have-in-your-fridg-1850020300)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Ways to Have Fun With Olives and Capers](https://lifehacker.com/9-ways-to-have-fun-with-olives-and-capers-1850013089)
 - [Lifehacker] [The Grossest Part of Your Refrigerator &lpar;and How to Clean It&rpar;](https://lifehacker.com/the-grossest-part-of-your-refrigerator-and-how-to-clea-1850012229)
 - [Lifehacker] [8 Mostly Untrue Myths About Pirates](https://lifehacker.com/8-mostly-untrue-myths-about-pirates-1850008950)
-- [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
-- [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)<!-- TECH-POSTS:END -->
 
 ---
 
