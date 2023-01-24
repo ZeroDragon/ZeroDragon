@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [15 more useful React custom hooks for everyone - part 2](https://dev.to/arafat4693/15-more-useful-react-custom-hooks-for-everyone-part-2-4a5j)
+- [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
+- [Dev.to/JS] [Ejemplos de cómo establecer valores predeterminados para elementos de formulario en React utilizando react-hook-form](https://dev.to/dennysjmarquez/ejemplos-de-como-establecer-valores-predeterminados-para-elementos-de-formulario-en-react-utilizando-react-hook-form-ddb)
+- [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
+- [Dev.to/JS] [15 More Useful React Custom Hooks For Everyone - part 2](https://dev.to/arafat4693/15-more-useful-react-custom-hooks-for-everyone-part-2-4a5j)
 - [Dev.to/JS] [Top 5 resources to prepare for a FAANG interview as a Frontend Engineer](https://dev.to/justartem/top-5-resources-to-prepare-for-a-faang-interview-as-a-frontend-engineer-kjl)
 - [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
 - [Dev.to/JS] [Deploying your NestJS API on AWS Lambda](https://dev.to/juanpireslima/deploying-your-nestjs-api-on-aws-lambda-3ka9)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Techniques for optimizing JavaScript performance and reducing load times](https://dev.to/archijain/7-techniques-for-optimizing-javascript-performance-and-reducing-load-times-39c2)
 - [Dev.to/JS] [Moonly weekly progress update #33](https://dev.to/moonly/moonly-weekly-progress-update-33-2h6)
 - [Lifehacker] [Three Ways to Clean Under Your Oven and Refrigerator Without Moving Them](https://lifehacker.com/three-ways-to-clean-under-your-oven-and-refrigerator-wi-1850024896)
-- [Dev.to/JS] [Angular 15 New Features | Angular v15 is now available!](https://dev.to/srinathsree66/angular-15-new-features-angular-v15-is-now-available-g24)
 - [Lifehacker] [&#39;The Last of Us,&#39; and 11 Other Things to Never Watch If You Hate Body Horror](https://lifehacker.com/the-last-of-us-and-11-other-things-to-never-watch-if-y-1850022213)
 - [Lifehacker] [35 Movies Nominated for the 2023 Oscars &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/35-movies-nominated-for-the-2023-oscars-and-where-to-s-1850024206)
 - [Lifehacker] [This Corn Dog Casserole Will Be Your New Favorite Super Bowl Dish](https://lifehacker.com/this-corn-dog-casserole-will-be-your-new-favorite-super-1850024106)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Joystick Replacements Might Fix Your Joy-Con Drift for Good](https://lifehacker.com/these-joystick-replacements-might-fix-your-joy-con-drif-1850018788)
 - [Lifehacker] [Everything New in iOS 16.3](https://lifehacker.com/everything-new-in-ios-16-3-1850019181)
 - [Lifehacker] [Why Every Homeowner Should Have a HELOC Ready to Go](https://lifehacker.com/why-every-homeowner-should-have-a-heloc-ready-to-go-1850018785)
-- [Lifehacker] [How to Build a Parenting ‘Village’ When You Feel Isolated](https://lifehacker.com/how-to-build-a-parenting-village-when-you-feel-isolat-1850018379)
-- [Lifehacker] [You&#39;re Defogging Your Car Windows Wrong](https://lifehacker.com/youre-defogging-your-car-windows-wrong-1850018118)
-- [Lifehacker] [How to Get a Free Wendy&#39;s Jr. Bacon Cheeseburger This Week](https://lifehacker.com/how-to-get-a-free-wendys-jr-bacon-cheeseburger-this-we-1850018610)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Build a Parenting ‘Village’ When You Feel Isolated](https://lifehacker.com/how-to-build-a-parenting-village-when-you-feel-isolat-1850018379)<!-- TECH-POSTS:END -->
 
 ---
 
