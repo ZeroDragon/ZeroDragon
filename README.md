@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures in JavaScript - the Simplest Explanation](https://dev.to/mohsenkamrani/closures-in-javascript-the-simplest-explanation-9gj)
+- [Dev.to/JS] [HTML DOM ️loves Javascript! 💕 #TLA 😘](https://dev.to/jonesrussell/html-dom-loves-javascript-tla-3dnb)
+- [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
 - [Lifehacker] [You&#39;re Watching Fetish Videos on TikTok Without Even Knowing It](https://lifehacker.com/youre-watching-fetish-videos-on-tiktok-without-even-kno-1850019997)
@@ -39,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Micro Frontends - An exploration](https://dev.to/harshitakanal/micro-frontends-an-exploration-3nfc)
 - [Dev.to/JS] [How to connect your domain from Namecheap to Amazon Route 53](https://dev.to/mayorscript/how-to-connect-your-domain-from-namecheap-to-amazon-route-53-4g3g)
 - [Lifehacker] [14 Unexpected Household Uses for the Humble Pool Noodle](https://lifehacker.com/14-unexpected-household-uses-for-the-humble-pool-noodle-1850019454)
-- [Dev.to/JS] [Como criar e utilizar funções em JavaScript.](https://dev.to/altencirsilvajr/como-criar-e-utilizar-funcoes-em-javascript-2bpe)
 - [Lifehacker] [These Joystick Replacements Might Fix Your Joy-Con Drift for Good](https://lifehacker.com/these-joystick-replacements-might-fix-your-joy-con-drif-1850018788)
 - [Lifehacker] [Everything New in iOS 16.3](https://lifehacker.com/everything-new-in-ios-16-3-1850019181)
-- [Dev.to/JS] [How to add Google Translate to your website](https://dev.to/fanmixco/how-to-add-google-translate-to-your-website-59cc)
 - [Lifehacker] [Why Every Homeowner Should Have a HELOC Ready to Go](https://lifehacker.com/why-every-homeowner-should-have-a-heloc-ready-to-go-1850018785)
 - [Lifehacker] [How to Build a Parenting ‘Village’ When You Feel Isolated](https://lifehacker.com/how-to-build-a-parenting-village-when-you-feel-isolat-1850018379)
 - [Lifehacker] [You&#39;re Defogging Your Car Windows Wrong](https://lifehacker.com/youre-defogging-your-car-windows-wrong-1850018118)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When It Is &lpar;and Isn’t&rpar; OK to ‘Double Text’ Someone You’re Dating](https://lifehacker.com/when-it-is-and-isn-t-ok-to-double-text-someone-you-1850012867)
 - [Lifehacker] [Why You Should Turn Off Your iPhone’s Macro Mode](https://lifehacker.com/why-you-should-turn-off-your-iphone-s-macro-mode-1850013633)
 - [Lifehacker] [Where You Can Snag a Copy of &#39;The Last Of Us&#39; for Cheap Right Now](https://lifehacker.com/where-you-can-snag-a-copy-of-the-last-of-us-for-cheap-r-1850013560)
-- [Lifehacker] [You Should Consider Painting Old Wood Floors &lpar;Hear Me Out&rpar;](https://lifehacker.com/you-should-consider-painting-old-wood-floors-hear-me-o-1850012146)
-- [Lifehacker] [9 Things That Suck About Setting Up a New iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/9-things-that-suck-about-setting-up-a-new-iphone-and-h-1850011322)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Consider Painting Old Wood Floors &lpar;Hear Me Out&rpar;](https://lifehacker.com/you-should-consider-painting-old-wood-floors-hear-me-o-1850012146)<!-- TECH-POSTS:END -->
 
 ---
 
