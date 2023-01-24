@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing backhooks: hooks for the backend &lpar;nodeJS&rpar;](https://dev.to/elmatella/introducing-backhooks-hooks-for-the-backend-nodejs-4p2o)
+- [Dev.to/JS] [Javascript MicroTask vs MacroTask Queue - Visually Explained 🤯🔥](https://dev.to/rammcodes/javascript-microtask-vs-macrotask-queue-visually-explained-2209)
+- [Dev.to/JS] [nav bar animation with javascript](https://dev.to/nagvanshi9275/nav-bar-animation-with-javascript-2b4d)
+- [Dev.to/JS] [Scop in Javascript with example](https://dev.to/said7388/scop-in-javascript-with-example-2doe)
 - [Dev.to/JS] [The Journal of My Coding](https://dev.to/dragonjanelyoops/the-journal-of-my-coding-1a87)
 - [Dev.to/JS] [filter [array] base on other [array]](https://dev.to/taiseen/filter-array-base-on-other-array-21fb)
 - [Dev.to/JS] [Better React](https://dev.to/xania/how-to-use-async-await-without-useeffect-in-react-h05)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScriptda ma&#39;lumot turlari &lpar;Data Types&rpar;](https://dev.to/diyordev/javascriptda-malumot-turlari-data-types-2omi)
 - [Dev.to/JS] [Full Laravel Splade Tutorial | Laravel Vuejs Tutorial](https://dev.to/laravellercom/full-laravel-splade-tutorial-laravel-vuejs-tutorial-8hh)
 - [Dev.to/JS] [How to get data from realtime database to react from parents to child?](https://dev.to/emmanuelkadominah/how-to-get-data-from-realtime-database-to-react-from-parents-to-child-5521)
-- [Dev.to/JS] [My journey from being a cook to becoming a software engineer.](https://dev.to/vitalii26/my-journey-from-being-a-cook-to-becoming-a-software-engineer-m8j)
-- [Dev.to/JS] [LeetCode #101 Symmetric Tree with JavaScript](https://dev.to/masakifukunishi/leetcode-101-symmetric-tree-with-javascript-37e0)
-- [Dev.to/JS] [LinkedIn Learning Free Lifetime Access!!!](https://dev.to/vincod/linkedin-learning-free-lifetime-access-13md)
-- [Dev.to/JS] [Shallow Copy vs Deep Copy JS &amp; Reference Part-2🚀](https://dev.to/himanshupal0001/shallow-copy-vs-deep-copy-js-reference-part-2-1ld0)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
