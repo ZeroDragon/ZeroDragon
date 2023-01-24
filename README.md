@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 Surprising Household Uses for Chalk](https://lifehacker.com/8-surprising-household-uses-for-chalk-1850025875)
+- [Lifehacker] [Make Better Boxed Mac &amp; Cheese, Add an Egg Yolk](https://lifehacker.com/make-better-boxed-mac-cheese-add-an-egg-yolk-1850025468)
 - [Dev.to/JS] [Final Project walkthrough P.1](https://dev.to/truetallman/final-project-walkthrough-p1-3lme)
 - [Dev.to/JS] [📚 String methods in JavaScript - Part 1](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-4jdg)
 - [Dev.to/JS] [A function by any other name would work as well &lpar;part two&rpar;](https://dev.to/tracygjg/a-function-by-any-other-name-would-work-as-well-part-two-232)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Build a Parenting ‘Village’ When You Feel Isolated](https://lifehacker.com/how-to-build-a-parenting-village-when-you-feel-isolat-1850018379)
 - [Lifehacker] [You&#39;re Defogging Your Car Windows Wrong](https://lifehacker.com/youre-defogging-your-car-windows-wrong-1850018118)
 - [Lifehacker] [How to Get a Free Wendy&#39;s Jr. Bacon Cheeseburger This Week](https://lifehacker.com/how-to-get-a-free-wendys-jr-bacon-cheeseburger-this-we-1850018610)
-- [Lifehacker] [Record Your Own Morning Alarm on Your Pixel](https://lifehacker.com/record-your-own-morning-alarm-on-your-pixel-1850018289)
-- [Lifehacker] [You Should Consider a Pasta and Dip Dinner](https://lifehacker.com/you-should-consider-a-pasta-and-dip-dinner-1850017914)
-- [Lifehacker] [7 Deadly Sins of Buying Your First House](https://lifehacker.com/7-deadly-sins-of-buying-your-first-house-1850014596)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Record Your Own Morning Alarm on Your Pixel](https://lifehacker.com/record-your-own-morning-alarm-on-your-pixel-1850018289)<!-- TECH-POSTS:END -->
 
 ---
 
