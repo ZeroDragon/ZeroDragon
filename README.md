@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Final Project walkthrough P.1](https://dev.to/truetallman/final-project-walkthrough-p1-3lme)
+- [Dev.to/JS] [📚 String methods in JavaScript - Part 1](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-4jdg)
+- [Dev.to/JS] [A function by any other name would work as well &lpar;part two&rpar;](https://dev.to/tracygjg/a-function-by-any-other-name-would-work-as-well-part-two-232)
+- [Crazy Programmer] [10 Simple Image Slider HTML CSS JavaScript Examples](https://www.thecrazyprogrammer.com/2023/01/image-slider-html-css-javascript.html)
+- [Lifehacker] [Security Keys Are Now the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-now-the-best-way-to-protect-your-appl-1850024776)
+- [Dev.to/JS] [One Quality that will make you a 10x Remote Software Engineer](https://dev.to/syedateeq160/one-quality-that-will-make-you-a-10x-remote-software-engineer-553)
 - [Lifehacker] [GoPro&#39;s Hero11 Black Mini Is Half Off Right Now](https://lifehacker.com/gopros-hero11-black-mini-is-half-off-right-now-1850024900)
 - [Dev.to/JS] [7 Techniques for optimizing JavaScript performance and reducing load times](https://dev.to/archijain/7-techniques-for-optimizing-javascript-performance-and-reducing-load-times-39c2)
 - [Dev.to/JS] [Moonly weekly progress update #33](https://dev.to/moonly/moonly-weekly-progress-update-33-2h6)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create your eCommerce website with Gatsby](https://dev.to/monsieur_riz/create-your-ecommerce-site-with-gatsby-1h12)
 - [Dev.to/JS] [Real time battery level using javascript](https://dev.to/rajamanickam/real-time-battery-level-using-javascript-24n3)
 - [Lifehacker] [&#39;The Last of Us,&#39; and 11 Other Things to Never Watch If You Hate Body Horror](https://lifehacker.com/the-last-of-us-and-11-other-things-to-never-watch-if-y-1850022213)
-- [Dev.to/JS] [Fast and Light Relative Time Strings in JS](https://dev.to/builderio/fast-and-light-relative-time-strings-in-js-khg)
-- [Dev.to/JS] [Different Ways to fetch data from API in Reactjs](https://dev.to/ikamran/different-ways-to-fetch-data-from-api-in-reactjs-4ad1)
 - [Lifehacker] [35 Movies Nominated for the 2023 Oscars &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/35-movies-nominated-for-the-2023-oscars-and-where-to-s-1850024206)
-- [Dev.to/JS] [Server-Side Fun with Next.js](https://dev.to/keyholesoftware/server-side-fun-with-nextjs-5ac5)
-- [Dev.to/JS] [Vue - App Architecture](https://dev.to/michaldulik/vue-modular-architecture-1d4e)
 - [Lifehacker] [This Corn Dog Casserole Will Be Your New Favorite Super Bowl Dish](https://lifehacker.com/this-corn-dog-casserole-will-be-your-new-favorite-super-1850024106)
 - [Lifehacker] [How to Shovel Snow Without Hurting Your Back](https://lifehacker.com/how-to-shovel-snow-without-hurting-your-back-1850023424)
 - [Lifehacker] [Why You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/why-you-should-start-texting-yourself-in-whatsapp-1850023373)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Free Wendy&#39;s Jr. Bacon Cheeseburger This Week](https://lifehacker.com/how-to-get-a-free-wendys-jr-bacon-cheeseburger-this-we-1850018610)
 - [Lifehacker] [Record Your Own Morning Alarm on Your Pixel](https://lifehacker.com/record-your-own-morning-alarm-on-your-pixel-1850018289)
 - [Lifehacker] [You Should Consider a Pasta and Dip Dinner](https://lifehacker.com/you-should-consider-a-pasta-and-dip-dinner-1850017914)
-- [Lifehacker] [7 Deadly Sins of Buying Your First House](https://lifehacker.com/7-deadly-sins-of-buying-your-first-house-1850014596)
-- [Lifehacker] [This Setting Turns Your iPhone Into a Professional Video Camera](https://lifehacker.com/this-setting-turns-your-iphone-into-a-professional-vide-1850014040)
-- [Lifehacker] [9 Ways to Have Fun With Olives and Capers](https://lifehacker.com/9-ways-to-have-fun-with-olives-and-capers-1850013089)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Deadly Sins of Buying Your First House](https://lifehacker.com/7-deadly-sins-of-buying-your-first-house-1850014596)<!-- TECH-POSTS:END -->
 
 ---
 
