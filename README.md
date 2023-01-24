@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Deno Part 1](https://dev.to/nfuhs/what-is-deno-part-1-dgo)
+- [Lifehacker] [This Corn Dog Casserole Will Be Your New Favorite Super Bowl Dish](https://lifehacker.com/this-corn-dog-casserole-will-be-your-new-favorite-super-1850024106)
+- [Dev.to/JS] [Upgrade your Application to v15 🚀](https://dev.to/muhammadawaisshaikh/upgrade-your-application-to-v15-4k67)
+- [Dev.to/JS] [I just wanted to buy pants. How excessive JavaScript is costing you money](https://dev.to/begin/i-just-wanted-to-buy-pants-how-excessive-javascript-is-costing-you-money-1mgp)
+- [Dev.to/JS] [Internationalize the paragraphs with JS](https://dev.to/walternascimentobarroso/internationalize-the-paragraphs-with-js-2m4g)
+- [Dev.to/JS] [Regular Expressions&lpar;RegEx&rpar;](https://dev.to/oluwatrillions/regular-expressionsregex-19bo)
 - [Lifehacker] [How to Shovel Snow Without Hurting Your Back](https://lifehacker.com/how-to-shovel-snow-without-hurting-your-back-1850023424)
 - [Dev.to/JS] [How SvelteKit makes type-safe data fetching easier and better!](https://dev.to/asheeshh/how-sveltekit-makes-type-safe-data-fetching-easier-and-better-1g7k)
 - [Lifehacker] [Why You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/why-you-should-start-texting-yourself-in-whatsapp-1850023373)
@@ -35,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Book an Apartment Tour in the Zillow App](https://lifehacker.com/you-can-now-book-an-apartment-tour-in-the-zillow-app-1850020877)
 - [Dev.to/JS] [My Journey in Open Source - rate-limiter-fn](https://dev.to/cadienvan/my-journey-in-open-source-rate-limiter-fn-735)
 - [Lifehacker] [The Eight Types of Cheese You Should Have in Your Fridge at All Times](https://lifehacker.com/the-eight-types-of-cheese-you-should-have-in-your-fridg-1850020300)
-- [Dev.to/JS] [refine vs RedwoodJS](https://dev.to/refine/refine-vs-redwoodjs-37p9)
-- [Dev.to/JS] [Smooth Scrolling with JS](https://dev.to/shubhamtiwari909/smooth-scrolling-with-js-n56)
-- [Dev.to/JS] [Pattern - Adapter](https://dev.to/higordiego/pattern-adapter-39b9)
-- [Dev.to/JS] [Padrão - Adapter](https://dev.to/higordiego/padrao-adapter-5h93)
-- [Dev.to/JS] [ForgetPasses](https://dev.to/forgetpasses/forgetpasses-1dlg)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Grossest Part of Your Refrigerator &lpar;and How to Clean It&rpar;](https://lifehacker.com/the-grossest-part-of-your-refrigerator-and-how-to-clea-1850012229)
 - [Lifehacker] [8 Mostly Untrue Myths About Pirates](https://lifehacker.com/8-mostly-untrue-myths-about-pirates-1850008950)
 - [Lifehacker] [&#39;Knolling&#39; Is &#39;Kondoing&#39; for Maximalists](https://lifehacker.com/knolling-is-kondoing-for-maximalists-1850013391)
-- [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)
-- [Lifehacker] [These Are the Best Markets for First-Time Homebuyers Right Now](https://lifehacker.com/these-are-the-best-markets-for-first-time-homebuyers-ri-1850013422)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How &lpar;and Where&rpar; to Haggle for Cheaper Appliances](https://lifehacker.com/how-and-where-to-haggle-for-cheaper-appliances-1850013405)<!-- TECH-POSTS:END -->
 
 ---
 
