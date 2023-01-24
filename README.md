@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Rick and Morty Search App: A Retrospective](https://dev.to/sawincp/my-rick-and-morty-search-app-a-retrospective-52j9)
+- [Dev.to/JS] [ChatGPT vilão ou Mocinho?](https://dev.to/andrerodriguesdevweb/chatgpt-vilao-ou-mocinho-45an)
 - [Dev.to/JS] [Ghost is an open source &lpar;CMS&rpar; built on a modern Node.js technology stack](https://dev.to/sewas87/ghost-is-an-open-source-cms-built-on-a-modern-nodejs-technology-stack-55op)
 - [Dev.to/JS] [Environment Variables In Serverless Framework](https://dev.to/topeomot/environment-variables-in-serverless-framework-4h94)
 - [Dev.to/JS] [Closures in JavaScript - the Simplest Explanation](https://dev.to/mohsenkamrani/closures-in-javascript-the-simplest-explanation-9gj)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clonar un objeto en JavaScript: 4 mejores formas [Ejemplos]](https://dev.to/khriztianmoreno/clonar-un-objeto-en-javascript-4-mejores-formas-ejemplos-1bke)
 - [Dev.to/JS] [Better Alternatives to React&#39;s useState Hook](https://dev.to/cedricagoliki/better-reacts-usestate-hook-cg4)
 - [Dev.to/JS] [🌶️ Hot tip - Use snapshots in React Testing Library to debug faster ⚙️](https://dev.to/jozsefdevs/hot-tip-use-snapshots-in-react-testing-library-to-debug-faster-42o7)
-- [Dev.to/JS] [Episode 23/03: Service Patterns, tRPC in Angular, and much more...](https://dev.to/ng_news/episode-2303-service-patterns-trpc-in-angular-and-much-more-4b8g)
 - [Lifehacker] [You’re Frying Your Chicken in the Wrong Oil](https://lifehacker.com/you-re-frying-your-chicken-in-the-wrong-oil-1850018801)
-- [Dev.to/JS] [Folder Structuring Techniques for Beginner to Advanced React Projects](https://dev.to/fpaghar/folder-structuring-techniques-for-beginner-to-advanced-react-projects-30d7)
 - [Lifehacker] [14 Unexpected Household Uses for the Humble Pool Noodle](https://lifehacker.com/14-unexpected-household-uses-for-the-humble-pool-noodle-1850019454)
 - [Lifehacker] [These Joystick Replacements Might Fix Your Joy-Con Drift for Good](https://lifehacker.com/these-joystick-replacements-might-fix-your-joy-con-drif-1850018788)
 - [Lifehacker] [Everything New in iOS 16.3](https://lifehacker.com/everything-new-in-ios-16-3-1850019181)
