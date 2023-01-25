@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VueJs + ThreeJs Primera parte. Template](https://dev.to/jaimebboyjt/vuejs-threejs-primera-parte-template-10ph)
+- [Lifehacker] [10 Professional Kitchen Tools I Use in My Home Kitchen](https://lifehacker.com/10-professional-kitchen-tools-i-use-in-my-home-kitchen-1850030795)
+- [Dev.to/JS] [LeetCode #118 Pascal&#39;s Triangle with JavaScript](https://dev.to/masakifukunishi/leetcode-118-pascals-triangle-with-javascript-5bb2)
 - [Lifehacker] [How to Turn an Old TV Into Something Cool](https://lifehacker.com/how-to-turn-an-old-tv-into-something-cool-1850030373)
 - [Dev.to/JS] [Most Common Five TypeScript Errors](https://dev.to/cagkanmert/most-common-five-typescript-errors-5ce0)
 - [Dev.to/JS] [Aprofundamento das Funções de Array em JavaScript](https://dev.to/altencirsilvajr/aprofundamento-das-funcoes-de-array-em-javascript-5hc8)
@@ -39,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Buy These New Cars Without Stepping Foot in a Dealership](https://lifehacker.com/you-can-buy-these-new-cars-without-stepping-foot-in-a-d-1850026712)
 - [Dev.to/JS] [GeoPicker](https://dev.to/stefcud/geopicker-2cm2)
 - [Dev.to/JS] [Senior Level Coding Style for Junior Developers😀](https://dev.to/samyog_dhital/senior-level-coding-style-for-junior-developers-efg)
-- [Dev.to/JS] [How to use Firestore with Redux in a React application](https://dev.to/emotta/how-to-use-firestore-with-redux-in-a-react-application-13bh)
 - [Lifehacker] [Explore the World of Custom iPhone Widgets](https://lifehacker.com/explore-the-world-of-custom-iphone-widgets-1850028209)
-- [Dev.to/JS] [A React library for creating stunning animated websites on scroll](https://dev.to/martiserra99/a-react-library-for-creating-stunning-animated-websites-on-scroll-2lem)
 - [Lifehacker] [16 Post-Apocalyptic TV Shows, but Zombies Had Nothing to Do With It](https://lifehacker.com/16-post-apocalyptic-tv-shows-but-zombies-had-nothing-t-1850018558)
 - [Lifehacker] [‘Woke’ M&amp;Ms and 8 Other Ridiculous Moral Panics Throughout History](https://lifehacker.com/woke-m-ms-and-8-other-ridiculous-moral-panics-through-1850028075)
 - [Lifehacker] [Stop Using Camera Covers for Your MacBook](https://lifehacker.com/stop-using-camera-covers-for-your-macbook-1850028773)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Shovel Snow Without Hurting Your Back](https://lifehacker.com/how-to-shovel-snow-without-hurting-your-back-1850023424)
 - [Lifehacker] [Why You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/why-you-should-start-texting-yourself-in-whatsapp-1850023373)
 - [Lifehacker] [Three Ways Personality Tests Can Do More Harm Than Good](https://lifehacker.com/three-ways-personality-tests-can-do-more-harm-than-good-1850023002)
-- [Lifehacker] [You Can Now Book an Apartment Tour in the Zillow App](https://lifehacker.com/you-can-now-book-an-apartment-tour-in-the-zillow-app-1850020877)
-- [Lifehacker] [The Eight Types of Cheese You Should Have in Your Fridge at All Times](https://lifehacker.com/the-eight-types-of-cheese-you-should-have-in-your-fridg-1850020300)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Book an Apartment Tour in the Zillow App](https://lifehacker.com/you-can-now-book-an-apartment-tour-in-the-zillow-app-1850020877)<!-- TECH-POSTS:END -->
 
 ---
 
