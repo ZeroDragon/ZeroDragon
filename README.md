@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
+- [Dev.to/JS] [Default image load, while error happen at image loading time](https://dev.to/taiseen/default-image-load-while-error-happen-at-image-loading-time-2h0a)
+- [Dev.to/JS] [Six Words -- A Unique Fullstack Application](https://dev.to/stcollier/six-words-a-unique-fullstack-application-53lm)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
-- [Dev.to/JS] [The Importance of Clarity in Front End Development](https://dev.to/nadiapolk/the-importance-of-clarity-in-front-end-development-40i1)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
 - [Lifehacker] [Asteroid 2023 BU Is a &#39;Near-Earth&#39; Asteroid](https://lifehacker.com/asteroid-2023-bu-is-a-near-earth-asteroid-1850031553)
 - [Dev.to/JS] [3.2 - How to create a Conference with Clark Sell](https://dev.to/codingcatdev/32-how-to-create-a-conference-with-clark-sell-m2k)
@@ -45,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in February 2023](https://lifehacker.com/whats-new-on-netflix-in-february-2023-1850029812)
 - [Dev.to/JS] [JSTools Weekly - 2023#3](https://dev.to/jstoolsweekly/jstools-weekly-20233-4k95)
 - [Lifehacker] [7 of the Best Cleaning Methods When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
-- [Dev.to/JS] [Create User Interfaces on the Canvas as easy as it has never been](https://dev.to/martiserra99/create-user-interfaces-on-the-canvas-as-easy-as-it-has-never-been-j3c)
 - [Lifehacker] [You Can Buy These New Cars Without Stepping Foot in a Dealership](https://lifehacker.com/you-can-buy-these-new-cars-without-stepping-foot-in-a-d-1850026712)
 - [Lifehacker] [Explore the World of Custom iPhone Widgets](https://lifehacker.com/explore-the-world-of-custom-iphone-widgets-1850028209)
 - [Lifehacker] [16 Post-Apocalyptic TV Shows, but Zombies Had Nothing to Do With It](https://lifehacker.com/16-post-apocalyptic-tv-shows-but-zombies-had-nothing-t-1850018558)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Security Keys Are Now the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-now-the-best-way-to-protect-your-appl-1850024776)
 - [Lifehacker] [GoPro&#39;s Hero11 Black Mini Is Half Off Right Now](https://lifehacker.com/gopros-hero11-black-mini-is-half-off-right-now-1850024900)
 - [Lifehacker] [Three Ways to Clean Under Your Oven and Refrigerator Without Moving Them](https://lifehacker.com/three-ways-to-clean-under-your-oven-and-refrigerator-wi-1850024896)
-- [Lifehacker] [&#39;The Last of Us,&#39; and 11 Other Things to Never Watch If You Hate Body Horror](https://lifehacker.com/the-last-of-us-and-11-other-things-to-never-watch-if-y-1850022213)
-- [Lifehacker] [35 Movies Nominated for the 2023 Oscars &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/35-movies-nominated-for-the-2023-oscars-and-where-to-s-1850024206)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;The Last of Us,&#39; and 11 Other Things to Never Watch If You Hate Body Horror](https://lifehacker.com/the-last-of-us-and-11-other-things-to-never-watch-if-y-1850022213)<!-- TECH-POSTS:END -->
 
 ---
 
