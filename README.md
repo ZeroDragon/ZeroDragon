@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Callback in JavaScript](https://dev.to/mofijulhaque/callback-in-javascript-icg)
+- [Dev.to/JS] [Where to store data in chrome extension ?](https://dev.to/ambujsahu81/where-to-store-data-in-chrome-extension--1be6)
 - [Dev.to/JS] [Simple CQRS in NodeJS with Typescript](https://dev.to/rusfighter/simple-cqrs-in-nodejs-with-typescript-48mi)
 - [Dev.to/JS] [Current Affairs for UPSC CSE 2023 – Sources &amp; Preparation Strategy](https://dev.to/gsscore/current-affairs-for-upsc-cse-2023-sources-preparation-strategy-c)
 - [Dev.to/JS] [Closure in JavaScript](https://dev.to/mofijulhaque/closure-in-javascript-56h3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly web development resources #134](https://dev.to/vincenius/weekly-web-development-resources-134-47p1)
 - [Dev.to/JS] [Best 5 EmberJS Development Agencies](https://dev.to/codersnews/best-5-emberjs-development-agencies-44o0)
 - [Dev.to/JS] [A Beginner’s Guide to the useEffect Hook in React](https://dev.to/sidddabdullah/a-beginners-guide-to-the-useeffect-hook-in-react-2li0)
-- [Dev.to/JS] [Top React Libraries of 2023](https://dev.to/thisissouray/top-react-libraries-of-2023-4476)
-- [Dev.to/JS] [How To Make Date Range Filter in React JS](https://dev.to/reactjsguru/how-to-make-date-range-filter-in-react-js-5h4p)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
 - [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
