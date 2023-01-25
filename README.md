@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Secure Your AWS Lambdas with TypeScript](https://dev.to/appsignal/secure-your-aws-lambdas-with-typescript-46a7)
+- [Dev.to/JS] [20 Best Libraries and Tools for React Developers](https://dev.to/devland/20-best-libraries-and-tools-for-react-developers-4m62)
 - [Dev.to/JS] [Callback in JavaScript](https://dev.to/mofijulhaque/callback-in-javascript-icg)
 - [Dev.to/JS] [Where to store data in chrome extension ?](https://dev.to/ambujsahu81/where-to-store-data-in-chrome-extension--1be6)
 - [Dev.to/JS] [Simple CQRS in NodeJS with Typescript](https://dev.to/rusfighter/simple-cqrs-in-nodejs-with-typescript-48mi)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automating Visual Testing with Playwright, Argos and GitHub Actions](https://dev.to/jsfez/automating-visual-testing-with-playwright-argos-and-github-actions-2fp1)
 - [Dev.to/JS] [How to use PassportJS for authentication in NodeJS](https://dev.to/arinze19/how-to-use-passportjs-for-authentication-in-nodejs-3e59)
 - [Dev.to/JS] [Weekly web development resources #134](https://dev.to/vincenius/weekly-web-development-resources-134-47p1)
-- [Dev.to/JS] [Best 5 EmberJS Development Agencies](https://dev.to/codersnews/best-5-emberjs-development-agencies-44o0)
-- [Dev.to/JS] [A Beginner’s Guide to the useEffect Hook in React](https://dev.to/sidddabdullah/a-beginners-guide-to-the-useeffect-hook-in-react-2li0)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
 - [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
