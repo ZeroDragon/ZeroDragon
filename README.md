@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A React library for creating stunning animated websites on scroll](https://dev.to/martiserra99/a-react-library-for-creating-stunning-animated-websites-on-scroll-2lem)
+- [Dev.to/JS] [What is NaN in JavaScript?](https://dev.to/uploadcare/what-is-nan-in-javascript-3i0e)
+- [Dev.to/JS] [How to use any NPM module with Browserify in the browser](https://dev.to/balvinder294/how-to-use-any-npm-module-with-browserify-in-the-browser-3pjl)
+- [Dev.to/JS] [📚 String methods in JavaScript - Part 2](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-2o6b)
+- [Dev.to/JS] [Digital Identity and SIWE](https://dev.to/gbibeaul/hello-world-3p5c)
+- [Lifehacker] [16 Post-Apocalyptic TV Shows, but Zombies Had Nothing to Do With It](https://lifehacker.com/16-post-apocalyptic-tv-shows-but-zombies-had-nothing-t-1850018558)
+- [Dev.to/JS] [Creating a website brand with ChatGPT, Stable Diffusion, React and NodeJS 🤯](https://dev.to/novu/creating-a-website-brand-with-chatgpt-stable-diffusion-react-and-nodejs-e79)
+- [Dev.to/JS] [How to build a quote search app with React and Tailwind CSS](https://dev.to/coderamrin/how-to-build-a-quote-search-app-with-react-and-tailwind-css-19h3)
+- [Lifehacker] [‘Woke’ M&amp;Ms and 8 Other Ridiculous Moral Panics Throughout History](https://lifehacker.com/woke-m-ms-and-8-other-ridiculous-moral-panics-through-1850028075)
 - [Dev.to/JS] [Why I&#39;m using `lodash/fp` and you should too](https://dev.to/viktorbezdek/why-im-using-lodashfp-and-you-should-too-3k0h)
 - [Lifehacker] [Stop Using Camera Covers for Your MacBook](https://lifehacker.com/stop-using-camera-covers-for-your-macbook-1850028773)
 - [Dev.to/JS] [This Week In React #132: Astro, Remix, Server Components, useGlobalState, Next.js, Redwood, Expo Router, Expo Image...](https://dev.to/sebastienlorber/this-week-in-react-132-astro-remix-server-components-useglobalstate-nextjs-redwood-expo-router-expo-image-14mn)
 - [Dev.to/JS] [6 Cheat Sheets Every Developer Should Have](https://dev.to/onlydevs_/6-cheat-sheets-every-developer-should-have-285l)
 - [Dev.to/JS] [Medusa’s New Feature: Order Editing](https://dev.to/medusajs/medusas-new-feature-order-editing-2ibl)
 - [Dev.to/JS] [My TikTok &lpar;ByteDance&rpar; Frontend Software Engineer Interview Experience](https://dev.to/alaster/my-tiktok-bytedance-frontend-software-engineer-interview-experience-dbn)
-- [Dev.to/JS] [How to Build Travel Website From Scratch Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-travel-website-from-scratch-using-html-css-javascript-4ba5)
 - [Lifehacker] [Stockholm Syndrome, Midlife Crises, and 10 More Suss &#39;Phenomena&#39; in Pop Psychology](https://lifehacker.com/stockholm-syndrome-midlife-crises-and-10-more-suss-ph-1850020831)
-- [Dev.to/JS] [How to structure your React app](https://dev.to/fabienschlegel/how-to-structure-your-react-app-4eb6)
-- [Dev.to/JS] [HOW TO RUN ANGULAR BUILD LOCALLY](https://dev.to/himanshudevgupta/how-to-run-angular-build-locally-4525)
-- [Dev.to/JS] [How to start node.js app with pm2](https://dev.to/himanshudevgupta/how-to-start-nodejs-app-with-pm2-3k16)
-- [Dev.to/JS] [The Difference of “var” vs “let” vs “const” in Javascript](https://dev.to/himanshudevgupta/the-difference-of-var-vs-let-vs-const-in-javascript-2c22)
-- [Dev.to/JS] [Building Dynamic Table Pagination in React JS](https://dev.to/aneeqakhan/building-dynamic-table-pagination-in-react-js-ga0)
-- [Dev.to/JS] [What are the 5 JavaScript Mathematical Operators?](https://dev.to/max88git/what-are-the-5-javascript-mathematical-operators-1en0)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
 - [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Watching Fetish Videos on TikTok Without Even Knowing It](https://lifehacker.com/youre-watching-fetish-videos-on-tiktok-without-even-kno-1850019997)
 - [Lifehacker] [You Should Claim Money From These Class-Action Settlements](https://lifehacker.com/you-should-claim-money-from-these-class-action-settleme-1850020120)
 - [Lifehacker] [You’re Frying Your Chicken in the Wrong Oil](https://lifehacker.com/you-re-frying-your-chicken-in-the-wrong-oil-1850018801)
-- [Lifehacker] [14 Unexpected Household Uses for the Humble Pool Noodle](https://lifehacker.com/14-unexpected-household-uses-for-the-humble-pool-noodle-1850019454)
-- [Lifehacker] [These Joystick Replacements Might Fix Your Joy-Con Drift for Good](https://lifehacker.com/these-joystick-replacements-might-fix-your-joy-con-drif-1850018788)
-- [Lifehacker] [Everything New in iOS 16.3](https://lifehacker.com/everything-new-in-ios-16-3-1850019181)<!-- TECH-POSTS:END -->
+- [Lifehacker] [14 Unexpected Household Uses for the Humble Pool Noodle](https://lifehacker.com/14-unexpected-household-uses-for-the-humble-pool-noodle-1850019454)<!-- TECH-POSTS:END -->
 
 ---
 
