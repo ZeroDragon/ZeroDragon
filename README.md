@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebSockets protocol: Innovating your projects with efficiently live communication.](https://dev.to/dealer30/websockets-protocol-innovating-your-projects-with-efficiently-live-communication-3526)
 - [Dev.to/JS] [Help with React Router 😫](https://dev.to/taepal467/help-with-react-router-1gm)
 - [Dev.to/JS] [Red Boost - Health Supplement, Uses, Price &amp; Side Effects?](https://dev.to/redboost8/red-boost-health-supplement-uses-price-side-effects-42pf)
 - [Dev.to/JS] [Created a visually stunning front-end experience with basic technologies](https://dev.to/jeremy0x/created-a-visually-stunning-front-end-experience-with-basic-technologies-4g1d)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Surprising Household Uses for Chalk](https://lifehacker.com/8-surprising-household-uses-for-chalk-1850025875)
 - [Lifehacker] [Make Better Boxed Mac &amp; Cheese, Add an Egg Yolk](https://lifehacker.com/make-better-boxed-mac-cheese-add-an-egg-yolk-1850025468)
 - [Dev.to/JS] [Final Project walkthrough P.1](https://dev.to/truetallman/final-project-walkthrough-p1-3lme)
-- [Dev.to/JS] [📚 String methods in JavaScript - Part 1](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-4jdg)
 - [Crazy Programmer] [10 Simple Image Slider HTML CSS JavaScript Examples](https://www.thecrazyprogrammer.com/2023/01/image-slider-html-css-javascript.html)
 - [Lifehacker] [Security Keys Are Now the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-now-the-best-way-to-protect-your-appl-1850024776)
 - [Lifehacker] [GoPro&#39;s Hero11 Black Mini Is Half Off Right Now](https://lifehacker.com/gopros-hero11-black-mini-is-half-off-right-now-1850024900)
