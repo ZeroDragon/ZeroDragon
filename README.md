@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help with React Router 😫](https://dev.to/taepal467/help-with-react-router-1gm)
+- [Dev.to/JS] [Red Boost - Health Supplement, Uses, Price &amp; Side Effects?](https://dev.to/redboost8/red-boost-health-supplement-uses-price-side-effects-42pf)
+- [Dev.to/JS] [Created a visually stunning front-end experience with basic technologies](https://dev.to/jeremy0x/created-a-visually-stunning-front-end-experience-with-basic-technologies-4g1d)
+- [Dev.to/JS] [Multi-step form ReactJS](https://dev.to/jucian0/multi-step-form-reactjs-6cn)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Dev.to/JS] [Ejemplos de cómo establecer valores predeterminados para elementos de formulario en React utilizando react-hook-form](https://dev.to/dennysjmarquez/ejemplos-de-como-establecer-valores-predeterminados-para-elementos-de-formulario-en-react-utilizando-react-hook-form-ddb)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
@@ -36,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better Boxed Mac &amp; Cheese, Add an Egg Yolk](https://lifehacker.com/make-better-boxed-mac-cheese-add-an-egg-yolk-1850025468)
 - [Dev.to/JS] [Final Project walkthrough P.1](https://dev.to/truetallman/final-project-walkthrough-p1-3lme)
 - [Dev.to/JS] [📚 String methods in JavaScript - Part 1](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-4jdg)
-- [Dev.to/JS] [A function by any other name would work as well &lpar;part two&rpar;](https://dev.to/tracygjg/a-function-by-any-other-name-would-work-as-well-part-two-232)
 - [Crazy Programmer] [10 Simple Image Slider HTML CSS JavaScript Examples](https://www.thecrazyprogrammer.com/2023/01/image-slider-html-css-javascript.html)
 - [Lifehacker] [Security Keys Are Now the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-now-the-best-way-to-protect-your-appl-1850024776)
-- [Dev.to/JS] [One Quality that will make you a 10x Remote Software Engineer](https://dev.to/syedateeq160/one-quality-that-will-make-you-a-10x-remote-software-engineer-553)
 - [Lifehacker] [GoPro&#39;s Hero11 Black Mini Is Half Off Right Now](https://lifehacker.com/gopros-hero11-black-mini-is-half-off-right-now-1850024900)
-- [Dev.to/JS] [7 Techniques for optimizing JavaScript performance and reducing load times](https://dev.to/archijain/7-techniques-for-optimizing-javascript-performance-and-reducing-load-times-39c2)
-- [Dev.to/JS] [Moonly weekly progress update #33](https://dev.to/moonly/moonly-weekly-progress-update-33-2h6)
 - [Lifehacker] [Three Ways to Clean Under Your Oven and Refrigerator Without Moving Them](https://lifehacker.com/three-ways-to-clean-under-your-oven-and-refrigerator-wi-1850024896)
 - [Lifehacker] [&#39;The Last of Us,&#39; and 11 Other Things to Never Watch If You Hate Body Horror](https://lifehacker.com/the-last-of-us-and-11-other-things-to-never-watch-if-y-1850022213)
 - [Lifehacker] [35 Movies Nominated for the 2023 Oscars &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/35-movies-nominated-for-the-2023-oscars-and-where-to-s-1850024206)
