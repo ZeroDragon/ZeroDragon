@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stockholm Syndrome, Midlife Crises, and 10 More Suss &#39;Phenomena&#39; in Pop Psychology](https://lifehacker.com/stockholm-syndrome-midlife-crises-and-10-more-suss-ph-1850020831)
+- [Dev.to/JS] [How to structure your React app](https://dev.to/fabienschlegel/how-to-structure-your-react-app-4eb6)
+- [Dev.to/JS] [HOW TO RUN ANGULAR BUILD LOCALLY](https://dev.to/himanshudevgupta/how-to-run-angular-build-locally-4525)
+- [Dev.to/JS] [How to start node.js app with pm2](https://dev.to/himanshudevgupta/how-to-start-nodejs-app-with-pm2-3k16)
+- [Dev.to/JS] [The Difference of “var” vs “let” vs “const” in Javascript](https://dev.to/himanshudevgupta/the-difference-of-var-vs-let-vs-const-in-javascript-2c22)
 - [Dev.to/JS] [Building Dynamic Table Pagination in React JS](https://dev.to/aneeqakhan/building-dynamic-table-pagination-in-react-js-ga0)
 - [Dev.to/JS] [What are the 5 JavaScript Mathematical Operators?](https://dev.to/max88git/what-are-the-5-javascript-mathematical-operators-1en0)
 - [Dev.to/JS] [Diário de bordo #7](https://dev.to/analuisadev/diario-de-bordo-7-16oh)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Secure Your AWS Lambdas with TypeScript](https://dev.to/appsignal/secure-your-aws-lambdas-with-typescript-46a7)
 - [Dev.to/JS] [20 Best Libraries and Tools for React Developers](https://dev.to/devland/20-best-libraries-and-tools-for-react-developers-4m62)
 - [Dev.to/JS] [Callback in JavaScript](https://dev.to/mofijulhaque/callback-in-javascript-icg)
-- [Dev.to/JS] [Where to store data in chrome extension ?](https://dev.to/ambujsahu81/where-to-store-data-in-chrome-extension--1be6)
-- [Dev.to/JS] [Simple CQRS in NodeJS with Typescript](https://dev.to/rusfighter/simple-cqrs-in-nodejs-with-typescript-48mi)
-- [Dev.to/JS] [Current Affairs for UPSC CSE 2023 – Sources &amp; Preparation Strategy](https://dev.to/gsscore/current-affairs-for-upsc-cse-2023-sources-preparation-strategy-c)
-- [Dev.to/JS] [Closure in JavaScript](https://dev.to/mofijulhaque/closure-in-javascript-56h3)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
 - [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 Unexpected Household Uses for the Humble Pool Noodle](https://lifehacker.com/14-unexpected-household-uses-for-the-humble-pool-noodle-1850019454)
 - [Lifehacker] [These Joystick Replacements Might Fix Your Joy-Con Drift for Good](https://lifehacker.com/these-joystick-replacements-might-fix-your-joy-con-drif-1850018788)
 - [Lifehacker] [Everything New in iOS 16.3](https://lifehacker.com/everything-new-in-ios-16-3-1850019181)
-- [Lifehacker] [Why Every Homeowner Should Have a HELOC Ready to Go](https://lifehacker.com/why-every-homeowner-should-have-a-heloc-ready-to-go-1850018785)
-- [Lifehacker] [How to Build a Parenting ‘Village’ When You Feel Isolated](https://lifehacker.com/how-to-build-a-parenting-village-when-you-feel-isolat-1850018379)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Every Homeowner Should Have a HELOC Ready to Go](https://lifehacker.com/why-every-homeowner-should-have-a-heloc-ready-to-go-1850018785)<!-- TECH-POSTS:END -->
 
 ---
 
