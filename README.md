@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use PassportJS for authentication in NodeJS](https://dev.to/arinze19/how-to-use-passportjs-for-authentication-in-nodejs-3e59)
+- [Dev.to/JS] [Weekly web development resources #134](https://dev.to/vincenius/weekly-web-development-resources-134-47p1)
+- [Dev.to/JS] [Best 5 EmberJS Development Agencies](https://dev.to/codersnews/best-5-emberjs-development-agencies-44o0)
+- [Dev.to/JS] [A Beginner’s Guide to the useEffect Hook in React](https://dev.to/sidddabdullah/a-beginners-guide-to-the-useeffect-hook-in-react-2li0)
 - [Dev.to/JS] [Top React Libraries of 2023](https://dev.to/thisissouray/top-react-libraries-of-2023-4476)
 - [Dev.to/JS] [How To Make Date Range Filter in React JS](https://dev.to/reactjsguru/how-to-make-date-range-filter-in-react-js-5h4p)
 - [Dev.to/JS] [How To Validate Multiple Checkbox In jQuery](https://dev.to/techsolutionstuff/how-to-validate-multiple-checkbox-in-jquery-1fbn)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Short-Circuit Evaluation &amp; Conditional Rendering in React](https://dev.to/llleeeaaannn/short-circuit-evaluation-conditional-rendering-in-react-2053)
 - [Dev.to/JS] [EasyOrder](https://dev.to/miguelgallardof/easyorder-la7)
 - [Dev.to/JS] [3.1.0 is the first minor release after Nuxt 3.0 is out](https://dev.to/awaisalwaisy/310-is-the-first-minor-release-after-nuxt-30-is-out-1b7a)
-- [Dev.to/JS] [4 simple ways for developers to earn an extra $500 per month](https://dev.to/rahul3002/4-simple-ways-for-developers-to-earn-an-extra-500-per-month-53b7)
-- [Dev.to/JS] [Using internationalization with i18n](https://dev.to/walternascimentobarroso/using-internationalization-with-i18n-2964)
-- [Dev.to/JS] [Unlock Your Design Potential: Discover the Must-Have Figma Plugins of 2023](https://dev.to/nitinfab/unlock-your-design-potential-discover-the-must-have-figma-plugins-of-2023-56cg)
-- [Dev.to/JS] [WebSockets protocol: Innovating your projects with efficiently live communication.](https://dev.to/dealer30/websockets-protocol-innovating-your-projects-with-efficiently-live-communication-3526)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
 - [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
