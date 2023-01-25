@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top React Libraries of 2023](https://dev.to/thisissouray/top-react-libraries-of-2023-4476)
+- [Dev.to/JS] [How To Make Date Range Filter in React JS](https://dev.to/reactjsguru/how-to-make-date-range-filter-in-react-js-5h4p)
+- [Dev.to/JS] [How To Validate Multiple Checkbox In jQuery](https://dev.to/techsolutionstuff/how-to-validate-multiple-checkbox-in-jquery-1fbn)
 - [Dev.to/JS] [What is the difference between == and === operators](https://dev.to/vamsi_76_89/what-is-the-difference-between-and-operators-34cf)
 - [Dev.to/JS] [Introduction to Javascript book](https://dev.to/friendlyuser/introduction-to-javascript-book-3emo)
 - [Dev.to/JS] [Short-Circuit Evaluation &amp; Conditional Rendering in React](https://dev.to/llleeeaaannn/short-circuit-evaluation-conditional-rendering-in-react-2053)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using internationalization with i18n](https://dev.to/walternascimentobarroso/using-internationalization-with-i18n-2964)
 - [Dev.to/JS] [Unlock Your Design Potential: Discover the Must-Have Figma Plugins of 2023](https://dev.to/nitinfab/unlock-your-design-potential-discover-the-must-have-figma-plugins-of-2023-56cg)
 - [Dev.to/JS] [WebSockets protocol: Innovating your projects with efficiently live communication.](https://dev.to/dealer30/websockets-protocol-innovating-your-projects-with-efficiently-live-communication-3526)
-- [Dev.to/JS] [Help with React Router 😫](https://dev.to/taepal467/help-with-react-router-1gm)
-- [Dev.to/JS] [Red Boost - Health Supplement, Uses, Price &amp; Side Effects?](https://dev.to/redboost8/red-boost-health-supplement-uses-price-side-effects-42pf)
-- [Dev.to/JS] [Created a visually stunning front-end experience with basic technologies](https://dev.to/jeremy0x/created-a-visually-stunning-front-end-experience-with-basic-technologies-4g1d)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
 - [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
