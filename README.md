@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ace your next JavaScript Interview with these 7 Common Questions and Answers 💻](https://dev.to/naubit/ace-your-next-javascript-interview-with-these-7-common-questions-and-answers-49co)
+- [Dev.to/JS] [Use JavaScript to Navigate Through a Table And Other Elements](https://dev.to/codegaze/use-javascript-to-navigate-through-a-table-and-other-elements-26b6)
+- [Lifehacker] [What&#39;s New on Netflix in February 2023](https://lifehacker.com/whats-new-on-netflix-in-february-2023-1850029812)
+- [Dev.to/JS] [JSTools Weekly - 2023#3](https://dev.to/jstoolsweekly/jstools-weekly-20233-4k95)
+- [Lifehacker] [7 of the Best Cleaning Methods When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
 - [Dev.to/JS] [Create User Interfaces on the Canvas as easy as it has never been](https://dev.to/martiserra99/create-user-interfaces-on-the-canvas-as-easy-as-it-has-never-been-j3c)
 - [Lifehacker] [You Can Buy These New Cars Without Stepping Foot in a Dealership](https://lifehacker.com/you-can-buy-these-new-cars-without-stepping-foot-in-a-d-1850026712)
 - [Dev.to/JS] [GeoPicker](https://dev.to/stefcud/geopicker-2cm2)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [📚 String methods in JavaScript - Part 2](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-2o6b)
 - [Dev.to/JS] [Digital Identity and SIWE](https://dev.to/gbibeaul/hello-world-3p5c)
 - [Lifehacker] [16 Post-Apocalyptic TV Shows, but Zombies Had Nothing to Do With It](https://lifehacker.com/16-post-apocalyptic-tv-shows-but-zombies-had-nothing-t-1850018558)
-- [Dev.to/JS] [Creating a website brand with ChatGPT, Stable Diffusion, React and NodeJS 🤯](https://dev.to/novu/creating-a-website-brand-with-chatgpt-stable-diffusion-react-and-nodejs-e79)
-- [Dev.to/JS] [How to build a quote search app with React and Tailwind CSS](https://dev.to/coderamrin/how-to-build-a-quote-search-app-with-react-and-tailwind-css-19h3)
 - [Lifehacker] [‘Woke’ M&amp;Ms and 8 Other Ridiculous Moral Panics Throughout History](https://lifehacker.com/woke-m-ms-and-8-other-ridiculous-moral-panics-through-1850028075)
-- [Dev.to/JS] [Why I&#39;m using `lodash/fp` and you should too](https://dev.to/viktorbezdek/why-im-using-lodashfp-and-you-should-too-3k0h)
 - [Lifehacker] [Stop Using Camera Covers for Your MacBook](https://lifehacker.com/stop-using-camera-covers-for-your-macbook-1850028773)
 - [Lifehacker] [Stockholm Syndrome, Midlife Crises, and 10 More Suss &#39;Phenomena&#39; in Pop Psychology](https://lifehacker.com/stockholm-syndrome-midlife-crises-and-10-more-suss-ph-1850020831)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Eight Types of Cheese You Should Have in Your Fridge at All Times](https://lifehacker.com/the-eight-types-of-cheese-you-should-have-in-your-fridg-1850020300)
 - [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
-- [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
-- [Lifehacker] [You&#39;re Watching Fetish Videos on TikTok Without Even Knowing It](https://lifehacker.com/youre-watching-fetish-videos-on-tiktok-without-even-kno-1850019997)
-- [Lifehacker] [You Should Claim Money From These Class-Action Settlements](https://lifehacker.com/you-should-claim-money-from-these-class-action-settleme-1850020120)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)<!-- TECH-POSTS:END -->
 
 ---
 
