@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create User Interfaces on the Canvas as easy as it has never been](https://dev.to/martiserra99/create-user-interfaces-on-the-canvas-as-easy-as-it-has-never-been-j3c)
+- [Lifehacker] [You Can Buy These New Cars Without Stepping Foot in a Dealership](https://lifehacker.com/you-can-buy-these-new-cars-without-stepping-foot-in-a-d-1850026712)
+- [Dev.to/JS] [GeoPicker](https://dev.to/stefcud/geopicker-2cm2)
+- [Dev.to/JS] [Senior Level Coding Style for Junior Developers😀](https://dev.to/samyog_dhital/senior-level-coding-style-for-junior-developers-efg)
+- [Dev.to/JS] [How to use Firestore with Redux in a React application](https://dev.to/emotta/how-to-use-firestore-with-redux-in-a-react-application-13bh)
+- [Lifehacker] [Explore the World of Custom iPhone Widgets](https://lifehacker.com/explore-the-world-of-custom-iphone-widgets-1850028209)
 - [Dev.to/JS] [A React library for creating stunning animated websites on scroll](https://dev.to/martiserra99/a-react-library-for-creating-stunning-animated-websites-on-scroll-2lem)
 - [Dev.to/JS] [What is NaN in JavaScript?](https://dev.to/uploadcare/what-is-nan-in-javascript-3i0e)
 - [Dev.to/JS] [How to use any NPM module with Browserify in the browser](https://dev.to/balvinder294/how-to-use-any-npm-module-with-browserify-in-the-browser-3pjl)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Woke’ M&amp;Ms and 8 Other Ridiculous Moral Panics Throughout History](https://lifehacker.com/woke-m-ms-and-8-other-ridiculous-moral-panics-through-1850028075)
 - [Dev.to/JS] [Why I&#39;m using `lodash/fp` and you should too](https://dev.to/viktorbezdek/why-im-using-lodashfp-and-you-should-too-3k0h)
 - [Lifehacker] [Stop Using Camera Covers for Your MacBook](https://lifehacker.com/stop-using-camera-covers-for-your-macbook-1850028773)
-- [Dev.to/JS] [This Week In React #132: Astro, Remix, Server Components, useGlobalState, Next.js, Redwood, Expo Router, Expo Image...](https://dev.to/sebastienlorber/this-week-in-react-132-astro-remix-server-components-useglobalstate-nextjs-redwood-expo-router-expo-image-14mn)
-- [Dev.to/JS] [6 Cheat Sheets Every Developer Should Have](https://dev.to/onlydevs_/6-cheat-sheets-every-developer-should-have-285l)
-- [Dev.to/JS] [Medusa’s New Feature: Order Editing](https://dev.to/medusajs/medusas-new-feature-order-editing-2ibl)
-- [Dev.to/JS] [My TikTok &lpar;ByteDance&rpar; Frontend Software Engineer Interview Experience](https://dev.to/alaster/my-tiktok-bytedance-frontend-software-engineer-interview-experience-dbn)
 - [Lifehacker] [Stockholm Syndrome, Midlife Crises, and 10 More Suss &#39;Phenomena&#39; in Pop Psychology](https://lifehacker.com/stockholm-syndrome-midlife-crises-and-10-more-suss-ph-1850020831)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
 - [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)
 - [Lifehacker] [You&#39;re Watching Fetish Videos on TikTok Without Even Knowing It](https://lifehacker.com/youre-watching-fetish-videos-on-tiktok-without-even-kno-1850019997)
-- [Lifehacker] [You Should Claim Money From These Class-Action Settlements](https://lifehacker.com/you-should-claim-money-from-these-class-action-settleme-1850020120)
-- [Lifehacker] [You’re Frying Your Chicken in the Wrong Oil](https://lifehacker.com/you-re-frying-your-chicken-in-the-wrong-oil-1850018801)
-- [Lifehacker] [14 Unexpected Household Uses for the Humble Pool Noodle](https://lifehacker.com/14-unexpected-household-uses-for-the-humble-pool-noodle-1850019454)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Claim Money From These Class-Action Settlements](https://lifehacker.com/you-should-claim-money-from-these-class-action-settleme-1850020120)<!-- TECH-POSTS:END -->
 
 ---
 
