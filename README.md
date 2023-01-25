@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Turn an Old TV Into Something Cool](https://lifehacker.com/how-to-turn-an-old-tv-into-something-cool-1850030373)
+- [Dev.to/JS] [Most Common Five TypeScript Errors](https://dev.to/cagkanmert/most-common-five-typescript-errors-5ce0)
+- [Dev.to/JS] [Aprofundamento das Funções de Array em JavaScript](https://dev.to/altencirsilvajr/aprofundamento-das-funcoes-de-array-em-javascript-5hc8)
+- [Lifehacker] [You Can Find Out What Your ‘Check Engine’ Light Means for Free](https://lifehacker.com/you-can-find-out-what-your-check-engine-light-means-f-1850030619)
+- [Dev.to/JS] [EssayPro Review](https://dev.to/liaamsmithh95/essaypro-review-3jka)
+- [Dev.to/JS] [Using the react-query library](https://dev.to/ikamran/using-the-react-query-library-nb3)
+- [Lifehacker] [Fix Your PC’s Broken Start Menu](https://lifehacker.com/fix-your-pc-s-broken-start-menu-1850029801)
 - [Dev.to/JS] [Ace your next JavaScript Interview with these 7 Common Questions and Answers 💻](https://dev.to/naubit/ace-your-next-javascript-interview-with-these-7-common-questions-and-answers-49co)
 - [Dev.to/JS] [Use JavaScript to Navigate Through a Table And Other Elements](https://dev.to/codegaze/use-javascript-to-navigate-through-a-table-and-other-elements-26b6)
 - [Lifehacker] [What&#39;s New on Netflix in February 2023](https://lifehacker.com/whats-new-on-netflix-in-february-2023-1850029812)
@@ -35,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Firestore with Redux in a React application](https://dev.to/emotta/how-to-use-firestore-with-redux-in-a-react-application-13bh)
 - [Lifehacker] [Explore the World of Custom iPhone Widgets](https://lifehacker.com/explore-the-world-of-custom-iphone-widgets-1850028209)
 - [Dev.to/JS] [A React library for creating stunning animated websites on scroll](https://dev.to/martiserra99/a-react-library-for-creating-stunning-animated-websites-on-scroll-2lem)
-- [Dev.to/JS] [What is NaN in JavaScript?](https://dev.to/uploadcare/what-is-nan-in-javascript-3i0e)
-- [Dev.to/JS] [How to use any NPM module with Browserify in the browser](https://dev.to/balvinder294/how-to-use-any-npm-module-with-browserify-in-the-browser-3pjl)
-- [Dev.to/JS] [📚 String methods in JavaScript - Part 2](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-2o6b)
-- [Dev.to/JS] [Digital Identity and SIWE](https://dev.to/gbibeaul/hello-world-3p5c)
 - [Lifehacker] [16 Post-Apocalyptic TV Shows, but Zombies Had Nothing to Do With It](https://lifehacker.com/16-post-apocalyptic-tv-shows-but-zombies-had-nothing-t-1850018558)
 - [Lifehacker] [‘Woke’ M&amp;Ms and 8 Other Ridiculous Moral Panics Throughout History](https://lifehacker.com/woke-m-ms-and-8-other-ridiculous-moral-panics-through-1850028075)
 - [Lifehacker] [Stop Using Camera Covers for Your MacBook](https://lifehacker.com/stop-using-camera-covers-for-your-macbook-1850028773)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/why-you-should-start-texting-yourself-in-whatsapp-1850023373)
 - [Lifehacker] [Three Ways Personality Tests Can Do More Harm Than Good](https://lifehacker.com/three-ways-personality-tests-can-do-more-harm-than-good-1850023002)
 - [Lifehacker] [You Can Now Book an Apartment Tour in the Zillow App](https://lifehacker.com/you-can-now-book-an-apartment-tour-in-the-zillow-app-1850020877)
-- [Lifehacker] [The Eight Types of Cheese You Should Have in Your Fridge at All Times](https://lifehacker.com/the-eight-types-of-cheese-you-should-have-in-your-fridg-1850020300)
-- [Lifehacker] [How to Delete Your House’s Pictures From Sites Like Zillow, Redfin, and Realtor](https://lifehacker.com/how-to-delete-your-house-s-pictures-from-sites-like-zil-1850020773)
-- [Lifehacker] [What&#39;s New on Prime Video in February 2023](https://lifehacker.com/whats-new-on-prime-video-in-february-2023-1850020479)
-- [Lifehacker] [Don’t Bring Bedbugs Home From Vacation](https://lifehacker.com/don-t-bring-bedbugs-home-from-vacation-1850020051)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Eight Types of Cheese You Should Have in Your Fridge at All Times](https://lifehacker.com/the-eight-types-of-cheese-you-should-have-in-your-fridg-1850020300)<!-- TECH-POSTS:END -->
 
 ---
 
