@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Dynamic Table Pagination in React JS](https://dev.to/aneeqakhan/building-dynamic-table-pagination-in-react-js-ga0)
+- [Dev.to/JS] [What are the 5 JavaScript Mathematical Operators?](https://dev.to/max88git/what-are-the-5-javascript-mathematical-operators-1en0)
+- [Dev.to/JS] [Diário de bordo #7](https://dev.to/analuisadev/diario-de-bordo-7-16oh)
+- [Dev.to/JS] [Javascript Guide: Advanced JS](https://dev.to/anujnegi_/javascript-guide-advanced-js-all)
+- [Dev.to/JS] [How to Style and Customize HTML File Input in React](https://dev.to/danireptor/how-to-style-and-customize-html-file-input-in-react-54fo)
 - [Dev.to/JS] [Secure Your AWS Lambdas with TypeScript](https://dev.to/appsignal/secure-your-aws-lambdas-with-typescript-46a7)
 - [Dev.to/JS] [20 Best Libraries and Tools for React Developers](https://dev.to/devland/20-best-libraries-and-tools-for-react-developers-4m62)
 - [Dev.to/JS] [Callback in JavaScript](https://dev.to/mofijulhaque/callback-in-javascript-icg)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple CQRS in NodeJS with Typescript](https://dev.to/rusfighter/simple-cqrs-in-nodejs-with-typescript-48mi)
 - [Dev.to/JS] [Current Affairs for UPSC CSE 2023 – Sources &amp; Preparation Strategy](https://dev.to/gsscore/current-affairs-for-upsc-cse-2023-sources-preparation-strategy-c)
 - [Dev.to/JS] [Closure in JavaScript](https://dev.to/mofijulhaque/closure-in-javascript-56h3)
-- [Dev.to/JS] [Leitura e gravação de URL mais seguras em JavaScript moderno](https://dev.to/oieduardorabelo/leitura-e-gravacao-de-url-mais-seguras-em-javascript-moderno-2dj5)
-- [Dev.to/JS] [&quot;this&quot; keyword in JavaScript](https://dev.to/mofijulhaque/this-keyword-in-javascript-kh4)
-- [Dev.to/JS] [Automating Visual Testing with Playwright, Argos and GitHub Actions](https://dev.to/jsfez/automating-visual-testing-with-playwright-argos-and-github-actions-2fp1)
-- [Dev.to/JS] [How to use PassportJS for authentication in NodeJS](https://dev.to/arinze19/how-to-use-passportjs-for-authentication-in-nodejs-3e59)
-- [Dev.to/JS] [Weekly web development resources #134](https://dev.to/vincenius/weekly-web-development-resources-134-47p1)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
 - [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
