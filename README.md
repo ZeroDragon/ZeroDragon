@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3.2 - How to create a Conference with Clark Sell](https://dev.to/codingcatdev/32-how-to-create-a-conference-with-clark-sell-m2k)
+- [Lifehacker] [When Does an Old iPhone Become a Security Risk?](https://lifehacker.com/when-does-an-old-iphone-become-a-security-risk-1850031165)
+- [Lifehacker] [6 of the Best Drinking Games to Play During Super Bowl LVII](https://lifehacker.com/6-of-the-best-drinking-games-to-play-during-super-bowl-1850029952)
 - [Dev.to/JS] [VueJs + ThreeJs Primera parte. Template](https://dev.to/jaimebboyjt/vuejs-threejs-primera-parte-template-10ph)
 - [Lifehacker] [10 Professional Kitchen Tools I Use in My Home Kitchen](https://lifehacker.com/10-professional-kitchen-tools-i-use-in-my-home-kitchen-1850030795)
 - [Dev.to/JS] [LeetCode #118 Pascal&#39;s Triangle with JavaScript](https://dev.to/masakifukunishi/leetcode-118-pascals-triangle-with-javascript-5bb2)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create User Interfaces on the Canvas as easy as it has never been](https://dev.to/martiserra99/create-user-interfaces-on-the-canvas-as-easy-as-it-has-never-been-j3c)
 - [Lifehacker] [You Can Buy These New Cars Without Stepping Foot in a Dealership](https://lifehacker.com/you-can-buy-these-new-cars-without-stepping-foot-in-a-d-1850026712)
 - [Dev.to/JS] [GeoPicker](https://dev.to/stefcud/geopicker-2cm2)
-- [Dev.to/JS] [Senior Level Coding Style for Junior Developers😀](https://dev.to/samyog_dhital/senior-level-coding-style-for-junior-developers-efg)
 - [Lifehacker] [Explore the World of Custom iPhone Widgets](https://lifehacker.com/explore-the-world-of-custom-iphone-widgets-1850028209)
 - [Lifehacker] [16 Post-Apocalyptic TV Shows, but Zombies Had Nothing to Do With It](https://lifehacker.com/16-post-apocalyptic-tv-shows-but-zombies-had-nothing-t-1850018558)
 - [Lifehacker] [‘Woke’ M&amp;Ms and 8 Other Ridiculous Moral Panics Throughout History](https://lifehacker.com/woke-m-ms-and-8-other-ridiculous-moral-panics-through-1850028075)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [35 Movies Nominated for the 2023 Oscars &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/35-movies-nominated-for-the-2023-oscars-and-where-to-s-1850024206)
 - [Lifehacker] [This Corn Dog Casserole Will Be Your New Favorite Super Bowl Dish](https://lifehacker.com/this-corn-dog-casserole-will-be-your-new-favorite-super-1850024106)
 - [Lifehacker] [How to Shovel Snow Without Hurting Your Back](https://lifehacker.com/how-to-shovel-snow-without-hurting-your-back-1850023424)
-- [Lifehacker] [Why You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/why-you-should-start-texting-yourself-in-whatsapp-1850023373)
-- [Lifehacker] [Three Ways Personality Tests Can Do More Harm Than Good](https://lifehacker.com/three-ways-personality-tests-can-do-more-harm-than-good-1850023002)
-- [Lifehacker] [You Can Now Book an Apartment Tour in the Zillow App](https://lifehacker.com/you-can-now-book-an-apartment-tour-in-the-zillow-app-1850020877)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Start Texting Yourself in WhatsApp](https://lifehacker.com/why-you-should-start-texting-yourself-in-whatsapp-1850023373)<!-- TECH-POSTS:END -->
 
 ---
 
