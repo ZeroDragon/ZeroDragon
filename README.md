@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Add AJAX Loader In jQuery](https://dev.to/techsolutionstuff/how-to-add-ajax-loader-in-jquery-2m25)
+- [Dev.to/JS] [Make a Final Term Calculator](https://dev.to/hyunseunglee2008/make-a-final-term-calculator-3k06)
+- [Dev.to/JS] [12 best AI websites to make your life easier [save 100s of hours]](https://dev.to/hy_piyush/12-best-ai-websites-to-make-your-life-easier-save-100s-of-hours-48ji)
+- [Dev.to/JS] [Javascript little mistakes that can cause bugs in code](https://dev.to/malikhaziq/javascript-little-mistakes-that-can-cause-bugs-in-code-36i8)
 - [Dev.to/JS] [How to pass an app review and start selling what you created? [video course]](https://dev.to/livechat/how-to-pass-an-app-review-and-start-selling-what-you-created-video-course-2a22)
 - [Dev.to/JS] [Serverless Security: How to Secure Your Serverless Applications](https://dev.to/scofieldidehen/serverless-security-how-to-secure-your-serverless-applications-3f10)
 - [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/mike26mbsc/asynchronous-javascript-10fc)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developer Nation is Rewarding Developers With Cash For Taking Survey](https://dev.to/femisonic/developer-nation-is-rewarding-developers-with-cash-for-taking-survey-12ik)
 - [Dev.to/JS] [Easy way to make money through Crypto Trading Bot and mining bot](https://dev.to/danielapaul/easy-way-to-make-money-through-crypto-trading-bot-and-mining-bot-84h)
 - [Dev.to/JS] [Supabase &amp; Metamask Signed Authentication &lpar;Web3&rpar;](https://dev.to/59023g/supabase-metamask-signed-authentication-web3-53e1)
-- [Dev.to/JS] [Dynamically required fields in Joi](https://dev.to/diogoko/dynamically-required-fields-in-joi-17mj)
-- [Dev.to/JS] [Fun With Flags](https://dev.to/jansellopez/fun-with-flags-42io)
-- [Dev.to/JS] [Your preferred framework for simple web apps?](https://dev.to/sdgm/your-preferred-framework-for-simple-web-apps-5b90)
-- [Dev.to/JS] [Getting started with Web Development](https://dev.to/henry_sanderson/getting-started-with-web-development-ldl)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
