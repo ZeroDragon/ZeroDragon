@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Node.js API Proxy to supercharge your backend](https://dev.to/dashsaurabh/build-a-nodejs-api-proxy-to-supercharge-your-backend-42f3)
+- [Dev.to/JS] [Test for dynamically created elements like time and token with jest&lpar;spys&rpar;](https://dev.to/csituma/test-for-dynamically-created-elements-like-time-and-token-with-jestspys-5a2b)
+- [Dev.to/JS] [Expose your work with ngrok and localtunnel](https://dev.to/antopiras89/expose-your-work-with-ngrok-and-localtunnel-1p0j)
 - [Dev.to/JS] [&lpar; &#39;scrollend&#39; &rpar; A New JS Event](https://dev.to/murtazajooo/scrollend-a-new-js-event-10ac)
 - [Dev.to/JS] [Blazingly Fast Typescript Project Generator⚡](https://dev.to/vader/blazingly-fast-typescript-project-generator-11od)
 - [Dev.to/JS] [Difference between functions and methods in JavaScript](https://dev.to/catherineisonline/difference-between-functions-and-methods-in-javascript-14np)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 best AI websites to make your life easier [save 100s of hours]](https://dev.to/hy_piyush/12-best-ai-websites-to-make-your-life-easier-save-100s-of-hours-48ji)
 - [Dev.to/JS] [Javascript little mistakes that can cause bugs in code](https://dev.to/malikhaziq/javascript-little-mistakes-that-can-cause-bugs-in-code-36i8)
 - [Dev.to/JS] [How to pass an app review and start selling what you created? [video course]](https://dev.to/livechat/how-to-pass-an-app-review-and-start-selling-what-you-created-video-course-2a22)
-- [Dev.to/JS] [Serverless Security: How to Secure Your Serverless Applications](https://dev.to/scofieldidehen/serverless-security-how-to-secure-your-serverless-applications-3f10)
-- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/mike26mbsc/asynchronous-javascript-10fc)
-- [Dev.to/JS] [Binary to text converter - JS](https://dev.to/walternascimentobarroso/binary-to-text-converter-js-142h)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
