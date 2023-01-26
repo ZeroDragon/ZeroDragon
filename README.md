@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reflection on Visitor Pattern in Typescript](https://dev.to/zenstack/reflection-on-visitor-pattern-in-typescript-4gjd)
+- [Dev.to/JS] [Unleashing the Power of ReactJS for Chrome Extension Development](https://dev.to/integridsolutions/unleashing-the-power-of-reactjs-for-chrome-extension-development-3kij)
+- [Dev.to/JS] [A step-by-step roadmap to mastering Javascript 🔥](https://dev.to/rammcodes/a-step-by-step-roadmap-to-mastering-javascript-3mcf)
+- [Dev.to/JS] [How to style your code correctly &lpar;full explanation&rpar;](https://dev.to/guilhermefront/how-to-style-your-code-correctly-full-explanation-4l89)
 - [Dev.to/JS] [Build a Node.js API Proxy to supercharge your backend](https://dev.to/dashsaurabh/build-a-nodejs-api-proxy-to-supercharge-your-backend-42f3)
 - [Dev.to/JS] [Test for dynamically created elements like time and token with jest&lpar;spys&rpar;](https://dev.to/csituma/test-for-dynamically-created-elements-like-time-and-token-with-jestspys-5a2b)
 - [Dev.to/JS] [Expose your work with ngrok and localtunnel](https://dev.to/antopiras89/expose-your-work-with-ngrok-and-localtunnel-1p0j)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Difference between functions and methods in JavaScript](https://dev.to/catherineisonline/difference-between-functions-and-methods-in-javascript-14np)
 - [Dev.to/JS] [Async React com NextJS 13](https://dev.to/oieduardorabelo/async-react-com-nextjs-13-391c)
 - [Dev.to/JS] [How To Add AJAX Loader In jQuery](https://dev.to/techsolutionstuff/how-to-add-ajax-loader-in-jquery-2m25)
-- [Dev.to/JS] [Make a Final Term Calculator](https://dev.to/hyunseunglee2008/make-a-final-term-calculator-3k06)
-- [Dev.to/JS] [12 best AI websites to make your life easier [save 100s of hours]](https://dev.to/hy_piyush/12-best-ai-websites-to-make-your-life-easier-save-100s-of-hours-48ji)
-- [Dev.to/JS] [Javascript little mistakes that can cause bugs in code](https://dev.to/malikhaziq/javascript-little-mistakes-that-can-cause-bugs-in-code-36i8)
-- [Dev.to/JS] [How to pass an app review and start selling what you created? [video course]](https://dev.to/livechat/how-to-pass-an-app-review-and-start-selling-what-you-created-video-course-2a22)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
