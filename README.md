@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy way to make money through Crypto Trading Bot and mining bot](https://dev.to/danielapaul/easy-way-to-make-money-through-crypto-trading-bot-and-mining-bot-84h)
+- [Dev.to/JS] [Supabase &amp; Metamask Signed Authentication &lpar;Web3&rpar;](https://dev.to/59023g/supabase-metamask-signed-authentication-web3-53e1)
 - [Dev.to/JS] [Dynamically required fields in Joi](https://dev.to/diogoko/dynamically-required-fields-in-joi-17mj)
 - [Dev.to/JS] [Fun With Flags](https://dev.to/jansellopez/fun-with-flags-42io)
 - [Dev.to/JS] [Your preferred framework for simple web apps?](https://dev.to/sdgm/your-preferred-framework-for-simple-web-apps-5b90)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 of the Best Drinking Games to Play During Super Bowl LVII](https://lifehacker.com/6-of-the-best-drinking-games-to-play-during-super-bowl-1850029952)
 - [Dev.to/JS] [VueJs + ThreeJs Primera parte. Template](https://dev.to/jaimebboyjt/vuejs-threejs-primera-parte-template-10ph)
 - [Lifehacker] [10 Professional Kitchen Tools I Use in My Home Kitchen](https://lifehacker.com/10-professional-kitchen-tools-i-use-in-my-home-kitchen-1850030795)
-- [Dev.to/JS] [LeetCode #118 Pascal&#39;s Triangle with JavaScript](https://dev.to/masakifukunishi/leetcode-118-pascals-triangle-with-javascript-5bb2)
 - [Lifehacker] [How to Turn an Old TV Into Something Cool](https://lifehacker.com/how-to-turn-an-old-tv-into-something-cool-1850030373)
-- [Dev.to/JS] [Most Common Five TypeScript Errors](https://dev.to/cagkanmert/most-common-five-typescript-errors-5ce0)
 - [Lifehacker] [You Can Find Out What Your ‘Check Engine’ Light Means for Free](https://lifehacker.com/you-can-find-out-what-your-check-engine-light-means-f-1850030619)
 - [Lifehacker] [Fix Your PC’s Broken Start Menu](https://lifehacker.com/fix-your-pc-s-broken-start-menu-1850029801)
 - [Lifehacker] [What&#39;s New on Netflix in February 2023](https://lifehacker.com/whats-new-on-netflix-in-february-2023-1850029812)
