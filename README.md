@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JavaScript SEO, and Why You Should Care?](https://dev.to/cyrilmuchemi/what-is-javascript-seo-and-why-you-should-care-3b1b)
+- [Dev.to/JS] [Street Programmer: React Table Trigger Changed Without SWR](https://dev.to/darkterminal/street-programmer-react-table-trigger-changed-without-swr-3902)
+- [Dev.to/JS] [Rails validations, Exceptions, and Error Handling](https://dev.to/williamluck/rails-validations-exceptions-and-error-handling-1g1h)
+- [Dev.to/JS] [Easily update your Web App&#39;s manifest file with react-manifest npm library](https://dev.to/arshadyaseen/easily-update-your-web-apps-manifest-file-with-react-manifest-npm-library-3hae)
+- [Lifehacker] [What&#39;s New on HBO Max in February 2023](https://lifehacker.com/whats-new-on-hbo-max-in-february-2023-1850035205)
+- [Dev.to/JS] [A guide to visual debugging with Vitest Preview](https://dev.to/logrocket/a-guide-to-visual-debugging-with-vitest-preview-24of)
 - [Lifehacker] [The Easy Way to Gradually Clean Your Cluttered Camera Roll](https://lifehacker.com/the-easy-way-to-gradually-clean-your-cluttered-camera-r-1850034918)
 - [Dev.to/JS] [Pagination : When to use server side and client side pagination](https://dev.to/lakincoder/pagination-when-to-use-server-side-and-client-side-pagination-38d9)
 - [Lifehacker] [The Quickest, Coziest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533)
@@ -35,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Solve REVERSING A STRING JavaScript &lpar;SOLVED&rpar; | Coding Challenge - Solution For Beginners](https://dev.to/geekelo/how-to-solve-reversing-a-string-javascript-solved-coding-challenge-solution-for-beginners-444k)
 - [Dev.to/JS] [Movie App With Next.js 13, TailwindCSS &amp; TypeScript 😍](https://dev.to/said_mounaim/movie-app-with-nextjs-13-tailwindcss-typescript-386m)
 - [Lifehacker] [11 Ways to Make Your Soup More Satisfying](https://lifehacker.com/11-ways-to-make-your-soup-more-satisfying-1850030707)
-- [Dev.to/JS] [JavaScript Password Strength Validation Example &lpar;PURE JS&rpar;](https://dev.to/khodzhaev/javascript-password-strength-validation-example-pure-js-2c4i)
-- [Dev.to/JS] [JavaScript Data Type](https://dev.to/khalilnazari/javascript-data-type-51hb)
-- [Dev.to/JS] [O que é &quot;use strict&quot;; a variante independente do JavaScript](https://dev.to/altencirsilvajr/o-que-e-use-strict-a-variante-independente-do-javascript-g32)
 - [Lifehacker] [Yes, You Need to Start Planning Now for Summer Camps](https://lifehacker.com/yes-you-need-to-start-planning-now-for-summer-camps-1850029280)
-- [Dev.to/JS] [How to Set Up a Proxy Server in React | Dealing with CORS](https://dev.to/codeofrelevancy/how-to-set-up-a-proxy-server-in-react-dealing-with-cors-87e)
 - [Lifehacker] [Why Eggs Are so Expensive Right Now](https://lifehacker.com/why-eggs-are-so-expensive-right-now-1850031342)
-- [Dev.to/JS] [Web Crawling and Web Scraping: Different Techniques for Different Goals](https://dev.to/savvyengineer/web-crawling-and-web-scraping-different-techniques-for-different-goals-1go5)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using Camera Covers for Your MacBook](https://lifehacker.com/stop-using-camera-covers-for-your-macbook-1850028773)
 - [Lifehacker] [Stockholm Syndrome, Midlife Crises, and 10 More Suss &#39;Phenomena&#39; in Pop Psychology](https://lifehacker.com/stockholm-syndrome-midlife-crises-and-10-more-suss-ph-1850020831)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
-- [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
-- [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)<!-- TECH-POSTS:END -->
 
 ---
 
