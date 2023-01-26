@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The programming language of the Web - And the Oscar goes to…?!](https://dev.to/doctorlai/the-programming-language-of-the-web-and-the-oscar-goes-to-2dpl)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Dev.to/JS] [Default image load, while error happen at image loading time](https://dev.to/taiseen/default-image-load-while-error-happen-at-image-loading-time-2h0a)
 - [Dev.to/JS] [Six Words -- A Unique Fullstack Application](https://dev.to/stcollier/six-words-a-unique-fullstack-application-53lm)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ace your next JavaScript Interview with these 7 Common Questions and Answers 💻](https://dev.to/naubit/ace-your-next-javascript-interview-with-these-7-common-questions-and-answers-49co)
 - [Dev.to/JS] [Use JavaScript to Navigate Through a Table And Other Elements](https://dev.to/codegaze/use-javascript-to-navigate-through-a-table-and-other-elements-26b6)
 - [Lifehacker] [What&#39;s New on Netflix in February 2023](https://lifehacker.com/whats-new-on-netflix-in-february-2023-1850029812)
-- [Dev.to/JS] [JSTools Weekly - 2023#3](https://dev.to/jstoolsweekly/jstools-weekly-20233-4k95)
 - [Lifehacker] [7 of the Best Cleaning Methods When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
 - [Lifehacker] [You Can Buy These New Cars Without Stepping Foot in a Dealership](https://lifehacker.com/you-can-buy-these-new-cars-without-stepping-foot-in-a-d-1850026712)
 - [Lifehacker] [Explore the World of Custom iPhone Widgets](https://lifehacker.com/explore-the-world-of-custom-iphone-widgets-1850028209)
