@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamically required fields in Joi](https://dev.to/diogoko/dynamically-required-fields-in-joi-17mj)
+- [Dev.to/JS] [Fun With Flags](https://dev.to/jansellopez/fun-with-flags-42io)
+- [Dev.to/JS] [Your preferred framework for simple web apps?](https://dev.to/sdgm/your-preferred-framework-for-simple-web-apps-5b90)
+- [Dev.to/JS] [Getting started with Web Development](https://dev.to/henry_sanderson/getting-started-with-web-development-ldl)
+- [Dev.to/JS] [Por que eu amo Remix? &lpar;por Kent C. Dodds&rpar;](https://dev.to/remix-run-br/por-que-eu-amo-remix-por-kent-c-dodds-4379)
 - [Dev.to/JS] [The programming language of the Web - And the Oscar goes to…?!](https://dev.to/doctorlai/the-programming-language-of-the-web-and-the-oscar-goes-to-2dpl)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Dev.to/JS] [Default image load, while error happen at image loading time](https://dev.to/taiseen/default-image-load-while-error-happen-at-image-loading-time-2h0a)
@@ -38,13 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode #118 Pascal&#39;s Triangle with JavaScript](https://dev.to/masakifukunishi/leetcode-118-pascals-triangle-with-javascript-5bb2)
 - [Lifehacker] [How to Turn an Old TV Into Something Cool](https://lifehacker.com/how-to-turn-an-old-tv-into-something-cool-1850030373)
 - [Dev.to/JS] [Most Common Five TypeScript Errors](https://dev.to/cagkanmert/most-common-five-typescript-errors-5ce0)
-- [Dev.to/JS] [Aprofundamento das Funções de Array em JavaScript](https://dev.to/altencirsilvajr/aprofundamento-das-funcoes-de-array-em-javascript-5hc8)
 - [Lifehacker] [You Can Find Out What Your ‘Check Engine’ Light Means for Free](https://lifehacker.com/you-can-find-out-what-your-check-engine-light-means-f-1850030619)
-- [Dev.to/JS] [EssayPro Review](https://dev.to/liaamsmithh95/essaypro-review-3jka)
-- [Dev.to/JS] [Using the react-query library](https://dev.to/ikamran/using-the-react-query-library-nb3)
 - [Lifehacker] [Fix Your PC’s Broken Start Menu](https://lifehacker.com/fix-your-pc-s-broken-start-menu-1850029801)
-- [Dev.to/JS] [Ace your next JavaScript Interview with these 7 Common Questions and Answers 💻](https://dev.to/naubit/ace-your-next-javascript-interview-with-these-7-common-questions-and-answers-49co)
-- [Dev.to/JS] [Use JavaScript to Navigate Through a Table And Other Elements](https://dev.to/codegaze/use-javascript-to-navigate-through-a-table-and-other-elements-26b6)
 - [Lifehacker] [What&#39;s New on Netflix in February 2023](https://lifehacker.com/whats-new-on-netflix-in-february-2023-1850029812)
 - [Lifehacker] [7 of the Best Cleaning Methods When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
 - [Lifehacker] [You Can Buy These New Cars Without Stepping Foot in a Dealership](https://lifehacker.com/you-can-buy-these-new-cars-without-stepping-foot-in-a-d-1850026712)
