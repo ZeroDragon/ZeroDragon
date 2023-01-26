@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Look for This Icon Before Buying on Google Flights](https://lifehacker.com/look-for-this-icon-before-buying-on-google-flights-1850036412)
+- [Lifehacker] [13 Video Game Adaptations Nearly As Good As &#39;The Last of Us&#39;](https://lifehacker.com/13-video-game-adaptations-nearly-as-good-as-the-last-of-1850029703)
 - [Dev.to/JS] [Nested Ternaries Considered Useful](https://dev.to/customcommander/nested-ternaries-considered-useful-plh)
 - [Lifehacker] [Build Your Next Breakfast Sandwich on French Toast](https://lifehacker.com/build-your-next-breakfast-sandwich-on-french-toast-1850035761)
 - [Dev.to/JS] [Select HTML Elements by ID, Class, Tag Name Using Vanilla JavaScript](https://dev.to/devtonight/select-html-elements-by-id-class-tag-name-using-vanilla-javascript-1co7)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Buy These New Cars Without Stepping Foot in a Dealership](https://lifehacker.com/you-can-buy-these-new-cars-without-stepping-foot-in-a-d-1850026712)
 - [Lifehacker] [Explore the World of Custom iPhone Widgets](https://lifehacker.com/explore-the-world-of-custom-iphone-widgets-1850028209)
 - [Lifehacker] [16 Post-Apocalyptic TV Shows, but Zombies Had Nothing to Do With It](https://lifehacker.com/16-post-apocalyptic-tv-shows-but-zombies-had-nothing-t-1850018558)
-- [Lifehacker] [‘Woke’ M&amp;Ms and 8 Other Ridiculous Moral Panics Throughout History](https://lifehacker.com/woke-m-ms-and-8-other-ridiculous-moral-panics-through-1850028075)
-- [Lifehacker] [Stop Using Camera Covers for Your MacBook](https://lifehacker.com/stop-using-camera-covers-for-your-macbook-1850028773)
-- [Lifehacker] [Stockholm Syndrome, Midlife Crises, and 10 More Suss &#39;Phenomena&#39; in Pop Psychology](https://lifehacker.com/stockholm-syndrome-midlife-crises-and-10-more-suss-ph-1850020831)<!-- TECH-POSTS:END -->
+- [Lifehacker] [‘Woke’ M&amp;Ms and 8 Other Ridiculous Moral Panics Throughout History](https://lifehacker.com/woke-m-ms-and-8-other-ridiculous-moral-panics-through-1850028075)<!-- TECH-POSTS:END -->
 
 ---
 
