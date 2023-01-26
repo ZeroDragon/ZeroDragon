@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nested Ternaries Considered Useful](https://dev.to/customcommander/nested-ternaries-considered-useful-plh)
+- [Lifehacker] [Build Your Next Breakfast Sandwich on French Toast](https://lifehacker.com/build-your-next-breakfast-sandwich-on-french-toast-1850035761)
+- [Dev.to/JS] [Select HTML Elements by ID, Class, Tag Name Using Vanilla JavaScript](https://dev.to/devtonight/select-html-elements-by-id-class-tag-name-using-vanilla-javascript-1co7)
+- [Dev.to/JS] [Introduction to Nuxt 3: Part 1](https://dev.to/alexandergekov/introduction-to-nuxt-3-part-1-5cdk)
+- [Dev.to/JS] [How to run Javascript](https://dev.to/baransel/how-to-run-javascript-leh)
+- [Lifehacker] [How Your Community’s ‘Walk Score’ Directly Impacts Your Life](https://lifehacker.com/how-your-community-s-walk-score-directly-impacts-your-1850035353)
 - [Dev.to/JS] [What is JavaScript SEO, and Why You Should Care?](https://dev.to/cyrilmuchemi/what-is-javascript-seo-and-why-you-should-care-3b1b)
 - [Dev.to/JS] [Street Programmer: React Table Trigger Changed Without SWR](https://dev.to/darkterminal/street-programmer-react-table-trigger-changed-without-swr-3902)
 - [Dev.to/JS] [Rails validations, Exceptions, and Error Handling](https://dev.to/williamluck/rails-validations-exceptions-and-error-handling-1g1h)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A little challenge in JavaScript &lpar;will be glad to read your solutions&rpar;](https://dev.to/zabdeldjallil/a-little-challenge-in-javascript-will-be-glad-to-read-your-solutions-1k3f)
 - [Lifehacker] [Five Apps You Should Install If You Use Multiple Mac Monitors](https://lifehacker.com/five-apps-you-should-install-if-you-use-multiple-mac-mo-1850033686)
 - [Dev.to/JS] [Everything You Need to Know to Choose a Modern JavaScript Framework](https://dev.to/get_pieces/everything-you-need-to-know-to-choose-a-modern-javascript-framework-3eg4)
-- [Dev.to/JS] [Flaky Tests, and How to Deal with Them](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
-- [Dev.to/JS] [SuperJSONatural -&gt; Faster &amp; binary serialization!](https://dev.to/vipert/superjsonatural-faster-binary-serialization-2c5j)
 - [Lifehacker] [You Can Save so Much Money at Salvage Stores](https://lifehacker.com/you-can-save-so-much-money-at-salvage-stores-1850031992)
-- [Dev.to/JS] [How to Solve REVERSING A STRING JavaScript &lpar;SOLVED&rpar; | Coding Challenge - Solution For Beginners](https://dev.to/geekelo/how-to-solve-reversing-a-string-javascript-solved-coding-challenge-solution-for-beginners-444k)
-- [Dev.to/JS] [Movie App With Next.js 13, TailwindCSS &amp; TypeScript 😍](https://dev.to/said_mounaim/movie-app-with-nextjs-13-tailwindcss-typescript-386m)
 - [Lifehacker] [11 Ways to Make Your Soup More Satisfying](https://lifehacker.com/11-ways-to-make-your-soup-more-satisfying-1850030707)
 - [Lifehacker] [Yes, You Need to Start Planning Now for Summer Camps](https://lifehacker.com/yes-you-need-to-start-planning-now-for-summer-camps-1850029280)
 - [Lifehacker] [Why Eggs Are so Expensive Right Now](https://lifehacker.com/why-eggs-are-so-expensive-right-now-1850031342)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 Post-Apocalyptic TV Shows, but Zombies Had Nothing to Do With It](https://lifehacker.com/16-post-apocalyptic-tv-shows-but-zombies-had-nothing-t-1850018558)
 - [Lifehacker] [‘Woke’ M&amp;Ms and 8 Other Ridiculous Moral Panics Throughout History](https://lifehacker.com/woke-m-ms-and-8-other-ridiculous-moral-panics-through-1850028075)
 - [Lifehacker] [Stop Using Camera Covers for Your MacBook](https://lifehacker.com/stop-using-camera-covers-for-your-macbook-1850028773)
-- [Lifehacker] [Stockholm Syndrome, Midlife Crises, and 10 More Suss &#39;Phenomena&#39; in Pop Psychology](https://lifehacker.com/stockholm-syndrome-midlife-crises-and-10-more-suss-ph-1850020831)
-- [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
-- [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stockholm Syndrome, Midlife Crises, and 10 More Suss &#39;Phenomena&#39; in Pop Psychology](https://lifehacker.com/stockholm-syndrome-midlife-crises-and-10-more-suss-ph-1850020831)<!-- TECH-POSTS:END -->
 
 ---
 
