@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use Mock Data Without Changing Internal Logic](https://dev.to/hopemanryan/how-to-use-mock-data-without-changing-internal-logic-49f4)
+- [Dev.to/JS] [Prennez en main redux](https://dev.to/cedric921/prennez-en-main-redux-1d3o)
+- [Dev.to/JS] [I&#39;m building an open-source VSCode chatbot extension with OpenAI / GPT3 in public](https://dev.to/lgrammel/im-building-an-open-source-vscodechatbot-extension-withopenai-gpt3-in-public-2f5b)
+- [Dev.to/JS] [useFetch, useLazyfetch with Nuxt 3](https://dev.to/guillaumeduhan/usefetch-uselazyfetch-with-nuxt-3-4mdj)
 - [Dev.to/JS] [Reflection on Visitor Pattern in Typescript](https://dev.to/zenstack/reflection-on-visitor-pattern-in-typescript-4gjd)
 - [Dev.to/JS] [Unleashing the Power of ReactJS for Chrome Extension Development](https://dev.to/integridsolutions/unleashing-the-power-of-reactjs-for-chrome-extension-development-3kij)
 - [Dev.to/JS] [A step-by-step roadmap to mastering Javascript 🔥](https://dev.to/rammcodes/a-step-by-step-roadmap-to-mastering-javascript-3mcf)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Test for dynamically created elements like time and token with jest&lpar;spys&rpar;](https://dev.to/csituma/test-for-dynamically-created-elements-like-time-and-token-with-jestspys-5a2b)
 - [Dev.to/JS] [Expose your work with ngrok and localtunnel](https://dev.to/antopiras89/expose-your-work-with-ngrok-and-localtunnel-1p0j)
 - [Dev.to/JS] [&lpar; &#39;scrollend&#39; &rpar; A New JS Event](https://dev.to/murtazajooo/scrollend-a-new-js-event-10ac)
-- [Dev.to/JS] [Blazingly Fast Typescript Project Generator⚡](https://dev.to/vader/blazingly-fast-typescript-project-generator-11od)
-- [Dev.to/JS] [Difference between functions and methods in JavaScript](https://dev.to/catherineisonline/difference-between-functions-and-methods-in-javascript-14np)
-- [Dev.to/JS] [Async React com NextJS 13](https://dev.to/oieduardorabelo/async-react-com-nextjs-13-391c)
-- [Dev.to/JS] [How To Add AJAX Loader In jQuery](https://dev.to/techsolutionstuff/how-to-add-ajax-loader-in-jquery-2m25)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
