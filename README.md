@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Apps You Should Install If You Use Multiple Mac Monitors](https://lifehacker.com/five-apps-you-should-install-if-you-use-multiple-mac-mo-1850033686)
+- [Dev.to/JS] [Everything You Need to Know to Choose a Modern JavaScript Framework](https://dev.to/get_pieces/everything-you-need-to-know-to-choose-a-modern-javascript-framework-3eg4)
+- [Dev.to/JS] [Flaky Tests, and How to Deal with Them](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
+- [Dev.to/JS] [SuperJSONatural -&gt; Faster &amp; binary serialization!](https://dev.to/vipert/superjsonatural-faster-binary-serialization-2c5j)
+- [Lifehacker] [You Can Save so Much Money at Salvage Stores](https://lifehacker.com/you-can-save-so-much-money-at-salvage-stores-1850031992)
+- [Dev.to/JS] [How to Solve REVERSING A STRING JavaScript &lpar;SOLVED&rpar; | Coding Challenge - Solution For Beginners](https://dev.to/geekelo/how-to-solve-reversing-a-string-javascript-solved-coding-challenge-solution-for-beginners-444k)
+- [Dev.to/JS] [Movie App With Next.js 13, TailwindCSS &amp; TypeScript 😍](https://dev.to/said_mounaim/movie-app-with-nextjs-13-tailwindcss-typescript-386m)
+- [Lifehacker] [11 Ways to Make Your Soup More Satisfying](https://lifehacker.com/11-ways-to-make-your-soup-more-satisfying-1850030707)
 - [Dev.to/JS] [JavaScript Password Strength Validation Example &lpar;PURE JS&rpar;](https://dev.to/khodzhaev/javascript-password-strength-validation-example-pure-js-2c4i)
 - [Dev.to/JS] [JavaScript Data Type](https://dev.to/khalilnazari/javascript-data-type-51hb)
 - [Dev.to/JS] [O que é &quot;use strict&quot;; a variante independente do JavaScript](https://dev.to/altencirsilvajr/o-que-e-use-strict-a-variante-independente-do-javascript-g32)
@@ -32,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Crawling and Web Scraping: Different Techniques for Different Goals](https://dev.to/savvyengineer/web-crawling-and-web-scraping-different-techniques-for-different-goals-1go5)
 - [Dev.to/JS] [Deep Cloning in JavaScript: The Modern Way. Use structuredClone](https://dev.to/matiasfha/deep-cloning-in-javascript-the-modern-way-use-structuredclone-1nej)
 - [Dev.to/JS] [Instagram log in page remade with HTML, CSS and JS](https://dev.to/georgeflorin/instagram-log-in-page-remade-with-html-css-and-js-18im)
-- [Dev.to/JS] [Day 1: The beginning!](https://dev.to/henriette/day-1-the-beginning-d8f)
-- [Dev.to/JS] [Create a Star Wars-Like Crawl Using CSS &amp; JavaScript](https://dev.to/designly/create-a-star-wars-like-crawl-using-css-javascript-4jke)
-- [Dev.to/JS] [Frameworks: Choosing between React, Angular and Vue.](https://dev.to/oluwatrillions/frameworks-choosing-between-react-angular-and-vue-48f3)
-- [Dev.to/JS] [What is the difference between ==, === and Object.is&lpar;&rpar; in JavaScript](https://dev.to/alaster/what-is-the-difference-between-and-objectis-in-javascript-nel)
-- [Dev.to/JS] [Whats Medusa an introduction part 1](https://dev.to/nfuhs/whats-medusa-an-introduction-part-1-3753)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
 - [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
 - [Lifehacker] [8 Surprising Household Uses for Chalk](https://lifehacker.com/8-surprising-household-uses-for-chalk-1850025875)
-- [Lifehacker] [Make Better Boxed Mac &amp; Cheese, Add an Egg Yolk](https://lifehacker.com/make-better-boxed-mac-cheese-add-an-egg-yolk-1850025468)
-- [Crazy Programmer] [10 Simple Image Slider HTML CSS JavaScript Examples](https://www.thecrazyprogrammer.com/2023/01/image-slider-html-css-javascript.html)
-- [Lifehacker] [Security Keys Are Now the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-now-the-best-way-to-protect-your-appl-1850024776)
-- [Lifehacker] [GoPro&#39;s Hero11 Black Mini Is Half Off Right Now](https://lifehacker.com/gopros-hero11-black-mini-is-half-off-right-now-1850024900)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Better Boxed Mac &amp; Cheese, Add an Egg Yolk](https://lifehacker.com/make-better-boxed-mac-cheese-add-an-egg-yolk-1850025468)<!-- TECH-POSTS:END -->
 
 ---
 
