@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Password Strength Validation Example &lpar;PURE JS&rpar;](https://dev.to/khodzhaev/javascript-password-strength-validation-example-pure-js-2c4i)
+- [Dev.to/JS] [JavaScript Data Type](https://dev.to/khalilnazari/javascript-data-type-51hb)
+- [Dev.to/JS] [O que é &quot;use strict&quot;; a variante independente do JavaScript](https://dev.to/altencirsilvajr/o-que-e-use-strict-a-variante-independente-do-javascript-g32)
+- [Lifehacker] [Yes, You Need to Start Planning Now for Summer Camps](https://lifehacker.com/yes-you-need-to-start-planning-now-for-summer-camps-1850029280)
+- [Dev.to/JS] [How to Set Up a Proxy Server in React | Dealing with CORS](https://dev.to/codeofrelevancy/how-to-set-up-a-proxy-server-in-react-dealing-with-cors-87e)
 - [Lifehacker] [Why Eggs Are so Expensive Right Now](https://lifehacker.com/why-eggs-are-so-expensive-right-now-1850031342)
 - [Dev.to/JS] [Web Crawling and Web Scraping: Different Techniques for Different Goals](https://dev.to/savvyengineer/web-crawling-and-web-scraping-different-techniques-for-different-goals-1go5)
 - [Dev.to/JS] [Deep Cloning in JavaScript: The Modern Way. Use structuredClone](https://dev.to/matiasfha/deep-cloning-in-javascript-the-modern-way-use-structuredclone-1nej)
 - [Dev.to/JS] [Instagram log in page remade with HTML, CSS and JS](https://dev.to/georgeflorin/instagram-log-in-page-remade-with-html-css-and-js-18im)
-- [Dev.to/JS] [Day 1: The beginning!](https://dev.to/mhenriette/day-1-the-beginning-d8f)
+- [Dev.to/JS] [Day 1: The beginning!](https://dev.to/henriette/day-1-the-beginning-d8f)
 - [Dev.to/JS] [Create a Star Wars-Like Crawl Using CSS &amp; JavaScript](https://dev.to/designly/create-a-star-wars-like-crawl-using-css-javascript-4jke)
 - [Dev.to/JS] [Frameworks: Choosing between React, Angular and Vue.](https://dev.to/oluwatrillions/frameworks-choosing-between-react-angular-and-vue-48f3)
 - [Dev.to/JS] [What is the difference between ==, === and Object.is&lpar;&rpar; in JavaScript](https://dev.to/alaster/what-is-the-difference-between-and-objectis-in-javascript-nel)
 - [Dev.to/JS] [Whats Medusa an introduction part 1](https://dev.to/nfuhs/whats-medusa-an-introduction-part-1-3753)
-- [Dev.to/JS] [Designing a Git-Like Flow in Ecommerce APIs](https://dev.to/medusajs/designing-a-git-like-flow-in-ecommerce-apis-2ade)
-- [Dev.to/JS] [Paracetamol.js💊| #201: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-201-explica-este-codigo-javascript-47e2)
-- [Dev.to/JS] [How To Use Mock Data Without Changing Internal Logic](https://dev.to/hopemanryan/how-to-use-mock-data-without-changing-internal-logic-49f4)
-- [Dev.to/JS] [Prennez en main redux](https://dev.to/cedric921/prennez-en-main-redux-1d3o)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better Boxed Mac &amp; Cheese, Add an Egg Yolk](https://lifehacker.com/make-better-boxed-mac-cheese-add-an-egg-yolk-1850025468)
 - [Crazy Programmer] [10 Simple Image Slider HTML CSS JavaScript Examples](https://www.thecrazyprogrammer.com/2023/01/image-slider-html-css-javascript.html)
 - [Lifehacker] [Security Keys Are Now the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-now-the-best-way-to-protect-your-appl-1850024776)
-- [Lifehacker] [GoPro&#39;s Hero11 Black Mini Is Half Off Right Now](https://lifehacker.com/gopros-hero11-black-mini-is-half-off-right-now-1850024900)
-- [Lifehacker] [Three Ways to Clean Under Your Oven and Refrigerator Without Moving Them](https://lifehacker.com/three-ways-to-clean-under-your-oven-and-refrigerator-wi-1850024896)<!-- TECH-POSTS:END -->
+- [Lifehacker] [GoPro&#39;s Hero11 Black Mini Is Half Off Right Now](https://lifehacker.com/gopros-hero11-black-mini-is-half-off-right-now-1850024900)<!-- TECH-POSTS:END -->
 
 ---
 
