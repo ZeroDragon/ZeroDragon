@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Binary to text converter - JS](https://dev.to/walternascimentobarroso/binary-to-text-converter-js-142h)
+- [Dev.to/JS] [What Do Developers Want The most in 2023? Answer This Survey Questions And Win Yourself A Cool Gadget](https://dev.to/femisonic/what-do-developers-want-the-most-in-2023-answer-this-survey-questions-and-win-yourself-a-cool-gadget-2oia)
+- [Dev.to/JS] [Developer Nation is Rewarding Developers With Cash For Taking Survey](https://dev.to/femisonic/developer-nation-is-rewarding-developers-with-cash-for-taking-survey-12ik)
 - [Dev.to/JS] [Easy way to make money through Crypto Trading Bot and mining bot](https://dev.to/danielapaul/easy-way-to-make-money-through-crypto-trading-bot-and-mining-bot-84h)
 - [Dev.to/JS] [Supabase &amp; Metamask Signed Authentication &lpar;Web3&rpar;](https://dev.to/59023g/supabase-metamask-signed-authentication-web3-53e1)
 - [Dev.to/JS] [Dynamically required fields in Joi](https://dev.to/diogoko/dynamically-required-fields-in-joi-17mj)
@@ -33,14 +36,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The programming language of the Web - And the Oscar goes to…?!](https://dev.to/doctorlai/the-programming-language-of-the-web-and-the-oscar-goes-to-2dpl)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Dev.to/JS] [Default image load, while error happen at image loading time](https://dev.to/taiseen/default-image-load-while-error-happen-at-image-loading-time-2h0a)
-- [Dev.to/JS] [Six Words -- A Unique Fullstack Application](https://dev.to/stcollier/six-words-a-unique-fullstack-application-53lm)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
 - [Lifehacker] [Asteroid 2023 BU Is a &#39;Near-Earth&#39; Asteroid](https://lifehacker.com/asteroid-2023-bu-is-a-near-earth-asteroid-1850031553)
-- [Dev.to/JS] [3.2 - How to create a Conference with Clark Sell](https://dev.to/codingcatdev/32-how-to-create-a-conference-with-clark-sell-m2k)
 - [Lifehacker] [When Does an Old iPhone Become a Security Risk?](https://lifehacker.com/when-does-an-old-iphone-become-a-security-risk-1850031165)
 - [Lifehacker] [6 of the Best Drinking Games to Play During Super Bowl LVII](https://lifehacker.com/6-of-the-best-drinking-games-to-play-during-super-bowl-1850029952)
-- [Dev.to/JS] [VueJs + ThreeJs Primera parte. Template](https://dev.to/jaimebboyjt/vuejs-threejs-primera-parte-template-10ph)
 - [Lifehacker] [10 Professional Kitchen Tools I Use in My Home Kitchen](https://lifehacker.com/10-professional-kitchen-tools-i-use-in-my-home-kitchen-1850030795)
 - [Lifehacker] [How to Turn an Old TV Into Something Cool](https://lifehacker.com/how-to-turn-an-old-tv-into-something-cool-1850030373)
 - [Lifehacker] [You Can Find Out What Your ‘Check Engine’ Light Means for Free](https://lifehacker.com/you-can-find-out-what-your-check-engine-light-means-f-1850030619)
