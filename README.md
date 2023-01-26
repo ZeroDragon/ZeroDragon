@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easy Way to Gradually Clean Your Cluttered Camera Roll](https://lifehacker.com/the-easy-way-to-gradually-clean-your-cluttered-camera-r-1850034918)
+- [Dev.to/JS] [Pagination : When to use server side and client side pagination](https://dev.to/lakincoder/pagination-when-to-use-server-side-and-client-side-pagination-38d9)
+- [Lifehacker] [The Quickest, Coziest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533)
+- [Dev.to/JS] [A little challenge in JavaScript &lpar;will be glad to read your solutions&rpar;](https://dev.to/zabdeldjallil/a-little-challenge-in-javascript-will-be-glad-to-read-your-solutions-1k3f)
 - [Lifehacker] [Five Apps You Should Install If You Use Multiple Mac Monitors](https://lifehacker.com/five-apps-you-should-install-if-you-use-multiple-mac-mo-1850033686)
 - [Dev.to/JS] [Everything You Need to Know to Choose a Modern JavaScript Framework](https://dev.to/get_pieces/everything-you-need-to-know-to-choose-a-modern-javascript-framework-3eg4)
 - [Dev.to/JS] [Flaky Tests, and How to Deal with Them](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Set Up a Proxy Server in React | Dealing with CORS](https://dev.to/codeofrelevancy/how-to-set-up-a-proxy-server-in-react-dealing-with-cors-87e)
 - [Lifehacker] [Why Eggs Are so Expensive Right Now](https://lifehacker.com/why-eggs-are-so-expensive-right-now-1850031342)
 - [Dev.to/JS] [Web Crawling and Web Scraping: Different Techniques for Different Goals](https://dev.to/savvyengineer/web-crawling-and-web-scraping-different-techniques-for-different-goals-1go5)
-- [Dev.to/JS] [Deep Cloning in JavaScript: The Modern Way. Use structuredClone](https://dev.to/matiasfha/deep-cloning-in-javascript-the-modern-way-use-structuredclone-1nej)
-- [Dev.to/JS] [Instagram log in page remade with HTML, CSS and JS](https://dev.to/georgeflorin/instagram-log-in-page-remade-with-html-css-and-js-18im)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stockholm Syndrome, Midlife Crises, and 10 More Suss &#39;Phenomena&#39; in Pop Psychology](https://lifehacker.com/stockholm-syndrome-midlife-crises-and-10-more-suss-ph-1850020831)
 - [Lifehacker] [You Should Make Your Own Krab Crackers With Imitation Crab Sticks](https://lifehacker.com/you-should-make-your-own-krab-crackers-with-imitation-c-1850026421)
 - [Lifehacker] [Shave a Chocolate Bar for an Easy, Elegant Decoration](https://lifehacker.com/shave-a-chocolate-bar-for-an-easy-elegant-decoration-1850026414)
-- [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)
-- [Lifehacker] [8 Surprising Household Uses for Chalk](https://lifehacker.com/8-surprising-household-uses-for-chalk-1850025875)
-- [Lifehacker] [Make Better Boxed Mac &amp; Cheese, Add an Egg Yolk](https://lifehacker.com/make-better-boxed-mac-cheese-add-an-egg-yolk-1850025468)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Buy Windows 10 When Microsoft Stops Selling It](https://lifehacker.com/where-to-buy-windows-10-when-microsoft-stops-selling-it-1850025398)<!-- TECH-POSTS:END -->
 
 ---
 
