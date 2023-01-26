@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lpar; &#39;scrollend&#39; &rpar; A New JS Event](https://dev.to/murtazajooo/scrollend-a-new-js-event-10ac)
 - [Dev.to/JS] [Blazingly Fast Typescript Project Generator⚡](https://dev.to/vader/blazingly-fast-typescript-project-generator-11od)
 - [Dev.to/JS] [Difference between functions and methods in JavaScript](https://dev.to/catherineisonline/difference-between-functions-and-methods-in-javascript-14np)
 - [Dev.to/JS] [Async React com NextJS 13](https://dev.to/oieduardorabelo/async-react-com-nextjs-13-391c)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Serverless Security: How to Secure Your Serverless Applications](https://dev.to/scofieldidehen/serverless-security-how-to-secure-your-serverless-applications-3f10)
 - [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/mike26mbsc/asynchronous-javascript-10fc)
 - [Dev.to/JS] [Binary to text converter - JS](https://dev.to/walternascimentobarroso/binary-to-text-converter-js-142h)
-- [Dev.to/JS] [What Do Developers Want The most in 2023? Answer This Survey Questions And Win Yourself A Cool Gadget](https://dev.to/femisonic/what-do-developers-want-the-most-in-2023-answer-this-survey-questions-and-win-yourself-a-cool-gadget-2oia)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
