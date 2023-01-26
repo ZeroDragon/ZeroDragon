@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to pass an app review and start selling what you created? [video course]](https://dev.to/livechat/how-to-pass-an-app-review-and-start-selling-what-you-created-video-course-2a22)
+- [Dev.to/JS] [Serverless Security: How to Secure Your Serverless Applications](https://dev.to/scofieldidehen/serverless-security-how-to-secure-your-serverless-applications-3f10)
+- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/mike26mbsc/asynchronous-javascript-10fc)
 - [Dev.to/JS] [Binary to text converter - JS](https://dev.to/walternascimentobarroso/binary-to-text-converter-js-142h)
 - [Dev.to/JS] [What Do Developers Want The most in 2023? Answer This Survey Questions And Win Yourself A Cool Gadget](https://dev.to/femisonic/what-do-developers-want-the-most-in-2023-answer-this-survey-questions-and-win-yourself-a-cool-gadget-2oia)
 - [Dev.to/JS] [Developer Nation is Rewarding Developers With Cash For Taking Survey](https://dev.to/femisonic/developer-nation-is-rewarding-developers-with-cash-for-taking-survey-12ik)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fun With Flags](https://dev.to/jansellopez/fun-with-flags-42io)
 - [Dev.to/JS] [Your preferred framework for simple web apps?](https://dev.to/sdgm/your-preferred-framework-for-simple-web-apps-5b90)
 - [Dev.to/JS] [Getting started with Web Development](https://dev.to/henry_sanderson/getting-started-with-web-development-ldl)
-- [Dev.to/JS] [Por que eu amo Remix? &lpar;por Kent C. Dodds&rpar;](https://dev.to/remix-run-br/por-que-eu-amo-remix-por-kent-c-dodds-4379)
-- [Dev.to/JS] [The programming language of the Web - And the Oscar goes to…?!](https://dev.to/doctorlai/the-programming-language-of-the-web-and-the-oscar-goes-to-2dpl)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
-- [Dev.to/JS] [Default image load, while error happen at image loading time](https://dev.to/taiseen/default-image-load-while-error-happen-at-image-loading-time-2h0a)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
 - [Lifehacker] [Asteroid 2023 BU Is a &#39;Near-Earth&#39; Asteroid](https://lifehacker.com/asteroid-2023-bu-is-a-near-earth-asteroid-1850031553)
