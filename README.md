@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the difference between ==, === and Object.is&lpar;&rpar; in JavaScript](https://dev.to/alaster/what-is-the-difference-between-and-objectis-in-javascript-nel)
+- [Dev.to/JS] [Whats Medusa an introduction part 1](https://dev.to/nfuhs/whats-medusa-an-introduction-part-1-3753)
+- [Dev.to/JS] [Designing a Git-Like Flow in Ecommerce APIs](https://dev.to/medusajs/designing-a-git-like-flow-in-ecommerce-apis-2ade)
+- [Dev.to/JS] [Paracetamol.js💊| #201: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-201-explica-este-codigo-javascript-47e2)
 - [Dev.to/JS] [How To Use Mock Data Without Changing Internal Logic](https://dev.to/hopemanryan/how-to-use-mock-data-without-changing-internal-logic-49f4)
 - [Dev.to/JS] [Prennez en main redux](https://dev.to/cedric921/prennez-en-main-redux-1d3o)
 - [Dev.to/JS] [I&#39;m building an open-source VSCode chatbot extension with OpenAI / GPT3 in public](https://dev.to/lgrammel/im-building-an-open-source-vscodechatbot-extension-withopenai-gpt3-in-public-2f5b)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Power of ReactJS for Chrome Extension Development](https://dev.to/integridsolutions/unleashing-the-power-of-reactjs-for-chrome-extension-development-3kij)
 - [Dev.to/JS] [A step-by-step roadmap to mastering Javascript 🔥](https://dev.to/rammcodes/a-step-by-step-roadmap-to-mastering-javascript-3mcf)
 - [Dev.to/JS] [How to style your code correctly &lpar;full explanation&rpar;](https://dev.to/guilhermefront/how-to-style-your-code-correctly-full-explanation-4l89)
-- [Dev.to/JS] [Build a Node.js API Proxy to supercharge your backend](https://dev.to/dashsaurabh/build-a-nodejs-api-proxy-to-supercharge-your-backend-42f3)
-- [Dev.to/JS] [Test for dynamically created elements like time and token with jest&lpar;spys&rpar;](https://dev.to/csituma/test-for-dynamically-created-elements-like-time-and-token-with-jestspys-5a2b)
-- [Dev.to/JS] [Expose your work with ngrok and localtunnel](https://dev.to/antopiras89/expose-your-work-with-ngrok-and-localtunnel-1p0j)
-- [Dev.to/JS] [&lpar; &#39;scrollend&#39; &rpar; A New JS Event](https://dev.to/murtazajooo/scrollend-a-new-js-event-10ac)
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
