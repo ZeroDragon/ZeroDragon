@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 maneiras de selecionar elementos com Javascript sem querySelectorAll, querySelector e getElementById](https://dev.to/demenezes/7-maneiras-de-selecionar-elementos-com-javascript-sem-queryselectorall-queryselector-e-getelementbyid-1m53)
+- [Dev.to/JS] [JavaScript tip to efficiently search in long arrays and save performance](https://dev.to/rem0nfawzi/javascript-tip-to-efficiently-search-in-long-arrays-and-save-performance-1914)
 - [Dev.to/JS] [How to Build a Crypto Investment Website with Elementor - &lpar;Advance Wordpress&rpar; 2023](https://dev.to/devmdee/how-to-build-a-crypto-investment-website-with-elementor-advance-wordpress-2023-1dkj)
 - [Dev.to/JS] [How to create Animated Floating button in figma - Mobile UI design 2023](https://dev.to/devmdee/how-to-create-animated-floating-button-in-figma-mobile-ui-design-2023-1i14)
 - [Dev.to/JS] [Lifecycle Hooks in Angular - A Complete Guide](https://dev.to/asayerio_techblog/lifecycle-hooks-in-angular-a-complete-guide-3loj)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to integrate Bootstrap in a Vite project](https://dev.to/jackelino/how-to-integrate-bootstrap-in-a-vite-project-3o3k)
 - [Dev.to/JS] [How to create excel xlsx with Vue 3](https://dev.to/jackelino/how-to-create-excel-xlsx-with-vue-3-3860)
 - [Dev.to/JS] [Navbar animation in javascript](https://dev.to/nicosup/navbar-animation-in-javascript-ke1)
-- [Dev.to/JS] [My first project linked with an external API.](https://dev.to/maryruguru/my-first-project-linked-with-an-external-api-33bg)
-- [Dev.to/JS] [convert [array] into {object} with needful value](https://dev.to/taiseen/convert-array-into-object-with-needful-value-22b5)
 - [Lifehacker] [This App Turns the World Into a Wikipedia Scavenger Hunt](https://lifehacker.com/this-app-turns-the-world-into-a-wikipedia-scavenger-hun-1850035668)
 - [Lifehacker] [How Much You Should Be Tipping Hotel Housekeeping in 2023](https://lifehacker.com/how-much-you-should-be-tipping-hotel-housekeeping-in-20-1850035737)
 - [Lifehacker] [Look for This Icon Before Buying on Google Flights](https://lifehacker.com/look-for-this-icon-before-buying-on-google-flights-1850036412)
