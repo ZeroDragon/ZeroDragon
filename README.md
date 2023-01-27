@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Convert HTML To PDF Using jsPDF](https://dev.to/techsolutionstuff/how-to-convert-html-to-pdf-using-jspdf-53hg)
+- [Dev.to/JS] [How make zip of images and download it using React JS in 3 Easy steps](https://dev.to/jaydeepkhachariya/how-make-zip-of-images-and-download-it-using-react-js-in-3-easy-steps-lkb)
 - [Dev.to/JS] [Explain NativeScript-Vue With Some Examples](https://dev.to/uniquewebdev/explain-nativescript-vue-with-some-examples-14c6)
 - [Dev.to/JS] [Bootstrap 5 List group constructor&lpar;&rpar; Method](https://dev.to/uniquewebdev/bootstrap-5-list-group-constructor-method-2ckb)
 - [Dev.to/JS] [Will ChatGPT replace Developer&#39;s Job?](https://dev.to/dhruvjoshi9/will-chatgpt-replace-developers-job-37j2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Components vs. Normal Functions and the Props Parameter](https://dev.to/jtreeves/react-components-vs-normal-functions-1bl8)
 - [Dev.to/JS] [7 maneiras de selecionar elementos com Javascript sem querySelectorAll, querySelector e getElementById](https://dev.to/demenezes/7-maneiras-de-selecionar-elementos-com-javascript-sem-queryselectorall-queryselector-e-getelementbyid-1m53)
 - [Dev.to/JS] [JavaScript tip to efficiently search in long arrays and save performance](https://dev.to/rem0nfawzi/javascript-tip-to-efficiently-search-in-long-arrays-and-save-performance-1914)
-- [Dev.to/JS] [How to Build a Crypto Investment Website with Elementor - &lpar;Advance Wordpress&rpar; 2023](https://dev.to/devmdee/how-to-build-a-crypto-investment-website-with-elementor-advance-wordpress-2023-1dkj)
-- [Dev.to/JS] [How to create Animated Floating button in figma - Mobile UI design 2023](https://dev.to/devmdee/how-to-create-animated-floating-button-in-figma-mobile-ui-design-2023-1i14)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
