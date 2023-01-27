@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When Is It OK to Cheat at Wordle?](https://lifehacker.com/when-is-it-ok-to-cheat-at-wordle-1850041707)
+- [Dev.to/JS] [Separation of concerns slows you down](https://dev.to/areknawo/separation-of-concerns-slows-you-down-5eag)
+- [Dev.to/JS] [[Unpopular Opinion] React is heading in a wrong direction](https://dev.to/oskarkaminski/unpopular-opinion-react-is-heading-in-a-wrong-direction-46dp)
+- [Lifehacker] [You Should &#39;Cure&#39; Your Gummy Candy](https://lifehacker.com/you-should-cure-your-gummy-candy-1850041518)
+- [Dev.to/JS] [Display the same category products, but exclude the selected one](https://dev.to/taiseen/display-the-same-category-products-but-exclude-the-selected-one-21jg)
 - [Lifehacker] [Ignore TikTok and Stop Putting Cleaning Liquid in Your Toilet Tank](https://lifehacker.com/ignore-tiktok-and-stop-putting-cleaning-liquid-in-your-1850041452)
 - [Lifehacker] [12 Podcasts You Didn’t Know Could Even Be a Podcast](https://lifehacker.com/12-podcasts-you-didn-t-know-could-be-a-podcast-1850016905)
 - [Dev.to/JS] [The basics of asynchronous JavaScript](https://dev.to/thatmwcoder/the-basics-of-asynchronous-javascript-2798)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bricks on bricks](https://dev.to/jpstorrie/bricks-on-bricks-4nap)
 - [Lifehacker] [How to Leverage Pay Transparency During Your Next Interview](https://lifehacker.com/how-to-leverage-pay-transparency-during-your-next-inter-1850006082)
 - [Dev.to/JS] [SEO Cheat Sheet for Devs](https://dev.to/chetanam/seo-cheat-sheet-for-devs-2kca)
-- [Dev.to/JS] [10 Secrets to Skyrocketing Your Career as a Developer!](https://dev.to/chetanam/10-secrets-to-skyrocketing-your-career-as-a-developer-k4e)
-- [Dev.to/JS] [What and Why Gatsby? &lpar;Build your site blazing fast&rpar;](https://dev.to/varshithvhegde/what-and-why-gatsby-build-your-site-blazing-fast-2len)
 - [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
-- [Dev.to/JS] [Accelerate Your Frontend Web Development Learning with These 5 Websites](https://dev.to/chetanam/accelerate-your-frontend-web-development-learning-with-these-5-websites-5202)
 - [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)
 - [Lifehacker] [Can You Really Get Over Someone by Getting Under Someone?](https://lifehacker.com/can-you-really-get-over-someone-by-getting-under-someon-1850038232)
 - [Lifehacker] [8 Grammar Mistakes Your Probably Making Every Day &lpar;I Did That on Purpose&rpar;](https://lifehacker.com/8-grammar-mistakes-your-probably-making-every-day-i-di-1850039059)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Your Community’s ‘Walk Score’ Directly Impacts Your Life](https://lifehacker.com/how-your-community-s-walk-score-directly-impacts-your-1850035353)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2023](https://lifehacker.com/whats-new-on-hbo-max-in-february-2023-1850035205)
 - [Lifehacker] [The Easy Way to Gradually Clean Your Cluttered Camera Roll](https://lifehacker.com/the-easy-way-to-gradually-clean-your-cluttered-camera-r-1850034918)
-- [Lifehacker] [The Quickest, Coziest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533)
-- [Lifehacker] [Five Apps You Should Install If You Use Multiple Mac Monitors](https://lifehacker.com/five-apps-you-should-install-if-you-use-multiple-mac-mo-1850033686)
-- [Lifehacker] [You Can Save so Much Money at Salvage Stores](https://lifehacker.com/you-can-save-so-much-money-at-salvage-stores-1850031992)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Quickest, Coziest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533)<!-- TECH-POSTS:END -->
 
 ---
 
