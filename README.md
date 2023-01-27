@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Strapi: Fast and Easy to use CMS with bunch of cool features](https://dev.to/frontend_house/strapi-fast-and-easy-to-use-cms-with-bunch-of-cool-features-1bmm)
+- [Dev.to/JS] [Simple Javascript utility to flatten a json object](https://dev.to/elsyng/simple-javascript-utility-to-flatten-a-json-object-46ck)
+- [Dev.to/JS] [Shallow Copy vs Deep Copy JS &amp; Reference Part-3🚀](https://dev.to/himanshupal0001/shallow-copy-vs-deep-copy-js-reference-part-3-2apm)
+- [Dev.to/JS] [What web development language should i learn?](https://dev.to/delia_code/what-web-development-language-should-i-learn-l0k)
+- [Dev.to/JS] [Best Practices: Optimizing your React Application](https://dev.to/daviduzondu/best-practices-debugging-optimizing-your-react-application-2i14)
 - [Dev.to/JS] [The 10 Signs That You Need To Hire A Web Developer](https://dev.to/quokkalabs/the-10-signs-that-you-need-to-hire-a-web-developer-54cc)
 - [Dev.to/JS] [20 Killer JavaScript One-Liners That’ll Save You Hours of Coding 🤯🔥](https://dev.to/rammcodes/20-killer-javascript-one-liners-thatll-save-you-hours-of-coding-o14)
 - [Dev.to/JS] [FormData from Form in mutation!](https://dev.to/zibiv/formdata-from-form-in-mutation-1b7k)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Promises: Promise.all and Promise.allSettled](https://dev.to/ashishxcode/javascript-promises-understanding-the-differences-between-promiseall-and-promiseallsettled-bc8)
 - [Dev.to/JS] [Node.js: the Industry Standard for Product and Business Organizations](https://dev.to/purvi/nodejs-the-industry-standard-for-product-and-business-organizations-3fhp)
 - [Dev.to/JS] [Ocuprime - Eye Results, Reviews, Ingredients, Scam Or Legit?](https://dev.to/ocuprimeinfo1/ocuprime-eye-results-reviews-ingredients-scam-or-legit-37a)
-- [Dev.to/JS] [What makes a frontend developer considered to be a senior excluding the working years ?](https://dev.to/ellaidevs/what-makes-a-frontend-developer-considered-to-be-a-senior-excluding-the-working-years--2k88)
-- [Dev.to/JS] [How To Convert HTML To PDF Using jsPDF](https://dev.to/techsolutionstuff/how-to-convert-html-to-pdf-using-jspdf-53hg)
-- [Dev.to/JS] [How make zip of images and download it using React JS in 3 Easy steps](https://dev.to/jaydeepkhachariya/how-make-zip-of-images-and-download-it-using-react-js-in-3-easy-steps-lkb)
-- [Dev.to/JS] [Explain NativeScript-Vue With Some Examples](https://dev.to/uniquewebdev/explain-nativescript-vue-with-some-examples-14c6)
-- [Dev.to/JS] [Bootstrap 5 List group constructor&lpar;&rpar; Method](https://dev.to/uniquewebdev/bootstrap-5-list-group-constructor-method-2ckb)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
