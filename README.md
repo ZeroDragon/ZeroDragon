@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Check These Databases for Retirement Savings You Forgot About](https://lifehacker.com/check-these-databases-for-retirement-savings-you-forgot-1850037905)
+- [Dev.to/JS] [Understand Bitwise AND &lpar;&amp;&rpar; with JavaScript: 5-minute tutorial](https://dev.to/educative/understand-bitwise-and-with-javascript-5-minute-tutorial-2b4a)
+- [Dev.to/JS] [Definitive Guide for Commitizen + Commitlint + Husky](https://dev.to/ghacosta/definitive-guide-for-commitizen-commitlint-husky-3of9)
+- [Lifehacker] [When to Take the Money in a Class-Action Settlement &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-take-the-money-in-a-class-action-settlement-an-1850040355)
+- [Dev.to/JS] [React Native Installation Guide](https://dev.to/alimammiya/react-native-installation-guide-28p1)
+- [Dev.to/JS] [Getting started with Reactjs](https://dev.to/archijain/getting-started-with-reactjs-1ejl)
 - [Lifehacker] [Fix Your Switch&#39;s &#39;Goldeneye&#39; Controls to Be More Like Xbox&#39;s](https://lifehacker.com/fix-your-switchs-goldeneye-controls-to-be-more-like-xbo-1850040284)
 - [Dev.to/JS] [10 GitHub Repositories You Should Know as a JavaScript Developer](https://dev.to/gaelgthomas/10-github-repositories-you-should-know-as-a-javascript-developer-2ji6)
 - [Dev.to/JS] [Code Smell 193 - Switch Instead of Formula](https://dev.to/mcsee/code-smell-193-switch-instead-of-formula-adl)
@@ -38,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)
 - [Dev.to/JS] [Explorando o keyword &lpar;this&rpar;](https://dev.to/altencirsilvajr/explorando-o-keyword-this-5597)
 - [Lifehacker] [Can You Really Get Over Someone by Getting Under Someone?](https://lifehacker.com/can-you-really-get-over-someone-by-getting-under-someon-1850038232)
-- [Dev.to/JS] [Maximizing Performance: A deep dive into React re-renders and how to optimize your components](https://dev.to/sukodes/maximizing-performance-a-deep-dive-into-react-re-renders-and-how-to-optimize-your-components-12ic)
 - [Lifehacker] [8 Grammar Mistakes Your Probably Making Every Day &lpar;I Did That on Purpose&rpar;](https://lifehacker.com/8-grammar-mistakes-your-probably-making-every-day-i-di-1850039059)
-- [Dev.to/JS] [js higher order function?](https://dev.to/zawzawmyint/js-higher-order-function-1an6)
 - [Lifehacker] [Make ‘Elephant Ears’ With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
-- [Dev.to/JS] [Solucionando desafios do HackerHank usando TypeScript](https://dev.to/trinitypath/solucionando-desafios-do-hackerhank-usando-typescript-5hig)
-- [Dev.to/JS] [Objects in JavaScript](https://dev.to/gladwinbusula/objects-in-javascript-1kjj)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Apps You Should Install If You Use Multiple Mac Monitors](https://lifehacker.com/five-apps-you-should-install-if-you-use-multiple-mac-mo-1850033686)
 - [Lifehacker] [You Can Save so Much Money at Salvage Stores](https://lifehacker.com/you-can-save-so-much-money-at-salvage-stores-1850031992)
 - [Lifehacker] [11 Ways to Make Your Soup More Satisfying](https://lifehacker.com/11-ways-to-make-your-soup-more-satisfying-1850030707)
-- [Lifehacker] [Yes, You Need to Start Planning Now for Summer Camps](https://lifehacker.com/yes-you-need-to-start-planning-now-for-summer-camps-1850029280)
-- [Lifehacker] [Why Eggs Are so Expensive Right Now](https://lifehacker.com/why-eggs-are-so-expensive-right-now-1850031342)
-- [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, You Need to Start Planning Now for Summer Camps](https://lifehacker.com/yes-you-need-to-start-planning-now-for-summer-camps-1850029280)<!-- TECH-POSTS:END -->
 
 ---
 
