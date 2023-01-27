@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Fix Your Switch&#39;s &#39;Goldeneye&#39; Controls to Be More Like Xbox&#39;s](https://lifehacker.com/fix-your-switchs-goldeneye-controls-to-be-more-like-xbo-1850040284)
+- [Dev.to/JS] [10 GitHub Repositories You Should Know as a JavaScript Developer](https://dev.to/gaelgthomas/10-github-repositories-you-should-know-as-a-javascript-developer-2ji6)
+- [Dev.to/JS] [Code Smell 193 - Switch Instead of Formula](https://dev.to/mcsee/code-smell-193-switch-instead-of-formula-adl)
+- [Lifehacker] [Blend Bacon Straight Into Your Salad Dressing](https://lifehacker.com/blend-bacon-straight-into-your-salad-dressing-1850040200)
+- [Lifehacker] [13 Common Idioms the Kids Don’t Understand](https://lifehacker.com/13-common-idioms-the-kids-don-t-understand-1850035015)
 - [Dev.to/JS] [Bricks on bricks](https://dev.to/jpstorrie/bricks-on-bricks-4nap)
 - [Lifehacker] [How to Leverage Pay Transparency During Your Next Interview](https://lifehacker.com/how-to-leverage-pay-transparency-during-your-next-inter-1850006082)
 - [Dev.to/JS] [SEO Cheat Sheet for Devs](https://dev.to/chetanam/seo-cheat-sheet-for-devs-2kca)
@@ -39,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make ‘Elephant Ears’ With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
 - [Dev.to/JS] [Solucionando desafios do HackerHank usando TypeScript](https://dev.to/trinitypath/solucionando-desafios-do-hackerhank-usando-typescript-5hig)
 - [Dev.to/JS] [Objects in JavaScript](https://dev.to/gladwinbusula/objects-in-javascript-1kjj)
-- [Dev.to/JS] [What is the Difference Between Data Type and Data Structure?](https://dev.to/catherineisonline/what-is-the-difference-between-data-type-and-data-structure-4ehk)
-- [Dev.to/JS] [Objects In Javascript](https://dev.to/jillianmwangi/objects-in-javascript-5f5)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Ways to Make Your Soup More Satisfying](https://lifehacker.com/11-ways-to-make-your-soup-more-satisfying-1850030707)
 - [Lifehacker] [Yes, You Need to Start Planning Now for Summer Camps](https://lifehacker.com/yes-you-need-to-start-planning-now-for-summer-camps-1850029280)
 - [Lifehacker] [Why Eggs Are so Expensive Right Now](https://lifehacker.com/why-eggs-are-so-expensive-right-now-1850031342)
-- [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
-- [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
-- [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
-- [Lifehacker] [Asteroid 2023 BU Is a &#39;Near-Earth&#39; Asteroid](https://lifehacker.com/asteroid-2023-bu-is-a-near-earth-asteroid-1850031553)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)<!-- TECH-POSTS:END -->
 
 ---
 
