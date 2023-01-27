@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Crypto Investment Website with Elementor - &lpar;Advance Wordpress&rpar; 2023](https://dev.to/devmdee/how-to-build-a-crypto-investment-website-with-elementor-advance-wordpress-2023-1dkj)
+- [Dev.to/JS] [How to create Animated Floating button in figma - Mobile UI design 2023](https://dev.to/devmdee/how-to-create-animated-floating-button-in-figma-mobile-ui-design-2023-1i14)
+- [Dev.to/JS] [Lifecycle Hooks in Angular - A Complete Guide](https://dev.to/asayerio_techblog/lifecycle-hooks-in-angular-a-complete-guide-3loj)
+- [Dev.to/JS] [Solid.js, React, and Vue - reactivity systems compared](https://dev.to/vrite/solidjs-react-and-vue-reactivity-systems-compared-30od)
 - [Dev.to/JS] [How to display nested data when using Angular + Firebase](https://dev.to/juliegladden/how-to-display-nested-data-when-using-angular-firebase-3n7e)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
@@ -36,14 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My first project linked with an external API.](https://dev.to/maryruguru/my-first-project-linked-with-an-external-api-33bg)
 - [Dev.to/JS] [convert [array] into {object} with needful value](https://dev.to/taiseen/convert-array-into-object-with-needful-value-22b5)
 - [Lifehacker] [This App Turns the World Into a Wikipedia Scavenger Hunt](https://lifehacker.com/this-app-turns-the-world-into-a-wikipedia-scavenger-hun-1850035668)
-- [Dev.to/JS] [Using React H5 Audio Player](https://dev.to/keffdu/using-react-h5-audio-player-ogj)
 - [Lifehacker] [How Much You Should Be Tipping Hotel Housekeeping in 2023](https://lifehacker.com/how-much-you-should-be-tipping-hotel-housekeeping-in-20-1850035737)
 - [Lifehacker] [Look for This Icon Before Buying on Google Flights](https://lifehacker.com/look-for-this-icon-before-buying-on-google-flights-1850036412)
 - [Lifehacker] [13 Video Game Adaptations Nearly As Good As &#39;The Last of Us&#39;](https://lifehacker.com/13-video-game-adaptations-nearly-as-good-as-the-last-of-1850029703)
-- [Dev.to/JS] [Nested Ternaries Considered Useful](https://dev.to/customcommander/nested-ternaries-considered-useful-plh)
 - [Lifehacker] [Build Your Next Breakfast Sandwich on French Toast](https://lifehacker.com/build-your-next-breakfast-sandwich-on-french-toast-1850035761)
-- [Dev.to/JS] [Select HTML Elements by ID, Class, Tag Name Using Vanilla JavaScript](https://dev.to/devtonight/select-html-elements-by-id-class-tag-name-using-vanilla-javascript-1co7)
-- [Dev.to/JS] [Introduction to Nuxt 3: Part 1](https://dev.to/alexandergekov/introduction-to-nuxt-3-part-1-5cdk)
 - [Lifehacker] [How Your Community’s ‘Walk Score’ Directly Impacts Your Life](https://lifehacker.com/how-your-community-s-walk-score-directly-impacts-your-1850035353)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2023](https://lifehacker.com/whats-new-on-hbo-max-in-february-2023-1850035205)
 - [Lifehacker] [The Easy Way to Gradually Clean Your Cluttered Camera Roll](https://lifehacker.com/the-easy-way-to-gradually-clean-your-cluttered-camera-r-1850034918)
