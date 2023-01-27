@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)
+- [Dev.to/JS] [Explorando o keyword &lpar;this&rpar;](https://dev.to/altencirsilvajr/explorando-o-keyword-this-5597)
 - [Lifehacker] [Can You Really Get Over Someone by Getting Under Someone?](https://lifehacker.com/can-you-really-get-over-someone-by-getting-under-someon-1850038232)
+- [Dev.to/JS] [Maximizing Performance: A deep dive into React re-renders and how to optimize your components](https://dev.to/sukodes/maximizing-performance-a-deep-dive-into-react-re-renders-and-how-to-optimize-your-components-12ic)
 - [Lifehacker] [8 Grammar Mistakes Your Probably Making Every Day &lpar;I Did That on Purpose&rpar;](https://lifehacker.com/8-grammar-mistakes-your-probably-making-every-day-i-di-1850039059)
 - [Dev.to/JS] [js higher order function?](https://dev.to/zawzawmyint/js-higher-order-function-1an6)
 - [Lifehacker] [Make ‘Elephant Ears’ With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to edit a video with Shotcut Video Editor – Free Video Editing Software](https://dev.to/devmdee/how-to-edit-a-video-with-shotcut-video-editor-free-video-editing-software-556c)
 - [Dev.to/JS] [10 Amazing A I Website that will blow your Mind!!!](https://dev.to/devmdee/10-amazing-a-i-website-that-will-blow-your-mind-1d9i)
 - [Dev.to/JS] [HOW TO DESIGN ANIMATED LIGHT AND DARK MODE SWITCHER IN FIGMA FIGMA TUTORIALS](https://dev.to/devmdee/how-to-design-animated-light-and-dark-mode-switcher-in-figma-figma-tutorials-32d6)
-- [Dev.to/JS] [How To Master JavaScript DOM: Beginners Guide](https://dev.to/emmykolic/how-to-master-javascript-dom-beginners-guide-353c)
-- [Dev.to/JS] [How to Code the Greatest Common Divisor Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-greatest-common-divisor-algorithm-in-javascript-and-python-2426)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
 - [Lifehacker] [Asteroid 2023 BU Is a &#39;Near-Earth&#39; Asteroid](https://lifehacker.com/asteroid-2023-bu-is-a-near-earth-asteroid-1850031553)
 - [Lifehacker] [When Does an Old iPhone Become a Security Risk?](https://lifehacker.com/when-does-an-old-iphone-become-a-security-risk-1850031165)
-- [Lifehacker] [6 of the Best Drinking Games to Play During Super Bowl LVII](https://lifehacker.com/6-of-the-best-drinking-games-to-play-during-super-bowl-1850029952)
-- [Lifehacker] [10 Professional Kitchen Tools I Use in My Home Kitchen](https://lifehacker.com/10-professional-kitchen-tools-i-use-in-my-home-kitchen-1850030795)<!-- TECH-POSTS:END -->
+- [Lifehacker] [6 of the Best Drinking Games to Play During Super Bowl LVII](https://lifehacker.com/6-of-the-best-drinking-games-to-play-during-super-bowl-1850029952)<!-- TECH-POSTS:END -->
 
 ---
 
