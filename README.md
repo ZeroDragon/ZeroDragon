@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ignore TikTok and Stop Putting Cleaning Liquid in Your Toilet Tank](https://lifehacker.com/ignore-tiktok-and-stop-putting-cleaning-liquid-in-your-1850041452)
+- [Lifehacker] [12 Podcasts You Didn’t Know Could Even Be a Podcast](https://lifehacker.com/12-podcasts-you-didn-t-know-could-be-a-podcast-1850016905)
+- [Dev.to/JS] [The basics of asynchronous JavaScript](https://dev.to/thatmwcoder/the-basics-of-asynchronous-javascript-2798)
 - [Lifehacker] [Check These Databases for Retirement Savings You Forgot About](https://lifehacker.com/check-these-databases-for-retirement-savings-you-forgot-1850037905)
 - [Dev.to/JS] [Understand Bitwise AND &lpar;&amp;&rpar; with JavaScript: 5-minute tutorial](https://dev.to/educative/understand-bitwise-and-with-javascript-5-minute-tutorial-2b4a)
 - [Dev.to/JS] [Definitive Guide for Commitizen + Commitlint + Husky](https://dev.to/ghacosta/definitive-guide-for-commitizen-commitlint-husky-3of9)
@@ -42,10 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
 - [Dev.to/JS] [Accelerate Your Frontend Web Development Learning with These 5 Websites](https://dev.to/chetanam/accelerate-your-frontend-web-development-learning-with-these-5-websites-5202)
 - [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)
-- [Dev.to/JS] [Explorando o keyword &lpar;this&rpar;](https://dev.to/altencirsilvajr/explorando-o-keyword-this-5597)
 - [Lifehacker] [Can You Really Get Over Someone by Getting Under Someone?](https://lifehacker.com/can-you-really-get-over-someone-by-getting-under-someon-1850038232)
 - [Lifehacker] [8 Grammar Mistakes Your Probably Making Every Day &lpar;I Did That on Purpose&rpar;](https://lifehacker.com/8-grammar-mistakes-your-probably-making-every-day-i-di-1850039059)
-- [Lifehacker] [Make ‘Elephant Ears’ With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
+- [Lifehacker] [Make Your Own County Fair Confection With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easy Way to Gradually Clean Your Cluttered Camera Roll](https://lifehacker.com/the-easy-way-to-gradually-clean-your-cluttered-camera-r-1850034918)
 - [Lifehacker] [The Quickest, Coziest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533)
 - [Lifehacker] [Five Apps You Should Install If You Use Multiple Mac Monitors](https://lifehacker.com/five-apps-you-should-install-if-you-use-multiple-mac-mo-1850033686)
-- [Lifehacker] [You Can Save so Much Money at Salvage Stores](https://lifehacker.com/you-can-save-so-much-money-at-salvage-stores-1850031992)
-- [Lifehacker] [11 Ways to Make Your Soup More Satisfying](https://lifehacker.com/11-ways-to-make-your-soup-more-satisfying-1850030707)
-- [Lifehacker] [Yes, You Need to Start Planning Now for Summer Camps](https://lifehacker.com/yes-you-need-to-start-planning-now-for-summer-camps-1850029280)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Save so Much Money at Salvage Stores](https://lifehacker.com/you-can-save-so-much-money-at-salvage-stores-1850031992)<!-- TECH-POSTS:END -->
 
 ---
 
