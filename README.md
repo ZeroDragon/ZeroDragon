@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bricks on bricks](https://dev.to/jpstorrie/bricks-on-bricks-4nap)
+- [Lifehacker] [How to Leverage Pay Transparency During Your Next Interview](https://lifehacker.com/how-to-leverage-pay-transparency-during-your-next-inter-1850006082)
+- [Dev.to/JS] [SEO Cheat Sheet for Devs](https://dev.to/chetanam/seo-cheat-sheet-for-devs-2kca)
+- [Dev.to/JS] [10 Secrets to Skyrocketing Your Career as a Developer!](https://dev.to/chetanam/10-secrets-to-skyrocketing-your-career-as-a-developer-k4e)
+- [Dev.to/JS] [What and Why Gatsby? &lpar;Build your site blazing fast&rpar;](https://dev.to/varshithvhegde/what-and-why-gatsby-build-your-site-blazing-fast-2len)
+- [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
+- [Dev.to/JS] [Accelerate Your Frontend Web Development Learning with These 5 Websites](https://dev.to/chetanam/accelerate-your-frontend-web-development-learning-with-these-5-websites-5202)
 - [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)
 - [Dev.to/JS] [Explorando o keyword &lpar;this&rpar;](https://dev.to/altencirsilvajr/explorando-o-keyword-this-5597)
 - [Lifehacker] [Can You Really Get Over Someone by Getting Under Someone?](https://lifehacker.com/can-you-really-get-over-someone-by-getting-under-someon-1850038232)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Objects in JavaScript](https://dev.to/gladwinbusula/objects-in-javascript-1kjj)
 - [Dev.to/JS] [What is the Difference Between Data Type and Data Structure?](https://dev.to/catherineisonline/what-is-the-difference-between-data-type-and-data-structure-4ehk)
 - [Dev.to/JS] [Objects In Javascript](https://dev.to/jillianmwangi/objects-in-javascript-5f5)
-- [Dev.to/JS] [Filtering Data with Infinite Table for React](https://dev.to/radubrehar/filtering-data-with-infinite-table-for-react-3bce)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Entre notas e velinhas.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-entre-notas-e-velinhas-2f0p)
-- [Dev.to/JS] [How to edit a video with Shotcut Video Editor – Free Video Editing Software](https://dev.to/devmdee/how-to-edit-a-video-with-shotcut-video-editor-free-video-editing-software-556c)
-- [Dev.to/JS] [10 Amazing A I Website that will blow your Mind!!!](https://dev.to/devmdee/10-amazing-a-i-website-that-will-blow-your-mind-1d9i)
-- [Dev.to/JS] [HOW TO DESIGN ANIMATED LIGHT AND DARK MODE SWITCHER IN FIGMA FIGMA TUTORIALS](https://dev.to/devmdee/how-to-design-animated-light-and-dark-mode-switcher-in-figma-figma-tutorials-32d6)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Destink Your Smelly Sink Drain](https://lifehacker.com/the-easiest-way-to-destink-your-smelly-sink-drain-1850029640)
 - [Lifehacker] [7 Creative Valentine&#39;s Day Gifts Under $30](https://lifehacker.com/7-creative-valentines-day-gifts-under-30-1850029469)
 - [Lifehacker] [Can We Stop Saying Potatoes Are Unhealthy?](https://lifehacker.com/can-we-stop-saying-potatoes-are-unhealthy-1850031780)
-- [Lifehacker] [Asteroid 2023 BU Is a &#39;Near-Earth&#39; Asteroid](https://lifehacker.com/asteroid-2023-bu-is-a-near-earth-asteroid-1850031553)
-- [Lifehacker] [When Does an Old iPhone Become a Security Risk?](https://lifehacker.com/when-does-an-old-iphone-become-a-security-risk-1850031165)
-- [Lifehacker] [6 of the Best Drinking Games to Play During Super Bowl LVII](https://lifehacker.com/6-of-the-best-drinking-games-to-play-during-super-bowl-1850029952)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Asteroid 2023 BU Is a &#39;Near-Earth&#39; Asteroid](https://lifehacker.com/asteroid-2023-bu-is-a-near-earth-asteroid-1850031553)<!-- TECH-POSTS:END -->
 
 ---
 
