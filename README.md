@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [14 of the Best Self-Care Deals to Gift Yourself for Under $25](https://lifehacker.com/14-of-the-best-self-care-deals-to-gift-yourself-for-und-1850041613)
+- [Dev.to/JS] [Introduction to Machine Learning](https://dev.to/eteimz/introduction-to-machine-learning-237l)
+- [Lifehacker] [10 Ways to Eat Dip for Breakfast, Lunch, and Dinner](https://lifehacker.com/10-ways-to-eat-dip-for-breakfast-lunch-and-dinner-1850041608)
 - [Lifehacker] [When Is It OK to Cheat at Wordle?](https://lifehacker.com/when-is-it-ok-to-cheat-at-wordle-1850041707)
 - [Dev.to/JS] [Separation of concerns slows you down](https://dev.to/areknawo/separation-of-concerns-slows-you-down-5eag)
 - [Dev.to/JS] [[Unpopular Opinion] React is heading in a wrong direction](https://dev.to/oskarkaminski/unpopular-opinion-react-is-heading-in-a-wrong-direction-46dp)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Common Idioms the Kids Don’t Understand](https://lifehacker.com/13-common-idioms-the-kids-don-t-understand-1850035015)
 - [Dev.to/JS] [Bricks on bricks](https://dev.to/jpstorrie/bricks-on-bricks-4nap)
 - [Lifehacker] [How to Leverage Pay Transparency During Your Next Interview](https://lifehacker.com/how-to-leverage-pay-transparency-during-your-next-inter-1850006082)
-- [Dev.to/JS] [SEO Cheat Sheet for Devs](https://dev.to/chetanam/seo-cheat-sheet-for-devs-2kca)
 - [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
 - [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)
 - [Lifehacker] [Can You Really Get Over Someone by Getting Under Someone?](https://lifehacker.com/can-you-really-get-over-someone-by-getting-under-someon-1850038232)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Video Game Adaptations Nearly As Good As &#39;The Last of Us&#39;](https://lifehacker.com/13-video-game-adaptations-nearly-as-good-as-the-last-of-1850029703)
 - [Lifehacker] [Build Your Next Breakfast Sandwich on French Toast](https://lifehacker.com/build-your-next-breakfast-sandwich-on-french-toast-1850035761)
 - [Lifehacker] [How Your Community’s ‘Walk Score’ Directly Impacts Your Life](https://lifehacker.com/how-your-community-s-walk-score-directly-impacts-your-1850035353)
-- [Lifehacker] [What&#39;s New on HBO Max in February 2023](https://lifehacker.com/whats-new-on-hbo-max-in-february-2023-1850035205)
-- [Lifehacker] [The Easy Way to Gradually Clean Your Cluttered Camera Roll](https://lifehacker.com/the-easy-way-to-gradually-clean-your-cluttered-camera-r-1850034918)
-- [Lifehacker] [The Quickest, Coziest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on HBO Max in February 2023](https://lifehacker.com/whats-new-on-hbo-max-in-february-2023-1850035205)<!-- TECH-POSTS:END -->
 
 ---
 
