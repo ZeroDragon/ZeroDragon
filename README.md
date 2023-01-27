@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The 10 Signs That You Need To Hire A Web Developer](https://dev.to/quokkalabs/the-10-signs-that-you-need-to-hire-a-web-developer-54cc)
 - [Dev.to/JS] [20 Killer JavaScript One-Liners That’ll Save You Hours of Coding 🤯🔥](https://dev.to/rammcodes/20-killer-javascript-one-liners-thatll-save-you-hours-of-coding-o14)
 - [Dev.to/JS] [FormData from Form in mutation!](https://dev.to/zibiv/formdata-from-form-in-mutation-1b7k)
 - [Dev.to/JS] [Selenium](https://dev.to/srikanthvaddineni/selenium-4d42)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How make zip of images and download it using React JS in 3 Easy steps](https://dev.to/jaydeepkhachariya/how-make-zip-of-images-and-download-it-using-react-js-in-3-easy-steps-lkb)
 - [Dev.to/JS] [Explain NativeScript-Vue With Some Examples](https://dev.to/uniquewebdev/explain-nativescript-vue-with-some-examples-14c6)
 - [Dev.to/JS] [Bootstrap 5 List group constructor&lpar;&rpar; Method](https://dev.to/uniquewebdev/bootstrap-5-list-group-constructor-method-2ckb)
-- [Dev.to/JS] [Grabba Leaf vs Fronto Leaf: What&#39;s The Difference?](https://dev.to/workhome145212/grabba-leaf-vs-fronto-leaf-whats-the-difference-1o02)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
