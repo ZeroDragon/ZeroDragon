@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Can You Really Get Over Someone by Getting Under Someone?](https://lifehacker.com/can-you-really-get-over-someone-by-getting-under-someon-1850038232)
+- [Lifehacker] [8 Grammar Mistakes Your Probably Making Every Day &lpar;I Did That on Purpose&rpar;](https://lifehacker.com/8-grammar-mistakes-your-probably-making-every-day-i-di-1850039059)
+- [Dev.to/JS] [js higher order function?](https://dev.to/zawzawmyint/js-higher-order-function-1an6)
 - [Lifehacker] [Make ‘Elephant Ears’ With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
 - [Dev.to/JS] [Solucionando desafios do HackerHank usando TypeScript](https://dev.to/trinitypath/solucionando-desafios-do-hackerhank-usando-typescript-5hig)
 - [Dev.to/JS] [Objects in JavaScript](https://dev.to/gladwinbusula/objects-in-javascript-1kjj)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HOW TO DESIGN ANIMATED LIGHT AND DARK MODE SWITCHER IN FIGMA FIGMA TUTORIALS](https://dev.to/devmdee/how-to-design-animated-light-and-dark-mode-switcher-in-figma-figma-tutorials-32d6)
 - [Dev.to/JS] [How To Master JavaScript DOM: Beginners Guide](https://dev.to/emmykolic/how-to-master-javascript-dom-beginners-guide-353c)
 - [Dev.to/JS] [How to Code the Greatest Common Divisor Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-greatest-common-divisor-algorithm-in-javascript-and-python-2426)
-- [Dev.to/JS] [Best practices for writing clean and maintainable code](https://dev.to/chetanam/best-practices-for-writing-clean-and-maintainable-code-55bc)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Asteroid 2023 BU Is a &#39;Near-Earth&#39; Asteroid](https://lifehacker.com/asteroid-2023-bu-is-a-near-earth-asteroid-1850031553)
 - [Lifehacker] [When Does an Old iPhone Become a Security Risk?](https://lifehacker.com/when-does-an-old-iphone-become-a-security-risk-1850031165)
 - [Lifehacker] [6 of the Best Drinking Games to Play During Super Bowl LVII](https://lifehacker.com/6-of-the-best-drinking-games-to-play-during-super-bowl-1850029952)
-- [Lifehacker] [10 Professional Kitchen Tools I Use in My Home Kitchen](https://lifehacker.com/10-professional-kitchen-tools-i-use-in-my-home-kitchen-1850030795)
-- [Lifehacker] [How to Turn an Old TV Into Something Cool](https://lifehacker.com/how-to-turn-an-old-tv-into-something-cool-1850030373)
-- [Lifehacker] [You Can Find Out What Your ‘Check Engine’ Light Means for Free](https://lifehacker.com/you-can-find-out-what-your-check-engine-light-means-f-1850030619)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Professional Kitchen Tools I Use in My Home Kitchen](https://lifehacker.com/10-professional-kitchen-tools-i-use-in-my-home-kitchen-1850030795)<!-- TECH-POSTS:END -->
 
 ---
 
