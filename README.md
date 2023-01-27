@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make ‘Elephant Ears’ With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
+- [Dev.to/JS] [Solucionando desafios do HackerHank usando TypeScript](https://dev.to/trinitypath/solucionando-desafios-do-hackerhank-usando-typescript-5hig)
+- [Dev.to/JS] [Objects in JavaScript](https://dev.to/gladwinbusula/objects-in-javascript-1kjj)
+- [Dev.to/JS] [What is the Difference Between Data Type and Data Structure?](https://dev.to/catherineisonline/what-is-the-difference-between-data-type-and-data-structure-4ehk)
+- [Dev.to/JS] [Objects In Javascript](https://dev.to/jillianmwangi/objects-in-javascript-5f5)
+- [Dev.to/JS] [Filtering Data with Infinite Table for React](https://dev.to/radubrehar/filtering-data-with-infinite-table-for-react-3bce)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Entre notas e velinhas.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-entre-notas-e-velinhas-2f0p)
 - [Dev.to/JS] [How to edit a video with Shotcut Video Editor – Free Video Editing Software](https://dev.to/devmdee/how-to-edit-a-video-with-shotcut-video-editor-free-video-editing-software-556c)
 - [Dev.to/JS] [10 Amazing A I Website that will blow your Mind!!!](https://dev.to/devmdee/10-amazing-a-i-website-that-will-blow-your-mind-1d9i)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Master JavaScript DOM: Beginners Guide](https://dev.to/emmykolic/how-to-master-javascript-dom-beginners-guide-353c)
 - [Dev.to/JS] [How to Code the Greatest Common Divisor Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-greatest-common-divisor-algorithm-in-javascript-and-python-2426)
 - [Dev.to/JS] [Best practices for writing clean and maintainable code](https://dev.to/chetanam/best-practices-for-writing-clean-and-maintainable-code-55bc)
-- [Dev.to/JS] [Data Types In JavaScript](https://dev.to/martinmurithi/data-types-in-javascript-49i8)
-- [Dev.to/JS] [Can Lay-offs be STOPPED??? is there a solution??](https://dev.to/911anjali/can-lay-offs-be-stopped-is-there-a-solution-3oa0)
-- [Dev.to/JS] [5 Websites to help you learn Frontend Web Development Faster](https://dev.to/onlydevs_/5-websites-to-help-you-learn-frontend-web-development-faster-1ici)
-- [Dev.to/JS] [Strapi: Fast and Easy to use CMS with bunch of cool features](https://dev.to/frontend_house/strapi-fast-and-easy-to-use-cms-with-bunch-of-cool-features-1bmm)
-- [Dev.to/JS] [Simple Javascript utility to flatten a json object](https://dev.to/elsyng/simple-javascript-utility-to-flatten-a-json-object-46ck)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 of the Best Drinking Games to Play During Super Bowl LVII](https://lifehacker.com/6-of-the-best-drinking-games-to-play-during-super-bowl-1850029952)
 - [Lifehacker] [10 Professional Kitchen Tools I Use in My Home Kitchen](https://lifehacker.com/10-professional-kitchen-tools-i-use-in-my-home-kitchen-1850030795)
 - [Lifehacker] [How to Turn an Old TV Into Something Cool](https://lifehacker.com/how-to-turn-an-old-tv-into-something-cool-1850030373)
-- [Lifehacker] [You Can Find Out What Your ‘Check Engine’ Light Means for Free](https://lifehacker.com/you-can-find-out-what-your-check-engine-light-means-f-1850030619)
-- [Lifehacker] [Fix Your PC’s Broken Start Menu](https://lifehacker.com/fix-your-pc-s-broken-start-menu-1850029801)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Find Out What Your ‘Check Engine’ Light Means for Free](https://lifehacker.com/you-can-find-out-what-your-check-engine-light-means-f-1850030619)<!-- TECH-POSTS:END -->
 
 ---
 
