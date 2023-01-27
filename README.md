@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
+- [Dev.to/JS] [In search of subsequence](https://dev.to/sarunasmedeikis/in-search-of-subsequence-64e)
+- [Lifehacker] [What You Should Clean in Your House After Someone Gets Sick](https://lifehacker.com/what-you-should-clean-in-your-house-after-someone-gets-1850042324)
+- [Dev.to/JS] [Getting comfortable with react](https://dev.to/griffincodes1/getting-comfortable-with-react-37oi)
 - [Lifehacker] [14 of the Best Self-Care Deals to Gift Yourself for Under $25](https://lifehacker.com/14-of-the-best-self-care-deals-to-gift-yourself-for-und-1850041613)
 - [Dev.to/JS] [Introduction to Machine Learning](https://dev.to/eteimz/introduction-to-machine-learning-237l)
 - [Lifehacker] [10 Ways to Eat Dip for Breakfast, Lunch, and Dinner](https://lifehacker.com/10-ways-to-eat-dip-for-breakfast-lunch-and-dinner-1850041608)
@@ -42,10 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with Reactjs](https://dev.to/archijain/getting-started-with-reactjs-1ejl)
 - [Lifehacker] [Fix Your Switch&#39;s &#39;Goldeneye&#39; Controls to Be More Like Xbox&#39;s](https://lifehacker.com/fix-your-switchs-goldeneye-controls-to-be-more-like-xbo-1850040284)
 - [Dev.to/JS] [10 GitHub Repositories You Should Know as a JavaScript Developer](https://dev.to/gaelgthomas/10-github-repositories-you-should-know-as-a-javascript-developer-2ji6)
-- [Dev.to/JS] [Code Smell 193 - Switch Instead of Formula](https://dev.to/mcsee/code-smell-193-switch-instead-of-formula-adl)
 - [Lifehacker] [Blend Bacon Straight Into Your Salad Dressing](https://lifehacker.com/blend-bacon-straight-into-your-salad-dressing-1850040200)
 - [Lifehacker] [13 Common Idioms the Kids Don’t Understand](https://lifehacker.com/13-common-idioms-the-kids-don-t-understand-1850035015)
-- [Dev.to/JS] [Bricks on bricks](https://dev.to/jpstorrie/bricks-on-bricks-4nap)
 - [Lifehacker] [How to Leverage Pay Transparency During Your Next Interview](https://lifehacker.com/how-to-leverage-pay-transparency-during-your-next-inter-1850006082)
 - [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
 - [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much You Should Be Tipping Hotel Housekeeping in 2023](https://lifehacker.com/how-much-you-should-be-tipping-hotel-housekeeping-in-20-1850035737)
 - [Lifehacker] [Look for This Icon Before Buying on Google Flights](https://lifehacker.com/look-for-this-icon-before-buying-on-google-flights-1850036412)
 - [Lifehacker] [13 Video Game Adaptations Nearly As Good As &#39;The Last of Us&#39;](https://lifehacker.com/13-video-game-adaptations-nearly-as-good-as-the-last-of-1850029703)
-- [Lifehacker] [Build Your Next Breakfast Sandwich on French Toast](https://lifehacker.com/build-your-next-breakfast-sandwich-on-french-toast-1850035761)
-- [Lifehacker] [How Your Community’s ‘Walk Score’ Directly Impacts Your Life](https://lifehacker.com/how-your-community-s-walk-score-directly-impacts-your-1850035353)
-- [Lifehacker] [What&#39;s New on HBO Max in February 2023](https://lifehacker.com/whats-new-on-hbo-max-in-february-2023-1850035205)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Build Your Next Breakfast Sandwich on French Toast](https://lifehacker.com/build-your-next-breakfast-sandwich-on-french-toast-1850035761)<!-- TECH-POSTS:END -->
 
 ---
 
