@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 - [Dev.to/JS] [Creating your own mini Redux using Context API and useReducer hook | React.js](https://dev.to/nabeel529886/creating-your-own-mini-redux-using-context-api-and-usereducer-hook-reactjs-4436)
-- [Dev.to/JS] [I created an animation in 5 hours to understand The Event Loop in JavaScript 🤯🔥](https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi)
+- [Dev.to/JS] [I created an amazing animation to understand The Event Loop in JavaScript 🤯🔥](https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi)
 - [Dev.to/JS] [Angular + Django Rest Framework - A Winning Combo!](https://dev.to/hseritt/angular-django-rest-framework-a-winning-combo-5ghl)
 - [Dev.to/JS] [React Carousel Component &quot;with Batteries Included&quot;](https://dev.to/yifanai/react-carousel-component-with-batteries-included-42i1)
 - [Dev.to/JS] [#ScienceToTech #2: My Javascript Kata [CodeWars] Solutions](https://dev.to/aucodes/sciencetotech-2-my-javascript-kata-codewars-solutions-15jh)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
 - [Lifehacker] [Three Ways to Clean the Grossest Part of Your Instant Pot](https://lifehacker.com/three-ways-to-clean-the-grossest-part-of-your-instant-p-1850036652)
-- [Lifehacker] [This App Turns the World Into a Wikipedia Scavenger Hunt](https://lifehacker.com/this-app-turns-the-world-into-a-wikipedia-scavenger-hun-1850035668)
-- [Lifehacker] [How Much You Should Be Tipping Hotel Housekeeping in 2023](https://lifehacker.com/how-much-you-should-be-tipping-hotel-housekeeping-in-20-1850035737)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This App Turns the World Into a Wikipedia Scavenger Hunt](https://lifehacker.com/this-app-turns-the-world-into-a-wikipedia-scavenger-hun-1850035668)<!-- TECH-POSTS:END -->
 
 ---
 
