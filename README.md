@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data encapsulation in JavaScript](https://dev.to/bolouie/data-encapsulation-in-javascript-1e9)
 - [Dev.to/JS] [Building a Loading Component with ChatGPT](https://dev.to/infoxicator/building-a-loading-component-with-chatgpt-26od)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Dev.to/JS] [How I fixed the React Router Issue](https://dev.to/taepal467/how-i-fixed-the-react-router-issue-2dg0)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understand Bitwise AND &lpar;&amp;&rpar; with JavaScript: 5-minute tutorial](https://dev.to/educative/understand-bitwise-and-with-javascript-5-minute-tutorial-2b4a)
 - [Dev.to/JS] [Definitive Guide for Commitizen + Commitlint + Husky](https://dev.to/ghacosta/definitive-guide-for-commitizen-commitlint-husky-3of9)
 - [Lifehacker] [When to Take the Money in a Class-Action Settlement &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-take-the-money-in-a-class-action-settlement-an-1850040355)
-- [Dev.to/JS] [React Native Installation Guide](https://dev.to/alimammiya/react-native-installation-guide-28p1)
 - [Lifehacker] [Fix Your Switch&#39;s &#39;Goldeneye&#39; Controls to Be More Like Xbox&#39;s](https://lifehacker.com/fix-your-switchs-goldeneye-controls-to-be-more-like-xbo-1850040284)
 - [Lifehacker] [Blend Bacon Straight Into Your Salad Dressing](https://lifehacker.com/blend-bacon-straight-into-your-salad-dressing-1850040200)
 - [Lifehacker] [13 Common Idioms the Kids Don’t Understand](https://lifehacker.com/13-common-idioms-the-kids-don-t-understand-1850035015)
