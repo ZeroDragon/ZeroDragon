@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Common Pitfalls in Angular Component Testing](https://dev.to/danywalls/common-pitfalls-in-angular-component-testing-3e1f)
 - [Dev.to/JS] [Mono Respositories in JS/TS. What? Why? and How? &lpar;with Nx&rpar;](https://dev.to/pratikcodes/mono-respositories-in-jsts-what-why-and-how-with-nx-14he)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;28-01-2023&rpar; - Extreme Plumbing](https://dev.to/mjgs/this-weeks-newsletter-is-out-28-01-2023-extreme-plumbing-4f1h)
 - [Dev.to/JS] [Progenifix - Weight Loss Pills, Reviews, Pros, Cons, Uses &amp; Results?](https://dev.to/progenifixpills/progenifix-weight-loss-pills-reviews-pros-cons-uses-results-5ahn)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to test if a function calls range in python?](https://dev.to/emmanuelkadominah/how-to-test-if-a-function-calls-range-in-python-c6e)
 - [Dev.to/JS] [How to Add JWT Authentication to NestJS Apps](https://dev.to/leduc1901/how-to-add-jwt-authentication-to-nestjs-apps-6bb)
 - [Dev.to/JS] [Hey everyone! I&#39;ve just completed the Frontend Mentor &quot;QR-code-component&quot; challenge.](https://dev.to/ozioma45/hey-everyone-ive-just-completed-the-frontend-mentor-qr-code-component-challenge-4plo)
-- [Dev.to/JS] [7 Tips to Boost Your Productivity as a Developer &lpar;You&#39;ll Be Amazed by #3!&rpar;](https://dev.to/chetanam/7-tips-to-boost-your-productivity-as-a-developer-youll-be-amazed-by-3-8je)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
