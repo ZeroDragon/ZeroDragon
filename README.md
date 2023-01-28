@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Using ES6 Proxy for Cross-cut Concerns - A Real-world Example](https://dev.to/zenstack/using-es6-proxy-for-cross-cut-concerns-a-real-world-example-5ggd)
+- [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
+- [Dev.to/JS] [Разбор compact&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-compact-v-lodash-397a)
+- [Dev.to/JS] [Разбор chunk&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-chunk-v-lodash-1goh)
+- [Dev.to/JS] [Frontend, Backend or Full-Stack](https://dev.to/oluwatrillions/frontend-backend-or-full-stack-2epi)
+- [Dev.to/JS] [Разбор debounce&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-debounce-v-lodash-2o04)
+- [Dev.to/JS] [Looking for the best React Editor library](https://dev.to/thomasfindlay/looking-for-the-best-react-editor-library-3ge1)
+- [Dev.to/JS] [Javascript Array Some Method](https://dev.to/smpnjn/javascript-array-some-method-1bna)
+- [Dev.to/JS] [Implementing Cross-cut Concerns with ES6 Proxy: A Practical Example](https://dev.to/zenstack/using-es6-proxy-for-cross-cut-concerns-a-real-world-example-5ggd)
 - [Dev.to/JS] [7 different JavaScript console methods you never knew existed 🤯](https://dev.to/vivek96_/7-different-javascript-console-methods-you-never-knew-existed-131k)
 - [Dev.to/JS] [Create Mini-Apps That Wow: How to build Sleek and Fast mobile apps using any JS Frameworks and Ionic Portals](https://dev.to/mhushang/create-mini-apps-that-wow-how-to-build-sleek-and-fast-mobile-apps-using-any-js-frameworks-and-ionic-portals-3n2n)
 - [Dev.to/JS] [Why DTOs are a Must-Have in Nest.js API Development](https://dev.to/bivor/why-dtos-are-a-must-have-in-nestjs-api-development-3j2j)
 - [Dev.to/JS] [Reactivity without Virtual DOM on the example of cample.js beta versions](https://dev.to/antonmak1/reactivity-without-virtual-dom-on-the-example-of-camplejs-beta-versions-bhh)
 - [Dev.to/JS] [React: The Future of Web Development](https://dev.to/tanbiralam/react-the-future-of-web-development-5329)
-- [Dev.to/JS] [Do be Evil; using JavaScript eval method safely in React js](https://dev.to/kipyegonline/do-be-evil-using-javascript-eval-method-safely-in-react-4928)
-- [Dev.to/JS] [Save your clients internet, Serving big JSON dataset files over network like a pro](https://dev.to/rajeshroyal/save-your-clients-internet-serving-big-json-dataset-files-over-network-like-a-pro-4fde)
-- [Dev.to/JS] [Common Pitfalls in Angular Component Testing](https://dev.to/danywalls/common-pitfalls-in-angular-component-testing-3e1f)
-- [Dev.to/JS] [Mono Respositories in JS/TS. What? Why? and How? &lpar;with Nx&rpar;](https://dev.to/pratikcodes/mono-respositories-in-jsts-what-why-and-how-with-nx-14he)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;28-01-2023&rpar; - Extreme Plumbing](https://dev.to/mjgs/this-weeks-newsletter-is-out-28-01-2023-extreme-plumbing-4f1h)
-- [Dev.to/JS] [Progenifix - Weight Loss Pills, Reviews, Pros, Cons, Uses &amp; Results?](https://dev.to/progenifixpills/progenifix-weight-loss-pills-reviews-pros-cons-uses-results-5ahn)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
 - [Lifehacker] [Three Ways to Clean the Grossest Part of Your Instant Pot](https://lifehacker.com/three-ways-to-clean-the-grossest-part-of-your-instant-p-1850036652)
 - [Lifehacker] [This App Turns the World Into a Wikipedia Scavenger Hunt](https://lifehacker.com/this-app-turns-the-world-into-a-wikipedia-scavenger-hun-1850035668)
-- [Lifehacker] [How Much You Should Be Tipping Hotel Housekeeping in 2023](https://lifehacker.com/how-much-you-should-be-tipping-hotel-housekeeping-in-20-1850035737)
-- [Lifehacker] [Look for This Icon Before Buying on Google Flights](https://lifehacker.com/look-for-this-icon-before-buying-on-google-flights-1850036412)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Much You Should Be Tipping Hotel Housekeeping in 2023](https://lifehacker.com/how-much-you-should-be-tipping-hotel-housekeeping-in-20-1850035737)<!-- TECH-POSTS:END -->
 
 ---
 
