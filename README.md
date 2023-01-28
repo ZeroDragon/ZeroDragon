@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React: The Future of Web Development](https://dev.to/tanbiralam/react-the-future-of-web-development-5329)
+- [Dev.to/JS] [Do be Evil; using JavaScript eval method safely in React js](https://dev.to/kipyegonline/do-be-evil-using-javascript-eval-method-safely-in-react-4928)
+- [Dev.to/JS] [Save your clients internet, Serving big JSON dataset files over network like a pro](https://dev.to/rajeshroyal/save-your-clients-internet-serving-big-json-dataset-files-over-network-like-a-pro-4fde)
 - [Dev.to/JS] [Common Pitfalls in Angular Component Testing](https://dev.to/danywalls/common-pitfalls-in-angular-component-testing-3e1f)
 - [Dev.to/JS] [Mono Respositories in JS/TS. What? Why? and How? &lpar;with Nx&rpar;](https://dev.to/pratikcodes/mono-respositories-in-jsts-what-why-and-how-with-nx-14he)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;28-01-2023&rpar; - Extreme Plumbing](https://dev.to/mjgs/this-weeks-newsletter-is-out-28-01-2023-extreme-plumbing-4f1h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Nestia] 15,000x faster validators and tRPC &lpar;SDK&rpar; for NestJS](https://dev.to/samchon/nestia-15000x-faster-validators-and-trpc-sdk-for-nestjs-248k)
 - [Dev.to/JS] [useEffect&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useeffect-19m2)
 - [Dev.to/JS] [Completely Free Meeting Api --&gt; step by step implemetation](https://dev.to/rizmyabdulla/completely-free-meeting-api-step-by-step-implemetation-4lbm)
-- [Dev.to/JS] [How to test if a function calls range in python?](https://dev.to/emmanuelkadominah/how-to-test-if-a-function-calls-range-in-python-c6e)
-- [Dev.to/JS] [How to Add JWT Authentication to NestJS Apps](https://dev.to/leduc1901/how-to-add-jwt-authentication-to-nestjs-apps-6bb)
-- [Dev.to/JS] [Hey everyone! I&#39;ve just completed the Frontend Mentor &quot;QR-code-component&quot; challenge.](https://dev.to/ozioma45/hey-everyone-ive-just-completed-the-frontend-mentor-qr-code-component-challenge-4plo)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
