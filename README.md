@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using ES6 Proxy for Cross-cut Concerns - A Real-world Example](https://dev.to/zenstack/using-es6-proxy-for-cross-cut-concerns-a-real-world-example-5ggd)
+- [Dev.to/JS] [7 different JavaScript console methods you never knew existed 🤯](https://dev.to/vivek96_/7-different-javascript-console-methods-you-never-knew-existed-131k)
 - [Dev.to/JS] [Create Mini-Apps That Wow: How to build Sleek and Fast mobile apps using any JS Frameworks and Ionic Portals](https://dev.to/mhushang/create-mini-apps-that-wow-how-to-build-sleek-and-fast-mobile-apps-using-any-js-frameworks-and-ionic-portals-3n2n)
 - [Dev.to/JS] [Why DTOs are a Must-Have in Nest.js API Development](https://dev.to/bivor/why-dtos-are-a-must-have-in-nestjs-api-development-3j2j)
 - [Dev.to/JS] [Reactivity without Virtual DOM on the example of cample.js beta versions](https://dev.to/antonmak1/reactivity-without-virtual-dom-on-the-example-of-camplejs-beta-versions-bhh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mono Respositories in JS/TS. What? Why? and How? &lpar;with Nx&rpar;](https://dev.to/pratikcodes/mono-respositories-in-jsts-what-why-and-how-with-nx-14he)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;28-01-2023&rpar; - Extreme Plumbing](https://dev.to/mjgs/this-weeks-newsletter-is-out-28-01-2023-extreme-plumbing-4f1h)
 - [Dev.to/JS] [Progenifix - Weight Loss Pills, Reviews, Pros, Cons, Uses &amp; Results?](https://dev.to/progenifixpills/progenifix-weight-loss-pills-reviews-pros-cons-uses-results-5ahn)
-- [Dev.to/JS] [How to loop through object - JavaScript](https://dev.to/moibra/how-to-loop-through-object-javascript-34da)
-- [Dev.to/JS] [Async JavaScript: Simply Explained](https://dev.to/hy_piyush/async-javascript-simply-explained-4mpi)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
