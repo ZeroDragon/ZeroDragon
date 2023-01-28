@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactivity without Virtual DOM on the example of cample.js beta versions](https://dev.to/antonmak1/reactivity-without-virtual-dom-on-the-example-of-camplejs-beta-versions-bhh)
 - [Dev.to/JS] [React: The Future of Web Development](https://dev.to/tanbiralam/react-the-future-of-web-development-5329)
 - [Dev.to/JS] [Do be Evil; using JavaScript eval method safely in React js](https://dev.to/kipyegonline/do-be-evil-using-javascript-eval-method-safely-in-react-4928)
 - [Dev.to/JS] [Save your clients internet, Serving big JSON dataset files over network like a pro](https://dev.to/rajeshroyal/save-your-clients-internet-serving-big-json-dataset-files-over-network-like-a-pro-4fde)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async JavaScript: Simply Explained](https://dev.to/hy_piyush/async-javascript-simply-explained-4mpi)
 - [Dev.to/JS] [[Nestia] 15,000x faster validators and tRPC &lpar;SDK&rpar; for NestJS](https://dev.to/samchon/nestia-15000x-faster-validators-and-trpc-sdk-for-nestjs-248k)
 - [Dev.to/JS] [useEffect&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useeffect-19m2)
-- [Dev.to/JS] [Completely Free Meeting Api --&gt; step by step implemetation](https://dev.to/rizmyabdulla/completely-free-meeting-api-step-by-step-implemetation-4lbm)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
