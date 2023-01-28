@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Mini-Apps That Wow: How to build Sleek and Fast mobile apps using any JS Frameworks and Ionic Portals](https://dev.to/mhushang/create-mini-apps-that-wow-how-to-build-sleek-and-fast-mobile-apps-using-any-js-frameworks-and-ionic-portals-3n2n)
+- [Dev.to/JS] [Why DTOs are a Must-Have in Nest.js API Development](https://dev.to/bivor/why-dtos-are-a-must-have-in-nestjs-api-development-3j2j)
 - [Dev.to/JS] [Reactivity without Virtual DOM on the example of cample.js beta versions](https://dev.to/antonmak1/reactivity-without-virtual-dom-on-the-example-of-camplejs-beta-versions-bhh)
 - [Dev.to/JS] [React: The Future of Web Development](https://dev.to/tanbiralam/react-the-future-of-web-development-5329)
 - [Dev.to/JS] [Do be Evil; using JavaScript eval method safely in React js](https://dev.to/kipyegonline/do-be-evil-using-javascript-eval-method-safely-in-react-4928)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Progenifix - Weight Loss Pills, Reviews, Pros, Cons, Uses &amp; Results?](https://dev.to/progenifixpills/progenifix-weight-loss-pills-reviews-pros-cons-uses-results-5ahn)
 - [Dev.to/JS] [How to loop through object - JavaScript](https://dev.to/moibra/how-to-loop-through-object-javascript-34da)
 - [Dev.to/JS] [Async JavaScript: Simply Explained](https://dev.to/hy_piyush/async-javascript-simply-explained-4mpi)
-- [Dev.to/JS] [[Nestia] 15,000x faster validators and tRPC &lpar;SDK&rpar; for NestJS](https://dev.to/samchon/nestia-15000x-faster-validators-and-trpc-sdk-for-nestjs-248k)
-- [Dev.to/JS] [useEffect&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useeffect-19m2)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
