@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I fixed the React Router Issue](https://dev.to/taepal467/how-i-fixed-the-react-router-issue-2dg0)
+- [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
 - [Dev.to/JS] [In search of subsequence](https://dev.to/sarunasmedeikis/in-search-of-subsequence-64e)
 - [Lifehacker] [What You Should Clean in Your House After Someone Gets Sick](https://lifehacker.com/what-you-should-clean-in-your-house-after-someone-gets-1850042324)
@@ -45,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native Installation Guide](https://dev.to/alimammiya/react-native-installation-guide-28p1)
 - [Dev.to/JS] [Getting started with Reactjs](https://dev.to/archijain/getting-started-with-reactjs-1ejl)
 - [Lifehacker] [Fix Your Switch&#39;s &#39;Goldeneye&#39; Controls to Be More Like Xbox&#39;s](https://lifehacker.com/fix-your-switchs-goldeneye-controls-to-be-more-like-xbo-1850040284)
-- [Dev.to/JS] [10 GitHub Repositories You Should Know as a JavaScript Developer](https://dev.to/gaelgthomas/10-github-repositories-you-should-know-as-a-javascript-developer-2ji6)
 - [Lifehacker] [Blend Bacon Straight Into Your Salad Dressing](https://lifehacker.com/blend-bacon-straight-into-your-salad-dressing-1850040200)
 - [Lifehacker] [13 Common Idioms the Kids Don’t Understand](https://lifehacker.com/13-common-idioms-the-kids-don-t-understand-1850035015)
 - [Lifehacker] [How to Leverage Pay Transparency During Your Next Interview](https://lifehacker.com/how-to-leverage-pay-transparency-during-your-next-inter-1850006082)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This App Turns the World Into a Wikipedia Scavenger Hunt](https://lifehacker.com/this-app-turns-the-world-into-a-wikipedia-scavenger-hun-1850035668)
 - [Lifehacker] [How Much You Should Be Tipping Hotel Housekeeping in 2023](https://lifehacker.com/how-much-you-should-be-tipping-hotel-housekeeping-in-20-1850035737)
 - [Lifehacker] [Look for This Icon Before Buying on Google Flights](https://lifehacker.com/look-for-this-icon-before-buying-on-google-flights-1850036412)
-- [Lifehacker] [13 Video Game Adaptations Nearly As Good As &#39;The Last of Us&#39;](https://lifehacker.com/13-video-game-adaptations-nearly-as-good-as-the-last-of-1850029703)
-- [Lifehacker] [Build Your Next Breakfast Sandwich on French Toast](https://lifehacker.com/build-your-next-breakfast-sandwich-on-french-toast-1850035761)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 Video Game Adaptations Nearly As Good As &#39;The Last of Us&#39;](https://lifehacker.com/13-video-game-adaptations-nearly-as-good-as-the-last-of-1850029703)<!-- TECH-POSTS:END -->
 
 ---
 
