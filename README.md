@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Socket.io VS Web Socket](https://dev.to/iyadchafroud/socketio-vs-web-socket-295h)
+- [Dev.to/JS] [Json vs Object in JavaScript🤔](https://dev.to/mofijulhaque/json-vs-object-in-javascript-l87)
+- [Dev.to/JS] [How to make Tic Tac Toe in HTML CSS and JavaScript?](https://dev.to/wirelessqna/how-to-make-tic-tac-toe-in-html-css-and-javascript-1b84)
+- [Dev.to/JS] [LeetCode - Gray Code](https://dev.to/_alkesh26/leetcode-gray-code-5d18)
 - [Dev.to/JS] [Window postMessage&lpar;&rpar; protocol using React](https://dev.to/abhishek305/window-postmessage-protocol-using-react-1eh8)
 - [Dev.to/JS] [CodeBoost - Code Completion Tool &lpar;VS Code Extension&rpar;](https://dev.to/codercrux/codeboost-code-completion-tool-vs-code-extension-j77)
 - [Dev.to/JS] [Clarity on closures in JavaScript](https://dev.to/bolouie/clarity-on-closures-in-javascript-4pmg)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular + Django Rest Framework - A Winning Combo!](https://dev.to/hseritt/angular-django-rest-framework-a-winning-combo-5ghl)
 - [Dev.to/JS] [React Carousel Component &quot;with Batteries Included&quot;](https://dev.to/yifanai/react-carousel-component-with-batteries-included-42i1)
 - [Dev.to/JS] [#ScienceToTech #2: My Javascript Kata [CodeWars] Solutions](https://dev.to/aucodes/sciencetotech-2-my-javascript-kata-codewars-solutions-15jh)
-- [Dev.to/JS] [Is Tracking User Behavior with JavaScript Ethical?](https://dev.to/sarahokolo/is-tracking-user-behavior-with-javascript-ethical-2km8)
-- [Dev.to/JS] [How to write a for loop in Javascript: a too many ways guide](https://dev.to/satie_sann/how-to-write-a-for-loop-in-javascript-a-too-many-ways-guide-5h03)
-- [Dev.to/JS] [Разбор concat&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-concat-v-lodash-c2d)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
-- [Dev.to/JS] [Разбор compact&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-compact-v-lodash-397a)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
