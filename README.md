@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating your own mini Redux using Context API and useReducer hook | React.js](https://dev.to/nabeel529886/creating-your-own-mini-redux-using-context-api-and-usereducer-hook-reactjs-4436)
+- [Dev.to/JS] [I created an animation in 5 hours to understand The Event Loop in JavaScript 🤯🔥](https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi)
 - [Dev.to/JS] [Angular + Django Rest Framework - A Winning Combo!](https://dev.to/hseritt/angular-django-rest-framework-a-winning-combo-5ghl)
 - [Dev.to/JS] [React Carousel Component &quot;with Batteries Included&quot;](https://dev.to/yifanai/react-carousel-component-with-batteries-included-42i1)
 - [Dev.to/JS] [#ScienceToTech #2: My Javascript Kata [CodeWars] Solutions](https://dev.to/aucodes/sciencetotech-2-my-javascript-kata-codewars-solutions-15jh)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Разбор chunk&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-chunk-v-lodash-1goh)
 - [Dev.to/JS] [Frontend, Backend or Full-Stack](https://dev.to/oluwatrillions/frontend-backend-or-full-stack-2epi)
 - [Dev.to/JS] [Разбор debounce&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-debounce-v-lodash-2o04)
-- [Dev.to/JS] [Looking for the best React Editor library](https://dev.to/thomasfindlay/looking-for-the-best-react-editor-library-3ge1)
-- [Dev.to/JS] [Javascript Array Some Method](https://dev.to/smpnjn/javascript-array-some-method-1bna)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
