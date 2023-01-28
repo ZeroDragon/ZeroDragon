@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular + Django Rest Framework - A Winning Combo!](https://dev.to/hseritt/angular-django-rest-framework-a-winning-combo-5ghl)
+- [Dev.to/JS] [React Carousel Component &quot;with Batteries Included&quot;](https://dev.to/yifanai/react-carousel-component-with-batteries-included-42i1)
+- [Dev.to/JS] [#ScienceToTech #2: My Javascript Kata [CodeWars] Solutions](https://dev.to/aucodes/sciencetotech-2-my-javascript-kata-codewars-solutions-15jh)
+- [Dev.to/JS] [Is Tracking User Behavior with JavaScript Ethical?](https://dev.to/sarahokolo/is-tracking-user-behavior-with-javascript-ethical-2km8)
+- [Dev.to/JS] [How to write a for loop in Javascript: a too many ways guide](https://dev.to/satie_sann/how-to-write-a-for-loop-in-javascript-a-too-many-ways-guide-5h03)
+- [Dev.to/JS] [Разбор concat&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-concat-v-lodash-c2d)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Dev.to/JS] [Разбор compact&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-compact-v-lodash-397a)
 - [Dev.to/JS] [Разбор chunk&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-chunk-v-lodash-1goh)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Разбор debounce&lpar;&rpar; в lodash](https://dev.to/usersavchenko/razbor-debounce-v-lodash-2o04)
 - [Dev.to/JS] [Looking for the best React Editor library](https://dev.to/thomasfindlay/looking-for-the-best-react-editor-library-3ge1)
 - [Dev.to/JS] [Javascript Array Some Method](https://dev.to/smpnjn/javascript-array-some-method-1bna)
-- [Dev.to/JS] [Implementing Cross-cut Concerns with ES6 Proxy: A Practical Example](https://dev.to/zenstack/using-es6-proxy-for-cross-cut-concerns-a-real-world-example-5ggd)
-- [Dev.to/JS] [7 different JavaScript console methods you never knew existed 🤯](https://dev.to/vivek96_/7-different-javascript-console-methods-you-never-knew-existed-131k)
-- [Dev.to/JS] [Create Mini-Apps That Wow: How to build Sleek and Fast mobile apps using any JS Frameworks and Ionic Portals](https://dev.to/mhushang/create-mini-apps-that-wow-how-to-build-sleek-and-fast-mobile-apps-using-any-js-frameworks-and-ionic-portals-3n2n)
-- [Dev.to/JS] [Why DTOs are a Must-Have in Nest.js API Development](https://dev.to/bivor/why-dtos-are-a-must-have-in-nestjs-api-development-3j2j)
-- [Dev.to/JS] [Reactivity without Virtual DOM on the example of cample.js beta versions](https://dev.to/antonmak1/reactivity-without-virtual-dom-on-the-example-of-camplejs-beta-versions-bhh)
-- [Dev.to/JS] [React: The Future of Web Development](https://dev.to/tanbiralam/react-the-future-of-web-development-5329)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
