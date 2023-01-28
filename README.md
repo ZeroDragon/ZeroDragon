@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Selenium Behind: Taking the Leap Into the Cypress World](https://dev.to/atulkrsharma/selenium-behind-taking-the-leap-into-the-cypress-world-2637)
 - [Dev.to/JS] [Starchart: Planning Toward Release 0.1](https://dev.to/cychu42/starchart-plan-for-release-01-26ba)
 - [Dev.to/JS] [Data encapsulation in JavaScript](https://dev.to/bolouie/data-encapsulation-in-javascript-1e9)
 - [Dev.to/JS] [Building a Loading Component with ChatGPT](https://dev.to/infoxicator/building-a-loading-component-with-chatgpt-26od)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Podcasts You Didn’t Know Could Even Be a Podcast](https://lifehacker.com/12-podcasts-you-didn-t-know-could-be-a-podcast-1850016905)
 - [Dev.to/JS] [The basics of asynchronous JavaScript](https://dev.to/thatmwcoder/the-basics-of-asynchronous-javascript-2798)
 - [Lifehacker] [Check These Databases for Retirement Savings You Forgot About](https://lifehacker.com/check-these-databases-for-retirement-savings-you-forgot-1850037905)
-- [Dev.to/JS] [Understand Bitwise AND &lpar;&amp;&rpar; with JavaScript: 5-minute tutorial](https://dev.to/educative/understand-bitwise-and-with-javascript-5-minute-tutorial-2b4a)
 - [Lifehacker] [When to Take the Money in a Class-Action Settlement &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-take-the-money-in-a-class-action-settlement-an-1850040355)
 - [Lifehacker] [Fix Your Switch&#39;s &#39;Goldeneye&#39; Controls to Be More Like Xbox&#39;s](https://lifehacker.com/fix-your-switchs-goldeneye-controls-to-be-more-like-xbo-1850040284)
 - [Lifehacker] [Blend Bacon Straight Into Your Salad Dressing](https://lifehacker.com/blend-bacon-straight-into-your-salad-dressing-1850040200)
