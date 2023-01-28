@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fundamentos de TDD](https://dev.to/abelsouzacosta/fundamentos-de-tdd-9c4)
+- [Dev.to/JS] [Testes de código: definções e principais aspectos](https://dev.to/abelsouzacosta/testes-de-codigo-defincoes-e-principais-aspectos-4511)
 - [Dev.to/JS] [Socket.io VS Web Socket](https://dev.to/iyadchafroud/socketio-vs-web-socket-295h)
 - [Dev.to/JS] [Json vs Object in JavaScript🤔](https://dev.to/mofijulhaque/json-vs-object-in-javascript-l87)
 - [Dev.to/JS] [How to make Tic Tac Toe in HTML CSS and JavaScript?](https://dev.to/wirelessqna/how-to-make-tic-tac-toe-in-html-css-and-javascript-1b84)
@@ -34,9 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating your own mini Redux using Context API and useReducer hook | React.js](https://dev.to/nabeel529886/creating-your-own-mini-redux-using-context-api-and-usereducer-hook-reactjs-4436)
 - [Dev.to/JS] [I created an animation to understand The Event Loop in JavaScript 🤯🔥](https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi)
 - [Dev.to/JS] [Angular + Django Rest Framework - A Winning Combo!](https://dev.to/hseritt/angular-django-rest-framework-a-winning-combo-5ghl)
-- [Dev.to/JS] [React Carousel Component &quot;with Batteries Included&quot;](https://dev.to/yifanai/react-carousel-component-with-batteries-included-42i1)
-- [Dev.to/JS] [#ScienceToTech #2: My Javascript Kata [CodeWars] Solutions](https://dev.to/aucodes/sciencetotech-2-my-javascript-kata-codewars-solutions-15jh)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
+- [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
-- [Lifehacker] [Three Ways to Clean the Grossest Part of Your Instant Pot](https://lifehacker.com/three-ways-to-clean-the-grossest-part-of-your-instant-p-1850036652)
-- [Lifehacker] [This App Turns the World Into a Wikipedia Scavenger Hunt](https://lifehacker.com/this-app-turns-the-world-into-a-wikipedia-scavenger-hun-1850035668)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Ways to Clean the Grossest Part of Your Instant Pot](https://lifehacker.com/three-ways-to-clean-the-grossest-part-of-your-instant-p-1850036652)<!-- TECH-POSTS:END -->
 
 ---
 
