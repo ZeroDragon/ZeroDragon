@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
+- [Dev.to/JS] [Choosing the right JS framework for your next project is now easy!](https://dev.to/vivek96_/choosing-the-right-js-framework-for-your-next-project-is-now-easy-4dke)
+- [Dev.to/JS] [Generating React native code using chat GPT.](https://dev.to/ritesh2204/generating-react-native-code-using-chat-gpt-3m17)
+- [Dev.to/JS] [A better way to set up a Cloudflare worker project locally with Miniflare](https://dev.to/hrishiksh/a-better-way-to-set-up-a-cloudflare-worker-project-locally-with-miniflare-55io)
+- [Dev.to/JS] [5 tips to improve backend integration, React with Axios](https://dev.to/antoniojuniordev/5-tips-to-improve-backend-integration-react-with-axios-b3p)
 - [Dev.to/JS] [5 tips to improve integration with the backend, Angular and Rxjs](https://dev.to/antoniojuniordev/5-tips-to-improve-integration-with-the-backend-angular-and-rxjs-44d9)
 - [Dev.to/JS] [Difference between call, bind and apply methods in javascript](https://dev.to/frontend_jedi/difference-between-call-bind-and-apply-methods-in-javascript-42dj)
 - [Dev.to/JS] [Writing a simple AI-powered chrome extension for LinkedIn](https://dev.to/boodyvo/writing-a-simple-ai-powered-chrome-extension-for-linkedin-3omj)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The most beautiful world paintings ever!](https://dev.to/azzrkc/the-most-beautiful-world-paintings-ever-1g4j)
 - [Dev.to/JS] [How to Become a Web Developer and Where to Start ?](https://dev.to/mesaqib/how-to-become-a-web-developer-and-where-to-start--28hl)
 - [Dev.to/JS] [Getting Started with Redis and Node.JS](https://dev.to/smpnjn/getting-started-with-redis-and-nodejs-2p11)
-- [Dev.to/JS] [Build your web apps using Next.js](https://dev.to/codemaker2015/build-your-web-apps-using-nextjs-2c2o)
-- [Dev.to/JS] [Typed forms in Angular](https://dev.to/ilyoskhuja/typed-forms-in-angular-3ib8)
-- [Dev.to/JS] [Build TypeSafe Node API using tRPC, Fastify, Kysely and Atlas CLI](https://dev.to/franciscomendes10866/build-typesafe-node-api-using-trpc-fastify-kysely-and-atlas-cli-580c)
-- [Dev.to/JS] [The ultimate template for publishing ES modules](https://dev.to/semicognitive/the-ultimate-template-for-publishing-es-modules-1lik)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Grammar Mistakes Your Probably Making Every Day &lpar;I Did That on Purpose&rpar;](https://lifehacker.com/8-grammar-mistakes-your-probably-making-every-day-i-di-1850039059)
 - [Lifehacker] [Make Your Own County Fair Confection With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
-- [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
-- [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)<!-- TECH-POSTS:END -->
 
 ---
 
