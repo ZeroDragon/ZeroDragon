@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Handy Way of Building Reusable React Components &lpar;Inspired by Hemingway&rpar;](https://dev.to/sashevuchkov/a-handy-way-of-building-reusable-react-components-inspired-by-hemingway-4938)
+- [Dev.to/JS] [The most beautiful world paintings ever!](https://dev.to/azzrkc/the-most-beautiful-world-paintings-ever-1g4j)
+- [Dev.to/JS] [How to Become a Web Developer and Where to Start ?](https://dev.to/mesaqib/how-to-become-a-web-developer-and-where-to-start--28hl)
 - [Dev.to/JS] [Getting Started with Redis and Node.JS](https://dev.to/smpnjn/getting-started-with-redis-and-nodejs-2p11)
 - [Dev.to/JS] [Build your web apps using Next.js](https://dev.to/codemaker2015/build-your-web-apps-using-nextjs-2c2o)
 - [Dev.to/JS] [Typed forms in Angular](https://dev.to/ilyoskhuja/typed-forms-in-angular-3ib8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What advantages does React bring to web development when compared to using JavaScript alone?](https://dev.to/saikrinan/what-advantages-does-react-bring-to-web-development-when-compared-to-using-javascript-alone-eo7)
 - [Dev.to/JS] [Save time by using array functions in Javascript](https://dev.to/patzi275/save-time-by-using-array-functions-in-javascript-e41)
 - [Dev.to/JS] [How to display a preview of an image upload in React](https://dev.to/nikolasbarwicki/how-to-display-a-preview-of-an-image-upload-in-react-5h8m)
-- [Dev.to/JS] [FizzBuzz Theory](https://dev.to/faladetimilehin/fizzbuzz-theory-3i9e)
-- [Dev.to/JS] [Heads or Tails with JS](https://dev.to/walternascimentobarroso/heads-or-tails-with-js-3kkj)
-- [Dev.to/JS] [TypeScript&#39;s Utility Types: A developer&#39;s guide to strong typing](https://dev.to/awaisalwaisy/typescripts-utility-types-a-developers-guide-to-strong-typing-425e)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
