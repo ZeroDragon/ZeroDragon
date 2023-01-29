@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Pivot Chart to Replace Your Pivot Table](https://dev.to/observedobserver/using-pivot-chart-to-replace-your-pivot-table-4bh3)
+- [Dev.to/JS] [Top 5 advantages of headless CMS over a traditional CMS](https://dev.to/momciloo/top-5-advantages-of-headless-cms-over-a-traditional-cms-211e)
+- [Dev.to/JS] [Creating the effect of traveling through space](https://dev.to/eyudinkov/creating-the-effect-of-traveling-through-space-mfg)
+- [Dev.to/JS] [Angular - building apps without modules](https://dev.to/ilyoskhuja/angular-building-apps-without-modules-gc8)
+- [Dev.to/JS] [The Directive Composition API in Angular](https://dev.to/ilyoskhuja/the-directive-composition-api-in-angular-9n6)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Dev.to/JS] [Choosing the right JS framework for your next project is now easy!](https://dev.to/vivek96_/choosing-the-right-js-framework-for-your-next-project-is-now-easy-4dke)
 - [Dev.to/JS] [Generating React native code using chat GPT.](https://dev.to/ritesh2204/generating-react-native-code-using-chat-gpt-3m17)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 tips to improve integration with the backend, Angular and Rxjs](https://dev.to/antoniojuniordev/5-tips-to-improve-integration-with-the-backend-angular-and-rxjs-44d9)
 - [Dev.to/JS] [Difference between call, bind and apply methods in javascript](https://dev.to/frontend_jedi/difference-between-call-bind-and-apply-methods-in-javascript-42dj)
 - [Dev.to/JS] [Writing a simple AI-powered chrome extension for LinkedIn](https://dev.to/boodyvo/writing-a-simple-ai-powered-chrome-extension-for-linkedin-3omj)
-- [Dev.to/JS] [Where to Host a Node.js App](https://dev.to/devland/where-to-host-a-nodejs-app-3lj6)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
-- [Dev.to/JS] [A Handy Way of Building Reusable React Components &lpar;Inspired by Hemingway&rpar;](https://dev.to/sashevuchkov/a-handy-way-of-building-reusable-react-components-inspired-by-hemingway-4938)
-- [Dev.to/JS] [The most beautiful world paintings ever!](https://dev.to/azzrkc/the-most-beautiful-world-paintings-ever-1g4j)
-- [Dev.to/JS] [How to Become a Web Developer and Where to Start ?](https://dev.to/mesaqib/how-to-become-a-web-developer-and-where-to-start--28hl)
-- [Dev.to/JS] [Getting Started with Redis and Node.JS](https://dev.to/smpnjn/getting-started-with-redis-and-nodejs-2p11)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
