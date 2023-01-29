@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VS Code Extensions I Use For Programming And Writing](https://dev.to/dev_neil_a/vs-code-extensions-i-use-for-programming-and-writing-50h0)
+- [Dev.to/JS] [Learning Web Development](https://dev.to/expoverse/learning-web-development-1k5l)
+- [Dev.to/JS] [Making Custom Hooks in React and Typescript](https://dev.to/mixed_code/making-custom-hooks-in-react-and-typescript-2pjf)
+- [Dev.to/JS] [🌐 Connect with others on the same webpage as you 🖥️](https://dev.to/rajeshj3/connect-with-others-on-the-same-webpage-as-you-de6)
 - [Dev.to/JS] [Angular 15: Introduction to Component Scoped Keyframes](https://dev.to/ilyoskhuja/angular-15-introduction-to-component-scoped-keyframes-1nin)
 - [Dev.to/JS] [A PetiteVue Tutorial - 05 Sorting](https://dev.to/krowemoh/a-petitevue-tutorial-05-sorting-iab)
 - [Dev.to/JS] [A PetiteVue Tutorial - 04 Searching](https://dev.to/krowemoh/a-petitevue-tutorial-04-searching-50f5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A PetiteVue Tutorial - 01 Hello World](https://dev.to/krowemoh/a-petitevue-tutorial-01-hello-world-30lh)
 - [Dev.to/JS] [Mistyped banana in box fix, angular 15](https://dev.to/ilyoskhuja/mistyped-banana-in-box-fix-angular-15-3h7d)
 - [Dev.to/JS] [Easier lazy loading ,Angular 15](https://dev.to/ilyoskhuja/easier-lazy-loading-angular-15-4jb2)
-- [Dev.to/JS] [Whats new in angular 15? Dynamic router outlet names](https://dev.to/ilyoskhuja/whats-new-in-angular-15-dynamic-router-outlet-names-1j01)
-- [Dev.to/JS] [Variable in ReactJS&lpar;all about&rpar;](https://dev.to/himanshubaghel07/variable-in-reactjsall-about-b17)
-- [Dev.to/JS] [Ivy Landmark: The Key to Ultra-Fast Angular Applications](https://dev.to/ilyoskhuja/ivy-landmark-the-key-to-ultra-fast-angular-applications-592p)
-- [Dev.to/JS] [@Input and @Output Decorators in Angular](https://dev.to/ilyoskhuja/input-and-output-decorators-in-angular-41lc)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
