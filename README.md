@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What I like about Bytes](https://dev.to/samhuckaby/what-i-like-about-bytes-5eh7)
 - [Dev.to/JS] [My Altschool Blog Project Documentation](https://dev.to/teejay128/altschool-blog-documentation-36lh)
 - [Dev.to/JS] [Javascript &lpar;JS&rpar; Pass by Reference and Pass by Value](https://dev.to/idnk2203/javascript-js-pass-by-reference-and-pass-by-value-b7f)
 - [Dev.to/JS] [useRef&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useref-5pf)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Gray Code](https://dev.to/_alkesh26/leetcode-gray-code-5d18)
 - [Dev.to/JS] [Window postMessage&lpar;&rpar; protocol using React](https://dev.to/abhishek305/window-postmessage-protocol-using-react-1eh8)
 - [Dev.to/JS] [CodeBoost - Code Completion Tool &lpar;VS Code Extension&rpar;](https://dev.to/codercrux/codeboost-code-completion-tool-vs-code-extension-j77)
-- [Dev.to/JS] [Clarity on closures in JavaScript](https://dev.to/bolouie/clarity-on-closures-in-javascript-4pmg)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
