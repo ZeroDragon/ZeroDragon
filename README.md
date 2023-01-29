@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript&#39;s Utility Types: A developer&#39;s guide to strong typing](https://dev.to/awaisalwaisy/typescripts-utility-types-a-developers-guide-to-strong-typing-425e)
+- [Dev.to/JS] [Heads or Tails with JS](https://dev.to/walternascimentobarroso/heads-or-tails-with-js-3kkj)
 - [Dev.to/JS] [3 year career gap](https://dev.to/moorthyrm/2-year-career-gap-32bh)
 - [Dev.to/JS] [Using React Wrap Balancer to Make Wrapping Less Awkward](https://dev.to/ikartik/using-react-wrap-balancer-to-make-wrapping-less-awkward-112n)
 - [Dev.to/JS] [HOW TO UNDERSTAND VARIABLES IN JAVASCRIPT?](https://dev.to/muhammadiqbalid83/how-to-understand-variables-in-javascript-270e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useRef&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useref-5pf)
 - [Dev.to/JS] [Testes de código: definções e principais aspectos](https://dev.to/abelsouzacosta/testes-de-codigo-defincoes-e-principais-aspectos-4511)
 - [Dev.to/JS] [Fundamentos de TDD](https://dev.to/abelsouzacosta/fundamentos-de-tdd-9c4)
-- [Dev.to/JS] [Socket.io VS Web Socket](https://dev.to/iyadchafroud/socketio-vs-web-socket-295h)
-- [Dev.to/JS] [Json vs Object in JavaScript🤔](https://dev.to/mofijulhaque/json-vs-object-in-javascript-l87)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
