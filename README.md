@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 tips to improve integration with the backend, Angular and Rxjs](https://dev.to/antoniojuniordev/5-tips-to-improve-integration-with-the-backend-angular-and-rxjs-44d9)
+- [Dev.to/JS] [Difference between call, bind and apply methods in javascript](https://dev.to/frontend_jedi/difference-between-call-bind-and-apply-methods-in-javascript-42dj)
+- [Dev.to/JS] [Writing a simple AI-powered chrome extension for LinkedIn](https://dev.to/boodyvo/writing-a-simple-ai-powered-chrome-extension-for-linkedin-3omj)
+- [Dev.to/JS] [Where to Host a Node.js App](https://dev.to/devland/where-to-host-a-nodejs-app-3lj6)
+- [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Dev.to/JS] [A Handy Way of Building Reusable React Components &lpar;Inspired by Hemingway&rpar;](https://dev.to/sashevuchkov/a-handy-way-of-building-reusable-react-components-inspired-by-hemingway-4938)
 - [Dev.to/JS] [The most beautiful world paintings ever!](https://dev.to/azzrkc/the-most-beautiful-world-paintings-ever-1g4j)
 - [Dev.to/JS] [How to Become a Web Developer and Where to Start ?](https://dev.to/mesaqib/how-to-become-a-web-developer-and-where-to-start--28hl)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typed forms in Angular](https://dev.to/ilyoskhuja/typed-forms-in-angular-3ib8)
 - [Dev.to/JS] [Build TypeSafe Node API using tRPC, Fastify, Kysely and Atlas CLI](https://dev.to/franciscomendes10866/build-typesafe-node-api-using-trpc-fastify-kysely-and-atlas-cli-580c)
 - [Dev.to/JS] [The ultimate template for publishing ES modules](https://dev.to/semicognitive/the-ultimate-template-for-publishing-es-modules-1lik)
-- [Dev.to/JS] [Build These 5 Projects To Get Hired As A Junior React Developer ASAP 🤯🔥](https://dev.to/rammcodes/build-these-5-projects-to-get-hired-as-a-junior-react-developer-asap-3098)
-- [Dev.to/JS] [What advantages does React bring to web development when compared to using JavaScript alone?](https://dev.to/saikrinan/what-advantages-does-react-bring-to-web-development-when-compared-to-using-javascript-alone-eo7)
-- [Dev.to/JS] [Save time by using array functions in Javascript](https://dev.to/patzi275/save-time-by-using-array-functions-in-javascript-e41)
-- [Dev.to/JS] [How to display a preview of an image upload in React](https://dev.to/nikolasbarwicki/how-to-display-a-preview-of-an-image-upload-in-react-5h8m)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Own County Fair Confection With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
 - [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
 - [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
-- [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)
-- [Lifehacker] [Three Ways to Clean the Grossest Part of Your Instant Pot](https://lifehacker.com/three-ways-to-clean-the-grossest-part-of-your-instant-p-1850036652)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When You Can&#39;t Feel a Muscle Working](https://lifehacker.com/what-to-do-when-you-cant-feel-a-muscle-working-1850037107)<!-- TECH-POSTS:END -->
 
 ---
 
