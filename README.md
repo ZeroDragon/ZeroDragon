@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The ultimate template for publishing ES modules](https://dev.to/semicognitive/the-ultimate-template-for-publishing-es-modules-1lik)
 - [Dev.to/JS] [Build These 5 Projects To Get Hired As A Junior React Developer ASAP 🤯🔥](https://dev.to/rammcodes/build-these-5-projects-to-get-hired-as-a-junior-react-developer-asap-3098)
 - [Dev.to/JS] [What advantages does React bring to web development when compared to using JavaScript alone?](https://dev.to/saikrinan/what-advantages-does-react-bring-to-web-development-when-compared-to-using-javascript-alone-eo7)
 - [Dev.to/JS] [Save time by using array functions in Javascript](https://dev.to/patzi275/save-time-by-using-array-functions-in-javascript-e41)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using React Wrap Balancer to Make Wrapping Less Awkward](https://dev.to/ikartik/using-react-wrap-balancer-to-make-wrapping-less-awkward-112n)
 - [Dev.to/JS] [HOW TO UNDERSTAND VARIABLES IN JAVASCRIPT?](https://dev.to/muhammadiqbalid83/how-to-understand-variables-in-javascript-270e)
 - [Dev.to/JS] [Creating a responsive grid using bootstrap CSS](https://dev.to/abitech/creating-a-responsive-grid-using-bootstrap-css-bd6)
-- [Dev.to/JS] [What I like about Bytes](https://dev.to/samhuckaby/what-i-like-about-bytes-5eh7)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
