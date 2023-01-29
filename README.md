@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Redis and Node.JS](https://dev.to/smpnjn/getting-started-with-redis-and-nodejs-2p11)
+- [Dev.to/JS] [Build your web apps using Next.js](https://dev.to/codemaker2015/build-your-web-apps-using-nextjs-2c2o)
+- [Dev.to/JS] [Typed forms in Angular](https://dev.to/ilyoskhuja/typed-forms-in-angular-3ib8)
 - [Dev.to/JS] [Build TypeSafe Node API using tRPC, Fastify, Kysely and Atlas CLI](https://dev.to/franciscomendes10866/build-typesafe-node-api-using-trpc-fastify-kysely-and-atlas-cli-580c)
 - [Dev.to/JS] [The ultimate template for publishing ES modules](https://dev.to/semicognitive/the-ultimate-template-for-publishing-es-modules-1lik)
 - [Dev.to/JS] [Build These 5 Projects To Get Hired As A Junior React Developer ASAP 🤯🔥](https://dev.to/rammcodes/build-these-5-projects-to-get-hired-as-a-junior-react-developer-asap-3098)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FizzBuzz Theory](https://dev.to/faladetimilehin/fizzbuzz-theory-3i9e)
 - [Dev.to/JS] [Heads or Tails with JS](https://dev.to/walternascimentobarroso/heads-or-tails-with-js-3kkj)
 - [Dev.to/JS] [TypeScript&#39;s Utility Types: A developer&#39;s guide to strong typing](https://dev.to/awaisalwaisy/typescripts-utility-types-a-developers-guide-to-strong-typing-425e)
-- [Dev.to/JS] [3 year career gap](https://dev.to/moorthyrm/2-year-career-gap-32bh)
-- [Dev.to/JS] [Using React Wrap Balancer to Make Wrapping Less Awkward](https://dev.to/ikartik/using-react-wrap-balancer-to-make-wrapping-less-awkward-112n)
-- [Dev.to/JS] [HOW TO UNDERSTAND VARIABLES IN JAVASCRIPT?](https://dev.to/muhammadiqbalid83/how-to-understand-variables-in-javascript-270e)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
