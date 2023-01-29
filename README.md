@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easier lazy loading ,Angular 15](https://dev.to/ilyoskhuja/easier-lazy-loading-angular-15-4jb2)
+- [Dev.to/JS] [Whats new in angular 15? Dynamic router outlet names](https://dev.to/ilyoskhuja/whats-new-in-angular-15-dynamic-router-outlet-names-1j01)
+- [Dev.to/JS] [Variable in ReactJS&lpar;all about&rpar;](https://dev.to/himanshubaghel07/variable-in-reactjsall-about-b17)
+- [Dev.to/JS] [Ivy Landmark: The Key to Ultra-Fast Angular Applications](https://dev.to/ilyoskhuja/ivy-landmark-the-key-to-ultra-fast-angular-applications-592p)
+- [Dev.to/JS] [@Input and @Output Decorators in Angular](https://dev.to/ilyoskhuja/input-and-output-decorators-in-angular-41lc)
 - [Dev.to/JS] [JAVASCRIPT : AJAX AND FETCH](https://dev.to/prerna0202/javascript-ajax-and-fetch-5oh)
 - [Dev.to/JS] [Software Architecture — Inversion of Control Part 1](https://dev.to/aaron_janes/software-architecture-inversion-of-control-part-1-58o)
 - [Dev.to/JS] [Running JavaScript Promises in Parallel](https://dev.to/asayerio_techblog/running-javascript-promises-in-parallel-2cme)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React-Shadow-Component: Add Shadows to Your Components with Ease!](https://dev.to/geekreflex/react-shadow-component-add-shadows-to-your-components-with-ease-400o)
 - [Dev.to/JS] [Accessing state of an uncontrolled form](https://dev.to/thhareau/accessing-current-form-state-using-uncontrolled-components-51lj)
 - [Dev.to/JS] [Mastering React Hooks: Simplifying Your Components](https://dev.to/pacehut/mastering-react-hooks-simplifying-your-components-1a55)
-- [Dev.to/JS] [5 Basic Tips Everyone Should Know for Optimizing React Performance 🚀](https://dev.to/naubit/5-basic-tips-everyone-should-know-for-optimizing-react-performance-22o9)
-- [Dev.to/JS] [Using Pivot Chart to Replace Your Pivot Table](https://dev.to/observedobserver/using-pivot-chart-to-replace-your-pivot-table-4bh3)
-- [Dev.to/JS] [Top 5 advantages of headless CMS over a traditional CMS](https://dev.to/momciloo/top-5-advantages-of-headless-cms-over-a-traditional-cms-211e)
-- [Dev.to/JS] [Creating the effect of traveling through space](https://dev.to/eyudinkov/creating-the-effect-of-traveling-through-space-mfg)
-- [Dev.to/JS] [Angular - building apps without modules](https://dev.to/ilyoskhuja/angular-building-apps-without-modules-gc8)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
