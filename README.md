@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Binary Search Tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-binary-search-tree-22j1)
+- [Dev.to/JS] [JS vs TS: A Comprehensive Guide to Choosing the Right Programming Language](https://dev.to/joshthecodingaddict/js-vs-ts-a-comprehensive-guide-to-choosing-the-right-programming-language-577l)
 - [Dev.to/JS] [VS Code Extensions I Use For Programming And Writing](https://dev.to/dev_neil_a/vs-code-extensions-i-use-for-programming-and-writing-50h0)
 - [Dev.to/JS] [Learning Web Development](https://dev.to/expoverse/learning-web-development-1k5l)
 - [Dev.to/JS] [Making Custom Hooks in React and Typescript](https://dev.to/mixed_code/making-custom-hooks-in-react-and-typescript-2pjf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A PetiteVue Tutorial - 03 Fetching Data](https://dev.to/krowemoh/a-petitevue-tutorial-03-fetching-data-1305)
 - [Dev.to/JS] [A PetiteVue Tutorial - 02 Tables](https://dev.to/krowemoh/a-petitevue-tutorial-02-tables-2d3j)
 - [Dev.to/JS] [A PetiteVue Tutorial - 01 Hello World](https://dev.to/krowemoh/a-petitevue-tutorial-01-hello-world-30lh)
-- [Dev.to/JS] [Mistyped banana in box fix, angular 15](https://dev.to/ilyoskhuja/mistyped-banana-in-box-fix-angular-15-3h7d)
-- [Dev.to/JS] [Easier lazy loading ,Angular 15](https://dev.to/ilyoskhuja/easier-lazy-loading-angular-15-4jb2)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
