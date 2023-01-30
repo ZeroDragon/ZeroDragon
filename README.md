@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/04: TypeScript 5 Beta, Angular Roadmap 2023](https://dev.to/ng_news/episode-2304-typescript-5-beta-angular-roadmap-2023-2o2g)
+- [Dev.to/JS] [Here&#39;s a high-level road map for learning the MERN stack:](https://dev.to/vamsi_76_89/heres-a-high-level-road-map-for-learning-the-mern-stack-5akm)
+- [Dev.to/JS] [Running Serverless Functions on Kubernetes](https://dev.to/pmbanugo/running-serverless-functions-on-kubernetes-a20)
+- [Dev.to/JS] [Continuous performance audits in Nuxt with Lighthouse CI and Github Actions](https://dev.to/jacobandrewsky/continuous-performance-audits-in-nuxt-with-lighthouse-ci-and-github-actions-2hpf)
+- [Dev.to/JS] [Power Up Your Angular App with Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/ilyoskhuja/power-up-your-angular-app-with-progressive-web-apps-pwas-1p88)
 - [Dev.to/JS] [Understanding Assignment and Reactivity in Svelte](https://dev.to/jessewei/understanding-assignment-and-reactivity-in-svelte-d1j)
 - [Dev.to/JS] [9 Must-Know Rules for Writing Clean Code](https://dev.to/dashsaurabh/9-must-know-rules-for-writing-clean-code-1kp1)
 - [Dev.to/JS] [Test Your JavaScript Knowledge with These 12 Basic Quizzes!](https://dev.to/alaster/checking-your-familiarity-with-12-js-fundamentals-c61)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Perform Web Scraping With JavaScript And Selenium](https://dev.to/kaperskyguru/how-to-perform-web-scraping-with-javascript-and-selenium-h5f)
 - [Dev.to/JS] [React States works by Reference](https://dev.to/suyashvash/react-states-works-by-reference-58ae)
 - [Dev.to/JS] [Creating an application from Ruby](https://dev.to/yukinoyamiko/creating-an-application-from-ruby-3dc6)
-- [Dev.to/JS] [Using Node.js for Ecommerce Platforms](https://dev.to/frankdev20/using-nodejs-for-ecommerce-platforms-727)
-- [Dev.to/JS] [Implementing Server-side Rendering with React.js](https://dev.to/abuhasanrumi/implementing-server-side-rendering-with-reactjs-5ak8)
-- [Dev.to/JS] [Aplicativos da Web totalmente tipados](https://dev.to/oieduardorabelo/aplicativos-da-web-totalmente-tipados-1f9f)
-- [Dev.to/JS] [Introducing CodeBoost: The AI-Powered Code Completion Extension for Visual Studio Code](https://dev.to/codercrux/introducing-codeboost-the-ai-powered-code-completion-extension-for-visual-studio-code-2c2h)
-- [Dev.to/JS] [Top 5 Websites for Coding Interview Preparation](https://dev.to/onlydevs_/top-5-websites-for-coding-interview-preparation-3fdd)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
