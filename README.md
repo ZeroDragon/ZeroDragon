@@ -23,10 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [This Google AI Music Will Freak You the Hell Out](https://lifehacker.com/this-google-ai-music-will-freak-you-the-hell-out-1850049352)
+- [Dev.to/JS] [Vue Form Validation using Yup](https://dev.to/carstenbehrens/vue-form-validation-using-yup-he0)
+- [Lifehacker] [Make a Fluffy Frosting Out of Sweetened Condensed Milk and Butter](https://lifehacker.com/make-a-fluffy-frosting-out-of-sweetened-condensed-milk-1850048764)
+- [Dev.to/JS] [5 Must-Know JavaScript Concepts for beginners](https://dev.to/stanleychisom/5-must-know-javascript-concepts-for-beginners-4804)
 - [Dev.to/JS] [http://fiverr.com/shahin2583](https://dev.to/asaduzzamanshahin/httpfiverrcomshahin2583-1a7d)
 - [Dev.to/JS] [Stand out in interviews: Tips for answering common questions](https://dev.to/alenvarazdinac/stand-out-in-interviews-tips-for-answering-common-questions-ig7)
-- [Lifehacker] [Why You Should Never Lease a Car](https://lifehacker.com/why-you-should-never-lease-a-car-1850049671)
 - [Dev.to/JS] [The idea,🌐Browsemates- Connect with others on the same webpage as you🔥](https://dev.to/rajeshj3/the-ideabrowsemates-connect-with-others-on-the-same-webpage-as-you-4hi3)
 - [Dev.to/JS] [What are higher order components and how to use them in Vue](https://dev.to/wearethreebears/what-are-higher-order-components-and-how-to-use-them-in-vue-3n8e)
 - [Dev.to/JS] [Create your custom notification system with Socket.io and React Native](https://dev.to/lynxgsm/create-your-custom-notification-system-with-socketio-and-react-native-2ic7)
@@ -37,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Use This New TikTok ‘Hack’ to Clean Your Grout](https://lifehacker.com/don-t-use-this-new-tiktok-hack-to-clean-your-grout-1850048492)
 - [Dev.to/JS] [Get More Work Done Faster with These AI Tools for Chrome](https://dev.to/rahul3002/get-more-work-done-faster-with-these-ai-tools-for-chrome-4351)
 - [Dev.to/JS] [Why do they play the sport quotes?](https://dev.to/thomas23459/why-do-they-play-the-sport-quotes-pog)
-- [Dev.to/JS] [300 APIs integrated in minutes, not days](https://dev.to/urbanisierung/300-apis-integrated-in-minutes-not-days-3ogg)
-- [Dev.to/JS] [Higher-Order Functions In JavaScript](https://dev.to/oluwatobi_/higher-order-functions-in-javascript-4kfk)
 - [Lifehacker] [See the Galaxy S23 and Book3 Unveiled During ‘Samsung Unpacked 2023’](https://lifehacker.com/see-the-galaxy-s23-and-book3-unveiled-during-samsung-u-1850048482)
-- [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)
 - [Lifehacker] [How to Tear Masking Tape Perfectly Every Time](https://lifehacker.com/how-to-tear-masking-tape-perfectly-every-time-1850048444)
 - [Lifehacker] [You Should Know How Much Your Coworkers Make &lpar;and Vice Versa&rpar;](https://lifehacker.com/you-should-know-how-much-your-coworkers-make-and-vice-1850042665)
 - [Lifehacker] [Your iPhone Can Automatically Wish Your Friends Happy Birthday](https://lifehacker.com/your-iphone-can-automatically-wish-your-friends-happy-b-1850047567)
@@ -62,7 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Is It OK to Cheat at Wordle?](https://lifehacker.com/when-is-it-ok-to-cheat-at-wordle-1850041707)
 - [Lifehacker] [You Should &#39;Cure&#39; Your Gummy Candy](https://lifehacker.com/you-should-cure-your-gummy-candy-1850041518)
 - [Lifehacker] [Ignore TikTok and Stop Putting Cleaning Liquid in Your Toilet Tank](https://lifehacker.com/ignore-tiktok-and-stop-putting-cleaning-liquid-in-your-1850041452)
-- [Lifehacker] [12 Podcasts You Didn’t Know Could Even Be a Podcast](https://lifehacker.com/12-podcasts-you-didn-t-know-could-be-a-podcast-1850016905)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Podcasts You Didn’t Know Could Even Be a Podcast](https://lifehacker.com/12-podcasts-you-didn-t-know-could-be-a-podcast-1850016905)
+- [Lifehacker] [Check These Databases for Retirement Savings You Forgot About](https://lifehacker.com/check-these-databases-for-retirement-savings-you-forgot-1850037905)
+- [Lifehacker] [When to Take the Money in a Class-Action Settlement &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-take-the-money-in-a-class-action-settlement-an-1850040355)<!-- TECH-POSTS:END -->
 
 ---
 
