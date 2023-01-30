@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New way of debugging template syntax errors with ng-template-error](https://dev.to/ilyoskhuja/new-way-of-debugging-template-syntax-errors-with-ng-template-error-4dl)
 - [Dev.to/JS] [&quot;Uncaught SyntaxError: Unexpected token &lt;&quot; ...?](https://dev.to/ayako_yk/uncaught-syntaxerror-unexpected-token--pph)
 - [Dev.to/JS] [Why WebStorm is the most productive IDE for JavaScript development](https://dev.to/aaron_janes/why-webstorm-is-the-most-productive-ide-for-javascript-development-jp6)
 - [Dev.to/JS] [Get Started with Git: Understanding the Fundamentals](https://dev.to/aaron_janes/intro-to-git-what-the-heck-is-git-anyway--1dkb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🌐 Connect with others on the same webpage as you 🖥️](https://dev.to/rajeshj3/connect-with-others-on-the-same-webpage-as-you-de6)
 - [Dev.to/JS] [Angular 15: Introduction to Component Scoped Keyframes](https://dev.to/ilyoskhuja/angular-15-introduction-to-component-scoped-keyframes-1nin)
 - [Dev.to/JS] [A PetiteVue Tutorial - 05 Sorting](https://dev.to/krowemoh/a-petitevue-tutorial-05-sorting-iab)
-- [Dev.to/JS] [A PetiteVue Tutorial - 04 Searching](https://dev.to/krowemoh/a-petitevue-tutorial-04-searching-50f5)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
