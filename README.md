@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Talk to people who are on the same site | 🌐 Browsemates](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-browsemates-2alp)
+- [Dev.to/JS] [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://dev.to/olanetsoft/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers-2gm9)
+- [Dev.to/JS] [Integrating Test Automation In Small Tech Business: Advantages And Disadvantages](https://dev.to/stateofdevnation/integrating-test-automation-in-small-tech-business-advantages-and-disadvantages-fee)
 - [Dev.to/JS] [Episode 23/04: TypeScript 5 Beta, Angular Roadmap 2023](https://dev.to/ng_news/episode-2304-typescript-5-beta-angular-roadmap-2023-2o2g)
 - [Dev.to/JS] [Here&#39;s a high-level road map for learning the MERN stack:](https://dev.to/vamsi_76_89/heres-a-high-level-road-map-for-learning-the-mern-stack-5akm)
 - [Dev.to/JS] [Running Serverless Functions on Kubernetes](https://dev.to/pmbanugo/running-serverless-functions-on-kubernetes-a20)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [9 Must-Know Rules for Writing Clean Code](https://dev.to/dashsaurabh/9-must-know-rules-for-writing-clean-code-1kp1)
 - [Dev.to/JS] [Test Your JavaScript Knowledge with These 12 Basic Quizzes!](https://dev.to/alaster/checking-your-familiarity-with-12-js-fundamentals-c61)
 - [Dev.to/JS] [Just Launched Dyte on Product Hunt](https://dev.to/dyte/just-launched-dyte-on-product-hunt-4h3f)
-- [Dev.to/JS] [How To Perform Web Scraping With JavaScript And Selenium](https://dev.to/kaperskyguru/how-to-perform-web-scraping-with-javascript-and-selenium-h5f)
-- [Dev.to/JS] [React States works by Reference](https://dev.to/suyashvash/react-states-works-by-reference-58ae)
-- [Dev.to/JS] [Creating an application from Ruby](https://dev.to/yukinoyamiko/creating-an-application-from-ruby-3dc6)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
