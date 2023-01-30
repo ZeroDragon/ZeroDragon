@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your iPhone Can Automatically Wish Your Friends Happy Birthday](https://lifehacker.com/your-iphone-can-automatically-wish-your-friends-happy-b-1850047567)
+- [Lifehacker] [The 7 Deadly Sins of Attending a Super Bowl Party](https://lifehacker.com/the-7-deadly-sins-of-attending-a-super-bowl-party-1850047377)
+- [Dev.to/JS] [Parallax mouse effect](https://dev.to/jaimebboyjt/parallax-mouse-effect-4i62)
+- [Dev.to/JS] [Deployment with Next.js](https://dev.to/celest67/deployment-with-nextjs-41j7)
+- [Dev.to/JS] [What is the Total.js Plaform?](https://dev.to/petersirka/what-is-the-totaljs-plaform-25pi)
+- [Dev.to/JS] [Becoming a Blockchain Developer: A Step-by-Step Guide for Beginners](https://dev.to/alymurtazamemon/becoming-a-blockchain-developer-a-step-by-step-guide-for-beginners-193e)
+- [Dev.to/JS] [Chat backend with Supabase &amp; Socket.io](https://dev.to/nsmet/chat-backend-with-supabase-socketio-55nn)
 - [Lifehacker] [Make This Simple, Elegant Dessert for Valentine&#39;s Day](https://lifehacker.com/make-this-simple-elegant-dessert-for-valentines-day-1850043020)
 - [Dev.to/JS] [🎯 9 Essential React Hooks Every Developer Should Know](https://dev.to/naubit/9-essential-react-hooks-every-developer-should-know-278l)
 - [Lifehacker] [Why Your Next Classic Cocktail Should Be Upside-Down](https://lifehacker.com/why-your-next-classic-cocktail-should-be-upside-down-1850042651)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remove CSS Class From An HTML Element In JavaScript](https://dev.to/hirajatamil/remove-css-class-from-an-html-element-in-javascript-2jk6)
 - [Dev.to/JS] [Master JavaScript Design Patterns in Minutes](https://dev.to/smsp/master-javascript-design-patterns-in-minutes-8l2)
 - [Dev.to/JS] [Introduction to Nuxt 3: Part 2](https://dev.to/alexandergekov/introduction-to-nuxt-3-part-2-movie-app-i02)
-- [Dev.to/JS] [Array/Object Destructuring in JavaScript](https://dev.to/cyboneutron/arrayobject-destructuring-in-javascript-53pi)
-- [Dev.to/JS] [Talk to people who are on the same site | 🌐 Browsemates](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-browsemates-2alp)
-- [Dev.to/JS] [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://dev.to/olanetsoft/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers-2gm9)
-- [Dev.to/JS] [Integrating Test Automation In Small Tech Business: Advantages And Disadvantages](https://dev.to/stateofdevnation/integrating-test-automation-in-small-tech-business-advantages-and-disadvantages-fee)
-- [Dev.to/JS] [Episode 23/04: TypeScript 5 Beta, Angular Roadmap 2023](https://dev.to/ng_news/episode-2304-typescript-5-beta-angular-roadmap-2023-2o2g)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Common Idioms the Kids Don’t Understand](https://lifehacker.com/13-common-idioms-the-kids-don-t-understand-1850035015)
 - [Lifehacker] [How to Leverage Pay Transparency During Your Next Interview](https://lifehacker.com/how-to-leverage-pay-transparency-during-your-next-inter-1850006082)
 - [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
-- [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)
-- [Lifehacker] [Can You Really Get Over Someone by Getting Under Someone?](https://lifehacker.com/can-you-really-get-over-someone-by-getting-under-someon-1850038232)
-- [Lifehacker] [8 Grammar Mistakes Your Probably Making Every Day &lpar;I Did That on Purpose&rpar;](https://lifehacker.com/8-grammar-mistakes-your-probably-making-every-day-i-di-1850039059)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)<!-- TECH-POSTS:END -->
 
 ---
 
