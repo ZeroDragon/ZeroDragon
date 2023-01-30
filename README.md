@@ -23,24 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Check Whether Your Ford SUV Is Part of This Recall](https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990)
+- [Dev.to/JS] [Building a Contracts SaaS with SaasRock — Part 2 — Signing Contracts with Dropbox Sign](https://dev.to/alexandromtzg/building-a-contracts-saas-with-saasrock-part-2-signing-contracts-with-dropbox-sign-4bm8)
+- [Dev.to/JS] [AI tools to increase the productivity of web developers](https://dev.to/scofieldidehen/ai-tools-to-increase-the-productivity-of-web-developers-ikb)
+- [Dev.to/JS] [Building a Contracts SaaS with SaasRock — Part 1 — Initial Project Setup](https://dev.to/alexandromtzg/building-a-contracts-saas-with-saasrock-part-1-initial-project-setup-3ng2)
+- [Lifehacker] [Don’t Use This New TikTok ‘Hack’ to Clean Your Grout](https://lifehacker.com/don-t-use-this-new-tiktok-hack-to-clean-your-grout-1850048492)
+- [Dev.to/JS] [Get More Work Done Faster with These AI Tools for Chrome](https://dev.to/rahul3002/get-more-work-done-faster-with-these-ai-tools-for-chrome-4351)
+- [Dev.to/JS] [Why do they play the sport quotes?](https://dev.to/thomas23459/why-do-they-play-the-sport-quotes-pog)
+- [Dev.to/JS] [300 APIs integrated in minutes, not days](https://dev.to/urbanisierung/300-apis-integrated-in-minutes-not-days-3ogg)
+- [Dev.to/JS] [Higher-Order Functions In JavaScript](https://dev.to/oluwatobi_/higher-order-functions-in-javascript-4kfk)
+- [Dev.to/JS] [How to Send Data while Navigating Back in React Native](https://dev.to/suyashvash/how-to-send-data-while-navigating-back-in-react-native-17dj)
 - [Lifehacker] [See the Galaxy S23 and Book3 Unveiled During ‘Samsung Unpacked 2023’](https://lifehacker.com/see-the-galaxy-s23-and-book3-unveiled-during-samsung-u-1850048482)
 - [Dev.to/JS] [Revolutionising the Assembly line-AI Computer Vision](https://dev.to/pavanai/revolutionising-the-assembly-line-ai-computer-vision-n6m)
 - [Dev.to/JS] [Logical Assignment Operators](https://dev.to/temmietope/logical-assignment-operators-1fdd)
 - [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)
 - [Dev.to/JS] [Auth&lpar;entication&rpar; vs Auth&lpar;orization&rpar;](https://dev.to/oluwatrillions/authentication-vs-authorization-2hkg)
 - [Dev.to/JS] [How To Write Clean Code As A Developer](https://dev.to/scofieldidehen/how-to-write-clean-code-as-a-developer-471c)
-- [Dev.to/JS] [Best React UI frameworks to boost Productivity 🚀 🌟](https://dev.to/bitohq/best-react-ui-frameworks-to-boost-productivity-2m43)
 - [Lifehacker] [How to Tear Masking Tape Perfectly Every Time](https://lifehacker.com/how-to-tear-masking-tape-perfectly-every-time-1850048444)
-- [Dev.to/JS] [JavaScript Lenses: A Guide to Efficiently Modifying Immutable Data](https://dev.to/vhutov/javascript-lenses-a-guide-to-efficiently-modifying-immutable-data-le1)
-- [Dev.to/JS] [How to use React and Firebase together](https://dev.to/prudentelias/how-to-use-react-and-firebase-together-5f17)
 - [Lifehacker] [You Should Know How Much Your Coworkers Make &lpar;and Vice Versa&rpar;](https://lifehacker.com/you-should-know-how-much-your-coworkers-make-and-vice-1850042665)
-- [Dev.to/JS] [Utilizando Type Guards no TypeScript](https://dev.to/murillonahvs/utilizando-type-guards-no-typescript-3b0j)
-- [Dev.to/JS] [Awesome AI tools to assist you in coding](https://dev.to/surajondev/awesome-ai-tools-to-assist-you-in-coding-4nmf)
 - [Lifehacker] [Your iPhone Can Automatically Wish Your Friends Happy Birthday](https://lifehacker.com/your-iphone-can-automatically-wish-your-friends-happy-b-1850047567)
 - [Lifehacker] [The 7 Deadly Sins of Attending a Super Bowl Party](https://lifehacker.com/the-7-deadly-sins-of-attending-a-super-bowl-party-1850047377)
-- [Dev.to/JS] [Parallax mouse effect](https://dev.to/jaimebboyjt/parallax-mouse-effect-4i62)
-- [Dev.to/JS] [Deployment with Next.js](https://dev.to/celest67/deployment-with-nextjs-41j7)
-- [Dev.to/JS] [What is the Total.js Plaform?](https://dev.to/petersirka/what-is-the-totaljs-plaform-25pi)
 - [Lifehacker] [Make This Simple, Elegant Dessert for Valentine&#39;s Day](https://lifehacker.com/make-this-simple-elegant-dessert-for-valentines-day-1850043020)
 - [Lifehacker] [Why Your Next Classic Cocktail Should Be Upside-Down](https://lifehacker.com/why-your-next-classic-cocktail-should-be-upside-down-1850042651)
 - [Lifehacker] [12 Things a Home Inspector Is Most Likely to Skip](https://lifehacker.com/12-things-a-home-inspector-is-most-likely-to-skip-1850040892)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ignore TikTok and Stop Putting Cleaning Liquid in Your Toilet Tank](https://lifehacker.com/ignore-tiktok-and-stop-putting-cleaning-liquid-in-your-1850041452)
 - [Lifehacker] [12 Podcasts You Didn’t Know Could Even Be a Podcast](https://lifehacker.com/12-podcasts-you-didn-t-know-could-be-a-podcast-1850016905)
 - [Lifehacker] [Check These Databases for Retirement Savings You Forgot About](https://lifehacker.com/check-these-databases-for-retirement-savings-you-forgot-1850037905)
-- [Lifehacker] [When to Take the Money in a Class-Action Settlement &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-take-the-money-in-a-class-action-settlement-an-1850040355)
-- [Lifehacker] [Fix Your Switch&#39;s &#39;Goldeneye&#39; Controls to Be More Like Xbox&#39;s](https://lifehacker.com/fix-your-switchs-goldeneye-controls-to-be-more-like-xbo-1850040284)
-- [Lifehacker] [Blend Bacon Straight Into Your Salad Dressing](https://lifehacker.com/blend-bacon-straight-into-your-salad-dressing-1850040200)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Take the Money in a Class-Action Settlement &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-take-the-money-in-a-class-action-settlement-an-1850040355)<!-- TECH-POSTS:END -->
 
 ---
 
