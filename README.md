@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Simple, Elegant Dessert for Valentine&#39;s Day](https://lifehacker.com/make-this-simple-elegant-dessert-for-valentines-day-1850043020)
+- [Dev.to/JS] [🎯 9 Essential React Hooks Every Developer Should Know](https://dev.to/naubit/9-essential-react-hooks-every-developer-should-know-278l)
+- [Lifehacker] [Why Your Next Classic Cocktail Should Be Upside-Down](https://lifehacker.com/why-your-next-classic-cocktail-should-be-upside-down-1850042651)
+- [Dev.to/JS] [The ultimate guide to variables in JavaScript](https://dev.to/veronikasimic_56/the-ultimate-guide-to-variables-in-javascript-5b8o)
+- [Dev.to/JS] [Validate Form during Browser Idle for Performance Optimization](https://dev.to/nuko_suke/validate-form-during-browser-idle-for-performance-optimization-42fn)
+- [Lifehacker] [12 Things a Home Inspector Is Most Likely to Skip](https://lifehacker.com/12-things-a-home-inspector-is-most-likely-to-skip-1850040892)
 - [Dev.to/JS] [Zerando HackerRank: Diferença Diagonal](https://dev.to/trinitypath/zerando-hackerrank-diferenca-diagonal-4hlg)
 - [Dev.to/JS] [Remove CSS Class From An HTML Element In JavaScript](https://dev.to/hirajatamil/remove-css-class-from-an-html-element-in-javascript-2jk6)
 - [Dev.to/JS] [Master JavaScript Design Patterns in Minutes](https://dev.to/smsp/master-javascript-design-patterns-in-minutes-8l2)
@@ -32,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://dev.to/olanetsoft/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers-2gm9)
 - [Dev.to/JS] [Integrating Test Automation In Small Tech Business: Advantages And Disadvantages](https://dev.to/stateofdevnation/integrating-test-automation-in-small-tech-business-advantages-and-disadvantages-fee)
 - [Dev.to/JS] [Episode 23/04: TypeScript 5 Beta, Angular Roadmap 2023](https://dev.to/ng_news/episode-2304-typescript-5-beta-angular-roadmap-2023-2o2g)
-- [Dev.to/JS] [Here&#39;s a high-level road map for learning the MERN stack:](https://dev.to/vamsi_76_89/heres-a-high-level-road-map-for-learning-the-mern-stack-5akm)
-- [Dev.to/JS] [Running Serverless Functions on Kubernetes](https://dev.to/pmbanugo/running-serverless-functions-on-kubernetes-a20)
-- [Dev.to/JS] [Continuous performance audits in Nuxt with Lighthouse CI and Github Actions](https://dev.to/jacobandrewsky/continuous-performance-audits-in-nuxt-with-lighthouse-ci-and-github-actions-2hpf)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
 - [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)
 - [Lifehacker] [Can You Really Get Over Someone by Getting Under Someone?](https://lifehacker.com/can-you-really-get-over-someone-by-getting-under-someon-1850038232)
-- [Lifehacker] [8 Grammar Mistakes Your Probably Making Every Day &lpar;I Did That on Purpose&rpar;](https://lifehacker.com/8-grammar-mistakes-your-probably-making-every-day-i-di-1850039059)
-- [Lifehacker] [Make Your Own County Fair Confection With Store-Bought Pizza Dough](https://lifehacker.com/make-elephant-ears-with-store-bought-pizza-dough-1850038013)
-- [Lifehacker] [You Deserve This Spoon Cake](https://lifehacker.com/you-deserve-this-spoon-cake-1850035434)
-- [Lifehacker] [Don&#39;t Use Detergent on Your Rain Gear &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 Grammar Mistakes Your Probably Making Every Day &lpar;I Did That on Purpose&rpar;](https://lifehacker.com/8-grammar-mistakes-your-probably-making-every-day-i-di-1850039059)<!-- TECH-POSTS:END -->
 
 ---
 
