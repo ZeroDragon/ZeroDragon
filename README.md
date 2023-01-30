@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remove CSS Class From An HTML Element In JavaScript](https://dev.to/hirajatamil/remove-css-class-from-an-html-element-in-javascript-2jk6)
+- [Dev.to/JS] [Master JavaScript Design Patterns in Minutes](https://dev.to/smsp/master-javascript-design-patterns-in-minutes-8l2)
+- [Dev.to/JS] [Introduction to Nuxt 3: Part 2](https://dev.to/alexandergekov/introduction-to-nuxt-3-part-2-movie-app-i02)
+- [Dev.to/JS] [Array/Object Destructuring in JavaScript](https://dev.to/cyboneutron/arrayobject-destructuring-in-javascript-53pi)
 - [Dev.to/JS] [Talk to people who are on the same site | 🌐 Browsemates](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-browsemates-2alp)
 - [Dev.to/JS] [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://dev.to/olanetsoft/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers-2gm9)
 - [Dev.to/JS] [Integrating Test Automation In Small Tech Business: Advantages And Disadvantages](https://dev.to/stateofdevnation/integrating-test-automation-in-small-tech-business-advantages-and-disadvantages-fee)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Running Serverless Functions on Kubernetes](https://dev.to/pmbanugo/running-serverless-functions-on-kubernetes-a20)
 - [Dev.to/JS] [Continuous performance audits in Nuxt with Lighthouse CI and Github Actions](https://dev.to/jacobandrewsky/continuous-performance-audits-in-nuxt-with-lighthouse-ci-and-github-actions-2hpf)
 - [Dev.to/JS] [Power Up Your Angular App with Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/ilyoskhuja/power-up-your-angular-app-with-progressive-web-apps-pwas-1p88)
-- [Dev.to/JS] [Understanding Assignment and Reactivity in Svelte](https://dev.to/jessewei/understanding-assignment-and-reactivity-in-svelte-d1j)
-- [Dev.to/JS] [9 Must-Know Rules for Writing Clean Code](https://dev.to/dashsaurabh/9-must-know-rules-for-writing-clean-code-1kp1)
-- [Dev.to/JS] [Test Your JavaScript Knowledge with These 12 Basic Quizzes!](https://dev.to/alaster/checking-your-familiarity-with-12-js-fundamentals-c61)
-- [Dev.to/JS] [Just Launched Dyte on Product Hunt](https://dev.to/dyte/just-launched-dyte-on-product-hunt-4h3f)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
