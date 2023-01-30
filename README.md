@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
+- [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
+- [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
 - [Dev.to/JS] [Migrating from Chakra UI to Tailwind CSS - My experience](https://dev.to/oncet/migrating-from-chakra-ui-to-tailwind-css-my-experience-5f2c)
 - [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New AI Technology](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-ai-tec-1850050359)
 - [Lifehacker] [Here’s How Much Emergency Cash You Should Keep at Home](https://lifehacker.com/here-s-how-much-emergency-cash-you-should-keep-at-home-1850048816)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
-- [Lifehacker] [What You Should Clean in Your House After Someone Gets Sick](https://lifehacker.com/what-you-should-clean-in-your-house-after-someone-gets-1850042324)
-- [Lifehacker] [14 of the Best Self-Care Deals to Gift Yourself for Under $25](https://lifehacker.com/14-of-the-best-self-care-deals-to-gift-yourself-for-und-1850041613)
-- [Lifehacker] [10 Ways to Eat Dip for Breakfast, Lunch, and Dinner](https://lifehacker.com/10-ways-to-eat-dip-for-breakfast-lunch-and-dinner-1850041608)
-- [Lifehacker] [When Is It OK to Cheat at Wordle?](https://lifehacker.com/when-is-it-ok-to-cheat-at-wordle-1850041707)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What You Should Clean in Your House After Someone Gets Sick](https://lifehacker.com/what-you-should-clean-in-your-house-after-someone-gets-1850042324)<!-- TECH-POSTS:END -->
 
 ---
 
