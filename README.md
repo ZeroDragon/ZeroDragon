@@ -23,9 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REST API - A Quick Introduction](https://dev.to/aj7tt/rest-api-a-quick-introduction-2ode)
 - [Dev.to/JS] [[TGrid] TypeScript Grid Computing Framework &lpar;open source failure stories&rpar;](https://dev.to/samchon/tgrid-typescript-grid-computing-framework-open-source-failure-stories-18ld)
 - [Dev.to/JS] [How Computers Understand JavaScript Code](https://dev.to/ebereplenty/how-computers-understand-javascript-code-k1n)
-- [Dev.to/JS] [HTTP Codes and Error Messages: What You Need to Know](https://dev.to/aj7t/http-codes-and-error-messages-what-you-need-to-know-d54)
+- [Dev.to/JS] [HTTP Codes and Error Messages: What You Need to Know](https://dev.to/aj7tt/http-codes-and-error-messages-what-you-need-to-know-d54)
 - [Dev.to/JS] [React Email First Look 🎉](https://dev.to/dipeshjaiswal/react-email-first-look-nei)
 - [Dev.to/JS] [Angular Localization with Ivy](https://dev.to/ifourtechnolab/angular-localization-with-ivy-5fdi)
 - [Dev.to/JS] [Must have websites for every Frontend Web developer](https://dev.to/hy_piyush/must-have-websites-for-every-frontend-web-developer-3ajm)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Access Azure KeyVault Secrets Through Nodejs Application](https://dev.to/dileepamabulage/access-azure-keyvault-secrets-through-nodejs-application-bim)
 - [Dev.to/JS] [Tailwind CSS: How To...](https://dev.to/colinwilliams91/tailwind-css-how-to-22o1)
 - [Dev.to/JS] [Creating behavior tests for User Interfaces](https://dev.to/ilyoskhuja/creating-behavior-tests-for-user-interfaces-1l2k)
-- [Dev.to/JS] [Customizing Angular-Runtime modification of Web Apps with Module Federation](https://dev.to/ilyoskhuja/customizing-angular-runtime-modification-of-web-apps-with-module-federation-3nob)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
