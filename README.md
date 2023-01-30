@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why WebStorm is the most productive IDE for JavaScript development](https://dev.to/aaron_janes/why-webstorm-is-the-most-productive-ide-for-javascript-development-jp6)
+- [Dev.to/JS] [Get Started with Git: Understanding the Fundamentals](https://dev.to/aaron_janes/intro-to-git-what-the-heck-is-git-anyway--1dkb)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Binary Search Tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-binary-search-tree-22j1)
 - [Dev.to/JS] [JS vs TS: A Comprehensive Guide to Choosing the Right Programming Language](https://dev.to/joshthecodingaddict/js-vs-ts-a-comprehensive-guide-to-choosing-the-right-programming-language-577l)
 - [Dev.to/JS] [VS Code Extensions I Use For Programming And Writing](https://dev.to/dev_neil_a/vs-code-extensions-i-use-for-programming-and-writing-50h0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A PetiteVue Tutorial - 05 Sorting](https://dev.to/krowemoh/a-petitevue-tutorial-05-sorting-iab)
 - [Dev.to/JS] [A PetiteVue Tutorial - 04 Searching](https://dev.to/krowemoh/a-petitevue-tutorial-04-searching-50f5)
 - [Dev.to/JS] [A PetiteVue Tutorial - 03 Fetching Data](https://dev.to/krowemoh/a-petitevue-tutorial-03-fetching-data-1305)
-- [Dev.to/JS] [A PetiteVue Tutorial - 02 Tables](https://dev.to/krowemoh/a-petitevue-tutorial-02-tables-2d3j)
-- [Dev.to/JS] [A PetiteVue Tutorial - 01 Hello World](https://dev.to/krowemoh/a-petitevue-tutorial-01-hello-world-30lh)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
