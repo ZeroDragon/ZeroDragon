@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web3 development with Angular: Making life easy with blockchain](https://dev.to/ilyoskhuja/web3-development-with-angular-making-life-easy-with-blockchain-13fa)
+- [Dev.to/JS] [Set up a PostgreSQL database and connect to NestJS with TypeORM](https://dev.to/leduc1901/set-up-a-postgresql-database-and-connect-to-nestjs-with-typeorm-35np)
+- [Dev.to/JS] [Access Azure KeyVault Secrets Through Nodejs Application](https://dev.to/dileepamabulage/access-azure-keyvault-secrets-through-nodejs-application-bim)
+- [Dev.to/JS] [Tailwind CSS: How To...](https://dev.to/colinwilliams91/tailwind-css-how-to-22o1)
+- [Dev.to/JS] [Creating behavior tests for User Interfaces](https://dev.to/ilyoskhuja/creating-behavior-tests-for-user-interfaces-1l2k)
 - [Dev.to/JS] [Customizing Angular-Runtime modification of Web Apps with Module Federation](https://dev.to/ilyoskhuja/customizing-angular-runtime-modification-of-web-apps-with-module-federation-3nob)
 - [Dev.to/JS] [How to Build Angular Applications for Performance Optimization](https://dev.to/ilyoskhuja/how-to-build-angular-applications-for-performance-optimization-hi5)
 - [Dev.to/JS] [Import Maps- The Next evolution step for MicroFrontends](https://dev.to/ilyoskhuja/import-maps-the-next-evolution-step-for-microfrontends-3anc)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ngrx - Core Principles &amp; New Features](https://dev.to/ilyoskhuja/ngrx-core-principles-new-features-4dj4)
 - [Dev.to/JS] [Streamlined Page Title Accessibility in Angular](https://dev.to/ilyoskhuja/streamlined-page-title-accessibility-in-angular-33mo)
 - [Dev.to/JS] [Currying in JavaScript](https://dev.to/rahul_jindal/currying-in-javascript-49be)
-- [Dev.to/JS] [The State of End-to-end Testing with Angular - Prepare for Protractor Deprecation](https://dev.to/ilyoskhuja/the-state-of-end-to-end-testing-with-angular-prepare-for-protractor-deprecation-3a81)
-- [Dev.to/JS] [Angular CLI Auto-Completion: Streamlining Your Workflow](https://dev.to/ilyoskhuja/angular-cli-auto-completion-streamlining-your-workflow-2k80)
-- [Dev.to/JS] [Fetch and HTTP Methods](https://dev.to/maximka2021/fetch-and-http-methods-2b4k)
-- [Dev.to/JS] [New way of debugging template syntax errors with ng-template-error](https://dev.to/ilyoskhuja/new-way-of-debugging-template-syntax-errors-with-ng-template-error-4dl)
-- [Dev.to/JS] [&quot;Uncaught SyntaxError: Unexpected token &lt;&quot; ...?](https://dev.to/ayako_yk/uncaught-syntaxerror-unexpected-token--pph)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
