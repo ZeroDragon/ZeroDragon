@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zerando HackerRank: Diferença Diagonal](https://dev.to/trinitypath/zerando-hackerrank-diferenca-diagonal-4hlg)
 - [Dev.to/JS] [Remove CSS Class From An HTML Element In JavaScript](https://dev.to/hirajatamil/remove-css-class-from-an-html-element-in-javascript-2jk6)
 - [Dev.to/JS] [Master JavaScript Design Patterns in Minutes](https://dev.to/smsp/master-javascript-design-patterns-in-minutes-8l2)
 - [Dev.to/JS] [Introduction to Nuxt 3: Part 2](https://dev.to/alexandergekov/introduction-to-nuxt-3-part-2-movie-app-i02)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here&#39;s a high-level road map for learning the MERN stack:](https://dev.to/vamsi_76_89/heres-a-high-level-road-map-for-learning-the-mern-stack-5akm)
 - [Dev.to/JS] [Running Serverless Functions on Kubernetes](https://dev.to/pmbanugo/running-serverless-functions-on-kubernetes-a20)
 - [Dev.to/JS] [Continuous performance audits in Nuxt with Lighthouse CI and Github Actions](https://dev.to/jacobandrewsky/continuous-performance-audits-in-nuxt-with-lighthouse-ci-and-github-actions-2hpf)
-- [Dev.to/JS] [Power Up Your Angular App with Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/ilyoskhuja/power-up-your-angular-app-with-progressive-web-apps-pwas-1p88)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
