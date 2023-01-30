@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Must have websites for every Frontend Web developer](https://dev.to/hy_piyush/must-have-websites-for-every-frontend-web-developer-3ajm)
 - [Dev.to/JS] [Web3 development with Angular: Making life easy with blockchain](https://dev.to/ilyoskhuja/web3-development-with-angular-making-life-easy-with-blockchain-13fa)
 - [Dev.to/JS] [Set up a PostgreSQL database and connect to NestJS with TypeORM](https://dev.to/leduc1901/set-up-a-postgresql-database-and-connect-to-nestjs-with-typeorm-35np)
 - [Dev.to/JS] [Access Azure KeyVault Secrets Through Nodejs Application](https://dev.to/dileepamabulage/access-azure-keyvault-secrets-through-nodejs-application-bim)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hexagonal Architecture in Angular: An Overview with an Example](https://dev.to/ilyoskhuja/hexagonal-architecture-in-angular-an-overview-with-an-example-1hc2)
 - [Dev.to/JS] [Ngrx - Core Principles &amp; New Features](https://dev.to/ilyoskhuja/ngrx-core-principles-new-features-4dj4)
 - [Dev.to/JS] [Streamlined Page Title Accessibility in Angular](https://dev.to/ilyoskhuja/streamlined-page-title-accessibility-in-angular-33mo)
-- [Dev.to/JS] [Currying in JavaScript](https://dev.to/rahul_jindal/currying-in-javascript-49be)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
