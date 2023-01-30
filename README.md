@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [See the Galaxy S23 and Book3 Unveiled During ‘Samsung Unpacked 2023’](https://lifehacker.com/see-the-galaxy-s23-and-book3-unveiled-during-samsung-u-1850048482)
+- [Dev.to/JS] [Revolutionising the Assembly line-AI Computer Vision](https://dev.to/pavanai/revolutionising-the-assembly-line-ai-computer-vision-n6m)
+- [Dev.to/JS] [Logical Assignment Operators](https://dev.to/temmietope/logical-assignment-operators-1fdd)
+- [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)
+- [Dev.to/JS] [Auth&lpar;entication&rpar; vs Auth&lpar;orization&rpar;](https://dev.to/oluwatrillions/authentication-vs-authorization-2hkg)
+- [Dev.to/JS] [How To Write Clean Code As A Developer](https://dev.to/scofieldidehen/how-to-write-clean-code-as-a-developer-471c)
 - [Dev.to/JS] [Best React UI frameworks to boost Productivity 🚀 🌟](https://dev.to/bitohq/best-react-ui-frameworks-to-boost-productivity-2m43)
+- [Lifehacker] [How to Tear Masking Tape Perfectly Every Time](https://lifehacker.com/how-to-tear-masking-tape-perfectly-every-time-1850048444)
 - [Dev.to/JS] [JavaScript Lenses: A Guide to Efficiently Modifying Immutable Data](https://dev.to/vhutov/javascript-lenses-a-guide-to-efficiently-modifying-immutable-data-le1)
 - [Dev.to/JS] [How to use React and Firebase together](https://dev.to/prudentelias/how-to-use-react-and-firebase-together-5f17)
 - [Lifehacker] [You Should Know How Much Your Coworkers Make &lpar;and Vice Versa&rpar;](https://lifehacker.com/you-should-know-how-much-your-coworkers-make-and-vice-1850042665)
@@ -34,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Parallax mouse effect](https://dev.to/jaimebboyjt/parallax-mouse-effect-4i62)
 - [Dev.to/JS] [Deployment with Next.js](https://dev.to/celest67/deployment-with-nextjs-41j7)
 - [Dev.to/JS] [What is the Total.js Plaform?](https://dev.to/petersirka/what-is-the-totaljs-plaform-25pi)
-- [Dev.to/JS] [Becoming a Blockchain Developer: A Step-by-Step Guide for Beginners](https://dev.to/alymurtazamemon/becoming-a-blockchain-developer-a-step-by-step-guide-for-beginners-193e)
-- [Dev.to/JS] [Chat backend with Supabase &amp; Socket.io](https://dev.to/nsmet/chat-backend-with-supabase-socketio-55nn)
 - [Lifehacker] [Make This Simple, Elegant Dessert for Valentine&#39;s Day](https://lifehacker.com/make-this-simple-elegant-dessert-for-valentines-day-1850043020)
-- [Dev.to/JS] [🎯 9 Essential React Hooks Every Developer Should Know](https://dev.to/naubit/9-essential-react-hooks-every-developer-should-know-278l)
 - [Lifehacker] [Why Your Next Classic Cocktail Should Be Upside-Down](https://lifehacker.com/why-your-next-classic-cocktail-should-be-upside-down-1850042651)
-- [Dev.to/JS] [The ultimate guide to variables in JavaScript](https://dev.to/veronikasimic_56/the-ultimate-guide-to-variables-in-javascript-5b8o)
 - [Lifehacker] [12 Things a Home Inspector Is Most Likely to Skip](https://lifehacker.com/12-things-a-home-inspector-is-most-likely-to-skip-1850040892)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Check These Databases for Retirement Savings You Forgot About](https://lifehacker.com/check-these-databases-for-retirement-savings-you-forgot-1850037905)
 - [Lifehacker] [When to Take the Money in a Class-Action Settlement &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-take-the-money-in-a-class-action-settlement-an-1850040355)
 - [Lifehacker] [Fix Your Switch&#39;s &#39;Goldeneye&#39; Controls to Be More Like Xbox&#39;s](https://lifehacker.com/fix-your-switchs-goldeneye-controls-to-be-more-like-xbo-1850040284)
-- [Lifehacker] [Blend Bacon Straight Into Your Salad Dressing](https://lifehacker.com/blend-bacon-straight-into-your-salad-dressing-1850040200)
-- [Lifehacker] [13 Common Idioms the Kids Don’t Understand](https://lifehacker.com/13-common-idioms-the-kids-don-t-understand-1850035015)
-- [Lifehacker] [How to Leverage Pay Transparency During Your Next Interview](https://lifehacker.com/how-to-leverage-pay-transparency-during-your-next-inter-1850006082)
-- [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Blend Bacon Straight Into Your Salad Dressing](https://lifehacker.com/blend-bacon-straight-into-your-salad-dressing-1850040200)<!-- TECH-POSTS:END -->
 
 ---
 
