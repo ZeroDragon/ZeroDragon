@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best React UI frameworks to boost Productivity 🚀 🌟](https://dev.to/bitohq/best-react-ui-frameworks-to-boost-productivity-2m43)
+- [Dev.to/JS] [JavaScript Lenses: A Guide to Efficiently Modifying Immutable Data](https://dev.to/vhutov/javascript-lenses-a-guide-to-efficiently-modifying-immutable-data-le1)
+- [Dev.to/JS] [How to use React and Firebase together](https://dev.to/prudentelias/how-to-use-react-and-firebase-together-5f17)
+- [Lifehacker] [You Should Know How Much Your Coworkers Make &lpar;and Vice Versa&rpar;](https://lifehacker.com/you-should-know-how-much-your-coworkers-make-and-vice-1850042665)
+- [Dev.to/JS] [Utilizando Type Guards no TypeScript](https://dev.to/murillonahvs/utilizando-type-guards-no-typescript-3b0j)
+- [Dev.to/JS] [Awesome AI tools to assist you in coding](https://dev.to/surajondev/awesome-ai-tools-to-assist-you-in-coding-4nmf)
 - [Lifehacker] [Your iPhone Can Automatically Wish Your Friends Happy Birthday](https://lifehacker.com/your-iphone-can-automatically-wish-your-friends-happy-b-1850047567)
 - [Lifehacker] [The 7 Deadly Sins of Attending a Super Bowl Party](https://lifehacker.com/the-7-deadly-sins-of-attending-a-super-bowl-party-1850047377)
 - [Dev.to/JS] [Parallax mouse effect](https://dev.to/jaimebboyjt/parallax-mouse-effect-4i62)
@@ -34,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎯 9 Essential React Hooks Every Developer Should Know](https://dev.to/naubit/9-essential-react-hooks-every-developer-should-know-278l)
 - [Lifehacker] [Why Your Next Classic Cocktail Should Be Upside-Down](https://lifehacker.com/why-your-next-classic-cocktail-should-be-upside-down-1850042651)
 - [Dev.to/JS] [The ultimate guide to variables in JavaScript](https://dev.to/veronikasimic_56/the-ultimate-guide-to-variables-in-javascript-5b8o)
-- [Dev.to/JS] [Validate Form during Browser Idle for Performance Optimization](https://dev.to/nuko_suke/validate-form-during-browser-idle-for-performance-optimization-42fn)
 - [Lifehacker] [12 Things a Home Inspector Is Most Likely to Skip](https://lifehacker.com/12-things-a-home-inspector-is-most-likely-to-skip-1850040892)
-- [Dev.to/JS] [Zerando HackerRank: Diferença Diagonal](https://dev.to/trinitypath/zerando-hackerrank-diferenca-diagonal-4hlg)
-- [Dev.to/JS] [Remove CSS Class From An HTML Element In JavaScript](https://dev.to/hirajatamil/remove-css-class-from-an-html-element-in-javascript-2jk6)
-- [Dev.to/JS] [Master JavaScript Design Patterns in Minutes](https://dev.to/smsp/master-javascript-design-patterns-in-minutes-8l2)
-- [Dev.to/JS] [Introduction to Nuxt 3: Part 2](https://dev.to/alexandergekov/introduction-to-nuxt-3-part-2-movie-app-i02)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Blend Bacon Straight Into Your Salad Dressing](https://lifehacker.com/blend-bacon-straight-into-your-salad-dressing-1850040200)
 - [Lifehacker] [13 Common Idioms the Kids Don’t Understand](https://lifehacker.com/13-common-idioms-the-kids-don-t-understand-1850035015)
 - [Lifehacker] [How to Leverage Pay Transparency During Your Next Interview](https://lifehacker.com/how-to-leverage-pay-transparency-during-your-next-inter-1850006082)
-- [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)
-- [Lifehacker] [How Stress-Resilient Is Your Relationship?](https://lifehacker.com/how-stress-resilient-is-your-relationship-1850038256)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Medical and Recreational Cannabis, and Which to Choose](https://lifehacker.com/the-difference-between-medical-and-recreational-cannabi-1850039890)<!-- TECH-POSTS:END -->
 
 ---
 
