@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Uncaught SyntaxError: Unexpected token &lt;&quot; ...?](https://dev.to/ayako_yk/uncaught-syntaxerror-unexpected-token--pph)
 - [Dev.to/JS] [Why WebStorm is the most productive IDE for JavaScript development](https://dev.to/aaron_janes/why-webstorm-is-the-most-productive-ide-for-javascript-development-jp6)
 - [Dev.to/JS] [Get Started with Git: Understanding the Fundamentals](https://dev.to/aaron_janes/intro-to-git-what-the-heck-is-git-anyway--1dkb)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Binary Search Tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-binary-search-tree-22j1)
 - [Dev.to/JS] [JS vs TS: A Comprehensive Guide to Choosing the Right Programming Language](https://dev.to/joshthecodingaddict/js-vs-ts-a-comprehensive-guide-to-choosing-the-right-programming-language-577l)
 - [Dev.to/JS] [VS Code Extensions I Use For Programming And Writing](https://dev.to/dev_neil_a/vs-code-extensions-i-use-for-programming-and-writing-50h0)
-- [Dev.to/JS] [Learning Web Development](https://dev.to/expoverse/learning-web-development-1k5l)
+- [Dev.to/JS] [Learning Web Development 🤯🔥](https://dev.to/expoverse/learning-web-development-1k5l)
 - [Dev.to/JS] [Making Custom Hooks in React and Typescript](https://dev.to/mixed_code/making-custom-hooks-in-react-and-typescript-2pjf)
 - [Dev.to/JS] [🌐 Connect with others on the same webpage as you 🖥️](https://dev.to/rajeshj3/connect-with-others-on-the-same-webpage-as-you-de6)
 - [Dev.to/JS] [Angular 15: Introduction to Component Scoped Keyframes](https://dev.to/ilyoskhuja/angular-15-introduction-to-component-scoped-keyframes-1nin)
 - [Dev.to/JS] [A PetiteVue Tutorial - 05 Sorting](https://dev.to/krowemoh/a-petitevue-tutorial-05-sorting-iab)
 - [Dev.to/JS] [A PetiteVue Tutorial - 04 Searching](https://dev.to/krowemoh/a-petitevue-tutorial-04-searching-50f5)
-- [Dev.to/JS] [A PetiteVue Tutorial - 03 Fetching Data](https://dev.to/krowemoh/a-petitevue-tutorial-03-fetching-data-1305)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
