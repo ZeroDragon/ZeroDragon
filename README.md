@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [I Dare You to Roast Leftover Coleslaw](https://lifehacker.com/i-dare-you-to-roast-leftover-coleslaw-1850051239)
+- [Dev.to/JS] [Custom Schema Validation in TypeScript with Zod](https://dev.to/isnan__h/custom-schema-validation-in-typescript-with-zod-5cp5)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Variação de Positivos e Negativos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-variacao-de-positivos-e-negativos-4l1p)
+- [Dev.to/JS] [Why React isn&#39;t dying](https://dev.to/tkdodo/why-react-isnt-dying-k42)
+- [Dev.to/JS] [6 Easy Ways to Improve Accessibility in HTML Tables](https://dev.to/ideradevtools/6-easy-ways-to-improve-accessibility-in-html-tables-1ape)
+- [Dev.to/JS] [Bookmarklets](https://dev.to/ht03pi/bookmarklets-2a1d)
+- [Dev.to/JS] [How To Add A Chatbot To Webflow](https://dev.to/devashishmamgain/how-to-add-a-chatbot-to-webflow-50on)
+- [Dev.to/JS] [How to use Receipt Parsing API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-receipt-parsing-api-with-javascript-in-5-minutes-1mpl)
+- [Dev.to/JS] [WhatsApp in React Native &lpar;part 3&rpar;](https://dev.to/jacksbridger/whatsapp-in-react-native-part-3-1gmf)
 - [Dev.to/JS] [Fast and Easy Way to Improve Website Pagespeed](https://dev.to/bhavingandha9/fast-and-easy-way-to-improve-website-pagespeed-2e1n)
 - [Dev.to/JS] [Build a Serverless Discord Bot with OpenAI GPT-3 in Minutes using Template Functions in Lolo](https://dev.to/lolo_code/build-a-serverless-discord-bot-with-openai-gpt-3-in-minutes-using-template-functions-in-lolo-12ge)
 - [Dev.to/JS] [Will AI take our Jobs?](https://dev.to/scofieldidehen/will-ai-take-our-jobs-ndf)
 - [Dev.to/JS] [Create a Free WhatsApp Binance Bot in a Few Minutes with Serverless in Lolo](https://dev.to/lolo_code/create-a-free-whatsapp-binance-bot-in-a-few-minutes-with-serverless-in-lolo-2plm)
-- [Dev.to/JS] [Angular Workspace 🏭](https://dev.to/codesuman/angular-workspace-4o7c)
-- [Dev.to/JS] [Rendering with NextJS](https://dev.to/hi_iam_chris/rendering-with-nextjs-1db1)
-- [Dev.to/JS] [Can I install a dependency as devDependency instead of as a global dependency and still use it?](https://dev.to/mbshehzad/can-i-install-a-dependency-as-devdependency-instead-of-as-a-global-dependency-and-still-use-it-155l)
-- [Dev.to/JS] [How Can AI Help Software Development](https://dev.to/tyaga001/how-can-ai-help-software-development-4gik)
-- [Dev.to/JS] [Does running &quot;npm install&quot; inside a project folder also install devDependencies ?](https://dev.to/mbshehzad/does-running-npm-install-inside-a-project-folder-also-install-devdependencies--477p)
-- [Dev.to/JS] [Axios to consume REST API in React](https://dev.to/documatic/axios-to-consume-rest-api-in-react-4549)
-- [Dev.to/JS] [Best practices for writing clean and maintainable code](https://dev.to/princejaiswalcoder/best-practices-for-writing-clean-and-maintainable-code-461d)
-- [Dev.to/JS] [Rendering Frameworks JavaScript](https://dev.to/hidaytrahman/rendering-frameworks-javascript-2hpf)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
 - [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)
-- [Lifehacker] [What You Should Clean in Your House After Someone Gets Sick](https://lifehacker.com/what-you-should-clean-in-your-house-after-someone-gets-1850042324)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)<!-- TECH-POSTS:END -->
 
 ---
 
