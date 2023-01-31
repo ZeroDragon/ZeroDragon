@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
+- [Dev.to/JS] [Linked List](https://dev.to/lausuarez02/linked-list-5bih)
+- [Dev.to/JS] [How to work more efficiently with Angular and Node.js](https://dev.to/shivamblog/how-to-work-more-efficiently-with-angular-and-nodejs-n81)
+- [Dev.to/JS] [Using Riot.js, a component-based UI library](https://dev.to/logrocket/using-riotjs-a-component-based-ui-library-1dm8)
+- [Dev.to/JS] [How to master JavaScript, from beginner to expert](https://dev.to/shivamblog/how-to-master-javascript-from-beginner-to-expert-28mo)
+- [Lifehacker] [Seven Ways to Prep Your House Before a Contractor Arrives](https://lifehacker.com/seven-ways-to-prep-your-house-before-a-contractor-arriv-1850053104)
+- [Dev.to/JS] [Rails 7 ActionController::UnknownFormat in CommentsController#create respond_to](https://dev.to/alaz/rails-7-actioncontrollerunknownformat-in-commentscontrollercreate-respondto-2lc8)
+- [Dev.to/JS] [XSS Under The Radar](https://dev.to/jmau111/xss-under-the-radar-595p)
+- [Dev.to/JS] [JavaScript: Entendendo o método .at&lpar;&rpar;](https://dev.to/trinitypath/javascript-entendendo-o-metodo-at-306n)
 - [Lifehacker] [Your iPhone Can Scan and Copy Any Text Into a Note](https://lifehacker.com/your-iphone-can-scan-and-copy-any-text-into-a-note-1850052097)
 - [Dev.to/JS] [💻 What is Vue.js? A Comprehensive Guide to the Frontend Framework](https://dev.to/flatlogic_manager/what-is-vuejs-a-comprehensive-guide-to-the-frontend-framework-3ol6)
 - [Dev.to/JS] [How to Install and Use React Image Upload](https://dev.to/ideradevtools/how-to-install-and-use-react-image-upload-298g)
@@ -32,14 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If the Rock You Found Is a Meteorite](https://lifehacker.com/how-to-tell-if-the-rock-you-found-is-a-meteorite-1850051480)
 - [Lifehacker] [The Best Air Fryers on Sale for Under $100 Right Now](https://lifehacker.com/the-best-air-fryers-on-sale-for-under-100-right-now-1850050875)
 - [Dev.to/JS] [TL;DR CommonJS vs ESM](https://dev.to/abbeyperini/tldr-commonjs-vs-esm-47dk)
-- [Dev.to/JS] [&quot;The Backend Blues: How API Logging and Error Handling Saved Our Server-side Sanity&quot;](https://dev.to/aj7tt/the-backend-blues-how-api-logging-and-error-handling-saved-our-server-side-sanity-91)
-- [Dev.to/JS] [Vitest: Blazing fast unit test framework](https://dev.to/uploadcare/vitest-blazing-fast-unit-test-framework-4lco)
-- [Dev.to/JS] [First thoughts about event loop.](https://dev.to/ayyubxon/first-thoughts-about-event-loop-3jmh)
-- [Dev.to/JS] [Mastering Internationalization and Localization in JavaScript: A Comprehensive Guide](https://dev.to/sarahokolo/mastering-internationalization-and-localization-in-javascript-a-comprehensive-guide-50ma)
-- [Dev.to/JS] [I developed a simple but beautiful developer portfolio template using React and Next.js](https://dev.to/umutyesildal/i-developed-a-simple-but-beautiful-developer-portfolio-template-using-react-and-nextjs-25l7)
 - [Lifehacker] [I Dare You to Roast Leftover Coleslaw](https://lifehacker.com/i-dare-you-to-roast-leftover-coleslaw-1850051239)
-- [Dev.to/JS] [Custom Schema Validation in TypeScript with Zod](https://dev.to/isnan__h/custom-schema-validation-in-typescript-with-zod-5cp5)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Variação de Positivos e Negativos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-variacao-de-positivos-e-negativos-4l1p)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Next Classic Cocktail Should Be Upside-Down](https://lifehacker.com/why-your-next-classic-cocktail-should-be-upside-down-1850042651)
 - [Lifehacker] [12 Things a Home Inspector Is Most Likely to Skip](https://lifehacker.com/12-things-a-home-inspector-is-most-likely-to-skip-1850040892)
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
-- [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
-- [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
-- [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)<!-- TECH-POSTS:END -->
 
 ---
 
