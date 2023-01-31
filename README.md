@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Join Artifact, the TikTok of News](https://lifehacker.com/how-to-join-artifact-the-tiktok-of-news-1850054394)
+- [Dev.to/JS] [What is JSON ?](https://dev.to/himanshubaghel07/what-is-json--146b)
+- [Lifehacker] [This Savory Risotto Cake Is Italy&#39;s Best Kept Secret](https://lifehacker.com/this-savory-risotto-cake-is-italys-best-kept-secret-1850054094)
+- [Dev.to/JS] [Using Gleam in your Phoenix Hooks](https://dev.to/clsource/using-gleam-in-your-phoenix-hooks-177o)
+- [Dev.to/JS] [HTTP response codes and Error Handling](https://dev.to/aj7tt/http-response-codes-and-error-handling-1nno)
 - [Dev.to/JS] [What environment variables does Heroku set by default when we deploy an app?](https://dev.to/mbshehzad/what-environment-variables-does-heroku-set-by-default-when-we-deploy-an-app-497d)
 - [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)
 - [Dev.to/JS] [Wexstream - Full Stack Video Conferencing Platform](https://dev.to/aelassas/wexstream-full-stack-video-conferencing-platform-53gh)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BookCars - Full Stack Car Rental Platform with Mobile App](https://dev.to/aelassas/bookcars-full-stack-car-rental-platform-with-mobile-app-2cd6)
 - [Dev.to/JS] [Asynchronous programming in Javascript](https://dev.to/said7388/asynchronous-programming-in-javascript-4mep)
 - [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)
-- [Dev.to/JS] [Runaway Button React App](https://dev.to/dessygil/runaway-button-react-app-1eae)
-- [Dev.to/JS] [Desarrollando un clon de instagram en React - Parte 1](https://dev.to/robertomsen/desarrollando-un-clon-de-instagram-en-react-parte-1-5fml)
-- [Dev.to/JS] [Differences between var, let and const.](https://dev.to/lausuarez02/differences-between-var-let-and-const-26fo)
 - [Lifehacker] [25 of the Horniest TV Shows Ever Made](https://lifehacker.com/25-of-the-horniest-tv-shows-ever-made-1850046614)
 - [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
 - [Lifehacker] [Seven Ways to Prep Your House Before a Contractor Arrives](https://lifehacker.com/seven-ways-to-prep-your-house-before-a-contractor-arriv-1850053104)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)
 - [Lifehacker] [How to Tear Masking Tape Perfectly Every Time](https://lifehacker.com/how-to-tear-masking-tape-perfectly-every-time-1850048444)
 - [Lifehacker] [You Should Know How Much Your Coworkers Make &lpar;and Vice Versa&rpar;](https://lifehacker.com/you-should-know-how-much-your-coworkers-make-and-vice-1850042665)
-- [Lifehacker] [Your iPhone Can Automatically Wish Your Friends Happy Birthday](https://lifehacker.com/your-iphone-can-automatically-wish-your-friends-happy-b-1850047567)
-- [Lifehacker] [The 7 Deadly Sins of Attending a Super Bowl Party](https://lifehacker.com/the-7-deadly-sins-of-attending-a-super-bowl-party-1850047377)
-- [Lifehacker] [Make This Simple, Elegant Dessert for Valentine&#39;s Day](https://lifehacker.com/make-this-simple-elegant-dessert-for-valentines-day-1850043020)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your iPhone Can Automatically Wish Your Friends Happy Birthday](https://lifehacker.com/your-iphone-can-automatically-wish-your-friends-happy-b-1850047567)<!-- TECH-POSTS:END -->
 
 ---
 
