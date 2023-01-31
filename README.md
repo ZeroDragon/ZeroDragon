@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fast and Easy Way to Improve Website Pagespeed](https://dev.to/bhavingandha9/fast-and-easy-way-to-improve-website-pagespeed-2e1n)
+- [Dev.to/JS] [Build a Serverless Discord Bot with OpenAI GPT-3 in Minutes using Template Functions in Lolo](https://dev.to/lolo_code/build-a-serverless-discord-bot-with-openai-gpt-3-in-minutes-using-template-functions-in-lolo-12ge)
+- [Dev.to/JS] [Will AI take our Jobs?](https://dev.to/scofieldidehen/will-ai-take-our-jobs-ndf)
+- [Dev.to/JS] [Create a Free WhatsApp Binance Bot in a Few Minutes with Serverless in Lolo](https://dev.to/lolo_code/create-a-free-whatsapp-binance-bot-in-a-few-minutes-with-serverless-in-lolo-2plm)
+- [Dev.to/JS] [Angular Workspace 🏭](https://dev.to/codesuman/angular-workspace-4o7c)
 - [Dev.to/JS] [Rendering with NextJS](https://dev.to/hi_iam_chris/rendering-with-nextjs-1db1)
 - [Dev.to/JS] [Can I install a dependency as devDependency instead of as a global dependency and still use it?](https://dev.to/mbshehzad/can-i-install-a-dependency-as-devdependency-instead-of-as-a-global-dependency-and-still-use-it-155l)
 - [Dev.to/JS] [How Can AI Help Software Development](https://dev.to/tyaga001/how-can-ai-help-software-development-4gik)
 - [Dev.to/JS] [Does running &quot;npm install&quot; inside a project folder also install devDependencies ?](https://dev.to/mbshehzad/does-running-npm-install-inside-a-project-folder-also-install-devdependencies--477p)
-- [Dev.to/JS] [Understanding React Functional and Class Based Components](https://dev.to/mwendwabundi/understanding-react-functional-and-class-based-components-3li)
 - [Dev.to/JS] [Axios to consume REST API in React](https://dev.to/documatic/axios-to-consume-rest-api-in-react-4549)
 - [Dev.to/JS] [Best practices for writing clean and maintainable code](https://dev.to/princejaiswalcoder/best-practices-for-writing-clean-and-maintainable-code-461d)
 - [Dev.to/JS] [Rendering Frameworks JavaScript](https://dev.to/hidaytrahman/rendering-frameworks-javascript-2hpf)
-- [Dev.to/JS] [Some of the most important CSS properties:](https://dev.to/vamsi_76_89/some-of-the-most-important-css-properties-1g40)
-- [Dev.to/JS] [How to do this drag and drop?](https://dev.to/ninxe/how-to-do-this-drag-and-drop-1c96)
-- [Dev.to/JS] [Building out a Notes App with React and a Django Rest API Part 1](https://dev.to/ki3ani/building-out-a-notes-app-with-react-and-a-django-rest-api-part-1-5bc5)
-- [Dev.to/JS] [Recreating Nike - Medusa &amp; Next.js](https://dev.to/stef4n24/recreating-nike-medusa-nextjs-g8g)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
