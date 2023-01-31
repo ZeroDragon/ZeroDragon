@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Developer Complete Roadmap: From Zero to Hero](https://dev.to/hy_piyush/javascript-developer-complete-roadmap-from-zero-to-hero-41if)
+- [Dev.to/JS] [Ekspedisi Antar Pulau](https://dev.to/mrdvtchman/ekspedisi-antar-pulau-nec)
+- [Dev.to/JS] [Understanding the javascript:void&lpar;0&rpar; Statement](https://dev.to/codeofrelevancy/understanding-the-javascriptvoid0-statement-2dna)
 - [Dev.to/JS] [NestJS - Node.js Application on steroids](https://dev.to/rohithart/nestjs-nodejs-application-on-steroids-43g7)
 - [Dev.to/JS] [Sortition Names with JS](https://dev.to/walternascimentobarroso/sortition-names-with-js-1boe)
 - [Dev.to/JS] [Building my First Chrome extension with React js](https://dev.to/mahlilmahee/building-my-first-chrome-extension-with-react-js-3826)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created a design system and it&#39;s called Beef Design System](https://dev.to/jared201/i-created-a-design-system-and-its-called-beef-design-system-3oif)
 - [Dev.to/JS] [Building a Responsive Sign Up Form](https://dev.to/asayerio_techblog/building-a-responsive-sign-up-form-5am3)
 - [Dev.to/JS] [6 Approaches for Data Fetching in React](https://dev.to/char_carr_dev/6-approaches-for-data-fetching-in-react-1ec3)
-- [Dev.to/JS] [Animation d&#39;écriture automatique de texte en javascript](https://dev.to/blakvghost/animation-decriture-automatique-de-texte-en-javascript-4onp)
-- [Dev.to/JS] [Mierda](https://dev.to/leonardof02/mierda-2j0a)
-- [Dev.to/JS] [Futura.js](https://dev.to/blakvghost/futurajs-mje)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
