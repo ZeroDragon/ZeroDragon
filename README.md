@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I created a design system and it&#39;s called Beef Design System](https://dev.to/jared201/i-created-a-design-system-and-its-called-beef-design-system-3oif)
+- [Dev.to/JS] [Building a Responsive Sign Up Form](https://dev.to/asayerio_techblog/building-a-responsive-sign-up-form-5am3)
+- [Dev.to/JS] [6 Approaches for Data Fetching in React](https://dev.to/char_carr_dev/6-approaches-for-data-fetching-in-react-1ec3)
+- [Dev.to/JS] [Animation d&#39;écriture automatique de texte en javascript](https://dev.to/blakvghost/animation-decriture-automatique-de-texte-en-javascript-4onp)
+- [Dev.to/JS] [Mierda](https://dev.to/leonardof02/mierda-2j0a)
 - [Dev.to/JS] [Futura.js](https://dev.to/blakvghost/futurajs-mje)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
@@ -38,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stand out in interviews: Tips for answering common questions](https://dev.to/alenvarazdinac/stand-out-in-interviews-tips-for-answering-common-questions-ig7)
 - [Lifehacker] [Why You Should Never Lease a Car](https://lifehacker.com/why-you-should-never-lease-a-car-1850049671)
 - [Dev.to/JS] [The idea,🌐Browsemates- Connect with others on the same webpage as you🔥](https://dev.to/rajeshj3/the-ideabrowsemates-connect-with-others-on-the-same-webpage-as-you-4hi3)
-- [Dev.to/JS] [What are higher order components and how to use them in Vue](https://dev.to/wearethreebears/what-are-higher-order-components-and-how-to-use-them-in-vue-3n8e)
-- [Dev.to/JS] [Create your custom notification system with Socket.io and React Native](https://dev.to/lynxgsm/create-your-custom-notification-system-with-socketio-and-react-native-2ic7)
 - [Lifehacker] [Check Whether Your Ford SUV Is Part of This Recall](https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990)
-- [Dev.to/JS] [Building a Contracts SaaS with SaasRock — Part 2 — Signing Contracts with Dropbox Sign](https://dev.to/alexandromtzg/building-a-contracts-saas-with-saasrock-part-2-signing-contracts-with-dropbox-sign-4bm8)
-- [Dev.to/JS] [AI tools to increase the productivity of web developers](https://dev.to/scofieldidehen/ai-tools-to-increase-the-productivity-of-web-developers-ikb)
-- [Dev.to/JS] [Building a Contracts SaaS with SaasRock — Part 1 — Initial Project Setup](https://dev.to/alexandromtzg/building-a-contracts-saas-with-saasrock-part-1-initial-project-setup-3ng2)
 - [Lifehacker] [Don’t Use This New TikTok ‘Hack’ to Clean Your Grout](https://lifehacker.com/don-t-use-this-new-tiktok-hack-to-clean-your-grout-1850048492)
 - [Lifehacker] [See the Galaxy S23 and Book3 Unveiled During ‘Samsung Unpacked 2023’](https://lifehacker.com/see-the-galaxy-s23-and-book3-unveiled-during-samsung-u-1850048482)
 - [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)
