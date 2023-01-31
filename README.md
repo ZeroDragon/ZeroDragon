@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A closure challenge](https://dev.to/bolouie/a-closure-challenge-dl8)
+- [Dev.to/JS] [A próxima transição da Web: Novas arquiteturas trazem novos frameworks](https://dev.to/oieduardorabelo/a-proxima-transicao-da-web-novas-arquiteturas-trazem-novos-frameworks-2dd8)
 - [Dev.to/JS] [I created a design system and it&#39;s called Beef Design System](https://dev.to/jared201/i-created-a-design-system-and-its-called-beef-design-system-3oif)
 - [Dev.to/JS] [Building a Responsive Sign Up Form](https://dev.to/asayerio_techblog/building-a-responsive-sign-up-form-5am3)
 - [Dev.to/JS] [6 Approaches for Data Fetching in React](https://dev.to/char_carr_dev/6-approaches-for-data-fetching-in-react-1ec3)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Must-Know JavaScript Concepts for beginners](https://dev.to/stanleychisom/5-must-know-javascript-concepts-for-beginners-4804)
 - [Lifehacker] [This Google AI Music Will Freak You the Hell Out](https://lifehacker.com/this-google-ai-music-will-freak-you-the-hell-out-1850049352)
 - [Dev.to/JS] [http://fiverr.com/shahin2583](https://dev.to/asaduzzamanshahin/httpfiverrcomshahin2583-1a7d)
-- [Dev.to/JS] [Stand out in interviews: Tips for answering common questions](https://dev.to/alenvarazdinac/stand-out-in-interviews-tips-for-answering-common-questions-ig7)
 - [Lifehacker] [Why You Should Never Lease a Car](https://lifehacker.com/why-you-should-never-lease-a-car-1850049671)
-- [Dev.to/JS] [The idea,🌐Browsemates- Connect with others on the same webpage as you🔥](https://dev.to/rajeshj3/the-ideabrowsemates-connect-with-others-on-the-same-webpage-as-you-4hi3)
 - [Lifehacker] [Check Whether Your Ford SUV Is Part of This Recall](https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990)
 - [Lifehacker] [Don’t Use This New TikTok ‘Hack’ to Clean Your Grout](https://lifehacker.com/don-t-use-this-new-tiktok-hack-to-clean-your-grout-1850048492)
 - [Lifehacker] [See the Galaxy S23 and Book3 Unveiled During ‘Samsung Unpacked 2023’](https://lifehacker.com/see-the-galaxy-s23-and-book3-unveiled-during-samsung-u-1850048482)
