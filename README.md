@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to do this drag and drop?](https://dev.to/ninxe/how-to-do-this-drag-and-drop-1c96)
+- [Dev.to/JS] [Building out a Notes App with React and a Django Rest API Part 1](https://dev.to/ki3ani/building-out-a-notes-app-with-react-and-a-django-rest-api-part-1-5bc5)
+- [Dev.to/JS] [Recreating Nike - Medusa &amp; Next.js](https://dev.to/stef4n24/recreating-nike-medusa-nextjs-g8g)
 - [Dev.to/JS] [Building a Contracts SaaS with SaasRock — Part 3 - Sharing Contract with Linked Account](https://dev.to/alexandromtzg/building-a-contracts-saas-with-saasrock-part-3-sharing-contract-with-linked-account-94)
 - [Dev.to/JS] [Webhooks Explained](https://dev.to/domfive/webhooks-explained-5e69)
 - [Dev.to/JS] [Moonly weekly progress update #34](https://dev.to/moonly/moonly-weekly-progress-update-34-5061)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Cool Crypto Assistant over the Weekend](https://dev.to/abhikbanerjee99/creating-a-cool-crypto-assistant-over-the-weekend-1gd9)
 - [Dev.to/JS] [JavaScript Key fundamentals Part - 2](https://dev.to/vamsi_76_89/javascript-key-fundamentals-part-2-kn5)
 - [Dev.to/JS] [‘this’ in JavaScript](https://dev.to/himanshudevgupta/this-in-javascript-4boj)
-- [Dev.to/JS] [Chrome Extensions of the Month - January 2023](https://dev.to/j471n/chrome-extensions-of-the-month-january-2023-4agc)
-- [Dev.to/JS] [JavaScript Key fundamentals Part - 1](https://dev.to/vamsi_76_89/javascript-is-a-high-level-dynamically-typed-interpreted-programming-language-key-fundamentals-of-javascript-include-105j)
-- [Dev.to/JS] [How to implement state management inside a simple JavaScript app](https://dev.to/lynxgsm/how-to-implement-state-management-inside-a-simple-javascript-app-1khe)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
