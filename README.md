@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your iPhone Can Scan and Copy Any Text Into a Note](https://lifehacker.com/your-iphone-can-scan-and-copy-any-text-into-a-note-1850052097)
+- [Dev.to/JS] [💻 What is Vue.js? A Comprehensive Guide to the Frontend Framework](https://dev.to/flatlogic_manager/what-is-vuejs-a-comprehensive-guide-to-the-frontend-framework-3ol6)
+- [Dev.to/JS] [How to Install and Use React Image Upload](https://dev.to/ideradevtools/how-to-install-and-use-react-image-upload-298g)
+- [Dev.to/JS] [The Current State and Future of Progressive Web Apps &lpar;PWA&rpar;](https://dev.to/daniel_nextjs/the-current-state-and-future-of-progressive-web-apps-pwa-ool)
+- [Lifehacker] [This Alarm App Will Stop Thieves From Stealing Your MacBook](https://lifehacker.com/this-alarm-app-will-stop-thieves-from-stealing-your-mac-1850052346)
+- [Dev.to/JS] [Everything you didn’t know you need to know about buttons](https://dev.to/builderio/everything-you-didnt-know-you-need-to-know-about-buttons-2la1)
+- [Lifehacker] [How to Tell If the Rock You Found Is a Meteorite](https://lifehacker.com/how-to-tell-if-the-rock-you-found-is-a-meteorite-1850051480)
 - [Lifehacker] [The Best Air Fryers on Sale for Under $100 Right Now](https://lifehacker.com/the-best-air-fryers-on-sale-for-under-100-right-now-1850050875)
 - [Dev.to/JS] [TL;DR CommonJS vs ESM](https://dev.to/abbeyperini/tldr-commonjs-vs-esm-47dk)
 - [Dev.to/JS] [&quot;The Backend Blues: How API Logging and Error Handling Saved Our Server-side Sanity&quot;](https://dev.to/aj7tt/the-backend-blues-how-api-logging-and-error-handling-saved-our-server-side-sanity-91)
@@ -33,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Dare You to Roast Leftover Coleslaw](https://lifehacker.com/i-dare-you-to-roast-leftover-coleslaw-1850051239)
 - [Dev.to/JS] [Custom Schema Validation in TypeScript with Zod](https://dev.to/isnan__h/custom-schema-validation-in-typescript-with-zod-5cp5)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Variação de Positivos e Negativos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-variacao-de-positivos-e-negativos-4l1p)
-- [Dev.to/JS] [Why React isn&#39;t dying](https://dev.to/tkdodo/why-react-isnt-dying-k42)
-- [Dev.to/JS] [6 Easy Ways to Improve Accessibility in HTML Tables](https://dev.to/ideradevtools/6-easy-ways-to-improve-accessibility-in-html-tables-1ape)
-- [Dev.to/JS] [Bookmarklets](https://dev.to/ht03pi/bookmarklets-2a1d)
-- [Dev.to/JS] [How To Add A Chatbot To Webflow](https://dev.to/devashishmamgain/how-to-add-a-chatbot-to-webflow-50on)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
 - [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)
 - [Lifehacker] [The Best Way to Clean Your Laptop&#39;s Keyboard](https://lifehacker.com/the-best-way-to-clean-your-laptops-keyboard-1850042703)
-- [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
-- [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
-- [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
-- [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)<!-- TECH-POSTS:END -->
 
 ---
 
