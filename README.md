@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Futura.js](https://dev.to/blakvghost/futurajs-mje)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AI tools to increase the productivity of web developers](https://dev.to/scofieldidehen/ai-tools-to-increase-the-productivity-of-web-developers-ikb)
 - [Dev.to/JS] [Building a Contracts SaaS with SaasRock — Part 1 — Initial Project Setup](https://dev.to/alexandromtzg/building-a-contracts-saas-with-saasrock-part-1-initial-project-setup-3ng2)
 - [Lifehacker] [Don’t Use This New TikTok ‘Hack’ to Clean Your Grout](https://lifehacker.com/don-t-use-this-new-tiktok-hack-to-clean-your-grout-1850048492)
-- [Dev.to/JS] [Get More Work Done Faster with These AI Tools for Chrome](https://dev.to/rahul3002/get-more-work-done-faster-with-these-ai-tools-for-chrome-4351)
 - [Lifehacker] [See the Galaxy S23 and Book3 Unveiled During ‘Samsung Unpacked 2023’](https://lifehacker.com/see-the-galaxy-s23-and-book3-unveiled-during-samsung-u-1850048482)
 - [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)
 - [Lifehacker] [How to Tear Masking Tape Perfectly Every Time](https://lifehacker.com/how-to-tear-masking-tape-perfectly-every-time-1850048444)
