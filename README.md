@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Scraping With Puppeteer for Total Noobs](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-38j4)
 - [Dev.to/JS] [A closure challenge](https://dev.to/bolouie/a-closure-challenge-dl8)
 - [Dev.to/JS] [A próxima transição da Web: Novas arquiteturas trazem novos frameworks](https://dev.to/oieduardorabelo/a-proxima-transicao-da-web-novas-arquiteturas-trazem-novos-frameworks-2dd8)
 - [Dev.to/JS] [I created a design system and it&#39;s called Beef Design System](https://dev.to/jared201/i-created-a-design-system-and-its-called-beef-design-system-3oif)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Fluffy Frosting Out of Sweetened Condensed Milk and Butter](https://lifehacker.com/make-a-fluffy-frosting-out-of-sweetened-condensed-milk-1850048764)
 - [Dev.to/JS] [5 Must-Know JavaScript Concepts for beginners](https://dev.to/stanleychisom/5-must-know-javascript-concepts-for-beginners-4804)
 - [Lifehacker] [This Google AI Music Will Freak You the Hell Out](https://lifehacker.com/this-google-ai-music-will-freak-you-the-hell-out-1850049352)
-- [Dev.to/JS] [http://fiverr.com/shahin2583](https://dev.to/asaduzzamanshahin/httpfiverrcomshahin2583-1a7d)
 - [Lifehacker] [Why You Should Never Lease a Car](https://lifehacker.com/why-you-should-never-lease-a-car-1850049671)
 - [Lifehacker] [Check Whether Your Ford SUV Is Part of This Recall](https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990)
 - [Lifehacker] [Don’t Use This New TikTok ‘Hack’ to Clean Your Grout](https://lifehacker.com/don-t-use-this-new-tiktok-hack-to-clean-your-grout-1850048492)
