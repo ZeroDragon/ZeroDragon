@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Axios to consume REST API in React](https://dev.to/documatic/axios-to-consume-rest-api-in-react-4549)
+- [Dev.to/JS] [Best practices for writing clean and maintainable code](https://dev.to/princejaiswalcoder/best-practices-for-writing-clean-and-maintainable-code-461d)
+- [Dev.to/JS] [Rendering Frameworks JavaScript](https://dev.to/hidaytrahman/rendering-frameworks-javascript-2hpf)
+- [Dev.to/JS] [Some of the most important CSS properties:](https://dev.to/vamsi_76_89/some-of-the-most-important-css-properties-1g40)
 - [Dev.to/JS] [How to do this drag and drop?](https://dev.to/ninxe/how-to-do-this-drag-and-drop-1c96)
 - [Dev.to/JS] [Building out a Notes App with React and a Django Rest API Part 1](https://dev.to/ki3ani/building-out-a-notes-app-with-react-and-a-django-rest-api-part-1-5bc5)
 - [Dev.to/JS] [Recreating Nike - Medusa &amp; Next.js](https://dev.to/stef4n24/recreating-nike-medusa-nextjs-g8g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Moonly weekly progress update #34](https://dev.to/moonly/moonly-weekly-progress-update-34-5061)
 - [Dev.to/JS] [How To Upgrade or Downgrade the Node Version?](https://dev.to/nimashamadhush2/how-to-upgrade-or-downgrade-the-node-version-4ef1)
 - [Dev.to/JS] [Counter Example: Improved Vanilla JavaScript](https://dev.to/szabgab/counter-example-improved-vanilla-javascript-5g29)
-- [Dev.to/JS] [Bliss Skin Tag Remover - Skin Care Reviews, Benefits, Scam Or Legit?](https://dev.to/removerbliss/bliss-skin-tag-remover-skin-care-reviews-benefits-scam-or-legit-10jb)
-- [Dev.to/JS] [Creating a Cool Crypto Assistant over the Weekend](https://dev.to/abhikbanerjee99/creating-a-cool-crypto-assistant-over-the-weekend-1gd9)
-- [Dev.to/JS] [JavaScript Key fundamentals Part - 2](https://dev.to/vamsi_76_89/javascript-key-fundamentals-part-2-kn5)
-- [Dev.to/JS] [‘this’ in JavaScript](https://dev.to/himanshudevgupta/this-in-javascript-4boj)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
