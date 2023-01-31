@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Runaway Button React App](https://dev.to/dessygil/runaway-button-react-app-1eae)
+- [Dev.to/JS] [Desarrollando un clon de instagram en React - Parte 1](https://dev.to/robertomsen/desarrollando-un-clon-de-instagram-en-react-parte-1-5fml)
+- [Dev.to/JS] [Differences between var, let and const.](https://dev.to/lausuarez02/differences-between-var-let-and-const-26fo)
+- [Lifehacker] [25 of the Horniest TV Shows Ever Made](https://lifehacker.com/25-of-the-horniest-tv-shows-ever-made-1850046614)
+- [Dev.to/JS] [Build a Team permissions system in Node.js app using Auth0 and Permify - Part 2](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-2-4i9d)
+- [Dev.to/JS] [Debugging in JavaScript: Understanding the Undefined Keyword](https://dev.to/nikhilbagwe11/debugging-with-javascript-understanding-the-undefined-keyword-41i3)
+- [Dev.to/JS] [Build a team permissions system in Node.js app using Auth0 and Permify - Part 1](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo)
+- [Dev.to/JS] [Daily message Slack bot](https://dev.to/vetswhocode/daily-message-slack-bot-ne6)
 - [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
 - [Dev.to/JS] [Linked List](https://dev.to/lausuarez02/linked-list-5bih)
 - [Dev.to/JS] [How to work more efficiently with Angular and Node.js](https://dev.to/shivamblog/how-to-work-more-efficiently-with-angular-and-nodejs-n81)
@@ -30,17 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to master JavaScript, from beginner to expert](https://dev.to/shivamblog/how-to-master-javascript-from-beginner-to-expert-28mo)
 - [Lifehacker] [Seven Ways to Prep Your House Before a Contractor Arrives](https://lifehacker.com/seven-ways-to-prep-your-house-before-a-contractor-arriv-1850053104)
 - [Dev.to/JS] [Rails 7 ActionController::UnknownFormat in CommentsController#create respond_to](https://dev.to/alaz/rails-7-actioncontrollerunknownformat-in-commentscontrollercreate-respondto-2lc8)
-- [Dev.to/JS] [XSS Under The Radar](https://dev.to/jmau111/xss-under-the-radar-595p)
-- [Dev.to/JS] [JavaScript: Entendendo o método .at&lpar;&rpar;](https://dev.to/trinitypath/javascript-entendendo-o-metodo-at-306n)
 - [Lifehacker] [Your iPhone Can Scan and Copy Any Text Into a Note](https://lifehacker.com/your-iphone-can-scan-and-copy-any-text-into-a-note-1850052097)
-- [Dev.to/JS] [💻 What is Vue.js? A Comprehensive Guide to the Frontend Framework](https://dev.to/flatlogic_manager/what-is-vuejs-a-comprehensive-guide-to-the-frontend-framework-3ol6)
-- [Dev.to/JS] [How to Install and Use React Image Upload](https://dev.to/ideradevtools/how-to-install-and-use-react-image-upload-298g)
-- [Dev.to/JS] [The Current State and Future of Progressive Web Apps &lpar;PWA&rpar;](https://dev.to/daniel_nextjs/the-current-state-and-future-of-progressive-web-apps-pwa-ool)
 - [Lifehacker] [This Alarm App Will Stop Thieves From Stealing Your MacBook](https://lifehacker.com/this-alarm-app-will-stop-thieves-from-stealing-your-mac-1850052346)
-- [Dev.to/JS] [Everything you didn’t know you need to know about buttons](https://dev.to/builderio/everything-you-didnt-know-you-need-to-know-about-buttons-2la1)
 - [Lifehacker] [How to Tell If the Rock You Found Is a Meteorite](https://lifehacker.com/how-to-tell-if-the-rock-you-found-is-a-meteorite-1850051480)
 - [Lifehacker] [The Best Air Fryers on Sale for Under $100 Right Now](https://lifehacker.com/the-best-air-fryers-on-sale-for-under-100-right-now-1850050875)
-- [Dev.to/JS] [TL;DR CommonJS vs ESM](https://dev.to/abbeyperini/tldr-commonjs-vs-esm-47dk)
 - [Lifehacker] [I Dare You to Roast Leftover Coleslaw](https://lifehacker.com/i-dare-you-to-roast-leftover-coleslaw-1850051239)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Simple, Elegant Dessert for Valentine&#39;s Day](https://lifehacker.com/make-this-simple-elegant-dessert-for-valentines-day-1850043020)
 - [Lifehacker] [Why Your Next Classic Cocktail Should Be Upside-Down](https://lifehacker.com/why-your-next-classic-cocktail-should-be-upside-down-1850042651)
 - [Lifehacker] [12 Things a Home Inspector Is Most Likely to Skip](https://lifehacker.com/12-things-a-home-inspector-is-most-likely-to-skip-1850040892)
-- [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)
-- [Lifehacker] [You&#39;re Cleaning Your Mirror Wrong](https://lifehacker.com/youre-cleaning-your-mirror-wrong-1850042657)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)<!-- TECH-POSTS:END -->
 
 ---
 
