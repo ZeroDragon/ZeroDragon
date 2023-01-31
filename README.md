@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bliss Skin Tag Remover - Skin Care Reviews, Benefits, Scam Or Legit?](https://dev.to/removerbliss/bliss-skin-tag-remover-skin-care-reviews-benefits-scam-or-legit-10jb)
+- [Dev.to/JS] [Creating a Cool Crypto Assistant over the Weekend](https://dev.to/abhikbanerjee99/creating-a-cool-crypto-assistant-over-the-weekend-1gd9)
 - [Dev.to/JS] [JavaScript Key fundamentals Part - 2](https://dev.to/vamsi_76_89/javascript-key-fundamentals-part-2-kn5)
 - [Dev.to/JS] [‘this’ in JavaScript](https://dev.to/himanshudevgupta/this-in-javascript-4boj)
 - [Dev.to/JS] [Chrome Extensions of the Month - January 2023](https://dev.to/j471n/chrome-extensions-of-the-month-january-2023-4agc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ekspedisi Antar Pulau](https://dev.to/mrdvtchman/ekspedisi-antar-pulau-nec)
 - [Dev.to/JS] [Understanding the javascript:void&lpar;0&rpar; Statement](https://dev.to/codeofrelevancy/understanding-the-javascriptvoid0-statement-2dna)
 - [Dev.to/JS] [NestJS - Node.js Application on steroids](https://dev.to/rohithart/nestjs-nodejs-application-on-steroids-43g7)
-- [Dev.to/JS] [Sortition Names with JS](https://dev.to/walternascimentobarroso/sortition-names-with-js-1boe)
-- [Dev.to/JS] [Building my First Chrome extension with React js](https://dev.to/mahlilmahee/building-my-first-chrome-extension-with-react-js-3826)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
