@@ -23,21 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What environment variables does Heroku set by default when we deploy an app?](https://dev.to/mbshehzad/what-environment-variables-does-heroku-set-by-default-when-we-deploy-an-app-497d)
+- [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)
+- [Dev.to/JS] [Wexstream - Full Stack Video Conferencing Platform](https://dev.to/aelassas/wexstream-full-stack-video-conferencing-platform-53gh)
+- [Dev.to/JS] [Data Store with Nucleoid &lpar;Low-code Backend&rpar;](https://dev.to/nucleoid/data-store-with-nucleoid-low-code-backend-2b7h)
+- [Dev.to/JS] [Desarrollando un clon de instagram en React - Parte 2](https://dev.to/robertomsen/desarrollando-un-clon-de-instagram-en-react-parte-2-21kp)
+- [Dev.to/JS] [Otimizando seu código:Como reduzir a quantidade de IFs](https://dev.to/altencirsilvajr/otimizando-seu-codigocomo-reduzir-a-quantidade-de-ifs-1onp)
+- [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)
+- [Dev.to/JS] [How to Learn Programming](https://dev.to/yahyaabbakar92/how-to-learn-programming-llg)
+- [Dev.to/JS] [Top Web Development Frameworks to Watch in 2023](https://dev.to/ejajahmad/top-web-development-frameworks-to-watch-in-2023-1bld)
+- [Dev.to/JS] [BookCars - Full Stack Car Rental Platform with Mobile App](https://dev.to/aelassas/bookcars-full-stack-car-rental-platform-with-mobile-app-2cd6)
+- [Dev.to/JS] [Asynchronous programming in Javascript](https://dev.to/said7388/asynchronous-programming-in-javascript-4mep)
+- [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)
 - [Dev.to/JS] [Runaway Button React App](https://dev.to/dessygil/runaway-button-react-app-1eae)
 - [Dev.to/JS] [Desarrollando un clon de instagram en React - Parte 1](https://dev.to/robertomsen/desarrollando-un-clon-de-instagram-en-react-parte-1-5fml)
 - [Dev.to/JS] [Differences between var, let and const.](https://dev.to/lausuarez02/differences-between-var-let-and-const-26fo)
 - [Lifehacker] [25 of the Horniest TV Shows Ever Made](https://lifehacker.com/25-of-the-horniest-tv-shows-ever-made-1850046614)
-- [Dev.to/JS] [Build a Team permissions system in Node.js app using Auth0 and Permify - Part 2](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-2-4i9d)
-- [Dev.to/JS] [Debugging in JavaScript: Understanding the Undefined Keyword](https://dev.to/nikhilbagwe11/debugging-with-javascript-understanding-the-undefined-keyword-41i3)
-- [Dev.to/JS] [Build a team permissions system in Node.js app using Auth0 and Permify - Part 1](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo)
-- [Dev.to/JS] [Daily message Slack bot](https://dev.to/vetswhocode/daily-message-slack-bot-ne6)
 - [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
-- [Dev.to/JS] [Linked List](https://dev.to/lausuarez02/linked-list-5bih)
-- [Dev.to/JS] [How to work more efficiently with Angular and Node.js](https://dev.to/shivamblog/how-to-work-more-efficiently-with-angular-and-nodejs-n81)
-- [Dev.to/JS] [Using Riot.js, a component-based UI library](https://dev.to/logrocket/using-riotjs-a-component-based-ui-library-1dm8)
-- [Dev.to/JS] [How to master JavaScript, from beginner to expert](https://dev.to/shivamblog/how-to-master-javascript-from-beginner-to-expert-28mo)
 - [Lifehacker] [Seven Ways to Prep Your House Before a Contractor Arrives](https://lifehacker.com/seven-ways-to-prep-your-house-before-a-contractor-arriv-1850053104)
-- [Dev.to/JS] [Rails 7 ActionController::UnknownFormat in CommentsController#create respond_to](https://dev.to/alaz/rails-7-actioncontrollerunknownformat-in-commentscontrollercreate-respondto-2lc8)
 - [Lifehacker] [Your iPhone Can Scan and Copy Any Text Into a Note](https://lifehacker.com/your-iphone-can-scan-and-copy-any-text-into-a-note-1850052097)
 - [Lifehacker] [This Alarm App Will Stop Thieves From Stealing Your MacBook](https://lifehacker.com/this-alarm-app-will-stop-thieves-from-stealing-your-mac-1850052346)
 - [Lifehacker] [How to Tell If the Rock You Found Is a Meteorite](https://lifehacker.com/how-to-tell-if-the-rock-you-found-is-a-meteorite-1850051480)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Know How Much Your Coworkers Make &lpar;and Vice Versa&rpar;](https://lifehacker.com/you-should-know-how-much-your-coworkers-make-and-vice-1850042665)
 - [Lifehacker] [Your iPhone Can Automatically Wish Your Friends Happy Birthday](https://lifehacker.com/your-iphone-can-automatically-wish-your-friends-happy-b-1850047567)
 - [Lifehacker] [The 7 Deadly Sins of Attending a Super Bowl Party](https://lifehacker.com/the-7-deadly-sins-of-attending-a-super-bowl-party-1850047377)
-- [Lifehacker] [Make This Simple, Elegant Dessert for Valentine&#39;s Day](https://lifehacker.com/make-this-simple-elegant-dessert-for-valentines-day-1850043020)
-- [Lifehacker] [Why Your Next Classic Cocktail Should Be Upside-Down](https://lifehacker.com/why-your-next-classic-cocktail-should-be-upside-down-1850042651)
-- [Lifehacker] [12 Things a Home Inspector Is Most Likely to Skip](https://lifehacker.com/12-things-a-home-inspector-is-most-likely-to-skip-1850040892)
-- [Lifehacker] [The Easiest Way to Sprout New Succulents](https://lifehacker.com/the-easiest-way-to-sprout-new-succulents-1850042631)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Simple, Elegant Dessert for Valentine&#39;s Day](https://lifehacker.com/make-this-simple-elegant-dessert-for-valentines-day-1850043020)<!-- TECH-POSTS:END -->
 
 ---
 
