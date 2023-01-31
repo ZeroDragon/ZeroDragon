@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started With Three.js](https://dev.to/svetaslepner/getting-started-with-threejs-1b25)
+- [Lifehacker] [The Difference Between a Wage and a Salary &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-wage-and-a-salary-and-why-it-1850054939)
+- [Dev.to/JS] [Getting started with Nuxt 3](https://dev.to/xinnks/getting-started-with-nuxt-3-3hm2)
+- [Lifehacker] [Your Rao’s Jar Might Have the Wrong Soup Inside](https://lifehacker.com/your-rao-s-jar-might-have-the-wrong-soup-inside-1850054672)
 - [Dev.to/JS] [Vite page load not allowing next line for command](https://dev.to/filehs_foods/vite-page-load-not-allowing-next-line-for-command-3a1p)
 - [Lifehacker] [The Clueless Person’s Guide to Super Bowl LVII](https://lifehacker.com/the-clueless-person-s-guide-to-super-bowl-lvii-1850054677)
 - [Lifehacker] [How to Join Artifact, the TikTok of News](https://lifehacker.com/how-to-join-artifact-the-tiktok-of-news-1850054394)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Otimizando seu código:Como reduzir a quantidade de IFs](https://dev.to/altencirsilvajr/otimizando-seu-codigocomo-reduzir-a-quantidade-de-ifs-1onp)
 - [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)
 - [Dev.to/JS] [How to Learn Programming](https://dev.to/yahyaabbakar92/how-to-learn-programming-llg)
-- [Dev.to/JS] [Top Web Development Frameworks to Watch in 2023](https://dev.to/ejajahmad/top-web-development-frameworks-to-watch-in-2023-1bld)
-- [Dev.to/JS] [BookCars - Full Stack Car Rental Platform with Mobile App](https://dev.to/aelassas/bookcars-full-stack-car-rental-platform-with-mobile-app-2cd6)
 - [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)
 - [Lifehacker] [25 of the Horniest TV Shows Ever Made](https://lifehacker.com/25-of-the-horniest-tv-shows-ever-made-1850046614)
 - [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Check Whether Your Ford SUV Is Part of This Recall](https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990)
 - [Lifehacker] [Don’t Use This New TikTok ‘Hack’ to Clean Your Grout](https://lifehacker.com/don-t-use-this-new-tiktok-hack-to-clean-your-grout-1850048492)
 - [Lifehacker] [See the Galaxy S23 and Book3 Unveiled During ‘Samsung Unpacked 2023’](https://lifehacker.com/see-the-galaxy-s23-and-book3-unveiled-during-samsung-u-1850048482)
-- [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)
-- [Lifehacker] [How to Tear Masking Tape Perfectly Every Time](https://lifehacker.com/how-to-tear-masking-tape-perfectly-every-time-1850048444)
-- [Lifehacker] [You Should Know How Much Your Coworkers Make &lpar;and Vice Versa&rpar;](https://lifehacker.com/you-should-know-how-much-your-coworkers-make-and-vice-1850042665)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)<!-- TECH-POSTS:END -->
 
 ---
 
