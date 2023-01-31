@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vite page load not allowing next line for command](https://dev.to/filehs_foods/vite-page-load-not-allowing-next-line-for-command-3a1p)
+- [Lifehacker] [The Clueless Person’s Guide to Super Bowl LVII](https://lifehacker.com/the-clueless-person-s-guide-to-super-bowl-lvii-1850054677)
 - [Lifehacker] [How to Join Artifact, the TikTok of News](https://lifehacker.com/how-to-join-artifact-the-tiktok-of-news-1850054394)
 - [Dev.to/JS] [What is JSON ?](https://dev.to/himanshubaghel07/what-is-json--146b)
 - [Lifehacker] [This Savory Risotto Cake Is Italy&#39;s Best Kept Secret](https://lifehacker.com/this-savory-risotto-cake-is-italys-best-kept-secret-1850054094)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Learn Programming](https://dev.to/yahyaabbakar92/how-to-learn-programming-llg)
 - [Dev.to/JS] [Top Web Development Frameworks to Watch in 2023](https://dev.to/ejajahmad/top-web-development-frameworks-to-watch-in-2023-1bld)
 - [Dev.to/JS] [BookCars - Full Stack Car Rental Platform with Mobile App](https://dev.to/aelassas/bookcars-full-stack-car-rental-platform-with-mobile-app-2cd6)
-- [Dev.to/JS] [Asynchronous programming in Javascript](https://dev.to/said7388/asynchronous-programming-in-javascript-4mep)
 - [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)
 - [Lifehacker] [25 of the Horniest TV Shows Ever Made](https://lifehacker.com/25-of-the-horniest-tv-shows-ever-made-1850046614)
 - [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [See the Galaxy S23 and Book3 Unveiled During ‘Samsung Unpacked 2023’](https://lifehacker.com/see-the-galaxy-s23-and-book3-unveiled-during-samsung-u-1850048482)
 - [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)
 - [Lifehacker] [How to Tear Masking Tape Perfectly Every Time](https://lifehacker.com/how-to-tear-masking-tape-perfectly-every-time-1850048444)
-- [Lifehacker] [You Should Know How Much Your Coworkers Make &lpar;and Vice Versa&rpar;](https://lifehacker.com/you-should-know-how-much-your-coworkers-make-and-vice-1850042665)
-- [Lifehacker] [Your iPhone Can Automatically Wish Your Friends Happy Birthday](https://lifehacker.com/your-iphone-can-automatically-wish-your-friends-happy-b-1850047567)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Know How Much Your Coworkers Make &lpar;and Vice Versa&rpar;](https://lifehacker.com/you-should-know-how-much-your-coworkers-make-and-vice-1850042665)<!-- TECH-POSTS:END -->
 
 ---
 
