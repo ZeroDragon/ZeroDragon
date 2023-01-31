@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
+- [Dev.to/JS] [Pattern - Decorator](https://dev.to/higordiego/pattern-decorator-3hk9)
+- [Dev.to/JS] [Padrão - Decorator](https://dev.to/higordiego/padrao-decorator-4f9c)
+- [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
+- [Dev.to/JS] [UseReducer : branchez votre cerveau !](https://dev.to/vincent_react/usereducer-branchez-votre-cerveau--1198)
+- [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
 - [Dev.to/JS] [Getting Started With Three.js](https://dev.to/svetaslepner/getting-started-with-threejs-1b25)
 - [Lifehacker] [The Difference Between a Wage and a Salary &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-wage-and-a-salary-and-why-it-1850054939)
 - [Dev.to/JS] [Getting started with Nuxt 3](https://dev.to/xinnks/getting-started-with-nuxt-3-3hm2)
@@ -38,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)
 - [Dev.to/JS] [Wexstream - Full Stack Video Conferencing Platform](https://dev.to/aelassas/wexstream-full-stack-video-conferencing-platform-53gh)
 - [Dev.to/JS] [Data Store with Nucleoid &lpar;Low-code Backend&rpar;](https://dev.to/nucleoid/data-store-with-nucleoid-low-code-backend-2b7h)
-- [Dev.to/JS] [Desarrollando un clon de instagram en React - Parte 2](https://dev.to/robertomsen/desarrollando-un-clon-de-instagram-en-react-parte-2-21kp)
-- [Dev.to/JS] [Otimizando seu código:Como reduzir a quantidade de IFs](https://dev.to/altencirsilvajr/otimizando-seu-codigocomo-reduzir-a-quantidade-de-ifs-1onp)
 - [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)
-- [Dev.to/JS] [How to Learn Programming](https://dev.to/yahyaabbakar92/how-to-learn-programming-llg)
 - [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)
 - [Lifehacker] [25 of the Horniest TV Shows Ever Made](https://lifehacker.com/25-of-the-horniest-tv-shows-ever-made-1850046614)
 - [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Fluffy Frosting Out of Sweetened Condensed Milk and Butter](https://lifehacker.com/make-a-fluffy-frosting-out-of-sweetened-condensed-milk-1850048764)
 - [Lifehacker] [This Google AI Music Will Freak You the Hell Out](https://lifehacker.com/this-google-ai-music-will-freak-you-the-hell-out-1850049352)
 - [Lifehacker] [Why You Should Never Lease a Car](https://lifehacker.com/why-you-should-never-lease-a-car-1850049671)
-- [Lifehacker] [Check Whether Your Ford SUV Is Part of This Recall](https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990)
-- [Lifehacker] [Don’t Use This New TikTok ‘Hack’ to Clean Your Grout](https://lifehacker.com/don-t-use-this-new-tiktok-hack-to-clean-your-grout-1850048492)
-- [Lifehacker] [See the Galaxy S23 and Book3 Unveiled During ‘Samsung Unpacked 2023’](https://lifehacker.com/see-the-galaxy-s23-and-book3-unveiled-during-samsung-u-1850048482)
-- [Lifehacker] [What&#39;s New on Paramount+ in February 2023](https://lifehacker.com/whats-new-on-paramount-in-february-2023-1850048643)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Check Whether Your Ford SUV Is Part of This Recall](https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990)<!-- TECH-POSTS:END -->
 
 ---
 
