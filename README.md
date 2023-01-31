@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Air Fryers on Sale for Under $100 Right Now](https://lifehacker.com/the-best-air-fryers-on-sale-for-under-100-right-now-1850050875)
+- [Dev.to/JS] [TL;DR CommonJS vs ESM](https://dev.to/abbeyperini/tldr-commonjs-vs-esm-47dk)
+- [Dev.to/JS] [&quot;The Backend Blues: How API Logging and Error Handling Saved Our Server-side Sanity&quot;](https://dev.to/aj7tt/the-backend-blues-how-api-logging-and-error-handling-saved-our-server-side-sanity-91)
+- [Dev.to/JS] [Vitest: Blazing fast unit test framework](https://dev.to/uploadcare/vitest-blazing-fast-unit-test-framework-4lco)
+- [Dev.to/JS] [First thoughts about event loop.](https://dev.to/ayyubxon/first-thoughts-about-event-loop-3jmh)
+- [Dev.to/JS] [Mastering Internationalization and Localization in JavaScript: A Comprehensive Guide](https://dev.to/sarahokolo/mastering-internationalization-and-localization-in-javascript-a-comprehensive-guide-50ma)
+- [Dev.to/JS] [I developed a simple but beautiful developer portfolio template using React and Next.js](https://dev.to/umutyesildal/i-developed-a-simple-but-beautiful-developer-portfolio-template-using-react-and-nextjs-25l7)
 - [Lifehacker] [I Dare You to Roast Leftover Coleslaw](https://lifehacker.com/i-dare-you-to-roast-leftover-coleslaw-1850051239)
 - [Dev.to/JS] [Custom Schema Validation in TypeScript with Zod](https://dev.to/isnan__h/custom-schema-validation-in-typescript-with-zod-5cp5)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Variação de Positivos e Negativos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-variacao-de-positivos-e-negativos-4l1p)
@@ -30,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 Easy Ways to Improve Accessibility in HTML Tables](https://dev.to/ideradevtools/6-easy-ways-to-improve-accessibility-in-html-tables-1ape)
 - [Dev.to/JS] [Bookmarklets](https://dev.to/ht03pi/bookmarklets-2a1d)
 - [Dev.to/JS] [How To Add A Chatbot To Webflow](https://dev.to/devashishmamgain/how-to-add-a-chatbot-to-webflow-50on)
-- [Dev.to/JS] [How to use Receipt Parsing API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-receipt-parsing-api-with-javascript-in-5-minutes-1mpl)
-- [Dev.to/JS] [WhatsApp in React Native &lpar;part 3&rpar;](https://dev.to/jacksbridger/whatsapp-in-react-native-part-3-1gmf)
-- [Dev.to/JS] [Fast and Easy Way to Improve Website Pagespeed](https://dev.to/bhavingandha9/fast-and-easy-way-to-improve-website-pagespeed-2e1n)
-- [Dev.to/JS] [Build a Serverless Discord Bot with OpenAI GPT-3 in Minutes using Template Functions in Lolo](https://dev.to/lolo_code/build-a-serverless-discord-bot-with-openai-gpt-3-in-minutes-using-template-functions-in-lolo-12ge)
-- [Dev.to/JS] [Will AI take our Jobs?](https://dev.to/scofieldidehen/will-ai-take-our-jobs-ndf)
-- [Dev.to/JS] [Create a Free WhatsApp Binance Bot in a Few Minutes with Serverless in Lolo](https://dev.to/lolo_code/create-a-free-whatsapp-binance-bot-in-a-few-minutes-with-serverless-in-lolo-2plm)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Check These Spots in Your House for Hidden Mold](https://lifehacker.com/check-these-spots-in-your-house-for-hidden-mold-1850042758)
 - [Crazy Programmer] [Alan Turing Biography](https://www.thecrazyprogrammer.com/2023/01/alan-turing-biography.html)
 - [Lifehacker] [These Apple-like Target Tech Accessories Are 50% Off Right Now](https://lifehacker.com/these-apple-like-target-tech-accessories-are-50-off-ri-1850042771)
-- [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is ‘Corecore’ and Why Does It Make Me So Sad?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850042797)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Bring ‘Blob’ Emojis Back to Your Android Phone](https://lifehacker.com/you-can-bring-blob-emojis-back-to-your-android-phone-1850041694)<!-- TECH-POSTS:END -->
 
 ---
 
