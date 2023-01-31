@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NestJS - Node.js Application on steroids](https://dev.to/rohithart/nestjs-nodejs-application-on-steroids-43g7)
+- [Dev.to/JS] [Sortition Names with JS](https://dev.to/walternascimentobarroso/sortition-names-with-js-1boe)
+- [Dev.to/JS] [Building my First Chrome extension with React js](https://dev.to/mahlilmahee/building-my-first-chrome-extension-with-react-js-3826)
 - [Dev.to/JS] [Web Scraping With Puppeteer for Total Noobs](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-38j4)
 - [Dev.to/JS] [A closure challenge](https://dev.to/bolouie/a-closure-challenge-dl8)
 - [Dev.to/JS] [A próxima transição da Web: Novas arquiteturas trazem novos frameworks](https://dev.to/oieduardorabelo/a-proxima-transicao-da-web-novas-arquiteturas-trazem-novos-frameworks-2dd8)
@@ -35,12 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
-- [Dev.to/JS] [Migrating from Chakra UI to Tailwind CSS - My experience](https://dev.to/oncet/migrating-from-chakra-ui-to-tailwind-css-my-experience-5f2c)
 - [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New AI Technology](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-ai-tec-1850050359)
 - [Lifehacker] [Here’s How Much Emergency Cash You Should Keep at Home](https://lifehacker.com/here-s-how-much-emergency-cash-you-should-keep-at-home-1850048816)
-- [Dev.to/JS] [Vue Form Validation using Yup](https://dev.to/carstenbehrens/vue-form-validation-using-yup-he0)
 - [Lifehacker] [Make a Fluffy Frosting Out of Sweetened Condensed Milk and Butter](https://lifehacker.com/make-a-fluffy-frosting-out-of-sweetened-condensed-milk-1850048764)
-- [Dev.to/JS] [5 Must-Know JavaScript Concepts for beginners](https://dev.to/stanleychisom/5-must-know-javascript-concepts-for-beginners-4804)
 - [Lifehacker] [This Google AI Music Will Freak You the Hell Out](https://lifehacker.com/this-google-ai-music-will-freak-you-the-hell-out-1850049352)
 - [Lifehacker] [Why You Should Never Lease a Car](https://lifehacker.com/why-you-should-never-lease-a-car-1850049671)
 - [Lifehacker] [Check Whether Your Ford SUV Is Part of This Recall](https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990)
