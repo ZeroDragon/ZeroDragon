@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made this AI tool in 69 lines of code in single HTML file.](https://dev.to/anasdew/i-made-this-ai-tool-in-69-lines-of-code-in-single-html-file-545b)
+- [Dev.to/JS] [what is a React Hooks?](https://dev.to/shiwani295/what-is-a-react-hooks-4l0o)
+- [Dev.to/JS] [Playwright Tips From the Checkly Community](https://dev.to/checkly/playwright-tips-from-the-checkly-community-d96)
+- [Dev.to/JS] [How Do Hire the Best NodeJS Developer in USA?](https://dev.to/pjdnarola/how-do-hire-the-best-nodejs-developer-1834)
+- [Dev.to/JS] [How to test Vue 3 components with Jest?](https://dev.to/canopassoftware/how-to-test-vue-3-components-with-jest-28gj)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Criando uma escadaria!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-criando-uma-escadaria-1n15)
 - [Dev.to/JS] [Our Journey In The Open Source World - event-versionator](https://dev.to/cadienvan/our-journey-in-the-open-source-world-event-versionator-4n61)
 - [Dev.to/JS] [No Token in the Browser Pattern using Azure API Management](https://dev.to/irarainey/no-token-in-the-browser-pattern-using-azure-api-management-2jd5)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How redux and context helps managing global state](https://dev.to/konfydev/how-redux-and-context-helps-managing-global-state-24o)
 - [Dev.to/JS] [7 Simple Strategies to Increase your Productivity as a Developer](https://dev.to/onlydevs_/7-simple-strategies-to-increase-your-productivity-as-a-developer-46b3)
 - [Dev.to/JS] [Unleash the Power of JavaScript String Methods - Your Ultimate Cheat Sheet 🤯🔥](https://dev.to/rammcodes/unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734)
-- [Dev.to/JS] [Amiclear - Blood Sugar Results, Uses, Ingredients, Scam Or Legit?](https://dev.to/amiclear1/amiclear-blood-sugar-results-uses-ingredients-scam-or-legit-k9p)
-- [Dev.to/JS] [How to delete an element from map - JavaScript](https://dev.to/moibra/how-to-delete-an-element-from-map-javascript-4mja)
-- [Dev.to/JS] [The road to Software Architecture &lpar;frontend edition&rpar;](https://dev.to/kalabro/the-road-to-software-architecture-frontend-edition-564o)
-- [Dev.to/JS] [Javascript Spread Operator](https://dev.to/eckdev/javascript-spread-operator-55i1)
-- [Dev.to/JS] [How You Can Use AI to Improve Your Programming Skills](https://dev.to/wraldpyk/how-you-can-use-ai-to-improve-your-programming-skills-4fl)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
