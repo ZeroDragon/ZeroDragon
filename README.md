@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Criando uma escadaria!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-criando-uma-escadaria-1n15)
 - [Dev.to/JS] [Our Journey In The Open Source World - event-versionator](https://dev.to/cadienvan/our-journey-in-the-open-source-world-event-versionator-4n61)
 - [Dev.to/JS] [No Token in the Browser Pattern using Azure API Management](https://dev.to/irarainey/no-token-in-the-browser-pattern-using-azure-api-management-2jd5)
 - [Dev.to/JS] [Invoking Svelte components from your Ember apps](https://dev.to/rajasegar/invoking-svelte-components-from-your-ember-apps-58h5)
@@ -33,8 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to delete an element from map - JavaScript](https://dev.to/moibra/how-to-delete-an-element-from-map-javascript-4mja)
 - [Dev.to/JS] [The road to Software Architecture &lpar;frontend edition&rpar;](https://dev.to/kalabro/the-road-to-software-architecture-frontend-edition-564o)
 - [Dev.to/JS] [Javascript Spread Operator](https://dev.to/eckdev/javascript-spread-operator-55i1)
-- [Dev.to/JS] [Benifits and The History of Java](https://dev.to/lmgames/benifits-and-the-history-of-java-5b24)
-- [Dev.to/JS] [SEO with Nuxt 3](https://dev.to/guillaumeduhan/seo-with-nuxt-3-33)
+- [Dev.to/JS] [How You Can Use AI to Improve Your Programming Skills](https://dev.to/wraldpyk/how-you-can-use-ai-to-improve-your-programming-skills-4fl)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
