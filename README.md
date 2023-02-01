@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Simple Strategies to Increase your Productivity as a Developer](https://dev.to/onlydevs_/7-simple-strategies-to-increase-your-productivity-as-a-developer-46b3)
+- [Dev.to/JS] [Unleash the Power of JavaScript String Methods - Your Ultimate Cheat Sheet 🤯🔥](https://dev.to/rammcodes/unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734)
+- [Dev.to/JS] [Amiclear - Blood Sugar Results, Uses, Ingredients, Scam Or Legit?](https://dev.to/amiclear1/amiclear-blood-sugar-results-uses-ingredients-scam-or-legit-k9p)
+- [Dev.to/JS] [How to delete an element from map - JavaScript](https://dev.to/moibra/how-to-delete-an-element-from-map-javascript-4mja)
 - [Dev.to/JS] [The road to Software Architecture &lpar;frontend edition&rpar;](https://dev.to/kalabro/the-road-to-software-architecture-frontend-edition-564o)
 - [Dev.to/JS] [Javascript Spread Operator](https://dev.to/eckdev/javascript-spread-operator-55i1)
 - [Dev.to/JS] [Benifits and The History of Java](https://dev.to/lmgames/benifits-and-the-history-of-java-5b24)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS game engine update, Kaboom 3000 beta released](https://dev.to/ogrotten/js-game-engine-update-kaboom-3000-beta-released-4c88)
 - [Dev.to/JS] [The joy, the pride and the burden of maintaining open source](https://dev.to/adrai/the-joy-the-pride-and-the-burden-of-maintaining-open-source-1odd)
 - [Dev.to/JS] [Accessible text field component with React and TypeScript](https://dev.to/mayashavin/build-an-accessible-editable-text-field-react-component-with-typescript-405n)
-- [Dev.to/JS] [Weekly web development resources #135](https://dev.to/vincenius/weekly-web-development-resources-135-5d6k)
-- [Dev.to/JS] [Sweet alert 2 in Ruby on Rails 7](https://dev.to/rutikkpatel/sweet-alert-2-in-ruby-on-rails-7-4339)
-- [Dev.to/JS] [Building Functional Tabs with Style](https://dev.to/dmbf29/building-functional-tabs-with-style-pdb)
-- [Dev.to/JS] [Java Developer vs Python Developer](https://dev.to/infiraise/java-developer-vs-python-developer-kpb)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
