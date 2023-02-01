@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
+- [Dev.to/JS] [Entendendo SetTimeout e SetInterval:](https://dev.to/altencirsilvajr/entendendo-settimeout-e-setinterval-30nh)
+- [Dev.to/JS] [How we shipped CDN access tokens with Cloudflare Workers and R2](https://dev.to/the-guild/how-we-shipped-cdn-access-tokens-with-cloudflare-workers-and-r2-56i8)
+- [Dev.to/JS] [Netlify Acquires GatsbyJS](https://dev.to/erinposting/netlify-acquires-gatsbyjs-4c74)
+- [Lifehacker] [12 Spin-Off Movies That Are Better Than the Original](https://lifehacker.com/12-spin-off-movies-that-are-better-than-the-original-1850053321)
+- [Dev.to/JS] [Introducing Wisdom — Your Daily Dose of Inspiration](https://dev.to/serhii_kucherenko/introducing-wisdom-your-daily-dose-of-inspiration-3j37)
+- [Dev.to/JS] [Destructuring Arrays &amp; Objects in JavaScript](https://dev.to/jvaughn619/destructuring-arrays-objects-in-javascript-1m36)
 - [Lifehacker] [The Quickest Way to Thaw Frozen Pizza Dough Without Ruining It](https://lifehacker.com/the-quickest-way-to-thaw-frozen-pizza-dough-without-rui-1850056087)
 - [Lifehacker] [You Can Use AI to Transcribe Any Audio for Free on a Mac](https://lifehacker.com/you-can-use-ai-to-transcribe-any-audio-for-free-on-a-ma-1850057778)
 - [Dev.to/JS] [Diário de Bordo #8](https://dev.to/analuisadev/diario-de-bordo-8-490l)
@@ -35,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript And The DOM](https://dev.to/oluwatrillions/javascript-and-the-dom-10h3)
 - [Dev.to/JS] [This Week In React #133: Astro, React dying?, Qwikify, CRA, Next.js, Remix, Redux, Storybook, Redwood, Nextra, React-Native...](https://dev.to/sebastienlorber/this-week-in-react-133-astro-react-dying-qwikify-cra-nextjs-remix-redux-storybook-redwood-nextra-react-native-1a79)
 - [Dev.to/JS] [Introducing Rubberduck 1.0: AI Chat in Visual Studio Code](https://dev.to/lgrammel/introducing-rubberduck-10-ai-chat-in-visual-studio-code-2519)
-- [Dev.to/JS] [Code Smells In ReactJS: What They Are and Why They Matter](https://dev.to/varsenyan/code-smells-in-reactjs-what-they-are-and-why-they-matter-5heo)
-- [Dev.to/JS] [Why Should You Use React JS For Web App Development?](https://dev.to/uplogictech/why-should-you-use-react-js-for-web-app-development-mpg)
-- [Dev.to/JS] [Ultimate guide to master JavaScript&#39;s reduce functions](https://dev.to/costamatheus97/ultimate-guide-to-master-javascripts-reduce-functions-2gb4)
-- [Dev.to/JS] [I made this AI tool in 69 lines of code in single HTML file.](https://dev.to/anasdew/i-made-this-ai-tool-in-69-lines-of-code-in-single-html-file-545b)
-- [Dev.to/JS] [what is a React Hooks?](https://dev.to/shiwani295/what-is-a-react-hooks-4l0o)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Air Fryers on Sale for Under $100 Right Now](https://lifehacker.com/the-best-air-fryers-on-sale-for-under-100-right-now-1850050875)
 - [Lifehacker] [I Dare You to Roast Leftover Coleslaw](https://lifehacker.com/i-dare-you-to-roast-leftover-coleslaw-1850051239)
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
-- [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
-- [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
-- [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New AI Technology](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-ai-tec-1850050359)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)<!-- TECH-POSTS:END -->
 
 ---
 
