@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSTools Weekly - 2023#4](https://dev.to/jstoolsweekly/jstools-weekly-20234-2ihm)
+- [Dev.to/JS] [🚀 5 Advanced ES6 Features Every JavaScript Developer Should Master](https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn)
+- [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
 - [Lifehacker] [All the Cool Kids Are Smashing Their Broccoli](https://lifehacker.com/all-the-cool-kids-are-smashing-their-broccoli-1850061271)
@@ -43,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)
 - [Dev.to/JS] [ReactJS Pagination Component](https://dev.to/cleveroscar/pagination-reactjs-1ne)
 - [Lifehacker] [How to Plan a Valentine’s Date If You’re Stuck in a Rut](https://lifehacker.com/how-to-plan-a-valentine-s-date-if-you-re-stuck-in-a-rut-1850054118)
-- [Dev.to/JS] [No AI Needed! 7 Proven Time-Saving Apps and tools To Turn Every Front-End Developer &amp; Designer into a Design Ninja 🎨🥷🏽! Part One](https://dev.to/ramziosta/no-ai-needed-7-proven-time-saving-apps-and-tools-to-turn-every-front-end-developer-designer-into-a-design-ninja-part-one-5fai)
 - [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
-- [Dev.to/JS] [Entendendo SetTimeout e SetInterval:](https://dev.to/altencirsilvajr/entendendo-settimeout-e-setinterval-30nh)
 - [Lifehacker] [12 Spin-Off Movies That Are Better Than the Original](https://lifehacker.com/12-spin-off-movies-that-are-better-than-the-original-1850053321)
 - [Lifehacker] [The Quickest Way to Thaw Frozen Pizza Dough Without Ruining It](https://lifehacker.com/the-quickest-way-to-thaw-frozen-pizza-dough-without-rui-1850056087)
 - [Lifehacker] [You Can Use AI to Transcribe Any Audio for Free on a Mac](https://lifehacker.com/you-can-use-ai-to-transcribe-any-audio-for-free-on-a-ma-1850057778)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Join Artifact, the TikTok of News](https://lifehacker.com/how-to-join-artifact-the-tiktok-of-news-1850054394)
 - [Lifehacker] [This Savory Risotto Cake Is Italy&#39;s Best Kept Secret](https://lifehacker.com/this-savory-risotto-cake-is-italys-best-kept-secret-1850054094)
 - [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)
-- [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)
-- [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)<!-- TECH-POSTS:END -->
 
 ---
 
