@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Street Programmer: Translate Requests Between Stores with Different Selling Units](https://dev.to/darkterminal/street-programmer-translate-requests-between-stores-with-different-selling-units-5cl0)
+- [Dev.to/JS] [JS game engine update, Kaboom 3000 beta released](https://dev.to/ogrotten/js-game-engine-update-kaboom-3000-beta-released-4c88)
+- [Dev.to/JS] [The joy, the pride and the burden of maintaining open source](https://dev.to/adrai/the-joy-the-pride-and-the-burden-of-maintaining-open-source-1odd)
+- [Dev.to/JS] [Accessible text field component with React and TypeScript](https://dev.to/mayashavin/build-an-accessible-editable-text-field-react-component-with-typescript-405n)
 - [Dev.to/JS] [Weekly web development resources #135](https://dev.to/vincenius/weekly-web-development-resources-135-5d6k)
 - [Dev.to/JS] [Sweet alert 2 in Ruby on Rails 7](https://dev.to/rutikkpatel/sweet-alert-2-in-ruby-on-rails-7-4339)
 - [Dev.to/JS] [Building Functional Tabs with Style](https://dev.to/dmbf29/building-functional-tabs-with-style-pdb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tRPC vs GraphQL: Why you shouldn’t use GraphQL](https://dev.to/jareechang/trpc-vs-graphql-why-you-shouldnt-use-graphql-4be1)
 - [Dev.to/JS] [10 GitHub repositories you must know as a JavaScript developer](https://dev.to/hy_piyush/10-github-repositories-you-must-know-as-a-javascript-developer-f5d)
 - [Dev.to/JS] [7 ways to convert Objects into Array in JavaScript](https://dev.to/awaisalwaisy/7-ways-to-convert-objects-into-array-in-javascript-35m4)
-- [Dev.to/JS] [The Full Stack developer&#39;s Guide](https://dev.to/dhennasdsa/the-full-stack-developers-guide-1lbj)
-- [Dev.to/JS] [How to Use /*Comment*/ as a developer](https://dev.to/scofieldidehen/how-to-use-comment-as-a-developer-306h)
-- [Dev.to/JS] [Ultimate guide to master JavaScript&#39;s reduce function](https://dev.to/costamatheus97/ultimate-guide-to-masters-javascripts-reduce-function-g01)
-- [Dev.to/JS] [7 TIPE CHAKRA MERN STACK DEVELOPER](https://dev.to/apppardana/7-tipe-chakra-mern-stack-developer-3mn5)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
