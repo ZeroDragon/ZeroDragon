@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pagination ReactJS](https://dev.to/cleveroscar/pagination-reactjs-1ne)
+- [Lifehacker] [How to Plan a Valentine’s Date If You’re Stuck in a Rut](https://lifehacker.com/how-to-plan-a-valentine-s-date-if-you-re-stuck-in-a-rut-1850054118)
+- [Dev.to/JS] [No AI Needed! 7 Proven Time-Saving Apps and tools To Turn Every Front-End Developer &amp; Designer into a Design Ninja 🎨🥷🏽! Part One](https://dev.to/ramziosta/no-ai-needed-7-proven-time-saving-apps-and-tools-to-turn-every-front-end-developer-designer-into-a-design-ninja-part-one-5fai)
 - [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Dev.to/JS] [Entendendo SetTimeout e SetInterval:](https://dev.to/altencirsilvajr/entendendo-settimeout-e-setinterval-30nh)
 - [Dev.to/JS] [How we shipped CDN access tokens with Cloudflare Workers and R2](https://dev.to/the-guild/how-we-shipped-cdn-access-tokens-with-cloudflare-workers-and-r2-56i8)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)
 - [Dev.to/JS] [[Unpopular Opinion] React is heading in a wrong direction](https://dev.to/oskarkaminski/unpopular-opinion-react-is-heading-in-a-wrong-direction-1pae)
 - [Dev.to/JS] [Javascript And The DOM](https://dev.to/oluwatrillions/javascript-and-the-dom-10h3)
-- [Dev.to/JS] [This Week In React #133: Astro, React dying?, Qwikify, CRA, Next.js, Remix, Redux, Storybook, Redwood, Nextra, React-Native...](https://dev.to/sebastienlorber/this-week-in-react-133-astro-react-dying-qwikify-cra-nextjs-remix-redux-storybook-redwood-nextra-react-native-1a79)
-- [Dev.to/JS] [Introducing Rubberduck 1.0: AI Chat in Visual Studio Code](https://dev.to/lgrammel/introducing-rubberduck-10-ai-chat-in-visual-studio-code-2519)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If the Rock You Found Is a Meteorite](https://lifehacker.com/how-to-tell-if-the-rock-you-found-is-a-meteorite-1850051480)
 - [Lifehacker] [The Best Air Fryers on Sale for Under $100 Right Now](https://lifehacker.com/the-best-air-fryers-on-sale-for-under-100-right-now-1850050875)
 - [Lifehacker] [I Dare You to Roast Leftover Coleslaw](https://lifehacker.com/i-dare-you-to-roast-leftover-coleslaw-1850051239)
-- [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
-- [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)<!-- TECH-POSTS:END -->
+- [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)<!-- TECH-POSTS:END -->
 
 ---
 
