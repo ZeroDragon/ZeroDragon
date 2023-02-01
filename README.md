@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Quickest Way to Thaw Frozen Pizza Dough Without Ruining It](https://lifehacker.com/the-quickest-way-to-thaw-frozen-pizza-dough-without-rui-1850056087)
+- [Lifehacker] [You Can Use AI to Transcribe Any Audio for Free on a Mac](https://lifehacker.com/you-can-use-ai-to-transcribe-any-audio-for-free-on-a-ma-1850057778)
+- [Dev.to/JS] [Diário de Bordo #8](https://dev.to/analuisadev/diario-de-bordo-8-490l)
+- [Lifehacker] [How to Get Actually Useful Feedback From Your Boss](https://lifehacker.com/how-to-get-actually-useful-feedback-from-your-boss-1850058022)
 - [Dev.to/JS] [ECMAScript decorators with Vite](https://dev.to/kiranmantha/ecmascript-decorators-with-vite-ilg)
 - [Lifehacker] [10 Anti-Valentine’s Day Gifts and Activities If You DGAF About Romance](https://lifehacker.com/10-anti-valentine-s-day-gifts-and-activities-if-you-dga-1850057786)
 - [Dev.to/JS] [Understanding the Destructuring assignment in JavaScript](https://dev.to/brandonbawe/understanding-the-destructuring-assignment-in-javascript-3gk4)
@@ -36,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ultimate guide to master JavaScript&#39;s reduce functions](https://dev.to/costamatheus97/ultimate-guide-to-master-javascripts-reduce-functions-2gb4)
 - [Dev.to/JS] [I made this AI tool in 69 lines of code in single HTML file.](https://dev.to/anasdew/i-made-this-ai-tool-in-69-lines-of-code-in-single-html-file-545b)
 - [Dev.to/JS] [what is a React Hooks?](https://dev.to/shiwani295/what-is-a-react-hooks-4l0o)
-- [Dev.to/JS] [Playwright Tips From the Checkly Community](https://dev.to/checkly/playwright-tips-from-the-checkly-community-d96)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)
 - [Lifehacker] [Never Buy a Used Car With a Rebuilt Title](https://lifehacker.com/never-buy-a-used-car-with-a-rebuilt-title-1850050273)
 - [Lifehacker] [7 Reasons I Hoard Bonne Maman Jam Jars](https://lifehacker.com/7-reasons-i-hoard-bonne-maman-jam-jars-1850049572)
-- [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New AI Technology](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-ai-tec-1850050359)
-- [Lifehacker] [Here’s How Much Emergency Cash You Should Keep at Home](https://lifehacker.com/here-s-how-much-emergency-cash-you-should-keep-at-home-1850048816)
-- [Lifehacker] [Make a Fluffy Frosting Out of Sweetened Condensed Milk and Butter](https://lifehacker.com/make-a-fluffy-frosting-out-of-sweetened-condensed-milk-1850048764)
-- [Lifehacker] [This Google AI Music Will Freak You the Hell Out](https://lifehacker.com/this-google-ai-music-will-freak-you-the-hell-out-1850049352)<!-- TECH-POSTS:END -->
+- [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New AI Technology](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-ai-tec-1850050359)<!-- TECH-POSTS:END -->
 
 ---
 
