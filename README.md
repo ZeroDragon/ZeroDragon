@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Pagination ReactJS](https://dev.to/cleveroscar/pagination-reactjs-1ne)
+- [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)
+- [Lifehacker] [Here’s How Long Abortion Pills Last](https://lifehacker.com/here-s-how-long-abortion-pills-last-1850059869)
+- [Dev.to/JS] [Relative Time String](https://dev.to/chideraike/relative-time-string-2324)
+- [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)
+- [Dev.to/JS] [ReactJS Pagination Component](https://dev.to/cleveroscar/pagination-reactjs-1ne)
 - [Lifehacker] [How to Plan a Valentine’s Date If You’re Stuck in a Rut](https://lifehacker.com/how-to-plan-a-valentine-s-date-if-you-re-stuck-in-a-rut-1850054118)
 - [Dev.to/JS] [No AI Needed! 7 Proven Time-Saving Apps and tools To Turn Every Front-End Developer &amp; Designer into a Design Ninja 🎨🥷🏽! Part One](https://dev.to/ramziosta/no-ai-needed-7-proven-time-saving-apps-and-tools-to-turn-every-front-end-developer-designer-into-a-design-ninja-part-one-5fai)
 - [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the Destructuring assignment in JavaScript](https://dev.to/brandonbawe/understanding-the-destructuring-assignment-in-javascript-3gk4)
 - [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)
 - [Dev.to/JS] [[Unpopular Opinion] React is heading in a wrong direction](https://dev.to/oskarkaminski/unpopular-opinion-react-is-heading-in-a-wrong-direction-1pae)
-- [Dev.to/JS] [Javascript And The DOM](https://dev.to/oluwatrillions/javascript-and-the-dom-10h3)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Ways to Prep Your House Before a Contractor Arrives](https://lifehacker.com/seven-ways-to-prep-your-house-before-a-contractor-arriv-1850053104)
 - [Lifehacker] [Your iPhone Can Scan and Copy Any Text Into a Note](https://lifehacker.com/your-iphone-can-scan-and-copy-any-text-into-a-note-1850052097)
 - [Lifehacker] [This Alarm App Will Stop Thieves From Stealing Your MacBook](https://lifehacker.com/this-alarm-app-will-stop-thieves-from-stealing-your-mac-1850052346)
-- [Lifehacker] [How to Tell If the Rock You Found Is a Meteorite](https://lifehacker.com/how-to-tell-if-the-rock-you-found-is-a-meteorite-1850051480)
-- [Lifehacker] [The Best Air Fryers on Sale for Under $100 Right Now](https://lifehacker.com/the-best-air-fryers-on-sale-for-under-100-right-now-1850050875)
-- [Lifehacker] [I Dare You to Roast Leftover Coleslaw](https://lifehacker.com/i-dare-you-to-roast-leftover-coleslaw-1850051239)
-- [Lifehacker] [16 Things Even Veteran Winter Drivers Could Do Better](https://lifehacker.com/16-things-even-veteran-winter-drivers-could-do-better-1850050381)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If the Rock You Found Is a Meteorite](https://lifehacker.com/how-to-tell-if-the-rock-you-found-is-a-meteorite-1850051480)<!-- TECH-POSTS:END -->
 
 ---
 
