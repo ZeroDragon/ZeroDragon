@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
+- [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
+- [Lifehacker] [All the Cool Kids Are Smashing Their Broccoli](https://lifehacker.com/all-the-cool-kids-are-smashing-their-broccoli-1850061271)
 - [Dev.to/JS] [JavaScript Closures: Understanding the Power Behind the Scenes 🧐](https://dev.to/costamatheus97/javascript-closures-understanding-the-power-behind-the-scenes-1cc1)
 - [Lifehacker] [This Canned Meat and Poultry Might Be Contaminated](https://lifehacker.com/this-canned-meat-and-poultry-might-be-contaminated-1850061080)
 - [Dev.to/JS] [Demystification of JavaScript Code processing using V8 as the targeted engine 🔬](https://dev.to/emmanuelonah/demystification-of-javascript-code-processing-using-v8-as-the-targeted-engine-1k4a)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Savory Risotto Cake Is Italy&#39;s Best Kept Secret](https://lifehacker.com/this-savory-risotto-cake-is-italys-best-kept-secret-1850054094)
 - [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)
 - [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)
-- [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)
-- [Lifehacker] [25 of the Horniest TV Shows Ever Made](https://lifehacker.com/25-of-the-horniest-tv-shows-ever-made-1850046614)
-- [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
-- [Lifehacker] [Seven Ways to Prep Your House Before a Contractor Arrives](https://lifehacker.com/seven-ways-to-prep-your-house-before-a-contractor-arriv-1850053104)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)<!-- TECH-POSTS:END -->
 
 ---
 
