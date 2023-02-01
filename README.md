@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #135](https://dev.to/vincenius/weekly-web-development-resources-135-5d6k)
+- [Dev.to/JS] [Sweet alert 2 in Ruby on Rails 7](https://dev.to/rutikkpatel/sweet-alert-2-in-ruby-on-rails-7-4339)
 - [Dev.to/JS] [Building Functional Tabs with Style](https://dev.to/dmbf29/building-functional-tabs-with-style-pdb)
 - [Dev.to/JS] [Java Developer vs Python Developer](https://dev.to/infiraise/java-developer-vs-python-developer-kpb)
 - [Dev.to/JS] [Many people ask whether it is right to become a frontend developer in 2023 or not?](https://dev.to/arifsha84839354/many-people-ask-whether-it-is-right-to-become-a-frontend-developer-in-2023-or-not-3ha5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use /*Comment*/ as a developer](https://dev.to/scofieldidehen/how-to-use-comment-as-a-developer-306h)
 - [Dev.to/JS] [Ultimate guide to master JavaScript&#39;s reduce function](https://dev.to/costamatheus97/ultimate-guide-to-masters-javascripts-reduce-function-g01)
 - [Dev.to/JS] [7 TIPE CHAKRA MERN STACK DEVELOPER](https://dev.to/apppardana/7-tipe-chakra-mern-stack-developer-3mn5)
-- [Dev.to/JS] [Getting the Visual Editor to work for Storyblok + Astro](https://dev.to/sandrarodgers/getting-the-visual-editor-to-work-for-storyblok-astro-2gja)
-- [Dev.to/JS] [From useForm to createForm: A New Direction for Form Creation in React and Beyond](https://dev.to/jucian0/from-useform-to-createform-a-new-direction-for-form-creation-in-react-and-beyond-2je0)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
