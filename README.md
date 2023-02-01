@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Iterating on an array: should you loop with .map, .forEach or for?](https://dev.to/robinlej/iterating-on-an-array-should-you-loop-with-map-foreach-or-for-5fim)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
+- [Dev.to/JS] [JavaScript forEach&lpar;&rpar; &amp; Building Elements](https://dev.to/jvaughn619/javascript-foreach-building-elements-hl0)
 - [Dev.to/JS] [Pattern - Decorator](https://dev.to/higordiego/pattern-decorator-3hk9)
 - [Dev.to/JS] [Padrão - Decorator](https://dev.to/higordiego/padrao-decorator-4f9c)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTTP response codes and Error Handling](https://dev.to/aj7tt/http-response-codes-and-error-handling-1nno)
 - [Dev.to/JS] [What environment variables does Heroku set by default when we deploy an app?](https://dev.to/mbshehzad/what-environment-variables-does-heroku-set-by-default-when-we-deploy-an-app-497d)
 - [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)
-- [Dev.to/JS] [Wexstream - Full Stack Video Conferencing Platform](https://dev.to/aelassas/wexstream-full-stack-video-conferencing-platform-53gh)
-- [Dev.to/JS] [Data Store with Nucleoid &lpar;Low-code Backend&rpar;](https://dev.to/nucleoid/data-store-with-nucleoid-low-code-backend-2b7h)
 - [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)
 - [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)
 - [Lifehacker] [25 of the Horniest TV Shows Ever Made](https://lifehacker.com/25-of-the-horniest-tv-shows-ever-made-1850046614)
