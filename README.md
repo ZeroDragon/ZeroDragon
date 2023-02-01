@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functional React.Js Execution flow](https://dev.to/emmanuelonah/functional-reactjs-execution-flow-419j)
+- [Lifehacker] [Make This Decadent Nutella-Banana Lava Cake](https://lifehacker.com/make-this-decadent-nutella-banana-lava-cake-1850059390)
+- [Dev.to/JS] [Wrapper function](https://dev.to/drsimplegraffiti/wrapper-function-35je)
+- [Dev.to/JS] [The Complete Guide to Front-end Developer Interviews](https://dev.to/svetaslepner/the-complete-guide-to-front-end-developer-interviews-4jcd)
 - [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)
 - [Lifehacker] [Here’s How Long Abortion Pills Last](https://lifehacker.com/here-s-how-long-abortion-pills-last-1850059869)
 - [Dev.to/JS] [Relative Time String](https://dev.to/chideraike/relative-time-string-2324)
@@ -41,11 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use AI to Transcribe Any Audio for Free on a Mac](https://lifehacker.com/you-can-use-ai-to-transcribe-any-audio-for-free-on-a-ma-1850057778)
 - [Dev.to/JS] [Diário de Bordo #8](https://dev.to/analuisadev/diario-de-bordo-8-490l)
 - [Lifehacker] [How to Get Actually Useful Feedback From Your Boss](https://lifehacker.com/how-to-get-actually-useful-feedback-from-your-boss-1850058022)
-- [Dev.to/JS] [ECMAScript decorators with Vite](https://dev.to/kiranmantha/ecmascript-decorators-with-vite-ilg)
 - [Lifehacker] [10 Anti-Valentine’s Day Gifts and Activities If You DGAF About Romance](https://lifehacker.com/10-anti-valentine-s-day-gifts-and-activities-if-you-dga-1850057786)
-- [Dev.to/JS] [Understanding the Destructuring assignment in JavaScript](https://dev.to/brandonbawe/understanding-the-destructuring-assignment-in-javascript-3gk4)
 - [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)
-- [Dev.to/JS] [[Unpopular Opinion] React is heading in a wrong direction](https://dev.to/oskarkaminski/unpopular-opinion-react-is-heading-in-a-wrong-direction-1pae)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
 - [Lifehacker] [Seven Ways to Prep Your House Before a Contractor Arrives](https://lifehacker.com/seven-ways-to-prep-your-house-before-a-contractor-arriv-1850053104)
 - [Lifehacker] [Your iPhone Can Scan and Copy Any Text Into a Note](https://lifehacker.com/your-iphone-can-scan-and-copy-any-text-into-a-note-1850052097)
-- [Lifehacker] [This Alarm App Will Stop Thieves From Stealing Your MacBook](https://lifehacker.com/this-alarm-app-will-stop-thieves-from-stealing-your-mac-1850052346)
-- [Lifehacker] [How to Tell If the Rock You Found Is a Meteorite](https://lifehacker.com/how-to-tell-if-the-rock-you-found-is-a-meteorite-1850051480)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Alarm App Will Stop Thieves From Stealing Your MacBook](https://lifehacker.com/this-alarm-app-will-stop-thieves-from-stealing-your-mac-1850052346)<!-- TECH-POSTS:END -->
 
 ---
 
