@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 GitHub repositories you must know as a JavaScript developer](https://dev.to/hy_piyush/10-github-repositories-you-must-know-as-a-javascript-developer-f5d)
+- [Dev.to/JS] [7 ways to convert Objects into Array in JavaScript](https://dev.to/awaisalwaisy/7-ways-to-convert-objects-into-array-in-javascript-35m4)
+- [Dev.to/JS] [The Full Stack developer&#39;s Guide](https://dev.to/dhennasdsa/the-full-stack-developers-guide-1lbj)
 - [Dev.to/JS] [How to Use /*Comment*/ as a developer](https://dev.to/scofieldidehen/how-to-use-comment-as-a-developer-306h)
 - [Dev.to/JS] [Ultimate guide to master JavaScript&#39;s reduce function](https://dev.to/costamatheus97/ultimate-guide-to-masters-javascripts-reduce-function-g01)
 - [Dev.to/JS] [7 TIPE CHAKRA MERN STACK DEVELOPER](https://dev.to/apppardana/7-tipe-chakra-mern-stack-developer-3mn5)
 - [Dev.to/JS] [Getting the Visual Editor to work for Storyblok + Astro](https://dev.to/sandrarodgers/getting-the-visual-editor-to-work-for-storyblok-astro-2gja)
 - [Dev.to/JS] [From useForm to createForm: A New Direction for Form Creation in React and Beyond](https://dev.to/jucian0/from-useform-to-createform-a-new-direction-for-form-creation-in-react-and-beyond-2je0)
-- [Dev.to/JS] [Build Smart Contract REST API](https://dev.to/lutfiikbalmajid/build-smart-contract-rest-api-6go)
+- [Dev.to/JS] [Build Smart Contract REST API](https://dev.to/lutfiikbalmajid2/build-smart-contract-rest-api-6go)
 - [Dev.to/JS] [Signing data with MetaMask](https://dev.to/metamask/signing-data-with-metamask-2ggl)
 - [Dev.to/JS] [Smooth view and edit mode transition](https://dev.to/coreprocess/smooth-view-and-edit-mode-transition-5483)
 - [Dev.to/JS] [How to Read and Write JSON in JavaScript](https://dev.to/asayerio_techblog/how-to-read-and-write-json-in-javascript-pad)
-- [Dev.to/JS] [How to create a Chrome plugin](https://dev.to/bigbitdev/how-to-create-a-chrome-plugin-4pcp)
-- [Dev.to/JS] [Iterating on an array: should you loop with .map, .forEach or for?](https://dev.to/robinlej/iterating-on-an-array-should-you-loop-with-map-foreach-or-for-5fim)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
-- [Dev.to/JS] [JavaScript forEach&lpar;&rpar; &amp; Building Elements](https://dev.to/jvaughn619/javascript-foreach-building-elements-hl0)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
 - [Lifehacker] [The Difference Between a Wage and a Salary &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-wage-and-a-salary-and-why-it-1850054939)
