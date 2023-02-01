@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Smart Contract REST API](https://dev.to/lutfiikbalmajid/build-smart-contract-rest-api-6go)
+- [Dev.to/JS] [Signing data with MetaMask](https://dev.to/metamask/signing-data-with-metamask-2ggl)
 - [Dev.to/JS] [Smooth view and edit mode transition](https://dev.to/coreprocess/smooth-view-and-edit-mode-transition-5483)
 - [Dev.to/JS] [How to Read and Write JSON in JavaScript](https://dev.to/asayerio_techblog/how-to-read-and-write-json-in-javascript-pad)
 - [Dev.to/JS] [How to create a Chrome plugin](https://dev.to/bigbitdev/how-to-create-a-chrome-plugin-4pcp)
@@ -38,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between a Wage and a Salary &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-wage-and-a-salary-and-why-it-1850054939)
 - [Dev.to/JS] [Getting started with Nuxt 3](https://dev.to/xinnks/getting-started-with-nuxt-3-3hm2)
 - [Lifehacker] [Your Rao’s Jar Might Have the Wrong Soup Inside](https://lifehacker.com/your-rao-s-jar-might-have-the-wrong-soup-inside-1850054672)
-- [Dev.to/JS] [Vite page load not allowing next line for command](https://dev.to/filehs_foods/vite-page-load-not-allowing-next-line-for-command-3a1p)
 - [Lifehacker] [The Clueless Person’s Guide to Super Bowl LVII](https://lifehacker.com/the-clueless-person-s-guide-to-super-bowl-lvii-1850054677)
 - [Lifehacker] [How to Join Artifact, the TikTok of News](https://lifehacker.com/how-to-join-artifact-the-tiktok-of-news-1850054394)
-- [Dev.to/JS] [What is JSON ?](https://dev.to/himanshubaghel07/what-is-json--146b)
 - [Lifehacker] [This Savory Risotto Cake Is Italy&#39;s Best Kept Secret](https://lifehacker.com/this-savory-risotto-cake-is-italys-best-kept-secret-1850054094)
 - [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)
 - [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)
