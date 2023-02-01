@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)
+- [Dev.to/JS] [[Unpopular Opinion] React is heading in a wrong direction](https://dev.to/oskarkaminski/unpopular-opinion-react-is-heading-in-a-wrong-direction-1pae)
+- [Dev.to/JS] [Javascript And The DOM](https://dev.to/oluwatrillions/javascript-and-the-dom-10h3)
+- [Dev.to/JS] [This Week In React #133: Astro, React dying?, Qwikify, CRA, Next.js, Remix, Redux, Storybook, Redwood, Nextra, React-Native...](https://dev.to/sebastienlorber/this-week-in-react-133-astro-react-dying-qwikify-cra-nextjs-remix-redux-storybook-redwood-nextra-react-native-1a79)
+- [Dev.to/JS] [Introducing Rubberduck 1.0: AI Chat in Visual Studio Code](https://dev.to/lgrammel/introducing-rubberduck-10-ai-chat-in-visual-studio-code-2519)
+- [Dev.to/JS] [Code Smells In ReactJS: What They Are and Why They Matter](https://dev.to/varsenyan/code-smells-in-reactjs-what-they-are-and-why-they-matter-5heo)
+- [Dev.to/JS] [Why Should You Use React JS For Web App Development?](https://dev.to/uplogictech/why-should-you-use-react-js-for-web-app-development-mpg)
+- [Dev.to/JS] [Ultimate guide to master JavaScript&#39;s reduce functions](https://dev.to/costamatheus97/ultimate-guide-to-master-javascripts-reduce-functions-2gb4)
 - [Dev.to/JS] [I made this AI tool in 69 lines of code in single HTML file.](https://dev.to/anasdew/i-made-this-ai-tool-in-69-lines-of-code-in-single-html-file-545b)
 - [Dev.to/JS] [what is a React Hooks?](https://dev.to/shiwani295/what-is-a-react-hooks-4l0o)
 - [Dev.to/JS] [Playwright Tips From the Checkly Community](https://dev.to/checkly/playwright-tips-from-the-checkly-community-d96)
 - [Dev.to/JS] [How Do Hire the Best NodeJS Developer in USA?](https://dev.to/pjdnarola/how-do-hire-the-best-nodejs-developer-1834)
 - [Dev.to/JS] [How to test Vue 3 components with Jest?](https://dev.to/canopassoftware/how-to-test-vue-3-components-with-jest-28gj)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Criando uma escadaria!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-criando-uma-escadaria-1n15)
-- [Dev.to/JS] [Our Journey In The Open Source World - event-versionator](https://dev.to/cadienvan/our-journey-in-the-open-source-world-event-versionator-4n61)
-- [Dev.to/JS] [No Token in the Browser Pattern using Azure API Management](https://dev.to/irarainey/no-token-in-the-browser-pattern-using-azure-api-management-2jd5)
-- [Dev.to/JS] [Invoking Svelte components from your Ember apps](https://dev.to/rajasegar/invoking-svelte-components-from-your-ember-apps-58h5)
-- [Dev.to/JS] [How redux and context helps managing global state](https://dev.to/konfydev/how-redux-and-context-helps-managing-global-state-24o)
-- [Dev.to/JS] [7 Simple Strategies to Increase your Productivity as a Developer](https://dev.to/onlydevs_/7-simple-strategies-to-increase-your-productivity-as-a-developer-46b3)
-- [Dev.to/JS] [Unleash the Power of JavaScript String Methods - Your Ultimate Cheat Sheet 🤯🔥](https://dev.to/rammcodes/unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Much Emergency Cash You Should Keep at Home](https://lifehacker.com/here-s-how-much-emergency-cash-you-should-keep-at-home-1850048816)
 - [Lifehacker] [Make a Fluffy Frosting Out of Sweetened Condensed Milk and Butter](https://lifehacker.com/make-a-fluffy-frosting-out-of-sweetened-condensed-milk-1850048764)
 - [Lifehacker] [This Google AI Music Will Freak You the Hell Out](https://lifehacker.com/this-google-ai-music-will-freak-you-the-hell-out-1850049352)
-- [Lifehacker] [Why You Should Never Lease a Car](https://lifehacker.com/why-you-should-never-lease-a-car-1850049671)
-- [Lifehacker] [Check Whether Your Ford SUV Is Part of This Recall](https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Lease a Car](https://lifehacker.com/why-you-should-never-lease-a-car-1850049671)<!-- TECH-POSTS:END -->
 
 ---
 
