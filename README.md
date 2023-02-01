@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Smooth view and edit mode transition](https://dev.to/coreprocess/smooth-view-and-edit-mode-transition-5483)
+- [Dev.to/JS] [How to Read and Write JSON in JavaScript](https://dev.to/asayerio_techblog/how-to-read-and-write-json-in-javascript-pad)
+- [Dev.to/JS] [How to create a Chrome plugin](https://dev.to/bigbitdev/how-to-create-a-chrome-plugin-4pcp)
 - [Dev.to/JS] [Iterating on an array: should you loop with .map, .forEach or for?](https://dev.to/robinlej/iterating-on-an-array-should-you-loop-with-map-foreach-or-for-5fim)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Dev.to/JS] [JavaScript forEach&lpar;&rpar; &amp; Building Elements](https://dev.to/jvaughn619/javascript-foreach-building-elements-hl0)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Join Artifact, the TikTok of News](https://lifehacker.com/how-to-join-artifact-the-tiktok-of-news-1850054394)
 - [Dev.to/JS] [What is JSON ?](https://dev.to/himanshubaghel07/what-is-json--146b)
 - [Lifehacker] [This Savory Risotto Cake Is Italy&#39;s Best Kept Secret](https://lifehacker.com/this-savory-risotto-cake-is-italys-best-kept-secret-1850054094)
-- [Dev.to/JS] [Using Gleam in your Phoenix Hooks](https://dev.to/clsource/using-gleam-in-your-phoenix-hooks-177o)
-- [Dev.to/JS] [HTTP response codes and Error Handling](https://dev.to/aj7tt/http-response-codes-and-error-handling-1nno)
-- [Dev.to/JS] [What environment variables does Heroku set by default when we deploy an app?](https://dev.to/mbshehzad/what-environment-variables-does-heroku-set-by-default-when-we-deploy-an-app-497d)
 - [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)
 - [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)
 - [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)
