@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECMAScript decorators with Vite](https://dev.to/kiranmantha/ecmascript-decorators-with-vite-ilg)
+- [Lifehacker] [10 Anti-Valentine’s Day Gifts and Activities If You DGAF About Romance](https://lifehacker.com/10-anti-valentine-s-day-gifts-and-activities-if-you-dga-1850057786)
+- [Dev.to/JS] [Understanding the Destructuring assignment in JavaScript](https://dev.to/brandonbawe/understanding-the-destructuring-assignment-in-javascript-3gk4)
 - [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)
 - [Dev.to/JS] [[Unpopular Opinion] React is heading in a wrong direction](https://dev.to/oskarkaminski/unpopular-opinion-react-is-heading-in-a-wrong-direction-1pae)
 - [Dev.to/JS] [Javascript And The DOM](https://dev.to/oluwatrillions/javascript-and-the-dom-10h3)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made this AI tool in 69 lines of code in single HTML file.](https://dev.to/anasdew/i-made-this-ai-tool-in-69-lines-of-code-in-single-html-file-545b)
 - [Dev.to/JS] [what is a React Hooks?](https://dev.to/shiwani295/what-is-a-react-hooks-4l0o)
 - [Dev.to/JS] [Playwright Tips From the Checkly Community](https://dev.to/checkly/playwright-tips-from-the-checkly-community-d96)
-- [Dev.to/JS] [How Do Hire the Best NodeJS Developer in USA?](https://dev.to/pjdnarola/how-do-hire-the-best-nodejs-developer-1834)
-- [Dev.to/JS] [How to test Vue 3 components with Jest?](https://dev.to/canopassoftware/how-to-test-vue-3-components-with-jest-28gj)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [ChatGPT Is the Coolest &lpar;and Most Terrifying&rpar; New AI Technology](https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-ai-tec-1850050359)
 - [Lifehacker] [Here’s How Much Emergency Cash You Should Keep at Home](https://lifehacker.com/here-s-how-much-emergency-cash-you-should-keep-at-home-1850048816)
 - [Lifehacker] [Make a Fluffy Frosting Out of Sweetened Condensed Milk and Butter](https://lifehacker.com/make-a-fluffy-frosting-out-of-sweetened-condensed-milk-1850048764)
-- [Lifehacker] [This Google AI Music Will Freak You the Hell Out](https://lifehacker.com/this-google-ai-music-will-freak-you-the-hell-out-1850049352)
-- [Lifehacker] [Why You Should Never Lease a Car](https://lifehacker.com/why-you-should-never-lease-a-car-1850049671)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Google AI Music Will Freak You the Hell Out](https://lifehacker.com/this-google-ai-music-will-freak-you-the-hell-out-1850049352)<!-- TECH-POSTS:END -->
 
 ---
 
