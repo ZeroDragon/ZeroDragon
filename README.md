@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Our Journey In The Open Source World - event-versionator](https://dev.to/cadienvan/our-journey-in-the-open-source-world-event-versionator-4n61)
+- [Dev.to/JS] [No Token in the Browser Pattern using Azure API Management](https://dev.to/irarainey/no-token-in-the-browser-pattern-using-azure-api-management-2jd5)
+- [Dev.to/JS] [Invoking Svelte components from your Ember apps](https://dev.to/rajasegar/invoking-svelte-components-from-your-ember-apps-58h5)
+- [Dev.to/JS] [How redux and context helps managing global state](https://dev.to/konfydev/how-redux-and-context-helps-managing-global-state-24o)
 - [Dev.to/JS] [7 Simple Strategies to Increase your Productivity as a Developer](https://dev.to/onlydevs_/7-simple-strategies-to-increase-your-productivity-as-a-developer-46b3)
 - [Dev.to/JS] [Unleash the Power of JavaScript String Methods - Your Ultimate Cheat Sheet 🤯🔥](https://dev.to/rammcodes/unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734)
 - [Dev.to/JS] [Amiclear - Blood Sugar Results, Uses, Ingredients, Scam Or Legit?](https://dev.to/amiclear1/amiclear-blood-sugar-results-uses-ingredients-scam-or-legit-k9p)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Spread Operator](https://dev.to/eckdev/javascript-spread-operator-55i1)
 - [Dev.to/JS] [Benifits and The History of Java](https://dev.to/lmgames/benifits-and-the-history-of-java-5b24)
 - [Dev.to/JS] [SEO with Nuxt 3](https://dev.to/guillaumeduhan/seo-with-nuxt-3-33)
-- [Dev.to/JS] [Street Programmer: Translate Requests Between Stores with Different Selling Units](https://dev.to/darkterminal/street-programmer-translate-requests-between-stores-with-different-selling-units-5cl0)
-- [Dev.to/JS] [JS game engine update, Kaboom 3000 beta released](https://dev.to/ogrotten/js-game-engine-update-kaboom-3000-beta-released-4c88)
-- [Dev.to/JS] [The joy, the pride and the burden of maintaining open source](https://dev.to/adrai/the-joy-the-pride-and-the-burden-of-maintaining-open-source-1odd)
-- [Dev.to/JS] [Accessible text field component with React and TypeScript](https://dev.to/mayashavin/build-an-accessible-editable-text-field-react-component-with-typescript-405n)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
