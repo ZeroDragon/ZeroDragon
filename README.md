@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Closures: Understanding the Power Behind the Scenes 🧐](https://dev.to/costamatheus97/javascript-closures-understanding-the-power-behind-the-scenes-1cc1)
+- [Lifehacker] [This Canned Meat and Poultry Might Be Contaminated](https://lifehacker.com/this-canned-meat-and-poultry-might-be-contaminated-1850061080)
+- [Dev.to/JS] [Demystification of JavaScript Code processing using V8 as the targeted engine 🔬](https://dev.to/emmanuelonah/demystification-of-javascript-code-processing-using-v8-as-the-targeted-engine-1k4a)
+- [Dev.to/JS] [10 Github repo.](https://dev.to/tamim95/10-github-repo-1ii7)
+- [Dev.to/JS] [5 important tips and tricks for React](https://dev.to/baransel/5-important-tips-and-tricks-for-react-je8)
+- [Dev.to/JS] [JavaScript Data Types](https://dev.to/catherineisonline/javascript-data-types-5ec5)
+- [Lifehacker] [Everything You Need to Know About the Samsung Galaxy S23](https://lifehacker.com/everything-you-need-to-know-about-the-samsung-galaxy-s2-1850059842)
 - [Dev.to/JS] [Functional React.Js Execution flow](https://dev.to/emmanuelonah/functional-reactjs-execution-flow-419j)
 - [Lifehacker] [Make This Decadent Nutella-Banana Lava Cake](https://lifehacker.com/make-this-decadent-nutella-banana-lava-cake-1850059390)
 - [Dev.to/JS] [Wrapper function](https://dev.to/drsimplegraffiti/wrapper-function-35je)
@@ -36,14 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [No AI Needed! 7 Proven Time-Saving Apps and tools To Turn Every Front-End Developer &amp; Designer into a Design Ninja 🎨🥷🏽! Part One](https://dev.to/ramziosta/no-ai-needed-7-proven-time-saving-apps-and-tools-to-turn-every-front-end-developer-designer-into-a-design-ninja-part-one-5fai)
 - [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Dev.to/JS] [Entendendo SetTimeout e SetInterval:](https://dev.to/altencirsilvajr/entendendo-settimeout-e-setinterval-30nh)
-- [Dev.to/JS] [How we shipped CDN access tokens with Cloudflare Workers and R2](https://dev.to/the-guild/how-we-shipped-cdn-access-tokens-with-cloudflare-workers-and-r2-56i8)
-- [Dev.to/JS] [Netlify Acquires GatsbyJS](https://dev.to/erinposting/netlify-acquires-gatsbyjs-4c74)
 - [Lifehacker] [12 Spin-Off Movies That Are Better Than the Original](https://lifehacker.com/12-spin-off-movies-that-are-better-than-the-original-1850053321)
-- [Dev.to/JS] [Introducing Wisdom — Your Daily Dose of Inspiration](https://dev.to/serhii_kucherenko/introducing-wisdom-your-daily-dose-of-inspiration-3j37)
-- [Dev.to/JS] [Destructuring Arrays &amp; Objects in JavaScript](https://dev.to/jvaughn619/destructuring-arrays-objects-in-javascript-1m36)
 - [Lifehacker] [The Quickest Way to Thaw Frozen Pizza Dough Without Ruining It](https://lifehacker.com/the-quickest-way-to-thaw-frozen-pizza-dough-without-rui-1850056087)
 - [Lifehacker] [You Can Use AI to Transcribe Any Audio for Free on a Mac](https://lifehacker.com/you-can-use-ai-to-transcribe-any-audio-for-free-on-a-ma-1850057778)
-- [Dev.to/JS] [Diário de Bordo #8](https://dev.to/analuisadev/diario-de-bordo-8-490l)
 - [Lifehacker] [How to Get Actually Useful Feedback From Your Boss](https://lifehacker.com/how-to-get-actually-useful-feedback-from-your-boss-1850058022)
 - [Lifehacker] [10 Anti-Valentine’s Day Gifts and Activities If You DGAF About Romance](https://lifehacker.com/10-anti-valentine-s-day-gifts-and-activities-if-you-dga-1850057786)
 - [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s When It&#39;s Time to Call a Financial Advisor](https://lifehacker.com/heres-when-its-time-to-call-a-financial-advisor-1850053476)
 - [Lifehacker] [25 of the Horniest TV Shows Ever Made](https://lifehacker.com/25-of-the-horniest-tv-shows-ever-made-1850046614)
 - [Lifehacker] [QuickTime Has a Hidden Editing Tool for Cutting Clips Out of Videos](https://lifehacker.com/quicktime-has-a-hidden-editing-tool-for-cutting-clips-o-1850053202)
-- [Lifehacker] [Seven Ways to Prep Your House Before a Contractor Arrives](https://lifehacker.com/seven-ways-to-prep-your-house-before-a-contractor-arriv-1850053104)
-- [Lifehacker] [Your iPhone Can Scan and Copy Any Text Into a Note](https://lifehacker.com/your-iphone-can-scan-and-copy-any-text-into-a-note-1850052097)
-- [Lifehacker] [This Alarm App Will Stop Thieves From Stealing Your MacBook](https://lifehacker.com/this-alarm-app-will-stop-thieves-from-stealing-your-mac-1850052346)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Ways to Prep Your House Before a Contractor Arrives](https://lifehacker.com/seven-ways-to-prep-your-house-before-a-contractor-arriv-1850053104)<!-- TECH-POSTS:END -->
 
 ---
 
