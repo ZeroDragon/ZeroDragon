@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Must-Avoid Pitfalls in Software Development](https://dev.to/dashsaurabh/5-must-avoid-pitfalls-in-software-development-9hg)
+- [Dev.to/JS] [Our Journey In The Open Source World - Developing plugins for the cache-candidate](https://dev.to/cadienvan/our-journey-in-the-open-source-world-developing-plugins-for-the-cache-candidate-26ae)
+- [Dev.to/JS] [Best Practices for Utility-First CSS](https://dev.to/machy8/best-practices-for-utility-first-css-mod)
+- [Dev.to/JS] [Take Your Web Development Skills to Next with Web API&#39;s](https://dev.to/eyitayoitalt/take-your-web-development-skills-to-next-with-web-apis-1n26)
 - [Dev.to/JS] [50 JavaScript Interview Questions](https://dev.to/johongirr/50-javascript-interview-questions-d8l)
 - [Dev.to/JS] [How to iterate object keys in JavaScript?](https://dev.to/sandgates/how-to-iterate-object-keys-in-javascript-4gpp)
 - [Dev.to/JS] [JavaScript: O que é Intl?](https://dev.to/cristuker/javascript-o-que-e-intl-13bp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 Most Helpful jQuery Methods and Functions](https://dev.to/dev14/12-most-helpful-jquery-methods-and-functions-lpk)
 - [Dev.to/JS] [8 Most useful Jquery Selectors - You Need To Know](https://dev.to/dev14/8-most-useful-jquery-selectors-you-need-to-know-2jkm)
 - [Dev.to/JS] [Top 5 Popular React Native App Development Companies in 2023](https://dev.to/ronrose2212/top-5-popular-react-native-app-development-companies-in-2023-1i7f)
-- [Dev.to/JS] [Meaningful Sentry issues with react-query + axios](https://dev.to/thraizz/meaningful-sentry-issues-with-react-query-axios-564n)
-- [Dev.to/JS] [Understanding the Spread Operator&lpar;...&rpar; in JavaScript](https://dev.to/brandonbawe/understanding-the-spread-operator-in-javascript-4pg6)
-- [Dev.to/JS] [Fonts in Next.js 13 + Chakra-UI](https://dev.to/feijens/fonts-in-nextjs-13-chakra-ui-3i87)
-- [Dev.to/JS] [&quot;Error with Leaflet Map - Unable to display tiles on the map&quot;](https://dev.to/hossam43/error-with-leaflet-map-unable-to-display-tiles-on-the-map-4f28)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
