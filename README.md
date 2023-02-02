@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [💻 7 Tips for Writing Clean and Efficient React Code](https://dev.to/naubit/7-tips-for-writing-clean-and-efficient-react-code-34e7)
+- [Dev.to/JS] [Netlify Deployment error Fix: &#39;Treating warnings as errors because process.env.CI=true&#39;](https://dev.to/ifeoma/netlify-deployment-error-fix-treating-warnings-as-errors-because-processenvcitrue-3kje)
+- [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
+- [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Dev.to/JS] [Auto commit with LaunchAgents &amp; JavaScript](https://dev.to/jlong4223/auto-commit-with-launchagents-javascript-21cg)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
 - [Dev.to/JS] [Javascript: What You Need to Know &lpar;Part one&rpar;](https://dev.to/stevedev/javascript-what-you-need-to-know-part-one-1dh3)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to pass a challenging Frontend Interview in 2023 Part 1](https://dev.to/adamaslan/how-to-pass-a-challenging-frontend-interview-in-2023-part-1-1mc7)
 - [Lifehacker] [You Have Nine Days of Free Subway Footlongs Ahead of You](https://lifehacker.com/you-have-nine-days-of-free-subway-footlongs-ahead-of-yo-1850065117)
 - [Dev.to/JS] [Foundation: The Best Framework for Building Responsive Sites](https://dev.to/get_pieces/foundation-the-best-framework-for-building-responsive-sites-one)
-- [Dev.to/JS] [Building Blocks of Success: Mastering Reusable Components in ReactJS with Props, State, and Testing](https://dev.to/esmat0100/building-blocks-of-success-mastering-reusable-components-in-reactjs-with-props-state-and-testing-5f77)
-- [Dev.to/JS] [Diário de bordo #9](https://dev.to/analuisadev/diario-de-bordo-9-3fhg)
 - [Lifehacker] [How to Use Windows&#39; Alt+Tab Shortcut on a Mac](https://lifehacker.com/how-to-use-windows-alt-tab-shortcut-on-a-mac-1850063574)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)
 - [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Decadent Nutella-Banana Lava Cake](https://lifehacker.com/make-this-decadent-nutella-banana-lava-cake-1850059390)
 - [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)
 - [Lifehacker] [Here’s How Long Abortion Pills Last](https://lifehacker.com/here-s-how-long-abortion-pills-last-1850059869)
-- [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)
-- [Lifehacker] [How to Plan a Valentine’s Date If You’re Stuck in a Rut](https://lifehacker.com/how-to-plan-a-valentine-s-date-if-you-re-stuck-in-a-rut-1850054118)
-- [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)<!-- TECH-POSTS:END -->
 
 ---
 
