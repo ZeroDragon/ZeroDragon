@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [50 JavaScript Interview Questions](https://dev.to/johongirr/50-javascript-interview-questions-d8l)
+- [Dev.to/JS] [How to iterate object keys in JavaScript?](https://dev.to/sandgates/how-to-iterate-object-keys-in-javascript-4gpp)
+- [Dev.to/JS] [JavaScript: O que é Intl?](https://dev.to/cristuker/javascript-o-que-e-intl-13bp)
+- [Dev.to/JS] [Conventional Commits - Specification for Your Commit Messages](https://dev.to/carlosazaustre/conventional-commits-specification-for-your-commit-messages-14lo)
 - [Dev.to/JS] [Serve your React build locally with nginx through docker](https://dev.to/thraizz/serve-your-react-build-locally-with-nginx-through-docker-2pdb)
 - [Dev.to/JS] [12 Most Helpful jQuery Methods and Functions](https://dev.to/dev14/12-most-helpful-jquery-methods-and-functions-lpk)
 - [Dev.to/JS] [8 Most useful Jquery Selectors - You Need To Know](https://dev.to/dev14/8-most-useful-jquery-selectors-you-need-to-know-2jkm)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the Spread Operator&lpar;...&rpar; in JavaScript](https://dev.to/brandonbawe/understanding-the-spread-operator-in-javascript-4pg6)
 - [Dev.to/JS] [Fonts in Next.js 13 + Chakra-UI](https://dev.to/feijens/fonts-in-nextjs-13-chakra-ui-3i87)
 - [Dev.to/JS] [&quot;Error with Leaflet Map - Unable to display tiles on the map&quot;](https://dev.to/hossam43/error-with-leaflet-map-unable-to-display-tiles-on-the-map-4f28)
-- [Dev.to/JS] [Encrypt and Decrypt Data in Node.js using aes-256-cbc](https://dev.to/jobizil/encrypt-and-decrypt-data-in-nodejs-using-aes-256-cbc-2l6d)
-- [Dev.to/JS] [What is Smart Contract?](https://dev.to/akshaykurhekar/what-is-smart-contract-1hg9)
-- [Dev.to/JS] [🤔 Suggest me the Tech Stack for 🌐 Browsemates](https://dev.to/rajeshj3/suggest-me-the-tech-stack-for-browsemates-3ac5)
-- [Dev.to/JS] [Trần Nhà 3D Và Những Điều Cần Biết Về Trần Barrisol](https://dev.to/kientrucdhomevn/tran-nha-3d-va-nhung-dieu-can-biet-ve-tran-barrisol-3nih)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
