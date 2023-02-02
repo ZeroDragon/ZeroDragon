@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [full screen navigation bar with animation](https://dev.to/prabothcharith/full-screen-navigation-bar-with-animation-589)
+- [Dev.to/JS] [Web Scraping With Puppeteer for Total Noobs: Part 2](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-2-3on8)
 - [Dev.to/JS] [🛣O Guia Definitivo para Rotas com React Router](https://dev.to/mpetry/o-guia-definitivo-para-rotas-com-react-router-4n5h)
 - [Dev.to/JS] [Nextjs: Introduction](https://dev.to/lkp/nextjs-introduction-hej)
 - [Dev.to/JS] [React.js for Web Development](https://dev.to/asayerio_techblog/reactjs-for-web-development-57ck)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Closures: Understanding the Power Behind the Scenes 🧐](https://dev.to/costamatheus97/javascript-closures-understanding-the-power-behind-the-scenes-1cc1)
 - [Lifehacker] [This Canned Meat and Poultry Might Be Contaminated](https://lifehacker.com/this-canned-meat-and-poultry-might-be-contaminated-1850061080)
 - [Dev.to/JS] [Demystification of JavaScript Code processing using V8 as the targeted engine 🔬](https://dev.to/emmanuelonah/demystification-of-javascript-code-processing-using-v8-as-the-targeted-engine-1k4a)
-- [Dev.to/JS] [10 Github repo.](https://dev.to/tamim95/10-github-repo-1ii7)
-- [Dev.to/JS] [5 important tips and tricks for React](https://dev.to/baransel/5-important-tips-and-tricks-for-react-je8)
 - [Lifehacker] [Everything You Need to Know About the Samsung Galaxy S23](https://lifehacker.com/everything-you-need-to-know-about-the-samsung-galaxy-s2-1850059842)
 - [Lifehacker] [Make This Decadent Nutella-Banana Lava Cake](https://lifehacker.com/make-this-decadent-nutella-banana-lava-cake-1850059390)
 - [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)
