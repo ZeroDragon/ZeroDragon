@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [Stop Using These Eyedrops Immediately, CDC Says ?](https://lifehacker.com/stop-using-these-eyedrops-immediately-cdc-says-1850066025)
+- [Lifehacker] [8 Ways to Give Your Valentine the Gift of Meat](https://lifehacker.com/8-ways-to-give-your-valentine-the-gift-of-meat-1850066252)
+- [Dev.to/JS] [Client Components and use client in Next.js App Directory](https://dev.to/thetombomb/client-components-and-use-client-in-nextjs-app-directory-5738)
+- [Lifehacker] [These Streaming Services Still Let You Share Passwords](https://lifehacker.com/these-streaming-services-still-let-you-share-passwords-1850065273)
+- [Dev.to/JS] [Angular code simplicity with inject](https://dev.to/tomwebwalker/angular-code-simplicity-with-inject-54jm)
+- [Lifehacker] [Stop Using These Eyedrops Immediately, CDC Says](https://lifehacker.com/stop-using-these-eyedrops-immediately-cdc-says-1850066025)
 - [Lifehacker] [10 of the Most Common Pieces of Lifting Gear &lpar;and When to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-pieces-of-lifting-gear-and-when-1850065827)
 - [Lifehacker] [How to Avoid Unexpected Costs During a Hospital Stay](https://lifehacker.com/how-to-avoid-unexpected-costs-during-a-hospital-stay-1850065392)
 - [Dev.to/JS] [LeetCode #121. Best Time to Buy and Sell Stock with JavaScript](https://dev.to/masakifukunishi/leetcode-121-best-time-to-buy-and-sell-stock-with-javascript-43i7)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimize Your Coding with These 30 Efficient JavaScript One-Liners](https://dev.to/alex_bobes/optimize-your-coding-with-these-30-efficient-javascript-one-liners-10a5)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)
 - [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)
-- [Dev.to/JS] [JavaScriptda Constructor Functionlar](https://dev.to/ayyubxon/javascriptda-constructor-functionlar-1fla)
-- [Dev.to/JS] [Remove last character from javascript string](https://dev.to/biplab3/remove-last-character-from-javascript-string-1egd)
 - [Lifehacker] [This App Unlocks Your Mac’s Hidden Features](https://lifehacker.com/this-app-unlocks-your-mac-s-hidden-features-1850063799)
 - [Lifehacker] [Make Grown-Up Cinnamon Toast With Apple Brandy Butter](https://lifehacker.com/make-fucked-up-cinnamon-toast-with-apple-brandy-butter-1850062095)
 - [Lifehacker] [7 Ways to Butter Your Toast Without Destroying It](https://lifehacker.com/7-ways-to-butter-your-toast-without-destroying-it-1850061944)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)
 - [Lifehacker] [How to Plan a Valentine’s Date If You’re Stuck in a Rut](https://lifehacker.com/how-to-plan-a-valentine-s-date-if-you-re-stuck-in-a-rut-1850054118)
 - [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
-- [Lifehacker] [12 Spin-Off Movies That Are Better Than the Original](https://lifehacker.com/12-spin-off-movies-that-are-better-than-the-original-1850053321)
-- [Lifehacker] [The Quickest Way to Thaw Frozen Pizza Dough Without Ruining It](https://lifehacker.com/the-quickest-way-to-thaw-frozen-pizza-dough-without-rui-1850056087)
-- [Lifehacker] [You Can Use AI to Transcribe Any Audio for Free on a Mac](https://lifehacker.com/you-can-use-ai-to-transcribe-any-audio-for-free-on-a-ma-1850057778)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Spin-Off Movies That Are Better Than the Original](https://lifehacker.com/12-spin-off-movies-that-are-better-than-the-original-1850053321)<!-- TECH-POSTS:END -->
 
 ---
 
