@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Web Framework to Follow in 2023?](https://dev.to/nosherwan/what-web-framework-to-follow-in-2023-3jjd)
+- [Dev.to/JS] [Asset Pipeline JS Migration](https://dev.to/devteam/asset-pipeline-js-migration-48ki)
 - [Dev.to/JS] [JSTools Weekly - 2023#4](https://dev.to/jstoolsweekly/jstools-weekly-20234-2ihm)
 - [Dev.to/JS] [🚀 5 Advanced ES6 Features Every JavaScript Developer Should Master](https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Complete Guide to Front-end Developer Interviews](https://dev.to/svetaslepner/the-complete-guide-to-front-end-developer-interviews-4jcd)
 - [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)
 - [Lifehacker] [Here’s How Long Abortion Pills Last](https://lifehacker.com/here-s-how-long-abortion-pills-last-1850059869)
-- [Dev.to/JS] [Relative Time String](https://dev.to/chideraike/relative-time-string-2324)
 - [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)
-- [Dev.to/JS] [ReactJS Pagination Component](https://dev.to/cleveroscar/pagination-reactjs-1ne)
 - [Lifehacker] [How to Plan a Valentine’s Date If You’re Stuck in a Rut](https://lifehacker.com/how-to-plan-a-valentine-s-date-if-you-re-stuck-in-a-rut-1850054118)
 - [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [12 Spin-Off Movies That Are Better Than the Original](https://lifehacker.com/12-spin-off-movies-that-are-better-than-the-original-1850053321)
