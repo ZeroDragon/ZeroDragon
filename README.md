@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Selenium Behind: Taking the Leap Into the Cypress World Part-II](https://dev.to/atulkrsharma/selenium-behind-taking-the-leap-into-the-cypress-world-part-ii-2njj)
 - [Dev.to/JS] [What Web Framework to Follow in 2023?](https://dev.to/nosherwan/what-web-framework-to-follow-in-2023-3jjd)
 - [Dev.to/JS] [Asset Pipeline JS Migration](https://dev.to/devteam/asset-pipeline-js-migration-48ki)
 - [Dev.to/JS] [JSTools Weekly - 2023#4](https://dev.to/jstoolsweekly/jstools-weekly-20234-2ihm)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functional React.Js Execution flow](https://dev.to/emmanuelonah/functional-reactjs-execution-flow-419j)
 - [Lifehacker] [Make This Decadent Nutella-Banana Lava Cake](https://lifehacker.com/make-this-decadent-nutella-banana-lava-cake-1850059390)
 - [Dev.to/JS] [Wrapper function](https://dev.to/drsimplegraffiti/wrapper-function-35je)
-- [Dev.to/JS] [The Complete Guide to Front-end Developer Interviews](https://dev.to/svetaslepner/the-complete-guide-to-front-end-developer-interviews-4jcd)
 - [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)
 - [Lifehacker] [Here’s How Long Abortion Pills Last](https://lifehacker.com/here-s-how-long-abortion-pills-last-1850059869)
 - [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)
