@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Using These Eyedrops Immediately, CDC Says ?](https://lifehacker.com/stop-using-these-eyedrops-immediately-cdc-says-1850066025)
+- [Lifehacker] [10 of the Most Common Pieces of Lifting Gear &lpar;and When to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-pieces-of-lifting-gear-and-when-1850065827)
+- [Lifehacker] [How to Avoid Unexpected Costs During a Hospital Stay](https://lifehacker.com/how-to-avoid-unexpected-costs-during-a-hospital-stay-1850065392)
 - [Dev.to/JS] [LeetCode #121. Best Time to Buy and Sell Stock with JavaScript](https://dev.to/masakifukunishi/leetcode-121-best-time-to-buy-and-sell-stock-with-javascript-43i7)
 - [Dev.to/JS] [50 Most Asked JavaScript Interview Questions](https://dev.to/johongirr/50-most-asked-javascript-interview-questions-3d3c)
 - [Lifehacker] [How to Explain a Layoff in Your Next Job Interview](https://lifehacker.com/how-to-explain-a-layoff-in-your-next-job-interview-1850065646)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [12 Spin-Off Movies That Are Better Than the Original](https://lifehacker.com/12-spin-off-movies-that-are-better-than-the-original-1850053321)
 - [Lifehacker] [The Quickest Way to Thaw Frozen Pizza Dough Without Ruining It](https://lifehacker.com/the-quickest-way-to-thaw-frozen-pizza-dough-without-rui-1850056087)
-- [Lifehacker] [You Can Use AI to Transcribe Any Audio for Free on a Mac](https://lifehacker.com/you-can-use-ai-to-transcribe-any-audio-for-free-on-a-ma-1850057778)
-- [Lifehacker] [How to Get Actually Useful Feedback From Your Boss](https://lifehacker.com/how-to-get-actually-useful-feedback-from-your-boss-1850058022)
-- [Lifehacker] [10 Anti-Valentine’s Day Gifts and Activities If You DGAF About Romance](https://lifehacker.com/10-anti-valentine-s-day-gifts-and-activities-if-you-dga-1850057786)
-- [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use AI to Transcribe Any Audio for Free on a Mac](https://lifehacker.com/you-can-use-ai-to-transcribe-any-audio-for-free-on-a-ma-1850057778)<!-- TECH-POSTS:END -->
 
 ---
 
