@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fonts in Next.js 13 + Chakra-UI](https://dev.to/feijens/fonts-in-nextjs-13-chakra-ui-3i87)
 - [Dev.to/JS] [&quot;Error with Leaflet Map - Unable to display tiles on the map&quot;](https://dev.to/hossam43/error-with-leaflet-map-unable-to-display-tiles-on-the-map-4f28)
 - [Dev.to/JS] [Encrypt and Decrypt Data in Node.js using aes-256-cbc](https://dev.to/jobizil/encrypt-and-decrypt-data-in-nodejs-using-aes-256-cbc-2l6d)
 - [Dev.to/JS] [What is Smart Contract?](https://dev.to/akshaykurhekar/what-is-smart-contract-1hg9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner&#39;s guide to data-attributes in CSS](https://dev.to/arindam1997007/beginners-guide-to-data-attributes-in-css-2hh2)
 - [Dev.to/JS] [A Step-by-Step Guide to Continuous Integration for Your Node.js Application](https://dev.to/pavanbelagatti/a-step-by-step-guide-to-continuous-integration-for-your-nodejs-application-3bhc)
 - [Dev.to/JS] [Configuring worker plugins in Vite 2.8](https://dev.to/danielonugha0/configuring-worker-plugins-in-vite-28-5dic)
-- [Dev.to/JS] [Prime Male - Ingredients, Results, Pros, Cons, Benefits &amp; Price?](https://dev.to/primemale3/prime-male-ingredients-results-pros-cons-benefits-price-41gc)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
