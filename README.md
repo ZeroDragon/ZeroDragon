@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Auto commit with LaunchAgents &amp; JavaScript](https://dev.to/jlong4223/auto-commit-with-launchagents-javascript-21cg)
+- [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
+- [Dev.to/JS] [Javascript: What You Need to Know &lpar;Part one&rpar;](https://dev.to/stevedev/javascript-what-you-need-to-know-part-one-1dh3)
+- [Dev.to/JS] [MyNodeJourneyIn2Days](https://dev.to/rpbee/mynodejourneyin2days-24c6)
 - [Lifehacker] [8 Ways to Give Your Valentine the Gift of Meat](https://lifehacker.com/8-ways-to-give-your-valentine-the-gift-of-meat-1850066252)
 - [Dev.to/JS] [Client Components and use client in Next.js App Directory](https://dev.to/thetombomb/client-components-and-use-client-in-nextjs-app-directory-5738)
 - [Lifehacker] [These Streaming Services Still Let You Share Passwords](https://lifehacker.com/these-streaming-services-still-let-you-share-passwords-1850065273)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Foundation: The Best Framework for Building Responsive Sites](https://dev.to/get_pieces/foundation-the-best-framework-for-building-responsive-sites-one)
 - [Dev.to/JS] [Building Blocks of Success: Mastering Reusable Components in ReactJS with Props, State, and Testing](https://dev.to/esmat0100/building-blocks-of-success-mastering-reusable-components-in-reactjs-with-props-state-and-testing-5f77)
 - [Dev.to/JS] [Diário de bordo #9](https://dev.to/analuisadev/diario-de-bordo-9-3fhg)
-- [Dev.to/JS] [How to make a full stack facial authentication app with FaceIO and Next js](https://dev.to/steadylearner/how-to-make-a-full-stack-facial-authentication-app-with-faceio-and-next-js-3dh)
 - [Lifehacker] [How to Use Windows&#39; Alt+Tab Shortcut on a Mac](https://lifehacker.com/how-to-use-windows-alt-tab-shortcut-on-a-mac-1850063574)
-- [Dev.to/JS] [Created A AI-Powered Solution For E-commerce Products](https://dev.to/namanvyas/created-a-ai-powered-solution-for-e-commerce-products-19j)
-- [Dev.to/JS] [Optimize Your Coding with These 30 Efficient JavaScript One-Liners](https://dev.to/alex_bobes/optimize-your-coding-with-these-30-efficient-javascript-one-liners-10a5)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)
 - [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)
 - [Lifehacker] [This App Unlocks Your Mac’s Hidden Features](https://lifehacker.com/this-app-unlocks-your-mac-s-hidden-features-1850063799)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Long Abortion Pills Last](https://lifehacker.com/here-s-how-long-abortion-pills-last-1850059869)
 - [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)
 - [Lifehacker] [How to Plan a Valentine’s Date If You’re Stuck in a Rut](https://lifehacker.com/how-to-plan-a-valentine-s-date-if-you-re-stuck-in-a-rut-1850054118)
-- [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
-- [Lifehacker] [12 Spin-Off Movies That Are Better Than the Original](https://lifehacker.com/12-spin-off-movies-that-are-better-than-the-original-1850053321)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Netflix&#39;s New Password Sharing Rules &lpar;and How to Get Around Them&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)<!-- TECH-POSTS:END -->
 
 ---
 
