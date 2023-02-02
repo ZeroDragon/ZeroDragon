@@ -23,7 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Take Your JavaScript to the Next Level: Why Array Methods &amp; Promises Are Essential for Beginner Developers](https://dev.to/mihailtd/take-your-javascript-to-the-next-level-why-array-methods-promises-are-essential-for-beginner-developers-1o44)
+- [Lifehacker] [Your Ice Cream Needs Savory Toppings](https://lifehacker.com/your-ice-cream-needs-savory-toppings-1850065423)
+- [Dev.to/JS] [How to pass a challenging Frontend Interview in 2023 Part 1](https://dev.to/adamaslan/how-to-pass-a-challenging-frontend-interview-in-2023-part-1-1mc7)
+- [Lifehacker] [You Have Nine Days of Free Subway Footlongs Ahead of You](https://lifehacker.com/you-have-nine-days-of-free-subway-footlongs-ahead-of-yo-1850065117)
+- [Dev.to/JS] [Foundation: The Best Framework for Building Responsive Sites](https://dev.to/get_pieces/foundation-the-best-framework-for-building-responsive-sites-one)
+- [Dev.to/JS] [50 Most Asked JavaScript Interview Questions](https://dev.to/johongirr/most-asked-javascript-interview-questions-j60)
+- [Dev.to/JS] [Building Blocks of Success: Mastering Reusable Components in ReactJS with Props, State, and Testing](https://dev.to/esmat0100/building-blocks-of-success-mastering-reusable-components-in-reactjs-with-props-state-and-testing-5f77)
+- [Dev.to/JS] [Diário de bordo #9](https://dev.to/analuisadev/diario-de-bordo-9-3fhg)
+- [Dev.to/JS] [How to make a full stack facial authentication app with FaceIO and Next js](https://dev.to/steadylearner/how-to-make-a-full-stack-facial-authentication-app-with-faceio-and-next-js-3dh)
 - [Lifehacker] [How to Use Windows&#39; Alt+Tab Shortcut on a Mac](https://lifehacker.com/how-to-use-windows-alt-tab-shortcut-on-a-mac-1850063574)
+- [Dev.to/JS] [Created A AI-Powered Solution For E-commerce Products](https://dev.to/namanvyas/created-a-ai-powered-solution-for-e-commerce-products-19j)
 - [Dev.to/JS] [Optimize Your Coding with These 30 Efficient JavaScript One-Liners](https://dev.to/alex_bobes/optimize-your-coding-with-these-30-efficient-javascript-one-liners-10a5)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)
 - [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)
@@ -31,16 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remove last character from javascript string](https://dev.to/biplab3/remove-last-character-from-javascript-string-1egd)
 - [Lifehacker] [This App Unlocks Your Mac’s Hidden Features](https://lifehacker.com/this-app-unlocks-your-mac-s-hidden-features-1850063799)
 - [Dev.to/JS] [Hacking the Hackathon](https://dev.to/thawkin3/hacking-the-hackathon-2i56)
-- [Dev.to/JS] [Me all day and me when evening comes👨‍💻](https://dev.to/hanfelix369/me-all-day-and-me-when-evening-comes-529f)
 - [Lifehacker] [Make Grown-Up Cinnamon Toast With Apple Brandy Butter](https://lifehacker.com/make-fucked-up-cinnamon-toast-with-apple-brandy-butter-1850062095)
-- [Dev.to/JS] [How To Use Styled-Components In React](https://dev.to/willochs316/how-to-use-styled-components-in-react-47ld)
-- [Dev.to/JS] [Trabalhando e entendendo o conceito de APIs no JavaScript .](https://dev.to/altencirsilvajr/trabalhando-e-entendendo-o-conceito-de-apis-no-javascript--3ba2)
-- [Dev.to/JS] [How to Integrate ChatGPT to WhatsApp](https://dev.to/scofieldidehen/how-to-integrate-chatgpt-to-whatsapp-3ijb)
-- [Dev.to/JS] [Implement Single Sign On in Medusa](https://dev.to/carpad88/implement-single-sign-on-in-medusa-3284)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank:Somando diagonais em uma matrix](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerranksomando-diagonais-em-uma-matrix-5c0o)
 - [Lifehacker] [7 Ways to Butter Your Toast Without Destroying It](https://lifehacker.com/7-ways-to-butter-your-toast-without-destroying-it-1850061944)
-- [Dev.to/JS] [Why we built a Rust-powered desktop app for previewing documentation](https://dev.to/doctave/why-we-built-a-rust-powered-desktop-app-for-previewing-documentation-29nd)
-- [Dev.to/JS] [Top 10 ES6 Features that Every Developer Should know](https://dev.to/said7388/top-10-es6-features-that-every-developer-should-know-2f8g)
 - [Lifehacker] [Where to Get the Best Meal Deals for Less than $20 on Thursdays](https://lifehacker.com/where-to-get-the-best-meal-deals-for-less-than-20-on-t-1850037620)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Actually Useful Feedback From Your Boss](https://lifehacker.com/how-to-get-actually-useful-feedback-from-your-boss-1850058022)
 - [Lifehacker] [10 Anti-Valentine’s Day Gifts and Activities If You DGAF About Romance](https://lifehacker.com/10-anti-valentine-s-day-gifts-and-activities-if-you-dga-1850057786)
 - [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)
-- [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
-- [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
-- [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)<!-- TECH-POSTS:END -->
 
 ---
 
