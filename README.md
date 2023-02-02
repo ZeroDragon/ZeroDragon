@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)
+- [Dev.to/JS] [JavaScriptda Constructor Functionlar](https://dev.to/ayyubxon/javascriptda-constructor-functionlar-1fla)
+- [Dev.to/JS] [Remove last character from javascript string](https://dev.to/biplab3/remove-last-character-from-javascript-string-1egd)
+- [Lifehacker] [This App Unlocks Your Mac’s Hidden Features](https://lifehacker.com/this-app-unlocks-your-mac-s-hidden-features-1850063799)
+- [Dev.to/JS] [Hacking the Hackathon](https://dev.to/thawkin3/hacking-the-hackathon-2i56)
+- [Dev.to/JS] [Me all day and me when evening comes👨‍💻](https://dev.to/hanfelix369/me-all-day-and-me-when-evening-comes-529f)
+- [Lifehacker] [Make Grown-Up Cinnamon Toast With Apple Brandy Butter](https://lifehacker.com/make-fucked-up-cinnamon-toast-with-apple-brandy-butter-1850062095)
 - [Dev.to/JS] [How To Use Styled-Components In React](https://dev.to/willochs316/how-to-use-styled-components-in-react-47ld)
 - [Dev.to/JS] [Trabalhando e entendendo o conceito de APIs no JavaScript .](https://dev.to/altencirsilvajr/trabalhando-e-entendendo-o-conceito-de-apis-no-javascript--3ba2)
 - [Dev.to/JS] [How to Integrate ChatGPT to WhatsApp](https://dev.to/scofieldidehen/how-to-integrate-chatgpt-to-whatsapp-3ijb)
@@ -32,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why we built a Rust-powered desktop app for previewing documentation](https://dev.to/doctave/why-we-built-a-rust-powered-desktop-app-for-previewing-documentation-29nd)
 - [Dev.to/JS] [Top 10 ES6 Features that Every Developer Should know](https://dev.to/said7388/top-10-es6-features-that-every-developer-should-know-2f8g)
 - [Dev.to/JS] [The road from Ember classic to Glimmer components](https://dev.to/otainsight/the-road-from-ember-classic-to-glimmer-components-4hlc)
-- [Dev.to/JS] [Automate your personal CRM with Notion and Hazel Base](https://dev.to/gillarohith/automate-your-personal-crm-with-notion-and-hazel-base-2j5)
-- [Dev.to/JS] [Grafbase January 2023 Update](https://dev.to/grafbase/grafbase-january-2023-update-58g4)
 - [Lifehacker] [Where to Get the Best Meal Deals for Less than $20 on Thursdays](https://lifehacker.com/where-to-get-the-best-meal-deals-for-less-than-20-on-t-1850037620)
-- [Dev.to/JS] [How I made a GPT-3 Chrome Extension and earned $1143 in 2 weeks](https://dev.to/serjobas/how-i-made-a-gpt-3-chrome-extension-and-earned-1143-in-2-weeks-2eg)
-- [Dev.to/JS] [5 Must-Avoid Pitfalls in Software Development](https://dev.to/dashsaurabh/5-must-avoid-pitfalls-in-software-development-9hg)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
 - [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
 - [Lifehacker] [The Difference Between a Wage and a Salary &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-wage-and-a-salary-and-why-it-1850054939)
-- [Lifehacker] [Your Rao’s Jar Might Have the Wrong Soup Inside](https://lifehacker.com/your-rao-s-jar-might-have-the-wrong-soup-inside-1850054672)
-- [Lifehacker] [The Clueless Person’s Guide to Super Bowl LVII](https://lifehacker.com/the-clueless-person-s-guide-to-super-bowl-lvii-1850054677)
-- [Lifehacker] [How to Join Artifact, the TikTok of News](https://lifehacker.com/how-to-join-artifact-the-tiktok-of-news-1850054394)
-- [Lifehacker] [This Savory Risotto Cake Is Italy&#39;s Best Kept Secret](https://lifehacker.com/this-savory-risotto-cake-is-italys-best-kept-secret-1850054094)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Rao’s Jar Might Have the Wrong Soup Inside](https://lifehacker.com/your-rao-s-jar-might-have-the-wrong-soup-inside-1850054672)<!-- TECH-POSTS:END -->
 
 ---
 
