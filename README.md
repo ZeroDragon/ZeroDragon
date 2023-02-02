@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🛣O Guia Definitivo para Rotas com React Router](https://dev.to/mpetry/o-guia-definitivo-para-rotas-com-react-router-4n5h)
+- [Dev.to/JS] [Nextjs: Introduction](https://dev.to/lkp/nextjs-introduction-hej)
+- [Dev.to/JS] [React.js for Web Development](https://dev.to/asayerio_techblog/reactjs-for-web-development-57ck)
 - [Dev.to/JS] [Selenium Behind: Taking the Leap Into the Cypress World Part-II](https://dev.to/atulkrsharma/selenium-behind-taking-the-leap-into-the-cypress-world-part-ii-2njj)
 - [Dev.to/JS] [What Web Framework to Follow in 2023?](https://dev.to/nosherwan/what-web-framework-to-follow-in-2023-3jjd)
 - [Dev.to/JS] [Asset Pipeline JS Migration](https://dev.to/devteam/asset-pipeline-js-migration-48ki)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystification of JavaScript Code processing using V8 as the targeted engine 🔬](https://dev.to/emmanuelonah/demystification-of-javascript-code-processing-using-v8-as-the-targeted-engine-1k4a)
 - [Dev.to/JS] [10 Github repo.](https://dev.to/tamim95/10-github-repo-1ii7)
 - [Dev.to/JS] [5 important tips and tricks for React](https://dev.to/baransel/5-important-tips-and-tricks-for-react-je8)
-- [Dev.to/JS] [JavaScript Data Types](https://dev.to/catherineisonline/javascript-data-types-5ec5)
 - [Lifehacker] [Everything You Need to Know About the Samsung Galaxy S23](https://lifehacker.com/everything-you-need-to-know-about-the-samsung-galaxy-s2-1850059842)
-- [Dev.to/JS] [Functional React.Js Execution flow](https://dev.to/emmanuelonah/functional-reactjs-execution-flow-419j)
 - [Lifehacker] [Make This Decadent Nutella-Banana Lava Cake](https://lifehacker.com/make-this-decadent-nutella-banana-lava-cake-1850059390)
-- [Dev.to/JS] [Wrapper function](https://dev.to/drsimplegraffiti/wrapper-function-35je)
 - [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)
 - [Lifehacker] [Here’s How Long Abortion Pills Last](https://lifehacker.com/here-s-how-long-abortion-pills-last-1850059869)
 - [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)
