@@ -23,12 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode #121. Best Time to Buy and Sell Stock with JavaScript](https://dev.to/masakifukunishi/leetcode-121-best-time-to-buy-and-sell-stock-with-javascript-43i7)
+- [Dev.to/JS] [50 Most Asked JavaScript Interview Questions](https://dev.to/johongirr/50-most-asked-javascript-interview-questions-3d3c)
+- [Lifehacker] [How to Explain a Layoff in Your Next Job Interview](https://lifehacker.com/how-to-explain-a-layoff-in-your-next-job-interview-1850065646)
 - [Dev.to/JS] [Take Your JavaScript to the Next Level: Why Array Methods &amp; Promises Are Essential for Beginner Developers](https://dev.to/mihailtd/take-your-javascript-to-the-next-level-why-array-methods-promises-are-essential-for-beginner-developers-1o44)
 - [Lifehacker] [Your Ice Cream Needs Savory Toppings](https://lifehacker.com/your-ice-cream-needs-savory-toppings-1850065423)
 - [Dev.to/JS] [How to pass a challenging Frontend Interview in 2023 Part 1](https://dev.to/adamaslan/how-to-pass-a-challenging-frontend-interview-in-2023-part-1-1mc7)
 - [Lifehacker] [You Have Nine Days of Free Subway Footlongs Ahead of You](https://lifehacker.com/you-have-nine-days-of-free-subway-footlongs-ahead-of-yo-1850065117)
 - [Dev.to/JS] [Foundation: The Best Framework for Building Responsive Sites](https://dev.to/get_pieces/foundation-the-best-framework-for-building-responsive-sites-one)
-- [Dev.to/JS] [50 Most Asked JavaScript Interview Questions](https://dev.to/johongirr/most-asked-javascript-interview-questions-j60)
 - [Dev.to/JS] [Building Blocks of Success: Mastering Reusable Components in ReactJS with Props, State, and Testing](https://dev.to/esmat0100/building-blocks-of-success-mastering-reusable-components-in-reactjs-with-props-state-and-testing-5f77)
 - [Dev.to/JS] [Diário de bordo #9](https://dev.to/analuisadev/diario-de-bordo-9-3fhg)
 - [Dev.to/JS] [How to make a full stack facial authentication app with FaceIO and Next js](https://dev.to/steadylearner/how-to-make-a-full-stack-facial-authentication-app-with-faceio-and-next-js-3dh)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScriptda Constructor Functionlar](https://dev.to/ayyubxon/javascriptda-constructor-functionlar-1fla)
 - [Dev.to/JS] [Remove last character from javascript string](https://dev.to/biplab3/remove-last-character-from-javascript-string-1egd)
 - [Lifehacker] [This App Unlocks Your Mac’s Hidden Features](https://lifehacker.com/this-app-unlocks-your-mac-s-hidden-features-1850063799)
-- [Dev.to/JS] [Hacking the Hackathon](https://dev.to/thawkin3/hacking-the-hackathon-2i56)
 - [Lifehacker] [Make Grown-Up Cinnamon Toast With Apple Brandy Butter](https://lifehacker.com/make-fucked-up-cinnamon-toast-with-apple-brandy-butter-1850062095)
 - [Lifehacker] [7 Ways to Butter Your Toast Without Destroying It](https://lifehacker.com/7-ways-to-butter-your-toast-without-destroying-it-1850061944)
 - [Lifehacker] [Where to Get the Best Meal Deals for Less than $20 on Thursdays](https://lifehacker.com/where-to-get-the-best-meal-deals-for-less-than-20-on-t-1850037620)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use AI to Transcribe Any Audio for Free on a Mac](https://lifehacker.com/you-can-use-ai-to-transcribe-any-audio-for-free-on-a-ma-1850057778)
 - [Lifehacker] [How to Get Actually Useful Feedback From Your Boss](https://lifehacker.com/how-to-get-actually-useful-feedback-from-your-boss-1850058022)
 - [Lifehacker] [10 Anti-Valentine’s Day Gifts and Activities If You DGAF About Romance](https://lifehacker.com/10-anti-valentine-s-day-gifts-and-activities-if-you-dga-1850057786)
-- [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)
-- [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)<!-- TECH-POSTS:END -->
 
 ---
 
