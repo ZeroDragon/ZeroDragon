@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Get the Best Meal Deals for Less than $20 on Thursdays](https://lifehacker.com/where-to-get-the-best-meal-deals-for-less-than-20-on-t-1850037620)
+- [Dev.to/JS] [How I made a GPT-3 Chrome Extension and earned $1143 in 2 weeks](https://dev.to/serjobas/how-i-made-a-gpt-3-chrome-extension-and-earned-1143-in-2-weeks-2eg)
 - [Dev.to/JS] [5 Must-Avoid Pitfalls in Software Development](https://dev.to/dashsaurabh/5-must-avoid-pitfalls-in-software-development-9hg)
 - [Dev.to/JS] [Our Journey In The Open Source World - Developing plugins for the cache-candidate](https://dev.to/cadienvan/our-journey-in-the-open-source-world-developing-plugins-for-the-cache-candidate-26ae)
 - [Dev.to/JS] [Best Practices for Utility-First CSS](https://dev.to/machy8/best-practices-for-utility-first-css-mod)
-- [Dev.to/JS] [Take Your Web Development Skills to Next with Web API&#39;s](https://dev.to/eyitayoitalt/take-your-web-development-skills-to-next-with-web-apis-1n26)
-- [Dev.to/JS] [50 JavaScript Interview Questions](https://dev.to/johongirr/50-javascript-interview-questions-d8l)
+- [Dev.to/JS] [Take Your Web Development Skills to Next Level with Web API&#39;s](https://dev.to/eyitayoitalt/take-your-web-development-skills-to-next-with-web-apis-1n26)
+- [Dev.to/JS] [Top 50 JavaScript Interview Questions](https://dev.to/johongirr/50-javascript-interview-questions-d8l)
 - [Dev.to/JS] [How to iterate object keys in JavaScript?](https://dev.to/sandgates/how-to-iterate-object-keys-in-javascript-4gpp)
 - [Dev.to/JS] [JavaScript: O que é Intl?](https://dev.to/cristuker/javascript-o-que-e-intl-13bp)
 - [Dev.to/JS] [Conventional Commits - Specification for Your Commit Messages](https://dev.to/carlosazaustre/conventional-commits-specification-for-your-commit-messages-14lo)
 - [Dev.to/JS] [Serve your React build locally with nginx through docker](https://dev.to/thraizz/serve-your-react-build-locally-with-nginx-through-docker-2pdb)
 - [Dev.to/JS] [12 Most Helpful jQuery Methods and Functions](https://dev.to/dev14/12-most-helpful-jquery-methods-and-functions-lpk)
 - [Dev.to/JS] [8 Most useful Jquery Selectors - You Need To Know](https://dev.to/dev14/8-most-useful-jquery-selectors-you-need-to-know-2jkm)
-- [Dev.to/JS] [Top 5 Popular React Native App Development Companies in 2023](https://dev.to/ronrose2212/top-5-popular-react-native-app-development-companies-in-2023-1i7f)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Clueless Person’s Guide to Super Bowl LVII](https://lifehacker.com/the-clueless-person-s-guide-to-super-bowl-lvii-1850054677)
 - [Lifehacker] [How to Join Artifact, the TikTok of News](https://lifehacker.com/how-to-join-artifact-the-tiktok-of-news-1850054394)
 - [Lifehacker] [This Savory Risotto Cake Is Italy&#39;s Best Kept Secret](https://lifehacker.com/this-savory-risotto-cake-is-italys-best-kept-secret-1850054094)
-- [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)
-- [Lifehacker] [It’s OK to Give Up On Things](https://lifehacker.com/it-s-ok-to-give-up-on-things-1850053625)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These National Pizza Day Deals Offer the Perfect Excuse](https://lifehacker.com/these-national-pizza-day-deals-offer-the-perfect-excuse-1850053926)<!-- TECH-POSTS:END -->
 
 ---
 
