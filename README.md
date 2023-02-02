@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use Windows&#39; Alt+Tab Shortcut on a Mac](https://lifehacker.com/how-to-use-windows-alt-tab-shortcut-on-a-mac-1850063574)
+- [Dev.to/JS] [Optimize Your Coding with These 30 Efficient JavaScript One-Liners](https://dev.to/alex_bobes/optimize-your-coding-with-these-30-efficient-javascript-one-liners-10a5)
+- [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)
 - [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)
 - [Dev.to/JS] [JavaScriptda Constructor Functionlar](https://dev.to/ayyubxon/javascriptda-constructor-functionlar-1fla)
 - [Dev.to/JS] [Remove last character from javascript string](https://dev.to/biplab3/remove-last-character-from-javascript-string-1egd)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Ways to Butter Your Toast Without Destroying It](https://lifehacker.com/7-ways-to-butter-your-toast-without-destroying-it-1850061944)
 - [Dev.to/JS] [Why we built a Rust-powered desktop app for previewing documentation](https://dev.to/doctave/why-we-built-a-rust-powered-desktop-app-for-previewing-documentation-29nd)
 - [Dev.to/JS] [Top 10 ES6 Features that Every Developer Should know](https://dev.to/said7388/top-10-es6-features-that-every-developer-should-know-2f8g)
-- [Dev.to/JS] [The road from Ember classic to Glimmer components](https://dev.to/otainsight/the-road-from-ember-classic-to-glimmer-components-4hlc)
 - [Lifehacker] [Where to Get the Best Meal Deals for Less than $20 on Thursdays](https://lifehacker.com/where-to-get-the-best-meal-deals-for-less-than-20-on-t-1850037620)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Beef for Your Stew](https://lifehacker.com/this-is-the-best-beef-for-your-stew-1850055871)
 - [Lifehacker] [&#39;Reverse Dieting&#39; Is Not a Weight Loss Cheat Code](https://lifehacker.com/reverse-dieting-is-not-a-weight-loss-cheat-code-1850056077)
 - [Lifehacker] [Scramble Your Eggs in a Puddle of Simmering Cream](https://lifehacker.com/scramble-your-eggs-in-a-puddle-of-simmering-cream-1850055008)
-- [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)
-- [Lifehacker] [The Difference Between a Wage and a Salary &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-a-wage-and-a-salary-and-why-it-1850054939)
-- [Lifehacker] [Your Rao’s Jar Might Have the Wrong Soup Inside](https://lifehacker.com/your-rao-s-jar-might-have-the-wrong-soup-inside-1850054672)<!-- TECH-POSTS:END -->
+- [Lifehacker] [24 Ways You Can Use Magic Erasers &lpar;But Aren&#39;t&rpar;](https://lifehacker.com/24-ways-you-can-use-magic-erasers-but-arent-1850055768)<!-- TECH-POSTS:END -->
 
 ---
 
