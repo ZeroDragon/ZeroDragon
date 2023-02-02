@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Step-by-Step Guide to Continuous Integration for Your Node.js Application](https://dev.to/pavanbelagatti/a-step-by-step-guide-to-continuous-integration-for-your-nodejs-application-3bhc)
+- [Dev.to/JS] [Configuring worker plugins in Vite 2.8](https://dev.to/danielonugha0/configuring-worker-plugins-in-vite-28-5dic)
 - [Dev.to/JS] [Prime Male - Ingredients, Results, Pros, Cons, Benefits &amp; Price?](https://dev.to/primemale3/prime-male-ingredients-results-pros-cons-benefits-price-41gc)
 - [Dev.to/JS] [Build a responsive three columns chat layout with HTML/CSS/JS](https://dev.to/dom_the_dev/build-a-responsive-three-columns-chat-layout-with-htmlcssjs-29j9)
 - [Dev.to/JS] [A Week with Appwrite: My Experience as a New User](https://dev.to/kartikpuri95/a-week-with-appwrite-my-experience-as-a-new-user-226e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Scraping With Puppeteer for Total Noobs: Part 2](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-2-3on8)
 - [Dev.to/JS] [🛣O Guia Definitivo sobre Rotas com React Router](https://dev.to/mpetry/o-guia-definitivo-para-rotas-com-react-router-4n5h)
 - [Dev.to/JS] [Nextjs: Introduction](https://dev.to/lkp/nextjs-introduction-hej)
-- [Dev.to/JS] [React.js for Web Development](https://dev.to/asayerio_techblog/reactjs-for-web-development-57ck)
-- [Dev.to/JS] [Selenium Behind: Taking the Leap Into the Cypress World Part-II](https://dev.to/atulkrsharma/selenium-behind-taking-the-leap-into-the-cypress-world-part-ii-2njj)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
