@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Week with Appwrite: My Experience as a New User](https://dev.to/kartikpuri95/a-week-with-appwrite-my-experience-as-a-new-user-226e)
 - [Dev.to/JS] [953. Leetcode Solution in Javascript](https://dev.to/chiki1601/953-leetcode-solution-in-javascript-gp8)
 - [Dev.to/JS] [CryptoBox base on wails.io](https://dev.to/istommao/cryptobox-base-on-wailsio-2k6m)
 - [Dev.to/JS] [8 Free Courses in Web Dev, AI, ML &amp; Programming from Top Universities](https://dev.to/rahul3002/8-free-courses-in-web-dev-ai-ml-programming-from-top-universities-570i)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Selenium Behind: Taking the Leap Into the Cypress World Part-II](https://dev.to/atulkrsharma/selenium-behind-taking-the-leap-into-the-cypress-world-part-ii-2njj)
 - [Dev.to/JS] [What Web Framework to Follow in 2023?](https://dev.to/nosherwan/what-web-framework-to-follow-in-2023-3jjd)
 - [Dev.to/JS] [Asset Pipeline JS Migration](https://dev.to/devteam/asset-pipeline-js-migration-48ki)
-- [Dev.to/JS] [JSTools Weekly - 2023#4](https://dev.to/jstoolsweekly/jstools-weekly-20234-2ihm)
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
