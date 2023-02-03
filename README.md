@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [With Astro into the future!](https://dev.to/airborne04/with-astro-into-the-future-3e20)
+- [Dev.to/JS] [TypeScript Utility Types You Need to Know](https://dev.to/builderio/typescript-utility-types-you-need-to-know-14b7)
+- [Dev.to/JS] [Data storage in the Web](https://dev.to/oluwatrillions/data-storage-in-the-web-4dd1)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Maçãs e Laranjas,dentro e fora de casa!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-macas-e-laranjasdentro-e-fora-de-casa-4ha0)
+- [Dev.to/JS] [Git Simplified: A Guide for Beginners](https://dev.to/rahul3002/git-simplified-a-guide-for-beginners-40id)
 - [Dev.to/JS] [Create a Responsive Website Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/create-a-responsive-website-using-html-css-javascript-4l5n)
 - [Dev.to/JS] [Delete your Twitter data while it&#39;s still free. &lpar;so until February 9th 2023&rpar;](https://dev.to/alhern/delete-your-twitter-data-while-its-still-free-so-until-february-9th-2023-38mb)
 - [Dev.to/JS] [Create a real-time data analytics platform with Appwrite and Nuxtjs](https://dev.to/hackmamba/create-a-real-time-data-analytics-platform-with-appwrite-and-nuxtjs-5f84)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dependency Inversion Principle with TypeScript Interfaces &amp; Decorators](https://dev.to/mbarzeev/dependency-inversion-principle-with-typescript-interfaces-decorators-2fd6)
 - [Dev.to/JS] [Controlled vs Uncontrolled Elements](https://dev.to/helderberto/controlled-vs-uncontrolled-elements-5513)
 - [Dev.to/JS] [5 Impressive Javascript projects you can build easily &lpar;Tutorials Included&rpar;](https://dev.to/acode123/5-impressive-javascript-projects-you-can-build-easily-tutorials-included-4dcn)
-- [Dev.to/JS] [Three js: Scene, Camera and Renderer](https://dev.to/sakaz22/three-js-scene-camera-and-renderer-3jd6)
-- [Dev.to/JS] [Environment Variables with PM2 + Infisical](https://dev.to/dangtony98/syncing-environment-variables-with-pm2-infisical-312a)
-- [Dev.to/JS] [Understanding React useEffect hook&#39;s Dependency](https://dev.to/codedsalis/understanding-react-useeffect-hooks-dependency-56nh)
-- [Dev.to/JS] [Calling Hooks properly](https://dev.to/lausuarez02/calling-hooks-properly-50o5)
-- [Dev.to/JS] [Multi-threaded React App using useWorker](https://dev.to/nilanth/multi-threaded-react-app-using-useworker-gf8)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
