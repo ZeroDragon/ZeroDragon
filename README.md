@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Better at Managing Your Emotions Even As an Adult](https://lifehacker.com/you-can-get-better-at-managing-your-emotions-even-as-an-1850056683)
+- [Dev.to/JS] [JavaScript function call&lpar;&rpar; and apply&lpar;&rpar; method:](https://dev.to/anateotfw/javascript-function-call-and-apply-method-3noo)
+- [Dev.to/JS] [What is react-testing-library and what is it used for?](https://dev.to/jordandev/what-is-react-testing-library-and-what-is-it-used-for-1jp4)
+- [Lifehacker] [You Can Get Up to Four Months of Apple Music and Apple TV+ for Free](https://lifehacker.com/you-can-get-up-to-four-months-of-apple-music-and-apple-1850069330)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Watching &#39;The Last of Us&#39;?](https://lifehacker.com/why-is-everyone-watching-the-last-of-us-the-out-of-tou-1850068835)
 - [Dev.to/JS] [Setup repository nextjs app like a pro 😎](https://dev.to/tomibudis/setup-repository-nextjs-app-like-a-pro-1lij)
 - [Dev.to/JS] [How To Implement A Single Page Modular App Architecture Using Pure HTML, CSS, Javascript](https://dev.to/superflowsdev/how-to-implement-a-single-page-modular-app-architecture-using-pure-html-css-javascript-137f)
 - [Lifehacker] [11 Expansive Cinematic Universes That Aren&#39;t Marvel or Star Wars](https://lifehacker.com/11-expansive-cinematic-universes-that-arent-marvel-or-s-1850060990)
@@ -35,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Maçãs e Laranjas,dentro e fora de casa!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-macas-e-laranjasdentro-e-fora-de-casa-4ha0)
 - [Dev.to/JS] [Git Simplified: A Guide for Beginners](https://dev.to/rahul3002/git-simplified-a-guide-for-beginners-40id)
 - [Dev.to/JS] [Create a Responsive Website Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/create-a-responsive-website-using-html-css-javascript-4l5n)
-- [Dev.to/JS] [Delete your Twitter data while it&#39;s still free. &lpar;so until February 9th 2023&rpar;](https://dev.to/alhern/delete-your-twitter-data-while-its-still-free-so-until-february-9th-2023-38mb)
-- [Dev.to/JS] [Create a real-time data analytics platform with Appwrite and Nuxtjs](https://dev.to/hackmamba/create-a-real-time-data-analytics-platform-with-appwrite-and-nuxtjs-5f84)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
 - [Lifehacker] [All the Cool Kids Are Smashing Their Broccoli](https://lifehacker.com/all-the-cool-kids-are-smashing-their-broccoli-1850061271)
-- [Lifehacker] [This Canned Meat and Poultry Might Be Contaminated](https://lifehacker.com/this-canned-meat-and-poultry-might-be-contaminated-1850061080)
-- [Lifehacker] [Everything You Need to Know About the Samsung Galaxy S23](https://lifehacker.com/everything-you-need-to-know-about-the-samsung-galaxy-s2-1850059842)
-- [Lifehacker] [Make This Decadent Nutella-Banana Lava Cake](https://lifehacker.com/make-this-decadent-nutella-banana-lava-cake-1850059390)
-- [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Canned Meat and Poultry Might Be Contaminated](https://lifehacker.com/this-canned-meat-and-poultry-might-be-contaminated-1850061080)<!-- TECH-POSTS:END -->
 
 ---
 
