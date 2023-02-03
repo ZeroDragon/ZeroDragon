@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 Must-Know Rules for Writing Clean Code](https://dev.to/mitchealrocher/8-must-know-rules-for-writing-clean-code-53bd)
 - [Dev.to/JS] [Awesome Chrome extensions to maximize your productivity 10X](https://dev.to/hy_piyush/awesome-chrome-extensions-to-maximize-your-productivity-10x-2e32)
 - [Dev.to/JS] [Create a custom ScrollView using FlatList in React Native](https://dev.to/nayanishdamania/create-a-custom-scrollview-using-flatlist-in-react-native-2k9j)
 - [Dev.to/JS] [NeuroTonix - Brain Booster supplement, Pros, Cons, Uses &amp; Price?](https://dev.to/tonixneuro/neurotonix-brain-booster-supplement-pros-cons-uses-price-24bf)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript, NextJS, Strapi, and GraphQL: An Overview Of How I Created My Blog](https://dev.to/kadiemq/typescript-nextjs-strapi-and-graphql-an-overview-of-how-i-created-my-blog-61g)
 - [Dev.to/JS] [Top Certification Programs for Boosting Your Earning Potential in 2023](https://dev.to/scofieldidehen/top-certification-programs-for-boosting-your-earning-potential-in-2023-c8i)
 - [Dev.to/JS] [Avoid using &lpar;&rpar; =&gt; void in 2023](https://dev.to/shamyyl/avoid-using-void-in-2023-9k9)
-- [Dev.to/JS] [6. Leetcode Solution in Javascript](https://dev.to/chiki1601/6-leetcode-solution-in-javascript-1dn8)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
