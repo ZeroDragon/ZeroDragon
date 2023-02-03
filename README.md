@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup repository nextjs app like a pro 😎](https://dev.to/tomibudis/setup-repository-nextjs-app-like-a-pro-1lij)
+- [Dev.to/JS] [How To Implement A Single Page Modular App Architecture Using Pure HTML, CSS, Javascript](https://dev.to/superflowsdev/how-to-implement-a-single-page-modular-app-architecture-using-pure-html-css-javascript-137f)
+- [Lifehacker] [11 Expansive Cinematic Universes That Aren&#39;t Marvel or Star Wars](https://lifehacker.com/11-expansive-cinematic-universes-that-arent-marvel-or-s-1850060990)
+- [Lifehacker] [You Need to Sizzle Some Onions](https://lifehacker.com/you-need-to-sizzle-some-onions-1850068583)
 - [Dev.to/JS] [Creating and Broadcasting a &quot;LoFi Radio&quot; Station with Amazon IVS](https://dev.to/aws/creating-and-broadcasting-a-lofi-radio-station-with-amazon-ivs-4nk1)
 - [Dev.to/JS] [Arduino Projects For Engineering Students](https://dev.to/arunprakash142/arduino-projects-for-engineering-students-5pd)
 - [Dev.to/JS] [With Astro into the future!](https://dev.to/airborne04/with-astro-into-the-future-3e20)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Responsive Website Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/create-a-responsive-website-using-html-css-javascript-4l5n)
 - [Dev.to/JS] [Delete your Twitter data while it&#39;s still free. &lpar;so until February 9th 2023&rpar;](https://dev.to/alhern/delete-your-twitter-data-while-its-still-free-so-until-february-9th-2023-38mb)
 - [Dev.to/JS] [Create a real-time data analytics platform with Appwrite and Nuxtjs](https://dev.to/hackmamba/create-a-real-time-data-analytics-platform-with-appwrite-and-nuxtjs-5f84)
-- [Dev.to/JS] [Technologies I&#39;m learning in 2023](https://dev.to/ibrahimraimi/technologies-im-learning-in-2023-4l52)
-- [Dev.to/JS] [Dependency Inversion Principle with TypeScript Interfaces &amp; Decorators](https://dev.to/mbarzeev/dependency-inversion-principle-with-typescript-interfaces-decorators-2fd6)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Canned Meat and Poultry Might Be Contaminated](https://lifehacker.com/this-canned-meat-and-poultry-might-be-contaminated-1850061080)
 - [Lifehacker] [Everything You Need to Know About the Samsung Galaxy S23](https://lifehacker.com/everything-you-need-to-know-about-the-samsung-galaxy-s2-1850059842)
 - [Lifehacker] [Make This Decadent Nutella-Banana Lava Cake](https://lifehacker.com/make-this-decadent-nutella-banana-lava-cake-1850059390)
-- [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)
-- [Lifehacker] [Here’s How Long Abortion Pills Last](https://lifehacker.com/here-s-how-long-abortion-pills-last-1850059869)
-- [Lifehacker] [You Need a Mesh Laundry Bag for Your Dishwasher](https://lifehacker.com/you-need-a-mesh-laundry-bag-for-your-dishwasher-1850058838)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Sunscreen Might Be Spraying Benzene on You](https://lifehacker.com/your-sunscreen-might-be-spraying-benzene-on-you-1850059422)<!-- TECH-POSTS:END -->
 
 ---
 
