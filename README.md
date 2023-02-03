@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [I&#39;ve created a full-stack user permission model, should I go open-source?](https://dev.to/keinu/ive-created-a-full-stack-user-permission-model-should-i-go-open-source-2bng)
+- [Dev.to/JS] [I&#39;ve created a full-stack user permission model, should I go open-source?](https://dev.to/aws-builders/ive-created-a-full-stack-user-permission-model-should-i-go-open-source-2bng)
 - [Dev.to/JS] [💻 7 Tips for Writing Clean and Efficient React Code](https://dev.to/naubit/7-tips-for-writing-clean-and-efficient-react-code-34e7)
 - [Dev.to/JS] [Netlify Deployment error Fix: &#39;Treating warnings as errors because process.env.CI=true&#39;](https://dev.to/ifeoma/netlify-deployment-error-fix-treating-warnings-as-errors-because-processenvcitrue-3kje)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
