@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Finish Your Ramen With a Drizzle of Flavor-Packed Oil](https://lifehacker.com/finish-your-ramen-with-a-drizzle-of-flavor-packed-oil-1850071841)
+- [Lifehacker] [The Two Easiest Ways to Get a Duvet Cover On](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)
+- [Dev.to/JS] [Imlie Online](https://dev.to/imliefullepisode/imlie-online-3ogb)
 - [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2023](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
 - [Dev.to/JS] [Learning web development and JavaScript programming language](https://dev.to/simsekahmett/learning-web-development-and-javascript-programming-language-3nna)
 - [Dev.to/JS] [15 unorthodox APIs to Elevate Your Project 🔥](https://dev.to/acidop/15-unorthodox-apis-to-elevate-your-project-32eh)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Synchronous and Asynchronous Programming in JavaScript](https://dev.to/get_pieces/synchronous-and-asynchronous-programming-in-javascript-1agm)
 - [Lifehacker] [10 Podcasts That Spill Juicy, Scandalous Secrets](https://lifehacker.com/10-podcasts-that-spill-juicy-scandalous-secrets-1850045092)
 - [Lifehacker] [Why You Shouldn&#39;t Use AI for Your Cover Letters](https://lifehacker.com/why-you-shouldnt-use-ai-for-your-cover-letters-1850067441)
-- [Dev.to/JS] [ES Modules and CommonJS: An Overview](https://dev.to/costamatheus97/es-modules-and-commonjs-an-overview-1i4b)
 - [Lifehacker] [You Can Get Better at Managing Your Emotions Even As an Adult](https://lifehacker.com/you-can-get-better-at-managing-your-emotions-even-as-an-1850056683)
 - [Lifehacker] [You Can Get Up to Four Months of Apple Music and Apple TV+ for Free](https://lifehacker.com/you-can-get-up-to-four-months-of-apple-music-and-apple-1850069330)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Watching &#39;The Last of Us&#39;?](https://lifehacker.com/why-is-everyone-watching-the-last-of-us-the-out-of-tou-1850068835)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Have Nine Days of Free Subway Footlongs Ahead of You](https://lifehacker.com/you-have-nine-days-of-free-subway-footlongs-ahead-of-yo-1850065117)
 - [Lifehacker] [How to Use Windows&#39; Alt+Tab Shortcut on a Mac](https://lifehacker.com/how-to-use-windows-alt-tab-shortcut-on-a-mac-1850063574)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)
-- [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)
-- [Lifehacker] [This App Unlocks Your Mac’s Hidden Features](https://lifehacker.com/this-app-unlocks-your-mac-s-hidden-features-1850063799)
-- [Lifehacker] [Make Grown-Up Cinnamon Toast With Apple Brandy Butter](https://lifehacker.com/make-fucked-up-cinnamon-toast-with-apple-brandy-butter-1850062095)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)<!-- TECH-POSTS:END -->
 
 ---
 
