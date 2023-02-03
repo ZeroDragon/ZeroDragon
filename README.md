@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Shouldn&#39;t Use AI for Your Cover Letters](https://lifehacker.com/why-you-shouldnt-use-ai-for-your-cover-letters-1850067441)
+- [Dev.to/JS] [ES Modules and CommonJS: An Overview](https://dev.to/costamatheus97/es-modules-and-commonjs-an-overview-1i4b)
+- [Dev.to/JS] [Character Counter](https://dev.to/sanketbodake/character-counter-448i)
 - [Lifehacker] [You Can Get Better at Managing Your Emotions Even As an Adult](https://lifehacker.com/you-can-get-better-at-managing-your-emotions-even-as-an-1850056683)
-- [Dev.to/JS] [JavaScript function call&lpar;&rpar; and apply&lpar;&rpar; method:](https://dev.to/anateotfw/javascript-function-call-and-apply-method-3noo)
+- [Dev.to/JS] [JavaScript function call&lpar;&rpar; method:](https://dev.to/anateotfw/javascript-function-call-and-apply-method-3noo)
 - [Dev.to/JS] [What is react-testing-library and what is it used for?](https://dev.to/jordandev/what-is-react-testing-library-and-what-is-it-used-for-1jp4)
 - [Lifehacker] [You Can Get Up to Four Months of Apple Music and Apple TV+ for Free](https://lifehacker.com/you-can-get-up-to-four-months-of-apple-music-and-apple-1850069330)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Watching &#39;The Last of Us&#39;?](https://lifehacker.com/why-is-everyone-watching-the-last-of-us-the-out-of-tou-1850068835)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Utility Types You Need to Know](https://dev.to/builderio/typescript-utility-types-you-need-to-know-14b7)
 - [Dev.to/JS] [Data storage in the Web](https://dev.to/oluwatrillions/data-storage-in-the-web-4dd1)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Maçãs e Laranjas,dentro e fora de casa!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-macas-e-laranjasdentro-e-fora-de-casa-4ha0)
-- [Dev.to/JS] [Git Simplified: A Guide for Beginners](https://dev.to/rahul3002/git-simplified-a-guide-for-beginners-40id)
-- [Dev.to/JS] [Create a Responsive Website Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/create-a-responsive-website-using-html-css-javascript-4l5n)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)
 - [Lifehacker] [Don’t Make These Common Beginner Running Mistakes](https://lifehacker.com/don-t-make-these-common-beginner-running-mistakes-1850061544)
 - [Lifehacker] [7 Ways to De-Gunk Your Pans](https://lifehacker.com/7-ways-to-de-gunk-your-pans-1850061415)
-- [Lifehacker] [All the Cool Kids Are Smashing Their Broccoli](https://lifehacker.com/all-the-cool-kids-are-smashing-their-broccoli-1850061271)
-- [Lifehacker] [This Canned Meat and Poultry Might Be Contaminated](https://lifehacker.com/this-canned-meat-and-poultry-might-be-contaminated-1850061080)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Cool Kids Are Smashing Their Broccoli](https://lifehacker.com/all-the-cool-kids-are-smashing-their-broccoli-1850061271)<!-- TECH-POSTS:END -->
 
 ---
 
