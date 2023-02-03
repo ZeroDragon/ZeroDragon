@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6. Leetcode Solution in Javascript](https://dev.to/chiki1601/6-leetcode-solution-in-javascript-1dn8)
+- [Dev.to/JS] [How to Crack Any Manual Testing Interview | Manual Testing Interview](https://dev.to/promode/how-to-crack-any-manual-testing-interview-manual-testing-interview-1da9)
 - [Dev.to/JS] [Is play sports activities correct?](https://dev.to/thomas23459/is-play-sports-activities-correct-4pmf)
 - [Dev.to/JS] [Compare Hash Passwords Using Crypto Module using the Node.js [part 2]](https://dev.to/jobizil/compare-hash-passwords-using-crypto-module-using-the-nodejs-part-2-3304)
 - [Dev.to/JS] [Hash Passwords Using Crypto Module using the Node.js [part 1]](https://dev.to/jobizil/hash-passwords-using-crypto-module-using-the-nodejs-part-1-4l01)
@@ -38,11 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Ways to Give Your Valentine the Gift of Meat](https://lifehacker.com/8-ways-to-give-your-valentine-the-gift-of-meat-1850066252)
 - [Dev.to/JS] [Client Components and use client in Next.js App Directory](https://dev.to/thetombomb/client-components-and-use-client-in-nextjs-app-directory-5738)
 - [Lifehacker] [These Streaming Services Still Let You Share Passwords](https://lifehacker.com/these-streaming-services-still-let-you-share-passwords-1850065273)
-- [Dev.to/JS] [Angular code simplicity with inject](https://dev.to/tomwebwalker/angular-code-simplicity-with-inject-54jm)
 - [Lifehacker] [Stop Using These Eyedrops Immediately, CDC Says](https://lifehacker.com/stop-using-these-eyedrops-immediately-cdc-says-1850066025)
 - [Lifehacker] [10 of the Most Common Pieces of Lifting Gear &lpar;and When to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-pieces-of-lifting-gear-and-when-1850065827)
 - [Lifehacker] [How to Avoid Unexpected Costs During a Hospital Stay](https://lifehacker.com/how-to-avoid-unexpected-costs-during-a-hospital-stay-1850065392)
-- [Dev.to/JS] [LeetCode #121. Best Time to Buy and Sell Stock with JavaScript](https://dev.to/masakifukunishi/leetcode-121-best-time-to-buy-and-sell-stock-with-javascript-43i7)
 - [Lifehacker] [How to Explain a Layoff in Your Next Job Interview](https://lifehacker.com/how-to-explain-a-layoff-in-your-next-job-interview-1850065646)
 - [Lifehacker] [Your Ice Cream Needs Savory Toppings](https://lifehacker.com/your-ice-cream-needs-savory-toppings-1850065423)
 - [Lifehacker] [You Have Nine Days of Free Subway Footlongs Ahead of You](https://lifehacker.com/you-have-nine-days-of-free-subway-footlongs-ahead-of-yo-1850065117)
