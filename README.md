@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2023](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
+- [Dev.to/JS] [Learning web development and JavaScript programming language](https://dev.to/simsekahmett/learning-web-development-and-javascript-programming-language-3nna)
+- [Dev.to/JS] [15 unorthodox APIs to Elevate Your Project 🔥](https://dev.to/acidop/15-unorthodox-apis-to-elevate-your-project-32eh)
+- [Dev.to/JS] [Introduction to Monorepo in React](https://dev.to/danireptor/introduction-to-monorepo-in-react-1b3a)
+- [Dev.to/JS] [AI Product Tools: AI Powered Product Tools for your e-commerce&#39;s success](https://dev.to/namanvyas/ai-product-tools-ai-powered-product-toolsfor-your-e-commerces-success-3m3a)
+- [Lifehacker] [19 Eggless Desserts to Help You Cope With Eggflation](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
 - [Dev.to/JS] [Mastering Middleware in Express.js: A Beginner&#39;s Guide](https://dev.to/nickk2305/mastering-middleware-in-expressjs-a-beginners-guide-5a4f)
 - [Dev.to/JS] [JavaScript and Object Oriented Programming with its four pillar:#JS-4](https://dev.to/srishtikprasad/javascript-and-object-oriented-programming-with-its-four-pillar-14e6)
 - [Dev.to/JS] [JavaScript Higher Order Methods](https://dev.to/prerna0202/javascript-higher-order-methods-4jp4)
@@ -36,13 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Podcasts That Spill Juicy, Scandalous Secrets](https://lifehacker.com/10-podcasts-that-spill-juicy-scandalous-secrets-1850045092)
 - [Lifehacker] [Why You Shouldn&#39;t Use AI for Your Cover Letters](https://lifehacker.com/why-you-shouldnt-use-ai-for-your-cover-letters-1850067441)
 - [Dev.to/JS] [ES Modules and CommonJS: An Overview](https://dev.to/costamatheus97/es-modules-and-commonjs-an-overview-1i4b)
-- [Dev.to/JS] [Character Counter](https://dev.to/sanketbodake/character-counter-448i)
 - [Lifehacker] [You Can Get Better at Managing Your Emotions Even As an Adult](https://lifehacker.com/you-can-get-better-at-managing-your-emotions-even-as-an-1850056683)
-- [Dev.to/JS] [JavaScript function call&lpar;&rpar; method:](https://dev.to/anateotfw/javascript-function-call-and-apply-method-3noo)
-- [Dev.to/JS] [What is react-testing-library and what is it used for?](https://dev.to/jordandev/what-is-react-testing-library-and-what-is-it-used-for-1jp4)
 - [Lifehacker] [You Can Get Up to Four Months of Apple Music and Apple TV+ for Free](https://lifehacker.com/you-can-get-up-to-four-months-of-apple-music-and-apple-1850069330)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Watching &#39;The Last of Us&#39;?](https://lifehacker.com/why-is-everyone-watching-the-last-of-us-the-out-of-tou-1850068835)
-- [Dev.to/JS] [Setup repository nextjs app like a pro 😎](https://dev.to/tomibudis/setup-repository-nextjs-app-like-a-pro-1lij)
 - [Lifehacker] [11 Expansive Cinematic Universes That Aren&#39;t Marvel or Star Wars](https://lifehacker.com/11-expansive-cinematic-universes-that-arent-marvel-or-s-1850060990)
 - [Lifehacker] [You Need to Sizzle Some Onions](https://lifehacker.com/you-need-to-sizzle-some-onions-1850068583)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)
 - [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)
 - [Lifehacker] [This App Unlocks Your Mac’s Hidden Features](https://lifehacker.com/this-app-unlocks-your-mac-s-hidden-features-1850063799)
-- [Lifehacker] [Make Grown-Up Cinnamon Toast With Apple Brandy Butter](https://lifehacker.com/make-fucked-up-cinnamon-toast-with-apple-brandy-butter-1850062095)
-- [Lifehacker] [7 Ways to Butter Your Toast Without Destroying It](https://lifehacker.com/7-ways-to-butter-your-toast-without-destroying-it-1850061944)
-- [Lifehacker] [Where to Get the Best Meal Deals for Less than $20 on Thursdays](https://lifehacker.com/where-to-get-the-best-meal-deals-for-less-than-20-on-t-1850037620)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Grown-Up Cinnamon Toast With Apple Brandy Butter](https://lifehacker.com/make-fucked-up-cinnamon-toast-with-apple-brandy-butter-1850062095)<!-- TECH-POSTS:END -->
 
 ---
 
