@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Responsive Website Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/create-a-responsive-website-using-html-css-javascript-4l5n)
+- [Dev.to/JS] [Delete your Twitter data while it&#39;s still free. &lpar;so until February 9th 2023&rpar;](https://dev.to/alhern/delete-your-twitter-data-while-its-still-free-so-until-february-9th-2023-38mb)
+- [Dev.to/JS] [Create a real-time data analytics platform with Appwrite and Nuxtjs](https://dev.to/hackmamba/create-a-real-time-data-analytics-platform-with-appwrite-and-nuxtjs-5f84)
+- [Dev.to/JS] [Technologies I&#39;m learning in 2023](https://dev.to/ibrahimraimi/technologies-im-learning-in-2023-4l52)
 - [Dev.to/JS] [Dependency Inversion Principle with TypeScript Interfaces &amp; Decorators](https://dev.to/mbarzeev/dependency-inversion-principle-with-typescript-interfaces-decorators-2fd6)
 - [Dev.to/JS] [Controlled vs Uncontrolled Elements](https://dev.to/helderberto/controlled-vs-uncontrolled-elements-5513)
 - [Dev.to/JS] [5 Impressive Javascript projects you can build easily &lpar;Tutorials Included&rpar;](https://dev.to/acode123/5-impressive-javascript-projects-you-can-build-easily-tutorials-included-4dcn)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding React useEffect hook&#39;s Dependency](https://dev.to/codedsalis/understanding-react-useeffect-hooks-dependency-56nh)
 - [Dev.to/JS] [Calling Hooks properly](https://dev.to/lausuarez02/calling-hooks-properly-50o5)
 - [Dev.to/JS] [Multi-threaded React App using useWorker](https://dev.to/nilanth/multi-threaded-react-app-using-useworker-gf8)
-- [Dev.to/JS] [Symmetric Difference of Arrays in JavaScript](https://dev.to/zirkelc/symmetric-difference-of-arrays-in-javascript-224f)
-- [Dev.to/JS] [Create your first WebSockets-based application in NestJS](https://dev.to/leduc1901/create-your-first-websockets-based-application-in-nestjs-2hp)
-- [Dev.to/JS] [I&#39;m looking to contribute to open-source projects. Can anyone recommend a good starting point?](https://dev.to/nigamtarun018/im-looking-to-contribute-to-open-source-projects-can-anyone-recommend-a-good-starting-point-2agh)
-- [Dev.to/JS] [What are some of the best ways to stay motivated while coding?](https://dev.to/nigamtarun018/what-are-some-of-the-best-ways-to-stay-motivated-while-coding-285g)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
