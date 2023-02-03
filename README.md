@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Discord Bots in 2023](https://dev.to/yosileyid/creating-discord-bots-in-2023-473e)
+- [Dev.to/JS] [Top Certification Programs for Boosting Your Earning Potential in 2023](https://dev.to/scofieldidehen/top-certification-programs-for-boosting-your-earning-potential-in-2023-c8i)
+- [Dev.to/JS] [Avoid using &lpar;&rpar; =&gt; void in 2023](https://dev.to/shamyyl/avoid-using-void-in-2023-9k9)
 - [Dev.to/JS] [6. Leetcode Solution in Javascript](https://dev.to/chiki1601/6-leetcode-solution-in-javascript-1dn8)
 - [Dev.to/JS] [How to Crack Any Manual Testing Interview | Manual Testing Interview](https://dev.to/promode/how-to-crack-any-manual-testing-interview-manual-testing-interview-1da9)
 - [Dev.to/JS] [Is play sports activities correct?](https://dev.to/thomas23459/is-play-sports-activities-correct-4pmf)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Dev.to/JS] [Auto commit with LaunchAgents &amp; JavaScript](https://dev.to/jlong4223/auto-commit-with-launchagents-javascript-21cg)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
-- [Dev.to/JS] [Javascript: What You Need to Know &lpar;Part one&rpar;](https://dev.to/stevedev/javascript-what-you-need-to-know-part-one-1dh3)
-- [Dev.to/JS] [MyNodeJourneyIn2Days](https://dev.to/rpbee/mynodejourneyin2days-24c6)
 - [Lifehacker] [8 Ways to Give Your Valentine the Gift of Meat](https://lifehacker.com/8-ways-to-give-your-valentine-the-gift-of-meat-1850066252)
-- [Dev.to/JS] [Client Components and use client in Next.js App Directory](https://dev.to/thetombomb/client-components-and-use-client-in-nextjs-app-directory-5738)
 - [Lifehacker] [These Streaming Services Still Let You Share Passwords](https://lifehacker.com/these-streaming-services-still-let-you-share-passwords-1850065273)
 - [Lifehacker] [Stop Using These Eyedrops Immediately, CDC Says](https://lifehacker.com/stop-using-these-eyedrops-immediately-cdc-says-1850066025)
 - [Lifehacker] [10 of the Most Common Pieces of Lifting Gear &lpar;and When to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-pieces-of-lifting-gear-and-when-1850065827)
