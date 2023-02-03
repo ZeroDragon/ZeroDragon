@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Small &amp; Underrated React Libraries 🔥](https://dev.to/naubit/7-small-underrated-react-libraries-h54)
+- [Dev.to/JS] [Writing Effective Higher-Order Components in React.js](https://dev.to/vezyank/writing-effective-higher-order-components-in-reactjs-57gd)
+- [Lifehacker] [These Are the Best Breads for French Toast](https://lifehacker.com/these-are-the-best-breads-for-french-toast-1850072130)
 - [Lifehacker] [Finish Your Ramen With a Drizzle of Flavor-Packed Oil](https://lifehacker.com/finish-your-ramen-with-a-drizzle-of-flavor-packed-oil-1850071841)
 - [Lifehacker] [The Two Easiest Ways to Get a Duvet Cover On](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)
 - [Dev.to/JS] [Imlie Online](https://dev.to/imliefullepisode/imlie-online-3ogb)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)
 - [Dev.to/JS] [O que são Classes no JavaScript e como funcionam?](https://dev.to/altencirsilvajr/o-que-sao-classes-no-javascript-e-como-funcionam-lda)
 - [Lifehacker] [Here’s What It Actually Means When Someone Flashes Their Headlights at You](https://lifehacker.com/here-s-what-it-actually-means-when-someone-flashes-thei-1850070282)
-- [Dev.to/JS] [Things to know as a Beginner in JSON.](https://dev.to/coderpink/things-to-know-as-a-beginner-in-json-4fec)
-- [Dev.to/JS] [Synchronous and Asynchronous Programming in JavaScript](https://dev.to/get_pieces/synchronous-and-asynchronous-programming-in-javascript-1agm)
 - [Lifehacker] [10 Podcasts That Spill Juicy, Scandalous Secrets](https://lifehacker.com/10-podcasts-that-spill-juicy-scandalous-secrets-1850045092)
 - [Lifehacker] [Why You Shouldn&#39;t Use AI for Your Cover Letters](https://lifehacker.com/why-you-shouldnt-use-ai-for-your-cover-letters-1850067441)
 - [Lifehacker] [You Can Get Better at Managing Your Emotions Even As an Adult](https://lifehacker.com/you-can-get-better-at-managing-your-emotions-even-as-an-1850056683)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Ice Cream Needs Savory Toppings](https://lifehacker.com/your-ice-cream-needs-savory-toppings-1850065423)
 - [Lifehacker] [You Have Nine Days of Free Subway Footlongs Ahead of You](https://lifehacker.com/you-have-nine-days-of-free-subway-footlongs-ahead-of-yo-1850065117)
 - [Lifehacker] [How to Use Windows&#39; Alt+Tab Shortcut on a Mac](https://lifehacker.com/how-to-use-windows-alt-tab-shortcut-on-a-mac-1850063574)
-- [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)
-- [Lifehacker] [The Best Video Games Released in 2023 &lpar;So Far&rpar;](https://lifehacker.com/the-best-video-games-released-in-2023-so-far-1850062253)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)<!-- TECH-POSTS:END -->
 
 ---
 
