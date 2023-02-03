@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is play sports activities correct?](https://dev.to/thomas23459/is-play-sports-activities-correct-4pmf)
+- [Dev.to/JS] [Compare Hash Passwords Using Crypto Module using the Node.js [part 2]](https://dev.to/jobizil/compare-hash-passwords-using-crypto-module-using-the-nodejs-part-2-3304)
+- [Dev.to/JS] [Hash Passwords Using Crypto Module using the Node.js [part 1]](https://dev.to/jobizil/hash-passwords-using-crypto-module-using-the-nodejs-part-1-4l01)
 - [Dev.to/JS] [I&#39;ve created a full-stack user permission model, should I go open-source?](https://dev.to/aws-builders/ive-created-a-full-stack-user-permission-model-should-i-go-open-source-2bng)
 - [Dev.to/JS] [💻 7 Tips for Writing Clean and Efficient React Code](https://dev.to/naubit/7-tips-for-writing-clean-and-efficient-react-code-34e7)
 - [Dev.to/JS] [Netlify Deployment error Fix: &#39;Treating warnings as errors because process.env.CI=true&#39;](https://dev.to/ifeoma/netlify-deployment-error-fix-treating-warnings-as-errors-because-processenvcitrue-3kje)
@@ -40,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Most Common Pieces of Lifting Gear &lpar;and When to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-pieces-of-lifting-gear-and-when-1850065827)
 - [Lifehacker] [How to Avoid Unexpected Costs During a Hospital Stay](https://lifehacker.com/how-to-avoid-unexpected-costs-during-a-hospital-stay-1850065392)
 - [Dev.to/JS] [LeetCode #121. Best Time to Buy and Sell Stock with JavaScript](https://dev.to/masakifukunishi/leetcode-121-best-time-to-buy-and-sell-stock-with-javascript-43i7)
-- [Dev.to/JS] [50 Most Asked JavaScript Interview Questions](https://dev.to/johongirr/50-most-asked-javascript-interview-questions-3d3c)
 - [Lifehacker] [How to Explain a Layoff in Your Next Job Interview](https://lifehacker.com/how-to-explain-a-layoff-in-your-next-job-interview-1850065646)
-- [Dev.to/JS] [Take Your JavaScript to the Next Level: Why Array Methods &amp; Promises Are Essential for Beginner Developers](https://dev.to/mihailtd/take-your-javascript-to-the-next-level-why-array-methods-promises-are-essential-for-beginner-developers-1o44)
 - [Lifehacker] [Your Ice Cream Needs Savory Toppings](https://lifehacker.com/your-ice-cream-needs-savory-toppings-1850065423)
-- [Dev.to/JS] [How to pass a challenging Frontend Interview in 2023 Part 1](https://dev.to/adamaslan/how-to-pass-a-challenging-frontend-interview-in-2023-part-1-1mc7)
 - [Lifehacker] [You Have Nine Days of Free Subway Footlongs Ahead of You](https://lifehacker.com/you-have-nine-days-of-free-subway-footlongs-ahead-of-yo-1850065117)
 - [Lifehacker] [How to Use Windows&#39; Alt+Tab Shortcut on a Mac](https://lifehacker.com/how-to-use-windows-alt-tab-shortcut-on-a-mac-1850063574)
 - [Lifehacker] [Every Game Coming to PlayStation Plus and Xbox Game Pass in February 2023](https://lifehacker.com/every-game-coming-to-playstation-plus-and-xbox-game-pas-1850062646)
