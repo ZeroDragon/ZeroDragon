@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dependency Inversion Principle with TypeScript Interfaces &amp; Decorators](https://dev.to/mbarzeev/dependency-inversion-principle-with-typescript-interfaces-decorators-2fd6)
+- [Dev.to/JS] [Controlled vs Uncontrolled Elements](https://dev.to/helderberto/controlled-vs-uncontrolled-elements-5513)
 - [Dev.to/JS] [5 Impressive Javascript projects you can build easily &lpar;Tutorials Included&rpar;](https://dev.to/acode123/5-impressive-javascript-projects-you-can-build-easily-tutorials-included-4dcn)
 - [Dev.to/JS] [Three js: Scene, Camera and Renderer](https://dev.to/sakaz22/three-js-scene-camera-and-renderer-3jd6)
 - [Dev.to/JS] [Environment Variables with PM2 + Infisical](https://dev.to/dangtony98/syncing-environment-variables-with-pm2-infisical-312a)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create your first WebSockets-based application in NestJS](https://dev.to/leduc1901/create-your-first-websockets-based-application-in-nestjs-2hp)
 - [Dev.to/JS] [I&#39;m looking to contribute to open-source projects. Can anyone recommend a good starting point?](https://dev.to/nigamtarun018/im-looking-to-contribute-to-open-source-projects-can-anyone-recommend-a-good-starting-point-2agh)
 - [Dev.to/JS] [What are some of the best ways to stay motivated while coding?](https://dev.to/nigamtarun018/what-are-some-of-the-best-ways-to-stay-motivated-while-coding-285g)
-- [Dev.to/JS] [I need help optimizing my website for better performance. Can anyone offer suggestions?](https://dev.to/nigamtarun018/i-need-help-optimizing-my-website-for-better-performance-can-anyone-offer-suggestions-4jb2)
-- [Dev.to/JS] [What are some of the most promising new technologies in the software development field?](https://dev.to/nigamtarun018/what-are-some-of-the-most-promising-new-technologies-in-the-software-development-field-4ah9)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
