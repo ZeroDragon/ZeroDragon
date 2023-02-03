@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Middleware in Express.js: A Beginner&#39;s Guide](https://dev.to/nickk2305/mastering-middleware-in-expressjs-a-beginners-guide-5a4f)
+- [Dev.to/JS] [JavaScript and Object Oriented Programming with its four pillar:#JS-4](https://dev.to/srishtikprasad/javascript-and-object-oriented-programming-with-its-four-pillar-14e6)
+- [Dev.to/JS] [JavaScript Higher Order Methods](https://dev.to/prerna0202/javascript-higher-order-methods-4jp4)
+- [Dev.to/JS] [Data binding in React the easy way in 2023](https://dev.to/rahxuls/data-binding-in-react-the-easy-way-in-2023-2ckp)
+- [Lifehacker] [Test Your Endurance With This Never-Ending AI-Generated &#39;Seinfeld&#39; Show](https://lifehacker.com/test-your-endurance-with-this-never-ending-ai-generated-1850070188)
 - [Lifehacker] [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)
 - [Dev.to/JS] [O que são Classes no JavaScript e como funcionam?](https://dev.to/altencirsilvajr/o-que-sao-classes-no-javascript-e-como-funcionam-lda)
 - [Lifehacker] [Here’s What It Actually Means When Someone Flashes Their Headlights at You](https://lifehacker.com/here-s-what-it-actually-means-when-someone-flashes-thei-1850070282)
@@ -38,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Up to Four Months of Apple Music and Apple TV+ for Free](https://lifehacker.com/you-can-get-up-to-four-months-of-apple-music-and-apple-1850069330)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Watching &#39;The Last of Us&#39;?](https://lifehacker.com/why-is-everyone-watching-the-last-of-us-the-out-of-tou-1850068835)
 - [Dev.to/JS] [Setup repository nextjs app like a pro 😎](https://dev.to/tomibudis/setup-repository-nextjs-app-like-a-pro-1lij)
-- [Dev.to/JS] [How To Implement A Single Page Modular App Architecture Using Pure HTML, CSS, Javascript](https://dev.to/superflowsdev/how-to-implement-a-single-page-modular-app-architecture-using-pure-html-css-javascript-137f)
 - [Lifehacker] [11 Expansive Cinematic Universes That Aren&#39;t Marvel or Star Wars](https://lifehacker.com/11-expansive-cinematic-universes-that-arent-marvel-or-s-1850060990)
 - [Lifehacker] [You Need to Sizzle Some Onions](https://lifehacker.com/you-need-to-sizzle-some-onions-1850068583)
-- [Dev.to/JS] [Creating and Broadcasting a &quot;LoFi Radio&quot; Station with Amazon IVS](https://dev.to/aws/creating-and-broadcasting-a-lofi-radio-station-with-amazon-ivs-4nk1)
-- [Dev.to/JS] [Arduino Projects For Engineering Students](https://dev.to/arunprakash142/arduino-projects-for-engineering-students-5pd)
-- [Dev.to/JS] [With Astro into the future!](https://dev.to/airborne04/with-astro-into-the-future-3e20)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This App Unlocks Your Mac’s Hidden Features](https://lifehacker.com/this-app-unlocks-your-mac-s-hidden-features-1850063799)
 - [Lifehacker] [Make Grown-Up Cinnamon Toast With Apple Brandy Butter](https://lifehacker.com/make-fucked-up-cinnamon-toast-with-apple-brandy-butter-1850062095)
 - [Lifehacker] [7 Ways to Butter Your Toast Without Destroying It](https://lifehacker.com/7-ways-to-butter-your-toast-without-destroying-it-1850061944)
-- [Lifehacker] [Where to Get the Best Meal Deals for Less than $20 on Thursdays](https://lifehacker.com/where-to-get-the-best-meal-deals-for-less-than-20-on-t-1850037620)
-- [Lifehacker] [How to See a Green Comet Hurtle Past Earth](https://lifehacker.com/how-to-see-a-green-comet-hurtle-past-earth-1850061836)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Get the Best Meal Deals for Less than $20 on Thursdays](https://lifehacker.com/where-to-get-the-best-meal-deals-for-less-than-20-on-t-1850037620)<!-- TECH-POSTS:END -->
 
 ---
 
