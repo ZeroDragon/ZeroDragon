@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating and Broadcasting a &quot;LoFi Radio&quot; Station with Amazon IVS](https://dev.to/aws/creating-and-broadcasting-a-lofi-radio-station-with-amazon-ivs-4nk1)
+- [Dev.to/JS] [Arduino Projects For Engineering Students](https://dev.to/arunprakash142/arduino-projects-for-engineering-students-5pd)
 - [Dev.to/JS] [With Astro into the future!](https://dev.to/airborne04/with-astro-into-the-future-3e20)
 - [Dev.to/JS] [TypeScript Utility Types You Need to Know](https://dev.to/builderio/typescript-utility-types-you-need-to-know-14b7)
 - [Dev.to/JS] [Data storage in the Web](https://dev.to/oluwatrillions/data-storage-in-the-web-4dd1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a real-time data analytics platform with Appwrite and Nuxtjs](https://dev.to/hackmamba/create-a-real-time-data-analytics-platform-with-appwrite-and-nuxtjs-5f84)
 - [Dev.to/JS] [Technologies I&#39;m learning in 2023](https://dev.to/ibrahimraimi/technologies-im-learning-in-2023-4l52)
 - [Dev.to/JS] [Dependency Inversion Principle with TypeScript Interfaces &amp; Decorators](https://dev.to/mbarzeev/dependency-inversion-principle-with-typescript-interfaces-decorators-2fd6)
-- [Dev.to/JS] [Controlled vs Uncontrolled Elements](https://dev.to/helderberto/controlled-vs-uncontrolled-elements-5513)
-- [Dev.to/JS] [5 Impressive Javascript projects you can build easily &lpar;Tutorials Included&rpar;](https://dev.to/acode123/5-impressive-javascript-projects-you-can-build-easily-tutorials-included-4dcn)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
