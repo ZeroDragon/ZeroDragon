@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Impressive Javascript projects you can build easily &lpar;Tutorials Included&rpar;](https://dev.to/acode123/5-impressive-javascript-projects-you-can-build-easily-tutorials-included-4dcn)
+- [Dev.to/JS] [Three js: Scene, Camera and Renderer](https://dev.to/sakaz22/three-js-scene-camera-and-renderer-3jd6)
+- [Dev.to/JS] [Environment Variables with PM2 + Infisical](https://dev.to/dangtony98/syncing-environment-variables-with-pm2-infisical-312a)
+- [Dev.to/JS] [Understanding React useEffect hook&#39;s Dependency](https://dev.to/codedsalis/understanding-react-useeffect-hooks-dependency-56nh)
 - [Dev.to/JS] [Calling Hooks properly](https://dev.to/lausuarez02/calling-hooks-properly-50o5)
 - [Dev.to/JS] [Multi-threaded React App using useWorker](https://dev.to/nilanth/multi-threaded-react-app-using-useworker-gf8)
 - [Dev.to/JS] [Symmetric Difference of Arrays in JavaScript](https://dev.to/zirkelc/symmetric-difference-of-arrays-in-javascript-224f)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are some of the best ways to stay motivated while coding?](https://dev.to/nigamtarun018/what-are-some-of-the-best-ways-to-stay-motivated-while-coding-285g)
 - [Dev.to/JS] [I need help optimizing my website for better performance. Can anyone offer suggestions?](https://dev.to/nigamtarun018/i-need-help-optimizing-my-website-for-better-performance-can-anyone-offer-suggestions-4jb2)
 - [Dev.to/JS] [What are some of the most promising new technologies in the software development field?](https://dev.to/nigamtarun018/what-are-some-of-the-most-promising-new-technologies-in-the-software-development-field-4ah9)
-- [Dev.to/JS] [I&#39;m thinking about transitioning into a new tech stack. Any advice for making the transition smoothly?](https://dev.to/nigamtarun018/im-thinking-about-transitioning-into-a-new-tech-stack-any-advice-for-making-the-transition-smoothly-27h8)
-- [Dev.to/JS] [forkJoin deprecated in RxJS v8](https://dev.to/this-is-angular/forkjoin-deprecated-in-rxjs-v8-173h)
-- [Dev.to/JS] [What&#39;s the most effective way to debug a complex program written in Java?](https://dev.to/nigamtarun018/whats-the-most-effective-way-to-debug-a-complex-program-written-in-java-4jcb)
-- [Dev.to/JS] [I want to improve my coding skills, but I don&#39;t know where to start. Can anyone offer advice?](https://dev.to/nigamtarun018/i-want-to-improve-my-coding-skills-but-i-dont-know-where-to-start-can-anyone-offer-advice-4e0g)
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
