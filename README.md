@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make a small Ecommerce Shoe store](https://dev.to/lensco825/how-to-make-a-small-ecommerce-shoe-store-48m8)
+- [Dev.to/JS] [Setting up Netlify Redirects with Astro](https://dev.to/cassidoo/setting-up-netlify-redirects-with-astro-426g)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Dev.to/JS] [Understanding hooks, why React introduced hooks](https://dev.to/yukooshima/understanding-hooks-why-react-introduced-hooks-3n73)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Monorepo in React](https://dev.to/danireptor/introduction-to-monorepo-in-react-1b3a)
 - [Dev.to/JS] [AI Product Tools: AI Powered Product Tools for your e-commerce&#39;s success](https://dev.to/namanvyas/ai-product-tools-ai-powered-product-toolsfor-your-e-commerces-success-3m3a)
 - [Lifehacker] [19 Eggless Desserts to Help You Cope With Eggflation](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
-- [Dev.to/JS] [Mastering Middleware in Express.js: A Beginner&#39;s Guide](https://dev.to/nickk2305/mastering-middleware-in-expressjs-a-beginners-guide-5a4f)
-- [Dev.to/JS] [JavaScript and Object Oriented Programming with its four pillar:#JS-4](https://dev.to/srishtikprasad/javascript-and-object-oriented-programming-with-its-four-pillar-14e6)
 - [Lifehacker] [Test Your Endurance With This Never-Ending AI-Generated &#39;Seinfeld&#39; Show](https://lifehacker.com/test-your-endurance-with-this-never-ending-ai-generated-1850070188)
 - [Lifehacker] [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)
 - [Lifehacker] [Here’s What It Actually Means When Someone Flashes Their Headlights at You](https://lifehacker.com/here-s-what-it-actually-means-when-someone-flashes-thei-1850070282)
