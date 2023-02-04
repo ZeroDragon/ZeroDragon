@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fundamentals of JavaScript &lpar;Part 1&rpar;](https://dev.to/denismacharia/fundamentals-of-javascript-part-1-427d)
 - [Dev.to/JS] [new EyeDropper API in Chrome](https://dev.to/pulkitsingh/new-eyedropper-api-in-chrome-4c61)
 - [Dev.to/JS] [Kerassentials - Nail Fungus Benefits, Ingredients, Uses &amp; Side Effects?](https://dev.to/kerassentialsf1/kerassentials-nail-fungus-benefits-ingredients-uses-side-effects-2hm3)
 - [Dev.to/JS] [Factory Method Design Pattern](https://dev.to/youssefghonem/factory-method-design-pattern-3k19)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using useRef in ReactJS: A Beginner&#39;s Guide](https://dev.to/knitesh/using-useref-in-reactjs-a-beginners-guide-2ne8)
 - [Dev.to/JS] [How to easily understand &quot;this&quot; in Javascript - with a simple visual chart](https://dev.to/nirjan_dev/how-to-easily-understand-this-in-javascript-with-a-simple-visual-chart-h9d)
 - [Dev.to/JS] [Built-in Hooks &lpar;1&rpar;: How to Preserve Component State and Use LifeCycle?](https://dev.to/yukooshima/built-in-hooks-1-how-to-preserve-component-state-and-use-lifecycle-2hch)
-- [Dev.to/JS] [Startchart: Prisma Schema](https://dev.to/cychu42/startchart-prisma-schema-4i6d)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
 - [Lifehacker] [Where to Get Free Froyo on National Frozen Yogurt Day](https://lifehacker.com/where-to-get-free-froyo-on-national-frozen-yogurt-day-1850072058)
