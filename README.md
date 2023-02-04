@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Server-side rendering for any React app on any FaaS provider](https://dev.to/licg9999/server-side-rendering-for-any-react-app-on-any-faas-provider-26fn)
+- [Dev.to/JS] [Ninja Training...](https://dev.to/zeeshanali0704/ninja-training-293b)
+- [Dev.to/JS] [Robber I &amp; II](https://dev.to/zeeshanali0704/robber-i-ii-1he3)
+- [Dev.to/JS] [Socket.io for beginners](https://dev.to/pandaquests/socketio-for-beginners-9b3)
+- [Dev.to/JS] [My VS Code setup](https://dev.to/j471n/my-vs-code-setup-971)
 - [Dev.to/JS] [Javascript cheatsheet 2023 : Part 1](https://dev.to/rishabh14/javascript-cheatsheet-2023-part-1-12hc)
 - [Dev.to/JS] [What is the Difference Between children and childNodes?](https://dev.to/himanshudevgupta/what-is-the-difference-between-children-and-childnodes-pia)
 - [Dev.to/JS] [Intro to React Native: Develop mobile apps](https://dev.to/tusharyaar/intro-to-react-native-develop-mobile-apps-3eon)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Become a JavaScript Pro with These One-Line Tricks🤯🔥](https://dev.to/khansa/become-a-javascript-pro-with-these-one-line-tricks-4ffc)
 - [Dev.to/JS] [Operators in JavaScript: The Fundamentals](https://dev.to/bonnguyenitc/operators-in-javascript-the-fundamentals-411m)
 - [Dev.to/JS] [I Created An Animated Cheatsheet For CSS Selectors That Went Viral On Social Media 🤯🔥](https://dev.to/rammcodes/i-created-an-animated-cheatsheet-for-css-selectors-that-went-viral-on-social-media-2hm2)
-- [Dev.to/JS] [Deploying Remix application to Cloudflare Pages](https://dev.to/isnan__h/deploying-remix-application-to-cloudflare-pages-6il)
-- [Dev.to/JS] [Nuxt 3 authentication with Supabase](https://dev.to/xinnks/nuxt-3-authentication-with-supabase-g8f)
-- [Dev.to/JS] [Rendering strategies: CSR, SSR, SSG, ISR](https://dev.to/sjsouvik/rendering-strategies-csr-ssr-ssg-isr-4c5k)
-- [Dev.to/JS] [Variables in JavaScript: The Fundamentals](https://dev.to/bonnguyenitc/variables-in-javascript-the-fundamentals-4o4o)
-- [Dev.to/JS] [Transpile Webpack Plugin: transpiling files with webpack without bundling](https://dev.to/licg9999/transpile-webpack-plugin-transpiling-files-with-webpack-without-bundling-5g56)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
 - [Lifehacker] [Where to Get Free Froyo on National Frozen Yogurt Day](https://lifehacker.com/where-to-get-free-froyo-on-national-frozen-yogurt-day-1850072058)
