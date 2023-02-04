@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Created An Animated Cheatsheet For CSS Selectors That Went Viral On Social Media 🤯🔥](https://dev.to/rammcodes/i-created-an-animated-cheatsheet-for-css-selectors-that-went-viral-on-social-media-2hm2)
+- [Dev.to/JS] [Deploying Remix application to Cloudflare Pages](https://dev.to/isnan__h/deploying-remix-application-to-cloudflare-pages-6il)
+- [Dev.to/JS] [Nuxt 3 authentication with Supabase](https://dev.to/xinnks/nuxt-3-authentication-with-supabase-g8f)
 - [Dev.to/JS] [Rendering strategies: CSR, SSR, SSG, ISR](https://dev.to/sjsouvik/rendering-strategies-csr-ssr-ssg-isr-4c5k)
 - [Dev.to/JS] [Variables in JavaScript: The Fundamentals](https://dev.to/bonnguyenitc/variables-in-javascript-the-fundamentals-4o4o)
 - [Dev.to/JS] [Transpile Webpack Plugin: transpiling files with webpack without bundling](https://dev.to/licg9999/transpile-webpack-plugin-transpiling-files-with-webpack-without-bundling-5g56)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Factory Method Design Pattern](https://dev.to/youssefghonem/factory-method-design-pattern-3k19)
 - [Dev.to/JS] [From junior to senior, 7 books every developer should read](https://dev.to/peerlist/from-junior-to-senior-7-books-every-developer-should-read-3f7f)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;04-02-2023&rpar; - An accelerator for the accelerator &amp; a leash for the leash](https://dev.to/mjgs/this-weeks-newsletter-is-out-04-02-2023-an-accelerator-for-the-accelerator-a-leash-for-the-leash-4928)
-- [Dev.to/JS] [Clustering: The Good Parts](https://dev.to/arinze19/clustering-the-good-parts-13g5)
-- [Dev.to/JS] [LeetCode #141 Linked List Cycle with JavaScript](https://dev.to/masakifukunishi/leetcode-141-linked-list-cycle-with-javascript-1dc5)
-- [Dev.to/JS] [Managing Complex State with useReducer: A Comprehensive Guid](https://dev.to/knitesh/managing-complex-state-with-usereducer-a-comprehensive-guid-19fn)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
 - [Lifehacker] [Where to Get Free Froyo on National Frozen Yogurt Day](https://lifehacker.com/where-to-get-free-froyo-on-national-frozen-yogurt-day-1850072058)
