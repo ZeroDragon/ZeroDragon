@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Managing Complex State with useReducer: A Comprehensive Guid](https://dev.to/knitesh/managing-complex-state-with-usereducer-a-comprehensive-guid-19fn)
+- [Dev.to/JS] [Using useRef in ReactJS: A Beginner&#39;s Guide](https://dev.to/knitesh/using-useref-in-reactjs-a-beginners-guide-2ne8)
+- [Dev.to/JS] [How to easily understand &quot;this&quot; in Javascript - with a simple visual chart](https://dev.to/nirjan_dev/how-to-easily-understand-this-in-javascript-with-a-simple-visual-chart-h9d)
 - [Dev.to/JS] [Built-in Hooks &lpar;1&rpar;: How to Preserve Component State and Use LifeCycle?](https://dev.to/yukooshima/built-in-hooks-1-how-to-preserve-component-state-and-use-lifecycle-2hch)
 - [Dev.to/JS] [Startchart: Prisma Schema](https://dev.to/cychu42/startchart-prisma-schema-4i6d)
 - [Dev.to/JS] [Unlock the Secrets to Better React Performance: A Guide to React.memo](https://dev.to/aaron_janes/unlock-the-secrets-to-better-react-performance-a-guide-to-reactmemo-mee)
@@ -37,12 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Deep Links in React with Atoms](https://dev.to/sematic/implementing-deep-links-in-react-with-atoms-289d)
 - [Lifehacker] [Don’t Make Your Bed First Thing in the Morning](https://lifehacker.com/don-t-make-your-bed-first-thing-in-the-morning-1850072218)
 - [Lifehacker] [Why There Are Dots All Over Your Smartphone Photos &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-there-are-dots-all-over-your-smartphone-photos-and-1850072094)
-- [Dev.to/JS] [7 Small &amp; Underrated React Libraries 🔥](https://dev.to/naubit/7-small-underrated-react-libraries-h54)
-- [Dev.to/JS] [Writing Effective Higher-Order Components in React.js](https://dev.to/vezyank/writing-effective-higher-order-components-in-reactjs-57gd)
 - [Lifehacker] [These Are the Best Breads for French Toast](https://lifehacker.com/these-are-the-best-breads-for-french-toast-1850072130)
 - [Lifehacker] [Finish Your Ramen With a Drizzle of Flavor-Packed Oil](https://lifehacker.com/finish-your-ramen-with-a-drizzle-of-flavor-packed-oil-1850071841)
 - [Lifehacker] [The Two Easiest Ways to Get a Duvet Cover On](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)
-- [Dev.to/JS] [Imlie Online](https://dev.to/imliefullepisode/imlie-online-3ogb)
 - [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2023](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
 - [Lifehacker] [19 Eggless Desserts to Help You Cope With Eggflation](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
 - [Lifehacker] [Test Your Endurance With This Never-Ending AI-Generated &#39;Seinfeld&#39; Show](https://lifehacker.com/test-your-endurance-with-this-never-ending-ai-generated-1850070188)
