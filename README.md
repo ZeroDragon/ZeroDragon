@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
+- [Dev.to/JS] [Understanding hooks, why React introduced hooks](https://dev.to/yukooshima/understanding-hooks-why-react-introduced-hooks-3n73)
+- [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
+- [Lifehacker] [Where to Get Free Froyo on National Frozen Yogurt Day](https://lifehacker.com/where-to-get-free-froyo-on-national-frozen-yogurt-day-1850072058)
 - [Dev.to/JS] [Web Scraping vs. Crawling: What’s the Difference?](https://dev.to/smsp/web-scraping-vs-crawling-whats-the-difference-h7c)
 - [Dev.to/JS] [Implementing Deep Links in React with Atoms](https://dev.to/sematic/implementing-deep-links-in-react-with-atoms-289d)
 - [Lifehacker] [Don’t Make Your Bed First Thing in the Morning](https://lifehacker.com/don-t-make-your-bed-first-thing-in-the-morning-1850072218)
@@ -41,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [19 Eggless Desserts to Help You Cope With Eggflation](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
 - [Dev.to/JS] [Mastering Middleware in Express.js: A Beginner&#39;s Guide](https://dev.to/nickk2305/mastering-middleware-in-expressjs-a-beginners-guide-5a4f)
 - [Dev.to/JS] [JavaScript and Object Oriented Programming with its four pillar:#JS-4](https://dev.to/srishtikprasad/javascript-and-object-oriented-programming-with-its-four-pillar-14e6)
-- [Dev.to/JS] [JavaScript Higher Order Methods](https://dev.to/prerna0202/javascript-higher-order-methods-4jp4)
 - [Lifehacker] [Test Your Endurance With This Never-Ending AI-Generated &#39;Seinfeld&#39; Show](https://lifehacker.com/test-your-endurance-with-this-never-ending-ai-generated-1850070188)
 - [Lifehacker] [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)
 - [Lifehacker] [Here’s What It Actually Means When Someone Flashes Their Headlights at You](https://lifehacker.com/here-s-what-it-actually-means-when-someone-flashes-thei-1850070282)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Streaming Services Still Let You Share Passwords](https://lifehacker.com/these-streaming-services-still-let-you-share-passwords-1850065273)
 - [Lifehacker] [Stop Using These Eyedrops Immediately, CDC Says](https://lifehacker.com/stop-using-these-eyedrops-immediately-cdc-says-1850066025)
 - [Lifehacker] [10 of the Most Common Pieces of Lifting Gear &lpar;and When to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-pieces-of-lifting-gear-and-when-1850065827)
-- [Lifehacker] [How to Avoid Unexpected Costs During a Hospital Stay](https://lifehacker.com/how-to-avoid-unexpected-costs-during-a-hospital-stay-1850065392)
-- [Lifehacker] [How to Explain a Layoff in Your Next Job Interview](https://lifehacker.com/how-to-explain-a-layoff-in-your-next-job-interview-1850065646)
-- [Lifehacker] [Your Ice Cream Needs Savory Toppings](https://lifehacker.com/your-ice-cream-needs-savory-toppings-1850065423)
-- [Lifehacker] [You Have Nine Days of Free Subway Footlongs Ahead of You](https://lifehacker.com/you-have-nine-days-of-free-subway-footlongs-ahead-of-yo-1850065117)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Avoid Unexpected Costs During a Hospital Stay](https://lifehacker.com/how-to-avoid-unexpected-costs-during-a-hospital-stay-1850065392)<!-- TECH-POSTS:END -->
 
 ---
 
