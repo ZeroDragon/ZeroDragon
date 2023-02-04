@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Music Player](https://dev.to/amir_alipour/react-custom-music-player-1h1)
 - [Dev.to/JS] [Why go full-stack in 2023?](https://dev.to/stebunovd/why-go-full-stack-in-2023-4381)
 - [Dev.to/JS] [Coming Soon Website Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/coming-soon-website-using-html-css-and-javascript-2hnj)
 - [Dev.to/JS] [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-2e2i)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamic Form using Schema-Based UI](https://dev.to/avas77/dynamic-form-using-schema-based-ui-22p0)
 - [Dev.to/JS] [Svelte Email - Build and design emails with Svelte](https://dev.to/carstenlebek/svelte-email-build-and-design-emails-with-svelte-5f33)
 - [Dev.to/JS] [Nuxt-content with Nuxt 3](https://dev.to/guillaumeduhan/nuxt-content-with-nuxt-3-1e65)
-- [Dev.to/JS] [Understand Javascript&#39;s Call, Bind, and Apply in the Simplest and Easy Way Possible!!🔥](https://dev.to/priyankdeep78/understand-call-bind-and-apply-in-a-simplest-and-easy-way-possible-4jad)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
