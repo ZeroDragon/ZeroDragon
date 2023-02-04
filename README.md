@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ESlint e Prettier - Guia de instalação rápida](https://dev.to/ferjssilva/eslint-e-prettier-guia-de-instalacao-rapida-3en1)
+- [Dev.to/JS] [Send Data From Website Form to Google Spreadsheet using JavaScript &amp; Apps Script](https://dev.to/iamakhilskumar/send-data-from-website-form-to-google-spreadsheet-using-javascript-apps-script-12ci)
+- [Dev.to/JS] [Convert a dd/mm/yyyy string to a Date object in JavaScript](https://dev.to/lavary/convert-a-ddmmyyyy-string-to-a-date-object-in-javascript-35o3)
 - [Dev.to/JS] [About &quot;Await is only valid in Async functions&quot; error in JavaScript](https://dev.to/lavary/about-await-is-only-valid-in-async-functions-error-in-javascript-bmd)
 - [Dev.to/JS] [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Dev.to/JS] [Dynamic Form using Schema-Based UI](https://dev.to/avas77/dynamic-form-using-schema-based-ui-22p0)
 - [Dev.to/JS] [Svelte Email - Build and design emails with Svelte](https://dev.to/carstenlebek/svelte-email-build-and-design-emails-with-svelte-5f33)
 - [Dev.to/JS] [Nuxt-content with Nuxt 3](https://dev.to/guillaumeduhan/nuxt-content-with-nuxt-3-1e65)
-- [Dev.to/JS] [Understand Call, Bind, and Apply in the Simplest and Easy Way Possible!!🔥](https://dev.to/priyankdeep78/understand-call-bind-and-apply-in-a-simplest-and-easy-way-possible-4jad)
+- [Dev.to/JS] [Understand Javascript&#39;s Call, Bind, and Apply in the Simplest and Easy Way Possible!!🔥](https://dev.to/priyankdeep78/understand-call-bind-and-apply-in-a-simplest-and-easy-way-possible-4jad)
 - [Dev.to/JS] [Flowchart editor dgrm.net / announcement / sequence diagrams support](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-sequence-diagrams-support-25ad)
 - [Dev.to/JS] [Parallax Effect In React](https://dev.to/abhishek305/parallax-effect-in-react-4hpo)
 - [Dev.to/JS] [You Might Not Need React Query for Jotai](https://dev.to/dai_shi/you-might-not-need-react-query-for-jotai-387d)
-- [Dev.to/JS] [Make an Image drug and drop with CSS in React](https://dev.to/said7388/make-a-image-drug-and-drop-with-css-in-react-5cf1)
-- [Dev.to/JS] [useEffect a Conceptual Deep Dive](https://dev.to/harisbinejaz/useeffect-a-conceptual-deep-dive-23c5)
-- [Dev.to/JS] [How to learn JavaScript - just in 5 steps by Hanfelix369](https://dev.to/hanfelix369/how-to-learn-javascript-just-in-5-steps-by-hanfelix369-57an)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
