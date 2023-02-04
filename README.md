@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [About &quot;Await is only valid in Async functions&quot; error in JavaScript](https://dev.to/lavary/about-await-is-only-valid-in-async-functions-error-in-javascript-bmd)
+- [Dev.to/JS] [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
+- [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Dev.to/JS] [Dynamic Form using Schema-Based UI](https://dev.to/avas77/dynamic-form-using-schema-based-ui-22p0)
 - [Dev.to/JS] [Svelte Email - Build and design emails with Svelte](https://dev.to/carstenlebek/svelte-email-build-and-design-emails-with-svelte-5f33)
 - [Dev.to/JS] [Nuxt-content with Nuxt 3](https://dev.to/guillaumeduhan/nuxt-content-with-nuxt-3-1e65)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make an Image drug and drop with CSS in React](https://dev.to/said7388/make-a-image-drug-and-drop-with-css-in-react-5cf1)
 - [Dev.to/JS] [useEffect a Conceptual Deep Dive](https://dev.to/harisbinejaz/useeffect-a-conceptual-deep-dive-23c5)
 - [Dev.to/JS] [How to learn JavaScript - just in 5 steps by Hanfelix369](https://dev.to/hanfelix369/how-to-learn-javascript-just-in-5-steps-by-hanfelix369-57an)
-- [Dev.to/JS] [How to learn JavaScript 4 - just in 5 steps by Hanfelix369](https://dev.to/hanfelix369/how-to-learn-javascript-4-just-in-5-steps-by-hanfelix369-5gab)
-- [Dev.to/JS] [Understanding Array.sort compareFn](https://dev.to/lico/understanding-arraysort-comparefn-56j)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
 - [Lifehacker] [8 Ways to Give Your Valentine the Gift of Meat](https://lifehacker.com/8-ways-to-give-your-valentine-the-gift-of-meat-1850066252)
 - [Lifehacker] [These Streaming Services Still Let You Share Passwords](https://lifehacker.com/these-streaming-services-still-let-you-share-passwords-1850065273)
-- [Lifehacker] [Stop Using These Eyedrops Immediately, CDC Says](https://lifehacker.com/stop-using-these-eyedrops-immediately-cdc-says-1850066025)
-- [Lifehacker] [10 of the Most Common Pieces of Lifting Gear &lpar;and When to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-pieces-of-lifting-gear-and-when-1850065827)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Using These Eyedrops Immediately, CDC Says](https://lifehacker.com/stop-using-these-eyedrops-immediately-cdc-says-1850066025)<!-- TECH-POSTS:END -->
 
 ---
 
