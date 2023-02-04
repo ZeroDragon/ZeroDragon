@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [new EyeDropper API in Chrome](https://dev.to/pulkitsingh/new-eyedropper-api-in-chrome-4c61)
+- [Dev.to/JS] [Kerassentials - Nail Fungus Benefits, Ingredients, Uses &amp; Side Effects?](https://dev.to/kerassentialsf1/kerassentials-nail-fungus-benefits-ingredients-uses-side-effects-2hm3)
+- [Dev.to/JS] [Factory Method Design Pattern](https://dev.to/youssefghonem/factory-method-design-pattern-3k19)
+- [Dev.to/JS] [From junior to senior, 7 books every developer should read](https://dev.to/peerlist/from-junior-to-senior-7-books-every-developer-should-read-3f7f)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;04-02-2023&rpar; - An accelerator for the accelerator &amp; a leash for the leash](https://dev.to/mjgs/this-weeks-newsletter-is-out-04-02-2023-an-accelerator-for-the-accelerator-a-leash-for-the-leash-4928)
 - [Dev.to/JS] [Clustering: The Good Parts](https://dev.to/arinze19/clustering-the-good-parts-13g5)
 - [Dev.to/JS] [LeetCode #141 Linked List Cycle with JavaScript](https://dev.to/masakifukunishi/leetcode-141-linked-list-cycle-with-javascript-1dc5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to easily understand &quot;this&quot; in Javascript - with a simple visual chart](https://dev.to/nirjan_dev/how-to-easily-understand-this-in-javascript-with-a-simple-visual-chart-h9d)
 - [Dev.to/JS] [Built-in Hooks &lpar;1&rpar;: How to Preserve Component State and Use LifeCycle?](https://dev.to/yukooshima/built-in-hooks-1-how-to-preserve-component-state-and-use-lifecycle-2hch)
 - [Dev.to/JS] [Startchart: Prisma Schema](https://dev.to/cychu42/startchart-prisma-schema-4i6d)
-- [Dev.to/JS] [Unlock the Secrets to Better React Performance: A Guide to React.memo](https://dev.to/aaron_janes/unlock-the-secrets-to-better-react-performance-a-guide-to-reactmemo-mee)
-- [Dev.to/JS] [Median of Two Sorted Arrays](https://dev.to/robin3317/median-of-two-sorted-arrays-11lf)
-- [Dev.to/JS] [How to make a small Ecommerce Shoe store](https://dev.to/lensco825/how-to-make-a-small-ecommerce-shoe-store-48m8)
-- [Dev.to/JS] [Setting up Netlify Redirects with Astro](https://dev.to/cassidoo/setting-up-netlify-redirects-with-astro-426g)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
 - [Lifehacker] [Where to Get Free Froyo on National Frozen Yogurt Day](https://lifehacker.com/where-to-get-free-froyo-on-national-frozen-yogurt-day-1850072058)
