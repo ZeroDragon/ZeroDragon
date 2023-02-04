@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why go full-stack in 2023?](https://dev.to/stebunovd/why-go-full-stack-in-2023-4381)
+- [Dev.to/JS] [Coming Soon Website Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/coming-soon-website-using-html-css-and-javascript-2hnj)
+- [Dev.to/JS] [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-2e2i)
 - [Dev.to/JS] [ESlint e Prettier - Guia de instalação rápida](https://dev.to/ferjssilva/eslint-e-prettier-guia-de-instalacao-rapida-3en1)
 - [Dev.to/JS] [Send Data From Website Form to Google Spreadsheet using JavaScript &amp; Apps Script](https://dev.to/iamakhilskumar/send-data-from-website-form-to-google-spreadsheet-using-javascript-apps-script-12ci)
 - [Dev.to/JS] [Convert a dd/mm/yyyy string to a Date object in JavaScript](https://dev.to/lavary/convert-a-ddmmyyyy-string-to-a-date-object-in-javascript-35o3)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte Email - Build and design emails with Svelte](https://dev.to/carstenlebek/svelte-email-build-and-design-emails-with-svelte-5f33)
 - [Dev.to/JS] [Nuxt-content with Nuxt 3](https://dev.to/guillaumeduhan/nuxt-content-with-nuxt-3-1e65)
 - [Dev.to/JS] [Understand Javascript&#39;s Call, Bind, and Apply in the Simplest and Easy Way Possible!!🔥](https://dev.to/priyankdeep78/understand-call-bind-and-apply-in-a-simplest-and-easy-way-possible-4jad)
-- [Dev.to/JS] [Flowchart editor dgrm.net / announcement / sequence diagrams support](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-sequence-diagrams-support-25ad)
-- [Dev.to/JS] [Parallax Effect In React](https://dev.to/abhishek305/parallax-effect-in-react-4hpo)
-- [Dev.to/JS] [You Might Not Need React Query for Jotai](https://dev.to/dai_shi/you-might-not-need-react-query-for-jotai-387d)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
