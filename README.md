@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Built-in Hooks &lpar;1&rpar;: How to Preserve Component State and Use LifeCycle?](https://dev.to/yukooshima/built-in-hooks-1-how-to-preserve-component-state-and-use-lifecycle-2hch)
+- [Dev.to/JS] [Startchart: Prisma Schema](https://dev.to/cychu42/startchart-prisma-schema-4i6d)
+- [Dev.to/JS] [Unlock the Secrets to Better React Performance: A Guide to React.memo](https://dev.to/aaron_janes/unlock-the-secrets-to-better-react-performance-a-guide-to-reactmemo-mee)
 - [Dev.to/JS] [Median of Two Sorted Arrays](https://dev.to/robin3317/median-of-two-sorted-arrays-11lf)
 - [Dev.to/JS] [How to make a small Ecommerce Shoe store](https://dev.to/lensco825/how-to-make-a-small-ecommerce-shoe-store-48m8)
 - [Dev.to/JS] [Setting up Netlify Redirects with Astro](https://dev.to/cassidoo/setting-up-netlify-redirects-with-astro-426g)
@@ -41,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Two Easiest Ways to Get a Duvet Cover On](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)
 - [Dev.to/JS] [Imlie Online](https://dev.to/imliefullepisode/imlie-online-3ogb)
 - [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2023](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
-- [Dev.to/JS] [Learning web development and JavaScript programming language](https://dev.to/simsekahmett/learning-web-development-and-javascript-programming-language-3nna)
-- [Dev.to/JS] [15 unorthodox APIs to Elevate Your Project 🔥](https://dev.to/acidop/15-unorthodox-apis-to-elevate-your-project-32eh)
-- [Dev.to/JS] [Introduction to Monorepo in React](https://dev.to/danireptor/introduction-to-monorepo-in-react-1b3a)
 - [Lifehacker] [19 Eggless Desserts to Help You Cope With Eggflation](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
 - [Lifehacker] [Test Your Endurance With This Never-Ending AI-Generated &#39;Seinfeld&#39; Show](https://lifehacker.com/test-your-endurance-with-this-never-ending-ai-generated-1850070188)
 - [Lifehacker] [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)
