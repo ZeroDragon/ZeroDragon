@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
+- [Dev.to/JS] [Tips to be a Healthy Developer🧑‍💻](https://dev.to/iarchitsharma/tips-to-be-a-healthy-developer-1bm1)
+- [Dev.to/JS] [Ionic Appflow live update alternative](https://dev.to/arnosolo/ionic-appflow-live-update-alternative-55c3)
+- [Dev.to/JS] [Javascript fetch wrapper in 2023?](https://dev.to/yurkimus/javascript-fetch-wrapper-in-2023-dje)
 - [Dev.to/JS] [Server-side rendering for any React app on any FaaS provider](https://dev.to/licg9999/server-side-rendering-for-any-react-app-on-any-faas-provider-26fn)
 - [Dev.to/JS] [Ninja Training...](https://dev.to/zeeshanali0704/ninja-training-293b)
 - [Dev.to/JS] [Robber I &amp; II](https://dev.to/zeeshanali0704/robber-i-ii-1he3)
 - [Dev.to/JS] [Socket.io for beginners](https://dev.to/pandaquests/socketio-for-beginners-9b3)
 - [Dev.to/JS] [My VS Code setup](https://dev.to/j471n/my-vs-code-setup-971)
-- [Dev.to/JS] [Javascript cheatsheet 2023 : Part 1](https://dev.to/rishabh14/javascript-cheatsheet-2023-part-1-12hc)
 - [Dev.to/JS] [What is the Difference Between children and childNodes?](https://dev.to/himanshudevgupta/what-is-the-difference-between-children-and-childnodes-pia)
 - [Dev.to/JS] [Intro to React Native: Develop mobile apps](https://dev.to/tusharyaar/intro-to-react-native-develop-mobile-apps-3eon)
 - [Dev.to/JS] [Looking for an open source project to contribute?](https://dev.to/empash938/looking-for-an-open-source-project-to-contribute-2f8m)
 - [Dev.to/JS] [Become a JavaScript Pro with These One-Line Tricks🤯🔥](https://dev.to/khansa/become-a-javascript-pro-with-these-one-line-tricks-4ffc)
-- [Dev.to/JS] [Operators in JavaScript: The Fundamentals](https://dev.to/bonnguyenitc/operators-in-javascript-the-fundamentals-411m)
-- [Dev.to/JS] [I Created An Animated Cheatsheet For CSS Selectors That Went Viral On Social Media 🤯🔥](https://dev.to/rammcodes/i-created-an-animated-cheatsheet-for-css-selectors-that-went-viral-on-social-media-2hm2)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
 - [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
 - [Lifehacker] [Where to Get Free Froyo on National Frozen Yogurt Day](https://lifehacker.com/where-to-get-free-froyo-on-national-frozen-yogurt-day-1850072058)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Ways to Give Your Valentine the Gift of Meat](https://lifehacker.com/8-ways-to-give-your-valentine-the-gift-of-meat-1850066252)
 - [Lifehacker] [These Streaming Services Still Let You Share Passwords](https://lifehacker.com/these-streaming-services-still-let-you-share-passwords-1850065273)
 - [Lifehacker] [Stop Using These Eyedrops Immediately, CDC Says](https://lifehacker.com/stop-using-these-eyedrops-immediately-cdc-says-1850066025)
-- [Lifehacker] [10 of the Most Common Pieces of Lifting Gear &lpar;and When to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-pieces-of-lifting-gear-and-when-1850065827)
-- [Lifehacker] [How to Avoid Unexpected Costs During a Hospital Stay](https://lifehacker.com/how-to-avoid-unexpected-costs-during-a-hospital-stay-1850065392)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Most Common Pieces of Lifting Gear &lpar;and When to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-pieces-of-lifting-gear-and-when-1850065827)<!-- TECH-POSTS:END -->
 
 ---
 
