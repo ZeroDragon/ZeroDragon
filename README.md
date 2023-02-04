@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript innerHTML](https://dev.to/smpnjn/javascript-innerhtml-4lh)
+- [Dev.to/JS] [Centering Elements in CSS with Tailwind](https://dev.to/smpnjn/centering-elements-in-css-with-tailwind-4cm5)
+- [Dev.to/JS] [Erro!!! Mongoose Deprecation Warning the strictQuery](https://dev.to/andpeicunha/erro-mongoose-deprecation-warning-the-strictquery-5ede)
 - [Dev.to/JS] [Build a Shopping Cart with Alpinejs.](https://dev.to/andrewzach/build-a-shopping-cart-with-alpinejs-3nkb)
 - [Dev.to/JS] [LeetCode - Sum Root to Leaf Numbers](https://dev.to/_alkesh26/leetcode-sum-root-to-leaf-numbers-pce)
 - [Dev.to/JS] [Introduction to Fiddlehead: A Fast and Lightweight UI Library](https://dev.to/vanquyet/introduction-to-fiddlehead-a-fast-and-lightweight-ui-library-273p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why go full-stack in 2023?](https://dev.to/stebunovd/why-go-full-stack-in-2023-4381)
 - [Dev.to/JS] [Coming Soon Website Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/coming-soon-website-using-html-css-and-javascript-2hnj)
 - [Dev.to/JS] [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-2e2i)
-- [Dev.to/JS] [ESlint e Prettier - Guia de instalação rápida](https://dev.to/ferjssilva/eslint-e-prettier-guia-de-instalacao-rapida-3en1)
-- [Dev.to/JS] [Send Data From Website Form to Google Spreadsheet using JavaScript &amp; Apps Script](https://dev.to/iamakhilskumar/send-data-from-website-form-to-google-spreadsheet-using-javascript-apps-script-12ci)
-- [Dev.to/JS] [Convert a dd/mm/yyyy string to a Date object in JavaScript](https://dev.to/lavary/convert-a-ddmmyyyy-string-to-a-date-object-in-javascript-35o3)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
