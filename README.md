@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Checking if a value is a number in Javascript with isNaN&lpar;&rpar;](https://dev.to/smpnjn/checking-if-a-value-is-a-number-in-javascript-with-isnan-h8c)
+- [Dev.to/JS] [Django + Unpoly = ️](https://dev.to/ale_jacques/django-unpoly--15d6)
+- [Dev.to/JS] [Implementing a Command Palette and Task Timer &lpar;part 1&rpar;](https://dev.to/rouilj/implementing-a-command-palette-and-task-timer-part-1-12j7)
 - [Dev.to/JS] [Making Linux Commands Shorter By Using Aliases](https://dev.to/dev_neil_a/making-linux-commands-shorter-by-using-aliases-1bm7)
 - [Dev.to/JS] [Understanding the difference between useMemo and useCallback](https://dev.to/svetaslepner/understanding-the-difference-between-usememo-and-usecallback-12nj)
 - [Dev.to/JS] [Seeing JavaScript Math.random Not Be So Random](https://dev.to/jesterxl/seeing-javascript-mathrandom-not-be-so-random-1235)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Lowest Common Ancestor of a Binary Search Tree](https://dev.to/_alkesh26/leetcode-lowest-common-ancestor-of-a-binary-search-tree-46eb)
 - [Dev.to/JS] [MongoDB Aggregation Pipeline - $function Stage](https://dev.to/shubhamdutta2000/the-function-stage-in-mongodb-aggregation-pipeline-590d)
 - [Dev.to/JS] [Using &#39;innerHTML&#39; in JavaScript](https://dev.to/zigzagoon1/using-innerhtml-in-javascript-2h51)
-- [Dev.to/JS] [Creating a Discord bot with Slash Commands](https://dev.to/mrrobot/creating-a-discord-bot-with-slash-commands-51fa)
-- [Dev.to/JS] [Async Promise-based FileReader one-liner](https://dev.to/yne/async-promise-based-filereader-one-liner-253f)
-- [Dev.to/JS] [ToDo List](https://dev.to/abhii321/todo-list-30e5)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
