@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Single responsibility in Javascript](https://dev.to/emhat098/single-responsibility-in-javascript-54j8)
 - [Dev.to/JS] [Adding type safety to environment variables in NextJS](https://dev.to/bharathvajganesan/adding-type-safety-to-environment-variables-in-nextjs-54nb)
 - [Dev.to/JS] [JavaScript Language Characteristics](https://dev.to/mcode/javascript-language-characteristics-4ba1)
 - [Dev.to/JS] [6. JS challenge - technical books](https://dev.to/zuzexx/6-js-challenge-technical-books-4485)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Custom React Hooks That Will Transform Your Code 🤖](https://dev.to/naubit/5-custom-react-hooks-that-will-transform-your-code-emo)
 - [Dev.to/JS] [Regular Expressions—a Rite of Passage: From Theory to Practice](https://dev.to/rhieger/regular-expressions-a-rite-of-passage-from-theory-to-practice-2ii5)
 - [Dev.to/JS] [Debouncing: how to use it](https://dev.to/ajidk16/debouncing-how-to-use-it-b7m)
-- [Dev.to/JS] [Javascript Arrays - How to Remove Duplicate Elements](https://dev.to/smpnjn/javascript-arrays-how-to-remove-duplicate-elements-2mc2)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
