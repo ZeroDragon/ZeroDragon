@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - Lowest Common Ancestor of a Binary Search Tree](https://dev.to/_alkesh26/leetcode-lowest-common-ancestor-of-a-binary-search-tree-46eb)
+- [Dev.to/JS] [The $function Stage in MongoDB Aggregation Pipeline](https://dev.to/shubhamdutta2000/the-function-stage-in-mongodb-aggregation-pipeline-590d)
+- [Dev.to/JS] [Using &#39;innerHTML&#39; in JavaScript](https://dev.to/zigzagoon1/using-innerhtml-in-javascript-2h51)
+- [Dev.to/JS] [Creating a Discord bot with Slash Commands](https://dev.to/mrrobot/creating-a-discord-bot-with-slash-commands-51fa)
 - [Dev.to/JS] [Async Promise-based FileReader one-liner](https://dev.to/yne/async-promise-based-filereader-one-liner-253f)
 - [Dev.to/JS] [ToDo List](https://dev.to/abhii321/todo-list-30e5)
 - [Dev.to/JS] [JavaScript Quiz App with Source Code](https://dev.to/shiwani295/javascript-quiz-app-with-source-code-3of8)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build a random quote generator app with React &amp; Tailwind](https://dev.to/coderamrin/how-to-build-a-random-quote-generator-app-with-react-tailwind-3g9e)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Dev.to/JS] [Unleash the Power of Java: A JavaScript Developer&#39;s Guide to Best Practices in Java Development](https://dev.to/timdehof/unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development-37dm)
-- [Dev.to/JS] [Understanding Arrow Function Expressions in JavaScript](https://dev.to/brandonbawe/understanding-arrow-function-expressions-in-javascript-8mi)
-- [Dev.to/JS] [React Anti-Patterns and Best Practices - Do&#39;s and Don&#39;ts](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)
-- [Dev.to/JS] [Get viewport width and height in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/get-viewport-width-and-height-in-javascript-with-examples-1bn4)
-- [Dev.to/JS] [About “__dirname is not defined in ES module scope” in JavaScript](https://dev.to/lavary/about-dirname-is-not-defined-in-es-module-scope-in-javascript-eo3)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
