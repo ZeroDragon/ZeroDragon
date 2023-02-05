@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build a random quote generator app with React &amp; Tailwind](https://dev.to/coderamrin/how-to-build-a-random-quote-generator-app-with-react-tailwind-3g9e)
+- [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
+- [Dev.to/JS] [Understanding Arrow Function Expressions in JavaScript](https://dev.to/brandonbawe/understanding-arrow-function-expressions-in-javascript-8mi)
+- [Dev.to/JS] [React Anti-Patterns and Best Practices - Do&#39;s and Don&#39;ts](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)
+- [Dev.to/JS] [Get viewport width and height in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/get-viewport-width-and-height-in-javascript-with-examples-1bn4)
+- [Dev.to/JS] [About “__dirname is not defined in ES module scope” in JavaScript](https://dev.to/lavary/about-dirname-is-not-defined-in-es-module-scope-in-javascript-eo3)
+- [Dev.to/JS] [15 fun APIs to elevate your project](https://dev.to/acidop/15-fun-apis-to-elevate-your-project-39fn)
+- [Dev.to/JS] [Stripe Abandoned Cart Automation - ConvertX](https://dev.to/coreystevens/stripe-abandoned-cart-automation-convertx-5caj)
+- [Dev.to/JS] [How to get yesterday’s date in JavaScript without a library](https://dev.to/lavary/how-to-get-yesterdays-date-in-javascript-without-a-library-1oj8)
 - [Dev.to/JS] [React setup without create-react-app](https://dev.to/tusharjagi/react-setup-without-create-react-app-1p02)
 - [Dev.to/JS] [How to add days to a date in JavaScript &lpar;without a library&rpar;](https://dev.to/lavary/how-to-add-days-to-a-date-in-javascript-without-a-library-3795)
 - [Dev.to/JS] [Subtract days from a date in JavaScript without a library](https://dev.to/lavary/subtract-days-from-a-date-in-javascript-without-a-library-3bl2)
 - [Dev.to/JS] [Get the day of the week in JavaScript without a library](https://dev.to/lavary/get-the-day-of-the-week-in-javascript-without-a-library-3mj3)
-- [Dev.to/JS] [Using Mocha &amp; chai test you React application](https://dev.to/rivertwilight/using-mocha-chai-test-you-react-application-30pc)
-- [Dev.to/JS] [Is Create React App Really Dead? What Are Other Options?](https://dev.to/clumsycoder/is-create-react-app-really-dead-what-are-other-options-1j39)
-- [Dev.to/JS] [JavaScript double exclamation mark explained &lpar;with examples&rpar;](https://dev.to/lavary/javascript-double-exclamation-mark-explained-with-examples-pp8)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
-- [Dev.to/JS] [Javascript if/else shorthand explained &lpar;with common uses cases&rpar;](https://dev.to/lavary/javascript-ifelse-shorthand-explained-with-common-uses-cases-4nhh)
-- [Dev.to/JS] [About &quot;Cannot use import statement outside a module&quot; in JavaScript](https://dev.to/lavary/about-cannot-use-import-statement-outside-a-module-in-javascript-2enh)
-- [Dev.to/JS] [Redirect to a page from Next.js API Route](https://dev.to/nikolasbarwicki/redirect-to-a-page-from-nextjs-api-route-1nig)
-- [Dev.to/JS] [About &quot;getElementById is not a function&quot; in JavaScript](https://dev.to/lavary/about-getelementbyid-is-not-a-function-in-javascript-l8d)
-- [Dev.to/JS] [React Props](https://dev.to/himanshubaghel07/react-props-4168)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
 - [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
 - [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)
-- [Lifehacker] [8 Ways to Give Your Valentine the Gift of Meat](https://lifehacker.com/8-ways-to-give-your-valentine-the-gift-of-meat-1850066252)
-- [Lifehacker] [These Streaming Services Still Let You Share Passwords](https://lifehacker.com/these-streaming-services-still-let-you-share-passwords-1850065273)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 Ways to Give Your Valentine the Gift of Meat](https://lifehacker.com/8-ways-to-give-your-valentine-the-gift-of-meat-1850066252)<!-- TECH-POSTS:END -->
 
 ---
 
