@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making Linux Commands Shorter By Using Aliases](https://dev.to/dev_neil_a/making-linux-commands-shorter-by-using-aliases-1bm7)
+- [Dev.to/JS] [Understanding the difference between useMemo and useCallback](https://dev.to/svetaslepner/understanding-the-difference-between-usememo-and-usecallback-12nj)
+- [Dev.to/JS] [Seeing JavaScript Math.random Not Be So Random](https://dev.to/jesterxl/seeing-javascript-mathrandom-not-be-so-random-1235)
 - [Dev.to/JS] [Debouncing &amp; Throttling](https://dev.to/taiseen/debouncing-throttling-39fp)
 - [Dev.to/JS] [JavaScript: The Perfect Language for the Perfectly Imperfect Coder](https://dev.to/kk5190/javascript-the-perfect-language-for-the-perfectly-imperfect-coder-1b69)
 - [Dev.to/JS] [Introducing Adiptal Editor- A Next-Generation JavaScript Block Editor](https://dev.to/adiptal/introducing-adiptal-editor-a-next-generation-javascript-block-editor-41am)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Discord bot with Slash Commands](https://dev.to/mrrobot/creating-a-discord-bot-with-slash-commands-51fa)
 - [Dev.to/JS] [Async Promise-based FileReader one-liner](https://dev.to/yne/async-promise-based-filereader-one-liner-253f)
 - [Dev.to/JS] [ToDo List](https://dev.to/abhii321/todo-list-30e5)
-- [Dev.to/JS] [JavaScript Quiz App with Source Code](https://dev.to/shiwani295/javascript-quiz-app-with-source-code-3of8)
-- [Dev.to/JS] [Libraries to consider when using React in 2023 for production applications.](https://dev.to/agboolaidris/libraries-to-consider-when-using-react-in-2023-for-production-applications-1h5)
-- [Dev.to/JS] [Entering the world of HTML, CSS, and JavaScript](https://dev.to/techwithkez/entering-the-world-of-html-css-and-javascript-41k1)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
