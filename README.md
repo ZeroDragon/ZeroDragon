@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debouncing &amp; Throttling](https://dev.to/taiseen/debouncing-throttling-39fp)
+- [Dev.to/JS] [JavaScript: The Perfect Language for the Perfectly Imperfect Coder](https://dev.to/kk5190/javascript-the-perfect-language-for-the-perfectly-imperfect-coder-1b69)
+- [Dev.to/JS] [Introducing Adiptal Editor- A Next-Generation JavaScript Block Editor](https://dev.to/adiptal/introducing-adiptal-editor-a-next-generation-javascript-block-editor-41am)
 - [Dev.to/JS] [LeetCode - Lowest Common Ancestor of a Binary Search Tree](https://dev.to/_alkesh26/leetcode-lowest-common-ancestor-of-a-binary-search-tree-46eb)
-- [Dev.to/JS] [The $function Stage in MongoDB Aggregation Pipeline](https://dev.to/shubhamdutta2000/the-function-stage-in-mongodb-aggregation-pipeline-590d)
+- [Dev.to/JS] [MongoDB Aggregation Pipeline - $function Stage](https://dev.to/shubhamdutta2000/the-function-stage-in-mongodb-aggregation-pipeline-590d)
 - [Dev.to/JS] [Using &#39;innerHTML&#39; in JavaScript](https://dev.to/zigzagoon1/using-innerhtml-in-javascript-2h51)
 - [Dev.to/JS] [Creating a Discord bot with Slash Commands](https://dev.to/mrrobot/creating-a-discord-bot-with-slash-commands-51fa)
 - [Dev.to/JS] [Async Promise-based FileReader one-liner](https://dev.to/yne/async-promise-based-filereader-one-liner-253f)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Quiz App with Source Code](https://dev.to/shiwani295/javascript-quiz-app-with-source-code-3of8)
 - [Dev.to/JS] [Libraries to consider when using React in 2023 for production applications.](https://dev.to/agboolaidris/libraries-to-consider-when-using-react-in-2023-for-production-applications-1h5)
 - [Dev.to/JS] [Entering the world of HTML, CSS, and JavaScript](https://dev.to/techwithkez/entering-the-world-of-html-css-and-javascript-41k1)
-- [Dev.to/JS] [Headless CMS 202](https://dev.to/momciloo/headless-cms-202-5cfj)
-- [Dev.to/JS] [How to build a random quote generator app with React &amp; Tailwind](https://dev.to/coderamrin/how-to-build-a-random-quote-generator-app-with-react-tailwind-3g9e)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
-- [Dev.to/JS] [Unleash the Power of Java: A JavaScript Developer&#39;s Guide to Best Practices in Java Development](https://dev.to/timdehof/unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development-37dm)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
