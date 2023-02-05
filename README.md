@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Arrays - How to Remove Duplicate Elements](https://dev.to/smpnjn/javascript-arrays-how-to-remove-duplicate-elements-2mc2)
+- [Dev.to/JS] [Javascript Arrays](https://dev.to/smpnjn/javascript-arrays-32co)
+- [Dev.to/JS] [Javascript toLowerCase&lpar;&rpar; - Convert Strings to Lowercase](https://dev.to/smpnjn/javascript-tolowercase-convert-strings-to-lowercase-446i)
+- [Dev.to/JS] [How to Check if Object is Empty in JavaScript](https://dev.to/smpnjn/how-to-check-if-object-is-empty-in-javascript-5afl)
+- [Dev.to/JS] [Javascript Promise.all&lpar;&rpar; - Everything you need to know](https://dev.to/smpnjn/javascript-promiseall-everything-you-need-to-know-3836)
 - [Dev.to/JS] [Javascript innerHTML](https://dev.to/smpnjn/javascript-innerhtml-4lh)
 - [Dev.to/JS] [Centering Elements in CSS with Tailwind](https://dev.to/smpnjn/centering-elements-in-css-with-tailwind-4cm5)
 - [Dev.to/JS] [Erro!!! Mongoose Deprecation Warning the strictQuery](https://dev.to/andpeicunha/erro-mongoose-deprecation-warning-the-strictquery-5ede)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Sum Root to Leaf Numbers](https://dev.to/_alkesh26/leetcode-sum-root-to-leaf-numbers-pce)
 - [Dev.to/JS] [Introduction to Fiddlehead: A Fast and Lightweight UI Library](https://dev.to/vanquyet/introduction-to-fiddlehead-a-fast-and-lightweight-ui-library-273p)
 - [Dev.to/JS] [JavaScript Closure: The Secret Handshake of Functions](https://dev.to/kk5190/javascript-closure-the-secret-handshake-of-functions-5d1n)
-- [Dev.to/JS] [React Hooks by Example - Part 1](https://dev.to/espelar-dev/react-hooks-by-example-part-1-31o0)
-- [Dev.to/JS] [React Custom Music Player](https://dev.to/amir_alipour/react-custom-music-player-1h1)
-- [Dev.to/JS] [Why go full-stack in 2023?](https://dev.to/stebunovd/why-go-full-stack-in-2023-4381)
-- [Dev.to/JS] [Coming Soon Website Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/coming-soon-website-using-html-css-and-javascript-2hnj)
-- [Dev.to/JS] [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-2e2i)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
