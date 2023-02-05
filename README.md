@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Créer un Carrousel en HTML CSS &amp; JS](https://dev.to/blakvghost/creer-un-carrousel-en-html-css-js-4bih)
+- [Dev.to/JS] [How-To Guide on Communicating with Servers: GET Requests](https://dev.to/jmckeag/how-to-guide-on-communicating-with-servers-get-requests-1pd7)
 - [Dev.to/JS] [5 Custom React Hooks That Will Transform Your Code 🤖](https://dev.to/naubit/5-custom-react-hooks-that-will-transform-your-code-emo)
 - [Dev.to/JS] [Regular Expressions—a Rite of Passage: From Theory to Practice](https://dev.to/rhieger/regular-expressions-a-rite-of-passage-from-theory-to-practice-2ii5)
 - [Dev.to/JS] [Debouncing: how to use it](https://dev.to/ajidk16/debouncing-how-to-use-it-b7m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Promise.all&lpar;&rpar; - Everything you need to know](https://dev.to/smpnjn/javascript-promiseall-everything-you-need-to-know-3836)
 - [Dev.to/JS] [Javascript innerHTML](https://dev.to/smpnjn/javascript-innerhtml-4lh)
 - [Dev.to/JS] [Centering Elements in CSS with Tailwind](https://dev.to/smpnjn/centering-elements-in-css-with-tailwind-4cm5)
-- [Dev.to/JS] [Erro!!! Mongoose Deprecation Warning the strictQuery](https://dev.to/andpeicunha/erro-mongoose-deprecation-warning-the-strictquery-5ede)
-- [Dev.to/JS] [Build a Shopping Cart with Alpinejs.](https://dev.to/andrewzach/build-a-shopping-cart-with-alpinejs-3nkb)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
