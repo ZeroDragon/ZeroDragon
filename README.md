@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [About &quot;getElementById is not a function&quot; in JavaScript](https://dev.to/lavary/about-getelementbyid-is-not-a-function-in-javascript-l8d)
+- [Dev.to/JS] [The most effective method to Use Life Plus ?](https://dev.to/ketolifeplusgummies/the-most-effective-method-to-use-life-plus--3c07)
 - [Dev.to/JS] [React Props](https://dev.to/himanshubaghel07/react-props-4168)
 - [Dev.to/JS] [Create a WhatsApp Bot that schedules, Automates Messages on the cloud.](https://dev.to/scofieldidehen/create-a-whatsapp-bot-that-schedules-automates-messages-on-the-cloud-4nkb)
 - [Dev.to/JS] [Single responsibility in Javascript](https://dev.to/emhat098/single-responsibility-in-javascript-54j8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Free Public APIs you will love as a developer💖](https://dev.to/ruppysuppy/7-free-public-apis-you-will-love-as-a-developer-166p)
 - [Dev.to/JS] [Tutorial membuat Blog dengan Nuxt.js 3 dan Nuxt Content V2](https://dev.to/narr07/tutorial-membuat-blog-dengan-nuxtjs-3-dan-nuxt-content-v2-2eo)
 - [Dev.to/JS] [Créer un Carrousel en HTML CSS &amp; JS](https://dev.to/blakvghost/creer-un-carrousel-en-html-css-js-4bih)
-- [Dev.to/JS] [How-To Guide on Communicating with Servers: GET Requests](https://dev.to/jmckeag/how-to-guide-on-communicating-with-servers-get-requests-1pd7)
-- [Dev.to/JS] [5 Custom React Hooks That Will Transform Your Code 🤖](https://dev.to/naubit/5-custom-react-hooks-that-will-transform-your-code-emo)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
