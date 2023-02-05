@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Language Characteristics](https://dev.to/mcode/javascript-language-characteristics-4ba1)
+- [Dev.to/JS] [6. JS challenge - technical books](https://dev.to/zuzexx/6-js-challenge-technical-books-4485)
 - [Dev.to/JS] [JavaScript&#39;s Optional Chaining &lpar;?.&rpar; Operator](https://dev.to/codeofrelevancy/javascripts-optional-chaining-operator-3pfn)
 - [Dev.to/JS] [7 Free Public APIs you will love as a developer💖](https://dev.to/ruppysuppy/7-free-public-apis-you-will-love-as-a-developer-166p)
 - [Dev.to/JS] [Tutorial membuat Blog dengan Nuxt.js 3 dan Nuxt Content V2](https://dev.to/narr07/tutorial-membuat-blog-dengan-nuxtjs-3-dan-nuxt-content-v2-2eo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debouncing: how to use it](https://dev.to/ajidk16/debouncing-how-to-use-it-b7m)
 - [Dev.to/JS] [Javascript Arrays - How to Remove Duplicate Elements](https://dev.to/smpnjn/javascript-arrays-how-to-remove-duplicate-elements-2mc2)
 - [Dev.to/JS] [Javascript Arrays](https://dev.to/smpnjn/javascript-arrays-32co)
-- [Dev.to/JS] [Javascript toLowerCase&lpar;&rpar; - Convert Strings to Lowercase](https://dev.to/smpnjn/javascript-tolowercase-convert-strings-to-lowercase-446i)
-- [Dev.to/JS] [How to Check if Object is Empty in JavaScript](https://dev.to/smpnjn/how-to-check-if-object-is-empty-in-javascript-5afl)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
