@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [PHP replace space with dash explained with examples](https://dev.to/lavary/php-replace-space-with-dash-explained-with-examples-4nmb)
+- [Lifehacker] [You Should Add Frangipane to Your Dessert Repertoire](https://lifehacker.com/you-should-add-frangipane-to-your-dessert-repertoire-1850077828)
+- [Dev.to/JS] [Adding Meatballs Menu To React-Table Rows](https://dev.to/dsibinski/adding-meatballs-menu-to-react-table-rows-4kaj)
+- [Lifehacker] [9 of the Best &lpar;but Hidden&rpar; Notes App Features on Your iPhone](https://lifehacker.com/9-of-the-best-but-hidden-notes-app-features-on-your-i-1850076909)
 - [Dev.to/JS] [Entendiendo las funciones Map, Filter &amp; Reduce](https://dev.to/asjordi/entendiendo-las-funciones-map-filter-reduce-5efp)
 - [Lifehacker] [A Parent&#39;s Guide to &#39;Pathological Demand Avoidance&#39;](https://lifehacker.com/a-parents-guide-to-pathological-demand-avoidance-1850071620)
 - [Dev.to/JS] [Integer division in JavaScript explained](https://dev.to/lavary/integer-division-in-javascript-explained-fai)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)
 - [Lifehacker] [Here’s What It Actually Means When Someone Flashes Their Headlights at You](https://lifehacker.com/here-s-what-it-actually-means-when-someone-flashes-thei-1850070282)
 - [Lifehacker] [10 Podcasts That Spill Juicy, Scandalous Secrets](https://lifehacker.com/10-podcasts-that-spill-juicy-scandalous-secrets-1850045092)
-- [Lifehacker] [Why You Shouldn&#39;t Use AI for Your Cover Letters](https://lifehacker.com/why-you-shouldnt-use-ai-for-your-cover-letters-1850067441)
-- [Lifehacker] [You Can Get Better at Managing Your Emotions Even As an Adult](https://lifehacker.com/you-can-get-better-at-managing-your-emotions-even-as-an-1850056683)
-- [Lifehacker] [You Can Get Up to Four Months of Apple Music and Apple TV+ for Free](https://lifehacker.com/you-can-get-up-to-four-months-of-apple-music-and-apple-1850069330)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn&#39;t Use AI for Your Cover Letters](https://lifehacker.com/why-you-shouldnt-use-ai-for-your-cover-letters-1850067441)<!-- TECH-POSTS:END -->
 
 ---
 
