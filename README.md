@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Deadly Sins of Being a Decent Neighbor](https://lifehacker.com/the-7-deadly-sins-of-being-a-decent-neighbor-1850073202)
+- [Dev.to/JS] [Understanding the JavaScript Event Loop](https://dev.to/bharat5604/understanding-the-javascript-event-loop-3c4i)
 - [Lifehacker] [Make Cheaper &lpar;and Better&rpar; Protein Shakes With Plain Whey and Coffee Creamer](https://lifehacker.com/make-cheaper-and-better-protein-shakes-with-plain-whe-1850071813)
 - [Dev.to/JS] [Automatically generating pages for each tag used in Astro with MDX](https://dev.to/thomasledoux1/automatically-generating-pages-for-each-tag-used-in-astro-with-mdx-1ldd)
 - [Dev.to/JS] [URI VS URL](https://dev.to/refine/uri-vs-url-1j3n)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Emotion vs Tailwind CSS vs Styled-Components](https://dev.to/xaypanya/emotion-vs-tailwind-css-vs-styled-components-4195)
 - [Dev.to/JS] [Ethereum Deposit Tool](https://dev.to/stevenoz086/ethereum-deposit-tool-2ek9)
 - [Dev.to/JS] [JavaScript Function Types](https://dev.to/mavis_chen/javascript-function-types-47p4)
-- [Dev.to/JS] [Vue router with typescript Part 2](https://dev.to/guilhermeneves142/vue-router-with-typescript-part-2-5532)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Up to Four Months of Apple Music and Apple TV+ for Free](https://lifehacker.com/you-can-get-up-to-four-months-of-apple-music-and-apple-1850069330)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Watching &#39;The Last of Us&#39;?](https://lifehacker.com/why-is-everyone-watching-the-last-of-us-the-out-of-tou-1850068835)
 - [Lifehacker] [11 Expansive Cinematic Universes That Aren&#39;t Marvel or Star Wars](https://lifehacker.com/11-expansive-cinematic-universes-that-arent-marvel-or-s-1850060990)
-- [Lifehacker] [You Need to Sizzle Some Onions](https://lifehacker.com/you-need-to-sizzle-some-onions-1850068583)
-- [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Sizzle Some Onions](https://lifehacker.com/you-need-to-sizzle-some-onions-1850068583)<!-- TECH-POSTS:END -->
 
 ---
 
