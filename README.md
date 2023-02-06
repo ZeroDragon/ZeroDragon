@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleash the Power of Your Data: 6 ES6 Array Functions You Need to Know 🚀](https://dev.to/naubit/unleash-the-power-of-your-data-6-es6-array-functions-you-need-to-know-1e6)
 - [Dev.to/JS] [7 great libraries for React](https://dev.to/gravy59/7-great-libraries-for-react-2g0o)
 - [Dev.to/JS] [How to create apps for Microsoft Teams](https://dev.to/microsoft365/how-to-create-apps-for-microsoft-teams-2l9e)
 - [Dev.to/JS] [Learning some JavaScript](https://dev.to/dillpap/learning-some-javascript-1973)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making Linux Commands Shorter By Using Aliases](https://dev.to/dev_neil_a/making-linux-commands-shorter-by-using-aliases-1bm7)
 - [Dev.to/JS] [Understanding the difference between useMemo and useCallback](https://dev.to/svetaslepner/understanding-the-difference-between-usememo-and-usecallback-12nj)
 - [Dev.to/JS] [Seeing JavaScript Math.random Not Be So Random](https://dev.to/jesterxl/seeing-javascript-mathrandom-not-be-so-random-1235)
-- [Dev.to/JS] [Debouncing &amp; Throttling](https://dev.to/taiseen/debouncing-throttling-39fp)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
