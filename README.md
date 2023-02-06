@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [what are Reactjs hooks](https://dev.to/meetbhalodiya/what-are-reactjs-hooks-4pab)
+- [Dev.to/JS] [Web Performance Optimisation Techniques for Frontend Developers](https://dev.to/codesensei/web-performance-optimisation-techniques-for-frontend-developers-5909)
+- [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
+- [Dev.to/JS] [iCodeThis: Improve Your Coding Skills With Free Daily Challenges](https://dev.to/michaellarocca/icodethis-improve-your-coding-skills-with-free-daily-challenges-5eh9)
+- [Dev.to/JS] [Iteradores e Geradores no JavaScript.](https://dev.to/altencirsilvajr/iteradores-e-geradores-no-javascript-1i97)
+- [Dev.to/JS] [Using JavaScript slice&lpar;&rpar; in React](https://dev.to/kumard3/using-javascript-slice-in-react-2e2h)
 - [Dev.to/JS] [Question: How to display Python output on a webpage with Node.js?](https://dev.to/kanatbekaka/question-how-to-display-python-output-on-a-webpage-with-nodejs-fc3)
+- [Lifehacker] [The Easiest Way to Clean Out Your Cluttered Camera Roll](https://lifehacker.com/the-easiest-way-to-clean-out-your-cluttered-camera-roll-1850078341)
 - [Lifehacker] [Your Bathroom Needs a Phone Shelf](https://lifehacker.com/your-bathroom-needs-a-phone-shelf-1850077862)
 - [Dev.to/JS] [Use over 140+ amazing ChatGPT prompts in 10 minutes 🚀](https://dev.to/pacholoamit/use-over-140-amazing-chatgpt-prompts-in-10-minutes-na3)
 - [Lifehacker] [You Should Add Frangipane to Your Dessert Repertoire](https://lifehacker.com/you-should-add-frangipane-to-your-dessert-repertoire-1850077828)
@@ -34,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integer division in JavaScript explained](https://dev.to/lavary/integer-division-in-javascript-explained-fai)
 - [Dev.to/JS] [Improve Your Debugging Approach for Better Software Applications &lpar;&amp; Sounder Sleep 😴&rpar;](https://dev.to/giantmachines/improve-your-debugging-approach-for-better-software-applications-sounder-sleep--420g)
 - [Dev.to/JS] [JavaScript isset Equivalent &lpar;3 methods&rpar;](https://dev.to/lavary/javascript-isset-equivalent-3-methods-4692)
-- [Dev.to/JS] [JavaScript Fundamentos - Variáveis e Tipos de Dados](https://dev.to/nascimento_/javascript-fundamentos-variaveis-e-tipos-de-dados-4oi6)
 - [Lifehacker] [Here’s What Will Probably Cause the Next Pandemic](https://lifehacker.com/here-s-what-will-probably-cause-the-next-pandemic-1850072719)
-- [Dev.to/JS] [Javascript Vs Typescript](https://dev.to/hirentimbadiya/javascript-vs-typescript-1jg5)
-- [Dev.to/JS] [Validando dados com Regex](https://dev.to/erandirjunior/validando-dados-com-regex-mdc)
-- [Dev.to/JS] [5 AI Websites That Will Save You Hours of Effort](https://dev.to/rahul3002/5-ai-websites-that-will-save-you-hours-of-effort-3e9f)
 - [Lifehacker] [Don&#39;t Drive These Seven Older Car Models, Honda Says](https://lifehacker.com/dont-drive-these-seven-older-car-models-honda-says-1850072496)
 - [Lifehacker] [The 7 Deadly Sins of Being a Decent Neighbor](https://lifehacker.com/the-7-deadly-sins-of-being-a-decent-neighbor-1850073202)
-- [Dev.to/JS] [Understanding the JavaScript Event Loop](https://dev.to/bharat5604/understanding-the-javascript-event-loop-3c4i)
 - [Lifehacker] [Make Cheaper &lpar;and Better&rpar; Protein Shakes With Plain Whey and Coffee Creamer](https://lifehacker.com/make-cheaper-and-better-protein-shakes-with-plain-whe-1850071813)
 - [Lifehacker] [All the Changes Worth Knowing About Before Filing Your 2022 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
 - [Lifehacker] [The Case for Putting Expensive Eggs on Cheap Pizza](https://lifehacker.com/the-case-for-putting-expensive-eggs-on-cheap-pizza-1850072924)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2023](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
 - [Lifehacker] [19 Eggless Desserts to Help You Cope With Eggflation](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
 - [Lifehacker] [Test Your Endurance With This Never-Ending AI-Generated &#39;Seinfeld&#39; Show](https://lifehacker.com/test-your-endurance-with-this-never-ending-ai-generated-1850070188)
-- [Lifehacker] [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)
-- [Lifehacker] [Here’s What It Actually Means When Someone Flashes Their Headlights at You](https://lifehacker.com/here-s-what-it-actually-means-when-someone-flashes-thei-1850070282)
-- [Lifehacker] [10 Podcasts That Spill Juicy, Scandalous Secrets](https://lifehacker.com/10-podcasts-that-spill-juicy-scandalous-secrets-1850045092)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)<!-- TECH-POSTS:END -->
 
 ---
 
