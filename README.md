@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
+- [Lifehacker] [Air Fry Some Store-Bought Bacon Bits](https://lifehacker.com/air-fry-some-store-bought-bacon-bits-1850079590)
+- [Dev.to/JS] [Authentication and Authorization in a Node API using Fastify, tRPC and Supertokens](https://dev.to/franciscomendes10866/authentication-and-authorization-in-a-node-api-using-fastify-trpc-and-supertokens-3cgn)
 - [Lifehacker] [14 DIY Cleaning Recipes for People Who Hate Chemicals](https://lifehacker.com/14-diy-cleaning-recipes-for-people-who-hate-chemicals-1850079064)
 - [Lifehacker] [How Much Money Should You Be Saving in 2023?](https://lifehacker.com/how-much-money-should-you-be-saving-in-2023-1850070942)
 - [Dev.to/JS] [Padrão - Facade](https://dev.to/higordiego/padrao-facade-364a)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [About &quot;TypeError: map is not a function&quot; in JavaScript](https://dev.to/lavary/about-typeerror-map-is-not-a-function-in-javascript-80)
 - [Dev.to/JS] [Build a Multi-Step Form in Vue in 5 minutes.](https://dev.to/andrewboyd/build-a-multi-step-form-in-vue-in-5-minutes-41cj)
 - [Dev.to/JS] [Cannot find module error in Node.js &lpar;Fixed&rpar;](https://dev.to/lavary/cannot-find-module-error-in-nodejs-fixed-4a6p)
-- [Dev.to/JS] [How to use process.env variables correctly in a webpack-based NodeJS app deployed to Heroku?](https://dev.to/mbshehzad/how-to-use-processenv-variables-correctly-in-a-webpack-based-nodejs-app-deployed-to-heroku-3lhh)
 - [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
 - [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
 - [Lifehacker] [The Easiest Way to Clean Out Your Cluttered Camera Roll](https://lifehacker.com/the-easiest-way-to-clean-out-your-cluttered-camera-roll-1850078341)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Get Free Froyo on National Frozen Yogurt Day](https://lifehacker.com/where-to-get-free-froyo-on-national-frozen-yogurt-day-1850072058)
 - [Lifehacker] [Don’t Make Your Bed First Thing in the Morning](https://lifehacker.com/don-t-make-your-bed-first-thing-in-the-morning-1850072218)
 - [Lifehacker] [Why There Are Dots All Over Your Smartphone Photos &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-there-are-dots-all-over-your-smartphone-photos-and-1850072094)
-- [Lifehacker] [These Are the Best Breads for French Toast](https://lifehacker.com/these-are-the-best-breads-for-french-toast-1850072130)
-- [Lifehacker] [Finish Your Ramen With a Drizzle of Flavor-Packed Oil](https://lifehacker.com/finish-your-ramen-with-a-drizzle-of-flavor-packed-oil-1850071841)
-- [Lifehacker] [The Two Easiest Ways to Get a Duvet Cover On](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Breads for French Toast](https://lifehacker.com/these-are-the-best-breads-for-french-toast-1850072130)<!-- TECH-POSTS:END -->
 
 ---
 
