@@ -23,24 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [About &quot;SyntaxError: Unexpected end of JSON input&quot; in JavaScript](https://dev.to/lavary/about-syntaxerror-unexpected-end-of-json-input-in-javascript-22aj)
+- [Dev.to/JS] [Add commas to numbers in JavaScript &lpar;Explained with examples&rpar;](https://dev.to/lavary/add-commas-to-numbers-in-javascript-explained-with-examples-27k8)
+- [Dev.to/JS] [tailwindCSS&#39;s classes order pattern &quot;best practice&quot; 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
+- [Lifehacker] [You Can Get Taco Bell’s New-ish Crispy Melt Taco for Free-ish Right Now](https://lifehacker.com/you-can-get-taco-bell-s-new-ish-crispy-melt-taco-for-fr-1850078656)
+- [Dev.to/JS] [How does redux&#39;s connect work?](https://dev.to/ahmedgaafer/how-does-reduxs-connect-work-hkm)
+- [Dev.to/JS] [About &quot;TypeError: map is not a function&quot; in JavaScript](https://dev.to/lavary/about-typeerror-map-is-not-a-function-in-javascript-80)
+- [Dev.to/JS] [Build a Multi-Step Form in Vue in 5 minutes.](https://dev.to/andrewboyd/build-a-multi-step-form-in-vue-in-5-minutes-41cj)
+- [Dev.to/JS] [Cannot find module error in Node.js &lpar;Fixed&rpar;](https://dev.to/lavary/cannot-find-module-error-in-nodejs-fixed-4a6p)
+- [Dev.to/JS] [How to use process.env variables correctly in a webpack-based NodeJS app deployed to Heroku?](https://dev.to/mbshehzad/how-to-use-processenv-variables-correctly-in-a-webpack-based-nodejs-app-deployed-to-heroku-3lhh)
+- [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
 - [Dev.to/JS] [what are Reactjs hooks](https://dev.to/meetbhalodiya/what-are-reactjs-hooks-4pab)
 - [Dev.to/JS] [Web Performance Optimisation Techniques for Frontend Developers](https://dev.to/codesensei/web-performance-optimisation-techniques-for-frontend-developers-5909)
 - [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
 - [Dev.to/JS] [iCodeThis: Improve Your Coding Skills With Free Daily Challenges](https://dev.to/michaellarocca/icodethis-improve-your-coding-skills-with-free-daily-challenges-5eh9)
 - [Dev.to/JS] [Iteradores e Geradores no JavaScript.](https://dev.to/altencirsilvajr/iteradores-e-geradores-no-javascript-1i97)
-- [Dev.to/JS] [Using JavaScript slice&lpar;&rpar; in React](https://dev.to/kumard3/using-javascript-slice-in-react-2e2h)
-- [Dev.to/JS] [Question: How to display Python output on a webpage with Node.js?](https://dev.to/kanatbekaka/question-how-to-display-python-output-on-a-webpage-with-nodejs-fc3)
 - [Lifehacker] [The Easiest Way to Clean Out Your Cluttered Camera Roll](https://lifehacker.com/the-easiest-way-to-clean-out-your-cluttered-camera-roll-1850078341)
 - [Lifehacker] [Your Bathroom Needs a Phone Shelf](https://lifehacker.com/your-bathroom-needs-a-phone-shelf-1850077862)
-- [Dev.to/JS] [Use over 140+ amazing ChatGPT prompts in 10 minutes 🚀](https://dev.to/pacholoamit/use-over-140-amazing-chatgpt-prompts-in-10-minutes-na3)
 - [Lifehacker] [You Should Add Frangipane to Your Dessert Repertoire](https://lifehacker.com/you-should-add-frangipane-to-your-dessert-repertoire-1850077828)
-- [Dev.to/JS] [Adding Meatballs Menu To React-Table Rows](https://dev.to/dsibinski/adding-meatballs-menu-to-react-table-rows-4kaj)
 - [Lifehacker] [9 of the Best &lpar;but Hidden&rpar; Notes App Features on Your iPhone](https://lifehacker.com/9-of-the-best-but-hidden-notes-app-features-on-your-i-1850076909)
-- [Dev.to/JS] [Entendiendo las funciones Map, Filter &amp; Reduce](https://dev.to/asjordi/entendiendo-las-funciones-map-filter-reduce-5efp)
 - [Lifehacker] [A Parent&#39;s Guide to &#39;Pathological Demand Avoidance&#39;](https://lifehacker.com/a-parents-guide-to-pathological-demand-avoidance-1850071620)
-- [Dev.to/JS] [Integer division in JavaScript explained](https://dev.to/lavary/integer-division-in-javascript-explained-fai)
-- [Dev.to/JS] [Improve Your Debugging Approach for Better Software Applications &lpar;&amp; Sounder Sleep 😴&rpar;](https://dev.to/giantmachines/improve-your-debugging-approach-for-better-software-applications-sounder-sleep--420g)
-- [Dev.to/JS] [JavaScript isset Equivalent &lpar;3 methods&rpar;](https://dev.to/lavary/javascript-isset-equivalent-3-methods-4692)
 - [Lifehacker] [Here’s What Will Probably Cause the Next Pandemic](https://lifehacker.com/here-s-what-will-probably-cause-the-next-pandemic-1850072719)
 - [Lifehacker] [Don&#39;t Drive These Seven Older Car Models, Honda Says](https://lifehacker.com/dont-drive-these-seven-older-car-models-honda-says-1850072496)
 - [Lifehacker] [The 7 Deadly Sins of Being a Decent Neighbor](https://lifehacker.com/the-7-deadly-sins-of-being-a-decent-neighbor-1850073202)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Finish Your Ramen With a Drizzle of Flavor-Packed Oil](https://lifehacker.com/finish-your-ramen-with-a-drizzle-of-flavor-packed-oil-1850071841)
 - [Lifehacker] [The Two Easiest Ways to Get a Duvet Cover On](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)
 - [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2023](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
-- [Lifehacker] [19 Eggless Desserts to Help You Cope With Eggflation](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
-- [Lifehacker] [Test Your Endurance With This Never-Ending AI-Generated &#39;Seinfeld&#39; Show](https://lifehacker.com/test-your-endurance-with-this-never-ending-ai-generated-1850070188)
-- [Lifehacker] [This Is the Best Time to Subscribe to Xbox Game Pass Ultimate](https://lifehacker.com/this-is-the-best-time-to-subscribe-to-xbox-game-pass-ul-1850070633)<!-- TECH-POSTS:END -->
+- [Lifehacker] [19 Eggless Desserts to Help You Cope With Eggflation](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)<!-- TECH-POSTS:END -->
 
 ---
 
