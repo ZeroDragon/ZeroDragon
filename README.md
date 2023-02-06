@@ -23,22 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PHP replace space with dash explained with examples](https://dev.to/lavary/php-replace-space-with-dash-explained-with-examples-4nmb)
+- [Dev.to/JS] [Entendiendo las funciones Map, Filter &amp; Reduce](https://dev.to/asjordi/entendiendo-las-funciones-map-filter-reduce-5efp)
+- [Lifehacker] [A Parent&#39;s Guide to &#39;Pathological Demand Avoidance&#39;](https://lifehacker.com/a-parents-guide-to-pathological-demand-avoidance-1850071620)
+- [Dev.to/JS] [Integer division in JavaScript explained](https://dev.to/lavary/integer-division-in-javascript-explained-fai)
+- [Dev.to/JS] [Improve Your Debugging Approach for Better Software Applications &lpar;&amp; Sounder Sleep 😴&rpar;](https://dev.to/giantmachines/improve-your-debugging-approach-for-better-software-applications-sounder-sleep--420g)
+- [Dev.to/JS] [JavaScript isset Equivalent &lpar;3 methods&rpar;](https://dev.to/lavary/javascript-isset-equivalent-3-methods-4692)
+- [Dev.to/JS] [JavaScript Fundamentos - Variáveis e Tipos de Dados](https://dev.to/nascimento_/javascript-fundamentos-variaveis-e-tipos-de-dados-4oi6)
+- [Lifehacker] [Here’s What Will Probably Cause the Next Pandemic](https://lifehacker.com/here-s-what-will-probably-cause-the-next-pandemic-1850072719)
+- [Dev.to/JS] [Javascript Vs Typescript](https://dev.to/hirentimbadiya/javascript-vs-typescript-1jg5)
+- [Dev.to/JS] [Validando dados com Regex](https://dev.to/erandirjunior/validando-dados-com-regex-mdc)
+- [Dev.to/JS] [5 AI Websites That Will Save You Hours of Effort](https://dev.to/rahul3002/5-ai-websites-that-will-save-you-hours-of-effort-3e9f)
+- [Lifehacker] [Don&#39;t Drive These Seven Older Car Models, Honda Says](https://lifehacker.com/dont-drive-these-seven-older-car-models-honda-says-1850072496)
 - [Lifehacker] [The 7 Deadly Sins of Being a Decent Neighbor](https://lifehacker.com/the-7-deadly-sins-of-being-a-decent-neighbor-1850073202)
 - [Dev.to/JS] [Understanding the JavaScript Event Loop](https://dev.to/bharat5604/understanding-the-javascript-event-loop-3c4i)
 - [Lifehacker] [Make Cheaper &lpar;and Better&rpar; Protein Shakes With Plain Whey and Coffee Creamer](https://lifehacker.com/make-cheaper-and-better-protein-shakes-with-plain-whe-1850071813)
 - [Dev.to/JS] [Automatically generating pages for each tag used in Astro with MDX](https://dev.to/thomasledoux1/automatically-generating-pages-for-each-tag-used-in-astro-with-mdx-1ldd)
 - [Dev.to/JS] [URI VS URL](https://dev.to/refine/uri-vs-url-1j3n)
-- [Dev.to/JS] [How to check if an element exists in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/how-to-check-if-an-element-exists-in-javascript-with-examples-4mpb)
-- [Dev.to/JS] [GitHub repositories for developers everyone should know🤩🚀](https://dev.to/ishratumar/github-repositories-for-developers-everyone-should-know-49d)
-- [Dev.to/JS] [The Top 5 Stanford University Free Courses. You Shouldn’t Miss .](https://dev.to/ziontutorial/the-top-5-stanford-university-free-courses-you-shouldnt-miss--50ep)
 - [Lifehacker] [All the Changes Worth Knowing About Before Filing Your 2022 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
 - [Lifehacker] [The Case for Putting Expensive Eggs on Cheap Pizza](https://lifehacker.com/the-case-for-putting-expensive-eggs-on-cheap-pizza-1850072924)
-- [Dev.to/JS] [Should we use OOP with TypeScript and Node.js?](https://dev.to/wasikamla/should-we-use-oop-with-typescript-and-nodejs-408)
-- [Dev.to/JS] [Hoisting quiz](https://dev.to/mavis_chen/hoisting-quiz-l50)
-- [Dev.to/JS] [Data Driven Testing using JSON file in Postman](https://dev.to/dilpreetjohal/data-driven-testing-using-json-file-in-postman-284k)
-- [Dev.to/JS] [Emotion vs Tailwind CSS vs Styled-Components](https://dev.to/xaypanya/emotion-vs-tailwind-css-vs-styled-components-4195)
-- [Dev.to/JS] [Ethereum Deposit Tool](https://dev.to/stevenoz086/ethereum-deposit-tool-2ek9)
-- [Dev.to/JS] [JavaScript Function Types](https://dev.to/mavis_chen/javascript-function-types-47p4)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Podcasts That Spill Juicy, Scandalous Secrets](https://lifehacker.com/10-podcasts-that-spill-juicy-scandalous-secrets-1850045092)
 - [Lifehacker] [Why You Shouldn&#39;t Use AI for Your Cover Letters](https://lifehacker.com/why-you-shouldnt-use-ai-for-your-cover-letters-1850067441)
 - [Lifehacker] [You Can Get Better at Managing Your Emotions Even As an Adult](https://lifehacker.com/you-can-get-better-at-managing-your-emotions-even-as-an-1850056683)
-- [Lifehacker] [You Can Get Up to Four Months of Apple Music and Apple TV+ for Free](https://lifehacker.com/you-can-get-up-to-four-months-of-apple-music-and-apple-1850069330)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Watching &#39;The Last of Us&#39;?](https://lifehacker.com/why-is-everyone-watching-the-last-of-us-the-out-of-tou-1850068835)
-- [Lifehacker] [11 Expansive Cinematic Universes That Aren&#39;t Marvel or Star Wars](https://lifehacker.com/11-expansive-cinematic-universes-that-arent-marvel-or-s-1850060990)
-- [Lifehacker] [You Need to Sizzle Some Onions](https://lifehacker.com/you-need-to-sizzle-some-onions-1850068583)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Up to Four Months of Apple Music and Apple TV+ for Free](https://lifehacker.com/you-can-get-up-to-four-months-of-apple-music-and-apple-1850069330)<!-- TECH-POSTS:END -->
 
 ---
 
