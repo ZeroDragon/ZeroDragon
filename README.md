@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build Email Lookup Extension for Chrome using Hazelbase APIs](https://dev.to/elliot_brenya/how-to-build-email-lookup-extension-for-chrome-using-hazelbase-apis-3lil)
+- [Dev.to/JS] [The best tools for software development industry](https://dev.to/chetanmittaldev/the-best-tools-for-software-development-industry-gle)
 - [Dev.to/JS] [Should revoke refress token when get new access token?](https://dev.to/cucheng/should-revoke-refress-token-when-get-new-access-token-4hl7)
 - [Dev.to/JS] [Video Transcription using Cloudinary Add-on in a Nuxt 3 Application](https://dev.to/yhuakim/video-transcription-using-cloudinary-add-on-in-a-nuxt-3-application-1n31)
 - [Dev.to/JS] [Unleash the Power of Your Data: 6 ES6 Array Functions You Need to Know 🚀](https://dev.to/naubit/unleash-the-power-of-your-data-6-es6-array-functions-you-need-to-know-1e6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Styling Toast Messages with React-Toastify](https://dev.to/asayerio_techblog/styling-toast-messages-with-react-toastify-29e)
 - [Dev.to/JS] [Checking if a value is a number in Javascript with isNaN&lpar;&rpar;](https://dev.to/smpnjn/checking-if-a-value-is-a-number-in-javascript-with-isnan-h8c)
 - [Dev.to/JS] [Django + Unpoly = ️](https://dev.to/ale_jacques/django-unpoly--15d6)
-- [Dev.to/JS] [Implementing a Command Palette and Task Timer &lpar;part 1&rpar;](https://dev.to/rouilj/implementing-a-command-palette-and-task-timer-part-1-12j7)
-- [Dev.to/JS] [Making Linux Commands Shorter By Using Aliases](https://dev.to/dev_neil_a/making-linux-commands-shorter-by-using-aliases-1bm7)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
