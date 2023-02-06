@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [14 DIY Cleaning Recipes for People Who Hate Chemicals](https://lifehacker.com/14-diy-cleaning-recipes-for-people-who-hate-chemicals-1850079064)
+- [Lifehacker] [How Much Money Should You Be Saving in 2023?](https://lifehacker.com/how-much-money-should-you-be-saving-in-2023-1850070942)
+- [Dev.to/JS] [Padrão - Facade](https://dev.to/higordiego/padrao-facade-364a)
+- [Dev.to/JS] [React.js several complex concepts](https://dev.to/mdsifath70/reactjs-several-complex-concepts-394f)
+- [Dev.to/JS] [Label htmlFor Property Explained](https://dev.to/lavary/label-htmlfor-property-explained-1pjd)
+- [Dev.to/JS] [About “ReferenceError: document is not defined” in JavaScript](https://dev.to/lavary/about-referenceerror-document-is-not-defined-in-javascript-1h3g)
 - [Dev.to/JS] [About &quot;SyntaxError: Unexpected end of JSON input&quot; in JavaScript](https://dev.to/lavary/about-syntaxerror-unexpected-end-of-json-input-in-javascript-22aj)
 - [Dev.to/JS] [Add commas to numbers in JavaScript &lpar;Explained with examples&rpar;](https://dev.to/lavary/add-commas-to-numbers-in-javascript-explained-with-examples-27k8)
 - [Dev.to/JS] [tailwindCSS&#39;s classes order pattern &quot;best practice&quot; 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
@@ -33,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cannot find module error in Node.js &lpar;Fixed&rpar;](https://dev.to/lavary/cannot-find-module-error-in-nodejs-fixed-4a6p)
 - [Dev.to/JS] [How to use process.env variables correctly in a webpack-based NodeJS app deployed to Heroku?](https://dev.to/mbshehzad/how-to-use-processenv-variables-correctly-in-a-webpack-based-nodejs-app-deployed-to-heroku-3lhh)
 - [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
-- [Dev.to/JS] [what are Reactjs hooks](https://dev.to/meetbhalodiya/what-are-reactjs-hooks-4pab)
-- [Dev.to/JS] [Web Performance Optimisation Techniques for Frontend Developers](https://dev.to/codesensei/web-performance-optimisation-techniques-for-frontend-developers-5909)
 - [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
-- [Dev.to/JS] [iCodeThis: Improve Your Coding Skills With Free Daily Challenges](https://dev.to/michaellarocca/icodethis-improve-your-coding-skills-with-free-daily-challenges-5eh9)
-- [Dev.to/JS] [Iteradores e Geradores no JavaScript.](https://dev.to/altencirsilvajr/iteradores-e-geradores-no-javascript-1i97)
 - [Lifehacker] [The Easiest Way to Clean Out Your Cluttered Camera Roll](https://lifehacker.com/the-easiest-way-to-clean-out-your-cluttered-camera-roll-1850078341)
 - [Lifehacker] [Your Bathroom Needs a Phone Shelf](https://lifehacker.com/your-bathroom-needs-a-phone-shelf-1850077862)
 - [Lifehacker] [You Should Add Frangipane to Your Dessert Repertoire](https://lifehacker.com/you-should-add-frangipane-to-your-dessert-repertoire-1850077828)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why There Are Dots All Over Your Smartphone Photos &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-there-are-dots-all-over-your-smartphone-photos-and-1850072094)
 - [Lifehacker] [These Are the Best Breads for French Toast](https://lifehacker.com/these-are-the-best-breads-for-french-toast-1850072130)
 - [Lifehacker] [Finish Your Ramen With a Drizzle of Flavor-Packed Oil](https://lifehacker.com/finish-your-ramen-with-a-drizzle-of-flavor-packed-oil-1850071841)
-- [Lifehacker] [The Two Easiest Ways to Get a Duvet Cover On](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)
-- [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2023](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
-- [Lifehacker] [19 Eggless Desserts to Help You Cope With Eggflation](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Two Easiest Ways to Get a Duvet Cover On](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)<!-- TECH-POSTS:END -->
 
 ---
 
