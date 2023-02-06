@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue router with typescript Part 2](https://dev.to/guilhermeneves142/vue-router-with-typescript-part-2-5532)
+- [Dev.to/JS] [Here is a high-level roadmap for learning React.js:](https://dev.to/vamsi_76_89/here-is-a-high-level-roadmap-for-learning-reactjs-2lgg)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Convertendo o tempo!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-convertendo-o-tempo-5c6j)
 - [Dev.to/JS] [Episode 23/05: RxAngular Template &amp; CDK](https://dev.to/ng_news/episode-2305-rxangular-template-cdk-4pn)
 - [Dev.to/JS] [If you are interested in micro services then I promise you won&#39;t regret here...](https://dev.to/meenachinmay/if-you-are-interested-in-micro-services-then-i-promise-you-wont-regret-here-3ndi)
@@ -32,9 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Structure Your Code as a Developer in 2023](https://dev.to/scofieldidehen/how-to-structure-your-code-as-a-developer-in-2023-4j2a)
 - [Dev.to/JS] [Good React Practices To Adopt while building UI](https://dev.to/jaykaranja/good-react-practices-to-adopt-while-building-ui-2536)
 - [Dev.to/JS] [New features of NPM, NX, Vite and JavaScript projects - Frontend News #31](https://dev.to/frontend_house/new-features-of-npm-nx-vite-and-javascript-projects-frontend-news-31-d79)
-- [Dev.to/JS] [🚀 8 GitHub Repositories to learn JavaScript](https://dev.to/alexr/8-github-repositories-to-learn-javascript-3je4)
-- [Dev.to/JS] [Improving Performance of Nuxt with Delayed Hydration](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-with-delayed-hydration-4cif)
-- [Dev.to/JS] [Typescript for beginners: Setting up a new project using ReactJs](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l91)
+- [Dev.to/JS] [🚀 8 GitHub Repositories to Learn JavaScript](https://dev.to/alexr/8-github-repositories-to-learn-javascript-3je4)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
