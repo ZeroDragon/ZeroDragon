@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Cheaper &lpar;and Better&rpar; Protein Shakes With Plain Whey and Coffee Creamer](https://lifehacker.com/make-cheaper-and-better-protein-shakes-with-plain-whe-1850071813)
+- [Dev.to/JS] [Automatically generating pages for each tag used in Astro with MDX](https://dev.to/thomasledoux1/automatically-generating-pages-for-each-tag-used-in-astro-with-mdx-1ldd)
+- [Dev.to/JS] [URI VS URL](https://dev.to/refine/uri-vs-url-1j3n)
+- [Dev.to/JS] [How to check if an element exists in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/how-to-check-if-an-element-exists-in-javascript-with-examples-4mpb)
+- [Dev.to/JS] [GitHub repositories for developers everyone should know🤩🚀](https://dev.to/ishratumar/github-repositories-for-developers-everyone-should-know-49d)
+- [Dev.to/JS] [The Top 5 Stanford University Free Courses. You Shouldn’t Miss .](https://dev.to/ziontutorial/the-top-5-stanford-university-free-courses-you-shouldnt-miss--50ep)
+- [Lifehacker] [All the Changes Worth Knowing About Before Filing Your 2022 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
 - [Lifehacker] [The Case for Putting Expensive Eggs on Cheap Pizza](https://lifehacker.com/the-case-for-putting-expensive-eggs-on-cheap-pizza-1850072924)
 - [Dev.to/JS] [Should we use OOP with TypeScript and Node.js?](https://dev.to/wasikamla/should-we-use-oop-with-typescript-and-nodejs-408)
 - [Dev.to/JS] [Hoisting quiz](https://dev.to/mavis_chen/hoisting-quiz-l50)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ethereum Deposit Tool](https://dev.to/stevenoz086/ethereum-deposit-tool-2ek9)
 - [Dev.to/JS] [JavaScript Function Types](https://dev.to/mavis_chen/javascript-function-types-47p4)
 - [Dev.to/JS] [Vue router with typescript Part 2](https://dev.to/guilhermeneves142/vue-router-with-typescript-part-2-5532)
-- [Dev.to/JS] [Here is a high-level roadmap for learning React.js:](https://dev.to/vamsi_76_89/here-is-a-high-level-roadmap-for-learning-reactjs-2lgg)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Convertendo o tempo!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-convertendo-o-tempo-5c6j)
-- [Dev.to/JS] [Episode 23/05: RxAngular Template &amp; CDK](https://dev.to/ng_news/episode-2305-rxangular-template-cdk-4pn)
-- [Dev.to/JS] [If you are interested in micro services then I promise you won&#39;t regret here...](https://dev.to/meenachinmay/if-you-are-interested-in-micro-services-then-i-promise-you-wont-regret-here-3ndi)
-- [Dev.to/JS] [Looking for mentorship please 🙏](https://dev.to/alusine00/looking-for-mentorship-please-44ph)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Watching &#39;The Last of Us&#39;?](https://lifehacker.com/why-is-everyone-watching-the-last-of-us-the-out-of-tou-1850068835)
 - [Lifehacker] [11 Expansive Cinematic Universes That Aren&#39;t Marvel or Star Wars](https://lifehacker.com/11-expansive-cinematic-universes-that-arent-marvel-or-s-1850060990)
 - [Lifehacker] [You Need to Sizzle Some Onions](https://lifehacker.com/you-need-to-sizzle-some-onions-1850068583)
-- [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)
-- [Lifehacker] [How to Get All That Crap Off Your Roku Home Screen](https://lifehacker.com/how-to-get-all-that-shit-off-your-roku-home-screen-1850067237)
-- [Lifehacker] [Let&#39;s Stop Calling Foods &#39;Ultra-Processed&#39;](https://lifehacker.com/lets-stop-calling-foods-ultra-processed-1850067013)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Common Messes From Beauty Products &lpar;and How to Clean Them&rpar;](https://lifehacker.com/7-common-messes-from-beauty-products-and-how-to-clean-1850067292)<!-- TECH-POSTS:END -->
 
 ---
 
