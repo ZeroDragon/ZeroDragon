@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Structure Your Code as a Developer in 2023](https://dev.to/scofieldidehen/how-to-structure-your-code-as-a-developer-in-2023-4j2a)
+- [Dev.to/JS] [Good React Practices To Adopt while building UI](https://dev.to/jaykaranja/good-react-practices-to-adopt-while-building-ui-2536)
+- [Dev.to/JS] [New features of NPM, NX, Vite and JavaScript projects - Frontend News #31](https://dev.to/frontend_house/new-features-of-npm-nx-vite-and-javascript-projects-frontend-news-31-d79)
+- [Dev.to/JS] [🚀 8 GitHub Repositories to learn JavaScript](https://dev.to/alexr/8-github-repositories-to-learn-javascript-3je4)
 - [Dev.to/JS] [Improving Performance of Nuxt with Delayed Hydration](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-with-delayed-hydration-4cif)
 - [Dev.to/JS] [Typescript for beginners: Setting up a new project using ReactJs](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l91)
 - [Dev.to/JS] [Our Journey In The Open Source World - cache-candidate-plugin-dependency-keys](https://dev.to/cadienvan/our-journey-in-the-open-source-world-cache-candidate-plugin-dependency-keys-2aa9)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js: Everything You Need to Know](https://dev.to/onlydevs_/nodejs-everything-you-need-to-know-kaj)
 - [Dev.to/JS] [How to Build Email Lookup Extension for Chrome using Hazelbase APIs](https://dev.to/elliot_brenya/how-to-build-email-lookup-extension-for-chrome-using-hazelbase-apis-3lil)
 - [Dev.to/JS] [The best tools for software development industry](https://dev.to/chetanmittaldev/the-best-tools-for-software-development-industry-gle)
-- [Dev.to/JS] [Should revoke refress token when get new access token?](https://dev.to/cucheng/should-revoke-refress-token-when-get-new-access-token-4hl7)
-- [Dev.to/JS] [Video Transcription using Cloudinary Add-on in a Nuxt 3 Application](https://dev.to/yhuakim/video-transcription-using-cloudinary-add-on-in-a-nuxt-3-application-1n31)
-- [Dev.to/JS] [Unleash the Power of Your Data: 6 ES6 Array Functions You Need to Know 🚀](https://dev.to/naubit/unleash-the-power-of-your-data-6-es6-array-functions-you-need-to-know-1e6)
-- [Dev.to/JS] [7 great libraries for React](https://dev.to/gravy59/7-great-libraries-for-react-2g0o)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
