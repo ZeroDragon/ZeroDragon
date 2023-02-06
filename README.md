@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improving Performance of Nuxt with Delayed Hydration](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-with-delayed-hydration-4cif)
+- [Dev.to/JS] [Typescript for beginners: Setting up a new project using ReactJs](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l91)
 - [Dev.to/JS] [Our Journey In The Open Source World - cache-candidate-plugin-dependency-keys](https://dev.to/cadienvan/our-journey-in-the-open-source-world-cache-candidate-plugin-dependency-keys-2aa9)
 - [Dev.to/JS] [Super useful a state management library &quot;Recoil&quot;](https://dev.to/yuya0114/super-useful-a-state-management-library-recoil-3a9j)
 - [Dev.to/JS] [Hacker Rank Series 2](https://dev.to/syedmuhammadaliraza/hacker-rank-series-2-2231)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Video Transcription using Cloudinary Add-on in a Nuxt 3 Application](https://dev.to/yhuakim/video-transcription-using-cloudinary-add-on-in-a-nuxt-3-application-1n31)
 - [Dev.to/JS] [Unleash the Power of Your Data: 6 ES6 Array Functions You Need to Know 🚀](https://dev.to/naubit/unleash-the-power-of-your-data-6-es6-array-functions-you-need-to-know-1e6)
 - [Dev.to/JS] [7 great libraries for React](https://dev.to/gravy59/7-great-libraries-for-react-2g0o)
-- [Dev.to/JS] [How to create apps for Microsoft Teams](https://dev.to/microsoft365/how-to-create-apps-for-microsoft-teams-2l9e)
-- [Dev.to/JS] [Learning some JavaScript](https://dev.to/dillpap/learning-some-javascript-1973)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
