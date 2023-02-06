@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 great libraries for React](https://dev.to/gravy59/7-great-libraries-for-react-2g0o)
 - [Dev.to/JS] [How to create apps for Microsoft Teams](https://dev.to/microsoft365/how-to-create-apps-for-microsoft-teams-2l9e)
 - [Dev.to/JS] [Learning some JavaScript](https://dev.to/dillpap/learning-some-javascript-1973)
 - [Dev.to/JS] [Animation d&#39;apparition au défilement avec JavaScript et CSS](https://dev.to/blakvghost/animation-dapparition-au-defilement-avec-javascript-et-css-4nhl)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the difference between useMemo and useCallback](https://dev.to/svetaslepner/understanding-the-difference-between-usememo-and-usecallback-12nj)
 - [Dev.to/JS] [Seeing JavaScript Math.random Not Be So Random](https://dev.to/jesterxl/seeing-javascript-mathrandom-not-be-so-random-1235)
 - [Dev.to/JS] [Debouncing &amp; Throttling](https://dev.to/taiseen/debouncing-throttling-39fp)
-- [Dev.to/JS] [JavaScript: The Perfect Language for the Perfectly Imperfect Coder](https://dev.to/kk5190/javascript-the-perfect-language-for-the-perfectly-imperfect-coder-1b69)
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
