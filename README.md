@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplifying State Management with useState: A Step-by-Step Guide](https://dev.to/knitesh/simplifying-state-management-with-usestate-a-step-by-step-guide-542h)
+- [Dev.to/JS] [Improve FCP and LCP for Performance ReactJs](https://dev.to/ashrafhero/improve-fcp-and-lcp-for-performance-reactjs-13gn)
+- [Dev.to/JS] [Convert Monthly income into Hourly in JS](https://dev.to/taiseen/convert-monthly-income-into-hourly-in-js-5c56)
+- [Dev.to/JS] [Build a Chatbot with Python: &lpar;Series – Part1&rpar;](https://dev.to/scofieldidehen/build-a-chatbot-with-python-series-part1-2633)
 - [Dev.to/JS] [React Basics](https://dev.to/alinebone/react-basics-35g)
 - [Dev.to/JS] [Building a React ecosystem from scratch](https://dev.to/alinebone/building-a-react-ecosystem-from-scratch-1ha0)
 - [Dev.to/JS] [Need some help configuring wordpress plugin and increasing functionality of www.careersarabia.com](https://dev.to/saeed5443/need-some-help-configuring-wordpress-plugin-and-increasing-functionality-of-wwwcareersarabiacom-g)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Guide to React&#39;s useEffect Hook](https://dev.to/asayerio_techblog/a-guide-to-reacts-useeffect-hook-4k8n)
 - [Dev.to/JS] [Execution Context in JavaScript](https://dev.to/mavis_chen/execution-context-in-javascript-gic)
 - [Dev.to/JS] [The !! Operator in Javascript, a quick way to understand it](https://dev.to/ypdev19/the-operator-in-javascript-a-quick-way-to-understand-it-43j1)
-- [Dev.to/JS] [Agradecimientos JSConf CL 2023](https://dev.to/jsconfcl/resumen-jsconf-cl-2023-1dpe)
-- [Dev.to/JS] [Zustand may be the one state-manager in the React space that gets all of these right.](https://dev.to/sewas87/zustand-may-be-the-one-state-manager-in-the-react-space-that-gets-all-of-these-right-3p79)
-- [Dev.to/JS] [Remote Repo Troubleshooting: Incorrect Remote Repo Name - Dont Use Remove or Rename](https://dev.to/adamaslan/remote-repo-troubleshooting-incorrect-remote-repo-name-dont-use-remove-or-rename-557n)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
-- [Dev.to/JS] [Building a Contracts SaaS with SaasRock — Part 4 — B2B Document Management Module](https://dev.to/alexandromtzg/building-a-contracts-saas-with-saasrock-part-4-b2b-document-management-module-hhn)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
 - [Lifehacker] [Air Fry Some Store-Bought Bacon Bits](https://lifehacker.com/air-fry-some-store-bought-bacon-bits-1850079590)
