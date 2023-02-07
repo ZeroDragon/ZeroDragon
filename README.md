@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alpha Heater - Price, Reviews, Uses, Complaints &amp; Warnings?](https://dev.to/alphaheater4/alpha-heater-price-reviews-uses-complaints-warnings-g9j)
 - [Dev.to/JS] [Who has the most followers?](https://dev.to/anthonymackie/who-has-the-most-followers-aa1)
 - [Dev.to/JS] [this keyword quiz](https://dev.to/mavis_chen/this-keyword-quiz-1p0e)
 - [Dev.to/JS] [Open-sourcing Runo: Simplify The Process of Running Command Line Scripts](https://dev.to/khermawan/open-sourcing-runo-simplify-the-process-of-running-command-line-scripts-hg3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a React ecosystem from scratch](https://dev.to/alinebone/building-a-react-ecosystem-from-scratch-1ha0)
 - [Dev.to/JS] [Need some help configuring wordpress plugin and increasing functionality of www.careersarabia.com](https://dev.to/saeed5443/need-some-help-configuring-wordpress-plugin-and-increasing-functionality-of-wwwcareersarabiacom-g)
 - [Dev.to/JS] [Delay a Function Call using React Custom Hook: Debounce](https://dev.to/nicholasgalante/delay-a-function-call-using-react-custom-hook-debounce-1ha2)
-- [Dev.to/JS] [NextJS 13: Custom @next/fonts with MaterialUI Themes](https://dev.to/timewizard/nextjs-13-custom-nextfonts-with-materialui-themes-2jj4)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
