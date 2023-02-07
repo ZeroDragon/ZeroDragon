@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the .ND files in QuickBooks Desktop?](https://dev.to/anisawilliam70/what-are-the-nd-files-in-quickbooks-desktop-4ng9)
+- [Dev.to/JS] [Why JavaScript is a Must-Learn Language for Modern Web Development](https://dev.to/indtechverse/why-javascript-is-a-must-learn-language-for-modern-web-development-2m8o)
+- [Dev.to/JS] [How JavaScript Can Enhance Your Web Development Skills](https://dev.to/indtechverse/how-javascript-can-enhance-your-web-development-skills-56m8)
 - [Dev.to/JS] [Alpha Heater - Price, Reviews, Uses, Complaints &amp; Warnings?](https://dev.to/alphaheater4/alpha-heater-price-reviews-uses-complaints-warnings-g9j)
 - [Dev.to/JS] [Who has the most followers?](https://dev.to/anthonymackie/who-has-the-most-followers-aa1)
 - [Dev.to/JS] [this keyword quiz](https://dev.to/mavis_chen/this-keyword-quiz-1p0e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Convert Monthly income into Hourly in JS](https://dev.to/taiseen/convert-monthly-income-into-hourly-in-js-5c56)
 - [Dev.to/JS] [Build a Chatbot with Python: &lpar;Series – Part1&rpar;](https://dev.to/scofieldidehen/build-a-chatbot-with-python-series-part1-2633)
 - [Dev.to/JS] [React Basics](https://dev.to/alinebone/react-basics-35g)
-- [Dev.to/JS] [Building a React ecosystem from scratch](https://dev.to/alinebone/building-a-react-ecosystem-from-scratch-1ha0)
-- [Dev.to/JS] [Need some help configuring wordpress plugin and increasing functionality of www.careersarabia.com](https://dev.to/saeed5443/need-some-help-configuring-wordpress-plugin-and-increasing-functionality-of-wwwcareersarabiacom-g)
-- [Dev.to/JS] [Delay a Function Call using React Custom Hook: Debounce](https://dev.to/nicholasgalante/delay-a-function-call-using-react-custom-hook-debounce-1ha2)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
