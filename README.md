@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Execution Context in JavaScript](https://dev.to/mavis_chen/execution-context-in-javascript-gic)
+- [Dev.to/JS] [The !! Operator in Javascript, a quick way to understand it](https://dev.to/ypdev19/the-operator-in-javascript-a-quick-way-to-understand-it-43j1)
+- [Dev.to/JS] [Agradecimientos JSConf CL 2023](https://dev.to/jsconfcl/resumen-jsconf-cl-2023-1dpe)
 - [Dev.to/JS] [Zustand may be the one state-manager in the React space that gets all of these right.](https://dev.to/sewas87/zustand-may-be-the-one-state-manager-in-the-react-space-that-gets-all-of-these-right-3p79)
 - [Dev.to/JS] [Remote Repo Troubleshooting: Incorrect Remote Repo Name - Dont Use Remove or Rename](https://dev.to/adamaslan/remote-repo-troubleshooting-incorrect-remote-repo-name-dont-use-remove-or-rename-557n)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Padrão - Facade](https://dev.to/higordiego/padrao-facade-364a)
 - [Dev.to/JS] [React.js several complex concepts](https://dev.to/mdsifath70/reactjs-several-complex-concepts-394f)
 - [Dev.to/JS] [Label htmlFor Property Explained](https://dev.to/lavary/label-htmlfor-property-explained-1pjd)
-- [Dev.to/JS] [About “ReferenceError: document is not defined” in JavaScript](https://dev.to/lavary/about-referenceerror-document-is-not-defined-in-javascript-1h3g)
-- [Dev.to/JS] [About &quot;SyntaxError: Unexpected end of JSON input&quot; in JavaScript](https://dev.to/lavary/about-syntaxerror-unexpected-end-of-json-input-in-javascript-22aj)
-- [Dev.to/JS] [Add commas to numbers in JavaScript &lpar;Explained with examples&rpar;](https://dev.to/lavary/add-commas-to-numbers-in-javascript-explained-with-examples-27k8)
 - [Lifehacker] [You Can Get Taco Bell’s New-ish Crispy Melt Taco for Free-ish Right Now](https://lifehacker.com/you-can-get-taco-bell-s-new-ish-crispy-melt-taco-for-fr-1850078656)
 - [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
 - [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
