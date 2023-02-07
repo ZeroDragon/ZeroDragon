@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My progress in #icodethis daily UI challenge](https://dev.to/aneeqakhan/my-progress-in-icodethis-daily-ui-challenge-gg1)
+- [Dev.to/JS] [5 useful console objects](https://dev.to/dshaw0004/5-useful-console-objects-2m8k)
+- [Lifehacker] [9 Tips That Could Save Your Life in Very Specific Emergencies](https://lifehacker.com/9-tips-that-could-save-your-life-in-very-specific-emerg-1850082781)
+- [Dev.to/JS] [Lodash](https://dev.to/biplavmz/lodash-k3n)
+- [Dev.to/JS] [Introducing useCatch: The Easy Way to Create Error Boundaries in Fiddlehead](https://dev.to/vanquyet/introducing-usecatch-the-easy-way-to-create-error-boundaries-in-fiddlehead-11jg)
+- [Dev.to/JS] [Decentralized Identities](https://dev.to/ayaaneth/decentralized-identities-1024)
+- [Lifehacker] [Now You Can Order Delivery Through Your Roku for Some Reason](https://lifehacker.com/now-you-can-order-delivery-through-your-roku-for-some-r-1850082697)
 - [Dev.to/JS] [What is Angular Material?](https://dev.to/omerko96/what-is-angular-material-37d8)
 - [Dev.to/JS] [Bard VS ChatGPT: The AI War](https://dev.to/scofieldidehen/bard-vs-chatgpt-the-ai-war-5ccn)
 - [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
@@ -34,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My learning journey to Javascript- Week 1](https://dev.to/hmmalic/my-learning-journey-to-javascript-week-1-1igj)
 - [Lifehacker] [Don&#39;t Let Your Dog Eat These Popular Super Bowl Party Foods](https://lifehacker.com/dont-let-your-dog-eat-these-popular-super-bowl-party-fo-1850080895)
 - [Dev.to/JS] [Next.js with Cypress](https://dev.to/celest67/nextjs-with-cypress-3a5b)
-- [Dev.to/JS] [Building a multi-framework dashboard with Astro](https://dev.to/logrocket/building-a-multi-framework-dashboard-with-astro-18oj)
 - [Lifehacker] [Here&#39;s When Your Relationship Needs Separate Beds](https://lifehacker.com/heres-when-your-relationship-needs-separate-beds-1850080366)
-- [Dev.to/JS] [How to use Video Object Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-video-object-detection-api-with-javascript-in-5-minutes-46ga)
-- [Dev.to/JS] [How to Build a Graph Visualization Engine and Why You Shouldn’t](https://dev.to/memgraph/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt-159p)
-- [Dev.to/JS] [My Journey from Software Quality Assurance to Software Engineering](https://dev.to/mrdanishsaleem/my-journey-from-software-quality-assurance-to-software-engineering-1fin)
-- [Dev.to/JS] [Build a useInterval hook from scratch](https://dev.to/druchan/build-a-useinterval-hook-from-scratch-4221)
 - [Lifehacker] [Where to Watch Super Bowl LVII &lpar;Without Cable&rpar;](https://lifehacker.com/where-to-watch-super-bowl-lvii-without-cable-1850080142)
 - [Lifehacker] [Forget Frosting and Give Your Cupcakes the Lamington Treatment](https://lifehacker.com/forget-frosting-and-give-your-cupcakes-the-lamington-tr-1850080297)
 - [Lifehacker] [The 11 Funniest &lpar;and Weirdest&rpar; Bets You Can Make on Super Bowl LVII](https://lifehacker.com/the-11-finniest-and-weirdest-bets-you-can-make-on-sup-1850080057)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s What Will Probably Cause the Next Pandemic](https://lifehacker.com/here-s-what-will-probably-cause-the-next-pandemic-1850072719)
 - [Lifehacker] [Don&#39;t Drive These Seven Older Car Models, Honda Says](https://lifehacker.com/dont-drive-these-seven-older-car-models-honda-says-1850072496)
 - [Lifehacker] [The 7 Deadly Sins of Being a Decent Neighbor](https://lifehacker.com/the-7-deadly-sins-of-being-a-decent-neighbor-1850073202)
-- [Lifehacker] [Make Cheaper &lpar;and Better&rpar; Protein Shakes With Plain Whey and Coffee Creamer](https://lifehacker.com/make-cheaper-and-better-protein-shakes-with-plain-whe-1850071813)
-- [Lifehacker] [All the Changes Worth Knowing About Before Filing Your 2022 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
-- [Lifehacker] [The Case for Putting Expensive Eggs on Cheap Pizza](https://lifehacker.com/the-case-for-putting-expensive-eggs-on-cheap-pizza-1850072924)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Cheaper &lpar;and Better&rpar; Protein Shakes With Plain Whey and Coffee Creamer](https://lifehacker.com/make-cheaper-and-better-protein-shakes-with-plain-whe-1850071813)<!-- TECH-POSTS:END -->
 
 ---
 
