@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Say to Someone Pushing Crypto at You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
+- [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
+- [Dev.to/JS] [Moonly weekly progress update #35](https://dev.to/moonly/moonly-weekly-progress-update-35-1732)
 - [Lifehacker] [These Kindles Are Up to 30% Off Right Now](https://lifehacker.com/these-kindles-are-up-to-30-off-right-now-1850083935)
 - [Dev.to/JS] [Creating a HTML Tag Function - Part 2](https://dev.to/gabrieljm/creating-a-html-tag-function-part-2-5dfi)
 - [Lifehacker] [Make Better Irish Nachos With Guiness Beer Cheese](https://lifehacker.com/make-better-irish-nachos-with-guiness-beer-cheese-1850084017)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bard VS ChatGPT: The AI War](https://dev.to/scofieldidehen/bard-vs-chatgpt-the-ai-war-5ccn)
 - [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
 - [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)
-- [Dev.to/JS] [Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://dev.to/austingil/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms-23hp)
 - [Lifehacker] [How to Have a Healthy Relationship When You&#39;re an Empath](https://lifehacker.com/how-to-have-a-healthy-relationship-when-youre-an-empath-1850080332)
 - [Lifehacker] [Don&#39;t Let Your Dog Eat These Popular Super Bowl Party Foods](https://lifehacker.com/dont-let-your-dog-eat-these-popular-super-bowl-party-fo-1850080895)
 - [Lifehacker] [Here&#39;s When Your Relationship Needs Separate Beds](https://lifehacker.com/heres-when-your-relationship-needs-separate-beds-1850080366)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
 - [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
 - [Lifehacker] [The Easiest Way to Clean Out Your Cluttered Camera Roll](https://lifehacker.com/the-easiest-way-to-clean-out-your-cluttered-camera-roll-1850078341)
-- [Lifehacker] [Your Bathroom Needs a Phone Shelf](https://lifehacker.com/your-bathroom-needs-a-phone-shelf-1850077862)
-- [Lifehacker] [You Should Add Frangipane to Your Dessert Repertoire](https://lifehacker.com/you-should-add-frangipane-to-your-dessert-repertoire-1850077828)
-- [Lifehacker] [9 of the Best &lpar;but Hidden&rpar; Notes App Features on Your iPhone](https://lifehacker.com/9-of-the-best-but-hidden-notes-app-features-on-your-i-1850076909)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Bathroom Needs a Phone Shelf](https://lifehacker.com/your-bathroom-needs-a-phone-shelf-1850077862)<!-- TECH-POSTS:END -->
 
 ---
 
