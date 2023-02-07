@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto at You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
 - [Dev.to/JS] [Moonly weekly progress update #35](https://dev.to/moonly/moonly-weekly-progress-update-35-1732)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Taco Bell’s New-ish Crispy Melt Taco for Free-ish Right Now](https://lifehacker.com/you-can-get-taco-bell-s-new-ish-crispy-melt-taco-for-fr-1850078656)
 - [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
 - [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
-- [Lifehacker] [The Easiest Way to Clean Out Your Cluttered Camera Roll](https://lifehacker.com/the-easiest-way-to-clean-out-your-cluttered-camera-roll-1850078341)
-- [Lifehacker] [Your Bathroom Needs a Phone Shelf](https://lifehacker.com/your-bathroom-needs-a-phone-shelf-1850077862)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Clean Out Your Cluttered Camera Roll](https://lifehacker.com/the-easiest-way-to-clean-out-your-cluttered-camera-roll-1850078341)<!-- TECH-POSTS:END -->
 
 ---
 
