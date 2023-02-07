@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Filestack Presents: Nerd Up: Scale Up — A Full-Day Online Conference](https://dev.to/ideradevtools/filestack-presents-nerd-up-scale-up-a-full-day-online-conference-531f)
 - [Dev.to/JS] [innerText vs textContent in 2023](https://dev.to/ismaestro/innertext-vs-textcontent-in-2023-1jf8)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Quebrando Recordes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-quebrando-recordes-4h35)
+- [Dev.to/JS] [Using JavaScript Gantt Chart in SharePoint Web Part for Effective Project Management: Part 2](https://dev.to/syncfusion/using-javascript-gantt-chart-in-sharepoint-web-part-for-effective-project-management-part-2-3igo)
 - [Dev.to/JS] [Function scope vs Block scope](https://dev.to/mavis_chen/function-scope-vs-block-scope-197e)
 - [Dev.to/JS] [Hard time with image attribute loading=&quot;lazy&quot;, Alpinejs can help.](https://dev.to/andrewzach/hard-time-with-image-attribute-loadinglazy-alpinejs-can-help-4a05)
 - [Dev.to/JS] [Deno vs NodeJs](https://dev.to/hshoja/deno-vs-nodejs-hb3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to check unused npm packages?](https://dev.to/himanshudevgupta/how-to-check-unused-npm-packages-1hp2)
 - [Dev.to/JS] [Best Digital Marketing Course Training Institute in Noida, Delhi-NCR](https://dev.to/kevinstarck3/best-digital-marketing-course-training-institute-in-noida-delhi-ncr-4o9)
 - [Dev.to/JS] [The Only Rounding Function You Will Ever Need](https://dev.to/polaroidkidd/the-only-rounding-function-you-will-ever-need-41oo)
-- [Dev.to/JS] [Debounce Vs Throttle](https://dev.to/polaroidkidd/debounce-vs-throttle-bg7)
-- [Dev.to/JS] [Cash app bank name | Common And Easy Methods](https://dev.to/mikes1987/cash-app-bank-name-common-and-easy-methods-1i4b)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
