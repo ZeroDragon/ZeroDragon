@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js with Cypress](https://dev.to/celest67/nextjs-with-cypress-3a5b)
+- [Dev.to/JS] [Building a multi-framework dashboard with Astro](https://dev.to/logrocket/building-a-multi-framework-dashboard-with-astro-18oj)
+- [Lifehacker] [Here&#39;s When Your Relationship Needs Separate Beds](https://lifehacker.com/heres-when-your-relationship-needs-separate-beds-1850080366)
+- [Dev.to/JS] [How to use Video Object Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-video-object-detection-api-with-javascript-in-5-minutes-46ga)
+- [Dev.to/JS] [How to Build a Graph Visualization Engine and Why You Shouldn’t](https://dev.to/memgraph/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt-159p)
+- [Dev.to/JS] [My Journey from Software Quality Assurance to Software Engineering](https://dev.to/mrdanishsaleem/my-journey-from-software-quality-assurance-to-software-engineering-1fin)
+- [Dev.to/JS] [Build a useInterval hook from scratch](https://dev.to/druchan/build-a-useinterval-hook-from-scratch-4221)
+- [Dev.to/JS] [Destructuring assignment](https://dev.to/lausuarez02/destructuring-assignment-4f04)
+- [Lifehacker] [Where to Watch Super Bowl LVII &lpar;Without Cable&rpar;](https://lifehacker.com/where-to-watch-super-bowl-lvii-without-cable-1850080142)
 - [Dev.to/JS] [Build an Instagram Web App with Supabase and Next.js 🚀](https://dev.to/livecycle/build-an-instagram-web-app-with-supabase-and-nextjs-4cn1)
 - [Lifehacker] [Forget Frosting and Give Your Cupcakes the Lamington Treatment](https://lifehacker.com/forget-frosting-and-give-your-cupcakes-the-lamington-tr-1850080297)
 - [Dev.to/JS] [#1 VN Dịch vụ tăng Traffic User thúc đẩy SEO uy tín , giá rẻ , cam kết chất lượng](https://dev.to/seosolutions23/1-vn-dich-vu-tang-traffic-user-thuc-day-seo-uy-tin-gia-re-cam-ket-chat-luong-40j9)
@@ -30,13 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to show a pop-up only once with React, localStorage and Material UI modal](https://dev.to/bcncodeschool/how-to-show-a-pop-up-only-once-with-react-localstorage-and-material-ui-modal-n81)
 - [Lifehacker] [The 11 Funniest &lpar;and Weirdest&rpar; Bets You Can Make on Super Bowl LVII](https://lifehacker.com/the-11-finniest-and-weirdest-bets-you-can-make-on-sup-1850080057)
 - [Dev.to/JS] [5 React Tools to Use in an Ecommerce Stack](https://dev.to/medusajs/5-react-tools-to-use-in-an-ecommerce-stack-1ojo)
-- [Dev.to/JS] [Low-code solutions for Indie Hacking in 2023?](https://dev.to/iskurbanov/low-code-solutions-for-indie-hacking-in-2023-508i)
-- [Dev.to/JS] [[Safe-TypeORM] AnyORM becomes the real TypeORM](https://dev.to/samchon/safe-typeorm-make-anyorm-to-be-the-real-typeorm-478n)
-- [Dev.to/JS] [Filestack Presents: Nerd Up: Scale Up — A Full-Day Online Conference](https://dev.to/ideradevtools/filestack-presents-nerd-up-scale-up-a-full-day-online-conference-531f)
-- [Dev.to/JS] [10 Tips and Tricks to Handle JavaScript Objects](https://dev.to/syncfusion/10-tips-and-tricks-to-handle-javascript-objects-18ph)
-- [Dev.to/JS] [innerText vs textContent in 2023](https://dev.to/ismaestro/innertext-vs-textcontent-in-2023-1jf8)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Quebrando Recordes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-quebrando-recordes-4h35)
-- [Dev.to/JS] [Using JavaScript Gantt Chart in SharePoint Web Part for Effective Project Management: Part 2](https://dev.to/syncfusion/using-javascript-gantt-chart-in-sharepoint-web-part-for-effective-project-management-part-2-3igo)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
 - [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
-- [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
-- [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
-- [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)<!-- TECH-POSTS:END -->
 
 ---
 
