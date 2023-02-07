@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [innerText vs textContent in 2023](https://dev.to/ismaestro/innertext-vs-textcontent-in-2023-1jf8)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Quebrando Recordes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-quebrando-recordes-4h35)
+- [Dev.to/JS] [Function scope vs Block scope](https://dev.to/mavis_chen/function-scope-vs-block-scope-197e)
+- [Dev.to/JS] [Hard time with image attribute loading=&quot;lazy&quot;, Alpinejs can help.](https://dev.to/andrewzach/hard-time-with-image-attribute-loadinglazy-alpinejs-can-help-4a05)
 - [Dev.to/JS] [Deno vs NodeJs](https://dev.to/hshoja/deno-vs-nodejs-hb3)
 - [Dev.to/JS] [Getting Started With JavaScript.](https://dev.to/ankitdevelops/getting-started-with-javascript-203m)
 - [Dev.to/JS] [What is the impact of activity on intellectual health?](https://dev.to/thomas23459/what-is-the-impact-of-activity-on-intellectual-health-16ko)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Only Rounding Function You Will Ever Need](https://dev.to/polaroidkidd/the-only-rounding-function-you-will-ever-need-41oo)
 - [Dev.to/JS] [Debounce Vs Throttle](https://dev.to/polaroidkidd/debounce-vs-throttle-bg7)
 - [Dev.to/JS] [Cash app bank name | Common And Easy Methods](https://dev.to/mikes1987/cash-app-bank-name-common-and-easy-methods-1i4b)
-- [Dev.to/JS] [What are the .ND files in QuickBooks Desktop?](https://dev.to/anisawilliam70/what-are-the-nd-files-in-quickbooks-desktop-4ng9)
-- [Dev.to/JS] [Why JavaScript is a Must-Learn Language for Modern Web Development](https://dev.to/indtechverse/why-javascript-is-a-must-learn-language-for-modern-web-development-2m8o)
-- [Dev.to/JS] [How JavaScript Can Enhance Your Web Development Skills](https://dev.to/indtechverse/how-javascript-can-enhance-your-web-development-skills-56m8)
-- [Dev.to/JS] [Alpha Heater - Price, Reviews, Uses, Complaints &amp; Warnings?](https://dev.to/alphaheater4/alpha-heater-price-reviews-uses-complaints-warnings-g9j)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
