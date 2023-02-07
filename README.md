@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Basics](https://dev.to/alinebone/react-basics-35g)
+- [Dev.to/JS] [Building a React ecosystem from scratch](https://dev.to/alinebone/building-a-react-ecosystem-from-scratch-1ha0)
 - [Dev.to/JS] [Need some help configuring wordpress plugin and increasing functionality of www.careersarabia.com](https://dev.to/saeed5443/need-some-help-configuring-wordpress-plugin-and-increasing-functionality-of-wwwcareersarabiacom-g)
 - [Dev.to/JS] [Delay a Function Call using React Custom Hook: Debounce](https://dev.to/nicholasgalante/delay-a-function-call-using-react-custom-hook-debounce-1ha2)
 - [Dev.to/JS] [NextJS 13: Custom @next/fonts with MaterialUI Themes](https://dev.to/timewizard/nextjs-13-custom-nextfonts-with-materialui-themes-2jj4)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Dev.to/JS] [Building a Contracts SaaS with SaasRock — Part 4 — B2B Document Management Module](https://dev.to/alexandromtzg/building-a-contracts-saas-with-saasrock-part-4-b2b-document-management-module-hhn)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
-- [Dev.to/JS] [JSON and the .then](https://dev.to/joliver2/json-and-the-then-5dj7)
-- [Dev.to/JS] [v-show vs v-if: Conditional Rendering in Vue](https://dev.to/smpnjn/v-show-vs-v-if-conditional-rendering-in-vue-39ji)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
 - [Lifehacker] [Air Fry Some Store-Bought Bacon Bits](https://lifehacker.com/air-fry-some-store-bought-bacon-bits-1850079590)
 - [Lifehacker] [14 DIY Cleaning Recipes for People Who Hate Chemicals](https://lifehacker.com/14-diy-cleaning-recipes-for-people-who-hate-chemicals-1850079064)
