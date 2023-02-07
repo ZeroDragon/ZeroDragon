@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Who has the most followers?](https://dev.to/anthonymackie/who-has-the-most-followers-aa1)
+- [Dev.to/JS] [this keyword quiz](https://dev.to/mavis_chen/this-keyword-quiz-1p0e)
+- [Dev.to/JS] [Open-sourcing Runo: Simplify The Process of Running Command Line Scripts](https://dev.to/khermawan/open-sourcing-runo-simplify-the-process-of-running-command-line-scripts-hg3)
 - [Dev.to/JS] [Simplifying State Management with useState: A Step-by-Step Guide](https://dev.to/knitesh/simplifying-state-management-with-usestate-a-step-by-step-guide-542h)
 - [Dev.to/JS] [Improve FCP and LCP for Performance ReactJs](https://dev.to/ashrafhero/improve-fcp-and-lcp-for-performance-reactjs-13gn)
 - [Dev.to/JS] [Convert Monthly income into Hourly in JS](https://dev.to/taiseen/convert-monthly-income-into-hourly-in-js-5c56)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Need some help configuring wordpress plugin and increasing functionality of www.careersarabia.com](https://dev.to/saeed5443/need-some-help-configuring-wordpress-plugin-and-increasing-functionality-of-wwwcareersarabiacom-g)
 - [Dev.to/JS] [Delay a Function Call using React Custom Hook: Debounce](https://dev.to/nicholasgalante/delay-a-function-call-using-react-custom-hook-debounce-1ha2)
 - [Dev.to/JS] [NextJS 13: Custom @next/fonts with MaterialUI Themes](https://dev.to/timewizard/nextjs-13-custom-nextfonts-with-materialui-themes-2jj4)
-- [Dev.to/JS] [A Guide to React&#39;s useEffect Hook](https://dev.to/asayerio_techblog/a-guide-to-reacts-useeffect-hook-4k8n)
-- [Dev.to/JS] [Execution Context in JavaScript](https://dev.to/mavis_chen/execution-context-in-javascript-gic)
-- [Dev.to/JS] [The !! Operator in Javascript, a quick way to understand it](https://dev.to/ypdev19/the-operator-in-javascript-a-quick-way-to-understand-it-43j1)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
