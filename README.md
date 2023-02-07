@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Only Rounding Function You Will Ever Need](https://dev.to/polaroidkidd/the-only-rounding-function-you-will-ever-need-41oo)
+- [Dev.to/JS] [Debounce Vs Throttle](https://dev.to/polaroidkidd/debounce-vs-throttle-bg7)
 - [Dev.to/JS] [Cash app bank name | Common And Easy Methods](https://dev.to/mikes1987/cash-app-bank-name-common-and-easy-methods-1i4b)
 - [Dev.to/JS] [What are the .ND files in QuickBooks Desktop?](https://dev.to/anisawilliam70/what-are-the-nd-files-in-quickbooks-desktop-4ng9)
 - [Dev.to/JS] [Why JavaScript is a Must-Learn Language for Modern Web Development](https://dev.to/indtechverse/why-javascript-is-a-must-learn-language-for-modern-web-development-2m8o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open-sourcing Runo: Simplify The Process of Running Command Line Scripts](https://dev.to/khermawan/open-sourcing-runo-simplify-the-process-of-running-command-line-scripts-hg3)
 - [Dev.to/JS] [Simplifying State Management with useState: A Step-by-Step Guide](https://dev.to/knitesh/simplifying-state-management-with-usestate-a-step-by-step-guide-542h)
 - [Dev.to/JS] [Improve FCP and LCP for Performance ReactJs](https://dev.to/ashrafhero/improve-fcp-and-lcp-for-performance-reactjs-13gn)
-- [Dev.to/JS] [Convert Monthly income into Hourly in JS](https://dev.to/taiseen/convert-monthly-income-into-hourly-in-js-5c56)
-- [Dev.to/JS] [Build a Chatbot with Python: &lpar;Series – Part1&rpar;](https://dev.to/scofieldidehen/build-a-chatbot-with-python-series-part1-2633)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
