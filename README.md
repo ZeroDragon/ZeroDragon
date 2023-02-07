@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Kindles Are Up to 30% Off Right Now](https://lifehacker.com/these-kindles-are-up-to-30-off-right-now-1850083935)
+- [Dev.to/JS] [Creating a HTML Tag Function - Part 2](https://dev.to/gabrieljm/creating-a-html-tag-function-part-2-5dfi)
+- [Lifehacker] [Make Better Irish Nachos With Guiness Beer Cheese](https://lifehacker.com/make-better-irish-nachos-with-guiness-beer-cheese-1850084017)
+- [Dev.to/JS] [JavaScript is undeniably better than Python for website](https://dev.to/tufanmulla/javascript-is-undeniably-better-than-python-for-website-kga)
+- [Lifehacker] [Download This App If You Use Multiple Browsers on Your Mac](https://lifehacker.com/download-this-app-if-you-use-multiple-browsers-on-your-1850083609)
 - [Dev.to/JS] [Web Scraping With JavaScript And Node JS - An Ultimate Guide](https://dev.to/serpdogapi/web-scraping-with-javascript-and-node-js-an-ultimate-guide-2e26)
 - [Lifehacker] [11 of the World&#39;s Most Banned Movies](https://lifehacker.com/11-of-the-worlds-most-banned-movies-1850076182)
 - [Dev.to/JS] [Jest with TypeScript and aliased imports &lpar;custom paths&rpar;](https://dev.to/mliakos/jest-with-typescript-and-aliased-imports-custom-paths-40d4)
@@ -39,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
 - [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)
 - [Dev.to/JS] [Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://dev.to/austingil/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms-23hp)
-- [Dev.to/JS] [Entendendo Módulos em JavaScript](https://dev.to/altencirsilvajr/entendendo-modulos-em-javascript-4ha1)
 - [Lifehacker] [How to Have a Healthy Relationship When You&#39;re an Empath](https://lifehacker.com/how-to-have-a-healthy-relationship-when-youre-an-empath-1850080332)
-- [Dev.to/JS] [How to update object key in useState](https://dev.to/ashish221306/how-to-update-object-key-in-usestate-33h6)
 - [Lifehacker] [Don&#39;t Let Your Dog Eat These Popular Super Bowl Party Foods](https://lifehacker.com/dont-let-your-dog-eat-these-popular-super-bowl-party-fo-1850080895)
 - [Lifehacker] [Here&#39;s When Your Relationship Needs Separate Beds](https://lifehacker.com/heres-when-your-relationship-needs-separate-beds-1850080366)
 - [Lifehacker] [Where to Watch Super Bowl LVII &lpar;Without Cable&rpar;](https://lifehacker.com/where-to-watch-super-bowl-lvii-without-cable-1850080142)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Clean Out Your Cluttered Camera Roll](https://lifehacker.com/the-easiest-way-to-clean-out-your-cluttered-camera-roll-1850078341)
 - [Lifehacker] [Your Bathroom Needs a Phone Shelf](https://lifehacker.com/your-bathroom-needs-a-phone-shelf-1850077862)
 - [Lifehacker] [You Should Add Frangipane to Your Dessert Repertoire](https://lifehacker.com/you-should-add-frangipane-to-your-dessert-repertoire-1850077828)
-- [Lifehacker] [9 of the Best &lpar;but Hidden&rpar; Notes App Features on Your iPhone](https://lifehacker.com/9-of-the-best-but-hidden-notes-app-features-on-your-i-1850076909)
-- [Lifehacker] [A Parent&#39;s Guide to &#39;Pathological Demand Avoidance&#39;](https://lifehacker.com/a-parents-guide-to-pathological-demand-avoidance-1850071620)
-- [Lifehacker] [Here’s What Will Probably Cause the Next Pandemic](https://lifehacker.com/here-s-what-will-probably-cause-the-next-pandemic-1850072719)
-- [Lifehacker] [Don&#39;t Drive These Seven Older Car Models, Honda Says](https://lifehacker.com/dont-drive-these-seven-older-car-models-honda-says-1850072496)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 of the Best &lpar;but Hidden&rpar; Notes App Features on Your iPhone](https://lifehacker.com/9-of-the-best-but-hidden-notes-app-features-on-your-i-1850076909)<!-- TECH-POSTS:END -->
 
 ---
 
