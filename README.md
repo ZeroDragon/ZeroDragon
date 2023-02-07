@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Angular Material?](https://dev.to/omerko96/what-is-angular-material-37d8)
+- [Dev.to/JS] [Bard VS ChatGPT: The AI War](https://dev.to/scofieldidehen/bard-vs-chatgpt-the-ai-war-5ccn)
+- [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
 - [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)
 - [Dev.to/JS] [Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://dev.to/austingil/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms-23hp)
 - [Dev.to/JS] [Entendendo Módulos em JavaScript](https://dev.to/altencirsilvajr/entendendo-modulos-em-javascript-4ha1)
@@ -37,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Graph Visualization Engine and Why You Shouldn’t](https://dev.to/memgraph/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt-159p)
 - [Dev.to/JS] [My Journey from Software Quality Assurance to Software Engineering](https://dev.to/mrdanishsaleem/my-journey-from-software-quality-assurance-to-software-engineering-1fin)
 - [Dev.to/JS] [Build a useInterval hook from scratch](https://dev.to/druchan/build-a-useinterval-hook-from-scratch-4221)
-- [Dev.to/JS] [Destructuring assignment](https://dev.to/lausuarez02/destructuring-assignment-4f04)
 - [Lifehacker] [Where to Watch Super Bowl LVII &lpar;Without Cable&rpar;](https://lifehacker.com/where-to-watch-super-bowl-lvii-without-cable-1850080142)
-- [Dev.to/JS] [Build an Instagram Web App with Supabase and Next.js 🚀](https://dev.to/livecycle/build-an-instagram-web-app-with-supabase-and-nextjs-4cn1)
 - [Lifehacker] [Forget Frosting and Give Your Cupcakes the Lamington Treatment](https://lifehacker.com/forget-frosting-and-give-your-cupcakes-the-lamington-tr-1850080297)
 - [Lifehacker] [The 11 Funniest &lpar;and Weirdest&rpar; Bets You Can Make on Super Bowl LVII](https://lifehacker.com/the-11-finniest-and-weirdest-bets-you-can-make-on-sup-1850080057)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Being a Decent Neighbor](https://lifehacker.com/the-7-deadly-sins-of-being-a-decent-neighbor-1850073202)
 - [Lifehacker] [Make Cheaper &lpar;and Better&rpar; Protein Shakes With Plain Whey and Coffee Creamer](https://lifehacker.com/make-cheaper-and-better-protein-shakes-with-plain-whe-1850071813)
 - [Lifehacker] [All the Changes Worth Knowing About Before Filing Your 2022 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
-- [Lifehacker] [The Case for Putting Expensive Eggs on Cheap Pizza](https://lifehacker.com/the-case-for-putting-expensive-eggs-on-cheap-pizza-1850072924)
-- [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Case for Putting Expensive Eggs on Cheap Pizza](https://lifehacker.com/the-case-for-putting-expensive-eggs-on-cheap-pizza-1850072924)<!-- TECH-POSTS:END -->
 
 ---
 
