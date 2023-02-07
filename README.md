@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build an Instagram Web App with Supabase and Next.js 🚀](https://dev.to/livecycle/build-an-instagram-web-app-with-supabase-and-nextjs-4cn1)
+- [Lifehacker] [Forget Frosting and Give Your Cupcakes the Lamington Treatment](https://lifehacker.com/forget-frosting-and-give-your-cupcakes-the-lamington-tr-1850080297)
+- [Dev.to/JS] [#1 VN Dịch vụ tăng Traffic User thúc đẩy SEO uy tín , giá rẻ , cam kết chất lượng](https://dev.to/seosolutions23/1-vn-dich-vu-tang-traffic-user-thuc-day-seo-uy-tin-gia-re-cam-ket-chat-luong-40j9)
+- [Dev.to/JS] [Difference Between Async &amp; Defer Attributes in JavaScript](https://dev.to/catherineisonline/difference-between-async-defer-attributes-in-javascript-57ff)
+- [Dev.to/JS] [How to show a pop-up only once with React, localStorage and Material UI modal](https://dev.to/bcncodeschool/how-to-show-a-pop-up-only-once-with-react-localstorage-and-material-ui-modal-n81)
+- [Lifehacker] [The 11 Funniest &lpar;and Weirdest&rpar; Bets You Can Make on Super Bowl LVII](https://lifehacker.com/the-11-finniest-and-weirdest-bets-you-can-make-on-sup-1850080057)
 - [Dev.to/JS] [5 React Tools to Use in an Ecommerce Stack](https://dev.to/medusajs/5-react-tools-to-use-in-an-ecommerce-stack-1ojo)
 - [Dev.to/JS] [Low-code solutions for Indie Hacking in 2023?](https://dev.to/iskurbanov/low-code-solutions-for-indie-hacking-in-2023-508i)
 - [Dev.to/JS] [[Safe-TypeORM] AnyORM becomes the real TypeORM](https://dev.to/samchon/safe-typeorm-make-anyorm-to-be-the-real-typeorm-478n)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [innerText vs textContent in 2023](https://dev.to/ismaestro/innertext-vs-textcontent-in-2023-1jf8)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Quebrando Recordes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-quebrando-recordes-4h35)
 - [Dev.to/JS] [Using JavaScript Gantt Chart in SharePoint Web Part for Effective Project Management: Part 2](https://dev.to/syncfusion/using-javascript-gantt-chart-in-sharepoint-web-part-for-effective-project-management-part-2-3igo)
-- [Dev.to/JS] [Function scope vs Block scope](https://dev.to/mavis_chen/function-scope-vs-block-scope-197e)
-- [Dev.to/JS] [Hard time with image attribute loading=&quot;lazy&quot;, Alpinejs can help.](https://dev.to/andrewzach/hard-time-with-image-attribute-loadinglazy-alpinejs-can-help-4a05)
-- [Dev.to/JS] [Deno vs NodeJs](https://dev.to/hshoja/deno-vs-nodejs-hb3)
-- [Dev.to/JS] [Getting Started With JavaScript.](https://dev.to/ankitdevelops/getting-started-with-javascript-203m)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
 - [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
 - [Lifehacker] [How to Care for Your Dog or Cat in Their Old Age](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
-- [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)
-- [Lifehacker] [Where to Get Free Froyo on National Frozen Yogurt Day](https://lifehacker.com/where-to-get-free-froyo-on-national-frozen-yogurt-day-1850072058)
-- [Lifehacker] [Don’t Make Your Bed First Thing in the Morning](https://lifehacker.com/don-t-make-your-bed-first-thing-in-the-morning-1850072218)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Pigs in a Puff With Choux Pastry](https://lifehacker.com/make-pigs-in-a-puff-with-choux-pastry-1850072140)<!-- TECH-POSTS:END -->
 
 ---
 
