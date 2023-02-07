@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Scraping With JavaScript And Node JS - An Ultimate Guide](https://dev.to/serpdogapi/web-scraping-with-javascript-and-node-js-an-ultimate-guide-2e26)
+- [Lifehacker] [11 of the World&#39;s Most Banned Movies](https://lifehacker.com/11-of-the-worlds-most-banned-movies-1850076182)
+- [Dev.to/JS] [Jest with TypeScript and aliased imports &lpar;custom paths&rpar;](https://dev.to/mliakos/jest-with-typescript-and-aliased-imports-custom-paths-40d4)
+- [Lifehacker] [9 Creative Ways to Serve Pigs in a Blanket](https://lifehacker.com/9-creative-ways-to-serve-pigs-in-a-blanket-1850083389)
 - [Dev.to/JS] [My progress in #icodethis daily UI challenge](https://dev.to/aneeqakhan/my-progress-in-icodethis-daily-ui-challenge-gg1)
 - [Dev.to/JS] [5 useful console objects](https://dev.to/dshaw0004/5-useful-console-objects-2m8k)
 - [Lifehacker] [9 Tips That Could Save Your Life in Very Specific Emergencies](https://lifehacker.com/9-tips-that-could-save-your-life-in-very-specific-emerg-1850082781)
@@ -38,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo Módulos em JavaScript](https://dev.to/altencirsilvajr/entendendo-modulos-em-javascript-4ha1)
 - [Lifehacker] [How to Have a Healthy Relationship When You&#39;re an Empath](https://lifehacker.com/how-to-have-a-healthy-relationship-when-youre-an-empath-1850080332)
 - [Dev.to/JS] [How to update object key in useState](https://dev.to/ashish221306/how-to-update-object-key-in-usestate-33h6)
-- [Dev.to/JS] [My learning journey to Javascript- Week 1](https://dev.to/hmmalic/my-learning-journey-to-javascript-week-1-1igj)
 - [Lifehacker] [Don&#39;t Let Your Dog Eat These Popular Super Bowl Party Foods](https://lifehacker.com/dont-let-your-dog-eat-these-popular-super-bowl-party-fo-1850080895)
-- [Dev.to/JS] [Next.js with Cypress](https://dev.to/celest67/nextjs-with-cypress-3a5b)
 - [Lifehacker] [Here&#39;s When Your Relationship Needs Separate Beds](https://lifehacker.com/heres-when-your-relationship-needs-separate-beds-1850080366)
 - [Lifehacker] [Where to Watch Super Bowl LVII &lpar;Without Cable&rpar;](https://lifehacker.com/where-to-watch-super-bowl-lvii-without-cable-1850080142)
 - [Lifehacker] [Forget Frosting and Give Your Cupcakes the Lamington Treatment](https://lifehacker.com/forget-frosting-and-give-your-cupcakes-the-lamington-tr-1850080297)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 of the Best &lpar;but Hidden&rpar; Notes App Features on Your iPhone](https://lifehacker.com/9-of-the-best-but-hidden-notes-app-features-on-your-i-1850076909)
 - [Lifehacker] [A Parent&#39;s Guide to &#39;Pathological Demand Avoidance&#39;](https://lifehacker.com/a-parents-guide-to-pathological-demand-avoidance-1850071620)
 - [Lifehacker] [Here’s What Will Probably Cause the Next Pandemic](https://lifehacker.com/here-s-what-will-probably-cause-the-next-pandemic-1850072719)
-- [Lifehacker] [Don&#39;t Drive These Seven Older Car Models, Honda Says](https://lifehacker.com/dont-drive-these-seven-older-car-models-honda-says-1850072496)
-- [Lifehacker] [The 7 Deadly Sins of Being a Decent Neighbor](https://lifehacker.com/the-7-deadly-sins-of-being-a-decent-neighbor-1850073202)
-- [Lifehacker] [Make Cheaper &lpar;and Better&rpar; Protein Shakes With Plain Whey and Coffee Creamer](https://lifehacker.com/make-cheaper-and-better-protein-shakes-with-plain-whe-1850071813)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Drive These Seven Older Car Models, Honda Says](https://lifehacker.com/dont-drive-these-seven-older-car-models-honda-says-1850072496)<!-- TECH-POSTS:END -->
 
 ---
 
