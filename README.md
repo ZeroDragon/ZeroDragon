@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need some help configuring wordpress plugin and increasing functionality of www.careersarabia.com](https://dev.to/saeed5443/need-some-help-configuring-wordpress-plugin-and-increasing-functionality-of-wwwcareersarabiacom-g)
+- [Dev.to/JS] [Delay a Function Call using React Custom Hook: Debounce](https://dev.to/nicholasgalante/delay-a-function-call-using-react-custom-hook-debounce-1ha2)
 - [Dev.to/JS] [NextJS 13: Custom @next/fonts with MaterialUI Themes](https://dev.to/timewizard/nextjs-13-custom-nextfonts-with-materialui-themes-2jj4)
 - [Dev.to/JS] [A Guide to React&#39;s useEffect Hook](https://dev.to/asayerio_techblog/a-guide-to-reacts-useeffect-hook-4k8n)
 - [Dev.to/JS] [Execution Context in JavaScript](https://dev.to/mavis_chen/execution-context-in-javascript-gic)
@@ -37,10 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [v-show vs v-if: Conditional Rendering in Vue](https://dev.to/smpnjn/v-show-vs-v-if-conditional-rendering-in-vue-39ji)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
 - [Lifehacker] [Air Fry Some Store-Bought Bacon Bits](https://lifehacker.com/air-fry-some-store-bought-bacon-bits-1850079590)
-- [Dev.to/JS] [Authentication and Authorization in a Node API using Fastify, tRPC and Supertokens](https://dev.to/franciscomendes10866/authentication-and-authorization-in-a-node-api-using-fastify-trpc-and-supertokens-3cgn)
 - [Lifehacker] [14 DIY Cleaning Recipes for People Who Hate Chemicals](https://lifehacker.com/14-diy-cleaning-recipes-for-people-who-hate-chemicals-1850079064)
 - [Lifehacker] [How Much Money Should You Be Saving in 2023?](https://lifehacker.com/how-much-money-should-you-be-saving-in-2023-1850070942)
-- [Dev.to/JS] [Padrão - Facade](https://dev.to/higordiego/padrao-facade-364a)
 - [Lifehacker] [You Can Get Taco Bell’s New-ish Crispy Melt Taco for Free-ish Right Now](https://lifehacker.com/you-can-get-taco-bell-s-new-ish-crispy-melt-taco-for-fr-1850078656)
 - [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
 - [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
