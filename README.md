@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)
+- [Dev.to/JS] [Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://dev.to/austingil/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms-23hp)
+- [Dev.to/JS] [Entendendo Módulos em JavaScript](https://dev.to/altencirsilvajr/entendendo-modulos-em-javascript-4ha1)
+- [Lifehacker] [How to Have a Healthy Relationship When You&#39;re an Empath](https://lifehacker.com/how-to-have-a-healthy-relationship-when-youre-an-empath-1850080332)
+- [Dev.to/JS] [How to update object key in useState](https://dev.to/ashish221306/how-to-update-object-key-in-usestate-33h6)
+- [Dev.to/JS] [My learning journey to Javascript- Week 1](https://dev.to/hmmalic/my-learning-journey-to-javascript-week-1-1igj)
+- [Lifehacker] [Don&#39;t Let Your Dog Eat These Popular Super Bowl Party Foods](https://lifehacker.com/dont-let-your-dog-eat-these-popular-super-bowl-party-fo-1850080895)
 - [Dev.to/JS] [Next.js with Cypress](https://dev.to/celest67/nextjs-with-cypress-3a5b)
 - [Dev.to/JS] [Building a multi-framework dashboard with Astro](https://dev.to/logrocket/building-a-multi-framework-dashboard-with-astro-18oj)
 - [Lifehacker] [Here&#39;s When Your Relationship Needs Separate Beds](https://lifehacker.com/heres-when-your-relationship-needs-separate-beds-1850080366)
@@ -34,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Watch Super Bowl LVII &lpar;Without Cable&rpar;](https://lifehacker.com/where-to-watch-super-bowl-lvii-without-cable-1850080142)
 - [Dev.to/JS] [Build an Instagram Web App with Supabase and Next.js 🚀](https://dev.to/livecycle/build-an-instagram-web-app-with-supabase-and-nextjs-4cn1)
 - [Lifehacker] [Forget Frosting and Give Your Cupcakes the Lamington Treatment](https://lifehacker.com/forget-frosting-and-give-your-cupcakes-the-lamington-tr-1850080297)
-- [Dev.to/JS] [#1 VN Dịch vụ tăng Traffic User thúc đẩy SEO uy tín , giá rẻ , cam kết chất lượng](https://dev.to/seosolutions23/1-vn-dich-vu-tang-traffic-user-thuc-day-seo-uy-tin-gia-re-cam-ket-chat-luong-40j9)
-- [Dev.to/JS] [Difference Between Async &amp; Defer Attributes in JavaScript](https://dev.to/catherineisonline/difference-between-async-defer-attributes-in-javascript-57ff)
-- [Dev.to/JS] [How to show a pop-up only once with React, localStorage and Material UI modal](https://dev.to/bcncodeschool/how-to-show-a-pop-up-only-once-with-react-localstorage-and-material-ui-modal-n81)
 - [Lifehacker] [The 11 Funniest &lpar;and Weirdest&rpar; Bets You Can Make on Super Bowl LVII](https://lifehacker.com/the-11-finniest-and-weirdest-bets-you-can-make-on-sup-1850080057)
-- [Dev.to/JS] [5 React Tools to Use in an Ecommerce Stack](https://dev.to/medusajs/5-react-tools-to-use-in-an-ecommerce-stack-1ojo)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Cheaper &lpar;and Better&rpar; Protein Shakes With Plain Whey and Coffee Creamer](https://lifehacker.com/make-cheaper-and-better-protein-shakes-with-plain-whe-1850071813)
 - [Lifehacker] [All the Changes Worth Knowing About Before Filing Your 2022 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
 - [Lifehacker] [The Case for Putting Expensive Eggs on Cheap Pizza](https://lifehacker.com/the-case-for-putting-expensive-eggs-on-cheap-pizza-1850072924)
-- [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)
-- [Lifehacker] [The Best Food Deals and Freebies for the Super Bowl](https://lifehacker.com/the-best-food-deals-and-freebies-for-the-super-bowl-1850066813)
-- [Lifehacker] [Don&#39;t Buy These Houseplants That You&#39;ll Probably Kill](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
-- [Lifehacker] [These Markets Are Predicted to See the Biggest Increase in Homes for Sale](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Expect a &#39;Soggy, Shivery Spring&#39; This Year](https://lifehacker.com/expect-a-soggy-shivery-spring-this-year-1850066798)<!-- TECH-POSTS:END -->
 
 ---
 
