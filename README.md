@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NextJS 13: Custom @next/fonts with MaterialUI Themes](https://dev.to/timewizard/nextjs-13-custom-nextfonts-with-materialui-themes-2jj4)
+- [Dev.to/JS] [A Guide to React&#39;s useEffect Hook](https://dev.to/asayerio_techblog/a-guide-to-reacts-useeffect-hook-4k8n)
 - [Dev.to/JS] [Execution Context in JavaScript](https://dev.to/mavis_chen/execution-context-in-javascript-gic)
 - [Dev.to/JS] [The !! Operator in Javascript, a quick way to understand it](https://dev.to/ypdev19/the-operator-in-javascript-a-quick-way-to-understand-it-43j1)
 - [Dev.to/JS] [Agradecimientos JSConf CL 2023](https://dev.to/jsconfcl/resumen-jsconf-cl-2023-1dpe)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 DIY Cleaning Recipes for People Who Hate Chemicals](https://lifehacker.com/14-diy-cleaning-recipes-for-people-who-hate-chemicals-1850079064)
 - [Lifehacker] [How Much Money Should You Be Saving in 2023?](https://lifehacker.com/how-much-money-should-you-be-saving-in-2023-1850070942)
 - [Dev.to/JS] [Padrão - Facade](https://dev.to/higordiego/padrao-facade-364a)
-- [Dev.to/JS] [React.js several complex concepts](https://dev.to/mdsifath70/reactjs-several-complex-concepts-394f)
-- [Dev.to/JS] [Label htmlFor Property Explained](https://dev.to/lavary/label-htmlfor-property-explained-1pjd)
 - [Lifehacker] [You Can Get Taco Bell’s New-ish Crispy Melt Taco for Free-ish Right Now](https://lifehacker.com/you-can-get-taco-bell-s-new-ish-crispy-melt-taco-for-fr-1850078656)
 - [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
 - [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
