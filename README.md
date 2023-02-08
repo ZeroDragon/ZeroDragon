@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding cmd-k for Quick Navigation](https://dev.to/ademking/adding-cmd-k-for-quick-navigation-19l9)
+- [Dev.to/JS] [Ditching Dependencies: You don&#39;t need libraries for these JavaScript tasks](https://dev.to/ademking/ditching-dependencies-you-dont-need-libraries-for-these-javascript-tasks-4j3h)
+- [Dev.to/JS] [Using Node.js to Parse a JSON File Generated from WPScan](https://dev.to/ademking/using-nodejs-to-parse-a-json-file-generated-from-wpscan-1589)
+- [Dev.to/JS] [Serve-Build in Reactjs](https://dev.to/ashrafhero/serve-build-in-reactjs-1apn)
+- [Dev.to/JS] [React provides several built-in hooks that can be used to add specific functionality:](https://dev.to/vamsi_76_89/react-provides-several-built-in-hooks-that-can-be-used-to-add-specific-functionality-3f7m)
 - [Dev.to/JS] [Closures In JavaScript](https://dev.to/mavis_chen/closures-in-javascript-5f16)
 - [Dev.to/JS] [45. Leetcode Solution in JavaScript](https://dev.to/chiki1601/45-leetcode-solution-in-javascript-4143)
 - [Dev.to/JS] [&quot;Application of Apache Doris in Tencent Music&quot;_Apache Doris Summit 2022](https://dev.to/selectdb/application-of-apache-doris-in-tencent-musicapache-doris-summit-2022-43hb)
@@ -30,15 +35,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Password Generator with js](https://dev.to/walternascimentobarroso/password-generator-with-js-5cld)
 - [Dev.to/JS] [Is Twitter API &lpar;still&rpar; Free? I&#39;ve built a website to find out](https://dev.to/jnv/is-twitter-api-free-ive-built-a-website-to-find-out-3hn4)
 - [Dev.to/JS] [Getting started with Alpine.js](https://dev.to/asayerio_techblog/getting-started-with-alpinejs-3l7o)
-- [Dev.to/JS] [Building React components using Ant Design](https://dev.to/asayerio_techblog/building-react-components-using-ant-design-466k)
-- [Dev.to/JS] [Svelte Stores x IndexedDB](https://dev.to/nicoheinrich/svelte-stores-x-indexeddb-19e9)
-- [Dev.to/JS] [Code Smell 195 - Yoda Conditions](https://dev.to/mcsee/code-smell-195-yoda-conditions-1mgl)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
-- [Dev.to/JS] [Moonly weekly progress update #35](https://dev.to/moonly/moonly-weekly-progress-update-35-1732)
 - [Lifehacker] [These Kindles Are Up to 30% Off Right Now](https://lifehacker.com/these-kindles-are-up-to-30-off-right-now-1850083935)
-- [Dev.to/JS] [Creating a HTML Tag Function - Part 2](https://dev.to/gabrieljm/creating-a-html-tag-function-part-2-5dfi)
 - [Lifehacker] [Make Better Irish Nachos With Guiness Beer Cheese](https://lifehacker.com/make-better-irish-nachos-with-guiness-beer-cheese-1850084017)
 - [Lifehacker] [Download This App If You Use Multiple Browsers on Your Mac](https://lifehacker.com/download-this-app-if-you-use-multiple-browsers-on-your-1850083609)
 - [Lifehacker] [11 of the World&#39;s Most Banned Movies](https://lifehacker.com/11-of-the-worlds-most-banned-movies-1850076182)
