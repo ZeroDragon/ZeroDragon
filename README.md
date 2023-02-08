@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Primeros pasos con bucles en JavaScript](https://dev.to/asjordi/primeros-pasos-con-bucles-en-javascript-3149)
+- [Dev.to/JS] [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-g5p)
+- [Dev.to/JS] [How to set up Tailwind CSS dark-mode React](https://dev.to/ebuberoderick/how-to-set-up-tailwind-css-dark-mode-react-3fik)
+- [Dev.to/JS] [JavaScript Fundamentos - Tipos Objetos](https://dev.to/nascimento_/javascript-fundamentos-tipos-objetos-183p)
+- [Lifehacker] [Please the Whole Team With These Cubano Sliders](https://lifehacker.com/please-the-whole-team-with-these-cubano-sliders-1850085424)
+- [Dev.to/JS] [A Beginner&#39;s Guide to React: Understanding the Basics and Advanced Concepts](https://dev.to/rahul3002/a-beginners-guide-to-react-understanding-the-basics-and-advanced-concepts-hhn)
+- [Dev.to/JS] [Understanding and Implementing NoSSR in Next.js: A Comprehensive Guide](https://dev.to/danireptor/understanding-and-implementing-nossr-in-nextjs-a-comprehensive-guide-3idm)
 - [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
 - [Dev.to/JS] [File Share Website [Updated Version] | Django Project |](https://dev.to/madhubankhatri/file-share-website-updated-version-django-project--1akp)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Dividindo Chocolates](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-dividindo-chocolates-8ni)
@@ -32,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Electron: Build Desktop Applications Using Plain Javascript](https://dev.to/lucasrodriguez93/electron-build-desktop-applications-using-plain-javascript-40dn)
 - [Lifehacker] [The Easiest Way to Jump Start Your Car](https://lifehacker.com/the-easiest-way-to-jump-start-your-car-1850084376)
 - [Dev.to/JS] [Staying focused in a distracted world](https://dev.to/radubrehar/staying-focused-in-a-distracted-world-jcl)
-- [Dev.to/JS] [Sending Mails in Node.js Using Nodemailer.](https://dev.to/victrexx2002/sending-mails-in-nodejs-using-nodemailer-2pfc)
-- [Dev.to/JS] [Svelte Stores x Dexie](https://dev.to/nicoheinrich/svelte-stores-x-dexie-36n1)
-- [Dev.to/JS] [My first VS Code extension: Copy Variable Console Log](https://dev.to/mickmelon/my-first-vs-code-extension-copy-variable-console-log-1fa5)
-- [Dev.to/JS] [WHY GSAP&lpar;GREENSOCK ANIMATION PLATFORM&rpar; EMERGES AS THE SUPERIOR ANIMATION LIBRARY COMPARED TO AOS.JS](https://dev.to/covelitein/why-gsapgreensock-animation-platform-emerges-as-the-superior-animation-library-compared-to-aosjs-4m15)
-- [Dev.to/JS] [How To Scroll a Page Using Selenium WebDriver?](https://dev.to/lambdatest/how-to-scroll-a-page-using-selenium-webdriver-6pf)
-- [Dev.to/JS] [Values &amp; Variables In JavaScript](https://dev.to/ankitdevelops/values-variables-in-javascript-3oeg)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
 - [Lifehacker] [Air Fry Some Store-Bought Bacon Bits](https://lifehacker.com/air-fry-some-store-bought-bacon-bits-1850079590)
 - [Lifehacker] [14 DIY Cleaning Recipes for People Who Hate Chemicals](https://lifehacker.com/14-diy-cleaning-recipes-for-people-who-hate-chemicals-1850079064)
-- [Lifehacker] [How Much Money Should You Be Saving in 2023?](https://lifehacker.com/how-much-money-should-you-be-saving-in-2023-1850070942)
-- [Lifehacker] [You Can Get Taco Bell’s New-ish Crispy Melt Taco for Free-ish Right Now](https://lifehacker.com/you-can-get-taco-bell-s-new-ish-crispy-melt-taco-for-fr-1850078656)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Much Money Should You Be Saving in 2023?](https://lifehacker.com/how-much-money-should-you-be-saving-in-2023-1850070942)<!-- TECH-POSTS:END -->
 
 ---
 
