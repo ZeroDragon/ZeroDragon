@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Wizarding Games You Can Play Instead of &#39;Hogwarts Legacy&#39;](https://lifehacker.com/10-wizarding-games-you-can-play-instead-of-hogwarts-leg-1850089265)
+- [Dev.to/JS] [O Gerenciamento de Memória no JavaScript](https://dev.to/altencirsilvajr/o-gerenciamento-de-memoria-no-javascript-a6d)
+- [Dev.to/JS] [Next.js with ESLint](https://dev.to/celest67/nextjs-with-eslint-3gl5)
 - [Lifehacker] [You’re Cutting Into Your Baked Brie All Wrong](https://lifehacker.com/you-re-cutting-into-your-baked-brie-all-wrong-1850089023)
 - [Dev.to/JS] [Master the Art of Navigation: Building a Library with the Navigation API](https://dev.to/romaintrotard/master-the-art-of-navigation-building-a-library-with-the-navigation-api-6g)
 - [Lifehacker] [This New Google Maps View Puts You in the Middle of Your Favorite City](https://lifehacker.com/this-new-google-maps-view-puts-you-in-the-middle-of-you-1850089257)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crack Javascript Interviews](https://dev.to/tkssharma/crack-javascript-interviews-4559)
 - [Dev.to/JS] [Getting Started With Accessibility for React](https://dev.to/kathryngrayson/getting-started-with-accessibility-for-react-1k3o)
 - [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576)
-- [Dev.to/JS] [Svelte Kit Training Sessions](https://dev.to/tkssharma/svelte-kit-training-sessions-59i3)
-- [Dev.to/JS] [Don&#39;t add or change methods in built-in JavaScript objects](https://dev.to/nicozerpa/dont-add-or-change-methods-in-built-in-javascript-objects-2ph2)
 - [Lifehacker] [Please the Whole Team With These Cubano Sliders](https://lifehacker.com/please-the-whole-team-with-these-cubano-sliders-1850085424)
 - [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
 - [Lifehacker] [Make Mini Pommes Anna in a Muffin Tin for an Intimate Valentine&#39;s Day Dinner](https://lifehacker.com/make-mini-pommes-anna-in-a-muffin-tin-for-an-intimate-v-1850085666)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
 - [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)
 - [Lifehacker] [How to Have a Healthy Relationship When You&#39;re an Empath](https://lifehacker.com/how-to-have-a-healthy-relationship-when-youre-an-empath-1850080332)
-- [Lifehacker] [Don&#39;t Let Your Dog Eat These Popular Super Bowl Party Foods](https://lifehacker.com/dont-let-your-dog-eat-these-popular-super-bowl-party-fo-1850080895)
-- [Lifehacker] [Here&#39;s When Your Relationship Needs Separate Beds](https://lifehacker.com/heres-when-your-relationship-needs-separate-beds-1850080366)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Let Your Dog Eat These Popular Super Bowl Party Foods](https://lifehacker.com/dont-let-your-dog-eat-these-popular-super-bowl-party-fo-1850080895)<!-- TECH-POSTS:END -->
 
 ---
 
