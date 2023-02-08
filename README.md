@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comparing the best headless CMS solutions](https://dev.to/refine/comparing-the-best-headless-cms-solutions-59hf)
+- [Dev.to/JS] [Top 10 Most Popular Programming languages in 2023](https://dev.to/sahilnarnaware/top-10-most-popular-programming-languages-in-2023-5d6)
+- [Dev.to/JS] [Some Very Cool &lpar;Underrated maybe&rpar; React Libraries](https://dev.to/darkxenium/some-very-cool-underrated-maybe-react-libraries-4do6)
+- [Dev.to/JS] [Use Maps more and Objects less](https://dev.to/builderio/use-maps-more-and-objects-less-2flk)
 - [Dev.to/JS] [Beginner&#39;s Guide to React Query](https://dev.to/iambilalriaz/beginners-guide-to-react-query-12c8)
 - [Dev.to/JS] [Test Post](https://dev.to/twentytwo/test-post-5bjf)
 - [Dev.to/JS] [How to use classes correctly in Qwik](https://dev.to/mrdreix/how-to-use-classes-correctly-in-qwik-3omi)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Things about typescript you should know as a pro React dev](https://dev.to/mr_mornin_star/things-about-typescript-you-should-know-as-a-pro-react-dev-1oca)
 - [Dev.to/JS] [5 Must-Ask questions before you implement Caching](https://dev.to/dashsaurabh/5-must-ask-questions-before-you-implement-caching-1md2)
 - [Dev.to/JS] [Creating Custom Hooks in React](https://dev.to/nitinfab/creating-custom-hooks-in-react-4096)
-- [Dev.to/JS] [Codecrumb #1](https://dev.to/shehabelhariry/codecrumb-1-556p)
-- [Dev.to/JS] [Blockchain Terminology Simplified &lpar;A-Z&rpar;](https://dev.to/legaciespanda/blockchain-terminology-simplified-a-z-59ke)
-- [Dev.to/JS] [Gà Đòn Đất Việt - Tổng Hợp Những Loại Gà Quý Hiếm Nhất Trên Thế Giới](https://dev.to/gadondatviet/ga-don-dat-viet-tong-hop-nhung-loai-ga-quy-hiem-nhat-tren-the-gioi-gp7)
-- [Dev.to/JS] [What is Web3, and its Evolution ✨.](https://dev.to/akshaykurhekar/what-is-web3-and-its-evolution--1dj1)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
