@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
+- [Dev.to/JS] [File Share Website [Updated Version] | Django Project |](https://dev.to/madhubankhatri/file-share-website-updated-version-django-project--1akp)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Dividindo Chocolates](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-dividindo-chocolates-8ni)
+- [Lifehacker] [Make Mini Pommes Anna in a Muffin Tin for an Intimate Valentine&#39;s Day Dinner](https://lifehacker.com/make-mini-pommes-anna-in-a-muffin-tin-for-an-intimate-v-1850085666)
+- [Dev.to/JS] [Creating a Dynamic and User-Friendly Pagination System with HTML, CSS, and JavaScript](https://dev.to/nikhil27b/creating-a-dynamic-and-user-friendly-pagination-system-with-html-css-and-javascript-3g5l)
+- [Dev.to/JS] [Capturando dados com Regex](https://dev.to/erandirjunior/capturando-dados-com-regex-31od)
+- [Dev.to/JS] [Electron: Build Desktop Applications Using Plain Javascript](https://dev.to/lucasrodriguez93/electron-build-desktop-applications-using-plain-javascript-40dn)
 - [Lifehacker] [The Easiest Way to Jump Start Your Car](https://lifehacker.com/the-easiest-way-to-jump-start-your-car-1850084376)
 - [Dev.to/JS] [Staying focused in a distracted world](https://dev.to/radubrehar/staying-focused-in-a-distracted-world-jcl)
 - [Dev.to/JS] [Sending Mails in Node.js Using Nodemailer.](https://dev.to/victrexx2002/sending-mails-in-nodejs-using-nodemailer-2pfc)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WHY GSAP&lpar;GREENSOCK ANIMATION PLATFORM&rpar; EMERGES AS THE SUPERIOR ANIMATION LIBRARY COMPARED TO AOS.JS](https://dev.to/covelitein/why-gsapgreensock-animation-platform-emerges-as-the-superior-animation-library-compared-to-aosjs-4m15)
 - [Dev.to/JS] [How To Scroll a Page Using Selenium WebDriver?](https://dev.to/lambdatest/how-to-scroll-a-page-using-selenium-webdriver-6pf)
 - [Dev.to/JS] [Values &amp; Variables In JavaScript](https://dev.to/ankitdevelops/values-variables-in-javascript-3oeg)
-- [Dev.to/JS] [Writing reusable code with Vue3 composition api](https://dev.to/donghoon759/writing-reusable-code-with-vue3-composition-api-49e3)
-- [Dev.to/JS] [Comparing the best headless CMS solutions](https://dev.to/refine/comparing-the-best-headless-cms-solutions-59hf)
-- [Dev.to/JS] [Top 10 Most Popular Programming languages in 2023](https://dev.to/sahilnarnaware/top-10-most-popular-programming-languages-in-2023-5d6)
-- [Dev.to/JS] [Some Very Cool &lpar;Underrated maybe&rpar; React Libraries](https://dev.to/darkxenium/some-very-cool-underrated-maybe-react-libraries-4do6)
-- [Dev.to/JS] [Use Maps more and Objects less](https://dev.to/builderio/use-maps-more-and-objects-less-2flk)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Air Fry Some Store-Bought Bacon Bits](https://lifehacker.com/air-fry-some-store-bought-bacon-bits-1850079590)
 - [Lifehacker] [14 DIY Cleaning Recipes for People Who Hate Chemicals](https://lifehacker.com/14-diy-cleaning-recipes-for-people-who-hate-chemicals-1850079064)
 - [Lifehacker] [How Much Money Should You Be Saving in 2023?](https://lifehacker.com/how-much-money-should-you-be-saving-in-2023-1850070942)
-- [Lifehacker] [You Can Get Taco Bell’s New-ish Crispy Melt Taco for Free-ish Right Now](https://lifehacker.com/you-can-get-taco-bell-s-new-ish-crispy-melt-taco-for-fr-1850078656)
-- [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
-- [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Taco Bell’s New-ish Crispy Melt Taco for Free-ish Right Now](https://lifehacker.com/you-can-get-taco-bell-s-new-ish-crispy-melt-taco-for-fr-1850078656)<!-- TECH-POSTS:END -->
 
 ---
 
