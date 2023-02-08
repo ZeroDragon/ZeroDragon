@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures In JavaScript](https://dev.to/mavis_chen/closures-in-javascript-5f16)
 - [Dev.to/JS] [45. Leetcode Solution in JavaScript](https://dev.to/chiki1601/45-leetcode-solution-in-javascript-4143)
 - [Dev.to/JS] [&quot;Application of Apache Doris in Tencent Music&quot;_Apache Doris Summit 2022](https://dev.to/selectdb/application-of-apache-doris-in-tencent-musicapache-doris-summit-2022-43hb)
 - [Dev.to/JS] [Higher Order Function in JavaScript](https://dev.to/mavis_chen/higher-order-function-in-javascript-2omo)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Kindles Are Up to 30% Off Right Now](https://lifehacker.com/these-kindles-are-up-to-30-off-right-now-1850083935)
 - [Dev.to/JS] [Creating a HTML Tag Function - Part 2](https://dev.to/gabrieljm/creating-a-html-tag-function-part-2-5dfi)
 - [Lifehacker] [Make Better Irish Nachos With Guiness Beer Cheese](https://lifehacker.com/make-better-irish-nachos-with-guiness-beer-cheese-1850084017)
-- [Dev.to/JS] [JavaScript is undeniably better than Python for website](https://dev.to/tufanmulla/javascript-is-undeniably-better-than-python-for-website-kga)
 - [Lifehacker] [Download This App If You Use Multiple Browsers on Your Mac](https://lifehacker.com/download-this-app-if-you-use-multiple-browsers-on-your-1850083609)
 - [Lifehacker] [11 of the World&#39;s Most Banned Movies](https://lifehacker.com/11-of-the-worlds-most-banned-movies-1850076182)
 - [Lifehacker] [9 Creative Ways to Serve Pigs in a Blanket](https://lifehacker.com/9-creative-ways-to-serve-pigs-in-a-blanket-1850083389)
