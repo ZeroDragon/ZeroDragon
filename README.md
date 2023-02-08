@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #136](https://dev.to/vincenius/weekly-web-development-resources-136-4kak)
+- [Dev.to/JS] [Firebase Learning: Key Considerations to Keep in Mind](https://dev.to/jodaut/firebase-learning-key-considerations-to-keep-in-mind-3910)
+- [Dev.to/JS] [Becoming a ReactJS Developer: Essential Skills and Future Prospects](https://dev.to/nickelfox/becoming-a-reactjs-developer-essential-skills-and-future-prospects-3gml)
+- [Dev.to/JS] [Giti.ai - A Multilingual ChatGPT](https://dev.to/0xmxd/gitiai-multilingual-chatgpt-1d6j)
+- [Dev.to/JS] [Automating Tests for Your Node.js Application](https://dev.to/pavanbelagatti/automating-tests-for-your-nodejs-application-5hd9)
 - [Dev.to/JS] [Adding cmd-k for Quick Navigation](https://dev.to/ademking/adding-cmd-k-for-quick-navigation-19l9)
 - [Dev.to/JS] [Ditching Dependencies: You don&#39;t need libraries for these JavaScript tasks](https://dev.to/ademking/ditching-dependencies-you-dont-need-libraries-for-these-javascript-tasks-4j3h)
 - [Dev.to/JS] [Using Node.js to Parse a JSON File Generated from WPScan](https://dev.to/ademking/using-nodejs-to-parse-a-json-file-generated-from-wpscan-1589)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React provides several built-in hooks that can be used to add specific functionality:](https://dev.to/vamsi_76_89/react-provides-several-built-in-hooks-that-can-be-used-to-add-specific-functionality-3f7m)
 - [Dev.to/JS] [Closures In JavaScript](https://dev.to/mavis_chen/closures-in-javascript-5f16)
 - [Dev.to/JS] [45. Leetcode Solution in JavaScript](https://dev.to/chiki1601/45-leetcode-solution-in-javascript-4143)
-- [Dev.to/JS] [&quot;Application of Apache Doris in Tencent Music&quot;_Apache Doris Summit 2022](https://dev.to/selectdb/application-of-apache-doris-in-tencent-musicapache-doris-summit-2022-43hb)
-- [Dev.to/JS] [Higher Order Function in JavaScript](https://dev.to/mavis_chen/higher-order-function-in-javascript-2omo)
-- [Dev.to/JS] [Password Generator with js](https://dev.to/walternascimentobarroso/password-generator-with-js-5cld)
-- [Dev.to/JS] [Is Twitter API &lpar;still&rpar; Free? I&#39;ve built a website to find out](https://dev.to/jnv/is-twitter-api-free-ive-built-a-website-to-find-out-3hn4)
-- [Dev.to/JS] [Getting started with Alpine.js](https://dev.to/asayerio_techblog/getting-started-with-alpinejs-3l7o)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
