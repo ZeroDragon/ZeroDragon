@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is Twitter API Free? I&#39;ve built a website to find out](https://dev.to/jnv/is-twitter-api-free-ive-built-a-website-to-find-out-3hn4)
+- [Dev.to/JS] [Getting started with Alpine.js](https://dev.to/asayerio_techblog/getting-started-with-alpinejs-3l7o)
+- [Dev.to/JS] [Building React components using Ant Design](https://dev.to/asayerio_techblog/building-react-components-using-ant-design-466k)
 - [Dev.to/JS] [Svelte Stores x IndexedDB](https://dev.to/nicoheinrich/svelte-stores-x-indexeddb-19e9)
 - [Dev.to/JS] [Code Smell 195 - Yoda Conditions](https://dev.to/mcsee/code-smell-195-yoda-conditions-1mgl)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
@@ -41,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My progress in #icodethis daily UI challenge](https://dev.to/aneeqakhan/my-progress-in-icodethis-daily-ui-challenge-gg1)
 - [Dev.to/JS] [5 useful console objects](https://dev.to/dshaw0004/5-useful-console-objects-2m8k)
 - [Lifehacker] [9 Tips That Could Save Your Life in Very Specific Emergencies](https://lifehacker.com/9-tips-that-could-save-your-life-in-very-specific-emerg-1850082781)
-- [Dev.to/JS] [Lodash](https://dev.to/biplavmz/lodash-k3n)
-- [Dev.to/JS] [Introducing useCatch: The Easy Way to Create Error Boundaries in Fiddlehead](https://dev.to/vanquyet/introducing-usecatch-the-easy-way-to-create-error-boundaries-in-fiddlehead-11jg)
-- [Dev.to/JS] [Decentralized Identities](https://dev.to/ayaaneth/decentralized-identities-1024)
 - [Lifehacker] [Now You Can Order Delivery Through Your Roku for Some Reason](https://lifehacker.com/now-you-can-order-delivery-through-your-roku-for-some-r-1850082697)
 - [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
 - [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)
