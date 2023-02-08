@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made a library that adds a metallic look to anything you throw at it](https://dev.to/mikaei/i-made-a-library-that-adds-a-metallic-look-to-anything-you-throw-at-it-40fe)
+- [Dev.to/JS] [How to make a scroll progress indicator](https://dev.to/lensco825/how-to-make-a-scroll-progess-indicator-ahe)
+- [Dev.to/JS] [Apollo Client with GraphQL: State Management for GraphQL Made Easy](https://dev.to/keyholesoftware/apollo-client-with-graphql-state-management-for-graphql-made-easy-4mkj)
+- [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
+- [Lifehacker] [Don&#39;t Serve This Recalled Charcuterie Sausage at Your Super Bowl Party](https://lifehacker.com/dont-serve-this-recalled-charcuterie-sausage-at-your-su-1850089465)
 - [Lifehacker] [10 Wizarding Games You Can Play Instead of &#39;Hogwarts Legacy&#39;](https://lifehacker.com/10-wizarding-games-you-can-play-instead-of-hogwarts-leg-1850089265)
 - [Dev.to/JS] [O Gerenciamento de Memória no JavaScript](https://dev.to/altencirsilvajr/o-gerenciamento-de-memoria-no-javascript-a6d)
 - [Dev.to/JS] [Next.js with ESLint](https://dev.to/celest67/nextjs-with-eslint-3gl5)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSTools Weekly - 2023#5](https://dev.to/jstoolsweekly/jstools-weekly-20235-4578)
 - [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #1](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-1-bli)
 - [Lifehacker] [Try the ‘Five Things’ Method When You’re Overwhelmed by Mess](https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958)
-- [Dev.to/JS] [JavaScript tutorial series: Introduction.](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-57o9)
 - [Lifehacker] [There’s a Much Faster Way to Scroll on Your iPhone](https://lifehacker.com/there-s-a-much-faster-way-to-scroll-on-your-iphone-1850086713)
-- [Dev.to/JS] [Crack Javascript Interviews](https://dev.to/tkssharma/crack-javascript-interviews-4559)
-- [Dev.to/JS] [Getting Started With Accessibility for React](https://dev.to/kathryngrayson/getting-started-with-accessibility-for-react-1k3o)
 - [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576)
 - [Lifehacker] [Please the Whole Team With These Cubano Sliders](https://lifehacker.com/please-the-whole-team-with-these-cubano-sliders-1850085424)
 - [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Tips That Could Save Your Life in Very Specific Emergencies](https://lifehacker.com/9-tips-that-could-save-your-life-in-very-specific-emerg-1850082781)
 - [Lifehacker] [Now You Can Order Delivery Through Your Roku for Some Reason](https://lifehacker.com/now-you-can-order-delivery-through-your-roku-for-some-r-1850082697)
 - [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
-- [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)
-- [Lifehacker] [How to Have a Healthy Relationship When You&#39;re an Empath](https://lifehacker.com/how-to-have-a-healthy-relationship-when-youre-an-empath-1850080332)
-- [Lifehacker] [Don&#39;t Let Your Dog Eat These Popular Super Bowl Party Foods](https://lifehacker.com/dont-let-your-dog-eat-these-popular-super-bowl-party-fo-1850080895)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)<!-- TECH-POSTS:END -->
 
 ---
 
