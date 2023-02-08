@@ -23,8 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Try the ‘Five Things’ Method When You’re Overwhelmed by Mess](https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958)
+- [Dev.to/JS] [ezy – open-source gRPC client, alternative to Postman and Insomnia](https://dev.to/notmedia/ezy-open-source-grpc-client-alternative-to-postman-and-insomnia-20l4)
+- [Dev.to/JS] [JavaScript tutorial series: Introduction.](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-57o9)
+- [Lifehacker] [There’s a Much Faster Way to Scroll on Your iPhone](https://lifehacker.com/there-s-a-much-faster-way-to-scroll-on-your-iphone-1850086713)
+- [Dev.to/JS] [Crack Javascript Interviews](https://dev.to/tkssharma/crack-javascript-interviews-4559)
+- [Dev.to/JS] [Getting Started With Accessibility for React](https://dev.to/kathryngrayson/getting-started-with-accessibility-for-react-1k3o)
+- [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576)
+- [Dev.to/JS] [Svelte Kit Training Sessions](https://dev.to/tkssharma/svelte-kit-training-sessions-59i3)
+- [Dev.to/JS] [Don&#39;t add or change methods in built-in JavaScript objects](https://dev.to/nicozerpa/dont-add-or-change-methods-in-built-in-javascript-objects-2ph2)
 - [Dev.to/JS] [Primeros pasos con bucles en JavaScript](https://dev.to/asjordi/primeros-pasos-con-bucles-en-javascript-3149)
-- [Dev.to/JS] [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-g5p)
 - [Dev.to/JS] [How to set up Tailwind CSS dark-mode React](https://dev.to/ebuberoderick/how-to-set-up-tailwind-css-dark-mode-react-3fik)
 - [Dev.to/JS] [JavaScript Fundamentos - Tipos Objetos](https://dev.to/nascimento_/javascript-fundamentos-tipos-objetos-183p)
 - [Lifehacker] [Please the Whole Team With These Cubano Sliders](https://lifehacker.com/please-the-whole-team-with-these-cubano-sliders-1850085424)
@@ -32,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding and Implementing NoSSR in Next.js: A Comprehensive Guide](https://dev.to/danireptor/understanding-and-implementing-nossr-in-nextjs-a-comprehensive-guide-3idm)
 - [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
 - [Dev.to/JS] [File Share Website [Updated Version] | Django Project |](https://dev.to/madhubankhatri/file-share-website-updated-version-django-project--1akp)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Dividindo Chocolates](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-dividindo-chocolates-8ni)
 - [Lifehacker] [Make Mini Pommes Anna in a Muffin Tin for an Intimate Valentine&#39;s Day Dinner](https://lifehacker.com/make-mini-pommes-anna-in-a-muffin-tin-for-an-intimate-v-1850085666)
-- [Dev.to/JS] [Creating a Dynamic and User-Friendly Pagination System with HTML, CSS, and JavaScript](https://dev.to/nikhil27b/creating-a-dynamic-and-user-friendly-pagination-system-with-html-css-and-javascript-3g5l)
-- [Dev.to/JS] [Capturando dados com Regex](https://dev.to/erandirjunior/capturando-dados-com-regex-31od)
-- [Dev.to/JS] [Electron: Build Desktop Applications Using Plain Javascript](https://dev.to/lucasrodriguez93/electron-build-desktop-applications-using-plain-javascript-40dn)
 - [Lifehacker] [The Easiest Way to Jump Start Your Car](https://lifehacker.com/the-easiest-way-to-jump-start-your-car-1850084376)
-- [Dev.to/JS] [Staying focused in a distracted world](https://dev.to/radubrehar/staying-focused-in-a-distracted-world-jcl)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 11 Funniest &lpar;and Weirdest&rpar; Bets You Can Make on Super Bowl LVII](https://lifehacker.com/the-11-finniest-and-weirdest-bets-you-can-make-on-sup-1850080057)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
 - [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
-- [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)
-- [Lifehacker] [Air Fry Some Store-Bought Bacon Bits](https://lifehacker.com/air-fry-some-store-bought-bacon-bits-1850079590)
-- [Lifehacker] [14 DIY Cleaning Recipes for People Who Hate Chemicals](https://lifehacker.com/14-diy-cleaning-recipes-for-people-who-hate-chemicals-1850079064)
-- [Lifehacker] [How Much Money Should You Be Saving in 2023?](https://lifehacker.com/how-much-money-should-you-be-saving-in-2023-1850070942)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)<!-- TECH-POSTS:END -->
 
 ---
 
