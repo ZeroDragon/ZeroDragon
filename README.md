@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Spread Bacteria in Your Home With This Recalled Cleaner](https://lifehacker.com/dont-spread-bacteria-in-your-home-with-this-recalled-cl-1850088974)
+- [Dev.to/JS] [React useReducer&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/react-usereducer-ae4)
+- [Dev.to/JS] [Use Mocha instead of Jest and boost your tests speed](https://dev.to/afl_ext/use-mocha-instead-of-jest-and-boost-your-tests-speed-4cpl)
+- [Lifehacker] [Use This Site to Find Almost Any Outfit You Liked on TV](https://lifehacker.com/use-this-site-to-find-almost-any-outfit-you-liked-on-tv-1850088497)
 - [Lifehacker] [Add These Plugins to &#39;Quick Look&#39; on Your Mac](https://lifehacker.com/add-these-plugins-to-quick-look-on-your-mac-1850087046)
 - [Dev.to/JS] [Top 10 Websites that can pay you per Download](https://dev.to/coldvibes1770/top-10-websites-that-can-pay-you-per-download-2p2l)
 - [Dev.to/JS] [JSTools Weekly - 2023#5](https://dev.to/jstoolsweekly/jstools-weekly-20235-4578)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don&#39;t add or change methods in built-in JavaScript objects](https://dev.to/nicozerpa/dont-add-or-change-methods-in-built-in-javascript-objects-2ph2)
 - [Dev.to/JS] [Primeros pasos con bucles en JavaScript](https://dev.to/asjordi/primeros-pasos-con-bucles-en-javascript-3149)
 - [Dev.to/JS] [How to set up Tailwind CSS dark-mode React](https://dev.to/ebuberoderick/how-to-set-up-tailwind-css-dark-mode-react-3fik)
-- [Dev.to/JS] [JavaScript Fundamentos - Tipos Objetos](https://dev.to/nascimento_/javascript-fundamentos-tipos-objetos-183p)
 - [Lifehacker] [Please the Whole Team With These Cubano Sliders](https://lifehacker.com/please-the-whole-team-with-these-cubano-sliders-1850085424)
-- [Dev.to/JS] [A Beginner&#39;s Guide to React: Understanding the Basics and Advanced Concepts](https://dev.to/rahul3002/a-beginners-guide-to-react-understanding-the-basics-and-advanced-concepts-hhn)
 - [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
 - [Lifehacker] [Make Mini Pommes Anna in a Muffin Tin for an Intimate Valentine&#39;s Day Dinner](https://lifehacker.com/make-mini-pommes-anna-in-a-muffin-tin-for-an-intimate-v-1850085666)
 - [Lifehacker] [The Easiest Way to Jump Start Your Car](https://lifehacker.com/the-easiest-way-to-jump-start-your-car-1850084376)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s When Your Relationship Needs Separate Beds](https://lifehacker.com/heres-when-your-relationship-needs-separate-beds-1850080366)
 - [Lifehacker] [Where to Watch Super Bowl LVII &lpar;Without Cable&rpar;](https://lifehacker.com/where-to-watch-super-bowl-lvii-without-cable-1850080142)
 - [Lifehacker] [Forget Frosting and Give Your Cupcakes the Lamington Treatment](https://lifehacker.com/forget-frosting-and-give-your-cupcakes-the-lamington-tr-1850080297)
-- [Lifehacker] [The 11 Funniest &lpar;and Weirdest&rpar; Bets You Can Make on Super Bowl LVII](https://lifehacker.com/the-11-finniest-and-weirdest-bets-you-can-make-on-sup-1850080057)
-- [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
-- [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 11 Funniest &lpar;and Weirdest&rpar; Bets You Can Make on Super Bowl LVII](https://lifehacker.com/the-11-finniest-and-weirdest-bets-you-can-make-on-sup-1850080057)<!-- TECH-POSTS:END -->
 
 ---
 
