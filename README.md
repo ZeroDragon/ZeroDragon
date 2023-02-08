@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Add These Plugins to &#39;Quick Look&#39; on Your Mac](https://lifehacker.com/add-these-plugins-to-quick-look-on-your-mac-1850087046)
+- [Dev.to/JS] [Top 10 Websites that can pay you per Download](https://dev.to/coldvibes1770/top-10-websites-that-can-pay-you-per-download-2p2l)
+- [Dev.to/JS] [JSTools Weekly - 2023#5](https://dev.to/jstoolsweekly/jstools-weekly-20235-4578)
+- [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #1](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-1-bli)
 - [Lifehacker] [Try the ‘Five Things’ Method When You’re Overwhelmed by Mess](https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958)
-- [Dev.to/JS] [ezy – open-source gRPC client, alternative to Postman and Insomnia](https://dev.to/notmedia/ezy-open-source-grpc-client-alternative-to-postman-and-insomnia-20l4)
 - [Dev.to/JS] [JavaScript tutorial series: Introduction.](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-57o9)
 - [Lifehacker] [There’s a Much Faster Way to Scroll on Your iPhone](https://lifehacker.com/there-s-a-much-faster-way-to-scroll-on-your-iphone-1850086713)
 - [Dev.to/JS] [Crack Javascript Interviews](https://dev.to/tkssharma/crack-javascript-interviews-4559)
@@ -37,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentos - Tipos Objetos](https://dev.to/nascimento_/javascript-fundamentos-tipos-objetos-183p)
 - [Lifehacker] [Please the Whole Team With These Cubano Sliders](https://lifehacker.com/please-the-whole-team-with-these-cubano-sliders-1850085424)
 - [Dev.to/JS] [A Beginner&#39;s Guide to React: Understanding the Basics and Advanced Concepts](https://dev.to/rahul3002/a-beginners-guide-to-react-understanding-the-basics-and-advanced-concepts-hhn)
-- [Dev.to/JS] [Understanding and Implementing NoSSR in Next.js: A Comprehensive Guide](https://dev.to/danireptor/understanding-and-implementing-nossr-in-nextjs-a-comprehensive-guide-3idm)
 - [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
-- [Dev.to/JS] [File Share Website [Updated Version] | Django Project |](https://dev.to/madhubankhatri/file-share-website-updated-version-django-project--1akp)
 - [Lifehacker] [Make Mini Pommes Anna in a Muffin Tin for an Intimate Valentine&#39;s Day Dinner](https://lifehacker.com/make-mini-pommes-anna-in-a-muffin-tin-for-an-intimate-v-1850085666)
 - [Lifehacker] [The Easiest Way to Jump Start Your Car](https://lifehacker.com/the-easiest-way-to-jump-start-your-car-1850084376)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Forget Frosting and Give Your Cupcakes the Lamington Treatment](https://lifehacker.com/forget-frosting-and-give-your-cupcakes-the-lamington-tr-1850080297)
 - [Lifehacker] [The 11 Funniest &lpar;and Weirdest&rpar; Bets You Can Make on Super Bowl LVII](https://lifehacker.com/the-11-finniest-and-weirdest-bets-you-can-make-on-sup-1850080057)
 - [Lifehacker] [This Comforting Breakfast Pasta Comes Together in 15 Minutes](https://lifehacker.com/this-comforting-breakfast-pasta-comes-together-in-15-mi-1850079470)
-- [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)
-- [Lifehacker] [Smother Your Loneliness With These Valentine&#39;s Day Food Deals](https://lifehacker.com/smother-your-loneliness-with-these-valentines-day-food-1850079540)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Apps to Recreate the Best Windows Features on Your Mac](https://lifehacker.com/7-apps-to-recreate-the-best-windows-features-on-your-ma-1850077805)<!-- TECH-POSTS:END -->
 
 ---
 
