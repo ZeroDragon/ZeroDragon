@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Jump Start Your Car](https://lifehacker.com/the-easiest-way-to-jump-start-your-car-1850084376)
+- [Dev.to/JS] [Staying focused in a distracted world](https://dev.to/radubrehar/staying-focused-in-a-distracted-world-jcl)
+- [Dev.to/JS] [Sending Mails in Node.js Using Nodemailer.](https://dev.to/victrexx2002/sending-mails-in-nodejs-using-nodemailer-2pfc)
+- [Dev.to/JS] [Svelte Stores x Dexie](https://dev.to/nicoheinrich/svelte-stores-x-dexie-36n1)
 - [Dev.to/JS] [My first VS Code extension: Copy Variable Console Log](https://dev.to/mickmelon/my-first-vs-code-extension-copy-variable-console-log-1fa5)
 - [Dev.to/JS] [WHY GSAP&lpar;GREENSOCK ANIMATION PLATFORM&rpar; EMERGES AS THE SUPERIOR ANIMATION LIBRARY COMPARED TO AOS.JS](https://dev.to/covelitein/why-gsapgreensock-animation-platform-emerges-as-the-superior-animation-library-compared-to-aosjs-4m15)
 - [Dev.to/JS] [How To Scroll a Page Using Selenium WebDriver?](https://dev.to/lambdatest/how-to-scroll-a-page-using-selenium-webdriver-6pf)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 Most Popular Programming languages in 2023](https://dev.to/sahilnarnaware/top-10-most-popular-programming-languages-in-2023-5d6)
 - [Dev.to/JS] [Some Very Cool &lpar;Underrated maybe&rpar; React Libraries](https://dev.to/darkxenium/some-very-cool-underrated-maybe-react-libraries-4do6)
 - [Dev.to/JS] [Use Maps more and Objects less](https://dev.to/builderio/use-maps-more-and-objects-less-2flk)
-- [Dev.to/JS] [Beginner&#39;s Guide to React Query](https://dev.to/iambilalriaz/beginners-guide-to-react-query-12c8)
-- [Dev.to/JS] [Test Post](https://dev.to/twentytwo/test-post-5bjf)
-- [Dev.to/JS] [How to use classes correctly in Qwik](https://dev.to/mrdreix/how-to-use-classes-correctly-in-qwik-3omi)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Money Should You Be Saving in 2023?](https://lifehacker.com/how-much-money-should-you-be-saving-in-2023-1850070942)
 - [Lifehacker] [You Can Get Taco Bell’s New-ish Crispy Melt Taco for Free-ish Right Now](https://lifehacker.com/you-can-get-taco-bell-s-new-ish-crispy-melt-taco-for-fr-1850078656)
 - [Lifehacker] [A &#39;Force Restart&#39; Is &lpar;Probably&rpar; All You Need to Fix an Unresponsive Phone](https://lifehacker.com/a-force-restart-is-probably-all-you-need-to-fix-an-un-1850078519)
-- [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)
-- [Lifehacker] [The Easiest Way to Clean Out Your Cluttered Camera Roll](https://lifehacker.com/the-easiest-way-to-clean-out-your-cluttered-camera-roll-1850078341)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It’s Time to Stop Arranging Your Furniture Around the TV](https://lifehacker.com/it-s-time-to-stop-arranging-your-furniture-around-the-t-1850078028)<!-- TECH-POSTS:END -->
 
 ---
 
