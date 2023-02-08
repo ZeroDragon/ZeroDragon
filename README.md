@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte Stores x IndexedDB](https://dev.to/nicoheinrich/svelte-stores-x-indexeddb-19e9)
+- [Dev.to/JS] [Code Smell 195 - Yoda Conditions](https://dev.to/mcsee/code-smell-195-yoda-conditions-1mgl)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto at You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing useCatch: The Easy Way to Create Error Boundaries in Fiddlehead](https://dev.to/vanquyet/introducing-usecatch-the-easy-way-to-create-error-boundaries-in-fiddlehead-11jg)
 - [Dev.to/JS] [Decentralized Identities](https://dev.to/ayaaneth/decentralized-identities-1024)
 - [Lifehacker] [Now You Can Order Delivery Through Your Roku for Some Reason](https://lifehacker.com/now-you-can-order-delivery-through-your-roku-for-some-r-1850082697)
-- [Dev.to/JS] [What is Angular Material?](https://dev.to/omerko96/what-is-angular-material-37d8)
-- [Dev.to/JS] [Bard VS ChatGPT: The AI War](https://dev.to/scofieldidehen/bard-vs-chatgpt-the-ai-war-5ccn)
 - [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
 - [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)
 - [Lifehacker] [How to Have a Healthy Relationship When You&#39;re an Empath](https://lifehacker.com/how-to-have-a-healthy-relationship-when-youre-an-empath-1850080332)
