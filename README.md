@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
+- [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Dev.to/JS] [I made a library that adds a metallic look to anything you throw at it](https://dev.to/mikaei/i-made-a-library-that-adds-a-metallic-look-to-anything-you-throw-at-it-40fe)
 - [Dev.to/JS] [How to make a scroll progress indicator](https://dev.to/lensco825/how-to-make-a-scroll-progess-indicator-ahe)
 - [Dev.to/JS] [Apollo Client with GraphQL: State Management for GraphQL Made Easy](https://dev.to/keyholesoftware/apollo-client-with-graphql-state-management-for-graphql-made-easy-4mkj)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 of the World&#39;s Most Banned Movies](https://lifehacker.com/11-of-the-worlds-most-banned-movies-1850076182)
 - [Lifehacker] [9 Creative Ways to Serve Pigs in a Blanket](https://lifehacker.com/9-creative-ways-to-serve-pigs-in-a-blanket-1850083389)
 - [Lifehacker] [9 Tips That Could Save Your Life in Very Specific Emergencies](https://lifehacker.com/9-tips-that-could-save-your-life-in-very-specific-emerg-1850082781)
-- [Lifehacker] [Now You Can Order Delivery Through Your Roku for Some Reason](https://lifehacker.com/now-you-can-order-delivery-through-your-roku-for-some-r-1850082697)
-- [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
-- [Lifehacker] [This Mac-Only Web Browser Turns the Internet Into Slack](https://lifehacker.com/this-mac-only-web-browser-turns-the-internet-into-slack-1850081492)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Now You Can Order Delivery Through Your Roku for Some Reason](https://lifehacker.com/now-you-can-order-delivery-through-your-roku-for-some-r-1850082697)<!-- TECH-POSTS:END -->
 
 ---
 
