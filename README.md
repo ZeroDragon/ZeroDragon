@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte Stores x IndexedDB](https://dev.to/nicoheinrich/svelte-stores-x-indexeddb-19e9)
 - [Dev.to/JS] [Code Smell 195 - Yoda Conditions](https://dev.to/mcsee/code-smell-195-yoda-conditions-1mgl)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
-- [Lifehacker] [What to Say to Someone Pushing Crypto at You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
+- [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
 - [Dev.to/JS] [Moonly weekly progress update #35](https://dev.to/moonly/moonly-weekly-progress-update-35-1732)
 - [Lifehacker] [These Kindles Are Up to 30% Off Right Now](https://lifehacker.com/these-kindles-are-up-to-30-off-right-now-1850083935)
