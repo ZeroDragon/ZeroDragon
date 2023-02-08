@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Is Twitter API Free? I&#39;ve built a website to find out](https://dev.to/jnv/is-twitter-api-free-ive-built-a-website-to-find-out-3hn4)
+- [Dev.to/JS] [Higher Order Function in JavaScript](https://dev.to/mavis_chen/higher-order-function-in-javascript-2omo)
+- [Dev.to/JS] [Password Generator with js](https://dev.to/walternascimentobarroso/password-generator-with-js-5cld)
+- [Dev.to/JS] [Is Twitter API &lpar;still&rpar; Free? I&#39;ve built a website to find out](https://dev.to/jnv/is-twitter-api-free-ive-built-a-website-to-find-out-3hn4)
 - [Dev.to/JS] [Getting started with Alpine.js](https://dev.to/asayerio_techblog/getting-started-with-alpinejs-3l7o)
 - [Dev.to/JS] [Building React components using Ant Design](https://dev.to/asayerio_techblog/building-react-components-using-ant-design-466k)
 - [Dev.to/JS] [Svelte Stores x IndexedDB](https://dev.to/nicoheinrich/svelte-stores-x-indexeddb-19e9)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 of the World&#39;s Most Banned Movies](https://lifehacker.com/11-of-the-worlds-most-banned-movies-1850076182)
 - [Dev.to/JS] [Jest with TypeScript and aliased imports &lpar;custom paths&rpar;](https://dev.to/mliakos/jest-with-typescript-and-aliased-imports-custom-paths-40d4)
 - [Lifehacker] [9 Creative Ways to Serve Pigs in a Blanket](https://lifehacker.com/9-creative-ways-to-serve-pigs-in-a-blanket-1850083389)
-- [Dev.to/JS] [My progress in #icodethis daily UI challenge](https://dev.to/aneeqakhan/my-progress-in-icodethis-daily-ui-challenge-gg1)
-- [Dev.to/JS] [5 useful console objects](https://dev.to/dshaw0004/5-useful-console-objects-2m8k)
 - [Lifehacker] [9 Tips That Could Save Your Life in Very Specific Emergencies](https://lifehacker.com/9-tips-that-could-save-your-life-in-very-specific-emerg-1850082781)
 - [Lifehacker] [Now You Can Order Delivery Through Your Roku for Some Reason](https://lifehacker.com/now-you-can-order-delivery-through-your-roku-for-some-r-1850082697)
 - [Lifehacker] [Shower Hooks Are Here to Organize Your Pants](https://lifehacker.com/shower-hooks-are-here-to-organize-your-pants-1850082592)
