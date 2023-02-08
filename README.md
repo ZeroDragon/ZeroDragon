@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use classes correctly in Qwik](https://dev.to/mrdreix/how-to-use-classes-correctly-in-qwik-3omi)
+- [Dev.to/JS] [Create a documentation + API with Nuxt.js 3](https://dev.to/guillaumeduhan/create-a-documentation-api-with-nuxtjs-3-4cf2)
 - [Dev.to/JS] [Streamlining Constructors in Functional React Components](https://dev.to/bytebodger/streamlining-constructors-in-functional-react-components-8pe)
 - [Dev.to/JS] [Things about typescript you should know as a pro React dev](https://dev.to/mr_mornin_star/things-about-typescript-you-should-know-as-a-pro-react-dev-1oca)
 - [Dev.to/JS] [5 Must-Ask questions before you implement Caching](https://dev.to/dashsaurabh/5-must-ask-questions-before-you-implement-caching-1md2)
@@ -30,11 +32,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Codecrumb #1](https://dev.to/shehabelhariry/codecrumb-1-556p)
 - [Dev.to/JS] [Blockchain Terminology Simplified &lpar;A-Z&rpar;](https://dev.to/legaciespanda/blockchain-terminology-simplified-a-z-59ke)
 - [Dev.to/JS] [Gà Đòn Đất Việt - Tổng Hợp Những Loại Gà Quý Hiếm Nhất Trên Thế Giới](https://dev.to/gadondatviet/ga-don-dat-viet-tong-hop-nhung-loai-ga-quy-hiem-nhat-tren-the-gioi-gp7)
+- [Dev.to/JS] [What is Web3, and its Evolution ✨.](https://dev.to/akshaykurhekar/what-is-web3-and-its-evolution--1dj1)
 - [Dev.to/JS] [Website and Web Application Differences](https://dev.to/fireartd/website-and-web-application-differences-48ke)
 - [Dev.to/JS] [Weekly web development resources #136](https://dev.to/vincenius/weekly-web-development-resources-136-4kak)
-- [Dev.to/JS] [Firebase Learning: Key Considerations to Keep in Mind](https://dev.to/jodaut/firebase-learning-key-considerations-to-keep-in-mind-3910)
-- [Dev.to/JS] [Becoming a ReactJS Developer: Essential Skills and Future Prospects](https://dev.to/nickelfox/becoming-a-reactjs-developer-essential-skills-and-future-prospects-3gml)
-- [Dev.to/JS] [Giti.ai - A Multilingual ChatGPT](https://dev.to/0xmxd/gitiai-multilingual-chatgpt-1d6j)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
