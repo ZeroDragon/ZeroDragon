@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Streamlining Constructors in Functional React Components](https://dev.to/bytebodger/streamlining-constructors-in-functional-react-components-8pe)
+- [Dev.to/JS] [Things about typescript you should know as a pro React dev](https://dev.to/mr_mornin_star/things-about-typescript-you-should-know-as-a-pro-react-dev-1oca)
+- [Dev.to/JS] [5 Must-Ask questions before you implement Caching](https://dev.to/dashsaurabh/5-must-ask-questions-before-you-implement-caching-1md2)
+- [Dev.to/JS] [Creating Custom Hooks in React](https://dev.to/nitinfab/creating-custom-hooks-in-react-4096)
+- [Dev.to/JS] [Codecrumb #1](https://dev.to/shehabelhariry/codecrumb-1-556p)
 - [Dev.to/JS] [Blockchain Terminology Simplified &lpar;A-Z&rpar;](https://dev.to/legaciespanda/blockchain-terminology-simplified-a-z-59ke)
 - [Dev.to/JS] [Gà Đòn Đất Việt - Tổng Hợp Những Loại Gà Quý Hiếm Nhất Trên Thế Giới](https://dev.to/gadondatviet/ga-don-dat-viet-tong-hop-nhung-loai-ga-quy-hiem-nhat-tren-the-gioi-gp7)
 - [Dev.to/JS] [Website and Web Application Differences](https://dev.to/fireartd/website-and-web-application-differences-48ke)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Firebase Learning: Key Considerations to Keep in Mind](https://dev.to/jodaut/firebase-learning-key-considerations-to-keep-in-mind-3910)
 - [Dev.to/JS] [Becoming a ReactJS Developer: Essential Skills and Future Prospects](https://dev.to/nickelfox/becoming-a-reactjs-developer-essential-skills-and-future-prospects-3gml)
 - [Dev.to/JS] [Giti.ai - A Multilingual ChatGPT](https://dev.to/0xmxd/gitiai-multilingual-chatgpt-1d6j)
-- [Dev.to/JS] [Automating Tests for Your Node.js Application](https://dev.to/pavanbelagatti/automating-tests-for-your-nodejs-application-5hd9)
-- [Dev.to/JS] [Adding cmd-k for Quick Navigation](https://dev.to/ademking/adding-cmd-k-for-quick-navigation-19l9)
-- [Dev.to/JS] [Ditching Dependencies: You don&#39;t need libraries for these JavaScript tasks](https://dev.to/ademking/ditching-dependencies-you-dont-need-libraries-for-these-javascript-tasks-4j3h)
-- [Dev.to/JS] [Using Node.js to Parse a JSON File Generated from WPScan](https://dev.to/ademking/using-nodejs-to-parse-a-json-file-generated-from-wpscan-1589)
-- [Dev.to/JS] [Serve-Build in Reactjs](https://dev.to/ashrafhero/serve-build-in-reactjs-1apn)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
