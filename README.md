@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Make A Music Player Using HTML CSS And JavaScript](https://dev.to/wirelessqna/how-to-make-a-music-player-using-html-css-and-javascript-4ab0)
+- [Dev.to/JS] [React - How to implement useState hook in your application](https://dev.to/davidyaonz/react-how-to-implement-usestate-hook-in-your-application-4eph)
+- [Dev.to/JS] [Job Batching in Laravel and Vue](https://dev.to/ayowandeapp/job-batching-in-laravel-and-vue-4hgb)
+- [Dev.to/JS] [React - How to implement useEffect hook in your application](https://dev.to/davidyaonz/react-how-to-implement-useeffect-hook-in-your-application-2mlp)
+- [Dev.to/JS] [BACKEND TECHNOLOGIES IN THE INDUSTRY](https://dev.to/apppardana/backend-technologies-in-the-industry-54n9)
 - [Dev.to/JS] [Make your Angular NgRx reducers an eye candy 🍬 using this fantastic library](https://dev.to/this-is-angular/make-your-angular-ngrx-reducers-an-eye-candy-using-this-fantastic-library-4b8c)
 - [Dev.to/JS] [ReactJS](https://dev.to/ibesarah/reactjs-266a)
 - [Dev.to/JS] [Getting Started With NestJS](https://dev.to/dianaiminza/getting-started-with-nestjs-2b2n)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reflect in Javascript](https://dev.to/quannguyenit/reflect-in-javascript-3ka)
 - [Dev.to/JS] [What is Proxy in javascript ?](https://dev.to/quannguyenit/what-is-proxy-in-javascript--2963)
 - [Dev.to/JS] [How to Dockerize a Django and React Application](https://dev.to/honeybadger/how-to-dockerize-a-django-and-react-application-15pc)
-- [Dev.to/JS] [Checkmate Your Code: Lessons from the Chessboard](https://dev.to/thenomadevel/checkmate-your-code-lessons-from-the-chessboard-2edb)
-- [Dev.to/JS] [Internship Programs](https://dev.to/619infocus/internship-programs-2elc)
-- [Dev.to/JS] [What are the best programming languages in 2023?](https://dev.to/quannguyenit/what-are-the-best-programming-languages-in-2023-d6a)
-- [Dev.to/JS] [Qmoniqs software testing services in Gurugram, Delhi NCR.](https://dev.to/qmoniqs/qmoniqs-software-testing-services-in-gurugram-delhi-ncr-449k)
-- [Dev.to/JS] [JS Polyfills - Part 5 Promises &lpar;resolve, reject, all, race, then, catch, allSettled, any&rpar;](https://dev.to/uttarasriya/js-polyfills-part-5-promises-resolve-reject-all-race-then-catch-allsettled-any-34gj)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
