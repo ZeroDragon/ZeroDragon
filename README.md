@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source IM System Tinode Deployment Tutorial WSL Environment](https://dev.to/openhacking/open-source-im-system-tinode-deployment-tutorialwsl-environment-1h9j)
+- [Dev.to/JS] [Developing an Extension for Your Browser: A Step-by-Step Guide](https://dev.to/indtechverse/developing-an-extension-for-your-browser-a-step-by-step-guide-133c)
 - [Dev.to/JS] [Make VCard with JS](https://dev.to/walternascimentobarroso/make-vcard-with-js-2afl)
 - [Dev.to/JS] [7 FREE Sites for Web Developers You probably Didn&#39;t Know Existed](https://dev.to/rahul3002/7-free-sites-for-web-developers-you-probably-didnt-know-existed-2j7n)
 - [Dev.to/JS] [Como montar Uma API com GraphQl em Node.js com Apollo Server e MongoDB](https://dev.to/ikarosilva/como-montar-uma-api-com-graphql-em-nodejs-com-apollo-server-e-mongodb-bpg)
@@ -33,10 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pattern - Flyweight](https://dev.to/higordiego/pattern-flyweight-4e20)
 - [Dev.to/JS] [Padrão - Flyweight](https://dev.to/higordiego/padrao-flyweight-2n69)
 - [Dev.to/JS] [Free Online Storybook Conference 2023 ️‍🔥](https://dev.to/frontendengineer/free-online-storybook-conference-2023-4eh0)
-- [Dev.to/JS] [How use FirebaseUI for user authentication on your React project](https://dev.to/nicolasmontielf/how-use-firebaseui-for-user-authentication-on-your-react-project-32h7)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
-- [Dev.to/JS] [I made a library that adds a metallic look to anything you throw at it](https://dev.to/mikaei/i-made-a-library-that-adds-a-metallic-look-to-anything-you-throw-at-it-40fe)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
 - [Lifehacker] [Don&#39;t Serve This Recalled Charcuterie Sausage at Your Super Bowl Party](https://lifehacker.com/dont-serve-this-recalled-charcuterie-sausage-at-your-su-1850089465)
 - [Lifehacker] [10 Wizarding Games You Can Play Instead of &#39;Hogwarts Legacy&#39;](https://lifehacker.com/10-wizarding-games-you-can-play-instead-of-hogwarts-leg-1850089265)
