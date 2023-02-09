@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Polyfills - Part 5 Promises &lpar;resolve, reject, all, race, then, catch, allSettled, any&rpar;](https://dev.to/uttarasriya/js-polyfills-part-5-promises-resolve-reject-all-race-then-catch-allsettled-any-34gj)
+- [Dev.to/JS] [50 Frontend Interview Questions](https://dev.to/shreyvijayvargiya/50-frontend-interview-questions-1bln)
 - [Dev.to/JS] [Deep Mocking for Jest](https://dev.to/0916dhkim/deep-mocking-for-jest-1e9i)
 - [Dev.to/JS] [Open Source IM System Tinode Deployment Tutorial WSL Environment](https://dev.to/openhacking/open-source-im-system-tinode-deployment-tutorialwsl-environment-1h9j)
 - [Dev.to/JS] [Developing an Extension for Your Browser: A Step-by-Step Guide](https://dev.to/indtechverse/developing-an-extension-for-your-browser-a-step-by-step-guide-133c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creational Design Patterns in JavaScript](https://dev.to/asayerio_techblog/creational-design-patterns-in-javascript-f93)
 - [Dev.to/JS] [WYSIWYG editing in React with Draft.js](https://dev.to/asayerio_techblog/wysiwyg-editing-in-react-with-draftjs-2a1d)
 - [Dev.to/JS] [FizzBuzz: the-problem 🧮](https://dev.to/mathleite/fizzbuzz-the-problem-3n6f)
-- [Dev.to/JS] [Pattern - Flyweight](https://dev.to/higordiego/pattern-flyweight-4e20)
-- [Dev.to/JS] [Padrão - Flyweight](https://dev.to/higordiego/padrao-flyweight-2n69)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
