@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Quick Thai Banana Roti Immediately](https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469)
+- [Dev.to/JS] [Talking About Linked List Traversal in JavaScript](https://dev.to/davidchedrick/talking-about-linked-list-traversal-in-javascript-3ppa)
+- [Lifehacker] [How to Reload Your Tabs When Your Browser Unexpectedly Quits](https://lifehacker.com/how-to-reload-your-tabs-when-your-browser-unexpectedly-1850093866)
 - [Dev.to/JS] [Software Developer from Iran](https://dev.to/fullstackdaniel/software-developer-from-iran-2ae)
 - [Dev.to/JS] [Higher-Order Components](https://dev.to/biplavmz/higher-order-components-52a0)
 - [Dev.to/JS] [JavaScript tutorial series: Variables](https://dev.to/fullstackjo/javascript-tutorial-series-variables-2nmd)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Phase 4 - Improving User Experience using React.lazy](https://dev.to/breonwhite/phase-4-improving-user-experience-using-reactlazy-36af)
 - [Dev.to/JS] [TypeScript: An Introduction to the Statically Typed Superset of JavaScript](https://dev.to/matheusgomes062/typescript-an-introduction-to-the-statically-typed-superset-of-javascript-4hgo)
 - [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)
-- [Dev.to/JS] [Why don&#39;t you do it when the browser is free instead of setInterval?](https://dev.to/nuko_suke/why-dont-you-do-it-when-the-browser-is-free-instead-of-setinterval-4p23)
 - [Lifehacker] [8 Alternatives to Dining Out on Valentine’s Day](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Jump Start Your Car](https://lifehacker.com/the-easiest-way-to-jump-start-your-car-1850084376)
 - [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
-- [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
-- [Lifehacker] [These Kindles Are Up to 30% Off Right Now](https://lifehacker.com/these-kindles-are-up-to-30-off-right-now-1850083935)
-- [Lifehacker] [Make Better Irish Nachos With Guinness Beer Cheese](https://lifehacker.com/make-better-irish-nachos-with-guiness-beer-cheese-1850084017)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)<!-- TECH-POSTS:END -->
 
 ---
 
