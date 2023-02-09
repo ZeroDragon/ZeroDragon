@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to verify PAN no. in node.js](https://dev.to/ekodevs/how-to-verify-pan-no-in-nodejs-dpa)
+- [Lifehacker] [You Should Add a Banana to Your French Toast Batter](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)
+- [Dev.to/JS] [Hygiene is not just for macros](https://dev.to/mikesamuel/hygiene-is-not-just-for-macros-1409)
+- [Dev.to/JS] [Discover the Hidden Gems of NPM: 20 Little-Known Commands for Node Package Management](https://dev.to/knitesh/discover-the-hidden-gems-of-npm-20-little-known-commands-for-node-package-management-4kjd)
+- [Lifehacker] [Here Are the 200 Bed Bath &amp; Beyond Stores About to Close Soon](https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080)
 - [Lifehacker] [These Awesome PC Games Are $5 or Less Right Now](https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709)
 - [Dev.to/JS] [A Complete Guide To Playwright Assertions](https://dev.to/mdmoeenajazkhan/a-complete-guide-to-playwright-assertions-1cdb)
 - [Dev.to/JS] [VS Code Setup for Frontend Devs](https://dev.to/ivansimeonov/vs-code-setup-for-frontend-devs-577f)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [récupérer des valeurs d&#39;un code en Js dans un code html](https://dev.to/gregh51/recuperer-des-valeurs-dun-code-en-js-dans-un-code-html-ck0)
 - [Lifehacker] [12 Complete Podcasts to Binge Right Now](https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348)
 - [Dev.to/JS] [&quot;How To Unit Test React Applications with Jest: A Beginner&#39;s Guide&quot;](https://dev.to/sukodes/how-to-unit-test-react-applications-with-jest-a-beginners-guide-2ppd)
-- [Dev.to/JS] [Date and Time Methods](https://dev.to/oluwatrillions/date-and-time-methods-39d9)
 - [Lifehacker] [Why You Should Use Obsidian As a Journaling App](https://lifehacker.com/why-you-should-use-obsidian-as-a-journaling-app-1850086690)
-- [Dev.to/JS] [Build and Deploy NodeJS App On Kubernetes from Scratch](https://dev.to/lovepreetsingh/build-nodejs-app-on-kubernetes-from-scratch-66g)
-- [Dev.to/JS] [How to Create an Effective Survey, Poll, or Quiz, and Increase its Completion Rate](https://dev.to/surveyjs/how-to-create-an-effective-survey-poll-or-quiz-and-increase-its-completion-rate-386o)
 - [Lifehacker] [Impress Everyone You Know With Caramelized Onion Bread](https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432)
 - [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)
 - [Lifehacker] [8 Alternatives to Dining Out on Valentine’s Day](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576)
 - [Lifehacker] [Please the Whole Team With These Cubano Sliders](https://lifehacker.com/please-the-whole-team-with-these-cubano-sliders-1850085424)
 - [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
-- [Lifehacker] [Make Mini Pommes Anna in a Muffin Tin for an Intimate Valentine&#39;s Day Dinner](https://lifehacker.com/make-mini-pommes-anna-in-a-muffin-tin-for-an-intimate-v-1850085666)
-- [Lifehacker] [The Easiest Way to Jump Start Your Car](https://lifehacker.com/the-easiest-way-to-jump-start-your-car-1850084376)
-- [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Mini Pommes Anna in a Muffin Tin for an Intimate Valentine&#39;s Day Dinner](https://lifehacker.com/make-mini-pommes-anna-in-a-muffin-tin-for-an-intimate-v-1850085666)<!-- TECH-POSTS:END -->
 
 ---
 
