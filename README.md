@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make your Angular NgRx reducers an eye candy 🍬 using this fantastic library](https://dev.to/this-is-angular/make-your-angular-ngrx-reducers-an-eye-candy-using-this-fantastic-library-4b8c)
+- [Dev.to/JS] [ReactJS](https://dev.to/ibesarah/reactjs-266a)
+- [Dev.to/JS] [Getting Started With NestJS](https://dev.to/dianaiminza/getting-started-with-nestjs-2b2n)
+- [Dev.to/JS] [Developing Form Validations](https://dev.to/seekiansengeri1/developing-form-validations-5b7f)
+- [Dev.to/JS] [Reflect in Javascript](https://dev.to/quannguyenit/reflect-in-javascript-3ka)
 - [Dev.to/JS] [What is Proxy in javascript ?](https://dev.to/quannguyenit/what-is-proxy-in-javascript--2963)
 - [Dev.to/JS] [How to Dockerize a Django and React Application](https://dev.to/honeybadger/how-to-dockerize-a-django-and-react-application-15pc)
 - [Dev.to/JS] [Checkmate Your Code: Lessons from the Chessboard](https://dev.to/thenomadevel/checkmate-your-code-lessons-from-the-chessboard-2edb)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the best programming languages in 2023?](https://dev.to/quannguyenit/what-are-the-best-programming-languages-in-2023-d6a)
 - [Dev.to/JS] [Qmoniqs software testing services in Gurugram, Delhi NCR.](https://dev.to/qmoniqs/qmoniqs-software-testing-services-in-gurugram-delhi-ncr-449k)
 - [Dev.to/JS] [JS Polyfills - Part 5 Promises &lpar;resolve, reject, all, race, then, catch, allSettled, any&rpar;](https://dev.to/uttarasriya/js-polyfills-part-5-promises-resolve-reject-all-race-then-catch-allsettled-any-34gj)
-- [Dev.to/JS] [50 Frontend Interview Questions](https://dev.to/shreyvijayvargiya/50-frontend-interview-questions-1bln)
-- [Dev.to/JS] [Deep Mocking for Jest](https://dev.to/0916dhkim/deep-mocking-for-jest-1e9i)
-- [Dev.to/JS] [Open Source IM System Tinode Deployment Tutorial WSL Environment](https://dev.to/openhacking/open-source-im-system-tinode-deployment-tutorialwsl-environment-1h9j)
-- [Dev.to/JS] [Developing an Extension for Your Browser: A Step-by-Step Guide](https://dev.to/indtechverse/developing-an-extension-for-your-browser-a-step-by-step-guide-133c)
-- [Dev.to/JS] [Make VCard with JS](https://dev.to/walternascimentobarroso/make-vcard-with-js-2afl)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
