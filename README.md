@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create an Effective Survey, Poll, or Quiz, and Increase its Completion Rate](https://dev.to/surveyjs/how-to-create-an-effective-survey-poll-or-quiz-and-increase-its-completion-rate-386o)
+- [Lifehacker] [Impress Everyone You Know With Caramelized Onion Bread](https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432)
+- [Dev.to/JS] [The JavaScript Intersection Observer](https://dev.to/get_pieces/the-javascript-intersection-observer-o22)
+- [Dev.to/JS] [Phase 4 - Improving User Experience using React.lazy](https://dev.to/breonwhite/phase-4-improving-user-experience-using-reactlazy-36af)
+- [Dev.to/JS] [TypeScript: An Introduction to the Statically Typed Superset of JavaScript](https://dev.to/matheusgomes062/typescript-an-introduction-to-the-statically-typed-superset-of-javascript-4hgo)
+- [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)
+- [Dev.to/JS] [Why don&#39;t you do it when the browser is free instead of setInterval?](https://dev.to/nuko_suke/why-dont-you-do-it-when-the-browser-is-free-instead-of-setinterval-4p23)
+- [Dev.to/JS] [Best 5 Headless CMS Platforms](https://dev.to/medusajs/best-5-headless-cms-platforms-56da)
+- [Dev.to/JS] [Azure Functions: unzip large files](https://dev.to/vaja/azure-functions-unzip-large-files-ec2)
+- [Lifehacker] [8 Alternatives to Dining Out on Valentine’s Day](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)
 - [Dev.to/JS] [Contentlayer: Optimize getStaticProps on Next.js](https://dev.to/anasrin/contentlayer-optimize-getstaticprops-on-nextjs-40m9)
 - [Dev.to/JS] [Proper State Management 🛠 with Jotai 👻 in 30 seconds 🕖 🔥](https://dev.to/ironcladdev/proper-state-management-with-jotai-in-30-seconds-3ci7)
 - [Dev.to/JS] [LeetCode - Excel Sheet Column Title](https://dev.to/_alkesh26/leetcode-excel-sheet-column-title-37mf)
 - [Dev.to/JS] [New JavaScript features you might have missed](https://dev.to/devder/new-javascript-features-you-might-have-missed-37o3)
 - [Dev.to/JS] [10 a Penny, one consideration before you specialise in a JavaScript framework](https://dev.to/adam_cyclones/10-a-penny-one-consideration-before-you-specialise-in-a-javascript-framework-4n8l)
-- [Dev.to/JS] [Splitting a PDF file into multiple files using AWS Lambda and Node.js](https://dev.to/mohsinalisoomro/splitting-a-pdf-file-into-multiple-files-using-aws-lambda-and-nodejs-3o3n)
-- [Dev.to/JS] [What is Purity in Javascript and Why Does It Matter?](https://dev.to/lucasrodriguez93/what-is-purity-in-javascript-and-why-does-it-matter-7ba)
-- [Dev.to/JS] [React for Beginners: Build a To-Do app with React and Tailwind CSS](https://dev.to/muratcanyuksel/react-for-beginners-build-a-to-do-app-with-react-and-tailwind-css-1b05)
-- [Dev.to/JS] [Web automation &amp; scraping with Playwright JS](https://dev.to/muratcanyuksel/web-automation-scraping-with-playwright-js-15fp)
-- [Dev.to/JS] [Javascript for Beginners: DOM Manipulation](https://dev.to/muratcanyuksel/javascript-for-beginners-dom-manipulation-1bcj)
-- [Dev.to/JS] [Here’s how I Master Full Stack Development](https://dev.to/abhidadhaniya23/heres-how-i-master-full-stack-development-3o41)
-- [Dev.to/JS] [How to Fix QuickBooks error H303?](https://dev.to/anisawilliam70/how-to-fix-quickbooks-error-h303-3e4b)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
@@ -57,12 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
 - [Lifehacker] [These Kindles Are Up to 30% Off Right Now](https://lifehacker.com/these-kindles-are-up-to-30-off-right-now-1850083935)
-- [Lifehacker] [Make Better Irish Nachos With Guiness Beer Cheese](https://lifehacker.com/make-better-irish-nachos-with-guiness-beer-cheese-1850084017)
+- [Lifehacker] [Make Better Irish Nachos With Guinness Beer Cheese](https://lifehacker.com/make-better-irish-nachos-with-guiness-beer-cheese-1850084017)
 - [Lifehacker] [Download This App If You Use Multiple Browsers on Your Mac](https://lifehacker.com/download-this-app-if-you-use-multiple-browsers-on-your-1850083609)
-- [Lifehacker] [11 of the World&#39;s Most Banned Movies](https://lifehacker.com/11-of-the-worlds-most-banned-movies-1850076182)
-- [Lifehacker] [9 Creative Ways to Serve Pigs in a Blanket](https://lifehacker.com/9-creative-ways-to-serve-pigs-in-a-blanket-1850083389)
-- [Lifehacker] [9 Tips That Could Save Your Life in Very Specific Emergencies](https://lifehacker.com/9-tips-that-could-save-your-life-in-very-specific-emerg-1850082781)
-- [Lifehacker] [Now You Can Order Delivery Through Your Roku for Some Reason](https://lifehacker.com/now-you-can-order-delivery-through-your-roku-for-some-r-1850082697)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 of the World&#39;s Most Banned Movies](https://lifehacker.com/11-of-the-worlds-most-banned-movies-1850076182)<!-- TECH-POSTS:END -->
 
 ---
 
