@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creational Design Patterns in JavaScript](https://dev.to/asayerio_techblog/creational-design-patterns-in-javascript-f93)
+- [Dev.to/JS] [WYSIWYG editing in React with Draft.js](https://dev.to/asayerio_techblog/wysiwyg-editing-in-react-with-draftjs-2a1d)
+- [Dev.to/JS] [FizzBuzz: the-problem 🧮](https://dev.to/mathleite/fizzbuzz-the-problem-3n6f)
+- [Dev.to/JS] [Pattern - Flyweight](https://dev.to/higordiego/pattern-flyweight-4e20)
+- [Dev.to/JS] [Padrão - Flyweight](https://dev.to/higordiego/padrao-flyweight-2n69)
 - [Dev.to/JS] [Free Online Storybook Conference 2023 ️‍🔥](https://dev.to/frontendengineer/free-online-storybook-conference-2023-4eh0)
 - [Dev.to/JS] [How use FirebaseUI for user authentication on your React project](https://dev.to/nicolasmontielf/how-use-firebaseui-for-user-authentication-on-your-react-project-32h7)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
@@ -36,16 +41,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [O Gerenciamento de Memória no JavaScript](https://dev.to/altencirsilvajr/o-gerenciamento-de-memoria-no-javascript-a6d)
 - [Dev.to/JS] [Next.js with ESLint](https://dev.to/celest67/nextjs-with-eslint-3gl5)
 - [Lifehacker] [You’re Cutting Into Your Baked Brie All Wrong](https://lifehacker.com/you-re-cutting-into-your-baked-brie-all-wrong-1850089023)
-- [Dev.to/JS] [Master the Art of Navigation: Building a Library with the Navigation API](https://dev.to/romaintrotard/master-the-art-of-navigation-building-a-library-with-the-navigation-api-6g)
 - [Lifehacker] [This New Google Maps View Puts You in the Middle of Your Favorite City](https://lifehacker.com/this-new-google-maps-view-puts-you-in-the-middle-of-you-1850089257)
-- [Dev.to/JS] [Effortless Floating Labels for Inputs in Vue.js](https://dev.to/andrewboyd/effortless-floating-labels-for-inputs-in-vuejs-3m31)
 - [Lifehacker] [The Biggest Mistakes People Make When Trying to Eat Healthy](https://lifehacker.com/the-biggest-mistakes-people-make-when-trying-to-eat-hea-1850089228)
 - [Lifehacker] [Don&#39;t Spread Bacteria in Your Home With This Recalled Cleaner](https://lifehacker.com/dont-spread-bacteria-in-your-home-with-this-recalled-cl-1850088974)
-- [Dev.to/JS] [React useReducer&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/react-usereducer-ae4)
-- [Dev.to/JS] [Use Mocha instead of Jest and boost your tests speed](https://dev.to/afl_ext/use-mocha-instead-of-jest-and-boost-your-tests-speed-4cpl)
 - [Lifehacker] [Use This Site to Find Almost Any Outfit You Liked on TV](https://lifehacker.com/use-this-site-to-find-almost-any-outfit-you-liked-on-tv-1850088497)
 - [Lifehacker] [Add These Plugins to &#39;Quick Look&#39; on Your Mac](https://lifehacker.com/add-these-plugins-to-quick-look-on-your-mac-1850087046)
-- [Dev.to/JS] [Top 10 Websites that can pay you per Download](https://dev.to/coldvibes1770/top-10-websites-that-can-pay-you-per-download-2p2l)
 - [Lifehacker] [Try the ‘Five Things’ Method When You’re Overwhelmed by Mess](https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958)
 - [Lifehacker] [There’s a Much Faster Way to Scroll on Your iPhone](https://lifehacker.com/there-s-a-much-faster-way-to-scroll-on-your-iphone-1850086713)
 - [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576)
