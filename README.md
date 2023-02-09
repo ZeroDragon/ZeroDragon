@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Fix QuickBooks error H303?](https://dev.to/anisawilliam70/how-to-fix-quickbooks-error-h303-3e4b)
+- [Dev.to/JS] [How to create night mode of sun-editor](https://dev.to/devsecbbs_dev/how-to-create-night-mode-of-sun-editor-1k6a)
+- [Dev.to/JS] [JavaScript Fundamental Briefing.](https://dev.to/khalilnazari/javascript-fundamental-briefing-55g3)
+- [Dev.to/JS] [Build a Gaming Minecraft Website Design with HTML, CSS, JS - Complete Tutorial with Source Code](https://dev.to/dailywebdesign/build-a-gaming-minecraft-website-design-with-html-css-js-complete-tutorial-with-source-code-54c0)
 - [Dev.to/JS] [Du pattern matching en JS ?](https://dev.to/brack0/du-pattern-matching-en-js--204h)
 - [Dev.to/JS] [Boost User Satisfaction with a Dynamic Progress Bar for Your JavaScript Fetch Calls](https://dev.to/dhruvangg/boost-user-satisfaction-with-a-dynamic-progress-bar-for-your-javascript-fetch-calls-1oa4)
 - [Dev.to/JS] [How to create a Bottom Tab Navigator using react-navigation in React Native](https://dev.to/sokaribosenibo/how-to-create-a-bottom-tab-navigator-using-react-navigation-in-react-native-4ff1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Job Batching in Laravel and Vue](https://dev.to/ayowandeapp/job-batching-in-laravel-and-vue-4hgb)
 - [Dev.to/JS] [React - How to implement useEffect hook in your application](https://dev.to/davidyaonz/react-how-to-implement-useeffect-hook-in-your-application-2mlp)
 - [Dev.to/JS] [BACKEND TECHNOLOGIES IN THE INDUSTRY](https://dev.to/apppardana/backend-technologies-in-the-industry-54n9)
-- [Dev.to/JS] [Make your Angular NgRx reducers an eye candy 🍬 using this fantastic library](https://dev.to/this-is-angular/make-your-angular-ngrx-reducers-an-eye-candy-using-this-fantastic-library-4b8c)
-- [Dev.to/JS] [ReactJS](https://dev.to/ibesarah/reactjs-266a)
-- [Dev.to/JS] [Getting Started With NestJS](https://dev.to/dianaiminza/getting-started-with-nestjs-2b2n)
-- [Dev.to/JS] [Developing Form Validations](https://dev.to/seekiansengeri1/developing-form-validations-5b7f)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
