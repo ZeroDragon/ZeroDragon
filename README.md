@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 of the best React development tools of 2023](https://dev.to/rardooba/top-10-of-the-best-react-development-tools-of-2023-4pa4)
+- [Dev.to/JS] [Shopify Drag-and-drop checkout editor](https://dev.to/simond110/shopify-drag-and-drop-checkout-editor-3j2a)
+- [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)
+- [Dev.to/JS] [Markdown for Dummies: The only markdown cheatsheet you will ever need](https://dev.to/acidop/markdown-for-dummies-the-only-markdown-cheatsheet-you-will-ever-need-23g1)
+- [Dev.to/JS] [Why Create React App is Facing a Dip in Popularity](https://dev.to/andersonpixel/why-create-react-app-is-facing-a-dip-in-popularity-22h9)
+- [Dev.to/JS] [How To Start a Development Server for Your Project](https://dev.to/noibisdev/how-to-start-a-development-server-for-your-project-2h5o)
+- [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)
 - [Dev.to/JS] [How to verify PAN no. in node.js](https://dev.to/ekodevs/how-to-verify-pan-no-in-nodejs-dpa)
 - [Lifehacker] [You Should Add a Banana to Your French Toast Batter](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)
 - [Dev.to/JS] [Hygiene is not just for macros](https://dev.to/mikesamuel/hygiene-is-not-just-for-macros-1409)
@@ -36,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Quick Thai Banana Roti Immediately](https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469)
 - [Dev.to/JS] [Talking About Linked List Traversal in JavaScript](https://dev.to/davidchedrick/talking-about-linked-list-traversal-in-javascript-3ppa)
 - [Lifehacker] [How to Reload Your Tabs When Your Browser Unexpectedly Quits](https://lifehacker.com/how-to-reload-your-tabs-when-your-browser-unexpectedly-1850093866)
-- [Dev.to/JS] [Software Developer from Iran](https://dev.to/fullstackdaniel/software-developer-from-iran-2ae)
-- [Dev.to/JS] [Higher-Order Components](https://dev.to/biplavmz/higher-order-components-52a0)
-- [Dev.to/JS] [JavaScript tutorial series: Variables](https://dev.to/fullstackjo/javascript-tutorial-series-variables-2nmd)
-- [Dev.to/JS] [récupérer des valeurs d&#39;un code en Js dans un code html](https://dev.to/gregh51/recuperer-des-valeurs-dun-code-en-js-dans-un-code-html-ck0)
 - [Lifehacker] [12 Complete Podcasts to Binge Right Now](https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348)
-- [Dev.to/JS] [&quot;How To Unit Test React Applications with Jest: A Beginner&#39;s Guide&quot;](https://dev.to/sukodes/how-to-unit-test-react-applications-with-jest-a-beginners-guide-2ppd)
 - [Lifehacker] [Why You Should Use Obsidian As a Journaling App](https://lifehacker.com/why-you-should-use-obsidian-as-a-journaling-app-1850086690)
 - [Lifehacker] [Impress Everyone You Know With Caramelized Onion Bread](https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432)
 - [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try the ‘Five Things’ Method When You’re Overwhelmed by Mess](https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958)
 - [Lifehacker] [There’s a Much Faster Way to Scroll on Your iPhone](https://lifehacker.com/there-s-a-much-faster-way-to-scroll-on-your-iphone-1850086713)
 - [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576)
-- [Lifehacker] [Please the Whole Team With These Cubano Sliders](https://lifehacker.com/please-the-whole-team-with-these-cubano-sliders-1850085424)
-- [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
-- [Lifehacker] [Make Mini Pommes Anna in a Muffin Tin for an Intimate Valentine&#39;s Day Dinner](https://lifehacker.com/make-mini-pommes-anna-in-a-muffin-tin-for-an-intimate-v-1850085666)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Please the Whole Team With These Cubano Sliders](https://lifehacker.com/please-the-whole-team-with-these-cubano-sliders-1850085424)<!-- TECH-POSTS:END -->
 
 ---
 
