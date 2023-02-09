@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Dev.to/JS] [Adding client-side rendered webmentions to my blog](https://dev.to/cdransf/adding-client-side-rendered-webmentions-to-my-blog-4fp4)
 - [Dev.to/JS] [Top 20 React Interview Questions &amp; Answers](https://dev.to/davidyaonz/top-20-react-interview-questions-answers-fmm)
 - [Dev.to/JS] [why StrictMode is important ?](https://dev.to/iyadchafroud/why-strictmode-is-important--jhg)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Spread Bacteria in Your Home With This Recalled Cleaner](https://lifehacker.com/dont-spread-bacteria-in-your-home-with-this-recalled-cl-1850088974)
 - [Lifehacker] [Use This Site to Find Almost Any Outfit You Liked on TV](https://lifehacker.com/use-this-site-to-find-almost-any-outfit-you-liked-on-tv-1850088497)
 - [Lifehacker] [Add These Plugins to &#39;Quick Look&#39; on Your Mac](https://lifehacker.com/add-these-plugins-to-quick-look-on-your-mac-1850087046)
-- [Lifehacker] [Try the ‘Five Things’ Method When You’re Overwhelmed by Mess](https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958)
-- [Lifehacker] [There’s a Much Faster Way to Scroll on Your iPhone](https://lifehacker.com/there-s-a-much-faster-way-to-scroll-on-your-iphone-1850086713)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try the ‘Five Things’ Method When You’re Overwhelmed by Mess](https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958)<!-- TECH-POSTS:END -->
 
 ---
 
