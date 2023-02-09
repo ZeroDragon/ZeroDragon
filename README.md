@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Du pattern matching en JS ?](https://dev.to/brack0/du-pattern-matching-en-js--204h)
+- [Dev.to/JS] [Boost User Satisfaction with a Dynamic Progress Bar for Your JavaScript Fetch Calls](https://dev.to/dhruvangg/boost-user-satisfaction-with-a-dynamic-progress-bar-for-your-javascript-fetch-calls-1oa4)
+- [Dev.to/JS] [How to create a Bottom Tab Navigator using react-navigation in React Native](https://dev.to/sokaribosenibo/how-to-create-a-bottom-tab-navigator-using-react-navigation-in-react-native-4ff1)
 - [Dev.to/JS] [How To Make A Music Player Using HTML CSS And JavaScript](https://dev.to/wirelessqna/how-to-make-a-music-player-using-html-css-and-javascript-4ab0)
 - [Dev.to/JS] [React - How to implement useState hook in your application](https://dev.to/davidyaonz/react-how-to-implement-usestate-hook-in-your-application-4eph)
 - [Dev.to/JS] [Job Batching in Laravel and Vue](https://dev.to/ayowandeapp/job-batching-in-laravel-and-vue-4hgb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReactJS](https://dev.to/ibesarah/reactjs-266a)
 - [Dev.to/JS] [Getting Started With NestJS](https://dev.to/dianaiminza/getting-started-with-nestjs-2b2n)
 - [Dev.to/JS] [Developing Form Validations](https://dev.to/seekiansengeri1/developing-form-validations-5b7f)
-- [Dev.to/JS] [Reflect in Javascript](https://dev.to/quannguyenit/reflect-in-javascript-3ka)
-- [Dev.to/JS] [What is Proxy in javascript ?](https://dev.to/quannguyenit/what-is-proxy-in-javascript--2963)
-- [Dev.to/JS] [How to Dockerize a Django and React Application](https://dev.to/honeybadger/how-to-dockerize-a-django-and-react-application-15pc)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
