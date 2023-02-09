@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make VCard with JS](https://dev.to/walternascimentobarroso/make-vcard-with-js-2afl)
+- [Dev.to/JS] [7 FREE Sites for Web Developers You probably Didn&#39;t Know Existed](https://dev.to/rahul3002/7-free-sites-for-web-developers-you-probably-didnt-know-existed-2j7n)
 - [Dev.to/JS] [Como montar Uma API com GraphQl em Node.js com Apollo Server e MongoDB](https://dev.to/ikarosilva/como-montar-uma-api-com-graphql-em-nodejs-com-apollo-server-e-mongodb-bpg)
 - [Dev.to/JS] [[WATCH] A Smart Home Concept created with skills you already know](https://dev.to/jared201/watch-a-smart-home-concept-created-with-skills-you-already-know-2pom)
 - [Dev.to/JS] [Creational Design Patterns in JavaScript](https://dev.to/asayerio_techblog/creational-design-patterns-in-javascript-f93)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Dev.to/JS] [I made a library that adds a metallic look to anything you throw at it](https://dev.to/mikaei/i-made-a-library-that-adds-a-metallic-look-to-anything-you-throw-at-it-40fe)
-- [Dev.to/JS] [How to make a scroll progress indicator](https://dev.to/lensco825/how-to-make-a-scroll-progess-indicator-ahe)
-- [Dev.to/JS] [Apollo Client with GraphQL: State Management for GraphQL Made Easy](https://dev.to/keyholesoftware/apollo-client-with-graphql-state-management-for-graphql-made-easy-4mkj)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
 - [Lifehacker] [Don&#39;t Serve This Recalled Charcuterie Sausage at Your Super Bowl Party](https://lifehacker.com/dont-serve-this-recalled-charcuterie-sausage-at-your-su-1850089465)
 - [Lifehacker] [10 Wizarding Games You Can Play Instead of &#39;Hogwarts Legacy&#39;](https://lifehacker.com/10-wizarding-games-you-can-play-instead-of-hogwarts-leg-1850089265)
