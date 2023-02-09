@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Free Online Storybook Conference 2023 ️‍🔥](https://dev.to/frontendengineer/free-online-storybook-conference-2023-4eh0)
+- [Dev.to/JS] [How use FirebaseUI for user authentication on your React project](https://dev.to/nicolasmontielf/how-use-firebaseui-for-user-authentication-on-your-react-project-32h7)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Dev.to/JS] [I made a library that adds a metallic look to anything you throw at it](https://dev.to/mikaei/i-made-a-library-that-adds-a-metallic-look-to-anything-you-throw-at-it-40fe)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Site to Find Almost Any Outfit You Liked on TV](https://lifehacker.com/use-this-site-to-find-almost-any-outfit-you-liked-on-tv-1850088497)
 - [Lifehacker] [Add These Plugins to &#39;Quick Look&#39; on Your Mac](https://lifehacker.com/add-these-plugins-to-quick-look-on-your-mac-1850087046)
 - [Dev.to/JS] [Top 10 Websites that can pay you per Download](https://dev.to/coldvibes1770/top-10-websites-that-can-pay-you-per-download-2p2l)
-- [Dev.to/JS] [JSTools Weekly - 2023#5](https://dev.to/jstoolsweekly/jstools-weekly-20235-4578)
-- [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #1](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-1-bli)
 - [Lifehacker] [Try the ‘Five Things’ Method When You’re Overwhelmed by Mess](https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958)
 - [Lifehacker] [There’s a Much Faster Way to Scroll on Your iPhone](https://lifehacker.com/there-s-a-much-faster-way-to-scroll-on-your-iphone-1850086713)
 - [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576)
