@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Software Developer from Iran](https://dev.to/fullstackdaniel/software-developer-from-iran-2ae)
+- [Dev.to/JS] [Higher-Order Components](https://dev.to/biplavmz/higher-order-components-52a0)
+- [Dev.to/JS] [JavaScript tutorial series: Variables](https://dev.to/fullstackjo/javascript-tutorial-series-variables-2nmd)
+- [Dev.to/JS] [récupérer des valeurs d&#39;un code en Js dans un code html](https://dev.to/gregh51/recuperer-des-valeurs-dun-code-en-js-dans-un-code-html-ck0)
+- [Lifehacker] [12 Complete Podcasts to Binge Right Now](https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348)
 - [Dev.to/JS] [&quot;How To Unit Test React Applications with Jest: A Beginner&#39;s Guide&quot;](https://dev.to/sukodes/how-to-unit-test-react-applications-with-jest-a-beginners-guide-2ppd)
 - [Dev.to/JS] [Date and Time Methods](https://dev.to/oluwatrillions/date-and-time-methods-39d9)
 - [Lifehacker] [Why You Should Use Obsidian As a Journaling App](https://lifehacker.com/why-you-should-use-obsidian-as-a-journaling-app-1850086690)
@@ -34,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript: An Introduction to the Statically Typed Superset of JavaScript](https://dev.to/matheusgomes062/typescript-an-introduction-to-the-statically-typed-superset-of-javascript-4hgo)
 - [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)
 - [Dev.to/JS] [Why don&#39;t you do it when the browser is free instead of setInterval?](https://dev.to/nuko_suke/why-dont-you-do-it-when-the-browser-is-free-instead-of-setinterval-4p23)
-- [Dev.to/JS] [5 Best Headless CMS Platforms](https://dev.to/medusajs/best-5-headless-cms-platforms-56da)
-- [Dev.to/JS] [Azure Functions: unzip large files](https://dev.to/vaja/azure-functions-unzip-large-files-ec2)
 - [Lifehacker] [8 Alternatives to Dining Out on Valentine’s Day](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)
-- [Dev.to/JS] [Contentlayer: Optimize getStaticProps on Next.js](https://dev.to/anasrin/contentlayer-optimize-getstaticprops-on-nextjs-40m9)
-- [Dev.to/JS] [Integrate iPay Africa APIs into your Strapi Application](https://dev.to/strapi/integrate-ipay-africa-apis-into-your-strapi-application-39ch)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
 - [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)
 - [Lifehacker] [These Kindles Are Up to 30% Off Right Now](https://lifehacker.com/these-kindles-are-up-to-30-off-right-now-1850083935)
-- [Lifehacker] [Make Better Irish Nachos With Guinness Beer Cheese](https://lifehacker.com/make-better-irish-nachos-with-guiness-beer-cheese-1850084017)
-- [Lifehacker] [Download This App If You Use Multiple Browsers on Your Mac](https://lifehacker.com/download-this-app-if-you-use-multiple-browsers-on-your-1850083609)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Better Irish Nachos With Guinness Beer Cheese](https://lifehacker.com/make-better-irish-nachos-with-guiness-beer-cheese-1850084017)<!-- TECH-POSTS:END -->
 
 ---
 
