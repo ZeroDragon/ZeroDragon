@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como montar Uma API com GraphQl em Node.js com Apollo Server e MongoDB](https://dev.to/ikarosilva/como-montar-uma-api-com-graphql-em-nodejs-com-apollo-server-e-mongodb-bpg)
 - [Dev.to/JS] [[WATCH] A Smart Home Concept created with skills you already know](https://dev.to/jared201/watch-a-smart-home-concept-created-with-skills-you-already-know-2pom)
 - [Dev.to/JS] [Creational Design Patterns in JavaScript](https://dev.to/asayerio_techblog/creational-design-patterns-in-javascript-f93)
 - [Dev.to/JS] [WYSIWYG editing in React with Draft.js](https://dev.to/asayerio_techblog/wysiwyg-editing-in-react-with-draftjs-2a1d)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
 - [Lifehacker] [Don&#39;t Serve This Recalled Charcuterie Sausage at Your Super Bowl Party](https://lifehacker.com/dont-serve-this-recalled-charcuterie-sausage-at-your-su-1850089465)
 - [Lifehacker] [10 Wizarding Games You Can Play Instead of &#39;Hogwarts Legacy&#39;](https://lifehacker.com/10-wizarding-games-you-can-play-instead-of-hogwarts-leg-1850089265)
-- [Dev.to/JS] [O Gerenciamento de Memória no JavaScript](https://dev.to/altencirsilvajr/o-gerenciamento-de-memoria-no-javascript-a6d)
 - [Lifehacker] [You’re Cutting Into Your Baked Brie All Wrong](https://lifehacker.com/you-re-cutting-into-your-baked-brie-all-wrong-1850089023)
 - [Lifehacker] [This New Google Maps View Puts You in the Middle of Your Favorite City](https://lifehacker.com/this-new-google-maps-view-puts-you-in-the-middle-of-you-1850089257)
 - [Lifehacker] [The Biggest Mistakes People Make When Trying to Eat Healthy](https://lifehacker.com/the-biggest-mistakes-people-make-when-trying-to-eat-hea-1850089228)
