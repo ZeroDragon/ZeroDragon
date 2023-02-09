@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Awesome PC Games Are $5 or Less Right Now](https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709)
+- [Dev.to/JS] [A Complete Guide To Playwright Assertions](https://dev.to/mdmoeenajazkhan/a-complete-guide-to-playwright-assertions-1cdb)
+- [Dev.to/JS] [VS Code Setup for Frontend Devs](https://dev.to/ivansimeonov/vs-code-setup-for-frontend-devs-577f)
+- [Dev.to/JS] [Optimizing Functional React Components](https://dev.to/bytebodger/optimizing-functional-react-components-4poi)
+- [Lifehacker] [Dutch Doors, Laundry Chutes, and Other Old-Fashioned Home Features You Should Still Use Today](https://lifehacker.com/dutch-doors-laundry-chutes-and-other-old-fashioned-ho-1850094601)
 - [Lifehacker] [Make This Quick Thai Banana Roti Immediately](https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469)
 - [Dev.to/JS] [Talking About Linked List Traversal in JavaScript](https://dev.to/davidchedrick/talking-about-linked-list-traversal-in-javascript-3ppa)
 - [Lifehacker] [How to Reload Your Tabs When Your Browser Unexpectedly Quits](https://lifehacker.com/how-to-reload-your-tabs-when-your-browser-unexpectedly-1850093866)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build and Deploy NodeJS App On Kubernetes from Scratch](https://dev.to/lovepreetsingh/build-nodejs-app-on-kubernetes-from-scratch-66g)
 - [Dev.to/JS] [How to Create an Effective Survey, Poll, or Quiz, and Increase its Completion Rate](https://dev.to/surveyjs/how-to-create-an-effective-survey-poll-or-quiz-and-increase-its-completion-rate-386o)
 - [Lifehacker] [Impress Everyone You Know With Caramelized Onion Bread](https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432)
-- [Dev.to/JS] [The JavaScript Intersection Observer](https://dev.to/get_pieces/the-javascript-intersection-observer-o22)
-- [Dev.to/JS] [Phase 4 - Improving User Experience using React.lazy](https://dev.to/breonwhite/phase-4-improving-user-experience-using-reactlazy-36af)
-- [Dev.to/JS] [TypeScript: An Introduction to the Statically Typed Superset of JavaScript](https://dev.to/matheusgomes062/typescript-an-introduction-to-the-statically-typed-superset-of-javascript-4hgo)
 - [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)
 - [Lifehacker] [8 Alternatives to Dining Out on Valentine’s Day](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the Internet Is so Pissed Off About ‘Hogwarts Legacy’](https://lifehacker.com/why-the-internet-is-so-pissed-off-about-hogwarts-legac-1850084805)
 - [Lifehacker] [Make Mini Pommes Anna in a Muffin Tin for an Intimate Valentine&#39;s Day Dinner](https://lifehacker.com/make-mini-pommes-anna-in-a-muffin-tin-for-an-intimate-v-1850085666)
 - [Lifehacker] [The Easiest Way to Jump Start Your Car](https://lifehacker.com/the-easiest-way-to-jump-start-your-car-1850084376)
-- [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)
-- [Lifehacker] [What to Say to Someone Pushing Crypto on You](https://lifehacker.com/what-to-say-to-someone-pushing-crypto-at-you-1850084439)
-- [Lifehacker] [The Easiest Ways to Dry Your Laundry Faster](https://lifehacker.com/the-easiest-ways-to-dry-your-laundry-faster-1850082752)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Fall for These Scam &#39;Notifications&#39; on Your Mac](https://lifehacker.com/dont-fall-for-these-scam-notifications-on-your-mac-1850084726)<!-- TECH-POSTS:END -->
 
 ---
 
