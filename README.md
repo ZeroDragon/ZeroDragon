@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Serve Build API issue in ReactJs](https://dev.to/ashrafhero/serve-build-api-issue-in-reactjs-5c99)
 - [Dev.to/JS] [Componente Paginador para Vuejs 3](https://dev.to/horaciodegiorgi/componente-paginador-par-vuejs-3-408e)
 - [Dev.to/JS] [Operators In JavaScript](https://dev.to/ankitdevelops/operators-in-javascript-4kpa)
 - [Dev.to/JS] [Image Conversion Web App with Python and Flask](https://dev.to/feranmiodugbemi10/image-conversion-web-app-with-python-1e18)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 20 React Interview Questions &amp; Answers](https://dev.to/davidyaonz/top-20-react-interview-questions-answers-fmm)
 - [Dev.to/JS] [why StrictMode is important ?](https://dev.to/iyadchafroud/why-strictmode-is-important--jhg)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
-- [Dev.to/JS] [Chart Parts: Anatomy of a chart](https://dev.to/joelmturner/chart-parts-anatomy-of-a-chart-52i9)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
 - [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)
 - [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)
