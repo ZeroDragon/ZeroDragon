@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Consider the Jamstack for Your Next Solo Project](https://dev.to/_builder_a/consider-the-jamstack-for-your-next-solo-project-31id)
+- [Dev.to/JS] [Astro: One idea to change your view about it &lpar;FOREVER&rpar;](https://dev.to/jareechang/astro-one-idea-to-change-your-view-about-it-forever-37fj)
 - [Dev.to/JS] [How to check-uncheck all checkbox With jQuery](https://dev.to/dev14/how-to-check-uncheck-all-checkbox-with-jquery-34ff)
 - [Dev.to/JS] [JavaScript Array Methods Cheatsheet](https://dev.to/codeofrelevancy/javascript-array-methods-cheatsheet-4abn)
 - [Dev.to/JS] [🤔 Understanding the Differences: Shallow vs Deep Copies in JavaScript 💻🧐](https://dev.to/vasanthselvaraj/understanding-the-differences-shallow-vs-deep-copies-in-javascript-obg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Componente Paginador para Vuejs 3](https://dev.to/horaciodegiorgi/componente-paginador-par-vuejs-3-408e)
 - [Dev.to/JS] [Operators In JavaScript](https://dev.to/ankitdevelops/operators-in-javascript-4kpa)
 - [Dev.to/JS] [Image Conversion Web App with Python and Flask](https://dev.to/feranmiodugbemi10/image-conversion-web-app-with-python-1e18)
-- [Dev.to/JS] [High Level And Low Level Programming Languages](https://dev.to/stevepurpose/high-level-and-low-level-programming-languages-am)
-- [Dev.to/JS] [Static rendering](https://dev.to/lausuarez02/static-rendering-592h)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
