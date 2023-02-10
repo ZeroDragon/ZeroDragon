@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What You Need to Know About Being a Java Developer](https://dev.to/kinsta/what-you-need-to-know-about-being-a-java-developer-3oe0)
+- [Lifehacker] [19 Food and Beverage Brands I’m Fiercely Loyal To](https://lifehacker.com/19-food-and-beverage-brands-i-m-fiercely-loyal-to-1850095917)
+- [Dev.to/JS] [Variable Declarations in JavaScript](https://dev.to/catherineisonline/variable-declarations-in-javascript-1915)
 - [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)
 - [Dev.to/JS] [Creating a Memory Card Game with HTML, CSS, and JavaScript](https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1)
 - [Dev.to/JS] [The Complete Guide to User Authentication in Firebase](https://dev.to/sammaji15/the-complete-guide-to-user-authentication-in-firebase-33i1)
@@ -37,11 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create an interactive desktop background](https://dev.to/britsie1/how-to-create-an-interactive-desktop-background-168o)
 - [Dev.to/JS] [The Importance of using React Hooks](https://dev.to/stevensmithcode/the-importance-of-using-react-hooks-1h32)
 - [Dev.to/JS] [JavaScript Tutorial Series: Operators.](https://dev.to/fullstackjo/javascript-tutorial-series-operators-57oo)
-- [Dev.to/JS] [Find the sum - Minibytes - Beginner Javascript Practice Questions #1](https://dev.to/juliegladden/find-the-sum-minibytes-beginner-javascript-practice-questions-1-1pmg)
 - [Lifehacker] [Get Free Wendy&#39;s Jr. Bacon Cheeseburgers Until Sunday](https://lifehacker.com/get-free-wendys-jr-bacon-cheeseburgers-until-sunday-1850099608)
 - [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Your Children Drinking Borgs?](https://lifehacker.com/what-the-hell-are-borgs-1850097486)
-- [Dev.to/JS] [Start Menu: Windows Clone](https://dev.to/shreyaanp/start-menu-windows-clone-5792)
 - [Lifehacker] [You Can Add Face ID Lock to iPhone Apps That Don’t Support It](https://lifehacker.com/you-can-add-a-face-id-lock-to-any-iphone-app-1850098069)
 - [Lifehacker] [You’re Promoting Yourself All Wrong on Social Media](https://lifehacker.com/you-re-promoting-yourself-all-wrong-on-social-media-1850096979)
 - [Lifehacker] [You&#39;re Burning Your Candles Wrong](https://lifehacker.com/youre-burning-your-candles-wrong-1850096693)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Complete Podcasts to Binge Right Now](https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348)
 - [Lifehacker] [Why You Should Use Obsidian As a Journaling App](https://lifehacker.com/why-you-should-use-obsidian-as-a-journaling-app-1850086690)
 - [Lifehacker] [Impress Everyone You Know With Caramelized Onion Bread](https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432)
-- [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)
-- [Lifehacker] [8 Alternatives to Dining Out on Valentine’s Day](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)<!-- TECH-POSTS:END -->
 
 ---
 
