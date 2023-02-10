@@ -23,20 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Astro + Storyblok: SSR Tips and Tricks](https://dev.to/jgierer12/astro-storyblok-ssr-tips-and-tricks-3j2k)
+- [Dev.to/JS] [Astro + Storyblok: SSR preview for instant visual editing](https://dev.to/jgierer12/astro-storyblok-ssr-preview-for-instant-visual-editing-3g9m)
+- [Lifehacker] [You Can Add a Face ID Lock to Any iPhone App](https://lifehacker.com/you-can-add-a-face-id-lock-to-any-iphone-app-1850098069)
+- [Dev.to/JS] [Glitch Monthly Newsletter: Twitter ending free API support, community blog posts, WebMIDI and more 🎵](https://dev.to/glitch/glitch-monthly-newsletter-twitter-ending-free-api-support-community-blog-posts-webmidi-and-more-2g2d)
+- [Dev.to/JS] [Challenge #2: 🏵 Token Vendor](https://dev.to/kevinjoshi46b/challenge-2-token-vendor-2565)
+- [Dev.to/JS] [Why you Should Use GraphQL APIs in your Next Project](https://dev.to/hackmamba/why-you-should-use-graphql-apis-in-your-next-project-k4l)
+- [Lifehacker] [You’re Promoting Yourself All Wrong on Social Media](https://lifehacker.com/you-re-promoting-yourself-all-wrong-on-social-media-1850096979)
+- [Dev.to/JS] [Trigger do evento submit fora do formulário sem a necesidade de javascript](https://dev.to/censuradho/trigger-do-evento-submit-fora-do-formulario-sem-a-necesidade-de-javascript-109j)
+- [Dev.to/JS] [Why we Server Side Render Web Components](https://dev.to/begin/why-we-server-side-render-web-components-40f6)
+- [Dev.to/JS] [Email frameworks comparison in 2023](https://dev.to/marcin_codes/email-frameworks-comparison-in-2023-cd6)
+- [Lifehacker] [You&#39;re Burning Your Candles Wrong](https://lifehacker.com/youre-burning-your-candles-wrong-1850096693)
 - [Dev.to/JS] [How to Support Environment Variables - Node Application - Elasticbeanstalk](https://dev.to/sanchezg7/how-to-support-environment-variables-node-application-elasticbeanstalk-hfn)
 - [Dev.to/JS] [The only markdown cheatsheet you will need](https://dev.to/acidop/the-only-markdown-cheatsheet-you-will-need-15db)
 - [Lifehacker] [25 of the Most Depressing Movies Ever Made](https://lifehacker.com/25-of-the-most-depressing-movies-ever-made-1850094135)
 - [Dev.to/JS] [Learn Nuxt 3 — Full course for beginners [3 hours] 2023](https://dev.to/guillaumeduhan/learn-nuxt-3-full-course-for-beginners-3-hours-2023-56f1)
 - [Lifehacker] [Make Juicy, Flavorful Chicken by Marinating It in Olive Brine](https://lifehacker.com/make-juicy-flavorful-chicken-by-marinating-it-in-olive-1850096567)
 - [Dev.to/JS] [JS Polyfills - Part 6 Curry, Memoise and Generator Functions](https://dev.to/uttarasriya/js-polyfills-part-6-curry-memoise-and-generator-functions-1d71)
-- [Dev.to/JS] [How to make an effect typewriter](https://dev.to/ajidk16/how-to-make-an-effect-typewriter-nl6)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Somando array com elementos longos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-somando-array-com-elementos-longos-2faj)
-- [Dev.to/JS] [tsParticles 2.9.0 Released](https://dev.to/tsparticles/tsparticles-290-released-421i)
-- [Dev.to/JS] [A quality of life Stimulus.js controller](https://dev.to/spinal/a-quality-of-life-stimulusjs-controller-391j)
-- [Dev.to/JS] [Going beyond the old and boring console.log&lpar;&rpar;](https://dev.to/lucasrodriguez93/going-beyond-the-old-and-boring-consolelog-1l0d)
-- [Dev.to/JS] [Challenge #1: 🥩 Decentralized Staking App](https://dev.to/kevinjoshi46b/challenge-1-decentralized-staking-app-3l8l)
-- [Dev.to/JS] [Stop using console.log&lpar;&rpar; instead use👇](https://dev.to/iarchitsharma/stop-using-consolelog-instead-use-26b2)
-- [Dev.to/JS] [Interview Questions: Front-End Web Dev.](https://dev.to/mursalfk/interview-questions-front-end-web-dev-4k9l)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Serve This Recalled Charcuterie Sausage at Your Super Bowl Party](https://lifehacker.com/dont-serve-this-recalled-charcuterie-sausage-at-your-su-1850089465)
 - [Lifehacker] [10 Wizarding Games You Can Play Instead of &#39;Hogwarts Legacy&#39;](https://lifehacker.com/10-wizarding-games-you-can-play-instead-of-hogwarts-leg-1850089265)
 - [Lifehacker] [You’re Cutting Into Your Baked Brie All Wrong](https://lifehacker.com/you-re-cutting-into-your-baked-brie-all-wrong-1850089023)
-- [Lifehacker] [This New Google Maps View Puts You in the Middle of Your Favorite City](https://lifehacker.com/this-new-google-maps-view-puts-you-in-the-middle-of-you-1850089257)
-- [Lifehacker] [The Biggest Mistakes People Make When Trying to Eat Healthy](https://lifehacker.com/the-biggest-mistakes-people-make-when-trying-to-eat-hea-1850089228)
-- [Lifehacker] [Don&#39;t Spread Bacteria in Your Home With This Recalled Cleaner](https://lifehacker.com/dont-spread-bacteria-in-your-home-with-this-recalled-cl-1850088974)
-- [Lifehacker] [Use This Site to Find Almost Any Outfit You Liked on TV](https://lifehacker.com/use-this-site-to-find-almost-any-outfit-you-liked-on-tv-1850088497)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This New Google Maps View Puts You in the Middle of Your Favorite City](https://lifehacker.com/this-new-google-maps-view-puts-you-in-the-middle-of-you-1850089257)<!-- TECH-POSTS:END -->
 
 ---
 
