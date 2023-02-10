@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Support Environment Variables - Node Application - Elasticbeanstalk](https://dev.to/sanchezg7/how-to-support-environment-variables-node-application-elasticbeanstalk-hfn)
+- [Dev.to/JS] [The only markdown cheatsheet you will need](https://dev.to/acidop/the-only-markdown-cheatsheet-you-will-need-15db)
+- [Lifehacker] [25 of the Most Depressing Movies Ever Made](https://lifehacker.com/25-of-the-most-depressing-movies-ever-made-1850094135)
+- [Dev.to/JS] [Learn Nuxt 3 — Full course for beginners [3 hours] 2023](https://dev.to/guillaumeduhan/learn-nuxt-3-full-course-for-beginners-3-hours-2023-56f1)
+- [Lifehacker] [Make Juicy, Flavorful Chicken by Marinating It in Olive Brine](https://lifehacker.com/make-juicy-flavorful-chicken-by-marinating-it-in-olive-1850096567)
+- [Dev.to/JS] [JS Polyfills - Part 6 Curry, Memoise and Generator Functions](https://dev.to/uttarasriya/js-polyfills-part-6-curry-memoise-and-generator-functions-1d71)
 - [Dev.to/JS] [How to make an effect typewriter](https://dev.to/ajidk16/how-to-make-an-effect-typewriter-nl6)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Somando array com elementos longos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-somando-array-com-elementos-longos-2faj)
 - [Dev.to/JS] [tsParticles 2.9.0 Released](https://dev.to/tsparticles/tsparticles-290-released-421i)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Challenge #1: 🥩 Decentralized Staking App](https://dev.to/kevinjoshi46b/challenge-1-decentralized-staking-app-3l8l)
 - [Dev.to/JS] [Stop using console.log&lpar;&rpar; instead use👇](https://dev.to/iarchitsharma/stop-using-consolelog-instead-use-26b2)
 - [Dev.to/JS] [Interview Questions: Front-End Web Dev.](https://dev.to/mursalfk/interview-questions-front-end-web-dev-4k9l)
-- [Dev.to/JS] [O que são funções puras?](https://dev.to/cristuker/o-que-sao-funcoes-puras-1d4g)
-- [Dev.to/JS] [Save HTML Form Data to a MySQL Database using PHP](https://dev.to/gixa789/save-html-form-data-to-a-mysql-database-using-php-38ab)
-- [Dev.to/JS] [Implementing the Pipe Function in JavaScript](https://dev.to/moayad523/implementing-the-pipe-function-in-javascript-im9)
-- [Dev.to/JS] [Astro Comment Form: with Turnstile &amp; Prerender](https://dev.to/askrodney/astro-comment-form-with-turnstile-prerender-501d)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This New Google Maps View Puts You in the Middle of Your Favorite City](https://lifehacker.com/this-new-google-maps-view-puts-you-in-the-middle-of-you-1850089257)
 - [Lifehacker] [The Biggest Mistakes People Make When Trying to Eat Healthy](https://lifehacker.com/the-biggest-mistakes-people-make-when-trying-to-eat-hea-1850089228)
 - [Lifehacker] [Don&#39;t Spread Bacteria in Your Home With This Recalled Cleaner](https://lifehacker.com/dont-spread-bacteria-in-your-home-with-this-recalled-cl-1850088974)
-- [Lifehacker] [Use This Site to Find Almost Any Outfit You Liked on TV](https://lifehacker.com/use-this-site-to-find-almost-any-outfit-you-liked-on-tv-1850088497)
-- [Lifehacker] [Add These Plugins to &#39;Quick Look&#39; on Your Mac](https://lifehacker.com/add-these-plugins-to-quick-look-on-your-mac-1850087046)
-- [Lifehacker] [Try the ‘Five Things’ Method When You’re Overwhelmed by Mess](https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Site to Find Almost Any Outfit You Liked on TV](https://lifehacker.com/use-this-site-to-find-almost-any-outfit-you-liked-on-tv-1850088497)<!-- TECH-POSTS:END -->
 
 ---
 
