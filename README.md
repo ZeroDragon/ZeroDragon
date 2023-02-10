@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Image Conversion Web App with Python and Flask](https://dev.to/feranmiodugbemi10/image-conversion-web-app-with-python-1e18)
+- [Dev.to/JS] [High Level And Low Level Programming Languages](https://dev.to/stevepurpose/high-level-and-low-level-programming-languages-am)
 - [Dev.to/JS] [Static rendering](https://dev.to/lausuarez02/static-rendering-592h)
 - [Dev.to/JS] [Get an Unsplash image dynamically according to the random keyword API](https://dev.to/koshirok096/get-an-unsplash-image-dynamically-according-to-the-random-keyword-api-3n75)
 - [Dev.to/JS] [Generate a Non Repetitive One Time Password &lpar;OTP&rpar; in Vanilla JS](https://dev.to/mrsrv7/generate-a-non-repetitive-one-time-password-otp-in-vanilla-js-3agn)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 of the best React development tools of 2023](https://dev.to/rardooba/top-10-of-the-best-react-development-tools-of-2023-4pa4)
 - [Dev.to/JS] [Shopify Drag-and-drop checkout editor](https://dev.to/simond110/shopify-drag-and-drop-checkout-editor-3j2a)
 - [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)
-- [Dev.to/JS] [Markdown for Dummies: The only markdown cheatsheet you will ever need](https://dev.to/acidop/markdown-for-dummies-the-only-markdown-cheatsheet-you-will-ever-need-23g1)
-- [Dev.to/JS] [Why Create React App is Facing a Dip in Popularity](https://dev.to/andersonpixel/why-create-react-app-is-facing-a-dip-in-popularity-22h9)
 - [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)
 - [Lifehacker] [You Should Add a Banana to Your French Toast Batter](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)
 - [Lifehacker] [Here Are the 200 Bed Bath &amp; Beyond Stores About to Close Soon](https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080)
