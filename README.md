@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Going beyond the old and boring console.log&lpar;&rpar;](https://dev.to/lucasrodriguez93/going-beyond-the-old-and-boring-consolelog-1l0d)
+- [Dev.to/JS] [Challenge #1: 🥩 Decentralized Staking App](https://dev.to/kevinjoshi46b/challenge-1-decentralized-staking-app-3l8l)
+- [Dev.to/JS] [Stop using console.log&lpar;&rpar; instead use👇](https://dev.to/iarchitsharma/stop-using-consolelog-instead-use-26b2)
 - [Dev.to/JS] [Interview Questions: Front-End Web Dev.](https://dev.to/mursalfk/interview-questions-front-end-web-dev-4k9l)
 - [Dev.to/JS] [O que são funções puras?](https://dev.to/cristuker/o-que-sao-funcoes-puras-1d4g)
 - [Dev.to/JS] [Save HTML Form Data to a MySQL Database using PHP](https://dev.to/gixa789/save-html-form-data-to-a-mysql-database-using-php-38ab)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Setup a Free MongoDB database on Railway](https://dev.to/isnan__h/how-to-setup-a-free-mongodb-database-on-railway-fi)
 - [Dev.to/JS] [3D Orbiting Split Images](https://dev.to/w7freedownload/3d-orbiting-split-images-2n98)
 - [Dev.to/JS] [How to add custom attributes in Prisma](https://dev.to/zenstack/how-to-add-custom-attributes-in-prisma-6i8)
-- [Dev.to/JS] [Hello](https://dev.to/nhakhoadaisy/hello-4040)
-- [Dev.to/JS] [New Nuxt DevTools is mindblowing! 🤯](https://dev.to/michalkuncio/new-nuxt-devtools-is-mindblowing-4e7i)
-- [Dev.to/JS] [Mastering Scroll Position Restoration in Vue and Nuxt Projects](https://dev.to/core01/mastering-scroll-position-restoration-in-vue-and-nuxt-projects-2afb)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
