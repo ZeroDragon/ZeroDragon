@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Static rendering](https://dev.to/lausuarez02/static-rendering-592h)
+- [Dev.to/JS] [Get an Unsplash image dynamically according to the random keyword API](https://dev.to/koshirok096/get-an-unsplash-image-dynamically-according-to-the-random-keyword-api-3n75)
+- [Dev.to/JS] [Generate a Non Repetitive One Time Password &lpar;OTP&rpar; in Vanilla JS](https://dev.to/mrsrv7/generate-a-non-repetitive-one-time-password-otp-in-vanilla-js-3agn)
+- [Dev.to/JS] [A step-by-step Guide to using Redux for State Management in React](https://dev.to/ali_adeku/a-step-by-step-guide-to-using-redux-for-state-management-in-react-295l)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Dev.to/JS] [Adding client-side rendered webmentions to my blog](https://dev.to/cdransf/adding-client-side-rendered-webmentions-to-my-blog-4fp4)
 - [Dev.to/JS] [Top 20 React Interview Questions &amp; Answers](https://dev.to/davidyaonz/top-20-react-interview-questions-answers-fmm)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)
 - [Dev.to/JS] [Markdown for Dummies: The only markdown cheatsheet you will ever need](https://dev.to/acidop/markdown-for-dummies-the-only-markdown-cheatsheet-you-will-ever-need-23g1)
 - [Dev.to/JS] [Why Create React App is Facing a Dip in Popularity](https://dev.to/andersonpixel/why-create-react-app-is-facing-a-dip-in-popularity-22h9)
-- [Dev.to/JS] [How To Start a Development Server for Your Project](https://dev.to/noibisdev/how-to-start-a-development-server-for-your-project-2h5o)
 - [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)
-- [Dev.to/JS] [How to verify PAN no. in node.js](https://dev.to/ekodevs/how-to-verify-pan-no-in-nodejs-dpa)
 - [Lifehacker] [You Should Add a Banana to Your French Toast Batter](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)
-- [Dev.to/JS] [Hygiene is not just for macros](https://dev.to/mikesamuel/hygiene-is-not-just-for-macros-1409)
-- [Dev.to/JS] [Discover the Hidden Gems of NPM: 20 Little-Known Commands for Node Package Management](https://dev.to/knitesh/discover-the-hidden-gems-of-npm-20-little-known-commands-for-node-package-management-4kjd)
 - [Lifehacker] [Here Are the 200 Bed Bath &amp; Beyond Stores About to Close Soon](https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080)
 - [Lifehacker] [These Awesome PC Games Are $5 or Less Right Now](https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709)
 - [Lifehacker] [Dutch Doors, Laundry Chutes, and Other Old-Fashioned Home Features You Should Still Use Today](https://lifehacker.com/dutch-doors-laundry-chutes-and-other-old-fashioned-ho-1850094601)
