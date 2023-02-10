@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interview Questions: Front-End Web Dev.](https://dev.to/mursalfk/interview-questions-front-end-web-dev-4k9l)
+- [Dev.to/JS] [O que são funções puras?](https://dev.to/cristuker/o-que-sao-funcoes-puras-1d4g)
+- [Dev.to/JS] [Save HTML Form Data to a MySQL Database using PHP](https://dev.to/gixa789/save-html-form-data-to-a-mysql-database-using-php-38ab)
+- [Dev.to/JS] [Implementing the Pipe Function in JavaScript](https://dev.to/moayad523/implementing-the-pipe-function-in-javascript-im9)
 - [Dev.to/JS] [Astro Comment Form: with Turnstile &amp; Prerender](https://dev.to/askrodney/astro-comment-form-with-turnstile-prerender-501d)
 - [Dev.to/JS] [Why is my cursor pointer disabled on &lt;button&gt; after refresh? | React App](https://dev.to/c_s_a05d625d9847386de165b/why-is-my-cursor-pointer-disabled-on-after-refresh-react-app-344h)
 - [Dev.to/JS] [How to Setup a Free MongoDB database on Railway](https://dev.to/isnan__h/how-to-setup-a-free-mongodb-database-on-railway-fi)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello](https://dev.to/nhakhoadaisy/hello-4040)
 - [Dev.to/JS] [New Nuxt DevTools is mindblowing! 🤯](https://dev.to/michalkuncio/new-nuxt-devtools-is-mindblowing-4e7i)
 - [Dev.to/JS] [Mastering Scroll Position Restoration in Vue and Nuxt Projects](https://dev.to/core01/mastering-scroll-position-restoration-in-vue-and-nuxt-projects-2afb)
-- [Dev.to/JS] [Mastering JavaScript: A Journey Through the Top 5 GitHub Repositories](https://dev.to/thenomadevel/mastering-javascript-a-journey-through-the-top-5-github-repositories-1054)
-- [Dev.to/JS] [Crack Your Next Coding Interview with These Proven Preparation Strategies](https://dev.to/onlydevs_/crack-your-next-coding-interview-with-these-proven-preparation-strategies-5457)
-- [Dev.to/JS] [First of all, what is JSX?](https://dev.to/hidemichishimura/first-of-all-what-is-jsx-nml)
-- [Dev.to/JS] [Challenge #0: 🎟 Simple NFT Example](https://dev.to/kevinjoshi46b/challenge-0-simple-nft-example-1c43)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
