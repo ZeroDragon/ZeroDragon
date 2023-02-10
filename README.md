@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [If You Really Love Your Valentine, Buy Them Candy From the Office Supply Store](https://lifehacker.com/if-you-really-love-your-valentine-buy-them-candy-from-1850100792)
+- [Dev.to/JS] [Introducing Better Folding✨ - All you ever wished from VSCode folding.](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
+- [Lifehacker] [You Can Pre-Order ‘The Legend of Zelda: Tears of the Kingdom’ for $20 Off](https://lifehacker.com/you-can-pre-order-the-legend-of-zelda-tears-of-the-ki-1850100462)
+- [Dev.to/JS] [The top 10 features of Total.js Flow](https://dev.to/petersirka/the-top-10-features-of-totaljs-flow-598c)
+- [Lifehacker] [How to Avoid the Nasty Norovirus Stomach Bug](https://lifehacker.com/how-to-avoid-the-nasty-norovirus-stomach-bug-1850100701)
 - [Dev.to/JS] [What You Need to Know About Being a Java Developer](https://dev.to/kinsta/what-you-need-to-know-about-being-a-java-developer-3oe0)
 - [Lifehacker] [19 Food and Beverage Brands I’m Fiercely Loyal To](https://lifehacker.com/19-food-and-beverage-brands-i-m-fiercely-loyal-to-1850095917)
 - [Dev.to/JS] [Variable Declarations in JavaScript](https://dev.to/catherineisonline/variable-declarations-in-javascript-1915)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When useEffect runs](https://dev.to/cassidoo/when-useeffect-runs-3pf3)
 - [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)
 - [Dev.to/JS] [How to create an interactive desktop background](https://dev.to/britsie1/how-to-create-an-interactive-desktop-background-168o)
-- [Dev.to/JS] [The Importance of using React Hooks](https://dev.to/stevensmithcode/the-importance-of-using-react-hooks-1h32)
-- [Dev.to/JS] [JavaScript Tutorial Series: Operators.](https://dev.to/fullstackjo/javascript-tutorial-series-operators-57oo)
 - [Lifehacker] [Get Free Wendy&#39;s Jr. Bacon Cheeseburgers Until Sunday](https://lifehacker.com/get-free-wendys-jr-bacon-cheeseburgers-until-sunday-1850099608)
 - [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Your Children Drinking Borgs?](https://lifehacker.com/what-the-hell-are-borgs-1850097486)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Dutch Doors, Laundry Chutes, and Other Old-Fashioned Home Features You Should Still Use Today](https://lifehacker.com/dutch-doors-laundry-chutes-and-other-old-fashioned-ho-1850094601)
 - [Lifehacker] [Make This Quick Thai Banana Roti Immediately](https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469)
 - [Lifehacker] [How to Reload Your Tabs When Your Browser Unexpectedly Quits](https://lifehacker.com/how-to-reload-your-tabs-when-your-browser-unexpectedly-1850093866)
-- [Lifehacker] [12 Complete Podcasts to Binge Right Now](https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348)
-- [Lifehacker] [Why You Should Use Obsidian As a Journaling App](https://lifehacker.com/why-you-should-use-obsidian-as-a-journaling-app-1850086690)
-- [Lifehacker] [Impress Everyone You Know With Caramelized Onion Bread](https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432)
-- [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Complete Podcasts to Binge Right Now](https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348)<!-- TECH-POSTS:END -->
 
 ---
 
