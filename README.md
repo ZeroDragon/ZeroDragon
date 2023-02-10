@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Astro Comment Form: with Turnstile &amp; Prerender](https://dev.to/askrodney/astro-comment-form-with-turnstile-prerender-501d)
 - [Dev.to/JS] [Why is my cursor pointer disabled on &lt;button&gt; after refresh? | React App](https://dev.to/c_s_a05d625d9847386de165b/why-is-my-cursor-pointer-disabled-on-after-refresh-react-app-344h)
 - [Dev.to/JS] [How to Setup a Free MongoDB database on Railway](https://dev.to/isnan__h/how-to-setup-a-free-mongodb-database-on-railway-fi)
 - [Dev.to/JS] [3D Orbiting Split Images](https://dev.to/w7freedownload/3d-orbiting-split-images-2n98)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crack Your Next Coding Interview with These Proven Preparation Strategies](https://dev.to/onlydevs_/crack-your-next-coding-interview-with-these-proven-preparation-strategies-5457)
 - [Dev.to/JS] [First of all, what is JSX?](https://dev.to/hidemichishimura/first-of-all-what-is-jsx-nml)
 - [Dev.to/JS] [Challenge #0: 🎟 Simple NFT Example](https://dev.to/kevinjoshi46b/challenge-0-simple-nft-example-1c43)
-- [Dev.to/JS] [Consider the Jamstack for Your Next Solo Project](https://dev.to/_builder_a/consider-the-jamstack-for-your-next-solo-project-31id)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
