@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Find the sum - Minibytes - Beginner Javascript Practice Questions #1](https://dev.to/juliegladden/find-the-sum-minibytes-beginner-javascript-practice-questions-1-1pmg)
+- [Lifehacker] [Get Free Wendy&#39;s Jr. Bacon Cheeseburgers Until Sunday](https://lifehacker.com/get-free-wendys-jr-bacon-cheeseburgers-until-sunday-1850099608)
 - [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Your Children Drinking Borgs?](https://lifehacker.com/what-the-hell-are-borgs-1850097486)
 - [Dev.to/JS] [Start Menu: Windows Clone](https://dev.to/shreyaanp/start-menu-windows-clone-5792)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Support Environment Variables - Node Application - Elasticbeanstalk](https://dev.to/sanchezg7/how-to-support-environment-variables-node-application-elasticbeanstalk-hfn)
 - [Dev.to/JS] [The only markdown cheatsheet you will need](https://dev.to/acidop/the-only-markdown-cheatsheet-you-will-need-15db)
 - [Lifehacker] [25 of the Most Depressing Movies Ever Made](https://lifehacker.com/25-of-the-most-depressing-movies-ever-made-1850094135)
-- [Dev.to/JS] [Learn Nuxt 3 — Full course for beginners [3 hours] 2023](https://dev.to/guillaumeduhan/learn-nuxt-3-full-course-for-beginners-3-hours-2023-56f1)
 - [Lifehacker] [Make Juicy, Flavorful Chicken by Marinating It in Olive Brine](https://lifehacker.com/make-juicy-flavorful-chicken-by-marinating-it-in-olive-1850096567)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
-- [Lifehacker] [Don&#39;t Serve This Recalled Charcuterie Sausage at Your Super Bowl Party](https://lifehacker.com/dont-serve-this-recalled-charcuterie-sausage-at-your-su-1850089465)
-- [Lifehacker] [10 Wizarding Games You Can Play Instead of &#39;Hogwarts Legacy&#39;](https://lifehacker.com/10-wizarding-games-you-can-play-instead-of-hogwarts-leg-1850089265)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Serve This Recalled Charcuterie Sausage at Your Super Bowl Party](https://lifehacker.com/dont-serve-this-recalled-charcuterie-sausage-at-your-su-1850089465)<!-- TECH-POSTS:END -->
 
 ---
 
