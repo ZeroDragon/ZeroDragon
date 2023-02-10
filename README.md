@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9 more Javascript Array methods](https://dev.to/zuzexx/9-more-javascript-array-methods-354n)
+- [Dev.to/JS] [When useEffect runs](https://dev.to/cassidoo/when-useeffect-runs-3pf3)
+- [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)
+- [Dev.to/JS] [How to create an interactive desktop background](https://dev.to/britsie1/how-to-create-an-interactive-desktop-background-168o)
+- [Dev.to/JS] [The Importance of using React Hooks](https://dev.to/stevensmithcode/the-importance-of-using-react-hooks-1h32)
+- [Dev.to/JS] [JavaScript Tutorial Series: Operators.](https://dev.to/fullstackjo/javascript-tutorial-series-operators-57oo)
 - [Dev.to/JS] [Find the sum - Minibytes - Beginner Javascript Practice Questions #1](https://dev.to/juliegladden/find-the-sum-minibytes-beginner-javascript-practice-questions-1-1pmg)
 - [Lifehacker] [Get Free Wendy&#39;s Jr. Bacon Cheeseburgers Until Sunday](https://lifehacker.com/get-free-wendys-jr-bacon-cheeseburgers-until-sunday-1850099608)
 - [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)
@@ -35,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Challenge #2: 🏵 Token Vendor](https://dev.to/kevinjoshi46b/challenge-2-token-vendor-2565)
 - [Dev.to/JS] [Why you Should Use GraphQL APIs in your Next Project](https://dev.to/hackmamba/why-you-should-use-graphql-apis-in-your-next-project-k4l)
 - [Lifehacker] [You’re Promoting Yourself All Wrong on Social Media](https://lifehacker.com/you-re-promoting-yourself-all-wrong-on-social-media-1850096979)
-- [Dev.to/JS] [Trigger do evento submit fora do formulário sem a necessidade de javascript](https://dev.to/censuradho/trigger-do-evento-submit-fora-do-formulario-sem-a-necesidade-de-javascript-109j)
-- [Dev.to/JS] [Why we Server Side Render Web Components](https://dev.to/begin/why-we-server-side-render-web-components-40f6)
-- [Dev.to/JS] [Email frameworks comparison in 2023](https://dev.to/marcin_codes/email-frameworks-comparison-in-2023-cd6)
 - [Lifehacker] [You&#39;re Burning Your Candles Wrong](https://lifehacker.com/youre-burning-your-candles-wrong-1850096693)
-- [Dev.to/JS] [How to Support Environment Variables - Node Application - Elasticbeanstalk](https://dev.to/sanchezg7/how-to-support-environment-variables-node-application-elasticbeanstalk-hfn)
-- [Dev.to/JS] [The only markdown cheatsheet you will need](https://dev.to/acidop/the-only-markdown-cheatsheet-you-will-need-15db)
 - [Lifehacker] [25 of the Most Depressing Movies Ever Made](https://lifehacker.com/25-of-the-most-depressing-movies-ever-made-1850094135)
 - [Lifehacker] [Make Juicy, Flavorful Chicken by Marinating It in Olive Brine](https://lifehacker.com/make-juicy-flavorful-chicken-by-marinating-it-in-olive-1850096567)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Alternatives to Dining Out on Valentine’s Day](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)
 - [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
-- [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
-- [Lifehacker] [Don&#39;t Serve This Recalled Charcuterie Sausage at Your Super Bowl Party](https://lifehacker.com/dont-serve-this-recalled-charcuterie-sausage-at-your-su-1850089465)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)<!-- TECH-POSTS:END -->
 
 ---
 
