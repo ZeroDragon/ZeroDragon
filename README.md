@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
+- [Dev.to/JS] [New Release of ReductStore JavaScript SDK v1.3.0](https://dev.to/reductstore/new-release-of-reductstore-javascript-sdk-v130-1f3f)
+- [Lifehacker] [Two Things You Should Do to Impress Your Valentine&#39;s Dinner Date](https://lifehacker.com/two-things-you-should-do-to-impress-your-valentines-din-1850101185)
+- [Dev.to/JS] [Why using AXIOS with Typescript?](https://dev.to/limacodes/why-using-axios-with-typescript-1fnj)
 - [Lifehacker] [If You Really Love Your Valentine, Buy Them Candy From the Office Supply Store](https://lifehacker.com/if-you-really-love-your-valentine-buy-them-candy-from-1850100792)
-- [Dev.to/JS] [Introducing Better Folding✨ - All you ever wished from VSCode folding.](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
+- [Dev.to/JS] [Better Folding✨ - All you ever wished from VSCode folding.](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
 - [Lifehacker] [You Can Pre-Order ‘The Legend of Zelda: Tears of the Kingdom’ for $20 Off](https://lifehacker.com/you-can-pre-order-the-legend-of-zelda-tears-of-the-ki-1850100462)
 - [Dev.to/JS] [The top 10 features of Total.js Flow](https://dev.to/petersirka/the-top-10-features-of-totaljs-flow-598c)
 - [Lifehacker] [How to Avoid the Nasty Norovirus Stomach Bug](https://lifehacker.com/how-to-avoid-the-nasty-norovirus-stomach-bug-1850100701)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploy Node.js to EC2](https://dev.to/konstantinstanmeyer/deploy-nodejs-to-ec2-3gag)
 - [Dev.to/JS] [9 more Javascript Array methods](https://dev.to/zuzexx/9-more-javascript-array-methods-354n)
 - [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)
-- [Dev.to/JS] [When useEffect runs](https://dev.to/cassidoo/when-useeffect-runs-3pf3)
 - [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)
-- [Dev.to/JS] [How to create an interactive desktop background](https://dev.to/britsie1/how-to-create-an-interactive-desktop-background-168o)
 - [Lifehacker] [Get Free Wendy&#39;s Jr. Bacon Cheeseburgers Until Sunday](https://lifehacker.com/get-free-wendys-jr-bacon-cheeseburgers-until-sunday-1850099608)
 - [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Your Children Drinking Borgs?](https://lifehacker.com/what-the-hell-are-borgs-1850097486)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are the 200 Bed Bath &amp; Beyond Stores About to Close Soon](https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080)
 - [Lifehacker] [These Awesome PC Games Are $5 or Less Right Now](https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709)
 - [Lifehacker] [Dutch Doors, Laundry Chutes, and Other Old-Fashioned Home Features You Should Still Use Today](https://lifehacker.com/dutch-doors-laundry-chutes-and-other-old-fashioned-ho-1850094601)
-- [Lifehacker] [Make This Quick Thai Banana Roti Immediately](https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469)
-- [Lifehacker] [How to Reload Your Tabs When Your Browser Unexpectedly Quits](https://lifehacker.com/how-to-reload-your-tabs-when-your-browser-unexpectedly-1850093866)
-- [Lifehacker] [12 Complete Podcasts to Binge Right Now](https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Quick Thai Banana Roti Immediately](https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469)<!-- TECH-POSTS:END -->
 
 ---
 
