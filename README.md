@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)
+- [Dev.to/JS] [Creating a Memory Card Game with HTML, CSS, and JavaScript](https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1)
+- [Dev.to/JS] [The Complete Guide to User Authentication in Firebase](https://dev.to/sammaji15/the-complete-guide-to-user-authentication-in-firebase-33i1)
+- [Dev.to/JS] [Simplifying jest stubs using jest-when](https://dev.to/trikitrok/simplifying-jest-stubs-using-jest-when-4jk6)
+- [Lifehacker] [When and How to Take a Weed &#39;Tolerance Break&#39;](https://lifehacker.com/when-and-how-to-take-a-weed-tolerance-break-1850100393)
+- [Dev.to/JS] [Challenge #3: 🎲 Dice Game](https://dev.to/kevinjoshi46b/challenge-3-dice-game-16lb)
+- [Dev.to/JS] [Deploy Node.js to EC2](https://dev.to/konstantinstanmeyer/deploy-nodejs-to-ec2-3gag)
 - [Dev.to/JS] [9 more Javascript Array methods](https://dev.to/zuzexx/9-more-javascript-array-methods-354n)
+- [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)
 - [Dev.to/JS] [When useEffect runs](https://dev.to/cassidoo/when-useeffect-runs-3pf3)
 - [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)
 - [Dev.to/JS] [How to create an interactive desktop background](https://dev.to/britsie1/how-to-create-an-interactive-desktop-background-168o)
@@ -34,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Your Children Drinking Borgs?](https://lifehacker.com/what-the-hell-are-borgs-1850097486)
 - [Dev.to/JS] [Start Menu: Windows Clone](https://dev.to/shreyaanp/start-menu-windows-clone-5792)
-- [Dev.to/JS] [Astro + Storyblok: SSR Tips and Tricks](https://dev.to/jgierer12/astro-storyblok-ssr-tips-and-tricks-3j2k)
-- [Dev.to/JS] [Astro + Storyblok: SSR preview for instant visual editing](https://dev.to/jgierer12/astro-storyblok-ssr-preview-for-instant-visual-editing-3g9m)
 - [Lifehacker] [You Can Add Face ID Lock to iPhone Apps That Don’t Support It](https://lifehacker.com/you-can-add-a-face-id-lock-to-any-iphone-app-1850098069)
-- [Dev.to/JS] [Glitch Monthly Newsletter: Twitter ending free API support, community blog posts, WebMIDI and more 🎵](https://dev.to/glitch/glitch-monthly-newsletter-twitter-ending-free-api-support-community-blog-posts-webmidi-and-more-2g2d)
-- [Dev.to/JS] [Challenge #2: 🏵 Token Vendor](https://dev.to/kevinjoshi46b/challenge-2-token-vendor-2565)
-- [Dev.to/JS] [Why you Should Use GraphQL APIs in your Next Project](https://dev.to/hackmamba/why-you-should-use-graphql-apis-in-your-next-project-k4l)
 - [Lifehacker] [You’re Promoting Yourself All Wrong on Social Media](https://lifehacker.com/you-re-promoting-yourself-all-wrong-on-social-media-1850096979)
 - [Lifehacker] [You&#39;re Burning Your Candles Wrong](https://lifehacker.com/youre-burning-your-candles-wrong-1850096693)
 - [Lifehacker] [25 of the Most Depressing Movies Ever Made](https://lifehacker.com/25-of-the-most-depressing-movies-ever-made-1850094135)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Use Obsidian As a Journaling App](https://lifehacker.com/why-you-should-use-obsidian-as-a-journaling-app-1850086690)
 - [Lifehacker] [Impress Everyone You Know With Caramelized Onion Bread](https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432)
 - [Lifehacker] [12 Everyday Dangers You Should Avoid at All Costs](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)
-- [Lifehacker] [8 Alternatives to Dining Out on Valentine’s Day](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)
-- [Lifehacker] [12 Unexpected Household Uses for Cling Wrap](https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219)
-- [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
-- [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 Alternatives to Dining Out on Valentine’s Day](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)<!-- TECH-POSTS:END -->
 
 ---
 
