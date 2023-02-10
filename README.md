@@ -23,14 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Your Children Drinking Borgs?](https://lifehacker.com/what-the-hell-are-borgs-1850097486)
+- [Dev.to/JS] [Start Menu: Windows Clone](https://dev.to/shreyaanp/start-menu-windows-clone-5792)
 - [Dev.to/JS] [Astro + Storyblok: SSR Tips and Tricks](https://dev.to/jgierer12/astro-storyblok-ssr-tips-and-tricks-3j2k)
 - [Dev.to/JS] [Astro + Storyblok: SSR preview for instant visual editing](https://dev.to/jgierer12/astro-storyblok-ssr-preview-for-instant-visual-editing-3g9m)
-- [Lifehacker] [You Can Add a Face ID Lock to Any iPhone App](https://lifehacker.com/you-can-add-a-face-id-lock-to-any-iphone-app-1850098069)
+- [Lifehacker] [You Can Add Face ID Lock to iPhone Apps That Don’t Support It](https://lifehacker.com/you-can-add-a-face-id-lock-to-any-iphone-app-1850098069)
 - [Dev.to/JS] [Glitch Monthly Newsletter: Twitter ending free API support, community blog posts, WebMIDI and more 🎵](https://dev.to/glitch/glitch-monthly-newsletter-twitter-ending-free-api-support-community-blog-posts-webmidi-and-more-2g2d)
 - [Dev.to/JS] [Challenge #2: 🏵 Token Vendor](https://dev.to/kevinjoshi46b/challenge-2-token-vendor-2565)
 - [Dev.to/JS] [Why you Should Use GraphQL APIs in your Next Project](https://dev.to/hackmamba/why-you-should-use-graphql-apis-in-your-next-project-k4l)
 - [Lifehacker] [You’re Promoting Yourself All Wrong on Social Media](https://lifehacker.com/you-re-promoting-yourself-all-wrong-on-social-media-1850096979)
-- [Dev.to/JS] [Trigger do evento submit fora do formulário sem a necesidade de javascript](https://dev.to/censuradho/trigger-do-evento-submit-fora-do-formulario-sem-a-necesidade-de-javascript-109j)
+- [Dev.to/JS] [Trigger do evento submit fora do formulário sem a necessidade de javascript](https://dev.to/censuradho/trigger-do-evento-submit-fora-do-formulario-sem-a-necesidade-de-javascript-109j)
 - [Dev.to/JS] [Why we Server Side Render Web Components](https://dev.to/begin/why-we-server-side-render-web-components-40f6)
 - [Dev.to/JS] [Email frameworks comparison in 2023](https://dev.to/marcin_codes/email-frameworks-comparison-in-2023-cd6)
 - [Lifehacker] [You&#39;re Burning Your Candles Wrong](https://lifehacker.com/youre-burning-your-candles-wrong-1850096693)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Most Depressing Movies Ever Made](https://lifehacker.com/25-of-the-most-depressing-movies-ever-made-1850094135)
 - [Dev.to/JS] [Learn Nuxt 3 — Full course for beginners [3 hours] 2023](https://dev.to/guillaumeduhan/learn-nuxt-3-full-course-for-beginners-3-hours-2023-56f1)
 - [Lifehacker] [Make Juicy, Flavorful Chicken by Marinating It in Olive Brine](https://lifehacker.com/make-juicy-flavorful-chicken-by-marinating-it-in-olive-1850096567)
-- [Dev.to/JS] [JS Polyfills - Part 6 Curry, Memoise and Generator Functions](https://dev.to/uttarasriya/js-polyfills-part-6-curry-memoise-and-generator-functions-1d71)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do After Realizing You’re ‘House Poor’](https://lifehacker.com/what-to-do-after-realizing-you-re-house-poor-1850088721)
 - [Lifehacker] [You Should Make Your Valentine a Kalimotxo](https://lifehacker.com/you-should-make-your-valentine-a-kalimotxo-1850088997)
 - [Lifehacker] [Don&#39;t Serve This Recalled Charcuterie Sausage at Your Super Bowl Party](https://lifehacker.com/dont-serve-this-recalled-charcuterie-sausage-at-your-su-1850089465)
-- [Lifehacker] [10 Wizarding Games You Can Play Instead of &#39;Hogwarts Legacy&#39;](https://lifehacker.com/10-wizarding-games-you-can-play-instead-of-hogwarts-leg-1850089265)
-- [Lifehacker] [You’re Cutting Into Your Baked Brie All Wrong](https://lifehacker.com/you-re-cutting-into-your-baked-brie-all-wrong-1850089023)
-- [Lifehacker] [This New Google Maps View Puts You in the Middle of Your Favorite City](https://lifehacker.com/this-new-google-maps-view-puts-you-in-the-middle-of-you-1850089257)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Wizarding Games You Can Play Instead of &#39;Hogwarts Legacy&#39;](https://lifehacker.com/10-wizarding-games-you-can-play-instead-of-hogwarts-leg-1850089265)<!-- TECH-POSTS:END -->
 
 ---
 
