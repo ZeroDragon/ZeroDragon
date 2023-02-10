@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello](https://dev.to/nhakhoadaisy/hello-4040)
+- [Dev.to/JS] [New Nuxt DevTools is mindblowing! 🤯](https://dev.to/michalkuncio/new-nuxt-devtools-is-mindblowing-4e7i)
+- [Dev.to/JS] [Mastering Scroll Position Restoration in Vue and Nuxt Projects](https://dev.to/core01/mastering-scroll-position-restoration-in-vue-and-nuxt-projects-2afb)
 - [Dev.to/JS] [Mastering JavaScript: A Journey Through the Top 5 GitHub Repositories](https://dev.to/thenomadevel/mastering-javascript-a-journey-through-the-top-5-github-repositories-1054)
 - [Dev.to/JS] [Crack Your Next Coding Interview with These Proven Preparation Strategies](https://dev.to/onlydevs_/crack-your-next-coding-interview-with-these-proven-preparation-strategies-5457)
 - [Dev.to/JS] [First of all, what is JSX?](https://dev.to/hidemichishimura/first-of-all-what-is-jsx-nml)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to check-uncheck all checkbox With jQuery](https://dev.to/dev14/how-to-check-uncheck-all-checkbox-with-jquery-34ff)
 - [Dev.to/JS] [JavaScript Array Methods Cheatsheet](https://dev.to/codeofrelevancy/javascript-array-methods-cheatsheet-4abn)
 - [Dev.to/JS] [🤔 Understanding the Differences: Shallow vs Deep Copies in JavaScript 💻🧐](https://dev.to/vasanthselvaraj/understanding-the-differences-shallow-vs-deep-copies-in-javascript-obg)
-- [Dev.to/JS] [3D Carousel Using HTML, CSS, and JavaScript](https://dev.to/prakashmishr2529/3d-carousel-using-html-css-and-javascript-5e5g)
-- [Dev.to/JS] [A first foray into POST/PATCH](https://dev.to/ccarlson249/a-first-foray-into-postpatch-28a1)
-- [Dev.to/JS] [Why REST API ?](https://dev.to/kherkatary/why-rest-api--28o9)
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
