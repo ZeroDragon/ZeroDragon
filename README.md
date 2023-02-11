@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to handle different types of data in React](https://dev.to/syedateeq160/how-to-handle-different-types-of-data-in-react-5g69)
+- [Dev.to/JS] [Music Landing Page Website Design using Html CSS &amp; Javascript](https://dev.to/webmonster/music-landing-page-website-design-using-html-css-javascript-27gf)
+- [Dev.to/JS] [How to Make a Reusable Function that Removes Duplicates](https://dev.to/mitchelln11/how-to-make-a-reusable-function-that-removes-duplicates-52id)
+- [Dev.to/JS] [Difference between Promises and Observables](https://dev.to/jahid6597/difference-between-promises-and-observables-2a2p)
 - [Dev.to/JS] [LeetCode - Merge Nodes in Between Zeros](https://dev.to/_alkesh26/leetcode-merge-nodes-in-between-zeros-14fd)
 - [Dev.to/JS] [Fastest way to unleash the full power of i18next](https://dev.to/adrai/fastest-way-to-unleash-the-full-power-of-i18next-3bbm)
 - [Dev.to/JS] [Data Structure in JavaScript](https://dev.to/srishtikprasad/data-structure-in-javascript-43kl)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner’s Guide to Building User Interfaces with React.js: Understanding, Comparison, Advantages, and Getting Started](https://dev.to/imran_1997/a-beginners-guide-to-building-user-interfaces-with-reactjs-understanding-comparison-advantages-and-getting-started-3nm2)
 - [Dev.to/JS] [How to use Google Sheets with Nuxt 3](https://dev.to/edwardzzz/how-to-use-google-sheets-with-nuxt-3-1pn9)
 - [Dev.to/JS] [Chedoku, a chess/sudoku based puzzle game](https://dev.to/chedoku/chedoku-a-chesssudoku-based-puzzle-game-369k)
-- [Dev.to/JS] [React State Management Survey](https://dev.to/larsdanau/react-state-management-survey-5h0p)
-- [Dev.to/JS] [React Pro Tips - How to Write High Quality Code Like a Pro](https://dev.to/acidop/react-pro-tips-how-to-write-high-quality-code-like-a-pro-41fb)
-- [Dev.to/JS] [How to stand out as a front-end developer.](https://dev.to/muhammadshakirdev/how-to-stand-out-as-a-front-end-developer-10a)
-- [Dev.to/JS] [JavaScript String includes&lpar;&rpar;](https://dev.to/xerosource01/javascript-string-includes-40k6)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
