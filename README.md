@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What templating engine/framework do you use?](https://dev.to/rohmishra/what-templating-engineframework-do-you-use-4aim)
 - [Dev.to/JS] [NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
 - [Dev.to/JS] [[Watch] Angus Design System in action](https://dev.to/jared201/watch-angus-design-system-in-action-3nlb)
 - [Dev.to/JS] [Merge Sort](https://dev.to/986913/merge-sort-5hlm)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variable Declarations in JavaScript](https://dev.to/catherineisonline/variable-declarations-in-javascript-1915)
 - [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)
 - [Dev.to/JS] [Creating a Memory Card Game with HTML, CSS, and JavaScript](https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1)
-- [Dev.to/JS] [The Complete Guide to User Authentication in Firebase](https://dev.to/sammaji15/the-complete-guide-to-user-authentication-in-firebase-33i1)
 - [Lifehacker] [When and How to Take a Weed &#39;Tolerance Break&#39;](https://lifehacker.com/when-and-how-to-take-a-weed-tolerance-break-1850100393)
 - [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)
 - [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)
