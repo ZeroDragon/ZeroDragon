@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Data Structure: Array Pt:1](https://dev.to/cleveroscar/javascript-data-structure-array-pt1-4eja)
+- [Dev.to/JS] [Widely Used JavaScript Data Structures](https://dev.to/cleveroscar/widely-used-javascript-data-structures-4jpf)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;11-02-2023&rpar; - Just Another TBD](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-02-2023-just-another-tbd-c3e)
 - [Dev.to/JS] [Building a Secure JWT Server with Node.js and jsonwebtoken](https://dev.to/knitesh/building-a-secure-jwt-server-with-nodejs-and-jsonwebtoken-2l32)
 - [Dev.to/JS] [簡單的網頁截圖功能 - DOM to Image](https://dev.to/letswrite/jian-dan-de-wang-ye-jie-tu-gong-neng-dom-to-image-2h8d)
 - [Dev.to/JS] [Default exports &amp; Name exports](https://dev.to/moazamdev/default-exports-name-exports-264)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
 - [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
-- [Dev.to/JS] [New Release of ReductStore JavaScript SDK v1.3.0](https://dev.to/reductstore/new-release-of-reductstore-javascript-sdk-v130-1f3f)
 - [Lifehacker] [Two Things You Should Do to Impress Your Valentine&#39;s Dinner Date](https://lifehacker.com/two-things-you-should-do-to-impress-your-valentines-din-1850101185)
-- [Dev.to/JS] [Why using AXIOS with Typescript?](https://dev.to/limacodes/why-using-axios-with-typescript-1fnj)
 - [Lifehacker] [If You Really Love Your Valentine, Buy Them Candy From the Office Supply Store](https://lifehacker.com/if-you-really-love-your-valentine-buy-them-candy-from-1850100792)
-- [Dev.to/JS] [Better Folding✨ - All you ever wished from VSCode folding.](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
 - [Lifehacker] [You Can Pre-Order ‘The Legend of Zelda: Tears of the Kingdom’ for $20 Off](https://lifehacker.com/you-can-pre-order-the-legend-of-zelda-tears-of-the-ki-1850100462)
 - [Lifehacker] [How to Avoid the Nasty Norovirus Stomach Bug](https://lifehacker.com/how-to-avoid-the-nasty-norovirus-stomach-bug-1850100701)
 - [Lifehacker] [19 Food and Beverage Brands I’m Fiercely Loyal To](https://lifehacker.com/19-food-and-beverage-brands-i-m-fiercely-loyal-to-1850095917)
