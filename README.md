@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
+- [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
 - [Dev.to/JS] [New Release of ReductStore JavaScript SDK v1.3.0](https://dev.to/reductstore/new-release-of-reductstore-javascript-sdk-v130-1f3f)
 - [Lifehacker] [Two Things You Should Do to Impress Your Valentine&#39;s Dinner Date](https://lifehacker.com/two-things-you-should-do-to-impress-your-valentines-din-1850101185)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)
 - [Lifehacker] [You Should Add a Banana to Your French Toast Batter](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)
 - [Lifehacker] [Here Are the 200 Bed Bath &amp; Beyond Stores About to Close Soon](https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080)
-- [Lifehacker] [These Awesome PC Games Are $5 or Less Right Now](https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709)
-- [Lifehacker] [Dutch Doors, Laundry Chutes, and Other Old-Fashioned Home Features You Should Still Use Today](https://lifehacker.com/dutch-doors-laundry-chutes-and-other-old-fashioned-ho-1850094601)
-- [Lifehacker] [Make This Quick Thai Banana Roti Immediately](https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Awesome PC Games Are $5 or Less Right Now](https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709)<!-- TECH-POSTS:END -->
 
 ---
 
