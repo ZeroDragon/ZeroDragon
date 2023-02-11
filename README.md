@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Npm vs Yarn: What Should you use for managing packages in React?](https://dev.to/darkxenium/npm-vs-yarn-what-should-you-use-for-managing-packages-in-react-2332)
+- [Dev.to/JS] [What are portals in React?](https://dev.to/codeofrelevancy/what-are-portals-in-react-eb)
 - [Dev.to/JS] [How to create custom node shapes in G6/Graphin](https://dev.to/romulorod/how-to-create-custom-node-shapes-in-g6graphin-3ob)
 - [Dev.to/JS] [Decoding the Evolving Landscape of Web Development](https://dev.to/zenstack/decoding-the-evolving-landscape-of-web-development-3b65)
 - [Dev.to/JS] [Using Vue 2 component in Astro, not Vue3 .... is it possible?](https://dev.to/ktmouk/use-astro-with-vue-2x-not-3x-is-it-possible-19m6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Widely Used JavaScript Data Structures](https://dev.to/cleveroscar/widely-used-javascript-data-structures-4jpf)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;11-02-2023&rpar; - Just Another TBD](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-02-2023-just-another-tbd-c3e)
 - [Dev.to/JS] [Building a Secure JWT Server with Node.js and jsonwebtoken](https://dev.to/knitesh/building-a-secure-jwt-server-with-nodejs-and-jsonwebtoken-2l32)
-- [Dev.to/JS] [簡單的網頁截圖功能 - DOM to Image](https://dev.to/letswrite/jian-dan-de-wang-ye-jie-tu-gong-neng-dom-to-image-2h8d)
-- [Dev.to/JS] [Default exports &amp; Name exports](https://dev.to/moazamdev/default-exports-name-exports-264)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
 - [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
