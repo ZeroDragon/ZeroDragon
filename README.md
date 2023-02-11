@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Dev.to/JS] [Debounce onChange callback using a custom React hook](https://dev.to/losnikitos/debounce-onchange-callback-using-a-custom-react-hook-1667)
 - [Dev.to/JS] [Why useeffect is running twice in react](https://dev.to/jahid6597/why-useeffect-is-running-twice-in-react-18c6)
 - [Dev.to/JS] [Npm vs Yarn: What Should you use for managing packages in React?](https://dev.to/darkxenium/npm-vs-yarn-what-should-you-use-for-managing-packages-in-react-2332)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)
 - [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)
 - [Lifehacker] [You Should Add a Banana to Your French Toast Batter](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)
-- [Lifehacker] [Here Are the 200 Bed Bath &amp; Beyond Stores About to Close Soon](https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080)
-- [Lifehacker] [These Awesome PC Games Are $5 or Less Right Now](https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here Are the 200 Bed Bath &amp; Beyond Stores About to Close Soon](https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080)<!-- TECH-POSTS:END -->
 
 ---
 
