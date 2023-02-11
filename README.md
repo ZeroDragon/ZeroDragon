@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Phase 1 Blog](https://dev.to/helenate/phase-1-blog-2dgn)
+- [Dev.to/JS] [Shaka Player for media playback - implementation, use cases, pros and cons](https://dev.to/vanyaxk/shaka-player-for-media-playback-implementation-use-cases-pros-and-cons-3b87)
+- [Dev.to/JS] [JavaScript promises are simple 👌](https://dev.to/ayanabilothman/javascript-promises-are-simple-3hfp)
+- [Dev.to/JS] [Write promises chaining using async/await.](https://dev.to/ayanabilothman/write-promises-chaining-using-asyncawait-3b1m)
+- [Dev.to/JS] [Use APIs the write way](https://dev.to/limacodes/use-apis-the-write-way-3flf)
 - [Dev.to/JS] [how to make a blog in nuxt js quickly](https://dev.to/slimpython/how-to-make-a-blog-in-nuxt-js-quickly-3d1a)
 - [Dev.to/JS] [Ruby/Rails Hash.to_s. Why?, Where is String.to_h?](https://dev.to/salex/rubyrails-hashtos-why-where-is-stringtoh-4631)
 - [Dev.to/JS] [Decoding JS: Polyfills and Transpilers](https://dev.to/harshitakanal/decoding-js-polyfills-and-transpilers-3b87)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to handle different types of data in React](https://dev.to/syedateeq160/how-to-handle-different-types-of-data-in-react-5g69)
 - [Dev.to/JS] [Music Landing Page Website Design using Html CSS &amp; Javascript](https://dev.to/webmonster/music-landing-page-website-design-using-html-css-javascript-27gf)
 - [Dev.to/JS] [How to Make a Reusable Function that Removes Duplicates](https://dev.to/mitchelln11/how-to-make-a-reusable-function-that-removes-duplicates-52id)
-- [Dev.to/JS] [Difference between Promises and Observables](https://dev.to/jahid6597/difference-between-promises-and-observables-2a2p)
-- [Dev.to/JS] [LeetCode - Merge Nodes in Between Zeros](https://dev.to/_alkesh26/leetcode-merge-nodes-in-between-zeros-14fd)
-- [Dev.to/JS] [Fastest way to unleash the full power of i18next](https://dev.to/adrai/fastest-way-to-unleash-the-full-power-of-i18next-3bbm)
-- [Dev.to/JS] [Data Structure in JavaScript](https://dev.to/srishtikprasad/data-structure-in-javascript-43kl)
-- [Dev.to/JS] [Making a Real Impact: A Guide to Contributing to Open Source](https://dev.to/haszankauna/making-a-real-impact-a-guide-tocontributing-to-open-source-4ldl)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
