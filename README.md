@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Our Journey In The Open Source World - cache-candidate-plugin-invalidate-function](https://dev.to/cadienvan/our-journey-in-the-open-source-world-cache-candidate-plugin-invalidate-function-3ij)
 - [Dev.to/JS] [How to use Google Sheets with Nuxt 3](https://dev.to/edwardzzz/how-to-use-google-sheets-with-nuxt-3-1pn9)
 - [Dev.to/JS] [Chedoku, a chess/sudoku based puzzle game](https://dev.to/chedoku/chedoku-a-chesssudoku-based-puzzle-game-369k)
 - [Dev.to/JS] [React State Management Survey](https://dev.to/larsdanau/react-state-management-survey-5h0p)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do we really need HTML?](https://dev.to/efpage/do-we-really-need-html-5efl)
 - [Dev.to/JS] [Ternary if in javaScript](https://dev.to/marcoperth/ternary-if-in-javascript-5e3d)
 - [Dev.to/JS] [JavaScript Tutorial Series: Boolean Logic and Conditionals](https://dev.to/fullstackjo/javascript-tutorial-series-boolean-logic-and-conditionals-2nnm)
-- [Dev.to/JS] [Detecting clicks outside an HTML element using the custom React Hook](https://dev.to/hat52/detecting-clicks-outside-an-html-element-using-the-custom-react-hook-4314)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
 - [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
