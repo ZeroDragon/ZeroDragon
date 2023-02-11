@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Variables in Rust - Rust for TypeScript Developers](https://dev.to/20jasper/variables-in-rust-rust-for-typescript-developers-58ek)
+- [Dev.to/JS] [Pure CSS3 Robot with JS Clocks](https://dev.to/w7freedownload/pure-css3-robot-with-js-clocks-do3)
 - [Dev.to/JS] [JavaScript Data Structure: Array Pt:1](https://dev.to/cleveroscar/javascript-data-structure-array-pt1-4eja)
 - [Dev.to/JS] [Widely Used JavaScript Data Structures](https://dev.to/cleveroscar/widely-used-javascript-data-structures-4jpf)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;11-02-2023&rpar; - Just Another TBD](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-02-2023-just-another-tbd-c3e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What templating engine/framework do you use?](https://dev.to/rohmishra/what-templating-engineframework-do-you-use-4aim)
 - [Dev.to/JS] [NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
 - [Dev.to/JS] [[Watch] Angus Design System in action](https://dev.to/jared201/watch-angus-design-system-in-action-3nlb)
-- [Dev.to/JS] [Merge Sort](https://dev.to/986913/merge-sort-5hlm)
-- [Dev.to/JS] [Getting started with Hardhat](https://dev.to/ayaaneth/getting-started-with-hardhat-17fe)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
 - [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
