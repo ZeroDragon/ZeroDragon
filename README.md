@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [how to make a blog in nuxt js quickly](https://dev.to/slimpython/how-to-make-a-blog-in-nuxt-js-quickly-3d1a)
+- [Dev.to/JS] [Ruby/Rails Hash.to_s. Why?, Where is String.to_h?](https://dev.to/salex/rubyrails-hashtos-why-where-is-stringtoh-4631)
+- [Dev.to/JS] [Decoding JS: Polyfills and Transpilers](https://dev.to/harshitakanal/decoding-js-polyfills-and-transpilers-3b87)
+- [Dev.to/JS] [Getting Started with React.js: A Comprehensive Guide for Beginners](https://dev.to/haszankauna/getting-started-with-reactjs-a-comprehensive-guidefor-beginners-3bp2)
 - [Dev.to/JS] [How to handle different types of data in React](https://dev.to/syedateeq160/how-to-handle-different-types-of-data-in-react-5g69)
 - [Dev.to/JS] [Music Landing Page Website Design using Html CSS &amp; Javascript](https://dev.to/webmonster/music-landing-page-website-design-using-html-css-javascript-27gf)
 - [Dev.to/JS] [How to Make a Reusable Function that Removes Duplicates](https://dev.to/mitchelln11/how-to-make-a-reusable-function-that-removes-duplicates-52id)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fastest way to unleash the full power of i18next](https://dev.to/adrai/fastest-way-to-unleash-the-full-power-of-i18next-3bbm)
 - [Dev.to/JS] [Data Structure in JavaScript](https://dev.to/srishtikprasad/data-structure-in-javascript-43kl)
 - [Dev.to/JS] [Making a Real Impact: A Guide to Contributing to Open Source](https://dev.to/haszankauna/making-a-real-impact-a-guide-tocontributing-to-open-source-4ldl)
-- [Dev.to/JS] [Our Journey In The Open Source World - cache-candidate-plugin-invalidate-function](https://dev.to/cadienvan/our-journey-in-the-open-source-world-cache-candidate-plugin-invalidate-function-3ij)
-- [Dev.to/JS] [A Beginner’s Guide to Building User Interfaces with React.js: Understanding, Comparison, Advantages, and Getting Started](https://dev.to/imran_1997/a-beginners-guide-to-building-user-interfaces-with-reactjs-understanding-comparison-advantages-and-getting-started-3nm2)
-- [Dev.to/JS] [How to use Google Sheets with Nuxt 3](https://dev.to/edwardzzz/how-to-use-google-sheets-with-nuxt-3-1pn9)
-- [Dev.to/JS] [Chedoku, a chess/sudoku based puzzle game](https://dev.to/chedoku/chedoku-a-chesssudoku-based-puzzle-game-369k)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
