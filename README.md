@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
+- [Dev.to/JS] [[Watch] Angus Design System in action](https://dev.to/jared201/watch-angus-design-system-in-action-3nlb)
+- [Dev.to/JS] [Merge Sort](https://dev.to/986913/merge-sort-5hlm)
+- [Dev.to/JS] [Getting started with Hardhat](https://dev.to/ayaaneth/getting-started-with-hardhat-17fe)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
 - [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
@@ -40,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)
 - [Dev.to/JS] [Creating a Memory Card Game with HTML, CSS, and JavaScript](https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1)
 - [Dev.to/JS] [The Complete Guide to User Authentication in Firebase](https://dev.to/sammaji15/the-complete-guide-to-user-authentication-in-firebase-33i1)
-- [Dev.to/JS] [Simplifying jest stubs using jest-when](https://dev.to/trikitrok/simplifying-jest-stubs-using-jest-when-4jk6)
 - [Lifehacker] [When and How to Take a Weed &#39;Tolerance Break&#39;](https://lifehacker.com/when-and-how-to-take-a-weed-tolerance-break-1850100393)
-- [Dev.to/JS] [Challenge #3: 🎲 Dice Game](https://dev.to/kevinjoshi46b/challenge-3-dice-game-16lb)
-- [Dev.to/JS] [Deploy Node.js to EC2](https://dev.to/konstantinstanmeyer/deploy-nodejs-to-ec2-3gag)
-- [Dev.to/JS] [9 more Javascript Array methods](https://dev.to/zuzexx/9-more-javascript-array-methods-354n)
 - [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)
 - [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)
 - [Lifehacker] [Get Free Wendy&#39;s Jr. Bacon Cheeseburgers Until Sunday](https://lifehacker.com/get-free-wendys-jr-bacon-cheeseburgers-until-sunday-1850099608)
