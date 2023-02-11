@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Secure JWT Server with Node.js and jsonwebtoken](https://dev.to/knitesh/building-a-secure-jwt-server-with-nodejs-and-jsonwebtoken-2l32)
+- [Dev.to/JS] [簡單的網頁截圖功能 - DOM to Image](https://dev.to/letswrite/jian-dan-de-wang-ye-jie-tu-gong-neng-dom-to-image-2h8d)
+- [Dev.to/JS] [Default exports &amp; Name exports](https://dev.to/moazamdev/default-exports-name-exports-264)
+- [Dev.to/JS] [PeerLink : Messaging and video calling app built with Express, Node, Peer.js, Socket.io, and MongoDB.](https://dev.to/rahulreddy_001/peerlink-messaging-and-video-calling-app-built-with-express-node-peerjs-socketio-and-mongodb-3jj2)
 - [Dev.to/JS] [What templating engine/framework do you use?](https://dev.to/rohmishra/what-templating-engineframework-do-you-use-4aim)
 - [Dev.to/JS] [NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
 - [Dev.to/JS] [[Watch] Angus Design System in action](https://dev.to/jared201/watch-angus-design-system-in-action-3nlb)
@@ -37,13 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [If You Really Love Your Valentine, Buy Them Candy From the Office Supply Store](https://lifehacker.com/if-you-really-love-your-valentine-buy-them-candy-from-1850100792)
 - [Dev.to/JS] [Better Folding✨ - All you ever wished from VSCode folding.](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
 - [Lifehacker] [You Can Pre-Order ‘The Legend of Zelda: Tears of the Kingdom’ for $20 Off](https://lifehacker.com/you-can-pre-order-the-legend-of-zelda-tears-of-the-ki-1850100462)
-- [Dev.to/JS] [The top 10 features of Total.js Flow](https://dev.to/petersirka/the-top-10-features-of-totaljs-flow-598c)
 - [Lifehacker] [How to Avoid the Nasty Norovirus Stomach Bug](https://lifehacker.com/how-to-avoid-the-nasty-norovirus-stomach-bug-1850100701)
-- [Dev.to/JS] [What You Need to Know About Being a Java Developer](https://dev.to/kinsta/what-you-need-to-know-about-being-a-java-developer-3oe0)
 - [Lifehacker] [19 Food and Beverage Brands I’m Fiercely Loyal To](https://lifehacker.com/19-food-and-beverage-brands-i-m-fiercely-loyal-to-1850095917)
-- [Dev.to/JS] [Variable Declarations in JavaScript](https://dev.to/catherineisonline/variable-declarations-in-javascript-1915)
 - [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)
-- [Dev.to/JS] [Creating a Memory Card Game with HTML, CSS, and JavaScript](https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1)
 - [Lifehacker] [When and How to Take a Weed &#39;Tolerance Break&#39;](https://lifehacker.com/when-and-how-to-take-a-weed-tolerance-break-1850100393)
 - [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)
 - [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)
