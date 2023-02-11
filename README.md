@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hey Everyone,Suggest me some free hosting platforms.](https://dev.to/gauravsingh1281/hey-everyonesuggest-me-some-free-hosting-platforms-a79)
 - [Dev.to/JS] [Do we really need HTML?](https://dev.to/efpage/do-we-really-need-html-5efl)
 - [Dev.to/JS] [Ternary if in javaScript](https://dev.to/marcoperth/ternary-if-in-javascript-5e3d)
 - [Dev.to/JS] [JavaScript Tutorial Series: Boolean Logic and Conditionals](https://dev.to/fullstackjo/javascript-tutorial-series-boolean-logic-and-conditionals-2nnm)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debounce onChange callback using a custom React hook](https://dev.to/losnikitos/debounce-onchange-callback-using-a-custom-react-hook-1667)
 - [Dev.to/JS] [Why useeffect is running twice in react](https://dev.to/jahid6597/why-useeffect-is-running-twice-in-react-18c6)
 - [Dev.to/JS] [Npm vs Yarn: What Should you use for managing packages in React?](https://dev.to/darkxenium/npm-vs-yarn-what-should-you-use-for-managing-packages-in-react-2332)
-- [Dev.to/JS] [What are portals in React?](https://dev.to/codeofrelevancy/what-are-portals-in-react-eb)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
 - [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
