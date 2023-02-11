@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Google Sheets with Nuxt 3](https://dev.to/edwardzzz/how-to-use-google-sheets-with-nuxt-3-1pn9)
+- [Dev.to/JS] [Chedoku, a chess/sudoku based puzzle game](https://dev.to/chedoku/chedoku-a-chesssudoku-based-puzzle-game-369k)
+- [Dev.to/JS] [React State Management Survey](https://dev.to/larsdanau/react-state-management-survey-5h0p)
+- [Dev.to/JS] [React Pro Tips - How to Write High Quality Code Like a Pro](https://dev.to/acidop/react-pro-tips-how-to-write-high-quality-code-like-a-pro-41fb)
+- [Dev.to/JS] [How to stand out as a front-end developer.](https://dev.to/muhammadshakirdev/how-to-stand-out-as-a-front-end-developer-10a)
+- [Dev.to/JS] [JavaScript String includes&lpar;&rpar;](https://dev.to/xerosource01/javascript-string-includes-40k6)
+- [Dev.to/JS] [Upgrade TinyMCE to v6 in Rails/Stimulus](https://dev.to/djchadderton/upgrade-tinymce-to-v6-in-railsstimulus-1c1e)
+- [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Dev.to/JS] [Hey Everyone,Suggest me some free hosting platforms.](https://dev.to/gauravsingh1281/hey-everyonesuggest-me-some-free-hosting-platforms-a79)
 - [Dev.to/JS] [Do we really need HTML?](https://dev.to/efpage/do-we-really-need-html-5efl)
 - [Dev.to/JS] [Ternary if in javaScript](https://dev.to/marcoperth/ternary-if-in-javascript-5e3d)
 - [Dev.to/JS] [JavaScript Tutorial Series: Boolean Logic and Conditionals](https://dev.to/fullstackjo/javascript-tutorial-series-boolean-logic-and-conditionals-2nnm)
 - [Dev.to/JS] [Detecting clicks outside an HTML element using the custom React Hook](https://dev.to/hat52/detecting-clicks-outside-an-html-element-using-the-custom-react-hook-4314)
-- [Dev.to/JS] [How I Created a Trending Github Repository and Got 100+ Stars](https://dev.to/yashash_pugalia/how-i-created-a-trending-github-repository-and-got-100-stars-219j)
-- [Dev.to/JS] [Making the Navbar component](https://dev.to/michthebrandofficial/making-the-navbar-component-945)
-- [Dev.to/JS] [React Hooks by Example - Part 2](https://dev.to/espelar-dev/react-hooks-by-example-part-2-40a3)
-- [Dev.to/JS] [THE WILLPOWER YOU NEED AS A JUNIOR DEVELOPER.](https://dev.to/millie_ace/the-willpower-you-need-as-a-junior-developer-3n34)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
-- [Dev.to/JS] [Debounce onChange callback using a custom React hook](https://dev.to/losnikitos/debounce-onchange-callback-using-a-custom-react-hook-1667)
-- [Dev.to/JS] [Why useeffect is running twice in react](https://dev.to/jahid6597/why-useeffect-is-running-twice-in-react-18c6)
-- [Dev.to/JS] [Npm vs Yarn: What Should you use for managing packages in React?](https://dev.to/darkxenium/npm-vs-yarn-what-should-you-use-for-managing-packages-in-react-2332)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
 - [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
 - [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)
 - [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)
-- [Lifehacker] [You Should Add a Banana to Your French Toast Batter](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)
-- [Lifehacker] [Here Are the 200 Bed Bath &amp; Beyond Stores About to Close Soon](https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Add a Banana to Your French Toast Batter](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)<!-- TECH-POSTS:END -->
 
 ---
 
