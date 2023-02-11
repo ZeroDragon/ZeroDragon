@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create custom node shapes in G6/Graphin](https://dev.to/romulorod/how-to-create-custom-node-shapes-in-g6graphin-3ob)
+- [Dev.to/JS] [Decoding the Evolving Landscape of Web Development](https://dev.to/zenstack/decoding-the-evolving-landscape-of-web-development-3b65)
+- [Dev.to/JS] [Using Vue 2 component in Astro, not Vue3 .... is it possible?](https://dev.to/ktmouk/use-astro-with-vue-2x-not-3x-is-it-possible-19m6)
 - [Dev.to/JS] [ChatGPT használata komplex fantasy történetek és program tartalmak létrehozására](https://dev.to/pengeszikra/chatgpt-hasznalata-komplex-fantasy-tortenetek-es-program-tartalmak-letrehozasara-2hh8)
 - [Dev.to/JS] [Variables in Rust - Rust for TypeScript Developers](https://dev.to/20jasper/variables-in-rust-rust-for-typescript-developers-58ek)
 - [Dev.to/JS] [Pure CSS3 Robot with JS Clocks](https://dev.to/w7freedownload/pure-css3-robot-with-js-clocks-do3)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Secure JWT Server with Node.js and jsonwebtoken](https://dev.to/knitesh/building-a-secure-jwt-server-with-nodejs-and-jsonwebtoken-2l32)
 - [Dev.to/JS] [簡單的網頁截圖功能 - DOM to Image](https://dev.to/letswrite/jian-dan-de-wang-ye-jie-tu-gong-neng-dom-to-image-2h8d)
 - [Dev.to/JS] [Default exports &amp; Name exports](https://dev.to/moazamdev/default-exports-name-exports-264)
-- [Dev.to/JS] [PeerLink : Messaging and video calling app built with Express, Node, Peer.js, Socket.io, and MongoDB.](https://dev.to/rahulreddy_001/peerlink-messaging-and-video-calling-app-built-with-express-node-peerjs-socketio-and-mongodb-3jj2)
-- [Dev.to/JS] [What templating engine/framework do you use?](https://dev.to/rohmishra/what-templating-engineframework-do-you-use-4aim)
-- [Dev.to/JS] [NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
 - [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
